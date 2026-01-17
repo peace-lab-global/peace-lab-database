@@ -1,184 +1,196 @@
 # Holistic Healing Knowledge Base (身心疗愈知识库)
 
-这是一个全面的、多维度的身心疗愈知识库，涵盖了瑜伽、冥想、心理学以及多种现代与传统疗愈手段。内容主要以中文呈现，并保留了专业的物理学、医学及心理学英文术语，以确保学术严谨性。
+这是一个专业的、多维度的身心疗愈知识体系，跨越地理与时代的界限，整合了古代智慧与现代科学。项目通过严谨的表格化结构，系统梳理了瑜伽、禅宗、道家、心理学及各类生物与艺术疗愈手段。
 
 ---
 
-## 快速导航 (Navigation Index)
+## 🧭 核心索引 (Primary Index)
+*按专业领域与学科领域分类 (Classified by Professional Domain)*
 
-### 🧘‍♂️ 瑜伽 (Yoga)
-- [瑜伽哲学与概念](merged_tables/Yoga_Philosophy.md): 瑜伽经核心概念、八支瑜伽、脉轮系统等。
-- [体式与呼吸](merged_tables/Yoga_Asana_Pranayama.md): 核心体式分类与益处、调息技术、手印与收束法。
-- [解剖与生理](merged_tables/Yoga_Anatomy_Physiology.md): 肌肉骨骼系统、多迷走神经理论、禁忌与变体。
-- [瑜伽理疗](merged_tables/Yoga_Therapy.md): 心理健康、慢性疼痛、创伤敏感瑜伽原则。
-- [历史与传统](merged_tables/Yoga_History_Tradition.md): 传承流派、历史文本演变、师徒传统。
-- [资源推荐](merged_tables/Yoga_Resources.md): 核心书籍、杂志与在线资源。
+### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions)
+**描述 (Description):** 涵盖古典瑜伽哲学、体式解剖、呼吸能量控制及临床理疗。
+*Categories: Yoga Sutras, Pranayama (调息 - *Prāṇāyāma*), Asanas (体式 - *Āsana*), Chakras (脉轮 - *Cakra*).*
 
-### 🧘‍♀️ 冥想与禅修 (Meditation & Zen)
-- [核心概念与基础](merged_tables/Meditation_Core.md): 觉察、观息、慈心禅、姿势与呼吸技巧。
-- [职场与实践应用](merged_tables/Meditation_Applications.md): 职场案例、领导力应用、创意突破。
-- [学习资源](merged_tables/Meditation_Resources.md): 禅修必读书籍、流派推荐。
+- [瑜伽哲学与概念 (Yoga Philosophy)](tables/Yoga_Philosophy.md)
+- [瑜伽经深度哲学解析 (Yoga Sutra Deep Dive)](tables/Yoga_Sutra_Philosophical_Deep_Dive.md)
+- [体式与呼吸 (Asanas & Pranayama)](tables/Yoga_Asana_Pranayama.md)
+- [高阶克里亚与昆达里尼 (Advanced Kriya & Kundalini)](tables/Yoga_Advanced_Kriya_Kundalini.md)
+- [解剖与生理 (Anatomy & Physiology)](tables/Yoga_Anatomy_Physiology.md)
+- [瑜伽理疗 (Yoga Therapy)](tables/Yoga_Therapy.md)
+- [瑜伽理疗与阿育吠陀整合 (Ayurvedic Therapy Integration)](tables/Yoga_Ayurvedic_Therapy_Integration.md)
+- [历史与传统传承 (History & Lineage)](tables/Yoga_History_Tradition.md)
+- [专业学习资源 (Yoga Resources)](tables/Yoga_Resources.md)
 
-### 🧘‍♂️ 禅宗 (Zen - 深度专区)
-- [智慧与传承](merged_tables/Zen_Wisdom_Lineage.md): 历史脉络、核心哲学（空性/如来藏）、经典文献。
-- [实践技术](merged_tables/Zen_Practice_Methodology.md): 坐禅技术、只管打坐、看话禅/公案、经行。
-- [觉悟阶次](merged_tables/Zen_Enlightenment_Stages.md): 十牛图详解、见性与悟、跨传统觉悟地图。
-- [丛林规制](merged_tables/Zen_Monastic_Rituals.md): 典座与执事、作务禅、应量器（钵多罗）规制、摄心日程。
-- [美学与当代](merged_tables/Zen_Aesthetics_Culture.md): 禅意七原则（侘寂/幽玄）、禅宗艺术（茶/园/画）、现代科学整合。
+### 2. 🏮 禅宗与东亚静修 (Zen & East Asian Contemplation)
+**描述 (Description):** 探索中国与日本禅宗的修行逻辑、觉悟阶次及禅意美学。
+*Categories: Zazen (坐禅 - *Zazen*), Koans (公案 - *Kōan*), Satori (见性/悟 - *Satori*), Mushin (无心 - *Mushin*).*
 
-### ☯️ 道家 (Dao - 深度专区)
-- [哲学与宇宙观](merged_tables/Dao_Philosophy_Cosmology.md): 道德经/庄子核心哲学、无极/太极模型、柔弱胜刚强智略。
-- [内丹修持](merged_tables/Dao_Internal_Alchemy_Neidan.md): 精气神三宝、炼精化气、内丹阶段、小周天/丹田系统。
-- [养生与气功](merged_tables/Dao_Health_Yangsheng_Qigong.md): 顺时养生、五禽戏/八段锦、辟谷技术、子午流注钟。
-- [宗派与传承](merged_tables/Dao_Lineage_Ritual_Tradition.md): 正一与全真流派、武当/终南名山、符箓/仪式隐喻。
-- [美学与现代](merged_tables/Dao_Aesthetics_Modern_Life.md): 虚静/气韵美学、道系领导力（无为而治）、生态道家、职场止损指南。
+- [禅宗智慧与传承 (Zen Wisdom)](tables/Zen_Wisdom_Lineage.md)
+- [五家七宗：各家宗风详辨 (Five Houses & Seven Schools)](tables/Zen_Five_Houses_Lineage.md)
+- [实践技术与法要 (Practice Methodology)](tables/Zen_Practice_Methodology.md)
+- [禅宗公案机锋学 (Koan Anthropology)](tables/Zen_Koan_Anthropology.md)
+- [觉悟阶次与地图 (Enlightenment Stages)](tables/Zen_Enlightenment_Stages.md)
+- [禅宗神经科学与心理学 (Zen Neuroscience)](tables/Zen_Neuroscience_Psychology.md)
+- [日常生活中的禅修行 (Daily Life Practice)](tables/Zen_Daily_Life_Practice.md)
+- [禅宗经典深度解析 (Zen Sutras In Depth)](tables/Zen_Sutras_In_Depth.md)
+- [丛林规制与仪轨 (Monastic Rituals)](tables/Zen_Monastic_Rituals.md)
+- [禅宗美学与现代整合 (Aesthetics & Modernity)](tables/Zen_Aesthetics_Culture.md)
 
-### 🧠 心理学 (Psychology)
-- [核心理论与实验](merged_tables/Psychology_Theories_Experiments.md): 精神分析、行为主义、经典心理学实验、概念演变。
-- [情感与韧性](merged_tables/Psychology_Emotion.md): 压力管理、幸福干预、职业倦怠、韧性构建。
-- [发展与人格](merged_tables/Psychology_Development.md): 发展阶段论、道德原则、人格评估工具。
-- [认知与神经](merged_tables/Psychology_Cognition.md): 认知偏差、神经可塑性、记忆技巧。
-- [社会与关系](merged_tables/Psychology_Social.md): 跨文化视角、关系动态、领导风格。
-- [实践应用案例](merged_tables/Psychology_Applications.md): 职场危机案例、冷暴力应对、冒充者综合症。
-- [书籍与自助资源](merged_tables/Psychology_General_Resources.md): 经典著作、自助推荐。
+### 3. ☯️ 道家智慧与内丹 (Daoist Wisdom & Internal Alchemy)
+**描述 (Description):** 融合宇宙观、丹道修持、传统养生与无为领导力。
+*Categories: Neidan (内丹 - *Nèidān*), Wu Wei (无为 - *Wúwéi*), Qi (气/炁 - *Qì*), Yangsheng (养生 - *Yǎngshēng*).*
 
-### 🌿 专项疗愈 (Specialized Healing)
-- [躯体与神经系统](merged_tables/Healing_Somatic.md): 躯体体验 (SE)、TRE、费登奎斯。
-- [能量与声音](merged_tables/Healing_Energy_Sound.md): 颂钵、灵气、阿育吠陀、气功。
-- [艺术与自然](merged_tables/Healing_Arts_Nature.md): 表达性艺术治疗、舞动治疗、森林浴。
-- [高阶食疗药膳](merged_tables/Healing_Dietary_Pharmacy_Advanced.md): 中医性味归经、阿育吠陀能量均衡、现代功能性脑健康饮食。
-- [高阶香疗与嗅觉](merged_tables/Healing_Aromatherapy_Olfactory_Pro.md): 精油化学与神经心理、中医香疗（沉/檀/藿）、临床调香建议。
-- [高阶音疗与频率](merged_tables/Healing_Sound_Medicine_Comprehensive.md): 振动乐器技术（颂钵/铜锣）、赫兹与脑波对应、人声/种子字疗愈。
-- [高阶舞动与表达](merged_tables/Healing_Dance_Expressive_Pro.md): LMA分析、编舞心理原型、集体同步涌现。
-- [高阶声乐与歌唱](merged_tables/Healing_Vocal_Therapy_Singing.md): 横膈膜与解剖、原始发声、全球吟诵传统。
-- [高阶精油与配方](merged_tables/Healing_Essential_Oils_Formulations.md): 临床针对性配方、嗅觉心理诊断、药理毒理禁忌。
-- [SPA与手工疗法](merged_tables/Healing_SPA_Manual_Bodywork.md): 瑞典式/泰式/推拿手法、水疗仪式感、触觉伦理。
-- [访谈与对话疗法](merged_tables/Healing_Interview_Relational_Dialogue.md): 动机访谈、苏格拉底对话、移情与关系动力。
-- [密宗/金刚乘核心](merged_tables/Wisdom_Vajrayana_Tantra_Core.md): 四续部、气脉明点系统（Nadi/Prana/Bindu）、本尊瑜伽原型。
-- [佛教疗愈与心理学](merged_tables/Wisdom_Buddhism_Healing_Psychology.md): 四圣谛诊断系统、阿毗达摩心法、慈心/忏悔禅修、十二因缘。
-- [基督教内在疗愈](merged_tables/Wisdom_Christianity_Inner_Healing.md): 恩典/救赎机制、归心祈祷、圣言诵读、内在医治流程。
-- [伊斯兰心理与净心](merged_tables/Wisdom_Islamic_Psychology_Tazkiyah.md): 灵魂阶梯 (Nafs)、天性 (Fitra)、齐克尔 (Dhikr) 记念、穆拉卡巴。
-- [萨满疗愈与灵魂之旅](merged_tables/Wisdom_Shamanic_Healing_Journey.md): 三界地图、灵魂找回、力量动物图腾、萨满危机转化。
-- [藏地治愈艺术](merged_tables/Wisdom_Tibetan_Healing_Arts.md): 索瓦日巴 (Sowa Rigpa)、三大因素平衡 (Lung/Tripa/Beken)、脉诊、和摩运动。
-- [书写与日记疗法](merged_tables/Healing_Writing_Journaling_Therapy.md): 表达性书写、脚本疗法、阅读疗法、子弹日记。
-- [高阶呼吸疗法](merged_tables/Healing_Breathwork_Pranayama_Pro.md): 调息术 (Pranayama)、全息呼吸、二氧化碳耐受、神经生理机制。
-- [缠绕画与正念艺术](merged_tables/Healing_Zentangle_Mindful_Art.md): 八大步骤、图样原型心理、非语言宣泄、错误容忍度。
-- [曼陀罗与荣格整合](merged_tables/Healing_Mandala_Jungian_Symbolism.md): 自我几何结构、色谱心理、阿尼玛/阴影原型。
-- [坛城与神圣场域](merged_tables/Wisdom_Mandala_Sacred_Space_Therapy.md): 五方佛智转换、内在坛城观想（安全地）、系统性仪式干预。
-- [神圣咒语与真言](merged_tables/Healing_Mantra_Sacred_Sound.md): 梵文种子字、长咒、神经声学机制。
-- [大手印：显实圆融](merged_tables/Wisdom_Mahamudra_Great_Seal.md): 基道果、四瑜伽、直指心性、非二元对立。
-- [睡眠科学与昼夜节律](merged_tables/Healing_Sleep_Circadian_Science.md): 睡眠阶段神经网络、生物钟激素、CBTI失眠干预。
-- [断食与代谢智慧](merged_tables/Healing_Fasting_Metabolic_Spiritual.md): IF/OMAD/辟谷、自噬机制、生酮态、灵性断食。
-- [心理自助与情绪韧性](merged_tables/Psychology_Self_Help_Protocols.md): CBT重构工具、DBT危机生存、边界设定、内在小孩。
-- [专项振动乐器与钵](merged_tables/Healing_Vibrational_Instruments_Specialized.md): 七金佛音钵、铜锣浴、音叉高精度频率、乐器对比。
-- [职场心理危机干预](merged_tables/Workplace_Psychological_Crisis_Intervention.md): 职业倦怠阶段、职场霸凌、心理急救 (PFA)、领导力沟通。
-- [运动：功能与躯体](merged_tables/Healing_Movement_Functional_Somatic.md): 筋膜经线 (Anatomy Trains)、躯体重新教育 (Feldenkrais/Alexander)、本体觉。
-- [运动：东方内家](merged_tables/Healing_Movement_Oriental_Internal.md): 太极听劲/化劲、八卦走圈、瑜伽疗愈路径 (Chikitsa)。
-- [运动：神经整合](merged_tables/Healing_Movement_Neuro_Integration.md): 跨侧平衡、原始反射整合、神经体育 (视觉/前庭训练)。
-- [运动：创伤表达](merged_tables/Healing_Movement_Trauma_Expression.md): TRE震颤释放、舞动治疗 (DMT)、原始动物原型回归。
-- [运动：心理绩效](merged_tables/Healing_Movement_Psychology_Performance.md): 心流 (Flow) 触发、表现焦虑应对、HRV与恢复监测。
-- [营养与肠脑轴](merged_tables/Healing_Nutrition_Gut.md): 肠脑轴、抗炎饮食、心理益生元。
-- [中医与经络](merged_tables/Healing_TCM_Meridians.md): 五行、十二经络、子午流注。
-- [呼吸与生物黑客](merged_tables/Healing_Breathwork_Biohack.md): 冷热暴露、HRV、意识改变状态。
-- [睡眠与梦境](merged_tables/Healing_Sleep_Dreams.md): 睡眠结构、CBT-I协议、清醒梦。
+- [哲学与宇宙观 (Philosophy & Cosmology)](tables/Dao_Philosophy_Cosmology.md)
+- [内丹修持与路径 (Internal Alchemy)](tables/Dao_Internal_Alchemy_Neidan.md)
+- [高阶内丹：性命演化 (Advanced Internal Alchemy)](tables/Dao_Advanced_Internal_Alchemy.md)
+- [传统养生与气功 (Health & Qigong)](tables/Dao_Health_Yangsheng_Qigong.md)
+- [养生与草本智慧 (Yangsheng & Herbology)](tables/Dao_Yangsheng_Herbology.md)
+- [符箓与仪式疗愈 (Talisman & Ritual Healing)](tables/Dao_Talisman_Ritual_Healing.md)
+- [宗派、仪式与传承 (Lineage & Ritual)](tables/Dao_Lineage_Ritual_Tradition.md)
+- [道家美学与现代生活 (Dao in Modern Life)](tables/Dao_Aesthetics_Modern_Life.md)
 
-### 🛠️ 通用方法与工具 (Methods & Tools)
-- [综合干预方法](merged_tables/Methods.md): 各种疗愈流派的方法对标、团体疗法类型。
-- [评估与辅助工具](merged_tables/Tools.md): 自助评估表、疗愈道具。
-- [日常整合实践](merged_tables/Practices.md): 进阶挑战、职场团队应用、女性实践。
+### 4. 🏛️ 东西方古典哲学 (Western & Eastern Philosophy)
+**描述 (Description):** 涵盖斯多葛主义、存在主义、现象学、儒家、印度正理派等古典智慧在现代生活中的应用。
+*Categories: Stoicism, Existentialism, Phenomenology, Confucianism, Samkhya (数论), Nyaya (正理).*
 
----
+- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](tables/Philosophy_Western_Stoicism_Existentialism.md)
+- [西方现象学与形而上学 (Phenomenology & Metaphysics)](tables/Philosophy_Western_Phenomenology_Metaphysics.md)
+- [东方古典儒家：修身与伦理 (Classical Confucianism)](tables/Philosophy_Eastern_Classical_Confucianism.md)
+- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](tables/Philosophy_Eastern_Indian_Schools.md)
 
-## 详细内容索引 (Detailed Index)
+### 5. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
+**描述 (Description):** 剖析法家作为一种极度务实的管理心理学与权力博弈逻辑。
+*Categories: Fa (法 - Law), Shu (术 - Method), Shi (势 - Authority).*
 
-### Yoga & Body
-- **Yoga_Philosophy.md**: Yoga Sutras, Eight Limbs, Yamas/Niyamas, Kleshas, Chakras.
-- **Yoga_Asana_Pranayama.md**: Asanas, Pranayama, Bandhas, Mudras, Sequencing.
-- **Yoga_Anatomy_Physiology.md**: Musculoskeletal, Polyvagal, Fascia, Contraindications.
-- **Yoga_Therapy.md**: Mental Health, Chronic Pain, Trauma-Sensitive.
-- **Yoga_History_Tradition.md**: Lineages, Texts, Evolution.
-- **Yoga_Resources.md**: Books, Journals.
+- [法家管理心理学 (Legalist Management Psychology)](tables/Legalist_Management_Psychology.md)
+- [职场心理危机干预 (Workplace Crisis Intervention)](tables/Workplace_Psychological_Crisis_Intervention.md)
 
-### Meditation & Mind
-- **Meditation_Core.md**: Misconceptions, Paths, Myths, Daily Routines, Poses, Breathing.
-- **Meditation_Applications.md**: Executive Stress, Team Conflict, Creativity.
-- **Meditation_Resources.md**: Classic Books, Recommended Lists.
+### 6. ☸️ 佛教与全球灵性疗愈 (Buddhist & Global Spiritual Wisdom)
+**描述 (Description):** 整合金刚乘、显教、伊斯兰净心术、萨满及三教合一智慧。
+*Categories: Nirvana (涅槃 - *Nirvāṇa*), Tazkiyah (净心 - *Tazkiyah*), Fitra (天性 - *Fiṭra*), Grace (恩典 - *Charis*).*
 
-### Zen Deep Dive
-- **Zen_Wisdom_Lineage.md**: Lineage, Philosophy, Sutras.
-- **Zen_Practice_Methodology.md**: Zazen, Shikantaza, Koans, Kinhin.
-- **Zen_Enlightenment_Stages.md**: Ten Bulls, Awakening types, Comparative Maps.
-- **Zen_Monastic_Rituals.md**: Roles, Samu, Oryoki, Sesshin.
-- **Zen_Aesthetics_Culture.md**: Principles, Arts, Modern Integration.
+- [三教合一：儒释道融合 (Syncretism)](tables/Syncretism_Three_Teachings.md)
+- [金刚乘/密宗核心 (Vajrayana/Tantra)](tables/Wisdom_Vajrayana_Tantra_Core.md)
+- [佛教疗愈心理学 (Buddhist Psychology)](tables/Wisdom_Buddhism_Healing_Psychology.md)
+- [藏地治愈艺术 (Tibetan Healing Arts)](tables/Wisdom_Tibetan_Healing_Arts.md)
+- [大手印：显实圆融 (Mahamudra)](tables/Wisdom_Mahamudra_Great_Seal.md)
+- [伊斯兰心理与净心术 (Islamic Psychology/Tazkiyah)](tables/Wisdom_Islamic_Psychology_Tazkiyah.md)
+- [基督宗教内在疗愈 (Christian Inner Healing)](tables/Wisdom_Christianity_Inner_Healing.md)
+- [萨满疗愈与灵魂之旅 (Shamanic Journey)](tables/Wisdom_Shamanic_Healing_Journey.md)
+- [坛城与圣域空间 (Sacred Space/Mandala)](tables/Wisdom_Mandala_Sacred_Space_Therapy.md)
 
-### Taoism Deep Dive
-- **Dao_Philosophy_Cosmology.md**: Concepts, Cosmology, Classics.
-- **Dao_Internal_Alchemy_Neidan.md**: San Bao, Alchemy stages, Circuits.
-- **Dao_Health_Yangsheng_Qigong.md**: Yangsheng, Qigong, Bigu, Rhythm.
-- **Dao_Lineage_Ritual_Tradition.md**: Schools, Sacred Sites, Symbols, Pantheon.
-- **Dao_Aesthetics_Modern_Life.md**: Values, Leadership, Ecology, Self-help.
+### 7. 🧠 现代心理学与认知 (Modern Psychology & Cognition)
+**描述 (Description):** 剖析认知神经科学、社会动态、情感韧性及临床应用。
+*Categories: Neuroplasticity (神经可塑性), Cognitive Bias (认知偏差), Resilience (韧性), Flow (心流).*
 
-### Psychology & Science
-- **Psychology_Cognition.md**: Biases, Neurobiology, Memory, Decision Making.
-- **Psychology_Development.md**: Life Stages, Ethics, Personality Assessment, Trauma Recovery.
-- **Psychology_Emotion.md**: Stress, Happiness, Self-Efficacy, Resilience, Burnout.
-- **Psychology_Social.md**: Cross-cultural, Social Phenomena, Leadership, Intimacy.
-- **Psychology_Theories_Experiments.md**: Theories, Motivation, Learning, Experiments, Evolution.
-- **Psychology_Applications.md**: Crisis cases, Mobbing, Impostor Syndrome.
-- **Psychology_General_Resources.md**: Books, Self-help resources.
+- [核心理论与经典实验 (Theories & Experiments)](tables/Psychology_Theories_Experiments.md)
+- [认知科学与神经可塑性 (Cognition & Neuroscience)](tables/Psychology_Cognition.md)
+- [生命周期与性格发展 (Human Development)](tables/Psychology_Development.md)
+- [情感管理与幸福干预 (Emotion & Resilience)](tables/Psychology_Emotion.md)
+- [社会心理与关系动力 (Social & Relationships)](tables/Psychology_Social.md)
+- [心理实践应用案例 (Clinical Applications)](tables/Psychology_Applications.md)
+- [心理病理学图谱 (Psychopathology Atlas)](tables/Psychology_Psychopathology_Atlas.md)
+- [深度心理自助方案 (Self-Help Protocols)](tables/Psychology_Self_Help_Protocols.md)
+- [通用心理学资源 (General Resources)](tables/Psychology_General_Resources.md)
 
-### Modern Healing Modalities
-- **Healing_Somatic.md**: SE, Polyvagal, Feldenkrais, TRE.
-- **Healing_Energy_Sound.md**: Frequencies, Reiki, Ayurveda, Qigong.
-- **Healing_Arts_Nature.md**: Art, Dance, Eco-therapy, Psychodrama.
-- **Healing_Dietary_Pharmacy_Advanced.md**: TCM Food Properties, Ayurvedic Rasa, Functional Brain Foods.
-- **Healing_Aromatherapy_Olfactory_Pro.md**: Essential Oil Chemistry, Olfactory Neuropsychology, TCM Incense.
-- **Healing_Sound_Medicine_Comprehensive.md**: Vibrational Instruments, Solfeggio Science, Therapeutic Voicing.
-- **Healing_Dance_Expressive_Pro.md**: Laban Analysis, Choreography Archetypes, Group Synchrony.
-- **Healing_Vocal_Therapy_Singing.md**: Vocal Anatomy, Primal Sounding, Sacred Traditions.
-- **Healing_Essential_Oils_Formulations.md**: Clinical Recipes, Diagnostics, Toxicology.
-- **Healing_SPA_Manual_Bodywork.md**: Swedish, Thai, Tui Na, Spa Rituals.
-- **Healing_Interview_Relational_Dialogue.md**: MI, Socratic Dialogue, Transference.
-- **Wisdom_Vajrayana_Tantra_Core.md**: Four Tantras, Nadi/Prana/Bindu, Deity Yoga.
-- **Wisdom_Buddhism_Healing_Psychology.md**: Four Noble Truths, Abhidharma, Metta.
-- **Wisdom_Christianity_Inner_Healing.md**: Grace, Centering Prayer, Inner Healing.
-- **Wisdom_Islamic_Psychology_Tazkiyah.md**: Nafs, Fitra, Dhikr, Tazkiyah.
-- **Wisdom_Shamanic_Healing_Journey.md**: Soul Retrieval, Power Animals, ASC.
-- **Wisdom_Tibetan_Healing_Arts.md**: Sowa Rigpa, Three Humors, Pulse Diagnosis.
-- **Healing_Writing_Journaling_Therapy.md**: Expressive Writing, Scriptotherapy, Bibliotherapy.
-- **Healing_Breathwork_Pranayama_Pro.md**: Pranayama, Holotropic, CO2 Tolerance.
-- **Healing_Zentangle_Mindful_Art.md**: Zentangle Steps, Pattern Archetypes.
-- **Healing_Mandala_Jungian_Symbolism.md**: Jungian Archetypes, Color Psychology.
-- **Wisdom_Mandala_Sacred_Space_Therapy.md**: Five Wisdoms, Sacred Space, Visualization.
-- **Healing_Mantra_Sacred_Sound.md**: Bija Mantras, Neuro-acoustics, Chanting Protocols.
-- **Wisdom_Mahamudra_Great_Seal.md**: Four Yogas, Non-duality, Pointing-out Instructions.
-- **Healing_Sleep_Circadian_Science.md**: NREM/REM, Circadian Hormones, CBTI Protocols.
-- **Healing_Fasting_Metabolic_Spiritual.md**: Autophagy, IF/OMAD, Spiritual Traditions.
-- **Psychology_Self_Help_Protocols.md**: CBT Tools, DBT Crisis Skills, Resilience.
-- **Healing_Vibrational_Instruments_Specialized.md**: Singing Bowls, Gongs, Tuning Forks.
-- **Workplace_Psychological_Crisis_Intervention.md**: Burnout Stages, PFA, Leadership Crisis.
-- **Healing_Movement_Functional_Somatic.md**: Fascia, Feldenkrais, Mobility.
-- **Healing_Movement_Oriental_Internal.md**: Tai Chi, Bagua, Yoga Therapy.
-- **Healing_Movement_Neuro_Integration.md**: Reflexes, Cross-lateral, Neuro-athletics.
-- **Healing_Movement_Trauma_Expression.md**: TRE, DMT, Primal Movement.
-- **Healing_Movement_Psychology_Performance.md**: Flow, Anxiety, HRV Recovery.
-- **Healing_Nutrition_Gut.md**: Gut-Brain, Anti-inflammatory, Nutrients, Nootropics.
-- **Healing_TCM_Meridians.md**: Five Elements, Meridians, Acupoints, Body Clock.
-- **Healing_Breathwork_Biohack.md**: Breathwork, Biohacking, HRV, ASC.
-- **Healing_Sleep_Dreams.md**: Sleep Science, CBT-I, Chronotypes, Dreamwork.
+### 8. 🏃 躯体智慧与生物医学 (Somatic Wisdom & Bio-Medicine)
+**描述 (Description):** 基于多迷走神经理论与筋膜解剖，探讨躯体疗法与生物黑客技术。
+*Categories: Polyvagal Theory (多迷走神经理论), Fascia (筋膜), Circadian Rhythm (昼夜节律), Autophagy (细胞自噬).*
 
-### Methods & Integration
-- **Methods.md**: Therapies, Research Methods, Group Therapy, Integration.
-- **Tools.md**: Assessment Tools, Props.
-- **Practices.md**: Advanced, Workplace, Women's Practices.
+- [躯体体验与神经干预 (Somatic Experiencing)](tables/Somatic_Experiencing.md)
+- [东方内家运动 (Oriental Internal Movement)](tables/Somatic_Movement_Oriental.md)
+- [功能性躯体运动 (Functional Somatics)](tables/Somatic_Movement_Functional.md)
+- [跨侧神经整合运动 (Neuro-Integration Movement)](tables/Somatic_Movement_Neuro.md)
+- [创伤释放与表达性运动 (Trauma & Expression)](tables/Somatic_Movement_Trauma.md)
+- [表现心理与运动绩效 (Movement Performance)](tables/Somatic_Movement_Performance.md)
+- [中医经络与生命节律 (TCM & Meridians)](tables/Somatic_TCM_Meridians.md)
+- [肠脑轴与抗炎营养 (Nutrition & Gut-Brain)](tables/Bio_Nutrition_Gut.md)
+- [高阶食疗与药理 (Dietary & Pharmacy)](tables/Bio_Dietary_Pharmacy.md)
+- [睡眠科学与节律优化 (Sleep Science)](tables/Bio_Sleep_Science.md)
+- [睡眠优化与梦境研究 (Sleep & Dreams)](tables/Bio_Sleep_Dreams.md)
+- [断食智慧与代谢增强 (Fasting & Metabolic Wisdom)](tables/Bio_Fasting_Metabolic.md)
+- [高阶呼吸：调息与科学 (Breathwork & Pranayama)](tables/Bio_Breathwork_Pranayama.md)
+- [呼吸技术与生物黑客 (Breathwork & Biohacking)](tables/Bio_Breathwork_Biohack.md)
+
+### 9. 🎨 艺术、感官与频率疗愈 (Arts, Sensory & Vibrational Medicine)
+**描述 (Description):** 利用声音、香气、色彩及视觉叙事调控意识状态。
+*Categories: Mantra (真言/咒语 - *Mantra*), Mandala (曼陀罗 - *Maṇ陀罗*), Aromatherapy (芳香疗法).*
+
+- [多维声音医学 (Sound Medicine)](tables/Sensory_Sound_Medicine.md)
+- [专项振动乐器：钵/锣 (Vibrational Instruments)](tables/Sensory_Vibrational_Instruments.md)
+- [能量与基础音疗 (Energy & Foundational Sound)](tables/Sensory_Energy_Sound.md)
+- [神圣真言与声学术 (Sacred Mantra)](tables/Sensory_Mantra_Sacred_Sound.md)
+- [声乐治疗与发声 (Vocal Therapy)](tables/Sensory_Vocal_Therapy.md)
+- [高阶芳香与嗅觉神经 (Aromatherapy & Olfactory)](tables/Sensory_Aromatherapy_Olfactory.md)
+- [临床精油配方与毒理 (Essential Oil Formulations)](tables/Sensory_Essential_Oils.md)
+- [SPA仪式与触碰伦理 (SPA & Bodywork)](tables/Sensory_SPA_Bodywork.md)
+- [艺术、自然与生态 (Arts & Nature)](tables/Sensory_Arts_Nature.md)
+- [表达性舞动治疗 (Expressive Dance)](tables/Sensory_Dance_Expressive.md)
+- [书写、日记与叙事 (Writing/Journaling)](tables/Sensory_Writing_Journaling.md)
+- [正念艺术与缠绕画 (Mindful Zentangle)](tables/Sensory_Zentangle_Art.md)
+- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](tables/Sensory_Mandala_Jungian.md)
+- [深层访谈与对话技术 (Clinical Interview/Dialogue)](tables/Sensory_Clinical_Dialogue.md)
+
+### 10. 🧘‍♂️ 通用冥想与静修 (General Meditation)
+**描述 (Description):** 跨流派的冥想基础技术与进阶应用。
+
+- [冥想核心：基础与技巧 (Core Meditation)](tables/Meditation_Core.md)
+- [直接与间接认知冥想 (Direct & Indirect Recognition)](tables/Meditation_Direct_Indirect_Recognition.md)
+- [不二论：直接认知核心 (Direct Recognition Foundations)](tables/Meditation_Direct_Recognition_Foundations.md)
+- [不二论：各派技术地图 (Direct Recognition Traditions)](tables/Meditation_Direct_Recognition_Traditions.md)
+- [直接认知：直指与现观技术 (Pointing-out & Direct Perception)](tables/Meditation_Direct_Recognition_Pointing_Out.md)
+- [直接认知疗愈与不二心理 (Direct Recognition Healing)](tables/Therapy_Direct_Recognition_Healing.md)
+- [直接认知：日常整合与伦理 (Daily Integration & Ethics)](tables/Meditation_Direct_Recognition_Daily_Integration.md)
+- [深度冥想：进阶指南 (Advanced Meditation)](tables/Meditation_Advanced.md)
+- [冥想概论与通识 (General Meditation)](tables/Meditation_General.md)
+- [职场、创意与社会应用 (Meditation Applications)](tables/Meditation_Applications.md)
+- [经典学习与修持资源 (Meditation Resources)](tables/Meditation_Resources.md)
+
+### 11. 🛠️ 整合框架与专业工具 (Framework & Methodology)
+**描述 (Description):** 进阶方法论、临床评估工具、跨学科逻辑与行业趋势。
+
+- [综合干预方法论 (Advanced Integrated Methods)](tables/Framework_Integrated_Methods.md)
+- [专业评估与辅助工具 (Diagnostics & Tools)](tables/Framework_Tools_Assessment.md)
+- [跨学科逻辑与学理重构 (Interdisciplinary Logic)](tables/Framework_Interdisciplinary_Logic.md)
+- [行业现状与前沿趋势 (Future Industry Trends)](tables/Framework_Industry_Trends.md)
+- [权威机构与传承脉络 (Authorities & Lineage)](tables/Framework_Authorities_Lineage.md)
+- [社会支持与危机干预设施 (Community & Crisis Support)](tables/Society_Community_Support.md)
+- [三教合一：深度整合机制 (Syncretism Mastery)](tables/Syncretism_Three_Teachings.md)
+- [多重维度交叉对比 (Cross Comparisons)](tables/Framework_Cross_Comparisons.md)
+- [疗愈风险与益处全面分析 (Benefits & Risks)](tables/Framework_Benefits_Risks.md)
+- [日常修持与高阶协议 (Routine & Advanced Protocols)](tables/Daily_Routine_Protocols.md)
+- [核心文献、媒体与书籍 (Media & Books)](tables/Resources_Media_Books.md)
 
 ---
 
-## 维护与贡献 (Maintenance)
+## 🔍 多维度查询 (Multi-Dimensional Perspectives)
+*除了核心目录外，您可以从以下切面快速定位内容 (Navigate through different facets):*
 
+### A. 🏛️ 传统传承 vs. 🔬 现代科学 (Tradition vs. Science)
+| 传统智慧 (Ancient Wisdom) | 现代科学 (Modern Science) |
+| :--- | :--- |
+| [瑜伽哲学](tables/Yoga_Philosophy.md), [禅宗实践](tables/Zen_Practice_Methodology.md), [道家养生](tables/Dao_Health_Yangsheng_Qigong.md), [三教合一](tables/Syncretism_Three_Teachings.md) | [认知核心](tables/Psychology_Cognition.md), [禅宗神经科学](tables/Zen_Neuroscience_Psychology.md), [神经整合运动](tables/Somatic_Movement_Neuro.md) |
+| [佛教心理学](tables/Wisdom_Buddhism_Healing_Psychology.md), [中医经络](tables/Somatic_TCM_Meridians.md), [萨满疗愈](tables/Wisdom_Shamanic_Healing_Journey.md), [符箓文化](tables/Dao_Talisman_Ritual_Healing.md) | [多迷走理论](tables/Somatic_Experiencing.md), [睡眠科学](tables/Bio_Sleep_Science.md), [肠脑轴营养](tables/Bio_Nutrition_Gut.md) |
+
+### B. 🛠️ 作用机制 (Modality / Mechanism)
+*   **心智认知 (Mind/Cognition):** [冥想核心](tables/Meditation_Core.md), [心理学理论](tables/Psychology_Theories_Experiments.md), [禅宗智慧](tables/Zen_Wisdom_Lineage.md), [法家管理心理](tables/Legalist_Management_Psychology.md), [直接认知](tables/Meditation_Direct_Recognition_Foundations.md)
+*   **躯体运动 (Body/Movement):** [瑜伽体式](tables/Yoga_Asana_Pranayama.md), [东方内家运动](tables/Somatic_Movement_Oriental.md), [功能躯体运动](tables/Somatic_Movement_Functional.md)
+*   **息能量 (Breath/Energy):** [高阶呼吸](tables/Bio_Breathwork_Pranayama.md), [内丹进化](tables/Dao_Advanced_Internal_Alchemy.md), [专项音疗](tables/Sensory_Vibrational_Instruments.md)
+*   **感官艺术 (Sense/Art):** [芳香嗅觉](tables/Sensory_Aromatherapy_Olfactory.md), [视觉正念](tables/Sensory_Zentangle_Art.md), [声乐治疗](tables/Sensory_Vocal_Therapy.md)
+*   **生化营养 (Bio-Nutritional):** [肠脑轴营养](tables/Bio_Nutrition_Gut.md), [断食代谢](tables/Bio_Fasting_Metabolic.md), [本草智慧](tables/Dao_Yangsheng_Herbology.md)
+
+### C. 🎯 应用场景 (Use Case / Domain)
+*   **疗愈创伤 (Trauma/Healing):** [创伤运动表达](tables/Somatic_Movement_Trauma.md), [躯体体验](tables/Somatic_Experiencing.md), [基督教内在医治](tables/Wisdom_Christianity_Inner_Healing.md), [直接认知疗愈](tables/Therapy_Direct_Recognition_Healing.md)
+*   **组织管理 (Management/Power):** [法家管理](tables/Legalist_Management_Psychology.md), [职场危机](tables/Workplace_Psychological_Crisis_Intervention.md), [禅宗日用](tables/Zen_Daily_Life_Practice.md)
+*   **灵性觉悟 (Wisdom/Spiritual):** [觉悟阶次](tables/Zen_Enlightenment_Stages.md), [内丹高阶](tables/Dao_Advanced_Internal_Alchemy.md), [三教合一](tables/Syncretism_Three_Teachings.md), [直接认知辨识](tables/Meditation_Direct_Recognition_Traditions.md)
+*   **全面自助 (Self-Care):** [深度自助方案](tables/Psychology_Self_Help_Protocols.md), [日常习惯养成](tables/Daily_Routine_Protocols.md), [睡眠优化](tables/Bio_Sleep_Dreams.md)
+
+---
+
+## 🛠️ 维护与贡献 (Maintenance)
 本项目致力于提供专业级别的身心疗愈知识。
-- **bilingual**: 术语保留英文，便于学术检索。
-- **Validated**: 尽量附带专业视角 (Professional Perspective) 和 引用来源 (Citation)。
+- **三语对照 (Trilingual):** 术语保留中文、英文及**原始语言** (如梵文、阿拉伯文、拉丁文)，便于多维度检索。
+- **专业驱动 (Professional):** 所有内容均附带专业视角 (Professional Perspective) 或 专家建议 (Expert Insight)。
 
 ---
 *Created by Mind Sheet Project*
