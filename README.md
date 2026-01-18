@@ -146,7 +146,24 @@
 - [职场、创意与社会应用 (Meditation Applications)](tables/Meditation_Applications.md)
 - [经典学习与修持资源 (Meditation Resources)](tables/Meditation_Resources.md)
 
-### 11. 🛠️ 整合框架与专业工具 (Framework & Methodology)
+### 11. 🔥 檀香疗法 (Incense Therapy)
+**描述 (Description):** 系统化的香料疗法知识体系，涵盖药理学、历史文化、临床应用、配方制备及跨学科整合。
+*Categories: Sandalwood (檀香 - *Candana*), Frankincense (乳香 - *Kunduru*), Aromatherapy (芳香疗法), Psychopharmacology (精神药理学).*
+
+- [檀香疗法概览 (Incense Therapy Overview)](tables/Incense_Overview.md)
+- [作用机制 (Mechanisms)](tables/Incense_Mechanisms.md)
+- [临床证据 (Clinical Evidence)](tables/Incense_Clinical_Evidence.md)
+- [实践指南 (Practical Guidelines)](tables/Incense_Practices.md)
+- [资源与参考 (Resources)](tables/Incense_Resources.md)
+- [药理学与活性化合物 (Pharmacology & Compounds)](tables/Incense_Pharmacology_Compounds.md)
+- [历史与文化传承 (History & Culture)](tables/Incense_History_Culture.md)
+- [安全性与毒理学 (Safety & Toxicology)](tables/Incense_Safety_Toxicology.md)
+- [香料分类与类型 (Types & Classification)](tables/Incense_Types_Classification.md)
+- [临床方案与案例 (Clinical Protocols & Cases)](tables/Incense_Clinical_Protocols.md)
+- [配方设计与制备 (Preparation & Formulation)](tables/Incense_Preparation_Formulation.md)
+- [跨学科整合应用 (Integration with Modalities)](tables/Incense_Integration_Modalities.md)
+
+### 12. 🛠️ 整合框架与专业工具 (Framework & Methodology)
 **描述 (Description):** 进阶方法论、临床评估工具、跨学科逻辑与行业趋势。
 
 - [综合干预方法论 (Advanced Integrated Methods)](tables/Framework_Integrated_Methods.md)
