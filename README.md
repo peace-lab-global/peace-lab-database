@@ -92,6 +92,13 @@
 - [萨满疗愈与灵魂之旅 (Shamanic Journey)](tables/Wisdom_Shamanic_Healing_Journey.md)
 - [坛城与圣域空间 (Sacred Space/Mandala)](tables/Wisdom_Mandala_Sacred_Space_Therapy.md)
 
+**意念熏习转化心念体系 (Vāsanā Mind Transformation System):**
+- [熏习概览与核心术语 (Vāsanā Overview)](tables/Vasana_Overview.md) - 熏习核心概念、历史发展、八识结构、与现代心理学对话
+- [种子学说专题 (Seed Theory / Bīja-vāda)](tables/Vasana_Seed_Theory.md) - 种子六义、种子分类、种子与现行互动、本有新熏论争
+- [熏习机制与类型 (Vāsanā Mechanisms & Types)](tables/Vasana_Mechanisms.md) - 三种熏习(名言/我执/有支)、能熏所熏条件、熏习与神经科学
+- [心念转化技术 (Mind Transformation Techniques)](tables/Vasana_Mind_Transformation.md) - 转识成智、对治法、止观双运、五毒转五智、藏传转化技术
+- [熏习临床应用 (Vāsanā Clinical Applications)](tables/Vasana_Clinical_Applications.md) - 临床框架、各类障碍分析、评估方法、治疗技术、整合协议
+
 ### 7. 🧠 现代心理学与认知 (Modern Psychology & Cognition)
 **描述 (Description):** 剖析认知神经科学、社会动态、情感韧性及临床应用，整合心理学流派体系、测评工具与循证疗法。
 *Categories: Neuroplasticity (神经可塑性), Cognitive Bias (认知偏差), Resilience (韧性), Flow (心流), Psychometrics (心理测量学), Evidence-Based Practice (循证实践).*
@@ -339,6 +346,8 @@
 - [维瓦尔第音乐疗愈 (Vivaldi Music Therapy)](tables/Vivaldi_Music_Therapy.md) - 能量激活、自然疗愈、晨间唤醒
 - [亨德尔音乐疗愈 (Handel Music Therapy)](tables/Handel_Music_Therapy.md) - 灵性体验、庆典仪式、弥赛亚
 - [萨蒂音乐疗愈 (Satie Music Therapy)](tables/Satie_Music_Therapy.md) - 极简主义、正念冥想、禅意美学
+- [马勒音乐疗愈 (Mahler Music Therapy)](tables/Mahler_Music_Therapy.md) - 存在探索、丧亲悲伤、深度转化、死亡接纳
+- [福雷音乐疗愈 (Fauré Music Therapy)](tables/Faure_Music_Therapy.md) - 临终关怀、法式优雅、安魂曲、深度放松
 
 ### 13. 💑 恋爱与婚姻心理 (Love & Marriage Psychology)
 **描述 (Description):** 系统化的恋爱与婚姻心理知识体系，涵盖恋爱阶段、择偶心理、神经生物学、沟通技术、婚姻治疗、危机干预及文化视角。
