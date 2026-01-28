@@ -11,86 +11,130 @@
 **描述 (Description):** 涵盖古典瑜伽哲学、体式解剖、呼吸能量控制及临床理疗。
 *Categories: Yoga Sutras, Pranayama (调息 - *Prāṇāyāma*), Asanas (体式 - *Āsana*), Chakras (脉轮 - *Cakra*).*
 
-- [瑜伽哲学与概念 (Yoga Philosophy)](tables/Yoga_Philosophy.md)
-- [瑜伽经深度哲学解析 (Yoga Sutra Deep Dive)](tables/Yoga_Sutra_Philosophical_Deep_Dive.md)
-- [体式与呼吸 (Asanas & Pranayama)](tables/Yoga_Asana_Pranayama.md)
-- [高阶克里亚与昆达里尼 (Advanced Kriya & Kundalini)](tables/Yoga_Advanced_Kriya_Kundalini.md)
-- [解剖与生理 (Anatomy & Physiology)](tables/Yoga_Anatomy_Physiology.md)
-- [瑜伽理疗 (Yoga Therapy)](tables/Yoga_Therapy.md)
-- [瑜伽理疗与阿育吠陀整合 (Ayurvedic Therapy Integration)](tables/Yoga_Ayurvedic_Therapy_Integration.md)
-- [历史与传统传承 (History & Lineage)](tables/Yoga_History_Tradition.md)
-- [专业学习资源 (Yoga Resources)](tables/Yoga_Resources.md)
+- [瑜伽哲学与概念 (Yoga Philosophy)](yoga/Yoga_Philosophy.md)
+- [瑜伽经深度哲学解析 (Yoga Sutra Deep Dive)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md)
+- [体式与呼吸 (Asanas & Pranayama)](yoga/Yoga_Asana_Pranayama.md)
+- [高阶克里亚与昆达里尼 (Advanced Kriya & Kundalini)](yoga/Yoga_Advanced_Kriya_Kundalini.md)
+- [解剖与生理 (Anatomy & Physiology)](yoga/Yoga_Anatomy_Physiology.md)
+- [瑜伽理疗 (Yoga Therapy)](yoga/Yoga_Therapy.md)
+- [瑜伽理疗与阿育吠陀整合 (Ayurvedic Therapy Integration)](yoga/Yoga_Ayurvedic_Therapy_Integration.md)
+- [历史与传统传承 (History & Lineage)](yoga/Yoga_History_Tradition.md)
+- [专业学习资源 (Yoga Resources)](yoga/Yoga_Resources.md)
 
 ### 2. 🏮 禅宗与东亚静修 (Zen & East Asian Contemplation)
 **描述 (Description):** 探索中国与日本禅宗的修行逻辑、觉悟阶次及禅意美学。
 *Categories: Zazen (坐禅 - *Zazen*), Koans (公案 - *Kōan*), Satori (见性/悟 - *Satori*), Mushin (无心 - *Mushin*).*
 
-- [禅宗智慧与传承 (Zen Wisdom)](tables/Zen_Wisdom_Lineage.md)
-- [五家七宗：各家宗风详辨 (Five Houses & Seven Schools)](tables/Zen_Five_Houses_Lineage.md)
-- [实践技术与法要 (Practice Methodology)](tables/Zen_Practice_Methodology.md)
-- [禅宗公案机锋学 (Koan Anthropology)](tables/Zen_Koan_Anthropology.md)
-- [觉悟阶次与地图 (Enlightenment Stages)](tables/Zen_Enlightenment_Stages.md)
-- [禅宗神经科学与心理学 (Zen Neuroscience)](tables/Zen_Neuroscience_Psychology.md)
-- [日常生活中的禅修行 (Daily Life Practice)](tables/Zen_Daily_Life_Practice.md)
-- [禅宗经典深度解析 (Zen Sutras In Depth)](tables/Zen_Sutras_In_Depth.md)
-- [丛林规制与仪轨 (Monastic Rituals)](tables/Zen_Monastic_Rituals.md)
-- [禅宗美学与现代整合 (Aesthetics & Modernity)](tables/Zen_Aesthetics_Culture.md)
+- [禅宗智慧与传承 (Zen Wisdom)](zen/Zen_Wisdom_Lineage.md)
+- [五家七宗：各家宗风详辨 (Five Houses & Seven Schools)](zen/Zen_Five_Houses_Lineage.md)
+- [实践技术与法要 (Practice Methodology)](zen/Zen_Practice_Methodology.md)
+- [禅宗公案机锋学 (Koan Anthropology)](zen/Zen_Koan_Anthropology.md)
+- [觉悟阶次与地图 (Enlightenment Stages)](zen/Zen_Enlightenment_Stages.md)
+- [禅宗神经科学与心理学 (Zen Neuroscience)](zen/Zen_Neuroscience_Psychology.md)
+- [日常生活中的禅修行 (Daily Life Practice)](zen/Zen_Daily_Life_Practice.md)
+- [禅宗经典深度解析 (Zen Sutras In Depth)](zen/Zen_Sutras_In_Depth.md)
+- [丛林规制与仪轨 (Monastic Rituals)](zen/Zen_Monastic_Rituals.md)
+- [禅宗美学与现代整合 (Aesthetics & Modernity)](zen/Zen_Aesthetics_Culture.md)
 
 ### 3. ☯️ 道家智慧与内丹 (Daoist Wisdom & Internal Alchemy)
 **描述 (Description):** 融合宇宙观、丹道修持、传统养生与无为领导力。
 *Categories: Neidan (内丹 - *Nèidān*), Wu Wei (无为 - *Wúwéi*), Qi (气/炁 - *Qì*), Yangsheng (养生 - *Yǎngshēng*).*
 
-- [哲学与宇宙观 (Philosophy & Cosmology)](tables/Dao_Philosophy_Cosmology.md)
-- [内丹修持与路径 (Internal Alchemy)](tables/Dao_Internal_Alchemy_Neidan.md)
-- [高阶内丹：性命演化 (Advanced Internal Alchemy)](tables/Dao_Advanced_Internal_Alchemy.md)
-- [传统养生与气功 (Health & Qigong)](tables/Dao_Health_Yangsheng_Qigong.md)
-- [养生与草本智慧 (Yangsheng & Herbology)](tables/Dao_Yangsheng_Herbology.md)
-- [符箓与仪式疗愈 (Talisman & Ritual Healing)](tables/Dao_Talisman_Ritual_Healing.md)
-- [宗派、仪式与传承 (Lineage & Ritual)](tables/Dao_Lineage_Ritual_Tradition.md)
-- [道家美学与现代生活 (Dao in Modern Life)](tables/Dao_Aesthetics_Modern_Life.md)
+- [哲学与宇宙观 (Philosophy & Cosmology)](dao/Dao_Philosophy_Cosmology.md)
+- [内丹修持与路径 (Internal Alchemy)](dao/Dao_Internal_Alchemy_Neidan.md)
+- [高阶内丹：性命演化 (Advanced Internal Alchemy)](dao/Dao_Advanced_Internal_Alchemy.md)
+- [传统养生与气功 (Health & Qigong)](dao/Dao_Health_Yangsheng_Qigong.md)
+- [养生与草本智慧 (Yangsheng & Herbology)](dao/Dao_Yangsheng_Herbology.md)
+- [符箓与仪式疗愈 (Talisman & Ritual Healing)](dao/Dao_Talisman_Ritual_Healing.md)
+- [宗派、仪式与传承 (Lineage & Ritual)](dao/Dao_Lineage_Ritual_Tradition.md)
+- [道家美学与现代生活 (Dao in Modern Life)](dao/Dao_Aesthetics_Modern_Life.md)
 
 ### 4. 🏛️ 东西方古典哲学 (Western & Eastern Philosophy)
-**描述 (Description):** 涵盖斯多葛主义、存在主义、现象学、儒家、印度正理派等古典智慧在现代生活中的应用。
-*Categories: Stoicism, Existentialism, Phenomenology, Confucianism, Samkhya (数论), Nyaya (正理).*
+**描述 (Description):** 涵盖斯多葛主义、存在主义、现象学、康德哲学、叔本华思想、儒家、印度正理派等古典智慧在现代生活中的应用。
+*Categories: Stoicism, Existentialism, Phenomenology, Kantianism, Schopenhauerianism, Confucianism, Samkhya (数论), Nyaya (正理).*
 
-- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](tables/Philosophy_Western_Stoicism_Existentialism.md)
-- [西方现象学与形而上学 (Phenomenology & Metaphysics)](tables/Philosophy_Western_Phenomenology_Metaphysics.md)
-- [东方古典儒家：修身与伦理 (Classical Confucianism)](tables/Philosophy_Eastern_Classical_Confucianism.md)
-- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](tables/Philosophy_Eastern_Indian_Schools.md)
+- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](philosophy/Philosophy_Western_Stoicism_Existentialism.md)
+- [西方现象学与形而上学 (Phenomenology & Metaphysics)](philosophy/Philosophy_Western_Phenomenology_Metaphysics.md)
+- [西方康德与叔本华思想 (Kantian & Schopenhauerian Thought)](philosophy/Philosophy_Western_Kantian_Schopenhauer.md)
+- [东方古典儒家：修身与伦理 (Classical Confucianism)](philosophy/Philosophy_Eastern_Classical_Confucianism.md)
+- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](philosophy/Philosophy_Eastern_Indian_Schools.md)
 
-### 5. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
+### 5. 🧠 西方哲学家详细资料 (Western Philosophers Detailed)
+**描述 (Description):** 为每位西方哲学家创建的详细资料，包括核心思想、主要著作、思想发展、与心理学/疗愈的关联、批判与争议、影响与遗产以及推荐阅读。
+
+#### 5.1 古希腊哲学 (Ancient Greek Philosophy)
+
+##### 5.1.1 前苏格拉底哲学家 (Pre-Socratics)
+- [泰勒斯 (Thales)](philosophy/ancient/pre-socratics/Thales.md)
+- [赫拉克利特 (Heraclitus)](philosophy/ancient/pre-socratics/Heraclitus.md)
+- [巴门尼德 (Parmenides)](philosophy/ancient/pre-socratics/Parmenides.md)
+
+##### 5.1.2 古典希腊哲学家 (Classical Greek Philosophy)
+- [苏格拉底 (Socrates)](philosophy/ancient/classical/Socrates.md)
+- [柏拉图 (Plato)](philosophy/ancient/classical/Plato.md)
+- [亚里士多德 (Aristotle)](philosophy/ancient/classical/Aristotle.md)
+
+##### 5.1.3 希腊化时期哲学家 (Hellenistic Philosophy)
+
+#### 5.2 中世纪哲学 (Medieval Philosophy)
+
+#### 5.3 早期现代哲学 (Early Modern Philosophy)
+
+##### 5.3.1 理性主义 (Rationalism)
+- [勒内·笛卡尔 (René Descartes)](philosophy/early-modern/rationalism/Descartes.md)
+
+##### 5.3.2 经验主义 (Empiricism)
+
+##### 5.3.3 文艺复兴 (Renaissance)
+
+#### 5.4 启蒙运动 (Enlightenment)
+- [伊曼努尔·康德 (Immanuel Kant)](philosophy/enlightenment/Kant.md)
+
+#### 5.5 德国古典哲学 (German Idealism)
+- [格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)](philosophy/german-idealism/Hegel.md)
+
+#### 5.6 19世纪哲学 (19th Century Philosophy)
+
+##### 5.6.1 存在主义先驱 (Existentialist Precursors)
+- [弗里德里希·尼采 (Friedrich Nietzsche)](philosophy/19th-century/existential-precursors/Nietzsche.md)
+
+#### 5.7 20世纪哲学 (20th Century Philosophy)
+
+#### 5.8 当代哲学 (Contemporary Philosophy)
+
+### 6. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
 **描述 (Description):** 剖析法家作为一种极度务实的管理心理学与权力博弈逻辑。
 *Categories: Fa (法 - Law), Shu (术 - Method), Shi (势 - Authority).*
 
-- [法家管理心理学 (Legalist Management Psychology)](tables/Legalist_Management_Psychology.md)
-- [职场心理危机干预 (Workplace Crisis Intervention)](tables/Workplace_Psychological_Crisis_Intervention.md)
+- [法家管理心理学 (Legalist Management Psychology)](legalism/Legalist_Management_Psychology.md)
+- [职场心理危机干预 (Workplace Crisis Intervention)](workplace/Workplace_Psychological_Crisis_Intervention.md)
 
 ### 6. ☸️ 佛教与全球灵性疗愈 (Buddhist & Global Spiritual Wisdom)
 **描述 (Description):** 整合金刚乘、显教、伊斯兰净心术、萨满及三教合一智慧。
 *Categories: Nirvana (涅槃 - *Nirvāṇa*), Tazkiyah (净心 - *Tazkiyah*), Fitra (天性 - *Fiṭra*), Grace (恩典 - *Charis*).*
 
-- [三教合一：儒释道融合 (Syncretism)](tables/Syncretism_Three_Teachings.md)
-- [金刚乘/密宗核心 (Vajrayana/Tantra)](tables/Wisdom_Vajrayana_Tantra_Core.md)
-- [佛教疗愈心理学 (Buddhist Psychology)](tables/Wisdom_Buddhism_Healing_Psychology.md)
-- [藏地治愈艺术 (Tibetan Healing Arts)](tables/Wisdom_Tibetan_Healing_Arts.md)
-- [大手印：显实圆融 (Mahamudra)](tables/Wisdom_Mahamudra_Great_Seal.md)
+- [三教合一：儒释道融合 (Syncretism)](buddhism/Syncretism_Three_Teachings.md)
+- [金刚乘/密宗核心 (Vajrayana/Tantra)](buddhism/Wisdom_Vajrayana_Tantra_Core.md)
+- [佛教疗愈心理学 (Buddhist Psychology)](buddhism/Wisdom_Buddhism_Healing_Psychology.md)
+- [藏地治愈艺术 (Tibetan Healing Arts)](buddhism/Wisdom_Tibetan_Healing_Arts.md)
+- [大手印：显实圆融 (Mahamudra)](buddhism/Wisdom_Mahamudra_Great_Seal.md)
 
 **藏地疗愈系统 (Tibetan Healing Systems):**
-- [藏医学：索瓦日巴 (Tibetan Medicine / Sowa Rigpa)](tables/Tibetan_Medicine_Sowa_Rigpa.md) - 三因学说、七身要素、脉诊尿诊、藏药体系、四续医典
-- [藏传佛教心理学 (Tibetan Buddhist Psychology)](tables/Tibetan_Buddhist_Psychology.md) - 51心所、8识体系、5蕴、5毒转5智、菩萨道阶次
-- [大圆满：佐钦 (Dzogchen / Great Perfection)](tables/Dzogchen_Great_Perfection.md) - 本觉/明性/空性、彻却/脱噶、四相成就、龙钦巴传承
-- [那洛六法 (Six Yogas of Naropa)](tables/Six_Yogas_Naropa.md) - 拙火/幻身/梦修/光明/中阴/迁识、气脉明点、帝洛巴-那洛巴传承
-- [藏地中阴与死亡艺术 (Tibetan Bardo & Death Art)](tables/Tibetan_Bardo_Death_Art.md) - 六中阴、死亡八溶解次第、文武百尊、西藏生死书
-- [藏传仪式疗愈 (Tibetan Ritual Healing)](tables/Tibetan_Ritual_Healing.md) - 三密结构、药师佛修法、火供烟供、除障长寿仪轨
-- [白骨观与死亡冥想 (White-Bone & Death Meditation Practices)](tables/Death_Meditation_Practices.md)
-- [死亡观与向死而生 (Death View & Being-Toward-Death)](tables/Death_Existential_Psychology.md)
-- [死亡焦虑概览 (Death Anxiety Overview)](tables/Death_Anxiety_Overview.md) - 死亡焦虑核心概念、分类、理论基础、神经生物学、评估工具
-- [猝死恐惧与心脏焦虑 (Sudden Death Fear & Cardiac Anxiety)](tables/Death_Anxiety_Sudden_Death_Fear.md) - 心脏恐惧症、惊恐障碍、医学鉴别、Clark模型
-- [死亡焦虑治疗 (Death Anxiety Treatment)](tables/Death_Anxiety_Treatment.md) - 存在疗法、意义疗法、CBT、暴露、ACT、正念、药物
-- [伊斯兰心理与净心术 (Islamic Psychology/Tazkiyah)](tables/Wisdom_Islamic_Psychology_Tazkiyah.md)
-- [基督宗教内在疗愈 (Christian Inner Healing)](tables/Wisdom_Christianity_Inner_Healing.md)
-- [萨满疗愈与灵魂之旅 (Shamanic Journey)](tables/Wisdom_Shamanic_Healing_Journey.md)
-- [坛城与圣域空间 (Sacred Space/Mandala)](tables/Wisdom_Mandala_Sacred_Space_Therapy.md)
+- [藏医学：索瓦日巴 (Tibetan Medicine / Sowa Rigpa)](tibetan/Tibetan_Medicine_Sowa_Rigpa.md) - 三因学说、七身要素、脉诊尿诊、藏药体系、四续医典
+- [藏传佛教心理学 (Tibetan Buddhist Psychology)](tibetan/Tibetan_Buddhist_Psychology.md) - 51心所、8识体系、5蕴、5毒转5智、菩萨道阶次
+- [大圆满：佐钦 (Dzogchen / Great Perfection)](dzogchen/Dzogchen_Great_Perfection.md) - 本觉/明性/空性、彻却/脱噶、四相成就、龙钦巴传承
+- [那洛六法 (Six Yogas of Naropa)](tibetan/Six_Yogas_Naropa.md) - 拙火/幻身/梦修/光明/中阴/迁识、气脉明点、帝洛巴-那洛巴传承
+- [藏地中阴与死亡艺术 (Tibetan Bardo & Death Art)](tibetan/Tibetan_Bardo_Death_Art.md) - 六中阴、死亡八溶解次第、文武百尊、西藏生死书
+- [藏传仪式疗愈 (Tibetan Ritual Healing)](tibetan/Tibetan_Ritual_Healing.md) - 三密结构、药师佛修法、火供烟供、除障长寿仪轨
+- [白骨观与死亡冥想 (White-Bone & Death Meditation Practices)](death/Death_Meditation_Practices.md)
+- [死亡观与向死而生 (Death View & Being-Toward-Death)](death/Death_Existential_Psychology.md)
+- [死亡焦虑概览 (Death Anxiety Overview)](death/Death_Anxiety_Overview.md) - 死亡焦虑核心概念、分类、理论基础、神经生物学、评估工具
+- [猝死恐惧与心脏焦虑 (Sudden Death Fear & Cardiac Anxiety)](death/Death_Anxiety_Sudden_Death_Fear.md) - 心脏恐惧症、惊恐障碍、医学鉴别、Clark模型
+- [死亡焦虑治疗 (Death Anxiety Treatment)](death/Death_Anxiety_Treatment.md) - 存在疗法、意义疗法、CBT、暴露、ACT、正念、药物
+- [伊斯兰心理与净心术 (Islamic Psychology/Tazkiyah)](islamic/Wisdom_Islamic_Psychology_Tazkiyah.md)
+- [基督宗教内在疗愈 (Christian Inner Healing)](christianity/Wisdom_Christianity_Inner_Healing.md)
+- [萨满疗愈与灵魂之旅 (Shamanic Journey)](shamanic/Wisdom_Shamanic_Healing_Journey.md)
+- [坛城与圣域空间 (Sacred Space/Mandala)](mandala/Wisdom_Mandala_Sacred_Space_Therapy.md)
 
 **南传佛教专项 (Theravāda Buddhism System / 上座部佛教):**
 - [南传佛教概览 (Theravāda Overview)](Theravada_Overview.md) - 巴利经典、三藏结集、上座部传承、斯里兰卡/泰国/缅甸传统、三学体系、六道轮回、现代全球传播
@@ -104,117 +148,117 @@
 - [本尊瑜伽 (Deity Yoga)](Tibetan_Deity_Yoga.md) - 本尊分类、三等持、生起次第、咒语持诵、观想技术、各派本尊系统、佛慢清净见
 - [前行法 (Ngöndro Preliminaries)](Tibetan_Ngondro_Preliminaries.md) - 四共前行/四不共前行、皈依大礼拜、金刚萨埵百字明、献曼达、上师瑜伽、十万遍修持
 - [金刚乘概览 (Vajrayāna Overview)](Vajrayana_Overview.md) - 三根本、四灌顶、三密、84大成就者、方便道、果乘特征、显密对比、现代传播
-- [灌顶与传承 (Initiation & Empowerment)](Vajrayana_Initiation_Empowerment.md) - 四灌顶详解、三昧耶戒、传承类型、上师资格、灌顶仪轨、各派灌顶特色、现代实践
-- [真言与陀罗尼 (Mantra & Dhāraṇī)](Vajrayana_Mantra_Dharani.md) - 咒语分类、种子字、六字大明咒、百字明、度母心咒、持咒方法、念珠使用、各派咒语
-- [手印与坛城 (Mudrā & Maṇḍala)](Vajrayana_Mudra_Mandala.md) - 四种手印、五方佛印、八供养印、坛城结构、沙画坛城、身坛城、献曼达、时轮坛城
-- [气脉明点体系 (Channels, Winds & Drops)](Tibetan_Channels_Winds_Drops.md) - 三脉五轮、五风十气、白红明点、拙火修法、风息入中脉、四喜四空、时轮六支瑜伽
-- [护法系统 (Dharma Protectors)](Tibetan_Dharma_Protectors.md) - 出世间/世间护法、玛哈嘎拉、吉祥天母、四大天王、护法仪轨、各派护法体系
-- [伏藏传统 (Terma Tradition)](Tibetan_Terma_Tradition.md) - 地伏藏/意伏藏、伏藏师、空行文字、龙钦宁提、敦珠新宝藏、五大伏藏师
-- [转世活佛制度 (Tulku System)](Tibetan_Tulku_System.md) - 化身理论、转世寻访、达赖喇嘛、班禅喇嘛、噶玛巴、坐床仪式、现代转世
-- [大手印详解 (Mahāmudrā Detailed)](Mahamudra_Detailed.md) - 心性三特质、四瑜伽十二品、帝洛巴六诀、冈波巴四法、止观双运、噶举传承
+- [灌顶与传承 (Initiation & Empowerment)](tables/Vajrayana_Initiation_Empowerment.md) - 四灌顶详解、三昧耶戒、传承类型、上师资格、灌顶仪轨、各派灌顶特色、现代实践
+- [真言与陀罗尼 (Mantra & Dhāraṇī)](tables/Vajrayana_Mantra_Dharani.md) - 咒语分类、种子字、六字大明咒、百字明、度母心咒、持咒方法、念珠使用、各派咒语
+- [手印与坛城 (Mudrā & Maṇḍala)](tables/Vajrayana_Mudra_Mandala.md) - 四种手印、五方佛印、八供养印、坛城结构、沙画坛城、身坛城、献曼达、时轮坛城
+- [气脉明点体系 (Channels, Winds & Drops)](tables/Tibetan_Channels_Winds_Drops.md) - 三脉五轮、五风十气、白红明点、拙火修法、风息入中脉、四喜四空、时轮六支瑜伽
+- [护法系统 (Dharma Protectors)](tables/Tibetan_Dharma_Protectors.md) - 出世间/世间护法、玛哈嘎拉、吉祥天母、四大天王、护法仪轨、各派护法体系
+- [伏藏传统 (Terma Tradition)](tables/Tibetan_Terma_Tradition.md) - 地伏藏/意伏藏、伏藏师、空行文字、龙钦宁提、敦珠新宝藏、五大伏藏师
+- [转世活佛制度 (Tulku System)](tables/Tibetan_Tulku_System.md) - 化身理论、转世寻访、达赖喇嘛、班禅喇嘛、噶玛巴、坐床仪式、现代转世
+- [大手印详解 (Mahāmudrā Detailed)](tables/Mahamudra_Detailed.md) - 心性三特质、四瑜伽十二品、帝洛巴六诀、冈波巴四法、止观双运、噶举传承
 
 **佛教核心教理体系 (Core Buddhist Doctrinal System):**
-- [佛教基础概论 (Buddhism Core Overview)](tables/Buddhism_Core_Overview.md) - 三宝、三法印、缘起十二因缘、五蕴、六道、三学、六度、八宗、佛教心理学、现代整合
-- [四圣谛与八正道 (Four Noble Truths & Eightfold Path)](tables/Buddhism_Four_Noble_Truths.md) - 苦集灭道四谛、三转十二行相、八正道详解、道谛与心理治疗整合
-- [止观禅修详表 (Samatha-Vipassana Meditation)](tables/Buddhism_Samatha_Vipassana.md) - 四十业处、九住心、四禅八定、四念处、十六观智、神经科学、临床应用
-- [唯识学与八识心王 (Yogācāra & Eight Consciousnesses)](tables/Buddhism_Yogacara_Consciousness.md) - 八识、五十一心所、种子熏习、三性四分、转识成智、心理治疗应用
-- [中观学与空性哲学 (Madhyamaka & Emptiness)](tables/Buddhism_Madhyamaka_Philosophy.md) - 八不中道、二谛、四句否定、龙树论证、空性观修、认知治疗整合
-- [净土宗修持 (Pure Land Practice)](tables/Buddhism_Pure_Land_Practice.md) - 三经、四十八愿、信愿行、四种念佛、临终关怀、助念指南
-- [南传佛教与阿毗达摩 (Theravāda & Abhidhamma)](tables/Buddhism_Theravada_Abhidhamma.md) - 八十九心、五十二心所、二十八色、二十四缘、心路过程、临床应用
-- [佛教戒律与伦理 (Buddhist Vinaya & Ethics)](tables/Buddhism_Vinaya_Ethics.md) - 五戒十善、比丘戒、菩萨戒、业力理论、忏悔心理学
-- [天台宗止观体系 (Tiantai Zhiguan System)](tables/Buddhism_Tiantai_Zhiguan.md) - 一念三千、三谛圆融、四种三昧、十境十乘、六即佛、教观双美
-- [华严宗法界缘起 (Huayan Dharmadhātu Philosophy)](tables/Buddhism_Huayan_Philosophy.md) - 四法界、十玄门、六相圆融、因陀罗网、事事无碍、五教判
-- [佛教经典疗愈导读 (Buddhist Sutras Healing Guide)](tables/Buddhism_Sutra_Healing_Guide.md) - 般若类(心经/金刚经)、净土类、禅定类、慈悲类、生活智慧类经典疗愈解读
-- [四无量心 (Four Immeasurables / Brahmavihāra)](tables/Buddhism_Four_Immeasurables.md) - 慈悲喜舍四梵住、近敌远敌、慈心禅次第、施受法、神经科学、CFT/MSC临床整合
-- [佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Psychotherapy Integration)](tables/Buddhism_Mindfulness_Therapy_Integration.md) - 四念处与现代正念对应、MBSR/MBCT/ACT/DBT、佛教正念vs现代正念、神经科学、临床应用
-- [金刚乘基础入门 (Vajrayāna Foundation Introduction)](tables/Buddhism_Vajrayana_Foundation.md) - 三密、灌顶、本尊、四部密续、三根本、气脉明点、大手印、大圆满、四大宗派、学习指南
+- [佛教基础概论 (Buddhism Core Overview)](buddhism/Buddhism_Core_Overview.md) - 三宝、三法印、缘起十二因缘、五蕴、六道、三学、六度、八宗、佛教心理学、现代整合
+- [四圣谛与八正道 (Four Noble Truths & Eightfold Path)](buddhism/Buddhism_Four_Noble_Truths.md) - 苦集灭道四谛、三转十二行相、八正道详解、道谛与心理治疗整合
+- [止观禅修详表 (Samatha-Vipassana Meditation)](buddhism/Buddhism_Samatha_Vipassana.md) - 四十业处、九住心、四禅八定、四念处、十六观智、神经科学、临床应用
+- [唯识学与八识心王 (Yogācāra & Eight Consciousnesses)](buddhism/Buddhism_Yogacara_Consciousness.md) - 八识、五十一心所、种子熏习、三性四分、转识成智、心理治疗应用
+- [中观学与空性哲学 (Madhyamaka & Emptiness)](buddhism/Buddhism_Madhyamaka_Philosophy.md) - 八不中道、二谛、四句否定、龙树论证、空性观修、认知治疗整合
+- [净土宗修持 (Pure Land Practice)](buddhism/Buddhism_Pure_Land_Practice.md) - 三经、四十八愿、信愿行、四种念佛、临终关怀、助念指南
+- [南传佛教与阿毗达摩 (Theravāda & Abhidhamma)](buddhism/Buddhism_Theravada_Abhidhamma.md) - 八十九心、五十二心所、二十八色、二十四缘、心路过程、临床应用
+- [佛教戒律与伦理 (Buddhist Vinaya & Ethics)](buddhism/Buddhism_Vinaya_Ethics.md) - 五戒十善、比丘戒、菩萨戒、业力理论、忏悔心理学
+- [天台宗止观体系 (Tiantai Zhiguan System)](buddhism/Buddhism_Tiantai_Zhiguan.md) - 一念三千、三谛圆融、四种三昧、十境十乘、六即佛、教观双美
+- [华严宗法界缘起 (Huayan Dharmadhātu Philosophy)](buddhism/Buddhism_Huayan_Philosophy.md) - 四法界、十玄门、六相圆融、因陀罗网、事事无碍、五教判
+- [佛教经典疗愈导读 (Buddhist Sutras Healing Guide)](buddhism/Buddhism_Sutra_Healing_Guide.md) - 般若类(心经/金刚经)、净土类、禅定类、慈悲类、生活智慧类经典疗愈解读
+- [四无量心 (Four Immeasurables / Brahmavihāra)](buddhism/Buddhism_Four_Immeasurables.md) - 慈悲喜舍四梵住、近敌远敌、慈心禅次第、施受法、神经科学、CFT/MSC临床整合
+- [佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Psychotherapy Integration)](buddhism/Buddhism_Mindfulness_Therapy_Integration.md) - 四念处与现代正念对应、MBSR/MBCT/ACT/DBT、佛教正念vs现代正念、神经科学、临床应用
+- [金刚乘基础入门 (Vajrayāna Foundation Introduction)](buddhism/Buddhism_Vajrayana_Foundation.md) - 三密、灌顶、本尊、四部密续、三根本、气脉明点、大手印、大圆满、四大宗派、学习指南
 
 **意念熏习转化心念体系 (Vāsanā Mind Transformation System):**
-- [熏习概览与核心术语 (Vāsanā Overview)](tables/Vasana_Overview.md) - 熏习核心概念、历史发展、八识结构、与现代心理学对话
-- [种子学说专题 (Seed Theory / Bīja-vāda)](tables/Vasana_Seed_Theory.md) - 种子六义、种子分类、种子与现行互动、本有新熏论争
-- [熏习机制与类型 (Vāsanā Mechanisms & Types)](tables/Vasana_Mechanisms.md) - 三种熏习(名言/我执/有支)、能熏所熏条件、熏习与神经科学
-- [心念转化技术 (Mind Transformation Techniques)](tables/Vasana_Mind_Transformation.md) - 转识成智、对治法、止观双运、五毒转五智、藏传转化技术
-- [熏习临床应用 (Vāsanā Clinical Applications)](tables/Vasana_Clinical_Applications.md) - 临床框架、各类障碍分析、评估方法、治疗技术、整合协议
+- [熏习概览与核心术语 (Vāsanā Overview)](vasana/Vasana_Overview.md) - 熏习核心概念、历史发展、八识结构、与现代心理学对话
+- [种子学说专题 (Seed Theory / Bīja-vāda)](vasana/Vasana_Seed_Theory.md) - 种子六义、种子分类、种子与现行互动、本有新熏论争
+- [熏习机制与类型 (Vāsanā Mechanisms & Types)](vasana/Vasana_Mechanisms.md) - 三种熏习(名言/我执/有支)、能熏所熏条件、熏习与神经科学
+- [心念转化技术 (Mind Transformation Techniques)](vasana/Vasana_Mind_Transformation.md) - 转识成智、对治法、止观双运、五毒转五智、藏传转化技术
+- [熏习临床应用 (Vāsanā Clinical Applications)](vasana/Vasana_Clinical_Applications.md) - 临床框架、各类障碍分析、评估方法、治疗技术、整合协议
 
 ### 7. 🧠 现代心理学与认知 (Modern Psychology & Cognition)
 **描述 (Description):** 剖析认知神经科学、社会动态、情感韧性及临床应用，整合心理学流派体系、测评工具与循证疗法。
 *Categories: Neuroplasticity (神经可塑性), Cognitive Bias (认知偏差), Resilience (韧性), Flow (心流), Psychometrics (心理测量学), Evidence-Based Practice (循证实践).*
 
 **核心框架 (Core Framework):**
-- [心理学流派与理论体系 (Schools & Theories)](tables/Psychology_Schools_Theories.md) - 行为主义、精神分析、人本主义、认知、积极心理学、进化心理学、文化心理学、超个人心理学、心理治疗流派、心理学基本议题、研究方法体系、跨学科整合
-- [心理测评工具与量表 (Assessment Tools)](tables/Psychology_Assessment_Tools.md) - 智力测验、人格量表、焦虑抑郁量表、创伤测评、人际关系测评、情绪调节测评、职业心理测评、儿童青少年测评、成瘾测评、诊断性访谈、神经心理电池
-- [心理治疗技术详表 (Therapy Techniques)](tables/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
-- [核心理论与经典实验 (Theories & Experiments)](tables/Psychology_Theories_Experiments.md)
-- [认知科学与神经可塑性 (Cognition & Neuroscience)](tables/Psychology_Cognition.md)
-- [生命周期与性格发展 (Human Development)](tables/Psychology_Development.md)
-- [情感管理与幸福干预 (Emotion & Resilience)](tables/Psychology_Emotion.md)
-- [社会心理与关系动力 (Social & Relationships)](tables/Psychology_Social.md)
-- [心理实践应用案例 (Clinical Applications)](tables/Psychology_Applications.md)
-- [心理病理学图谱 (Psychopathology Atlas)](tables/Psychology_Psychopathology_Atlas.md)
-- [恐惧症概览 (Phobia Overview)](tables/Phobia_Overview.md) - 核心术语、DSM-5分类、神经生物学、诊断标准、流行病学
-- [特定恐惧症详表 (Specific Phobia Types)](tables/Phobia_Specific_Types.md) - 五大亚型、罕见恐惧症、命名词源
-- [社交恐惧症与广场恐惧症 (Social Anxiety & Agoraphobia)](tables/Phobia_Social_Agoraphobia.md) - Clark模型、DSM-5五类情境、鉴别诊断
-- [恐惧症治疗方法 (Phobia Treatment Methods)](tables/Phobia_Treatment.md) - 暴露疗法、CBT技术、药物治疗、VR疗法
-- [成瘾概览 (Addiction Overview)](tables/Addiction_Overview.md) - 成瘾定义、分类、神经回路、诊断标准、风险因素
-- [物质成瘾详表 (Substance Addictions)](tables/Addiction_Substance.md) - 酒精、尼古丁、阿片类、兴奋剂、大麻等
-- [行为成瘾详表 (Behavioral Addictions)](tables/Addiction_Behavioral.md) - 性瘾、赌博、游戏、购物等
-- [色情依赖与强迫性性行为 (Pornography Dependence & Compulsive Sexual Behavior)](tables/Addiction_Pornography_Compulsive_Sexual_Behavior.md) - 色情使用模式、诊断框架、神经机制、干预与自助原则
-- [成瘾治疗方法 (Addiction Treatment Methods)](tables/Addiction_Treatment.md) - 心理治疗、药物治疗、渴求管理
-- [成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention)](tables/Addiction_Recovery.md) - 康复阶段、自助技术、支持系统
-- [焦虑躯体化概览 (Anxiety Somatization Overview)](tables/Somatic_Anxiety_Somatization.md) - 躯体化、文化差异、系统映射、DSM-5相关诊断
-- [植物神经紊乱与自主神经失调 (Autonomic Dysregulation)](tables/Somatic_Anxiety_Autonomic_Dysfunction.md) - 自主神经系统、交感/副交感、功能性综合征
-- [疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety)](tables/Somatic_Anxiety_Illness_Anxiety.md) - 疑病/健康焦虑、DSM-5标准、认知模型
-- [焦虑躯体化与相关障碍治疗 (Somatic Anxiety Treatment)](tables/Somatic_Anxiety_Treatment.md) - CBT技术、自主神经调节、健康焦虑干预
-- [孤独与社交孤立概览 (Loneliness & Social Isolation Overview)](tables/Loneliness_Overview.md) - 孤独类型、神经生物学、健康风险、评估工具
-- [婚内孤独与情感疏离 (Marital Loneliness & Emotional Disconnection)](tables/Loneliness_Marital.md) - 室友式婚姻、情感忽视、性孤独、评估要点
-- [孤独疗愈与婚内孤独干预 (Loneliness Treatment & Relational Interventions)](tables/Loneliness_Treatment.md) - CBT、人际治疗、EFT、Gottman方法、自助与社区干预
-- [抑郁症概览 (Depression Overview)](tables/Depression_Overview.md) - 抑郁症核心概念、DSM-5诊断标准、神经生物学、流行病学、病程与预后
-- [抑郁症治疗方法 (Depression Treatment)](tables/Depression_Treatment.md) - 药物治疗、心理治疗、物理治疗、联合治疗、特殊情况处理
-- [双相情感障碍概览 (Bipolar Disorder Overview)](tables/Bipolar_Disorder_Overview.md) - 双相障碍分类、躁狂/轻躁狂/抑郁发作、神经生物学、鉴别诊断
-- [双相情感障碍治疗 (Bipolar Disorder Treatment)](tables/Bipolar_Disorder_Treatment.md) - 心境稳定剂、抗精神病药、心理治疗、物理治疗、特殊人群
-- [焦虑症概览 (Anxiety Disorder Overview)](tables/Anxiety_Disorder_Overview.md) - 广泛性焦虑、恐慌障碍、社交焦虑、神经回路、认知模型
-- [焦虑症治疗方法 (Anxiety Disorder Treatment)](tables/Anxiety_Disorder_Treatment.md) - CBT、暴露疗法、ACT、药物治疗、分障碍专项方案
+- [心理学流派与理论体系 (Schools & Theories)](psychology/Psychology_Schools_Theories.md) - 行为主义、精神分析、人本主义、认知、积极心理学、进化心理学、文化心理学、超个人心理学、心理治疗流派、心理学基本议题、研究方法体系、跨学科整合
+- [心理测评工具与量表 (Assessment Tools)](psychology/Psychology_Assessment_Tools.md) - 智力测验、人格量表、焦虑抑郁量表、创伤测评、人际关系测评、情绪调节测评、职业心理测评、儿童青少年测评、成瘾测评、诊断性访谈、神经心理电池
+- [心理治疗技术详表 (Therapy Techniques)](psychology/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
+- [核心理论与经典实验 (Theories & Experiments)](psychology/Psychology_Theories_Experiments.md)
+- [认知科学与神经可塑性 (Cognition & Neuroscience)](psychology/Psychology_Cognition.md)
+- [生命周期与性格发展 (Human Development)](psychology/Psychology_Development.md)
+- [情感管理与幸福干预 (Emotion & Resilience)](psychology/Psychology_Emotion.md)
+- [社会心理与关系动力 (Social & Relationships)](psychology/Psychology_Social.md)
+- [心理实践应用案例 (Clinical Applications)](psychology/Psychology_Applications.md)
+- [心理病理学图谱 (Psychopathology Atlas)](psychology/Psychology_Psychopathology_Atlas.md)
+- [恐惧症概览 (Phobia Overview)](phobia/Phobia_Overview.md) - 核心术语、DSM-5分类、神经生物学、诊断标准、流行病学
+- [特定恐惧症详表 (Specific Phobia Types)](phobia/Phobia_Specific_Types.md) - 五大亚型、罕见恐惧症、命名词源
+- [社交恐惧症与广场恐惧症 (Social Anxiety & Agoraphobia)](phobia/Phobia_Social_Agoraphobia.md) - Clark模型、DSM-5五类情境、鉴别诊断
+- [恐惧症治疗方法 (Phobia Treatment Methods)](phobia/Phobia_Treatment.md) - 暴露疗法、CBT技术、药物治疗、VR疗法
+- [成瘾概览 (Addiction Overview)](addiction/Addiction_Overview.md) - 成瘾定义、分类、神经回路、诊断标准、风险因素
+- [物质成瘾详表 (Substance Addictions)](addiction/Addiction_Substance.md) - 酒精、尼古丁、阿片类、兴奋剂、大麻等
+- [行为成瘾详表 (Behavioral Addictions)](addiction/Addiction_Behavioral.md) - 性瘾、赌博、游戏、购物等
+- [色情依赖与强迫性性行为 (Pornography Dependence & Compulsive Sexual Behavior)](addiction/Addiction_Pornography_Compulsive_Sexual_Behavior.md) - 色情使用模式、诊断框架、神经机制、干预与自助原则
+- [成瘾治疗方法 (Addiction Treatment Methods)](addiction/Addiction_Treatment.md) - 心理治疗、药物治疗、渴求管理
+- [成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention)](addiction/Addiction_Recovery.md) - 康复阶段、自助技术、支持系统
+- [焦虑躯体化概览 (Anxiety Somatization Overview)](somatic-anxiety/Somatic_Anxiety_Somatization.md) - 躯体化、文化差异、系统映射、DSM-5相关诊断
+- [植物神经紊乱与自主神经失调 (Autonomic Dysregulation)](somatic-anxiety/Somatic_Anxiety_Autonomic_Dysfunction.md) - 自主神经系统、交感/副交感、功能性综合征
+- [疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety)](somatic-anxiety/Somatic_Anxiety_Illness_Anxiety.md) - 疑病/健康焦虑、DSM-5标准、认知模型
+- [焦虑躯体化与相关障碍治疗 (Somatic Anxiety Treatment)](somatic-anxiety/Somatic_Anxiety_Treatment.md) - CBT技术、自主神经调节、健康焦虑干预
+- [孤独与社交孤立概览 (Loneliness & Social Isolation Overview)](loneliness/Loneliness_Overview.md) - 孤独类型、神经生物学、健康风险、评估工具
+- [婚内孤独与情感疏离 (Marital Loneliness & Emotional Disconnection)](loneliness/Loneliness_Marital.md) - 室友式婚姻、情感忽视、性孤独、评估要点
+- [孤独疗愈与婚内孤独干预 (Loneliness Treatment & Relational Interventions)](loneliness/Loneliness_Treatment.md) - CBT、人际治疗、EFT、Gottman方法、自助与社区干预
+- [抑郁症概览 (Depression Overview)](depression/Depression_Overview.md) - 抑郁症核心概念、DSM-5诊断标准、神经生物学、流行病学、病程与预后
+- [抑郁症治疗方法 (Depression Treatment)](depression/Depression_Treatment.md) - 药物治疗、心理治疗、物理治疗、联合治疗、特殊情况处理
+- [双相情感障碍概览 (Bipolar Disorder Overview)](bipolar/Bipolar_Disorder_Overview.md) - 双相障碍分类、躁狂/轻躁狂/抑郁发作、神经生物学、鉴别诊断
+- [双相情感障碍治疗 (Bipolar Disorder Treatment)](bipolar/Bipolar_Disorder_Treatment.md) - 心境稳定剂、抗精神病药、心理治疗、物理治疗、特殊人群
+- [焦虑症概览 (Anxiety Disorder Overview)](anxiety/Anxiety_Disorder_Overview.md) - 广泛性焦虑、恐慌障碍、社交焦虑、神经回路、认知模型
+- [焦虑症治疗方法 (Anxiety Disorder Treatment)](anxiety/Anxiety_Disorder_Treatment.md) - CBT、暴露疗法、ACT、药物治疗、分障碍专项方案
 
 **广泛性焦虑障碍专项 (Generalized Anxiety Disorder / Anxietas Generalis):**
-- [广泛性焦虑障碍概览 (GAD Overview)](tables/GAD_Overview.md) - 核心术语词源、DSM-5/ICD-11诊断标准、病因学、神经生物学机制、流行病学
-- [广泛性焦虑障碍临床表现 (GAD Clinical Features)](tables/GAD_Clinical_Features.md) - 担忧特征、躯体症状群、认知行为模式、特殊人群表现、功能影响
-- [广泛性焦虑障碍认知模型 (GAD Cognitive Models)](tables/GAD_Cognitive_Models.md) - Borkovec回避理论、Dugas不确定性不耐受模型、Wells元认知模型、Roemer-Orsillo情绪失调模型
-- [广泛性焦虑障碍评估 (GAD Assessment)](tables/GAD_Assessment.md) - GAD-7、PSWQ、HAM-A、IUS、MCQ-30、诊断访谈、功能评估
-- [广泛性焦虑障碍治疗 (GAD Treatment)](tables/GAD_Treatment.md) - CBT、MCT、ACT、SSRIs/SNRIs、联合治疗、治疗抵抗处理
+- [广泛性焦虑障碍概览 (GAD Overview)](gad/GAD_Overview.md) - 核心术语词源、DSM-5/ICD-11诊断标准、病因学、神经生物学机制、流行病学
+- [广泛性焦虑障碍临床表现 (GAD Clinical Features)](gad/GAD_Clinical_Features.md) - 担忧特征、躯体症状群、认知行为模式、特殊人群表现、功能影响
+- [广泛性焦虑障碍认知模型 (GAD Cognitive Models)](gad/GAD_Cognitive_Models.md) - Borkovec回避理论、Dugas不确定性不耐受模型、Wells元认知模型、Roemer-Orsillo情绪失调模型
+- [广泛性焦虑障碍评估 (GAD Assessment)](gad/GAD_Assessment.md) - GAD-7、PSWQ、HAM-A、IUS、MCQ-30、诊断访谈、功能评估
+- [广泛性焦虑障碍治疗 (GAD Treatment)](gad/GAD_Treatment.md) - CBT、MCT、ACT、SSRIs/SNRIs、联合治疗、治疗抵抗处理
 
 **慢性压力专项 (Chronic Stress / Stress Chronicus):**
-- [慢性压力概览 (Chronic Stress Overview)](tables/Chronic_Stress_Overview.md) - 核心术语词源、急性vs慢性、分类体系、Selye/Lazarus/McEwen理论模型、神经生物学、流行病学
-- [慢性压力机制 (Chronic Stress Mechanisms)](tables/Chronic_Stress_Mechanisms.md) - HPA轴、皮质醇节律、SAM系统、免疫炎症、端粒缩短、表观遗传、神经可塑性、异稳态负荷
-- [慢性压力评估 (Chronic Stress Assessment)](tables/Chronic_Stress_Assessment.md) - PSS量表、DASS-21、生活事件量表、应对量表、皮质醇测量、HRV、异稳态负荷指标体系
-- [慢性压力健康影响 (Chronic Stress Health Effects)](tables/Chronic_Stress_Health_Effects.md) - 心血管、代谢、免疫、神经精神、消化、睡眠、行为健康、生命周期视角
-- [慢性压力干预 (Chronic Stress Interventions)](tables/Chronic_Stress_Interventions.md) - CBT、MBSR、ACT、放松术、生活方式、职业干预、数字健康、阶梯式治疗
+- [慢性压力概览 (Chronic Stress Overview)](chronic-stress/Chronic_Stress_Overview.md) - 核心术语词源、急性vs慢性、分类体系、Selye/Lazarus/McEwen理论模型、神经生物学、流行病学
+- [慢性压力机制 (Chronic Stress Mechanisms)](chronic-stress/Chronic_Stress_Mechanisms.md) - HPA轴、皮质醇节律、SAM系统、免疫炎症、端粒缩短、表观遗传、神经可塑性、异稳态负荷
+- [慢性压力评估 (Chronic Stress Assessment)](chronic-stress/Chronic_Stress_Assessment.md) - PSS量表、DASS-21、生活事件量表、应对量表、皮质醇测量、HRV、异稳态负荷指标体系
+- [慢性压力健康影响 (Chronic Stress Health Effects)](chronic-stress/Chronic_Stress_Health_Effects.md) - 心血管、代谢、免疫、神经精神、消化、睡眠、行为健康、生命周期视角
+- [慢性压力干预 (Chronic Stress Interventions)](chronic-stress/Chronic_Stress_Interventions.md) - CBT、MBSR、ACT、放松术、生活方式、职业干预、数字健康、阶梯式治疗
 
 **HPA轴专项 (HPA Axis / Axis Hypothalamo-Hypophyseo-Adrenalis):**
-- [HPA轴概览 (HPA Axis Overview)](tables/HPA_Axis_Overview.md) - 核心术语词源、下丘脑-垂体-肾上腺解剖、生理机制、负反馈调节、昼夜节律、MR/GR平衡、发育与生命周期
-- [HPA轴神经科学 (HPA Axis Neuroscience)](tables/HPA_Axis_Neuroscience.md) - CRH/ACTH/皮质醇信号通路、神经解剖通路、神经递质调控、负反馈分子机制、神经可塑性、时间动力学
-- [HPA轴与应激反应 (HPA Axis & Stress Response)](tables/HPA_Axis_Stress_Response.md) - Selye GAS理论、急性vs慢性应激、异稳态负荷、应激相关疾病机制、应激韧性与易感性
-- [HPA轴临床应用 (HPA Axis Clinical Applications)](tables/HPA_Axis_Clinical_Applications.md) - 评估方法、动态功能试验、Cushing/Addison诊断、精神障碍HPA异常、躯体疾病评估
-- [HPA轴调节与干预 (HPA Axis Regulation & Interventions)](tables/HPA_Axis_Regulation_Interventions.md) - 运动/睡眠/营养干预、适应原草药、心理治疗效应、药物干预、整合医学视角
+- [HPA轴概览 (HPA Axis Overview)](hpa-axis/HPA_Axis_Overview.md) - 核心术语词源、下丘脑-垂体-肾上腺解剖、生理机制、负反馈调节、昼夜节律、MR/GR平衡、发育与生命周期
+- [HPA轴神经科学 (HPA Axis Neuroscience)](hpa-axis/HPA_Axis_Neuroscience.md) - CRH/ACTH/皮质醇信号通路、神经解剖通路、神经递质调控、负反馈分子机制、神经可塑性、时间动力学
+- [HPA轴与应激反应 (HPA Axis & Stress Response)](hpa-axis/HPA_Axis_Stress_Response.md) - Selye GAS理论、急性vs慢性应激、异稳态负荷、应激相关疾病机制、应激韧性与易感性
+- [HPA轴临床应用 (HPA Axis Clinical Applications)](hpa-axis/HPA_Axis_Clinical_Applications.md) - 评估方法、动态功能试验、Cushing/Addison诊断、精神障碍HPA异常、躯体疾病评估
+- [HPA轴调节与干预 (HPA Axis Regulation & Interventions)](hpa-axis/HPA_Axis_Regulation_Interventions.md) - 运动/睡眠/营养干预、适应原草药、心理治疗效应、药物干预、整合医学视角
 
 **皮质醇专项 (Cortisol / Cortisol):**
-- [皮质醇概览 (Cortisol Overview)](tables/Cortisol_Overview.md) - 核心术语词源、生物化学基础、合成与代谢、HPA轴调控、昼夜节律、皮质醇觉醒反应(CAR)、生理功能
-- [皮质醇神经科学 (Cortisol Neuroscience)](tables/Cortisol_Neuroscience.md) - GR/MR受体系统、脑区效应(海马/杏仁核/PFC)、神经递质交互、神经可塑性、表观遗传学、发育与性别差异
-- [皮质醇与精神障碍 (Cortisol & Mental Health)](tables/Cortisol_Mental_Health.md) - 抑郁症/PTSD/焦虑/双相/精神分裂/进食障碍与皮质醇、童年创伤影响、生物标志物价值
-- [皮质醇调节方法 (Cortisol Regulation)](tables/Cortisol_Regulation.md) - 瑜伽/冥想/运动/呼吸/睡眠/营养/适应原/社会支持/自然接触、整合干预方案
-- [皮质醇检测与评估 (Cortisol Assessment)](tables/Cortisol_Assessment.md) - 血清/唾液/尿液/毛发检测、昼夜节律评估、CAR协议、动态功能试验(DST/ACTH)、应激反应测试(TSST)
+- [皮质醇概览 (Cortisol Overview)](cortisol/Cortisol_Overview.md) - 核心术语词源、生物化学基础、合成与代谢、HPA轴调控、昼夜节律、皮质醇觉醒反应(CAR)、生理功能
+- [皮质醇神经科学 (Cortisol Neuroscience)](cortisol/Cortisol_Neuroscience.md) - GR/MR受体系统、脑区效应(海马/杏仁核/PFC)、神经递质交互、神经可塑性、表观遗传学、发育与性别差异
+- [皮质醇与精神障碍 (Cortisol & Mental Health)](cortisol/Cortisol_Mental_Health.md) - 抑郁症/PTSD/焦虑/双相/精神分裂/进食障碍与皮质醇、童年创伤影响、生物标志物价值
+- [皮质醇调节方法 (Cortisol Regulation)](cortisol/Cortisol_Regulation.md) - 瑜伽/冥想/运动/呼吸/睡眠/营养/适应原/社会支持/自然接触、整合干预方案
+- [皮质醇检测与评估 (Cortisol Assessment)](cortisol/Cortisol_Assessment.md) - 血清/唾液/尿液/毛发检测、昼夜节律评估、CAR协议、动态功能试验(DST/ACTH)、应激反应测试(TSST)
 
 - [安全感心理学 (Psychological Security)](tables/Psychological_Security.md) - 依恋理论、安全基地、心理安全感、神经生物学、临床干预
-- [自闭症谱系障碍 (Autism Spectrum Disorder)](tables/Autism_Spectrum_Disorder.md) - DSM-5诊断、神经多样性、评估工具、共病、循证干预
-- [悲伤与哀伤心理 (Grief & Bereavement)](tables/Grief_Bereavement.md) - 哀伤理论、正常与复杂性哀伤、PGD诊断、干预方法、文化视角
-- [特殊丧失类型 (Special Loss Types)](tables/Grief_Special_Loss_Types.md) - 自杀丧亲、围产期丧失、暴力死亡、群体灾难、剥夺性悲伤、替代性创伤
-- [生命全程悲伤 (Grief Across the Lifespan)](tables/Grief_Lifespan_Developmental.md) - 儿童悲伤、青少年悲伤、成年人与老年悲伤、丧子之痛、跨代悲伤
-- [哀伤干预技术 (Grief Intervention Techniques)](tables/Grief_Intervention_Techniques.md) - CGT、意义重建、持续联结、仪式干预、团体支持、儿童悲伤干预、正念与躯体方法
-- [哀伤文化与灵性 (Grief Cultural & Spiritual)](tables/Grief_Cultural_Spiritual.md) - 跨文化悲伤差异、世界宗教传统、灵性照护、文化敏感支持
-- [心理防御机制与精神胜利法 (Psychological Defense Mechanisms)](tables/Psychological_Defense_Mechanisms.md) - 防御层级、阿Q精神、适应性vs病理性防御、精神分析视角、认知重构
-- [自我安抚技术 (Self-Soothing Techniques)](tables/Self_Soothing_Techniques.md) - DBT痛苦承受技能、五感安抚、TIP技能、身体安抚、依恋与安抚
-- [自我慈悲与自我关怀 (Self-Compassion & Self-Care)](tables/Self_Compassion_Self_Care.md) - Kristin Neff自我慈悲三成分、MSC课程、自我原谅、日常自我关怀实践
-- [深度心理自助方案 (Self-Help Protocols)](tables/Psychology_Self_Help_Protocols.md)
-- [通用心理学资源 (General Resources)](tables/Psychology_General_Resources.md)
+- [自闭症谱系障碍 (Autism Spectrum Disorder)](autism/Autism_Spectrum_Disorder.md) - DSM-5诊断、神经多样性、评估工具、共病、循证干预
+- [悲伤与哀伤心理 (Grief & Bereavement)](grief/Grief_Bereavement.md) - 哀伤理论、正常与复杂性哀伤、PGD诊断、干预方法、文化视角
+- [特殊丧失类型 (Special Loss Types)](grief/Grief_Special_Loss_Types.md) - 自杀丧亲、围产期丧失、暴力死亡、群体灾难、剥夺性悲伤、替代性创伤
+- [生命全程悲伤 (Grief Across the Lifespan)](grief/Grief_Lifespan_Developmental.md) - 儿童悲伤、青少年悲伤、成年人与老年悲伤、丧子之痛、跨代悲伤
+- [哀伤干预技术 (Grief Intervention Techniques)](grief/Grief_Intervention_Techniques.md) - CGT、意义重建、持续联结、仪式干预、团体支持、儿童悲伤干预、正念与躯体方法
+- [哀伤文化与灵性 (Grief Cultural & Spiritual)](grief/Grief_Cultural_Spiritual.md) - 跨文化悲伤差异、世界宗教传统、灵性照护、文化敏感支持
+- [心理防御机制与精神胜利法 (Psychological Defense Mechanisms)](psychological/Psychological_Defense_Mechanisms.md) - 防御层级、阿Q精神、适应性vs病理性防御、精神分析视角、认知重构
+- [自我安抚技术 (Self-Soothing Techniques)](self-soothing/Self_Soothing_Techniques.md) - DBT痛苦承受技能、五感安抚、TIP技能、身体安抚、依恋与安抚
+- [自我慈悲与自我关怀 (Self-Compassion & Self-Care)](self-compassion/Self_Compassion_Self_Care.md) - Kristin Neff自我慈悲三成分、MSC课程、自我原谅、日常自我关怀实践
+- [深度心理自助方案 (Self-Help Protocols)](psychology/Psychology_Self_Help_Protocols.md)
+- [通用心理学资源 (General Resources)](psychology/Psychology_General_Resources.md)
 
 ### 8. 🏃 躯体智慧与生物医学 (Somatic Wisdom & Bio-Medicine)
 **描述 (Description):** 基于多迷走神经理论与筋膜解剖，探讨躯体疗法、拉伸科学与生物黑客技术。
@@ -233,111 +277,111 @@
 - [拉伸与运动整合 (Stretch Integration & Movement)](tables/Stretch_Integration_Movement.md)
 - [拉伸安全性与评估 (Stretch Safety & Assessment)](tables/Stretch_Safety_Assessment.md)
 - [中医经络与生命节律 (TCM & Meridians)](tables/Somatic_TCM_Meridians.md)
-- [肠脑轴与抗炎营养 (Nutrition & Gut-Brain)](tables/Bio_Nutrition_Gut.md)
-- [高阶食疗与药理 (Dietary & Pharmacy)](tables/Bio_Dietary_Pharmacy.md)
-- [睡眠科学与节律优化 (Sleep Science)](tables/Bio_Sleep_Science.md)
-- [睡眠优化与梦境研究 (Sleep & Dreams)](tables/Bio_Sleep_Dreams.md)
+- [肠脑轴与抗炎营养 (Nutrition & Gut-Brain)](bio/Bio_Nutrition_Gut.md)
+- [高阶食疗与药理 (Dietary & Pharmacy)](bio/Bio_Dietary_Pharmacy.md)
+- [睡眠科学与节律优化 (Sleep Science)](bio/Bio_Sleep_Science.md)
+- [睡眠优化与梦境研究 (Sleep & Dreams)](bio/Bio_Sleep_Dreams.md)
 - [失眠疗愈概览 (Insomnia Therapy Overview)](tables/Sleep_Insomnia_Overview.md)
 - [失眠认知行为疗法 (CBT-I)](tables/Sleep_Insomnia_CBT.md)
 - [失眠综合干预方法 (Insomnia Interventions)](tables/Sleep_Insomnia_Interventions.md)
 - [失眠临床应用与管理 (Insomnia Clinical Applications)](tables/Sleep_Insomnia_Clinical.md)
-- [断食智慧与代谢增强 (Fasting & Metabolic Wisdom)](tables/Bio_Fasting_Metabolic.md)
-- [断食疗法概览 (Fasting Therapy Overview)](tables/Bio_Fasting_Overview.md)
-- [断食作用机制与生物标志物 (Fasting Mechanisms)](tables/Bio_Fasting_Mechanisms.md)
-- [断食临床应用与适应证 (Fasting Clinical Applications)](tables/Bio_Fasting_Clinical_Applications.md)
-- [断食协议与实务操作 (Fasting Protocols)](tables/Bio_Fasting_Protocols.md)
-- [断食安全性与风险管理 (Fasting Safety)](tables/Bio_Fasting_Safety.md)
-- [高阶呼吸：调息与科学 (Breathwork & Pranayama)](tables/Bio_Breathwork_Pranayama.md)
-- [呼吸技术与生物黑客 (Breathwork & Biohacking)](tables/Bio_Breathwork_Biohack.md)
+- [断食智慧与代谢增强 (Fasting & Metabolic Wisdom)](bio/Bio_Fasting_Metabolic.md)
+- [断食疗法概览 (Fasting Therapy Overview)](bio/Bio_Fasting_Overview.md)
+- [断食作用机制与生物标志物 (Fasting Mechanisms)](bio/Bio_Fasting_Mechanisms.md)
+- [断食临床应用与适应证 (Fasting Clinical Applications)](bio/Bio_Fasting_Clinical_Applications.md)
+- [断食协议与实务操作 (Fasting Protocols)](bio/Bio_Fasting_Protocols.md)
+- [断食安全性与风险管理 (Fasting Safety)](bio/Bio_Fasting_Safety.md)
+- [高阶呼吸：调息与科学 (Breathwork & Pranayama)](bio/Bio_Breathwork_Pranayama.md)
+- [呼吸技术与生物黑客 (Breathwork & Biohacking)](bio/Bio_Breathwork_Biohack.md)
 
 ### 9. 🎨 艺术、感官与频率疗愈 (Arts, Sensory & Vibrational Medicine)
 **描述 (Description):** 利用声音、香气、色彩及视觉叙事调控意识状态。
 *Categories: Mantra (真言/咒语 - *Mantra*), Mandala (曼陀罗 - *Maṇḍala*), Aromatherapy (芳香疗法), Bel Canto (美声 - *Bel Canto*), Opera (歌剧 - *Opera*), Art Song (艺术歌曲 - *Kunstlied*), Folk Music (民谣 - *Volkslied*), Sacred Music (宗教音乐 - *Musica Sacra*), Guqin (古琴 - *Gǔqín*), Singing Bowl (颂钵 - *Drilbu*).*
 
-- [多维声音医学 (Sound Medicine)](tables/Sensory_Sound_Medicine.md)
-- [专项振动乐器：钵/锣 (Vibrational Instruments)](tables/Sensory_Vibrational_Instruments.md)
-- [能量与基础音疗 (Energy & Foundational Sound)](tables/Sensory_Energy_Sound.md)
-- [神圣真言与声学术 (Sacred Mantra)](tables/Sensory_Mantra_Sacred_Sound.md)
-- [声乐治疗与发声 (Vocal Therapy)](tables/Sensory_Vocal_Therapy.md)
-- [歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy)](tables/Opera_ArtSong_Therapy.md)
-- [民谣音乐疗愈 (Folk Music Therapy)](tables/Folk_Music_Therapy.md) - 世界民谣传统、口头传承、叙事歌谣、工作歌、哀歌、乡愁疗愈
-- [宗教音乐疗愈 (Sacred Music Therapy)](tables/Sacred_Music_Therapy.md) - 圣咏、格里高利圣咏、真言/曼陀罗、克尔坦、诵经、苏菲音乐、福音音乐
-- [古琴疗愈 (Guqin Therapy)](tables/Guqin_Therapy.md) - 中国传统七弦琴、琴道修身、十大名曲、五音疗法、儒释道整合
-- [西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)](tables/Tibetan_Singing_Bowl.md) - 声浴、振动疗法、泛音共振、脉轮平衡、脑波夹带
-- [高阶芳香与嗅觉神经 (Aromatherapy & Olfactory)](tables/Sensory_Aromatherapy_Olfactory.md)
-- [临床精油配方与毒理 (Essential Oil Formulations)](tables/Sensory_Essential_Oils.md)
-- [SPA仪式与触碰伦理 (SPA & Bodywork)](tables/Sensory_SPA_Bodywork.md)
-- [艺术、自然与生态 (Arts & Nature)](tables/Sensory_Arts_Nature.md)
-- [表达性舞动治疗 (Expressive Dance)](tables/Sensory_Dance_Expressive.md)
-- [书写、日记与叙事 (Writing/Journaling)](tables/Sensory_Writing_Journaling.md)
-- [正念艺术与缠绕画 (Mindful Zentangle)](tables/Sensory_Zentangle_Art.md)
-- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](tables/Sensory_Mandala_Jungian.md)
-- [深层访谈与对话技术 (Clinical Interview/Dialogue)](tables/Sensory_Clinical_Dialogue.md)
+- [多维声音医学 (Sound Medicine)](sound/Sensory_Sound_Medicine.md)
+- [专项振动乐器：钵/锣 (Vibrational Instruments)](sound/Sensory_Vibrational_Instruments.md)
+- [能量与基础音疗 (Energy & Foundational Sound)](sound/Sensory_Energy_Sound.md)
+- [神圣真言与声学术 (Sacred Mantra)](sound/Sensory_Mantra_Sacred_Sound.md)
+- [声乐治疗与发声 (Vocal Therapy)](sound/Sensory_Vocal_Therapy.md)
+- [歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy)](music/Opera_ArtSong_Therapy.md)
+- [民谣音乐疗愈 (Folk Music Therapy)](music/Folk_Music_Therapy.md) - 世界民谣传统、口头传承、叙事歌谣、工作歌、哀歌、乡愁疗愈
+- [宗教音乐疗愈 (Sacred Music Therapy)](music/Sacred_Music_Therapy.md) - 圣咏、格里高利圣咏、真言/曼陀罗、克尔坦、诵经、苏菲音乐、福音音乐
+- [古琴疗愈 (Guqin Therapy)](music/Guqin_Therapy.md) - 中国传统七弦琴、琴道修身、十大名曲、五音疗法、儒释道整合
+- [西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)](sound/Tibetan_Singing_Bowl.md) - 声浴、振动疗法、泛音共振、脉轮平衡、脑波夹带
+- [高阶芳香与嗅觉神经 (Aromatherapy & Olfactory)](aromatherapy/Sensory_Aromatherapy_Olfactory.md)
+- [临床精油配方与毒理 (Essential Oil Formulations)](aromatherapy/Sensory_Essential_Oils.md)
+- [SPA仪式与触碰伦理 (SPA & Bodywork)](spa/Sensory_SPA_Bodywork.md)
+- [艺术、自然与生态 (Arts & Nature)](arts/Sensory_Arts_Nature.md)
+- [表达性舞动治疗 (Expressive Dance)](dance/Sensory_Dance_Expressive.md)
+- [书写、日记与叙事 (Writing/Journaling)](writing/Sensory_Writing_Journaling.md)
+- [正念艺术与缠绕画 (Mindful Zentangle)](arts/Sensory_Zentangle_Art.md)
+- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](psychology/Sensory_Mandala_Jungian.md)
+- [深层访谈与对话技术 (Clinical Interview/Dialogue)](psychotherapy/Sensory_Clinical_Dialogue.md)
 
 ### 10. 🧘‍♂️ 通用冥想与静修 (General Meditation)
 **描述 (Description):** 跨流派的冥想基础技术与进阶应用，包含现代觉察教导与传统修持体系，整合神经科学机制与系统化分类体系。
 *Categories: Choiceless Awareness (无选择觉察 - *Anāsakti*/अनासक्ति), Krishnamurti Teachings (克里希那穆提), Nan Huai-Chin (南怀瑾), Neuroplasticity (神经可塑性), Meditation Classification (冥想分类).*
 
 **核心框架 (Core Framework):**
-- [冥想类型与流派分类 (Meditation Types & Classification)](tables/Meditation_Types_Classification.md) - 专注/开放/情感/非二元、瑜伽/佛教/道家/现代正念、注意力机制分类、深度分级、文化传播演变
-- [冥想神经科学与作用机制 (Neuroscience & Mechanisms)](tables/Meditation_Neuroscience_Mechanisms.md) - 神经解剖变化、脑波特征、神经递质、脑网络连接、自主神经系统、神经可塑性机制、心理障碍神经机制、剂量-效应关系
-- [冥想临床应用详表 (Clinical Applications)](tables/Meditation_Clinical_Applications.md) - 焦虑障碍、抑郁障碍、成瘾障碍、疼痛管理、躯体化障碍、睡眠障碍、人格障碍、特殊人群应用、剂量-效应匹配、禁忌症与风险管理
-- [冥想核心：基础与技巧 (Core Meditation)](tables/Meditation_Core.md) - 禅修常见误解、个性化路径、冥想问题解决、日常实践指南
-- [深度冥想：进阶指南 (Advanced Meditation)](tables/Meditation_Advanced.md) - 高级技术与深度状态
-- [冥想概论与通识 (General Meditation)](tables/Meditation_General.md) - 通识知识与基础理论
-- [职场、创意与社会应用 (Meditation Applications)](tables/Meditation_Applications.md) - 实践案例与应用场景
+- [冥想类型与流派分类 (Meditation Types & Classification)](meditation/Meditation_Types_Classification.md) - 专注/开放/情感/非二元、瑜伽/佛教/道家/现代正念、注意力机制分类、深度分级、文化传播演变
+- [冥想神经科学与作用机制 (Neuroscience & Mechanisms)](meditation/Meditation_Neuroscience_Mechanisms.md) - 神经解剖变化、脑波特征、神经递质、脑网络连接、自主神经系统、神经可塑性机制、心理障碍神经机制、剂量-效应关系
+- [冥想临床应用详表 (Clinical Applications)](meditation/Meditation_Clinical_Applications.md) - 焦虑障碍、抑郁障碍、成瘾障碍、疼痛管理、躯体化障碍、睡眠障碍、人格障碍、特殊人群应用、剂量-效应匹配、禁忌症与风险管理
+- [冥想核心：基础与技巧 (Core Meditation)](meditation/Meditation_Core.md) - 禅修常见误解、个性化路径、冥想问题解决、日常实践指南
+- [深度冥想：进阶指南 (Advanced Meditation)](meditation/Meditation_Advanced.md) - 高级技术与深度状态
+- [冥想概论与通识 (General Meditation)](meditation/Meditation_General.md) - 通识知识与基础理论
+- [职场、创意与社会应用 (Meditation Applications)](meditation/Meditation_Applications.md) - 实践案例与应用场景
 
 **现代正念疗法体系 (Modern Mindfulness-Based Interventions):**
-- [超觉静坐 (Transcendental Meditation, TM)](tables/Transcendental_Meditation.md) - Maharishi咒语冥想、超越意识、心血管健康、默祷系统化
-- [瑜伽休息术 (Yoga Nidra)](tables/Yoga_Nidra.md) - 意识睡眠、Satyananda与iRest系统、创伤疗愈、Sankalpa意图设定
-- [内观禅修 (Vipassana Meditation)](tables/Vipassana_Meditation.md) - 四念处、身受心法、Goenka/Mahasi传承、10日课程、监狱应用
-- [躯体体验疗法 (Somatic Experiencing, SE)](tables/Somatic_Experiencing_Therapy.md) - Peter Levine创伤释放、调节窗口、滴定法、多迷走神经理论
-- [慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)](tables/Compassion_Focused_Therapy.md) - Paul Gilbert三圈系统、羞耻疗愈、慈悲意象、自我批评转化
-- [辩证行为疗法 (Dialectical Behavior Therapy, DBT)](tables/Dialectical_Behavior_Therapy.md) - Marsha Linehan正念技能、情绪调节、痛苦承受、人际效能、边缘性人格
-- [正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)](tables/Mindfulness_Based_Cognitive_Therapy.md) - 抑郁复发预防、去中心化、三分钟呼吸空间、差别激活假说
-- [正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)](tables/Mindfulness_Based_Stress_Reduction.md) - Jon Kabat-Zinn八周课程、身体扫描、全灾难生活、七种正念态度
+- [超觉静坐 (Transcendental Meditation, TM)](meditation/Transcendental_Meditation.md) - Maharishi咒语冥想、超越意识、心血管健康、默祷系统化
+- [瑜伽休息术 (Yoga Nidra)](yoga/Yoga_Nidra.md) - 意识睡眠、Satyananda与iRest系统、创伤疗愈、Sankalpa意图设定
+- [内观禅修 (Vipassana Meditation)](meditation/Vipassana_Meditation.md) - 四念处、身受心法、Goenka/Mahasi传承、10日课程、监狱应用
+- [躯体体验疗法 (Somatic Experiencing, SE)](somatic/Somatic_Experiencing_Therapy.md) - Peter Levine创伤释放、调节窗口、滴定法、多迷走神经理论
+- [慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)](compassion/Compassion_Focused_Therapy.md) - Paul Gilbert三圈系统、羞耻疗愈、慈悲意象、自我批评转化
+- [辩证行为疗法 (Dialectical Behavior Therapy, DBT)](dbt/Dialectical_Behavior_Therapy.md) - Marsha Linehan正念技能、情绪调节、痛苦承受、人际效能、边缘性人格
+- [正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)](mindfulness/Mindfulness_Based_Cognitive_Therapy.md) - 抑郁复发预防、去中心化、三分钟呼吸空间、差别激活假说
+- [正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)](mindfulness/Mindfulness_Based_Stress_Reduction.md) - Jon Kabat-Zinn八周课程、身体扫描、全灾难生活、七种正念态度
 
 **传统教导体系 (Traditional Teaching Systems):**
-- [克里希那穆提教导 (Krishnamurti Teachings)](tables/Krishnamurti_Teachings.md) - 无选择觉察、自由与洞察
-- [南怀瑾先生教导与实修 (Nan Huai-Chin's Teachings)](tables/Nan_Huaijin_Teachings.md) - 儒释道融通、实修方法
+- [克里希那穆提教导 (Krishnamurti Teachings)](krishnamurti/Krishnamurti_Teachings.md) - 无选择觉察、自由与洞察
+- [南怀瑾先生教导与实修 (Nan Huai-Chin's Teachings)](nan-huaijin/Nan_Huaijin_Teachings.md) - 儒释道融通、实修方法
 
 **创伤干预核心技术 (Core Trauma Intervention Techniques):**
-- [接地技术 (Grounding Techniques)](tables/Grounding_Techniques.md) - 将注意力带回当下身体和物理现实的技术，创伤和解离治疗的稳定化核心
-- [容器化技术 (Containment Techniques)](tables/Containment_Techniques.md) - 暂时隔离困难情绪和记忆的心理技术，防止淹没与情感耗竭
+- [接地技术 (Grounding Techniques)](trauma/Grounding_Techniques.md) - 将注意力带回当下身体和物理现实的技术，创伤和解离治疗的稳定化核心
+- [容器化技术 (Containment Techniques)](trauma/Containment_Techniques.md) - 暂时隔离困难情绪和记忆的心理技术，防止淹没与情感耗竭
 
 **正念与心流体系 (Mindfulness & Flow Systems):**
-- [正念核心概念与技术 (Mindfulness Core)](tables/Mindfulness_Core.md) - 正念的定义、历史、理论框架、核心技术、神经机制、测量工具与教学框架
-- [正念临床应用 (Mindfulness Clinical Applications)](tables/Mindfulness_Clinical_Applications.md) - 正念在精神障碍、慢性疾病、特殊人群中的循证应用与风险管理
-- [心流核心理论 (Flow State Core)](tables/Flow_State_Core.md) - Csikszentmihalyi心流理论、技能-挑战模型、神经科学机制、心流触发条件与测量
-- [心流临床应用与实践 (Flow Clinical Applications)](tables/Flow_Clinical_Applications.md) - 心流在心理治疗、教育、工作、运动中的应用及训练技术
+- [正念核心概念与技术 (Mindfulness Core)](mindfulness/Mindfulness_Core.md) - 正念的定义、历史、理论框架、核心技术、神经机制、测量工具与教学框架
+- [正念临床应用 (Mindfulness Clinical Applications)](mindfulness/Mindfulness_Clinical_Applications.md) - 正念在精神障碍、慢性疾病、特殊人群中的循证应用与风险管理
+- [心流核心理论 (Flow State Core)](flow/Flow_State_Core.md) - Csikszentmihalyi心流理论、技能-挑战模型、神经科学机制、心流触发条件与测量
+- [心流临床应用与实践 (Flow Clinical Applications)](flow/Flow_Clinical_Applications.md) - 心流在心理治疗、教育、工作、运动中的应用及训练技术
 
 **放松术体系 (Relaxation Techniques System):**
-- [放松术核心概览 (Relaxation Overview)](tables/Relaxation_Overview.md) - 放松反应理论、Benson模型、自主神经调节、主要技术分类、临床应用循证
-- [渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)](tables/Relaxation_PMR.md) - Jacobson原始方法、Bernstein-Borkovec简化版、16/7/4肌肉群协议、张力-释放循环
-- [自生训练 (Autogenic Training, AT)](tables/Relaxation_Autogenic_Training.md) - Schultz六标准公式、重感/温感/心脏/呼吸/腹部/前额、被动专注、Luthe高级技术
-- [呼吸放松技术 (Breathing Relaxation Techniques)](tables/Relaxation_Breathing.md) - 膈肌呼吸、4-7-8呼吸、方形呼吸、共振呼吸、调息术整合、HRV生物反馈
-- [引导意象放松 (Guided Imagery)](tables/Relaxation_Guided_Imagery.md) - 安全场所、康复意象、GIM (引导意象与音乐)、意象排练、脚本设计
-- [应用性放松训练 (Applied Relaxation, AR)](tables/Relaxation_Applied_Training.md) - Öst应用性放松、快速放松、提示控制放松、差异放松、情境应用
+- [放松术核心概览 (Relaxation Overview)](relaxation/Relaxation_Overview.md) - 放松反应理论、Benson模型、自主神经调节、主要技术分类、临床应用循证
+- [渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)](relaxation/Relaxation_PMR.md) - Jacobson原始方法、Bernstein-Borkovec简化版、16/7/4肌肉群协议、张力-释放循环
+- [自生训练 (Autogenic Training, AT)](relaxation/Relaxation_Autogenic_Training.md) - Schultz六标准公式、重感/温感/心脏/呼吸/腹部/前额、被动专注、Luthe高级技术
+- [呼吸放松技术 (Breathing Relaxation Techniques)](relaxation/Relaxation_Breathing.md) - 膈肌呼吸、4-7-8呼吸、方形呼吸、共振呼吸、调息术整合、HRV生物反馈
+- [引导意象放松 (Guided Imagery)](relaxation/Relaxation_Guided_Imagery.md) - 安全场所、康复意象、GIM (引导意象与音乐)、意象排练、脚本设计
+- [应用性放松训练 (Applied Relaxation, AR)](relaxation/Relaxation_Applied_Training.md) - Öst应用性放松、快速放松、提示控制放松、差异放松、情境应用
 
 **直接认知系统 (Direct Recognition / Pratyabhijñā / प्रत्यभिज्ञा):**
-- [直接与间接认知完整对比 (Direct & Indirect Recognition Comparison)](tables/Meditation_Direct_Indirect_Recognition.md) - 两大修行路径哲学基础、修行方法、神经科学、心理学、临床应用、优势风险、整合策略完整对比
-- [直接认知神经科学 (Direct Recognition Neuroscience)](tables/Meditation_Direct_Recognition_Neuroscience.md) - 神经机制、脑区变化、脑波特征、神经递质、神经可塑性、直接与渐修神经对比
-- [直接认知评估与阶次 (Direct Recognition Assessment & Stages)](tables/Meditation_Direct_Recognition_Assessment_Stages.md) - 大圆满四相、大手印四瑜伽、禅宗阶次、吠檀多阶段、体验品质评估、自我评估工具
-- [直接认知历史源流 (Direct Recognition History & Lineage)](tables/Meditation_Direct_Recognition_History_Lineage.md) - 印度传统、克什米尔希瓦派、藏传大圆满/大手印、禅宗、现代不二运动传承脉络
-- [不二论：直接认知核心 (Direct Recognition Foundations)](tables/Meditation_Direct_Recognition_Foundations.md) - 觉知与显现辨析、不二机制、核心概念跨传统映射、存在论障碍
-- [不二论：各派技术地图 (Direct Recognition Traditions)](tables/Meditation_Direct_Recognition_Traditions.md) - 大圆满/大手印/不二论/禅宗/希瓦哲学技术对比、椎击三要、否定之道、现代导师
-- [直接认知：直指与现观技术 (Pointing-out & Direct Perception)](tables/Meditation_Direct_Recognition_Pointing_Out.md) - 直指方便本质、识别技术、间隙体验、导师引导流程
-- [直接认知疗愈与不二心理 (Direct Recognition Healing)](tables/Therapy_Direct_Recognition_Healing.md) - 无条件疗愈原则、身份化痛苦干预、临床整合、疗愈地图
-- [直接认知：日常整合与伦理 (Daily Integration & Ethics)](tables/Meditation_Direct_Recognition_Daily_Integration.md) - 后得位行住坐卧、不二论伦理、转化标志、十牛图整合
+- [直接与间接认知完整对比 (Direct & Indirect Recognition Comparison)](meditation/Meditation_Direct_Indirect_Recognition.md) - 两大修行路径哲学基础、修行方法、神经科学、心理学、临床应用、优势风险、整合策略完整对比
+- [直接认知神经科学 (Direct Recognition Neuroscience)](meditation/Meditation_Direct_Recognition_Neuroscience.md) - 神经机制、脑区变化、脑波特征、神经递质、神经可塑性、直接与渐修神经对比
+- [直接认知评估与阶次 (Direct Recognition Assessment & Stages)](meditation/Meditation_Direct_Recognition_Assessment_Stages.md) - 大圆满四相、大手印四瑜伽、禅宗阶次、吠檀多阶段、体验品质评估、自我评估工具
+- [直接认知历史源流 (Direct Recognition History & Lineage)](meditation/Meditation_Direct_Recognition_History_Lineage.md) - 印度传统、克什米尔希瓦派、藏传大圆满/大手印、禅宗、现代不二运动传承脉络
+- [不二论：直接认知核心 (Direct Recognition Foundations)](meditation/Meditation_Direct_Recognition_Foundations.md) - 觉知与显现辨析、不二机制、核心概念跨传统映射、存在论障碍
+- [不二论：各派技术地图 (Direct Recognition Traditions)](meditation/Meditation_Direct_Recognition_Traditions.md) - 大圆满/大手印/不二论/禅宗/希瓦哲学技术对比、椎击三要、否定之道、现代导师
+- [直接认知：直指与现观技术 (Pointing-out & Direct Perception)](meditation/Meditation_Direct_Recognition_Pointing_Out.md) - 直指方便本质、识别技术、间隙体验、导师引导流程
+- [直接认知疗愈与不二心理 (Direct Recognition Healing)](meditation/Therapy_Direct_Recognition_Healing.md) - 无条件疗愈原则、身份化痛苦干预、临床整合、疗愈地图
+- [直接认知：日常整合与伦理 (Daily Integration & Ethics)](meditation/Meditation_Direct_Recognition_Daily_Integration.md) - 后得位行住坐卧、不二论伦理、转化标志、十牛图整合
 
 **坛城冥想体系 (Mandala Meditation System):**
-- [坛城冥想概览 (Mandala Meditation Overview)](tables/Mandala_Meditation_Overview.md) - 核心术语、历史发展、理论基础、分类体系、坛城原理、与其他冥想对比
-- [坛城冥想传统流派 (Mandala Meditation Traditions)](tables/Mandala_Meditation_Traditions.md) - 藏传四续部坛城、五方佛体系、印度教延陀罗、东亚曼荼罗、禅圆、荣格心理学、原住民传统
-- [坛城冥想技术详表 (Mandala Meditation Techniques)](tables/Mandala_Meditation_Techniques.md) - 观想技术、绘制技术、凝视技术、彩砂坛城、涂色技术、行走坛城、数字坛城
-- [坛城冥想神经科学 (Mandala Meditation Neuroscience)](tables/Mandala_Meditation_Neuroscience.md) - 神经解剖学、脑波特征、神经递质效应、神经可塑性、研究证据汇总、机制模型
-- [坛城冥想临床应用 (Mandala Meditation Clinical)](tables/Mandala_Meditation_Clinical.md) - 精神障碍适应症、特殊人群指南、疗法整合方案、专病协议、禁忌症与风险管理、评估工具
-- [坛城与圣域空间 (Sacred Space/Mandala)](tables/Wisdom_Mandala_Sacred_Space_Therapy.md) - 五方佛坛城五智转换、神圣场域构建、内在坛城观想、坛城仪式系统疗愈
-- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](tables/Sensory_Mandala_Jungian.md) - 曼陀罗结构几何学、色谱心理、荣格原型、临床干预流程、应用模式
+- [坛城冥想概览 (Mandala Meditation Overview)](meditation/Mandala_Meditation_Overview.md) - 核心术语、历史发展、理论基础、分类体系、坛城原理、与其他冥想对比
+- [坛城冥想传统流派 (Mandala Meditation Traditions)](meditation/Mandala_Meditation_Traditions.md) - 藏传四续部坛城、五方佛体系、印度教延陀罗、东亚曼荼罗、禅圆、荣格心理学、原住民传统
+- [坛城冥想技术详表 (Mandala Meditation Techniques)](meditation/Mandala_Meditation_Techniques.md) - 观想技术、绘制技术、凝视技术、彩砂坛城、涂色技术、行走坛城、数字坛城
+- [坛城冥想神经科学 (Mandala Meditation Neuroscience)](meditation/Mandala_Meditation_Neuroscience.md) - 神经解剖学、脑波特征、神经递质效应、神经可塑性、研究证据汇总、机制模型
+- [坛城冥想临床应用 (Mandala Meditation Clinical)](meditation/Mandala_Meditation_Clinical.md) - 精神障碍适应症、特殊人群指南、疗法整合方案、专病协议、禁忌症与风险管理、评估工具
+- [坛城与圣域空间 (Sacred Space/Mandala)](meditation/Wisdom_Mandala_Sacred_Space_Therapy.md) - 五方佛坛城五智转换、神圣场域构建、内在坛城观想、坛城仪式系统疗愈
+- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](meditation/Sensory_Mandala_Jungian.md) - 曼陀罗结构几何学、色谱心理、荣格原型、临床干预流程、应用模式
 
 **资源与参考 (Resources):**
 - [经典学习与修持资源 (Meditation Resources)](tables/Meditation_Resources.md) - 书籍、课程、导师资源
@@ -346,31 +390,31 @@
 **描述 (Description):** 系统化的香料疗法知识体系，涵盖药理学、历史文化、临床应用、配方制备及跨学科整合。
 *Categories: Sandalwood (檀香 - *Candana*), Frankincense (乳香 - *Kunduru*), Aromatherapy (芳香疗法), Psychopharmacology (精神药理学).*
 
-- [檀香疗法概览 (Incense Therapy Overview)](tables/Incense_Overview.md)
-- [作用机制 (Mechanisms)](tables/Incense_Mechanisms.md)
-- [临床证据 (Clinical Evidence)](tables/Incense_Clinical_Evidence.md)
-- [实践指南 (Practical Guidelines)](tables/Incense_Practices.md)
-- [资源与参考 (Resources)](tables/Incense_Resources.md)
-- [药理学与活性化合物 (Pharmacology & Compounds)](tables/Incense_Pharmacology_Compounds.md)
-- [历史与文化传承 (History & Culture)](tables/Incense_History_Culture.md)
-- [安全性与毒理学 (Safety & Toxicology)](tables/Incense_Safety_Toxicology.md)
-- [香料分类与类型 (Types & Classification)](tables/Incense_Types_Classification.md)
-- [临床方案与案例 (Clinical Protocols & Cases)](tables/Incense_Clinical_Protocols.md)
-- [配方设计与制备 (Preparation & Formulation)](tables/Incense_Preparation_Formulation.md)
-- [跨学科整合应用 (Integration with Modalities)](tables/Incense_Integration_Modalities.md)
+- [檀香疗法概览 (Incense Therapy Overview)](incense/Incense_Overview.md)
+- [作用机制 (Mechanisms)](incense/Incense_Mechanisms.md)
+- [临床证据 (Clinical Evidence)](incense/Incense_Clinical_Evidence.md)
+- [实践指南 (Practical Guidelines)](incense/Incense_Practices.md)
+- [资源与参考 (Resources)](incense/Incense_Resources.md)
+- [药理学与活性化合物 (Pharmacology & Compounds)](incense/Incense_Pharmacology_Compounds.md)
+- [历史与文化传承 (History & Culture)](incense/Incense_History_Culture.md)
+- [安全性与毒理学 (Safety & Toxicology)](incense/Incense_Safety_Toxicology.md)
+- [香料分类与类型 (Types & Classification)](incense/Incense_Types_Classification.md)
+- [临床方案与案例 (Clinical Protocols & Cases)](incense/Incense_Clinical_Protocols.md)
+- [配方设计与制备 (Preparation & Formulation)](incense/Incense_Preparation_Formulation.md)
+- [跨学科整合应用 (Integration with Modalities)](incense/Incense_Integration_Modalities.md)
 
 ### 12. 🎼 古典音乐疗愈 (Classical Music Therapy)
 **描述 (Description):** 系统化的古典音乐疗愈知识体系，涵盖神经科学机制、疗愈方法、临床方案、作曲家作品及跨学科整合。
 *Categories: Music Therapy (音乐疗法 - *Musiktherapie*), GIM (引导意象与音乐), Entrainment (夹带效应), Neuroplasticity (神经可塑性).*
 
 **核心框架 (Core Framework):**
-- [古典音乐疗愈概览 (Classical Music Overview)](tables/Classical_Music_Overview.md)
-- [神经科学与心理机制 (Neuroscience & Psychology)](tables/Classical_Music_Neuroscience.md)
-- [疗愈方法与技术 (Therapeutic Methods)](tables/Classical_Music_Therapeutic_Methods.md)
-- [作曲家与疗愈作品 (Composers & Works)](tables/Classical_Music_Composers_Works.md)
-- [临床方案与适应症 (Clinical Protocols)](tables/Classical_Music_Clinical_Protocols.md)
-- [音乐时期与风格特质 (Periods & Styles)](tables/Classical_Music_Periods_Styles.md)
-- [跨学科整合应用 (Integration with Modalities)](tables/Classical_Music_Integration.md)
+- [古典音乐疗愈概览 (Classical Music Overview)](classical-music/Classical_Music_Overview.md)
+- [神经科学与心理机制 (Neuroscience & Psychology)](classical-music/Classical_Music_Neuroscience.md)
+- [疗愈方法与技术 (Therapeutic Methods)](classical-music/Classical_Music_Therapeutic_Methods.md)
+- [作曲家与疗愈作品 (Composers & Works)](classical-music/Classical_Music_Composers_Works.md)
+- [临床方案与适应症 (Clinical Protocols)](classical-music/Classical_Music_Clinical_Protocols.md)
+- [音乐时期与风格特质 (Periods & Styles)](classical-music/Classical_Music_Periods_Styles.md)
+- [跨学科整合应用 (Integration with Modalities)](classical-music/Classical_Music_Integration.md)
 - [专业资源与参考 (Resources & References)](tables/Classical_Music_Resources.md)
 
 **作曲家专项疗愈 (Composer-Specific Therapy):**
