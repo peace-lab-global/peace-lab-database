@@ -418,40 +418,40 @@
 - [专业资源与参考 (Resources & References)](classical-music/Classical_Music_Resources.md)
 
 **作曲家专项疗愈 (Composer-Specific Therapy):**
-- [莫扎特音乐疗愈 (Mozart Music Therapy)](tables/Mozart_Music_Therapy.md) - 莫扎特效应、认知增强、纯净均衡
-- [巴赫音乐疗愈 (Bach Music Therapy)](tables/Bach_Music_Therapy.md) - 复调结构、灵性深度、数学秩序
-- [舒伯特音乐疗愈 (Schubert Music Therapy)](tables/Schubert_Music_Therapy.md) - 哀伤陪伴、存在性探索、乡愁处理
-- [贝多芬音乐疗愈 (Beethoven Music Therapy)](tables/Beethoven_Music_Therapy.md) - 力量激发、逆境克服、英雄叙事
-- [拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)](tables/Rachmaninoff_Music_Therapy.md) - 抑郁康复、深度情感、俄罗斯乡愁
-- [肖邦音乐疗愈 (Chopin Music Therapy)](tables/Chopin_Music_Therapy.md) - 诗意抒情、细腻情感、夜曲放松
-- [德彪西音乐疗愈 (Debussy Music Therapy)](tables/Debussy_Music_Therapy.md) - 印象主义、色彩悬浮、感官沉浸
-- [勃拉姆斯音乐疗愈 (Brahms Music Therapy)](tables/Brahms_Music_Therapy.md) - 温暖深沉、晚期人生、德意志灵魂
-- [柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)](tables/Tchaikovsky_Music_Therapy.md) - 情感宣泄、芭蕾音乐、悲怆交响
-- [维瓦尔第音乐疗愈 (Vivaldi Music Therapy)](tables/Vivaldi_Music_Therapy.md) - 能量激活、自然疗愈、晨间唤醒
-- [亨德尔音乐疗愈 (Handel Music Therapy)](tables/Handel_Music_Therapy.md) - 灵性体验、庆典仪式、弥赛亚
-- [萨蒂音乐疗愈 (Satie Music Therapy)](tables/Satie_Music_Therapy.md) - 极简主义、正念冥想、禅意美学
-- [马勒音乐疗愈 (Mahler Music Therapy)](tables/Mahler_Music_Therapy.md) - 存在探索、丧亲悲伤、深度转化、死亡接纳
-- [福雷音乐疗愈 (Fauré Music Therapy)](tables/Faure_Music_Therapy.md) - 临终关怀、法式优雅、安魂曲、深度放松
+- [莫扎特音乐疗愈 (Mozart Music Therapy)](classical-music/Mozart_Music_Therapy.md) - 莫扎特效应、认知增强、纯净均衡
+- [巴赫音乐疗愈 (Bach Music Therapy)](classical-music/Bach_Music_Therapy.md) - 复调结构、灵性深度、数学秩序
+- [舒伯特音乐疗愈 (Schubert Music Therapy)](classical-music/Schubert_Music_Therapy.md) - 哀伤陪伴、存在性探索、乡愁处理
+- [贝多芬音乐疗愈 (Beethoven Music Therapy)](classical-music/Beethoven_Music_Therapy.md) - 力量激发、逆境克服、英雄叙事
+- [拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)](classical-music/Rachmaninoff_Music_Therapy.md) - 抑郁康复、深度情感、俄罗斯乡愁
+- [肖邦音乐疗愈 (Chopin Music Therapy)](classical-music/Chopin_Music_Therapy.md) - 诗意抒情、细腻情感、夜曲放松
+- [德彪西音乐疗愈 (Debussy Music Therapy)](classical-music/Debussy_Music_Therapy.md) - 印象主义、色彩悬浮、感官沉浸
+- [勃拉姆斯音乐疗愈 (Brahms Music Therapy)](classical-music/Brahms_Music_Therapy.md) - 温暖深沉、晚期人生、德意志灵魂
+- [柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)](classical-music/Tchaikovsky_Music_Therapy.md) - 情感宣泄、芭蕾音乐、悲怆交响
+- [维瓦尔第音乐疗愈 (Vivaldi Music Therapy)](classical-music/Vivaldi_Music_Therapy.md) - 能量激活、自然疗愈、晨间唤醒
+- [亨德尔音乐疗愈 (Handel Music Therapy)](classical-music/Handel_Music_Therapy.md) - 灵性体验、庆典仪式、弥赛亚
+- [萨蒂音乐疗愈 (Satie Music Therapy)](classical-music/Satie_Music_Therapy.md) - 极简主义、正念冥想、禅意美学
+- [马勒音乐疗愈 (Mahler Music Therapy)](classical-music/Mahler_Music_Therapy.md) - 存在探索、丧亲悲伤、深度转化、死亡接纳
+- [福雷音乐疗愈 (Fauré Music Therapy)](classical-music/Faure_Music_Therapy.md) - 临终关怀、法式优雅、安魂曲、深度放松
 
 ### 13. 💑 恋爱与婚姻心理 (Love & Marriage Psychology)
 **描述 (Description):** 系统化的恋爱与婚姻心理知识体系，涵盖恋爱阶段、择偶心理、神经生物学、沟通技术、婚姻治疗、危机干预及文化视角。
 *Categories: Romantic Love (恋爱 - *Eros*/Ερως), Attachment Theory (依恋理论), Mate Selection (择偶), Gottman Method (戈特曼方法), EFT (情绪聚焦疗法), Satir Model (萨提亚模式), Family Constellation (家庭系统排列).*
 
 **恋爱心理学 (Romantic Love Psychology):**
-- [恋爱心理学概览 (Love Psychology Overview)](tables/Love_Psychology_Overview.md) - 核心概念、爱情类型、Sternberg三角理论
-- [择偶心理学与吸引力 (Mate Selection)](tables/Love_Mate_Selection.md) - 进化心理学、身体吸引、心理与社会因素
-- [恋爱神经科学与生物学 (Love Neuroscience)](tables/Love_Neuroscience_Biology.md) - 神经递质、脑区、Fisher三阶段
-- [恋爱阶段与关系发展 (Dating Stages)](tables/Love_Dating_Stages.md) - 从吸引到承诺的各阶段与转折
-- [恋爱依恋与亲密发展 (Attachment & Intimacy)](tables/Love_Attachment_Intimacy.md) - 依恋类型、亲密维度
-- [恋爱沟通与冲突 (Communication & Conflict)](tables/Love_Communication_Conflict.md) - 约会沟通、冲突模式
-- [失恋与情感丧失 (Breakup & Heartbreak)](tables/Love_Breakup_Heartbreak.md) - 失恋哀伤、复杂反应、高危人群、自助与治疗框架
+- [恋爱心理学概览 (Love Psychology Overview)](love/Love_Psychology_Overview.md) - 核心概念、爱情类型、Sternberg三角理论
+- [择偶心理学与吸引力 (Mate Selection)](love/Love_Mate_Selection.md) - 进化心理学、身体吸引、心理与社会因素
+- [恋爱神经科学与生物学 (Love Neuroscience)](love/Love_Neuroscience_Biology.md) - 神经递质、脑区、Fisher三阶段
+- [恋爱阶段与关系发展 (Dating Stages)](love/Love_Dating_Stages.md) - 从吸引到承诺的各阶段与转折
+- [恋爱依恋与亲密发展 (Attachment & Intimacy)](love/Love_Attachment_Intimacy.md) - 依恋类型、亲密维度
+- [恋爱沟通与冲突 (Communication & Conflict)](love/Love_Communication_Conflict.md) - 约会沟通、冲突模式
+- [失恋与情感丧失 (Breakup & Heartbreak)](love/Love_Breakup_Heartbreak.md) - 失恋哀伤、复杂反应、高危人群、自助与治疗框架
 
 **婚姻关系 (Marriage Relationship):**
-- [婚姻关系概览 (Marriage Overview)](tables/Marriage_Overview.md)
-- [婚姻心理学基础 (Psychology Foundations)](tables/Marriage_Psychology.md)
-- [沟通模式与技术 (Communication Patterns)](tables/Marriage_Communication.md)
-- [婚姻治疗方法 (Therapy Methods)](tables/Marriage_Therapy_Methods.md)
-- [危机干预与处理 (Crisis Intervention)](tables/Marriage_Crisis_Intervention.md)
+- [婚姻关系概览 (Marriage Overview)](marriage/Marriage_Overview.md)
+- [婚姻心理学基础 (Psychology Foundations)](marriage/Marriage_Psychology.md)
+- [沟通模式与技术 (Communication Patterns)](marriage/Marriage_Communication.md)
+- [婚姻治疗方法 (Therapy Methods)](marriage/Marriage_Therapy_Methods.md)
+- [危机干预与处理 (Crisis Intervention)](marriage/Marriage_Crisis_Intervention.md)
 - [亲密关系与性健康 (Intimacy & Sexuality)](tables/Marriage_Intimacy_Sexuality.md)
 - [出轨与婚姻背叛 (Infidelity & Marital Betrayal)](tables/Marriage_Infidelity_Betrayal.md) - 出轨类型、背叛创伤、伴侣治疗阶段与高危情境
 - [文化与灵性视角 (Cultural Perspectives)](tables/Marriage_Cultural_Perspectives.md)
