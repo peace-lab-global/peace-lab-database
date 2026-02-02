@@ -562,6 +562,182 @@
 - [第三协奏曲心理学与疗愈功能分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Therapeutic_Analysis.md) - 极限挑战心理学、自我效能理论、高级心理功能锻炼
 - [第三协奏曲聆听鉴赏完全指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Listening_Guide.md) - 专业级聆听导引、高级互动技巧、学术应用场景
 
+**莫扎特钢琴协奏曲专项 (Mozart Piano Concertos Special):**
+
+*第21号钢琴协奏曲 (Piano Concerto No.21 in C major, K.467):*
+- [第21号协奏曲综合指南](classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Overview.md) - C大调、技法成熟、情感丰富
+- [第21号协奏曲创作背景与心理分析](classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第21号协奏曲最佳录音版本推荐](classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第21号协奏曲心理学与疗愈功能分析](classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第21号协奏曲聆听鉴赏完全指南](classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第23号钢琴协奏曲 (Piano Concerto No.23 in A major, K.488):*
+- [第23号协奏曲综合指南](classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Overview.md) - A大调、单簧管创新、情感深度
+- [第23号协奏曲创作背景与心理分析](classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第23号协奏曲最佳录音版本推荐](classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第23号协奏曲心理学与疗愈功能分析](classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第23号协奏曲聆听鉴赏完全指南](classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第20号钢琴协奏曲 (Piano Concerto No.20 in D minor, K.466):*
+- [第20号协奏曲综合指南](classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Overview.md) - d小调、戏剧张力、情感突破
+- [第20号协奏曲创作背景与心理分析](classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第20号协奏曲最佳录音版本推荐](classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第20号协奏曲心理学与疗愈功能分析](classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第20号协奏曲聆听鉴赏完全指南](classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第27号钢琴协奏曲 (Piano Concerto No.27 in B-flat major, K.595):*
+- [第27号协奏曲综合指南](classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Overview.md) - B大调、绝笔之作、智慧结晶
+- [第27号协奏曲创作背景与心理分析](classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第27号协奏曲最佳录音版本推荐](classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第27号协奏曲心理学与疗愈功能分析](classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第27号协奏曲聆听鉴赏完全指南](classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第18号钢琴协奏曲 (Piano Concerto No.18 in G major, K.453):*
+- [第18号协奏曲综合指南](classical-music/mozart-piano-concertos/No18/Mozart_Piano_Concerto_No18_Overview.md) - G大调、技法成熟、情感丰富
+
+*第17号钢琴协奏曲 (Piano Concerto No.17 in B-flat major, K.449):*
+- [第17号协奏曲综合指南](classical-music/mozart-piano-concertos/No17/Mozart_Piano_Concerto_No17_Overview.md) - 降B大调、早期成熟、结构清晰
+
+*第12号钢琴协奏曲 (Piano Concerto No.12 in A major, K.414):*
+- [第12号协奏曲综合指南](classical-music/mozart-piano-concertos/No12/Mozart_Piano_Concerto_No12_Overview.md) - A大调、维也纳时期、技法精湛
+
+*第11号钢琴协奏曲 (Piano Concerto No.11 in F major, K.413):*
+- [第11号协奏曲综合指南](classical-music/mozart-piano-concertos/No11/Mozart_Piano_Concerto_No11_Overview.md) - F大调、维也纳初期、技法平衡
+
+*第10号钢琴协奏曲 (Piano Concerto No.10 in E-flat major, K.365):*
+- [第10号协奏曲综合指南](classical-music/mozart-piano-concertos/No10/Mozart_Piano_Concerto_No10_Overview.md) - 降E大调、双钢琴、技法精湛
+
+*(更多协奏曲将在后续补充)
+
+**莫扎特交响曲专项 (Mozart Symphonies Special):**
+
+*第35号交响曲"哈夫纳" (Symphony No.35 in D major, K.385):*
+- [第35号交响曲综合指南](classical-music/mozart-symphonies/No35/Mozart_Symphony_No35_Overview.md) - D大调、庆典性质、技法成熟
+
+*第38号交响曲"布拉格" (Symphony No.38 in D major, K.504):*
+- [第38号交响曲综合指南](classical-music/mozart-symphonies/No38/Mozart_Symphony_No38_Overview.md) - D大调、技法精湛、情感深邃
+
+*(更多交响曲将在后续补充)*
+
+**莫扎特弦乐四重奏专项 (Mozart String Quartets Special):**
+
+*G大调弦乐四重奏"春天" (String Quartet in G major, K.387):*
+- [G大调四重奏综合指南](classical-music/mozart-string-quartets/KV387/Mozart_String_Quartet_KV387_Overview.md) - G大调、技法精湛、对话性质
+
+*(更多弦乐四重奏将在后续补充)*
+
+**莫扎特钢琴奏鸣曲专项 (Mozart Piano Sonatas Special):**
+
+*A大调钢琴奏鸣曲"土耳其进行曲" (Piano Sonata in A major, K.331):*
+- [A大调奏鸣曲综合指南](classical-music/mozart-piano-sonatas/KV331/Mozart_Piano_Sonata_KV331_Overview.md) - A大调、变奏曲式、土耳其风格
+
+*(更多钢琴奏鸣曲将在后续补充)*
+
+**莫扎特歌剧专项 (Mozart Operas Special):**
+
+*费加罗的婚礼 (Le nozze di Figaro):*
+- [费加罗婚礼综合指南](classical-music/mozart-operas/Figaro/Mozart_Opera_Figaro_Overview.md) - 四幕喜歌剧、人物众多、音乐丰富
+
+*(更多歌剧将在后续补充)*
+
+**贝多芬专项 (Beethoven Special):**
+
+**贝多芬钢琴奏鸣曲专项 (Beethoven Piano Sonatas Special):**
+
+*月光奏鸣曲 (Piano Sonata No.14 in C-sharp minor, Op.27 No.2):*
+- [月光奏鸣曲综合指南](classical-music/beethoven-piano-sonatas/Op27No2/Beethoven_Piano_Sonata_Op27No2_Overview.md) - 升c小调、创新形式、情感深度
+
+*热情奏鸣曲 (Piano Sonata No.23 in F minor, Op.53):*
+- [热情奏鸣曲综合指南](classical-music/beethoven-piano-sonatas/Op53/Beethoven_Piano_Sonata_Op53_Overview.md) - f小调、技法巅峰、情感激烈
+
+*(更多钢琴奏鸣曲将在后续补充)*
+
+**贝多芬交响曲专项 (Beethoven Symphonies Special):**
+
+*第三交响曲"英雄" (Symphony No.3 in E-flat major, Op.55):*
+- [第三交响曲综合指南](classical-music/beethoven-symphonies/No3/Beethoven_Symphony_No3_Overview.md) - 降E大调、规模宏大、情感深刻
+
+*第五交响曲"命运" (Symphony No.5 in C minor, Op.67):*
+- [第五交响曲综合指南](classical-music/beethoven-symphonies/No5/Beethoven_Symphony_No5_Overview.md) - c小调、主题统一、情感强烈
+
+*(更多交响曲将在后续补充)*
+
+**贝多芬弦乐四重奏专项 (Beethoven String Quartets Special):**
+
+*拉祖莫夫斯基四重奏第一首 (String Quartet No.7 in F major, Op.59 No.1):*
+- [拉祖莫夫斯基第一首综合指南](classical-music/beethoven-string-quartets/Op18No1/Beethoven_String_Quartet_Op18No1_Overview.md) - F大调、技法成熟、对话性质
+
+*(更多弦乐四重奏将在后续补充)*
+
+**贝多芬钢琴协奏曲专项 (Beethoven Piano Concertos Special):**
+
+*第五钢琴协奏曲"皇帝" (Piano Concerto No.5 in E-flat major, Op.73):*
+- [第五协奏曲综合指南](classical-music/beethoven-piano-concertos/No5/Beethoven_Piano_Concerto_No5_Overview.md) - 降E大调、技法巅峰、规模宏大
+
+*(更多钢琴协奏曲将在后续补充)*
+
+**门德尔松专项 (Mendelssohn Special):**
+
+**门德尔松交响曲专项 (Mendelssohn Symphonies Special):**
+
+*第四交响曲"意大利" (Symphony No.4 in A major, Op.90):*
+- [第四交响曲综合指南](classical-music/mendelssohn-symphonies/No4/Mendelssohn_Symphony_No4_Overview.md) - A大调、旅行灵感、民族色彩
+
+*(更多交响曲将在后续补充)*
+
+**门德尔松钢琴协奏曲专项 (Mendelssohn Piano Concertos Special):**
+
+*第一钢琴协奏曲 (Piano Concerto No.1 in G minor, Op.25):*
+- [第一协奏曲综合指南](classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Overview.md) - g小调、技法精湛、结构创新
+
+*(更多钢琴协奏曲将在后续补充)*
+
+**门德尔松小提琴协奏曲专项 (Mendelssohn Violin Concertos Special):**
+
+*e小调小提琴协奏曲 (Violin Concerto in E minor, Op.64):*
+- [e小调小提琴协奏曲综合指南](classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Overview.md) - e小调、旋律优美、技法精湛
+
+*(更多小提琴协奏曲将在后续补充)*
+
+**柴可夫斯基专项 (Tchaikovsky Special):**
+
+**柴可夫斯基交响曲专项 (Tchaikovsky Symphonies Special):**
+
+*第五交响曲 (Symphony No.5 in E minor, Op.64):*
+- [第五交响曲综合指南](classical-music/tchaikovsky-symphonies/No5/Tchaikovsky_Symphony_No5_Overview.md) - e小调、主题统一、情感深刻
+
+*(更多交响曲将在后续补充)*
+
+**柴可夫斯基钢琴协奏曲专项 (Tchaikovsky Piano Concertos Special):**
+
+*第一钢琴协奏曲 (Piano Concerto No.1 in B-flat minor, Op.23):*
+- [第一协奏曲综合指南](classical-music/tchaikovsky-piano-concertos/No1/Tchaikovsky_Piano_Concerto_No1_Overview.md) - 降b小调、气势磅礴、技法精湛
+
+*(更多钢琴协奏曲将在后续补充)*
+
+**柴可夫斯基芭蕾舞曲专项 (Tchaikovsky Ballets Special):**
+
+*睡美人 (The Sleeping Beauty):*
+- [睡美人综合指南](classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_SleepingBeauty_Overview.md) - 三幕芭蕾舞剧、童话题材、音乐华丽
+
+*(更多芭蕾舞曲将在后续补充)*
+
+**李斯特专项 (Liszt Special):**
+
+**李斯特钢琴作品专项 (Liszt Piano Works Special):**
+
+*b小调钢琴奏鸣曲 (Piano Sonata in B minor, S.178):*
+- [b小调奏鸣曲综合指南](classical-music/liszt-piano-works/BMinor/Liszt_Piano_Sonata_BMinor_Overview.md) - b小调、单一乐章、主题变形
+
+*(更多钢琴作品将在后续补充)*
+
+**李斯特交响诗专项 (Liszt Symphonic Poems Special):**
+
+*前奏曲 (Les Préludes, S.97):*
+- [前奏曲综合指南](classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_LesPreludes_Overview.md) - 交响诗、文学题材、技法创新
+
+*(更多交响诗将在后续补充)**
+
 **巴赫勃兰登堡协奏曲专项 (Bach Brandenburg Concertos Special):**
 
 *第一勃兰登堡协奏曲 (BWV 1046):*
