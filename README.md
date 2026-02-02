@@ -59,7 +59,60 @@
 - [东方古典儒家：修身与伦理 (Classical Confucianism)](philosophy/Philosophy_Eastern_Classical_Confucianism.md)
 - [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](philosophy/Philosophy_Eastern_Indian_Schools.md)
 
-### 5. 🧠 西方哲学家详细资料 (Western Philosophers Detailed)
+### 5. 🌏 东亚哲学体系 (East Asian Philosophy Systems)
+**描述 (Description):** 涵盖中国、日本、韩国的传统哲学思想体系，包括儒家、道家、禅宗、朝鲜朱子学等东亚智慧传统。
+*Categories: Confucianism, Taoism, Zen Buddhism, Korean Neo-Confucianism, Kyoto School.*
+
+#### 5.1 中国哲学 (Chinese Philosophy)
+**描述 (Description):** 中华文明的核心哲学传统，涵盖儒家、道家、墨家等主要思想流派。
+
+##### 5.1.1 儒家哲学 (Confucianism)
+- [孔子 (Confucius)](east-asian/china/confucianism/Confucius.md) - 仁、礼、义为核心的伦理哲学
+- [孟子 (Mencius)](east-asian/china/confucianism/Mencius.md) - 性善论、仁政、民贵君轻的道德哲学
+- [荀子 (Xunzi)](east-asian/china/confucianism/Xunzi.md) - 性恶论、礼法并重、化性起伪的实践哲学
+- [朱熹 (Zhu Xi)](east-asian/china/confucianism/ZhuXi.md) - 理气论、格物致知、四书集注的理学体系
+- [王阳明 (Wang Yangming)](east-asian/china/confucianism/WangYangming.md) - 心即理、知行合一、致良知的心学思想
+
+##### 5.1.2 道家哲学 (Taoism)
+- [老子 (Laozi)](east-asian/china/taoism/Laozi.md) - 道、无为、柔弱胜刚强的自然哲学
+- [庄子 (Zhuangzi)](east-asian/china/taoism/Zhuangzi.md) - 逍遥游、齐物论、心斋坐忘的自由哲学
+- [列子 (Liezi)](east-asian/china/taoism/Liezi.md) - 贵虚、顺化、生死观的虚无主义
+
+##### 5.1.3 墨家哲学 (Mohism)
+- [墨子 (Mozi)](east-asian/china/other-schools/Mozi.md) - 兼爱、非攻、尚贤、节用的平民哲学
+
+##### 5.1.4 法家哲学 (Legalism)
+- [韩非子 (Han Feizi)](east-asian/china/other-schools/HanFeizi.md) - 法术势、性恶论、功利主义的法治理论
+- [商鞅 (Shang Yang)](east-asian/china/other-schools/ShangYang.md) - 变法革新、耕战政策、中央集权的实践家
+
+##### 5.1.5 名家哲学 (School of Names)
+- [公孙龙 (Gongsun Long)](east-asian/china/other-schools/GongsunLong.md) - 白马非马、离坚白、概念分析的逻辑学家
+- [惠施 (Hui Shi)](east-asian/china/other-schools/HuiShi.md) - 历物十事、合同异、大一小一的辩者
+
+##### 5.1.6 阴阳家哲学 (School of Yin-Yang)
+- [邹衍 (Zou Yan)](east-asian/china/other-schools/ZouYan.md) - 五德终始、大九州、阴阳五行的宇宙论
+
+##### 5.1.7 兵家哲学 (Military Philosophy)
+- [孙子 (Sunzi)](east-asian/china/other-schools/Sunzi.md) - 知己知彼、兵者诡道、不战而屈人之兵的兵法圣典
+- [吴起 (Wu Qi)](east-asian/china/other-schools/WuQi.md) - 军事改革、选贤任能、爱兵如子的将帅典范
+
+#### 5.2 日本哲学 (Japanese Philosophy)
+**描述 (Description):** 融合佛教、神道与西方哲学的现代日本思想体系。
+
+##### 5.2.1 京都学派 (Kyoto School)
+- [西田幾多郎 (Nishida Kitarō)](east-asian/japan/kyoto-school/Nishida.md) - 场所逻辑与纯经验理论
+
+##### 5.2.2 日本佛教哲学 (Japanese Buddhist Philosophy)
+- [铃木大拙 (D.T. Suzuki)](east-asian/japan/buddhism/Suzuki.md) - 禅宗思想的现代阐释与东西方融合
+
+#### 5.3 韩国哲学 (Korean Philosophy)
+**描述 (Description):** 朝鲜王朝时期的儒学发展和本土化哲学思想。
+
+##### 5.3.1 朝鲜朱子学 (Korean Neo-Confucianism)
+- [李滉 (Yi Hwang/T'oegye)](east-asian/korea/confucianism/YiHwang.md) - 理气二元论与主理主义
+- [李珥 (Yi I/Yulgok)](east-asian/korea/confucianism/YiI.md) - 气一元论与四端七情论
+
+### 6. 🧠 西方哲学家详细资料 (Western Philosophers Detailed)
 **描述 (Description):** 为每位西方哲学家创建的详细资料，包括核心思想、主要著作、思想发展、与心理学/疗愈的关联、批判与争议、影响与遗产以及推荐阅读。
 
 #### 5.1 古希腊哲学 (Ancient Greek Philosophy)
@@ -102,14 +155,14 @@
 
 #### 5.8 当代哲学 (Contemporary Philosophy)
 
-### 6. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
+### 7. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
 **描述 (Description):** 剖析法家作为一种极度务实的管理心理学与权力博弈逻辑。
 *Categories: Fa (法 - Law), Shu (术 - Method), Shi (势 - Authority).*
 
 - [法家管理心理学 (Legalist Management Psychology)](legalism/Legalist_Management_Psychology.md)
 - [职场心理危机干预 (Workplace Crisis Intervention)](workplace/Workplace_Psychological_Crisis_Intervention.md)
 
-### 6. ☸️ 佛教与全球灵性疗愈 (Buddhist & Global Spiritual Wisdom)
+### 8. ☸️ 佛教与全球灵性疗愈 (Buddhist & Global Spiritual Wisdom)
 **描述 (Description):** 整合金刚乘、显教、伊斯兰净心术、萨满及三教合一智慧。
 *Categories: Nirvana (涅槃 - *Nirvāṇa*), Tazkiyah (净心 - *Tazkiyah*), Fitra (天性 - *Fiṭra*), Grace (恩典 - *Charis*).*
 
@@ -180,7 +233,7 @@
 - [心念转化技术 (Mind Transformation Techniques)](vasana/Vasana_Mind_Transformation.md) - 转识成智、对治法、止观双运、五毒转五智、藏传转化技术
 - [熏习临床应用 (Vāsanā Clinical Applications)](vasana/Vasana_Clinical_Applications.md) - 临床框架、各类障碍分析、评估方法、治疗技术、整合协议
 
-### 7. 🧠 现代心理学与认知 (Modern Psychology & Cognition)
+### 9. 🧠 现代心理学与认知 (Modern Psychology & Cognition)
 **描述 (Description):** 剖析认知神经科学、社会动态、情感韧性及临床应用，整合心理学流派体系、测评工具与循证疗法。
 *Categories: Neuroplasticity (神经可塑性), Cognitive Bias (认知偏差), Resilience (韧性), Flow (心流), Psychometrics (心理测量学), Evidence-Based Practice (循证实践).*
 
