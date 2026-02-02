@@ -524,14 +524,238 @@
 *Categories: Music Therapy (音乐疗法 - *Musiktherapie*), GIM (引导意象与音乐), Entrainment (夹带效应), Neuroplasticity (神经可塑性).*
 
 **核心框架 (Core Framework):**
-- [古典音乐疗愈概览 (Classical Music Overview)](classical-music/Classical_Music_Overview.md)
-- [神经科学与心理机制 (Neuroscience & Psychology)](classical-music/Classical_Music_Neuroscience.md)
-- [疗愈方法与技术 (Therapeutic Methods)](classical-music/Classical_Music_Therapeutic_Methods.md)
-- [作曲家与疗愈作品 (Composers & Works)](classical-music/Classical_Music_Composers_Works.md)
-- [临床方案与适应症 (Clinical Protocols)](classical-music/Classical_Music_Clinical_Protocols.md)
-- [音乐时期与风格特质 (Periods & Styles)](classical-music/Classical_Music_Periods_Styles.md)
-- [跨学科整合应用 (Integration with Modalities)](classical-music/Classical_Music_Integration.md)
-- [专业资源与参考 (Resources & References)](classical-music/Classical_Music_Resources.md)
+- [古典音乐疗愈概览 (Classical Music Overview)](classical-music/general/Classical_Music_Overview.md)
+- [神经科学与心理机制 (Neuroscience & Psychology)](classical-music/general/Classical_Music_Neuroscience.md)
+- [疗愈方法与技术 (Therapeutic Methods)](classical-music/general/Classical_Music_Therapeutic_Methods.md)
+- [作曲家与疗愈作品 (Composers & Works)](classical-music/general/Classical_Music_Composers_Works.md)
+- [临床方案与适应症 (Clinical Protocols)](classical-music/general/Classical_Music_Clinical_Protocols.md)
+- [音乐时期与风格特质 (Periods & Styles)](classical-music/general/Classical_Music_Periods_Styles.md)
+- [跨学科整合应用 (Integration with Modalities)](classical-music/general/Classical_Music_Integration.md)
+- [专业资源与参考 (Resources & References)](classical-music/general/Classical_Music_Resources.md)
+
+**通用古典音乐资料专区 (General Classical Music Resources Area):**
+- [古典音乐疗愈概览](classical-music/general/Classical_Music_Overview.md) - 古典音乐疗愈的理论基础、历史发展、核心概念
+- [神经科学与心理机制](classical-music/general/Classical_Music_Neuroscience.md) - 音乐对大脑的影响、神经可塑性、情绪调节机制
+- [疗愈方法与技术](classical-music/general/Classical_Music_Therapeutic_Methods.md) - 音乐治疗的具体技术和实施方法
+- [作曲家与疗愈作品](classical-music/general/Classical_Music_Composers_Works.md) - 主要作曲家及其具有疗愈价值的代表作品
+- [临床方案与适应症](classical-music/general/Classical_Music_Clinical_Protocols.md) - 针对不同心理问题的音乐治疗方案
+- [音乐时期与风格特质](classical-music/general/Classical_Music_Periods_Styles.md) - 各音乐时期的特色及其疗愈应用
+- [跨学科整合应用](classical-music/general/Classical_Music_Integration.md) - 音乐治疗与其他疗法的结合应用
+- [专业资源与参考](classical-music/general/Classical_Music_Resources.md) - 学术资源、研究文献、专业机构信息
+
+**拉赫玛尼诺夫钢琴协奏曲专项 (Rachmaninoff Piano Concertos Special):**
+- [拉赫玛尼诺夫第一钢琴协奏曲综合指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Overview.md) - 作品信息、心理疗愈价值、核心特点
+- [第一协奏曲创作背景与心理分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一协奏曲最佳录音版本推荐](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Recordings.md) - 权威演奏家、专业乐评、收藏建议
+- [第一协奏曲心理学与疗愈功能分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md) - 心理治疗理论、分乐章疗愈机制、临床应用
+- [第一协奏曲聆听鉴赏完全指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Listening_Guide.md) - 聆听准备、分乐章导引、日常应用
+
+- [拉赫玛尼诺夫第二钢琴协奏曲综合指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Overview.md) - "治愈之音"、心理康复映射、艺术成就
+- [第二协奏曲创作背景与心理分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Composition_Background.md) - 创伤康复过程、心理成长模型、疗愈价值
+- [第二协奏曲最佳录音版本推荐](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Recordings.md) - 传奇演奏家阵容、现代权威演绎、专业乐评
+- [第二协奏曲心理学与疗愈功能分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Therapeutic_Analysis.md) - PTSD康复模型、神经科学基础、综合疗愈方案
+- [第二协奏曲聆听鉴赏完全指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+- [拉赫玛尼诺夫第三钢琴协奏曲综合指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Overview.md) - "钢琴家试金石"、极限挑战体验、精神成长
+- [第三协奏曲创作背景与心理分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Composition_Background.md) - 创作动机、心理成长理论、教育心理学意义
+- [第三协奏曲最佳录音版本推荐](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Recordings.md) - 历史经典版本、当代杰出代表、专业乐评精选
+- [第三协奏曲心理学与疗愈功能分析](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Therapeutic_Analysis.md) - 极限挑战心理学、自我效能理论、高级心理功能锻炼
+- [第三协奏曲聆听鉴赏完全指南](classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Listening_Guide.md) - 专业级聆听导引、高级互动技巧、学术应用场景
+
+**巴赫勃兰登堡协奏曲专项 (Bach Brandenburg Concertos Special):**
+
+*第一勃兰登堡协奏曲 (BWV 1046):*
+- [第一协奏曲综合指南](classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Overview.md) - 田园风格、狩猎音乐、自然连接
+- [第一协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第一协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第一协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第二勃兰登堡协奏曲 (BWV 1047):*
+- [第二协奏曲综合指南](classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Overview.md) - 高音小号、辉煌音响、技艺展示
+- [第二协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第二协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第二协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第二协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第三勃兰登堡协奏曲 (BWV 1048):*
+- [第三协奏曲综合指南](classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Overview.md) - 结构精巧、技法精湛、精神升华
+- [第三协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第三协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第三协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第三协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第四勃兰登堡协奏曲 (BWV 1049):*
+- [第四协奏曲综合指南](classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Overview.md) - 小提琴主导、优美旋律、情感表达
+- [第四协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第四协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第四协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第四协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第五勃兰登堡协奏曲 (BWV 1050):*
+- [第五协奏曲综合指南](classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Overview.md) - 键盘主导、协奏曲雏形、技法创新
+- [第五协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第五协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第五协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第五协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第六勃兰登堡协奏曲 (BWV 1051):*
+- [第六协奏曲综合指南](classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Overview.md) - 中提琴主导、温暖音色、内省促进
+- [第六协奏曲创作背景与心理分析](classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第六协奏曲最佳录音版本推荐](classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第六协奏曲心理学与疗愈功能分析](classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第六协奏曲聆听鉴赏完全指南](classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**巴赫十二平均律专项 (Bach Well-Tempered Clavier Special):**
+- [巴赫十二平均律综合指南](classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Overview.md) - 作品信息、心理疗愈价值、核心特点
+- [十二平均律创作背景与心理分析](classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [十二平均律最佳录音版本推荐](classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [十二平均律心理学与疗愈功能分析](classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [十二平均律聆听鉴赏完全指南](classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**巴赫英国组曲专项 (Bach English Suites Special):**
+
+*第一英国组曲 (BWV 806):*
+- [第一组曲综合指南](classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Overview.md) - A大调、优雅典雅、技法中等
+- [第一组曲创作背景与心理分析](classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第一组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第一组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第二英国组曲 (BWV 807):*
+- [第二组曲综合指南](classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Overview.md) - a小调、深沉内省、技法较高
+- [第二组曲创作背景与心理分析](classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第二组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第二组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第二组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第三英国组曲 (BWV 808):*
+- [第三组曲综合指南](classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md) - g小调、技法复杂、情感深沉
+- [第三组曲创作背景与心理分析](classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第三组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第三组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第三组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第四英国组曲 (BWV 809):*
+- [第四组曲综合指南](classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Overview.md) - F大调、明亮开朗、技法适中
+- [第四组曲创作背景与心理分析](classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第四组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第四组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第四组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第五英国组曲 (BWV 810):*
+- [第五组曲综合指南](classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Overview.md) - e小调、技法高难、情感丰富
+- [第五组曲创作背景与心理分析](classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第五组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第五组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第五组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第六英国组曲 (BWV 811):*
+- [第六组曲综合指南](classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Overview.md) - d小调、技法最高、情感极致
+- [第六组曲创作背景与心理分析](classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第六组曲最佳录音版本推荐](classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第六组曲心理学与疗愈功能分析](classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第六组曲聆听鉴赏完全指南](classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**巴赫哥德堡变奏曲专项 (Bach Goldberg Variations Special):**
+- [哥德堡变奏曲综合指南](classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Overview.md) - 作品信息、心理疗愈价值、核心特点
+- [哥德堡变奏曲创作背景与心理分析](classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [哥德堡变奏曲最佳录音版本推荐](classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [哥德堡变奏曲心理学与疗愈功能分析](classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [哥德堡变奏曲聆听鉴赏完全指南](classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**巴赫大提琴无伴奏组曲专项 (Bach Cello Suites Special):**
+
+*第一大提琴组曲 (BWV 1007):*
+- [第一组曲综合指南](classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Overview.md) - G大调、明朗温暖、技法中等
+- [第一组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第一组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第一组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第二大提琴组曲 (BWV 1008):*
+- [第二组曲综合指南](classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Overview.md) - d小调、深沉内省、技法适中
+- [第二组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第二组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第二组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第二组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第三大提琴组曲 (BWV 1009):*
+- [第三组曲综合指南](classical-music/bach-cello-suites/Suite3/Bach_Cello_Suite_No3_Overview.md) - C大调、典雅庄重、技法精湛
+- [第三组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite3/Bach_Cello_Suite_No3_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第三组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite3/Bach_Cello_Suite_No3_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第三组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite3/Bach_Cello_Suite_No3_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第三组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite3/Bach_Cello_Suite_No3_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第四大提琴组曲 (BWV 1010):*
+- [第四组曲综合指南](classical-music/bach-cello-suites/Suite4/Bach_Cello_Suite_No4_Overview.md) - 降E大调、辉煌华丽、技法高难
+- [第四组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite4/Bach_Cello_Suite_No4_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第四组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite4/Bach_Cello_Suite_No4_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第四组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite4/Bach_Cello_Suite_No4_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第四组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite4/Bach_Cello_Suite_No4_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第五大提琴组曲 (BWV 1011):*
+- [第五组曲综合指南](classical-music/bach-cello-suites/Suite5/Bach_Cello_Suite_No5_Overview.md) - c小调、深沉悲壮、技法复杂
+- [第五组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite5/Bach_Cello_Suite_No5_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第五组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite5/Bach_Cello_Suite_No5_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第五组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite5/Bach_Cello_Suite_No5_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第五组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite5/Bach_Cello_Suite_No5_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第六大提琴组曲 (BWV 1012):*
+- [第六组曲综合指南](classical-music/bach-cello-suites/Suite6/Bach_Cello_Suite_No6_Overview.md) - D大调、宏伟壮丽、技法巅峰
+- [第六组曲创作背景与心理分析](classical-music/bach-cello-suites/Suite6/Bach_Cello_Suite_No6_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第六组曲最佳录音版本推荐](classical-music/bach-cello-suites/Suite6/Bach_Cello_Suite_No6_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第六组曲心理学与疗愈功能分析](classical-music/bach-cello-suites/Suite6/Bach_Cello_Suite_No6_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第六组曲聆听鉴赏完全指南](classical-music/bach-cello-suites/Suite6/Bach_Cello_Suite_No6_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**巴赫管风琴作品专项 (Bach Organ Works Special):**
+- [d小调托卡塔与赋格综合指南](classical-music/Bach_Toccata_Fugue_D_Minor_Overview.md) - 管风琴经典、戏剧性强、技法高难
+
+*(更多管风琴作品将在后续补充)*
+
+**巴赫法国组曲专项 (Bach French Suites Special):**
+
+*第一法国组曲 (BWV 812):*
+- [第一组曲综合指南](classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Overview.md) - d小调、优雅精致、技法中等
+- [第一组曲创作背景与心理分析](classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第一组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第一组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第二法国组曲 (BWV 813):*
+- [第二组曲综合指南](classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Overview.md) - c小调、情感对比、技法适中
+- [第二组曲创作背景与心理分析](classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第二组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第二组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第二组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第三法国组曲 (BWV 814):*
+- [第三组曲综合指南](classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Overview.md) - B大调、技法较高、情感丰富
+- [第三组曲创作背景与心理分析](classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第三组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第三组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第三组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第四法国组曲 (BWV 815):*
+- [第四组曲综合指南](classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Overview.md) - E♭大调、温暖亲和、技法适中
+- [第四组曲创作背景与心理分析](classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第四组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第四组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第四组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第五法国组曲 (BWV 816):*
+- [第五组曲综合指南](classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Overview.md) - G大调、技法高难、情感丰富
+- [第五组曲创作背景与心理分析](classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第五组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第五组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第五组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第六法国组曲 (BWV 817):*
+- [第六组曲综合指南](classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Overview.md) - E大调、技法最高、情感极致
+- [第六组曲创作背景与心理分析](classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第六组曲最佳录音版本推荐](classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第六组曲心理学与疗愈功能分析](classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第六组曲聆听鉴赏完全指南](classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
 
 **作曲家专项疗愈 (Composer-Specific Therapy):**
 - [莫扎特音乐疗愈 (Mozart Music Therapy)](classical-music/Mozart_Music_Therapy.md) - 莫扎特效应、认知增强、纯净均衡
@@ -539,7 +763,58 @@
 - [舒伯特音乐疗愈 (Schubert Music Therapy)](classical-music/Schubert_Music_Therapy.md) - 哀伤陪伴、存在性探索、乡愁处理
 - [贝多芬音乐疗愈 (Beethoven Music Therapy)](classical-music/Beethoven_Music_Therapy.md) - 力量激发、逆境克服、英雄叙事
 - [拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)](classical-music/Rachmaninoff_Music_Therapy.md) - 抑郁康复、深度情感、俄罗斯乡愁
-- [肖邦音乐疗愈 (Chopin Music Therapy)](classical-music/Chopin_Music_Therapy.md) - 诗意抒情、细腻情感、夜曲放松
+**肖邦夜曲专项 (Chopin Nocturnes Special):**
+- [夜曲综合指南](classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md) - 作品信息、心理疗愈价值、核心特点
+- [夜曲创作背景与心理分析](classical-music/chopin-nocturnes/Chopin_Nocturnes_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [夜曲最佳录音版本推荐](classical-music/chopin-nocturnes/Chopin_Nocturnes_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [夜曲心理学与疗愈功能分析](classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [夜曲聆听鉴赏完全指南](classical-music/chopin-nocturnes/Chopin_Nocturnes_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**肖邦前奏曲专项 (Chopin Preludes Special):**
+- [前奏曲综合指南](classical-music/chopin-preludes/Chopin_Preludes_Overview.md) - 24首全集、调性循环、技法创新
+- [前奏曲创作背景与心理分析](classical-music/chopin-preludes/Chopin_Preludes_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [前奏曲最佳录音版本推荐](classical-music/chopin-preludes/Chopin_Preludes_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [前奏曲心理学与疗愈功能分析](classical-music/chopin-preludes/Chopin_Preludes_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [前奏曲聆听鉴赏完全指南](classical-music/chopin-preludes/Chopin_Preludes_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**肖邦叙事曲专项 (Chopin Ballades Special):**
+- [叙事曲综合指南](classical-music/chopin-ballades/Chopin_Ballades_Overview.md) - 四首全集、英雄叙事、技法巅峰
+- [叙事曲创作背景与心理分析](classical-music/chopin-ballades/Chopin_Ballades_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [叙事曲最佳录音版本推荐](classical-music/chopin-ballades/Chopin_Ballades_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [叙事曲心理学与疗愈功能分析](classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [叙事曲聆听鉴赏完全指南](classical-music/chopin-ballades/Chopin_Ballades_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**肖邦波兰舞曲专项 (Chopin Polonaises Special):**
+- [波兰舞曲综合指南](classical-music/chopin-polonaises/Chopin_Polonaises_Overview.md) - 17首全集、民族精神、英雄气概
+- [波兰舞曲创作背景与心理分析](classical-music/chopin-polonaises/Chopin_Polonaises_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [波兰舞曲最佳录音版本推荐](classical-music/chopin-polonaises/Chopin_Polonaises_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [波兰舞曲心理学与疗愈功能分析](classical-music/chopin-polonaises/Chopin_Polonaises_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [波兰舞曲聆听鉴赏完全指南](classical-music/chopin-polonaises/Chopin_Polonaises_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**肖邦钢琴协奏曲专项 (Chopin Piano Concertos Special):**
+
+*第一钢琴协奏曲 (Piano Concerto No.1 in E minor, Op.11):*
+- [第一协奏曲综合指南](classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Overview.md) - e小调、技法辉煌、青春激情
+- [第一协奏曲创作背景与心理分析](classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第一协奏曲最佳录音版本推荐](classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第一协奏曲心理学与疗愈功能分析](classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第一协奏曲聆听鉴赏完全指南](classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+*第二钢琴协奏曲 (Piano Concerto No.2 in F minor, Op.21):*
+- [第二协奏曲综合指南](classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Overview.md) - f小调、技法精湛、情感深沉
+- [第二协奏曲创作背景与心理分析](classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Composition_Background.md) - 创作历史、心理映射、疗愈机制
+- [第二协奏曲最佳录音版本推荐](classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Recordings.md) - 权威演奏家阵容、专业乐评、收藏建议
+- [第二协奏曲心理学与疗愈功能分析](classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md) - 认知行为理论、神经科学基础、综合疗愈方案
+- [第二协奏曲聆听鉴赏完全指南](classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Listening_Guide.md) - 深度聆听导引、互动技巧、应用场景
+
+**肖邦其他重要作品专项:**
+- [奏鸣曲综合指南](classical-music/chopin-sonatas/Chopin_Sonatas_Overview.md) - 三首全集、严肃结构、哲学深度
+- [谐谑曲综合指南](classical-music/chopin-scherzos/Chopin_Scherzos_Overview.md) - 四首全集、戏剧冲突、技法精湛
+- [练习曲综合指南](classical-music/chopin-etudes/Chopin_Etudes_Overview.md) - 27首全集、技法突破、钢琴革命
+- [圆舞曲综合指南](classical-music/chopin-waltzes/Chopin_Waltzes_Overview.md) - 17首全集、优雅舞蹈、沙龙风情
+- [钢琴协奏曲综合指南](classical-music/chopin-piano-concertos/Chopin_Piano_Concertos_Overview.md) - 两首全集、青年雄心、技法辉煌
+
+[肖邦音乐疗愈 (Chopin Music Therapy)](classical-music/Chopin_Music_Therapy.md) - 诗意抒情、细腻情感、夜曲放松
 - [德彪西音乐疗愈 (Debussy Music Therapy)](classical-music/Debussy_Music_Therapy.md) - 印象主义、色彩悬浮、感官沉浸
 - [勃拉姆斯音乐疗愈 (Brahms Music Therapy)](classical-music/Brahms_Music_Therapy.md) - 温暖深沉、晚期人生、德意志灵魂
 - [柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)](classical-music/Tchaikovsky_Music_Therapy.md) - 情感宣泄、芭蕾音乐、悲怆交响
