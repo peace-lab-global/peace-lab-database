@@ -53,11 +53,14 @@
 **描述 (Description):** 涵盖斯多葛主义、存在主义、现象学、康德哲学、叔本华思想、儒家、印度正理派等古典智慧在现代生活中的应用。
 *Categories: Stoicism, Existentialism, Phenomenology, Kantianism, Schopenhauerianism, Confucianism, Samkhya (数论), Nyaya (正理).*
 
-- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](philosophy/Philosophy_Western_Stoicism_Existentialism.md)
-- [西方现象学与形而上学 (Phenomenology & Metaphysics)](philosophy/Philosophy_Western_Phenomenology_Metaphysics.md)
-- [西方康德与叔本华思想 (Kantian & Schopenhauerian Thought)](philosophy/Philosophy_Western_Kantian_Schopenhauer.md)
-- [东方古典儒家：修身与伦理 (Classical Confucianism)](philosophy/Philosophy_Eastern_Classical_Confucianism.md)
-- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](philosophy/Philosophy_Eastern_Indian_Schools.md)
+#### 4.1 西方哲学概览 (Western Philosophy Overview)
+- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](philosophy/western/Philosophy_Western_Stoicism_Existentialism.md)
+- [西方现象学与形而上学 (Phenomenology & Metaphysics)](philosophy/western/Philosophy_Western_Phenomenology_Metaphysics.md)
+- [西方康德与叔本华思想 (Kantian & Schopenhauerian Thought)](philosophy/western/Philosophy_Western_Kantian_Schopenhauer.md)
+
+#### 4.2 东方哲学概览 (Eastern Philosophy Overview)
+- [东方古典儒家：修身与伦理 (Classical Confucianism)](philosophy/eastern/Philosophy_Eastern_Classical_Confucianism.md)
+- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](philosophy/eastern/Philosophy_Eastern_Indian_Schools.md)
 
 ### 5. 🌏 东亚哲学体系 (East Asian Philosophy Systems)
 **描述 (Description):** 涵盖中国、日本、韩国的传统哲学思想体系，包括儒家、道家、禅宗、朝鲜朱子学等东亚智慧传统。
@@ -96,6 +99,12 @@
 - [孙子 (Sunzi)](east-asian/china/other-schools/Sunzi.md) - 知己知彼、兵者诡道、不战而屈人之兵的兵法圣典
 - [吴起 (Wu Qi)](east-asian/china/other-schools/WuQi.md) - 军事改革、选贤任能、爱兵如子的将帅典范
 
+#### 5.4 伊斯兰哲学 (Islamic Philosophy)
+**描述 (Description):** 融合希腊理性主义与伊斯兰启示传统的哲学体系。
+
+##### 5.4.1 中世纪伊斯兰哲学
+- [阿尔-加扎利 (Al-Ghazali)](philosophy/medieval/islamic/Al-Ghazali.md) - 怀疑主义转向与苏菲主义整合的大师
+
 #### 5.2 日本哲学 (Japanese Philosophy)
 **描述 (Description):** 融合佛教、神道与西方哲学的现代日本思想体系。
 
@@ -105,12 +114,50 @@
 ##### 5.2.2 日本佛教哲学 (Japanese Buddhist Philosophy)
 - [铃木大拙 (D.T. Suzuki)](east-asian/japan/buddhism/Suzuki.md) - 禅宗思想的现代阐释与东西方融合
 
+##### 5.2.3 现代日本哲学 (Modern Japanese Philosophy)
+- [和辻哲郎 (Watsuji Tetsurō)](east-asian/japan/watsuji/Watsuji.md) - 人间关系伦理学与风土论
+- [家永三郎 (Ienaga Saburō)](east-asian/japan/historiography/Ienaga.md) - 历史真实主义与和平主义史观
+
 #### 5.3 韩国哲学 (Korean Philosophy)
 **描述 (Description):** 朝鲜王朝时期的儒学发展和本土化哲学思想。
 
 ##### 5.3.1 朝鲜朱子学 (Korean Neo-Confucianism)
 - [李滉 (Yi Hwang/T'oegye)](east-asian/korea/confucianism/YiHwang.md) - 理气二元论与主理主义
 - [李珥 (Yi I/Yulgok)](east-asian/korea/confucianism/YiI.md) - 气一元论与四端七情论
+
+##### 5.3.2 现代韩国哲学 (Modern Korean Philosophy)
+- [崔泳三 (Choi Young-sam)](east-asian/korea/modern/ChoiYoungsam.md) - 民主化运动与人权思想
+- [金大中 (Kim Dae-jung)](east-asian/korea/modern/KimDaejung.md) - 阳光政策与和平统一理念
+
+#### 5.4 东亚其他地区哲学 (Other East Asian Philosophy)
+**描述 (Description):** 越南、蒙古等东亚地区的重要哲学思想传统。
+
+##### 5.4.1 越南哲学 (Vietnamese Philosophy)
+- [阮廌 (Nguyễn Trãi)](east-asian/vietnam/confucianism/NguyenTrai.md) - 民本思想与儒佛融合的越南儒学大师
+
+##### 5.4.2 蒙古哲学 (Mongolian Philosophy)
+- [尹湛纳希 (Yin Zhanaxi)](east-asian/mongolia/YinZhanaxi.md) - 蒙古族启蒙思想家，融合儒释道传统
+
+#### 5.5 南亚哲学 (South Asian Philosophy)
+**描述 (Description):** 印度、巴基斯坦等南亚地区的古典和现代哲学传统。
+
+##### 5.5.1 印度古典哲学 (Classical Indian Philosophy)
+- [迦羅底 (Kapila)](south-asian/india/samkhya/Kapila.md) - 数论派创始人，二十五谛理论体系
+- [乔答摩悉达多 (Gautama Buddha)](south-asian/india/buddhism/GautamaBuddha.md) - 佛教创始人，缘起性空思想
+
+##### 5.5.2 现代南亚哲学 (Modern South Asian Philosophy)
+- [泰戈尔 (Rabindranath Tagore)](south-asian/modern/Tagore.md) - 诗人哲学家，东西方文化融合思想
+- [甘地 (Mahatma Gandhi)](south-asian/modern/Gandhi.md) - 非暴力哲学与社会改革思想
+**描述 (Description):** 融合希伯来传统与希腊理性主义的哲学传统。
+
+##### 5.5.1 中世纪犹太哲学
+- [迈蒙尼德 (Maimonides)](philosophy/medieval/jewish/Maimonides.md) - 理性神学与律法理性化的集大成者
+
+#### 5.6 现代实用主义 (Modern Pragmatism)
+**描述 (Description):** 美国本土哲学传统，强调实践效果和经验验证。
+
+##### 5.6.1 实用主义哲学
+- [威廉·詹姆斯 (William James)](philosophy/modern/pragmatism/WilliamJames.md) - 意识流理论与实用主义心理学奠基人
 
 ### 6. 🧠 西方哲学家详细资料 (Western Philosophers Detailed)
 **描述 (Description):** 为每位西方哲学家创建的详细资料，包括核心思想、主要著作、思想发展、与心理学/疗愈的关联、批判与争议、影响与遗产以及推荐阅读。
@@ -126,10 +173,16 @@
 - [苏格拉底 (Socrates)](philosophy/ancient/classical/Socrates.md)
 - [柏拉图 (Plato)](philosophy/ancient/classical/Plato.md)
 - [亚里士多德 (Aristotle)](philosophy/ancient/classical/Aristotle.md)
+- [皮浪 (Pyrrho)](philosophy/ancient/classical/Pyrrho.md) - 古代怀疑主义创始人，心灵宁静理论
+- [普罗提诺 (Plotinus)](philosophy/ancient/classical/Plotinus.md) - 新柏拉图主义奠基人，太一流溢说
 
 ##### 5.1.3 希腊化时期哲学家 (Hellenistic Philosophy)
 
 #### 5.2 中世纪哲学 (Medieval Philosophy)
+##### 5.2.1 基督教哲学 (Christian Philosophy)
+- [奥古斯丁 (Augustine)](philosophy/medieval/christian/Augustine.md) - 基督教哲学奠基人，恩典与自由意志理论
+- [托马斯·阿奎那 (Thomas Aquinas)](philosophy/medieval/christian/Aquinas.md) - 经院哲学集大成者，自然神学体系
+- [奥卡姆的威廉 (William of Ockham)](philosophy/medieval/christian/Ockham.md) - 唯名论代表，奥卡姆剃刀原则
 
 #### 5.3 早期现代哲学 (Early Modern Philosophy)
 
@@ -152,8 +205,17 @@
 - [弗里德里希·尼采 (Friedrich Nietzsche)](philosophy/19th-century/existential-precursors/Nietzsche.md)
 
 #### 5.7 20世纪哲学 (20th Century Philosophy)
+##### 5.7.1 分析哲学 (Analytic Philosophy)
+- [路德维希·维特根斯坦 (Ludwig Wittgenstein)](philosophy/20th-century/analytic/Wittgenstein.md) - 早期逻辑原子主义，后期语言游戏理论
+- [路德维希·维特根斯坦(后期)](philosophy/20th-century/analytic/WittgensteinLater.md) - 语言哲学革命，哲学作为治疗
+
+##### 5.7.2 大陆哲学 (Continental Philosophy)
+- [马丁·海德格尔 (Martin Heidegger)](philosophy/20th-century/continental/Heidegger.md) - 存在与时间，基础存在论
+- [埃德蒙德·胡塞尔 (Edmund Husserl)](philosophy/20th-century/continental/Husserl.md) - 现象学创始人，意向性理论
 
 #### 5.8 当代哲学 (Contemporary Philosophy)
+##### 5.8.1 应用伦理学 (Applied Ethics)
+- [彼得·辛格 (Peter Singer)](philosophy/contemporary/applied-ethics/PeterSinger.md) - 功利主义，动物权利，有效利他主义
 
 ### 7. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
 **描述 (Description):** 剖析法家作为一种极度务实的管理心理学与权力博弈逻辑。
@@ -239,6 +301,7 @@
 
 **核心框架 (Core Framework):**
 - [心理学流派与理论体系 (Schools & Theories)](psychology/Psychology_Schools_Theories.md) - 行为主义、精神分析、人本主义、认知、积极心理学、进化心理学、文化心理学、超个人心理学、心理治疗流派、心理学基本议题、研究方法体系、跨学科整合
+- [积极心理学 (Positive Psychology)](psychology/Psychology_Positive_Psychology.md) - PERMA模型、品格优势、心流体验、习得性乐观、感恩练习、循证干预方法
 - [心理测评工具与量表 (Assessment Tools)](psychology/Psychology_Assessment_Tools.md) - 智力测验、人格量表、焦虑抑郁量表、创伤测评、人际关系测评、情绪调节测评、职业心理测评、儿童青少年测评、成瘾测评、诊断性访谈、神经心理电池
 - [心理治疗技术详表 (Therapy Techniques)](psychology/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
 - [核心理论与经典实验 (Theories & Experiments)](psychology/Psychology_Theories_Experiments.md)
