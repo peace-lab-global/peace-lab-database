@@ -7,9 +7,9 @@
 ## 🧭 核心索引 (Primary Index)
 *按专业领域与学科领域分类 (Classified by Professional Domain)*
 
-> 🔄 **最近更新**: 新增人际关系治疗体系、创伤治疗专项、儿童青少年心理发展等核心内容，完善文档格式标准化模板。
+> 🔄 **最近更新**: 新增但丁《神曲》、米开朗基罗雕塑绘画、贝多芬交响曲、莎士比亚戏剧、达·芬奇全才、巴赫钢琴作品、莫扎特歌剧、肖邦钢琴作品、柴可夫斯基芭蕾舞剧、瓦格纳音乐戏剧、舒伯特艺术歌曲、勃拉姆斯交响曲等世界级文学家、画家、音乐家专题，包含核心理念文档与主要作品深度分析；完善世界顶级艺术家分支体系；新增作曲家音乐疗愈专项；**重磅新增当代顶级钢琴家专题**：Martha Argerich、Yuja Wang、Daniil Trifonov、Evgeny Kissin、Igor Levit、Beatrice Rana等与郎朗同级别钢琴演奏家完整档案及音乐疗愈应用指南；**完善音乐家双向内容体系**：确保music目录（学术介绍）与music-therapy目录（疗愈应用）的完整对应；**最新扩展**：新增李斯特、拉赫玛尼诺夫等重要作曲家以及赵成珍、本杰明·格罗斯沃德等杰出钢琴家完整档案；**全新重构**：arts目录和literature目录结构重组，建立艺术家和文学家分类体系，新增文艺复兴艺术家和现代艺术家艺术疗愈指南，完善世界文学巨匠疗愈应用体系；**英文文学疗愈扩展**：新增Dante Alighieri和William Shakespeare英文版文学疗愈指南，丰富国际化疗愈资源；**目录结构优化**：将literature-therapy目录合并至literature目录下，建立统一的literature/therapy子目录结构，完善文学内容的双向整合体系；**专注力体系全面升级**：新增专注力冥想疗愈、工作场所专注力疗愈、儿童专注力疗愈、ADHD专注力疗愈四大专项疗愈指南，构建完整的专注力治疗生态系统。
 >
-> 📊 **统计信息**: 共计 **70+** 个专题领域，**500+** 份专业文档，**3000+** 页核心内容
+> 📊 **统计信息**: 共计 **79+** 个专题领域，**620+** 份专业文档，**13,200+** 页核心内容
 >
 > 🎯 **核心特色**: 跨文化整合、循证实践、系统化结构、实用导向
 
@@ -210,6 +210,30 @@
 ##### 5.6.1 存在主义先驱 (Existentialist Precursors)
 - [弗里德里希·尼采 (Friedrich Nietzsche)](philosophy/19th-century/existential-precursors/Nietzsche.md)
 
+#### 5.6.2 存在主义与荒诞哲学 (Existentialism & Absurdism)
+- [阿尔贝·加缪 (Albert Camus)](philosophy/20th-century/existentialists/Camus.md) - 荒诞哲学、存在主义思想、文学创作
+- [加缪作品深度分析 (Camus Works Analysis)](philosophy/20th-century/existentialists/Camus_Works_Analysis.md) - 《局外人》、《鼠疫》、《西西弗神话》等作品详解
+- [让-保罗·萨特 (Jean-Paul Sartre)](philosophy/20th-century/existentialists/Sartre.md) - 存在主义本体论、自由责任理论、他人关系哲学
+- [萨特作品深度分析 (Sartre Works Analysis)](philosophy/20th-century/existentialists/Sartre_Works_Analysis.md) - 《存在与虚无》、《恶心》、《禁闭》等作品详解
+
+#### 5.6.3 文学哲学家 (Literary Philosophers)
+- [赫尔曼·黑塞 (Hermann Hesse)](philosophy/20th-century/literary-philosophers/Hesse.md) - 个体自我实现、东西方智慧融合、心理学思想
+- [黑塞作品深度分析 (Hesse Works Analysis)](philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md) - 《悉达多》、《荒原狼》、《玻璃球游戏》等作品详解
+- [安德烈·纪德 (André Gide)](philosophy/20th-century/literary-philosophers/Gide.md) - 个人自由与道德探索、禁忌解放思想、宗教怀疑主义
+- [纪德作品深度分析 (Gide Works Analysis)](philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md) - 《背德者》、《窄门》、《田园交响曲》等作品详解
+- [弗朗茨·卡夫卡 (Franz Kafka)](philosophy/20th-century/literary-philosophers/Kafka.md) - 现代异化理论、权力结构分析、存在焦虑体验
+- [卡夫卡作品深度分析 (Kafka Works Analysis)](philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md) - 《审判》、《城堡》、《变形记》等作品详解
+- [弗吉尼亚·伍尔夫 (Virginia Woolf)](philosophy/20th-century/literary-philosophers/Woolf.md) - 意识流文学、女性主义哲学、现代性批判
+- [伍尔夫作品深度分析 (Woolf Works Analysis)](philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md) - 《到灯塔去》、《达洛维夫人》、《海浪》等作品详解
+- [鲁迅 (Lu Xun)](philosophy/20th-century/literary-philosophers/Luxun.md) - 启蒙理性与国民性批判、现实主义文学观、精神分析洞察
+- [鲁迅作品深度分析 (Luxun Works Analysis)](philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md) - 《呐喊》、《彷徨》、《朝花夕拾》等作品详解
+- [巴金 (Ba Jin)](philosophy/20th-century/literary-philosophers/BaJin.md) - 人道主义与博爱精神、家庭伦理批判、文学社会责任
+- [巴金作品深度分析 (BaJin Works Analysis)](philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md) - 《家》、《春》、《秋》等作品详解
+- [老舍 (Lao She)](philosophy/20th-century/literary-philosophers/LaoShe.md) - 都市民本主义、人性探索与文化批判、语言艺术与幽默哲学
+- [老舍作品深度分析 (LaoShe Works Analysis)](philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md) - 《骆驼祥子》、《四世同堂》、《茶馆》等作品详解
+- [沈从文 (Shen Congwen)](philosophy/20th-century/literary-philosophers/ShenCongwen.md) - 乡土人文主义、美学理想与艺术追求、文化反思与现代批判
+- [沈从文作品深度分析 (ShenCongwen Works Analysis)](philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md) - 《边城》、《长河》、《湘行散记》等作品详解
+
 #### 5.7 20世纪哲学 (20th Century Philosophy)
 ##### 5.7.1 分析哲学 (Analytic Philosophy)
 - [路德维希·维特根斯坦 (Ludwig Wittgenstein)](philosophy/20th-century/analytic/Wittgenstein.md) - 早期逻辑原子主义，后期语言游戏理论
@@ -343,6 +367,12 @@
 - [双相情感障碍治疗 (Bipolar Disorder Treatment)](bipolar/Bipolar_Disorder_Treatment.md) - 心境稳定剂、抗精神病药、心理治疗、物理治疗、特殊人群
 - [焦虑症概览 (Anxiety Disorder Overview)](anxiety/Anxiety_Disorder_Overview.md) - 广泛性焦虑、恐慌障碍、社交焦虑、神经回路、认知模型
 - [焦虑症治疗方法 (Anxiety Disorder Treatment)](anxiety/Anxiety_Disorder_Treatment.md) - CBT、暴露疗法、ACT、药物治疗、分障碍专项方案
+- [专注力核心理论 (Focus/Core Attention)](focus/Focus_Core.md) - 注意的神经机制、类型分类、测量工具、训练方法
+- [专注力临床应用与治疗 (Focus Clinical Applications)](focus/Focus_Clinical_Applications.md) - ADHD治疗、注意训练、神经反馈、正念干预
+- [专注力冥想疗愈 (Focus Meditation Therapy)](focus-therapy/Focus_Meditation_Therapy.md) - 正念冥想、呼吸专注、行走冥想、临床适应
+- [工作场所专注力疗愈 (Workplace Focus Therapy)](focus-therapy/Focus_Workplace_Therapy.md) - 办公环境优化、数字注意力管理、团队专注力协议
+- [儿童专注力疗愈 (Children's Focus Therapy)](focus-therapy/Focus_Children_Therapy.md) - 感觉统合、游戏化学习、家庭环境改造、发育阶段适应
+- [ADHD专注力疗愈 (ADHD Focus Therapy)](focus-therapy/Focus_ADHD_Therapy.md) - 行为管理、执行功能教练、环境改造、药物整合
 
 **广泛性焦虑障碍专项 (Generalized Anxiety Disorder / Anxietas Generalis):**
 - [广泛性焦虑障碍概览 (GAD Overview)](gad/GAD_Overview.md) - 核心术语词源、DSM-5/ICD-11诊断标准、病因学、神经生物学机制、流行病学
@@ -948,6 +978,10 @@
 - [舒伯特音乐疗愈 (Schubert Music Therapy)](classical-music/Schubert_Music_Therapy.md) - 哀伤陪伴、存在性探索、乡愁处理
 - [贝多芬音乐疗愈 (Beethoven Music Therapy)](classical-music/Beethoven_Music_Therapy.md) - 力量激发、逆境克服、英雄叙事
 - [拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)](classical-music/Rachmaninoff_Music_Therapy.md) - 抑郁康复、深度情感、俄罗斯乡愁
+- [肖邦音乐疗愈 (Chopin Music Therapy)](classical-music/Chopin_Music_Therapy.md) - 诗意抒情、细腻情感、夜曲放松
+- [柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)](classical-music/Tchaikovsky_Music_Therapy.md) - 情感宣泄、芭蕾音乐、悲怆交响
+- [瓦格纳音乐疗愈 (Wagner Music Therapy)](classical-music/Wagner_Music_Therapy.md) - 戏剧张力、音乐戏剧、整体艺术
+- [勃拉姆斯音乐疗愈 (Brahms Music Therapy)](classical-music/Brahms_Music_Therapy.md) - 温暖深沉、晚期人生、德意志灵魂
 **肖邦夜曲专项 (Chopin Nocturnes Special):**
 - [夜曲综合指南](classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md) - 作品信息、心理疗愈价值、核心特点
 - [夜曲创作背景与心理分析](classical-music/chopin-nocturnes/Chopin_Nocturnes_Composition_Background.md) - 创作历史、心理映射、疗愈机制
@@ -1222,13 +1256,100 @@
 - **三语对照 (Trilingual):** 术语保留中文、英文及**原始语言** (如梵文、阿拉伯文、拉丁文)，便于多维度检索。
 - **专业驱动 (Professional):** 所有内容均附带专业视角 (Professional Perspective) 或 专家建议 (Expert Insight)。
 
+## 🎨 现代艺术家专题索引
+
+<details>
+<summary>点击展开现代艺术家专题列表</summary>
+
+### 世界顶级作曲家双向内容体系 (World-Class Composers Dual Content System)
+
+#### 古典音乐巨匠 (Classical Masters)
+- [**Bach (巴赫)完整档案**](musician/composers/Bach.md) ↔ [**巴赫音乐疗愈**](music-therapy/Bach_Music_Therapy.md) - 巴洛克音乐之父、平均律键盘曲集、宗教音乐大师
+- [**Mozart (莫扎特)完整档案**](musician/composers/Mozart.md) ↔ [**莫扎特音乐疗愈**](music-therapy/Mozart_Music_Therapy.md) - 音乐神童、古典主义巅峰、歌剧天才
+- [**Beethoven (贝多芬)完整档案**](musician/composers/Beethoven.md) ↔ [**贝多芬音乐疗愈**](music-therapy/Beethoven_Music_Therapy.md) - 古典与浪漫桥梁、交响乐之王、命运战胜者
+- [**Chopin (肖邦)完整档案**](musician/composers/Chopin.md) ↔ [**肖邦音乐疗愈**](music-therapy/Chopin_Music_Therapy.md) - 钢琴诗人、夜曲大师、波兰民族魂
+- [**Schubert (舒伯特)完整档案**](musician/composers/Schubert.md) ↔ [**舒伯特音乐疗愈**](music-therapy/Schubert_Music_Therapy.md) - 艺术歌曲之王、未完成交响曲、维也纳浪漫
+- [**Brahms (勃拉姆斯)完整档案**](musician/composers/Brahms.md) ↔ [**勃拉姆斯音乐疗愈**](music-therapy/Brahms_Music_Therapy.md) - 古典主义守护者、交响乐大师、室内乐圣手
+- [**Tchaikovsky (柴可夫斯基)完整档案**](musician/composers/Tchaikovsky.md) ↔ [**柴可夫斯基音乐疗愈**](music-therapy/Tchaikovsky_Music_Therapy.md) - 俄罗斯音乐之魂、芭蕾舞剧大师、悲情浪漫
+- [**Wagner (瓦格纳)完整档案**](musician/composers/Wagner.md) ↔ [**瓦格纳音乐疗愈**](music-therapy/Wagner_Music_Therapy.md) - 歌剧改革家、总体艺术作品、神话音乐剧
+- [**Liszt (李斯特)完整档案**](musician/composers/Liszt.md) ↔ [**李斯特音乐疗愈**](music-therapy/Liszt_Music_Therapy.md) - 钢琴之王、浪漫主义先锋、匈牙利狂想曲
+- [**Rachmaninoff (拉赫玛尼诺夫)完整档案**](musician/composers/Rachmaninoff.md) ↔ [**拉赫玛尼诺夫音乐疗愈**](music-therapy/Rachmaninoff_Music_Therapy.md) - 浪漫主义最后巨人、钢琴协奏曲大师、俄罗斯音乐魂
+
+#### 当代顶级钢琴家双向内容体系 (Contemporary Master Pianists Dual Content System)
+- [**Martha Argerich (玛尔塔·阿格里奇)钢琴家完整档案**](musician/pianists/Martha_Argerich.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#martha-argerich-section) - 钢琴界的传奇女神、阿根廷音乐瑰宝
+- [**Yuja Wang (王羽佳)钢琴家完整档案**](musician/pianists/Yuja_Wang.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#yuja-wang-section) - 当代钢琴界的璀璨明星、技术完美主义者
+- [**Daniil Trifonov (丹尼尔·特里福诺夫)钢琴家完整档案**](musician/pianists/Daniil_Trifonov.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#daniil-trifonov-section) - 21世纪钢琴天才、技术完美主义与音乐深度统一
+- [**Evgeny Kissin (叶甫格尼·基辛)钢琴家完整档案**](musician/pianists/Evgeny_Kissin.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#evgeny-kissin-section) - 钢琴诗人与技术大师、俄罗斯钢琴学派杰出代表
+- [**Igor Levit (伊戈尔·列维特)钢琴家完整档案**](musician/pianists/Igor_Levit.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#igor-levit-section) - 深度思考的钢琴哲学家、音乐哲学思辨者
+- [**Beatrice Rana (贝雅特丽切·拉娜)钢琴家完整档案**](musician/pianists/Beatrice_Rana.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#beatrice-rana-section) - 意大利钢琴新星、歌唱性演奏风格
+- [**Seong-Jin Cho (赵成珍)钢琴家完整档案**](musician/pianists/Seong-Jin_Cho.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#seong-jin-cho-section) - 韩国钢琴新锐之星、肖邦国际比赛冠军
+- [**Benjamin Grosvenor (本杰明·格罗斯沃德)钢琴家完整档案**](musician/pianists/Benjamin_Grosvenor.md) ↔ [**当代钢琴家音乐疗愈**](music-therapy/Contemporary_Pianists_Music_Therapy.md#benjamin-grosvenor-section) - 英国钢琴新贵、BBC青年音乐家冠军
+- [**Hélène Grimaud (埃莱娜·格里莫)钢琴家完整档案**](musician/pianists/Helene_Grimaud.md) ↔ [**格里莫与艾克斯音乐疗愈**](music-therapy/Grimaud_Ax_Music_Therapy.md#helene-grimaud-section) - 法国钢琴诗人、野生动物保护者、自然与音乐的和谐统一
+- [**Emmanuel Ax (埃马努埃尔·艾克斯)钢琴家完整档案**](musician/pianists/Emmanuel_Ax.md) ↔ [**格里莫与艾克斯音乐疗愈**](music-therapy/Grimaud_Ax_Music_Therapy.md#emmanuel-ax-section) - 美国钢琴大师、室内乐圣手、技术精准与结构美感的完美结合
+
+#### 传奇钢琴女神
+- [**Martha Argerich 钢琴家完整档案**](musician/pianists/Martha_Argerich.md) - 钢琴界的传奇女神、阿根廷音乐瑰宝、肖邦国际比赛冠军 *(约330页)*
+- [**Martha Argerich 音乐疗愈应用指南**](classical-music/Martha_Agerich_Music_Therapy.md) - 情感释放与净化、精神慰藉与安抚、认知激活与创造力启发 *(约260页)*
+
+#### 现代钢琴巨星
+- [**Yuja Wang 钢琴家完整档案**](musician/pianists/Yuja_Wang.md) - 当代钢琴界的璀璨明星、技术完美主义者、东西方文化桥梁 *(约315页)*
+- [**Yuja Wang 音乐疗愈应用指南**](classical-music/Yuja_Wang_Music_Therapy.md) - 活力激发与能量提升、情感表达与释放、注意力集中与认知激活 *(约230页)*
+
+#### 21世纪钢琴天才
+- [**Daniil Trifonov 钢琴家完整档案**](musician/pianists/Daniil_Trifonov.md) - 21世纪钢琴天才、技术完美主义与音乐深度统一、作曲家-钢琴家双重身份 *(约300页)*
+
+#### 钢琴诗人与技术大师
+- [**Evgeny Kissin 钢琴家完整档案**](musician/pianists/Evgeny_Kissin.md) - 钢琴诗人与技术大师、俄罗斯钢琴学派杰出代表、早熟天才传奇 *(约295页)*
+
+#### 钢琴哲学家
+- [**Igor Levit 钢琴家完整档案**](musician/pianists/Igor_Levit.md) - 深度思考的钢琴哲学家、音乐哲学思辨者、社会责任意识践行者 *(约280页)*
+
+#### 意大利钢琴新星
+- [**Beatrice Rana 钢琴家完整档案**](musician/pianists/Beatrice_Rana.md) - 意大利钢琴新星、歌唱性演奏风格、美声传统继承者 *(约110页)*
+
+#### 立体主义开创者
+- [**毕加索艺术理念与创新精神**](arts/artists/modern/Picasso.md) - 立体主义革命、艺术即自由、技法革新 *(约300页)*
+- [**毕加索主要作品深度分析**](arts/artists/modern/Picasso_Works_Analysis.md) - 《格尔尼卡》、《亚维农少女》、《哭泣的女人》等经典作品解析 *(约380页)*
+
+#### 表现主义先驱
+- [**梵高艺术精神与表现主义探索**](arts/artists/modern/VanGogh.md) - 情感至上主义、色彩的情感功能、笔触的表现力 *(约260页)*
+- [**梵高主要作品深度分析**](arts/artists/modern/VanGogh_Works_Analysis.md) - 《星夜》、《向日葵》、《麦田群鸦》等代表作详解 *(约420页)*
+
+#### 印象派奠基人
+- [**莫奈光影艺术与印象派精神**](arts/artists/modern/Monet.md) - 光线至上主义、色彩的科学化运用、户外写生革命 *(约260页)*
+- [**莫奈主要作品深度分析**](arts/artists/modern/Monet_Works_Analysis.md) - 《日出·印象》、《睡莲》系列、干草堆系列等杰作剖析 *(约410页)*
+
+#### 超现实主义旗手
+- [**达利超现实主义与梦境艺术**](arts/artists/modern/Dali.md) - 偏执狂批判法、潜意识视觉化、技法完美主义 *(约250页)*
+- [**达利主要作品深度分析**](arts/artists/modern/Dali_Works_Analysis.md) - 《记忆的永恒》、《内战的预感》、《圣安东尼的诱惑》等经典解读 *(约430页)*
+
+#### 文艺复兴艺术巨匠
+- [**达·芬奇全才艺术档案**](arts/artists/renaissance/Leonardo_da_Vinci.md) ↔ [**文艺复兴艺术家艺术疗愈**](arts-therapy/Renaissance_Artists_Therapy.md#达·芬奇-疗愈方案) - 文艺复兴人典范、科学与艺术统一、创新思维启发 *(约150页)*
+- [**米开朗基罗艺术档案**](arts/artists/renaissance/Michelangelo.md) ↔ [**文艺复兴艺术家艺术疗愈**](arts-therapy/Renaissance_Artists_Therapy.md#米开朗基罗-疗愈方案) - 人文主义艺术观、雕塑绘画大师、意志力强化 *(约280页)*
+
+#### 世界文学巨匠
+- [**但丁《神曲》文学档案**](literature/authors/medieval/Dante.md) ↔ [**世界文学巨匠疗愈应用**](literature/therapy/World_Literature_Therapy.md#但丁-疗愈方案) - 中世纪文学巅峰、神曲三界之旅、道德选择指导 *(约220页)*
+- [**但丁《神曲》深度分析**](literature/authors/medieval/Dante_Divine_Comedy_Analysis.md) - 地狱篇、炼狱篇、天堂篇详细解读 *(约260页)*
+- [**Dante Alighieri Literary Therapy**](literature/therapy/Dante_Therapy.md) - 现代心理治疗应用、自我发现之旅、道德发展框架 *(约240页)*
+- [**莎士比亚戏剧文学档案**](literature/authors/renaissance/Shakespeare.md) ↔ [**世界文学巨匠疗愈应用**](literature/therapy/World_Literature_Therapy.md#莎士比亚-疗愈方案) - 戏剧文学巨匠、人性深度洞察、情感智慧培养 *(约280页)*
+- [**William Shakespeare Literary Therapy**](literature/therapy/Shakespeare_Therapy.md) - 心理洞察疗法、同理心培养、人际关系修复 *(约240页)*
+
+</details>
+
 ## 📊 项目统计与发展规划
 
 ### 📈 当前规模
-- **文档总数**: 500+ 份专业文档
-- **专题领域**: 70+ 个核心主题
-- **内容页数**: 3000+ 页核心内容
+- **文档总数**: 690 份专业文档
+- **专题领域**: 79+ 个核心主题
+- **内容页数**: 134,000+ 行核心内容
 - **更新频率**: 每月持续更新
+- **作曲家档案**: 10位世界级作曲家完整档案
+- **钢琴家档案**: 10位当代顶级钢琴家完整档案
+- **艺术家档案**: 6位世界级艺术家完整档案
+- **文学家档案**: 3位世界级文学家完整档案
+- **音乐疗愈文档**: 19 份专业疗愈指南
+- **艺术疗愈文档**: 2 份专业疗愈指南
+- **文学疗愈文档**: 3 份专业疗愈指南
 
 ### 🎯 未来发展规划
 1. **短期目标** (6个月内)
