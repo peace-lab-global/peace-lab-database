@@ -7,6 +7,12 @@
 ## 🧭 核心索引 (Primary Index)
 *按专业领域与学科领域分类 (Classified by Professional Domain)*
 
+> 🔄 **最近更新**: 新增人际关系治疗体系、创伤治疗专项、儿童青少年心理发展等核心内容，完善文档格式标准化模板。
+>
+> 📊 **统计信息**: 共计 **70+** 个专题领域，**500+** 份专业文档，**3000+** 页核心内容
+>
+> 🎯 **核心特色**: 跨文化整合、循证实践、系统化结构、实用导向
+
 ### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions)
 **描述 (Description):** 涵盖古典瑜伽哲学、体式解剖、呼吸能量控制及临床理疗。
 *Categories: Yoga Sutras, Pranayama (调息 - *Prāṇāyāma*), Asanas (体式 - *Āsana*), Chakras (脉轮 - *Cakra*).*
@@ -303,6 +309,9 @@
 - [心理学流派与理论体系 (Schools & Theories)](psychology/Psychology_Schools_Theories.md) - 行为主义、精神分析、人本主义、认知、积极心理学、进化心理学、文化心理学、超个人心理学、心理治疗流派、心理学基本议题、研究方法体系、跨学科整合
 - [积极心理学 (Positive Psychology)](psychology/Psychology_Positive_Psychology.md) - PERMA模型、品格优势、心流体验、习得性乐观、感恩练习、循证干预方法
 - [心理测评工具与量表 (Assessment Tools)](psychology/Psychology_Assessment_Tools.md) - 智力测验、人格量表、焦虑抑郁量表、创伤测评、人际关系测评、情绪调节测评、职业心理测评、儿童青少年测评、成瘾测评、诊断性访谈、神经心理电池
+- [人际关系治疗体系 (Relationships Treatment System)](relationships/Relationships_Overview.md) - 依恋理论、沟通技能、伴侣治疗、家庭治疗
+- [创伤治疗专项 (Trauma Treatment Specialized)](trauma/Trauma_Treatment_Overview.md) - 创伤类型分类、分阶段治疗、神经生物学基础
+- [儿童青少年发展 (Child & Adolescent Development)](child-adolescent/Child_Adolescent_Development.md) - 发展阶段、常见问题、干预方法
 - [心理治疗技术详表 (Therapy Techniques)](psychology/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
 - [核心理论与经典实验 (Theories & Experiments)](psychology/Psychology_Theories_Experiments.md)
 - [认知科学与神经可塑性 (Cognition & Neuroscience)](psychology/Psychology_Cognition.md)
@@ -1213,13 +1222,65 @@
 - **三语对照 (Trilingual):** 术语保留中文、英文及**原始语言** (如梵文、阿拉伯文、拉丁文)，便于多维度检索。
 - **专业驱动 (Professional):** 所有内容均附带专业视角 (Professional Perspective) 或 专家建议 (Expert Insight)。
 
----
-*Created by Peace Lab Database Project*
-*Author: Allen Galler (allengaller@gmail.com)*
-本项目致力于提供专业级别的身心疗愈知识。
-- **三语对照 (Trilingual):** 术语保留中文、英文及**原始语言** (如梵文、阿拉伯文、拉丁文)，便于多维度检索。
-- **专业驱动 (Professional):** 所有内容均附带专业视角 (Professional Perspective) 或 专家建议 (Expert Insight)。
+## 📊 项目统计与发展规划
+
+### 📈 当前规模
+- **文档总数**: 500+ 份专业文档
+- **专题领域**: 70+ 个核心主题
+- **内容页数**: 3000+ 页核心内容
+- **更新频率**: 每月持续更新
+
+### 🎯 未来发展规划
+1. **短期目标** (6个月内)
+   - 完善古典音乐治疗文档体系
+   - 增加更多实用工具和工作表
+   - 建立文档质量评估机制
+
+2. **中期目标** (1年内)
+   - 开发配套的数字化工具
+   - 建立用户反馈和互动平台
+   - 扩展至更多文化传统领域
+
+3. **长期愿景** (3年内)
+   - 打造国际一流的整合疗愈知识库
+   - 推动跨文化疗愈实践的标准化
+   - 建立产学研一体化的合作网络
+
+## 🤝 贡献与参与
+
+我们欢迎各种形式的贡献：
+
+### 💡 内容贡献
+- 提供专业知识和实践经验
+- 完善现有文档内容
+- 翻译和本地化工作
+
+### 🛠️ 技术贡献
+- 开发辅助工具和应用程序
+- 优化文档管理系统
+- 建立搜索和推荐功能
+
+### 🌍 社区建设
+- 分享使用经验和案例
+- 参与讨论和知识交流
+- 帮助推广项目理念
+
+## 📞 联系方式
+
+📧 **邮箱**: allengaller@gmail.com
+
+🌐 **项目主页**: [GitHub Repository](https://github.com/your-username/peace-lab-database)
+
+👥 **社区讨论**: [Discussions](https://github.com/your-username/peace-lab-database/discussions)
+
+📝 **文档模板**: [标准文档模板](template/Document_Template.md)
+
+📚 **术语词典**: [完整专业术语词典](resources/Complete_Terminology_Dictionary.md) - 统一术语标准 ([基础版](resources/Terminology_Dictionary.md))
+
+🔧 **质量工具**: [链接检查工具](tools/link_checker.py) - 自动化链接验证
 
 ---
-*Created by Peace Lab Database Project*
-*Author: Allen Galler (allengaller@gmail.com)*
+
+*Peace Lab Database - 让古老的智慧与现代科学携手，为人类的身心健康服务*
+
+*最后更新: 2026年2月*

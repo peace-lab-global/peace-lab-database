@@ -1,0 +1,3928 @@
+{
+  "timestamp": "2026-02-04T17:19:48.801151",
+  "summary": {
+    "总文档数": 616,
+    "合格文档": 616,
+    "需改进文档": 0,
+    "不合格文档": 0,
+    "平均分数": 99.1,
+    "合格率": 100.0
+  },
+  "detailed_results": [
+    {
+      "file": "../forest-therapy/Forest_Therapy_Tree_Hugging.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychological/Psychological_Defense_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychological/Psychological_Security.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../loneliness/Loneliness_Marital.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../loneliness/Loneliness_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../loneliness/Loneliness_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Schubert_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Handel_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Satie_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Bach_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Chopin_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Tchaikovsky_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Debussy_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Beethoven_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Sacred_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Faure_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Rachmaninoff_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Brahms_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Mahler_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Mozart_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Recovery.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Pornography_Compulsive_Sexual_Behavior.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Pointing_Out.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Core.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Neuroscience_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_History_Lineage.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Types_Classification.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Daily_Integration.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Indirect_Recognition.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Assessment_Stages.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Neuroscience.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../self-compassion/Self_Compassion_Self_Care.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../syncretism/Syncretism_Three_Teachings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../television-therapy/Television_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../daily-practices/Daily_Advanced_Practices.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Metabolic.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Sleep_Science.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Breathwork_Pranayama.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Dietary_Pharmacy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Safety.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Fasting_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../six-yogas-naropa/Six_Yogas_Naropa.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Nidra.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Types_Classification.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Safety_Toxicology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Practices.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Integration_Modalities.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Clinical_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Clinical_Evidence.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Preparation_Formulation.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_History_Culture.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../anxiety/Anxiety_Disorder_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../anxiety/Anxiety_Disorder_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../guqin-therapy/Guqin_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../herbal-tea/Herbal_Tea_Comprehensive.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Interdisciplinary_Logic.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../theravada/Theravada_Vipassana_Traditions.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../stretch/Stretch_Therapy_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../stretch/Stretch_Integration_Movement.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../stretch/Stretch_Biomechanics_Physiology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../stretch/Stretch_Methods_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../stretch/Stretch_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grounding-techniques/Grounding_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sleep/Sleep_Insomnia_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sleep/Sleep_Insomnia_Interventions.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sleep/Sleep_Insomnia_CBT.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sleep/Sleep_Insomnia_Clinical.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../daily-routines/Daily_Routine_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../therapy-direct-recognition/Therapy_Direct_Recognition_Healing.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Crisis_Intervention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Therapy_Methods.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Intimacy_Sexuality.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Communication.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Cultural_Perspectives.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Infidelity_Betrayal.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../nutritional/Nutritional_Natural_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../family-constellation/Family_Constellation_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../family-constellation/Family_Constellation_Clinical.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../family-constellation/Family_Constellation_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../family-constellation/Family_Constellation_Laws.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Christianity_Inner_Healing.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Existential_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Contemplation_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Anxiety_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Anxiety_Sudden_Death_Fear.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Meditation_Practices.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../death/Death_Anxiety_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../nan-huaijin/Nan_Huaijin_Teachings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../autism/Autism_Spectrum_Disorder.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mahamudra/Mahamudra_Detailed.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dzogchen/Dzogchen_Great_Perfection.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Positive_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Self_Help_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Cognition.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Schools_Theories.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Psychopathology_Atlas.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Social.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Emotion.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Talisman_Ritual_Healing.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Aesthetics_Modern_Life.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Lineage_Ritual_Tradition.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Health_Yangsheng_Qigong.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Internal_Alchemy_Neidan.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../template/Document_Template.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../morita-therapy/Morita_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vipassana/Vipassana_Meditation.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../transcendental-meditation/Transcendental_Meditation.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cfs/CFS_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cfs/CFS_Diagnosis_Assessment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cfs/CFS_Etiology_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cfs/CFS_Clinical_Features.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../folk-music-therapy/Folk_Music_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/Classical_Music_Documentation_Summary.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-preludes/Chopin_Preludes_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-preludes/Chopin_Preludes_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-preludes/Chopin_Preludes_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-preludes/Chopin_Preludes_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-preludes/Chopin_Preludes_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-organ-works/Bach_Toccata_Fugue_D_Minor_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No3_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-piano-works/BMinor/Liszt_Piano_Sonata_BMinor_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Therapeutic_Use.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Structural_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite1/Bach_French_Suite_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite4/Bach_French_Suite_No4_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite3/Bach_French_Suite_No3_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite2/Bach_French_Suite_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-french-suites/Suite5/Bach_French_Suite_No5_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-nocturnes/Chopin_Nocturnes_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-nocturnes/Chopin_Nocturnes_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-nocturnes/Chopin_Nocturnes_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Neuroscience.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Clinical_Protocols.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Composers_Works.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Integration.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Periods_Styles.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Therapeutic_Methods.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-piano-concertos/No1/Tchaikovsky_Piano_Concerto_No1_Version_Comparison.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-piano-concertos/No1/Tchaikovsky_Piano_Concerto_No1_Playing_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-piano-concertos/No1/Tchaikovsky_Piano_Concerto_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-string-quartets/Op18No1/Beethoven_String_Quartet_Op18No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite6/Bach_English_Suite_No6_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite4/Bach_English_Suite_No4_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite2/Bach_English_Suite_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-english-suites/Suite5/Bach_English_Suite_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-string-quartets/KV387/Mozart_String_Quartet_KV387_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-symphonies/No4/Mendelssohn_Symphony_No4_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No1/Bach_Brandenburg_Concerto_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No6/Bach_Brandenburg_Concerto_No6_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No5/Bach_Brandenburg_Concerto_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No2/Bach_Brandenburg_Concerto_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-brandenburg-concertos/No4/Bach_Brandenburg_Concerto_No4_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-symphonies/No5/Beethoven_Symphony_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-symphonies/No3/Beethoven_Symphony_No3_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-symphonies/No35/Mozart_Symphony_No35_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-symphonies/No40/Mozart_Symphony_No40_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-symphonies/No40/Mozart_Symphony_No40_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-symphonies/No38/Mozart_Symphony_No38_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-etudes/Chopin_Etudes_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-cello-suites/Suite1/Bach_Cello_Suite_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-cello-suites/Suite2/Bach_Cello_Suite_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-ballades/Chopin_Ballades_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-ballades/Chopin_Ballades_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-ballades/Chopin_Ballades_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-ballades/Chopin_Ballades_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-symphonies/No5/Tchaikovsky_Symphony_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-sonatas/Chopin_Sonatas_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/bach-goldberg-variations/Bach_Goldberg_Variations_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Choreography.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Therapeutic_Use.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Musical_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Historical_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-scherzos/Chopin_Scherzos_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Musical_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-operas/Figaro/Mozart_Opera_Figaro_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-waltzes/Chopin_Waltzes_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-piano-concertos/No5/Beethoven_Piano_Concerto_No5_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-sonatas/KV331/Mozart_Piano_Sonata_KV331_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No20/Mozart_Piano_Concerto_No20_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No18/Mozart_Piano_Concerto_No18_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No11/Mozart_Piano_Concerto_No11_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No17/Mozart_Piano_Concerto_No17_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No10/Mozart_Piano_Concerto_No10_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/mozart-piano-concertos/No12/Mozart_Piano_Concerto_No12_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-piano-sonatas/Op27No2/Beethoven_Piano_Sonata_Op27No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-piano-sonatas/Op27No2/Beethoven_Piano_Sonata_Op27No2_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/beethoven-piano-sonatas/Op53/Beethoven_Piano_Sonata_Op53_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-polonaises/Chopin_Polonaises_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-polonaises/Chopin_Polonaises_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-polonaises/Chopin_Polonaises_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-polonaises/Chopin_Polonaises_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-polonaises/Chopin_Polonaises_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/Chopin_Piano_Concertos_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Composition_Background.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Listening_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Recordings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../phobia/Phobia_Social_Agoraphobia.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../phobia/Phobia_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../phobia/Phobia_Specific_Types.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../phobia/Phobia_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../anime-manga-therapy/Anime_Manga_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vajrayana/Vajrayana_Initiation_Empowerment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vajrayana/Vajrayana_Mudra_Mandala.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vajrayana/Vajrayana_Mantra_Dharani.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mindful-daily-living/Mindful_Daily_Living.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../opera-artsong-therapy/Opera_ArtSong_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../hpa-axis/HPA_Axis_Stress_Response.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../hpa-axis/HPA_Axis_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cortisol/Cortisol_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cortisol/Cortisol_Regulation.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cortisol/Cortisol_Mental_Health.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cortisol/Cortisol_Assessment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cortisol/Cortisol_Neuroscience.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mindfulness/Mindfulness_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mindfulness/Mindfulness_Core.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Five_Houses_Lineage.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Sutras_In_Depth.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Aesthetics_Culture.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Neuroscience_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Daily_Life_Practice.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Koan_Anthropology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../child-adolescent/Child_Adolescent_Clinical_Intervention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../child-adolescent/Child_Adolescent_Development.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tea/Tea_Ceremony_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tea/Tea_Mental_Health_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tea/Tea_Varieties_Processing.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tea/Tea_Core_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tea/Tea_Neuroscience_Pharmacology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../gad/GAD_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../gad/GAD_Assessment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../gad/GAD_Clinical_Features.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../gad/GAD_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grief/Grief_Intervention_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grief/Grief_Special_Loss_Types.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grief/Grief_Lifespan_Developmental.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grief/Grief_Bereavement.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../grief/Grief_Cultural_Spiritual.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bipolar/Bipolar_Disorder_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../bipolar/Bipolar_Disorder_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_Applied_Training.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_Autogenic_Training.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_PMR.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_Guided_Imagery.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_Breathing.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Mantra_Sacred_Sound.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_SPA_Bodywork.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Sound_Medicine.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Writing_Journaling.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Clinical_Dialogue.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Vocal_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Aromatherapy_Olfactory.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Dance_Expressive.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Zentangle_Art.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Vibrational_Instruments.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Essential_Oils.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Mandala_Jungian.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Madhyamaka_Philosophy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Sutra_Healing_Guide.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Tiantai_Zhiguan.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Huayan_Philosophy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Four_Immeasurables.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Pure_Land_Practice.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/20th-century/continental/Heidegger.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/20th-century/continental/Husserl.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/20th-century/analytic/Wittgenstein.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/20th-century/analytic/WittgensteinLater.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/western/Philosophy_Western_Kantian_Schopenhauer.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/19th-century/Nietzsche.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/19th-century/existential-precursors/Nietzsche.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/19th-century/existential-precursors/Kierkegaard.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/19th-century/existential-precursors/Schopenhauer.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/renaissance/Erasmus.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/renaissance/Machiavelli.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/empiricism/Locke.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/empiricism/Berkeley.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/rationalism/Descartes.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/rationalism/Leibniz.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/early-modern/rationalism/Spinoza.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/medieval/jewish/Maimonides.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/medieval/christian/Aquinas.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/medieval/christian/Ockham.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/medieval/christian/Augustine.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/medieval/islamic/Al-Ghazali.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/pre-socratics/Democritus.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/pre-socratics/Pythagoras.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/pre-socratics/Heraclitus.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/pre-socratics/Parmenides.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/pre-socratics/Thales.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Socrates.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Zeno.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Epicurus.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Aristotle.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Pyrrho.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Plotinus.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/ancient/classical/Plato.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/enlightenment/Hume.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/enlightenment/Kant.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/enlightenment/Voltaire.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/modern/pragmatism/WilliamJames.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/contemporary/applied-ethics/Singer.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/contemporary/applied-ethics/PeterSinger.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/contemporary/political-philosophy/Nussbaum.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/german-idealism/Fichte.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/german-idealism/Schelling.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/german-idealism/Hegel.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../suicide-intervention/Suicide_Intervention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../adolescent-crisis/Adolescent_Crisis_Intervention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../crisis-postvention/Crisis_Postvention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../coffee/Coffee_Varieties_Sensory.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../coffee/Coffee_Core_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../coffee/Coffee_Ritual_Mindfulness.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../coffee/Coffee_Neuroscience_Pharmacology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../coffee/Coffee_Mental_Health_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../containment-techniques/Containment_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../self-soothing/Self_Soothing_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../krishnamurti/Krishnamurti_Teachings.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Time_Management.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_NVC.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Tiny_Habits.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Eat_That_Frog.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Thinking_Fast_Slow.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Goal_Setting.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_GTD.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Poor_Charlies_Almanack.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Willpower_Instinct.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Atomic_Habits.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Habit_Science.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Influence.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Happier.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Mini_Habits.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Growth_Mindset.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Peak.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_How_to_Win_Friends.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../south-asian/india/samkhya/Kapila.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../satir-model/Satir_Model_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../satir-model/Satir_Iceberg_Model.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../satir-model/Satir_Meditation_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../satir-model/Satir_Transformation_Process.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../satir-model/Satir_Communication_Stances.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/korea/confucianism/YiHwang.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/korea/confucianism/YiI.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/japan/kyoto-school/Nishida.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/japan/historiography/Ienaga.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/japan/buddhism/Suzuki.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/japan/watsuji/Watsuji.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/WuQi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/ZouYan.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/Mozi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/HanFeizi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/Sunzi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/ShangYang.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/GongsunLong.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/other-schools/HuiShi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/confucianism/Confucius.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/confucianism/Xunzi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/confucianism/Mencius.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/confucianism/ZhuXi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/confucianism/WangYangming.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/taoism/Liezi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/taoism/Zhuangzi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/china/taoism/Laozi.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../east-asian/vietnam/confucianism/NguyenTrai.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_Neurofeedback_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_Protocols_Training.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_Safety_Ethics.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_DMN_Default_Mode_Network.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../trauma/PTSD_Specialized_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../trauma/Trauma_Treatment_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../legalist-management/Legalist_Management_Psychology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../game-therapy/Game_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../cinema-therapy/Cinema_Therapy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Singing_Bowl.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Bardo_Death_Art.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Tulku_System.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Terma_Tradition.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Channels_Winds_Drops.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Dharma_Protectors.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vasana/Vasana_Seed_Theory.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vasana/Vasana_Mind_Transformation.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vasana/Vasana_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vasana/Vasana_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../vasana/Vasana_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Movement_Functional.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Anxiety_Illness_Anxiety.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Movement_Neuro.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Anxiety_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Movement_Trauma.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Movement_Oriental.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Anxiety_Autonomic_Dysfunction.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Anxiety_Somatization.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Movement_Performance.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mandala-meditation/Mandala_Meditation_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mandala-meditation/Mandala_Meditation_Neuroscience.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mandala-meditation/Mandala_Meditation_Techniques.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mandala-meditation/Mandala_Meditation_Traditions.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../mandala-meditation/Mandala_Meditation_Clinical.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/Relationships_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/Relationships_Systematic_Framework.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Communication_Conflict.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Mate_Selection.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Breakup_Heartbreak.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Attachment_Intimacy.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Psychology_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Neuroscience_Biology.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../relationships/love/Love_Dating_Stages.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../chronic-stress/Chronic_Stress_Assessment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../chronic-stress/Chronic_Stress_Health_Effects.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../chronic-stress/Chronic_Stress_Interventions.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../chronic-stress/Chronic_Stress_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../chronic-stress/Chronic_Stress_Mechanisms.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../depression/Depression_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../depression/Depression_Treatment.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Neuroscience.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Therapy_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Specific_Interventions.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Regulation_Methods.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Mindfulness_Approaches.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../media/Media_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../media/Media_Therapy_Overview.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../media/Media_Safety_Ethics.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../flow/Flow_Clinical_Applications.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../flow/Flow_State_Core.md",
+      "score": 100,
+      "issues": [],
+      "status": "合格"
+    },
+    {
+      "file": "../README.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (73.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../music-therapy/Vivaldi_Music_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Substance.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../addiction/Addiction_Behavioral.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Applications.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Advanced.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_General.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (48.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Traditions.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../meditation/Meditation_Direct_Recognition_Foundations.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../.trae/documents/为西方哲学家创建详细markdown文件.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Nutrition_Gut.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (51.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Breathwork_Biohack.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (97.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../bio/Bio_Sleep_Dreams.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (53.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Advanced_Kriya_Kundalini.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (59.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Asana_Pranayama.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (62.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (53.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Anatomy_Physiology.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (57.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Philosophy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (62.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Ayurvedic_Therapy_Integration.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_History_Tradition.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (61.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../yoga/Yoga_Sutra_Philosophical_Deep_Dive.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../society-community/Society_Community_Support.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (79.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Pharmacology_Compounds.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../incense/Incense_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Tools_Assessment.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (52.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Integrated_Methods.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (54.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Benefits_Risks.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (63.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Industry_Trends.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Cross_Comparisons.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (62.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../framework/Framework_Authorities_Lineage.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (55.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../theravada/Theravada_Meditation_Stages.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (52.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../theravada/Theravada_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../theravada/Theravada_Abhidhamma.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (58.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../marriage/Marriage_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (50.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../crisis-assessment/Crisis_Assessment_Tools.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../resources/Resources_Media_Books.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (55.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Assessment_Tools.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (52.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_General_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Theories_Experiments.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (61.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Therapy_Techniques.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../psychology/Psychology_Development.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Yangsheng_Herbology.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Advanced_Internal_Alchemy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../dao/Dao_Philosophy_Cosmology.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../cfs/CFS_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/Directory_Structure_Comparison_Report.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (66.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/general/Classical_Music_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../vajrayana/Vajrayana_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../hpa-axis/HPA_Axis_Neuroscience.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../hpa-axis/HPA_Axis_Regulation_Interventions.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../hpa-axis/HPA_Axis_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../mindfulness/Mindfulness_Based_Stress_Reduction.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (48.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../mindfulness/Mindfulness_Based_Cognitive_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (50.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Practice_Methodology.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Monastic_Rituals.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Enlightenment_Stages.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../zen/Zen_Wisdom_Lineage.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (46.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../gad/GAD_Cognitive_Models.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (49.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../relaxation/Relaxation_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Energy_Sound.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (57.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../sensory/Sensory_Arts_Nature.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (55.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Core_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Samatha_Vipassana.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (46.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Mindfulness_Therapy_Integration.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Four_Noble_Truths.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (48.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Theravada_Abhidhamma.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (48.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Yogacara_Consciousness.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Vinaya_Ethics.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../buddhism/Buddhism_Vajrayana_Foundation.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/western/Philosophy_Western_Phenomenology_Metaphysics.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/western/Philosophy_Western_Stoicism_Existentialism.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/eastern/Philosophy_Eastern_Indian_Schools.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../philosophy/eastern/Philosophy_Eastern_Classical_Confucianism.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Mans_Search_for_Meaning.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Authentic_Happiness.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Flow.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_OKR.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (46.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Book_Reviews.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_7_Habits.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Willpower_Discipline.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Overview.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.6%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Power_of_Habit.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Deep_Work.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.5%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Crucial_Conversations.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Grit.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Miracle_Morning.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (50.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../personal-development/Personal_Development_Mindset.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_Neuromodulation.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_EEG_Biofeedback.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (45.4%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../brain/Brain_BCI_Systems.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (46.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../ted-talks/TED_Talks_Healing_Resources.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (79.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Tantra_Classification.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (47.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Schools_Detailed.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Ritual_Healing.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.3%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Deity_Yoga.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (43.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (41.2%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../tibetan-buddhism/Tibetan_Buddhist_Psychology.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Experiencing.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (57.0%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_Experiencing_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.8%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../somatic/Somatic_TCM_Meridians.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (96.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../compassion-focused-therapy/Compassion_Focused_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (42.9%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_DBT_Skills.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (44.1%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Cultural_Wisdom.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../emotion/Emotion_Focused_Therapy.md",
+      "score": 95,
+      "issues": [
+        "英文比例过高 (40.7%)"
+      ],
+      "status": "合格"
+    },
+    {
+      "file": "../classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Overview.md",
+      "score": 85,
+      "issues": [
+        "内容过短"
+      ],
+      "status": "合格"
+    }
+  ],
+  "top_issues": {}
+}
