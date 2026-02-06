@@ -1,13 +1,13 @@
 # 链接检查报告
 
-检查时间: 2026-02-06 13:34:12
+检查时间: 2026-02-06 13:43:21
 
 ## 摘要统计
 
 - 总链接数: 3307
-- 有效链接: 2123
-- 无效链接: 1184
-- 成功率: 64.2%
+- 有效链接: 2133
+- 无效链接: 1174
+- 成功率: 64.5%
 
 ## 无效链接详情
 
@@ -19,18 +19,8 @@
 | README.md | 152 | 乔答摩悉达多 (Gautama Buddha) | `south-asian/india/buddhism/GautamaBuddha.md` |
 | README.md | 155 | 泰戈尔 (Rabindranath Tagore) | `south-asian/Tagore.md` |
 | README.md | 156 | 甘地 (Mahatma Gandhi) | `south-asian/Gandhi.md` |
-| README.md | 232 | 老舍 (Lao She) | `philosophy/20th-century/literary-philosophers/LaoShe.md` |
-| README.md | 233 | 老舍作品深度分析 (LaoShe Works Analysis) | `philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md` |
-| README.md | 234 | 沈从文 (Shen Congwen) | `philosophy/20th-century/literary-philosophers/ShenCongwen.md` |
-| README.md | 235 | 沈从文作品深度分析 (ShenCongwen Works Analysis) | `philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md` |
-| README.md | 261 | 三教合一：儒释道融合 (Syncretism) | `buddhism/Buddhism_Syncretism_Three_Teachings.md` |
 | README.md | 264 | 藏地治愈艺术 (Tibetan Healing Arts) | `tibetan-buddhism/Tibetan_Healing_Arts.md` |
 | README.md | 265 | 大手印：显实圆融 (Mahamudra) | `mahamudra/Mahamudra_Great_Seal.md` |
-| README.md | 268 | 藏医学：索瓦日巴 (Tibetan Medicine / Sowa Rigpa) | `tibetan/Tibetan_Medicine_Sowa_Rigpa.md` |
-| README.md | 269 | 藏传佛教心理学 (Tibetan Buddhist Psychology) | `tibetan/Tibetan_Buddhist_Psychology.md` |
-| README.md | 271 | 那洛六法 (Six Yogas of Naropa) | `tibetan/Six_Yogas_Naropa.md` |
-| README.md | 272 | 藏地中阴与死亡艺术 (Tibetan Bardo & Death Art) | `tibetan/Tibetan_Bardo_Death_Art.md` |
-| README.md | 273 | 藏传仪式疗愈 (Tibetan Ritual Healing) | `tibetan/Tibetan_Ritual_Healing.md` |
 | README.md | 279 | 伊斯兰心理与净心术 (Islamic Psychology/Tazkiyah) | `islamic/Wisdom_Islamic_Psychology_Tazkiyah.md` |
 | README.md | 280 | 基督宗教内在疗愈 (Christian Inner Healing) | `christianity/Wisdom_Christianity_Inner_Healing.md` |
 | README.md | 281 | 萨满疗愈与灵魂之旅 (Shamanic Journey) | `shamanic/Wisdom_Shamanic_Healing_Journey.md` |
@@ -325,7 +315,7 @@
 | README.md | 1574 | 坛城临床应用 | `meditation/Mandala_Meditation_Clinical.md` |
 | README.md | 1575 | 法家管理 | `philosophy/Legalist_Management_Psychology.md` |
 | README.md | 1575 | 职场危机 | `crisis/Workplace_Psychological_Crisis_Intervention.md` |
-| README.md | 1576 | 三教合一 | `wisdom/Syncretism_Three_Teachings.md` |
+| README.md | 1576 | 三教合一 | `buddhism/Buddhism_Syncretism_Three_Teachings.md` |
 | README.md | 1576 | 克里希那穆提觉察 | `wisdom/Krishnamurti_Teachings.md` |
 | README.md | 1576 | 南怀瑾儒释道整合 | `wisdom/Nan_Huaijin_Teachings.md` |
 | README.md | 1576 | 白骨观与死亡冥想 | `meditation/Death_Meditation_Practices.md` |
