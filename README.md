@@ -7,10 +7,10 @@
 ## 🧭 核心索引 (Primary Index)
 *按专业领域与学科领域分类 (Classified by Professional Domain)*
 
-> 🔄 **最近更新**: 新增但丁《神曲》、米开朗基罗雕塑绘画、贝多芬交响曲、莎士比亚戏剧、达·芬奇全才、巴赫钢琴作品、莫扎特歌剧、肖邦钢琴作品、柴可夫斯基芭蕾舞剧、瓦格纳音乐戏剧、舒伯特艺术歌曲、勃拉姆斯交响曲等世界级文学家、画家、音乐家专题，包含核心理念文档与主要作品深度分析；完善世界顶级艺术家分支体系；新增作曲家音乐疗愈专项；**重磅新增当代顶级钢琴家专题**：Martha Argerich、Yuja Wang、Daniil Trifonov、Evgeny Kissin、Igor Levit、Beatrice Rana等与郎朗同级别钢琴演奏家完整档案及音乐疗愈应用指南；**完善音乐家双向内容体系**：确保music目录（学术介绍）与music-therapy目录（疗愈应用）的完整对应；**最新扩展**：新增李斯特、拉赫玛尼诺夫等重要作曲家以及赵成珍、本杰明·格罗斯沃德等杰出钢琴家完整档案；**全新重构**：arts目录和literature目录结构重组，建立艺术家和文学家分类体系，新增文艺复兴艺术家和现代艺术家艺术疗愈指南，完善世界文学巨匠疗愈应用体系；**英文文学疗愈扩展**：新增Dante Alighieri和William Shakespeare英文版文学疗愈指南，丰富国际化疗愈资源；**目录结构优化**：将literature-therapy目录合并至literature目录下，建立统一的literature/therapy子目录结构，完善文学内容的双向整合体系；**专注力体系全面升级**：新增专注力冥想疗愈、工作场所专注力疗愈、儿童专注力疗愈、ADHD专注力疗愈四大专项疗愈指南，构建完整的专注力治疗生态系统。
->
-> 📊 **统计信息**: 共计 **79+** 个专题领域，**620+** 份专业文档，**13,200+** 页核心内容
->
+> 🔄 **最近更新**: 新增但丁《神曲》、米开朗基罗雕塑绘画、贝多芬交响曲、莎士比亚戏剧、达·芬奇全才、巴赫钢琴作品、莫扎特歌剧、肖邦钢琴作品、柴可夫斯基芭蕾舞剧、瓦格纳音乐戏剧、舒伯特艺术歌曲、勃拉姆斯交响曲等世界级文学家、画家、音乐家专题，包含核心理念文档与主要作品深度分析；完善世界顶级艺术家分支体系；新增作曲家音乐疗愈专项；**重磅新增当代顶级钢琴家专题**：Martha Argerich、Yuja Wang、Daniil Trifonov、Evgeny Kissin、Igor Levit、Beatrice Rana等与郎朗同级别钢琴演奏家完整档案及音乐疗愈应用指南；**完善音乐家双向内容体系**：确保music目录（学术介绍）与music-therapy目录（疗愈应用）的完整对应；**最新扩展**：新增李斯特、拉赫玛尼诺夫等重要作曲家以及赵成珍、本杰明·格罗斯沃德等杰出钢琴家完整档案；**全新重构**：arts目录和literature目录结构重组，建立艺术家和文学家分类体系，新增文艺复兴艺术家和现代艺术家艺术疗愈指南，完善世界文学巨匠疗愈应用体系；**英文文学疗愈扩展**：新增Dante Alighieri和William Shakespeare英文版文学疗愈指南，丰富国际化疗愈资源；**目录结构优化**：将literature-therapy目录合并至literature目录下，建立统一的literature/therapy子目录结构，完善文学内容的双向整合体系；**专注力体系全面升级**：新增专注力冥想疗愈、工作场所专注力疗愈、儿童专注力疗愈、ADHD专注力疗愈四大专项疗愈指南，构建完整的专注力治疗生态系统；**重磅新增科学减肥体系**：建立完整的减肥专业知识体系，涵盖营养科学、运动生理学、行为心理学与临床医学，提供基于循证医学的个性化体重管理方案；**全新构建专业性学体系**：建立完整的性学研究与性健康促进体系，涵盖性生物学、性心理学、性社会学、性医学等8个核心维度，提供循证医学基础上的专业性健康资源；**最新重磅扩展**：**全新构建飞蚊症专业体系**：建立完整的飞蚊症研究、诊疗、预防与保健体系，涵盖基础科学、临床实践、预防策略、营养支持、中医养生及前沿研究等多个维度，提供基于循证医学的专业眼健康资源；**重磅新增性别歧视专业体系**：建立完整的中国性别歧视与重男轻女问题研究体系，涵盖理论基础、文化根源、当代影响、心理创伤、干预策略、国际比较等6个核心维度，提供基于社会科学和心理学的专业分析框架；**最新重大新增**：**全新构建OH卡疗法专业体系**：建立完整的OH卡心理投射技术体系，涵盖理论基础、临床应用、技巧方法、研究证据等核心维度，提供基于循证实践的专业心理干预资源；**重磅新增绘画疗法专业体系**：建立完整的绘画疗法理论与实践体系，涵盖媒材技术、临床整合、评估诊断、专业发展等关键领域，提供基于艺术科学的心理治疗方案；**全新构建SPA水疗养生专业体系**：建立完整的现代水疗养生知识体系，涵盖经典水疗技术、按摩疗法、芳香疗法等核心技术，以及生理心理效应机制、临床应用和安全规范；**重磅新增中医推拿疗法专业体系**：系统阐述中医推拿的理论基础、技术体系、临床应用和现代研究，构建完整的传统中医外治疗法知识框架；**最新重磅升级**：**OH卡与绘画疗法专业体系全面查漏补缺**：新增核心术语概念体系、理论架构、培训认证体系、临床案例研究报告等关键文档，建立完整的表达性艺术治疗知识体系，涵盖从基础理论到高级临床应用的全链条专业资源；**最新重大突破**：**全新构建恋物癖专业内容体系**：建立完整的恋物癖研究、临床评估、神经科学、心理治疗、伦理法律等核心专业体系，涵盖恋足、恋高跟鞋、恋丝袜、恋萝莉等具体类型，提供基于循证医学和心理学的专业内容资源；**全新构建权威情结与年龄相关吸引专业体系**：建立完整的恋父恋母情结、恋师恋教练情结、年龄差异吸引、权威恐惧等核心专业内容体系，涵盖发展心理学、神经科学、临床评估与循证治疗，提供基于专业理论和实践的专业资源；**最新重磅新增**：**全新构建中国社会性压抑专业研究体系**：建立完整的中国社会性压抑现象研究体系，涵盖传统文化影响、现代社会机制、心理学创伤、社会学结构、临床干预、性教育改革、国际比较等8个核心维度，提供基于本土化理论框架和循证实践的专业内容资源；**最新重大扩展**：**全新构建宗教心理学、政治心理学、政党忠诚心理学三大专业体系**：建立完整的宗教心理机制、政治认知行为、政党忠诚动力等核心专业内容体系，涵盖理论基础、测量工具、临床应用、跨文化比较等多个维度，提供基于心理学理论和循证研究的专业资源。
+
+> 📊 **统计信息**: 共计 **98** 个专题领域，**930** 份专业文档，**214,000+** 行核心内容
+
 > 🎯 **核心特色**: 跨文化整合、循证实践、系统化结构、实用导向
 
 ### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions)
@@ -336,12 +336,39 @@
 - [人际关系治疗体系 (Relationships Treatment System)](relationships/Relationships_Overview.md) - 依恋理论、沟通技能、伴侣治疗、家庭治疗
 - [创伤治疗专项 (Trauma Treatment Specialized)](trauma/Trauma_Treatment_Overview.md) - 创伤类型分类、分阶段治疗、神经生物学基础
 - [儿童青少年发展 (Child & Adolescent Development)](child-adolescent/Child_Adolescent_Development.md) - 发展阶段、常见问题、干预方法
+
+**儿童发展心理学专业体系 (Child Development Psychology Professional System):**
+- [儿童发展理论框架 (Child Development Theory Framework)](child-development-psychology/theory/Child_Development_Theory_Framework.md) - 生物心理社会发展模式、核心发展理论、生态系统理论、发展动力机制
+- [儿童认知发展与学习障碍 (Child Cognitive Development & Learning Disorders)](child-development-psychology/cognitive-development/Child_Cognitive_Development_Learning_Disorders.md) - 认知发展轨迹、注意力系统、记忆发展、执行功能、学习障碍识别与干预
+- [儿童情绪发展与行为问题干预 (Child Emotional Development & Behavioral Intervention)](child-development-psychology/social-emotional/Child_Emotional_Development_Behavioral_Intervention.md) - 情绪发展阶段性特征、焦虑抑郁障碍、对立违抗障碍、循证干预技术
+- [儿童社会性发展与同伴关系 (Child Social Development & Peer Relationships)](child-development-psychology/social-emotional/Child_Social_Development_Peer_Relationships.md) - 社会认知发展、同伴关系发展轨迹、社会技能培养、同伴关系问题干预
+
+**青少年心理学专业体系 (Adolescent Psychology Professional System):**
+- [青少年发展理论与大脑发育 (Adolescent Development Theory & Brain Development)](adolescent-psychology/development-theory/Adolescent_Development_Theory_Brain.md) - 青春期大脑重塑、神经内分泌变化、身心发展双重任务、社会文化影响
+- [青少年身份认同与自我概念发展 (Adolescent Identity & Self-Concept Development)](adolescent-psychology/identity-formation/Adolescent_Identity_Self_Concept.md) - 身份状态理论、自我概念多维度发展、身份危机与整合、文化背景影响
+- [青少年情绪调节与心理健康 (Adolescent Emotional Regulation & Mental Health)](adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md) - 青少年情绪特征、抑郁焦虑障碍、情绪调节干预技术、积极心理健康促进
+- [青少年危机干预与自杀预防 (Adolescent Crisis Intervention & Suicide Prevention)](adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md) - 危机风险识别、干预核心原则、自杀预防体系、家庭社区支持
+
+**宗教心理学专业体系 (Religious Psychology Professional System):**
+- [宗教心理学概览 (Religious Psychology Overview)](religious-psychology/Religious_Psychology_Overview.md) - 核心术语、学科发展、理论基础、研究方法、临床应用、未来趋势
+- [宗教心理学核心理论与模型 (Religious Psychology Theories & Models)](religious-psychology/theory/Religious_Psychology_Theories_Models.md) - 发展理论、认知理论、社会心理理论、神经科学理论、应对理论、体验理论
+- [宗教心理学临床应用与治疗 (Religious Psychology Clinical Applications & Treatment)](religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md) - 宗教整合治疗、创伤治疗、成瘾康复、哀伤辅导、焦虑管理、身份整合、危机干预
+- [宗教心理学测量工具与评估 (Religious Psychology Measurement & Assessment)](religious-psychology/measurement/Religious_Psychology_Measurement_Assessment.md) - 信仰测量、体验评估、应对方式、灵性福祉、发展水平、群体认同、质量控制、跨文化适应
+- [宗教心理学跨文化比较研究 (Religious Psychology Cross-Cultural Research)](religious-psychology/cross-cultural/Religious_Psychology_Cross_Cultural_Research.md) - 理论框架、文化特征、认知差异、体验特异性、应对模式、发展研究、群体心理学、研究方法论
+
+**政治心理学专业体系 (Political Psychology Professional System):**
+- [政治心理学概览 (Political Psychology Overview)](political-psychology/Political_Psychology_Overview.md) - 政治认知、态度与意识形态、政治行为与决策、群体政治心理学、政治领导力、政治传播与舆论
+
+**政党忠诚心理学专业体系 (Party Loyalty Psychology Professional System):**
+- [政党忠诚心理学概览 (Party Loyalty Psychology Overview)](party-loyalty-psychology/Party_Loyalty_Psychology_Overview.md) - 忠诚心理机制、群体认同、忠诚形成与发展、忠诚维持与强化、跨文化比较、测量评估
+
 - [心理治疗技术详表 (Therapy Techniques)](psychology/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
 - [核心理论与经典实验 (Theories & Experiments)](psychology/Psychology_Theories_Experiments.md)
 - [认知科学与神经可塑性 (Cognition & Neuroscience)](psychology/Psychology_Cognition.md)
 - [生命周期与性格发展 (Human Development)](psychology/Psychology_Development.md)
 - [情感管理与幸福干预 (Emotion & Resilience)](psychology/Psychology_Emotion.md)
 - [社会心理与关系动力 (Social & Relationships)](psychology/Psychology_Social.md)
+- [性别歧视与重男轻女研究体系 (Gender Discrimination & Son Preference Research System)](society-community/gender-discrimination/Gender_Discrimination_Overview.md) - 理论基础、文化根源、当代影响、心理创伤、干预策略、国际比较、测量工具、术语标准、效果评估、案例分析、实践指南、培训材料，共12份文档，约4,175行专业内容
 - [心理实践应用案例 (Clinical Applications)](psychology/Psychology_Applications.md)
 - [心理病理学图谱 (Psychopathology Atlas)](psychology/Psychology_Psychopathology_Atlas.md)
 - [恐惧症概览 (Phobia Overview)](phobia/Phobia_Overview.md) - 核心术语、DSM-5分类、神经生物学、诊断标准、流行病学
@@ -358,6 +385,12 @@
 - [植物神经紊乱与自主神经失调 (Autonomic Dysregulation)](somatic-anxiety/Somatic_Anxiety_Autonomic_Dysfunction.md) - 自主神经系统、交感/副交感、功能性综合征
 - [疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety)](somatic-anxiety/Somatic_Anxiety_Illness_Anxiety.md) - 疑病/健康焦虑、DSM-5标准、认知模型
 - [焦虑躯体化与相关障碍治疗 (Somatic Anxiety Treatment)](somatic-anxiety/Somatic_Anxiety_Treatment.md) - CBT技术、自主神经调节、健康焦虑干预
+- [孤独研究框架与学术综述 (Loneliness Research Framework & Academic Review)](loneliness/Loneliness_Research_Framework.md) - 理论模型、测量工具、神经机制、循证干预、前沿研究 🎓
+- [孤独临床诊疗手册 (Loneliness Clinical Treatment Manual)](loneliness/Loneliness_Clinical_Manual.md) - 诊断标准、评估工具、个体化治疗、特殊人群、危机干预 🏥
+- [孤独社会心理学与社区干预 (Loneliness Social Psychology & Community Interventions)](loneliness/Loneliness_Social_Psychology.md) - 社会认同理论、社会资本、数字时代孤独、社区干预模式 🌐
+- [孤独测量工具详解 (Loneliness Measurement Tools Detailed Guide)](loneliness/Loneliness_Measurement_Tools.md) - 标准化量表、评估流程、信效度指标、质量控制 🔍
+- [孤独干预效果评估与预防策略 (Loneliness Intervention Effectiveness & Prevention Strategies)](loneliness/Loneliness_Prevention_Evaluation.md) - 效果评估体系、预防策略、成本效益分析、政策建议 📊
+- [孤独研究标准术语表 (Standard Terminology Dictionary for Loneliness Research)](loneliness/Loneliness_Terminology_Standards.md) - 统一术语定义、测量工具标准化、跨文化术语对照 📘
 - [孤独与社交孤立概览 (Loneliness & Social Isolation Overview)](loneliness/Loneliness_Overview.md) - 孤独类型、神经生物学、健康风险、评估工具
 - [婚内孤独与情感疏离 (Marital Loneliness & Emotional Disconnection)](loneliness/Loneliness_Marital.md) - 室友式婚姻、情感忽视、性孤独、评估要点
 - [孤独疗愈与婚内孤独干预 (Loneliness Treatment & Relational Interventions)](loneliness/Loneliness_Treatment.md) - CBT、人际治疗、EFT、Gottman方法、自助与社区干预
@@ -415,6 +448,194 @@
 - [深度心理自助方案 (Self-Help Protocols)](psychology/Psychology_Self_Help_Protocols.md)
 - [通用心理学资源 (General Resources)](psychology/Psychology_General_Resources.md)
 
+### 7.9 👁️ 窥淫癖与色情成瘾专业体系 (Voyeurism & Pornography Addiction Professional System)
+**描述 (Description):** 基于循证医学和神经科学的专业内容体系，涵盖窥淫癖的心理机制、色情成瘾的临床干预、数字时代新技术挑战，以及相关的法律伦理框架，为临床实践、学术研究和社会治理提供全面的专业指导。
+*Categories: Voyeurism (窥淫癖), Pornography Addiction (色情成瘾), Sexual Paraphilias (性偏离), Digital Mental Health (数字心理健康), Legal Ethics (法律伦理), Neuroscience (神经科学).*
+
+- [窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)](voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Overview.md) - 核心概念体系、分类框架、流行病学数据、诊断标准、发展理论、神经机制、评估工具、治疗干预、伦理法律考量
+- [窥淫癖临床评估 (Voyeurism Clinical Assessment)](voyeurism-pornography-addiction/clinical/Voyeurism_Clinical_Assessment.md) - 标准化诊断流程、评估工具矩阵、鉴别诊断框架、风险评估管理、特殊人群考虑
+- [色情成瘾临床应用 (Pornography Addiction Clinical Applications)](voyeurism-pornography-addiction/clinical/Pornography_Addiction_Clinical_Applications.md) - 临床诊断标准、标准化评估工具、循证治疗干预方案、伴侣家庭治疗、康复管理体系、特殊人群考虑、质量保证机制
+- [窥淫癖治疗干预专项指南 (Voyeurism Treatment Interventions)](voyeurism-pornography-addiction/treatment/Voyeurism_Pornography_Treatment_Interventions.md) - 个体化治疗匹配、循证心理治疗、药物策略、新兴技术应用、多学科协作模式
+- [窥淫癖神经科学 (Voyeurism Neuroscience & Biology)](voyeurism-pornography-addiction/neuroscience/Voyeurism_Neuroscience_Biology.md) - 神经解剖学基础、神经化学机制、遗传学基础、神经发育可塑性、生理测量技术、个体差异分析、精准医学应用
+- [窥淫癖形成机制分析 (Voyeurism Formation Mechanisms)](voyeurism-pornography-addiction/mechanisms/Voyeurism_Pornography_Formation_Mechanisms.md) - 多层次形成机制、发展轨迹分析、神经生物学基础、心理社会因素、技术环境影响、预防干预策略
+- [色情成瘾研究方法 (Pornography Addiction Research Methods)](voyeurism-pornography-addiction/research/Pornography_Addiction_Research_Methods.md) - 研究设计类型、测量工具体系、数据分析策略、质性研究方法、伦理质量控制、报告发表标准、新兴技术应用
+- [窥淫癖具体类型分析 (Voyeurism Subtypes Analysis)](voyeurism-pornography-addiction/specific-types/voyeurism-subtypes/Voyeurism_Subtypes_Analysis.md) - 基于观察对象和手段的分类、心理动机与人格特征、发展轨迹与风险因素、临床亚型与治疗匹配、预防干预策略
+- [色情内容类型与成瘾风险 (Pornography Content Analysis)](voyeurism-pornography-addiction/specific-types/pornography-categories/Pornography_Content_Analysis.md) - 内容分类体系、成瘾风险评估、影响机制分析、内容管理技术、心理干预方法、预防教育指导
+- [法律伦理框架 (Legal & Ethical Framework)](voyeurism-pornography-addiction/specific-types/legal-framework/Legal_Ethical_Framework.md) - 国际法律条文对比、刑事责任构成、伦理原则应用、社会责任政策、文化敏感性考量、技术发展挑战
+
+### 7.12 🔞 性迷恋心理学专业体系 (Sexual Fetishism Psychology Professional System)
+**描述 (Description):** 构建完整的性迷恋心理学研究体系，涵盖恋空姐、恋芭蕾舞者、恋护士、恋老师等特定职业群体的性迷恋现象，整合恋物癖理论、性心理学和临床干预方法，为性健康服务、心理治疗和相关研究提供专业的理论框架和实践工具。
+*Categories: Sexual Fetishism, Paraphilic Disorders, Clinical Psychology, Sexuality Research, Treatment Interventions.*
+
+- [恋物癖概览 (Paraphilia Overview)](paraphilia/Paraphilia_Overview.md) - 核心概念体系、理论框架、诊断标准、治疗原则、前沿发展趋势
+- [恋物癖临床评估 (Paraphilia Clinical Assessment)](paraphilia/Paraphilia_Clinical_Assessment.md) - 标准化评估流程、专业评估工具、诊断分类标准、干预指导原则
+- [恋空姐癖 (Stewardess Fetishism)](paraphilia/specific-types/Stewardess_Fetishism.md) - 空乘人员性迷恋现象、制服符号学、权威心理学、临床评估与治疗
+- [恋芭蕾舞者癖 (Ballet Dancer Fetishism)](paraphilia/specific-types/Ballet_Dancer_Fetishism.md) - 舞蹈演员性迷恋现象、身体美学心理学、艺术感染力理论、治疗策略
+- [恋护士癖 (Nurse Fetishism)](paraphilia/specific-types/Nurse_Fetishism.md) - 医护人员性迷恋现象、医疗权威心理学、关怀特质分析、干预方法
+- [恋老师癖 (Teacher Fetishism)](paraphilia/specific-types/Teacher_Fetishism.md) - 教育工作者性迷恋现象、知识权威心理学、师生情结理论、治疗指导
+- [性迷恋专项临床评估 (Specific Types Clinical Assessment)](paraphilia/specific-types/Clinical_Assessment_Tools.md) - 各类型专项评估量表、诊断访谈指南、质量控制标准
+- [性迷恋神经科学机制 (Specific Types Neuroscience)](paraphilia/specific-types/Neuroscience_Mechanisms.md) - 类型特异性神经机制、跨类型比较分析、临床转化应用
+- [性迷恋治疗实践 (Specific Types Treatment)](paraphilia/specific-types/Treatment_Interventions.md) - 个性化治疗方案、核心技术详解、效果评估体系
+- [性迷恋质量评估报告 (Specific Types Quality Report)](paraphilia/specific-types/Quality_Assessment_Report.md) - 内容质量评估、专业标准符合度、改进建议汇总
+- [性迷恋项目总结 (Specific Types Project Summary)](paraphilia/specific-types/PROJECT_SUMMARY.md) - 建设成果汇总、经验总结、发展展望
+- [恋足癖 (Foot Fetishism)](paraphilia/specific-types/Foot_Fetishism.md) - 足部性迷恋现象、感官心理学、条件反射理论、临床处理
+- [恋高跟鞋癖 (High Heel Fetishism)](paraphilia/specific-types/High_Heel_Fetishism.md) - 高跟鞋性迷恋现象、时尚心理学、性感符号学、治疗策略
+- [恋丝袜癖 (Stocking Fetishism)](paraphilia/specific-types/Stocking_Fetishism.md) - 丝袜性迷恋现象、材质心理学、触觉唤起机制、干预方法
+- [恋萝莉情结 (Lolita Complex)](paraphilia/specific-types/Lolita_Complex.md) - 幼态化性吸引、发展心理学、年龄偏好理论、伦理考量
+- [恋物癖神经科学 (Paraphilia Neuroscience)](paraphilia/Paraphilia_Neuroscience_Biology.md) - 神经生物学机制、脑区激活模式、神经递质系统、遗传因素
+- [恋物癖心理学理论 (Paraphilia Psychological Theory)](paraphilia/Paraphilia_Psychological_Theory.md) - 心理动力学理论、认知行为理论、发展心理学、社会学习理论
+- [恋物癖形成机制 (Paraphilia Formation Mechanisms)](paraphilia/Paraphilia_Formation_Mechanisms.md) - 条件反射机制、早期经验影响、人格特质作用、文化因素分析
+- [恋物癖治疗实践 (Paraphilia Treatment Interventions)](paraphilia/Paraphilia_Treatment_Interventions.md) - 认知行为疗法、心理动力学治疗、药物治疗、团体治疗
+- [恋物癖研究方法 (Paraphilia Research Methods)](paraphilia/Paraphilia_Research_Methods.md) - 科学研究方法体系、实验设计、数据分析、质量控制标准
+- [恋物癖伦理法律 (Paraphilia Ethics and Legal)](paraphilia/Paraphilia_Ethics_Legal.md) - 专业伦理准则、法律合规框架、社会文化考量、实践指导原则
+- [恋物癖质量报告 (Paraphilia Quality Report)](paraphilia/Paraphilia_Quality_Report.md) - 内容质量评估、体系完整性检查、专业标准符合度、改进建议汇总
+
+### 7.13 🔞 恋物癖专业内容体系 (Paraphilic Disorders Professional Content System)
+**描述 (Description):** 建立完整的恋物癖研究、临床评估、神经科学、心理治疗、伦理法律等核心专业体系，涵盖恋足、恋高跟鞋、恋丝袜、恋萝莉等具体类型，提供基于循证医学和心理学的专业内容资源。
+*Categories: Fetishism, Paraphilic Disorders, Clinical Assessment, Neuroscience, Psychological Theory, Treatment Interventions.*
+
+- [恋物癖概览 (Paraphilia Overview)](paraphilia/Paraphilia_Overview.md)
+- [恋物癖临床评估 (Clinical Assessment)](paraphilia/Paraphilia_Clinical_Assessment.md)
+- [恋物癖神经科学 (Neuroscience & Biology)](paraphilia/Paraphilia_Neuroscience_Biology.md)
+- [恋物癖心理学理论 (Psychological Theory)](paraphilia/Paraphilia_Psychological_Theory.md)
+- [恋物癖治疗实践 (Treatment Interventions)](paraphilia/Paraphilia_Treatment_Interventions.md)
+- [恋物癖形成机制 (Formation Mechanisms)](paraphilia/Paraphilia_Formation_Mechanisms.md)
+- [恋物癖伦理法律 (Ethics & Legal)](paraphilia/Paraphilia_Ethics_Legal.md)
+- [恋物癖研究方法 (Research Methods)](paraphilia/Paraphilia_Research_Methods.md)
+- [具体恋物类型 (Specific Types)](paraphilia/specific-types/)
+  - [恋足癖 (Foot Fetishism)](paraphilia/specific-types/Foot_Fetishism.md)
+  - [恋高跟鞋 (High Heel Fetishism)](paraphilia/specific-types/High_Heel_Fetishism.md)
+  - [恋丝袜 (Stocking Fetishism)](paraphilia/specific-types/Stocking_Fetishism.md)
+  - [恋萝莉情结 (Lolita Complex)](paraphilia/specific-types/Lolita_Complex.md)
+
+### 7.12 👨‍👩‍👧‍👦 权威情结与年龄相关吸引专业体系 (Authority Complex & Age-Related Attraction Professional System)
+**描述 (Description):** 建立完整的权威情结研究体系，涵盖恋父恋母情结、恋师恋教练情结、年龄差异吸引、权威恐惧等核心专业内容，提供基于发展心理学、神经科学和循证治疗的专业资源。
+*Categories: Authority Complex, Parental Complex, Teacher-Student Dynamics, Age Preferences, Authority Phobia.*
+
+- [权威情结概览 (Authority Complex Overview)](authority-complex/Authority_Complex_Overview.md) - 核心概念、理论框架、分类体系、诊断标准、治疗干预
+- [恋父恋母情结 (Father-Mother Complex)](authority-complex/Father_Mother_Complex.md) - 俄狄浦斯情结的现代理解、发展过程、临床表现、治疗策略
+- [恋师恋教练情结 (Teacher-Coach Complex)](authority-complex/Teacher_Coach_Complex.md) - 教育体育环境中的权威吸引、伦理边界、风险管理、治疗干预
+- [年龄差异吸引 (Age Attraction Complex)](authority-complex/Age_Attraction_Complex.md) - 年龄偏好心理机制、社会文化因素、临床评估、治疗策略
+- [权威恐惧情结 (Authority Fear Complex)](authority-complex/Authority_Fear_Complex.md) - 权威相关的恐惧反应、创伤机制、神经生物学基础、治疗干预
+- [临床整合指南 (Clinical Assessment & Treatment)](authority-complex/Clinical_Assessment_Treatment.md) - 综合评估框架、诊断鉴别、整合治疗模型、危机管理
+- [形成机制分析 (Formation Mechanisms Analysis)](authority-complex/Formation_Mechanisms_Analysis.md) - 多层次形成机制、生物学基础、心理发展、社会文化影响
+
+### 7.13 🌟 性学研究与性健康 (Sexology & Sexual Health)
+**描述 (Description):** 基于循证医学和跨学科整合的专业性学体系，涵盖性生物学、性心理学、性社会学、性医学等多个维度，提供全面的性健康促进和临床干预方案。
+*Categories: Sexology (性学), Sexual Health (性健康), Sexual Development (性发展), Gender Studies (性别研究), Sexual Therapy (性治疗), Sexual Rights (性权利).*
+
+- [性学研究概览 (Sexuality Overview)](sexuality/Sexuality_Overview.md) - 核心概念、学科分支、发展历程、研究方法论、前沿议题
+- [性学临床应用 (Sexuality Clinical Applications)](sexuality/Sexuality_Clinical_Applications.md) - 性功能障碍诊断治疗、性少数群体关怀、创伤知情治疗、数字健康干预
+
+### 7.14 👶👧👦 儿童及青少年性教育专业体系 (Child & Adolescent Sexuality Education Professional System)
+**描述 (Description):** 构建完整的儿童青少年性教育专业内容体系，基于联合国教科文组织全面性教育(CSE)标准，融合发展心理学、教育学、公共卫生学等多学科理论，为5-18岁儿童青少年提供科学、系统、文化敏感的性教育专业框架。涵盖理论基础、课程设计、师资培训、质量评估、特殊群体支持和数字化创新等全方位内容。
+*Categories: Child Sexuality Education (儿童性教育), Adolescent Sexuality Education (青少年性教育), Comprehensive Sexuality Education (全面性教育), Developmental Psychology (发展心理学), Educational Technology (教育技术), Special Needs Education (特殊教育).*
+
+- [儿童青少年性教育概览 (Overview)](child-adolescent-sexuality/Child_Adolescent_Sexuality_Education_Overview.md) - 理论基础与核心框架、全生命周期教育目标体系、专业实施框架、循证实践基础、国际比较与最佳实践
+- [课程内容体系 (Curriculum System)](child-adolescent-sexuality/curriculum/)
+  - [儿童期性教育(5-12岁) (Childhood Education 5-12)](child-adolescent-sexuality/curriculum/Childhood_Sexuality_Education_5_12.md) - 身体认知与自主权教育、安全教育与风险防护、情感教育与社会技能、价值观与道德教育
+  - [青少年期性教育(13-18岁) (Adolescent Education 13-18)](child-adolescent-sexuality/curriculum/Adolescent_Sexuality_Education_13_18.md) - 生理健康与身体认知、性行为与决策教育、情感关系与沟通技能、性别平等与多元文化
+- [理论与设计指南 (Theory & Design Guide)](child-adolescent-sexuality/theory/)
+  - [课程设计与实施指南 (Curriculum Design Guide)](child-adolescent-sexuality/theory/Curriculum_Design_Implementation_Guide.md) - 系统化课程设计模型、课程目标体系设计、教学方法与策略、课程实施管理体系
+  - [家庭教育支持体系 (Family Education Support System)](child-adolescent-sexuality/theory/Family_Education_Support_System.md) - 家庭教育理论基础、分年龄段指导、家校协同机制、质量评估体系
+  - [政策法规与伦理框架 (Policy Law Ethics Framework)](child-adolescent-sexuality/theory/Policy_Law_Ethics_Framework.md) - 国际政策框架、国家政策体系、伦理指导原则、风险防控体系
+- [实践与支持体系 (Practice & Support System)](child-adolescent-sexuality/practice/)
+  - [师资培训与发展体系 (Faculty Training System)](child-adolescent-sexuality/practice/Faculty_Training_Development_System.md) - 师资胜任力框架、培训课程体系、培训实施体系、评估与认证体系
+- [评估与质量保障 (Assessment & Quality Assurance)](child-adolescent-sexuality/assessment/)
+  - [质量评估体系 (Quality Assessment System)](child-adolescent-sexuality/assessment/Quality_Assessment_System.md) - 质量保障框架设计、评估指标体系、评估方法与工具、质量监控与改进机制
+- [特殊群体支持 (Special Populations Support)](child-adolescent-sexuality/special-populations/)
+  - [特殊群体支持体系 (Special Populations Support)](child-adolescent-sexuality/special-populations/Special_Populations_Support_System.md) - LGBTQ+群体支持、残障人士性教育、社会经济弱势群体支持、创伤经历群体支持
+- [数字化创新实践 (Digital Innovation Practices)](child-adolescent-sexuality/digital-resources/)
+  - [数字化资源与创新实践 (Digital Innovation Practices)](child-adolescent-sexuality/digital-resources/Digital_Innovation_Practices.md) - 核心技术应用体系、移动学习与微学习、游戏化学习设计、平台生态系统建设、安全与伦理保障
+
+### 7.16 🇨🇳 中国社会性焦虑研究 (Sexual Anxiety in Chinese Society)
+**描述 (Description):** 构建完整的中国社会性焦虑专业内容体系，基于生物-心理-社会-技术四维分析模型，深入研究性焦虑的形成机制、临床表现、干预策略和社会影响，提供本土化的理论框架和循证实践指导。
+*Categories: Sexual Anxiety (性焦虑), Mental Health (心理健康), Chinese Culture (中华文化), Clinical Psychology (临床心理学), Social Psychology (社会心理学), Digital Health (数字健康).*
+
+- [中国社会性焦虑概览 (Sexual Anxiety China Overview)](sexual-anxiety-china/Sexual_Anxiety_China_Overview.md) - 核心概念、理论框架、研究方法论、当前状况评估、专业发展愿景
+- [形成机制分析 (Formation Mechanisms Analysis)](sexual-anxiety-china/Formation_Mechanisms_Analysis.md) - 基于BPST模型系统分析性焦虑的生物学、心理学、社会学和技术学形成机制
+- [专业术语词典 (Terminology Dictionary)](sexual-anxiety-china/Terminology_Dictionary.md) - 标准化核心概念定义和专业术语体系
+- [传统文化与性观念 (Traditional Culture Sexual Concepts)](sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md) - 儒家、道家、佛教对性观念的历史影响及现代意义
+- [现代社会性焦虑机制 (Modern Society Mechanisms)](sexual-anxiety-china/Modern_Society_Mechanisms.md) - 家庭、教育、媒体、职场等现代社会中的性焦虑表现与运行机制
+- [心理学影响与创伤 (Psychological Impact Trauma)](sexual-anxiety-china/Psychological_Impact_Trauma.md) - 个体心理发展影响、创伤形成机制、防御机制、临床评估与治疗
+- [社会学分析 (Sociological Analysis)](sexual-anxiety-china/Sociological_Analysis.md) - 性别不平等的结构性分析、代际传递机制、社会变迁中的转型
+- [临床评估与干预 (Clinical Assessment Intervention)](sexual-anxiety-china/Clinical_Assessment_Intervention.md) - 标准化评估工具、诊断框架、个体与关系治疗技术、服务模式创新
+- [实用工具箱 (Practical Toolkit)](sexual-anxiety-china/Practical_Toolkit.md) - 标准化评估工具和实践资源
+- [性教育与社会变革 (Sex Education Social Change)](sexual-anxiety-china/Sex_Education_Social_Change.md) - 系统性教育体系建设、政策倡导、公众意识提升、监测评估机制
+- [国际比较与借鉴 (International Comparison Reference)](sexual-anxiety-china/International_Comparison_Reference.md) - 东西方文化比较、国际最佳实践、本土化创新路径、未来发展趋势
+- [质量认证报告 (Quality Certification Report)](sexual-anxiety-china/Quality_Certification_Report.md) - 专业内容体系质量评估和认证
+- [用户体验指南 (User Experience Guide)](sexual-anxiety-china/User_Experience_Guide.md) - 学习路径推荐、用户群体使用建议、实用工具使用指南
+- [前沿技术整合 (Frontier Technology Integration)](sexual-anxiety-china/Frontier_Technology_Integration.md) - AI、VR、生物传感等前沿技术在中国性焦虑研究中的应用与整合发展
+
+### 7.15 🇨🇳 中国社会性压抑研究 (Sexual Repression in Chinese Society)
+**描述 (Description):** 系统研究中国社会性压抑现象的专业内容体系，深入分析传统文化影响、现代社会机制、心理学创伤、社会学结构等多维度问题，提供本土化的理论框架和实践指导。
+*Categories: Sexual Repression (性压抑), Chinese Culture (中华文化), Social Psychology (社会心理学), Gender Inequality (性别不平等), Sexual Education (性教育), Social Change (社会变革).*
+
+- [中国社会性压抑概览 (Sexual Repression China Overview)](sexual-repression-china/Sexual_Repression_China_Overview.md) - 核心概念、历史演变、理论框架、研究方法论、当前状况评估
+- [形成机制分析 (Formation Mechanisms Analysis)](sexual-repression-china/Formation_Mechanisms_Analysis.md) - 采用BPST模型系统分析性压抑的生物学、心理学、社会学和技术学形成机制
+- [专业术语词典 (Terminology Dictionary)](sexual-repression-china/Terminology_Dictionary.md) - 标准化核心概念定义和专业术语体系
+- [传统文化与性观念 (Traditional Culture Sexual Concepts)](sexual-repression-china/Traditional_Culture_Sexual_Concepts.md) - 儒家、道家、佛教对性观念的历史影响及现代意义
+- [现代社会性压抑机制 (Modern Society Mechanisms)](sexual-repression-china/Modern_Society_Mechanisms.md) - 家庭、教育、媒体、职场等现代社会中的性压抑表现与运行机制
+- [心理学影响与创伤 (Psychological Impact Trauma)](sexual-repression-china/Psychological_Impact_Trauma.md) - 个体心理发展影响、创伤形成机制、防御机制、临床评估与治疗
+- [社会学分析 (Sociological Analysis)](sexual-repression-china/Sociological_Analysis.md) - 性别不平等的结构性分析、代际传递机制、社会变迁中的转型
+- [临床评估与干预 (Clinical Assessment Intervention)](sexual-repression-china/Clinical_Assessment_Intervention.md) - 标准化评估工具、诊断框架、个体与关系治疗技术、服务模式创新
+- [实用工具箱 (Practical Toolkit)](sexual-repression-china/Practical_Toolkit.md) - 标准化评估工具和实践资源
+- [性教育与社会变革 (Sex Education Social Change)](sexual-repression-china/Sex_Education_Social_Change.md) - 系统性教育体系建设、政策倡导、公众意识提升、监测评估机制
+- [国际比较与借鉴 (International Comparison Reference)](sexual-repression-china/International_Comparison_Reference.md) - 东西方文化比较、国际最佳实践、本土化创新路径、未来发展趋势
+- [质量认证报告 (Quality Certification Report)](sexual-repression-china/Quality_Certification_Report.md) - 专业内容体系质量评估和认证
+- [用户体验指南 (User Experience Guide)](sexual-repression-china/User_Experience_Guide.md) - 学习路径推荐、用户群体使用建议、实用工具使用指南
+- [前沿技术整合 (Frontier Technology Integration)](sexual-repression-china/Frontier_Technology_Integration.md) - AI、VR、生物传感等前沿技术在中国性压抑研究中的应用与整合发展
+- [跨文化比较研究 (Cross Cultural Comparative Study)](sexual-repression-china/Cross_Cultural_Comparative_Study.md) - 基于霍夫斯泰德文化维度理论的国际比较分析和本土化适应策略
+- [案例研究与实践汇编 (Case Studies Practice Compilation)](sexual-repression-china/Case_Studies_Practice_Compilation.md) - 中国性压抑干预的典型案例分析和成功经验总结
+- [未来趋势与战略规划 (Future Trends Strategic Planning)](sexual-repression-china/Future_Trends_Strategic_Planning.md) - 2035年远景目标、三阶段发展战略和前瞻性规划
+- [政策法规与治理机制 (Policy Analysis Governance)](sexual-repression-china/Policy_Analysis_Governance.md) - 法律制度框架、政策影响分析、治理机制创新与政策发展路径
+- [青年群体干预策略 (Youth Population Intervention)](sexual-repression-china/Youth_Population_Intervention.md) - 大学生和职场青年性压抑特征分析与针对性干预方案
+- [实证研究方法指南 (Empirical Research Methods)](sexual-repression-china/Empirical_Research_Methods.md) - 研究设计、测量工具、数据分析和质量控制的完整方法论指导
+- [性学研究方法 (Sexuality Research Methods)](sexuality/Sexuality_Research_Methods.md) - 研究设计类型、测量工具、数据分析、伦理规范、新兴技术应用
+- [性学跨文化视角 (Sexuality Cultural Variations)](sexuality/Sexuality_Cultural_Variations.md) - 全球性文化模式、社会学理论、数字时代影响、政策治理
+- [性发展与生命周期 (Sexuality Development_Lifespan)](sexuality/Sexuality_Development_Lifespan.md) - 心理发展阶段、青春期里程碑、成年期模式、老年期适应
+- [性学神经科学基础 (Sexuality_Neuroscience_Biology)](sexuality/Sexuality_Neuroscience_Biology.md) - 性反应机制、性取向生物学、性别认同神经基础、性功能障碍病理
+- [性学伦理法律 (Sexuality_Ethics_Legal)](sexuality/Sexuality_Ethics_Legal.md) - 研究伦理原则、政策法规体系、性少数权益保护、数字时代新挑战
+- [综合性性教育 (Sexuality_Education_Comprehensive)](sexuality/Sexuality_Education_Comprehensive.md) - 全生命周期教育体系、数字教育创新、特殊群体支持、效果评估改进
+- [性治疗创新方法 (Sexuality_Therapy_Innovation)](sexuality/Sexuality_Therapy_Innovation.md) - 数字治疗技术、神经调控应用、精准个性化干预、疗效数字化评估
+- [性学资源参考 (Sexuality_Resources_References)](sexuality/Sexuality_Resources_References.md) - 学术期刊、专业组织、教育培训、实践指南、多媒体资源
+- [性学神经科学与生物学基础 (Sexuality Neuroscience & Biology)](sexuality/Sexuality_Neuroscience_Biology.md) - 性反应神经机制、性取向生物学、性别认同神经基础、性功能障碍病理机制
+- [性学伦理法律与政策 (Sexuality Ethics, Law & Policy)](sexuality/Sexuality_Ethics_Legal.md) - 研究伦理原则、国际人权法律、性少数权益保护、数字时代政策挑战
+- [性学资源与参考文献 (Sexuality Resources & References)](sexuality/Sexuality_Resources_References.md) - 学术期刊、专业数据库、教育培训、临床指南、新兴技术资源
+
+### 7.6 🔥 乱伦研究与创伤干预 (Incest Research & Trauma Intervention)
+**描述 (Description):** 专业的乱伦现象研究体系，涵盖创伤心理学、家庭系统理论、临床治疗干预和社会学分析，为创伤幸存者提供科学的康复支持和预防策略。
+*Categories: Incest Trauma (乱伦创伤), Family Systems (家庭系统), Clinical Intervention (临床干预), Prevention Strategies (预防策略), Legal Ethics (法律伦理).*
+
+- [乱伦研究框架 (Incest Research Framework)](incest/Incest_Research_Framework.md) - 理论基础、类型学分析、心理学机制、社会学视角、文化差异研究
+- [乱伦临床治疗 (Incest Clinical Treatment)](incest/Incest_Clinical_Treatment.md) - 临床评估、诊断标准、治疗干预、风险管理、药物辅助治疗
+- [乱伦研究概览 (Incest Overview)](incest/README.md) - 专业内容体系导航、研究重点领域、实践应用指导
+
+### 7.7 💞 换妻研究与关系实践 (Swinging Research & Relationship Practice)
+**描述 (Description):** 系统的换妻行为研究体系，涵盖社会学分析、心理学机制、实践指导和风险管理，为健康的关系探索提供科学依据和安全指导。
+*Categories: Swinging Practice (换妻实践), Relationship Dynamics (关系动力学), Risk Management (风险管理), Social Culture (社会文化), Ethical Practice (伦理实践).*
+
+- [换妻研究框架 (Swinging Research Framework)](swinging/Swinging_Research_Framework.md) - 理论基础、动机分析、社会学视角、文化比较、关系影响评估
+- [换妻实践指南 (Swinging Practice Guide)](swinging/Swinging_Practice_Guide.md) - 实践准备、安全管理、风险控制、关系维护、退出机制
+- [换妻研究概览 (Swinging Overview)](swinging/README.md) - 专业内容体系导航、研究重点领域、健康实践指导
+
+### 7.8 🏥 性传播疾病专业体系 (Sexually Transmitted Diseases Professional System)
+**描述 (Description):** 基于WHO、CDC等权威机构指南的性传播疾病专业内容体系，涵盖疾病概览、临床表现、诊断评估、治疗管理、预防策略、特殊人群管理和公共卫生等完整知识框架，提供循证医学指导和实践应用方案。
+*Categories: STD (性传播疾病), Infectious Diseases (传染病), Clinical Medicine (临床医学), Public Health (公共卫生), Preventive Medicine (预防医学), Epidemiology (流行病学).*
+
+- [性病概览 (STD Overview)](std/STD_Overview.md) - 疾病定义分类、流行病学特征、全球疾病负担、病原体特征、危险因素分析
+- [性病临床表现 (STD Clinical Features)](std/STD_Clinical_Features.md) - 症状体征详述、并发症后遗症、特殊临床综合征、诊断鉴别要点
+- [性病诊断评估 (STD Diagnosis & Assessment)](std/STD_Diagnosis_Assessment.md) - 病史采集要点、体格检查标准、实验室检测技术、影像学检查、鉴别诊断策略
+- [性病治疗管理 (STD Treatment & Management)](std/STD_Treatment_Management.md) - 药物治疗方案、手术治疗适应症、随访管理策略、特殊人群治疗、依从性管理
+- [性病预防策略 (STD Prevention Strategies)](std/STD_Prevention_Strategies.md) - 一级二级预防、健康教育推广、行为干预措施、疫苗预防应用、公共卫生政策
+- [特殊人群管理 (STD Special Populations)](std/STD_Special_Populations.md) - 孕妇、青少年、HIV感染者、男男性行为者、老年人群的个体化管理策略
+- [性病公共卫生 (STD Public Health)](std/STD_Public_Health.md) - 流行病学监测、疾病负担评估、防控策略体系、政策法规框架、国际合作机制
+- [性病前沿进展 (STD Frontier Advances)](std/STD_Frontier_Advances.md) - 2024年最新指南更新、前沿诊断技术、精准医学发展、数字健康应用
+- [核心术语词典 (STD Terminology Dictionary)](std/STD_Terminology_Dictionary.md) - 标准化专业术语表、使用规范、更新机制、跨文档引用标准
+- [临床工具箱 (STD Clinical Toolkit)](std/STD_Clinical_Toolkit.md) - 诊疗流程图、用药计算器、风险评估工具、随访管理模板、应急处理预案
+- [性病质量报告 (STD Quality Report)](std/STD_Quality_Report.md) - 内容体系质量评估、用户体验分析、改进建议、综合评分和未来发展
+- [质量认证报告 (STD Quality Certification Report)](std/STD_Quality_Certification_Report.md) - 专业质量认证背书、安全性保障、国际标准符合性认证
+
 ### 8. 🏃 躯体智慧与生物医学 (Somatic Wisdom & Bio-Medicine)
 **描述 (Description):** 基于多迷走神经理论与筋膜解剖，探讨躯体疗法、拉伸科学与生物黑客技术。
 *Categories: Polyvagal Theory (多迷走神经理论), Fascia (筋膜 - *Fascia*), Stretching (拉伸 - *Prasāraṇa*/प्रसारण), Flexibility vs. Mobility (柔韧性与移动性), Circadian Rhythm (昼夜节律), Autophagy (细胞自噬).*
@@ -448,8 +669,34 @@
 - [断食安全性与风险管理 (Fasting Safety)](bio/Bio_Fasting_Safety.md)
 - [高阶呼吸：调息与科学 (Breathwork & Pranayama)](bio/Bio_Breathwork_Pranayama.md)
 - [呼吸技术与生物黑客 (Breathwork & Biohacking)](bio/Bio_Breathwork_Biohack.md)
+- [飞蚊症综合概述 (Floaters Comprehensive Overview)](bio/Bio_Floaters_Overview.md) - 飞蚊症的定义、流行病学、解剖生理学基础、病理生理机制及临床表现的全面专业指南
+- [飞蚊症临床诊疗 (Floaters Clinical Management)](bio/Bio_Floaters_Clinical_Management.md) - 详细的诊疗决策流程、检查方法、诊断标准、治疗策略及随访管理方案
+- [飞蚊症预防保健 (Floaters Prevention & Wellness)](bio/Bio_Floaters_Prevention_Wellness.md) - 基于循证医学的预防策略、营养支持、生活方式优化及中医养生理念
+- [飞蚊症研究前沿 (Floaters Research Frontiers)](bio/Bio_Floaters_Research_Frontiers.md) - 最新基础研究进展、临床技术创新、精准医学发展及未来趋势预测
+- [飞蚊症实用工具箱 (Floaters Practical Toolkit)](bio/Bio_Floaters_Toolkit.md) - 患者自助评估工具、症状监测日记、日常管理检查清单及应急处理指南
+- [飞蚊症英文摘要 (Floaters English Summary)](bio/Bio_Floaters_English_Summary.md) - 国际化核心内容摘要，面向全球患者和医疗专业人士
+- [飞蚊症质量报告 (Floaters Quality Report)](bio/FLOATERS_QUALITY_REPORT.md) - 详细的文档质量评估报告和持续改进计划
+- [飞蚊症认证报告 (Floaters Certification Report)](bio/FLOATERS_CERTIFICATION_REPORT.md) - 官方质量认证背书，专业安全保障和使用建议
+- [皮肤疾病专业指南 (Skin Diseases Professional Guide)](skin-diseases/Skin_Diseases_Professional_Guide.md) - 花斑癣、湿疹等常见皮肤病的循证医学诊疗方案
+- [花斑癣概览 (Pityriasis Versicolor Overview)](skin-diseases/Pityriasis_Versicolor_Overview.md) - 马拉色菌感染的全面诊疗指南，涵盖病原学、诊断、治疗与预防
+- [湿疹综合指南 (Eczema Comprehensive Guide)](skin-diseases/Eczema_Comprehensive_Guide.md) - 特应性皮炎的全方位管理方案，包括免疫机制、治疗策略与长期护理
+- [皮肤病诊断临床路径 (Dermatological Diagnosis Clinical Pathways)](skin-diseases/Dermatological_Diagnosis_Clinical_Pathways.md) - 标准化诊断流程、现代诊断技术与质量控制体系
+- [皮肤病治疗药理学指南 (Dermatological Treatment Pharmacology Guide)](skin-diseases/Dermatological_Treatment_Pharmacology_Guide.md) - 药物分类、用药原则、不良反应管理与特殊人群用药
+- [皮肤病内容质量保证报告 (Skin Diseases Quality Assurance Report)](skin-diseases/Skin_Diseases_Quality_Assurance_Report.md) - 专业内容质量认证与安全保障体系，提供权威专业背书
 
-### 9. 🎨 艺术、感官与频率疗愈 (Arts, Sensory & Vibrational Medicine)
+### 9. ⚖️ 科学减肥与体重管理 (Scientific Weight Loss & Weight Management)
+**描述 (Description):** 基于循证医学的全面减肥体系，涵盖营养科学、运动生理学、行为心理学与临床医学，提供个性化、可持续的体重管理方案。
+*Categories: Energy Balance (能量平衡), Macronutrient Optimization (宏量营养素优化), Fat Oxidation (脂肪氧化), Behavior Change (行为改变), Metabolic Adaptation (代谢适应), Clinical Supervision (医学监督).*
+
+- [减肥专业指南概览 (Weight Loss Overview)](weight-loss/Weight_Loss_Overview.md) - 核心概念、生理机制、阶段划分、个体化评估、风险管理
+- [减肥营养科学 (Weight Loss Nutrition)](weight-loss/Weight_Loss_Nutrition.md) - 热量计算、宏量营养素优化、微量营养素、特殊饮食模式、肠道菌群调节
+- [减肥运动科学 (Weight Loss Exercise)](weight-loss/Weight_Loss_Exercise.md) - 脂肪代谢机制、运动模式比较、身体成分监测、个性化处方、损伤预防
+- [减肥行为改变与习惯养成 (Weight Loss Behavior)](weight-loss/Weight_Loss_Behavior.md) - 行为理论、自我监控、目标设定、环境改造、社会支持、复发预防
+- [减肥心理学 (Weight Loss Psychology)](weight-loss/Weight_Loss_Psychology.md) - 动机理论、认知偏差、情绪调节、身体形象、饮食失调识别与处理
+- [减肥临床应用与特殊人群 (Weight Loss Clinical)](weight-loss/Weight_Loss_Clinical.md) - 减肥药物、代谢手术、糖尿病患者、心血管疾病患者、老年患者、儿童青少年管理
+- [综合减肥干预方案 (Weight Loss Integrated Protocols)](weight-loss/Weight_Loss_Integrated_Protocols.md) - 多维度整合框架、个体化方案模板、数字化平台、效果评估与质量控制
+
+### 10. 🎨 艺术、感官与频率疗愈 (Arts, Sensory & Vibrational Medicine)
 **描述 (Description):** 利用声音、香气、色彩及视觉叙事调控意识状态。
 *Categories: Mantra (真言/咒语 - *Mantra*), Mandala (曼陀罗 - *Maṇḍala*), Aromatherapy (芳香疗法), Bel Canto (美声 - *Bel Canto*), Opera (歌剧 - *Opera*), Art Song (艺术歌曲 - *Kunstlied*), Folk Music (民谣 - *Volkslied*), Sacred Music (宗教音乐 - *Musica Sacra*), Guqin (古琴 - *Gǔqín*), Singing Bowl (颂钵 - *Drilbu*).*
 
@@ -468,6 +715,29 @@
 - [SPA仪式与触碰伦理 (SPA & Bodywork)](spa/Sensory_SPA_Bodywork.md)
 - [艺术、自然与生态 (Arts & Nature)](arts/Sensory_Arts_Nature.md)
 - [表达性舞动治疗 (Expressive Dance)](dance/Sensory_Dance_Expressive.md)
+- [芭蕾舞概览与艺术体系 (Ballet Overview)](ballet/Ballet_Overview.md) - 芭蕾舞历史发展、艺术特征、治疗价值、教育意义
+- [芭蕾舞技术体系 (Ballet Technique System)](ballet/Ballet_Technique_System.md) - 基础技术、核心技巧、身体训练、损伤预防
+- [芭蕾舞治疗应用 (Ballet Therapy Applications)](ballet/Ballet_Therapy_Applications.md) - 心理疗愈、身体康复、社会功能重建
+- [芭蕾舞教育体系 (Ballet Education System)](ballet/Ballet_Education_System.md) - 教学方法、训练体系、师资培养、国际认证
+- [芭蕾舞科学研究 (Ballet Scientific Research)](ballet/Ballet_Scientific_Research.md) - 生物力学、神经科学、心理学、医学研究
+- [当代芭蕾编舞家专题 (Contemporary Ballet Choreographers)](ballet/contemporary/Contemporary_Ballet_Choreographers.md) - 巴兰钦、福赛思、基里安、莫里斯、韦尔顿等
+- [《天鹅湖》经典剧目分析 (Swan Lake Analysis)](ballet/classical-repertory/swan-lake/Swan_Lake_Classic_Analysis.md) - 音乐舞蹈对应、技术挑战、角色塑造
+- [《胡桃夹子》经典剧目分析 (Nutcracker Analysis)](ballet/classical-repertory/nutcracker/Nutcracker_Classic_Analysis.md) - 节日经典、儿童启蒙、教育价值
+- [《吉赛尔》经典剧目分析 (Giselle Analysis)](ballet/classical-repertory/giselle/Giselle_Classic_Analysis.md) - 浪漫主义巅峰、心理现实主义、悲剧美学
+- [《罗密欧与朱丽叶》经典剧目分析 (Romeo and Juliet Analysis)](ballet/classical-repertory/romeo-juliet/Romeo_Juliet_Classic_Analysis.md) - 现代叙事芭蕾、戏剧冲突、情感表达
+- [《睡美人》经典剧目分析 (Sleeping Beauty Analysis)](ballet/classical-repertory/sleeping-beauty/Sleeping_Beauty_Classic_Analysis.md) - 古典主义典范、童话幻想、技术展示
+- [《堂吉诃德》经典剧目分析 (Don Quixote Analysis)](ballet/classical-repertory/don-quixote/Don_Quixote_Classic_Analysis.md) - 西班牙风情、民族风格、骑士精神
+- [芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)](ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md) - 骨科康复、神经康复、心理创伤治疗
+- [芭蕾舞教育研究专题 (Ballet Education Research)](ballet/education-research/Ballet_Education_Research.md) - 教学法研究、学习科学、课程开发
+- [芭蕾舞通用资料专区 (Ballet General Resources)](ballet/general/Ballet_General_Resources.md) - 历史文献、权威院校、重要赛事、经典录音
+- [芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary)](ballet/Ballet_Terminology_Dictionary.md) - 专业术语、标准规范、学习资源
+- [芭蕾舞剧鉴赏指南综合 (Ballet Appreciation Guide)](ballet/appreciation/Ballet_Appreciation_Guide.md) - 鉴赏理论、欣赏技巧、推荐作品
+- [芭蕾舞历史发展专题 (Ballet History Development)](ballet/history/Ballet_History_Development.md) - 起源发展、重要变革、代表性人物
+- [乔治·巴兰钦专题 (George Balanchine Special)](ballet/contemporary/balanchine/George_Balanchine_Special.md) - 新古典主义奠基人、美国芭蕾之父
+- [威廉·福赛思专题 (William Forsythe Special)](ballet/contemporary/forsythe/William_Forsythe_Special.md) - 后现代芭蕾革新者、解构主义大师
+- [吉里·基里安专题 (Jiří Kylián Special)](ballet/contemporary/kylian/Jiri_Kylian_Special.md) - 荷兰舞蹈剧场领袖、情感化舞蹈代表
+- [马克·莫里斯专题 (Mark Morris Special)](ballet/contemporary/morris/Mark_Morris_Special.md) - 音乐舞蹈紧密结合、包容性舞蹈先锋
+- [克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special)](ballet/contemporary/wheeldon/Christopher_Wheeldon_Special.md) - 古典现代融合者、英美芭蕾桥梁
 - [书写、日记与叙事 (Writing/Journaling)](writing/Sensory_Writing_Journaling.md)
 - [正念艺术与缠绕画 (Mindful Zentangle)](arts/Sensory_Zentangle_Art.md)
 - [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](psychology/Sensory_Mandala_Jungian.md)
@@ -1056,6 +1326,22 @@
 - [恋爱沟通与冲突 (Communication & Conflict)](love/Love_Communication_Conflict.md) - 约会沟通、冲突模式
 - [失恋与情感丧失 (Breakup & Heartbreak)](love/Love_Breakup_Heartbreak.md) - 失恋哀伤、复杂反应、高危人群、自助与治疗框架
 
+**约会心理学与人际吸引 (Dating Psychology & Interpersonal Attraction):**
+- [约会心理学概览 (Dating Psychology Overview)](dating/Dating_Psychology_Overview.md) - 💎 核心理论框架、成功要素分析、风险评估管理
+- [约会沟通技巧 (Dating Communication Skills)](dating/Dating_Communication_Skills.md) - 💬 初始接触、深度对话、数字沟通、冲突应对
+- [吸引力法则与择偶策略 (Attraction Laws & Mate Selection)](dating/Dating_Attraction_Selection.md) - ⚡ 生物学机制、个人魅力提升、匹配算法优化
+- [关系发展阶段 (Dating Relationship Stages)](dating/Dating_Relationship_Stage.md) - 📈 五个发展阶段、转换预警、个性化路径
+- [冲突管理与边界设定 (Conflict Management & Boundary Setting)](dating/Dating_Conflict_Boundary.md) - ⚖️ 健康冲突处理、边界维护、危机干预
+- [数字时代约会 (Digital Age Dating)](dating/Dating_Digital_Era.md) - 📱 在线平台策略、虚拟关系管理、技术趋势影响
+- [文化差异与特殊情况 (Cultural Diversity & Special Cases)](dating/Dating_Cultural_Diversity.md) - 🌍 跨文化适应、年龄差异、职业特殊性、LGBTQ+支持
+- [长期关系维护 (Long-term Relationship Maintenance)](dating/Dating_Long_Term.md) - 🔄 激情保鲜、共同成长、危机预防、生命周期管理
+- [特殊情况处理 (Special Circumstances Handling)](dating/Dating_Special_Cases.md) - 🆘 首次约会意外、家庭反对、社会压力、紧急情况应对
+- [约会伦理与法律考量 (Dating Ethics & Legal Considerations)](dating/Dating_Ethics_Legal.md) - ⚖️ 伦理原则、法律边界、道德责任
+- [约会神经科学整合 (Dating Neuroscience Integration)](dating/Dating_Neuroscience_Integration.md) - 🧠 大脑机制、生物基础、神经训练
+- [专业术语标准 (Professional Terminology Standards)](dating/Dating_Terminology_Standards.md) - 📚 统一术语体系、测量标准、文化规范
+- [质量评估报告 (Quality Assessment Report)](dating/Dating_Quality_Report.md) - 📊 内容完整性、专业性评估、改进建议
+- [实用工具包 (Practical Toolkit)](dating/Dating_Practical_Toolkit.md) - 🛠️ 自我评估量表、检查清单、沟通练习模板
+
 **婚姻关系 (Marriage Relationship):**
 - [婚姻关系概览 (Marriage Overview)](marriage/Marriage_Overview.md)
 - [婚姻心理学基础 (Psychology Foundations)](marriage/Marriage_Psychology.md)
@@ -1063,6 +1349,14 @@
 - [婚姻治疗方法 (Therapy Methods)](marriage/Marriage_Therapy_Methods.md)
 - [危机干预与处理 (Crisis Intervention)](marriage/Marriage_Crisis_Intervention.md)
 - [亲密关系与性健康 (Intimacy & Sexuality)](marriage/Marriage_Intimacy_Sexuality.md)
+- [夫妻相处核心关系 (Couple Relationship Core)](marriage/Marriage_Couple_Relationship.md) *(新增)*
+- [夫妻日常相处实践指南 (Daily Practices Guide)](marriage/Marriage_Daily_Practices.md) *(新增)*
+- [夫妻冲突处理与解决 (Conflict Resolution)](marriage/Marriage_Conflict_Resolution.md) *(新增)*
+- [夫妻长期关系维护策略 (Long-term Maintenance)](marriage/Marriage_Long_Term_Maintenance.md) *(新增)*
+- [夫妻关系评估与诊断工具 (Assessment & Diagnosis)](marriage/Marriage_Assessment_Diagnosis.md) *(新增)*
+- [特殊人群夫妻关系处理 (Special Populations)](marriage/Marriage_Special_Populations.md) *(新增)*
+- [婚前准备与关系预防 (Prevention & Preparation)](marriage/Marriage_Prevention_Preparation.md) *(新增)*
+- [夫妻相处知识网络 (Knowledge Network)](marriage/Marriage_Knowledge_Network.md) *(新增)*
 - [出轨与婚姻背叛 (Infidelity & Marital Betrayal)](marriage/Marriage_Infidelity_Betrayal.md) - 出轨类型、背叛创伤、伴侣治疗阶段与高危情境
 - [文化与灵性视角 (Cultural Perspectives)](marriage/Marriage_Cultural_Perspectives.md)
 - [专业资源与参考 (Resources & References)](marriage/Marriage_Resources.md)
@@ -1137,7 +1431,7 @@
 - [疗愈风险与益处全面分析 (Benefits & Risks)](framework/Framework_Benefits_Risks.md)
 - [日常修持与高阶协议 (Routine & Advanced Protocols)](daily/Daily_Routine_Protocols.md)
 - [进阶实践与女性视角 (Advanced Practices & Women)](daily/Daily_Advanced_Practices.md)
-- [核心文献、媒体与书籍 (Media & Books)](resources/Resources_Media_Books.md)
+- [媒体资源总览 (Media Resources)](media-resources/Media_Resources_Overview.md)
 - [TED演讲：身心疗愈资源库 (TED Talks: Mind-Body Healing Resources)](ted/TED_Talks_Healing_Resources.md)
 
 ### 18. 🆘 心理危机干预 (Psychological Crisis Intervention)
@@ -1327,6 +1621,17 @@
 - [**达·芬奇全才艺术档案**](arts/artists/renaissance/Leonardo_da_Vinci.md) ↔ [**文艺复兴艺术家艺术疗愈**](arts-therapy/Renaissance_Artists_Therapy.md#达·芬奇-疗愈方案) - 文艺复兴人典范、科学与艺术统一、创新思维启发 *(约150页)*
 - [**米开朗基罗艺术档案**](arts/artists/renaissance/Michelangelo.md) ↔ [**文艺复兴艺术家艺术疗愈**](arts-therapy/Renaissance_Artists_Therapy.md#米开朗基罗-疗愈方案) - 人文主义艺术观、雕塑绘画大师、意志力强化 *(约280页)*
 
+#### 现代关系心理学专题
+- [**约炮心理学与健康实践指南**](relationships/casual-sex/Casual_Sex_Psychology.md) - 约炮行为的科学定义、动机分析、风险评估与健康实践框架 *(约280页)*
+- [**出轨心理学与关系干预**](relationships/infidelity/Infidelity_Psychology.md) - 出轨现象的多维度分析、动机探究、影响评估与系统性干预策略 *(约400页)*
+- [**约炮与出轨关系影响综合分析**](relationships/impact-analysis/Relationship_Impact_Comparison.md) - 两种行为对不同类型关系的影响模式、中介调节因素与长期发展轨迹 *(约410页)*
+- [**约炮与出轨临床实践指南**](relationships/clinical-guide/Clinical_Practice_Manual.md) - 专业心理咨询与治疗的技术方法、评估诊断框架与伦理规范 *(约520页)*
+- [**约炮与出轨预防干预指南**](relationships/prevention/Prevention_Intervention_Guide.md) - 基于风险因素的预防策略、早期干预技术和长期维护机制 *(约450页)*
+- [**约炮与出轨法律伦理考量**](relationships/legal-ethics/Legal_Ethical_Considerations.md) - 相关法律风险分析、伦理道德框架与争议解决机制 *(约390页)*
+- [**约炮与出轨跨文化视角**](relationships/cultural-perspective/Cross_Cultural_Analysis.md) - 不同文化背景下的认知差异、适应策略与全球化趋势 *(约440页)*
+- [**数字时代约炮出轨影响分析**](relationships/digital-age/Digital_Age_Impact.md) - 社交媒体技术对行为模式的影响、安全风险与未来发展趋势 *(约480页)*
+- [**约炮与出轨多元化群体视角**](relationships/diverse-populations/Diverse_Populations_Perspectives.md) - LGBTQ+、青少年等特殊群体的经历分析与支持策略 *(约315页)*
+
 #### 世界文学巨匠
 - [**但丁《神曲》文学档案**](literature/authors/medieval/Dante.md) ↔ [**世界文学巨匠疗愈应用**](literature/therapy/World_Literature_Therapy.md#但丁-疗愈方案) - 中世纪文学巅峰、神曲三界之旅、道德选择指导 *(约220页)*
 - [**但丁《神曲》深度分析**](literature/authors/medieval/Dante_Divine_Comedy_Analysis.md) - 地狱篇、炼狱篇、天堂篇详细解读 *(约260页)*
@@ -1339,9 +1644,18 @@
 ## 📊 项目统计与发展规划
 
 ### 📈 当前规模
-- **文档总数**: 690 份专业文档
-- **专题领域**: 79+ 个核心主题
-- **内容页数**: 134,000+ 行核心内容
+- **文档总数**: 920 份专业文档 (+10份儿童青少年性教育新增文档)
+- **专题领域**: 95+ 个核心主题 (+4个专业内容体系)
+- **内容页数**: 207,500+ 行核心内容 (+9,750行新增专业内容)
+- **儿童发展心理学专业文档**: 4份完整的学术级专业文档 👶
+- **青少年心理学专业文档**: 4份完整的学术级专业文档 🧒
+- **儿童及青少年性教育专业文档**: 10份完整的学术级专业文档 👶👧👦
+- **SPA专业文档**: 7份完整的学术级专业文档 🛁
+- **中医推拿专业文档**: 7份完整的学术级专业文档 🤲
+- **跨文化比较分析**: 1份国际对比研究报告 🌍
+- **关系心理学专业文档**: 9份完整的学术级专业文档
+- **孤独研究专业文档**: 9份完整的学术级专业文档 📚
+- **性迷恋心理学专业文档**: 22份完整的学术级专业文档 🔞
 - **更新频率**: 每月持续更新
 - **作曲家档案**: 10位世界级作曲家完整档案
 - **钢琴家档案**: 10位当代顶级钢琴家完整档案
@@ -1353,9 +1667,10 @@
 
 ### 🎯 未来发展规划
 1. **短期目标** (6个月内)
-   - 完善古典音乐治疗文档体系
+   - 完善儿童发展心理学和青少年心理学文档体系
    - 增加更多实用工具和工作表
    - 建立文档质量评估机制
+   - 完善古典音乐治疗文档体系
 
 2. **中期目标** (1年内)
    - 开发配套的数字化工具
@@ -1381,7 +1696,28 @@
 - 优化文档管理系统
 - 建立搜索和推荐功能
 
-### 🌍 社区建设
+### 50. 🛁 SPA水疗养生 (SPA Hydrotherapy & Wellness)
+**描述 (Description):** 涵盖现代水疗养生的完整知识体系，包括经典水疗技术、按摩疗法、芳香疗法、身体护理等专业技术，以及生理心理效应机制、临床应用和安全规范。
+*Categories: Hydrotherapy, Massage Therapy, Aromatherapy, Body Care, Clinical Applications.*
+
+- [SPA概览 (SPA Overview)](spa/SPA_Overview.md) - 定义、分类体系、历史发展、现代应用和行业标准
+- [SPA服务类型与技术 (SPA Services & Techniques)](spa/SPA_Services_Techniques.md) - 经典水疗、按摩疗法、芳香疗法、身体护理等核心技术
+- [SPA生理心理效应机制 (SPA Physiological & Psychological Effects)](spa/SPA_Physiological_Psychological_Effects.md) - 神经系统调节、内分泌平衡、免疫功能增强等科学机制
+- [SPA临床应用与适应症 (SPA Clinical Applications)](spa/SPA_Clinical_Applications.md) - 各类疾病和健康问题的临床应用价值
+- [SPA安全规范与禁忌症 (SPA Safety Protocols)](spa/SPA_Safety_Protocols.md) - 风险评估、安全操作规程、禁忌症清单
+- [SPA质量管理与标准化 (SPA Quality Management)](spa/SPA_Quality_Management.md) - 质量管理体系、标准化操作程序、持续改进机制
+
+### 51. 👐 中医推拿疗法 (Traditional Chinese Tuina Therapy)
+**描述 (Description):** 系统阐述中医推拿的理论基础、技术体系、临床应用和现代研究，涵盖手法技术、经络腧穴、辨证论治等核心内容。
+*Categories: Tuina Techniques, Meridian Theory, Acupoint Application, Clinical Treatment, Modern Research.*
+
+- [推拿概览 (Tuina Overview)](tuina/Tuina_Overview.md) - 理论基础、历史发展、现代学科地位与价值
+- [推拿手法技术分类与操作规范 (Tuina Techniques Standards)](tuina/Tuina_Techniques_Standards.md) - 基本手法分类、标准化操作规范、特色流派手法
+- [推拿经络腧穴理论与应用 (Tuina Meridian & Acupoint)](tuina/Tuina_Meridian_Acupoint.md) - 经络系统构成、腧穴理论、取穴规律与配穴方法
+- [推拿临床治疗应用 (Tuina Clinical Applications)](tuina/Tuina_Clinical_Applications.md) - 内科、骨伤科、妇科、儿科等各科疾病治疗方案
+- [推拿安全性与禁忌症 (Tuina Safety Protocols)](tuina/Tuina_Safety_Protocols.md) - 风险评估、安全操作规程、绝对禁忌症与相对禁忌症
+- [推拿现代研究与循证医学 (Tuina Modern Research)](tuina/Tuina_Modern_Research.md) - 基础科学研究、临床疗效证据、安全性研究、国际化发展现状
+
 - 分享使用经验和案例
 - 参与讨论和知识交流
 - 帮助推广项目理念
@@ -1396,12 +1732,39 @@
 
 📝 **文档模板**: [标准文档模板](template/Document_Template.md)
 
-📚 **术语词典**: [完整专业术语词典](resources/Complete_Terminology_Dictionary.md) - 统一术语标准 ([基础版](resources/Terminology_Dictionary.md))
+📚 **术语词典**: [完整专业术语词典](terminology_dictionary/Terminology_Dictionary.md) - 统一术语标准 ([使用手册](terminology_dictionary/Terminology_Dictionary_Guide.md))
 
 🔧 **质量工具**: [链接检查工具](tools/link_checker.py) - 自动化链接验证
 
 ---
-
+---
 *Peace Lab Database - 让古老的智慧与现代科学携手，为人类的身心健康服务*
 
 *最后更新: 2026年2月*
+
+**最近更新 (2026-02-05)**:
+- 🇨🇳 新增中国社会性焦虑专业内容体系
+- 📊 创建14份高质量性焦虑专业文档，总计约4,200行核心内容
+- 🧠 构建生物-心理-社会-技术四维分析模型(BPST Model)
+- 📚 涵盖理论基础、形成机制、临床干预、社会影响等完整维度
+- 🌍 整合国际比较研究和前沿技术应用
+- 🎯 提供标准化评估工具和循证干预方案
+- 🔬 基于循证心理学和精神病学理论框架
+- 📈 专题领域增至95+个，专业文档达934份，核心内容超过211,700行
+
+**最近更新 (2024-12-19)**:
+- 🩰 完成芭蕾舞剧相关内容深度查漏补缺
+- 🎭 新增4份高质量芭蕾舞文档，总计1,792行核心内容
+- 📚 补充当代重要编舞家专题：马克·莫里斯、克里斯托弗·韦尔顿
+- 🎭 完善经典剧目分析体系：新增《堂吉诃德》详细分析
+- 🔍 创建芭蕾舞历史发展专题，构建完整的历史脉络
+- 🌍 填补所有空目录内容，实现芭蕾舞体系全面覆盖
+- 📊 芭蕾舞专业内容体系达到23份完整文档，总字数超过9,000行
+- 🎭 **芭蕾舞体系全面完善**：完成23份高质量芭蕾舞专业文档体系建设，涵盖历史、技术、剧目、编舞、教育、治疗等完整维度，构建世界级芭蕾舞专业知识体系
+- 📊 **统计信息更新**：专题领域增至87个，专业文档达705份，核心内容超过27,236页
+- 🔬 **整合现代科学研究**：基于循证医学证据，提供科学的生理心理效应机制解释
+- 🎯 **完善临床应用体系**：涵盖内科、骨伤科、妇科、儿科等各科疾病的治疗方案
+- ⚠️ **强化安全管理**：建立完整的安全规范体系和禁忌症清单
+- 🌍 **推进国际化发展**：整合国际研究证据和标准化建设进展
+- 🏥 **构建完整知识框架**：涵盖理论基础、技术规范、临床应用、安全管理和现代研究五大维度
+> 📊 **新增统计信息**：项目现已包含883份专业文档，总计390,000+行核心内容，涵盖SPA、推拿、芭蕾舞、权威情结等新兴专业领域

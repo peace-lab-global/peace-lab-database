@@ -8,216 +8,216 @@
 
 ### 1. 适合年龄的注意力期望
 
-**Developmental Benchmarks:**
-- **2-3 years**: 5-10 minutes for preferred activities
-- **4-5 years**: 10-15 minutes with adult support
-- **6-8 years**: 15-25 minutes for structured tasks
-- **9-12 years**: 25-40 minutes for engaging activities
-- **Adolescents**: 40+ minutes with interest-based motivation
+**发展基准:**
+- **2-3 岁**: 5-10分钟的偏好活动
+- **4-5 岁**: 10-15分钟的成人支持
+- **6-8 岁**: 15-25分钟的结构化任务
+- **9-12 岁**: 25-40分钟的吸引人活动
+- **青少年**: 40分钟以上的基于兴趣的动机
 
 ### 2. 基于游戏的学习整合
 
-**Play Principles:**
-- **Intrinsic motivation**: Activities driven by genuine interest
-- **Active engagement**: Hands-on, experiential learning approaches
-- **Scaffolded challenge**: Appropriately difficult tasks with support
-- **Joyful persistence**: Positive emotional association with effortful activities
+**游戏原则:**
+- **内在动机**: 由真正兴趣驱动的活动
+- **主动参与**: 动手实践的学习方法
+- **支架式挑战**: 有支持的适当困难任务
+- **快乐坚持**: 与努力活动的积极情感联系
 
 ## 特定治疗应用
 
-### 早期儿童干预 (Ages 2-6)
+### 早期儿童干预 (2-6岁)
 
-#### Sensory Integration Activities
-**Multi-modal Attention Training:**
-1. **Tactile Focus Games**:
-   - Texture sorting and matching activities
-   - Fine motor skill development through manipulation
-   - Sensory bins with themed materials
-2. **Auditory Discrimination**:
-   - Sound identification and localization games
-   - Musical instrument exploration
-   - Storytelling with sound effects
-3. **Visual Tracking Exercises**:
-   - Moving object following activities
-   - Picture sequence arrangement
-   - Puzzle completion with increasing complexity
+#### 感官整合活动
+**多模式注意力训练:**
+1. **触觉专注游戏**:
+   - 纹理分类和匹配活动
+   - 通过操作发展精细运动技能
+   - 主题材料的感觉箱
+2. **听觉辨别**:
+   - 声音识别和定位游戏
+   - 乐器探索
+   - 带音效的故事讲述
+3. **视觉追踪练习**:
+   - 移动物体跟随活动
+   - 图片序列排列
+   - 复杂度递增的拼图完成
 
-#### Routine-Based Attention Building
-**Daily Structure Integration:**
-1. **Predictable Sequences**:
-   - Consistent daily schedules
-   - Visual routine charts and timers
-   - Transitional song or signal systems
-2. **Choice Opportunities**:
-   - Limited menu of acceptable options
-   - Decision-making within structured boundaries
-   - Natural consequence learning
-3. **Positive Reinforcement**:
-   - Specific praise for attention behaviors
-   - Token economy systems for younger children
-   - Celebration of small incremental improvements
+#### 基于常规的注意力建设
+**日常结构整合:**
+1. **可预测的序列**:
+   - 一致的日常时间表
+   - 视觉常规图表和定时器
+   - 过渡歌曲或信号系统
+2. **选择机会**:
+   - 有限的可接受选项菜单
+   - 在结构化边界内的决策
+   - 自然后果学习
+3. **积极强化**:
+   - 对注意力行为的具体表扬
+   - 幼儿的代币经济系统
+   - 小步进步的庆祝
 
-### 学龄期干预 (Ages 6-12)
+### 学龄期干预 (6-12岁)
 
-#### Academic Attention Strategies
-**Classroom-Applicable Techniques:**
-1. **Chunked Learning Approach**:
-   - 15-20 minute focused work periods
-   - Movement breaks between academic segments
-   - Varied instructional modalities
-2. **Self-Monitoring Systems**:
-   - Checklists for task completion
-   - Time management visual aids
-   - Peer accountability partnerships
-3. **Interest-Based Learning**:
-   - Topic choice within curriculum constraints
-   - Project-based learning opportunities
-   - Real-world application connections
+#### 学业注意力策略
+**课堂适用技术:**
+1. **分块学习方法**:
+   - 15-20分钟的专注工作时段
+   - 学术片段间的运动休息
+   - 多种教学模式
+2. **自我监控系统**:
+   - 任务完成清单
+   - 时间管理视觉辅助工具
+   - 同伴责任伙伴关系
+3. **基于兴趣的学习**:
+   - 课程约束内的话题选择
+   - 基于项目的学习机会
+   - 现实世界应用联系
 
-#### Social Attention Development
-**Peer Interaction Skills:**
-1. **Conversation Skills Training**:
-   - Turn-taking practice in structured settings
-   - Active listening recognition cues
-   - Non-verbal communication awareness
-2. **Group Activity Participation**:
-   - Cooperative learning structures
-   - Role-specific responsibilities in teams
-   - Conflict resolution skill development
-3. **Environmental Awareness**:
-   - Classroom behavior expectations
-   - Appropriate volume and movement levels
-   - Respectful attention to others' contributions
+#### 社会注意力发展
+**同伴互动技能:**
+1. **对话技能训练**:
+   - 结构化环境中的轮流练习
+   - 积极倾听识别提示
+   - 非语言沟通意识
+2. **小组活动参与**:
+   - 合作学习结构
+   - 团队中的角色特定责任
+   - 冲突解决技能发展
+3. **环境意识**:
+   - 课堂行为期望
+   - 适当的音量和运动水平
+   - 对他人的贡献表示尊重
 
-### Family-Centered Approaches
+### 以家庭为中心的方法
 
-#### Home Environment Modifications
-**Supportive Family Structures:**
-1. **Designated Study Spaces**:
-   - Quiet, organized homework areas
-   - Minimal visual distractions
-   - Comfortable but alert seating arrangements
-2. **Family Routine Coordination**:
-   - Consistent bedtimes and wake-up times
-   - Regular meal schedules supporting stable energy
-   - Screen time boundaries and alternatives
-3. **Parent Modeling Behaviors**:
-   - Demonstrating focused attention to tasks
-   - Managing own digital distractions visibly
-   - Showing patience with sustained efforts
+#### 家庭环境改造
+**支持性家庭结构:**
+1. **指定学习空间**:
+   - 安静、有序的作业区域
+   - 最小化视觉干扰
+   - 舒适但警觉的座位安排
+2. **家庭日常协调**:
+   - 一致的就寝时间和起床时间
+   - 规律的用餐时间支持稳定的能量
+   - 屏幕时间边界和替代方案
+3. **家长示范行为**:
+   - 展示对任务的专注注意力
+   - 明显地管理自己的数字干扰
+   - 对持续努力表现出耐心
 
-#### Parent Training Components
-**Caregiver Skill Development:**
-1. **Behavioral Management Techniques**:
-   - Positive attention strategies
-   - Clear expectation communication
-   - Consistent consequence application
-2. **Stress Management for Parents**:
-   - Self-care practices for caregivers
-   - Support group participation
-   - Professional consultation when needed
-3. **Advocacy Skills Development**:
-   - School communication strategies
-   - Documentation of progress and challenges
-   - Resource identification and utilization
+#### 家长培训组成部分
+**照护者技能发展:**
+1. **行为管理技术**:
+   - 积极关注策略
+   - 明确期望沟通
+   - 一致的后果应用
+2. **家长压力管理**:
+   - 照护者的自我保健实践
+   - 支持小组参与
+   - 必要时的专业咨询
+3. **倡导技能发展**:
+   - 学校沟通策略
+   - 进展和挑战的记录
+   - 资源识别和利用
 
 ## 专业人群和适应
 
-### ADHD-Specific Interventions
-**Evidence-Based Modifications:**
-- **High-interest, short-duration activities**
-- **Frequent positive reinforcement schedules**
-- **Movement integration in learning tasks**
-- **External structure and visual supports**
-- **Medication coordination with behavioral approaches**
+### ADHD特定干预:
+**循证修改:**
+- **高兴趣、短时间活动**
+- **频繁的积极强化时间表**
+- **学习任务中的运动整合**
+- **外部结构和视觉支持**
+- **药物与行为方法的协调**
 
-### Autism Spectrum Considerations
-**Tailored Attention Strategies:**
-- **Predictable routine emphasis**
-- **Sensory accommodation awareness**
-- **Explicit social attention instruction**
-- **Special interest channeling for engagement**
-- **Visual support system implementation**
+### 自闭症谱系考虑
+**定制注意力策略:**
+- **可预测的日常强调**
+- **感官适应意识**
+- **明确的社会注意力指导**
+- **用于参与的特殊兴趣引导**
+- **视觉支持系统实施**
 
-### Learning Disability Adaptations
-**Compensatory Strategy Development:**
-- **Strength-based approach identification**
-- **Assistive technology integration**
-- **Alternative demonstration methods**
-- **Extended processing time accommodations**
-- **Multi-sensory learning approach**
+### 学习障碍适应
+**补偿策略发展:**
+- **基于优势的方法识别**
+- **辅助技术整合**
+- **替代展示方法**
+- **延长处理时间适应**
+- **多感官学习方法**
 
 ## 评估和监测框架
 
-### Developmental Screening Tools
-- **Conners' Rating Scales**: Parent and teacher behavior assessments
-- **Behavioral Rating Inventory of Executive Function (BRIEF)**: Daily functioning evaluation
-- **Test of Variables of Attention (TOVA)**: Computerized attention measurement
-- **Developmental Milestone Checklists**: Age-appropriate skill progression tracking
+### 发育筛查工具
+- **Conners评分量表**: 家长和教师行为评估
+- **行为执行功能清单**: 日常功能评估
+- **注意力变量测试**: 计算机化注意力测量
+- **发育里程碑清单**: 适龄技能进展跟踪
 
-### Progress Monitoring Methods
-- **Weekly behavior charts**: Daily attention behavior recording
-- **Monthly portfolio reviews**: Work sample and improvement documentation
-- **Quarterly family meetings**: Progress discussion and plan adjustment
-- **Annual comprehensive evaluations**: Multi-domain developmental assessment
+### 进展监控方法
+- **每周行为图表**: 每日注意力行为记录
+- **每月作品集回顾**: 工作样本和改进文档
+- **季度家庭会议**: 进展讨论和计划调整
+- **年度综合评估**: 多领域发育评估
 
-### Family Feedback Integration
-- **Regular parent consultation sessions**
-- **Child self-report measures (age-appropriate)**
-- **Teacher collaboration and communication**
-- **Sibling perspective consideration when relevant**
+### 家庭反馈整合
+- **定期家长咨询会议**
+- **儿童自我报告测量 (适龄)**
+- **教师协作和沟通**
+- **相关时的兄弟姐妹观点考虑**
 
 ## 实施考虑因素
 
-### School Collaboration Strategies
-**Educational Partnership Development:**
-1. **Individualized Education Plan (IEP) Coordination**:
-   - Specific attention goal setting
-   - Accommodation implementation
-   - Progress monitoring procedures
-2. **Teacher Training and Support**:
-   - Classroom management strategies
-   - Differentiated instruction techniques
-   - Positive behavior support methods
-3. **Peer Education Initiatives**:
-   - Classmate understanding development
-   - Buddy system implementation
-   - Inclusive classroom culture building
+### 学校协作策略
+**教育伙伴关系发展:**
+1. **个别化教育计划协调**:
+   - 特定注意力目标设定
+   - 住宿实施
+   - 进展监控程序
+2. **教师培训和支持**:
+   - 课堂管理策略
+   - 差异化教学技术
+   - 积极行为支持方法
+3. **同伴教育倡议**:
+   - 同学理解发展
+   - 伙伴制度实施
+   - 包容性课堂文化建设
 
-### Community Resource Integration
-**Broader Support Network Development:**
-1. **Recreational Program Adaptation**:
-   - Sports team attention skill building
-   - Arts program focus enhancement
-   - Library program engagement strategies
-2. **Healthcare Provider Coordination**:
-   - Pediatrician communication
-   - Specialist referral management
-   - Medication monitoring collaboration
-3. **Technology Tool Utilization**:
-   - Educational app selection and supervision
-   - Digital wellness boundary setting
-   - Screen time alternative activities
+### 社区资源整合
+**更广泛的支持网络发展:**
+1. **娱乐项目适应**:
+   - 运动队注意力技能建设
+   - 艺术项目专注力增强
+   - 图书馆项目参与策略
+2. **医疗保健提供者协调**:
+   - 儿科医生沟通
+   - 专科转诊管理
+   - 药物监控协作
+3. **技术工具利用**:
+   - 教育应用程序选择和监督
+   - 数字健康边界设定
+   - 屏幕时间替代活动
 
 ## 安全和伦理考虑
 
-### Developmentally Appropriate Expectations
-- **Avoiding adult-standard attention demands**
-- **Respecting individual developmental trajectories**
-- **Balancing challenge with achievable success**
-- **Maintaining play and exploration opportunities**
+### 发育适当期望
+- **避免成人标准注意力需求**
+- **尊重个体发育轨迹**
+- **平衡挑战与可实现的成功**
+- **保持游戏和探索机会**
 
-### Family-Centered Practice Principles
-- **Parent preference and cultural sensitivity**
-- **Shared decision-making approaches**
-- **Strength-based family asset identification**
-- **Trauma-informed care considerations**
+### 以家庭为中心的实践原则
+- **家长偏好和文化敏感性**
+- **共享决策方法**
+- **基于优势的家庭资产识别**
+- **创伤知情护理考虑**
 
-### Long-term Development Focus
-- **Sustainable habit formation emphasis**
-- **Self-regulation skill building priority**
-- **Confidence and competence development**
-- **Natural maturation process respect**
+### 长期发展重点
+- **可持续习惯形成强调**
+- **自我调节技能建设优先级**
+- **信心和能力发展**
+- **自然成熟过程尊重**
 
 ## 结论
 

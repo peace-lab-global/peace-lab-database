@@ -75,136 +75,136 @@ ADHD专注力疗愈代表了一种综合性、多模式的方法，通过整合�
    - **运动整合**：摆弄工具和可调节家具选项
 
 2. **数字环境管理**:
-   - **Notification control**: Systematic management of alerts and interruptions
-   - **App-based support**: Timer systems, focus blockers, and productivity trackers
-   - **Screen ergonomics**: Optimal positioning and blue light management
-   - **Technology boundaries**: Established usage limits and transition protocols
+   - **通知控制**: 系统性警报和中断管理
+   - **基于应用程序的支持**: 计时器系统、专注拦截器和生产力追踪器
+   - **屏幕人体工程学**: 最佳定位和蓝光管理
+   - **技术边界**: 既定使用限制和转换协议
 
 #### 时间结构实施
-**Time Management Systems:**
-1. **External Time Support**:
-   - **Visual timers**: Concrete representation of time passage
-   - **Scheduled transitions**: Planned movement between activities
-   - **Buffer periods**: Built-in flexibility for task completion
-   - **Deadline visualization**: Calendar and timeline management tools
+**时间管理系统:**
+1. **外部时间支持**:
+   - **可视化计时器**: 时间流逝的具体表示
+   - **计划转换**: 活动间的计划移动
+   - **缓冲期**: 任务完成的内置灵活性
+   - **截止日期可视化**: 日历和时间线管理工具
 
-2. **Task Analysis and Breakdown**:
-   - **Large project segmentation**: Breaking complex work into manageable components
-   - **Priority ranking systems**: Importance and urgency-based organization
-   - **Completion celebration**: Acknowledgment of milestone achievements
-   - **Progress tracking**: Visual representation of advancement
+2. **任务分析和分解**:
+   - **大型项目分割**: 将复杂工作分解为可管理的组件
+   - **优先级排序系统**: 基于重要性和紧急性的组织
+   - **完成庆祝**: 里程碑成就的认可
+   - **进度跟踪**: 进展的可视化表示
 
 ## 药物考虑因素
 
 ### 药物整合方法
-**Comprehensive Treatment Planning:**
-1. **Stimulant Medications**:
-   - **Mechanism understanding**: Dopamine and norepinephrine system modulation
-   - **Timing optimization**: Dosing schedules aligned with daily demands
-   - **Side effect monitoring**: Sleep, appetite, and mood impact assessment
-   - **Dosage adjustment protocols**: Regular evaluation and modification processes
+**综合治疗规划:**
+1. **兴奋剂药物**:
+   - **机制理解**: 多巴胺和去甲肾上腺素系统调节
+   - **时机优化**: 与日常需求一致的给药时间表
+   - **副作用监测**: 睡眠、食欲和情绪影响评估
+   - **剂量调整协议**: 定期评估和修改过程
 
-2. **Non-Stimulant Alternatives**:
-   - **Atomoxetine considerations**: Noradrenergic reuptake inhibition benefits
-   - **Alpha-agonist options**: Blood pressure and arousal regulation effects
-   - **Individual response variation**: Personalized medication selection criteria
-   - **Combination therapy evaluation**: Multi-modal pharmacological approaches
+2. **非兴奋剂替代药物**:
+   - **阿托莫西汀考虑因素**: 去甲肾上腺素再摄取抑制益处
+   - **α激动剂选项**: 血压和唤醒调节效果
+   - **个体反应变化**: 个性化药物选择标准
+   - **联合治疗评估**: 多模式药理学方法
 
 ### 综合护理协调
-**Healthcare Team Collaboration:**
-- **Prescriber communication**: Regular medication effectiveness discussions
-- **Side effect management**: Proactive addressing of treatment-related challenges
-- **Treatment adherence support**: Strategies for consistent medication use
-- **Periodic reassessment**: Ongoing evaluation of therapeutic benefit-risk ratios
+**医疗团队协作:**
+- **处方医生沟通**: 定期药物有效性讨论
+- **副作用管理**: 主动应对治疗相关挑战
+- **治疗依从性支持**: 持续用药策略
+- **定期重新评估**: 治疗效益-风险比的持续评估
 
 ## 家庭和社会支持系统
 
-### Caregiver Training and Support
-**Parent/Caregiver Skill Development:**
-1. **Behavior Management Techniques**:
-   - **Positive reinforcement systems**: Effective praise and reward strategies
-   - **Clear communication methods**: Specific direction and expectation setting
-   - **Consistent consequence application**: Logical and predictable response patterns
-   - **Emotional regulation modeling**: Demonstration of calm problem-solving approaches
+### 照顾者培训和支持
+**家长/照护者技能发展:**
+1. **行为管理技术**:
+   - **Positive reinforcement systems**: 有效的表扬和奖励策略
+   - **Clear communication methods**: 具体指导和期望设定
+   - **Consistent consequence application**: 逻辑和可预测的反应模式
+   - **情绪调节建模**: 冷静解决问题方法的示范
 
-2. **Stress Management for Families**:
-   - **Self-care prioritization**: Maintaining caregiver well-being and resilience
-   - **Support network development**: Connection with other families and professionals
-   - **Respite care coordination**: Temporary relief and renewal opportunities
-   - **Educational advocacy skills**: Effective communication with schools and providers
+2. **家庭压力管理**:
+   - **Self-care prioritization**: 维护照顾者的健康和韧性
+   - **支持网络发展**: 与其他家庭和专业人士的联系
+   - **临时护理协调**: 临时缓解和更新机会
+   - **教育倡导技能**: 与学校和提供者的有效沟通
 
-### Peer and Social Relationship Development
-**Interpersonal Skills Building:**
-1. **Social Skills Training**:
-   - **Conversation initiation and maintenance**: Appropriate interaction entry and continuation
-   - **Non-verbal communication awareness**: Body language and facial expression interpretation
-   - **Friendship development strategies**: Reciprocal relationship building techniques
-   - **Conflict resolution skills**: Negotiation and problem-solving in social situations
+### 同伴和社交关系发展
+**人际技能建设:**
+1. **社交技能培训**:
+   - **对话启动和维持**: 适当的互动进入和延续
+   - **非语言沟通意识**: 身体语言和面部表情解读
+   - **Friendship development strategies**: 互惠关系建设技术
+   - **Conflict resolution skills**: 社交情境中的协商和问题解决
 
-2. **Community Integration Support**:
-   - **Extracurricular activity participation**: Structured group involvement opportunities
-   - **Volunteer and service learning**: Meaningful contribution experiences
-   - **Interest-based social groups**: Shared activity communities and clubs
-   - **Mentorship program connection**: Positive role model relationships
+2. **社区融合支持**:
+   - **Extracurricular activity participation**: 结构化群体参与机会
+   - **Volunteer and service learning**: 有意义的贡献体验
+   - **Interest-based social groups**: 共享活动社区和俱乐部
+   - **Mentorship program connection**: 积极榜样关系
 
 ## 测量和结果评估
 
-### Standardized Evaluation Tools
-- **ADHD Rating Scale-IV**: Parent and teacher symptom severity assessment
-- **Behavior Assessment System for Children (BASC-3)**: Comprehensive behavior evaluation
-- **Conners' Continuous Performance Test (CPT)**: Computerized attention measurement
-- **Executive Function Behavior Rating Scale**: Daily functioning impairment assessment
+### 标准化评估工具
+- **ADHD评定量表-IV**: 家长和教师症状严重程度评估
+- **儿童行为评估系统 (BASC-3)**: 综合行为评估
+- **Conners持续表现测试 (CPT)**: 计算机化注意力测量
+- **执行功能行为评定量表**: 日常功能损害评估
 
-### Functional Outcome Measures
-- **Academic performance indicators**: Grade improvement and assignment completion rates
-- **Social relationship quality**: Peer nomination and friendship survey data
-- **Family functioning scales**: Household harmony and parental stress measures
-- **Self-esteem and confidence assessments**: Personal satisfaction and self-efficacy ratings
+### 功能性结果测量
+- **学业表现指标**: 成绩提升和作业完成率
+- **社交关系质量**: 同伴提名和友谊调查数据
+- **家庭功能量表**: 家庭和谐和父母压力测量
+- **自尊和自信评估**: 个人满意度和自我效能评级
 
-### Long-term Success Indicators
-- **Graduated independence achievement**: Increasing self-management capabilities
-- **Adaptive coping strategy development**: Flexible response to challenges
-- **Strength utilization maximization**: Leveraging ADHD characteristics productively
-- **Quality of life enhancement**: Overall well-being and satisfaction improvements
+### 长期成功指标
+- **渐进式独立成就**: 提高自我管理能力
+- **适应性应对策略发展**: 对挑战的灵活反应
+- **优势利用最大化**: 有效地利用ADHD特征
+- **生活质量提升**: 整体幸福感和满意度改善
 
 ## 实施考虑因素
 
-### Individualized Treatment Planning
-**Personalized Approach Development:**
-1. **Comprehensive Assessment Phase**:
-   - **Multi-source information gathering**: Parent, teacher, self, and professional input
-   - **Strength-challenge identification**: Balanced profile of capabilities and difficulties
-   - **Environmental factor analysis**: Home, school, and community context evaluation
-   - **Preference and motivation assessment**: Individual interests and driving factors
+### 个性化治疗规划
+**个性化方法发展:**
+1. **综合评估阶段**:
+   - **多来源信息收集**: 家长、教师、自我和专业人士输入
+   - **优势-挑战识别**: 能力和困难的平衡档案
+   - **环境因素分析**: 家庭、学校和社区环境评估
+   - **偏好和动机评估**: 个人兴趣和驱动因素
 
-2. **Collaborative Goal Setting**:
-   - **SMART objective development**: Specific, measurable, achievable, relevant, time-bound targets
-   - **Family priority alignment**: Agreement on most important improvement areas
-   - **Realistic timeline establishment**: Developmentally appropriate expectation setting
-   - **Regular review and adjustment**: Ongoing plan modification based on progress
+2. **协作目标设定**:
+   - **SMART目标发展**: 具体、可衡量、可达成、相关、有时限的目标
+   - **家庭优先级对齐**: 对最重要改善领域的共识
+   - **现实时间线建立**: 发育适当期望设定
+   - **定期审查和调整**: 基于进展的持续计划修改
 
-### Cultural and Contextual Sensitivity
-**Inclusive Practice Principles:**
-- **Cultural background respect**: Incorporating family values and beliefs
-- **Economic accessibility consideration**: Affordable and available resource identification
-- **Language and communication accommodation**: Multilingual and varied communication methods
-- **Neurodiversity paradigm adoption**: Strengths-based rather than deficit-focused perspectives
+### 文化和情境敏感性
+**包容性实践原则:**
+- **文化背景尊重**: 融入家庭价值观和信仰
+- **经济可及性考虑**: 经济实惠且可用资源识别
+- **语言和沟通适应**: 多语言和多样化沟通方法
+- **神经多样性范式采纳**: 优势导向而非缺陷聚焦的观点
 
 ## 安全和风险管理
 
-### Treatment Monitoring Protocols
-**Ongoing Safety Assessment:**
-- **Adverse effect surveillance**: Regular monitoring for negative treatment impacts
-- **Suicide risk evaluation**: Periodic screening for mood and behavioral changes
-- **Substance use prevention**: Education and early intervention strategies
-- **Academic and social regression monitoring**: Tracking for concerning developments
+### 治疗监控协议
+**持续安全评估:**
+- **不良反应监测**: 定期监测负面治疗影响
+- **自杀风险评估**: 情绪和行为变化的定期筛查
+- **物质使用预防**: 教育和早期干预策略
+- **学术和社交退步监测**: 追踪令人担忧的发展
 
-### Crisis Intervention Preparedness
-**Emergency Response Planning:**
-- **Safety plan development**: Clear protocols for concerning behaviors
-- **Professional consultation access**: Rapid connection to mental health resources
-- **Family emergency procedures**: Immediate support system activation
-- **School crisis coordination**: Collaborative response team establishment
+### 危机干预准备
+**应急响应规划:**
+- **安全计划制定**: 针对令人担忧行为的明确协议
+- **专业咨询获取**: 快速连接心理健康资源
+- **家庭应急程序**: 立即支持系统激活
+- **学校危机协调**: 协作响应团队建立
 
 ## 结论
 
