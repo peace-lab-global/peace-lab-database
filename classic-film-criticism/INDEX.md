@@ -2,13 +2,71 @@
 
 ## 内容概览
 
-本目录收录了关于经典电影的十一篇专业分析文章，涵盖了学术批评、临床应用、产业分析、技术分析和补充材料五个维度的完整知识体系。这些影评采用了跨学科的理论框架，从学术批评、文化研究、心理学分析、技术美学、产业经济学等多个维度进行全面深入的剖析，构成了完整的专业影评知识体系。
+本目录收录了关于经典电影和影星的十六篇专业分析文章，涵盖了学术批评、临床应用、产业分析、技术分析、补充材料和明星研究六个维度的完整知识体系。这些分析采用了跨学科的理论框架，从学术批评、文化研究、心理学分析、技术美学、产业经济学、表演人类学等多个维度进行全面深入的剖析，构成了更加完整的专业影评知识体系。
 
 ---
 
 ## 文件列表
 
-### 学术批评篇 (5篇)
+### 学术批评篇 (10篇)
+
+### 1-5. 原有经典电影影评（5篇）
+*（详见上述原有内容）*
+
+### 6. 《出租车司机》专业影评
+**文件名**: [movies/batch-1/Taxi_Driver_Professional_Critique.md](./movies/batch-1/Taxi_Driver_Professional_Critique.md)  
+**篇幅**: 约316行  
+**主要内容**:
+- 存在主义心理学视角的都市异化分析
+- 都市社会学的现代城市心理塑造
+- 暴力美学的政治功能和社会批判
+- 男性气质危机的当代体现
+
+**适用读者**: 电影研究学者、心理学研究者、都市社会学专家、文化批评家
+
+### 7. 《闪灵》专业影评
+**文件名**: [movies/batch-1/The_Shining_Professional_Critique.md](./movies/batch-1/The_Shining_Professional_Critique.md)  
+**篇幅**: 约317行  
+**主要内容**:
+- 精神分析学的恐怖心理机制分析
+- 家庭治疗学的家庭创伤传递研究
+- 恐怖美学的心理学和文化功能
+- 创伤理论视角的治愈可能性探讨
+
+**适用读者**: 心理学研究者、恐怖电影研究专家、家庭治疗师、创伤研究学者
+
+### 8. 《银翼杀手》专业影评
+**文件名**: [movies/batch-1/Blade_Runner_Professional_Critique.md](./movies/batch-1/Blade_Runner_Professional_Critique.md)  
+**篇幅**: 约326行  
+**主要内容**:
+- 后人类主义理论的人机身份认同探讨
+- 赛博朋克美学的视觉语言文化批判
+- 人工智能哲学的意识本质追问
+- 技术伦理学的未来社会反思
+
+**适用读者**: 科技哲学研究者、科幻文化学者、人工智能伦理专家、后现代理论研究者
+
+### 9. 《华尔街》专业影评
+**文件名**: [movies/batch-1/Wall_Street_Professional_Critique.md](./movies/batch-1/Wall_Street_Professional_Critique.md)  
+**篇幅**: 约323行  
+**主要内容**:
+- 金融社会学的市场道德风险分析
+- 道德哲学的贪婪文化批判
+- 组织行为学的权力结构研究
+- 政治经济学的资本主义精神异化
+
+**适用读者**: 金融研究学者、商业伦理专家、组织行为学研究者、政治经济学学者
+
+### 10. 《雨人》专业影评
+**文件名**: [movies/batch-1/Rain_Man_Professional_Critique.md](./movies/batch-1/Rain_Man_Professional_Critique.md)  
+**篇幅**: 约325行  
+**主要内容**:
+- 发展心理学的自闭症认知特征分析
+- 家庭治疗学的系统动力学变化研究
+- 神经科学的脑差异与行为表现
+- 特殊教育学的支持策略与干预方法
+
+**适用读者**: 发展心理学研究者、特殊教育专家、神经科学研究者、家庭治疗师
 
 ### 1. 《疤面煞星》专业影评
 **文件名**: [scarface/Scarface_Professional_Critique.md](./scarface/Scarface_Professional_Critique.md)  
@@ -238,6 +296,67 @@
 
 如需引用，请按照学术规范注明出处:
 > 经典电影专业影评合集. Peace Lab Database, 2026.
+
+---
+
+### 明星研究篇 (5篇)
+
+### 1. Robert De Niro 专业分析
+**文件名**: [actors/batch-1/Robert_De_Niro_Professional_Analysis.md](./actors/batch-1/Robert_De_Niro_Professional_Analysis.md)  
+**篇幅**: 约290行  
+**主要内容**:
+- 表演人类学视角的方法派表演艺术传承
+- 明星符号学的银幕传奇建构分析
+- 产业经济学的商业策略与艺术平衡
+- 传记批评方法的艺术生涯深度解读
+
+**适用读者**: 表演艺术研究者、电影产业学者、明星文化研究专家、传记文学爱好者
+
+### 2. Jack Nicholson 专业分析
+**文件名**: [actors/batch-1/Jack_Nicholson_Professional_Analysis.md](./actors/batch-1/Jack_Nicholson_Professional_Analysis.md)  
+**篇幅**: 约302行  
+**主要内容**:
+- 表演心理学的反叛精神艺术表达
+- 明星符号学的好莱坞反主流文化建构
+- 美国文化研究的时代精神镜像反映
+- 心理传记学的创作动机深层分析
+
+**适用读者**: 心理学研究者、美国文化学者、明星研究专家、传记批评学者
+
+### 3. Meryl Streep 专业分析
+**文件名**: [actors/batch-1/Meryl_Streep_Professional_Analysis.md](./actors/batch-1/Meryl_Streep_Professional_Analysis.md)  
+**篇幅**: 约302行  
+**主要内容**:
+- 表演人类学的女演员表演艺术发展
+- 女性主义电影研究的银幕女性形象重塑
+- 明星文化研究的优雅知性符号建构
+- 产业经济学的女性地位历史性提升
+
+**适用读者**: 女性主义研究者、表演艺术学者、文化产业专家、女性电影史研究者
+
+### 4. Denzel Washington 专业分析
+**文件名**: [actors/batch-1/Denzel_Washington_Professional_Analysis.md](./actors/batch-1/Denzel_Washington_Professional_Analysis.md)  
+**篇幅**: 约300行  
+**主要内容**:
+- 种族研究的非裔演员文化突破分析
+- 表演人类学的种族表征政治学探讨
+- 文化产业研究的行业壁垒突破历程
+- 美国研究的民权运动文化传承
+
+**适用读者**: 种族研究学者、非裔文化研究专家、文化产业学者、美国研究学者
+
+### 5. Cate Blanchett 专业分析
+**文件名**: [actors/batch-1/Cate_Blanchett_Professional_Analysis.md](./actors/batch-1/Cate_Blanchett_Professional_Analysis.md)  
+**篇幅**: 约302行  
+**主要内容**:
+- 表演人类学的国际化表演技艺发展
+- 跨国电影研究的文化适应与传播分析
+- 性别研究的国际语境女性表演探讨
+- 文化研究的全球化明星现象学解读
+
+**适用读者**: 国际电影研究学者、跨文化研究专家、性别研究学者、全球化文化研究者
+
+---
 
 ---
 
