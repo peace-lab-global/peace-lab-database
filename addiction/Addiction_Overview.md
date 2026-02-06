@@ -1,5 +1,7 @@
 # 成瘾概览 (Addiction Overview)
 
+**重要更新**：新增[咖啡因成瘾与咖啡使用障碍](Addiction_Caffeine_Coffee.md)专业文档，包含完整的诊断标准、评估工具和治疗方案。
+
 ## 核心术语与定义表 (Core Terminology)
 
 | 术语 (中文) | 英文名 (English Term) | 原始语言/术语 (Original Language) | 精确定义 | 区分与备注 | 专业视角 (Professional Perspective) |
@@ -7,6 +9,7 @@
 | **成瘾** | Addiction | 拉: *Addictio* (奴役、臣服) | 对物质或行为的强迫性使用，伴随失控、持续使用尽管有害、戒断症状 | 不同于"习惯"（可控）或"依赖"（生理适应） | 成瘾是一种慢性复发性脑疾病，涉及奖赏、动机、记忆回路的功能失调 |
 | **物质使用障碍** | Substance Use Disorder (SUD) | 英: *Substance Use Disorder* | DSM-5统一诊断：轻度、中度、重度，基于11项标准 | 取代DSM-IV的"滥用"与"依赖"二分法 | DSM-5强调连续谱系而非类别诊断，更符合临床现实 |
 | **行为成瘾** | Behavioral Addiction | 英: *Behavioral Addiction* | 对非物质行为的强迫性从事（如赌博、性、游戏、购物） | DSM-5仅承认"赌博障碍"，其他尚在研究 | ICD-11新增"游戏障碍"，行为成瘾领域正快速发展 |
+| **咖啡因使用障碍** | Caffeine Use Disorder (CUD) | 英: *Caffeine Use Disorder* | DSM-5列为"需进一步研究的诊断"，指持续或反复的咖啡因使用导致临床显著痛苦或功能损害 | 未被正式承认的正式诊断，但有明确临床表现 | 代表咖啡因问题使用的最严重形式，需专业评估 |
 | **耐受性** | Tolerance | 拉: *Tolerantia* (忍受) | 需要增加剂量以达到相同效果，或相同剂量效果减弱 | 药理性耐受vs行为性耐受 | 耐受性是神经适应的标志，涉及受体下调与代谢加速 |
 | **戒断症状** | Withdrawal Syndrome | 英: *Withdrawal* | 停用物质后出现的特征性生理与心理症状 | 不同物质戒断症状不同（如酒精戒断危及生命） | 戒断恐惧是持续使用的主要动机之一 |
 | **渴求** | Craving | 古英: *Crafian* (渴望、请求) | 强烈的、几乎无法抵抗的使用冲动 | 渴求可被条件性线索触发（cue-induced craving） | 渴求是复发的核心预测因子，涉及腹侧被盖区-伏隔核回路 |

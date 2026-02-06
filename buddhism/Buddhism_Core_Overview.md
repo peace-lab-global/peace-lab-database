@@ -31,14 +31,15 @@
 | **菩提** | Awakening/Enlightenment | *Bodhi* (बोधि) | *Bodhi* | 觉悟、智慧、菩提心 | 疗愈的目标与动力 | 小乘解脱菩提，大乘佛果菩提 |
 | **菩萨** | Bodhisattva | *Bodhisattva* (बोधिसत्त्व) | *Bodhisatta* | 觉有情，发愿成佛利益众生者 | 利他导向的疗愈者 | 大乘理想人格 |
 
-### 表1.2 三法印与一实相印 (Three Marks & One Reality Seal)
+### 表1.3 佛教核心概念网络 (Core Concept Network)
 
-| 法印 | 梵语 | 巴利语 | 英文 | 含义 | 心理学对应 | 专业视角 |
-|---|---|---|---|---|---|---|
-| **诸行无常** | *Sarva-saṃskāra-anitya* | *Sabbe saṅkhārā aniccā* | All conditioned things are impermanent | 一切有为法刹那生灭 | 无常心理学、变化接纳 | 与物理学熵增定律相应 |
-| **诸法无我** | *Sarva-dharma-anātman* | *Sabbe dhammā anattā* | All phenomena are non-self | 一切法没有独立自我 | 去中心化、自我解构 | 包含有为法与无为法 |
-| **涅槃寂静** | *Nirvāṇa-śānti* | *Nibbāna-santi* | Nirvana is peace | 涅槃是究竟安宁 | 终极心理健康状态 | 苦的彻底止息 |
-| **一实相印** | *Dharmatā-mudrā* | — | Seal of True Reality | 诸法实相，空性智慧（大乘） | 超越二元的认知 | 大乘以此统摄三法印 |
+| 核心概念 | 相关概念 | 交叉引用文件 | 理论地位 | 实践意义 | 现代整合 |
+|---|---|---|---|---|---|
+| **缘起性空** | 三法印、中观哲学 | [缘起性空详论](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) [中观体系](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) | 哲学基础 | 解脱智慧 | 系统论、复杂科学 |
+| **三法印** | 无常、苦、无我 | [三法印解析](core-philosophy/Buddhism_Three_Seals_One_Reality.md) | 认证标准 | 正见建立 | 变化接纳、无常心理学 |
+| **戒定慧** | 三学、八正道 | [戒律伦理](ethics/Buddhism_Ethics_Comprehensive.md) [禅修体系](meditation/Buddhism_Meditation_Practice_System.md) | 修行路径 | 实践框架 | 行为治疗、注意力训练 |
+| **慈悲喜舍** | 四无量心 | [四无量心疗愈](Buddhism_Four_Immeasurables.md) [心理治疗](psychology/Buddhism_Psychotherapy_Theory.md) | 利他精神 | 心理健康 | 慈悲聚焦疗法、MSC |
+| **菩提心** | 菩萨道、六度 | [如来藏思想](core-philosophy/Buddhism_Tathagatagarbha.md) [高级主题](advanced/Buddhism_Advanced_Practice_Topics.md) | 大乘理想 | 究竟目标 | 利他主义、积极心理学 |
 
 ---
 

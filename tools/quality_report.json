@@ -1,0 +1,102 @@
+{
+  "timestamp": "2026-02-07T00:07:58.250620",
+  "total_documents": 2,
+  "passed_documents": 0,
+  "failed_documents": 2,
+  "average_score": 53.5,
+  "detailed_results": [
+    {
+      "file": "Knowledge_Base_Management_System.md",
+      "status": "fail",
+      "checks": {
+        "_title_format": {
+          "status": "pass"
+        },
+        "_section_structure": {
+          "status": "fail",
+          "errors": [
+            "缺少必要章节: 核心概念, 理论基础, 临床应用, 研究证据"
+          ],
+          "deduction": 32
+        },
+        "_citations_format": {
+          "status": "warning",
+          "warnings": [
+            "发现 1 个未规范格式的引用"
+          ],
+          "deduction": 3
+        },
+        "_links_validity": {
+          "status": "pass"
+        },
+        "_chinese_english_balance": {
+          "status": "warning",
+          "warnings": [
+            "英文字符占比 89.3% 过高，建议增加中文内容"
+          ],
+          "deduction": 5
+        },
+        "_metadata_completeness": {
+          "status": "warning",
+          "warnings": [
+            "缺少YAML元数据块"
+          ],
+          "deduction": 8
+        }
+      },
+      "errors": [
+        "_section_structure: 缺少必要章节: 核心概念, 理论基础, 临床应用, 研究证据"
+      ],
+      "warnings": [
+        "_citations_format: 发现 1 个未规范格式的引用",
+        "_chinese_english_balance: 英文字符占比 89.3% 过高，建议增加中文内容",
+        "_metadata_completeness: 缺少YAML元数据块"
+      ],
+      "score": 52
+    },
+    {
+      "file": "USAGE_GUIDE.md",
+      "status": "fail",
+      "checks": {
+        "_title_format": {
+          "status": "pass"
+        },
+        "_section_structure": {
+          "status": "fail",
+          "errors": [
+            "缺少必要章节: 核心概念, 理论基础, 临床应用, 研究证据"
+          ],
+          "deduction": 32
+        },
+        "_citations_format": {
+          "status": "pass"
+        },
+        "_links_validity": {
+          "status": "pass"
+        },
+        "_chinese_english_balance": {
+          "status": "warning",
+          "warnings": [
+            "英文字符占比 57.8% 过高，建议增加中文内容"
+          ],
+          "deduction": 5
+        },
+        "_metadata_completeness": {
+          "status": "warning",
+          "warnings": [
+            "缺少YAML元数据块"
+          ],
+          "deduction": 8
+        }
+      },
+      "errors": [
+        "_section_structure: 缺少必要章节: 核心概念, 理论基础, 临床应用, 研究证据"
+      ],
+      "warnings": [
+        "_chinese_english_balance: 英文字符占比 57.8% 过高，建议增加中文内容",
+        "_metadata_completeness: 缺少YAML元数据块"
+      ],
+      "score": 55
+    }
+  ]
+}
