@@ -6,6 +6,10 @@
 > - [职业心理学临床应用](clinical/Vocational_Psychology_Clinical_Applications.md) - 治疗干预、咨询技术、危机管理
 > - [职业心理学研究方法](research/Vocational_Psychology_Research_Methods.md) - 研究设计、数据分析、质量控制
 > - [职业心理学细分领域](specialized/Vocational_Psychology_Specialized_Areas.md) - 特定职业群体、行业应用、新兴领域
+> - [职业心理学术语标准](Vocational_Psychology_Terminology_Standards.md) - 专业术语定义、词源解析、使用规范
+> - [职业心理学案例指南](Vocational_Psychology_Case_Studies_Guide.md) - 典型案例分析、实践操作指导
+> - [职业心理学前沿趋势](Vocational_Psychology_Frontiers_Trends.md) - 新兴研究、技术应用、发展展望
+> - [职业心理学循证实践指南](Vocational_Psychology_Evidence_Based_Practice_Guide.md) - 最新研究证据、实证支持技术、质量评估标准
 
 ## 职业心理学全景图 (Vocational Psychology Panorama)
 

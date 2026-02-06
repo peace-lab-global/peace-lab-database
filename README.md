@@ -60,13 +60,13 @@
 *Categories: Stoicism, Existentialism, Phenomenology, Kantianism, Schopenhauerianism, Confucianism, Samkhya (数论), Nyaya (正理).*
 
 #### 4.1 西方哲学概览 (Western Philosophy Overview)
-- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](philosophy/western/Philosophy_Western_Stoicism_Existentialism.md)
-- [西方现象学与形而上学 (Phenomenology & Metaphysics)](philosophy/western/Philosophy_Western_Phenomenology_Metaphysics.md)
-- [西方康德与叔本华思想 (Kantian & Schopenhauerian Thought)](philosophy/western/Philosophy_Western_Kantian_Schopenhauer.md)
+- [西方实用哲学：斯多葛与存在主义 (Stoicism & Existentialism)](western-philosophy/western/Philosophy_Western_Stoicism_Existentialism.md)
+- [西方现象学与形而上学 (Phenomenology & Metaphysics)](western-philosophy/western/Philosophy_Western_Phenomenology_Metaphysics.md)
+- [西方康德与叔本华思想 (Kantian & Schopenhauerian Thought)](western-philosophy/western/Philosophy_Western_Kantian_Schopenhauer.md)
 
 #### 4.2 东方哲学概览 (Eastern Philosophy Overview)
-- [东方古典儒家：修身与伦理 (Classical Confucianism)](philosophy/eastern/Philosophy_Eastern_Classical_Confucianism.md)
-- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](philosophy/eastern/Philosophy_Eastern_Indian_Schools.md)
+- [东方古典儒家：修身与伦理 (Classical Confucianism)](western-philosophy/eastern/Philosophy_Eastern_Classical_Confucianism.md)
+- [印度古典学派：数论、正理与逻辑 (Indian Philosophical Schools)](western-philosophy/eastern/Philosophy_Eastern_Indian_Schools.md)
 
 ### 5. 🌏 东亚哲学体系 (East Asian Philosophy Systems)
 **描述 (Description):** 涵盖中国、日本、韩国的传统哲学思想体系，包括儒家、道家、禅宗、朝鲜朱子学等东亚智慧传统。
@@ -76,73 +76,73 @@
 **描述 (Description):** 中华文明的核心哲学传统，涵盖儒家、道家、墨家等主要思想流派。
 
 ##### 5.1.1 儒家哲学 (Confucianism)
-- [孔子 (Confucius)](east-asian/china/confucianism/Confucius.md) - 仁、礼、义为核心的伦理哲学
-- [孟子 (Mencius)](east-asian/china/confucianism/Mencius.md) - 性善论、仁政、民贵君轻的道德哲学
-- [荀子 (Xunzi)](east-asian/china/confucianism/Xunzi.md) - 性恶论、礼法并重、化性起伪的实践哲学
-- [朱熹 (Zhu Xi)](east-asian/china/confucianism/ZhuXi.md) - 理气论、格物致知、四书集注的理学体系
-- [王阳明 (Wang Yangming)](east-asian/china/confucianism/WangYangming.md) - 心即理、知行合一、致良知的心学思想
+- [孔子 (Confucius)](east-asian-philosophy/china/confucianism/Confucius.md) - 仁、礼、义为核心的伦理哲学
+- [孟子 (Mencius)](east-asian-philosophy/china/confucianism/Mencius.md) - 性善论、仁政、民贵君轻的道德哲学
+- [荀子 (Xunzi)](east-asian-philosophy/china/confucianism/Xunzi.md) - 性恶论、礼法并重、化性起伪的实践哲学
+- [朱熹 (Zhu Xi)](east-asian-philosophy/china/confucianism/ZhuXi.md) - 理气论、格物致知、四书集注的理学体系
+- [王阳明 (Wang Yangming)](east-asian-philosophy/china/confucianism/WangYangming.md) - 心即理、知行合一、致良知的心学思想
 
 ##### 5.1.2 道家哲学 (Taoism)
-- [老子 (Laozi)](east-asian/china/taoism/Laozi.md) - 道、无为、柔弱胜刚强的自然哲学
-- [庄子 (Zhuangzi)](east-asian/china/taoism/Zhuangzi.md) - 逍遥游、齐物论、心斋坐忘的自由哲学
-- [列子 (Liezi)](east-asian/china/taoism/Liezi.md) - 贵虚、顺化、生死观的虚无主义
+- [老子 (Laozi)](east-asian-philosophy/china/taoism/Laozi.md) - 道、无为、柔弱胜刚强的自然哲学
+- [庄子 (Zhuangzi)](east-asian-philosophy/china/taoism/Zhuangzi.md) - 逍遥游、齐物论、心斋坐忘的自由哲学
+- [列子 (Liezi)](east-asian-philosophy/china/taoism/Liezi.md) - 贵虚、顺化、生死观的虚无主义
 
 ##### 5.1.3 墨家哲学 (Mohism)
-- [墨子 (Mozi)](east-asian/china/other-schools/Mozi.md) - 兼爱、非攻、尚贤、节用的平民哲学
+- [墨子 (Mozi)](east-asian-philosophy/china/other-schools/Mozi.md) - 兼爱、非攻、尚贤、节用的平民哲学
 
 ##### 5.1.4 法家哲学 (Legalism)
-- [韩非子 (Han Feizi)](east-asian/china/other-schools/HanFeizi.md) - 法术势、性恶论、功利主义的法治理论
-- [商鞅 (Shang Yang)](east-asian/china/other-schools/ShangYang.md) - 变法革新、耕战政策、中央集权的实践家
+- [韩非子 (Han Feizi)](east-asian-philosophy/china/other-schools/HanFeizi.md) - 法术势、性恶论、功利主义的法治理论
+- [商鞅 (Shang Yang)](east-asian-philosophy/china/other-schools/ShangYang.md) - 变法革新、耕战政策、中央集权的实践家
 
 ##### 5.1.5 名家哲学 (School of Names)
-- [公孙龙 (Gongsun Long)](east-asian/china/other-schools/GongsunLong.md) - 白马非马、离坚白、概念分析的逻辑学家
-- [惠施 (Hui Shi)](east-asian/china/other-schools/HuiShi.md) - 历物十事、合同异、大一小一的辩者
+- [公孙龙 (Gongsun Long)](east-asian-philosophy/china/other-schools/GongsunLong.md) - 白马非马、离坚白、概念分析的逻辑学家
+- [惠施 (Hui Shi)](east-asian-philosophy/china/other-schools/HuiShi.md) - 历物十事、合同异、大一小一的辩者
 
 ##### 5.1.6 阴阳家哲学 (School of Yin-Yang)
-- [邹衍 (Zou Yan)](east-asian/china/other-schools/ZouYan.md) - 五德终始、大九州、阴阳五行的宇宙论
+- [邹衍 (Zou Yan)](east-asian-philosophy/china/other-schools/ZouYan.md) - 五德终始、大九州、阴阳五行的宇宙论
 
 ##### 5.1.7 兵家哲学 (Military Philosophy)
-- [孙子 (Sunzi)](east-asian/china/other-schools/Sunzi.md) - 知己知彼、兵者诡道、不战而屈人之兵的兵法圣典
-- [吴起 (Wu Qi)](east-asian/china/other-schools/WuQi.md) - 军事改革、选贤任能、爱兵如子的将帅典范
+- [孙子 (Sunzi)](east-asian-philosophy/china/other-schools/Sunzi.md) - 知己知彼、兵者诡道、不战而屈人之兵的兵法圣典
+- [吴起 (Wu Qi)](east-asian-philosophy/china/other-schools/WuQi.md) - 军事改革、选贤任能、爱兵如子的将帅典范
 
 #### 5.4 伊斯兰哲学 (Islamic Philosophy)
 **描述 (Description):** 融合希腊理性主义与伊斯兰启示传统的哲学体系。
 
 ##### 5.4.1 中世纪伊斯兰哲学
-- [阿尔-加扎利 (Al-Ghazali)](philosophy/medieval/islamic/Al-Ghazali.md) - 怀疑主义转向与苏菲主义整合的大师
+- [阿尔-加扎利 (Al-Ghazali)](western-philosophy/medieval/islamic/Al-Ghazali.md) - 怀疑主义转向与苏菲主义整合的大师
 
 #### 5.2 日本哲学 (Japanese Philosophy)
 **描述 (Description):** 融合佛教、神道与西方哲学的现代日本思想体系。
 
 ##### 5.2.1 京都学派 (Kyoto School)
-- [西田幾多郎 (Nishida Kitarō)](east-asian/japan/kyoto-school/Nishida.md) - 场所逻辑与纯经验理论
+- [西田幾多郎 (Nishida Kitarō)](east-asian-philosophy/japan/kyoto-school/Nishida.md) - 场所逻辑与纯经验理论
 
 ##### 5.2.2 日本佛教哲学 (Japanese Buddhist Philosophy)
-- [铃木大拙 (D.T. Suzuki)](east-asian/japan/buddhism/Suzuki.md) - 禅宗思想的现代阐释与东西方融合
+- [铃木大拙 (D.T. Suzuki)](east-asian-philosophy/japan/buddhism/Suzuki.md) - 禅宗思想的现代阐释与东西方融合
 
 ##### 5.2.3 现代日本哲学 (Modern Japanese Philosophy)
-- [和辻哲郎 (Watsuji Tetsurō)](east-asian/japan/watsuji/Watsuji.md) - 人间关系伦理学与风土论
-- [家永三郎 (Ienaga Saburō)](east-asian/japan/historiography/Ienaga.md) - 历史真实主义与和平主义史观
+- [和辻哲郎 (Watsuji Tetsurō)](east-asian-philosophy/japan/watsuji/Watsuji.md) - 人间关系伦理学与风土论
+- [家永三郎 (Ienaga Saburō)](east-asian-philosophy/japan/historiography/Ienaga.md) - 历史真实主义与和平主义史观
 
 #### 5.3 韩国哲学 (Korean Philosophy)
 **描述 (Description):** 朝鲜王朝时期的儒学发展和本土化哲学思想。
 
 ##### 5.3.1 朝鲜朱子学 (Korean Neo-Confucianism)
-- [李滉 (Yi Hwang/T'oegye)](east-asian/korea/confucianism/YiHwang.md) - 理气二元论与主理主义
-- [李珥 (Yi I/Yulgok)](east-asian/korea/confucianism/YiI.md) - 气一元论与四端七情论
+- [李滉 (Yi Hwang/T'oegye)](east-asian-philosophy/korea/confucianism/YiHwang.md) - 理气二元论与主理主义
+- [李珥 (Yi I/Yulgok)](east-asian-philosophy/korea/confucianism/YiI.md) - 气一元论与四端七情论
 
 ##### 5.3.2 现代韩国哲学 (Modern Korean Philosophy)
-- [崔泳三 (Choi Young-sam)](east-asian/korea/modern/ChoiYoungsam.md) - 民主化运动与人权思想
-- [金大中 (Kim Dae-jung)](east-asian/korea/modern/KimDaejung.md) - 阳光政策与和平统一理念
+- [崔泳三 (Choi Young-sam)](east-asian-philosophy/korea/modern/ChoiYoungsam.md) - 民主化运动与人权思想
+- [金大中 (Kim Dae-jung)](east-asian-philosophy/korea/modern/KimDaejung.md) - 阳光政策与和平统一理念
 
 #### 5.4 东亚其他地区哲学 (Other East Asian Philosophy)
 **描述 (Description):** 越南、蒙古等东亚地区的重要哲学思想传统。
 
 ##### 5.4.1 越南哲学 (Vietnamese Philosophy)
-- [阮廌 (Nguyễn Trãi)](east-asian/vietnam/confucianism/NguyenTrai.md) - 民本思想与儒佛融合的越南儒学大师
+- [阮廌 (Nguyễn Trãi)](east-asian-philosophy/vietnam/confucianism/NguyenTrai.md) - 民本思想与儒佛融合的越南儒学大师
 
 ##### 5.4.2 蒙古哲学 (Mongolian Philosophy)
-- [尹湛纳希 (Yin Zhanaxi)](east-asian/mongolia/YinZhanaxi.md) - 蒙古族启蒙思想家，融合儒释道传统
+- [尹湛纳希 (Yin Zhanaxi)](south-asian/india/YinZhanaxi.md) - 蒙古族启蒙思想家，融合儒释道传统
 
 #### 5.5 南亚哲学 (South Asian Philosophy)
 **描述 (Description):** 印度、巴基斯坦等南亚地区的古典和现代哲学传统。
@@ -152,18 +152,18 @@
 - [乔答摩悉达多 (Gautama Buddha)](south-asian/india/buddhism/GautamaBuddha.md) - 佛教创始人，缘起性空思想
 
 ##### 5.5.2 现代南亚哲学 (Modern South Asian Philosophy)
-- [泰戈尔 (Rabindranath Tagore)](south-asian/modern/Tagore.md) - 诗人哲学家，东西方文化融合思想
-- [甘地 (Mahatma Gandhi)](south-asian/modern/Gandhi.md) - 非暴力哲学与社会改革思想
+- [泰戈尔 (Rabindranath Tagore)](south-asian/Tagore.md) - 诗人哲学家，东西方文化融合思想
+- [甘地 (Mahatma Gandhi)](south-asian/Gandhi.md) - 非暴力哲学与社会改革思想
 **描述 (Description):** 融合希伯来传统与希腊理性主义的哲学传统。
 
 ##### 5.5.1 中世纪犹太哲学
-- [迈蒙尼德 (Maimonides)](philosophy/medieval/jewish/Maimonides.md) - 理性神学与律法理性化的集大成者
+- [迈蒙尼德 (Maimonides)](western-philosophy/medieval/jewish/Maimonides.md) - 理性神学与律法理性化的集大成者
 
 #### 5.6 现代实用主义 (Modern Pragmatism)
 **描述 (Description):** 美国本土哲学传统，强调实践效果和经验验证。
 
 ##### 5.6.1 实用主义哲学
-- [威廉·詹姆斯 (William James)](philosophy/modern/pragmatism/WilliamJames.md) - 意识流理论与实用主义心理学奠基人
+- [威廉·詹姆斯 (William James)](western-philosophy/modern/pragmatism/WilliamJames.md) - 意识流理论与实用主义心理学奠基人
 
 ### 6. 🧠 西方哲学家详细资料 (Western Philosophers Detailed)
 **描述 (Description):** 为每位西方哲学家创建的详细资料，包括核心思想、主要著作、思想发展、与心理学/疗愈的关联、批判与争议、影响与遗产以及推荐阅读。
@@ -171,98 +171,98 @@
 #### 5.1 古希腊哲学 (Ancient Greek Philosophy)
 
 ##### 5.1.1 前苏格拉底哲学家 (Pre-Socratics)
-- [泰勒斯 (Thales)](philosophy/ancient/pre-socratics/Thales.md)
-- [赫拉克利特 (Heraclitus)](philosophy/ancient/pre-socratics/Heraclitus.md)
-- [巴门尼德 (Parmenides)](philosophy/ancient/pre-socratics/Parmenides.md)
+- [泰勒斯 (Thales)](western-philosophy/ancient/pre-socratics/Thales.md)
+- [赫拉克利特 (Heraclitus)](western-philosophy/ancient/pre-socratics/Heraclitus.md)
+- [巴门尼德 (Parmenides)](western-philosophy/ancient/pre-socratics/Parmenides.md)
 
 ##### 5.1.2 古典希腊哲学家 (Classical Greek Philosophy)
-- [苏格拉底 (Socrates)](philosophy/ancient/classical/Socrates.md)
-- [柏拉图 (Plato)](philosophy/ancient/classical/Plato.md)
-- [亚里士多德 (Aristotle)](philosophy/ancient/classical/Aristotle.md)
-- [皮浪 (Pyrrho)](philosophy/ancient/classical/Pyrrho.md) - 古代怀疑主义创始人，心灵宁静理论
-- [普罗提诺 (Plotinus)](philosophy/ancient/classical/Plotinus.md) - 新柏拉图主义奠基人，太一流溢说
+- [苏格拉底 (Socrates)](western-philosophy/ancient/classical/Socrates.md)
+- [柏拉图 (Plato)](western-philosophy/ancient/classical/Plato.md)
+- [亚里士多德 (Aristotle)](western-philosophy/ancient/classical/Aristotle.md)
+- [皮浪 (Pyrrho)](western-philosophy/ancient/classical/Pyrrho.md) - 古代怀疑主义创始人，心灵宁静理论
+- [普罗提诺 (Plotinus)](western-philosophy/ancient/classical/Plotinus.md) - 新柏拉图主义奠基人，太一流溢说
 
 ##### 5.1.3 希腊化时期哲学家 (Hellenistic Philosophy)
 
 #### 5.2 中世纪哲学 (Medieval Philosophy)
 ##### 5.2.1 基督教哲学 (Christian Philosophy)
-- [奥古斯丁 (Augustine)](philosophy/medieval/christian/Augustine.md) - 基督教哲学奠基人，恩典与自由意志理论
-- [托马斯·阿奎那 (Thomas Aquinas)](philosophy/medieval/christian/Aquinas.md) - 经院哲学集大成者，自然神学体系
-- [奥卡姆的威廉 (William of Ockham)](philosophy/medieval/christian/Ockham.md) - 唯名论代表，奥卡姆剃刀原则
+- [奥古斯丁 (Augustine)](western-philosophy/medieval/christian/Augustine.md) - 基督教哲学奠基人，恩典与自由意志理论
+- [托马斯·阿奎那 (Thomas Aquinas)](western-philosophy/medieval/christian/Aquinas.md) - 经院哲学集大成者，自然神学体系
+- [奥卡姆的威廉 (William of Ockham)](western-philosophy/medieval/christian/Ockham.md) - 唯名论代表，奥卡姆剃刀原理
 
 #### 5.3 早期现代哲学 (Early Modern Philosophy)
 
 ##### 5.3.1 理性主义 (Rationalism)
-- [勒内·笛卡尔 (René Descartes)](philosophy/early-modern/rationalism/Descartes.md)
+- [勒内·笛卡尔 (René Descartes)](western-philosophy/early-modern/rationalism/Descartes.md)
 
 ##### 5.3.2 经验主义 (Empiricism)
 
 ##### 5.3.3 文艺复兴 (Renaissance)
 
 #### 5.4 启蒙运动 (Enlightenment)
-- [伊曼努尔·康德 (Immanuel Kant)](philosophy/enlightenment/Kant.md)
+- [伊曼努尔·康德 (Immanuel Kant)](western-philosophy/enlightenment/Kant.md)
 
 #### 5.5 德国古典哲学 (German Idealism)
-- [格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)](philosophy/german-idealism/Hegel.md)
+- [格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)](western-philosophy/german-idealism/Hegel.md)
 
 #### 5.6 19世纪哲学 (19th Century Philosophy)
 
 ##### 5.6.1 存在主义先驱 (Existentialist Precursors)
-- [弗里德里希·尼采 (Friedrich Nietzsche)](philosophy/19th-century/existential-precursors/Nietzsche.md)
+- [弗里德里希·尼采 (Friedrich Nietzsche)](western-philosophy/19th-century/existential-precursors/Nietzsche.md)
 
 #### 5.6.2 存在主义与荒诞哲学 (Existentialism & Absurdism)
-- [阿尔贝·加缪 (Albert Camus)](philosophy/20th-century/existentialists/Camus.md) - 荒诞哲学、存在主义思想、文学创作
-- [加缪作品深度分析 (Camus Works Analysis)](philosophy/20th-century/existentialists/Camus_Works_Analysis.md) - 《局外人》、《鼠疫》、《西西弗神话》等作品详解
-- [让-保罗·萨特 (Jean-Paul Sartre)](philosophy/20th-century/existentialists/Sartre.md) - 存在主义本体论、自由责任理论、他人关系哲学
-- [萨特作品深度分析 (Sartre Works Analysis)](philosophy/20th-century/existentialists/Sartre_Works_Analysis.md) - 《存在与虚无》、《恶心》、《禁闭》等作品详解
+- [阿尔贝·加缪 (Albert Camus)](western-philosophy/20th-century/existentialists/Camus.md) - 荒诞哲学、存在主义思想、文学创作
+- [加缪作品深度分析 (Camus Works Analysis)](western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md) - 《局外人》、《鼠疫》、《西西弗神话》等作品详解
+- [让-保罗·萨特 (Jean-Paul Sartre)](western-philosophy/20th-century/existentialists/Sartre.md) - 存在主义本体论、自由责任理论、他人关系哲学
+- [萨特作品深度分析 (Sartre Works Analysis)](western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md) - 《存在与虚无》、《恶心》、《禁闭》等作品详解
 
 #### 5.6.3 文学哲学家 (Literary Philosophers)
-- [赫尔曼·黑塞 (Hermann Hesse)](philosophy/20th-century/literary-philosophers/Hesse.md) - 个体自我实现、东西方智慧融合、心理学思想
-- [黑塞作品深度分析 (Hesse Works Analysis)](philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md) - 《悉达多》、《荒原狼》、《玻璃球游戏》等作品详解
-- [安德烈·纪德 (André Gide)](philosophy/20th-century/literary-philosophers/Gide.md) - 个人自由与道德探索、禁忌解放思想、宗教怀疑主义
-- [纪德作品深度分析 (Gide Works Analysis)](philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md) - 《背德者》、《窄门》、《田园交响曲》等作品详解
-- [弗朗茨·卡夫卡 (Franz Kafka)](philosophy/20th-century/literary-philosophers/Kafka.md) - 现代异化理论、权力结构分析、存在焦虑体验
-- [卡夫卡作品深度分析 (Kafka Works Analysis)](philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md) - 《审判》、《城堡》、《变形记》等作品详解
-- [弗吉尼亚·伍尔夫 (Virginia Woolf)](philosophy/20th-century/literary-philosophers/Woolf.md) - 意识流文学、女性主义哲学、现代性批判
-- [伍尔夫作品深度分析 (Woolf Works Analysis)](philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md) - 《到灯塔去》、《达洛维夫人》、《海浪》等作品详解
-- [鲁迅 (Lu Xun)](philosophy/20th-century/literary-philosophers/Luxun.md) - 启蒙理性与国民性批判、现实主义文学观、精神分析洞察
-- [鲁迅作品深度分析 (Luxun Works Analysis)](philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md) - 《呐喊》、《彷徨》、《朝花夕拾》等作品详解
-- [巴金 (Ba Jin)](philosophy/20th-century/literary-philosophers/BaJin.md) - 人道主义与博爱精神、家庭伦理批判、文学社会责任
-- [巴金作品深度分析 (BaJin Works Analysis)](philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md) - 《家》、《春》、《秋》等作品详解
-- [老舍 (Lao She)](philosophy/20th-century/literary-philosophers/LaoShe.md) - 都市民本主义、人性探索与文化批判、语言艺术与幽默哲学
-- [老舍作品深度分析 (LaoShe Works Analysis)](philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md) - 《骆驼祥子》、《四世同堂》、《茶馆》等作品详解
-- [沈从文 (Shen Congwen)](philosophy/20th-century/literary-philosophers/ShenCongwen.md) - 乡土人文主义、美学理想与艺术追求、文化反思与现代批判
-- [沈从文作品深度分析 (ShenCongwen Works Analysis)](philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md) - 《边城》、《长河》、《湘行散记》等作品详解
+- [赫尔曼·黑塞 (Hermann Hesse)](western-philosophy/20th-century/literary-philosophers/Hesse.md) - 个体自我实现、东西方智慧融合、心理学思想
+- [黑塞作品深度分析 (Hesse Works Analysis)](western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md) - 《悉达多》、《荒原狼》、《玻璃球游戏》等作品详解
+- [安德烈·纪德 (André Gide)](western-philosophy/20th-century/literary-philosophers/Gide.md) - 个人自由与道德探索、禁忌解放思想、宗教怀疑主义
+- [纪德作品深度分析 (Gide Works Analysis)](western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md) - 《背德者》、《窄门》、《田园交响曲》等作品详解
+- [弗朗茨·卡夫卡 (Franz Kafka)](western-philosophy/20th-century/literary-philosophers/Kafka.md) - 现代异化理论、权力结构分析、存在焦虑体验
+- [卡夫卡作品深度分析 (Kafka Works Analysis)](western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md) - 《审判》、《城堡》、《变形记》等作品详解
+- [弗吉尼亚·伍尔夫 (Virginia Woolf)](western-philosophy/20th-century/literary-philosophers/Woolf.md) - 意识流文学、女性主义哲学、现代性批判
+- [伍尔夫作品深度分析 (Woolf Works Analysis)](western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md) - 《到灯塔去》、《达洛维夫人》、《海浪》等作品详解
+- [鲁迅 (Lu Xun)](western-philosophy/20th-century/literary-philosophers/Luxun.md) - 启蒙理性与国民性批判、现实主义文学观、精神分析洞察
+- [鲁迅作品深度分析 (Luxun Works Analysis)](western-philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md) - 《呐喊》、《彷徨》、《朝花夕拾》等作品详解
+- [巴金 (Ba Jin)](western-philosophy/20th-century/literary-philosophers/BaJin.md) - 人道主义与博爱精神、家庭伦理批判、文学社会责任
+- [巴金作品深度分析 (BaJin Works Analysis)](western-philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md) - 《家》、《春》、《秋》等作品详解
+- [老舍 (Lao She)](western-philosophy/20th-century/literary-philosophers/LaoShe.md) - 都市民本主义、人性探索与文化批判、语言艺术与幽默哲学
+- [老舍作品深度分析 (LaoShe Works Analysis)](western-philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md) - 《骆驼祥子》、《四世同堂》、《茶馆》等作品详解
+- [沈从文 (Shen Congwen)](western-philosophy/20th-century/literary-philosophers/ShenCongwen.md) - 乡土人文主义、美学理想与艺术追求、文化反思与现代批判
+- [沈从文作品深度分析 (ShenCongwen Works Analysis)](western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md) - 《边城》、《长河》、《湘行散记》等作品详解
 
 #### 5.7 20世纪哲学 (20th Century Philosophy)
 ##### 5.7.1 分析哲学 (Analytic Philosophy)
-- [路德维希·维特根斯坦 (Ludwig Wittgenstein)](philosophy/20th-century/analytic/Wittgenstein.md) - 早期逻辑原子主义，后期语言游戏理论
-- [路德维希·维特根斯坦(后期)](philosophy/20th-century/analytic/WittgensteinLater.md) - 语言哲学革命，哲学作为治疗
+- [路德维希·维特根斯坦 (Ludwig Wittgenstein)](western-philosophy/20th-century/analytic/Wittgenstein.md) - 早期逻辑原子主义，后期语言游戏理论
+- [路德维希·维特根斯坦(后期)](western-philosophy/20th-century/analytic/WittgensteinLater.md) - 语言哲学革命，哲学作为治疗
 
 ##### 5.7.2 大陆哲学 (Continental Philosophy)
-- [马丁·海德格尔 (Martin Heidegger)](philosophy/20th-century/continental/Heidegger.md) - 存在与时间，基础存在论
-- [埃德蒙德·胡塞尔 (Edmund Husserl)](philosophy/20th-century/continental/Husserl.md) - 现象学创始人，意向性理论
+- [马丁·海德格尔 (Martin Heidegger)](western-philosophy/20th-century/continental/Heidegger.md) - 存在与时间，基础存在论
+- [埃德蒙德·胡塞尔 (Edmund Husserl)](western-philosophy/20th-century/continental/Husserl.md) - 现象学创始人，意向性理论
 
 #### 5.8 当代哲学 (Contemporary Philosophy)
 ##### 5.8.1 应用伦理学 (Applied Ethics)
-- [彼得·辛格 (Peter Singer)](philosophy/contemporary/applied-ethics/PeterSinger.md) - 功利主义，动物权利，有效利他主义
+- [彼得·辛格 (Peter Singer)](western-philosophy/contemporary/applied-ethics/PeterSinger.md) - 功利主义，动物权利，有效利他主义
 
 ### 7. ⚖️ 法家与社会治理 (Legalism & Organizational Psychology)
 **描述 (Description):** 剖析法家作为一种极度务实的管理心理学与权力博弈逻辑。
 *Categories: Fa (法 - Law), Shu (术 - Method), Shi (势 - Authority).*
 
-- [法家管理心理学 (Legalist Management Psychology)](legalism/Legalist_Management_Psychology.md)
-- [职场心理危机干预 (Workplace Crisis Intervention)](workplace/Workplace_Psychological_Crisis_Intervention.md)
+- [法家管理心理学 (Legalist Management Psychology)](legalist-management/Legalist_Management_Psychology.md)
+- [职场心理危机干预 (Workplace Crisis Intervention)](workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
 
 ### 8. ☸️ 佛教与全球灵性疗愈 (Buddhist & Global Spiritual Wisdom)
 **描述 (Description):** 整合金刚乘、显教、伊斯兰净心术、萨满及三教合一智慧。
 *Categories: Nirvana (涅槃 - *Nirvāṇa*), Tazkiyah (净心 - *Tazkiyah*), Fitra (天性 - *Fiṭra*), Grace (恩典 - *Charis*).*
 
-- [三教合一：儒释道融合 (Syncretism)](buddhism/Syncretism_Three_Teachings.md)
-- [金刚乘/密宗核心 (Vajrayana/Tantra)](buddhism/Wisdom_Vajrayana_Tantra_Core.md)
-- [佛教疗愈心理学 (Buddhist Psychology)](buddhism/Wisdom_Buddhism_Healing_Psychology.md)
-- [藏地治愈艺术 (Tibetan Healing Arts)](buddhism/Wisdom_Tibetan_Healing_Arts.md)
-- [大手印：显实圆融 (Mahamudra)](buddhism/Wisdom_Mahamudra_Great_Seal.md)
+- [三教合一：儒释道融合 (Syncretism)](buddhism/Buddhism_Syncretism_Three_Teachings.md)
+- [金刚乘/密宗核心 (Vajrayana/Tantra)](buddhism/Buddhism_Vajrayana_Foundation.md)
+- [佛教疗愈心理学 (Buddhist Psychology)](buddhism/Buddhism_Mindfulness_Therapy_Integration.md)
+- [藏地治愈艺术 (Tibetan Healing Arts)](tibetan-buddhism/Tibetan_Healing_Arts.md)
+- [大手印：显实圆融 (Mahamudra)](mahamudra/Mahamudra_Great_Seal.md)
 
 **藏地疗愈系统 (Tibetan Healing Systems):**
 - [藏医学：索瓦日巴 (Tibetan Medicine / Sowa Rigpa)](tibetan/Tibetan_Medicine_Sowa_Rigpa.md) - 三因学说、七身要素、脉诊尿诊、藏药体系、四续医典
@@ -342,12 +342,22 @@
 - [儿童认知发展与学习障碍 (Child Cognitive Development & Learning Disorders)](child-development-psychology/cognitive-development/Child_Cognitive_Development_Learning_Disorders.md) - 认知发展轨迹、注意力系统、记忆发展、执行功能、学习障碍识别与干预
 - [儿童情绪发展与行为问题干预 (Child Emotional Development & Behavioral Intervention)](child-development-psychology/social-emotional/Child_Emotional_Development_Behavioral_Intervention.md) - 情绪发展阶段性特征、焦虑抑郁障碍、对立违抗障碍、循证干预技术
 - [儿童社会性发展与同伴关系 (Child Social Development & Peer Relationships)](child-development-psychology/social-emotional/Child_Social_Development_Peer_Relationships.md) - 社会认知发展、同伴关系发展轨迹、社会技能培养、同伴关系问题干预
+- [儿童发展评估工具 (Child Development Assessment Tools)](child-development-psychology/assessment-tools/Child_Development_Assessment_Tools.md) - 标准化评估量表、发展筛查工具、诊断性访谈、观察评估方法 ✅
+- [儿童临床干预实践指南 (Child Clinical Intervention Guide)](child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md) - 循证治疗方法、家庭干预策略、学校合作模式、个案管理流程 ✅
+- [儿童发展实用工具箱 (Child Development Toolkit)](child-development-psychology/assessment-tools/Child_Development_Toolkit.md) - 发展里程碑检查表、行为观察记录表、家长指导手册、教师合作指南 ✅
+- [儿童青少年研究方法与案例分析 (Child & Adolescent Research Methods & Case Studies)](child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md) - 研究设计、数据收集、案例分析、质量控制 ✅
 
 **青少年心理学专业体系 (Adolescent Psychology Professional System):**
 - [青少年发展理论与大脑发育 (Adolescent Development Theory & Brain Development)](adolescent-psychology/development-theory/Adolescent_Development_Theory_Brain.md) - 青春期大脑重塑、神经内分泌变化、身心发展双重任务、社会文化影响
 - [青少年身份认同与自我概念发展 (Adolescent Identity & Self-Concept Development)](adolescent-psychology/identity-formation/Adolescent_Identity_Self_Concept.md) - 身份状态理论、自我概念多维度发展、身份危机与整合、文化背景影响
 - [青少年情绪调节与心理健康 (Adolescent Emotional Regulation & Mental Health)](adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md) - 青少年情绪特征、抑郁焦虑障碍、情绪调节干预技术、积极心理健康促进
 - [青少年危机干预与自杀预防 (Adolescent Crisis Intervention & Suicide Prevention)](adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md) - 危机风险识别、干预核心原则、自杀预防体系、家庭社区支持
+- [青少年心理学评估工具 (Adolescent Psychology Assessment Tools)](adolescent-psychology/assessment-tools/Adolescent_Psychology_Assessment_Tools.md) - 心理健康筛查、危机风险评估、身份认同测量、特殊问题评估 ✅
+- [青少年临床干预实践指南 (Adolescent Clinical Intervention Guide)](adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md) - DBT-A、CBT-A、家庭治疗、危机干预、同伴支持 ✅
+- [青少年发展实用工具箱 (Adolescent Relationship Toolkit)](adolescent-psychology/social-relationships/Adolescent_Relationship_Toolkit.md) - 身份探索工作表、情绪调节练习、危机识别清单、同伴关系评估表 ✅
+
+**专业质量评估报告:**
+- [儿童发展心理学质量报告 (Child Development Quality Report)](child-development-psychology/Child_Development_Quality_Report.md) - 完整性评估、学术规范性检查、实践指导性评价、改进建议 ✅
 
 **宗教心理学专业体系 (Religious Psychology Professional System):**
 - [宗教心理学概览 (Religious Psychology Overview)](religious-psychology/Religious_Psychology_Overview.md) - 核心术语、学科发展、理论基础、研究方法、临床应用、未来趋势
@@ -358,9 +368,30 @@
 
 **政治心理学专业体系 (Political Psychology Professional System):**
 - [政治心理学概览 (Political Psychology Overview)](political-psychology/Political_Psychology_Overview.md) - 政治认知、态度与意识形态、政治行为与决策、群体政治心理学、政治领导力、政治传播与舆论
+- [政治心理学核心理论与模型 (Political Psychology Theories & Models)](political-psychology/theory-models/Political_Psychology_Theories_Models.md) - 政治认知理论、态度理论、行为决策理论、群体动力学、领导力理论、传播理论
+- [政治心理学临床应用与干预 (Political Psychology Clinical Applications & Interventions)](political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md) - 政治创伤干预、极端化干预、焦虑管理、冲突调解、民主素养提升
+- [政治心理学测量工具与研究方法 (Political Psychology Measurement & Research Methods)](political-psychology/measurement-methods/Political_Psychology_Measurement_Research_Methods.md) - 态度测量、行为评估、群体研究、领导力评估、研究设计
 
 **政党忠诚心理学专业体系 (Party Loyalty Psychology Professional System):**
 - [政党忠诚心理学概览 (Party Loyalty Psychology Overview)](party-loyalty-psychology/Party_Loyalty_Psychology_Overview.md) - 忠诚心理机制、群体认同、忠诚形成与发展、忠诚维持与强化、跨文化比较、测量评估
+- [政党忠诚心理学理论模型与影响因素 (Party Loyalty Psychology Theoretical Models & Influencing Factors)](party-loyalty-psychology/loyalty-mechanisms/Party_Loyalty_Psychology_Theoretical_Models.md) - 忠诚形成理论、群体认同机制、认知加工维护、情感联结强化、社会影响塑造
+- [政党忠诚心理学社会影响与干预策略 (Party Loyalty Psychology Social Impact & Intervention Strategies)](party-loyalty-psychology/social-influence/Party_Loyalty_Psychology_Social_Impact_Intervention.md) - 社会功能影响、群体动力整合、政治极化管理、民主质量提升、分裂风险防控
+- [政党忠诚心理学测量评估与案例分析 (Party Loyalty Psychology Measurement Assessment & Case Analysis)](party-loyalty-psychology/group-identity/Party_Loyalty_Psychology_Measurement_Case_Analysis.md) - 核心测量工具、评估指标标准、数据分析方法、典型案例分析、跨文化比较研究
+
+**职业心理学专业体系 (Vocational Psychology Professional System):**
+- [职业心理学概览 (Vocational Psychology Overview)](vocational-psychology/Vocational_Psychology_Overview.md) - 核心理论、评估工具、临床应用、研究方法、细分领域
+- [职业心理学理论框架 (Vocational Psychology Theory Framework)](vocational-psychology/theory/Vocational_Psychology_Theory_Framework.md) - 经典理论体系、现代发展模型、理论整合应用
+- [职业心理学评估工具 (Vocational Psychology Assessment Tools)](vocational-psychology/assessment/Vocational_Psychology_Assessment_Tools.md) - 标准化测评体系、质量控制标准、数字化评估发展
+- [职业心理学临床应用 (Vocational Psychology Clinical Applications)](vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md) - 治疗干预技术、危机管理策略、特殊群体服务
+- [职业心理学研究方法 (Vocational Psychology Research Methods)](vocational-psychology/research/Vocational_Psychology_Research_Methods.md) - 研究设计体系、数据分析技术、质量控制标准
+- [职业心理学细分领域 (Vocational Psychology Specialized_Areas)](vocational-psychology/specialized/Vocational_Psychology_Specialized_Areas.md) - 创意产业、科技行业、医疗卫生、教育等专业领域
+- [职业心理学术语标准 (Vocational Psychology Terminology Standards)](vocational-psychology/Vocational_Psychology_Terminology_Standards.md) - 专业术语定义、词源解析、使用规范
+- [职业心理学案例指南 (Vocational Psychology Case Studies Guide)](vocational-psychology/Vocational_Psychology_Case_Studies_Guide.md) - 典型案例分析、实践操作指导
+- [职业心理学前沿趋势 (Vocational Psychology Frontiers Trends)](vocational-psychology/Vocational_Psychology_Frontiers_Trends.md) - 新兴研究、技术应用、发展展望
+- [职业心理学质量评估报告 (Vocational Psychology Quality Report)](vocational-psychology/Vocational_Psychology_Quality_Report.md) - 体系完整性评估、专业标准符合度、持续改进建议
+- [职业心理学增强总结 (Vocational Psychology Enhancement Summary)](vocational-psychology/Vocational_Psychology_Enhancement_Summary.md) - 查漏补缺项目总结、成果展示、发展建议
+- [职业心理学最终质量审查 (Vocational Psychology Final Quality Review)](vocational-psychology/Vocational_Psychology_Final_Quality_Review.md) - 最终质量验证、标准符合性确认、体系成熟度评估
+- [职业心理学循证实践指南 (Vocational Psychology Evidence-Based Practice Guide)](vocational-psychology/Vocational_Psychology_Evidence_Based_Practice_Guide.md) - 最新研究证据、实证支持技术、质量评估标准
 
 - [心理治疗技术详表 (Therapy Techniques)](psychology/Psychology_Therapy_Techniques.md) - CBT技术、暴露疗法、DBT技能、ACT技术、精神分析技术、人本主义技术、EMDR、动机访谈、图式疗法、家庭系统疗法、叙事疗法
 - [核心理论与经典实验 (Theories & Experiments)](psychology/Psychology_Theories_Experiments.md)
@@ -541,12 +572,14 @@
   - [政策法规与伦理框架 (Policy Law Ethics Framework)](child-adolescent-sexuality/theory/Policy_Law_Ethics_Framework.md) - 国际政策框架、国家政策体系、伦理指导原则、风险防控体系
 - [实践与支持体系 (Practice & Support System)](child-adolescent-sexuality/practice/)
   - [师资培训与发展体系 (Faculty Training System)](child-adolescent-sexuality/practice/Faculty_Training_Development_System.md) - 师资胜任力框架、培训课程体系、培训实施体系、评估与认证体系
+  - [教育教学工具包 (Educational Toolkit)](child-adolescent-sexuality/practice/Educational_Toolkit_Practice_Guide.md) - 标准化活动模板、评估工具系统、资源模板库、实施支持工具
 - [评估与质量保障 (Assessment & Quality Assurance)](child-adolescent-sexuality/assessment/)
   - [质量评估体系 (Quality Assessment System)](child-adolescent-sexuality/assessment/Quality_Assessment_System.md) - 质量保障框架设计、评估指标体系、评估方法与工具、质量监控与改进机制
 - [特殊群体支持 (Special Populations Support)](child-adolescent-sexuality/special-populations/)
   - [特殊群体支持体系 (Special Populations Support)](child-adolescent-sexuality/special-populations/Special_Populations_Support_System.md) - LGBTQ+群体支持、残障人士性教育、社会经济弱势群体支持、创伤经历群体支持
 - [数字化创新实践 (Digital Innovation Practices)](child-adolescent-sexuality/digital-resources/)
   - [数字化资源与创新实践 (Digital Innovation Practices)](child-adolescent-sexuality/digital-resources/Digital_Innovation_Practices.md) - 核心技术应用体系、移动学习与微学习、游戏化学习设计、平台生态系统建设、安全与伦理保障
+  - [国际最佳实践与比较研究 (International Best Practices)](child-adolescent-sexuality/digital-resources/International_Best_Practices_Comparative_Study.md) - 全球发展格局、跨国比较分析、本土化适应策略、未来发展趋势
 
 ### 7.16 🇨🇳 中国社会性焦虑研究 (Sexual Anxiety in Chinese Society)
 **描述 (Description):** 构建完整的中国社会性焦虑专业内容体系，基于生物-心理-社会-技术四维分析模型，深入研究性焦虑的形成机制、临床表现、干预策略和社会影响，提供本土化的理论框架和循证实践指导。
@@ -566,6 +599,12 @@
 - [质量认证报告 (Quality Certification Report)](sexual-anxiety-china/Quality_Certification_Report.md) - 专业内容体系质量评估和认证
 - [用户体验指南 (User Experience Guide)](sexual-anxiety-china/User_Experience_Guide.md) - 学习路径推荐、用户群体使用建议、实用工具使用指南
 - [前沿技术整合 (Frontier Technology Integration)](sexual-anxiety-china/Frontier_Technology_Integration.md) - AI、VR、生物传感等前沿技术在中国性焦虑研究中的应用与整合发展
+- [实证研究方法 (Empirical Research Methods)](sexual-anxiety-china/Empirical_Research_Methods.md) - 研究设计框架、测量工具体系、数据分析方法、质量控制标准
+- [政策分析与治理 (Policy Analysis Governance)](sexual-anxiety-china/Policy_Analysis_Governance.md) - 政策环境评估、治理体系构建、青年群体专项政策、跨文化治理策略
+- [青年群体干预 (Youth Population Intervention)](sexual-anxiety-china/Youth_Population_Intervention.md) - 分年龄段干预策略、特殊群体关注、技术创新应用、预防教育体系
+- [跨文化比较研究 (Cross Cultural Comparative Study)](sexual-anxiety-china/Cross_Cultural_Comparative_Study.md) - 文化维度理论应用、国际比较分析、文化适应性策略、中国模式构建
+- [未来趋势与战略规划 (Future Trends Strategic Planning)](sexual-anxiety-china/Future_Trends_Strategic_Planning.md) - 发展环境分析、战略发展方向、重点发展领域、创新发展策略
+- [案例研究与实践汇编 (Case Studies Practice Compilation)](sexual-anxiety-china/Case_Studies_Practice_Compilation.md) - 典型案例分析、群体干预案例、数字化干预案例、成功经验总结
 
 ### 7.15 🇨🇳 中国社会性压抑研究 (Sexual Repression in Chinese Society)
 **描述 (Description):** 系统研究中国社会性压抑现象的专业内容体系，深入分析传统文化影响、现代社会机制、心理学创伤、社会学结构等多维度问题，提供本土化的理论框架和实践指导。
@@ -1644,12 +1683,16 @@
 ## 📊 项目统计与发展规划
 
 ### 📈 当前规模
-- **文档总数**: 920 份专业文档 (+10份儿童青少年性教育新增文档)
-- **专题领域**: 95+ 个核心主题 (+4个专业内容体系)
-- **内容页数**: 207,500+ 行核心内容 (+9,750行新增专业内容)
-- **儿童发展心理学专业文档**: 4份完整的学术级专业文档 👶
-- **青少年心理学专业文档**: 4份完整的学术级专业文档 🧒
-- **儿童及青少年性教育专业文档**: 10份完整的学术级专业文档 👶👧👦
+- **文档总数**: 959 份专业文档 (+1份研究方法新增文档)
+- **专题领域**: 97+ 个核心主题 (+1个专业内容体系)
+- **内容页数**: 227,212+ 行核心内容 (+412行新增专业内容)
+- **宗教心理学专业文档**: 5份完整的学术级专业文档 📖
+- **政治心理学专业文档**: 4份完整的学术级专业文档 🏛️
+- **政党忠诚心理学专业文档**: 4份完整的学术级专业文档 🎖️
+- **儿童发展心理学专业文档**: 9份完整的学术级专业文档 👶
+- **青少年心理学专业文档**: 7份完整的学术级专业文档 🧒
+- **专业质量评估报告**: 1份完整的质量评估报告 📊
+- **儿童及青少年性教育专业文档**: 16份完整的学术级专业文档 👶👧👦
 - **SPA专业文档**: 7份完整的学术级专业文档 🛁
 - **中医推拿专业文档**: 7份完整的学术级专业文档 🤲
 - **跨文化比较分析**: 1份国际对比研究报告 🌍
