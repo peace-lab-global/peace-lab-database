@@ -17,6 +17,10 @@
 - [经典电影专业影评合集](classic-film-criticism/) - 26部经典电影的深度学术分析，包含《疤面煞星》《好家伙》《美国往事》《教父》全系列等
 - [专业影评索引](classic-film-criticism/INDEX.md) - 完整的影评导航和阅读建议
 
+#### 电影明星专业分析
+- [电影明星专业分析合集](actors/) - 20位国际知名电影明星的深度专业分析
+- [演员分析索引](actors/INDEX.md) - 完整的演员分析导航和理论框架
+
 #### 现代影视作品分析
 - [《绝命毒师》专业影评合集](film-criticism/breaking-bad/) - AMC经典美剧的六维度专业分析
 - [《女仆》(2026) 专业影评合集](film-criticism/the-housemaid-2026/) - 心理惊悚片的学术批评与临床应用
@@ -50,6 +54,12 @@ cinema/
 │   ├── INDEX.md                      # 经典影评索引
 │   ├── Therapy_Application_Guide.md  # 临床应用指南
 │   └── [更多影评文件...]
+├── actors/                           # 电影明星专业分析
+│   ├── INDEX.md                      # 演员分析索引
+│   ├── batch-1/                      # 第一批次演员分析(5位)
+│   ├── batch-2/                      # 第二批次演员分析(5位)
+│   ├── batch-3/                      # 第三批次演员分析(5位)
+│   └── batch-4/                      # 第四批次演员分析(5位)
 ├── film-criticism/                   # 现代影视作品分析
 │   ├── breaking-bad/                 # 《绝命毒师》分析
 │   └── the-housemaid-2026/           # 《女仆》(2026)分析
@@ -69,6 +79,7 @@ cinema/
 
 **学术研究人员**：
 - 从 [经典电影专业影评合集](classic-film-criticism/) 开始，按 [索引](classic-film-criticism/INDEX.md) 选择感兴趣的作品
+- 查阅 [电影明星专业分析](actors/) 研究杰出演员的表演艺术和文化影响
 - 参考 [媒体疗法概览](Media_Therapy_Overview.md) 的理论基础部分
 
 **影视爱好者**：
