@@ -114,6 +114,6 @@
 *本专业内容体系将持续更新和完善，致力于推动该领域的健康发展和学术进步。*
 
 **相关专业领域文档：**
-- [性学研究概览](../sexuality/Sexuality_Overview.md) - 性学研究的基础理论框架
-- [出轨心理学](../relationships/infidelity/Infidelity_Psychology.md) - 相关关系行为分析
+- [性学研究概览](../Sexuality_Overview.md) - 性学研究的基础理论框架
+- [出轨心理学](../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology.md) - 相关关系行为分析
 - [乱伦研究框架](../incest/Incest_Research_Framework.md) - 相关创伤研究内容

@@ -14,7 +14,7 @@
 *（详见上述原有内容）*
 
 ### 6. 《出租车司机》专业影评
-**文件名**: [movies/batch-1/Taxi_Driver_Professional_Critique.md](./movies/batch-1/Taxi_Driver_Professional_Critique.md)  
+**文件名**: [movies/batch-1/Taxi_Driver_Professional_Critique.md](./Taxi_Driver_Professional_Critique.md)  
 **篇幅**: 约316行  
 **主要内容**:
 - 存在主义心理学视角的都市异化分析
@@ -25,7 +25,7 @@
 **适用读者**: 电影研究学者、心理学研究者、都市社会学专家、文化批评家
 
 ### 7. 《闪灵》专业影评
-**文件名**: [movies/batch-1/The_Shining_Professional_Critique.md](./movies/batch-1/The_Shining_Professional_Critique.md)  
+**文件名**: [movies/batch-1/The_Shining_Professional_Critique.md](./The_Shining_Professional_Critique.md)  
 **篇幅**: 约317行  
 **主要内容**:
 - 精神分析学的恐怖心理机制分析
@@ -36,7 +36,7 @@
 **适用读者**: 心理学研究者、恐怖电影研究专家、家庭治疗师、创伤研究学者
 
 ### 8. 《银翼杀手》专业影评
-**文件名**: [movies/batch-1/Blade_Runner_Professional_Critique.md](./movies/batch-1/Blade_Runner_Professional_Critique.md)  
+**文件名**: [movies/batch-1/Blade_Runner_Professional_Critique.md](./Blade_Runner_Professional_Critique.md)  
 **篇幅**: 约326行  
 **主要内容**:
 - 后人类主义理论的人机身份认同探讨
@@ -47,7 +47,7 @@
 **适用读者**: 科技哲学研究者、科幻文化学者、人工智能伦理专家、后现代理论研究者
 
 ### 9. 《华尔街》专业影评
-**文件名**: [movies/batch-1/Wall_Street_Professional_Critique.md](./movies/batch-1/Wall_Street_Professional_Critique.md)  
+**文件名**: [movies/batch-1/Wall_Street_Professional_Critique.md](./Wall_Street_Professional_Critique.md)  
 **篇幅**: 约323行  
 **主要内容**:
 - 金融社会学的市场道德风险分析
@@ -58,7 +58,7 @@
 **适用读者**: 金融研究学者、商业伦理专家、组织行为学研究者、政治经济学学者
 
 ### 10. 《雨人》专业影评
-**文件名**: [movies/batch-1/Rain_Man_Professional_Critique.md](./movies/batch-1/Rain_Man_Professional_Critique.md)  
+**文件名**: [movies/batch-1/Rain_Man_Professional_Critique.md](./Rain_Man_Professional_Critique.md)  
 **篇幅**: 约325行  
 **主要内容**:
 - 发展心理学的自闭症认知特征分析
@@ -69,7 +69,7 @@
 **适用读者**: 发展心理学研究者、特殊教育专家、神经科学研究者、家庭治疗师
 
 ### 1. 《疤面煞星》专业影评
-**文件名**: [scarface/Scarface_Professional_Critique.md](./scarface/Scarface_Professional_Critique.md)  
+**文件名**: [scarface/Scarface_Professional_Critique.md](./Scarface_Professional_Critique.md)  
 **篇幅**: 约314行  
 **主要内容**:
 - 后殖民理论视角的移民身份认同分析
@@ -81,7 +81,7 @@
 **适用读者**: 电影研究学者、社会学研究者、文化批评家、政治经济学研究者
 
 ### 2. 《好家伙》专业影评
-**文件名**: [goodfellas/Goodfellas_Professional_Critique.md](./goodfellas/Goodfellas_Professional_Critique.md)  
+**文件名**: [goodfellas/Goodfellas_Professional_Critique.md](./Goodfellas_Professional_Critique.md)  
 **篇幅**: 约312行  
 **主要内容**:
 - 民族志研究方法的社区文化分析
@@ -93,7 +93,7 @@
 **适用读者**: 人类学研究者、文化研究学者、叙事学研究者、族群研究专家
 
 ### 3. 《美国往事》专业影评
-**文件名**: [once-upon-a-time-in-america/Once_Upon_Time_America_Professional_Critique.md](./once-upon-a-time-in-america/Once_Upon_Time_America_Professional_Critique.md)  
+**文件名**: [once-upon-a-time-in-america/Once_Upon_Time_America_Professional_Critique.md](./Once_Upon_Time_America_Professional_Critique.md)  
 **篇幅**: 约319行  
 **主要内容**:
 - 记忆研究理论的集体记忆建构分析
@@ -105,7 +105,7 @@
 **适用读者**: 历史学研究者、记忆研究学者、精神分析学研究者、移民史专家
 
 ### 4. 《教父》全系列专业影评
-**文件名**: [godfather-series/Godfather_Series_Professional_Critique.md](./godfather-series/Godfather_Series_Professional_Critique.md)  
+**文件名**: [godfather-series/Godfather_Series_Professional_Critique.md](./Godfather_Series_Professional_Critique.md)  
 **篇幅**: 约341行  
 **主要内容**:
 - 组织社会学的家族企业治理结构分析
@@ -117,7 +117,7 @@
 **适用读者**: 管理学研究者、组织行为学学者、家族企业研究专家、战略管理教授
 
 ### 5. 马龙·白兰度晚年作品分析
-**文件名**: [marlon-brando/Marlon_Brando_New_Films_Professional_Analysis.md](./marlon-brando/Marlon_Brando_New_Films_Professional_Analysis.md)  
+**文件名**: [marlon-brando/Marlon_Brando_New_Films_Professional_Analysis.md](../actors/Marlon_Brando_New_Films_Professional_Analysis.md)  
 **篇幅**: 约290行  
 **主要内容**:
 - 表演人类学的演技技法演变研究
@@ -276,11 +276,12 @@
 - 跨学科研究方法指南
 
 ### 项目内相关链接
-- [电影疗法](../media/Television_Therapy.md) - 长期叙事陪伴机制
-- [媒体临床应用](../media/Media_Clinical_Applications.md) - 病理专项媒体处方
-- [叙事治疗](../psychology/Narrative_Therapy.md) - 故事重构与意义建构
-- [文化心理学](../psychology/Cultural_Psychology.md) - 文化背景下的心理分析
-- [组织行为学](../psychology/Organizational_Behavior.md) - 组织中的个体与群体行为
+- [电视剧疗法](../../tv/television-therapy/Television_Therapy.md) - 长期叙事陪伴机制
+- [媒体临床应用](../../media-therapy/Media_Clinical_Applications.md) - 病理专项媒体处方
+- [媒体安全伦理](../../media-therapy/Media_Safety_Ethics.md) - 触发警示与内容分级
+- [心理学流派与理论体系](../../../../02-Mind-Psychology/psychology/overview/Psychology_Schools_Theories.md) - 理论框架与方法论
+- [职业与组织心理](../../../../02-Mind-Psychology/psychology/vocational-psychology/) - 组织中的个体与群体行为
+- [人际与社会心理](../../../../02-Mind-Psychology/psychology/friendship/) - 社会关系与互动心理
 
 ### 延伸阅读
 - 同类型影片比较研究
@@ -302,7 +303,7 @@
 ### 明星研究篇 (5篇)
 
 ### 1. Robert De Niro 专业分析
-**文件名**: [actors/batch-1/Robert_De_Niro_Professional_Analysis.md](./actors/batch-1/Robert_De_Niro_Professional_Analysis.md)  
+**文件名**: [actors/batch-1/Robert_De_Niro_Professional_Analysis.md](../actors/Robert_De_Niro_Professional_Analysis.md)  
 **篇幅**: 约290行  
 **主要内容**:
 - 表演人类学视角的方法派表演艺术传承
@@ -313,7 +314,7 @@
 **适用读者**: 表演艺术研究者、电影产业学者、明星文化研究专家、传记文学爱好者
 
 ### 2. Jack Nicholson 专业分析
-**文件名**: [actors/batch-1/Jack_Nicholson_Professional_Analysis.md](./actors/batch-1/Jack_Nicholson_Professional_Analysis.md)  
+**文件名**: [actors/batch-1/Jack_Nicholson_Professional_Analysis.md](../actors/Jack_Nicholson_Professional_Analysis.md)  
 **篇幅**: 约302行  
 **主要内容**:
 - 表演心理学的反叛精神艺术表达
@@ -324,7 +325,7 @@
 **适用读者**: 心理学研究者、美国文化学者、明星研究专家、传记批评学者
 
 ### 3. Meryl Streep 专业分析
-**文件名**: [actors/batch-1/Meryl_Streep_Professional_Analysis.md](./actors/batch-1/Meryl_Streep_Professional_Analysis.md)  
+**文件名**: [actors/batch-1/Meryl_Streep_Professional_Analysis.md](../actors/Meryl_Streep_Professional_Analysis.md)  
 **篇幅**: 约302行  
 **主要内容**:
 - 表演人类学的女演员表演艺术发展
@@ -335,7 +336,7 @@
 **适用读者**: 女性主义研究者、表演艺术学者、文化产业专家、女性电影史研究者
 
 ### 4. Denzel Washington 专业分析
-**文件名**: [actors/batch-1/Denzel_Washington_Professional_Analysis.md](./actors/batch-1/Denzel_Washington_Professional_Analysis.md)  
+**文件名**: [actors/batch-1/Denzel_Washington_Professional_Analysis.md](../actors/Denzel_Washington_Professional_Analysis.md)  
 **篇幅**: 约300行  
 **主要内容**:
 - 种族研究的非裔演员文化突破分析
@@ -346,7 +347,7 @@
 **适用读者**: 种族研究学者、非裔文化研究专家、文化产业学者、美国研究学者
 
 ### 5. Cate Blanchett 专业分析
-**文件名**: [actors/batch-1/Cate_Blanchett_Professional_Analysis.md](./actors/batch-1/Cate_Blanchett_Professional_Analysis.md)  
+**文件名**: [actors/batch-1/Cate_Blanchett_Professional_Analysis.md](../actors/Cate_Blanchett_Professional_Analysis.md)  
 **篇幅**: 约302行  
 **主要内容**:
 - 表演人类学的国际化表演技艺发展
@@ -358,30 +359,9 @@
 
 ### 12-16. 第二批次新增电影影评（5篇）
 
-### 12. 《肖申克的救赎》专业影评
-**文件名**: [movies/batch-2/The_Shawshank_Redemption_Professional_Critique.md](./movies/batch-2/The_Shawshank_Redemption_Professional_Critique.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 监狱社会学的制度化生存机制分析
-- 希望心理学的绝望与重生主题探讨
-- 叙事治疗学的创伤修复与意义建构
-- 制度批判理论的权力结构解构
-
-**适用读者**: 监狱研究学者、心理学研究者、叙事治疗专家、制度批判理论学者
-
-### 13. 《楚门的世界》专业影评
-**文件名**: [movies/batch-2/The_Truman_Show_Professional_Critique.md](./movies/batch-2/The_Truman_Show_Professional_Critique.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 媒体社会学的真人秀文化批判
-- 存在主义哲学的真实与虚假辨析
-- 监控社会理论的全景敞视机制分析
-- 后现代理论的拟像与仿真探讨
-
-**适用读者**: 媒体研究学者、哲学研究者、社会学专家、后现代理论研究者
 
 ### 14. 《辛德勒的名单》专业影评
-**文件名**: [movies/batch-2/Schindlers_List_Professional_Critique.md](./movies/batch-2/Schindlers_List_Professional_Critique.md)  
+**文件名**: [movies/batch-2/Schindlers_List_Professional_Critique.md](./Schindlers_List_Professional_Critique.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 大屠杀研究的历史记忆与见证分析
@@ -392,7 +372,7 @@
 **适用读者**: 历史学研究者、道德哲学学者、人道主义研究专家、创伤研究学者
 
 ### 15. 《阿甘正传》专业影评
-**文件名**: [movies/batch-2/Forrest_Gump_Professional_Critique.md](./movies/batch-2/Forrest_Gump_Professional_Critique.md)  
+**文件名**: [movies/batch-2/Forrest_Gump_Professional_Critique.md](./Forrest_Gump_Professional_Critique.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 发展心理学的智力障碍者心理分析
@@ -403,7 +383,7 @@
 **适用读者**: 心理学研究者、美国文化学者、叙事学专家、文化研究学者
 
 ### 16. 《泰坦尼克号》专业影评
-**文件名**: [movies/batch-2/Titanic_Professional_Critique.md](./movies/batch-2/Titanic_Professional_Critique.md)  
+**文件名**: [movies/batch-2/Titanic_Professional_Critique.md](./Titanic_Professional_Critique.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 灾难社会学的集体创伤与记忆分析
@@ -415,41 +395,8 @@
 
 ### 6-10. 第二批次新增影星分析（5篇）
 
-### 6. Al Pacino 专业分析
-**文件名**: [actors/batch-2/Al_Pacino_Professional_Analysis.md](./actors/batch-2/Al_Pacino_Professional_Analysis.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 表演人类学的意大利裔演员艺术发展
-- 方法派表演研究的演技技法传承
-- 明星符号学的银幕硬汉形象建构
-- 美国梦研究的奋斗精神文化表达
-
-**适用读者**: 表演艺术研究者、方法派表演学者、明星文化专家、美国文化研究者
-
-### 7. Dustin Hoffman 专业分析
-**文件名**: [actors/batch-2/Dustin_Hoffman_Professional_Analysis.md](./actors/batch-2/Dustin_Hoffman_Professional_Analysis.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 表演人类学的犹太裔演员艺术成就
-- 性别表演研究的反串角色突破
-- 新好莱坞电影的创新精神体现
-- 文化研究的边缘群体艺术表达
-
-**适用读者**: 表演人类学学者、性别研究专家、电影史研究者、文化研究学者
-
-### 8. Sean Connery 专业分析
-**文件名**: [actors/batch-2/Sean_Connery_Professional_Analysis.md](./actors/batch-2/Sean_Connery_Professional_Analysis.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 表演人类学的苏格兰演员国际突破
-- 类型电影研究的邦德形象塑造
-- 明星符号学的绅士风度文化建构
-- 产业经济学的全球票房号召力
-
-**适用读者**: 表演艺术学者、类型电影专家、明星研究学者、电影产业分析师
-
 ### 9. Anthony Hopkins 专业分析
-**文件名**: [actors/batch-2/Anthony_Hopkins_Professional_Analysis.md](./actors/batch-2/Anthony_Hopkins_Professional_Analysis.md)  
+**文件名**: [actors/batch-2/Anthony_Hopkins_Professional_Analysis.md](../actors/Anthony_Hopkins_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 表演人类学的威尔士演员艺术传承
@@ -459,21 +406,10 @@
 
 **适用读者**: 表演人类学学者、心理学研究者、莎剧研究专家、英国文化学者
 
-### 10. Michelle Pfeiffer 专业分析
-**文件名**: [actors/batch-2/Michelle_Pfeiffer_Professional_Analysis.md](./actors/batch-2/Michelle_Pfeiffer_Professional_Analysis.md)  
-**篇幅**: 约304行  
-**主要内容**:
-- 表演人类学的女演员转型艺术
-- 女性主义电影研究的银幕形象演变
-- 明星符号学的性感女神文化建构
-- 产业经济学的商业价值与艺术坚持
-
-**适用读者**: 表演艺术学者、女性主义研究者、明星文化专家、电影产业分析师
-
 ### 17-21. 第三批次新增电影影评（5篇）
 
 ### 17. 《黑客帝国》专业影评
-**文件名**: [movies/batch-3/The_Matrix_Professional_Critique.md](./movies/batch-3/The_Matrix_Professional_Critique.md)  
+**文件名**: [movies/batch-3/The_Matrix_Professional_Critique.md](./The_Matrix_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 后人类主义理论的赛博朋克哲学思辨
@@ -484,7 +420,7 @@
 **适用读者**: 科技哲学研究者、虚拟现实技术学者、东方哲学研究者、技术批判理论专家
 
 ### 18. 《拯救大兵瑞恩》专业影评
-**文件名**: [movies/batch-3/Saving_Private_Ryan_Professional_Critique.md](./movies/batch-3/Saving_Private_Ryan_Professional_Critique.md)  
+**文件名**: [movies/batch-3/Saving_Private_Ryan_Professional_Critique.md](./Saving_Private_Ryan_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 战争电影研究的现实主义美学革新
@@ -495,7 +431,7 @@
 **适用读者**: 战争电影研究学者、创伤理论专家、男性研究学者、历史人类学研究者
 
 ### 19. 《穆赫兰道》专业影评
-**文件名**: [movies/batch-3/Mulholland_Drive_Professional_Critique.md](./movies/batch-3/Mulholland_Drive_Professional_Critique.md)  
+**文件名**: [movies/batch-3/Mulholland_Drive_Professional_Critique.md](./Mulholland_Drive_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 后现代主义理论的叙事结构解构
@@ -506,7 +442,7 @@
 **适用读者**: 后现代理论研究者、精神分析学学者、电影符号学专家、认知科学研究者
 
 ### 20. 《角斗士》专业影评
-**文件名**: [movies/batch-3/Gladiator_Professional_Critique.md](./movies/batch-3/Gladiator_Professional_Critique.md)  
+**文件名**: [movies/batch-3/Gladiator_Professional_Critique.md](./Gladiator_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 新历史主义理论的历史真实与艺术虚构
@@ -517,7 +453,7 @@
 **适用读者**: 历史主义研究学者、英雄叙事学专家、视觉文化研究者、政治哲学学者
 
 ### 21. 《泰坦尼克号》专业影评
-**文件名**: [movies/batch-3/Titanic_Professional_Critique.md](./movies/batch-3/Titanic_Professional_Critique.md)  
+**文件名**: [movies/batch-3/Titanic_Professional_Critique.md](./Titanic_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 电影工业研究的超级大片制作模式
@@ -530,7 +466,7 @@
 ### 11-15. 第三批次新增影星分析（5篇）
 
 ### 11. Leonardo DiCaprio 专业分析
-**文件名**: [actors/batch-3/Leonardo_DiCaprio_Professional_Analysis.md](./actors/batch-3/Leonardo_DiCaprio_Professional_Analysis.md)  
+**文件名**: [actors/batch-3/Leonardo_DiCaprio_Professional_Analysis.md](../actors/Leonardo_DiCaprio_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 明星研究的偶像转型与艺术成熟
@@ -541,7 +477,7 @@
 **适用读者**: 明星研究学者、表演人类学专家、环境传播学者、电影产业分析师
 
 ### 12. Kate Winslet 专业分析
-**文件名**: [actors/batch-3/Kate_Winslet_Professional_Analysis.md](./actors/batch-3/Kate_Winslet_Professional_Analysis.md)  
+**文件名**: [actors/batch-3/Kate_Winslet_Professional_Analysis.md](../actors/Kate_Winslet_Professional_Analysis.md)  
 **篇幅**: 约295行  
 **主要内容**:
 - 表演人类学的英国戏剧文化传承
@@ -552,7 +488,7 @@
 **适用读者**: 表演人类学学者、女性主义研究者、情感表演专家、英国文化研究者
 
 ### 13. Joaquin Phoenix 专业分析
-**文件名**: [actors/batch-3/Joaquin_Phoenix_Professional_Analysis.md](./actors/batch-3/Joaquin_Phoenix_Professional_Analysis.md)  
+**文件名**: [actors/batch-3/Joaquin_Phoenix_Professional_Analysis.md](../actors/Joaquin_Phoenix_Professional_Analysis.md)  
 **篇幅**: 约300行  
 **主要内容**:
 - 表演人类学的方法派表演艺术传承
@@ -563,7 +499,7 @@
 **适用读者**: 表演人类学学者、明星符号学专家、心理学研究者、文化批评学者
 
 ### 14. Frances McDormand 专业分析
-**文件名**: [actors/batch-3/Frances_McDormand_Professional_Analysis.md](./actors/batch-3/Frances_McDormand_Professional_Analysis.md)  
+**文件名**: [actors/batch-3/Frances_McDormand_Professional_Analysis.md](../actors/Frances_McDormand_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 独立电影研究的美学价值与艺术坚持
@@ -574,7 +510,7 @@
 **适用读者**: 独立电影研究学者、女性主义批评专家、表演人类学学者、美国文化研究者
 
 ### 15. Tilda Swinton 专业分析
-**文件名**: [actors/batch-3/Tilda_Swinton_Professional_Analysis.md](./actors/batch-3/Tilda_Swinton_Professional_Analysis.md)  
+**文件名**: [actors/batch-3/Tilda_Swinton_Professional_Analysis.md](../actors/Tilda_Swinton_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 艺术电影研究的美学探索与实验精神
@@ -587,7 +523,7 @@
 ### 22-26. 第四批次新增电影影评（5篇）
 
 ### 22. 《老无所依》专业影评
-**文件名**: [movies/batch-4/No_Country_for_Old_Men_Professional_Critique.md](./movies/batch-4/No_Country_for_Old_Men_Professional_Critique.md)  
+**文件名**: [movies/batch-4/No_Country_for_Old_Men_Professional_Critique.md](./No_Country_for_Old_Men_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 存在主义哲学的命运无常与道德选择
@@ -598,7 +534,7 @@
 **适用读者**: 存在主义哲学学者、西部片研究专家、道德哲学研究者、电影美学学者
 
 ### 23. 《黑暗骑士》专业影评
-**文件名**: [movies/batch-4/The_Dark_Knight_Professional_Critique.md](./movies/batch-4/The_Dark_Knight_Professional_Critique.md)  
+**文件名**: [movies/batch-4/The_Dark_Knight_Professional_Critique.md](./The_Dark_Knight_Professional_Critique.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 道德哲学的正义与邪恶辩证关系
@@ -609,7 +545,7 @@
 **适用读者**: 道德哲学研究学者、政治学理论专家、类型电影研究者、心理学学者
 
 ### 24. 《社交网络》专业影评
-**文件名**: [movies/batch-4/The_Social_Network_Professional_Critique.md](./movies/batch-4/The_Social_Network_Professional_Critique.md)  
+**文件名**: [movies/batch-4/The_Social_Network_Professional_Critique.md](./The_Social_Network_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 数字社会学的社交媒体与人际关系异化
@@ -620,7 +556,7 @@
 **适用读者**: 数字社会学研究者、创业研究学者、人际关系心理学专家、法律社会学学者
 
 ### 25. 《为奴十二年》专业影评
-**文件名**: [movies/batch-4/12_Years_a_Slave_Professional_Critique.md](./movies/batch-4/12_Years_a_Slave_Professional_Critique.md)  
+**文件名**: [movies/batch-4/12_Years_a_Slave_Professional_Critique.md](./12_Years_a_Slave_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 历史创伤理论的奴隶制残酷现实再现
@@ -631,7 +567,7 @@
 **适用读者**: 历史创伤理论学者、种族研究专家、见证文学研究者、电影美学学者
 
 ### 26. 《寄生虫》专业影评
-**文件名**: [movies/batch-4/Parasite_Professional_Critique.md](./movies/batch-4/Parasite_Professional_Critique.md)  
+**文件名**: [movies/batch-4/Parasite_Professional_Critique.md](./Parasite_Professional_Critique.md)  
 **篇幅**: 约298行  
 **主要内容**:
 - 阶级分析理论的空间政治与贫富差距
@@ -644,7 +580,7 @@
 ### 16-20. 第四批次新增影星分析（5篇）
 
 ### 16. Adam Driver 专业分析
-**文件名**: [actors/batch-4/Adam_Driver_Professional_Analysis.md](./actors/batch-4/Adam_Driver_Professional_Analysis.md)  
+**文件名**: [actors/batch-4/Adam_Driver_Professional_Analysis.md](../actors/Adam_Driver_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 军事社会学的军旅经历与表演艺术
@@ -655,7 +591,7 @@
 **适用读者**: 军事社会学学者、表演人类学专家、新生代文化研究者、心理学学者
 
 ### 17. Lupita Nyong'o 专业分析
-**文件名**: [actors/batch-4/Lupita_Nyongo_Professional_Analysis.md](./actors/batch-4/Lupita_Nyongo_Professional_Analysis.md)  
+**文件名**: [actors/batch-4/Lupita_Nyongo_Professional_Analysis.md](../actors/Lupita_Nyongo_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 后殖民女性主义的文化身份与政治表达
@@ -666,7 +602,7 @@
 **适用读者**: 后殖民女性主义学者、跨国表演研究专家、少数族裔明星学研究者、文化研究学者
 
 ### 18. Oscar Isaac 专业分析
-**文件名**: [actors/batch-4/Oscar_Isaac_Professional_Analysis.md](./actors/batch-4/Oscar_Isaac_Professional_Analysis.md)  
+**文件名**: [actors/batch-4/Oscar_Isaac_Professional_Analysis.md](../actors/Oscar_Isaac_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 拉丁裔研究的文化背景与身份认同
@@ -677,7 +613,7 @@
 **适用读者**: 拉丁裔研究学者、多元文化表演专家、类型片创新研究者、电影产业分析师
 
 ### 19. Saoirse Ronan 专业分析
-**文件名**: [actors/batch-4/Saoirse_Ronan_Professional_Analysis.md](./actors/batch-4/Saoirse_Ronan_Professional_Analysis.md)  
+**文件名**: [actors/batch-4/Saoirse_Ronan_Professional_Analysis.md](../actors/Saoirse_Ronan_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 儿童发展心理学的童星成长与心理适应
@@ -688,7 +624,7 @@
 **适用读者**: 儿童发展心理学学者、新生代文化研究专家、爱尔兰文化研究者、传记批评学者
 
 ### 20. Timothée Chalamet 专业分析
-**文件名**: [actors/batch-4/Timothee_Chalamet_Professional_Analysis.md](./actors/batch-4/Timothee_Chalamet_Professional_Analysis.md)  
+**文件名**: [actors/batch-4/Timothee_Chalamet_Professional_Analysis.md](../actors/Timothee_Chalamet_Professional_Analysis.md)  
 **篇幅**: 约304行  
 **主要内容**:
 - 新生代文化研究的Z世代价值观念

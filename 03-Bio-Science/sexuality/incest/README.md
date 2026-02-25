@@ -109,6 +109,6 @@
 *本专业内容体系将持续更新和完善，欢迎专业人士提供宝贵意见和建议。*
 
 **相关专业领域文档：**
-- [性学研究概览](../sexuality/Sexuality_Overview.md) - 性学研究的基础理论框架
-- [出轨心理学](../relationships/infidelity/Infidelity_Psychology.md) - 相关关系背叛行为分析
+- [性学研究概览](../Sexuality_Overview.md) - 性学研究的基础理论框架
+- [出轨心理学](../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology.md) - 相关关系背叛行为分析
 - [换妻研究框架](../swinging/Swinging_Research_Framework.md) - 相关行为模式研究

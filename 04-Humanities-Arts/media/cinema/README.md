@@ -9,13 +9,13 @@
 ## 核心模块
 
 ### 1. 电影疗法体系
-- [电影疗法概览](Cinema_Therapy_Overview.md) - 电影疗法的核心理论、类型学、神经机制和临床应用
-- [电影疗法实践指南](Cinema_Therapy_Guide.md) - 四阶段治疗协议、病理专项处方、整合技术详解
+- [电影疗法概览](cinema-therapy/Cinema_Therapy_Overview.md) - 电影疗法的核心理论、类型学、神经机制和临床应用
+- [电影疗法实践指南](cinema-therapy/Cinema_Therapy_Guide.md) - 四阶段治疗协议、病理专项处方、整合技术详解
 
 ### 2. 专业影评合集
 #### 经典电影专业影评
-- [经典电影专业影评合集](classic-film-criticism/) - 26部经典电影的深度学术分析，包含《疤面煞星》《好家伙》《美国往事》《教父》全系列等
-- [专业影评索引](classic-film-criticism/INDEX.md) - 完整的影评导航和阅读建议
+- [经典电影专业影评合集](film-criticism/) - 26部经典电影的深度学术分析，包含《疤面煞星》《好家伙》《美国往事》《教父》全系列等
+- [专业影评索引](film-criticism/INDEX.md) - 完整的影评导航和阅读建议
 
 #### 电影明星专业分析 (20位国际知名演员)
 采用跨学科理论框架，从表演人类学、明星研究、文化产业分析等维度深度剖析杰出演员的艺术成就和文化影响。
@@ -49,74 +49,47 @@
 - [Timothée Chalamet 专业分析](actors/Timothee_Chalamet_Professional_Analysis.md) - 千禧一代的演技新星
 
 #### 现代影视作品分析
-- [《绝命毒师》专业影评合集](breaking-bad/) - AMC经典美剧的六维度专业分析
-- [《女仆》(2026) 专业影评合集](the-housemaid-2026/) - 心理惊悚片的学术批评与临床应用
+- [《绝命毒师》专业影评合集](../tv/breaking-bad/) - AMC经典美剧的六维度专业分析
+- [《女仆》(2026) 专业影评合集](../tv/the-housemaid-2026/) - 心理惊悚片的学术批评与临床应用
 
 ### 3. 媒体治疗体系
-- [媒体疗法概览](Media_Therapy_Overview.md) - 媒体治疗的理论基础、历史发展、神经机制
-- [媒体临床应用](Media_Clinical_Applications.md) - 病理专项媒体处方、特殊人群指南、治疗整合协议
-- [媒体安全伦理](Media_Safety_Ethics.md) - 触发警示、内容分级、数字成瘾预防、伦理议题
+- [媒体疗法概览](../media-therapy/Media_Therapy_Overview.md) - 媒体治疗的理论基础、历史发展、神经机制
+- [媒体临床应用](../media-therapy/Media_Clinical_Applications.md) - 病理专项媒体处方、特殊人群指南、治疗整合协议
+- [媒体安全伦理](../media-therapy/Media_Safety_Ethics.md) - 触发警示、内容分级、数字成瘾预防、伦理议题
 
 ### 4. 专项媒体治疗
-- [电视剧疗法](Television_Therapy.md) - 长期叙事陪伴机制、追剧心理学、流媒体时代治疗应用
-- [动漫疗法](Anime_Manga_Therapy.md) - 二次元心理学、治愈系动漫、Otaku身份认同、同人创作治疗
-- [游戏疗法](Game_Therapy.md) - 游戏心理机制、治疗性游戏、VR暴露疗法、游戏化治疗、成瘾预防
+- [电视剧疗法](../tv/television-therapy/Television_Therapy.md) - 长期叙事陪伴机制、追剧心理学、流媒体时代治疗应用
+- [动漫疗法](../anime-manga/Anime_Manga_Therapy.md) - 二次元心理学、治愈系动漫、Otaku身份认同、同人创作治疗
+- [游戏疗法](../../../02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md) - 游戏心理机制、治疗性游戏、VR暴露疗法、游戏化治疗、成瘾预防
 
 ---
 
 ## 目录结构
 
 ```
-cinema/
-├── INDEX.md                          # 本索引文件
-├── Cinema_Therapy_Overview.md        # 电影疗法概览
-├── Cinema_Therapy_Guide.md           # 电影疗法实践指南
-├── Media_Therapy_Overview.md         # 媒体疗法概览
-├── Media_Clinical_Applications.md    # 媒体临床应用
-├── Media_Safety_Ethics.md            # 媒体安全伦理
-├── Television_Therapy.md             # 电视剧疗法
-├── Anime_Manga_Therapy.md            # 动漫疗法
-├── Game_Therapy.md                   # 游戏疗法
-├── classic-film-criticism/           # 经典电影专业影评合集
-│   ├── INDEX.md                      # 经典影评索引
-│   ├── Therapy_Application_Guide.md  # 临床应用指南
-│   └── [更多影评文件...]
-├── actors/                           # 电影明星专业分析 (20位国际知名演员)
-│   ├── Robert_De_Niro_Professional_Analysis.md      # 方法派表演艺术传承者
-│   ├── Jack_Nicholson_Professional_Analysis.md      # 好莱坞反主流文化象征
-│   ├── Meryl_Streep_Professional_Analysis.md        # 女演员表演技艺巅峰
-│   ├── Denzel_Washington_Professional_Analysis.md    # 非裔演员文化突破者
-│   ├── Cate_Blanchett_Professional_Analysis.md      # 国际影坛澳洲瑰宝
-│   ├── Tom_Hanks_Professional_Analysis.md           # 美国国民好感度建构者
-│   ├── Anthony_Hopkins_Professional_Analysis.md     # 英国古典演技传承大师
-│   ├── Nicole_Kidman_Professional_Analysis.md       # 澳洲影星国际化历程
-│   ├── Russell_Crowe_Professional_Analysis.md       # 硬汉形象与演技深度
-│   ├── Charlize_Theron_Professional_Analysis.md     # 非洲大陆国际巨星
-│   ├── Leonardo_DiCaprio_Professional_Analysis.md   # 偶像到实力派转型
-│   ├── Kate_Winslet_Professional_Analysis.md        # 英国演技派女星发展
-│   ├── Joaquin_Phoenix_Professional_Analysis.md     # 表演方法论探索者
-│   ├── Frances_McDormand_Professional_Analysis.md   # 独立电影女王
-│   ├── Tilda_Swinton_Professional_Analysis.md       # 艺术电影先锋
-│   ├── Adam_Driver_Professional_Analysis.md         # 军人到演员跨界典范
-│   ├── Lupita_Nyongo_Professional_Analysis.md       # 非裔女演员国际突破
-│   ├── Oscar_Isaac_Professional_Analysis.md         # 拉丁裔演员多元发展
-│   ├── Saoirse_Ronan_Professional_Analysis.md       # 爱尔兰天才少女
-│   └── Timothee_Chalamet_Professional_Analysis.md   # 千禧一代演技新星
-├── breaking-bad/                     # 《绝命毒师》分析
-│   ├── Breaking_Bad_Industry_Analysis.md
-│   ├── Breaking_Bad_Professional_Critique.md
-│   ├── Breaking_Bad_Technical_Analysis.md
-│   ├── Breaking_Bad_Therapy_Application_Guide.md
-│   ├── INDEX.md
-│   ├── QUALITY_CHECKLIST.md
-│   └── SUPPLEMENTARY_MATERIALS.md
-├── the-housemaid-2026/               # 《女仆》(2026)分析
-│   ├── INDEX.md
-│   ├── QUALITY_REPORT.md
-│   ├── The_Housemaid_2026_Professional_Critique.md
-│   ├── The_Housemaid_2026_Technical_Analysis.md
-│   └── The_Housemaid_2026_Therapy_Application_Guide.md
-└── README.md                         # 电影中心说明文档
+media/
+├── cinema/
+│   ├── README.md                        # 电影中心说明文档
+│   ├── cinema-therapy/                  # 电影疗法体系
+│   │   ├── Cinema_Therapy_Overview.md
+│   │   └── Cinema_Therapy_Guide.md
+│   ├── film-criticism/                  # 经典电影专业影评合集
+│   │   ├── INDEX.md
+│   │   └── [更多影评文件...]
+│   ├── actors/                          # 电影明星专业分析 (20位国际知名演员)
+│   │   └── [更多演员分析文件...]
+│   ├── horror-japanese-drama/
+│   ├── horror-korean-drama/
+│   └── horror-movie-psychology/
+├── media-therapy/                       # 媒体治疗体系
+│   ├── Media_Therapy_Overview.md
+│   ├── Media_Clinical_Applications.md
+│   └── Media_Safety_Ethics.md
+├── tv/                                  # 电视与剧集专题
+│   ├── television-therapy/Television_Therapy.md
+│   ├── breaking-bad/
+│   └── the-housemaid-2026/
+└── anime-manga/Anime_Manga_Therapy.md
 ```
 
 ---
@@ -126,22 +99,22 @@ cinema/
 ### 按需求选择内容：
 
 **临床治疗师**：
-- 优先阅读 [电影疗法概览](Cinema_Therapy_Overview.md) 和 [电影疗法实践指南](Cinema_Therapy_Guide.md)
-- 参考 [媒体临床应用](Media_Clinical_Applications.md) 中的病理专项处方
-- 查阅 [媒体安全伦理](Media_Safety_Ethics.md) 确保治疗安全
+- 优先阅读 [电影疗法概览](cinema-therapy/Cinema_Therapy_Overview.md) 和 [电影疗法实践指南](cinema-therapy/Cinema_Therapy_Guide.md)
+- 参考 [媒体临床应用](../media-therapy/Media_Clinical_Applications.md) 中的病理专项处方
+- 查阅 [媒体安全伦理](../media-therapy/Media_Safety_Ethics.md) 确保治疗安全
 
 **学术研究人员**：
-- 从 [经典电影专业影评合集](classic-film-criticism/) 开始，按 [索引](classic-film-criticism/INDEX.md) 选择感兴趣的作品
+- 从 [经典电影专业影评合集](film-criticism/) 开始，按 [索引](film-criticism/INDEX.md) 选择感兴趣的作品
 - 查阅 [电影明星专业分析](actors/) 研究杰出演员的表演艺术和文化影响
-- 参考 [媒体疗法概览](Media_Therapy_Overview.md) 的理论基础部分
+- 参考 [媒体疗法概览](../media-therapy/Media_Therapy_Overview.md) 的理论基础部分
 
 **影视爱好者**：
 - 可以从任何感兴趣的影评开始阅读
-- 推荐先读 [经典影评索引](classic-film-criticism/INDEX.md) 了解整体内容
+- 推荐先读 [经典影评索引](film-criticism/INDEX.md) 了解整体内容
 
 **内容创作者**：
-- 参考 [电视剧疗法](Television_Therapy.md) 和 [动漫疗法](Anime_Manga_Therapy.md) 了解受众心理
-- 查阅 [游戏疗法](Game_Therapy.md) 学习互动叙事设计
+- 参考 [电视剧疗法](../tv/television-therapy/Television_Therapy.md) 和 [动漫疗法](../anime-manga/Anime_Manga_Therapy.md) 了解受众心理
+- 查阅 [游戏疗法](../../../02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md) 学习互动叙事设计
 
 ---
 
@@ -168,10 +141,10 @@ cinema/
 ## 相关资源链接
 
 ### 项目内链接
-- [心理学治疗技术](../psychology/Psychology_Therapy_Techniques.md) - 心理治疗基础理论
-- [叙事治疗](../psychology/Narrative_Therapy.md) - 故事重构与意义建构
-- [创伤治疗](../trauma/Trauma_Therapy.md) - 创伤干预专业指南
-- [认知行为疗法](../psychology/Cognitive_Behavioral_Therapy.md) - CBT理论与实践
+- [心理学治疗技术](../../../02-Mind-Psychology/psychology/overview/Psychology_Therapy_Techniques.md) - 心理治疗基础理论
+- [创伤与危机干预](../../../02-Mind-Psychology/psychology/trauma/) - 创伤干预与恢复
+- [认知行为疗法](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) - CBT理论与实践
+- [创伤聚焦 CBT](../../../02-Mind-Psychology/therapy/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md) - 创伤专项循证路径
 
 ### 外部学术资源
 - 相关理论经典著作清单

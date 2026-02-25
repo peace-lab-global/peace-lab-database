@@ -119,11 +119,11 @@
 - 当代商业电影制作技术手册
 
 ### 项目内相关链接
-- [电影疗法概览](../../media/Media_Therapy_Overview.md) - 媒体疗法的理论基础
-- [电影疗法](../../media/Cinema_Therapy.md) - 电影类型学与治疗协议
-- [电视剧疗法](../../media/Television_Therapy.md) - 长期叙事陪伴机制
-- [媒体临床应用](../../media/Media_Clinical_Applications.md) - 病理专项媒体处方
-- [媒体安全伦理](../../media/Media_Safety_Ethics.md) - 触发警示与内容分级
+- [媒体疗法概览](../../media-therapy/Media_Therapy_Overview.md) - 媒体疗法的理论基础
+- [电影疗法概览](../../cinema/cinema-therapy/Cinema_Therapy_Overview.md) - 电影类型学与治疗协议
+- [电视剧疗法](../television-therapy/Television_Therapy.md) - 长期叙事陪伴机制
+- [媒体临床应用](../../media-therapy/Media_Clinical_Applications.md) - 病理专项媒体处方
+- [媒体安全伦理](../../media-therapy/Media_Safety_Ethics.md) - 触发警示与内容分级
 
 ### 延伸阅读
 - 同类型心理惊悚片比较研究

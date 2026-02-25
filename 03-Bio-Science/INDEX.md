@@ -5,10 +5,10 @@
 ## 核心索引 | Core Index
 
 ### 1. 🧬 基础生物学与生物黑客 (General Biology & Biohacking)
-- [睡眠科学与节律优化 (Sleep Science)](biology/bio/Bio_Sleep_Science.md)
-- [断食智慧与代谢增强 (Fasting & Metabolic)](biology/bio/Bio_Fasting_Metabolic.md)
+- [睡眠科学与节律优化 (Sleep Science)](../02-Mind-Psychology/psychology/sleep/Bio_Sleep_Science.md)
+- [断食智慧与代谢增强 (Fasting & Metabolic)](foods/fasting/Bio_Fasting_Metabolic.md)
 - [呼吸法与生物干预 (Breathwork)](biology/breathwork/)
-- [中医学与生理学交叉 (TCM & Physiology)](biology/bio/Bio_TCM_Physiology_Concepts.md)
+- [中医学与生理学交叉 (TCM & Physiology)](biology/tuina/Tuina_Overview.md)
 - [飞蚊症心理适应与管理 (Eye Floaters)](biology/floaters/)
 - [甲沟炎心理影响分析 (Paronychia)](biology/paronychia/Paronychia_Psychological_Impact_Analysis.md)
 
@@ -35,9 +35,11 @@
 - [多元性实践研究 (Swinging & Practices)](sexuality/swinging/)
 
 ### 5. 🍂 死亡、临终与生命哲学 (Death & Life Philosophy)
-- [死亡学与生命终结概览 (Thanatology)](death/Thanatology_Overview.md)
-- [临终关怀与姑息治疗 (Palliative Care)](death/Palliative_Care_Hospice.md)
-- [濒死体验研究 (NDE Studies)](death/Near_Death_Experiences.md)
+- [死亡沉思概览 (Death Contemplation)](death/Death_Contemplation_Overview.md)
+- [死亡焦虑概览 (Death Anxiety)](death/Death_Anxiety_Overview.md)
+- [死亡存在主义心理 (Existential Psychology)](death/Death_Existential_Psychology.md)
+- [死亡冥想实践 (Death Meditation)](death/Death_Meditation_Practices.md)
+- [死亡焦虑治疗 (Death Anxiety Treatment)](death/Death_Anxiety_Treatment.md)
 
 ---
 *返回根目录 [README.md](../README.md)*
