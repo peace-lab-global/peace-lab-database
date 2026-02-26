@@ -1,5 +1,7 @@
 # Neuroscience and Biological Foundations of Sexuality (性学神经科学与生物学基础)
 
+> 🔗 **相关专题入口**: [男性性健康系列](male-sexual-health/INDEX.md) - 涵盖前列腺、勃起唤起与射精/高潮等生物学机制扩展。
+
 ## 性反应的神经生物学机制 (Neurobiological Mechanisms of Sexual Response)
 
 ### 性反应神经回路图谱

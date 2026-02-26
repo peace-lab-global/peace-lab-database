@@ -9,6 +9,7 @@
 - [Sexuality Ethics Legal](Sexuality_Ethics_Legal.md)
 - [Sexuality Neuroscience Biology](Sexuality_Neuroscience_Biology.md)
 - [Sexuality Overview](Sexuality_Overview.md)
+- [Male Sexual Health Series](male-sexual-health/INDEX.md)
 - [Sexuality Quality Report](Sexuality_Quality_Report.md)
 - [Sexuality Research Methods](Sexuality_Research_Methods.md)
 - [Sexuality Resources References](Sexuality_Resources_References.md)

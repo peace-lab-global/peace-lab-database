@@ -2,6 +2,7 @@
 
 > 📘 **文档导航**: 本概览文档提供性学研究的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：
 > - [性学临床应用](Sexuality_Clinical_Applications.md) - 临床诊断、治疗技术和干预方案
+> - [男性性健康系列](male-sexual-health/INDEX.md) - 男性解剖、生理、功能、风险与临床专题入口
 > - [性学研究方法](Sexuality_Research_Methods.md) - 研究设计、测量工具和数据分析
 > - [性学跨文化视角](Sexuality_Cultural_Variations.md) - 文化差异、社会学理论和全球化影响
 > - [性发展与生命周期](Sexuality_Development_Lifespan.md) - 发展阶段、年龄特征和适应策略

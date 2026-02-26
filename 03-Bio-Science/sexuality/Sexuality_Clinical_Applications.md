@@ -1,6 +1,9 @@
 # Clinical Applications in Sexuality (性学临床应用)
 
-> 🏥 **临床应用指南**: 本文档专注于性学的临床实践应用。建议先阅读[性学概览](Sexuality_Overview.md)了解基础概念，相关研究方法请参考[研究方法文档](Sexuality_Research_Methods.md)。
+> 🏥 **临床应用指南**: 本文档专注于性学的临床实践应用。
+> - 建议先阅读[性学概览](Sexuality_Overview.md)了解基础概念
+> - 相关研究方法请参考[研究方法文档](Sexuality_Research_Methods.md)
+> - 男性专题入口：[男性性健康系列](male-sexual-health/INDEX.md) - 男性性功能、前列腺与生命周期专题
 
 ## 性功能障碍分类与诊断标准 (Classification and Diagnostic Criteria)
 
