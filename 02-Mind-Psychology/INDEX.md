@@ -27,6 +27,10 @@
   - [危机评估与自杀干预 (Crisis & Suicide)](psychology/crisis-assessment/)
   - [创伤后成长 (Trauma Postvention)](psychology/crisis-postvention/)
 - [睡眠与失眠治疗 (Sleep & Insomnia)](psychology/sleep/)
+  - [失眠临床诊断与治疗 (Insomnia Clinical)](psychology/insomnia/)
+  - [入睡困难专题 (Sleep Onset Difficulty)](psychology/insomnia/Insomnia_Sleep_Onset_Difficulty.md) **[NEW]**
+  - [睡眠意愿低与睡眠拖延 (Low Sleep Motivation)](psychology/insomnia/Insomnia_Low_Sleep_Motivation.md) **[NEW]**
+  - [失眠自我评估与筛查指南 (Self-Assessment)](psychology/insomnia/Insomnia_Self_Assessment.md) **[NEW]**
 - [躯体体验疗法 (Somatic Experiencing)](psychology/somatic/)
 - [家庭系统排列 (Family Constellation)](psychology/family-constellation/)
 - [丧恸与悲伤辅导 (Grief & Loss)](psychology/grief/)

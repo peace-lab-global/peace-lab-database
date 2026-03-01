@@ -4,9 +4,10 @@
 
 ## 核心索引 | Core Index
 
-### 1. 🧬 基础生物学与生物黑客 (General Biology & Biohacking)
+### 1. 基础生物学与生物黑客 (General Biology & Biohacking)
 - [睡眠科学与节律优化 (Sleep Science)](../02-Mind-Psychology/psychology/sleep/Bio_Sleep_Science.md)
 - [断食智慧与代谢增强 (Fasting & Metabolic)](foods/fasting/Bio_Fasting_Metabolic.md)
+- [**延长断食专题 (Extended Fasting)**](foods/fasting/extended-fasting/) **[NEW]** - 24/48/72小时断食与液断完整指南
 - [呼吸法与生物干预 (Breathwork)](biology/breathwork/)
 - [晨间血压调节 (Morning Blood Pressure Regulation)](biology/blood-pressure/)
 - [中医学与生理学交叉 (TCM & Physiology)](biology/tuina/Tuina_Overview.md)
