@@ -8,6 +8,7 @@
 - [睡眠科学与节律优化 (Sleep Science)](../02-Mind-Psychology/psychology/sleep/Bio_Sleep_Science.md)
 - [断食智慧与代谢增强 (Fasting & Metabolic)](foods/fasting/Bio_Fasting_Metabolic.md)
 - [呼吸法与生物干预 (Breathwork)](biology/breathwork/)
+- [晨间血压调节 (Morning Blood Pressure Regulation)](biology/blood-pressure/)
 - [中医学与生理学交叉 (TCM & Physiology)](biology/tuina/Tuina_Overview.md)
 - [飞蚊症心理适应与管理 (Eye Floaters)](biology/floaters/)
 - [甲沟炎心理影响分析 (Paronychia)](biology/paronychia/Paronychia_Psychological_Impact_Analysis.md)

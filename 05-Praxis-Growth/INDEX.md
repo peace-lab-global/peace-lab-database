@@ -18,6 +18,18 @@
 - [极简主义与整理 (Minimalism)](personal-development/minimalism-decluttering/)
 - [拖延心理调节 (Procrastination)](personal-development/procrastination/Procrastination_Psychological_Regulation.md)
 
+### 1.5 📋 个人管理与自我记录 (Personal Management & Self-Tracking)
+- [个人任务管理 (Task Management)](personal-development/task-management/)
+  - [核心理论与系统对比 (Core Theory)](personal-development/task-management/Task_Management_Core.md)
+  - [数字工具与实践 (Digital Tools)](personal-development/task-management/Task_Management_Digital_Tools.md)
+  - [高级策略与心理机制 (Advanced Strategies)](personal-development/task-management/Task_Management_Advanced.md)
+- [每日打卡 (Daily Check-in)](personal-development/daily-checkin/)
+  - [核心理论与动机科学 (Core Theory)](personal-development/daily-checkin/Daily_Checkin_Core.md)
+  - [系统设计与实践 (Systems & Practice)](personal-development/daily-checkin/Daily_Checkin_Systems.md)
+- [日记 (Journaling)](personal-development/journaling/)
+  - [核心理论与方法论 (Core Theory)](personal-development/journaling/Journaling_Core.md)
+  - [治疗性写作与深度实践 (Therapeutic Writing)](personal-development/journaling/Journaling_Therapeutic.md)
+
 ### 2. 📱 媒体运营与商业实践 (Media & Business)
 - [自媒体运营核心系统 (Social Media Operations)](personal-development/social-media/Social_Media_Operations_Overview.md)
 - [直播带货与供应链管理 (Live Commerce)](personal-development/live-commerce/)
