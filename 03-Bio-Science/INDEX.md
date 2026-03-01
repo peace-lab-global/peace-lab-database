@@ -32,6 +32,8 @@
 - [性学研究全域概览 (Sexuality Overview)](sexuality/Sexuality_Overview.md)
 - [中国社会性焦虑研究 (Sexual Anxiety China)](sexuality/sexual-anxiety-china/)
 - [中国社会性压抑研究 (Sexual Repression China)](sexuality/sexual-repression-china/)
+- [**生育性别焦虑研究 (Birth Gender Anxiety)**](sexuality/gender-discrimination/birth-gender-anxiety/) **[NEW]**
+- [性别歧视专题 (Gender Discrimination)](sexuality/gender-discrimination/)
 - [性功能障碍与性厌恶 (Dysfunction & Aversion)](sexuality/sexual-aversion/)
 - [多元性实践研究 (Swinging & Practices)](sexuality/swinging/)
 
