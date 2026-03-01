@@ -14,7 +14,11 @@
 - [政治心理学 (Political Psychology)](psychology/political-psychology/)
 - [社会与生活心理 (Social & Life)](psychology/friendship/)
   - [恋爱与婚姻心理 (Relationships)](relationships/)
+    - [婚后孤独感来源 (Marital Loneliness Sources)](relationships/marriage/marital-loneliness/Marital_Loneliness_Sources.md) **[NEW]**
+    - [婚后孤独缓释策略 (Marital Loneliness Relief)](relationships/marriage/marital-loneliness/Marital_Loneliness_Relief.md) **[NEW]**
   - [孤独感研究 (Loneliness)](psychology/loneliness/)
+    - [孤独感来源与病因学 (Sources & Etiology)](psychology/loneliness/Loneliness_Sources_Etiology.md) **[NEW]**
+    - [孤独感缓释与自助策略 (Relief & Mitigation)](psychology/loneliness/Loneliness_Relief_Mitigation.md) **[NEW]**
   - [数字囤积与整理 (Digital Hoarding)](psychology/digital-hoarding/)
 
 ### 2. 🏥 临床心理与专项干预 (Clinical & Specialized Intervention)
