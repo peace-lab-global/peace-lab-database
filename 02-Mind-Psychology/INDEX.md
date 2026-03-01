@@ -21,7 +21,8 @@
 - [情绪调节与障碍 (Emotion & Disorders)](psychology/emotion/)
   - [焦虑、压力与皮质醇管理 (Anxiety & Stress)](psychology/anxiety/)
   - [抑郁与成瘾行为 (Depression & Addiction)](psychology/depression/)
-  - [恐惧症、强迫症与多动症 (Phobia, OCD, ADHD)](psychology/phobia/)
+  - [恐惧症与强迫症 (Phobia & OCD)](psychology/phobia/)
+  - [注意缺陷多动障碍 (ADHD)](psychology/disorder/adhd/) *(含自我评估与筛查指南)*
 - [创伤、危机与干预 (Trauma & Crisis)](psychology/trauma/)
   - [危机评估与自杀干预 (Crisis & Suicide)](psychology/crisis-assessment/)
   - [创伤后成长 (Trauma Postvention)](psychology/crisis-postvention/)
