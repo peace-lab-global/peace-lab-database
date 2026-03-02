@@ -10,6 +10,8 @@
 - [**延长断食专题 (Extended Fasting)**](foods/fasting/extended-fasting/) **[NEW]** - 24/48/72小时断食与液断完整指南
 - [呼吸法与生物干预 (Breathwork)](biology/breathwork/)
 - [晨间血压调节 (Morning Blood Pressure Regulation)](biology/blood-pressure/)
+- [**恢复身心能量 (Energy Restoration)**](biology/energy-restoration/) **[NEW]** - 四维能量模型、精力管理、注意力恢复与能量充电
+  - [恢复身心能量核心体系 (Core System)](biology/energy-restoration/Energy_Restoration_Overview.md)
 - [中医学与生理学交叉 (TCM & Physiology)](biology/tuina/Tuina_Overview.md)
 - [飞蚊症心理适应与管理 (Eye Floaters)](biology/floaters/)
 - [甲沟炎心理影响分析 (Paronychia)](biology/paronychia/Paronychia_Psychological_Impact_Analysis.md)
@@ -28,6 +30,14 @@
 - [皮肤病心理与药理 (Skin Diseases)](biology/skin-diseases/)
 - [腰痛心理康复 (Lower Back Pain)](biology/lower-back-pain/)
 - [拉伸疗法 (Stretch Therapy)](biology/stretch/)
+
+### 3.5 办公健康与身体放松 (Office Health & Body Relaxation)
+- [**办公椅肩颈放松 (Office Neck-Shoulder Relaxation)**](biology/office-neck-shoulder/) **[NEW]** - 上交叉综合征、人体工程学、座位放松动作序列
+  - [办公椅肩颈放松科学方法 (Scientific Methods)](biology/office-neck-shoulder/Office_Neck_Shoulder_Relaxation.md)
+- [**办公室眼部放松 (Office Eye Relaxation)**](biology/office-eye-relaxation/) **[NEW]** - 数字眼疲劳、20-20-20法则、视觉训练与中医护眼
+  - [办公室眼部放松科学方法 (Scientific Methods)](biology/office-eye-relaxation/Office_Eye_Relaxation.md)
+- [**睡前拉伸放松 (Pre-Sleep Stretching)**](biology/pre-sleep-stretching/) **[NEW]** - 副交感激活、完整拉伸序列、渐进性肌肉放松
+  - [睡前拉伸放松核心体系 (Core System)](biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md)
 
 ### 4. 🌟 性学研究与性健康 (Sexology & Sexual Health)
 - [性学研究全域概览 (Sexuality Overview)](sexuality/Sexuality_Overview.md)

@@ -40,6 +40,11 @@
 - [法脉传承与仪式 (Lineage & Ritual)](religions/dao/Dao_Lineage_Ritual_Tradition.md)
 - [道教心理养生 (Psychological Cultivation)](religions/dao/Daoist_Psychological_Health_Cultivation.md)
 
+### 3.5 黄帝内经养生 (Huangdi Neijing Health Cultivation)
+- [**内经养生核心体系 (Neijing Yangsheng Core)**](tcm-neijing/) **[NEW]** - 四气调神、五脏养生、子午流注、情志调摄
+  - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/Neijing_Yangsheng_Overview.md)
+  - [内经养生实践指南 (Practice Guide)](tcm-neijing/Neijing_Yangsheng_Practice.md)
+
 ### 4. ☸️ 佛教智慧体系 (Buddhist Wisdom System)
 - [佛教核心概论 (Core Overview)](religions/buddhism/Buddhism_Core_Overview.md)
 - [四圣谛与四无量心 (Four Truths & Immeasurables)](religions/buddhism/Buddhism_Four_Noble_Truths.md)

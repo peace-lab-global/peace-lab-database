@@ -16,6 +16,8 @@
   - [恋爱与婚姻心理 (Relationships)](relationships/)
     - [婚后孤独感来源 (Marital Loneliness Sources)](relationships/marriage/marital-loneliness/Marital_Loneliness_Sources.md) **[NEW]**
     - [婚后孤独缓释策略 (Marital Loneliness Relief)](relationships/marriage/marital-loneliness/Marital_Loneliness_Relief.md) **[NEW]**
+    - [**建设关系中的情感银行 (Emotional Bank Account)**](relationships/emotional-bank-account/) **[NEW]** - Covey存款理论、Gottman 5:1比例、依恋视角
+  - [**父母如何更懂孩子 (Understanding Children)**](relationships/parenting/) **[NEW]** - 发展心理学、情绪教练、正向教养、P.E.T.效能训练
   - [孤独感研究 (Loneliness)](psychology/loneliness/)
     - [孤独感来源与病因学 (Sources & Etiology)](psychology/loneliness/Loneliness_Sources_Etiology.md) **[NEW]**
     - [孤独感缓释与自助策略 (Relief & Mitigation)](psychology/loneliness/Loneliness_Relief_Mitigation.md) **[NEW]**

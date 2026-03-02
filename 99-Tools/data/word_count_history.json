@@ -1,0 +1,63 @@
+[
+  {
+    "date": "2026-03-02 11:57:03",
+    "stats": {
+      "chinese_chars": 2355422,
+      "english_words": 160383,
+      "total_chars": 5603786,
+      "non_whitespace": 4647855,
+      "lines": 217061
+    },
+    "file_count": 1339,
+    "by_top_dir": {
+      ".": {
+        "chinese_chars": 1545,
+        "english_words": 124,
+        "total_chars": 3213,
+        "non_whitespace": 2972,
+        "lines": 64,
+        "file_count": 1
+      },
+      "05-Praxis-Growth": {
+        "chinese_chars": 228055,
+        "english_words": 22202,
+        "total_chars": 608973,
+        "non_whitespace": 505199,
+        "lines": 26913,
+        "file_count": 122
+      },
+      "01-Wisdom-Traditions": {
+        "chinese_chars": 339050,
+        "english_words": 26050,
+        "total_chars": 890868,
+        "non_whitespace": 729864,
+        "lines": 28392,
+        "file_count": 230
+      },
+      "04-Humanities-Arts": {
+        "chinese_chars": 622759,
+        "english_words": 29989,
+        "total_chars": 1298208,
+        "non_whitespace": 1094745,
+        "lines": 62058,
+        "file_count": 430
+      },
+      "02-Mind-Psychology": {
+        "chinese_chars": 758398,
+        "english_words": 54123,
+        "total_chars": 1837255,
+        "non_whitespace": 1517742,
+        "lines": 61682,
+        "file_count": 370
+      },
+      "03-Bio-Science": {
+        "chinese_chars": 405615,
+        "english_words": 27895,
+        "total_chars": 965269,
+        "non_whitespace": 797333,
+        "lines": 37952,
+        "file_count": 186
+      }
+    }
+  }
+]

@@ -14,6 +14,10 @@
   - [效率核心理论 (Core Theory)](personal-development/productivity/Productivity_Core.md)
   - [执行力与任务完成 (Execution Excellence)](personal-development/productivity/Execution_Excellence.md)
   - [效率提升高级策略 (Advanced Strategies)](personal-development/productivity/Productivity_Advanced.md)
+- [**心力成长 (Mental Resilience)**](personal-development/mental-resilience/) **[NEW]** - 心理韧性、逆商、成长型思维与心力训练体系
+  - [心力成长核心理论与实践 (Core Theory & Practice)](personal-development/mental-resilience/Mental_Resilience_Overview.md)
+- [**稳定内核 (Stable Inner Core)**](personal-development/stable-inner-core/) **[NEW]** - 自我分化、价值观明晰、认知免疫与内在根基建设
+  - [稳定内核核心体系 (Core System)](personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
 - [心流与专注力 (Flow & Focus)](personal-development/flow/)
 - [习惯养成科学 (Habit Science)](personal-development/topics/Personal_Development_Habit_Science.md)
   - [原子习惯 (Atomic Habits)](personal-development/topics/Personal_Development_Atomic_Habits.md)
@@ -44,6 +48,17 @@
 - [TED 演说精选全系 (TED Talks)](talks/ted-talks/)
 - [公共表达与演讲技巧 (Public Speaking)](personal-development/public-speaking/)
 - [职场表达体系 (Workplace Expression)](personal-development/workplace-expression/)
+
+### 3.5 🗣️ 沟通技能与人际表达 (Communication Skills & Interpersonal Expression)
+- [**高效沟通 (Effective Communication)**](communication/effective-communication/) **[NEW]** - 沟通模型、NVC非暴力沟通、职场沟通策略
+  - [高效沟通核心理论 (Core Theory)](communication/effective-communication/Effective_Communication_Overview.md)
+  - [高效沟通实践训练 (Practice & Training)](communication/effective-communication/Effective_Communication_Practice.md)
+- [**结构化表达 (Structured Expression)**](communication/structured-expression/) **[NEW]** - 金字塔原理、MECE、SCQA与逻辑化表达
+  - [结构化表达核心方法论 (Core Methodology)](communication/structured-expression/Structured_Expression_Overview.md)
+- [**让对方没有防御的沟通 (Non-Defensive Communication)**](communication/non-defensive-communication/) **[NEW]** - 消除防御、安全对话空间、情感修复
+  - [非防御性沟通体系 (Core System)](communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
+- [**教练式聆听及提问 (Coaching Listening & Questioning)**](communication/coaching-listening/) **[NEW]** - 三层次聆听、强力提问、GROW模型
+  - [教练式聆听与提问体系 (Core System)](communication/coaching-listening/Coaching_Listening_Overview.md)
 
 ### 4. ✍️ 写作、技术输出与出版 (Writing & Publishing)
 - [文学创意写作全系 (Creative Writing)](writing/)
