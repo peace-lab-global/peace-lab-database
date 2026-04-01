@@ -48,6 +48,15 @@
 - [TED 演说精选全系 (TED Talks)](talks/ted-talks/)
 - [公共表达与演讲技巧 (Public Speaking)](personal-development/public-speaking/)
 - [职场表达体系 (Workplace Expression)](personal-development/workplace-expression/)
+  - [向上管理与情绪化上级应对 (Upward Management)](personal-development/workplace-expression/Workplace_Upward_Management.md)
+  - [绩效改进计划(PIP)应对指南 (PIP Response Guide)](personal-development/workplace-expression/Workplace_PIP_Response_Guide.md)
+  - [PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)](personal-development/workplace-expression/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
+  - [Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)](personal-development/workplace-expression/Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md)
+  - [Offer邮件模板与微信商务谈判话术指南 (Offer Email & WeChat Negotiation Templates)](personal-development/workplace-expression/Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
+  - [职场霸凌/歧视取证与申诉流程 (Bullying & Discrimination Evidence and Complaint Guide)](personal-development/workplace-expression/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+  - [职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)](personal-development/workplace-expression/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
+  - [职场异常场景处理系统模块设计 (Exception Case Management System Design)](personal-development/workplace-expression/Workplace_Exception_Case_Management_System_Design.md)
+  - [职场语言霸凌与PUA专业知识数据库 (Verbal Bullying & PUA Knowledge Database)](personal-development/workplace-expression/Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
 
 ### 3.5 🗣️ 沟通技能与人际表达 (Communication Skills & Interpersonal Expression)
 - [**高效沟通 (Effective Communication)**](communication/effective-communication/) **[NEW]** - 沟通模型、NVC非暴力沟通、职场沟通策略
