@@ -111,7 +111,7 @@
 后续可继续新增：
 1. 行为标签词典
 2. 访谈提纲数据库
-3. 高风险话术语料库
+3. [高风险敏感语料数据库](Workplace_High_Risk_Sensitive_Language_Database.md)
 4. 组织预警指标库
 5. 不同行业案例分库
 

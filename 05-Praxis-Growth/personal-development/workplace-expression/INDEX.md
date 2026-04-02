@@ -4,8 +4,13 @@
 
 - [Workplace Expression Overview](Workplace_Expression_Overview.md)
 - [Workplace Upward Management 向上管理与情绪化上级应对](Workplace_Upward_Management.md)
+- [Upward Management Professional Framework 向上管理能力提升框架与实战方法论](Workplace_Upward_Management_Professional_Framework.md)
+- [Manager Communication Style Profiling System Design 管理者沟通风格画像与适配策略系统设计](Workplace_Manager_Communication_Style_Profiling_System_Design.md)
+- [Manager Communication Style Strategy Taxonomy 管理者沟通风格画像与策略数据库(JSON)](Workplace_Manager_Communication_Style_Strategy_Taxonomy.json)
 - [Upward Reporting Templates 向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
 - [High-Stakes Conversation Scripts 高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
+- [High-Risk Sensitive Language Database 高风险敏感语料数据库](Workplace_High_Risk_Sensitive_Language_Database.md)
+- [High-Risk Sensitive Language Taxonomy 高风险敏感语料分类与风险标注(JSON)](Workplace_High_Risk_Sensitive_Language_Taxonomy.json)
 - [High-Pressure Meeting Survival Handbook 高压会议现场应对手册](Workplace_High_Pressure_Meeting_Handbook.md)
 - [1:1 Performance & Critical Feedback Templates 一对一绩效/批评谈话模板](Workplace_Performance_and_Critical_Feedback_Templates.md)
 - [PIP Response Guide 绩效改进计划(PIP)应对指南](Workplace_PIP_Response_Guide.md)

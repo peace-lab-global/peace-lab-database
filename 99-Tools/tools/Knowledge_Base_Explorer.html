@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Peace Lab Knowledge Explorer</title>
+    <link rel="stylesheet" href="./Knowledge_Base_Explorer.css" />
+  </head>
+  <body>
+    <div class="app-shell">
+      <header class="hero-panel">
+        <div class="hero-meta">
+          <span class="eyebrow">Peace Lab Global · Knowledge Explorer</span>
+          <span class="status-dot" id="dataStatus">索引加载中</span>
+        </div>
+        <div class="hero-copy">
+          <div>
+            <h1>全库知识探索台</h1>
+            <p>
+              面向整个仓库的高性能内容浏览页面。支持全量内容读取、多视角筛选、结构化洞察与按需预览，适配桌面端与移动端。
+            </p>
+          </div>
+          <div class="hero-actions">
+            <button class="ghost-button" id="clearFilters">清空筛选</button>
+            <a class="primary-link" href="../../README.md" target="_blank" rel="noreferrer">打开根导航</a>
+          </div>
+        </div>
+        <div class="overview-grid" id="overviewGrid"></div>
+      </header>
+
+      <section class="control-panel">
+        <div class="search-row">
+          <label class="search-box">
+            <span>搜索</span>
+            <input id="searchInput" type="search" placeholder="搜索标题、路径、摘要、标签、章节…" />
+          </label>
+          <label>
+            <span>排序</span>
+            <select id="sortMode">
+              <option value="relevance">相关度</option>
+              <option value="recent">最近更新</option>
+              <option value="title">标题 A-Z</option>
+              <option value="size">内容体量</option>
+              <option value="reading">阅读时长</option>
+            </select>
+          </label>
+          <label>
+            <span>结果视图</span>
+            <select id="viewMode">
+              <option value="cards">卡片流</option>
+              <option value="pillar">按支柱分组</option>
+              <option value="role">按角色分组</option>
+              <option value="directory">按目录分组</option>
+            </select>
+          </label>
+        </div>
+
+        <div class="perspective-strip" id="perspectiveStrip"></div>
+
+        <div class="filter-grid">
+          <label>
+            <span>一级目录</span>
+            <select id="pillarFilter"></select>
+          </label>
+          <label>
+            <span>文件类型</span>
+            <select id="extFilter"></select>
+          </label>
+          <label>
+            <span>内容角色</span>
+            <select id="roleFilter"></select>
+          </label>
+          <label>
+            <span>目录深度</span>
+            <select id="depthFilter">
+              <option value="all">全部层级</option>
+              <option value="0">0-1 层</option>
+              <option value="2">2-3 层</option>
+              <option value="4">4 层及以上</option>
+            </select>
+          </label>
+        </div>
+      </section>
+
+      <main class="workspace-grid">
+        <section class="results-panel panel-surface">
+          <div class="section-heading">
+            <div>
+              <span class="section-kicker">Content Browser</span>
+              <h2>内容结果集</h2>
+            </div>
+            <p id="resultsMeta">正在构建结果…</p>
+          </div>
+          <div class="group-summary" id="groupSummary"></div>
+          <div class="results-container" id="resultsContainer"></div>
+          <button class="load-more" id="loadMoreBtn" type="button">加载更多</button>
+        </section>
+
+        <aside class="preview-panel panel-surface">
+          <div class="preview-empty" id="previewEmpty">
+            <span class="section-kicker">Live Preview</span>
+            <h2>选择任意内容开始阅读</h2>
+            <p>
+              页面默认只加载索引元数据，点击卡片后再按需读取原始文件内容，以保证全库浏览速度与交互响应。
+            </p>
+          </div>
+
+          <div class="preview-content" id="previewContent" hidden>
+            <div class="preview-header">
+              <div>
+                <span class="section-kicker" id="previewKicker"></span>
+                <h2 id="previewTitle"></h2>
+                <p id="previewPath"></p>
+              </div>
+              <div class="preview-actions">
+                <a id="openFileLink" class="ghost-link" target="_blank" rel="noreferrer">打开原文件</a>
+                <button id="copyPathBtn" class="ghost-button" type="button">复制路径</button>
+              </div>
+            </div>
+
+            <div class="preview-metrics" id="previewMetrics"></div>
+
+            <div class="tab-strip">
+              <button class="tab-button active" data-tab="rendered" type="button">阅读视图</button>
+              <button class="tab-button" data-tab="raw" type="button">原始内容</button>
+              <button class="tab-button" data-tab="meta" type="button">元数据</button>
+            </div>
+
+            <div class="preview-body" id="previewBody"></div>
+          </div>
+        </aside>
+      </main>
+
+      <section class="insight-grid">
+        <article class="insight-card panel-surface">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker">Atlas</span>
+              <h3>目录热区</h3>
+            </div>
+          </div>
+          <div class="bar-list" id="directoryHeatmap"></div>
+        </article>
+        <article class="insight-card panel-surface">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker">Freshness</span>
+              <h3>最近更新</h3>
+            </div>
+          </div>
+          <div class="mini-list" id="recentList"></div>
+        </article>
+        <article class="insight-card panel-surface">
+          <div class="section-heading compact">
+            <div>
+              <span class="section-kicker">Structured & Tooling</span>
+              <h3>结构化数据与工具</h3>
+            </div>
+          </div>
+          <div class="mini-list" id="dataToolList"></div>
+        </article>
+      </section>
+
+      <footer class="footer-note">
+        建议从仓库根目录启动静态服务后访问本页，以便按需读取全部 Markdown / JSON / 脚本文件内容。
+      </footer>
+    </div>
+
+    <script src="./Knowledge_Base_Explorer.js" defer></script>
+  </body>
+</html>
