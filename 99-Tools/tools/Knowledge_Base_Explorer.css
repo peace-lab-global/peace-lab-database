@@ -1,17 +1,17 @@
 :root {
-  color-scheme: dark;
-  --bg: #07111f;
-  --bg-elevated: rgba(14, 24, 41, 0.84);
-  --bg-soft: rgba(20, 33, 57, 0.68);
-  --border: rgba(136, 179, 255, 0.16);
-  --border-strong: rgba(136, 179, 255, 0.28);
-  --text: #edf4ff;
-  --muted: #a8b8d4;
-  --accent: #6ea8fe;
-  --accent-2: #69f0d1;
-  --accent-3: #8e7dff;
-  --danger: #ff8a8a;
-  --shadow: 0 28px 60px rgba(3, 10, 24, 0.42);
+  color-scheme: light;
+  --bg: #f4efe6;
+  --bg-elevated: rgba(255, 251, 245, 0.86);
+  --bg-soft: rgba(247, 241, 232, 0.84);
+  --border: rgba(126, 146, 128, 0.18);
+  --border-strong: rgba(126, 146, 128, 0.3);
+  --text: #32423a;
+  --muted: #6d7b72;
+  --accent: #84a98c;
+  --accent-2: #b08968;
+  --accent-3: #9d8bb8;
+  --danger: #b86d72;
+  --shadow: 0 24px 48px rgba(82, 88, 76, 0.12);
   --radius-xl: 28px;
   --radius-lg: 20px;
   --radius-md: 14px;
@@ -28,9 +28,10 @@ body {
   margin: 0;
   min-height: 100%;
   background:
-    radial-gradient(circle at top left, rgba(110, 168, 254, 0.16), transparent 32%),
-    radial-gradient(circle at top right, rgba(105, 240, 209, 0.12), transparent 26%),
-    linear-gradient(180deg, #08111e 0%, #0b1424 48%, #08111e 100%);
+    radial-gradient(circle at top left, rgba(132, 169, 140, 0.22), transparent 34%),
+    radial-gradient(circle at top right, rgba(176, 137, 104, 0.16), transparent 28%),
+    radial-gradient(circle at bottom right, rgba(157, 139, 184, 0.12), transparent 22%),
+    linear-gradient(180deg, #f7f1e8 0%, #f3ede3 48%, #f6f1e9 100%);
   color: var(--text);
   font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
 }
@@ -122,7 +123,7 @@ a {
   gap: 8px;
   padding: 8px 12px;
   border-radius: 999px;
-  background: rgba(12, 24, 44, 0.8);
+  background: rgba(255, 248, 240, 0.88);
   border: 1px solid var(--border);
   color: var(--muted);
 }
@@ -170,12 +171,57 @@ a {
   gap: 12px;
 }
 
+.experience-ribbon {
+  display: grid;
+  grid-template-columns: minmax(0, 1.3fr) minmax(280px, 0.8fr);
+  gap: 16px;
+}
+
+.experience-copy,
+.focus-note,
+.mode-card {
+  border: 1px solid var(--border);
+  border-radius: 22px;
+  background: rgba(255, 249, 242, 0.82);
+}
+
+.experience-copy {
+  padding: 22px;
+  display: grid;
+  gap: 10px;
+}
+
+.experience-copy h2,
+.focus-note strong {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+}
+
+.experience-copy p,
+.focus-note p,
+.focus-note small,
+.mode-card p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.8;
+}
+
+.focus-note {
+  padding: 22px;
+  display: grid;
+  gap: 10px;
+  align-content: start;
+  background: linear-gradient(180deg, rgba(243, 235, 225, 0.92), rgba(255, 251, 245, 0.82));
+}
+
 .primary-link,
 .ghost-button,
 .ghost-link,
 .load-more,
 .perspective-pill,
-.tab-button {
+.tab-button,
+.mode-card {
   padding: 12px 16px;
   border-radius: 999px;
   transition: transform 160ms ease, border-color 160ms ease, background 160ms ease;
@@ -191,7 +237,7 @@ a {
 .ghost-link,
 .load-more,
 .tab-button {
-  background: rgba(10, 20, 36, 0.82);
+  background: rgba(255, 249, 242, 0.88);
   border: 1px solid var(--border);
   color: var(--text);
 }
@@ -202,6 +248,7 @@ a {
 .load-more:hover,
 .perspective-pill:hover,
 .tab-button:hover,
+.mode-card:hover,
 .result-card:hover,
 .mini-item:hover {
   transform: translateY(-1px);
@@ -217,7 +264,7 @@ a {
 .metric-card {
   padding: 18px;
   border-radius: var(--radius-lg);
-  background: linear-gradient(180deg, rgba(17, 30, 54, 0.96), rgba(10, 20, 36, 0.86));
+  background: linear-gradient(180deg, rgba(255, 251, 247, 0.98), rgba(246, 238, 228, 0.92));
   border: 1px solid var(--border);
   display: grid;
   gap: 8px;
@@ -283,7 +330,7 @@ select {
 input:focus,
 select:focus {
   border-color: var(--accent);
-  box-shadow: 0 0 0 3px rgba(110, 168, 254, 0.18);
+  box-shadow: 0 0 0 3px rgba(132, 169, 140, 0.16);
 }
 
 .perspective-strip {
@@ -298,7 +345,7 @@ select:focus {
   padding: 16px 18px;
   border-radius: 18px;
   border: 1px solid var(--border);
-  background: rgba(10, 18, 34, 0.72);
+  background: rgba(255, 249, 242, 0.82);
   display: grid;
   gap: 6px;
   text-align: left;
@@ -315,8 +362,8 @@ select:focus {
 
 .perspective-pill.active,
 .tab-button.active {
-  background: linear-gradient(135deg, rgba(110, 168, 254, 0.24), rgba(105, 240, 209, 0.14));
-  border-color: rgba(110, 168, 254, 0.4);
+  background: linear-gradient(135deg, rgba(132, 169, 140, 0.24), rgba(176, 137, 104, 0.14));
+  border-color: rgba(132, 169, 140, 0.42);
 }
 
 .filter-grid {
@@ -360,7 +407,7 @@ select:focus {
   gap: 8px;
   padding: 8px 12px;
   border-radius: 999px;
-  background: rgba(9, 17, 31, 0.86);
+  background: rgba(250, 244, 236, 0.96);
   border: 1px solid var(--border);
   color: var(--muted);
   font-size: 12px;
@@ -434,6 +481,12 @@ select:focus {
   background: rgba(110, 168, 254, 0.14);
 }
 
+.badge.warning {
+  color: #ffe7b0;
+  background: rgba(255, 193, 92, 0.14);
+  border-color: rgba(255, 193, 92, 0.28);
+}
+
 .group-block {
   padding: 18px;
   display: grid;
@@ -496,7 +549,7 @@ select:focus {
   padding: 18px;
   border-radius: 20px;
   border: 1px solid var(--border);
-  background: rgba(8, 15, 28, 0.92);
+  background: rgba(255, 252, 248, 0.94);
 }
 
 .content-pane h1,
@@ -533,8 +586,8 @@ select:focus {
   margin: 0;
   padding: 16px;
   border-radius: 16px;
-  background: rgba(3, 10, 20, 0.98);
-  color: #c7f0ea;
+  background: rgba(126, 146, 128, 0.08);
+  color: #405148;
   overflow: auto;
   white-space: pre-wrap;
   word-break: break-word;
@@ -553,6 +606,23 @@ select:focus {
 .content-pane a {
   color: #9ad4ff;
   text-decoration: underline;
+}
+
+.secure-preview {
+  display: grid;
+  gap: 14px;
+  border-color: rgba(255, 193, 92, 0.24);
+  background: linear-gradient(180deg, rgba(31, 21, 8, 0.96), rgba(11, 18, 31, 0.94));
+}
+
+.secure-preview h3 {
+  margin: 0;
+  font-size: 24px;
+  letter-spacing: -0.03em;
+}
+
+.secure-preview ul {
+  margin: 0;
 }
 
 .meta-grid {
@@ -608,7 +678,7 @@ select:focus {
   width: 100%;
   height: 8px;
   border-radius: 999px;
-  background: rgba(255, 255, 255, 0.06);
+  background: rgba(132, 169, 140, 0.12);
   overflow: hidden;
 }
 
@@ -647,6 +717,8 @@ select:focus {
     grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 
+  .experience-ribbon,
+  .mode-guide,
   .workspace-grid,
   .insight-grid {
     grid-template-columns: 1fr;

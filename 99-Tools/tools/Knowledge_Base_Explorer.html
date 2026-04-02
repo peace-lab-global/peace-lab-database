@@ -10,20 +10,28 @@
     <div class="app-shell">
       <header class="hero-panel">
         <div class="hero-meta">
-          <span class="eyebrow">Peace Lab Global · Knowledge Explorer</span>
+          <span class="eyebrow">Peace Lab Global · Healing Documentation Center</span>
           <span class="status-dot" id="dataStatus">索引加载中</span>
         </div>
         <div class="hero-copy">
           <div>
-            <h1>全库知识探索台</h1>
+            <h1>文档花园</h1>
             <p>
-              面向整个仓库的高性能内容浏览页面。支持全量内容读取、多视角筛选、结构化洞察与按需预览，适配桌面端与移动端。
+              一个带有疗愈气息的前端文档中心。你可以先从默认的标准浏览模式缓缓进入，再沿主题、结构、目录与时间等不同维度，自然地探索整个知识库。
             </p>
           </div>
           <div class="hero-actions">
-            <button class="ghost-button" id="clearFilters">清空筛选</button>
+            <button class="ghost-button" id="clearFilters">回到初始视野</button>
             <a class="primary-link" href="../../README.md" target="_blank" rel="noreferrer">打开根导航</a>
           </div>
+        </div>
+        <div class="experience-ribbon">
+          <div class="experience-copy">
+            <span class="section-kicker">Reading Atmosphere</span>
+            <h2>先平静浏览，再从不同角度深入内容</h2>
+            <p>默认以标准浏览模式进入；当你需要聚焦主题、目录脉络、结构化资料或最近更新时，可随时切换观察方式。</p>
+          </div>
+          <div class="focus-note" id="focusNote"></div>
         </div>
         <div class="overview-grid" id="overviewGrid"></div>
       </header>
@@ -31,8 +39,8 @@
       <section class="control-panel">
         <div class="search-row">
           <label class="search-box">
-            <span>搜索</span>
-            <input id="searchInput" type="search" placeholder="搜索标题、路径、摘要、标签、章节…" />
+            <span>检索</span>
+            <input id="searchInput" type="search" placeholder="搜索标题、路径、摘要、标签、章节与语义线索…" />
           </label>
           <label>
             <span>排序</span>
@@ -45,7 +53,7 @@
             </select>
           </label>
           <label>
-            <span>结果视图</span>
+            <span>查看方式</span>
             <select id="viewMode">
               <option value="cards">卡片流</option>
               <option value="pillar">按支柱分组</option>
@@ -55,6 +63,7 @@
           </label>
         </div>
 
+        <div class="mode-guide" id="modeGuide"></div>
         <div class="perspective-strip" id="perspectiveStrip"></div>
 
         <div class="filter-grid">
@@ -86,8 +95,8 @@
         <section class="results-panel panel-surface">
           <div class="section-heading">
             <div>
-              <span class="section-kicker">Content Browser</span>
-              <h2>内容结果集</h2>
+              <span class="section-kicker">Document Walk</span>
+              <h2>漫游中的文档</h2>
             </div>
             <p id="resultsMeta">正在构建结果…</p>
           </div>
@@ -121,9 +130,9 @@
             <div class="preview-metrics" id="previewMetrics"></div>
 
             <div class="tab-strip">
-              <button class="tab-button active" data-tab="rendered" type="button">阅读视图</button>
+              <button class="tab-button active" data-tab="rendered" type="button">静读视图</button>
               <button class="tab-button" data-tab="raw" type="button">原始内容</button>
-              <button class="tab-button" data-tab="meta" type="button">元数据</button>
+              <button class="tab-button" data-tab="meta" type="button">文档信息</button>
             </div>
 
             <div class="preview-body" id="previewBody"></div>
@@ -145,7 +154,7 @@
           <div class="section-heading compact">
             <div>
               <span class="section-kicker">Freshness</span>
-              <h3>最近更新</h3>
+              <h3>最近落笔</h3>
             </div>
           </div>
           <div class="mini-list" id="recentList"></div>
@@ -162,7 +171,7 @@
       </section>
 
       <footer class="footer-note">
-        建议从仓库根目录启动静态服务后访问本页，以便按需读取全部 Markdown / JSON / 脚本文件内容。
+        建议从仓库根目录启动静态服务后访问本页，让索引、阅读与多角度探索保持同样从容的节奏。
       </footer>
     </div>
 

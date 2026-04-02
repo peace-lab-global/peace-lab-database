@@ -1,17 +1,34 @@
 const DATA_URL = '../data/content_index.json';
 const FILE_BASE = '../../';
 const PAGE_SIZE = 60;
+const PROTECTED_EXTENSIONS = new Set(['.json', '.py', '.html', '.css', '.js', '.ts', '.yml', '.yaml']);
+const ROLE_LABELS = {
+  index: '导航索引',
+  readme: '说明文档',
+  overview: '概览文档',
+  framework: '方法框架',
+  guide: '指南手册',
+  template: '模板清单',
+  system_design: '系统设计',
+  taxonomy: '分类体系',
+  case_library: '案例资料',
+  tool: '工具脚本',
+  web_asset: '前端资产',
+  data: '结构化数据',
+  content: '正文内容',
+};
 
 const state = {
   data: null,
   query: '',
-  perspective: 'all',
+  perspective: 'standard',
   pillar: 'all',
   ext: 'all',
   role: 'all',
   depth: 'all',
   sort: 'relevance',
   view: 'cards',
+  mode: 'standard',
   visibleCount: PAGE_SIZE,
   filtered: [],
   selectedPath: null,
@@ -21,47 +38,88 @@ const state = {
 
 const perspectives = [
   {
-    id: 'all',
-    title: '全量内容',
-    description: '浏览整个仓库的全部可索引文本内容',
+    id: 'standard',
+    title: '标准浏览',
+    description: '默认模式，平衡检索、筛选与阅读体验',
     predicate: () => true,
   },
   {
     id: 'navigation',
-    title: '导航入口',
-    description: '聚焦 INDEX / README / Overview 等导航类内容',
+    title: '脉络入口',
+    description: '从 INDEX / README / Overview 等入口顺流而下',
     predicate: (entry) => entry.signals.navigation,
   },
   {
     id: 'structured',
-    title: '结构化数据',
-    description: 'JSON、Taxonomy、数据快照与训练素材',
+    title: '结构档案',
+    description: '查看 JSON、taxonomy、数据快照与结构化资料',
     predicate: (entry) => entry.signals.structured,
   },
   {
     id: 'methodology',
-    title: '方法与框架',
-    description: 'Framework / Guide / System Design 的方法论内容',
+    title: '方法手札',
+    description: '聚焦 framework / guide / system design 等方法内容',
     predicate: (entry) => entry.signals.methodology,
   },
   {
     id: 'tooling',
-    title: '工具与运维',
-    description: '99-Tools、脚本、页面资产与治理数据',
+    title: '工具侧写',
+    description: '查看页面资产、脚本与治理资料',
     predicate: (entry) => entry.signals.tooling,
   },
   {
     id: 'recent',
-    title: '最新更新',
-    description: '按最近修改时间优先查看新增与演进内容',
+    title: '最近落笔',
+    description: '沿时间线查看最近新增与演进内容',
     predicate: () => true,
     forceSort: 'recent',
+  },
+];
+
+const modePresets = [
+  {
+    id: 'standard',
+    title: '标准浏览',
+    description: '以卡片流与相关度排序，温和进入整个文档库。',
+    note: '适合首次进入或希望自由浏览全库时使用。',
+    perspective: 'standard',
+    view: 'cards',
+    sort: 'relevance',
+  },
+  {
+    id: 'atlas',
+    title: '目录漫游',
+    description: '按目录与导航脉络展开，适合建立整体感。',
+    note: '更适合顺着知识结构前进，而非只靠关键词检索。',
+    perspective: 'navigation',
+    view: 'pillar',
+    sort: 'title',
+  },
+  {
+    id: 'themes',
+    title: '主题深读',
+    description: '从方法、角色与语义聚类中寻找相近文档。',
+    note: '适合围绕某个问题做连续阅读与对比。',
+    perspective: 'methodology',
+    view: 'role',
+    sort: 'relevance',
+  },
+  {
+    id: 'recent',
+    title: '新近回声',
+    description: '优先查看最近更新，快速把握新增内容。',
+    note: '适合跟踪近期补充、修订与新建文档。',
+    perspective: 'recent',
+    view: 'cards',
+    sort: 'recent',
   },
 ];
 
 const el = {
   dataStatus: document.getElementById('dataStatus'),
   overviewGrid: document.getElementById('overviewGrid'),
+  focusNote: document.getElementById('focusNote'),
+  modeGuide: document.getElementById('modeGuide'),
   searchInput: document.getElementById('searchInput'),
   sortMode: document.getElementById('sortMode'),
   viewMode: document.getElementById('viewMode'),
@@ -138,6 +196,48 @@ function formatDate(value) {
 
 function buildFileUrl(path) {
   return new URL(`${FILE_BASE}${path}`, window.location.href).toString();
+}
+
+function roleLabel(role) {
+  return ROLE_LABELS[role] || role;
+}
+
+function isProtectedEntry(entry) {
+  return Boolean(entry && (entry.preview_policy === 'metadata_only' || PROTECTED_EXTENSIONS.has(entry.ext)));
+}
+
+function syncPreviewTabs(entry) {
+  const protectedEntry = isProtectedEntry(entry);
+  document.querySelectorAll('.tab-button').forEach((button) => {
+    const isRawTab = button.dataset.tab === 'raw';
+    button.hidden = protectedEntry && isRawTab;
+    if (protectedEntry && isRawTab) {
+      button.classList.remove('active');
+    }
+  });
+
+  if (protectedEntry && state.previewTab === 'raw') {
+    state.previewTab = 'rendered';
+  }
+
+  document.querySelectorAll('.tab-button').forEach((button) => {
+    button.classList.toggle('active', button.dataset.tab === state.previewTab);
+  });
+}
+
+function renderProtectedPreview(entry) {
+  return `
+    <div class="content-pane secure-preview">
+      <span class="summary-chip">安全预览模式</span>
+      <h3>该文件类型已启用源码保护</h3>
+      <p>${escapeHtml(entry.excerpt || '该资产仅展示安全摘要与元数据。')}</p>
+      <ul>
+        <li>卡片列表不再展示源码首行或原始配置片段。</li>
+        <li>预览区默认隐藏 HTML / CSS / JavaScript / Python / JSON / YAML 原文。</li>
+        <li>如需继续研判，请切换到“元数据”查看路径、角色、标签、更新时间等非敏感信息。</li>
+      </ul>
+    </div>
+  `;
 }
 
 function normalizeText(entry) {
@@ -265,6 +365,56 @@ function renderPerspectiveStrip() {
     .join('');
 }
 
+function viewLabel(view) {
+  return {
+    cards: '卡片流',
+    pillar: '按支柱分组',
+    role: '按角色分组',
+    directory: '按目录分组',
+  }[view] || view;
+}
+
+function syncModeFromState() {
+  const matched = modePresets.find((item) => item.perspective === state.perspective && item.view === state.view && item.sort === state.sort);
+  state.mode = matched?.id || 'standard';
+}
+
+function renderModeGuide() {
+  el.modeGuide.innerHTML = modePresets
+    .map((item) => `
+      <button class="mode-card ${item.id === state.mode ? 'active' : ''}" data-mode-preset="${item.id}" type="button">
+        <span class="section-kicker">${escapeHtml(item.title)}</span>
+        <strong>${escapeHtml(item.description)}</strong>
+        <p>${escapeHtml(item.note)}</p>
+      </button>
+    `)
+    .join('');
+}
+
+function renderFocusNote() {
+  const perspective = getActivePerspective();
+  const preset = modePresets.find((item) => item.id === state.mode) || modePresets[0];
+  el.focusNote.innerHTML = `
+    <span class="section-kicker">Current Flow</span>
+    <strong>${escapeHtml(preset.title)}</strong>
+    <p>${escapeHtml(preset.note)}</p>
+    <small>当前视角：${escapeHtml(perspective.title)} · 当前查看方式：${escapeHtml(viewLabel(state.view))}</small>
+  `;
+}
+
+function applyModePreset(modeId) {
+  const preset = modePresets.find((item) => item.id === modeId);
+  if (!preset) return;
+  state.mode = preset.id;
+  state.perspective = preset.perspective;
+  state.view = preset.view;
+  state.sort = preset.sort;
+  state.visibleCount = PAGE_SIZE;
+  el.viewMode.value = state.view;
+  el.sortMode.value = state.sort;
+  updateView();
+}
+
 function populateSelect(target, items, allLabel) {
   const current = target.value;
   target.innerHTML = [`<option value="all">${allLabel}</option>`]
@@ -279,34 +429,40 @@ function renderFilters() {
     label: state.data.pillars.find((item) => item.key === key)?.label || key,
   }));
   const exts = Object.keys(state.data.stats.by_ext).map((key) => ({ value: key, label: `${key} · ${formatCount(state.data.stats.by_ext[key])}` }));
-  const roles = Object.keys(state.data.stats.by_role).map((key) => ({ value: key, label: `${key} · ${formatCount(state.data.stats.by_role[key])}` }));
+  const roles = Object.keys(state.data.stats.by_role).map((key) => ({ value: key, label: `${roleLabel(key)} · ${formatCount(state.data.stats.by_role[key])}` }));
 
   populateSelect(el.pillarFilter, topDirs, '全部目录');
   populateSelect(el.extFilter, exts, '全部类型');
   populateSelect(el.roleFilter, roles, '全部角色');
 }
 
-function buildSummaryChips(entries) {
+function buildSummaryChips() {
   const chips = [];
   const activePerspective = getActivePerspective();
-  chips.push(`${activePerspective.title}`);
+  chips.push(`模式：${activePerspective.title}`);
   if (state.query) chips.push(`关键词：${state.query}`);
   if (state.pillar !== 'all') chips.push(`目录：${state.pillar}`);
   if (state.ext !== 'all') chips.push(`类型：${state.ext}`);
-  if (state.role !== 'all') chips.push(`角色：${state.role}`);
+  if (state.role !== 'all') chips.push(`角色：${roleLabel(state.role)}`);
   if (state.depth !== 'all') chips.push(`层级：${state.depth}`);
   if (!chips.length) return '';
   return chips.map((item) => `<span class="summary-chip">${escapeHtml(item)}</span>`).join('');
 }
 
 function buildMetaBadges(entry) {
-  return [
+  const badges = [
     `<span class="badge accent">${escapeHtml(entry.top_dir)}</span>`,
     `<span class="badge">${escapeHtml(entry.ext)}</span>`,
-    `<span class="badge">${escapeHtml(entry.primary_role)}</span>`,
+    `<span class="badge">${escapeHtml(roleLabel(entry.primary_role))}</span>`,
     `<span class="badge">${formatCount(entry.lines)} 行</span>`,
     `<span class="badge">${entry.reading_minutes} 分钟</span>`,
-  ].join('');
+  ];
+
+  if (isProtectedEntry(entry)) {
+    badges.splice(3, 0, '<span class="badge warning">安全预览</span>');
+  }
+
+  return badges.join('');
 }
 
 function renderCard(entry) {
@@ -374,7 +530,7 @@ function renderResults() {
   } else if (state.view === 'pillar') {
     el.resultsContainer.innerHTML = renderGrouped(visibleEntries, (entry) => entry.top_dir, (key) => state.data.pillars.find((item) => item.key === key)?.label || key);
   } else if (state.view === 'role') {
-    el.resultsContainer.innerHTML = renderGrouped(visibleEntries, (entry) => entry.primary_role, (key) => `Role · ${key}`);
+    el.resultsContainer.innerHTML = renderGrouped(visibleEntries, (entry) => entry.primary_role, (key) => `Role · ${roleLabel(key)}`);
   } else {
     el.resultsContainer.innerHTML = renderGrouped(visibleEntries, (entry) => entry.directory, (key) => `Directory · ${key}`);
   }
@@ -439,7 +595,7 @@ function renderInlineMarkdown(text) {
   return escapeHtml(text)
     .replace(/`([^`]+)`/g, '<code>$1</code>')
     .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, url) => `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${label}</a>`);
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, (_, label, url) => `<a href="${escapeHtml(url)}" target="_blank" rel="noreferrer">${escapeHtml(label)}</a>`);
 }
 
 function renderMarkdown(content) {
@@ -536,8 +692,9 @@ function renderMeta(entry) {
     ['路径', entry.path],
     ['一级目录', entry.top_dir_label],
     ['目录', entry.directory],
-    ['角色', entry.roles.join(', ')],
+    ['角色', entry.roles.map(roleLabel).join(' · ')],
     ['类型', entry.ext],
+    ['预览策略', isProtectedEntry(entry) ? '仅安全摘要与元数据' : '允许正文与原始内容预览'],
     ['大小', formatBytes(entry.size)],
     ['行数', `${formatCount(entry.lines)} 行`],
     ['阅读时长', `${entry.reading_minutes} 分钟`],
@@ -572,24 +729,37 @@ async function renderPreview() {
     return;
   }
 
+  const protectedEntry = isProtectedEntry(entry);
+
   el.previewEmpty.hidden = true;
   el.previewContent.hidden = false;
   el.previewKicker.textContent = entry.top_dir_label;
   el.previewTitle.textContent = entry.title;
   el.previewPath.textContent = entry.path;
-  el.openFileLink.href = buildFileUrl(entry.path);
+  el.openFileLink.hidden = protectedEntry;
+  if (!protectedEntry) {
+    el.openFileLink.href = buildFileUrl(entry.path);
+  } else {
+    el.openFileLink.removeAttribute('href');
+  }
   el.previewMetrics.innerHTML = buildMetaBadges(entry);
+  syncPreviewTabs(entry);
+
+  if (state.previewTab === 'meta') {
+    el.previewBody.innerHTML = renderMeta(entry);
+    return;
+  }
+
+  if (protectedEntry) {
+    el.previewBody.innerHTML = renderProtectedPreview(entry);
+    return;
+  }
 
   el.previewBody.innerHTML = '<div class="content-pane"><p>正在读取原始文件内容…</p></div>';
 
   try {
     const content = await loadFileContent(entry);
     if (entry.path !== state.selectedPath) return;
-
-    if (state.previewTab === 'meta') {
-      el.previewBody.innerHTML = renderMeta(entry);
-      return;
-    }
 
     if (state.previewTab === 'raw') {
       el.previewBody.innerHTML = renderRaw(content);
@@ -607,7 +777,10 @@ async function renderPreview() {
 }
 
 function updateView() {
+  syncModeFromState();
   filterEntries();
+  renderModeGuide();
+  renderFocusNote();
   renderPerspectiveStrip();
   renderResults();
 }
@@ -635,7 +808,7 @@ function bindEvents() {
 
   el.viewMode.addEventListener('change', (event) => {
     state.view = event.target.value;
-    renderResults();
+    updateView();
   });
 
   el.pillarFilter.addEventListener('change', (event) => {
@@ -664,7 +837,8 @@ function bindEvents() {
 
   el.clearFilters.addEventListener('click', () => {
     state.query = '';
-    state.perspective = 'all';
+    state.mode = 'standard';
+    state.perspective = 'standard';
     state.pillar = 'all';
     state.ext = 'all';
     state.role = 'all';
@@ -686,6 +860,12 @@ function bindEvents() {
   });
 
   document.addEventListener('click', (event) => {
+    const modeButton = event.target.closest('[data-mode-preset]');
+    if (modeButton) {
+      applyModePreset(modeButton.dataset.modePreset);
+      return;
+    }
+
     const perspectiveButton = event.target.closest('[data-perspective]');
     if (perspectiveButton) {
       state.perspective = perspectiveButton.dataset.perspective;
@@ -766,7 +946,6 @@ async function bootstrap() {
     state.data = prepareData(await response.json());
     renderOverview();
     renderFilters();
-    renderPerspectiveStrip();
     renderStaticInsights();
     filterEntries();
 

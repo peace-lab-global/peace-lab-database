@@ -312,6 +312,7 @@ def build_entry(file_path: Path) -> Dict:
         "reading_minutes": reading_minutes,
         "modified_at": datetime.fromtimestamp(stat.st_mtime).isoformat(timespec="seconds"),
         "modified_ts": int(stat.st_mtime),
+        "preview_policy": "metadata_only" if ext in PROTECTED_EXTENSIONS else "full_text",
         "roles": roles,
         "primary_role": primary_role(roles),
         "tags": extract_tags(relative_path, title),
@@ -421,7 +422,7 @@ def build_payload() -> Dict:
         "meta": {
             "project": "Peace Lab Database",
             "generated_at": datetime.now().isoformat(timespec="seconds"),
-            "source_root": str(PROJECT_ROOT),
+            "source_root": ".",
             "content_fetch_base": "../../",
         },
         "stats": stats,
