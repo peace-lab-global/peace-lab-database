@@ -1,12 +1,21 @@
-# overview | Index
+# overview | 冥想概览 Index
 
 ## 内容索引 | Contents
 
-- [Meditation Advanced](Meditation_Advanced.md)
-- [Meditation Applications](Meditation_Applications.md)
-- [Meditation Clinical Applications](Meditation_Clinical_Applications.md)
-- [Meditation Core](Meditation_Core.md)
-- [Meditation General](Meditation_General.md)
-- [Meditation Neuroscience Mechanisms](Meditation_Neuroscience_Mechanisms.md)
-- [Meditation Resources](Meditation_Resources.md)
-- [Meditation Types Classification](Meditation_Types_Classification.md)
+- [Meditation Core | 冥想核心基础](Meditation_Core.md)
+- [Meditation General | 冥想通论](Meditation_General.md)
+- [Meditation Types Classification | 冥想类型分类学](Meditation_Types_Classification.md)
+- [Meditation Neuroscience Mechanisms | 冥想神经科学机制](Meditation_Neuroscience_Mechanisms.md)
+- [Meditation Clinical Applications | 冥想临床应用](Meditation_Clinical_Applications.md)
+- [Meditation Advanced | 冥想高阶内容](Meditation_Advanced.md)
+- [Meditation Applications | 冥想应用综述](Meditation_Applications.md)
+- [Meditation Resources | 冥想资源汇总](Meditation_Resources.md)
+- [Meditation Practitioner QA | 冥想执行师Q&A](Meditation_Practitioner_QA.md)
+- [Meditation Mind Management | 冥想心念管理方法论](Meditation_Mind_Management.md) **[NEW]**
+- [Meditation Philosophical Foundations | 冥想哲学认知论基础](Meditation_Philosophical_Foundations.md) **[NEW]**
+- [Meditation Brain Science Foundations | 冥想脑科学基础](Meditation_Brain_Science_Foundations.md) **[NEW]**
+- [TM Research Evidence | 超觉静坐研究证据](TM_Research_Evidence.md)
+- [Vipassana Practice Guide | 内观禅修实践指南](Vipassana_Practice_Guide.md)
+- [Movement Meditation | 动态冥想指南](Movement_Meditation.md)
+- [Children Youth Meditation | 儿童青少年冥想](Children_Youth_Meditation.md)
+- [Meditation And Sleep | 冥想与睡眠](Meditation_And_Sleep.md)

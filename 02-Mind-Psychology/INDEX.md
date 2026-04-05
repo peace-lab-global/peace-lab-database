@@ -43,10 +43,14 @@
 
 ### 3. 🧘‍♂️ 冥想技术与意识研究 (Meditation & Consciousness)
 - [冥想基础与核心技术 (Core Meditation)](meditation/overview/Meditation_Core.md)
+- [**冥想心念管理方法论 (Mind Management)**](meditation/overview/Meditation_Mind_Management.md) **[NEW]** - 四步法、止观五阶段、明觉与转化
+- [**冥想哲学认知论基础 (Philosophical Foundations)**](meditation/overview/Meditation_Philosophical_Foundations.md) **[NEW]** - 东西方认知论、冥想起源与词源
+- [**冥想脑科学基础 (Brain Science Foundations)**](meditation/overview/Meditation_Brain_Science_Foundations.md) **[NEW]** - 伽马波监测、特定人群功效、精神疾病市场背景
 - [直接认知/直指体系 (Direct Recognition)](meditation/direct_recognition/)
 - [坛城与曼荼罗体系 (Mandala System)](meditation/mandala-meditation/Mandala_Meditation_Overview.md)
 - [萨提亚家族治疗模式 (Satir Model)](meditation/satir-model/Satir_Model_Overview.md)
 - [内观与先验冥想 (Vipassana & TM)](meditation/vipassana/Vipassana_Meditation.md)
+- [冥想执行师培训问答 (Practitioner Training QA)](meditation/overview/Meditation_Practitioner_QA.md) **[NEW]**
 
 ### 4. 🧪 循证疗法与感官治疗 (Evidence-Based & Sensory Therapy)
 - [正念认知疗法 (MBCT)](therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md)

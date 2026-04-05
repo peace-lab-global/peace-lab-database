@@ -959,7 +959,7 @@ async function bootstrap() {
     bindEvents();
   } catch (error) {
     el.dataStatus.textContent = '索引加载失败';
-    el.resultsContainer.innerHTML = `<div class="group-block"><h3>无法加载页面索引</h3><p>${escapeHtml(error.message)}</p><p>请先生成 \`99-Tools/data/content_index.json\`，并通过本地静态服务访问当前页面。</p></div>`;
+    el.resultsContainer.innerHTML = `<div class="group-block"><h3>无法加载页面索引</h3><p>${escapeHtml(error.message)}</p><p>请先生成 \`Tools/data/content_index.json\`，并通过本地静态服务访问当前页面。</p></div>`;
     el.loadMoreBtn.classList.add('hidden');
   }
 }

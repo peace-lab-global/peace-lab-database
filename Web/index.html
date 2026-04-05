@@ -1,0 +1,1023 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="Peace Lab Database - 多维度身心疗愈与个人进化知识体系，整合古代智慧传承、现代心理学、生命科学及人文艺术实践。">
+  <meta name="keywords" content="身心疗愈,个人成长,心理学,冥想,瑜伽,知识库">
+  <title>Peace Lab Database | 平静实验室知识库</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-primary: #1a1a2e;
+      --color-primary-light: #252542;
+      --color-accent-teal: #16a085;
+      --color-accent-purple: #6c5ce7;
+      --color-accent-gold: #f39c12;
+      --color-text: #2d3436;
+      --color-text-light: #636e72;
+      --color-bg: #ffffff;
+      --color-bg-light: #f8f9fa;
+      --color-border: #e9ecef;
+      --font-en: 'Inter', sans-serif;
+      --font-cn: 'Noto Sans SC', sans-serif;
+      --shadow-sm: 0 2px 8px rgba(0,0,0,0.08);
+      --shadow-md: 0 4px 20px rgba(0,0,0,0.1);
+      --shadow-lg: 0 8px 40px rgba(0,0,0,0.12);
+      --radius-sm: 8px;
+      --radius-md: 12px;
+      --radius-lg: 20px;
+      --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    }
+
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    html {
+      scroll-behavior: smooth;
+    }
+
+    body {
+      font-family: var(--font-cn);
+      color: var(--color-text);
+      background: var(--color-bg);
+      line-height: 1.6;
+      overflow-x: hidden;
+    }
+
+    .container {
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px;
+    }
+
+    /* Navigation */
+    .navbar {
+      position: fixed;
+      top: 0;
+      left: 0;
+      right: 0;
+      z-index: 1000;
+      background: rgba(255, 255, 255, 0.95);
+      backdrop-filter: blur(10px);
+      border-bottom: 1px solid var(--color-border);
+      transition: var(--transition);
+    }
+
+    .navbar.scrolled {
+      box-shadow: var(--shadow-sm);
+    }
+
+    .navbar .container {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      height: 72px;
+    }
+
+    .nav-brand {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      text-decoration: none;
+      color: var(--color-primary);
+    }
+
+    .nav-logo {
+      width: 40px;
+      height: 40px;
+      background: linear-gradient(135deg, var(--color-accent-teal), var(--color-accent-purple));
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 20px;
+    }
+
+    .nav-title {
+      font-family: var(--font-en);
+      font-weight: 700;
+      font-size: 1.25rem;
+    }
+
+    .nav-links {
+      display: flex;
+      align-items: center;
+      gap: 32px;
+      list-style: none;
+    }
+
+    .nav-links a {
+      text-decoration: none;
+      color: var(--color-text);
+      font-weight: 500;
+      font-size: 0.95rem;
+      transition: var(--transition);
+    }
+
+    .nav-links a:hover {
+      color: var(--color-accent-teal);
+    }
+
+    .nav-cta {
+      background: var(--color-primary);
+      color: white !important;
+      padding: 10px 24px;
+      border-radius: var(--radius-sm);
+      font-weight: 600;
+    }
+
+    .nav-cta:hover {
+      background: var(--color-primary-light);
+      color: white !important;
+    }
+
+    .nav-toggle {
+      display: none;
+      flex-direction: column;
+      gap: 5px;
+      cursor: pointer;
+      padding: 8px;
+    }
+
+    .nav-toggle span {
+      width: 24px;
+      height: 2px;
+      background: var(--color-primary);
+      transition: var(--transition);
+    }
+
+    /* Hero Section */
+    .hero {
+      min-height: 100vh;
+      display: flex;
+      align-items: center;
+      position: relative;
+      padding-top: 72px;
+      background: linear-gradient(135deg, var(--color-bg) 0%, var(--color-bg-light) 50%, #e8f4f8 100%);
+      overflow: hidden;
+    }
+
+    .hero::before {
+      content: '';
+      position: absolute;
+      top: -50%;
+      right: -20%;
+      width: 80%;
+      height: 150%;
+      background: radial-gradient(ellipse, rgba(22, 160, 133, 0.08) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero::after {
+      content: '';
+      position: absolute;
+      bottom: -30%;
+      left: -10%;
+      width: 60%;
+      height: 100%;
+      background: radial-gradient(ellipse, rgba(108, 92, 231, 0.06) 0%, transparent 70%);
+      pointer-events: none;
+    }
+
+    .hero-content {
+      position: relative;
+      z-index: 1;
+      text-align: center;
+      padding: 60px 0;
+    }
+
+    .hero-badge {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: linear-gradient(135deg, rgba(22, 160, 133, 0.1), rgba(108, 92, 231, 0.1));
+      padding: 8px 20px;
+      border-radius: 50px;
+      font-size: 0.875rem;
+      color: var(--color-accent-teal);
+      font-weight: 500;
+      margin-bottom: 24px;
+      border: 1px solid rgba(22, 160, 133, 0.2);
+    }
+
+    .hero-title {
+      font-family: var(--font-en);
+      font-size: clamp(2.5rem, 6vw, 4rem);
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 8px;
+      letter-spacing: -0.02em;
+    }
+
+    .hero-title-cn {
+      font-size: clamp(1.5rem, 3vw, 2rem);
+      font-weight: 600;
+      color: var(--color-text-light);
+      margin-bottom: 20px;
+    }
+
+    .hero-subtitle {
+      font-size: clamp(1.1rem, 2vw, 1.35rem);
+      color: var(--color-text-light);
+      max-width: 600px;
+      margin: 0 auto 48px;
+      line-height: 1.8;
+    }
+
+    .hero-stats {
+      display: flex;
+      justify-content: center;
+      gap: 48px;
+      margin-bottom: 48px;
+      flex-wrap: wrap;
+    }
+
+    .stat-item {
+      text-align: center;
+    }
+
+    .stat-number {
+      font-family: var(--font-en);
+      font-size: clamp(2rem, 4vw, 3rem);
+      font-weight: 700;
+      background: linear-gradient(135deg, var(--color-accent-teal), var(--color-accent-purple));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+
+    .stat-label {
+      font-size: 0.95rem;
+      color: var(--color-text-light);
+      margin-top: 4px;
+    }
+
+    .hero-actions {
+      display: flex;
+      justify-content: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+
+    .btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      padding: 16px 32px;
+      border-radius: var(--radius-sm);
+      font-weight: 600;
+      font-size: 1rem;
+      text-decoration: none;
+      transition: var(--transition);
+      cursor: pointer;
+      border: none;
+    }
+
+    .btn-primary {
+      background: linear-gradient(135deg, var(--color-accent-teal), #1abc9c);
+      color: white;
+      box-shadow: 0 4px 15px rgba(22, 160, 133, 0.3);
+    }
+
+    .btn-primary:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 6px 20px rgba(22, 160, 133, 0.4);
+    }
+
+    .btn-secondary {
+      background: var(--color-bg);
+      color: var(--color-primary);
+      border: 2px solid var(--color-border);
+    }
+
+    .btn-secondary:hover {
+      border-color: var(--color-accent-teal);
+      color: var(--color-accent-teal);
+    }
+
+    /* Sections */
+    .section {
+      padding: 100px 0;
+    }
+
+    .section-header {
+      text-align: center;
+      margin-bottom: 60px;
+    }
+
+    .section-badge {
+      display: inline-block;
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--color-accent-teal);
+      text-transform: uppercase;
+      letter-spacing: 0.1em;
+      margin-bottom: 16px;
+    }
+
+    .section-title {
+      font-size: clamp(1.75rem, 4vw, 2.5rem);
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 16px;
+    }
+
+    .section-desc {
+      font-size: 1.1rem;
+      color: var(--color-text-light);
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    /* Pillars */
+    .pillars {
+      background: var(--color-bg-light);
+    }
+
+    .pillars-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 24px;
+    }
+
+    .pillar-card {
+      background: var(--color-bg);
+      border-radius: var(--radius-md);
+      padding: 32px;
+      box-shadow: var(--shadow-sm);
+      transition: var(--transition);
+      border: 1px solid var(--color-border);
+    }
+
+    .pillar-card:hover {
+      transform: translateY(-4px);
+      box-shadow: var(--shadow-md);
+      border-color: transparent;
+    }
+
+    .pillar-icon {
+      width: 64px;
+      height: 64px;
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+      margin-bottom: 20px;
+    }
+
+    .pillar-card:nth-child(1) .pillar-icon { background: rgba(22, 160, 133, 0.1); }
+    .pillar-card:nth-child(2) .pillar-icon { background: rgba(108, 92, 231, 0.1); }
+    .pillar-card:nth-child(3) .pillar-icon { background: rgba(243, 156, 18, 0.1); }
+    .pillar-card:nth-child(4) .pillar-icon { background: rgba(231, 76, 60, 0.1); }
+    .pillar-card:nth-child(5) .pillar-icon { background: rgba(46, 204, 113, 0.1); }
+
+    .pillar-title {
+      font-size: 1.25rem;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 4px;
+    }
+
+    .pillar-title-en {
+      font-family: var(--font-en);
+      font-size: 0.875rem;
+      font-weight: 500;
+      color: var(--color-text-light);
+      margin-bottom: 16px;
+    }
+
+    .pillar-desc {
+      font-size: 0.95rem;
+      color: var(--color-text-light);
+      line-height: 1.7;
+    }
+
+    /* Features */
+    .features-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 32px;
+    }
+
+    .feature-item {
+      text-align: center;
+      padding: 32px 24px;
+    }
+
+    .feature-icon {
+      width: 72px;
+      height: 72px;
+      margin: 0 auto 20px;
+      background: linear-gradient(135deg, rgba(22, 160, 133, 0.1), rgba(108, 92, 231, 0.1));
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 32px;
+    }
+
+    .feature-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 12px;
+    }
+
+    .feature-desc {
+      font-size: 0.95rem;
+      color: var(--color-text-light);
+      line-height: 1.7;
+    }
+
+    /* Users */
+    .users {
+      background: linear-gradient(135deg, var(--color-primary) 0%, var(--color-primary-light) 100%);
+      color: white;
+    }
+
+    .users .section-badge {
+      color: var(--color-accent-teal);
+    }
+
+    .users .section-title {
+      color: white;
+    }
+
+    .users .section-desc {
+      color: rgba(255, 255, 255, 0.7);
+    }
+
+    .users-grid {
+      display: flex;
+      justify-content: center;
+      gap: 24px;
+      flex-wrap: wrap;
+    }
+
+    .user-tag {
+      display: inline-flex;
+      align-items: center;
+      gap: 10px;
+      background: rgba(255, 255, 255, 0.1);
+      backdrop-filter: blur(10px);
+      padding: 16px 28px;
+      border-radius: 50px;
+      font-size: 1rem;
+      font-weight: 500;
+      border: 1px solid rgba(255, 255, 255, 0.15);
+      transition: var(--transition);
+    }
+
+    .user-tag:hover {
+      background: rgba(255, 255, 255, 0.15);
+      transform: translateY(-2px);
+    }
+
+    .user-tag span {
+      font-size: 1.25rem;
+    }
+
+    /* Timeline */
+    .timeline {
+      background: var(--color-bg-light);
+    }
+
+    .timeline-container {
+      max-width: 800px;
+      margin: 0 auto;
+      position: relative;
+    }
+
+    .timeline-container::before {
+      content: '';
+      position: absolute;
+      left: 24px;
+      top: 0;
+      bottom: 0;
+      width: 2px;
+      background: linear-gradient(to bottom, var(--color-accent-teal), var(--color-accent-purple));
+    }
+
+    .timeline-item {
+      position: relative;
+      padding-left: 72px;
+      padding-bottom: 48px;
+    }
+
+    .timeline-item:last-child {
+      padding-bottom: 0;
+    }
+
+    .timeline-dot {
+      position: absolute;
+      left: 12px;
+      top: 4px;
+      width: 24px;
+      height: 24px;
+      background: var(--color-bg);
+      border: 3px solid var(--color-accent-teal);
+      border-radius: 50%;
+    }
+
+    .timeline-date {
+      font-family: var(--font-en);
+      font-size: 0.875rem;
+      font-weight: 600;
+      color: var(--color-accent-teal);
+      margin-bottom: 8px;
+    }
+
+    .timeline-title {
+      font-size: 1.15rem;
+      font-weight: 700;
+      color: var(--color-primary);
+      margin-bottom: 12px;
+    }
+
+    .timeline-desc {
+      font-size: 0.95rem;
+      color: var(--color-text-light);
+      line-height: 1.7;
+    }
+
+    /* Footer */
+    .footer {
+      background: var(--color-primary);
+      color: white;
+      padding: 60px 0 40px;
+    }
+
+    .footer-content {
+      text-align: center;
+    }
+
+    .footer-brand {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 12px;
+      margin-bottom: 20px;
+    }
+
+    .footer-logo {
+      width: 48px;
+      height: 48px;
+      background: linear-gradient(135deg, var(--color-accent-teal), var(--color-accent-purple));
+      border-radius: var(--radius-sm);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-size: 24px;
+    }
+
+    .footer-title {
+      font-family: var(--font-en);
+      font-size: 1.5rem;
+      font-weight: 700;
+    }
+
+    .footer-desc {
+      color: rgba(255, 255, 255, 0.6);
+      margin-bottom: 24px;
+      font-size: 0.95rem;
+    }
+
+    .footer-links {
+      display: flex;
+      justify-content: center;
+      gap: 32px;
+      margin-bottom: 32px;
+    }
+
+    .footer-links a {
+      color: rgba(255, 255, 255, 0.7);
+      text-decoration: none;
+      font-size: 0.95rem;
+      transition: var(--transition);
+    }
+
+    .footer-links a:hover {
+      color: var(--color-accent-teal);
+    }
+
+    .footer-divider {
+      height: 1px;
+      background: rgba(255, 255, 255, 0.1);
+      margin-bottom: 24px;
+    }
+
+    .footer-copyright {
+      font-size: 0.875rem;
+      color: rgba(255, 255, 255, 0.5);
+    }
+
+    /* Animations */
+    .fade-in {
+      opacity: 0;
+      transform: translateY(30px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    .fade-in.visible {
+      opacity: 1;
+      transform: translateY(0);
+    }
+
+    /* Responsive */
+    @media (max-width: 1024px) {
+      .hero-stats {
+        gap: 32px;
+      }
+    }
+
+    @media (max-width: 768px) {
+      .nav-links {
+        position: fixed;
+        top: 72px;
+        left: 0;
+        right: 0;
+        background: var(--color-bg);
+        flex-direction: column;
+        padding: 24px;
+        gap: 20px;
+        border-bottom: 1px solid var(--color-border);
+        transform: translateY(-100%);
+        opacity: 0;
+        visibility: hidden;
+        transition: var(--transition);
+      }
+
+      .nav-links.active {
+        transform: translateY(0);
+        opacity: 1;
+        visibility: visible;
+      }
+
+      .nav-toggle {
+        display: flex;
+      }
+
+      .hero-stats {
+        gap: 24px;
+      }
+
+      .stat-item {
+        min-width: 100px;
+      }
+
+      .section {
+        padding: 60px 0;
+      }
+
+      .pillars-grid {
+        grid-template-columns: 1fr;
+      }
+
+      .timeline-container::before {
+        left: 16px;
+      }
+
+      .timeline-item {
+        padding-left: 56px;
+      }
+
+      .timeline-dot {
+        left: 4px;
+      }
+
+      .footer-links {
+        flex-wrap: wrap;
+        gap: 16px;
+      }
+    }
+
+    @media (max-width: 480px) {
+      .hero-actions {
+        flex-direction: column;
+        width: 100%;
+        padding: 0 16px;
+      }
+
+      .btn {
+        width: 100%;
+        justify-content: center;
+      }
+
+      .users-grid {
+        flex-direction: column;
+        align-items: center;
+      }
+
+      .user-tag {
+        width: 100%;
+        max-width: 280px;
+        justify-content: center;
+      }
+    }
+  </style>
+</head>
+<body>
+  <!-- Navigation -->
+  <nav class="navbar" id="navbar">
+    <div class="container">
+      <a href="#" class="nav-brand">
+        <div class="nav-logo">🌿</div>
+        <span class="nav-title">Peace Lab</span>
+      </a>
+      <ul class="nav-links" id="navLinks">
+        <li><a href="#">首页</a></li>
+        <li><a href="#pillars">五大支柱</a></li>
+        <li><a href="#features">内容优势</a></li>
+        <li><a href="#timeline">发展历程</a></li>
+        <li><a href="./docs/" class="nav-cta">开始阅读</a></li>
+      </ul>
+      <div class="nav-toggle" id="navToggle">
+        <span></span>
+        <span></span>
+        <span></span>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <div class="container">
+      <div class="hero-content">
+        <div class="hero-badge">
+          🚀 每日迭代 · Daily Updates
+        </div>
+        <h1 class="hero-title">Peace Lab Database</h1>
+        <p class="hero-title-cn">平静实验室知识库</p>
+        <p class="hero-subtitle">多维度身心疗愈与个人进化知识体系<br>整合古代智慧传承、现代心理学、生命科学及人文艺术实践</p>
+        <div class="hero-stats">
+          <div class="stat-item">
+            <div class="stat-number" data-target="141">0</div>
+            <div class="stat-label">专题领域</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number" data-target="1855">0</div>
+            <div class="stat-label">专业文档</div>
+          </div>
+          <div class="stat-item">
+            <div class="stat-number" data-target="340000">0</div>
+            <div class="stat-label">核心行数</div>
+          </div>
+        </div>
+        <div class="hero-actions">
+          <a href="./docs/" class="btn btn-primary">开始阅读文档 →</a>
+          <a href="#pillars" class="btn btn-secondary">了解更多</a>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Five Pillars -->
+  <section class="section pillars" id="pillars">
+    <div class="container">
+      <div class="section-header fade-in">
+        <div class="section-badge">Core Pillars</div>
+        <h2 class="section-title">五大核心支柱</h2>
+        <p class="section-desc">通过"五大核心支柱"架构，整合人类身心发展的全维度知识</p>
+      </div>
+      <div class="pillars-grid">
+        <div class="pillar-card fade-in">
+          <div class="pillar-icon">🏛️</div>
+          <h3 class="pillar-title">智慧传承</h3>
+          <p class="pillar-title-en">Wisdom Traditions</p>
+          <p class="pillar-desc">瑜伽哲学、禅宗/道家/佛教全体系、黄帝内经养生、东西方古典哲学、全球灵性疗愈传统</p>
+        </div>
+        <div class="pillar-card fade-in">
+          <div class="pillar-icon">🧠</div>
+          <h3 class="pillar-title">心智与心理学</h3>
+          <p class="pillar-title-en">Mind & Psychology</p>
+          <p class="pillar-desc">现代心理流派、临床干预(焦虑/创伤/成瘾)、冥想技术(坛城/直指/心念管理方法论/脑科学实证)、感官与循证疗法、情感银行与亲子理解</p>
+        </div>
+        <div class="pillar-card fade-in">
+          <div class="pillar-icon">🏃</div>
+          <h3 class="pillar-title">生命科学与生物医学</h3>
+          <p class="pillar-title-en">Bio-Science & Medicine</p>
+          <p class="pillar-desc">生物黑客(睡眠/断食/呼吸/血压调节)、神经科学(BCI/DMN)、身心能量恢复、办公健康、性学研究</p>
+        </div>
+        <div class="pillar-card fade-in">
+          <div class="pillar-icon">🎨</div>
+          <h3 class="pillar-title">人文与艺术疗愈</h3>
+          <p class="pillar-title-en">Humanities & Arts</p>
+          <p class="pillar-desc">艺术史与艺术疗法、芭蕾艺术全系、古典音乐疗愈、影音媒体与深度阅读</p>
+        </div>
+        <div class="pillar-card fade-in">
+          <div class="pillar-icon">🌱</div>
+          <h3 class="pillar-title">实践与个人增长</h3>
+          <p class="pillar-title-en">Praxis & Growth</p>
+          <p class="pillar-desc">超级个体商业模式、工作效率与执行力、心力成长与稳定内核、高效沟通与结构化表达、心流与专注力</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Features -->
+  <section class="section features" id="features">
+    <div class="container">
+      <div class="section-header fade-in">
+        <div class="section-badge">Advantages</div>
+        <h2 class="section-title">内容优势</h2>
+        <p class="section-desc">专业深度与广度兼具的知识体系</p>
+      </div>
+      <div class="features-grid">
+        <div class="feature-item fade-in">
+          <div class="feature-icon">🔬</div>
+          <h3 class="feature-title">专业深度</h3>
+          <p class="feature-desc">循证科学与传统智慧深度融合，每个主题都经过系统化梳理与专业验证</p>
+        </div>
+        <div class="feature-item fade-in">
+          <div class="feature-icon">🔗</div>
+          <h3 class="feature-title">跨学科整合</h3>
+          <p class="feature-desc">五大支柱交叉关联，打破学科壁垒，构建整体性知识网络</p>
+        </div>
+        <div class="feature-item fade-in">
+          <div class="feature-icon">🔄</div>
+          <h3 class="feature-title">持续迭代</h3>
+          <p class="feature-desc">每日更新优化，紧跟最新研究进展，保持知识库的生命力</p>
+        </div>
+        <div class="feature-item fade-in">
+          <div class="feature-icon">📚</div>
+          <h3 class="feature-title">体系完整</h3>
+          <p class="feature-desc">141+专题领域全覆盖，从理论到实践，从入门到精通</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Target Users -->
+  <section class="section users" id="users">
+    <div class="container">
+      <div class="section-header fade-in">
+        <div class="section-badge">For You</div>
+        <h2 class="section-title">目标用户与使用场景</h2>
+        <p class="section-desc">无论你是专业从业者还是个人成长爱好者，都能在这里找到所需</p>
+      </div>
+      <div class="users-grid fade-in">
+        <div class="user-tag"><span>💼</span> 心理咨询师/治疗师</div>
+        <div class="user-tag"><span>🧘</span> 瑜伽/冥想践行者</div>
+        <div class="user-tag"><span>📖</span> 学术研究者</div>
+        <div class="user-tag"><span>🌟</span> 个人成长爱好者</div>
+        <div class="user-tag"><span>💚</span> 健康管理师</div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Timeline -->
+  <section class="section timeline" id="timeline">
+    <div class="container">
+      <div class="section-header fade-in">
+        <div class="section-badge">Milestones</div>
+        <h2 class="section-title">发展里程碑</h2>
+        <p class="section-desc">知识库的持续进化历程</p>
+      </div>
+      <div class="timeline-container">
+        <div class="timeline-item fade-in">
+          <div class="timeline-dot"></div>
+          <div class="timeline-date">2026-03-03</div>
+          <h3 class="timeline-title">冥想知识体系全面更新</h3>
+          <p class="timeline-desc">基于课程体系新增心念管理方法论、哲学认知论基础、脑科学基础三篇核心文档，同步更新神经科学机制、临床应用、执行师QA等多篇文档，完善冥想从理论到实证的完整链路。</p>
+        </div>
+        <div class="timeline-item fade-in">
+          <div class="timeline-dot"></div>
+          <div class="timeline-date">2026-03-02</div>
+          <h3 class="timeline-title">十大专题扩容</h3>
+          <p class="timeline-desc">新增沟通技能体系、心力成长、稳定内核、身心能量恢复、内经养生、情感银行、亲子教育、办公健康等10大专题，全面提升实践指导价值。</p>
+        </div>
+        <div class="timeline-item fade-in">
+          <div class="timeline-dot"></div>
+          <div class="timeline-date">2026-03-01</div>
+          <h3 class="timeline-title">八大专题深化</h3>
+          <p class="timeline-desc">加强孤独感研究、新增延长断食、ADHD、工作效率等8大专题扩容，强化心理与生物科学领域的深度覆盖。</p>
+        </div>
+        <div class="timeline-item fade-in">
+          <div class="timeline-dot"></div>
+          <div class="timeline-date">2026-02-08</div>
+          <h3 class="timeline-title">架构2.0完整交付</h3>
+          <p class="timeline-desc">五大支柱"地毯式"索引补全，超级个体1.0上线，分布式 INDEX.md 导航系统启用，奠定知识库架构基础。</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-content">
+        <div class="footer-brand">
+          <div class="footer-logo">🌿</div>
+          <span class="footer-title">Peace Lab Global</span>
+        </div>
+        <p class="footer-desc">Maintained by Peace Lab Global</p>
+        <div class="footer-links">
+          <a href="#">首页</a>
+          <a href="#pillars">五大支柱</a>
+          <a href="./docs/">文档中心</a>
+          <a href="#timeline">发展历程</a>
+        </div>
+        <div class="footer-divider"></div>
+        <p class="footer-copyright">© 2026 Peace Lab Global. All rights reserved.</p>
+      </div>
+    </div>
+  </footer>
+
+  <script>
+    // Mobile Navigation Toggle
+    const navToggle = document.getElementById('navToggle');
+    const navLinks = document.getElementById('navLinks');
+    
+    navToggle.addEventListener('click', () => {
+      navLinks.classList.toggle('active');
+    });
+
+    // Close mobile nav when clicking a link
+    navLinks.querySelectorAll('a').forEach(link => {
+      link.addEventListener('click', () => {
+        navLinks.classList.remove('active');
+      });
+    });
+
+    // Navbar scroll effect
+    const navbar = document.getElementById('navbar');
+    window.addEventListener('scroll', () => {
+      if (window.scrollY > 50) {
+        navbar.classList.add('scrolled');
+      } else {
+        navbar.classList.remove('scrolled');
+      }
+    });
+
+    // Number counter animation
+    function animateCounter(element, target) {
+      const duration = 2000;
+      const start = 0;
+      const startTime = performance.now();
+      
+      function update(currentTime) {
+        const elapsed = currentTime - startTime;
+        const progress = Math.min(elapsed / duration, 1);
+        const easeOut = 1 - Math.pow(1 - progress, 3);
+        const current = Math.floor(start + (target - start) * easeOut);
+        
+        if (target >= 1000) {
+          element.textContent = current.toLocaleString() + '+';
+        } else {
+          element.textContent = current + '+';
+        }
+        
+        if (progress < 1) {
+          requestAnimationFrame(update);
+        }
+      }
+      
+      requestAnimationFrame(update);
+    }
+
+    // Intersection Observer for animations
+    const observerOptions = {
+      threshold: 0.1,
+      rootMargin: '0px 0px -50px 0px'
+    };
+
+    const observer = new IntersectionObserver((entries) => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          entry.target.classList.add('visible');
+          
+          // Trigger counter animation for stat numbers
+          if (entry.target.closest('.hero')) {
+            const counters = document.querySelectorAll('.stat-number');
+            counters.forEach(counter => {
+              const target = parseInt(counter.dataset.target);
+              if (counter.textContent === '0') {
+                animateCounter(counter, target);
+              }
+            });
+          }
+        }
+      });
+    }, observerOptions);
+
+    // Observe all fade-in elements
+    document.querySelectorAll('.fade-in').forEach(el => {
+      observer.observe(el);
+    });
+
+    // Observe hero section for counter animation
+    const heroSection = document.querySelector('.hero');
+    observer.observe(heroSection);
+
+    // Add visible class to hero content immediately
+    document.querySelector('.hero-content').classList.add('visible');
+  </script>
+</body>
+</html>

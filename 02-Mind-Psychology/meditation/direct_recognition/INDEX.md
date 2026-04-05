@@ -3,6 +3,7 @@
 ## 内容索引 | Contents
 
 - [Meditation Direct Indirect Recognition](Meditation_Direct_Indirect_Recognition.md)
+- [Meditation Direct Recognition vs Mindfulness](Meditation_Direct_Recognition_vs_Mindfulness.md)
 - [Meditation Direct Recognition Assessment Stages](Meditation_Direct_Recognition_Assessment_Stages.md)
 - [Meditation Direct Recognition Daily Integration](Meditation_Direct_Recognition_Daily_Integration.md)
 - [Meditation Direct Recognition Foundations](Meditation_Direct_Recognition_Foundations.md)

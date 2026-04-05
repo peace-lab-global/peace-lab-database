@@ -6,3 +6,7 @@
 - [Mindfulness Based Stress Reduction](Mindfulness_Based_Stress_Reduction.md)
 - [Mindfulness Clinical Applications](Mindfulness_Clinical_Applications.md)
 - [Mindfulness Core](Mindfulness_Core.md)
+
+## 交叉引用 | Cross References
+
+- [直接认知冥想 vs 正念冥想对比](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_vs_Mindfulness.md)

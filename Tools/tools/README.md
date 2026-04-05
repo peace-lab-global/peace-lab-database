@@ -74,7 +74,7 @@ python3 quality_checker.py
 ## 目录结构
 
 ```
-99-Tools/
+Tools/
 ├── tools/                  # 脚本目录
 │   ├── README.md           # 本文件
 │   ├── word_count.py       # 字数统计

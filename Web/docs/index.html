@@ -1,0 +1,891 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <title>Peace Lab Database - 文档阅读</title>
+  <meta name="description" content="Peace Lab Database 知识库文档系统 - 心理学、智慧传统、生物科学、人文艺术与个人成长">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  
+  <!-- Docsify 主题 -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify@4/lib/themes/vue.css">
+  
+  <!-- 自定义样式覆盖 - 极简灰度风格 -->
+  <style>
+    :root {
+      --theme-color: #4b5563;
+      --sidebar-width: 280px;
+      --sidebar-nav-link-color--hover: #111827;
+      --sidebar-nav-link-color--active: #111827;
+      --sidebar-nav-link-border-color--active: #111827;
+      --base-font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans SC", "PingFang SC", "Microsoft YaHei", Roboto, "Helvetica Neue", Arial, sans-serif;
+      --code-font-family: "SF Mono", "Fira Code", Consolas, "Liberation Mono", Menlo, monospace;
+      /* 极简灰度配色方案 */
+      --sidebar-bg: #ffffff;
+      --border-color: #e5e7eb;
+      --border-color-light: #e5e7eb;
+      --text-primary: #111827;
+      --text-secondary: #374151;
+      --text-muted: #4b5563;
+      --text-dimmed: #6b7280;
+      --text-faint: #9ca3af;
+      --accent-color: #111827;
+      --selection-bg: transparent;
+      --hover-bg: transparent;
+    }
+    
+    /* 全局字体 */
+    body {
+      font-family: var(--base-font-family);
+      color: var(--text-primary);
+      line-height: 1.7;
+      background: #fff;
+    }
+    
+    /* 侧边栏样式 - 极简风格 */
+    .sidebar {
+      width: 280px;
+      padding: 20px 0;
+      background: #ffffff;
+      border-right: 1px solid #e5e7eb;
+      font-size: 13px;
+    }
+    
+    .sidebar-nav {
+      padding: 0 16px;
+    }
+    
+    .sidebar-nav ul {
+      margin: 0;
+      padding: 0;
+    }
+    
+    .sidebar-nav li {
+      margin: 0;
+    }
+    
+    .sidebar-nav li a {
+      color: #4b5563;
+      font-size: 13px;
+      line-height: 1.5;
+      padding: 4px 0;
+      display: block;
+      transition: color 0.15s ease;
+      background: none !important;
+      border: none !important;
+      border-radius: 0 !important;
+      text-decoration: none;
+    }
+    
+    .sidebar-nav li a:hover {
+      color: #111827;
+      background: none !important;
+      text-decoration: none;
+    }
+    
+    .sidebar-nav li.active > a {
+      color: #111827;
+      font-weight: 600;
+      background: none !important;
+    }
+    
+    /* 侧边栏分组标题 - 极简 */
+    .sidebar-nav li > strong,
+    .sidebar-nav li > p > strong {
+      display: block;
+      color: #9ca3af;
+      font-size: 11px;
+      font-weight: 600;
+      text-transform: uppercase;
+      letter-spacing: 0.8px;
+      padding: 20px 0 6px 0;
+      margin: 0;
+      border-bottom: none;
+    }
+    
+    /* 返回首页按钮 - 去掉色块，纯文字链接 */
+    .sidebar-nav > ul > li:first-child a {
+      color: #6b7280 !important;
+      background: none !important;
+      font-weight: 500;
+      text-align: left;
+      margin: 0 0 16px 0;
+      padding: 4px 0 !important;
+      border-radius: 0 !important;
+      font-size: 13px;
+      box-shadow: none !important;
+      border-bottom: 1px solid #e5e7eb !important;
+      padding-bottom: 12px !important;
+    }
+    
+    .sidebar-nav > ul > li:first-child a:hover {
+      color: #111827 !important;
+      background: none !important;
+      transform: none !important;
+      box-shadow: none !important;
+    }
+    
+    /* 主内容区 */
+    .content {
+      padding: 30px 60px 40px 320px;
+      max-width: 1200px;
+    }
+    
+    .markdown-section {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    
+    .markdown-section h1 {
+      color: #111827;
+      font-size: 2.2em;
+      font-weight: 700;
+      margin: 0 0 1.5rem 0;
+      padding-bottom: 0.5rem;
+      border-bottom: 1px solid #e5e7eb;
+    }
+    
+    .markdown-section h2 {
+      color: #111827;
+      font-size: 1.6em;
+      font-weight: 600;
+      margin: 2rem 0 1rem 0;
+      padding-left: 12px;
+      border-left: 2px solid #d1d5db;
+    }
+    
+    .markdown-section h3 {
+      color: #374151;
+      font-size: 1.3em;
+      font-weight: 600;
+      margin: 1.5rem 0 0.8rem 0;
+    }
+    
+    /* 链接样式 - 极简 */
+    .markdown-section a {
+      color: #4b5563;
+      text-decoration: underline;
+      text-decoration-color: #d1d5db;
+      text-underline-offset: 2px;
+      transition: color 0.2s, text-decoration-color 0.2s;
+    }
+    
+    .markdown-section a:hover {
+      color: #111827;
+      text-decoration-color: #111827;
+    }
+    
+    /* 代码块样式 */
+    .markdown-section code {
+      font-family: var(--code-font-family);
+      background: #f6f8fa;
+      color: #cf222e;
+      padding: 2px 6px;
+      border-radius: 4px;
+      font-size: 0.9em;
+    }
+    
+    .markdown-section pre {
+      background: #24292f;
+      border-radius: 8px;
+      padding: 1.2em;
+      overflow-x: auto;
+      box-shadow: 0 2px 8px rgba(31, 35, 40, 0.12);
+    }
+    
+    .markdown-section pre code {
+      background: transparent;
+      color: #e0e0e0;
+      padding: 0;
+      font-size: 0.85em;
+      line-height: 1.6;
+    }
+    
+    /* 引用块 - 极简 */
+    .markdown-section blockquote {
+      margin: 1.5em 0;
+      padding: 0.5em 1em;
+      background: none;
+      border-left: 2px solid #d1d5db;
+      border-radius: 0;
+      color: #6b7280;
+    }
+    
+    /* 表格样式 - 极简 */
+    .markdown-section table {
+      width: 100%;
+      border-collapse: collapse;
+      margin: 1.5em 0;
+      box-shadow: none;
+      border-radius: 0;
+      overflow: hidden;
+      border: none;
+    }
+    
+    .markdown-section table thead {
+      background: none;
+      color: #111827;
+    }
+    
+    .markdown-section table th,
+    .markdown-section table td {
+      padding: 12px 16px;
+      text-align: left;
+      border-bottom: 1px solid #f3f4f6;
+    }
+    
+    .markdown-section table th {
+      font-weight: 600;
+      border-bottom: 2px solid #e5e7eb;
+    }
+    
+    .markdown-section table tbody tr:hover {
+      background: #fafafa;
+    }
+    
+    /* 搜索框样式 - 极简 */
+    .search {
+      margin: 0 0 16px 0;
+      padding: 0;
+    }
+    
+    .search input {
+      width: 100%;
+      padding: 7px 10px;
+      border: 1px solid #e5e7eb;
+      border-radius: 6px;
+      font-size: 13px;
+      background: #ffffff;
+      color: #374151;
+      transition: border-color 0.2s;
+      box-sizing: border-box;
+    }
+    
+    .search input::placeholder {
+      color: #9ca3af;
+    }
+    
+    .search input:focus {
+      border-color: #9ca3af;
+      outline: none;
+      box-shadow: none;
+    }
+    
+    .search .matching-post {
+      padding: 10px 12px;
+      border-bottom: 1px solid #e5e7eb;
+      background: #fff;
+      color: #374151;
+    }
+    
+    .search .matching-post:hover {
+      background: #fafafa;
+    }
+    
+    .search .matching-post .search-keyword {
+      color: #111827;
+      font-weight: 600;
+    }
+    
+    /* 分页导航 - 极简 */
+    .docsify-pagination-container {
+      margin: 3em 0 1em;
+      padding: 1.5em 0;
+      border-top: 1px solid #e5e7eb;
+      display: flex;
+      justify-content: space-between;
+      flex-wrap: wrap;
+    }
+    
+    .pagination-item {
+      flex: 0 0 45%;
+    }
+    
+    .pagination-item a {
+      display: block;
+      padding: 15px 20px;
+      background: none;
+      border-radius: 6px;
+      transition: border-color 0.2s;
+      text-decoration: none;
+      border: 1px solid #e5e7eb;
+    }
+    
+    .pagination-item a:hover {
+      background: none;
+      border-color: #d1d5db;
+      transform: none;
+      box-shadow: none;
+    }
+    
+    .pagination-item-title {
+      color: #374151;
+      font-weight: 500;
+    }
+    
+    /* 移动端响应式 - CNCF 浅色主题适配 */
+    @media screen and (max-width: 768px) {
+      .sidebar {
+        width: 100%;
+        position: fixed;
+        left: -100%;
+        top: 0;
+        height: 100%;
+        z-index: 999;
+        transition: left 0.3s;
+        padding: 50px 16px 20px;
+        background: #ffffff;
+      }
+      
+      .sidebar.open {
+        left: 0;
+      }
+      
+      .content {
+        padding: 20px;
+        max-width: 100%;
+      }
+      
+      .markdown-section {
+        max-width: 100%;
+      }
+      
+      .markdown-section h1 {
+        font-size: 1.8em;
+      }
+      
+      .markdown-section h2 {
+        font-size: 1.4em;
+      }
+      
+      .markdown-section pre {
+        padding: 0.8em;
+        font-size: 0.8em;
+      }
+      
+      .docsify-pagination-container {
+        flex-direction: column;
+      }
+      
+      .pagination-item {
+        flex: 0 0 100%;
+        margin-bottom: 10px;
+      }
+    }
+    
+    /* 打印样式 */
+    @media print {
+      .sidebar,
+      .docsify-pagination-container {
+        display: none;
+      }
+      
+      .content {
+        padding: 0;
+        max-width: 100%;
+      }
+    }
+    
+    /* 加载动画 */
+    #app {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      font-size: 1.2em;
+      color: #6b7280;
+    }
+    
+    /* 代码复制按钮 - 极简 */
+    .docsify-copy-code-button {
+      background: #f3f4f6 !important;
+      color: #6b7280 !important;
+      border-radius: 4px !important;
+      font-size: 12px !important;
+    }
+    
+    .docsify-copy-code-button:hover {
+      background: #e5e7eb !important;
+      color: #374151 !important;
+    }
+    
+    /* ========== 功能 1: 侧边栏导航选中状态高亮 - 极简 ========== */
+    .sidebar-nav li a.active-link {
+      color: #111827 !important;
+      font-weight: 600 !important;
+      background: none !important;
+      border-left: 2px solid #111827 !important;
+      padding-left: 10px !important;
+      border-radius: 0 !important;
+      position: relative;
+    }
+    
+    /* ========== 功能 2: 目录节点自动展开/收起 ========== */
+    /* 可折叠的目录节点 - 箭头指示器 - 极淡 */
+    .sidebar-nav li.has-children > a::after,
+    .sidebar-nav li.has-children > p::after,
+    .sidebar-nav li.has-children > strong::after {
+      content: '▸';
+      float: right;
+      transition: transform 0.2s ease;
+      font-size: 9px !important;
+      color: #d1d5db !important;
+      margin-right: 4px;
+    }
+    
+    .sidebar-nav li.has-children.expanded > a::after,
+    .sidebar-nav li.has-children.expanded > p::after,
+    .sidebar-nav li.has-children.expanded > strong::after {
+      transform: rotate(90deg);
+    }
+    
+    /* 子菜单默认隐藏 */
+    .sidebar-nav li.has-children > ul {
+      display: none;
+      overflow: hidden;
+      padding-left: 16px;
+      border-left: 1px solid #f3f4f6;
+      margin-left: 6px;
+      transition: all 0.2s ease;
+    }
+    
+    /* 展开状态显示子菜单 */
+    .sidebar-nav li.has-children.expanded > ul {
+      display: block;
+    }
+    
+    /* 目录节点可点击样式 */
+    .sidebar-nav li.has-children > a,
+    .sidebar-nav li.has-children > p,
+    .sidebar-nav li.has-children > strong {
+      cursor: pointer;
+      user-select: none;
+    }
+    
+    .sidebar-nav li.has-children > p {
+      margin: 0;
+      padding: 4px 0;
+      color: #4b5563;
+    }
+    
+    /* ========== 侧边栏滚动条样式 - 极细 ========== */
+    .sidebar::-webkit-scrollbar {
+      width: 3px;
+    }
+    
+    .sidebar::-webkit-scrollbar-track {
+      background: transparent;
+    }
+    
+    .sidebar::-webkit-scrollbar-thumb {
+      background: #e5e7eb;
+      border-radius: 2px;
+    }
+    
+    .sidebar::-webkit-scrollbar-thumb:hover {
+      background: #d1d5db;
+    }
+    
+    /* 侧边栏分隔线 */
+    .sidebar-nav hr {
+      border: none;
+      border-top: 1px solid #f3f4f6;
+      margin: 12px 0;
+    }
+    
+    /* ========== 功能 4: 一键全屏阅读模式 - 极简 ========== */
+    #fullscreen-btn {
+      position: fixed;
+      right: 30px;
+      bottom: 30px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #ffffff !important;
+      color: #6b7280 !important;
+      border: 1px solid #e5e7eb !important;
+      font-size: 16px;
+      cursor: pointer;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.06) !important;
+      z-index: 1000;
+      transition: all 0.2s ease;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    #fullscreen-btn:hover {
+      transform: none !important;
+      color: #111827 !important;
+      border-color: #d1d5db !important;
+      background: #ffffff !important;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.1) !important;
+    }
+    
+    #exit-fullscreen-btn {
+      display: none;
+      position: fixed;
+      right: 20px;
+      top: 20px;
+      width: 40px;
+      height: 40px;
+      border-radius: 50%;
+      background: #ffffff;
+      color: #6b7280;
+      border: 1px solid #e5e7eb;
+      font-size: 18px;
+      cursor: pointer;
+      z-index: 1001;
+      transition: all 0.2s ease;
+      align-items: center;
+      justify-content: center;
+    }
+    
+    #exit-fullscreen-btn:hover {
+      color: #111827;
+      border-color: #d1d5db;
+    }
+    
+    /* 全屏模式样式 - 修复居中问题 */
+    body.fullscreen-mode .sidebar {
+      display: none !important;
+      width: 0 !important;
+    }
+    
+    /* 关键：重置 content 的所有定位样式 */
+    body.fullscreen-mode .content {
+      position: static !important;
+      left: 0 !important;
+      padding: 40px 20px !important;
+      padding-left: 20px !important;
+      width: 100% !important;
+      max-width: 100% !important;
+      margin: 0 !important;
+    }
+    
+    /* 全屏模式：内容拉满浏览器全宽 */
+    body.fullscreen-mode .markdown-section {
+      max-width: 100% !important;
+      width: 100% !important;
+      margin: 0 !important;
+      padding: 0 48px !important;
+    }
+    
+    body.fullscreen-mode #fullscreen-btn {
+      display: none;
+    }
+    
+    body.fullscreen-mode #exit-fullscreen-btn {
+      display: flex;
+    }
+    
+    /* 全屏模式过渡动画 */
+    body {
+      transition: all 0.3s ease;
+    }
+    
+    .sidebar {
+      transition: all 0.3s ease;
+    }
+    
+    .content {
+      transition: all 0.3s ease;
+    }
+    
+    /* 移动端全屏按钮调整 */
+    @media screen and (max-width: 768px) {
+      #fullscreen-btn {
+        right: 20px;
+        bottom: 20px;
+        width: 44px;
+        height: 44px;
+        font-size: 18px;
+      }
+      
+      body.fullscreen-mode .content {
+        padding: 20px !important;
+        padding-left: 20px !important;
+      }
+      
+      body.fullscreen-mode .markdown-section {
+        padding: 0 16px !important;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div id="app">加载中...</div>
+  
+  <!-- 全屏阅读模式按钮 -->
+  <button id="fullscreen-btn" title="全屏阅读 (F)">📖</button>
+  <button id="exit-fullscreen-btn" title="退出全屏 (ESC)">✕</button>
+  
+  <script>
+    window.$docsify = {
+      name: 'Peace Lab Database',
+      nameLink: '../index.html',
+      repo: '',
+      
+      // 路径配置
+      basePath: '/',
+      homepage: 'README.md',
+      loadSidebar: 'Web/docs/_sidebar.md',
+      
+      // 启用相对路径解析，使文档内部链接相对于当前文档路径解析
+      relativePath: true,
+      
+      // 导航配置
+      auto2top: true,
+      maxLevel: 4,
+      subMaxLevel: 3,
+      
+      // 封面和导航栏（禁用）
+      coverpage: false,
+      loadNavbar: false,
+      
+      // 别名配置 - 确保所有路由都使用同一个 sidebar
+      alias: {
+        '/.*/_sidebar.md': 'Web/docs/_sidebar.md',
+        '/_sidebar.md': 'Web/docs/_sidebar.md'
+      },
+      
+      // 搜索配置
+      search: {
+        maxAge: 86400000,
+        paths: 'auto',
+        placeholder: '搜索文档...',
+        noData: '未找到结果',
+        depth: 3,
+        hideOtherSidebarContent: false,
+        namespace: 'peace-lab-database',
+        pathNamespaces: [
+          '/01-Wisdom-Traditions',
+          '/02-Mind-Psychology',
+          '/03-Bio-Science',
+          '/04-Humanities-Arts',
+          '/05-Praxis-Growth'
+        ]
+      },
+      
+      // 分页配置
+      pagination: {
+        previousText: '上一篇',
+        nextText: '下一篇',
+        crossChapter: true,
+        crossChapterText: true
+      },
+      
+      // 侧边栏折叠配置
+      sidebarDisplayLevel: 1,
+      
+      // 主题颜色 - 极简灰色
+      themeColor: '#4b5563',
+      
+      // 页脚
+      formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}',
+      
+      // 插件配置
+      plugins: [
+        function(hook, vm) {
+          hook.beforeEach(function(html) {
+            return html;
+          });
+          
+          hook.doneEach(function() {
+            // 使用 requestAnimationFrame 确保 DOM 已更新
+            requestAnimationFrame(function() {
+              initSidebarNavigation();
+            });
+          });
+          
+          hook.ready(function() {
+            // Docsify 准备完成，初始化全屏模式
+            initFullscreenMode();
+          });
+        }
+      ]
+    };
+  </script>
+  
+  <!-- Docsify 核心库 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/docsify.min.js"></script>
+  
+  <!-- 搜索插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/search.min.js"></script>
+  
+  <!-- 代码高亮 - Prism -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-javascript.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-markdown.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-json.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1/components/prism-yaml.min.js"></script>
+  
+  <!-- 代码复制插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-copy-code@2/dist/docsify-copy-code.min.js"></script>
+  
+  <!-- 分页导航插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-pagination@2/dist/docsify-pagination.min.js"></script>
+  
+  <!-- 侧边栏折叠插件 -->
+  <script src="https://cdn.jsdelivr.net/npm/docsify-sidebar-collapse@1/dist/docsify-sidebar-collapse.min.js"></script>
+  
+  <!-- 自定义导航增强脚本 -->
+  <script>
+    /**
+     * 初始化侧边栏导航功能
+     * 功能 1: 选中状态高亮
+     * 功能 2: 目录节点自动展开/收起
+     * 功能 3: 导航状态与 URL 同步
+     */
+    function initSidebarNavigation() {
+      var sidebarNav = document.querySelector('.sidebar-nav');
+      if (!sidebarNav) return;
+      
+      // 获取当前路由路径
+      var currentHash = window.location.hash || '#/';
+      var currentPath = currentHash.replace(/^#/, '').split('?')[0];
+      
+      // 规范化路径用于比较
+      function normalizePath(path) {
+        if (!path) return '';
+        path = path.replace(/^\//, '').replace(/\/$/, '');
+        // 移除 .md 扩展名
+        path = path.replace(/\.md$/, '');
+        return path.toLowerCase();
+      }
+      
+      var normalizedCurrentPath = normalizePath(currentPath);
+      
+      // 获取所有链接
+      var links = sidebarNav.querySelectorAll('a');
+      var activeLink = null;
+      
+      // 功能 1: 移除所有现有高亮，找到并高亮当前链接
+      links.forEach(function(link) {
+        link.classList.remove('active-link');
+        
+        var href = link.getAttribute('href') || '';
+        // 处理不同的 href 格式
+        var linkPath = href.replace(/^#/, '').replace(/^\//, '');
+        var normalizedLinkPath = normalizePath(linkPath);
+        
+        // 匹配当前路径
+        if (normalizedLinkPath && normalizedCurrentPath) {
+          if (normalizedCurrentPath === normalizedLinkPath ||
+              normalizedCurrentPath.endsWith(normalizedLinkPath) ||
+              normalizedLinkPath.endsWith(normalizedCurrentPath)) {
+            activeLink = link;
+          }
+        }
+      });
+      
+      // 高亮当前链接
+      if (activeLink) {
+        activeLink.classList.add('active-link');
+      }
+      
+      // 功能 2: 标记有子菜单的 li 元素
+      var listItems = sidebarNav.querySelectorAll('li');
+      listItems.forEach(function(li) {
+        var childUl = li.querySelector(':scope > ul');
+        if (childUl && childUl.children.length > 0) {
+          li.classList.add('has-children');
+          
+          // 添加点击事件（如果尚未添加）
+          if (!li.hasAttribute('data-collapse-initialized')) {
+            li.setAttribute('data-collapse-initialized', 'true');
+            
+            // 找到可点击的元素（a、p 或 strong）
+            var clickTarget = li.querySelector(':scope > a, :scope > p, :scope > strong');
+            if (clickTarget) {
+              clickTarget.addEventListener('click', function(e) {
+                // 如果是链接且有实际的 href，不阻止导航
+                var href = clickTarget.getAttribute('href');
+                if (clickTarget.tagName === 'A' && href && href !== '#' && !href.startsWith('javascript:')) {
+                  // 同时切换展开状态
+                  li.classList.toggle('expanded');
+                  return;
+                }
+                
+                // 对于非链接或空链接，阻止默认行为并切换
+                e.preventDefault();
+                e.stopPropagation();
+                li.classList.toggle('expanded');
+              });
+            }
+          }
+        }
+      });
+      
+      // 功能 3: 根据当前路由自动展开对应路径
+      if (activeLink) {
+        // 递归展开所有父级
+        var parentLi = activeLink.closest('li');
+        while (parentLi) {
+          if (parentLi.classList.contains('has-children')) {
+            parentLi.classList.add('expanded');
+          }
+          var parentUl = parentLi.parentElement;
+          if (parentUl && parentUl.tagName === 'UL') {
+            parentLi = parentUl.closest('li');
+          } else {
+            break;
+          }
+        }
+        
+        // 滚动到可见位置
+        setTimeout(function() {
+          activeLink.scrollIntoView({ behavior: 'smooth', block: 'center' });
+        }, 100);
+      }
+      
+      // 默认展开第一级（可选）
+      var topLevelItems = sidebarNav.querySelectorAll(':scope > ul > li.has-children');
+      topLevelItems.forEach(function(item, index) {
+        // 展开前几个顶级目录
+        if (index < 2) {
+          item.classList.add('expanded');
+        }
+      });
+    }
+    
+    /**
+     * 功能 4: 初始化全屏阅读模式
+     */
+    function initFullscreenMode() {
+      var fullscreenBtn = document.getElementById('fullscreen-btn');
+      var exitFullscreenBtn = document.getElementById('exit-fullscreen-btn');
+      
+      if (!fullscreenBtn || !exitFullscreenBtn) return;
+      
+      // 进入全屏
+      fullscreenBtn.addEventListener('click', function() {
+        document.body.classList.add('fullscreen-mode');
+      });
+      
+      // 退出全屏
+      exitFullscreenBtn.addEventListener('click', function() {
+        document.body.classList.remove('fullscreen-mode');
+      });
+      
+      // 键盘快捷键
+      document.addEventListener('keydown', function(e) {
+        // ESC 键退出全屏
+        if (e.key === 'Escape') {
+          document.body.classList.remove('fullscreen-mode');
+        }
+        
+        // F 键切换全屏（当不在输入框中时）
+        if ((e.key === 'f' || e.key === 'F') && 
+            !['INPUT', 'TEXTAREA'].includes(e.target.tagName) &&
+            !e.target.isContentEditable &&
+            !e.ctrlKey && !e.metaKey && !e.altKey) {
+          e.preventDefault();
+          document.body.classList.toggle('fullscreen-mode');
+        }
+      });
+    }
+  </script>
+</body>
+</html>

@@ -42,7 +42,7 @@ EXCLUDED_DIRS = {
     '.venv', 'venv', '.env',
     '.idea', '.vscode',
     '.codebuddy', '.qoder', '.trae',
-    '99-Tools',  # 排除工具目录本身
+    'Tools',  # 排除工具目录本身
 }
 
 # 排除的文件

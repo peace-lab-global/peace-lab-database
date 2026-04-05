@@ -70,6 +70,7 @@
 - [伊斯兰心理与净心术 (Islamic Psychology)](religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md)
 - [萨满疗愈与自然智慧 (Shamanic Healing)](religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md)
 - [全球三教合一研究 (Syncretism)](religions/syncretism/Syncretism_Three_Teachings.md)
+- [唯识学与阳明心学异同论 (Yogacara vs. Yangming)](religions/syncretism/Syncretism_Yogacara_Yangming_Comparison.md)
 - [法家管理心理学 (Legalist Management)](religions/legalist/Legalist_Management_Psychology.md)
 
 ---

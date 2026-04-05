@@ -56,7 +56,7 @@ PILLAR_LABELS = {
     "03-Bio-Science": "Bio-Science & Medicine 生命科学与生物医学",
     "04-Humanities-Arts": "Humanities & Arts 人文与艺术疗愈",
     "05-Praxis-Growth": "Praxis & Growth 实践与个人增长",
-    "99-Tools": "Tools & Operations 工具与治理",
+    "Tools": "Tools & Operations 工具与治理",
 }
 
 ROLE_ORDER = [
@@ -291,7 +291,7 @@ def build_entry(file_path: Path) -> Dict:
     signals = {
         "navigation": any(role in roles for role in ["index", "readme", "overview"]),
         "structured": ext == ".json" or "taxonomy" in roles,
-        "tooling": top_dir == "99-Tools" or ext in {".py", ".html", ".css", ".js", ".ts"},
+        "tooling": top_dir == "Tools" or ext in {".py", ".html", ".css", ".js", ".ts"},
         "methodology": any(role in roles for role in ["framework", "guide", "system_design"]),
     }
 
