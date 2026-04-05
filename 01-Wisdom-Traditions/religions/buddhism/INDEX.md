@@ -2,6 +2,12 @@
 
 ## 内容索引 | Contents
 
+### 核心经典 (Core Sutras)
+- [佛经原文目录](./sutras/INDEX.md)
+  - [金刚般若波罗蜜经](./sutras/Diamond_Sutra.md) - 鸠摩罗什译本
+  - [般若波罗蜜多心经](./sutras/Heart_Sutra.md) - 玄奘译本
+
+### 主题目录
 - [BUDDHISM DIRECTORY STRUCTURE](BUDDHISM_DIRECTORY_STRUCTURE.md)
 - [Buddhism Core Overview](Buddhism_Core_Overview.md)
 - [Buddhism Four Immeasurables](Buddhism_Four_Immeasurables.md)
