@@ -14,8 +14,8 @@
 ### 2. 中国现代文学 (Modern Chinese Literature)
 - [中国现代文学导航](modern-chinese-literature/)
   - [近现代文学](modern-chinese-literature/near-modern/) - 鲁迅、巴金、茅盾、老舍
-  - [当代文学](modern-chinese-literature/contemporary/) - 莫言等
-  - [先锋文学](modern-chinese-literature/avant-garde/) - 余华等
+  - [当代文学](modern-chinese-literature/contemporary/) - 余华、路遥、豆豆、陈忠实、莫言、钱钟书、沈从文、迟子建等 | 12部经典小说深度分析
+  - [先锋文学](modern-chinese-literature/avant-garde/) - 实验性写作
 
 ### 3. 中国诗歌 (Chinese Poetry)
 - [中国诗歌导航](chinese-poetry/)

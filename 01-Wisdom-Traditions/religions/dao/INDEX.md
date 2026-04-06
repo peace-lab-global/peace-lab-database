@@ -1,5 +1,9 @@
 # dao | Index
 
+## 经典原典 | Classics
+
+- [道家经典原文](classics/INDEX.md) — 《道德经》《庄子》《列子》等道家核心经典原文
+
 ## 内容索引 | Contents
 
 - [Dao Advanced Internal Alchemy](Dao_Advanced_Internal_Alchemy.md)
