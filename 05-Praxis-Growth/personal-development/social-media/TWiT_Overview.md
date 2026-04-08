@@ -141,8 +141,8 @@
 ## 🤝 相关专业链接
 
 ### 互补内容体系
-- [MKBHD科技评测专业内容体系](../mkbhd/MKBHD_Overview.md) - 产品评测与技术分析的实践参考
-- [影视飓风专业内容体系](../film-storm/Film_Storm_Overview.md) - 视频制作技术的专业支持
+- [MKBHD科技评测专业内容体系](MKBHD_Overview.md) - 产品评测与技术分析的实践参考
+- [影视飓风专业内容体系](Film_Storm_Overview.md) - 视频制作技术的专业支持
 - [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 技术沟通技巧的应用
 - [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 技术演讲能力的提升
 

@@ -141,8 +141,8 @@
 ## 🤝 相关专业链接
 
 ### 协同内容体系
-- [TWiT科技播客专业内容体系](../twit/TWiT_Overview.md) - 科技资讯与深度分析的互补
-- [影视飓风专业内容体系](../film-storm/Film_Storm_Overview.md) - 视频制作技术的专业支持
+- [TWiT科技播客专业内容体系](TWiT_Overview.md) - 科技资讯与深度分析的互补
+- [影视飓风专业内容体系](Film_Storm_Overview.md) - 视频制作技术的专业支持
 - [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 产品沟通技巧的应用
 - [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 产品演示能力的提升
 

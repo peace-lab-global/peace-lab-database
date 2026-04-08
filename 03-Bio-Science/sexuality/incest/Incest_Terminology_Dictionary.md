@@ -80,4 +80,4 @@
 **相关文档链接：**
 - [乱伦研究框架](Incest_Research_Framework.md) - 理论基础和概念体系
 - [乱伦临床治疗](Incest_Clinical_Treatment.md) - 临床应用和技术方法
-- [性学研究概览](../sexuality/Sexuality_Overview.md) - 相关性学核心术语
+- [性学研究概览](../Sexuality_Overview.md) - 相关性学核心术语

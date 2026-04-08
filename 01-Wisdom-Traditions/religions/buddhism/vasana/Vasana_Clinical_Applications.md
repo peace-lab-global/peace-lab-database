@@ -366,11 +366,11 @@
 
 | 文档 | 相关内容 |
 |---|---|
-| **[正念核心概念](Mindfulness_Core.md)** | 正念技术详解 |
-| **[正念临床应用](Mindfulness_Clinical_Applications.md)** | 正念的临床应用 |
-| **[慈悲聚焦疗法](Compassion_Focused_Therapy.md)** | CFT详解 |
-| **[辩证行为疗法](Dialectical_Behavior_Therapy.md)** | DBT技能 |
-| **[心理治疗技术详表](Psychology_Therapy_Techniques.md)** | 治疗技术汇总 |
+| **[正念核心概念](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)** | 正念技术详解 |
+| **[正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)** | 正念的临床应用 |
+| **[慈悲聚焦疗法](../../../../02-Mind-Psychology/therapy/compassion-focused-therapy/Compassion_Focused_Therapy.md)** | CFT详解 |
+| **[辩证行为疗法](../../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)** | DBT技能 |
+| **[心理治疗技术详表](../../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md)** | 治疗技术汇总 |
 
 ### 表10.3 核心参考文献 (Key References)
 

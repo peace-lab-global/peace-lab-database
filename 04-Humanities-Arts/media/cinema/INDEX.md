@@ -131,8 +131,8 @@ cinema/
 ## 相关资源链接
 
 ### 项目内链接
-- [心理学治疗技术](../../../02-Mind-Psychology/psychology/overview/Psychology_Therapy_Techniques.md) - 心理治疗基础理论
-- [创伤与危机干预](../../../02-Mind-Psychology/psychology/trauma/) - 创伤干预与恢复
+- [心理学治疗技术](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md) - 心理治疗基础理论
+- [创伤与危机干预](../../../02-Mind-Psychology/psychology/clinical/trauma/) - 创伤干预与恢复
 - [认知行为疗法](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) - CBT理论与实践
 - [创伤聚焦 CBT](../../../02-Mind-Psychology/therapy/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md) - 创伤专项循证路径
 

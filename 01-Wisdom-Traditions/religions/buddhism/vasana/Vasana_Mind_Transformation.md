@@ -325,10 +325,10 @@
 
 | 文档 | 相关内容 |
 |---|---|
-| **[藏传佛教心理学](Tibetan_Buddhist_Psychology.md)** | 五毒转五智、51心所 |
-| **[大圆满/佐钦](Dzogchen_Great_Perfection.md)** | 本觉、直接认知 |
-| **[冥想类型与分类](Meditation_Types_Classification.md)** | 冥想系统分类 |
-| **[正念核心概念](Mindfulness_Core.md)** | 正念技术 |
+| **[藏传佛教心理学](../../tibetan-buddhism/Tibetan_Buddhist_Psychology.md)** | 五毒转五智、51心所 |
+| **[大圆满/佐钦](../dzogchen/Dzogchen_Great_Perfection.md)** | 本觉、直接认知 |
+| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md)** | 冥想系统分类 |
+| **[正念核心概念](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)** | 正念技术 |
 
 ### 表10.3 核心参考文献 (Key References)
 

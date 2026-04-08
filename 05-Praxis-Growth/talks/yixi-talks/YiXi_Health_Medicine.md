@@ -174,11 +174,11 @@
 
 ### 7.3 与现有知识体系对接
 本文件与以下项目模块建立深度链接：
-- [生物医学基础](../bio/Bio_Nutrition_Gut.md)
-- [睡眠科学](../bio/Bio_Sleep_Science.md)
-- [营养与肠道健康](../bio/Bio_Nutrition_Gut.md)
-- [断食疗法](../bio/Bio_Fasting_Overview.md)
-- [飞蚊症管理](../bio/Bio_Floaters_Overview.md)
+- [生物医学基础](../../../03-Bio-Science/foods/Bio_Nutrition_Gut.md)
+- [睡眠科学](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md)
+- [营养与肠道健康](../../../03-Bio-Science/foods/Bio_Nutrition_Gut.md)
+- [断食疗法](../../../03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md)
+- [飞蚊症管理](../../../03-Bio-Science/biology/floaters/Bio_Floaters_Overview.md)
 
 ---
 

@@ -194,7 +194,7 @@ class QualityChecker:
         return {'status': 'pass'}
 
 # 批量检查工具
-def batch_check_quality(base_path: str = ".", output_file: str = "quality_report.json"):
+def batch_check_quality(base_path: str = ".", output_file: str = "Tools/reports/quality_report.json"):
     """批量检查整个知识库的文档质量"""
     checker = QualityChecker()
     base_path = Path(base_path)
@@ -234,7 +234,7 @@ def batch_check_quality(base_path: str = ".", output_file: str = "quality_report
 
 if __name__ == "__main__":
     import json
-    results = batch_check_quality(".", "quality_report.json")
+    results = batch_check_quality(".", "Tools/reports/quality_report.json")
     print(f"质量检查完成！")
     print(f"总文档数: {results['total_documents']}")
     print(f"通过率: {results['passed_documents']/results['total_documents']*100:.1f}%")

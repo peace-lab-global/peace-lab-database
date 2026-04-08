@@ -35,7 +35,7 @@ python3 word_count.py --no-save
 **功能特性：**
 - 扫描所有 `.md` 文件中的链接
 - 检查内部相对链接是否有效
-- 生成详细的检查报告 `LINK_CHECK_REPORT.md`
+- 生成详细的检查报告 `../reports/LINK_CHECK_REPORT.md`
 
 **使用方法：**
 ```bash
@@ -44,7 +44,7 @@ python3 link_checker.py
 
 **输出：**
 - 控制台显示检查结果摘要
-- 生成 `LINK_CHECK_REPORT.md` 报告文件
+- 生成 `../reports/LINK_CHECK_REPORT.md` 报告文件
 
 ---
 
@@ -66,7 +66,7 @@ python3 quality_checker.py
 ```
 
 **输出：**
-- 生成 `../data/quality_report.json` 质量报告
+- 生成 `../reports/quality_report.json` 质量报告
 - 显示通过率和平均分数
 
 ---
@@ -83,9 +83,15 @@ Tools/
 │   ├── Document_Template.md
 │   ├── Knowledge_Base_Management_System.md
 │   └── USAGE_GUIDE.md
-└── data/                   # 数据目录
-    ├── word_count_history.json  # 字数历史
-    └── quality_report.json      # 质量报告
+├── data/                   # 数据目录
+│   ├── word_count_history.json  # 字数历史
+│   └── quality_report.json      # 质量快照
+├── reports/                # 生成报告目录
+│   ├── LINK_CHECK_REPORT.md     # 链接检查报告
+│   └── quality_report.json      # 完整质量报告
+├── plans/                  # 计划文档
+│   └── Meditation_Knowledge_Gap_Remediation_Plan.md
+└── CHANGELOG.md            # 更新记录
 ```
 
 ## 运行环境

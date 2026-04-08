@@ -147,8 +147,8 @@
 ## 🤝 相关专业链接
 
 ### 协作内容体系
-- [MKBHD科技评测专业内容体系](../mkbhd/MKBHD_Overview.md) - 产品评测视频制作的技术参考
-- [TWiT科技播客专业内容体系](../twit/TWiT_Overview.md) - 科技内容创作的主题借鉴
+- [MKBHD科技评测专业内容体系](MKBHD_Overview.md) - 产品评测视频制作的技术参考
+- [TWiT科技播客专业内容体系](TWiT_Overview.md) - 科技内容创作的主题借鉴
 - [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 团队协作沟通的技能应用
 - [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 创意表达艺术的技能提升
 

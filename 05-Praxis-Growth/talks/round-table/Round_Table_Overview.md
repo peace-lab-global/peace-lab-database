@@ -183,10 +183,10 @@
 ## 🤝 交叉学科链接
 
 ### 相关专业领域
-- [锵锵三人行专业内容体系](../qiang-qiang-san-ren-xing/Qiang_Qiang_San_Ren_Xing_Overview.md) - 高端文化对话模式参考
-- [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 职场沟通技巧应用借鉴
-- [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 演讲表达技能发展指导
-- [影视飓风专业内容体系](../film-storm/Film_Storm_Overview.md) - 视觉叙事表达技术支持
+- [锵锵三人行专业内容体系](../../../04-Humanities-Arts/media/tv/qiang-qiang-san-ren-xing/Qiang_Qiang_San_Ren_Xing_Overview.md) - 高端文化对话模式参考
+- [职场表达专业内容体系](../../personal-development/workplace-expression/Workplace_Expression_Overview.md) - 职场沟通技巧应用借鉴
+- [公众表达专业内容体系](../../personal-development/public-speaking/Public_Speaking_Overview.md) - 演讲表达技能发展指导
+- [影视飓风专业内容体系](../../personal-development/social-media/Film_Storm_Overview.md) - 视觉叙事表达技术支持
 
 ---
 *本体系持续更新最新的研究成果和实践经验*

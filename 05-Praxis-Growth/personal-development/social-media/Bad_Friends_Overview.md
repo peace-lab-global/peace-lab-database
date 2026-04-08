@@ -169,7 +169,7 @@
 ## 🤝 关联专业链接
 
 ### 相关内容体系
-- [TWiT科技播客专业内容体系](../twit/TWiT_Overview.md) - 专业话题播客制作参考
+- [TWiT科技播客专业内容体系](TWiT_Overview.md) - 专业话题播客制作参考
 - [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 职场沟通技巧借鉴
 - [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 表达艺术技能提升
-- [影视飓风专业内容体系](../film-storm/Film_Storm_Overview.md) - 内容创作技术支持
+- [影视飓风专业内容体系](Film_Storm_Overview.md) - 内容创作技术支持

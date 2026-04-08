@@ -50,4 +50,4 @@
 - [正念与生活禅 (Mindfulness)](../mindfulness/)
 
 ---
-*返回上级索引 [personal-development](../INDEX.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [personal-development](INDEX.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

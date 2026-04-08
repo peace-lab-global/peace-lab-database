@@ -28,9 +28,9 @@
 
 ## 关联知识
 
-- [佛教核心哲学](../../../../01-Wisdom-Traditions/religions/buddhism/) - 小说中大量引用的佛学思想
-- [道家哲学](../../../../01-Wisdom-Traditions/religions/taoism/) - "道法自然"的哲学根基
-- [儒家思想](../../../../01-Wisdom-Traditions/philosophy/) - 小说对传统文化的批判性审视
+- [佛教核心哲学](../../../../../01-Wisdom-Traditions/religions/buddhism/) - 小说中大量引用的佛学思想
+- [道家哲学](../../../../../01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/) - "道法自然"的哲学根基
+- [儒家思想](../../../../../01-Wisdom-Traditions/philosophy/) - 小说对传统文化的批判性审视
 
 ---
 

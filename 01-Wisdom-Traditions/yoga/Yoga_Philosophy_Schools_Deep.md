@@ -1,0 +1,362 @@
+# 瑜伽哲学流派深度研究 (Yoga Philosophy Schools — Deep Dive)
+
+## 核心术语表 (Core Terminology)
+
+| 中文术语 | 英文术语 | 梵语术语 | 定义 | 哲学意义 |
+| :--- | :--- | :--- | :--- | :--- |
+| 六派哲学 | Six Darśanas | षड्दर्शन (Ṣaḍ Darśana) | 印度正统六大哲学体系 | 承认吠陀权威 |
+| 见/观 | Vision/Seeing | दर्शन (Darśana) | 哲学"观看方式"，非仅理论体系 | 直接体验真理 |
+| 解脱 | Liberation | मोक्ष (Mokṣa) | 脱离轮回的终极自由 | 六派共同目标 |
+| 纯意识 | Pure Consciousness | पुरुष (Puruṣa) | 永恒不变的见证者意识 | 数论/瑜伽核心 |
+| 原质 | Primordial Matter | प्रकृति (Prakṛti) | 一切物质与心理现象的根源 | 数论/瑜伽核心 |
+| 梵 | Brahman | ब्रह्मन् (Brahman) | 宇宙终极实在、绝对真理 | 吠檀多核心 |
+| 自我 | Self/Soul | आत्मन् (Ātman) | 个体的永恒本质 | 与Brahman的关系是核心议题 |
+| 无明 | Ignorance | अविद्या (Avidyā) | 对真实本性的无知 | 受苦的根本原因 |
+| 业 | Action/Karma | कर्म (Karma) | 行为及其果报法则 | 轮回的驱动力 |
+| 因果 | Causation | कारण (Kāraṇa) | 原因与结果的关系 | 各派争论焦点 |
+| 实在论 | Realism | — | 承认外部世界独立于意识存在 | 数论、正理、胜论 |
+| 唯识 | Idealism | — | 唯有意识是真实的 | 某些吠檀多立场 |
+
+---
+
+## 印度哲学总览
+
+### 正统(Āstika)与非正统(Nāstika)
+
+| 分类 | 梵文 | 含义 | 代表体系 | 共同点 |
+| :--- | :--- | :--- | :--- | :--- |
+| **正统六派** | आस्तिक (Āstika) | 承认吠陀权威 | 数论、瑜伽、正理、胜论、弥曼差、吠檀多 | 吠陀为知识来源之一 |
+| **非正统** | नास्तिक (Nāstika) | 否认吠陀权威 | 佛教、耆那教、顺世论(Cārvāka) | 以理性/体验为标准 |
+
+### 六派哲学关系图
+
+```
+六派哲学 (Ṣaḍ Darśana)
+├── 认识论组
+│   ├── 正理派 (Nyāya) ——— 逻辑与认识方法
+│   └── 胜论派 (Vaiśeṣika) — 自然哲学与范畴论
+├── 解释学组
+│   ├── 弥曼差派 (Mīmāṃsā) — 吠陀仪式解释学
+│   └── 吠檀多派 (Vedānta) — 吠陀终极义理
+└── 实践论组
+    ├── 数论派 (Sāṃkhya) — 形而上学二元论
+    └── 瑜伽派 (Yoga) —— 实践方法论
+```
+
+---
+
+## 数论派 (Sāṃkhya)
+
+### 概述
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **创始人** | 传说为Kapila仙人(कपिल, Kapila) |
+| **核心经典** | 《数论颂》(Sāṃkhya Kārikā, Īśvarakṛṣṇa, ~4世纪) |
+| **哲学立场** | 二元实在论(Dualistic Realism)——Puruṣa与Prakṛti永恒二分 |
+| **知识方法** | 三种有效认识(Pramāṇa)：感知(Pratyakṣa)、推理(Anumāna)、可靠证言(Śabda) |
+| **与瑜伽关系** | 数论为瑜伽的形而上学基础；瑜伽为数论的实践方法 |
+| **无神论** | 古典数论不承认创世神(Īśvara) |
+
+### 二十五谛 (Pañcaviṃśati Tattva)
+
+| 编号 | 梵文 | 中文 | 类别 | 说明 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Puruṣa | 纯意识/神我 | 意识 | 永恒、不变、多元(每个个体各有) |
+| 2 | Prakṛti | 原质 | 物质根源 | 未显化的、三Guṇa平衡状态 |
+| 3 | Mahat/Buddhi | 觉/大/智 | 内在工具 | 第一演化物——判断与辨识 |
+| 4 | Ahaṃkāra | 我慢/自我意识 | 内在工具 | "我"感的来源 |
+| 5 | Manas | 意/心 | 内在工具 | 感官信息的初步处理 |
+| 6-10 | Jñānendriya | 五知觉器官 | 认知 | 耳、皮、目、舌、鼻 |
+| 11-15 | Karmendriya | 五行为器官 | 行动 | 声(口)、触(手)、行(足)、排(肛)、生殖(生殖器) |
+| 16-20 | Tanmātra | 五唯/微细元素 | 微细 | 声、触、色、味、香 |
+| 21-25 | Mahābhūta | 五大元素 | 粗重 | 空(Ākāśa)、风(Vāyu)、火(Tejas)、水(Āpas)、地(Pṛthivī) |
+
+### 三Guṇa体系
+
+| Guṇa | 梵文 | 品质 | 颜色 | 心理表现 | 身体表现 | 宇宙功能 |
+| :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+| **悦性** | Sattva (सत्त्व) | 光明、和谐、智慧 | 白 | 平静、清明、喜悦 | 轻盈、健康 | 维持(Sthiti) |
+| **变性** | Rajas (रजस्) | 活动、欲望、躁动 | 红 | 焦虑、野心、贪婪 | 燥热、不安 | 创造(Sṛṣṭi) |
+| **惰性** | Tamas (तमस्) | 惰性、沉重、黑暗 | 黑 | 昏沉、迷惑、懒惰 | 沉重、迟钝 | 毁灭(Laya) |
+
+### Prakṛti演化过程
+
+```
+Puruṣa (纯意识) ←→ Prakṛti (原质，三Guṇa平衡)
+                          ↓ (Guṇa失衡)
+                    Mahat / Buddhi (觉/智)
+                          ↓
+                    Ahaṃkāra (我慢)
+                    ↙    ↓    ↘
+              Sāttvika  Rājasika  Tāmasika
+              (悦性)    (变性)    (惰性)
+                ↓         ↓         ↓
+          Manas(意)   能量     五唯(Tanmātra)
+          +           助力      ↓
+          五知觉      两者    五大元素
+          +                  (Mahābhūta)
+          五行为
+```
+
+---
+
+## 瑜伽派 (Yoga Darśana)
+
+### 概述
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **创始人** | Patañjali (पतञ्जलि)，约2-4世纪 |
+| **核心经典** | 《瑜伽经》(Yoga Sūtra, ~195经句) + Vyāsa注释(Yoga Bhāṣya) |
+| **哲学立场** | 有神论二元论(Theistic Dualism) |
+| **与数论关系** | 接受数论的二十五谛，增加第二十六谛——自在天(Īśvara) |
+| **核心目标** | Citta Vṛtti Nirodha (心意波动的止灭) → Kaivalya (独存/解脱) |
+| **独特贡献** | 系统化的八支实践体系(Aṣṭāṅga Yoga) |
+
+### 四章结构 (Catuṣ Pāda)
+
+| 章 | 梵文 | 中文 | 经句数 | 核心内容 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | Samādhi Pāda | 三摩地篇 | 51 | 瑜伽定义、心意五转变、修行方法、障碍与对治 |
+| 2 | Sādhana Pāda | 修行篇 | 55 | 苦(Kleśa)的分析、行瑜伽(Kriyā Yoga)、八支前五支 |
+| 3 | Vibhūti Pāda | 成就篇 | 56 | 内三支(Saṃyama)、超自然成就(Vibhūti/Siddhi) |
+| 4 | Kaivalya Pāda | 独存篇 | 34 | 业(Karma)理论、Guṇa终止、最终解脱 |
+
+### 五种心意状态 (Pañca Citta Bhūmi)
+
+| 状态 | 梵文 | 特征 | 主导Guṇa | 适合瑜伽？ |
+| :--- | :--- | :--- | :--- | :--- |
+| **散乱** | Kṣipta (क्षिप्त) | 完全不安定、被外界牵引 | Rajas | 不适合 |
+| **昏沉** | Mūḍha (मूढ) | 迟钝、困倦、无知 | Tamas | 不适合 |
+| **时定时散** | Vikṣipta (विक्षिप्त) | 偶尔专注但不稳定 | Sattva+Rajas | 初步适合 |
+| **专一** | Ekāgra (एकाग्र) | 持续集中于一点 | Sattva | 适合——Samprajñāta |
+| **止灭** | Niruddha (निरुद्ध) | 心意活动完全止息 | 超越Guṇa | 最高——Asamprajñāta |
+
+---
+
+## 吠檀多派 (Vedānta)
+
+### 三大吠檀多分支
+
+#### 不二论 (Advaita Vedānta)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **代表人物** | Śaṅkarācārya (商羯罗, ~788-820) |
+| **核心主张** | Brahman是唯一真实(Sat)；世界是幻象(Māyā)；Ātman即Brahman |
+| **经典公式** | "Brahma Satyam Jagan Mithyā Jīvo Brahmaiva Nāparaḥ" |
+| | (梵是真实，世界是虚幻，个体灵魂即是梵，非他) |
+| **无明** | Avidyā (无明)导致将幻象视为真实 |
+| **解脱方法** | Jñāna Yoga (知识瑜伽)：听闻(Śravaṇa)→思维(Manana)→深修(Nididhyāsana) |
+| **三层实在** | Pāramārthika(胜义)、Vyāvahārika(世俗)、Prātibhāsika(幻觉) |
+| **Māyā** | 既非真(Sat)亦非假(Asat)的不可言说力量(Anirvacanīya) |
+
+**Advaita的核心辨析：**
+
+| 对比 | 真实(Sat) | 世俗(Vyāvahārika) | 幻觉(Prātibhāsika) |
+| :--- | :--- | :--- | :--- |
+| 本质 | Brahman | 经验世界 | 纯幻觉 |
+| 例子 | 纯意识 | 日常生活 | 绳误为蛇 |
+| 持续性 | 三时(过去现在未来)不变 | 有始有终 | 被认识即消失 |
+| 认知 | Jñāna | Vyavahāra | Bhrama |
+
+#### 限定不二论 (Viśiṣṭādvaita Vedānta)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **代表人物** | Rāmānujācārya (罗摩努阇, 1017-1137) |
+| **核心主张** | Brahman是真实的；世界也是真实的(Brahman的身体) |
+| **Brahman** | 具有无限美善品质的人格神(Viṣṇu/Nārāyaṇa) |
+| **Ātman与Brahman** | 不完全等同——部分与整体的关系(如身体与灵魂) |
+| **世界** | 真实的，是Brahman的"身体"(Śarīra) |
+| **解脱方法** | Bhakti Yoga (虔信瑜伽) + Prapatti (完全臣服) |
+| **批评Advaita** | Māyā理论自相矛盾：谁被Māyā迷惑？ |
+
+#### 二元论 (Dvaita Vedānta)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **代表人物** | Madhvācārya (摩陀婆, 1238-1317) |
+| **核心主张** | Brahman(Viṣṇu)与Ātman永恒不同 |
+| **五重差异** | ① 神与灵魂 ② 神与物质 ③ 灵魂与灵魂 ④ 灵魂与物质 ⑤ 物质与物质 |
+| **世界** | 完全真实，独立存在 |
+| **解脱方法** | Bhakti (虔信) + Viṣṇu的恩典(Anugraha) |
+| **灵魂分级** | 灵魂有等级——有的注定解脱、有的注定轮回、有的注定沉沦 |
+
+### 三大吠檀多对比
+
+| 维度 | Advaita (不二) | Viśiṣṭādvaita (限定不二) | Dvaita (二元) |
+| :--- | :--- | :--- | :--- |
+| **Brahman** | 无属性(Nirguṇa) | 有属性(Saguṇa) | 有属性(Saguṇa) |
+| **世界** | 幻象(Māyā) | 真实(Brahman的身体) | 真实(独立存在) |
+| **Ātman=Brahman** | 完全等同 | 部分与整体 | 永恒不同 |
+| **解脱** | 认知到本来面目 | 永居Viṣṇu身边 | 永恒服务Viṣṇu |
+| **方法** | Jñāna(知识) | Bhakti(虔信)+臣服 | Bhakti(虔信)+恩典 |
+| **Māyā** | Brahman的力量 | Brahman的创造力 | 不使用Māyā概念 |
+| **比喻** | 绳-蛇幻觉 | 灵魂-身体关系 | 主人-仆人关系 |
+
+---
+
+## 正理派 (Nyāya)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **创始人** | Gautama (Akṣapāda, गौतम)，非佛陀 |
+| **核心经典** | 《正理经》(Nyāya Sūtra) |
+| **核心贡献** | 印度逻辑学体系、知识论(Pramāṇa)、辩论方法 |
+| **哲学立场** | 多元实在论 |
+
+### 四种有效认识 (Catuḥ Pramāṇa)
+
+| 方法 | 梵文 | 定义 | 瑜伽中的应用 |
+| :--- | :--- | :--- | :--- |
+| **感知** | Pratyakṣa (प्रत्यक्ष) | 感官与对象直接接触产生的知识 | 体式中的身体感知 |
+| **推理** | Anumāna (अनुमान) | 由已知推出未知 | 从症状推断身体状态 |
+| **类比** | Upamāna (उपमान) | 通过相似性认识新事物 | 教学中的比喻 |
+| **证言** | Śabda (शब्द) | 可靠者(Āpta)的言说 | 经典教导、导师指引 |
+
+### 正理论证五支式 (Pañcāvayava)
+
+| 步骤 | 梵文 | 内容 | 示例 |
+| :--- | :--- | :--- | :--- |
+| 1. 命题 | Pratijñā | 提出要证明的论点 | "此山有火" |
+| 2. 理由 | Hetu | 给出原因 | "因为有烟" |
+| 3. 例证 | Udāharaṇa | 举已知的普遍规则 | "凡有烟处有火，如厨房" |
+| 4. 应用 | Upanaya | 将规则应用于当前情况 | "此山有烟" |
+| 5. 结论 | Nigamana | 确认命题 | "故此山有火" |
+
+---
+
+## 胜论派 (Vaiśeṣika)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **创始人** | Kaṇāda (कणाद)，传说为"食原子者" |
+| **核心经典** | 《胜论经》(Vaiśeṣika Sūtra) |
+| **核心贡献** | 范畴论(Padārtha)、原子论(Paramāṇu-vāda) |
+| **哲学立场** | 多元实在论、原子论 |
+
+### 七范畴 (Sapta Padārtha)
+
+| 范畴 | 梵文 | 定义 | 示例 |
+| :--- | :--- | :--- | :--- |
+| **实体** | Dravya | 属性与运动的承载者 | 地、水、火、风、空、时、方、自我、心 |
+| **属性** | Guṇa | 依附于实体的特征 | 色、味、香、触、数、量、别体等(24种) |
+| **运动** | Karma | 实体的活动 | 上升、下降、收缩、伸展、运行 |
+| **普遍** | Sāmānya | 共相——使不同事物归类 | "牛性"使所有牛为牛 |
+| **特殊** | Viśeṣa | 殊相——区分终极个体 | 原子间的最终差异 |
+| **内属** | Samavāya | 不可分离的关系 | 实体与属性的关系 |
+| **非存在** | Abhāva | 不存在/缺失 | 花上无香(后来添加) |
+
+---
+
+## 弥曼差派 (Mīmāṃsā)
+
+| 维度 | 内容 |
+| :--- | :--- |
+| **创始人** | Jaimini (जैमिनि) |
+| **核心经典** | 《弥曼差经》(Mīmāṃsā Sūtra)，最长的哲学经典 |
+| **别名** | 前弥曼差(Pūrva Mīmāṃsā)——对应"后弥曼差"即吠檀多 |
+| **核心主题** | 吠陀仪式(Yajña)的正确执行与解释 |
+| **哲学特点** | 仪式实在论；吠陀无作者(Apauruṣeya)；声音永恒 |
+| **与瑜伽关系** | 提供了仪式与行为的哲学基础；Karma概念影响深远 |
+
+### 核心主张
+
+| 主张 | 内容 | 意义 |
+| :--- | :--- | :--- |
+| **吠陀无作者** | 吠陀自存(Apauruṣeya)，无人(包括神)创作 | 确保绝对权威 |
+| **声音永恒** | 语言与意义的关系是天然的、永恒的 | Mantra力量的哲学基础 |
+| **仪式效力** | 正确执行的仪式必然产生果报(Apūrva) | 行为的确定性 |
+| **义务论** | Dharma即吠陀所命令的(Codanā Lakṣaṇo Dharmaḥ) | 伦理基础 |
+
+---
+
+## 各派哲学综合对比
+
+### 本体论对比
+
+| 哲学派别 | 终极实在 | 数量 | 世界真实性 | 因果观 |
+| :--- | :--- | :--- | :--- | :--- |
+| **数论** | Puruṣa + Prakṛti | 二元(多Puruṣa) | 真实 | 因中有果(Satkāryavāda) |
+| **瑜伽** | Puruṣa + Prakṛti + Īśvara | 二元+神 | 真实 | 因中有果 |
+| **Advaita** | Brahman(唯一) | 一元 | 幻象(Māyā) | 幻象的因果 |
+| **Viśiṣṭādvaita** | Brahman(有属性) | 限定一元 | 真实(Brahman之体) | 真实的因果 |
+| **Dvaita** | Viṣṇu | 多元 | 真实 | 真实的因果 |
+| **正理** | 多种实体 | 多元 | 真实 | 因中无果(Asatkāryavāda) |
+| **胜论** | 原子 | 多元(原子论) | 真实 | 因中无果 |
+| **弥曼差** | 吠陀/Dharma | 多元 | 真实 | 仪式因果(Apūrva) |
+
+### 解脱论对比
+
+| 哲学派别 | 束缚原因 | 解脱方法 | 解脱状态 | 解脱后是否有意识？ |
+| :--- | :--- | :--- | :--- | :--- |
+| **数论** | 将Prakṛti误认为Puruṣa | 辨别(Viveka) | Puruṣa独存 | 纯意识 |
+| **瑜伽** | Citta Vṛtti(心意波动) | 八支瑜伽 | Kaivalya(独存) | 纯意识 |
+| **Advaita** | 无明(Avidyā) | 知识(Jñāna) | 认知Ātman=Brahman | Sat-Cit-Ānanda |
+| **Viśiṣṭādvaita** | 无知+业 | 虔信(Bhakti)+臣服 | 永居Viṣṇu身边 | 至福意识 |
+| **Dvaita** | 业+无知 | 虔信+恩典 | 永恒服务Viṣṇu | 有等级的至福 |
+| **正理** | 错误认识 | 正确知识 | 痛苦止灭 | 无意识(争议) |
+| **胜论** | 错误认识 | 正确知识 | 与Ātman合一 | 无特质的存在 |
+| **弥曼差** | 不履行义务 | 正确执行仪式 | 天界享乐 | 有意识的享乐 |
+
+### 对瑜伽实践的影响
+
+| 哲学派别 | 对瑜伽的影响 | 实践体现 |
+| :--- | :--- | :--- |
+| **数论** | 提供了身心分离的理论基础 | Puruṣa-Prakṛti辨别是冥想核心 |
+| **瑜伽派** | 系统化修行方法 | 八支体系、三摩地理论 |
+| **Advaita** | "你即是那"的直接体验 | Jñāna冥想、Neti-Neti方法 |
+| **Bhakti传统** | 虔信修行的哲学基础 | Mantra、Kirtana、Puja |
+| **正理** | 逻辑思维训练 | 哲学讨论(Satsang)的方法论 |
+| **弥曼差** | 仪式与行为的重要性 | Puja、Mantra的精确性要求 |
+
+---
+
+## 非正统体系与瑜伽的对话
+
+### 佛教与瑜伽
+
+| 维度 | 佛教 | 瑜伽/数论 | 对话 |
+| :--- | :--- | :--- | :--- |
+| **自我** | 无我(Anātman) | 有永恒自我(Ātman/Puruṣa) | 根本分歧 |
+| **冥想** | 正念/Vipassanā/禅定 | Dhāraṇā/Dhyāna/Samādhi | 技术相互借鉴 |
+| **苦** | 四圣谛 | Kleśa理论 | 类似分析 |
+| **解脱** | 涅槃(Nirvāṇa) | Kaivalya/Mokṣa | 不同描述 |
+| **伦理** | 八正道 | Yama/Niyama | 重叠但框架不同 |
+
+### 耆那教与瑜伽
+
+| 维度 | 耆那教 | 瑜伽 | 交汇 |
+| :--- | :--- | :--- | :--- |
+| **非暴力** | Ahiṃsā为最高原则 | Yama第一条 | 深刻共鸣 |
+| **苦行** | 极端苦行(Tapas) | 适度苦行 | 程度差异 |
+| **灵魂** | Jīva(有灵魂) | Ātman/Puruṣa | 类似 |
+| **业** | 物质性的Karma粒子 | 心理印记(Saṃskāra) | 不同机制 |
+
+---
+
+## 参考文献
+
+1. Radhakrishnan, S. (1923/1927). *Indian Philosophy*, Vols. I & II. Oxford University Press.
+2. Dasgupta, S. (1922-1955). *A History of Indian Philosophy*, Vols. I-V. Cambridge University Press.
+3. Larson, G.J. & Bhattacharya, R.S. (1987). *Sāṃkhya: A Dualist Tradition in Indian Philosophy*. Princeton University Press.
+4. Whicher, I. (1998). *The Integrity of the Yoga Darśana*. SUNY Press.
+5. Deutsch, E. (1969). *Advaita Vedānta: A Philosophical Reconstruction*. University of Hawaii Press.
+6. Matilal, B.K. (1986). *Perception: An Essay on Classical Indian Theories of Knowledge*. Oxford University Press.
+7. Potter, K.H. (Ed.). *Encyclopedia of Indian Philosophies* (多卷). Motilal Banarsidass.
+8. Chatterjee, S. & Datta, D. (1984). *An Introduction to Indian Philosophy*. University of Calcutta.
+9. Flood, G. (1996). *An Introduction to Hinduism*. Cambridge University Press.
+10. Nicholson, A. (2010). *Unifying Hinduism: Philosophy and Identity in Indian Intellectual History*. Columbia University Press.
+
+---
+
+> **相关文档链接：**
+> - [瑜伽哲学](Yoga_Philosophy.md)
+> - [瑜伽经深度解读](Yoga_Sutra_Philosophical_Deep_Dive.md)
+> - [瑜伽历史与传统](Yoga_History_Tradition.md)
+> - [瑜伽术语总表](Yoga_Glossary_Master.md)
+> - [冥想：专注与禅定](Yoga_Meditation_Dharana_Dhyana.md)
+> - [昆达里尼与高级修炼](Yoga_Advanced_Kriya_Kundalini.md)
+> - [中医与瑜伽整合](Yoga_TCM_Integration.md)

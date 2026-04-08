@@ -492,7 +492,7 @@
 
 #### 10.5.2 个性化平衡点确定 (Personalized Balance Point Determination)
 
-**专业交叉引用**：关于储物癖障碍的详细诊断标准、神经机制和治疗方案，请参考 [储物癖障碍概览](../hoarding-disorder/Hoarding_Disorder_Overview.md) 和 [储物癖障碍治疗](../hoarding-disorder/Hoarding_Disorder_Treatment.md) 文档。
+**专业交叉引用**：关于储物癖障碍的详细诊断标准、神经机制和治疗方案，请参考 [储物癖障碍概览](../../../02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Overview.md) 和 [储物癖障碍治疗](../../../02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md) 文档。
 | 评估维度 | 健康范围 | 个体化标准 | 调整策略 |
 |----------|----------|------------|----------|
 | **物品数量** | 功能需求 + 适度情感价值 | 根据空间、收入、需求定制 | 动态调整机制 |

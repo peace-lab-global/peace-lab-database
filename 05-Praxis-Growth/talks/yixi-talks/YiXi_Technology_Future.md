@@ -135,7 +135,7 @@
 ### 6.3 与现有知识体系对接
 本文件与以下项目模块建立深度链接：
 - [人工智能基础](../framework/Framework_AI_Foundations.md)
-- [脑机接口技术](../brain/Brain_BCI_Systems.md)
+- [脑机接口技术](../../../03-Bio-Science/biology/brain/Brain_BCI_Systems.md)
 - [科技伦理](../framework/Framework_Technology_Ethics.md)
 - [创新管理](../framework/Framework_Innovation_Management.md)
 - [未来学研究](../framework/Framework_Futures_Research.md)

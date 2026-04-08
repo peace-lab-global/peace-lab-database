@@ -258,10 +258,10 @@
 
 本一席内容体系与项目其他专业知识模块建立以下关联：
 
-- **心理学领域**：与[心理学](02-Mind-Psychology/psychology/)、[发展心理学](child-development-psychology/)、[青少年心理学](adolescent-psychology/)等模块深度对接
-- **健康医学**：与[生物医学](bio/)、[睡眠](sleep/)、[营养](nutritional/)等健康相关模块形成互补
-- **社会议题**：与[社会心理学](02-Mind-Psychology/psychology/)、[政治心理学](political-psychology/)等社会科学模块相互呼应
-- **科技前沿**：与[脑科学](brain/)、[人工智能](framework/)等技术模块建立知识桥梁
+- **心理学领域**：与[心理学](../../../02-Mind-Psychology/psychology/)、[发展心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/)、[青少年心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/)等模块深度对接
+- **健康医学**：与[生物医学](bio/)、[睡眠](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)、[营养](../../../03-Bio-Science/foods/nutritional/)等健康相关模块形成互补
+- **社会议题**：与[社会心理学](../../../02-Mind-Psychology/psychology/)、[政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/)等社会科学模块相互呼应
+- **科技前沿**：与[脑科学](../../../03-Bio-Science/biology/brain/)、[人工智能](../../../02-Mind-Psychology/psychology/foundations/framework/)等技术模块建立知识桥梁
 
 ---
 

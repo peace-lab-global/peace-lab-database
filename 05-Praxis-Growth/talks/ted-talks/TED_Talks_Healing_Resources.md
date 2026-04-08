@@ -24,39 +24,39 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Andy Puddicombe** | All it takes is 10 mindful minutes | 2012 | 每天10分钟正念改变生活 | [正念核心](Mindfulness_Core.md) | 9:24 | [观看](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) |
-| **Jon Kabat-Zinn** | Mindfulness and Meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](Mindfulness_Based_Stress_Reduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
-| **Shauna Shapiro** | The Power of Mindfulness | 2017 | 正念的神经科学与心理学 | [正念神经科学](Mindfulness_Core.md) | 16:32 | [观看](https://www.youtube.com/watch?v=IeblJdB2-Vo) |
-| **Diana Winston** | The Practice of Mindfulness | 2019 | UCLA正念中心主任的实修指南 | [正念临床应用](Mindfulness_Clinical_Applications.md) | 15:47 | [观看](https://www.youtube.com/watch?v=tTb3d5cjSFI) |
-| **Tara Brach** | The RAIN of Self-Compassion | 2020 | RAIN技术详解 | [自我慈悲](Self_Compassion_Self_Care.md) | 21:15 | [观看](https://www.youtube.com/watch?v=dG4YTdimAHs) |
+| **Andy Puddicombe** | All it takes is 10 mindful minutes | 2012 | 每天10分钟正念改变生活 | [正念核心](../../personal-development/mindfulness/Mindfulness_Core.md) | 9:24 | [观看](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) |
+| **Jon Kabat-Zinn** | Mindfulness and Meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
+| **Shauna Shapiro** | The Power of Mindfulness | 2017 | 正念的神经科学与心理学 | [正念神经科学](../../personal-development/mindfulness/Mindfulness_Core.md) | 16:32 | [观看](https://www.youtube.com/watch?v=IeblJdB2-Vo) |
+| **Diana Winston** | The Practice of Mindfulness | 2019 | UCLA正念中心主任的实修指南 | [正念临床应用](../../personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 15:47 | [观看](https://www.youtube.com/watch?v=tTb3d5cjSFI) |
+| **Tara Brach** | The RAIN of Self-Compassion | 2020 | RAIN技术详解 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 21:15 | [观看](https://www.youtube.com/watch?v=dG4YTdimAHs) |
 
 ### 2.2 神经可塑性与大脑
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Jill Bolte Taylor** | My stroke of insight | 2008 | 脑科学家中风后的觉醒 | [神经科学](Psychology_Cognition.md) | 18:44 | [观看](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight) |
-| **Lara Boyd** | After watching this, your brain will not be the same | 2015 | 神经可塑性如何改变人生 | [神经可塑性](Psychology_Cognition.md) | 14:25 | [观看](https://www.youtube.com/watch?v=LNHBMFCzznE) |
-| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
-| **Sarah McKay** | What happens to your brain when you pay attention | 2018 | 注意力神经机制 | [认知科学](Psychology_Cognition.md) | 12:52 | [观看](https://www.youtube.com/watch?v=crunbgL_9sI) |
+| **Jill Bolte Taylor** | My stroke of insight | 2008 | 脑科学家中风后的觉醒 | [神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 18:44 | [观看](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight) |
+| **Lara Boyd** | After watching this, your brain will not be the same | 2015 | 神经可塑性如何改变人生 | [神经可塑性](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 14:25 | [观看](https://www.youtube.com/watch?v=LNHBMFCzznE) |
+| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Sarah McKay** | What happens to your brain when you pay attention | 2018 | 注意力神经机制 | [认知科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 12:52 | [观看](https://www.youtube.com/watch?v=crunbgL_9sI) |
 
 ### 2.3 情绪与心理健康
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Susan David** | The gift of emotional courage | 2017 | 情绪敏捷性与心理韧性 | [情绪调节](Emotion_Regulation_Methods.md) | 16:48 | [观看](https://www.ted.com/talks/susan_david_the_gift_of_emotional_courage) |
-| **Guy Winch** | Why we all need to practice emotional first aid | 2014 | 心理急救的必要性 | [心理自助](Psychology_Self_Help_Protocols.md) | 17:24 | [观看](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid) |
-| **Brené Brown** | The power of vulnerability | 2010 | 脆弱性与勇气心理学 | [情感韧性](Psychology_Emotion.md) | 20:19 | [观看](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability) |
-| **Johann Hari** | This could be why you're depressed or anxious | 2018 | 抑郁与焦虑的社会根源 | [抑郁症概览](Depression_Overview.md) | 14:46 | [观看](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious) |
-| **Andrew Solomon** | Depression, the secret we share | 2013 | 抑郁症的深度人文视角 | [抑郁症治疗](Depression_Treatment.md) | 29:17 | [观看](https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share) |
+| **Susan David** | The gift of emotional courage | 2017 | 情绪敏捷性与心理韧性 | [情绪调节](../../../02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Regulation_Methods.md) | 16:48 | [观看](https://www.ted.com/talks/susan_david_the_gift_of_emotional_courage) |
+| **Guy Winch** | Why we all need to practice emotional first aid | 2014 | 心理急救的必要性 | [心理自助](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md) | 17:24 | [观看](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid) |
+| **Brené Brown** | The power of vulnerability | 2010 | 脆弱性与勇气心理学 | [情感韧性](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 20:19 | [观看](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability) |
+| **Johann Hari** | This could be why you're depressed or anxious | 2018 | 抑郁与焦虑的社会根源 | [抑郁症概览](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 14:46 | [观看](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious) |
+| **Andrew Solomon** | Depression, the secret we share | 2013 | 抑郁症的深度人文视角 | [抑郁症治疗](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Treatment.md) | 29:17 | [观看](https://www.ted.com/talks/andrew_solomon_depression_the_secret_we_share) |
 
 ### 2.4 创伤与疗愈
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Bessel van der Kolk** | How trauma affects the body and mind | 2018 | 《身体记住了》作者讲创伤 | [躯体体验](Somatic_Experiencing_Therapy.md) | 18:52 | [观看](https://www.youtube.com/watch?v=53RX2ESIqsM) |
-| **Nadine Burke Harris** | How childhood trauma affects health across a lifetime | 2014 | ACE研究与童年创伤 | [创伤心理](Somatic_Movement_Trauma.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
-| **Stephen Porges** | Polyvagal Theory in Practice | 2019 | 多迷走神经理论详解 | [躯体体验](Somatic_Experiencing.md) | 22:34 | [观看](https://www.youtube.com/watch?v=ec3AUMDjtKQ) |
-| **Gabor Maté** | The Power of Addiction and The Addiction of Power | 2012 | 成瘾与童年创伤关联 | [成瘾概览](Addiction_Overview.md) | 18:26 | [观看](https://www.youtube.com/watch?v=66cYcSak6nE) |
+| **Bessel van der Kolk** | How trauma affects the body and mind | 2018 | 《身体记住了》作者讲创伤 | [躯体体验](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 18:52 | [观看](https://www.youtube.com/watch?v=53RX2ESIqsM) |
+| **Nadine Burke Harris** | How childhood trauma affects health across a lifetime | 2014 | ACE研究与童年创伤 | [创伤心理](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
+| **Stephen Porges** | Polyvagal Theory in Practice | 2019 | 多迷走神经理论详解 | [躯体体验](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing.md) | 22:34 | [观看](https://www.youtube.com/watch?v=ec3AUMDjtKQ) |
+| **Gabor Maté** | The Power of Addiction and The Addiction of Power | 2012 | 成瘾与童年创伤关联 | [成瘾概览](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md) | 18:26 | [观看](https://www.youtube.com/watch?v=66cYcSak6nE) |
 
 ---
 
@@ -66,19 +66,19 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](Meditation_Core.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
-| **Dan Harris** | Hack your brain's default mode with meditation | 2019 | 冥想改变默认模式网络 | [DMN](Brain_DMN_Default_Mode_Network.md) | 11:14 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
-| **Sam Harris** | It's now or never | 2018 | 正念哲学家的洞见 | [不二论](Meditation_Direct_Recognition_Foundations.md) | 14:07 | [观看](https://www.youtube.com/watch?v=CvKZj5watlas) |
-| **Yuval Harari** | Nationalism vs. globalism | 2017 | 历史学家谈内观禅修 | [内观禅修](Vipassana_Meditation.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
+| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
+| **Dan Harris** | Hack your brain's default mode with meditation | 2019 | 冥想改变默认模式网络 | [DMN](../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md) | 11:14 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
+| **Sam Harris** | It's now or never | 2018 | 正念哲学家的洞见 | [不二论](../../../02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Foundations.md) | 14:07 | [观看](https://www.youtube.com/watch?v=CvKZj5watlas) |
+| **Yuval Harari** | Nationalism vs. globalism | 2017 | 历史学家谈内观禅修 | [内观禅修](../../../02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
 
 ### 3.2 东方智慧
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](Buddhism_Mindfulness_Therapy_Integration.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
-| **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](Buddhism_Four_Immeasurables.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
-| **Thích Nhất Hạnh** | How to eat mindfully | 2013 | 一行禅师正念饮食教导 | [正念日常](Mindful_Daily_Living.md) | 8:34 | [观看](https://www.youtube.com/watch?v=wk4xRqsMt7Q) |
-| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](Meditation_Core.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
+| **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Mindfulness_Therapy_Integration.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
+| **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
+| **Thích Nhất Hạnh** | How to eat mindfully | 2013 | 一行禅师正念饮食教导 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) | 8:34 | [观看](https://www.youtube.com/watch?v=wk4xRqsMt7Q) |
+| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
 
 ---
 
@@ -88,17 +88,17 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Peter Levine** | Healing trauma through somatic experiencing | 2010 | SE创始人讲创伤释放 | [躯体体验疗法](Somatic_Experiencing_Therapy.md) | 17:42 | [观看](https://www.youtube.com/watch?v=nmJDkzDMllc) |
-| **Amy Cuddy** | Your body language may shape who you are | 2012 | 权力姿势改变身心状态 | [躯体智慧](Somatic_Movement_Functional.md) | 21:02 | [观看](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) |
-| **Emily Balcetis** | Why some people find exercise harder than others | 2014 | 运动心理学洞见 | [运动疗愈](Somatic_Movement_Performance.md) | 13:02 | [观看](https://www.ted.com/talks/emily_balcetis_why_some_people_find_exercise_harder_than_others) |
+| **Peter Levine** | Healing trauma through somatic experiencing | 2010 | SE创始人讲创伤释放 | [躯体体验疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 17:42 | [观看](https://www.youtube.com/watch?v=nmJDkzDMllc) |
+| **Amy Cuddy** | Your body language may shape who you are | 2012 | 权力姿势改变身心状态 | [躯体智慧](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md) | 21:02 | [观看](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) |
+| **Emily Balcetis** | Why some people find exercise harder than others | 2014 | 运动心理学洞见 | [运动疗愈](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md) | 13:02 | [观看](https://www.ted.com/talks/emily_balcetis_why_some_people_find_exercise_harder_than_others) |
 
 ### 4.2 瑜伽与呼吸
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
-| **Sunni Brown** | Breathe to heal | 2018 | 呼吸疗愈机制 | [呼吸技术](Bio_Breathwork_Pranayama.md) | 14:16 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
-| **Max Strom** | Breathe to heal | 2019 | 调息法改善身心 | [呼吸与生物黑客](Bio_Breathwork_Biohack.md) | 18:23 | [观看](https://www.youtube.com/watch?v=4Lb5L-VEm34) |
+| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
+| **Sunni Brown** | Breathe to heal | 2018 | 呼吸疗愈机制 | [呼吸技术](../../../03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md) | 14:16 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
+| **Max Strom** | Breathe to heal | 2019 | 调息法改善身心 | [呼吸与生物黑客](../../../03-Bio-Science/biology/breathwork/Bio_Breathwork_Biohack.md) | 18:23 | [观看](https://www.youtube.com/watch?v=4Lb5L-VEm34) |
 
 ---
 
@@ -108,19 +108,19 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Esther Perel** | Rethinking infidelity ... a talk for anyone who has ever loved | 2015 | 出轨心理学深度解析 | [出轨与背叛](Marriage_Infidelity_Betrayal.md) | 19:15 | [观看](https://www.ted.com/talks/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved) |
-| **Helen Fisher** | The brain in love | 2008 | 爱情神经科学研究 | [恋爱神经科学](Love_Neuroscience_Biology.md) | 16:22 | [观看](https://www.ted.com/talks/helen_fisher_the_brain_in_love) |
-| **John Gottman** | The science of love | 2018 | Gottman方法创始人 | [婚姻治疗](Marriage_Therapy_Methods.md) | 15:42 | [观看](https://www.youtube.com/watch?v=-mdGctqONgU) |
-| **Sue Johnson** | The power of emotional connection | 2016 | EFT创始人谈情感依恋 | [依恋与亲密](Love_Attachment_Intimacy.md) | 17:38 | [观看](https://www.youtube.com/watch?v=KZ-OwbGWXPw) |
-| **Alain de Botton** | A kinder, gentler philosophy of success | 2009 | 现代爱情与成功哲学 | [人际关系](Psychology_Social.md) | 16:53 | [观看](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) |
+| **Esther Perel** | Rethinking infidelity ... a talk for anyone who has ever loved | 2015 | 出轨心理学深度解析 | [出轨与背叛](../../../02-Mind-Psychology/relationships/marriage/Marriage_Infidelity_Betrayal.md) | 19:15 | [观看](https://www.ted.com/talks/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved) |
+| **Helen Fisher** | The brain in love | 2008 | 爱情神经科学研究 | [恋爱神经科学](../../../02-Mind-Psychology/relationships/love/Love_Neuroscience_Biology.md) | 16:22 | [观看](https://www.ted.com/talks/helen_fisher_the_brain_in_love) |
+| **John Gottman** | The science of love | 2018 | Gottman方法创始人 | [婚姻治疗](../../../02-Mind-Psychology/relationships/marriage/Marriage_Therapy_Methods.md) | 15:42 | [观看](https://www.youtube.com/watch?v=-mdGctqONgU) |
+| **Sue Johnson** | The power of emotional connection | 2016 | EFT创始人谈情感依恋 | [依恋与亲密](../../../02-Mind-Psychology/relationships/love/Love_Attachment_Intimacy.md) | 17:38 | [观看](https://www.youtube.com/watch?v=KZ-OwbGWXPw) |
+| **Alain de Botton** | A kinder, gentler philosophy of success | 2009 | 现代爱情与成功哲学 | [人际关系](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 16:53 | [观看](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) |
 
 ### 5.2 沟通与冲突
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Celeste Headlee** | 10 ways to have a better conversation | 2015 | 高质量对话技术 | [沟通技术](Marriage_Communication.md) | 11:44 | [观看](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation) |
-| **Julian Treasure** | How to speak so that people want to listen | 2013 | 有效沟通的声音艺术 | [声乐疗法](Sensory_Vocal_Therapy.md) | 9:58 | [观看](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen) |
-| **William Ury** | The walk from "no" to "yes" | 2010 | 谈判与冲突解决 | [冲突处理](Marriage_Crisis_Intervention.md) | 18:50 | [观看](https://www.ted.com/talks/william_ury_the_walk_from_no_to_yes) |
+| **Celeste Headlee** | 10 ways to have a better conversation | 2015 | 高质量对话技术 | [沟通技术](../../../02-Mind-Psychology/relationships/marriage/Marriage_Communication.md) | 11:44 | [观看](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation) |
+| **Julian Treasure** | How to speak so that people want to listen | 2013 | 有效沟通的声音艺术 | [声乐疗法](../../../02-Mind-Psychology/therapy/sensory/Sensory_Vocal_Therapy.md) | 9:58 | [观看](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen) |
+| **William Ury** | The walk from "no" to "yes" | 2010 | 谈判与冲突解决 | [冲突处理](../../../02-Mind-Psychology/relationships/marriage/Marriage_Crisis_Intervention.md) | 18:50 | [观看](https://www.ted.com/talks/william_ury_the_walk_from_no_to_yes) |
 
 ---
 
@@ -130,18 +130,18 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Nora McInerny** | We don't "move on" from grief. We move forward with it | 2018 | 悲伤不是移走而是携带前行 | [哀伤心理](Grief_Bereavement.md) | 15:06 | [观看](https://www.ted.com/talks/nora_mcinerny_we_don_t_move_on_from_grief_we_move_forward_with_it) |
-| **Jason B. Rosenthal** | The journey through loss and grief | 2017 | 丧偶后的疗愈之旅 | [特殊丧失](Grief_Special_Loss_Types.md) | 13:28 | [观看](https://www.ted.com/talks/jason_b_rosenthal_the_journey_through_loss_and_grief) |
-| **Lucy Hone** | 3 secrets of resilient people | 2019 | 面对丧子之痛的韧性 | [韧性心理](Psychology_Emotion.md) | 16:04 | [观看](https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people) |
-| **David Kessler** | Finding meaning | 2020 | Kübler-Ross学生谈悲伤第六阶段 | [哀伤理论](Grief_Bereavement.md) | 18:35 | [观看](https://www.youtube.com/watch?v=M_cbGrzaI3w) |
+| **Nora McInerny** | We don't "move on" from grief. We move forward with it | 2018 | 悲伤不是移走而是携带前行 | [哀伤心理](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md) | 15:06 | [观看](https://www.ted.com/talks/nora_mcinerny_we_don_t_move_on_from_grief_we_move_forward_with_it) |
+| **Jason B. Rosenthal** | The journey through loss and grief | 2017 | 丧偶后的疗愈之旅 | [特殊丧失](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Special_Loss_Types.md) | 13:28 | [观看](https://www.ted.com/talks/jason_b_rosenthal_the_journey_through_loss_and_grief) |
+| **Lucy Hone** | 3 secrets of resilient people | 2019 | 面对丧子之痛的韧性 | [韧性心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 16:04 | [观看](https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people) |
+| **David Kessler** | Finding meaning | 2020 | Kübler-Ross学生谈悲伤第六阶段 | [哀伤理论](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md) | 18:35 | [观看](https://www.youtube.com/watch?v=M_cbGrzaI3w) |
 
 ### 6.2 死亡观
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](Buddhism_Pure_Land_Practice.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
-| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](Death_Existential_Psychology.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
-| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](Death_Anxiety_Overview.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
+| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Pure_Land_Practice.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
+| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
+| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-Bio-Science/death/Death_Anxiety_Overview.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
 
 ---
 
@@ -151,18 +151,18 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Martin Seligman** | The new era of positive psychology | 2004 | 积极心理学之父演讲 | [积极心理学](Psychology_Schools_Theories.md) | 23:42 | [观看](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology) |
-| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](Meditation_Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
-| **Dan Gilbert** | The surprising science of happiness | 2004 | 综合幸福vs自然幸福 | [情感心理学](Psychology_Emotion.md) | 21:20 | [观看](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness) |
-| **Robert Waldinger** | What makes a good life? Lessons from the longest study on happiness | 2015 | 哈佛75年幸福研究 | [人际关系](Psychology_Social.md) | 12:46 | [观看](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) |
+| **Martin Seligman** | The new era of positive psychology | 2004 | 积极心理学之父演讲 | [积极心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md) | 23:42 | [观看](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology) |
+| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](../../../02-Mind-Psychology/meditation/overview/Meditation_Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
+| **Dan Gilbert** | The surprising science of happiness | 2004 | 综合幸福vs自然幸福 | [情感心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 21:20 | [观看](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness) |
+| **Robert Waldinger** | What makes a good life? Lessons from the longest study on happiness | 2015 | 哈佛75年幸福研究 | [人际关系](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 12:46 | [观看](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) |
 
 ### 7.2 意义与目的
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Viktor Frankl** | Why believe in others | 1972 | 意义疗法创始人珍贵演讲 | [存在主义心理学](Philosophy_Western_Stoicism_Existentialism.md) | 28:15 | [观看](https://www.youtube.com/watch?v=fD1512_XJEw) |
-| **Emily Esfahani Smith** | There's more to life than being happy | 2017 | 意义四支柱 | [意义疗法](Grief_Bereavement.md) | 12:20 | [观看](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy) |
-| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始（心流相关） | [心流理论](Flow_State_Core.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
+| **Viktor Frankl** | Why believe in others | 1972 | 意义疗法创始人珍贵演讲 | [存在主义心理学](../../../01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md) | 28:15 | [观看](https://www.youtube.com/watch?v=fD1512_XJEw) |
+| **Emily Esfahani Smith** | There's more to life than being happy | 2017 | 意义四支柱 | [意义疗法](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md) | 12:20 | [观看](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy) |
+| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始（心流相关） | [心流理论](../../personal-development/flow/Flow_State_Core.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
 
 ---
 
@@ -172,16 +172,16 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论创始人 | [自我慈悲](Self_Compassion_Self_Care.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
-| **Chris Germer** | The mindful path to self-compassion | 2015 | MSC联合创始人演讲 | [MSC课程](Self_Compassion_Self_Care.md) | 16:48 | [观看](https://www.youtube.com/watch?v=rUMowN-FYpw) |
-| **Sharon Salzberg** | Love yourself (it's not a dirty word) | 2011 | 慈心禅大师谈自爱 | [慈心禅](Buddhism_Four_Immeasurables.md) | 12:34 | [观看](https://www.youtube.com/watch?v=lHJsdi3yWc0) |
+| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论创始人 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
+| **Chris Germer** | The mindful path to self-compassion | 2015 | MSC联合创始人演讲 | [MSC课程](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 16:48 | [观看](https://www.youtube.com/watch?v=rUMowN-FYpw) |
+| **Sharon Salzberg** | Love yourself (it's not a dirty word) | 2011 | 慈心禅大师谈自爱 | [慈心禅](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 12:34 | [观看](https://www.youtube.com/watch?v=lHJsdi3yWc0) |
 
 ### 8.2 内在小孩与疗愈
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Nicole LePera** | How to do the work | 2021 | 整体心理学家谈自我疗愈 | [自我疗愈](Psychology_Self_Help_Protocols.md) | 15:37 | [观看](https://www.youtube.com/watch?v=wfS8gNcISRI) |
-| **Peter Crone** | The mind shift | 2019 | 信念系统的转化 | [认知重构](Psychology_Therapy_Techniques.md) | 17:42 | [观看](https://www.youtube.com/watch?v=OlVJvWy02v4) |
+| **Nicole LePera** | How to do the work | 2021 | 整体心理学家谈自我疗愈 | [自我疗愈](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md) | 15:37 | [观看](https://www.youtube.com/watch?v=wfS8gNcISRI) |
+| **Peter Crone** | The mind shift | 2019 | 信念系统的转化 | [认知重构](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md) | 17:42 | [观看](https://www.youtube.com/watch?v=OlVJvWy02v4) |
 
 ---
 
@@ -191,17 +191,17 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Matt Walker** | Sleep is your superpower | 2019 | 睡眠科学家详解睡眠重要性 | [睡眠科学](Bio_Sleep_Science.md) | 19:18 | [观看](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower) |
-| **Russell Foster** | Why do we sleep? | 2013 | 睡眠神经科学 | [睡眠与梦境](Bio_Sleep_Dreams.md) | 21:48 | [观看](https://www.ted.com/talks/russell_foster_why_do_we_sleep) |
-| **Jeff Iliff** | One more reason to get a good night's sleep | 2014 | 睡眠清理大脑废物 | [睡眠机制](Bio_Sleep_Science.md) | 11:17 | [观看](https://www.ted.com/talks/jeff_iliff_one_more_reason_to_get_a_good_night_s_sleep) |
+| **Matt Walker** | Sleep is your superpower | 2019 | 睡眠科学家详解睡眠重要性 | [睡眠科学](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md) | 19:18 | [观看](https://www.ted.com/talks/matt_walker_sleep_is_your_superpower) |
+| **Russell Foster** | Why do we sleep? | 2013 | 睡眠神经科学 | [睡眠与梦境](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Dreams.md) | 21:48 | [观看](https://www.ted.com/talks/russell_foster_why_do_we_sleep) |
+| **Jeff Iliff** | One more reason to get a good night's sleep | 2014 | 睡眠清理大脑废物 | [睡眠机制](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md) | 11:17 | [观看](https://www.ted.com/talks/jeff_iliff_one_more_reason_to_get_a_good_night_s_sleep) |
 
 ### 9.2 营养与健康
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的大脑营养 | [营养精神病学](Nutritional_Natural_Therapy.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
-| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康 | [肠脑轴](Bio_Nutrition_Gut.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
-| **Valter Longo** | The science of longevity | 2017 | 断食模拟饮食 | [断食智慧](Bio_Fasting_Metabolic.md) | 16:45 | [观看](https://www.youtube.com/watch?v=evGFWRXELyY) |
+| **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的大脑营养 | [营养精神病学](../../../03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
+| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康 | [肠脑轴](../../../03-Bio-Science/foods/Bio_Nutrition_Gut.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
+| **Valter Longo** | The science of longevity | 2017 | 断食模拟饮食 | [断食智慧](../../../03-Bio-Science/foods/fasting/Bio_Fasting_Metabolic.md) | 16:45 | [观看](https://www.youtube.com/watch?v=evGFWRXELyY) |
 
 ---
 
@@ -211,16 +211,16 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Johann Hari** | Everything you think you know about addiction is wrong | 2015 | 成瘾的社会根源（Rat Park） | [成瘾概览](Addiction_Overview.md) | 14:35 | [观看](https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong) |
-| **Gabor Maté** | The power of addiction and the addiction of power | 2012 | 成瘾与童年创伤 | [成瘾病因](Addiction_Overview.md) | 18:26 | [观看](https://www.youtube.com/watch?v=66cYcSak6nE) |
-| **Kevin McCauley** | Pleasure unwoven | 2009 | 成瘾神经科学 | [成瘾神经机制](Addiction_Overview.md) | 16:52 | [观看](https://www.youtube.com/watch?v=b2emgrRoT2c) |
+| **Johann Hari** | Everything you think you know about addiction is wrong | 2015 | 成瘾的社会根源（Rat Park） | [成瘾概览](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md) | 14:35 | [观看](https://www.ted.com/talks/johann_hari_everything_you_think_you_know_about_addiction_is_wrong) |
+| **Gabor Maté** | The power of addiction and the addiction of power | 2012 | 成瘾与童年创伤 | [成瘾病因](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md) | 18:26 | [观看](https://www.youtube.com/watch?v=66cYcSak6nE) |
+| **Kevin McCauley** | Pleasure unwoven | 2009 | 成瘾神经科学 | [成瘾神经机制](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md) | 16:52 | [观看](https://www.youtube.com/watch?v=b2emgrRoT2c) |
 
 ### 10.2 康复与复发预防
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Judson Brewer** | A simple way to break a bad habit | 2015 | 正念戟瘾法 | [成瘾治疗](Addiction_Treatment.md) | 9:28 | [观看](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit) |
-| **Brené Brown** | The power of vulnerability | 2010 | 羞耻与成瘾关联 | [成瘾心理](Addiction_Overview.md) | 20:19 | [观看](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability) |
+| **Judson Brewer** | A simple way to break a bad habit | 2015 | 正念戟瘾法 | [成瘾治疗](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Treatment.md) | 9:28 | [观看](https://www.ted.com/talks/judson_brewer_a_simple_way_to_break_a_bad_habit) |
+| **Brené Brown** | The power of vulnerability | 2010 | 羞耻与成瘾关联 | [成瘾心理](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md) | 20:19 | [观看](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability) |
 
 ---
 
@@ -230,17 +230,17 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **John Cacioppo** | The lethality of loneliness | 2013 | 孤独神经科学研究 | [孤独概览](Loneliness_Overview.md) | 16:34 | [观看](https://www.youtube.com/watch?v=_0hxl03JoA0) |
-| **Julianne Holt-Lunstad** | The health risks of loneliness | 2017 | 孤独健康风险研究 | [孤独健康风险](Loneliness_Overview.md) | 14:28 | [观看](https://www.youtube.com/watch?v=cmbBEEp0lh4) |
-| **Guy Winch** | How to fix a broken heart | 2017 | 失恋心理急救 | [失恋疗愈](Love_Breakup_Heartbreak.md) | 12:38 | [观看](https://www.youtube.com/watch?v=k0GQSJrpVhM) |
+| **John Cacioppo** | The lethality of loneliness | 2013 | 孤独神经科学研究 | [孤独概览](../../../02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md) | 16:34 | [观看](https://www.youtube.com/watch?v=_0hxl03JoA0) |
+| **Julianne Holt-Lunstad** | The health risks of loneliness | 2017 | 孤独健康风险研究 | [孤独健康风险](../../../02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md) | 14:28 | [观看](https://www.youtube.com/watch?v=cmbBEEp0lh4) |
+| **Guy Winch** | How to fix a broken heart | 2017 | 失恋心理急救 | [失恋疗愈](../../../02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md) | 12:38 | [观看](https://www.youtube.com/watch?v=k0GQSJrpVhM) |
 
 ### 11.2 数字时代心理健康
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Tristan Harris** | How technology hijacks people's minds | 2017 | 科技成瘾机制 | [数字成瘾](Addiction_Behavioral.md) | 17:26 | [观看](https://www.youtube.com/watch?v=C74amJRp730) |
-| **Cal Newport** | Quit social media | 2016 | 数字极简主义 | [数字疗法](Media_Therapy_Overview.md) | 13:50 | [观看](https://www.youtube.com/watch?v=3E7hkPZ-HTk) |
-| **Sherry Turkle** | Connected, but alone? | 2012 | 科技与人际关系 | [社交心理](Psychology_Social.md) | 19:47 | [观看](https://www.ted.com/talks/sherry_turkle_connected_but_alone) |
+| **Tristan Harris** | How technology hijacks people's minds | 2017 | 科技成瘾机制 | [数字成瘾](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md) | 17:26 | [观看](https://www.youtube.com/watch?v=C74amJRp730) |
+| **Cal Newport** | Quit social media | 2016 | 数字极简主义 | [数字疗法](../../../04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview.md) | 13:50 | [观看](https://www.youtube.com/watch?v=3E7hkPZ-HTk) |
+| **Sherry Turkle** | Connected, but alone? | 2012 | 科技与人际关系 | [社交心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 19:47 | [观看](https://www.ted.com/talks/sherry_turkle_connected_but_alone) |
 
 ---
 
@@ -250,15 +250,15 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Lisa Diamond** | The fluidity of sexual identity | 2018 | 性取向流动性研究 | [性心理](Marriage_Intimacy_Sexuality.md) | 15:42 | [观看](https://www.youtube.com/watch?v=RjX-KBPmgg4) |
-| **Emily Nagoski** | The truth about unwanted arousal | 2018 | 性反应机制澄清 | [性心理健康](Marriage_Intimacy_Sexuality.md) | 16:28 | [观看](https://www.youtube.com/watch?v=L-q-tSHo9Ho) |
+| **Lisa Diamond** | The fluidity of sexual identity | 2018 | 性取向流动性研究 | [性心理](../../../02-Mind-Psychology/relationships/marriage/Marriage_Intimacy_Sexuality.md) | 15:42 | [观看](https://www.youtube.com/watch?v=RjX-KBPmgg4) |
+| **Emily Nagoski** | The truth about unwanted arousal | 2018 | 性反应机制澄清 | [性心理健康](../../../02-Mind-Psychology/relationships/marriage/Marriage_Intimacy_Sexuality.md) | 16:28 | [观看](https://www.youtube.com/watch?v=L-q-tSHo9Ho) |
 
 ### 12.2 身体意象与自尊
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Meaghan Ramsey** | Why thinking you're ugly is bad for you | 2014 | 身体意象与心理健康 | [自尊心理](Psychology_Development.md) | 10:15 | [观看](https://www.ted.com/talks/meaghan_ramsey_why_thinking_you_re_ugly_is_bad_for_you) |
-| **Cameron Russell** | Looks aren't everything | 2012 | 超模谈外貌与自我价值 | [自我认同](Psychology_Social.md) | 9:37 | [观看](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model) |
+| **Meaghan Ramsey** | Why thinking you're ugly is bad for you | 2014 | 身体意象与心理健康 | [自尊心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 10:15 | [观看](https://www.ted.com/talks/meaghan_ramsey_why_thinking_you_re_ugly_is_bad_for_you) |
+| **Cameron Russell** | Looks aren't everything | 2012 | 超模谈外貌与自我价值 | [自我认同](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 9:37 | [观看](https://www.ted.com/talks/cameron_russell_looks_aren_t_everything_believe_me_i_m_a_model) |
 
 ---
 
@@ -268,15 +268,15 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Mihaly Csikszentmihalyi** | Flow, the secret to happiness | 2004 | 心流理论创始人演讲 | [心流核心](Flow_State_Core.md) | 18:55 | [观看](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness) |
-| **Steven Kotler** | The flow genome project | 2014 | 心流神经科学研究 | [心流神经机制](Flow_State_Core.md) | 17:32 | [观看](https://www.youtube.com/watch?v=znwUCNrjpD4) |
+| **Mihaly Csikszentmihalyi** | Flow, the secret to happiness | 2004 | 心流理论创始人演讲 | [心流核心](../../personal-development/flow/Flow_State_Core.md) | 18:55 | [观看](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness) |
+| **Steven Kotler** | The flow genome project | 2014 | 心流神经科学研究 | [心流神经机制](../../personal-development/flow/Flow_State_Core.md) | 17:32 | [观看](https://www.youtube.com/watch?v=znwUCNrjpD4) |
 
 ### 13.2 创造力
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Elizabeth Gilbert** | Your elusive creative genius | 2009 | 创造力与灵感来源 | [创造力心理](Psychology_Cognition.md) | 19:09 | [观看](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius) |
-| **Adam Grant** | The surprising habits of original thinkers | 2016 | 原创思考者特质 | [认知心理](Psychology_Cognition.md) | 15:25 | [观看](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers) |
+| **Elizabeth Gilbert** | Your elusive creative genius | 2009 | 创造力与灵感来源 | [创造力心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 19:09 | [观看](https://www.ted.com/talks/elizabeth_gilbert_your_elusive_creative_genius) |
+| **Adam Grant** | The surprising habits of original thinkers | 2016 | 原创思考者特质 | [认知心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 15:25 | [观看](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers) |
 
 ---
 
@@ -286,16 +286,16 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Nadine Burke Harris** | How childhood trauma affects health | 2014 | ACE研究与童年逆境 | [童年创伤](Adolescent_Crisis_Intervention.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
-| **Angela Lee Duckworth** | Grit: The power of passion and perseverance | 2013 | 毅力与成长心态 | [发展心理](Psychology_Development.md) | 6:12 | [观看](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) |
-| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式 | [认知发展](Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
+| **Nadine Burke Harris** | How childhood trauma affects health | 2014 | ACE研究与童年逆境 | [童年创伤](../../../02-Mind-Psychology/psychology/developmental/adolescent/adolescent-crisis/Adolescent_Crisis_Intervention.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
+| **Angela Lee Duckworth** | Grit: The power of passion and perseverance | 2013 | 毅力与成长心态 | [发展心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 6:12 | [观看](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) |
+| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式 | [认知发展](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
 
 ### 14.2 正念教育
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Daniel Goleman** | Why aren't we more compassionate? | 2007 | 情商之父谈慈悲教育 | [情商](Psychology_Emotion.md) | 13:05 | [观看](https://www.ted.com/talks/daniel_goleman_why_aren_t_we_more_compassionate) |
-| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](Meditation_Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Daniel Goleman** | Why aren't we more compassionate? | 2007 | 情商之父谈慈悲教育 | [情商](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 13:05 | [观看](https://www.ted.com/talks/daniel_goleman_why_aren_t_we_more_compassionate) |
+| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](../../../02-Mind-Psychology/meditation/overview/Meditation_Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---
 
@@ -305,16 +305,16 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](Classical_Music_Therapeutic_Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
-| **Michael Moschen** | Juggling as art ... and science | 2002 | 节奏与大脑协调 | [音乐神经科学](Classical_Music_Neuroscience.md) | 23:01 | [观看](https://www.ted.com/talks/michael_moschen_juggling_as_art_and_science) |
-| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家谈聆听艺术 | [声音疗愈](Sensory_Sound_Medicine.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
+| **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
+| **Michael Moschen** | Juggling as art ... and science | 2002 | 节奏与大脑协调 | [音乐神经科学](../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Neuroscience.md) | 23:01 | [观看](https://www.ted.com/talks/michael_moschen_juggling_as_art_and_science) |
+| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家谈聆听艺术 | [声音疗愈](../../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
 
 ### 15.2 艺术表达
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
-| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](Sensory_Arts_Nature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
+| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
+| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](../../../02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
 ---
 
@@ -324,15 +324,15 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Sheena Iyengar** | The art of choosing | 2010 | 文化与选择心理学 | [文化心理](Psychology_Schools_Theories.md) | 24:08 | [观看](https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing) |
-| **Paul Bloom** | Can prejudice ever be a good thing? | 2011 | 偏见心理学 | [社会心理](Psychology_Social.md) | 18:18 | [观看](https://www.ted.com/talks/paul_bloom_can_prejudice_ever_be_a_good_thing) |
+| **Sheena Iyengar** | The art of choosing | 2010 | 文化与选择心理学 | [文化心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md) | 24:08 | [观看](https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing) |
+| **Paul Bloom** | Can prejudice ever be a good thing? | 2011 | 偏见心理学 | [社会心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 18:18 | [观看](https://www.ted.com/talks/paul_bloom_can_prejudice_ever_be_a_good_thing) |
 
 ### 16.2 全球健康
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Hans Rosling** | The best stats you've ever seen | 2006 | 全球健康数据可视化 | [公共健康](Framework_Industry_Trends.md) | 19:50 | [观看](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) |
-| **Paul Farmer** | A doctor's case for health care for all | 2008 | 全球健康公平 | [社区支持](Society_Community_Support.md) | 23:59 | [观看](https://www.ted.com/talks/paul_farmer_a_doctor_s_case_for_health_care_for_all) |
+| **Hans Rosling** | The best stats you've ever seen | 2006 | 全球健康数据可视化 | [公共健康](../../../02-Mind-Psychology/psychology/foundations/framework/Framework_Industry_Trends.md) | 19:50 | [观看](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) |
+| **Paul Farmer** | A doctor's case for health care for all | 2008 | 全球健康公平 | [社区支持](../../../03-Bio-Science/sexuality/Society_Community_Support.md) | 23:59 | [观看](https://www.ted.com/talks/paul_farmer_a_doctor_s_case_for_health_care_for_all) |
 
 ---
 
@@ -351,10 +351,10 @@
 
 | 主题 | 推荐TED-Ed系列 | 适用人群 | 对应知识点 |
 |------|--------------|---------|------------|
-| **大脑科学** | How your brain works系列 | 初学者 | [神经科学](Psychology_Cognition.md) |
-| **心理学概念** | Psychology 101系列 | 学生 | [心理学理论](Psychology_Theories_Experiments.md) |
-| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](Meditation_General.md) |
-| **情绪管理** | Emotional intelligence系列 | 所有人 | [情绪心理](Psychology_Emotion.md) |
+| **大脑科学** | How your brain works系列 | 初学者 | [神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) |
+| **心理学概念** | Psychology 101系列 | 学生 | [心理学理论](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Theories_Experiments.md) |
+| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](../../../02-Mind-Psychology/meditation/overview/Meditation_General.md) |
+| **情绪管理** | Emotional intelligence系列 | 所有人 | [情绪心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) |
 
 ---
 
@@ -382,7 +382,7 @@
 
 | 使用场景 | 方法 | 示例 |
 |---------|------|------|
-| **扩展阅读** | 观看演讲后阅读对应表格 | 看完正念演讲→阅读[MBSR详表](Mindfulness_Based_Stress_Reduction.md) |
+| **扩展阅读** | 观看演讲后阅读对应表格 | 看完正念演讲→阅读[MBSR详表](../../personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
 | **理论深化** | 从演讲故事到系统理论 | TED故事启发→查阅详细机制 |
 | **实践指导** | 结合演讲灵感与实操协议 | 演讲动机→查找具体修法 |
 | **建立体系** | 用演讲串联知识点 | 以TED为线索构建学习地图 |
@@ -490,12 +490,12 @@
 
 | 天数 | TED演讲 | 实践内容 | 对应知识库 |
 |------|---------|---------|------------|
-| Day 1-3 | Andy Puddicombe: 10 mindful minutes | 每日10分钟正念呼吸 | [正念核心](Mindfulness_Core.md) |
-| Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](Mindfulness_Based_Stress_Reduction.md) |
-| Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](Mindful_Daily_Living.md) |
-| Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](Self_Compassion_Self_Care.md) |
-| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](Meditation_Core.md) |
-| Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](Buddhism_Four_Immeasurables.md) |
+| Day 1-3 | Andy Puddicombe: 10 mindful minutes | 每日10分钟正念呼吸 | [正念核心](../../personal-development/mindfulness/Mindfulness_Core.md) |
+| Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](../../personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
+| Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) |
+| Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) |
+| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) |
+| Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) |
 
 ### 22.2 创伤疗愈系列
 

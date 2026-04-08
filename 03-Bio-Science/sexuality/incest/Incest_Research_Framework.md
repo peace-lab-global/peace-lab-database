@@ -312,7 +312,7 @@ graph TB
 
 **相关文档链接：**
 - [换妻研究专业分析](../swinging/Swinging_Research_Framework.md) - 换妻行为的学术研究框架
-- [性学研究概览](../sexuality/Sexuality_Overview.md) - 性学研究的基础理论和方法
-- [出轨心理学与关系干预](../relationships/infidelity/Infidelity_Psychology.md) - 相关关系背叛行为的分析
+- [性学研究概览](../Sexuality_Overview.md) - 性学研究的基础理论和方法
+- [出轨心理学与关系干预](../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology.md) - 相关关系背叛行为的分析
 - [乱伦术语词典](Incest_Terminology_Dictionary.md) - 专业术语标准化定义
 - [乱伦临床工具箱](Incest_Clinical_Toolkit.md) - 实用临床工具和量表

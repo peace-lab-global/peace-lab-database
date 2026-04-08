@@ -3,7 +3,7 @@
 > 📘 **文档导航**: 本专题文档深入探讨恋芭蕾舞者癖的专业内容。相关主题请参考：
 > - [恋物癖概览](../Paraphilia_Overview.md) - 基础概念和整体框架
 > - [身体美学恋物](Body_Aesthetics_Fetishism.md) - 相关但独立的恋物类型
-> - [艺术治疗](../../art-therapy/Art_Therapy_Overview.md) - 心理机制相关专题
+> - [艺术治疗](../../../../04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md) - 心理机制相关专题
 > - [恋物癖临床评估](../Paraphilia_Clinical_Assessment.md) - 专业评估方法
 > - [恋物癖治疗实践](../Paraphilia_Treatment_Interventions.md) - 临床干预策略
 > - [质量报告](../Paraphilia_Quality_Report.md) - 体系质量评估详情

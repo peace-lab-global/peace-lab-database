@@ -30,6 +30,10 @@
           - [Laozi](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md)
           - [Liezi](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md)
           - [Zhuangzi](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md)
+        - **yijing**
+          - [总览](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/INDEX.md)
+          - [Yi Jing](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/Yi_Jing.md)
+          - [Yi Zhuan](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/Yi_Zhuan.md)
       - **japan**
         - **buddhism**
           - [总览](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/INDEX.md)
@@ -48,18 +52,22 @@
           - [总览](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/INDEX.md)
           - [YiHwang](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiHwang.md)
           - [YiI](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md)
+      - **overview**
+        - [Philosophy Eastern Classical Confucianism](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md)
       - **vietnam**
         - **confucianism**
           - [总览](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/vietnam/confucianism/INDEX.md)
           - [NguyenTrai](/01-Wisdom-Traditions/philosophy/east-asian-philosophy/vietnam/confucianism/NguyenTrai.md)
-    - **parent-dependent-male**
-      - [总览](/01-Wisdom-Traditions/philosophy/parent-dependent-male/INDEX.md)
-      - [Parent Dependent Male Analysis](/01-Wisdom-Traditions/philosophy/parent-dependent-male/Parent_Dependent_Male_Analysis.md)
     - **south-asian**
       - **india**
+        - [Philosophy Eastern Indian Schools](/01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md)
         - **samkhya**
           - [总览](/01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/INDEX.md)
           - [Kapila](/01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md)
+        - **scriptures**
+          - [总览](/01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/INDEX.md)
+          - [Upanishads](/01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Upanishads.md)
+          - [Yoga Sutras Patanjali](/01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Yoga_Sutras_Patanjali.md)
     - **western-philosophy**
       - **19th-century**
         - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/INDEX.md)
@@ -141,10 +149,6 @@
           - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md)
           - [Erasmus](/01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Erasmus.md)
           - [Machiavelli](/01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Machiavelli.md)
-      - **eastern**
-        - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/eastern/INDEX.md)
-        - [Philosophy Eastern Classical Confucianism](/01-Wisdom-Traditions/philosophy/western-philosophy/eastern/Philosophy_Eastern_Classical_Confucianism.md)
-        - [Philosophy Eastern Indian Schools](/01-Wisdom-Traditions/philosophy/western-philosophy/eastern/Philosophy_Eastern_Indian_Schools.md)
       - **enlightenment**
         - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/INDEX.md)
         - [Hume](/01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md)
@@ -171,15 +175,12 @@
         - **pragmatism**
           - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/INDEX.md)
           - [WilliamJames](/01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/WilliamJames.md)
-      - **western**
-        - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/western/INDEX.md)
-        - [Philosophy Western Kantian Schopenhauer](/01-Wisdom-Traditions/philosophy/western-philosophy/western/Philosophy_Western_Kantian_Schopenhauer.md)
-        - [Philosophy Western Phenomenology Metaphysics](/01-Wisdom-Traditions/philosophy/western-philosophy/western/Philosophy_Western_Phenomenology_Metaphysics.md)
-        - [Philosophy Western Stoicism Existentialism](/01-Wisdom-Traditions/philosophy/western-philosophy/western/Philosophy_Western_Stoicism_Existentialism.md)
+      - **practical-philosophy**
+        - [总览](/01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/INDEX.md)
+        - [Philosophy Western Kantian Schopenhauer](/01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Kantian_Schopenhauer.md)
+        - [Philosophy Western Phenomenology Metaphysics](/01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md)
+        - [Philosophy Western Stoicism Existentialism](/01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md)
   - **宗教 religions**
-    - **_krishnamurti**
-      - [总览](/01-Wisdom-Traditions/religions/_krishnamurti/INDEX.md)
-      - [Krishnamurti Teachings](/01-Wisdom-Traditions/religions/_krishnamurti/Krishnamurti_Teachings.md)
     - **buddhism**
       - [总览](/01-Wisdom-Traditions/religions/buddhism/INDEX.md)
       - [Buddhism Core Overview](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md)
@@ -197,17 +198,24 @@
       - [Buddhism Vajrayana Foundation](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Vajrayana_Foundation.md)
       - [Buddhism Vinaya Ethics](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Vinaya_Ethics.md)
       - [Buddhism Yogacara Consciousness](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Yogacara_Consciousness.md)
+      - [Buddhist Canon System](/01-Wisdom-Traditions/religions/buddhism/Buddhist_Canon_System.md)
+      - [Buddhist History Timeline](/01-Wisdom-Traditions/religions/buddhism/Buddhist_History_Timeline.md)
       - **advanced**
         - [总览](/01-Wisdom-Traditions/religions/buddhism/advanced/INDEX.md)
         - [Buddhism Advanced Practice Topics](/01-Wisdom-Traditions/religions/buddhism/advanced/Buddhism_Advanced_Practice_Topics.md)
       - **core-philosophy**
         - [总览](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/INDEX.md)
         - [Buddhism Huayan Dharmadhatu](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Huayan_Dharmadhatu.md)
+        - [Buddhism Madhyamaka Nagarjuna Works](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Nagarjuna_Works.md)
         - [Buddhism Madhyamaka Philosophy System](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md)
+        - [Buddhism Madhyamaka Prasangika Tradition](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md)
         - [Buddhism Pratiyasamutpada Emptiness](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md)
         - [Buddhism Tathagatagarbha](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Tathagatagarbha.md)
         - [Buddhism Three Seals One Reality](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md)
         - [Buddhism Yogacara Eight Consciousnesses](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md)
+        - [Buddhism Yogacara Epistemology](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Epistemology.md)
+        - [Buddhism Yogacara Hundred Dharmas](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md)
+        - [Buddhism Yogacara Madhyamaka Dialogue](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Madhyamaka_Dialogue.md)
       - **dzogchen**
         - [总览](/01-Wisdom-Traditions/religions/buddhism/dzogchen/INDEX.md)
         - [Dzogchen Great Perfection](/01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md)
@@ -228,6 +236,27 @@
       - **psychology**
         - [总览](/01-Wisdom-Traditions/religions/buddhism/psychology/INDEX.md)
         - [Buddhism Psychotherapy Theory](/01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md)
+      - **sutras**
+        - [总览](/01-Wisdom-Traditions/religions/buddhism/sutras/INDEX.md)
+        - [Abhidharma Treatises](/01-Wisdom-Traditions/religions/buddhism/sutras/Abhidharma_Treatises.md)
+        - [Agama Sutras](/01-Wisdom-Traditions/religions/buddhism/sutras/Agama_Sutras.md)
+        - [Amitabha Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Amitabha_Sutra.md)
+        - [Anapanasmrti Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Anapanasmrti_Sutra.md)
+        - [Diamond Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Diamond_Sutra.md)
+        - [Great Compassion Mantra](/01-Wisdom-Traditions/religions/buddhism/sutras/Great_Compassion_Mantra.md)
+        - [Heart Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Heart_Sutra.md)
+        - [Ksitigarbha Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Ksitigarbha_Sutra.md)
+        - [Medicine Buddha Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Medicine_Buddha_Sutra.md)
+        - [Platform Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md)
+        - [Pure Land Five Sutras](/01-Wisdom-Traditions/religions/buddhism/sutras/Pure_Land_Five_Sutras.md)
+        - [Samantabhadra Vows](/01-Wisdom-Traditions/religions/buddhism/sutras/Samantabhadra_Vows.md)
+        - [Samatha Vipasyana](/01-Wisdom-Traditions/religions/buddhism/sutras/Samatha_Vipasyana.md)
+        - [Six Wonderful Gates](/01-Wisdom-Traditions/religions/buddhism/sutras/Six_Wonderful_Gates.md)
+        - [Surangama Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Surangama_Sutra.md)
+        - [Vajrayana Sutras](/01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Sutras.md)
+        - [Vajrayana Yoga](/01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md)
+        - [Vimalakirti Sutra](/01-Wisdom-Traditions/religions/buddhism/sutras/Vimalakirti_Sutra.md)
+        - [Zen Meditation Methods](/01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md)
       - **theravada**
         - [总览](/01-Wisdom-Traditions/religions/buddhism/theravada/INDEX.md)
         - [Theravada Abhidhamma](/01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Abhidhamma.md)
@@ -272,12 +301,21 @@
       - [Dao Talisman Ritual Healing](/01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md)
       - [Dao Yangsheng Herbology](/01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md)
       - [Daoist Psychological Health Cultivation](/01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md)
+      - **classics**
+        - [总览](/01-Wisdom-Traditions/religions/dao/classics/INDEX.md)
+        - [Dao De Jing](/01-Wisdom-Traditions/religions/dao/classics/Dao_De_Jing.md)
+        - [Liezi](/01-Wisdom-Traditions/religions/dao/classics/Liezi.md)
+        - [Zhuangzi](/01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md)
     - **islam**
       - [总览](/01-Wisdom-Traditions/religions/islam/INDEX.md)
       - [Islam Overview Full](/01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md)
     - **legalist**
       - [总览](/01-Wisdom-Traditions/religions/legalist/INDEX.md)
       - [Legalist Management Psychology](/01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md)
+      - **classics**
+        - [总览](/01-Wisdom-Traditions/religions/legalist/classics/INDEX.md)
+        - [Han Feizi](/01-Wisdom-Traditions/religions/legalist/classics/Han_Feizi.md)
+        - [Shang Jun Shu](/01-Wisdom-Traditions/religions/legalist/classics/Shang_Jun_Shu.md)
     - **orthodox-christianity**
       - [总览](/01-Wisdom-Traditions/religions/orthodox-christianity/INDEX.md)
       - [Orthodox Christianity Overview Full](/01-Wisdom-Traditions/religions/orthodox-christianity/Orthodox_Christianity_Overview_Full.md)
@@ -300,9 +338,6 @@
       - [总览](/01-Wisdom-Traditions/religions/syncretism/INDEX.md)
       - [Syncretism Three Teachings](/01-Wisdom-Traditions/religions/syncretism/Syncretism_Three_Teachings.md)
       - [Syncretism Yogacara Yangming Comparison](/01-Wisdom-Traditions/religions/syncretism/Syncretism_Yogacara_Yangming_Comparison.md)
-    - **tai-chi**
-      - [总览](/01-Wisdom-Traditions/religions/tai-chi/INDEX.md)
-      - [Tai Chi Psychological Adjustment Mechanism](/01-Wisdom-Traditions/religions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
     - **tibetan-buddhism**
       - [总览](/01-Wisdom-Traditions/religions/tibetan-buddhism/INDEX.md)
       - [Tibetan Bardo Death Art](/01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Bardo_Death_Art.md)
@@ -320,6 +355,7 @@
       - [Tibetan Tulku System](/01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Tulku_System.md)
     - **wisdom-traditions**
       - [总览](/01-Wisdom-Traditions/religions/wisdom-traditions/INDEX.md)
+      - [Krishnamurti Teachings](/01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md)
       - [Wisdom Buddhism Healing Psychology](/01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md)
       - [Wisdom Christianity Inner Healing](/01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md)
       - [Wisdom Islamic Psychology Tazkiyah](/01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md)
@@ -340,22 +376,118 @@
       - [Zen Practice Methodology](/01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md)
       - [Zen Sutras In Depth](/01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md)
       - [Zen Wisdom Lineage](/01-Wisdom-Traditions/religions/zen/Zen_Wisdom_Lineage.md)
+  - **tai-chi**
+    - [总览](/01-Wisdom-Traditions/tai-chi/INDEX.md)
+    - [Tai Chi Psychological Adjustment Mechanism](/01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
   - **中医养生 tcm-neijing**
     - [Neijing Yangsheng Overview](/01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md)
     - [Neijing Yangsheng Practice](/01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md)
+    - **classics**
+      - [总览](/01-Wisdom-Traditions/tcm-neijing/classics/INDEX.md)
+      - [Huangdi Neijing Lingshu](/01-Wisdom-Traditions/tcm-neijing/classics/Huangdi_Neijing_Lingshu.md)
+      - [Huangdi Neijing Suwen](/01-Wisdom-Traditions/tcm-neijing/classics/Huangdi_Neijing_Suwen.md)
+      - [Jinkui Yaolue](/01-Wisdom-Traditions/tcm-neijing/classics/Jinkui_Yaolue.md)
+      - [Shanghan Lun](/01-Wisdom-Traditions/tcm-neijing/classics/Shanghan_Lun.md)
   - **瑜伽 yoga**
     - [总览](/01-Wisdom-Traditions/yoga/INDEX.md)
     - [Yoga Advanced Kriya Kundalini](/01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md)
     - [Yoga Anatomy Physiology](/01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md)
     - [Yoga Asana Pranayama](/01-Wisdom-Traditions/yoga/Yoga_Asana_Pranayama.md)
     - [Yoga Ayurvedic Therapy Integration](/01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md)
+    - [Yoga Ethics Business Professional](/01-Wisdom-Traditions/yoga/Yoga_Ethics_Business_Professional.md)
+    - [Yoga Glossary Master](/01-Wisdom-Traditions/yoga/Yoga_Glossary_Master.md)
     - [Yoga History Tradition](/01-Wisdom-Traditions/yoga/Yoga_History_Tradition.md)
+    - [Yoga Mantra Nada Chanting](/01-Wisdom-Traditions/yoga/Yoga_Mantra_Nada_Chanting.md)
+    - [Yoga Meditation Dharana Dhyana](/01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md)
+    - [Yoga Mental Health Clinical](/01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md)
+    - [Yoga Modern Styles](/01-Wisdom-Traditions/yoga/Yoga_Modern_Styles.md)
+    - [Yoga Neuroscience Modern Research](/01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md)
     - [Yoga Nidra](/01-Wisdom-Traditions/yoga/Yoga_Nidra.md)
+    - [Yoga Nutrition Lifestyle](/01-Wisdom-Traditions/yoga/Yoga_Nutrition_Lifestyle.md)
     - [Yoga Philosophy](/01-Wisdom-Traditions/yoga/Yoga_Philosophy.md)
+    - [Yoga Philosophy Schools Deep](/01-Wisdom-Traditions/yoga/Yoga_Philosophy_Schools_Deep.md)
     - [Yoga Psychological Healing Principles](/01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md)
     - [Yoga Resources](/01-Wisdom-Traditions/yoga/Yoga_Resources.md)
+    - [Yoga Retreat Workshop Design](/01-Wisdom-Traditions/yoga/Yoga_Retreat_Workshop_Design.md)
+    - [Yoga Shatkarma Cleansing](/01-Wisdom-Traditions/yoga/Yoga_Shatkarma_Cleansing.md)
+    - [Yoga Specific Populations](/01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md)
     - [Yoga Sutra Philosophical Deep Dive](/01-Wisdom-Traditions/yoga/Yoga_Sutra_Philosophical_Deep_Dive.md)
+    - [Yoga TCM Integration](/01-Wisdom-Traditions/yoga/Yoga_TCM_Integration.md)
+    - [Yoga Technology Digital](/01-Wisdom-Traditions/yoga/Yoga_Technology_Digital.md)
     - [Yoga Therapy](/01-Wisdom-Traditions/yoga/Yoga_Therapy.md)
+    - [Yoga Women Health](/01-Wisdom-Traditions/yoga/Yoga_Women_Health.md)
+    - **asana-library**
+      - [总览](/01-Wisdom-Traditions/yoga/asana-library/INDEX.md)
+      - [arm-balances](/01-Wisdom-Traditions/yoga/asana-library/arm-balances.md)
+      - [backbends](/01-Wisdom-Traditions/yoga/asana-library/backbends.md)
+      - [core-strengthening](/01-Wisdom-Traditions/yoga/asana-library/core-strengthening.md)
+      - [forward-bends](/01-Wisdom-Traditions/yoga/asana-library/forward-bends.md)
+      - [hip-openers](/01-Wisdom-Traditions/yoga/asana-library/hip-openers.md)
+      - [inversions](/01-Wisdom-Traditions/yoga/asana-library/inversions.md)
+      - [prenatal-postnatal](/01-Wisdom-Traditions/yoga/asana-library/prenatal-postnatal.md)
+      - [restorative](/01-Wisdom-Traditions/yoga/asana-library/restorative.md)
+      - [seated-poses](/01-Wisdom-Traditions/yoga/asana-library/seated-poses.md)
+      - [standing-poses](/01-Wisdom-Traditions/yoga/asana-library/standing-poses.md)
+      - [surya-namaskar](/01-Wisdom-Traditions/yoga/asana-library/surya-namaskar.md)
+      - [twists](/01-Wisdom-Traditions/yoga/asana-library/twists.md)
+    - **career-business**
+      - [总览](/01-Wisdom-Traditions/yoga/career-business/INDEX.md)
+      - [Yoga Business Models](/01-Wisdom-Traditions/yoga/career-business/Yoga_Business_Models.md)
+      - [Yoga Career Pathways](/01-Wisdom-Traditions/yoga/career-business/Yoga_Career_Pathways.md)
+      - [Yoga Digital Industry](/01-Wisdom-Traditions/yoga/career-business/Yoga_Digital_Industry.md)
+      - [Yoga Instructor Personal Branding](/01-Wisdom-Traditions/yoga/career-business/Yoga_Instructor_Personal_Branding.md)
+      - [Yoga Instructor Self Care](/01-Wisdom-Traditions/yoga/career-business/Yoga_Instructor_Self_Care.md)
+      - [Yoga Insurance Legal](/01-Wisdom-Traditions/yoga/career-business/Yoga_Insurance_Legal.md)
+      - [Yoga Meditation Cross Career](/01-Wisdom-Traditions/yoga/career-business/Yoga_Meditation_Cross_Career.md)
+    - **documentary**
+      - [Yoga Documentary Guide](/01-Wisdom-Traditions/yoga/documentary/Yoga_Documentary_Guide.md)
+    - **masters**
+      - [总览](/01-Wisdom-Traditions/yoga/masters/INDEX.md)
+      - **ancient**
+        - [Gorakhnath](/01-Wisdom-Traditions/yoga/masters/ancient/Gorakhnath.md)
+        - [Matsyendranath](/01-Wisdom-Traditions/yoga/masters/ancient/Matsyendranath.md)
+        - [Patanjali](/01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md)
+        - [Svatmarama](/01-Wisdom-Traditions/yoga/masters/ancient/Svatmarama.md)
+      - **contemporary**
+        - [BKS Iyengar](/01-Wisdom-Traditions/yoga/masters/contemporary/BKS_Iyengar.md)
+        - [Desikachar](/01-Wisdom-Traditions/yoga/masters/contemporary/Desikachar.md)
+        - [Indra Devi](/01-Wisdom-Traditions/yoga/masters/contemporary/Indra_Devi.md)
+        - [Pattabhi Jois](/01-Wisdom-Traditions/yoga/masters/contemporary/Pattabhi_Jois.md)
+        - [Swami Satchidananda](/01-Wisdom-Traditions/yoga/masters/contemporary/Swami_Satchidananda.md)
+        - [Yogi Bhajan](/01-Wisdom-Traditions/yoga/masters/contemporary/Yogi_Bhajan.md)
+      - **east-asian**
+        - [Masahiro Oki](/01-Wisdom-Traditions/yoga/masters/east-asian/Masahiro_Oki.md)
+        - [Wai Lana](/01-Wisdom-Traditions/yoga/masters/east-asian/Wai_Lana.md)
+        - [Yoga China Key Figures](/01-Wisdom-Traditions/yoga/masters/east-asian/Yoga_China_Key_Figures.md)
+      - **industry-leaders**
+        - [Adriene Mishler](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Adriene_Mishler.md)
+        - [Ana Forrest](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Ana_Forrest.md)
+        - [Baron Baptiste](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Baron_Baptiste.md)
+        - [Bikram Choudhury](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Bikram_Choudhury.md)
+        - [Judith Hanson Lasater](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Judith_Hanson_Lasater.md)
+        - [Rodney Yee](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Rodney_Yee.md)
+        - [Sharon Gannon David Life](/01-Wisdom-Traditions/yoga/masters/industry-leaders/Sharon_Gannon_David_Life.md)
+      - **modern-pioneers**
+        - [Krishnamacharya](/01-Wisdom-Traditions/yoga/masters/modern-pioneers/Krishnamacharya.md)
+        - [Kuvalyananda](/01-Wisdom-Traditions/yoga/masters/modern-pioneers/Kuvalyananda.md)
+        - [Sivananda](/01-Wisdom-Traditions/yoga/masters/modern-pioneers/Sivananda.md)
+        - [Sri Aurobindo](/01-Wisdom-Traditions/yoga/masters/modern-pioneers/Sri_Aurobindo.md)
+        - [Yogananda](/01-Wisdom-Traditions/yoga/masters/modern-pioneers/Yogananda.md)
+      - **pre-modern**
+        - [Ramakrishna](/01-Wisdom-Traditions/yoga/masters/pre-modern/Ramakrishna.md)
+        - [Vivekananda](/01-Wisdom-Traditions/yoga/masters/pre-modern/Vivekananda.md)
+    - **practitioner-training**
+      - [总览](/01-Wisdom-Traditions/yoga/practitioner-training/INDEX.md)
+      - [Yoga Assessment Progression](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Assessment_Progression.md)
+      - [Yoga Certification Comparison](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Certification_Comparison.md)
+      - [Yoga Continuing Education](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md)
+      - [Yoga Schools Training Centers](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Schools_Training_Centers.md)
+      - [Yoga Teaching Methodology](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Teaching_Methodology.md)
+      - [Yoga Training Overview](/01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Training_Overview.md)
+    - **safety**
+      - [总览](/01-Wisdom-Traditions/yoga/safety/INDEX.md)
+      - [Yoga Adverse Effects](/01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md)
+      - [Yoga Injury Prevention](/01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md)
     - **six-yogas-naropa**
       - [总览](/01-Wisdom-Traditions/yoga/six-yogas-naropa/INDEX.md)
       - [Six Yogas Naropa](/01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Naropa.md)
@@ -371,24 +503,43 @@
       - [总览](/02-Mind-Psychology/meditation/career-business/INDEX.md)
       - [Meditation Business Models](/02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md)
       - [Meditation Career Pathways](/02-Mind-Psychology/meditation/career-business/Meditation_Career_Pathways.md)
+      - [Meditation Centers Directory](/02-Mind-Psychology/meditation/career-business/Meditation_Centers_Directory.md)
+      - [Meditation Community Sangha](/02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md)
       - [Meditation Digital Industry](/02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md)
+      - [Meditation Instructor Self Care](/02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md)
+      - [Meditation Insurance Legal](/02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md)
     - **chinese-traditions**
       - [总览](/02-Mind-Psychology/meditation/chinese-traditions/INDEX.md)
       - [Chinese Localization Challenges](/02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md)
       - [Chinese Meditation Overview](/02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md)
       - [Chinese Sitting Practices](/02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md)
       - [Chinese TCM Meditation](/02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md)
-    - **direct_recognition**
-      - [总览](/02-Mind-Psychology/meditation/direct_recognition/INDEX.md)
-      - [Meditation Direct Indirect Recognition](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Indirect_Recognition.md)
-      - [Meditation Direct Recognition vs Mindfulness](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_vs_Mindfulness.md)
-      - [Meditation Direct Recognition Assessment Stages](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Assessment_Stages.md)
-      - [Meditation Direct Recognition Daily Integration](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Daily_Integration.md)
-      - [Meditation Direct Recognition Foundations](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Foundations.md)
-      - [Meditation Direct Recognition History Lineage](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_History_Lineage.md)
-      - [Meditation Direct Recognition Neuroscience](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Neuroscience.md)
-      - [Meditation Direct Recognition Pointing Out](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Pointing_Out.md)
-      - [Meditation Direct Recognition Traditions](/02-Mind-Psychology/meditation/direct_recognition/Meditation_Direct_Recognition_Traditions.md)
+    - **course**
+      - [C0-1-homework](/02-Mind-Psychology/meditation/course/C0-1-homework.md)
+      - [C0-1-seeds-of-intention-course](/02-Mind-Psychology/meditation/course/C0-1-seeds-of-intention-course.md)
+      - [C0-1-seeds-of-intention-notes](/02-Mind-Psychology/meditation/course/C0-1-seeds-of-intention-notes.md)
+      - [C0-1-seeds-of-intention-report](/02-Mind-Psychology/meditation/course/C0-1-seeds-of-intention-report.md)
+      - [C0-10-monetization-for-meditation-instructors](/02-Mind-Psychology/meditation/course/C0-10-monetization-for-meditation-instructors.md)
+      - [C0-2-meditation-history](/02-Mind-Psychology/meditation/course/C0-2-meditation-history.md)
+      - [C0-3-brain-science](/02-Mind-Psychology/meditation/course/C0-3-brain-science.md)
+      - [C0-4-science-of-breathing](/02-Mind-Psychology/meditation/course/C0-4-science-of-breathing.md)
+      - [C0-5-yoga-and-meditation](/02-Mind-Psychology/meditation/course/C0-5-yoga-and-meditation.md)
+      - [C0-6-energy-yoga](/02-Mind-Psychology/meditation/course/C0-6-energy-yoga.md)
+      - [C0-7-direct-awareness-meditation](/02-Mind-Psychology/meditation/course/C0-7-direct-awareness-meditation.md)
+      - [C0-9-family-meditation](/02-Mind-Psychology/meditation/course/C0-9-family-meditation.md)
+    - **direct-recognition**
+      - [总览](/02-Mind-Psychology/meditation/direct-recognition/INDEX.md)
+      - [Meditation Direct Indirect Recognition](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Indirect_Recognition.md)
+      - [Meditation Direct Recognition Assessment Stages](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Assessment_Stages.md)
+      - [Meditation Direct Recognition Daily Integration](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Daily_Integration.md)
+      - [Meditation Direct Recognition Foundations](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Foundations.md)
+      - [Meditation Direct Recognition History Lineage](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_History_Lineage.md)
+      - [Meditation Direct Recognition Neuroscience](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Neuroscience.md)
+      - [Meditation Direct Recognition Pointing Out](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Pointing_Out.md)
+      - [Meditation Direct Recognition Traditions](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md)
+      - [Meditation Direct Recognition vs Mindfulness](/02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_vs_Mindfulness.md)
+    - **documentary**
+      - [Meditation Documentary Guide](/02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md)
     - **guided-scripts**
       - [总览](/02-Mind-Psychology/meditation/guided-scripts/INDEX.md)
       - [Scripts Body Scan](/02-Mind-Psychology/meditation/guided-scripts/Scripts_Body_Scan.md)
@@ -403,6 +554,45 @@
       - [Mandala Meditation Techniques](/02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md)
       - [Mandala Meditation Traditions](/02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md)
       - [Mandala Psychological Painting](/02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md)
+    - **masters**
+      - [总览](/02-Mind-Psychology/meditation/masters/INDEX.md)
+      - **ancient-buddhist**
+        - [Bodhidharma](/02-Mind-Psychology/meditation/masters/ancient-buddhist/Bodhidharma.md)
+        - [Dogen](/02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md)
+        - [Huineng](/02-Mind-Psychology/meditation/masters/ancient-buddhist/Huineng.md)
+        - [Milarepa](/02-Mind-Psychology/meditation/masters/ancient-buddhist/Milarepa.md)
+        - [Zhiyi](/02-Mind-Psychology/meditation/masters/ancient-buddhist/Zhiyi.md)
+      - **chinese**
+        - [Jiang Weiqiao](/02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md)
+        - [Jing Hui](/02-Mind-Psychology/meditation/masters/chinese/Jing_Hui.md)
+        - [Sheng Yen](/02-Mind-Psychology/meditation/masters/chinese/Sheng_Yen.md)
+        - [Xuyun](/02-Mind-Psychology/meditation/masters/chinese/Xuyun.md)
+      - **contemporary-spiritual**
+        - [Adyashanti](/02-Mind-Psychology/meditation/masters/contemporary-spiritual/Adyashanti.md)
+        - [Eckhart Tolle](/02-Mind-Psychology/meditation/masters/contemporary-spiritual/Eckhart_Tolle.md)
+        - [Tara Brach](/02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md)
+        - [Thich Nhat Hanh](/02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md)
+      - **hindu-vedantic**
+        - [Maharishi Mahesh Yogi](/02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md)
+        - [Nisargadatta Maharaj](/02-Mind-Psychology/meditation/masters/hindu-vedantic/Nisargadatta_Maharaj.md)
+        - [Ramana Maharshi](/02-Mind-Psychology/meditation/masters/hindu-vedantic/Ramana_Maharshi.md)
+      - **industry-leaders**
+        - [Andy Puddicombe](/02-Mind-Psychology/meditation/masters/industry-leaders/Andy_Puddicombe.md)
+        - [Dan Harris](/02-Mind-Psychology/meditation/masters/industry-leaders/Dan_Harris.md)
+        - [Michael Tamez](/02-Mind-Psychology/meditation/masters/industry-leaders/Michael_Tamez.md)
+        - [Sam Harris](/02-Mind-Psychology/meditation/masters/industry-leaders/Sam_Harris.md)
+      - **tibetan**
+        - [Chogyam Trungpa](/02-Mind-Psychology/meditation/masters/tibetan/Chogyam_Trungpa.md)
+        - [Dalai Lama](/02-Mind-Psychology/meditation/masters/tibetan/Dalai_Lama.md)
+        - [Mingyur Rinpoche](/02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md)
+        - [Sogyal Rinpoche](/02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md)
+      - **western-pioneers**
+        - [Jack Kornfield](/02-Mind-Psychology/meditation/masters/western-pioneers/Jack_Kornfield.md)
+        - [Jon Kabat Zinn](/02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md)
+        - [Joseph Goldstein](/02-Mind-Psychology/meditation/masters/western-pioneers/Joseph_Goldstein.md)
+        - [Sharon Salzberg](/02-Mind-Psychology/meditation/masters/western-pioneers/Sharon_Salzberg.md)
+        - [Shinzen Young](/02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md)
+        - [SN Goenka](/02-Mind-Psychology/meditation/masters/western-pioneers/SN_Goenka.md)
     - **mbsr-program**
       - [总览](/02-Mind-Psychology/meditation/mbsr-program/INDEX.md)
       - [MBSR Assessment Tools](/02-Mind-Psychology/meditation/mbsr-program/MBSR_Assessment_Tools.md)
@@ -414,10 +604,13 @@
       - [Meditation Advanced](/02-Mind-Psychology/meditation/overview/Meditation_Advanced.md)
       - [Meditation And Sleep](/02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md)
       - [Meditation Applications](/02-Mind-Psychology/meditation/overview/Meditation_Applications.md)
+      - [Meditation Brain Science Foundations](/02-Mind-Psychology/meditation/overview/Meditation_Brain_Science_Foundations.md)
       - [Meditation Clinical Applications](/02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md)
       - [Meditation Core](/02-Mind-Psychology/meditation/overview/Meditation_Core.md)
       - [Meditation General](/02-Mind-Psychology/meditation/overview/Meditation_General.md)
+      - [Meditation Mind Management](/02-Mind-Psychology/meditation/overview/Meditation_Mind_Management.md)
       - [Meditation Neuroscience Mechanisms](/02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md)
+      - [Meditation Philosophical Foundations](/02-Mind-Psychology/meditation/overview/Meditation_Philosophical_Foundations.md)
       - [Meditation Practitioner QA](/02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md)
       - [Meditation Resources](/02-Mind-Psychology/meditation/overview/Meditation_Resources.md)
       - [Meditation Types Classification](/02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md)
@@ -452,451 +645,533 @@
       - [总览](/02-Mind-Psychology/meditation/vipassana/INDEX.md)
       - [Vipassana Meditation](/02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md)
   - **心理学 psychology**
-    - **_terminology_dictionary**
-      - [总览](/02-Mind-Psychology/psychology/_terminology_dictionary/INDEX.md)
-      - [Terminology Dictionary](/02-Mind-Psychology/psychology/_terminology_dictionary/Terminology_Dictionary.md)
-      - [Terminology Dictionary Guide](/02-Mind-Psychology/psychology/_terminology_dictionary/Terminology_Dictionary_Guide.md)
-    - **addiction**
-      - [总览](/02-Mind-Psychology/psychology/addiction/INDEX.md)
-      - [Addiction Behavioral](/02-Mind-Psychology/psychology/addiction/Addiction_Behavioral.md)
-      - [Addiction Caffeine Coffee](/02-Mind-Psychology/psychology/addiction/Addiction_Caffeine_Coffee.md)
-      - [Addiction Caffeine Prevention](/02-Mind-Psychology/psychology/addiction/Addiction_Caffeine_Prevention.md)
-      - [Addiction Overview](/02-Mind-Psychology/psychology/addiction/Addiction_Overview.md)
-      - [Addiction Pornography Compulsive Sexual Behavior](/02-Mind-Psychology/psychology/addiction/Addiction_Pornography_Compulsive_Sexual_Behavior.md)
-      - [Addiction Recovery](/02-Mind-Psychology/psychology/addiction/Addiction_Recovery.md)
-      - [Addiction Substance](/02-Mind-Psychology/psychology/addiction/Addiction_Substance.md)
-      - [Addiction Treatment](/02-Mind-Psychology/psychology/addiction/Addiction_Treatment.md)
-    - **adolescent**
-      - **adolescent-companionship**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-companionship/INDEX.md)
-        - [Adolescent Companionship Psychological Guidance](/02-Mind-Psychology/psychology/adolescent/adolescent-companionship/Adolescent_Companionship_Psychological_Guidance.md)
-        - [Adolescent Companionship Psychology Overview](/02-Mind-Psychology/psychology/adolescent/adolescent-companionship/Adolescent_Companionship_Psychology_Overview.md)
-      - **adolescent-crisis**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-crisis/INDEX.md)
-        - [Adolescent Crisis Intervention](/02-Mind-Psychology/psychology/adolescent/adolescent-crisis/Adolescent_Crisis_Intervention.md)
-      - **adolescent-psychology**
-        - **assessment-tools**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/assessment-tools/INDEX.md)
-          - [Adolescent Psychology Assessment Tools](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/assessment-tools/Adolescent_Psychology_Assessment_Tools.md)
-        - **clinical-intervention**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/clinical-intervention/INDEX.md)
-          - [Adolescent Clinical Intervention Guide](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md)
-        - **crisis-intervention**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/crisis-intervention/INDEX.md)
-          - [Adolescent Crisis Intervention Suicide Prevention](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md)
-        - **development-theory**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/development-theory/INDEX.md)
-          - [Adolescent Development Theory Brain](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/development-theory/Adolescent_Development_Theory_Brain.md)
-        - **emotional-regulation**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/emotional-regulation/INDEX.md)
-          - [Adolescent Emotional Regulation Mental Health](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md)
-        - **identity-formation**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/identity-formation/INDEX.md)
-          - [Adolescent Identity Self Concept](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/identity-formation/Adolescent_Identity_Self_Concept.md)
-        - **social-relationships**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/social-relationships/INDEX.md)
-          - [Adolescent Relationship Toolkit](/02-Mind-Psychology/psychology/adolescent/adolescent-psychology/social-relationships/Adolescent_Relationship_Toolkit.md)
-      - **child-adolescent**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent/INDEX.md)
-        - [Child Adolescent Clinical Intervention](/02-Mind-Psychology/psychology/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md)
-        - [Child Adolescent Development](/02-Mind-Psychology/psychology/adolescent/child-adolescent/Child_Adolescent_Development.md)
-      - **child-adolescent-sexuality**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/INDEX.md)
-        - [Child Adolescent Sexuality Education Overview](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/Child_Adolescent_Sexuality_Education_Overview.md)
+    - [总览](/02-Mind-Psychology/psychology/INDEX.md)
+    - **applied**
+      - [总览](/02-Mind-Psychology/psychology/applied/INDEX.md)
+      - **holiday-psychology**
+        - [总览](/02-Mind-Psychology/psychology/applied/holiday-psychology/INDEX.md)
+        - [Holiday Psychology Clinical Intervention](/02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md)
+      - **materialism-psychology**
+        - [总览](/02-Mind-Psychology/psychology/applied/materialism-psychology/INDEX.md)
+        - [Materialism Psychology Analysis](/02-Mind-Psychology/psychology/applied/materialism-psychology/Materialism_Psychology_Analysis.md)
+      - **vocational-psychology**
+        - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/INDEX.md)
+        - [Vocational Psychology Case Studies Guide](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Case_Studies_Guide.md)
+        - [Vocational Psychology Enhancement Summary](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Enhancement_Summary.md)
+        - [Vocational Psychology Evidence Based Practice Guide](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Evidence_Based_Practice_Guide.md)
+        - [Vocational Psychology Final Quality Review](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Final_Quality_Review.md)
+        - [Vocational Psychology Frontiers Trends](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Frontiers_Trends.md)
+        - [Vocational Psychology Overview](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Overview.md)
+        - [Vocational Psychology Quality Report](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Quality_Report.md)
+        - [Vocational Psychology Terminology Standards](/02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Terminology_Standards.md)
         - **assessment**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/assessment/INDEX.md)
-          - [Quality Assessment System](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md)
-          - [Standardized Assessment Toolkit](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/assessment/Standardized_Assessment_Toolkit.md)
-        - **curriculum**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/curriculum/INDEX.md)
-          - [Adolescent Sexuality Education 13 18](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/curriculum/Adolescent_Sexuality_Education_13_18.md)
-          - [Childhood Sexuality Education 5 12](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/curriculum/Childhood_Sexuality_Education_5_12.md)
-        - **digital-resources**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/digital-resources/INDEX.md)
-          - [AI Technology Applications](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/digital-resources/AI_Technology_Applications.md)
-          - [Digital Innovation Practices](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/digital-resources/Digital_Innovation_Practices.md)
-          - [International Best Practices Comparative Study](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/digital-resources/International_Best_Practices_Comparative_Study.md)
-        - **practice**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/practice/INDEX.md)
-          - [Educational Toolkit Practice Guide](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/practice/Educational_Toolkit_Practice_Guide.md)
-          - [Faculty Training Development System](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/practice/Faculty_Training_Development_System.md)
-        - **quality**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/quality/INDEX.md)
-          - [Quality Standards Consistency Check](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/quality/Quality_Standards_Consistency_Check.md)
-        - **special-populations**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/special-populations/INDEX.md)
-          - [Special Populations Support System](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/special-populations/Special_Populations_Support_System.md)
+          - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/INDEX.md)
+          - [Vocational Psychology Assessment Tools](/02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/Vocational_Psychology_Assessment_Tools.md)
+        - **clinical**
+          - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/INDEX.md)
+          - [Vocational Psychology Clinical Applications](/02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md)
+        - **research**
+          - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/research/INDEX.md)
+          - [Vocational Psychology Research Methods](/02-Mind-Psychology/psychology/applied/vocational-psychology/research/Vocational_Psychology_Research_Methods.md)
+        - **specialized**
+          - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/specialized/INDEX.md)
+          - [Vocational Psychology Specialized Areas](/02-Mind-Psychology/psychology/applied/vocational-psychology/specialized/Vocational_Psychology_Specialized_Areas.md)
         - **theory**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/theory/INDEX.md)
-          - [Curriculum Design Implementation Guide](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/theory/Curriculum_Design_Implementation_Guide.md)
-          - [Family Education Support System](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/theory/Family_Education_Support_System.md)
-          - [Frontier Theory Research Evidence](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/theory/Frontier_Theory_Research_Evidence.md)
-          - [Policy Law Ethics Framework](/02-Mind-Psychology/psychology/adolescent/child-adolescent-sexuality/theory/Policy_Law_Ethics_Framework.md)
-      - **child-development-assessment**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-assessment/INDEX.md)
-        - [Child Development Psychological Assessment](/02-Mind-Psychology/psychology/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md)
-      - **child-development-psychology**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/INDEX.md)
-        - [Child Development Quality Report](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/Child_Development_Quality_Report.md)
-        - **assessment-tools**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/assessment-tools/INDEX.md)
-          - [Child Development Assessment Tools](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/assessment-tools/Child_Development_Assessment_Tools.md)
-          - [Child Development Toolkit](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/assessment-tools/Child_Development_Toolkit.md)
-        - **clinical-intervention**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/clinical-intervention/INDEX.md)
-          - [Child Clinical Intervention Guide](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md)
-        - **cognitive-development**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/cognitive-development/INDEX.md)
-          - [Child Cognitive Development Learning Disorders](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/cognitive-development/Child_Cognitive_Development_Learning_Disorders.md)
-        - **research-methods**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/research-methods/INDEX.md)
-          - [Child Adolescent Research Methods Case Studies](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md)
-        - **social-emotional**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/social-emotional/INDEX.md)
-          - [Child Emotional Development Behavioral Intervention](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/social-emotional/Child_Emotional_Development_Behavioral_Intervention.md)
-          - [Child Social Development Peer Relationships](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/social-emotional/Child_Social_Development_Peer_Relationships.md)
-        - **theory**
-          - [总览](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/theory/INDEX.md)
-          - [Child Development Theory Framework](/02-Mind-Psychology/psychology/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md)
-      - **early-childhood-companionship**
-        - [总览](/02-Mind-Psychology/psychology/adolescent/early-childhood-companionship/INDEX.md)
-        - [Early Childhood Companionship Education Strategies](/02-Mind-Psychology/psychology/adolescent/early-childhood-companionship/Early_Childhood_Companionship_Education_Strategies.md)
-    - **anxiety**
-      - [总览](/02-Mind-Psychology/psychology/anxiety/INDEX.md)
-      - [Anxiety Disorder Overview](/02-Mind-Psychology/psychology/anxiety/Anxiety_Disorder_Overview.md)
-      - [Anxiety Disorder Treatment](/02-Mind-Psychology/psychology/anxiety/Anxiety_Disorder_Treatment.md)
-      - [Media Resources Overview](/02-Mind-Psychology/psychology/anxiety/Media_Resources_Overview.md)
-      - **gad**
-        - [总览](/02-Mind-Psychology/psychology/anxiety/gad/INDEX.md)
-        - [GAD Assessment](/02-Mind-Psychology/psychology/anxiety/gad/GAD_Assessment.md)
-        - [GAD Clinical Features](/02-Mind-Psychology/psychology/anxiety/gad/GAD_Clinical_Features.md)
-        - [GAD Cognitive Models](/02-Mind-Psychology/psychology/anxiety/gad/GAD_Cognitive_Models.md)
-        - [GAD Overview](/02-Mind-Psychology/psychology/anxiety/gad/GAD_Overview.md)
-        - [GAD Treatment](/02-Mind-Psychology/psychology/anxiety/gad/GAD_Treatment.md)
-    - **cfs**
-      - [总览](/02-Mind-Psychology/psychology/cfs/INDEX.md)
-      - [CFS Clinical Features](/02-Mind-Psychology/psychology/cfs/CFS_Clinical_Features.md)
-      - [CFS Clinical Management](/02-Mind-Psychology/psychology/cfs/CFS_Clinical_Management.md)
-      - [CFS Diagnosis Assessment](/02-Mind-Psychology/psychology/cfs/CFS_Diagnosis_Assessment.md)
-      - [CFS Etiology Mechanisms](/02-Mind-Psychology/psychology/cfs/CFS_Etiology_Mechanisms.md)
-      - [CFS Overview](/02-Mind-Psychology/psychology/cfs/CFS_Overview.md)
-      - [CFS Treatment](/02-Mind-Psychology/psychology/cfs/CFS_Treatment.md)
-    - **chronic-stress**
-      - [总览](/02-Mind-Psychology/psychology/chronic-stress/INDEX.md)
-      - [Chronic Stress Assessment](/02-Mind-Psychology/psychology/chronic-stress/Chronic_Stress_Assessment.md)
-      - [Chronic Stress Health Effects](/02-Mind-Psychology/psychology/chronic-stress/Chronic_Stress_Health_Effects.md)
-      - [Chronic Stress Interventions](/02-Mind-Psychology/psychology/chronic-stress/Chronic_Stress_Interventions.md)
-      - [Chronic Stress Mechanisms](/02-Mind-Psychology/psychology/chronic-stress/Chronic_Stress_Mechanisms.md)
-      - [Chronic Stress Overview](/02-Mind-Psychology/psychology/chronic-stress/Chronic_Stress_Overview.md)
-    - **containment-techniques**
-      - [总览](/02-Mind-Psychology/psychology/containment-techniques/INDEX.md)
-      - [Containment Techniques](/02-Mind-Psychology/psychology/containment-techniques/Containment_Techniques.md)
-    - **cortisol**
-      - [总览](/02-Mind-Psychology/psychology/cortisol/INDEX.md)
-      - [Cortisol Assessment](/02-Mind-Psychology/psychology/cortisol/Cortisol_Assessment.md)
-      - [Cortisol Mental Health](/02-Mind-Psychology/psychology/cortisol/Cortisol_Mental_Health.md)
-      - [Cortisol Neuroscience](/02-Mind-Psychology/psychology/cortisol/Cortisol_Neuroscience.md)
-      - [Cortisol Overview](/02-Mind-Psychology/psychology/cortisol/Cortisol_Overview.md)
-      - [Cortisol Regulation](/02-Mind-Psychology/psychology/cortisol/Cortisol_Regulation.md)
-    - **crisis-assessment**
-      - [总览](/02-Mind-Psychology/psychology/crisis-assessment/INDEX.md)
-      - [Crisis Assessment Tools](/02-Mind-Psychology/psychology/crisis-assessment/Crisis_Assessment_Tools.md)
-    - **crisis-postvention**
-      - [总览](/02-Mind-Psychology/psychology/crisis-postvention/INDEX.md)
-      - [Crisis Postvention](/02-Mind-Psychology/psychology/crisis-postvention/Crisis_Postvention.md)
-    - **depression**
-      - [总览](/02-Mind-Psychology/psychology/depression/INDEX.md)
-      - [Depression Overview](/02-Mind-Psychology/psychology/depression/Depression_Overview.md)
-      - [Depression Treatment](/02-Mind-Psychology/psychology/depression/Depression_Treatment.md)
-      - **seasonal-affective-disorder**
-        - [总览](/02-Mind-Psychology/psychology/depression/seasonal-affective-disorder/INDEX.md)
-        - [Seasonal Depression Intervention Strategies](/02-Mind-Psychology/psychology/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md)
-    - **digital-hoarding**
-      - [总览](/02-Mind-Psychology/psychology/digital-hoarding/INDEX.md)
-      - [Digital Hoarding Assessment Tools](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Assessment_Tools.md)
-      - [Digital Hoarding Comparison](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Comparison.md)
-      - [Digital Hoarding Differential Diagnosis](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Differential_Diagnosis.md)
-      - [Digital Hoarding Integrated Treatment](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Integrated_Treatment.md)
-      - [Digital Hoarding Neurobiology](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Neurobiology.md)
-      - [Digital Hoarding Overview](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Overview.md)
-      - [Digital Hoarding Research Evidence](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Research_Evidence.md)
-      - [Digital Hoarding Treatment](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Treatment.md)
-      - [Digital Hoarding Treatment Evidence](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Hoarding_Treatment_Evidence.md)
-      - [Digital Minimalism Decision](/02-Mind-Psychology/psychology/digital-hoarding/Digital_Minimalism_Decision.md)
-    - **disorder**
-      - **adhd**
-        - [总览](/02-Mind-Psychology/psychology/disorder/adhd/INDEX.md)
-        - [ADHD Overview](/02-Mind-Psychology/psychology/disorder/adhd/ADHD_Overview.md)
-        - [ADHD Self Assessment](/02-Mind-Psychology/psychology/disorder/adhd/ADHD_Self_Assessment.md)
-        - [ADHD Treatment Interventions](/02-Mind-Psychology/psychology/disorder/adhd/ADHD_Treatment_Interventions.md)
-      - **autism**
-        - [总览](/02-Mind-Psychology/psychology/disorder/autism/INDEX.md)
-        - [Autism Spectrum Disorder](/02-Mind-Psychology/psychology/disorder/autism/Autism_Spectrum_Disorder.md)
-      - **bipolar**
-        - [总览](/02-Mind-Psychology/psychology/disorder/bipolar/INDEX.md)
-        - [Bipolar Disorder Overview](/02-Mind-Psychology/psychology/disorder/bipolar/Bipolar_Disorder_Overview.md)
-        - [Bipolar Disorder Treatment](/02-Mind-Psychology/psychology/disorder/bipolar/Bipolar_Disorder_Treatment.md)
-        - [Bipolar Self Assessment](/02-Mind-Psychology/psychology/disorder/bipolar/Bipolar_Self_Assessment.md)
-    - **emotion**
-      - [总览](/02-Mind-Psychology/psychology/emotion/INDEX.md)
-      - [Emotion Cultural Wisdom](/02-Mind-Psychology/psychology/emotion/Emotion_Cultural_Wisdom.md)
-      - [Emotion DBT Skills](/02-Mind-Psychology/psychology/emotion/Emotion_DBT_Skills.md)
-      - [Emotion Focused Therapy](/02-Mind-Psychology/psychology/emotion/Emotion_Focused_Therapy.md)
-      - [Emotion Mindfulness Approaches](/02-Mind-Psychology/psychology/emotion/Emotion_Mindfulness_Approaches.md)
-      - [Emotion Neuroscience](/02-Mind-Psychology/psychology/emotion/Emotion_Neuroscience.md)
-      - [Emotion Regulation Methods](/02-Mind-Psychology/psychology/emotion/Emotion_Regulation_Methods.md)
-      - [Emotion Specific Interventions](/02-Mind-Psychology/psychology/emotion/Emotion_Specific_Interventions.md)
-      - [Emotion Therapy Overview](/02-Mind-Psychology/psychology/emotion/Emotion_Therapy_Overview.md)
-    - **emotional-abuse**
-      - [总览](/02-Mind-Psychology/psychology/emotional-abuse/INDEX.md)
-      - [Emotional Abuse Assessment Tools](/02-Mind-Psychology/psychology/emotional-abuse/Emotional_Abuse_Assessment_Tools.md)
-      - [Emotional Abuse Clinical Management](/02-Mind-Psychology/psychology/emotional-abuse/Emotional_Abuse_Clinical_Management.md)
-      - [Emotional Abuse Overview](/02-Mind-Psychology/psychology/emotional-abuse/Emotional_Abuse_Overview.md)
-      - [Emotional Abuse Prevention Strategies](/02-Mind-Psychology/psychology/emotional-abuse/Emotional_Abuse_Prevention_Strategies.md)
-      - [Emotional Abuse Treatment Methods](/02-Mind-Psychology/psychology/emotional-abuse/Emotional_Abuse_Treatment_Methods.md)
-    - **existential-vacuum**
-      - [总览](/02-Mind-Psychology/psychology/existential-vacuum/INDEX.md)
-      - [Existential Vacuum Psychological Intervention](/02-Mind-Psychology/psychology/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md)
-    - **family-constellation**
-      - [总览](/02-Mind-Psychology/psychology/family-constellation/INDEX.md)
-      - [Family Constellation Clinical](/02-Mind-Psychology/psychology/family-constellation/Family_Constellation_Clinical.md)
-      - [Family Constellation Laws](/02-Mind-Psychology/psychology/family-constellation/Family_Constellation_Laws.md)
-      - [Family Constellation Overview](/02-Mind-Psychology/psychology/family-constellation/Family_Constellation_Overview.md)
-      - [Family Constellation Techniques](/02-Mind-Psychology/psychology/family-constellation/Family_Constellation_Techniques.md)
-      - [Family Constellation Treatment Techniques](/02-Mind-Psychology/psychology/family-constellation/Family_Constellation_Treatment_Techniques.md)
-    - **framework**
-      - [总览](/02-Mind-Psychology/psychology/framework/INDEX.md)
-      - [Framework Authorities Lineage](/02-Mind-Psychology/psychology/framework/Framework_Authorities_Lineage.md)
-      - [Framework Benefits Risks](/02-Mind-Psychology/psychology/framework/Framework_Benefits_Risks.md)
-      - [Framework Cross Comparisons](/02-Mind-Psychology/psychology/framework/Framework_Cross_Comparisons.md)
-      - [Framework Industry Trends](/02-Mind-Psychology/psychology/framework/Framework_Industry_Trends.md)
-      - [Framework Integrated Methods](/02-Mind-Psychology/psychology/framework/Framework_Integrated_Methods.md)
-      - [Framework Interdisciplinary Logic](/02-Mind-Psychology/psychology/framework/Framework_Interdisciplinary_Logic.md)
-      - [Framework Tools Assessment](/02-Mind-Psychology/psychology/framework/Framework_Tools_Assessment.md)
-    - **friendship**
-      - [总览](/02-Mind-Psychology/psychology/friendship/INDEX.md)
-      - [Cross-cultural Friendship Research](/02-Mind-Psychology/psychology/friendship/Cross-cultural_Friendship_Research.md)
-      - [Cross Gender Friendship Psychology](/02-Mind-Psychology/psychology/friendship/Cross_Gender_Friendship_Psychology.md)
-      - [Friendship Intervention Therapy](/02-Mind-Psychology/psychology/friendship/Friendship_Intervention_Therapy.md)
-      - [Friendship Measurement Tools](/02-Mind-Psychology/psychology/friendship/Friendship_Measurement_Tools.md)
-      - [Friendship Neurobiology](/02-Mind-Psychology/psychology/friendship/Friendship_Neurobiology.md)
-      - [Same Gender Friendship Psychology](/02-Mind-Psychology/psychology/friendship/Same_Gender_Friendship_Psychology.md)
-    - **grief**
-      - [总览](/02-Mind-Psychology/psychology/grief/INDEX.md)
-      - [Grief Bereavement](/02-Mind-Psychology/psychology/grief/Grief_Bereavement.md)
-      - [Grief Cultural Spiritual](/02-Mind-Psychology/psychology/grief/Grief_Cultural_Spiritual.md)
-      - [Grief Intervention Techniques](/02-Mind-Psychology/psychology/grief/Grief_Intervention_Techniques.md)
-      - [Grief Lifespan Developmental](/02-Mind-Psychology/psychology/grief/Grief_Lifespan_Developmental.md)
-      - [Grief Special Loss Types](/02-Mind-Psychology/psychology/grief/Grief_Special_Loss_Types.md)
-    - **grounding-techniques**
-      - [总览](/02-Mind-Psychology/psychology/grounding-techniques/INDEX.md)
-      - [Grounding Techniques](/02-Mind-Psychology/psychology/grounding-techniques/Grounding_Techniques.md)
-    - **hoarding-disorder**
-      - [总览](/02-Mind-Psychology/psychology/hoarding-disorder/INDEX.md)
-      - [Hoarding Disorder Overview](/02-Mind-Psychology/psychology/hoarding-disorder/Hoarding_Disorder_Overview.md)
-      - [Hoarding Disorder Treatment](/02-Mind-Psychology/psychology/hoarding-disorder/Hoarding_Disorder_Treatment.md)
-    - **holiday-psychology**
-      - [总览](/02-Mind-Psychology/psychology/holiday-psychology/INDEX.md)
-      - [Holiday Psychology Clinical Intervention](/02-Mind-Psychology/psychology/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md)
-    - **home-organization**
-      - [总览](/02-Mind-Psychology/psychology/home-organization/INDEX.md)
-      - [Cleaning Products Guide](/02-Mind-Psychology/psychology/home-organization/Cleaning_Products_Guide.md)
-      - [Home Organization Overview](/02-Mind-Psychology/psychology/home-organization/Home_Organization_Overview.md)
-      - [Space Design Principles](/02-Mind-Psychology/psychology/home-organization/Space_Design_Principles.md)
-      - [Storage Tools Evaluation](/02-Mind-Psychology/psychology/home-organization/Storage_Tools_Evaluation.md)
-    - **insomnia**
-      - [总览](/02-Mind-Psychology/psychology/insomnia/INDEX.md)
-      - [Insomnia Clinical Diagnosis](/02-Mind-Psychology/psychology/insomnia/Insomnia_Clinical_Diagnosis.md)
-      - [Insomnia Low Sleep Motivation](/02-Mind-Psychology/psychology/insomnia/Insomnia_Low_Sleep_Motivation.md)
-      - [Insomnia Self Assessment](/02-Mind-Psychology/psychology/insomnia/Insomnia_Self_Assessment.md)
-      - [Insomnia Sleep Onset Difficulty](/02-Mind-Psychology/psychology/insomnia/Insomnia_Sleep_Onset_Difficulty.md)
-      - [Insomnia Treatment Methods](/02-Mind-Psychology/psychology/insomnia/Insomnia_Treatment_Methods.md)
-    - **loneliness**
-      - [总览](/02-Mind-Psychology/psychology/loneliness/INDEX.md)
-      - [Loneliness Clinical Manual](/02-Mind-Psychology/psychology/loneliness/Loneliness_Clinical_Manual.md)
-      - [Loneliness Marital](/02-Mind-Psychology/psychology/loneliness/Loneliness_Marital.md)
-      - [Loneliness Measurement Tools](/02-Mind-Psychology/psychology/loneliness/Loneliness_Measurement_Tools.md)
-      - [Loneliness Overview](/02-Mind-Psychology/psychology/loneliness/Loneliness_Overview.md)
-      - [Loneliness Prevention Evaluation](/02-Mind-Psychology/psychology/loneliness/Loneliness_Prevention_Evaluation.md)
-      - [Loneliness Relief Mitigation](/02-Mind-Psychology/psychology/loneliness/Loneliness_Relief_Mitigation.md)
-      - [Loneliness Research Framework](/02-Mind-Psychology/psychology/loneliness/Loneliness_Research_Framework.md)
-      - [Loneliness Social Psychology](/02-Mind-Psychology/psychology/loneliness/Loneliness_Social_Psychology.md)
-      - [Loneliness Sources Etiology](/02-Mind-Psychology/psychology/loneliness/Loneliness_Sources_Etiology.md)
-      - [Loneliness Terminology Standards](/02-Mind-Psychology/psychology/loneliness/Loneliness_Terminology_Standards.md)
-      - [Loneliness Treatment](/02-Mind-Psychology/psychology/loneliness/Loneliness_Treatment.md)
-    - **materialism-psychology**
-      - [总览](/02-Mind-Psychology/psychology/materialism-psychology/INDEX.md)
-      - [Materialism Psychology Analysis](/02-Mind-Psychology/psychology/materialism-psychology/Materialism_Psychology_Analysis.md)
-    - **menopause**
-      - [总览](/02-Mind-Psychology/psychology/menopause/INDEX.md)
-      - [Menopause Psychological Adjustment](/02-Mind-Psychology/psychology/menopause/Menopause_Psychological_Adjustment.md)
-    - **midlife-crisis**
-      - [总览](/02-Mind-Psychology/psychology/midlife-crisis/INDEX.md)
-      - [Midlife Crisis Assessment Tools](/02-Mind-Psychology/psychology/midlife-crisis/Midlife_Crisis_Assessment_Tools.md)
-      - [Midlife Crisis Clinical Intervention](/02-Mind-Psychology/psychology/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md)
-      - [Midlife Crisis Overview](/02-Mind-Psychology/psychology/midlife-crisis/Midlife_Crisis_Overview.md)
-    - **necrophilia**
-      - [总览](/02-Mind-Psychology/psychology/necrophilia/INDEX.md)
-      - [Necrophilia Clinical Diagnosis](/02-Mind-Psychology/psychology/necrophilia/Necrophilia_Clinical_Diagnosis.md)
-      - [Necrophilia Overview](/02-Mind-Psychology/psychology/necrophilia/Necrophilia_Overview.md)
-      - [Necrophilia Treatment System](/02-Mind-Psychology/psychology/necrophilia/Necrophilia_Treatment_System.md)
-    - **obsessive-compulsive**
-      - [总览](/02-Mind-Psychology/psychology/obsessive-compulsive/INDEX.md)
-      - [Obsessive Compulsive Cleaning Diagnosis](/02-Mind-Psychology/psychology/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Diagnosis.md)
-      - [Obsessive Compulsive Cleaning Treatment](/02-Mind-Psychology/psychology/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md)
-    - **overview**
-      - [总览](/02-Mind-Psychology/psychology/overview/INDEX.md)
-      - [Psychological Defense Mechanisms](/02-Mind-Psychology/psychology/overview/Psychological_Defense_Mechanisms.md)
-      - [Psychological Security](/02-Mind-Psychology/psychology/overview/Psychological_Security.md)
-      - [Psychology Applications](/02-Mind-Psychology/psychology/overview/Psychology_Applications.md)
-      - [Psychology Assessment Tools](/02-Mind-Psychology/psychology/overview/Psychology_Assessment_Tools.md)
-      - [Psychology Cognition](/02-Mind-Psychology/psychology/overview/Psychology_Cognition.md)
-      - [Psychology Development](/02-Mind-Psychology/psychology/overview/Psychology_Development.md)
-      - [Psychology Emotion](/02-Mind-Psychology/psychology/overview/Psychology_Emotion.md)
-      - [Psychology General Resources](/02-Mind-Psychology/psychology/overview/Psychology_General_Resources.md)
-      - [Psychology Positive Psychology](/02-Mind-Psychology/psychology/overview/Psychology_Positive_Psychology.md)
-      - [Psychology Psychopathology Atlas](/02-Mind-Psychology/psychology/overview/Psychology_Psychopathology_Atlas.md)
-      - [Psychology Schools Theories](/02-Mind-Psychology/psychology/overview/Psychology_Schools_Theories.md)
-      - [Psychology Self Help Protocols](/02-Mind-Psychology/psychology/overview/Psychology_Self_Help_Protocols.md)
-      - [Psychology Social](/02-Mind-Psychology/psychology/overview/Psychology_Social.md)
-      - [Psychology Theories Experiments](/02-Mind-Psychology/psychology/overview/Psychology_Theories_Experiments.md)
-      - [Psychology Therapy Techniques](/02-Mind-Psychology/psychology/overview/Psychology_Therapy_Techniques.md)
-    - **pet-psychology**
-      - [总览](/02-Mind-Psychology/psychology/pet-psychology/INDEX.md)
-      - [Pet Psychology Assessment Tools](/02-Mind-Psychology/psychology/pet-psychology/Pet_Psychology_Assessment_Tools.md)
-      - [Pet Psychology Clinical Intervention](/02-Mind-Psychology/psychology/pet-psychology/Pet_Psychology_Clinical_Intervention.md)
-      - [Pet Psychology Overview](/02-Mind-Psychology/psychology/pet-psychology/Pet_Psychology_Overview.md)
-    - **phobia**
-      - [总览](/02-Mind-Psychology/psychology/phobia/INDEX.md)
-      - [Phobia Overview](/02-Mind-Psychology/psychology/phobia/Phobia_Overview.md)
-      - [Phobia Social Agoraphobia](/02-Mind-Psychology/psychology/phobia/Phobia_Social_Agoraphobia.md)
-      - [Phobia Specific Types](/02-Mind-Psychology/psychology/phobia/Phobia_Specific_Types.md)
-      - [Phobia Treatment](/02-Mind-Psychology/psychology/phobia/Phobia_Treatment.md)
-    - **political-psychology**
-      - [总览](/02-Mind-Psychology/psychology/political-psychology/INDEX.md)
-      - [Political Psychology Overview](/02-Mind-Psychology/psychology/political-psychology/Political_Psychology_Overview.md)
-      - **behavior-voting**
-      - **clinical-applications**
-        - [总览](/02-Mind-Psychology/psychology/political-psychology/clinical-applications/INDEX.md)
-        - [Political Psychology Clinical Interventions](/02-Mind-Psychology/psychology/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md)
-      - **cognition-attitudes**
-      - **measurement-methods**
-        - [总览](/02-Mind-Psychology/psychology/political-psychology/measurement-methods/INDEX.md)
-        - [Political Psychology Measurement Research Methods](/02-Mind-Psychology/psychology/political-psychology/measurement-methods/Political_Psychology_Measurement_Research_Methods.md)
-      - **party-loyalty-psychology**
-        - [总览](/02-Mind-Psychology/psychology/political-psychology/party-loyalty-psychology/INDEX.md)
-        - [Party Loyalty Psychology Measurement Case Analysis](/02-Mind-Psychology/psychology/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Measurement_Case_Analysis.md)
-        - [Party Loyalty Psychology Overview](/02-Mind-Psychology/psychology/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Overview.md)
-        - [Party Loyalty Psychology Social Impact Intervention](/02-Mind-Psychology/psychology/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Social_Impact_Intervention.md)
-        - [Party Loyalty Psychology Theoretical Models](/02-Mind-Psychology/psychology/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Theoretical_Models.md)
-      - **theory-models**
-        - [总览](/02-Mind-Psychology/psychology/political-psychology/theory-models/INDEX.md)
-        - [Political Psychology Theories Models](/02-Mind-Psychology/psychology/political-psychology/theory-models/Political_Psychology_Theories_Models.md)
-    - **positive-psychology**
-      - [总览](/02-Mind-Psychology/psychology/positive-psychology/INDEX.md)
-      - [Positive Psychology Application Practice](/02-Mind-Psychology/psychology/positive-psychology/Positive_Psychology_Application_Practice.md)
-      - [Positive Psychology Overview](/02-Mind-Psychology/psychology/positive-psychology/Positive_Psychology_Overview.md)
-    - **relaxation**
-      - [总览](/02-Mind-Psychology/psychology/relaxation/INDEX.md)
-      - [Relaxation Applied Training](/02-Mind-Psychology/psychology/relaxation/Relaxation_Applied_Training.md)
-      - [Relaxation Autogenic Training](/02-Mind-Psychology/psychology/relaxation/Relaxation_Autogenic_Training.md)
-      - [Relaxation Breathing](/02-Mind-Psychology/psychology/relaxation/Relaxation_Breathing.md)
-      - [Relaxation Guided Imagery](/02-Mind-Psychology/psychology/relaxation/Relaxation_Guided_Imagery.md)
-      - [Relaxation Overview](/02-Mind-Psychology/psychology/relaxation/Relaxation_Overview.md)
-      - [Relaxation PMR](/02-Mind-Psychology/psychology/relaxation/Relaxation_PMR.md)
-    - **self-compassion**
-      - [总览](/02-Mind-Psychology/psychology/self-compassion/INDEX.md)
-      - [Self Compassion Self Care](/02-Mind-Psychology/psychology/self-compassion/Self_Compassion_Self_Care.md)
-    - **self-soothing**
-      - [总览](/02-Mind-Psychology/psychology/self-soothing/INDEX.md)
-      - [Self Soothing Techniques](/02-Mind-Psychology/psychology/self-soothing/Self_Soothing_Techniques.md)
-    - **sleep**
-      - [总览](/02-Mind-Psychology/psychology/sleep/INDEX.md)
-      - [Bio Sleep Dreams](/02-Mind-Psychology/psychology/sleep/Bio_Sleep_Dreams.md)
-      - [Bio Sleep Science](/02-Mind-Psychology/psychology/sleep/Bio_Sleep_Science.md)
-      - [Sleep Insomnia CBT](/02-Mind-Psychology/psychology/sleep/Sleep_Insomnia_CBT.md)
-      - [Sleep Insomnia Clinical](/02-Mind-Psychology/psychology/sleep/Sleep_Insomnia_Clinical.md)
-      - [Sleep Insomnia Interventions](/02-Mind-Psychology/psychology/sleep/Sleep_Insomnia_Interventions.md)
-      - [Sleep Insomnia Overview](/02-Mind-Psychology/psychology/sleep/Sleep_Insomnia_Overview.md)
-    - **somatic**
-      - [总览](/02-Mind-Psychology/psychology/somatic/INDEX.md)
-      - [Somatic Anxiety Autonomic Dysfunction](/02-Mind-Psychology/psychology/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md)
-      - [Somatic Anxiety Illness Anxiety](/02-Mind-Psychology/psychology/somatic/Somatic_Anxiety_Illness_Anxiety.md)
-      - [Somatic Anxiety Somatization](/02-Mind-Psychology/psychology/somatic/Somatic_Anxiety_Somatization.md)
-      - [Somatic Anxiety Treatment](/02-Mind-Psychology/psychology/somatic/Somatic_Anxiety_Treatment.md)
-      - [Somatic Experiencing](/02-Mind-Psychology/psychology/somatic/Somatic_Experiencing.md)
-      - [Somatic Experiencing Therapy](/02-Mind-Psychology/psychology/somatic/Somatic_Experiencing_Therapy.md)
-      - [Somatic Movement Functional](/02-Mind-Psychology/psychology/somatic/Somatic_Movement_Functional.md)
-      - [Somatic Movement Neuro](/02-Mind-Psychology/psychology/somatic/Somatic_Movement_Neuro.md)
-      - [Somatic Movement Oriental](/02-Mind-Psychology/psychology/somatic/Somatic_Movement_Oriental.md)
-      - [Somatic Movement Performance](/02-Mind-Psychology/psychology/somatic/Somatic_Movement_Performance.md)
-      - [Somatic Movement Trauma](/02-Mind-Psychology/psychology/somatic/Somatic_Movement_Trauma.md)
-      - [Somatic TCM Meridians](/02-Mind-Psychology/psychology/somatic/Somatic_TCM_Meridians.md)
-    - **suicide-intervention**
-      - [总览](/02-Mind-Psychology/psychology/suicide-intervention/INDEX.md)
-      - [Suicide Intervention](/02-Mind-Psychology/psychology/suicide-intervention/Suicide_Intervention.md)
-    - **tcm-psychology**
-      - [总览](/02-Mind-Psychology/psychology/tcm-psychology/INDEX.md)
-      - [TCM Psychology Overview](/02-Mind-Psychology/psychology/tcm-psychology/TCM_Psychology_Overview.md)
-      - [TCM Psychology Theory and Practice](/02-Mind-Psychology/psychology/tcm-psychology/TCM_Psychology_Theory_and_Practice.md)
-    - **trauma**
-      - [总览](/02-Mind-Psychology/psychology/trauma/INDEX.md)
-      - [PTSD Specialized Treatment](/02-Mind-Psychology/psychology/trauma/PTSD_Specialized_Treatment.md)
-      - [Trauma Treatment Overview](/02-Mind-Psychology/psychology/trauma/Trauma_Treatment_Overview.md)
-    - **vocational-psychology**
-      - [总览](/02-Mind-Psychology/psychology/vocational-psychology/INDEX.md)
-      - [Vocational Psychology Case Studies Guide](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Case_Studies_Guide.md)
-      - [Vocational Psychology Enhancement Summary](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Enhancement_Summary.md)
-      - [Vocational Psychology Evidence Based Practice Guide](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Evidence_Based_Practice_Guide.md)
-      - [Vocational Psychology Final Quality Review](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Final_Quality_Review.md)
-      - [Vocational Psychology Frontiers Trends](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Frontiers_Trends.md)
-      - [Vocational Psychology Overview](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Overview.md)
-      - [Vocational Psychology Quality Report](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Quality_Report.md)
-      - [Vocational Psychology Terminology Standards](/02-Mind-Psychology/psychology/vocational-psychology/Vocational_Psychology_Terminology_Standards.md)
-      - **assessment**
-        - [总览](/02-Mind-Psychology/psychology/vocational-psychology/assessment/INDEX.md)
-        - [Vocational Psychology Assessment Tools](/02-Mind-Psychology/psychology/vocational-psychology/assessment/Vocational_Psychology_Assessment_Tools.md)
-      - **clinical**
-        - [总览](/02-Mind-Psychology/psychology/vocational-psychology/clinical/INDEX.md)
-        - [Vocational Psychology Clinical Applications](/02-Mind-Psychology/psychology/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md)
-      - **research**
-        - [总览](/02-Mind-Psychology/psychology/vocational-psychology/research/INDEX.md)
-        - [Vocational Psychology Research Methods](/02-Mind-Psychology/psychology/vocational-psychology/research/Vocational_Psychology_Research_Methods.md)
-      - **specialized**
-        - [总览](/02-Mind-Psychology/psychology/vocational-psychology/specialized/INDEX.md)
-        - [Vocational Psychology Specialized Areas](/02-Mind-Psychology/psychology/vocational-psychology/specialized/Vocational_Psychology_Specialized_Areas.md)
-      - **theory**
-        - [总览](/02-Mind-Psychology/psychology/vocational-psychology/theory/INDEX.md)
-        - [Vocational Psychology Theory Framework](/02-Mind-Psychology/psychology/vocational-psychology/theory/Vocational_Psychology_Theory_Framework.md)
-    - **voyeurism-pornography-addiction**
-      - [总览](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/INDEX.md)
-      - [Legal Ethical Framework](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Legal_Ethical_Framework.md)
-      - [Pornography Addiction Clinical Applications](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Pornography_Addiction_Clinical_Applications.md)
-      - [Pornography Addiction Research Methods](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md)
-      - [Pornography Content Analysis](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Pornography_Content_Analysis.md)
-      - [Voyeurism Clinical Assessment](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Clinical_Assessment.md)
-      - [Voyeurism Neuroscience Biology](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Neuroscience_Biology.md)
-      - [Voyeurism Pornography Addiction Overview](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Overview.md)
-      - [Voyeurism Pornography Addiction Quality Report](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Quality_Report.md)
-      - [Voyeurism Pornography Formation Mechanisms](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Pornography_Formation_Mechanisms.md)
-      - [Voyeurism Pornography Treatment Interventions](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Pornography_Treatment_Interventions.md)
-      - [Voyeurism Subtypes Analysis](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/Voyeurism_Subtypes_Analysis.md)
-      - **erotic-literature**
-        - [总览](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/INDEX.md)
-        - [Cross Cultural Comparative Study](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Cross_Cultural_Comparative_Study.md)
-        - [Digital Technology Applications](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Digital_Technology_Applications.md)
-        - [Erotic Literature Addiction Overview](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Addiction_Overview.md)
-        - [Erotic Literature Clinical Assessment](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Clinical_Assessment.md)
-        - [Erotic Literature Formation Mechanisms](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Formation_Mechanisms.md)
-        - [Erotic Literature Neuroscience Biology](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Neuroscience_Biology.md)
-        - [Erotic Literature Prevention Education](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Prevention_Education.md)
-        - [Erotic Literature Research Methods](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md)
-        - [Erotic Literature Treatment Interventions](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Treatment_Interventions.md)
-        - [Practical Toolkit](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Practical_Toolkit.md)
-        - [Quality Assessment Report](/02-Mind-Psychology/psychology/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md)
-    - **workplace-psychological-crisis**
-      - [总览](/02-Mind-Psychology/psychology/workplace-psychological-crisis/INDEX.md)
-      - [Workplace Psychological Crisis Intervention](/02-Mind-Psychology/psychology/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
+          - [总览](/02-Mind-Psychology/psychology/applied/vocational-psychology/theory/INDEX.md)
+          - [Vocational Psychology Theory Framework](/02-Mind-Psychology/psychology/applied/vocational-psychology/theory/Vocational_Psychology_Theory_Framework.md)
+      - **workplace-psychological-crisis**
+        - [总览](/02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/INDEX.md)
+        - [Workplace Psychological Crisis Intervention](/02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
+    - **behavioral**
+      - [总览](/02-Mind-Psychology/psychology/behavioral/INDEX.md)
+      - **addiction**
+        - [总览](/02-Mind-Psychology/psychology/behavioral/addiction/INDEX.md)
+        - [Addiction Behavioral](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md)
+        - [Addiction Caffeine Coffee](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Coffee.md)
+        - [Addiction Caffeine Prevention](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Prevention.md)
+        - [Addiction Overview](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md)
+        - [Addiction Pornography Compulsive Sexual Behavior](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Pornography_Compulsive_Sexual_Behavior.md)
+        - [Addiction Recovery](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md)
+        - [Addiction Substance](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Substance.md)
+        - [Addiction Treatment](/02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Treatment.md)
+      - **digital-hoarding**
+        - [总览](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/INDEX.md)
+        - [Digital Hoarding Assessment Tools](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Assessment_Tools.md)
+        - [Digital Hoarding Comparison](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Comparison.md)
+        - [Digital Hoarding Differential Diagnosis](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Differential_Diagnosis.md)
+        - [Digital Hoarding Integrated Treatment](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Integrated_Treatment.md)
+        - [Digital Hoarding Neurobiology](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Neurobiology.md)
+        - [Digital Hoarding Overview](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Overview.md)
+        - [Digital Hoarding Research Evidence](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Research_Evidence.md)
+        - [Digital Hoarding Treatment](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment.md)
+        - [Digital Hoarding Treatment Evidence](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment_Evidence.md)
+        - [Digital Minimalism Decision](/02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Minimalism_Decision.md)
+      - **hoarding-disorder**
+        - [总览](/02-Mind-Psychology/psychology/behavioral/hoarding-disorder/INDEX.md)
+        - [Hoarding Disorder Overview](/02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Overview.md)
+        - [Hoarding Disorder Treatment](/02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md)
+      - **necrophilia**
+        - [总览](/02-Mind-Psychology/psychology/behavioral/necrophilia/INDEX.md)
+        - [Necrophilia Clinical Diagnosis](/02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Clinical_Diagnosis.md)
+        - [Necrophilia Overview](/02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md)
+        - [Necrophilia Treatment System](/02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md)
+      - **voyeurism-pornography-addiction**
+        - [总览](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/INDEX.md)
+        - [Legal Ethical Framework](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Legal_Ethical_Framework.md)
+        - [Pornography Addiction Clinical Applications](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Clinical_Applications.md)
+        - [Pornography Addiction Research Methods](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md)
+        - [Pornography Content Analysis](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Content_Analysis.md)
+        - [Voyeurism Clinical Assessment](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Clinical_Assessment.md)
+        - [Voyeurism Neuroscience Biology](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Neuroscience_Biology.md)
+        - [Voyeurism Pornography Addiction Overview](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Overview.md)
+        - [Voyeurism Pornography Addiction Quality Report](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Quality_Report.md)
+        - [Voyeurism Pornography Formation Mechanisms](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Formation_Mechanisms.md)
+        - [Voyeurism Pornography Treatment Interventions](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Treatment_Interventions.md)
+        - [Voyeurism Subtypes Analysis](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Subtypes_Analysis.md)
+        - **erotic-literature**
+          - [总览](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/INDEX.md)
+          - [Cross Cultural Comparative Study](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Cross_Cultural_Comparative_Study.md)
+          - [Digital Technology Applications](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Digital_Technology_Applications.md)
+          - [Erotic Literature Addiction Overview](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Addiction_Overview.md)
+          - [Erotic Literature Clinical Assessment](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Clinical_Assessment.md)
+          - [Erotic Literature Formation Mechanisms](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Formation_Mechanisms.md)
+          - [Erotic Literature Neuroscience Biology](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Neuroscience_Biology.md)
+          - [Erotic Literature Prevention Education](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Prevention_Education.md)
+          - [Erotic Literature Research Methods](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md)
+          - [Erotic Literature Treatment Interventions](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Treatment_Interventions.md)
+          - [Practical Toolkit](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Practical_Toolkit.md)
+          - [Quality Assessment Report](/02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md)
+    - **clinical**
+      - [总览](/02-Mind-Psychology/psychology/clinical/INDEX.md)
+      - **anxiety**
+        - [总览](/02-Mind-Psychology/psychology/clinical/anxiety/INDEX.md)
+        - [Anxiety Disorder Overview](/02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md)
+        - [Anxiety Disorder Treatment](/02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Treatment.md)
+        - [Media Resources Overview](/02-Mind-Psychology/psychology/clinical/anxiety/Media_Resources_Overview.md)
+        - **gad**
+          - [总览](/02-Mind-Psychology/psychology/clinical/anxiety/gad/INDEX.md)
+          - [GAD Assessment](/02-Mind-Psychology/psychology/clinical/anxiety/gad/GAD_Assessment.md)
+          - [GAD Clinical Features](/02-Mind-Psychology/psychology/clinical/anxiety/gad/GAD_Clinical_Features.md)
+          - [GAD Cognitive Models](/02-Mind-Psychology/psychology/clinical/anxiety/gad/GAD_Cognitive_Models.md)
+          - [GAD Overview](/02-Mind-Psychology/psychology/clinical/anxiety/gad/GAD_Overview.md)
+          - [GAD Treatment](/02-Mind-Psychology/psychology/clinical/anxiety/gad/GAD_Treatment.md)
+      - **crisis-assessment**
+        - [总览](/02-Mind-Psychology/psychology/clinical/crisis-assessment/INDEX.md)
+        - [Crisis Assessment Tools](/02-Mind-Psychology/psychology/clinical/crisis-assessment/Crisis_Assessment_Tools.md)
+      - **crisis-postvention**
+        - [总览](/02-Mind-Psychology/psychology/clinical/crisis-postvention/INDEX.md)
+        - [Crisis Postvention](/02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md)
+      - **depression**
+        - [总览](/02-Mind-Psychology/psychology/clinical/depression/INDEX.md)
+        - [Depression Overview](/02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md)
+        - [Depression Treatment](/02-Mind-Psychology/psychology/clinical/depression/Depression_Treatment.md)
+        - **seasonal-affective-disorder**
+          - [总览](/02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/INDEX.md)
+          - [Seasonal Depression Intervention Strategies](/02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md)
+      - **disorder**
+        - [Severe Mental Illness Overview](/02-Mind-Psychology/psychology/clinical/disorder/Severe_Mental_Illness_Overview.md)
+        - **adhd**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/adhd/INDEX.md)
+          - [ADHD Overview](/02-Mind-Psychology/psychology/clinical/disorder/adhd/ADHD_Overview.md)
+          - [ADHD Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/adhd/ADHD_Self_Assessment.md)
+          - [ADHD Treatment Interventions](/02-Mind-Psychology/psychology/clinical/disorder/adhd/ADHD_Treatment_Interventions.md)
+        - **autism**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/autism/INDEX.md)
+          - [Autism Spectrum Disorder](/02-Mind-Psychology/psychology/clinical/disorder/autism/Autism_Spectrum_Disorder.md)
+        - **bipolar**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/bipolar/INDEX.md)
+          - [Bipolar Disorder Overview](/02-Mind-Psychology/psychology/clinical/disorder/bipolar/Bipolar_Disorder_Overview.md)
+          - [Bipolar Disorder Treatment](/02-Mind-Psychology/psychology/clinical/disorder/bipolar/Bipolar_Disorder_Treatment.md)
+          - [Bipolar Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/bipolar/Bipolar_Self_Assessment.md)
+        - **delusional-disorder**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/delusional-disorder/INDEX.md)
+          - [Delusional Disorder Overview](/02-Mind-Psychology/psychology/clinical/disorder/delusional-disorder/Delusional_Disorder_Overview.md)
+          - [Delusional Disorder Treatment](/02-Mind-Psychology/psychology/clinical/disorder/delusional-disorder/Delusional_Disorder_Treatment.md)
+          - [Delusional Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/delusional-disorder/Delusional_Self_Assessment.md)
+        - **epileptic-psychosis**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/epileptic-psychosis/INDEX.md)
+          - [Epileptic Psychosis Overview](/02-Mind-Psychology/psychology/clinical/disorder/epileptic-psychosis/Epileptic_Psychosis_Overview.md)
+          - [Epileptic Psychosis Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/epileptic-psychosis/Epileptic_Psychosis_Self_Assessment.md)
+          - [Epileptic Psychosis Treatment](/02-Mind-Psychology/psychology/clinical/disorder/epileptic-psychosis/Epileptic_Psychosis_Treatment.md)
+        - **intellectual-disability-psychosis**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/intellectual-disability-psychosis/INDEX.md)
+          - [Intellectual Disability Psychosis Overview](/02-Mind-Psychology/psychology/clinical/disorder/intellectual-disability-psychosis/Intellectual_Disability_Psychosis_Overview.md)
+          - [Intellectual Disability Psychosis Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/intellectual-disability-psychosis/Intellectual_Disability_Psychosis_Self_Assessment.md)
+          - [Intellectual Disability Psychosis Treatment](/02-Mind-Psychology/psychology/clinical/disorder/intellectual-disability-psychosis/Intellectual_Disability_Psychosis_Treatment.md)
+        - **schizoaffective**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/schizoaffective/INDEX.md)
+          - [Schizoaffective Disorder Overview](/02-Mind-Psychology/psychology/clinical/disorder/schizoaffective/Schizoaffective_Disorder_Overview.md)
+          - [Schizoaffective Disorder Treatment](/02-Mind-Psychology/psychology/clinical/disorder/schizoaffective/Schizoaffective_Disorder_Treatment.md)
+          - [Schizoaffective Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/schizoaffective/Schizoaffective_Self_Assessment.md)
+        - **schizophrenia**
+          - [总览](/02-Mind-Psychology/psychology/clinical/disorder/schizophrenia/INDEX.md)
+          - [Schizophrenia Overview](/02-Mind-Psychology/psychology/clinical/disorder/schizophrenia/Schizophrenia_Overview.md)
+          - [Schizophrenia Self Assessment](/02-Mind-Psychology/psychology/clinical/disorder/schizophrenia/Schizophrenia_Self_Assessment.md)
+          - [Schizophrenia Treatment](/02-Mind-Psychology/psychology/clinical/disorder/schizophrenia/Schizophrenia_Treatment.md)
+      - **obsessive-compulsive**
+        - [总览](/02-Mind-Psychology/psychology/clinical/obsessive-compulsive/INDEX.md)
+        - [Obsessive Compulsive Cleaning Diagnosis](/02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Diagnosis.md)
+        - [Obsessive Compulsive Cleaning Treatment](/02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md)
+      - **phobia**
+        - [总览](/02-Mind-Psychology/psychology/clinical/phobia/INDEX.md)
+        - [Phobia Overview](/02-Mind-Psychology/psychology/clinical/phobia/Phobia_Overview.md)
+        - [Phobia Social Agoraphobia](/02-Mind-Psychology/psychology/clinical/phobia/Phobia_Social_Agoraphobia.md)
+        - [Phobia Specific Types](/02-Mind-Psychology/psychology/clinical/phobia/Phobia_Specific_Types.md)
+        - [Phobia Treatment](/02-Mind-Psychology/psychology/clinical/phobia/Phobia_Treatment.md)
+      - **suicide-intervention**
+        - [总览](/02-Mind-Psychology/psychology/clinical/suicide-intervention/INDEX.md)
+        - [Suicide Intervention](/02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md)
+      - **trauma**
+        - [总览](/02-Mind-Psychology/psychology/clinical/trauma/INDEX.md)
+        - [PTSD Specialized Treatment](/02-Mind-Psychology/psychology/clinical/trauma/PTSD_Specialized_Treatment.md)
+        - [Trauma Treatment Overview](/02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md)
+    - **developmental**
+      - [总览](/02-Mind-Psychology/psychology/developmental/INDEX.md)
+      - **adolescent**
+        - **adolescent-companionship**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-companionship/INDEX.md)
+          - [Adolescent Companionship Psychological Guidance](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-companionship/Adolescent_Companionship_Psychological_Guidance.md)
+          - [Adolescent Companionship Psychology Overview](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-companionship/Adolescent_Companionship_Psychology_Overview.md)
+        - **adolescent-crisis**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-crisis/INDEX.md)
+          - [Adolescent Crisis Intervention](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-crisis/Adolescent_Crisis_Intervention.md)
+        - **adolescent-psychology**
+          - **assessment-tools**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/assessment-tools/INDEX.md)
+            - [Adolescent Psychology Assessment Tools](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/assessment-tools/Adolescent_Psychology_Assessment_Tools.md)
+          - **clinical-intervention**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/INDEX.md)
+            - [Adolescent Clinical Intervention Guide](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md)
+          - **crisis-intervention**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/INDEX.md)
+            - [Adolescent Crisis Intervention Suicide Prevention](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md)
+          - **development-theory**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/development-theory/INDEX.md)
+            - [Adolescent Development Theory Brain](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/development-theory/Adolescent_Development_Theory_Brain.md)
+          - **emotional-regulation**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/INDEX.md)
+            - [Adolescent Emotional Regulation Mental Health](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md)
+          - **identity-formation**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/identity-formation/INDEX.md)
+            - [Adolescent Identity Self Concept](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/identity-formation/Adolescent_Identity_Self_Concept.md)
+          - **social-relationships**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/social-relationships/INDEX.md)
+            - [Adolescent Relationship Toolkit](/02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/social-relationships/Adolescent_Relationship_Toolkit.md)
+        - **child-adolescent**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/INDEX.md)
+          - [Child Adolescent Clinical Intervention](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md)
+          - [Child Adolescent Development](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md)
+        - **child-adolescent-sexuality**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/INDEX.md)
+          - [Child Adolescent Sexuality Education Overview](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/Child_Adolescent_Sexuality_Education_Overview.md)
+          - **assessment**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/INDEX.md)
+            - [Quality Assessment System](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md)
+            - [Standardized Assessment Toolkit](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Standardized_Assessment_Toolkit.md)
+          - **curriculum**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/curriculum/INDEX.md)
+            - [Adolescent Sexuality Education 13 18](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/curriculum/Adolescent_Sexuality_Education_13_18.md)
+            - [Childhood Sexuality Education 5 12](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/curriculum/Childhood_Sexuality_Education_5_12.md)
+          - **digital-resources**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/digital-resources/INDEX.md)
+            - [AI Technology Applications](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/digital-resources/AI_Technology_Applications.md)
+            - [Digital Innovation Practices](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/digital-resources/Digital_Innovation_Practices.md)
+            - [International Best Practices Comparative Study](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/digital-resources/International_Best_Practices_Comparative_Study.md)
+          - **practice**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/INDEX.md)
+            - [Educational Toolkit Practice Guide](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/Educational_Toolkit_Practice_Guide.md)
+            - [Faculty Training Development System](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/Faculty_Training_Development_System.md)
+          - **quality**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/quality/INDEX.md)
+            - [Quality Standards Consistency Check](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/quality/Quality_Standards_Consistency_Check.md)
+          - **special-populations**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/special-populations/INDEX.md)
+            - [Special Populations Support System](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/special-populations/Special_Populations_Support_System.md)
+          - **theory**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/INDEX.md)
+            - [Curriculum Design Implementation Guide](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Curriculum_Design_Implementation_Guide.md)
+            - [Family Education Support System](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Family_Education_Support_System.md)
+            - [Frontier Theory Research Evidence](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Frontier_Theory_Research_Evidence.md)
+            - [Policy Law Ethics Framework](/02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Policy_Law_Ethics_Framework.md)
+        - **child-development-assessment**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/INDEX.md)
+          - [Child Development Psychological Assessment](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md)
+        - **child-development-psychology**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/INDEX.md)
+          - [Child Development Quality Report](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/Child_Development_Quality_Report.md)
+          - **assessment-tools**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/assessment-tools/INDEX.md)
+            - [Child Development Assessment Tools](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/assessment-tools/Child_Development_Assessment_Tools.md)
+            - [Child Development Toolkit](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/assessment-tools/Child_Development_Toolkit.md)
+          - **clinical-intervention**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/INDEX.md)
+            - [Child Clinical Intervention Guide](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md)
+          - **cognitive-development**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/cognitive-development/INDEX.md)
+            - [Child Cognitive Development Learning Disorders](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/cognitive-development/Child_Cognitive_Development_Learning_Disorders.md)
+          - **research-methods**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/INDEX.md)
+            - [Child Adolescent Research Methods Case Studies](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md)
+          - **social-emotional**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/social-emotional/INDEX.md)
+            - [Child Emotional Development Behavioral Intervention](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/social-emotional/Child_Emotional_Development_Behavioral_Intervention.md)
+            - [Child Social Development Peer Relationships](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/social-emotional/Child_Social_Development_Peer_Relationships.md)
+          - **theory**
+            - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/INDEX.md)
+            - [Child Development Theory Framework](/02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md)
+        - **early-childhood-companionship**
+          - [总览](/02-Mind-Psychology/psychology/developmental/adolescent/early-childhood-companionship/INDEX.md)
+          - [Early Childhood Companionship Education Strategies](/02-Mind-Psychology/psychology/developmental/adolescent/early-childhood-companionship/Early_Childhood_Companionship_Education_Strategies.md)
+      - **menopause**
+        - [总览](/02-Mind-Psychology/psychology/developmental/menopause/INDEX.md)
+        - [Menopause Psychological Adjustment](/02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md)
+      - **midlife-crisis**
+        - [总览](/02-Mind-Psychology/psychology/developmental/midlife-crisis/INDEX.md)
+        - [Midlife Crisis Assessment Tools](/02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Assessment_Tools.md)
+        - [Midlife Crisis Clinical Intervention](/02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md)
+        - [Midlife Crisis Overview](/02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md)
+    - **foundations**
+      - [总览](/02-Mind-Psychology/psychology/foundations/INDEX.md)
+      - **framework**
+        - [总览](/02-Mind-Psychology/psychology/foundations/framework/INDEX.md)
+        - [Framework Authorities Lineage](/02-Mind-Psychology/psychology/foundations/framework/Framework_Authorities_Lineage.md)
+        - [Framework Benefits Risks](/02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md)
+        - [Framework Cross Comparisons](/02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md)
+        - [Framework Industry Trends](/02-Mind-Psychology/psychology/foundations/framework/Framework_Industry_Trends.md)
+        - [Framework Integrated Methods](/02-Mind-Psychology/psychology/foundations/framework/Framework_Integrated_Methods.md)
+        - [Framework Interdisciplinary Logic](/02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md)
+        - [Framework Tools Assessment](/02-Mind-Psychology/psychology/foundations/framework/Framework_Tools_Assessment.md)
+      - **overview**
+        - [总览](/02-Mind-Psychology/psychology/foundations/overview/INDEX.md)
+        - [Psychological Defense Mechanisms](/02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md)
+        - [Psychological Security](/02-Mind-Psychology/psychology/foundations/overview/Psychological_Security.md)
+        - [Psychology Applications](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Applications.md)
+        - [Psychology Assessment Tools](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Assessment_Tools.md)
+        - [Psychology Cognition](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md)
+        - [Psychology Development](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md)
+        - [Psychology Emotion](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md)
+        - [Psychology General Resources](/02-Mind-Psychology/psychology/foundations/overview/Psychology_General_Resources.md)
+        - [Psychology Positive Psychology](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md)
+        - [Psychology Psychopathology Atlas](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md)
+        - [Psychology Schools Theories](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md)
+        - [Psychology Self Help Protocols](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md)
+        - [Psychology Social](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md)
+        - [Psychology Theories Experiments](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Theories_Experiments.md)
+        - [Psychology Therapy Techniques](/02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md)
+      - **positive-psychology**
+        - [总览](/02-Mind-Psychology/psychology/foundations/positive-psychology/INDEX.md)
+        - [Positive Psychology Application Practice](/02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Application_Practice.md)
+        - [Positive Psychology Overview](/02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Overview.md)
+      - **terminology-dictionary**
+        - [总览](/02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md)
+        - [Terminology Dictionary](/02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md)
+        - [Terminology Dictionary Guide](/02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary_Guide.md)
+    - **self-regulation**
+      - [总览](/02-Mind-Psychology/psychology/self-regulation/INDEX.md)
+      - **containment-techniques**
+        - [总览](/02-Mind-Psychology/psychology/self-regulation/containment-techniques/INDEX.md)
+        - [Containment Techniques](/02-Mind-Psychology/psychology/self-regulation/containment-techniques/Containment_Techniques.md)
+      - **grounding-techniques**
+        - [总览](/02-Mind-Psychology/psychology/self-regulation/grounding-techniques/INDEX.md)
+        - [Grounding Techniques](/02-Mind-Psychology/psychology/self-regulation/grounding-techniques/Grounding_Techniques.md)
+      - **self-compassion**
+        - [总览](/02-Mind-Psychology/psychology/self-regulation/self-compassion/INDEX.md)
+        - [Self Compassion Self Care](/02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md)
+      - **self-confidence**
+        - [总览](/02-Mind-Psychology/psychology/self-regulation/self-confidence/INDEX.md)
+        - [Self Confidence Building Practice](/02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Building_Practice.md)
+        - [Self Confidence Development Damage](/02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Development_Damage.md)
+        - [Self Confidence Overview](/02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Overview.md)
+        - [Self Confidence Special Topics](/02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Special_Topics.md)
+      - **self-soothing**
+        - [总览](/02-Mind-Psychology/psychology/self-regulation/self-soothing/INDEX.md)
+        - [Self Soothing Techniques](/02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md)
+    - **social**
+      - [总览](/02-Mind-Psychology/psychology/social/INDEX.md)
+      - **emotional-abuse**
+        - [总览](/02-Mind-Psychology/psychology/social/emotional-abuse/INDEX.md)
+        - [Emotional Abuse Assessment Tools](/02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Assessment_Tools.md)
+        - [Emotional Abuse Clinical Management](/02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md)
+        - [Emotional Abuse Overview](/02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Overview.md)
+        - [Emotional Abuse Prevention Strategies](/02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Prevention_Strategies.md)
+        - [Emotional Abuse Treatment Methods](/02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md)
+      - **friendship**
+        - [总览](/02-Mind-Psychology/psychology/social/friendship/INDEX.md)
+        - [Cross-cultural Friendship Research](/02-Mind-Psychology/psychology/social/friendship/Cross-cultural_Friendship_Research.md)
+        - [Cross Gender Friendship Psychology](/02-Mind-Psychology/psychology/social/friendship/Cross_Gender_Friendship_Psychology.md)
+        - [Friendship Intervention Therapy](/02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md)
+        - [Friendship Measurement Tools](/02-Mind-Psychology/psychology/social/friendship/Friendship_Measurement_Tools.md)
+        - [Friendship Neurobiology](/02-Mind-Psychology/psychology/social/friendship/Friendship_Neurobiology.md)
+        - [Same Gender Friendship Psychology](/02-Mind-Psychology/psychology/social/friendship/Same_Gender_Friendship_Psychology.md)
+      - **hatred**
+        - [总览](/02-Mind-Psychology/psychology/social/hatred/INDEX.md)
+        - [Hatred Clinical Assessment](/02-Mind-Psychology/psychology/social/hatred/Hatred_Clinical_Assessment.md)
+        - [Hatred Cultural Historical](/02-Mind-Psychology/psychology/social/hatred/Hatred_Cultural_Historical.md)
+        - [Hatred Etiology Mechanisms](/02-Mind-Psychology/psychology/social/hatred/Hatred_Etiology_Mechanisms.md)
+        - [Hatred Intervention Techniques](/02-Mind-Psychology/psychology/social/hatred/Hatred_Intervention_Techniques.md)
+        - [Hatred Overview](/02-Mind-Psychology/psychology/social/hatred/Hatred_Overview.md)
+        - [Hatred Social Political](/02-Mind-Psychology/psychology/social/hatred/Hatred_Social_Political.md)
+        - [Hatred Theoretical Framework](/02-Mind-Psychology/psychology/social/hatred/Hatred_Theoretical_Framework.md)
+      - **loneliness**
+        - [总览](/02-Mind-Psychology/psychology/social/loneliness/INDEX.md)
+        - [Loneliness Clinical Manual](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Clinical_Manual.md)
+        - [Loneliness Marital](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Marital.md)
+        - [Loneliness Measurement Tools](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Measurement_Tools.md)
+        - [Loneliness Overview](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md)
+        - [Loneliness Prevention Evaluation](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Prevention_Evaluation.md)
+        - [Loneliness Relief Mitigation](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Relief_Mitigation.md)
+        - [Loneliness Research Framework](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Research_Framework.md)
+        - [Loneliness Social Psychology](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Social_Psychology.md)
+        - [Loneliness Sources Etiology](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Sources_Etiology.md)
+        - [Loneliness Terminology Standards](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Terminology_Standards.md)
+        - [Loneliness Treatment](/02-Mind-Psychology/psychology/social/loneliness/Loneliness_Treatment.md)
+      - **pet-psychology**
+        - [总览](/02-Mind-Psychology/psychology/social/pet-psychology/INDEX.md)
+        - [Pet Psychology Assessment Tools](/02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Assessment_Tools.md)
+        - [Pet Psychology Clinical Intervention](/02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md)
+        - [Pet Psychology Overview](/02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md)
+      - **political-psychology**
+        - [总览](/02-Mind-Psychology/psychology/social/political-psychology/INDEX.md)
+        - [Political Psychology Overview](/02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md)
+        - **behavior-voting**
+        - **clinical-applications**
+          - [总览](/02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/INDEX.md)
+          - [Political Psychology Clinical Interventions](/02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md)
+        - **cognition-attitudes**
+        - **measurement-methods**
+          - [总览](/02-Mind-Psychology/psychology/social/political-psychology/measurement-methods/INDEX.md)
+          - [Political Psychology Measurement Research Methods](/02-Mind-Psychology/psychology/social/political-psychology/measurement-methods/Political_Psychology_Measurement_Research_Methods.md)
+        - **party-loyalty-psychology**
+          - [总览](/02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/INDEX.md)
+          - [Party Loyalty Psychology Measurement Case Analysis](/02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Measurement_Case_Analysis.md)
+          - [Party Loyalty Psychology Overview](/02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Overview.md)
+          - [Party Loyalty Psychology Social Impact Intervention](/02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Social_Impact_Intervention.md)
+          - [Party Loyalty Psychology Theoretical Models](/02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Theoretical_Models.md)
+        - **theory-models**
+          - [总览](/02-Mind-Psychology/psychology/social/political-psychology/theory-models/INDEX.md)
+          - [Political Psychology Theories Models](/02-Mind-Psychology/psychology/social/political-psychology/theory-models/Political_Psychology_Theories_Models.md)
+      - **rural-psychology**
+        - [总览](/02-Mind-Psychology/psychology/social/rural-psychology/INDEX.md)
+        - [Rural Cultural Psychology](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Cultural_Psychology.md)
+        - [Rural Left Behind Psychology](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Left_Behind_Psychology.md)
+        - [Rural Mental Health Epidemiology](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Mental_Health_Epidemiology.md)
+        - [Rural Mental Health Service](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Mental_Health_Service.md)
+        - [Rural Psychological Stressors](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Psychological_Stressors.md)
+        - [Rural Psychology Overview](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Psychology_Overview.md)
+        - [Rural Suicide Prevention](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Suicide_Prevention.md)
+        - [Rural Urbanization Psychology](/02-Mind-Psychology/psychology/social/rural-psychology/Rural_Urbanization_Psychology.md)
+    - **somatic-body**
+      - [总览](/02-Mind-Psychology/psychology/somatic-body/INDEX.md)
+      - **emotion**
+        - [总览](/02-Mind-Psychology/psychology/somatic-body/emotion/INDEX.md)
+        - [Emotion Cultural Wisdom](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Cultural_Wisdom.md)
+        - [Emotion DBT Skills](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_DBT_Skills.md)
+        - [Emotion Focused Therapy](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Focused_Therapy.md)
+        - [Emotion Mindfulness Approaches](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Mindfulness_Approaches.md)
+        - [Emotion Neuroscience](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md)
+        - [Emotion Regulation Methods](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Regulation_Methods.md)
+        - [Emotion Specific Interventions](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Specific_Interventions.md)
+        - [Emotion Therapy Overview](/02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Therapy_Overview.md)
+      - **insomnia**
+        - [总览](/02-Mind-Psychology/psychology/somatic-body/insomnia/INDEX.md)
+        - [Insomnia Clinical Diagnosis](/02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Clinical_Diagnosis.md)
+        - [Insomnia Low Sleep Motivation](/02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Low_Sleep_Motivation.md)
+        - [Insomnia Self Assessment](/02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Self_Assessment.md)
+        - [Insomnia Sleep Onset Difficulty](/02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Sleep_Onset_Difficulty.md)
+        - [Insomnia Treatment Methods](/02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md)
+      - **relaxation**
+        - [总览](/02-Mind-Psychology/psychology/somatic-body/relaxation/INDEX.md)
+        - [Relaxation Applied Training](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Applied_Training.md)
+        - [Relaxation Autogenic Training](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md)
+        - [Relaxation Breathing](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Breathing.md)
+        - [Relaxation Guided Imagery](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Guided_Imagery.md)
+        - [Relaxation Overview](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md)
+        - [Relaxation PMR](/02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_PMR.md)
+      - **sleep**
+        - [总览](/02-Mind-Psychology/psychology/somatic-body/sleep/INDEX.md)
+        - [Bio Sleep Dreams](/02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Dreams.md)
+        - [Bio Sleep Science](/02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md)
+        - [Sleep Insomnia CBT](/02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_CBT.md)
+        - [Sleep Insomnia Clinical](/02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Clinical.md)
+        - [Sleep Insomnia Interventions](/02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Interventions.md)
+        - [Sleep Insomnia Overview](/02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Overview.md)
+      - **somatic**
+        - [总览](/02-Mind-Psychology/psychology/somatic-body/somatic/INDEX.md)
+        - [Somatic Anxiety Autonomic Dysfunction](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md)
+        - [Somatic Anxiety Illness Anxiety](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Illness_Anxiety.md)
+        - [Somatic Anxiety Somatization](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Somatization.md)
+        - [Somatic Anxiety Treatment](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md)
+        - [Somatic Experiencing](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing.md)
+        - [Somatic Experiencing Therapy](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md)
+        - [Somatic Movement Functional](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md)
+        - [Somatic Movement Neuro](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Neuro.md)
+        - [Somatic Movement Oriental](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md)
+        - [Somatic Movement Performance](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md)
+        - [Somatic Movement Trauma](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md)
+        - [Somatic TCM Meridians](/02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_TCM_Meridians.md)
+    - **special-topics**
+      - [总览](/02-Mind-Psychology/psychology/special-topics/INDEX.md)
+      - **existential-vacuum**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/existential-vacuum/INDEX.md)
+        - [Existential Vacuum Psychological Intervention](/02-Mind-Psychology/psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md)
+      - **family-constellation**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/family-constellation/INDEX.md)
+        - [Family Constellation Clinical](/02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Clinical.md)
+        - [Family Constellation Laws](/02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Laws.md)
+        - [Family Constellation Overview](/02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Overview.md)
+        - [Family Constellation Techniques](/02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Techniques.md)
+        - [Family Constellation Treatment Techniques](/02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Treatment_Techniques.md)
+      - **grief**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/grief/INDEX.md)
+        - [Grief Bereavement](/02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md)
+        - [Grief Cultural Spiritual](/02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md)
+        - [Grief Intervention Techniques](/02-Mind-Psychology/psychology/special-topics/grief/Grief_Intervention_Techniques.md)
+        - [Grief Lifespan Developmental](/02-Mind-Psychology/psychology/special-topics/grief/Grief_Lifespan_Developmental.md)
+        - [Grief Special Loss Types](/02-Mind-Psychology/psychology/special-topics/grief/Grief_Special_Loss_Types.md)
+      - **home-organization**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/home-organization/INDEX.md)
+        - [Cleaning Products Guide](/02-Mind-Psychology/psychology/special-topics/home-organization/Cleaning_Products_Guide.md)
+        - [Home Organization Overview](/02-Mind-Psychology/psychology/special-topics/home-organization/Home_Organization_Overview.md)
+        - [Space Design Principles](/02-Mind-Psychology/psychology/special-topics/home-organization/Space_Design_Principles.md)
+        - [Storage Tools Evaluation](/02-Mind-Psychology/psychology/special-topics/home-organization/Storage_Tools_Evaluation.md)
+      - **parent-dependent-male**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/parent-dependent-male/INDEX.md)
+        - [Parent Dependent Male Analysis](/02-Mind-Psychology/psychology/special-topics/parent-dependent-male/Parent_Dependent_Male_Analysis.md)
+      - **poverty-suffering**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/INDEX.md)
+        - [Poverty Cognitive Behavioral Impact](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/Poverty_Cognitive_Behavioral_Impact.md)
+        - [Poverty Mental Health Impact](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/Poverty_Mental_Health_Impact.md)
+        - [Poverty Suffering Intervention](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/Poverty_Suffering_Intervention.md)
+        - [Poverty Suffering Overview](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/Poverty_Suffering_Overview.md)
+        - [Suffering Meaning Transformation](/02-Mind-Psychology/psychology/special-topics/poverty-suffering/Suffering_Meaning_Transformation.md)
+      - **tcm-psychology**
+        - [总览](/02-Mind-Psychology/psychology/special-topics/tcm-psychology/INDEX.md)
+        - [TCM Psychology Overview](/02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Overview.md)
+        - [TCM Psychology Theory and Practice](/02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md)
+    - **stress-hpa**
+      - [总览](/02-Mind-Psychology/psychology/stress-hpa/INDEX.md)
+      - **cfs**
+        - [总览](/02-Mind-Psychology/psychology/stress-hpa/cfs/INDEX.md)
+        - [CFS Clinical Features](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Features.md)
+        - [CFS Clinical Management](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md)
+        - [CFS Diagnosis Assessment](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Diagnosis_Assessment.md)
+        - [CFS Etiology Mechanisms](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Etiology_Mechanisms.md)
+        - [CFS Overview](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Overview.md)
+        - [CFS Treatment](/02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md)
+      - **chronic-stress**
+        - [总览](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/INDEX.md)
+        - [Chronic Stress Assessment](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Assessment.md)
+        - [Chronic Stress Health Effects](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md)
+        - [Chronic Stress Interventions](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Interventions.md)
+        - [Chronic Stress Mechanisms](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Mechanisms.md)
+        - [Chronic Stress Overview](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Overview.md)
+      - **cortisol**
+        - [总览](/02-Mind-Psychology/psychology/stress-hpa/cortisol/INDEX.md)
+        - [Cortisol Assessment](/02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Assessment.md)
+        - [Cortisol Mental Health](/02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Mental_Health.md)
+        - [Cortisol Neuroscience](/02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Neuroscience.md)
+        - [Cortisol Overview](/02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Overview.md)
+        - [Cortisol Regulation](/02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md)
   - **人际关系 relationships**
     - [总览](/02-Mind-Psychology/relationships/INDEX.md)
     - [Relationships Overview](/02-Mind-Psychology/relationships/Relationships_Overview.md)
@@ -942,7 +1217,13 @@
       - [Relationship Impact Comparison](/02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Comparison.md)
     - **infidelity**
       - [总览](/02-Mind-Psychology/relationships/infidelity/INDEX.md)
+      - [Betrayed Partner Trauma](/02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md)
+      - [Digital Infidelity](/02-Mind-Psychology/relationships/infidelity/Digital_Infidelity.md)
+      - [Infidelity Marriage Repair](/02-Mind-Psychology/relationships/infidelity/Infidelity_Marriage_Repair.md)
+      - [Infidelity Prevention Assessment](/02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md)
       - [Infidelity Psychology](/02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology.md)
+      - [Infidelity Types Causes](/02-Mind-Psychology/relationships/infidelity/Infidelity_Types_Causes.md)
+      - [Unfaithful Partner Growth](/02-Mind-Psychology/relationships/infidelity/Unfaithful_Partner_Growth.md)
     - **legal-ethics**
       - [总览](/02-Mind-Psychology/relationships/legal-ethics/INDEX.md)
       - [Legal Ethical Considerations](/02-Mind-Psychology/relationships/legal-ethics/Legal_Ethical_Considerations.md)
@@ -957,25 +1238,41 @@
       - [Love Psychology Overview](/02-Mind-Psychology/relationships/love/Love_Psychology_Overview.md)
     - **marriage**
       - [总览](/02-Mind-Psychology/relationships/marriage/INDEX.md)
+      - [Marriage Anger Management](/02-Mind-Psychology/relationships/marriage/Marriage_Anger_Management.md)
       - [Marriage Assessment Diagnosis](/02-Mind-Psychology/relationships/marriage/Marriage_Assessment_Diagnosis.md)
       - [Marriage Communication](/02-Mind-Psychology/relationships/marriage/Marriage_Communication.md)
+      - [Marriage Conflict Neuroscience](/02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Neuroscience.md)
       - [Marriage Conflict Resolution](/02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md)
       - [Marriage Couple Relationship](/02-Mind-Psychology/relationships/marriage/Marriage_Couple_Relationship.md)
       - [Marriage Crisis Intervention](/02-Mind-Psychology/relationships/marriage/Marriage_Crisis_Intervention.md)
       - [Marriage Cultural Perspectives](/02-Mind-Psychology/relationships/marriage/Marriage_Cultural_Perspectives.md)
       - [Marriage Daily Practices](/02-Mind-Psychology/relationships/marriage/Marriage_Daily_Practices.md)
+      - [Marriage Financial Conflict](/02-Mind-Psychology/relationships/marriage/Marriage_Financial_Conflict.md)
+      - [Marriage Forgiveness Repair](/02-Mind-Psychology/relationships/marriage/Marriage_Forgiveness_Repair.md)
       - [Marriage Infidelity Betrayal](/02-Mind-Psychology/relationships/marriage/Marriage_Infidelity_Betrayal.md)
+      - [Marriage InLaw Family Conflict](/02-Mind-Psychology/relationships/marriage/Marriage_InLaw_Family_Conflict.md)
       - [Marriage Intimacy Sexuality](/02-Mind-Psychology/relationships/marriage/Marriage_Intimacy_Sexuality.md)
       - [Marriage Knowledge Network](/02-Mind-Psychology/relationships/marriage/Marriage_Knowledge_Network.md)
       - [Marriage Long Term Maintenance](/02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md)
+      - [Marriage Mental Health Comorbidity](/02-Mind-Psychology/relationships/marriage/Marriage_Mental_Health_Comorbidity.md)
+      - [Marriage Mindfulness Conflict](/02-Mind-Psychology/relationships/marriage/Marriage_Mindfulness_Conflict.md)
       - [Marriage Overview](/02-Mind-Psychology/relationships/marriage/Marriage_Overview.md)
+      - [Marriage Parenting Conflict](/02-Mind-Psychology/relationships/marriage/Marriage_Parenting_Conflict.md)
+      - [Marriage Passive Aggression](/02-Mind-Psychology/relationships/marriage/Marriage_Passive_Aggression.md)
+      - [Marriage Power Control](/02-Mind-Psychology/relationships/marriage/Marriage_Power_Control.md)
       - [Marriage Prevention Preparation](/02-Mind-Psychology/relationships/marriage/Marriage_Prevention_Preparation.md)
       - [Marriage Psychology](/02-Mind-Psychology/relationships/marriage/Marriage_Psychology.md)
       - [Marriage Resources](/02-Mind-Psychology/relationships/marriage/Marriage_Resources.md)
+      - [Marriage Silent Treatment](/02-Mind-Psychology/relationships/marriage/Marriage_Silent_Treatment.md)
       - [Marriage Special Populations](/02-Mind-Psychology/relationships/marriage/Marriage_Special_Populations.md)
       - [Marriage Therapy Methods](/02-Mind-Psychology/relationships/marriage/Marriage_Therapy_Methods.md)
       - **divorce-psychology**
         - [总览](/02-Mind-Psychology/relationships/marriage/divorce-psychology/INDEX.md)
+        - [Divorce Children Support Intervention](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Children_Support_Intervention.md)
+        - [Divorce Coparenting Communication](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Coparenting_Communication.md)
+        - [Divorce Decision Psychology](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Decision_Psychology.md)
+        - [Divorce Family Rebuilding](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Family_Rebuilding.md)
+        - [Divorce Impact Children Development](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Impact_Children_Development.md)
         - [Divorce Psychology Assessment Tools](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Assessment_Tools.md)
         - [Divorce Psychology Clinical Intervention](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md)
         - [Divorce Psychology Overview](/02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Overview.md)
@@ -1145,9 +1442,6 @@
       - [Bio Breathwork Pranayama](/03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md)
     - **energy-restoration**
       - [Energy Restoration Overview](/03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
-    - **eye-floaters**
-      - [总览](/03-Bio-Science/biology/eye-floaters/INDEX.md)
-      - [Eye Floaters Psychological Adaptation](/03-Bio-Science/biology/eye-floaters/Eye_Floaters_Psychological_Adaptation.md)
     - **floaters**
       - [总览](/03-Bio-Science/biology/floaters/INDEX.md)
       - [Bio Floaters Clinical Management](/03-Bio-Science/biology/floaters/Bio_Floaters_Clinical_Management.md)
@@ -1156,6 +1450,7 @@
       - [Bio Floaters Prevention Wellness](/03-Bio-Science/biology/floaters/Bio_Floaters_Prevention_Wellness.md)
       - [Bio Floaters Research Frontiers](/03-Bio-Science/biology/floaters/Bio_Floaters_Research_Frontiers.md)
       - [Bio Floaters Toolkit](/03-Bio-Science/biology/floaters/Bio_Floaters_Toolkit.md)
+      - [Eye Floaters Psychological Adaptation](/03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md)
       - [FLOATERS CERTIFICATION REPORT](/03-Bio-Science/biology/floaters/FLOATERS_CERTIFICATION_REPORT.md)
       - [FLOATERS QUALITY REPORT](/03-Bio-Science/biology/floaters/FLOATERS_QUALITY_REPORT.md)
     - **hpa-axis**
@@ -1552,6 +1847,10 @@
     - [Expanded Literary Therapy Guide](/04-Humanities-Arts/literature/Expanded_Literary_Therapy_Guide.md)
     - [Expanded Literary Therapy Guide Extended](/04-Humanities-Arts/literature/Expanded_Literary_Therapy_Guide_Extended.md)
     - **authors**
+      - [总览](/04-Humanities-Arts/literature/authors/INDEX.md)
+      - **american-modern**
+        - [总览](/04-Humanities-Arts/literature/authors/american-modern/INDEX.md)
+        - [carson-mccullers](/04-Humanities-Arts/literature/authors/american-modern/carson-mccullers.md)
       - **medieval**
         - [总览](/04-Humanities-Arts/literature/authors/medieval/INDEX.md)
         - [Dante](/04-Humanities-Arts/literature/authors/medieval/Dante.md)
@@ -1612,6 +1911,91 @@
         - **authors**
           - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/authors/INDEX.md)
           - [Mo Yan Complete Profile](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/authors/Mo_Yan_Complete_Profile.md)
+        - **betrayal**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/betrayal/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/betrayal/Book_Review.md)
+          - [Dark Redemption](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/betrayal/Dark_Redemption.md)
+          - [Rule Seer Trap](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/betrayal/Rule_Seer_Trap.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/betrayal/Thought_Analysis.md)
+        - **border-town**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Book_Review.md)
+          - [Innocence Tragedy](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Innocence_Tragedy.md)
+          - [Pastoral Utopia](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Pastoral_Utopia.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Thought_Analysis.md)
+        - **chronicle-of-a-blood-merchant**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/chronicle-of-a-blood-merchant/INDEX.md)
+          - [Absurd Dignity](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/chronicle-of-a-blood-merchant/Absurd_Dignity.md)
+          - [Body As Capital](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/chronicle-of-a-blood-merchant/Body_As_Capital.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/chronicle-of-a-blood-merchant/Book_Review.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/chronicle-of-a-blood-merchant/Thought_Analysis.md)
+        - **fortress-besieged**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Book_Review.md)
+          - [Intellectual Satire](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Intellectual_Satire.md)
+          - [Marriage Disillusion](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Marriage_Disillusion.md)
+          - [Siege Mentality](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Thought_Analysis.md)
+        - **life-lu-yao**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/Book_Review.md)
+          - [Crossroads Choice](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/Crossroads_Choice.md)
+          - [Moral Cost](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/Moral_Cost.md)
+          - [Rural Youth Dilemma](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/Rural_Youth_Dilemma.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/life-lu-yao/Thought_Analysis.md)
+        - **red-sorghum**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Book_Review.md)
+          - [Narrative Revolution](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Narrative_Revolution.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Thought_Analysis.md)
+          - [Vitality Wildness](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Vitality_Wildness.md)
+          - [War Humanity](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/War_Humanity.md)
+        - **slow-boat-to-china**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Book_Review.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Thought_Analysis.md)
+        - **the-bonesetters-daughter**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Book_Review.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md)
+        - **the-distant-savior**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Book_Review.md)
+          - [Salvation Self Redemption](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Salvation_Self_Redemption.md)
+          - [Strong Weak Culture](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Strong_Weak_Culture.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Thought_Analysis.md)
+          - [Zen Business Philosophy](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md)
+        - **the-heavenly-game**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Book_Review.md)
+          - [Man vs Heaven](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Man_vs_Heaven.md)
+        - **the-last-quarter-of-the-moon**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Book_Review.md)
+          - [Civilization Vanishing](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Civilization_Vanishing.md)
+          - [Nature Spirit](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Nature_Spirit.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Thought_Analysis.md)
+        - **the-ordinary-world**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/Book_Review.md)
+          - [Character Fate Philosophy](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/Character_Fate_Philosophy.md)
+          - [Rural Urban Duality](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/Rural_Urban_Duality.md)
+          - [Social Class Mobility](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/Social_Class_Mobility.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-ordinary-world/Thought_Analysis.md)
+        - **to-live**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Book_Review.md)
+          - [Historical Fate](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Historical_Fate.md)
+          - [Loss Endurance](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Loss_Endurance.md)
+          - [Survival Philosophy](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Survival_Philosophy.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md)
+        - **white-deer-plain**
+          - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/INDEX.md)
+          - [Book Review](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Book_Review.md)
+          - [Clan Power Structure](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Clan_Power_Structure.md)
+          - [Female Fate](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Female_Fate.md)
+          - [Revolution Tradition](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Revolution_Tradition.md)
+          - [Thought Analysis](/04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Thought_Analysis.md)
       - **near-modern**
         - [总览](/04-Humanities-Arts/literature/modern-chinese-literature/near-modern/INDEX.md)
         - [Near Modern Literature Overview](/04-Humanities-Arts/literature/modern-chinese-literature/near-modern/Near_Modern_Literature_Overview.md)

@@ -3,7 +3,7 @@
 > 📘 **文档导航**: 本专题文档深入探讨恋护士癖的专业内容。相关主题请参考：
 > - [恋物癖概览](../Paraphilia_Overview.md) - 基础概念和整体框架
 > - [医疗制服恋物](Medical_Uniform_Fetishism.md) - 相关但独立的恋物类型
-> - [关怀心理学](../../compassion-focused-therapy/Compassion_Focused_Therapy.md) - 心理机制相关专题
+> - [关怀心理学](../../../../02-Mind-Psychology/therapy/compassion-focused-therapy/Compassion_Focused_Therapy.md) - 心理机制相关专题
 > - [恋物癖临床评估](../Paraphilia_Clinical_Assessment.md) - 专业评估方法
 > - [恋物癖治疗实践](../Paraphilia_Treatment_Interventions.md) - 临床干预策略
 > - [质量报告](../Paraphilia_Quality_Report.md) - 体系质量评估详情

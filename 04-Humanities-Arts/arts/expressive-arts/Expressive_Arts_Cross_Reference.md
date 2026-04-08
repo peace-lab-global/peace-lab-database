@@ -9,17 +9,17 @@
 ## 🔗 核心文档导航 (Core Document Navigation)
 
 ### OH卡疗法核心文档 (OH Cards Therapy Core Documents)
-- [OH_Cards_Therapy_Overview.md](../oh-cards-therapy/OH_Cards_Therapy_Overview.md) - OH卡疗法概览与核心框架
-- [OH_Cards_Terminology_Concepts.md](../oh-cards-therapy/OH_Cards_Terminology_Concepts.md) - 核心术语与概念体系
-- [OH_Cards_Clinical_Applications.md](../oh-cards-therapy/OH_Cards_Clinical_Applications.md) - 临床应用详解
-- [OH_Cards_Techniques_Methods.md](../oh-cards-therapy/OH_Cards_Techniques_Methods.md) - 技巧方法详解
-- [OH_Cards_Research_Evidence.md](../oh-cards-therapy/OH_Cards_Research_Evidence.md) - 研究证据与循证实践
+- [OH_Cards_Therapy_Overview.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Therapy_Overview.md) - OH卡疗法概览与核心框架
+- [OH_Cards_Terminology_Concepts.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Terminology_Concepts.md) - 核心术语与概念体系
+- [OH_Cards_Clinical_Applications.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Clinical_Applications.md) - 临床应用详解
+- [OH_Cards_Techniques_Methods.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Techniques_Methods.md) - 技巧方法详解
+- [OH_Cards_Research_Evidence.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Research_Evidence.md) - 研究证据与循证实践
 
 ### 绘画疗法核心文档 (Art Therapy Core Documents)
-- [Art_Therapy_Overview.md](../art-therapy/Art_Therapy_Overview.md) - 绘画疗法概览与理论根基
-- [Art_Therapy_Terminology_Theory.md](../art-therapy/Art_Therapy_Terminology_Theory.md) - 核心术语与理论体系
-- [Art_Therapy_Clinical_Integration.md](../art-therapy/Art_Therapy_Clinical_Integration.md) - 临床整合应用
-- [Art_Therapy_Techniques_Media.md](../art-therapy/Art_Therapy_Techniques_Media.md) - 技法与媒材详解
+- [Art_Therapy_Overview.md](../arts-therapy/Art_Therapy_Overview.md) - 绘画疗法概览与理论根基
+- [Art_Therapy_Terminology_Theory.md](../arts-therapy/Art_Therapy_Terminology_Theory.md) - 核心术语与理论体系
+- [Art_Therapy_Clinical_Integration.md](../arts-therapy/Art_Therapy_Clinical_Integration.md) - 临床整合应用
+- [Art_Therapy_Techniques_Media.md](../arts-therapy/Art_Therapy_Techniques_Media.md) - 技法与媒材详解
 
 ### 表达性艺术整合文档 (Expressive Arts Integration Documents)
 - [Expressive_Arts_Toolkit.md](Expressive_Arts_Toolkit.md) - 实用工具箱与资源整合

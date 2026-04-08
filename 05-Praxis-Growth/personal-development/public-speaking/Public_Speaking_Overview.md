@@ -142,9 +142,9 @@
 
 ### 互补内容体系
 - [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 职场场景中演讲技能的应用
-- [圆桌派专业内容体系](../round-table/Round_Table_Overview.md) - 对话式表达技巧的学习借鉴
-- [锵锵三人行专业内容体系](../qiang-qiang-san-ren-xing/Qiang_Qiang_San_Ren_Xing_Overview.md) - 高端表达艺术的参考学习
-- [影视飓风专业内容体系](../film-storm/Film_Storm_Overview.md) - 视觉表达与舞台呈现的技术支持
+- [圆桌派专业内容体系](../../talks/round-table/Round_Table_Overview.md) - 对话式表达技巧的学习借鉴
+- [锵锵三人行专业内容体系](../../../04-Humanities-Arts/media/tv/qiang-qiang-san-ren-xing/Qiang_Qiang_San_Ren_Xing_Overview.md) - 高端表达艺术的参考学习
+- [影视飓风专业内容体系](../social-media/Film_Storm_Overview.md) - 视觉表达与舞台呈现的技术支持
 
 ## 📚 专业术语表
 

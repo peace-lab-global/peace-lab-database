@@ -150,8 +150,8 @@
 
 ### 7.3 与现有知识体系对接
 本文件与以下项目模块建立深度链接：
-- [社会心理学](../psychology/Psychology_Social.md)
-- [政治心理学](../political-psychology/Political_Psychology_Overview.md)
+- [社会心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md)
+- [政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md)
 - [社会学理论](../framework/Framework_Social_Theory.md)
 - [文化研究](../framework/Framework_Cultural_Studies.md)
 - [公共政策](../framework/Framework_Public_Policy.md)

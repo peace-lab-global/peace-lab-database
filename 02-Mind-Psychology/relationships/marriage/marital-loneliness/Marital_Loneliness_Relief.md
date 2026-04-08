@@ -338,8 +338,8 @@ graph TB
 > - [婚后孤独感来源](Marital_Loneliness_Sources.md) - 理解来源才能精准缓释
 > - [婚内孤独概览](Marital_Loneliness_Overview.md) - 婚内孤独的整体框架
 > - [婚内孤独临床管理](Marital_Loneliness_Clinical_Management.md) - 专业治疗方案
-> - [孤独感缓释与自助策略](../../../psychology/loneliness/Loneliness_Relief_Mitigation.md) - 通用孤独缓释策略
-> - [孤独治疗与关系干预](../../../psychology/loneliness/Loneliness_Treatment.md) - 专业治疗概览
+> - [孤独感缓释与自助策略](../../../psychology/social/loneliness/Loneliness_Relief_Mitigation.md) - 通用孤独缓释策略
+> - [孤独治疗与关系干预](../../../psychology/social/loneliness/Loneliness_Treatment.md) - 专业治疗概览
 
 ---
 

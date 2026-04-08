@@ -294,8 +294,8 @@ flowchart LR
 > - [婚内孤独概览](Marital_Loneliness_Overview.md) - 婚内孤独的整体框架
 > - [婚后孤独缓释策略](Marital_Loneliness_Relief.md) - 针对性的缓释方案
 > - [婚内孤独临床管理](Marital_Loneliness_Clinical_Management.md) - 专业治疗方案
-> - [孤独感来源与病因学](../../../psychology/loneliness/Loneliness_Sources_Etiology.md) - 通用孤独来源框架
-> - [孤独感缓释与自助策略](../../../psychology/loneliness/Loneliness_Relief_Mitigation.md) - 通用缓释策略
+> - [孤独感来源与病因学](../../../psychology/social/loneliness/Loneliness_Sources_Etiology.md) - 通用孤独来源框架
+> - [孤独感缓释与自助策略](../../../psychology/social/loneliness/Loneliness_Relief_Mitigation.md) - 通用缓释策略
 
 ---
 

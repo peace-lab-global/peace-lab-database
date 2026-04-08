@@ -68,10 +68,10 @@
 ## 与现有知识体系的整合
 
 ### 深度链接建立
-- 与心理学相关模块：[心理学流派](02-Mind-Psychology/psychology/Psychology_Schools_Theories.md)、[神经科学](brain/Brain_Clinical_Applications.md)
-- 与健康医学模块：[生物医学](bio/)、[睡眠科学](sleep/)、[营养学](nutritional/)
-- 与社会发展模块：[社会心理学](02-Mind-Psychology/psychology/)、[政治心理学](political-psychology/)
-- 与技术前沿模块：[人工智能](framework/)、[脑机接口](brain/)
+- 与心理学相关模块：[心理学流派](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md)、[神经科学](../../../03-Bio-Science/biology/brain/Brain_Clinical_Applications.md)
+- 与健康医学模块：[生物医学](bio/)、[睡眠科学](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)、[营养学](../../../03-Bio-Science/foods/nutritional/)
+- 与社会发展模块：[社会心理学](../../../02-Mind-Psychology/psychology/)、[政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/)
+- 与技术前沿模块：[人工智能](../../../02-Mind-Psychology/psychology/foundations/framework/)、[脑机接口](../../../03-Bio-Science/biology/brain/)
 
 ### 知识体系对接
 - 建立了完整的交叉引用网络

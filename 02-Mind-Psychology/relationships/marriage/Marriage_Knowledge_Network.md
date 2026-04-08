@@ -4,169 +4,290 @@
 
 ```mermaid
 graph TB
-    A["夫妻相处核心理论<br/>Marriage_Couple_Relationship.md"] --> B["日常实践指南<br/>Marriage_Daily_Practices.md"]
-    A --> C["冲突处理解决<br/>Marriage_Conflict_Resolution.md"]
-    A --> D["长期维护策略<br/>Marriage_Long_Term_Maintenance.md"]
-    A --> E["评估诊断工具<br/>Marriage_Assessment_Diagnosis.md"]
-    A --> F["特殊人群处理<br/>Marriage_Special_Populations.md"]
-    A --> G["预防准备策略<br/>Marriage_Prevention_Preparation.md"]
-    
-    B --> H["沟通技能训练<br/>Marriage_Communication.md"]
-    B --> I["情感连接培养<br/>Marriage_Psychology.md"]
-    
-    C --> J["Gottman方法<br/>Marriage_Therapy_Methods.md"]
-    C --> K["EFT情绪聚焦<br/>Marriage_Therapy_Methods.md"]
-    
-    D --> L["生命周期管理<br/>Marriage_Overview.md"]
-    D --> M["危机干预处理<br/>Marriage_Crisis_Intervention.md"]
-    
-    E --> N["标准化评估<br/>Marriage_Resources.md"]
-    E --> O["临床访谈<br/>Marriage_Therapy_Methods.md"]
-    
-    F --> P["文化敏感性<br/>Marriage_Cultural_Perspectives.md"]
-    F --> Q["LGBTQ+议题<br/>Marriage_Intimacy_Sexuality.md"]
-    
-    G --> R["婚前教育<br/>Marriage_Resources.md"]
-    G --> S["风险预防<br/>Marriage_Crisis_Intervention.md"]
+    subgraph 理论基础层
+        A["婚姻概述<br/>Marriage_Overview.md"]
+        B["婚姻心理学<br/>Marriage_Psychology.md"]
+        C["冲突神经科学<br/>Marriage_Conflict_Neuroscience.md"]
+    end
+
+    subgraph 核心技能层
+        D["沟通技能<br/>Marriage_Communication.md"]
+        E["冲突解决<br/>Marriage_Conflict_Resolution.md"]
+        F["愤怒管理<br/>Marriage_Anger_Management.md"]
+        G["正念与冲突<br/>Marriage_Mindfulness_Conflict.md"]
+    end
+
+    subgraph 常见冲突领域
+        H["财务冲突<br/>Marriage_Financial_Conflict.md"]
+        I["姻亲冲突<br/>Marriage_InLaw_Family_Conflict.md"]
+        J["育儿冲突<br/>Marriage_Parenting_Conflict.md"]
+        K["权力与控制<br/>Marriage_Power_Control.md"]
+        L["隐性攻击<br/>Marriage_Passive_Aggression.md"]
+    end
+
+    subgraph 亲密与修复层
+        M["亲密与性<br/>Marriage_Intimacy_Sexuality.md"]
+        N["宽恕与修复<br/>Marriage_Forgiveness_Repair.md"]
+        O["不忠与背叛<br/>Marriage_Infidelity_Betrayal.md"]
+    end
+
+    subgraph 临床干预层
+        P["治疗方法<br/>Marriage_Therapy_Methods.md"]
+        Q["危机干预<br/>Marriage_Crisis_Intervention.md"]
+        R["心理健康共病<br/>Marriage_Mental_Health_Comorbidity.md"]
+    end
+
+    subgraph 支持系统层
+        S["评估诊断<br/>Marriage_Assessment_Diagnosis.md"]
+        T["日常实践<br/>Marriage_Daily_Practices.md"]
+        U["长期维护<br/>Marriage_Long_Term_Maintenance.md"]
+    end
+
+    %% 理论基础 → 核心技能
+    B --> D
+    B --> E
+    C --> E
+    C --> F
+    C --> G
+
+    %% 核心技能 → 冲突领域
+    D --> H
+    D --> I
+    E --> J
+    E --> K
+    F --> L
+    G --> E
+
+    %% 冲突领域 → 亲密修复
+    K --> M
+    L --> N
+    H --> Q
+    I --> Q
+
+    %% 亲密修复 → 临床干预
+    O --> Q
+    N --> P
+    M --> P
+    R --> P
+    R --> Q
+
+    %% 临床干预 → 支持系统
+    P --> S
+    Q --> S
+    S --> T
+    T --> U
 ```
 
 ## 核心概念交叉引用网络
 
-### 依恋理论知识网络
+### 1. 依恋理论知识网络
 
-**核心文档节点：**
-- [夫妻相处核心关系](file://marriage/Marriage_Couple_Relationship.md#L15-L25) - 依恋理论基础应用
-- [婚姻心理学基础](file://marriage/Marriage_Psychology.md#L5-L12) - 依恋类型详细解析
-- [冲突处理解决](file://marriage/Marriage_Conflict_Resolution.md#L35-L45) - 依恋相关冲突处理
-- [特殊人群处理](file://marriage/Marriage_Special_Populations.md#L85-L120) - 不同人群依恋特点
-- [评估诊断工具](file://marriage/Marriage_Assessment_Diagnosis.md#L18-L25) - ECR-R依恋评估量表
+| 核心文档 | 涉及依恋内容 | 交叉关联 |
+| --- | --- | --- |
+| [婚姻心理学](Marriage_Psychology.md) | 四种成人依恋类型详解、依恋互动模式表、原生家庭传递 | → Conflict_Resolution（依恋相关冲突）、Therapy_Methods（EFT 依恋修复） |
+| [冲突解决](Marriage_Conflict_Resolution.md) | 依恋相关冲突识别、追逃模式（Pursuer-Distancer） | → Psychology（依恋根源）、Conflict_Neuroscience（依恋安全的神经基础） |
+| [冲突神经科学](Marriage_Conflict_Neuroscience.md) | Coan 手握实验、依恋安全感对杏仁核反应的调节 | → Psychology（依恋类型）、Mindfulness_Conflict（共同调节练习） |
+| [治疗方法](Marriage_Therapy_Methods.md) | EFT 三阶段详解、依恋损伤修复、IFS 中流放者-管理者-消防员的依恋动力 | → Forgiveness_Repair（AIRM 依恋损伤修复）、Crisis_Intervention（依恋创伤下的危机） |
+| [宽恕与修复](Marriage_Forgiveness_Repair.md) | Johnson 的 AIRM 五步依恋损伤修复协议 | → Therapy_Methods（EFT 框架）、Intimacy_Sexuality（性创伤与依恋安全） |
+| [评估诊断](Marriage_Assessment_Diagnosis.md) | ECR-R 依恋量表 | → Psychology（依恋类型解读） |
 
-**关联知识点：**
-- 安全型依恋的表现和培养策略
-- 焦虑型依恋的自我安抚技术
-- 回避型依恋的情感表达训练
-- 恐惧型依恋的创伤处理方法
+### 2. 沟通模式知识网络
 
-### 沟通模式知识网络
+| 核心文档 | 涉及沟通内容 | 交叉关联 |
+| --- | --- | --- |
+| [婚姻沟通](Marriage_Communication.md) | Gottman 四骑士、NVC 完整框架、元沟通、冲突后修复对话、婚姻阶段沟通 | → Conflict_Resolution（冲突中的沟通技巧）、Passive_Aggression（石墙的沟通维度） |
+| [冲突解决](Marriage_Conflict_Resolution.md) | 冲突中的沟通技巧表、Gottman "冲突中的梦想"完整脚本 | → Communication（技术来源）、Mindfulness_Conflict（正念沟通） |
+| [隐性攻击](Marriage_Passive_Aggression.md) | 石墙（Stonewalling）作为沟通阻断、六种间接敌意形式 | → Communication（四骑士中的石墙）、Anger_Management（压抑愤怒的沟通表达） |
+| [正念与冲突](Marriage_Mindfulness_Conflict.md) | S.T.O.P. 正念沟通技术、R.A.I.N. 技术应用于夫妻对话 | → Communication（正念沟通整合）、Conflict_Neuroscience（正念对前额叶的激活） |
 
-**核心文档节点：**
-- [日常实践指南](file://marriage/Marriage_Daily_Practices.md#L5-L15) - 日常沟通黄金法则
-- [沟通模式技术](file://marriage/Marriage_Communication.md#L1-L83) - 专业沟通理论
-- [冲突处理解决](file://marriage/Marriage_Conflict_Resolution.md#L25-L35) - 建设性沟通技巧
-- [评估诊断工具](file://marriage/Marriage_Assessment_Diagnosis.md#L30-L36) - 沟通模式观察记录
+### 3. 冲突处理知识网络（扩展版）
 
-**关联知识点：**
-- Gottman四骑士识别与转化
-- 我信息表达技术
-- 积极倾听技能
-- 情感验证方法
+| 核心文档 | 涉及冲突内容 | 交叉关联 |
+| --- | --- | --- |
+| [冲突解决](Marriage_Conflict_Resolution.md) | 六步技术、Thomas-Kilmann 冲突风格、干预脚本示范、案例分析 | → 所有冲突领域文件、Conflict_Neuroscience（冲突的生理基础） |
+| [冲突神经科学](Marriage_Conflict_Neuroscience.md) | 杏仁核劫持、多迷走神经理论、皮质醇/催产素动力、神经可塑性 | → Conflict_Resolution（为什么冲突技巧失效的生理解释）、Mindfulness（正念如何改变神经通路） |
+| [财务冲突](Marriage_Financial_Conflict.md) | Klontz 金钱脚本、财务不忠、收入差距、中国文化特殊议题（彩礼、房产） | → Power_Control（经济控制）、Crisis_Intervention（财务危机） |
+| [姻亲冲突](Marriage_InLaw_Family_Conflict.md) | 忠诚冲突、三角化、婆媳关系、有边界的孝道 | → Conflict_Resolution（姻亲冲突干预脚本）、Psychology（原生家庭影响） |
+| [育儿冲突](Marriage_Parenting_Conflict.md) | 教养风格分歧、协同育儿模型、鸡娃文化、隔代教养 | → Conflict_Resolution（育儿分歧干预脚本）、InLaw_Family（三代同堂动力） |
+| [权力与控制](Marriage_Power_Control.md) | 煤气灯操纵、强制控制、French & Raven 权力基础 | → Crisis_Intervention（家暴筛查）、Passive_Aggression（隐性权力操作） |
+| [隐性攻击](Marriage_Passive_Aggression.md) | 战略性无能、冷暴力、惩罚性石墙 | → Communication（石墙详解）、Anger_Management（压抑型愤怒） |
+| [愤怒管理](Marriage_Anger_Management.md) | 愤怒类型学、容纳技术、建设性表达框架 | → Conflict_Neuroscience（愤怒的神经机制）、Mindfulness（正念愤怒管理） |
 
-### 冲突处理知识网络
+### 4. 治疗方法知识网络
 
-**核心文档节点：**
-- [冲突处理解决](file://marriage/Marriage_Conflict_Resolution.md#L1-L120) - 冲突类型与处理技术
-- [危机干预处理](file://marriage/Marriage_Crisis_Intervention.md#L1-L100) - 危机状态冲突管理
-- [特殊人群处理](file://marriage/Marriage_Special_Populations.md#L185-L220) - 特殊情境冲突应对
-- [治疗技术方法](file://marriage/Marriage_Therapy_Methods.md#L35-L45) - 专业冲突解决技术
+| 治疗方法 | 核心文档 | 交叉引用 |
+| --- | --- | --- |
+| EFT 情绪聚焦疗法 | [治疗方法](Marriage_Therapy_Methods.md) | → Psychology（依恋类型）、Forgiveness_Repair（AIRM）、Conflict_Neuroscience（EFT 的神经改变机制） |
+| Gottman 方法 | [治疗方法](Marriage_Therapy_Methods.md) | → Communication（四骑士详解）、Conflict_Resolution（冲突中的梦想）、Daily_Practices（声音关系之屋日常实践） |
+| IFS 内部家庭系统 | [治疗方法](Marriage_Therapy_Methods.md) | → Anger_Management（愤怒作为消防员部分）、Psychology（内在工作模式与IFS部分的映射） |
+| ACT 接纳承诺疗法 | [治疗方法](Marriage_Therapy_Methods.md) | → Mindfulness_Conflict（ACT 与正念的整合）、Power_Control（控制议程的解构） |
+| 图式疗法 | [治疗方法](Marriage_Therapy_Methods.md) | → Psychology（原生家庭与图式形成）、Power_Control（屈从/特权图式互锁）、Infidelity（遗弃图式与外遇脆弱性） |
+| Discernment Counseling | [治疗方法](Marriage_Therapy_Methods.md) | → Crisis_Intervention（"一方想走一方想留"的危机处理）、Infidelity（外遇后的方向决策） |
 
-**关联知识点：**
-- 冲突六步解决技术
-- 情绪聚焦冲突处理
-- 即时修复与延迟修复
-- 特殊冲突情境处理
+### 5. 心理健康与婚姻交叉网络
+
+| 核心文档 | 涉及内容 | 交叉关联 |
+| --- | --- | --- |
+| [心理健康共病](Marriage_Mental_Health_Comorbidity.md) | 抑郁-婚姻双向模型、焦虑、PTSD/C-PTSD、人格障碍（BPD/NPD/OCPD）、ADHD、物质滥用 | → Crisis_Intervention（共病增加危机风险）、Therapy_Methods（共病情况下的治疗选择） |
+| [冲突神经科学](Marriage_Conflict_Neuroscience.md) | 皮质醇对免疫系统的影响、慢性冲突的身体健康后果 | → Mental_Health（躯体化共病）、Psychology（压力与婚姻模型） |
+| [危机干预](Marriage_Crisis_Intervention.md) | 自杀风险评估、C-SSRS 应用、安全计划 | → Mental_Health（自杀风险的共病因素）、Power_Control（家暴情境下的复合风险） |
+
+### 6. 亲密、性与修复知识网络
+
+| 核心文档 | 涉及内容 | 交叉关联 |
+| --- | --- | --- |
+| [亲密与性](Marriage_Intimacy_Sexuality.md) | Basson 循环模型、双控制模型、色情影响、性创伤、感觉聚焦 2.0 | → Conflict_Neuroscience（创伤的神经基础）、Mindfulness（正念性治疗）、Power_Control（性强迫） |
+| [宽恕与修复](Marriage_Forgiveness_Repair.md) | Enright 四阶段、Worthington REACH、Gottman Atone-Attune-Attach、文化维度 | → Crisis_Intervention（外遇后修复协议）、Therapy_Methods（宽恕在各流派中的位置） |
+| [不忠与背叛](Marriage_Infidelity_Betrayal.md) | 背叛创伤、多维度出轨模型 | → Crisis_Intervention（外遇后PTSD协议）、Forgiveness_Repair（信任重建） |
+
+### 7. 正念与东方智慧整合网络（Peace Lab 特色）
+
+| 核心文档 | 涉及内容 | 交叉关联 |
+| --- | --- | --- |
+| [正念与冲突](Marriage_Mindfulness_Conflict.md) | 关系正念、S.T.O.P./R.A.I.N. 技术、慈悲冥想、佛教/道家/儒家智慧、ACT 整合 | → Conflict_Neuroscience（正念改变默认模式网络）、Anger_Management（正念愤怒管理）、Therapy_Methods（ACT 六角模型） |
+| [婚姻心理学](Marriage_Psychology.md) | 神经可塑性与关系模式——正念如何改变"硬连线"的互动模式 | → Conflict_Neuroscience（记忆再巩固）、Mindfulness（正念作为神经可塑性干预） |
+| [宽恕与修复](Marriage_Forgiveness_Repair.md) | 佛教、儒家、道家宽恕智慧表 | → Mindfulness_Conflict（Thich Nhat Hanh 的"重新开始"仪式） |
 
 ## 实用工具交叉引用系统
 
 ### 评估工具使用路径
 
 **基础评估流程：**
-1. [简易关系温度计](file://marriage/Marriage_Assessment_Diagnosis.md#L65-L75) - 日常关系监测
-2. [沟通模式观察](file://marriage/Marriage_Assessment_Diagnosis.md#L78-L85) - 互动模式识别
-3. [依恋风格自评](file://marriage/Marriage_Assessment_Diagnosis.md#L88-L105) - 依恋类型确认
-4. 专业标准化量表评估
+1. [简易关系温度计](Marriage_Assessment_Diagnosis.md) - 日常关系监测
+2. [沟通模式观察](Marriage_Assessment_Diagnosis.md) - 互动模式识别（→ Communication 四骑士识别）
+3. [依恋风格自评](Marriage_Assessment_Diagnosis.md) - 依恋类型确认（→ Psychology 依恋类型详解）
+4. [冲突风格评估](Marriage_Conflict_Resolution.md) - Thomas-Kilmann 冲突风格自评（新增）
+5. 专业标准化量表评估
 
 **进阶评估工具：**
-- [DAS-II婚姻调适量表](file://marriage/Marriage_Assessment_Diagnosis.md#L18-L25) - 全面关系质量评估
-- [Gottman比率编码](file://marriage/Marriage_Assessment_Diagnosis.md#L19-L19) - 互动观察金标准
-- [ECR-R依恋量表](file://marriage/Marriage_Assessment_Diagnosis.md#L20-L20) - 依恋风格筛查
+- DAS-II 婚姻调适量表 → 全面关系质量评估
+- Gottman 比率编码 → 互动观察金标准
+- ECR-R 依恋量表 → 依恋风格筛查
+- C-SSRS → 自杀风险结构化评估（→ Crisis_Intervention 自杀风险部分）
+- VSA 评估清单 → 脆弱性-压力-适应三维度评估（→ Psychology VSA 模型）
 
 ### 干预技术应用路径
 
 **预防性干预：**
-- [婚前准备策略](file://marriage/Marriage_Prevention_Preparation.md#L5-L15) - 风险因素识别
-- [日常实践指南](file://marriage/Marriage_Daily_Practices.md#L20-L30) - 预防性日常习惯
-- [长期维护策略](file://marriage/Marriage_Long_Term_Maintenance.md#L20-L30) - 持续关系投资
+- [婚前准备策略](Marriage_Prevention_Prevention.md) - 风险因素识别
+- [日常实践指南](Marriage_Daily_Practices.md) - 预防性日常习惯
+- [正念冲突预防](Marriage_Mindfulness_Conflict.md) - 正念练习建立情绪弹性（新增）
+- [长期维护策略](Marriage_Long_Term_Maintenance.md) - 持续关系投资
 
-**治疗性干预：**
-- [EFT情绪聚焦](file://marriage/Marriage_Therapy_Methods.md#L18-L33) - 依恋修复核心技术
-- [Gottman方法](file://marriage/Marriage_Therapy_Methods.md#L35-L45) - 关系技能训练
-- [IBCT整合行为](file://marriage/Marriage_Therapy_Methods.md#L46-L55) - 接纳与改变平衡
+**治疗性干预（按理论取向）：**
+- EFT 情绪聚焦 → [治疗方法](Marriage_Therapy_Methods.md)（依恋修复核心技术）
+- Gottman 方法 → [治疗方法](Marriage_Therapy_Methods.md)（关系技能训练）
+- IFS 内部家庭系统 → [治疗方法](Marriage_Therapy_Methods.md)（部分工作与 U-Turn 技术，新增）
+- ACT 接纳承诺 → [治疗方法](Marriage_Therapy_Methods.md)（心理灵活性六角模型，新增）
+- 图式疗法 → [治疗方法](Marriage_Therapy_Methods.md)（早期适应不良图式，新增）
+- Discernment Counseling → [治疗方法](Marriage_Therapy_Methods.md)（混合意向夫妻，新增）
+
+**危机干预路径：**
+- [危机预警识别](Marriage_Crisis_Intervention.md) - 黄/橙/红三级预警系统
+- [自杀风险评估](Marriage_Crisis_Intervention.md) - C-SSRS 应用与安全计划（新增）
+- [外遇后创伤协议](Marriage_Crisis_Intervention.md) - Glass"窗与墙"三阶段修复（新增）
+- [紧急降级脚本](Marriage_Crisis_Intervention.md) - 四个危机场景的治疗师对话脚本（新增）
+
+### 按问题导向的文档检索指南
+
+| 来访者呈现的问题 | 首选参考文档 | 补充参考文档 |
+| --- | --- | --- |
+| "我们总是吵架" | Conflict_Resolution, Communication | Anger_Management, Conflict_Neuroscience |
+| "他/她从不听我说话" | Communication（NVC, 元沟通）, Passive_Aggression | Psychology（追逃模式） |
+| "为钱的事总是争论" | Financial_Conflict | Power_Control（经济控制维度） |
+| "婆婆总是干涉我们" | InLaw_Family_Conflict | Conflict_Resolution（姻亲冲突脚本） |
+| "我们对孩子教育看法不同" | Parenting_Conflict | Conflict_Resolution（育儿分歧脚本） |
+| "他/她出轨了" | Crisis_Intervention（外遇协议）, Infidelity_Betrayal | Forgiveness_Repair, Intimacy_Sexuality |
+| "我想离婚/对方想离婚" | Therapy_Methods（Discernment Counseling）, Crisis_Intervention | Psychology（VSA 评估） |
+| "我们没有性生活/性不和谐" | Intimacy_Sexuality（Basson 模型, 感觉聚焦） | Mindfulness_Conflict（正念身体觉察） |
+| "他/她控制我" | Power_Control | Crisis_Intervention（家暴筛查） |
+| "一方有抑郁/焦虑" | Mental_Health_Comorbidity | Therapy_Methods（治疗选择）, Psychology（VSA 模型） |
+| "我无法原谅他/她" | Forgiveness_Repair | Mindfulness_Conflict（慈悲冥想） |
+| "他/她总是冷暴力" | Passive_Aggression, Anger_Management | Communication（石墙解毒剂） |
+| "我们在考虑离婚" | [Divorce_Decision_Psychology](divorce-psychology/Divorce_Decision_Psychology.md)（决策过程） | Therapy_Methods（Discernment Counseling）、Crisis_Intervention |
+| "离婚后孩子怎么办" | [Divorce_Impact_Children](divorce-psychology/Divorce_Impact_Children_Development.md)、[Children_Support](divorce-psychology/Divorce_Children_Support_Intervention.md) | [Coparenting](divorce-psychology/Divorce_Coparenting_Communication.md)（共同育儿） |
+| "离婚后无法和前任沟通" | [Coparenting_Communication](divorce-psychology/Divorce_Coparenting_Communication.md)（BIFF沟通、平行育儿） | [Family_Rebuilding](divorce-psychology/Divorce_Family_Rebuilding.md) |
+| "离婚后想重新开始" | [Family_Rebuilding](divorce-psychology/Divorce_Family_Rebuilding.md)（个人重建、再婚融合） | Forgiveness_Repair |
 
 ## 跨领域知识整合
 
 ### 与心理学其他领域的连接
 
 **发展心理学：**
-- [儿童发展影响](file://child-adolescent/Child_Adolescent_Development.md#L1-L50) - 子女对夫妻关系的影响
-- [青少年发展](file://adolescent-crisis/Adolescent_Crisis_Intervention.md#L1-L80) - 青春期家庭关系挑战
+- 儿童发展影响 → 子女对夫妻关系的影响（→ Parenting_Conflict 育儿冲突）
+- 青少年发展 → 青春期家庭关系挑战（→ InLaw_Family_Conflict 代际关系）
+- 离婚对子女发展影响 → 分年龄段多维度分析（→ [Divorce_Impact_Children_Development](divorce-psychology/Divorce_Impact_Children_Development.md)）
+- 离婚家庭子女干预 → 循证干预项目与危机支持（→ [Divorce_Children_Support_Intervention](divorce-psychology/Divorce_Children_Support_Intervention.md)）
+- 共同育儿与沟通 → 离婚后的育儿合作（→ [Divorce_Coparenting_Communication](divorce-psychology/Divorce_Coparenting_Communication.md)）
 
 **临床心理学：**
-- [抑郁焦虑共病](file://depression/Depression_Treatment.md#L1-L150) - 心理障碍对关系的影响
-- [创伤处理](file://trauma/Trauma_Treatment.md#L1-L100) - 创伤经历的关系影响
+- 抑郁焦虑共病 → [心理健康共病](Marriage_Mental_Health_Comorbidity.md)（新增专题文件）
+- 创伤处理 → [亲密与性](Marriage_Intimacy_Sexuality.md)（性创伤与婚姻，新增板块）
+- 人格障碍 → [心理健康共病](Marriage_Mental_Health_Comorbidity.md)（BPD/NPD/OCPD 与婚姻互动）
+
+**神经科学：**
+- 情感神经科学 → [冲突神经科学](Marriage_Conflict_Neuroscience.md)（新增专题文件）
+- 多迷走神经理论 → [冲突神经科学](Marriage_Conflict_Neuroscience.md)（Polyvagal Theory 在婚姻中的应用）
+- 神经可塑性 → [婚姻心理学](Marriage_Psychology.md)（新增板块：关系模式的神经编码与改变）
 
 **社会心理学：**
-- [社会支持系统](file://society-community/Society_Community_Support.md#L1-L68) - 外部支持对关系的作用
-- [文化适应](file://east-asian-philosophy/china/confucianism/Confucianism_Modern_Application.md#L1-L80) - 文化因素对关系的影响
+- 社会支持系统 → 外部支持对关系的作用
+- 文化因素 → [姻亲冲突](Marriage_InLaw_Family_Conflict.md)（中国文化孝道与婆媳关系）、[财务冲突](Marriage_Financial_Conflict.md)（彩礼、房产文化）
 
-### 与相关专题的交叉引用
+### 与 Peace Lab 核心领域的整合
 
-**恋爱关系：**
-- [恋爱心理学](file://love/Love_Psychology_Overview.md#L1-L100) - 恋爱到婚姻的过渡
-- [择偶心理](file://love/Love_Mate_Selection.md#L1-L90) - 选择标准与关系基础
+**正念与冥想：**
+- [正念与冲突](Marriage_Mindfulness_Conflict.md) — Peace Lab 签名整合文件
+- 慈悲冥想在婚姻中的应用（Metta, Tonglen, 重新开始仪式）
+- ACT 正念六角模型的夫妻适用（→ Therapy_Methods）
 
-**家庭系统：**
-- [家庭系统排列](file://family-constellation/Family_Constellation_Laws.md#L1-L150) - 家庭系统对夫妻关系的影响
-- [原生家庭](file://marriage/Marriage_Psychology.md#L48-L57) - 原生家庭模式的代际传递
+**东方哲学智慧：**
+- 佛教四圣谛映射婚姻苦难（→ Mindfulness_Conflict）
+- 缘起法则应用于冲突循环分析（→ Mindfulness_Conflict）
+- 道家无为与阴阳平衡（→ Mindfulness_Conflict）
+- 儒家恕道、修身、知止、中庸在婚姻中的应用（→ Mindfulness_Conflict、Forgiveness_Repair）
 
 **个人成长：**
-- [自我慈悲](file://self-compassion/Self_Compassion_Theory.md#L1-L80) - 个人自我关怀对关系的影响
-- [正念冥想](file://mindfulness/Mindfulness_Core.md#L1-L120) - 正念练习在关系中的应用
+- 自我慈悲 → 个人自我关怀对关系的影响
+- 情绪智力 → [婚姻心理学](Marriage_Psychology.md)（新增板块：EI 四维度与夫妻练习）
 
 ## 专业资源导航系统
 
 ### 治疗师培训路径
 
-**入门级：**
-- [基础理论学习](file://marriage/Marriage_Overview.md#L1-L100) - 婚姻关系基本概念
-- [沟通技能培训](file://marriage/Marriage_Communication.md#L1-L83) - 基础沟通技术
-- [评估工具掌握](file://marriage/Marriage_Assessment_Diagnosis.md#L15-L25) - 标准化评估方法
+**入门级（基础胜任力）：**
+- [婚姻概述](Marriage_Overview.md) - 婚姻关系基本概念与生命周期
+- [婚姻沟通](Marriage_Communication.md) - 基础沟通技术（Gottman 四骑士、NVC）
+- [评估诊断](Marriage_Assessment_Diagnosis.md) - 标准化评估方法
+- [婚姻心理学](Marriage_Psychology.md) - 依恋理论、认知偏差、VSA 模型
 
-**进阶级：**
-- [EFT认证培训](file://marriage/Marriage_Therapy_Methods.md#L18-L33) - 情绪聚焦治疗技术
-- [Gottman方法认证](file://marriage/Marriage_Therapy_Methods.md#L35-L45) - Gottman七原则应用
-- [特殊人群处理](file://marriage/Marriage_Special_Populations.md#L1-L200) - 文化敏感性技能
+**进阶级（专业深化）：**
+- [治疗方法](Marriage_Therapy_Methods.md) - EFT、Gottman、IFS、ACT、图式疗法
+- [冲突神经科学](Marriage_Conflict_Neuroscience.md) - 理解干预的神经机制
+- [正念与冲突](Marriage_Mindfulness_Conflict.md) - 正念整合取向
+- [特殊人群](Marriage_Special_Populations.md) - 文化敏感性技能
 
-**专家级：**
-- [复杂案例处理](file://marriage/Marriage_Crisis_Intervention.md#L1-L100) - 危机干预技术
-- [研究与督导](file://marriage/Marriage_Resources.md#L59-L66) - 专业发展路径
-- [跨领域整合](file://marriage/Marriage_Therapy_Methods.md#L85-L105) - 多种方法整合应用
+**专家级（复杂案例）：**
+- [危机干预](Marriage_Crisis_Intervention.md) - 自杀评估、外遇创伤协议、紧急降级
+- [心理健康共病](Marriage_Mental_Health_Comorbidity.md) - 双重诊断的婚姻治疗
+- [权力与控制](Marriage_Power_Control.md) - 家暴筛查与安全评估
+- [宽恕与修复](Marriage_Forgiveness_Repair.md) - 深度创伤修复工作
 
 ### 大众自助资源导航
 
 **初学者路径：**
-- [关系基础知识](file://marriage/Marriage_Overview.md#L15-L25) - 理解关系基本概念
-- [日常实践指南](file://marriage/Marriage_Daily_Practices.md#L5-L25) - 简单易行的日常技巧
-- [自我评估工具](file://marriage/Marriage_Assessment_Diagnosis.md#L65-L105) - 简易自我评估方法
+- [婚姻概述](Marriage_Overview.md) - 理解关系基本概念
+- [日常实践](Marriage_Daily_Practices.md) - 简单易行的日常技巧
+- [评估诊断](Marriage_Assessment_Diagnosis.md) - 简易自我评估方法
 
-**进阶学习路径：**
-- [专业书籍推荐](file://marriage/Marriage_Resources.md#L30-L42) - 循证实践书籍
-- [在线课程资源](file://marriage/Marriage_Resources.md#L81-L88) - 结构化学习项目
-- [支持小组参与](file://marriage/Marriage_Resources.md#L72-L77) - 同伴支持网络
+**特定问题路径（参照上方"按问题导向的文档检索指南"表格）**
 
 **危机应对路径：**
-- [危险信号识别](file://marriage/Marriage_Assessment_Diagnosis.md#L85-L95) - 危机预警系统
-- [紧急资源获取](file://marriage/Marriage_Resources.md#L92-L99) - 危机干预资源
-- [专业帮助寻求](file://marriage/Marriage_Resources.md#L110-L120) - 治疗师选择指南
+- [危机干预](Marriage_Crisis_Intervention.md) - 危机预警信号识别与急救箱
+- [治疗方法](Marriage_Therapy_Methods.md) - Discernment Counseling（犹豫期辨识咨询）
+- [婚姻资源](Marriage_Resources.md) - 紧急资源获取与治疗师选择指南
+
+---
 
 ## 知识更新与维护机制
 
@@ -198,4 +319,42 @@ graph TB
 - 技术可行性评估
 - 文化适应性检查
 
-这个知识网络系统旨在为用户提供一个完整的、相互关联的夫妻相处知识体系，确保信息的准确性和实用性，同时便于用户根据不同需求找到相应的资源和指导。
+---
+
+### 本模块文件清单（32 个核心文件）
+
+| 类别 | 文件 | 行数（约） | 状态 |
+| --- | --- | --- | --- |
+| **理论基础** | Marriage_Overview.md | 100 | 原有 |
+| | Marriage_Psychology.md | 277 | 已深化 |
+| | Marriage_Conflict_Neuroscience.md | 270 | 新建 |
+| **核心技能** | Marriage_Communication.md | 275 | 已深化 |
+| | Marriage_Conflict_Resolution.md | 404 | 已深化 |
+| | Marriage_Anger_Management.md | 316 | 新建 |
+| | Marriage_Mindfulness_Conflict.md | 450 | 新建 |
+| **冲突领域** | Marriage_Financial_Conflict.md | 400 | 新建 |
+| | Marriage_InLaw_Family_Conflict.md | 449 | 新建 |
+| | Marriage_Parenting_Conflict.md | 378 | 新建 |
+| | Marriage_Power_Control.md | 383 | 新建 |
+| | Marriage_Passive_Aggression.md | 314 | 新建 |
+| **亲密与修复** | Marriage_Intimacy_Sexuality.md | 300+ | 已深化 |
+| | Marriage_Forgiveness_Repair.md | 400 | 新建 |
+| | Marriage_Infidelity_Betrayal.md | 63 | 原有 |
+| **临床干预** | Marriage_Therapy_Methods.md | 267 | 已深化 |
+| | Marriage_Crisis_Intervention.md | 359 | 已深化 |
+| | Marriage_Mental_Health_Comorbidity.md | 390 | 新建 |
+| **支持系统** | Marriage_Assessment_Diagnosis.md | — | 原有 |
+| | Marriage_Daily_Practices.md | — | 原有 |
+| | Marriage_Long_Term_Maintenance.md | — | 原有 |
+| | Marriage_Couple_Relationship.md | — | 原有 |
+| | Marriage_Cultural_Perspectives.md | — | 原有 |
+| | Marriage_Special_Populations.md | — | 原有 |
+| | Marriage_Prevention_Prevention.md | — | 原有 |
+| | Marriage_Resources.md | — | 原有 |
+| **离婚心理学** | divorce-psychology/Divorce_Decision_Psychology.md | 203 | 新建 |
+| | divorce-psychology/Divorce_Impact_Children_Development.md | 161 | 新建 |
+| | divorce-psychology/Divorce_Children_Support_Intervention.md | 148 | 新建 |
+| | divorce-psychology/Divorce_Coparenting_Communication.md | 260 | 新建 |
+| | divorce-psychology/Divorce_Family_Rebuilding.md | 260 | 新建 |
+| **导航** | INDEX.md | 107 | 已重构 |
+| | Marriage_Knowledge_Network.md | — | 已重写 |

@@ -317,8 +317,8 @@
 - [佛教核心概述](../Buddhism_Core_Overview.md)
 - [中观哲学](../Buddhism_Madhyamaka_Philosophy.md)
 - [唯识学](../Buddhism_Yogacara_Consciousness.md)
-- [禅宗经典深入](../Zen_Sutras_In_Depth.md)
-- [净土五经](../Pure_Land_Five_Sutras.md)
+- [禅宗经典深入](../../zen/Zen_Sutras_In_Depth.md)
+- [净土五经](Pure_Land_Five_Sutras.md)
 - [佛教历史年表](../Buddhist_History_Timeline.md)
 - [大藏经体系介绍](../Buddhist_Canon_System.md)
 

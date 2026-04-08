@@ -81,4 +81,4 @@
 **相关文档链接：**
 - [换妻研究框架](Swinging_Research_Framework.md) - 理论基础和概念体系
 - [换妻实践指南](Swinging_Practice_Guide.md) - 实践应用和技术方法
-- [性学研究概览](../sexuality/Sexuality_Overview.md) - 相关性学核心术语
+- [性学研究概览](../Sexuality_Overview.md) - 相关性学核心术语

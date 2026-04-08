@@ -279,9 +279,9 @@
 - [电视剧疗法](../../tv/television-therapy/Television_Therapy.md) - 长期叙事陪伴机制
 - [媒体临床应用](../../media-therapy/Media_Clinical_Applications.md) - 病理专项媒体处方
 - [媒体安全伦理](../../media-therapy/Media_Safety_Ethics.md) - 触发警示与内容分级
-- [心理学流派与理论体系](../../../../02-Mind-Psychology/psychology/overview/Psychology_Schools_Theories.md) - 理论框架与方法论
-- [职业与组织心理](../../../../02-Mind-Psychology/psychology/vocational-psychology/) - 组织中的个体与群体行为
-- [人际与社会心理](../../../../02-Mind-Psychology/psychology/friendship/) - 社会关系与互动心理
+- [心理学流派与理论体系](../../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md) - 理论框架与方法论
+- [职业与组织心理](../../../../02-Mind-Psychology/psychology/applied/vocational-psychology/) - 组织中的个体与群体行为
+- [人际与社会心理](../../../../02-Mind-Psychology/psychology/social/friendship/) - 社会关系与互动心理
 
 ### 延伸阅读
 - 同类型影片比较研究

@@ -10,8 +10,8 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](Psychology_Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
-| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](Society_Community_Support.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
+| **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
+| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-Bio-Science/sexuality/Society_Community_Support.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
 | **Tarana Burke** | Me too is a movement, not a moment | 2018 | #MeToo运动的深层意义 | [性别平等](Framework_Gender_Equality.md) | 14:33 | [观看](https://www.ted.com/talks/tarana_burke_me_too_is_a_movement_not_a_moment) |
 
 ### 1.2 社会流动性与机会平等
@@ -36,7 +36,7 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Yuval Noah Harari** | Nationalism vs. globalism | 2017 | 民族主义与全球主义的冲突 | [政治心理学](Political_Psychology_Overview.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
+| **Yuval Noah Harari** | Nationalism vs. globalism | 2017 | 民族主义与全球主义的冲突 | [政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
 | **Ian Bremmer** | How the US should use its power | 2018 | 美国全球权力运用 | [国际关系](Political_Psychology_International_Relations.md) | 14:28 | [观看](https://www.ted.com/talks/ian_bremmer_how_the_us_should_use_its_power) |
 | **Steven Pinker** | Why the world isn't falling apart | 2019 | 乐观的进步主义观点 | [政治哲学](Philosophy_Political_Philosophy.md) | 18:33 | [观看](https://www.ted.com/talks/steven_pinker_why_the_world_isn_t_falling_apart) |
 
@@ -70,7 +70,7 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **William Ury** | The walk from "no" to "yes" | 2010 | 谈判与冲突解决 | [冲突处理](Marriage_Crisis_Intervention.md) | 18:50 | [观看](https://www.ted.com/talks/william_ury_the_walk_from_no_to_yes) |
+| **William Ury** | The walk from "no" to "yes" | 2010 | 谈判与冲突解决 | [冲突处理](../../../02-Mind-Psychology/relationships/marriage/Marriage_Crisis_Intervention.md) | 18:50 | [观看](https://www.ted.com/talks/william_ury_the_walk_from_no_to_yes) |
 | **Dambisa Moyo** | Is China the new idol for emerging economies? | 2013 | 中国发展模式的影响 | [发展经济学](Framework_Development_Economics.md) | 17:24 | [观看](https://www.ted.com/talks/dambisa_moyo_is_china_the_new_idol_for_emerging_economies) |
 
 ### 3.3 全球治理挑战
@@ -78,7 +78,7 @@
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Ian Goldin** | The butterfly effect | 2015 | 全球互联的风险与机遇 | [系统论](Framework_Systems_Theory.md) | 15:28 | [观看](https://www.ted.com/talks/ian_goldin_the_butterfly_effect) |
-| **Noreena Hertz** | How to harness the power of the crowd | 2014 | 集体智慧的应用 | [群体决策](Psychology_Social.md) | 17:33 | [观看](https://www.ted.com/talks/noreena_hertz_how_to_harness_the_power_of_the_crowd) |
+| **Noreena Hertz** | How to harness the power of the crowd | 2014 | 集体智慧的应用 | [群体决策](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 17:33 | [观看](https://www.ted.com/talks/noreena_hertz_how_to_harness_the_power_of_the_crowd) |
 
 ---
 
@@ -88,9 +88,9 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Sherry Turkle** | Connected, but alone? | 2012 | 科技与人际关系 | [社交心理](Psychology_Social.md) | 19:47 | [观看](https://www.ted.com/talks/sherry_turkle_connected_but_alone) |
-| **Tristan Harris** | How technology hijacks people's minds | 2017 | 科技成瘾机制 | [数字成瘾](Addiction_Behavioral.md) | 17:26 | [观看](https://www.youtube.com/watch?v=C74amJRp730) |
-| **Cal Newport** | Quit social media | 2016 | 数字极简主义 | [数字疗法](Media_Therapy_Overview.md) | 13:50 | [观看](https://www.youtube.com/watch?v=3E7hkPZ-HTk) |
+| **Sherry Turkle** | Connected, but alone? | 2012 | 科技与人际关系 | [社交心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 19:47 | [观看](https://www.ted.com/talks/sherry_turkle_connected_but_alone) |
+| **Tristan Harris** | How technology hijacks people's minds | 2017 | 科技成瘾机制 | [数字成瘾](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md) | 17:26 | [观看](https://www.youtube.com/watch?v=C74amJRp730) |
+| **Cal Newport** | Quit social media | 2016 | 数字极简主义 | [数字疗法](../../../04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview.md) | 13:50 | [观看](https://www.youtube.com/watch?v=3E7hkPZ-HTk) |
 
 ### 4.2 信息传播与真相
 
@@ -128,7 +128,7 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
+| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
 | **William Li** | Can we eat to starve cancer? | 2010 | 通过饮食抗癌 | [公共健康](Framework_Public_Health.md) | 17:28 | [观看](https://www.ted.com/talks/william_li_can_we_eat_to_starve_cancer) |
 
 ---
@@ -147,13 +147,13 @@
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Mike Rowe** | Learning from dirty jobs | 2008 | 脏活累活的价值 | [职业教育](Framework_Vocational_Education.md) | 18:45 | [观看](https://www.ted.com/talks/mike_rowe_learning_from_dirty_jobs) |
-| **Sheena Iyengar** | The art of choosing | 2010 | 选择的心理学机制 | [决策心理学](Psychology_Cognition.md) | 24:08 | [观看](https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing) |
+| **Sheena Iyengar** | The art of choosing | 2010 | 选择的心理学机制 | [决策心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 24:08 | [观看](https://www.ted.com/talks/sheena_iyengar_the_art_of_choosing) |
 
 ### 6.3 终身学习与适应性
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式的力量 | [发展心理学](Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
+| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式的力量 | [发展心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
 | **Whitney Johnson** | Disrupt your career | 2015 | 职业发展的颠覆性策略 | [职业发展](Framework_Career_Development.md) | 11:44 | [观看](https://www.ted.com/talks/whitney_johnson_disrupt_your_career) |
 
 ---

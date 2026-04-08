@@ -25,6 +25,7 @@
 - [作家导航](authors/)
   - [中世纪作家](authors/medieval/) - 但丁《神曲》
   - [文艺复兴作家](authors/renaissance/) - 莎士比亚
+  - [美国现代文学](authors/american-modern/) - 卡森·麦卡勒斯《心是孤独的猎手》等
 
 ### 5. 世界诗歌 (World Poetry)
 - [世界诗歌导航](world-poetry/)

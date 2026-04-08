@@ -29,3 +29,7 @@ build/
 *.log
 *.tmp
 .cache/
+
+# 工具生成报告（大型文件，按需提交）
+Tools/reports/LINK_CHECK_REPORT.md
+Tools/reports/quality_report.json

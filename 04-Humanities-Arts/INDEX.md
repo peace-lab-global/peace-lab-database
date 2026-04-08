@@ -5,7 +5,7 @@
 ## 核心索引 | Core Index
 
 ### 1. 🎨 艺术史、艺术家与艺术疗法 (Arts & Artists)
-- [艺术疗愈核心理论 (Art Therapy)](arts/arts-therapy/2/Art_Therapy_Overview.md)
+- [艺术疗愈核心理论 (Art Therapy)](arts/arts-therapy/Art_Therapy_Overview.md)
 - [文艺复兴艺术家与心理分析 (Renaissance)](arts/Renaissance_Artists_Therapy.md)
   - [达芬奇 (Da Vinci)](arts/artists/renaissance/Leonardo_da_Vinci.md)
   - [米开朗基罗 (Michelangelo)](arts/artists/renaissance/Michelangelo.md)

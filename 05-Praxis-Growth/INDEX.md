@@ -82,7 +82,7 @@
 
 ### 5. ⚖️ 管理心理学与组织 (Management & Organization)
 - [法家管理心理学 (Legalist Management)](../01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md)
-- [职场心理危机干预 (Workplace Crisis)](../02-Mind-Psychology/psychology/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
+- [职场心理危机干预 (Workplace Crisis)](../02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
 
 ---
 *返回根目录 [README.md](../README.md)*

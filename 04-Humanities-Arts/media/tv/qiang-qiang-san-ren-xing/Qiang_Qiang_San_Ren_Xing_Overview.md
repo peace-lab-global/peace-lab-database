@@ -169,7 +169,7 @@
 ## 🤝 相关领域链接
 
 ### 互补专业体系
-- [圆桌派专业内容体系](../round-table/Round_Table_Overview.md) - 多元化对话模式参考
-- [TWiT科技播客专业内容体系](../twit/TWiT_Overview.md) - 专业话题深度讨论借鉴
-- [职场表达专业内容体系](../workplace-expression/Workplace_Expression_Overview.md) - 高端沟通技巧应用
-- [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 知识分子表达艺术
+- [圆桌派专业内容体系](../../../../05-Praxis-Growth/talks/round-table/Round_Table_Overview.md) - 多元化对话模式参考
+- [TWiT科技播客专业内容体系](../../../../05-Praxis-Growth/personal-development/social-media/TWiT_Overview.md) - 专业话题深度讨论借鉴
+- [职场表达专业内容体系](../../../../05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md) - 高端沟通技巧应用
+- [公众表达专业内容体系](../../../../05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Overview.md) - 知识分子表达艺术

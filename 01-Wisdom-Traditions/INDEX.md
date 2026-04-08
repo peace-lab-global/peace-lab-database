@@ -4,18 +4,30 @@
 
 ## 核心索引 | Core Index
 
-### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions)
-- [瑜伽哲学与概念 (Yoga Philosophy)](yoga/Yoga_Philosophy.md)
-- [瑜伽经深度解析 (Yoga Sutra Deep Dive)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md)
-- [瑜伽历史与传统 (Yoga History)](yoga/Yoga_History_Tradition.md)
-- [体式与呼吸 (Asanas & Pranayama)](yoga/Yoga_Asana_Pranayama.md)
-- [瑜伽解剖学 (Yoga Anatomy)](yoga/Yoga_Anatomy_Physiology.md)
-- [高阶克里亚与昆达里尼 (Advanced Kriya & Kundalini)](yoga/Yoga_Advanced_Kriya_Kundalini.md)
-- [那洛六法系统 (Six Yogas of Naropa)](yoga/six-yogas-naropa/)
-- [瑜伽心理愈疗 (Psychological Healing)](yoga/Yoga_Psychological_Healing_Principles.md)
-- [瑜伽理疗与阿育吠陀 (Therapy & Ayurveda)](yoga/Yoga_Ayurvedic_Therapy_Integration.md)
-- [瑜伽睡眠 (Yoga Nidra)](yoga/Yoga_Nidra.md)
-- [瑜伽资源指南 (Yoga Resources)](yoga/Yoga_Resources.md)
+### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions) — [完整知识地图](yoga/INDEX.md)
+
+**哲学与历史**
+- [瑜伽哲学 (Philosophy)](yoga/Yoga_Philosophy.md) | [瑜伽经深度 (Yoga Sutra)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md) | [哲学流派 (Schools)](yoga/Yoga_Philosophy_Schools_Deep.md)
+- [瑜伽历史 (History)](yoga/Yoga_History_Tradition.md) | [术语总表 (Glossary)](yoga/Yoga_Glossary_Master.md)
+
+**练习与技术**
+- [体式与调息 (Asana & Pranayama)](yoga/Yoga_Asana_Pranayama.md) | [体式库 (Asana Library)](yoga/asana-library/INDEX.md)
+- [冥想 (Meditation)](yoga/Yoga_Meditation_Dharana_Dhyana.md) | [Mantra与声音 (Mantra & Nada)](yoga/Yoga_Mantra_Nada_Chanting.md)
+- [六业净化 (Shatkarma)](yoga/Yoga_Shatkarma_Cleansing.md) | [昆达里尼 (Kundalini)](yoga/Yoga_Advanced_Kriya_Kundalini.md)
+- [Yoga Nidra](yoga/Yoga_Nidra.md) | [那洛六法 (Six Yogas of Naropa)](yoga/six-yogas-naropa/)
+
+**科学与治疗**
+- [解剖学 (Anatomy)](yoga/Yoga_Anatomy_Physiology.md) | [神经科学 (Neuroscience)](yoga/Yoga_Neuroscience_Modern_Research.md)
+- [瑜伽治疗 (Therapy)](yoga/Yoga_Therapy.md) | [心理健康 (Mental Health)](yoga/Yoga_Mental_Health_Clinical.md)
+- [阿育吠陀整合 (Ayurveda)](yoga/Yoga_Ayurvedic_Therapy_Integration.md) | [中医整合 (TCM)](yoga/Yoga_TCM_Integration.md)
+
+**人群与生活**
+- [特殊人群 (Populations)](yoga/Yoga_Specific_Populations.md) | [女性健康 (Women)](yoga/Yoga_Women_Health.md)
+- [营养与生活 (Nutrition)](yoga/Yoga_Nutrition_Lifestyle.md) | [现代流派 (Styles)](yoga/Yoga_Modern_Styles.md)
+
+**职业与资源**
+- [伦理与专业 (Ethics)](yoga/Yoga_Ethics_Business_Professional.md) | [静修设计 (Retreats)](yoga/Yoga_Retreat_Workshop_Design.md)
+- [科技与数字 (Technology)](yoga/Yoga_Technology_Digital.md) | [资源指南 (Resources)](yoga/Yoga_Resources.md)
 
 ### 2. 🏮 禅宗与东亚静修 (Zen & East Asian Contemplation)
 - [禅宗智慧与传承 (Zen Wisdom)](religions/zen/Zen_Wisdom_Lineage.md)
@@ -41,9 +53,12 @@
 - [道教心理养生 (Psychological Cultivation)](religions/dao/Daoist_Psychological_Health_Cultivation.md)
 
 ### 3.5 黄帝内经养生 (Huangdi Neijing Health Cultivation)
-- [**内经养生核心体系 (Neijing Yangsheng Core)**](tcm-neijing/) **[NEW]** - 四气调神、五脏养生、子午流注、情志调摄
+- [**内经养生核心体系 (Neijing Yangsheng Core)**](tcm-neijing/) - 四气调神、五脏养生、子午流注、情志调摄
   - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/Neijing_Yangsheng_Overview.md)
   - [内经养生实践指南 (Practice Guide)](tcm-neijing/Neijing_Yangsheng_Practice.md)
+
+### 3.6 ☯️ 太极拳与身心调适 (Tai Chi & Mind-Body Regulation)
+- [太极拳心理调适机制 (Tai Chi Psychological Adjustment)](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
 
 ### 4. ☸️ 佛教智慧体系 (Buddhist Wisdom System)
 - [佛教核心概论 (Core Overview)](religions/buddhism/Buddhism_Core_Overview.md)
@@ -61,11 +76,12 @@
   - [藏医与曼茶罗疗愈 (Tibetan Medicine)](religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md)
 
 ### 5. 🏛️ 全球灵性与古典哲学 (Global Spirituality & Philosophy)
-- [西方实用哲学：斯多葛与存在主义](philosophy/western-philosophy/western/Philosophy_Western_Stoicism_Existentialism.md)
+- [西方实用哲学：斯多葛与存在主义](philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md)
 - [东亚哲学体系 (East Asian Philosophy)](philosophy/east-asian-philosophy/)
   - [儒家 (Confucianism)](philosophy/east-asian-philosophy/china/confucianism/)
   - [道家哲学 (Taoist Philosophy)](philosophy/east-asian-philosophy/china/taoism/)
   - [诸子百家 (Other Schools)](philosophy/east-asian-philosophy/china/other-schools/)
+- [克里希那穆提教学 (Krishnamurti Teachings)](religions/wisdom-traditions/Krishnamurti_Teachings.md)
 - [基督宗教内在疗愈 (Christian Inner Healing)](religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md)
 - [伊斯兰心理与净心术 (Islamic Psychology)](religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md)
 - [萨满疗愈与自然智慧 (Shamanic Healing)](religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md)

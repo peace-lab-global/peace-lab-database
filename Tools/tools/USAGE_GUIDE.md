@@ -40,7 +40,7 @@ python quality_checker.py
 
 # 3. 查看分析报告
 cat knowledge_base_analysis.json
-cat quality_report.json
+cat ../reports/quality_report.json
 ```
 
 ## 🔧 核心功能详解

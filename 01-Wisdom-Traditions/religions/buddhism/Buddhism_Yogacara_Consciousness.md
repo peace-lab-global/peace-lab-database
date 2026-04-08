@@ -367,6 +367,29 @@
 | **西方研究** | *Buddhist Philosophy of Mind* | D. Coseru | 哲学分析 |
 | **临床应用** | *The Embodied Mind* | Varela等 | 认知科学整合 |
 
+--
+
+## 9. 深度专题导航 (Deep Topic Navigation)
+
+唯识学体系博大精深，以下专题文档提供更深入的分析：
+
+| 专题 | 文件 | 核心内容 | 适合什么时候读 |
+|---|---|---|---|
+| **五位百法全解** | [百法明门论与五位百法](./core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md) | 百法的五大分类、每一法的详细解说、修行应用 | 想系统了解唯识的"元素周期表" |
+| **认识论与因明** | [唯识认识论与因明逻辑](./core-philosophy/Buddhism_Yogacara_Epistemology.md) | 三量论、四分说深度、陈那法称因明体系 | 想了解"你怎么知道你知道的" |
+| **八识深入详论** | [唯识学与八识心王详论](./core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) | 八识的历史、相互关系、现代心理学整合 | 想更深入理解八识的运作 |
+| **与中观的对话** | [唯识与中观的对话与融合](./core-philosophy/Buddhism_Yogacara_Madhyamaka_Dialogue.md) | 两大学派的辩论、融合、互补 | 想了解唯识和中观的关系 |
+
+### 表9.1 唯识学学习路线建议 (Study Path)
+
+| 阶段 | 学什么 | 核心文档 | 时间建议 |
+|---|---|---|---|
+| **入门** | 八识的基本概念、三性说 | 本文档1-5章 | 1-2个月 |
+| **基础** | 百法体系、种子学说 | 本文档 + 百法明门论 | 2-3个月 |
+| **进阶** | 认识论、因明逻辑、四分说 | 认识论与因明 | 3-6个月 |
+| **深入** | 与中观的辩论、融合修行 | 对话与融合 | 持续 |
+| **实修** | 五重唯识观、四寻伺四如实智 | 认识论文档第5章 | 持续 |
+
 ---
 
 *本文档为Peace Lab Database唯识学专项资料。*

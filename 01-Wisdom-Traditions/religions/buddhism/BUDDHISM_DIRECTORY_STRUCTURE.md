@@ -24,14 +24,19 @@ buddhism/
 
 | 文件名 | 内容主题 | 页数 | 专业程度 | 交叉引用 |
 |---|---|---|---|---|
-| `Buddhism_Pratiyasamutpada_Emptiness.md` | 缘起性空哲学详论 | 248行 | 高级 | [三法印](Buddhism_Three_Seals_One_Reality.md) [中观哲学](Buddhism_Madhyamaka_Philosophy_System.md) |
-| `Buddhism_Three_Seals_One_Reality.md` | 三法印与一实相印深度解析 | 248行 | 中高级 | [缘起性空](Buddhism_Pratiyasamutpada_Emptiness.md) [如来藏](Buddhism_Tathagatagarbha.md) |
-| `Buddhism_Madhyamaka_Philosophy_System.md` | 中观哲学体系详论 | 279行 | 高级 | [空性哲学](../Buddhism_Madhyamaka_Philosophy.md) [缘起性空](Buddhism_Pratiyasamutpada_Emptiness.md) |
-| `Buddhism_Yogacara_Eight_Consciousnesses.md` | 唯识学与八识心王详论 | 300行 | 高级 | [心识理论](../Buddhism_Yogacara_Consciousness.md) [心理学应用](../psychology/Buddhism_Psychotherapy_Theory.md) |
-| `Buddhism_Huayan_Dharmadhatu.md` | 华严哲学法界缘起详论 | 231行 | 高级 | [系统思维](Buddhism_Pratiyasamutpada_Emptiness.md) [圆融无碍](Buddhism_Tathagatagarbha.md) |
-| `Buddhism_Tathagatagarbha.md` | 如来藏思想详论 | 244行 | 中高级 | [佛性理论](../Buddhism_Core_Overview.md) [三法印](Buddhism_Three_Seals_One_Reality.md) |
+| `Buddhism_Pratiyasamutpada_Emptiness.md` | 缘起性空哲学详论 | 248行 | 高级 | [三法印](core-philosophy/Buddhism_Three_Seals_One_Reality.md) [中观哲学](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) |
+| `Buddhism_Three_Seals_One_Reality.md` | 三法印与一实相印深度解析 | 248行 | 中高级 | [缘起性空](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) [如来藏](core-philosophy/Buddhism_Tathagatagarbha.md) |
+| `Buddhism_Madhyamaka_Philosophy_System.md` | 中观哲学体系详论 | 279行 | 高级 | [空性哲学](Buddhism_Madhyamaka_Philosophy.md) [缘起性空](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) |
+| `Buddhism_Yogacara_Eight_Consciousnesses.md` | 唯识学与八识心王详论 | 300行 | 高级 | [心识理论](Buddhism_Yogacara_Consciousness.md) [心理学应用](psychology/Buddhism_Psychotherapy_Theory.md) |
+| `Buddhism_Huayan_Dharmadhatu.md` | 华严哲学法界缘起详论 | 231行 | 高级 | [系统思维](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) [圆融无碍](core-philosophy/Buddhism_Tathagatagarbha.md) |
+| `Buddhism_Tathagatagarbha.md` | 如来藏思想详论 | 244行 | 中高级 | [佛性理论](Buddhism_Core_Overview.md) [三法印](core-philosophy/Buddhism_Three_Seals_One_Reality.md) |
+| `Buddhism_Yogacara_Hundred_Dharmas.md` | 百法明门论与五位百法 | 305行 | 中高级 | [唯识八识](core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) [唯识认识论](core-philosophy/Buddhism_Yogacara_Epistemology.md) |
+| `Buddhism_Yogacara_Epistemology.md` | 唯识认识论与因明逻辑 | 217行 | 高级 | [唯识八识](core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) [百法](core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md) |
+| `Buddhism_Madhyamaka_Nagarjuna_Works.md` | 龙树论典体系深度解析 | 197行 | 高级 | [中观哲学](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) [应成中观](core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md) |
+| `Buddhism_Madhyamaka_Prasangika_Tradition.md` | 应成中观传统 | 183行 | 高级 | [龙树论典](core-philosophy/Buddhism_Madhyamaka_Nagarjuna_Works.md) [中观哲学](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) |
+| `Buddhism_Yogacara_Madhyamaka_Dialogue.md` | 唯识与中观的对话与融合 | 189行 | 高级 | [唯识八识](core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) [应成中观](core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md) |
 
-**总计：** 6个文件，约1550行，涵盖佛教哲学的核心理论体系
+**总计：** 12个文件，约3441行，涵盖佛教哲学的完整理论体系，包含唯识学、中观学、两学派融合等深度专题
 
 ### 2. 各宗派传统 (Various Sectarian Traditions)
 **路径：** `buddhism/traditions/`
@@ -58,7 +63,7 @@ buddhism/
 
 | 文件名 | 内容主题 | 页数 | 专业程度 | 交叉引用 |
 |---|---|---|---|---|
-| `Buddhism_Ethics_Comprehensive.md` | 佛教戒律与伦理学综合研究 | 211行 | 中高级 | [戒律基础](../Buddhism_Vinaya_Ethics.md) [菩萨戒](../core-philosophy/Buddhism_Tathagatagarbha.md) |
+| `Buddhism_Ethics_Comprehensive.md` | 佛教戒律与伦理学综合研究 | 211行 | 中高级 | [戒律基础](Buddhism_Vinaya_Ethics.md) [菩萨戒](core-philosophy/Buddhism_Tathagatagarbha.md) |
 
 **总计：** 1个文件，约211行，完整的伦理学体系
 
@@ -67,7 +72,7 @@ buddhism/
 
 | 文件名 | 内容主题 | 页数 | 实践导向 | 交叉引用 |
 |---|---|---|---|---|
-| `Buddhism_Meditation_Practice_System.md` | 禅修实践方法体系详论 | 203行 | 实践指导 | [止观基础](../Buddhism_Samatha_Vipassana.md) [四念处](../Buddhism_Four_Noble_Truths.md) |
+| `Buddhism_Meditation_Practice_System.md` | 禅修实践方法体系详论 | 203行 | 实践指导 | [止观基础](Buddhism_Samatha_Vipassana.md) [四念处](Buddhism_Four_Noble_Truths.md) |
 
 ### 4. 基础概论文件 (Foundation Overview Files)
 **路径：** `buddhism/` (根目录)
@@ -96,7 +101,7 @@ buddhism/
 
 | 文件名 | 内容主题 | 页数 | 深度级别 | 交叉引用 |
 |---|---|---|---|---|
-| `Buddhism_Advanced_Practice_Topics.md` | 高级修行主题详论 | 179行 | 高级 | [菩提心](../core-philosophy/Buddhism_Tathagatagarbha.md) [空性见](../core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) |
+| `Buddhism_Advanced_Practice_Topics.md` | 高级修行主题详论 | 179行 | 高级 | [菩提心](core-philosophy/Buddhism_Tathagatagarbha.md) [空性见](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) |
 
 **总计：** 1个文件，约179行，深入的修行指导
 

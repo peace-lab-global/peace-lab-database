@@ -4,7 +4,7 @@
 > - [恋物癖概览](../Paraphilia_Overview.md) - 基础概念和整体框架
 > - [具体恋物类型](./) - 各类性迷恋的详细特征
 > - [恋物癖质量报告](../Paraphilia_Quality_Report.md) - 基础质量评估
-> - [项目总结](../PROJECT_SUMMARY.md) - 整体项目回顾
+> - [项目总结](PROJECT_SUMMARY.md) - 整体项目回顾
 
 ## 📊 质量评估概览
 

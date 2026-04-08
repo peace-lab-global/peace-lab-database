@@ -350,7 +350,7 @@
 本文件与以下项目模块建立深度链接：
 - [美学理论](../framework/Framework_Aesthetics_Theory.md)
 - [文化心理学](../psychology/Psychology_Cultural.md)
-- [艺术治疗](../art-therapy/Art_Therapy_Overview.md)
+- [艺术治疗](../../../04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md)
 - [创意产业](../framework/Framework_Creative_Industries.md)
 - [文化遗产保护](../framework/Framework_Cultural_Heritage.md)
 

@@ -136,7 +136,7 @@
 本文件与以下项目模块建立深度链接：
 - [教育心理学](../psychology/Psychology_Educational.md)
 - [学习科学](../framework/Framework_Learning_Science.md)
-- [职业教育](../vocational-psychology/Vocational_Psychology_Overview.md)
+- [职业教育](../../../02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Overview.md)
 - [人才培养](../framework/Framework_Talent_Development.md)
 - [组织学习](../framework/Framework_Organizational_Learning.md)
 

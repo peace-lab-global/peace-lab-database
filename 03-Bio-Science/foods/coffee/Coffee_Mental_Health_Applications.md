@@ -1,6 +1,6 @@
 # Coffee & Mental Health Clinical Applications (咖啡与心理健康临床应用)
 
-**重要提醒**：关于咖啡因使用障碍的详细诊断、评估和治疗方案，请参考专门的 [咖啡因成瘾与咖啡使用障碍文档](../addiction/Addiction_Caffeine_Coffee.md)。本文档主要关注咖啡因对各类精神障碍的影响。
+**重要提醒**：关于咖啡因使用障碍的详细诊断、评估和治疗方案，请参考专门的 [咖啡因成瘾与咖啡使用障碍文档](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Coffee.md)。本文档主要关注咖啡因对各类精神障碍的影响。
 
 ## 特殊人群咖啡因使用指南 (Special Populations Caffeine Use Guidelines)
 
@@ -48,7 +48,7 @@
 | **精神分裂症** | 可能中性至轻度负面 | 低-中 | 通常无需完全限制 | 与抗精神病药有药代动力学交互 | 监测症状,注意药物相互作用(氯氮平) |
 | **ADHD** | 可能有限改善 | 中 | 可考虑适量(非首选治疗) | 轻度改善注意力与警觉 | 不替代规范治疗,可作为辅助(儿童不推荐) |
 | **失眠障碍** | 明确恶化 | 极高 | 严格限制,尤其下午后 | 直接干扰睡眠起始与结构 | 失眠治疗必须评估与限制咖啡因 |
-| **物质使用障碍** | 复杂 | 中 | 康复期可能有辅助作用 | 可能帮助替代行为,但也有交叉成瘾风险 | 需在康复专业人员指导下使用 | 详细评估请参考[咖啡因成瘾专项文档](../addiction/Addiction_Caffeine_Coffee.md) |
+| **物质使用障碍** | 复杂 | 中 | 康复期可能有辅助作用 | 可能帮助替代行为,但也有交叉成瘾风险 | 需在康复专业人员指导下使用 | 详细评估请参考[咖啡因成瘾专项文档](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Coffee.md) |
 
 ---
 
@@ -227,7 +227,7 @@
 
 ## 咖啡因使用障碍风险评估工具 (Caffeine Use Disorder Risk Assessment Tools)
 
-**专业交叉引用**：以下为简化版筛查工具，详细诊断标准、评估流程和治疗方案请参考 [咖啡因成瘾与咖啡使用障碍专项文档](../addiction/Addiction_Caffeine_Coffee.md)。
+**专业交叉引用**：以下为简化版筛查工具，详细诊断标准、评估流程和治疗方案请参考 [咖啡因成瘾与咖啡使用障碍专项文档](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Coffee.md)。
 
 ### 快速筛查问卷 (Quick Screening Questionnaire)
 

@@ -14,4 +14,4 @@
 - [Marital Loneliness Relief](Marital_Loneliness_Relief.md) - 婚后孤独缓释策略与实践指南 **[NEW]**
 
 ### 关联文档
-- 📂 [通用孤独研究体系](../../../psychology/loneliness/INDEX.md) - 孤独感研究完整索引
+- 📂 [通用孤独研究体系](../../../psychology/social/loneliness/INDEX.md) - 孤独感研究完整索引

@@ -37,8 +37,8 @@
 |---|---|---|---|---|---|
 | **缘起性空** | 三法印、中观哲学 | [缘起性空详论](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) [中观体系](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) | 哲学基础 | 解脱智慧 | 系统论、复杂科学 |
 | **三法印** | 无常、苦、无我 | [三法印解析](core-philosophy/Buddhism_Three_Seals_One_Reality.md) | 认证标准 | 正见建立 | 变化接纳、无常心理学 |
-| **戒定慧** | 三学、八正道 | [戒律伦理](ethics/Buddhism_Ethics_Comprehensive.md) [禅修体系](02-Mind-Psychology/meditation/Buddhism_Meditation_Practice_System.md) | 修行路径 | 实践框架 | 行为治疗、注意力训练 |
-| **慈悲喜舍** | 四无量心 | [四无量心疗愈](Buddhism_Four_Immeasurables.md) [心理治疗](02-Mind-Psychology/psychology/Buddhism_Psychotherapy_Theory.md) | 利他精神 | 心理健康 | 慈悲聚焦疗法、MSC |
+| **戒定慧** | 三学、八正道 | [戒律伦理](ethics/Buddhism_Ethics_Comprehensive.md) [禅修体系](meditation/Buddhism_Meditation_Practice_System.md) | 修行路径 | 实践框架 | 行为治疗、注意力训练 |
+| **慈悲喜舍** | 四无量心 | [四无量心疗愈](Buddhism_Four_Immeasurables.md) [心理治疗](psychology/Buddhism_Psychotherapy_Theory.md) | 利他精神 | 心理健康 | 慈悲聚焦疗法、MSC |
 | **菩提心** | 菩萨道、六度 | [如来藏思想](core-philosophy/Buddhism_Tathagatagarbha.md) [高级主题](advanced/Buddhism_Advanced_Practice_Topics.md) | 大乘理想 | 究竟目标 | 利他主义、积极心理学 |
 
 ---

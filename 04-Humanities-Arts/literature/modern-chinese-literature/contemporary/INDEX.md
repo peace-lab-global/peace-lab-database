@@ -27,3 +27,7 @@
 - [《围城》Fortress Besieged](fortress-besieged/) - 钱钟书 | 围城心态、知识分子讽刺、婚姻幻灭
 - [《边城》Border Town](border-town/) - 沈从文 | 田园乌托邦、纯真的悲剧、人性之美
 - [《天局》The Heavenly Game](the-heavenly-game/) - 矫健 | 人与天道的终极博弈（短篇）
+
+### 跨文化与海外华语文学
+- [《慢船去中国》Slow Boat to China](slow-boat-to-china/) - 陈丹燕 | 上海买办家族史、殖民记忆、身份认同、跨文化撕裂
+- [《接骨师之女》The Bonesetter's Daughter](the-bonesetters-daughter/) - 谭恩美 | 华裔美国文学、母女关系、跨代创伤、文化认同

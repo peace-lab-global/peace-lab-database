@@ -103,26 +103,26 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Daniel Kahneman** | The riddle of experience vs. memory | 2010 | 体验自我vs记忆自我 | [认知偏差](Psychology_Cognition.md) | 20:50 | [观看](https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory) |
-| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式的力量 | [发展心理](Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
+| **Daniel Kahneman** | The riddle of experience vs. memory | 2010 | 体验自我vs记忆自我 | [认知偏差](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 20:50 | [观看](https://www.ted.com/talks/daniel_kahneman_the_riddle_of_experience_vs_memory) |
+| **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式的力量 | [发展心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
 | **Angela Duckworth** | Grit: The power of passion and perseverance | 2013 | 毅力比天赋更重要 | [人格心理](Psychology_Personality.md) | 6:12 | [观看](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) |
-| **Paul Bloom** | The origins of pleasure | 2011 | 快乐的心理学机制 | [情感心理](Psychology_Emotion.md) | 18:18 | [观看](https://www.ted.com/talks/paul_bloom_the_origins_of_pleasure) |
+| **Paul Bloom** | The origins of pleasure | 2011 | 快乐的心理学机制 | [情感心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 18:18 | [观看](https://www.ted.com/talks/paul_bloom_the_origins_of_pleasure) |
 
 ### 2.2 神经科学与大脑研究
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **David Eagleman** | Can we create new senses for humans? | 2015 | 大脑的可塑性与感官扩展 | [神经科学](Psychology_Cognition.md) | 16:33 | [观看](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans) |
-| **Vilayanur Ramachandran** | The neurons that shaped civilization | 2009 | 镜像神经元与人类文明 | [认知神经科学](Psychology_Cognition.md) | 23:48 | [观看](https://www.ted.com/talks/vilayanur_ramachandran_the_neurons_that_shaped_civilization) |
+| **David Eagleman** | Can we create new senses for humans? | 2015 | 大脑的可塑性与感官扩展 | [神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 16:33 | [观看](https://www.ted.com/talks/david_eagleman_can_we_create_new_senses_for_humans) |
+| **Vilayanur Ramachandran** | The neurons that shaped civilization | 2009 | 镜像神经元与人类文明 | [认知神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 23:48 | [观看](https://www.ted.com/talks/vilayanur_ramachandran_the_neurons_that_shaped_civilization) |
 | **Sandra Aamodt** | Why diets make us fat | 2013 | 大脑如何调节体重 | [神经内分泌](Psychology_Biological.md) | 13:29 | [观看](https://www.ted.com/talks/sandra_aamodt_why_diets_make_us_fat) |
 
 ### 2.3 情绪与心理健康
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Olivia Remes** | How to make stress your friend | 2018 | 压力的积极转化 | [压力管理](Chronic_Stress_Overview.md) | 12:33 | [观看](https://www.ted.com/talks/olivia_remes_how_to_make_stress_your_friend) |
-| **Johann Hari** | This could be why you're depressed or anxious | 2018 | 抑郁焦虑的社会根源 | [抑郁症](Depression_Overview.md) | 14:46 | [观看](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious) |
-| **Guy Winch** | Why we all need to practice emotional first aid | 2014 | 心理急救的重要性 | [心理自助](Psychology_Self_Help_Protocols.md) | 17:24 | [观看](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid) |
+| **Olivia Remes** | How to make stress your friend | 2018 | 压力的积极转化 | [压力管理](../../../02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Overview.md) | 12:33 | [观看](https://www.ted.com/talks/olivia_remes_how_to_make_stress_your_friend) |
+| **Johann Hari** | This could be why you're depressed or anxious | 2018 | 抑郁焦虑的社会根源 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 14:46 | [观看](https://www.ted.com/talks/johann_hari_this_could_be_why_you_re_depressed_or_anxious) |
+| **Guy Winch** | Why we all need to practice emotional first aid | 2014 | 心理急救的重要性 | [心理自助](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md) | 17:24 | [观看](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid) |
 
 ---
 
@@ -132,15 +132,15 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Atul Gawande** | How do we heal medicine? | 2012 | 医疗系统的根本性改革 | [医疗体系](Framework_Industry_Trends.md) | 19:58 | [观看](https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine) |
+| **Atul Gawande** | How do we heal medicine? | 2012 | 医疗系统的根本性改革 | [医疗体系](../../../02-Mind-Psychology/psychology/foundations/framework/Framework_Industry_Trends.md) | 19:58 | [观看](https://www.ted.com/talks/atul_gawande_how_do_we_heal_medicine) |
 | **Siddhartha Mukherjee** | The laws of medicine | 2015 | 医学的不确定性原理 | [循证医学](Framework_Evidence_Based.md) | 16:44 | [观看](https://www.ted.com/talks/siddhartha_mukherjee_the_laws_of_medicine) |
-| **Raj Persaud** | How to spot a liar | 2005 | 身体语言与欺骗检测 | [非言语沟通](Psychology_Social.md) | 18:51 | [观看](https://www.ted.com/talks/raj_persaud_how_to_spot_a_liar) |
+| **Raj Persaud** | How to spot a liar | 2005 | 身体语言与欺骗检测 | [非言语沟通](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 18:51 | [观看](https://www.ted.com/talks/raj_persaud_how_to_spot_a_liar) |
 
 ### 3.2 公共健康与流行病学
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Bill Gates** | The next outbreak? We're not ready | 2015 | 全球流行病防范 | [公共卫生](Framework_Industry_Trends.md) | 18:35 | [观看](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready) |
+| **Bill Gates** | The next outbreak? We're not ready | 2015 | 全球流行病防范 | [公共卫生](../../../02-Mind-Psychology/psychology/foundations/framework/Framework_Industry_Trends.md) | 18:35 | [观看](https://www.ted.com/talks/bill_gates_the_next_outbreak_we_re_not_ready) |
 | **Hans Rosling** | The best stats you've ever seen | 2006 | 全球健康数据可视化 | [统计学](Framework_Research_Methods.md) | 19:50 | [观看](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) |
 | **Bonnie Bassler** | How bacteria "talk" | 2009 | 细菌群体感应机制 | [微生物学](Framework_Biological_Sciences.md) | 18:23 | [观看](https://www.ted.com/talks/bonnie_bassler_how_bacteria_talk) |
 
@@ -148,9 +148,9 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Brian Wansink** | Mindless eating | 2012 | 无意识进食的心理学 | [饮食行为](Nutritional_Natural_Therapy.md) | 16:32 | [观看](https://www.ted.com/talks/brian_wansink_what_you_don_t_know_about_food) |
-| **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的脑健康 | [营养精神病学](Nutritional_Natural_Therapy.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
-| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](Bio_Nutrition_Gut.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
+| **Brian Wansink** | Mindless eating | 2012 | 无意识进食的心理学 | [饮食行为](../../../03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md) | 16:32 | [观看](https://www.ted.com/talks/brian_wansink_what_you_don_t_know_about_food) |
+| **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的脑健康 | [营养精神病学](../../../03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
+| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](../../../03-Bio-Science/foods/Bio_Nutrition_Gut.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
 
 ---
 
@@ -160,15 +160,15 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](Psychology_Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
-| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](Society_Community_Support.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
-| **Elizabeth Lesser** | Say your values out loud | 2015 | 价值观的公开表达 | [道德心理学](Psychology_Social.md) | 13:22 | [观看](https://www.ted.com/talks/elizabeth_lesser_say_your_values_out_loud) |
+| **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
+| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-Bio-Science/sexuality/Society_Community_Support.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
+| **Elizabeth Lesser** | Say your values out loud | 2015 | 价值观的公开表达 | [道德心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 13:22 | [观看](https://www.ted.com/talks/elizabeth_lesser_say_your_values_out_loud) |
 
 ### 4.2 政治哲学与治理
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Yuval Noah Harari** | Nationalism vs. globalism | 2017 | 民族主义与全球主义的冲突 | [政治心理学](Political_Psychology_Overview.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
+| **Yuval Noah Harari** | Nationalism vs. globalism | 2017 | 民族主义与全球主义的冲突 | [政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
 | **Ian Bremmer** | How the US should use its power | 2018 | 美国全球权力运用 | [国际关系](Political_Psychology_International_Relations.md) | 14:28 | [观看](https://www.ted.com/talks/ian_bremmer_how_the_us_should_use_its_power) |
 | **Zeynep Tufekci** | We're building a dystopia just to make people click on ads | 2017 | 数字监控资本主义批判 | [媒体心理学](Media_Psychology_Overview.md) | 14:36 | [观看](https://www.ted.com/talks/zeynep_tufekci_we_re_building_a_dystopia_just_to_make_people_click_on_ads) |
 
@@ -222,8 +222,8 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Barbara Oakley** | Learning how to learn | 2017 | 学习方法论 | [认知科学](Psychology_Cognition.md) | 13:46 | [观看](https://www.ted.com/talks/barbara_oakley_learning_how_to_learn) |
-| **Annie Murphy Paul** | What we learn before we're born | 2015 | 胎儿期学习机制 | [发展心理学](Psychology_Development.md) | 12:46 | [观看](https://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born) |
+| **Barbara Oakley** | Learning how to learn | 2017 | 学习方法论 | [认知科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 13:46 | [观看](https://www.ted.com/talks/barbara_oakley_learning_how_to_learn) |
+| **Annie Murphy Paul** | What we learn before we're born | 2015 | 胎儿期学习机制 | [发展心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Development.md) | 12:46 | [观看](https://www.ted.com/talks/annie_murphy_paul_what_we_learn_before_we_re_born) |
 
 ---
 
@@ -252,7 +252,7 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Amy Cuddy** | Your body language may shape who you are | 2012 | 身体语言的影响力 | [非言语沟通](Psychology_Social.md) | 21:02 | [观看](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) |
+| **Amy Cuddy** | Your body language may shape who you are | 2012 | 身体语言的影响力 | [非言语沟通](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 21:02 | [观看](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) |
 | **Chip Kidd** | Designing books is no laughing matter | 2012 | 书籍设计的艺术 | [视觉设计](Framework_Design_Aesthetics.md) | 17:33 | [观看](https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is) |
 | **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术心理学](Psychology_Creative_Arts.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
@@ -261,7 +261,7 @@ TED演讲全领域分类体系
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家的聆听艺术 | [音乐心理学](Psychology_Music_Therapy.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
-| **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](Classical_Music_Therapeutic_Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
+| **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
 
 ---
 
@@ -325,10 +325,10 @@ TED演讲全领域分类体系
 
 本TED内容体系与项目其他专业知识模块建立以下关联：
 
-- **心理学领域**：与[心理学](02-Mind-Psychology/psychology/)、[发展心理学](child-development-psychology/)、[青少年心理学](adolescent-psychology/)等模块深度对接
-- **健康医学**：与[生物医学](bio/)、[睡眠](sleep/)、[营养](nutritional/)等健康相关模块形成互补
-- **社会议题**：与[社会心理学](02-Mind-Psychology/psychology/)、[政治心理学](political-psychology/)等社会科学模块相互呼应
-- **科技前沿**：与[脑科学](brain/)、[人工智能](framework/)等技术模块建立知识桥梁
+- **心理学领域**：与[心理学](../../../02-Mind-Psychology/psychology/)、[发展心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/)、[青少年心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/)等模块深度对接
+- **健康医学**：与[生物医学](bio/)、[睡眠](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)、[营养](../../../03-Bio-Science/foods/nutritional/)等健康相关模块形成互补
+- **社会议题**：与[社会心理学](../../../02-Mind-Psychology/psychology/)、[政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/)等社会科学模块相互呼应
+- **科技前沿**：与[脑科学](../../../03-Bio-Science/biology/brain/)、[人工智能](../../../02-Mind-Psychology/psychology/foundations/framework/)等技术模块建立知识桥梁
 
 ---
 

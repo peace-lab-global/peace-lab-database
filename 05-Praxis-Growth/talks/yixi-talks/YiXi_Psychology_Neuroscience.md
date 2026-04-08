@@ -157,11 +157,11 @@
 
 ### 8.3 与现有知识体系对接
 本文件与以下项目模块建立深度链接：
-- [心理学流派与理论体系](../psychology/Psychology_Schools_Theories.md)
-- [神经科学基础](../brain/Brain_Clinical_Applications.md)
-- [儿童发展心理学](../child-development-psychology/Child_Development_Quality_Report.md)
-- [积极心理学](../psychology/Psychology_Positive_Psychology.md)
-- [认知科学](../personal-development/Personal_Development_Growth_Mindset.md)
+- [心理学流派与理论体系](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md)
+- [神经科学基础](../../../03-Bio-Science/biology/brain/Brain_Clinical_Applications.md)
+- [儿童发展心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/Child_Development_Quality_Report.md)
+- [积极心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md)
+- [认知科学](../../personal-development/topics/Personal_Development_Growth_Mindset.md)
 
 ---
 

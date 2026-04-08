@@ -156,7 +156,7 @@
 - [电视剧疗法](../television-therapy/Television_Therapy.md) - 长期叙事陪伴机制
 - [媒体临床应用](../../media-therapy/Media_Clinical_Applications.md) - 病理专项媒体处方
 - [媒体安全伦理](../../media-therapy/Media_Safety_Ethics.md) - 触发警示与内容分级
-- [存在主义真空与心理干预](../../../../02-Mind-Psychology/psychology/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md) - 意义危机与心理修复
+- [存在主义真空与心理干预](../../../../02-Mind-Psychology/psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md) - 意义危机与心理修复
 
 ### 延伸阅读
 - 同类反英雄主角剧集比较研究 (*如《迷失》、《真探》、《汉尼拔》*)

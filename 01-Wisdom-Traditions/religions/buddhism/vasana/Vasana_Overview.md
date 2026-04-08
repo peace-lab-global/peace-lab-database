@@ -219,10 +219,10 @@
 
 | 文档名称 | 相关性 | 链接 |
 |---|---|---|
-| **[藏传佛教心理学](Tibetan_Buddhist_Psychology.md)** | 51心所、八识、五毒转五智 | 心识结构详解 |
-| **[佛教疗愈心理学](Wisdom_Buddhism_Healing_Psychology.md)** | 四圣谛、十二因缘、阿毗达摩 | 佛教心理学基础 |
-| **[大圆满/佐钦](Dzogchen_Great_Perfection.md)** | 本觉、转识成智 | 藏传转化方法 |
-| **[冥想类型与分类](Meditation_Types_Classification.md)** | 冥想分类与机制 | 实修方法背景 |
+| **[藏传佛教心理学](../../tibetan-buddhism/Tibetan_Buddhist_Psychology.md)** | 51心所、八识、五毒转五智 | 心识结构详解 |
+| **[佛教疗愈心理学](../../wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md)** | 四圣谛、十二因缘、阿毗达摩 | 佛教心理学基础 |
+| **[大圆满/佐钦](../dzogchen/Dzogchen_Great_Perfection.md)** | 本觉、转识成智 | 藏传转化方法 |
+| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md)** | 冥想分类与机制 | 实修方法背景 |
 
 ---
 

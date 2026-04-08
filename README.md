@@ -1,6 +1,6 @@
 # Peace Lab Database (平静实验室知识库)
 
-这是一个专业的、多维度的身心疗愈与个人进化知识体系。项目通过严谨的 **“五大核心支柱”** 架构，整合了古代智慧传承、现代心理学、生命科学以及人文艺术实践。
+这是一个专业的、多维度的身心疗愈与个人进化知识体系。项目通过严谨的 **"五大核心支柱"** 架构，整合了古代智慧传承、现代心理学、生命科学以及人文艺术实践。
 
 ---
 
@@ -8,7 +8,7 @@
 *点击进入各大学科群索引 (Explore by Major Domain)*
 
 ### 1. [🏛️ 智慧传承 (Wisdom Traditions)](01-Wisdom-Traditions/INDEX.md)
-**核心领域**: 瑜伽哲学、禅宗/道家/佛教全体系、黄帝内经养生、东西方古典哲学、全球灵性疗愈。
+**核心领域**: 瑜伽哲学、禅宗/道家/佛教全体系、太极拳、黄帝内经养生、东西方古典哲学、全球灵性疗愈。
 
 ### 2. [🧠 心智与心理学 (Mind & Psychology)](02-Mind-Psychology/INDEX.md)
 **核心领域**: 现代心理流派、临床干预(焦虑/创伤/成瘾)、冥想技术(坛城/直指)、感官与循证疗法、情感银行与亲子理解。
@@ -24,8 +24,22 @@
 
 ---
 
+## 📚 快速导航 (Quick Navigation)
+
+| 导航 | 说明 |
+|------|------|
+| [📖 分类法与架构说明](TAXONOMY.md) | 五大支柱的分类原则与决策树 |
+| [📝 贡献指南](CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
+| [🔤 全局术语表](GLOSSARY.md) | 核心术语中英文映射 |
+| [🗺️ 学习路径](_meta/learning-paths/) | 主题化的推荐阅读路线 |
+| [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
+| [🔧 工具与脚本](Tools/tools/README.md) | 质量检查、链接验证等自动化工具 |
+| [🌐 Web 站点](Web/index.html) | 在线浏览版本 |
+
+---
+
 ## 项目统计 (Statistics)
-- **专题领域**: 141+ 
+- **专题领域**: 141+
 - **专业文档**: 1,852+
 - **核心行数**: 340,000+
 - **更新频率**: 每日迭代 (Daily Iteration)
@@ -34,7 +48,9 @@
 
 ## 最近更新 (Recent Updates)
 
-> 完整更新记录请查看 **[CHANGELOG](Plan/CHANGELOG.md)**
+> 完整更新记录请查看 **[CHANGELOG](Tools/CHANGELOG.md)**
 
 ---
 *本项目由 Peace Lab Global 维护，旨在为现代人提供多维度的认知工具与身心解决方案。*
+
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
