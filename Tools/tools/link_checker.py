@@ -177,12 +177,21 @@ class LinkChecker:
 
     @staticmethod
     def extract_links(file_path: Path) -> List[Tuple[str, int, str]]:
-        """从文件中提取所有 [text](url) 格式链接"""
+        """从文件中提取所有 [text](url) 格式链接（跳过行内代码和代码块）"""
         links = []
+        in_code_block = False
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 for line_num, line in enumerate(f, 1):
-                    for m in re.finditer(r'\[([^\]]*)\]\(([^)]+)\)', line):
+                    stripped = line.strip()
+                    if stripped.startswith('```'):
+                        in_code_block = not in_code_block
+                        continue
+                    if in_code_block:
+                        continue
+                    # 移除行内代码段后再提取链接
+                    clean_line = re.sub(r'`[^`]+`', '', line)
+                    for m in re.finditer(r'\[([^\]]*)\]\(([^)]+)\)', clean_line):
                         links.append((m.group(1), line_num, m.group(2)))
         except Exception as e:
             print(f"  ⚠️ 读取 {file_path} 出错: {e}")

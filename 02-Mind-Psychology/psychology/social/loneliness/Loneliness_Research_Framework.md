@@ -186,7 +186,7 @@ flowchart LR
 | **物质使用障碍** | OR=1.8-2.5 | 自我药理学机制 |
 | **自杀风险** | HR=2.0-3.5 | 绝望感和无归属感 |
 
-### 七、循证干预策略 (Evidence-Based Intervention Strategies)
+### 循证干预策略 (Evidence-Based Intervention Strategies)
 
 > 🔗 **相关文档链接**：
 > - [孤独干预效果评估](Loneliness_Prevention_Evaluation.md) - 干预效果的系统评估
@@ -248,7 +248,7 @@ flowchart LR
 | **志愿服务参与** | 结构化项目、技能培训 | 意义感增强、社会价值实现 | 强有力证据 |
 | **邻里互助网络** | 地域邻近性、互惠原则 | 日常支持获得、紧急援助渠道 | 中等强度证据 |
 
-### 八、新兴研究前沿 (Emerging Research Frontiers)
+### 新兴研究前沿 (Emerging Research Frontiers)
 
 #### 8.1 技术辅助干预
 
@@ -287,7 +287,7 @@ flowchart LR
 - **性别角色规范**与孤独求助行为
 - **宗教信仰**对孤独意义建构的作用
 
-### 九、未来研究方向 (Future Research Directions)
+### 未来研究方向 (Future Research Directions)
 
 #### 9.1 方法学创新
 
@@ -323,7 +323,7 @@ flowchart LR
    - 早期经历对成年期孤独的影响
    - 老年期孤独的独特机制
 
-### 十、临床实践指南 (Clinical Practice Guidelines)
+### 临床实践指南 (Clinical Practice Guidelines)
 
 #### 10.1 评估流程标准化
 

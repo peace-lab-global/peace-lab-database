@@ -76,7 +76,7 @@
 
 ### 深度链接建立
 - 与心理学相关模块：[心理学流派](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md)、[神经科学](../../../03-Bio-Science/biology/brain/Brain_Clinical_Applications.md)
-- 与健康医学模块：[生物医学](bio/)、[睡眠科学](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)、[营养学](../../../03-Bio-Science/foods/nutritional/)
+- 与健康医学模块：[生物医学](../../../03-Bio-Science/biology/)、[睡眠科学](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)、[营养学](../../../03-Bio-Science/foods/nutritional/)
 - 与社会发展模块：[社会心理学](../../../02-Mind-Psychology/psychology/)、[政治心理学](../../../02-Mind-Psychology/psychology/social/political-psychology/)
 - 与技术前沿模块：[人工智能](../../../02-Mind-Psychology/psychology/foundations/framework/)、[脑机接口](../../../03-Bio-Science/biology/brain/)
 
