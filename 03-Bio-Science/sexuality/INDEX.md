@@ -36,6 +36,8 @@
 - [乱伦研究 (Incest)](incest/)
 - [换偶研究 (Swinging)](swinging/)
 - [性偏好研究 (Paraphilia)](paraphilia/)
+- [**自慰心理学 (Masturbation Psychology)**](masturbation-psychology/INDEX.md) **[NEW: 4份文档]**
+  - 神经科学与生理机制、发展心理学视角、个体差异与人格因素、心理健康评估与干预
 
 ### 资源与质量 (Resources & Quality)
 
@@ -49,7 +51,7 @@
 | 维度 | 数量 |
 | :--- | :--- |
 | 核心文档 | 12份 |
-| 专题子目录 | 10个 |
+| 专题子目录 | 11个 |
 | 总计文档 | 100+ 份 |
 
 ---

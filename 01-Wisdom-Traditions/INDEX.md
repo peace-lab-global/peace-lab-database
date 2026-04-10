@@ -57,8 +57,14 @@
   - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/Neijing_Yangsheng_Overview.md)
   - [内经养生实践指南 (Practice Guide)](tcm-neijing/Neijing_Yangsheng_Practice.md)
 
-### 3.6 ☯️ 太极拳与身心调适 (Tai Chi & Mind-Body Regulation)
-- [太极拳心理调适机制 (Tai Chi Psychological Adjustment)](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
+### 3.6 ☯️ 太极拳与身心调适 (Tai Chi & Mind-Body Regulation) — [完整知识地图](tai-chi/INDEX.md) **[NEW]**
+- [太极拳总览 (Tai Chi Overview)](tai-chi/Tai_Chi_Overview.md) — 历史源流、核心哲学、太极拳与健康
+- [太极拳流派与风格 (Schools & Styles)](tai-chi/Tai_Chi_Schools_Styles.md) — 陈/杨/武/吴/孙五大流派
+- [太极拳基础与练习 (Fundamentals & Practice)](tai-chi/Tai_Chi_Fundamentals_Practice.md) — 桩功、套路、推手、器械
+- [太极拳心理调适机制 (Psychological Adjustment)](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) — 正念运动、情绪调节
+- [太极拳神经科学证据 (Neuroscience Evidence)](tai-chi/Tai_Chi_Neuroscience_Evidence.md) — 脑影像、HRV、认知
+- [太极拳临床应用 (Clinical Applications)](tai-chi/Tai_Chi_Clinical_Applications.md) — 慢性病、疼痛、跌倒预防
+- [太极拳与气功整合 (Qigong Integration)](tai-chi/Tai_Chi_Qigong_Integration.md) — 气功体系、八段锦、五禽戏
 
 ### 4. ☸️ 佛教智慧体系 (Buddhist Wisdom System)
 - [佛教核心概论 (Core Overview)](religions/buddhism/Buddhism_Core_Overview.md)
@@ -88,6 +94,15 @@
 - [全球三教合一研究 (Syncretism)](religions/syncretism/Syncretism_Three_Teachings.md)
 - [唯识学与阳明心学异同论 (Yogacara vs. Yangming)](religions/syncretism/Syncretism_Yogacara_Yangming_Comparison.md)
 - [法家管理心理学 (Legalist Management)](religions/legalist/Legalist_Management_Psychology.md)
+- [卡巴拉/犹太神秘主义 (Kabbalah)](religions/wisdom-traditions/Wisdom_Kabbalah_Jewish_Mysticism.md) **[NEW]**
+- [东亚书道 (Calligraphy Way)](religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md) **[NEW]**
+- [茶道与疗愈 (Tea Ceremony Healing)](religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md) **[NEW]**
+
+### 5.5 🕉️ 印度教/吠檀多哲学 (Vedanta Philosophy) **[NEW]**
+- [**吠檀多哲学体系**](philosophy/south-asian/india/vedanta/) — 不二论/限定不二/二元论/五鞘模型
+  - [吠檀多哲学总览](philosophy/south-asian/india/vedanta/Vedanta_Philosophy_Overview.md)
+  - [薄伽梵歌研读](philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md)
+  - [奥义书智慧](philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md)
 
 ---
 *返回根目录 [README.md](../README.md)*

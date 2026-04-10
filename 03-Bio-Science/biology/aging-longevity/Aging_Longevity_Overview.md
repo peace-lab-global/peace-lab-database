@@ -1,0 +1,266 @@
+# 衰老与长寿科学总览 | Aging & Longevity Science Overview
+
+> **学科定位**: 生物老年学 (Biogerontology) + 长寿医学 (Longevity Medicine)
+> **核心问题**: 为什么我们会衰老？能否延缓甚至逆转衰老？
+> **关键词**: Hallmarks of Aging / Blue Zones / Healthspan / Lifespan / Geroscience
+
+---
+
+## 1. 基础概念框架
+
+### 1.1 关键术语
+
+| 术语 | 英文 | 定义 |
+|------|------|------|
+| 寿命 | Lifespan | 从出生到死亡的总时长 |
+| 健康寿命 | Healthspan | 无重大疾病或残疾的生存年限 |
+| 最大寿命 | Maximum Lifespan | 物种记录的最长寿命（人类约122年，Jeanne Calment） |
+| 生物年龄 | Biological Age | 基于生物标志物评估的身体实际老化程度 |
+| 时序年龄 | Chronological Age | 按出生日期计算的年龄 |
+| 老年科学 | Geroscience | 研究衰老与慢性病关系的交叉学科 |
+| 衰老速率 | Rate of Aging | 个体随时间生物功能下降的速度 |
+
+### 1.2 衰老的本质
+
+- **衰老不是单一疾病**，而是多系统、多层级的功能退化过程
+- **Geroscience 假说**: 衰老是大多数慢性病的最大风险因素
+  - 靶向衰老机制比逐个治疗疾病更有效
+- **进化视角**: 衰老是自然选择压力在生殖期后减弱的结果
+  - 拮抗多效性 (Antagonistic Pleiotropy, Williams 1957)
+  - 一次性体细胞理论 (Disposable Soma, Kirkwood 1977)
+
+---
+
+## 2. 衰老的九大标志 (Hallmarks of Aging)
+
+> **里程碑文献**: Lopez-Otin et al. (2013) "The Hallmarks of Aging", Cell
+> **2023年更新**: 扩展至12个标志 (Lopez-Otin et al. 2023, Cell)
+
+### 2.1 经典九大标志
+
+| 类别 | 标志 | 英文 | 核心机制 |
+|------|------|------|----------|
+| **初级标志** (损伤源) | 基因组不稳定性 | Genomic Instability | DNA损伤累积，修复能力下降 |
+| | 端粒磨损 | Telomere Attrition | 每次细胞分裂端粒缩短50-200bp |
+| | 表观遗传改变 | Epigenetic Alterations | DNA甲基化模式改变、组蛋白修饰失调 |
+| | 蛋白质稳态丧失 | Loss of Proteostasis | 蛋白质错误折叠累积，自噬功能下降 |
+| **拮抗性标志** (损伤响应) | 线粒体功能障碍 | Mitochondrial Dysfunction | ROS增加、能量产出降低、mtDNA突变 |
+| | 营养感应失调 | Deregulated Nutrient Sensing | IGF-1/mTOR/AMPK/Sirtuins信号失衡 |
+| | 细胞衰老 | Cellular Senescence | 僵尸细胞累积，SASP分泌促炎因子 |
+| **综合性标志** (表型结果) | 干细胞耗竭 | Stem Cell Exhaustion | 组织再生与修复能力下降 |
+| | 细胞间通讯改变 | Altered Intercellular Communication | 免疫衰老(Immunosenescence)、慢性炎症(Inflammaging) |
+
+### 2.2 2023年新增标志
+
+| 标志 | 英文 | 说明 |
+|------|------|------|
+| 巨自噬功能障碍 | Disabled Macroautophagy | 自噬-溶酶体通路功能下降 |
+| 肠道微生态失调 | Dysbiosis | 肠道菌群多样性降低，促炎菌增加 |
+| 慢性炎症 | Chronic Inflammation | 从"细胞间通讯改变"独立为单独标志 |
+
+### 2.3 标志间的级联关系
+
+```
+初级标志（DNA损伤/端粒/表观遗传/蛋白稳态）
+        ↓ 累积损伤
+拮抗性标志（线粒体障碍/营养感应失调/细胞衰老）
+        ↓ 补偿失败
+综合性标志（干细胞耗竭/通讯改变/炎症）
+        ↓ 系统退化
+衰老表型：功能下降、慢性病、脆弱
+```
+
+---
+
+## 3. 主要衰老理论
+
+### 3.1 理论分类
+
+| 大类 | 理论 | 核心观点 |
+|------|------|----------|
+| **程序性理论** | 端粒钟理论 | 端粒长度决定细胞复制极限 (Hayflick Limit ~50次) |
+| | 表观遗传钟 | DNA甲基化模式按程序改变 (Horvath Clock) |
+| | 内分泌理论 | 激素系统（GH/IGF-1/性激素）按程序衰退 |
+| **损伤累积理论** | 自由基理论 | 活性氧 (ROS) 氧化损伤累积 (Harman 1956) |
+| | DNA损伤理论 | 体细胞突变累积超过修复能力 |
+| | 蛋白质损伤理论 | 错误折叠蛋白、糖基化终产物 (AGEs) 累积 |
+| **综合性理论** | 炎性衰老理论 | 慢性低度炎症驱动系统性退化 (Franceschi 2000) |
+| | 信息论 | 衰老是表观遗传信息丢失的过程 (Sinclair 2019) |
+
+### 3.2 当前共识
+
+- 衰老并非单一原因，而是**多因素交互**的结果
+- 初级标志最可能是**因**，综合性标志是**果**
+- 最有前景的干预靶点：**营养感应通路**（mTOR/AMPK/Sirtuins/IGF-1）
+
+---
+
+## 4. 蓝区研究 (Blue Zones)
+
+> **研究者**: Dan Buettner (2004), 与《国家地理》合作
+
+### 4.1 五大蓝区
+
+| 地区 | 国家 | 特征 | 百岁老人密度 |
+|------|------|------|-------------|
+| 冲绳 (Okinawa) | 日本 | 植物为主饮食、Ikigai（生命意义） | 约68/10万 |
+| 撒丁岛 (Sardinia) | 意大利 | 地中海饮食、步行文化、家庭纽带 | 约22/10万 |
+| 洛马琳达 (Loma Linda) | 美国 | 基督复临安息日会、素食、信仰社区 | — |
+| 尼科亚半岛 (Nicoya) | 哥斯达黎加 | 玉米/豆类饮食、Plan de Vida（生活目标） | — |
+| 伊卡里亚 (Ikaria) | 希腊 | 地中海饮食、午睡、低压力社区 | — |
+
+### 4.2 蓝区九大共同特征 (Power 9)
+
+| 类别 | 特征 | 说明 |
+|------|------|------|
+| **自然运动** | Move Naturally | 日常生活中自然地身体活动，非刻意健身 |
+| **目标感** | Purpose | 拥有明确的生活意义感（值约7年寿命） |
+| **减压** | Down Shift | 每日有缓解压力的例行习惯 |
+| **80%法则** | 80% Rule | 腹八分目——吃到八分饱 |
+| **植物优先** | Plant Slant | 以豆类、蔬菜为主，肉食为辅 |
+| **适度饮酒** | Wine @ 5 | 适度饮酒（1-2杯/天），常在社交场合 |
+| **归属感** | Belong | 参与信仰或精神共同体 |
+| **家庭优先** | Loved Ones First | 重视家庭关系、代际同住或近居 |
+| **社交圈** | Right Tribe | 与健康行为一致的社交网络 |
+
+---
+
+## 5. 长寿干预策略全景
+
+### 5.1 经循证的干预手段
+
+| 干预类别 | 具体方法 | 证据等级 | 主要机制 |
+|----------|----------|----------|----------|
+| **饮食** | 热量限制 (CR) | A (动物) / B (人类) | mTOR抑制、自噬激活、AMPK上调 |
+| | 间歇性断食 (IF) | B+ | 类似CR但更可执行 |
+| | 地中海饮食 | A (观察性) | 抗炎、抗氧化 |
+| **运动** | 有氧+抗阻组合 | A | 线粒体新生、端粒维护、myokine释放 |
+| **睡眠** | 7-9h优质睡眠 | A | 胶质淋巴系统清除、激素修复 |
+| **心理** | 正念冥想 | B+ | 端粒酶活性↑、炎症↓、表观遗传改善 |
+| | 社交连接 | A (观察性) | 应激缓冲、免疫支持 |
+| **药理** | 雷帕霉素 (Rapamycin) | A (动物) / C (人类) | mTOR抑制、自噬激活 |
+| | 二甲双胍 (Metformin) | B (TAME试验进行中) | AMPK激活、抗炎 |
+| | NMN/NR (NAD+前体) | B (动物) / C (人类) | NAD+补充、Sirtuin激活 |
+| | Senolytics | B (动物) / C (人类) | 清除衰老细胞 |
+
+### 5.2 长寿干预金字塔
+
+```
+         /-----------\
+        /  前沿药理    \   ← 雷帕霉素/Senolytics（需临床验证）
+       /   补充剂      \  ← NMN/白藜芦醇/Omega-3（证据积累中）
+      /   精准检测       \ ← 生物年龄评估/基因组学/代谢组学
+     /    心理与社交       \ ← 冥想/目标感/社交网络
+    /    睡眠优化            \ ← 7-9h/褪黑素节律/胶质淋巴清除
+   /    运动处方               \ ← 有氧+抗阻+柔韧+平衡
+  /    营养策略                   \ ← CR/IF/地中海/植物优先
+ /   基础生活方式                   \ ← 不吸烟/限酒/防晒/体重管理
+/---------------------------------------\
+```
+
+---
+
+## 6. 衰老的测量与生物标志物
+
+### 6.1 生物年龄评估工具
+
+| 工具 | 原理 | 准确度 | 可及性 |
+|------|------|--------|--------|
+| Horvath表观遗传钟 | DNA甲基化（353个CpG位点） | MAE约3.6年 | 实验室检测 |
+| GrimAge | DNA甲基化 + 血浆蛋白 | 预测死亡率最强 | 实验室检测 |
+| DunedinPACE | DNA甲基化衰老速率 | 衡量衰老加速度 | 实验室检测 |
+| 端粒长度 | qPCR/FISH测量端粒 | 中等 | 商业可得 |
+| PhenoAge | 血液常规+生化指标 | 可接受 | 常规体检可得 |
+| 面部年龄AI | 深度学习面部分析 | 中等 | 手机App可用 |
+
+### 6.2 关键衰老生物标志物
+
+| 标志物 | 正常参考范围 | 衰老趋势 | 意义 |
+|--------|-------------|----------|------|
+| hs-CRP | <1 mg/L | ↑ | 系统性炎症 |
+| IGF-1 | 因年龄而异 | ↓ | 生长轴衰退 |
+| DHEA-S | 因年龄/性别而异 | ↓ | 肾上腺功能 |
+| 空腹胰岛素 | 2-5 uIU/mL | ↑ | 胰岛素抵抗 |
+| GlycanAge | — | 改变 | 糖基化年龄 |
+| NAD+ | — | ↓ | 细胞能量代谢 |
+| IL-6 | <5 pg/mL | ↑ | 促炎老化指标 |
+
+---
+
+## 7. 全球长寿研究前沿
+
+### 7.1 重要研究项目
+
+| 项目 | 机构 | 目标 |
+|------|------|------|
+| TAME Trial | Albert Einstein College | 二甲双胍抗衰老随机对照试验 |
+| CALERIE | NIH | 人类热量限制长期试验 |
+| UK Biobank | UK | 50万人衰老队列数据库 |
+| Altos Labs | 私立 | 细胞重编程与衰老逆转 |
+| Hevolution Foundation | 沙特 | 资助全球衰老研究，10亿美元/年 |
+
+### 7.2 前沿方向
+
+1. **细胞重编程** — Yamanaka因子部分重编程（不完全去分化）
+2. **Senolytics** — 清除衰老细胞（Dasatinib + Quercetin组合）
+3. **血液因子** — 异时共生 (Heterochronic Parabiosis) 启发的年轻血浆因子
+4. **AI驱动药物发现** — 利用深度学习识别新的抗衰老靶点
+5. **器官级干预** — 胸腺再生、干细胞疗法
+
+---
+
+## 8. 衰老与慢性病的统一视角
+
+### 8.1 Geroscience 假说
+
+```
+衰老基本过程
+    ├── 心血管疾病
+    ├── 2型糖尿病
+    ├── 神经退行性疾病（AD/PD）
+    ├── 癌症
+    ├── 慢性肾病
+    ├── 骨质疏松
+    └── 肌少症
+
+靶向衰老 = 同时降低多种慢性病风险
+```
+
+### 8.2 关键数据
+
+- 65岁以上人群中，约**80%**患有至少一种慢性病
+- 50%以上的65岁以上人群有**多重共病** (Multimorbidity)
+- 延长**健康寿命**比单纯延长寿命更有意义
+- 健康寿命 vs 寿命的差距：美国约**12年**（女性寿命80.5 vs 健康寿命68.5）
+
+---
+
+## 9. 延伸阅读与交叉引用
+
+### 9.1 本知识库内部链接
+
+| 主题 | 文件路径 |
+|------|----------|
+| 端粒与表观遗传学 | [Telomere_Epigenetics.md](./Telomere_Epigenetics.md) |
+| NAD+/Sirtuins通路 | [NAD_Sirtuins_Pathways.md](./NAD_Sirtuins_Pathways.md) |
+| 热量限制与长寿 | [Caloric_Restriction_Longevity.md](./Caloric_Restriction_Longevity.md) |
+| 认知衰老与痴呆预防 | [Cognitive_Aging_Prevention.md](./Cognitive_Aging_Prevention.md) |
+| HPA轴与压力系统 | [../hpa-axis/](../hpa-axis/) |
+| 免疫系统与炎症 | [../immune-inflammation/](../immune-inflammation/) |
+| 运动科学 | [../exercise-science/](../exercise-science/) |
+| 断食科学 | [../../foods/fasting/](../../foods/fasting/) |
+| 冥想与端粒 | [../../../02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) |
+| 死亡焦虑与存在心理学 | [../../death/](../../death/) |
+
+### 9.2 核心参考文献
+
+1. Lopez-Otin, C., et al. (2013). "The Hallmarks of Aging." *Cell*, 153(6), 1194-1217.
+2. Lopez-Otin, C., et al. (2023). "Hallmarks of Aging: An Expanding Universe." *Cell*, 186(2), 243-278.
+3. Buettner, D. (2012). *The Blue Zones*. National Geographic.
+4. Sinclair, D.A., & LaPlante, M.D. (2019). *Lifespan: Why We Age and Why We Don't Have To*. Atria Books.
+5. Kenyon, C. (2010). "The Genetics of Ageing." *Nature*, 464, 504-512.
+6. Kaeberlein, M. (2018). "How Healthy Is the Healthspan Concept?" *GeroScience*, 40(4), 361-364.
+
+---
+
+> **导航**: [衰老与长寿科学 INDEX](./INDEX.md) | [生物科学 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)

@@ -8,6 +8,14 @@
 - [心理学理论框架 (Theoretical Frameworks)](framework/)
 - [专业术语辞典 (Terminology Dictionary)](terminology-dictionary/Terminology_Dictionary.md)
 - [积极心理学体系 (Positive Psychology)](positive-psychology/)
+- [**人格心理学 (Personality Psychology)**](personality/) **[NEW]** — 大五/MBTI/九型/暗黑三联征/人格发展
+  - [人格心理学总览](personality/Personality_Psychology_Overview.md)
+  - [大五人格模型](personality/Big_Five_Model.md)
+  - [MBTI类型学](personality/MBTI_Typology.md)
+  - [九型人格体系](personality/Enneagram_System.md)
+  - [暗黑三联征](personality/Dark_Triad_Personality.md)
+  - [人格评估工具](personality/Personality_Assessment_Tools.md)
+  - [人格发展与改变](personality/Personality_Development_Change.md)
 
 ---
 *返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*

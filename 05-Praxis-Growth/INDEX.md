@@ -26,6 +26,46 @@
 - [极简主义与整理 (Minimalism)](personal-development/minimalism-decluttering/)
 - [拖延心理调节 (Procrastination)](personal-development/procrastination/Procrastination_Psychological_Regulation.md)
 
+### 1.3 💰 财务素养与个人理财 (Financial Literacy) **[NEW]**
+- [**财务素养体系**](personal-development/financial-literacy/) — 理财基础/投资心理/FIRE运动/金钱信念
+  - [财务素养总览](personal-development/financial-literacy/Financial_Literacy_Overview.md)
+  - [个人理财基础](personal-development/financial-literacy/Personal_Finance_Fundamentals.md)
+  - [投资心理学](personal-development/financial-literacy/Investment_Psychology.md)
+  - [财务自由与FIRE](personal-development/financial-literacy/Financial_Independence_FIRE.md)
+  - [金钱信念系统](personal-development/financial-literacy/Money_Mindset_Beliefs.md)
+
+### 1.4 📚 学习方法论与元学习 (Meta-Learning) **[NEW]**
+- [**学习方法论体系**](personal-development/meta-learning/) — 学习科学/刻意练习/间隔重复/笔记方法
+  - [元学习总览](personal-development/meta-learning/Meta_Learning_Overview.md)
+  - [刻意练习](personal-development/meta-learning/Deliberate_Practice.md)
+  - [间隔重复与检索练习](personal-development/meta-learning/Spaced_Repetition_Retrieval.md)
+  - [费曼技巧与以教促学](personal-development/meta-learning/Feynman_Technique_Teaching.md)
+  - [快速阅读与深度学习](personal-development/meta-learning/Speed_Reading_Deep_Learning.md)
+  - [学习迁移与应用](personal-development/meta-learning/Learning_Transfer_Application.md)
+
+### 1.45 🧭 职业规划与转型 (Career Planning) — [完整知识地图](personal-development/career-planning/INDEX.md) **[NEW]**
+- [**职业规划体系**](personal-development/career-planning/) — Holland/Super理论/职业锚/Ikigai/转型策略
+  - [职业规划总览](personal-development/career-planning/Career_Planning_Overview.md)
+  - [职业转型指南](personal-development/career-planning/Career_Transition.md)
+  - [Ikigai与生命设计](personal-development/career-planning/Career_Ikigai.md)
+
+### 1.46 🎯 决策框架 (Decision Making) — [完整知识地图](personal-development/decision-making/INDEX.md) **[NEW]**
+- [**决策科学体系**](personal-development/decision-making/) — 双系统理论/认知偏差/去偏策略/决策疲劳/极简决策
+  - [决策科学总览](personal-development/decision-making/Decision_Making_Overview.md)
+  - [认知偏差矫正](personal-development/decision-making/Decision_Bias_Correction.md)
+  - [决策疲劳管理](personal-development/decision-making/Decision_Fatigue.md)
+
+### 1.47 🤝 社交资本与人脉经营 (Social Capital) — [完整知识地图](personal-development/social-capital/INDEX.md) **[NEW]**
+- [**社交资本体系**](personal-development/social-capital/) — Bourdieu/Putnam理论/弱关系/结构洞/邓巴数/关系管理
+  - [社交资本总览](personal-development/social-capital/Social_Capital_Overview.md)
+  - [社交资本实践策略](personal-development/social-capital/Social_Capital_Practice.md)
+
+### 1.48 🧠 情商应用 (Emotional Intelligence) — [完整知识地图](personal-development/emotional-intelligence/INDEX.md) **[NEW]**
+- [**情商体系**](personal-development/emotional-intelligence/) — Mayer-Salovey/Goleman/Bar-On模型/情绪调节/领导力EQ
+  - [情商总览](personal-development/emotional-intelligence/EI_Overview.md)
+  - [情商与领导力/职场](personal-development/emotional-intelligence/EI_Leadership_Workplace.md)
+  - [情绪调节训练](personal-development/emotional-intelligence/EI_Emotion_Regulation_Training.md)
+
 ### 1.5 📋 个人管理与自我记录 (Personal Management & Self-Tracking)
 - [个人任务管理 (Task Management)](personal-development/task-management/)
   - [核心理论与系统对比 (Core Theory)](personal-development/task-management/Task_Management_Core.md)
@@ -71,6 +111,9 @@
   - [非防御性沟通体系 (Core System)](communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
 - [**教练式聆听及提问 (Coaching Listening & Questioning)**](communication/coaching-listening/) **[NEW]** - 三层次聆听、强力提问、GROW模型
   - [教练式聆听与提问体系 (Core System)](communication/coaching-listening/Coaching_Listening_Overview.md)
+- [**谈判技能 (Negotiation)**](communication/negotiation/) **[NEW]** - 哈佛谈判术/BATNA/FBI谈判学/认知偏差/跨文化谈判
+  - [谈判心理学与策略](communication/negotiation/Negotiation_Psychology_Strategy.md)
+  - [谈判实战训练](communication/negotiation/Negotiation_Practice.md)
 
 ### 4. ✍️ 写作、技术输出与出版 (Writing & Publishing)
 - [文学创意写作全系 (Creative Writing)](writing/)
@@ -83,6 +126,7 @@
 ### 5. ⚖️ 管理心理学与组织 (Management & Organization)
 - [法家管理心理学 (Legalist Management)](../01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md)
 - [职场心理危机干预 (Workplace Crisis)](../02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
+- [职场倦怠专题 (Occupational Burnout)](../02-Mind-Psychology/psychology/applied/occupational-burnout/) — 倦怠评估、预防干预与恢复随访
 
 ---
 *返回根目录 [README.md](../README.md)*

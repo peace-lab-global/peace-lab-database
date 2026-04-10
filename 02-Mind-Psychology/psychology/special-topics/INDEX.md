@@ -11,6 +11,8 @@
 - [家庭系统排列 (Family Constellation)](family-constellation/)
 - [居家整理心理学 (Home Organization)](home-organization/)
 - [父母依赖型男性 (Parent-Dependent Male)](parent-dependent-male/)
+- [**自慰心理学 (Masturbation Psychology)**](masturbation-psychology/INDEX.md) **[NEW: 3份文档]**
+  - 心理学概述与理论基础、社会文化变迁与历史视角、临床心理学意义
 
 ---
 *返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*

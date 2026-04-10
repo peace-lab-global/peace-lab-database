@@ -16,6 +16,33 @@
   - [达利 (Dali)](arts/artists/modern/Dali.md)
 - [正念艺术与缠绕画 (Mindful Zentangle)](../02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md)
 
+### 1.5 ✍️ 书法疗愈 (Calligraphy Therapy) — [完整知识地图](arts/calligraphy-therapy/INDEX.md) **[NEW]**
+- [书法疗愈总览 (Calligraphy Therapy Overview)](arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md) — 理论基础、心理生理机制、不同书法传统
+- [书法疗愈实操指南 (Practice Guide)](arts/calligraphy-therapy/Calligraphy_Practice_Guide.md) — 工具材料、正念练习、8周计划、工作坊设计
+- [书法疗愈神经科学 (Neuroscience)](arts/calligraphy-therapy/Calligraphy_Neuroscience.md) — fMRI/EEG/HRV证据、心流神经基础
+- [书法疗愈临床应用 (Clinical Applications)](arts/calligraphy-therapy/Calligraphy_Clinical_Applications.md) — 焦虑/抑郁/老年/ADHD/康复方案
+
+### 1.8 📷 摄影疗愈 (Photography Therapy) — [完整知识地图](arts/photography-therapy/INDEX.md) **[NEW]**
+- [摄影疗愈总览 (Photography Therapy Overview)](arts/photography-therapy/Photography_Therapy_Overview.md) — Weiser五种技术、正念摄影、PhotoVoice
+- [摄影疗愈实操 (Practice Guide)](arts/photography-therapy/Photography_Practice_Guide.md) — 经典作业、自拍像工作、照片日记、工作坊
+- [摄影疗愈临床应用 (Clinical Applications)](arts/photography-therapy/Photography_Clinical_Applications.md) — 抑郁/PTSD/身体意象/悲伤/老年
+
+### 1.9 🎭 戏剧疗愈与心理剧 (Drama Therapy & Psychodrama) — [完整知识地图](arts/drama-therapy/INDEX.md) **[NEW]**
+- [戏剧疗愈总览 (Drama Therapy Overview)](arts/drama-therapy/Drama_Therapy_Overview.md) — DT vs 心理剧、Moreno理论、核心方法
+- [心理剧技术详解 (Psychodrama Techniques)](arts/drama-therapy/Psychodrama_Techniques.md) — 角色交换/替身/镜像/空椅/社会计量学
+- [戏剧疗愈实操 (Practice Guide)](arts/drama-therapy/Drama_Therapy_Practice.md) — 暖身活动库、课程设计、面具工作
+- [戏剧疗愈临床应用 (Clinical Applications)](arts/drama-therapy/Drama_Therapy_Clinical.md) — PTSD/ASD/抑郁/老年/企业应用
+
+### 1.10 🌿 园艺疗愈 (Horticultural Therapy) — [完整知识地图](arts/horticultural-therapy/INDEX.md) **[NEW]**
+- [园艺疗愈总览 (Horticultural Therapy Overview)](arts/horticultural-therapy/Horticultural_Therapy_Overview.md) — ART/SRT理论、活动分类、感官花园
+- [园艺疗愈临床应用 (Clinical Applications)](arts/horticultural-therapy/Horticultural_Therapy_Clinical.md) — 精神健康/老年认知/特殊人群
+- [疗愈花园设计 (Healing Garden Design)](arts/horticultural-therapy/Healing_Garden_Design.md) — 设计原则、功能分区、无障碍
+
+### 1.11 🏺 陶艺与手工疗愈 (Craft & Pottery Therapy) — [完整知识地图](arts/craft-therapy/INDEX.md) **[NEW]**
+- [手工疗愈总览 (Craft Therapy Overview)](arts/craft-therapy/Craft_Therapy_Overview.md) — 理论基础、类型对比、正念手工
+- [陶艺疗愈 (Pottery Therapy)](arts/craft-therapy/Craft_Pottery_Therapy.md) — 泥土象征、拉坯冥想、侘寂/金缮
+- [纺织编织疗愈 (Textile Therapy)](arts/craft-therapy/Craft_Textile_Therapy.md) — 编织正念、刺绣/纺纱/拼布、编织圈
+
 ### 2. 🩰 芭蕾艺术全系 (Ballet: From Technique to Therapy)
 - [芭蕾艺术概览与系统 (Ballet Overview)](arts/ballet/Ballet_Overview.md)
 - [芭蕾技术体系 (Technique System)](arts/ballet/Ballet_Technique_System.md)
@@ -47,6 +74,12 @@
   - [绝命毒师专题 (Breaking Bad)](media/tv/breaking-bad/)
   - [恐怖剧集心理效应 (Horror Series)](media/tv/horror-tv-series/)
 - [电视文化疗愈 (Television Therapy)](media/tv/television-therapy/Television_Therapy.md)
+- [**播客与有声内容 (Podcast & Audio)**](media/podcast/) **[NEW]** — 推荐播客/声音心理学/播客创作
+
+### 4.5 🏠 建筑空间疗愈 (Space Healing) **[NEW]**
+- [**疗愈建筑与空间心理学**](arts/space-healing/) — 生物亲和设计/环境心理学/循证设计
+  - [疗愈建筑总览](arts/space-healing/Space_Healing_Architecture.md) — 生物亲和14模式、光线/色彩/声音
+  - [居住与办公空间设计](arts/space-healing/Space_Home_Office_Design.md) — 家庭疗愈/办公优化/整理极简
 
 ### 5. 📖 文学、深度阅读与写作 (Literature & Reading)
 - [文学疗愈体系 (Literature Therapy)](literature/therapy/)

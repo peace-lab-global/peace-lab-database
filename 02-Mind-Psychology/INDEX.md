@@ -11,6 +11,16 @@
   - [心理学专业术语辞典 (Terminology Dictionary)](psychology/foundations/terminology-dictionary/Terminology_Dictionary.md)
   - [理论框架 (Frameworks)](psychology/foundations/framework/)
 
+### 1.5 🎭 人格心理学 (Personality Psychology) **[NEW]**
+- [**人格心理学体系**](psychology/foundations/personality/) — 大五/MBTI/九型/暗黑三联征/人格发展
+  - [人格心理学总览](psychology/foundations/personality/Personality_Psychology_Overview.md)
+  - [大五人格模型](psychology/foundations/personality/Big_Five_Model.md)
+  - [MBTI类型学](psychology/foundations/personality/MBTI_Typology.md)
+  - [九型人格体系](psychology/foundations/personality/Enneagram_System.md)
+  - [暗黑三联征](psychology/foundations/personality/Dark_Triad_Personality.md)
+  - [人格评估工具](psychology/foundations/personality/Personality_Assessment_Tools.md)
+  - [人格发展与改变](psychology/foundations/personality/Personality_Development_Change.md)
+
 ### 2. 🏥 临床心理与精神障碍 (Clinical & Disorders)
 - [**严重精神障碍专题 (SMI)**](psychology/clinical/disorder/Severe_Mental_Illness_Overview.md)
   - [精神分裂症 (Schizophrenia)](psychology/clinical/disorder/schizophrenia/)
@@ -35,8 +45,10 @@
 
 ### 4. 🌱 发展心理学 (Developmental Psychology)
 - [青少年心理与发展 (Adolescent)](psychology/developmental/adolescent/)
+- [**儿童发展心理学 (Child Development)**](psychology/developmental/child-development/) **[NEW]** — 依恋理论/Piaget认知/Erikson阶段/游戏治疗/育儿风格
 - [中年危机专题 (Midlife Crisis)](psychology/developmental/midlife-crisis/)
 - [更年期心理 (Menopause)](psychology/developmental/menopause/)
+- [**老年心理学 (Aging Psychology)**](psychology/developmental/aging-psychology/) **[NEW]** — 成功老化/认知衰退/社会情绪选择/丧亲/老年心理干预
 
 ### 5. 👥 社会与人际心理 (Social & Interpersonal)
 - [友谊心理学 (Friendship)](psychology/social/friendship/)
@@ -52,6 +64,9 @@
   - [亲密关系冷战专题 (Silent Treatment)](relationships/marriage/Marriage_Silent_Treatment.md)
   - [情感银行 (Emotional Bank Account)](relationships/emotional-bank-account/)
 - [父母如何更懂孩子 (Understanding Children)](relationships/parenting/)
+- [性别关系动态分析 (Gender Relations Dynamics)](relationships/gender-dynamics/) **[NEW]**
+  - [媚男/媚女现象](relationships/gender-dynamics/Gender_Male_Pandering_Psychology.md) · [厌男/厌女情结](relationships/gender-dynamics/Gender_Misandry_Psychology.md)
+  - [跨种族性别吸引力](relationships/gender-dynamics/Gender_Cross_Racial_Attraction_Psychology.md)
 
 ### 6. 🎭 行为与成瘾 (Behavioral & Addiction)
 - [成瘾心理学 (Addiction)](psychology/behavioral/addiction/)
@@ -78,6 +93,7 @@
 - [职场心理危机 (Workplace Crisis)](psychology/applied/workplace-psychological-crisis/)
 - [假日心理学 (Holiday Psychology)](psychology/applied/holiday-psychology/)
 - [物质主义心理学 (Materialism)](psychology/applied/materialism-psychology/)
+- [**教育心理学 (Educational Psychology)**](psychology/applied/educational-psychology/) **[NEW]** — 学习理论/教学设计/学生心理健康
 
 ### 10. 📚 特殊专题 (Special Topics)
 - [贫困与苦难心理学 (Poverty & Suffering)](psychology/special-topics/poverty-suffering/)
@@ -86,6 +102,7 @@
 - [哀伤与丧恸 (Grief & Loss)](psychology/special-topics/grief/)
 - [家庭系统排列 (Family Constellation)](psychology/special-topics/family-constellation/)
 - [居家整理心理学 (Home Organization)](psychology/special-topics/home-organization/)
+- [**梦的心理学 (Dream Psychology)**](psychology/special-topics/dream-psychology/) **[NEW]** — 释梦/清醒梦/噩梦治疗(IRT)/梦工作
 
 ### 11. 🧘‍♂️ 冥想技术与意识研究 (Meditation & Consciousness)
 - [冥想基础与核心技术 (Core)](meditation/overview/Meditation_Core.md)

@@ -52,7 +52,7 @@
 
 ### 9. 💼 应用心理 (Applied)
 - [职业心理](applied/vocational-psychology/) · [职场危机](applied/workplace-psychological-crisis/)
-- [假日心理](applied/holiday-psychology/) · [物质主义](applied/materialism-psychology/)
+- [职场倦怠](applied/occupational-burnout/) · [假日心理](applied/holiday-psychology/) · [物质主义](applied/materialism-psychology/)
 - → [详细索引](applied/INDEX.md)
 
 ### 10. 📌 特殊议题 (Special Topics)
