@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Peace Lab Knowledge Intelligence</title>
+  <link rel="icon" type="image/svg+xml" href="favicon.svg">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;600;700&family=Noto+Serif+SC:wght@600;700&family=Source+Serif+4:opsz,wght@8..60,600;8..60,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div id="app">
+    <aside id="sidebar">
+      <div id="sidebar-header">
+        <div class="section-label">Enterprise Knowledge Intelligence</div>
+        <h1>Peace Lab 知识图谱</h1>
+        <p>面向研究梳理、知识治理与主题洞察的企业级可视化工作台。</p>
+        <div class="header-meta">
+          <span class="meta-pill">结构化资产</span>
+          <span class="meta-pill">研究洞察</span>
+          <span class="meta-pill">跨主题关联</span>
+        </div>
+      </div>
+
+      <div id="search-box" class="panel-section">
+        <div class="section-row">
+          <label class="section-label" for="search-input">节点检索</label>
+          <span class="section-meta">支持主题与关键词</span>
+        </div>
+        <input type="text" id="search-input" placeholder="搜索专题、方法、症状、疗法" autocomplete="off">
+      </div>
+
+      <div id="stats" class="panel-section">
+        <div class="stat-item"><div class="stat-label">专题领域</div><div class="stat-value">189+</div></div>
+        <div class="stat-item"><div class="stat-label">专业文档</div><div class="stat-value">2,667</div></div>
+        <div class="stat-item"><div class="stat-label">图谱节点</div><div class="stat-value" id="node-count">0</div></div>
+        <div class="stat-item"><div class="stat-label">交叉引用</div><div class="stat-value" id="cross-count">0</div></div>
+      </div>
+
+      <div id="legend" class="panel-section">
+        <div class="section-row section-row-heading">
+          <div>
+            <div class="section-label">领域框架</div>
+            <h3>五大研究支柱</h3>
+          </div>
+          <span class="section-meta">点击聚焦</span>
+        </div>
+        <button class="legend-item" type="button" data-group="1"><span class="legend-dot" style="background:var(--g1)"></span><span class="legend-label">01 智慧传承</span><span class="legend-count">405</span></button>
+        <button class="legend-item" type="button" data-group="2"><span class="legend-dot" style="background:var(--g2)"></span><span class="legend-label">02 心智心理</span><span class="legend-count">864</span></button>
+        <button class="legend-item" type="button" data-group="3"><span class="legend-dot" style="background:var(--g3)"></span><span class="legend-label">03 生命科学</span><span class="legend-count">353</span></button>
+        <button class="legend-item" type="button" data-group="4"><span class="legend-dot" style="background:var(--g4)"></span><span class="legend-label">04 人文艺术</span><span class="legend-count">607</span></button>
+        <button class="legend-item" type="button" data-group="5"><span class="legend-dot" style="background:var(--g5)"></span><span class="legend-label">05 实践增长</span><span class="legend-count">420</span></button>
+      </div>
+
+      <section id="directory-panel" class="panel-section">
+        <div class="section-row section-row-heading">
+          <div>
+            <div class="section-label">目录导航</div>
+            <h3>知识节点清单</h3>
+          </div>
+          <span class="section-meta">按层级浏览</span>
+        </div>
+        <div id="node-list"></div>
+      </section>
+    </aside>
+    <div id="sidebar-backdrop" aria-hidden="true"></div>
+
+    <main id="graph-container">
+      <div id="graph-header">
+        <div class="graph-header-copy">
+          <div class="section-label section-label-inverse">Graph Workspace</div>
+          <h2>知识关系工作台</h2>
+          <p>围绕主题聚合、交叉引用与层级依赖进行探索，适用于研究分析、知识梳理与结构化决策支持。</p>
+        </div>
+        <div class="graph-header-actions">
+          <button id="sidebar-toggle" class="icon-btn" type="button" aria-label="打开侧栏">☰</button>
+          <div id="mode-toggle">
+            <button class="mode-btn active" data-mode="radial" type="button">总览</button>
+            <button class="mode-btn" data-mode="force" type="button">关系</button>
+            <button class="mode-btn" data-mode="tree" type="button">层级</button>
+          </div>
+        </div>
+      </div>
+
+      <svg id="graph-svg"></svg>
+
+      <div id="tooltip">
+        <div class="tt-name"></div>
+        <div class="tt-desc"></div>
+        <div class="tt-meta"></div>
+      </div>
+
+      <div id="controls">
+        <button class="ctrl-btn" id="zoom-in" title="放大">+</button>
+        <button class="ctrl-btn" id="zoom-out" title="缩小">&minus;</button>
+        <button class="ctrl-btn" id="zoom-reset" title="重置">&#x27F2;</button>
+        <button class="ctrl-btn" id="zoom-fit" title="适配">&#x25A3;</button>
+      </div>
+
+      <div id="graph-info">滚轮缩放 · 拖拽平移 · 点击节点查看洞察面板</div>
+    </main>
+
+    <aside id="detail-panel">
+      <div class="detail-frame">
+        <div class="detail-topbar">
+          <div>
+            <div class="section-label">Insight Panel</div>
+            <div class="detail-heading">节点分析</div>
+          </div>
+          <button id="detail-close" type="button" aria-label="关闭详情">&times;</button>
+        </div>
+        <div id="detail-content">
+          <div id="detail-breadcrumb"></div>
+          <h2 id="detail-name"></h2>
+          <p id="detail-desc"></p>
+          <div id="detail-stats"></div>
+          <div id="detail-connections">
+            <h4>连接关系</h4>
+            <div id="detail-children"></div>
+            <div id="detail-parents"></div>
+            <div id="detail-cross"></div>
+          </div>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <script src="graph-data.js"></script>
+  <script src="graph-app.js"></script>
+</body>
+</html>

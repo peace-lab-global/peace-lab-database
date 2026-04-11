@@ -1,0 +1,735 @@
+- generic [ref=e2]:
+  - complementary [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: Enterprise Knowledge Intelligence
+      - heading "Peace Lab 知识图谱" [level=1] [ref=e6]
+      - paragraph [ref=e7]: 面向研究梳理、知识治理与主题洞察的企业级可视化工作台。
+      - generic [ref=e8]:
+        - generic [ref=e9]: 结构化资产
+        - generic [ref=e10]: 研究洞察
+        - generic [ref=e11]: 跨主题关联
+    - generic [ref=e12]:
+      - generic [ref=e13]:
+        - generic [ref=e14]: 节点检索
+        - generic [ref=e15]: 支持主题与关键词
+      - textbox "节点检索" [ref=e16]:
+        - /placeholder: 搜索专题、方法、症状、疗法
+    - generic [ref=e17]:
+      - generic [ref=e18]:
+        - generic [ref=e19]: 专题领域
+        - generic [ref=e20]: 189+
+      - generic [ref=e21]:
+        - generic [ref=e22]: 专业文档
+        - generic [ref=e23]: 2,667
+      - generic [ref=e24]:
+        - generic [ref=e25]: 图谱节点
+        - generic [ref=e26]: "205"
+      - generic [ref=e27]:
+        - generic [ref=e28]: 交叉引用
+        - generic [ref=e29]: "29"
+    - generic [ref=e30]:
+      - generic [ref=e31]:
+        - generic [ref=e32]:
+          - generic [ref=e33]: 领域框架
+          - heading "五大研究支柱" [level=3] [ref=e34]
+        - generic [ref=e35]: 点击聚焦
+      - generic [ref=e36] [cursor=pointer]:
+        - generic [ref=e38]: 01 智慧传承
+        - generic [ref=e39]: "405"
+      - generic [ref=e40] [cursor=pointer]:
+        - generic [ref=e42]: 02 心智心理
+        - generic [ref=e43]: "864"
+      - generic [ref=e44] [cursor=pointer]:
+        - generic [ref=e46]: 03 生命科学
+        - generic [ref=e47]: "353"
+      - generic [ref=e48] [cursor=pointer]:
+        - generic [ref=e50]: 04 人文艺术
+        - generic [ref=e51]: "607"
+      - generic [ref=e52] [cursor=pointer]:
+        - generic [ref=e54]: 05 实践增长
+        - generic [ref=e55]: "420"
+    - generic [ref=e56]:
+      - generic [ref=e57]:
+        - generic [ref=e58]:
+          - generic [ref=e59]: 目录导航
+          - heading "知识节点清单" [level=3] [ref=e60]
+        - generic [ref=e61]: 按层级浏览
+      - generic:
+        - generic [ref=e62]: 根
+        - generic [ref=e64] [cursor=pointer]:
+          - generic [ref=e66]: Peace Lab 知识库
+          - generic [ref=e67]: "2667"
+        - generic [ref=e68]: 智慧传承
+        - generic [ref=e70] [cursor=pointer]:
+          - generic [ref=e72]: 智慧传承
+          - generic [ref=e73]: "405"
+        - generic [ref=e74] [cursor=pointer]:
+          - generic [ref=e76]: 哲学体系
+          - generic [ref=e77]: "80"
+        - generic [ref=e78] [cursor=pointer]:
+          - generic [ref=e80]: 宗教与灵性
+          - generic [ref=e81]: "180"
+        - generic [ref=e82] [cursor=pointer]:
+          - generic [ref=e84]: 太极拳
+          - generic [ref=e85]: "7"
+        - generic [ref=e86] [cursor=pointer]:
+          - generic [ref=e88]: 黄帝内经
+          - generic [ref=e89]: "6"
+        - generic [ref=e90] [cursor=pointer]:
+          - generic [ref=e92]: 瑜伽
+          - generic [ref=e93]: "55"
+        - generic [ref=e94] [cursor=pointer]:
+          - generic [ref=e96]: 东亚哲学
+          - generic [ref=e97]: "30"
+        - generic [ref=e98] [cursor=pointer]:
+          - generic [ref=e100]: 南亚哲学
+          - generic [ref=e101]: "6"
+        - generic [ref=e102] [cursor=pointer]:
+          - generic [ref=e104]: 西方哲学
+          - generic [ref=e105]: "44"
+        - generic [ref=e106] [cursor=pointer]:
+          - generic [ref=e108]: 佛教
+          - generic [ref=e109]: "90"
+        - generic [ref=e110] [cursor=pointer]:
+          - generic [ref=e112]: 禅宗
+          - generic [ref=e113]: "10"
+        - generic [ref=e114] [cursor=pointer]:
+          - generic [ref=e116]: 道家
+          - generic [ref=e117]: "12"
+        - generic [ref=e118] [cursor=pointer]:
+          - generic [ref=e120]: 藏传佛教
+          - generic [ref=e121]: "14"
+        - generic [ref=e122] [cursor=pointer]:
+          - generic [ref=e124]: 基督教
+          - generic [ref=e125]: "5"
+        - generic [ref=e126] [cursor=pointer]:
+          - generic [ref=e128]: 天主教
+          - generic [ref=e129]: "3"
+        - generic [ref=e130] [cursor=pointer]:
+          - generic [ref=e132]: 东正教
+          - generic [ref=e133]: "2"
+        - generic [ref=e134] [cursor=pointer]:
+          - generic [ref=e136]: 伊斯兰教
+          - generic [ref=e137]: "3"
+        - generic [ref=e138] [cursor=pointer]:
+          - generic [ref=e140]: 法家
+          - generic [ref=e141]: "3"
+        - generic [ref=e142] [cursor=pointer]:
+          - generic [ref=e144]: 三教合一
+          - generic [ref=e145]: "2"
+        - generic [ref=e146] [cursor=pointer]:
+          - generic [ref=e148]: 宗教心理学
+          - generic [ref=e149]: "6"
+        - generic [ref=e150] [cursor=pointer]:
+          - generic [ref=e152]: 智慧传统
+          - generic [ref=e153]: "12"
+        - generic [ref=e154] [cursor=pointer]:
+          - generic [ref=e156]: 医学经典
+          - generic [ref=e157]: "5"
+        - generic [ref=e158] [cursor=pointer]:
+          - generic [ref=e160]: 体式库
+          - generic [ref=e161]: "14"
+        - generic [ref=e162] [cursor=pointer]:
+          - generic [ref=e164]: 瑜伽大师
+          - generic [ref=e165]: "20"
+        - generic [ref=e166] [cursor=pointer]:
+          - generic [ref=e168]: 瑜伽职业
+          - generic [ref=e169]: "8"
+        - generic [ref=e170] [cursor=pointer]:
+          - generic [ref=e172]: 师资培训
+          - generic [ref=e173]: "6"
+        - generic [ref=e174] [cursor=pointer]:
+          - generic [ref=e176]: 那洛六瑜伽
+          - generic [ref=e177]: "3"
+        - generic [ref=e178] [cursor=pointer]:
+          - generic [ref=e180]: 瑜伽安全
+          - generic [ref=e181]: "2"
+        - generic [ref=e182]: 心智与心理学
+        - generic [ref=e184] [cursor=pointer]:
+          - generic [ref=e186]: 心智与心理学
+          - generic [ref=e187]: "864"
+        - generic [ref=e188] [cursor=pointer]:
+          - generic [ref=e190]: 冥想
+          - generic [ref=e191]: "120"
+        - generic [ref=e192] [cursor=pointer]:
+          - generic [ref=e194]: 心理学
+          - generic [ref=e195]: "350"
+        - generic [ref=e196] [cursor=pointer]:
+          - generic [ref=e198]: 关系心理学
+          - generic [ref=e199]: "60"
+        - generic [ref=e200] [cursor=pointer]:
+          - generic [ref=e202]: 疗法体系
+          - generic [ref=e203]: "80"
+        - generic [ref=e204] [cursor=pointer]:
+          - generic [ref=e206]: 冥想概览
+          - generic [ref=e207]: "15"
+        - generic [ref=e208] [cursor=pointer]:
+          - generic [ref=e210]: 冥想大师
+          - generic [ref=e211]: "15"
+        - generic [ref=e212] [cursor=pointer]:
+          - generic [ref=e214]: 冥想课程
+          - generic [ref=e215]: "10"
+        - generic [ref=e216] [cursor=pointer]:
+          - generic [ref=e218]: 引导脚本
+          - generic [ref=e219]: "4"
+        - generic [ref=e220] [cursor=pointer]:
+          - generic [ref=e222]: MBSR正念减压
+          - generic [ref=e223]: "3"
+        - generic [ref=e224] [cursor=pointer]:
+          - generic [ref=e226]: 直指冥想
+          - generic [ref=e227]: "9"
+        - generic [ref=e228] [cursor=pointer]:
+          - generic [ref=e230]: 坛城冥想
+          - generic [ref=e231]: "6"
+        - generic [ref=e232] [cursor=pointer]:
+          - generic [ref=e234]: 萨提亚模式
+          - generic [ref=e235]: "6"
+        - generic [ref=e236] [cursor=pointer]:
+          - generic [ref=e238]: 超觉冥想
+          - generic [ref=e239]: "2"
+        - generic [ref=e240] [cursor=pointer]:
+          - generic [ref=e242]: 内观冥想
+          - generic [ref=e243]: "2"
+        - generic [ref=e244] [cursor=pointer]:
+          - generic [ref=e246]: 中国冥想传统
+          - generic [ref=e247]: "5"
+        - generic [ref=e248] [cursor=pointer]:
+          - generic [ref=e250]: 冥想职业
+          - generic [ref=e251]: "7"
+        - generic [ref=e252] [cursor=pointer]:
+          - generic [ref=e254]: 冥想师资
+          - generic [ref=e255]: "5"
+        - generic [ref=e256] [cursor=pointer]:
+          - generic [ref=e258]: 基础理论
+          - generic [ref=e259]: "40"
+        - generic [ref=e260] [cursor=pointer]:
+          - generic [ref=e262]: 临床心理
+          - generic [ref=e263]: "50"
+        - generic [ref=e264] [cursor=pointer]:
+          - generic [ref=e266]: 压力与HPA轴
+          - generic [ref=e267]: "25"
+        - generic [ref=e268] [cursor=pointer]:
+          - generic [ref=e270]: 发展心理
+          - generic [ref=e271]: "30"
+        - generic [ref=e272] [cursor=pointer]:
+          - generic [ref=e274]: 社会心理
+          - generic [ref=e275]: "25"
+        - generic [ref=e276] [cursor=pointer]:
+          - generic [ref=e278]: 行为与成瘾
+          - generic [ref=e279]: "20"
+        - generic [ref=e280] [cursor=pointer]:
+          - generic [ref=e282]: 躯体与睡眠
+          - generic [ref=e283]: "30"
+        - generic [ref=e284] [cursor=pointer]:
+          - generic [ref=e286]: 自我调节
+          - generic [ref=e287]: "30"
+        - generic [ref=e288] [cursor=pointer]:
+          - generic [ref=e290]: 应用心理
+          - generic [ref=e291]: "20"
+        - generic [ref=e292] [cursor=pointer]:
+          - generic [ref=e294]: 特别专题
+          - generic [ref=e295]: "25"
+        - generic [ref=e296] [cursor=pointer]:
+          - generic [ref=e298]: 出轨
+          - generic [ref=e299]: "9"
+        - generic [ref=e300] [cursor=pointer]:
+          - generic [ref=e302]: 婚姻
+          - generic [ref=e303]: "14"
+        - generic [ref=e304] [cursor=pointer]:
+          - generic [ref=e306]: 约会心理
+          - generic [ref=e307]: "17"
+        - generic [ref=e308] [cursor=pointer]:
+          - generic [ref=e310]: 性别动力学
+          - generic [ref=e311]: "5"
+        - generic [ref=e312] [cursor=pointer]:
+          - generic [ref=e314]: 情绪银行
+          - generic [ref=e315]: "3"
+        - generic [ref=e316] [cursor=pointer]:
+          - generic [ref=e318]: 爱
+          - generic [ref=e319]: "3"
+        - generic [ref=e320] [cursor=pointer]:
+          - generic [ref=e322]: 育儿
+          - generic [ref=e323]: "2"
+        - generic [ref=e324] [cursor=pointer]:
+          - generic [ref=e326]: 随意性行为
+          - generic [ref=e327]: "2"
+        - generic [ref=e328] [cursor=pointer]:
+          - generic [ref=e330]: 跨文化视角
+          - generic [ref=e331]: "2"
+        - generic [ref=e332] [cursor=pointer]:
+          - generic [ref=e334]: 临床指南
+          - generic [ref=e335]: "2"
+        - generic [ref=e336] [cursor=pointer]:
+          - generic [ref=e338]: 数字时代关系
+          - generic [ref=e339]: "2"
+        - generic [ref=e340] [cursor=pointer]:
+          - generic [ref=e342]: 多元群体
+          - generic [ref=e343]: "2"
+        - generic [ref=e344] [cursor=pointer]:
+          - generic [ref=e346]: 影响分析
+          - generic [ref=e347]: "2"
+        - generic [ref=e348] [cursor=pointer]:
+          - generic [ref=e350]: 法律伦理
+          - generic [ref=e351]: "2"
+        - generic [ref=e352] [cursor=pointer]:
+          - generic [ref=e354]: CBT认知行为
+          - generic [ref=e355]: "2"
+        - generic [ref=e356] [cursor=pointer]:
+          - generic [ref=e358]: DBT辩证行为
+          - generic [ref=e359]: "3"
+        - generic [ref=e360] [cursor=pointer]:
+          - generic [ref=e362]: ACT接纳承诺
+          - generic [ref=e363]: "2"
+        - generic [ref=e364] [cursor=pointer]:
+          - generic [ref=e366]: MBCT正念认知
+          - generic [ref=e367]: "2"
+        - generic [ref=e368] [cursor=pointer]:
+          - generic [ref=e370]: CFT慈悲聚焦
+          - generic [ref=e371]: "2"
+        - generic [ref=e372] [cursor=pointer]:
+          - generic [ref=e374]: EMDR眼动脱敏
+          - generic [ref=e375]: "2"
+        - generic [ref=e376] [cursor=pointer]:
+          - generic [ref=e378]: TF-CBT创伤焦点
+          - generic [ref=e379]: "2"
+        - generic [ref=e380] [cursor=pointer]:
+          - generic [ref=e382]: CBASP
+          - generic [ref=e383]: "2"
+        - generic [ref=e384] [cursor=pointer]:
+          - generic [ref=e386]: 森田疗法
+          - generic [ref=e387]: "3"
+        - generic [ref=e388] [cursor=pointer]:
+          - generic [ref=e390]: OH卡疗法
+          - generic [ref=e391]: "5"
+        - generic [ref=e392] [cursor=pointer]:
+          - generic [ref=e394]: 焦点疗法
+          - generic [ref=e395]: "4"
+        - generic [ref=e396] [cursor=pointer]:
+          - generic [ref=e398]: 游戏疗法
+          - generic [ref=e399]: "2"
+        - generic [ref=e400] [cursor=pointer]:
+          - generic [ref=e402]: IPT人际心理
+          - generic [ref=e403]: "2"
+        - generic [ref=e404] [cursor=pointer]:
+          - generic [ref=e406]: 感官疗法
+          - generic [ref=e407]: "14"
+        - generic [ref=e408] [cursor=pointer]:
+          - generic [ref=e410]: 森林疗法
+          - generic [ref=e411]: "3"
+        - generic [ref=e412] [cursor=pointer]:
+          - generic [ref=e414]: 香道疗法
+          - generic [ref=e415]: "15"
+        - generic [ref=e416] [cursor=pointer]:
+          - generic [ref=e418]: 直指疗法
+          - generic [ref=e419]: "2"
+        - generic [ref=e420]: 生命科学
+        - generic [ref=e422] [cursor=pointer]:
+          - generic [ref=e424]: 生命科学
+          - generic [ref=e425]: "353"
+        - generic [ref=e426] [cursor=pointer]:
+          - generic [ref=e428]: 生物医学
+          - generic [ref=e429]: "200"
+        - generic [ref=e430] [cursor=pointer]:
+          - generic [ref=e432]: 营养与断食
+          - generic [ref=e433]: "20"
+        - generic [ref=e434] [cursor=pointer]:
+          - generic [ref=e436]: 性学研究
+          - generic [ref=e437]: "15"
+        - generic [ref=e438] [cursor=pointer]:
+          - generic [ref=e440]: 死亡教育
+          - generic [ref=e441]: "8"
+        - generic [ref=e442] [cursor=pointer]:
+          - generic [ref=e444]: 运动科学
+          - generic [ref=e445]: "7"
+        - generic [ref=e446] [cursor=pointer]:
+          - generic [ref=e448]: 抗衰老
+          - generic [ref=e449]: "5"
+        - generic [ref=e450] [cursor=pointer]:
+          - generic [ref=e452]: 心血管
+          - generic [ref=e453]: "4"
+        - generic [ref=e454] [cursor=pointer]:
+          - generic [ref=e456]: 肠道菌群
+          - generic [ref=e457]: "4"
+        - generic [ref=e458] [cursor=pointer]:
+          - generic [ref=e460]: 免疫与炎症
+          - generic [ref=e461]: "5"
+        - generic [ref=e462] [cursor=pointer]:
+          - generic [ref=e464]: 脑科学
+          - generic [ref=e465]: "8"
+        - generic [ref=e466] [cursor=pointer]:
+          - generic [ref=e468]: HPA轴
+          - generic [ref=e469]: "6"
+        - generic [ref=e470] [cursor=pointer]:
+          - generic [ref=e472]: 减重科学
+          - generic [ref=e473]: "8"
+        - generic [ref=e474] [cursor=pointer]:
+          - generic [ref=e476]: 推拿
+          - generic [ref=e477]: "8"
+        - generic [ref=e478] [cursor=pointer]:
+          - generic [ref=e480]: SPA水疗
+          - generic [ref=e481]: "8"
+        - generic [ref=e482] [cursor=pointer]:
+          - generic [ref=e484]: 皮肤疾病
+          - generic [ref=e485]: "6"
+        - generic [ref=e486] [cursor=pointer]:
+          - generic [ref=e488]: 飞蚊症
+          - generic [ref=e489]: "9"
+        - generic [ref=e490] [cursor=pointer]:
+          - generic [ref=e492]: 呼吸法
+          - generic [ref=e493]: "3"
+        - generic [ref=e494] [cursor=pointer]:
+          - generic [ref=e496]: 女性健康
+          - generic [ref=e497]: "4"
+        - generic [ref=e498] [cursor=pointer]:
+          - generic [ref=e500]: 血压调节
+          - generic [ref=e501]: "3"
+        - generic [ref=e502] [cursor=pointer]:
+          - generic [ref=e504]: 能量恢复
+          - generic [ref=e505]: "2"
+        - generic [ref=e506] [cursor=pointer]:
+          - generic [ref=e508]: 肩颈放松
+          - generic [ref=e509]: "2"
+        - generic [ref=e510] [cursor=pointer]:
+          - generic [ref=e512]: 办公护眼
+          - generic [ref=e513]: "2"
+        - generic [ref=e514] [cursor=pointer]:
+          - generic [ref=e516]: 睡前拉伸
+          - generic [ref=e517]: "2"
+        - generic [ref=e518] [cursor=pointer]:
+          - generic [ref=e520]: 拉伸
+          - generic [ref=e521]: "3"
+        - generic [ref=e522] [cursor=pointer]:
+          - generic [ref=e524]: 疼痛科学
+          - generic [ref=e525]: "3"
+        - generic [ref=e526] [cursor=pointer]:
+          - generic [ref=e528]: 腰痛
+          - generic [ref=e529]: "2"
+        - generic [ref=e530] [cursor=pointer]:
+          - generic [ref=e532]: 身体羞耻
+          - generic [ref=e533]: "7"
+        - generic [ref=e534] [cursor=pointer]:
+          - generic [ref=e536]: 男性健康
+          - generic [ref=e537]: "3"
+        - generic [ref=e538] [cursor=pointer]:
+          - generic [ref=e540]: 性传播疾病
+          - generic [ref=e541]: "2"
+        - generic [ref=e542] [cursor=pointer]:
+          - generic [ref=e544]: 甲沟炎
+          - generic [ref=e545]: "2"
+        - generic [ref=e546] [cursor=pointer]:
+          - generic [ref=e548]: 断食
+          - generic [ref=e549]: "5"
+        - generic [ref=e550] [cursor=pointer]:
+          - generic [ref=e552]: 咖啡
+          - generic [ref=e553]: "2"
+        - generic [ref=e554] [cursor=pointer]:
+          - generic [ref=e556]: 茶
+          - generic [ref=e557]: "3"
+        - generic [ref=e558] [cursor=pointer]:
+          - generic [ref=e560]: 水果营养
+          - generic [ref=e561]: "2"
+        - generic [ref=e562] [cursor=pointer]:
+          - generic [ref=e564]: 营养学
+          - generic [ref=e565]: "2"
+        - generic [ref=e566] [cursor=pointer]:
+          - generic [ref=e568]: 性教育
+          - generic [ref=e569]: "3"
+        - generic [ref=e570] [cursor=pointer]:
+          - generic [ref=e572]: 中国性焦虑
+          - generic [ref=e573]: "3"
+        - generic [ref=e574] [cursor=pointer]:
+          - generic [ref=e576]: 中国性压抑
+          - generic [ref=e577]: "2"
+        - generic [ref=e578] [cursor=pointer]:
+          - generic [ref=e580]: 性心理学
+          - generic [ref=e581]: "3"
+        - generic [ref=e582] [cursor=pointer]:
+          - generic [ref=e584]: 男性性健康
+          - generic [ref=e585]: "2"
+        - generic [ref=e586] [cursor=pointer]:
+          - generic [ref=e588]: 性欲低下
+          - generic [ref=e589]: "2"
+        - generic [ref=e590] [cursor=pointer]:
+          - generic [ref=e592]: 性厌恶
+          - generic [ref=e593]: "2"
+        - generic [ref=e594] [cursor=pointer]:
+          - generic [ref=e596]: 性偏好障碍
+          - generic [ref=e597]: "3"
+        - generic [ref=e598] [cursor=pointer]:
+          - generic [ref=e600]: 性别歧视
+          - generic [ref=e601]: "2"
+        - generic [ref=e602] [cursor=pointer]:
+          - generic [ref=e604]: 权威情结
+          - generic [ref=e605]: "2"
+        - generic [ref=e606] [cursor=pointer]:
+          - generic [ref=e608]: 乱伦
+          - generic [ref=e609]: "2"
+        - generic [ref=e610] [cursor=pointer]:
+          - generic [ref=e612]: 多元关系
+          - generic [ref=e613]: "2"
+        - generic [ref=e614] [cursor=pointer]:
+          - generic [ref=e616]: 自慰心理
+          - generic [ref=e617]: "2"
+        - generic [ref=e618]: 人文与艺术
+        - generic [ref=e620] [cursor=pointer]:
+          - generic [ref=e622]: 人文与艺术
+          - generic [ref=e623]: "607"
+        - generic [ref=e624] [cursor=pointer]:
+          - generic [ref=e626]: 艺术与疗愈
+          - generic [ref=e627]: "120"
+        - generic [ref=e628] [cursor=pointer]:
+          - generic [ref=e630]: 影音媒体
+          - generic [ref=e631]: "250"
+        - generic [ref=e632] [cursor=pointer]:
+          - generic [ref=e634]: 文学
+          - generic [ref=e635]: "60"
+        - generic [ref=e636] [cursor=pointer]:
+          - generic [ref=e638]: 阅读与书籍
+          - generic [ref=e639]: "30"
+        - generic [ref=e640] [cursor=pointer]:
+          - generic [ref=e642]: 艺术疗法
+          - generic [ref=e643]: "3"
+        - generic [ref=e644] [cursor=pointer]:
+          - generic [ref=e646]: 艺术家
+          - generic [ref=e647]: "6"
+        - generic [ref=e648] [cursor=pointer]:
+          - generic [ref=e650]: 芭蕾
+          - generic [ref=e651]: "15"
+        - generic [ref=e652] [cursor=pointer]:
+          - generic [ref=e654]: 书法疗法
+          - generic [ref=e655]: "4"
+        - generic [ref=e656] [cursor=pointer]:
+          - generic [ref=e658]: 摄影疗法
+          - generic [ref=e659]: "3"
+        - generic [ref=e660] [cursor=pointer]:
+          - generic [ref=e662]: 戏剧疗法
+          - generic [ref=e663]: "4"
+        - generic [ref=e664] [cursor=pointer]:
+          - generic [ref=e666]: 园艺疗法
+          - generic [ref=e667]: "3"
+        - generic [ref=e668] [cursor=pointer]:
+          - generic [ref=e670]: 手工疗法
+          - generic [ref=e671]: "3"
+        - generic [ref=e672] [cursor=pointer]:
+          - generic [ref=e674]: 表达性艺术
+          - generic [ref=e675]: "3"
+        - generic [ref=e676] [cursor=pointer]:
+          - generic [ref=e678]: 空间疗愈
+          - generic [ref=e679]: "2"
+        - generic [ref=e680] [cursor=pointer]:
+          - generic [ref=e682]: 电影
+          - generic [ref=e683]: "120"
+        - generic [ref=e684] [cursor=pointer]:
+          - generic [ref=e686]: 电视剧
+          - generic [ref=e687]: "20"
+        - generic [ref=e688] [cursor=pointer]:
+          - generic [ref=e690]: 音乐
+          - generic [ref=e691]: "30"
+        - generic [ref=e692] [cursor=pointer]:
+          - generic [ref=e694]: 播客
+          - generic [ref=e695]: "3"
+        - generic [ref=e696] [cursor=pointer]:
+          - generic [ref=e698]: 动漫
+          - generic [ref=e699]: "2"
+        - generic [ref=e700] [cursor=pointer]:
+          - generic [ref=e702]: 媒体疗法
+          - generic [ref=e703]: "6"
+        - generic [ref=e704] [cursor=pointer]:
+          - generic [ref=e706]: 文学疗法
+          - generic [ref=e707]: "5"
+        - generic [ref=e708] [cursor=pointer]:
+          - generic [ref=e710]: 作家
+          - generic [ref=e711]: "6"
+        - generic [ref=e712] [cursor=pointer]:
+          - generic [ref=e714]: 中国古典文学
+          - generic [ref=e715]: "8"
+        - generic [ref=e716] [cursor=pointer]:
+          - generic [ref=e718]: 中国诗歌
+          - generic [ref=e719]: "3"
+        - generic [ref=e720] [cursor=pointer]:
+          - generic [ref=e722]: 现当代文学
+          - generic [ref=e723]: "6"
+        - generic [ref=e724] [cursor=pointer]:
+          - generic [ref=e726]: 世界诗歌
+          - generic [ref=e727]: "4"
+        - generic [ref=e728]: 实践与增长
+        - generic [ref=e730] [cursor=pointer]:
+          - generic [ref=e732]: 实践与增长
+          - generic [ref=e733]: "420"
+        - generic [ref=e734] [cursor=pointer]:
+          - generic [ref=e736]: 个人发展
+          - generic [ref=e737]: "150"
+        - generic [ref=e738] [cursor=pointer]:
+          - generic [ref=e740]: 沟通技能
+          - generic [ref=e741]: "20"
+        - generic [ref=e742] [cursor=pointer]:
+          - generic [ref=e744]: 写作
+          - generic [ref=e745]: "20"
+        - generic [ref=e746] [cursor=pointer]:
+          - generic [ref=e748]: 讲座
+          - generic [ref=e749]: "80"
+        - generic [ref=e750] [cursor=pointer]:
+          - generic [ref=e752]: 超级个体
+          - generic [ref=e753]: "15"
+        - generic [ref=e754] [cursor=pointer]:
+          - generic [ref=e756]: 生产力
+          - generic [ref=e757]: "5"
+        - generic [ref=e758] [cursor=pointer]:
+          - generic [ref=e760]: 心流
+          - generic [ref=e761]: "3"
+        - generic [ref=e762] [cursor=pointer]:
+          - generic [ref=e764]: 心力韧性
+          - generic [ref=e765]: "3"
+        - generic [ref=e766] [cursor=pointer]:
+          - generic [ref=e768]: 稳定内核
+          - generic [ref=e769]: "2"
+        - generic [ref=e770] [cursor=pointer]:
+          - generic [ref=e772]: 正念生活
+          - generic [ref=e773]: "3"
+        - generic [ref=e774] [cursor=pointer]:
+          - generic [ref=e776]: 职场表达
+          - generic [ref=e777]: "20"
+        - generic [ref=e778] [cursor=pointer]:
+          - generic [ref=e780]: 元学习
+          - generic [ref=e781]: "6"
+        - generic [ref=e782] [cursor=pointer]:
+          - generic [ref=e784]: 职业规划
+          - generic [ref=e785]: "4"
+        - generic [ref=e786] [cursor=pointer]:
+          - generic [ref=e788]: 决策
+          - generic [ref=e789]: "4"
+        - generic [ref=e790] [cursor=pointer]:
+          - generic [ref=e792]: 社会资本
+          - generic [ref=e793]: "3"
+        - generic [ref=e794] [cursor=pointer]:
+          - generic [ref=e796]: 主题阅读
+          - generic [ref=e797]: "25"
+        - generic [ref=e798] [cursor=pointer]:
+          - generic [ref=e800]: 专注力
+          - generic [ref=e801]: "2"
+        - generic [ref=e802] [cursor=pointer]:
+          - generic [ref=e804]: 日记
+          - generic [ref=e805]: "2"
+        - generic [ref=e806] [cursor=pointer]:
+          - generic [ref=e808]: 每日打卡
+          - generic [ref=e809]: "2"
+        - generic [ref=e810] [cursor=pointer]:
+          - generic [ref=e812]: 拖延
+          - generic [ref=e813]: "2"
+        - generic [ref=e814] [cursor=pointer]:
+          - generic [ref=e816]: 极简整理
+          - generic [ref=e817]: "2"
+        - generic [ref=e818] [cursor=pointer]:
+          - generic [ref=e820]: 财务素养
+          - generic [ref=e821]: "5"
+        - generic [ref=e822] [cursor=pointer]:
+          - generic [ref=e824]: 情绪智力
+          - generic [ref=e825]: "2"
+        - generic [ref=e826] [cursor=pointer]:
+          - generic [ref=e828]: 任务管理
+          - generic [ref=e829]: "2"
+        - generic [ref=e830] [cursor=pointer]:
+          - generic [ref=e832]: 社交媒体
+          - generic [ref=e833]: "3"
+        - generic [ref=e834] [cursor=pointer]:
+          - generic [ref=e836]: 直播电商
+          - generic [ref=e837]: "2"
+        - generic [ref=e838] [cursor=pointer]:
+          - generic [ref=e840]: 公众演讲
+          - generic [ref=e841]: "2"
+        - generic [ref=e842] [cursor=pointer]:
+          - generic [ref=e844]: 专业吸引力
+          - generic [ref=e845]: "4"
+        - generic [ref=e846] [cursor=pointer]:
+          - generic [ref=e848]: 实践
+          - generic [ref=e849]: "2"
+        - generic [ref=e850] [cursor=pointer]:
+          - generic [ref=e852]: 高效沟通
+          - generic [ref=e853]: "3"
+        - generic [ref=e854] [cursor=pointer]:
+          - generic [ref=e856]: 非防御沟通
+          - generic [ref=e857]: "2"
+        - generic [ref=e858] [cursor=pointer]:
+          - generic [ref=e860]: 结构化表达
+          - generic [ref=e861]: "2"
+        - generic [ref=e862] [cursor=pointer]:
+          - generic [ref=e864]: 教练倾听
+          - generic [ref=e865]: "2"
+        - generic [ref=e866] [cursor=pointer]:
+          - generic [ref=e868]: 谈判
+          - generic [ref=e869]: "3"
+        - generic [ref=e870] [cursor=pointer]:
+          - generic [ref=e872]: 技术写作
+          - generic [ref=e873]: "9"
+        - generic [ref=e874] [cursor=pointer]:
+          - generic [ref=e876]: TED Talks
+          - generic [ref=e877]: "70"
+        - generic [ref=e878] [cursor=pointer]:
+          - generic [ref=e880]: 一席讲座
+          - generic [ref=e881]: "4"
+        - generic [ref=e882] [cursor=pointer]:
+          - generic [ref=e884]: 框架
+          - generic [ref=e885]: "3"
+        - generic [ref=e886] [cursor=pointer]:
+          - generic [ref=e888]: 圆桌
+          - generic [ref=e889]: "2"
+        - generic [ref=e890] [cursor=pointer]:
+          - generic [ref=e892]: 心理学讲座
+          - generic [ref=e893]: "3"
+  - main [ref=e894]:
+    - generic:
+      - generic:
+        - generic: Graph Workspace
+        - heading "知识关系工作台" [level=2]
+        - paragraph: 围绕主题聚合、交叉引用与层级依赖进行探索，适用于研究分析、知识梳理与结构化决策支持。
+      - generic [ref=e895]:
+        - button "总览" [ref=e896] [cursor=pointer]
+        - button "关系" [ref=e897] [cursor=pointer]
+        - button "层级" [ref=e898] [cursor=pointer]
+    - img [ref=e899]:
+      - generic [ref=e1339]:
+        - generic: Peace Lab 知识库
+        - generic: 智慧传承
+        - generic: 心智与心理学
+        - generic: 生命科学
+        - generic: 人文与艺术
+        - generic: 实践与增长
+        - generic: 哲学体系
+        - generic: 宗教与灵性
+        - generic: 太极拳
+        - generic: 黄帝内经
+        - generic: 瑜伽
+        - generic: 冥想
+        - generic: 心理学
+        - generic: 关系心理学
+        - generic: 疗法体系
+        - generic: 生物医学
+        - generic: 营养与断食
+        - generic: 性学研究
+        - generic: 死亡教育
+        - generic: 艺术与疗愈
+        - generic: 影音媒体
+        - generic: 文学
+        - generic: 阅读与书籍
+        - generic: 个人发展
+        - generic: 沟通技能
+        - generic: 写作
+        - generic: 讲座
+    - generic [ref=e1340]:
+      - button "+" [ref=e1341] [cursor=pointer]
+      - button "−" [ref=e1342] [cursor=pointer]
+      - button "⟲" [ref=e1343] [cursor=pointer]
+      - button "▣" [ref=e1344] [cursor=pointer]
+    - generic [ref=e1345]: 滚轮缩放 · 拖拽平移 · 点击节点查看洞察面板
+  - complementary:
+    - generic:
+      - generic:
+        - generic:
+          - generic: Insight Panel
+          - generic: 节点分析
+        - button "关闭详情": ×
+      - generic:
+        - heading [level=2]
+        - paragraph
+        - generic:
+          - heading "连接关系" [level=4]

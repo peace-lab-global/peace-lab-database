@@ -1,0 +1,19 @@
+{
+  "name": "peace-lab-visualization",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "storybook": "storybook dev -p 6006 -s .",
+    "build-storybook": "storybook build -s .",
+    "test:cypress": "cypress run",
+    "test:cypress:open": "cypress open"
+  },
+  "devDependencies": {
+    "@storybook/addon-essentials": "^8.6.12",
+    "@storybook/html-vite": "^8.6.12",
+    "@storybook/test": "^8.6.12",
+    "cypress": "^13.17.0",
+    "storybook": "^8.6.12"
+  }
+}
+

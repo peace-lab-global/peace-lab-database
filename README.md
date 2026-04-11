@@ -35,6 +35,73 @@
 | [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
 | [🔧 工具与脚本](Tools/tools/README.md) | 质量检查、链接验证等自动化工具 |
 | [🌐 Web 站点](Web/index.html) | 在线浏览版本 |
+| [🤖 Agent Skills 智能体技能](02-Mind-Psychology/psychology/stress-hpa/skills/) | 压力与HPA轴调节智能体技能模块 |
+
+---
+
+## 🤖 Agent Skills — 智能体技能模块
+
+本项目不仅提供知识文档，还包含可直接供 AI 智能体使用的 **结构化技能模块（Agent Skills）**。智能体通过调用这些技能，可对用户的心理健康问题进行评估、决策辅助和干预指导。
+
+### 设计理念
+
+Agent Skills 遵循以下设计原则：
+
+| 原则 | 说明 |
+|:-----|:-----|
+| **决策树驱动** | 每个技能包含清晰的判断流程，智能体可据此与用户交互 |
+| **结构化输出** | 评估报告模板化，生成规范、一致的专业输出 |
+| **技能链接** | 明确标注何时应触发其他技能，支持多技能协同 |
+| **转介指征** | 内置医疗/专业转介红线识别，防止延误就医 |
+| **使用示例** | 每个技能提供真实场景的评估和方案生成示例 |
+
+### 技能调用示例
+
+```
+用户: "我最近工作压力特别大，已经一个月了，睡不好白天很累"
+
+智能体调用流程:
+1. → Stress_Assessment_Skill
+   收集信息 → 分类为亚慢性/慢性压力
+2. → Cortisol_Management_Skill / Cortisol_Rhythm_Assessment_Skill
+   判断皮质醇状态（可能存在节律紊乱）
+3. → Chronic_Stress_Intervention_Skill
+   根据严重程度选择干预层级
+4. → Relaxation_Techniques_Guide_Skill
+   提供具体放松技术方案
+```
+
+### 当前已上线的 Agent Skills
+
+#### 压力与 HPA 轴模块 (`02-Mind-Psychology/psychology/stress-hpa/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Stress_Assessment_Skill.md` | 压力状态综合评估 | "我感觉压力很大" |
+| `Cortisol_Rhythm_Assessment_Skill.md` | 皮质醇节律评估 | "如何判断皮质醇是否正常" |
+| `Cortisol_Management_Skill.md` | 皮质醇调节方案 | "怎么自然降低皮质醇" |
+| `Chronic_Stress_Intervention_Skill.md` | 慢性压力干预决策 | "有什么方法减轻压力" |
+| `HPA_Axis_Regulation_Skill.md` | HPA轴功能调节 | "如何调节HPA轴功能" |
+| `CFS_Recognition_Skill.md` | 慢性疲劳综合征识别 | "我总是很累是不是CFS" |
+| `Stress_Health_Risk_Assessment_Skill.md` | 压力相关健康风险 | "长期压力对身体的影响" |
+| `Stress_Diary_Analysis_Skill.md` | 压力日记分析 | "帮我分析我的压力日记" |
+| `Relaxation_Techniques_Guide_Skill.md` | 放松技术指导 | "有什么放松方法" |
+
+### 扩展计划
+
+| 计划 | 说明 |
+|:-----|:-----|
+| 焦虑与反焦虑模块 | 已在 `self-regulation/anti-anxiety/` 上线 |
+| 强迫症与反强迫症模块 | 已在 `self-regulation/anti-ocd/` 上线 |
+| 拖延与反拖延症模块 | 已在 `behavioral/anti-procrastination/` 上线 |
+| 玻璃心与反玻璃心模块 | 已在 `self-regulation/resilience-fragile-ego/` 上线 |
+
+### 智能体使用注意事项
+
+- Agent Skills 提供**方向性评估和建议**，不替代医学诊断
+- 如智能体识别到红旗症状（如严重疲劳、PEM、持续失眠等），应建议用户寻求医疗专业人士帮助
+- 干预强度和频率应根据用户反馈动态调整
+- 所有建议应与用户的价值观和偏好协调
 
 ---
 

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Peace Lab favicon">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="100%" stop-color="#1d4ed8" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#5eead4" />
+      <stop offset="100%" stop-color="#f8fafc" />
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="16" fill="url(#bg)" />
+  <path d="M18 46L32 18L46 46" fill="none" stroke="url(#accent)" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" />
+  <path d="M22 38H42" fill="none" stroke="#93c5fd" stroke-linecap="round" stroke-width="3" />
+  <circle cx="32" cy="18" r="5" fill="#f8fafc" />
+  <circle cx="18" cy="46" r="5" fill="#5eead4" />
+  <circle cx="46" cy="46" r="5" fill="#5eead4" />
+</svg>
