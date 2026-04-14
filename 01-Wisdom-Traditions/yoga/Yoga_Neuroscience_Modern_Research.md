@@ -72,3 +72,12 @@
 ---
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 脑科学与神经反馈 | 03-生命 | [脑科学](../../03-Bio-Science/biology/brain/) | 瑜伽神经科学与脑影像研究 |
+| 免疫与PNI | 03-生命 | [PNI](../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 瑜伽抗炎机制与心理神经免疫 |
+| 端粒与衰老 | 03-生命 | [端粒](../../03-Bio-Science/biology/aging-longevity/Telomere_Epigenetics.md) | 冥想增加端粒酶活性 |
+| 冥想脑科学 | 02-心理 | [冥想脑科学](../../02-Mind-Psychology/meditation/overview/Meditation_Brain_Science_Foundations.md) | 瑜伽与冥想的神经科学基础 |

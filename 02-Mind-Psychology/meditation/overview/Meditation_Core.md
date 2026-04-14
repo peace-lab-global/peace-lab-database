@@ -209,3 +209,9 @@
 | **Anatta (无我)** | “自我”是一种心理建构，无实体。 | 佛陀三法印之一。 | 解构自我中心焦虑，减少执着。 | 观察“愤怒升起”而非“我生气”。 | 自我是由功能模块临时整合的幻觉。 | Metzinger, T. (2003). *Being No One*. |
 | **Karma (业)** | 意图驱动的行为产生的后果。 | 吠陀与奥义书传统。 | 鼓励承担责任，赋权改变未来。 | 一个善举是未来善果的种子。 | 可对应心理学上的“行为后果”和自我实现预言。 | Bronkhorst, J. (2011). |
 
+---
+
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 动态冥想的完整理论、神经科学与实践指导
+

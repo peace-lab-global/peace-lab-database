@@ -2,6 +2,37 @@
 
 ---
 
+## 2026-04-13 (止观禅定专业内容体系建设)
+
+> **规模**: 9 个新文件 + 3 个索引更新 / ~2,800+ 行新增内容
+> **目录**: `02-Mind-Psychology/meditation/samatha-vipassana/`
+
+### 新建止观禅定专项子目录 (9 文件 / ~2,742 行)
+
+| 文件 | 行数 | 内容主题 |
+|------|------|---------|
+| `Samatha_Vipassana_Theory.md` | 440 | 理论基础：哲学根基（缘起性空/四圣谛/三法印）、业处论、禅支论、四念处、十六观智、止观关系五种见解、五语术语对照、阿毗达摩心理学 |
+| `Dhyana_Samadhi_System.md` | 369 | 禅定体系：Dhyana/Samadhi词源演变、四禅八定深度解析、九次第定、灭尽定、六大传承对比（印度瑜伽/上座部/天台/藏传/禅宗/道家） |
+| `Samatha_Vipassana_History.md` | 316 | 历史发展：佛陀教法→部派分化→南传三线→中国本土化→藏传体系→近现代内观运动、大事年表（BCE 6C至今）、30+人物小传 |
+| `Practice_Guide_Beginner.md` | 316 | 初学者手册：入出息念分步教学、身体扫描、经行入门、五盖对治、15/30/60分钟方案、20+FAQ |
+| `Practice_Guide_Intermediate.md` | 319 | 进阶手册：近行定→安止定、禅相处理、四念处系统修习、七觉支、密集禅修（7/10/30日）、止观交替修法 |
+| `Practice_Guide_Advanced.md` | 283 | 高阶手册：四禅八定实修进退、十六观智实修指引、灭尽定、纯观乘vs止观乘、禅修教师培养、高阶风险对治 |
+| `Neuroscience_Research.md` | 329 | 神经科学：EEG/fMRI研究、结构脑变化、表观遗传学、剂量-效应关系、关键实验室、50+论文索引 |
+| `Modern_Psychology_Integration.md` | 345 | 现代心理学：CBT/MBCT/MBSR/DBT/ACT/CFT整合、创伤治疗、循证临床应用、禅修禁忌症、5个临床案例 |
+| `INDEX.md` | 97 | 子目录总索引、三条学习路径导航（初学者/研究者/临床工作者）、交叉引用 |
+
+### 索引与交叉引用更新 (3 文件)
+
+- **`02-Mind-Psychology/meditation/INDEX.md`**: 在"特定传统"表新增 samatha-vipassana/ 条目，"快速导航"添加止观禅定学习路线，文件总数/子目录数更新
+- **`01-Wisdom-Traditions/religions/buddhism/INDEX.md`**: "止观禅修专题"新增止观禅定专项知识库交叉引用（含5个核心文件直达链接）
+- **`01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md`**: 交叉引用表新增8条指向全部新建文件的链接
+
+### 各文件版本记录
+
+- 全部 9 个新建文件末尾均添加 `## 文档版本记录 (Version History)` 标准化版本表，记录 v1.0 创建信息
+
+---
+
 ## 2026-04-09 (五大支柱系统性增强计划 — ✅ 全部完成)
 
 > **规模**: 4 阶段 / 31 模块 / ~151 文件 / ~27,500+ 行新增内容，覆盖全部 5 大支柱。

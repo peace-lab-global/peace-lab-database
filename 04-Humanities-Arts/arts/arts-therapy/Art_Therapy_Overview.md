@@ -212,3 +212,15 @@
 
 *本文档为Peace Lab Database绘画疗法专项资料，基于国际标准与循证实践编撰。*
 *建议在具备专业资质的指导下开展相关工作，确保服务质量与伦理规范。*
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 抑郁症概览 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 绘画疗法对抑郁的临床应用 |
+| 焦虑症概览 | 02-心理学 | [焦虑症](../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md) | 表达性艺术对焦虑的干预 |
+| 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 艺术表达与身体导向的创伤处理 |
+| 神经科学 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 艺术创作的神经美学基础 |
+| 艺术疗愈路径 | 学习路径 | [艺术疗愈](../../../_meta/learning-paths/Art_Healing_Path.md) | 绘画疗法在艺术疗愈学习中的核心定位 |

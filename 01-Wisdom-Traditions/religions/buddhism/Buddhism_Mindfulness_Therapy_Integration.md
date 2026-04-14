@@ -496,6 +496,14 @@
 
 ---
 
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 正念行走的完整理论、神经科学、临床应用与进阶路径
+- [止观禅修详表](Buddhism_Samatha_Vipassana.md) — 经行禅修详解与标记系统
+- [佛教禅修实践体系](meditation/Buddhism_Meditation_Practice_System.md) — 五盖对治与经行应用
+
+---
+
 *本文档旨在系统梳理佛教正念传统与现代心理治疗的整合，供研究者、治疗师与修行者参考。临床实践请接受专业培训与督导。*
 
 *最后更新：2025年*

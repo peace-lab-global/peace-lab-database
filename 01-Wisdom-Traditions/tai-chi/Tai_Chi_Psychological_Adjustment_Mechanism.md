@@ -477,3 +477,14 @@
 ---
 
 *本专业内容体系遵循严格的循证实践原则，整合太极传统理论与现代心理学研究成果，为太极心理调适提供全面、系统、实用的专业指导。所有调适方法均基于高质量研究证据，并考虑文化适应性和实际可行性。*
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 职业倦怠干预 | 02-心理 | [职业倦怠](../../02-Mind-Psychology/psychology/applied/occupational-burnout/) | 太极对倦怠压力的调节 |
+| 自我调节技能 | 02-心理 | [自我调节](../../02-Mind-Psychology/psychology/self-regulation/) | 正念运动与自我调节 |
+| 运动与心理健康 | 03-生命 | [运动心理](../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | BDNF/神经可塑性 |
+| HRV心率变异性 | 03-生命 | [HRV](../../03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md) | 太极对自律神经的调节 |
+| 心流与专注 | 05-实践 | [心流](../../05-Praxis-Growth/personal-development/flow/) | 太极中的心流体验 |
+| 心力成长 | 05-实践 | [心力](../../05-Praxis-Growth/personal-development/mental-resilience/) | 太极与心理韧性构建 |

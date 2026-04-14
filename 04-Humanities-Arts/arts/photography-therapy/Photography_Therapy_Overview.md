@@ -227,3 +227,15 @@
 ---
 
 > **导航**: [摄影疗愈 INDEX](./INDEX.md) | [人文艺术 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 抑郁症概览 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 摄影疗法对抑郁情绪的干预 |
+| 正念冥想 | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念摄影与觉察训练的整合 |
+| 禅宗审美 | 01-智慧传承 | [禅宗文化](../../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md) | 禅意审美与摄影视觉表达 |
+| 神经科学 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 视觉艺术与神经美学 |
+| 艺术疗愈路径 | 学习路径 | [艺术疗愈](../../../_meta/learning-paths/Art_Healing_Path.md) | 摄影在艺术疗愈学习中的定位 |

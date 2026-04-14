@@ -298,3 +298,16 @@ HPA轴敏感性:    过度敏感/脱敏       校准良好
 ---
 *本文档为运动与心理健康知识模块，属运动科学知识体系子模块。*
 *Peace Lab Database — 03-Bio-Science / biology / exercise-science*
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 太极拳心理调适 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极作为身心运动干预的循证体系 |
+| 瑜伽神经科学 | 01-智慧传承 | [瑜伽研究](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | 瑜伽运动对精神健康的神经机制 |
+| 抑郁症概览 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 运动抗抑郁的临床应用 |
+| 焦虑症概览 | 02-心理学 | [焦虑症](../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md) | 运动抗焦虑的循证证据 |
+| 芞蕾治疗 | 04-人文艺术 | [芞蕾应用](../../../04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md) | 舞蹈运动与心理健康的整合 |
+| 心力成长 | 05-实践增长 | [心理韧性](../../../05-Praxis-Growth/mental-resilience/) | 运动习惯与韧性培养的实践路径 |

@@ -178,3 +178,15 @@
 ---
 
 > **导航**: [书法疗愈 INDEX](./INDEX.md) | [人文艺术 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 禅宗审美文化 | 01-智慧传承 | [禅宗审美](../../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md) | 书法中的禅意与东方美学 |
+| 认知衰老预防 | 03-生命科学 | [认知衰老](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) | 书法练习对老年认知功能的保护 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 书法作为正念练习的载体 |
+| 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 书写动作与身体觉察的整合 |
+| 智慧老化路径 | 学习路径 | [老化路径](../../../_meta/learning-paths/Aging_Wisdom_Path.md) | 书法在智慧老化学习中的定位 |

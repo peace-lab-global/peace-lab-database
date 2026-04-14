@@ -140,6 +140,7 @@
 |---|---|---|---|---|---|
 | **晨起** | 觉察醒来过程 | 观察第一念、身体感觉 | 带着觉察开始一天 | 前额叶激活 | 慢慢醒来 |
 | **饮食** | 觉察进食过程 | 看、闻、品、嚼、吞 | 减少过食、增加享受 | 岛叶激活 | 细嚼慢咽 |
+| **饮水** | 觉察饮水全过程 | 观、触、嗅、饮、咽、停、谢 | 感官锚定、内感受训练 | 岛叶+迷走神经激活 | 每日多次微正念训练 |
 | **行走** | 觉察行走动作 | 脚的提起、移动、放下 | 身心合一 | 运动皮层整合 | 专注每步 |
 | **工作** | 觉察当下任务 | 一次一事、注意力回归 | 减少散乱、提升效率 | 注意网络优化 | 单任务专注 |
 | **等待** | 觉察呼吸 | 利用等待时间修止 | 减少焦躁 | 自我调节 | 转化时间 |
@@ -270,3 +271,12 @@
 ---
 
 *本文件系统阐述了佛教禅修实践的完整体系，为不同层次的修习者提供了专业指导和实用资源。*
+
+---
+
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md)
+- [正念饮水专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md)
+- [正念日常生活](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md)
+- [正念临床应用](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)

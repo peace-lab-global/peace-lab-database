@@ -215,3 +215,15 @@ Steve Cole 的 CTRA (Conserved Transcriptional Response to Adversity) 模型：
 ---
 *本文档为心理神经免疫学知识模块。*
 *Peace Lab Database — 03-Bio-Science / biology / immune-inflammation*
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | MBSR对免疫标志物的调节证据 |
+| 抑郁症 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 炎症-抑郁双向通路 |
+| 道家养生 | 01-智慧传承 | [养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 传统养生对免疫功能的影响 |
+| HPA轴 | 03-生命科学 | [HPA轴](../hpa-axis/HPA_Axis_Overview.md) | 压力-免疫轴的神经内分泌机制 |
+| 肠-脑轴 | 03-生命科学 | [肠脑轴](../gut-microbiome/Gut_Brain_Axis.md) | 微生物组-免疫-神经三向通路 |

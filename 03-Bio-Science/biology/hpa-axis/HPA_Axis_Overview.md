@@ -343,3 +343,15 @@
 ---
 
 *本文档作为Peace Lab Database HPA轴知识体系的概览，提供专业级别的基础框架。详细的神经科学机制、应激反应、临床应用及干预策略请参阅相关专题文档。*
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念干预对皮质醇节律的调节 |
+| 焦虑症 | 02-心理学 | [焦虑症](../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md) | HPA轴过度激活与焦虑症状 |
+| 太极拳心理调适 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对皮质醇和HPA轴的调节作用 |
+| 心理神经免疫学 | 03-生命科学 | [PNI](../immune-inflammation/Psychoneuroimmunology.md) | HPA轴-免疫系统的双向调节 |
+| 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 创伤应激与SE治疗的神经内分泌基础 |

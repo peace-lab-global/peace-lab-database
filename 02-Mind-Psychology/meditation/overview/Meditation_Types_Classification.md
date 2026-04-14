@@ -121,5 +121,11 @@
 - Britton, W. B., et al. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. *Clinical Psychological Science*.
 
 ---
+
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 行走冥想的完整理论、临床应用与实践指导
+
+---
 *Created by Peace Lab Database Project*
 *Comprehensive meditation types classification integrating traditional wisdom & modern neuroscience*

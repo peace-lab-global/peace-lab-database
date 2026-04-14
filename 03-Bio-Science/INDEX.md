@@ -85,8 +85,14 @@
   - [办公室眼部放松科学方法 (Scientific Methods)](biology/office-eye-relaxation/Office_Eye_Relaxation.md)
 - [**睡前拉伸放松 (Pre-Sleep Stretching)**](biology/pre-sleep-stretching/) **[NEW]** - 副交感激活、完整拉伸序列、渐进性肌肉放松
   - [睡前拉伸放松核心体系 (Core System)](biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md)
+- [**落枕与急性颈肩疼痛 (Acute Neck Pain & Stiff Neck)**](biology/neck-pain-acute/) **[NEW]** - 急性期处理、康复训练、自我按摩、预防措施
+  - [急性期处理指南 (Acute Phase Management)](biology/neck-pain-acute/Neck_Pain_Acute_Phase_Management.md) — 24-48小时黄金处理期
+  - [拉伸与康复动作 (Stretch & Rehabilitation)](biology/neck-pain-acute/Neck_Pain_Stretch_Exercises.md) — 等长收缩训练、拉伸序列
+  - [自我按摩与穴位按压 (Self-Massage & Acupressure)](biology/neck-pain-acute/Neck_Pain_Self_Massage_Acupoints.md) — 筋膜释放、中医穴位
+  - [预防与日常护理 (Prevention & Daily Care)](biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md) — 枕头选择、办公环境、姿势矫正
+  - [医疗转诊指南 (Medical Referral Guide)](biology/neck-pain-acute/Neck_Pain_Medical_Referral_Guide.md) — 红旗症状识别、就医时机
 
-### 3.5 🩺 疼痛科学 (Pain Science) **[NEW]**
+### 3.6 🩺 疼痛科学 (Pain Science) **[NEW]**
 - [**疼痛科学体系**](biology/pain-science/) — 闸门理论/中枢敏化/生物心理社会模型
   - [疼痛科学总览](biology/pain-science/Pain_Science_Overview.md) — 疼痛机制、神经矩阵、评估量表
   - [慢性疼痛心理干预](biology/pain-science/Pain_Psychology_Intervention.md) — CBT/ACT/恐惧-回避模型
@@ -107,6 +113,19 @@
 - [死亡存在主义心理 (Existential Psychology)](death/Death_Existential_Psychology.md)
 - [死亡冥想实践 (Death Meditation)](death/Death_Meditation_Practices.md)
 - [死亡焦虑治疗 (Death Anxiety Treatment)](death/Death_Anxiety_Treatment.md)
+
+---
+
+## 跨支柱关联 | Cross-Pillar References
+
+> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../_meta/cross-references.md)。
+
+| 关联支柱 | 关键连接 | 代表性关联 |
+|----------|---------|------------|
+| **01-智慧传承** | 瑜伽·太极·气功 | 瑜伽解剖↔拉伸、太极↔疼痛/心血管/运动科学、内经↔HPA轴 |
+| **02-心理学** | HPA轴·睡眠·免疫 | 压力↔HPA轴、睡眠↔睡前拉伸、PNI↔冥想/抑郁 |
+| **04-人文艺术** | 神经·认知·HRV | 脑科学↔书法/音乐、认知衰老↔书法/园艺疗愈、HRV↔音乐 |
+| **05-实践增长** | 运动·能量·习惯 | 运动科学↔习惯养成、能量恢复↔工作效率、HRV↔心流 |
 
 ---
 *返回根目录 [README.md](../README.md)*

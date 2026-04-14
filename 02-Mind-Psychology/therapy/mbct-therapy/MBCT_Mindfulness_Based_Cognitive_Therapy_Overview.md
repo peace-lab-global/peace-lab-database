@@ -113,3 +113,15 @@
 | | 复发预防效果 | 复发事件监测 | 复发率显著降低 | 复发监测、预防强化 | 预防效果是MBCT的核心目标 |
 | **安全性指标** | 心理危机监测 | 危机事件记录、安全评估 | 无严重心理危机事件 | 危机预案、安全管理 | 安全是MBCT实施的首要考虑 |
 | | practice安全性 | 正念practice安全性 | practice过程安全可控 | practice指导、安全保障 | 安全的practice环境促进参与 |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 佛教止观禅修 | 01-智慧传承 | [止观传统](../../../01-Wisdom-Traditions/religions/buddhism/) | MBCT正念根源：止观→去中心化技术 |
+| 心理神经免疫学 | 03-生命科学 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | MBCT对免疫标志物的调节证据 |
+| 抑郁症概览 | 02-心理学 | [抑郁症](../../psychology/clinical/depression/Depression_Overview.md) | MBCT核心适应症：复发性抑郁预防 |
+| 正念日常实践 | 05-实践增长 | [正念生活](../../../05-Praxis-Growth/mindful-living/) | MBCT技能向日常生活的迁移 |
+| 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md) | 身心整合的互补路径 |

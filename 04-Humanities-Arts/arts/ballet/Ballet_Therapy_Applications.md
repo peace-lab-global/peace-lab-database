@@ -229,3 +229,15 @@
 *Created by Peace Lab Database Project*  
 *Author: Allen Galler (allengaller@gmail.com)*  
 *Last Updated: 2026年2月5日*
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 舞动与身体导向创伤治疗的整合 |
+| 运动与心理健康 | 03-生命科学 | [运动心理](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 芞蕾作为身心运动的神经科学基础 |
+| 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md) | 身体形式与心理干预的互补路径 |
+| 疼痛科学 | 03-生命科学 | [疼痛概览](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 舞蹈运动对慢性疼痛的干预机制 |
+| 正念身心整合 | 05-实践增长 | [身心整合路径](../../../_meta/learning-paths/Body_Mind_Integration_Path.md) | 芞蕾在身心整合学习中的定位 |

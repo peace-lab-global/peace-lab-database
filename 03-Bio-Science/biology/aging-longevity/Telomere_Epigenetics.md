@@ -250,3 +250,14 @@
 ---
 
 > **导航**: [衰老与长寿科学 INDEX](./INDEX.md) | [生物科学 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 瑜伽神经科学 | 01-智慧传承 | [瑜伽研究](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | 冥想对端粒酶活性的影响 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念干预与表观遗传学年龄 |
+| HPA轴与压力 | 03-生命科学 | [HPA轴](../hpa-axis/HPA_Axis_Overview.md) | 慢性压力加速端粒缩短的机制 |
+| 道家养生 | 01-智慧传承 | [养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 气功对细胞衰老标志物的影响 |

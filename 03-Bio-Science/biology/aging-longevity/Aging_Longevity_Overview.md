@@ -264,3 +264,15 @@
 ---
 
 > **导航**: [衰老与长寿科学 INDEX](./INDEX.md) | [生物科学 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 太极拳养生 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对老年认知与平衡的保护作用 |
+| 冥想与端粒 | 01-智慧传承 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | 冥想对端粒长度的保护证据 |
+| 书法疗愈 | 04-人文艺术 | [书法治疗](../../../04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md) | 书法对老年认知功能的改善 |
+| 道家养生 | 01-智慧传承 | [养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 传统养生与现代长寿科学的对话 |
+| 智慧老化路径 | 学习路径 | [老化路径](../../../_meta/learning-paths/Aging_Wisdom_Path.md) | 跨支柱智慧老化学习路线 |

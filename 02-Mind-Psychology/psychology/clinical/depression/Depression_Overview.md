@@ -274,3 +274,13 @@
 
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 肠脑轴与心理健康 | 03-生命 | [肠脑轴](../../../03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md) | 抑郁症的肠道微生物假说 |
+| 心理神经免疫学 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 抑郁症的炎症假说 |
+| 运动与心理健康 | 03-生命 | [运动心理](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动抗抑郁(BDNF) |
+| MBCT正念认知疗法 | 02-心理 | [MBCT](../../therapy/mbct-therapy/) | 抑郁症复发预防 |
+| 摄影疗愈 | 04-人文 | [摄影疗愈](../../../04-Humanities-Arts/arts/photography-therapy/) | 抑郁症的摄影疗愈干预 |

@@ -1,8 +1,8 @@
 # 冥想知识库总索引 | Meditation Knowledge Base Master Index
 
 > **最后更新**：2026-04
-> **文件总数**：80+ Markdown 文件
-> **子目录数**：14
+> **文件总数**：90+ Markdown 文件
+> **子目录数**：15
 
 ---
 
@@ -50,6 +50,7 @@
 
 | 目录 | 中文名 | 文件数 | 说明 |
 |------|--------|--------|------|
+| [samatha-vipassana/](./samatha-vipassana/INDEX.md) | 止观禅定 | 9 | 理论基础、禅定体系、历史传承、分层实践(初/中/高阶)、神经科学、现代心理学 |
 | [vipassana/](./vipassana/INDEX.md) | 内观禅修 | 1+1补强 | 内观详解 + 实践指南 |
 | [transcendental-meditation/](./transcendental-meditation/INDEX.md) | 超觉静坐 | 1+1补强 | TM详解 + 研究证据 |
 | [direct-recognition/](./direct-recognition/INDEX.md) | 直接认证冥想 | 8 | 理论、评估、传承、神经科学等 |
@@ -70,6 +71,7 @@
 - **教学实操**：[呼吸脚本](./guided-scripts/Scripts_Mindfulness_Breathing.md) → [身体扫描](./guided-scripts/Scripts_Body_Scan.md) → [慈心禅](./guided-scripts/Scripts_Loving_Kindness.md) → [特殊场景](./guided-scripts/Scripts_Special_Scenarios.md)
 - **中国传统**：[传统概论](./chinese-traditions/Chinese_Meditation_Overview.md) → [静坐功法](./chinese-traditions/Chinese_Sitting_Practices.md) → [中医冥想](./chinese-traditions/Chinese_TCM_Meditation.md) → [本土化](./chinese-traditions/Chinese_Localization_Challenges.md)
 - **职业发展**：[职业路径](./career-business/Meditation_Career_Pathways.md) → [商业模式](./career-business/Meditation_Business_Models.md) → [数字化产业](./career-business/Meditation_Digital_Industry.md)
+- **止观禅定**：[理论基础](./samatha-vipassana/Samatha_Vipassana_Theory.md) → [禅定体系](./samatha-vipassana/Dhyana_Samadhi_System.md) → [历史传承](./samatha-vipassana/Samatha_Vipassana_History.md) → [初学者](./samatha-vipassana/Practice_Guide_Beginner.md) → [进阶](./samatha-vipassana/Practice_Guide_Intermediate.md) → [高阶](./samatha-vipassana/Practice_Guide_Advanced.md) → [神经科学](./samatha-vipassana/Neuroscience_Research.md) → [心理学应用](./samatha-vipassana/Modern_Psychology_Integration.md)
 - **特殊人群**：[儿童青少年](./overview/Children_Youth_Meditation.md) · [冥想与睡眠](./overview/Meditation_And_Sleep.md) · [动态冥想](./overview/Movement_Meditation.md)
 - **纪录片**：[冥想纪录片完整指南](./documentary/Meditation_Documentary_Guide.md) → 17部精选正念冥想纪录片
 

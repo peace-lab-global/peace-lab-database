@@ -15,6 +15,10 @@
 
 ## 正念走路的练习层级表 (Levels of Mindful Walking Practice)
 
+> ℹ️ **详细内容参见：[正念行走专业实践指南 (Mindful Walking Practice)](Mindful_Walking_Practice.md)** —— 包含完整的理论基础、神经科学机制、临床应用、进阶路径与特殊人群调整。
+>
+> ℹ️ **实修方案参见：[正念行走实修方案集 (Mindful Walking Protocols)](Mindful_Walking_Protocols.md)** —— 七种变式操作脚本、20周进阶方案、八类人群定制课程、临床应用协议与安全管理详案。
+
 | 层级 | 名称 | 时长 | 核心要点 | 适用场景 | 进阶要素 | 专业提示 |
 |---|---|---|---|---|---|---|
 | **入门级** | 缓慢正念行走 | 10-15分钟 | 极慢速(每步3-5秒),专注双脚触地感、重心转移、腿部肌肉 | 室内/花园安全环境,作为正式练习 | 可闭眼(在安全前提下)增强本体感觉 | 适合初学者、焦虑者、需要躯体锚定者 |
@@ -26,6 +30,8 @@
 ---
 
 ## 正念饮水的微练习表 (Micro-Practice of Mindful Drinking)
+
+> ℹ️ **详细内容参见：[正念饮水专业实践指南 (Mindful Drinking Practice)](Mindful_Drinking_Practice.md)** —— 包含完整的理论基础、临床应用、特殊人群调整与循证支持。
 
 | 步骤 | 名称 | 具体操作 | 觉察焦点 | 时长 | 心理机制 | 适用情境 |
 |---|---|---|---|---|---|---|
@@ -45,6 +51,9 @@
 | **开机/登录** | 开机正念仪式 | 开机等待时,做3次深呼吸,设定今日工作意图(如"今天专注完成X项目") | 每日1次 | 将"被动上班"转为"主动选择",减少茫然感 | 障碍:习惯性立刻刷邮件/社交; 对策:设置提醒便签 |
 | **邮件处理** | 邮件前深呼吸 | 打开邮箱前,停顿5秒,3次呼吸,问自己"现在是处理邮件的最佳时机吗?" | 每次打开邮箱前 | 避免被动响应,建立边界,减少邮件焦虑 | 障碍:邮件通知即时弹出; 对策:关闭通知,定时查看(如每2小时1次) |
 | **会议** | 会议前60秒正念 | 会议开始前1分钟,闭眼或低头,觉察身体姿势与呼吸,清空上一任务 | 每次会议前 | 提升会议专注度,减少"身在心不在" | 障碍:会议紧接会议无缓冲; 对策:在日程中为每个会议前留1-2分钟空白 |
+
+> ℹ️ **详细内容参见：[正念开会专业实践指南 (Mindful Meeting Practice)](Mindful_Meeting_Practice.md)** —— 包含完整的会前准备、会中维持、会后整合、不同场景适应方案与临床应用案例。
+
 | **写作/编程** | 番茄钟+正念休息 | 工作25分钟,休息5分钟时做正念练习(不刷手机):站起来拉伸、看窗外、闭眼呼吸 | 每25分钟循环 | 维持注意力,防止疲劳与错误,提升创造力 | 障碍:进入心流不愿停; 对策:灵活调整,心流时可延长至50分钟再休息 |
 | **通勤** | 通勤正念 | 坐车/开车时,觉察身体接触座椅、车辆震动、窗外风景(开车需注意安全) | 每日往返 | 将"浪费时间"转为"恢复时间",到达时更清醒 | 障碍:习惯刷手机/听播客; 对策:至少最后5分钟关闭屏幕,做正念过渡 |
 | **午餐** | 正念进食 | 前5分钟静默进食,专注味道、质地、咀嚼次数,放下手机 | 每日午餐 | 改善消化,减少暴食,提升食物满意度,创造"真正的休息" | 障碍:同事邀约社交午餐; 对策:每周选2-3天独自正念午餐,其余天社交 |
@@ -87,6 +96,63 @@
 | **视频会议** | "Zoom疲劳"、多任务诱惑 | 会议中正念实验 | 关闭自我画面(减少自我监控)、全屏专注、会议间隙闭眼1分钟 | 减少疲劳,提升参与感,改善会后记忆 |
 | **导航/地图** | 依赖导航失去空间感与当下体验 | 正念导航 | 到达前最后5分钟关闭导航,用感官与记忆找路 | 重建空间认知,提升环境觉察,增加"到达"成就感 |
 | **流媒体/追剧** | 自动播放下一集、边看边刷手机 | 正念观看 | 关闭自动播放,每集后暂停5分钟觉察感受,决定是否继续 | 减少"看完后悔",提升观看满意度,防止过度消费 |
+
+---
+
+## 参考文献 (References)
+
+### 核心理论文献
+
+1. **Kabat-Zinn, J. (1994).** *Wherever You Go, There You Are: Mindfulness Meditation in Everyday Life.* New York: Hyperion.
+   - 正念融入日常生活的经典著作
+
+2. **Kabat-Zinn, J. (2013).** *Full Catastrophe Living: Using the Wisdom of Your Body and Mind to Face Stress, Pain, and Illness* (Revised ed.). New York: Bantam Books.
+   - MBSR体系与非正式正念练习的权威指南
+
+3. **Thich Nhat Hanh. (2015).** *The Miracle of Mindfulness: An Introduction to the Practice of Meditation.* Boston: Beacon Press.
+   - 日常正念生活的灵性与实践指导
+
+### 临床应用文献
+
+4. **Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013).** *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). New York: Guilford Press.
+   - MBCT核心教材，三分钟呼吸空间等日常正念技术来源
+
+5. **Linehan, M. M. (2015).** *DBT Skills Training Manual* (2nd ed.). New York: Guilford Press.
+   - DBT正念技能在日常生活中的应用
+
+6. **Birtwell, K., et al. (2019).** An Exploration of Formal and Informal Mindfulness Practice and Associations with Wellbeing. *Mindfulness*, 10(1), 89-99.
+   - 非正式正念练习(日常正念)与幸福感的关联
+
+### 神经科学文献
+
+7. **Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015).** The Neuroscience of Mindfulness Meditation. *Nature Reviews Neuroscience*, 16(4), 213-225.
+   - 正念训练改变大脑结构与功能的综合综述
+
+8. **Brewer, J. A., et al. (2011).** Meditation Experience is Associated with Differences in Default Mode Network Activity and Connectivity. *PNAS*, 108(50), 20254-20259.
+   - 正念减少默认模式网络活动的神经科学证据
+
+### 数字时代正念
+
+9. **Bailenson, J. N. (2021).** Nonverbal Overload: A Theoretical Argument for the Causes of Zoom Fatigue. *Technology, Mind, and Behavior*, 2(1).
+   - Zoom疲劳的理论模型
+
+10. **Mark, G., Gudith, D., & Klocke, U. (2008).** The Cost of Interrupted Work: More Speed and Stress. *Proceedings of CHI 2008*, 107-110.
+    - 数字干扰对注意力与压力的影响
+
+---
+
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南 (Mindful Walking Practice)](Mindful_Walking_Practice.md)
+- [正念饮水专业实践指南 (Mindful Drinking Practice)](Mindful_Drinking_Practice.md)
+- [正念开会专业实践指南 (Mindful Meeting Practice)](Mindful_Meeting_Practice.md)
+- [正念核心概念与技术 (Mindfulness Core)](../Mindfulness_Core.md)
+- [正念临床应用 (Mindfulness Clinical Applications)](../Mindfulness_Clinical_Applications.md)
+- [正念减压疗法 (MBSR)](../Mindfulness_Based_Stress_Reduction.md)
+- [正念认知疗法 (MBCT)](../Mindfulness_Based_Cognitive_Therapy.md)
+- [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md)
+- [冥想核心](/02-Mind-Psychology/meditation/overview/Meditation_Core.md)
+- [专注力冥想疗愈](/02-Mind-Psychology/therapy/focus-therapy/Focus_Meditation_Therapy.md)
 
 ---
 

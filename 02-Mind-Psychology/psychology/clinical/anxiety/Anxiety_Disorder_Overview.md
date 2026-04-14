@@ -443,5 +443,17 @@ DSM-5 文本修订版（2022）对焦虑障碍部分的主要更新：
 
 ---
 
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| HPA轴与压力反应 | 03-生命科学 | [HPA轴](../../../../03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md) | 焦虑的神经内分泌机制 |
+| 运动与心理健康 | 03-生命科学 | [运动心理](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动抗焦虑的循证体系 |
+| 正念冥想传统 | 01-智慧传承 | [佛教冥想](../../../../01-Wisdom-Traditions/religions/buddhism/) | 正念干预焦虑的传统根源 |
+| 艺术疗愈 | 04-人文艺术 | [绘画疗法](../../../../04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md) | 表达性艺术对焦虑的缓解 |
+| 压力韧性实践 | 05-实践增长 | [心力成长](../../../../05-Praxis-Growth/mental-resilience/) | 日常焦虑管理与自我调节 |
+
+---
+
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*

@@ -38,3 +38,14 @@
 | **睡眠瑜伽** | Yoga Nidra | 在清醒与睡眠的边缘保持觉察。 | 诱导海量的 Alpha 波与 Theta 波。 | 被称为“一小时睡眠瑜伽等于三小时深度睡眠”。 |
 | **清明梦训练** | Lucid Dreaming | 在梦中意识到自己在做梦。 | 增强前额叶在 REM 期的活跃度。 | 用于解决严重的心理矛盾或进行创意训练。 |
 | **意象引导** | Guided Imagery | 睡前进行特定平静空间的视觉化建构。 | 占用视觉皮层带宽，减少杂念。 | 适合由于认知过度活跃引起的入睡困难。 |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 瑜伽尼德拉/睡眠瑜伽 | 01-智慧传承 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | Yoga Nidra的神经生理学机制 |
+| 声音疗愈 | 02-心理学 | [声音医学](../../therapy/sensory/Sensory_Sound_Medicine.md) | 声音频率引导睡眠脑波 |
+| 呼吸训练 | 03-生命科学 | [呼吸法](../../../03-Bio-Science/biology/breathwork/) | 呼吸调节副交感促进入睡 |
+| 睡眠习惯优化 | 05-实践增长 | [睡眠优化路径](../../../_meta/learning-paths/Sleep_Optimization_Path.md) | 实践层面的睡眠改善路径 |

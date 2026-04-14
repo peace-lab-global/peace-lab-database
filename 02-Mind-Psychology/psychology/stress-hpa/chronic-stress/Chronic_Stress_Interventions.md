@@ -625,4 +625,4 @@
 
 ---
 
-*相关文档: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力健康影响](Chronic_Stress_Health_Effects.md) | [正念减压疗法](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [放松术核心概览](../../somatic-body/relaxation/Relaxation_Overview.md) | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)*
+*相关文档: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力健康影响](Chronic_Stress_Health_Effects.md) | [正念减压疗法](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [正念行走专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | [放松术核心概览](../../somatic-body/relaxation/Relaxation_Overview.md) | [辨证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)*

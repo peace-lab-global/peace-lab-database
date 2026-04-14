@@ -106,3 +106,12 @@
 ---
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| ACT接纳承诺疗法 | 02-心理 | [ACT](../../02-Mind-Psychology/therapy/act-therapy/) | 瑜伽心理健康与接纳承诺疗法 |
+| 躯体体验疗法 | 02-心理 | [躯体疗法](../../02-Mind-Psychology/psychology/somatic-body/somatic/) | 瑜伽心理疗愈与躯体疗法 |
+| 疼痛身心疗法 | 03-生命 | [疼痛身心](../../03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md) | 瑜伽在疼痛管理中的应用 |
+| 职业倦怠 | 02-心理 | [倦怠干预](../../02-Mind-Psychology/psychology/applied/occupational-burnout/) | 瑜伽在倦怠干预中的应用 |

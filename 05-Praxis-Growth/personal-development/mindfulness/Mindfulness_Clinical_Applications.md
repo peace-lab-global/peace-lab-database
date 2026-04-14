@@ -81,6 +81,8 @@
 | **神经性厌食** (AN) | 谨慎使用 | 身体扫描、自我慈悲(而非正念饮食) | ★★☆☆☆ | 正念饮食可能加剧食物控制,需专业监督 |
 | **肥胖/情绪化饮食** | MB-EAT-O | 渴求冲浪(食物渴求)、饱腹觉察 | ★★★☆☆ | 平均体重下降4.2kg(6个月) |
 
+> ℹ️ **正念饮水作为饮食障碍干预的入门练习：** 详见 [正念饮水专业实践指南](mindful-daily-living/Mindful_Drinking_Practice.md)，包含对进食障碍、焦虑、抑郁等的辅助治疗作用与循证支持。
+
 ### 2.5 人格障碍
 
 | 障碍 | 正念角色 | 核心应用 | 证据等级 |
@@ -518,6 +520,16 @@
 ### 批判性文献
 
 13. **Van Dam, N. T., et al. (2018).** Mind the Hype: A Critical Evaluation and Prescriptive Agenda for Research on Mindfulness and Meditation. *Perspectives on Psychological Science*, 13(1), 36-61.
+
+---
+
+## 交叉引用 | Cross References
+
+- [正念行走专业实践指南](mindful-daily-living/Mindful_Walking_Practice.md) — 行走正念的临床应用与循证研究
+- [正念饮水专业实践指南](mindful-daily-living/Mindful_Drinking_Practice.md) — 饮水正念的临床应用与循证研究
+- [正念开会专业实践指南](mindful-daily-living/Mindful_Meeting_Practice.md) — 职场正念的临床应用与倦怠预防
+- [正念日常生活](mindful-daily-living/Mindful_Daily_Living.md) — 日常正念练习的综合框架
+- [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 正念的传统根源与现代临床转化
 
 ---
 

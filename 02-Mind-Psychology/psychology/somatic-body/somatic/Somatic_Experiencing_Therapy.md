@@ -579,3 +579,15 @@
 - SE International: traumahealing.org
 - 危机热线(美国): 988 Suicide & Crisis Lifeline
 - PTSD热线(美国): 1-800-273-8255
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md) | 身体导向的创伤干预互补 |
+| 太极拳心理调适 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 身体觉察与神经系统调节 |
+| HPA轴与创伤 | 03-生命科学 | [HPA轴](../../../03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md) | 创伤应激的神经内分泌机制 |
+| 心理神经免疫学 | 03-生命科学 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 创伤对免疫系统的影响 |
+| 舉动疗法/芞蕾 | 04-人文艺术 | [芞蕾治疗](../../../04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md) | 身体表达性艺术与身体疗法的整合 |
