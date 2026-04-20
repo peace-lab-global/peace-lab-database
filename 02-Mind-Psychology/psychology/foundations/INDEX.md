@@ -16,6 +16,10 @@
   - [暗黑三联征](personality/Dark_Triad_Personality.md)
   - [人格评估工具](personality/Personality_Assessment_Tools.md)
   - [人格发展与改变](personality/Personality_Development_Change.md)
+- [**课题分离 · 阿德勒个体心理学 (Adlerian Task Separation)**](adlerian-task-separation/) **[NEW]** — 理论基础/临床应用/案例分析/治疗技术
+  - [课题分离理论总览](adlerian-task-separation/Adlerian_Task_Separation_Overview.md)
+  - [临床应用与治疗技术](adlerian-task-separation/Adlerian_Task_Separation_Clinical_Application.md)
+  - [案例分析与实践指导](adlerian-task-separation/Adlerian_Task_Separation_Case_Studies.md)
 
 ---
 *返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*

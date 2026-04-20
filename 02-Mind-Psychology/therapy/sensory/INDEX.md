@@ -12,6 +12,7 @@
 - [Sensory Mantra Sacred Sound](Sensory_Mantra_Sacred_Sound.md)
 - [Sensory SPA Bodywork](Sensory_SPA_Bodywork.md)
 - [Sensory Sound Medicine](Sensory_Sound_Medicine.md)
+- [Sensory 444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md)
 - [Sensory Vibrational Instruments](Sensory_Vibrational_Instruments.md)
 - [Sensory Vocal Therapy](Sensory_Vocal_Therapy.md)
 - [Sensory Writing Journaling](Sensory_Writing_Journaling.md)

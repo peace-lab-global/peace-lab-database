@@ -4,7 +4,7 @@
 | 书名 | 作者 | 推荐理由 | 重点章节 | 职场应用 | 疗愈益处 | 专业视角 (Professional Perspective) | 网页地址 (URL) |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 《自卑与超越》 | Alfred Adler | 理解生活风格。 | 职业合作。 | 改善团队协作。 | 自卑感升华为动力。 | 个体心理学的核心，强调社会兴趣和克服自卑。 | [Goodreads](https://www.goodreads.com/book/show/159414.Understanding_Human_Nature) |
-| 《被讨厌的勇气》 | 岸见一郎 | 阿德勒心理学通俗版。 | 课题分离。 | 解决职场人际越界难题。 | 获得自由感，减少焦虑。 | “课题分离”是情绪调节的高级认知策略。 | [Amazon](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274) |
+| 《被讨厌的勇气》 | 岸见一郎 | 阿德勒心理学通俗版。 | 课题分离。 | 解决职场人际越界难题。 | 获得自由感，减少焦虑。 | “课题分离”是情绪调节的高级认知策略。→ [课题分离专题](../adlerian-task-separation/Adlerian_Task_Separation_Overview.md) | [Amazon](https://www.amazon.com/Courage-Be-Disliked-Phenomenon-Happiness/dp/1501197274) |
 | 《终身成长》 | Carol Dweck | 成功心理学：成长心态。 | 心态的影响。 | 面对失败后的复原力。 | 建立自我效能感。 | 基于神经可塑性的心理学干预。 | [Carol Dweck](https://www.mindsetworks.com/science/) |
 | 《思考，快与慢》 | Daniel Kahneman | 认知偏差深度解析。 | 启发法与偏见。 | 改进职场决策质量。 | 这种觉察能减少认知失调。 | 揭示了System 1与System 2的权衡。 | [Kahneman](https://scholar.princeton.edu/kahneman/publications) |
 

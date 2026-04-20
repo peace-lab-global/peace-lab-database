@@ -11,6 +11,7 @@
 - [理论框架](foundations/framework/)
 - [专业术语辞典](foundations/terminology-dictionary/Terminology_Dictionary.md)
 - [积极心理学](foundations/positive-psychology/)
+- [课题分离 · 阿德勒个体心理学](foundations/adlerian-task-separation/) **[NEW]**
 - → [详细索引](foundations/INDEX.md)
 
 ### 2. 🏥 临床心理 (Clinical)
