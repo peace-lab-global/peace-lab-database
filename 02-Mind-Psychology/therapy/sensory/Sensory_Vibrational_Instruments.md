@@ -40,3 +40,17 @@
 | **疗愈鼓** | 兽皮、木材。 | 引导至低频 Theta (入定态)。 | 根基、脉搏、原始。 | 适合群体共振与萨满式旅程。 |
 | **尤克里里/竖琴**| 金属/尼龙弦。 | 产生舒缓的乐音流。 | 慰藉、旋律、流动。 | 适合处理情感丧失与孤独感。 |
 | **沙锤/雨棍** | 种子、竹木。 | 模拟自然的白噪音。 | 冲刷、洗涤、回归。 | 极佳的辅助工具，用于治疗的开头与结尾。 |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | 444Hz 音叉与 528Hz 桥接调律 |
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | 音叉频率选择与 Solfeggio 九频对照 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | 音叉作为脑波引导的物理工具 |
+| 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 颂钵/铜锣在声浴中的编排技术 |
+| 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 生物场调谐与舒曼波音叉 |
+| 神圣真言 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | OM 音叉与种子字频率对照 |
+| 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 人声与振动乐器的协同使用 |

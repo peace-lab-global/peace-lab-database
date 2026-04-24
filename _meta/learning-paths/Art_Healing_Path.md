@@ -23,15 +23,17 @@
 
 9. [表达性舞动疗法](../../02-Mind-Psychology/therapy/sensory/Sensory_Dance_Expressive.md)
 10. [荣格曼荼罗疗法](../../02-Mind-Psychology/therapy/sensory/Sensory_Mandala_Jungian.md)
-11. [禅宗审美与文化](../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md)
-12. [东亚书道](../../01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md)
+11. [索尔菲吉奥频率疗愈](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
+12. [脑波引导与声音冥想](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
+13. [禅宗审美与文化](../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md)
+14. [东亚书道](../../01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md)
 
 ## 阶段四：创意输出与生活实践（第8周）
 
-13. [疗愈性写作与日记](../../02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md)
-14. [创意写作技巧](../../05-Praxis-Growth/writing/Creative_Writing_Techniques.md)
-15. [文学疗愈体系](../../04-Humanities-Arts/literature/therapy/)
-16. [日记核心理论与方法论](../../05-Praxis-Growth/personal-development/journaling/Journaling_Core.md)
+15. [疗愈性写作与日记](../../02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md)
+16. [创意写作技巧](../../05-Praxis-Growth/writing/Creative_Writing_Techniques.md)
+17. [文学疗愈体系](../../04-Humanities-Arts/literature/therapy/)
+18. [日记核心理论与方法论](../../05-Praxis-Growth/personal-development/journaling/Journaling_Core.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

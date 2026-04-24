@@ -44,6 +44,12 @@
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
+| 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | 444Hz 调律桥接 528Hz Solfeggio 频率 |
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | 完整九频理论与临床疗程设计 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | 双耳节拍、等时音与脑波引导临床方案 |
+| 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 颂钵、铜锣、音叉的频率与操作技术 |
+| 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 人声频率与心理释放技术 |
+| 神圣真言 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | 种子字与梵咒的神经声学机制 |
 | 佛教喃诵/梵唱 | 01-智慧传承 | [佛教传统](../../../01-Wisdom-Traditions/religions/buddhism/) | OM喃诵与佛教声音修行传统 |
 | 神经科学与声音 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 声音频率对脑波的引导机制 |
 | 音乐疗愈 | 04-人文艺术 | [音乐治疗](../../../04-Humanities-Arts/arts/) | 声音医学与音乐艺术疗法的交叉 |

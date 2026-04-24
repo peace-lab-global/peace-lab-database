@@ -29,8 +29,10 @@
 
 12. [戏剧疗愈总览](../../04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Overview.md)
 13. [音乐疗愈](../../04-Humanities-Arts/media/music/)
-14. [园艺疗愈](../../04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md)
-15. [书法疗愈](../../04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md)
+14. [频率止痛 (Solfeggio 174Hz)](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
+15. [脑波镇痛引导](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
+16. [园艺疗愈](../../04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md)
+17. [书法疗愈](../../04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

@@ -33,3 +33,18 @@
 | **数珠/念珠** | Mala (108 beads) | 指尖触碰念珠，循环往复。 | 增加触觉反馈；防止心神涣散。 | 108 代表脉轮能量线 (Nadis) 的汇聚。 |
 | **观想** | Visualization (Yantra) | 持诵时在心中显现特定的几何图形。 | 建立“视-听-体”三维同步，强化神经通路。 | 常见的观想包括光点的扩散或种子字的转轮。 |
 | **合一态** | Samadhi of Sound | 诵者、受者与咒语本身合而为一。 | 彻底打破主客体二元对立，进入深层定境。 | 是 Mantrayana（真言乘）的最高境界。 |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | 396Hz 恐惧释放与种子字脉轮对齐 |
+| 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | OM 频率与 528Hz 的叠加应用 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | DMN 抑制与脑波引导的协同机制 |
+| 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 临床声浴中的种子字应用 |
+| 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | OM 音叉与种子字频率的对照 |
+| 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 咒语吟诵与声乐释放技术 |
+| 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 脉轮体系与阿育吠陀体质 |
+| 瑜伽梵唱 | 01-智慧传承 | [瑜伽梵唱](../../../01-Wisdom-Traditions/yoga/Yoga_Mantra_Nada_Chanting.md) | 瑜伽 Nada 音流与种子字传统 |

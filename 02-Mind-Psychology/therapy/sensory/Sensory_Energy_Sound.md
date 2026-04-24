@@ -30,3 +30,18 @@
 | **Eight Brocades (Baduanjin)** | 八段锦 | 能量流通。 | 平衡整体气血流向所有内脏。 | 被广泛临床证实能有效改善老年人的抑郁和睡眠质量。 | Wang, C., et al. (2013). *PLOS ONE*. |
 | **Inner Smile** | 内观微笑 | 慈悲，自爱。 | 改变对自身内脏的神经反馈。 | 这种专注力练习极大地将内脏感觉 (Interoception) 转化为积极体验。 | Chia, M. (2002). *Inner Smile*. |
 | **Microcosmic Orbit** | 小周天 | 任督二脉整合。 | 强化中轴线和骨骼能量流。 | 将能量中心 (Dan Tien) 与大脑中枢整合，有助于极深层的压力恢复。 | Yang, J. M. (1989). *The Root of Chinese Qigong*. |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | Solfeggio 528Hz 与能量疗愈的整合 |
+| 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | 528Hz 桥接与频率调律 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | 双耳节拍机制与脑波引导临床方案 |
+| 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 声音疗愈仪器与临床声浴技术 |
+| 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 音叉生物场调谐与颂钵频率 |
+| 神圣真言 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | 种子字频率与脉轮对齐 |
+| 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 人声频率与迷走神经调优 |
+| 气功与中医 | 01-智慧传承 | [道家养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 六字诀与中医情志映射 |

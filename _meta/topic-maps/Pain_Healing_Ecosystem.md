@@ -26,6 +26,8 @@ graph TB
     D --> P[音乐疗愈]
     D --> Q[园艺疗愈]
     E --> R[躯体体验疗法]
+    D --> S[频率止痛]
+    D --> T[脑波镇痛]
 ```
 
 ## 节点索引
@@ -44,6 +46,8 @@ graph TB
 | 戏剧疗愈 | `04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Overview.md` | 04 |
 | 音乐疗愈 | `04-Humanities-Arts/media/music/` | 04 |
 | 园艺疗愈 | `04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md` | 04 |
+| 频率止痛 (Solfeggio 174Hz) | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波镇痛 (Alpha-Delta) | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

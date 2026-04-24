@@ -24,6 +24,9 @@
 | religions/zen/Zen_Daily_Life_Practice.md | meditation/overview/Meditation_Mind_Management.md | 禅宗日常实修与心念管理 |
 | religions/wisdom-traditions/Krishnamurti_Teachings.md | meditation/masters/ | 克里希那穆提与冥想传统 |
 | yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Mantra_Sacred_Sound.md | 瑜伽梵咒与神圣声音疗法 |
+| yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Solfeggio_Frequencies.md | 瑜伽 Nada 音流与 Solfeggio 频率体系 |
+| yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Nada_Yoga.md | 瑜伽梵唱与纳达瑜伽声音体系 |
+| dao/Dao_Health_Yangsheng_Qigong.md | therapy/sensory/Sensory_Nada_Yoga.md | 道家六字诀与印度 Nada Yoga 跨文化对照 |
 
 ## 01 ↔ 03: 智慧传承 × 生命科学
 
@@ -80,16 +83,22 @@
 |---|---|---|
 | psychology/somatic-body/sleep/ | biology/pre-sleep-stretching/ | 睡眠心理学与睡前拉伸 |
 | psychology/stress-hpa/ | biology/hpa-axis/ | 心理压力与HPA轴生物机制 |
-| meditation/overview/ | biology/brain/ | 冥想与神经科学 |
+| meditation/samatha-vipassana/Neuroscience_Research.md | biology/brain/ | 冥想神经科学与脑影像 |
+| therapy/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/ | 脑波引导与神经科学 |
 | psychology/behavioral/addiction/ | sexuality/sexual-anxiety-china/ | 成瘾心理与性焦虑 |
 | psychology/clinical/anxiety/ | biology/cardiovascular/Cardiovascular_Psychology.md | 焦虑障碍与心血管心理学(心脏焦虑) |
 | psychology/clinical/depression/ | biology/immune-inflammation/Psychoneuroimmunology.md | 抑郁症与心理神经免疫学(炎症假说) |
 | psychology/clinical/depression/ | biology/gut-microbiome/Gut_Mental_Health.md | 抑郁症与肠脑轴(精神益生菌) |
 | psychology/applied/occupational-burnout/ | biology/immune-inflammation/ | 职业倦怠与慢性炎症/免疫抑制 |
 | therapy/sensory/Sensory_Sound_Medicine.md | biology/brain/Brain_Neurofeedback_Overview.md | 声音疗愈与神经反馈训练 |
+| therapy/sensory/Sensory_Solfeggio_Frequencies.md | biology/brain/ | 索尔菲吉奥频率体系与脑科学(频率-脑波引导) |
+| therapy/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/Brain_Neurofeedback_Overview.md | 脑波引导技术与神经反馈的技术互补 |
+| therapy/sensory/Sensory_444Hz_Frequency_Therapy.md | biology/cardiovascular/Heart_Rate_Variability.md | 444Hz/528Hz 频率与 HRV 心率变异性调节 |
+| therapy/sensory/Sensory_Brainwave_Entrainment.md | psychology/somatic-body/sleep/Bio_Sleep_Science.md | Delta 脑波引导与睡眠科学 |
 | meditation/mbsr-program/ | biology/immune-inflammation/Psychoneuroimmunology.md | MBSR正念减压与心理神经免疫 |
 | psychology/somatic-body/emotion/ | biology/cardiovascular/Heart_Rate_Variability.md | 情绪调节与心率变异性(HRV) |
 | psychology/developmental/aging-psychology/ | biology/aging-longevity/ | 老年心理学与衰老长寿科学 |
+| therapy/sensory/Sensory_Music_Thanatology.md | biology/aging-longevity/Cognitive_Aging_Prevention.md | 音乐临终关怀与认知衰老预防(痴呆晚期音乐) |
 
 ## 02 ↔ 04: 心理学 × 人文艺术
 
@@ -98,8 +107,15 @@
 | therapy/sensory/ | arts/arts-therapy/ | 感官疗法与艺术疗法 |
 | therapy/sensory/Sensory_Dance_Expressive.md | arts/ballet/Ballet_Therapy_Applications.md | 表达性舞动与芭蕾心理疗愈 |
 | therapy/sensory/Sensory_Sound_Medicine.md | media/music/ | 声音疗愈与音乐治疗 |
+| therapy/sensory/Sensory_Solfeggio_Frequencies.md | media/music/ | 索尔菲吉奥频率与音乐调律理论 |
+| therapy/sensory/Sensory_Brainwave_Entrainment.md | media/music/ | 脑波引导与音乐疗愈的整合 |
+| therapy/sensory/Sensory_Nada_Yoga.md | media/music/ | 纳达瑜伽与印度古典音乐疗愈 |
+| therapy/sensory/Sensory_Music_Thanatology.md | media/music/music-therapy/ | 音乐临终关怀与音乐疗法 |
+| therapy/sensory/Sensory_Vibroacoustic_Therapy.md | biology/pain-science/ | 振动声学疗法与疼痛管理 |
 | therapy/sensory/Sensory_Zentangle_Art.md | arts/calligraphy-therapy/ | 缠绕画正念与书法疗愈 |
 | therapy/sensory/Sensory_Mandala_Jungian.md | arts/arts-therapy/ | 荣格曼荼罗与艺术疗愈 |
+| therapy/sensory/Sensory_Music_Thanatology.md | psychology/special-topics/death-existential/ | 音乐临终关怀与死亡存在主义心理 |
+| therapy/sensory/Sensory_Vocal_Therapy.md | media/music/ | 声乐治疗与音乐疗愈的整合 |
 | therapy/sensory/Sensory_Writing_Journaling.md | literature/therapy/ | 疗愈性写作与文学疗愈 |
 | psychology/clinical/trauma/ | arts/drama-therapy/ | 创伤心理治疗与戏剧疗愈/心理剧 |
 | psychology/clinical/depression/ | arts/photography-therapy/ | 抑郁症干预与摄影疗愈 |
@@ -214,6 +230,6 @@
 
 ---
 
-*最近更新: 2026-04-13*
+*最近更新: 2026-04-21*
 *覆盖: 10/10 支柱组合 + 3 组内部关联*
 *返回根目录 [README.md](../README.md)*

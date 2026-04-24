@@ -23,12 +23,14 @@
 9. [EMDR 眼动脱敏](../../02-Mind-Psychology/therapy/emdr-therapy/)
 10. [辩证行为疗法 DBT](../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/)
 11. [慈悲聚焦疗法 CFT](../../02-Mind-Psychology/therapy/compassion-focused-therapy/)
+12. [频率疗愈 (417Hz 创伤释放)](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
+13. [脑波 Alpha-Theta PTSD 引导](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
 
 ## 阶段四：整合与成长
 
-12. [创伤后成长](../../02-Mind-Psychology/psychology/clinical/crisis-postvention/)
-13. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
-14. [正念认知疗法 MBCT](../../02-Mind-Psychology/therapy/mbct-therapy/)
+15. [创伤后成长](../../02-Mind-Psychology/psychology/clinical/crisis-postvention/)
+16. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
+17. [正念认知疗法 MBCT](../../02-Mind-Psychology/therapy/mbct-therapy/)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

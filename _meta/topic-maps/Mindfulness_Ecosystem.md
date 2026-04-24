@@ -25,6 +25,9 @@ graph TB
     B --> N[HRV 心率改善]
     E --> O[焦虑整合管理路径]
     F --> P[创伤疗愈路径]
+    D --> Q[声音正念]
+    Q --> R[频率疗愈]
+    Q --> S[脑波引导]
 ```
 
 ## 节点索引
@@ -43,6 +46,9 @@ graph TB
 | PNI 免疫调节 | `03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md` | 03 |
 | HRV 心率改善 | `03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md` | 03 |
 | 心流与专注 | `05-Praxis-Growth/personal-development/flow/Flow_State_Core.md` | 05 |
+| 声音正念 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 频率疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

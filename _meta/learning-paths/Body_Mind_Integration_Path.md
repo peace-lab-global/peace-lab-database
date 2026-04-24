@@ -25,13 +25,15 @@
 10. [情绪科学与调节](../../02-Mind-Psychology/psychology/somatic-body/emotion/)
 11. [瑜伽心理疗愈原理](../../01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md)
 12. [太极拳心理调适机制](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
+13. [声音疗愈与振动疗法](../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md)
+14. [频率疗愈与身心整合](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
 
 ## 阶段四：日常正念整合（第7-8周）
 
-13. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
-14. [心流与专注力](../../05-Praxis-Growth/personal-development/flow/Flow_State_Core.md)
-15. [习惯养成科学](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md)
-16. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
+16. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
+17. [心流与专注力](../../05-Praxis-Growth/personal-development/flow/Flow_State_Core.md)
+18. [习惯养成科学](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md)
+19. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

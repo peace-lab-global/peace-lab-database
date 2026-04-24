@@ -26,6 +26,8 @@ graph TB
     R[每日打卡] --> Q
     S[能量恢复] --> A
     I --> T[音乐疗愈]
+    I --> U[脑波引导]
+    I --> V[Solfeggio睡眠方案]
 ```
 
 ## 节点索引
@@ -43,6 +45,8 @@ graph TB
 | Yoga Nidra | `01-Wisdom-Traditions/yoga/Yoga_Nidra.md` | 01 |
 | 放松技术 | `02-Mind-Psychology/psychology/somatic-body/relaxation/` | 02 |
 | 声音疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| Solfeggio睡眠方案 | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
 | 音乐疗愈 | `04-Humanities-Arts/media/music/` | 04 |
 | 习惯养成 | `05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md` | 05 |
 | 每日打卡 | `05-Praxis-Growth/personal-development/daily-checkin/Daily_Checkin_Systems.md` | 05 |

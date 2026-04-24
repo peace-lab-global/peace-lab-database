@@ -31,3 +31,17 @@
 | **自传体创伤** | 将特定往事编成旋律演唱（歌曲创作疗法）。 | 对回忆的回避感降低。 | 将痛苦转化为一种“美学客体”，从而实现认知的解离。 |
 | **慢性疼痛** | 共鸣引导至痛点（基于声音的内感受）。 | 疼痛评分降低；疼痛带宽感改善。 | 声音作为一种频率，具有物理性的止痛与神经脱敏作用。 |
 | **老年认知下降** | 经典歌曲回忆与合唱训练。 | 短期记忆提振；社交参与度。 | 音乐记忆常保留在最后，是恢复认知连接最深情的切入点。 |
+
+---
+
+## 交叉引用 | Cross References
+
+| 关联主题 | 所在支柱 | 链接 | 关联维度 |
+|---------|---------|------|--------|
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | 人声再现 Solfeggio 频率的技术 |
+| 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | 人声频率与 444Hz/528Hz 调律 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | 哼鸣对脑波与迷走神经的引导效应 |
+| 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 临床声浴中的人声引导 |
+| 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 人声与颂钵/音叉的频率交互 |
+| 神圣真言 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | 种子字与梵咒的声乐技术 |
+| 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 呼吸法与横膈膜-迷走神经通路 |

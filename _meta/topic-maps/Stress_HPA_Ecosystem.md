@@ -24,6 +24,8 @@ graph TB
     O[瑜伽] --> B
     P[运动] --> C
     Q[HRV训练] --> B
+    U[声音疗愈] --> B
+    V[脑波引导] --> B
     K --> R[职场表达]
     K --> S[心力成长]
     I --> T[焦虑整合管理]
@@ -49,6 +51,8 @@ graph TB
 | 抑郁障碍 | `02-Mind-Psychology/psychology/clinical/depression/` | 02 |
 | 职业倦怠 | `02-Mind-Psychology/psychology/applied/occupational-burnout/` | 02 |
 | 心力成长 | `05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md` | 05 |
+| 声音疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

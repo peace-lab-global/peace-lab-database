@@ -73,6 +73,8 @@
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
+| 索尔菲吉奥九频体系 | 02-心理学 | [Solfeggio Frequencies](Sensory_Solfeggio_Frequencies.md) | 444Hz→528Hz 桥接与完整 Solfeggio 频谱 |
+| 脑波引导技术 | 02-心理学 | [Brainwave Entrainment](Sensory_Brainwave_Entrainment.md) | 444Hz 脑波引导效应与 Theta 窗口 |
 | 振动乐器疗法 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 音叉与钵的频率校准基础 |
 | 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | Solfeggio 频率体系与脑波科学 |
 | 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 双耳节拍与生物场调谐 |

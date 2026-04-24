@@ -18,6 +18,8 @@ graph TB
     G --> I[舞动疗法]
     G --> J[缠绕画]
     H --> K[音乐治疗]
+    H --> H1[频率疗愈]
+    H --> H2[脑波引导]
     I --> L[芭蕾疗愈]
     B --> M[书法神经科学]
     B --> N[禅宗审美]
@@ -46,6 +48,8 @@ graph TB
 | 感官疗法 | `02-Mind-Psychology/therapy/sensory/` | 02 |
 | 舞动疗法 | `02-Mind-Psychology/therapy/sensory/Sensory_Dance_Expressive.md` | 02 |
 | 声音疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 频率疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 | 禅宗审美 | `01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md` | 01 |
 | 东亚书道 | `01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md` | 01 |
 | 脑科学 | `03-Bio-Science/biology/brain/` | 03 |

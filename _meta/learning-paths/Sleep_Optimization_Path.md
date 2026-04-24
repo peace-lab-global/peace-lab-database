@@ -23,13 +23,15 @@
 8. [放松技术](../../02-Mind-Psychology/psychology/somatic-body/relaxation/)
 9. [Yoga Nidra 瑜伽睡眠术](../../01-Wisdom-Traditions/yoga/Yoga_Nidra.md)
 10. [声音疗愈](../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md)
+11. [脑波引导与 Delta 睡眠](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
+12. [Solfeggio 睡眠优化方案](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
 
 ## 阶段四：习惯养成（第7-8周）
 
-11. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
-12. [习惯养成科学](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md)
-13. [每日打卡系统设计](../../05-Praxis-Growth/personal-development/daily-checkin/Daily_Checkin_Systems.md)
-14. [恢复身心能量](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
+12. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
+13. [习惯养成科学](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md)
+14. [每日打卡系统设计](../../05-Praxis-Growth/personal-development/daily-checkin/Daily_Checkin_Systems.md)
+15. [恢复身心能量](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

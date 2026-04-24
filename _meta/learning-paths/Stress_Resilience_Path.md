@@ -24,13 +24,15 @@
 9. [瑜伽心理健康临床](../../01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md)
 10. [MBSR正念减压](../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md)
 11. [道家养生气功](../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md)
+12. [声音疗愈与 HRV 调节](../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md)
+13. [脑波 Alpha 引导减压](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
 
 ## 阶段四：韧性构建（第7-8周）
 
-12. [心力成长核心](../../05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md)
-13. [稳定内核](../../05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
-14. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
-15. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
+15. [心力成长核心](../../05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md)
+16. [稳定内核](../../05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
+17. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
+18. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

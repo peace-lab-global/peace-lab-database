@@ -41,6 +41,17 @@
 - [歌单导航](musician/playlists/README.md)
   - [夜深孤独聆听指南](musician/playlists/Late_Night_Solitude.md) — 肖邦·舒伯特·拉赫玛尼诺夫·贝多芬，深夜独处的古典音乐陪伴
 
+### 8. 跨支柱关联：声音频率疗愈 (Cross-Pillar: Sound Frequency Therapy)
+> 以下内容位于 `02-Mind-Psychology/therapy/sensory/`，与音乐疗愈形成互补体系。
+- [索尔菲吉奥九频体系](../../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md) — 174-963Hz 完整 Solfeggio 频率疗愈
+- [脑波引导技术](../../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md) — 双耳节拍、等时音与神经调控
+- [444Hz 频率疗法](../../../02-Mind-Psychology/therapy/sensory/Sensory_444Hz_Frequency_Therapy.md) — 444Hz→528Hz 桥接调律
+- [多维声音医学](../../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md) — 声音疗愈仪器与临床声浴
+- [振动乐器](../../../02-Mind-Psychology/therapy/sensory/Sensory_Vibrational_Instruments.md) — 颂钵、铜锣、音叉的频率体系
+- [纳达瑜伽声音体系](../../../02-Mind-Psychology/therapy/sensory/Sensory_Nada_Yoga.md) — 印度古典声音瑜伽与内在音流
+- [振动声学疗法 (VAT)](../../../02-Mind-Psychology/therapy/sensory/Sensory_Vibroacoustic_Therapy.md) — 循证体感声音疗法
+- [音乐临终关怀](../../../02-Mind-Psychology/therapy/sensory/Sensory_Music_Thanatology.md) — 竖琴与人声的临终陪伴
+
 ---
 
 *返回上级目录 [INDEX.md](../INDEX.md)*
