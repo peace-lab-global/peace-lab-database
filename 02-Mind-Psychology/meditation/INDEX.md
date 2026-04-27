@@ -14,7 +14,7 @@
 |------|--------|--------|------|
 | [overview/](./overview/INDEX.md) | 冥想概览 | 14 | 核心理论、类型分类、神经科学、临床应用、Q&A、补强专题 |
 | [practitioner-training/](./practitioner-training/INDEX.md) | 执行师培训 | 5 | 角色定义、教学法、伦理标准、评估进阶、认证对比 |
-| [professional-handbook/](./professional-handbook/INDEX.md) | 执行师职业手册 | 10 | 职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业 |
+| [professional-handbook/](./professional-handbook/INDEX.md) | 执行师职业手册 | 15 | 职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销 |
 | [safety/](./safety/INDEX.md) | 安全与不良反应 | 4 | MAE分类、修行黑夜、危机干预、创伤知情 |
 | [mbsr-program/](./mbsr-program/INDEX.md) | MBSR正念减压 | 3 | 项目概述、八周课程、评估工具 |
 
