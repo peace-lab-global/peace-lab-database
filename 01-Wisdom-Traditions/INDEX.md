@@ -82,6 +82,7 @@
   - [藏医与曼茶罗疗愈 (Tibetan Medicine)](religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md)
 
 ### 5. 🏛️ 全球灵性与古典哲学 (Global Spirituality & Philosophy)
+- [**哲学经典三方书评总索引**](philosophy/book-reviews/INDEX.md) — 东西方哲学经典的专业书评人/哲学爱好者/哲学学者三方评析
 - [西方实用哲学：斯多葛与存在主义](philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md)
 - [东亚哲学体系 (East Asian Philosophy)](philosophy/east-asian-philosophy/)
   - [儒家 (Confucianism)](philosophy/east-asian-philosophy/china/confucianism/)

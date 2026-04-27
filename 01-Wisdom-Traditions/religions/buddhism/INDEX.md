@@ -23,6 +23,21 @@
   - **中观学**: [哲学体系](./core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) | [龙树论典](./core-philosophy/Buddhism_Madhyamaka_Nagarjuna_Works.md) | [应成中观](./core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md)
   - **融合对话**: [唯识与中观的对话与融合](./core-philosophy/Buddhism_Yogacara_Madhyamaka_Dialogue.md)
 
+### 法师专题 (Teacher Topics)
+- [南怀瑾](./nan-huaijin/INDEX.md) — 中国当代佛教导师、禅宗大手印传承
+- [济群法师](./jiqun/INDEX.md) — 戒幢佛学研究所、般若与戒律专家
+
+### 宗萨蒋扬钦哲仁波切书评 (Dzongsar Khyentse Book Reviews)
+- [宗萨仁波切书评总索引](./dzongsar-khyentse/INDEX.md)
+  - **《正见》** (2007): [详细书评](./dzongsar-khyentse/what-makes-you-not-a-buddhist/Book_Review.md) — 四法印、空性、无常，当代最好的佛教入门书
+  - **《不是为了快乐》** (2012): [详细书评](./dzongsar-khyentse/not-for-happiness/Book_Review.md) — 金刚乘加行修法指南
+  - **《人间是剧场》**: [详细书评](./dzongsar-khyentse/world-is-a-playground/Book_Review.md) — 出离心、菩提心、金刚乘开示集
+  - **《上师也喝酒？》** (2016): [详细书评](./dzongsar-khyentse/the-guru-drinks-bourbon/Book_Review.md) — 上师-弟子关系、虔诚与精神安全
+  - **《八万四千问》** (2016): [详细书评](./dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md) — 佛法与现代社会问答
+  - **《朝圣》** (2018): [详细书评](./dzongsar-khyentse/pilgrimage/Book_Review.md) — 佛教圣地朝圣指南
+  - **《活着即是迈向死亡》** (2020): [详细书评](./dzongsar-khyentse/living-is-dying/Book_Review.md) — 中阴教法、死亡与无常
+  - **《毒药即解药》** (2021): [详细书评](./dzongsar-khyentse/poison-is-medicine/Book_Review.md) — 烦恼即菩提、灵性物质主义批判
+
 ### 主题目录
 - [BUDDHISM DIRECTORY STRUCTURE](BUDDHISM_DIRECTORY_STRUCTURE.md)
 - [Buddhism Core Overview](Buddhism_Core_Overview.md)
