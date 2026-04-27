@@ -109,6 +109,7 @@
 - [冥想心念管理方法论 (Mind Management)](meditation/overview/Meditation_Mind_Management.md)
 - [冥想哲学认知论基础 (Philosophical Foundations)](meditation/overview/Meditation_Philosophical_Foundations.md)
 - [冥想脑科学基础 (Brain Science)](meditation/overview/Meditation_Brain_Science_Foundations.md)
+- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
 - [直接认知/直指体系 (Direct Recognition)](meditation/direct-recognition/)
 - [坛城与曼荼罗体系 (Mandala)](meditation/mandala-meditation/Mandala_Meditation_Overview.md)
 - [萨提亚家族治疗模式 (Satir Model)](meditation/satir-model/Satir_Model_Overview.md)

@@ -1,8 +1,8 @@
 # 冥想知识库总索引 | Meditation Knowledge Base Master Index
 
 > **最后更新**：2026-04
-> **文件总数**：90+ Markdown 文件
-> **子目录数**：15
+> **文件总数**：120+ Markdown 文件
+> **子目录数**：17
 
 ---
 
@@ -14,6 +14,7 @@
 |------|--------|--------|------|
 | [overview/](./overview/INDEX.md) | 冥想概览 | 14 | 核心理论、类型分类、神经科学、临床应用、Q&A、补强专题 |
 | [practitioner-training/](./practitioner-training/INDEX.md) | 执行师培训 | 5 | 角色定义、教学法、伦理标准、评估进阶、认证对比 |
+| [professional-handbook/](./professional-handbook/INDEX.md) | 执行师职业手册 | 10 | 职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业 |
 | [safety/](./safety/INDEX.md) | 安全与不良反应 | 4 | MAE分类、修行黑夜、危机干预、创伤知情 |
 | [mbsr-program/](./mbsr-program/INDEX.md) | MBSR正念减压 | 3 | 项目概述、八周课程、评估工具 |
 
@@ -21,7 +22,8 @@
 
 | 目录 | 中文名 | 文件数 | 说明 |
 |------|--------|--------|------|
-| [guided-scripts/](./guided-scripts/INDEX.md) | 引导词脚本 | 4 | 正念呼吸、身体扫描、慈心禅、特殊场景 |
+| [guided-scripts/](./guided-scripts/INDEX.md) | 冥想引导词脚本库 | 20+基础+500+课程 | 专业执行师标准化设计，实施指南+交付矩阵+执行标记+创伤知情，覆盖150+场景包括生活、工作、婚恋、心理危机、人生变故、中西方文化 |
+| [guided-courses/](./guided-courses/INDEX.md) | 专业引导词课程库 | 500+ | 20+系列，每门以专业冥想执行师维度设计，含理论、实施、交付、带精确执行标记的高质量引导词、教学要点，高质量覆盖生活、工作、婚恋、心理危机、人生变故、中西方文化等150+场景 |
 | [chinese-traditions/](./chinese-traditions/INDEX.md) | 中国本土传统 | 4 | 禅道儒天台概论、静坐功法、中医冥想、本土化挑战 |
 
 ### 职业发展
@@ -66,9 +68,10 @@
 - **入门了解**：[冥想核心基础](./overview/Meditation_Core.md) → [类型分类](./overview/Meditation_Types_Classification.md) → [Q&A](./overview/Meditation_Practitioner_QA.md)
 - **科学证据**：[神经科学机制](./overview/Meditation_Neuroscience_Mechanisms.md) → [临床应用](./overview/Meditation_Clinical_Applications.md) → [TM研究](./overview/TM_Research_Evidence.md)
 - **执行师培训**：[培训体系](./practitioner-training/Practitioner_Training_Overview.md) → [教学法](./practitioner-training/Practitioner_Teaching_Methodology.md) → [伦理](./practitioner-training/Practitioner_Ethics_Standards.md)
+- **执行师职业手册**：[职业发展](./professional-handbook/Professional_Career_Development.md) → [安全管理](./professional-handbook/Professional_Safety_Management.md) → [运营管理](./professional-handbook/Professional_Operations_Management.md) → [教学实务](./professional-handbook/Professional_Teaching_Practice.md) → [伦理与法律](./professional-handbook/Professional_Ethics_Legal.md) → [自我修养](./professional-handbook/Professional_Self_Cultivation.md) → [客户关系](./professional-handbook/Professional_Client_Relations.md) → [考试认证](./professional-handbook/Professional_Exam_Certification.md) → [技术进阶](./professional-handbook/Professional_Advanced_Techniques.md) → [国际执业](./professional-handbook/Professional_International_Practice.md)
 - **安全管理**：[不良反应](./safety/Meditation_Adverse_Effects.md) → [黑夜现象](./safety/Meditation_Dark_Night.md) → [危机干预](./safety/Meditation_Crisis_Protocol.md) → [创伤知情](./safety/Meditation_Trauma_Sensitive.md)
 - **MBSR课程**：[项目概述](./mbsr-program/MBSR_Program_Overview.md) → [八周课程](./mbsr-program/MBSR_Weekly_Curriculum.md) → [评估工具](./mbsr-program/MBSR_Assessment_Tools.md)
-- **教学实操**：[呼吸脚本](./guided-scripts/Scripts_Mindfulness_Breathing.md) → [身体扫描](./guided-scripts/Scripts_Body_Scan.md) → [慈心禅](./guided-scripts/Scripts_Loving_Kindness.md) → [特殊场景](./guided-scripts/Scripts_Special_Scenarios.md)
+- **教学实操**：**[专业冥想引导词课程库（500+门/150+场景）](./guided-courses/INDEX.md)** → [引导词脚本库](./guided-scripts/INDEX.md) → [基础呼吸](./guided-scripts/Scripts_Mindfulness_Breathing.md) → [身体扫描](./guided-scripts/Scripts_Body_Scan.md) → [慈心禅](./guided-scripts/Scripts_Loving_Kindness.md) → [专业执行师交付指南](../professional-handbook/Professional_Teaching_Practice.md)
 - **中国传统**：[传统概论](./chinese-traditions/Chinese_Meditation_Overview.md) → [静坐功法](./chinese-traditions/Chinese_Sitting_Practices.md) → [中医冥想](./chinese-traditions/Chinese_TCM_Meditation.md) → [本土化](./chinese-traditions/Chinese_Localization_Challenges.md)
 - **职业发展**：[职业路径](./career-business/Meditation_Career_Pathways.md) → [商业模式](./career-business/Meditation_Business_Models.md) → [数字化产业](./career-business/Meditation_Digital_Industry.md)
 - **止观禅定**：[理论基础](./samatha-vipassana/Samatha_Vipassana_Theory.md) → [禅定体系](./samatha-vipassana/Dhyana_Samadhi_System.md) → [历史传承](./samatha-vipassana/Samatha_Vipassana_History.md) → [初学者](./samatha-vipassana/Practice_Guide_Beginner.md) → [进阶](./samatha-vipassana/Practice_Guide_Intermediate.md) → [高阶](./samatha-vipassana/Practice_Guide_Advanced.md) → [神经科学](./samatha-vipassana/Neuroscience_Research.md) → [心理学应用](./samatha-vipassana/Modern_Psychology_Integration.md)
