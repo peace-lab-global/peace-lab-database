@@ -20,7 +20,7 @@
 | 呼吸冥想系列 | [Series_02_Breath.md](./Series_02_Breath.md) | 8 | L2 | 腹式、数息、观息、4-7-8、交替鼻孔、火焰、延长呼气、普拉那 |
 | 身体觉察系列 | [Series_03_Body.md](./Series_03_Body.md) | 8 | L2 | 身体扫描、快速觉知、疼痛、边界、内脏、面部、双手、行走 |
 | 情绪调节系列 | [Series_04_Emotion.md](./Series_04_Emotion.md) | 8 | L2 | RAIN、焦虑容器、悲伤、愤怒、羞耻、喜悦、情绪耐受、情绪 check-in |
-| 慈心关系系列 | [Series_05_LovingKindness.md](./Series_05_LovingKindness.md) | 6 | L3 | 对自己、所爱之人、困难之人、关系修复、同理心、普世慈心 |
+| 慈心关系系列 | [Series_05_LovingKindness.md](./Series_05_LovingKindness.md) | 14 | L3 | 对自己、所爱之人、困难之人、关系修复、同理心、普世慈心、愤怒转化、领导力、宽恕、照顾者保护、文化融合、生态慈心等（v2.0最高标准翻倍升级） |
 | 高级深化系列 | [Series_06_Advanced.md](./Series_06_Advanced.md) | 6 | L4 | 开放式觉察、止观双运、声音、念头解构、无我、元觉察 |
 | 特殊应用系列 | [Series_07_Specialized.md](./Series_07_Specialized.md) | 8 | L5 | 睡眠、晨起、职场、运动、创造力、舞台、饮食、自然 |
 | 生活场景系列 | [Series_08_Life_Scenes.md](./Series_08_Life_Scenes.md) | 15 | L2-3 | 通勤、家务、亲子、购物、旅行、节日、退休、老年、detox、整理、等待、雨天、独处、宠物告别、搬家 |
