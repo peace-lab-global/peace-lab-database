@@ -14,7 +14,7 @@
 |------|--------|--------|------|
 | [overview/](./overview/INDEX.md) | 冥想概览 | 14 | 核心理论、类型分类、神经科学、临床应用、Q&A、补强专题 |
 | [practitioner-training/](./practitioner-training/INDEX.md) | 执行师培训 | 5 | 角色定义、教学法、伦理标准、评估进阶、认证对比 |
-| [professional-handbook/](./professional-handbook/INDEX.md) | 执行师职业手册 | 15 | 职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销 |
+| [professional-handbook/](./professional-handbook/INDEX.md) | 执行师职业手册 | 16 | 职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销、冥想APP专业分析 |
 | [safety/](./safety/INDEX.md) | 安全与不良反应 | 4 | MAE分类、修行黑夜、危机干预、创伤知情 |
 | [mbsr-program/](./mbsr-program/INDEX.md) | MBSR正念减压 | 3 | 项目概述、八周课程、评估工具 |
 
@@ -75,7 +75,11 @@
 - **中国传统**：[传统概论](./chinese-traditions/Chinese_Meditation_Overview.md) → [静坐功法](./chinese-traditions/Chinese_Sitting_Practices.md) → [中医冥想](./chinese-traditions/Chinese_TCM_Meditation.md) → [本土化](./chinese-traditions/Chinese_Localization_Challenges.md)
 - **职业发展**：[职业路径](./career-business/Meditation_Career_Pathways.md) → [商业模式](./career-business/Meditation_Business_Models.md) → [数字化产业](./career-business/Meditation_Digital_Industry.md)
 - **止观禅定**：[理论基础](./samatha-vipassana/Samatha_Vipassana_Theory.md) → [禅定体系](./samatha-vipassana/Dhyana_Samadhi_System.md) → [历史传承](./samatha-vipassana/Samatha_Vipassana_History.md) → [初学者](./samatha-vipassana/Practice_Guide_Beginner.md) → [进阶](./samatha-vipassana/Practice_Guide_Intermediate.md) → [高阶](./samatha-vipassana/Practice_Guide_Advanced.md) → [神经科学](./samatha-vipassana/Neuroscience_Research.md) → [心理学应用](./samatha-vipassana/Modern_Psychology_Integration.md)
-- **特殊人群**：[儿童青少年](./overview/Children_Youth_Meditation.md) · [冥想与睡眠](./overview/Meditation_And_Sleep.md) · [动态冥想](./overview/Movement_Meditation.md)
+- **特殊人群**：[儿童青少年](./overview/Children_Youth_Meditation.md) · [孕期冥想](./overview/Meditation_Pregnancy.md) · [冥想与睡眠](./overview/Meditation_And_Sleep.md) · [老年冥想](./overview/Meditation_Seniors_Elderly.md) · [动态冥想](./overview/Movement_Meditation.md)
+- **临床病症**：[焦虑症](./clinical-conditions/Meditation_Anxiety_Disorders.md) · [抑郁症](./clinical-conditions/Meditation_Depression.md) · [PTSD/创伤](./clinical-conditions/Meditation_PTSD_Trauma.md) · [成瘾戒断](./clinical-conditions/Meditation_Addiction_Recovery.md) · [心血管健康](./clinical-conditions/Meditation_Cardiovascular_Health.md) · [神经系统疾病](./clinical-conditions/Meditation_Neurological_Disorders.md) · [IBS/肠道健康](./clinical-conditions/Meditation_IBS_Gut_Health.md) · [慢性疼痛](./clinical-conditions/Meditation_Chronic_Pain.md) · [癌症护理](./clinical-conditions/Meditation_Cancer_Care.md)
+- **瑜伽尼德拉**：[概述](./yoga-nidra/Yoga_Nidra_Overview.md) → [科学机制](./yoga-nidra/Yoga_Nidra_Science.md) → [技术体系](./yoga-nidra/Yoga_Nidra_Techniques.md) → [临床应用](./yoga-nidra/Yoga_Nidra_Clinical_Applications.md)
+- **正念行走**：[概述](./walking-meditation/Walking_Meditation_Overview.md) → [技术体系](./walking-meditation/Walking_Meditation_Techniques.md)
+- **评估工具**：[冥想评估量表与工具](./overview/Meditation_Assessment_Tools.md)
 - **纪录片**：[冥想纪录片完整指南](./documentary/Meditation_Documentary_Guide.md) → 17部精选正念冥想纪录片
 
 ---

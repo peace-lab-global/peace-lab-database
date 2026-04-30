@@ -1,6 +1,6 @@
 # professional-handbook | 冥想执行师职业手册 Index
 
-> **定位**：冥想执行师职业发展全景手册，覆盖职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销十五大核心领域。
+> **定位**：冥想执行师职业发展全景手册，覆盖职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销十五大核心领域，以及冥想APP专业分析专题。
 > **上次更新**：2026-04
 
 ---
@@ -22,6 +22,10 @@
 - [Professional Holistic Integration | 身心健康整合](Professional_Holistic_Integration.md)
 - [Professional Special Contexts | 特殊场景应用](Professional_Special_Contexts.md)
 - [Professional Branding Marketing | 品牌与营销](Professional_Branding_Marketing.md)
+
+## 深度专题 | Deep Dives
+
+- [Meditation Apps Professional Analysis | 全球冥想APP专业分析](Meditation_Apps_Professional_Analysis.md) — 产品经理 × 冥想专家双视角，覆盖20+主流App、22个章节（含Calm vs Headspace对比、B端企业市场、小程序生态、儿童冥想、执行师入驻指南等）
 
 ## 相关模块 | Related Modules
 

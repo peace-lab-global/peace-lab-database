@@ -34,6 +34,7 @@
 | [创巴仁波切 (Chögyam Trungpa)](tibetan/Chogyam_Trungpa.md) | 1939-1987 | 香巴拉路径，世俗冥想 |
 | [索甲仁波切 (Sogyal Rinpoche)](tibetan/Sogyal_Rinpoche.md) | 1947-2019 | 《西藏生死书》 |
 | [明就仁波切 (Yongey Mingyur Rinpoche)](tibetan/Mingyur_Rinpoche.md) | 1975- | 《世界上最快乐的人》，冥想神经科学 |
+| [佩玛·丘卓 (Pema Chödrön)](tibetan/Pema_Chodron.md) | 1936-2025 | 甘波修道院，Tonglen，与困难共处 | **[NEW]**
 
 ---
 
@@ -47,6 +48,9 @@
 | [约瑟夫·戈德斯坦 (Joseph Goldstein)](western-pioneers/Joseph_Goldstein.md) | 1944- | IMS联合创始人，"一法"理念 |
 | [S.N. 葛印卡 (S.N. Goenka)](western-pioneers/SN_Goenka.md) | 1924-2013 | 全球内观运动，十日闭关体系 |
 | [申岑·杨 (Shinzen Young)](western-pioneers/Shinzen_Young.md) | 1944- | 统一正念（Unified Mindfulness）系统方法 |
+| [瑞克·汉森 (Rick Hanson)](western-pioneers/Rick_Hanson.md) | 1953- | 神经可塑性；"佛陀的大脑"；HEAL方法 | **[NEW]**
+| [迪巴·马 (Dipa Ma)](western-pioneers/Dipa_Ma.md) | 1911-1989 | 孟加拉家庭妇女证悟大师；日常生活即修行 | **[NEW]**
+| [拉姆·达斯 (Ram Dass)](western-pioneers/Ram_Dass.md) | 1931-2019 | "Be Here Now"；从迷幻药到冥想；临终关怀 | **[NEW]**
 
 ---
 
@@ -58,6 +62,8 @@
 | [埃克哈特·托利 (Eckhart Tolle)](contemporary-spiritual/Eckhart_Tolle.md) | 1948- | 《当下的力量》，临在教学 |
 | [阿德亚香提 (Adyashanti)](contemporary-spiritual/Adyashanti.md) | 1962- | 非二元觉醒，直接认知 |
 | [塔拉·布拉赫 (Tara Brach)](contemporary-spiritual/Tara_Brach.md) | 1953- | RAIN方法，自我慈悲与冥想 |
+| [托马斯·许布尔 (Thomas Hübl)](contemporary-spiritual/Thomas_Hubl.md) | 1971- | 集体创伤疗愈，透明沟通，内在科学 | **[NEW]**
+| [瑞吉·雷 (Reggie Ray)](contemporary-spiritual/Reggie_Ray.md) | 1946- | 萨满了知（Somatic Meditation），身体觉醒 | **[NEW]**
 
 ---
 

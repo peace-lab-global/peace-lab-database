@@ -19,3 +19,6 @@
 - [Movement Meditation | 动态冥想指南](Movement_Meditation.md)
 - [Children Youth Meditation | 儿童青少年冥想](Children_Youth_Meditation.md)
 - [Meditation And Sleep | 冥想与睡眠](Meditation_And_Sleep.md)
+- [Meditation Seniors Elderly | 老年冥想指南](Meditation_Seniors_Elderly.md) **[NEW]**
+- [Meditation Pregnancy | 孕期冥想指南](Meditation_Pregnancy.md) **[NEW]**
+- [Meditation Assessment Tools | 冥想评估量表与工具](Meditation_Assessment_Tools.md) **[NEW]**

@@ -1,0 +1,160 @@
+# 佛教仪轨 | Buddhism Rituals Index
+
+> **佛教仪轨 (Buddhist Rituals)**：佛教修行体系中外显的仪式与实践，涵盖从日常功课到人生礼仪、从个人修持到集体法会的完整体系。本目录聚焦南传上座部、汉传佛教与藏传佛教三大传统的仪轨内容，并涵盖禅宗、唐密/东密、韩国梵呗等专题仪轨，以及特定本尊的完整修持法门。
+>
+> 仪轨是修行的载体，戒德是仪轨的灵魂；形式服务于实质，仪式导向转化。
+
+---
+
+## 一、南传佛教仪轨 (Theravada Rituals)
+
+### 1. 总览与基础
+- [南传佛教仪轨总览](Theravada_Rituals_Overview.md) — 南传仪轨体系框架、核心术语、分类体系、地理差异
+- [南传佛教日常功课仪轨](Theravada_Daily_Practice.md) — 家庭早晚课、寺院僧众功课、禅修仪轨、回向
+
+### 2. 周期性仪轨
+- [南传佛教布萨仪轨](Theravada_Uposatha.md) — 半月诵戒、八戒受持、通宵禅修、各国布萨特色
+
+### 3. 人生礼仪
+- [南传佛教出家受戒仪轨](Theravada_Ordination.md) — 沙弥剃度、比丘具足戒、短期出家、现代应用
+- [南传佛教丧葬超度仪轨](Theravada_Funeral_Rites.md) — 临终关怀、丧葬流程、功德回向、各国丧葬特色
+
+---
+
+## 二、汉传佛教仪轨 (Chinese Buddhist Rituals)
+
+### 1. 总览与基础
+- [汉传佛教仪轨总览](Chinese_Rituals_Overview.md) — 汉传仪轨体系框架、八宗特色、儒道融合、地理差异
+- [汉传佛教早晚课仪轨](Chinese_Daily_Practice.md) — 楞严咒、大悲咒、十小咒、阿弥陀经、八十八佛忏、过堂
+
+### 2. 盛大法会
+- [水陆法会仪轨](Chinese_Water_Land_Dharma.md) — 七昼夜水陆普度、内坛外坛、上堂十席下堂十四席
+- [瑜伽焰口施食仪轨](Chinese_Yankou.md) — 变食真言、甘露水真言、召请孤魂、施食观想
+
+### 3. 人生礼仪与度亡
+- [三坛大戒仪轨](Chinese_Precepts_Ritual.md) — 沙弥戒、比丘戒、菩萨戒、白四羯磨、三聚净戒
+- [盂兰盆会仪轨](Chinese_Ghost_Festival.md) — 目连救母、七月十五佛欢喜日、救倒悬
+- [蒙山施食仪轨](Chinese_Mengshan.md) — 日常晚课施食、破地狱真言、召请幽冥、普施食文
+
+---
+
+## 三、藏传佛教仪轨 (Tibetan Buddhist Rituals)
+
+### 1. 总览与基础
+- [藏传佛教仪轨总览](Tibetan_Rituals_Overview.md) — 藏传仪轨体系框架、核心术语、四大教派特色、仪轨分类
+- [藏传佛教皈依发心仪轨](Tibetan_Refuge_Bodhicitta.md) — 四皈依、七支因果发菩提心、自他相换、日常修持
+
+### 2. 加行与前行
+- [藏传佛教加行仪轨](Tibetan_Ngondro_Rituals.md) — 四大共加行、五种不共加行（磕大头、金刚萨埵、曼茶罗、上师瑜伽）
+
+### 3. 本尊与灌顶
+- [藏传佛教本尊观修仪轨](Tibetan_Yidam_Practice.md) — 生起次第、持咒仪轨、圆满次第、常见本尊
+- [藏传佛教灌顶仪轨](Tibetan_Empowerment.md) — 四级灌顶、五佛灌顶、三昧耶戒、灌顶后修持
+
+### 4. 度亡与护法
+- [藏传佛教中阴度亡仪轨](Tibetan_Bardo_Rites.md) — 六种中阴、临终引导、破瓦法、四十九天超度
+- [藏传佛教护法供养仪轨](Tibetan_Protector_Puja.md) — 智慧护法与世间护法、食子供养、各教派护法
+
+### 5. 火供与事业
+- [藏传佛教火供仪轨](Tibetan_Homa_Fire_Offering.md) — 息增怀诛四事业火供、仪轨流程、现代简化版
+
+---
+
+## 四、禅宗与东亚密教仪轨 (Zen & East Asian Esoteric Rituals)
+
+### 1. 禅宗仪轨
+- [禅宗打七仪轨](Zen_Seven_Day_Retreat.md) — 禅七日程、坐禅/行香/跑香、参话头五步骤、禅堂规矩、考功
+
+### 2. 唐密与东密仪轨
+- [唐密/东密护摩仪轨](Esoteric_Homa.md) — 五大护摩、护摩坛城、唐密东密差异
+- [日本真言宗仪轨](Japanese_Shingon_Rituals.md) — 六大体大、朝勤行、光明真言、阿字观、灌顶仪轨
+- [日本真言宗护摩仪轨](Japanese_Goma.md) — 不动明王护摩、高野山护摩、护摩木供品
+
+### 3. 韩国佛教仪轨
+- [韩国佛教梵呗仪轨](Korean_Bebeop.md) — Beompae体系、灵山斋、法鼓梵呗、UNESCO非遗
+
+---
+
+## 五、特定本尊完整仪轨 (Specific Deity Sadhanas)
+
+### 1. 汉藏共通本尊
+- [阿弥陀佛完整仪轨](Sadhana_Amitabha.md) — 四十八愿、观经十六观、持名念佛、往生咒、临终助念
+- [观世音菩萨完整仪轨](Sadhana_Avalokitesvara.md) — 大悲咒八十四句、六字大明咒、四臂观音观想、耳根圆通
+- [药师佛完整仪轨](Sadhana_Medicine_Buddha.md) — 十二大愿、药师灌顶真言、十二药叉、药师忏
+- [文殊师利完整仪轨](Sadhana_Manjusri.md) — 文殊五字真言（阿Ra巴扎那）、文殊心咒、智慧宝剑观想、考前修持
+
+### 2. 藏传佛教本尊
+- [莲花生大士完整仪轨](Sadhana_Guru_Rinpoche.md) — 八相化身、七句祈请文、莲师心咒、莲师会供
+- [金刚萨埵完整仪轨](Sadhana_Vajrasattva.md) — 百字明咒完整梵音（逐句含义）、甘露净化观想、短咒
+- [度母完整仪轨](Sadhana_Tara.md) — 绿度母救度八难、白度母延寿、二十一度母、度母心咒
+- [大威德金刚完整仪轨](Sadhana_Yamantaka.md) — 九面三十四臂十六足、文殊忿怒化身、格鲁派三大本尊之首
+- [胜乐金刚完整仪轨](Sadhana_Cakrasamvara.md) — 四面十二臂、金刚亥母双运、噶举派根本本尊、乐空双运
+- [时轮金刚完整仪轨](Sadhana_Kalacakra.md) — 时轮坛城、六支瑜伽、宇宙时轮与身心时轮合一
+- [普巴金刚/金刚橛完整仪轨](Sadhana_Vajrakilaya.md) — 三面六臂持金刚橛、宁玛派核心本尊、降伏魔障
+
+---
+
+## 六、三大传承仪轨对比 (Three Traditions Comparison)
+
+| 对比维度 | 南传上座部 | 汉传佛教 | 藏传佛教 |
+|---|---|---|---|
+| **仪轨风格** | 简朴、内敛 | 庄严、繁复 | 华丽、系统 |
+| **语言** | 巴利语为主 | 汉语、梵语 | 藏语、梵语 |
+| **核心目标** | 解脱轮回、证阿罗汉 | 明心见性、往生净土 | 即身成佛、利益众生 |
+| **观想** | 较少（观呼吸、观不净） | 中等（观佛像、观想净土） | 极为丰富（本尊坛城） |
+| **咒语** | 少量（保护经） | 大量（楞严咒、大悲咒等） | 极多（各本尊心咒） |
+| **手印** | 基本（禅坐印） | 丰富（持咒印、礼拜印） | 丰富（各本尊手印） |
+| **灌顶** | 无（以皈依受戒为入门） | 无（唐宋密宗除外） | 核心（密法入门必需） |
+| **上师** | 重要但非核心 | 重要（依止善知识） | 根本（四皈依之首） |
+| **日常功课** | 早晚课、禅修 | 朝暮课诵、念佛、过堂 | 本尊法、加行、持咒 |
+| **度亡** | 诵经回向、火化 | 焰口、蒙山、水陆法会 | 中阴救度、破瓦、天葬 |
+| **忏法** | 无专门忏法 | 梁皇宝忏、水忏、大悲忏 | 金刚萨埵、百字明 |
+| **现代适应** | 内观世俗化、正念疗法 | 人间佛教、佛七、共修 | 大圆满直指、临终关怀 |
+
+---
+
+## 七、学习路径建议 (Study Paths)
+
+### 南传仪轨学习路径
+1. [南传仪轨总览](Theravada_Rituals_Overview.md) — 建立整体框架
+2. [日常功课](Theravada_Daily_Practice.md) — 开始每日实践
+3. [布萨仪轨](Theravada_Uposatha.md) — 体验周期性仪轨
+4. [出家/丧葬](Theravada_Ordination.md) / [Theravada_Funeral_Rites.md](Theravada_Funeral_Rites.md) — 了解人生礼仪
+
+### 汉传仪轨学习路径
+1. [汉传仪轨总览](Chinese_Rituals_Overview.md) — 建立整体框架
+2. [早晚课仪轨](Chinese_Daily_Practice.md) — 掌握日常修持
+3. [盂兰盆会/蒙山施食](Chinese_Ghost_Festival.md) / [Chinese_Mengshan.md](Chinese_Mengshan.md) — 度亡仪轨
+4. [水陆法会/焰口](Chinese_Water_Land_Dharma.md) / [Chinese_Yankou.md](Chinese_Yankou.md) — 盛大法会
+5. [三坛大戒](Chinese_Precepts_Ritual.md) — 出家仪轨
+
+### 藏传仪轨学习路径
+1. [藏传仪轨总览](Tibetan_Rituals_Overview.md) — 建立整体框架
+2. [皈依发心](Tibetan_Refuge_Bodhicitta.md) — 打好大乘基础
+3. [加行仪轨](Tibetan_Ngondro_Rituals.md) — 积累资粮净障
+4. [灌顶仪轨](Tibetan_Empowerment.md) — 了解密乘入门
+5. [本尊修持](Tibetan_Yidam_Practice.md) — 深入密法实践
+6. [度亡/护法/火供](Tibetan_Bardo_Rites.md) — 扩展专题
+
+### 禅宗与密教仪轨学习路径
+1. [禅宗打七](Zen_Seven_Day_Retreat.md) — 体验禅宗核心修行
+2. [唐密/东密护摩](Esoteric_Homa.md) — 了解汉传密宗火供
+3. [日本真言宗](Japanese_Shingon_Rituals.md) — 了解唐代密教在日本的传承
+4. [韩国梵呗](Korean_Bebeop.md) — 了解东亚佛教音声仪轨
+
+### 本尊仪轨学习路径
+1. [阿弥陀佛](Sadhana_Amitabha.md) — 净土法门基础
+2. [观世音菩萨](Sadhana_Avalokitesvara.md) — 慈悲法门
+3. [药师佛](Sadhana_Medicine_Buddha.md) — 疗愈法门
+4. [文殊师利](Sadhana_Manjusri.md) — 智慧法门
+5. [金刚萨埵](Sadhana_Vajrasattva.md) — 忏悔净化
+6. [莲花生大士](Sadhana_Guru_Rinpoche.md) — 藏传加持
+7. [度母](Sadhana_Tara.md) — 救度与女性佛身
+8. [大威德金刚](Sadhana_Yamantaka.md) — 降伏死魔（格鲁派）
+9. [胜乐金刚](Sadhana_Cakrasamvara.md) — 乐空双运（噶举派）
+10. [时轮金刚](Sadhana_Kalacakra.md) — 宇宙时轮（高级本尊）
+11. [普巴金刚](Sadhana_Vajrakilaya.md) — 破除魔障（宁玛派）
+
+---
+
+*本索引为Peace Lab Database佛教仪轨专区导航，涵盖南传、汉传、藏传佛教及禅宗、唐密/东密、韩国佛教仪轨的完整体系。*

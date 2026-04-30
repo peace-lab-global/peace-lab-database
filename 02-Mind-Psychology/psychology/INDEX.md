@@ -63,5 +63,10 @@
 - [妈宝男心理](special-topics/parent-dependent-male/)
 - → [详细索引](special-topics/INDEX.md)
 
+### 11. 💢 情绪专题 (Emotions)
+- [攻击性情绪](emotions/Aggressive_Emotion_Professional_Analysis.md) · [羞耻情绪](emotions/Shame_Emotion_Professional_Analysis.md)
+- [职业倦怠](emotions/Occupational_Burnout_Professional_Analysis.md)
+- → [情绪专题索引](emotions/INDEX.md)
+
 ---
 *返回上级 [02-Mind-Psychology](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

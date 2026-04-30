@@ -12,6 +12,9 @@ buddhism/
 ├── meditation/                # 禅修实践方法
 ├── ethics/                    # 戒律与伦理学
 ├── advanced/                  # 高级修行主题
+├── rituals/                   # 佛教仪轨（南传与藏传）
+│   ├── Theravada_*.md         # 南传佛教仪轨
+│   └── Tibetan_*.md           # 藏传佛教仪轨
 └── [基础概论文件]             # 核心概述文件
 ```
 
@@ -94,7 +97,7 @@ buddhism/
 | `Buddhism_Four_Immeasurables.md` | 四无量心疗愈 | 约300行 | 慈悲观修 |
 | `Buddhism_Sutra_Healing_Guide.md` | 经文疗愈指南 | 约150行 | 经典应用 |
 
-**总计：** 全体系共计约3000行专业内容，涵盖佛教理论、实践、伦理的完整体系
+**总计：** 全体系共计约11200行专业内容，涵盖佛教理论、实践、伦理、仪轨及本尊修持的完整体系
 
 ### 7. 高级修行主题 (Advanced Practice Topics)
 **路径：** `buddhism/advanced/`
@@ -104,6 +107,50 @@ buddhism/
 | `Buddhism_Advanced_Practice_Topics.md` | 高级修行主题详论 | 179行 | 高级 | [菩提心](core-philosophy/Buddhism_Tathagatagarbha.md) [空性见](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) |
 
 **总计：** 1个文件，约179行，深入的修行指导
+
+### 8. 佛教仪轨 (Buddhist Rituals)
+**路径：** `buddhism/rituals/`
+
+| 文件名 | 内容主题 | 页数 | 传统 | 交叉引用 |
+|---|---|---|---|---|
+| `Theravada_Rituals_Overview.md` | 南传仪轨总览 | 约300行 | 南传上座部 | [南传概述](theravada/Theravada_Overview.md) |
+| `Theravada_Daily_Practice.md` | 南传日常功课 | 约250行 | 南传上座部 | [止观禅修](Buddhism_Samatha_Vipassana.md) |
+| `Theravada_Uposatha.md` | 南传布萨仪轨 | 约200行 | 南传上座部 | [戒律伦理](ethics/Buddhism_Ethics_Comprehensive.md) |
+| `Theravada_Ordination.md` | 南传出家受戒 | 约250行 | 南传上座部 | [南传概述](theravada/Theravada_Overview.md) |
+| `Theravada_Funeral_Rites.md` | 南传丧葬超度 | 约200行 | 南传上座部 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Chinese_Rituals_Overview.md` | 汉传仪轨总览 | 约300行 | 汉传佛教 | [佛教概论](Buddhism_Core_Overview.md) |
+| `Chinese_Daily_Practice.md` | 汉传早晚课 | 约350行 | 汉传佛教 | [净土修持](Buddhism_Pure_Land_Practice.md) |
+| `Chinese_Water_Land_Dharma.md` | 水陆法会 | 约250行 | 汉传佛教 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Chinese_Yankou.md` | 瑜伽焰口 | 约200行 | 汉传佛教 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Chinese_Precepts_Ritual.md` | 三坛大戒 | 约250行 | 汉传佛教 | [戒律伦理](Buddhism_Vinaya_Ethics.md) |
+| `Chinese_Ghost_Festival.md` | 盂兰盆会 | 约200行 | 汉传佛教 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Chinese_Mengshan.md` | 蒙山施食 | 约150行 | 汉传佛教 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Tibetan_Rituals_Overview.md` | 藏传仪轨总览 | 约250行 | 藏传佛教 | [金刚乘基础](Buddhism_Vajrayana_Foundation.md) |
+| `Tibetan_Refuge_Bodhicitta.md` | 藏传皈依发心 | 约200行 | 藏传佛教 | [核心概论](Buddhism_Core_Overview.md) |
+| `Tibetan_Ngondro_Rituals.md` | 藏传加行仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Tibetan_Yidam_Practice.md` | 藏传本尊观修 | 约300行 | 藏传佛教 | [金刚乘基础](Buddhism_Vajrayana_Foundation.md) |
+| `Tibetan_Empowerment.md` | 藏传灌顶仪轨 | 约200行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Tibetan_Bardo_Rites.md` | 藏传中阴度亡 | 约250行 | 藏传佛教 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Tibetan_Protector_Puja.md` | 藏传护法供养 | 约200行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Tibetan_Homa_Fire_Offering.md` | 藏传火供仪轨 | 约200行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Amitabha.md` | 阿弥陀佛完整仪轨 | 约250行 | 汉传/藏传共通 | [净土修持](Buddhism_Pure_Land_Practice.md) |
+| `Sadhana_Avalokitesvara.md` | 观世音菩萨完整仪轨 | 约250行 | 汉传/藏传共通 | [四无量心](Buddhism_Four_Immeasurables.md) |
+| `Sadhana_Medicine_Buddha.md` | 药师佛完整仪轨 | 约250行 | 汉传/藏传共通 | [佛教疗愈](Buddhism_Sutra_Healing_Guide.md) |
+| `Sadhana_Guru_Rinpoche.md` | 莲花生大士完整仪轨 | 约280行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Vajrasattva.md` | 金刚萨埵完整仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Tara.md` | 度母完整仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Zen_Seven_Day_Retreat.md` | 禅宗打七仪轨 | 约300行 | 禅宗 | [禅宗专题](../zen/) |
+| `Esoteric_Homa.md` | 唐密/东密护摩仪轨 | 约200行 | 唐密/东密 | [金刚乘基础](Buddhism_Vajrayana_Foundation.md) |
+| `Japanese_Shingon_Rituals.md` | 日本真言宗仪轨 | 约250行 | 日本真言宗 | [金刚乘基础](Buddhism_Vajrayana_Foundation.md) |
+| `Japanese_Goma.md` | 日本真言宗护摩 | 约200行 | 日本真言宗 | [金刚乘基础](Buddhism_Vajrayana_Foundation.md) |
+| `Korean_Bebeop.md` | 韩国佛教梵呗 | 约200行 | 韩国佛教 | [佛教概论](Buddhism_Core_Overview.md) |
+| `Sadhana_Yamantaka.md` | 大威德金刚完整仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Cakrasamvara.md` | 胜乐金刚完整仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Kalacakra.md` | 时轮金刚完整仪轨 | 约250行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+| `Sadhana_Manjusri.md` | 文殊师利完整仪轨 | 约200行 | 汉藏共通 | [核心概论](Buddhism_Core_Overview.md) |
+| `Sadhana_Vajrakilaya.md` | 普巴金刚完整仪轨 | 约200行 | 藏传佛教 | [藏传佛教专题](../tibetan-buddhism/) |
+
+**总计：** 37个文件，约8200行，涵盖南传、汉传、藏传佛教及禅宗、唐密/东密、韩国佛教仪轨及本尊修持的完整体系
 
 ---
 
@@ -176,6 +223,8 @@ buddhism/
 - 深化心理学应用的实证研究
 - 扩展现代科技整合的内容
 - 加强跨文化比较研究
+- 扩展汉传佛教仪轨（水陆法会、焰口、蒙山等）
+- 深化仪轨与神经科学的整合研究
 
 ### 质量控制 (Quality Control)
 - 定期进行内容审核和更新

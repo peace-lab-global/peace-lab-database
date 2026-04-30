@@ -76,6 +76,12 @@
 - [金刚乘基础 (Vajrayana Foundation)](religions/buddhism/Buddhism_Vajrayana_Foundation.md)
 - [大圆满与大手印 (Dzogchen & Mahamudra)](religions/buddhism/dzogchen/)
 - [佛教心理学与疗愈 (Buddhist Psychology & Healing)](religions/buddhism/psychology/)
+- **佛教仪轨专题 (Buddhist Rituals)** — [完整索引](religions/buddhism/rituals/INDEX.md)
+  - [南传仪轨总览](religions/buddhism/rituals/Theravada_Rituals_Overview.md) — 日常功课、布萨、出家、丧葬
+  - [汉传仪轨总览](religions/buddhism/rituals/Chinese_Rituals_Overview.md) — 早晚课、水陆法会、焰口、三坛大戒、盂兰盆会
+  - [藏传仪轨总览](religions/buddhism/rituals/Tibetan_Rituals_Overview.md) — 皈依发心、加行、本尊、灌顶、度亡、火供
+  - [禅宗与东亚密教](religions/buddhism/rituals/Zen_Seven_Day_Retreat.md) — 禅七、唐密/东密护摩、真言宗、韩国梵呗
+  - [本尊完整仪轨](religions/buddhism/rituals/Sadhana_Amitabha.md) — 阿弥陀佛、观音、药师佛、文殊、莲师、金刚萨埵、度母、大威德、胜乐、时轮、普巴
 - [藏传佛教专题 (Tibetan Buddhism)](religions/tibetan-buddhism/)
   - [五大教派 (Five Schools)](religions/tibetan-buddhism/Tibetan_Schools_Detailed.md)
   - [加行实修 (Ngondro)](religions/tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md)
