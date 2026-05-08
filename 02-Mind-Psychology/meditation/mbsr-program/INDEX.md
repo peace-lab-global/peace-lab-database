@@ -4,7 +4,7 @@
 
 - [MBSR Program Overview | MBSR项目全景概述](MBSR_Program_Overview.md)
 - [MBSR Weekly Curriculum | MBSR八周课程详细设计](MBSR_Weekly_Curriculum.md)
-- [MBSR Assessment Tools | MBSR评估工具汇编](MBSR_Assessment_Tools.md)
+- [MBSR Assessment Tools | MBSR评估工具汇编](MBSR_Assessment_Tools.md) **[v2.0]**
 
 ## 相关模块 | Related Modules
 

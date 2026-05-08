@@ -21,8 +21,8 @@
 - [三方书评](Multi_Perspective_Reviews.md) - 专业书评人 / 学佛爱好者 / 佛教学者 三个视角的深度评析
 
 ### 核心思想分析
-- [四法印深度解析](Four_Seals_Analysis.md) - 诸行无常、诸漏皆苦、诸法无我、涅槃寂静
-- [空性与现代生活](Emptiness_Modern_Life.md) - 空性见地在日常中的应用
+- [四圣谛与八正道](../../foundations/Buddhism_Four_Noble_Truths.md) - 诸行无常、诸漏皆苦、诸法无我、涅槃寂静
+- [中观哲学体系](../../core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) - 空性见地在日常中的应用
 
 ## 核心概念图谱
 
@@ -48,10 +48,10 @@
 
 ## 关联知识
 
-- [佛教核心概论](../../Buddhism_Core_Overview.md) - 佛教体系概览
+- [佛教核心概论](../../foundations/Buddhism_Core_Overview.md) - 佛教体系概览
 - [中观哲学](../../core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) - 空性的哲学基础
-- [四圣谛](../../Buddhism_Four_Noble_Truths.md) - 佛陀的核心教导
-- [金刚乘基础](../../Buddhism_Vajrayana_Foundation.md) - 宗萨仁波切的传承背景
+- [四圣谛](../../foundations/Buddhism_Four_Noble_Truths.md) - 佛陀的核心教导
+- [金刚乘基础](../../vajrayana/Buddhism_Vajrayana_Foundation.md) - 宗萨仁波切的传承背景
 - [八万四千问](../eighty-four-thousand-questions/) - 同作者另一力作
 
 ---

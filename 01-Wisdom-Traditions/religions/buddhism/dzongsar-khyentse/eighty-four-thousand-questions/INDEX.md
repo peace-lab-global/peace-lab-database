@@ -22,7 +22,7 @@
 ## 关联知识
 
 - [正见：佛陀的证悟](../what-makes-you-not-a-buddhist/) - 同作者核心入门作
-- [佛教核心概论](../../Buddhism_Core_Overview.md) - 佛教体系概览
+- [佛教核心概论](../../foundations/Buddhism_Core_Overview.md) - 佛教体系概览
 - [人间是剧场](../world-is-a-playground/) - 同作者开示集
 
 ---

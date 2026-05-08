@@ -227,7 +227,7 @@
 
 | 文献类型 | 推荐作品 | 作者/译者 | 适合程度 | 学习重点 | 相关链接 |
 |---|---|---|---|---|---|
-| **原始经典** | 《杂阿含经》缘起经 | 佛陀说法 | 初学者 | 基础理论 | [佛教基础概论](../Buddhism_Core_Overview.md) |
+| **原始经典** | 《杂阿含经》缘起经 | 佛陀说法 | 初学者 | 基础理论 | [佛教基础概论](../foundations/Buddhism_Core_Overview.md) |
 | **中观论典** | 《中论》 | 龙树菩萨 | 进阶者 | 空性论证 | [中观哲学体系](Buddhism_Madhyamaka_Philosophy_System.md) |
 | **唯识论典** | 《成唯识论》 | 玄奘法师 | 专业者 | 心识分析 | [唯识学与八识心王](Buddhism_Yogacara_Eight_Consciousnesses.md) |
 | **华严论典** | 《华严经》法界品 | 佛陀说法 | 高阶者 | 圆融境界 | [华严哲学法界缘起](Buddhism_Huayan_Dharmadhatu.md) |

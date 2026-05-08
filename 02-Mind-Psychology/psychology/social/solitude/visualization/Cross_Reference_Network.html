@@ -1,0 +1,289 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Lab — 双专题交叉引用网络图 | Cross-Reference Network</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 20px;
+            margin-bottom: 10px;
+        }
+        .header h1 {
+            font-size: 1.8em;
+            background: linear-gradient(90deg, #e94560, #00d2ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 8px;
+        }
+        .header p {
+            color: #a0aec0;
+            font-size: 0.95em;
+        }
+        .nav-bar {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        .nav-bar a {
+            display: inline-block;
+            padding: 8px 16px;
+            margin: 0 4px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 8px;
+            color: #a0aec0;
+            text-decoration: none;
+            font-size: 0.85em;
+        }
+        .nav-bar a:hover { color: #fff; }
+        .controls {
+            text-align: center;
+            margin-bottom: 15px;
+        }
+        .controls button {
+            padding: 8px 16px;
+            margin: 0 5px;
+            border: 1px solid rgba(255,255,255,0.2);
+            background: rgba(255,255,255,0.05);
+            color: #a0aec0;
+            border-radius: 6px;
+            cursor: pointer;
+            font-size: 0.85em;
+        }
+        .controls button:hover { background: rgba(255,255,255,0.1); color: #fff; }
+        .controls button.active { background: rgba(245,158,11,0.2); border-color: #f59e0b; color: #f59e0b; }
+        #networkChart {
+            width: 100%;
+            height: calc(100vh - 220px);
+            min-height: 500px;
+        }
+        .footer {
+            text-align: center;
+            padding: 15px;
+            color: #64748b;
+            font-size: 0.8em;
+        }
+        .legend-info {
+            text-align: center;
+            margin-bottom: 10px;
+            font-size: 0.85em;
+            color: #8892b0;
+        }
+        .legend-info span { margin: 0 12px; }
+        .dot-l { display: inline-block; width: 10px; height: 10px; background: #e94560; border-radius: 50%; margin-right: 4px; }
+        .dot-s { display: inline-block; width: 10px; height: 10px; background: #00d2ff; border-radius: 50%; margin-right: 4px; }
+        .dot-j { display: inline-block; width: 10px; height: 10px; background: #f59e0b; border-radius: 50%; margin-right: 4px; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🕸️ 孤独 × 独处 交叉引用网络图</h1>
+        <p>双专题42个文档的知识关联图谱。节点=文档，边=关联关系。拖动节点可重新布局，滚轮缩放。</p>
+    </div>
+
+    <div class="nav-bar">
+        <a href="../../loneliness/visualization/Loneliness_Dashboard.html">🔴 孤独仪表盘</a>
+        <a href="./Solitude_Dashboard.html">🌿 独处仪表盘</a>
+        <a href="./Loneliness_Solitude_Joint_Dashboard.html">🟡 联合仪表盘</a>
+        <a href="./Loneliness_Solitude_Assessment.html">📝 联合评估</a>
+    </div>
+
+    <div class="legend-info">
+        <span><span class="dot-l"></span>孤独专题</span>
+        <span><span class="dot-s"></span>独处专题</span>
+        <span><span class="dot-j"></span>桥接/工具</span>
+        <span>实线=转化关系 | 虚线=互补关系 | 点线=引用关系</span>
+    </div>
+
+    <div class="controls">
+        <button onclick="filterView('all')" class="active" id="btn-all">全部</button>
+        <button onclick="filterView('loneliness')" id="btn-l">仅孤独</button>
+        <button onclick="filterView('solitude')" id="btn-s">仅独处</button>
+        <button onclick="filterView('bridge')" id="btn-b">仅桥接</button>
+    </div>
+
+    <div id="networkChart"></div>
+
+    <div class="footer">
+        <p>Peace Lab Database — 双专题交叉引用网络 v1.0 | 节点可拖动，滚轮缩放，点击高亮关联</p>
+    </div>
+
+<script>
+const nodes = [
+    // Loneliness nodes
+    { id: 'L_Overview', name: '孤独概览', category: 0, symbolSize: 25, value: 10 },
+    { id: 'L_Terminology', name: '术语标准', category: 0, symbolSize: 18, value: 7 },
+    { id: 'L_Framework', name: '研究框架', category: 0, symbolSize: 22, value: 9 },
+    { id: 'L_Sources', name: '来源与病因', category: 0, symbolSize: 22, value: 9 },
+    { id: 'L_SocialPsych', name: '社会心理学', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Measurement', name: '测量工具', category: 0, symbolSize: 28, value: 12 },
+    { id: 'L_Clinical', name: '临床手册', category: 0, symbolSize: 26, value: 11 },
+    { id: 'L_Treatment', name: '疗愈干预', category: 0, symbolSize: 24, value: 10 },
+    { id: 'L_Relief', name: '缓释自助', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Prevention', name: '预防评估', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Mindfulness', name: '正念慈心干预', category: 0, symbolSize: 24, value: 10 },
+    { id: 'L_Biology', name: '生物学整合', category: 0, symbolSize: 24, value: 10 },
+    { id: 'L_GutBrain', name: '肠脑轴', category: 0, symbolSize: 22, value: 9 },
+    { id: 'L_Adolescent', name: '青少年专题', category: 0, symbolSize: 22, value: 9 },
+    { id: 'L_CrossCultural', name: '跨文化比较', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Digital', name: '数字时代孤独', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Workplace', name: '职场孤独', category: 0, symbolSize: 18, value: 7 },
+    { id: 'L_Elderly', name: '老年孤独', category: 0, symbolSize: 20, value: 8 },
+    { id: 'L_Existential', name: '存在性孤独', category: 0, symbolSize: 18, value: 7 },
+    { id: 'L_Marital', name: '婚内孤独', category: 0, symbolSize: 24, value: 10 },
+
+    // Solitude nodes
+    { id: 'S_Overview', name: '独处概览', category: 1, symbolSize: 25, value: 10 },
+    { id: 'S_Philosophy', name: '独处哲学', category: 1, symbolSize: 20, value: 8 },
+    { id: 'S_Neuroscience', name: '独处神经科学', category: 1, symbolSize: 22, value: 9 },
+    { id: 'S_Creativity', name: '独处与创造力', category: 1, symbolSize: 20, value: 8 },
+    { id: 'S_Developmental', name: '毕生发展', category: 1, symbolSize: 22, value: 9 },
+    { id: 'S_Sociology', name: '独处社会学', category: 1, symbolSize: 20, value: 8 },
+    { id: 'S_Relationships', name: '关系中的独处', category: 1, symbolSize: 22, value: 9 },
+    { id: 'S_Digital', name: '数字时代独处', category: 1, symbolSize: 20, value: 8 },
+    { id: 'S_Practice', name: '独处实践指南', category: 1, symbolSize: 26, value: 11 },
+    { id: 'S_Clinical', name: '独处临床评估', category: 1, symbolSize: 22, value: 9 },
+
+    // Bridge / Joint / Tools
+    { id: 'Bridge', name: '转化桥接', category: 2, symbolSize: 32, value: 15 },
+    { id: 'Joint_Dashboard', name: '联合仪表盘', category: 2, symbolSize: 28, value: 12 },
+    { id: 'Joint_Assessment', name: '联合评估', category: 2, symbolSize: 26, value: 11 },
+    { id: 'Network', name: '引用网络', category: 2, symbolSize: 22, value: 9 },
+    { id: 'L_Dashboard', name: '孤独仪表盘', category: 2, symbolSize: 24, value: 10 },
+    { id: 'S_Dashboard', name: '独处仪表盘', category: 2, symbolSize: 24, value: 10 },
+];
+
+const links = [
+    // Transform relationships (solid)
+    { source: 'L_Overview', target: 'Bridge', lineStyle: { type: 'solid', width: 3 } },
+    { source: 'L_Treatment', target: 'Bridge', lineStyle: { type: 'solid', width: 3 } },
+    { source: 'L_Mindfulness', target: 'Bridge', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'Bridge', target: 'S_Overview', lineStyle: { type: 'solid', width: 3 } },
+    { source: 'Bridge', target: 'S_Practice', lineStyle: { type: 'solid', width: 3 } },
+    { source: 'Bridge', target: 'S_Relationships', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'L_Marital', target: 'S_Relationships', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'L_Adolescent', target: 'S_Developmental', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'L_Digital', target: 'S_Digital', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'L_Clinical', target: 'S_Clinical', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'L_Mindfulness', target: 'S_Philosophy', lineStyle: { type: 'solid', width: 1 } },
+
+    // Complementary relationships (dashed)
+    { source: 'L_Biology', target: 'S_Neuroscience', lineStyle: { type: 'dashed', width: 2 } },
+    { source: 'L_CrossCultural', target: 'S_Sociology', lineStyle: { type: 'dashed', width: 2 } },
+    { source: 'L_Existential', target: 'S_Philosophy', lineStyle: { type: 'dashed', width: 2 } },
+    { source: 'L_Measurement', target: 'S_Clinical', lineStyle: { type: 'dashed', width: 1 } },
+    { source: 'L_Elderly', target: 'S_Developmental', lineStyle: { type: 'dashed', width: 1 } },
+    { source: 'L_SocialPsych', target: 'S_Sociology', lineStyle: { type: 'dashed', width: 1 } },
+    { source: 'L_GutBrain', target: 'S_Neuroscience', lineStyle: { type: 'dashed', width: 1 } },
+
+    // Reference relationships (dotted)
+    { source: 'L_Framework', target: 'S_Sociology', lineStyle: { type: 'dotted', width: 1 } },
+    { source: 'L_Prevention', target: 'S_Practice', lineStyle: { type: 'dotted', width: 1 } },
+    { source: 'S_Creativity', target: 'L_Mindfulness', lineStyle: { type: 'dotted', width: 1 } },
+
+    // Tool connections
+    { source: 'Bridge', target: 'Joint_Dashboard', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'Bridge', target: 'Joint_Assessment', lineStyle: { type: 'solid', width: 2 } },
+    { source: 'Bridge', target: 'Network', lineStyle: { type: 'solid', width: 1 } },
+    { source: 'L_Dashboard', target: 'Joint_Dashboard', lineStyle: { type: 'dashed', width: 2 } },
+    { source: 'S_Dashboard', target: 'Joint_Dashboard', lineStyle: { type: 'dashed', width: 2 } },
+];
+
+const chart = echarts.init(document.getElementById('networkChart'));
+
+function setOption(filter) {
+    let filteredNodes = nodes;
+    let filteredLinks = links;
+
+    if (filter === 'loneliness') {
+        filteredNodes = nodes.filter(n => n.category === 0 || n.id === 'Bridge');
+    } else if (filter === 'solitude') {
+        filteredNodes = nodes.filter(n => n.category === 1 || n.id === 'Bridge');
+    } else if (filter === 'bridge') {
+        filteredNodes = nodes.filter(n => n.category === 2);
+    }
+
+    const nodeIds = new Set(filteredNodes.map(n => n.id));
+    filteredLinks = links.filter(l => nodeIds.has(l.source) && nodeIds.has(l.target));
+
+    chart.setOption({
+        tooltip: {
+            formatter: function(p) {
+                if (p.dataType === 'node') {
+                    const cats = ['孤独专题', '独处专题', '桥接/工具'];
+                    return '<b>' + p.name + '</b><br/>类别: ' + cats[p.data.category];
+                }
+                return p.name;
+            }
+        },
+        animationDuration: 1500,
+        animationEasingUpdate: 'quinticInOut',
+        series: [{
+            type: 'graph',
+            layout: 'force',
+            data: filteredNodes.map(n => ({
+                id: n.id,
+                name: n.name,
+                category: n.category,
+                symbolSize: n.symbolSize,
+                value: n.value,
+                itemStyle: {
+                    color: n.category === 0 ? '#e94560' : n.category === 1 ? '#00d2ff' : '#f59e0b'
+                },
+                label: {
+                    show: true,
+                    color: '#e0e0e0',
+                    fontSize: 12,
+                    fontWeight: 'bold'
+                }
+            })),
+            links: filteredLinks,
+            categories: [
+                { name: '孤独', itemStyle: { color: '#e94560' } },
+                { name: '独处', itemStyle: { color: '#00d2ff' } },
+                { name: '桥接', itemStyle: { color: '#f59e0b' } }
+            ],
+            roam: true,
+            draggable: true,
+            focusNodeAdjacency: true,
+            force: {
+                repulsion: 400,
+                gravity: 0.1,
+                edgeLength: [80, 180],
+                layoutAnimation: true
+            },
+            lineStyle: {
+                color: 'source',
+                curveness: 0.2,
+                opacity: 0.6
+            },
+            emphasis: {
+                focus: 'adjacency',
+                lineStyle: { width: 4, opacity: 1 }
+            }
+        }]
+    }, true);
+}
+
+setOption('all');
+
+function filterView(view) {
+    document.querySelectorAll('.controls button').forEach(b => b.classList.remove('active'));
+    document.getElementById('btn-' + (view === 'all' ? 'all' : view === 'loneliness' ? 'l' : view === 'solitude' ? 's' : 'b')).classList.add('active');
+    setOption(view);
+}
+
+window.addEventListener('resize', () => chart.resize());
+</script>
+</body>
+</html>

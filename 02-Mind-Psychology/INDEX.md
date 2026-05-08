@@ -52,7 +52,8 @@
 
 ### 5. 👥 社会与人际心理 (Social & Interpersonal)
 - [友谊心理学 (Friendship)](psychology/social/friendship/)
-- [孤独感研究 (Loneliness)](psychology/social/loneliness/)
+- [孤独感研究 (Loneliness)](psychology/social/loneliness/) — 含数字时代/职场/老年/存在性孤独 **[NEW]**
+- [独处专题 (Solitude)](psychology/social/solitude/) — 从孤独到独处的转化 **[NEW]**
 - [仇恨心理学 (Hatred)](psychology/social/hatred/)
 - [情感虐待 (Emotional Abuse)](psychology/social/emotional-abuse/)
 - [政治心理学 (Political Psychology)](psychology/social/political-psychology/)

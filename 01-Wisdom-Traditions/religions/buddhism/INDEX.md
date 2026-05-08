@@ -2,6 +2,15 @@
 
 ## 内容索引 | Contents
 
+### 佛教基础 (Buddhist Foundations) — [完整索引](foundations/INDEX.md)
+- [佛教基础概论](foundations/Buddhism_Core_Overview.md) — 佛教体系总体介绍
+- [四圣谛与八正道](foundations/Buddhism_Four_Noble_Truths.md) — 佛陀核心教义
+- [四无量心疗愈](foundations/Buddhism_Four_Immeasurables.md) — 慈悲喜舍观修
+
+### 佛教历史与文献 (History & Canon) — [完整索引](history/INDEX.md)
+- [汉传佛教大藏经体系](history/Buddhist_Canon_System.md) — 三藏结构、版本、分类
+- [佛教历史发展年表](history/Buddhist_History_Timeline.md) — 从佛陀时代到现代
+
 ### 佛教仪轨 (Buddhist Rituals) — [完整索引](rituals/INDEX.md)
 - **南传佛教仪轨**
   - [南传仪轨总览](rituals/Theravada_Rituals_Overview.md) — 南传仪轨体系框架、核心术语、分类体系
@@ -45,55 +54,61 @@
   - [时轮金刚完整仪轨](rituals/Sadhana_Kalacakra.md) — 时轮坛城、六支瑜伽、宇宙时轮
   - [普巴金刚完整仪轨](rituals/Sadhana_Vajrakilaya.md) — 三面六臂持金刚橛、宁玛派核心本尊
 
-### 核心经典 (Core Sutras)
-- [佛经原文目录](./sutras/INDEX.md)
-  - [金刚般若波罗蜜经](./sutras/Diamond_Sutra.md) - 鸠摩罗什译本
-  - [般若波罗蜜多心经](./sutras/Heart_Sutra.md) - 玄奘译本
+### 核心经典 (Core Sutras) — [完整索引](sutras/INDEX.md)
+- [金刚般若波罗蜜经](sutras/Diamond_Sutra.md) - 鸠摩罗什译本
+- [般若波罗蜜多心经](sutras/Heart_Sutra.md) - 玄奘译本
+- [佛教经典疗愈导读](sutras/Buddhism_Sutra_Healing_Guide.md) — 经文疗愈分类与导读
 
-### 止观禅修专题 (Samatha-Vipassana)
-- [Buddhism Samatha Vipassana | 止观禅修详表](Buddhism_Samatha_Vipassana.md) — 核心术语、四十业处、禅相体系、三种定力、四禅八定、观智十六阶、七觉支、经行禅修、常见误区、各传承对比、藏传止观、历史传承、神经科学、临床应用、现代心理整合
-- [Buddhism Tiantai Zhiguan | 天台宗止观体系](Buddhism_Tiantai_Zhiguan.md) — 圆融三谛、一念三千、四种三昧、十境十乘、六即佛、小止观十科实修、历缘对境修、现代正念对比
-- **止观禅定专项知识库** → [samatha-vipassana/ 总索引](../../02-Mind-Psychology/meditation/samatha-vipassana/INDEX.md)
-  - [理论基础](../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_Theory.md) — 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语
-  - [禅定体系](../../02-Mind-Psychology/meditation/samatha-vipassana/Dhyana_Samadhi_System.md) — 四禅八定深度解析、九次第定、六大传承对比
-  - [历史传承](../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_History.md) — 佛陀教法→部派→南传→中国→藏传→现代、大事年表、人物小传
-  - [神经科学研究](../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md) — EEG/fMRI、结构脑变化、表观遗传学、50+论文
-  - [现代心理学应用](../../02-Mind-Psychology/meditation/samatha-vipassana/Modern_Psychology_Integration.md) — CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床
+### 止观禅修 (Samatha-Vipassana) — [完整索引](meditation/INDEX.md)
+- [止观禅修详表](meditation/Buddhism_Samatha_Vipassana.md) — 核心术语、四十业处、禅相体系、四禅八定、观智十六阶
+- [天台宗止观体系](tiantai/Buddhism_Tiantai_Zhiguan.md) — 圆融三谛、一念三千、四种三昧、十境十乘
+- **止观禅定专项知识库** → [samatha-vipassana/ 总索引](../../../02-Mind-Psychology/meditation/samatha-vipassana/INDEX.md)
+  - [理论基础](../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_Theory.md) — 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语
+  - [禅定体系](../../../02-Mind-Psychology/meditation/samatha-vipassana/Dhyana_Samadhi_System.md) — 四禅八定深度解析、九次第定、六大传承对比
+  - [历史传承](../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_History.md) — 佛陀教法→部派→南传→中国→藏传→现代、大事年表、人物小传
+  - [神经科学研究](../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md) — EEG/fMRI、结构脑变化、表观遗传学、50+论文
+  - [现代心理学应用](../../../02-Mind-Psychology/meditation/samatha-vipassana/Modern_Psychology_Integration.md) — CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床
 
-### 核心哲学专题 (Core Philosophy)
-- [核心哲学专题目录](./core-philosophy/INDEX.md)
-  - **唯识学**: [八识详论](./core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) | [百法明门论](./core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md) | [认识论与因明](./core-philosophy/Buddhism_Yogacara_Epistemology.md)
-  - **中观学**: [哲学体系](./core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) | [龙树论典](./core-philosophy/Buddhism_Madhyamaka_Nagarjuna_Works.md) | [应成中观](./core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md)
-  - **融合对话**: [唯识与中观的对话与融合](./core-philosophy/Buddhism_Yogacara_Madhyamaka_Dialogue.md)
+### 核心哲学 (Core Philosophy) — [完整索引](core-philosophy/INDEX.md)
+- **唯识学**: [八识详论](core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) | [唯识基础](core-philosophy/Buddhism_Yogacara_Consciousness.md) | [百法明门论](core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md) | [认识论与因明](core-philosophy/Buddhism_Yogacara_Epistemology.md)
+- **中观学**: [哲学体系](core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) | [中观基础](core-philosophy/Buddhism_Madhyamaka_Philosophy.md) | [龙树论典](core-philosophy/Buddhism_Madhyamaka_Nagarjuna_Works.md) | [应成中观](core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md)
+- **其他**: [缘起性空](core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md) | [三法印](core-philosophy/Buddhism_Three_Seals_One_Reality.md) | [华严法界观](core-philosophy/Buddhism_Huayan_Dharmadhatu.md) | [华严基础](core-philosophy/Buddhism_Huayan_Philosophy.md) | [如来藏](core-philosophy/Buddhism_Tathagatagarbha.md)
+- **融合对话**: [唯识与中观的对话与融合](core-philosophy/Buddhism_Yogacara_Madhyamaka_Dialogue.md)
 
-### 法师专题 (Teacher Topics)
-- [南怀瑾](./nan-huaijin/INDEX.md) — 中国当代佛教导师、禅宗大手印传承
-- [济群法师](./jiqun/INDEX.md) — 戒幢佛学研究所、般若与戒律专家
+### 伦理学与戒律 (Ethics & Vinaya) — [完整索引](ethics/INDEX.md)
+- [佛教戒律与伦理学综合研究](ethics/Buddhism_Ethics_Comprehensive.md)
+- [戒律与伦理学基础](ethics/Buddhism_Vinaya_Ethics.md)
 
-### 宗萨蒋扬钦哲仁波切书评 (Dzongsar Khyentse Book Reviews)
-- [宗萨仁波切书评总索引](./dzongsar-khyentse/INDEX.md)
-  - **《正见》** (2007): [详细书评](./dzongsar-khyentse/what-makes-you-not-a-buddhist/Book_Review.md) — 四法印、空性、无常，当代最好的佛教入门书
-  - **《不是为了快乐》** (2012): [详细书评](./dzongsar-khyentse/not-for-happiness/Book_Review.md) — 金刚乘加行修法指南
-  - **《人间是剧场》**: [详细书评](./dzongsar-khyentse/world-is-a-playground/Book_Review.md) — 出离心、菩提心、金刚乘开示集
-  - **《上师也喝酒？》** (2016): [详细书评](./dzongsar-khyentse/the-guru-drinks-bourbon/Book_Review.md) — 上师-弟子关系、虔诚与精神安全
-  - **《八万四千问》** (2016): [详细书评](./dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md) — 佛法与现代社会问答
-  - **《朝圣》** (2018): [详细书评](./dzongsar-khyentse/pilgrimage/Book_Review.md) — 佛教圣地朝圣指南
-  - **《活着即是迈向死亡》** (2020): [详细书评](./dzongsar-khyentse/living-is-dying/Book_Review.md) — 中阴教法、死亡与无常
-  - **《毒药即解药》** (2021): [详细书评](./dzongsar-khyentse/poison-is-medicine/Book_Review.md) — 烦恼即菩提、灵性物质主义批判
+### 心理学应用 (Psychological Applications) — [完整索引](psychology/INDEX.md)
+- [佛教心理治疗理论](psychology/Buddhism_Psychotherapy_Theory.md)
+- [正念与现代心理治疗整合](psychology/Buddhism_Mindfulness_Therapy_Integration.md)
 
-### 主题目录
-- [BUDDHISM DIRECTORY STRUCTURE](BUDDHISM_DIRECTORY_STRUCTURE.md)
-- [Buddhism Core Overview](Buddhism_Core_Overview.md)
-- [Buddhism Four Immeasurables](Buddhism_Four_Immeasurables.md)
-- [Buddhism Four Noble Truths](Buddhism_Four_Noble_Truths.md)
-- [Buddhism Huayan Philosophy](Buddhism_Huayan_Philosophy.md)
-- [Buddhism Madhyamaka Philosophy](Buddhism_Madhyamaka_Philosophy.md)
-- [Buddhism Mindfulness Therapy Integration](Buddhism_Mindfulness_Therapy_Integration.md)
-- [Buddhism Pure Land Practice](Buddhism_Pure_Land_Practice.md)
-- [Buddhism Samatha Vipassana | 止观禅修详表](Buddhism_Samatha_Vipassana.md)
-- [Buddhism Sutra Healing Guide](Buddhism_Sutra_Healing_Guide.md)
-- [Buddhism Theravada Abhidhamma](Buddhism_Theravada_Abhidhamma.md)
-- [Buddhism Tiantai Zhiguan | 天台宗止观体系](Buddhism_Tiantai_Zhiguan.md)
-- [Buddhism Vajrayana Foundation](Buddhism_Vajrayana_Foundation.md)
-- [Buddhism Vinaya Ethics](Buddhism_Vinaya_Ethics.md)
-- [Buddhism Yogacara Consciousness](Buddhism_Yogacara_Consciousness.md)
+### 佛教现代应用 (Modern Applications) — [完整索引](modern-applications/INDEX.md)
+- **心理治疗与临床**：心理治疗理论 | 正念疗法整合(MBSR/MBCT/ACT/DBT) | 熏习临床转化 | 慢性疼痛 | 睡眠问题
+- **神经科学**：止观禅修神经科学机制 | [跨项目深度研究](../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md)
+- **身体康复**：[太极身心调整](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [瑜伽疗法整合](../../../01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md)
+- **临终关怀**：[经文疗愈导读](sutras/Buddhism_Sutra_Healing_Guide.md) | [藏传中阴度亡](rituals/Tibetan_Bardo_Rites.md) | [死亡教育现代诠释](dzongsar-khyentse/living-is-dying/Book_Review.md)
+- **数字时代**：[数字化正念与AI心理健康](modern-applications/Digital_Mindfulness_AI_Mental_Health.md) — 移动应用、VR正念、生物反馈、AI心理助手、伦理框架
+
+### 高级修行 (Advanced Practice) — [完整索引](advanced/INDEX.md)
+- [高级修行主题详论](advanced/Buddhism_Advanced_Practice_Topics.md)
+
+### 熏习理论 (Vasana) — [完整索引](vasana/INDEX.md)
+- [熏习总论](vasana/Vasana_Overview.md) | [种子理论](vasana/Vasana_Seed_Theory.md) | [机制解析](vasana/Vasana_Mechanisms.md) | [心识转化](vasana/Vasana_Mind_Transformation.md) | [临床应用](vasana/Vasana_Clinical_Applications.md)
+
+### 法师与学者专题 (Teacher Topics)
+- [南怀瑾](nan-huaijin/INDEX.md) — 中国当代佛教导师、禅宗大手印传承
+- [济群法师](jiqun/INDEX.md) — 戒幢佛学研究所、般若与戒律专家
+
+### 宗萨蒋扬钦哲仁波切书评 (Dzongsar Khyentse Book Reviews) — [完整索引](dzongsar-khyentse/INDEX.md)
+- **《正见》** (2007): [详细书评](dzongsar-khyentse/what-makes-you-not-a-buddhist/Book_Review.md) — 四法印、空性、无常
+- **《不是为了快乐》** (2012): [详细书评](dzongsar-khyentse/not-for-happiness/Book_Review.md) — 金刚乘加行修法指南
+- **《人间是剧场》**: [详细书评](dzongsar-khyentse/world-is-a-playground/Book_Review.md) — 出离心、菩提心
+- **《上师也喝酒？》** (2016): [详细书评](dzongsar-khyentse/the-guru-drinks-bourbon/Book_Review.md) — 上师-弟子关系
+- **《八万四千问》** (2016): [详细书评](dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md) — 佛法与现代社会问答
+- **《朝圣》** (2018): [详细书评](dzongsar-khyentse/pilgrimage/Book_Review.md) — 佛教圣地朝圣指南
+- **《活着即是迈向死亡》** (2020): [详细书评](dzongsar-khyentse/living-is-dying/Book_Review.md) — 中阴教法、死亡与无常
+- **《毒药即解药》** (2021): [详细书评](dzongsar-khyentse/poison-is-medicine/Book_Review.md) — 烦恼即菩提、灵性物质主义批判
+
+### 目录结构说明
+- [BUDDHISM DIRECTORY STRUCTURE](BUDDHISM_DIRECTORY_STRUCTURE.md) — 本目录完整结构说明与使用指南

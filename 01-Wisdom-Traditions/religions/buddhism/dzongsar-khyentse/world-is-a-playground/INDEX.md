@@ -22,7 +22,7 @@
 ## 关联知识
 
 - [正见：佛陀的证悟](../what-makes-you-not-a-buddhist/) - 同作者核心入门作
-- [金刚乘基础](../../Buddhism_Vajrayana_Foundation.md) - 金刚乘传承背景
+- [金刚乘基础](../../vajrayana/Buddhism_Vajrayana_Foundation.md) - 金刚乘传承背景
 - [藏传佛教专题](../../../tibetan-buddhism/) - 藏传佛教体系
 - [大圆满](../../dzogchen/) - 宁玛派最高教法
 

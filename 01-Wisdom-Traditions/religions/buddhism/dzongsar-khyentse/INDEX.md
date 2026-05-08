@@ -98,11 +98,11 @@
 
 ## 关联知识
 
-- [佛教核心概论](../Buddhism_Core_Overview.md) — 佛教体系概览
-- [金刚乘基础](../Buddhism_Vajrayana_Foundation.md) — 宗萨仁波切的传承基础
+- [佛教核心概论](../foundations/Buddhism_Core_Overview.md) — 佛教体系概览
+- [金刚乘基础](../vajrayana/Buddhism_Vajrayana_Foundation.md) — 宗萨仁波切的传承基础
 - [藏传佛教专题](../../tibetan-buddhism/) — 藏传五大教派、灌顶、气脉
 - [中观哲学](../core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md) — 空性见地的哲学基础
-- [四圣谛](../Buddhism_Four_Noble_Truths.md) — 佛陀核心教导
+- [四圣谛](../foundations/Buddhism_Four_Noble_Truths.md) — 佛陀核心教导
 - [大圆满与大手印](../dzogchen/) — 藏传佛教最高教法
 
 ---

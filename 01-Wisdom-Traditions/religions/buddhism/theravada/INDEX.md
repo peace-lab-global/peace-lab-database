@@ -6,3 +6,4 @@
 - [Theravada Meditation Stages](Theravada_Meditation_Stages.md)
 - [Theravada Overview](Theravada_Overview.md)
 - [Theravada Vipassana Traditions](Theravada_Vipassana_Traditions.md)
+- [Buddhism Theravada Abhidhamma](Buddhism_Theravada_Abhidhamma.md) — 南传阿毗达摩心理学基础

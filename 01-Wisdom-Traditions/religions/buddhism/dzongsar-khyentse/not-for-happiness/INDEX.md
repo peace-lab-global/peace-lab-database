@@ -22,7 +22,7 @@
 ## 关联知识
 
 - [正见：佛陀的证悟](../what-makes-you-not-a-buddhist/) - 同作者核心入门作
-- [金刚乘基础](../../Buddhism_Vajrayana_Foundation.md) - 金刚乘传承与实修体系
+- [金刚乘基础](../../vajrayana/Buddhism_Vajrayana_Foundation.md) - 金刚乘传承与实修体系
 - [藏传加行实修](../../../tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md) - 加行修法详述
 - [灌顶与传法](../../vajrayana/Vajrayana_Initiation_Empowerment.md) - 灌顶与师徒关系
 

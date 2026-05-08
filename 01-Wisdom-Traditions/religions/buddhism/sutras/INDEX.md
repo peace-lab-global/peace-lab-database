@@ -6,7 +6,7 @@
 
 ## 📚 大藏经体系
 
-### [大藏经体系介绍](../Buddhist_Canon_System.md)
+### [大藏经体系介绍](../history/Buddhist_Canon_System.md)
 全面介绍汉传佛教大藏经体系，包括：
 - 三藏（经藏、律藏、论藏）结构
 - 四阿含、五大部经典
@@ -14,7 +14,7 @@
 - 中观、瑜伽、阿毗达磨论典
 - 历代大藏经版本（开宝藏、乾隆大藏经、大正藏等）
 
-### [佛教历史年表](../Buddhist_History_Timeline.md)
+### [佛教历史年表](../history/Buddhist_History_Timeline.md)
 佛教从佛陀时代到现代传播的完整历史时间轴。
 
 ---
@@ -314,13 +314,13 @@
 
 ## 📖 延伸阅读
 
-- [佛教核心概述](../Buddhism_Core_Overview.md)
-- [中观哲学](../Buddhism_Madhyamaka_Philosophy.md)
-- [唯识学](../Buddhism_Yogacara_Consciousness.md)
+- [佛教核心概述](../foundations/Buddhism_Core_Overview.md)
+- [中观哲学](../core-philosophy/Buddhism_Madhyamaka_Philosophy.md)
+- [唯识学](../core-philosophy/Buddhism_Yogacara_Consciousness.md)
 - [禅宗经典深入](../../zen/Zen_Sutras_In_Depth.md)
 - [净土五经](Pure_Land_Five_Sutras.md)
-- [佛教历史年表](../Buddhist_History_Timeline.md)
-- [大藏经体系介绍](../Buddhist_Canon_System.md)
+- [佛教历史年表](../history/Buddhist_History_Timeline.md)
+- [大藏经体系介绍](../history/Buddhist_Canon_System.md)
 
 ---
 

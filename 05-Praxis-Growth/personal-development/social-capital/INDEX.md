@@ -10,6 +10,7 @@
 |------|------|------|
 | 1 | [Social_Capital_Overview](Social_Capital_Overview.md) | 社交资本理论、弱联系、邓巴数、健康效应 |
 | 2 | [Social_Capital_Practice](Social_Capital_Practice.md) | 网络建设、关系维护、给予者策略、孤独应对 |
+| 3 | [Social_Capital_Loneliness_Bridge](Social_Capital_Loneliness_Bridge.md) | 社交资本与孤独的转化桥梁：从社交资本赤字到丰盈 **[NEW]** |
 
 ---
 

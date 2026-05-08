@@ -21,8 +21,8 @@
 ## 关联知识
 
 - [正见：佛陀的证悟](../what-makes-you-not-a-buddhist/) - 同作者核心入门作
-- [佛教历史年表](../../Buddhist_History_Timeline.md) - 佛陀生平历史背景
-- [佛教经论系统](../../Buddhist_Canon_System.md) - 经典文献体系
+- [佛教历史年表](../../history/Buddhist_History_Timeline.md) - 佛陀生平历史背景
+- [佛教经论系统](../../history/Buddhist_Canon_System.md) - 经典文献体系
 
 ---
 

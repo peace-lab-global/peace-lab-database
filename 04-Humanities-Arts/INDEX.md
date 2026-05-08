@@ -83,6 +83,7 @@
 
 ### 5. 📖 文学、深度阅读与写作 (Literature & Reading)
 - [文学疗愈体系 (Literature Therapy)](literature/therapy/)
+- [孤独主题文学疗愈 (Loneliness Literature Therapy)](literature/Loneliness_Literature_Therapy.md) — 从《变形记》到《瓦尔登湖》：文学作为孤独的盟友 **[NEW]**
 - [深度阅读方法论与神经科学 (Deep Reading)](reading/)
 - [阅读障碍干预 (Reading Disorders)](reading/Reading_Disorders_Intervention.md)
 - [文学交叉索引系统 (Cross Reference)](literature/Cross_Reference_System.md)

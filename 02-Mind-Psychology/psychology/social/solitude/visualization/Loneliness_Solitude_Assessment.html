@@ -1,0 +1,504 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Lab — 孤独×独处联合评估工具 | Loneliness × Solitude Joint Assessment</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f2027 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 20px;
+        }
+        .header h1 {
+            font-size: 2em;
+            background: linear-gradient(90deg, #e94560, #00d2ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #a0aec0;
+            max-width: 700px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        .nav-bar {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .nav-bar a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 5px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 8px;
+            color: #a0aec0;
+            text-decoration: none;
+            font-size: 0.9em;
+        }
+        .nav-bar a:hover { color: #fff; }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+        }
+        .section {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 25px;
+            margin-bottom: 20px;
+        }
+        .section h2 {
+            color: #f8f8f2;
+            margin-bottom: 20px;
+            font-size: 1.3em;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        .section.loneliness h2 { color: #e94560; }
+        .section.solitude h2 { color: #00d2ff; }
+        .question {
+            margin-bottom: 18px;
+            padding: 15px;
+            background: rgba(255,255,255,0.03);
+            border-radius: 10px;
+        }
+        .question-text {
+            color: #e0e0e0;
+            margin-bottom: 12px;
+            font-size: 1.05em;
+            line-height: 1.5;
+        }
+        .options {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+        }
+        .option {
+            padding: 8px 16px;
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 8px;
+            cursor: pointer;
+            background: transparent;
+            color: #a0aec0;
+            font-size: 0.95em;
+            transition: all 0.2s;
+        }
+        .option:hover {
+            border-color: rgba(255,255,255,0.3);
+            color: #e0e0e0;
+        }
+        .option.selected {
+            background: rgba(255,255,255,0.1);
+            border-color: #f59e0b;
+            color: #f59e0b;
+        }
+        .option.l-selected { border-color: #e94560; color: #e94560; background: rgba(233,69,96,0.1); }
+        .option.s-selected { border-color: #00d2ff; color: #00d2ff; background: rgba(0,210,255,0.1); }
+
+        .btn-primary {
+            display: block;
+            width: 100%;
+            padding: 16px;
+            background: linear-gradient(90deg, #e94560, #00d2ff);
+            border: none;
+            border-radius: 12px;
+            color: #fff;
+            font-size: 1.2em;
+            font-weight: 600;
+            cursor: pointer;
+            margin: 30px 0;
+            transition: opacity 0.3s;
+        }
+        .btn-primary:hover { opacity: 0.9; }
+
+        .result-panel {
+            display: none;
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 16px;
+            padding: 30px;
+            margin-bottom: 20px;
+        }
+        .result-panel.show { display: block; }
+        .result-quadrant {
+            text-align: center;
+            padding: 25px;
+            border-radius: 12px;
+            margin-bottom: 20px;
+        }
+        .result-quadrant h3 { font-size: 1.5em; margin-bottom: 10px; }
+        .result-quadrant p { font-size: 1.05em; line-height: 1.6; }
+
+        .quadrant-enriched-solitude { background: rgba(16,185,129,0.15); border: 1px solid rgba(16,185,129,0.3); }
+        .quadrant-enriched-solitude h3 { color: #10b981; }
+        .quadrant-constructive { background: rgba(245,158,11,0.15); border: 1px solid rgba(245,158,11,0.3); }
+        .quadrant-constructive h3 { color: #f59e0b; }
+        .quadrant-pathological { background: rgba(233,69,96,0.15); border: 1px solid rgba(233,69,96,0.3); }
+        .quadrant-pathological h3 { color: #e94560; }
+        .quadrant-social { background: rgba(59,130,246,0.15); border: 1px solid rgba(59,130,246,0.3); }
+        .quadrant-social h3 { color: #3b82f6; }
+        .quadrant-exhausted { background: rgba(167,139,250,0.15); border: 1px solid rgba(167,139,250,0.3); }
+        .quadrant-exhausted h3 { color: #a78bfa; }
+        .quadrant-double { background: rgba(127,29,29,0.3); border: 1px solid rgba(220,38,38,0.4); }
+        .quadrant-double h3 { color: #fca5a5; }
+
+        .result-scores {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 15px;
+            margin-bottom: 20px;
+        }
+        .score-card {
+            padding: 20px;
+            border-radius: 10px;
+            text-align: center;
+        }
+        .score-card.loneliness { background: rgba(233,69,96,0.1); border: 1px solid rgba(233,69,96,0.2); }
+        .score-card.solitude { background: rgba(0,210,255,0.1); border: 1px solid rgba(0,210,255,0.2); }
+        .score-card .score-label { font-size: 0.9em; color: #a0aec0; margin-bottom: 5px; }
+        .score-card .score-value { font-size: 2.5em; font-weight: 700; }
+        .score-card.loneliness .score-value { color: #e94560; }
+        .score-card.solitude .score-value { color: #00d2ff; }
+
+        .recommendations {
+            margin-top: 20px;
+        }
+        .recommendations h4 {
+            color: #f59e0b;
+            margin-bottom: 12px;
+            font-size: 1.1em;
+        }
+        .recommendations ul {
+            padding-left: 20px;
+        }
+        .recommendations li {
+            color: #a0aec0;
+            margin-bottom: 8px;
+            line-height: 1.5;
+        }
+        .recommendations a {
+            color: #00d2ff;
+            text-decoration: none;
+        }
+        .recommendations a:hover { text-decoration: underline; }
+
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #64748b;
+            font-size: 0.85em;
+        }
+
+        @media (max-width: 600px) {
+            .result-scores { grid-template-columns: 1fr; }
+            .options { flex-direction: column; }
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>📝 孤独 × 独处 联合评估工具</h1>
+        <p>同时评估你的孤独水平与独处质量，精准定位当前状态，并获得跨专题的个性化建议。本工具整合 UCLA 孤独量表简版与独处质量评估，约需 5-8 分钟完成。</p>
+    </div>
+
+    <div class="nav-bar">
+        <a href="../../loneliness/visualization/Loneliness_Dashboard.html">🔴 孤独仪表盘</a>
+        <a href="./Solitude_Dashboard.html">🌿 独处仪表盘</a>
+        <a href="./Loneliness_Solitude_Joint_Dashboard.html">🟡 联合仪表盘</a>
+        <a href="./Cross_Reference_Network.html">🕸️ 交叉引用网络</a>
+    </div>
+
+    <div class="container">
+        <!-- Part A: 孤独评估 -->
+        <div class="section loneliness">
+            <h2>🔴 Part A: 孤独水平评估（UCLA-3 简版）</h2>
+            <p style="color:#8892b0;margin-bottom:20px;font-size:0.9em">指导语：以下描述你<strong>最近一周</strong>的体验。请选择最符合的频率。</p>
+
+            <div class="question" data-dimension="loneliness" data-reverse="false">
+                <div class="question-text">1. 你有多经常感到与周围人缺乏亲密感？</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 从不</button>
+                    <button class="option" data-value="2">2 很少</button>
+                    <button class="option" data-value="3">3 有时</button>
+                    <button class="option" data-value="4">4 经常</button>
+                    <button class="option" data-value="5">5 总是</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="loneliness" data-reverse="false">
+                <div class="question-text">2. 你有多经常感到没有人可以求助？</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 从不</button>
+                    <button class="option" data-value="2">2 很少</button>
+                    <button class="option" data-value="3">3 有时</button>
+                    <button class="option" data-value="4">4 经常</button>
+                    <button class="option" data-value="5">5 总是</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="loneliness" data-reverse="false">
+                <div class="question-text">3. 你有多经常感到孤独？</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 从不</button>
+                    <button class="option" data-value="2">2 很少</button>
+                    <button class="option" data-value="3">3 有时</button>
+                    <button class="option" data-value="4">4 经常</button>
+                    <button class="option" data-value="5">5 总是</button>
+                </div>
+            </div>
+        </div>
+
+        <!-- Part B: 独处评估 -->
+        <div class="section solitude">
+            <h2>🌿 Part B: 独处质量评估（SQS 简版）</h2>
+            <p style="color:#8892b0;margin-bottom:20px;font-size:0.9em">指导语：以下描述你<strong>独自一人时</strong>的体验。请选择最符合的程度。</p>
+
+            <div class="question" data-dimension="solitude" data-reverse="false">
+                <div class="question-text">1. 我主动寻找独处的时间。</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 完全不符合</button>
+                    <button class="option" data-value="2">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="4">4 比较符合</button>
+                    <button class="option" data-value="5">5 完全符合</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="solitude" data-reverse="false">
+                <div class="question-text">2. 独处时我感到平静和充电。</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 完全不符合</button>
+                    <button class="option" data-value="2">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="4">4 比较符合</button>
+                    <button class="option" data-value="5">5 完全符合</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="solitude" data-reverse="false">
+                <div class="question-text">3. 独处是我主动选择的，而非被迫的。</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 完全不符合</button>
+                    <button class="option" data-value="2">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="4">4 比较符合</button>
+                    <button class="option" data-value="5">5 完全符合</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="solitude" data-reverse="true">
+                <div class="question-text">4. 独处时我感到焦虑或痛苦。（反向计分）</div>
+                <div class="options">
+                    <button class="option" data-value="5">1 完全不符合</button>
+                    <button class="option" data-value="4">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="2">4 比较符合</button>
+                    <button class="option" data-value="1">5 完全符合</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="solitude" data-reverse="false">
+                <div class="question-text">5. 独处后我愿意且能够与他人连接。</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 完全不符合</button>
+                    <button class="option" data-value="2">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="4">4 比较符合</button>
+                    <button class="option" data-value="5">5 完全符合</button>
+                </div>
+            </div>
+
+            <div class="question" data-dimension="solitude" data-reverse="false">
+                <div class="question-text">6. 独处时我有建设性的活动（阅读、创作、思考等）。</div>
+                <div class="options">
+                    <button class="option" data-value="1">1 完全不符合</button>
+                    <button class="option" data-value="2">2 不太符合</button>
+                    <button class="option" data-value="3">3 有时符合</button>
+                    <button class="option" data-value="4">4 比较符合</button>
+                    <button class="option" data-value="5">5 完全符合</button>
+                </div>
+            </div>
+        </div>
+
+        <button class="btn-primary" onclick="calculateResult()">🎯 生成联合评估报告</button>
+
+        <!-- Result Panel -->
+        <div class="result-panel" id="resultPanel">
+            <div class="result-scores">
+                <div class="score-card loneliness">
+                    <div class="score-label">孤独水平 (3-15)</div>
+                    <div class="score-value" id="lonelinessScore">-</div>
+                </div>
+                <div class="score-card solitude">
+                    <div class="score-label">独处质量 (6-30)</div>
+                    <div class="score-value" id="solitudeScore">-</div>
+                </div>
+            </div>
+
+            <div class="result-quadrant" id="resultQuadrant">
+                <h3 id="quadrantTitle">-</h3>
+                <p id="quadrantDesc">-</p>
+            </div>
+
+            <div class="recommendations" id="recommendations">
+                <h4>📋 个性化建议</h4>
+                <ul id="recList"></ul>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Peace Lab Database — 孤独×独处联合评估工具 v1.0</p>
+        <p>⚠️ 本工具仅供自我了解和教育用途，不能替代专业临床评估。若你的痛苦程度严重，请寻求专业心理健康服务。</p>
+    </div>
+
+<script>
+// Option selection
+document.querySelectorAll('.question').forEach(q => {
+    q.querySelectorAll('.option').forEach(btn => {
+        btn.addEventListener('click', function() {
+            q.querySelectorAll('.option').forEach(b => {
+                b.classList.remove('selected', 'l-selected', 's-selected');
+            });
+            const dim = q.dataset.dimension;
+            this.classList.add('selected', dim === 'loneliness' ? 'l-selected' : 's-selected');
+        });
+    });
+});
+
+function calculateResult() {
+    // Validate all answered
+    const lQuestions = document.querySelectorAll('[data-dimension="loneliness"]');
+    const sQuestions = document.querySelectorAll('[data-dimension="solitude"]');
+    let allAnswered = true;
+    [...lQuestions, ...sQuestions].forEach(q => {
+        if (!q.querySelector('.selected')) {
+            q.style.border = '1px solid #e94560';
+            allAnswered = false;
+        } else {
+            q.style.border = '';
+        }
+    });
+    if (!allAnswered) {
+        alert('请回答所有问题后再生成报告。');
+        return;
+    }
+
+    // Calculate scores
+    let lonelinessScore = 0;
+    lQuestions.forEach(q => {
+        lonelinessScore += parseInt(q.querySelector('.selected').dataset.value);
+    });
+
+    let solitudeScore = 0;
+    sQuestions.forEach(q => {
+        solitudeScore += parseInt(q.querySelector('.selected').dataset.value);
+    });
+
+    // Normalize to 0-10 scale
+    const lonelinessNorm = (lonelinessScore - 3) / 12 * 10; // 3-15 -> 0-10
+    const solitudeNorm = (solitudeScore - 6) / 24 * 10; // 6-30 -> 0-10
+
+    // Determine quadrant
+    let quadrant, title, desc, recs, cssClass;
+    if (lonelinessNorm < 4 && solitudeNorm >= 6) {
+        quadrant = 'enriched-solitude';
+        title = '🌿 丰盈独处 (Enriched Solitude)';
+        desc = '你的独处质量高，孤独感低。你能够在独处中获得滋养，同时保持健康的社会连接。这是理想的心理状态。';
+        cssClass = 'quadrant-enriched-solitude';
+        recs = [
+            '继续保持当前的独处-社交平衡',
+            '深化独处实践：尝试更长时间的 retreat 或创作',
+            '帮助他人：分享你的独处经验，支持正在从孤独中转化的人',
+            '定期自检：使用本工具每3个月检查一次',
+            '推荐阅读：<a href="../Solitude_Practice_Guide.md">独处实践指南</a>（深化阶段）'
+        ];
+    } else if (lonelinessNorm < 4 && solitudeNorm < 6) {
+        quadrant = 'social-fulfillment';
+        title = '💙 社交充实 (Social Fulfillment)';
+        desc = '你的社交连接良好，独处需求适中。你可能是一个外向或高社交需求的人，当前状态健康。';
+        cssClass = 'quadrant-social';
+        recs = [
+            '你的社交状态良好，但可以适度引入独处来丰富内在资源',
+            '尝试每周预留2-3小时的"个人时间"，用于阅读、反思或创作',
+            '独处不是拒绝社交，而是让社交更有质量',
+            '阅读：<a href="../Solitude_Relationships.md">关系中的独处</a>（平衡社交与独处）'
+        ];
+    } else if (lonelinessNorm >= 4 && lonelinessNorm < 7 && solitudeNorm >= 4) {
+        quadrant = 'constructive';
+        title = '🟡 建设性孤独 (Constructive Loneliness)';
+        desc = '你正在经历孤独，但同时具备一定的独处能力。这是一个转化的机会——利用你的独处能力来处理孤独，逐步走向丰盈。';
+        cssClass = 'quadrant-constructive';
+        recs = [
+            '优先处理孤独：使用 <a href="../../loneliness/Loneliness_Mindfulness_Intervention.md">正念慈心干预</a>',
+            '利用独处时间进行结构化练习（ journaling 、慈心冥想）',
+            '每周增加一次轻度社交活动，逐步扩展连接',
+            '参考桥接文档：<a href="../Solitude_Loneliness_Bridge.md">孤独→独处转化路径</a>'
+        ];
+    } else if (lonelinessNorm >= 4 && lonelinessNorm < 7 && solitudeNorm < 4) {
+        quadrant = 'exhausted';
+        title = '💜 社交耗竭 (Social Exhaustion)';
+        desc = '你身处社交之中却依然感到孤独，同时缺乏独处能力。这是一种"被淹没"的状态——社交数量多但质量低。';
+        cssClass = 'quadrant-exhausted';
+        recs = [
+            '减少浅层社交：学会说"不"，保护个人时间',
+            '从微独处开始：每天5-10分钟不带手机的独处',
+            '提升社交质量：将时间投入1-2个深度关系，而非10个浅层关系',
+            '阅读：<a href="../Solitude_Digital_Age.md">数字时代的独处</a>（重获真正的独处）'
+        ];
+    } else if (lonelinessNorm >= 7 && solitudeNorm >= 4) {
+        quadrant = 'pathological';
+        title = '🔴 病理性孤独伴独处能力 (Pathological Loneliness)';
+        desc = '你的孤独感较高，但具备一定的独处基础。独处本身不足以缓解你的孤独——你需要主动寻求社会连接和专业支持。';
+        cssClass = 'quadrant-pathological';
+        recs = [
+            '⚠️ <strong>优先建议：寻求专业心理咨询或治疗</strong>',
+            '使用 <a href="../../loneliness/Loneliness_Clinical_Manual.md">孤独临床手册</a> 了解干预选项',
+            '尝试 <a href="../../loneliness/Loneliness_Mindfulness_Intervention.md">慈心冥想</a>：研究表明其对孤独效果显著',
+            '不要独自承担：联系信任的朋友或家人，或拨打心理援助热线',
+            '全国24小时心理援助：400-161-9995'
+        ];
+    } else {
+        quadrant = 'double';
+        title = '🆘 双重缺失 (Double Deprivation)';
+        desc = '你的孤独感很高，同时独处质量也很低。这是最困难的状态——既缺乏外部连接，也缺乏内在资源。';
+        cssClass = 'quadrant-double';
+        recs = [
+            '⚠️ <strong>强烈建议：尽快寻求专业心理健康支持</strong>',
+            '你不需要独自面对这一切——专业帮助是有效的',
+            '如果感到生活不值得过，请立即联系危机热线：400-161-9995',
+            '从最小的社会连接开始：一次简短的问候、一条信息',
+            '同时从最小的独处练习开始：3次深呼吸，只是感受当下',
+            '参考：<a href="../../loneliness/Loneliness_Clinical_Protocol.md">临床标准化流程</a>'
+        ];
+    }
+
+    // Display results
+    document.getElementById('lonelinessScore').textContent = lonelinessScore;
+    document.getElementById('solitudeScore').textContent = solitudeScore;
+
+    const qPanel = document.getElementById('resultQuadrant');
+    qPanel.className = 'result-quadrant ' + cssClass;
+    document.getElementById('quadrantTitle').textContent = title;
+    document.getElementById('quadrantDesc').textContent = desc;
+
+    const recList = document.getElementById('recList');
+    recList.innerHTML = recs.map(r => '<li>' + r + '</li>').join('');
+
+    document.getElementById('resultPanel').classList.add('show');
+    document.getElementById('resultPanel').scrollIntoView({ behavior: 'smooth' });
+}
+</script>
+</body>
+</html>

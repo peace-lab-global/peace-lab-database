@@ -276,7 +276,7 @@
 
 ## 交叉引用 | Cross References
 
-- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md)
-- [正念饮水专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md)
-- [正念日常生活](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md)
-- [正念临床应用](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)
+- [正念行走专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md)
+- [正念饮水专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md)
+- [正念日常生活](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md)
+- [正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)

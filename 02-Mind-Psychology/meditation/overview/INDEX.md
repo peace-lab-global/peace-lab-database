@@ -3,6 +3,7 @@
 ## 内容索引 | Contents
 
 - [Meditation Core | 冥想核心基础](Meditation_Core.md)
+- [Meditation Practice Techniques | 冥想过程练习指导](Meditation_Practice_Techniques.md) **[NEW]**
 - [Meditation General | 冥想通论](Meditation_General.md)
 - [Meditation Types Classification | 冥想类型分类学](Meditation_Types_Classification.md)
 - [Meditation Neuroscience Mechanisms | 冥想神经科学机制](Meditation_Neuroscience_Mechanisms.md)
@@ -21,4 +22,6 @@
 - [Meditation And Sleep | 冥想与睡眠](Meditation_And_Sleep.md)
 - [Meditation Seniors Elderly | 老年冥想指南](Meditation_Seniors_Elderly.md) **[NEW]**
 - [Meditation Pregnancy | 孕期冥想指南](Meditation_Pregnancy.md) **[NEW]**
-- [Meditation Assessment Tools | 冥想评估量表与工具](Meditation_Assessment_Tools.md) **[NEW]**
+- [Meditation Assessment Tools | 冥想评估量表与工具](Meditation_Assessment_Tools.md) **[v2.0]**
+- [Meditation Level & Ability Assessment Standard | 冥想水平与能力评估标准总纲](Meditation_Level_Ability_Assessment_Standard.md) **[v3.0]**
+- [Meditation Assessment Methodology Supplement | 冥想评估方法论补充](Meditation_Assessment_Methodology_Supplement.md) **[NEW v1.0]**

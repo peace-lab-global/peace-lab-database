@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>冥想水平与能力评估可视化仪表盘 | Meditation Assessment Dashboard v3.0</title>
+<script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+<style>
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif; background: #f5f7fa; color: #333; line-height: 1.6; }
+  .container { max-width: 1400px; margin: 0 auto; padding: 20px; }
+  header { background: linear-gradient(135deg, #1a2980 0%, #26d0ce 100%); color: white; padding: 40px 30px; border-radius: 12px; margin-bottom: 30px; box-shadow: 0 4px 20px rgba(0,0,0,0.1); }
+  header h1 { font-size: 2.2em; margin-bottom: 10px; }
+  header p { opacity: 0.9; font-size: 1.1em; }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(600px, 1fr)); gap: 24px; margin-bottom: 30px; }
+  .card { background: white; border-radius: 12px; padding: 24px; box-shadow: 0 2px 12px rgba(0,0,0,0.06); }
+  .card h2 { font-size: 1.3em; margin-bottom: 16px; color: #1a2980; border-left: 4px solid #26d0ce; padding-left: 12px; }
+  .card h3 { font-size: 1.1em; margin: 14px 0 8px; color: #444; }
+  .chart { width: 100%; height: 420px; }
+  .chart-tall { width: 100%; height: 600px; }
+  .legend-box { display: flex; flex-wrap: wrap; gap: 12px; margin-top: 12px; }
+  .legend-item { display: flex; align-items: center; gap: 6px; font-size: 0.9em; }
+  .legend-dot { width: 12px; height: 12px; border-radius: 50%; }
+  table { width: 100%; border-collapse: collapse; font-size: 0.85em; margin-top: 12px; }
+  th, td { border: 1px solid #e0e0e0; padding: 8px 10px; text-align: left; }
+  th { background: #f0f4f8; font-weight: 600; color: #1a2980; }
+  tr:nth-child(even) { background: #fafbfc; }
+  .level-badge { display: inline-block; padding: 2px 10px; border-radius: 20px; font-size: 0.85em; font-weight: 600; }
+  .badge-l0 { background: #e8f5e9; color: #2e7d32; }
+  .badge-l1 { background: #e3f2fd; color: #1565c0; }
+  .badge-l2 { background: #fff3e0; color: #ef6c00; }
+  .badge-l3 { background: #fce4ec; color: #c2185b; }
+  .badge-l4 { background: #f3e5f5; color: #7b1fa2; }
+  .badge-l5 { background: #ede7f6; color: #512da8; }
+  .badge-l6 { background: #e8eaf6; color: #303f9f; }
+  .badge-l7 { background: #e0f2f1; color: #00695c; }
+  .badge-l8 { background: #fff8e1; color: #ff8f00; }
+  .flow-step { display: flex; align-items: center; margin: 8px 0; }
+  .flow-box { background: #e3f2fd; border: 2px solid #1976d2; border-radius: 8px; padding: 10px 16px; font-size: 0.9em; flex: 1; }
+  .flow-arrow { color: #1976d2; font-size: 1.4em; margin: 0 10px; }
+  .flow-diamond { background: #fff3e0; border: 2px solid #f57c00; border-radius: 8px; padding: 10px 16px; font-size: 0.9em; transform: rotate(0deg); text-align: center; }
+  .fullwidth { grid-column: 1 / -1; }
+  .note { background: #fff8e1; border-left: 4px solid #ffc107; padding: 12px 16px; margin-top: 12px; font-size: 0.9em; color: #555; }
+  .risk-low { color: #2e7d32; font-weight: 600; }
+  .risk-med { color: #f57c00; font-weight: 600; }
+  .risk-high { color: #c62828; font-weight: 600; }
+  footer { text-align: center; padding: 30px; color: #888; font-size: 0.9em; }
+  @media print {
+    body { background: white; }
+    .card { box-shadow: none; border: 1px solid #ddd; break-inside: avoid; }
+    header { -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+  }
+</style>
+</head>
+<body>
+<div class="container">
+
+<header>
+  <h1>🧘 冥想水平与能力评估可视化仪表盘</h1>
+  <p>Comprehensive Meditation Level & Ability Assessment Dashboard v3.0 | 七维能力模型 (7DCM) × 九级水平模型 (9LM)</p>
+</header>
+
+<!-- 七维剖面雷达图 -->
+<div class="grid">
+  <div class="card fullwidth">
+    <h2>七维能力剖面雷达图 | 7DCM Profile Radar</h2>
+    <p style="font-size:0.9em;color:#666;margin-bottom:12px;">点击图例可隐藏/显示不同水平层级的剖面。L0-L3为基础层，L4-L6为深入层，L7-L8为超越层。</p>
+    <div id="radarChart" class="chart"></div>
+    <div class="legend-box">
+      <div class="legend-item"><span class="legend-dot" style="background:#ef5350"></span>L0 初触</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#ff7043"></span>L1 入门</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#ffa726"></span>L2 巩固</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#ffca28"></span>L3 熟练</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#66bb6a"></span>L4 深入</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#42a5f5"></span>L5 精通</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#5c6bc0"></span>L6 资深</div>
+      <div class="legend-item"><span class="legend-dot" style="background:#ab47bc"></span>L7 大师</div>
+    </div>
+  </div>
+</div>
+
+<!-- 水平分级总览表 -->
+<div class="grid">
+  <div class="card fullwidth">
+    <h2>九级水平模型总览 | Nine-Level Model Overview</h2>
+    <table>
+      <thead>
+        <tr>
+          <th style="width:80px">层级</th>
+          <th style="width:100px">名称</th>
+          <th style="width:120px">累计时长</th>
+          <th style="width:100px">CMAI</th>
+          <th style="width:100px">核心特征</th>
+          <th style="width:80px">风险</th>
+          <th style="width:120px">传统对应</th>
+          <th style="width:100px">神经标记</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr><td><span class="level-badge badge-l0">L0</span></td><td>初触</td><td>&lt;20h</td><td>20-35</td><td>了解概念；5-10min引导</td><td class="risk-low">低</td><td>凡夫位</td><td>标准基线</td></tr>
+        <tr><td><span class="level-badge badge-l1">L1</span></td><td>入门</td><td>20-100h</td><td>35-45</td><td>规律练习；15-20min</td><td class="risk-low">低</td><td>九住心1-3</td><td>注意网络微改善</td></tr>
+        <tr><td><span class="level-badge badge-l2">L2</span></td><td>巩固</td><td>100-500h</td><td>45-55</td><td>2种核心技术；日常正念</td><td class="risk-low">低-中</td><td>九住心4-6</td><td>前额-岛叶↑</td></tr>
+        <tr><td><span class="level-badge badge-l3">L3</span></td><td>熟练</td><td>500-2000h</td><td>55-65</td><td>稳定专注；初步去中心化</td><td class="risk-med">中</td><td>九住心7-9/近行定</td><td>DMN↓ d=0.4-0.8</td></tr>
+        <tr><td><span class="level-badge badge-l4">L4</span></td><td>深入</td><td>2000-5000h</td><td>65-75</td><td>深度禅定/开放觉知</td><td class="risk-med">中-高</td><td>初禅-二禅/生灭智</td><td>DMN重构；α-θ耦合</td></tr>
+        <tr><td><span class="level-badge badge-l5">L5</span></td><td>精通</td><td>5000-10000h</td><td>75-85</td><td>非二元glimpses；自我感转变</td><td class="risk-high">高</td><td>三禅-四禅/见性</td><td>全脑整合↑</td></tr>
+        <tr><td><span class="level-badge badge-l6">L6</span></td><td>资深</td><td>10000-20000h</td><td>85-92</td><td>非二元常见；觉知渗透睡眠</td><td class="risk-med">中</td><td>阿罗汉向/一味瑜伽</td><td>结构MRI变化</td></tr>
+        <tr><td><span class="level-badge badge-l7">L7</span></td><td>大师</td><td>&gt;20000h</td><td>92-97</td><td>非二元默认；任运自在</td><td class="risk-low">低</td><td>阿罗汉/无修瑜伽</td><td>个性化稳定模式</td></tr>
+        <tr><td><span class="level-badge badge-l8">L8</span></td><td>圆满</td><td>不适用</td><td>不可测</td><td>觉知与显现不二</td><td>-</td><td>佛陀/Jivanmukta</td><td>不适用</td></tr>
+      </tbody>
+    </table>
+    <div class="note">📌 <strong>水平判定黄金法则</strong> = MAX(练习时长下限, 能力指标达标≥80%, 神经标记支持, 传统验证通过) × 无严重不良反应 × 无否决条件</div>
+  </div>
+</div>
+
+<!-- 水平判定流程图 -->
+<div class="grid">
+  <div class="card fullwidth">
+    <h2>水平判定流程图 | Level Assessment Decision Flow</h2>
+    <div id="flowChart" class="chart-tall"></div>
+  </div>
+</div>
+
+<!-- 跨传统映射总图 -->
+<div class="grid">
+  <div class="card fullwidth">
+    <h2>跨传统阶次映射总图 | Cross-Tradition Stage Mapping</h2>
+    <p style="font-size:0.9em;color:#666;margin-bottom:12px;">点击传统名称可高亮显示该传统在各水平层级的对应阶次。</p>
+    <div id="traditionChart" class="chart-tall"></div>
+  </div>
+</div>
+
+<!-- 七维模型动态关系 -->
+<div class="grid">
+  <div class="card">
+    <h2>七维模型发展序列 | 7DCM Development Sequence</h2>
+    <div id="sequenceChart" class="chart"></div>
+    <div class="note">早期(L0-L2): C→SC优先 | 中期(L2-L4): MA→E成为关键 | 中晚期(L4-L5): SR→CL整合 | 高级(L5+): BQ最显著</div>
+  </div>
+  <div class="card">
+    <h2>剂量-反应关系曲线 | Dose-Response Curve</h2>
+    <div id="doseChart" class="chart"></div>
+    <div class="note">非线性对数增长模型: 早期快速上升 → 中期平台期 → 晚期渐进趋于渐近线。个体差异可达±40%。</div>
+  </div>
+</div>
+
+<!-- 平台期与风险矩阵 -->
+<div class="grid">
+  <div class="card fullwidth">
+    <h2>平台期识别与风险响应矩阵 | Plateau & Risk Response Matrix</h2>
+    <table>
+      <thead>
+        <tr><th>现象</th><th>常见水平</th><th>识别指标</th><th>应对策略</th><th>风险等级</th></tr>
+      </thead>
+      <tbody>
+        <tr><td>无聊期</td><td>L0-L1</td><td>练习动机下降；"没什么新东西"</td><td>引入技术多样性；团体共修</td><td class="risk-low">低</td></tr>
+        <tr><td>无效感</td><td>L1-L2</td><td>量表得分停滞；"练习无效"</td><td>强调过程导向；回顾早期日记</td><td class="risk-low">低</td></tr>
+        <tr><td>昏沉-掉举循环</td><td>L2-L3</td><td>冥想中持续昏沉或过度兴奋</td><td>调整时间；引入动态冥想</td><td class="risk-low">低</td></tr>
+        <tr><td>修行黑夜早期</td><td>L3-L4</td><td>恐惧/存在性焦虑；MIOME情绪↑</td><td>降低强度；寻求督导；整合心理治疗</td><td class="risk-high">高</td></tr>
+        <tr><td>法执期</td><td>L4-L5</td><td>过度执着体验；评判他人</td><td>公案训练；强调"放下"；服务他人</td><td class="risk-med">中</td></tr>
+        <tr><td>证悟傲慢</td><td>L5-L6</td><td>认为自己"已到达"；缺乏谦逊</td><td>共修反馈；谦卑服务；回归基础</td><td class="risk-med">中</td></tr>
+        <tr><td>灵性绕道</td><td>L2-L6</td><td>用冥想回避心理议题；情感隔离</td><td>转介心理治疗；减少练习；心理探索</td><td class="risk-high">高</td></tr>
+        <tr><td>退步(Backsliding)</td><td>任何水平</td><td>CMAI下降>10分持续3月+</td><td>检查生活压力；调整方案；寻求支持</td><td class="risk-med">中</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<!-- 创伤知情评估路径 -->
+<div class="grid">
+  <div class="card">
+    <h2>创伤知情评估分层路径 | Trauma-Informed Assessment Tiers</h2>
+    <table>
+      <thead><tr><th>调整维度</th><th>无创伤</th><th>轻度</th><th>中度</th><th>重度</th></tr></thead>
+      <tbody>
+        <tr><td>冥想测试类型</td><td>标准化引导</td><td>允许睁眼/grounding</td><td>仅限grounding</td><td>禁止冥想测试</td></tr>
+        <tr><td>现象学访谈</td><td>完整模块</td><td>跳过创伤细节</td><td>简化模块</td><td>禁止访谈</td></tr>
+        <tr><td>评估时长</td><td>标准</td><td>允许分段</td><td>≤45min/次</td><td>≤20min</td></tr>
+        <tr><td>闭关等效</td><td>标准</td><td>减少50%</td><td>禁止密集闭关</td><td>禁止</td></tr>
+        <tr><td>评估后跟进</td><td>标准反馈</td><td>48h安全电话</td><td>24h安全电话</td><td>即时临床转介</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <div class="card">
+    <h2>评估工具信效度速查 | Tool Psychometrics Quick Reference</h2>
+    <table>
+      <thead><tr><th>量表</th><th>α</th><th>适用</th><th>注意</th></tr></thead>
+      <tbody>
+        <tr><td>FFMQ-39</td><td>0.75-0.91</td><td>L0-L5</td><td>抑郁样本"不评判"可能假性低</td></tr>
+        <tr><td>FFMQ-15</td><td>0.84</td><td>L0-L3</td><td>仅总分，不分析子维度</td></tr>
+        <tr><td>MAAS</td><td>0.82-0.87</td><td>L0-L4</td><td>全部反向计分</td></tr>
+        <tr><td>NADA-T</td><td>0.90-0.97</td><td>L4-L7</td><td>英文为主；中文待验证</td></tr>
+        <tr><td>MIOME</td><td>0.80+</td><td>全层级</td><td>频率×强度=严重程度</td></tr>
+        <tr><td>CAMM</td><td>0.77-0.81</td><td>10-17岁</td><td>反向计分</td></tr>
+        <tr><td>MAAS-A</td><td>0.82-0.86</td><td>14-18岁</td><td>间接评估法</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
+
+<footer>
+  <p>Peace Lab Database — 冥想水平与能力评估标准总纲 v3.0 | 数据来源：循证医学、Contemplative Science、跨传统整合</p>
+  <p>提示：本仪表盘为交互式HTML，可在浏览器中直接查看、截图保存或打印为PDF。</p>
+</footer>
+
+</div>
+
+<script>
+// ========== 1. 七维雷达图 ==========
+const radarChart = echarts.init(document.getElementById('radarChart'));
+const dimensions = ['C\n专注力', 'SC\n感官清晰度', 'E\n平静度', 'MA\n元认知觉察', 'BQ\n存在品质', 'SR\n自我调节', 'CL\n慈悲能力'];
+const radarData = [
+  { value: [25, 15, 25, 10, 0, 20, 10], name: 'L0 初触' },
+  { value: [40, 25, 40, 20, 5, 30, 20], name: 'L1 入门' },
+  { value: [55, 40, 55, 35, 15, 45, 30], name: 'L2 巩固' },
+  { value: [70, 55, 70, 55, 30, 60, 45], name: 'L3 熟练' },
+  { value: [80, 70, 82, 70, 50, 72, 58], name: 'L4 深入' },
+  { value: [88, 82, 88, 82, 70, 82, 72], name: 'L5 精通' },
+  { value: [95, 92, 95, 88, 85, 92, 85], name: 'L6 资深' },
+  { value: [98, 97, 98, 96, 96, 97, 95], name: 'L7 大师' },
+];
+radarChart.setOption({
+  tooltip: { trigger: 'item' },
+  legend: { data: radarData.map(d => d.name), bottom: 0, type: 'scroll' },
+  radar: {
+    indicator: dimensions.map(d => ({ name: d, max: 100 })),
+    shape: 'polygon',
+    splitNumber: 5,
+    axisName: { color: '#555', fontSize: 12 },
+    splitArea: { areaStyle: { color: ['#f8f9fa', '#fff', '#f8f9fa', '#fff', '#f8f9fa'] } }
+  },
+  series: [{
+    type: 'radar',
+    data: radarData,
+    symbol: 'circle',
+    symbolSize: 6,
+    lineStyle: { width: 2 },
+    areaStyle: { opacity: 0.1 }
+  }]
+});
+
+// ========== 2. 水平判定流程图（桑基图） ==========
+const flowChart = echarts.init(document.getElementById('flowChart'));
+flowChart.setOption({
+  tooltip: { trigger: 'item', triggerOn: 'mousemove' },
+  series: [{
+    type: 'sankey',
+    layout: 'none',
+    emphasis: { focus: 'adjacency' },
+    data: [
+      { name: '评估申请', itemStyle: { color: '#42a5f5' } },
+      { name: '知情同意', itemStyle: { color: '#66bb6a' } },
+      { name: '安全筛查\n(PHQ-9/GAD-7/MIOME)' },
+      { name: '练习史采集', itemStyle: { color: '#ffa726' } },
+      { name: '基线量表', itemStyle: { color: '#ab47bc' } },
+      { name: '高风险\n(暂停评估)', itemStyle: { color: '#ef5350' } },
+      { name: '安全通过', itemStyle: { color: '#66bb6a' } },
+      { name: '认知行为测试\n(ANT/SART/Stroop)' },
+      { name: '生理基线\n(HRV/EEG)' },
+      { name: '冥想能力测试\n(引导冥想+NADA-S)' },
+      { name: '现象学访谈\n(L3+必做)' },
+      { name: '导师验证\n(L4+必做)' },
+      { name: 'ESM/EMA\n(3-7天)' },
+      { name: '数据整合\n七维剖面生成' },
+      { name: '概率化判定\n贝叶斯模型' },
+      { name: '专家委员会\n≥3人评审' },
+      { name: '边界判定\n过渡期标注', itemStyle: { color: '#ffa726' } },
+      { name: '明确判定\n授予水平', itemStyle: { color: '#66bb6a' } },
+      { name: '否决条件触发', itemStyle: { color: '#ef5350' } },
+      { name: '反馈会议\n发展建议', itemStyle: { color: '#42a5f5' } },
+      { name: '报告归档', itemStyle: { color: '#78909c' } }
+    ],
+    links: [
+      { source: '评估申请', target: '知情同意', value: 100 },
+      { source: '知情同意', target: '安全筛查\n(PHQ-9/GAD-7/MIOME)', value: 95 },
+      { source: '知情同意', target: '否决条件触发', value: 5 },
+      { source: '安全筛查\n(PHQ-9/GAD-7/MIOME)', target: '高风险\n(暂停评估)', value: 15 },
+      { source: '安全筛查\n(PHQ-9/GAD-7/MIOME)', target: '安全通过', value: 80 },
+      { source: '安全通过', target: '练习史采集', value: 80 },
+      { source: '练习史采集', target: '基线量表', value: 80 },
+      { source: '基线量表', target: '认知行为测试\n(ANT/SART/Stroop)', value: 60 },
+      { source: '基线量表', target: '生理基线\n(HRV/EEG)', value: 40 },
+      { source: '基线量表', target: '冥想能力测试\n(引导冥想+NADA-S)', value: 80 },
+      { source: '冥想能力测试\n(引导冥想+NADA-S)', target: '现象学访谈\n(L3+必做)', value: 50 },
+      { source: '冥想能力测试\n(引导冥想+NADA-S)', target: 'ESM/EMA\n(3-7天)', value: 80 },
+      { source: '现象学访谈\n(L3+必做)', target: '导师验证\n(L4+必做)', value: 30 },
+      { source: '导师验证\n(L4+必做)', target: '数据整合\n七维剖面生成', value: 30 },
+      { source: 'ESM/EMA\n(3-7天)', target: '数据整合\n七维剖面生成', value: 80 },
+      { source: '认知行为测试\n(ANT/SART/Stroop)', target: '数据整合\n七维剖面生成', value: 60 },
+      { source: '生理基线\n(HRV/EEG)', target: '数据整合\n七维剖面生成', value: 40 },
+      { source: '数据整合\n七维剖面生成', target: '概率化判定\n贝叶斯模型', value: 100 },
+      { source: '概率化判定\n贝叶斯模型', target: '专家委员会\n≥3人评审', value: 100 },
+      { source: '专家委员会\n≥3人评审', target: '边界判定\n过渡期标注', value: 25 },
+      { source: '专家委员会\n≥3人评审', target: '明确判定\n授予水平', value: 70 },
+      { source: '专家委员会\n≥3人评审', target: '否决条件触发', value: 5 },
+      { source: '边界判定\n过渡期标注', target: '反馈会议\n发展建议', value: 25 },
+      { source: '明确判定\n授予水平', target: '反馈会议\n发展建议', value: 70 },
+      { source: '否决条件触发', target: '反馈会议\n发展建议', value: 10 },
+      { source: '高风险\n(暂停评估)', target: '反馈会议\n发展建议', value: 15 },
+      { source: '反馈会议\n发展建议', target: '报告归档', value: 100 }
+    ],
+    lineStyle: { color: 'gradient', curveness: 0.5 }
+  }]
+});
+
+// ========== 3. 跨传统映射图（热力图） ==========
+const traditionChart = echarts.init(document.getElementById('traditionChart'));
+const traditions = ['上座部止观', '天台止观', '禅宗', '藏传大手印', '藏传大圆满', '印度瑜伽', '现代正念', '道家内丹', '基督宗教'];
+const levels = ['L0初触', 'L1入门', 'L2巩固', 'L3熟练', 'L4深入', 'L5精通', 'L6资深', 'L7大师', 'L8圆满'];
+const mapData = [
+  [0,0,1],[0,1,2],[0,2,3],[0,3,4],[0,4,5],[0,5,6],[0,6,7],[0,7,8],[0,8,9],
+  [1,0,1],[1,1,2],[1,2,3],[1,3,4],[1,4,5],[1,5,6],[1,6,7],[1,7,8],[1,8,9],
+  [2,0,1],[2,1,2],[2,2,3],[2,3,4],[2,4,5],[2,5,6],[2,6,7],[2,7,8],[2,8,9],
+  [3,0,1],[3,1,2],[3,2,3],[3,3,4],[3,4,5],[3,5,6],[3,6,7],[3,7,8],[3,8,9],
+  [4,0,1],[4,1,2],[4,2,3],[4,3,4],[4,4,5],[4,5,6],[4,6,7],[4,7,8],[4,8,9],
+  [5,0,1],[5,1,2],[5,2,3],[5,3,4],[5,4,5],[5,5,6],[5,6,7],[5,7,8],[5,8,9],
+  [6,0,1],[6,1,2],[6,2,3],[6,3,4],[6,4,5],[6,5,6],[6,6,7],[6,7,0],[6,8,0],
+  [7,0,1],[7,1,2],[7,2,3],[7,3,4],[7,4,5],[7,5,6],[7,6,7],[7,7,8],[7,8,9],
+  [8,0,1],[8,1,2],[8,2,3],[8,3,4],[8,4,5],[8,5,6],[8,6,7],[8,7,8],[8,8,9]
+];
+const mapLabels = [
+  ['凡夫','九住1-3','九住4-6','九住7-9/近行定','初禅-二禅/生灭','三禅-四禅/坏灭','行舍智/道智','阿罗汉/四果','佛陀'],
+  ['外凡','外凡-内凡','内凡-似解','观行-相似','六根清净','十信-十住','十行-十回向','初地-等觉','妙觉佛果'],
+  ['未参禅','参话头初阶','疑团初成','疑团得力','破参初关','见性/Kensho','重关','牢关/大悟','佛果'],
+  ['未入门','九住心','专一瑜伽初','专一瑜伽熟','离戏瑜伽','一味瑜伽','无修瑜伽初','无修瑜伽熟','佛果'],
+  ['未入门','寻访','直指初识','稳固','法性现前','觉受增长','明性圆满','法尽证入','佛果'],
+  ['Prārambha','Ghata','Paricaya','Nispatti','Dhyāna1-2','Dhyāna3-4','Samādhi','Kaivalya','解脱'],
+  ['课前','MBSR W1-2','MBSR W3-5','MBSR W6-8','毕业','资深','培训师','督导','—'],
+  ['炼己','筑基','炼精化气','炼气化神初','炼气化神中','炼神还虚','还虚合道初','合道','真人'],
+  ['初学者','慕道期','净化期','光照期','合一期','神秘合一','黑夜/净化','成全/圣化','与神合一']
+];
+const flatLabels = [];
+for(let i=0;i<9;i++) for(let j=0;j<9;j++) flatLabels.push(mapLabels[i][j]);
+
+traditionChart.setOption({
+  tooltip: {
+    position: 'top',
+    formatter: function(p) {
+      return `${traditions[p.value[0]]} × ${levels[p.value[1]]}<br/><strong>${mapLabels[p.value[0]][p.value[1]]}</strong>`;
+    }
+  },
+  grid: { height: '75%', top: '5%' },
+  xAxis: { type: 'category', data: levels, splitArea: { show: true }, axisLabel: { rotate: 30, fontSize: 11 } },
+  yAxis: { type: 'category', data: traditions, splitArea: { show: true }, axisLabel: { fontSize: 11 } },
+  visualMap: {
+    min: 0, max: 9,
+    calculable: true,
+    orient: 'horizontal',
+    left: 'center',
+    bottom: '0%',
+    inRange: { color: ['#e8f5e9','#c8e6c9','#a5d6a7','#81c784','#66bb6a','#4caf50','#43a047','#388e3c','#2e7d32'] },
+    show: false
+  },
+  series: [{
+    type: 'heatmap',
+    data: mapData,
+    label: {
+      show: true,
+      fontSize: 9,
+      formatter: function(p) { return mapLabels[p.value[0]][p.value[1]]; }
+    },
+    emphasis: { itemStyle: { shadowBlur: 10, shadowColor: 'rgba(0,0,0,0.5)' } }
+  }]
+});
+
+// ========== 4. 发展序列图（漏斗图/阶段图） ==========
+const sequenceChart = echarts.init(document.getElementById('sequenceChart'));
+sequenceChart.setOption({
+  tooltip: { trigger: 'item', formatter: '{b}: {c}' },
+  series: [{
+    type: 'funnel',
+    left: '10%', top: 20, bottom: 20, width: '80%',
+    min: 0, max: 100,
+    minSize: '20%', maxSize: '100%',
+    sort: 'none',
+    gap: 2,
+    label: { show: true, position: 'inside', fontSize: 12, color: '#fff' },
+    itemStyle: { borderColor: '#fff', borderWidth: 1 },
+    emphasis: { label: { fontSize: 14 } },
+    data: [
+      { value: 100, name: '早期 L0-L2\nC专注力 → SC清晰度', itemStyle: { color: '#42a5f5' } },
+      { value: 75, name: '中期 L2-L4\nMA元认知 → E平静度', itemStyle: { color: '#66bb6a' } },
+      { value: 55, name: '中晚期 L4-L5\nSR自我调节 → CL慈悲', itemStyle: { color: '#ffa726' } },
+      { value: 35, name: '高级 L5+\nBQ存在品质', itemStyle: { color: '#ab47bc' } }
+    ]
+  }]
+});
+
+// ========== 5. 剂量-反应曲线 ==========
+const doseChart = echarts.init(document.getElementById('doseChart'));
+const hours = Array.from({length: 101}, (_, i) => i * 50); // 0-5000h
+const curve = hours.map(h => 20 + 60 * Math.log(1 + 0.001 * h) / Math.log(1 + 5));
+const curveUpper = curve.map(v => Math.min(100, v + 15));
+const curveLower = curve.map(v => Math.max(0, v - 15));
+
+doseChart.setOption({
+  tooltip: { trigger: 'axis' },
+  legend: { data: ['中位数预期','个体差异范围(±40%)'], bottom: 0 },
+  grid: { left: '8%', right: '8%', bottom: '15%' },
+  xAxis: { type: 'category', data: hours, name: '累计练习时长(小时)', nameLocation: 'middle', nameGap: 30, axisLabel: { formatter: v => v % 500 === 0 ? v : '' } },
+  yAxis: { type: 'value', name: '预期能力指数', min: 0, max: 100 },
+  series: [
+    {
+      name: '中位数预期',
+      type: 'line',
+      data: curve,
+      smooth: true,
+      lineStyle: { width: 3, color: '#42a5f5' },
+      symbol: 'none'
+    },
+    {
+      name: '个体差异范围(±40%)',
+      type: 'line',
+      data: curveUpper,
+      smooth: true,
+      lineStyle: { width: 0 },
+      areaStyle: { color: 'rgba(66,165,245,0.15)' },
+      symbol: 'none',
+      stack: 'confidence'
+    },
+    {
+      type: 'line',
+      data: curveLower,
+      smooth: true,
+      lineStyle: { width: 0 },
+      areaStyle: { color: '#fff' },
+      symbol: 'none',
+      stack: 'confidence'
+    },
+    {
+      type: 'scatter',
+      data: [[500, 55], [1000, 60], [2000, 68], [5000, 78]],
+      symbolSize: 12,
+      itemStyle: { color: '#ef5350' },
+      markLine: {
+        silent: true,
+        lineStyle: { type: 'dashed', color: '#999' },
+        data: [
+          { xAxis: 500, label: { formatter: 'L3\n500h' } },
+          { xAxis: 2000, label: { formatter: 'L4\n2000h' } },
+          { xAxis: 5000, label: { formatter: 'L5\n5000h' } }
+        ]
+      }
+    }
+  ]
+});
+
+// 响应式
+window.addEventListener('resize', () => {
+  radarChart.resize();
+  flowChart.resize();
+  traditionChart.resize();
+  sequenceChart.resize();
+  doseChart.resize();
+});
+</script>
+</body>
+</html>

@@ -1,0 +1,510 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>每日1分钟状态追踪 | Peace Lab</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        :root {
+            --primary: #6366f1;
+            --primary-light: #818cf8;
+            --danger: #ef4444;
+            --warning: #f59e0b;
+            --success: #10b981;
+            --bg: #0f172a;
+            --card: #1e293b;
+            --text: #e2e8f0;
+            --text-dim: #94a3b8;
+            --border: #334155;
+        }
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', sans-serif;
+            background: var(--bg);
+            color: var(--text);
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .container { max-width: 720px; margin: 0 auto; }
+        h1 { font-size: 1.5rem; margin-bottom: 4px; text-align: center; }
+        .subtitle { text-align: center; color: var(--text-dim); font-size: 0.9rem; margin-bottom: 24px; }
+        .card {
+            background: var(--card);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 16px;
+            border: 1px solid var(--border);
+        }
+        .card-title { font-size: 1.1rem; font-weight: 600; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
+        .card-title .icon { font-size: 1.3rem; }
+        .question { margin-bottom: 20px; }
+        .question-label { display: block; margin-bottom: 10px; font-size: 0.95rem; }
+        .scale { display: flex; gap: 6px; align-items: stretch; }
+        .scale-btn {
+            flex: 1;
+            padding: 12px 4px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text);
+            border-radius: 10px;
+            cursor: pointer;
+            transition: all 0.2s;
+            font-size: 0.85rem;
+            text-align: center;
+        }
+        .scale-btn:hover { background: rgba(99,102,241,0.1); border-color: var(--primary); }
+        .scale-btn.selected { background: var(--primary); border-color: var(--primary); color: #fff; }
+        .scale-btn.selected.l1 { background: var(--success); border-color: var(--success); }
+        .scale-btn.selected.l2 { background: var(--success); border-color: var(--success); opacity: 0.8; }
+        .scale-btn.selected.l3 { background: var(--warning); border-color: var(--warning); }
+        .scale-btn.selected.l4 { background: var(--danger); border-color: var(--danger); opacity: 0.8; }
+        .scale-btn.selected.l5 { background: var(--danger); border-color: var(--danger); }
+        .scale-labels { display: flex; justify-content: space-between; font-size: 0.7rem; color: var(--text-dim); margin-top: 4px; }
+        .submit-btn {
+            width: 100%;
+            padding: 14px;
+            background: var(--primary);
+            color: #fff;
+            border: none;
+            border-radius: 12px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: opacity 0.2s;
+        }
+        .submit-btn:hover { opacity: 0.9; }
+        .submit-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+        #chart { width: 100%; height: 320px; }
+        .stats-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 12px;
+            margin-top: 12px;
+        }
+        .stat-item { text-align: center; padding: 12px; background: rgba(0,0,0,0.2); border-radius: 10px; }
+        .stat-value { font-size: 1.5rem; font-weight: 700; }
+        .stat-label { font-size: 0.75rem; color: var(--text-dim); margin-top: 2px; }
+        .stat-value.green { color: var(--success); }
+        .stat-value.yellow { color: var(--warning); }
+        .stat-value.red { color: var(--danger); }
+        .actions { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
+        .action-btn {
+            flex: 1;
+            min-width: 100px;
+            padding: 10px 14px;
+            border: 1px solid var(--border);
+            background: transparent;
+            color: var(--text);
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 0.85rem;
+            transition: all 0.2s;
+        }
+        .action-btn:hover { border-color: var(--primary); background: rgba(99,102,241,0.1); }
+        .action-btn.danger:hover { border-color: var(--danger); background: rgba(239,68,68,0.1); }
+        .alert {
+            padding: 12px 16px;
+            border-radius: 10px;
+            margin-bottom: 16px;
+            font-size: 0.9rem;
+            display: none;
+        }
+        .alert.show { display: block; }
+        .alert-info { background: rgba(99,102,241,0.15); border: 1px solid var(--primary); }
+        .alert-warn { background: rgba(245,158,11,0.15); border: 1px solid var(--warning); }
+        .alert-danger { background: rgba(239,68,68,0.15); border: 1px solid var(--danger); }
+        .hidden { display: none; }
+        .date-info { text-align: center; color: var(--text-dim); font-size: 0.85rem; margin-bottom: 8px; }
+        .today-done { text-align: center; padding: 32px; }
+        .today-done .icon { font-size: 3rem; margin-bottom: 12px; }
+        .today-done h2 { margin-bottom: 8px; }
+        .today-done p { color: var(--text-dim); margin-bottom: 16px; }
+        .table-container { overflow-x: auto; margin-top: 16px; }
+        table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+        th, td { padding: 8px 10px; text-align: center; border-bottom: 1px solid var(--border); }
+        th { color: var(--text-dim); font-weight: 500; }
+        td { color: var(--text); }
+        .score-cell { font-weight: 600; }
+        .footer { text-align: center; color: var(--text-dim); font-size: 0.75rem; margin-top: 24px; padding-bottom: 20px; }
+        .footer a { color: var(--primary-light); }
+        @media (max-width: 480px) {
+            .scale-btn { padding: 10px 2px; font-size: 0.75rem; }
+            .stats-grid { grid-template-columns: 1fr; }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🌿 每日1分钟状态追踪</h1>
+        <p class="subtitle">每天花1分钟，看见自己的心情轨迹</p>
+
+        <div id="todayAlert" class="alert"></div>
+
+        <div id="checkInSection" class="card">
+            <div class="card-title"><span class="icon">📝</span> 今日打卡</div>
+            <p class="date-info" id="todayDate"></p>
+            <div id="alreadyDone" class="today-done hidden">
+                <div class="icon">✅</div>
+                <h2>今日已打卡</h2>
+                <p>感谢你的坚持，明天再来！</p>
+                <button class="submit-btn" onclick="showEditForm()">重新记录今日</button>
+            </div>
+            <div id="checkInForm">
+                <div class="question">
+                    <label class="question-label">1️⃣ 今天，我感到孤独的程度？</label>
+                    <div class="scale" data-q="loneliness">
+                        <button class="scale-btn" data-val="1">1<br><small>完全不</small></button>
+                        <button class="scale-btn" data-val="2">2</button>
+                        <button class="scale-btn" data-val="3">3</button>
+                        <button class="scale-btn" data-val="4">4</button>
+                        <button class="scale-btn" data-val="5">5<br><small>非常</small></button>
+                    </div>
+                    <div class="scale-labels"><span>完全不</span><span>非常</span></div>
+                </div>
+                <div class="question">
+                    <label class="question-label">2️⃣ 今天，独处时我感到平静的程度？</label>
+                    <div class="scale" data-q="solitude">
+                        <button class="scale-btn" data-val="1">1<br><small>完全不</small></button>
+                        <button class="scale-btn" data-val="2">2</button>
+                        <button class="scale-btn" data-val="3">3</button>
+                        <button class="scale-btn" data-val="4">4</button>
+                        <button class="scale-btn" data-val="5">5<br><small>非常</small></button>
+                    </div>
+                    <div class="scale-labels"><span>完全不</span><span>非常</span></div>
+                </div>
+                <div class="question">
+                    <label class="question-label">3️⃣ 今天，我的整体情绪状态？</label>
+                    <div class="scale" data-q="mood">
+                        <button class="scale-btn" data-val="1">1<br><small>很低落</small></button>
+                        <button class="scale-btn" data-val="2">2</button>
+                        <button class="scale-btn" data-val="3">3</button>
+                        <button class="scale-btn" data-val="4">4</button>
+                        <button class="scale-btn" data-val="5">5<br><small>很好</small></button>
+                    </div>
+                    <div class="scale-labels"><span>很低落</span><span>很好</span></div>
+                </div>
+                <button class="submit-btn" onclick="submitCheckIn()">记录今日状态</button>
+            </div>
+        </div>
+
+        <div class="card">
+            <div class="card-title"><span class="icon">📊</span> 趋势图（最近30天）</div>
+            <div id="chart"></div>
+            <div class="stats-grid">
+                <div class="stat-item">
+                    <div class="stat-value" id="avgLoneliness">-</div>
+                    <div class="stat-label">平均孤独感</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="avgSolitude">-</div>
+                    <div class="stat-label">平均独处平静</div>
+                </div>
+                <div class="stat-item">
+                    <div class="stat-value" id="avgMood">-</div>
+                    <div class="stat-label">平均情绪</div>
+                </div>
+            </div>
+            <div class="actions">
+                <button class="action-btn" onclick="showDataTable()">查看详细数据</button>
+                <button class="action-btn" onclick="exportCSV()">导出CSV</button>
+                <button class="action-btn danger" onclick="clearAll()">清空数据</button>
+            </div>
+        </div>
+
+        <div id="dataTableCard" class="card hidden">
+            <div class="card-title"><span class="icon">📋</span> 详细记录</div>
+            <div class="table-container">
+                <table id="dataTable">
+                    <thead><tr><th>日期</th><th>孤独感</th><th>独处平静</th><th>情绪</th><th>操作</th></tr></thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="footer">
+        数据仅保存在您的浏览器本地，不会上传到任何服务器。<br>
+        <a href="https://github.com/peace-lab-global/peace-lab-database" target="_blank">Peace Lab Database</a>
+    </div>
+
+    <script>
+        const STORAGE_KEY = 'peace_lab_daily_checkin';
+        const CRISIS_THRESHOLD = 4.5;
+        let currentSelections = { loneliness: null, solitude: null, mood: null };
+
+        function init() {
+            document.getElementById('todayDate').textContent = formatDate(new Date());
+            setupScaleButtons();
+            checkTodayDone();
+            renderChart();
+            updateStats();
+        }
+
+        function formatDate(d) {
+            const days = ['日','一','二','三','四','五','六'];
+            return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')} 星期${days[d.getDay()]}`;
+        }
+
+        function setupScaleButtons() {
+            document.querySelectorAll('.scale').forEach(scale => {
+                const q = scale.dataset.q;
+                scale.querySelectorAll('.scale-btn').forEach(btn => {
+                    btn.addEventListener('click', () => {
+                        scale.querySelectorAll('.scale-btn').forEach(b => {
+                            b.classList.remove('selected','l1','l2','l3','l4','l5');
+                        });
+                        const val = parseInt(btn.dataset.val);
+                        btn.classList.add('selected', `l${val}`);
+                        currentSelections[q] = val;
+                    });
+                });
+            });
+        }
+
+        function getData() {
+            try { return JSON.parse(localStorage.getItem(STORAGE_KEY) || '[]'); }
+            catch { return []; }
+        }
+
+        function saveData(data) {
+            localStorage.setItem(STORAGE_KEY, JSON.stringify(data));
+        }
+
+        function getTodayStr() {
+            const d = new Date();
+            return `${d.getFullYear()}-${String(d.getMonth()+1).padStart(2,'0')}-${String(d.getDate()).padStart(2,'0')}`;
+        }
+
+        function checkTodayDone() {
+            const data = getData();
+            const today = getTodayStr();
+            const todayEntry = data.find(e => e.date === today);
+            if (todayEntry) {
+                document.getElementById('checkInForm').classList.add('hidden');
+                document.getElementById('alreadyDone').classList.remove('hidden');
+                // Restore values
+                ['loneliness','solitude','mood'].forEach(q => {
+                    const scale = document.querySelector(`.scale[data-q="${q}"]`);
+                    if (scale) {
+                        const btn = scale.querySelector(`[data-val="${todayEntry[q]}"]`);
+                        if (btn) {
+                            btn.classList.add('selected', `l${todayEntry[q]}`);
+                            currentSelections[q] = todayEntry[q];
+                        }
+                    }
+                });
+            }
+        }
+
+        function showEditForm() {
+            document.getElementById('alreadyDone').classList.add('hidden');
+            document.getElementById('checkInForm').classList.remove('hidden');
+        }
+
+        function submitCheckIn() {
+            if (!currentSelections.loneliness || !currentSelections.solitude || !currentSelections.mood) {
+                showAlert('请先回答全部3个问题', 'warn');
+                return;
+            }
+            const data = getData();
+            const today = getTodayStr();
+            const existing = data.findIndex(e => e.date === today);
+            const entry = { date: today, ...currentSelections };
+            if (existing >= 0) data[existing] = entry;
+            else data.push(entry);
+            data.sort((a,b) => a.date.localeCompare(b.date));
+            // Keep only last 90 days
+            while (data.length > 90) data.shift();
+            saveData(data);
+
+            const alertEl = document.getElementById('todayAlert');
+            let msg = '今日状态已记录，感谢你的坚持！';
+            let type = 'info';
+            if (currentSelections.loneliness >= 4) {
+                msg += ' 你的孤独感较高，如果持续如此，请考虑寻求支持。';
+                type = 'warn';
+            }
+            if (currentSelections.mood <= 2) {
+                msg += ' 你的情绪状态较低，请多关照自己。';
+                type = 'danger';
+            }
+            showAlert(msg, type);
+
+            document.getElementById('checkInForm').classList.add('hidden');
+            document.getElementById('alreadyDone').classList.remove('hidden');
+            renderChart();
+            updateStats();
+        }
+
+        function showAlert(msg, type) {
+            const el = document.getElementById('todayAlert');
+            el.textContent = msg;
+            el.className = `alert alert-${type} show`;
+            setTimeout(() => el.classList.remove('show'), 8000);
+        }
+
+        function renderChart() {
+            const data = getData();
+            const chartDom = document.getElementById('chart');
+            const chart = echarts.init(chartDom);
+
+            if (data.length === 0) {
+                chart.setOption({
+                    title: { text: '暂无数据，开始每日打卡吧！', left: 'center', top: 'center', textStyle: { color: '#94a3b8' } }
+                });
+                return;
+            }
+
+            const dates = data.map(d => d.date.slice(5));
+            const loneliness = data.map(d => d.loneliness);
+            const solitude = data.map(d => d.solitude);
+            const mood = data.map(d => d.mood);
+
+            chart.setOption({
+                backgroundColor: 'transparent',
+                tooltip: {
+                    trigger: 'axis',
+                    backgroundColor: '#1e293b',
+                    borderColor: '#334155',
+                    textStyle: { color: '#e2e8f0' }
+                },
+                legend: {
+                    data: ['孤独感', '独处平静', '情绪'],
+                    textStyle: { color: '#e2e8f0' },
+                    bottom: 0
+                },
+                grid: { left: '3%', right: '4%', bottom: '15%', top: '8%', containLabel: true },
+                xAxis: {
+                    type: 'category',
+                    data: dates,
+                    axisLine: { lineStyle: { color: '#334155' } },
+                    axisLabel: { color: '#94a3b8', fontSize: 10 },
+                    axisTick: { show: false }
+                },
+                yAxis: {
+                    type: 'value',
+                    min: 1, max: 5,
+                    splitLine: { lineStyle: { color: '#334155', type: 'dashed' } },
+                    axisLine: { lineStyle: { color: '#334155' } },
+                    axisLabel: { color: '#94a3b8' }
+                },
+                series: [
+                    {
+                        name: '孤独感', type: 'line', data: loneliness,
+                        smooth: true, symbol: 'circle', symbolSize: 6,
+                        lineStyle: { color: '#ef4444', width: 2 },
+                        itemStyle: { color: '#ef4444' },
+                        areaStyle: { color: 'rgba(239,68,68,0.08)' },
+                        markLine: {
+                            silent: true, symbol: 'none',
+                            lineStyle: { color: '#ef4444', type: 'dashed', opacity: 0.5 },
+                            data: [{ yAxis: 4 }]
+                        }
+                    },
+                    {
+                        name: '独处平静', type: 'line', data: solitude,
+                        smooth: true, symbol: 'circle', symbolSize: 6,
+                        lineStyle: { color: '#10b981', width: 2 },
+                        itemStyle: { color: '#10b981' },
+                        areaStyle: { color: 'rgba(16,185,129,0.08)' }
+                    },
+                    {
+                        name: '情绪', type: 'line', data: mood,
+                        smooth: true, symbol: 'circle', symbolSize: 6,
+                        lineStyle: { color: '#6366f1', width: 2 },
+                        itemStyle: { color: '#6366f1' },
+                        areaStyle: { color: 'rgba(99,102,241,0.08)' }
+                    }
+                ],
+                dataZoom: [{
+                    type: 'inside',
+                    start: Math.max(0, 100 - (data.length / 30 * 100)),
+                    end: 100
+                }]
+            });
+        }
+
+        function updateStats() {
+            const data = getData();
+            if (data.length === 0) return;
+            const avg = (arr) => (arr.reduce((a,b) => a+b, 0) / arr.length).toFixed(1);
+            const loneliness = data.map(d => d.loneliness);
+            const solitude = data.map(d => d.solitude);
+            const mood = data.map(d => d.mood);
+
+            const setStat = (id, val) => {
+                const el = document.getElementById(id);
+                el.textContent = val;
+                el.className = 'stat-value ' + (val < 2.5 ? 'green' : val < 3.5 ? 'yellow' : 'red');
+            };
+            setStat('avgLoneliness', avg(loneliness));
+            // For solitude and mood, higher is better
+            const setStatPos = (id, val) => {
+                const el = document.getElementById(id);
+                el.textContent = val;
+                el.className = 'stat-value ' + (val > 3.5 ? 'green' : val > 2.5 ? 'yellow' : 'red');
+            };
+            setStatPos('avgSolitude', avg(solitude));
+            setStatPos('avgMood', avg(mood));
+
+            // Crisis warning
+            if (avg(loneliness) >= CRISIS_THRESHOLD) {
+                showAlert('⚠️ 你近30天的平均孤独感较高。如果持续如此，建议寻求专业支持。全国心理援助热线：400-161-9995', 'danger');
+            }
+        }
+
+        function showDataTable() {
+            const card = document.getElementById('dataTableCard');
+            card.classList.toggle('hidden');
+            const tbody = document.querySelector('#dataTable tbody');
+            const data = getData();
+            tbody.innerHTML = data.slice().reverse().map(e => {
+                const cls = v => v >= 4 ? 'score-cell red' : v <= 2 ? 'score-cell green' : 'score-cell yellow';
+                return `<tr>
+                    <td>${e.date}</td>
+                    <td class="${cls(e.loneliness)}">${e.loneliness}</td>
+                    <td class="${e.solitude >= 4 ? 'score-cell green' : e.solitude <= 2 ? 'score-cell red' : 'score-cell yellow'}">${e.solitude}</td>
+                    <td class="${e.mood >= 4 ? 'score-cell green' : e.mood <= 2 ? 'score-cell red' : 'score-cell yellow'}">${e.mood}</td>
+                    <td><button class="action-btn" style="padding:4px 8px;font-size:0.75rem;" onclick="deleteEntry('${e.date}')">删除</button></td>
+                </tr>`;
+            }).join('');
+        }
+
+        function deleteEntry(date) {
+            if (!confirm(`确定删除 ${date} 的记录？`)) return;
+            let data = getData();
+            data = data.filter(e => e.date !== date);
+            saveData(data);
+            showDataTable();
+            renderChart();
+            updateStats();
+        }
+
+        function exportCSV() {
+            const data = getData();
+            if (data.length === 0) { alert('暂无数据'); return; }
+            const csv = '日期,孤独感(1-5),独处平静(1-5),情绪(1-5)\n' +
+                data.map(e => `${e.date},${e.loneliness},${e.solitude},${e.mood}`).join('\n');
+            const blob = new Blob(['\uFEFF' + csv], { type: 'text/csv;charset=utf-8;' });
+            const link = document.createElement('a');
+            link.href = URL.createObjectURL(blob);
+            link.download = `peace_lab_daily_checkin_${getTodayStr()}.csv`;
+            link.click();
+        }
+
+        function clearAll() {
+            if (!confirm('确定清空所有记录？此操作不可恢复。')) return;
+            localStorage.removeItem(STORAGE_KEY);
+            location.reload();
+        }
+
+        window.addEventListener('resize', () => {
+            const chart = echarts.getInstanceByDom(document.getElementById('chart'));
+            if (chart) chart.resize();
+        });
+
+        init();
+    </script>
+</body>
+</html>

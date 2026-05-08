@@ -1,0 +1,25 @@
+# sufism-meditation | 苏菲冥想/神秘主义 Index
+
+> **最后更新**：2026-05
+> **文件数**：2
+
+---
+
+## 内容索引 | Contents
+
+- [Sufism Meditation Overview | 苏菲冥想/神秘主义专业概述](Sufism_Meditation_Overview.md)
+  - 历史脉络（伊斯兰神秘主义起源 → 早期苏菲大师 → Al-Ghazali → Rumi → Ibn Arabi → 各教团 Tariqa）
+  - 核心理论（Tawhid、Fana/Baqa、Nafs 自我层级、心镜理论）
+  - 主要修习技术（Dhikr、Sama/Whirling、Muraqaba、Breath Control with Divine Names、Rabita）
+  - 苏菲诗歌与智慧
+  - 与现代心理学的交汇
+  - 实践指引与注意事项
+
+## 相关模块 | Related Modules
+
+- [冥想概览](../overview/INDEX.md)
+- [冥想类型分类](../overview/Meditation_Types_Classification.md)
+- [止观禅定](../samatha-vipassana/INDEX.md)
+- [曼陀罗冥想](../mandala-meditation/INDEX.md)
+- [呼吸与调息](../pranayama-breath/diaphragmatic-breathing-masterclass.md)
+- [正念行走](../walking-meditation/INDEX.md)
