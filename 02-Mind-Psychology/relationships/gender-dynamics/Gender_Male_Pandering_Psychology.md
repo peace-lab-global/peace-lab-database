@@ -219,4 +219,4 @@
 
 *Created by Peace Lab Database Project*
 
-*返回上级 [性别关系动态分析](INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [性别关系动态分析](INDEX.md) | 返回根目录 [README.md](./)*

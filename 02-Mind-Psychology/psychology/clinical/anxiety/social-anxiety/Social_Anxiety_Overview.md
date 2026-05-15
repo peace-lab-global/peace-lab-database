@@ -172,8 +172,8 @@
 | 焦虑症治疗 | [Anxiety_Disorder_Treatment](../Anxiety_Disorder_Treatment.md) | 跨诊断治疗原则 |
 | 恐惧症专题 | [Phobia](../../phobia/) | 社交恐惧的历史分类 |
 | 约会心理学 | [Dating](../../../../relationships/dating/) | 约会焦虑与社交焦虑 |
-| 职场表达 | [Communication](../../../../05-Praxis-Growth/communication/) | 公开演讲焦虑 |
-| CBT治疗 | [CBT](../../../therapy/cognitive-behavioral-therapy/) | Clark & Wells方案 |
+| 职场表达 | [Communication](../../../../../05-Praxis-Growth/communication/) | 公开演讲焦虑 |
+| CBT治疗 | [CBT](../../../../therapy/cognitive-behavioral-therapy/) | Clark & Wells方案 |
 
 ---
 

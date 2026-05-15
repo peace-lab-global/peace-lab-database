@@ -66,4 +66,4 @@
 - [自信心理学](../../psychology/self-regulation/self-confidence/Self_Confidence_Overview.md)
 
 ---
-*返回上级 [Relationships](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Relationships](../INDEX.md) | 返回根目录 [README.md](./)*

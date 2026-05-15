@@ -37,11 +37,11 @@
 - [Loneliness-Solitude Joint Dashboard](visualization/Loneliness_Solitude_Joint_Dashboard.html) - 孤独×独处联合仪表盘（视角切换+联合洞察） **[NEW]**
 - [Loneliness-Solitude Assessment](visualization/Loneliness_Solitude_Assessment.html) - 联合评估工具（交互式问卷+自动报告） **[NEW]**
 - [Cross Reference Network](visualization/Cross_Reference_Network.html) - 双专题交叉引用网络图（可交互知识图谱） **[NEW]**
-- [Daily Check-In](visualization/Daily_Check_In.html) - 每日1分钟状态追踪器（交互式/本地存储/趋势图） **[NEW]**
-- [Loneliness-Solitude Intervention Protocol](../loneliness/visualization/Loneliness_Solitude_Intervention_Protocol.md) - 联合干预12周实操方案（建立/连接/深化/整合四阶段） **[NEW]**
-- [Loneliness-Solitude Case Vignettes](../loneliness/visualization/Loneliness_Solitude_Case_Vignettes.md) - 10个临床案例vignette库 **[NEW]**
-- [Academic Presentation Template](../loneliness/visualization/Academic_Presentation_Template.md) - 学术汇报PPT模板 **[NEW]**
-- [Peace Lab Cross-Module Connections](../loneliness/visualization/Peace_Lab_Cross_Module_Connections.md) - 跨模块连接文档 **[NEW]**
+- [Daily Check-In](../visualization/Daily_Check_In.html) - 每日1分钟状态追踪器（交互式/本地存储/趋势图） **[NEW]**
+- [Loneliness-Solitude Intervention Protocol](../visualization/Loneliness_Solitude_Intervention_Protocol.md) - 联合干预12周实操方案（建立/连接/深化/整合四阶段） **[NEW]**
+- [Loneliness-Solitude Case Vignettes](../visualization/Loneliness_Solitude_Case_Vignettes.md) - 10个临床案例vignette库 **[NEW]**
+- [Academic Presentation Template](../visualization/Academic_Presentation_Template.md) - 学术汇报PPT模板 **[NEW]**
+- [Peace Lab Cross-Module Connections](../visualization/Peace_Lab_Cross_Module_Connections.md) - 跨模块连接文档 **[NEW]**
 - [Loneliness Personality & Attachment](../loneliness/Loneliness_Personality_Attachment.md) - 人格、依恋与孤独 **[NEW]**
 - [Loneliness Cognitive Mechanisms](../loneliness/Loneliness_Cognitive_Mechanisms.md) - 孤独的认知机制 **[NEW]**
 - [Loneliness Educational Settings](../loneliness/Loneliness_Educational_Settings.md) - 教育情境中的孤独 **[NEW]**

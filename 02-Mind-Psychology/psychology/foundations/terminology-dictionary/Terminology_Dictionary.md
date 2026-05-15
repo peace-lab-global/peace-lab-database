@@ -250,20 +250,20 @@
 ### 佛教核心术语
 | 中文术语 | 英文标准术语 | 梵文/巴利文 | 定义 | 使用场景 | 相关文档 |
 |---------|-------------|-------------|------|----------|----------|
-| 佛陀 | Buddha | बुद्ध | 觉悟者，彻底觉醒的人 | 佛教哲学 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 法/达摩 | Dharma | धर्म | 佛陀所说的教法、宇宙真理 | 佛教基础 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 僧伽 | Sangha | संघ | 修行者团体 | 三宝概念 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 三宝 | Three Jewels | त्रिरत्न | 佛、法、僧三者 | 佛教皈依 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 涅槃 | Nirvana | निर्वाण | 烦恼止息、轮回解脱的终极状态 | 佛教终极目标 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 轮回 | Samsara | संसार | 生死流转、六道往复的循环 | 佛教世界观 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 业/羯磨 | Karma | कर्म | 行为及其果报，因果法则 | 佛教伦理 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 缘起 | Dependent Origination | प्रतीत्यसमुत्पाद | 一切法因缘和合而生 | 佛教哲学核心 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 空性 | Emptiness | शून्यता | 一切法无固有自性 | 大乘佛教核心 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 无常 | Impermanence | अनित्य | 一切有为法迁流变化 | 三法印之一 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 苦 | Suffering/Unsatisfactoriness | दुःख | 不圆满、不如意的状态 | 四圣谛第一谛 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 无我 | Non-Self | अनात्मन् | 没有恒常不变的自我实体 | 三法印之一 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 菩提 | Awakening/Enlightenment | बोधि | 觉悟、智慧 | 佛教修行目标 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
-| 菩萨 | Bodhisattva | बोधिसत्त्व | 觉有情，发愿成佛利益众生者 | 大乘理想人格 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md) |
+| 佛陀 | Buddha | बुद्ध | 觉悟者，彻底觉醒的人 | 佛教哲学 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 法/达摩 | Dharma | धर्म | 佛陀所说的教法、宇宙真理 | 佛教基础 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 僧伽 | Sangha | संघ | 修行者团体 | 三宝概念 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 三宝 | Three Jewels | त्रिरत्न | 佛、法、僧三者 | 佛教皈依 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 涅槃 | Nirvana | निर्वाण | 烦恼止息、轮回解脱的终极状态 | 佛教终极目标 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 轮回 | Samsara | संसार | 生死流转、六道往复的循环 | 佛教世界观 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 业/羯磨 | Karma | कर्म | 行为及其果报，因果法则 | 佛教伦理 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 缘起 | Dependent Origination | प्रतीत्यसमुत्पाद | 一切法因缘和合而生 | 佛教哲学核心 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 空性 | Emptiness | शून्यता | 一切法无固有自性 | 大乘佛教核心 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 无常 | Impermanence | अनित्य | 一切有为法迁流变化 | 三法印之一 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 苦 | Suffering/Unsatisfactoriness | दुःख | 不圆满、不如意的状态 | 四圣谛第一谛 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 无我 | Non-Self | अनात्मन् | 没有恒常不变的自我实体 | 三法印之一 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 菩提 | Awakening/Enlightenment | बोधि | 觉悟、智慧 | 佛教修行目标 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
+| 菩萨 | Bodhisattva | बोधिसत्त्व | 觉有情，发愿成佛利益众生者 | 大乘理想人格 | [佛教核心](../../../../01-Wisdom-Traditions/religions/buddhism/) |
 
 ### 道家核心术语
 | 中文术语 | 英文标准术语 | 定义 | 使用场景 | 相关文档 |
@@ -318,7 +318,7 @@
 | 正念减压 | Mindfulness-Based Stress Reduction (MBSR) | Kabat-Zinn创立的8周正念训练程序 | 压力管理 | [MBSR](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
 | 正念认知疗法 | Mindfulness-Based Cognitive Therapy (MBCT) | 整合MBSR与CBT的抑郁预防疗法 | 抑郁复发预防 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 内观 | Vipassana | 通过观察身心现象获得洞察的冥想方法 | 创伤治疗、自我觉察 | [内观禅修](../../../meditation/vipassana/Vipassana_Meditation.md) |
-| 慈心禅 | Loving-Kindness Meditation | 培养慈悲心的冥想练习 | 人际关系、自我慈悲 | [四无量心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) |
+| 慈心禅 | Loving-Kindness Meditation | 培养慈悲心的冥想练习 | 人际关系、自我慈悲 | [四无量心](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) |
 | 身体扫描 | Body Scan | 系统性觉察身体各个部位的冥想技术 | 躯体治疗、放松 | [MBSR](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
 | 呼吸觉察 | Breath Awareness | 专注观察呼吸的冥想基础技术 | 入门练习、焦虑管理 | [冥想技术](../../../meditation/overview/Meditation_Core.md) |
 

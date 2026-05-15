@@ -25,4 +25,4 @@
 - [数字干预与自助资源 (Digital & Self-Help)](Anxiety_Digital_Self_Help.md) — iCBT、VR 暴露、可穿戴设备、自助书籍
 
 ---
-*返回上级 [Clinical Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Clinical Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

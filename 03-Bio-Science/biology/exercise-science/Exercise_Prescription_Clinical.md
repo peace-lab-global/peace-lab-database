@@ -111,7 +111,7 @@
 | **类风湿性关节炎** (RA) | 低冲击有氧 + 低负荷抗阻 | 低-中等 | 活动期调整、关注关节肿胀 |
 | **通用原则** | "Start low, go slow" | 渐进 | 疼痛后 2h 内可接受 |
 
-> **交叉引用**: 太极拳循证参见 → [01-Wisdom-Traditions/tai-chi/](../../../../01-Wisdom-Traditions/tai-chi/)
+> **交叉引用**: 太极拳循证参见 → [01-Wisdom-Traditions/tai-chi/](../../../01-Wisdom-Traditions/tai-chi/)
 
 ---
 

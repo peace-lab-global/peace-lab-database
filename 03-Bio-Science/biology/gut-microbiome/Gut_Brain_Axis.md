@@ -147,8 +147,8 @@
 |------|------|
 | 微生物组总览 | [总览](Gut_Microbiome_Overview.md) |
 | 肠道与心理健康 | [心理健康](Gut_Mental_Health.md) |
-| HPA轴 | [HPA轴](../../hpa-axis/) |
-| 脑科学 | [脑科学](../../brain/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
+| 脑科学 | [脑科学](../../../02-Mind-Psychology/psychology/foundations/brain/) |
 | 冥想与压力 | [冥想](../../../02-Mind-Psychology/meditation/) |
 
 ---

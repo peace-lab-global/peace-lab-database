@@ -207,4 +207,4 @@ A - Avoid (避免)：避免主动拉伸、强力按摩
 
 ---
 
-*返回上级 [Biology INDEX](../INDEX.md) | 返回支柱 [03-Bio-Science INDEX](../../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Biology INDEX](../../../02-Mind-Psychology/psychology/self-regulation/grounding-techniques/INDEX.md) | 返回支柱 [03-Bio-Science INDEX](../../INDEX.md) | 返回根目录 [README.md](./)*

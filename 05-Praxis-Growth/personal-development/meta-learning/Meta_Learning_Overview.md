@@ -203,4 +203,4 @@ Robert Bjork 发现: **短期困难 → 长期收益**
 
 ---
 
-*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](./)*

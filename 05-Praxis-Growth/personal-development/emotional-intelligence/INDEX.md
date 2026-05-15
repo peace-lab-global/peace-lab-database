@@ -22,7 +22,7 @@
 | DBT | [02-Mind-Psychology/therapy/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/) | 系统情绪调节技能 |
 | 谈判技能 | [05-Praxis-Growth/communication/negotiation/](../../communication/negotiation/) | 谈判中的情绪管理 |
 | 社交资本 | [05-Praxis-Growth/personal-development/social-capital/](../social-capital/) | 社交中的情商 |
-| 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../../03-Bio-Science/biology/breathwork/) | 情绪调节工具 |
+| 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../03-Bio-Science/biology/breathwork/) | 情绪调节工具 |
 
 ---
 

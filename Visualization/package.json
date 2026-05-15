@@ -3,8 +3,8 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "storybook": "storybook dev -p 6006 -s .",
-    "build-storybook": "storybook build -s .",
+    "storybook": "storybook dev -p 6006",
+    "build-storybook": "storybook build",
     "test:cypress": "cypress run",
     "test:cypress:open": "cypress open"
   },

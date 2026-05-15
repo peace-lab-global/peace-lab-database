@@ -196,7 +196,7 @@
 | 心血管总览 | [总览](Cardiovascular_Health_Overview.md) |
 | HRV | [HRV](Heart_Rate_Variability.md) |
 | 运动营养 | [运动营养](Cardiovascular_Exercise_Nutrition.md) |
-| HPA轴 | [HPA轴](../../hpa-axis/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
 | CBT | [CBT](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) |
 | 压力心理学 | [压力](../../../02-Mind-Psychology/psychology/stress-hpa/) |
 

@@ -221,11 +221,11 @@
 |---------|---------|------|--------|
 | 抑郁症概览 | 02-心理 | [Depression Overview](Depression_Overview.md) | 诊断与基础治疗 |
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 药物相互作用 |
-| 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md) | 菌群-抑郁机制 |
-| 肠脑轴与心理健康 | 03-生命 | [Gut Mental Health](../../../03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md) | 肠脑轴临床应用 |
-| 心理神经免疫学 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症假说 |
-| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动-营养协同 |
+| 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../../03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md) | 菌群-抑郁机制 |
+| 肠脑轴与心理健康 | 03-生命 | [Gut Mental Health](../../../../03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md) | 肠脑轴临床应用 |
+| 心理神经免疫学 | 03-生命 | [PNI](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症假说 |
+| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动-营养协同 |
 | 难治性抑郁 | 02-心理 | [TRD](Depression_Treatment_Resistant.md) | 营养作为TRD辅助 |
 | 产后抑郁 | 02-心理 | [Peripartum](peripartum-depression/Peripartum_Depression.md) | 围产期营养 |
 | 老年抑郁 | 02-心理 | [Geriatric](geriatric-depression/Geriatric_Depression.md) | 老年营养吸收 |
-| 慢性压力 | 02-心理 | [Chronic Stress](../stress-hpa/chronic-stress/) | HPA轴与营养 |
+| 慢性压力 | 02-心理 | [Chronic Stress](../../stress-hpa/chronic-stress/) | HPA轴与营养 |

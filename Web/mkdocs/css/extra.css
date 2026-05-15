@@ -1,0 +1,32 @@
+:root {
+  --peace-teal: #0d9488;
+}
+
+.md-header {
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+}
+
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid.cards > ol > li {
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 8px;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.md-typeset .grid.cards > ul > li:hover,
+.md-typeset .grid.cards > ol > li:hover {
+  border-color: var(--peace-teal);
+  box-shadow: 0 2px 8px rgba(13, 148, 136, 0.08);
+}
+
+.md-typeset table:not([class]) {
+  box-shadow: none;
+  border: 1px solid var(--md-default-fg-color--lightest);
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+.md-typeset table:not([class]) th {
+  background: var(--md-default-fg-color--lightest);
+  font-weight: 600;
+}

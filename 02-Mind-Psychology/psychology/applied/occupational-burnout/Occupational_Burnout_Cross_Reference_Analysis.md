@@ -136,7 +136,7 @@
 |---|---|---|
 | 冥想概览 | [meditation/overview/](../../../meditation/overview/) | 冥想类型与流派 |
 | MBSR课程 | [mbsr-program/](../../../meditation/mbsr-program/) | 标准化正念减压课程 |
-| 四无量心 | [Buddhism_Four_Immeasurables.md](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 同情疲劳的佛教转化路径 |
+| 四无量心 | [Buddhism_Four_Immeasurables.md](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 同情疲劳的佛教转化路径 |
 | 太极心理调节 | [Tai_Chi_Psychological_Adjustment_Mechanism.md](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对压力的调节 |
 | 禅宗日常修行 | [zen/](../../../../01-Wisdom-Traditions/religions/zen/) | 工作即修行的禅宗视角 |
 | 森林疗法 | [forest-therapy/](../../../therapy/forest-therapy/) | 自然暴露疗法 |
@@ -240,4 +240,4 @@
 | occupational-burnout/ | biology/brain/ | 脑科学基础 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

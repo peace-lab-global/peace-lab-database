@@ -34,4 +34,4 @@
 15. [恢复身心能量](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

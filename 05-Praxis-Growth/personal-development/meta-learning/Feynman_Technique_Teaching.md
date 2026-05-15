@@ -178,9 +178,9 @@
 | 元学习总览 | [Overview](Meta_Learning_Overview.md) | 学习策略 |
 | 间隔重复 | [Spaced Repetition](Spaced_Repetition_Retrieval.md) | 记忆巩固 |
 | 写作 | [Writing](../../writing/) | 写作与学习 |
-| 结构化表达 | [Structured Expression](../../../communication/structured-expression/) | 清晰表达 |
+| 结构化表达 | [Structured Expression](../../communication/structured-expression/) | 清晰表达 |
 | 冥想 | [Meditation](../../../02-Mind-Psychology/meditation/) | 元认知能力 |
 
 ---
 
-*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](./)*

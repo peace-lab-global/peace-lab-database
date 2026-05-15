@@ -115,7 +115,7 @@ NF-κB 信号通路:
   行为因素: 久坐↑ 不良饮食↑ 睡眠↓ → 炎症加重
 ```
 
-> **交叉引用**: 抑郁症知识参见 → [02-Mind-Psychology/psychology/clinical/depression/](../../../../02-Mind-Psychology/psychology/clinical/depression/)
+> **交叉引用**: 抑郁症知识参见 → [02-Mind-Psychology/psychology/clinical/depression/](../../../02-Mind-Psychology/meditation/clinical-conditions/depression/)
 
 ---
 

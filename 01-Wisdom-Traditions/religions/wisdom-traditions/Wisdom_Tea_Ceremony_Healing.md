@@ -158,7 +158,7 @@
 |---------|------|--------|
 | 书道传统 | [Wisdom_East_Asian_Calligraphy_Way](Wisdom_East_Asian_Calligraphy_Way.md) | 东亚道艺一体 |
 | 禅宗 | [01-Wisdom-Traditions/religions/zen/](../zen/) | 茶禅一味 |
-| 正念冥想 | [02-Mind-Psychology/meditation/](../../02-Mind-Psychology/meditation/) | 正念茶修行 |
-| 感官疗法 | [02-Mind-Psychology/therapy/sensory/](../../02-Mind-Psychology/therapy/sensory/) | 多感官体验 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../02-Mind-Psychology/therapy/forest-therapy/) | 自然连接 |
+| 正念冥想 | [02-Mind-Psychology/meditation/](../buddhism/meditation/) | 正念茶修行 |
+| 感官疗法 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 多感官体验 |
+| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 自然连接 |
 | 侘寂美学 | [01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture](../zen/Zen_Aesthetics_Culture.md) | 不完美之美 |

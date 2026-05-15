@@ -9,4 +9,4 @@
 - [更年期心理 (Menopause)](menopause/)
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -58,4 +58,4 @@ graph TB
 - [压力韧性路径](../learning-paths/Stress_Resilience_Path.md)
 
 ---
-*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

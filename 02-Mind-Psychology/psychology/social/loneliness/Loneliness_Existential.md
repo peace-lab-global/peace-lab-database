@@ -227,7 +227,7 @@
 ## 关联文档
 
 - [Loneliness_Overview](Loneliness_Overview.md) — 孤独的一般类型学
-- [Solitude_Philosophy](../../solitude/Solitude_Philosophy.md) — 东西方独处哲学传统
+- [Solitude_Philosophy](../solitude/Solitude_Philosophy.md) — 东西方独处哲学传统
 - `03-Bio-Science/death/Death_Existential_Psychology.md` — 死亡与存在心理学
 - `02-Mind-Psychology/therapy/act-therapy/` — 接纳承诺疗法（处理存在性议题）
 - `01-Wisdom-Traditions/religions/zen/` — 禅宗与存在的觉醒

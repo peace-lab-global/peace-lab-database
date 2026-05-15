@@ -558,7 +558,7 @@ graph TD
 - [冥想危机干预方案](../safety/Meditation_Crisis_Protocol.md)
 - [冥想与睡眠](Meditation_And_Sleep.md)
 - [危机与哀伤冥想指南](../crisis-meditation/Crisis_Meditation_Guide.md)
-- [止观禅定理论基础](../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
+- [止观禅定理论基础](../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
 - [内观禅修实践指南](Vipassana_Practice_Guide.md)
 
 ---

@@ -69,4 +69,4 @@
 - → [情绪专题索引](emotions/INDEX.md)
 
 ---
-*返回上级 [02-Mind-Psychology](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回上级 [02-Mind-Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

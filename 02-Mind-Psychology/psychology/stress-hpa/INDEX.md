@@ -22,4 +22,4 @@
   - [放松技术指导](skills/Relaxation_Techniques_Guide_Skill.md)
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

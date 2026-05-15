@@ -219,7 +219,7 @@
 - [杰克·康菲尔德](Jack_Kornfield.md) — 同代西方冥想运动领袖
 - [约瑟夫·戈德斯坦](Joseph_Goldstein.md) — 同代西方冥想运动领袖
 - [托马斯·许布尔](../contemporary-spiritual/Thomas_Hubl.md) — 同样关注死亡和苦难转化的当代导师
-- [死亡专题](../../../03-Bio-Science/death/) — 相关专题内容
+- [死亡专题](../../../../03-Bio-Science/death/) — 相关专题内容
 
 ---
 

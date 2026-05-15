@@ -12,4 +12,4 @@
 - [案例分析与临床实例 (Case Analysis)](Family_Constellation_Case_Analysis.md) **[NEW]** - 代际创伤、伴侣纠葛、堕胎议题、组织排列
 
 ---
-*返回上级 [特殊专题](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回上级 [特殊专题](../INDEX.md) | 返回根目录 [README.md](./)*

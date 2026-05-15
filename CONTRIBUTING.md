@@ -32,10 +32,10 @@ INDEX.md 标准模板：
 
 ## 内容索引 | Contents
 
-- [文档标题 (English)](文件名.md)
+- 文档标题 (English)
 
 ---
-*返回上级 [Parent](01-Wisdom-Traditions/INDEX.md) | 返回根目录 [README.md](路径/README.md)*
+*返回上级 [Parent](01-Wisdom-Traditions/INDEX.md) | 返回根目录 [README.md](04-Humanities-Arts/media/music/musician/playlists/)*
 ```
 
 ---
@@ -108,4 +108,4 @@ status: complete
 5. 不在未更新 INDEX 的情况下新增文档
 
 ---
-*返回根目录 [README.md](README.md)*
+*返回根目录 [README.md]()*

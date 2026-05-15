@@ -15,4 +15,4 @@
 - [反拖延症 (Anti-Procrastination)](anti-procrastination/) — 拖延心理机制、行为激活、时间管理、动机激发
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -210,10 +210,10 @@
 | 焦虑症概览 | [Anxiety_Disorder_Overview](../Anxiety_Disorder_Overview.md) | 上位诊断分类 |
 | 焦虑症治疗 | [Anxiety_Disorder_Treatment](../Anxiety_Disorder_Treatment.md) | 跨诊断治疗原则 |
 | GAD专题 | [GAD Overview](../gad/GAD_Overview.md) | 常见共病；鉴别诊断 |
-| HPA轴与应激 | [HPA Axis](../../../../03-Bio-Science/biology/hpa-axis/) | 惊恐的神经内分泌机制 |
-| 呼吸训练 | [Breathwork](../../../../03-Bio-Science/biology/breathwork/) | 过度换气管理 |
-| CBT治疗 | [CBT](../../../therapy/cognitive-behavioral-therapy/) | 惊恐控制疗法基础 |
-| 正念疗法 | [Meditation](../../../meditation/) | 辅助干预 |
+| HPA轴与应激 | [HPA Axis](../../../../../03-Bio-Science/biology/hpa-axis/) | 惊恐的神经内分泌机制 |
+| 呼吸训练 | [Breathwork](../../../../../03-Bio-Science/biology/breathwork/) | 过度换气管理 |
+| CBT治疗 | [CBT](../../../../therapy/cognitive-behavioral-therapy/) | 惊恐控制疗法基础 |
+| 正念疗法 | [Meditation](../../../../../01-Wisdom-Traditions/religions/buddhism/meditation/) | 辅助干预 |
 
 ---
 

@@ -38,4 +38,4 @@
 | 阅读 | [Reading](../../../04-Humanities-Arts/reading/) | 阅读实践 |
 
 ---
-*返回 [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [05-Praxis INDEX](../../INDEX.md) | [README](./)*

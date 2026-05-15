@@ -67,13 +67,13 @@
 - [太极拳与气功整合 (Qigong Integration)](tai-chi/Tai_Chi_Qigong_Integration.md) — 气功体系、八段锦、五禽戏
 
 ### 4. ☸️ 佛教智慧体系 (Buddhist Wisdom System)
-- [佛教核心概论 (Core Overview)](religions/buddhism/Buddhism_Core_Overview.md)
-- [四圣谛与四无量心 (Four Truths & Immeasurables)](religions/buddhism/Buddhism_Four_Noble_Truths.md)
-- [止观双运 (Samatha & Vipassana)](religions/buddhism/Buddhism_Samatha_Vipassana.md)
-- [中观、唯识与华严 (Madhyamaka, Yogacara, Huayan)](religions/buddhism/Buddhism_Madhyamaka_Philosophy.md)
-- [天台止观与净土实修 (Tiantai & Pure Land)](religions/buddhism/Buddhism_Tiantai_Zhiguan.md)
-- [南传阿毗达摩 (Theravada Abhidhamma)](religions/buddhism/Buddhism_Theravada_Abhidhamma.md)
-- [金刚乘基础 (Vajrayana Foundation)](religions/buddhism/Buddhism_Vajrayana_Foundation.md)
+- [佛教核心概论 (Core Overview)](religions/buddhism/foundations/Buddhism_Core_Overview.md)
+- [四圣谛与四无量心 (Four Truths & Immeasurables)](religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md)
+- [止观双运 (Samatha & Vipassana)](religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
+- [中观、唯识与华严 (Madhyamaka, Yogacara, Huayan)](religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md)
+- [天台止观与净土实修 (Tiantai & Pure Land)](religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md)
+- [南传阿毗达摩 (Theravada Abhidhamma)](religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md)
+- [金刚乘基础 (Vajrayana Foundation)](religions/buddhism/vajrayana/Buddhism_Vajrayana_Foundation.md)
 - [大圆满与大手印 (Dzogchen & Mahamudra)](religions/buddhism/dzogchen/)
 - [佛教心理学与疗愈 (Buddhist Psychology & Healing)](religions/buddhism/psychology/)
 - **佛教仪轨专题 (Buddhist Rituals)** — [完整索引](religions/buddhism/rituals/INDEX.md)
@@ -125,4 +125,4 @@
 | **05-实践增长** | 正念·心力·职业 | 冥想体系↔正念生活、太极↔心流、法家↔职场管理 |
 
 ---
-*返回根目录 [README.md](../README.md)*
+*返回根目录 [README.md](./)*

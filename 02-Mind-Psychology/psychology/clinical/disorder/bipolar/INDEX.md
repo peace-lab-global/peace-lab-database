@@ -57,12 +57,12 @@
 ### 共病与交叉
 - [睡眠共病](../../depression/Depression_Sleep_Comorbidity.md) — 节律管理
 - [营养干预](../../depression/Depression_Nutritional_Interventions.md) — ω-3与双相
-- [危机评估](../crisis-assessment/) — 自杀风险管理
+- [危机评估](../../crisis-assessment/) — 自杀风险管理
 - [严重精神障碍总览](../Severe_Mental_Illness_Overview.md) — 中国686工程管理
 
 ### 节律与生活方式
 - [社会节奏疗法 (IPSRT)](../../depression/Bipolar_Depression_Management.md#41-人际与社会节奏治疗-ipsrt-详解) — 双相最特异的心理治疗
-- [正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念与情绪稳定
+- [正念临床应用](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念与情绪稳定
 
 ---
 

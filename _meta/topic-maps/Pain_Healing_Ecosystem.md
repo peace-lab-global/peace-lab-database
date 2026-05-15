@@ -55,4 +55,4 @@ graph TB
 - [身心整合路径](../learning-paths/Body_Mind_Integration_Path.md)
 
 ---
-*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

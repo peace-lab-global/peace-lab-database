@@ -139,7 +139,7 @@
 | 月经健康 | [月经](Womens_Menstrual_Health.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
 | 营养 | [营养](../../foods/nutritional/) |
-| 瑜伽与女性 | [瑜伽](../../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
 
 ---
 

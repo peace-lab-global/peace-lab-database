@@ -134,7 +134,7 @@
 | 女性健康总览 | [总览](Womens_Health_Overview.md) |
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
-| 瑜伽与女性 | [瑜伽](../../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
 | HPA轴 | [HPA轴](../hpa-axis/) |
 
 ---

@@ -267,7 +267,7 @@
 | 神经科学研究 | [Neuroscience_Research.md](./Neuroscience_Research.md) | 禅修脑科学 |
 | 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应 |
 | 修行黑夜 | [Meditation_Dark_Night.md](../safety/Meditation_Dark_Night.md) | 困难阶段 |
-| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | 百科级参考 |
+| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 百科级参考 |
 
 ---
 

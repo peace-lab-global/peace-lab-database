@@ -268,8 +268,8 @@
 | 难治性抑郁 | 02-心理 | [TRD](../Depression_Treatment_Resistant.md) | 青少年TRD |
 | 睡眠共病 | 02-心理 | [Sleep Comorbidity](../Depression_Sleep_Comorbidity.md) | 青少年睡眠节律 |
 | 营养干预 | 02-心理 | [Nutritional Interventions](../Depression_Nutritional_Interventions.md) | 青少年营养 |
-| 儿童发展 | 02-心理 | [Child Development](../../developmental/child-development/) | 发展视角 |
-| 学生心理健康 | 02-心理 | [Student Mental Health](../../applied/educational-psychology/Student_Mental_Health.md) | 学校干预 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../crisis-assessment/) | 青少年自杀预防 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../behavioral/anti-procrastination/Behavioral_Activation.md) | 青少年行为干预 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 青少年正念 |
+| 儿童发展 | 02-心理 | [Child Development](../../../developmental/child-development/) | 发展视角 |
+| 学生心理健康 | 02-心理 | [Student Mental Health](../../../applied/educational-psychology/Student_Mental_Health.md) | 学校干预 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../../crisis-assessment/) | 青少年自杀预防 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../../behavioral/anti-procrastination/Behavioral_Activation.md) | 青少年行为干预 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 青少年正念 |

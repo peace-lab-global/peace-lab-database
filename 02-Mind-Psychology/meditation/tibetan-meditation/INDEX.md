@@ -42,7 +42,7 @@
 - 项目总索引：[../../INDEX.md](../../INDEX.md)
 - 冥想总索引：[../INDEX.md](../INDEX.md)
 - 相关主题：
-  - [藏传佛教哲学](../../philosophy/)（待建）
+  - [藏传佛教哲学](../../../01-Wisdom-Traditions/philosophy/)（待建）
   - [呼吸法与调息](../pranayama-breath/)
   - [禅修基础](../samatha-vipassana/)
 

@@ -29,8 +29,8 @@
 
 | 相关主题 | 链接 |
 |---------|------|
-| HPA轴 | [HPA轴](../../hpa-axis/) |
-| 脑科学 | [脑科学](../../brain/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
+| 脑科学 | [脑科学](../../../02-Mind-Psychology/psychology/foundations/brain/) |
 | 营养 | [营养](../../foods/nutritional/) |
 | 断食 | [断食](../../foods/fasting/) |
 | 冥想 | [冥想](../../../02-Mind-Psychology/meditation/) |

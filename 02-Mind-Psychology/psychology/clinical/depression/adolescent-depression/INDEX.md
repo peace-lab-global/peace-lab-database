@@ -51,11 +51,11 @@
 - [抑郁症治疗](../Depression_Treatment.md)
 - [自助指南](../Depression_Self_Help_Guide.md)
 - [早期预警信号](../Depression_Early_Warning_Signals.md)
-- [行为激活](../behavioral/anti-procrastination/Behavioral_Activation.md)
-- [儿童发展](../../developmental/child-development/)
-- [学生心理健康](../../applied/educational-psychology/Student_Mental_Health.md)
-- [正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)
-- [危机评估](../crisis-assessment/)
+- [行为激活](../../../behavioral/anti-procrastination/Behavioral_Activation.md)
+- [儿童发展](../../../developmental/child-development/)
+- [学生心理健康](../../../applied/educational-psychology/Student_Mental_Health.md)
+- [正念临床应用](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)
+- [危机评估](../../crisis-assessment/)
 - [双相抑郁](../Bipolar_Depression_Management.md)
 
 ---

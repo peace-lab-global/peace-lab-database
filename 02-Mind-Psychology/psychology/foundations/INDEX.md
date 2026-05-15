@@ -22,4 +22,4 @@
   - [案例分析与实践指导](adlerian-task-separation/Adlerian_Task_Separation_Case_Studies.md)
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -139,48 +139,48 @@
 ## 相关主题 | Related Topics
 
 ### 心理干预方法
-- [正念认知疗法 (MBCT)](../therapy/mbct-therapy/) — 抑郁复发预防核心循证干预
-- [行为激活](../behavioral/anti-procrastination/Behavioral_Activation.md) — 打破抑郁回避循环
-- [失眠认知行为治疗 (CBT-I)](../somatic-body/sleep/) — 睡眠残留症状干预
-- [人际心理治疗 (IPT)](../therapy/) — 人际关系聚焦的抑郁治疗
-- [辩证行为治疗 (DBT)](../therapy/) — 情绪调节与自伤干预
+- [正念认知疗法 (MBCT)](../../../therapy/mbct-therapy/) — 抑郁复发预防核心循证干预
+- [行为激活](../../behavioral/anti-procrastination/Behavioral_Activation.md) — 打破抑郁回避循环
+- [失眠认知行为治疗 (CBT-I)](../../somatic-body/sleep/) — 睡眠残留症状干预
+- [人际心理治疗 (IPT)](../../../../04-Humanities-Arts/literature/therapy/) — 人际关系聚焦的抑郁治疗
+- [辩证行为治疗 (DBT)](../../../../04-Humanities-Arts/literature/therapy/) — 情绪调节与自伤干预
 
 ### 身心关联
-- [慢性压力与HPA轴](../stress-hpa/chronic-stress/) — 应激与抑郁的神经生物学
-- [皮质醇调节](../stress-hpa/cortisol/) — 应激激素与抑郁
-- [躯体体验疗法](../somatic-body/somatic/) — 身体导向的创伤与抑郁干预
+- [慢性压力与HPA轴](../../stress-hpa/chronic-stress/) — 应激与抑郁的神经生物学
+- [皮质醇调节](../../stress-hpa/cortisol/) — 应激激素与抑郁
+- [躯体体验疗法](../../somatic-body/somatic/) — 身体导向的创伤与抑郁干预
 
 ### 生活方式与生物科学
-- [运动与心理健康](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) — 运动抗抑郁的循证机制与处方
-- [肠脑轴与心理健康](../../../03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md) — 肠道菌群与抑郁
-- [心理神经免疫学](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) — 炎症假说
-- [疼痛心理学](../../../03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md) — 慢性疼痛与抑郁共病
+- [运动与心理健康](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) — 运动抗抑郁的循证机制与处方
+- [肠脑轴与心理健康](../../../../03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md) — 肠道菌群与抑郁
+- [心理神经免疫学](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) — 炎症假说
+- [疼痛心理学](../../../../03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md) — 慢性疼痛与抑郁共病
 
 ### 社会与职业维度
-- [职业倦怠](../applied/occupational-burnout/) — 与抑郁高度共病且症状重叠的职场综合征
-- [职场心理危机](../applied/workplace-psychological-crisis/) — 职场环境中的抑郁识别与干预
-- [孤独感研究](../social/loneliness/) — 社会孤立与抑郁的双向关系
+- [职业倦怠](../../../meditation/clinical-conditions/occupational-burnout/) — 与抑郁高度共病且症状重叠的职场综合征
+- [职场心理危机](../../applied/workplace-psychological-crisis/) — 职场环境中的抑郁识别与干预
+- [孤独感研究](../../social/loneliness/) — 社会孤立与抑郁的双向关系
 
 ### 特殊人群
-- [青少年心理健康](../developmental/adolescent/) — 发育期抑郁的特殊表现
-- [老年心理](../developmental/aging-psychology/) — 老年抑郁的识别挑战
-- [儿童发展](../developmental/child-development/) — 儿童情绪与行为基础
-- [男性心理健康](../../../03-Bio-Science/biology/mens-health/Mens_Mental_Health.md) — 男性抑郁的隐匿性与表达差异
-- [女性心理健康](../../../03-Bio-Science/biology/womens-health/Womens_Health_Overview.md) — 经期、围产期、更年期相关抑郁
+- [青少年心理健康](../../developmental/adolescent/) — 发育期抑郁的特殊表现
+- [老年心理](../../developmental/aging-psychology/) — 老年抑郁的识别挑战
+- [儿童发展](../../developmental/child-development/) — 儿童情绪与行为基础
+- [男性心理健康](../../../../03-Bio-Science/biology/mens-health/Mens_Mental_Health.md) — 男性抑郁的隐匿性与表达差异
+- [女性心理健康](../../../../03-Bio-Science/biology/womens-health/Womens_Health_Overview.md) — 经期、围产期、更年期相关抑郁
 
 ### 危机干预
 - [危机评估](../crisis-assessment/) — 自杀风险评估与危机识别
 - [自杀干预](../suicide-intervention/) — 自杀预防的系统方法
 
 ### 正念与冥想实践
-- [正念临床应用](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念在抑郁治疗中的应用
-- [正念行走](../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 日常正念运动
-- [步行临床方案](../../../05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md) — A级证据的抗抑郁运动处方
+- [正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念在抑郁治疗中的应用
+- [正念行走](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 日常正念运动
+- [步行临床方案](../../../../05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md) — A级证据的抗抑郁运动处方
 
 ### 艺术治疗
-- [艺术治疗概述](../../../04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md) — 创造性表达与情绪调节
-- [书法治疗](../../../04-Humanities-Arts/arts/calligraphy-therapy/) — 书写与情绪稳定
-- [园艺治疗](../../../04-Humanities-Arts/arts/horticultural-therapy/) — 自然接触与抑郁缓解
+- [艺术治疗概述](../../../../04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md) — 创造性表达与情绪调节
+- [书法治疗](../../../../04-Humanities-Arts/arts/calligraphy-therapy/) — 书写与情绪稳定
+- [园艺治疗](../../../../04-Humanities-Arts/arts/horticultural-therapy/) — 自然接触与抑郁缓解
 
 ---
 

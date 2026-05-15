@@ -51,8 +51,8 @@
 
 1. [神经科学研究](./Neuroscience_Research.md) — 科学证据综述
 2. [现代心理学整合](./Modern_Psychology_Integration.md) — 临床应用
-3. [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) — 百科级参考
-4. [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Tiantai_Zhiguan.md) — 汉传止观
+3. [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/) — 百科级参考
+4. [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 汉传止观
 
 ### 临床工作者路线
 
@@ -66,10 +66,10 @@
 ## 相关模块 | Related Modules
 
 ### 佛教止观传统
-- [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) — 止观百科级详表
-- [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Tiantai_Zhiguan.md) — 天台止观
-- [佛教正念疗法整合](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Mindfulness_Therapy_Integration.md) — 正念疗法
-- [上座部论典](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Theravada_Abhidhamma.md) — 阿毗达摩
+- [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/) — 止观百科级详表
+- [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 天台止观
+- [佛教正念疗法整合](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) — 正念疗法
+- [上座部论典](../../../01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md) — 阿毗达摩
 
 ### 冥想知识库
 - [内观禅修](../vipassana/INDEX.md) — 内观专题

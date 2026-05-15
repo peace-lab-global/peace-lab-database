@@ -2,7 +2,7 @@
 
 > 📘 **文档导航**: 本标准文档为约会心理学和关系发展领域建立统一的术语体系。相关文档：
 > - [约会心理学概览](Dating_Psychology_Overview.md) - 理论框架
-> - [各专题文档](../../../README.md#-dating-psychology--interpersonal-attraction) - 实践应用
+> - [各专题文档](../../../#-dating-psychology--interpersonal-attraction) - 实践应用
 
 ## 核心概念术语体系 (Core Concept Terminology System)
 

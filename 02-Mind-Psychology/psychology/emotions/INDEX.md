@@ -23,23 +23,23 @@
 ## 分类导航 | Categories
 
 ### 🧠 理论基础 (Foundations)
-- [心理学流派与理论](foundations/overview/)
-- [理论框架](foundations/framework/)
-- [专业术语辞典](foundations/terminology-dictionary/Terminology_Dictionary.md)
+- [心理学流派与理论](../../../01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/)
+- [理论框架](../foundations/framework/)
+- [专业术语辞典](../../../03-Bio-Science/sexuality/sexual-repression-china/Terminology_Dictionary.md)
 
 ### 🏥 临床心理 (Clinical)
-- [精神障碍专题](clinical/disorder/)
-- [焦虑症](clinical/anxiety/) · [抑郁症](clinical/depression/)
-- [强迫症](clinical/obsessive-compulsive/) · [创伤心理](clinical/trauma/)
+- [精神障碍专题](../clinical/disorder/)
+- [焦虑症](../clinical/anxiety/) · [抑郁症](../../meditation/clinical-conditions/depression/)
+- [强迫症](../clinical/obsessive-compulsive/) · [创伤心理](../clinical/trauma/)
 
 ### 💼 应用心理 (Applied)
 - [职业倦怠](../applied/occupational-burnout/) · [职场危机](../applied/workplace-psychological-crisis/)
 - [职业心理](../applied/vocational-psychology/)
 
 ### 🧘 身心关联 (Somatic & Body)
-- [情绪](somatic-body/emotion/) · [睡眠](somatic-body/sleep/)
-- [自我调节](self-regulation/)
+- [情绪](../somatic-body/emotion/) · [睡眠](../somatic-body/sleep/)
+- [自我调节](../self-regulation/)
 
 ---
 
-*返回上级 [INDEX.md](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回上级 [INDEX.md](../INDEX.md) | 返回根目录 [README.md](./)*

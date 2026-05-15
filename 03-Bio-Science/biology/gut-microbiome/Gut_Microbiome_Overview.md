@@ -147,7 +147,7 @@
 | 肠道与心理健康 | [心理健康](Gut_Mental_Health.md) |
 | 饮食干预 | [饮食干预](Gut_Dietary_Interventions.md) |
 | 营养科学 | [营养](../../foods/nutritional/) |
-| 免疫系统 | [HPA轴](../../hpa-axis/) |
+| 免疫系统 | [HPA轴](../hpa-axis/) |
 | 断食 | [断食](../../foods/fasting/) |
 
 ---

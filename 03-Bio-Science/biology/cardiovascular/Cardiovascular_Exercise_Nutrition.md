@@ -206,9 +206,9 @@
 | 心血管总览 | [总览](Cardiovascular_Health_Overview.md) |
 | HRV | [HRV](Heart_Rate_Variability.md) |
 | 心血管心理学 | [心理学](Cardiovascular_Psychology.md) |
-| 运动科学 | [运动科学](../../stretch/) |
+| 运动科学 | [运动科学](../stretch/) |
 | 营养学 | [营养](../../foods/nutritional/) |
-| 减重 | [减重](../../weight-loss/) |
+| 减重 | [减重](../weight-loss/) |
 
 ---
 

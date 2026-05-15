@@ -146,5 +146,5 @@
 |---------|------|--------|
 | 书法疗愈 | [04-Humanities-Arts/arts/calligraphy-therapy/](../../../04-Humanities-Arts/arts/calligraphy-therapy/) | 现代书法治疗的系统方案 |
 | 禅宗美学 | [01-Wisdom-Traditions/religions/zen/](../zen/) | 禅书一致、圆相 |
-| 正念冥想 | [02-Mind-Psychology/meditation/](../../02-Mind-Psychology/meditation/) | 书写即正念 |
+| 正念冥想 | [02-Mind-Psychology/meditation/](../buddhism/meditation/) | 书写即正念 |
 | 茶道疗愈 | [Wisdom_Tea_Ceremony_Healing](Wisdom_Tea_Ceremony_Healing.md) | 东亚道艺一体传统 |

@@ -155,6 +155,6 @@
 |---------|------|--------|
 | 吠檀多总览 | [Vedanta_Philosophy_Overview](Vedanta_Philosophy_Overview.md) | 哲学框架 |
 | 奥义书 | [Upanishads_Wisdom](Upanishads_Wisdom.md) | 天启经典来源 |
-| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/](../../yoga/) | 四瑜伽道的系统实践 |
-| 存在主义 | [01-Wisdom-Traditions/philosophy/western-philosophy/](../../western-philosophy/) | 阿周那困境与存在焦虑 |
-| 正念 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 无执行动与正念修行 |
+| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/](../../../../yoga/) | 四瑜伽道的系统实践 |
+| 存在主义 | [01-Wisdom-Traditions/philosophy/western-philosophy/](../../../western-philosophy/) | 阿周那困境与存在焦虑 |
+| 正念 | [02-Mind-Psychology/meditation/](../../../../religions/buddhism/meditation/) | 无执行动与正念修行 |

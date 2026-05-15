@@ -217,4 +217,4 @@
 - [跨主题关联分析](Occupational_Burnout_Cross_Reference_Analysis.md)
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

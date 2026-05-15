@@ -207,4 +207,4 @@
 
 ---
 
-*返回 [财务素养 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [财务素养 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](./)*

@@ -127,4 +127,4 @@
 
 ---
 
-*返回上级 [Anxiety Index](INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回上级 [Anxiety Index](INDEX.md) | 返回根目录 [README.md](./)*

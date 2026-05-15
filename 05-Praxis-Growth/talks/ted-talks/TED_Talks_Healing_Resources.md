@@ -75,8 +75,8 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Mindfulness_Therapy_Integration.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
-| **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
+| **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
+| **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
 | **Thích Nhất Hạnh** | How to eat mindfully | 2013 | 一行禅师正念饮食教导 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) | 8:34 | [观看](https://www.youtube.com/watch?v=wk4xRqsMt7Q) |
 | **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
 
@@ -139,7 +139,7 @@
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Pure_Land_Practice.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
+| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
 | **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
 | **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-Bio-Science/death/Death_Anxiety_Overview.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
 
@@ -174,7 +174,7 @@
 |-------|---------|------|----------|------------|------|----------|
 | **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论创始人 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
 | **Chris Germer** | The mindful path to self-compassion | 2015 | MSC联合创始人演讲 | [MSC课程](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 16:48 | [观看](https://www.youtube.com/watch?v=rUMowN-FYpw) |
-| **Sharon Salzberg** | Love yourself (it's not a dirty word) | 2011 | 慈心禅大师谈自爱 | [慈心禅](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 12:34 | [观看](https://www.youtube.com/watch?v=lHJsdi3yWc0) |
+| **Sharon Salzberg** | Love yourself (it's not a dirty word) | 2011 | 慈心禅大师谈自爱 | [慈心禅](../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 12:34 | [观看](https://www.youtube.com/watch?v=lHJsdi3yWc0) |
 
 ### 8.2 内在小孩与疗愈
 
@@ -495,7 +495,7 @@
 | Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) |
 | Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) |
 | Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) |
-| Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) |
+| Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) |
 
 ### 22.2 创伤疗愈系列
 

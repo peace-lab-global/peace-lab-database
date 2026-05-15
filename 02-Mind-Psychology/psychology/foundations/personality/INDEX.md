@@ -44,4 +44,4 @@
 | 衰老科学 | [Aging](../../../../03-Bio-Science/biology/aging-longevity/) | 人格老化 |
 
 ---
-*返回 [理论基础 INDEX](../INDEX.md) | [02-Mind INDEX](../../../INDEX.md) | [README](../../../../README.md)*
+*返回 [理论基础 INDEX](../INDEX.md) | [02-Mind INDEX](../../../INDEX.md) | [README](./)*

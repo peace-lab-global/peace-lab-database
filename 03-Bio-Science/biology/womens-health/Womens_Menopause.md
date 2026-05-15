@@ -181,8 +181,8 @@
 | 月经健康 | [月经](Womens_Menstrual_Health.md) |
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 骨质疏松 | [心血管](../cardiovascular/) |
-| 太极拳 | [太极拳](../../../../01-Wisdom-Traditions/tai-chi/) |
-| 瑜伽与女性 | [瑜伽](../../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 太极拳 | [太极拳](../../../01-Wisdom-Traditions/tai-chi/) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
 
 ---
 

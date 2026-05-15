@@ -12,9 +12,9 @@
 
 ### 关联专题
 
-- [自慰心理学（生物科学视角）](../../../03-Bio-Science/sexuality/masturbation-psychology/INDEX.md)
-- [自慰与关系心理学](../../relationships/masturbation-relationships/INDEX.md)
-- [性学研究概览](../../../03-Bio-Science/sexuality/Sexuality_Overview.md)
+- [自慰心理学（生物科学视角）](../../self-regulation/grounding-techniques/INDEX.md)
+- [自慰与关系心理学](../../self-regulation/grounding-techniques/INDEX.md)
+- [性学研究概览](../../../../03-Bio-Science/sexuality/Sexuality_Overview.md)
 - [心理学特殊专题总览](../INDEX.md)
 
 ## 统计信息

@@ -151,4 +151,4 @@
 | 正念冥想 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 情绪觉察 |
 | DBT | [02-Mind-Psychology/therapy/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/) | 情绪调节技能 |
 | 压力管理 | [02-Mind-Psychology/psychology/stress-hpa/](../../../02-Mind-Psychology/psychology/stress-hpa/) | 应激情绪管理 |
-| 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../../03-Bio-Science/biology/breathwork/) | 呼吸调节情绪 |
+| 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../03-Bio-Science/biology/breathwork/) | 呼吸调节情绪 |

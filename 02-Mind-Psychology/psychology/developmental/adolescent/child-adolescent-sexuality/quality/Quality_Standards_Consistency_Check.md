@@ -153,7 +153,7 @@
 • 定期检查和更新链接有效性
 
 引用格式统一:
-[相关文档名称](相对路径/文件名.md)
+相关文档名称
 例如: [课程设计指南](../theory/Curriculum_Design_Implementation_Guide.md)
 
 交叉引用检查:

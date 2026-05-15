@@ -13,6 +13,7 @@ __pycache__/
 .Python
 env/
 venv/
+.venv/
 ENV/
 *.egg-info/
 dist/
@@ -29,6 +30,16 @@ build/
 *.log
 *.tmp
 .cache/
+
+# Node / 前端依赖
+node_modules/
+Visualization/.playwright-cli/
+
+# MkDocs 构建产物
+site/
+
+# 运行日志
+logs/
 
 # 工具生成报告（大型文件，按需提交）
 Tools/reports/LINK_CHECK_REPORT.md

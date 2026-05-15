@@ -133,7 +133,7 @@
 |---------|------|--------|
 | 教育心理学总览 | [Educational_Psychology_Overview](Educational_Psychology_Overview.md) | 学习动机与课堂心理 |
 | 教学设计心理 | [Teaching_Design_Psychology](Teaching_Design_Psychology.md) | 教学设计对学生心理的影响 |
-| 青少年发展 | [02-Mind-Psychology/psychology/developmental/adolescent/](../adolescent/) | 青春期心理发展特征 |
-| 焦虑障碍 | [02-Mind-Psychology/psychology/clinical/anxiety/](../clinical/anxiety/) | 考试焦虑的临床干预 |
-| 抑郁症 | [02-Mind-Psychology/psychology/clinical/depression/](../clinical/depression/) | 学生抑郁识别与转介 |
-| 正念冥想 | [02-Mind-Psychology/meditation/](../../meditation/) | 正念减压校园项目 |
+| 青少年发展 | [02-Mind-Psychology/psychology/developmental/adolescent/](../../developmental/adolescent/) | 青春期心理发展特征 |
+| 焦虑障碍 | [02-Mind-Psychology/psychology/clinical/anxiety/](../../clinical/anxiety/) | 考试焦虑的临床干预 |
+| 抑郁症 | [02-Mind-Psychology/psychology/clinical/depression/](../../../meditation/clinical-conditions/depression/) | 学生抑郁识别与转介 |
+| 正念冥想 | [02-Mind-Psychology/meditation/](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/) | 正念减压校园项目 |

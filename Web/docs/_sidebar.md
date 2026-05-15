@@ -1,5 +1,5 @@
 - [🏠 返回首页](../index.html ':ignore')
-- [📖 项目概览](/README.md)
+- [📖 项目概览](/)
 
 ---
 
@@ -183,21 +183,21 @@
   - **宗教 religions**
     - **buddhism**
       - [总览](/01-Wisdom-Traditions/religions/buddhism/INDEX.md)
-      - [Buddhism Core Overview](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md)
+      - [Buddhism Core Overview](/01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md)
       - [BUDDHISM DIRECTORY STRUCTURE](/01-Wisdom-Traditions/religions/buddhism/BUDDHISM_DIRECTORY_STRUCTURE.md)
-      - [Buddhism Four Immeasurables](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md)
-      - [Buddhism Four Noble Truths](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Noble_Truths.md)
+      - [Buddhism Four Immeasurables](/01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md)
+      - [Buddhism Four Noble Truths](/01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md)
       - [Buddhism Huayan Philosophy](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Huayan_Philosophy.md)
-      - [Buddhism Madhyamaka Philosophy](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Madhyamaka_Philosophy.md)
-      - [Buddhism Mindfulness Therapy Integration](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Mindfulness_Therapy_Integration.md)
-      - [Buddhism Pure Land Practice](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Pure_Land_Practice.md)
-      - [Buddhism Samatha Vipassana](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md)
+      - [Buddhism Madhyamaka Philosophy](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md)
+      - [Buddhism Mindfulness Therapy Integration](/01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md)
+      - [Buddhism Pure Land Practice](/01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md)
+      - [Buddhism Samatha Vipassana](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
       - [Buddhism Sutra Healing Guide](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Sutra_Healing_Guide.md)
-      - [Buddhism Theravada Abhidhamma](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Theravada_Abhidhamma.md)
-      - [Buddhism Tiantai Zhiguan](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Tiantai_Zhiguan.md)
-      - [Buddhism Vajrayana Foundation](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Vajrayana_Foundation.md)
+      - [Buddhism Theravada Abhidhamma](/01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md)
+      - [Buddhism Tiantai Zhiguan](/01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md)
+      - [Buddhism Vajrayana Foundation](/01-Wisdom-Traditions/religions/buddhism/vajrayana/Buddhism_Vajrayana_Foundation.md)
       - [Buddhism Vinaya Ethics](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Vinaya_Ethics.md)
-      - [Buddhism Yogacara Consciousness](/01-Wisdom-Traditions/religions/buddhism/Buddhism_Yogacara_Consciousness.md)
+      - [Buddhism Yogacara Consciousness](/01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Consciousness.md)
       - [Buddhist Canon System](/01-Wisdom-Traditions/religions/buddhism/Buddhist_Canon_System.md)
       - [Buddhist History Timeline](/01-Wisdom-Traditions/religions/buddhism/Buddhist_History_Timeline.md)
       - **advanced**
@@ -1678,7 +1678,7 @@
       - [总览](/03-Bio-Science/sexuality/hypoactive-sexual-desire/INDEX.md)
       - [Hypoactive Sexual Desire Clinical Management](/03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md)
     - **incest**
-      - [说明](/03-Bio-Science/sexuality/incest/README.md)
+      - [说明](/03-Bio-Science/sexuality/incest/)
       - [Incest Clinical Toolkit](/03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md)
       - [Incest Clinical Treatment](/03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md)
       - [Incest Research Framework](/03-Bio-Science/sexuality/incest/Incest_Research_Framework.md)
@@ -1775,7 +1775,7 @@
       - [User Experience Guide](/03-Bio-Science/sexuality/sexual-repression-china/User_Experience_Guide.md)
       - [Youth Population Intervention](/03-Bio-Science/sexuality/sexual-repression-china/Youth_Population_Intervention.md)
     - **swinging**
-      - [说明](/03-Bio-Science/sexuality/swinging/README.md)
+      - [说明](/03-Bio-Science/sexuality/swinging/)
       - [Swinging Practice Guide](/03-Bio-Science/sexuality/swinging/Swinging_Practice_Guide.md)
       - [Swinging Practice Toolkit](/03-Bio-Science/sexuality/swinging/Swinging_Practice_Toolkit.md)
       - [Swinging Research Framework](/03-Bio-Science/sexuality/swinging/Swinging_Research_Framework.md)
@@ -2505,7 +2505,7 @@
           - [Seong-Jin Cho](/04-Humanities-Arts/media/music/musician/pianists/Seong-Jin_Cho.md)
           - [Yuja Wang](/04-Humanities-Arts/media/music/musician/pianists/Yuja_Wang.md)
         - **playlists**
-          - [说明](/04-Humanities-Arts/media/music/musician/playlists/README.md)
+          - [说明](/04-Humanities-Arts/media/music/musician/playlists/)
           - [Late Night Solitude](/04-Humanities-Arts/media/music/musician/playlists/Late_Night_Solitude.md)
       - **opera-artsong-therapy**
         - [总览](/04-Humanities-Arts/media/music/opera-artsong-therapy/INDEX.md)

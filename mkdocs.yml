@@ -1,0 +1,118 @@
+site_name: Peace Lab Database
+site_description: 多维度身心疗愈与个人进化知识体系
+site_url: https://peace-lab-global.github.io/peace-lab-database/
+copyright: '&copy; 2026 Peace Lab Global'
+docs_dir: Web/mkdocs/docs
+site_dir: site
+
+repo_url: https://github.com/peace-lab-global/peace-lab-database
+repo_name: peace-lab-global/peace-lab-database
+edit_uri: edit/main/Web/mkdocs/docs/
+
+theme:
+  name: material
+  language: zh
+  custom_dir: Web/mkdocs/overrides
+  logo: assets/logo.svg
+  favicon: assets/favicon.svg
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: white
+      accent: teal
+      toggle:
+        icon: material/weather-night
+        name: 深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: teal
+      toggle:
+        icon: material/weather-sunny
+        name: 浅色模式
+  features:
+    - navigation.instant
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.indexes
+    - navigation.top
+    - navigation.footer
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - content.tooltips
+    - toc.follow
+  font:
+    text: Noto Sans SC
+    code: SF Mono
+  icon:
+    repo: fontawesome/brands/github
+
+extra_css:
+  - css/extra.css
+
+extra_javascript:
+  - js/extra.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/peace-lab-global/peace-lab-database
+      name: GitHub
+
+plugins:
+  - awesome-pages:
+      filename: .pages
+      collapse_single_pages: false
+      strict: false
+      order: asc
+      sort_type: natural
+  - search:
+      lang:
+        - zh
+        - en
+      separator: '[\s\-\.]+'
+  - mermaid2:
+      arguments:
+        theme: neutral
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - tables
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+
+watch:
+  - Web/mkdocs

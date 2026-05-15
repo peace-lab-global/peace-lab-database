@@ -143,6 +143,6 @@
 | 关联主题 | 路径 | 关联点 |
 |---------|------|--------|
 | 谈判心理学 | [Negotiation_Psychology_Strategy](Negotiation_Psychology_Strategy.md) | 理论框架 |
-| 认知偏差 | [05-Praxis-Growth/personal-development/decision-making/](../personal-development/decision-making/) | 偏差矫正 |
-| 冲突管理 | [02-Mind-Psychology/relationships/marriage/](../../02-Mind-Psychology/relationships/marriage/) | 关系中的谈判 |
-| 情商 | [05-Praxis-Growth/personal-development/emotional-intelligence/](../personal-development/emotional-intelligence/) | 情绪管理 |
+| 认知偏差 | [05-Praxis-Growth/personal-development/decision-making/](../../personal-development/decision-making/) | 偏差矫正 |
+| 冲突管理 | [02-Mind-Psychology/relationships/marriage/](../../../02-Mind-Psychology/relationships/marriage/) | 关系中的谈判 |
+| 情商 | [05-Praxis-Growth/personal-development/emotional-intelligence/](../../personal-development/emotional-intelligence/) | 情绪管理 |

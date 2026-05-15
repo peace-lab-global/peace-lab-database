@@ -365,4 +365,4 @@
 
 *Created by Peace Lab Database Project*
 
-*返回上级 [家庭系统排列](INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回上级 [家庭系统排列](INDEX.md) | 返回根目录 [README.md](./)*

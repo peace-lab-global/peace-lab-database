@@ -69,7 +69,7 @@
 | **午睡** | 20-30 min (下午 1-3 点) | 🟢 辅助 |
 | **训练时机** | 避免睡前 3h 内高强度运动 | 🟢 辅助 |
 
-> **交叉引用**: 睡眠科学详细知识参见 → [02-Mind-Psychology/psychology/somatic-body/sleep/](../../../../02-Mind-Psychology/psychology/somatic-body/sleep/)
+> **交叉引用**: 睡眠科学详细知识参见 → [02-Mind-Psychology/psychology/somatic-body/sleep/](../../../02-Mind-Psychology/psychology/somatic-body/sleep/)
 
 ---
 
@@ -134,7 +134,7 @@
 | **瑜伽** | 恢复日 | 30-60 min | 全身恢复+心理 | 选修复性瑜伽 |
 
 > **交叉引用**: 拉伸详细知识参见 → [biology/stretch/](../stretch/)
-> **交叉引用**: 瑜伽知识参见 → [01-Wisdom-Traditions/yoga/](../../../../01-Wisdom-Traditions/yoga/)
+> **交叉引用**: 瑜伽知识参见 → [01-Wisdom-Traditions/yoga/](../../../01-Wisdom-Traditions/yoga/)
 
 ---
 

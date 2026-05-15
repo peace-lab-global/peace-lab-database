@@ -61,4 +61,4 @@ graph TB
 - [智慧老化路径](../learning-paths/Aging_Wisdom_Path.md)
 
 ---
-*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

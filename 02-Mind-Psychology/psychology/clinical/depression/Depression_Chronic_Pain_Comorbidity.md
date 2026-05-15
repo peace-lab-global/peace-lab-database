@@ -241,8 +241,8 @@
 | 难治性抑郁 | 02-心理 | [TRD](Depression_Treatment_Resistant.md) | 疼痛共病的TRD |
 | 营养干预 | 02-心理 | [Nutritional Interventions](Depression_Nutritional_Interventions.md) | 抗炎策略 |
 | 睡眠共病 | 02-心理 | [Sleep Comorbidity](Depression_Sleep_Comorbidity.md) | 疼痛与睡眠 |
-| 心理神经免疫学 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症机制 |
-| 疼痛科学 | 03-生命 | [Pain Science](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 疼痛医学基础 |
-| 疼痛心理干预 | 03-生命 | [Pain Psychology](../../../03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md) | 疼痛心理治疗 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 正念与疼痛 |
-| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动镇痛 |
+| 心理神经免疫学 | 03-生命 | [PNI](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症机制 |
+| 疼痛科学 | 03-生命 | [Pain Science](../../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 疼痛医学基础 |
+| 疼痛心理干预 | 03-生命 | [Pain Psychology](../../../../03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md) | 疼痛心理治疗 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 正念与疼痛 |
+| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动镇痛 |

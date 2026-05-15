@@ -61,4 +61,4 @@ graph TB
 - [职业身心健康路径](../learning-paths/Career_Wellbeing_Path.md)
 
 ---
-*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

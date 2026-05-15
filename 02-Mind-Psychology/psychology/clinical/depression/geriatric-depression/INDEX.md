@@ -51,10 +51,10 @@
 - [难治性抑郁](../Depression_Treatment_Resistant.md)
 - [睡眠共病](../Depression_Sleep_Comorbidity.md)
 - [营养干预](../Depression_Nutritional_Interventions.md)
-- [老年心理](../../developmental/aging-psychology/)
-- [认知下降预防](../../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md)
-- [疼痛科学](../../../../03-Bio-Science/biology/pain-science/)
-- [危机评估](../crisis-assessment/)
+- [老年心理](../../../developmental/aging-psychology/)
+- [认知下降预防](../../../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md)
+- [疼痛科学](../../../../../03-Bio-Science/biology/pain-science/)
+- [危机评估](../../crisis-assessment/)
 
 ---
 

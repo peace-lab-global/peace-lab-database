@@ -449,7 +449,7 @@ graph LR
 - [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
 - [冥想不良反应系统分类](../safety/Meditation_Adverse_Effects.md)
 - [慈心禅与创伤疗愈](../metta-lovingkindness/Metta_Trauma_Healing.md)
-- [03-Bio-Science/death/](../../03-Bio-Science/death/INDEX.md) 死亡相关资源
+- [03-Bio-Science/death/](../../psychology/self-regulation/grounding-techniques/INDEX.md) 死亡相关资源
 
 ---
 

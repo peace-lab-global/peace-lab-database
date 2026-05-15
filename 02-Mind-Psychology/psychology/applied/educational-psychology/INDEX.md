@@ -30,7 +30,7 @@
 
 | 关联支柱 | 路径 | 关联点 |
 |---------|------|--------|
-| 元认知学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../05-Praxis-Growth/personal-development/meta-learning/) | 学习策略科学 |
-| 儿童发展 | [02-Mind-Psychology/psychology/developmental/child-development/](../child-development/) | Piaget/Vygotsky |
-| 青少年心理 | [02-Mind-Psychology/psychology/developmental/adolescent/](../adolescent/) | 学业压力与发展 |
-| 正念冥想 | [02-Mind-Psychology/meditation/](../../meditation/) | 正念校园项目 |
+| 元认知学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../../05-Praxis-Growth/personal-development/meta-learning/) | 学习策略科学 |
+| 儿童发展 | [02-Mind-Psychology/psychology/developmental/child-development/](../../developmental/child-development/) | Piaget/Vygotsky |
+| 青少年心理 | [02-Mind-Psychology/psychology/developmental/adolescent/](../../developmental/adolescent/) | 学业压力与发展 |
+| 正念冥想 | [02-Mind-Psychology/meditation/](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/) | 正念校园项目 |

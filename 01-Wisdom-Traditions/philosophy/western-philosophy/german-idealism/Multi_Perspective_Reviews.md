@@ -44,4 +44,4 @@
 
 ---
 
-*返回 [书评总索引](../../../book-reviews/INDEX.md)*
+*返回 [书评总索引](../../../../02-Mind-Psychology/psychology/self-regulation/grounding-techniques/INDEX.md)*

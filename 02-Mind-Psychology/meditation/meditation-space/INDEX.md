@@ -32,7 +32,7 @@
 ## 关联目录
 
 - [../meditation/](../) — 冥想总目录
-- [../psychology/](../psychology/) — 心理学基础
+- [../psychology/](../../../03-Bio-Science/sexuality/psychology/) — 心理学基础
 - [../../../04-Humanities-Arts/arts/](../../../04-Humanities-Arts/arts/) — 艺术与美学
 
 ---

@@ -39,4 +39,4 @@
 - [职业心理图谱](topic-maps/Career_Psychology_Ecosystem.md) — 倦怠→压力→正念→太极→职场表达
 
 ---
-*返回根目录 [README.md](../README.md)*
+*返回根目录 [README.md](./)*

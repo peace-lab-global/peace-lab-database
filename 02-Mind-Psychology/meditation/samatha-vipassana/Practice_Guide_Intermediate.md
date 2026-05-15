@@ -146,7 +146,7 @@
 | **执着体验** | 舍不足 | 加强舍 | 观察"贪着体验"本身也是无常的 |
 | **平衡状态** | 念始终在中间 | 保持现状 | 不要打破——继续如实观察 |
 
-> **出处**：《相应部·觉支品》SN 46; 详见 [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) 表4.4
+> **出处**：《相应部·觉支品》SN 46; 详见 [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/) 表4.4
 
 ---
 
@@ -303,7 +303,7 @@
 | 禅定体系 | [Dhyana_Samadhi_System.md](./Dhyana_Samadhi_System.md) | 四禅八定详解 |
 | 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全指南 |
 | 修行黑夜 | [Meditation_Dark_Night.md](../safety/Meditation_Dark_Night.md) | 困难阶段应对 |
-| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | 完整参考表 |
+| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 完整参考表 |
 
 ---
 

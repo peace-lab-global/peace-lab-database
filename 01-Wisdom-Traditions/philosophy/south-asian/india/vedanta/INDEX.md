@@ -33,8 +33,8 @@
 
 | 关联支柱 | 路径 | 关联点 |
 |---------|------|--------|
-| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/](../../yoga/) | 数论-瑜伽体系与吠檀多互补 |
-| 佛教智慧 | [01-Wisdom-Traditions/religions/buddhism/](../../religions/buddhism/) | 梵我vs无我、空性vs幻 |
-| 道家哲学 | [01-Wisdom-Traditions/religions/dao/](../../religions/dao/) | 梵与道的比较哲学 |
-| 超个人心理学 | [02-Mind-Psychology/psychology/](../../../02-Mind-Psychology/psychology/) | 意识状态与超个人体验 |
-| 正念冥想 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 自我参问与正念练习 |
+| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/](../../../../yoga/) | 数论-瑜伽体系与吠檀多互补 |
+| 佛教智慧 | [01-Wisdom-Traditions/religions/buddhism/](../../../../religions/buddhism/) | 梵我vs无我、空性vs幻 |
+| 道家哲学 | [01-Wisdom-Traditions/religions/dao/](../../../../religions/dao/) | 梵与道的比较哲学 |
+| 超个人心理学 | [02-Mind-Psychology/psychology/](../../../../../03-Bio-Science/sexuality/psychology/) | 意识状态与超个人体验 |
+| 正念冥想 | [02-Mind-Psychology/meditation/](../../../../religions/buddhism/meditation/) | 自我参问与正念练习 |

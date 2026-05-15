@@ -22,4 +22,4 @@
 - [自我帮助指南 (Self-Help Guide)](Self_Help_Guide.md) — 日常策略、支持资源、危机处理
 
 ---
-*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](./)*

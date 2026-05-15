@@ -36,4 +36,4 @@
 | 婚姻关系 | [Marriage](../../../02-Mind-Psychology/relationships/marriage/) | 伴侣金钱问题 |
 
 ---
-*返回 [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [05-Praxis INDEX](../../INDEX.md) | [README](./)*

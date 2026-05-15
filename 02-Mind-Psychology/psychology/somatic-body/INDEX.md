@@ -11,4 +11,4 @@
 - [放松技术 (Relaxation)](relaxation/)
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

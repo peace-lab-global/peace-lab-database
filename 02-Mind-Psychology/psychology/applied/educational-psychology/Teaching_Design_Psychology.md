@@ -100,5 +100,5 @@
 |---------|------|--------|
 | 教育心理学总览 | [Educational_Psychology_Overview](Educational_Psychology_Overview.md) | 基础理论 |
 | 学生心理健康 | [Student_Mental_Health](Student_Mental_Health.md) | 学业动机与心理健康 |
-| 元学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../05-Praxis-Growth/personal-development/meta-learning/) | 间隔重复与检索练习 |
-| 认知负荷 | [决策疲劳](../../../05-Praxis-Growth/personal-development/decision-making/) | 认知资源有限性 |
+| 元学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../../05-Praxis-Growth/personal-development/meta-learning/) | 间隔重复与检索练习 |
+| 认知负荷 | [决策疲劳](../../../../05-Praxis-Growth/personal-development/decision-making/) | 认知资源有限性 |

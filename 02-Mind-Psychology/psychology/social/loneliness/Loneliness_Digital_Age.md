@@ -199,7 +199,7 @@
 
 ## 七、数字时代独处的重建
 
-> 详见 [Solitude_Digital_Age](../../solitude/Solitude_Digital_Age.md) — 完整的数字时代独处专题
+> 详见 [Solitude_Digital_Age](../solitude/Solitude_Digital_Age.md) — 完整的数字时代独处专题
 
 **核心要点回顾**:
 - 数字时代的真正独处需要主动设计
@@ -211,7 +211,7 @@
 
 ## 关联文档
 
-- [Solitude_Digital_Age](../../solitude/Solitude_Digital_Age.md) — 数字时代的真正独处实践指南
+- [Solitude_Digital_Age](../solitude/Solitude_Digital_Age.md) — 数字时代的真正独处实践指南
 - [Loneliness_Sources_Etiology](Loneliness_Sources_Etiology.md) — 数字时代作为孤独来源的病因学
 - [Loneliness_Relief_Mitigation](Loneliness_Relief_Mitigation.md) — 通用孤独缓释策略
 - `05-Praxis-Growth/personal-development/mindfulness/` — 正念训练帮助管理数字注意力

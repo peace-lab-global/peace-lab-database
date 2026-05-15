@@ -160,7 +160,7 @@
 |---------|------|--------|
 | 慢性疼痛心理干预 | [Pain_Psychology_Intervention](Pain_Psychology_Intervention.md) | ACT/CBT疼痛管理 |
 | 身心疼痛 | [Pain_Mind_Body_Approaches](Pain_Mind_Body_Approaches.md) | 正念/瑜伽/催眠 |
-| 下背痛 | [03-Bio-Science/biology/lower-back-pain/](../../lower-back-pain/) | 常见慢性疼痛 |
-| HPA轴 | [03-Bio-Science/biology/hpa-axis/](../../hpa-axis/) | 压力-疼痛关联 |
+| 下背痛 | [03-Bio-Science/biology/lower-back-pain/](../lower-back-pain/) | 常见慢性疼痛 |
+| HPA轴 | [03-Bio-Science/biology/hpa-axis/](../hpa-axis/) | 压力-疼痛关联 |
 | 冥想与疼痛 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 正念疼痛管理 |
 | ACT治疗 | [02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | 接纳承诺治疗 |

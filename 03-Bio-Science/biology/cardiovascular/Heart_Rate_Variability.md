@@ -176,10 +176,10 @@ Stephen Porges的多迷走理论将HRV与社会参与系统联系：
 |------|------|
 | 心血管总览 | [总览](Cardiovascular_Health_Overview.md) |
 | 心血管心理学 | [心理学](Cardiovascular_Psychology.md) |
-| 呼吸训练 | [呼吸](../../breathwork/) |
+| 呼吸训练 | [呼吸](../breathwork/) |
 | 冥想 | [冥想](../../../02-Mind-Psychology/meditation/) |
-| 太极拳 | [太极拳](../../../../01-Wisdom-Traditions/tai-chi/) |
-| HPA轴 | [HPA轴](../../hpa-axis/) |
+| 太极拳 | [太极拳](../../../01-Wisdom-Traditions/tai-chi/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
 
 ---
 

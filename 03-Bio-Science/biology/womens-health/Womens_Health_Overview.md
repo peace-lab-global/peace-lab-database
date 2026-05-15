@@ -119,7 +119,7 @@
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
 | 心血管(女性) | [心血管](../cardiovascular/) |
-| 瑜伽与女性 | [瑜伽](../../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
 | 关系心理 | [关系](../../../02-Mind-Psychology/relationships/) |
 
 ---

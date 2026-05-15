@@ -145,6 +145,6 @@
 |---------|------|--------|
 | 疼痛科学总览 | [Pain_Science_Overview](Pain_Science_Overview.md) | 疼痛机制与评估 |
 | 身心疼痛疗法 | [Pain_Mind_Body_Approaches](Pain_Mind_Body_Approaches.md) | 正念/瑜伽/催眠 |
-| ACT治疗 | [02-Mind-Psychology/therapy/act-therapy/](../../../../02-Mind-Psychology/therapy/act-therapy/) | ACT理论与实践 |
-| CBT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral-therapy/](../../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) | CBT理论 |
-| MBSR | [02-Mind-Psychology/meditation/mbsr-program/](../../../../02-Mind-Psychology/meditation/mbsr-program/) | 正念减压 |
+| ACT治疗 | [02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | ACT理论与实践 |
+| CBT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) | CBT理论 |
+| MBSR | [02-Mind-Psychology/meditation/mbsr-program/](../../../02-Mind-Psychology/meditation/mbsr-program/) | 正念减压 |

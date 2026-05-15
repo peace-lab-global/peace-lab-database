@@ -22,7 +22,7 @@
 
 8. [MBSR正念减压课程](../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md)
 9. [MBCT正念认知疗法](../../02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md)
-10. [佛教止观双运](../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md)
+10. [佛教止观双运](../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
 11. [呼吸法与生物干预](../../03-Bio-Science/biology/breathwork/)
 12. [频率疗愈 (396Hz 恐惧释放)](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
 13. [脑波 Alpha 引导与焦虑](../../02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md)
@@ -35,4 +35,4 @@
 18. [稳定内核建设](../../05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

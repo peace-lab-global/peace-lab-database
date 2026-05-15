@@ -34,4 +34,4 @@
 16. [职业规划与Ikigai](../../05-Praxis-Growth/personal-development/career-planning/Career_Ikigai.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

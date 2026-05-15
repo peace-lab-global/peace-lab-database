@@ -57,7 +57,7 @@
 ## 相关交叉引用
 
 - **原始来源**：[Daily_Advanced_Practices.md](../practice/Daily_Advanced_Practices.md) - 步行锻炼与心理健康专题
-- **正念与冥想**：[冥想专题](../../meditation/) | [正念专题](../mindfulness/)
+- **正念与冥想**：[冥想专题](../../../01-Wisdom-Traditions/religions/buddhism/meditation/) | [正念专题](../mindfulness/)
 - **心理健康**：[心理学专题](../../../02-Mind-Psychology/psychology/)
 - **运动疗法**：[太极专题](../../../01-Wisdom-Traditions/tai-chi/) | [瑜伽专题](../../../01-Wisdom-Traditions/yoga/)
 

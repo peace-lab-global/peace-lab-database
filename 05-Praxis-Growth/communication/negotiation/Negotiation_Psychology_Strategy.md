@@ -154,6 +154,6 @@
 |---------|------|--------|
 | 谈判实战练习 | [Negotiation_Practice](Negotiation_Practice.md) | 场景模拟与案例 |
 | 沟通技巧 | [05-Praxis-Growth/communication/](../../communication/) | 沟通基础能力 |
-| 决策框架 | [05-Praxis-Growth/personal-development/decision-making/](../personal-development/decision-making/) | 认知偏差与决策 |
-| 社交资本 | [05-Praxis-Growth/personal-development/social-capital/](../personal-development/social-capital/) | 关系与权力 |
-| 冲突解决 | [02-Mind-Psychology/relationships/](../../02-Mind-Psychology/relationships/) | 关系中的谈判 |
+| 决策框架 | [05-Praxis-Growth/personal-development/decision-making/](../../personal-development/decision-making/) | 认知偏差与决策 |
+| 社交资本 | [05-Praxis-Growth/personal-development/social-capital/](../../personal-development/social-capital/) | 关系与权力 |
+| 冲突解决 | [02-Mind-Psychology/relationships/](../../../02-Mind-Psychology/relationships/) | 关系中的谈判 |

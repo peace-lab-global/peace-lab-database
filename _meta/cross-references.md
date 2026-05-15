@@ -160,12 +160,12 @@
 | psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 存在真空干预与向死而生深度整合 |
 | psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 存在真空与西方死亡哲学经典 |
 | 03-Bio-Science/death/Death_NDE_Near_Death_Experience.md | 02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md | 濒死体验研究与藏传佛教临终意识 |
-| 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md | 跨传统死亡观与佛教核心教义 |
+| 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md | 跨传统死亡观与佛教核心教义 |
 | 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md | 道家死亡观与庄子经典 |
 | 03-Bio-Science/death/Death_Modern_Issues.md | 03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md | 当代死亡议题与衰老长寿科学 |
 | 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 跨文化临终仪式与哀伤文化灵性维度 |
 | 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 04-Humanities-Arts/literature/therapy/ | 跨文化死亡叙事与文学疗愈 |
-| 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 01-Wisdom-Traditions/religions/buddhism/Buddhism_Core_Overview.md | 天葬/中阴仪式与藏传佛教核心 |
+| 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md | 天葬/中阴仪式与藏传佛教核心 |
 | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 05-Praxis-Growth/personal-development/topics/Personal_Development_Book_Reviews.md | 西方死亡哲学经典与书评体系 |
 | 03-Bio-Science/death/Death_Modern_Applications.md | 05-Praxis-Growth/personal-development/topics/Personal_Development_Book_Reviews.md | 现代死亡应用与自助成长资源 |
 | 03-Bio-Science/death/Death_Grief_Technology.md | 02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md | 数字哀伤科技与丧恸干预 |
@@ -402,4 +402,4 @@
 *最近更新: 2026-05-06*
 *最近更新: 2026-05-06*
 *最近更新: 2026-05-06*
-*返回根目录 [README.md](../README.md)*
+*返回根目录 [README.md](./)*

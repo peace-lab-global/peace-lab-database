@@ -72,11 +72,11 @@
 - [Loneliness Fidelity Checklist](visualization/Loneliness_Fidelity_Checklist.md) - 干预Fidelity检查清单（105项） **[NEW]**
 - [Loneliness Group Therapy Manual](visualization/Loneliness_Group_Therapy_Manual.md) - 孤独干预团体带领者手册（11章完整操作指南） **[NEW]**
 - [Loneliness Chronic Disease Integration](visualization/Loneliness_Chronic_Disease_Integration.md) - 孤独与慢病管理整合方案（心血管/糖尿病/痴呆/疼痛） **[NEW]**
-- [Daily Check-In](visualization/Daily_Check_In.html) - 每日1分钟状态追踪器（交互式/本地存储/趋势图） **[NEW]**
-- [Loneliness-Solitude Intervention Protocol](visualization/Loneliness_Solitude_Intervention_Protocol.md) - 联合干预12周实操方案（建立/连接/深化/整合四阶段） **[NEW]**
-- [Loneliness-Solitude Case Vignettes](visualization/Loneliness_Solitude_Case_Vignettes.md) - 10个临床案例vignette库（青少年/老年/婚内/跨文化/医护/LGBTQ+/慢病/高管/团体/复发） **[NEW]**
-- [Academic Presentation Template](visualization/Academic_Presentation_Template.md) - 学术汇报PPT模板（15页/4种受众适配/配色方案） **[NEW]**
-- [Peace Lab Cross-Module Connections](visualization/Peace_Lab_Cross_Module_Connections.md) - 跨模块连接文档（中医情志/瑜伽Pratyahara/个人成长/冥想/文学/哲学/生物学） **[NEW]**
+- [Daily Check-In](../visualization/Daily_Check_In.html) - 每日1分钟状态追踪器（交互式/本地存储/趋势图） **[NEW]**
+- [Loneliness-Solitude Intervention Protocol](../visualization/Loneliness_Solitude_Intervention_Protocol.md) - 联合干预12周实操方案（建立/连接/深化/整合四阶段） **[NEW]**
+- [Loneliness-Solitude Case Vignettes](../visualization/Loneliness_Solitude_Case_Vignettes.md) - 10个临床案例vignette库（青少年/老年/婚内/跨文化/医护/LGBTQ+/慢病/高管/团体/复发） **[NEW]**
+- [Academic Presentation Template](../visualization/Academic_Presentation_Template.md) - 学术汇报PPT模板（15页/4种受众适配/配色方案） **[NEW]**
+- [Peace Lab Cross-Module Connections](../visualization/Peace_Lab_Cross_Module_Connections.md) - 跨模块连接文档（中医情志/瑜伽Pratyahara/个人成长/冥想/文学/哲学/生物学） **[NEW]**
 
 ---
 

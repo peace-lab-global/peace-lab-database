@@ -875,7 +875,7 @@
 | 危机干预方案 | [../safety/Meditation_Crisis_Protocol.md](../safety/Meditation_Crisis_Protocol.md) | 冥想相关心理危机处理 |
 | 创伤知情冥想 | [../safety/Meditation_Trauma_Sensitive.md](../safety/Meditation_Trauma_Sensitive.md) | 创伤幸存者安全练习指南 |
 | 引导词脚本 | [../guided-scripts/INDEX.md](../guided-scripts/INDEX.md) | 标准化冥想引导词 |
-| 正念行走 | [../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md](../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 动态冥想的完整理论与实践 |
+| 正念行走 | [../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md](../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 动态冥想的完整理论与实践 |
 
 ---
 

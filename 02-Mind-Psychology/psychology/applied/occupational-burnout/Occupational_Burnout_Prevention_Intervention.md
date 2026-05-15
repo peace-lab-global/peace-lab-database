@@ -149,7 +149,7 @@
 | **喜 (Mudita)** | Muditā | 对治犬儒主义和对他人成功的冷漠 | 随喜他人的成就和快乐 |
 | **舍 (Upekkha)** | Upekkhā | 对治过度卷入和边界模糊 | 培养平等心，接受无法控制的事 |
 
-> **交叉引用**：详见 [佛教四无量心](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md)
+> **交叉引用**：详见 [佛教四无量心](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md)
 
 ---
 
@@ -191,11 +191,11 @@
 | 认知行为疗法 | [CBT](../../../therapy/cognitive-behavioral-therapy/) | CBT的详细技术和应用 |
 | 接纳承诺疗法 | [ACT](../../../therapy/act-therapy/) | ACT的理论与实践 |
 | 慈悲焦点疗法 | [CFT](../../../therapy/compassion-focused-therapy/) | 自我关怀和慈悲训练 |
-| 佛教四无量心 | [Four Immeasurables](../../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Four_Immeasurables.md) | 同情疲劳的传统转化 |
+| 佛教四无量心 | [Four Immeasurables](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 同情疲劳的传统转化 |
 | 瑜伽 | [Yoga](../../../../01-Wisdom-Traditions/yoga/) | 瑜伽在身心健康中的应用 |
 | 太极 | [Tai Chi](../../../../01-Wisdom-Traditions/tai-chi/) | 太极拳的心理调节机制 |
 | 森林疗法 | [Forest Therapy](../../../therapy/forest-therapy/) | 自然暴露疗法 |
 | 倦怠恢复 | [Recovery](Occupational_Burnout_Recovery_Followup.md) | 治疗后的恢复与随访 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

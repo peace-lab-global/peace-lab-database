@@ -333,11 +333,11 @@ flowchart TB
 |---------|---------|------|--------|
 | 抑郁症概览 | 02-心理 | [Depression Overview](Depression_Overview.md) | 诊断标准、风险因素 |
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 急性期治疗、药物维持 |
-| 正念认知疗法 | 02-心理 | [MBCT](../therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 复发预防核心干预 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为维持策略 |
-| 失眠认知行为治疗 | 02-心理 | [CBT-I](../somatic-body/sleep/Sleep_CBTI.md) | 睡眠残留症状干预 |
-| 慢性压力干预 | 02-心理 | [Chronic Stress](../stress-hpa/chronic-stress/) | 应激管理 |
-| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动维持方案 |
-| 心理神经免疫学 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症与复发 |
-| 职业倦怠 | 02-心理 | [Burnout](../applied/occupational-burnout/) | 职场压力与抑郁复发 |
+| 正念认知疗法 | 02-心理 | [MBCT](../../../therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 复发预防核心干预 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为维持策略 |
+| 失眠认知行为治疗 | 02-心理 | [CBT-I](../../somatic-body/sleep/Sleep_CBTI.md) | 睡眠残留症状干预 |
+| 慢性压力干预 | 02-心理 | [Chronic Stress](../../stress-hpa/chronic-stress/) | 应激管理 |
+| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动维持方案 |
+| 心理神经免疫学 | 03-生命 | [PNI](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症与复发 |
+| 职业倦怠 | 02-心理 | [Burnout](../../../meditation/clinical-conditions/occupational-burnout/) | 职场压力与抑郁复发 |
 | 社会节奏疗法 | 02-心理 | [Social Rhythm](Social_Rhythm_Therapy.md) | 节律稳定 |

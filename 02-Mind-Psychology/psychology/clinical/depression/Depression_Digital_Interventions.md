@@ -238,5 +238,5 @@
 | 早期预警信号 | 02-心理 | [Early Warning Signals](Depression_Early_Warning_Signals.md) | 数字监测工具 |
 | 青少年抑郁 | 02-心理 | [Adolescent Depression](adolescent-depression/Adolescent_Depression.md) | 青少年数字干预 |
 | 焦虑数字化自助 | 02-心理 | [Anxiety Digital Self-Help](../anxiety/Anxiety_Digital_Self_Help.md) | 跨诊断数字干预 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 正念App |
-| 睡眠CBT-I | 02-心理 | [CBT-I](../somatic-body/sleep/) | 睡眠数字化干预 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 正念App |
+| 睡眠CBT-I | 02-心理 | [CBT-I](../../somatic-body/sleep/) | 睡眠数字化干预 |

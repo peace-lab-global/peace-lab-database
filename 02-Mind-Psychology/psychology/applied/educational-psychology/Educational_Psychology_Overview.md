@@ -164,6 +164,6 @@
 |---------|------|--------|
 | 教学设计心理 | [Teaching_Design_Psychology](Teaching_Design_Psychology.md) | 认知学徒制与脚手架 |
 | 学生心理健康 | [Student_Mental_Health](Student_Mental_Health.md) | 学业压力与心理支持 |
-| 元学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../05-Praxis-Growth/personal-development/meta-learning/) | 学习策略与刻意练习 |
-| 儿童发展 | [02-Mind-Psychology/psychology/developmental/child-development/](../child-development/) | Piaget/Vygotsky发展理论 |
-| 成长型思维 | [05-Praxis-Growth/personal-development/](../../../05-Praxis-Growth/personal-development/) | 成长型思维训练 |
+| 元学习 | [05-Praxis-Growth/personal-development/meta-learning/](../../../../05-Praxis-Growth/personal-development/meta-learning/) | 学习策略与刻意练习 |
+| 儿童发展 | [02-Mind-Psychology/psychology/developmental/child-development/](../../developmental/child-development/) | Piaget/Vygotsky发展理论 |
+| 成长型思维 | [05-Praxis-Growth/personal-development/](../../../../05-Praxis-Growth/personal-development/) | 成长型思维训练 |

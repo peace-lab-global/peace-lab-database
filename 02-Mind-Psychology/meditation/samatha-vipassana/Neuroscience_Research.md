@@ -312,7 +312,7 @@
 | 现代心理学整合 | [Modern_Psychology_Integration.md](./Modern_Psychology_Integration.md) | 临床应用 |
 | 冥想神经科学机制 | [Meditation_Neuroscience_Mechanisms.md](../overview/Meditation_Neuroscience_Mechanisms.md) | 冥想通用神经科学 |
 | 冥想临床应用 | [Meditation_Clinical_Applications.md](../overview/Meditation_Clinical_Applications.md) | 临床应用概览 |
-| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | 表7.1-7.3 |
+| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 表7.1-7.3 |
 | 冥想脑科学基础 | [Meditation_Brain_Science_Foundations.md](../overview/Meditation_Brain_Science_Foundations.md) | 脑科学基础 |
 
 ---

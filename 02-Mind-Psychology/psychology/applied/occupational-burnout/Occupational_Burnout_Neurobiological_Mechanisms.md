@@ -212,9 +212,9 @@ HPA轴失调 + 交感神经过度激活
 |---|---|---|
 | 慢性压力 | [Chronic Stress](../../stress-hpa/chronic-stress/) | HPA轴与皮质醇的基础机制 |
 | 皮质醇研究 | [Cortisol](../../stress-hpa/cortisol/) | 皮质醇节律的详细解析 |
-| 脑科学 | [Brain](../../../biology/brain/) | 脑结构与功能的深度研究 |
+| 脑科学 | [Brain](../../foundations/brain/) | 脑结构与功能的深度研究 |
 | 倦怠认知影响 | [Cognitive Impact](Occupational_Burnout_Cognitive_Impact.md) | 认知功能退化的专题分析 |
 | 倦怠评估诊断 | [Assessment](Occupational_Burnout_Assessment_Diagnosis.md) | 生物标志物在评估中的应用 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

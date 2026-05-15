@@ -38,7 +38,7 @@
   - [钢琴家](musician/pianists/) - 阿格里奇、王羽佳、特里福诺夫、基辛、列维特、格里莫、艾克斯、赵成珍、拉纳、格罗夫纳
 
 ### 7. 精选歌单 (Playlists)
-- [歌单导航](musician/playlists/README.md)
+- [歌单导航](musician/playlists/)
   - [夜深孤独聆听指南](musician/playlists/Late_Night_Solitude.md) — 肖邦·舒伯特·拉赫玛尼诺夫·贝多芬，深夜独处的古典音乐陪伴
 
 ### 8. 跨支柱关联：声音频率疗愈 (Cross-Pillar: Sound Frequency Therapy)

@@ -157,7 +157,7 @@
 | 关联主题 | 路径 | 关联点 |
 |---------|------|--------|
 | 基督教神秘主义 | [01-Wisdom-Traditions/religions/christianity/](../christianity/) | 基督教卡巴拉传统 |
-| 吠檀多哲学 | [01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/](../../../philosophy/south-asian/india/vedanta/) | 一元论/质点 vs. 质点/梵 |
+| 吠檀多哲学 | [01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/](../../philosophy/south-asian/india/vedanta/) | 一元论/质点 vs. 质点/梵 |
 | 禅宗 | [01-Wisdom-Traditions/religions/zen/](../zen/) | 直指/顿悟 vs. 质点上升 |
-| 荣格心理学 | [02-Mind-Psychology/psychology/](../../02-Mind-Psychology/psychology/) | 原型与质点对应 |
-| 超个人心理学 | [02-Mind-Psychology/psychology/](../../02-Mind-Psychology/psychology/) | 意识阶段与四世界 |
+| 荣格心理学 | [02-Mind-Psychology/psychology/](../../../03-Bio-Science/sexuality/psychology/) | 原型与质点对应 |
+| 超个人心理学 | [02-Mind-Psychology/psychology/](../../../03-Bio-Science/sexuality/psychology/) | 意识阶段与四世界 |

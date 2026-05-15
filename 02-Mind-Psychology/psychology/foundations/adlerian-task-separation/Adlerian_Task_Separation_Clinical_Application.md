@@ -277,4 +277,4 @@
 - **抑郁症** → [Depression](../../clinical/depression/)
 
 ---
-*返回上级 [Foundations](../INDEX.md) | 返回 [Psychology](../../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回上级 [Foundations](../INDEX.md) | 返回 [Psychology](../../INDEX.md) | 返回根目录 [README.md](./)*

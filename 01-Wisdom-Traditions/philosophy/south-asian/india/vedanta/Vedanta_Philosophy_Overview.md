@@ -200,6 +200,6 @@
 |---------|------|--------|
 | 薄伽梵歌 | [Bhagavad_Gita_Study](Bhagavad_Gita_Study.md) | 三瑜伽道的经典来源 |
 | 奥义书 | [Upanishads_Wisdom](Upanishads_Wisdom.md) | 吠檀多的天启经典基础 |
-| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/Yoga_Philosophy](../../yoga/Yoga_Philosophy.md) | 数论-瑜伽与吠檀多的互补 |
-| 佛教中观 | [01-Wisdom-Traditions/religions/buddhism/](../../religions/buddhism/) | 空性与Maya的对话 |
-| 超个人心理学 | [02-Mind-Psychology/psychology/](../../../02-Mind-Psychology/psychology/) | 意识状态与超个人体验 |
+| 瑜伽哲学 | [01-Wisdom-Traditions/yoga/Yoga_Philosophy](../../../../yoga/Yoga_Philosophy.md) | 数论-瑜伽与吠檀多的互补 |
+| 佛教中观 | [01-Wisdom-Traditions/religions/buddhism/](../../../../religions/buddhism/) | 空性与Maya的对话 |
+| 超个人心理学 | [02-Mind-Psychology/psychology/](../../../../../03-Bio-Science/sexuality/psychology/) | 意识状态与超个人体验 |

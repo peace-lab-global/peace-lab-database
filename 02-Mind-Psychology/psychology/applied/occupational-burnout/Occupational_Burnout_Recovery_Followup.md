@@ -239,4 +239,4 @@
 | 职场表达 | [Workplace Expression](../../../../05-Praxis-Growth/personal-development/workplace-expression/) | 复工后的职场沟通 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

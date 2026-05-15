@@ -64,4 +64,4 @@
 24. [宠物丧失与哀伤](../../03-Bio-Science/death/Death_Pet_Loss.md) — 宠物哀伤、安乐死决策 **[NEW]**
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

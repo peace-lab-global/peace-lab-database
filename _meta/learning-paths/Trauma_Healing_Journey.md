@@ -33,4 +33,4 @@
 17. [正念认知疗法 MBCT](../../02-Mind-Psychology/therapy/mbct-therapy/)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

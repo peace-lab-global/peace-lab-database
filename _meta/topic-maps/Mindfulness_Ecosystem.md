@@ -34,7 +34,7 @@ graph TB
 
 | 节点 | 文件位置 | 支柱 |
 |------|---------|------|
-| 佛教止观修法 | `01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md` | 01 |
+| 佛教止观修法 | `01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md` | 01 |
 | MBSR 正念减压 | `02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md` | 02 |
 | MBCT 正念认知疗法 | `02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md` | 02 |
 | 正念核心实践 | `05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md` | 05 |
@@ -57,4 +57,4 @@ graph TB
 - [身心整合路径](../learning-paths/Body_Mind_Integration_Path.md)
 
 ---
-*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

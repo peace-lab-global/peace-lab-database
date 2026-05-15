@@ -176,9 +176,9 @@ LDL胆固醇沉积于内膜下
 | HRV心率变异 | [HRV](Heart_Rate_Variability.md) |
 | 心血管心理学 | [心理学](Cardiovascular_Psychology.md) |
 | 运动营养 | [运动营养](Cardiovascular_Exercise_Nutrition.md) |
-| HPA轴 | [HPA轴](../../hpa-axis/) |
-| 血压管理 | [血压](../../blood-pressure/) |
-| 太极拳 | [太极拳](../../../../01-Wisdom-Traditions/tai-chi/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
+| 血压管理 | [血压](../blood-pressure/) |
+| 太极拳 | [太极拳](../../../01-Wisdom-Traditions/tai-chi/) |
 
 ---
 

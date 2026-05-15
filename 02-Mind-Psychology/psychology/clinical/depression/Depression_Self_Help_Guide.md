@@ -278,9 +278,9 @@ flowchart TD
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 药物与心理治疗 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](Depression_Relapse_Prevention.md) | 长期管理与维持 |
 | 早期预警信号 | 02-心理 | [Early Warning Signals](Depression_Early_Warning_Signals.md) | 症状恶化识别 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为干预理论基础 |
-| 正念认知疗法 | 02-心理 | [MBCT](../therapy/mbct-therapy/) | 正念在抑郁中的应用 |
-| 失眠CBT-I | 02-心理 | [CBT-I](../somatic-body/sleep/) | 睡眠障碍自助干预 |
-| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动抗抑郁机制 |
-| 正念行走 | 05-实践 | [Mindful Walking](../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 正念运动实践 |
-| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md) | 运动处方指南 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为干预理论基础 |
+| 正念认知疗法 | 02-心理 | [MBCT](../../../therapy/mbct-therapy/) | 正念在抑郁中的应用 |
+| 失眠CBT-I | 02-心理 | [CBT-I](../../somatic-body/sleep/) | 睡眠障碍自助干预 |
+| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动抗抑郁机制 |
+| 正念行走 | 05-实践 | [Mindful Walking](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 正念运动实践 |
+| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../../05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md) | 运动处方指南 |

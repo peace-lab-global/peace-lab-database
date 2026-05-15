@@ -417,8 +417,8 @@
 
 | 相关主题 | 链接 | 说明 |
 |---|---|---|
-| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | 止观百科级详表 |
-| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Tiantai_Zhiguan.md) | 天台止观完整体系 |
+| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 止观百科级详表 |
+| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) | 天台止观完整体系 |
 | 内观禅修详解 | [Vipassana_Meditation.md](../vipassana/Vipassana_Meditation.md) | 内观传承与实践 |
 | 禅定体系专项 | [Dhyana_Samadhi_System.md](./Dhyana_Samadhi_System.md) | 禅定跨传承体系 |
 | 历史发展 | [Samatha_Vipassana_History.md](./Samatha_Vipassana_History.md) | 止观历史传承 |

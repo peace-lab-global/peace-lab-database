@@ -232,11 +232,11 @@
 
 ### 相关文档
 
-- [唯识学与八识心王 (Yogācāra Consciousness)](../buddhism/Buddhism_Yogacara_Consciousness.md)
+- [唯识学与八识心王 (Yogācāra Consciousness)](../buddhism/core-philosophy/Buddhism_Yogacara_Consciousness.md)
 - [唯识学与八识心王详论 (Eight Consciousnesses)](../buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md)
 - [王阳明哲学 (Wang Yangming)](../../philosophy/east-asian-philosophy/china/confucianism/WangYangming.md)
 - [三教合一 (Syncretism Three Teachings)](Syncretism_Three_Teachings.md)
-- [佛教核心概论 (Buddhism Core Overview)](../buddhism/Buddhism_Core_Overview.md)
+- [佛教核心概论 (Buddhism Core Overview)](../buddhism/foundations/Buddhism_Core_Overview.md)
 
 ---
 

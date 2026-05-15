@@ -320,9 +320,9 @@ flowchart LR
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](Depression_Relapse_Prevention.md) | 预警响应与干预 |
 | 轻中度抑郁自助 | 02-心理 | [Self-Help Guide](Depression_Self_Help_Guide.md) | 信号出现后的自助策略 |
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 药物与心理治疗 |
-| 正念认知疗法 | 02-心理 | [MBCT](../therapy/mbct-therapy/) | 觉察训练 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为监测 |
-| 失眠CBT-I | 02-心理 | [CBT-I](../somatic-body/sleep/) | 睡眠信号干预 |
-| 职业倦怠 | 02-心理 | [Burnout](../applied/occupational-burnout/) | 职场触发因素 |
-| 慢性压力 | 02-心理 | [Chronic Stress](../stress-hpa/chronic-stress/) | 应激与信号 |
+| 正念认知疗法 | 02-心理 | [MBCT](../../../therapy/mbct-therapy/) | 觉察训练 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../behavioral/anti-procrastination/Behavioral_Activation.md) | 行为监测 |
+| 失眠CBT-I | 02-心理 | [CBT-I](../../somatic-body/sleep/) | 睡眠信号干预 |
+| 职业倦怠 | 02-心理 | [Burnout](../../../meditation/clinical-conditions/occupational-burnout/) | 职场触发因素 |
+| 慢性压力 | 02-心理 | [Chronic Stress](../../stress-hpa/chronic-stress/) | 应激与信号 |
 | 危机评估 | 02-心理 | [Crisis Assessment](../crisis-assessment/) | 自杀风险评估 |

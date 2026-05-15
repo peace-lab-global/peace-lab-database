@@ -226,7 +226,7 @@
 
 ---
 
-> **导航**: [摄影疗愈 INDEX](./INDEX.md) | [人文艺术 INDEX](../../INDEX.md) | [知识库总览](../../../../README.md)
+> **导航**: [摄影疗愈 INDEX](./INDEX.md) | [人文艺术 INDEX](../../INDEX.md) | [知识库总览](./)
 
 ---
 

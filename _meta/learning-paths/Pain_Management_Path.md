@@ -35,4 +35,4 @@
 17. [书法疗愈](../../04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

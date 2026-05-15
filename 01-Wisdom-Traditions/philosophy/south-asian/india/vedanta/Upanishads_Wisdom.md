@@ -150,6 +150,6 @@
 |---------|------|--------|
 | 吠檀多总览 | [Vedanta_Philosophy_Overview](Vedanta_Philosophy_Overview.md) | 三大学派对奥义书的不同诠释 |
 | 薄伽梵歌 | [Bhagavad_Gita_Study](Bhagavad_Gita_Study.md) | 三大经典的第二部 |
-| 佛教止观 | [01-Wisdom-Traditions/religions/buddhism/](../../religions/buddhism/) | 奥义书与佛教的对话 |
-| 道家哲学 | [01-Wisdom-Traditions/religions/dao/](../../religions/dao/) | 梵与道的比较 |
-| 意识研究 | [03-Bio-Science/biology/brain/](../../../03-Bio-Science/biology/brain/) | 四意识状态与神经科学 |
+| 佛教止观 | [01-Wisdom-Traditions/religions/buddhism/](../../../../religions/buddhism/) | 奥义书与佛教的对话 |
+| 道家哲学 | [01-Wisdom-Traditions/religions/dao/](../../../../religions/dao/) | 梵与道的比较 |
+| 意识研究 | [03-Bio-Science/biology/brain/](../../../../../02-Mind-Psychology/psychology/foundations/brain/) | 四意识状态与神经科学 |

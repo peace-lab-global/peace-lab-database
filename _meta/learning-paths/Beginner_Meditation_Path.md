@@ -13,7 +13,7 @@
 ## 阶段二：选择路径（第3-4周）
 
 4. [内观冥想 (Vipassana)](../../02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md)
-5. [佛教止观双运](../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md)
+5. [佛教止观双运](../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
 6. [坛城冥想体系](../../02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md)
 
 ## 阶段三：深化实践（第5-8周）
@@ -28,4 +28,4 @@
 11. [冥想执行师培训问答](../../02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -15,4 +15,4 @@
   - 心理学概述与理论基础、社会文化变迁与历史视角、临床心理学意义
 
 ---
-*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

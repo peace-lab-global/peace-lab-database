@@ -25,7 +25,7 @@
 
 - **`02-Mind-Psychology/meditation/INDEX.md`**: 在"特定传统"表新增 samatha-vipassana/ 条目，"快速导航"添加止观禅定学习路线，文件总数/子目录数更新
 - **`01-Wisdom-Traditions/religions/buddhism/INDEX.md`**: "止观禅修专题"新增止观禅定专项知识库交叉引用（含5个核心文件直达链接）
-- **`01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md`**: 交叉引用表新增8条指向全部新建文件的链接
+- **`01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md`**: 交叉引用表新增8条指向全部新建文件的链接
 
 ### 各文件版本记录
 

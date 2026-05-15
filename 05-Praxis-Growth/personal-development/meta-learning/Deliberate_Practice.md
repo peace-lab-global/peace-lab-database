@@ -196,4 +196,4 @@ K. Anders Ericsson (1993) 通过对音乐家、运动员、棋手等领域专家
 
 ---
 
-*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](../../../README.md)*
+*返回 [元学习 INDEX](INDEX.md) | [05-Praxis INDEX](../../INDEX.md) | [README](./)*

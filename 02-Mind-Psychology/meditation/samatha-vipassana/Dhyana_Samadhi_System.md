@@ -349,9 +349,9 @@
 |---|---|---|
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 止观完整理论体系 |
 | 止观历史发展 | [Samatha_Vipassana_History.md](./Samatha_Vipassana_History.md) | 止观的历史传承脉络 |
-| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | 百科级止观参考表 |
-| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
-| 上座部论典 | [Buddhism_Theravada_Abhidhamma.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Theravada_Abhidhamma.md) | 阿毗达摩禅定理论 |
+| 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 百科级止观参考表 |
+| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
+| 上座部论典 | [Buddhism_Theravada_Abhidhamma.md](../../../01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md) | 阿毗达摩禅定理论 |
 | 神经科学研究 | [Neuroscience_Research.md](./Neuroscience_Research.md) | 禅定的神经科学验证 |
 | 实践指南（初阶） | [Practice_Guide_Beginner.md](./Practice_Guide_Beginner.md) | 初学者禅定实践 |
 

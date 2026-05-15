@@ -126,6 +126,6 @@
 
 ---
 
-> 🔗 **交叉引用**: [自慰心理学概述](Masturbation_Psychology_Overview.md) | [临床心理学意义](Masturbation_Clinical_Psychology.md) | [个体差异与文化因素](../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md) | [心理困扰与应对](../../relationships/masturbation-relationships/Masturbation_Distress_Coping.md)
+> 🔗 **交叉引用**: [自慰心理学概述](Masturbation_Psychology_Overview.md) | [临床心理学意义](Masturbation_Clinical_Psychology.md) | [个体差异与文化因素](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md) | [心理困扰与应对](../../../relationships/masturbation-relationships/Masturbation_Distress_Coping.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回特殊专题索引](../INDEX.md)

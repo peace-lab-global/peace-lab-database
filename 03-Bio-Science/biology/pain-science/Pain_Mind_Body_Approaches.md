@@ -162,7 +162,7 @@
 |---------|------|--------|
 | 疼痛科学总览 | [Pain_Science_Overview](Pain_Science_Overview.md) | 疼痛机制基础 |
 | 心理干预 | [Pain_Psychology_Intervention](Pain_Psychology_Intervention.md) | CBT/ACT |
-| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../../01-Wisdom-Traditions/yoga/Yoga_Therapy.md) | 瑜伽疗法 |
-| 太极拳 | [01-Wisdom-Traditions/tai-chi/](../../../../01-Wisdom-Traditions/tai-chi/) | 太极拳练习 |
-| 推拿 | [03-Bio-Science/biology/tuina/](../../tuina/) | 手法治疗 |
-| 呼吸法 | [03-Bio-Science/biology/breathwork/](../../breathwork/) | 呼吸训练 |
+| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../01-Wisdom-Traditions/yoga/Yoga_Therapy.md) | 瑜伽疗法 |
+| 太极拳 | [01-Wisdom-Traditions/tai-chi/](../../../01-Wisdom-Traditions/tai-chi/) | 太极拳练习 |
+| 推拿 | [03-Bio-Science/biology/tuina/](../tuina/) | 手法治疗 |
+| 呼吸法 | [03-Bio-Science/biology/breathwork/](../breathwork/) | 呼吸训练 |

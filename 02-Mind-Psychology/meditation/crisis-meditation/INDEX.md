@@ -33,8 +33,8 @@
 ## 关联目录
 
 - [../meditation/](../) — 冥想总目录
-- [../psychology/](../psychology/) — 心理学基础
-- [../therapy/](../therapy/) — 治疗与咨询
+- [../psychology/](../../../03-Bio-Science/sexuality/psychology/) — 心理学基础
+- [../therapy/](../../../04-Humanities-Arts/literature/therapy/) — 治疗与咨询
 - [../../../01-Wisdom-Traditions/religions/](../../../01-Wisdom-Traditions/religions/) — 宗教传统中的哀伤智慧
 
 ---

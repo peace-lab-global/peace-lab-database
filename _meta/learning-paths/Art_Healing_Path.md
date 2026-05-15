@@ -36,4 +36,4 @@
 18. [日记核心理论与方法论](../../05-Praxis-Growth/personal-development/journaling/Journaling_Core.md)
 
 ---
-*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](../../README.md)*
+*返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

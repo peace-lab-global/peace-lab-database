@@ -124,7 +124,7 @@
 | 分类 | 链接 |
 |------|------|
 | 作曲家档案 | [Chopin](../composers/Chopin.md) · [Schubert](../composers/Schubert.md) · [Rachmaninoff](../composers/Rachmaninoff.md) · [Beethoven](../composers/Beethoven.md) |
-| 歌单目录 | [Playlists README](README.md) |
+| 歌单目录 | [Playlists README]() |
 
 ---
 

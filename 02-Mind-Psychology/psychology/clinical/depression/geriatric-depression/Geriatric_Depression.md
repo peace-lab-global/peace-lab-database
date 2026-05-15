@@ -254,8 +254,8 @@
 | 难治性抑郁 | 02-心理 | [TRD](../Depression_Treatment_Resistant.md) | 老年TRD |
 | 睡眠共病 | 02-心理 | [Sleep Comorbidity](../Depression_Sleep_Comorbidity.md) | 老年睡眠障碍 |
 | 营养干预 | 02-心理 | [Nutritional Interventions](../Depression_Nutritional_Interventions.md) | 老年营养 |
-| 老年心理 | 02-心理 | [Aging Psychology](../../developmental/aging-psychology/) | 发展视角 |
-| 认知下降预防 | 03-生命 | [Cognitive Aging Prevention](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) | 抑郁与痴呆 |
-| 疼痛科学 | 03-生命 | [Pain Science](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 慢性疼痛共病 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../crisis-assessment/) | 老年自杀预防 |
-| 运动与衰老 | 03-生命 | [Exercise Science](../../../03-Bio-Science/biology/exercise-science/) | 老年运动处方 |
+| 老年心理 | 02-心理 | [Aging Psychology](../../../developmental/aging-psychology/) | 发展视角 |
+| 认知下降预防 | 03-生命 | [Cognitive Aging Prevention](../../../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) | 抑郁与痴呆 |
+| 疼痛科学 | 03-生命 | [Pain Science](../../../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 慢性疼痛共病 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../../crisis-assessment/) | 老年自杀预防 |
+| 运动与衰老 | 03-生命 | [Exercise Science](../../../../../03-Bio-Science/biology/exercise-science/) | 老年运动处方 |

@@ -31,10 +31,10 @@
 | [📖 分类法与架构说明](TAXONOMY.md) | 五大支柱的分类原则与决策树 |
 | [📝 贡献指南](CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
 | [🔤 全局术语表](GLOSSARY.md) | 核心术语中英文映射 |
-| [🗺️ 学习路径](_meta/learning-paths/) | 主题化的推荐阅读路线 |
-| [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
-| [🔧 工具与脚本](Tools/tools/README.md) | 质量检查、链接验证等自动化工具 |
-| [🌐 Web 站点](Web/index.html) | 在线浏览版本 |
+| 🗺️ 学习路径 | 主题化的推荐阅读路线 |
+| 🔗 交叉引用索引 | 跨支柱关联内容 |
+| 🔧 工具与脚本 | 质量检查、链接验证等自动化工具 |
+| 🌐 Web 站点 | 在线浏览版本 |
 | [🤖 Agent Skills 智能体技能](02-Mind-Psychology/psychology/stress-hpa/skills/) | 压力与HPA轴调节智能体技能模块 |
 
 ---
@@ -115,7 +115,7 @@ Agent Skills 遵循以下设计原则：
 
 ## 最近更新 (Recent Updates)
 
-> 完整更新记录请查看 **[CHANGELOG](Tools/CHANGELOG.md)**
+> 完整更新记录请查看 **CHANGELOG**
 
 ---
 *本项目由 Peace Lab Global 维护，旨在为现代人提供多维度的认知工具与身心解决方案。*

@@ -33,7 +33,7 @@
 ## 关联目录
 
 - [../INDEX.md](../INDEX.md) — 冥想总目录
-- [../mindfulness/](../mindfulness/) — 正念冥想基础理论与方法
+- [../mindfulness/](../../../05-Praxis-Growth/personal-development/mindfulness/) — 正念冥想基础理论与方法
 - [../pranayama-breath/](../pranayama-breath/) — 呼吸调控技术与职场快速恢复
 
 ---

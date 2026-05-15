@@ -181,7 +181,7 @@
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 佛教止观双运 | 01-智慧 | [止观](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Samatha_Vipassana.md) | MBSR的佛教源流 |
+| 佛教止观双运 | 01-智慧 | [止观](../../../01-Wisdom-Traditions/religions/buddhism/) | MBSR的佛教源流 |
 | PNI心理神经免疫 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | MBSR对免疫的调节作用 |
 | 正念核心实践 | 05-实践 | [正念实践](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | MBSR与日常正念生活 |
 | 焦虑预防 | 02-心理 | [焦虑预防](../../psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md) | MBSR在焦虑预防中的证据 |

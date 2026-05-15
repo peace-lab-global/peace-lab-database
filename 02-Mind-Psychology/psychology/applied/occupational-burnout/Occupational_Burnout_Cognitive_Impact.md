@@ -194,4 +194,4 @@ Kaplan (1995) 的注意力恢复理论认为，自然环境中的"软迷恋" (so
 | 森林疗法 | [Forest Therapy](../../../therapy/forest-therapy/) | 自然暴露与注意力恢复 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -28,4 +28,4 @@
 - [21天行动方案 (21-Day Action Plan)](21_Day_Action_Plan.md) — 日常训练、习惯养成、效果评估
 
 ---
-*返回上级 [Behavioral](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Behavioral](../INDEX.md) | 返回根目录 [README.md](./)*

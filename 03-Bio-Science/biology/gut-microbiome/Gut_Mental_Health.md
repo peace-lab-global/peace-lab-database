@@ -162,7 +162,7 @@
 | 肠-脑轴 | [肠-脑轴](Gut_Brain_Axis.md) |
 | 饮食干预 | [饮食干预](Gut_Dietary_Interventions.md) |
 | 抑郁治疗 | [心理治疗](../../../02-Mind-Psychology/therapy/) |
-| HPA轴 | [HPA轴](../../hpa-axis/) |
+| HPA轴 | [HPA轴](../hpa-axis/) |
 
 ---
 

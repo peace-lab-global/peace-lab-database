@@ -324,7 +324,7 @@
 |---|---|---|
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 理论框架 |
 | 神经科学研究 | [Neuroscience_Research.md](./Neuroscience_Research.md) | 脑科学证据 |
-| 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../../../01-Wisdom-Traditions/religions/buddhism/Buddhism_Mindfulness_Therapy_Integration.md) | 佛教视角的整合 |
+| 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) | 佛教视角的整合 |
 | 冥想临床应用 | [Meditation_Clinical_Applications.md](../overview/Meditation_Clinical_Applications.md) | 临床应用概览 |
 | MBSR课程 | [mbsr-program/INDEX.md](../mbsr-program/INDEX.md) | MBSR详细课程 |
 | 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应 |

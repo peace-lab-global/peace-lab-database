@@ -45,7 +45,7 @@
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 瑜伽尼德拉/睡眠瑜伽 | 01-智慧传承 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | Yoga Nidra的神经生理学机制 |
-| 声音疗愈 | 02-心理学 | [声音医学](../../therapy/sensory/Sensory_Sound_Medicine.md) | 声音频率引导睡眠脑波 |
-| 呼吸训练 | 03-生命科学 | [呼吸法](../../../03-Bio-Science/biology/breathwork/) | 呼吸调节副交感促进入睡 |
-| 睡眠习惯优化 | 05-实践增长 | [睡眠优化路径](../../../_meta/learning-paths/Sleep_Optimization_Path.md) | 实践层面的睡眠改善路径 |
+| 瑜伽尼德拉/睡眠瑜伽 | 01-智慧传承 | [瑜伽神经科学](../../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | Yoga Nidra的神经生理学机制 |
+| 声音疗愈 | 02-心理学 | [声音医学](../../../therapy/sensory/Sensory_Sound_Medicine.md) | 声音频率引导睡眠脑波 |
+| 呼吸训练 | 03-生命科学 | [呼吸法](../../../../03-Bio-Science/biology/breathwork/) | 呼吸调节副交感促进入睡 |
+| 睡眠习惯优化 | 05-实践增长 | [睡眠优化路径](../../../../_meta/learning-paths/Sleep_Optimization_Path.md) | 实践层面的睡眠改善路径 |

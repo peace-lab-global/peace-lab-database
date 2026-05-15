@@ -281,4 +281,4 @@
 | 职场表达与应对 | [Workplace Expression](../../../../05-Praxis-Growth/personal-development/workplace-expression/) | 职场沟通与权益维护 |
 
 ---
-*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](../../../../README.md)*
+*返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

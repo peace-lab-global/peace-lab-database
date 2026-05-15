@@ -291,10 +291,10 @@
 | 抑郁症概览 | 02-心理 | [Depression Overview](Depression_Overview.md) | 诊断与理论基础 |
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 综合治疗框架 |
 | 自助指南 | 02-心理 | [Self-Help Guide](Depression_Self_Help_Guide.md) | 患者自助版本 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../behavioral/anti-procrastination/Behavioral_Activation.md) | BA理论基础 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../behavioral/anti-procrastination/Behavioral_Activation.md) | BA理论基础 |
 | 复发预防 | 02-心理 | [Relapse Prevention](Depression_Relapse_Prevention.md) | CBT巩固与复发预防 |
-| 正念认知疗法 | 02-心理 | [MBCT](../therapy/mbct-therapy/) | CBT与正念整合 |
-| 接纳承诺治疗 | 02-心理 | [ACT](../therapy/) | 第三代认知行为疗法 |
-| 失眠CBT-I | 02-心理 | [CBT-I](../somatic-body/sleep/) | 特定问题CBT |
-| 辩证行为治疗 | 02-心理 | [DBT](../therapy/) | 情绪调节与痛苦耐受 |
-| 图式治疗 | 02-心理 | [Schema Therapy](../therapy/) | 核心信念深度工作 |
+| 正念认知疗法 | 02-心理 | [MBCT](../../../therapy/mbct-therapy/) | CBT与正念整合 |
+| 接纳承诺治疗 | 02-心理 | [ACT](../../../../04-Humanities-Arts/literature/therapy/) | 第三代认知行为疗法 |
+| 失眠CBT-I | 02-心理 | [CBT-I](../../somatic-body/sleep/) | 特定问题CBT |
+| 辩证行为治疗 | 02-心理 | [DBT](../../../../04-Humanities-Arts/literature/therapy/) | 情绪调节与痛苦耐受 |
+| 图式治疗 | 02-心理 | [Schema Therapy](../../../../04-Humanities-Arts/literature/therapy/) | 核心信念深度工作 |

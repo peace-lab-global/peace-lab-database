@@ -23,4 +23,4 @@
 - [日常训练方案 (Daily Practice)](Daily_Training_Protocol.md) — 循序渐进练习、习惯养成、效果评估
 
 ---
-*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](./)*

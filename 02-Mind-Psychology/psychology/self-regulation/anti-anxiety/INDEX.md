@@ -28,4 +28,4 @@
 - [日常训练方案 (Daily Protocol)](Daily_Training_Protocol_Anxiety.md) — 4-8-12周训练计划、习惯养成
 
 ---
-*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](../../../README.md)*
+*返回上级 [Self-Regulation](../INDEX.md) | 返回根目录 [README.md](./)*

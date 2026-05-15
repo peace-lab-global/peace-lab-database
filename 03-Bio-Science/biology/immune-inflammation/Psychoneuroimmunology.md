@@ -94,7 +94,7 @@ PNI 的三角互动模型:
 ```
 
 > **交叉引用**: HPA轴详细知识参见 → [biology/hpa-axis/](../hpa-axis/)
-> **交叉引用**: 慢性压力参见 → [02-Mind-Psychology/psychology/stress-hpa/](../../../../02-Mind-Psychology/psychology/stress-hpa/)
+> **交叉引用**: 慢性压力参见 → [02-Mind-Psychology/psychology/stress-hpa/](../../../02-Mind-Psychology/psychology/stress-hpa/)
 
 ---
 
@@ -170,7 +170,7 @@ Steve Cole 的 CTRA (Conserved Transcriptional Response to Adversity) 模型：
     └── CD4:CD8 比值优化
 ```
 
-> **交叉引用**: 冥想知识参见 → [02-Mind-Psychology/meditation/](../../../../02-Mind-Psychology/meditation/)
+> **交叉引用**: 冥想知识参见 → [02-Mind-Psychology/meditation/](../../../01-Wisdom-Traditions/religions/buddhism/meditation/)
 
 ---
 

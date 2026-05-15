@@ -287,8 +287,8 @@
 | 抑郁症治疗 | 02-心理 | [Depression Treatment](Depression_Treatment.md) | 药物治疗基础 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](Depression_Relapse_Prevention.md) | TRD后的长期管理 |
 | 早期预警信号 | 02-心理 | [Early Warning Signals](Depression_Early_Warning_Signals.md) | 治疗反应监测 |
-| 心理神经免疫学 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症与TRD |
-| 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md) | 菌群与TRD |
-| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | TRD辅助干预 |
-| 正念认知疗法 | 02-心理 | [MBCT](../therapy/mbct-therapy/) | TRD心理治疗 |
+| 心理神经免疫学 | 03-生命 | [PNI](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | 炎症与TRD |
+| 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../../03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md) | 菌群与TRD |
+| 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | TRD辅助干预 |
+| 正念认知疗法 | 02-心理 | [MBCT](../../../therapy/mbct-therapy/) | TRD心理治疗 |
 | 危机评估 | 02-心理 | [Crisis Assessment](../crisis-assessment/) | 高自杀风险TRD |
