@@ -1,3 +1,31 @@
+---
+
+title: "The 7 Habits of Highly Effective People 高效能人士的七个习惯"
+description: "The 7 Habits of Highly Effective People 高效能人士的七个习惯的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["communication", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The 7 Habits of Highly Effective People 高效能人士的七个习惯"
+  - "The 7 Habits of Highly Effective People 高效能人士的七个习惯的核心概念"
+  - "The 7 Habits of Highly Effective People 高效能人士的七个习惯的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # The 7 Habits of Highly Effective People 高效能人士的七个习惯
 
 ## 作者背景 (Author Background)

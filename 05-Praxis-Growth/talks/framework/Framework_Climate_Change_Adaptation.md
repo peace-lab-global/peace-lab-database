@@ -1,3 +1,31 @@
+---
+
+title: "气候变化适应 | Climate Change Adaptation"
+description: "气候变化适应 | Climate Change Adaptation的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "intervention", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是气候变化适应 | Climate Change Adaptation"
+  - "气候变化适应 | Climate Change Adaptation的核心概念"
+  - "气候变化适应 | Climate Change Adaptation的方法与实践"
+trigger_keywords: ["气候变化适应", "act", "assessment", "behavioral", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "sexuality/stress/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/stress/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "sexuality/stress/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "sexuality/stress/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "sexuality/stress/therapy"
+
+---
 # 气候变化适应 | Climate Change Adaptation
 
 > **气候变化适应（Climate Change Adaptation）** 是指人类和自然系统对实际或预期的气候变化及其影响做出的调整过程，旨在减轻危害或利用有利机会。与减缓（Mitigation）不同，适应关注的是如何应对已经发生或不可避免的气候变化后果。本文档系统梳理气候变化适应的核心概念、理论框架、适应策略和实践案例，为气候政策研究者、城市规划者和社区工作者提供全面的知识参考。

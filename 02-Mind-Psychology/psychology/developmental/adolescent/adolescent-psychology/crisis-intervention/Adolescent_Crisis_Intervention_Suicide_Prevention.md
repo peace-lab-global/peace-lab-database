@@ -1,3 +1,31 @@
+---
+
+title: "青少年危机干预与自杀预防专业指南"
+description: "青少年危机干预与自杀预防专业指南的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Crisis Intervention"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年危机干预与自杀预防专业指南"
+  - "青少年危机干预与自杀预防专业指南的核心概念"
+  - "青少年危机干预与自杀预防专业指南的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "anxiety/communication/depression"
+  - path: "README.md"
+    relation: "anxiety/communication/death"
+
+---
 # 青少年危机干预与自杀预防专业指南
 
 ## ⚠️ 青少年危机风险识别

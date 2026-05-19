@@ -1,3 +1,31 @@
+---
+
+title: "Clinical Casebook in Death Studies (死亡专题临床案例集)"
+description: "Clinical Casebook in Death Studies (死亡专题临床案例集)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "attachment", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Clinical Casebook in Death Studies"
+  - "Clinical Casebook in Death Studies的核心概念"
+  - "Clinical Casebook in Death Studies的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # Clinical Casebook in Death Studies (死亡专题临床案例集)
 
 > *"每一个案例都是理论的血肉。没有案例的理论是骨架，没有理论的案例是混沌。"*

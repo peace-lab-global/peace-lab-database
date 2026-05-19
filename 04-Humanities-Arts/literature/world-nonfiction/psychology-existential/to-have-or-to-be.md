@@ -1,3 +1,31 @@
+---
+
+title: "《占有还是存在》书评"
+description: "《占有还是存在》书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["daoism", "literature", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《占有还是存在》书评"
+  - "《占有还是存在》书评的核心概念"
+  - "《占有还是存在》书评的方法与实践"
+trigger_keywords: ["《占有还是存在》书评", "behavioral", "body", "buddhism", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/daoism/exercise"
+
+---
 # 《占有还是存在》书评
 
 **书名**: To Have or to Be?  

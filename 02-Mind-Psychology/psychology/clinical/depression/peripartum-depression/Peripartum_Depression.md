@@ -1,3 +1,31 @@
+---
+
+title: "Peripartum Depression (围产期抑郁专题)"
+description: "Peripartum Depression (围产期抑郁专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Peripartum Depression"
+tags: ["anxiety", "attachment", "brain", "depression", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Peripartum Depression"
+  - "Peripartum Depression的核心概念"
+  - "Peripartum Depression的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Peripartum Depression (围产期抑郁专题)
 
 > **围产期抑郁 (Peripartum Depression, PPD)**

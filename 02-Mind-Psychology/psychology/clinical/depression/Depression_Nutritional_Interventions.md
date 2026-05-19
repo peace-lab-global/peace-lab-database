@@ -1,3 +1,31 @@
+---
+
+title: "Depression Nutritional Interventions (抑郁症营养干预专题)"
+description: "Depression Nutritional Interventions (抑郁症营养干预专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "cardiovascular", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Depression Nutritional Interventions"
+  - "Depression Nutritional Interventions的核心概念"
+  - "Depression Nutritional Interventions的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+
+---
 # Depression Nutritional Interventions (抑郁症营养干预专题)
 
 > **抑郁症营养干预 (Nutritional Interventions for Depression)**

@@ -1,3 +1,31 @@
+---
+
+title: "《无门关》The Gateless Gate"
+description: "《无门关》The Gateless Gate的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["habits", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《无门关》The Gateless Gate"
+  - "《无门关》The Gateless Gate的核心概念"
+  - "《无门关》The Gateless Gate的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "crisis", "habits"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/meditation/productivity"
+
+---
 # 《无门关》The Gateless Gate
 
 > 无门慧开（Wumen Huikai，1183—1260年）著，南宋临济宗禅师。本书全称《禅宗无门关》，成书于1228年，收录48则公案，每则包含公案本身和慧开的评颂。书名取自禅宗核心见地："无门为法门"——没有门，就是门；无路可走之处，正是大道。慧开晚年被宋理宗召见，问以佛法，答以"无"字，得赐"佛眼禅师"之号。

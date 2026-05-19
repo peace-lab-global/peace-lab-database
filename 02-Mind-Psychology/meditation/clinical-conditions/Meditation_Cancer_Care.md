@@ -1,3 +1,31 @@
+---
+
+title: "正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care"
+description: "正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["anxiety", "brain", "depression", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care"
+  - "正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care的核心概念"
+  - "正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care的方法与实践"
+trigger_keywords: ["正念冥想与癌症护理", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 正念冥想与癌症护理 | Mindfulness Meditation in Cancer Care
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide

@@ -1,3 +1,31 @@
+---
+
+title: "航天技术 | Space Technology"
+description: "航天技术 | Space Technology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["phobia", "讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是航天技术 | Space Technology"
+  - "航天技术 | Space Technology的核心概念"
+  - "航天技术 | Space Technology的方法与实践"
+trigger_keywords: ["航天技术", "adolescent", "philosophy", "phobia", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # 航天技术 | Space Technology
 
 > **航天技术**（Space Technology）代表着人类探索精神的最高成就，从火箭推进到深空探测，从卫星通信到太空定居，不断拓展人类活动的边界。TED平台上关于航天技术的演讲汇集了宇航员、工程师和未来学家的前沿洞见，展示了太空探索如何推动技术创新并改变人类对自身的理解。

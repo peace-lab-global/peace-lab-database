@@ -1,3 +1,31 @@
+---
+
+title: "《死过一次才学会爱》Dying to Be Me"
+description: "《死过一次才学会爱》Dying to Be Me的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["immune", "intervention", "phobia", "spirituality", "stress"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《死过一次才学会爱》Dying to Be Me"
+  - "《死过一次才学会爱》Dying to Be Me的核心概念"
+  - "《死过一次才学会爱》Dying to Be Me的方法与实践"
+trigger_keywords: ["body", "death", "immune", "intervention"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "anxiety/death/immune"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
+    relation: "anxiety/death/immune"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/death/immune"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《死过一次才学会爱》Dying to Be Me
 
 > 安妮塔·穆札尼（Anita Moorjani）著，2012年出版。一位癌症四期、全身长满肿瘤、医生宣布"只剩几小时"的香港女子，经历濒死体验（NDE）后奇迹般康复。她的故事成为全球濒死体验研究中最著名的案例之一。

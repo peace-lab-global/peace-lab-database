@@ -1,3 +1,31 @@
+---
+
+title: "《直接之道》The Direct Path"
+description: "《直接之道》The Direct Path的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《直接之道》The Direct Path"
+  - "《直接之道》The Direct Path的核心概念"
+  - "《直接之道》The Direct Path的方法与实践"
+trigger_keywords: ["body", "brain", "buddhism", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 《直接之道》The Direct Path
 
 > 格雷格·古德（Greg Goode）著，2012年出版。美国哲学家、灵性导师，以将印度不二论（Advaita Vedanta）传统与现代哲学、认知科学对话而闻名。他拥有哲学博士学位，曾在学术界工作，后全身心投入灵性教导。古德的教学特点是极强的**逻辑精确性**——他不诉诸信仰或神秘体验，而是用一步一步的理性分析来引导读者"看见"那个从未被看见的事实：自我（self）只是一个概念构造。《直接之路》是他最著名的著作，被誉为"不二论传统中最清晰、最系统的当代阐述"。

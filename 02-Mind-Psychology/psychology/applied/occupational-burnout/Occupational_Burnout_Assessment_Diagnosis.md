@@ -1,3 +1,31 @@
+---
+
+title: "Occupational Burnout: Assessment & Diagnosis (职场倦怠：评估与诊断)"
+description: "Occupational Burnout: Assessment & Diagnosis (职场倦怠：评估与诊断)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
+tags: ["anxiety", "brain", "cortisol"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Occupational Burnout: Assessment & Diagnosis"
+  - "Occupational Burnout: Assessment & Diagnosis的核心概念"
+  - "Occupational Burnout: Assessment & Diagnosis的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Occupational Burnout: Assessment & Diagnosis (职场倦怠：评估与诊断)
 
 > **测量燃尽的温度 (Measuring the Heat of Burnout)**

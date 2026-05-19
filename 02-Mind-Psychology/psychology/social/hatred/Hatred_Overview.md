@@ -1,3 +1,31 @@
+---
+
+title: "Hatred Psychology Overview (仇恨心理学核心概览)"
+description: "Hatred Psychology Overview (仇恨心理学核心概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
+tags: ["addiction", "brain", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Hatred Psychology Overview"
+  - "Hatred Psychology Overview的核心概念"
+  - "Hatred Psychology Overview的方法与实践"
+trigger_keywords: ["act", "addiction", "assessment", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "buddhism/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "cardiovascular/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "buddhism/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/emotion/neuroscience"
+
+---
 # Hatred Psychology Overview (仇恨心理学核心概览)
 
 > **仇恨心理学 (Psychology of Hatred / Psychologia Odii)**

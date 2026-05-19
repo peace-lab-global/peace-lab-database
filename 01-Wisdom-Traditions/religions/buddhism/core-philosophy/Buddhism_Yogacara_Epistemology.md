@@ -1,3 +1,31 @@
+---
+
+title: "唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)"
+description: "唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是唯识认识论与因明逻辑"
+  - "唯识认识论与因明逻辑的核心概念"
+  - "唯识认识论与因明逻辑的方法与实践"
+trigger_keywords: ["唯识认识论与因明逻辑", "act", "art", "body", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)
 
 > **唯识认识论**：唯识学不光告诉你"心是什么"，还告诉你"你怎么知道你知道的"。陈那和法称两位大师把唯识学的认识论发展成了一套严密的逻辑体系，叫"因明"(Hetuvidyā)。这套东西放到今天来看，和西方分析哲学、认知科学简直是隔空对话。

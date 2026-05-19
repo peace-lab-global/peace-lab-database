@@ -1,3 +1,31 @@
+---
+
+title: "Vibrational Instruments (专项振动乐器：钵/锣)"
+description: "Vibrational Instruments (专项振动乐器：钵/锣)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "brain", "healing", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Vibrational Instruments"
+  - "Vibrational Instruments的核心概念"
+  - "Vibrational Instruments的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Techniques_Media.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Vibrational Instruments (专项振动乐器：钵/锣)
 
 ### Singing Bowls: Composition & Resonance (佛音钵：材质、频率与能量映射表)

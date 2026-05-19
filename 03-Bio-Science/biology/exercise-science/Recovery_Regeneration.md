@@ -1,3 +1,31 @@
+---
+
+title: "运动恢复与再生 (Recovery & Regeneration)"
+description: "运动恢复与再生 (Recovery & Regeneration)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 运动科学"
+tags: ["cardiovascular", "cortisol", "death", "exercise", "nutrition", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是运动恢复与再生"
+  - "运动恢复与再生的核心概念"
+  - "运动恢复与再生的方法与实践"
+trigger_keywords: ["运动恢复与再生", "act", "assessment", "breathwork", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "cardiovascular/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "emotion/exercise/immune"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "cardiovascular/emotion/exercise"
+  - path: "README.md"
+    relation: "cardiovascular/death/emotion"
+
+---
 # 运动恢复与再生 (Recovery & Regeneration)
 
 > **领域定位**: 03-Bio-Science / biology / exercise-science

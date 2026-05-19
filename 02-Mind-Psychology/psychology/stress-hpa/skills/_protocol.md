@@ -1,3 +1,31 @@
+---
+
+title: "Stress & HPA Axis Agent Skills — 技能协议"
+description: "Stress & HPA Axis Agent Skills — 技能协议的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Skills"
+tags: ["anxiety", "brain", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stress & HPA Axis Agent Skills — 技能协议"
+  - "Stress & HPA Axis Agent Skills — 技能协议的核心概念"
+  - "Stress & HPA Axis Agent Skills — 技能协议的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # Stress & HPA Axis Agent Skills — 技能协议
 
 > 本协议定义智能体如何正确调用本模块下的各项技能，包括准入判断、会话状态管理、技能链编排和输出规范。

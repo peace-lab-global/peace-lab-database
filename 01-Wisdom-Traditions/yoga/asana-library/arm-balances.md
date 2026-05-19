@@ -1,3 +1,31 @@
+---
+
+title: "Arm Balances 手臂平衡体式"
+description: "Arm Balances 手臂平衡体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Arm Balances 手臂平衡体式"
+  - "Arm Balances 手臂平衡体式的核心概念"
+  - "Arm Balances 手臂平衡体式的方法与实践"
+trigger_keywords: ["body", "瑜伽"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/yoga"
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "exercise/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/yoga"
+
+---
 # Arm Balances 手臂平衡体式
 
 ## 核心手臂平衡体式详表

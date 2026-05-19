@@ -1,3 +1,31 @@
+---
+
+title: "Delusional Disorder Self-Assessment & Screening (偏执性精神病评估与筛查指南)"
+description: "Delusional Disorder Self-Assessment & Screening (偏执性精神病评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Delusional Disorder"
+tags: ["anxiety", "depression", "personality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Delusional Disorder Self-Assessment & Screening"
+  - "Delusional Disorder Self-Assessment & Screening的核心概念"
+  - "Delusional Disorder Self-Assessment & Screening的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Clinical_Assessment_Intervention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Delusional Disorder Self-Assessment & Screening (偏执性精神病评估与筛查指南)
 
 > **偏执性精神病评估与筛查 (Delusional Disorder Assessment & Screening)**

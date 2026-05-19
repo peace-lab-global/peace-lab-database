@@ -1,3 +1,31 @@
+---
+
+title: "《文子》Wen-tzu"
+description: "《文子》Wen-tzu的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "intervention", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《文子》Wen-tzu"
+  - "《文子》Wen-tzu的核心概念"
+  - "《文子》Wen-tzu的方法与实践"
+trigger_keywords: ["daoism", "death", "intervention", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/daoism/death"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/daoism/death"
+  - path: "README.md"
+    relation: "art_therapy/daoism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "daoism/death/sexuality"
+
+---
 # 《文子》Wen-tzu
 
 > 文子著，约公元前4世纪。道家经典，传统上被认为是老子的弟子文子所著。全书以问答形式展开，文子向老子问道，老子作答。内容涵盖政治、伦理、军事、养生等多个方面，是"老子思想的应用手册"。

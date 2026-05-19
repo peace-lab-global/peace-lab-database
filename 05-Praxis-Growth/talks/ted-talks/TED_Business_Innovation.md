@@ -1,3 +1,31 @@
+---
+
+title: "TED商业与创新精选 | TED Business & Innovation Collection"
+description: "TED商业与创新精选 | TED Business & Innovation Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["leadership", "讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是TED商业与创新精选 | TED Business & Innovation Collection"
+  - "TED商业与创新精选 | TED Business & Innovation Collection的核心概念"
+  - "TED商业与创新精选 | TED Business & Innovation Collection的方法与实践"
+trigger_keywords: ["TED商业与创新精选", "act", "body", "developmental", "leadership"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/therapy"
+
+---
 # TED商业与创新精选 | TED Business & Innovation Collection
 
 > **商业与创新**是推动社会进步的重要动力。本文件精选TED平台上关于创业精神、领导力发展、经济学思维和商业策略的优质演讲，为关注商业发展的学习者提供前沿洞察和实用指导。

@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教加行仪轨 (Tibetan Ngondro Rituals)"
+description: "藏传佛教加行仪轨 (Tibetan Ngondro Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "resilience", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教加行仪轨"
+  - "藏传佛教加行仪轨的核心概念"
+  - "藏传佛教加行仪轨的方法与实践"
+trigger_keywords: ["藏传佛教加行仪轨", "behavioral", "body", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Ram_Dass.md"
+    relation: "buddhism/death/sexuality"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 藏传佛教加行仪轨 (Tibetan Ngondro Rituals)
 
 > **加行 (Ngondro)**：藏传佛教密乘修行的基础功课，意为前行、预备。包含四种或五种基础修持，是进入无上瑜伽密续前必须完成的资粮积累。传统要求各修十万遍以上。

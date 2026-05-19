@@ -1,3 +1,31 @@
+---
+
+title: "《维吉尔之死》The Death of Virgil"
+description: "《维吉尔之死》The Death of Virgil的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《维吉尔之死》The Death of Virgil"
+  - "《维吉尔之死》The Death of Virgil的核心概念"
+  - "《维吉尔之死》The Death of Virgil的方法与实践"
+trigger_keywords: ["art", "body", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《维吉尔之死》The Death of Virgil
 
 > 赫尔曼·布洛赫（Hermann Broch）著，1945年出版。奥地利现代主义大师的最后巨著，讲述了古罗马诗人维吉尔在临终前决定焚毁《埃涅阿斯纪》的心理历程。被誉为20世纪最伟大的德语小说之一，与乔伊斯的《尤利西斯》和普鲁斯特的《追忆似水年华》并列。

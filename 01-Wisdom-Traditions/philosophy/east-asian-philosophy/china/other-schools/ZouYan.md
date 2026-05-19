@@ -1,3 +1,31 @@
+---
+
+title: "邹衍 (Zou Yan)"
+description: "邹衍 (Zou Yan)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是邹衍"
+  - "邹衍的核心概念"
+  - "邹衍的方法与实践"
+trigger_keywords: ["邹衍", "assessment", "cognitive", "crisis", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "exercise/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "exercise/sexuality/trauma"
+
+---
 # 邹衍 (Zou Yan)
 
 ## 核心思想 (Core Ideas)

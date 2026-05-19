@@ -1,3 +1,32 @@
+---
+
+title: "临床园艺治疗 | Clinical Horticultural Therapy"
+description: "临床园艺治疗 | Clinical Horticultural Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是临床园艺治疗 | Clinical Horticultural Therapy"
+  - "临床园艺治疗 | Clinical Horticultural Therapy的核心概念"
+  - "临床园艺治疗 | Clinical Horticultural Therapy的方法与实践"
+  - "临床园艺治疗 | Clinical Horticultural Therapy的循证证据"
+trigger_keywords: ["临床园艺治疗", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 临床园艺治疗 | Clinical Horticultural Therapy
 
 > **学科定位**: 园艺治疗 · 临床应用 · 循证实践

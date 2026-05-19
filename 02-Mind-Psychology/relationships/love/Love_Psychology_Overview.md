@@ -1,3 +1,31 @@
+---
+
+title: "Romantic Love Psychology Overview (恋爱心理学概览)"
+description: "Romantic Love Psychology Overview (恋爱心理学概览)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Love"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Romantic Love Psychology Overview"
+  - "Romantic Love Psychology Overview的核心概念"
+  - "Romantic Love Psychology Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Clinical_Assessment_Intervention.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Romantic Love Psychology Overview (恋爱心理学概览)
 
 ### Core Terminology of Romantic Love (恋爱核心术语总览表)

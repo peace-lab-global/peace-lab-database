@@ -1,3 +1,31 @@
+---
+
+title: "Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)"
+description: "Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Pet Loss & Bereavement: When a Family Member Has Four Legs"
+  - "Pet Loss & Bereavement: When a Family Member Has Four Legs的核心概念"
+  - "Pet Loss & Bereavement: When a Family Member Has Four Legs的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Digital_Age.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)
 
 > *"直到一个人爱上了一只动物，他的灵魂的一部分才会觉醒。"*

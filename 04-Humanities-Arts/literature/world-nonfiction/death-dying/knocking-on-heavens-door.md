@@ -1,3 +1,31 @@
+---
+
+title: "《敲天堂的门》Knocking on Heaven's Door"
+description: "《敲天堂的门》Knocking on Heaven's Door的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["decision-making", "intervention", "nutrition", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《敲天堂的门》Knocking on Heaven's Door"
+  - "《敲天堂的门》Knocking on Heaven's Door的核心概念"
+  - "《敲天堂的门》Knocking on Heaven's Door的方法与实践"
+trigger_keywords: ["aging", "body", "breathwork", "decision-making"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/cardiovascular/death"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
+    relation: "aging/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/art_therapy/death"
+
+---
 # 《敲天堂的门》Knocking on Heaven's Door
 
 > 凯蒂·巴特勒（Katy Butler）著，2013年出版。记者巴特勒记录了自己父母晚年面对美国医疗体系的经历——父亲在78岁时安装了心脏起搏器，本应在数月内去世的他被技术"维持"了六年，期间经历了痴呆、失禁和无尽的痛苦。巴特勒追问：谁有权决定何时停止技术干预？

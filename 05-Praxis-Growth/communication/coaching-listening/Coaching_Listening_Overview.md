@@ -1,3 +1,31 @@
+---
+
+title: "教练式聆听与提问"
+description: "教练式聆听与提问的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > Coaching Listening"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是教练式聆听与提问"
+  - "教练式聆听与提问的核心概念"
+  - "教练式聆听与提问的方法与实践"
+trigger_keywords: ["教练式聆听与提问", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 教练式聆听与提问
 
 ## 核心术语表

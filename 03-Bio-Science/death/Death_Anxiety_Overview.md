@@ -1,3 +1,31 @@
+---
+
+title: "Death Anxiety Overview (死亡焦虑概览)"
+description: "Death Anxiety Overview (死亡焦虑概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "attachment", "death"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Death Anxiety Overview"
+  - "Death Anxiety Overview的核心概念"
+  - "Death Anxiety Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Death Anxiety Overview (死亡焦虑概览)
 
 > **死亡焦虑 (Death Anxiety / Thanatophobia / Mṛtyu-bhaya)**

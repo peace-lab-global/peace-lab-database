@@ -1,3 +1,31 @@
+---
+
+title: "Igor Levit (伊戈尔·列维特) - 深度思考的钢琴哲学家"
+description: "Igor Levit (伊戈尔·列维特) - 深度思考的钢琴哲学家的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
+tags: ["habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Igor Levit  - 深度思考的钢琴哲学家"
+  - "Igor Levit  - 深度思考的钢琴哲学家的核心概念"
+  - "Igor Levit  - 深度思考的钢琴哲学家的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Igor Levit (伊戈尔·列维特) - 深度思考的钢琴哲学家
 
 ## 概述 (Overview)

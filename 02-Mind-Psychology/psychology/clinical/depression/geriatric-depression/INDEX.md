@@ -1,3 +1,32 @@
+---
+
+title: "老年抑郁 (Geriatric Depression) | Index"
+description: "老年抑郁 (Geriatric Depression) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Geriatric Depression"
+tags: ["depression", "intervention", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年抑郁  | Index"
+  - "老年抑郁  | Index的核心概念"
+  - "老年抑郁  | Index的方法与实践"
+  - "老年抑郁  | Index的自助方法"
+trigger_keywords: ["老年抑郁", "Index", "aging", "assessment", "clinical", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/emotion/nutrition"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "depression/emotion/nutrition"
+
+---
 # 老年抑郁 (Geriatric Depression) | Index
 
 > 老年抑郁（60岁以上）是识别率最低、治疗最不充分的抑郁类型。其临床表现不典型，常以躯体症状、认知下降和淡漠为主导，且与多种躯体疾病和药物相互作用交织。

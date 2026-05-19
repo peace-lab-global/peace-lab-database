@@ -1,3 +1,32 @@
+---
+
+title: "森林疗法心理效益专业内容体系"
+description: "森林疗法心理效益专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Forest Therapy"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是森林疗法心理效益专业内容体系"
+  - "森林疗法心理效益专业内容体系的核心概念"
+  - "森林疗法心理效益专业内容体系的方法与实践"
+  - "森林疗法心理效益专业内容体系的循证证据"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/emotion/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 森林疗法心理效益专业内容体系
 
 ## 目录

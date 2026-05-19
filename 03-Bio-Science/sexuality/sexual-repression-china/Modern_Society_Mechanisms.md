@@ -1,3 +1,31 @@
+---
+
+title: "现代社会性压抑表现与机制 (Modern Society Sexual Repression: Manifestations and Mechanisms)"
+description: "现代社会性压抑表现与机制 (Modern Society Sexual Repression: Manifestations and Mechanisms)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是现代社会性压抑表现与机制"
+  - "现代社会性压抑表现与机制的核心概念"
+  - "现代社会性压抑表现与机制的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/daoism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 现代社会性压抑表现与机制 (Modern Society Sexual Repression: Manifestations and Mechanisms)
 
 > 📘 **文档导航**: 本专题系统分析当代中国社会中性压抑的具体表现形式和运行机制。如需了解其他相关内容，请参考：

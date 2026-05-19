@@ -1,3 +1,32 @@
+---
+
+title: "厌男情绪心理学分析 (Misandry Psychology: Causes, Manifestations & Psychological Adjustment)"
+description: "厌男情绪心理学分析 (Misandry Psychology: Causes, Manifestations & Psychological Adjustment)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Gender Dynamics"
+tags: ["anxiety", "attachment", "emdr", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是厌男情绪心理学分析"
+  - "厌男情绪心理学分析的核心概念"
+  - "厌男情绪心理学分析的方法与实践"
+  - "厌男情绪心理学分析的自助方法"
+trigger_keywords: ["厌男情绪心理学分析", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/authority-complex/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 厌男情绪心理学分析 (Misandry Psychology: Causes, Manifestations & Psychological Adjustment)
 
 ## 核心术语与概念界定 (Core Terminology & Conceptual Framework)

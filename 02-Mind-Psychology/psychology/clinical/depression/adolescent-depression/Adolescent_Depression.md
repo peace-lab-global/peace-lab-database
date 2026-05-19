@@ -1,3 +1,31 @@
+---
+
+title: "Adolescent Depression (青少年抑郁专题)"
+description: "Adolescent Depression (青少年抑郁专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Adolescent Depression"
+tags: ["anxiety", "attachment", "brain", "depression", "cbt", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Adolescent Depression"
+  - "Adolescent Depression的核心概念"
+  - "Adolescent Depression的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Adolescent Depression (青少年抑郁专题)
 
 > **青少年抑郁 (Adolescent Depression)**

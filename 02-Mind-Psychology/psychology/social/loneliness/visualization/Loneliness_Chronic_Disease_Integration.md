@@ -1,3 +1,31 @@
+---
+
+title: "孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol"
+description: "孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol"
+  - "孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol的核心概念"
+  - "孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 孤独与慢病管理整合方案 | Loneliness & Chronic Disease Management: Integrated Care Protocol
 
 > **文档类型**：整合医疗方案 | Integrated Care Protocol  

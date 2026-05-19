@@ -1,3 +1,31 @@
+---
+
+title: "种子学说专题 (Seed Theory / Bīja-vāda)"
+description: "种子学说专题 (Seed Theory / Bīja-vāda)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是种子学说专题"
+  - "种子学说专题的核心概念"
+  - "种子学说专题的方法与实践"
+trigger_keywords: ["种子学说专题", "act", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 种子学说专题 (Seed Theory / Bīja-vāda)
 
 > **种子(Bīja)**：唯识学核心概念，指存储于阿赖耶识中的潜在功能，遇缘则生起现行，是业力传递与心理习惯形成的微观机制。

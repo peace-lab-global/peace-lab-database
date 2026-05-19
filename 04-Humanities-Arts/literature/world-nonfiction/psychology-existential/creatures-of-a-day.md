@@ -1,3 +1,31 @@
+---
+
+title: "《一日的生灵》Creatures of a Day"
+description: "《一日的生灵》Creatures of a Day的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["phobia", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《一日的生灵》Creatures of a Day"
+  - "《一日的生灵》Creatures of a Day的核心概念"
+  - "《一日的生灵》Creatures of a Day的方法与实践"
+trigger_keywords: ["aging", "cognitive", "crisis", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/anxiety/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+
+---
 # 《一日的生灵》Creatures of a Day
 
 > 欧文·亚隆（Irvin D. Yalom）著，2015年出版。亚隆晚年的故事集，十个新的治疗案例——每一个都更加直面衰老、死亡和意义的终极问题。书名来自《传道书》："人不过是一日的生灵。"

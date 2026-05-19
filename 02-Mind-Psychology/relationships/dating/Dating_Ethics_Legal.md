@@ -1,3 +1,31 @@
+---
+
+title: "Dating Ethics & Legal Considerations (约会伦理与法律考量)"
+description: "Dating Ethics & Legal Considerations (约会伦理与法律考量)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Ethics & Legal Considerations"
+  - "Dating Ethics & Legal Considerations的核心概念"
+  - "Dating Ethics & Legal Considerations的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/emotion/sexuality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/emotion/sexuality"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "communication/emotion/sexuality"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # Dating Ethics & Legal Considerations (约会伦理与法律考量)
 
 > 📘 **文档导航**: 本指南探讨约会过程中的伦理原则、法律边界和道德责任。相关文档：

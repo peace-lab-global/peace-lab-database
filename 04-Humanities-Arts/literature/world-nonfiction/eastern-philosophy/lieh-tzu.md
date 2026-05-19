@@ -1,3 +1,31 @@
+---
+
+title: "《列子》Lieh-tzu"
+description: "《列子》Lieh-tzu的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《列子》Lieh-tzu"
+  - "《列子》Lieh-tzu的核心概念"
+  - "《列子》Lieh-tzu的方法与实践"
+trigger_keywords: ["daoism", "death", "sexuality", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/daoism/death"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/daoism/death"
+  - path: "README.md"
+    relation: "art_therapy/daoism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "daoism/death/sexuality"
+
+---
 # 《列子》Lieh-tzu
 
 > 列御寇著，约公元前4世纪。道家经典之一，与《老子》《庄子》并称"道家三经"。《列子》以寓言和故事著称，许多著名寓言如"杞人忧天""愚公移山""夸父逐日"都出自此书。

@@ -1,3 +1,32 @@
+---
+
+title: "肠道与心理健康 | Gut & Mental Health"
+description: "肠道与心理健康 | Gut & Mental Health的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 肠道微生物"
+tags: ["brain", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肠道与心理健康 | Gut & Mental Health"
+  - "肠道与心理健康 | Gut & Mental Health的核心概念"
+  - "肠道与心理健康 | Gut & Mental Health的方法与实践"
+  - "肠道与心理健康 | Gut & Mental Health的自助方法"
+trigger_keywords: ["肠道与心理健康", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Gut_Brain_Axis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 肠道与心理健康 | Gut & Mental Health
 
 > **学科定位**: 精神微生物学 · 心身医学 · 营养精神医学

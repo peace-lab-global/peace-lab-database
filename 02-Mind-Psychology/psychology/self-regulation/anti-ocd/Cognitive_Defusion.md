@@ -1,3 +1,31 @@
+---
+
+title: "认知解离技术"
+description: "认知解离技术的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
+tags: ["anxiety", "brain", "immune", "neuroscience", "ocd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是认知解离技术"
+  - "认知解离技术的核心概念"
+  - "认知解离技术的方法与实践"
+trigger_keywords: ["认知解离技术", "anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/journaling/Journaling_Core.md"
+    relation: "anxiety/emotion/immune"
+  - path: "05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md"
+    relation: "anxiety/emotion/immune"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "anxiety/emotion/immune"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 认知解离技术
 
 ## 目录

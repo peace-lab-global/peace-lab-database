@@ -1,3 +1,27 @@
+---
+
+title: "《反俄狄浦斯》Anti-Oedipus"
+description: "《反俄狄浦斯》Anti-Oedipus的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["freud", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《反俄狄浦斯》Anti-Oedipus"
+  - "《反俄狄浦斯》Anti-Oedipus的核心概念"
+  - "《反俄狄浦斯》Anti-Oedipus的方法与实践"
+trigger_keywords: ["body", "freud", "philosophy", "treatment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/cardiovascular"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "art_therapy/cardiovascular"
+  - path: "README.md"
+    relation: "art_therapy/cardiovascular"
+
+---
 # 《反俄狄浦斯》Anti-Oedipus
 
 > 吉尔·德勒兹（Gilles Deleuze）和费利克斯·瓜塔里（Félix Guattari）著，1972年出版。法国哲学家德勒兹和精神分析学家瓜塔里的合作成果，对弗洛伊德的精神分析进行了彻底的解构。核心论点是：**资本主义和精神分析共同制造了一种"欲望的生产"——欲望不是缺乏，而是生产；资本主义和精神分析都在捕获和控制这种生产。**

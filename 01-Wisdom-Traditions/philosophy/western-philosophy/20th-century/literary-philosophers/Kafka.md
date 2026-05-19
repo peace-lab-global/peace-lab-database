@@ -1,3 +1,31 @@
+---
+
+title: "弗朗茨·卡夫卡 (Franz Kafka) - 哲学思想全览"
+description: "弗朗茨·卡夫卡 (Franz Kafka) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是弗朗茨·卡夫卡  - 哲学思想全览"
+  - "弗朗茨·卡夫卡  - 哲学思想全览的核心概念"
+  - "弗朗茨·卡夫卡  - 哲学思想全览的方法与实践"
+trigger_keywords: ["弗朗茨", "aging", "anxiety", "art", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 弗朗茨·卡夫卡 (Franz Kafka) - 哲学思想全览
 
 ## 基本信息

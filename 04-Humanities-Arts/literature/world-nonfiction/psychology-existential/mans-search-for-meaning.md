@@ -1,3 +1,31 @@
+---
+
+title: "《活出生命的意义》Man's Search for Meaning"
+description: "《活出生命的意义》Man's Search for Meaning的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["freud", "resilience"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《活出生命的意义》Man's Search for Meaning"
+  - "《活出生命的意义》Man's Search for Meaning的核心概念"
+  - "《活出生命的意义》Man's Search for Meaning的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "freud"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/neuroscience/sexuality"
+
+---
 # 《活出生命的意义》Man's Search for Meaning
 
 > 维克多·弗兰克尔（Viktor E. Frankl）著，1946年出版。奥地利神经学家、精神病学家，纳粹集中营幸存者。他在奥斯维辛和达豪的经历，以及对极端苦难中人类精神韧性的观察，催生了"意义疗法"（Logotherapy）——与弗洛伊德的精神分析、阿德勒的个体心理学并列的维也纳第三心理治疗学派。

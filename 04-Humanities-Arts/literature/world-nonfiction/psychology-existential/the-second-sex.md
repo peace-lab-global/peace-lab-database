@@ -1,3 +1,31 @@
+---
+
+title: "《第二性》The Second Sex"
+description: "《第二性》The Second Sex的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《第二性》The Second Sex"
+  - "《第二性》The Second Sex的核心概念"
+  - "《第二性》The Second Sex的方法与实践"
+trigger_keywords: ["buddhism", "literature", "philosophy", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/sexuality"
+
+---
 # 《第二性》The Second Sex
 
 > 西蒙·德·波伏娃（Simone de Beauvoir）著，1949年出版。存在主义哲学家、萨特终身伴侣，以存在主义现象学为工具，完成了人类历史上最系统的女性存在论分析。名言"女人不是天生的，而是被塑造的"（One is not born, but rather becomes, a woman）已成为女性主义理论的基石。

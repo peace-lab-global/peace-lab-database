@@ -1,3 +1,31 @@
+---
+
+title: "接地技术 (Grounding Techniques)"
+description: "接地技术 (Grounding Techniques)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Grounding Techniques"
+tags: ["addiction", "anxiety", "emdr"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是接地技术"
+  - "接地技术的核心概念"
+  - "接地技术的方法与实践"
+trigger_keywords: ["接地技术", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 接地技术 (Grounding Techniques)
 
 ## 核心术语表 (Core Terminology)

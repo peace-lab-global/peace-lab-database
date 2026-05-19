@@ -1,3 +1,32 @@
+---
+
+title: "约会心理学专业内容体系建设项目总结报告"
+description: "约会心理学专业内容体系建设项目总结报告的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["intervention", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约会心理学专业内容体系建设项目总结报告"
+  - "约会心理学专业内容体系建设项目总结报告的核心概念"
+  - "约会心理学专业内容体系建设项目总结报告的方法与实践"
+  - "约会心理学专业内容体系建设项目总结报告的自助方法"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
+    relation: "communication/sexuality/stress"
+
+---
 # 约会心理学专业内容体系建设项目总结报告
 
 ## 📋 项目概述

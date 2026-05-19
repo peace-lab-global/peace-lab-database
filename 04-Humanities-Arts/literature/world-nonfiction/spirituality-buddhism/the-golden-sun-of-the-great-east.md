@@ -1,3 +1,31 @@
+---
+
+title: "《大东方的金阳》The Golden Sun of the Great East"
+description: "《大东方的金阳》The Golden Sun of the Great East的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《大东方的金阳》The Golden Sun of the Great East"
+  - "《大东方的金阳》The Golden Sun of the Great East的核心概念"
+  - "《大东方的金阳》The Golden Sun of the Great East的方法与实践"
+trigger_keywords: ["death", "developmental", "sexuality", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《大东方的金阳》The Golden Sun of the Great East
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1999年出版。创巴仁波切关于香巴拉传统的核心教导——东方升起的金阳象征着人类意识的觉醒。不是地理上的东方，而是**心灵觉醒的方向**。

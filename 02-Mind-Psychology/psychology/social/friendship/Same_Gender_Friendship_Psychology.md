@@ -1,3 +1,32 @@
+---
+
+title: "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας"
+description: "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
+tags: ["anxiety", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας"
+  - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的核心概念"
+  - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的方法与实践"
+  - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的自助方法"
+trigger_keywords: ["同性友谊心理学", "act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "anxiety/communication/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/personality"
+
+---
 # 同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας
 
 > **同性友谊**是人类社会中最普遍和重要的人际关系形式之一。本文档系统阐述同性友谊的心理机制、发展规律、功能价值和维护策略，深入探讨同性别朋友间独特的互动模式和情感连接，为理解和培养高质量的同性友谊提供科学指导。

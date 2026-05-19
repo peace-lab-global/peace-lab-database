@@ -1,3 +1,31 @@
+---
+
+title: "古希腊前苏格拉底哲学三方书评"
+description: "古希腊前苏格拉底哲学三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["daoism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是古希腊前苏格拉底哲学三方书评"
+  - "古希腊前苏格拉底哲学三方书评的核心概念"
+  - "古希腊前苏格拉底哲学三方书评的方法与实践"
+trigger_keywords: ["art", "assessment", "body", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
+    relation: "daoism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/baopuzi.md"
+    relation: "daoism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "daoism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-religions-comparative/masks-of-god.md"
+    relation: "daoism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "daoism/exercise/sexuality"
+
+---
 # 古希腊前苏格拉底哲学三方书评
 
 ---

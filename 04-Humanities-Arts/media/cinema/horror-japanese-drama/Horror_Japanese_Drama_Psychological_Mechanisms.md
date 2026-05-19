@@ -1,3 +1,32 @@
+---
+
+title: "恐怖日剧心理机制专业内容体系"
+description: "恐怖日剧心理机制专业内容体系的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Horror Japanese Drama"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是恐怖日剧心理机制专业内容体系"
+  - "恐怖日剧心理机制专业内容体系的核心概念"
+  - "恐怖日剧心理机制专业内容体系的方法与实践"
+  - "恐怖日剧心理机制专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 恐怖日剧心理机制专业内容体系
 
 ## 目录

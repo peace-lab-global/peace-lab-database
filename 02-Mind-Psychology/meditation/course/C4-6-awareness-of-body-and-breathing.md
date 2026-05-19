@@ -1,3 +1,31 @@
+---
+
+title: "C4-6 身体呼吸觉知"
+description: "C4-6 身体呼吸觉知的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-6 身体呼吸觉知"
+  - "C4-6 身体呼吸觉知的核心概念"
+  - "C4-6 身体呼吸觉知的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # C4-6 身体呼吸觉知
 
 📑 智能总结

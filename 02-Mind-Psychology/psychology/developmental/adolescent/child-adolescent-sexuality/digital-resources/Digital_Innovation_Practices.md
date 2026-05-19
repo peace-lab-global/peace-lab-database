@@ -1,3 +1,31 @@
+---
+
+title: "数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)"
+description: "数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Digital Resources"
+tags: ["bci", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字化性教育资源与创新实践"
+  - "数字化性教育资源与创新实践的核心概念"
+  - "数字化性教育资源与创新实践的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "bci"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "neuroscience/productivity/sexuality"
+
+---
 # 数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)
 
 > 💻 **创新定位**: 构建基于数字技术的性教育创新生态系统，融合人工智能、虚拟现实、大数据等前沿技术，为儿童青少年提供个性化、互动性强、可及性高的性教育资源和服务。基于教育技术最新发展趋势和学习科学理论，推动性教育的数字化转型和创新发展。建议结合[特殊群体支持](../special-populations/Special_Populations_Support_System.md)了解差异化需求，参考[课程设计指南](../theory/Curriculum_Design_Implementation_Guide.md)掌握教学实施要求。

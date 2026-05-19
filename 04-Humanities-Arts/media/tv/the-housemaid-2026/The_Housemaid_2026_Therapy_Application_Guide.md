@@ -1,3 +1,32 @@
+---
+
+title: "《女仆》(The Housemaid, 2026) 电影疗法临床应用指南"
+description: "《女仆》(The Housemaid, 2026) 电影疗法临床应用指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Tv > The Housemaid 2026"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《女仆》 电影疗法临床应用指南"
+  - "《女仆》 电影疗法临床应用指南的核心概念"
+  - "《女仆》 电影疗法临床应用指南的方法与实践"
+  - "《女仆》 电影疗法临床应用指南的循证证据"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 《女仆》(The Housemaid, 2026) 电影疗法临床应用指南
 
 ## 摘要

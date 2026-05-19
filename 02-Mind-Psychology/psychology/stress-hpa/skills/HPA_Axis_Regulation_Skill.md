@@ -1,4 +1,5 @@
 ---
+
 skill_id: S_005
 skill_name: HPA轴功能调节
 skill_name_en: HPA Axis Regulation
@@ -31,6 +32,18 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
+cross_refs:
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/body_image/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
+    relation: "anxiety/cardiovascular/depression"
+
 ---
 
 # HPA轴功能调节技能

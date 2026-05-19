@@ -1,3 +1,32 @@
+---
+
+title: "男性心理健康 | Men's Mental Health"
+description: "男性心理健康 | Men's Mental Health的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Mens Health"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是男性心理健康 | Men's Mental Health"
+  - "男性心理健康 | Men's Mental Health的核心概念"
+  - "男性心理健康 | Men's Mental Health的方法与实践"
+  - "男性心理健康 | Men's Mental Health的自助方法"
+trigger_keywords: ["男性心理健康", "addiction", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 男性心理健康 | Men's Mental Health
 
 > **学科定位**: 性别心理学 · 男性心理学 · 临床心理学

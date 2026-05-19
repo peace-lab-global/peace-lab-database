@@ -1,3 +1,31 @@
+---
+
+title: "Tea Core Overview (茶叶核心概览)"
+description: "Tea Core Overview (茶叶核心概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Tea"
+tags: ["brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tea Core Overview"
+  - "Tea Core Overview的核心概念"
+  - "Tea Core Overview的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "anxiety/buddhism/neuroscience"
+
+---
 # Tea Core Overview (茶叶核心概览)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

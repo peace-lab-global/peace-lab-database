@@ -1,3 +1,31 @@
+---
+
+title: "实用哲学经典三方书评"
+description: "实用哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是实用哲学经典三方书评"
+  - "实用哲学经典三方书评的核心概念"
+  - "实用哲学经典三方书评的方法与实践"
+trigger_keywords: ["实用哲学经典三方书评", "anxiety", "art", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "anxiety/death/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/death/emotion"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/death/emotion"
+
+---
 # 实用哲学经典三方书评
 
 ---

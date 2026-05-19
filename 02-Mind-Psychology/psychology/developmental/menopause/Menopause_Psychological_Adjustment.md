@@ -1,3 +1,32 @@
+---
+
+title: "更年期心理调适策略专业内容体系"
+description: "更年期心理调适策略专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Menopause"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是更年期心理调适策略专业内容体系"
+  - "更年期心理调适策略专业内容体系的核心概念"
+  - "更年期心理调适策略专业内容体系的方法与实践"
+  - "更年期心理调适策略专业内容体系的自助方法"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 更年期心理调适策略专业内容体系
 
 ## 目录

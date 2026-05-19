@@ -1,3 +1,31 @@
+---
+
+title: "止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)"
+description: "止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Samatha Vipassana"
+tags: ["anxiety", "brain", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是止观禅修神经科学研究"
+  - "止观禅修神经科学研究的核心概念"
+  - "止观禅修神经科学研究的方法与实践"
+trigger_keywords: ["止观禅修神经科学研究", "act", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)
 
 > **止观禅修的神经科学** 自1990年代以来迅速发展，利用fMRI、EEG、DTI等脑成像技术揭示了禅修如何改变大脑的功能与结构。本文系统梳理该领域的核心发现、研究方法论与前沿方向。

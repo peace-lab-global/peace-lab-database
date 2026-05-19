@@ -1,3 +1,31 @@
+---
+
+title: "《神圣与世俗》The Sacred and the Profane"
+description: "《神圣与世俗》The Sacred and the Profane的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["cinema", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《神圣与世俗》The Sacred and the Profane"
+  - "《神圣与世俗》The Sacred and the Profane的核心概念"
+  - "《神圣与世俗》The Sacred and the Profane的方法与实践"
+trigger_keywords: ["act", "art", "behavioral", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "buddhism/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/emotion"
+
+---
 # 《神圣与世俗》The Sacred and the Profane
 
 **作者：** 米尔恰·伊利亚德 (Mircea Eliade)  

@@ -1,3 +1,31 @@
+---
+
+title: "《鼠疫》The Plague"
+description: "《鼠疫》The Plague的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《鼠疫》The Plague"
+  - "《鼠疫》The Plague的核心概念"
+  - "《鼠疫》The Plague的方法与实践"
+trigger_keywords: ["art", "death", "developmental", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "communication/death/depression"
+
+---
 # 《鼠疫》The Plague
 
 **作者**：阿尔贝·加缪 (Albert Camus)  

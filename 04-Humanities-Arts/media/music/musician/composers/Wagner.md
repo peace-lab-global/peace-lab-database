@@ -1,3 +1,31 @@
+---
+
+title: "Wagner (瓦格纳)：歌剧革新的先驱"
+description: "Wagner (瓦格纳)：歌剧革新的先驱的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
+tags: ["literature", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Wagner ：歌剧革新的先驱"
+  - "Wagner ：歌剧革新的先驱的核心概念"
+  - "Wagner ：歌剧革新的先驱的方法与实践"
+trigger_keywords: ["act", "art", "crisis", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "README.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # Wagner (瓦格纳)：歌剧革新的先驱
 
 ## 概述 (Overview)

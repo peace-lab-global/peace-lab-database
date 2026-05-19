@@ -1,3 +1,31 @@
+---
+
+title: "Professional Attraction & Occupational Identity Psychology (职业吸引与职业身份心理学)"
+description: "Professional Attraction & Occupational Identity Psychology (职业吸引与职业身份心理学)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction"
+tags: ["attachment", "ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Professional Attraction & Occupational Identity Psychology"
+  - "Professional Attraction & Occupational Identity Psychology的核心概念"
+  - "Professional Attraction & Occupational Identity Psychology的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "attachment/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
+    relation: "attachment/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "attachment/emotion/sexuality"
+
+---
 # Professional Attraction & Occupational Identity Psychology (职业吸引与职业身份心理学)
 
 > 📘 **文档导航**: 本指南系统阐述职业吸引的心理学原理、理论框架和发展机制。相关文档：

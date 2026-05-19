@@ -1,3 +1,31 @@
+---
+
+title: "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu"
+description: "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["dzogchen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu"
+  - "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的核心概念"
+  - "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的方法与实践"
+trigger_keywords: ["气脉明点体系", "anxiety", "body", "breathwork", "child"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+
+---
 # 气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu
 
 > **气脉明点**（梵文：Nāḍī-Prāṇa-Bindu，藏文：རྩ་རླུང་ཐིག་ལེ་，威利：rtsa rlung thig le）是金刚乘圆满次第修法的核心基础，描述人体内精微能量系统的结构与运作。三脉五轮构成能量通道，风息（气）在其中流动，明点作为觉性精华承载意识。通过修持使风息入中脉、住中脉、融中脉，最终证悟俱生大乐与空性无二。

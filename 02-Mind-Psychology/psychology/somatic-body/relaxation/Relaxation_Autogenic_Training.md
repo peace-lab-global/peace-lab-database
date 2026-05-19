@@ -1,3 +1,31 @@
+---
+
+title: "自生训练 (Autogenic Training, AT)"
+description: "自生训练 (Autogenic Training, AT)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["addiction", "anxiety", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是自生训练"
+  - "自生训练的核心概念"
+  - "自生训练的方法与实践"
+trigger_keywords: ["自生训练", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 自生训练 (Autogenic Training, AT)
 
 > **模块定位**：自生训练的系统化专业知识，涵盖Schultz六标准公式、Luthe高级技术、神经生理机制、临床应用协议及循证基础。

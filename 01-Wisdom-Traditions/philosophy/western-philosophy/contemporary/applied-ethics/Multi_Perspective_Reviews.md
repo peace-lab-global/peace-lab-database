@@ -1,3 +1,31 @@
+---
+
+title: "应用伦理学经典三方书评"
+description: "应用伦理学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Applied Ethics"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是应用伦理学经典三方书评"
+  - "应用伦理学经典三方书评的核心概念"
+  - "应用伦理学经典三方书评的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "emotion/exercise/personality"
+
+---
 # 应用伦理学经典三方书评
 
 **评述对象：Peter Singer（彼得·辛格）核心著作**

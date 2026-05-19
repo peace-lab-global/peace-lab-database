@@ -1,3 +1,31 @@
+---
+
+title: "房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων"
+description: "房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Home Organization"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων"
+  - "房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων的核心概念"
+  - "房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων的方法与实践"
+trigger_keywords: ["房间清整术概览", "aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων
 
 > **房间清整术**是一门融合整理收纳、清洁维护、空间设计和心理调节的综合性生活技能。本文档系统阐述房间清整的理论基础、方法体系、实践技巧和心理效应，为创造整洁有序、舒适宜居的生活环境提供全面指导。

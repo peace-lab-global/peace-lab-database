@@ -1,3 +1,31 @@
+---
+
+title: "应用性放松训练 (Applied Relaxation Training)"
+description: "应用性放松训练 (Applied Relaxation Training)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是应用性放松训练"
+  - "应用性放松训练的核心概念"
+  - "应用性放松训练的方法与实践"
+trigger_keywords: ["应用性放松训练", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 应用性放松训练 (Applied Relaxation Training)
 
 > **模块定位**：Lars-Göran Öst应用性放松训练的系统化专业知识，涵盖完整训练协议、快速放松技术、情境迁移、临床应用循证及与暴露疗法的整合。

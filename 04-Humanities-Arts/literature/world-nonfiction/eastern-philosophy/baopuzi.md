@@ -1,3 +1,31 @@
+---
+
+title: "《抱朴子》Baopuzi"
+description: "《抱朴子》Baopuzi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "fasting", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《抱朴子》Baopuzi"
+  - "《抱朴子》Baopuzi的核心概念"
+  - "《抱朴子》Baopuzi的方法与实践"
+trigger_keywords: ["body", "breathwork", "daoism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 《抱朴子》Baopuzi
 
 > 葛洪（Ge Hong，283—343年）著，东晋道教思想家、炼丹家、医学家。葛洪字稚川，自号抱朴子，丹阳句容（今江苏句容）人。全书分《内篇》20卷和《外篇》50卷。《内篇》主要论述神仙方药、鬼怪变化、养生延年、禳邪却祸之事，属道家；《外篇》主要论述人间得失、世事臧否，属儒家。书名"抱朴子"取自《老子》"见素抱朴，少私寡欲"之语。

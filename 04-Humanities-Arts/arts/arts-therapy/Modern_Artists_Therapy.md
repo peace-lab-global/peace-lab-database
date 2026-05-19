@@ -1,3 +1,31 @@
+---
+
+title: "现代艺术家艺术疗愈应用指南"
+description: "现代艺术家艺术疗愈应用指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是现代艺术家艺术疗愈应用指南"
+  - "现代艺术家艺术疗愈应用指南的核心概念"
+  - "现代艺术家艺术疗愈应用指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "brain", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 现代艺术家艺术疗愈应用指南
 
 ## 概述 (Overview)

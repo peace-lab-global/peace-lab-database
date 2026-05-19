@@ -1,3 +1,31 @@
+---
+
+title: "Monastic Rituals (丛林规制与仪轨)"
+description: "Monastic Rituals (丛林规制与仪轨)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["mindfulness", "meditation", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Monastic Rituals"
+  - "Monastic Rituals的核心概念"
+  - "Monastic Rituals的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # Monastic Rituals (丛林规制与仪轨)
 
 ### Zen Monastic Roles & Responsibilities (禅门执事与职责表)

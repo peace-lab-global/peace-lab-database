@@ -1,3 +1,31 @@
+---
+
+title: "唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)"
+description: "唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "habits", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是唯识与中观的对话与融合"
+  - "唯识与中观的对话与融合的核心概念"
+  - "唯识与中观的对话与融合的方法与实践"
+trigger_keywords: ["act", "buddhism", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/emotion/personality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/emotion/personality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+    relation: "buddhism/emotion/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "buddhism/emotion/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
+    relation: "buddhism/emotion/personality"
+
+---
 # 唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)
 
 > **唯识与中观**：大乘佛教的"双峰并峙"。一个从心识入手说"一切唯心造"，一个从空性入手说"一切皆无自性"。这两家吵了一千多年，但吵到最后发现，其实是在用不同的方式说同一件事。就像盲人摸象——一个摸到鼻子说"象像管子"，一个摸到腿说"象像柱子"，其实摸的是同一头象。

@@ -1,3 +1,31 @@
+---
+
+title: "戏剧疗愈 INDEX | Drama Therapy & Psychodrama"
+description: "戏剧疗愈 INDEX | Drama Therapy & Psychodrama的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 戏剧疗愈"
+tags: ["act-therapy", "calligraphy", "photography", "drama-therapy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是戏剧疗愈 INDEX | Drama Therapy & Psychodrama"
+  - "戏剧疗愈 INDEX | Drama Therapy & Psychodrama的核心概念"
+  - "戏剧疗愈 INDEX | Drama Therapy & Psychodrama的方法与实践"
+trigger_keywords: ["戏剧疗愈 INDEX", "act", "act-therapy", "aging", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/communication/depression"
+
+---
 # 戏剧疗愈 INDEX | Drama Therapy & Psychodrama
 
 > **模块定位**: 04-Humanities-Arts / arts / drama-therapy

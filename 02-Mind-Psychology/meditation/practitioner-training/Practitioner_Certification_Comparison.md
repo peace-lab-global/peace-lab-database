@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师认证体系对比 | Practitioner Certification Comparison"
+description: "冥想执行师认证体系对比 | Practitioner Certification Comparison的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Practitioner Training"
+tags: ["decision-making", "depression", "mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师认证体系对比 | Practitioner Certification Comparison"
+  - "冥想执行师认证体系对比 | Practitioner Certification Comparison的核心概念"
+  - "冥想执行师认证体系对比 | Practitioner Certification Comparison的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/depression/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/depression/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/depression/exercise"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/depression/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/depression/exercise"
+
+---
 # 冥想执行师认证体系对比 | Practitioner Certification Comparison
 
 > **领域**：执行师培训体系（Practitioner Training System）

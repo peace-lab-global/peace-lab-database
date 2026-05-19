@@ -1,3 +1,31 @@
+---
+
+title: "《背叛》读书笔记与书评"
+description: "《背叛》读书笔记与书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Betrayal"
+tags: ["literature", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《背叛》读书笔记与书评"
+  - "《背叛》读书笔记与书评的核心概念"
+  - "《背叛》读书笔记与书评的方法与实践"
+trigger_keywords: ["brain", "literature", "phobia", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《背叛》读书笔记与书评
 
 ## 一、总体评价

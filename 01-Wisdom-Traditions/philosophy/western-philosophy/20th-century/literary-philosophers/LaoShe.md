@@ -1,3 +1,31 @@
+---
+
+title: "老舍 (Lao She) - 哲学思想全览"
+description: "老舍 (Lao She) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["habits", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老舍  - 哲学思想全览"
+  - "老舍  - 哲学思想全览的核心概念"
+  - "老舍  - 哲学思想全览的方法与实践"
+trigger_keywords: ["art", "behavioral", "cognitive", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "communication/exercise/personality"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
+    relation: "communication/exercise/personality"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "communication/exercise/personality"
+  - path: "05-Praxis-Growth/writing/Creative_Writing_Workshop.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/exercise/personality"
+
+---
 # 老舍 (Lao She) - 哲学思想全览
 
 ## 基本信息

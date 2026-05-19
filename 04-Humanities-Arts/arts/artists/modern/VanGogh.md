@@ -1,3 +1,31 @@
+---
+
+title: "Van Gogh (梵高)：艺术精神与表现主义探索"
+description: "Van Gogh (梵高)：艺术精神与表现主义探索的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
+tags: ["loneliness", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Van Gogh ：艺术精神与表现主义探索"
+  - "Van Gogh ：艺术精神与表现主义探索的核心概念"
+  - "Van Gogh ：艺术精神与表现主义探索的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Van Gogh (梵高)：艺术精神与表现主义探索
 
 ## 概述 (Overview)

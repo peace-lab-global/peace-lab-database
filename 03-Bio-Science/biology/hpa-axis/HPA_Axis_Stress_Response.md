@@ -1,3 +1,31 @@
+---
+
+title: "HPA轴与应激反应 (HPA Axis & Stress Response)"
+description: "HPA轴与应激反应 (HPA Axis & Stress Response)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > HPA轴"
+tags: ["HPA轴", "aging", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是HPA轴与应激反应"
+  - "HPA轴与应激反应的核心概念"
+  - "HPA轴与应激反应的方法与实践"
+trigger_keywords: ["HPA轴与应激反应", "HPA轴", "act", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # HPA轴与应激反应 (HPA Axis & Stress Response)
 
 > **从急性适应到慢性失调** (From Acute Adaptation to Chronic Dysregulation)

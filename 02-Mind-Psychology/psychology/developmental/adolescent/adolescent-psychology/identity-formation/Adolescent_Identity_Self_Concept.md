@@ -1,3 +1,31 @@
+---
+
+title: "青少年身份认同与自我概念发展专业指南"
+description: "青少年身份认同与自我概念发展专业指南的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Identity Formation"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年身份认同与自我概念发展专业指南"
+  - "青少年身份认同与自我概念发展专业指南的核心概念"
+  - "青少年身份认同与自我概念发展专业指南的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 青少年身份认同与自我概念发展专业指南
 
 ## 🎭 身份认同发展核心理论

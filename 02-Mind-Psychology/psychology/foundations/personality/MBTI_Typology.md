@@ -1,3 +1,31 @@
+---
+
+title: "MBTI 类型学 (MBTI Typology & Jungian Psychological Types)"
+description: "MBTI 类型学 (MBTI Typology & Jungian Psychological Types)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
+tags: ["decision-making", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是MBTI 类型学"
+  - "MBTI 类型学的核心概念"
+  - "MBTI 类型学的方法与实践"
+trigger_keywords: ["MBTI 类型学", "adolescent", "art", "body", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
+    relation: "communication/emotion/exercise"
+
+---
 # MBTI 类型学 (MBTI Typology & Jungian Psychological Types)
 
 > **学科定位**: 02-Mind-Psychology > foundations > personality

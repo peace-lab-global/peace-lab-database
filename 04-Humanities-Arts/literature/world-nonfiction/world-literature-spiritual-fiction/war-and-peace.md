@@ -1,3 +1,31 @@
+---
+
+title: "《战争与和平》War and Peace"
+description: "《战争与和平》War and Peace的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "marriage"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《战争与和平》War and Peace"
+  - "《战争与和平》War and Peace的核心概念"
+  - "《战争与和平》War and Peace的方法与实践"
+trigger_keywords: ["aging", "art", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/attachment/death"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
+    relation: "aging/attachment/death"
+  - path: "03-Bio-Science/death/Death_Grief_Technology.md"
+    relation: "aging/attachment/death"
+  - path: "03-Bio-Science/death/Death_Preparation_Life.md"
+    relation: "aging/attachment/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin.md"
+    relation: "aging/attachment/emotion"
+
+---
 # 《战争与和平》War and Peace
 
 **作者**：列夫·托尔斯泰 (Leo Tolstoy)  

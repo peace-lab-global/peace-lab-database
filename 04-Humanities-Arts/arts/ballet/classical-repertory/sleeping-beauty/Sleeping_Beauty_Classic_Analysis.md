@@ -1,3 +1,31 @@
+---
+
+title: "《睡美人》经典剧目分析 (Sleeping Beauty Classic Analysis)"
+description: "《睡美人》经典剧目分析 (Sleeping Beauty Classic Analysis)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Sleeping Beauty"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《睡美人》经典剧目分析"
+  - "《睡美人》经典剧目分析的核心概念"
+  - "《睡美人》经典剧目分析的方法与实践"
+trigger_keywords: ["adolescent", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "emotion/exercise/sexuality"
+
+---
 # 《睡美人》经典剧目分析 (Sleeping Beauty Classic Analysis)
 
 > **《睡美人》(The Sleeping Beauty, Op.66)**

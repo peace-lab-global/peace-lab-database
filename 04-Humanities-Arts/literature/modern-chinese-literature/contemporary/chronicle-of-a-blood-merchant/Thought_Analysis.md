@@ -1,3 +1,31 @@
+---
+
+title: "《许三观卖血记》核心思想与观点分析"
+description: "《许三观卖血记》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
+tags: ["habits", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《许三观卖血记》核心思想与观点分析"
+  - "《许三观卖血记》核心思想与观点分析的核心概念"
+  - "《许三观卖血记》核心思想与观点分析的方法与实践"
+trigger_keywords: ["body", "developmental", "exercise", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/exercise/productivity"
+
+---
 # 《许三观卖血记》核心思想与观点分析
 
 ## 余华在写什么？

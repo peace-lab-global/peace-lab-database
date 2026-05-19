@@ -1,3 +1,31 @@
+---
+
+title: "冥想大师人物档案 | Meditation Masters & Leaders"
+description: "冥想大师人物档案 | Meditation Masters & Leaders的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters"
+tags: ["brain", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想大师人物档案 | Meditation Masters & Leaders"
+  - "冥想大师人物档案 | Meditation Masters & Leaders的核心概念"
+  - "冥想大师人物档案 | Meditation Masters & Leaders的方法与实践"
+trigger_keywords: ["冥想大师人物档案", "act", "body", "brain", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 冥想大师人物档案 | Meditation Masters & Leaders
 
 > 从古代禅宗祖师到当代正念运动领袖，系统记录对冥想传统产生深远影响的关键人物。每篇档案涵盖生平、核心理念、教学方法、传承谱系、成就、影响与争议。

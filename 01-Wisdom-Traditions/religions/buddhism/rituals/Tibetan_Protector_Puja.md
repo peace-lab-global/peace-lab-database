@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)"
+description: "藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "longevity", "mandala", "music", "phobia", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教护法供养仪轨"
+  - "藏传佛教护法供养仪轨的核心概念"
+  - "藏传佛教护法供养仪轨的方法与实践"
+trigger_keywords: ["藏传佛教护法供养仪轨", "buddhism", "longevity", "mandala", "music"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)
 
 > **护法供养 (Dharmapala Puja / Choskyong Chopa)**：藏传佛教中供养护持正法的圣众，祈求消除修行障碍、成就佛法事业。护法分为智慧护法（出世间）和世间护法，修行人依传承各有主要护法。

@@ -1,3 +1,31 @@
+---
+
+title: "《你可以不怕死》No Death, No Fear"
+description: "《你可以不怕死》No Death, No Fear的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《你可以不怕死》No Death, No Fear"
+  - "《你可以不怕死》No Death, No Fear的核心概念"
+  - "《你可以不怕死》No Death, No Fear的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "anxiety/buddhism/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # 《你可以不怕死》No Death, No Fear
 
 > 一行禅师（Thich Nhat Hanh）著，2002年出版。越南禅宗大师，现代正念运动最具影响力的导师之一。这本书以简洁、温柔而直接的方式，用正念（mindfulness）的框架来拆解死亡的恐惧。

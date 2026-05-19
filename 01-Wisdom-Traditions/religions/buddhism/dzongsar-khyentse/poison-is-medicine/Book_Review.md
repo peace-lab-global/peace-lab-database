@@ -1,3 +1,31 @@
+---
+
+title: "《毒药即解药》读书笔记与书评"
+description: "《毒药即解药》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Poison Is Medicine"
+tags: ["buddhism", "cinema", "meditation", "mindfulness", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《毒药即解药》读书笔记与书评"
+  - "《毒药即解药》读书笔记与书评的核心概念"
+  - "《毒药即解药》读书笔记与书评的方法与实践"
+trigger_keywords: ["buddhism", "cinema", "meditation", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/meditation/productivity"
+
+---
 # 《毒药即解药》读书笔记与书评
 
 ## 一、总体评价

@@ -1,3 +1,31 @@
+---
+
+title: "meditation-education | 冥想与教育 Index"
+description: "meditation-education | 冥想与教育 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Education"
+tags: ["mbsr", "meditation", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是meditation-education | 冥想与教育 Index"
+  - "meditation-education | 冥想与教育 Index的核心概念"
+  - "meditation-education | 冥想与教育 Index的方法与实践"
+trigger_keywords: ["adolescent", "child", "mbsr", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "meditation/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "meditation/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
+    relation: "meditation/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md"
+    relation: "meditation/neuroscience/therapy"
+
+---
 # meditation-education | 冥想与教育 Index
 
 ## 内容索引 | Contents

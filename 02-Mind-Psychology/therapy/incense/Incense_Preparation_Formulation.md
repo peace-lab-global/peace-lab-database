@@ -1,3 +1,32 @@
+---
+
+title: "檀香疗法配方与制备 (Incense Preparation & Formulation)"
+description: "檀香疗法配方与制备 (Incense Preparation & Formulation)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Incense"
+tags: ["anxiety", "brain", "healing", "meditation", "neuroscience", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是檀香疗法配方与制备"
+  - "檀香疗法配方与制备的核心概念"
+  - "檀香疗法配方与制备的方法与实践"
+  - "檀香疗法配方与制备的循证证据"
+trigger_keywords: ["檀香疗法配方与制备", "anxiety", "assessment", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 檀香疗法配方与制备 (Incense Preparation & Formulation)
 
 > **目标**：提供专业的香料配方设计、制备工艺、质量控制及配伍原则，供从业者参考。

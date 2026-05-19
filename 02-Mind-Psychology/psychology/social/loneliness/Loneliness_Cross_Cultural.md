@@ -1,3 +1,31 @@
+---
+
+title: "跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence"
+description: "跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "cardiovascular", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence"
+  - "跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence的核心概念"
+  - "跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 跨文化孤独比较与全球流行率 | Loneliness: Cross-Cultural Comparison & Global Prevalence
 
 > **文档类型**：比较研究综述 | Comparative Research Review  

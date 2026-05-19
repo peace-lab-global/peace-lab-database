@@ -1,3 +1,32 @@
+---
+
+title: "积极心理学专业内容体系"
+description: "积极心理学专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 积极心理学"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是积极心理学专业内容体系"
+  - "积极心理学专业内容体系的核心概念"
+  - "积极心理学专业内容体系的方法与实践"
+  - "积极心理学专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/personality"
+
+---
 # 积极心理学专业内容体系
 
 ## 目录

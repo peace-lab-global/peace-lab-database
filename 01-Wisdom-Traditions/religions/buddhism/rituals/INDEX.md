@@ -1,3 +1,31 @@
+---
+
+title: "佛教仪轨 | Buddhism Rituals Index"
+description: "佛教仪轨 | Buddhism Rituals Index的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "dzogchen", "healing", "mandala", "mindfulness", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是佛教仪轨 | Buddhism Rituals Index"
+  - "佛教仪轨 | Buddhism Rituals Index的核心概念"
+  - "佛教仪轨 | Buddhism Rituals Index的方法与实践"
+trigger_keywords: ["佛教仪轨", "act", "breathwork", "buddhism", "dzogchen"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 佛教仪轨 | Buddhism Rituals Index
 
 > **佛教仪轨 (Buddhist Rituals)**：佛教修行体系中外显的仪式与实践，涵盖从日常功课到人生礼仪、从个人修持到集体法会的完整体系。本目录聚焦南传上座部、汉传佛教与藏传佛教三大传统的仪轨内容，并涵盖禅宗、唐密/东密、韩国梵呗等专题仪轨，以及特定本尊的完整修持法门。

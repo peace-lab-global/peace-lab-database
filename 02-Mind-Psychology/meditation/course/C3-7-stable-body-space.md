@@ -1,3 +1,31 @@
+---
+
+title: "C3-7 安定的身体空间"
+description: "C3-7 安定的身体空间的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "meditation", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-7 安定的身体空间"
+  - "C3-7 安定的身体空间的核心概念"
+  - "C3-7 安定的身体空间的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 # C3-7 安定的身体空间
 
 📑 智能总结

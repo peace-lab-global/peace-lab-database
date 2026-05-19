@@ -1,3 +1,31 @@
+---
+
+title: "超级个体操作系统与工具链 | Operating System & Toolstack"
+description: "超级个体操作系统与工具链 | Operating System & Toolstack的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 超级个体"
+tags: ["social", "个人发展", "超级个体", "flow", "productivity"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是超级个体操作系统与工具链 | Operating System & Toolstack"
+  - "超级个体操作系统与工具链 | Operating System & Toolstack的核心概念"
+  - "超级个体操作系统与工具链 | Operating System & Toolstack的方法与实践"
+trigger_keywords: ["brain", "social", "个人发展", "超级个体"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/neuroscience/productivity"
+
+---
 # 超级个体操作系统与工具链 | Operating System & Toolstack
 
 > 超级个体的核心竞争力之一是其**工具化程度**。通过构建一套高效的数字操作系统，个体可以抵御信息过载，并实现“一个人就像一支队伍”的效果。

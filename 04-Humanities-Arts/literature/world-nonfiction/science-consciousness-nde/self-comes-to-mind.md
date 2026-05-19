@@ -1,3 +1,31 @@
+---
+
+title: "《自我来到心中》Self Comes to Mind"
+description: "《自我来到心中》Self Comes to Mind的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《自我来到心中》Self Comes to Mind"
+  - "《自我来到心中》Self Comes to Mind的核心概念"
+  - "《自我来到心中》Self Comes to Mind的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 《自我来到心中》Self Comes to Mind
 
 **作者**：安东尼奥·达马西奥 (Antonio R. Damasio)  

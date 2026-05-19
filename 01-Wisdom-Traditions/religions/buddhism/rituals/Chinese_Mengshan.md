@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)"
+description: "汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传佛教蒙山施食仪轨"
+  - "汉传佛教蒙山施食仪轨的核心概念"
+  - "汉传佛教蒙山施食仪轨的方法与实践"
+trigger_keywords: ["汉传佛教蒙山施食仪轨", "buddhism", "developmental", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)
 
 > **蒙山施食 (Mengshan Offering)**：汉传佛教日常度亡施食仪轨，源于四川蒙山德异禅师（非今名山县蒙山，而是雅安县蒙山）。每日晚课中必行，是汉地寺院最普及的施食法。

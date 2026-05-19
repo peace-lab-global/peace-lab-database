@@ -1,3 +1,31 @@
+---
+
+title: "太极拳五大流派 | Tai Chi Schools & Styles"
+description: "太极拳五大流派 | Tai Chi Schools & Styles的详细解析与实践指南"
+category: "智慧传承 > 太极拳"
+tags: ["daoism", "decision-making", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太极拳五大流派 | Tai Chi Schools & Styles"
+  - "太极拳五大流派 | Tai Chi Schools & Styles的核心概念"
+  - "太极拳五大流派 | Tai Chi Schools & Styles的方法与实践"
+trigger_keywords: ["太极拳五大流派", "act", "art", "body", "daoism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "daoism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "daoism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "daoism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "daoism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "daoism/exercise/meditation"
+
+---
 # 太极拳五大流派 | Tai Chi Schools & Styles
 
 > **学科定位**: 太极拳传承 · 流派比较 · 武术史学

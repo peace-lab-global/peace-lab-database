@@ -6,6 +6,17 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+    relation: "anxiety/attachment/depression"
 ---
 
 # Body Shame Disorder Overview (身体羞耻障碍概览)

@@ -1,3 +1,31 @@
+---
+
+title: "孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)"
+description: "孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学"
+tags: ["aging", "brain", "pain", "inflammation", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独的生物学整合：从社会伤口到身体炎症"
+  - "孤独的生物学整合：从社会伤口到身体炎症的核心概念"
+  - "孤独的生物学整合：从社会伤口到身体炎症的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Features.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)
 
 > **核心命题**: 孤独不仅是一种心理体验，更是一种全身性的生物事件。它激活HPA轴、升高炎症标志物、改变基因表达、加速细胞衰老——"社会伤口"会转化为"免疫记忆"，在身体中留下深刻的生物学痕迹。

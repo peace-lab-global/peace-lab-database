@@ -1,3 +1,31 @@
+---
+
+title: "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius"
+description: "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["phobia", "suicide", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius"
+  - "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的核心概念"
+  - "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的方法与实践"
+trigger_keywords: ["aging", "buddhism", "death", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Epidemiology_Data.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius
 
 > 塞涅卡（Seneca the Younger）著，公元63-65年。罗马斯多葛派哲学家、政治家、剧作家，在被迫自杀前写给友人卢基里乌斯的124封信。这些信涵盖了斯多葛哲学的所有主题——愤怒、悲伤、贫穷、富有、衰老、死亡——以极其 personal 和 literary 的方式呈现。

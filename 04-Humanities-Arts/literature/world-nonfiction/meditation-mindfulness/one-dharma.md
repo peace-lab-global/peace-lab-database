@@ -1,3 +1,31 @@
+---
+
+title: "《一法》One Dharma"
+description: "《一法》One Dharma的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["dzogchen", "mindfulness", "vipassana", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《一法》One Dharma"
+  - "《一法》One Dharma的核心概念"
+  - "《一法》One Dharma的方法与实践"
+trigger_keywords: ["buddhism", "death", "dzogchen", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 《一法》One Dharma
 
 > 约瑟夫·戈尔茨坦（Joseph Goldstein）著，2002年出版。美国内观禅修运动联合创始人之一，将南传佛教、大乘佛教和藏传佛教的核心教导整合为"一法"——不是新的法门，而是**所有法门的共同核心**。

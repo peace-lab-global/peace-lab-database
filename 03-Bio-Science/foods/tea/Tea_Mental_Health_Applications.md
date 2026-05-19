@@ -1,3 +1,31 @@
+---
+
+title: "Tea & Mental Health Clinical Applications (茶与心理健康临床应用)"
+description: "Tea & Mental Health Clinical Applications (茶与心理健康临床应用)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Tea"
+tags: ["addiction", "aging", "attachment", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tea & Mental Health Clinical Applications"
+  - "Tea & Mental Health Clinical Applications的核心概念"
+  - "Tea & Mental Health Clinical Applications的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Tea & Mental Health Clinical Applications (茶与心理健康临床应用)
 
 ## 茶与精神障碍关系总表 (Tea & Psychiatric Disorders Overview)

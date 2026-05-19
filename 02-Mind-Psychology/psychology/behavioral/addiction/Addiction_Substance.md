@@ -1,3 +1,31 @@
+---
+
+title: "物质成瘾详表 (Substance Addictions)"
+description: "物质成瘾详表 (Substance Addictions)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
+tags: ["addiction", "anxiety", "brain", "cardiovascular", "cbt", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是物质成瘾详表"
+  - "物质成瘾详表的核心概念"
+  - "物质成瘾详表的方法与实践"
+trigger_keywords: ["物质成瘾详表", "addiction", "adolescent", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+
+---
 # 物质成瘾详表 (Substance Addictions)
 
 ## 酒精使用障碍详表 (Alcohol Use Disorder)

@@ -1,3 +1,31 @@
+---
+
+title: "《生命的喜悦》The Joy of Living"
+description: "《生命的喜悦》The Joy of Living的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《生命的喜悦》The Joy of Living"
+  - "《生命的喜悦》The Joy of Living的核心概念"
+  - "《生命的喜悦》The Joy of Living的方法与实践"
+trigger_keywords: ["anxiety", "brain", "buddhism", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 《生命的喜悦》The Joy of Living
 
 >  咏给·明就仁波切（Yongey Mingyur Rinpoche）著，2007年出版。藏传佛教宁玛派和噶举派年轻喇嘛，以与神经科学家的合作研究而闻名——他曾在威斯康星大学接受脑扫描，展示了长期冥想对大脑结构的改变。

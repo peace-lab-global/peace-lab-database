@@ -1,3 +1,31 @@
+---
+
+title: "What Makes You Not a Buddhist | 正见：佛陀的证悟"
+description: "What Makes You Not a Buddhist | 正见：佛陀的证悟的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > What Makes You Not A Buddhist"
+tags: ["buddhism", "philosophy", "positive-psychology", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是What Makes You Not a Buddhist | 正见：佛陀的证悟"
+  - "What Makes You Not a Buddhist | 正见：佛陀的证悟的核心概念"
+  - "What Makes You Not a Buddhist | 正见：佛陀的证悟的方法与实践"
+trigger_keywords: ["正见：佛陀的证悟", "buddhism", "emotion", "philosophy", "positive-psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+    relation: "buddhism/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "buddhism/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/emotion/pain"
+
+---
 # What Makes You Not a Buddhist | 正见：佛陀的证悟
 
 > 宗萨蒋扬钦哲仁波切著，2007年出版。以四法印为框架，用现代语言阐释佛教核心见地。

@@ -1,3 +1,31 @@
+---
+
+title: "天体生物学 | Astrobiology Framework"
+description: "天体生物学 | Astrobiology Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "literature", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是天体生物学 | Astrobiology Framework"
+  - "天体生物学 | Astrobiology Framework的核心概念"
+  - "天体生物学 | Astrobiology Framework的方法与实践"
+trigger_keywords: ["天体生物学", "assessment", "cognitive", "communication", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/immune/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "communication/immune/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/immune/productivity"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "communication/immune/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/immune/productivity"
+
+---
 # 天体生物学 | Astrobiology Framework
 
 > **天体生物学**（Astrobiology）是研究宇宙中生命的起源、演化和分布的跨学科领域。从地球上的极端生命形式到火星上的水痕迹，从系外行星（Exoplanets）的宜居性评估到外星智慧的搜寻，天体生物学追问人类最根本的问题之一：我们在宇宙中是孤独的吗？本文件精选TED平台上关于天体生物学的代表性演讲，探索生命在宇宙中的可能性和科学前沿。

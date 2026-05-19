@@ -1,3 +1,31 @@
+---
+
+title: "离婚后家庭重建与亲子关系修复"
+description: "离婚后家庭重建与亲子关系修复的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是离婚后家庭重建与亲子关系修复"
+  - "离婚后家庭重建与亲子关系修复的核心概念"
+  - "离婚后家庭重建与亲子关系修复的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 离婚后家庭重建与亲子关系修复
 
 > 离婚不是结局，是另一种家庭形态的开始。重建不是"回到从前"，而是在废墟上盖一栋新的房子——格局不同了，但同样可以住得温暖。

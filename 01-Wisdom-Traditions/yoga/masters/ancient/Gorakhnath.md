@@ -1,3 +1,31 @@
+---
+
+title: "戈拉克纳特（Gorakhnath / गोरक्षनाथ）"
+description: "戈拉克纳特（Gorakhnath / गोरक्षनाथ）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Ancient"
+tags: ["buddhism", "gut", "meditation", "philosophy", "yoga", "hinduism"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是戈拉克纳特（Gorakhnath / गोरक्षनाथ）"
+  - "戈拉克纳特（Gorakhnath / गोरक्षनाथ）的核心概念"
+  - "戈拉克纳特（Gorakhnath / गोरक्षनाथ）的方法与实践"
+trigger_keywords: ["गोरक्षनाथ）", "body", "breathwork", "buddhism", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 戈拉克纳特（Gorakhnath / गोरक्षनाथ）
 
 > Hatha Yoga 的系统建构者——从 Natha 修行者到全印度的精神象征

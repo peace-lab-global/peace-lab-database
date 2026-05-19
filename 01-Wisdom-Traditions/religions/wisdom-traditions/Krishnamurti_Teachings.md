@@ -1,3 +1,31 @@
+---
+
+title: "克里希那穆提教导 (Jiddu Krishnamurti's Teachings)"
+description: "克里希那穆提教导 (Jiddu Krishnamurti's Teachings)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["addiction", "attachment", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是克里希那穆提教导"
+  - "克里希那穆提教导的核心概念"
+  - "克里希那穆提教导的方法与实践"
+trigger_keywords: ["克里希那穆提教导", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_DBT_Skills.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Pema_Chodron.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 克里希那穆提教导 (Jiddu Krishnamurti's Teachings)
 
 > **克里希那穆提 (Jiddu Krishnamurti, 1895-1986)**  

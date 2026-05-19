@@ -1,3 +1,31 @@
+---
+
+title: "正念行走技术体系 | Walking Meditation Techniques"
+description: "正念行走技术体系 | Walking Meditation Techniques的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Walking Meditation"
+tags: ["habits", "mbsr", "meditation", "adhd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是正念行走技术体系 | Walking Meditation Techniques"
+  - "正念行走技术体系 | Walking Meditation Techniques的核心概念"
+  - "正念行走技术体系 | Walking Meditation Techniques的方法与实践"
+trigger_keywords: ["正念行走技术体系", "aging", "body", "breathwork", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/exercise/meditation"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/exercise/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
+    relation: "aging/exercise/meditation"
+
+---
 # 正念行走技术体系 | Walking Meditation Techniques
 
 > **文档类型**: 技术实施指南 | Technical Guide

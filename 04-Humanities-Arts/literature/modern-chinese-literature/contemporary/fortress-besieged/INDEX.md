@@ -1,3 +1,25 @@
+---
+
+title: "Fortress Besieged | 围城"
+description: "Fortress Besieged | 围城的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
+tags: ["marriage", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Fortress Besieged | 围城"
+  - "Fortress Besieged | 围城的核心概念"
+  - "Fortress Besieged | 围城的方法与实践"
+trigger_keywords: ["围城", "art", "marriage", "philosophy", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment"
+  - path: "README.md"
+    relation: "art_therapy/attachment"
+
+---
 # Fortress Besieged | 围城
 
 > 钱钟书长篇小说，1947年出版。以留学归国的方鸿渐为主角，描写了1930—1940年代中国知识分子的精神困境与婚恋百态。被誉为"现代中国最伟大的讽刺小说"。

@@ -1,3 +1,32 @@
+---
+
+title: "肖邦《叙事曲》心理学与疗愈功能分析"
+description: "肖邦《叙事曲》心理学与疗愈功能分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Ballades"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肖邦《叙事曲》心理学与疗愈功能分析"
+  - "肖邦《叙事曲》心理学与疗愈功能分析的核心概念"
+  - "肖邦《叙事曲》心理学与疗愈功能分析的方法与实践"
+  - "肖邦《叙事曲》心理学与疗愈功能分析的自助方法"
+trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 肖邦《叙事曲》心理学与疗愈功能分析
 
 ## 心理治疗理论基础

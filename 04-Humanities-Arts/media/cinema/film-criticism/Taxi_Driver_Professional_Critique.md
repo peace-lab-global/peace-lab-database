@@ -1,3 +1,32 @@
+---
+
+title: "《出租车司机》(Taxi Driver, 1976) 专业影评：都市异化与暴力美学的心理学解读"
+description: "《出租车司机》(Taxi Driver, 1976) 专业影评：都市异化与暴力美学的心理学解读的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《出租车司机》 专业影评：都市异化与暴力美学的心理学解读"
+  - "《出租车司机》 专业影评：都市异化与暴力美学的心理学解读的核心概念"
+  - "《出租车司机》 专业影评：都市异化与暴力美学的心理学解读的方法与实践"
+  - "《出租车司机》 专业影评：都市异化与暴力美学的心理学解读的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/death/sexuality"
+
+---
 # 《出租车司机》(Taxi Driver, 1976) 专业影评：都市异化与暴力美学的心理学解读
 
 ## 摘要 (Abstract)

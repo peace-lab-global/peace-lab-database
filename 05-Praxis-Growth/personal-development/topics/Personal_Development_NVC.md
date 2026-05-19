@@ -1,3 +1,31 @@
+---
+
+title: "Nonviolent Communication 非暴力沟通"
+description: "Nonviolent Communication 非暴力沟通的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["communication"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Nonviolent Communication 非暴力沟通"
+  - "Nonviolent Communication 非暴力沟通的核心概念"
+  - "Nonviolent Communication 非暴力沟通的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "anxiety/communication/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
+    relation: "anxiety/communication/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/therapy"
+
+---
 # Nonviolent Communication 非暴力沟通
 
 ## 作者背景 (Author Background)

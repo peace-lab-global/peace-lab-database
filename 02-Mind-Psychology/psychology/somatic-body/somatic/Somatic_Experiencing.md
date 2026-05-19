@@ -1,3 +1,31 @@
+---
+
+title: "Somatic Experiencing (躯体体验与神经干预)"
+description: "Somatic Experiencing (躯体体验与神经干预)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["brain", "habits", "intervention", "trauma", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Somatic Experiencing"
+  - "Somatic Experiencing的核心概念"
+  - "Somatic Experiencing的方法与实践"
+trigger_keywords: ["act", "behavioral", "brain", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "emotion/exercise/neuroscience"
+
+---
 # Somatic Experiencing (躯体体验与神经干预)
 
 ### Somatic Experiencing (SE) Core Concepts (躯体体验核心概念)

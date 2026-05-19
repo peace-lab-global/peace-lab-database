@@ -1,3 +1,31 @@
+---
+
+title: "园艺疗愈 | Horticultural Therapy"
+description: "园艺疗愈 | Horticultural Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
+tags: ["healing", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是园艺疗愈 | Horticultural Therapy"
+  - "园艺疗愈 | Horticultural Therapy的核心概念"
+  - "园艺疗愈 | Horticultural Therapy的方法与实践"
+trigger_keywords: ["园艺疗愈", "aging", "child", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/meditation/therapy"
+
+---
 # 园艺疗愈 | Horticultural Therapy
 
 > 园艺治疗 · 疗愈花园 · 生态心理学

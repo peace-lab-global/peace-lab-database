@@ -1,3 +1,31 @@
+---
+
+title: "职场倦怠 (Occupational Burnout) | Index"
+description: "职场倦怠 (Occupational Burnout) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
+tags: ["anxiety", "cortisol", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场倦怠  | Index"
+  - "职场倦怠  | Index的核心概念"
+  - "职场倦怠  | Index的方法与实践"
+trigger_keywords: ["职场倦怠", "Index", "act", "anxiety", "assessment", "clinical"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 职场倦怠 (Occupational Burnout) | Index
 
 > 职场倦怠的系统性研究：从定义诊断到神经生物学机制，从高风险职业分析到预防干预与恢复随访。

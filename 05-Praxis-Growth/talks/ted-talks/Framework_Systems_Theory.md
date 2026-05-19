@@ -1,3 +1,31 @@
+---
+
+title: "系统论 | Systems Theory"
+description: "系统论 | Systems Theory的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是系统论 | Systems Theory"
+  - "系统论 | Systems Theory的核心概念"
+  - "系统论 | Systems Theory的方法与实践"
+trigger_keywords: ["系统论", "act", "behavioral", "cognitive", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 系统论 | Systems Theory
 
 > **系统论**（Systems Theory）研究系统整体的行为、结构和演化规律，强调组成部分之间的相互作用而非孤立分析。TED平台上关于系统思维的演讲揭示了从生态系统到经济系统、从社会组织到全球气候等复杂系统的运行逻辑，为理解和应对复杂挑战提供了全新的认知框架。

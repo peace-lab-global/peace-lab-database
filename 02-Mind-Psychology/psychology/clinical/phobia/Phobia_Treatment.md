@@ -1,3 +1,32 @@
+---
+
+title: "恐惧症治疗方法 (Phobia Treatment Methods)"
+description: "恐惧症治疗方法 (Phobia Treatment Methods)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是恐惧症治疗方法"
+  - "恐惧症治疗方法的核心概念"
+  - "恐惧症治疗方法的方法与实践"
+  - "恐惧症治疗方法的循证证据"
+trigger_keywords: ["恐惧症治疗方法", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # 恐惧症治疗方法 (Phobia Treatment Methods)
 
 > **核心定位**: 本文档系统阐述恐惧症的循证治疗方法，以暴露疗法为核心，整合认知行为疗法、药物治疗、VR技术及新兴疗法，为临床实践提供完整的治疗工具箱。

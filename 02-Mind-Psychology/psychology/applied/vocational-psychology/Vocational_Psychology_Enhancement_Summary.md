@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学专业体系查漏补缺项目总结报告"
+description: "职业心理学专业体系查漏补缺项目总结报告的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
+tags: ["decision-making", "intervention", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学专业体系查漏补缺项目总结报告"
+  - "职业心理学专业体系查漏补缺项目总结报告的核心概念"
+  - "职业心理学专业体系查漏补缺项目总结报告的方法与实践"
+  - "职业心理学专业体系查漏补缺项目总结报告的自助方法"
+trigger_keywords: ["assessment", "behavioral", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "neuroscience/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "neuroscience/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
+    relation: "neuroscience/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "neuroscience/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
+    relation: "neuroscience/sexuality/stress"
+
+---
 # 职业心理学专业体系查漏补缺项目总结报告
 
 > 📘 **项目概览**: 本报告总结职业心理学专业体系的全面查漏补缺工作成果，展示体系完整性提升和质量优化效果。

@@ -1,3 +1,31 @@
+---
+
+title: "contemporary | 当代文学知识库"
+description: "contemporary | 当代文学知识库的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary"
+tags: ["literature", "marriage", "spirituality", "trauma"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是contemporary | 当代文学知识库"
+  - "contemporary | 当代文学知识库的核心概念"
+  - "contemporary | 当代文学知识库的方法与实践"
+trigger_keywords: ["当代文学知识库", "body", "literature", "marriage", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "attachment/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md"
+    relation: "attachment/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "attachment/sexuality/trauma"
+
+---
 # contemporary | 当代文学知识库
 
 > 中国当代经典小说的深度阅读笔记与思想分析

@@ -1,3 +1,31 @@
+---
+
+title: "C4-4 与呼吸同频：生活觉察：用呼吸安定身心"
+description: "C4-4 与呼吸同频：生活觉察：用呼吸安定身心的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "depression", "habits", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-4 与呼吸同频：生活觉察：用呼吸安定身心"
+  - "C4-4 与呼吸同频：生活觉察：用呼吸安定身心的核心概念"
+  - "C4-4 与呼吸同频：生活觉察：用呼吸安定身心的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "depression"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-preludes/Chopin_Preludes_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # C4-4 与呼吸同频：生活觉察：用呼吸安定身心
 
 📑 智能总结

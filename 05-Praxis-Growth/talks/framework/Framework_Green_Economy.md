@@ -1,3 +1,31 @@
+---
+
+title: "绿色经济 | Green Economy"
+description: "绿色经济 | Green Economy的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "habits", "positive-psychology", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是绿色经济 | Green Economy"
+  - "绿色经济 | Green Economy的核心概念"
+  - "绿色经济 | Green Economy的方法与实践"
+trigger_keywords: ["绿色经济", "assessment", "decision-making", "developmental", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/productivity/sexuality"
+
+---
 # 绿色经济 | Green Economy
 
 > **绿色经济（Green Economy）** 是以降低环境风险和生态稀缺为目标，同时实现人类福祉和社会公平的经济发展模式。联合国环境规划署（UNEP）将其定义为"改善人类福祉和社会公平，同时显著降低环境风险和生态稀缺的经济发展模式"。本文档系统梳理绿色经济的核心概念、理论框架、政策实践和前沿趋势，为可持续发展研究者、政策制定者和企业管理者提供全面的知识参考。

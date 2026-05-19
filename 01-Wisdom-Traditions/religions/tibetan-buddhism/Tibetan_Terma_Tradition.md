@@ -1,3 +1,31 @@
+---
+
+title: "伏藏传统 | Terma Tradition | གཏེར་མ་"
+description: "伏藏传统 | Terma Tradition | གཏེར་མ་的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "dzogchen", "healing", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是伏藏传统 | Terma Tradition | གཏེར་མ་"
+  - "伏藏传统 | Terma Tradition | གཏེར་མ་的核心概念"
+  - "伏藏传统 | Terma Tradition | གཏེར་མ་的方法与实践"
+trigger_keywords: ["伏藏传统", "གཏེར་མ་", "buddhism", "death", "developmental", "dzogchen"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Ram_Dass.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 伏藏传统 | Terma Tradition | གཏེར་མ་
 
 > **伏藏**（藏文：གཏེར་མ་，威利：gter ma，英文：Terma/Treasure）是藏传佛教特有的法脉传承方式，指莲花生大士及其弟子为利益未来众生而隐藏的法教、法器、圣物等，待因缘成熟时由预言的伏藏师（གཏེར་སྟོན་）取出弘扬。伏藏传承是宁玛派的核心特色，保证了法脉的新鲜与适应性，被视为"短传承"，加持力尤为殊胜。

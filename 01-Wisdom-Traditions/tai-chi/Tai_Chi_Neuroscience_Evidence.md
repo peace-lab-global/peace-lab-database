@@ -1,3 +1,31 @@
+---
+
+title: "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence"
+description: "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的详细解析与实践指南"
+category: "智慧传承 > 太极拳"
+tags: ["cardiovascular"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence"
+  - "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的核心概念"
+  - "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的方法与实践"
+trigger_keywords: ["aging", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/exercise"
+
+---
 # 太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence
 
 > **学科定位**: 运动医学 · 神经科学 · 循证医学 · 老年学

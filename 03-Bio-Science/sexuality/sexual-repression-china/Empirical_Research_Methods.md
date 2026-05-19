@@ -1,3 +1,31 @@
+---
+
+title: "中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)"
+description: "中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["aging"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性压抑实证研究方法指南"
+  - "中国社会性压抑实证研究方法指南的核心概念"
+  - "中国社会性压抑实证研究方法指南的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "aging/anxiety/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "aging/anxiety/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/sexuality"
+
+---
 # 中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)
 
 > 📘 **文档导航**: 本专题提供中国社会性压抑现象实证研究的完整方法论指导，涵盖研究设计、数据收集、分析方法和质量控制等关键环节。如需了解其他相关内容，请参考：

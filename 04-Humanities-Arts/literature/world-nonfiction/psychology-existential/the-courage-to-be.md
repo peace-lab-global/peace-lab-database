@@ -1,3 +1,31 @@
+---
+
+title: "《存在的勇气》书评"
+description: "《存在的勇气》书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["addiction", "freud"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《存在的勇气》书评"
+  - "《存在的勇气》书评的核心概念"
+  - "《存在的勇气》书评的方法与实践"
+trigger_keywords: ["《存在的勇气》书评", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "anxiety/death/neuroscience"
+
+---
 # 《存在的勇气》书评
 
 **书名**: The Courage to Be  

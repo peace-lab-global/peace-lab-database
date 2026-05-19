@@ -1,3 +1,31 @@
+---
+
+title: "约翰·戈特利布·费希特 (Johann Gottlieb Fichte)"
+description: "约翰·戈特利布·费希特 (Johann Gottlieb Fichte)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > German Idealism"
+tags: ["healing", "personality", "philosophy", "treatment", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约翰·戈特利布·费希特"
+  - "约翰·戈特利布·费希特的核心概念"
+  - "约翰·戈特利布·费希特的方法与实践"
+trigger_keywords: ["约翰", "戈特利布", "费希特", "act", "developmental", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "buddhism/communication/meditation"
+  - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/authors/Wang_Wei_Complete_Profile.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 约翰·戈特利布·费希特 (Johann Gottlieb Fichte)
 
 ## 核心思想 (Core Ideas)

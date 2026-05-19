@@ -1,3 +1,31 @@
+---
+
+title: "心血管运动与营养 | Cardiovascular Exercise & Nutrition"
+description: "心血管运动与营养 | Cardiovascular Exercise & Nutrition的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 心血管"
+tags: ["cardiovascular", "death", "depression", "nutrition", "exercise"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心血管运动与营养 | Cardiovascular Exercise & Nutrition"
+  - "心血管运动与营养 | Cardiovascular Exercise & Nutrition的核心概念"
+  - "心血管运动与营养 | Cardiovascular Exercise & Nutrition的方法与实践"
+trigger_keywords: ["心血管运动与营养", "anxiety", "assessment", "behavioral", "cardiovascular"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # 心血管运动与营养 | Cardiovascular Exercise & Nutrition
 
 > **学科定位**: 运动心脏病学 · 营养心脏病学 · 运动处方学

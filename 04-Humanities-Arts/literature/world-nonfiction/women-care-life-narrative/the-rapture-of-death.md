@@ -1,3 +1,31 @@
+---
+
+title: "《死亡的狂喜》The Rapture of Death"
+description: "《死亡的狂喜》The Rapture of Death的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《死亡的狂喜》The Rapture of Death"
+  - "《死亡的狂喜》The Rapture of Death的核心概念"
+  - "《死亡的狂喜》The Rapture of Death的方法与实践"
+trigger_keywords: ["body", "cognitive", "death", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "death/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/depression"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_19_Social_Community.md"
+    relation: "death/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/jewish-meditation/Jewish_Practical_Guide.md"
+    relation: "death/depression/exercise"
+
+---
 # 《死亡的狂喜》The Rapture of Death
 
 **作者**：莫里斯·梅西 (Maurice Blanchot 等思想家的延伸思考，此处依据用户指定)  

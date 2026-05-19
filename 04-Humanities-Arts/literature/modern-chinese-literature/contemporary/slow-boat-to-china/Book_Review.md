@@ -1,3 +1,31 @@
+---
+
+title: "《慢船去中国》读书笔记与书评"
+description: "《慢船去中国》读书笔记与书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Slow Boat To China"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《慢船去中国》读书笔记与书评"
+  - "《慢船去中国》读书笔记与书评的核心概念"
+  - "《慢船去中国》读书笔记与书评的方法与实践"
+trigger_keywords: ["anxiety", "emotion", "literature", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《慢船去中国》读书笔记与书评
 
 ## 一、总体评价

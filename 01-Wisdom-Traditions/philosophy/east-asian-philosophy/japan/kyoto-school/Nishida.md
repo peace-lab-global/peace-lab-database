@@ -1,3 +1,31 @@
+---
+
+title: "西田幾多郎 (Nishida Kitarō)"
+description: "西田幾多郎 (Nishida Kitarō)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Kyoto School"
+tags: ["buddhism", "healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是西田幾多郎"
+  - "西田幾多郎的核心概念"
+  - "西田幾多郎的方法与实践"
+trigger_keywords: ["西田幾多郎", "act", "art", "behavioral", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Huineng.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/chinese/Sheng_Yen.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 西田幾多郎 (Nishida Kitarō)
 
 ## 核心思想 (Core Ideas)

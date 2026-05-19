@@ -1,3 +1,31 @@
+---
+
+title: "《正念：此刻是一枝花》Wherever You Go, There You Are"
+description: "《正念：此刻是一枝花》Wherever You Go, There You Are的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits", "mbsr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正念：此刻是一枝花》Wherever You Go, There You Are"
+  - "《正念：此刻是一枝花》Wherever You Go, There You Are的核心概念"
+  - "《正念：此刻是一枝花》Wherever You Go, There You Are的方法与实践"
+trigger_keywords: ["anxiety", "body", "clinical", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_20_Creative_Arts.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/meditation"
+
+---
 # 《正念：此刻是一枝花》Wherever You Go, There You Are
 
 > 乔恩·卡巴金（Jon Kabat-Zinn）著，1994年出版。卡巴金最通俗、最受欢迎的作品，将MBSR的核心理念转化为短小的章节，每章讨论一个正念主题——从"非评判"到"耐心"，从"初心"到"信任"。全球销量超过百万册。

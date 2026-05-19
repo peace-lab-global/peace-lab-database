@@ -1,3 +1,31 @@
+---
+
+title: "科技伦理 | Technology Ethics"
+description: "科技伦理 | Technology Ethics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["addiction", "bci", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是科技伦理 | Technology Ethics"
+  - "科技伦理 | Technology Ethics的核心概念"
+  - "科技伦理 | Technology Ethics的方法与实践"
+trigger_keywords: ["科技伦理", "act", "addiction", "assessment", "bci"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
+    relation: "neuroscience/sexuality/therapy"
+
+---
 # 科技伦理 | Technology Ethics
 
 > 科技伦理（Technology Ethics）是研究科学技术发展与应用中的道德规范、价值冲突与社会责任的哲学与实践领域。在人工智能、基因编辑、大数据和量子计算等前沿科技快速发展的当代，科技伦理已成为关乎人类福祉和社会正义的核心议题。它不仅追问"我们能做到什么"，更追问"我们是否应该这样做"，为技术进步提供人文价值的制衡与引导。

@@ -1,3 +1,31 @@
+---
+
+title: "越南儒学经典 · 佛法视角三方书评"
+description: "越南儒学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Vietnam > Confucianism"
+tags: ["buddhism", "mindfulness", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是越南儒学经典 · 佛法视角三方书评"
+  - "越南儒学经典 · 佛法视角三方书评的核心概念"
+  - "越南儒学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["越南儒学经典", "佛法视角三方书评", "behavioral", "breathwork", "buddhism", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 越南儒学经典 · 佛法视角三方书评
 
 ## 主题：越南儒佛共存传统；阮廌时代的儒佛关系；一行禅师与越南佛教的人间性

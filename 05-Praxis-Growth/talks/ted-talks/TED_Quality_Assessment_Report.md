@@ -1,3 +1,31 @@
+---
+
+title: "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report"
+description: "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report"
+  - "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的核心概念"
+  - "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的方法与实践"
+trigger_keywords: ["assessment", "body", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/neuroscience/nutrition"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "communication/neuroscience/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "communication/neuroscience/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
+    relation: "communication/neuroscience/nutrition"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "communication/neuroscience/nutrition"
+
+---
 # TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report
 
 ## 一、项目概述

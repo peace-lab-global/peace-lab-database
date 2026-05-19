@@ -1,3 +1,31 @@
+---
+
+title: "衰老与长寿科学 INDEX | Aging & Longevity Science"
+description: "衰老与长寿科学 INDEX | Aging & Longevity Science的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
+tags: ["aging", "brain", "cortisol", "death", "exercise", "fasting"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是衰老与长寿科学 INDEX | Aging & Longevity Science"
+  - "衰老与长寿科学 INDEX | Aging & Longevity Science的核心概念"
+  - "衰老与长寿科学 INDEX | Aging & Longevity Science的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/exercise"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/exercise"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/death"
+
+---
 # 衰老与长寿科学 INDEX | Aging & Longevity Science
 
 > **模块定位**: 03-Bio-Science / biology / aging-longevity

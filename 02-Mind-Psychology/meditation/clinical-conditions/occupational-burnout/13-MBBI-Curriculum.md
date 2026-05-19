@@ -1,3 +1,31 @@
+---
+
+title: "13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum"
+description: "13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum"
+  - "13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum的核心概念"
+  - "13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum的方法与实践"
+trigger_keywords: ["act", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "communication/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "emotion/meditation/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "emotion/meditation/personality"
+
+---
 # 13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum
 
 > **文档定位**：本章提供一套标准化的 8 周职业倦怠正念干预课程方案（Mindfulness-Based Burnout Intervention, MBBI），可直接用于临床培训、EAP项目或研究。

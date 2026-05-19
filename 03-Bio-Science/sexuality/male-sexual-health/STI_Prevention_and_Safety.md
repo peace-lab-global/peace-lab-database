@@ -1,3 +1,31 @@
+---
+
+title: "STI Prevention and Safety (性传播感染预防与安全)"
+description: "STI Prevention and Safety (性传播感染预防与安全)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Male Sexual Health"
+tags: ["sexuality", "treatment", "性学"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是STI Prevention and Safety"
+  - "STI Prevention and Safety的核心概念"
+  - "STI Prevention and Safety的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "clinical", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # STI Prevention and Safety (性传播感染预防与安全)
 
 ## 概述

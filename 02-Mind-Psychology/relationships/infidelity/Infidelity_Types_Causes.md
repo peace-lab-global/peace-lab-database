@@ -1,3 +1,31 @@
+---
+
+title: "出轨类型与成因分析"
+description: "出轨类型与成因分析的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["addiction", "anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是出轨类型与成因分析"
+  - "出轨类型与成因分析的核心概念"
+  - "出轨类型与成因分析的方法与实践"
+trigger_keywords: ["出轨类型与成因分析", "addiction", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 出轨类型与成因分析
 
 > 出轨行为的科学分类、深层心理机制与发展路径分析

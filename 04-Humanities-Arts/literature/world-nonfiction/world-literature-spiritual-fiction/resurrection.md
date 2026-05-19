@@ -1,3 +1,31 @@
+---
+
+title: "《复活》Resurrection"
+description: "《复活》Resurrection的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "phobia", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《复活》Resurrection"
+  - "《复活》Resurrection的核心概念"
+  - "《复活》Resurrection的方法与实践"
+trigger_keywords: ["art", "behavioral", "body", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 《复活》Resurrection
 
 **作者**：列夫·托尔斯泰 (Leo Tolstoy)  

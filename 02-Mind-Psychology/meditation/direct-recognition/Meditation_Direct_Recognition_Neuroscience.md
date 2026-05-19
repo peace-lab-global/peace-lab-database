@@ -1,3 +1,31 @@
+---
+
+title: "Direct Recognition Neuroscience (直接认知神经科学：觉知的神经基底与机制)"
+description: "Direct Recognition Neuroscience (直接认知神经科学：觉知的神经基底与机制)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 直接认知"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Direct Recognition Neuroscience"
+  - "Direct Recognition Neuroscience的核心概念"
+  - "Direct Recognition Neuroscience的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # Direct Recognition Neuroscience (直接认知神经科学：觉知的神经基底与机制)
 
 ## 概述 (Overview)

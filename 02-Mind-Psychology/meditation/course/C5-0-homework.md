@@ -1,3 +1,31 @@
+---
+
+title: "第五周 作业"
+description: "第五周 作业的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "habits", "meditation", "mindfulness", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是第五周 作业"
+  - "第五周 作业的核心概念"
+  - "第五周 作业的方法与实践"
+trigger_keywords: ["第五周 作业", "body", "brain", "breathwork", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "meditation/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "meditation/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "meditation/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "meditation/neuroscience/productivity"
+
+---
 # 第五周 作业
 
 # 作业

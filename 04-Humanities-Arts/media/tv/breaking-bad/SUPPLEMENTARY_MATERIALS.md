@@ -1,3 +1,31 @@
+---
+
+title: "《绝命毒师》专业影评补充材料"
+description: "《绝命毒师》专业影评补充材料的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
+tags: ["cinema", "personality", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《绝命毒师》专业影评补充材料"
+  - "《绝命毒师》专业影评补充材料的核心概念"
+  - "《绝命毒师》专业影评补充材料的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/personality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Plato.md"
+    relation: "death/personality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "death/personality/therapy"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "death/personality/therapy"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/personality/therapy"
+
+---
 # 《绝命毒师》专业影评补充材料
 
 ## 扩展参考文献清单

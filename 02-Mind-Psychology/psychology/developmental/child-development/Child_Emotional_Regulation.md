@@ -1,3 +1,31 @@
+---
+
+title: "儿童情绪发展与调节 | Child Emotional Regulation"
+description: "儿童情绪发展与调节 | Child Emotional Regulation的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Child Development"
+tags: ["anxiety", "attachment", "brain", "trauma", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童情绪发展与调节 | Child Emotional Regulation"
+  - "儿童情绪发展与调节 | Child Emotional Regulation的核心概念"
+  - "儿童情绪发展与调节 | Child Emotional Regulation的方法与实践"
+trigger_keywords: ["儿童情绪发展与调节", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 儿童情绪发展与调节 | Child Emotional Regulation
 
 > **学科定位**: 发展心理学 · 情绪科学 · 亲子关系

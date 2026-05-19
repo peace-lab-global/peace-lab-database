@@ -1,3 +1,31 @@
+---
+
+title: "古琴疗愈 (Guqin Therapy)"
+description: "古琴疗愈 (Guqin Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Guqin Therapy"
+tags: ["cortisol"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是古琴疗愈"
+  - "古琴疗愈的核心概念"
+  - "古琴疗愈的方法与实践"
+trigger_keywords: ["古琴疗愈", "aging", "anxiety", "art", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 古琴疗愈 (Guqin Therapy)
 
 > **古琴 (Gǔqín / 古琴)**：中国最古老的弹拨乐器，三千余年历史，被誉为"中国乐器之王"。

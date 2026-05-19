@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)"
+description: "职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Theory"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学理论基础与框架体系"
+  - "职业心理学理论基础与框架体系的核心概念"
+  - "职业心理学理论基础与框架体系的方法与实践"
+  - "职业心理学理论基础与框架体系的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "anxiety/sexuality/therapy"
+
+---
 # 职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)
 
 > 📘 **文档导航**: 本指南深入阐述职业心理学的核心理论体系、概念模型和发展框架。相关文档：

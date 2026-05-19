@@ -1,3 +1,31 @@
+---
+
+title: "心流临床应用与实践 (Flow State: Clinical Applications & Practice)"
+description: "心流临床应用与实践 (Flow State: Clinical Applications & Practice)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 心流"
+tags: ["addiction", "flow"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是心流临床应用与实践"
+  - "心流临床应用与实践的核心概念"
+  - "心流临床应用与实践的方法与实践"
+trigger_keywords: ["心流临床应用与实践", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/depression/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 心流临床应用与实践 (Flow State: Clinical Applications & Practice)
 
 ## 目录 (Table of Contents)

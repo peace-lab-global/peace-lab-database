@@ -1,3 +1,32 @@
+---
+
+title: "认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)"
+description: "认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Cbasp Therapy"
+tags: ["anxiety", "cbt", "depression"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是认知行为分析系统心理治疗"
+  - "认知行为分析系统心理治疗的核心概念"
+  - "认知行为分析系统心理治疗的方法与实践"
+  - "认知行为分析系统心理治疗的循证证据"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/spa/SPA_Overview.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)
 
 > **目标**：建立完整的CBASP理论体系与实践框架，涵盖核心概念、治疗技术、实施流程及循证应用。CBASP是专门为慢性抑郁症开发的整合性治疗方法，强调人际情境学习和现实关系改善。

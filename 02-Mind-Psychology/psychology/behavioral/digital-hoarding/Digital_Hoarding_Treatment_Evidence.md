@@ -1,3 +1,32 @@
+---
+
+title: "数字囤积癖治疗循证实践与Meta分析 (Evidence-Based Practice & Meta-Analysis for Digital Hoarding Treatment)"
+description: "数字囤积癖治疗循证实践与Meta分析 (Evidence-Based Practice & Meta-Analysis for Digital Hoarding Treatment)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
+tags: ["anxiety", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字囤积癖治疗循证实践与Meta分析"
+  - "数字囤积癖治疗循证实践与Meta分析的核心概念"
+  - "数字囤积癖治疗循证实践与Meta分析的方法与实践"
+  - "数字囤积癖治疗循证实践与Meta分析的循证证据"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/exercise"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # 数字囤积癖治疗循证实践与Meta分析 (Evidence-Based Practice & Meta-Analysis for Digital Hoarding Treatment)
 
 ## 1. 循证治疗概述 (Evidence-Based Treatment Overview)

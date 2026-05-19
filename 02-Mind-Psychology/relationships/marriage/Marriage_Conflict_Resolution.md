@@ -1,3 +1,31 @@
+---
+
+title: "夫妻冲突处理与解决 (Marriage Conflict Resolution)"
+description: "夫妻冲突处理与解决 (Marriage Conflict Resolution)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是夫妻冲突处理与解决"
+  - "夫妻冲突处理与解决的核心概念"
+  - "夫妻冲突处理与解决的方法与实践"
+trigger_keywords: ["夫妻冲突处理与解决", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 夫妻冲突处理与解决 (Marriage Conflict Resolution)
 
 ## 冲突类型识别与分类表

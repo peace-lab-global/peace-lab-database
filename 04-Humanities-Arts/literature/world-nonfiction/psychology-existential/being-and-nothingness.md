@@ -1,3 +1,31 @@
+---
+
+title: "《存在与虚无》Being and Nothingness"
+description: "《存在与虚无》Being and Nothingness的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《存在与虚无》Being and Nothingness"
+  - "《存在与虚无》Being and Nothingness的核心概念"
+  - "《存在与虚无》Being and Nothingness的方法与实践"
+trigger_keywords: ["anxiety", "body", "buddhism", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《存在与虚无》Being and Nothingness
 
 > 让-保罗·萨特（Jean-Paul Sartre）著，1943年出版。20世纪最庞大的哲学著作之一，存在主义现象学的巅峰。萨特试图用现象学的方法（从意识本身的结构出发）来证明：人是"自由的"，这种自由既是人的尊严所在，也是人的重负。

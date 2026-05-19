@@ -1,3 +1,31 @@
+---
+
+title: "每日打卡系统设计与实践 (Daily Check-in - Systems & Practice)"
+description: "每日打卡系统设计与实践 (Daily Check-in - Systems & Practice)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Daily Checkin"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是每日打卡系统设计与实践"
+  - "每日打卡系统设计与实践的核心概念"
+  - "每日打卡系统设计与实践的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/therapy/focus-therapy/Focus_Workplace_Therapy.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 每日打卡系统设计与实践 (Daily Check-in - Systems & Practice)
 
 ## 打卡系统架构设计 (System Architecture Design)

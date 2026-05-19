@@ -1,3 +1,31 @@
+---
+
+title: "萨特主要作品深度分析"
+description: "萨特主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是萨特主要作品深度分析"
+  - "萨特主要作品深度分析的核心概念"
+  - "萨特主要作品深度分析的方法与实践"
+trigger_keywords: ["萨特主要作品深度分析", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
+    relation: "anxiety/communication/death"
+
+---
 # 萨特主要作品深度分析
 
 ## 《存在与虚无》(L'Être et le Néant, 1943)

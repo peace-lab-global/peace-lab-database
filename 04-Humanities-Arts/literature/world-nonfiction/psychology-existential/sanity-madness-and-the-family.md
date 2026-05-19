@@ -1,3 +1,31 @@
+---
+
+title: "《正常、疯狂与家庭》Sanity, Madness and the Family"
+description: "《正常、疯狂与家庭》Sanity, Madness and the Family的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["phobia", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正常、疯狂与家庭》Sanity, Madness and the Family"
+  - "《正常、疯狂与家庭》Sanity, Madness and the Family的核心概念"
+  - "《正常、疯狂与家庭》Sanity, Madness and the Family的方法与实践"
+trigger_keywords: ["《正常", "anxiety", "communication", "death", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《正常、疯狂与家庭》Sanity, Madness and the Family
 
 > R.D.莱恩（R.D. Laing）和亚伦·埃斯特森（Aaron Esterson）著，1964年出版。莱恩与精神病学家埃斯特森合作，通过对十一个"精神分裂症"患者家庭的深入研究，揭示了家庭沟通模式如何"制造"精神病。核心发现：**"精神分裂症"不是个体的疾病，而是家庭系统的症状。**

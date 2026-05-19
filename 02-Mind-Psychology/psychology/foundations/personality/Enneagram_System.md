@@ -1,3 +1,31 @@
+---
+
+title: "九型人格体系 (Enneagram System)"
+description: "九型人格体系 (Enneagram System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
+tags: ["anxiety", "attachment", "brain", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是九型人格体系"
+  - "九型人格体系的核心概念"
+  - "九型人格体系的方法与实践"
+trigger_keywords: ["九型人格体系", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 九型人格体系 (Enneagram System)
 
 > **学科定位**: 02-Mind-Psychology > foundations > personality

@@ -1,3 +1,31 @@
+---
+
+title: "Social & Relationships (社会心理与关系动力)"
+description: "Social & Relationships (社会心理与关系动力)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Social & Relationships"
+  - "Social & Relationships的核心概念"
+  - "Social & Relationships的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Social & Relationships (社会心理与关系动力)
 
 ### 心理学跨文化视角表

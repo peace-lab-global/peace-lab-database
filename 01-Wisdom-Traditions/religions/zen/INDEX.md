@@ -1,3 +1,31 @@
+---
+
+title: "zen | Index"
+description: "zen | Index的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["宗教与灵性", "zen"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是zen | Index"
+  - "zen | Index的核心概念"
+  - "zen | Index的方法与实践"
+trigger_keywords: ["zen", "Index", "act", "宗教与灵性", "禅宗"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # zen | Index
 
 ## 内容索引 | Contents

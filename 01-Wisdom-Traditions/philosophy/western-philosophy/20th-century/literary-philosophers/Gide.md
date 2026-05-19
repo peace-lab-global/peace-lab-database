@@ -1,3 +1,31 @@
+---
+
+title: "安德烈·纪德 (André Gide) - 哲学思想全览"
+description: "安德烈·纪德 (André Gide) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["freud", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是安德烈·纪德  - 哲学思想全览"
+  - "安德烈·纪德  - 哲学思想全览的核心概念"
+  - "安德烈·纪德  - 哲学思想全览的方法与实践"
+trigger_keywords: ["安德烈", "art", "behavioral", "body", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "communication/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+    relation: "communication/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+    relation: "communication/personality/sexuality"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
+    relation: "communication/personality/sexuality"
+
+---
 # 安德烈·纪德 (André Gide) - 哲学思想全览
 
 ## 基本信息

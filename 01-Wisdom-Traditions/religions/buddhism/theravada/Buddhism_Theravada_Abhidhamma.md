@@ -1,3 +1,31 @@
+---
+
+title: "南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)"
+description: "南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
+tags: ["addiction", "attachment", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是南传佛教与阿毗达摩"
+  - "南传佛教与阿毗达摩的核心概念"
+  - "南传佛教与阿毗达摩的方法与实践"
+trigger_keywords: ["南传佛教与阿毗达摩", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Pema_Chodron.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)
 
 > **南传佛教/上座部 (Theravāda)**：佛教最古老的传承，保存巴利三藏，以阿罗汉解脱为目标，注重戒定慧三学与内观禅修，阿毗达摩是其精密的心理分析体系。

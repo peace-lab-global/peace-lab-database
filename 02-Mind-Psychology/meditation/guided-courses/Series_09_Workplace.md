@@ -1,3 +1,31 @@
+---
+
+title: "系列九：职场场景系列 | Workplace Series"
+description: "系列九：职场场景系列 | Workplace Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "cbt", "cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列九：职场场景系列 | Workplace Series"
+  - "系列九：职场场景系列 | Workplace Series的核心概念"
+  - "系列九：职场场景系列 | Workplace Series的方法与实践"
+trigger_keywords: ["系列九：职场场景系列", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/communication/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/communication/meditation"
+
+---
 # 系列九：职场场景系列 | Workplace Series
 
 > **级别**：Level 2-3（初中级）

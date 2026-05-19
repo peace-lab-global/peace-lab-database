@@ -1,3 +1,31 @@
+---
+
+title: "孤独中的创造者 | Creative Minds in Solitude"
+description: "孤独中的创造者 | Creative Minds in Solitude的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Content Media"
+tags: ["anxiety", "cinema", "flow", "loneliness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独中的创造者 | Creative Minds in Solitude"
+  - "孤独中的创造者 | Creative Minds in Solitude的核心概念"
+  - "孤独中的创造者 | Creative Minds in Solitude的方法与实践"
+trigger_keywords: ["孤独中的创造者", "anxiety", "art", "cinema", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 孤独中的创造者 | Creative Minds in Solitude
 
 > **自媒体定位**: 人物IP × 情感共鸣 × 创作心理学  

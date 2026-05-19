@@ -1,3 +1,31 @@
+---
+
+title: "Meditation Adverse Effects (冥想不良反应系统分类)"
+description: "Meditation Adverse Effects (冥想不良反应系统分类)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Safety"
+tags: ["anxiety", "brain", "mbsr", "trauma", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Meditation Adverse Effects"
+  - "Meditation Adverse Effects的核心概念"
+  - "Meditation Adverse Effects的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # Meditation Adverse Effects (冥想不良反应系统分类)
 
 ## 核心术语表

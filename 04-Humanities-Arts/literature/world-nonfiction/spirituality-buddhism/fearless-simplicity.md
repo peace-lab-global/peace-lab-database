@@ -1,3 +1,31 @@
+---
+
+title: "《无畏的简朴》Fearless Simplicity"
+description: "《无畏的简朴》Fearless Simplicity的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《无畏的简朴》Fearless Simplicity"
+  - "《无畏的简朴》Fearless Simplicity的核心概念"
+  - "《无畏的简朴》Fearless Simplicity的方法与实践"
+trigger_keywords: ["buddhism", "death", "dzogchen", "psychology"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/death/productivity"
+
+---
 # 《无畏的简朴》Fearless Simplicity
 
 >   Dzongsar Khyentse Rinpoche 著，2003年出版。宗萨蒋扬钦哲仁波切关于大圆满教法的开示集，以他标志性的直接和 sometimes shocking 的风格，指向心性的本然状态。与《正见》等书不同，这本书更加专注于"实修"而非"理论"。

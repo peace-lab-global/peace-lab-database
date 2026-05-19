@@ -1,3 +1,31 @@
+---
+
+title: "预防医学 | Preventive Medicine"
+description: "预防医学 | Preventive Medicine的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cardiovascular", "gut", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是预防医学 | Preventive Medicine"
+  - "预防医学 | Preventive Medicine的核心概念"
+  - "预防医学 | Preventive Medicine的方法与实践"
+trigger_keywords: ["预防医学", "aging", "cardiovascular", "clinical", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/cardiovascular/communication"
+
+---
 # 预防医学 | Preventive Medicine
 
 > **预防医学**（Preventive Medicine）强调通过干预健康决定因素来预防疾病而非治疗疾病——从疫苗接种（Vaccination）到健康促进（Health Promotion），从筛查项目（Screening Programs）到流行病学监测（Epidemiological Surveillance）。"上医治未病"的古老智慧正在被现代科学和技术所赋能。本文件精选TED平台上关于预防医学的代表性演讲，帮助读者理解预防医学的前沿发展和实践策略。

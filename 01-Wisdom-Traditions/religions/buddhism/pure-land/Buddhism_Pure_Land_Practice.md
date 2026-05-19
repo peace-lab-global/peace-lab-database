@@ -1,3 +1,31 @@
+---
+
+title: "净土宗修持与念佛法门 (Pure Land Practice & Buddha Recitation)"
+description: "净土宗修持与念佛法门 (Pure Land Practice & Buddha Recitation)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Pure Land"
+tags: ["attachment", "buddhism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是净土宗修持与念佛法门"
+  - "净土宗修持与念佛法门的核心概念"
+  - "净土宗修持与念佛法门的方法与实践"
+trigger_keywords: ["净土宗修持与念佛法门", "act", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 净土宗修持与念佛法门 (Pure Land Practice & Buddha Recitation)
 
 > **净土宗 (Pure Land Buddhism)**：大乘佛教重要宗派，以信愿行为宗旨，仰仗阿弥陀佛本愿力，专修念佛法门，期望往生西方极乐世界。

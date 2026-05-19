@@ -1,3 +1,31 @@
+---
+
+title: "《毒药即解药》三方书评"
+description: "《毒药即解药》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Poison Is Medicine"
+tags: ["buddhism", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《毒药即解药》三方书评"
+  - "《毒药即解药》三方书评的核心概念"
+  - "《毒药即解药》三方书评的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "body", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 《毒药即解药》三方书评
 
 ---

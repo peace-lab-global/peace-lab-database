@@ -1,3 +1,31 @@
+---
+
+title: "数字囤积癖循证研究与meta分析 (Digital Hoarding Research Evidence & Meta-Analysis)"
+description: "数字囤积癖循证研究与meta分析 (Digital Hoarding Research Evidence & Meta-Analysis)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
+tags: ["anxiety", "bci", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字囤积癖循证研究与meta分析"
+  - "数字囤积癖循证研究与meta分析的核心概念"
+  - "数字囤积癖循证研究与meta分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "bci"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # 数字囤积癖循证研究与meta分析 (Digital Hoarding Research Evidence & Meta-Analysis)
 
 ## 1. Meta分析与系统评价 (Meta-analyses & Systematic Reviews)

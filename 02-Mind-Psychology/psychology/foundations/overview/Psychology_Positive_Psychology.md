@@ -1,3 +1,32 @@
+---
+
+title: "积极心理学 (Positive Psychology)"
+description: "积极心理学 (Positive Psychology)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["depression", "flow", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是积极心理学"
+  - "积极心理学的核心概念"
+  - "积极心理学的方法与实践"
+  - "积极心理学的自助方法"
+trigger_keywords: ["积极心理学", "act", "body", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/depression/emotion"
+
+---
 # 积极心理学 (Positive Psychology)
 ## 核心概念 (Core Concepts)
 | 概念 | 英文 | 定义 | 理论基础 | 实践应用 |

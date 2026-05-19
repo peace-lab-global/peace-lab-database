@@ -1,3 +1,31 @@
+---
+
+title: "肖邦《圆舞曲》综合指南"
+description: "肖邦《圆舞曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Waltzes"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肖邦《圆舞曲》综合指南"
+  - "肖邦《圆舞曲》综合指南的核心概念"
+  - "肖邦《圆舞曲》综合指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "brain", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 肖邦《圆舞曲》综合指南
 
 ## 作品基本信息

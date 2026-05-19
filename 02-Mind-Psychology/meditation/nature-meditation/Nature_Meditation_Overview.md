@@ -1,3 +1,31 @@
+---
+
+title: "自然冥想专业概述 | Nature Meditation Overview"
+description: "自然冥想专业概述 | Nature Meditation Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Nature Meditation"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是自然冥想专业概述 | Nature Meditation Overview"
+  - "自然冥想专业概述 | Nature Meditation Overview的核心概念"
+  - "自然冥想专业概述 | Nature Meditation Overview的方法与实践"
+trigger_keywords: ["自然冥想专业概述", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Mindful_Techniques.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 自然冥想专业概述 | Nature Meditation Overview
 
 > **文档类型**: 冥想传统与实践系统介绍 | Tradition & Practice Introduction

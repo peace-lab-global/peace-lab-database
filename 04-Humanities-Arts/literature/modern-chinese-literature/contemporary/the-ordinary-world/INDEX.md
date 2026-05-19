@@ -1,3 +1,31 @@
+---
+
+title: "The Ordinary World | 平凡的世界"
+description: "The Ordinary World | 平凡的世界的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Ordinary World"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Ordinary World | 平凡的世界"
+  - "The Ordinary World | 平凡的世界的核心概念"
+  - "The Ordinary World | 平凡的世界的方法与实践"
+trigger_keywords: ["平凡的世界", "act", "literature", "philosophy", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
+    relation: "art_therapy/sexuality/therapy"
+
+---
 # The Ordinary World | 平凡的世界
 
 > 路遥长篇小说，1986-1988年创作，1991年获茅盾文学奖。被誉为中国当代文学史上最具影响力的现实主义作品之一。

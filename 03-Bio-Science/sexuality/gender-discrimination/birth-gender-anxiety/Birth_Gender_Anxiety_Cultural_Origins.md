@@ -1,3 +1,31 @@
+---
+
+title: "Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)"
+description: "Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["attachment", "daoism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Birth Gender Anxiety: Chinese Traditional Culture Analysis"
+  - "Birth Gender Anxiety: Chinese Traditional Culture Analysis的核心概念"
+  - "Birth Gender Anxiety: Chinese Traditional Culture Analysis的方法与实践"
+trigger_keywords: ["act", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Intimacy_Relationships.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)
 
 ## 儒家思想与生育性别观念 (Confucian Thought and Birth Gender Concepts)

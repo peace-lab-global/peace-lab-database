@@ -1,3 +1,31 @@
+---
+
+title: "《在两个王国之间》Between Two Kingdoms"
+description: "《在两个王国之间》Between Two Kingdoms的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["immune", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《在两个王国之间》Between Two Kingdoms"
+  - "《在两个王国之间》Between Two Kingdoms的核心概念"
+  - "《在两个王国之间》Between Two Kingdoms的方法与实践"
+trigger_keywords: ["aging", "art", "body", "child"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 《在两个王国之间》Between Two Kingdoms
 
 **作者**：苏莱卡·贾瓦德 (Suleika Jaouad)  

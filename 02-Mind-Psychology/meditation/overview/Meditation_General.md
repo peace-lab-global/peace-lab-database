@@ -1,3 +1,31 @@
+---
+
+title: "General Meditation (冥想概论与通识)"
+description: "General Meditation (冥想概论与通识)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "cbt", "mindfulness", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是General Meditation"
+  - "General Meditation的核心概念"
+  - "General Meditation的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # General Meditation (冥想概论与通识)
 
 ### 禅修文化差异表

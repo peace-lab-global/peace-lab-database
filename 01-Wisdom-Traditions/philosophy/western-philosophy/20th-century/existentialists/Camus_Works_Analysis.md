@@ -1,3 +1,31 @@
+---
+
+title: "加缪主要作品深度分析"
+description: "加缪主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
+tags: []
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是加缪主要作品深度分析"
+  - "加缪主要作品深度分析的核心概念"
+  - "加缪主要作品深度分析的方法与实践"
+trigger_keywords: ["加缪主要作品深度分析", "anxiety", "art", "behavioral", "child"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "anxiety/communication/death"
+
+---
 # 加缪主要作品深度分析
 
 ## 《局外人》(L'Étranger, 1942)

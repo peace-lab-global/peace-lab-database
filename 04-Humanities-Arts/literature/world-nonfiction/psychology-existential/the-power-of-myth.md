@@ -1,3 +1,31 @@
+---
+
+title: "《神话的力量》The Power of Myth"
+description: "《神话的力量》The Power of Myth的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《神话的力量》The Power of Myth"
+  - "《神话的力量》The Power of Myth的核心概念"
+  - "《神话的力量》The Power of Myth的方法与实践"
+trigger_keywords: ["anxiety", "death", "phobia", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《神话的力量》The Power of Myth
 
 > 约瑟夫·坎贝尔（Joseph Campbell）与比尔·莫耶斯（Bill Moyers）著，1988年出版。基于PBS同名纪录片的对话整理，是坎贝尔晚年最通俗、也最具影响力的作品。六个晚上的电视对话，让坎贝尔从学术象牙塔走进了美国主流文化。

@@ -1,3 +1,31 @@
+---
+
+title: "Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)"
+description: "Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sexually Transmitted Diseases Public Health"
+  - "Sexually Transmitted Diseases Public Health的核心概念"
+  - "Sexually Transmitted Diseases Public Health的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/immune"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "communication/death/immune"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "communication/death/immune"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "communication/death/sexuality"
+
+---
 # Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)
 
 > 🌍 **公共卫生指南**: 本文档详细阐述性传播疾病的流行病学监测、防控策略、政策框架和全球合作机制。建议结合[临床](STD_Clinical_Features.md)和[预防](STD_Prevention_Strategies.md)文档进行系统学习。

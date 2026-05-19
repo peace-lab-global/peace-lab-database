@@ -1,3 +1,32 @@
+---
+
+title: "《给心理治疗师的礼物》The Gift of Therapy"
+description: "《给心理治疗师的礼物》The Gift of Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["suicide", "treatment", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《给心理治疗师的礼物》The Gift of Therapy"
+  - "《给心理治疗师的礼物》The Gift of Therapy的核心概念"
+  - "《给心理治疗师的礼物》The Gift of Therapy的方法与实践"
+  - "《给心理治疗师的礼物》The Gift of Therapy的循证证据"
+trigger_keywords: ["act", "behavioral", "clinical", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/adolescent-depression/Adolescent_Depression.md"
+    relation: "attachment/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "attachment/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "attachment/communication/depression"
+
+---
 # 《给心理治疗师的礼物》The Gift of Therapy
 
 > 欧文·亚隆（Irvin D. Yalom）著，2002年出版。85封写给年轻治疗师的信，每封信讨论一个临床主题——从"如何建立治疗关系"到"如何处理治疗中的性吸引"，从"何时应该自我暴露"到"如何面对治疗失败"。

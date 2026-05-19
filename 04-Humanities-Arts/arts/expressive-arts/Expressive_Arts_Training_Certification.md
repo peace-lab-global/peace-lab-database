@@ -1,3 +1,32 @@
+---
+
+title: "表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)"
+description: "表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是表达性艺术治疗培训认证体系"
+  - "表达性艺术治疗培训认证体系的核心概念"
+  - "表达性艺术治疗培训认证体系的方法与实践"
+  - "表达性艺术治疗培训认证体系的循证证据"
+trigger_keywords: ["adolescent", "aging", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "aging/communication/exercise"
+
+---
 # 表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)
 
 > **专业化人才培养与发展路径**

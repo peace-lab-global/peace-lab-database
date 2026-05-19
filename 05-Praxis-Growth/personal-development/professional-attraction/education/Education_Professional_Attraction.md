@@ -1,3 +1,31 @@
+---
+
+title: "Education Professional Attraction Psychology (教育职业吸引心理学)"
+description: "Education Professional Attraction Psychology (教育职业吸引心理学)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction > Education"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Education Professional Attraction Psychology"
+  - "Education Professional Attraction Psychology的核心概念"
+  - "Education Professional Attraction Psychology的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
+    relation: "anxiety/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/personality"
+
+---
 # Education Professional Attraction Psychology (教育职业吸引心理学)
 
 > 📘 **文档导航**: 本专题深入探讨教育职业吸引的心理机制、知识权威特质和育人价值。相关文档：

@@ -1,3 +1,31 @@
+---
+
+title: "Patañjali (帕坦伽利) — 瑜伽经编纂者，八支体系奠基人"
+description: "Patañjali (帕坦伽利) — 瑜伽经编纂者，八支体系奠基人的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Ancient"
+tags: ["buddhism", "cbt", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Patañjali  — 瑜伽经编纂者，八支体系奠基人"
+  - "Patañjali  — 瑜伽经编纂者，八支体系奠基人的核心概念"
+  - "Patañjali  — 瑜伽经编纂者，八支体系奠基人的方法与实践"
+trigger_keywords: ["八支体系奠基人", "anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # Patañjali (帕坦伽利) — 瑜伽经编纂者，八支体系奠基人
 
 ## 概述 (Overview)

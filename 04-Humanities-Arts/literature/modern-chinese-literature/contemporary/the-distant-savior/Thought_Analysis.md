@@ -1,3 +1,31 @@
+---
+
+title: "《遥远的救世主》核心思想与观点分析"
+description: "《遥远的救世主》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
+tags: ["personality", "suicide", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《遥远的救世主》核心思想与观点分析"
+  - "《遥远的救世主》核心思想与观点分析的核心概念"
+  - "《遥远的救世主》核心思想与观点分析的方法与实践"
+trigger_keywords: ["brain", "buddhism", "developmental", "personality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "buddhism/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "buddhism/neuroscience/nutrition"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+    relation: "buddhism/depression/neuroscience"
+
+---
 # 《遥远的救世主》核心思想与观点分析
 
 ## 一、文化属性决定论

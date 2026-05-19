@@ -1,3 +1,31 @@
+---
+
+title: "《天真与经验之歌》Songs of Innocence and of Experience"
+description: "《天真与经验之歌》Songs of Innocence and of Experience的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《天真与经验之歌》Songs of Innocence and of Experience"
+  - "《天真与经验之歌》Songs of Innocence and of Experience的核心概念"
+  - "《天真与经验之歌》Songs of Innocence and of Experience的方法与实践"
+trigger_keywords: ["art", "buddhism", "cognitive", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 《天真与经验之歌》Songs of Innocence and of Experience
 
 > 威廉·布莱克（William Blake）著，1789年（天真之歌）和1794年（经验之歌）。英国诗人、画家布莱克的诗集与版画合集，展示了人类心灵的两种状态——"天真"（Innocence）和"经验"（Experience），以及两者之间的张力。布莱克自己绘制并雕刻了每一幅插图，创造了文学与视觉艺术的完美融合。

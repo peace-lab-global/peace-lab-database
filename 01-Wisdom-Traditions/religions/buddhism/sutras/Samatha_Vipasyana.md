@@ -1,3 +1,31 @@
+---
+
+title: "修习止观坐禅法要（小止观）"
+description: "修习止观坐禅法要（小止观）的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "mindfulness", "music", "sleep", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是修习止观坐禅法要（小止观）"
+  - "修习止观坐禅法要（小止观）的核心概念"
+  - "修习止观坐禅法要（小止观）的方法与实践"
+trigger_keywords: ["body", "buddhism", "mindfulness", "music"]
+cross_refs:
+  - path: "README.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "TAXONOMY.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "meditation/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "meditation/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/06-Subtypes.md"
+    relation: "meditation/nutrition/sexuality"
+
+---
 # 修习止观坐禅法要（小止观）
 
 ## 基本信息

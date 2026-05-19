@@ -1,3 +1,31 @@
+---
+
+title: "文艺复兴哲学经典三方书评"
+description: "文艺复兴哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
+tags: ["loneliness", "philosophy", "religion", "self-confidence", "social", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文艺复兴哲学经典三方书评"
+  - "文艺复兴哲学经典三方书评的核心概念"
+  - "文艺复兴哲学经典三方书评的方法与实践"
+trigger_keywords: ["literature", "loneliness", "philosophy", "religion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality"
+
+---
 # 文艺复兴哲学经典三方书评
 
 > 本文档收录文艺复兴时期两位核心思想家——马基雅维利与伊拉斯谟——的经典著作三方书评，分别从**专业书评人**、**哲学爱好者**与**哲学学者**的视角进行评述。

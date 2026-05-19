@@ -1,3 +1,31 @@
+---
+
+title: "健康管理 | Health Management"
+description: "健康管理 | Health Management的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cardiovascular", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是健康管理 | Health Management"
+  - "健康管理 | Health Management的核心概念"
+  - "健康管理 | Health Management的方法与实践"
+trigger_keywords: ["健康管理", "aging", "behavioral", "breathwork", "cardiovascular"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/death"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Thought_Analysis.md"
+    relation: "aging/communication/death"
+
+---
 # 健康管理 | Health Management
 
 > **健康管理**（Health Management）是整合医疗资源、优化健康服务交付的系统化学科——从慢性病管理（Chronic Disease Management）到健康政策（Health Policy），从医疗质量改进（Quality Improvement）到患者体验优化（Patient Experience）。有效的健康管理是提升人群健康水平的关键。本文件精选TED平台上关于健康管理的代表性演讲，帮助读者理解现代健康管理的核心理念和实践创新。

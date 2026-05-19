@@ -1,4 +1,5 @@
 ---
+
 skill_id: S_003
 skill_name: 皮质醇节律评估
 skill_name_en: Cortisol Rhythm Assessment
@@ -30,6 +31,18 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/emotion/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/emotion/immune"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/neuroscience"
+
 ---
 
 # 皮质醇节律评估技能

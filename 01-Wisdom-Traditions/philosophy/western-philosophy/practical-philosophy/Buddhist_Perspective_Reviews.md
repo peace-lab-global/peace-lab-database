@@ -1,3 +1,31 @@
+---
+
+title: "实用哲学 · 佛法视角三方书评"
+description: "实用哲学 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
+tags: ["buddhism", "mindfulness", "philosophy", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是实用哲学 · 佛法视角三方书评"
+  - "实用哲学 · 佛法视角三方书评的核心概念"
+  - "实用哲学 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["实用哲学", "佛法视角三方书评", "anxiety", "buddhism", "death", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "README.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 实用哲学 · 佛法视角三方书评
 
 ---

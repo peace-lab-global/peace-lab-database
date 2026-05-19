@@ -1,3 +1,32 @@
+---
+
+title: "止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)"
+description: "止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Samatha Vipassana"
+tags: ["addiction", "anxiety", "brain", "depression", "mbsr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是止观禅修与现代心理学整合"
+  - "止观禅修与现代心理学整合的核心概念"
+  - "止观禅修与现代心理学整合的方法与实践"
+  - "止观禅修与现代心理学整合的自助方法"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)
 
 > **止观禅修与现代心理治疗的整合** 是21世纪心理健康领域最重要的发展之一。从MBSR到MBCT，从DBT到ACT，止观传统的核心技术已深度融入多种循证心理治疗方法。

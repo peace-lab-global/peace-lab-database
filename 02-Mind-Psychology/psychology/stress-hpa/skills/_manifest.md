@@ -1,3 +1,31 @@
+---
+
+title: "Stress & HPA Axis Agent Skills — 技能注册清单"
+description: "Stress & HPA Axis Agent Skills — 技能注册清单的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Skills"
+tags: ["anxiety", "brain", "cardiovascular", "cbt", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stress & HPA Axis Agent Skills — 技能注册清单"
+  - "Stress & HPA Axis Agent Skills — 技能注册清单的核心概念"
+  - "Stress & HPA Axis Agent Skills — 技能注册清单的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # Stress & HPA Axis Agent Skills — 技能注册清单
 
 > 本文档是所有技能的结构化元数据注册表，供智能体自动解析和调用决策使用。

@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Clinical Assessment & Diagnosis (恋物癖临床评估与诊断)"
+description: "Paraphilic Disorders: Clinical Assessment & Diagnosis (恋物癖临床评估与诊断)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["brain", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Clinical Assessment & Diagnosis"
+  - "Paraphilic Disorders: Clinical Assessment & Diagnosis的核心概念"
+  - "Paraphilic Disorders: Clinical Assessment & Diagnosis的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/neuroscience/productivity"
+
+---
 # Paraphilic Disorders: Clinical Assessment & Diagnosis (恋物癖临床评估与诊断)
 
 > 📘 **文档导航**: 本专题文档提供恋物癖临床评估的专业指导。相关主题请参考：

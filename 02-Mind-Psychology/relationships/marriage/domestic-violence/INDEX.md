@@ -1,3 +1,19 @@
+---
+title: "domestic-violence | Index"
+description: "domestic-violence | Index的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
+tags: ["人际关系"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是domestic-violence | Index"
+  - "domestic-violence | Index的核心概念"
+  - "domestic-violence | Index的方法与实践"
+trigger_keywords: ["Index", "人际关系"]
+cross_refs: []
+---
 # domestic-violence | Index
 
 ## 内容索引 | Contents

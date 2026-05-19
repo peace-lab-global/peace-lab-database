@@ -1,3 +1,32 @@
+---
+
+title: "心理健康圆桌 | Mental Health Round Table"
+description: "心理健康圆桌 | Mental Health Round Table的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Round Table"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心理健康圆桌 | Mental Health Round Table"
+  - "心理健康圆桌 | Mental Health Round Table的核心概念"
+  - "心理健康圆桌 | Mental Health Round Table的方法与实践"
+  - "心理健康圆桌 | Mental Health Round Table的自助方法"
+trigger_keywords: ["心理健康圆桌", "act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 心理健康圆桌 | Mental Health Round Table
 
 > 心理健康(Mental Health)是全球公共卫生的重要议题。世界卫生组织(WHO)数据显示,全球约有3亿人受抑郁症困扰,2.6亿人受焦虑症影响。在中国,心理健康服务的供需缺口仍然显著,而污名化(Stigma)问题更是阻碍求助的首要障碍。本圆桌讨论集汇心理学研究者、临床工作者、社区工作者和有亲身经历者的多元视角,深入探讨焦虑(Anxiety)、抑郁(Depression)、职业倦怠(Burnout)、心理治疗可及性(Therapy Access)和去污名化(Stigma Reduction)等核心议题。

@@ -1,3 +1,31 @@
+---
+
+title: "芝诺 (Zeno of Citium)"
+description: "芝诺 (Zeno of Citium)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
+tags: ["cbt", "decision-making", "healing", "meditation", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是芝诺"
+  - "芝诺的核心概念"
+  - "芝诺的方法与实践"
+trigger_keywords: ["芝诺", "art", "behavioral", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/therapy/focus-therapy/Focus_Meditation_Therapy.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 芝诺 (Zeno of Citium)
 
 ## 核心思想 (Core Ideas)

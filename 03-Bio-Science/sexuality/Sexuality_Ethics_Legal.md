@@ -1,3 +1,31 @@
+---
+
+title: "Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)"
+description: "Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["addiction", "decision-making", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Ethics, Law, and Policy in Sexuality"
+  - "Ethics, Law, and Policy in Sexuality的核心概念"
+  - "Ethics, Law, and Policy in Sexuality的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
+    relation: "communication/sexuality/trauma"
+
+---
 # Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)
 
 ## 性学研究伦理原则框架 (Ethical Principles Framework for Sexuality Research)

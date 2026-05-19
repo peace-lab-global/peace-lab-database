@@ -1,3 +1,31 @@
+---
+
+title: "Zen Koan Anthropology (禅宗公案机锋学)"
+description: "Zen Koan Anthropology (禅宗公案机锋学)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["dmn", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zen Koan Anthropology"
+  - "Zen Koan Anthropology的核心概念"
+  - "Zen Koan Anthropology的方法与实践"
+trigger_keywords: ["act", "behavioral", "brain", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/industry-leaders/Sam_Harris.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # Zen Koan Anthropology (禅宗公案机锋学)
 
 ### Strategic Cognitive Dissonance: Classic Koans (经典公案深度辨析表)

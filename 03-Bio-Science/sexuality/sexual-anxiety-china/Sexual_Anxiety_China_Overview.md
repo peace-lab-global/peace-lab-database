@@ -1,3 +1,32 @@
+---
+
+title: "中国社会性焦虑专业内容体系概览"
+description: "中国社会性焦虑专业内容体系概览的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["aging", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性焦虑专业内容体系概览"
+  - "中国社会性焦虑专业内容体系概览的核心概念"
+  - "中国社会性焦虑专业内容体系概览的方法与实践"
+  - "中国社会性焦虑专业内容体系概览的自助方法"
+trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 中国社会性焦虑专业内容体系概览
 
 ## 核心概念与定义

@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教盂兰盆会仪轨 (Chinese Ullambana / Ghost Festival Ritual)"
+description: "汉传佛教盂兰盆会仪轨 (Chinese Ullambana / Ghost Festival Ritual)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "parenting"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传佛教盂兰盆会仪轨"
+  - "汉传佛教盂兰盆会仪轨的核心概念"
+  - "汉传佛教盂兰盆会仪轨的方法与实践"
+trigger_keywords: ["汉传佛教盂兰盆会仪轨", "act", "anxiety", "behavioral", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "anxiety/buddhism/death"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/death"
+  - path: "03-Bio-Science/death/Death_Resources_Bibliography.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 汉传佛教盂兰盆会仪轨 (Chinese Ullambana / Ghost Festival Ritual)
 
 > **盂兰盆会 (Ullambana / Yulanpen Hui)**：汉传佛教最重要的孝道与超度法会，源于《佛说盂兰盆经》目犍连救母的故事。每年农历七月十五举行，以供养僧众的功德回向现世父母、超度七世父母。

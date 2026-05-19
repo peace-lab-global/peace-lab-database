@@ -1,3 +1,31 @@
+---
+
+title: "Tea Ceremony & Tea Therapy (茶道与茶疗)"
+description: "Tea Ceremony & Tea Therapy (茶道与茶疗)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Tea"
+tags: ["addiction", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Tea Ceremony & Tea Therapy"
+  - "Tea Ceremony & Tea Therapy的核心概念"
+  - "Tea Ceremony & Tea Therapy的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Tea Ceremony & Tea Therapy (茶道与茶疗)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

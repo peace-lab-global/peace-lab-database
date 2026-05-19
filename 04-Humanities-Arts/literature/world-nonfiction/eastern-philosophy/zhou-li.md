@@ -1,3 +1,31 @@
+---
+
+title: "《周礼》Zhou-li / Rites of Zhou"
+description: "《周礼》Zhou-li / Rites of Zhou的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《周礼》Zhou-li / Rites of Zhou"
+  - "《周礼》Zhou-li / Rites of Zhou的核心概念"
+  - "《周礼》Zhou-li / Rites of Zhou的方法与实践"
+trigger_keywords: ["buddhism", "literature", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism"
+
+---
 # 《周礼》Zhou-li / Rites of Zhou
 
 > 传统归于周公，约公元前3世纪至公元前2世纪形成。儒家经典"三礼"之一，详细描述了周代的官制和政治制度。虽然现代学者多认为它是战国时期的理想化建构，而非真实的历史记录，但它作为**中国古代政治理想的蓝图**，影响深远。

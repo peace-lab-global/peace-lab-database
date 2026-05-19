@@ -1,3 +1,32 @@
+---
+
+title: "心理神经免疫学 (Psychoneuroimmunology)"
+description: "心理神经免疫学 (Psychoneuroimmunology)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
+tags: ["aging", "brain", "cbt", "cortisol", "daoism", "inflammation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心理神经免疫学"
+  - "心理神经免疫学的核心概念"
+  - "心理神经免疫学的方法与实践"
+  - "心理神经免疫学的自助方法"
+trigger_keywords: ["心理神经免疫学", "aging", "anxiety", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 心理神经免疫学 (Psychoneuroimmunology)
 
 > **领域定位**: 03-Bio-Science / biology / immune-inflammation

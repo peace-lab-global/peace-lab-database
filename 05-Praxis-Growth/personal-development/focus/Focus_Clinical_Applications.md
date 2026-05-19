@@ -1,3 +1,32 @@
+---
+
+title: "专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)"
+description: "专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Focus"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是专注力临床应用与治疗"
+  - "专注力临床应用与治疗的核心概念"
+  - "专注力临床应用与治疗的方法与实践"
+  - "专注力临床应用与治疗的循证证据"
+trigger_keywords: ["专注力临床应用与治疗", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)
 
 ## 目录 (Table of Contents)

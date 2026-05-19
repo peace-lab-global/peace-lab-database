@@ -1,3 +1,31 @@
+---
+
+title: "东正教核心概览 (Orthodox Christianity Overview)"
+description: "东正教核心概览 (Orthodox Christianity Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > Orthodox Christianity"
+tags: ["addiction", "buddhism", "christianity"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是东正教核心概览"
+  - "东正教核心概览的核心概念"
+  - "东正教核心概览的方法与实践"
+trigger_keywords: ["东正教核心概览", "addiction", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/hindu-meditation/Hindu_Meditation_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/korean-seon/Korean_Seon_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 东正教核心概览 (Orthodox Christianity Overview)
 
 ## 目录 (Table of Contents)

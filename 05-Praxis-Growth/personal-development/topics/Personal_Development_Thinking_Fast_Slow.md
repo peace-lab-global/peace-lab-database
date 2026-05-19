@@ -1,3 +1,31 @@
+---
+
+title: "Thinking, Fast and Slow 思考，快与慢"
+description: "Thinking, Fast and Slow 思考，快与慢的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Thinking, Fast and Slow 思考，快与慢"
+  - "Thinking, Fast and Slow 思考，快与慢的核心概念"
+  - "Thinking, Fast and Slow 思考，快与慢的方法与实践"
+trigger_keywords: ["快与慢", "act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "communication/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-poetry/modern/World_Modern_Poetry_Overview.md"
+    relation: "communication/death/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "communication/death/emotion"
+
+---
 # Thinking, Fast and Slow 思考，快与慢
 
 ## 作者背景 (Author Background)

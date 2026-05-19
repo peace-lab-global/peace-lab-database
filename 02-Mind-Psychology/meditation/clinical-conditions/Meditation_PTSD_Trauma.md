@@ -1,3 +1,31 @@
+---
+
+title: "冥想与创伤后应激障碍 | Meditation and PTSD"
+description: "冥想与创伤后应激障碍 | Meditation and PTSD的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness", "trauma"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与创伤后应激障碍 | Meditation and PTSD"
+  - "冥想与创伤后应激障碍 | Meditation and PTSD的核心概念"
+  - "冥想与创伤后应激障碍 | Meditation and PTSD的方法与实践"
+trigger_keywords: ["冥想与创伤后应激障碍", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 冥想与创伤后应激障碍 | Meditation and PTSD
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide

@@ -1,3 +1,31 @@
+---
+
+title: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)"
+description: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)的详细解析与实践指南"
+category: "智慧传承"
+tags: ["buddhism", "cbt", "meditation", "philosophy", "christianity", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是智慧传承中的独处哲学资源索引"
+  - "智慧传承中的独处哲学资源索引的核心概念"
+  - "智慧传承中的独处哲学资源索引的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/death/INDEX.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)
 
 > **定位**: 本桥接文档梳理 01-Wisdom-Traditions 中与"独处"(Solitude)相关的核心资源，为 `02-Mind-Psychology/psychology/social/solitude/` 专题体系提供智慧传统维度的深度支撑。

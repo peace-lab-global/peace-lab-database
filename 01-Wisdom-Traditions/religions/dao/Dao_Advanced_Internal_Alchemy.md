@@ -1,3 +1,31 @@
+---
+
+title: "Advanced Internal Alchemy (高阶内丹：性命演化)"
+description: "Advanced Internal Alchemy (高阶内丹：性命演化)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["addiction", "immune", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Advanced Internal Alchemy"
+  - "Advanced Internal Alchemy的核心概念"
+  - "Advanced Internal Alchemy的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/daoism/emotion"
+
+---
 # Advanced Internal Alchemy (高阶内丹：性命演化)
 
 ### Laboratory of the Soul: Alchemy Metaphors (灵魂实验室：丹道隐喻详表)

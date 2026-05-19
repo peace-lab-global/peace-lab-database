@@ -1,3 +1,31 @@
+---
+
+title: "日本真言宗仪轨 (Japanese Shingon Buddhist Rituals)"
+description: "日本真言宗仪轨 (Japanese Shingon Buddhist Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "宗教与灵性", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是日本真言宗仪轨"
+  - "日本真言宗仪轨的核心概念"
+  - "日本真言宗仪轨的方法与实践"
+trigger_keywords: ["日本真言宗仪轨", "act", "developmental", "sexuality", "佛教"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality/therapy"
+
+---
 # 日本真言宗仪轨 (Japanese Shingon Buddhist Rituals)
 
 > **真言宗 (Shingon-shu)**：日本八宗之一，由弘法大师空海（774-835）于唐代从中国长安青龙寺惠果阿阇梨处受法后传入日本。以「即身成佛」为最高教义，以「身口意三密相应」为核心修法。

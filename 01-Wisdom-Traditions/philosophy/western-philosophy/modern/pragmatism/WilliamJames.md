@@ -1,3 +1,31 @@
+---
+
+title: "威廉·詹姆斯 (William James)"
+description: "威廉·詹姆斯 (William James)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Modern > Pragmatism"
+tags: ["cbt", "healing", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是威廉·詹姆斯"
+  - "威廉·詹姆斯的核心概念"
+  - "威廉·詹姆斯的方法与实践"
+trigger_keywords: ["威廉", "詹姆斯", "behavioral", "cbt", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "exercise/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "exercise/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "exercise/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "exercise/meditation/productivity"
+
+---
 # 威廉·詹姆斯 (William James)
 ## 核心思想 (Core Ideas)
 | 概念 | 原文 | 解释 | 影响 |

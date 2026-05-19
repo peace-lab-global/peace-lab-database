@@ -1,3 +1,31 @@
+---
+
+title: "止观禅修实践指南——进阶篇 (Practice Guide: Intermediate)"
+description: "止观禅修实践指南——进阶篇 (Practice Guide: Intermediate)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Samatha Vipassana"
+tags: ["anxiety", "brain", "depression", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是止观禅修实践指南——进阶篇"
+  - "止观禅修实践指南——进阶篇的核心概念"
+  - "止观禅修实践指南——进阶篇的方法与实践"
+trigger_keywords: ["act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 止观禅修实践指南——进阶篇 (Practice Guide: Intermediate)
 
 > **本指南面向**：已建立1年以上稳定日常修习、能坐30-60分钟、有参加过密集禅修经验的中级修行者。

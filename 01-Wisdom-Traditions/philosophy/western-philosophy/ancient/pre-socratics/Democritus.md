@@ -1,3 +1,31 @@
+---
+
+title: "德谟克利特 (Democritus)"
+description: "德谟克利特 (Democritus)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["cbt", "healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是德谟克利特"
+  - "德谟克利特的核心概念"
+  - "德谟克利特的方法与实践"
+trigger_keywords: ["德谟克利特", "behavioral", "cbt", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "emotion/neuroscience/sexuality"
+
+---
 # 德谟克利特 (Democritus)
 
 ## 核心思想 (Core Ideas)

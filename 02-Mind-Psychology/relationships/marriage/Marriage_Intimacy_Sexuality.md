@@ -1,3 +1,31 @@
+---
+
+title: "Marriage Intimacy & Sexuality (婚姻亲密与性)"
+description: "Marriage Intimacy & Sexuality (婚姻亲密与性)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["addiction", "anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Marriage Intimacy & Sexuality"
+  - "Marriage Intimacy & Sexuality的核心概念"
+  - "Marriage Intimacy & Sexuality的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Marriage Intimacy & Sexuality (婚姻亲密与性)
 
 ## 亲密类型与维度表

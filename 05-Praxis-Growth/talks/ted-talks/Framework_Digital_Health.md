@@ -1,3 +1,31 @@
+---
+
+title: "数字健康 | Digital Health"
+description: "数字健康 | Digital Health的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "decision-making", "intervention", "treatment", "讲座"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字健康 | Digital Health"
+  - "数字健康 | Digital Health的核心概念"
+  - "数字健康 | Digital Health的方法与实践"
+trigger_keywords: ["数字健康", "clinical", "communication", "decision-making", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality"
+
+---
 # 数字健康 | Digital Health
 
 > **数字健康**（Digital Health）是医疗保健与数字技术融合的新兴领域——从远程医疗（Telemedicine）到健康可穿戴设备（Wearables），从电子病历（EHR）到AI辅助诊疗。数字健康正在从边缘创新走向主流医疗体系。本文件精选TED平台上关于数字健康的代表性演讲，帮助读者理解数字健康的技术前沿和实践挑战。

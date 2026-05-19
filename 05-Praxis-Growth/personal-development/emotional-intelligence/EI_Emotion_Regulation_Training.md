@@ -1,3 +1,31 @@
+---
+
+title: "情绪调节训练 | Emotion Regulation Training"
+description: "情绪调节训练 | Emotion Regulation Training的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 情商"
+tags: ["depression", "leadership"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是情绪调节训练 | Emotion Regulation Training"
+  - "情绪调节训练 | Emotion Regulation Training的核心概念"
+  - "情绪调节训练 | Emotion Regulation Training的方法与实践"
+trigger_keywords: ["情绪调节训练", "anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 情绪调节训练 | Emotion Regulation Training
 
 > **学科定位**: 临床心理学 x 自我管理 x 行为训练

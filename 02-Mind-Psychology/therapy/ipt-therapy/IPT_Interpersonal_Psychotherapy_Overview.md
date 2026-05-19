@@ -1,3 +1,32 @@
+---
+
+title: "人际心理治疗 (IPT: Interpersonal Psychotherapy)"
+description: "人际心理治疗 (IPT: Interpersonal Psychotherapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Ipt Therapy"
+tags: ["anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人际心理治疗"
+  - "人际心理治疗的核心概念"
+  - "人际心理治疗的方法与实践"
+  - "人际心理治疗的循证证据"
+trigger_keywords: ["人际心理治疗", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 人际心理治疗 (IPT: Interpersonal Psychotherapy)
 
 > **目标**：构建完整的IPT理论体系与实践框架，涵盖核心原理、治疗技术、实施流程及循证应用。IPT是专注于人际关系问题的循证心理治疗方法，特别适用于抑郁症和其他情绪障碍的治疗。

@@ -1,3 +1,31 @@
+---
+
+title: "C2-1 冥想与止观：第一讲：什么是冥想"
+description: "C2-1 冥想与止观：第一讲：什么是冥想的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "daoism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2-1 冥想与止观：第一讲：什么是冥想"
+  - "C2-1 冥想与止观：第一讲：什么是冥想的核心概念"
+  - "C2-1 冥想与止观：第一讲：什么是冥想的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/communication/emotion"
+  - path: "README.md"
+    relation: "buddhism/communication/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/daoism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "communication/daoism/emotion"
+
+---
 # C2-1 冥想与止观：第一讲：什么是冥想
 
 📑 智能总结

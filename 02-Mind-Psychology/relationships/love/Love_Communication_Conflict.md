@@ -1,3 +1,31 @@
+---
+
+title: "Dating Communication & Conflict (恋爱沟通与冲突管理)"
+description: "Dating Communication & Conflict (恋爱沟通与冲突管理)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Love"
+tags: ["anxiety", "attachment", "marriage", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Communication & Conflict"
+  - "Dating Communication & Conflict的核心概念"
+  - "Dating Communication & Conflict的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Dating Communication & Conflict (恋爱沟通与冲突管理)
 
 ### Early Dating Communication Dynamics (早期约会沟通动力表)

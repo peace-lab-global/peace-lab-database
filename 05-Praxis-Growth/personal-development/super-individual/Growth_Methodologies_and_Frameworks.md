@@ -1,3 +1,31 @@
+---
+
+title: "超级个体增长方法论 | Growth Methodologies & Frameworks"
+description: "超级个体增长方法论 | Growth Methodologies & Frameworks的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 超级个体"
+tags: ["decision-making", "个人发展", "超级个体", "meta-learning"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是超级个体增长方法论 | Growth Methodologies & Frameworks"
+  - "超级个体增长方法论 | Growth Methodologies & Frameworks的核心概念"
+  - "超级个体增长方法论 | Growth Methodologies & Frameworks的方法与实践"
+trigger_keywords: ["超级个体增长方法论", "act", "decision-making", "sexuality", "个人发展"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "pain/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Medicine_Buddha.md"
+    relation: "pain/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md"
+    relation: "pain/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Diagnostics.md"
+    relation: "pain/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "pain/sexuality/therapy"
+
+---
 # 超级个体增长方法论 | Growth Methodologies & Frameworks
 
 > 超级个体的成长不是随机的，而是一套可以被设计和优化的**算法**。本文介绍如何将互联网公司的增长黑客（Growth Hacking）策略应用到个人成长中。

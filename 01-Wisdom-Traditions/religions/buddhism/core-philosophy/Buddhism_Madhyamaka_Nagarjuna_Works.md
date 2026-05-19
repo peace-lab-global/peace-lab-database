@@ -1,3 +1,31 @@
+---
+
+title: "龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)"
+description: "龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是龙树论典体系深度解析"
+  - "龙树论典体系深度解析的核心概念"
+  - "龙树论典体系深度解析的方法与实践"
+trigger_keywords: ["龙树论典体系深度解析", "behavioral", "buddhism", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)
 
 > **龙树菩萨 (Nāgārjuna)**：公元2-3世纪的印度佛教哲学家，被尊为"八宗共祖"。他不是那种温温吞吞讲道理的人——他的风格是直接把你所有自以为成立的东西一个一个拆干净，拆完了你发现：原来"空"不是什么都没有，而是什么都刚刚好。

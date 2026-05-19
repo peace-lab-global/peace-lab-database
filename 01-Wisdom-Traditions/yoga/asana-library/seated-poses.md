@@ -1,3 +1,31 @@
+---
+
+title: "Seated Poses 坐姿体式"
+description: "Seated Poses 坐姿体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["meditation", "ocd", "pain", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Seated Poses 坐姿体式"
+  - "Seated Poses 坐姿体式的核心概念"
+  - "Seated Poses 坐姿体式的方法与实践"
+trigger_keywords: ["meditation", "ocd", "pain", "瑜伽"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "communication/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "communication/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/meditation/pain"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "communication/exercise/meditation"
+
+---
 # Seated Poses 坐姿体式
 
 ## 核心坐姿体式详表

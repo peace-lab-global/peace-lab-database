@@ -1,3 +1,31 @@
+---
+
+title: "生命力与野性——余占鳌式的活法"
+description: "生命力与野性——余占鳌式的活法的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Red Sorghum"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是生命力与野性——余占鳌式的活法"
+  - "生命力与野性——余占鳌式的活法的核心概念"
+  - "生命力与野性——余占鳌式的活法的方法与实践"
+trigger_keywords: ["literature", "sexuality", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/sexuality"
+
+---
 # 生命力与野性——余占鳌式的活法
 
 ## 什么叫"余占鳌式的活法"

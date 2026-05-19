@@ -1,3 +1,31 @@
+---
+
+title: "Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)"
+description: "Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Tuina"
+tags: ["brain", "exercise", "gut"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tuina Manipulation Techniques Classification & Standards"
+  - "Tuina Manipulation Techniques Classification & Standards的核心概念"
+  - "Tuina Manipulation Techniques Classification & Standards的方法与实践"
+trigger_keywords: ["act", "assessment", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "exercise/meditation/neuroscience"
+
+---
 # Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)
 
 > 🏥 **技术概览**: 本文档系统阐述中医推拿手法的技术分类体系、标准操作规范、力学参数要求和临床应用要点。通过科学规范的手法技术体系，确保推拿治疗的安全性和有效性。

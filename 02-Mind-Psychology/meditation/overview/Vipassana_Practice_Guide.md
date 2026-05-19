@@ -1,3 +1,31 @@
+---
+
+title: "内观禅修实践指南 | Vipassana Practice Guide"
+description: "内观禅修实践指南 | Vipassana Practice Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["depression", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是内观禅修实践指南 | Vipassana Practice Guide"
+  - "内观禅修实践指南 | Vipassana Practice Guide的核心概念"
+  - "内观禅修实践指南 | Vipassana Practice Guide的方法与实践"
+trigger_keywords: ["内观禅修实践指南", "act", "adolescent", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/communication/depression"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/communication/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/german-idealism/Fichte.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 内观禅修实践指南 | Vipassana Practice Guide
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）

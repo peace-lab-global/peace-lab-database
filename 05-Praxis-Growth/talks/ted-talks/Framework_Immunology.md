@@ -1,3 +1,31 @@
+---
+
+title: "免疫学 | Immunology"
+description: "免疫学 | Immunology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["gut", "immune", "sleep", "stress", "therapy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是免疫学 | Immunology"
+  - "免疫学 | Immunology的核心概念"
+  - "免疫学 | Immunology的方法与实践"
+trigger_keywords: ["免疫学", "Immunology", "exercise", "gut", "immune", "neuroscience"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/exercise/immune"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "communication/exercise/immune"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/exercise/immune"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "communication/exercise/immune"
+
+---
 # 免疫学 | Immunology
 
 > **免疫学**（Immunology）研究人体抵御疾病的精密防御系统——从先天免疫（Innate Immunity）到适应性免疫（Adaptive Immunity），从抗体（Antibodies）到T细胞（T Cells），从疫苗（Vaccines）到免疫疗法（Immunotherapy）。免疫系统是人体最复杂的系统之一，理解它是理解健康与疾病的关键。本文件精选TED平台上关于免疫学的代表性演讲，帮助读者深入理解免疫系统的奥秘和前沿突破。

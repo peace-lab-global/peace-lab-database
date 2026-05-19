@@ -1,3 +1,31 @@
+---
+
+title: "《步步皆安宁》Peace Is Every Step"
+description: "《步步皆安宁》Peace Is Every Step的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: []
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《步步皆安宁》Peace Is Every Step"
+  - "《步步皆安宁》Peace Is Every Step的核心概念"
+  - "《步步皆安宁》Peace Is Every Step的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《步步皆安宁》Peace Is Every Step
 
 > 一行禅师（Thich Nhat Hanh，1926-2022）著，1991年出版。越南佛教僧侣、诗人、和平活动家，被誉为"正念之父"之一。他16岁出家，后赴欧美学习比较宗教学，1960年代积极参与越南反战运动，被马丁·路德·金提名诺贝尔和平奖。1966年，他被越南南北两方政府同时禁止回国，开始了长达39年的流亡生涯，在法国南部创立了梅村（Plum Village）禅修中心。一行禅师以极其温柔、诗意和贴近生活的语言传达佛教智慧，使数百万人首次接触到冥想和正念。《步步皆安宁》是他最著名的著作之一，也是全球销量最高的佛教书籍之一。

@@ -1,3 +1,31 @@
+---
+
+title: "大威德金刚完整修持仪轨 (Yamantaka / Vajrabhairava Sadhana)"
+description: "大威德金刚完整修持仪轨 (Yamantaka / Vajrabhairava Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "phobia", "yoga", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是大威德金刚完整修持仪轨"
+  - "大威德金刚完整修持仪轨的核心概念"
+  - "大威德金刚完整修持仪轨的方法与实践"
+trigger_keywords: ["buddhism", "death", "phobia", "sexuality"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 大威德金刚完整修持仪轨 (Yamantaka / Vajrabhairava Sadhana)
 
 > **大威德金刚 (Yamantaka / Vajrabhairava)**：文殊菩萨的忿怒化身，藏传佛教格鲁派三大本尊之首。具九面三十四臂十六足，为水牛首忿怒相，象征降伏死魔的终极力量。

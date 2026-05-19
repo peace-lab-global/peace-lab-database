@@ -1,3 +1,31 @@
+---
+
+title: "《永生的海拉》The Immortal Life of Henrietta Lacks"
+description: "《永生的海拉》The Immortal Life of Henrietta Lacks的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["phobia", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《永生的海拉》The Immortal Life of Henrietta Lacks"
+  - "《永生的海拉》The Immortal Life of Henrietta Lacks的核心概念"
+  - "《永生的海拉》The Immortal Life of Henrietta Lacks的方法与实践"
+trigger_keywords: ["aging", "body", "crisis", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 《永生的海拉》The Immortal Life of Henrietta Lacks
 
 **作者**：丽贝卡·思科鲁特 (Rebecca Skloot)  

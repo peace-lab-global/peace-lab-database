@@ -1,3 +1,31 @@
+---
+
+title: "人口学 | Demography & Social Sciences"
+description: "人口学 | Demography & Social Sciences的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "resilience", "讲座"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人口学 | Demography & Social Sciences"
+  - "人口学 | Demography & Social Sciences的核心概念"
+  - "人口学 | Demography & Social Sciences的方法与实践"
+trigger_keywords: ["人口学", "child", "cognitive", "communication", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
+    relation: "communication/sexuality/trauma"
+
+---
 # 人口学 | Demography & Social Sciences
 
 > **人口学**（Demography）和社会科学研究人类社会的结构、变迁和互动模式。TED平台上关于人口学和社会科学的演讲揭示了全球人口趋势、城市化进程、社会网络演变以及文化变迁如何深刻影响我们的生活和未来。

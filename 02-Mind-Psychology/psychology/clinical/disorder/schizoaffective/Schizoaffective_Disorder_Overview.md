@@ -1,3 +1,31 @@
+---
+
+title: "Schizoaffective Disorder Overview (分裂情感性障碍概览)"
+description: "Schizoaffective Disorder Overview (分裂情感性障碍概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizoaffective"
+tags: ["brain", "depression", "neuroscience", "schizophrenia", "bipolar"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Schizoaffective Disorder Overview"
+  - "Schizoaffective Disorder Overview的核心概念"
+  - "Schizoaffective Disorder Overview的方法与实践"
+trigger_keywords: ["assessment", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "depression/emotion/neuroscience"
+
+---
 # Schizoaffective Disorder Overview (分裂情感性障碍概览)
 
 > **分裂情感性障碍 (Schizoaffective Disorder)**

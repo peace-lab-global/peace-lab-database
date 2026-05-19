@@ -1,3 +1,31 @@
+---
+
+title: "家庭系统排列临床应用 (Family Constellation Clinical Applications)"
+description: "家庭系统排列临床应用 (Family Constellation Clinical Applications)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
+tags: ["addiction", "anxiety", "attachment", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是家庭系统排列临床应用"
+  - "家庭系统排列临床应用的核心概念"
+  - "家庭系统排列临床应用的方法与实践"
+trigger_keywords: ["家庭系统排列临床应用", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-white-album.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 家庭系统排列临床应用 (Family Constellation Clinical Applications)
 
 ## 临床应用总览 (Clinical Applications Overview)

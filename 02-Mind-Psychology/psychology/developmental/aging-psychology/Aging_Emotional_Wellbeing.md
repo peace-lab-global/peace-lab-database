@@ -1,3 +1,31 @@
+---
+
+title: "老年情绪健康 | Aging Emotional Wellbeing"
+description: "老年情绪健康 | Aging Emotional Wellbeing的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
+tags: ["anxiety", "cbt", "depression", "mbsr"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年情绪健康 | Aging Emotional Wellbeing"
+  - "老年情绪健康 | Aging Emotional Wellbeing的核心概念"
+  - "老年情绪健康 | Aging Emotional Wellbeing的方法与实践"
+trigger_keywords: ["老年情绪健康", "aging", "anxiety", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 老年情绪健康 | Aging Emotional Wellbeing
 
 > **学科定位**: 积极老年心理学 · 情绪科学 · 社会老年学

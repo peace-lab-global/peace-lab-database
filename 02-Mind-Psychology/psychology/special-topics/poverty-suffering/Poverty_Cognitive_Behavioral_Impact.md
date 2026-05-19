@@ -1,3 +1,31 @@
+---
+
+title: "Poverty: Cognitive & Behavioral Impact (贫困的认知与行为影响)"
+description: "Poverty: Cognitive & Behavioral Impact (贫困的认知与行为影响)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
+tags: ["anxiety", "attachment", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Poverty: Cognitive & Behavioral Impact"
+  - "Poverty: Cognitive & Behavioral Impact的核心概念"
+  - "Poverty: Cognitive & Behavioral Impact的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Decluttering_Overview.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # Poverty: Cognitive & Behavioral Impact (贫困的认知与行为影响)
 
 > **匮乏心智 (Scarcity Mind / Mens Inopiae)**

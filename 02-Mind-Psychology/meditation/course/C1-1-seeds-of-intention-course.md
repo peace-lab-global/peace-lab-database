@@ -1,3 +1,31 @@
+---
+
+title: "先导课第一节：意图的种子：冥想解决什么问题 课程纪要"
+description: "先导课第一节：意图的种子：冥想解决什么问题 课程纪要的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是先导课第一节：意图的种子：冥想解决什么问题 课程纪要"
+  - "先导课第一节：意图的种子：冥想解决什么问题 课程纪要的核心概念"
+  - "先导课第一节：意图的种子：冥想解决什么问题 课程纪要的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/emotion"
+
+---
 C1-1 Seeds of Intention 意图的种子 
 
 # 先导课第一节：意图的种子：冥想解决什么问题 课程纪要

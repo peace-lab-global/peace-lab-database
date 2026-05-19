@@ -1,3 +1,31 @@
+---
+
+title: "婚姻中的隐性攻击模式 (Covert Aggression Patterns in Marriage)"
+description: "婚姻中的隐性攻击模式 (Covert Aggression Patterns in Marriage)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是婚姻中的隐性攻击模式"
+  - "婚姻中的隐性攻击模式的核心概念"
+  - "婚姻中的隐性攻击模式的方法与实践"
+trigger_keywords: ["婚姻中的隐性攻击模式", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 婚姻中的隐性攻击模式 (Covert Aggression Patterns in Marriage)
 
 > **文档类型:** 专业知识库文档 | **领域:** 婚姻与家庭心理学 | **更新周期:** 定期更新

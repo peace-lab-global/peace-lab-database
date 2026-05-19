@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)"
+description: "色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾跨文化比较研究"
+  - "色情文学成瘾跨文化比较研究的核心概念"
+  - "色情文学成瘾跨文化比较研究的方法与实践"
+trigger_keywords: ["act", "addiction", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "buddhism/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "buddhism/communication/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/emotion"
+  - path: "README.md"
+    relation: "buddhism/communication/emotion"
+
+---
 # 色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)
 
 > 🌍 **文化视角**: 本文档提供色情文学成瘾的跨文化比较分析框架，涵盖不同文化背景下的表现差异、影响因素和干预策略。建议结合[预防教育](Erotic_Literature_Prevention_Education.md)了解文化适宜性干预方法，参考[形成机制](Erotic_Literature_Formation_Mechanisms.md)理解文化调节作用。

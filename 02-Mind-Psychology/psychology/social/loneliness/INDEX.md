@@ -1,3 +1,31 @@
+---
+
+title: "loneliness | 孤独感研究 Index"
+description: "loneliness | 孤独感研究 Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["attachment", "brain", "cardiovascular", "personality", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是loneliness | 孤独感研究 Index"
+  - "loneliness | 孤独感研究 Index的核心概念"
+  - "loneliness | 孤独感研究 Index的方法与实践"
+trigger_keywords: ["loneliness", "adolescent", "aging", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/communication/immune"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/cardiovascular/communication"
+
+---
 # loneliness | 孤独感研究 Index
 
 ## 内容索引 | Contents

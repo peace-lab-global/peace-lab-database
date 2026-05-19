@@ -1,3 +1,31 @@
+---
+
+title: "冥想教学保险与法律指南（Meditation Insurance & Legal Guide）"
+description: "冥想教学保险与法律指南（Meditation Insurance & Legal Guide）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Career Business"
+tags: ["anxiety", "depression", "mbsr", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想教学保险与法律指南（Meditation Insurance & Legal Guide）"
+  - "冥想教学保险与法律指南（Meditation Insurance & Legal Guide）的核心概念"
+  - "冥想教学保险与法律指南（Meditation Insurance & Legal Guide）的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 冥想教学保险与法律指南（Meditation Insurance & Legal Guide）
 
 > 守护教学实践——冥想导师的法律风险管理与保险保障

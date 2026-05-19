@@ -1,3 +1,31 @@
+---
+
+title: "《双重人格》The Double"
+description: "《双重人格》The Double的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["cinema", "freud", "literature", "marriage", "ocd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《双重人格》The Double"
+  - "《双重人格》The Double的核心概念"
+  - "《双重人格》The Double的方法与实践"
+trigger_keywords: ["art", "behavioral", "body", "cinema"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md"
+    relation: "attachment/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md"
+    relation: "attachment/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "attachment/personality/sexuality"
+
+---
 # 《双重人格》The Double
 
 **作者：** 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

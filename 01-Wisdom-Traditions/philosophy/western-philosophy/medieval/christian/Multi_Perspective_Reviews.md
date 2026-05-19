@@ -1,3 +1,31 @@
+---
+
+title: "中世纪基督教哲学经典三方书评"
+description: "中世纪基督教哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Christian"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是中世纪基督教哲学经典三方书评"
+  - "中世纪基督教哲学经典三方书评的核心概念"
+  - "中世纪基督教哲学经典三方书评的方法与实践"
+trigger_keywords: ["act", "addiction", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "death/emotion/exercise"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
+    relation: "death/emotion/exercise"
+
+---
 # 中世纪基督教哲学经典三方书评
 
 > 三位中世纪基督教哲学巨匠，横跨千年思想史，从教父哲学到经院哲学的巅峰再到解构。每一视角都是一把不同的解剖刀。

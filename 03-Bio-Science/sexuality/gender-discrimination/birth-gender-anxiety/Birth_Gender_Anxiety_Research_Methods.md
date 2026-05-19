@@ -1,3 +1,31 @@
+---
+
+title: "Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)"
+description: "Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Birth Gender Anxiety: Research Methods"
+  - "Birth Gender Anxiety: Research Methods的核心概念"
+  - "Birth Gender Anxiety: Research Methods的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)
 
 ## 研究方法论框架 (Research Methodology Framework)

@@ -1,3 +1,31 @@
+---
+
+title: "Weight Loss Professional Guide (减肥专业指南)"
+description: "Weight Loss Professional Guide (减肥专业指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Weight Loss"
+tags: ["addiction", "aging", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Weight Loss Professional Guide"
+  - "Weight Loss Professional Guide的核心概念"
+  - "Weight Loss Professional Guide的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/communication"
+
+---
 # Weight Loss Professional Guide (减肥专业指南)
 
 > **🎯 本指南目标**：为您提供基于循证医学的全面减肥知识体系，涵盖从基础理论到临床实践的完整内容

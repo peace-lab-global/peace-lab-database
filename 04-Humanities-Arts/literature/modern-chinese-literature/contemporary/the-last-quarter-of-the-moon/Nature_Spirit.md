@@ -1,3 +1,31 @@
+---
+
+title: "自然、萨满与人的共生——被现代世界遗忘的活法"
+description: "自然、萨满与人的共生——被现代世界遗忘的活法的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
+tags: ["productivity", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是自然、萨满与人的共生——被现代世界遗忘的活法"
+  - "自然、萨满与人的共生——被现代世界遗忘的活法的核心概念"
+  - "自然、萨满与人的共生——被现代世界遗忘的活法的方法与实践"
+trigger_keywords: ["自然", "behavioral", "cognitive", "crisis", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "death/emotion/exercise"
+
+---
 # 自然、萨满与人的共生——被现代世界遗忘的活法
 
 ## 一个你从未想过的问题

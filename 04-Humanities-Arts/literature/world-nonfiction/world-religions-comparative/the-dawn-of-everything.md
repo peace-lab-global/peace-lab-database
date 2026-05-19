@@ -1,3 +1,31 @@
+---
+
+title: "《万物的黎明》The Dawn of Everything"
+description: "《万物的黎明》The Dawn of Everything的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["decision-making", "stress", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《万物的黎明》The Dawn of Everything"
+  - "《万物的黎明》The Dawn of Everything的核心概念"
+  - "《万物的黎明》The Dawn of Everything的方法与实践"
+trigger_keywords: ["decision-making", "developmental", "exercise", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "exercise/sexuality/stress"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "exercise/sexuality/stress"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "exercise/sexuality/stress"
+
+---
 # 《万物的黎明》The Dawn of Everything
 
 **作者：** 大卫·格雷伯 (David Graeber) & 大卫·温格罗 (David Wengrow)  

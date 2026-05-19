@@ -1,3 +1,31 @@
+---
+
+title: "Picasso (毕加索)：艺术理念与创新精神"
+description: "Picasso (毕加索)：艺术理念与创新精神的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
+tags: ["loneliness", "music", "nutrition", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Picasso ：艺术理念与创新精神"
+  - "Picasso ：艺术理念与创新精神的核心概念"
+  - "Picasso ：艺术理念与创新精神的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "loneliness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Fertility_Pregnancy.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "communication/depression/emotion"
+
+---
 # Picasso (毕加索)：艺术理念与创新精神
 
 ## 概述 (Overview)

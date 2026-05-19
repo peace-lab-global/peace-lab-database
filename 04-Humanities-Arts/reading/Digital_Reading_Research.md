@@ -1,3 +1,31 @@
+---
+
+title: "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης"
+description: "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的详细解析与实践指南"
+category: "人文与艺术疗愈 > 阅读"
+tags: ["bci", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης"
+  - "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的核心概念"
+  - "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的方法与实践"
+trigger_keywords: ["数字阅读研究前沿", "anxiety", "assessment", "bci", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/exercise"
+
+---
 # 数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης
 
 > **数字阅读研究前沿**系统梳理数字时代阅读行为、认知机制和教育应用的最新研究成果，涵盖屏幕阅读vs纸质阅读、多媒体阅读、人工智能辅助阅读等前沿领域，为数字阅读的科学发展提供理论支撑和实践指导。

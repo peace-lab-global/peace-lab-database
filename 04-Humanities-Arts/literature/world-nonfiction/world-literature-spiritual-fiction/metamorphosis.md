@@ -1,3 +1,31 @@
+---
+
+title: "《变形记》The Metamorphosis"
+description: "《变形记》The Metamorphosis的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《变形记》The Metamorphosis"
+  - "《变形记》The Metamorphosis的核心概念"
+  - "《变形记》The Metamorphosis的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/death"
+
+---
 # 《变形记》The Metamorphosis
 
 **作者**：弗兰茨·卡夫卡 (Franz Kafka)  

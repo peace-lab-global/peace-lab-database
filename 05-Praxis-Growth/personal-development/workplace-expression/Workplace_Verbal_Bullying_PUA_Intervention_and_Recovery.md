@@ -1,3 +1,32 @@
+---
+
+title: "职场语言霸凌与PUA：干预方案与心理康复指南 (Intervention & Recovery Guide for Workplace Verbal Bullying & PUA)"
+description: "职场语言霸凌与PUA：干预方案与心理康复指南 (Intervention & Recovery Guide for Workplace Verbal Bullying & PUA)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "habits"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场语言霸凌与PUA：干预方案与心理康复指南"
+  - "职场语言霸凌与PUA：干预方案与心理康复指南的核心概念"
+  - "职场语言霸凌与PUA：干预方案与心理康复指南的方法与实践"
+  - "职场语言霸凌与PUA：干预方案与心理康复指南的自助方法"
+trigger_keywords: ["assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 职场语言霸凌与PUA：干预方案与心理康复指南 (Intervention & Recovery Guide for Workplace Verbal Bullying & PUA)
 
 > **定位**：面向个人、组织与支持系统，提供从即时止损、组织干预到长期心理康复与职业重建的完整方案

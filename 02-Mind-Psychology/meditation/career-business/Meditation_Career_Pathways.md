@@ -1,3 +1,31 @@
+---
+
+title: "冥想职业发展路径 | Meditation Career Pathways"
+description: "冥想职业发展路径 | Meditation Career Pathways的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Career Business"
+tags: ["leadership", "mbct", "mbsr", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想职业发展路径 | Meditation Career Pathways"
+  - "冥想职业发展路径 | Meditation Career Pathways的核心概念"
+  - "冥想职业发展路径 | Meditation Career Pathways的方法与实践"
+trigger_keywords: ["冥想职业发展路径", "act", "clinical", "developmental", "leadership"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/therapy/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "meditation/therapy/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "meditation/therapy/yoga"
+  - path: "01-Wisdom-Traditions/religions/buddhism/BUDDHISM_DIRECTORY_STRUCTURE.md"
+    relation: "meditation/therapy/yoga"
+  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
+    relation: "meditation/therapy/yoga"
+
+---
 # 冥想职业发展路径 | Meditation Career Pathways
 
 > **领域**：冥想商业化与职业发展（Meditation Business & Career）

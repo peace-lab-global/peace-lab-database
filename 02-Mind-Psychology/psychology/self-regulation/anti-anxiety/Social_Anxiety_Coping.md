@@ -1,3 +1,32 @@
+---
+
+title: "社交焦虑应对"
+description: "社交焦虑应对的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "phobia", "social", "心理学", "自我调节"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社交焦虑应对"
+  - "社交焦虑应对的核心概念"
+  - "社交焦虑应对的方法与实践"
+  - "社交焦虑应对的自助方法"
+trigger_keywords: ["社交焦虑应对", "anxiety", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "anxiety/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "anxiety/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion"
+
+---
 # 社交焦虑应对
 
 ## 目录

@@ -1,3 +1,31 @@
+---
+
+title: "坐禅公案集详解"
+description: "坐禅公案集详解的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Zazen"
+tags: ["brain", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是坐禅公案集详解"
+  - "坐禅公案集详解的核心概念"
+  - "坐禅公案集详解的方法与实践"
+trigger_keywords: ["坐禅公案集详解", "act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "buddhism/communication/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/meditation"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 坐禅公案集详解
 
 > **最后更新**: 2026-05

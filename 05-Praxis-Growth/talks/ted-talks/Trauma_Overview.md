@@ -1,3 +1,32 @@
+---
+
+title: "创伤心理学 | Trauma Psychology Overview"
+description: "创伤心理学 | Trauma Psychology Overview的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创伤心理学 | Trauma Psychology Overview"
+  - "创伤心理学 | Trauma Psychology Overview的核心概念"
+  - "创伤心理学 | Trauma Psychology Overview的方法与实践"
+  - "创伤心理学 | Trauma Psychology Overview的自助方法"
+trigger_keywords: ["创伤心理学", "act", "addiction", "art", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/communication/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "cardiovascular/communication/depression"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "cardiovascular/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "cardiovascular/communication/depression"
+
+---
 # 创伤心理学 | Trauma Psychology Overview
 
 > **创伤心理学**（Trauma Psychology）研究人类在经历严重威胁性事件后的心理反应、恢复机制和治疗方法。从创伤后应激障碍（PTSD）到复杂创伤（Complex Trauma），从个体创伤到集体创伤，这一领域深刻揭示了创伤如何重塑大脑、身体和身份认同。本文件精选TED平台上关于创伤心理学的代表性演讲，帮助读者理解创伤的科学本质和康复之路。

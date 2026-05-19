@@ -1,3 +1,31 @@
+---
+
+title: "《The Mind Illuminated》"
+description: "《The Mind Illuminated》的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["dmn"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《The Mind Illuminated》"
+  - "《The Mind Illuminated》的核心概念"
+  - "《The Mind Illuminated》的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《The Mind Illuminated》
 
 > 卡卢帕哈纳（Upasaka Culadasa，John Yates）著，2015年出版。美国神经科学家 turned 冥想导师，将传统佛教的"禅定"（Samatha）修习与现代神经科学、认知心理学整合，创造了一套极其精确的"冥想阶段模型"。副标题是"一个完整的冥想整合，融合了佛教教义和神经科学"。

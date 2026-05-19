@@ -1,3 +1,31 @@
+---
+
+title: "迦羅底 (Kapila)"
+description: "迦羅底 (Kapila)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Samkhya"
+tags: ["cbt", "healing", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是迦羅底"
+  - "迦羅底的核心概念"
+  - "迦羅底的方法与实践"
+trigger_keywords: ["迦羅底", "behavioral", "cbt", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+    relation: "emotion/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "emotion/meditation/personality"
+  - path: "GLOSSARY.md"
+    relation: "emotion/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "emotion/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+    relation: "emotion/meditation/personality"
+
+---
 # 迦羅底 (Kapila)
 ## 核心思想 (Core Ideas)
 | 概念 | 梵语 | 解释 | 影响 |

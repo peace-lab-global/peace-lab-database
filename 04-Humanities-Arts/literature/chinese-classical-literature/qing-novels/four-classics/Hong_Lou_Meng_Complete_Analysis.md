@@ -1,3 +1,31 @@
+---
+
+title: "《红楼梦》(Dream of the Red Chamber)：中国古典小说的巅峰之作"
+description: "《红楼梦》(Dream of the Red Chamber)：中国古典小说的巅峰之作的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Qing Novels > Four Classics"
+tags: ["literature", "marriage", "music", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《红楼梦》：中国古典小说的巅峰之作"
+  - "《红楼梦》：中国古典小说的巅峰之作的核心概念"
+  - "《红楼梦》：中国古典小说的巅峰之作的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "attachment/communication/emotion"
+
+---
 # 《红楼梦》(Dream of the Red Chamber)：中国古典小说的巅峰之作
 
 ## 概述 (Overview)

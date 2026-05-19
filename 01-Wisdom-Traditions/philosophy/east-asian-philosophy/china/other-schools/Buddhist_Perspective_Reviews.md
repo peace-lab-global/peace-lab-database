@@ -1,3 +1,31 @@
+---
+
+title: "先秦诸子百家 · 佛法视角三方书评"
+description: "先秦诸子百家 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["buddhism", "philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是先秦诸子百家 · 佛法视角三方书评"
+  - "先秦诸子百家 · 佛法视角三方书评的核心概念"
+  - "先秦诸子百家 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["先秦诸子百家", "佛法视角三方书评", "behavioral", "buddhism", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 先秦诸子百家 · 佛法视角三方书评
 
 > 本文件从佛教义理出发，重新审视先秦诸子百家的核心思想。  

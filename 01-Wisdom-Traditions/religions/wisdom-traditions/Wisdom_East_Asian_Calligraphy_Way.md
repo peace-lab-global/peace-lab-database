@@ -1,3 +1,31 @@
+---
+
+title: "东亚书道传统 | East Asian Calligraphy Way"
+description: "东亚书道传统 | East Asian Calligraphy Way的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["calligraphy", "meditation", "zen", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是东亚书道传统 | East Asian Calligraphy Way"
+  - "东亚书道传统 | East Asian Calligraphy Way的核心概念"
+  - "东亚书道传统 | East Asian Calligraphy Way的方法与实践"
+trigger_keywords: ["东亚书道传统", "aging", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 东亚书道传统 | East Asian Calligraphy Way
 
 > **学科定位**: 东亚美学传统 × 正念修行 × 身心一体艺术

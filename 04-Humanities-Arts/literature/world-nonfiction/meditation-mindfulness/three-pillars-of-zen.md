@@ -1,3 +1,31 @@
+---
+
+title: "《禅的三柱》The Three Pillars of Zen"
+description: "《禅的三柱》The Three Pillars of Zen的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["dmn", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《禅的三柱》The Three Pillars of Zen"
+  - "《禅的三柱》The Three Pillars of Zen的核心概念"
+  - "《禅的三柱》The Three Pillars of Zen的方法与实践"
+trigger_keywords: ["anxiety", "brain", "cognitive", "crisis"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《禅的三柱》The Three Pillars of Zen
 
 > 菲利普·卡普勒（Philip Kapleau）著，1965年出版。美国禅宗导师，纽约罗彻斯特禅修中心（Rochester Zen Center）创始人。他在二战后赴日本学习禅宗，先后师从释宗演、中川宋渊、安谷白云等日本禅师，历经十余年修行后返回美国弘化。这本书是西方最早系统介绍临济宗（Rinzai）禅宗修行体系的作品，收录了大量禅师的开示、公案、以及西方修行者的开悟经历，被誉为"西方禅宗的里程碑"。

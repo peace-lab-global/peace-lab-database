@@ -1,3 +1,31 @@
+---
+
+title: "Skin Diseases Professional Guide (皮肤疾病专业指南)"
+description: "Skin Diseases Professional Guide (皮肤疾病专业指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Skin Diseases"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Skin Diseases Professional Guide"
+  - "Skin Diseases Professional Guide的核心概念"
+  - "Skin Diseases Professional Guide的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
+    relation: "anxiety/emotion/immune"
+
+---
 # Skin Diseases Professional Guide (皮肤疾病专业指南)
 
 > **皮肤疾病综合诊疗体系 (Comprehensive Dermatological Care System)**

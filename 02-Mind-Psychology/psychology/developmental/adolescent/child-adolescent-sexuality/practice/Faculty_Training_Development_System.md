@@ -1,3 +1,31 @@
+---
+
+title: "性教育师资培训与发展体系 (Sexuality Education Faculty Training and Development System)"
+description: "性教育师资培训与发展体系 (Sexuality Education Faculty Training and Development System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Practice"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是性教育师资培训与发展体系"
+  - "性教育师资培训与发展体系的核心概念"
+  - "性教育师资培训与发展体系的方法与实践"
+trigger_keywords: ["act", "adolescent", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "communication/exercise/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 性教育师资培训与发展体系 (Sexuality Education Faculty Training and Development System)
 
 > 👨‍🏫 **体系定位**: 构建专业化、系统化的性教育师资培养和发展体系，基于胜任力模型和成人学习理论，为不同层次的性教育工作者提供全面的专业发展支持。涵盖职前教育、入职培训、在职发展和专业进阶等全职业生涯支持。建议结合[课程设计指南](../theory/Curriculum_Design_Implementation_Guide.md)了解教学实施要求，参考[评估质量体系](../assessment/Quality_Assessment_System.md)掌握评价标准。

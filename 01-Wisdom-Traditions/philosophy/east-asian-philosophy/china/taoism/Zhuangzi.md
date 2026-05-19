@@ -1,3 +1,31 @@
+---
+
+title: "庄子 (Zhuangzi)"
+description: "庄子 (Zhuangzi)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
+tags: ["calligraphy", "cbt", "daoism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是庄子"
+  - "庄子的核心概念"
+  - "庄子的方法与实践"
+trigger_keywords: ["庄子", "anxiety", "art", "behavioral", "calligraphy"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 庄子 (Zhuangzi)
 
 ## 核心思想 (Core Ideas)

@@ -1,3 +1,31 @@
+---
+
+title: "性冷淡临床管理指南专业内容体系"
+description: "性冷淡临床管理指南专业内容体系的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Hypoactive Sexual Desire"
+tags: ["aging", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性冷淡临床管理指南专业内容体系"
+  - "性冷淡临床管理指南专业内容体系的核心概念"
+  - "性冷淡临床管理指南专业内容体系的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 性冷淡临床管理指南专业内容体系
 
 ## 目录

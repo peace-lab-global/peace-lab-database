@@ -1,3 +1,31 @@
+---
+
+title: "Aesthetics & Modernity (禅宗美学与现代整合)"
+description: "Aesthetics & Modernity (禅宗美学与现代整合)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["buddhism", "calligraphy", "zen"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Aesthetics & Modernity"
+  - "Aesthetics & Modernity的核心概念"
+  - "Aesthetics & Modernity的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # Aesthetics & Modernity (禅宗美学与现代整合)
 
 ### Zen Aesthetic Principles (禅宗美学七原则 - 7 Pillars)

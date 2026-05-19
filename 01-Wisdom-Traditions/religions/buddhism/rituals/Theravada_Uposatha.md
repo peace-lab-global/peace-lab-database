@@ -1,3 +1,31 @@
+---
+
+title: "南传佛教布萨仪轨 (Theravada Uposatha Rituals)"
+description: "南传佛教布萨仪轨 (Theravada Uposatha Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "fasting", "mindfulness", "spirituality", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是南传佛教布萨仪轨"
+  - "南传佛教布萨仪轨的核心概念"
+  - "南传佛教布萨仪轨的方法与实践"
+trigger_keywords: ["南传佛教布萨仪轨", "behavioral", "body", "buddhism", "fasting"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/meditation/nutrition"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/meditation/nutrition"
+
+---
 # 南传佛教布萨仪轨 (Theravada Uposatha Rituals)
 
 > **布萨 (Uposatha)**：源于古印度吠陀传统的斋日制度，佛教化后成为僧团每半月诵戒、居士受持八戒的核心仪轨，是维系僧团清净与居士修行的重要制度。

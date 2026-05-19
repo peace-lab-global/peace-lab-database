@@ -1,3 +1,31 @@
+---
+
+title: "莎伦·萨尔兹伯格 (Sharon Salzberg)"
+description: "莎伦·萨尔兹伯格 (Sharon Salzberg)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["brain", "depression", "healing", "mindfulness", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是莎伦·萨尔兹伯格"
+  - "莎伦·萨尔兹伯格的核心概念"
+  - "莎伦·萨尔兹伯格的方法与实践"
+trigger_keywords: ["莎伦", "萨尔兹伯格", "act", "body", "brain", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/depression/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "depression/emotion/exercise"
+
+---
 # 莎伦·萨尔兹伯格 (Sharon Salzberg)
 
 > "Mindfulness isn't difficult; we just need to remember to do it."

@@ -1,3 +1,31 @@
+---
+
+title: "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）"
+description: "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
+tags: ["meditation", "mindfulness", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）"
+  - "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的核心概念"
+  - "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的方法与实践"
+trigger_keywords: ["斯瓦米", "breathwork", "exercise", "meditation", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Holistic_Integration.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "exercise/meditation/nutrition"
+
+---
 # 斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）
 
 > 现代瑜伽教育的先驱——从医生到瑜伽大师的传奇人生

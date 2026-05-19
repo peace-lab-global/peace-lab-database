@@ -1,3 +1,32 @@
+---
+
+title: "孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology"
+description: "孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology"
+  - "孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology的核心概念"
+  - "孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology的方法与实践"
+  - "孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Buddhism_Vajrayana_Foundation.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/catholicism/Catholicism_Overview_Full.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # 孤独与独处研究的心理学史 | History of Loneliness & Solitude in Psychology
 
 > **核心定位**: 从心理学学科发展视角梳理孤独与独处研究的历史脉络、理论演进与关键人物

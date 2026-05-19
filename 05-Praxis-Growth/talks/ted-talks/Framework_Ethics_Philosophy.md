@@ -1,3 +1,31 @@
+---
+
+title: "生物伦理与哲学 | Ethics & Philosophy"
+description: "生物伦理与哲学 | Ethics & Philosophy的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是生物伦理与哲学 | Ethics & Philosophy"
+  - "生物伦理与哲学 | Ethics & Philosophy的核心概念"
+  - "生物伦理与哲学 | Ethics & Philosophy的方法与实践"
+trigger_keywords: ["生物伦理与哲学", "art", "assessment", "behavioral", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
+    relation: "communication/death/exercise"
+
+---
 # 生物伦理与哲学 | Ethics & Philosophy
 
 > **生物伦理与哲学**（Bioethics & Philosophy）探讨生命科学和医学实践中的道德困境与价值抉择。TED平台上关于伦理与哲学的演讲深入探讨了生命权、死亡权、基因编辑伦理、人工智能道德等根本问题，在技术飞速发展的时代引导我们重新思考"什么是正确的事"。

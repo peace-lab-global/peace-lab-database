@@ -1,3 +1,31 @@
+---
+
+title: "《紫色时光》The Violet Hour"
+description: "《紫色时光》The Violet Hour的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["freud", "literature", "phobia", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《紫色时光》The Violet Hour"
+  - "《紫色时光》The Violet Hour的核心概念"
+  - "《紫色时光》The Violet Hour的方法与实践"
+trigger_keywords: ["death", "freud", "literature", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《紫色时光》The Violet Hour
 
 > 凯蒂·洛芙（Katie Roiphe）著，2016年出版。作家洛芙研究了五位伟大作家生命的最后日子——苏珊·桑塔格、西格蒙德·弗洛伊德、约翰·厄普代克、迪伦·托马斯、莫里斯·桑达克。她想知道：**那些用文字定义了生命的人，如何面对自己的死亡？**

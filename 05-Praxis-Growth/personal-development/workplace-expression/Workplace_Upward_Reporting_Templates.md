@@ -1,3 +1,31 @@
+---
+
+title: "向上汇报模板库 (Upward Reporting Templates)"
+description: "向上汇报模板库 (Upward Reporting Templates)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "decision-making", "leadership", "个人发展"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是向上汇报模板库"
+  - "向上汇报模板库的核心概念"
+  - "向上汇报模板库的方法与实践"
+trigger_keywords: ["向上汇报模板库", "communication", "decision-making", "emotion", "leadership"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 向上汇报模板库 (Upward Reporting Templates)
 
 > **定位**：为不同职场场景提供可直接套用的向上汇报结构与话术模板

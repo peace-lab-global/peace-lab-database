@@ -1,3 +1,31 @@
+---
+
+title: "《三国演义》完整专业分析：历史小说的艺术典范"
+description: "《三国演义》完整专业分析：历史小说的艺术典范的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Qing Novels > Four Classics"
+tags: ["decision-making", "leadership", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《三国演义》完整专业分析：历史小说的艺术典范"
+  - "《三国演义》完整专业分析：历史小说的艺术典范的核心概念"
+  - "《三国演义》完整专业分析：历史小说的艺术典范的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/therapy/trauma"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/therapy/trauma"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/therapy/trauma"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/therapy/trauma"
+  - path: "README.md"
+    relation: "art_therapy/therapy/trauma"
+
+---
 # 《三国演义》完整专业分析：历史小说的艺术典范
 
 ## 概述 (Overview)

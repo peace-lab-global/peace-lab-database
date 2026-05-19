@@ -1,3 +1,32 @@
+---
+
+title: "中国社会性焦虑专业术语词典"
+description: "中国社会性焦虑专业术语词典的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性焦虑专业术语词典"
+  - "中国社会性焦虑专业术语词典的核心概念"
+  - "中国社会性焦虑专业术语词典的方法与实践"
+  - "中国社会性焦虑专业术语词典的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 中国社会性焦虑专业术语词典
 
 ## 核心概念定义

@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)"
+description: "芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾"
+tags: ["ballet", "music", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞术语词典与参考资料"
+  - "芭蕾舞术语词典与参考资料的核心概念"
+  - "芭蕾舞术语词典与参考资料的方法与实践"
+trigger_keywords: ["act", "art", "ballet", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # 芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)
 
 > **芭蕾舞术语词典 (Ballet Terminology Dictionary)**

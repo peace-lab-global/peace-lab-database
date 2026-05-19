@@ -1,3 +1,31 @@
+---
+
+title: "南传禅修阶次 (Theravada Meditation Stages)"
+description: "南传禅修阶次 (Theravada Meditation Stages)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
+tags: ["buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是南传禅修阶次"
+  - "南传禅修阶次的核心概念"
+  - "南传禅修阶次的方法与实践"
+trigger_keywords: ["南传禅修阶次", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 南传禅修阶次 (Theravada Meditation Stages)
 
 > **禅修阶次 (Meditation Stages)**：上座部佛教对止(Samatha)与观(Vipassanā)修行过程的系统化描述，从初学者到阿罗汉果的完整修行地图。

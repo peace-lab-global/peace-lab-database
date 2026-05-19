@@ -1,3 +1,31 @@
+---
+
+title: "强迫模式识别"
+description: "强迫模式识别的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
+tags: ["anxiety", "intervention", "ocd", "religion", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是强迫模式识别"
+  - "强迫模式识别的核心概念"
+  - "强迫模式识别的方法与实践"
+trigger_keywords: ["强迫模式识别", "act", "anxiety", "behavioral", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/sexuality"
+
+---
 # 强迫模式识别
 
 ## 目录

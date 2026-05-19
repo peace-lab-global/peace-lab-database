@@ -1,3 +1,32 @@
+---
+
+title: "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων"
+description: "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων"
+  - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的核心概念"
+  - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的方法与实践"
+  - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的自助方法"
+trigger_keywords: ["异性友谊心理学", "anxiety", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων
 
 > **异性友谊**是人际关系中的重要组成部分，具有独特的心理机制和社交价值。本文档系统阐述异性友谊的心理基础、发展模式、影响因素和维护策略，为理解和建立健康的异性友谊提供科学指导。

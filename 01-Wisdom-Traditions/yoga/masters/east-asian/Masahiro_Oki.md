@@ -1,3 +1,31 @@
+---
+
+title: "冲正弘（Masahiro Oki / 沖正弘）"
+description: "冲正弘（Masahiro Oki / 沖正弘）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > East Asian"
+tags: ["fasting", "meditation", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冲正弘（Masahiro Oki / 沖正弘）"
+  - "冲正弘（Masahiro Oki / 沖正弘）的核心概念"
+  - "冲正弘（Masahiro Oki / 沖正弘）的方法与实践"
+trigger_keywords: ["沖正弘）", "body", "breathwork", "exercise", "fasting"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "exercise/meditation/nutrition"
+
+---
 # 冲正弘（Masahiro Oki / 沖正弘）
 
 > 日本瑜伽之父——将瑜伽与东方身心修行融合的先驱

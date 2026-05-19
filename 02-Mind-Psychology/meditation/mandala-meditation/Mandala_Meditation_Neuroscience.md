@@ -1,3 +1,31 @@
+---
+
+title: "Mandala Meditation Neuroscience (坛城冥想神经科学)"
+description: "Mandala Meditation Neuroscience (坛城冥想神经科学)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 坛城冥想"
+tags: ["anxiety", "attachment", "brain", "adhd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mandala Meditation Neuroscience"
+  - "Mandala Meditation Neuroscience的核心概念"
+  - "Mandala Meditation Neuroscience的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Mandala Meditation Neuroscience (坛城冥想神经科学)
 
 ## 神经解剖学基础 (Neuroanatomical Foundations)

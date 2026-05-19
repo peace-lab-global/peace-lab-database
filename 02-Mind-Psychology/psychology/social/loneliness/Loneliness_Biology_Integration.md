@@ -1,3 +1,31 @@
+---
+
+title: "孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration"
+description: "孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "brain", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration"
+  - "孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration的核心概念"
+  - "孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration的方法与实践"
+trigger_keywords: ["孤独生物学机制整合", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration
 
 > **文档类型**：机制综述 | Mechanistic Review  

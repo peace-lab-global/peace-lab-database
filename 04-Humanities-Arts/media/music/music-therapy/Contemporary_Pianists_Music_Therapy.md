@@ -1,3 +1,31 @@
+---
+
+title: "当代钢琴家音乐疗愈应用指南"
+description: "当代钢琴家音乐疗愈应用指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是当代钢琴家音乐疗愈应用指南"
+  - "当代钢琴家音乐疗愈应用指南的核心概念"
+  - "当代钢琴家音乐疗愈应用指南的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 当代钢琴家音乐疗愈应用指南
 
 ## 疗愈价值概述 (Healing Value Overview)

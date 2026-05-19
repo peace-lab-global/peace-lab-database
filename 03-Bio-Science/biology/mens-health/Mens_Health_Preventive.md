@@ -1,3 +1,31 @@
+---
+
+title: "男性预防健康管理 | Men's Health Preventive Care"
+description: "男性预防健康管理 | Men's Health Preventive Care的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Mens Health"
+tags: ["aging", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是男性预防健康管理 | Men's Health Preventive Care"
+  - "男性预防健康管理 | Men's Health Preventive Care的核心概念"
+  - "男性预防健康管理 | Men's Health Preventive Care的方法与实践"
+trigger_keywords: ["男性预防健康管理", "aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/body_image"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/body_image"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 男性预防健康管理 | Men's Health Preventive Care
 
 > **学科定位**: 男科学 · 预防医学 · 内分泌学 · 心理健康

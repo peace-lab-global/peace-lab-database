@@ -1,3 +1,32 @@
+---
+
+title: "离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)"
+description: "离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["anxiety", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是离婚家庭子女的心理支持与干预策略"
+  - "离婚家庭子女的心理支持与干预策略的核心概念"
+  - "离婚家庭子女的心理支持与干预策略的方法与实践"
+  - "离婚家庭子女的心理支持与干预策略的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)
 
 > **交叉引用**：关于离婚对不同年龄段子女的具体影响，参见 [Divorce_Impact_Children_Development.md](Divorce_Impact_Children_Development.md)；关于共同育儿沟通，参见 [Divorce_Coparenting_Communication.md](Divorce_Coparenting_Communication.md)；关于儿童发展心理学，参见 [Child Development Psychology](../../../psychology/developmental/adolescent/child-development-psychology/)。

@@ -1,3 +1,32 @@
+---
+
+title: "巴赫《法国组曲第二号》创作背景与心理分析"
+description: "巴赫《法国组曲第二号》创作背景与心理分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach French Suites > Suite2"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴赫《法国组曲第二号》创作背景与心理分析"
+  - "巴赫《法国组曲第二号》创作背景与心理分析的核心概念"
+  - "巴赫《法国组曲第二号》创作背景与心理分析的方法与实践"
+  - "巴赫《法国组曲第二号》创作背景与心理分析的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "art", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 巴赫《法国组曲第二号》创作背景与心理分析
 
 ## 创作历史背景

@@ -1,3 +1,31 @@
+---
+
+title: "《转心四思维》The Wisdom of No Escape"
+description: "《转心四思维》The Wisdom of No Escape的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "phobia", "social", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《转心四思维》The Wisdom of No Escape"
+  - "《转心四思维》The Wisdom of No Escape的核心概念"
+  - "《转心四思维》The Wisdom of No Escape的方法与实践"
+trigger_keywords: ["buddhism", "death", "dzogchen", "phobia"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《转心四思维》The Wisdom of No Escape
 
 > 佩玛·丘卓（Pema Chödrön）著，1991年出版。基于创巴仁波切的核心教授，将藏传佛教噶举派和大圆满传统的"转心四思维"（四共加行）翻译为现代人能听懂的语言。这是佩玛的第一本书，奠定了她作为西方最受欢迎的佛教作家之一的地位。

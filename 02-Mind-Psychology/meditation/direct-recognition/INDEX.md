@@ -1,3 +1,31 @@
+---
+
+title: "direct-recognition | Index"
+description: "direct-recognition | Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 直接认知"
+tags: ["meditation", "直接认知", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是direct-recognition | Index"
+  - "direct-recognition | Index的核心概念"
+  - "direct-recognition | Index的方法与实践"
+trigger_keywords: ["Index", "冥想", "直接认知"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "meditation/neuroscience"
+
+---
 # direct-recognition | Index
 
 ## 内容索引 | Contents

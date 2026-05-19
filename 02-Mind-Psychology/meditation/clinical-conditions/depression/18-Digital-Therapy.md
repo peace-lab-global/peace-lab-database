@@ -1,3 +1,31 @@
+---
+
+title: "Digital Therapy"
+description: "Digital Therapy的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "depression", "mindfulness", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Digital Therapy"
+  - "Digital Therapy的核心概念"
+  - "Digital Therapy的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 ## 18. 数字疗法与远程正念干预
 
 > **说明**：后疫情时代，远程心理健康服务（Telehealth）和数字化干预（Digital Mental Health, DMH）已成为不可忽视的交付模式。对抑郁患者而言，数字正念降低了地理、时间、病耻感的门槛；但同时也带来新的挑战（数字鸿沟、隐私、疗效维持）。本章提供远程正念的循证现状与临床实施指南。

@@ -1,3 +1,31 @@
+---
+
+title: "南传佛教丧葬超度仪轨 (Theravada Funeral Rites)"
+description: "南传佛教丧葬超度仪轨 (Theravada Funeral Rites)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "grief", "healing", "loneliness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是南传佛教丧葬超度仪轨"
+  - "南传佛教丧葬超度仪轨的核心概念"
+  - "南传佛教丧葬超度仪轨的方法与实践"
+trigger_keywords: ["南传佛教丧葬超度仪轨", "anxiety", "body", "buddhism", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 南传佛教丧葬超度仪轨 (Theravada Funeral Rites)
 
 > **南传丧葬仪轨 (Maraṇānussati & Mataka-vatthu)**：南传佛教对死亡的态度是正视而非逃避，丧葬仪轨的核心是帮助亡者往生善道、提醒生者念死无常，最终导向解脱。

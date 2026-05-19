@@ -1,3 +1,31 @@
+---
+
+title: "02. 神经生物学与职业应激机制 | Neurobiology & Stress"
+description: "02. 神经生物学与职业应激机制 | Neurobiology & Stress的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "brain", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是02. 神经生物学与职业应激机制 | Neurobiology & Stress"
+  - "02. 神经生物学与职业应激机制 | Neurobiology & Stress的核心概念"
+  - "02. 神经生物学与职业应激机制 | Neurobiology & Stress的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md"
+    relation: "cardiovascular/emotion/immune"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 02. 神经生物学与职业应激机制 | Neurobiology & Stress
 
 > **文档定位**：本章揭示职业倦怠背后的神经生物学通路，帮助临床工作者理解"为什么倦怠不仅仅是心理问题，而是整个神经-内分泌-免疫系统的功能紊乱"。

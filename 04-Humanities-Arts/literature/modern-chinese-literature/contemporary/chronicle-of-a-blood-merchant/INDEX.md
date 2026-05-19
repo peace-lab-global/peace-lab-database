@@ -1,3 +1,31 @@
+---
+
+title: "Chronicle of a Blood Merchant | 许三观卖血记"
+description: "Chronicle of a Blood Merchant | 许三观卖血记的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
+tags: ["cinema", "resilience", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Chronicle of a Blood Merchant | 许三观卖血记"
+  - "Chronicle of a Blood Merchant | 许三观卖血记的核心概念"
+  - "Chronicle of a Blood Merchant | 许三观卖血记的方法与实践"
+trigger_keywords: ["许三观卖血记", "body", "cinema", "philosophy", "resilience"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # Chronicle of a Blood Merchant | 许三观卖血记
 
 > 余华长篇小说，1995年出版。讲述丝厂工人许三观靠卖血度过一个又一个人生难关的故事。在荒诞与苦难的外壳下，写出了中国底层小人物的韧性、尊严和黑色幽默。

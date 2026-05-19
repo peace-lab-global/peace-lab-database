@@ -1,3 +1,31 @@
+---
+
+title: "Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)"
+description: "Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Masturbation Relationships"
+tags: ["addiction", "anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Masturbation and Sexual-Psychological Health"
+  - "Masturbation and Sexual-Psychological Health的核心概念"
+  - "Masturbation and Sexual-Psychological Health的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)
 
 > 基于积极性健康框架与循证研究，系统分析自慰行为与整体性心理健康的关系。内容涵盖健康益处的科学证据、性功能关联、心理健康指标相关性、健康误区澄清及积极性健康框架中的自慰定位。

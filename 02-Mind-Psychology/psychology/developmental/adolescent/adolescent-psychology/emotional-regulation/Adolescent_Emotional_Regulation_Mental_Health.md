@@ -1,3 +1,32 @@
+---
+
+title: "青少年情绪调节与心理健康专业指南"
+description: "青少年情绪调节与心理健康专业指南的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Emotional Regulation"
+tags: ["anxiety", "brain", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年情绪调节与心理健康专业指南"
+  - "青少年情绪调节与心理健康专业指南的核心概念"
+  - "青少年情绪调节与心理健康专业指南的方法与实践"
+  - "青少年情绪调节与心理健康专业指南的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 青少年情绪调节与心理健康专业指南
 
 ## 💭 青少年情绪发展特征

@@ -1,3 +1,32 @@
+---
+
+title: "Relationships | 关系心理学"
+description: "Relationships | 关系心理学的详细解析与实践指南"
+category: "心智与心理学 > 人际关系"
+tags: ["attachment", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Relationships | 关系心理学"
+  - "Relationships | 关系心理学的核心概念"
+  - "Relationships | 关系心理学的方法与实践"
+  - "Relationships | 关系心理学的自助方法"
+trigger_keywords: ["关系心理学", "act", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Child_Development_Trauma.md"
+    relation: "attachment/cardiovascular/communication"
+  - path: "README.md"
+    relation: "attachment/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "cardiovascular/communication/emotion"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "attachment/communication/emotion"
+
+---
 # Relationships | 关系心理学
 
 > 亲密关系、婚恋关系与人际连接的心理学研究与应用

@@ -1,3 +1,31 @@
+---
+
+title: "Core Mechanisms"
+description: "Core Mechanisms的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["cbt", "depression", "intervention", "mbct", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Core Mechanisms"
+  - "Core Mechanisms的核心概念"
+  - "Core Mechanisms的方法与实践"
+trigger_keywords: ["body", "cbt", "cognitive", "depression"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "depression/emotion/meditation"
+
+---
 ## 3. 冥想干预抑郁的核心机制
 
 ### 3.1 反刍的打断机制

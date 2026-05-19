@@ -1,3 +1,31 @@
+---
+
+title: "赫拉克利特 (Heraclitus)"
+description: "赫拉克利特 (Heraclitus)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["healing", "mindfulness", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是赫拉克利特"
+  - "赫拉克利特的核心概念"
+  - "赫拉克利特的方法与实践"
+trigger_keywords: ["赫拉克利特", "art", "cognitive", "developmental", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 赫拉克利特 (Heraclitus)
 ## 核心思想 (Core Ideas)
 | 概念 | 希腊语 | 解释 | 影响 |

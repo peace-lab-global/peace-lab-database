@@ -1,3 +1,31 @@
+---
+
+title: "professional-handbook | 冥想执行师职业手册 Index"
+description: "professional-handbook | 冥想执行师职业手册 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["meditation", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是professional-handbook | 冥想执行师职业手册 Index"
+  - "professional-handbook | 冥想执行师职业手册 Index的核心概念"
+  - "professional-handbook | 冥想执行师职业手册 Index的方法与实践"
+trigger_keywords: ["act", "child", "developmental", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/therapy"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "meditation/therapy"
+
+---
 # professional-handbook | 冥想执行师职业手册 Index
 
 > **定位**：冥想执行师职业发展全景手册，覆盖职业发展、安全管理、运营管理、教学实务、伦理法律、自我修养、客户关系、考试认证、技术进阶、国际执业、数字产品与AI、研究方法与循证、身心健康整合、特殊场景应用、品牌与营销十五大核心领域，以及冥想APP专业分析专题。

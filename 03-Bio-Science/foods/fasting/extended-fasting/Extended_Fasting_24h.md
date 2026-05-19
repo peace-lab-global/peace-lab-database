@@ -1,3 +1,31 @@
+---
+
+title: "24小时断食完整指南 (24-Hour Fasting Complete Guide)"
+description: "24小时断食完整指南 (24-Hour Fasting Complete Guide)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食 > Extended Fasting"
+tags: ["aging", "brain", "fasting"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是24小时断食完整指南"
+  - "24小时断食完整指南的核心概念"
+  - "24小时断食完整指南的方法与实践"
+trigger_keywords: ["24小时断食完整指南", "act", "adolescent", "aging", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/immune/neuroscience"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/immune/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/neuroscience/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/immune/neuroscience"
+
+---
 # 24小时断食完整指南 (24-Hour Fasting Complete Guide)
 
 > 全面的24小时断食科学、实践与安全指南

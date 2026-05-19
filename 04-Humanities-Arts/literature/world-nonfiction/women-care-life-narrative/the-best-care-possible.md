@@ -1,3 +1,31 @@
+---
+
+title: "《最好的照护》The Best Care Possible"
+description: "《最好的照护》The Best Care Possible的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["decision-making", "grief"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《最好的照护》The Best Care Possible"
+  - "《最好的照护》The Best Care Possible的核心概念"
+  - "《最好的照护》The Best Care Possible的方法与实践"
+trigger_keywords: ["body", "breathwork", "clinical", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/depression"
+
+---
 # 《最好的照护》The Best Care Possible
 
 **作者**：艾拉·拜奥克 (Ira Byock)  

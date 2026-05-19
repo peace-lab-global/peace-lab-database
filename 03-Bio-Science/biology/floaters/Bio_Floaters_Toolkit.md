@@ -1,3 +1,31 @@
+---
+
+title: "飞蚊症实用工具箱 (Floaters Practical Toolkit)"
+description: "飞蚊症实用工具箱 (Floaters Practical Toolkit)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 飞蚊症"
+tags: ["brain", "cinema", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是飞蚊症实用工具箱"
+  - "飞蚊症实用工具箱的核心概念"
+  - "飞蚊症实用工具箱的方法与实践"
+trigger_keywords: ["飞蚊症实用工具箱", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # 飞蚊症实用工具箱 (Floaters Practical Toolkit)
 
 ## 目录

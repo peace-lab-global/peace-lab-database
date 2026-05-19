@@ -1,3 +1,31 @@
+---
+
+title: "《经验的政治》The Politics of Experience"
+description: "《经验的政治》The Politics of Experience的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["healing", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《经验的政治》The Politics of Experience"
+  - "《经验的政治》The Politics of Experience的核心概念"
+  - "《经验的政治》The Politics of Experience的方法与实践"
+trigger_keywords: ["healing", "psychology", "sexuality", "treatment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # 《经验的政治》The Politics of Experience
 
 > R.D.莱恩（R.D. Laing）著，1967年出版。莱恩最具政治性的著作，探讨了社会如何通过"正常化"的过程来压制个体的真实经验。核心论点是：**"疯狂"往往是社会制造出来的——当社会无法容纳某种经验时，它就把它定义为"病态"**。

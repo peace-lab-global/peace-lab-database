@@ -1,3 +1,32 @@
+---
+
+title: "南怀瑾心理智慧专业内容体系"
+description: "南怀瑾心理智慧专业内容体系的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Nan Huaijin"
+tags: ["buddhism", "daoism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是南怀瑾心理智慧专业内容体系"
+  - "南怀瑾心理智慧专业内容体系的核心概念"
+  - "南怀瑾心理智慧专业内容体系的方法与实践"
+  - "南怀瑾心理智慧专业内容体系的自助方法"
+trigger_keywords: ["assessment", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md"
+    relation: "buddhism/communication/daoism"
+
+---
 # 南怀瑾心理智慧专业内容体系
 
 ## 目录

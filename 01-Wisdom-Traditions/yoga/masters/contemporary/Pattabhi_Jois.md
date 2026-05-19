@@ -1,3 +1,31 @@
+---
+
+title: "K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人"
+description: "K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Contemporary"
+tags: ["cbt", "decision-making", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人"
+  - "K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人的核心概念"
+  - "K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "anxiety/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "anxiety/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/meditation/productivity"
+
+---
 # K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人
 
 ## 概述 (Overview)

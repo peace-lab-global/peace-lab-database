@@ -1,3 +1,31 @@
+---
+
+title: "Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)"
+description: "Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Coffee"
+tags: ["addiction", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Coffee Ritual & Mindfulness Practice"
+  - "Coffee Ritual & Mindfulness Practice的核心概念"
+  - "Coffee Ritual & Mindfulness Practice的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)
 
 ## 咖啡仪式核心术语表 (Coffee Ritual Core Terminology)

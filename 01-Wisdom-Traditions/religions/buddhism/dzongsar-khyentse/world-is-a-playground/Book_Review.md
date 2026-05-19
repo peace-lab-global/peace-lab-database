@@ -1,3 +1,31 @@
+---
+
+title: "《人间是剧场》读书笔记与书评"
+description: "《人间是剧场》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > World Is A Playground"
+tags: ["buddhism", "cinema", "habits", "mindfulness", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人间是剧场》读书笔记与书评"
+  - "《人间是剧场》读书笔记与书评的核心概念"
+  - "《人间是剧场》读书笔记与书评的方法与实践"
+trigger_keywords: ["buddhism", "cinema", "death", "habits"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/communication/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/communication/death"
+  - path: "README.md"
+    relation: "buddhism/communication/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+    relation: "communication/death/meditation"
+
+---
 # 《人间是剧场》读书笔记与书评
 
 ## 一、总体评价

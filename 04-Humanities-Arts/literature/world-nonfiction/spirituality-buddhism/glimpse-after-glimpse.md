@@ -1,3 +1,31 @@
+---
+
+title: "《瞥见》Glimpse After Glimpse"
+description: "《瞥见》Glimpse After Glimpse的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["phobia", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《瞥见》Glimpse After Glimpse"
+  - "《瞥见》Glimpse After Glimpse的核心概念"
+  - "《瞥见》Glimpse After Glimpse的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "death", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Yamantaka.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《瞥见》Glimpse After Glimpse
 
 >  丘扬·创巴仁波切（Chögyam Trungpa Rinpoche）著，1999年出版。创巴仁波切是藏传佛教传入西方最重要的先驱之一，1970年代在科罗拉多州建立了那洛巴大学和香巴拉训练体系。这本书是他每日修行的精华语录集，以极其直接和有时令人不安的方式指向心性的本然。

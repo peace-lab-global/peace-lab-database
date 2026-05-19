@@ -1,3 +1,32 @@
+---
+
+title: "步行锻炼与心理健康专题 (Walking Exercise & Mental Health)"
+description: "步行锻炼与心理健康专题 (Walking Exercise & Mental Health)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Walking"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是步行锻炼与心理健康专题"
+  - "步行锻炼与心理健康专题的核心概念"
+  - "步行锻炼与心理健康专题的方法与实践"
+  - "步行锻炼与心理健康专题的自助方法"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 步行锻炼与心理健康专题 (Walking Exercise & Mental Health)
 
 > 步行是最易获取、成本最低、循证支持最充分的身心干预手段之一。本专题整合运动心理学、社会心理学、环境心理学与神经科学研究，系统呈现步行对心理健康的多维影响。

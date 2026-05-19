@@ -1,3 +1,31 @@
+---
+
+title: "约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)"
+description: "约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Prevention"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约炮与出轨预防干预指南"
+  - "约炮与出轨预防干预指南的核心概念"
+  - "约炮与出轨预防干预指南的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)
 
 ## 预防框架概述

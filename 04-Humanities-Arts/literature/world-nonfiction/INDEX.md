@@ -1,3 +1,31 @@
+---
+
+title: "World Nonfiction | 世界非虚构与灵性书写"
+description: "World Nonfiction | 世界非虚构与灵性书写的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction"
+tags: ["healing", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是World Nonfiction | 世界非虚构与灵性书写"
+  - "World Nonfiction | 世界非虚构与灵性书写的核心概念"
+  - "World Nonfiction | 世界非虚构与灵性书写的方法与实践"
+trigger_keywords: ["世界非虚构与灵性书写", "anxiety", "art", "brain", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/daoism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/daoism"
+
+---
 # World Nonfiction | 世界非虚构与灵性书写
 
 > 生死学、临终关怀、佛学、心理学、存在主义与意识探索的深度书评与思想档案

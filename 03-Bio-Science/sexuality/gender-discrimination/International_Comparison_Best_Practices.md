@@ -1,3 +1,31 @@
+---
+
+title: "International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)"
+description: "International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["death", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是International Comparison and Best Practices in Gender Equality"
+  - "International Comparison and Best Practices in Gender Equality的核心概念"
+  - "International Comparison and Best Practices in Gender Equality的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/death/sexuality"
+
+---
 # International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)
 
 ## 全球性别平等发展格局 (Global Gender Equality Development Pattern)

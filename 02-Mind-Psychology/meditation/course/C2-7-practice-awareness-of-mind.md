@@ -1,3 +1,31 @@
+---
+
+title: "C2-7 冥想练习课：觉察心念"
+description: "C2-7 冥想练习课：觉察心念的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "habits", "intervention", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2-7 冥想练习课：觉察心念"
+  - "C2-7 冥想练习课：觉察心念的核心概念"
+  - "C2-7 冥想练习课：觉察心念的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C2-7 冥想练习课：觉察心念
 
 📑 智能总结

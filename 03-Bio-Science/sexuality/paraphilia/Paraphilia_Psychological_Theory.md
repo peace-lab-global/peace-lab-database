@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives (恋物癖心理学理论与心理动力学)"
+description: "Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives (恋物癖心理学理论与心理动力学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["attachment", "brain", "cbt", "death", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives"
+  - "Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives的核心概念"
+  - "Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives (恋物癖心理学理论与心理动力学)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋物癖的心理学理论基础。相关主题请参考：

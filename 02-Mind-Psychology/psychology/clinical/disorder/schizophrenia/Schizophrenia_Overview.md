@@ -1,3 +1,31 @@
+---
+
+title: "Schizophrenia Overview (精神分裂症概览)"
+description: "Schizophrenia Overview (精神分裂症概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizophrenia"
+tags: ["anxiety", "brain", "cardiovascular", "schizophrenia", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Schizophrenia Overview"
+  - "Schizophrenia Overview的核心概念"
+  - "Schizophrenia Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Schizophrenia Overview (精神分裂症概览)
 
 > **精神分裂症 (Schizophrenia)**

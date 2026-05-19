@@ -1,3 +1,32 @@
+---
+
+title: "拖延心理机制"
+description: "拖延心理机制的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["anxiety", "decision-making", "depression", "intervention", "phobia", "adhd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是拖延心理机制"
+  - "拖延心理机制的核心概念"
+  - "拖延心理机制的方法与实践"
+  - "拖延心理机制的自助方法"
+trigger_keywords: ["拖延心理机制", "anxiety", "behavioral", "cognitive", "decision-making"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/fruit-nutrition/Fruit_Nutrition_Psychological_Impact_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/herbal-tea/Herbal_Tea_Comprehensive.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 拖延心理机制
 
 ## 目录

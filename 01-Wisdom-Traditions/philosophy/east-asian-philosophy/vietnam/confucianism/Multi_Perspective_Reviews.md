@@ -1,3 +1,21 @@
+---
+
+title: "越南儒学经典三方书评"
+description: "越南儒学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Vietnam > Confucianism"
+tags: ["philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是越南儒学经典三方书评"
+  - "越南儒学经典三方书评的核心概念"
+  - "越南儒学经典三方书评的方法与实践"
+trigger_keywords: ["越南儒学经典三方书评", "literature", "philosophy", "sexuality", "哲学"]
+cross_refs: []
+
+---
 # 越南儒学经典三方书评
 
 ## 主题：阮廌 (Nguyễn Trãi) — 《平吴大诰》、越南儒学独立传统、爱国主义与儒学

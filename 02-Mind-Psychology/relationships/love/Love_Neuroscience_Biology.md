@@ -1,3 +1,31 @@
+---
+
+title: "Love Neuroscience & Biology (恋爱神经科学与生物学)"
+description: "Love Neuroscience & Biology (恋爱神经科学与生物学)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Love"
+tags: ["addiction", "anxiety", "attachment", "brain", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Love Neuroscience & Biology"
+  - "Love Neuroscience & Biology的核心概念"
+  - "Love Neuroscience & Biology的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Love Neuroscience & Biology (恋爱神经科学与生物学)
 
 ### Neurotransmitters & Hormones in Love (恋爱中的神经递质与激素表)

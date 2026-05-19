@@ -1,3 +1,31 @@
+---
+
+title: "《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回"
+description: "《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回"
+  - "《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回的核心概念"
+  - "《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《老无所依》专业影评：存在主义西部片的道德荒原与宿命轮回
 
 ## 摘要 (Abstract)

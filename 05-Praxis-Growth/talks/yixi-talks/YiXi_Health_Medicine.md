@@ -1,3 +1,31 @@
+---
+
+title: "一席身体健康与医学精选 | YiXi Health & Medicine Collection"
+description: "一席身体健康与医学精选 | YiXi Health & Medicine Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Yixi Talks"
+tags: ["fasting", "gut", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是一席身体健康与医学精选 | YiXi Health & Medicine Collection"
+  - "一席身体健康与医学精选 | YiXi Health & Medicine Collection的核心概念"
+  - "一席身体健康与医学精选 | YiXi Health & Medicine Collection的方法与实践"
+trigger_keywords: ["assessment", "body", "clinical", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/nutrition"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "communication/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "communication/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
+    relation: "communication/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+    relation: "communication/exercise/nutrition"
+
+---
 # 一席身体健康与医学精选 | YiXi Health & Medicine Collection
 
 > **身体健康与医学**是人类福祉的基石。本文件精选一席平台上关于医学前沿、公共健康、营养科学、运动医学等领域的优质演讲，涵盖从微观的细胞机制到宏观的公共卫生政策，为关注健康的学习者提供科学、实用的医学知识和健康指导。

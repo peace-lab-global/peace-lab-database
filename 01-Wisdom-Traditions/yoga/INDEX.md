@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽 (Yoga) | 知识地图"
+description: "瑜伽 (Yoga) | 知识地图的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["meditation", "philosophy", "tcm", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽  | 知识地图"
+  - "瑜伽  | 知识地图的核心概念"
+  - "瑜伽  | 知识地图的方法与实践"
+trigger_keywords: ["瑜伽", "知识地图", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 瑜伽 (Yoga) | 知识地图
 
 > 瑜伽不仅是体式练习，而是一套完整的身心灵科学体系——涵盖哲学、伦理、身体练习、呼吸控制、感官收摄、专注、冥想与三摩地。本知识库力求全面呈现瑜伽的多维深度。

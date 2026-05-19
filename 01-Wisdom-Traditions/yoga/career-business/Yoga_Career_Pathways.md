@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽职业发展路径 | Yoga Career Pathways"
+description: "瑜伽职业发展路径 | Yoga Career Pathways的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Career Business"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽职业发展路径 | Yoga Career Pathways"
+  - "瑜伽职业发展路径 | Yoga Career Pathways的核心概念"
+  - "瑜伽职业发展路径 | Yoga Career Pathways的方法与实践"
+trigger_keywords: ["瑜伽职业发展路径", "act", "adolescent", "aging", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "aging/communication/neuroscience"
+
+---
 # 瑜伽职业发展路径 | Yoga Career Pathways
 
 > **领域**：瑜伽商业化与职业发展（Yoga Business & Career）

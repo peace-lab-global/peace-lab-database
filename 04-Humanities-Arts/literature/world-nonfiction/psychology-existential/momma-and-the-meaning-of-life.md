@@ -1,3 +1,31 @@
+---
+
+title: "《妈妈及生命的意义》Momma and the Meaning of Life"
+description: "《妈妈及生命的意义》Momma and the Meaning of Life的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature", "loneliness", "suicide"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《妈妈及生命的意义》Momma and the Meaning of Life"
+  - "《妈妈及生命的意义》Momma and the Meaning of Life的核心概念"
+  - "《妈妈及生命的意义》Momma and the Meaning of Life的方法与实践"
+trigger_keywords: ["aging", "art", "death", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/death/depression"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/death/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "aging/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/death/depression"
+
+---
 # 《妈妈及生命的意义》Momma and the Meaning of Life
 
 > 欧文·亚隆（Irvin D. Yalom）著，1999年出版。六个心理治疗故事的合集，每个故事都围绕一个核心主题：母亲、欲望、死亡、意义、孤独。亚隆在这些故事中展示了存在主义心理治疗的"艺术"——不是技术，而是人与人在存在层面的相遇。

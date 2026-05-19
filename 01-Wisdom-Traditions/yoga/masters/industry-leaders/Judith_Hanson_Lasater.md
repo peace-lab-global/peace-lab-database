@@ -1,3 +1,31 @@
+---
+
+title: "朱迪思·汉森·拉萨特（Judith Hanson Lasater）"
+description: "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["immune", "pain", "stress", "treatment", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是朱迪思·汉森·拉萨特（Judith Hanson Lasater）"
+  - "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的核心概念"
+  - "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的方法与实践"
+trigger_keywords: ["朱迪思", "汉森", "communication", "developmental", "immune", "neuroscience"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
+    relation: "communication/immune/neuroscience"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "communication/immune/neuroscience"
+
+---
 # 朱迪思·汉森·拉萨特（Judith Hanson Lasater）
 
 > 修复性瑜伽的灵魂人物——将深度放松提升为瑜伽的核心实践

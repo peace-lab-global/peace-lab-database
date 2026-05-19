@@ -1,3 +1,31 @@
+---
+
+title: "超人类主义 | Transhumanism"
+description: "超人类主义 | Transhumanism的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "longevity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是超人类主义 | Transhumanism"
+  - "超人类主义 | Transhumanism的核心概念"
+  - "超人类主义 | Transhumanism的方法与实践"
+trigger_keywords: ["超人类主义", "aging", "body", "brain", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/communication/exercise"
+
+---
 # 超人类主义 | Transhumanism
 
 > **超人类主义**（Transhumanism）是一场倡导通过技术手段增强人类体能、智力和寿命的哲学运动和科技实践。TED平台上关于超人类主义的演讲探讨了基因编辑、脑机接口、寿命延长和意识上传等前沿议题，在技术乐观主义与伦理审慎之间引发了深刻的公共对话。

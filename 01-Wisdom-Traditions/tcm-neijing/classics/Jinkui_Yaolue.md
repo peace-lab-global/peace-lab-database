@@ -1,3 +1,21 @@
+---
+
+title: "金匮要略 (Jinkui Yaolue)"
+description: "金匮要略 (Jinkui Yaolue)的详细解析与实践指南"
+category: "智慧传承 > 中医内经 > Classics"
+tags: ["gut", "中医内经"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是金匮要略"
+  - "金匮要略的核心概念"
+  - "金匮要略的方法与实践"
+trigger_keywords: ["金匮要略", "body", "gut", "sexuality", "中医内经"]
+cross_refs: []
+
+---
 # 金匮要略 (Jinkui Yaolue)
 
 ## 基本信息

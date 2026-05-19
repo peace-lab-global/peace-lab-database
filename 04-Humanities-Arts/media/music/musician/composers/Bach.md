@@ -1,3 +1,31 @@
+---
+
+title: "Bach (巴赫)：巴洛克音乐的巅峰"
+description: "Bach (巴赫)：巴洛克音乐的巅峰的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
+tags: ["habits", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Bach ：巴洛克音乐的巅峰"
+  - "Bach ：巴洛克音乐的巅峰的核心概念"
+  - "Bach ：巴洛克音乐的巅峰的方法与实践"
+trigger_keywords: ["act", "art", "breathwork", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/emotion/exercise"
+
+---
 # Bach (巴赫)：巴洛克音乐的巅峰
 
 ## 概述 (Overview)

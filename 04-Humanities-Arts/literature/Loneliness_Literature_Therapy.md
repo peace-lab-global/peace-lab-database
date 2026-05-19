@@ -1,3 +1,31 @@
+---
+
+title: "孤独主题文学疗愈 (Literature Therapy for Loneliness)"
+description: "孤独主题文学疗愈 (Literature Therapy for Loneliness)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独主题文学疗愈"
+  - "孤独主题文学疗愈的核心概念"
+  - "孤独主题文学疗愈的方法与实践"
+trigger_keywords: ["孤独主题文学疗愈", "adolescent", "aging", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/communication/emotion"
+
+---
 # 孤独主题文学疗愈 (Literature Therapy for Loneliness)
 
 > **核心命题**: 文学是人类对抗孤独最古老的盟友。从《诗经》的"知我者谓我心忧"到卡夫卡的变形甲虫，从梭罗的瓦尔登湖到村上春树的挪威森林——伟大的文学作品让我们发现："原来不是我一个人这样。"这是文学疗愈孤独的第一步，也是最重要的一步。

@@ -1,3 +1,32 @@
+---
+
+title: "心血管心理学 | Cardiovascular Psychology"
+description: "心血管心理学 | Cardiovascular Psychology的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 心血管"
+tags: ["cardiovascular", "cbt", "death", "depression", "nutrition", "exercise"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心血管心理学 | Cardiovascular Psychology"
+  - "心血管心理学 | Cardiovascular Psychology的核心概念"
+  - "心血管心理学 | Cardiovascular Psychology的方法与实践"
+  - "心血管心理学 | Cardiovascular Psychology的自助方法"
+trigger_keywords: ["心血管心理学", "anxiety", "assessment", "behavioral", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 心血管心理学 | Cardiovascular Psychology
 
 > **学科定位**: 心理心脏病学(Psychocardiology) · 行为心脏病学 · 健康心理学

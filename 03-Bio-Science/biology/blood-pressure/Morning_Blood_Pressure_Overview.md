@@ -1,3 +1,31 @@
+---
+
+title: "晨间血压调节概览 | Morning Blood Pressure Regulation Overview"
+description: "晨间血压调节概览 | Morning Blood Pressure Regulation Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 血压调节"
+tags: ["aging", "brain", "cardiovascular", "cortisol", "exercise"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是晨间血压调节概览 | Morning Blood Pressure Regulation Overview"
+  - "晨间血压调节概览 | Morning Blood Pressure Regulation Overview的核心概念"
+  - "晨间血压调节概览 | Morning Blood Pressure Regulation Overview的方法与实践"
+trigger_keywords: ["晨间血压调节概览", "act", "aging", "assessment", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+
+---
 # 晨间血压调节概览 | Morning Blood Pressure Regulation Overview
 
 > 晨间血压调节是心血管健康管理的关键领域，涉及昼夜节律生理学、自主神经系统调控及生活方式干预策略。

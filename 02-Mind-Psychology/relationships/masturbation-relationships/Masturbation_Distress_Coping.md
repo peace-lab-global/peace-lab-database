@@ -1,3 +1,31 @@
+---
+
+title: "Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)"
+description: "Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Masturbation Relationships"
+tags: ["addiction", "anxiety", "attachment", "mindfulness", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Masturbation-Related Distress and Coping"
+  - "Masturbation-Related Distress and Coping的核心概念"
+  - "Masturbation-Related Distress and Coping的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+
+---
 # Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)
 
 > 基于临床心理学与宗教心理学研究，系统梳理自慰相关心理困扰的来源、类型与循证应对策略。重点阐述道德不一致模型、罪疚/羞耻感机制及基于ACT/正念的干预方法，避免过度病理化。

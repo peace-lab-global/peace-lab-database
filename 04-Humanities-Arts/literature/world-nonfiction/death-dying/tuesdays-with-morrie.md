@@ -1,3 +1,31 @@
+---
+
+title: "《相约星期二》Tuesdays with Morrie"
+description: "《相约星期二》Tuesdays with Morrie的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["cinema", "literature", "marriage", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《相约星期二》Tuesdays with Morrie"
+  - "《相约星期二》Tuesdays with Morrie的核心概念"
+  - "《相约星期二》Tuesdays with Morrie的方法与实践"
+trigger_keywords: ["aging", "behavioral", "cinema", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 《相约星期二》Tuesdays with Morrie
 
 > 米奇·阿尔博姆（Mitch Albom）著，1997年出版。体育记者阿尔博姆与 former 大学教授莫里·施瓦茨在后者患ALS（肌萎缩侧索硬化症）后的14个星期二的重逢记录。全球销量超过1400万册，被改编为同名电影和舞台剧。

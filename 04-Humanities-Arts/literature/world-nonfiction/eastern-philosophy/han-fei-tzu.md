@@ -1,3 +1,31 @@
+---
+
+title: "《韩非子》Han Fei Tzu"
+description: "《韩非子》Han Fei Tzu的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "phobia", "productivity", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《韩非子》Han Fei Tzu"
+  - "《韩非子》Han Fei Tzu的核心概念"
+  - "《韩非子》Han Fei Tzu的方法与实践"
+trigger_keywords: ["behavioral", "literature", "philosophy", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # 《韩非子》Han Fei Tzu
 
 > 韩非（Han Fei，约公元前280—前233年）著，战国末期韩国人，法家思想的集大成者。韩非是荀子的学生，与李斯同学于荀子门下。全书55篇，约10万余字，是中国古代最系统、最精密的政治理论著作。韩非综合了商鞅的"法"、申不害的"术"、慎到的"势"，提出了完整的法家理论。后因李斯嫉妒其才，被谗害死于秦国狱中。

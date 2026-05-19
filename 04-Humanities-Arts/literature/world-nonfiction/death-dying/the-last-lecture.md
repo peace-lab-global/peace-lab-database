@@ -1,3 +1,31 @@
+---
+
+title: "《最后的演讲》The Last Lecture"
+description: "《最后的演讲》The Last Lecture的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《最后的演讲》The Last Lecture"
+  - "《最后的演讲》The Last Lecture的核心概念"
+  - "《最后的演讲》The Last Lecture的方法与实践"
+trigger_keywords: ["adolescent", "death", "philosophy", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "art_therapy/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication"
+
+---
 # 《最后的演讲》The Last Lecture
 
 > 兰迪·波许（Randy Pausch）著，2008年出版。卡内基梅隆大学教授，46岁被诊断出胰腺癌晚期。应学校邀请做了一场"最后的演讲"，主题不是死亡，而是"如何实现童年梦想"。演讲视频在YouTube上观看次数超过千万，成为21世纪最动人的公共演讲之一。

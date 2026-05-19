@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教冥想概述"
+description: "藏传佛教冥想概述的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tibetan Meditation"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是藏传佛教冥想概述"
+  - "藏传佛教冥想概述的核心概念"
+  - "藏传佛教冥想概述的方法与实践"
+trigger_keywords: ["藏传佛教冥想概述", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 藏传佛教冥想概述
 
 > **适用对象**：对藏传佛教冥想有系统了解需求的修行者、学者、心理健康从业者  

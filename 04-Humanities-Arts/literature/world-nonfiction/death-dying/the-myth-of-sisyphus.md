@@ -1,3 +1,31 @@
+---
+
+title: "《西西弗神话》The Myth of Sisyphus"
+description: "《西西弗神话》The Myth of Sisyphus的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature", "religion", "suicide", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《西西弗神话》The Myth of Sisyphus"
+  - "《西西弗神话》The Myth of Sisyphus的核心概念"
+  - "《西西弗神话》The Myth of Sisyphus的方法与实践"
+trigger_keywords: ["death", "literature", "philosophy", "religion"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "death/depression/sexuality"
+
+---
 # 《西西弗神话》The Myth of Sisyphus
 
 > 阿尔贝·加缪（Albert Camus）著，1942年出版。法国存在主义哲学家、诺贝尔文学奖得主。这本书以希腊神话中西西弗被惩罚永远推石上山的故事为核心，提出了存在主义最著名的问题："真正严肃的哲学问题只有一个，那就是自杀。判断人生是否值得活下去，就是在回答哲学的根本问题。"

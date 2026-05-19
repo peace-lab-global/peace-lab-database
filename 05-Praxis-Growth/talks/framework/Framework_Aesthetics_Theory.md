@@ -1,3 +1,31 @@
+---
+
+title: "美学理论 | Aesthetics Theory"
+description: "美学理论 | Aesthetics Theory的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["daoism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是美学理论 | Aesthetics Theory"
+  - "美学理论 | Aesthetics Theory的核心概念"
+  - "美学理论 | Aesthetics Theory的方法与实践"
+trigger_keywords: ["美学理论", "act", "art", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/communication/daoism"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Anger_Management.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 美学理论 | Aesthetics Theory
 
 > 美学（Aesthetics）作为哲学的重要分支，探究人类审美经验的本质、艺术创造的规律以及美的存在方式。从柏拉图（Plato）的"美本身"到当代神经美学（Neuroaesthetics）的实验探索，美学理论始终在感性与理性、个体与普遍、传统与创新之间展开深刻对话。本框架将横跨东西方美学传统，构建一个多元而开放的美学知识体系，为理解人类审美活动提供丰富的理论资源。

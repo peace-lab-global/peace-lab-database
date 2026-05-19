@@ -1,3 +1,31 @@
+---
+
+title: "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series"
+description: "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series"
+  - "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的核心概念"
+  - "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series
 
 > **级别**：Level 2-4（渐进式，从入门到高阶）

@@ -1,3 +1,31 @@
+---
+
+title: "约瑟夫·戈尔茨坦 (Joseph Goldstein)"
+description: "约瑟夫·戈尔茨坦 (Joseph Goldstein)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["dzogchen", "healing", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约瑟夫·戈尔茨坦"
+  - "约瑟夫·戈尔茨坦的核心概念"
+  - "约瑟夫·戈尔茨坦的方法与实践"
+trigger_keywords: ["约瑟夫", "戈尔茨坦", "act", "body", "buddhism", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 约瑟夫·戈尔茨坦 (Joseph Goldstein)
 
 > "Mindfulness is the quality of mind that notices what is present without judgment, without interference."

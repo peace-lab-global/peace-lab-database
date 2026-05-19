@@ -1,3 +1,31 @@
+---
+
+title: "系列十：婚恋关系系列 | Love & Relationships Series"
+description: "系列十：婚恋关系系列 | Love & Relationships Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "attachment", "trauma"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列十：婚恋关系系列 | Love & Relationships Series"
+  - "系列十：婚恋关系系列 | Love & Relationships Series的核心概念"
+  - "系列十：婚恋关系系列 | Love & Relationships Series的方法与实践"
+trigger_keywords: ["系列十：婚恋关系系列", "anxiety", "attachment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+
+---
 # 系列十：婚恋关系系列 | Love & Relationships Series
 
 > **级别**：Level 2-3（初中级）

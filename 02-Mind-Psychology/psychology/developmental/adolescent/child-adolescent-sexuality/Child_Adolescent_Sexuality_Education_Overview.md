@@ -1,3 +1,31 @@
+---
+
+title: "儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)"
+description: "儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是儿童及青少年性教育专业体系概览"
+  - "儿童及青少年性教育专业体系概览的核心概念"
+  - "儿童及青少年性教育专业体系概览的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)
 
 > 🎓 **专业定位**: 本体系基于联合国教科文组织(UNESCO)全面性教育(CSE)标准，融合发展心理学、教育学、公共卫生学等多学科理论，为5-18岁儿童青少年提供科学、系统、文化敏感的性教育专业框架。建议结合[儿童青少年发展](../child-adolescent/Child_Adolescent_Development.md)了解发展特点，参考[综合性性教育](../../../../../03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md)获取完整生命周期视角，查阅[家庭教育支持体系](theory/Family_Education_Support_System.md)了解家庭配合要点。

@@ -1,3 +1,31 @@
+---
+
+title: "社交资本总览 | Social Capital Overview"
+description: "社交资本总览 | Social Capital Overview的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Capital"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社交资本总览 | Social Capital Overview"
+  - "社交资本总览 | Social Capital Overview的核心概念"
+  - "社交资本总览 | Social Capital Overview的方法与实践"
+trigger_keywords: ["社交资本总览", "act", "behavioral", "cognitive", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/emotion"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "communication/death/emotion"
+
+---
 # 社交资本总览 | Social Capital Overview
 
 > **学科定位**: 社会学 x 经济学 x 组织行为学

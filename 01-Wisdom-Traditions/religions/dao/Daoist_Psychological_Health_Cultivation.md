@@ -1,3 +1,32 @@
+---
+
+title: "道家心理养生专业内容体系"
+description: "道家心理养生专业内容体系的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["daoism", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是道家心理养生专业内容体系"
+  - "道家心理养生专业内容体系的核心概念"
+  - "道家心理养生专业内容体系的方法与实践"
+  - "道家心理养生专业内容体系的自助方法"
+trigger_keywords: ["aging", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "aging/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "daoism/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/depression/emotion"
+
+---
 # 道家心理养生专业内容体系
 
 ## 目录

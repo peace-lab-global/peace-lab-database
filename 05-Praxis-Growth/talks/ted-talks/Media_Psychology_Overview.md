@@ -1,3 +1,32 @@
+---
+
+title: "媒体心理学 | Media Psychology Overview"
+description: "媒体心理学 | Media Psychology Overview的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction", "depression"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是媒体心理学 | Media Psychology Overview"
+  - "媒体心理学 | Media Psychology Overview的核心概念"
+  - "媒体心理学 | Media Psychology Overview的方法与实践"
+  - "媒体心理学 | Media Psychology Overview的自助方法"
+trigger_keywords: ["媒体心理学", "addiction", "adolescent", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 媒体心理学 | Media Psychology Overview
 
 > **媒体心理学**（Media Psychology）研究人类与媒体互动的心理机制，涵盖社交媒体（Social Media）对认知、情感和社会行为的影响、数字时代的注意力经济（Attention Economy）、以及虚拟现实（VR）等新技术对心理体验的重塑。本文件精选TED平台上关于媒体心理学的前沿演讲，帮助读者理解数字媒体环境如何塑造我们的思维方式和社会关系。

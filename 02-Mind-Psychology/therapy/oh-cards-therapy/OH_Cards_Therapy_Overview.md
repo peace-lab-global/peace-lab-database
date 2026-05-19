@@ -1,3 +1,32 @@
+---
+
+title: "OH卡疗法概览 (OH Cards Therapy Overview)"
+description: "OH卡疗法概览 (OH Cards Therapy Overview)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Oh Cards Therapy"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是OH卡疗法概览"
+  - "OH卡疗法概览的核心概念"
+  - "OH卡疗法概览的方法与实践"
+  - "OH卡疗法概览的循证证据"
+trigger_keywords: ["OH卡疗法概览", "act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # OH卡疗法概览 (OH Cards Therapy Overview)
 
 > **OH卡心理投射技术 (OH Cards Projective Technique)**

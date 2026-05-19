@@ -1,3 +1,31 @@
+---
+
+title: "《奥勃洛莫夫》Oblomov"
+description: "《奥勃洛莫夫》Oblomov的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["daoism", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《奥勃洛莫夫》Oblomov"
+  - "《奥勃洛莫夫》Oblomov的核心概念"
+  - "《奥勃洛莫夫》Oblomov的方法与实践"
+trigger_keywords: ["buddhism", "daoism", "death", "literature"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/daoism/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "buddhism/daoism/sexuality"
+
+---
 # 《奥勃洛莫夫》Oblomov
 
 > 伊万·冈察洛夫（Ivan Goncharov）著，1859年出版。俄国小说，主人公奥勃洛莫夫是一个贵族，他整天躺在床上，无法做出任何决定、采取任何行动。他的"懒惰"不是性格缺陷——它是**对整个"行动世界"的拒绝**，一种存在性的 paralysis。"奥勃洛莫夫"后来成为了俄语中的一个词，指代"无法行动的懒惰者"。

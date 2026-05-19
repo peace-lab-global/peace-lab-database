@@ -1,3 +1,31 @@
+---
+
+title: "生育与妊娠 | Fertility & Pregnancy"
+description: "生育与妊娠 | Fertility & Pregnancy的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Womens Health"
+tags: ["cbt", "depression", "exercise", "immune", "nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是生育与妊娠 | Fertility & Pregnancy"
+  - "生育与妊娠 | Fertility & Pregnancy的核心概念"
+  - "生育与妊娠 | Fertility & Pregnancy的方法与实践"
+trigger_keywords: ["生育与妊娠", "anxiety", "assessment", "cbt", "communication"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 生育与妊娠 | Fertility & Pregnancy
 
 > **学科定位**: 生殖医学 · 围产医学 · 母婴健康

@@ -1,3 +1,31 @@
+---
+
+title: "Authority Complex & Age-Related Attraction Disorders (权威情结与年龄相关吸引障碍)"
+description: "Authority Complex & Age-Related Attraction Disorders (权威情结与年龄相关吸引障碍)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Authority Complex"
+tags: ["attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Authority Complex & Age-Related Attraction Disorders"
+  - "Authority Complex & Age-Related Attraction Disorders的核心概念"
+  - "Authority Complex & Age-Related Attraction Disorders的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Authority Complex & Age-Related Attraction Disorders (权威情结与年龄相关吸引障碍)
 
 > 📘 **文档导航**: 本概览文档提供权威情结与年龄相关吸引障碍的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

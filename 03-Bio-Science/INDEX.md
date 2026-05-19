@@ -1,6 +1,96 @@
+---
+
+title: "03-Bio-Science | 生命科学与生物医学"
+description: "03-Bio-Science | 生命科学与生物医学的详细解析与实践指南"
+category: "生命科学与生物医学"
+tags: ["aging", "bci", "gut-microbiome", "cardiovascular", "fasting", "breathwork"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是03-Bio-Science | 生命科学与生物医学"
+  - "03-Bio-Science | 生命科学与生物医学的核心概念"
+  - "03-Bio-Science | 生命科学与生物医学的方法与实践"
+trigger_keywords: ["生命科学与生物医学", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 03-Bio-Science | 生命科学与生物医学
 
 > 关注躯体智慧、生物机制、营养科学及健康管理。
+
+---
+
+## 📚 阅读路径建议 | Reading Path Guide
+
+> 本支柱内容广博，以下路径帮助不同背景的读者找到适合自己的学习顺序。
+
+### 🌱 初阶路径 (入门者)
+
+**目标**: 建立生命科学基础认知，理解身体与心理的关联
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [睡眠科学与节律优化](biology/exercise-science/Exercise_Science_Overview.md) | 理解睡眠对健康的核心影响 | 25分钟 |
+| 2 | [运动与心理健康](biology/exercise-science/Exercise_Mental_Health.md) | 运动如何改善情绪和认知 | 20分钟 |
+| 3 | [HPA轴与压力反应](biology/hpa-axis/) | 理解压力与身体的交互 | 20分钟 |
+| 4 | [心血管健康总览](biology/cardiovascular/Cardiovascular_Health_Overview.md) | 建立心血管健康意识 | 20分钟 |
+
+**适合**: 首次接触生命科学，希望建立基础健康认知的读者。
+
+---
+
+### 🌿 中阶路径 (已有基础)
+
+**目标**: 深入特定领域，建立系统性的生物干预知识
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [运动处方与慢性病](biology/exercise-science/Exercise_Prescription_Clinical.md) | 学习科学的运动处方 | 30分钟 |
+| 2 | [慢性炎症机制](biology/immune-inflammation/Chronic_Inflammation.md) | 理解炎症与疾病的关系 | 25分钟 |
+| 3 | [肠脑轴与心理健康](biology/gut-microbiome/Gut_Mental_Health.md) | 理解肠道与心理的关联 | 25分钟 |
+| 4 | [衰老与长寿科学](biology/aging-longevity/Aging_Longevity_Overview.md) | 建立对衰老的科学认知 | 30分钟 |
+
+**适合**: 有基础生命科学背景，希望深入学习和实践的读者。
+
+---
+
+### 🌳 高阶路径 (专业研习)
+
+**目标**: 掌握前沿生物干预技术，准备从事健康管理工作
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [神经科学与生物反馈](biology/brain/Brain_Neurofeedback_Overview.md) | 掌握神经反馈技术 | 40分钟 |
+| 2 | [延长断食专题](foods/fasting/extended-fasting/) | 深入理解断食的科学 | 35分钟 |
+| 3 | [疼痛科学体系](biology/pain-science/Pain_Science_Overview.md) | 理解疼痛的全貌 | 45分钟 |
+| 4 | [死亡与临终全览](death/Death_Contemplation_Overview.md) | 建立死亡科学认知 | 40分钟 |
+
+**适合**: 健康管理从业者，或希望系统学习生命科学前沿的读者。
+
+---
+
+### 🎯 专题路径 | Special Interest Paths
+
+| 主题 | 推荐文档序列 | 适合人群 |
+|------|-------------|----------|
+| **运动健身** | 运动科学 → 力量训练 → 有氧训练 → 恢复 | 健身爱好者 |
+| **抗衰老** | 衰老标志 → 端粒 → NAD+ → 热量限制 | 延寿追求者 |
+| **心理健康** | 睡眠 → 肠脑轴 → PNI → 正念 | 心理健康关注者 |
+| **慢性病管理** | 炎症 → 心血管 → 免疫 → 疼痛 | 患者/照护者 |
+
+---
 
 ## 核心索引 | Core Index
 
@@ -147,6 +237,24 @@
 - [生前整理与终活 (Death Preparation)](death/Death_Preparation_Life.md) — 瑞典死亡清洁、日本终活、断舍离、数字遗物、按年龄段指南 **[NEW]**
 - [高风险职业死亡暴露 (High-Risk Occupations)](death/Death_High_Risk_Occupations.md) — 医护/军人/消防员/警察/记者、道德伤害、替代性创伤、韧性 **[NEW]**
 - [宠物丧失与哀伤 (Pet Loss)](death/Death_Pet_Loss.md) — 宠物哀伤、儿童与宠物、老年与宠物、安乐死决策 **[NEW]**
+
+---
+
+## 🗺️ 知识图谱
+
+<details>
+<summary>点击查看本支柱知识图谱</summary>
+
+![生命科学与生物医学知识图谱](../Visualization/initial-autofit.png)
+
+*图注：生命科学支柱的知识结构，涵盖运动科学、神经科学、免疫炎症、肠脑轴、心血管健康、疼痛科学等核心领域。*
+
+**导航提示**:
+- 圆形节点代表专题入口
+- 点击节点可跳转至对应文档
+- 颜色编码对应不同的知识类别
+
+</details>
 
 ---
 

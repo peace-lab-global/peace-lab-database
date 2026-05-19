@@ -1,3 +1,31 @@
+---
+
+title: "慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)"
+description: "慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是慢性疲劳综合征病因与机制"
+  - "慢性疲劳综合征病因与机制的核心概念"
+  - "慢性疲劳综合征病因与机制的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)
 
 > ME/CFS的病因学和病理机制是多因素、多系统交互的复杂过程。当前研究揭示了免疫失调、神经炎症、代谢障碍、自主神经功能异常和微生物组改变等多个层面的机制，形成了一个相互关联的病理网络。

@@ -1,3 +1,31 @@
+---
+
+title: "Zen Wisdom (禅宗智慧与传承)"
+description: "Zen Wisdom (禅宗智慧与传承)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["attachment", "decision-making", "philosophy", "self-esteem", "zen", "buddhism"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zen Wisdom"
+  - "Zen Wisdom的核心概念"
+  - "Zen Wisdom的方法与实践"
+trigger_keywords: ["Zen Wisdom", "anxiety", "attachment", "cognitive", "decision-making"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Zen Wisdom (禅宗智慧与传承)
 
 ### Zen Historical Lineage (禅宗历史传承脉络表)

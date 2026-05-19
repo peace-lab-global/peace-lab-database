@@ -1,3 +1,31 @@
+---
+
+title: "C1-3 脑科学原理"
+description: "C1-3 脑科学原理的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C1-3 脑科学原理"
+  - "C1-3 脑科学原理的核心概念"
+  - "C1-3 脑科学原理的方法与实践"
+trigger_keywords: ["C1-3 脑科学原理", "addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # C1-3 脑科学原理
 
 本次分享从脑科学角度论证冥想的科学性与健康价值，介绍了冥想的学科定位、脑科学监测方法、不同冥想类型的功效，以及当前精神疾病的市场背景，提出可推广冥想用于多种身心问题的改善。

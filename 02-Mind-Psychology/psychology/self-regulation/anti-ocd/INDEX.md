@@ -1,6 +1,50 @@
+---
+
+title: "反强迫症 (Anti-OCD) | Index"
+description: "反强迫症 (Anti-OCD) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
+tags: ["intervention", "ocd", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是反强迫症  | Index"
+  - "反强迫症  | Index的核心概念"
+  - "反强迫症  | Index的方法与实践"
+trigger_keywords: ["反强迫症", "Index", "act", "assessment", "behavioral", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "emotion/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
+    relation: "emotion/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "emotion/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
+    relation: "emotion/therapy/trauma"
+
+---
 # 反强迫症 (Anti-OCD) | Index
 
 > 反强迫症是针对强迫思维和强迫行为的干预技能模块，涵盖强迫模式识别、反应预防、认知解离和价值导向行动等核心技术。本模块是临床治疗的补充，非替代专业治疗。
+
+## 🤖 Agent Skills 智能体技能层
+
+本模块已上线**结构化智能体技能**，可供 AI 智能体调用：
+
+| 技能ID | 技能名称 | 角色 | 说明 |
+|:------|:---------|:----:|:-----|
+| OCD_001 | 强迫症综合评估 | entry | 入口技能，确定 OCD 类型和严重程度 |
+| OCD_002 | 暴露与反应预防 | intervention | ERP 系统脱敏方案 |
+| OCD_003 | 认知解离技术 | intervention | 与强迫思维分离的技术 |
+
+**智能体调用协议**：
+- `_protocol.md` — 技能调用规范、状态管理、输出标准
+- `_manifest.md` — 技能元数据注册表
+
+---
 
 ## 内容索引 | Contents
 

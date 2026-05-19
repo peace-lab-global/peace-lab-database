@@ -1,3 +1,31 @@
+---
+
+title: "青少年发展实用工具箱"
+description: "青少年发展实用工具箱的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Social Relationships"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年发展实用工具箱"
+  - "青少年发展实用工具箱的核心概念"
+  - "青少年发展实用工具箱的方法与实践"
+trigger_keywords: ["青少年发展实用工具箱", "adolescent", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 青少年发展实用工具箱
 
 ## 📋 身份探索工作工具

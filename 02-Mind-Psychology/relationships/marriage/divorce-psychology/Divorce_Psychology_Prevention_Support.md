@@ -1,3 +1,32 @@
+---
+
+title: "离婚心理学预防支持策略专业内容体系"
+description: "离婚心理学预防支持策略专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是离婚心理学预防支持策略专业内容体系"
+  - "离婚心理学预防支持策略专业内容体系的核心概念"
+  - "离婚心理学预防支持策略专业内容体系的方法与实践"
+  - "离婚心理学预防支持策略专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/attachment/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin.md"
+    relation: "aging/attachment/communication"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+
+---
 # 离婚心理学预防支持策略专业内容体系
 
 ## 目录

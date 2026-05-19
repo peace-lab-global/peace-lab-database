@@ -1,3 +1,31 @@
+---
+
+title: "《绝命毒师》(Breaking Bad) 技术分析：视觉诗学与叙事工艺的完美融合"
+description: "《绝命毒师》(Breaking Bad) 技术分析：视觉诗学与叙事工艺的完美融合的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《绝命毒师》 技术分析：视觉诗学与叙事工艺的完美融合"
+  - "《绝命毒师》 技术分析：视觉诗学与叙事工艺的完美融合的核心概念"
+  - "《绝命毒师》 技术分析：视觉诗学与叙事工艺的完美融合的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《绝命毒师》(Breaking Bad) 技术分析：视觉诗学与叙事工艺的完美融合
 
 ## 摘要 (Abstract)

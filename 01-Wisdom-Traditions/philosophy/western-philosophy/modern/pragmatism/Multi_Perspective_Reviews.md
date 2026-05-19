@@ -1,3 +1,31 @@
+---
+
+title: "实用主义哲学经典三方书评"
+description: "实用主义哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Modern > Pragmatism"
+tags: ["depression", "jung", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是实用主义哲学经典三方书评"
+  - "实用主义哲学经典三方书评的核心概念"
+  - "实用主义哲学经典三方书评的方法与实践"
+trigger_keywords: ["assessment", "clinical", "cognitive", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/shamanic-traditions/Shamanic_Traditions_Overview.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/depression/exercise"
+
+---
 # 实用主义哲学经典三方书评
 
 > **主题**：威廉·詹姆斯（William James, 1842–1910）实用主义哲学核心著作

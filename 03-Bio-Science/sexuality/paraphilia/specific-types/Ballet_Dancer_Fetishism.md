@@ -1,3 +1,31 @@
+---
+
+title: "Ballet Dancer Fetishism (恋芭蕾舞者癖专业指南)"
+description: "Ballet Dancer Fetishism (恋芭蕾舞者癖专业指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["ballet", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Ballet Dancer Fetishism"
+  - "Ballet Dancer Fetishism的核心概念"
+  - "Ballet Dancer Fetishism的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md"
+    relation: "body_image/sexuality/therapy"
+  - path: "02-Mind-Psychology/psychology/clinical/disorder/intellectual-disability-psychosis/Intellectual_Disability_Psychosis_Treatment.md"
+    relation: "body_image/sexuality/therapy"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Educational_Settings.md"
+    relation: "body_image/sexuality/therapy"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
+    relation: "body_image/sexuality/therapy"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "body_image/sexuality/therapy"
+
+---
 # Ballet Dancer Fetishism (恋芭蕾舞者癖专业指南)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋芭蕾舞者癖的专业内容。相关主题请参考：

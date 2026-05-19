@@ -1,3 +1,31 @@
+---
+
+title: "Grief Intervention Techniques (哀伤干预技术详表)"
+description: "Grief Intervention Techniques (哀伤干预技术详表)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Grief"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Grief Intervention Techniques"
+  - "Grief Intervention Techniques的核心概念"
+  - "Grief Intervention Techniques的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/death"
+
+---
 # Grief Intervention Techniques (哀伤干预技术详表)
 
 > **哀伤干预技术 (Grief Intervention Techniques / Technicae Interventionis Luctus)**

@@ -1,3 +1,31 @@
+---
+
+title: "《深入生命之心》Into the Heart of Life"
+description: "《深入生命之心》Into the Heart of Life的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["loneliness", "social", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《深入生命之心》Into the Heart of Life"
+  - "《深入生命之心》Into the Heart of Life的核心概念"
+  - "《深入生命之心》Into the Heart of Life的方法与实践"
+trigger_keywords: ["buddhism", "death", "loneliness", "meditation"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
+    relation: "buddhism/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "buddhism/cardiovascular/death"
+
+---
 # 《深入生命之心》Into the Heart of Life
 
 >  贾楚仁波切（Jetsunma Tenzin Palmo）著，2011年出版。英国出生的藏传佛教尼姑，在喜马拉雅山的一个洞穴中独居十二年，每天冥想十八小时。她的故事被记录在《雪洞》中，这本书是她后来的教导集。

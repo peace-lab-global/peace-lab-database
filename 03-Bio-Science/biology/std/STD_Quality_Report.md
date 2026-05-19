@@ -1,3 +1,31 @@
+---
+
+title: "STD Content Quality Report (性传播疾病内容质量报告)"
+description: "STD Content Quality Report (性传播疾病内容质量报告)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["decision-making", "immune", "intervention", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是STD Content Quality Report"
+  - "STD Content Quality Report的核心概念"
+  - "STD Content Quality Report的方法与实践"
+trigger_keywords: ["act", "assessment", "clinical", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+    relation: "immune/sexuality/therapy"
+
+---
 # STD Content Quality Report (性传播疾病内容质量报告)
 
 > 📊 **质量评估报告**: 本报告对性传播疾病专业内容体系进行全面质量评估，包括完整性、准确性、实用性和用户体验等方面。

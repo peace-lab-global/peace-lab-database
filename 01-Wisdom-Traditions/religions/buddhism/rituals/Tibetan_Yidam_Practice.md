@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教本尊观修仪轨 (Tibetan Yidam Practice Rituals)"
+description: "藏传佛教本尊观修仪轨 (Tibetan Yidam Practice Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "longevity"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教本尊观修仪轨"
+  - "藏传佛教本尊观修仪轨的核心概念"
+  - "藏传佛教本尊观修仪轨的方法与实践"
+trigger_keywords: ["藏传佛教本尊观修仪轨", "act", "anxiety", "breathwork", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 藏传佛教本尊观修仪轨 (Tibetan Yidam Practice Rituals)
 
 > **本尊修持 (Yidam Practice)**：藏传佛教密乘的核心修法，修行者通过灌顶获得授权后，观想自身化现为本尊，以三密相应的方式迅速证悟佛果。本尊是修行者的究竟伴侣与成就所依。

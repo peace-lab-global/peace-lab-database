@@ -1,3 +1,31 @@
+---
+
+title: "《折断的翅膀》The Broken Wings"
+description: "《折断的翅膀》The Broken Wings的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["marriage", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《折断的翅膀》The Broken Wings"
+  - "《折断的翅膀》The Broken Wings的核心概念"
+  - "《折断的翅膀》The Broken Wings的方法与实践"
+trigger_keywords: ["body", "breathwork", "death", "marriage"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "attachment/death/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/death/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "attachment/death/exercise"
+
+---
 # 《折断的翅膀》The Broken Wings
 
 > 纪伯伦（Kahlil Gibran）著，1912年出版。纪伯伦的第一部小说，以自传体的形式讲述了在贝鲁特的一段禁忌爱情——一个年轻的男子与他的表妹之间的爱，被社会规范和宗教传统所阻隔。虽然不如《先知》著名，但它展示了纪伯伦作为小说家的才华，以及他对**爱在限制中的力量**的深刻洞察。

@@ -1,3 +1,31 @@
+---
+
+title: "伊壁鸠鲁 (Epicurus)"
+description: "伊壁鸠鲁 (Epicurus)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
+tags: ["cbt", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伊壁鸠鲁"
+  - "伊壁鸠鲁的核心概念"
+  - "伊壁鸠鲁的方法与实践"
+trigger_keywords: ["伊壁鸠鲁", "anxiety", "behavioral", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/death/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "anxiety/death/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/death/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 伊壁鸠鲁 (Epicurus)
 
 ## 核心思想 (Core Ideas)

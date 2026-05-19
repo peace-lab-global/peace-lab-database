@@ -1,3 +1,31 @@
+---
+
+title: "领导力发展 | Leadership Development"
+description: "领导力发展 | Leadership Development的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["communication", "decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是领导力发展 | Leadership Development"
+  - "领导力发展 | Leadership Development的核心概念"
+  - "领导力发展 | Leadership Development的方法与实践"
+trigger_keywords: ["领导力发展", "act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "communication/emotion/neuroscience"
+
+---
 # 领导力发展 | Leadership Development
 
 > 领导力发展（Leadership Development）是研究如何系统性地培养个人和集体的领导能力的跨学科领域，融合了组织行为学、发展心理学、管理学和教育学的理论与方法。在全球化和数字化加速的当代，领导力已从传统的"英雄式领导者"范式转向分布式、协作式和适应性领导模式。领导力发展不仅是个人成长的路径，更是组织变革和社会进步的核心驱动力。

@@ -1,3 +1,31 @@
+---
+
+title: "肖邦《夜曲》综合指南"
+description: "肖邦《夜曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Nocturnes"
+tags: ["cortisol", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肖邦《夜曲》综合指南"
+  - "肖邦《夜曲》综合指南的核心概念"
+  - "肖邦《夜曲》综合指南的方法与实践"
+trigger_keywords: ["肖邦《夜曲》综合指南", "anxiety", "art", "clinical", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+
+---
 # 肖邦《夜曲》综合指南
 
 ## 作品基本信息

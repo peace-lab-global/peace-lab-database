@@ -1,3 +1,31 @@
+---
+
+title: "Vibroacoustic Therapy (振动声学疗法：循证声音-身体整合技术)"
+description: "Vibroacoustic Therapy (振动声学疗法：循证声音-身体整合技术)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Vibroacoustic Therapy"
+  - "Vibroacoustic Therapy的核心概念"
+  - "Vibroacoustic Therapy的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Vibroacoustic Therapy (振动声学疗法：循证声音-身体整合技术)
 
 ### Vibroacoustic Therapy: Foundations & Evidence (振动声学疗法基础与循证证据表)

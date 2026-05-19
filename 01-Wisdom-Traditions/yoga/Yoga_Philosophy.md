@@ -1,3 +1,31 @@
+---
+
+title: "Yoga Philosophy (瑜伽哲学与概念)"
+description: "Yoga Philosophy (瑜伽哲学与概念)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "attachment", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Yoga Philosophy"
+  - "Yoga Philosophy的核心概念"
+  - "Yoga Philosophy的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/meditation"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "anxiety/attachment/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/meditation"
+
+---
 # Yoga Philosophy (瑜伽哲学与概念)
 
 > 瑜伽哲学是一套关于意识本质、痛苦根源与解脱路径的系统性智慧体系。它融合了数论派 (Samkhya) 的形而上学、帕坦伽利 (Patanjali) 的心理科学和吠檀多 (Vedanta) 的一元论视野，为现代心理学、神经科学和身心整合实践提供了深厚的理论根基。本文以中文为主体，英文与梵文 (天城体 + IAST) 作为术语注释。
@@ -243,6 +271,41 @@
 | **智慧瑜伽** | Jnana Yoga (ज्ञानयोग) | 通过辨别 (Viveka) 与否定 (Neti Neti) 认识真我 | 理智型人格、哲学思考者 | 奥义书、商羯罗著作 | 哲学探究、自我质问、非二元冥想 | 认知解构 (Cognitive Defusion)；与 ACT 的去认同技术高度契合 |
 | **虔诚瑜伽** | Bhakti Yoga (भक्तियोग) | 通过爱与臣服连接神性 | 情感型人格、关系导向者 | 《薄伽梵歌》第12章、《那拉达虔诚经》 | 唱诵 (Kirtan)、祈祷、社区共修 | 催产素释放；安全依恋模式的建立；孤独感的缓解 |
 | **胜王瑜伽** | Raja Yoga (राजयोग) | 通过冥想与心智控制实现三摩地 | 内省型人格、禅修者 | 《瑜伽经》 | 正念冥想、体式-调息-冥想整合 | 帕坦伽利的八支体系；系统性的注意力训练 |
+
+---
+
+## 生产级瑜伽实践方案 | Production Yoga Practice Programs
+
+> 以下方案基于循证研究与临床实践，将瑜伽哲学转化为可操作的日常训练与疗愈框架。所有方案均建议在认证瑜伽教师 (RYT-200/500) 或医疗专业人员指导下实施。
+
+### 1. 每日瑜伽练习模板
+
+| 时间段 | 练习内容 | 时长 | 适用人群 | 注意事项 |
+| :--- | :--- | :--- | :--- | :--- |
+| **晨起** | 拜日式 (Surya Namaskar) + 调息 (Pranayama) | 15-20min | 所有人 | 空腹练习；唤醒身体阳气 |
+| **午间** | 坐姿冥想 (Dhyana) + 颈部拉伸 | 10-15min | 办公室人群 | 椅子即可；重置交感神经 |
+| **傍晚** | 站立体式序列 (Standing Asana Flow) | 30-45min | 有基础者 | 饭后2小时；释放日间张力 |
+| **睡前** | 修复体式 (Restorative) + 瑜伽Nidra | 20-30min | 所有人 | 避免强烈体式；激活副交感 |
+
+### 2. 常见健康问题瑜伽处方
+
+| 健康问题 | 推荐体式 | 呼吸法 | 冥想类型 | 疗程 |
+| :--- | :--- | :--- | :--- | :--- |
+| **焦虑 (Anxiety)** | 前屈体式/修复体式 | 腹式呼吸/左鼻呼吸 (Chandra Bhedana) | 身体扫描 (Body Scan) | 8周 |
+| **腰背痛 (Low Back Pain)** | 猫牛式/眼镜蛇式/桥式 | 自然呼吸 (Sahaja) | 疼痛觉察 (Pain Mindfulness) | 12周 |
+| **失眠 (Insomnia)** | 双腿靠墙/仰卧束角式 | 4-7-8呼吸法 | 瑜伽Nidra | 4周 |
+| **肩颈痛 (Neck/Shoulder)** | 牛面式/鹰式/鱼式 | 肩颈呼吸 (Clavicular) | 渐进放松 (PMR) | 8周 |
+| **消化问题 (Digestive)** | 扭转体式/船式 | 腹式呼吸 (Diaphragmatic) | 内脏觉察 (Visceral Awareness) | 8周 |
+
+### 3. 瑜伽教师培训核心课程大纲
+
+| 模块 | 内容 | 学时 | 考核方式 |
+| :--- | :--- | :--- | :--- |
+| **解剖生理 (Anatomy)** | 骨骼肌肉系统/呼吸系统/神经系统 | 30h | 笔试 |
+| **瑜伽哲学 (Philosophy)** | 八支瑜伽/薄伽梵歌/瑜伽经 | 20h | 论文 |
+| **体式精讲 (Asana Lab)** | 50+基础体式+安全变体 | 60h | 实操考核 |
+| **教学法 (Pedagogy)** | 课程设计/手法调整/教学语言 | 30h | 试教评审 |
+| **疗愈应用 (Therapeutic)** | 常见健康问题处方/特殊人群适配 | 20h | 案例报告 |
 
 ---
 

@@ -1,3 +1,31 @@
+---
+
+title: "拉伸与康复动作 (Stretch & Rehabilitation Exercises)"
+description: "拉伸与康复动作 (Stretch & Rehabilitation Exercises)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
+tags: ["aging", "brain", "exercise", "habits", "pain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是拉伸与康复动作"
+  - "拉伸与康复动作的核心概念"
+  - "拉伸与康复动作的方法与实践"
+trigger_keywords: ["拉伸与康复动作", "act", "aging", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/exercise/neuroscience"
+
+---
 # 拉伸与康复动作 (Stretch & Rehabilitation Exercises)
 
 ## 概述

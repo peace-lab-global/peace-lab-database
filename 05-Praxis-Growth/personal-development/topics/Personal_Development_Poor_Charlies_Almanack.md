@@ -1,3 +1,31 @@
+---
+
+title: "Poor Charlie's Almanack 穷查理宝典"
+description: "Poor Charlie's Almanack 穷查理宝典的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Poor Charlie's Almanack 穷查理宝典"
+  - "Poor Charlie's Almanack 穷查理宝典的核心概念"
+  - "Poor Charlie's Almanack 穷查理宝典的方法与实践"
+trigger_keywords: ["act", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/exercise"
+
+---
 # Poor Charlie's Almanack 穷查理宝典
 
 ## 作者背景 (Author Background)

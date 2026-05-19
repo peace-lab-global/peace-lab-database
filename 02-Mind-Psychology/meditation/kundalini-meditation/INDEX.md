@@ -1,3 +1,31 @@
+---
+
+title: "昆达里尼冥想"
+description: "昆达里尼冥想的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Kundalini Meditation"
+tags: ["meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是昆达里尼冥想"
+  - "昆达里尼冥想的核心概念"
+  - "昆达里尼冥想的方法与实践"
+trigger_keywords: ["昆达里尼冥想", "breathwork", "meditation", "psychology", "yoga"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+
+---
 # 昆达里尼冥想
 
 > **最后更新**：2026-05

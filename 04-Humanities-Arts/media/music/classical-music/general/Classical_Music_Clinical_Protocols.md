@@ -1,3 +1,31 @@
+---
+
+title: "Classical Music Clinical Protocols (古典音乐临床方案)"
+description: "Classical Music Clinical Protocols (古典音乐临床方案)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Classical Music Clinical Protocols"
+  - "Classical Music Clinical Protocols的核心概念"
+  - "Classical Music Clinical Protocols的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Classical Music Clinical Protocols (古典音乐临床方案)
 
 ## 焦虑症干预方案表

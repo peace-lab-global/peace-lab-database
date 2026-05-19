@@ -1,3 +1,32 @@
+---
+
+title: "教育心理学总览 | Educational Psychology Overview"
+description: "教育心理学总览 | Educational Psychology Overview的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Educational Psychology"
+tags: ["flow", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教育心理学总览 | Educational Psychology Overview"
+  - "教育心理学总览 | Educational Psychology Overview的核心概念"
+  - "教育心理学总览 | Educational Psychology Overview的方法与实践"
+  - "教育心理学总览 | Educational Psychology Overview的自助方法"
+trigger_keywords: ["教育心理学总览", "assessment", "behavioral", "child", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "exercise/productivity/sexuality"
+
+---
 # 教育心理学总览 | Educational Psychology Overview
 
 > **学科定位**: 心理学 × 教育科学 × 学习理论

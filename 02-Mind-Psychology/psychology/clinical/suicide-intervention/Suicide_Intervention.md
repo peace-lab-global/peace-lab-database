@@ -1,3 +1,31 @@
+---
+
+title: "Suicide Intervention (自杀危机干预)"
+description: "Suicide Intervention (自杀危机干预)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > Suicide Intervention"
+tags: ["addiction", "anxiety", "attachment", "depression", "schizophrenia", "bipolar"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是Suicide Intervention"
+  - "Suicide Intervention的核心概念"
+  - "Suicide Intervention的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Suicide Intervention (自杀危机干预)
 
 ## 核心术语表 (Core Terminology)

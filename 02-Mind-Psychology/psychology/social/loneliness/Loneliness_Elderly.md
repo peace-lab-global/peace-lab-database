@@ -1,3 +1,31 @@
+---
+
+title: "老年孤独 (Loneliness in Old Age)"
+description: "老年孤独 (Loneliness in Old Age)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "calligraphy", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年孤独"
+  - "老年孤独的核心概念"
+  - "老年孤独的方法与实践"
+trigger_keywords: ["老年孤独", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
+    relation: "aging/anxiety/art_therapy"
+
+---
 # 老年孤独 (Loneliness in Old Age)
 
 > **核心命题**: 老年孤独不是衰老的必然附属品，而是社会结构、健康变化与生命转型的可干预结果。在老龄化加速的时代，老年孤独已成为公共健康的核心议题——其健康风险相当于每天吸15支烟。

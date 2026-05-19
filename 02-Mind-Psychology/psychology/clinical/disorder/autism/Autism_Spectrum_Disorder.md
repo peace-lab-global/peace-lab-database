@@ -1,3 +1,31 @@
+---
+
+title: "Autism Spectrum Disorder (自闭症谱系障碍)"
+description: "Autism Spectrum Disorder (自闭症谱系障碍)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Autism"
+tags: ["anxiety", "attachment", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Autism Spectrum Disorder"
+  - "Autism Spectrum Disorder的核心概念"
+  - "Autism Spectrum Disorder的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Autism Spectrum Disorder (自闭症谱系障碍)
 
 > **自闭症谱系障碍 (Autism Spectrum Disorder / ASD)**

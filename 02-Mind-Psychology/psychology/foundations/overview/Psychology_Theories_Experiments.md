@@ -1,3 +1,31 @@
+---
+
+title: "Theories & Experiments (核心理论与经典实验)"
+description: "Theories & Experiments (核心理论与经典实验)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["addiction", "anxiety", "attachment", "brain", "cbt", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Theories & Experiments"
+  - "Theories & Experiments的核心概念"
+  - "Theories & Experiments的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Mental_Health_Impact.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Theories & Experiments (核心理论与经典实验)
 
 ### 心理学理论表

@@ -1,3 +1,32 @@
+---
+
+title: "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection"
+description: "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection"
+  - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的核心概念"
+  - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的方法与实践"
+  - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的自助方法"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/INDEX.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection
 
 > **心理学与神经科学**是理解人类行为、思维和情感的核心学科。本文件精选TED平台上最具影响力的心理学与神经科学演讲，涵盖认知科学、发展心理学、社会心理学、临床心理学等各个分支，为学习者提供前沿的科学洞见和实用的心理学知识。

@@ -1,3 +1,31 @@
+---
+
+title: "《约伯记》The Book of Job"
+description: "《约伯记》The Book of Job的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature", "religion", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《约伯记》The Book of Job"
+  - "《约伯记》The Book of Job的核心概念"
+  - "《约伯记》The Book of Job的方法与实践"
+trigger_keywords: ["death", "literature", "philosophy", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "death/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "death/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "death/emotion/exercise"
+
+---
 # 《约伯记》The Book of Job
 
 > 《希伯来圣经》中的一卷，约公元前6世纪形成。讲述了一个"义人受苦"的故事——约伯是一个完全正直的人，却遭受了失去财产、孩子和健康的极端苦难。他与朋友辩论、与上帝对峙，最终在没有得到"答案"的情况下与上帝和解。

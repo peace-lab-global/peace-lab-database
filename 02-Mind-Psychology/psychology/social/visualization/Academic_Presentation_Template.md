@@ -1,3 +1,31 @@
+---
+
+title: "孤独 / 独处 / 联合研究 学术汇报PPT模板"
+description: "孤独 / 独处 / 联合研究 学术汇报PPT模板的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Visualization"
+tags: ["anxiety", "brain", "cardiovascular", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独 / 独处 / 联合研究 学术汇报PPT模板"
+  - "孤独 / 独处 / 联合研究 学术汇报PPT模板的核心概念"
+  - "孤独 / 独处 / 联合研究 学术汇报PPT模板的方法与实践"
+trigger_keywords: ["孤独", "独处", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/focus/Focus_Clinical_Applications.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # 孤独 / 独处 / 联合研究 学术汇报PPT模板
 
 > **格式**: Markdown 幻灯片结构（每页用 `---` 分隔）

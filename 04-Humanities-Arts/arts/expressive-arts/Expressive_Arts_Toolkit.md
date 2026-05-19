@@ -1,3 +1,32 @@
+---
+
+title: "表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)"
+description: "表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是表达性艺术治疗实用工具箱"
+  - "表达性艺术治疗实用工具箱的核心概念"
+  - "表达性艺术治疗实用工具箱的方法与实践"
+  - "表达性艺术治疗实用工具箱的循证证据"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)
 
 > **临床应用与自我发展的实用资源**

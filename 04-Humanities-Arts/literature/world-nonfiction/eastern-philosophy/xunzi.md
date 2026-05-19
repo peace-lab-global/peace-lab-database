@@ -1,3 +1,31 @@
+---
+
+title: "《荀子》Xunzi"
+description: "《荀子》Xunzi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["music", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《荀子》Xunzi"
+  - "《荀子》Xunzi的核心概念"
+  - "《荀子》Xunzi的方法与实践"
+trigger_keywords: ["《荀子》Xunzi", "emotion", "music", "philosophy", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/emotion/sexuality"
+
+---
 # 《荀子》Xunzi
 
 > 荀况（Xun Kuang，约公元前313—前238年）著，战国时期儒家代表人物，时人尊称"荀卿"。曾任齐国稷下学宫祭酒，后仕楚为兰陵令。《荀子》32篇，是荀子及其弟子所著，内容涵盖哲学、伦理、政治、逻辑、教育、军事等多个领域。荀子主张"性恶论"，强调后天教化和礼法制度的重要性，其思想对法家（如韩非、李斯）产生了直接影响。

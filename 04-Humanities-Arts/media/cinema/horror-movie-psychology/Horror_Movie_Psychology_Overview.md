@@ -1,3 +1,32 @@
+---
+
+title: "恐怖电影心理学专业内容体系"
+description: "恐怖电影心理学专业内容体系的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Horror Movie Psychology"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是恐怖电影心理学专业内容体系"
+  - "恐怖电影心理学专业内容体系的核心概念"
+  - "恐怖电影心理学专业内容体系的方法与实践"
+  - "恐怖电影心理学专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 恐怖电影心理学专业内容体系
 
 ## 目录

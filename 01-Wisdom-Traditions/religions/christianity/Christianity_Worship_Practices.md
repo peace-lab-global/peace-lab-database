@@ -1,3 +1,32 @@
+---
+
+title: "基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)"
+description: "基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 基督教"
+tags: ["addiction", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是基督教实践传统与心理学整合"
+  - "基督教实践传统与心理学整合的核心概念"
+  - "基督教实践传统与心理学整合的方法与实践"
+  - "基督教实践传统与心理学整合的自助方法"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)
 
 ## 目录 (Table of Contents)

@@ -1,3 +1,31 @@
+---
+
+title: "12. 实操工具包汇总 | Practical Toolkit"
+description: "12. 实操工具包汇总 | Practical Toolkit的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是12. 实操工具包汇总 | Practical Toolkit"
+  - "12. 实操工具包汇总 | Practical Toolkit的核心概念"
+  - "12. 实操工具包汇总 | Practical Toolkit的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 12. 实操工具包汇总 | Practical Toolkit
 
 > **文档定位**：本章汇总前11章中所有可打印、可填写的实操工具模板，方便临床工作者和自助者快速检索和使用。

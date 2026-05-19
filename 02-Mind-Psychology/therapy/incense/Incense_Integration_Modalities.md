@@ -1,3 +1,32 @@
+---
+
+title: "檀香疗法整合应用 (Incense Integration with Other Modalities)"
+description: "檀香疗法整合应用 (Incense Integration with Other Modalities)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Incense"
+tags: ["anxiety", "brain", "cbt", "mbsr", "emdr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是檀香疗法整合应用"
+  - "檀香疗法整合应用的核心概念"
+  - "檀香疗法整合应用的方法与实践"
+  - "檀香疗法整合应用的循证证据"
+trigger_keywords: ["檀香疗法整合应用", "aging", "anxiety", "behavioral", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 檀香疗法整合应用 (Incense Integration with Other Modalities)
 
 > **目标**：探讨檀香疗法与其他疗愈体系的整合应用，提供跨学科协同方案与理论框架。

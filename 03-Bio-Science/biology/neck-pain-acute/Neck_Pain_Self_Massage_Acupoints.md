@@ -1,3 +1,31 @@
+---
+
+title: "自我按摩与穴位按压 (Self-Massage & Acupressure)"
+description: "自我按摩与穴位按压 (Self-Massage & Acupressure)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
+tags: ["aging", "brain", "exercise", "gut", "inflammation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是自我按摩与穴位按压"
+  - "自我按摩与穴位按压的核心概念"
+  - "自我按摩与穴位按压的方法与实践"
+trigger_keywords: ["自我按摩与穴位按压", "aging", "assessment", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/exercise/immune"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/emotion/exercise"
+
+---
 # 自我按摩与穴位按压 (Self-Massage & Acupressure)
 
 ## 概述

@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)"
+description: "藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "dzogchen", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教仪轨总览"
+  - "藏传佛教仪轨总览的核心概念"
+  - "藏传佛教仪轨总览的方法与实践"
+trigger_keywords: ["藏传佛教仪轨总览", "act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)
 
 > **藏传佛教仪轨 (Tibetan Buddhist Rituals / Chopa)**：以梵文密续为基础，融合西藏本土苯教元素，形成系统而华丽的仪轨体系。涵盖从日常功课到最高密法的完整修行路径，以身口意三密相应为核心方法论。

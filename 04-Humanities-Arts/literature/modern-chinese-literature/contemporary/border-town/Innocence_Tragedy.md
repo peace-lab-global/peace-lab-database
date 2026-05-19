@@ -1,3 +1,31 @@
+---
+
+title: "纯真的悲剧——翠翠为什么等不到"
+description: "纯真的悲剧——翠翠为什么等不到的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Border Town"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是纯真的悲剧——翠翠为什么等不到"
+  - "纯真的悲剧——翠翠为什么等不到的核心概念"
+  - "纯真的悲剧——翠翠为什么等不到的方法与实践"
+trigger_keywords: ["literature", "sexuality", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "art_therapy/communication/exercise"
+
+---
 # 纯真的悲剧——翠翠为什么等不到
 
 ## 核心问题

@@ -1,3 +1,31 @@
+---
+
+title: "社交资本 | Social Capital"
+description: "社交资本 | Social Capital的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Capital"
+tags: ["communication", "loneliness", "social", "个人发展", "negotiation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社交资本 | Social Capital"
+  - "社交资本 | Social Capital的核心概念"
+  - "社交资本 | Social Capital的方法与实践"
+trigger_keywords: ["社交资本", "act", "communication", "loneliness", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/exercise"
+
+---
 # 社交资本 | Social Capital
 
 > 你的网络就是你的净值。

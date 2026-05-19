@@ -1,3 +1,31 @@
+---
+
+title: "Yangsheng & Herbology (养生与草本智慧：生物节律与代谢)"
+description: "Yangsheng & Herbology (养生与草本智慧：生物节律与代谢)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["gut", "nutrition", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Yangsheng & Herbology"
+  - "Yangsheng & Herbology的核心概念"
+  - "Yangsheng & Herbology的方法与实践"
+trigger_keywords: ["body", "breathwork", "emotion", "exercise"]
+cross_refs:
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "cardiovascular/daoism/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/emotion/exercise"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "cardiovascular/emotion/exercise"
+  - path: "README.md"
+    relation: "cardiovascular/daoism/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/daoism/emotion"
+
+---
 # Yangsheng & Herbology (养生与草本智慧：生物节律与代谢)
 
 ### The Five Elements & Metabolic Balance (五行与代谢平衡表)

@@ -1,3 +1,31 @@
+---
+
+title: "《慎子》Shen-tzu"
+description: "《慎子》Shen-tzu的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "intervention", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《慎子》Shen-tzu"
+  - "《慎子》Shen-tzu的核心概念"
+  - "《慎子》Shen-tzu的方法与实践"
+trigger_keywords: ["daoism", "intervention", "philosophy", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/daoism/sexuality"
+
+---
 # 《慎子》Shen-tzu
 
 > 慎到著，约公元前4世纪。法家早期代表人物，强调"势"（权力/形势）在政治中的决定性作用。与商鞅的"法"和申不害的"术"并称法家三派。《慎子》虽然在法家传统中地位重要，但也包含了深刻的道家思想——尤其是对"无为"的政治解读。

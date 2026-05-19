@@ -1,3 +1,31 @@
+---
+
+title: "数字权利 | Digital Rights"
+description: "数字权利 | Digital Rights的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "phobia", "social"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字权利 | Digital Rights"
+  - "数字权利 | Digital Rights的核心概念"
+  - "数字权利 | Digital Rights的方法与实践"
+trigger_keywords: ["数字权利", "behavioral", "crisis", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 数字权利 | Digital Rights
 
 > **数字权利**（Digital Rights）关注互联网时代的公民自由、隐私保护和数字公平，涵盖数据隐私、网络中立性、数字鸿沟和言论自由等核心议题。TED平台上关于数字权利的演讲揭示了技术发展对基本人权的挑战，呼吁建立更加公正和包容的数字秩序。

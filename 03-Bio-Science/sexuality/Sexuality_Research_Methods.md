@@ -1,3 +1,31 @@
+---
+
+title: "Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)"
+description: "Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["addiction", "brain", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Research Methods and Measurement Tools in Sexuality"
+  - "Research Methods and Measurement Tools in Sexuality的核心概念"
+  - "Research Methods and Measurement Tools in Sexuality的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/neuroscience/pain"
+
+---
 # Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)
 
 ## 性学研究设计类型与适用场景 (Research Design Types and Applications)

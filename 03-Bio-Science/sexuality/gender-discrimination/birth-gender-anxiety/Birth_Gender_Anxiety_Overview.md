@@ -1,3 +1,31 @@
+---
+
+title: "Birth Gender Anxiety Overview (生育性别焦虑概览)"
+description: "Birth Gender Anxiety Overview (生育性别焦虑概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["attachment", "cortisol", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Birth Gender Anxiety Overview"
+  - "Birth Gender Anxiety Overview的核心概念"
+  - "Birth Gender Anxiety Overview的方法与实践"
+trigger_keywords: ["act", "anxiety", "attachment", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/21-Work-Family-Integration.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # Birth Gender Anxiety Overview (生育性别焦虑概览)
 
 ## 定义与概念界定 (Definition and Conceptualization)

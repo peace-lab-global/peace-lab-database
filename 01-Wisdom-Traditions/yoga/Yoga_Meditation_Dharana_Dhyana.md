@@ -1,3 +1,31 @@
+---
+
+title: "Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)"
+description: "Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "buddhism", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Meditation: Dhāraṇā & Dhyāna"
+  - "Meditation: Dhāraṇā & Dhyāna的核心概念"
+  - "Meditation: Dhāraṇā & Dhyāna的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)
 
 ## 核心术语表 (Core Terminology)

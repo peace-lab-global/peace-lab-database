@@ -1,3 +1,31 @@
+---
+
+title: "夫妻日常相处实践指南 (Marriage Daily Practices Guide)"
+description: "夫妻日常相处实践指南 (Marriage Daily Practices Guide)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["addiction", "anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是夫妻日常相处实践指南"
+  - "夫妻日常相处实践指南的核心概念"
+  - "夫妻日常相处实践指南的方法与实践"
+trigger_keywords: ["夫妻日常相处实践指南", "act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 夫妻日常相处实践指南 (Marriage Daily Practices Guide)
 
 ## 日常沟通黄金法则表

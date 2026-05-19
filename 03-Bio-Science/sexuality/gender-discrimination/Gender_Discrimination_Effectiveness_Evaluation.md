@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Intervention Effectiveness Evaluation (性别歧视干预效果评估)"
+description: "Gender Discrimination Intervention Effectiveness Evaluation (性别歧视干预效果评估)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Gender Discrimination Intervention Effectiveness Evaluation"
+  - "Gender Discrimination Intervention Effectiveness Evaluation的核心概念"
+  - "Gender Discrimination Intervention Effectiveness Evaluation的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/communication/depression"
+
+---
 # Gender Discrimination Intervention Effectiveness Evaluation (性别歧视干预效果评估)
 
 ## 评估框架体系 (Evaluation Framework System)

@@ -1,3 +1,31 @@
+---
+
+title: "Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)"
+description: "Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["aging", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sexually Transmitted Diseases in Special Populations"
+  - "Sexually Transmitted Diseases in Special Populations的核心概念"
+  - "Sexually Transmitted Diseases in Special Populations的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/therapy/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)
 
 > 👥 **人群特异性指南**: 本文档专门针对孕妇、青少年、HIV感染者、男男性行为者等特殊人群的性传播疾病管理提供专业指导。建议结合[一般诊疗](STD_Clinical_Features.md)文档进行个性化应用。

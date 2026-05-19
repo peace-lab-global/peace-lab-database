@@ -1,3 +1,31 @@
+---
+
+title: "性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)"
+description: "性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
+tags: ["act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是性教育政策法规与伦理框架"
+  - "性教育政策法规与伦理框架的核心概念"
+  - "性教育政策法规与伦理框架的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "communication/exercise/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)
 
 > ⚖️ **框架定位**: 构建完善的性教育政策法规体系和伦理指导框架，为儿童青少年性教育提供法律保障、政策支持和伦理规范，确保教育实践的合法性、合规性和伦理性。建议结合[质量评估体系](../assessment/Quality_Assessment_System.md)了解实施标准，参考[特殊群体支持](../special-populations/Special_Populations_Support_System.md)掌握包容性要求。

@@ -1,3 +1,31 @@
+---
+
+title: "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide"
+description: "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Documentary"
+tags: ["addiction", "anxiety", "brain", "sleep", "mindfulness", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide"
+  - "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的核心概念"
+  - "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide
 
 > 精选17部与正念冥想、禅修、内观、静修高度相关的纪录片与系列节目，从零基础入门到深度灵性探索，涵盖科普教学、社会实验、人物传记、静修生活等多维视角。

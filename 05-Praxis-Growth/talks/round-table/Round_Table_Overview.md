@@ -1,3 +1,31 @@
+---
+
+title: "圆桌讨论概述 | Round Table Discussions Overview"
+description: "圆桌讨论概述 | Round Table Discussions Overview的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Round Table"
+tags: ["decision-making", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是圆桌讨论概述 | Round Table Discussions Overview"
+  - "圆桌讨论概述 | Round Table Discussions Overview的核心概念"
+  - "圆桌讨论概述 | Round Table Discussions Overview的方法与实践"
+trigger_keywords: ["圆桌讨论概述", "aging", "anxiety", "cognitive", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 圆桌讨论概述 | Round Table Discussions Overview
 
 > 圆桌讨论(Round Table Discussion)是一种平等参与、多声部互动的深度对话形式,源于亚瑟王传说中圆桌骑士的平等精神。在现代,圆桌讨论已成为知识传播、公共议题探讨和组织决策的重要方式。本概述从对话设计(Dialogue Design)、促导技术(Facilitation Techniques)、议题策划(Topic Curation)和多视角对话(Multi-perspective Dialogue)四个维度,系统构建圆桌讨论的理论与实践框架。

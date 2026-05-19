@@ -1,3 +1,31 @@
+---
+
+title: "Classical Music Integration (古典音乐与其他疗愈模式的整合)"
+description: "Classical Music Integration (古典音乐与其他疗愈模式的整合)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Classical Music Integration"
+  - "Classical Music Integration的核心概念"
+  - "Classical Music Integration的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "02-Mind-Psychology/therapy/incense/Incense_Integration_Modalities.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # Classical Music Integration (古典音乐与其他疗愈模式的整合)
 
 ## 古典音乐与冥想整合表

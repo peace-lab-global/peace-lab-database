@@ -1,3 +1,31 @@
+---
+
+title: "围城心态——城里想出去，城外想进来"
+description: "围城心态——城里想出去，城外想进来的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
+tags: ["marriage", "religion", "stress", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是围城心态——城里想出去，城外想进来"
+  - "围城心态——城里想出去，城外想进来的核心概念"
+  - "围城心态——城里想出去，城外想进来的方法与实践"
+trigger_keywords: ["城外想进来", "buddhism", "cognitive", "marriage", "psychology"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "attachment/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/buddhism/sexuality"
+
+---
 # 围城心态——城里想出去，城外想进来
 
 ## 什么是"围城心态"

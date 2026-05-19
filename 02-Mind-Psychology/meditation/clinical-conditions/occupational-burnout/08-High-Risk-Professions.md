@@ -1,3 +1,31 @@
+---
+
+title: "08. 高风险职业适配 | High-Risk Professions"
+description: "08. 高风险职业适配 | High-Risk Professions的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "decision-making", "mbsr", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是08. 高风险职业适配 | High-Risk Professions"
+  - "08. 高风险职业适配 | High-Risk Professions的核心概念"
+  - "08. 高风险职业适配 | High-Risk Professions的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "cognitive"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "README.md"
+    relation: "anxiety/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 08. 高风险职业适配 | High-Risk Professions
 
 > **文档定位**：某些职业因工作性质（高情绪劳动、高责任、高不确定性、资源匮乏），倦怠发生率显著高于平均水平。本章提供六大高风险职业的正念适配方案。

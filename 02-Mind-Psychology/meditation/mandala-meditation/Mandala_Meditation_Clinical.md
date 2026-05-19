@@ -1,3 +1,31 @@
+---
+
+title: "Mandala Meditation Clinical Applications (坛城冥想临床应用)"
+description: "Mandala Meditation Clinical Applications (坛城冥想临床应用)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 坛城冥想"
+tags: ["addiction", "anxiety", "emdr", "cbt", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mandala Meditation Clinical Applications"
+  - "Mandala Meditation Clinical Applications的核心概念"
+  - "Mandala Meditation Clinical Applications的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Mandala Meditation Clinical Applications (坛城冥想临床应用)
 
 ## 临床适应症详表 (Clinical Indications)

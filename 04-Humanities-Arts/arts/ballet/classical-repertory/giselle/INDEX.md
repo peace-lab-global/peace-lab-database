@@ -1,3 +1,21 @@
+---
+
+title: "giselle | Index"
+description: "giselle | Index的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Giselle"
+tags: ["art-therapy", "芭蕾"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是giselle | Index"
+  - "giselle | Index的核心概念"
+  - "giselle | Index的方法与实践"
+trigger_keywords: ["giselle", "Index", "艺术", "芭蕾"]
+cross_refs: []
+
+---
 # giselle | Index
 
 ## 内容索引 | Contents

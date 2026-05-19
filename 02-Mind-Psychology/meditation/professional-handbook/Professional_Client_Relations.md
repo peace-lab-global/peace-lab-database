@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师客户关系 | Professional Client Relations"
+description: "冥想执行师客户关系 | Professional Client Relations的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师客户关系 | Professional Client Relations"
+  - "冥想执行师客户关系 | Professional Client Relations的核心概念"
+  - "冥想执行师客户关系 | Professional Client Relations的方法与实践"
+trigger_keywords: ["冥想执行师客户关系", "assessment", "body", "brain", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "communication/emotion/meditation"
+
+---
 # 冥想执行师客户关系 | Professional Client Relations
 
 > **领域**：冥想执行师职业手册 — 客户关系

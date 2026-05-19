@@ -1,3 +1,32 @@
+---
+
+title: "宠物心理学临床干预指南专业内容体系"
+description: "宠物心理学临床干预指南专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Pet Psychology"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是宠物心理学临床干预指南专业内容体系"
+  - "宠物心理学临床干预指南专业内容体系的核心概念"
+  - "宠物心理学临床干预指南专业内容体系的方法与实践"
+  - "宠物心理学临床干预指南专业内容体系的自助方法"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 宠物心理学临床干预指南专业内容体系
 
 ## 目录

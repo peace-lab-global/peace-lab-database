@@ -1,3 +1,31 @@
+---
+
+title: "Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)"
+description: "Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Media"
+tags: ["communication", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Bad Friends播客专业内容体系"
+  - "Bad Friends播客专业内容体系的核心概念"
+  - "Bad Friends播客专业内容体系的方法与实践"
+trigger_keywords: ["art", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "attachment/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
+    relation: "attachment/communication/emotion"
+
+---
 # Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)
 
 > **学科定位**：播客传播学 × 幽默传播理论 × 友谊关系研究

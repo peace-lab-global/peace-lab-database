@@ -1,3 +1,31 @@
+---
+
+title: "《黄帝内经》Huangdi Neijing"
+description: "《黄帝内经》Huangdi Neijing的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["habits", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《黄帝内经》Huangdi Neijing"
+  - "《黄帝内经》Huangdi Neijing的核心概念"
+  - "《黄帝内经》Huangdi Neijing的方法与实践"
+trigger_keywords: ["body", "crisis", "developmental", "emotion"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/emotion/nutrition"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
+    relation: "emotion/exercise/nutrition"
+
+---
 # 《黄帝内经》Huangdi Neijing
 
 > 托名黄帝与岐伯等臣子的问答，实际成书于战国至西汉时期（约公元前475—前26年），是中国最早的医学典籍，也是中医理论体系的奠基之作。全书分为《素问》和《灵枢》（又称《针经》）两部分，各81篇，共162篇。内容涵盖医学理论、诊断方法、治疗原则、针灸经络、养生防病、五运六气等多个方面，被誉为"医家之宗"。

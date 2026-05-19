@@ -1,3 +1,31 @@
+---
+
+title: "渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)"
+description: "渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["anxiety", "bci"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是渐进性肌肉放松"
+  - "渐进性肌肉放松的核心概念"
+  - "渐进性肌肉放松的方法与实践"
+trigger_keywords: ["渐进性肌肉放松", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)
 
 > **模块定位**：渐进性肌肉放松的系统化专业知识，涵盖Jacobson原始方法、Bernstein-Borkovec简化版、肌肉群系统、临床应用协议及循证基础。

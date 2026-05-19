@@ -1,3 +1,31 @@
+---
+
+title: "离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)"
+description: "离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是离婚对子女的发展影响：分年龄段深度分析"
+  - "离婚对子女的发展影响：分年龄段深度分析的核心概念"
+  - "离婚对子女的发展影响：分年龄段深度分析的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)
 
 > **交叉引用**：关于子女心理支持与干预策略，参见 [Divorce_Children_Support_Intervention.md](Divorce_Children_Support_Intervention.md)；关于共同育儿安排，参见 [Divorce_Coparenting_Communication.md](Divorce_Coparenting_Communication.md)；关于儿童发展心理学，参见 [Child Development Psychology](../../../psychology/developmental/adolescent/child-development-psychology/)；关于青少年危机干预，参见 [Adolescent Crisis Intervention](../../../psychology/developmental/adolescent/adolescent-crisis/)。

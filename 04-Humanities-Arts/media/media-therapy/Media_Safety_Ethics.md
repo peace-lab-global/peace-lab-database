@@ -1,3 +1,31 @@
+---
+
+title: "媒体安全伦理 (Media Safety & Ethics)"
+description: "媒体安全伦理 (Media Safety & Ethics)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Media Therapy"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是媒体安全伦理"
+  - "媒体安全伦理的核心概念"
+  - "媒体安全伦理的方法与实践"
+trigger_keywords: ["媒体安全伦理", "addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 媒体安全伦理 (Media Safety & Ethics)
 
 ### Media Trigger Warnings (媒体触发警示表)

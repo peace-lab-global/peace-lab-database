@@ -1,3 +1,31 @@
+---
+
+title: "正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)"
+description: "正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念行走专业实践指南"
+  - "正念行走专业实践指南的核心概念"
+  - "正念行走专业实践指南的方法与实践"
+trigger_keywords: ["正念行走专业实践指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)
 
 > **正念行走 (Mindful Walking)**：以有意识的、非评判的觉察态度，全然临在于行走的每一个微细过程——从脚的抬起、移动、放下到着地——将日常行走转化为深度身心整合训练的动态冥想形式。

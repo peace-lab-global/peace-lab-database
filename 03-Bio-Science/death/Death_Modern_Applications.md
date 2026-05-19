@@ -1,3 +1,31 @@
+---
+
+title: "Modern Applications in Death Awareness & Care (死亡专题现代应用指南)"
+description: "Modern Applications in Death Awareness & Care (死亡专题现代应用指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Modern Applications in Death Awareness & Care"
+  - "Modern Applications in Death Awareness & Care的核心概念"
+  - "Modern Applications in Death Awareness & Care的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/anxiety/death"
+
+---
 # Modern Applications in Death Awareness & Care (死亡专题现代应用指南)
 
 > *"死亡教育的缺失是现代教育最大的漏洞之一。我们花了十二年学习如何谋生,却从不学习如何面对死亡。"*

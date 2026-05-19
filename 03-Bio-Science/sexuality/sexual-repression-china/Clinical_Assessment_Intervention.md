@@ -1,3 +1,31 @@
+---
+
+title: "性压抑的临床评估与干预 (Clinical Assessment and Intervention for Sexual Repression)"
+description: "性压抑的临床评估与干预 (Clinical Assessment and Intervention for Sexual Repression)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性压抑的临床评估与干预"
+  - "性压抑的临床评估与干预的核心概念"
+  - "性压抑的临床评估与干预的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 性压抑的临床评估与干预 (Clinical Assessment and Intervention for Sexual Repression)
 
 > 📘 **文档导航**: 本专题提供性压抑相关问题的临床评估工具和干预治疗方法。如需了解其他相关内容，请参考：

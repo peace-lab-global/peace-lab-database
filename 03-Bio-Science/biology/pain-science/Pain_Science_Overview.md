@@ -1,3 +1,31 @@
+---
+
+title: "疼痛科学总览 | Pain Science Overview"
+description: "疼痛科学总览 | Pain Science Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 疼痛科学"
+tags: ["brain", "cbt", "pain", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是疼痛科学总览 | Pain Science Overview"
+  - "疼痛科学总览 | Pain Science Overview的核心概念"
+  - "疼痛科学总览 | Pain Science Overview的方法与实践"
+trigger_keywords: ["疼痛科学总览", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 疼痛科学总览 | Pain Science Overview
 
 > **学科定位**: 神经科学 × 临床医学 × 心理学

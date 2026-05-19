@@ -1,3 +1,31 @@
+---
+
+title: "文艺复兴哲学经典 · 佛法视角三方书评"
+description: "文艺复兴哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
+tags: ["buddhism", "habits", "philosophy", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是文艺复兴哲学经典 · 佛法视角三方书评"
+  - "文艺复兴哲学经典 · 佛法视角三方书评的核心概念"
+  - "文艺复兴哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["文艺复兴哲学经典", "佛法视角三方书评", "behavioral", "brain", "buddhism", "death"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Assessment_Tools.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 文艺复兴哲学经典 · 佛法视角三方书评
 
 > 本文档以**佛教思想**为参照系，重新审视文艺复兴时期两位核心思想家——马基雅维利与伊拉斯谟——的经典著作。评述分别从**专业书评人**、**学佛爱好者**与**佛教学者**的视角展开，旨在探索东西方思想传统之间的深层对话可能。

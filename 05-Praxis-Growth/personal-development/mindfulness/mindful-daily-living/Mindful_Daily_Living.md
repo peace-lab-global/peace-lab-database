@@ -1,3 +1,31 @@
+---
+
+title: "Mindful Daily Living (正念日常实践)"
+description: "Mindful Daily Living (正念日常实践)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mindful Daily Living"
+  - "Mindful Daily Living的核心概念"
+  - "Mindful Daily Living的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # Mindful Daily Living (正念日常实践)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

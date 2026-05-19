@@ -1,3 +1,31 @@
+---
+
+title: "权威情结参考文献与资源 (Authority Complex References & Resources)"
+description: "权威情结参考文献与资源 (Authority Complex References & Resources)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Authority Complex"
+tags: ["attachment", "intervention", "neuroscience", "phobia", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是权威情结参考文献与资源"
+  - "权威情结参考文献与资源的核心概念"
+  - "权威情结参考文献与资源的方法与实践"
+trigger_keywords: ["act", "assessment", "attachment", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Buddhism_Vajrayana_Foundation.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/catholicism/Catholicism_Overview_Full.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # 权威情结参考文献与资源 (Authority Complex References & Resources)
 
 > 📘 **文档导航**: 本参考文献文档为权威情结专业内容体系提供学术支撑和资源指引。相关主题请参考：

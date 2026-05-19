@@ -1,3 +1,31 @@
+---
+
+title: "Enlightenment Stages (觉悟阶次与地图)"
+description: "Enlightenment Stages (觉悟阶次与地图)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["dmn", "flow", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Enlightenment Stages"
+  - "Enlightenment Stages的核心概念"
+  - "Enlightenment Stages的方法与实践"
+trigger_keywords: ["act", "behavioral", "brain", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "GLOSSARY.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # Enlightenment Stages (觉悟阶次与地图)
 
 ### The Ten Bulls (十牛图 - 十个阶段详解表)

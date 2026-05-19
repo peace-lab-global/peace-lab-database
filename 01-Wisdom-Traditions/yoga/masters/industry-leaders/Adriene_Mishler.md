@@ -1,3 +1,31 @@
+---
+
+title: "阿德里安·米什勒（Adriene Mishler）"
+description: "阿德里安·米什勒（Adriene Mishler）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["philosophy", "spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阿德里安·米什勒（Adriene Mishler）"
+  - "阿德里安·米什勒（Adriene Mishler）的核心概念"
+  - "阿德里安·米什勒（Adriene Mishler）的方法与实践"
+trigger_keywords: ["阿德里安", "act", "body", "exercise", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "anxiety/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "anxiety/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "anxiety/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "anxiety/exercise/pain"
+
+---
 # 阿德里安·米什勒（Adriene Mishler）
 
 > YouTube 时代的瑜伽女王——"Yoga with Adriene" 如何重新定义瑜伽的可达性

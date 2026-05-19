@@ -1,3 +1,31 @@
+---
+
+title: "动漫概述 | Anime & Manga Overview"
+description: "动漫概述 | Anime & Manga Overview的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Anime Manga"
+tags: ["attachment", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是动漫概述 | Anime & Manga Overview"
+  - "动漫概述 | Anime & Manga Overview的核心概念"
+  - "动漫概述 | Anime & Manga Overview的方法与实践"
+trigger_keywords: ["动漫概述", "adolescent", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 动漫概述 | Anime & Manga Overview
 
 > 动漫（Anime & Manga）是日本最具全球影响力的文化输出之一，也是21世纪跨文化传播最成功的艺术形式。从手塚治虫（Tezuka Osamu）开创现代漫画语法，到宫崎骏（Miyazaki Hayao）将动画提升至世界电影艺术的高度，再到新海诚（Shinkai Makoto）用数字技术重新定义视觉美学，动漫已从"亚文化"成长为影响全球数十亿人的主流叙事媒介。本文件系统梳理动漫的历史脉络、主要类型、文化意义与心理学价值。

@@ -1,3 +1,31 @@
+---
+
+title: "The Last Quarter of the Moon | 额尔古纳河右岸"
+description: "The Last Quarter of the Moon | 额尔古纳河右岸的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
+tags: ["literature", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Last Quarter of the Moon | 额尔古纳河右岸"
+  - "The Last Quarter of the Moon | 额尔古纳河右岸的核心概念"
+  - "The Last Quarter of the Moon | 额尔古纳河右岸的方法与实践"
+trigger_keywords: ["额尔古纳河右岸", "literature", "philosophy", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # The Last Quarter of the Moon | 额尔古纳河右岸
 
 > 迟子建长篇小说，2005年出版，第七届茅盾文学奖获奖作品。以一位九旬鄂温克族老人的口吻，讲述这个游牧民族在额尔古纳河右岸近百年的生存史——从森林深处的自在生活，到被迫定居的文明黄昏。

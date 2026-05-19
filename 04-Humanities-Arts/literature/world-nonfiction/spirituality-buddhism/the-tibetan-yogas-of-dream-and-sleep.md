@@ -1,3 +1,31 @@
+---
+
+title: "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep"
+description: "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep"
+  - "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的核心概念"
+  - "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的方法与实践"
+trigger_keywords: ["buddhism", "death", "sexuality", "yoga"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
+    relation: "buddhism/death/exercise"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/advanced/Buddhism_Advanced_Practice_Topics.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep
 
 >  竹庆本乐仁波切（B. Alan Wallace）整理，1998年出版。美国佛教学者、翻译家竹庆本乐（原名艾伦·华莱士）根据藏传佛教宁玛派和噶举派的传统，系统整理了睡梦瑜伽的修法。这是西方语言中关于藏传佛教梦瑜伽最全面的指南。

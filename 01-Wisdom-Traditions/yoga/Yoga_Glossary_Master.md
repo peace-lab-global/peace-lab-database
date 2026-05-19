@@ -1,3 +1,31 @@
+---
+
+title: "Yoga Glossary Master (瑜伽术语总表)"
+description: "Yoga Glossary Master (瑜伽术语总表)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["meditation", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Yoga Glossary Master"
+  - "Yoga Glossary Master的核心概念"
+  - "Yoga Glossary Master的方法与实践"
+trigger_keywords: ["act", "behavioral", "breathwork", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "cardiovascular/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "cardiovascular/meditation/neuroscience"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
+    relation: "cardiovascular/meditation/neuroscience"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "cardiovascular/meditation/neuroscience"
+
+---
 # Yoga Glossary Master (瑜伽术语总表)
 
 > 本表汇集瑜伽知识库中所有核心术语，按梵文 IAST 罗马化字母顺序排列。每个术语包含天城体梵文、IAST 转写、中文翻译、英文翻译、所属分类和详细出处文件。本表将随知识库的扩展持续更新。

@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Case Studies and Practical Applications (性别歧视案例分析与实践应用)"
+description: "Gender Discrimination Case Studies and Practical Applications (性别歧视案例分析与实践应用)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["decision-making", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Gender Discrimination Case Studies and Practical Applications"
+  - "Gender Discrimination Case Studies and Practical Applications的核心概念"
+  - "Gender Discrimination Case Studies and Practical Applications的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "productivity/sexuality/stress"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "productivity/sexuality/stress"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "productivity/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "productivity/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "productivity/sexuality/stress"
+
+---
 # Gender Discrimination Case Studies and Practical Applications (性别歧视案例分析与实践应用)
 
 ## 案例分析框架与方法论 (Case Analysis Framework and Methodology)

@@ -1,3 +1,31 @@
+---
+
+title: "冥想空间设计专业指南 Meditation Space Design Guide"
+description: "冥想空间设计专业指南 Meditation Space Design Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Space"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是冥想空间设计专业指南 Meditation Space Design Guide"
+  - "冥想空间设计专业指南 Meditation Space Design Guide的核心概念"
+  - "冥想空间设计专业指南 Meditation Space Design Guide的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 冥想空间设计专业指南 Meditation Space Design Guide
 
 > **最后更新：2026-05**

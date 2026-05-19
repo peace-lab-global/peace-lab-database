@@ -1,3 +1,31 @@
+---
+
+title: "退休适应与角色转换 | Aging Retirement Transition"
+description: "退休适应与角色转换 | Aging Retirement Transition的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
+tags: ["anxiety", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是退休适应与角色转换 | Aging Retirement Transition"
+  - "退休适应与角色转换 | Aging Retirement Transition的核心概念"
+  - "退休适应与角色转换 | Aging Retirement Transition的方法与实践"
+trigger_keywords: ["退休适应与角色转换", "adolescent", "aging", "anxiety", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 退休适应与角色转换 | Aging Retirement Transition
 
 > **学科定位**: 社会老年学 · 职业心理学 · 生命发展

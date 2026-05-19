@@ -1,3 +1,31 @@
+---
+
+title: "向上管理能力提升框架与实战方法论 (Professional Framework for Upward Management)"
+description: "向上管理能力提升框架与实战方法论 (Professional Framework for Upward Management)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是向上管理能力提升框架与实战方法论"
+  - "向上管理能力提升框架与实战方法论的核心概念"
+  - "向上管理能力提升框架与实战方法论的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 向上管理能力提升框架与实战方法论 (Professional Framework for Upward Management)
 
 > **学科定位**：组织行为学 × 管理沟通 × 决策支持 × 项目治理 × 数字化协同

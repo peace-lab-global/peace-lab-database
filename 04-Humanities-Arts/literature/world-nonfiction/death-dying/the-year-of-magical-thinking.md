@@ -1,3 +1,31 @@
+---
+
+title: "《奇想之年》The Year of Magical Thinking"
+description: "《奇想之年》The Year of Magical Thinking的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["grief", "marriage", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《奇想之年》The Year of Magical Thinking"
+  - "《奇想之年》The Year of Magical Thinking的核心概念"
+  - "《奇想之年》The Year of Magical Thinking的方法与实践"
+trigger_keywords: ["behavioral", "brain", "death", "grief"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "attachment/cardiovascular/death"
+  - path: "README.md"
+    relation: "art_therapy/attachment/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "attachment/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/death/depression"
+
+---
 # 《奇想之年》The Year of Magical Thinking
 
 > 琼·狄迪恩（Joan Didion）著，2005年出版。美国最伟大的散文家之一，在丈夫约翰·邓恩突发心脏病去世的当晚，写下了这本书。书名中的"magical thinking"指的是丧亲者常见的非理性信念——"如果我不把他的鞋子收起来，他就会回来穿它们。"获美国国家图书奖。

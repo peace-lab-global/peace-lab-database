@@ -1,3 +1,31 @@
+---
+
+title: "HPA轴神经科学 (HPA Axis Neuroscience)"
+description: "HPA轴神经科学 (HPA Axis Neuroscience)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > HPA轴"
+tags: ["HPA轴", "addiction", "aging", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是HPA轴神经科学"
+  - "HPA轴神经科学的核心概念"
+  - "HPA轴神经科学的方法与实践"
+trigger_keywords: ["HPA轴神经科学", "HPA轴", "act", "addiction", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Sleep_Comorbidity.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/communication"
+
+---
 # HPA轴神经科学 (HPA Axis Neuroscience)
 
 > **神经内分泌机制详解** (Neuroendocrine Mechanisms In-Depth)

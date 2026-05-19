@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)"
+description: "Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["aging", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Gender Discrimination Standardized Terminology Dictionary"
+  - "Gender Discrimination Standardized Terminology Dictionary的核心概念"
+  - "Gender Discrimination Standardized Terminology Dictionary的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)
 
 ## 核心概念术语体系 (Core Concept Terminology System)

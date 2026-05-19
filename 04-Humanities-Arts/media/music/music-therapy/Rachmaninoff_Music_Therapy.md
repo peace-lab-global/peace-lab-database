@@ -1,3 +1,31 @@
+---
+
+title: "拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)"
+description: "拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["attachment", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是拉赫玛尼诺夫音乐疗愈"
+  - "拉赫玛尼诺夫音乐疗愈的核心概念"
+  - "拉赫玛尼诺夫音乐疗愈的方法与实践"
+trigger_keywords: ["拉赫玛尼诺夫音乐疗愈", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 拉赫玛尼诺夫音乐疗愈 (Rachmaninoff Music Therapy)
 
 > **谢尔盖·瓦西里耶维奇·拉赫玛尼诺夫 (Сергей Васильевич Рахманинов / Sergei Vasilievich Rachmaninoff, 1873-1943)**

@@ -1,3 +1,31 @@
+---
+
+title: "伍尔夫主要作品深度分析"
+description: "伍尔夫主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伍尔夫主要作品深度分析"
+  - "伍尔夫主要作品深度分析的核心概念"
+  - "伍尔夫主要作品深度分析的方法与实践"
+trigger_keywords: ["anxiety", "art", "cognitive", "communication"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/artists/modern/VanGogh_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 伍尔夫主要作品深度分析
 
 ## 《达洛维夫人》(Mrs. Dalloway, 1925)

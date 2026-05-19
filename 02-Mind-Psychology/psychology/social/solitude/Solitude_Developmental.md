@@ -1,3 +1,31 @@
+---
+
+title: "独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age"
+description: "独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age"
+  - "独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age的核心概念"
+  - "独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 独处的毕生发展：从儿童到老年 | Solitude Across the Lifespan: From Childhood to Old Age
 
 > **文档类型**：发展心理学专题 | Developmental Psychology Monograph  

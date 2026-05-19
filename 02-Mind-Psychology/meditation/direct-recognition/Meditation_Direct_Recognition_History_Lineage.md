@@ -1,3 +1,31 @@
+---
+
+title: "Direct Recognition History & Lineage (直接认知历史源流：传承脉络与演化轨迹)"
+description: "Direct Recognition History & Lineage (直接认知历史源流：传承脉络与演化轨迹)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 直接认知"
+tags: ["dzogchen", "mbsr"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Direct Recognition History & Lineage"
+  - "Direct Recognition History & Lineage的核心概念"
+  - "Direct Recognition History & Lineage的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # Direct Recognition History & Lineage (直接认知历史源流：传承脉络与演化轨迹)
 
 ## 概述 (Overview)

@@ -1,3 +1,31 @@
+---
+
+title: "C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训"
+description: "C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训"
+  - "C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训的核心概念"
+  - "C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/immune/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "exercise/immune/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/immune/meditation"
+
+---
 # C1-LOCAL-6 直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训
 
 📑 智能总结

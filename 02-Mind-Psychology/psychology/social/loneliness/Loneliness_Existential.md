@@ -1,3 +1,31 @@
+---
+
+title: "存在性孤独 (Existential Loneliness)"
+description: "存在性孤独 (Existential Loneliness)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["addiction", "anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是存在性孤独"
+  - "存在性孤独的核心概念"
+  - "存在性孤独的方法与实践"
+trigger_keywords: ["存在性孤独", "act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Rituals_Overview.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 存在性孤独 (Existential Loneliness)
 
 > **核心命题**: 存在性孤独不是"没有人陪伴"，而是"作为独立意识存在于世界"的根本处境。它是人类存在的四大终极关怀之一（死亡、自由、孤独、无意义），不可被消除，但可以被转化——从恐惧的对象变为觉醒的入口。

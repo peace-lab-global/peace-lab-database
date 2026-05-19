@@ -1,3 +1,31 @@
+---
+
+title: "Panic Disorder Treatment (惊恐障碍治疗)"
+description: "Panic Disorder Treatment (惊恐障碍治疗)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Panic Disorder"
+tags: ["addiction", "anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Panic Disorder Treatment"
+  - "Panic Disorder Treatment的核心概念"
+  - "Panic Disorder Treatment的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/productivity/sexuality"
+
+---
 # Panic Disorder Treatment (惊恐障碍治疗)
 
 > **惊恐障碍治疗 (Panic Disorder Treatment / Therapia Morbi Panici)**

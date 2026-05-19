@@ -1,3 +1,31 @@
+---
+
+title: "《超觉冥想》Science of Being and Art of Living"
+description: "《超觉冥想》Science of Being and Art of Living的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《超觉冥想》Science of Being and Art of Living"
+  - "《超觉冥想》Science of Being and Art of Living的核心概念"
+  - "《超觉冥想》Science of Being and Art of Living的方法与实践"
+trigger_keywords: ["art", "breathwork", "exercise", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "exercise/meditation/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "exercise/meditation/productivity"
+
+---
 # 《超觉冥想》Science of Being and Art of Living
 
 > 玛哈里希·玛赫西·优济（Maharishi Mahesh Yogi）著，1963年出版。印度灵修导师，超觉冥想（Transcendental Meditation，简称TM）运动的创始人。他在1950年代末开始周游世界传授TM技术，先后教导了披头士乐队等西方名流，使超觉冥想成为1960-70年代西方最具影响力的冥想方法之一。这本书系统阐述了他的哲学体系——"存在的科学"（Science of Creative Intelligence），试图将古老的吠檀多传统与现代科学对话。

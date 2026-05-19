@@ -1,3 +1,31 @@
+---
+
+title: "算法伦理 | Ethics of Algorithms Framework"
+description: "算法伦理 | Ethics of Algorithms Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "讲座"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是算法伦理 | Ethics of Algorithms Framework"
+  - "算法伦理 | Ethics of Algorithms Framework的核心概念"
+  - "算法伦理 | Ethics of Algorithms Framework的方法与实践"
+trigger_keywords: ["算法伦理", "assessment", "behavioral", "clinical", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/Buddhist_Perspective_Reviews.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 算法伦理 | Ethics of Algorithms Framework
 
 > **算法伦理**（Ethics of Algorithms）研究算法系统在社会中的道德影响——从面部识别中的种族偏见到信用评分中的阶级歧视，从推荐算法对民主的威胁到自动驾驶的道德困境。随着算法日益渗透到生活的每个角落，理解其伦理维度不仅是技术专家的责任，更是每个公民的知识必需。本文件精选TED平台上关于算法伦理的代表性演讲，揭示算法时代的伦理挑战和应对路径。

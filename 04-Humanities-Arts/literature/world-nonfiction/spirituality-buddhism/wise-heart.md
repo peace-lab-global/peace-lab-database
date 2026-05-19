@@ -1,3 +1,31 @@
+---
+
+title: "《明智之心》The Wise Heart"
+description: "《明智之心》The Wise Heart的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《明智之心》The Wise Heart"
+  - "《明智之心》The Wise Heart的核心概念"
+  - "《明智之心》The Wise Heart的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "clinical"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "buddhism/cardiovascular/emotion"
+
+---
 # 《明智之心》The Wise Heart
 
 > 杰克·康菲尔德（Jack Kornfield）著，2008年出版。美国内观禅修运动最重要的导师之一，曾在泰国、缅甸和印度接受传统训练，后将佛教禅修与西方心理治疗整合。这本书是他四十年教学经验的结晶，副标题是"佛教心理学在西方人生活中的应用"。

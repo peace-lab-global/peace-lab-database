@@ -1,3 +1,31 @@
+---
+
+title: "Clinical Spectrum"
+description: "Clinical Spectrum的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["depression", "intervention", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Clinical Spectrum"
+  - "Clinical Spectrum的核心概念"
+  - "Clinical Spectrum的方法与实践"
+trigger_keywords: ["behavioral", "child", "clinical", "cognitive"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "depression/emotion/meditation"
+
+---
 ## 1. 抑郁症的临床谱系
 
 ### 1.1 DSM-5 抑郁症分类

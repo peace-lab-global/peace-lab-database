@@ -1,3 +1,31 @@
+---
+
+title: "系列六：高级深化系列 | Advanced Deepening Series"
+description: "系列六：高级深化系列 | Advanced Deepening Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是系列六：高级深化系列 | Advanced Deepening Series"
+  - "系列六：高级深化系列 | Advanced Deepening Series的核心概念"
+  - "系列六：高级深化系列 | Advanced Deepening Series的方法与实践"
+trigger_keywords: ["系列六：高级深化系列", "act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 系列六：高级深化系列 | Advanced Deepening Series
 
 > **级别**：Level 4（高级）

@@ -1,3 +1,31 @@
+---
+
+title: "离婚后共同育儿与沟通策略"
+description: "离婚后共同育儿与沟通策略的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是离婚后共同育儿与沟通策略"
+  - "离婚后共同育儿与沟通策略的核心概念"
+  - "离婚后共同育儿与沟通策略的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 离婚后共同育儿与沟通策略
 
 > 离婚结束的是夫妻关系，不是亲子关系。两个人可以不再是一家人，但对孩子来说，爸爸妈妈永远都是爸爸妈妈。共同育儿的核心，是把"我们不合适"这件事跟"我们都爱你"这件事，分开来处理。

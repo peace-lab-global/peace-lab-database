@@ -1,3 +1,31 @@
+---
+
+title: "《金刚经》Diamond Sutra"
+description: "《金刚经》Diamond Sutra的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["phobia", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《金刚经》Diamond Sutra"
+  - "《金刚经》Diamond Sutra的核心概念"
+  - "《金刚经》Diamond Sutra的方法与实践"
+trigger_keywords: ["buddhism", "death", "phobia", "sexuality"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《金刚经》Diamond Sutra
 
 > 释迦牟尼佛与须菩提的对话，约公元前1世纪形成于印度，公元5世纪鸠摩罗什汉译。大乘佛教般若系经典，以"金刚"比喻智慧的坚固和锐利，能切断一切执着。禅宗以此经为印心的依据，六祖惠能因听闻此经而悟道。

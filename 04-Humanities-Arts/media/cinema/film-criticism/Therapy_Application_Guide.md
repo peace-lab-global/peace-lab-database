@@ -1,3 +1,32 @@
+---
+
+title: "经典电影临床应用指南：治疗性观影协议与心理干预策略"
+description: "经典电影临床应用指南：治疗性观影协议与心理干预策略的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cbt", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是经典电影临床应用指南：治疗性观影协议与心理干预策略"
+  - "经典电影临床应用指南：治疗性观影协议与心理干预策略的核心概念"
+  - "经典电影临床应用指南：治疗性观影协议与心理干预策略的方法与实践"
+  - "经典电影临床应用指南：治疗性观影协议与心理干预策略的循证证据"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 经典电影临床应用指南：治疗性观影协议与心理干预策略
 
 ## 摘要 (Abstract)

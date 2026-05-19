@@ -1,3 +1,31 @@
+---
+
+title: "家庭系统排列 (Family Constellation) | Index"
+description: "家庭系统排列 (Family Constellation) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
+tags: ["marriage", "trauma", "treatment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是家庭系统排列  | Index"
+  - "家庭系统排列  | Index的核心概念"
+  - "家庭系统排列  | Index的方法与实践"
+trigger_keywords: ["家庭系统排列", "Index", "act", "clinical", "developmental", "marriage"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "attachment/sexuality/therapy"
+
+---
 # 家庭系统排列 (Family Constellation) | Index
 
 > 伯特·海灵格创立的系统性心理治疗方法，通过空间排列揭示家庭系统动力与代际纠葛。

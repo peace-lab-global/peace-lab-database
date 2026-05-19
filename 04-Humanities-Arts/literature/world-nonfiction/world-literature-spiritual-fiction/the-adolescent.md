@@ -1,3 +1,31 @@
+---
+
+title: "《少年》The Adolescent"
+description: "《少年》The Adolescent的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "loneliness", "marriage", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《少年》The Adolescent"
+  - "《少年》The Adolescent的核心概念"
+  - "《少年》The Adolescent的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "literature", "loneliness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
+    relation: "anxiety/attachment/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/personality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Philosophy.md"
+    relation: "anxiety/attachment/personality"
+
+---
 # 《少年》The Adolescent
 
 **作者：** 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

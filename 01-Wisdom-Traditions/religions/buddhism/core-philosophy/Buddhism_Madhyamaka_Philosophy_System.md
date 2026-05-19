@@ -1,3 +1,31 @@
+---
+
+title: "中观哲学体系详论 (Madhyamaka Philosophy System)"
+description: "中观哲学体系详论 (Madhyamaka Philosophy System)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "decision-making", "depression", "philosophy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是中观哲学体系详论"
+  - "中观哲学体系详论的核心概念"
+  - "中观哲学体系详论的方法与实践"
+trigger_keywords: ["中观哲学体系详论", "act", "anxiety", "behavioral", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 中观哲学体系详论 (Madhyamaka Philosophy System)
 
 > **中观哲学 (Madhyamaka Philosophy)**：由龙树菩萨创立的大乘佛教核心哲学体系，以"八不中道"为核心，通过四重否定的方法论，揭示诸法空性的究竟真理。

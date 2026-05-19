@@ -1,3 +1,31 @@
+---
+
+title: "阮廌 (Nguyễn Trãi)"
+description: "阮廌 (Nguyễn Trãi)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Vietnam > Confucianism"
+tags: ["buddhism", "decision-making", "healing", "leadership", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阮廌"
+  - "阮廌的核心概念"
+  - "阮廌的方法与实践"
+trigger_keywords: ["阮廌", "art", "buddhism", "decision-making", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "buddhism/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "buddhism/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+    relation: "buddhism/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/sexuality/trauma"
+
+---
 # 阮廌 (Nguyễn Trãi)
 ## 核心思想 (Core Ideas)
 | 概念 | 越南语 | 解释 | 影响 |

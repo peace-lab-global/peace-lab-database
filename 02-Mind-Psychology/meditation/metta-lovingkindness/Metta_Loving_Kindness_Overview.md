@@ -1,3 +1,31 @@
+---
+
+title: "慈心禅专业概述：历史经典、修习体系与科学证据"
+description: "慈心禅专业概述：历史经典、修习体系与科学证据的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Metta Lovingkindness"
+tags: ["anxiety", "brain", "attachment", "mbsr", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是慈心禅专业概述：历史经典、修习体系与科学证据"
+  - "慈心禅专业概述：历史经典、修习体系与科学证据的核心概念"
+  - "慈心禅专业概述：历史经典、修习体系与科学证据的方法与实践"
+trigger_keywords: ["修习体系与科学证据", "act", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 慈心禅专业概述：历史经典、修习体系与科学证据
 
 > **适用对象**：冥想初学者与进阶者、心理咨询师、临床工作者、佛教研究者、社会工作者、教育工作者

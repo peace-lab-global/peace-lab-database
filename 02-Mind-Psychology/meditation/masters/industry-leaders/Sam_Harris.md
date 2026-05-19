@@ -1,3 +1,31 @@
+---
+
+title: "萨姆·哈里斯 (Sam Harris)"
+description: "萨姆·哈里斯 (Sam Harris)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Industry Leaders"
+tags: ["brain", "dzogchen", "habits", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是萨姆·哈里斯"
+  - "萨姆·哈里斯的核心概念"
+  - "萨姆·哈里斯的方法与实践"
+trigger_keywords: ["萨姆", "哈里斯", "act", "brain", "buddhism", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 萨姆·哈里斯 (Sam Harris)
 
 > "Consciousness is the one thing in this universe that cannot be an illusion."

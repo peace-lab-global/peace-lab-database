@@ -1,3 +1,32 @@
+---
+
+title: "《闪灵》(The Shining, 1980) 专业影评：恐怖美学与家庭创伤的心理分析"
+description: "《闪灵》(The Shining, 1980) 专业影评：恐怖美学与家庭创伤的心理分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《闪灵》 专业影评：恐怖美学与家庭创伤的心理分析"
+  - "《闪灵》 专业影评：恐怖美学与家庭创伤的心理分析的核心概念"
+  - "《闪灵》 专业影评：恐怖美学与家庭创伤的心理分析的方法与实践"
+  - "《闪灵》 专业影评：恐怖美学与家庭创伤的心理分析的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/neuroscience"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # 《闪灵》(The Shining, 1980) 专业影评：恐怖美学与家庭创伤的心理分析
 
 ## 摘要 (Abstract)

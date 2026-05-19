@@ -1,3 +1,32 @@
+---
+
+title: "恋尸癖心理学专业内容体系"
+description: "恋尸癖心理学专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Necrophilia"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是恋尸癖心理学专业内容体系"
+  - "恋尸癖心理学专业内容体系的核心概念"
+  - "恋尸癖心理学专业内容体系的方法与实践"
+  - "恋尸癖心理学专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 恋尸癖心理学专业内容体系
 
 ## 目录

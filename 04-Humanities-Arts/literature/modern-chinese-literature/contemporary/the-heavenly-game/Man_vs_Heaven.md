@@ -1,3 +1,31 @@
+---
+
+title: "人与天道的终极博弈——棋局即命局"
+description: "人与天道的终极博弈——棋局即命局的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Heavenly Game"
+tags: ["literature", "loneliness", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人与天道的终极博弈——棋局即命局"
+  - "人与天道的终极博弈——棋局即命局的核心概念"
+  - "人与天道的终极博弈——棋局即命局的方法与实践"
+trigger_keywords: ["body", "cognitive", "literature", "loneliness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "art_therapy/emotion/exercise"
+
+---
 # 人与天道的终极博弈——棋局即命局
 
 ## 一个核心问题：人能赢天吗？

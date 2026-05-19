@@ -1,3 +1,31 @@
+---
+
+title: "《先知花园》The Garden of the Prophet"
+description: "《先知花园》The Garden of the Prophet的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["sleep", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《先知花园》The Garden of the Prophet"
+  - "《先知花园》The Garden of the Prophet的核心概念"
+  - "《先知花园》The Garden of the Prophet的方法与实践"
+trigger_keywords: ["buddhism", "death", "sexuality", "sleep"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《先知花园》The Garden of the Prophet
 
 > 纪伯伦（Kahlil Gibran）著，1933年出版。《先知》的续篇，但风格和 tone 有所不同——它更加 personal、更加 autobiographical。书中的"先知"阿尔穆斯塔法回到了他出生的岛屿，与老朋友和门徒重聚。这本书是纪伯伦的最后一部作品，他于1931年去世，未能看到它的出版。

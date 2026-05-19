@@ -1,3 +1,32 @@
+---
+
+title: "自身免疫心理学 (Autoimmune Psychology)"
+description: "自身免疫心理学 (Autoimmune Psychology)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
+tags: ["brain", "cbt", "inflammation", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是自身免疫心理学"
+  - "自身免疫心理学的核心概念"
+  - "自身免疫心理学的方法与实践"
+  - "自身免疫心理学的自助方法"
+trigger_keywords: ["自身免疫心理学", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
+    relation: "anxiety/body_image/depression"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "anxiety/body_image/depression"
+
+---
 # 自身免疫心理学 (Autoimmune Psychology)
 
 > **领域定位**: 03-Bio-Science / biology / immune-inflammation

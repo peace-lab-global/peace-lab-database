@@ -1,3 +1,31 @@
+---
+
+title: "《罪与罚》Crime and Punishment"
+description: "《罪与罚》Crime and Punishment的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《罪与罚》Crime and Punishment"
+  - "《罪与罚》Crime and Punishment的核心概念"
+  - "《罪与罚》Crime and Punishment的方法与实践"
+trigger_keywords: ["anxiety", "art", "behavioral", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《罪与罚》Crime and Punishment
 
 **作者**：费奥多尔·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

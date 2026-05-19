@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)"
+description: "Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Treatment Interventions & Clinical Practice"
+  - "Paraphilic Disorders: Treatment Interventions & Clinical Practice的核心概念"
+  - "Paraphilic Disorders: Treatment Interventions & Clinical Practice的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)
 
 > 📘 **文档导航**: 本专题文档提供恋物癖临床治疗的专业指导。相关主题请参考：

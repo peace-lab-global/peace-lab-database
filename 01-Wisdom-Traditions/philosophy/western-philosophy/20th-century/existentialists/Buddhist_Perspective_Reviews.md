@@ -1,3 +1,31 @@
+---
+
+title: "存在主义经典 · 佛法视角三方书评"
+description: "存在主义经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
+tags: ["buddhism", "cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是存在主义经典 · 佛法视角三方书评"
+  - "存在主义经典 · 佛法视角三方书评的核心概念"
+  - "存在主义经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["存在主义经典", "佛法视角三方书评", "anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-art-of-dying.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "README.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 存在主义经典 · 佛法视角三方书评
 
 ---

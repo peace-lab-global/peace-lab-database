@@ -1,3 +1,31 @@
+---
+
+title: "家庭暴力风险评估工具专业内容体系"
+description: "家庭暴力风险评估工具专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是家庭暴力风险评估工具专业内容体系"
+  - "家庭暴力风险评估工具专业内容体系的核心概念"
+  - "家庭暴力风险评估工具专业内容体系的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/attachment/sexuality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
+    relation: "aging/attachment/sexuality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/sexuality"
+  - path: "03-Bio-Science/death/Death_Children_Adolescents.md"
+    relation: "aging/attachment/sexuality"
+
+---
 # 家庭暴力风险评估工具专业内容体系
 
 ## 目录

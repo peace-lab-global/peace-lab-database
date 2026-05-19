@@ -1,3 +1,31 @@
+---
+
+title: "家庭性教育支持体系 (Family Sexuality Education Support System)"
+description: "家庭性教育支持体系 (Family Sexuality Education Support System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是家庭性教育支持体系"
+  - "家庭性教育支持体系的核心概念"
+  - "家庭性教育支持体系的方法与实践"
+trigger_keywords: ["家庭性教育支持体系", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 家庭性教育支持体系 (Family Sexuality Education Support System)
 
 > 👨‍👩‍👧‍👦 **体系定位**: 构建科学、系统、可操作的家庭性教育支持体系，为家长提供专业的教育理念、方法指导和资源支持，促进家庭与学校协同育人，确保儿童青少年获得连贯、一致的性教育体验。建议结合[儿童期性教育](../curriculum/Childhood_Sexuality_Education_5_12.md)了解具体教育内容，参考[师资培训体系](../practice/Faculty_Training_Development_System.md)掌握专业标准。

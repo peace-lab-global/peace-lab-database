@@ -1,3 +1,31 @@
+---
+
+title: "藏传气脉明点与呼吸法详解"
+description: "藏传气脉明点与呼吸法详解的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tibetan Meditation"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是藏传气脉明点与呼吸法详解"
+  - "藏传气脉明点与呼吸法详解的核心概念"
+  - "藏传气脉明点与呼吸法详解的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 藏传气脉明点与呼吸法详解
 
 > **最后更新**: 2026-05

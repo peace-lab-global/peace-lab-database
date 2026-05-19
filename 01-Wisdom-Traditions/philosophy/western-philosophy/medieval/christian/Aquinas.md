@@ -1,3 +1,31 @@
+---
+
+title: "托马斯·阿奎那 (Thomas Aquinas)"
+description: "托马斯·阿奎那 (Thomas Aquinas)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Christian"
+tags: ["decision-making", "healing", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是托马斯·阿奎那"
+  - "托马斯·阿奎那的核心概念"
+  - "托马斯·阿奎那的方法与实践"
+trigger_keywords: ["托马斯", "阿奎那", "behavioral", "cognitive", "decision-making", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "exercise/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "exercise/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "exercise/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+    relation: "exercise/personality/sexuality"
+  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
+    relation: "exercise/personality/sexuality"
+
+---
 # 托马斯·阿奎那 (Thomas Aquinas)
 
 ## 核心思想 (Core Ideas)

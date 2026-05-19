@@ -1,3 +1,31 @@
+---
+
+title: "《法句经》The Dhammapada"
+description: "《法句经》The Dhammapada的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《法句经》The Dhammapada"
+  - "《法句经》The Dhammapada的核心概念"
+  - "《法句经》The Dhammapada的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《法句经》The Dhammapada
 
 > 佛陀的简短偈语集，约公元前3世纪形成，是上座部佛教最受尊崇的经典之一。423首偈语，涵盖了道德、冥想、智慧、僧侣生活等所有佛教核心主题。被称为"佛教智慧的精华"。

@@ -1,3 +1,31 @@
+---
+
+title: "铃木大拙 (D.T. Suzuki)"
+description: "铃木大拙 (D.T. Suzuki)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > 佛教"
+tags: ["healing", "meditation", "mindfulness", "philosophy", "zen", "buddhism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是铃木大拙"
+  - "铃木大拙的核心概念"
+  - "铃木大拙的方法与实践"
+trigger_keywords: ["铃木大拙", "art", "cognitive", "developmental", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 铃木大拙 (D.T. Suzuki)
 
 ## 核心思想 (Core Ideas)

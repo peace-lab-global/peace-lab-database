@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)"
+description: "Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Gender Discrimination Training Materials and Curriculum Design"
+  - "Gender Discrimination Training Materials and Curriculum Design的核心概念"
+  - "Gender Discrimination Training Materials and Curriculum Design的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+
+---
 # Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)
 
 ## 培训体系总体设计 (Training System Overall Design)

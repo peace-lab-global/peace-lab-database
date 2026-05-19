@@ -1,3 +1,31 @@
+---
+
+title: "孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual"
+description: "孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
+tags: ["anxiety", "attachment", "mbsr", "cbt", "mbct"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual"
+  - "孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual的核心概念"
+  - "孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独干预团体带领者手册 | Group Therapy for Loneliness: Facilitator Manual
 
 > **文档类型**：团体治疗操作手册 | Group Therapy Operations Manual  

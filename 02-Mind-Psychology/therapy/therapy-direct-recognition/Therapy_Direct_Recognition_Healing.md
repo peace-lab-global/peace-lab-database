@@ -1,3 +1,31 @@
+---
+
+title: "Direct Recognition Healing (直接认知疗愈：不二论心理学应用)"
+description: "Direct Recognition Healing (直接认知疗愈：不二论心理学应用)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Therapy Direct Recognition"
+tags: ["anxiety", "attachment", "healing", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Direct Recognition Healing"
+  - "Direct Recognition Healing的核心概念"
+  - "Direct Recognition Healing的方法与实践"
+trigger_keywords: ["act", "anxiety", "attachment", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Therapy.md"
+    relation: "anxiety/attachment/death"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/death"
+
+---
 # Direct Recognition Healing (直接认知疗愈：不二论心理学应用)
 
 ### Unconditioned Healing: The Core Principle (无条件疗愈：核心原则表)

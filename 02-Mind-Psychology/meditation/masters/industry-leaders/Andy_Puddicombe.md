@@ -1,3 +1,31 @@
+---
+
+title: "安迪·普迪科姆 (Andy Puddicombe)"
+description: "安迪·普迪科姆 (Andy Puddicombe)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Industry Leaders"
+tags: ["brain", "habits", "sleep", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是安迪·普迪科姆"
+  - "安迪·普迪科姆的核心概念"
+  - "安迪·普迪科姆的方法与实践"
+trigger_keywords: ["安迪", "普迪科姆", "act", "behavioral", "brain", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 安迪·普迪科姆 (Andy Puddicombe)
 
 > "It's about learning to step back, to see thoughts clearly, to witness them coming and going without judgment, and to ultimately understand that thoughts are not facts."

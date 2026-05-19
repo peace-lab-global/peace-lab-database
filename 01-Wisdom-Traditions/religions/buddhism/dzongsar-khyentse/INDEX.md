@@ -1,3 +1,31 @@
+---
+
+title: "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切"
+description: "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse"
+tags: ["buddhism", "cinema", "dzogchen", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切"
+  - "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的核心概念"
+  - "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的方法与实践"
+trigger_keywords: ["宗萨蒋扬钦哲仁波切", "act", "buddhism", "cinema", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切
 
 > 宗萨蒋扬钦哲仁波切（Dzongsar Jamyang Khyentse Chökyi Lodrö, 1961—），藏传佛教利美（Rimé）传承的核心人物，当代最具影响力的佛教导师之一。同时也是电影导演，代表作《旅行者与巫师》《嘿玛嘿玛》。

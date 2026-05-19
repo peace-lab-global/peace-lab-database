@@ -1,3 +1,31 @@
+---
+
+title: "毕达哥拉斯 (Pythagoras)"
+description: "毕达哥拉斯 (Pythagoras)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["healing", "jung", "meditation", "music", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是毕达哥拉斯"
+  - "毕达哥拉斯的核心概念"
+  - "毕达哥拉斯的方法与实践"
+trigger_keywords: ["毕达哥拉斯", "developmental", "healing", "jung", "meditation"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+    relation: "meditation/sexuality/therapy"
+
+---
 # 毕达哥拉斯 (Pythagoras)
 
 ## 核心思想 (Core Ideas)

@@ -1,3 +1,31 @@
+---
+
+title: "Depression Digital Interventions (抑郁症数字化干预专题)"
+description: "Depression Digital Interventions (抑郁症数字化干预专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["addiction", "anxiety", "bci", "depression", "sleep", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Depression Digital Interventions"
+  - "Depression Digital Interventions的核心概念"
+  - "Depression Digital Interventions的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+
+---
 # Depression Digital Interventions (抑郁症数字化干预专题)
 
 > **抑郁症数字化干预 (Digital Interventions for Depression)**

@@ -1,3 +1,31 @@
+---
+
+title: "社会经济学 | Social Economics"
+description: "社会经济学 | Social Economics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "intervention", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社会经济学 | Social Economics"
+  - "社会经济学 | Social Economics的核心概念"
+  - "社会经济学 | Social Economics的方法与实践"
+trigger_keywords: ["社会经济学", "act", "assessment", "behavioral", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 社会经济学 | Social Economics
 
 > **社会经济学**（Social Economics）研究经济活动与社会结构的交互关系，关注不平等、贫困、社会福利和制度设计等核心议题。TED平台上关于社会经济学的演讲深刻揭示了市场经济背后的社会力量，探索如何通过创新思维和政策设计实现更加公平和可持续的经济体系。

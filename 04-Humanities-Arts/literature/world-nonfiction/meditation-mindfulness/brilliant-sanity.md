@@ -1,3 +1,31 @@
+---
+
+title: "《本觉妙明》Brilliant Sanity"
+description: "《本觉妙明》Brilliant Sanity的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["dzogchen", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《本觉妙明》Brilliant Sanity"
+  - "《本觉妙明》Brilliant Sanity的核心概念"
+  - "《本觉妙明》Brilliant Sanity的方法与实践"
+trigger_keywords: ["anxiety", "art", "behavioral", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 《本觉妙明》Brilliant Sanity
 
 > 这是一部藏传佛教大圆满（Dzogchen）传统的重要开示集，收录了多位藏传佛教大师——尤其是秋吉林巴（Chögyam Trungpa Rinpoche，1939-1987）及其传承体系中的导师——关于"本觉"（Rigpa）的教导。秋吉林巴是藏传佛教在西方最具影响力的传播者之一，1970年代在科罗拉多州创立了那洛巴大学（Naropa University）和香巴拉（Shambhala）禅修中心。"Brilliant Sanity"（本觉妙明）是秋吉林巴对心性本质的核心描述：心不是需要被净化的污染之物，而是本来清净、本自具足、本觉妙明的——只是我们因为习惯的力量而暂时忘记了这一点。

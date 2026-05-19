@@ -1,3 +1,31 @@
+---
+
+title: "《小王子》The Little Prince"
+description: "《小王子》The Little Prince的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "loneliness", "suicide"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《小王子》The Little Prince"
+  - "《小王子》The Little Prince的核心概念"
+  - "《小王子》The Little Prince的方法与实践"
+trigger_keywords: ["child", "death", "literature", "loneliness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/depression"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/depression"
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "art_therapy/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "death/depression"
+
+---
 # 《小王子》The Little Prince
 
 > 安托万·德·圣埃克苏佩里（Antoine de Saint-Exupéry）著，1943年出版。法国飞行员、作家的经典寓言小说，讲述了一位来自小行星B-612的小王子在宇宙中的旅行。表面上是儿童文学，深层是对成人世界的存在主义批判——关于爱、孤独、责任和死亡。

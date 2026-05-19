@@ -1,3 +1,31 @@
+---
+
+title: "儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)"
+description: "儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Curriculum"
+tags: ["act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是儿童期性教育专业指南"
+  - "儿童期性教育专业指南的核心概念"
+  - "儿童期性教育专业指南的方法与实践"
+trigger_keywords: ["儿童期性教育专业指南", "act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)
 
 > 🎯 **教育定位**: 针对5-12岁儿童的性教育专业内容体系，基于发展适宜性原则和权利导向理念，通过游戏化、生活化的教学方式，帮助儿童建立正确的身体认知、安全意识和价值观念。建议结合[儿童青少年发展](../../child-adolescent/Child_Adolescent_Development.md)了解认知发展特点，参考[综合性性教育](../../../../../../03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md)获取完整框架。

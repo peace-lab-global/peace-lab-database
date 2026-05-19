@@ -1,3 +1,31 @@
+---
+
+title: "情绪神经科学 (Emotion Neuroscience)"
+description: "情绪神经科学 (Emotion Neuroscience)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["addiction", "anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是情绪神经科学"
+  - "情绪神经科学的核心概念"
+  - "情绪神经科学的方法与实践"
+trigger_keywords: ["情绪神经科学", "addiction", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 情绪神经科学 (Emotion Neuroscience)
 
 > **情绪神经科学 (Affective Neuroscience)**

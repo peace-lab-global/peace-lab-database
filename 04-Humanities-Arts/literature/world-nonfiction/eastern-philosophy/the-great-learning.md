@@ -1,3 +1,31 @@
+---
+
+title: "《大学》The Great Learning"
+description: "《大学》The Great Learning的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["ocd", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《大学》The Great Learning"
+  - "《大学》The Great Learning的核心概念"
+  - "《大学》The Great Learning的方法与实践"
+trigger_keywords: ["behavioral", "body", "emotion", "ocd"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 《大学》The Great Learning
 
 > 传为曾子（Zengzi，公元前505—前435年）所作，原为《礼记》中的一篇，经北宋程颢、程颐兄弟表彰，南宋朱熹列为"四书"之首，成为儒家经典的核心文本。全文约1700字，朱熹将其分为"经"（孔子之言，由曾子述之）和"传"（曾子之意，由其门人记之）两部分，并补写了"格物致知"传。

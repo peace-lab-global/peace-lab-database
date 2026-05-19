@@ -1,3 +1,31 @@
+---
+
+title: "特定情绪处理专项 (Specific Emotion Interventions)"
+description: "特定情绪处理专项 (Specific Emotion Interventions)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["anxiety", "attachment", "brain", "depression", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是特定情绪处理专项"
+  - "特定情绪处理专项的核心概念"
+  - "特定情绪处理专项的方法与实践"
+trigger_keywords: ["特定情绪处理专项", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 特定情绪处理专项 (Specific Emotion Interventions)
 
 > **特定情绪处理 (Emotion-Specific Interventions)**

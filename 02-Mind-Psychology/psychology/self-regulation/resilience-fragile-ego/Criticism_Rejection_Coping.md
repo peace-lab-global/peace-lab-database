@@ -1,3 +1,31 @@
+---
+
+title: "批评与拒绝应对"
+description: "批评与拒绝应对的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["brain", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是批评与拒绝应对"
+  - "批评与拒绝应对的核心概念"
+  - "批评与拒绝应对的方法与实践"
+trigger_keywords: ["批评与拒绝应对", "assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Ejaculation_Orgasm_Types.md"
+    relation: "communication/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
+    relation: "communication/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Overview.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 批评与拒绝应对
 
 ## 目录

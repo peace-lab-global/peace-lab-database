@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽导师自我关照（Yoga Instructor Self-Care）"
+description: "瑜伽导师自我关照（Yoga Instructor Self-Care）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Career Business"
+tags: ["social", "spirituality", "stress", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽导师自我关照（Yoga Instructor Self-Care）"
+  - "瑜伽导师自我关照（Yoga Instructor Self-Care）的核心概念"
+  - "瑜伽导师自我关照（Yoga Instructor Self-Care）的方法与实践"
+trigger_keywords: ["anxiety", "body", "exercise", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C5-1.md"
+    relation: "anxiety/exercise/sexuality"
+
+---
 # 瑜伽导师自我关照（Yoga Instructor Self-Care）
 
 > 教学是一场马拉松——瑜伽教师的可持续身心健康指南

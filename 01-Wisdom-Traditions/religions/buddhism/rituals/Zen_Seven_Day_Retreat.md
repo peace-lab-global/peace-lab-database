@@ -1,3 +1,31 @@
+---
+
+title: "禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)"
+description: "禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["decision-making", "meditation", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是禅宗打七仪轨"
+  - "禅宗打七仪轨的核心概念"
+  - "禅宗打七仪轨的方法与实践"
+trigger_keywords: ["禅宗打七仪轨", "act", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)
 
 > **禅七 (Chan Qi / Zen Sesshin)**：禅宗最核心的集体修行仪轨，源于佛陀在菩提树下七日证悟的典故。修行者七日之内禁语、禁足、禁卧，专一参究话头或默照禅，是禅宗「克期取证」的极致体现。

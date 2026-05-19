@@ -1,3 +1,31 @@
+---
+
+title: "脑波与脑机临床应用 (Clinical Applications)"
+description: "脑波与脑机临床应用 (Clinical Applications)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["addiction", "aging", "bci"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是脑波与脑机临床应用"
+  - "脑波与脑机临床应用的核心概念"
+  - "脑波与脑机临床应用的方法与实践"
+trigger_keywords: ["脑波与脑机临床应用", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 脑波与脑机临床应用 (Clinical Applications)
 
 > **目标**：系统化的脑波与脑机疗法临床应用，涵盖病理专项方案、特殊人群指南、疗法整合及循证基础。

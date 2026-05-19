@@ -1,3 +1,31 @@
+---
+
+title: "巴门尼德 (Parmenides)"
+description: "巴门尼德 (Parmenides)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["cbt", "healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴门尼德"
+  - "巴门尼德的核心概念"
+  - "巴门尼德的方法与实践"
+trigger_keywords: ["巴门尼德", "anxiety", "behavioral", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/emotion/sexuality"
+
+---
 # 巴门尼德 (Parmenides)
 
 ## 核心思想 (Core Ideas)

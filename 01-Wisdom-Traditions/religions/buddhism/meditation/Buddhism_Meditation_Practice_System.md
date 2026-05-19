@@ -1,3 +1,31 @@
+---
+
+title: "佛教禅修实践体系详论 (Buddhist Meditation Practice System)"
+description: "佛教禅修实践体系详论 (Buddhist Meditation Practice System)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > 冥想"
+tags: ["addiction", "buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教禅修实践体系详论"
+  - "佛教禅修实践体系详论的核心概念"
+  - "佛教禅修实践体系详论的方法与实践"
+trigger_keywords: ["佛教禅修实践体系详论", "act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_General.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/depression/emotion"
+
+---
 # 佛教禅修实践体系详论 (Buddhist Meditation Practice System)
 
 > **佛教禅修 (Buddhist Meditation Practice)**：通过系统化的修行方法，培养心的安定与智慧，最终达到解脱和觉悟的目标。涵盖止禅、观禅、生活禅等多种修习方式。

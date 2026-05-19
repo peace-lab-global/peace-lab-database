@@ -1,3 +1,31 @@
+---
+
+title: "窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)"
+description: "窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["anxiety", "brain", "act", "ocd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是窥淫癖临床评估指南"
+  - "窥淫癖临床评估指南的核心概念"
+  - "窥淫癖临床评估指南的方法与实践"
+trigger_keywords: ["窥淫癖临床评估指南", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/neuroscience/sexuality"
+
+---
 # 窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)
 
 > 🏥 **评估实践指南**: 本文档提供窥淫癖的标准化临床评估流程、诊断工具和鉴别诊断指导。建议结合[窥淫癖概览](Voyeurism_Pornography_Addiction_Overview.md)了解基础概念，参考[窥淫癖神经科学](Voyeurism_Neuroscience_Biology.md)理解生物学基础。

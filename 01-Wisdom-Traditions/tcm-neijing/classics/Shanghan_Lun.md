@@ -1,3 +1,31 @@
+---
+
+title: "伤寒论 (Shanghan Lun)"
+description: "伤寒论 (Shanghan Lun)的详细解析与实践指南"
+category: "智慧传承 > 中医内经 > Classics"
+tags: ["pain", "中医内经"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伤寒论"
+  - "伤寒论的核心概念"
+  - "伤寒论的方法与实践"
+trigger_keywords: ["伤寒论", "clinical", "pain", "sexuality", "中医内经"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "nutrition/pain/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "nutrition/pain/sexuality"
+  - path: "02-Mind-Psychology/meditation/kundalini-meditation/Kundalini_Safety_Screening.md"
+    relation: "nutrition/pain/sexuality"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Crisis_Protocol.md"
+    relation: "nutrition/pain/sexuality"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/INDEX.md"
+    relation: "nutrition/pain/sexuality"
+
+---
 # 伤寒论 (Shanghan Lun)
 
 ## 基本信息

@@ -1,3 +1,31 @@
+---
+
+title: "鲁迅 (Lu Xun) - 哲学思想全览"
+description: "鲁迅 (Lu Xun) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["healing", "loneliness", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是鲁迅  - 哲学思想全览"
+  - "鲁迅  - 哲学思想全览的核心概念"
+  - "鲁迅  - 哲学思想全览的方法与实践"
+trigger_keywords: ["art", "crisis", "developmental", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/exercise/personality"
+
+---
 # 鲁迅 (Lu Xun) - 哲学思想全览
 
 ## 基本信息

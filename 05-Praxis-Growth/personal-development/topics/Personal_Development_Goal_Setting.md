@@ -1,3 +1,31 @@
+---
+
+title: "Goal Setting & Execution 目标设定与执行"
+description: "Goal Setting & Execution 目标设定与执行的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Goal Setting & Execution 目标设定与执行"
+  - "Goal Setting & Execution 目标设定与执行的核心概念"
+  - "Goal Setting & Execution 目标设定与执行的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Goal Setting & Execution 目标设定与执行
 
 ## 核心术语与词源 (Core Terminology & Etymology)

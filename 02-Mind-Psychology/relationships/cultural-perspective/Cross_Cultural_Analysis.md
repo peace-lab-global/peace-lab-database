@@ -1,3 +1,31 @@
+---
+
+title: "约炮与出轨的跨文化视角 (Cross-Cultural Perspectives on Casual Sex and Infidelity)"
+description: "约炮与出轨的跨文化视角 (Cross-Cultural Perspectives on Casual Sex and Infidelity)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Cultural Perspective"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约炮与出轨的跨文化视角"
+  - "约炮与出轨的跨文化视角的核心概念"
+  - "约炮与出轨的跨文化视角的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "behavioral", "buddhism"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 约炮与出轨的跨文化视角 (Cross-Cultural Perspectives on Casual Sex and Infidelity)
 
 ## 文化差异分析框架

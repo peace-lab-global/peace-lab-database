@@ -1,3 +1,31 @@
+---
+
+title: "Eastern Philosophy: Classical Confucianism & Self-Cultivation (东方哲学：儒家经典与身心修齐)"
+description: "Eastern Philosophy: Classical Confucianism & Self-Cultivation (东方哲学：儒家经典与身心修齐)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Overview"
+tags: ["cbt", "leadership", "meditation", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Eastern Philosophy: Classical Confucianism & Self-Cultivation"
+  - "Eastern Philosophy: Classical Confucianism & Self-Cultivation的核心概念"
+  - "Eastern Philosophy: Classical Confucianism & Self-Cultivation的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Eastern Philosophy: Classical Confucianism & Self-Cultivation (东方哲学：儒家经典与身心修齐)
 
 ### I. The Core Taxonomy of Self-Cultivation (修身核心范畴表)

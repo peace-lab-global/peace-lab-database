@@ -1,3 +1,31 @@
+---
+
+title: "教育创新 | Educational Innovation"
+description: "教育创新 | Educational Innovation的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教育创新 | Educational Innovation"
+  - "教育创新 | Educational Innovation的核心概念"
+  - "教育创新 | Educational Innovation的方法与实践"
+trigger_keywords: ["教育创新", "art", "assessment", "child", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 教育创新 | Educational Innovation
 
 > **教育创新**（Educational Innovation）探索如何重新设计学习体验和教育系统——从项目式学习（Project-Based Learning）到混合式教学（Blended Learning），从终身学习体系（Lifelong Learning Systems）到教育公平（Educational Equity）。在知识爆炸和技术变革的时代，教育创新是培养未来人才的关键。本文件精选TED平台上关于教育创新的代表性演讲，帮助读者理解教育的变革趋势和创新实践。

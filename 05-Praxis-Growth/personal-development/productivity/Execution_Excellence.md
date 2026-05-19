@@ -1,3 +1,31 @@
+---
+
+title: "执行力与任务完成 (Execution Excellence)"
+description: "执行力与任务完成 (Execution Excellence)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 效率"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是执行力与任务完成"
+  - "执行力与任务完成的核心概念"
+  - "执行力与任务完成的方法与实践"
+trigger_keywords: ["执行力与任务完成", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 执行力与任务完成 (Execution Excellence)
 
 ## 目录 (Table of Contents)

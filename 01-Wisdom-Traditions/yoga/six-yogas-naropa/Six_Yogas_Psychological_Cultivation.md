@@ -1,3 +1,32 @@
+---
+
+title: "六瑜伽心理修炼专业内容体系"
+description: "六瑜伽心理修炼专业内容体系的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Six Yogas Naropa"
+tags: ["attachment", "buddhism", "habits", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是六瑜伽心理修炼专业内容体系"
+  - "六瑜伽心理修炼专业内容体系的核心概念"
+  - "六瑜伽心理修炼专业内容体系的方法与实践"
+  - "六瑜伽心理修炼专业内容体系的自助方法"
+trigger_keywords: ["assessment", "attachment", "body", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "attachment/buddhism/death"
+  - path: "GLOSSARY.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "README.md"
+    relation: "attachment/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/buddhism/emotion"
+
+---
 # 六瑜伽心理修炼专业内容体系
 
 ## 目录

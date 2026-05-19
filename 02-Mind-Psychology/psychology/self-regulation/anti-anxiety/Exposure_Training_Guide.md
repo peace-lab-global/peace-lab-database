@@ -1,3 +1,31 @@
+---
+
+title: "暴露训练指南"
+description: "暴露训练指南的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "brain", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是暴露训练指南"
+  - "暴露训练指南的核心概念"
+  - "暴露训练指南的方法与实践"
+trigger_keywords: ["暴露训练指南", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 暴露训练指南
 
 ## 目录

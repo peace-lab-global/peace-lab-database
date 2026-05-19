@@ -1,3 +1,32 @@
+---
+
+title: "《心理学与炼金术》Psychology and Alchemy"
+description: "《心理学与炼金术》Psychology and Alchemy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["depression", "jung", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《心理学与炼金术》Psychology and Alchemy"
+  - "《心理学与炼金术》Psychology and Alchemy的核心概念"
+  - "《心理学与炼金术》Psychology and Alchemy的方法与实践"
+  - "《心理学与炼金术》Psychology and Alchemy的自助方法"
+trigger_keywords: ["buddhism", "death", "depression", "jung"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md"
+    relation: "buddhism/death/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "buddhism/death/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Water_Land_Dharma.md"
+    relation: "buddhism/death/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Funeral_Rites.md"
+    relation: "buddhism/death/depression"
+
+---
 # 《心理学与炼金术》Psychology and Alchemy
 
 > 卡尔·荣格（Carl Jung）著，1944年出版。荣格最庞大的单卷著作之一，展示了炼金术不是"前化学"的迷信，而是**一种关于心灵转化的象征性语言**。炼金术士追求的"点石成金"，实际上是**个体化的过程**——从"铅"（未觉醒的自我）到"金"（完整的自性）。

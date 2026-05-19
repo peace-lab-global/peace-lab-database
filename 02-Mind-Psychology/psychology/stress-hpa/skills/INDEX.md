@@ -1,3 +1,31 @@
+---
+
+title: "Stress & HPA Axis Agent Skills | 技能索引"
+description: "Stress & HPA Axis Agent Skills | 技能索引的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Skills"
+tags: ["anxiety", "cortisol", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stress & HPA Axis Agent Skills | 技能索引"
+  - "Stress & HPA Axis Agent Skills | 技能索引的核心概念"
+  - "Stress & HPA Axis Agent Skills | 技能索引的方法与实践"
+trigger_keywords: ["技能索引", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/stress"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/stress"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/emotion/stress"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/stress"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/emotion/stress"
+
+---
 # Stress & HPA Axis Agent Skills | 技能索引
 
 > 面向智能体的压力与HPA轴调节技能模块。智能体通过遵循[`_protocol.md`](_protocol.md)协议和[`_manifest.md`](_manifest.md)注册清单，可对用户的压力相关问题进行评估、决策辅助和干预指导。

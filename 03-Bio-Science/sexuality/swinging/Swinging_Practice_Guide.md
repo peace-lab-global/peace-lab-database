@@ -1,3 +1,31 @@
+---
+
+title: "换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)"
+description: "换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Swinging"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是换妻实践指导与风险管理手册"
+  - "换妻实践指导与风险管理手册的核心概念"
+  - "换妻实践指导与风险管理手册的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/09-Organization-Integration.md"
+    relation: "communication/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)
 
 ## 实践准备与决策框架

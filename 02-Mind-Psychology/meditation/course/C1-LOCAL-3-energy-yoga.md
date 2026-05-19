@@ -1,3 +1,31 @@
+---
+
+title: "C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽"
+description: "C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "daoism", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽"
+  - "C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽的核心概念"
+  - "C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "daoism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "daoism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "daoism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C1-LOCAL-3 直接认知冥想线下精品课：能量瑜伽
 📑 智能总结
 

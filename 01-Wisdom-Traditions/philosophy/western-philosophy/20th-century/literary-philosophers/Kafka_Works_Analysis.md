@@ -1,3 +1,31 @@
+---
+
+title: "卡夫卡主要作品深度分析"
+description: "卡夫卡主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是卡夫卡主要作品深度分析"
+  - "卡夫卡主要作品深度分析的核心概念"
+  - "卡夫卡主要作品深度分析的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "README.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+
+---
 # 卡夫卡主要作品深度分析
 
 ## 《审判》(Der Prozess, 1925)

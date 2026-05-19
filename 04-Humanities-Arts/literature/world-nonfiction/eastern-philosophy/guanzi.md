@@ -1,3 +1,31 @@
+---
+
+title: "《管子》Guanzi"
+description: "《管子》Guanzi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "intervention", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《管子》Guanzi"
+  - "《管子》Guanzi的核心概念"
+  - "《管子》Guanzi的方法与实践"
+trigger_keywords: ["《管子》Guanzi", "daoism", "developmental", "exercise", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/daoism/exercise"
+
+---
 # 《管子》Guanzi
 
 > 托名管仲（Guan Zhong，约公元前723—前645年）所作，实际成书于战国至秦汉之际，由稷下学宫的学者陆续编纂而成。全书原本86篇，今存76篇，内容涵盖政治、经济、军事、哲学、天文、历法、农学等多个领域。管仲是春秋时期齐国名相，辅佐齐桓公成为春秋首霸，但《管子》书中的大部分内容并非出自管仲之手，而是后世学者借管仲之名阐述自己的思想。

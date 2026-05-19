@@ -1,3 +1,31 @@
+---
+
+title: "The Guru Drinks Bourbon? | 上师也喝酒？"
+description: "The Guru Drinks Bourbon? | 上师也喝酒？的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > The Guru Drinks Bourbon"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Guru Drinks Bourbon? | 上师也喝酒？"
+  - "The Guru Drinks Bourbon? | 上师也喝酒？的核心概念"
+  - "The Guru Drinks Bourbon? | 上师也喝酒？的方法与实践"
+trigger_keywords: ["上师也喝酒？", "buddhism", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality"
+
+---
 # The Guru Drinks Bourbon? | 上师也喝酒？
 
 > 宗萨蒋扬钦哲仁波切著，2016年出版。关于金刚乘上师-弟子关系的坦诚指南。

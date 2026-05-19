@@ -1,3 +1,31 @@
+---
+
+title: "那洛六法 (Six Yogas of Naropa)"
+description: "那洛六法 (Six Yogas of Naropa)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Six Yogas Naropa"
+tags: ["buddhism", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是那洛六法"
+  - "那洛六法的核心概念"
+  - "那洛六法的方法与实践"
+trigger_keywords: ["那洛六法", "act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "README.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+
+---
 # 那洛六法 (Six Yogas of Naropa)
 
 > **那洛六法 (Six Yogas of Naropa)**：藏传佛教无上瑜伽续圆满次第的核心修法体系，通过气脉明点的操控实现即身成佛。

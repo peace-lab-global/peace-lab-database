@@ -1,3 +1,31 @@
+---
+
+title: "热量限制与长寿 | Caloric Restriction & Longevity"
+description: "热量限制与长寿 | Caloric Restriction & Longevity的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
+tags: ["aging", "cardiovascular", "cortisol", "fasting", "nutrition", "longevity"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是热量限制与长寿 | Caloric Restriction & Longevity"
+  - "热量限制与长寿 | Caloric Restriction & Longevity的核心概念"
+  - "热量限制与长寿 | Caloric Restriction & Longevity的方法与实践"
+trigger_keywords: ["热量限制与长寿", "adolescent", "aging", "assessment", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/communication/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/INDEX.md"
+    relation: "aging/cardiovascular/communication"
+
+---
 # 热量限制与长寿 | Caloric Restriction & Longevity
 
 > **核心主题**: 热量限制（CR）作为最经典、最可靠的长寿干预手段的科学基础与实践

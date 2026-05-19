@@ -1,3 +1,31 @@
+---
+
+title: "Sleep & Dreams (睡眠优化与梦境研究)"
+description: "Sleep & Dreams (睡眠优化与梦境研究)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
+tags: ["brain", "cbt", "cortisol", "sleep", "act", "insomnia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sleep & Dreams"
+  - "Sleep & Dreams的核心概念"
+  - "Sleep & Dreams的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Sleep & Dreams (睡眠优化与梦境研究)
 
 ### Sleep Architecture & Mental Restoration (睡眠结构与心理修复)

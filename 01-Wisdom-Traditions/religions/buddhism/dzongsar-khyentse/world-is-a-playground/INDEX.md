@@ -1,3 +1,31 @@
+---
+
+title: "World Is a Playground | 人间是剧场"
+description: "World Is a Playground | 人间是剧场的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > World Is A Playground"
+tags: ["buddhism", "dzogchen", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是World Is a Playground | 人间是剧场"
+  - "World Is a Playground | 人间是剧场的核心概念"
+  - "World Is a Playground | 人间是剧场的方法与实践"
+trigger_keywords: ["人间是剧场", "buddhism", "dzogchen", "sexuality", "佛教"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality"
+
+---
 # World Is a Playground | 人间是剧场
 
 > 宗萨蒋扬钦哲仁波切开示合集，以"人间如剧场"为核心比喻，阐释金刚乘修行的核心要义。

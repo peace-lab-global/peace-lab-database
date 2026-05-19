@@ -1,3 +1,31 @@
+---
+
+title: "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT"
+description: "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的详细解析与实践指南"
+category: "实践与个人增长 > 写作 > Technical Writing"
+tags: ["communication", "decision-making", "leadership", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT"
+  - "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的核心概念"
+  - "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的方法与实践"
+trigger_keywords: ["IT技术写作概览", "act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT
 
 > **IT技术写作**是连接技术与用户的桥梁，是软件开发和产品成功的关键环节。本文档系统阐述技术写作的核心原则、文档类型、写作规范和最佳实践，为技术写作者提供全面的专业指导。

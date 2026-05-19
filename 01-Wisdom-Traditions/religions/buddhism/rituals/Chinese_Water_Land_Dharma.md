@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)"
+description: "汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "suicide", "yoga", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传佛教水陆法会仪轨"
+  - "汉传佛教水陆法会仪轨的核心概念"
+  - "汉传佛教水陆法会仪轨的方法与实践"
+trigger_keywords: ["汉传佛教水陆法会仪轨", "buddhism", "death", "developmental", "suicide"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/depression/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/depression/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+    relation: "buddhism/depression/meditation"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/depression"
+
+---
 # 汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)
 
 > **水陆法会 (Water-Land Dharma Assembly / Shuilu Fahui)**：汉传佛教最盛大、最庄严的超度法会，全称"法界圣凡水陆普度大斋胜会"。历时七至四十九天，超度水陆空一切孤魂亡灵，普济六道众生。

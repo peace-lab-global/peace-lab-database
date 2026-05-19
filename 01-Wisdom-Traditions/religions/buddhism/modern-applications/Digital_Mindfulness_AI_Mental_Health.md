@@ -1,3 +1,32 @@
+---
+
+title: "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康"
+description: "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Modern Applications"
+tags: ["bci", "buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康"
+  - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的核心概念"
+  - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的方法与实践"
+  - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的自助方法"
+trigger_keywords: ["act", "anxiety", "bci", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康
 
 ## 佛教智慧的科技整合与未来方向 (Buddhist Wisdom Integration with Technology)

@@ -1,3 +1,31 @@
+---
+
+title: "Practical Toolkit"
+description: "Practical Toolkit的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "attachment", "brain", "ocd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是Practical Toolkit"
+  - "Practical Toolkit的核心概念"
+  - "Practical Toolkit的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/depression/emotion"
+
+---
 ## 8. 实操工具包
 
 > **使用原则**：以下工具按"即时稳定 → 日常练习 → 深度转化 → 复发预防"四级组织。建议根据当前状态选择对应工具，而非一次性使用全部。

@@ -1,3 +1,31 @@
+---
+
+title: "Prenatal & Postnatal Yoga 孕产期体式"
+description: "Prenatal & Postnatal Yoga 孕产期体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["habits", "treatment", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Prenatal & Postnatal Yoga 孕产期体式"
+  - "Prenatal & Postnatal Yoga 孕产期体式的核心概念"
+  - "Prenatal & Postnatal Yoga 孕产期体式的方法与实践"
+trigger_keywords: ["breathwork", "exercise", "habits", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+    relation: "cardiovascular/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "cardiovascular/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
+    relation: "cardiovascular/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
+    relation: "cardiovascular/exercise/productivity"
+
+---
 # Prenatal & Postnatal Yoga 孕产期体式
 
 ## 孕期各阶段安全体式指南

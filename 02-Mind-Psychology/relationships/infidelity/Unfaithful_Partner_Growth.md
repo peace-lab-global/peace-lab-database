@@ -1,3 +1,31 @@
+---
+
+title: "出轨者的自我觉察与改变"
+description: "出轨者的自我觉察与改变的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是出轨者的自我觉察与改变"
+  - "出轨者的自我觉察与改变的核心概念"
+  - "出轨者的自我觉察与改变的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 出轨者的自我觉察与改变
 
 > 出轨者的心理转变路径、责任承担与成长指南

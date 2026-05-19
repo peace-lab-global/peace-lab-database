@@ -1,3 +1,31 @@
+---
+
+title: "Living Is Dying | 活着即是迈向死亡"
+description: "Living Is Dying | 活着即是迈向死亡的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Living Is Dying"
+tags: ["buddhism", "dzogchen", "philosophy", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Living Is Dying | 活着即是迈向死亡"
+  - "Living Is Dying | 活着即是迈向死亡的核心概念"
+  - "Living Is Dying | 活着即是迈向死亡的方法与实践"
+trigger_keywords: ["活着即是迈向死亡", "buddhism", "death", "dzogchen", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # Living Is Dying | 活着即是迈向死亡
 
 > 宗萨蒋扬钦哲仁波切著，关于死亡、无常与中阴教法的深度开示。

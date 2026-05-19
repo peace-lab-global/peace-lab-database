@@ -1,3 +1,21 @@
+---
+
+title: "奥古斯丁 (Augustine of Hippo)"
+description: "奥古斯丁 (Augustine of Hippo)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Christian"
+tags: ["healing", "philosophy", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是奥古斯丁"
+  - "奥古斯丁的核心概念"
+  - "奥古斯丁的方法与实践"
+trigger_keywords: ["奥古斯丁", "behavioral", "cognitive", "developmental", "healing"]
+cross_refs: []
+
+---
 # 奥古斯丁 (Augustine of Hippo)
 
 ## 核心思想 (Core Ideas)

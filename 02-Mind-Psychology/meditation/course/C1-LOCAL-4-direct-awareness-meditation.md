@@ -1,3 +1,31 @@
+---
+
+title: "C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践"
+description: "C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践"
+  - "C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践的核心概念"
+  - "C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # C1-LOCAL-4 直接认知冥想线下精品课：直接认知冥想理论与实践
 
 📑 智能总结

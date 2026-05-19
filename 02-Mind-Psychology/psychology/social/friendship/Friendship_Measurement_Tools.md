@@ -1,3 +1,31 @@
+---
+
+title: "友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας"
+description: "友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας"
+  - "友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας的核心概念"
+  - "友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας的方法与实践"
+trigger_keywords: ["友谊测量工具体系", "adolescent", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Cultural_Origins.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 友谊测量工具体系 | Friendship Measurement Toolkit | Εργαλειοθήκη Μέτρησης Φιλίας
 
 > **友谊测量工具体系**提供全面的友谊质量、友谊类型和友谊功能的标准化评估工具，涵盖自评量表、行为观察、访谈指南等多种测量方法，为友谊研究、心理咨询和关系干预提供科学的测量框架和实施指导。

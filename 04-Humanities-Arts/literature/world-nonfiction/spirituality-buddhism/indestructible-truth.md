@@ -1,3 +1,31 @@
+---
+
+title: "《不坏真理》Indestructible Truth"
+description: "《不坏真理》Indestructible Truth的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不坏真理》Indestructible Truth"
+  - "《不坏真理》Indestructible Truth的核心概念"
+  - "《不坏真理》Indestructible Truth的方法与实践"
+trigger_keywords: ["buddhism", "death", "developmental", "dzogchen"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/advanced/Buddhism_Advanced_Practice_Topics.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Yamantaka.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 《不坏真理》Indestructible Truth
 
 >  雷吉·瑞伊（Reginald A. Ray）著，2000年出版。美国佛教学者、香巴拉训练的高级导师。这本书是藏传佛教历史的全面介绍，从印度起源到西藏发展，再到西方传播。被称为"西方语言中关于藏传佛教历史最可靠的著作"。

@@ -1,3 +1,31 @@
+---
+
+title: "AI经济学 | AI Economics"
+description: "AI经济学 | AI Economics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "productivity", "讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是AI经济学 | AI Economics"
+  - "AI经济学 | AI Economics的核心概念"
+  - "AI经济学 | AI Economics的方法与实践"
+trigger_keywords: ["AI经济学", "cognitive", "decision-making", "developmental", "productivity"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
+    relation: "communication/productivity/sexuality"
+
+---
 # AI经济学 | AI Economics
 
 > **AI经济学**（AI Economics）研究人工智能对经济系统的深刻影响——从劳动市场（Labor Markets）到产业组织（Industrial Organization），从生产力增长（Productivity Growth）到收入分配（Income Distribution）。AI正在重塑经济增长的模式和财富分配的格局。本文件精选TED平台上关于AI经济学的代表性演讲，帮助读者理解AI时代的经济逻辑和政策选择。

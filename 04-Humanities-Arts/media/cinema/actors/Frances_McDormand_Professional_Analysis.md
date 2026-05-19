@@ -1,3 +1,31 @@
+---
+
+title: "Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量"
+description: "Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
+tags: ["cinema", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量"
+  - "Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量的核心概念"
+  - "Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # Frances McDormand 专业分析：独立电影女王的艺术坚持与女性力量
 
 ## 摘要 (Abstract)

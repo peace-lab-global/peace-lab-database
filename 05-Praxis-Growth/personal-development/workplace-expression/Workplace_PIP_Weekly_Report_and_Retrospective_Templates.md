@@ -1,3 +1,31 @@
+---
+
+title: "PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)"
+description: "PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["productivity", "个人发展", "negotiation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是PIP周报/复盘模板"
+  - "PIP周报/复盘模板的核心概念"
+  - "PIP周报/复盘模板的方法与实践"
+trigger_keywords: ["PIP周报", "复盘模板", "assessment", "emotion", "productivity", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/emotion/productivity"
+
+---
 # PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)
 
 > **定位**：提供适用于绩效改进计划执行期的周报、周会纪要、中期复盘和结案复盘模板

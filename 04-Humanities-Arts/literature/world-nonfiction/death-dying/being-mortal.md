@@ -1,3 +1,31 @@
+---
+
+title: "《最好的告别》Being Mortal"
+description: "《最好的告别》Being Mortal的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["immune"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《最好的告别》Being Mortal"
+  - "《最好的告别》Being Mortal的核心概念"
+  - "《最好的告别》Being Mortal的方法与实践"
+trigger_keywords: ["act", "aging", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # 《最好的告别》Being Mortal
 
 > 阿图·葛文德（Atul Gawande）著，2014年出版。哈佛外科教授、麦克阿瑟天才奖得主，以医生的冷静与作家的温度，追问一个被现代医学长期回避的问题：衰老和死亡是医学的失败吗？

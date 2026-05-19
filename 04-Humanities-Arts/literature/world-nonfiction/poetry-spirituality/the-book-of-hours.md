@@ -1,3 +1,31 @@
+---
+
+title: "《时祷书》The Book of Hours"
+description: "《时祷书》The Book of Hours的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《时祷书》The Book of Hours"
+  - "《时祷书》The Book of Hours的核心概念"
+  - "《时祷书》The Book of Hours的方法与实践"
+trigger_keywords: ["buddhism", "death", "meditation", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《时祷书》The Book of Hours
 
 > 赖内·马利亚·里尔克（Rainer Maria Rilke）著，1905年出版。里尔克早期最重要的作品，以基督教"时祷书"（祈祷书）的形式写成，但内容已经完全"世俗化"——祈祷的对象不是上帝，而是**生命本身、美本身、死亡本身**。这本书标志着里尔克从基督教传统向"存在主义灵性"的转化。

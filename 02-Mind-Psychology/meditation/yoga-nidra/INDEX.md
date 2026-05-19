@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base"
+description: "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Nidra"
+tags: ["anxiety", "brain", "neuroscience", "pain", "sleep"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base"
+  - "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的核心概念"
+  - "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的方法与实践"
+trigger_keywords: ["anxiety", "brain", "clinical", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
+    relation: "anxiety/exercise/meditation"
+
+---
 # 瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base
 
 > **最后更新**：2026-04

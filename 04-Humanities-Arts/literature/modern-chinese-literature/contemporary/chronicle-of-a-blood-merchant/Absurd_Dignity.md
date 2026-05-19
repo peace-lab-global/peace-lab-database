@@ -1,3 +1,31 @@
+---
+
+title: "荒诞中的尊严——许三观式的活法"
+description: "荒诞中的尊严——许三观式的活法的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
+tags: ["stress", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是荒诞中的尊严——许三观式的活法"
+  - "荒诞中的尊严——许三观式的活法的核心概念"
+  - "荒诞中的尊严——许三观式的活法的方法与实践"
+trigger_keywords: ["behavioral", "body", "emotion", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/emotion/sexuality"
+
+---
 # 荒诞中的尊严——许三观式的活法
 
 ## 笑着把苦日子过下去，这算不算一种哲学？

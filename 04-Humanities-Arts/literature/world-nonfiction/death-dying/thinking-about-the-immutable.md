@@ -1,3 +1,31 @@
+---
+
+title: "《无常的思考》Thoughts on the Impermanent"
+description: "《无常的思考》Thoughts on the Impermanent的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《无常的思考》Thoughts on the Impermanent"
+  - "《无常的思考》Thoughts on the Impermanent的核心概念"
+  - "《无常的思考》Thoughts on the Impermanent的方法与实践"
+trigger_keywords: ["buddhism", "death", "meditation", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《无常的思考》Thoughts on the Impermanent
 
 > 基于无常主题的跨文化冥想文集概念。本书汇集了东西方思想家对无常与死亡的反思——从佛教的无常观到斯多葛的节制，从日本的物哀到拉美的生死一体观。这不是单一作者的书，而是一个"思想的地图"。

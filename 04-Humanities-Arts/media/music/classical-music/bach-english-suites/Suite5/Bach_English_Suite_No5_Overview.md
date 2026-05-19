@@ -1,3 +1,31 @@
+---
+
+title: "巴赫《英国组曲第五号》综合指南"
+description: "巴赫《英国组曲第五号》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach English Suites > Suite5"
+tags: ["healing", "music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴赫《英国组曲第五号》综合指南"
+  - "巴赫《英国组曲第五号》综合指南的核心概念"
+  - "巴赫《英国组曲第五号》综合指南的方法与实践"
+trigger_keywords: ["art", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/exercise"
+  - path: "README.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 巴赫《英国组曲第五号》综合指南
 
 ## 作品基本信息

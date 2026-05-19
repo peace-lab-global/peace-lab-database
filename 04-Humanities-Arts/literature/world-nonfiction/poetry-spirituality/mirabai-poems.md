@@ -1,3 +1,31 @@
+---
+
+title: "《米拉拜诗集》Poems of Mirabai"
+description: "《米拉拜诗集》Poems of Mirabai的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["spirituality", "yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《米拉拜诗集》Poems of Mirabai"
+  - "《米拉拜诗集》Poems of Mirabai的核心概念"
+  - "《米拉拜诗集》Poems of Mirabai的方法与实践"
+trigger_keywords: ["body", "buddhism", "death", "exercise"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/death"
+
+---
 # 《米拉拜诗集》Poems of Mirabai
 
 > 米拉拜（Mirabai，约1498–1546年）。印度拉贾斯坦邦的公主，印度教虔诚运动（Bhakti）最重要的女性诗人。她放弃了王室生活，成为克里希纳（Krishna）的狂热爱者。她的诗以极其个人化、极其情感化的方式表达了对神的爱——这种爱不是抽象的，而是**像情人对爱人的渴望一样具体**。

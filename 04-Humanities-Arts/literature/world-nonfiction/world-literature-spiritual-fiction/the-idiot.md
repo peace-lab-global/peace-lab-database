@@ -1,3 +1,31 @@
+---
+
+title: "《白痴》The Idiot"
+description: "《白痴》The Idiot的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["addiction", "literature", "marriage", "ocd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《白痴》The Idiot"
+  - "《白痴》The Idiot的核心概念"
+  - "《白痴》The Idiot的方法与实践"
+trigger_keywords: ["addiction", "brain", "child", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
+    relation: "anxiety/attachment/death"
+
+---
 # 《白痴》The Idiot
 
 **作者：** 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

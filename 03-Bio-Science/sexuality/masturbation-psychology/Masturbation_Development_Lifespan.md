@@ -1,3 +1,31 @@
+---
+
+title: "Masturbation Across the Lifespan: A Developmental Psychology Perspective (自慰行为的发展心理学视角：生命周期纵览)"
+description: "Masturbation Across the Lifespan: A Developmental Psychology Perspective (自慰行为的发展心理学视角：生命周期纵览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
+tags: ["aging"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Masturbation Across the Lifespan: A Developmental Psychology Perspective"
+  - "Masturbation Across the Lifespan: A Developmental Psychology Perspective的核心概念"
+  - "Masturbation Across the Lifespan: A Developmental Psychology Perspective的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # Masturbation Across the Lifespan: A Developmental Psychology Perspective (自慰行为的发展心理学视角：生命周期纵览)
 
 > 基于发展心理学与流行病学研究，系统梳理自慰行为在各生命阶段的表现特征、心理意义与适应性功能。内容遵循循证原则，旨在提供发展性正常化框架，支持各年龄阶段的性健康教育与临床评估。

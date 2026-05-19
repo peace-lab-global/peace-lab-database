@@ -1,3 +1,32 @@
+---
+
+title: "极简主义对心理健康的影响 (Mental Health Impact of Minimalism)"
+description: "极简主义对心理健康的影响 (Mental Health Impact of Minimalism)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 极简主义"
+tags: ["addiction", "attachment", "minimalism"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是极简主义对心理健康的影响"
+  - "极简主义对心理健康的影响的核心概念"
+  - "极简主义对心理健康的影响的方法与实践"
+  - "极简主义对心理健康的影响的自助方法"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 极简主义对心理健康的影响 (Mental Health Impact of Minimalism)
 
 ## 1. 心理健康益处 (Mental Health Benefits)

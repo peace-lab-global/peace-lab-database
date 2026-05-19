@@ -1,3 +1,31 @@
+---
+
+title: "分类法与架构决策 (Taxonomy & Architecture Decisions)"
+description: "分类法与架构决策 (Taxonomy & Architecture Decisions)的详细解析与实践指南"
+category: "general"
+tags: ["addiction", "ballet", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是分类法与架构决策"
+  - "分类法与架构决策的核心概念"
+  - "分类法与架构决策的方法与实践"
+trigger_keywords: ["分类法与架构决策", "act", "addiction", "art", "ballet"]
+cross_refs:
+  - path: "README.md"
+    relation: "buddhism/communication/daoism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "buddhism/daoism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "buddhism/daoism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 分类法与架构决策 (Taxonomy & Architecture Decisions)
 
 > 本文档记录 Peace Lab Database 的分类原则、决策树与架构设计理由。

@@ -1,3 +1,31 @@
+---
+
+title: "music | 音乐艺术与疗愈"
+description: "music | 音乐艺术与疗愈的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐"
+tags: ["ballet", "healing", "loneliness", "music", "music-therapy", "classical-music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是music | 音乐艺术与疗愈"
+  - "music | 音乐艺术与疗愈的核心概念"
+  - "music | 音乐艺术与疗愈的方法与实践"
+trigger_keywords: ["music", "音乐艺术与疗愈", "art", "ballet", "brain", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/neuroscience/therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/neuroscience/therapy"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "art_therapy/neuroscience/therapy"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/neuroscience/therapy"
+
+---
 # music | 音乐艺术与疗愈
 
 > 古典音乐、民族音乐与音乐疗法的综合知识库

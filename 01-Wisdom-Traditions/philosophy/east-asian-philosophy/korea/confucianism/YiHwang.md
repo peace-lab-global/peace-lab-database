@@ -1,3 +1,31 @@
+---
+
+title: "退溪李滉 (Yi Hwang/T'oegye)"
+description: "退溪李滉 (Yi Hwang/T'oegye)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
+tags: ["healing", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是退溪李滉"
+  - "退溪李滉的核心概念"
+  - "退溪李滉的方法与实践"
+trigger_keywords: ["退溪李滉", "cognitive", "developmental", "emotion", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/10-Contraindications.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "emotion/personality/sexuality"
+
+---
 # 退溪李滉 (Yi Hwang/T'oegye)
 ## 核心思想 (Core Ideas)
 | 概念 | 韩语 | 解释 | 影响 |

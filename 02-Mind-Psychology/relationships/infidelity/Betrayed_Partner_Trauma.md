@@ -1,3 +1,32 @@
+---
+
+title: "被出轨方心理创伤干预"
+description: "被出轨方心理创伤干预的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["addiction", "anxiety", "attachment", "emdr", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是被出轨方心理创伤干预"
+  - "被出轨方心理创伤干预的核心概念"
+  - "被出轨方心理创伤干预的方法与实践"
+  - "被出轨方心理创伤干预的自助方法"
+trigger_keywords: ["被出轨方心理创伤干预", "addiction", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/death/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+
+---
 # 被出轨方心理创伤干预
 
 > 背叛创伤的临床识别、治疗技术与康复路径

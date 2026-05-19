@@ -1,3 +1,31 @@
+---
+
+title: "维瓦尔第音乐疗愈 (Vivaldi Music Therapy)"
+description: "维瓦尔第音乐疗愈 (Vivaldi Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["healing", "music"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是维瓦尔第音乐疗愈"
+  - "维瓦尔第音乐疗愈的核心概念"
+  - "维瓦尔第音乐疗愈的方法与实践"
+trigger_keywords: ["维瓦尔第音乐疗愈", "act", "clinical", "developmental", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 维瓦尔第音乐疗愈 (Vivaldi Music Therapy)
 
 > **安东尼奥·卢奇奥·维瓦尔第 (Antonio Lucio Vivaldi, 1678-1741)**

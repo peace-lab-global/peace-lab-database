@@ -6,6 +6,17 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md"
+    relation: "anxiety/body_image/emotion"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/body_image/emotion"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "anxiety/body_image/emotion"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "anxiety/body_image/emotion"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "anxiety/body_image/emotion"
 ---
 
 # 身体羞耻障碍术语词典与标准规范

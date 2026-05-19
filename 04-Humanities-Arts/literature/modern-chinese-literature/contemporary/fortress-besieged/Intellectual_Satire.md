@@ -1,3 +1,31 @@
+---
+
+title: "知识分子的画皮——学历、体面与虚空"
+description: "知识分子的画皮——学历、体面与虚空的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是知识分子的画皮——学历、体面与虚空"
+  - "知识分子的画皮——学历、体面与虚空的核心概念"
+  - "知识分子的画皮——学历、体面与虚空的方法与实践"
+trigger_keywords: ["体面与虚空", "art", "developmental", "literature", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/sexuality"
+
+---
 # 知识分子的画皮——学历、体面与虚空
 
 ## 方鸿渐的假文凭揭开了什么

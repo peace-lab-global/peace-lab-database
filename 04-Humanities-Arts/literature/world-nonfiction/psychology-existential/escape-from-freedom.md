@@ -1,3 +1,31 @@
+---
+
+title: "《逃避自由》Escape from Freedom"
+description: "《逃避自由》Escape from Freedom的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["freud", "loneliness", "personality", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《逃避自由》Escape from Freedom"
+  - "《逃避自由》Escape from Freedom的核心概念"
+  - "《逃避自由》Escape from Freedom的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "buddhism", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 《逃避自由》Escape from Freedom
 
 > 艾里希·弗洛姆（Erich Fromm）著，1941年出版。二战期间写于美国，试图回答一个令当时知识分子困惑的问题：为什么德国——欧洲最文明的国家之一——会拥抱希特勒和纳粹主义？弗洛姆的答案是：**因为自由太可怕了，人们宁愿交出自由来换取安全感。**

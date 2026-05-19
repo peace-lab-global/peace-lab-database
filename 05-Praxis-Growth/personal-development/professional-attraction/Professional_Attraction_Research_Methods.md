@@ -1,3 +1,31 @@
+---
+
+title: "Professional Attraction Research Methods (职业吸引研究方法)"
+description: "Professional Attraction Research Methods (职业吸引研究方法)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction"
+tags: ["flow"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Professional Attraction Research Methods"
+  - "Professional Attraction Research Methods的核心概念"
+  - "Professional Attraction Research Methods的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "exercise/neuroscience/productivity"
+
+---
 # Professional Attraction Research Methods (职业吸引研究方法)
 
 > 📘 **文档导航**: 本指南系统阐述职业吸引现象的科学研究方法和实证研究策略。相关文档：

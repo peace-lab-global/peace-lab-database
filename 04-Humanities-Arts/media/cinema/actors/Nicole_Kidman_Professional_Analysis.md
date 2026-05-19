@@ -1,3 +1,31 @@
+---
+
+title: "Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变"
+description: "Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变"
+  - "Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变的核心概念"
+  - "Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变的方法与实践"
+trigger_keywords: ["act", "art", "body", "cinema"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # Nicole Kidman 专业分析：澳洲影星的国际化历程与艺术蜕变
 
 ## 摘要 (Abstract)

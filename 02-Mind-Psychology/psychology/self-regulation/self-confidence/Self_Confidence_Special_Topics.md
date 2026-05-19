@@ -1,3 +1,31 @@
+---
+
+title: "Self-Confidence: Special Topics (自信的特殊场景)"
+description: "Self-Confidence: Special Topics (自信的特殊场景)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Self Confidence"
+tags: ["anxiety", "brain", "cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Self-Confidence: Special Topics"
+  - "Self-Confidence: Special Topics的核心概念"
+  - "Self-Confidence: Special Topics的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Self-Confidence: Special Topics (自信的特殊场景)
 
 > **场景化的自信 (Confidence in Context / Fiducia in Contextu)**

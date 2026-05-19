@@ -1,3 +1,32 @@
+---
+
+title: "数字与传统囤积癖整合治疗方法 (Integrated Treatment for Digital and Physical Hoarding)"
+description: "数字与传统囤积癖整合治疗方法 (Integrated Treatment for Digital and Physical Hoarding)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
+tags: ["anxiety", "cbt", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字与传统囤积癖整合治疗方法"
+  - "数字与传统囤积癖整合治疗方法的核心概念"
+  - "数字与传统囤积癖整合治疗方法的方法与实践"
+  - "数字与传统囤积癖整合治疗方法的循证证据"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 数字与传统囤积癖整合治疗方法 (Integrated Treatment for Digital and Physical Hoarding)
 
 ## 1. 整合治疗概述 (Integrated Treatment Overview)

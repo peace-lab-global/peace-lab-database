@@ -1,3 +1,32 @@
+---
+
+title: "绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)"
+description: "绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是绘画疗法核心术语与理论体系"
+  - "绘画疗法核心术语与理论体系的核心概念"
+  - "绘画疗法核心术语与理论体系的方法与实践"
+  - "绘画疗法核心术语与理论体系的循证证据"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)
 
 > **专业术语标准化与理论框架**

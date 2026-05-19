@@ -1,3 +1,31 @@
+---
+
+title: "Schizophrenia Self-Assessment & Screening (精神分裂症评估与筛查指南)"
+description: "Schizophrenia Self-Assessment & Screening (精神分裂症评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizophrenia"
+tags: ["anxiety", "brain", "schizophrenia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Schizophrenia Self-Assessment & Screening"
+  - "Schizophrenia Self-Assessment & Screening的核心概念"
+  - "Schizophrenia Self-Assessment & Screening的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Schizophrenia Self-Assessment & Screening (精神分裂症评估与筛查指南)
 
 > **精神分裂症评估与筛查 (Schizophrenia Assessment & Screening)**

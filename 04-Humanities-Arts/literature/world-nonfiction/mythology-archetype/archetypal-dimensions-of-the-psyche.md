@@ -1,3 +1,32 @@
+---
+
+title: "《心理的原型维度》Archetypal Dimensions of the Psyche"
+description: "《心理的原型维度》Archetypal Dimensions of the Psyche的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《心理的原型维度》Archetypal Dimensions of the Psyche"
+  - "《心理的原型维度》Archetypal Dimensions of the Psyche的核心概念"
+  - "《心理的原型维度》Archetypal Dimensions of the Psyche的方法与实践"
+  - "《心理的原型维度》Archetypal Dimensions of the Psyche的自助方法"
+trigger_keywords: ["death", "jung", "psychology", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "communication/death/emotion"
+
+---
 # 《心理的原型维度》Archetypal Dimensions of the Psyche
 
 > 玛丽-路易丝·冯·弗朗茨（Marie-Louise von Franz）著，1997年出版。荣格最重要的弟子之一，分析心理学的杰出代表。这本书系统阐述了原型在梦境、童话、炼金术和宗教中的运作方式。冯·弗朗茨以其无与伦比的原型分析能力，成为荣格学派中最受尊敬的理论家。

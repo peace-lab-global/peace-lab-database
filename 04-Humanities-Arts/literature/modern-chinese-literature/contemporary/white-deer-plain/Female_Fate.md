@@ -1,3 +1,31 @@
+---
+
+title: "田小娥与白鹿原上的女性命运"
+description: "田小娥与白鹿原上的女性命运的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
+tags: ["literature", "marriage"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是田小娥与白鹿原上的女性命运"
+  - "田小娥与白鹿原上的女性命运的核心概念"
+  - "田小娥与白鹿原上的女性命运的方法与实践"
+trigger_keywords: ["brain", "death", "literature", "marriage"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/death/exercise"
+  - path: "02-Mind-Psychology/psychology/social/hatred/Hatred_Theoretical_Framework.md"
+    relation: "attachment/death/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
+    relation: "attachment/death/exercise"
+  - path: "03-Bio-Science/death/Death_Grief_Technology.md"
+    relation: "attachment/death/exercise"
+  - path: "README.md"
+    relation: "art_therapy/attachment/death"
+
+---
 # 田小娥与白鹿原上的女性命运
 
 ## 为什么要单独讨论女性

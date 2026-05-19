@@ -1,3 +1,32 @@
+---
+
+title: "萨提亚模式治疗体系专业内容体系"
+description: "萨提亚模式治疗体系专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 萨提亚模式"
+tags: ["brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是萨提亚模式治疗体系专业内容体系"
+  - "萨提亚模式治疗体系专业内容体系的核心概念"
+  - "萨提亚模式治疗体系专业内容体系的方法与实践"
+  - "萨提亚模式治疗体系专业内容体系的循证证据"
+trigger_keywords: ["assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
+    relation: "communication/emotion/meditation"
+
+---
 # 萨提亚模式治疗体系专业内容体系
 
 ## 目录

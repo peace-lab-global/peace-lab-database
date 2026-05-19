@@ -1,3 +1,32 @@
+---
+
+title: "绘画疗法临床整合应用指南 (Art Therapy Clinical Integration Application Guide)"
+description: "绘画疗法临床整合应用指南 (Art Therapy Clinical Integration Application Guide)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是绘画疗法临床整合应用指南"
+  - "绘画疗法临床整合应用指南的核心概念"
+  - "绘画疗法临床整合应用指南的方法与实践"
+  - "绘画疗法临床整合应用指南的循证证据"
+trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 绘画疗法临床整合应用指南 (Art Therapy Clinical Integration Application Guide)
 
 > **多学科整合与循证实践**

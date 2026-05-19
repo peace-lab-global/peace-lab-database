@@ -1,3 +1,31 @@
+---
+
+title: "工作场所专注力疗愈"
+description: "工作场所专注力疗愈的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Focus Therapy"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是工作场所专注力疗愈"
+  - "工作场所专注力疗愈的核心概念"
+  - "工作场所专注力疗愈的方法与实践"
+trigger_keywords: ["工作场所专注力疗愈", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "README.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 工作场所专注力疗愈
 
 ## 概述

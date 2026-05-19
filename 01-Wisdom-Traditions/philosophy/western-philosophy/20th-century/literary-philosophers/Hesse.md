@@ -1,3 +1,31 @@
+---
+
+title: "赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览"
+description: "赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["buddhism", "healing", "jung"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是赫尔曼·黑塞  - 哲学思想全览"
+  - "赫尔曼·黑塞  - 哲学思想全览的核心概念"
+  - "赫尔曼·黑塞  - 哲学思想全览的方法与实践"
+trigger_keywords: ["赫尔曼", "anxiety", "art", "breathwork", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+    relation: "anxiety/communication/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/meditation"
+
+---
 # 赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览
 
 ## 基本信息

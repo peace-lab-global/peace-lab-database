@@ -1,3 +1,32 @@
+---
+
+title: "李斯特交响诗《前奏曲》治疗应用指导"
+description: "李斯特交响诗《前奏曲》治疗应用指导的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是李斯特交响诗《前奏曲》治疗应用指导"
+  - "李斯特交响诗《前奏曲》治疗应用指导的核心概念"
+  - "李斯特交响诗《前奏曲》治疗应用指导的方法与实践"
+  - "李斯特交响诗《前奏曲》治疗应用指导的循证证据"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 李斯特交响诗《前奏曲》治疗应用指导
 
 ## 心理治疗理论基础

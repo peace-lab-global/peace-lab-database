@@ -1,3 +1,32 @@
+---
+
+title: "个人任务管理核心理论 (Personal Task Management - Core Theory)"
+description: "个人任务管理核心理论 (Personal Task Management - Core Theory)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Task Management"
+tags: ["decision-making", "depression", "flow"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是个人任务管理核心理论"
+  - "个人任务管理核心理论的核心概念"
+  - "个人任务管理核心理论的方法与实践"
+  - "个人任务管理核心理论的自助方法"
+trigger_keywords: ["个人任务管理核心理论", "anxiety", "behavioral", "brain", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Branding_Marketing.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # 个人任务管理核心理论 (Personal Task Management - Core Theory)
 
 ## 定义与学科定位 (Definition & Disciplinary Context)

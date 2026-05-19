@@ -1,3 +1,31 @@
+---
+
+title: "冥想与教育专业概述 | Meditation Education Overview"
+description: "冥想与教育专业概述 | Meditation Education Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Education"
+tags: ["anxiety", "brain", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是冥想与教育专业概述 | Meditation Education Overview"
+  - "冥想与教育专业概述 | Meditation Education Overview的核心概念"
+  - "冥想与教育专业概述 | Meditation Education Overview的方法与实践"
+trigger_keywords: ["冥想与教育专业概述", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "anxiety/exercise/meditation"
+
+---
 # 冥想与教育专业概述 | Meditation Education Overview
 
 > **领域**：校园正念（School-Based Mindfulness）、教育冥想（Meditation in Education）、发展适应性冥想（Developmentally Appropriate Meditation）

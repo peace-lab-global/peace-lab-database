@@ -1,3 +1,32 @@
+---
+
+title: "宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)"
+description: "宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["attachment", "brain", "cardiovascular", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是宽恕心理学与深度关系修复"
+  - "宽恕心理学与深度关系修复的核心概念"
+  - "宽恕心理学与深度关系修复的方法与实践"
+  - "宽恕心理学与深度关系修复的自助方法"
+trigger_keywords: ["act", "attachment", "behavioral", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "attachment/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "GLOSSARY.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "attachment/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)
 
 婚姻中的深度伤害——无论是背叛、长期忽视还是严重的情感虐待——留下的不仅是心理创伤，更是一个核心问题：**受伤之后，我们还能否重建信任？如果可以，怎么做？** 宽恕心理学提供了一条经过循证验证的修复路径，但它首先需要被正确理解：**宽恕不是遗忘，不是纵容，不是假装没事，更不是强迫受害者放弃自己的愤怒。** 宽恕是一个主动的、深度的心理过程——为了释放受伤者自身被怨恨囚禁的生命力，而不是为了让施害者好过。

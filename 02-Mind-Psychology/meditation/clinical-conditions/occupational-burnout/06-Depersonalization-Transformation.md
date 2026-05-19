@@ -1,3 +1,31 @@
+---
+
+title: "06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism"
+description: "06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["brain", "healing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism"
+  - "06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism的核心概念"
+  - "06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism
 
 > **文档定位**：去人格化（Depersonalization）是倦怠最隐蔽也最痛苦的维度——不是"我太累了"，而是"我变成了一台没有感情的机器"。本章提供从冷漠到重新连接的系统化正念工具。

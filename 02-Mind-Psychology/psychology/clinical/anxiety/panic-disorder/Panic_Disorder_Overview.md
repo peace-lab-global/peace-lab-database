@@ -1,3 +1,31 @@
+---
+
+title: "Panic Disorder Overview (惊恐障碍概览)"
+description: "Panic Disorder Overview (惊恐障碍概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Panic Disorder"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Panic Disorder Overview"
+  - "Panic Disorder Overview的核心概念"
+  - "Panic Disorder Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/neuroscience"
+
+---
 # Panic Disorder Overview (惊恐障碍概览)
 
 > **惊恐障碍 (Panic Disorder / Morbus Panicus)**

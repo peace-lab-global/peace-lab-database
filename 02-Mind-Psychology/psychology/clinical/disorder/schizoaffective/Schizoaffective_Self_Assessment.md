@@ -1,3 +1,31 @@
+---
+
+title: "Schizoaffective Disorder Self-Assessment & Screening (分裂情感性障碍评估与筛查指南)"
+description: "Schizoaffective Disorder Self-Assessment & Screening (分裂情感性障碍评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizoaffective"
+tags: ["decision-making", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Schizoaffective Disorder Self-Assessment & Screening"
+  - "Schizoaffective Disorder Self-Assessment & Screening的核心概念"
+  - "Schizoaffective Disorder Self-Assessment & Screening的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "clinical", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Funeral_Rites.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/emotion"
+
+---
 # Schizoaffective Disorder Self-Assessment & Screening (分裂情感性障碍评估与筛查指南)
 
 > **分裂情感性障碍评估与筛查 (Schizoaffective Disorder Assessment & Screening)**

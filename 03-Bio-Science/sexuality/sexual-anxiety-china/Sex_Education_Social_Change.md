@@ -1,3 +1,31 @@
+---
+
+title: "性教育与社会变革推动"
+description: "性教育与社会变革推动的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性教育与社会变革推动"
+  - "性教育与社会变革推动的核心概念"
+  - "性教育与社会变革推动的方法与实践"
+trigger_keywords: ["性教育与社会变革推动", "act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 性教育与社会变革推动
 
 ## 系统性教育体系建设

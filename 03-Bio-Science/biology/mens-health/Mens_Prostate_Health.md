@@ -1,3 +1,31 @@
+---
+
+title: "前列腺健康 | Prostate Health"
+description: "前列腺健康 | Prostate Health的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Mens Health"
+tags: ["cbt", "depression", "exercise", "sexuality", "nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是前列腺健康 | Prostate Health"
+  - "前列腺健康 | Prostate Health的核心概念"
+  - "前列腺健康 | Prostate Health的方法与实践"
+trigger_keywords: ["前列腺健康", "anxiety", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Clinical_Case_Collection.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 前列腺健康 | Prostate Health
 
 > **学科定位**: 泌尿外科 · 肿瘤学 · 男性医学

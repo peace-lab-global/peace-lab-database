@@ -1,3 +1,31 @@
+---
+
+title: "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry"
+description: "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["spirituality", "yoga", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《狂喜之后，洗衣之时》After the Ecstasy, the Laundry"
+  - "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的核心概念"
+  - "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的方法与实践"
+trigger_keywords: ["《狂喜之后", "buddhism", "sexuality", "spirituality", "yoga"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/history/Buddhist_History_Timeline.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《狂喜之后，洗衣之时》After the Ecstasy, the Laundry
 
 > 杰克·康菲尔德（Jack Kornfield）著，2000年出版。康菲尔德追问一个被灵性传统长期回避的问题：**开悟之后怎么办？** 他采访了数十位来自不同传统的大师，发现他们开悟后仍然要面对日常琐事——交税、洗碗、处理人际关系。

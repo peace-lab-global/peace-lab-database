@@ -1,3 +1,31 @@
+---
+
+title: "极简主义概述 | Minimalism Overview"
+description: "极简主义概述 | Minimalism Overview的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Minimalism"
+tags: ["attachment", "habits", "minimalism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是极简主义概述 | Minimalism Overview"
+  - "极简主义概述 | Minimalism Overview的核心概念"
+  - "极简主义概述 | Minimalism Overview的方法与实践"
+trigger_keywords: ["极简主义概述", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 极简主义概述 | Minimalism Overview
 
 > 极简主义（Minimalism）是一种以"少即是多"（Less is More）为核心哲学的生活方式和思维方式。极简主义不仅关乎物质层面的精简，更涉及心理层面的觉醒——通过对不必要的物品、关系、信息和承诺的审视与舍弃，为真正重要的事物腾出空间。本概述系统梳理极简主义的哲学基础、实践方法和心理益处。

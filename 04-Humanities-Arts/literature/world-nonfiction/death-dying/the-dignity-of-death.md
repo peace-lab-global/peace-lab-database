@@ -1,3 +1,31 @@
+---
+
+title: "《死亡的尊严》The Dignity of Death"
+description: "《死亡的尊严》The Dignity of Death的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["phobia", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《死亡的尊严》The Dignity of Death"
+  - "《死亡的尊严》The Dignity of Death的核心概念"
+  - "《死亡的尊严》The Dignity of Death的方法与实践"
+trigger_keywords: ["buddhism", "death", "philosophy", "phobia"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《死亡的尊严》The Dignity of Death
 
 > 波伊曼（Louis P. Pojman）等编者，1995年出版。哲学文集，汇集了从苏格拉底、伊壁鸠鲁到当代分析哲学家对死亡与安乐死的辩论。不是单一的作者声音，而是一场跨越两千年的思想对话。

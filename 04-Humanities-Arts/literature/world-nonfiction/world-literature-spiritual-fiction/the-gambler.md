@@ -1,3 +1,31 @@
+---
+
+title: "《赌徒》The Gambler"
+description: "《赌徒》The Gambler的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《赌徒》The Gambler"
+  - "《赌徒》The Gambler的核心概念"
+  - "《赌徒》The Gambler的方法与实践"
+trigger_keywords: ["aging", "art", "body", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "aging/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/emotion/sexuality"
+
+---
 # 《赌徒》The Gambler
 
 **作者：** 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

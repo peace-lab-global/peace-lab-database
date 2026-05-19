@@ -1,3 +1,31 @@
+---
+
+title: "身体扫描引导词脚本 | Body Scan Scripts"
+description: "身体扫描引导词脚本 | Body Scan Scripts的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Guided Scripts"
+tags: ["brain", "mbsr", "meditation", "mindfulness", "trauma"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是身体扫描引导词脚本 | Body Scan Scripts"
+  - "身体扫描引导词脚本 | Body Scan Scripts的核心概念"
+  - "身体扫描引导词脚本 | Body Scan Scripts的方法与实践"
+trigger_keywords: ["身体扫描引导词脚本", "body", "brain", "breathwork", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "exercise/meditation/neuroscience"
+
+---
 # 身体扫描引导词脚本 | Body Scan Scripts
 
 > **领域**：冥想引导词脚本库（Guided Meditation Scripts）

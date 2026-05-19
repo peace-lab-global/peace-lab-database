@@ -1,3 +1,31 @@
+---
+
+title: "C3-8 选修加练：深度休息"
+description: "C3-8 选修加练：深度休息的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "meditation", "ocd", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-8 选修加练：深度休息"
+  - "C3-8 选修加练：深度休息的核心概念"
+  - "C3-8 选修加练：深度休息的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 # C3-8 选修加练：深度休息
 
 📑 智能总结

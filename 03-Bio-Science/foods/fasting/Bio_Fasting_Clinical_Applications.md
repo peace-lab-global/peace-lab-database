@@ -1,3 +1,31 @@
+---
+
+title: "Fasting Clinical Applications (断食临床应用与适应证)"
+description: "Fasting Clinical Applications (断食临床应用与适应证)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食"
+tags: ["addiction", "aging", "brain", "cbt", "fasting"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Fasting Clinical Applications"
+  - "Fasting Clinical Applications的核心概念"
+  - "Fasting Clinical Applications的方法与实践"
+trigger_keywords: ["addiction", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics.md"
+    relation: "aging/anxiety/body_image"
+  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics2.md"
+    relation: "aging/anxiety/body_image"
+
+---
 # Fasting Clinical Applications (断食临床应用与适应证)
 
 ### Evidence-Based Indications (基于证据的断食适应证总览表)

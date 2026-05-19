@@ -1,3 +1,31 @@
+---
+
+title: "Music Thanatology (音乐临终关怀：声音陪伴生命最后的旅程)"
+description: "Music Thanatology (音乐临终关怀：声音陪伴生命最后的旅程)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Music Thanatology"
+  - "Music Thanatology的核心概念"
+  - "Music Thanatology的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/death/Death_Anxiety_Overview.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
+    relation: "aging/anxiety/death"
+
+---
 # Music Thanatology (音乐临终关怀：声音陪伴生命最后的旅程)
 
 ### Music Thanatology: Foundations & Philosophy (音乐临终关怀基础与哲学表)

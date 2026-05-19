@@ -1,3 +1,31 @@
+---
+
+title: "Pityriasis Versicolor Overview (花斑癣概览)"
+description: "Pityriasis Versicolor Overview (花斑癣概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Skin Diseases"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Pityriasis Versicolor Overview"
+  - "Pityriasis Versicolor Overview的核心概念"
+  - "Pityriasis Versicolor Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "anxiety/emotion/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/emotion/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Shatkarma_Cleansing.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/emotion/immune"
+
+---
 # Pityriasis Versicolor Overview (花斑癣概览)
 
 > **花斑癣 (Pityriasis Versicolor / Tinea Versicolor)**

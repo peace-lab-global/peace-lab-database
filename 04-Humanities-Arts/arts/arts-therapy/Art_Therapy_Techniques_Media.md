@@ -1,3 +1,32 @@
+---
+
+title: "绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)"
+description: "绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是绘画疗法技法与媒材详解"
+  - "绘画疗法技法与媒材详解的核心概念"
+  - "绘画疗法技法与媒材详解的方法与实践"
+  - "绘画疗法技法与媒材详解的循证证据"
+trigger_keywords: ["act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)
 
 > **创作技艺与材料科学**

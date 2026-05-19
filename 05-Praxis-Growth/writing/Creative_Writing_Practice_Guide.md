@@ -1,3 +1,31 @@
+---
+
+title: "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής"
+description: "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的详细解析与实践指南"
+category: "实践与个人增长 > 写作"
+tags: ["writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής"
+  - "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的核心概念"
+  - "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的方法与实践"
+trigger_keywords: ["创意写作实践指南", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής
 
 > **创意写作实践指南**为文学创作者提供系统性的实践方法和训练体系，涵盖写作习惯培养、技巧训练、作品打磨和创作突破等核心内容，帮助写作者将理论知识转化为实际创作能力。

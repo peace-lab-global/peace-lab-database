@@ -1,3 +1,31 @@
+---
+
+title: "南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)"
+description: "南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Nan Huaijin"
+tags: ["buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是南怀瑾先生教导与实修体系"
+  - "南怀瑾先生教导与实修体系的核心概念"
+  - "南怀瑾先生教导与实修体系的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "body"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)
 
 > **核心定位**: 南怀瑾先生（1918-2012）是20世纪最具影响力的国学大师，精通儒释道三家，融通古今中外，将传统修行方法与现代生命科学结合，提供可操作的实修体系。

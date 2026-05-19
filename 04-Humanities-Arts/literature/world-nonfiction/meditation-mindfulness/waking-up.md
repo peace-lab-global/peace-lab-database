@@ -1,3 +1,31 @@
+---
+
+title: "《Waking Up》"
+description: "《Waking Up》的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["religion", "spirituality", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《Waking Up》"
+  - "《Waking Up》的核心概念"
+  - "《Waking Up》的方法与实践"
+trigger_keywords: ["brain", "meditation", "neuroscience", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/meditation/neuroscience"
+
+---
 # 《Waking Up》
 
 > 萨姆·哈里斯（Sam Harris）著，2014年出版。神经科学家、哲学家、无神论"四骑士"之一。这本书是他对"灵性"的探索——他试图证明：在不信仰任何宗教的前提下，人仍然可以通过冥想和神经科学来体验到传统上被称为"觉悟"或"神秘体验"的状态。

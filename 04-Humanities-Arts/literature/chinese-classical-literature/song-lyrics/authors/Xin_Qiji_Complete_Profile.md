@@ -1,3 +1,31 @@
+---
+
+title: "辛弃疾 (Xin Qiji, 1140-1207)：豪放词派的集大成者"
+description: "辛弃疾 (Xin Qiji, 1140-1207)：豪放词派的集大成者的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Song Lyrics > Authors"
+tags: ["leadership", "literature", "loneliness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是辛弃疾 ：豪放词派的集大成者"
+  - "辛弃疾 ：豪放词派的集大成者的核心概念"
+  - "辛弃疾 ：豪放词派的集大成者的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "leadership"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 辛弃疾 (Xin Qiji, 1140-1207)：豪放词派的集大成者
 
 ## 概述 (Overview)

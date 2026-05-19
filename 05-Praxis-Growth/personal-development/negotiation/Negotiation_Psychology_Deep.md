@@ -1,3 +1,32 @@
+---
+
+title: "谈判心理学深度研究 (Negotiation Psychology Deep Dive)"
+description: "谈判心理学深度研究 (Negotiation Psychology Deep Dive)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 谈判"
+tags: ["communication", "decision-making", "productivity", "negotiation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是谈判心理学深度研究"
+  - "谈判心理学深度研究的核心概念"
+  - "谈判心理学深度研究的方法与实践"
+  - "谈判心理学深度研究的自助方法"
+trigger_keywords: ["谈判心理学深度研究", "anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # 谈判心理学深度研究 (Negotiation Psychology Deep Dive)
 
 ## BATNA与谈判筹码

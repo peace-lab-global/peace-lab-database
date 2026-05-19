@@ -1,3 +1,21 @@
+---
+
+title: "《诊疗椅上的谎言》Lying on the Couch"
+description: "《诊疗椅上的谎言》Lying on the Couch的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["self-esteem", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《诊疗椅上的谎言》Lying on the Couch"
+  - "《诊疗椅上的谎言》Lying on the Couch的核心概念"
+  - "《诊疗椅上的谎言》Lying on the Couch的方法与实践"
+trigger_keywords: ["psychology", "self-esteem", "treatment", "文学"]
+cross_refs: []
+
+---
 # 《诊疗椅上的谎言》Lying on the Couch
 
 > 欧文·亚隆（Irvin D. Yalom）著，1997年出版。亚隆的另一部心理治疗小说，探讨了治疗关系中的权力、欺骗、欲望和伦理。一个报复心强的患者故意欺骗他的治疗师，而治疗师在发现自己的"被操控"后，必须面对自己的虚荣和盲点。

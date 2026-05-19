@@ -1,3 +1,31 @@
+---
+
+title: "未来学研究 | Futures Research"
+description: "未来学研究 | Futures Research的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是未来学研究 | Futures Research"
+  - "未来学研究 | Futures Research的核心概念"
+  - "未来学研究 | Futures Research的方法与实践"
+trigger_keywords: ["未来学研究", "act", "art", "assessment", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "neuroscience/productivity/sexuality"
+
+---
 # 未来学研究 | Futures Research
 
 > 未来学研究（Futures Research / Futures Studies）是系统地探索、分析和构建可能的、或然的和偏好的未来的跨学科研究领域。它不在于预测单一确定性的未来，而在于拓展对多种可能未来的理解，从而帮助个人、组织和社会做出更加明智的战略选择。从赫尔曼·康（Herman Kahn）的场景规划（Scenario Planning）到如今全球广泛开展的战略预见（Strategic Foresight）实践，未来学已发展成为一项兼具学术严谨性和实践价值的重要知识事业。

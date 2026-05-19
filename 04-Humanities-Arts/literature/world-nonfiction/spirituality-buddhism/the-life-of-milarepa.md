@@ -1,3 +1,31 @@
+---
+
+title: "《密勒日巴传》The Life of Milarepa"
+description: "《密勒日巴传》The Life of Milarepa的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["spirituality", "therapy", "yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《密勒日巴传》The Life of Milarepa"
+  - "《密勒日巴传》The Life of Milarepa的核心概念"
+  - "《密勒日巴传》The Life of Milarepa的方法与实践"
+trigger_keywords: ["body", "buddhism", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/communication"
+
+---
 # 《密勒日巴传》The Life of Milarepa
 
 > 密勒日巴（Milarepa，1052–1135）是西藏历史上最著名的瑜伽士和诗人。他的传记由弟子热穹巴记录，讲述了一个从杀人犯到觉悟者的传奇故事——他先学习了黑魔法杀死迫害他家族的仇人，然后因悔恨而寻求佛法，最终在马尔巴上师的严厉教导下证悟。

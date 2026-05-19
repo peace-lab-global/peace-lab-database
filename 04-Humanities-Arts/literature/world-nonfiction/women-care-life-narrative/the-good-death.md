@@ -1,3 +1,31 @@
+---
+
+title: "《善终》The Good Death"
+description: "《善终》The Good Death的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["decision-making", "pain", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《善终》The Good Death"
+  - "《善终》The Good Death的核心概念"
+  - "《善终》The Good Death的方法与实践"
+trigger_keywords: ["body", "death", "decision-making", "exercise"]
+cross_refs:
+  - path: "03-Bio-Science/biology/mens-health/Mens_Health_Overview.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "depression/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "depression/emotion/exercise"
+
+---
 # 《善终》The Good Death
 
 **作者**：安·诺伊曼 (Ann Neumann)  

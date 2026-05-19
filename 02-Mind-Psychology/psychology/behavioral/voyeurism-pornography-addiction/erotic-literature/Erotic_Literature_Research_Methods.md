@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)"
+description: "色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "decision-making"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾研究方法与学术资源指南"
+  - "色情文学成瘾研究方法与学术资源指南的核心概念"
+  - "色情文学成瘾研究方法与学术资源指南的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
+    relation: "sexuality/therapy"
+
+---
 # 色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)
 
 > 📚 **研究指导**: 本文档提供色情文学成瘾研究的方法论指导和学术资源索引。建议结合[预防教育](Erotic_Literature_Prevention_Education.md)了解实践应用，参考[治疗干预](Erotic_Literature_Treatment_Interventions.md)掌握临床相关性。

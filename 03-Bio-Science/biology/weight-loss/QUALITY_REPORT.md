@@ -1,3 +1,31 @@
+---
+
+title: "减肥专业知识体系质量报告"
+description: "减肥专业知识体系质量报告的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Weight Loss"
+tags: ["intervention", "nutrition", "sexuality", "生物学"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是减肥专业知识体系质量报告"
+  - "减肥专业知识体系质量报告的核心概念"
+  - "减肥专业知识体系质量报告的方法与实践"
+trigger_keywords: ["assessment", "clinical", "cognitive", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "immune/nutrition/sexuality"
+
+---
 # 减肥专业知识体系质量报告
 
 ## 📊 项目概况

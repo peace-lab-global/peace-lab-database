@@ -1,3 +1,31 @@
+---
+
+title: "慢性压力干预 (Chronic Stress Interventions)"
+description: "慢性压力干预 (Chronic Stress Interventions)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
+tags: ["anxiety", "mbsr", "emdr", "mindfulness", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是慢性压力干预"
+  - "慢性压力干预的核心概念"
+  - "慢性压力干预的方法与实践"
+trigger_keywords: ["慢性压力干预", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 慢性压力干预 (Chronic Stress Interventions)
 
 > **导航**: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力健康影响](Chronic_Stress_Health_Effects.md)

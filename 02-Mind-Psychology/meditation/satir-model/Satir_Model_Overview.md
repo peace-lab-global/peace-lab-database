@@ -1,3 +1,31 @@
+---
+
+title: "Satir Model Overview (萨提亚模式概览)"
+description: "Satir Model Overview (萨提亚模式概览)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 萨提亚模式"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Satir Model Overview"
+  - "Satir Model Overview的核心概念"
+  - "Satir Model Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/meditation/sexuality"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "communication/meditation/sexuality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/meditation/sexuality"
+
+---
 # Satir Model Overview (萨提亚模式概览)
 
 ## 核心术语词源表 (Core Terminology & Etymology)

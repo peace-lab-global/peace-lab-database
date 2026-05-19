@@ -1,3 +1,31 @@
+---
+
+title: "Core Strengthening 核心力量体式"
+description: "Core Strengthening 核心力量体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Core Strengthening 核心力量体式"
+  - "Core Strengthening 核心力量体式的核心概念"
+  - "Core Strengthening 核心力量体式的方法与实践"
+trigger_keywords: ["assessment", "breathwork", "exercise", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "exercise/sexuality/yoga"
+
+---
 # Core Strengthening 核心力量体式
 
 ## 核心力量体式详表

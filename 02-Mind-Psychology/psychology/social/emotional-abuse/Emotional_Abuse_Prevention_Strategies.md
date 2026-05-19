@@ -1,3 +1,31 @@
+---
+
+title: "冷暴力预防策略专业内容体系"
+description: "冷暴力预防策略专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冷暴力预防策略专业内容体系"
+  - "冷暴力预防策略专业内容体系的核心概念"
+  - "冷暴力预防策略专业内容体系的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/communication/emotion"
+
+---
 # 冷暴力预防策略专业内容体系
 
 ## 目录

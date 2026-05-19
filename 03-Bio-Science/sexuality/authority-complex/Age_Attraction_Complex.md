@@ -1,3 +1,31 @@
+---
+
+title: "年龄差异吸引情结 (Age Difference Attraction Complex)"
+description: "年龄差异吸引情结 (Age Difference Attraction Complex)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Authority Complex"
+tags: ["attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是年龄差异吸引情结"
+  - "年龄差异吸引情结的核心概念"
+  - "年龄差异吸引情结的方法与实践"
+trigger_keywords: ["年龄差异吸引情结", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 年龄差异吸引情结 (Age Difference Attraction Complex)
 
 > 📘 **文档导航**: 本专题深入探讨年龄相关吸引的心理机制、社会文化因素和临床处理策略。相关主题请参考：

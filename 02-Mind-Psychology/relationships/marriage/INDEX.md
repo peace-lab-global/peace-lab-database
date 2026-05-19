@@ -1,3 +1,32 @@
+---
+
+title: "Marriage | 婚姻心理学"
+description: "Marriage | 婚姻心理学的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["mindfulness", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Marriage | 婚姻心理学"
+  - "Marriage | 婚姻心理学的核心概念"
+  - "Marriage | 婚姻心理学的方法与实践"
+  - "Marriage | 婚姻心理学的自助方法"
+trigger_keywords: ["Marriage", "婚姻心理学", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "attachment/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/emotion/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "communication/emotion/meditation"
+
+---
 # Marriage | 婚姻心理学
 
 > 婚姻关系的科学研究、维护策略与危机干预

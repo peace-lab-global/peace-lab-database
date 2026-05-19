@@ -1,3 +1,31 @@
+---
+
+title: "Collective Death Trauma: War, Disaster & Mass Mortality (集体死亡创伤：战争、灾难与大规模死亡)"
+description: "Collective Death Trauma: War, Disaster & Mass Mortality (集体死亡创伤：战争、灾难与大规模死亡)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["addiction", "attachment", "cortisol", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Collective Death Trauma: War, Disaster & Mass Mortality"
+  - "Collective Death Trauma: War, Disaster & Mass Mortality的核心概念"
+  - "Collective Death Trauma: War, Disaster & Mass Mortality的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Urbanization_Psychology.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/attachment/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+
+---
 # Collective Death Trauma: War, Disaster & Mass Mortality (集体死亡创伤：战争、灾难与大规模死亡)
 
 > *"个人的哀伤是私人的；集体的哀伤是政治的。"*

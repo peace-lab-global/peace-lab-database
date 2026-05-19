@@ -1,3 +1,31 @@
+---
+
+title: "《有意识的心智》The Conscious Mind"
+description: "《有意识的心智》The Conscious Mind的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["pain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《有意识的心智》The Conscious Mind"
+  - "《有意识的心智》The Conscious Mind的核心概念"
+  - "《有意识的心智》The Conscious Mind的方法与实践"
+trigger_keywords: ["behavioral", "brain", "cognitive", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "exercise/neuroscience/pain"
+
+---
 # 《有意识的心智》The Conscious Mind
 
 **作者**：大卫·查尔莫斯 (David J. Chalmers)  

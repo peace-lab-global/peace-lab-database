@@ -1,3 +1,31 @@
+---
+
+title: "《社交网络》专业影评：数字时代的友谊背叛与创业神话解构"
+description: "《社交网络》专业影评：数字时代的友谊背叛与创业神话解构的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["addiction", "attachment", "cinema"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《社交网络》专业影评：数字时代的友谊背叛与创业神话解构"
+  - "《社交网络》专业影评：数字时代的友谊背叛与创业神话解构的核心概念"
+  - "《社交网络》专业影评：数字时代的友谊背叛与创业神话解构的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 《社交网络》专业影评：数字时代的友谊背叛与创业神话解构
 
 ## 摘要 (Abstract)

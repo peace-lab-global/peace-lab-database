@@ -1,3 +1,31 @@
+---
+
+title: "Fasting | 断食专题索引"
+description: "Fasting | 断食专题索引的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食"
+tags: ["fasting", "immune", "nutrition", "sexuality", "treatment", "断食"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Fasting | 断食专题索引"
+  - "Fasting | 断食专题索引的核心概念"
+  - "Fasting | 断食专题索引的方法与实践"
+trigger_keywords: ["Fasting", "断食专题索引", "clinical", "fasting", "immune", "nutrition"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Gut_Brain_Axis.md"
+    relation: "aging/emotion/immune"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/emotion/immune"
+
+---
 # Fasting | 断食专题索引
 
 > 断食智慧与代谢科学：从间歇断食到延长断食的完整知识体系

@@ -1,3 +1,31 @@
+---
+
+title: "Children, Adolescents & Death (儿童与青少年的死亡概念发展)"
+description: "Children, Adolescents & Death (儿童与青少年的死亡概念发展)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "attachment", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Children, Adolescents & Death"
+  - "Children, Adolescents & Death的核心概念"
+  - "Children, Adolescents & Death的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Psychological_Stressors.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Children, Adolescents & Death (儿童与青少年的死亡概念发展)
 
 > *" children do not fear death the way adults do. They fear separation. The task of childhood is to learn that death is permanent, universal, and irreversible."*

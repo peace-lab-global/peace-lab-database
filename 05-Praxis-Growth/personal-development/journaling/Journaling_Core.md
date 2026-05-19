@@ -1,3 +1,32 @@
+---
+
+title: "日记写作核心理论 (Journaling - Core Theory)"
+description: "日记写作核心理论 (Journaling - Core Theory)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Journaling"
+tags: ["cbt", "writing"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是日记写作核心理论"
+  - "日记写作核心理论的核心概念"
+  - "日记写作核心理论的方法与实践"
+  - "日记写作核心理论的自助方法"
+trigger_keywords: ["日记写作核心理论", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 日记写作核心理论 (Journaling - Core Theory)
 
 ## 定义与学科定位 (Definition & Disciplinary Context)

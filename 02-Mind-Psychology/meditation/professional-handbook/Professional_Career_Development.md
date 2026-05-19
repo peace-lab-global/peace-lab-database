@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师职业发展 | Professional Career Development"
+description: "冥想执行师职业发展 | Professional Career Development的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["mbsr", "mindfulness", "mbct"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师职业发展 | Professional Career Development"
+  - "冥想执行师职业发展 | Professional Career Development的核心概念"
+  - "冥想执行师职业发展 | Professional Career Development的方法与实践"
+trigger_keywords: ["冥想执行师职业发展", "adolescent", "aging", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/communication/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/communication/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/communication/emotion"
+  - path: "README.md"
+    relation: "communication/emotion/meditation"
+
+---
 # 冥想执行师职业发展 | Professional Career Development
 
 > **领域**：冥想执行师职业手册 — 职业发展

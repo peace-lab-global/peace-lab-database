@@ -1,3 +1,31 @@
+---
+
+title: "Self-Confidence: Building & Practice (自信的建设与实践)"
+description: "Self-Confidence: Building & Practice (自信的建设与实践)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Self Confidence"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Self-Confidence: Building & Practice"
+  - "Self-Confidence: Building & Practice的核心概念"
+  - "Self-Confidence: Building & Practice的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Self-Confidence: Building & Practice (自信的建设与实践)
 
 > **重建自信 (Rebuilding Confidence / Fiduciam Restituere)**

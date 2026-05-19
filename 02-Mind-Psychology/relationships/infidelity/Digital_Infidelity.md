@@ -1,3 +1,31 @@
+---
+
+title: "数字时代出轨新形态"
+description: "数字时代出轨新形态的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["addiction", "habits", "intervention", "marriage"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字时代出轨新形态"
+  - "数字时代出轨新形态的核心概念"
+  - "数字时代出轨新形态的方法与实践"
+trigger_keywords: ["数字时代出轨新形态", "addiction", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 数字时代出轨新形态
 
 > 社交媒体、网络技术与数字出轨行为的心理机制与干预策略

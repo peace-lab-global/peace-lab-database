@@ -1,3 +1,31 @@
+---
+
+title: "专业冥想引导词课程库 | Professional Guided Meditation Course Library"
+description: "专业冥想引导词课程库 | Professional Guided Meditation Course Library的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["addiction", "anxiety", "trauma", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是专业冥想引导词课程库 | Professional Guided Meditation Course Library"
+  - "专业冥想引导词课程库 | Professional Guided Meditation Course Library的核心概念"
+  - "专业冥想引导词课程库 | Professional Guided Meditation Course Library的方法与实践"
+trigger_keywords: ["专业冥想引导词课程库", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/daoism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/emotion"
+  - path: "README.md"
+    relation: "anxiety/daoism/emotion"
+
+---
 # 专业冥想引导词课程库 | Professional Guided Meditation Course Library
 
 > **领域**：专业冥想执行师标准化引导词与课程交付体系

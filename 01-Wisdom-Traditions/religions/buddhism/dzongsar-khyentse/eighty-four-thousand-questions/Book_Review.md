@@ -1,3 +1,31 @@
+---
+
+title: "《八万四千问》读书笔记与书评"
+description: "《八万四千问》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Eighty Four Thousand Questions"
+tags: ["buddhism", "philosophy", "positive-psychology", "religion", "suicide"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《八万四千问》读书笔记与书评"
+  - "《八万四千问》读书笔记与书评的核心概念"
+  - "《八万四千问》读书笔记与书评的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "death", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/depression"
+  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
+    relation: "buddhism/death/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "buddhism/death/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
+    relation: "buddhism/death/depression"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "buddhism/depression/emotion"
+
+---
 # 《八万四千问》读书笔记与书评
 
 ## 一、总体评价

@@ -1,3 +1,31 @@
+---
+
+title: "《失乐园》Paradise Lost"
+description: "《失乐园》Paradise Lost的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["leadership", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《失乐园》Paradise Lost"
+  - "《失乐园》Paradise Lost的核心概念"
+  - "《失乐园》Paradise Lost的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "death", "leadership"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # 《失乐园》Paradise Lost
 
 > 约翰·弥尔顿（John Milton）著，1667年出版。英国诗人弥尔顿的史诗，以《圣经·创世记》为基础，讲述了撒旦反抗上帝、亚当和夏娃被逐出伊甸园的故事。英语文学最伟大的史诗之一，以其宏大的规模、复杂的道德主题和精美的语言著称。

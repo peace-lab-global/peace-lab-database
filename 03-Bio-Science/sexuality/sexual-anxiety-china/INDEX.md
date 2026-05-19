@@ -1,3 +1,31 @@
+---
+
+title: "sexual-anxiety-china | Index"
+description: "sexual-anxiety-china | Index的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["性学"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是sexual-anxiety-china | Index"
+  - "sexual-anxiety-china | Index的核心概念"
+  - "sexual-anxiety-china | Index的方法与实践"
+trigger_keywords: ["Index", "act", "性学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Kantian_Schopenhauer.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/sexuality/therapy"
+
+---
 # sexual-anxiety-china | Index
 
 ## 内容索引 | Contents

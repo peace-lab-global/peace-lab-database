@@ -1,3 +1,31 @@
+---
+
+title: "Integrated Methods (综合干预方法论)"
+description: "Integrated Methods (综合干预方法论)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
+tags: ["addiction", "anxiety", "attachment", "mbsr", "mindfulness", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是Integrated Methods"
+  - "Integrated Methods的核心概念"
+  - "Integrated Methods的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Integrated Methods (综合干预方法论)
 
 ### 方法表

@@ -1,3 +1,31 @@
+---
+
+title: "《成为我自己》Becoming Myself"
+description: "《成为我自己》Becoming Myself的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["loneliness", "phobia", "suicide"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《成为我自己》Becoming Myself"
+  - "《成为我自己》Becoming Myself的核心概念"
+  - "《成为我自己》Becoming Myself的方法与实践"
+trigger_keywords: ["aging", "anxiety", "death", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/death"
+
+---
 # 《成为我自己》Becoming Myself
 
 > 欧文·亚隆（Irvin D. Yalom）著，2017年出版。85岁的亚隆写下的自传。这不是一部"伟大的治疗师如何拯救他人"的英雄叙事，而是一部"一个焦虑的、有缺陷的、不断努力的人如何与自己和解"的诚实记录。

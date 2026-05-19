@@ -1,3 +1,31 @@
+---
+
+title: "特殊饮食指南 | Special Diets Guide"
+description: "特殊饮食指南 | Special Diets Guide的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Nutritional"
+tags: ["aging", "brain", "cardiovascular", "fasting", "nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是特殊饮食指南 | Special Diets Guide"
+  - "特殊饮食指南 | Special Diets Guide的核心概念"
+  - "特殊饮食指南 | Special Diets Guide的方法与实践"
+trigger_keywords: ["特殊饮食指南", "act", "aging", "assessment", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/cardiovascular/depression"
+
+---
 # 特殊饮食指南 | Special Diets Guide
 
 > 特殊饮食模式（Special Dietary Patterns）指基于健康、伦理、文化或治疗目的而采取的特定饮食方案。从素食主义（Vegetarianism）到生酮饮食（Ketogenic Diet），从间歇性断食（Intermittent Fasting）到中医药膳（Yao Shan），每种饮食模式都有其理论基础、适用人群与潜在风险。本文件系统梳理主要特殊饮食模式，帮助临床工作者与公众做出知情选择。

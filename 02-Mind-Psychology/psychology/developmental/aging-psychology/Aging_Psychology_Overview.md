@@ -1,3 +1,32 @@
+---
+
+title: "老年心理学总览 | Aging Psychology Overview"
+description: "老年心理学总览 | Aging Psychology Overview的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
+tags: ["anxiety", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年心理学总览 | Aging Psychology Overview"
+  - "老年心理学总览 | Aging Psychology Overview的核心概念"
+  - "老年心理学总览 | Aging Psychology Overview的方法与实践"
+  - "老年心理学总览 | Aging Psychology Overview的自助方法"
+trigger_keywords: ["老年心理学总览", "aging", "anxiety", "body", "clinical"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 老年心理学总览 | Aging Psychology Overview
 
 > **学科定位**: 发展心理学 · 老年学 · 积极心理学

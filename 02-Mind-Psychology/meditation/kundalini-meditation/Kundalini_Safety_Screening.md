@@ -1,3 +1,31 @@
+---
+
+title: "昆达里尼安全筛查与危机应对"
+description: "昆达里尼安全筛查与危机应对的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Kundalini Meditation"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是昆达里尼安全筛查与危机应对"
+  - "昆达里尼安全筛查与危机应对的核心概念"
+  - "昆达里尼安全筛查与危机应对的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 昆达里尼安全筛查与危机应对
 
 > **Kundalini Safety Screening & Crisis Response Protocol**

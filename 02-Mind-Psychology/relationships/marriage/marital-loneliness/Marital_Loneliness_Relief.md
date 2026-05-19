@@ -1,3 +1,31 @@
+---
+
+title: "婚后孤独缓释策略与实践指南 (Post-Marital Loneliness Relief Strategies & Practice Guide)"
+description: "婚后孤独缓释策略与实践指南 (Post-Marital Loneliness Relief Strategies & Practice Guide)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是婚后孤独缓释策略与实践指南"
+  - "婚后孤独缓释策略与实践指南的核心概念"
+  - "婚后孤独缓释策略与实践指南的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 婚后孤独缓释策略与实践指南 (Post-Marital Loneliness Relief Strategies & Practice Guide)
 
 ## 目录导航

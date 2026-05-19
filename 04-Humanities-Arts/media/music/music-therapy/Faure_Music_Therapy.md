@@ -1,3 +1,31 @@
+---
+
+title: "福雷音乐疗愈 (Fauré Music Therapy)"
+description: "福雷音乐疗愈 (Fauré Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是福雷音乐疗愈"
+  - "福雷音乐疗愈的核心概念"
+  - "福雷音乐疗愈的方法与实践"
+trigger_keywords: ["福雷音乐疗愈", "aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 福雷音乐疗愈 (Fauré Music Therapy)
 
 > **加布里埃尔·福雷 (Gabriel Fauré, 1845-1924)**：法国晚期浪漫主义作曲家、管风琴家、教育家。

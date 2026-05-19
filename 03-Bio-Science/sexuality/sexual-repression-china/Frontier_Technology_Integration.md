@@ -1,3 +1,31 @@
+---
+
+title: "中国社会性压抑研究前沿技术整合与发展展望"
+description: "中国社会性压抑研究前沿技术整合与发展展望的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性压抑研究前沿技术整合与发展展望"
+  - "中国社会性压抑研究前沿技术整合与发展展望的核心概念"
+  - "中国社会性压抑研究前沿技术整合与发展展望的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 中国社会性压抑研究前沿技术整合与发展展望
 
 ## 🔬 技术革新与数字化转型

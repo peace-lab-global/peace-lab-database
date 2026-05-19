@@ -1,3 +1,31 @@
+---
+
+title: "《小熊维尼的道》The Tao of Pooh"
+description: "《小熊维尼的道》The Tao of Pooh的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["daoism", "ocd", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《小熊维尼的道》The Tao of Pooh"
+  - "《小熊维尼的道》The Tao of Pooh的核心概念"
+  - "《小熊维尼的道》The Tao of Pooh的方法与实践"
+trigger_keywords: ["anxiety", "daoism", "ocd", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/daoism"
+
+---
 # 《小熊维尼的道》The Tao of Pooh
 
 > 本杰明·霍夫（Benjamin Hoff）著，1982年出版。用A.A.米尔恩的小熊维尼故事来解释道家的"无为""自然""简朴"等核心概念。全球销量超过百万册，是让西方读者了解道教的最畅销入门书之一。

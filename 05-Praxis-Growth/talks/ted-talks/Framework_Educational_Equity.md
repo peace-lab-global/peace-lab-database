@@ -1,3 +1,31 @@
+---
+
+title: "教育公平 | Educational Equity Framework"
+description: "教育公平 | Educational Equity Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["intervention", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教育公平 | Educational Equity Framework"
+  - "教育公平 | Educational Equity Framework的核心概念"
+  - "教育公平 | Educational Equity Framework的方法与实践"
+trigger_keywords: ["教育公平", "adolescent", "behavioral", "body", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "communication/death/sexuality"
+
+---
 # 教育公平 | Educational Equity Framework
 
 > **教育公平**（Educational Equity）不仅是资源分配的问题，更是社会正义的核心议题。当出生地、家庭收入、种族和性别仍然在很大程度上决定一个人的教育机会和人生轨迹时，教育系统就未能履行其"社会均衡器"的使命。本文件精选TED平台上关于教育公平的代表性演讲，揭示教育不平等的结构性根源和可行的变革路径。

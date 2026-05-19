@@ -1,3 +1,31 @@
+---
+
+title: "中国本土冥想现代实践指南"
+description: "中国本土冥想现代实践指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Chinese Traditions"
+tags: ["anxiety", "calligraphy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是中国本土冥想现代实践指南"
+  - "中国本土冥想现代实践指南的核心概念"
+  - "中国本土冥想现代实践指南的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/art_therapy"
+
+---
 # 中国本土冥想现代实践指南
 
 > 儒释道三家的当代修习路径——不是混合，而是根据需求选择

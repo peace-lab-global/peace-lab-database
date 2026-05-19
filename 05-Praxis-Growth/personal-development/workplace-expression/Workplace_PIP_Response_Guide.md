@@ -1,3 +1,31 @@
+---
+
+title: "绩效改进计划(PIP)应对指南 (Performance Improvement Plan Response Guide)"
+description: "绩效改进计划(PIP)应对指南 (Performance Improvement Plan Response Guide)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "stress", "个人发展"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是绩效改进计划应对指南"
+  - "绩效改进计划应对指南的核心概念"
+  - "绩效改进计划应对指南的方法与实践"
+trigger_keywords: ["绩效改进计划应对指南", "assessment", "behavioral", "communication", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/Religious_Psychology_Cross_Cultural_Research.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 绩效改进计划(PIP)应对指南 (Performance Improvement Plan Response Guide)
 
 > **定位**：帮助在被纳入PIP、被暗示“主动离开”、或被用绩效工具施压时，稳住节奏、识别风险、保护证据并进行专业沟通

@@ -1,3 +1,31 @@
+---
+
+title: "Inversions 倒立位体式"
+description: "Inversions 倒立位体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Inversions 倒立位体式"
+  - "Inversions 倒立位体式的核心概念"
+  - "Inversions 倒立位体式的方法与实践"
+trigger_keywords: ["sexuality", "瑜伽"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/sexuality/yoga"
+
+---
 # Inversions 倒立位体式
 
 ## 核心倒立体式详表

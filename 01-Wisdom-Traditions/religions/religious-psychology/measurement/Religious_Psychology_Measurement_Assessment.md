@@ -1,3 +1,32 @@
+---
+
+title: "宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)"
+description: "宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Measurement"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是宗教心理学测量工具与评估"
+  - "宗教心理学测量工具与评估的核心概念"
+  - "宗教心理学测量工具与评估的方法与实践"
+  - "宗教心理学测量工具与评估的自助方法"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/emotion/sexuality"
+
+---
 # 宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)
 
 ## 目录 (Table of Contents)

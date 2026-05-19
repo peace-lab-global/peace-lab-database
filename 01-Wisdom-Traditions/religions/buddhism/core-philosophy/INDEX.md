@@ -1,3 +1,31 @@
+---
+
+title: "core-philosophy | Index"
+description: "core-philosophy | Index的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["philosophy", "buddhism", "宗教与灵性", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是core-philosophy | Index"
+  - "core-philosophy | Index的核心概念"
+  - "core-philosophy | Index的方法与实践"
+trigger_keywords: ["Index", "developmental", "philosophy", "psychology", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # core-philosophy | Index
 
 ## 内容索引 | Contents

@@ -1,3 +1,31 @@
+---
+
+title: "Rural Psychology Overview (农村心理学核心概览)"
+description: "Rural Psychology Overview (农村心理学核心概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Rural Psychology Overview"
+  - "Rural Psychology Overview的核心概念"
+  - "Rural Psychology Overview的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Formation_Mechanisms.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Rural Psychology Overview (农村心理学核心概览)
 
 > **农村心理学 (Rural Psychology / Psychologia Ruralis)**

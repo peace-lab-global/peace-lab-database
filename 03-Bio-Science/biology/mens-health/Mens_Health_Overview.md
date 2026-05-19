@@ -1,3 +1,31 @@
+---
+
+title: "男性健康总览 | Men's Health Overview"
+description: "男性健康总览 | Men's Health Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Mens Health"
+tags: ["cardiovascular", "death", "decision-making", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是男性健康总览 | Men's Health Overview"
+  - "男性健康总览 | Men's Health Overview的核心概念"
+  - "男性健康总览 | Men's Health Overview的方法与实践"
+trigger_keywords: ["男性健康总览", "anxiety", "assessment", "behavioral", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
+    relation: "anxiety/body_image/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+
+---
 # 男性健康总览 | Men's Health Overview
 
 > **学科定位**: 男科学(Andrology) · 男性健康医学 · 性别医学

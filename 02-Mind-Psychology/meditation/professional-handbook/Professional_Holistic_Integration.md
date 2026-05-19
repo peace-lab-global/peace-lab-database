@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师身心健康整合 | Professional Holistic Integration"
+description: "冥想执行师身心健康整合 | Professional Holistic Integration的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["anxiety", "cbt", "sleep"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师身心健康整合 | Professional Holistic Integration"
+  - "冥想执行师身心健康整合 | Professional Holistic Integration的核心概念"
+  - "冥想执行师身心健康整合 | Professional Holistic Integration的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Willpower_Instinct.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 冥想执行师身心健康整合 | Professional Holistic Integration
 
 > **领域**：冥想执行师职业手册 — 身心健康整合

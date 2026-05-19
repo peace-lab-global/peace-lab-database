@@ -1,3 +1,31 @@
+---
+
+title: "《箭术与禅心》Zen in the Art of Archery"
+description: "《箭术与禅心》Zen in the Art of Archery的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《箭术与禅心》Zen in the Art of Archery"
+  - "《箭术与禅心》Zen in the Art of Archery的核心概念"
+  - "《箭术与禅心》Zen in the Art of Archery的方法与实践"
+trigger_keywords: ["body", "breathwork", "death", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 《箭术与禅心》Zen in the Art of Archery
 
 > 欧根·赫立格尔（Eugen Herrigel）著，1948年出版。德国哲学家，1924-1929年在日本学习箭术，师从泽庵宗彭和阿波研造。这本书记录了他六年学箭的经历，以及从"技艺"到"道"的转化过程。是西方世界了解"日本禅"最具影响力的著作之一。

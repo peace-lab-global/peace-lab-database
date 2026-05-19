@@ -1,3 +1,31 @@
+---
+
+title: "禅宗修行法门"
+description: "禅宗修行法门的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["phobia", "sleep", "zen", "buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是禅宗修行法门"
+  - "禅宗修行法门的核心概念"
+  - "禅宗修行法门的方法与实践"
+trigger_keywords: ["禅宗修行法门", "body", "breathwork", "phobia", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 禅宗修行法门
 
 ## 概述

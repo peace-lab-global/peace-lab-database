@@ -1,3 +1,31 @@
+---
+
+title: "《局外人》The Outsider"
+description: "《局外人》The Outsider的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《局外人》The Outsider"
+  - "《局外人》The Outsider的核心概念"
+  - "《局外人》The Outsider的方法与实践"
+trigger_keywords: ["art", "buddhism", "literature", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/emotion/sexuality"
+
+---
 # 《局外人》The Outsider
 
 > 科林·威尔逊（Colin Wilson）著，1956年出版。英国哲学家威尔逊在24岁时写下的处女作，一经出版就成为国际畅销书。威尔逊分析了文学、哲学和历史上的"局外人"——那些无法适应社会、在存在性不安中挣扎的创造性个体。

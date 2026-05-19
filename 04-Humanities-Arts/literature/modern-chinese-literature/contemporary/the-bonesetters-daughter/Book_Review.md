@@ -1,3 +1,31 @@
+---
+
+title: "《接骨师之女》读书笔记与书评"
+description: "《接骨师之女》读书笔记与书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Bonesetters Daughter"
+tags: ["attachment", "literature", "ocd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《接骨师之女》读书笔记与书评"
+  - "《接骨师之女》读书笔记与书评的核心概念"
+  - "《接骨师之女》读书笔记与书评的方法与实践"
+trigger_keywords: ["aging", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 《接骨师之女》读书笔记与书评
 
 ## 一、总体评价

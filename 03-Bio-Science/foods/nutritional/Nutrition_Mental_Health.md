@@ -1,3 +1,32 @@
+---
+
+title: "营养与心理健康 | Nutrition and Mental Health"
+description: "营养与心理健康 | Nutrition and Mental Health的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Nutritional"
+tags: ["aging", "brain", "nutrition", "inflammation"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是营养与心理健康 | Nutrition and Mental Health"
+  - "营养与心理健康 | Nutrition and Mental Health的核心概念"
+  - "营养与心理健康 | Nutrition and Mental Health的方法与实践"
+  - "营养与心理健康 | Nutrition and Mental Health的自助方法"
+trigger_keywords: ["营养与心理健康", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 营养与心理健康 | Nutrition and Mental Health
 
 > 萠养精神病学（Nutritional Psychiatry）是21世纪快速发展的交叉学科，研究饮食模式、营养素与心理健康之间的双向关系。从肠-脑轴（Gut-Brain Axis）到炎症假说（Inflammation Hypothesis），从地中海饮食对抑郁的预防作用到糖摄入与焦虑的关联，营养正从"边缘话题"走向精神健康的核心议题。本文件系统梳理营养与心理健康的理论基础、核心通路与临床应用。

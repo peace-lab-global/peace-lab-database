@@ -1,3 +1,31 @@
+---
+
+title: "薄伽梵歌研读 | Bhagavad Gita Study"
+description: "薄伽梵歌研读 | Bhagavad Gita Study的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
+tags: ["decision-making", "flow", "meditation", "philosophy", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是薄伽梵歌研读 | Bhagavad Gita Study"
+  - "薄伽梵歌研读 | Bhagavad Gita Study的核心概念"
+  - "薄伽梵歌研读 | Bhagavad Gita Study的方法与实践"
+trigger_keywords: ["薄伽梵歌研读", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/death/meditation"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/death/meditation"
+  - path: "README.md"
+    relation: "anxiety/death/meditation"
+
+---
 # 薄伽梵歌研读 | Bhagavad Gita Study
 
 > **学科定位**: 印度灵性文学 × 行动哲学 × 存在主义伦理学

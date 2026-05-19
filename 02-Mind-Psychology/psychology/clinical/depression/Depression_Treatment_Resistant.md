@@ -1,3 +1,31 @@
+---
+
+title: "Treatment-Resistant Depression (难治性抑郁诊疗指南)"
+description: "Treatment-Resistant Depression (难治性抑郁诊疗指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "cbt", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Treatment-Resistant Depression"
+  - "Treatment-Resistant Depression的核心概念"
+  - "Treatment-Resistant Depression的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # Treatment-Resistant Depression (难治性抑郁诊疗指南)
 
 > **难治性抑郁 (Treatment-Resistant Depression, TRD)**

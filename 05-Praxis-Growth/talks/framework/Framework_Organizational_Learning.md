@@ -1,3 +1,31 @@
+---
+
+title: "组织学习 | Organizational Learning"
+description: "组织学习 | Organizational Learning的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是组织学习 | Organizational Learning"
+  - "组织学习 | Organizational Learning的核心概念"
+  - "组织学习 | Organizational Learning的方法与实践"
+trigger_keywords: ["组织学习", "act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "exercise/neuroscience/sexuality"
+
+---
 # 组织学习 | Organizational Learning
 
 > **组织学习（Organizational Learning）** 是组织通过获取、解释、分享和存储知识，不断改善行为和提升能力的过程。它是学习型组织的核心机制，也是组织适应复杂环境、实现持续创新的关键能力。本文档系统梳理组织学习的理论基础、核心机制、实践模型和前沿发展，为组织发展顾问、管理者和学习设计师提供全面的知识框架。

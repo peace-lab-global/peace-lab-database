@@ -1,3 +1,31 @@
+---
+
+title: "Eighty-Four Thousand Questions | 八万四千问"
+description: "Eighty-Four Thousand Questions | 八万四千问的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Eighty Four Thousand Questions"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Eighty-Four Thousand Questions | 八万四千问"
+  - "Eighty-Four Thousand Questions | 八万四千问的核心概念"
+  - "Eighty-Four Thousand Questions | 八万四千问的方法与实践"
+trigger_keywords: ["八万四千问", "buddhism", "death", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/emotion"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "buddhism/death/emotion"
+  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
+    relation: "buddhism/death/emotion"
+  - path: "03-Bio-Science/death/Death_Comparative_Philosophy.md"
+    relation: "buddhism/death/emotion"
+  - path: "03-Bio-Science/death/Death_Resources_Bibliography.md"
+    relation: "buddhism/death/emotion"
+
+---
 # Eighty-Four Thousand Questions | 八万四千问
 
 > 宗萨蒋扬钦哲仁波切著，2016年出版。以问答形式回应现代人对佛教的各种疑问。

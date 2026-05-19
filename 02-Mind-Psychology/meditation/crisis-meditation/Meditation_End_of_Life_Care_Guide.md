@@ -1,3 +1,31 @@
+---
+
+title: "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide"
+description: "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Crisis Meditation"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide"
+  - "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的核心概念"
+  - "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "README.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide
 
 > **领域**：临终关怀、安宁疗护与死亡准备的冥想应用（Palliative Care, Hospice & Death Preparation）

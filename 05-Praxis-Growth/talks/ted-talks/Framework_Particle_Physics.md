@@ -1,3 +1,31 @@
+---
+
+title: "粒子物理 | Particle Physics"
+description: "粒子物理 | Particle Physics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "leadership", "讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是粒子物理 | Particle Physics"
+  - "粒子物理 | Particle Physics的核心概念"
+  - "粒子物理 | Particle Physics的方法与实践"
+trigger_keywords: ["粒子物理", "body", "communication", "leadership", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality"
+
+---
 # 粒子物理 | Particle Physics
 
 > **粒子物理**（Particle Physics）研究物质最基本的组成成分和它们之间的相互作用，探索宇宙最深层的基本规律。TED平台上关于粒子物理的演讲将人类对自然界终极构成的好奇转化为激动人心的科学叙事，从大型强子对撞机到中微子探测，展示了基础科学的壮丽探索。

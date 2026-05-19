@@ -1,3 +1,32 @@
+---
+
+title: "藏传佛教心理学 (Tibetan Buddhist Psychology)"
+description: "藏传佛教心理学 (Tibetan Buddhist Psychology)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是藏传佛教心理学"
+  - "藏传佛教心理学的核心概念"
+  - "藏传佛教心理学的方法与实践"
+  - "藏传佛教心理学的自助方法"
+trigger_keywords: ["藏传佛教心理学", "act", "addiction", "anxiety", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 藏传佛教心理学 (Tibetan Buddhist Psychology)
 
 > **藏传佛教心理学**：基于阿毗达摩(Abhidharma)传统与藏传密宗的系统心理学体系，探究心识的本质、功能与转化之道。

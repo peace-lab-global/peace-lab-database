@@ -1,3 +1,31 @@
+---
+
+title: "《哲学的慰藉》The Consolation of Philosophy"
+description: "《哲学的慰藉》The Consolation of Philosophy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《哲学的慰藉》The Consolation of Philosophy"
+  - "《哲学的慰藉》The Consolation of Philosophy的核心概念"
+  - "《哲学的慰藉》The Consolation of Philosophy的方法与实践"
+trigger_keywords: ["anxiety", "buddhism", "death", "literature"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《哲学的慰藉》The Consolation of Philosophy
 
 > 波爱修斯（Boethius）著，公元524年。罗马哲学家、政治家在因叛国罪被监禁并处死前写下的对话录。这本书是西方中世纪最广泛阅读的作品之一，将斯多葛主义、柏拉图主义和新柏拉图主义融合为一种面对苦难和死亡的哲学安慰。

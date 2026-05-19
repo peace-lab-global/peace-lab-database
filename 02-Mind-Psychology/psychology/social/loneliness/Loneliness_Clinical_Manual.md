@@ -1,3 +1,31 @@
+---
+
+title: "孤独临床诊疗手册 (Loneliness Clinical Treatment Manual)"
+description: "孤独临床诊疗手册 (Loneliness Clinical Treatment Manual)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独临床诊疗手册"
+  - "孤独临床诊疗手册的核心概念"
+  - "孤独临床诊疗手册的方法与实践"
+trigger_keywords: ["孤独临床诊疗手册", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独临床诊疗手册 (Loneliness Clinical Treatment Manual)
 
 ## 临床诊疗框架 (Clinical Treatment Framework)

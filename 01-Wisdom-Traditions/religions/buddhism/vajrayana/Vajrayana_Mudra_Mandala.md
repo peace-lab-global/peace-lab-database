@@ -1,3 +1,31 @@
+---
+
+title: "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境"
+description: "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
+tags: ["buddhism", "dzogchen", "mandala", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是手印与坛城 | Mudrā & Maṇḍala | 身印与圣境"
+  - "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的核心概念"
+  - "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的方法与实践"
+trigger_keywords: ["手印与坛城", "身印与圣境", "act", "art", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Practical_Guide.md"
+    relation: "buddhism/communication/sexuality"
+
+---
 # 手印与坛城 | Mudrā & Maṇḍala | 身印与圣境
 
 > **手印**（梵文：Mudrā，藏文：ཕྱག་རྒྱ，威利：phyag rgya）意为"印契"或"封印"，是以身体（尤其手指）结成的特定姿态，象征本尊的身功德与智慧。**坛城**（梵文：Maṇḍala，藏文：དཀྱིལ་འཁོར་，威利：dkyil 'khor）意为"中围"或"圣域"，是本尊及其眷属安住的神圣宇宙图式，代表觉悟者的清净世界。二者是金刚乘修行中"身密"的核心表达。

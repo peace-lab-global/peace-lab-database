@@ -1,3 +1,31 @@
+---
+
+title: "李斯特交响诗《前奏曲》聆听指南"
+description: "李斯特交响诗《前奏曲》聆听指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
+tags: ["habits", "music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是李斯特交响诗《前奏曲》聆听指南"
+  - "李斯特交响诗《前奏曲》聆听指南的核心概念"
+  - "李斯特交响诗《前奏曲》聆听指南的方法与实践"
+trigger_keywords: ["art", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 李斯特交响诗《前奏曲》聆听指南
 
 ## 聆听准备建议

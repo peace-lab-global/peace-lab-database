@@ -1,3 +1,31 @@
+---
+
+title: "净土宗五经"
+description: "净土宗五经的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "mindfulness", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是净土宗五经"
+  - "净土宗五经的核心概念"
+  - "净土宗五经的方法与实践"
+trigger_keywords: ["净土宗五经", "buddhism", "developmental", "mindfulness", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 净土宗五经
 
 净土宗以「五经一论」为核心理论依据，其中「五经」是修行净土法门的根本经典。这五部经典分别从不同角度阐述了阿弥陀佛的大愿、西方极乐世界的庄严、以及往生净土的方法。

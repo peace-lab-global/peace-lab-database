@@ -1,3 +1,31 @@
+---
+
+title: "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia"
+description: "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia"
+  - "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的核心概念"
+  - "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia
 
 > **TED演讲**（Technology, Entertainment, Design）是全球最具影响力的思想传播平台。本文档系统整合TED演讲在人类学、心理学、身体健康、社会议题、政治哲学等全领域的优质资源，为学习者提供跨学科、多维度的知识入口。每个演讲均包含核心观点、实践启示及与相关知识体系的对应关系。

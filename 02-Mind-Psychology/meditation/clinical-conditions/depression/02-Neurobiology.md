@@ -1,3 +1,31 @@
+---
+
+title: "Neurobiology"
+description: "Neurobiology的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["brain", "depression", "dmn", "intervention", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Neurobiology"
+  - "Neurobiology的核心概念"
+  - "Neurobiology的方法与实践"
+trigger_keywords: ["brain", "cognitive", "depression", "dmn"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "depression/emotion/exercise"
+
+---
 ## 2. 抑郁的神经生物学机制
 
 ### 2.1 抑郁相关的脑网络

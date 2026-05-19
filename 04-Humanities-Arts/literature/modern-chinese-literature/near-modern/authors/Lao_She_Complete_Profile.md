@@ -1,3 +1,25 @@
+---
+
+title: "老舍完整专业档案：平民文学的杰出代表"
+description: "老舍完整专业档案：平民文学的杰出代表的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Near Modern > Authors"
+tags: ["literature", "marriage", "self-confidence"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老舍完整专业档案：平民文学的杰出代表"
+  - "老舍完整专业档案：平民文学的杰出代表的核心概念"
+  - "老舍完整专业档案：平民文学的杰出代表的方法与实践"
+trigger_keywords: ["art", "cognitive", "developmental", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment"
+  - path: "README.md"
+    relation: "art_therapy/attachment"
+
+---
 # 老舍完整专业档案：平民文学的杰出代表
 
 ## 概述 (Overview)

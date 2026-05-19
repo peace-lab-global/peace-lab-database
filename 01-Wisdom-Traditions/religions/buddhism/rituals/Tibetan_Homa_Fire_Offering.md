@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)"
+description: "藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "longevity", "mandala", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教火供仪轨"
+  - "藏传佛教火供仪轨的核心概念"
+  - "藏传佛教火供仪轨的方法与实践"
+trigger_keywords: ["藏传佛教火供仪轨", "buddhism", "emotion", "healing", "longevity"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "aging/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "aging/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "aging/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/buddhism/emotion"
+
+---
 # 藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)
 
 > **火供 (Homa / Jinsek / Sbyin Sreg)**：以火为媒介，向诸佛菩萨及护法圣众供养的密乘仪轨。火供具有快速积资净障、成就事业的殊胜功德，是藏传佛教中重要的实修法门。

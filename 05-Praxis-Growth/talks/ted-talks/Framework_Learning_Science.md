@@ -1,3 +1,31 @@
+---
+
+title: "学习科学 | Learning Science"
+description: "学习科学 | Learning Science的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是学习科学 | Learning Science"
+  - "学习科学 | Learning Science的核心概念"
+  - "学习科学 | Learning Science的方法与实践"
+trigger_keywords: ["学习科学", "act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 学习科学 | Learning Science
 
 > **学习科学**（Learning Science）是研究人类如何学习的跨学科领域——从认知心理学（Cognitive Psychology）到神经科学（Neuroscience），从教育研究（Education Research）到计算建模（Computational Modeling）。理解学习的科学原理是优化教育和培训的理论基础。本文件精选TED平台上关于学习科学的代表性演讲，帮助读者掌握关于"学习"本身的科学知识。

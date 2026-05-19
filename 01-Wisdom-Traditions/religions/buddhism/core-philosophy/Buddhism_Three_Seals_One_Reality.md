@@ -1,3 +1,31 @@
+---
+
+title: "三法印与一实相印深度解析 (Three Seals & One Reality Seal)"
+description: "三法印与一实相印深度解析 (Three Seals & One Reality Seal)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是三法印与一实相印深度解析"
+  - "三法印与一实相印深度解析的核心概念"
+  - "三法印与一实相印深度解析的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/neuroscience"
+
+---
 # 三法印与一实相印深度解析 (Three Seals & One Reality Seal)
 
 > **三法印 (Three Dharma Seals)**：无常、无我、涅槃寂静，是判断是否为佛法的根本标准。**一实相印 (One Reality Seal)**：诸法实相，空性智慧，是大乘佛教对三法印的统一概括。

@@ -1,3 +1,31 @@
+---
+
+title: "《神曲》The Divine Comedy"
+description: "《神曲》The Divine Comedy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《神曲》The Divine Comedy"
+  - "《神曲》The Divine Comedy的核心概念"
+  - "《神曲》The Divine Comedy的方法与实践"
+trigger_keywords: ["death", "literature", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death"
+
+---
 # 《神曲》The Divine Comedy
 
 > 但丁·阿利吉耶里（Dante Alighieri）著，1320年（完成）。意大利诗人但丁的史诗巨著，描述了诗人穿越地狱（Inferno）、炼狱（Purgatorio）和天堂（Paradiso）的旅程。世界文学史上最伟大的作品之一，也是基督教世界对"死后世界"最详细的文学描述。

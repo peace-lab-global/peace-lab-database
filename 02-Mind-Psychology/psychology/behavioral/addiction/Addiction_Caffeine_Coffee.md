@@ -1,3 +1,31 @@
+---
+
+title: "咖啡因成瘾与咖啡使用障碍 (Caffeine Addiction & Coffee Use Disorder)"
+description: "咖啡因成瘾与咖啡使用障碍 (Caffeine Addiction & Coffee Use Disorder)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
+tags: ["addiction", "anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是咖啡因成瘾与咖啡使用障碍"
+  - "咖啡因成瘾与咖啡使用障碍的核心概念"
+  - "咖啡因成瘾与咖啡使用障碍的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "aging/anxiety/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Overview.md"
+    relation: "aging/anxiety/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/productivity"
+
+---
 # 咖啡因成瘾与咖啡使用障碍 (Caffeine Addiction & Coffee Use Disorder)
 
 ## 核心术语与定义表 (Core Terminology & Definitions)

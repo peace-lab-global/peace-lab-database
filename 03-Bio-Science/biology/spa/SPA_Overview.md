@@ -1,3 +1,31 @@
+---
+
+title: "SPA Overview (水疗养生概览)"
+description: "SPA Overview (水疗养生概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa"
+tags: ["aging", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是SPA Overview"
+  - "SPA Overview的核心概念"
+  - "SPA Overview的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # SPA Overview (水疗养生概览)
 
 > 🏥 **专业概览**: 本文档提供SPA水疗养生的全面概述，包括定义、分类体系、历史发展、现代应用和行业标准。SPA作为综合性的身心健康管理方式，融合了水疗、按摩、芳香疗法等多种技术手段。

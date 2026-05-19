@@ -1,3 +1,31 @@
+---
+
+title: "Coffee Neuroscience & Pharmacology (咖啡神经科学与药理学)"
+description: "Coffee Neuroscience & Pharmacology (咖啡神经科学与药理学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Coffee"
+tags: ["addiction", "aging", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Coffee Neuroscience & Pharmacology"
+  - "Coffee Neuroscience & Pharmacology的核心概念"
+  - "Coffee Neuroscience & Pharmacology的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # Coffee Neuroscience & Pharmacology (咖啡神经科学与药理学)
 
 ## 咖啡因药代动力学表 (Caffeine Pharmacokinetics)

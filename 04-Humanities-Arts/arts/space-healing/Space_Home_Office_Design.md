@@ -1,3 +1,31 @@
+---
+
+title: "居住与办公空间设计 | Home & Office Space Design"
+description: "居住与办公空间设计 | Home & Office Space Design的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 空间疗愈"
+tags: ["cortisol", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是居住与办公空间设计 | Home & Office Space Design"
+  - "居住与办公空间设计 | Home & Office Space Design的核心概念"
+  - "居住与办公空间设计 | Home & Office Space Design的方法与实践"
+trigger_keywords: ["居住与办公空间设计", "anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 居住与办公空间设计 | Home & Office Space Design
 
 > **学科定位**: 环境心理学 × 室内设计 × 行为科学

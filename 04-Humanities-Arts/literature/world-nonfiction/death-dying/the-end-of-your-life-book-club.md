@@ -1,3 +1,31 @@
+---
+
+title: "《生命最后的读书会》The End of Your Life Book Club"
+description: "《生命最后的读书会》The End of Your Life Book Club的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["marriage", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《生命最后的读书会》The End of Your Life Book Club"
+  - "《生命最后的读书会》The End of Your Life Book Club的核心概念"
+  - "《生命最后的读书会》The End of Your Life Book Club的方法与实践"
+trigger_keywords: ["death", "marriage", "sexuality", "文学"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "attachment/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "attachment/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/death"
+
+---
 # 《生命最后的读书会》The End of Your Life Book Club
 
 > 威尔·施瓦尔贝（Will Schwalbe）著，2012年出版。出版业从业者施瓦尔贝记录了与母亲玛丽·安在癌症晚期两年间共同阅读的旅程。他们在化疗病房、候诊室、家中讨论书籍，从《刺猬的优雅》到《奥丽芙·基特里奇》，从《小王子》到《圣经》。

@@ -1,3 +1,31 @@
+---
+
+title: "色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)"
+description: "色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["addiction", "anxiety", "mindfulness", "cbt", "mbct"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情成瘾临床应用指南"
+  - "色情成瘾临床应用指南的核心概念"
+  - "色情成瘾临床应用指南的方法与实践"
+trigger_keywords: ["色情成瘾临床应用指南", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Parmenides.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/emotion/sexuality"
+
+---
 # 色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)
 
 > 🏥 **临床实践指南**: 本文档提供色情成瘾的临床诊断、治疗干预和康复管理的系统性指导。建议结合[窥淫癖临床评估](Voyeurism_Clinical_Assessment.md)了解相关诊断标准，参考[色情成瘾研究方法](Pornography_Addiction_Research_Methods.md)掌握疗效评估标准。

@@ -1,3 +1,31 @@
+---
+
+title: "阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)"
+description: "阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "mindfulness", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阿弥陀佛完整修持仪轨"
+  - "阿弥陀佛完整修持仪轨的核心概念"
+  - "阿弥陀佛完整修持仪轨的方法与实践"
+trigger_keywords: ["阿弥陀佛完整修持仪轨", "body", "buddhism", "mindfulness", "佛教"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)
 
 > **阿弥陀佛 (Amitabha Buddha / Wuliangshou Fo)**：西方极乐世界教主，接引念佛人往生净土。汉传佛教影响最大的本尊，净土宗立宗根本。此仪轨涵盖观想、持名、发愿、回向的完整修持。

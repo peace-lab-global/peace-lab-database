@@ -1,3 +1,31 @@
+---
+
+title: "《薄伽梵歌》Bhagavad Gita"
+description: "《薄伽梵歌》Bhagavad Gita的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["mindfulness", "phobia", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《薄伽梵歌》Bhagavad Gita"
+  - "《薄伽梵歌》Bhagavad Gita的核心概念"
+  - "《薄伽梵歌》Bhagavad Gita的方法与实践"
+trigger_keywords: ["body", "buddhism", "crisis", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/daoism"
+
+---
 # 《薄伽梵歌》Bhagavad Gita
 
 > 毗耶娑（Vyasa）著，约公元前5世纪至公元前2世纪形成，印度史诗《摩诃婆罗多》的一部分。黑天（Krishna）对阿周那（Arjuna）在战场上的教导，涵盖了行动瑜伽（Karma Yoga）、奉爱瑜伽（Bhakti Yoga）和知识瑜伽（Jnana Yoga），是印度哲学和精神生活最具影响力的经典。

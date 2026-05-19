@@ -1,3 +1,31 @@
+---
+
+title: "藏传仪式疗愈 (Tibetan Ritual Healing)"
+description: "藏传仪式疗愈 (Tibetan Ritual Healing)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是藏传仪式疗愈"
+  - "藏传仪式疗愈的核心概念"
+  - "藏传仪式疗愈的方法与实践"
+trigger_keywords: ["藏传仪式疗愈", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 藏传仪式疗愈 (Tibetan Ritual Healing)
 
 > **藏传仪式疗愈**：融合佛教密宗、苯教萨满传统与藏医学的综合仪式治疗体系。

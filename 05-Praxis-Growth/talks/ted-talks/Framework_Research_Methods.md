@@ -1,3 +1,31 @@
+---
+
+title: "统计学与研究方法 | Statistics & Research Methods"
+description: "统计学与研究方法 | Statistics & Research Methods的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是统计学与研究方法 | Statistics & Research Methods"
+  - "统计学与研究方法 | Statistics & Research Methods的核心概念"
+  - "统计学与研究方法 | Statistics & Research Methods的方法与实践"
+trigger_keywords: ["统计学与研究方法", "adolescent", "art", "assessment", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "communication/death/exercise"
+
+---
 # 统计学与研究方法 | Statistics & Research Methods
 
 > **统计学与研究方法**（Statistics & Research Methods）是科学研究的基石，为理解复杂数据、验证假说和做出决策提供系统工具。TED平台上关于统计思维和研究方法的演讲揭示了数据的力量与陷阱，帮助公众建立批判性统计素养。

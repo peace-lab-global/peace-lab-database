@@ -1,3 +1,31 @@
+---
+
+title: "婚内孤独临床管理指南专业内容体系"
+description: "婚内孤独临床管理指南专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
+tags: ["anxiety", "attachment", "cbt", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是婚内孤独临床管理指南专业内容体系"
+  - "婚内孤独临床管理指南专业内容体系的核心概念"
+  - "婚内孤独临床管理指南专业内容体系的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 婚内孤独临床管理指南专业内容体系
 
 ## 目录

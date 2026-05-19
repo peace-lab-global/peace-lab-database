@@ -1,3 +1,31 @@
+---
+
+title: "《自我与原型》Ego and Archetype"
+description: "《自我与原型》Ego and Archetype的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《自我与原型》Ego and Archetype"
+  - "《自我与原型》Ego and Archetype的核心概念"
+  - "《自我与原型》Ego and Archetype的方法与实践"
+trigger_keywords: ["clinical", "death", "jung", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/sexuality"
+
+---
 # 《自我与原型》Ego and Archetype
 
 > 爱德华·惠特蒙特（Edward F. Edinger）著，1972年出版。美国荣格分析师惠特蒙特的经典著作，深入探讨了"自我"（Ego）与"自性"（Self）之间的关系——这是荣格心理学中最核心、也最困难的主题。惠特蒙特用清晰的语言和丰富的临床案例，让这一抽象概念变得 accessible。

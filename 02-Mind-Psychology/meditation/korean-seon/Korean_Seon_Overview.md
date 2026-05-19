@@ -1,3 +1,31 @@
+---
+
+title: "韩国禅（Seon）专业概述"
+description: "韩国禅（Seon）专业概述的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Korean Seon"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是韩国禅（Seon）专业概述"
+  - "韩国禅（Seon）专业概述的核心概念"
+  - "韩国禅（Seon）专业概述的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 韩国禅（Seon）专业概述
 
 > **适用对象**：对东亚禅宗传统感兴趣的冥想练习者、韩国文化研究者、寻求深度禅修体验者  

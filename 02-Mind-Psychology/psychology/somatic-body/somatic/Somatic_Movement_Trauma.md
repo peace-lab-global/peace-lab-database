@@ -1,3 +1,31 @@
+---
+
+title: "Trauma & Expression (创伤释放与表达性运动)"
+description: "Trauma & Expression (创伤释放与表达性运动)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["anxiety", "brain", "depression", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Trauma & Expression"
+  - "Trauma & Expression的核心概念"
+  - "Trauma & Expression的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Trauma & Expression (创伤释放与表达性运动)
 
 ### TRE: Tension & Trauma Releasing (TRE：张力与创伤释放技术表)

@@ -1,3 +1,31 @@
+---
+
+title: "《Conscious Breathing》"
+description: "《Conscious Breathing》的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《Conscious Breathing》"
+  - "《Conscious Breathing》的核心概念"
+  - "《Conscious Breathing》的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《Conscious Breathing》
 
 > 盖伊·芬利（Guy Finley）著，1999年出版。美国灵性导师，融合了基督教神秘主义、东方哲学和当代心理学的洞见。这本书专注于呼吸作为"进入当下"的工具，以及如何通过呼吸来释放负面情绪和自我限制的信念。

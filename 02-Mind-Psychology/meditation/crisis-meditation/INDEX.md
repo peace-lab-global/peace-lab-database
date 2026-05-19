@@ -1,3 +1,31 @@
+---
+
+title: "危机与哀伤冥想 Crisis & Grief Meditation"
+description: "危机与哀伤冥想 Crisis & Grief Meditation的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Crisis Meditation"
+tags: ["anxiety", "grief", "intervention", "meditation", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是危机与哀伤冥想 Crisis & Grief Meditation"
+  - "危机与哀伤冥想 Crisis & Grief Meditation的核心概念"
+  - "危机与哀伤冥想 Crisis & Grief Meditation的方法与实践"
+trigger_keywords: ["anxiety", "crisis", "grief", "intervention"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+
+---
 # 危机与哀伤冥想 Crisis & Grief Meditation
 
 > 最后更新：2026-05

@@ -1,3 +1,31 @@
+---
+
+title: "国际比较与借鉴 (International Comparison and Reference)"
+description: "国际比较与借鉴 (International Comparison and Reference)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是国际比较与借鉴"
+  - "国际比较与借鉴的核心概念"
+  - "国际比较与借鉴的方法与实践"
+trigger_keywords: ["国际比较与借鉴", "act", "adolescent", "assessment", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/emotion"
+  - path: "05-Praxis-Growth/personal-development/financial-literacy/Money_Mindset_Beliefs.md"
+    relation: "buddhism/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/emotion"
+
+---
 # 国际比较与借鉴 (International Comparison and Reference)
 
 > 📘 **文档导航**: 本专题通过国际比较分析，为中国性压抑问题的解决提供借鉴经验。如需了解其他相关内容，请参考：

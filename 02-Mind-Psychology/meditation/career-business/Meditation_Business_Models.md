@@ -1,3 +1,31 @@
+---
+
+title: "冥想商业模式分析 | Meditation Business Models"
+description: "冥想商业模式分析 | Meditation Business Models的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Career Business"
+tags: ["anxiety", "depression", "mbsr", "meditation", "mindfulness", "pain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想商业模式分析 | Meditation Business Models"
+  - "冥想商业模式分析 | Meditation Business Models的核心概念"
+  - "冥想商业模式分析 | Meditation Business Models的方法与实践"
+trigger_keywords: ["冥想商业模式分析", "anxiety", "depression", "developmental", "mbsr"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/depression/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/depression/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
+    relation: "anxiety/depression/meditation"
+
+---
 # 冥想商业模式分析 | Meditation Business Models
 
 > **领域**：冥想商业化与职业发展（Meditation Business & Career）

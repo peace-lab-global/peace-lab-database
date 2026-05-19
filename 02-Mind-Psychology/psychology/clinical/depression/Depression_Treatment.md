@@ -1,3 +1,31 @@
+---
+
+title: "Depression Treatment (抑郁症治疗方法)"
+description: "Depression Treatment (抑郁症治疗方法)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "depression", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Depression Treatment"
+  - "Depression Treatment的核心概念"
+  - "Depression Treatment的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
+    relation: "aging/anxiety/depression"
+
+---
 # Depression Treatment (抑郁症治疗方法)
 
 > **抑郁症治疗 (Depression Treatment / Antidepressant Therapy)**

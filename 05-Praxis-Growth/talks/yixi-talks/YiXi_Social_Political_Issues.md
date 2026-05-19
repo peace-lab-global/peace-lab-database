@@ -1,3 +1,31 @@
+---
+
+title: "一席社会议题与政治精选 | YiXi Social & Political Issues Collection"
+description: "一席社会议题与政治精选 | YiXi Social & Political Issues Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Yixi Talks"
+tags: ["positive-psychology", "resilience", "讲座"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是一席社会议题与政治精选 | YiXi Social & Political Issues Collection"
+  - "一席社会议题与政治精选 | YiXi Social & Political Issues Collection的核心概念"
+  - "一席社会议题与政治精选 | YiXi Social & Political Issues Collection的方法与实践"
+trigger_keywords: ["assessment", "developmental", "philosophy", "positive-psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality"
+
+---
 # 一席社会议题与政治精选 | YiXi Social & Political Issues Collection
 
 > **社会议题与政治**关乎人类社会的发展方向和治理智慧。本文件精选一席平台上关于社会公正、政治哲学、全球化、媒体变革等重要议题的优质演讲，为关心社会发展和政治文明的学习者提供深度思考和多元视角。

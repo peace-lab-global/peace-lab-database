@@ -1,3 +1,21 @@
+---
+
+title: "身体美学恋物"
+description: "身体美学恋物的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["性学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是身体美学恋物"
+  - "身体美学恋物的核心概念"
+  - "身体美学恋物的方法与实践"
+trigger_keywords: ["身体美学恋物", "body", "性学"]
+cross_refs: []
+
+---
 # 身体美学恋物
 
 > TODO: 待补充内容

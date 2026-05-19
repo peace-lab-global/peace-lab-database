@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽伦理、商业与专业发展 (Yoga Ethics, Business & Professional Development)"
+description: "瑜伽伦理、商业与专业发展 (Yoga Ethics, Business & Professional Development)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽伦理、商业与专业发展"
+  - "瑜伽伦理、商业与专业发展的核心概念"
+  - "瑜伽伦理、商业与专业发展的方法与实践"
+trigger_keywords: ["瑜伽伦理", "商业与专业发展", "act", "aging", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "aging/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/emotion"
+
+---
 # 瑜伽伦理、商业与专业发展 (Yoga Ethics, Business & Professional Development)
 
 ## 核心术语表 (Core Terminology)

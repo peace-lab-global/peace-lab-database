@@ -1,3 +1,31 @@
+---
+
+title: "Tchaikovsky (柴可夫斯基)：浪漫主义的抒情巨匠"
+description: "Tchaikovsky (柴可夫斯基)：浪漫主义的抒情巨匠的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
+tags: ["ballet", "decision-making", "habits", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tchaikovsky ：浪漫主义的抒情巨匠"
+  - "Tchaikovsky ：浪漫主义的抒情巨匠的核心概念"
+  - "Tchaikovsky ：浪漫主义的抒情巨匠的方法与实践"
+trigger_keywords: ["act", "art", "ballet", "child"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "README.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+
+---
 # Tchaikovsky (柴可夫斯基)：浪漫主义的抒情巨匠
 
 ## 概述 (Overview)

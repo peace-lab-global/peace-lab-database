@@ -1,3 +1,32 @@
+---
+
+title: "中国社会性焦虑形成机制深度分析"
+description: "中国社会性焦虑形成机制深度分析的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["addiction", "aging", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性焦虑形成机制深度分析"
+  - "中国社会性焦虑形成机制深度分析的核心概念"
+  - "中国社会性焦虑形成机制深度分析的方法与实践"
+  - "中国社会性焦虑形成机制深度分析的自助方法"
+trigger_keywords: ["addiction", "aging", "anxiety", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 中国社会性焦虑形成机制深度分析
 
 ## 理论分析框架

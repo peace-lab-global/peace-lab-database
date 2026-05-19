@@ -1,3 +1,31 @@
+---
+
+title: "《自由的神话》The Myth of Freedom"
+description: "《自由的神话》The Myth of Freedom的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《自由的神话》The Myth of Freedom"
+  - "《自由的神话》The Myth of Freedom的核心概念"
+  - "《自由的神话》The Myth of Freedom的方法与实践"
+trigger_keywords: ["buddhism", "psychology", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/sexuality"
+
+---
 # 《自由的神话》The Myth of Freedom
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1976年出版。创巴仁波切对佛教心理学和修行道路的系统性阐述。核心论点是：**我们追求的"自由"通常只是另一种束缚——只有当我们面对自己的混乱和痛苦时，真正的自由才会出现。**

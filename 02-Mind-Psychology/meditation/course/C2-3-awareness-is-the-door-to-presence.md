@@ -1,3 +1,31 @@
+---
+
+title: "C2-3 冥想练习课：与当下同行：觉察是当下之门"
+description: "C2-3 冥想练习课：与当下同行：觉察是当下之门的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "decision-making", "dmn", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2-3 冥想练习课：与当下同行：觉察是当下之门"
+  - "C2-3 冥想练习课：与当下同行：觉察是当下之门的核心概念"
+  - "C2-3 冥想练习课：与当下同行：觉察是当下之门的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C2-3 冥想练习课：与当下同行：觉察是当下之门
 
 📑 智能总结

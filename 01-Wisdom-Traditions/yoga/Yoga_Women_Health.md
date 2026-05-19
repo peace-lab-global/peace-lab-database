@@ -1,3 +1,31 @@
+---
+
+title: "Yoga & Women's Health (瑜伽与女性健康)"
+description: "Yoga & Women's Health (瑜伽与女性健康)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["cortisol", "gut", "hpa-axis", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Yoga & Women's Health"
+  - "Yoga & Women's Health的核心概念"
+  - "Yoga & Women's Health的方法与实践"
+trigger_keywords: ["anxiety", "breathwork", "cognitive", "cortisol"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C5-1.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Yoga & Women's Health (瑜伽与女性健康)
 
 ## 一、女性生理周期与瑜伽 (Menstrual Cycle & Yoga)

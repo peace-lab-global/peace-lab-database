@@ -1,3 +1,32 @@
+---
+
+title: "运动与心理健康 (Exercise & Mental Health)"
+description: "运动与心理健康 (Exercise & Mental Health)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 运动科学"
+tags: ["addiction", "aging", "exercise", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是运动与心理健康"
+  - "运动与心理健康的核心概念"
+  - "运动与心理健康的方法与实践"
+  - "运动与心理健康的自助方法"
+trigger_keywords: ["运动与心理健康", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 运动与心理健康 (Exercise & Mental Health)
 
 > **领域定位**: 03-Bio-Science / biology / exercise-science

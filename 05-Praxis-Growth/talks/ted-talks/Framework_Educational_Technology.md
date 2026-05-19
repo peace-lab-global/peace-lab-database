@@ -1,3 +1,31 @@
+---
+
+title: "教育技术 | Educational Technology"
+description: "教育技术 | Educational Technology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["social"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教育技术 | Educational Technology"
+  - "教育技术 | Educational Technology的核心概念"
+  - "教育技术 | Educational Technology的方法与实践"
+trigger_keywords: ["教育技术", "act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 教育技术 | Educational Technology
 
 > **教育技术**（Educational Technology / EdTech）探索技术如何变革教与学的方式——从在线学习（Online Learning）到自适应学习（Adaptive Learning），从虚拟课堂（Virtual Classroom）到游戏化教育（Gamification in Education）。技术不仅是教育的工具，更是重新定义教育可能性的力量。本文件精选TED平台上关于教育技术的代表性演讲，帮助读者理解EdTech的创新趋势和实践挑战。

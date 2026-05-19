@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽与科技·数字化 (Yoga & Technology · Digital)"
+description: "瑜伽与科技·数字化 (Yoga & Technology · Digital)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["decision-making", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽与科技·数字化"
+  - "瑜伽与科技·数字化的核心概念"
+  - "瑜伽与科技·数字化的方法与实践"
+trigger_keywords: ["瑜伽与科技", "数字化", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 瑜伽与科技·数字化 (Yoga & Technology · Digital)
 
 ## 核心术语表 (Core Terminology)

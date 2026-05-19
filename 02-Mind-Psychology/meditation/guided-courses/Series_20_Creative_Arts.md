@@ -1,3 +1,31 @@
+---
+
+title: "系列二十：创意艺术冥想系列 | Creative Arts Series"
+description: "系列二十：创意艺术冥想系列 | Creative Arts Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "cinema", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列二十：创意艺术冥想系列 | Creative Arts Series"
+  - "系列二十：创意艺术冥想系列 | Creative Arts Series的核心概念"
+  - "系列二十：创意艺术冥想系列 | Creative Arts Series的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
+    relation: "anxiety/art_therapy/exercise"
+
+---
 # 系列二十：创意艺术冥想系列 | Creative Arts Series
 
 > **级别**：Level 2-4

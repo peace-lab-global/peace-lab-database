@@ -1,3 +1,31 @@
+---
+
+title: "动态冥想指南 | Movement Meditation Guide"
+description: "动态冥想指南 | Movement Meditation Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "depression", "mbsr", "mindfulness", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是动态冥想指南 | Movement Meditation Guide"
+  - "动态冥想指南 | Movement Meditation Guide的核心概念"
+  - "动态冥想指南 | Movement Meditation Guide的方法与实践"
+trigger_keywords: ["动态冥想指南", "act", "aging", "anxiety", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/daoism"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 动态冥想指南 | Movement Meditation Guide
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）

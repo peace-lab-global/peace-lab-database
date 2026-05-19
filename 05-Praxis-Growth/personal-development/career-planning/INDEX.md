@@ -1,3 +1,31 @@
+---
+
+title: "职业规划 | Career Planning"
+description: "职业规划 | Career Planning的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Career Planning"
+tags: ["decision-making", "longevity", "mindfulness", "personality", "financial-literacy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业规划 | Career Planning"
+  - "职业规划 | Career Planning的核心概念"
+  - "职业规划 | Career Planning的方法与实践"
+trigger_keywords: ["职业规划", "crisis", "decision-making", "developmental", "longevity"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "aging/meditation/personality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/meditation/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/meditation/personality"
+
+---
 # 职业规划 | Career Planning
 
 > 职业心理学 · 生涯发展 · Ikigai

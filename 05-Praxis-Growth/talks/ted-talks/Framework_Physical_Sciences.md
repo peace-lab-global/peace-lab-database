@@ -1,3 +1,31 @@
+---
+
+title: "物理科学 | Physical Sciences"
+description: "物理科学 | Physical Sciences的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["productivity"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是物理科学 | Physical Sciences"
+  - "物理科学 | Physical Sciences的核心概念"
+  - "物理科学 | Physical Sciences的方法与实践"
+trigger_keywords: ["物理科学", "brain", "cognitive", "developmental", "neuroscience"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/neuroscience/productivity"
+
+---
 # 物理科学 | Physical Sciences
 
 > **物理科学**（Physical Sciences）是探索自然界基本规律的学科群，涵盖经典力学、电磁学、热力学、光学和量子物理等核心领域。TED平台上众多杰出物理学家和教育者通过精彩演讲，将最深奥的物理概念转化为公众可理解的思想盛宴，激发无数人对宇宙运行方式的好奇与探索。

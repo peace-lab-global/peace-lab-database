@@ -1,3 +1,31 @@
+---
+
+title: "费曼技巧与以教促学 (Feynman Technique & Teaching to Learn)"
+description: "费曼技巧与以教促学 (Feynman Technique & Teaching to Learn)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 元学习"
+tags: ["writing", "个人发展", "元学习", "communication", "meta-learning"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是费曼技巧与以教促学"
+  - "费曼技巧与以教促学的核心概念"
+  - "费曼技巧与以教促学的方法与实践"
+trigger_keywords: ["费曼技巧与以教促学", "brain", "cognitive", "meditation", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "meditation/neuroscience/sexuality"
+
+---
 # 费曼技巧与以教促学 (Feynman Technique & Teaching to Learn)
 
 > **学科定位**: 05-Praxis-Growth > personal-development > meta-learning

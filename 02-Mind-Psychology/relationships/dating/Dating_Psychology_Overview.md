@@ -1,3 +1,31 @@
+---
+
+title: "Dating Psychology & Interpersonal Attraction Overview (约会心理学与人际吸引概览)"
+description: "Dating Psychology & Interpersonal Attraction Overview (约会心理学与人际吸引概览)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["anxiety", "attachment", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Psychology & Interpersonal Attraction Overview"
+  - "Dating Psychology & Interpersonal Attraction Overview的核心概念"
+  - "Dating Psychology & Interpersonal Attraction Overview的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Dating Psychology & Interpersonal Attraction Overview (约会心理学与人际吸引概览)
 
 > 📘 **文档导航**: 本概览文档提供约会心理学的核心概念和理论框架。如需深入了解特定领域，请参考相应专题文档：

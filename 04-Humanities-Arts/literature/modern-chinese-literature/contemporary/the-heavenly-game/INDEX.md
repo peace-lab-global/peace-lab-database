@@ -1,3 +1,31 @@
+---
+
+title: "The Heavenly Game | 天局"
+description: "The Heavenly Game | 天局的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Heavenly Game"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Heavenly Game | 天局"
+  - "The Heavenly Game | 天局的核心概念"
+  - "The Heavenly Game | 天局的方法与实践"
+trigger_keywords: ["天局", "philosophy", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # The Heavenly Game | 天局
 
 > 矫健短篇小说，1985年发表。讲述一个棋痴在暴风雪的荒野中与天下棋，最终以命为子、以死证道的故事。全文不到两万字，但震撼力极强，被誉为"中国最硬的短篇小说"。

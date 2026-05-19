@@ -1,3 +1,31 @@
+---
+
+title: "Core Resources & Bibliography for Death Studies (死亡专题核心文献与资源索引)"
+description: "Core Resources & Bibliography for Death Studies (死亡专题核心文献与资源索引)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["attachment", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Core Resources & Bibliography for Death Studies"
+  - "Core Resources & Bibliography for Death Studies的核心概念"
+  - "Core Resources & Bibliography for Death Studies的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Core Resources & Bibliography for Death Studies (死亡专题核心文献与资源索引)
 
 > *"站在巨人的肩膀上，我们才能看到更远。"*

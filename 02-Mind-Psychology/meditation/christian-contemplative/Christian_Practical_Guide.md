@@ -1,3 +1,31 @@
+---
+
+title: "基督教默观冥想实操指南"
+description: "基督教默观冥想实操指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Christian Contemplative"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是基督教默观冥想实操指南"
+  - "基督教默观冥想实操指南的核心概念"
+  - "基督教默观冥想实操指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 基督教默观冥想实操指南
 
 > **适用范围**：天主教、东正教、新教及跨传统灵修者

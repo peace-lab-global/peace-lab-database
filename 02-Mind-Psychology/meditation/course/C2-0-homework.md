@@ -1,3 +1,31 @@
+---
+
+title: "C1 第一周作业"
+description: "C1 第一周作业的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "dmn", "flow", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C1 第一周作业"
+  - "C1 第一周作业的核心概念"
+  - "C1 第一周作业的方法与实践"
+trigger_keywords: ["C1 第一周作业", "behavioral", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 # C1 第一周作业
 
 # 作业

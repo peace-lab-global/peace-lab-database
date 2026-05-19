@@ -1,3 +1,31 @@
+---
+
+title: "巴赫《英国组曲第四号》综合指南"
+description: "巴赫《英国组曲第四号》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach English Suites > Suite4"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴赫《英国组曲第四号》综合指南"
+  - "巴赫《英国组曲第四号》综合指南的核心概念"
+  - "巴赫《英国组曲第四号》综合指南的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 巴赫《英国组曲第四号》综合指南
 
 ## 作品基本信息

@@ -1,3 +1,31 @@
+---
+
+title: "The Distant Savior | 遥远的救世主"
+description: "The Distant Savior | 遥远的救世主的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
+tags: ["daoism", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Distant Savior | 遥远的救世主"
+  - "The Distant Savior | 遥远的救世主的核心概念"
+  - "The Distant Savior | 遥远的救世主的方法与实践"
+trigger_keywords: ["遥远的救世主", "buddhism", "daoism", "philosophy", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/daoism"
+
+---
 # The Distant Savior | 遥远的救世主
 
 > 豆豆（李雪）长篇小说，2005年出版。后改编为电视剧《天道》（2008），由王志文、左小青主演。

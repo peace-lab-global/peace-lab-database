@@ -1,3 +1,31 @@
+---
+
+title: "Stretch Therapy Overview (拉伸疗法概览)"
+description: "Stretch Therapy Overview (拉伸疗法概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Stretch"
+tags: ["aging", "cortisol"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stretch Therapy Overview"
+  - "Stretch Therapy Overview的核心概念"
+  - "Stretch Therapy Overview的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_08_Life_Scenes.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # Stretch Therapy Overview (拉伸疗法概览)
 
 ### Core Terminology of Stretching (拉伸核心术语总览表)

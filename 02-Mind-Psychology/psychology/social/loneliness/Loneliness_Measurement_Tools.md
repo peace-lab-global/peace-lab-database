@@ -1,3 +1,31 @@
+---
+
+title: "孤独测量工具详解与应用指南 (Loneliness Measurement Tools Detailed Guide)"
+description: "孤独测量工具详解与应用指南 (Loneliness Measurement Tools Detailed Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "brain", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独测量工具详解与应用指南"
+  - "孤独测量工具详解与应用指南的核心概念"
+  - "孤独测量工具详解与应用指南的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Asana_Pranayama.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 孤独测量工具详解与应用指南 (Loneliness Measurement Tools Detailed Guide)
 
 ## 核心测量工具标准化详解

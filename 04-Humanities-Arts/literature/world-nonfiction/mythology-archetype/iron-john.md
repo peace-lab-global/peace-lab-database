@@ -1,3 +1,31 @@
+---
+
+title: "《铁人约翰》Iron John"
+description: "《铁人约翰》Iron John的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《铁人约翰》Iron John"
+  - "《铁人约翰》Iron John的核心概念"
+  - "《铁人约翰》Iron John的方法与实践"
+trigger_keywords: ["exercise", "psychology", "religion", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/sexuality"
+
+---
 # 《铁人约翰》Iron John
 
 > 罗伯特·布莱（Robert Bly）著，1990年出版。诗人布莱通过对格林童话"铁人约翰"的解读，提出了一套"男性启蒙"的理论——现代男性需要通过与"野性男人"（Wild Man）的重新连接，来完成从男孩到男人的转化。全球畅销超过百万册，引发了美国"男性运动"的浪潮。

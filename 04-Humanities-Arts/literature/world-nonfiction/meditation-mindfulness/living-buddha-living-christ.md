@@ -1,3 +1,31 @@
+---
+
+title: "《活的佛陀，活的基督》Living Buddha, Living Christ"
+description: "《活的佛陀，活的基督》Living Buddha, Living Christ的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness", "religion", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《活的佛陀，活的基督》Living Buddha, Living Christ"
+  - "《活的佛陀，活的基督》Living Buddha, Living Christ的核心概念"
+  - "《活的佛陀，活的基督》Living Buddha, Living Christ的方法与实践"
+trigger_keywords: ["《活的佛陀", "assessment", "body", "buddhism", "mindfulness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《活的佛陀，活的基督》Living Buddha, Living Christ
 
 > 一行禅师（Thich Nhat Hanh）著，1995年出版。这是他在跨宗教对话领域最具代表性的著作，也是他最雄心勃勃的作品之一。作为一位精通佛教和基督教传统的宗教对话者，一行禅师在这本书中不是比较两种宗教的异同，而是**从实践和体验的角度**，探索佛陀和耶稣所指向的同一个真理。他以自己亲身经历的越南佛教与基督教（天主教）共存的文化背景为基础，展示了深度灵性实践如何超越宗教标签的局限。这本书在全球范围内促进了佛教-基督教对话，被两教的学者和修行者广泛阅读。

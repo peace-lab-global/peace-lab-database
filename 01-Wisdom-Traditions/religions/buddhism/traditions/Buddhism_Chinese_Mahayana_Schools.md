@@ -1,3 +1,31 @@
+---
+
+title: "汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)"
+description: "汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
+tags: ["buddhism", "mindfulness", "philosophy", "religion", "meditation", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传大乘各宗派详论"
+  - "汉传大乘各宗派详论的核心概念"
+  - "汉传大乘各宗派详论的方法与实践"
+trigger_keywords: ["汉传大乘各宗派详论", "act", "buddhism", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)
 
 > **汉传大乘佛教 (Chinese Mahayana Buddhism)**：佛教传入中国后与中国文化深度融合形成的独特佛教传统，包含了天台、华严、禅宗、净土等多个重要宗派，体现了大乘佛教的圆融精神。

@@ -1,3 +1,31 @@
+---
+
+title: "Huìnéng (六祖慧能) — 禅宗六祖，顿悟法门集大成者"
+description: "Huìnéng (六祖慧能) — 禅宗六祖，顿悟法门集大成者的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
+tags: ["mbsr", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Huìnéng  — 禅宗六祖，顿悟法门集大成者"
+  - "Huìnéng  — 禅宗六祖，顿悟法门集大成者的核心概念"
+  - "Huìnéng  — 禅宗六祖，顿悟法门集大成者的方法与实践"
+trigger_keywords: ["顿悟法门集大成者", "act", "art", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # Huìnéng (六祖慧能) — 禅宗六祖，顿悟法门集大成者
 
 ## 概述 (Overview)

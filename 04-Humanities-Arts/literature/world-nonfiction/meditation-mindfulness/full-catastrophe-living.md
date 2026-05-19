@@ -1,3 +1,31 @@
+---
+
+title: "《多舛的生命》Full Catastrophe Living"
+description: "《多舛的生命》Full Catastrophe Living的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["cinema", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《多舛的生命》Full Catastrophe Living"
+  - "《多舛的生命》Full Catastrophe Living的核心概念"
+  - "《多舛的生命》Full Catastrophe Living的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # 《多舛的生命》Full Catastrophe Living
 
 > 乔恩·卡巴金（Jon Kabat-Zinn）著，1990年出版。分子生物学博士，1979年在麻省大学医学院创立了"正念减压课程"（MBSR），将佛教禅修去宗教化，转化为可以量化的医疗干预。这本书是MBSR的"圣经"，标志着现代正念运动的正式诞生。

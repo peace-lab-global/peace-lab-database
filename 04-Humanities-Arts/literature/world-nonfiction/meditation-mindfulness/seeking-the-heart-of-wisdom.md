@@ -1,3 +1,31 @@
+---
+
+title: "《寻求智慧之心》Seeking the Heart of Wisdom"
+description: "《寻求智慧之心》Seeking the Heart of Wisdom的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mbsr", "mindfulness", "vipassana"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《寻求智慧之心》Seeking the Heart of Wisdom"
+  - "《寻求智慧之心》Seeking the Heart of Wisdom的核心概念"
+  - "《寻求智慧之心》Seeking the Heart of Wisdom的方法与实践"
+trigger_keywords: ["breathwork", "buddhism", "death", "emotion"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "buddhism/cardiovascular/emotion"
+
+---
 # 《寻求智慧之心》Seeking the Heart of Wisdom
 
 > 约瑟夫·戈尔茨坦（Joseph Goldstein）和杰克·康菲尔德（Jack Korsfield）著，1987年出版。两位美国内观禅修运动的联合创始人合著，将南传佛教的"正念"和"慈悲"教导整合为一条完整的修行道路。书名来自佛陀的教导："比丘们，你们应当寻求智慧之心。"

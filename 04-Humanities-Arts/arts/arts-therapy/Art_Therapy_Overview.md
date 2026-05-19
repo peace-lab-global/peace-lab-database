@@ -1,3 +1,32 @@
+---
+
+title: "绘画疗法概览 (Art Therapy Overview)"
+description: "绘画疗法概览 (Art Therapy Overview)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是绘画疗法概览"
+  - "绘画疗法概览的核心概念"
+  - "绘画疗法概览的方法与实践"
+  - "绘画疗法概览的循证证据"
+trigger_keywords: ["绘画疗法概览", "adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 绘画疗法概览 (Art Therapy Overview)
 
 > **视觉表达与心理疗愈的艺术科学**
@@ -212,6 +241,49 @@
 
 *本文档为Peace Lab Database绘画疗法专项资料，基于国际标准与循证实践编撰。*
 *建议在具备专业资质的指导下开展相关工作，确保服务质量与伦理规范。*
+
+---
+
+## 9. 生产级艺术疗愈实践方案 | Production Art Therapy Programs
+
+### 表9.1 艺术疗愈活动库 (Art Therapy Activity Library)
+
+| 活动 | 材料 | 时长 | 适用人群 | 治疗目标 |
+|------|------|------|----------|----------|
+| 曼陀罗绘画 | 彩笔/纸 | 30-45min | 焦虑/压力 | 正念/自我整合 |
+| 拼贴画 | 杂志/剪刀/胶水 | 45-60min | 创伤/抑郁 | 表达/外化 |
+| 泥塑 | 陶泥/工具 | 60min | 情绪调节 | 触觉体验/掌控感 |
+| 家庭图 | 彩笔/大纸 | 45min | 关系问题 | 家庭动力觉察 |
+| 情绪色轮 | 彩笔/纸 | 30min | 情绪识别 | 情绪觉察/命名 |
+| 身体轮廓 | 大纸/彩笔 | 60min | 身体意象 | 躯体觉察 |
+
+### 表9.2 结构化艺术疗愈工作坊设计 (Structured Art Therapy Workshop Design)
+
+| 环节 | 时长 | 内容 | 目的 |
+|------|------|------|------|
+| 暖身 | 10min | 涂鸦/线条练习 | 降低防御 |
+| 主题创作 | 30-40min | 围绕治疗主题创作 | 核心治疗 |
+| 分享讨论 | 15-20min | 描述作品/感受 | 整合意义 |
+| 总结 | 5-10min | 一句话收获/告别 | 回到当下 |
+
+### 表9.3 不同人群艺术疗愈方案 (Population-Specific Art Therapy Programs)
+
+| 人群 | 推荐媒材 | 活动设计 | 注意事项 |
+|------|----------|----------|----------|
+| 儿童(6-12岁) | 蜡笔/黏土/沙盘 | 游戏化/故事性 | 避免评判 |
+| 青少年(13-18岁) | 涂鸦/漫画/拼贴 | 认同探索 | 尊重隐私 |
+| 老年人 | 水彩/书法/编织 | 回忆性/精细动作 | 认知评估 |
+| 创伤幸存者 | 安全媒材 | 稳定化优先 | 避免触发 |
+| 癌症患者 | 多种媒材 | 意义建构 | 身体限制 |
+
+### 表9.4 艺术疗愈效果评估 (Art Therapy Outcome Assessment)
+
+| 评估维度 | 工具 | 频率 |
+|----------|------|------|
+| 症状变化 | PHQ-9/GAD-7 | 每4周 |
+| 治疗联盟 | WAI工作联盟量表 | 每次 |
+| 艺术表达 | 作品分析框架 | 每次 |
+| 主观体验 | 治疗日志 | 每次 |
 
 ---
 

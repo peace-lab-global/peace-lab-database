@@ -1,3 +1,31 @@
+---
+
+title: "《最后的礼物》Final Gifts"
+description: "《最后的礼物》Final Gifts的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["religion", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《最后的礼物》Final Gifts"
+  - "《最后的礼物》Final Gifts的核心概念"
+  - "《最后的礼物》Final Gifts的方法与实践"
+trigger_keywords: ["clinical", "cognitive", "communication", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "communication/death/sexuality"
+
+---
 # 《最后的礼物》Final Gifts
 
 > 玛姬·卡拉南（Maggie Callanan）和帕特里夏·凯利（Patricia Kelley）著，1992年出版。两位安宁疗护护士记录了大量临终者在生命最后阶段的"特殊体验"——看到已故亲人、预知死亡时间、传递最后信息。这些"礼物"不是超自然的证明，而是**临终心理的自然现象**。

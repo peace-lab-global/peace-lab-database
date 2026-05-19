@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽数字产业全景（Yoga Digital Industry）"
+description: "瑜伽数字产业全景（Yoga Digital Industry）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Career Business"
+tags: ["decision-making", "meditation", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽数字产业全景（Yoga Digital Industry）"
+  - "瑜伽数字产业全景（Yoga Digital Industry）的核心概念"
+  - "瑜伽数字产业全景（Yoga Digital Industry）的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 瑜伽数字产业全景（Yoga Digital Industry）
 
 > 从线下垫子到数字生态——技术如何重塑瑜伽行业

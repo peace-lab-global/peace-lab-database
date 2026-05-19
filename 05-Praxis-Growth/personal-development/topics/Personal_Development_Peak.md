@@ -1,3 +1,31 @@
+---
+
+title: "Peak 刻意练习"
+description: "Peak 刻意练习的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["flow", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Peak 刻意练习"
+  - "Peak 刻意练习的核心概念"
+  - "Peak 刻意练习的方法与实践"
+trigger_keywords: ["Peak 刻意练习", "act", "body", "brain", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "exercise/neuroscience/productivity"
+
+---
 # Peak 刻意练习
 
 ## 作者背景 (Author Background)

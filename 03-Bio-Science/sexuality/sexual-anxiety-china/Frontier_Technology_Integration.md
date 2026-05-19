@@ -1,3 +1,32 @@
+---
+
+title: "前沿技术在性焦虑领域的整合应用"
+description: "前沿技术在性焦虑领域的整合应用的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是前沿技术在性焦虑领域的整合应用"
+  - "前沿技术在性焦虑领域的整合应用的核心概念"
+  - "前沿技术在性焦虑领域的整合应用的方法与实践"
+  - "前沿技术在性焦虑领域的整合应用的自助方法"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 前沿技术在性焦虑领域的整合应用
 
 ## 人工智能技术应用

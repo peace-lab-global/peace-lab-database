@@ -1,3 +1,31 @@
+---
+
+title: "冥想水平与能力评估报告 | Meditation Assessment Report"
+description: "冥想水平与能力评估报告 | Meditation Assessment Report的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview > Visualization"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想水平与能力评估报告 | Meditation Assessment Report"
+  - "冥想水平与能力评估报告 | Meditation Assessment Report的核心概念"
+  - "冥想水平与能力评估报告 | Meditation Assessment Report的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/meditation"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/daoism/depression"
+  - path: "GLOSSARY.md"
+    relation: "daoism/depression/meditation"
+  - path: "README.md"
+    relation: "anxiety/daoism/meditation"
+
+---
 # 冥想水平与能力评估报告 | Meditation Assessment Report
 
 > **机密文档** | Confidential Document  

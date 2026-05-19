@@ -1,3 +1,31 @@
+---
+
+title: "Essential Oil Formulations (临床精油配方与毒理)"
+description: "Essential Oil Formulations (临床精油配方与毒理)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["brain", "cortisol", "depression", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Essential Oil Formulations"
+  - "Essential Oil Formulations的核心概念"
+  - "Essential Oil Formulations的方法与实践"
+trigger_keywords: ["act", "brain", "breathwork", "child"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # Essential Oil Formulations (临床精油配方与毒理)
 
 ### Materia Aromatica: Rare & Specific Gems (珍稀精油临床深潜表)

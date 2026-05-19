@@ -1,3 +1,32 @@
+---
+
+title: "大手印心理整合专业内容体系"
+description: "大手印心理整合专业内容体系的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > 大手印"
+tags: ["buddhism", "habits", "meditation", "mahamudra"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是大手印心理整合专业内容体系"
+  - "大手印心理整合专业内容体系的核心概念"
+  - "大手印心理整合专业内容体系的方法与实践"
+  - "大手印心理整合专业内容体系的自助方法"
+trigger_keywords: ["assessment", "body", "buddhism", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/emotion"
+
+---
 # 大手印心理整合专业内容体系
 
 ## 目录

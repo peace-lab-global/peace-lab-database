@@ -1,3 +1,21 @@
+---
+
+title: "《许三观卖血记》读书笔记与书评"
+description: "《许三观卖血记》读书笔记与书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
+tags: ["loneliness", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《许三观卖血记》读书笔记与书评"
+  - "《许三观卖血记》读书笔记与书评的核心概念"
+  - "《许三观卖血记》读书笔记与书评的方法与实践"
+trigger_keywords: ["body", "loneliness", "文学"]
+cross_refs: []
+
+---
 # 《许三观卖血记》读书笔记与书评
 
 ## 一本让你笑着笑着就想哭的书

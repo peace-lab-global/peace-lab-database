@@ -1,3 +1,31 @@
+---
+
+title: "老年认知衰退 | Aging Cognitive Decline"
+description: "老年认知衰退 | Aging Cognitive Decline的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
+tags: ["brain", "cardiovascular", "depression", "immune"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年认知衰退 | Aging Cognitive Decline"
+  - "老年认知衰退 | Aging Cognitive Decline的核心概念"
+  - "老年认知衰退 | Aging Cognitive Decline的方法与实践"
+trigger_keywords: ["老年认知衰退", "aging", "body", "brain", "cardiovascular"]
+cross_refs:
+  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/depression/exercise"
+
+---
 # 老年认知衰退 | Aging Cognitive Decline
 
 > **学科定位**: 认知神经科学 · 神经心理学 · 老年精神医学

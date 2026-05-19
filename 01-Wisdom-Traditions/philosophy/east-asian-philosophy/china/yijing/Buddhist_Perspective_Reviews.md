@@ -1,3 +1,31 @@
+---
+
+title: "《易经》· 佛法视角三方书评"
+description: "《易经》· 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Yijing"
+tags: ["buddhism", "philosophy", "positive-psychology", "tai-chi"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《易经》· 佛法视角三方书评"
+  - "《易经》· 佛法视角三方书评的核心概念"
+  - "《易经》· 佛法视角三方书评的方法与实践"
+trigger_keywords: ["《易经》", "佛法视角三方书评", "behavioral", "buddhism", "developmental", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md"
+    relation: "buddhism/communication/daoism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "buddhism/communication/daoism"
+
+---
 # 《易经》· 佛法视角三方书评
 
 > 本文件从佛教义理出发，重新审视《易经》的核心哲学。  

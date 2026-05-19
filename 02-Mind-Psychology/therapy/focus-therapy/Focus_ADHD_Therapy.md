@@ -1,3 +1,31 @@
+---
+
+title: "ADHD专注力疗愈"
+description: "ADHD专注力疗愈的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Focus Therapy"
+tags: ["cbt", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是ADHD专注力疗愈"
+  - "ADHD专注力疗愈的核心概念"
+  - "ADHD专注力疗愈的方法与实践"
+trigger_keywords: ["ADHD专注力疗愈", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "communication/emotion/exercise"
+
+---
 # ADHD专注力疗愈
 
 ## 概述

@@ -1,3 +1,31 @@
+---
+
+title: "buddhism | Index"
+description: "buddhism | Index的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教"
+tags: ["buddhism", "cbt", "meditation", "philosophy", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是buddhism | Index"
+  - "buddhism | Index的核心概念"
+  - "buddhism | Index的方法与实践"
+trigger_keywords: ["buddhism", "Index", "act", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/death/meditation"
+  - path: "README.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # buddhism | Index
 
 ## 内容索引 | Contents

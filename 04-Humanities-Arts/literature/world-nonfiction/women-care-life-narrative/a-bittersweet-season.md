@@ -1,3 +1,31 @@
+---
+
+title: "《苦乐参半的季节》A Bittersweet Season"
+description: "《苦乐参半的季节》A Bittersweet Season的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《苦乐参半的季节》A Bittersweet Season"
+  - "《苦乐参半的季节》A Bittersweet Season的核心概念"
+  - "《苦乐参半的季节》A Bittersweet Season的方法与实践"
+trigger_keywords: ["act", "aging", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "aging/communication/emotion"
+
+---
 # 《苦乐参半的季节》A Bittersweet Season
 
 **作者**：简·格罗斯 (Jane Gross)  

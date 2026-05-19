@@ -1,3 +1,21 @@
+---
+
+title: "incense | Index"
+description: "incense | Index的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Incense"
+tags: ["疗法", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是incense | Index"
+  - "incense | Index的核心概念"
+  - "incense | Index的方法与实践"
+trigger_keywords: ["incense", "Index", "act", "疗法"]
+cross_refs: []
+
+---
 # incense | Index
 
 ## 内容索引 | Contents

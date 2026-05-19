@@ -1,3 +1,31 @@
+---
+
+title: "Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)"
+description: "Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Tuina"
+tags: ["aging", "brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tuina Modern Research & Evidence-Based Medicine"
+  - "Tuina Modern Research & Evidence-Based Medicine的核心概念"
+  - "Tuina Modern Research & Evidence-Based Medicine的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)
 
 > 🔬 **研究概览**: 本文档系统梳理中医推拿的现代科学研究进展和循证医学证据，涵盖基础机制研究、临床疗效验证、安全性评估和国际化发展现状。基于高质量研究证据，为推拿学科的现代化发展提供科学依据。

@@ -1,3 +1,31 @@
+---
+
+title: "人格、依恋与孤独 | Personality, Attachment & Loneliness"
+description: "人格、依恋与孤独 | Personality, Attachment & Loneliness的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "attachment", "cbt", "personality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人格、依恋与孤独 | Personality, Attachment & Loneliness"
+  - "人格、依恋与孤独 | Personality, Attachment & Loneliness的核心概念"
+  - "人格、依恋与孤独 | Personality, Attachment & Loneliness的方法与实践"
+trigger_keywords: ["人格", "依恋与孤独", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 人格、依恋与孤独 | Personality, Attachment & Loneliness
 
 > **核心定位**: 从人格心理学与依恋理论视角理解孤独的个体差异与深层机制

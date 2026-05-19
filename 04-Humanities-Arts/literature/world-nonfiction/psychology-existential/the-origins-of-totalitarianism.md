@@ -1,3 +1,31 @@
+---
+
+title: "《极权主义的起源》书评"
+description: "《极权主义的起源》书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature", "loneliness", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《极权主义的起源》书评"
+  - "《极权主义的起源》书评的核心概念"
+  - "《极权主义的起源》书评的方法与实践"
+trigger_keywords: ["crisis", "death", "developmental", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《极权主义的起源》书评
 
 **书名**: The Origins of Totalitarianism  

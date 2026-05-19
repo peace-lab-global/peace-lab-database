@@ -1,3 +1,31 @@
+---
+
+title: "独处能力速查卡 | Solitude Quick Reference Card"
+description: "独处能力速查卡 | Solitude Quick Reference Card的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是独处能力速查卡 | Solitude Quick Reference Card"
+  - "独处能力速查卡 | Solitude Quick Reference Card的核心概念"
+  - "独处能力速查卡 | Solitude Quick Reference Card的方法与实践"
+trigger_keywords: ["独处能力速查卡", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Therapeutic_Use.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 独处能力速查卡 | Solitude Quick Reference Card
 
 > **版本**：v1.0 | **设计用途**：A4打印（可裁切为A5口袋版）| **适用**：心理咨询师、教育工作者、个人成长从业者  

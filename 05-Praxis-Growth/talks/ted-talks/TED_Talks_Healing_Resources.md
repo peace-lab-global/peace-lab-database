@@ -1,3 +1,31 @@
+---
+
+title: "TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate"
+description: "TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate"
+  - "TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate的核心概念"
+  - "TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate
 
 > **TED演讲**（Technology, Entertainment, Design）是全球最具影响力的思想传播平台之一。本文档系统整合身心疗愈领域的优质TED演讲资源，涵盖心理学、冥想、正念、神经科学、创伤疗愈、情绪管理、人际关系、灵性成长等主题，为学习者提供可视化、故事化的疗愈知识入口。每个演讲均包含核心观点、实践方法及与本项目知识体系的对应关系。

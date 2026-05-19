@@ -1,3 +1,31 @@
+---
+
+title: "罗德尼·怡（Rodney Yee）"
+description: "罗德尼·怡（Rodney Yee）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["ballet", "marriage", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是罗德尼·怡（Rodney Yee）"
+  - "罗德尼·怡（Rodney Yee）的核心概念"
+  - "罗德尼·怡（Rodney Yee）的方法与实践"
+trigger_keywords: ["罗德尼", "ballet", "body", "developmental", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/communication/exercise"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "attachment/communication/exercise"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "attachment/communication/exercise"
+
+---
 # 罗德尼·怡（Rodney Yee）
 
 > 美国最知名的瑜伽面孔之一——从芭蕾舞者到家庭瑜伽DVD之王

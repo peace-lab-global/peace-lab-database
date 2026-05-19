@@ -1,3 +1,31 @@
+---
+
+title: "《传道书》Ecclesiastes"
+description: "《传道书》Ecclesiastes的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《传道书》Ecclesiastes"
+  - "《传道书》Ecclesiastes的核心概念"
+  - "《传道书》Ecclesiastes的方法与实践"
+trigger_keywords: ["death", "philosophy", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death"
+
+---
 # 《传道书》Ecclesiastes
 
 > 《希伯来圣经》中的一卷，传统归于所罗门王，约公元前3世纪形成。全书12章，以"虚空的虚空，凡事都是虚空"（Vanity of vanities, all is vanity）开篇，对人类追求知识、快乐、财富、权力的徒劳进行了冷酷的审视。

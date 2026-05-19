@@ -1,3 +1,31 @@
+---
+
+title: "《活着即是迈向死亡》读书笔记与书评"
+description: "《活着即是迈向死亡》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Living Is Dying"
+tags: ["buddhism", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《活着即是迈向死亡》读书笔记与书评"
+  - "《活着即是迈向死亡》读书笔记与书评的核心概念"
+  - "《活着即是迈向死亡》读书笔记与书评的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/death/depression"
+
+---
 # 《活着即是迈向死亡》读书笔记与书评
 
 ## 一、总体评价

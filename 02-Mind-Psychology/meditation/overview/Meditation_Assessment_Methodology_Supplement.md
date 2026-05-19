@@ -1,3 +1,31 @@
+---
+
+title: "冥想评估方法论补充 | Meditation Assessment Methodology Supplement"
+description: "冥想评估方法论补充 | Meditation Assessment Methodology Supplement的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "1.5h+"
+intent_queries:
+  - "什么是冥想评估方法论补充 | Meditation Assessment Methodology Supplement"
+  - "冥想评估方法论补充 | Meditation Assessment Methodology Supplement的核心概念"
+  - "冥想评估方法论补充 | Meditation Assessment Methodology Supplement的方法与实践"
+trigger_keywords: ["冥想评估方法论补充", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/anxiety/meditation"
+
+---
 # 冥想评估方法论补充 | Meditation Assessment Methodology Supplement
 
 > **文档类型**：学术级方法论补充 | Academic Methodology Supplement  

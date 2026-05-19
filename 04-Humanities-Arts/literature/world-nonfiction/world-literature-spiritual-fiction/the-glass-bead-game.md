@@ -1,3 +1,31 @@
+---
+
+title: "《玻璃球游戏》The Glass Bead Game"
+description: "《玻璃球游戏》The Glass Bead Game的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《玻璃球游戏》The Glass Bead Game"
+  - "《玻璃球游戏》The Glass Bead Game的核心概念"
+  - "《玻璃球游戏》The Glass Bead Game的方法与实践"
+trigger_keywords: ["adolescent", "art", "death", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "death/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "death/exercise/meditation"
+
+---
 # 《玻璃球游戏》The Glass Bead Game
 
 **作者**：赫尔曼·黑塞 (Hermann Hesse)  

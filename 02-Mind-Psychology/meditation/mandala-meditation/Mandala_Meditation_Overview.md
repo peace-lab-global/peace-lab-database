@@ -1,3 +1,31 @@
+---
+
+title: "Mandala Meditation Overview (坛城冥想概览)"
+description: "Mandala Meditation Overview (坛城冥想概览)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 坛城冥想"
+tags: ["addiction", "anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mandala Meditation Overview"
+  - "Mandala Meditation Overview的核心概念"
+  - "Mandala Meditation Overview的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "GLOSSARY.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Mandala Meditation Overview (坛城冥想概览)
 
 ## 核心术语表 (Core Terms)

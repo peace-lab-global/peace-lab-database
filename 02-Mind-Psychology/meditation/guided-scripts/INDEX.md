@@ -1,3 +1,31 @@
+---
+
+title: "guided-scripts | 专业冥想引导词脚本库 Index"
+description: "guided-scripts | 专业冥想引导词脚本库 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Guided Scripts"
+tags: ["calligraphy", "healing", "intervention", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是guided-scripts | 专业冥想引导词脚本库 Index"
+  - "guided-scripts | 专业冥想引导词脚本库 Index的核心概念"
+  - "guided-scripts | 专业冥想引导词脚本库 Index的方法与实践"
+trigger_keywords: ["act", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/daoism/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "art_therapy/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "daoism/meditation/pain"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "meditation/pain/sexuality"
+  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
+    relation: "meditation/pain/sexuality"
+
+---
 # guided-scripts | 专业冥想引导词脚本库 Index
 
 > **专业定位**：最高标准认证冥想执行师标准化引导词与交付体系（已全面质量审计与升级）

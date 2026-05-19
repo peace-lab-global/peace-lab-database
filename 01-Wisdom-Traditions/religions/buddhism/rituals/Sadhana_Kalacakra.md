@@ -1,3 +1,31 @@
+---
+
+title: "时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)"
+description: "时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "mandala", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是时轮金刚完整修持仪轨"
+  - "时轮金刚完整修持仪轨的核心概念"
+  - "时轮金刚完整修持仪轨的方法与实践"
+trigger_keywords: ["时轮金刚完整修持仪轨", "body", "breathwork", "buddhism", "mandala"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/sexuality/yoga"
+
+---
 # 时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)
 
 > **时轮金刚 (Kalacakra / Dukhor / Shilun Jingang)**：藏传佛教无上瑜伽部最高本尊之一，代表时间与宇宙的终极真理。以「时轮」象征时间的流转与解脱，具有极为复杂的坛城、身相与哲学体系。传说佛陀于南印度灵鹫山传此密法。

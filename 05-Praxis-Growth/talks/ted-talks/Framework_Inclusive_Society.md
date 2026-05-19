@@ -1,3 +1,31 @@
+---
+
+title: "包容社会 | Inclusive Society Framework"
+description: "包容社会 | Inclusive Society Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是包容社会 | Inclusive Society Framework"
+  - "包容社会 | Inclusive Society Framework的核心概念"
+  - "包容社会 | Inclusive Society Framework的方法与实践"
+trigger_keywords: ["包容社会", "assessment", "behavioral", "brain", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 包容社会 | Inclusive Society Framework
 
 > **包容社会**（Inclusive Society）是一个每个人的尊严、权利和能力都得到尊重和发挥的社会——无论其种族、性别、年龄、能力、性取向或社会经济地位。包容不仅关乎消除歧视，更关乎主动创造让所有人都能充分参与的社会结构和文化环境。本文件精选TED平台上关于包容社会的代表性演讲，探索多元、公平与归属感的实践路径。

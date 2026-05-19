@@ -1,3 +1,31 @@
+---
+
+title: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)"
+description: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "attachment", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Grief Technology & Digital Mourning"
+  - "Grief Technology & Digital Mourning的核心概念"
+  - "Grief Technology & Digital Mourning的方法与实践"
+trigger_keywords: ["act", "aging", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/attachment/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/attachment/depression"
+
+---
 # Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)
 
 > *"技术不会改变哀伤的本质,但它改变了我们哀悼的场所、工具和仪式。"*

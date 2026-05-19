@@ -1,3 +1,31 @@
+---
+
+title: "彼得·辛格 (Peter Singer)"
+description: "彼得·辛格 (Peter Singer)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Applied Ethics"
+tags: ["decision-making", "healing", "philosophy", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是彼得·辛格"
+  - "彼得·辛格的核心概念"
+  - "彼得·辛格的方法与实践"
+trigger_keywords: ["彼得", "辛格", "act", "behavioral", "decision-making", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # 彼得·辛格 (Peter Singer)
 
 ## 核心思想 (Core Ideas)

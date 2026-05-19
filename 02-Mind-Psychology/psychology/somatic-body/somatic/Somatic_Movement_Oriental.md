@@ -1,3 +1,31 @@
+---
+
+title: "Oriental Internal Movement (东方内家运动)"
+description: "Oriental Internal Movement (东方内家运动)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["anxiety", "brain", "depression", "gut"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Oriental Internal Movement"
+  - "Oriental Internal Movement的核心概念"
+  - "Oriental Internal Movement的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/depression/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/daoism/depression"
+
+---
 # Oriental Internal Movement (东方内家运动)
 
 ### Tai Chi & Internal Dynamics (太极拳与内劲疗法表)

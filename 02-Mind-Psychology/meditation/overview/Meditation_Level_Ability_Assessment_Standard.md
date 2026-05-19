@@ -1,3 +1,31 @@
+---
+
+title: "冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard"
+description: "冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "bci"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "1.5h+"
+intent_queries:
+  - "什么是冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard"
+  - "冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard的核心概念"
+  - "冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/meditation"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/meditation"
+
+---
 # 冥想水平与能力评估标准总纲 | Comprehensive Meditation Level & Ability Assessment Standard
 
 > **文档类型**：学术级评估标准 | Academic Assessment Standard  

@@ -1,3 +1,31 @@
+---
+
+title: "《苏菲的世界》Sophie's World"
+description: "《苏菲的世界》Sophie's World的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["social"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《苏菲的世界》Sophie's World"
+  - "《苏菲的世界》Sophie's World的核心概念"
+  - "《苏菲的世界》Sophie's World的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/sexuality"
+
+---
 # 《苏菲的世界》Sophie's World
 
 **作者：** 乔斯坦·贾德 (Jostein Gaarder)  

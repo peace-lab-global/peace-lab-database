@@ -1,3 +1,32 @@
+---
+
+title: "积极心理学应用实践专业内容体系"
+description: "积极心理学应用实践专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 积极心理学"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是积极心理学应用实践专业内容体系"
+  - "积极心理学应用实践专业内容体系的核心概念"
+  - "积极心理学应用实践专业内容体系的方法与实践"
+  - "积极心理学应用实践专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 积极心理学应用实践专业内容体系
 
 ## 目录

@@ -1,3 +1,31 @@
+---
+
+title: "《朝圣》三方书评"
+description: "《朝圣》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Pilgrimage"
+tags: ["buddhism", "philosophy", "religion", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《朝圣》三方书评"
+  - "《朝圣》三方书评的核心概念"
+  - "《朝圣》三方书评的方法与实践"
+trigger_keywords: ["《朝圣》三方书评", "buddhism", "literature", "philosophy", "religion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 《朝圣》三方书评
 
 ---

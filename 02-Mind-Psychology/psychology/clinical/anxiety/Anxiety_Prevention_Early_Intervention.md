@@ -1,3 +1,32 @@
+---
+
+title: "焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention"
+description: "焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
+tags: ["anxiety", "mbsr", "cbt", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention"
+  - "焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention的核心概念"
+  - "焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention的方法与实践"
+  - "焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention的自助方法"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 焦虑症预防策略与早期干预 Anxiety Prevention & Early Intervention
 
 > "An ounce of prevention is worth a pound of cure."  

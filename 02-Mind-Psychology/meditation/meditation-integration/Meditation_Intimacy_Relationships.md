@@ -1,3 +1,31 @@
+---
+
+title: "冥想与亲密关系"
+description: "冥想与亲密关系的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Integration"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与亲密关系"
+  - "冥想与亲密关系的核心概念"
+  - "冥想与亲密关系的方法与实践"
+trigger_keywords: ["冥想与亲密关系", "act", "adolescent", "anxiety", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 冥想与亲密关系
 
 > 最后更新：2026-05

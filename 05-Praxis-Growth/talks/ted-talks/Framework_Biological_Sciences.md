@@ -1,3 +1,31 @@
+---
+
+title: "生物科学 | Biological Sciences Framework"
+description: "生物科学 | Biological Sciences Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["gut", "immune", "intervention", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是生物科学 | Biological Sciences Framework"
+  - "生物科学 | Biological Sciences Framework的核心概念"
+  - "生物科学 | Biological Sciences Framework的方法与实践"
+trigger_keywords: ["生物科学", "act", "behavioral", "brain", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "communication/immune/neuroscience"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "communication/immune/neuroscience"
+
+---
 # 生物科学 | Biological Sciences Framework
 
 > **生物科学**（Biological Sciences）研究生命的分子机制、细胞功能、有机体发育和生态系统动态。从CRISPR基因编辑的革命性突破到微生物组（Microbiome）的惊人发现，从合成生物学（Synthetic Biology）的工程化生命到生物多样性保护的紧迫性，生物科学正在经历前所未有的变革时代。本文件精选TED平台上关于生物科学的代表性演讲，展示生命科学的前沿进展和深远影响。

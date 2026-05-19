@@ -1,3 +1,32 @@
+---
+
+title: "芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)"
+description: "芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Rehabilitation Therapy"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞康复治疗专题"
+  - "芭蕾舞康复治疗专题的核心概念"
+  - "芭蕾舞康复治疗专题的方法与实践"
+  - "芭蕾舞康复治疗专题的循证证据"
+trigger_keywords: ["芭蕾舞康复治疗专题", "aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)
 
 > **芭蕾舞康复治疗 (Ballet Rehabilitation Therapy)**

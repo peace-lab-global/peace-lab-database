@@ -1,3 +1,31 @@
+---
+
+title: "Picasso (毕加索)主要作品深度分析"
+description: "Picasso (毕加索)主要作品深度分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
+tags: ["depression", "healing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Picasso 主要作品深度分析"
+  - "Picasso 主要作品深度分析的核心概念"
+  - "Picasso 主要作品深度分析的方法与实践"
+trigger_keywords: ["act", "aging", "art", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/depression"
+
+---
 # Picasso (毕加索)主要作品深度分析
 
 ## 概述 (Overview)

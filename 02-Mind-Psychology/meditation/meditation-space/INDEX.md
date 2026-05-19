@@ -1,3 +1,31 @@
+---
+
+title: "冥想空间设计 Meditation Space Design"
+description: "冥想空间设计 Meditation Space Design的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Space"
+tags: ["meditation", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想空间设计 Meditation Space Design"
+  - "冥想空间设计 Meditation Space Design的核心概念"
+  - "冥想空间设计 Meditation Space Design的方法与实践"
+trigger_keywords: ["art", "buddhism", "meditation", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/productivity"
+
+---
 # 冥想空间设计 Meditation Space Design
 
 > 最后更新：2026-05

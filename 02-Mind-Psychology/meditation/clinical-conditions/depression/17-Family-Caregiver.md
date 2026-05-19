@@ -1,3 +1,31 @@
+---
+
+title: "Family Caregiver"
+description: "Family Caregiver的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Family Caregiver"
+  - "Family Caregiver的核心概念"
+  - "Family Caregiver的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Overview.md"
+    relation: "anxiety/communication/depression"
+
+---
 ## 17. 家属与照护者支持工具
 
 > **说明**：抑郁患者的正念练习效果，高度依赖家庭环境的支持。家属的无意识破坏（如"你 meditate 了怎么还抑郁"）、过度保护或情感疏离，都可能抵消治疗进展。同时，照护者自身面临极高的耗竭风险。本章提供双向支持框架：既帮助家属有效支持患者，也保护家属自身的心理健康。

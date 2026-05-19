@@ -1,3 +1,31 @@
+---
+
+title: "犹太哲学经典 · 佛法视角三方书评"
+description: "犹太哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Jewish"
+tags: ["buddhism", "philosophy", "religion", "zen", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是犹太哲学经典 · 佛法视角三方书评"
+  - "犹太哲学经典 · 佛法视角三方书评的核心概念"
+  - "犹太哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["犹太哲学经典", "佛法视角三方书评", "breathwork", "buddhism", "philosophy", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 犹太哲学经典 · 佛法视角三方书评
 
 > 本期聚焦：迈蒙尼德（Maimonides, 1138–1204）《迷途指津》——以佛法视角重新审视中世纪犹太哲学

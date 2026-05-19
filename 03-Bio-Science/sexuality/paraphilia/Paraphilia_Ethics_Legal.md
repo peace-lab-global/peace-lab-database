@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)"
+description: "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["aging"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Ethics, Law & Sociocultural Considerations"
+  - "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations的核心概念"
+  - "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/buddhism/communication"
+  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+    relation: "aging/buddhism/communication"
+
+---
 # Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)
 
 > ⚠️ **重要声明**: 本文档严格遵守法律法规，任何涉及未成年人的实际行为都是严重违法的，必须坚决反对和杜绝。

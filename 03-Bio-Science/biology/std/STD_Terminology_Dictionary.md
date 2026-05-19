@@ -1,3 +1,31 @@
+---
+
+title: "STD Core Terminology Dictionary (性传播疾病核心术语词典)"
+description: "STD Core Terminology Dictionary (性传播疾病核心术语词典)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["immune", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是STD Core Terminology Dictionary"
+  - "STD Core Terminology Dictionary的核心概念"
+  - "STD Core Terminology Dictionary的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "immune/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+    relation: "immune/sexuality/therapy"
+
+---
 # STD Core Terminology Dictionary (性传播疾病核心术语词典)
 
 > 📚 **术语标准化**: 本文档提供性传播疾病领域的标准化核心术语表，确保专业术语的一致性和准确性，便于跨文档引用和国际交流。

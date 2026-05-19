@@ -1,3 +1,32 @@
+---
+
+title: "友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία"
+description: "友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
+tags: ["addiction", "anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία"
+  - "友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία的核心概念"
+  - "友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία的方法与实践"
+  - "友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία的循证证据"
+trigger_keywords: ["友谊干预疗法", "addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 友谊干预疗法 | Friendship Intervention Therapy | Θεραπεία Παρέμβασης στη Φιλία
 
 > **友谊干预疗法**构建基于循证实践的友谊问题识别、评估和干预框架，涵盖友谊技能训练、关系修复技术、社交焦虑治疗等核心干预方法，为心理咨询师、教育工作者和友谊指导者提供系统性的治疗方案和实施指南。

@@ -1,3 +1,31 @@
+---
+
+title: "《被光拥抱》Embraced by the Light"
+description: "《被光拥抱》Embraced by the Light的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["literature", "music", "phobia", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《被光拥抱》Embraced by the Light"
+  - "《被光拥抱》Embraced by the Light的核心概念"
+  - "《被光拥抱》Embraced by the Light的方法与实践"
+trigger_keywords: ["behavioral", "body", "clinical", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《被光拥抱》Embraced by the Light
 
 **作者：** 贝蒂·伊迪 (Betty J. Eadie)  

@@ -1,3 +1,31 @@
+---
+
+title: "系列十二：人生变故与转折系列 | Life Transitions Series"
+description: "系列十二：人生变故与转折系列 | Life Transitions Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["cinema", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列十二：人生变故与转折系列 | Life Transitions Series"
+  - "系列十二：人生变故与转折系列 | Life Transitions Series的核心概念"
+  - "系列十二：人生变故与转折系列 | Life Transitions Series的方法与实践"
+trigger_keywords: ["assessment", "body", "breathwork", "cinema"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/emotion"
+  - path: "04-Humanities-Arts/arts/photography-therapy/INDEX.md"
+    relation: "death/depression/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
+    relation: "death/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "death/depression/emotion"
+
+---
 # 系列十二：人生变故与转折系列 | Life Transitions Series
 
 > **级别**：Level 2-4（初中高级混合）

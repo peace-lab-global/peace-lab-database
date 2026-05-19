@@ -1,3 +1,31 @@
+---
+
+title: "C2 4 Pause Your Life"
+description: "C2 4 Pause Your Life的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "decision-making", "habits", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2 4 Pause Your Life"
+  - "C2 4 Pause Your Life的核心概念"
+  - "C2 4 Pause Your Life的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 #C2-4 冥想练习课：生活觉察：给惯性生活按下暂停键
 
 📑 智能总结

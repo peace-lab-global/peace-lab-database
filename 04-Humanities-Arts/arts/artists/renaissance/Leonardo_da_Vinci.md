@@ -1,3 +1,31 @@
+---
+
+title: "Leonardo da Vinci (达·芬奇)：文艺复兴全才"
+description: "Leonardo da Vinci (达·芬奇)：文艺复兴全才的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > 文艺复兴"
+tags: ["habits", "literature", "positive-psychology", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Leonardo da Vinci ：文艺复兴全才"
+  - "Leonardo da Vinci ：文艺复兴全才的核心概念"
+  - "Leonardo da Vinci ：文艺复兴全才的方法与实践"
+trigger_keywords: ["art", "habits", "literature", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/pain/productivity"
+
+---
 # Leonardo da Vinci (达·芬奇)：文艺复兴全才
 
 ## 概述 (Overview)

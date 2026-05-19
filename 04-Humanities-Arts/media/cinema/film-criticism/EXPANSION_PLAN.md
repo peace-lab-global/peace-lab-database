@@ -1,3 +1,31 @@
+---
+
+title: "Classic-Film-Criticism 目录扩充计划"
+description: "Classic-Film-Criticism 目录扩充计划的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema", "social", "媒体", "电影"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Classic-Film-Criticism 目录扩充计划"
+  - "Classic-Film-Criticism 目录扩充计划的核心概念"
+  - "Classic-Film-Criticism 目录扩充计划的方法与实践"
+trigger_keywords: ["act", "art", "cinema", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/cardiovascular/therapy"
+  - path: "README.md"
+    relation: "art_therapy/cardiovascular/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Vajrayana_Mantra_Dharani.md"
+    relation: "cardiovascular/therapy"
+
+---
 # Classic-Film-Criticism 目录扩充计划
 
 ## 扩充目标

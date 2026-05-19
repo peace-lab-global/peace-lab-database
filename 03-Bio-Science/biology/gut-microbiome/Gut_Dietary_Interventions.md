@@ -1,3 +1,31 @@
+---
+
+title: "肠道饮食干预 | Gut Dietary Interventions"
+description: "肠道饮食干预 | Gut Dietary Interventions的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 肠道微生物"
+tags: ["brain", "cardiovascular", "depression", "fasting", "gut", "nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肠道饮食干预 | Gut Dietary Interventions"
+  - "肠道饮食干预 | Gut Dietary Interventions的核心概念"
+  - "肠道饮食干预 | Gut Dietary Interventions的方法与实践"
+trigger_keywords: ["肠道饮食干预", "act", "brain", "cardiovascular", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "cardiovascular/depression/emotion"
+
+---
 # 肠道饮食干预 | Gut Dietary Interventions
 
 > **学科定位**: 营养精神医学 · 功能营养学 · 微生物组调控

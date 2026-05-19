@@ -1,3 +1,31 @@
+---
+
+title: "家永三郎 (Ienaga Saburō)"
+description: "家永三郎 (Ienaga Saburō)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Historiography"
+tags: ["healing", "intervention", "stress", "trauma"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是家永三郎"
+  - "家永三郎的核心概念"
+  - "家永三郎的方法与实践"
+trigger_keywords: ["家永三郎", "cognitive", "developmental", "healing", "intervention"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/10-Digital-and-Remote.md"
+    relation: "exercise/sexuality/stress"
+
+---
 # 家永三郎 (Ienaga Saburō)
 ## 核心思想 (Core Ideas)
 | 概念 | 日语 | 解释 | 影响 |

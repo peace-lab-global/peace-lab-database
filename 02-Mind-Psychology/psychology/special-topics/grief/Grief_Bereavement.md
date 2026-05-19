@@ -1,3 +1,31 @@
+---
+
+title: "Grief & Bereavement (悲伤与哀伤心理学)"
+description: "Grief & Bereavement (悲伤与哀伤心理学)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Grief"
+tags: ["anxiety", "attachment", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Grief & Bereavement"
+  - "Grief & Bereavement的核心概念"
+  - "Grief & Bereavement的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "anxiety/attachment/death"
+
+---
 # Grief & Bereavement (悲伤与哀伤心理学)
 
 > **悲伤与哀伤 (Grief & Bereavement / Luctus et Orbitas)**

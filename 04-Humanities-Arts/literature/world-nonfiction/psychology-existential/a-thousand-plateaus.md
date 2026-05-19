@@ -1,3 +1,31 @@
+---
+
+title: "《千高原》A Thousand Plateaus"
+description: "《千高原》A Thousand Plateaus的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["dzogchen", "habits", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《千高原》A Thousand Plateaus"
+  - "《千高原》A Thousand Plateaus的核心概念"
+  - "《千高原》A Thousand Plateaus的方法与实践"
+trigger_keywords: ["buddhism", "dzogchen", "habits", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/productivity"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/productivity"
+  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
+    relation: "art_therapy/buddhism/productivity"
+
+---
 # 《千高原》A Thousand Plateaus
 
 > 吉尔·德勒兹（Gilles Deleuze）和费利克斯·瓜塔里（Félix Guattari）著，1980年出版。《反俄狄浦斯》的续篇，但更加雄心勃勃——它试图建立一套完整的"游牧哲学"，以对抗西方传统的"树状思维"（层级化、中心化、二元化）。全书15个"高原"（Plateaus），每个都是独立的哲学实验。

@@ -1,3 +1,31 @@
+---
+
+title: "《恐惧与颤栗》Fear and Trembling"
+description: "《恐惧与颤栗》Fear and Trembling的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["loneliness", "phobia", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《恐惧与颤栗》Fear and Trembling"
+  - "《恐惧与颤栗》Fear and Trembling的核心概念"
+  - "《恐惧与颤栗》Fear and Trembling的方法与实践"
+trigger_keywords: ["buddhism", "communication", "loneliness", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 《恐惧与颤栗》Fear and Trembling
 
 > 索伦·克尔凯郭尔（Søren Kierkegaard）著，1843年出版。丹麦哲学家、存在主义之父，以假名"约翰内斯·德· silentio "出版。通过对《圣经》中亚伯拉罕献祭以撒的故事的哲学分析，克尔凯郭尔探讨了信仰的本质——信仰不是理性的结论，而是"存在的跳跃"。

@@ -1,3 +1,31 @@
+---
+
+title: "《无人无往》Being Nobody, Going Nowhere"
+description: "《无人无往》Being Nobody, Going Nowhere的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["dzogchen", "spirituality", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《无人无往》Being Nobody, Going Nowhere"
+  - "《无人无往》Being Nobody, Going Nowhere的核心概念"
+  - "《无人无往》Being Nobody, Going Nowhere的方法与实践"
+trigger_keywords: ["breathwork", "buddhism", "dzogchen", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《无人无往》Being Nobody, Going Nowhere
 
 >  阿姜·阿玛洛（Ajahn Amaro）著，1994年出版。英国出生的泰国森林传统僧侣，以其幽默、清晰和直接的教导风格闻名。书名本身就是一个禅宗公案——"无人"（无我）、"无往"（无目标）——但这正是修行的核心。

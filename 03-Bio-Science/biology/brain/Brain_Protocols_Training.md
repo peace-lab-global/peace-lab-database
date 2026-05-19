@@ -1,3 +1,31 @@
+---
+
+title: "训练协议与实践指南 (Training Protocols & Practice)"
+description: "训练协议与实践指南 (Training Protocols & Practice)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["aging", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是训练协议与实践指南"
+  - "训练协议与实践指南的核心概念"
+  - "训练协议与实践指南的方法与实践"
+trigger_keywords: ["训练协议与实践指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 训练协议与实践指南 (Training Protocols & Practice)
 
 > **目标**：神经反馈与脑机接口的实践操作指南，涵盖训练流程、操作规范、常见问题处理及家庭训练建议。

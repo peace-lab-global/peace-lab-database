@@ -1,3 +1,31 @@
+---
+
+title: "窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)"
+description: "窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["addiction", "anxiety", "attachment", "bci", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是窥淫癖神经科学与生物学基础"
+  - "窥淫癖神经科学与生物学基础的核心概念"
+  - "窥淫癖神经科学与生物学基础的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)
 
 > 🔬 **神经科学前沿**: 本文档深入探讨窥淫癖的神经生物学机制、遗传基础和生理特征。建议结合[窥淫癖临床评估](Voyeurism_Clinical_Assessment.md)了解诊断应用，参考[色情成瘾神经科学](Pornography_Addiction_Neuroscience.md)了解相关成瘾机制。

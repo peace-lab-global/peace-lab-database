@@ -1,3 +1,31 @@
+---
+
+title: "Meditation Mind Management (冥想心念管理方法论)"
+description: "Meditation Mind Management (冥想心念管理方法论)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Meditation Mind Management"
+  - "Meditation Mind Management的核心概念"
+  - "Meditation Mind Management的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Meditation Mind Management (冥想心念管理方法论)
 
 > 内容来源：港中文冥想执行师认证课程先导课（C0-1 意图的种子）

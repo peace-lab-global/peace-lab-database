@@ -1,3 +1,31 @@
+---
+
+title: "Poverty & Mental Health Impact (贫困与心理健康)"
+description: "Poverty & Mental Health Impact (贫困与心理健康)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
+tags: ["addiction", "anxiety", "attachment", "schizophrenia", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Poverty & Mental Health Impact"
+  - "Poverty & Mental Health Impact的核心概念"
+  - "Poverty & Mental Health Impact的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # Poverty & Mental Health Impact (贫困与心理健康)
 
 > **贫困心理创伤 (Poverty & Mental Health / Paupertas et Sanitas Mentis)**

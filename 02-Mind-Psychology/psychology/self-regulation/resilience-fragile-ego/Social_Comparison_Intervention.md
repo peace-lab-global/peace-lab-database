@@ -1,3 +1,31 @@
+---
+
+title: "社会比较干预"
+description: "社会比较干预的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["anxiety", "intervention", "self-esteem", "sleep", "social"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社会比较干预"
+  - "社会比较干预的核心概念"
+  - "社会比较干预的方法与实践"
+trigger_keywords: ["社会比较干预", "anxiety", "assessment", "emotion", "intervention"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # 社会比较干预
 
 ## 目录

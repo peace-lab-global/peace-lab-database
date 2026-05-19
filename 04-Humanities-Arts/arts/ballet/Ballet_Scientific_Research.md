@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞科学研究体系 (Ballet Scientific Research System)"
+description: "芭蕾舞科学研究体系 (Ballet Scientific Research System)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞科学研究体系"
+  - "芭蕾舞科学研究体系的核心概念"
+  - "芭蕾舞科学研究体系的方法与实践"
+trigger_keywords: ["芭蕾舞科学研究体系", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/exercise/neuroscience"
+
+---
 # 芭蕾舞科学研究体系 (Ballet Scientific Research System)
 
 > **芭蕾舞科学研究 (Ballet Scientific Research)**

@@ -1,3 +1,31 @@
+---
+
+title: "《德米安》Demian"
+description: "《德米安》Demian的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["jung", "literature", "phobia", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《德米安》Demian"
+  - "《德米安》Demian的核心概念"
+  - "《德米安》Demian的方法与实践"
+trigger_keywords: ["adolescent", "art", "jung", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/exercise/sexuality"
+
+---
 # 《德米安》Demian
 
 **作者**：赫尔曼·黑塞 (Hermann Hesse)  

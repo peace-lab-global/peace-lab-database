@@ -1,3 +1,31 @@
+---
+
+title: "护法系统 | Dharma Protectors | Dharmapāla"
+description: "护法系统 | Dharma Protectors | Dharmapāla的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "dzogchen", "habits", "longevity", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是护法系统 | Dharma Protectors | Dharmapāla"
+  - "护法系统 | Dharma Protectors | Dharmapāla的核心概念"
+  - "护法系统 | Dharma Protectors | Dharmapāla的方法与实践"
+trigger_keywords: ["护法系统", "Dharmapāla", "act", "body", "buddhism", "dzogchen"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/buddhism/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/buddhism/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/buddhism/productivity"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/buddhism/productivity"
+
+---
 # 护法系统 | Dharma Protectors | Dharmapāla
 
 > **护法**（梵文：Dharmapāla，藏文：ཆོས་སྐྱོང་，威利：chos skyong）又称护法神、守护者，是誓愿护持佛法与修行者的神圣存在。在藏传佛教中，护法体系极为庞大，包括出世间智慧护法与世间护法，他们以各种忿怒或寂静形象示现，协助行者消除障碍、成就修行。护法修持是藏传佛教日常实修的重要组成部分。

@@ -1,3 +1,31 @@
+---
+
+title: "孤独感来源与病因学 (Sources & Etiology of Loneliness)"
+description: "孤独感来源与病因学 (Sources & Etiology of Loneliness)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["addiction", "anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独感来源与病因学"
+  - "孤独感来源与病因学的核心概念"
+  - "孤独感来源与病因学的方法与实践"
+trigger_keywords: ["孤独感来源与病因学", "addiction", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Formation_Mechanisms.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独感来源与病因学 (Sources & Etiology of Loneliness)
 
 ## 目录导航

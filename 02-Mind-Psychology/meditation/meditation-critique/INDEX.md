@@ -1,3 +1,31 @@
+---
+
+title: "冥想批判与反思 | Meditation Critique & Reflection"
+description: "冥想批判与反思 | Meditation Critique & Reflection的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Critique"
+tags: ["meditation", "mindfulness", "personality", "spirituality", "trauma"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想批判与反思 | Meditation Critique & Reflection"
+  - "冥想批判与反思 | Meditation Critique & Reflection的核心概念"
+  - "冥想批判与反思 | Meditation Critique & Reflection的方法与实践"
+trigger_keywords: ["冥想批判与反思", "meditation", "mindfulness", "personality", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "meditation/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "meditation/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
+    relation: "meditation/personality/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "meditation/personality/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "meditation/personality/sexuality"
+
+---
 # 冥想批判与反思 | Meditation Critique & Reflection
 
 > **最后更新**：2026-05

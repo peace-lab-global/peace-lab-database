@@ -1,3 +1,31 @@
+---
+
+title: "《内观实修》The Practice of Vipassana"
+description: "《内观实修》The Practice of Vipassana的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: []
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《内观实修》The Practice of Vipassana"
+  - "《内观实修》The Practice of Vipassana的核心概念"
+  - "《内观实修》The Practice of Vipassana的方法与实践"
+trigger_keywords: ["act", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 《内观实修》The Practice of Vipassana
 
 > 这不是一本单一作者的书，而是内观（Vipassana）传统的综合实修指南。内观，巴利语意为"洞见"或"清晰的看见"，是南传佛教最核心的修行方法。本书内容综合了马哈希尊者（Mahasi Sayadaw）、孙伦尊者（Sunlun Sayadaw）、莫哥尊者（Mogok Sayadaw）等缅甸、斯里兰卡、泰国多位大师的教导，代表了20世纪南传内观运动的核心成果。内观传统强调通过系统性的正念观察，直接洞见身心现象的无常（anicca）、苦（dukkha）、无我（anatta）三法印。

@@ -1,3 +1,31 @@
+---
+
+title: "认知重构技术"
+description: "认知重构技术的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["cbt", "therapy", "心理学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是认知重构技术"
+  - "认知重构技术的核心概念"
+  - "认知重构技术的方法与实践"
+trigger_keywords: ["认知重构技术", "behavioral", "cbt", "cognitive", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Aristotle.md"
+    relation: "emotion/exercise/sexuality"
+
+---
 # 认知重构技术
 
 ## 目录

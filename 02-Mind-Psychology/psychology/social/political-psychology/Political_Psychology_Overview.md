@@ -1,3 +1,32 @@
+---
+
+title: "政治心理学概览 (Political Psychology Overview)"
+description: "政治心理学概览 (Political Psychology Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是政治心理学概览"
+  - "政治心理学概览的核心概念"
+  - "政治心理学概览的方法与实践"
+  - "政治心理学概览的自助方法"
+trigger_keywords: ["政治心理学概览", "anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "anxiety/communication/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/exercise"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # 政治心理学概览 (Political Psychology Overview)
 
 ## 目录 (Table of Contents)

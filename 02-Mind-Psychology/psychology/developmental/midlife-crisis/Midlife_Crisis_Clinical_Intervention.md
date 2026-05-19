@@ -1,3 +1,31 @@
+---
+
+title: "中年危机临床干预指南专业内容体系"
+description: "中年危机临床干预指南专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Midlife Crisis"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中年危机临床干预指南专业内容体系"
+  - "中年危机临床干预指南专业内容体系的核心概念"
+  - "中年危机临床干预指南专业内容体系的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 中年危机临床干预指南专业内容体系
 
 ## 目录

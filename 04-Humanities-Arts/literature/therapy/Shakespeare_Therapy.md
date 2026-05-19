@@ -1,3 +1,31 @@
+---
+
+title: "Literary Therapy: William Shakespeare"
+description: "Literary Therapy: William Shakespeare的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > 疗法"
+tags: ["literature", "疗法"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Literary Therapy: William Shakespeare"
+  - "Literary Therapy: William Shakespeare的核心概念"
+  - "Literary Therapy: William Shakespeare的方法与实践"
+trigger_keywords: ["act", "文学", "疗法"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "art_therapy/death/depression"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/01-Clinical-Spectrum.md"
+    relation: "death/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "death/depression/emotion"
+
+---
 # Literary Therapy: William Shakespeare
 
 ## Overview

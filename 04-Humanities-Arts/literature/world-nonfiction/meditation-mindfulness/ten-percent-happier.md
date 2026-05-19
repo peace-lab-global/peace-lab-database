@@ -1,3 +1,31 @@
+---
+
+title: "《10% Happier》"
+description: "《10% Happier》的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《10% Happier》"
+  - "《10% Happier》的核心概念"
+  - "《10% Happier》的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "breathwork", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 《10% Happier》
 
 > 丹·哈里斯（Dan Harris）著，2014年出版。ABC新闻主播，2004年在直播镜头前因焦虑发作而崩溃，之后开始了从药物、自助到冥想的探索之旅。这本书是一个彻底的怀疑论者的"灵性回忆录"——它证明了即使是最 cynical 的人，也可以从冥想中获益。

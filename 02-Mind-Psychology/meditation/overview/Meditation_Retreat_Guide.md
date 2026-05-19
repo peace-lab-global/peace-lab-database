@@ -1,3 +1,31 @@
+---
+
+title: "冥想密集闭关指南 | Meditation Retreat Guide"
+description: "冥想密集闭关指南 | Meditation Retreat Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "mbsr", "trauma", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想密集闭关指南 | Meditation Retreat Guide"
+  - "冥想密集闭关指南 | Meditation Retreat Guide的核心概念"
+  - "冥想密集闭关指南 | Meditation Retreat Guide的方法与实践"
+trigger_keywords: ["冥想密集闭关指南", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 冥想密集闭关指南 | Meditation Retreat Guide
 
 > **领域**：冥想深化实践与密集修行（Intensive Meditation Practice）

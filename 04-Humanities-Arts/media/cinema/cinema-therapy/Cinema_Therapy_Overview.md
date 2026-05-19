@@ -1,3 +1,32 @@
+---
+
+title: "电影疗法概览 (Cinema Therapy Overview)"
+description: "电影疗法概览 (Cinema Therapy Overview)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Cinema Therapy"
+tags: ["addiction", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是电影疗法概览"
+  - "电影疗法概览的核心概念"
+  - "电影疗法概览的方法与实践"
+  - "电影疗法概览的循证证据"
+trigger_keywords: ["电影疗法概览", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 电影疗法概览 (Cinema Therapy Overview)
 
 ### Cinema Therapy Typology (电影疗法类型学表)

@@ -1,3 +1,31 @@
+---
+
+title: "婚姻中的愤怒管理 (Anger Management in Marriage)"
+description: "婚姻中的愤怒管理 (Anger Management in Marriage)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "brain", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是婚姻中的愤怒管理"
+  - "婚姻中的愤怒管理的核心概念"
+  - "婚姻中的愤怒管理的方法与实践"
+trigger_keywords: ["婚姻中的愤怒管理", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 婚姻中的愤怒管理 (Anger Management in Marriage)
 
 愤怒是婚姻中最常被误解的情绪之一。许多人认为"好的婚姻不应该有愤怒"，或者将愤怒等同于暴力和失控。但从情绪科学的角度来看，**愤怒本身是一种完全正常且具有进化适应功能的情绪**——它提醒我们边界被侵犯了、需求未被满足、某种不公正正在发生。问题从来不是愤怒本身，而是**愤怒的表达方式是否具有破坏性**。正如临床心理学家 Harriet Lerner (2005) 所指出的："愤怒是一个信号，值得我们倾听。"

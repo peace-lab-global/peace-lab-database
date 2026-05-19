@@ -1,3 +1,31 @@
+---
+
+title: "极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)"
+description: "极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 极简主义"
+tags: ["cbt", "minimalism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是极简主义与储物癖：对比与关联分析"
+  - "极简主义与储物癖：对比与关联分析的核心概念"
+  - "极简主义与储物癖：对比与关联分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)
 
 ## 1. 概念对比 (Conceptual Comparison)

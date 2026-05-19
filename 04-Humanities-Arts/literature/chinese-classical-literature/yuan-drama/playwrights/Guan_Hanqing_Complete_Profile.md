@@ -1,3 +1,31 @@
+---
+
+title: "关汉卿 (Guan Hanqing, 约1220-1300)：元曲四大家之首与"东方莎士比亚""
+description: "关汉卿 (Guan Hanqing, 约1220-1300)：元曲四大家之首与"东方莎士比亚"的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Yuan Drama > Playwrights"
+tags: ["literature", "personality", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是关汉卿 ：元曲四大家之首与"东方莎士比亚""
+  - "关汉卿 ：元曲四大家之首与"东方莎士比亚"的核心概念"
+  - "关汉卿 ：元曲四大家之首与"东方莎士比亚"的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/personality/sexuality"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/personality/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "personality/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "personality/sexuality/therapy"
+
+---
 # 关汉卿 (Guan Hanqing, 约1220-1300)：元曲四大家之首与"东方莎士比亚"
 
 ## 概述 (Overview)

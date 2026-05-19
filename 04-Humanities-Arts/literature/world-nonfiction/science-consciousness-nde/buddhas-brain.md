@@ -1,3 +1,31 @@
+---
+
+title: "《佛陀的大脑》Buddha's Brain"
+description: "《佛陀的大脑》Buddha's Brain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《佛陀的大脑》Buddha's Brain"
+  - "《佛陀的大脑》Buddha's Brain的核心概念"
+  - "《佛陀的大脑》Buddha's Brain的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/meditation"
+
+---
 # 《佛陀的大脑》Buddha's Brain
 
 **作者**：里克·汉森 (Rick Hanson) & 理查德·蒙迪乌斯 (Richard Mendius)  

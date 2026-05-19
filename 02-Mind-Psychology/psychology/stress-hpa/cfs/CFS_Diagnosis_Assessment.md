@@ -1,3 +1,31 @@
+---
+
+title: "慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)"
+description: "慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
+tags: ["brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是慢性疲劳综合征诊断与评估"
+  - "慢性疲劳综合征诊断与评估的核心概念"
+  - "慢性疲劳综合征诊断与评估的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "aging/cardiovascular/exercise"
+
+---
 # 慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)
 
 > ME/CFS的诊断主要基于临床表现和排除性诊断，目前尚无确定性生物标志物。本文档详细介绍各种诊断标准、评估工具、实验室检查和鉴别诊断流程，为临床医生提供系统的诊断框架。

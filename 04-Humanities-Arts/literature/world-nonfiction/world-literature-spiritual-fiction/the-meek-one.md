@@ -1,3 +1,31 @@
+---
+
+title: "《温顺的女人》The Meek One"
+description: "《温顺的女人》The Meek One的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["habits", "literature", "loneliness", "marriage"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《温顺的女人》The Meek One"
+  - "《温顺的女人》The Meek One的核心概念"
+  - "《温顺的女人》The Meek One的方法与实践"
+trigger_keywords: ["aging", "brain", "breathwork", "habits"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/attachment/depression"
+  - path: "02-Mind-Psychology/therapy/compassion-focused-therapy/Compassion_Focused_Therapy.md"
+    relation: "aging/attachment/depression"
+
+---
 # 《温顺的女人》The Meek One
 
 **作者：** 费奥多尔·米哈伊洛维奇·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

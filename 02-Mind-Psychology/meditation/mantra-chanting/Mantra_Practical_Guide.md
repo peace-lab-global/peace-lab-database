@@ -1,3 +1,31 @@
+---
+
+title: "真言唱诵实践指南"
+description: "真言唱诵实践指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Mantra Chanting"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是真言唱诵实践指南"
+  - "真言唱诵实践指南的核心概念"
+  - "真言唱诵实践指南的方法与实践"
+trigger_keywords: ["真言唱诵实践指南", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "README.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 真言唱诵实践指南
 
 > **最后更新：2026-05**

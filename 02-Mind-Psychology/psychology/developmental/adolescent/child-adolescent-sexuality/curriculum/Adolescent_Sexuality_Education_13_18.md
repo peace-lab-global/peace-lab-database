@@ -1,3 +1,31 @@
+---
+
+title: "青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)"
+description: "青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Curriculum"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是青少年性教育专业指南"
+  - "青少年性教育专业指南的核心概念"
+  - "青少年性教育专业指南的方法与实践"
+trigger_keywords: ["青少年性教育专业指南", "act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Sociological_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)
 
 > 🔥 **教育定位**: 面向13-18岁青少年的高级性教育专业体系，基于形式运算期认知特点和青春期发展需求，采用赋权教育模式和批判性思维训练，培养青少年的性健康决策能力、关系管理技能和价值判断力。建议结合[青少年危机干预](../../adolescent-crisis/Adolescent_Crisis_Intervention.md)了解发展挑战，参考[综合性性教育](../../../../../../03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md)获取完整生命周期视角。

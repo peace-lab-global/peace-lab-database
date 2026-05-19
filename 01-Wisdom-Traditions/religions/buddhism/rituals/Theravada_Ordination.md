@@ -1,3 +1,31 @@
+---
+
+title: "南传佛教出家受戒仪轨 (Theravada Ordination Rituals)"
+description: "南传佛教出家受戒仪轨 (Theravada Ordination Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "mindfulness", "ocd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是南传佛教出家受戒仪轨"
+  - "南传佛教出家受戒仪轨的核心概念"
+  - "南传佛教出家受戒仪轨的方法与实践"
+trigger_keywords: ["南传佛教出家受戒仪轨", "behavioral", "buddhism", "cognitive", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 南传佛教出家受戒仪轨 (Theravada Ordination Rituals)
 
 > **出家受戒 (Pabbajjā & Upasampadā)**：南传佛教中最神圣的仪轨之一，标志着一个世俗人正式成为佛陀的弟子，踏上解脱之路。此仪轨传承两千五百余年，至今仍在斯里兰卡、缅甸、泰国、柬埔寨、老挝等地严格遵行。

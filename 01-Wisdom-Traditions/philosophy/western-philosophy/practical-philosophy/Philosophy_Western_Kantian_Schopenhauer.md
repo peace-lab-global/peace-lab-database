@@ -1,3 +1,31 @@
+---
+
+title: "Western Philosophy: Kantian & Schopenhauerian Thought (西方哲学：康德与叔本华思想)"
+description: "Western Philosophy: Kantian & Schopenhauerian Thought (西方哲学：康德与叔本华思想)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
+tags: ["addiction", "cbt", "philosophy", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Western Philosophy: Kantian & Schopenhauerian Thought"
+  - "Western Philosophy: Kantian & Schopenhauerian Thought的核心概念"
+  - "Western Philosophy: Kantian & Schopenhauerian Thought的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # Western Philosophy: Kantian & Schopenhauerian Thought (西方哲学：康德与叔本华思想)
 
 ### I. Immanuel Kant: The Critique of Pure Reason (伊曼努尔·康德：纯粹理性批判)

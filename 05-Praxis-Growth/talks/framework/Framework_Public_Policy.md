@@ -1,3 +1,31 @@
+---
+
+title: "公共政策 | Public Policy"
+description: "公共政策 | Public Policy的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "intervention"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是公共政策 | Public Policy"
+  - "公共政策 | Public Policy的核心概念"
+  - "公共政策 | Public Policy的方法与实践"
+trigger_keywords: ["公共政策", "act", "assessment", "behavioral", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/productivity/sexuality"
+
+---
 # 公共政策 | Public Policy
 
 > 公共政策（Public Policy）是研究政府和其他公共机构如何识别社会问题、制定干预方案、实施政策工具并评估政策效果的跨学科学术领域。它融合了政治学、经济学、社会学、法学和管理学的理论与方法，致力于在资源有限的条件下寻找解决公共问题的最优方案。在全球化和数字化时代，公共政策面临前所未有的复杂性，需要新的理论工具和实践方法来应对气候危机、不平等加剧和技术治理等挑战。

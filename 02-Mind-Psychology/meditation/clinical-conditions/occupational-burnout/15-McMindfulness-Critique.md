@@ -1,3 +1,31 @@
+---
+
+title: "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique"
+description: "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["decision-making", "intervention", "leadership", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique"
+  - "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的核心概念"
+  - "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的方法与实践"
+trigger_keywords: ["assessment", "buddhism", "clinical", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique
 
 > **文档定位**：正念在职场中的流行也带来了"去语境化"和"商品化"的风险。本章对 McMindfulness 批判进行系统梳理，提出负责任的正念干预原则。

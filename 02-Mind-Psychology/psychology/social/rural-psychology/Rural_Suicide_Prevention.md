@@ -1,3 +1,31 @@
+---
+
+title: "Rural Suicide Prevention (农村自杀预防)"
+description: "Rural Suicide Prevention (农村自杀预防)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Rural Suicide Prevention"
+  - "Rural Suicide Prevention的核心概念"
+  - "Rural Suicide Prevention的方法与实践"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
+    relation: "aging/communication/death"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/communication/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/communication/death"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/communication/depression"
+
+---
 # Rural Suicide Prevention (农村自杀预防)
 
 > **农村自杀预防 (Rural Suicide Prevention)**

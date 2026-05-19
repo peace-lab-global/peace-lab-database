@@ -1,3 +1,31 @@
+---
+
+title: "Peace Lab Database (平静实验室知识库)"
+description: "Peace Lab Database (平静实验室知识库)的详细解析与实践指南"
+category: "general"
+tags: ["addiction", "ballet", "bci"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Peace Lab Database"
+  - "Peace Lab Database的核心概念"
+  - "Peace Lab Database的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Peace Lab Database (平静实验室知识库)
 
 这是一个专业的、多维度的身心疗愈与个人进化知识体系。项目通过严谨的 **"五大核心支柱"** 架构，整合了古代智慧传承、现代心理学、生命科学以及人文艺术实践。
@@ -86,6 +114,60 @@ Agent Skills 遵循以下设计原则：
 | `Stress_Health_Risk_Assessment_Skill.md` | 压力相关健康风险 | "长期压力对身体的影响" |
 | `Stress_Diary_Analysis_Skill.md` | 压力日记分析 | "帮我分析我的压力日记" |
 | `Relaxation_Techniques_Guide_Skill.md` | 放松技术指导 | "有什么放松方法" |
+
+#### 抑郁评估模块 (`02-Mind-Psychology/psychology/clinical/depression/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Depression_Assessment_Skill.md` | 抑郁状态综合评估（PHQ-9） | "我最近情绪很低落" |
+
+#### 创伤评估模块 (`02-Mind-Psychology/psychology/clinical/trauma/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Trauma_Assessment_Skill.md` | 创伤与应激评估（PCL-5） | "我总是做噩梦/闪回" |
+
+#### 失眠评估模块 (`02-Mind-Psychology/psychology/somatic-body/sleep/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Insomnia_Assessment_Skill.md` | 失眠与睡眠质量评估（ISI） | "我失眠睡不着" |
+
+#### 积极心理学模块 (`02-Mind-Psychology/psychology/foundations/positive-psychology/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Wellbeing_Assessment_Skill.md` | 幸福感与积极心理评估（PERMA/SWLS/VIA） | "我想提升幸福感" |
+
+#### 职业倦怠模块 (`02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Burnout_Assessment_Skill.md` | 职业倦怠评估（MBI/JD-R） | "上班没动力/职业倦怠" |
+
+#### 领导力模块 (`05-Praxis-Growth/personal-development/super-individual/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Leadership_Assessment_Skill.md` | 领导力与影响力评估（Goleman/Cialdini） | "如何提升领导力" |
+
+#### 成瘾评估模块 (`02-Mind-Psychology/psychology/behavioral/addiction/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Addiction_Assessment_Skill.md` | 成瘾行为评估（AUDIT/DAST/ASI） | "我戒不掉酒/游戏/手机" |
+
+#### 亲密关系模块 (`02-Mind-Psychology/relationships/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Relationship_Assessment_Skill.md` | 亲密关系质量评估（CSI/ECR-R/Gottman） | "感情出了问题" |
+
+#### 自尊评估模块 (`02-Mind-Psychology/psychology/self-regulation/self-confidence/skills/`)
+
+| 技能 | 功能 | 适用场景 |
+|:-----|:-----|:---------|
+| `Self_Esteem_Assessment_Skill.md` | 自尊与自我价值评估（RSES/SCS） | "我很自卑" |
 
 ### 扩展计划
 

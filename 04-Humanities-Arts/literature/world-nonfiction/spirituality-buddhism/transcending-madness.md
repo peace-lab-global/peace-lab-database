@@ -1,3 +1,31 @@
+---
+
+title: "《超越疯狂》Transcending Madness"
+description: "《超越疯狂》Transcending Madness的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["habits", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《超越疯狂》Transcending Madness"
+  - "《超越疯狂》Transcending Madness的核心概念"
+  - "《超越疯狂》Transcending Madness的方法与实践"
+trigger_keywords: ["anxiety", "buddhism", "emotion", "habits"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 《超越疯狂》Transcending Madness
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1992年出版。创巴仁波切对佛教"六种境界"（Six Realms）的深入讲解——从地狱到天道，不是 cosmological 的描述，而是**心理状态的地图**。每个人都在这六种境界中轮回，而修行的目标是超越这种轮回。

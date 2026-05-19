@@ -1,3 +1,31 @@
+---
+
+title: "东西方独处哲学传统 (Philosophy of Solitude: East & West)"
+description: "东西方独处哲学传统 (Philosophy of Solitude: East & West)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety", "daoism", "healing", "jung", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是东西方独处哲学传统"
+  - "东西方独处哲学传统的核心概念"
+  - "东西方独处哲学传统的方法与实践"
+trigger_keywords: ["东西方独处哲学传统", "act", "anxiety", "body", "cognitive"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/daoism/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 东西方独处哲学传统 (Philosophy of Solitude: East & West)
 
 > **核心命题**: 人类对独处的思考贯穿所有伟大智慧传统。从道家"独与天地精神往来"到基督教沙漠教父，从梭罗的瓦尔登湖到禅宗的孤坐——独处不是逃避，而是更深地进入真实。

@@ -1,3 +1,31 @@
+---
+
+title: "非暴力沟通概述 | Nonviolent Communication Overview"
+description: "非暴力沟通概述 | Nonviolent Communication Overview的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > Nonviolent Communication"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是非暴力沟通概述 | Nonviolent Communication Overview"
+  - "非暴力沟通概述 | Nonviolent Communication Overview的核心概念"
+  - "非暴力沟通概述 | Nonviolent Communication Overview的方法与实践"
+trigger_keywords: ["非暴力沟通概述", "anxiety", "art", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 非暴力沟通概述 | Nonviolent Communication Overview
 
 > 非暴力沟通(Nonviolent Communication, NVC)由美国心理学家Marshall B. Rosenberg于20世纪60年代创立,是一套以同理心(Empathy)为核心的对话体系。NVC认为,人际冲突的根源不在于需求本身,而在于表达和满足需求的方式。通过观察(Observation)、感受(Feeling)、需要(Need)、请求(Request)四步模型,NVC帮助人们从评判与指责转向理解与连接,在亲密关系、职场协作、跨文化对话等场景中广泛应用。

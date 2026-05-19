@@ -1,3 +1,31 @@
+---
+
+title: "《西藏生死书》核心思想与观点分析"
+description: "《西藏生死书》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《西藏生死书》核心思想与观点分析"
+  - "《西藏生死书》核心思想与观点分析的核心概念"
+  - "《西藏生死书》核心思想与观点分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 《西藏生死书》核心思想与观点分析
 
 ## 一、生死一如：死亡不是生命的对立面

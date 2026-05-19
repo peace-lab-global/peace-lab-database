@@ -1,3 +1,31 @@
+---
+
+title: "《入菩萨行论》The Way of the Bodhisattva"
+description: "《入菩萨行论》The Way of the Bodhisattva的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《入菩萨行论》The Way of the Bodhisattva"
+  - "《入菩萨行论》The Way of the Bodhisattva的核心概念"
+  - "《入菩萨行论》The Way of the Bodhisattva的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "cognitive", "sexuality"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+
+---
 # 《入菩萨行论》The Way of the Bodhisattva
 
 > 寂天菩萨（Shantideva）著，约公元8世纪。印度大乘佛教最重要的论典之一，以诗偈的形式阐述了菩萨道——从发菩提心到六度万行的完整路径。藏传佛教最重视的经典之一，达赖喇嘛每年公开讲授。

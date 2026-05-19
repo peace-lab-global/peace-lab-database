@@ -1,3 +1,31 @@
+---
+
+title: "《伊凡·伊里奇之死》The Death of Ivan Ilyich"
+description: "《伊凡·伊里奇之死》The Death of Ivan Ilyich的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature", "marriage", "pain", "phobia", "religion", "social"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《伊凡·伊里奇之死》The Death of Ivan Ilyich"
+  - "《伊凡·伊里奇之死》The Death of Ivan Ilyich的核心概念"
+  - "《伊凡·伊里奇之死》The Death of Ivan Ilyich的方法与实践"
+trigger_keywords: ["《伊凡", "death", "literature", "marriage", "pain"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Special_Loss_Types.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "anxiety/attachment/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/attachment/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《伊凡·伊里奇之死》The Death of Ivan Ilyich
 
 > 列夫·托尔斯泰（Leo Tolstoy）著，1886年出版。这部中篇小说被许多评论家认为是托尔斯泰最伟大的作品——甚至超过了《战争与和平》和《安娜·卡列尼娜》。它描述了一个普通的俄国法官在患上不明绝症后的身心崩溃，以及他在死亡边缘的灵性觉醒。

@@ -1,3 +1,32 @@
+---
+
+title: "教学设计心理学 | Teaching Design Psychology"
+description: "教学设计心理学 | Teaching Design Psychology的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Educational Psychology"
+tags: ["decision-making", "应用心理学", "心理学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教学设计心理学 | Teaching Design Psychology"
+  - "教学设计心理学 | Teaching Design Psychology的核心概念"
+  - "教学设计心理学 | Teaching Design Psychology的方法与实践"
+  - "教学设计心理学 | Teaching Design Psychology的自助方法"
+trigger_keywords: ["教学设计心理学", "assessment", "cognitive", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 教学设计心理学 | Teaching Design Psychology
 
 > **学科定位**: 教学设计 × 认知科学 × 学习心理学

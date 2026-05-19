@@ -1,3 +1,32 @@
+---
+
+title: "心理健康 | Mental Health Framework"
+description: "心理健康 | Mental Health Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心理健康 | Mental Health Framework"
+  - "心理健康 | Mental Health Framework的核心概念"
+  - "心理健康 | Mental Health Framework的方法与实践"
+  - "心理健康 | Mental Health Framework的自助方法"
+trigger_keywords: ["心理健康", "act", "adolescent", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 心理健康 | Mental Health Framework
 
 > **心理健康**（Mental Health）是全球最紧迫的公共卫生议题之一。世界卫生组织数据显示，全球约9.7亿人受精神健康问题影响，但大多数国家的心理健康服务严重不足。从消除污名化（Stigma）到推动心理治疗普及，从社区心理健康到危机干预，心理健康的促进需要全社会的参与。本文件精选TED平台上关于心理健康的代表性演讲，探索科学理解和社会行动的双重路径。

@@ -1,3 +1,31 @@
+---
+
+title: "分析哲学经典三方书评"
+description: "分析哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Analytic"
+tags: ["philosophy", "religion", "treatment", "哲学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是分析哲学经典三方书评"
+  - "分析哲学经典三方书评的核心概念"
+  - "分析哲学经典三方书评的方法与实践"
+trigger_keywords: ["分析哲学经典三方书评", "philosophy", "religion", "sexuality", "treatment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+    relation: "communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/05-MBCT-Relapse-Prevention.md"
+    relation: "communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "communication/sexuality"
+
+---
 # 分析哲学经典三方书评
 
 ---

@@ -1,3 +1,31 @@
+---
+
+title: "文化遗产保护 | Cultural Heritage"
+description: "文化遗产保护 | Cultural Heritage的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["calligraphy", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文化遗产保护 | Cultural Heritage"
+  - "文化遗产保护 | Cultural Heritage的核心概念"
+  - "文化遗产保护 | Cultural Heritage的方法与实践"
+trigger_keywords: ["文化遗产保护", "act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "art_therapy/communication/sexuality"
+
+---
 # 文化遗产保护 | Cultural Heritage
 
 > 文化遗产保护（Cultural Heritage Conservation / Preservation）是记录、保存、传承和管理人类共同文化记忆的系统性行动领域。从1972年联合国教科文组织《世界遗产公约》（World Heritage Convention）的缔结，到2003年《保护非物质文化遗产公约》的通过，文化遗产保护的理念与实践经历了从物质到非物质、从精英到大众、从国家到社区的深刻范式转型。在全球化、城市化与数字化交织的时代背景下，如何在保护中发展、在传承中创新，已成为关乎人类文化多样性与集体认同的核心命题。

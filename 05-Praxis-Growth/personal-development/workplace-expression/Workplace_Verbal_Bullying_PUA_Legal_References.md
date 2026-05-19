@@ -1,3 +1,31 @@
+---
+
+title: "职场语言霸凌与PUA：法律法规汇编 (Legal References for Workplace Verbal Bullying & PUA)"
+description: "职场语言霸凌与PUA：法律法规汇编 (Legal References for Workplace Verbal Bullying & PUA)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "personality", "个人发展"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场语言霸凌与PUA：法律法规汇编"
+  - "职场语言霸凌与PUA：法律法规汇编的核心概念"
+  - "职场语言霸凌与PUA：法律法规汇编的方法与实践"
+trigger_keywords: ["behavioral", "body", "communication", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "communication/emotion/personality"
+
+---
 # 职场语言霸凌与PUA：法律法规汇编 (Legal References for Workplace Verbal Bullying & PUA)
 
 > **定位**：汇总与职场语言霸凌、羞辱性管理、孕产歧视、报复性管理、违法调岗、劝退协商相关的中国大陆常见法律法规与制度依据

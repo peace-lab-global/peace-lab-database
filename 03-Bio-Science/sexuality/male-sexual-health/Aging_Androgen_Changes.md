@@ -1,3 +1,31 @@
+---
+
+title: "Aging and Androgen Changes (中老年与激素变化)"
+description: "Aging and Androgen Changes (中老年与激素变化)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Male Sexual Health"
+tags: ["aging", "cardiovascular", "intervention", "sexuality", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Aging and Androgen Changes"
+  - "Aging and Androgen Changes的核心概念"
+  - "Aging and Androgen Changes的方法与实践"
+trigger_keywords: ["aging", "assessment", "cardiovascular", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/cardiovascular/exercise"
+
+---
 # Aging and Androgen Changes (中老年与激素变化)
 
 ## 概述

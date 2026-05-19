@@ -1,3 +1,31 @@
+---
+
+title: "《佛陀的启示》What the Buddha Taught"
+description: "《佛陀的启示》What the Buddha Taught的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《佛陀的启示》What the Buddha Taught"
+  - "《佛陀的启示》What the Buddha Taught的核心概念"
+  - "《佛陀的启示》What the Buddha Taught的方法与实践"
+trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 《佛陀的启示》What the Buddha Taught
 
 > 罗睺罗·化普乐（Walpola Rahula）著，1959年出版。斯里兰卡佛教僧侣、学者，伦敦大学博士。这本书是上座部佛教最权威的英文入门，以现代学术语言精确阐述了佛陀的核心教导——四圣谛、八正道、无我、缘起、涅槃。

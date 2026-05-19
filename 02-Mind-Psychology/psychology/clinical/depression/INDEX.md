@@ -1,3 +1,32 @@
+---
+
+title: "抑郁症 (Depression) | Index"
+description: "抑郁症 (Depression) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "bci", "depression", "mbsr", "bipolar", "sleep"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是抑郁症  | Index"
+  - "抑郁症  | Index的核心概念"
+  - "抑郁症  | Index的方法与实践"
+  - "抑郁症  | Index的自助方法"
+trigger_keywords: ["抑郁症", "Index", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 抑郁症 (Depression) | Index
 
 > 抑郁症是最常见的精神障碍之一，全球约 2.8 亿人受其影响。本专题系统覆盖抑郁症的临床诊断、治疗干预、复发预防、自助管理、早期预警、难治性处理、睡眠-营养交叉及特定人群（围产期、老年、青少年），构建从急性期到维持期的全周期知识库。

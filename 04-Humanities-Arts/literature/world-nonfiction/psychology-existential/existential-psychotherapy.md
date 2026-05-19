@@ -1,3 +1,32 @@
+---
+
+title: "《存在主义心理治疗》Existential Psychotherapy"
+description: "《存在主义心理治疗》Existential Psychotherapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["addiction", "depression", "freud", "loneliness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《存在主义心理治疗》Existential Psychotherapy"
+  - "《存在主义心理治疗》Existential Psychotherapy的核心概念"
+  - "《存在主义心理治疗》Existential Psychotherapy的方法与实践"
+  - "《存在主义心理治疗》Existential Psychotherapy的循证证据"
+trigger_keywords: ["addiction", "anxiety", "body", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "anxiety/death/depression"
+
+---
 # 《存在主义心理治疗》Existential Psychotherapy
 
 > 欧文·亚隆（Irvin D. Yalom）著，1980年出版。斯坦福大学精神病学教授、存在主义心理治疗最重要的理论家。这本书是他学术生涯的巅峰之作，系统阐述了存在主义心理治疗的理论基础——四大"终极关怀"（ultimate concerns）。

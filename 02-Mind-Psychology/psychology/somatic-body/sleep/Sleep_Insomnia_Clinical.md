@@ -1,3 +1,31 @@
+---
+
+title: "失眠临床应用 (Insomnia Clinical Applications)"
+description: "失眠临床应用 (Insomnia Clinical Applications)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
+tags: ["addiction", "anxiety", "emdr", "sleep", "cbt", "adhd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是失眠临床应用"
+  - "失眠临床应用的核心概念"
+  - "失眠临床应用的方法与实践"
+trigger_keywords: ["失眠临床应用", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/daoism"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 失眠临床应用 (Insomnia Clinical Applications)
 
 > **目标**：系统化的失眠临床应用指南，涵盖特殊人群、共病失眠、治疗流程、复发预防及自助资源。

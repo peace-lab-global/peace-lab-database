@@ -1,3 +1,31 @@
+---
+
+title: "Classical Music Therapeutic Methods (古典音乐疗愈方法与技术)"
+description: "Classical Music Therapeutic Methods (古典音乐疗愈方法与技术)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Classical Music Therapeutic Methods"
+  - "Classical Music Therapeutic Methods的核心概念"
+  - "Classical Music Therapeutic Methods的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Classical Music Therapeutic Methods (古典音乐疗愈方法与技术)
 
 ## 主要疗法流派对比表

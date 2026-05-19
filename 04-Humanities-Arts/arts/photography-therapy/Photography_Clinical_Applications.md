@@ -1,3 +1,31 @@
+---
+
+title: "摄影疗愈临床应用 | Photography Clinical Applications"
+description: "摄影疗愈临床应用 | Photography Clinical Applications的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 摄影疗愈"
+tags: ["photography"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是摄影疗愈临床应用 | Photography Clinical Applications"
+  - "摄影疗愈临床应用 | Photography Clinical Applications的核心概念"
+  - "摄影疗愈临床应用 | Photography Clinical Applications的方法与实践"
+trigger_keywords: ["摄影疗愈临床应用", "act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 摄影疗愈临床应用 | Photography Clinical Applications
 
 > **文档定位**: 摄影疗愈在各临床群体中的循证应用与效果研究

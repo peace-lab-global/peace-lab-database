@@ -1,3 +1,31 @@
+---
+
+title: "transcendental-meditation | 超觉静坐 Index"
+description: "transcendental-meditation | 超觉静坐 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Transcendental Meditation"
+tags: ["meditation", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是transcendental-meditation | 超觉静坐 Index"
+  - "transcendental-meditation | 超觉静坐 Index的核心概念"
+  - "transcendental-meditation | 超觉静坐 Index的方法与实践"
+trigger_keywords: ["超觉静坐 Index", "clinical", "meditation", "neuroscience", "冥想"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "meditation/neuroscience"
+
+---
 # transcendental-meditation | 超觉静坐 Index
 
 ## 内容索引 | Contents

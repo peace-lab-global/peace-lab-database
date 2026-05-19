@@ -1,3 +1,31 @@
+---
+
+title: "Weight Loss Psychology (减肥心理学)"
+description: "Weight Loss Psychology (减肥心理学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Weight Loss"
+tags: ["brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Weight Loss Psychology"
+  - "Weight Loss Psychology的核心概念"
+  - "Weight Loss Psychology的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Neuroscience.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Weight Loss Psychology (减肥心理学)
 
 ## 动机与自我决定 (Motivation & Self-Determination)

@@ -1,3 +1,32 @@
+---
+
+title: "政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)"
+description: "政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Measurement Methods"
+tags: ["anxiety", "brain", "cortisol"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是政治心理学测量工具与研究方法"
+  - "政治心理学测量工具与研究方法的核心概念"
+  - "政治心理学测量工具与研究方法的方法与实践"
+  - "政治心理学测量工具与研究方法的自助方法"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)
 
 ## 目录 (Table of Contents)

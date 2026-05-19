@@ -1,3 +1,31 @@
+---
+
+title: "韩国儒学经典 · 佛法视角三方书评"
+description: "韩国儒学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
+tags: ["buddhism", "mindfulness", "philosophy", "positive-psychology", "religion", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是韩国儒学经典 · 佛法视角三方书评"
+  - "韩国儒学经典 · 佛法视角三方书评的核心概念"
+  - "韩国儒学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["韩国儒学经典", "佛法视角三方书评", "behavioral", "buddhism", "developmental", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 韩国儒学经典 · 佛法视角三方书评
 
 ## 主题：韩国儒佛之争的历史；退溪/栗谷对佛教的批判；从佛教视角看"主敬"修养

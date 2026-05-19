@@ -1,3 +1,31 @@
+---
+
+title: "冥想评估速查手册 | Quick Reference Guide v3.0"
+description: "冥想评估速查手册 | Quick Reference Guide v3.0的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview > Visualization"
+tags: ["anxiety", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想评估速查手册 | Quick Reference Guide v3.0"
+  - "冥想评估速查手册 | Quick Reference Guide v3.0的核心概念"
+  - "冥想评估速查手册 | Quick Reference Guide v3.0的方法与实践"
+trigger_keywords: ["冥想评估速查手册", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 冥想评估速查手册 | Quick Reference Guide v3.0
 
 > **执行师口袋版** | Practitioner Pocket Edition  

@@ -1,3 +1,31 @@
+---
+
+title: "Social Anxiety Disorder Treatment (社交焦虑障碍治疗)"
+description: "Social Anxiety Disorder Treatment (社交焦虑障碍治疗)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
+tags: ["addiction", "anxiety", "cbt", "mbct", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Social Anxiety Disorder Treatment"
+  - "Social Anxiety Disorder Treatment的核心概念"
+  - "Social Anxiety Disorder Treatment的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "anxiety/exercise/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "anxiety/exercise/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/exercise/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
+    relation: "anxiety/exercise/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Pyrrho.md"
+    relation: "anxiety/exercise/therapy"
+
+---
 # Social Anxiety Disorder Treatment (社交焦虑障碍治疗)
 
 > **社交焦虑障碍治疗 (SAD Treatment / Therapia Anxietatis Socialis)**

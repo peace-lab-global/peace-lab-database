@@ -1,3 +1,31 @@
+---
+
+title: "《哈菲兹诗集》Poems of Hafiz"
+description: "《哈菲兹诗集》Poems of Hafiz的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《哈菲兹诗集》Poems of Hafiz"
+  - "《哈菲兹诗集》Poems of Hafiz的核心概念"
+  - "《哈菲兹诗集》Poems of Hafiz的方法与实践"
+trigger_keywords: ["buddhism", "death", "sexuality", "文学"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《哈菲兹诗集》Poems of Hafiz
 
 > 哈菲兹（Hafez，约1315–1390年）。波斯最伟大的抒情诗人之一，与鲁米齐名。哈菲兹的诗以"加扎勒"（Ghazal）形式写成，主题是爱、酒、神和死亡。他的诗在伊朗被广泛用来占卜——随机翻开一页，读到的诗就是给你的"神谕"。

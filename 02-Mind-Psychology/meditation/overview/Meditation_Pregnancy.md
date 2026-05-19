@@ -1,3 +1,31 @@
+---
+
+title: "孕期冥想指南 | Meditation During Pregnancy"
+description: "孕期冥想指南 | Meditation During Pregnancy的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "cortisol", "depression", "mbsr", "mbct"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孕期冥想指南 | Meditation During Pregnancy"
+  - "孕期冥想指南 | Meditation During Pregnancy的核心概念"
+  - "孕期冥想指南 | Meditation During Pregnancy的方法与实践"
+trigger_keywords: ["孕期冥想指南", "act", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/communication/depression"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 孕期冥想指南 | Meditation During Pregnancy
 
 > **文档类型**: 特殊人群应用指南 | Special Population Guide

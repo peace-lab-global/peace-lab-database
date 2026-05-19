@@ -1,6 +1,96 @@
+---
+
+title: "04-Humanities-Arts | 人文与艺术疗愈"
+description: "04-Humanities-Arts | 人文与艺术疗愈的详细解析与实践指南"
+category: "人文与艺术疗愈"
+tags: ["ballet", "calligraphy", "photography", "cinema", "drama-therapy", "literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是04-Humanities-Arts | 人文与艺术疗愈"
+  - "04-Humanities-Arts | 人文与艺术疗愈的核心概念"
+  - "04-Humanities-Arts | 人文与艺术疗愈的方法与实践"
+trigger_keywords: ["人文与艺术疗愈", "act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 04-Humanities-Arts | 人文与艺术疗愈
 
 > 通过文学、音乐、电影及审美表达实现情感共鸣与治愈。
+
+---
+
+## 📚 阅读路径建议 | Reading Path Guide
+
+> 本支柱内容涵盖艺术史、音乐、电影、文学等多种疗愈形式，以下路径帮助不同背景的读者找到适合自己的学习顺序。
+
+### 🌱 初阶路径 (入门者)
+
+**目标**: 建立对艺术疗愈的基础认知，体验人文艺术的疗愈力量
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [艺术疗愈核心理论](arts/arts-therapy/Art_Therapy_Overview.md) | 理解艺术疗愈的原理 | 20分钟 |
+| 2 | [古典音乐疗愈全体系](media/music/classical-music/) | 体验音乐对情绪的调节 | 25分钟 |
+| 3 | [电影疗愈核心理论](media/cinema/cinema-therapy/Cinema_Therapy_Overview.md) | 理解电影作为疗愈工具 | 20分钟 |
+| 4 | [芭蕾艺术概览](arts/ballet/Ballet_Overview.md) | 理解身心整合的艺术形式 | 20分钟 |
+
+**适合**: 首次接触艺术疗愈，希望体验人文艺术疗愈力量的读者。
+
+---
+
+### 🌿 中阶路径 (已有基础)
+
+**目标**: 深入特定艺术疗愈形式，建立实践技能
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [书法疗愈实操指南](arts/calligraphy-therapy/Calligraphy_Practice_Guide.md) | 学习书法疗愈的实践方法 | 30分钟 |
+| 2 | [戏剧疗愈与心理剧](arts/drama-therapy/Drama_Therapy_Overview.md) | 理解戏剧疗愈的核心技术 | 25分钟 |
+| 3 | [园艺疗愈总览](arts/horticultural-therapy/Horticultural_Therapy_Overview.md) | 建立园艺疗愈的认知基础 | 20分钟 |
+| 4 | [文学疗愈体系](literature/therapy/) | 理解文学作为疗愈工具 | 25分钟 |
+
+**适合**: 有艺术疗愈基础，希望深入学习和实践的读者。
+
+---
+
+### 🌳 高阶路径 (专业研习)
+
+**目标**: 掌握多种艺术疗愈技术，准备从事专业疗愈工作
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [书法疗愈神经科学](arts/calligraphy-therapy/Calligraphy_Neuroscience.md) | 理解书法疗愈的科学基础 | 30分钟 |
+| 2 | [戏剧疗愈临床应用](arts/drama-therapy/Drama_Therapy_Clinical.md) | 掌握临床应用方法 | 35分钟 |
+| 3 | [芭蕾心理疗愈应用](arts/ballet/Ballet_Therapy_Applications.md) | 理解舞蹈动作疗愈 | 30分钟 |
+| 4 | [建筑空间疗愈](arts/space-healing/Space_Healing_Architecture.md) | 建立环境疗愈的专业视角 | 25分钟 |
+
+**适合**: 艺术疗愈从业者，或希望系统学习多种疗愈技术的读者。
+
+---
+
+### 🎯 专题路径 | Special Interest Paths
+
+| 主题 | 推荐文档序列 | 适合人群 |
+|------|-------------|----------|
+| **音乐疗愈** | 古典音乐 → 作曲家 → 歌剧 → 钢琴家 | 音乐爱好者 |
+| **视觉艺术疗愈** | 书法 → 摄影 → 绘画 → 陶艺 | 视觉艺术爱好者 |
+| **身体表达疗愈** | 芭蕾 → 舞蹈 → 戏剧 → 园艺 | 身体表达探索者 |
+| **文学疗愈** | 文学疗愈 → 孤独文学 → 深度阅读 → 写作 | 文学/写作爱好者 |
+
+---
 
 ## 核心索引 | Core Index
 
@@ -87,6 +177,24 @@
 - [深度阅读方法论与神经科学 (Deep Reading)](reading/)
 - [阅读障碍干预 (Reading Disorders)](reading/Reading_Disorders_Intervention.md)
 - [文学交叉索引系统 (Cross Reference)](literature/Cross_Reference_System.md)
+
+---
+
+## 🗺️ 知识图谱
+
+<details>
+<summary>点击查看本支柱知识图谱</summary>
+
+![人文与艺术疗愈知识图谱](../Visualization/initial-autofit.png)
+
+*图注：人文与艺术疗愈支柱的知识结构，涵盖艺术疗愈、音乐疗愈、电影疗愈、文学疗愈、书法疗愈等核心领域。*
+
+**导航提示**:
+- 圆形节点代表专题入口
+- 点击节点可跳转至对应文档
+- 颜色编码对应不同的知识类别
+
+</details>
 
 ---
 

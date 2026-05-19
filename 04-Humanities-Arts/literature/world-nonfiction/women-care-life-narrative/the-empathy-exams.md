@@ -1,3 +1,31 @@
+---
+
+title: "《共情考试》The Empathy Exams"
+description: "《共情考试》The Empathy Exams的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature", "writing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《共情考试》The Empathy Exams"
+  - "《共情考试》The Empathy Exams的核心概念"
+  - "《共情考试》The Empathy Exams的方法与实践"
+trigger_keywords: ["act", "assessment", "literature", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "communication/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/emotion/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/emotion/pain"
+
+---
 # 《共情考试》The Empathy Exams
 
 **作者**：莱斯利·贾米森 (Leslie Jamison)  

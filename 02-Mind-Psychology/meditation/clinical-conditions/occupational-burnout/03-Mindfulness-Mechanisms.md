@@ -1,3 +1,31 @@
+---
+
+title: "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms"
+description: "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["brain", "dmn", "intervention", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms"
+  - "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的核心概念"
+  - "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的方法与实践"
+trigger_keywords: ["act", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "emotion/exercise/meditation"
+  - path: "05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/meditation/neuroscience"
+
+---
 # 03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms
 
 > **文档定位**：本章建立"正念如何作用于倦怠"的理论桥梁。不是泛泛而谈"正念减压"，而是精确对应倦怠的三个维度（情绪耗竭、去人格化、低效能），阐明每一个维度背后的正念干预靶点和心理机制。

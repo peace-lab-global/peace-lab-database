@@ -1,3 +1,31 @@
+---
+
+title: "Hatred Clinical Assessment (仇恨的临床评估与诊断框架)"
+description: "Hatred Clinical Assessment (仇恨的临床评估与诊断框架)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
+tags: ["cardiovascular", "personality", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Hatred Clinical Assessment"
+  - "Hatred Clinical Assessment的核心概念"
+  - "Hatred Clinical Assessment的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "cardiovascular/communication/sexuality"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "cardiovascular/communication/sexuality"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
+    relation: "cardiovascular/communication/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "cardiovascular/communication/sexuality"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "cardiovascular/communication/sexuality"
+
+---
 # Hatred Clinical Assessment (仇恨的临床评估与诊断框架)
 
 > **仇恨临床评估 (Clinical Assessment of Hatred / Aestimatio Clinica Odii)**

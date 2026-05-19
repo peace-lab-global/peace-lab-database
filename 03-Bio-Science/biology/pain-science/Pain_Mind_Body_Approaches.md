@@ -1,3 +1,32 @@
+---
+
+title: "疼痛的身心疗法 | Pain Mind-Body Approaches"
+description: "疼痛的身心疗法 | Pain Mind-Body Approaches的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 疼痛科学"
+tags: ["cbt", "exercise", "breathwork", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是疼痛的身心疗法 | Pain Mind-Body Approaches"
+  - "疼痛的身心疗法 | Pain Mind-Body Approaches的核心概念"
+  - "疼痛的身心疗法 | Pain Mind-Body Approaches的方法与实践"
+  - "疼痛的身心疗法 | Pain Mind-Body Approaches的循证证据"
+trigger_keywords: ["疼痛的身心疗法", "act", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
+    relation: "anxiety/daoism/emotion"
+
+---
 # 疼痛的身心疗法 | Pain Mind-Body Approaches
 
 > **学科定位**: 整合医学 × 身心医学 × 补充替代疗法

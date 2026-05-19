@@ -1,3 +1,32 @@
+---
+
+title: "动漫与心理疗愈 | Anime Therapy"
+description: "动漫与心理疗愈 | Anime Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Anime Manga"
+tags: ["attachment", "cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是动漫与心理疗愈 | Anime Therapy"
+  - "动漫与心理疗愈 | Anime Therapy的核心概念"
+  - "动漫与心理疗愈 | Anime Therapy的方法与实践"
+  - "动漫与心理疗愈 | Anime Therapy的自助方法"
+trigger_keywords: ["动漫与心理疗愈", "act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 动漫与心理疗愈 | Anime Therapy
 
 > 动漫疗法（Anime Therapy）是将动漫作为一种心理治疗媒介，利用其独特的叙事深度、视觉表现力与情感共鸣，帮助来访者探索内心世界、处理情感创伤与促进心理成长。与电影疗法（Cinema Therapy）相比，动漫疗法在处理存在主义议题（Existential Themes）、青春期身份探索（Identity Exploration）和幻想性情感处理（Fantasy-based Emotional Processing）方面具有独特优势。本文件系统梳理动漫疗愈的理论基础、核心方法与临床应用。

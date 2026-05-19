@@ -1,3 +1,31 @@
+---
+
+title: "格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)"
+description: "格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > German Idealism"
+tags: ["cbt", "healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是格奥尔格·威廉·弗里德里希·黑格尔"
+  - "格奥尔格·威廉·弗里德里希·黑格尔的核心概念"
+  - "格奥尔格·威廉·弗里德里希·黑格尔的方法与实践"
+trigger_keywords: ["格奥尔格", "威廉", "弗里德里希", "黑格尔", "art", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+    relation: "sexuality/therapy"
+
+---
 # 格奥尔格·威廉·弗里德里希·黑格尔 (Georg Wilhelm Friedrich Hegel)
 
 ## 核心思想 (Core Ideas)

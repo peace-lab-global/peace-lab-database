@@ -1,3 +1,32 @@
+---
+
+title: "离婚决策心理学：从犹豫到行动的心理过程 (Psychology of Divorce Decision-Making)"
+description: "离婚决策心理学：从犹豫到行动的心理过程 (Psychology of Divorce Decision-Making)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是离婚决策心理学：从犹豫到行动的心理过程"
+  - "离婚决策心理学：从犹豫到行动的心理过程的核心概念"
+  - "离婚决策心理学：从犹豫到行动的心理过程的方法与实践"
+  - "离婚决策心理学：从犹豫到行动的心理过程的自助方法"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 离婚决策心理学：从犹豫到行动的心理过程 (Psychology of Divorce Decision-Making)
 
 > **交叉引用**：关于离婚的临床干预方法，参见 [Divorce_Psychology_Clinical_Intervention.md](Divorce_Psychology_Clinical_Intervention.md)；关于婚姻危机的紧急处理，参见 [Marriage_Crisis_Intervention.md](../Marriage_Crisis_Intervention.md)；关于婚姻治疗中的 Discernment Counseling，参见 [Marriage_Therapy_Methods.md](../Marriage_Therapy_Methods.md)。

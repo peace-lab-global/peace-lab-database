@@ -1,3 +1,31 @@
+---
+
+title: "《普贤上师言教》Words of My Perfect Teacher"
+description: "《普贤上师言教》Words of My Perfect Teacher的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "writing", "yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《普贤上师言教》Words of My Perfect Teacher"
+  - "《普贤上师言教》Words of My Perfect Teacher的核心概念"
+  - "《普贤上师言教》Words of My Perfect Teacher的方法与实践"
+trigger_keywords: ["buddhism", "death", "dzogchen", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《普贤上师言教》Words of My Perfect Teacher
 
 > 巴楚仁波切（Patrul Rinpoche）著，19世纪。藏传佛教宁玛派最重要的修行指南之一，系统阐述了从"转心四思维"到"大圆满"的完整道路。书名中的"完美上师"指的是巴楚仁波切的上师吉美林巴。这本书是藏地修行者最广泛阅读的实修手册之一。

@@ -1,6 +1,57 @@
+---
+
+title: "反焦虑症 (Anti-Anxiety) | Index"
+description: "反焦虑症 (Anti-Anxiety) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "decision-making", "sleep", "mindfulness", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是反焦虑症  | Index"
+  - "反焦虑症  | Index的核心概念"
+  - "反焦虑症  | Index的方法与实践"
+  - "反焦虑症  | Index的自助方法"
+trigger_keywords: ["反焦虑症", "Index", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 反焦虑症 (Anti-Anxiety) | Index
 
 > 反焦虑症是焦虑障碍预防与康复的技能模块，聚焦于焦虑的认知重构、情绪脱敏、暴露训练和身心调节。不替代专业治疗，而是作为专业干预的补充和日常焦虑管理工具。
+
+## 🤖 Agent Skills 智能体技能层
+
+本模块已上线**结构化智能体技能**，可供 AI 智能体调用：
+
+| 技能ID | 技能名称 | 角色 | 说明 |
+|:------|:---------|:----:|:-----|
+| ANX_001 | 焦虑状态综合评估 | entry | 入口技能，确定焦虑类型和严重程度 |
+| ANX_002 | 广泛性焦虑障碍评估 | depth | GAD 深度评估 |
+| ANX_003 | 焦虑认知重构 | intervention | 认知扭曲识别与重构 |
+| ANX_004 | 焦虑日常训练协议 | tool | 4-8-12周日常练习方案 |
+| ANX_005 | 社交焦虑评估 | depth | 社交焦虑类型深度评估 |
+| ANX_006 | 暴露训练指南 | intervention | 系统脱敏暴露方案 |
+| ANX_007 | 惊恐障碍评估 | depth | 惊恐发作评估与鉴别 |
+| ANX_008 | 焦虑躯体调节技术 | intervention | 身体症状缓解技术 |
+| ANX_009 | 睡眠焦虑指导 | intervention | 睡前焦虑与失眠应对 |
+
+**智能体调用协议**：
+- `_protocol.md` — 技能调用规范、状态管理、输出标准
+- `_manifest.md` — 技能元数据注册表
+
+---
 
 ## 内容索引 | Contents
 

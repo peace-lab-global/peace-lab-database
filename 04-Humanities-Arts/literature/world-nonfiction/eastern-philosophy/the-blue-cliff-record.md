@@ -1,3 +1,31 @@
+---
+
+title: "《碧岩录》The Blue Cliff Record"
+description: "《碧岩录》The Blue Cliff Record的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["habits", "literature", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《碧岩录》The Blue Cliff Record"
+  - "《碧岩录》The Blue Cliff Record的核心概念"
+  - "《碧岩录》The Blue Cliff Record的方法与实践"
+trigger_keywords: ["buddhism", "habits", "literature", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《碧岩录》The Blue Cliff Record
 
 > 圆悟克勤（Yuanwu Keqin，1063—1135年）著，北宋临济宗高僧。本书全称《佛果圆悟禅师碧岩录》，是圆悟克勤在湖北夹山灵泉禅院（其方丈室名为"碧岩")，为弟子讲解云门宗雪窦重显（980—1052年）所集《颂古百则》时的开示记录。全书100则公案，每则包含公案本身、雪窦颂古、圆悟评唱三部分，是禅宗公案注释的巅峰之作，被誉为"禅门第一书"。

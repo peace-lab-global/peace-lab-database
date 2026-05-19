@@ -1,3 +1,31 @@
+---
+
+title: "Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱"
+description: "Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱"
+  - "Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱的核心概念"
+  - "Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱的方法与实践"
+trigger_keywords: ["正念医学化先驱", "act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱
 
 ## 概述 (Overview)

@@ -6,6 +6,17 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
+    relation: "anxiety/emotion/exercise"
 ---
 
 # 身体羞耻障碍治疗干预方法体系

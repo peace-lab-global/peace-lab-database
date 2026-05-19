@@ -1,3 +1,31 @@
+---
+
+title: "《漫长的告别》The Long Goodbye"
+description: "《漫长的告别》The Long Goodbye的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["freud", "grief", "literature", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《漫长的告别》The Long Goodbye"
+  - "《漫长的告别》The Long Goodbye的核心概念"
+  - "《漫长的告别》The Long Goodbye的方法与实践"
+trigger_keywords: ["freud", "grief", "literature", "neuroscience"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "death/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "death/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/depression"
+
+---
 # 《漫长的告别》The Long Goodbye
 
 > 梅根·奥鲁尔克（Meghan O'Rourke）著，2011年出版。诗人、编辑奥鲁尔克记录了自己母亲因癌症去世后的哀伤历程。书名来自雷蒙德·钱德勒的小说，暗示了哀伤作为一种"漫长的告别"——它不是一次性的事件，而是一个持续数年的过程。

@@ -1,3 +1,31 @@
+---
+
+title: "门德尔松《意大利交响曲》综合指南"
+description: "门德尔松《意大利交响曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Symphonies > No4"
+tags: ["healing", "music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是门德尔松《意大利交响曲》综合指南"
+  - "门德尔松《意大利交响曲》综合指南的核心概念"
+  - "门德尔松《意大利交响曲》综合指南的方法与实践"
+trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 门德尔松《意大利交响曲》综合指南
 
 ## 作品基本信息

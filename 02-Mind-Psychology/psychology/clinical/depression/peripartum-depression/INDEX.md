@@ -1,3 +1,32 @@
+---
+
+title: "围产期抑郁 (Peripartum Depression) | Index"
+description: "围产期抑郁 (Peripartum Depression) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Peripartum Depression"
+tags: ["depression", "intervention", "nutrition", "ocd", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是围产期抑郁  | Index"
+  - "围产期抑郁  | Index的核心概念"
+  - "围产期抑郁  | Index的方法与实践"
+  - "围产期抑郁  | Index的自助方法"
+trigger_keywords: ["围产期抑郁", "Index", "assessment", "clinical", "crisis", "depression"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "depression/emotion/nutrition"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "emotion/nutrition/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "depression/emotion/nutrition"
+  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
+    relation: "depression/emotion/sexuality"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
+    relation: "depression/emotion/sexuality"
+
+---
 # 围产期抑郁 (Peripartum Depression) | Index
 
 > 围产期抑郁包括妊娠期和产后出现的抑郁发作，以及产后忧郁、产后精神病、产后强迫症和产后创伤后应激等情绪障碍。约 10-20% 的孕产妇受其影响，是母婴健康的重大挑战。

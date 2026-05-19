@@ -1,3 +1,31 @@
+---
+
+title: "《爱情刽子手》Love's Executioner"
+description: "《爱情刽子手》Love's Executioner的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["grief", "literature", "phobia", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《爱情刽子手》Love's Executioner"
+  - "《爱情刽子手》Love's Executioner的核心概念"
+  - "《爱情刽子手》Love's Executioner的方法与实践"
+trigger_keywords: ["anxiety", "death", "grief", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "anxiety/death/depression"
+
+---
 # 《爱情刽子手》Love's Executioner
 
 > 欧文·亚隆（Irvin D. Yalom）著，1989年出版。亚隆最早的故事集，十个心理治疗案例的详细记录——每一个都涉及"爱"的某种面向：对母亲的爱、对配偶的爱、对陌生人的爱、对自己的爱。副标题是"和其他存在主义治疗的故事"。

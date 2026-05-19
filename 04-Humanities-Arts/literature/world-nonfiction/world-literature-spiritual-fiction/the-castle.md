@@ -1,3 +1,31 @@
+---
+
+title: "《城堡》The Castle"
+description: "《城堡》The Castle的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "loneliness", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《城堡》The Castle"
+  - "《城堡》The Castle的核心概念"
+  - "《城堡》The Castle的方法与实践"
+trigger_keywords: ["art", "communication", "developmental", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 《城堡》The Castle
 
 **作者**：弗兰茨·卡夫卡 (Franz Kafka)  

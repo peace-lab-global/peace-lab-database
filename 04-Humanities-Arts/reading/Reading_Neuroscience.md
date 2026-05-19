@@ -1,3 +1,31 @@
+---
+
+title: "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης"
+description: "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的详细解析与实践指南"
+category: "人文与艺术疗愈 > 阅读"
+tags: ["bci"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης"
+  - "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的核心概念"
+  - "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的方法与实践"
+trigger_keywords: ["阅读神经科学", "aging", "assessment", "bci", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "aging/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/emotion"
+
+---
 # 阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης
 
 > **阅读神经科学**深入探讨阅读的大脑机制、认知过程和神经基础，结合脑成像技术、认知心理学和教育学研究，为阅读障碍诊断、阅读能力提升和阅读教学提供科学依据。

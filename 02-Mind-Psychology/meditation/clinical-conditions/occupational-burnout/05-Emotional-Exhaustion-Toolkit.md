@@ -1,3 +1,31 @@
+---
+
+title: "05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit"
+description: "05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "brain", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit"
+  - "05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit的核心概念"
+  - "05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit
 
 > **文档定位**：情绪耗竭是倦怠的"入口症状"，也是正念干预效果最快的维度。本章提供一套完整的、可直接使用的能量管理工具，涵盖工作日微恢复、深层修复、睡眠整合三个层级。

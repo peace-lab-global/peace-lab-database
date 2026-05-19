@@ -1,3 +1,31 @@
+---
+
+title: "《内观冥想练习册》The Insight Meditation Workbook"
+description: "《内观冥想练习册》The Insight Meditation Workbook的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《内观冥想练习册》The Insight Meditation Workbook"
+  - "《内观冥想练习册》The Insight Meditation Workbook的核心概念"
+  - "《内观冥想练习册》The Insight Meditation Workbook的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/emotion"
+
+---
 # 《内观冥想练习册》The Insight Meditation Workbook
 
 >  香巴拉出版社编辑部编，2014年出版。一本实用的内观禅修手册，汇集了多位资深禅修导师的教导，提供了从基础到进阶的完整练习指南。不是理论书，而是**操作手册**——每一步都有具体的指导。

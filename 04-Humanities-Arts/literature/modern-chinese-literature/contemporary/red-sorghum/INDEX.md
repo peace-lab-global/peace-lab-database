@@ -1,3 +1,31 @@
+---
+
+title: "Red Sorghum | 红高粱"
+description: "Red Sorghum | 红高粱的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Red Sorghum"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Red Sorghum | 红高粱"
+  - "Red Sorghum | 红高粱的核心概念"
+  - "Red Sorghum | 红高粱的方法与实践"
+trigger_keywords: ["红高粱", "cinema", "literature", "philosophy", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # Red Sorghum | 红高粱
 
 > 莫言中篇小说，1986年发表于《人民文学》。以高密东北乡为背景，讲述"我爷爷"余占鳌和"我奶奶"戴凤莲的传奇。1987年张艺谋改编为同名电影，轰动世界。

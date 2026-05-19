@@ -1,6 +1,100 @@
+---
+
+title: "02-Mind-Psychology | 心智与心理学"
+description: "02-Mind-Psychology | 心智与心理学的详细解析与实践指南"
+category: "心智与心理学"
+tags: ["addiction", "anxiety", "attachment", "depression", "schizophrenia", "personality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是02-Mind-Psychology | 心智与心理学"
+  - "02-Mind-Psychology | 心智与心理学的核心概念"
+  - "02-Mind-Psychology | 心智与心理学的方法与实践"
+  - "02-Mind-Psychology | 心智与心理学的自助方法"
+trigger_keywords: ["心智与心理学", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 02-Mind-Psychology | 心智与心理学
 
 > 整合现代心理学流派、测评工具、循证疗法及冥想技术。
+
+---
+
+## 📚 阅读路径建议 | Reading Path Guide
+
+> 本支柱内容广泛，以下路径帮助不同背景的读者找到适合自己的学习顺序。
+
+### 🌱 初阶路径 (入门者)
+
+**目标**: 建立心理学基础认知，了解常见问题类型
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [心理学流派总览](psychology/foundations/overview/) | 理解主流心理学体系 | 30分钟 |
+| 2 | [焦虑症专题](psychology/clinical/anxiety/) | 识别常见焦虑问题 | 25分钟 |
+| 3 | [压力与HPA轴](psychology/stress-hpa/chronic-stress/) | 理解压力机制 | 20分钟 |
+| 4 | [睡眠科学](psychology/somatic-body/sleep/) | 建立健康睡眠认知 | 20分钟 |
+| 5 | [冥想基础](meditation/overview/Meditation_Core.md) | 体验基础冥想技术 | 持续 |
+
+**适合**: 首次接触系统心理学的读者。
+
+---
+
+### 🌿 中阶路径 (已有基础)
+
+**目标**: 深入特定领域，理解循证干预方法，建立自助能力
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [MBCT正念认知疗法](therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 循证疗法入门 | 30分钟 |
+| 2 | [HPA轴与皮质醇](psychology/stress-hpa/cortisol/) | 深入压力生理机制 | 25分钟 |
+| 3 | [自我调节技能](psychology/self-regulation/) | 发展情绪调节能力 | 30分钟 |
+| 4 | [冥想脑科学](meditation/overview/Meditation_Brain_Science_Foundations.md) | 理解冥想的科学基础 | 25分钟 |
+| 5 | [压力日记分析](../02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Diary_Analysis_Skill.md) | 实践自我监测（Agent Skill） | 持续 |
+
+**适合**: 有一定心理学基础，希望深入学习和实践的读者。
+
+---
+
+### 🌳 高阶路径 (专业研习)
+
+**目标**: 掌握临床心理学全貌，理解高级干预技术，准备从事专业工作
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [严重精神障碍专题](psychology/clinical/disorder/Severe_Mental_Illness_Overview.md) | 理解重症鉴别与转介 | 40分钟 |
+| 2 | [创伤与危机干预](psychology/clinical/trauma/) | 掌握危机评估与干预 | 45分钟 |
+| 3 | [临床量表与评估](psychology/foundations/overview/Psychology_Assessment_Tools.md) | 掌握评估工具使用 | 35分钟 |
+| 4 | [Agent Skills 技能模块](../02-Mind-Psychology/psychology/stress-hpa/skills/) | 掌握AI辅助心理评估 | 持续 |
+
+**适合**: 心理健康从业者，或希望系统学习临床心理学的读者。
+
+---
+
+### 🎯 专题路径 | Special Interest Paths
+
+| 主题 | 推荐文档序列 | 适合人群 |
+|------|-------------|----------|
+| **焦虑问题** | 焦虑本质 → 认知重构 → 暴露训练 → 躯体调节 | 焦虑困扰者 |
+| **压力管理** | 压力机制 → 皮质醇管理 → HPA轴调节 → 放松技术 |高压人群 |
+| **睡眠改善** | 睡眠科学 → 失眠临床 → 睡眠焦虑 → 放松诱导 | 睡眠问题者 |
+| **冥想修习** | 冥想基础 → 脑科学 → 止观 → 直接认知 | 冥想实践者 |
+| **情绪调节** | 情绪科学 → 自我安抚 → 接地技术 → 容纳技术 | 情绪管理需求者 |
+
+---
 
 ## 核心索引 | Core Index
 
@@ -125,6 +219,24 @@
 - [OH 卡牌临床应用 (OH Cards)](therapy/oh-cards-therapy/OH_Cards_Therapy_Overview.md)
 - [感官疗法全系 (Sensory Therapy)](therapy/sensory/)
 - [香气与艾灸治疗 (Incense & Moxibustion)](therapy/incense/)
+
+---
+
+## 🗺️ 知识图谱
+
+<details>
+<summary>点击查看本支柱知识图谱</summary>
+
+![心智与心理学知识图谱](../Visualization/initial-autofit.png)
+
+*图注：心智与心理学支柱的知识结构，涵盖理论基础、临床心理、压力与HPA轴、发展心理学、社会心理学、冥想技术等核心领域。*
+
+**导航提示**:
+- 圆形节点代表专题入口
+- 点击节点可跳转至对应文档
+- 颜色编码对应不同的知识类别
+
+</details>
 
 ---
 

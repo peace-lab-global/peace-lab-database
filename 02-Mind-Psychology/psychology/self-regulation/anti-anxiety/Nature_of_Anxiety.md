@@ -1,3 +1,32 @@
+---
+
+title: "焦虑本质解析"
+description: "焦虑本质解析的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "brain", "cortisol"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是焦虑本质解析"
+  - "焦虑本质解析的核心概念"
+  - "焦虑本质解析的方法与实践"
+  - "焦虑本质解析的自助方法"
+trigger_keywords: ["焦虑本质解析", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 焦虑本质解析
 
 ## 目录

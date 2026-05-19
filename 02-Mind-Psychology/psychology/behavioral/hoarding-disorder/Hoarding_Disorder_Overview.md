@@ -1,3 +1,31 @@
+---
+
+title: "储物癖障碍概览 (Hoarding Disorder Overview)"
+description: "储物癖障碍概览 (Hoarding Disorder Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Hoarding Disorder"
+tags: ["anxiety", "brain", "cbt", "depression", "act", "ocd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是储物癖障碍概览"
+  - "储物癖障碍概览的核心概念"
+  - "储物癖障碍概览的方法与实践"
+trigger_keywords: ["储物癖障碍概览", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 储物癖障碍概览 (Hoarding Disorder Overview)
 
 ## 1. 核心定义与术语 (Core Definition & Terminology)

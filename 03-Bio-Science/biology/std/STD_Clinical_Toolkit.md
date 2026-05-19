@@ -1,3 +1,31 @@
+---
+
+title: "STD Clinical Decision Support Toolkit (性传播疾病临床决策支持工具箱)"
+description: "STD Clinical Decision Support Toolkit (性传播疾病临床决策支持工具箱)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["decision-making", "habits", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是STD Clinical Decision Support Toolkit"
+  - "STD Clinical Decision Support Toolkit的核心概念"
+  - "STD Clinical Decision Support Toolkit的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "breathwork", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "immune/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "immune/productivity/sexuality"
+
+---
 # STD Clinical Decision Support Toolkit (性传播疾病临床决策支持工具箱)
 
 > 🛠️ **实用工具**: 本文档提供性传播疾病诊疗的实用工具、计算器、流程图和决策支持资源，帮助临床医师提高诊疗效率和准确性。

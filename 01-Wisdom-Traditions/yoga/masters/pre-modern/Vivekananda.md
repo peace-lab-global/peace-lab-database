@@ -1,3 +1,31 @@
+---
+
+title: "斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）"
+description: "斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Pre Modern"
+tags: ["leadership", "meditation", "philosophy", "religion", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）"
+  - "斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）的核心概念"
+  - "斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）的方法与实践"
+trigger_keywords: ["斯瓦米", "act", "body", "leadership", "meditation"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "communication/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+    relation: "communication/emotion/meditation"
+
+---
 # 斯瓦米·辨喜（Swami Vivekananda / स्वामी विवेकानन्द）
 
 > 将瑜伽带向世界的第一人——从加尔各答到芝加哥的精神革命

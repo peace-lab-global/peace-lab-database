@@ -1,3 +1,32 @@
+---
+
+title: "OH卡疗法研究证据与循证实践 (OH Cards Therapy Research Evidence & Evidence-Based Practice)"
+description: "OH卡疗法研究证据与循证实践 (OH Cards Therapy Research Evidence & Evidence-Based Practice)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Oh Cards Therapy"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是OH卡疗法研究证据与循证实践"
+  - "OH卡疗法研究证据与循证实践的核心概念"
+  - "OH卡疗法研究证据与循证实践的方法与实践"
+  - "OH卡疗法研究证据与循证实践的循证证据"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # OH卡疗法研究证据与循证实践 (OH Cards Therapy Research Evidence & Evidence-Based Practice)
 
 > **科学基础与实证支持**

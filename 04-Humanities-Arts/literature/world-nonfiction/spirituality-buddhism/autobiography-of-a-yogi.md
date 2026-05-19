@@ -1,3 +1,31 @@
+---
+
+title: "《一个瑜伽行者的自传》Autobiography of a Yogi"
+description: "《一个瑜伽行者的自传》Autobiography of a Yogi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《一个瑜伽行者的自传》Autobiography of a Yogi"
+  - "《一个瑜伽行者的自传》Autobiography of a Yogi的核心概念"
+  - "《一个瑜伽行者的自传》Autobiography of a Yogi的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+
+---
 # 《一个瑜伽行者的自传》Autobiography of a Yogi
 
 > 帕拉宏撒·尤迦南达（Paramahansa Yogananda）著，1946年出版。印度瑜伽大师，1920年赴美传播克利亚瑜伽（Kriya Yoga），是第一位在美国建立持久影响力的印度灵性导师。这本书被乔布斯生前反复阅读，是他放在iPad上的唯一一本书。

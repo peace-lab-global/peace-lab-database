@@ -1,3 +1,31 @@
+---
+
+title: "孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes"
+description: "孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Visualization"
+tags: ["addiction", "anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes"
+  - "孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes的核心概念"
+  - "孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独 x 独处 临床案例 Vignette 库 | Clinical Case Vignettes
 
 > **定位**: 10个典型临床案例，覆盖不同人群、情境与干预路径

@@ -1,3 +1,31 @@
+---
+
+title: "家庭暴力法律保护体系专业内容体系"
+description: "家庭暴力法律保护体系专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是家庭暴力法律保护体系专业内容体系"
+  - "家庭暴力法律保护体系专业内容体系的核心概念"
+  - "家庭暴力法律保护体系专业内容体系的方法与实践"
+trigger_keywords: ["aging", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "attachment/communication/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/attachment/personality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
+    relation: "aging/attachment/personality"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/attachment/communication"
+
+---
 # 家庭暴力法律保护体系专业内容体系
 
 ## 目录

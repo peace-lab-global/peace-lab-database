@@ -1,3 +1,31 @@
+---
+
+title: "埃德蒙德·胡塞尔 (Edmund Husserl)"
+description: "埃德蒙德·胡塞尔 (Edmund Husserl)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Continental"
+tags: ["healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是埃德蒙德·胡塞尔"
+  - "埃德蒙德·胡塞尔的核心概念"
+  - "埃德蒙德·胡塞尔的方法与实践"
+trigger_keywords: ["埃德蒙德", "胡塞尔", "clinical", "cognitive", "crisis", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/18-Digital-Therapy.md"
+    relation: "exercise/neuroscience/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "exercise/neuroscience/sexuality"
+
+---
 # 埃德蒙德·胡塞尔 (Edmund Husserl)
 
 ## 核心思想 (Core Ideas)

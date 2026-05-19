@@ -1,3 +1,31 @@
+---
+
+title: "sexuality | 性学研究专题"
+description: "sexuality | 性学研究专题的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["intervention", "neuroscience", "personality", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是sexuality | 性学研究专题"
+  - "sexuality | 性学研究专题的核心概念"
+  - "sexuality | 性学研究专题的方法与实践"
+trigger_keywords: ["sexuality", "性学研究专题", "act", "anxiety", "assessment", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/neuroscience/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/neuroscience/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/neuroscience/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/neuroscience/personality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/neuroscience/personality"
+
+---
 # sexuality | 性学研究专题
 
 > 涵盖性学研究全域，包括临床应用、文化变异、神经科学、伦理法律及中国特色专题研究。

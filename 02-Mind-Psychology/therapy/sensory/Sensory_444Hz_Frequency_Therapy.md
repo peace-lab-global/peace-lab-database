@@ -1,3 +1,31 @@
+---
+
+title: "444Hz Frequency Therapy (444Hz频率疗法：科学原理、临床应用与身心调律)"
+description: "444Hz Frequency Therapy (444Hz频率疗法：科学原理、临床应用与身心调律)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["brain", "cortisol", "depression", "healing"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是444Hz Frequency Therapy"
+  - "444Hz Frequency Therapy的核心概念"
+  - "444Hz Frequency Therapy的方法与实践"
+trigger_keywords: ["assessment", "brain", "breathwork", "clinical"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "05-Praxis-Growth/talks/ted-talks/Child_Development_Trauma.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/immune"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "cardiovascular/emotion/immune"
+
+---
 # 444Hz Frequency Therapy (444Hz频率疗法：科学原理、临床应用与身心调律)
 
 ### Scientific Foundations of 444Hz (444Hz频率科学原理与声学特性表)

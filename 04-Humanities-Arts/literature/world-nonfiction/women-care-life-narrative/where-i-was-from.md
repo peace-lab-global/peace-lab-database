@@ -1,3 +1,31 @@
+---
+
+title: "《我来自何方》Where I Was From"
+description: "《我来自何方》Where I Was From的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["writing", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我来自何方》Where I Was From"
+  - "《我来自何方》Where I Was From的核心概念"
+  - "《我来自何方》Where I Was From的方法与实践"
+trigger_keywords: ["act", "death", "sexuality", "writing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality/therapy"
+
+---
 # 《我来自何方》Where I Was From
 
 **作者**：琼·狄迪恩 (Joan Didion)  

@@ -1,3 +1,31 @@
+---
+
+title: "《物理之道》The Tao of Physics"
+description: "《物理之道》The Tao of Physics的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["positive-psychology", "religion", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《物理之道》The Tao of Physics"
+  - "《物理之道》The Tao of Physics的核心概念"
+  - "《物理之道》The Tao of Physics的方法与实践"
+trigger_keywords: ["buddhism", "cognitive", "exercise", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 《物理之道》The Tao of Physics
 
 **作者：** 弗里乔夫·卡普拉 (Fritjof Capra)  

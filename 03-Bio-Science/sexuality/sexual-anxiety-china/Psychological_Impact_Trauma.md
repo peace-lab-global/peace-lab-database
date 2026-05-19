@@ -1,3 +1,32 @@
+---
+
+title: "性焦虑的心理学影响与创伤机制"
+description: "性焦虑的心理学影响与创伤机制的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性焦虑的心理学影响与创伤机制"
+  - "性焦虑的心理学影响与创伤机制的核心概念"
+  - "性焦虑的心理学影响与创伤机制的方法与实践"
+  - "性焦虑的心理学影响与创伤机制的自助方法"
+trigger_keywords: ["anxiety", "art", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 性焦虑的心理学影响与创伤机制
 
 ## 个体心理发展影响

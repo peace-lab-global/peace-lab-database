@@ -1,3 +1,31 @@
+---
+
+title: "止观禅修理论基础 (Samatha-Vipassana Theoretical Foundations)"
+description: "止观禅修理论基础 (Samatha-Vipassana Theoretical Foundations)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Samatha Vipassana"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是止观禅修理论基础"
+  - "止观禅修理论基础的核心概念"
+  - "止观禅修理论基础的方法与实践"
+trigger_keywords: ["止观禅修理论基础", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 止观禅修理论基础 (Samatha-Vipassana Theoretical Foundations)
 
 > **止观 (Samatha-Vipassanā)** 是佛教禅修的两大核心方法论，止（奢摩他）培养心的安定与专注，观（毗钵舍那）开发如实知见的智慧。二者相辅相成，共同构成解脱之道的核心修行体系。

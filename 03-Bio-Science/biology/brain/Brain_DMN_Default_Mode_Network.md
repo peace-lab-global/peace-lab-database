@@ -1,3 +1,31 @@
+---
+
+title: "默认模式网络 (Default Mode Network, DMN)"
+description: "默认模式网络 (Default Mode Network, DMN)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是默认模式网络"
+  - "默认模式网络的核心概念"
+  - "默认模式网络的方法与实践"
+trigger_keywords: ["默认模式网络", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Search_Index.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # 默认模式网络 (Default Mode Network, DMN)
 
 ## 核心术语表 (Core Terminology)

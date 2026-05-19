@@ -1,3 +1,31 @@
+---
+
+title: "端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging"
+description: "端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
+tags: ["aging", "cardiovascular", "cortisol", "daoism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging"
+  - "端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging的核心概念"
+  - "端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "cardiovascular"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Neurobiological_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Features.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 端粒生物学与表观遗传学 | Telomere Biology & Epigenetics of Aging
 
 > **核心主题**: 衰老的两大分子时钟——端粒缩短与表观遗传漂移

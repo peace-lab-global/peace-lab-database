@@ -1,3 +1,31 @@
+---
+
+title: "威廉·福赛思专题 (William Forsythe Special Topic)"
+description: "威廉·福赛思专题 (William Forsythe Special Topic)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary > Forsythe"
+tags: ["ballet", "music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是威廉·福赛思专题"
+  - "威廉·福赛思专题的核心概念"
+  - "威廉·福赛思专题的方法与实践"
+trigger_keywords: ["威廉", "福赛思专题", "act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "exercise/neuroscience/sexuality"
+
+---
 # 威廉·福赛思专题 (William Forsythe Special Topic)
 
 > **威廉·福赛思 (William Forsythe, 1949-)**

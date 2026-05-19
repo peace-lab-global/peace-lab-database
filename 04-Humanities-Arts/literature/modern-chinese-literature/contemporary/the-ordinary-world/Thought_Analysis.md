@@ -1,3 +1,31 @@
+---
+
+title: "《平凡的世界》核心思想与观点分析"
+description: "《平凡的世界》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Ordinary World"
+tags: ["literature", "marriage", "trauma", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《平凡的世界》核心思想与观点分析"
+  - "《平凡的世界》核心思想与观点分析的核心概念"
+  - "《平凡的世界》核心思想与观点分析的方法与实践"
+trigger_keywords: ["death", "literature", "marriage", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "attachment/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "attachment/death/sexuality"
+
+---
 # 《平凡的世界》核心思想与观点分析
 
 ## 一、劳动的尊严

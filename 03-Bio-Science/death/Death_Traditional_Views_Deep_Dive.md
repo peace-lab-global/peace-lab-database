@@ -1,3 +1,31 @@
+---
+
+title: "Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)"
+description: "Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Deep Dive: Death Views Across Traditions"
+  - "Deep Dive: Death Views Across Traditions的核心概念"
+  - "Deep Dive: Death Views Across Traditions的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+
+---
 # Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)
 
 > *"不同文化对死亡的理解,不是对同一事实的不同描述,而是人类面对有限性时创造的不同意义世界。"*

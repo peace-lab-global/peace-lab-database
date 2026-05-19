@@ -1,3 +1,31 @@
+---
+
+title: "Western Classics of Death Philosophy (西方死亡哲学经典导读)"
+description: "Western Classics of Death Philosophy (西方死亡哲学经典导读)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["addiction", "aging", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Western Classics of Death Philosophy"
+  - "Western Classics of Death Philosophy的核心概念"
+  - "Western Classics of Death Philosophy的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
+    relation: "aging/anxiety/death"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/death"
+
+---
 # Western Classics of Death Philosophy (西方死亡哲学经典导读)
 
 > *"哲学就是学习死亡。"*

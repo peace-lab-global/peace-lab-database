@@ -1,3 +1,31 @@
+---
+
+title: "Assessment Scales"
+description: "Assessment Scales的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["depression", "intervention", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Assessment Scales"
+  - "Assessment Scales的核心概念"
+  - "Assessment Scales的方法与实践"
+trigger_keywords: ["act", "assessment", "body", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "depression/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "depression/emotion/meditation"
+
+---
 ## 16. 疗效评估与正念特异性量表
 
 > **说明**：评估不仅是为了"证明有效"，更是为了**精准调整干预方案**。抑郁患者常伴随"认知偏差"（低估进步、高估失败），客观量表可以提供矫正性反馈。本章提供抑郁通用量表与正念特异性量表的整合使用方案。

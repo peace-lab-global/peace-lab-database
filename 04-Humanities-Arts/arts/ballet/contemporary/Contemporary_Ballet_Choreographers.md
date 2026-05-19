@@ -1,3 +1,31 @@
+---
+
+title: "当代芭蕾重要编舞家专题 (Contemporary Ballet Choreographers)"
+description: "当代芭蕾重要编舞家专题 (Contemporary Ballet Choreographers)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary"
+tags: ["ballet", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是当代芭蕾重要编舞家专题"
+  - "当代芭蕾重要编舞家专题的核心概念"
+  - "当代芭蕾重要编舞家专题的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "README.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 当代芭蕾重要编舞家专题 (Contemporary Ballet Choreographers)
 
 > **当代芭蕾编舞 (Contemporary Ballet Choreography)**

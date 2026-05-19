@@ -1,3 +1,31 @@
+---
+
+title: "阿图尔·叔本华 (Arthur Schopenhauer)"
+description: "阿图尔·叔本华 (Arthur Schopenhauer)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century > Existential Precursors"
+tags: ["freud", "healing", "mindfulness", "music", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阿图尔·叔本华"
+  - "阿图尔·叔本华的核心概念"
+  - "阿图尔·叔本华的方法与实践"
+trigger_keywords: ["阿图尔", "叔本华", "art", "cognitive", "developmental", "freud"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+    relation: "meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/INDEX.md"
+    relation: "meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "meditation/sexuality"
+
+---
 # 阿图尔·叔本华 (Arthur Schopenhauer)
 
 ## 核心思想 (Core Ideas)

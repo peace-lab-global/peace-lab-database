@@ -1,3 +1,31 @@
+---
+
+title: "Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览)"
+description: "Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Intellectual Disability Psychosis"
+tags: ["anxiety", "brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Intellectual Disability with Psychosis Overview"
+  - "Intellectual Disability with Psychosis Overview的核心概念"
+  - "Intellectual Disability with Psychosis Overview的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览)
 
 > **精神发育迟滞伴发精神障碍 (Intellectual Disability with Psychosis / ID+P)**

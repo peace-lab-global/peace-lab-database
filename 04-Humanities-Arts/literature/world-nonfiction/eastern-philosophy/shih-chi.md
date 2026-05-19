@@ -1,3 +1,31 @@
+---
+
+title: "《史记》Shih-chi / Records of the Grand Historian"
+description: "《史记》Shih-chi / Records of the Grand Historian的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "trauma"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《史记》Shih-chi / Records of the Grand Historian"
+  - "《史记》Shih-chi / Records of the Grand Historian的核心概念"
+  - "《史记》Shih-chi / Records of the Grand Historian的方法与实践"
+trigger_keywords: ["death", "literature", "psychology", "trauma"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
+    relation: "death/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "death/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death/emotion"
+
+---
 # 《史记》Shih-chi / Records of the Grand Historian
 
 > 司马迁著，约公元前91年完成。中国第一部纪传体通史，记载了从黄帝到汉武帝的三千年历史。被鲁迅誉为"史家之绝唱，无韵之离骚"。司马迁在遭受宫刑后完成此书，他的个人创伤赋予了这部史书一种**前所未有的情感深度**。

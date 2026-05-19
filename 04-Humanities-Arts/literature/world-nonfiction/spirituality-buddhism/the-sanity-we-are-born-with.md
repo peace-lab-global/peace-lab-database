@@ -1,3 +1,31 @@
+---
+
+title: "《与生俱来的清明》The Sanity We Are Born With"
+description: "《与生俱来的清明》The Sanity We Are Born With的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《与生俱来的清明》The Sanity We Are Born With"
+  - "《与生俱来的清明》The Sanity We Are Born With的核心概念"
+  - "《与生俱来的清明》The Sanity We Are Born With的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/sexuality"
+
+---
 # 《与生俱来的清明》The Sanity We Are Born With
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，2005年出版（遗作整理）。创巴仁波切关于藏传佛教基本教法的文集，强调人类天生具有"清明"（sanity）——不是需要被培养的，而是需要被**认出**的。

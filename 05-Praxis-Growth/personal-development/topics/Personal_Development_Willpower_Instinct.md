@@ -1,3 +1,31 @@
+---
+
+title: "The Willpower Instinct 自控力"
+description: "The Willpower Instinct 自控力的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["addiction", "decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Willpower Instinct 自控力"
+  - "The Willpower Instinct 自控力的核心概念"
+  - "The Willpower Instinct 自控力的方法与实践"
+trigger_keywords: ["act", "addiction", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "README.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # The Willpower Instinct 自控力
 
 ## 作者背景 (Author Background)

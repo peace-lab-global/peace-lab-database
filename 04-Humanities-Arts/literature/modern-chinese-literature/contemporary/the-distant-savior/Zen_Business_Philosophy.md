@@ -1,3 +1,31 @@
+---
+
+title: "禅与商道 (Zen & Business Philosophy)"
+description: "禅与商道 (Zen & Business Philosophy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
+tags: ["daoism", "decision-making", "phobia", "productivity"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是禅与商道"
+  - "禅与商道的核心概念"
+  - "禅与商道的方法与实践"
+trigger_keywords: ["禅与商道", "behavioral", "cognitive", "daoism", "decision-making"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/daoism"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/daoism"
+
+---
 # 禅与商道 (Zen & Business Philosophy)
 
 > 丁元英式"杀富济贫"——当禅的洞察力遇上商业的竞技场

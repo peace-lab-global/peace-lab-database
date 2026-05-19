@@ -1,3 +1,31 @@
+---
+
+title: "Advanced Meditation (深度冥想：进阶指南)"
+description: "Advanced Meditation (深度冥想：进阶指南)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "cbt", "attachment", "mbsr"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Advanced Meditation"
+  - "Advanced Meditation的核心概念"
+  - "Advanced Meditation的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # Advanced Meditation (深度冥想：进阶指南)
 
 ### 禅修退修日记模板表

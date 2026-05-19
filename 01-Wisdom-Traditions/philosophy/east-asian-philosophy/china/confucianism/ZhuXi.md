@@ -1,3 +1,31 @@
+---
+
+title: "朱熹 (Zhu Xi)"
+description: "朱熹 (Zhu Xi)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
+tags: ["healing", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是朱熹"
+  - "朱熹的核心概念"
+  - "朱熹的方法与实践"
+trigger_keywords: ["朱熹", "cognitive", "developmental", "emotion", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "emotion/personality/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/13-MBBI-Curriculum.md"
+    relation: "emotion/personality/sexuality"
+
+---
 # 朱熹 (Zhu Xi)
 
 ## 核心思想 (Core Ideas)

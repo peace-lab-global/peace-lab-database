@@ -1,3 +1,31 @@
+---
+
+title: "特殊场景引导词脚本 | Special Scenarios Scripts"
+description: "特殊场景引导词脚本 | Special Scenarios Scripts的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Guided Scripts"
+tags: ["anxiety", "brain", "mbsr", "meditation", "mindfulness", "sleep"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是特殊场景引导词脚本 | Special Scenarios Scripts"
+  - "特殊场景引导词脚本 | Special Scenarios Scripts的核心概念"
+  - "特殊场景引导词脚本 | Special Scenarios Scripts的方法与实践"
+trigger_keywords: ["特殊场景引导词脚本", "act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 特殊场景引导词脚本 | Special Scenarios Scripts
 
 > **领域**：冥想引导词脚本库（Guided Meditation Scripts）

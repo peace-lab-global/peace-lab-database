@@ -1,3 +1,31 @@
+---
+
+title: "Generalized Anxiety Disorder Overview (广泛性焦虑障碍概览)"
+description: "Generalized Anxiety Disorder Overview (广泛性焦虑障碍概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Gad"
+tags: ["anxiety", "attachment", "sleep", "cbt", "act", "ocd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Generalized Anxiety Disorder Overview"
+  - "Generalized Anxiety Disorder Overview的核心概念"
+  - "Generalized Anxiety Disorder Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Generalized Anxiety Disorder Overview (广泛性焦虑障碍概览)
 
 > **广泛性焦虑障碍 (Generalized Anxiety Disorder / Anxietas Generalis)**

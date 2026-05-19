@@ -1,3 +1,31 @@
+---
+
+title: "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）"
+description: "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Ancient"
+tags: ["cbt", "gut", "healing", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是斯瓦特玛拉摩（Svatmarama / स्वात्माराम）"
+  - "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的核心概念"
+  - "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的方法与实践"
+trigger_keywords: ["behavioral", "body", "breathwork", "cbt"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
+    relation: "exercise/meditation/nutrition"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "exercise/meditation/nutrition"
+
+---
 # 斯瓦特玛拉摩（Svatmarama / स्वात्माराम）
 
 > 《Hatha Yoga Pradipika》的作者——中世纪 Hatha Yoga 的集大成者

@@ -1,3 +1,31 @@
+---
+
+title: "植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)"
+description: "植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["anxiety", "brain", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是植物神经紊乱与自主神经失调"
+  - "植物神经紊乱与自主神经失调的核心概念"
+  - "植物神经紊乱与自主神经失调的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)
 
 > **说明：** “植物神经紊乱”是中文常见俗称，专业上对应**自主神经系统功能失调 (Autonomic Nervous System Dysregulation)** 或 **自主神经功能紊乱 (Dysautonomia)**，常与焦虑、躯体化密切相关。

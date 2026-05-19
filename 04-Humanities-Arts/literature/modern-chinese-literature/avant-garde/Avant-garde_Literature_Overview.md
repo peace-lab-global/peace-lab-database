@@ -1,3 +1,31 @@
+---
+
+title: "先锋文学专业内容体系：实验性写作与后现代文学理论"
+description: "先锋文学专业内容体系：实验性写作与后现代文学理论的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Avant Garde"
+tags: ["habits", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是先锋文学专业内容体系：实验性写作与后现代文学理论"
+  - "先锋文学专业内容体系：实验性写作与后现代文学理论的核心概念"
+  - "先锋文学专业内容体系：实验性写作与后现代文学理论的方法与实践"
+trigger_keywords: ["act", "art", "crisis", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/exercise"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "death/exercise/productivity"
+
+---
 # 先锋文学专业内容体系：实验性写作与后现代文学理论
 
 ## 概述 (Overview)

@@ -1,3 +1,31 @@
+---
+
+title: "《淮南子》Huainanzi"
+description: "《淮南子》Huainanzi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《淮南子》Huainanzi"
+  - "《淮南子》Huainanzi的核心概念"
+  - "《淮南子》Huainanzi的方法与实践"
+trigger_keywords: ["daoism", "death", "literature", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Multi_Perspective_Reviews.md"
+    relation: "daoism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "daoism/death/exercise"
+
+---
 # 《淮南子》Huainanzi
 
 > 刘安主编，约公元前139年。西汉淮南王刘安召集门客编写的综合性著作，以道家思想为主，融合了儒家、法家、阴阳家等各家学说。被称为"汉代道家的百科全书"。

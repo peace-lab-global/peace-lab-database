@@ -1,3 +1,31 @@
+---
+
+title: "职场冥想与企业正念 Meditation & Mindfulness in the Workplace"
+description: "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Workplace"
+tags: ["brain", "decision-making", "leadership", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场冥想与企业正念 Meditation & Mindfulness in the Workplace"
+  - "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的核心概念"
+  - "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/immune-inflammation/Immune_System_Overview.md"
+    relation: "exercise/meditation/neuroscience"
+
+---
 # 职场冥想与企业正念 Meditation & Mindfulness in the Workplace
 
 > **目录定位**：本目录聚焦于冥想与正念（Mindfulness）在企业与职场环境中的应用，涵盖全球企业正念运动、商业价值分析、分层应用策略、行业适配方案、科学证据、实施挑战与实践指南。

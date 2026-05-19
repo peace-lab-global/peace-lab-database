@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)"
+description: "藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "grief", "phobia", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教中阴度亡仪轨"
+  - "藏传佛教中阴度亡仪轨的核心概念"
+  - "藏传佛教中阴度亡仪轨的方法与实践"
+trigger_keywords: ["藏传佛教中阴度亡仪轨", "body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)
 
 > **中阴救度 (Bardo Thodrol / Bar Do Thos Grol)**：藏传佛教最独特的度亡体系，以《中阴闻教得度》（西藏度亡经）为核心，指导亡者在中阴阶段认识自性光明，获得解脱或往生善道。

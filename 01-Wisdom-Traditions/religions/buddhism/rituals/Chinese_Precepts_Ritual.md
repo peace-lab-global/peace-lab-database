@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)"
+description: "汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传佛教三坛大戒仪轨"
+  - "汉传佛教三坛大戒仪轨的核心概念"
+  - "汉传佛教三坛大戒仪轨的方法与实践"
+trigger_keywords: ["汉传佛教三坛大戒仪轨", "buddhism", "sexuality", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+    relation: "buddhism/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+    relation: "buddhism/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "buddhism/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/nutrition/sexuality"
+  - path: "02-Mind-Psychology/relationships/cultural-perspective/Cross_Cultural_Analysis.md"
+    relation: "buddhism/nutrition/sexuality"
+
+---
 # 汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)
 
 > **三坛大戒 (Three Platforms Ordination / Santan Dajie)**：汉传佛教最隆重、最神圣的出家受戒仪式。依次传授沙弥戒、比丘戒、菩萨戒，标志一个俗人正式成为大乘佛教的出家人，具足戒、定、慧三学之基。

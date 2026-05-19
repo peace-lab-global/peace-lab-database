@@ -1,3 +1,31 @@
+---
+
+title: "Writing/Journaling (书写、日记与叙事)"
+description: "Writing/Journaling (书写、日记与叙事)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "brain", "depression", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Writing/Journaling"
+  - "Writing/Journaling的核心概念"
+  - "Writing/Journaling的方法与实践"
+trigger_keywords: ["Writing", "Journaling", "adolescent", "anxiety", "assessment", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "anxiety/communication/death"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+
+---
 # Writing/Journaling (书写、日记与叙事)
 
 ### Expressive Writing Protocols (表达性书写流程表)

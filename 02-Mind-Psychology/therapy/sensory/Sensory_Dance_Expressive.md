@@ -1,3 +1,31 @@
+---
+
+title: "Expressive Dance (表达性舞动治疗)"
+description: "Expressive Dance (表达性舞动治疗)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Expressive Dance"
+  - "Expressive Dance的核心概念"
+  - "Expressive Dance的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Expressive Dance (表达性舞动治疗)
 
 ### Laban/Bartenieff Fundamentals (LBF) & Psychological Archetypes (拉班/巴特妮芙动作分析与心理原型表)

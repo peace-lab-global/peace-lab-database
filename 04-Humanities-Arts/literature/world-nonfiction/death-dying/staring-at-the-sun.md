@@ -1,3 +1,31 @@
+---
+
+title: "《直视骄阳》Staring at the Sun"
+description: "《直视骄阳》Staring at the Sun的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《直视骄阳》Staring at the Sun"
+  - "《直视骄阳》Staring at the Sun的核心概念"
+  - "《直视骄阳》Staring at the Sun的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《直视骄阳》Staring at the Sun
 
 > 欧文·亚隆（Irvin D. Yalom）著，2008年出版。存在主义心理治疗大师，以75岁的人生阅历和50年的临床经验，直面心理治疗中最被回避的主题：死亡焦虑。

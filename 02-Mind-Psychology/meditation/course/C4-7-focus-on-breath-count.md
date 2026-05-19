@@ -1,3 +1,31 @@
+---
+
+title: "C4-7 专注数息"
+description: "C4-7 专注数息的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-7 专注数息"
+  - "C4-7 专注数息的核心概念"
+  - "C4-7 专注数息的方法与实践"
+trigger_keywords: ["C4-7 专注数息", "body", "breathwork", "meditation", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "meditation/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "meditation/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "meditation/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "meditation/productivity/sexuality"
+
+---
 # C4-7 专注数息
 
 📑 智能总结

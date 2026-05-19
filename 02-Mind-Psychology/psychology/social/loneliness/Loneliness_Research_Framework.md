@@ -1,3 +1,31 @@
+---
+
+title: "孤独研究框架与学术综述 (Loneliness Research Framework & Academic Review)"
+description: "孤独研究框架与学术综述 (Loneliness Research Framework & Academic Review)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独研究框架与学术综述"
+  - "孤独研究框架与学术综述的核心概念"
+  - "孤独研究框架与学术综述的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独研究框架与学术综述 (Loneliness Research Framework & Academic Review)
 
 ## 📚 目录导航 (Navigation Menu)

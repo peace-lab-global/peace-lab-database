@@ -1,3 +1,32 @@
+---
+
+title: "masturbation-psychology | 自慰心理学：心理学理论视角"
+description: "masturbation-psychology | 自慰心理学：心理学理论视角的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Masturbation Psychology"
+tags: ["心理学", "特殊专题", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是masturbation-psychology | 自慰心理学：心理学理论视角"
+  - "masturbation-psychology | 自慰心理学：心理学理论视角的核心概念"
+  - "masturbation-psychology | 自慰心理学：心理学理论视角的方法与实践"
+  - "masturbation-psychology | 自慰心理学：心理学理论视角的自助方法"
+trigger_keywords: ["behavioral", "clinical", "psychology", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Mencius.md"
+    relation: "emotion/sexuality"
+
+---
 # masturbation-psychology | 自慰心理学：心理学理论视角
 
 > 从心理学理论基础、文化历史变迁与临床心理学维度，系统阐述自慰行为的心理学理解框架。涵盖精神分析、行为主义、人本主义、进化心理学与女性主义等多元理论视角。

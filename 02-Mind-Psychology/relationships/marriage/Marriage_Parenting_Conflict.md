@@ -1,3 +1,31 @@
+---
+
+title: "育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)"
+description: "育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是育儿冲突与共同养育"
+  - "育儿冲突与共同养育的核心概念"
+  - "育儿冲突与共同养育的方法与实践"
+trigger_keywords: ["育儿冲突与共同养育", "act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)
 
 成为父母是人生中最深刻的转变之一，但这一转变对婚姻关系的冲击往往被严重低估。Gottman的纵向研究发现，在第一个孩子出生后，约67%的夫妻经历了婚姻满意度的显著下降（Gottman & Silver, 2000）。这一现象并非偶然——新生命的到来彻底重组了夫妻关系的时间结构、情感资源分配和角色认同。育儿冲突（parenting conflict）的本质远不止于"孩子该怎么养"的技术分歧，它触及了每位父母最深层的价值观、原生家庭烙印和自我认同。当一位母亲坚持"哭声免疫法"（cry-it-out method），而父亲认为这是对婴儿的情感忽视时，表面上是育儿方法的争论，深层却是两个人关于爱、安全感和"什么是好父母"的根本信念在碰撞。

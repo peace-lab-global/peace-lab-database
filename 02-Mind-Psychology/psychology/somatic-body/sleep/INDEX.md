@@ -1,3 +1,31 @@
+---
+
+title: "sleep | Index"
+description: "sleep | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
+tags: ["cbt", "sleep", "treatment", "心理学", "躯体与情绪", "insomnia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是sleep | Index"
+  - "sleep | Index的核心概念"
+  - "sleep | Index的方法与实践"
+trigger_keywords: ["sleep", "Index", "assessment", "cbt", "clinical"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/productivity/sleep"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "emotion/productivity/sleep"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/productivity/sleep"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "emotion/productivity/sleep"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/productivity/sleep"
+
+---
 # sleep | Index
 
 ## 内容索引 | Contents

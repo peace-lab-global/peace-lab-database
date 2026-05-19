@@ -1,3 +1,31 @@
+---
+
+title: "观世音菩萨完整修持仪轨 (Avalokitesvara Bodhisattva Sadhana)"
+description: "观世音菩萨完整修持仪轨 (Avalokitesvara Bodhisattva Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是观世音菩萨完整修持仪轨"
+  - "观世音菩萨完整修持仪轨的核心概念"
+  - "观世音菩萨完整修持仪轨的方法与实践"
+trigger_keywords: ["act", "buddhism", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality/therapy"
+
+---
 # 观世音菩萨完整修持仪轨 (Avalokitesvara Bodhisattva Sadhana)
 
 > **观世音菩萨 (Avalokitesvara / Guanyin / Chenrezig)**：大慈大悲的化身，汉传佛教最受欢迎的菩萨。此仪轨涵盖大悲咒修持、六字大明咒、观音法门、千手观音观想的完整体系。

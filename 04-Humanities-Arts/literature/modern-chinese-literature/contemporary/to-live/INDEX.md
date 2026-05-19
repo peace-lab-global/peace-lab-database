@@ -1,3 +1,21 @@
+---
+
+title: "To Live | 活着"
+description: "To Live | 活着的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是To Live | 活着"
+  - "To Live | 活着的核心概念"
+  - "To Live | 活着的方法与实践"
+trigger_keywords: ["To Live", "活着", "cinema", "philosophy", "文学"]
+cross_refs: []
+
+---
 # To Live | 活着
 
 > 余华长篇小说，1993年出版。曾被张艺谋改编为同名电影（1994），由葛优、巩俐主演。

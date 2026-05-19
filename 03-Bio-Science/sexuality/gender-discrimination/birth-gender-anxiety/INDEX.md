@@ -1,3 +1,32 @@
+---
+
+title: "birth-gender-anxiety | 生育性别焦虑专业内容体系"
+description: "birth-gender-anxiety | 生育性别焦虑专业内容体系的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["attachment", "cbt", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是birth-gender-anxiety | 生育性别焦虑专业内容体系"
+  - "birth-gender-anxiety | 生育性别焦虑专业内容体系的核心概念"
+  - "birth-gender-anxiety | 生育性别焦虑专业内容体系的方法与实践"
+  - "birth-gender-anxiety | 生育性别焦虑专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/daoism/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # birth-gender-anxiety | 生育性别焦虑专业内容体系
 
 > 从中国传统文化视角系统分析"生儿子生女儿"的生育性别焦虑，涵盖理论框架、临床实践与社会干预全维度。

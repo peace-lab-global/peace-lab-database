@@ -1,3 +1,31 @@
+---
+
+title: "《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨"
+description: "《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨"
+  - "《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨的核心概念"
+  - "《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《黑客帝国》专业影评：赛博朋克哲学的视觉革命与虚拟现实思辨
 
 ## 摘要 (Abstract)

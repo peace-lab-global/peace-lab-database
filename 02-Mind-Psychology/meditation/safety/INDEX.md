@@ -1,3 +1,31 @@
+---
+
+title: "safety | 冥想安全与不良反应 Index"
+description: "safety | 冥想安全与不良反应 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Safety"
+tags: ["intervention", "mbsr", "meditation", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是safety | 冥想安全与不良反应 Index"
+  - "safety | 冥想安全与不良反应 Index的核心概念"
+  - "safety | 冥想安全与不良反应 Index的方法与实践"
+trigger_keywords: ["safety", "act", "crisis", "intervention", "mbsr"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "exercise/meditation/therapy"
+
+---
 # safety | 冥想安全与不良反应 Index
 
 ## 内容索引 | Contents

@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学循证实践指南 (Vocational Psychology Evidence-Based Practice Guide)"
+description: "职业心理学循证实践指南 (Vocational Psychology Evidence-Based Practice Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学循证实践指南"
+  - "职业心理学循证实践指南的核心概念"
+  - "职业心理学循证实践指南的方法与实践"
+  - "职业心理学循证实践指南的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # 职业心理学循证实践指南 (Vocational Psychology Evidence-Based Practice Guide)
 
 > 📘 **文档导航**: 本指南系统整合职业心理学领域的最新循证研究成果、实证支持的干预技术和质量评估标准。相关文档：

@@ -1,3 +1,32 @@
+---
+
+title: "内观疗法知识库 | Naikan Therapy Knowledge Base"
+description: "内观疗法知识库 | Naikan Therapy Knowledge Base的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Naikan Meditation"
+tags: ["addiction", "therapy", "treatment", "vipassana", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是内观疗法知识库 | Naikan Therapy Knowledge Base"
+  - "内观疗法知识库 | Naikan Therapy Knowledge Base的核心概念"
+  - "内观疗法知识库 | Naikan Therapy Knowledge Base的方法与实践"
+  - "内观疗法知识库 | Naikan Therapy Knowledge Base的循证证据"
+trigger_keywords: ["内观疗法知识库", "addiction", "clinical", "psychology", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "meditation/sexuality/therapy"
+
+---
 # 内观疗法知识库 | Naikan Therapy Knowledge Base
 
 > **最后更新**：2026-05

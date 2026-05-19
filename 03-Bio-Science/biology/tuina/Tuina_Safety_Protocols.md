@@ -1,3 +1,31 @@
+---
+
+title: "Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)"
+description: "Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Tuina"
+tags: ["aging", "brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tuina Safety Protocols & Contraindications"
+  - "Tuina Safety Protocols & Contraindications的核心概念"
+  - "Tuina Safety Protocols & Contraindications的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)
 
 > ⚠️ **安全概览**: 本文档系统阐述中医推拿治疗过程中的安全规范、禁忌症清单、风险评估体系和应急处理预案。通过建立健全的安全管理体系，确保推拿治疗的安全性、有效性和专业性。

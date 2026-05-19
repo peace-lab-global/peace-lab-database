@@ -1,3 +1,31 @@
+---
+
+title: "诊断技术 | Diagnostic Technology"
+description: "诊断技术 | Diagnostic Technology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "intervention", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是诊断技术 | Diagnostic Technology"
+  - "诊断技术 | Diagnostic Technology的核心概念"
+  - "诊断技术 | Diagnostic Technology的方法与实践"
+trigger_keywords: ["诊断技术", "brain", "clinical", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
+    relation: "aging/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "aging/communication/neuroscience"
+
+---
 # 诊断技术 | Diagnostic Technology
 
 > **诊断技术**（Diagnostic Technology）是现代医学的基石——从医学影像（Medical Imaging）到基因检测（Genetic Testing），从液体活检（Liquid Biopsy）到人工智能辅助诊断（AI-Assisted Diagnosis）。精准、及时的诊断是一切有效治疗的起点。本文件精选TED平台上关于诊断技术的代表性演讲，帮助读者理解诊断技术的创新前沿和临床应用。

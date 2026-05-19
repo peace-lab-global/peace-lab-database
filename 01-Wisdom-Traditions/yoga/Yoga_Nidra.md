@@ -1,3 +1,31 @@
+---
+
+title: "Yoga Nidra (瑜伽休息术)"
+description: "Yoga Nidra (瑜伽休息术)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Yoga Nidra"
+  - "Yoga Nidra的核心概念"
+  - "Yoga Nidra的方法与实践"
+trigger_keywords: ["Yoga Nidra", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # Yoga Nidra (瑜伽休息术)
 
 ## 核心术语表 (Core Terminology)

@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)"
+description: "职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Research"
+tags: ["anxiety", "brain", "cortisol", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学研究方法与数据分析体系"
+  - "职业心理学研究方法与数据分析体系的核心概念"
+  - "职业心理学研究方法与数据分析体系的方法与实践"
+  - "职业心理学研究方法与数据分析体系的自助方法"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
+    relation: "anxiety/neuroscience/sexuality"
+
+---
 # 职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)
 
 > 📘 **文档导航**: 本指南系统阐述职业心理学研究的方法论体系、数据分析技术和质量控制标准。相关文档：

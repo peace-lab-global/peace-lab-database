@@ -1,3 +1,31 @@
+---
+
+title: "全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）"
+description: "全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Career Business"
+tags: ["habits", "mbct", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）"
+  - "全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）的核心概念"
+  - "全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）的方法与实践"
+trigger_keywords: ["act", "behavioral", "buddhism", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）
 
 > 世界各地的冥想灯塔——从传统寺院到现代正念中心

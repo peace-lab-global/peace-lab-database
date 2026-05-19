@@ -1,3 +1,31 @@
+---
+
+title: "特殊教育 | Special Education"
+description: "特殊教育 | Special Education的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是特殊教育 | Special Education"
+  - "特殊教育 | Special Education的核心概念"
+  - "特殊教育 | Special Education的方法与实践"
+trigger_keywords: ["特殊教育", "act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 特殊教育 | Special Education
 
 > **特殊教育**（Special Education）致力于为有学习差异、身体障碍和发展障碍的学习者提供包容、有效的教育支持。TED平台上关于特殊教育的演讲挑战了"正常"与"缺陷"的传统叙事，展示了神经多样性的价值，并推动教育系统向真正包容所有人的方向发展。

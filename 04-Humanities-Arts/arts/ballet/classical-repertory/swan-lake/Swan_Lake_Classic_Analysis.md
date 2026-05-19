@@ -1,3 +1,31 @@
+---
+
+title: "《天鹅湖》经典剧目分析 (Swan Lake Classic Analysis)"
+description: "《天鹅湖》经典剧目分析 (Swan Lake Classic Analysis)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Swan Lake"
+tags: ["ballet", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《天鹅湖》经典剧目分析"
+  - "《天鹅湖》经典剧目分析的核心概念"
+  - "《天鹅湖》经典剧目分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/cardiovascular"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # 《天鹅湖》经典剧目分析 (Swan Lake Classic Analysis)
 
 > **《天鹅湖》(Swan Lake, Op.20)**

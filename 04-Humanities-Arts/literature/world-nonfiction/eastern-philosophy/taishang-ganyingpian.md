@@ -1,3 +1,31 @@
+---
+
+title: "《太上感应篇》Taishang Ganying Pian"
+description: "《太上感应篇》Taishang Ganying Pian的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "personality", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《太上感应篇》Taishang Ganying Pian"
+  - "《太上感应篇》Taishang Ganying Pian的核心概念"
+  - "《太上感应篇》Taishang Ganying Pian的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # 《太上感应篇》Taishang Ganying Pian
 
 > 托名太上老君（老子神化后的称谓）所作，实际成书于北宋时期（约12世纪），是中国历史上流传最广、影响最大的道教善书之一。全文约1200字，以"祸福无门，惟人自召；善恶之报，如影随形"开篇，列举了168条善行和162条恶行，阐述因果报应的道理。自宋代以来，此书被历代帝王推崇，在民间广泛流传，与《文昌帝君阴骘文》《关圣帝君觉世真经》并称"三圣经"。

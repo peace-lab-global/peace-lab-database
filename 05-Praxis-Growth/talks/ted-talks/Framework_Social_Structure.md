@@ -1,3 +1,31 @@
+---
+
+title: "社会结构 | Social Structure Framework"
+description: "社会结构 | Social Structure Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社会结构 | Social Structure Framework"
+  - "社会结构 | Social Structure Framework的核心概念"
+  - "社会结构 | Social Structure Framework的方法与实践"
+trigger_keywords: ["社会结构", "act", "adolescent", "behavioral", "child"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "body_image/communication/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "body_image/communication/exercise"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "body_image/communication/exercise"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "body_image/communication/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 社会结构 | Social Structure Framework
 
 > **社会结构**（Social Structure）指的是社会中持久的制度、角色、规范和阶层关系模式，它们构成了个人和群体生活的"骨骼"。从社会阶层（Social Class）到权力结构，从家庭制度到组织形态，社会结构决定了资源的分配、机会的流动和权力的运作。本文件精选TED平台上关于社会结构的代表性演讲，帮助读者理解看不见却无处不在的社会结构力量。

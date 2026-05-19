@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽大师人物档案 | Yoga Masters & Leaders"
+description: "瑜伽大师人物档案 | Yoga Masters & Leaders的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters"
+tags: ["philosophy", "spirituality", "trauma", "treatment", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽大师人物档案 | Yoga Masters & Leaders"
+  - "瑜伽大师人物档案 | Yoga Masters & Leaders的核心概念"
+  - "瑜伽大师人物档案 | Yoga Masters & Leaders的方法与实践"
+trigger_keywords: ["瑜伽大师人物档案", "act", "developmental", "philosophy", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/sexuality/therapy"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
+    relation: "communication/sexuality/therapy"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/sexuality/therapy"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/sexuality/therapy"
+  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # 瑜伽大师人物档案 | Yoga Masters & Leaders
 
 > 从古典瑜伽奠基者到当代行业领袖，系统记录对瑜伽传统产生深远影响的关键人物。每篇档案涵盖生平、核心理念、教学方法、传承谱系、成就、影响与争议。

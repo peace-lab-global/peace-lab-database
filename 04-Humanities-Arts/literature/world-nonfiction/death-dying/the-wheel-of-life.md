@@ -1,3 +1,31 @@
+---
+
+title: "《生命之轮》The Wheel of Life"
+description: "《生命之轮》The Wheel of Life的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["depression", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《生命之轮》The Wheel of Life"
+  - "《生命之轮》The Wheel of Life的核心概念"
+  - "《生命之轮》The Wheel of Life的方法与实践"
+trigger_keywords: ["communication", "death", "depression", "neuroscience"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/depression"
+
+---
 # 《生命之轮》The Wheel of Life
 
 > 伊丽莎白·库伯勒-罗斯（Elisabeth Kübler-Ross）著，1997年出版。临终五阶段理论创始人晚年的自传与灵性探索，记录了她从科学实证到超自然体验的旅程，包括濒死体验研究、灵媒沟通和对来世的确信。

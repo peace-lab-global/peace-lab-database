@@ -1,3 +1,31 @@
+---
+
+title: "Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系"
+description: "Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Visualization"
+tags: ["anxiety", "attachment", "brain", "mindfulness", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系"
+  - "Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系的核心概念"
+  - "Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系的方法与实践"
+trigger_keywords: ["从孤独", "独处到完整知识体系", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Peace Lab 跨模块连接 | 从孤独/独处到完整知识体系
 
 > **定位**: 将孤独与独处专题与 Peace Lab 其他模块建立概念桥接

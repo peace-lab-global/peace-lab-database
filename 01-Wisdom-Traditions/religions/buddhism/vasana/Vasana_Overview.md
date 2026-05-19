@@ -1,3 +1,31 @@
+---
+
+title: "意念熏习概览 (Vāsanā Overview)"
+description: "意念熏习概览 (Vāsanā Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
+tags: ["buddhism", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是意念熏习概览"
+  - "意念熏习概览的核心概念"
+  - "意念熏习概览的方法与实践"
+trigger_keywords: ["意念熏习概览", "act", "behavioral", "brain", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "buddhism/neuroscience/productivity"
+
+---
 # 意念熏习概览 (Vāsanā Overview)
 
 > **意念熏习**：唯识学核心概念，指心识活动在深层意识中留下的潜在印象与习气，是理解心念转化的理论基石。

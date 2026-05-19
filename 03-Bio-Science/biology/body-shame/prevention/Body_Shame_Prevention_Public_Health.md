@@ -6,6 +6,17 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/exercise"
 ---
 
 # 身体羞耻障碍预防与公共卫生策略

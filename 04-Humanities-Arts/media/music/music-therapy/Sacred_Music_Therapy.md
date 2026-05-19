@@ -1,3 +1,31 @@
+---
+
+title: "宗教音乐疗愈 (Sacred Music Therapy)"
+description: "宗教音乐疗愈 (Sacred Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是宗教音乐疗愈"
+  - "宗教音乐疗愈的核心概念"
+  - "宗教音乐疗愈的方法与实践"
+trigger_keywords: ["宗教音乐疗愈", "addiction", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 宗教音乐疗愈 (Sacred Music Therapy)
 
 > **宗教音乐 (Sacred Music)**：服务于灵性目的的音乐形式，跨越所有文化与信仰传统。

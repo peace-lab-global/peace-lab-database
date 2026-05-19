@@ -1,3 +1,31 @@
+---
+
+title: "《反叛者》The Rebel"
+description: "《反叛者》The Rebel的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["social", "therapy", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《反叛者》The Rebel"
+  - "《反叛者》The Rebel的核心概念"
+  - "《反叛者》The Rebel的方法与实践"
+trigger_keywords: ["death", "philosophy", "sexuality", "social"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality/therapy"
+
+---
 # 《反叛者》The Rebel
 
 > 阿尔贝·加缪（Albert Camus）著，1951年出版。加缪在《西西弗神话》之后的最重要哲学著作，系统阐述了"反叛"（Rebellion）的概念——不是"革命"，而是**对不公正的永恒说"不"**。同时，加缪批判了"历史的反叛"如何变成了"暴政"（从法国大革命到苏联的极权主义）。

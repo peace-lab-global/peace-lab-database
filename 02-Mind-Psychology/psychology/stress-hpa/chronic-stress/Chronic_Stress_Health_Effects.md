@@ -1,3 +1,31 @@
+---
+
+title: "慢性压力健康影响 (Chronic Stress Health Effects)"
+description: "慢性压力健康影响 (Chronic Stress Health Effects)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是慢性压力健康影响"
+  - "慢性压力健康影响的核心概念"
+  - "慢性压力健康影响的方法与实践"
+trigger_keywords: ["慢性压力健康影响", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 慢性压力健康影响 (Chronic Stress Health Effects)
 
 > **导航**: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力干预](Chronic_Stress_Interventions.md)

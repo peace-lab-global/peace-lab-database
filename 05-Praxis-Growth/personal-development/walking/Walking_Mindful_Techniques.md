@@ -1,3 +1,31 @@
+---
+
+title: "步行冥想核心技法与进阶路径 (Mindful Walking Techniques & Progression Pathway)"
+description: "步行冥想核心技法与进阶路径 (Mindful Walking Techniques & Progression Pathway)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Walking"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是步行冥想核心技法与进阶路径"
+  - "步行冥想核心技法与进阶路径的核心概念"
+  - "步行冥想核心技法与进阶路径的方法与实践"
+trigger_keywords: ["act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 步行冥想核心技法与进阶路径 (Mindful Walking Techniques & Progression Pathway)
 
 > 步行冥想 (Mindful Walking / Walking Meditation) 是将正念觉察整合到行走运动中的系统性实践。本文档涵盖东方行禅传统与西方循证正念体系的七大核心技法，以及基于神经可塑性原理的五阶段进阶路径。

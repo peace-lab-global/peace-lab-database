@@ -1,3 +1,31 @@
+---
+
+title: "《大脑的情绪生活》The Emotional Life of Your Brain"
+description: "《大脑的情绪生活》The Emotional Life of Your Brain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《大脑的情绪生活》The Emotional Life of Your Brain"
+  - "《大脑的情绪生活》The Emotional Life of Your Brain的核心概念"
+  - "《大脑的情绪生活》The Emotional Life of Your Brain的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 《大脑的情绪生活》The Emotional Life of Your Brain
 
 **作者**：理查德·戴维森 (Richard J. Davidson) & 沙伦·贝格利 (Sharon Begley)  

@@ -1,3 +1,31 @@
+---
+
+title: "婚姻与人生的幻灭"
+description: "婚姻与人生的幻灭的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
+tags: ["marriage", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是婚姻与人生的幻灭"
+  - "婚姻与人生的幻灭的核心概念"
+  - "婚姻与人生的幻灭的方法与实践"
+trigger_keywords: ["婚姻与人生的幻灭", "marriage", "sexuality", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+
+---
 # 婚姻与人生的幻灭
 
 ## 方鸿渐的婚姻不是"坏婚姻"——它是"正常婚姻"

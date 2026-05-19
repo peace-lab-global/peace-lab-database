@@ -1,3 +1,31 @@
+---
+
+title: "步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)"
+description: "步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Walking"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是步行临床方案、疗效与剂量指南"
+  - "步行临床方案、疗效与剂量指南的核心概念"
+  - "步行临床方案、疗效与剂量指南的方法与实践"
+trigger_keywords: ["步行临床方案", "疗效与剂量指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)
 
 > 步行作为"第一处方"，对多种心理健康问题具有循证支持的干预效果。本文档系统呈现步行促进心理健康的六大临床方案、身心灵整合健康效应、循证剂量指南以及孤独感整合干预方案。

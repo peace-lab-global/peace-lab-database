@@ -1,3 +1,31 @@
+---
+
+title: "父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)"
+description: "父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Authority Complex"
+tags: ["attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是父母情结与俄狄浦斯发展"
+  - "父母情结与俄狄浦斯发展的核心概念"
+  - "父母情结与俄狄浦斯发展的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)
 
 > 📘 **文档导航**: 本专题深入探讨恋父恋母情结的心理机制、发展过程和临床意义。相关主题请参考：

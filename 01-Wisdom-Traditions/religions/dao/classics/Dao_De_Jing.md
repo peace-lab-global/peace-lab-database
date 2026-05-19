@@ -1,3 +1,31 @@
+---
+
+title: "道德经"
+description: "道德经的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家 > Classics"
+tags: ["daoism", "philosophy", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是道德经"
+  - "道德经的核心概念"
+  - "道德经的方法与实践"
+trigger_keywords: ["道德经", "daoism", "philosophy", "宗教与灵性", "道家"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "daoism/sexuality"
+
+---
 # 道德经
 
 ## 基本信息

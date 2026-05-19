@@ -1,3 +1,31 @@
+---
+
+title: "Influence 影响力"
+description: "Influence 影响力的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["个人发展"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Influence 影响力"
+  - "Influence 影响力的核心概念"
+  - "Influence 影响力的方法与实践"
+trigger_keywords: ["act", "behavioral", "cognitive", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # Influence 影响力
 
 ## 作者背景 (Author Background)

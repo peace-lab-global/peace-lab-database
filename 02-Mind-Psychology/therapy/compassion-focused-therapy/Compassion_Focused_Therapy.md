@@ -1,3 +1,32 @@
+---
+
+title: "慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)"
+description: "慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Compassion Focused Therapy"
+tags: ["addiction", "anxiety", "attachment", "cbt", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是慈悲聚焦疗法"
+  - "慈悲聚焦疗法的核心概念"
+  - "慈悲聚焦疗法的方法与实践"
+  - "慈悲聚焦疗法的循证证据"
+trigger_keywords: ["慈悲聚焦疗法", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 慈悲聚焦疗法 (Compassion-Focused Therapy, CFT)
 
 ## 核心术语表 (Core Terminology)

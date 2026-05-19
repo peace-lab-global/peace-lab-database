@@ -1,3 +1,31 @@
+---
+
+title: "Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)"
+description: "Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Sexually Transmitted Diseases Clinical Features"
+  - "Sexually Transmitted Diseases Clinical Features的核心概念"
+  - "Sexually Transmitted Diseases Clinical Features的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "cardiovascular/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "cardiovascular/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "cardiovascular/emotion/neuroscience"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "cardiovascular/emotion/neuroscience"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "cardiovascular/emotion/neuroscience"
+
+---
 # Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)
 
 > 🏥 **临床指南**: 本文档详细描述各类性传播疾病的临床表现、症状体征、并发症及其鉴别要点。建议结合[诊断评估](STD_Diagnosis_Assessment.md)和[治疗管理](STD_Treatment_Management.md)文档进行系统学习。

@@ -1,3 +1,32 @@
+---
+
+title: "性焦虑的跨文化比较研究"
+description: "性焦虑的跨文化比较研究的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["sexuality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性焦虑的跨文化比较研究"
+  - "性焦虑的跨文化比较研究的核心概念"
+  - "性焦虑的跨文化比较研究的方法与实践"
+  - "性焦虑的跨文化比较研究的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 性焦虑的跨文化比较研究
 
 ## 理论分析框架

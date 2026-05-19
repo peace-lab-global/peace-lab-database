@@ -1,3 +1,31 @@
+---
+
+title: "莫扎特《G大调弦乐四重奏"春天"》综合指南"
+description: "莫扎特《G大调弦乐四重奏"春天"》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart String Quartets > Kv387"
+tags: ["depression", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是莫扎特《G大调弦乐四重奏"春天"》综合指南"
+  - "莫扎特《G大调弦乐四重奏"春天"》综合指南的核心概念"
+  - "莫扎特《G大调弦乐四重奏"春天"》综合指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 莫扎特《G大调弦乐四重奏"春天"》综合指南
 
 ## 作品基本信息

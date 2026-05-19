@@ -1,3 +1,31 @@
+---
+
+title: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)"
+description: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "attachment", "death"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Assessment & Measures in Death Studies"
+  - "Assessment & Measures in Death Studies的核心概念"
+  - "Assessment & Measures in Death Studies的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)
 
 > *"如果你不能测量它，你就不能管理它。"*

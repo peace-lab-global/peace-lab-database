@@ -1,3 +1,31 @@
+---
+
+title: "dao | Index"
+description: "dao | Index的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["daoism", "宗教与灵性", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是dao | Index"
+  - "dao | Index的核心概念"
+  - "dao | Index的方法与实践"
+trigger_keywords: ["dao", "Index", "daoism", "宗教与灵性", "道家"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "daoism/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "daoism/sexuality"
+
+---
 # dao | Index
 
 ## 经典原典 | Classics

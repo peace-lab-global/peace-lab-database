@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教四大宗派详解 (Tibetan Buddhist Schools Detailed)"
+description: "藏传佛教四大宗派详解 (Tibetan Buddhist Schools Detailed)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "dzogchen", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是藏传佛教四大宗派详解"
+  - "藏传佛教四大宗派详解的核心概念"
+  - "藏传佛教四大宗派详解的方法与实践"
+trigger_keywords: ["藏传佛教四大宗派详解", "act", "body", "buddhism", "cognitive"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Survival_Philosophy.md"
+    relation: "buddhism/cardiovascular/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/cardiovascular/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
+    relation: "buddhism/cardiovascular/death"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "buddhism/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "buddhism/cardiovascular/exercise"
+
+---
 # 藏传佛教四大宗派详解 (Tibetan Buddhist Schools Detailed)
 
 > **藏传佛教四大宗派 (Four Major Schools of Tibetan Buddhism)**：宁玛派、噶举派、萨迦派、格鲁派，是藏传佛教历史上形成的四大主要传承体系，各具独特的教法、修持方法与传承脉络。

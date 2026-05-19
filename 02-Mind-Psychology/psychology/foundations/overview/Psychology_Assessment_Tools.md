@@ -1,3 +1,31 @@
+---
+
+title: "Psychology Assessment Tools (心理测评工具与量表详表)"
+description: "Psychology Assessment Tools (心理测评工具与量表详表)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["addiction", "anxiety", "attachment", "depression", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Psychology Assessment Tools"
+  - "Psychology Assessment Tools的核心概念"
+  - "Psychology Assessment Tools的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/sexuality"
+
+---
 # Psychology Assessment Tools (心理测评工具与量表详表)
 
 ## 核心术语表

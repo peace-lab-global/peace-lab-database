@@ -1,3 +1,31 @@
+---
+
+title: "孤独经济专题 | The Loneliness Economy"
+description: "孤独经济专题 | The Loneliness Economy的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Content Media"
+tags: ["decision-making", "loneliness", "marriage", "personality", "positive-psychology", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独经济专题 | The Loneliness Economy"
+  - "孤独经济专题 | The Loneliness Economy的核心概念"
+  - "孤独经济专题 | The Loneliness Economy的方法与实践"
+trigger_keywords: ["孤独经济专题", "act", "crisis", "decision-making", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/emotion/personality"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "attachment/emotion/personality"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/aviation/Aviation_Professional_Attraction.md"
+    relation: "attachment/emotion/personality"
+  - path: "GLOSSARY.md"
+    relation: "attachment/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/personality/therapy"
+
+---
 # 孤独经济专题 | The Loneliness Economy
 
 > **自媒体定位**: 商业洞察 × 社会情绪 × 数据叙事  

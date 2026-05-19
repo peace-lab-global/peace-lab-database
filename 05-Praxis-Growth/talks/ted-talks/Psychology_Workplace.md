@@ -1,3 +1,32 @@
+---
+
+title: "职场心理学 | Workplace Psychology"
+description: "职场心理学 | Workplace Psychology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场心理学 | Workplace Psychology"
+  - "职场心理学 | Workplace Psychology的核心概念"
+  - "职场心理学 | Workplace Psychology的方法与实践"
+  - "职场心理学 | Workplace Psychology的自助方法"
+trigger_keywords: ["职场心理学", "act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 职场心理学 | Workplace Psychology
 
 > **职场心理学**（Workplace Psychology）研究工作环境中的心理过程与行为模式，涵盖领导力、团队动力学、工作动机、职业倦怠（Burnout）以及组织文化对个体心理的影响。本文件精选TED平台上关于职场心理学的代表性演讲，帮助管理者和职场人士理解工作中的心理机制，打造更健康、更高效的工作环境。

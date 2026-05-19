@@ -1,3 +1,31 @@
+---
+
+title: "Stretch Clinical Applications (拉伸临床应用)"
+description: "Stretch Clinical Applications (拉伸临床应用)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Stretch"
+tags: ["aging", "cbt", "sleep", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stretch Clinical Applications"
+  - "Stretch Clinical Applications的核心概念"
+  - "Stretch Clinical Applications的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/exercise/immune"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # Stretch Clinical Applications (拉伸临床应用)
 
 ### Pathology-Specific Stretch Prescriptions (病理专项拉伸处方表)

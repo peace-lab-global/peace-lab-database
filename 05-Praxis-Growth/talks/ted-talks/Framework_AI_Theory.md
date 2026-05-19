@@ -1,3 +1,31 @@
+---
+
+title: "AI基础理论 | AI Theory Framework"
+description: "AI基础理论 | AI Theory Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是AI基础理论 | AI Theory Framework"
+  - "AI基础理论 | AI Theory Framework的核心概念"
+  - "AI基础理论 | AI Theory Framework的方法与实践"
+trigger_keywords: ["AI基础理论", "behavioral", "brain", "cognitive", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # AI基础理论 | AI Theory Framework
 
 > **人工智能基础理论**（AI Theory）涵盖机器学习（Machine Learning）、深度学习（Deep Learning）、自然语言处理（NLP）、计算机视觉（Computer Vision）和强化学习（Reinforcement Learning）等核心领域。从感知机（Perceptron）到Transformer架构，从符号主义到连接主义，AI理论的演进深刻改变了人类对智能本质的理解。本文件精选TED平台上关于AI基础理论的代表性演讲，帮助读者理解人工智能的核心原理和前沿发展。

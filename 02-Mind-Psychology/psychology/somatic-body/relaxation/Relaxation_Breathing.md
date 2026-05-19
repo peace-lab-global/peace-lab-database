@@ -1,3 +1,31 @@
+---
+
+title: "呼吸放松技术 (Breathing Relaxation Techniques)"
+description: "呼吸放松技术 (Breathing Relaxation Techniques)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["anxiety", "bci", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是呼吸放松技术"
+  - "呼吸放松技术的核心概念"
+  - "呼吸放松技术的方法与实践"
+trigger_keywords: ["呼吸放松技术", "aging", "anxiety", "assessment", "bci"]
+cross_refs:
+  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 呼吸放松技术 (Breathing Relaxation Techniques)
 
 > **模块定位**：系统化的呼吸放松技术知识体系，涵盖膈肌呼吸、各类呼吸法协议、生理机制、临床应用循证及与传统调息术的整合。

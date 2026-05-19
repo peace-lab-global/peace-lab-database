@@ -1,3 +1,31 @@
+---
+
+title: "《分裂的自我》The Divided Self"
+description: "《分裂的自我》The Divided Self的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["personality", "treatment", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《分裂的自我》The Divided Self"
+  - "《分裂的自我》The Divided Self的核心概念"
+  - "《分裂的自我》The Divided Self的方法与实践"
+trigger_keywords: ["brain", "personality", "psychology", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/neuroscience/personality"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/neuroscience/personality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md"
+    relation: "neuroscience/personality/sexuality"
+
+---
 # 《分裂的自我》The Divided Self
 
 > R.D.莱恩（R.D. Laing）著，1960年出版。苏格兰精神科医生、存在主义心理治疗先驱。这本书彻底改变了对精神病的理解——莱恩认为，"精神分裂症"不是"疾病"，而是**一种对不可承受的存在性困境的防御性反应**。

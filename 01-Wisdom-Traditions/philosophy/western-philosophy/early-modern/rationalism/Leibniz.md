@@ -1,3 +1,31 @@
+---
+
+title: "戈特弗里德·威廉·莱布尼茨 (Gottfried Wilhelm Leibniz)"
+description: "戈特弗里德·威廉·莱布尼茨 (Gottfried Wilhelm Leibniz)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
+tags: ["cbt", "healing", "philosophy", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是戈特弗里德·威廉·莱布尼茨"
+  - "戈特弗里德·威廉·莱布尼茨的核心概念"
+  - "戈特弗里德·威廉·莱布尼茨的方法与实践"
+trigger_keywords: ["戈特弗里德", "威廉", "莱布尼茨", "behavioral", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "emotion/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "emotion/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "emotion/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "emotion/sexuality/therapy"
+
+---
 # 戈特弗里德·威廉·莱布尼茨 (Gottfried Wilhelm Leibniz)
 
 ## 核心思想 (Core Ideas)

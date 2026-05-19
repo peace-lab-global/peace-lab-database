@@ -1,3 +1,31 @@
+---
+
+title: "职场异常场景处理系统模块设计 (Exception Case Management System Design)"
+description: "职场异常场景处理系统模块设计 (Exception Case Management System Design)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "decision-making", "个人发展"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是职场异常场景处理系统模块设计"
+  - "职场异常场景处理系统模块设计的核心概念"
+  - "职场异常场景处理系统模块设计的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "communication", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 职场异常场景处理系统模块设计 (Exception Case Management System Design)
 
 > **定位**：为企业内部员工关系、HRBP、法务合规与业务管理者设计一套可落地的异常场景处置模块，统一处理孕产歧视投诉、报复性低绩效申诉、违法调岗争议、劝退协商纠纷等高敏感劳动关系事件

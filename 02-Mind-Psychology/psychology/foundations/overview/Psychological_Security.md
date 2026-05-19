@@ -1,3 +1,31 @@
+---
+
+title: "Psychological Security (心理安全感)"
+description: "Psychological Security (心理安全感)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Psychological Security"
+  - "Psychological Security的核心概念"
+  - "Psychological Security的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Psychological Security (心理安全感)
 
 > **心理安全感 (Psychological Security / Sense of Security)**

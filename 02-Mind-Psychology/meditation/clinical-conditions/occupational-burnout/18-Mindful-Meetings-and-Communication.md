@@ -1,3 +1,31 @@
+---
+
+title: "18. 正念会议与沟通 | Mindful Meetings & Communication"
+description: "18. 正念会议与沟通 | Mindful Meetings & Communication的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是18. 正念会议与沟通 | Mindful Meetings & Communication"
+  - "18. 正念会议与沟通 | Mindful Meetings & Communication的核心概念"
+  - "18. 正念会议与沟通 | Mindful Meetings & Communication的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 18. 正念会议与沟通 | Mindful Meetings & Communication
 
 > **文档定位**：将正念嵌入日常会议和沟通场景——从邮件管理到困难对话，提供可直接执行的脚本和流程。

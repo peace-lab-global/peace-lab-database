@@ -1,3 +1,32 @@
+---
+
+title: "青年群体性焦虑干预策略"
+description: "青年群体性焦虑干预策略的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青年群体性焦虑干预策略"
+  - "青年群体性焦虑干预策略的核心概念"
+  - "青年群体性焦虑干预策略的方法与实践"
+  - "青年群体性焦虑干预策略的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 青年群体性焦虑干预策略
 
 ## 青年群体特征分析

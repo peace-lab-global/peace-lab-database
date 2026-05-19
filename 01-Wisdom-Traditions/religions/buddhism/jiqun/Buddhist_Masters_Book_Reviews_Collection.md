@@ -1,3 +1,31 @@
+---
+
+title: "佛教大师书评论丛 | Buddhist Masters Book Review Collection"
+description: "佛教大师书评论丛 | Buddhist Masters Book Review Collection的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Jiqun"
+tags: ["buddhism", "calligraphy", "cinema", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "1.5h+"
+intent_queries:
+  - "什么是佛教大师书评论丛 | Buddhist Masters Book Review Collection"
+  - "佛教大师书评论丛 | Buddhist Masters Book Review Collection的核心概念"
+  - "佛教大师书评论丛 | Buddhist Masters Book Review Collection的方法与实践"
+trigger_keywords: ["佛教大师书评论丛", "art", "behavioral", "brain", "buddhism"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/autobiography-of-a-yogi.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 佛教大师书评论丛 | Buddhist Masters Book Review Collection
 
 > 按佛学院三十二大专业学科分类，收录840+位佛教大师学者及其核心著作书评，含学佛建议

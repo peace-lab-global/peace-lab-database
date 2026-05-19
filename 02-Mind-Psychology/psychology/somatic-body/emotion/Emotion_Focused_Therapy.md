@@ -1,3 +1,32 @@
+---
+
+title: "情绪聚焦疗法 (Emotion-Focused Therapy, EFT)"
+description: "情绪聚焦疗法 (Emotion-Focused Therapy, EFT)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["anxiety", "attachment", "cbt", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是情绪聚焦疗法"
+  - "情绪聚焦疗法的核心概念"
+  - "情绪聚焦疗法的方法与实践"
+  - "情绪聚焦疗法的循证证据"
+trigger_keywords: ["情绪聚焦疗法", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # 情绪聚焦疗法 (Emotion-Focused Therapy, EFT)
 
 > **情绪聚焦疗法 (Emotion-Focused Therapy, EFT)**

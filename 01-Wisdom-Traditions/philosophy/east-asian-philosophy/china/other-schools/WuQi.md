@@ -1,3 +1,31 @@
+---
+
+title: "吴起 (Wu Qi)"
+description: "吴起 (Wu Qi)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["habits", "healing", "leadership", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是吴起"
+  - "吴起的核心概念"
+  - "吴起的方法与实践"
+trigger_keywords: ["吴起", "behavioral", "crisis", "developmental", "habits"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+    relation: "productivity/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "productivity/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "productivity/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "productivity/sexuality/trauma"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/INDEX.md"
+    relation: "productivity/sexuality/trauma"
+
+---
 # 吴起 (Wu Qi)
 
 ## 核心思想 (Core Ideas)

@@ -1,3 +1,31 @@
+---
+
+title: "数字囤积癖神经生物学机制 (Neurobiological Mechanisms of Digital Hoarding)"
+description: "数字囤积癖神经生物学机制 (Neurobiological Mechanisms of Digital Hoarding)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
+tags: ["addiction", "anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字囤积癖神经生物学机制"
+  - "数字囤积癖神经生物学机制的核心概念"
+  - "数字囤积癖神经生物学机制的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Core_Overview.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 数字囤积癖神经生物学机制 (Neurobiological Mechanisms of Digital Hoarding)
 
 ## 1. 神经科学基础 (Neuroscientific Foundation)

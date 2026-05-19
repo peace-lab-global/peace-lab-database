@@ -1,3 +1,31 @@
+---
+
+title: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview"
+description: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Mbct Program"
+tags: ["dmn", "mbct", "mbsr", "meditation", "depression", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview"
+  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的核心概念"
+  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的方法与实践"
+trigger_keywords: ["act", "dmn", "mbct", "mbsr"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "depression/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "depression/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "depression/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "depression/meditation/neuroscience"
+
+---
 # æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview
 
 > **åç±»**: æ­£å¿µå¹²é¢ä½ç³» | **è¯æ®ç­çº§**: Içº§ï¼é¢é²æéçå¤åï¼

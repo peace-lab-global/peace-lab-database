@@ -1,3 +1,31 @@
+---
+
+title: "HRV心率变异性 | Heart Rate Variability"
+description: "HRV心率变异性 | Heart Rate Variability的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 心血管"
+tags: ["cardiovascular", "death", "breathwork", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是HRV心率变异性 | Heart Rate Variability"
+  - "HRV心率变异性 | Heart Rate Variability的核心概念"
+  - "HRV心率变异性 | Heart Rate Variability的方法与实践"
+trigger_keywords: ["HRV心率变异性", "anxiety", "assessment", "behavioral", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/cardiovascular/depression"
+
+---
 # HRV心率变异性 | Heart Rate Variability
 
 > **学科定位**: 自主神经科学 · 生物反馈 · 心身医学

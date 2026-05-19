@@ -1,3 +1,31 @@
+---
+
+title: "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing"
+description: "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的详细解析与实践指南"
+category: "智慧传承 > 中医内经"
+tags: ["gut", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing"
+  - "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的核心概念"
+  - "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的方法与实践"
+trigger_keywords: ["阴阳五行学说", "act", "brain", "clinical", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "exercise/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "exercise/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "exercise/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "exercise/immune/neuroscience"
+
+---
 # 阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing
 
 > "阴阳者，天地之道也，万物之纲纪，变化之父母，生杀之本始，神明之府也。"

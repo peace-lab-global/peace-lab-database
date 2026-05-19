@@ -1,3 +1,31 @@
+---
+
+title: "金刚乘基础入门 (Vajrayāna Foundation Introduction)"
+description: "金刚乘基础入门 (Vajrayāna Foundation Introduction)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
+tags: ["attachment", "buddhism", "dzogchen", "mahamudra", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是金刚乘基础入门"
+  - "金刚乘基础入门的核心概念"
+  - "金刚乘基础入门的方法与实践"
+trigger_keywords: ["金刚乘基础入门", "act", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 金刚乘基础入门 (Vajrayāna Foundation Introduction)
 
 > **金刚乘 (Vajrayāna)**：佛教三大传承之一，又称密宗、密教、坦特罗乘，以金刚(不坏)为象征，强调即身成佛的快速觉悟之道。

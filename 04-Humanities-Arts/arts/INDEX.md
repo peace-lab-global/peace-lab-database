@@ -1,3 +1,31 @@
+---
+
+title: "arts | 艺术与艺术疗愈"
+description: "arts | 艺术与艺术疗愈的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术"
+tags: ["ballet", "healing", "therapy", "art-therapy", "renaissance"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是arts | 艺术与艺术疗愈"
+  - "arts | 艺术与艺术疗愈的核心概念"
+  - "arts | 艺术与艺术疗愈的方法与实践"
+trigger_keywords: ["arts", "艺术与艺术疗愈", "art", "ballet", "clinical", "healing"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # arts | 艺术与艺术疗愈
 
 > 视觉艺术、表演艺术与艺术疗法的综合知识库

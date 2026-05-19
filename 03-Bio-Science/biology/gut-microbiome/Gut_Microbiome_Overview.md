@@ -1,3 +1,31 @@
+---
+
+title: "肠道微生物组总览 | Gut Microbiome Overview"
+description: "肠道微生物组总览 | Gut Microbiome Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 肠道微生物"
+tags: ["aging", "brain", "exercise", "fasting", "gut", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肠道微生物组总览 | Gut Microbiome Overview"
+  - "肠道微生物组总览 | Gut Microbiome Overview的核心概念"
+  - "肠道微生物组总览 | Gut Microbiome Overview的方法与实践"
+trigger_keywords: ["肠道微生物组总览", "act", "aging", "assessment", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/body_image/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/emotion/exercise"
+
+---
 # 肠道微生物组总览 | Gut Microbiome Overview
 
 > **学科定位**: 微生物学 · 系统生物学 · 精准医学

@@ -1,3 +1,31 @@
+---
+
+title: "冥想安全筛查工具 | Meditation Safety Screening Toolkit"
+description: "冥想安全筛查工具 | Meditation Safety Screening Toolkit的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tools"
+tags: ["anxiety", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想安全筛查工具 | Meditation Safety Screening Toolkit"
+  - "冥想安全筛查工具 | Meditation Safety Screening Toolkit的核心概念"
+  - "冥想安全筛查工具 | Meditation Safety Screening Toolkit的方法与实践"
+trigger_keywords: ["冥想安全筛查工具", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 冥想安全筛查工具 | Meditation Safety Screening Toolkit
 
 > **用途**：冥想执行师在接纳新学员前进行的风险评估

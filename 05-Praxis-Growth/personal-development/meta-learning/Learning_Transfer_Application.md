@@ -1,3 +1,31 @@
+---
+
+title: "学习迁移与应用 (Learning Transfer & Application)"
+description: "学习迁移与应用 (Learning Transfer & Application)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 元学习"
+tags: ["communication", "flow", "personality", "writing", "meta-learning"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是学习迁移与应用"
+  - "学习迁移与应用的核心概念"
+  - "学习迁移与应用的方法与实践"
+trigger_keywords: ["学习迁移与应用", "act", "art", "cognitive", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "communication/exercise/personality"
+
+---
 # 学习迁移与应用 (Learning Transfer & Application)
 
 > **学科定位**: 05-Praxis-Growth > personal-development > meta-learning

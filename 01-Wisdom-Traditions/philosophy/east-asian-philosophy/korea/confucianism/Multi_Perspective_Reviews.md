@@ -1,3 +1,31 @@
+---
+
+title: "韩国儒学经典三方书评"
+description: "韩国儒学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
+tags: ["philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是韩国儒学经典三方书评"
+  - "韩国儒学经典三方书评的核心概念"
+  - "韩国儒学经典三方书评的方法与实践"
+trigger_keywords: ["韩国儒学经典三方书评", "developmental", "philosophy", "sexuality", "哲学"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "daoism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "daoism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "daoism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "daoism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "daoism/emotion/exercise"
+
+---
 # 韩国儒学经典三方书评
 
 ## 主题：李滉（退溪）与李珥（栗谷）— 韩国儒学双璧、理气四七之辩

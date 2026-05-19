@@ -1,3 +1,31 @@
+---
+
+title: "Comprehensive Sexuality Education (综合性性教育)"
+description: "Comprehensive Sexuality Education (综合性性教育)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Comprehensive Sexuality Education"
+  - "Comprehensive Sexuality Education的核心概念"
+  - "Comprehensive Sexuality Education的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # Comprehensive Sexuality Education (综合性性教育)
 
 > 🎓 **教育框架**: 本文档提供基于循证的综合性性教育体系，涵盖从儿童到成人的全生命周期性教育内容。建议结合[性学概览](Sexuality_Overview.md)了解基础概念，参考[性发展与生命周期](Sexuality_Development_Lifespan.md)理解发展特点。

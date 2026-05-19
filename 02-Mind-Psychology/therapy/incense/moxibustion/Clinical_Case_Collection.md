@@ -1,3 +1,31 @@
+---
+
+title: "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας"
+description: "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Incense > Moxibustion"
+tags: ["anxiety", "depression", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας"
+  - "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的核心概念"
+  - "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的方法与实践"
+trigger_keywords: ["艾灸临床案例集", "act", "anxiety", "assessment", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Microbiome_Mental_Health.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Prostate_Health.md"
+    relation: "anxiety/depression/exercise"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Fertility_Pregnancy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας
 
 > **艾灸临床案例集**收录艾灸疗法在各类疾病治疗中的典型临床案例，涵盖内科、外科、妇科、儿科等各科疾病的治疗经验，通过详实的病例记录、治疗过程和疗效观察，为临床医师提供实用的参考借鉴和学习资料。

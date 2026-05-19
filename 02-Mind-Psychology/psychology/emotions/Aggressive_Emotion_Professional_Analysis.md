@@ -1,3 +1,31 @@
+---
+
+title: "Aggressive Emotion Professional Analysis (攻击性情绪专业分析)"
+description: "Aggressive Emotion Professional Analysis (攻击性情绪专业分析)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > Emotions"
+tags: ["addiction", "anxiety", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Aggressive Emotion Professional Analysis"
+  - "Aggressive Emotion Professional Analysis的核心概念"
+  - "Aggressive Emotion Professional Analysis的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Aggressive Emotion Professional Analysis (攻击性情绪专业分析)
 
 > **攻击性情绪 (Aggressive Emotion / Aggressio Psychologica)**

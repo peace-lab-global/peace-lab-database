@@ -1,3 +1,31 @@
+---
+
+title: "《心经》Heart Sutra"
+description: "《心经》Heart Sutra的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《心经》Heart Sutra"
+  - "《心经》Heart Sutra的核心概念"
+  - "《心经》Heart Sutra的方法与实践"
+trigger_keywords: ["body", "buddhism", "cognitive", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
+    relation: "buddhism/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "buddhism/cardiovascular/death"
+
+---
 # 《心经》Heart Sutra
 
 > 观世音菩萨为舍利子说法，约公元1世纪形成于印度，公元7世纪玄奘法师汉译（260字）。大乘佛教般若系经典的核心，以极致的简洁阐述了"空性"（Sunyata）的深义。被称为"经中之经"，是东亚佛教日常诵持最频繁的经典。

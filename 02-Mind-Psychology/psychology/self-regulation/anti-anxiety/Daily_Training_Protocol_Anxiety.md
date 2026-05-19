@@ -1,3 +1,32 @@
+---
+
+title: "焦虑管理日常训练方案"
+description: "焦虑管理日常训练方案的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "habits", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是焦虑管理日常训练方案"
+  - "焦虑管理日常训练方案的核心概念"
+  - "焦虑管理日常训练方案的方法与实践"
+  - "焦虑管理日常训练方案的自助方法"
+trigger_keywords: ["焦虑管理日常训练方案", "anxiety", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 焦虑管理日常训练方案
 
 ## 目录

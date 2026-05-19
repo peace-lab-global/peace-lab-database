@@ -1,3 +1,31 @@
+---
+
+title: "伊拉斯谟 (Desiderius Erasmus)"
+description: "伊拉斯谟 (Desiderius Erasmus)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
+tags: ["cbt", "healing", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伊拉斯谟"
+  - "伊拉斯谟的核心概念"
+  - "伊拉斯谟的方法与实践"
+trigger_keywords: ["伊拉斯谟", "behavioral", "cbt", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "personality/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "personality/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+    relation: "personality/productivity/sexuality"
+  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
+    relation: "personality/productivity/sexuality"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md"
+    relation: "personality/productivity/sexuality"
+
+---
 # 伊拉斯谟 (Desiderius Erasmus)
 
 ## 核心思想 (Core Ideas)

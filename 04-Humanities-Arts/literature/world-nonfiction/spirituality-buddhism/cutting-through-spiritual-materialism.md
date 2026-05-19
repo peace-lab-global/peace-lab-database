@@ -1,3 +1,31 @@
+---
+
+title: "《突破灵性物质主义》Cutting Through Spiritual Materialism"
+description: "《突破灵性物质主义》Cutting Through Spiritual Materialism的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《突破灵性物质主义》Cutting Through Spiritual Materialism"
+  - "《突破灵性物质主义》Cutting Through Spiritual Materialism的核心概念"
+  - "《突破灵性物质主义》Cutting Through Spiritual Materialism的方法与实践"
+trigger_keywords: ["buddhism", "sexuality", "spirituality", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《突破灵性物质主义》Cutting Through Spiritual Materialism
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1973年出版。藏传佛教传入西方最重要的先驱之一，以极具挑衅性的风格指出：现代人把灵性变成了另一种消费主义——追求"体验"、收集"法门"、炫耀"修行"。这本书是西方佛教史上最具影响力的著作之一。

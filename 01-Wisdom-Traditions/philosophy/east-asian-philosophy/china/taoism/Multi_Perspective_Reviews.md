@@ -1,3 +1,31 @@
+---
+
+title: "道家哲学经典三方书评"
+description: "道家哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
+tags: ["daoism", "philosophy", "zen", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是道家哲学经典三方书评"
+  - "道家哲学经典三方书评的核心概念"
+  - "道家哲学经典三方书评的方法与实践"
+trigger_keywords: ["道家哲学经典三方书评", "art", "daoism", "developmental", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "buddhism/communication/daoism"
+  - path: "02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md"
+    relation: "buddhism/communication/daoism"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "buddhism/communication/daoism"
+
+---
 # 道家哲学经典三方书评
 
 ---

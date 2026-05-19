@@ -1,3 +1,31 @@
+---
+
+title: "高效沟通实践训练"
+description: "高效沟通实践训练的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > 高效沟通"
+tags: ["communication"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是高效沟通实践训练"
+  - "高效沟通实践训练的核心概念"
+  - "高效沟通实践训练的方法与实践"
+trigger_keywords: ["高效沟通实践训练", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 高效沟通实践训练
 Effective Communication: Practice and Training
 

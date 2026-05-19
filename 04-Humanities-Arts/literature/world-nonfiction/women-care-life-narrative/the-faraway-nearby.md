@@ -1,3 +1,31 @@
+---
+
+title: "《远方的近处》The Faraway Nearby"
+description: "《远方的近处》The Faraway Nearby的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《远方的近处》The Faraway Nearby"
+  - "《远方的近处》The Faraway Nearby的核心概念"
+  - "《远方的近处》The Faraway Nearby的方法与实践"
+trigger_keywords: ["act", "aging", "art", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
+    relation: "aging/attachment/emotion"
+
+---
 # 《远方的近处》The Faraway Nearby
 
 **作者**：丽贝卡·索尔尼特 (Rebecca Solnit)  

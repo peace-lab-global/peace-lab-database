@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)"
+description: "色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "cbt", "intervention"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾专业内容体系质量评估报告"
+  - "色情文学成瘾专业内容体系质量评估报告的核心概念"
+  - "色情文学成瘾专业内容体系质量评估报告的方法与实践"
+trigger_keywords: ["addiction", "assessment", "cbt", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "meditation/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "meditation/neuroscience/sexuality"
+
+---
 # 色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)
 
 > 📊 **质量评估**: 本报告对色情文学成瘾专业内容体系进行全面质量评估，涵盖完整性、准确性、专业性和实用性等关键维度。

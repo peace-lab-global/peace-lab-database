@@ -1,3 +1,31 @@
+---
+
+title: "overview | 冥想概览 Index"
+description: "overview | 冥想概览 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["brain", "sleep", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是overview | 冥想概览 Index"
+  - "overview | 冥想概览 Index的核心概念"
+  - "overview | 冥想概览 Index的方法与实践"
+trigger_keywords: ["overview", "冥想概览 Index", "act", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "aging/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
+    relation: "aging/meditation/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/meditation/neuroscience"
+
+---
 # overview | 冥想概览 Index
 
 ## 内容索引 | Contents

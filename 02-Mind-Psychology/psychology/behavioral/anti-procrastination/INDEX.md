@@ -1,6 +1,51 @@
+---
+
+title: "反拖延症 (Anti-Procrastination) | Index"
+description: "反拖延症 (Anti-Procrastination) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["anxiety", "decision-making", "habits", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是反拖延症  | Index"
+  - "反拖延症  | Index的核心概念"
+  - "反拖延症  | Index的方法与实践"
+trigger_keywords: ["反拖延症", "Index", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/productivity/sexuality"
+
+---
 # 反拖延症 (Anti-Procrastination) | Index
 
 > 反拖延症是针对拖延行为的系统性干预模块，涵盖拖延心理机制分析、行为激活技术、时间管理策略和动机激发方法。本模块帮助识别拖延模式，发展立即行动的技能。
+
+## 🤖 Agent Skills 智能体技能层
+
+本模块已上线**结构化智能体技能**，可供 AI 智能体调用：
+
+| 技能ID | 技能名称 | 角色 | 说明 |
+|:------|:---------|:----:|:-----|
+| PROC_001 | 拖延症综合评估 | entry | 入口技能，确定拖延类型和严重程度 |
+| PROC_002 | 行为激活技术 | intervention | 任务启动、习惯养成 |
+| PROC_003 | 时间管理技术 | intervention | 番茄钟、时间块、优先级 |
+| PROC_004 | 21天行动方案 | tool | 系统性习惯养成方案 |
+
+**智能体调用协议**：
+- `_protocol.md` — 技能调用规范、状态管理、输出标准
+- `_manifest.md` — 技能元数据注册表
+
+---
 
 ## 内容索引 | Contents
 

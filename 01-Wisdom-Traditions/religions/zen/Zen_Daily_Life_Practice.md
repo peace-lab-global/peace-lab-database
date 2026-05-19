@@ -1,3 +1,31 @@
+---
+
+title: "Zen Daily Life Practice (日常生活中的禅修行)"
+description: "Zen Daily Life Practice (日常生活中的禅修行)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["addiction", "flow", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zen Daily Life Practice"
+  - "Zen Daily Life Practice的核心概念"
+  - "Zen Daily Life Practice的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # Zen Daily Life Practice (日常生活中的禅修行)
 
 ### Zen in the Ten Directions: Applied Mindfulness (生活十向禅修表)

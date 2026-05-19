@@ -1,3 +1,31 @@
+---
+
+title: "系列二十一：学习与智慧系列 | Learning & Intelligence Series"
+description: "系列二十一：学习与智慧系列 | Learning & Intelligence Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是系列二十一：学习与智慧系列 | Learning & Intelligence Series"
+  - "系列二十一：学习与智慧系列 | Learning & Intelligence Series的核心概念"
+  - "系列二十一：学习与智慧系列 | Learning & Intelligence Series的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+
+---
 # 系列二十一：学习与智慧系列 | Learning & Intelligence Series
 
 > **级别**：Level 2-3

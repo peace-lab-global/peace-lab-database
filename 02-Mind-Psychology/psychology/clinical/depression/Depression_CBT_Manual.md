@@ -1,3 +1,31 @@
+---
+
+title: "Depression CBT Manual (抑郁症认知行为治疗操作手册)"
+description: "Depression CBT Manual (抑郁症认知行为治疗操作手册)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "depression", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Depression CBT Manual"
+  - "Depression CBT Manual的核心概念"
+  - "Depression CBT Manual的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Depression CBT Manual (抑郁症认知行为治疗操作手册)
 
 > **抑郁症认知行为治疗操作手册 (Cognitive Behavioral Therapy for Depression: Clinical Manual)**

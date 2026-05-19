@@ -1,3 +1,31 @@
+---
+
+title: "Meditation Practitioner Training Q&A (冥想执行师培训问答)"
+description: "Meditation Practitioner Training Q&A (冥想执行师培训问答)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Meditation Practitioner Training Q&A"
+  - "Meditation Practitioner Training Q&A的核心概念"
+  - "Meditation Practitioner Training Q&A的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # Meditation Practitioner Training Q&A (冥想执行师培训问答)
 
 ## 问题一：冥想的核心理念、作用机制、实际效果与学习动机

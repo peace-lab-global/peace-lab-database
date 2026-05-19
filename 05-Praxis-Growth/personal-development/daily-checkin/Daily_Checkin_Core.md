@@ -1,3 +1,32 @@
+---
+
+title: "每日打卡核心理论 (Daily Check-in - Core Theory)"
+description: "每日打卡核心理论 (Daily Check-in - Core Theory)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Daily Checkin"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是每日打卡核心理论"
+  - "每日打卡核心理论的核心概念"
+  - "每日打卡核心理论的方法与实践"
+  - "每日打卡核心理论的自助方法"
+trigger_keywords: ["每日打卡核心理论", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "emotion/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+    relation: "emotion/exercise/nutrition"
+
+---
 # 每日打卡核心理论 (Daily Check-in - Core Theory)
 
 ## 定义与学科定位 (Definition & Disciplinary Context)

@@ -1,3 +1,31 @@
+---
+
+title: "基督教核心概览 (Christianity Overview)"
+description: "基督教核心概览 (Christianity Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 基督教"
+tags: ["addiction", "cbt", "christianity"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是基督教核心概览"
+  - "基督教核心概览的核心概念"
+  - "基督教核心概览的方法与实践"
+trigger_keywords: ["基督教核心概览", "addiction", "adolescent", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/exercise/neuroscience"
+
+---
 # 基督教核心概览 (Christianity Overview)
 
 ## 目录 (Table of Contents)

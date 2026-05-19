@@ -1,3 +1,31 @@
+---
+
+title: "Arts & Nature (艺术、自然与生态)"
+description: "Arts & Nature (艺术、自然与生态)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["attachment", "inflammation", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Arts & Nature"
+  - "Arts & Nature的核心概念"
+  - "Arts & Nature的方法与实践"
+trigger_keywords: ["act", "art", "attachment", "cognitive"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # Arts & Nature (艺术、自然与生态)
 
 ### Art Therapy Techniques (艺术治疗技术)

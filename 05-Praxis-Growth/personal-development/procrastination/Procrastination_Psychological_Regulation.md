@@ -1,3 +1,32 @@
+---
+
+title: "拖延症心理调节专业内容体系"
+description: "拖延症心理调节专业内容体系的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 拖延心理"
+tags: ["cbt", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是拖延症心理调节专业内容体系"
+  - "拖延症心理调节专业内容体系的核心概念"
+  - "拖延症心理调节专业内容体系的方法与实践"
+  - "拖延症心理调节专业内容体系的自助方法"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 拖延症心理调节专业内容体系
 
 ## 目录

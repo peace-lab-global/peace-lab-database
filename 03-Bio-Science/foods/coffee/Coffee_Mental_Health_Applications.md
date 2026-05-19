@@ -1,3 +1,31 @@
+---
+
+title: "Coffee & Mental Health Clinical Applications (咖啡与心理健康临床应用)"
+description: "Coffee & Mental Health Clinical Applications (咖啡与心理健康临床应用)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Coffee"
+tags: ["addiction", "aging", "sleep"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Coffee & Mental Health Clinical Applications"
+  - "Coffee & Mental Health Clinical Applications的核心概念"
+  - "Coffee & Mental Health Clinical Applications的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Coffee & Mental Health Clinical Applications (咖啡与心理健康临床应用)
 
 **重要提醒**：关于咖啡因使用障碍的详细诊断、评估和治疗方案，请参考专门的 [咖啡因成瘾与咖啡使用障碍文档](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Caffeine_Coffee.md)。本文档主要关注咖啡因对各类精神障碍的影响。

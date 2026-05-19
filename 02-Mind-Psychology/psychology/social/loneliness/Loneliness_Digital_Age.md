@@ -1,3 +1,31 @@
+---
+
+title: "数字时代孤独 (Digital Age Loneliness)"
+description: "数字时代孤独 (Digital Age Loneliness)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["addiction", "anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字时代孤独"
+  - "数字时代孤独的核心概念"
+  - "数字时代孤独的方法与实践"
+trigger_keywords: ["数字时代孤独", "addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/death/Death_Pet_Loss.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 数字时代孤独 (Digital Age Loneliness)
 
 > **核心命题**: 我们生活在一个悖论时代——人类从未如此紧密地连接，也从未如此深刻地孤独。数字技术重构了孤独的面貌：它不再是"无人陪伴"，而是"陪伴的质量崩解"。

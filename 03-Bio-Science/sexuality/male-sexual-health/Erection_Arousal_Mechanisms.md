@@ -1,3 +1,31 @@
+---
+
+title: "Erection and Arousal Mechanisms (勃起与唤起机制)"
+description: "Erection and Arousal Mechanisms (勃起与唤起机制)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Male Sexual Health"
+tags: ["cardiovascular", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Erection and Arousal Mechanisms"
+  - "Erection and Arousal Mechanisms的核心概念"
+  - "Erection and Arousal Mechanisms的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+
+---
 # Erection and Arousal Mechanisms (勃起与唤起机制)
 
 ## 概述

@@ -1,3 +1,31 @@
+---
+
+title: "极简主义与断舍离概览 (Minimalism & Decluttering Overview)"
+description: "极简主义与断舍离概览 (Minimalism & Decluttering Overview)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 极简主义"
+tags: ["attachment", "minimalism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是极简主义与断舍离概览"
+  - "极简主义与断舍离概览的核心概念"
+  - "极简主义与断舍离概览的方法与实践"
+trigger_keywords: ["极简主义与断舍离概览", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 极简主义与断舍离概览 (Minimalism & Decluttering Overview)
 
 ## 1. 核心概念与定义 (Core Concepts & Definitions)

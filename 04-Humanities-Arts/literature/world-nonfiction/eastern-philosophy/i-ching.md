@@ -1,3 +1,31 @@
+---
+
+title: "《周易》I Ching / Book of Changes"
+description: "《周易》I Ching / Book of Changes的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["decision-making", "jung", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《周易》I Ching / Book of Changes"
+  - "《周易》I Ching / Book of Changes的核心概念"
+  - "《周易》I Ching / Book of Changes的方法与实践"
+trigger_keywords: ["buddhism", "death", "decision-making", "jung"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism"
+
+---
 # 《周易》I Ching / Book of Changes
 
 > 传统归于伏羲、文王、孔子，约公元前8世纪至公元前3世纪形成。中国最古老的经典之一，以六十四卦和三百八十四爻来象征宇宙万物的变化规律。既是占卜之书，也是哲学之书，更是**关于"变化"的终极教科书**。

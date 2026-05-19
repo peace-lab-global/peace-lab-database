@@ -1,3 +1,31 @@
+---
+
+title: "密宗重要经典（Vajrayana Sutras）"
+description: "密宗重要经典（Vajrayana Sutras）的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "dzogchen", "mandala", "mindfulness", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是密宗重要经典（Vajrayana Sutras）"
+  - "密宗重要经典（Vajrayana Sutras）的核心概念"
+  - "密宗重要经典（Vajrayana Sutras）的方法与实践"
+trigger_keywords: ["breathwork", "buddhism", "developmental", "dzogchen"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 密宗重要经典（Vajrayana Sutras）
 
 本文档介绍密宗（金刚乘）的重要经典，包括密续经典、仪轨经典、陀罗尼及藏传佛教核心经典。

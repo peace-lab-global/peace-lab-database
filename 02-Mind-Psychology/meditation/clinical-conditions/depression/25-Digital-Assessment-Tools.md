@@ -1,3 +1,31 @@
+---
+
+title: "16. 数字化评估与监测工具 | Digital Assessment & Monitoring"
+description: "16. 数字化评估与监测工具 | Digital Assessment & Monitoring的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "brain", "cbt", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是16. 数字化评估与监测工具 | Digital Assessment & Monitoring"
+  - "16. 数字化评估与监测工具 | Digital Assessment & Monitoring的核心概念"
+  - "16. 数字化评估与监测工具 | Digital Assessment & Monitoring的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Neuroscience_Pharmacology.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 16. 数字化评估与监测工具 | Digital Assessment & Monitoring
 
 > **文档定位**：数字化工具不仅方便患者使用，也为研究和临床监测提供了前所未有的数据密度。本章推荐经过验证的数字化评估平台和工具。

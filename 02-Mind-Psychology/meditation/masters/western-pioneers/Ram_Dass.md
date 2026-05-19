@@ -1,3 +1,31 @@
+---
+
+title: "拉姆·达斯 (Ram Dass)"
+description: "拉姆·达斯 (Ram Dass)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是拉姆·达斯"
+  - "拉姆·达斯的核心概念"
+  - "拉姆·达斯的方法与实践"
+trigger_keywords: ["拉姆", "达斯", "body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "buddhism/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 拉姆·达斯 (Ram Dass)
 
 > "We're all just walking each other home."

@@ -1,3 +1,31 @@
+---
+
+title: "Psychopathology Atlas (心理病理学图谱：临床与整体整合)"
+description: "Psychopathology Atlas (心理病理学图谱：临床与整体整合)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["anxiety", "brain", "emdr", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Psychopathology Atlas"
+  - "Psychopathology Atlas的核心概念"
+  - "Psychopathology Atlas的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Psychopathology Atlas (心理病理学图谱：临床与整体整合)
 
 ### Major Clinical Disorders: Holistic Profile (核心精神障碍：多维剖析表)

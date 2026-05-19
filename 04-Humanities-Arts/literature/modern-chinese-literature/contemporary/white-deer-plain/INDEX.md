@@ -1,3 +1,31 @@
+---
+
+title: "White Deer Plain | 白鹿原"
+description: "White Deer Plain | 白鹿原的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是White Deer Plain | 白鹿原"
+  - "White Deer Plain | 白鹿原的核心概念"
+  - "White Deer Plain | 白鹿原的方法与实践"
+trigger_keywords: ["白鹿原", "cinema", "literature", "philosophy", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # White Deer Plain | 白鹿原
 
 > 陈忠实长篇小说，1993年出版。以陕西关中白鹿原上白鹿两家的恩怨为主线，书写了从清末到新中国成立半个多世纪的民族秘史。

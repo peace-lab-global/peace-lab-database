@@ -1,3 +1,31 @@
+---
+
+title: "视觉设计 | Design Aesthetics"
+description: "视觉设计 | Design Aesthetics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是视觉设计 | Design Aesthetics"
+  - "视觉设计 | Design Aesthetics的核心概念"
+  - "视觉设计 | Design Aesthetics的方法与实践"
+trigger_keywords: ["视觉设计", "act", "art", "behavioral", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 视觉设计 | Design Aesthetics
 
 > **设计美学**（Design Aesthetics）探讨功能与美感的融合——从工业设计（Industrial Design）到用户体验（UX Design），从平面设计（Graphic Design）到建筑美学（Architectural Aesthetics）。好的设计不仅是视觉上的愉悦，更是解决问题的方式。本文件精选TED平台上关于设计美学的代表性演讲，帮助读者理解设计思维如何塑造我们的日常体验和文化价值。

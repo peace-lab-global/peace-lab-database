@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)"
+description: "Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["addiction", "aging", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders & Fetishism Overview"
+  - "Paraphilic Disorders & Fetishism Overview的核心概念"
+  - "Paraphilic Disorders & Fetishism Overview的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "aging/anxiety/neuroscience"
+
+---
 # Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)
 
 > 📘 **文档导航**: 本概览文档提供恋物癖与性偏离障碍的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

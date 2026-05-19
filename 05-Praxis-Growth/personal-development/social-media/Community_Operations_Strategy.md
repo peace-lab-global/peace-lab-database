@@ -1,3 +1,31 @@
+---
+
+title: "社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας"
+description: "社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Media"
+tags: ["decision-making", "positive-psychology", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας"
+  - "社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας的核心概念"
+  - "社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας的方法与实践"
+trigger_keywords: ["社群运营策略", "assessment", "behavioral", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Multi_Perspective_Reviews.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "emotion/productivity/sexuality"
+
+---
 # 社群运营策略 | Community Operations Strategy | Στρατηγική Λειτουργίας Κοινότητας
 
 > **社群运营策略**系统阐述自媒体社群的建设、维护和变现方法，涵盖用户分层管理、内容运营、活动策划、商业转化等核心内容，帮助自媒体建立高粘性的粉丝社群生态系统。

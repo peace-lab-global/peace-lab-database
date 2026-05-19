@@ -1,3 +1,31 @@
+---
+
+title: "Delusional Disorder Treatment (偏执性精神病治疗)"
+description: "Delusional Disorder Treatment (偏执性精神病治疗)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Delusional Disorder"
+tags: ["anxiety", "cbt", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Delusional Disorder Treatment"
+  - "Delusional Disorder Treatment的核心概念"
+  - "Delusional Disorder Treatment的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+
+---
 # Delusional Disorder Treatment (偏执性精神病治疗)
 
 > **偏执性精神病治疗 (Delusional Disorder Treatment)**

@@ -1,3 +1,31 @@
+---
+
+title: "道家冥想专业概述：从老庄玄思到内丹实修"
+description: "道家冥想专业概述：从老庄玄思到内丹实修的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Taoist Meditation"
+tags: ["anxiety", "brain", "cortisol", "daoism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是道家冥想专业概述：从老庄玄思到内丹实修"
+  - "道家冥想专业概述：从老庄玄思到内丹实修的核心概念"
+  - "道家冥想专业概述：从老庄玄思到内丹实修的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 道家冥想专业概述：从老庄玄思到内丹实修
 
 > **适用对象**：对传统东方冥想体系有兴趣的进阶练习者、中医/气功从业者、身心整合研究者  

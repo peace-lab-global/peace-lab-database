@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）"
+description: "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Career Business"
+tags: ["meditation", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）"
+  - "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的核心概念"
+  - "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的方法与实践"
+trigger_keywords: ["behavioral", "body", "breathwork", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "exercise/meditation/sexuality"
+
+---
 # 瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）
 
 > 保护教学实践——瑜伽导师必备的法律风险管理知识

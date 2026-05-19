@@ -1,3 +1,31 @@
+---
+
+title: "度母完整修持仪轨 (Tara Sadhana)"
+description: "度母完整修持仪轨 (Tara Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "phobia", "positive-psychology", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是度母完整修持仪轨"
+  - "度母完整修持仪轨的核心概念"
+  - "度母完整修持仪轨的方法与实践"
+trigger_keywords: ["度母完整修持仪轨", "anxiety", "buddhism", "emotion", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C4-2-five-obstacles-of-meditation.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 度母完整修持仪轨 (Tara Sadhana)
 
 > **度母 (Tara / Sgrol Ma / Dumu)**：观世音菩萨眼泪化现的女身佛，藏传佛教最受尊崇的女性本尊。绿度母救度八难，白度母延寿增福，二十一度母各有特殊功能。此仪轨涵盖绿度母与白度母的完整修持。

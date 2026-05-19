@@ -1,3 +1,31 @@
+---
+
+title: "巴赫音乐疗愈 (Bach Music Therapy)"
+description: "巴赫音乐疗愈 (Bach Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是巴赫音乐疗愈"
+  - "巴赫音乐疗愈的核心概念"
+  - "巴赫音乐疗愈的方法与实践"
+trigger_keywords: ["巴赫音乐疗愈", "act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 巴赫音乐疗愈 (Bach Music Therapy)
 
 > **约翰·塞巴斯蒂安·巴赫 (Johann Sebastian Bach, 1685-1750)**

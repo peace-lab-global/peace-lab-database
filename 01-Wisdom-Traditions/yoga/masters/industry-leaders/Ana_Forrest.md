@@ -1,3 +1,31 @@
+---
+
+title: "安娜·福瑞斯特（Ana Forrest）"
+description: "安娜·福瑞斯特（Ana Forrest）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["addiction", "healing", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是安娜·福瑞斯特（Ana Forrest）"
+  - "安娜·福瑞斯特（Ana Forrest）的核心概念"
+  - "安娜·福瑞斯特（Ana Forrest）的方法与实践"
+trigger_keywords: ["安娜", "act", "addiction", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "emotion/exercise/sexuality"
+
+---
 # 安娜·福瑞斯特（Ana Forrest）
 
 > Forrest Yoga 的创造者——以疗愈创伤为核心的当代瑜伽先锋

@@ -1,3 +1,32 @@
+---
+
+title: "辩证行为疗法 (DBT: Dialectical Behavior Therapy)"
+description: "辩证行为疗法 (DBT: Dialectical Behavior Therapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Dialectical Behavior Therapy"
+tags: ["addiction", "anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是辩证行为疗法"
+  - "辩证行为疗法的核心概念"
+  - "辩证行为疗法的方法与实践"
+  - "辩证行为疗法的循证证据"
+trigger_keywords: ["辩证行为疗法", "addiction", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "GLOSSARY.md"
+    relation: "attachment/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 辩证行为疗法 (DBT: Dialectical Behavior Therapy)
 
 > **目标**：建立完整的DBT理论体系与实践框架，涵盖核心理念、技能训练、治疗结构及循证应用。DBT是专门针对边缘性人格障碍开发的循证治疗方法，现已扩展应用于多种复杂心理问题。

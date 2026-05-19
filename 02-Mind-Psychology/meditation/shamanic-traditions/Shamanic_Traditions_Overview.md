@@ -1,3 +1,31 @@
+---
+
+title: "全球萨满传统冥想专业概述"
+description: "全球萨满传统冥想专业概述的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Shamanic Traditions"
+tags: ["brain", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是全球萨满传统冥想专业概述"
+  - "全球萨满传统冥想专业概述的核心概念"
+  - "全球萨满传统冥想专业概述的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/depression/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/depression/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "communication/depression/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "communication/depression/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "communication/depression/exercise"
+
+---
 # 全球萨满传统冥想专业概述
 
 > **适用对象**：对跨文化灵性传统感兴趣的冥想进阶练习者、人类学/心理学研究者、生态疗愈从业者  

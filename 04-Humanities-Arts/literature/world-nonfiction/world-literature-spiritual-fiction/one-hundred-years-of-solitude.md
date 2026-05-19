@@ -1,3 +1,31 @@
+---
+
+title: "《百年孤独》One Hundred Years of Solitude"
+description: "《百年孤独》One Hundred Years of Solitude的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["daoism", "literature", "loneliness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《百年孤独》One Hundred Years of Solitude"
+  - "《百年孤独》One Hundred Years of Solitude的核心概念"
+  - "《百年孤独》One Hundred Years of Solitude的方法与实践"
+trigger_keywords: ["body", "buddhism", "daoism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/daoism/death"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "buddhism/daoism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《百年孤独》One Hundred Years of Solitude
 
 > 加西亚·马尔克斯（Gabriel García Márquez）著，1967年出版。哥伦比亚作家的代表作，魔幻现实主义的巅峰之作。讲述了布恩迪亚家族七代人的传奇故事，以及他们在马孔多小镇上的兴衰。获诺贝尔文学奖，被誉为20世纪最重要的文学作品之一。

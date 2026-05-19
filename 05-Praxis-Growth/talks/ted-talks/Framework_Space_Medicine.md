@@ -1,3 +1,31 @@
+---
+
+title: "太空医学 | Space Medicine Framework"
+description: "太空医学 | Space Medicine Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太空医学 | Space Medicine Framework"
+  - "太空医学 | Space Medicine Framework的核心概念"
+  - "太空医学 | Space Medicine Framework的方法与实践"
+trigger_keywords: ["太空医学", "aging", "art", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 太空医学 | Space Medicine Framework
 
 > **太空医学**（Space Medicine）研究太空环境对人体和心理的影响，以及保障宇航员健康的医学策略。从微重力（Microgravity）对骨骼肌肉系统的退化效应，到宇宙辐射（Cosmic Radiation）的DNA损伤风险，再到长期隔离对心理健康的挑战，太空医学不仅支持人类的太空探索，也推动了地球医学的创新。本文件精选TED平台上关于太空医学的代表性演讲。

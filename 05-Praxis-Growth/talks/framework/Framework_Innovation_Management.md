@@ -1,3 +1,31 @@
+---
+
+title: "创新管理 | Innovation Management"
+description: "创新管理 | Innovation Management的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "flow", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创新管理 | Innovation Management"
+  - "创新管理 | Innovation Management的核心概念"
+  - "创新管理 | Innovation Management的方法与实践"
+trigger_keywords: ["创新管理", "assessment", "behavioral", "crisis", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Multi_Perspective_Reviews.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "exercise/productivity/sexuality"
+
+---
 # 创新管理 | Innovation Management
 
 > 创新管理（Innovation Management）是一门研究如何系统性地激发、培育、实施和扩展创新的跨学科学术领域。它融合了战略管理、组织行为学、技术管理与创业理论的核心理念，旨在帮助组织在不确定环境中建立可持续的竞争优势。从熊彼特的"创造性破坏"到现代开放式创新范式，创新管理已成为驱动经济增长与社会进步的核心引擎。

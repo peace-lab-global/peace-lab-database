@@ -1,3 +1,31 @@
+---
+
+title: "松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）"
+description: "松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Ancient"
+tags: ["buddhism", "healing", "mandala", "meditation", "positive-psychology", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）"
+  - "松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）的核心概念"
+  - "松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）的方法与实践"
+trigger_keywords: ["act", "body", "buddhism", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 松脂拏（Matsyendranath / मत्स्येन्द्रनाथ）
 
 > Natha 瑜伽传统的奠基者——从渔夫到瑜伽大师的传奇

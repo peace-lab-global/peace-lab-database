@@ -1,3 +1,31 @@
+---
+
+title: "HPA轴概览 (HPA Axis Overview)"
+description: "HPA轴概览 (HPA Axis Overview)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > HPA轴"
+tags: ["HPA轴", "aging", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是HPA轴概览"
+  - "HPA轴概览的核心概念"
+  - "HPA轴概览的方法与实践"
+trigger_keywords: ["HPA轴概览", "HPA轴", "act", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # HPA轴概览 (HPA Axis Overview)
 
 > **下丘脑-垂体-肾上腺轴** (Hypothalamic-Pituitary-Adrenal Axis)

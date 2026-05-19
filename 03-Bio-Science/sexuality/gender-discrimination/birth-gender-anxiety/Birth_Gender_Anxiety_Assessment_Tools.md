@@ -1,3 +1,31 @@
+---
+
+title: "Birth Gender Anxiety: Assessment Tools (生育性别焦虑评估工具与量表)"
+description: "Birth Gender Anxiety: Assessment Tools (生育性别焦虑评估工具与量表)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Birth Gender Anxiety: Assessment Tools"
+  - "Birth Gender Anxiety: Assessment Tools的核心概念"
+  - "Birth Gender Anxiety: Assessment Tools的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/peripartum-depression/Peripartum_Depression.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Impact_Children_Development.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # Birth Gender Anxiety: Assessment Tools (生育性别焦虑评估工具与量表)
 
 ## 专用评估工具 (Specialized Assessment Tools)

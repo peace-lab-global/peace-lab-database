@@ -1,3 +1,31 @@
+---
+
+title: "肖邦《前奏曲》综合指南"
+description: "肖邦《前奏曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Preludes"
+tags: ["healing", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肖邦《前奏曲》综合指南"
+  - "肖邦《前奏曲》综合指南的核心概念"
+  - "肖邦《前奏曲》综合指南的方法与实践"
+trigger_keywords: ["art", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 肖邦《前奏曲》综合指南
 
 ## 作品基本信息

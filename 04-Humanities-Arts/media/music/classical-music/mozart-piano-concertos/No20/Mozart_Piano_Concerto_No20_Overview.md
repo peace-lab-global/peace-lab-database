@@ -1,3 +1,31 @@
+---
+
+title: "莫扎特《第20号钢琴协奏曲》综合指南"
+description: "莫扎特《第20号钢琴协奏曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Piano Concertos > No20"
+tags: ["healing", "music"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是莫扎特《第20号钢琴协奏曲》综合指南"
+  - "莫扎特《第20号钢琴协奏曲》综合指南的核心概念"
+  - "莫扎特《第20号钢琴协奏曲》综合指南的方法与实践"
+trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 莫扎特《第20号钢琴协奏曲》综合指南
 
 ## 作品基本信息

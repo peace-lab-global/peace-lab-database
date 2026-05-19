@@ -1,3 +1,31 @@
+---
+
+title: "胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)"
+description: "胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "longevity", "mandala", "yoga", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是胜乐金刚完整修持仪轨"
+  - "胜乐金刚完整修持仪轨的核心概念"
+  - "胜乐金刚完整修持仪轨的方法与实践"
+trigger_keywords: ["胜乐金刚完整修持仪轨", "buddhism", "longevity", "mandala", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+    relation: "aging/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/buddhism/sexuality"
+
+---
 # 胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)
 
 > **胜乐金刚 (Cakrasamvara / Khorlo Demchog)**：藏传佛教无上瑜伽部母续本尊，噶举派根本本尊。象征「乐空不二」的究竟境界，以双身相拥的形相展示方便与智慧的不二。

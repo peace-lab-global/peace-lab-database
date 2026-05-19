@@ -1,3 +1,31 @@
+---
+
+title: "巴金完整专业档案：激流三部曲的文学巨匠"
+description: "巴金完整专业档案：激流三部曲的文学巨匠的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Near Modern > Authors"
+tags: ["literature", "marriage", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴金完整专业档案：激流三部曲的文学巨匠"
+  - "巴金完整专业档案：激流三部曲的文学巨匠的核心概念"
+  - "巴金完整专业档案：激流三部曲的文学巨匠的方法与实践"
+trigger_keywords: ["act", "art", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/emotion"
+
+---
 # 巴金完整专业档案：激流三部曲的文学巨匠
 
 ## 概述 (Overview)

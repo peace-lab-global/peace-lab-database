@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Professional Content System Enhancement Summary (性别歧视专业内容体系增强总结)"
+description: "Gender Discrimination Professional Content System Enhancement Summary (性别歧视专业内容体系增强总结)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["sexuality", "性学"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Gender Discrimination Professional Content System Enhancement Summary"
+  - "Gender Discrimination Professional Content System Enhancement Summary的核心概念"
+  - "Gender Discrimination Professional Content System Enhancement Summary的方法与实践"
+trigger_keywords: ["act", "assessment", "developmental", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # Gender Discrimination Professional Content System Enhancement Summary (性别歧视专业内容体系增强总结)
 
 ## 项目完成概况 (Project Completion Overview)

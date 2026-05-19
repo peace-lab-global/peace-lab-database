@@ -1,3 +1,31 @@
+---
+
+title: "短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο"
+description: "短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Media"
+tags: ["communication", "music", "productivity"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο"
+  - "短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο的核心概念"
+  - "短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο的方法与实践"
+trigger_keywords: ["短视频创作技巧", "assessment", "behavioral", "communication", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 短视频创作技巧 | Short Video Creation Techniques | Τεχνικές Δημιουργίας Βίντεο
 
 > **短视频创作技巧**系统阐述短视频内容创作的核心技法、平台运营策略和变现模式，涵盖脚本写作、拍摄剪辑、算法优化等专业技能，帮助创作者打造爆款短视频内容。

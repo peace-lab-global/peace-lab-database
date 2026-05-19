@@ -1,3 +1,31 @@
+---
+
+title: "特定恐惧症详表 (Specific Phobia Types)"
+description: "特定恐惧症详表 (Specific Phobia Types)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
+tags: ["anxiety", "cinema", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是特定恐惧症详表"
+  - "特定恐惧症详表的核心概念"
+  - "特定恐惧症详表的方法与实践"
+trigger_keywords: ["特定恐惧症详表", "aging", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 特定恐惧症详表 (Specific Phobia Types)
 
 > **核心定位**: 特定恐惧症是最常见的焦虑障碍，对特定对象或情境的标志性恐惧。本文档详细列举五大亚型（动物型、自然环境型、血液-注射-损伤型、情境型、其他型）下的常见恐惧症，提供命名、神经机制、治疗要点及临床洞察。

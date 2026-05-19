@@ -1,3 +1,31 @@
+---
+
+title: "数字经济 | Digital Economy"
+description: "数字经济 | Digital Economy的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "productivity", "social"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字经济 | Digital Economy"
+  - "数字经济 | Digital Economy的核心概念"
+  - "数字经济 | Digital Economy的方法与实践"
+trigger_keywords: ["数字经济", "act", "assessment", "brain", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "neuroscience/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "neuroscience/productivity/sexuality"
+
+---
 # 数字经济 | Digital Economy
 
 > **数字经济（Digital Economy）** 是以数字技术为基础，以数据为关键生产要素，以数字平台为主要组织形式的新型经济形态。它涵盖数字产业化、产业数字化、数据价值化和数字化治理四大板块，正在深刻重塑全球产业格局、商业模式和社会治理方式。本文档系统梳理数字经济的核心概念、理论框架、产业生态和前沿趋势，为数字经济研究者、政策制定者和企业管理者提供全面的知识参考。

@@ -1,3 +1,31 @@
+---
+
+title: "Foot Fetishism (恋足癖专业指南)"
+description: "Foot Fetishism (恋足癖专业指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["addiction", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Foot Fetishism"
+  - "Foot Fetishism的核心概念"
+  - "Foot Fetishism的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Overview_Full.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/exercise/neuroscience"
+
+---
 # Foot Fetishism (恋足癖专业指南)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋足癖的专业内容。相关主题请参考：

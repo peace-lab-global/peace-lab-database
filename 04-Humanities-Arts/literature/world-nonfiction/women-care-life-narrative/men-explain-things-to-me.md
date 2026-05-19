@@ -1,3 +1,31 @@
+---
+
+title: "《男人向我解释事情》Men Explain Things to Me"
+description: "《男人向我解释事情》Men Explain Things to Me的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["self-confidence", "social", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《男人向我解释事情》Men Explain Things to Me"
+  - "《男人向我解释事情》Men Explain Things to Me的核心概念"
+  - "《男人向我解释事情》Men Explain Things to Me的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "self-confidence"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "attachment/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "attachment/emotion/exercise"
+
+---
 # 《男人向我解释事情》Men Explain Things to Me
 
 **作者**：丽贝卡·索尔尼特 (Rebecca Solnit)  

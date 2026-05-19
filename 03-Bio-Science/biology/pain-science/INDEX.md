@@ -1,3 +1,31 @@
+---
+
+title: "疼痛科学 | Pain Science"
+description: "疼痛科学 | Pain Science的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 疼痛科学"
+tags: ["cbt", "hpa-axis", "mbsr", "mindfulness", "neuroscience", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是疼痛科学 | Pain Science"
+  - "疼痛科学 | Pain Science的核心概念"
+  - "疼痛科学 | Pain Science的方法与实践"
+trigger_keywords: ["疼痛科学", "act", "assessment", "cbt", "hpa-axis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/daoism/meditation"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 疼痛科学 | Pain Science
 
 > 理解疼痛，是管理疼痛的第一步。

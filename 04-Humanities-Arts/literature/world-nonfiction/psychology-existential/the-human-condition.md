@@ -1,3 +1,31 @@
+---
+
+title: "《人的境况》书评"
+description: "《人的境况》书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["decision-making", "literature", "loneliness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人的境况》书评"
+  - "《人的境况》书评的核心概念"
+  - "《人的境况》书评的方法与实践"
+trigger_keywords: ["《人的境况》书评", "act", "body", "death", "decision-making"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "communication/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/sexuality"
+
+---
 # 《人的境况》书评
 
 **书名**: The Human Condition  

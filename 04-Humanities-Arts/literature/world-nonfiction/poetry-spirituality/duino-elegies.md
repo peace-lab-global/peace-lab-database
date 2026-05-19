@@ -1,3 +1,31 @@
+---
+
+title: "《杜伊诺哀歌》Duino Elegies"
+description: "《杜伊诺哀歌》Duino Elegies的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["music", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《杜伊诺哀歌》Duino Elegies"
+  - "《杜伊诺哀歌》Duino Elegies的核心概念"
+  - "《杜伊诺哀歌》Duino Elegies的方法与实践"
+trigger_keywords: ["death", "music", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/sexuality"
+
+---
 # 《杜伊诺哀歌》Duino Elegies
 
 > 赖内·马利亚·里尔克（Rainer Maria Rilke）著，1922年出版（完成）。里尔克从1912年开始在杜伊诺城堡写下这些 elegies，经历了十年的酝酿和战争的中断，最终在1922年的一次"诗歌爆发"中完成。十首 elegies 探索了天使、美、死亡、爱和存在的意义，是德语诗歌的巅峰之作。

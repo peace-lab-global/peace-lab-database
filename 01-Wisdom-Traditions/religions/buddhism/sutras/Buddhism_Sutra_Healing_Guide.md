@@ -1,3 +1,31 @@
+---
+
+title: "佛教经典疗愈导读 (Buddhist Sutras Healing Guide)"
+description: "佛教经典疗愈导读 (Buddhist Sutras Healing Guide)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教经典疗愈导读"
+  - "佛教经典疗愈导读的核心概念"
+  - "佛教经典疗愈导读的方法与实践"
+trigger_keywords: ["佛教经典疗愈导读", "anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # 佛教经典疗愈导读 (Buddhist Sutras Healing Guide)
 
 > **佛教经典 (Buddhist Sutras)**：记载佛陀教法的圣典，包含丰富的心理疗愈智慧，从般若空慧到慈悲观修，为现代人提供系统的心灵转化资源。

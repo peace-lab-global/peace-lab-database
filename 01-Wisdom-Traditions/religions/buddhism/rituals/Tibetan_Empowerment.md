@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)"
+description: "藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "dzogchen", "healing", "mandala", "self-confidence"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教灌顶仪轨"
+  - "藏传佛教灌顶仪轨的核心概念"
+  - "藏传佛教灌顶仪轨的方法与实践"
+trigger_keywords: ["藏传佛教灌顶仪轨", "act", "buddhism", "dzogchen", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "buddhism/sexuality/therapy"
+
+---
 # 藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)
 
 > **灌顶 (Abhiseka / Wang)**：藏传佛教密乘的入门仪式，是修持密法的必要前提。通过上师的仪式性传授，弟子获得修持特定本尊法的资格与加持。灌顶不仅是形式，更是心性的开启。

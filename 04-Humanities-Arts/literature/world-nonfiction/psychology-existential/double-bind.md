@@ -1,3 +1,31 @@
+---
+
+title: "《双重束缚》The Double Bind"
+description: "《双重束缚》The Double Bind的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["spirituality", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《双重束缚》The Double Bind"
+  - "《双重束缚》The Double Bind的核心概念"
+  - "《双重束缚》The Double Bind的方法与实践"
+trigger_keywords: ["brain", "communication", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 《双重束缚》The Double Bind
 
 > 格雷戈里·贝特森（Gregory Bateson）等著，1956年（论文）。贝特森和他的研究团队提出了"双重束缚"理论——一种导致精神分裂症的沟通模式。虽然这个理论后来被修正和扩展，但它在20世纪中叶彻底改变了我们对"疯狂"的理解。

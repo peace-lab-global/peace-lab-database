@@ -1,3 +1,31 @@
+---
+
+title: "神经工程 | Neurotechnology"
+description: "神经工程 | Neurotechnology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["bci", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是神经工程 | Neurotechnology"
+  - "神经工程 | Neurotechnology的核心概念"
+  - "神经工程 | Neurotechnology的方法与实践"
+trigger_keywords: ["神经工程", "bci", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "communication/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "communication/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
+    relation: "communication/depression/emotion"
+
+---
 # 神经工程 | Neurotechnology
 
 > **神经工程**（Neurotechnology）融合神经科学、工程学和计算机科学，开发与大脑交互的技术系统。TED平台上关于神经工程的演讲展示了脑机接口、神经假体、深脑刺激和神经影像技术的突破性进展，以及这些技术对人类身份、自主性和社会的深远伦理影响。

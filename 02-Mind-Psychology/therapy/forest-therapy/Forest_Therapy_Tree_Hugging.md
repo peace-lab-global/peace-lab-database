@@ -1,3 +1,31 @@
+---
+
+title: "Forest Therapy & Tree Hugging (森林疗愈与抱树疗法)"
+description: "Forest Therapy & Tree Hugging (森林疗愈与抱树疗法)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Forest Therapy"
+tags: ["anxiety", "attachment", "brain", "cardiovascular", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Forest Therapy & Tree Hugging"
+  - "Forest Therapy & Tree Hugging的核心概念"
+  - "Forest Therapy & Tree Hugging的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Forest Therapy & Tree Hugging (森林疗愈与抱树疗法)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

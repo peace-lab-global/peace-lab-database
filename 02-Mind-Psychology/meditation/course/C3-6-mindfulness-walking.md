@@ -1,3 +1,31 @@
+---
+
+title: "C3-6 正念行走"
+description: "C3-6 正念行走的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-6 正念行走"
+  - "C3-6 正念行走的核心概念"
+  - "C3-6 正念行走的方法与实践"
+trigger_keywords: ["C3-6 正念行走", "body", "breathwork", "emotion", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/productivity"
+
+---
 # C3-6 正念行走
 
 📑 智能总结

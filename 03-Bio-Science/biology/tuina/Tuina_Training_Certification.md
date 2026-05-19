@@ -1,3 +1,31 @@
+---
+
+title: "中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)"
+description: "中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Tuina"
+tags: ["leadership"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中医推拿技术培训与认证体系"
+  - "中医推拿技术培训与认证体系的核心概念"
+  - "中医推拿技术培训与认证体系的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "child", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/asana-library/seated-poses.md"
+    relation: "communication/exercise/pain"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
+    relation: "communication/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "communication/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/exercise/pain"
+
+---
 # 中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)
 
 > 🎓 **专业人才培养**: 本文档构建系统化的中医推拿人才培养体系，涵盖从基础教育到高级研修的完整培训路径，建立科学的资质认证标准，确保推拿从业人员具备扎实的理论基础和精湛的实践技能。

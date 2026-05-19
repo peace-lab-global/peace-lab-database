@@ -1,3 +1,32 @@
+---
+
+title: "心流核心理论 (Flow State: Core Theory)"
+description: "心流核心理论 (Flow State: Core Theory)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 心流"
+tags: ["addiction", "flow"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是心流核心理论"
+  - "心流核心理论的核心概念"
+  - "心流核心理论的方法与实践"
+  - "心流核心理论的自助方法"
+trigger_keywords: ["心流核心理论", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 心流核心理论 (Flow State: Core Theory)
 
 ## 目录 (Table of Contents)

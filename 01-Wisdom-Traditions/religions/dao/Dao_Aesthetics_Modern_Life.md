@@ -1,3 +1,31 @@
+---
+
+title: "Dao in Modern Life (道家美学与现代生活)"
+description: "Dao in Modern Life (道家美学与现代生活)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["calligraphy", "daoism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dao in Modern Life"
+  - "Dao in Modern Life的核心概念"
+  - "Dao in Modern Life的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "calligraphy"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/daoism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/communication/daoism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Terminology_Dictionary.md"
+    relation: "anxiety/communication/daoism"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # Dao in Modern Life (道家美学与现代生活)
 
 ### Taoist Aesthetic Values (道家美学核心价值观表)

@@ -1,3 +1,31 @@
+---
+
+title: "Clinical Applications (心理实践应用案例)"
+description: "Clinical Applications (心理实践应用案例)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["addiction", "anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Clinical Applications"
+  - "Clinical Applications的核心概念"
+  - "Clinical Applications的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "README.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # Clinical Applications (心理实践应用案例)
 
 ## 职场心理学危机干预体系

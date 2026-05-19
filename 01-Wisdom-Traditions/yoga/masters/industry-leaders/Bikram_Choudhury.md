@@ -1,3 +1,31 @@
+---
+
+title: "比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）"
+description: "比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）"
+  - "比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）的核心概念"
+  - "比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）的方法与实践"
+trigger_keywords: ["比克拉姆", "act", "breathwork", "sexuality", "spirituality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "pain/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+    relation: "pain/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "pain/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "pain/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md"
+    relation: "pain/sexuality/therapy"
+
+---
 # 比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）
 
 > 热瑜伽帝国的缔造者——从瑜伽冠军到性侵被告的陨落

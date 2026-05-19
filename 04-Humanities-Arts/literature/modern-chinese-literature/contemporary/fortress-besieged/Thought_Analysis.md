@@ -1,3 +1,31 @@
+---
+
+title: "《围城》核心思想与观点分析"
+description: "《围城》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
+tags: ["marriage", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《围城》核心思想与观点分析"
+  - "《围城》核心思想与观点分析的核心概念"
+  - "《围城》核心思想与观点分析的方法与实践"
+trigger_keywords: ["marriage", "sexuality", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+
+---
 # 《围城》核心思想与观点分析
 
 ## 一、围城——钱钟书的终极隐喻

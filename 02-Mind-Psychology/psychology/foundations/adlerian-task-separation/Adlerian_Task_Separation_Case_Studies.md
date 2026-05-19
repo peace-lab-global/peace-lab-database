@@ -1,3 +1,31 @@
+---
+
+title: "课题分离：案例分析与实践指导 (Separation of Tasks: Case Studies & Practice Guidance)"
+description: "课题分离：案例分析与实践指导 (Separation of Tasks: Case Studies & Practice Guidance)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Adlerian Task Separation"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是课题分离：案例分析与实践指导"
+  - "课题分离：案例分析与实践指导的核心概念"
+  - "课题分离：案例分析与实践指导的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 课题分离：案例分析与实践指导 (Separation of Tasks: Case Studies & Practice Guidance)
 
 > **定位说明**：本文档提供课题分离在不同心理问题情境下的详细案例分析、治疗过程记录、效果评估和分领域实践指导手册，面向心理咨询师的临床督导和自我提升。

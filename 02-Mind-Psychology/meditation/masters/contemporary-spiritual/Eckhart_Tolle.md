@@ -1,3 +1,31 @@
+---
+
+title: "艾克哈特·托利 (Eckhart Tolle)"
+description: "艾克哈特·托利 (Eckhart Tolle)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
+tags: ["anxiety", "daoism", "depression", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是艾克哈特·托利"
+  - "艾克哈特·托利的核心概念"
+  - "艾克哈特·托利的方法与实践"
+trigger_keywords: ["艾克哈特", "托利", "act", "anxiety", "body", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "anxiety/daoism/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/depression"
+
+---
 # 艾克哈特·托利 (Eckhart Tolle)
 
 > "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life."

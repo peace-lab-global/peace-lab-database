@@ -1,3 +1,31 @@
+---
+
+title: "性教育文档质量标准与一致性检查体系 (Quality Standards and Consistency Check System for Sexuality Education Documentation)"
+description: "性教育文档质量标准与一致性检查体系 (Quality Standards and Consistency Check System for Sexuality Education Documentation)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Quality"
+tags: ["positive-psychology"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性教育文档质量标准与一致性检查体系"
+  - "性教育文档质量标准与一致性检查体系的核心概念"
+  - "性教育文档质量标准与一致性检查体系的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # 性教育文档质量标准与一致性检查体系 (Quality Standards and Consistency Check System for Sexuality Education Documentation)
 
 > 📋 **标准定位**: 建立严格的文档质量控制体系和一致性检查机制，确保所有性教育相关文档达到专业学术标准，在内容准确性、结构完整性、语言规范性、引用可靠性等方面保持高度一致性。为文档创作、审核、更新和维护提供标准化的质量保障框架。

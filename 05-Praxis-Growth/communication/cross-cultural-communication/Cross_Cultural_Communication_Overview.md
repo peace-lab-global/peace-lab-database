@@ -1,3 +1,31 @@
+---
+
+title: "跨文化沟通概述 | Cross-Cultural Communication Overview"
+description: "跨文化沟通概述 | Cross-Cultural Communication Overview的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > Cross Cultural Communication"
+tags: ["communication", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是跨文化沟通概述 | Cross-Cultural Communication Overview"
+  - "跨文化沟通概述 | Cross-Cultural Communication Overview的核心概念"
+  - "跨文化沟通概述 | Cross-Cultural Communication Overview的方法与实践"
+trigger_keywords: ["跨文化沟通概述", "aging", "behavioral", "communication", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/communication/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "aging/communication/productivity"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "aging/communication/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "aging/communication/productivity"
+
+---
 # 跨文化沟通概述 | Cross-Cultural Communication Overview
 
 > 跨文化沟通(Cross-Cultural Communication / Intercultural Communication)研究不同文化背景的人之间的信息交换过程。从Edward T. Hall对高语境与低语境文化的区分,到Geert Hofstede的文化维度理论,再到中国特有的面子(Face)与关系(Guanxi)网络,理解文化差异已成为全球化时代不可或缺的核心能力。本概述整合经典理论与当代实践,帮助读者建立系统的跨文化沟通能力框架。

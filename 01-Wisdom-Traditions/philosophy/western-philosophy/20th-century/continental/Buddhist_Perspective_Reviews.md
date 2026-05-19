@@ -1,3 +1,31 @@
+---
+
+title: "20世纪哲学经典 · 佛法视角三方书评"
+description: "20世纪哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Continental"
+tags: ["buddhism", "mindfulness", "philosophy", "religion", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是20世纪哲学经典 · 佛法视角三方书评"
+  - "20世纪哲学经典 · 佛法视角三方书评的核心概念"
+  - "20世纪哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["20世纪哲学经典", "佛法视角三方书评", "anxiety", "buddhism", "death", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-miracle-of-mindfulness.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 20世纪哲学经典 · 佛法视角三方书评
 
 ---

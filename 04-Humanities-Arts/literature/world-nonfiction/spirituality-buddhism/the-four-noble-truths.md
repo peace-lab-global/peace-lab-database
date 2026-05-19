@@ -1,3 +1,31 @@
+---
+
+title: "《四圣谛》The Four Noble Truths"
+description: "《四圣谛》The Four Noble Truths的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《四圣谛》The Four Noble Truths"
+  - "《四圣谛》The Four Noble Truths的核心概念"
+  - "《四圣谛》The Four Noble Truths的方法与实践"
+trigger_keywords: ["breathwork", "buddhism", "emotion", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 《四圣谛》The Four Noble Truths
 
 >  阿姜·苏吉瓦（Ajahn Sumedho）著，1992年出版。美国出生的泰国森林传统僧侣，将上座部佛教的核心教导——四圣谛——转化为适合西方修行者理解的现代语言。这本书基于他在英国阿玛拉瓦蒂寺的开示。

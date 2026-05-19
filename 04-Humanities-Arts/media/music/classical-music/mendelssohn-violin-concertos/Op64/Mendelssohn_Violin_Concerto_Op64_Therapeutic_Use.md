@@ -1,3 +1,32 @@
+---
+
+title: "门德尔松e小调小提琴协奏曲治疗应用实践"
+description: "门德尔松e小调小提琴协奏曲治疗应用实践的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Violin Concertos > Op64"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是门德尔松e小调小提琴协奏曲治疗应用实践"
+  - "门德尔松e小调小提琴协奏曲治疗应用实践的核心概念"
+  - "门德尔松e小调小提琴协奏曲治疗应用实践的方法与实践"
+  - "门德尔松e小调小提琴协奏曲治疗应用实践的循证证据"
+trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+
+---
 # 门德尔松e小调小提琴协奏曲治疗应用实践
 
 ## 心理治疗理论框架

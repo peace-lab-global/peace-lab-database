@@ -1,3 +1,31 @@
+---
+
+title: "婚姻冲突的神经科学 (Neuroscience of Marital Conflict)"
+description: "婚姻冲突的神经科学 (Neuroscience of Marital Conflict)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "brain", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是婚姻冲突的神经科学"
+  - "婚姻冲突的神经科学的核心概念"
+  - "婚姻冲突的神经科学的方法与实践"
+trigger_keywords: ["婚姻冲突的神经科学", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 婚姻冲突的神经科学 (Neuroscience of Marital Conflict)
 
 婚姻冲突不仅是心理和社会现象，更是深刻的神经生物学事件。当伴侣陷入争吵时，大脑经历着一系列精密而剧烈的神经化学变化——杏仁核发出警报、皮质醇洪流涌入血液、前额叶皮质的理性调控被压制。理解这些机制，不是为了给冲突找借口，而是为了**从生物学层面找到更精确的干预杠杆**。当我们知道情感淹没发生在心率超过100次/分钟时，"冲突中暂停20分钟"就不再是一个笼统的建议，而是一个有神经科学依据的精确处方。

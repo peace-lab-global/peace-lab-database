@@ -1,3 +1,32 @@
+---
+
+title: "睡眠焦虑"
+description: "睡眠焦虑的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "habits", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是睡眠焦虑"
+  - "睡眠焦虑的核心概念"
+  - "睡眠焦虑的方法与实践"
+  - "睡眠焦虑的自助方法"
+trigger_keywords: ["睡眠焦虑", "anxiety", "body", "breathwork", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Overview.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 睡眠焦虑
 
 ## 目录

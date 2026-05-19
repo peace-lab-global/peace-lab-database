@@ -1,3 +1,31 @@
+---
+
+title: "脏腑经络理论 | Zang-Fu Organs and Meridian Theory"
+description: "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的详细解析与实践指南"
+category: "智慧传承 > 中医内经"
+tags: ["cortisol", "gut", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是脏腑经络理论 | Zang-Fu Organs and Meridian Theory"
+  - "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的核心概念"
+  - "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的方法与实践"
+trigger_keywords: ["脏腑经络理论", "brain", "breathwork", "clinical", "cortisol"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Somatization.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Male_Anatomy_Physiology.md"
+    relation: "cardiovascular/communication/exercise"
+
+---
 # 脏腑经络理论 | Zang-Fu Organs and Meridian Theory
 
 > "心者，君主之官也，神明出焉。肺者，相傅之官，治节出焉。肝者，将军之官，谋虑出焉。"

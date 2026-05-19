@@ -1,3 +1,21 @@
+---
+
+title: "intellectual-disability-psychosis | Index"
+description: "intellectual-disability-psychosis | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Intellectual Disability Psychosis"
+tags: ["treatment", "临床心理", "心理学", "精神障碍"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是intellectual-disability-psychosis | Index"
+  - "intellectual-disability-psychosis | Index的核心概念"
+  - "intellectual-disability-psychosis | Index的方法与实践"
+trigger_keywords: ["Index", "assessment", "treatment", "临床心理", "心理学"]
+cross_refs: []
+
+---
 # intellectual-disability-psychosis | Index
 
 ## 内容索引 | Contents

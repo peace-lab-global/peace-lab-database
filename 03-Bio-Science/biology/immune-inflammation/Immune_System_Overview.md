@@ -1,3 +1,31 @@
+---
+
+title: "免疫系统总览 (Immune System Overview)"
+description: "免疫系统总览 (Immune System Overview)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
+tags: ["aging", "cortisol", "exercise", "gut", "inflammation", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是免疫系统总览"
+  - "免疫系统总览的核心概念"
+  - "免疫系统总览的方法与实践"
+trigger_keywords: ["免疫系统总览", "act", "aging", "assessment", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/emotion/exercise"
+
+---
 # 免疫系统总览 (Immune System Overview)
 
 > **领域定位**: 03-Bio-Science / biology / immune-inflammation

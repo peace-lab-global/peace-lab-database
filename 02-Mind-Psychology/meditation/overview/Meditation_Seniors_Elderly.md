@@ -1,3 +1,31 @@
+---
+
+title: "老年冥想指南 | Meditation for Seniors and Elderly"
+description: "老年冥想指南 | Meditation for Seniors and Elderly的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "cardiovascular", "mbsr"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是老年冥想指南 | Meditation for Seniors and Elderly"
+  - "老年冥想指南 | Meditation for Seniors and Elderly的核心概念"
+  - "老年冥想指南 | Meditation for Seniors and Elderly的方法与实践"
+trigger_keywords: ["老年冥想指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 老年冥想指南 | Meditation for Seniors and Elderly
 
 > **文档类型**: 特殊人群应用指南 | Special Population Guide

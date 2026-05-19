@@ -1,3 +1,32 @@
+---
+
+title: "阿毗达摩心理学 (Abhidhamma Psychology)"
+description: "阿毗达摩心理学 (Abhidhamma Psychology)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
+tags: ["addiction", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是阿毗达摩心理学"
+  - "阿毗达摩心理学的核心概念"
+  - "阿毗达摩心理学的方法与实践"
+  - "阿毗达摩心理学的自助方法"
+trigger_keywords: ["阿毗达摩心理学", "act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 阿毗达摩心理学 (Abhidhamma Psychology)
 
 > **阿毗达摩 (Abhidhamma)**：上座部佛教最精密的心理-哲学分析系统，对心(Citta)、心所(Cetasika)、色法(Rūpa)及涅槃进行穷尽性分类，被誉为"佛教心理学的原子论"。

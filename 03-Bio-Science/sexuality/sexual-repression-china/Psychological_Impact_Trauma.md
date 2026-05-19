@@ -1,3 +1,32 @@
+---
+
+title: "性压抑的心理学影响与创伤 (Psychological Impact and Trauma of Sexual Repression)"
+description: "性压抑的心理学影响与创伤 (Psychological Impact and Trauma of Sexual Repression)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是性压抑的心理学影响与创伤"
+  - "性压抑的心理学影响与创伤的核心概念"
+  - "性压抑的心理学影响与创伤的方法与实践"
+  - "性压抑的心理学影响与创伤的自助方法"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # 性压抑的心理学影响与创伤 (Psychological Impact and Trauma of Sexual Repression)
 
 > 📘 **文档导航**: 本专题深入分析性压抑对个体心理发展的深远影响和创伤机制。如需了解其他相关内容，请参考：

@@ -1,3 +1,32 @@
+---
+
+title: "中国社会性焦虑的社会学分析"
+description: "中国社会性焦虑的社会学分析的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性焦虑的社会学分析"
+  - "中国社会性焦虑的社会学分析的核心概念"
+  - "中国社会性焦虑的社会学分析的方法与实践"
+  - "中国社会性焦虑的社会学分析的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "behavioral", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 中国社会性焦虑的社会学分析
 
 ## 性别不平等的结构性分析

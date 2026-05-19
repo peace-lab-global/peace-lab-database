@@ -6,6 +6,17 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
+cross_refs:
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/body_image/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/body_image/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/depression/emotion"
 ---
 
 # 肥胖羞耻：专项研究与临床干预

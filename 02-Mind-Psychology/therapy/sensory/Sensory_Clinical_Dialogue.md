@@ -1,3 +1,31 @@
+---
+
+title: "Clinical Interview/Dialogue (深层访谈与对话技术)"
+description: "Clinical Interview/Dialogue (深层访谈与对话技术)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["phobia", "resilience", "treatment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Clinical Interview/Dialogue"
+  - "Clinical Interview/Dialogue的核心概念"
+  - "Clinical Interview/Dialogue的方法与实践"
+trigger_keywords: ["Dialogue", "clinical", "cognitive", "emotion", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Parmenides.md"
+    relation: "anxiety/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/emotion/sexuality"
+
+---
 # Clinical Interview/Dialogue (深层访谈与对话技术)
 
 ### Clinical Interviewing Models (临床访谈模型对比分析表)

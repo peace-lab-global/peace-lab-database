@@ -1,3 +1,31 @@
+---
+
+title: "伊斯兰哲学经典 · 佛法视角三方书评"
+description: "伊斯兰哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Islamic"
+tags: ["buddhism", "habits", "philosophy", "religion", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伊斯兰哲学经典 · 佛法视角三方书评"
+  - "伊斯兰哲学经典 · 佛法视角三方书评的核心概念"
+  - "伊斯兰哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["伊斯兰哲学经典", "佛法视角三方书评", "behavioral", "buddhism", "cognitive", "habits"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/korean-seon/Korean_Seon_Practical.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 伊斯兰哲学经典 · 佛法视角三方书评
 
 > 以大乘佛教——尤其龙树中观学——为对照坐标系，重新审视安萨里（Al-Ghazali, 1058–1111）的三部核心著作。

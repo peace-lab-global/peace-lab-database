@@ -1,3 +1,31 @@
+---
+
+title: "中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)"
+description: "中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["aging", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是中国社会性压抑形成机制分析"
+  - "中国社会性压抑形成机制分析的核心概念"
+  - "中国社会性压抑形成机制分析的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)
 
 > 📘 **文档导航**: 本专题采用BPST多维度模型系统分析中国社会性压抑的形成机制。如需了解其他相关内容，请参考：

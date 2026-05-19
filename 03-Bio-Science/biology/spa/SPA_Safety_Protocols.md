@@ -1,3 +1,31 @@
+---
+
+title: "SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)"
+description: "SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa"
+tags: ["brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是SPA Safety Protocols & Contraindications"
+  - "SPA Safety Protocols & Contraindications的核心概念"
+  - "SPA Safety Protocols & Contraindications的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/_manifest.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)
 
 > ⚠️ **安全概览**: 本文档提供SPA服务全过程的安全管理规范和禁忌症清单，基于医疗安全标准制定操作规程，确保客户在接受SPA服务时的安全性和有效性。所有从业人员必须严格遵守安全规范。

@@ -1,3 +1,31 @@
+---
+
+title: "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）"
+description: "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Tibetan"
+tags: ["meditation", "spirituality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）"
+  - "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的核心概念"
+  - "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "buddhism", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）
 
 > 将藏传佛教冥想带入西方知识界的争议性天才

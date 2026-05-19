@@ -1,3 +1,31 @@
+---
+
+title: "六祖大师法宝坛经"
+description: "六祖大师法宝坛经的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "tai-chi", "zen", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是六祖大师法宝坛经"
+  - "六祖大师法宝坛经的核心概念"
+  - "六祖大师法宝坛经的方法与实践"
+trigger_keywords: ["六祖大师法宝坛经", "buddhism", "sexuality", "tai-chi", "zen"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md"
+    relation: "art_therapy/buddhism/daoism"
+
+---
 # 六祖大师法宝坛经
 
 ## 基本信息

@@ -1,3 +1,31 @@
+---
+
+title: "容器化技术 (Containment Techniques)"
+description: "容器化技术 (Containment Techniques)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Containment Techniques"
+tags: ["anxiety", "attachment", "emdr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是容器化技术"
+  - "容器化技术的核心概念"
+  - "容器化技术的方法与实践"
+trigger_keywords: ["容器化技术", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Neuroscience_Biology.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 容器化技术 (Containment Techniques)
 
 ## 核心术语表 (Core Terminology)

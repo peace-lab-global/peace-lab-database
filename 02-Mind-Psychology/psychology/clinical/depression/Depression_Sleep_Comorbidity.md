@@ -1,3 +1,31 @@
+---
+
+title: "Depression & Sleep Disorders Comorbidity (抑郁症与睡眠障碍交叉专题)"
+description: "Depression & Sleep Disorders Comorbidity (抑郁症与睡眠障碍交叉专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "cbt", "depression", "sleep", "insomnia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Depression & Sleep Disorders Comorbidity"
+  - "Depression & Sleep Disorders Comorbidity的核心概念"
+  - "Depression & Sleep Disorders Comorbidity的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+
+---
 # Depression & Sleep Disorders Comorbidity (抑郁症与睡眠障碍交叉专题)
 
 > **抑郁症与睡眠障碍共病 (Depression-Sleep Comorbidity)**

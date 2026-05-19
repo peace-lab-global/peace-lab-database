@@ -1,3 +1,31 @@
+---
+
+title: "未来学研究 | Futures Studies"
+description: "未来学研究 | Futures Studies的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是未来学研究 | Futures Studies"
+  - "未来学研究 | Futures Studies的核心概念"
+  - "未来学研究 | Futures Studies的方法与实践"
+trigger_keywords: ["未来学研究", "act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "communication/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 未来学研究 | Futures Studies
 
 > **未来学**（Futures Studies）是系统性探索和塑造未来的跨学科领域——从技术预测（Technology Forecasting）到情景规划（Scenario Planning），从战略预见（Strategic Foresight）到回溯预测（Backcasting）。未来学不是预言，而是帮助人类在不确定性中做出更明智的选择。本文件精选TED平台上关于未来学研究的代表性演讲，帮助读者理解如何系统性地思考未来。

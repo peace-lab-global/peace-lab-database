@@ -1,3 +1,31 @@
+---
+
+title: "Transcendental Meditation (超觉静坐)"
+description: "Transcendental Meditation (超觉静坐)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Transcendental Meditation"
+tags: ["anxiety", "brain", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Transcendental Meditation"
+  - "Transcendental Meditation的核心概念"
+  - "Transcendental Meditation的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/anxiety/meditation"
+
+---
 # Transcendental Meditation (超觉静坐)
 
 ## 核心术语表 (Core Terminology)

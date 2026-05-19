@@ -1,3 +1,31 @@
+---
+
+title: "《禅宗手册》Manual of Zen Buddhism"
+description: "《禅宗手册》Manual of Zen Buddhism的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["calligraphy", "habits", "jung"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《禅宗手册》Manual of Zen Buddhism"
+  - "《禅宗手册》Manual of Zen Buddhism的核心概念"
+  - "《禅宗手册》Manual of Zen Buddhism的方法与实践"
+trigger_keywords: ["anxiety", "art", "buddhism", "calligraphy"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 《禅宗手册》Manual of Zen Buddhism
 
 > 铃木大拙（D.T. Suzuki，1870-1966）著，1935年出版。日本佛教学者、翻译家，被誉为"将禅宗引入西方世界的第一人"。他在明治时期学习英语和西方哲学，后赴美国居住多年，以英语撰写和翻译了大量佛教文献，在西方学术界和思想界产生了深远影响。他的听众和读者包括心理学家卡尔·荣格、哲学家马丁·海德格尔、作家杰克·凯鲁亚克等。《禅宗手册》是他最系统的英文著作之一，试图以西方读者可以理解的方式呈现禅宗的全貌。

@@ -1,3 +1,31 @@
+---
+
+title: "阿尔贝·加缪 (Albert Camus) - 哲学思想全览"
+description: "阿尔贝·加缪 (Albert Camus) - 哲学思想全览的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
+tags: ["philosophy", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阿尔贝·加缪  - 哲学思想全览"
+  - "阿尔贝·加缪  - 哲学思想全览的核心概念"
+  - "阿尔贝·加缪  - 哲学思想全览的方法与实践"
+trigger_keywords: ["阿尔贝", "anxiety", "art", "death", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_19_Social_Community.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/death/depression"
+
+---
 # 阿尔贝·加缪 (Albert Camus) - 哲学思想全览
 
 ## 基本信息

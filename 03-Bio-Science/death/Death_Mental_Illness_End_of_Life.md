@@ -1,3 +1,31 @@
+---
+
+title: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)"
+description: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["cardiovascular", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Mental Illness & End-of-Life Care"
+  - "Mental Illness & End-of-Life Care的核心概念"
+  - "Mental Illness & End-of-Life Care的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Safety_Management.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+
+---
 # Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)
 
 > *"精神疾病不是临终关怀的排除标准，而是需要更细致、更人性化的照护信号。"*

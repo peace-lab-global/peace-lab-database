@@ -1,3 +1,31 @@
+---
+
+title: "中医经典原文 (Traditional Chinese Medicine Classics)"
+description: "中医经典原文 (Traditional Chinese Medicine Classics)的详细解析与实践指南"
+category: "智慧传承 > 中医内经 > Classics"
+tags: ["treatment", "中医内经"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中医经典原文"
+  - "中医经典原文的核心概念"
+  - "中医经典原文的方法与实践"
+trigger_keywords: ["中医经典原文", "act", "clinical", "sexuality", "treatment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+    relation: "sexuality/therapy"
+
+---
 # 中医经典原文 (Traditional Chinese Medicine Classics)
 
 本目录收录中医核心经典原文，为研习中医基础理论与临床实践提供可靠的经典依据。

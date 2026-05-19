@@ -1,3 +1,31 @@
+---
+
+title: "六妙法门"
+description: "六妙法门的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["sleep", "buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是六妙法门"
+  - "六妙法门的核心概念"
+  - "六妙法门的方法与实践"
+trigger_keywords: ["六妙法门", "body", "breathwork", "sexuality", "sleep"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Applications.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 六妙法门
 
 ## 基本信息

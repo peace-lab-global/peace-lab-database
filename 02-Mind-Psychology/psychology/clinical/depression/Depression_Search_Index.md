@@ -1,3 +1,31 @@
+---
+
+title: "Depression Topic Search Index (抑郁专题全文检索索引)"
+description: "Depression Topic Search Index (抑郁专题全文检索索引)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
+tags: ["anxiety", "brain", "cbt", "depression", "bipolar"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是Depression Topic Search Index"
+  - "Depression Topic Search Index的核心概念"
+  - "Depression Topic Search Index的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics.md"
+    relation: "aging/anxiety/depression"
+
+---
 # Depression Topic Search Index (抑郁专题全文检索索引)
 
 > 本索引由自动化脚本生成，汇总抑郁专题下所有文档的标题、结构和关键术语，便于快速定位内容。

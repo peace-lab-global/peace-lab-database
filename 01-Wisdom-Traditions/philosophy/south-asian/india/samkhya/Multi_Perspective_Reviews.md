@@ -1,3 +1,31 @@
+---
+
+title: "数论哲学经典三方书评"
+description: "数论哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Samkhya"
+tags: ["buddhism", "meditation", "philosophy", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数论哲学经典三方书评"
+  - "数论哲学经典三方书评的核心概念"
+  - "数论哲学经典三方书评的方法与实践"
+trigger_keywords: ["数论哲学经典三方书评", "anxiety", "body", "buddhism", "death"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+  - path: "README.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 数论哲学经典三方书评
 
 > **迦毗罗 (Kapila)** — 数论派(Sāṃkhya)创始人

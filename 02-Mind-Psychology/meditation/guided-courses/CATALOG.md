@@ -1,3 +1,31 @@
+---
+
+title: "冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog"
+description: "冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["addiction", "anxiety", "attachment", "mbsr", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog"
+  - "冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog的核心概念"
+  - "冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 冥想引导词专业课程库总览 | Professional Guided Meditation Course Catalog
 
 > **领域**：专业冥想执行师引导词与课程交付库

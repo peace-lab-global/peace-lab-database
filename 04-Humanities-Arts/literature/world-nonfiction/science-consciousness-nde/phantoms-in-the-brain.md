@@ -1,3 +1,31 @@
+---
+
+title: "《脑中魅影》Phantoms in the Brain"
+description: "《脑中魅影》Phantoms in the Brain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["decision-making", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《脑中魅影》Phantoms in the Brain"
+  - "《脑中魅影》Phantoms in the Brain的核心概念"
+  - "《脑中魅影》Phantoms in the Brain的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "exercise/neuroscience/pain"
+
+---
 # 《脑中魅影》Phantoms in the Brain
 
 **作者**：V.S. 拉马钱德兰 (V.S. Ramachandran) & 桑德拉·布莱克斯利 (Sandra Blakeslee)  

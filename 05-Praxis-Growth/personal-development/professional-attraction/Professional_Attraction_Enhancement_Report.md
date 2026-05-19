@@ -1,3 +1,31 @@
+---
+
+title: "Professional Attraction Psychology Content System Enhancement Report (职业吸引心理学内容体系增强报告)"
+description: "Professional Attraction Psychology Content System Enhancement Report (职业吸引心理学内容体系增强报告)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction"
+tags: ["intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Professional Attraction Psychology Content System Enhancement Report"
+  - "Professional Attraction Psychology Content System Enhancement Report的核心概念"
+  - "Professional Attraction Psychology Content System Enhancement Report的方法与实践"
+trigger_keywords: ["act", "assessment", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "neuroscience/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
+    relation: "neuroscience/sexuality/therapy"
+
+---
 # Professional Attraction Psychology Content System Enhancement Report (职业吸引心理学内容体系增强报告)
 
 > 📊 **报告日期**: 2026年2月5日  

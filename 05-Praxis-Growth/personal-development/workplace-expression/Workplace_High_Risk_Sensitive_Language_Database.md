@@ -1,3 +1,31 @@
+---
+
+title: "高风险敏感语料数据库 (High-Risk Sensitive Language Database)"
+description: "高风险敏感语料数据库 (High-Risk Sensitive Language Database)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["leadership", "social", "suicide", "个人发展"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是高风险敏感语料数据库"
+  - "高风险敏感语料数据库的核心概念"
+  - "高风险敏感语料数据库的方法与实践"
+trigger_keywords: ["高风险敏感语料数据库", "act", "assessment", "leadership", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
+    relation: "communication/depression/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/depression/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/depression/exercise"
+
+---
 # 高风险敏感语料数据库 (High-Risk Sensitive Language Database)
 
 > **定位**：面向内容安全、审核治理、数据标注与算法训练场景，构建一个可检索、可扩展、可交叉引用的高风险敏感语料数据库

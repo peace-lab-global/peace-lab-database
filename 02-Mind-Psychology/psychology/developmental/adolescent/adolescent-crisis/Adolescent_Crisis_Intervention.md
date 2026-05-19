@@ -1,3 +1,31 @@
+---
+
+title: "Adolescent Psychological Crisis Intervention (青少年心理危机干预)"
+description: "Adolescent Psychological Crisis Intervention (青少年心理危机干预)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Crisis"
+tags: ["anxiety", "attachment", "brain", "depression", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Adolescent Psychological Crisis Intervention"
+  - "Adolescent Psychological Crisis Intervention的核心概念"
+  - "Adolescent Psychological Crisis Intervention的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Adolescent Psychological Crisis Intervention (青少年心理危机干预)
 
 ## 核心术语表 (Core Terminology)

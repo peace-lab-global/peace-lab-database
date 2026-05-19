@@ -1,3 +1,32 @@
+---
+
+title: "腰痛心理学专业内容体系"
+description: "腰痛心理学专业内容体系的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Lower Back Pain"
+tags: ["brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是腰痛心理学专业内容体系"
+  - "腰痛心理学专业内容体系的核心概念"
+  - "腰痛心理学专业内容体系的方法与实践"
+  - "腰痛心理学专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Mind_Management.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 腰痛心理学专业内容体系
 
 ## 目录

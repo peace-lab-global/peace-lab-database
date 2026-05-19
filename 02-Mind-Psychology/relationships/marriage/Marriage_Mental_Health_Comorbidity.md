@@ -1,3 +1,32 @@
+---
+
+title: "心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)"
+description: "心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["addiction", "anxiety", "attachment", "brain", "depression", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是心理障碍与婚姻冲突的共病关系"
+  - "心理障碍与婚姻冲突的共病关系的核心概念"
+  - "心理障碍与婚姻冲突的共病关系的方法与实践"
+  - "心理障碍与婚姻冲突的共病关系的自助方法"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)
 
 心理障碍与婚姻质量之间存在着深刻的**双向因果关系(Bidirectional Causality)**。这不是简单的"一方导致另一方"，而是一个动态的、相互放大的反馈回路。抑郁症可以侵蚀夫妻间的温暖与亲密，而慢性婚姻冲突同样能成为抑郁发作的可靠预测因子。焦虑障碍中的过度担忧与反复寻求确认(Reassurance-Seeking)消耗伴侣的耐心，而伴侣的不耐烦又加剧了焦虑者的不安全感。PTSD 幸存者的情感麻木(Emotional Numbing)让配偶感到被隔离在外，而配偶的失望反应又触发了幸存者更深的羞耻与退缩。

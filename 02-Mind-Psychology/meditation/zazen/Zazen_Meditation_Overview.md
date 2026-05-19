@@ -1,3 +1,31 @@
+---
+
+title: "日本坐禅专业概述：历史传承、核心哲学与修习体系"
+description: "日本坐禅专业概述：历史传承、核心哲学与修习体系的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Zazen"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是日本坐禅专业概述：历史传承、核心哲学与修习体系"
+  - "日本坐禅专业概述：历史传承、核心哲学与修习体系的核心概念"
+  - "日本坐禅专业概述：历史传承、核心哲学与修习体系的方法与实践"
+trigger_keywords: ["核心哲学与修习体系", "act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Decluttering_Overview.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "README.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/daoism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 日本坐禅专业概述：历史传承、核心哲学与修习体系
 
 > **适用对象**：禅宗修习者、冥想进阶练习者、佛教研究者、临床心理工作者、跨文化哲学研究者  

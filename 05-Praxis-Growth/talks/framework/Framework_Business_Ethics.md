@@ -1,3 +1,21 @@
+---
+
+title: "商业伦理 | Business Ethics"
+description: "商业伦理 | Business Ethics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["addiction", "decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是商业伦理 | Business Ethics"
+  - "商业伦理 | Business Ethics的核心概念"
+  - "商业伦理 | Business Ethics的方法与实践"
+trigger_keywords: ["商业伦理", "addiction", "adolescent", "assessment", "behavioral"]
+cross_refs: []
+
+---
 # 商业伦理 | Business Ethics
 
 > **商业伦理（Business Ethics）** 是研究商业活动中道德原则、价值判断和行为规范的学科与实践领域。它探讨企业在追求经济利益过程中应如何平衡各方利益相关者的权利和责任，涵盖公司治理、社会责任、环境伦理、消费者保护、劳工权益、公平竞争和反腐败等广泛议题。本文档系统梳理商业伦理的核心概念、理论框架、实践标准和前沿趋势，为企业管理者、政策制定者和伦理研究者提供全面的知识参考。

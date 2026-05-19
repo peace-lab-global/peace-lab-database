@@ -1,3 +1,31 @@
+---
+
+title: "色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)"
+description: "色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["addiction", "anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是色情成瘾研究方法与测量工具"
+  - "色情成瘾研究方法与测量工具的核心概念"
+  - "色情成瘾研究方法与测量工具的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/neuroscience/productivity"
+
+---
 # 色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)
 
 > 📊 **研究方法学**: 本文档系统阐述色情成瘾研究的设计方法、测量工具和数据分析策略。建议结合[色情成瘾临床应用](Pornography_Addiction_Clinical_Applications.md)了解实践应用，参考[窥淫癖研究方法](Voyeurism_Research_Methods.md)了解相关研究框架。

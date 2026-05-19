@@ -1,3 +1,31 @@
+---
+
+title: "尤吉·巴赞（Yogi Bhajan / योगी भजन）"
+description: "尤吉·巴赞（Yogi Bhajan / योगी भजन）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Contemporary"
+tags: ["meditation", "social", "spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是尤吉·巴赞（Yogi Bhajan / योगी भजन）"
+  - "尤吉·巴赞（Yogi Bhajan / योगी भजन）的核心概念"
+  - "尤吉·巴赞（Yogi Bhajan / योगी भजन）的方法与实践"
+trigger_keywords: ["尤吉", "योगी भजन）", "act", "breathwork", "meditation", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "meditation/sexuality/therapy"
+
+---
 # 尤吉·巴赞（Yogi Bhajan / योगी भजन）
 
 > 昆达里尼瑜伽的西方传播者——光环与争议并存的灵性领袖

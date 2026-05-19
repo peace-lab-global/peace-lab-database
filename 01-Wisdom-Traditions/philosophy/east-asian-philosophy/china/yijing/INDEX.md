@@ -1,3 +1,21 @@
+---
+
+title: "易经及相关经典 (Yi Jing and Related Classics)"
+description: "易经及相关经典 (Yi Jing and Related Classics)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Yijing"
+tags: ["philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是易经及相关经典"
+  - "易经及相关经典的核心概念"
+  - "易经及相关经典的方法与实践"
+trigger_keywords: ["易经及相关经典", "philosophy", "sexuality", "哲学"]
+cross_refs: []
+
+---
 # 易经及相关经典 (Yi Jing and Related Classics)
 
 本目录收录《周易》经传原文，为研习中国哲学之源提供可靠的经典依据。

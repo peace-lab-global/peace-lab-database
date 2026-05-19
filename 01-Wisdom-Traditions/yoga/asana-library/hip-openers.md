@@ -1,3 +1,31 @@
+---
+
+title: "Hip Openers 开髋位体式"
+description: "Hip Openers 开髋位体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["meditation", "ocd", "pain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Hip Openers 开髋位体式"
+  - "Hip Openers 开髋位体式的核心概念"
+  - "Hip Openers 开髋位体式的方法与实践"
+trigger_keywords: ["body", "clinical", "emotion", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # Hip Openers 开髋位体式
 
 ## 核心开髋体式详表

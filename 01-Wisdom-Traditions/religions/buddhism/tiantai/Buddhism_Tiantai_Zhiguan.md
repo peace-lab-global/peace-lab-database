@@ -1,3 +1,31 @@
+---
+
+title: "天台宗止观体系 (Tiantai Zhiguan System)"
+description: "天台宗止观体系 (Tiantai Zhiguan System)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Tiantai"
+tags: ["buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是天台宗止观体系"
+  - "天台宗止观体系的核心概念"
+  - "天台宗止观体系的方法与实践"
+trigger_keywords: ["天台宗止观体系", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 天台宗止观体系 (Tiantai Zhiguan System)
 
 > **天台宗 (Tiantai)**：中国佛教第一个完整的宗派，由智顗大师创立，以《法华经》为宗经，以"一念三千"与"圆融三谛"为核心教义，止观双修为实践体系。

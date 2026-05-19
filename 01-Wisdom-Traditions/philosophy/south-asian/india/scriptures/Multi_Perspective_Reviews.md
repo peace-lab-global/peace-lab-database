@@ -1,3 +1,31 @@
+---
+
+title: "印度哲学经典三方书评"
+description: "印度哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
+tags: ["buddhism", "habits", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是印度哲学经典三方书评"
+  - "印度哲学经典三方书评的核心概念"
+  - "印度哲学经典三方书评的方法与实践"
+trigger_keywords: ["印度哲学经典三方书评", "anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/peace-is-every-step.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 印度哲学经典三方书评
 
 ---

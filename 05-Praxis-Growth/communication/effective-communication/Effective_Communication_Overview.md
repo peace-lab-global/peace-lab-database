@@ -1,3 +1,32 @@
+---
+
+title: "高效沟通概览与核心理论"
+description: "高效沟通概览与核心理论的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > 高效沟通"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是高效沟通概览与核心理论"
+  - "高效沟通概览与核心理论的核心概念"
+  - "高效沟通概览与核心理论的方法与实践"
+  - "高效沟通概览与核心理论的自助方法"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 高效沟通概览与核心理论
 Effective Communication: Overview and Core Theories
 

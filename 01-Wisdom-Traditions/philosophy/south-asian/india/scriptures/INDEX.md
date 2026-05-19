@@ -1,3 +1,31 @@
+---
+
+title: "印度经典原文 (Indian Scriptures)"
+description: "印度经典原文 (Indian Scriptures)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
+tags: ["philosophy", "spirituality", "yoga", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是印度经典原文"
+  - "印度经典原文的核心概念"
+  - "印度经典原文的方法与实践"
+trigger_keywords: ["印度经典原文", "philosophy", "sexuality", "spirituality", "yoga"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "sexuality/yoga"
+
+---
 # 印度经典原文 (Indian Scriptures)
 
 本目录收录印度哲学与灵性传统的核心经典原文，采用权威版本，为研习者提供可靠的教法依据。

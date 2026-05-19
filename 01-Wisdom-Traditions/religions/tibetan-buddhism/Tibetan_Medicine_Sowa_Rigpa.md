@@ -1,3 +1,31 @@
+---
+
+title: "藏医学与索瓦日巴 (Tibetan Medicine & Sowa Rigpa)"
+description: "藏医学与索瓦日巴 (Tibetan Medicine & Sowa Rigpa)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是藏医学与索瓦日巴"
+  - "藏医学与索瓦日巴的核心概念"
+  - "藏医学与索瓦日巴的方法与实践"
+trigger_keywords: ["藏医学与索瓦日巴", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Microbiome_Mental_Health.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 藏医学与索瓦日巴 (Tibetan Medicine & Sowa Rigpa)
 
 > **索瓦日巴 (Sowa Rigpa)**：藏语གསོ་བ་རིག་པ (gso ba rig pa)，意为"治愈的科学"或"医疗知识体系"。

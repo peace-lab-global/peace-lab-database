@@ -1,3 +1,31 @@
+---
+
+title: "陶艺疗愈 | Pottery Therapy"
+description: "陶艺疗愈 | Pottery Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > Craft Therapy"
+tags: ["calligraphy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是陶艺疗愈 | Pottery Therapy"
+  - "陶艺疗愈 | Pottery Therapy的核心概念"
+  - "陶艺疗愈 | Pottery Therapy的方法与实践"
+trigger_keywords: ["陶艺疗愈", "anxiety", "art", "body", "breathwork"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/depression/emotion"
+
+---
 # 陶艺疗愈 | Pottery Therapy
 
 > **学科定位**: 陶艺治疗 · 表达性艺术 · 具身心理学

@@ -1,3 +1,31 @@
+---
+
+title: "《希腊人佐巴》Zorba the Greek"
+description: "《希腊人佐巴》Zorba the Greek的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature", "phobia", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《希腊人佐巴》Zorba the Greek"
+  - "《希腊人佐巴》Zorba the Greek的核心概念"
+  - "《希腊人佐巴》Zorba the Greek的方法与实践"
+trigger_keywords: ["act", "body", "death", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "anxiety/communication/death"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "anxiety/communication/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 《希腊人佐巴》Zorba the Greek
 
 **作者**：尼科斯·卡赞扎基斯 (Nikos Kazantzakis)  

@@ -1,3 +1,31 @@
+---
+
+title: "职业教育 | Vocational Education"
+description: "职业教育 | Vocational Education的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "resilience", "讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业教育 | Vocational Education"
+  - "职业教育 | Vocational Education的核心概念"
+  - "职业教育 | Vocational Education的方法与实践"
+trigger_keywords: ["职业教育", "brain", "child", "communication", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C6-3-与情绪共处-冥想练习-如实观照心念.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "attachment/communication/neuroscience"
+
+---
 # 职业教育 | Vocational Education
 
 > **职业教育**（Vocational Education）是培养实用技能和职业素养的教育体系——从学徒制（Apprenticeship）到技能认证（Skill Certification），从职业技术培训（TVET）到终身学习（Lifelong Learning）。在技术变革加速的时代，职业教育正经历从传统技能培训到现代能力构建的深刻转型。本文件精选TED平台上关于职业教育的代表性演讲，帮助读者理解职业教育的变革趋势和创新实践。

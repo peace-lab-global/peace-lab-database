@@ -1,3 +1,31 @@
+---
+
+title: "Routine Practices (日常修持与习惯养成)"
+description: "Routine Practices (日常修持与习惯养成)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Practice"
+tags: ["cbt", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Routine Practices"
+  - "Routine Practices的核心概念"
+  - "Routine Practices的方法与实践"
+trigger_keywords: ["act", "anxiety", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "depression/emotion/exercise"
+
+---
 # Routine Practices (日常修持与习惯养成)
 
 ### 瑜伽序列设计表

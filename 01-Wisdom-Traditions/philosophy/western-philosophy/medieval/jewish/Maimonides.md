@@ -1,3 +1,31 @@
+---
+
+title: "迈蒙尼德 (Maimonides)"
+description: "迈蒙尼德 (Maimonides)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Jewish"
+tags: ["eq", "healing", "intervention", "mindfulness", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是迈蒙尼德"
+  - "迈蒙尼德的核心概念"
+  - "迈蒙尼德的方法与实践"
+trigger_keywords: ["迈蒙尼德", "cognitive", "developmental", "emotion", "eq"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 迈蒙尼德 (Maimonides)
 ## 核心思想 (Core Ideas)
 | 概念 | 希伯来语 | 解释 | 影响 |

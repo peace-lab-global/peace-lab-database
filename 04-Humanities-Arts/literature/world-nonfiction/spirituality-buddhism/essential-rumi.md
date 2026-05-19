@@ -1,3 +1,31 @@
+---
+
+title: "《狂喜》The Essential Rumi"
+description: "《狂喜》The Essential Rumi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《狂喜》The Essential Rumi"
+  - "《狂喜》The Essential Rumi的核心概念"
+  - "《狂喜》The Essential Rumi的方法与实践"
+trigger_keywords: ["anxiety", "body", "buddhism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 《狂喜》The Essential Rumi
 
 > 鲁米（Jalāl al-Dīn Rūmī，1207–1273）著，科尔曼·巴克斯（Coleman Barks）英译，1995年出版。13世纪波斯苏菲派诗人、神秘主义者的诗选。巴克斯的英文译本不是字面翻译，而是"诗歌再创作"，把鲁米的波斯语和阿拉伯语原作转化为现代英语自由诗，全球销量超过百万册。

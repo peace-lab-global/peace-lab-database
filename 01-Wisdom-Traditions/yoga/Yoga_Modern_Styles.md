@@ -1,3 +1,31 @@
+---
+
+title: "现代瑜伽流派全面指南 (Modern Yoga Styles Comprehensive Guide)"
+description: "现代瑜伽流派全面指南 (Modern Yoga Styles Comprehensive Guide)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["cardiovascular", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是现代瑜伽流派全面指南"
+  - "现代瑜伽流派全面指南的核心概念"
+  - "现代瑜伽流派全面指南的方法与实践"
+trigger_keywords: ["现代瑜伽流派全面指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 现代瑜伽流派全面指南 (Modern Yoga Styles Comprehensive Guide)
 
 ## 核心术语表 (Core Terminology)

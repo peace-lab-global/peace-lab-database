@@ -1,3 +1,31 @@
+---
+
+title: "窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)"
+description: "窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["addiction", "anxiety"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是窥淫癖与色情成瘾概览"
+  - "窥淫癖与色情成瘾概览的核心概念"
+  - "窥淫癖与色情成瘾概览的方法与实践"
+trigger_keywords: ["窥淫癖与色情成瘾概览", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/neuroscience"
+
+---
 # 窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)
 
 > 📘 **文档导航**: 本概览文档提供窥淫癖与色情成瘾的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

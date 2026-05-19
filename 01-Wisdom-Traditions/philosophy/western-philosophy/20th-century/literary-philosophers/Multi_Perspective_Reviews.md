@@ -1,3 +1,31 @@
+---
+
+title: "文学哲人经典三方书评"
+description: "文学哲人经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["buddhism"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是文学哲人经典三方书评"
+  - "文学哲人经典三方书评的核心概念"
+  - "文学哲人经典三方书评的方法与实践"
+trigger_keywords: ["文学哲人经典三方书评", "act", "art", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
+    relation: "buddhism/death/meditation"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 文学哲人经典三方书评
 
 ---

@@ -1,3 +1,31 @@
+---
+
+title: "贝多芬《月光奏鸣曲》综合指南"
+description: "贝多芬《月光奏鸣曲》综合指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Beethoven Piano Sonatas > Op27No2"
+tags: ["depression", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是贝多芬《月光奏鸣曲》综合指南"
+  - "贝多芬《月光奏鸣曲》综合指南的核心概念"
+  - "贝多芬《月光奏鸣曲》综合指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 贝多芬《月光奏鸣曲》综合指南
 
 ## 作品基本信息

@@ -1,3 +1,31 @@
+---
+
+title: "《喜悦之书》The Book of Joy"
+description: "《喜悦之书》The Book of Joy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《喜悦之书》The Book of Joy"
+  - "《喜悦之书》The Book of Joy的核心概念"
+  - "《喜悦之书》The Book of Joy的方法与实践"
+trigger_keywords: ["buddhism", "death", "philosophy", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/emotion"
+
+---
 # 《喜悦之书》The Book of Joy
 
 >  达赖喇嘛（Dalai Lama）与德斯蒙德·图图（Desmond Tutu）著，2016年出版。两位诺贝尔和平奖得主的对话录——一位是藏传佛教领袖，一位是南非圣公会大主教。他们在达赖喇嘛的印度流亡居所共度一周，讨论一个核心问题：如何在苦难的世界中找到持久的喜悦？

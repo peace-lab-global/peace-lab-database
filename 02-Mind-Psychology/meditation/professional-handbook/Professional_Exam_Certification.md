@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师考试认证 | Professional Exam & Certification"
+description: "冥想执行师考试认证 | Professional Exam & Certification的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["attachment", "mbsr", "mindfulness", "trauma", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师考试认证 | Professional Exam & Certification"
+  - "冥想执行师考试认证 | Professional Exam & Certification的核心概念"
+  - "冥想执行师考试认证 | Professional Exam & Certification的方法与实践"
+trigger_keywords: ["冥想执行师考试认证", "act", "assessment", "attachment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "attachment/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "attachment/buddhism/exercise"
+
+---
 # 冥想执行师考试认证 | Professional Exam & Certification
 
 > **领域**：冥想执行师职业手册 — 考试认证

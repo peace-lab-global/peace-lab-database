@@ -1,3 +1,31 @@
+---
+
+title: "柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)"
+description: "柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["ballet", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是柴可夫斯基音乐疗愈"
+  - "柴可夫斯基音乐疗愈的核心概念"
+  - "柴可夫斯基音乐疗愈的方法与实践"
+trigger_keywords: ["柴可夫斯基音乐疗愈", "act", "ballet", "body", "child"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/death"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "attachment/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
+    relation: "attachment/communication/death"
+
+---
 # 柴可夫斯基音乐疗愈 (Tchaikovsky Music Therapy)
 
 > **彼得·伊里奇·柴可夫斯基 (Пётр Ильич Чайковский / Pyotr Ilyich Tchaikovsky, 1840-1893)**

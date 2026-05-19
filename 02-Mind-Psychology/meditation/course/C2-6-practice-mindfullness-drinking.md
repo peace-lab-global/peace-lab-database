@@ -1,3 +1,31 @@
+---
+
+title: "C2-6 冥想练习课：正念喝水"
+description: "C2-6 冥想练习课：正念喝水的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "habits", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2-6 冥想练习课：正念喝水"
+  - "C2-6 冥想练习课：正念喝水的核心概念"
+  - "C2-6 冥想练习课：正念喝水的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 # C2-6 冥想练习课：正念喝水
 
 📑 智能总结

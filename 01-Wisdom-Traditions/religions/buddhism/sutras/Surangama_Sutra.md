@@ -1,3 +1,31 @@
+---
+
+title: "大佛顶如来密因修证了义诸菩萨万行首楞严经"
+description: "大佛顶如来密因修证了义诸菩萨万行首楞严经的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["longevity", "zen", "buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "1h"
+intent_queries:
+  - "什么是大佛顶如来密因修证了义诸菩萨万行首楞严经"
+  - "大佛顶如来密因修证了义诸菩萨万行首楞严经的核心概念"
+  - "大佛顶如来密因修证了义诸菩萨万行首楞严经的方法与实践"
+trigger_keywords: ["aging", "body", "brain", "longevity"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "aging/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-critique/Meditation_Commercialization_Critique.md"
+    relation: "aging/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/meditation"
+
+---
 # 大佛顶如来密因修证了义诸菩萨万行首楞严经
 
 ## 基本信息

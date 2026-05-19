@@ -1,3 +1,31 @@
+---
+
+title: "权威情结临床整合指南 (Authority Complex Clinical Integration Guide)"
+description: "权威情结临床整合指南 (Authority Complex Clinical Integration Guide)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Authority Complex"
+tags: ["attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是权威情结临床整合指南"
+  - "权威情结临床整合指南的核心概念"
+  - "权威情结临床整合指南的方法与实践"
+trigger_keywords: ["权威情结临床整合指南", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # 权威情结临床整合指南 (Authority Complex Clinical Integration Guide)
 
 > 📘 **文档导航**: 本指南提供权威情结相关障碍的综合临床处理框架。相关主题请参考：

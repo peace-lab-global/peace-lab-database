@@ -1,3 +1,31 @@
+---
+
+title: "特殊群体性教育支持体系 (Special Populations Sexuality Education Support System)"
+description: "特殊群体性教育支持体系 (Special Populations Sexuality Education Support System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Special Populations"
+tags: ["anxiety", "attachment", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是特殊群体性教育支持体系"
+  - "特殊群体性教育支持体系的核心概念"
+  - "特殊群体性教育支持体系的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 特殊群体性教育支持体系 (Special Populations Sexuality Education Support System)
 
 > 🌈 **支持定位**: 构建包容性、差异化的性教育支持体系，针对LGBTQ+群体、残障人士、流动留守儿童、遭受创伤群体等特殊需求人群，提供个性化、专业化的性教育服务。基于社会正义和人权理念，确保每个群体都能获得适切的性教育支持。建议结合[青少年性教育](../curriculum/Adolescent_Sexuality_Education_13_18.md)了解一般性内容，参考[质量评估体系](../assessment/Quality_Assessment_System.md)掌握服务标准。

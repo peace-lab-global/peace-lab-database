@@ -1,3 +1,31 @@
+---
+
+title: "止观禅修详表 (Samatha & Vipassana Meditation)"
+description: "止观禅修详表 (Samatha & Vipassana Meditation)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > 冥想"
+tags: ["addiction", "meditation"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是止观禅修详表"
+  - "止观禅修详表的核心概念"
+  - "止观禅修详表的方法与实践"
+trigger_keywords: ["止观禅修详表", "act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 止观禅修详表 (Samatha & Vipassana Meditation)
 
 > **止观 (Samatha-Vipassanā)**：佛教禅修的两大核心方法，止(奢摩他)培养心的安定与专注，观(毗钵舍那)开发如实知见的智慧，二者相辅相成，共同构成解脱之道的核心修行。

@@ -1,3 +1,32 @@
+---
+
+title: "游戏疗法技术手册 (Game Therapy Techniques)"
+description: "游戏疗法技术手册 (Game Therapy Techniques)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Game Therapy"
+tags: ["anxiety", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是游戏疗法技术手册"
+  - "游戏疗法技术手册的核心概念"
+  - "游戏疗法技术手册的方法与实践"
+  - "游戏疗法技术手册的循证证据"
+trigger_keywords: ["游戏疗法技术手册", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 游戏疗法技术手册 (Game Therapy Techniques)
 
 > 游戏在心理治疗中的系统化技术应用：从评估到干预的完整工具箱

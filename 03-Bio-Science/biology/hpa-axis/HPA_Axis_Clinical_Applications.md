@@ -1,3 +1,31 @@
+---
+
+title: "HPA轴临床应用 (HPA Axis Clinical Applications)"
+description: "HPA轴临床应用 (HPA Axis Clinical Applications)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > HPA轴"
+tags: ["HPA轴", "addiction", "aging", "attachment"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是HPA轴临床应用"
+  - "HPA轴临床应用的核心概念"
+  - "HPA轴临床应用的方法与实践"
+trigger_keywords: ["HPA轴临床应用", "HPA轴", "act", "addiction", "adolescent"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Mental_Health.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/body_image"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # HPA轴临床应用 (HPA Axis Clinical Applications)
 
 > **从诊断评估到治疗靶点** (From Diagnostic Assessment to Therapeutic Targets)

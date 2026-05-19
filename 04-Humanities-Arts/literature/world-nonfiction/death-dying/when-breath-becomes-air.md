@@ -1,3 +1,31 @@
+---
+
+title: "《当呼吸化为空气》When Breath Becomes Air"
+description: "《当呼吸化为空气》When Breath Becomes Air的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《当呼吸化为空气》When Breath Becomes Air"
+  - "《当呼吸化为空气》When Breath Becomes Air的核心概念"
+  - "《当呼吸化为空气》When Breath Becomes Air的方法与实践"
+trigger_keywords: ["anxiety", "brain", "breathwork", "cinema"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/exercise"
+
+---
 # 《当呼吸化为空气》When Breath Becomes Air
 
 > 保罗·卡拉尼什（Paul Kalanithi）著，2016年出版。一位36岁的斯坦福神经外科住院总医师，在职业生涯巅峰被诊断出晚期肺癌，从医生变成病人，在生命最后22个月写下的生死独白。普利策奖提名，Bill Gates年度推荐。

@@ -1,3 +1,32 @@
+---
+
+title: "正念认知治疗 (MBCT: Mindfulness-Based Cognitive Therapy)"
+description: "正念认知治疗 (MBCT: Mindfulness-Based Cognitive Therapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 正念认知疗法"
+tags: ["anxiety", "brain", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是正念认知治疗"
+  - "正念认知治疗的核心概念"
+  - "正念认知治疗的方法与实践"
+  - "正念认知治疗的循证证据"
+trigger_keywords: ["正念认知治疗", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 正念认知治疗 (MBCT: Mindfulness-Based Cognitive Therapy)
 
 > **目标**：构建完整的MBCT理论体系与实践框架，涵盖核心原理、八周课程结构、技术方法及循证应用。MBCT是专门针对抑郁复发预防的整合性治疗方法，结合了认知行为技术和正念冥想practice。

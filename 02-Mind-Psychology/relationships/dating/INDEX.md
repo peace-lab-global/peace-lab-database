@@ -1,3 +1,31 @@
+---
+
+title: "dating | Index"
+description: "dating | Index的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["人际关系", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是dating | Index"
+  - "dating | Index的核心概念"
+  - "dating | Index的方法与实践"
+trigger_keywords: ["dating", "Index", "act", "人际关系"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
+    relation: "communication/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Ethics_Comprehensive.md"
+    relation: "communication/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/neuroscience/therapy"
+
+---
 # dating | Index
 
 ## 内容索引 | Contents

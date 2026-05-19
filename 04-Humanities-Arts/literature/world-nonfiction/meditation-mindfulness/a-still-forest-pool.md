@@ -1,3 +1,31 @@
+---
+
+title: "《静谧林池》A Still Forest Pool"
+description: "《静谧林池》A Still Forest Pool的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《静谧林池》A Still Forest Pool"
+  - "《静谧林池》A Still Forest Pool的核心概念"
+  - "《静谧林池》A Still Forest Pool的方法与实践"
+trigger_keywords: ["art", "buddhism", "death", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《静谧林池》A Still Forest Pool
 
 > 阿姜·查（Ajahn Chah）著，1985年出版。泰国森林传统最伟大的导师之一，以极其简单、直接、有时幽默的方式传授佛法。这本书由他的西方弟子整理，收录了阿姜·查关于禅修、生活和死亡的简短开示。

@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞通用资料专区 (Ballet General Resources)"
+description: "芭蕾舞通用资料专区 (Ballet General Resources)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > General"
+tags: ["ballet", "music", "positive-psychology", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞通用资料专区"
+  - "芭蕾舞通用资料专区的核心概念"
+  - "芭蕾舞通用资料专区的方法与实践"
+trigger_keywords: ["芭蕾舞通用资料专区", "art", "ballet", "body", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # 芭蕾舞通用资料专区 (Ballet General Resources)
 
 > **芭蕾舞通用资料 (Ballet General Resources)**

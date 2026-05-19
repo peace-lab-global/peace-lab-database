@@ -1,3 +1,31 @@
+---
+
+title: "《南部与西部》South and West"
+description: "《南部与西部》South and West的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["trauma", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是《南部与西部》South and West"
+  - "《南部与西部》South and West的核心概念"
+  - "《南部与西部》South and West的方法与实践"
+trigger_keywords: ["act", "death", "sexuality", "trauma"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《南部与西部》South and West
 
 **作者**：琼·狄迪恩 (Joan Didion)  

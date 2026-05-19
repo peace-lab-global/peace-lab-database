@@ -1,3 +1,31 @@
+---
+
+title: "《正见：佛陀的证悟》三方书评"
+description: "《正见：佛陀的证悟》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > What Makes You Not A Buddhist"
+tags: ["buddhism", "depression", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正见：佛陀的证悟》三方书评"
+  - "《正见：佛陀的证悟》三方书评的核心概念"
+  - "《正见：佛陀的证悟》三方书评的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "brain", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 《正见：佛陀的证悟》三方书评
 
 ---

@@ -1,3 +1,31 @@
+---
+
+title: "暗黑三联征 (Dark Triad of Personality)"
+description: "暗黑三联征 (Dark Triad of Personality)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
+tags: ["addiction", "anxiety", "attachment", "decision-making", "personality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是暗黑三联征"
+  - "暗黑三联征的核心概念"
+  - "暗黑三联征的方法与实践"
+trigger_keywords: ["暗黑三联征", "addiction", "adolescent", "anxiety", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 暗黑三联征 (Dark Triad of Personality)
 
 > **学科定位**: 02-Mind-Psychology > foundations > personality

@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾实用工具包 (Erotic Literature Addiction Practical Toolkit)"
+description: "色情文学成瘾实用工具包 (Erotic Literature Addiction Practical Toolkit)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾实用工具包"
+  - "色情文学成瘾实用工具包的核心概念"
+  - "色情文学成瘾实用工具包的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # 色情文学成瘾实用工具包 (Erotic Literature Addiction Practical Toolkit)
 
 > 🛠️ **实用资源**: 本文档提供色情文学成瘾评估、干预和自我管理的实用工具和资源包。建议结合[临床评估](Erotic_Literature_Clinical_Assessment.md)了解标准化评估方法，参考[治疗干预](Erotic_Literature_Treatment_Interventions.md)掌握专业干预技术。

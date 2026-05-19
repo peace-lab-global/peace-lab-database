@@ -1,3 +1,31 @@
+---
+
+title: "孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence"
+description: "孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety", "attachment", "cbt", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence"
+  - "孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence的核心概念"
+  - "孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Medicine_Buddha.md"
+    relation: "aging/anxiety/pain"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独 ↔ 独处 转化桥接文档 | Loneliness-Solitude Bridge: The Path from Pain to Presence
 
 > **文档类型**：跨专题桥接指南 | Cross-Module Bridge Guide  

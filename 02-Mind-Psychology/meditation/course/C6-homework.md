@@ -1,3 +1,31 @@
+---
+
+title: "6 作业"
+description: "6 作业的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["habits", "meditation", "sleep"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是6 作业"
+  - "6 作业的核心概念"
+  - "6 作业的方法与实践"
+trigger_keywords: ["6 作业", "behavioral", "body", "breathwork", "emotion"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/meditation/productivity"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "emotion/meditation/productivity"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/meditation/productivity"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/meditation/productivity"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "emotion/meditation/productivity"
+
+---
 # 6 作业
 
 理念根基

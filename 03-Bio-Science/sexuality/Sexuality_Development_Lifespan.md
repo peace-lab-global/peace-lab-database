@@ -1,3 +1,31 @@
+---
+
+title: "Sexual Development and Lifespan Perspectives (性发展与生命周期视角)"
+description: "Sexual Development and Lifespan Perspectives (性发展与生命周期视角)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["aging", "attachment", "brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sexual Development and Lifespan Perspectives"
+  - "Sexual Development and Lifespan Perspectives的核心概念"
+  - "Sexual Development and Lifespan Perspectives的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Sexual Development and Lifespan Perspectives (性发展与生命周期视角)
 
 ## 性心理发展阶段理论 (Psychosexual Development Stage Theory)

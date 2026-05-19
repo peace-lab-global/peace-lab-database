@@ -1,3 +1,31 @@
+---
+
+title: "社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)"
+description: "社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Social Capital"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社交资本与孤独的转化桥梁"
+  - "社交资本与孤独的转化桥梁的核心概念"
+  - "社交资本与孤独的转化桥梁的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)
 
 > **核心命题**: 社交资本是孤独的"抗体"——它不仅是"认识多少人"，更是"关系的质量、互惠的信任、共享的规范"。从孤独到连接的转化，本质上是从"社交资本赤字"到"社交资本丰盈"的建设过程。

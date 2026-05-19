@@ -1,3 +1,31 @@
+---
+
+title: "Poverty & Suffering Psychology (贫困与苦难心理学)"
+description: "Poverty & Suffering Psychology (贫困与苦难心理学)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
+tags: ["addiction", "anxiety", "brain", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Poverty & Suffering Psychology"
+  - "Poverty & Suffering Psychology的核心概念"
+  - "Poverty & Suffering Psychology的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "aging/anxiety/neuroscience"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/neuroscience"
+
+---
 # Poverty & Suffering Psychology (贫困与苦难心理学)
 
 > **贫困与苦难 (Poverty & Suffering / Paupertas et Dolor)**

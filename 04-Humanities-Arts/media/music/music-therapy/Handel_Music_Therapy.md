@@ -1,3 +1,31 @@
+---
+
+title: "亨德尔音乐疗愈 (Handel Music Therapy)"
+description: "亨德尔音乐疗愈 (Handel Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["healing", "music", "religion"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是亨德尔音乐疗愈"
+  - "亨德尔音乐疗愈的核心概念"
+  - "亨德尔音乐疗愈的方法与实践"
+trigger_keywords: ["亨德尔音乐疗愈", "act", "clinical", "death", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/emotion"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 亨德尔音乐疗愈 (Handel Music Therapy)
 
 > **乔治·弗里德里希·亨德尔 (George Frideric Handel, 1685-1759)**

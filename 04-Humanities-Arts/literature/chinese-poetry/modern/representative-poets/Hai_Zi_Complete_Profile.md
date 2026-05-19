@@ -1,3 +1,31 @@
+---
+
+title: "海子 (Hai Zi, 1964-1989)：诗歌王国的麦田守望者"
+description: "海子 (Hai Zi, 1964-1989)：诗歌王国的麦田守望者的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Poetry > Modern > Representative Poets"
+tags: ["literature", "loneliness", "music", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是海子 ：诗歌王国的麦田守望者"
+  - "海子 ：诗歌王国的麦田守望者的核心概念"
+  - "海子 ：诗歌王国的麦田守望者的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
+    relation: "communication/depression/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
+    relation: "communication/depression/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/depression/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+
+---
 # 海子 (Hai Zi, 1964-1989)：诗歌王国的麦田守望者
 
 ## 概述 (Overview)

@@ -1,3 +1,31 @@
+---
+
+title: "失眠综合干预 (Insomnia Comprehensive Interventions)"
+description: "失眠综合干预 (Insomnia Comprehensive Interventions)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
+tags: ["anxiety", "cbt", "mbsr", "sleep", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是失眠综合干预"
+  - "失眠综合干预的核心概念"
+  - "失眠综合干预的方法与实践"
+trigger_keywords: ["失眠综合干预", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 失眠综合干预 (Insomnia Comprehensive Interventions)
 
 > **目标**：系统化的失眠多元干预知识体系，涵盖药物、光疗法、正念、瑜伽尼德拉、补充剂、东方传统方法及跨学科整合。

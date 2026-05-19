@@ -1,3 +1,31 @@
+---
+
+title: "《吉赛尔》经典剧目分析 (Giselle Classic Analysis)"
+description: "《吉赛尔》经典剧目分析 (Giselle Classic Analysis)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Giselle"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《吉赛尔》经典剧目分析"
+  - "《吉赛尔》经典剧目分析的核心概念"
+  - "《吉赛尔》经典剧目分析的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
+    relation: "anxiety/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《吉赛尔》经典剧目分析 (Giselle Classic Analysis)
 
 > **《吉赛尔》(Giselle, Op.36)**

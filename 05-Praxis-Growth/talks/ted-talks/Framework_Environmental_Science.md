@@ -1,3 +1,31 @@
+---
+
+title: "环境科学 | Environmental Science Framework"
+description: "环境科学 | Environmental Science Framework的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "intervention", "resilience"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是环境科学 | Environmental Science Framework"
+  - "环境科学 | Environmental Science Framework的核心概念"
+  - "环境科学 | Environmental Science Framework的方法与实践"
+trigger_keywords: ["环境科学", "crisis", "death", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/exercise"
+
+---
 # 环境科学 | Environmental Science Framework
 
 > **环境科学**（Environmental Science）研究人类活动与自然环境的相互作用，涵盖气候变化、生物多样性丧失、污染治理和可持续发展等核心议题。从大气中二氧化碳浓度突破420ppm到全球平均温度升高超过1.1°C，从北极海冰加速融化到极端天气事件频繁发生，环境科学提供了理解地球系统危机的科学基础和应对路径。本文件精选TED平台上关于环境科学的代表性演讲，揭示环境挑战的紧迫性和解决方案的可能性。

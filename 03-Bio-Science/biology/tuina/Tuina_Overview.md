@@ -1,3 +1,31 @@
+---
+
+title: "Tuina Massage Overview (中医推拿概览)"
+description: "Tuina Massage Overview (中医推拿概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Tuina"
+tags: ["aging", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tuina Massage Overview"
+  - "Tuina Massage Overview的核心概念"
+  - "Tuina Massage Overview的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Tuina Massage Overview (中医推拿概览)
 
 > 🏥 **专业概览**: 本文档系统阐述中医推拿的理论基础、历史发展脉络、现代应用价值和学科地位。推拿作为中医外治法的重要组成部分，具有悠久的历史传承和深厚的理论底蕴，在现代 healthcare 体系中发挥着独特而重要的作用。

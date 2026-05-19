@@ -1,3 +1,31 @@
+---
+
+title: "Western Philosophy: Phenomenology & Metaphysics (西方哲学：现象学与形而上学)"
+description: "Western Philosophy: Phenomenology & Metaphysics (西方哲学：现象学与形而上学)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
+tags: ["depression", "healing", "philosophy", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Western Philosophy: Phenomenology & Metaphysics"
+  - "Western Philosophy: Phenomenology & Metaphysics的核心概念"
+  - "Western Philosophy: Phenomenology & Metaphysics的方法与实践"
+trigger_keywords: ["anxiety", "body", "clinical", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
+    relation: "anxiety/death/depression"
+
+---
 # Western Philosophy: Phenomenology & Metaphysics (西方哲学：现象学与形而上学)
 
 ### I. Phenomenology: The Mechanics of Perception (现象学：意识的解构机制)

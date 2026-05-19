@@ -1,3 +1,31 @@
+---
+
+title: "Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)"
+description: "Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["addiction", "anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Silent Treatment in Intimate Relationships"
+  - "Silent Treatment in Intimate Relationships的核心概念"
+  - "Silent Treatment in Intimate Relationships的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)
 
 > **交叉引用**：本文件为婚姻冲突中冷战行为模式的专题深度分析。关于Gottman四骑士框架中的石墙(Stonewalling)概念，参见 [Marriage_Communication.md](Marriage_Communication.md)；关于冷战的神经科学机制，参见 [Marriage_Conflict_Neuroscience.md](Marriage_Conflict_Neuroscience.md)；关于被动攻击模式，参见 [Marriage_Passive_Aggression.md](Marriage_Passive_Aggression.md)；关于冷暴力的完整体系，参见 [Emotional_Abuse_Overview.md](../../psychology/social/emotional-abuse/Emotional_Abuse_Overview.md)；关于婚内孤独与情感疏离，参见 [Loneliness_Marital.md](../../psychology/social/loneliness/Loneliness_Marital.md) 及 [Marital_Loneliness_Overview.md](marital-loneliness/Marital_Loneliness_Overview.md)。

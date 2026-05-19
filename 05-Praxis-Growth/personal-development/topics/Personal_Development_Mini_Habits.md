@@ -1,3 +1,31 @@
+---
+
+title: "Mini Habits 微习惯"
+description: "Mini Habits 微习惯的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["decision-making", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Mini Habits 微习惯"
+  - "Mini Habits 微习惯的核心概念"
+  - "Mini Habits 微习惯的方法与实践"
+trigger_keywords: ["act", "behavioral", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "emotion/exercise/neuroscience"
+
+---
 # Mini Habits 微习惯
 
 ## 作者背景 (Author Background)

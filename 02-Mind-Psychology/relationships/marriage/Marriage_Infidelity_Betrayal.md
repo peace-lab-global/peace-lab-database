@@ -1,3 +1,31 @@
+---
+
+title: "Marriage Infidelity & Betrayal (婚姻出轨与关系背叛)"
+description: "Marriage Infidelity & Betrayal (婚姻出轨与关系背叛)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["addiction", "anxiety", "attachment", "brain", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Marriage Infidelity & Betrayal"
+  - "Marriage Infidelity & Betrayal的核心概念"
+  - "Marriage Infidelity & Betrayal的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/death"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/death/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+
+---
 # Marriage Infidelity & Betrayal (婚姻出轨与关系背叛)
 
 ## 核心术语与分类表 (Core Terminology & Typology)

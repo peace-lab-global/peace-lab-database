@@ -1,3 +1,31 @@
+---
+
+title: "藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)"
+description: "藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
+tags: ["buddhism", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传金刚乘体系详论"
+  - "藏传金刚乘体系详论的核心概念"
+  - "藏传金刚乘体系详论的方法与实践"
+trigger_keywords: ["藏传金刚乘体系详论", "act", "behavioral", "body", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "buddhism/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/communication/death"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/communication/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)
 
 > **藏传金刚乘佛教 (Tibetan Vajrayāna Buddhism)**：佛教传入西藏后与本地苯教文化融合形成的独特密乘传统，以密续经典为基础，强调上师瑜伽、本尊观修和即身成佛的修行理念。

@@ -1,3 +1,31 @@
+---
+
+title: "Buddhist Psychology (佛教疗愈心理学)"
+description: "Buddhist Psychology (佛教疗愈心理学)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["addiction", "attachment", "buddhism", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Buddhist Psychology"
+  - "Buddhist Psychology的核心概念"
+  - "Buddhist Psychology的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # Buddhist Psychology (佛教疗愈心理学)
 
 ### The Four Noble Truths: Clinical Diagnosis System (四圣谛：临床诊断系统表)

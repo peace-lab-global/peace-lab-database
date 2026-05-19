@@ -1,3 +1,31 @@
+---
+
+title: "Aviation Professional Attraction Clinical Assessment (航空职业吸引临床评估)"
+description: "Aviation Professional Attraction Clinical Assessment (航空职业吸引临床评估)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction > Aviation"
+tags: ["cardiovascular", "cbt", "flow"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Aviation Professional Attraction Clinical Assessment"
+  - "Aviation Professional Attraction Clinical Assessment的核心概念"
+  - "Aviation Professional Attraction Clinical Assessment的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # Aviation Professional Attraction Clinical Assessment (航空职业吸引临床评估)
 
 > 📘 **文档导航**: 本指南提供航空职业吸引现象的专业临床评估方法和实践指导。相关文档：

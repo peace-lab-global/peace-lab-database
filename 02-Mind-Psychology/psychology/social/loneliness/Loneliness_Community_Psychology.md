@@ -1,3 +1,32 @@
+---
+
+title: "社区心理学视角下的孤独干预 | Community Psychology of Loneliness"
+description: "社区心理学视角下的孤独干预 | Community Psychology of Loneliness的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["attachment", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社区心理学视角下的孤独干预 | Community Psychology of Loneliness"
+  - "社区心理学视角下的孤独干预 | Community Psychology of Loneliness的核心概念"
+  - "社区心理学视角下的孤独干预 | Community Psychology of Loneliness的方法与实践"
+  - "社区心理学视角下的孤独干预 | Community Psychology of Loneliness的自助方法"
+trigger_keywords: ["aging", "assessment", "attachment", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/communication"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/attachment/death"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/attachment/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/attachment/communication"
+
+---
 # 社区心理学视角下的孤独干预 | Community Psychology of Loneliness
 
 > **核心定位**: 从社会生态系统和社区层面理解孤独的预防与干预

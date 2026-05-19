@@ -1,3 +1,31 @@
+---
+
+title: "中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)"
+description: "中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["intervention", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国社会性压抑专业内容体系质量认证报告"
+  - "中国社会性压抑专业内容体系质量认证报告的核心概念"
+  - "中国社会性压抑专业内容体系质量认证报告的方法与实践"
+trigger_keywords: ["act", "assessment", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
+    relation: "sexuality/therapy/trauma"
+
+---
 # 中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)
 
 > 🏆 **专业认证背书**: 本报告对中国社会性压抑专业内容体系进行全面质量认证，基于国际权威标准和循证研究原则，为内容的专业性、准确性和实用性提供权威背书。

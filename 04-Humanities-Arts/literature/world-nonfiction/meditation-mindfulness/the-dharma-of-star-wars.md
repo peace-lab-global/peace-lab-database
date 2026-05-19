@@ -1,3 +1,31 @@
+---
+
+title: "《星球大战之法》The Dharma of Star Wars"
+description: "《星球大战之法》The Dharma of Star Wars的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["cinema", "daoism", "phobia", "spirituality", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《星球大战之法》The Dharma of Star Wars"
+  - "《星球大战之法》The Dharma of Star Wars的核心概念"
+  - "《星球大战之法》The Dharma of Star Wars的方法与实践"
+trigger_keywords: ["buddhism", "cinema", "daoism", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/daoism"
+
+---
 # 《星球大战之法》The Dharma of Star Wars
 
 >  马修·博迪恩（Matthew Bortolin）著，2005年出版。佛教徒、星球大战迷博迪恩用佛教的四圣谛、八正道和缘起来分析《星球大战》的宇宙——从绝地武士的"原力"到西斯的"愤怒"，从尤达的"放下"到达斯·维达的"执着"。

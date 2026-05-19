@@ -1,3 +1,31 @@
+---
+
+title: "Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)"
+description: "Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["brain", "cbt", "sleep", "pain", "exercise", "death"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Sudden Death Fear & Cardiac Anxiety"
+  - "Sudden Death Fear & Cardiac Anxiety的核心概念"
+  - "Sudden Death Fear & Cardiac Anxiety的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+
+---
 # Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)
 
 > **猝死恐惧 (Sudden Death Fear / Cardiophobia / Hṛdaya-bhaya)**

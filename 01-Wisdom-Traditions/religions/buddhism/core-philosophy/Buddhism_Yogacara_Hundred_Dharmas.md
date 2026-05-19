@@ -1,3 +1,31 @@
+---
+
+title: "百法明门论与五位百法 (Śatadharmaprakāśamukha & Hundred Dharmas)"
+description: "百法明门论与五位百法 (Śatadharmaprakāśamukha & Hundred Dharmas)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是百法明门论与五位百法"
+  - "百法明门论与五位百法的核心概念"
+  - "百法明门论与五位百法的方法与实践"
+trigger_keywords: ["百法明门论与五位百法", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Chanting_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "anxiety/buddhism/sexuality"
+
+---
 # 百法明门论与五位百法 (Śatadharmaprakāśamukha & Hundred Dharmas)
 
 > **百法明门论**：世亲菩萨依据《瑜伽师地论》本地分中的六百六十法，精简归纳为一百法，分为五大类。这部论不是"凑数"，它是唯识学给世界画的一张"元素周期表"——把你能经历到的一切心理活动和存在现象，分门别类地摆出来。

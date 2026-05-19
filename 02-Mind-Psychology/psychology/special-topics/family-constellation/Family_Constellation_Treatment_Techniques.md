@@ -1,3 +1,32 @@
+---
+
+title: "家庭排列治疗技术专业内容体系"
+description: "家庭排列治疗技术专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
+tags: ["brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是家庭排列治疗技术专业内容体系"
+  - "家庭排列治疗技术专业内容体系的核心概念"
+  - "家庭排列治疗技术专业内容体系的方法与实践"
+  - "家庭排列治疗技术专业内容体系的循证证据"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "communication/emotion/neuroscience"
+
+---
 # 家庭排列治疗技术专业内容体系
 
 ## 目录

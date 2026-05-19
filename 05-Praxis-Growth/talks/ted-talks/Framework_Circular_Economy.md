@@ -1,3 +1,31 @@
+---
+
+title: "循环经济 | Circular Economy"
+description: "循环经济 | Circular Economy的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是循环经济 | Circular Economy"
+  - "循环经济 | Circular Economy的核心概念"
+  - "循环经济 | Circular Economy的方法与实践"
+trigger_keywords: ["循环经济", "act", "assessment", "crisis", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # 循环经济 | Circular Economy
 
 > **循环经济**（Circular Economy）是一种旨在消除废弃物和最大化资源利用的经济模式——从"获取—制造—废弃"的线性模式转向"减量—复用—再生"的循环模式。从产品设计（Product Design）到逆向物流（Reverse Logistics），从共享经济（Sharing Economy）到再生材料（Regenerative Materials），循环经济正在重新定义经济增长与环境可持续的关系。本文件精选TED平台上关于循环经济的代表性演讲，帮助读者理解这一变革性经济模式的核心理念和实践路径。

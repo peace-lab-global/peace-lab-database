@@ -1,3 +1,31 @@
+---
+
+title: "Nutritional & Natural Therapy (食疗与自然疗法)"
+description: "Nutritional & Natural Therapy (食疗与自然疗法)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Nutritional"
+tags: ["aging", "brain", "cardiovascular", "cbt", "nutrition", "breathwork"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Nutritional & Natural Therapy"
+  - "Nutritional & Natural Therapy的核心概念"
+  - "Nutritional & Natural Therapy的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # Nutritional & Natural Therapy (食疗与自然疗法)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

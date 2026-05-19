@@ -1,3 +1,31 @@
+---
+
+title: "伊曼努尔·康德 (Immanuel Kant)"
+description: "伊曼努尔·康德 (Immanuel Kant)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
+tags: ["cbt", "decision-making", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伊曼努尔·康德"
+  - "伊曼努尔·康德的核心概念"
+  - "伊曼努尔·康德的方法与实践"
+trigger_keywords: ["伊曼努尔", "康德", "act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 伊曼努尔·康德 (Immanuel Kant)
 
 ## 核心思想 (Core Ideas)

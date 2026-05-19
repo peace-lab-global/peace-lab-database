@@ -1,3 +1,31 @@
+---
+
+title: "冥想实操工具箱 | Meditation Tools & Templates"
+description: "冥想实操工具箱 | Meditation Tools & Templates的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tools"
+tags: ["meditation", "trauma"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想实操工具箱 | Meditation Tools & Templates"
+  - "冥想实操工具箱 | Meditation Tools & Templates的核心概念"
+  - "冥想实操工具箱 | Meditation Tools & Templates的方法与实践"
+trigger_keywords: ["冥想实操工具箱", "assessment", "crisis", "meditation", "trauma"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
+    relation: "cardiovascular/meditation/trauma"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "cardiovascular/meditation/trauma"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "cardiovascular/meditation/trauma"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "cardiovascular/meditation/trauma"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "cardiovascular/meditation/trauma"
+
+---
 # 冥想实操工具箱 | Meditation Tools & Templates
 
 > **最后更新**：2026-05

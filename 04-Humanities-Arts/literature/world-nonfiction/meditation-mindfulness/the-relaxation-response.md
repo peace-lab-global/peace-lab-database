@@ -1,3 +1,31 @@
+---
+
+title: "《放松反应》The Relaxation Response"
+description: "《放松反应》The Relaxation Response的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《放松反应》The Relaxation Response"
+  - "《放松反应》The Relaxation Response的核心概念"
+  - "《放松反应》The Relaxation Response的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/exercise/meditation"
+
+---
 # 《放松反应》The Relaxation Response
 
 > 赫伯特·本森（Herbert Benson）著，1975年出版。哈佛大学医学院心脏病学家，麻省总医院身心医学研究所（Mind/Body Medical Institute）创始人。这本书是西方医学界首次以严格的科学方法研究冥想生理效应的开创之作，彻底改变了医学界对压力、放松与健康的理解。本森博士后来将这一研究扩展为一生的工作，使"放松反应"成为现代心身医学的基石概念之一。

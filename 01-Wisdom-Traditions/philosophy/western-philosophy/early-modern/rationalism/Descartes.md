@@ -1,3 +1,31 @@
+---
+
+title: "勒内·笛卡尔 (René Descartes)"
+description: "勒内·笛卡尔 (René Descartes)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
+tags: ["cbt", "healing", "philosophy", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是勒内·笛卡尔"
+  - "勒内·笛卡尔的核心概念"
+  - "勒内·笛卡尔的方法与实践"
+trigger_keywords: ["勒内", "笛卡尔", "behavioral", "body", "cbt", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "emotion/meditation/sexuality"
+
+---
 # 勒内·笛卡尔 (René Descartes)
 
 ## 核心思想 (Core Ideas)

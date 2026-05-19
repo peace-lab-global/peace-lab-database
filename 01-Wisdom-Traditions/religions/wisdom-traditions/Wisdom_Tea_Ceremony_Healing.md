@@ -1,3 +1,31 @@
+---
+
+title: "茶道疗愈 | Tea Ceremony Healing"
+description: "茶道疗愈 | Tea Ceremony Healing的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["cortisol", "depression", "meditation", "zen", "buddhism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是茶道疗愈 | Tea Ceremony Healing"
+  - "茶道疗愈 | Tea Ceremony Healing的核心概念"
+  - "茶道疗愈 | Tea Ceremony Healing的方法与实践"
+trigger_keywords: ["茶道疗愈", "aging", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 茶道疗愈 | Tea Ceremony Healing
 
 > **学科定位**: 东亚仪式文化 × 正念实践 × 感官疗愈

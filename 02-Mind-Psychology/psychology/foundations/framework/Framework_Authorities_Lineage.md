@@ -1,3 +1,31 @@
+---
+
+title: "Authorities (权威机构与人物)"
+description: "Authorities (权威机构与人物)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
+tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Authorities"
+  - "Authorities的核心概念"
+  - "Authorities的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # Authorities (权威机构与人物)
 
 ### 权威表

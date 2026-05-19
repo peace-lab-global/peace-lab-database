@@ -1,3 +1,31 @@
+---
+
+title: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)"
+description: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "brain", "fasting", "exercise", "death"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Death Meditation Practices: Religious, Psychological & Sociological Perspectives"
+  - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的核心概念"
+  - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)
 
 > **综合提醒**：本文件涵盖从入门到高级的死亡冥想传统与现代应用。高级修法（颇瓦法、中阴实修、Mahasamadhi）仅适用于心理稳定、无严重创伤史、有稳定修行基础者，且必须在有经验导师或治疗师陪伴下进行。心理治疗师应了解框架以支持来访者整合，而非替代灵性导师。

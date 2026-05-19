@@ -1,3 +1,31 @@
+---
+
+title: "冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health"
+description: "冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["anxiety", "brain", "cbt", "mbsr", "mbct"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health"
+  - "冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health的核心概念"
+  - "冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health的方法与实践"
+trigger_keywords: ["冥想与肠易激综合征", "肠道健康", "Gut Health", "act", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 冥想与肠易激综合征/肠道健康 | Meditation and IBS/Gut Health
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide

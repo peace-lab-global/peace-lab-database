@@ -1,3 +1,31 @@
+---
+
+title: "伏尔泰 (Voltaire)"
+description: "伏尔泰 (Voltaire)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
+tags: ["cbt", "healing", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伏尔泰"
+  - "伏尔泰的核心概念"
+  - "伏尔泰的方法与实践"
+trigger_keywords: ["伏尔泰", "behavioral", "cbt", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/18-Digital-Therapy.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # 伏尔泰 (Voltaire)
 
 ## 核心思想 (Core Ideas)

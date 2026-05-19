@@ -1,0 +1,21 @@
+---
+module_id: addiction-assessment
+module_name: 成瘾行为评估模块
+module_name_en: Addiction Behavior Assessment Module
+version: 1.0
+status: active
+skills:
+  - skill_id: S_016
+    skill_name: 成瘾行为评估
+    filename: Addiction_Assessment_Skill.md
+    status: active
+---
+
+# 成瘾行为评估模块清单
+
+| 技能ID | 技能名称 | 文件 | 状态 |
+|--------|----------|------|------|
+| S_016 | 成瘾行为评估 | Addiction_Assessment_Skill.md | ✅ 已上线 |
+
+## 触发关键词
+"成瘾", "戒不掉", "依赖", "失控", "酒精", "药物", "游戏成瘾", "手机成瘾", "赌博", "色情"

@@ -1,3 +1,31 @@
+---
+
+title: "苏菲冥想概述 | Sufi Meditation Overview"
+description: "苏菲冥想概述 | Sufi Meditation Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Sufi Meditation"
+tags: ["anxiety", "brain", "cardiovascular", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是苏菲冥想概述 | Sufi Meditation Overview"
+  - "苏菲冥想概述 | Sufi Meditation Overview的核心概念"
+  - "苏菲冥想概述 | Sufi Meditation Overview的方法与实践"
+trigger_keywords: ["苏菲冥想概述", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/cardiovascular/meditation"
+
+---
 # 苏菲冥想概述 | Sufi Meditation Overview
 
 > **适用对象**：对苏菲灵修传统感兴趣的冥想练习者、伊斯兰神秘主义研究者、跨传统灵修探索者、心理健康从业者

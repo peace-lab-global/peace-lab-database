@@ -1,3 +1,31 @@
+---
+
+title: "列子 (Liezi)"
+description: "列子 (Liezi)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
+tags: ["daoism", "healing", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是列子"
+  - "列子的核心概念"
+  - "列子的方法与实践"
+trigger_keywords: ["列子", "anxiety", "cognitive", "daoism", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/death"
+
+---
 # 列子 (Liezi)
 
 ## 核心思想 (Core Ideas)

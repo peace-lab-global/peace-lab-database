@@ -1,3 +1,31 @@
+---
+
+title: "《意识的解释》Consciousness Explained"
+description: "《意识的解释》Consciousness Explained的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["pain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《意识的解释》Consciousness Explained"
+  - "《意识的解释》Consciousness Explained的核心概念"
+  - "《意识的解释》Consciousness Explained的方法与实践"
+trigger_keywords: ["behavioral", "brain", "cognitive", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Multi_Perspective_Reviews.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
+    relation: "exercise/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
+    relation: "exercise/neuroscience/pain"
+
+---
 # 《意识的解释》Consciousness Explained
 
 **作者**：丹尼尔·丹尼特 (Daniel C. Dennett)  

@@ -1,3 +1,32 @@
+---
+
+title: "儿童发展心理学核心理论框架"
+description: "儿童发展心理学核心理论框架的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Theory"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童发展心理学核心理论框架"
+  - "儿童发展心理学核心理论框架的核心概念"
+  - "儿童发展心理学核心理论框架的方法与实践"
+  - "儿童发展心理学核心理论框架的自助方法"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/foods/Bio_Dietary_Pharmacy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 儿童发展心理学核心理论框架
 
 ## 📋 理论体系概述

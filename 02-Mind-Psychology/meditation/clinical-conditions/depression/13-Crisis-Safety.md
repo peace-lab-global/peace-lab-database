@@ -1,3 +1,31 @@
+---
+
+title: "Crisis Safety"
+description: "Crisis Safety的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["daoism", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Crisis Safety"
+  - "Crisis Safety的核心概念"
+  - "Crisis Safety的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "daoism/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "depression/emotion/exercise"
+
+---
 ## 13. 危机干预与安全计划
 
 > **说明**：抑郁患者可能在任何阶段出现自杀意念或自伤冲动。正念干预者——无论是精神科医生、心理治疗师还是正念教师——必须具备识别危机信号和启动安全计划的能力。本章提供临床标准的安全计划框架（Stanley & Brown, 2012），以及正念在危机中的边界与角色。

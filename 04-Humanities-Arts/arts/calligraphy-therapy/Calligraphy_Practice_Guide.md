@@ -1,3 +1,31 @@
+---
+
+title: "书法疗愈实操指南 | Calligraphy Therapy Practice Guide"
+description: "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
+tags: ["calligraphy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是书法疗愈实操指南 | Calligraphy Therapy Practice Guide"
+  - "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的核心概念"
+  - "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的方法与实践"
+trigger_keywords: ["书法疗愈实操指南", "act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_08_Life_Scenes.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/anxiety/art_therapy"
+
+---
 # 书法疗愈实操指南 | Calligraphy Therapy Practice Guide
 
 > **文档定位**: 从零开始的书法疗愈实操手册——工具、环境、课程设计与引导脚本

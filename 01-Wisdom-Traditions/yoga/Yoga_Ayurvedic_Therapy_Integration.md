@@ -1,3 +1,31 @@
+---
+
+title: "Ayurvedic Therapy Integration (阿育吠陀与瑜伽理疗整合)"
+description: "Ayurvedic Therapy Integration (阿育吠陀与瑜伽理疗整合)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["attachment", "depression", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Ayurvedic Therapy Integration"
+  - "Ayurvedic Therapy Integration的核心概念"
+  - "Ayurvedic Therapy Integration的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # Ayurvedic Therapy Integration (阿育吠陀与瑜伽理疗整合)
 
 ## 核心术语表 (Core Terminology)

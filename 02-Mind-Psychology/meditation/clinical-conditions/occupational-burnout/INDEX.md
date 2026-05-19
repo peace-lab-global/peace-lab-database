@@ -1,3 +1,31 @@
+---
+
+title: "冥想与职业倦怠 | Meditation and Occupational Burnout"
+description: "冥想与职业倦怠 | Meditation and Occupational Burnout的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "depression", "intervention", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想与职业倦怠 | Meditation and Occupational Burnout"
+  - "冥想与职业倦怠 | Meditation and Occupational Burnout的核心概念"
+  - "冥想与职业倦怠 | Meditation and Occupational Burnout的方法与实践"
+trigger_keywords: ["冥想与职业倦怠", "act", "anxiety", "assessment", "clinical"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 冥想与职业倦怠 | Meditation and Occupational Burnout
 
 > **文档类型**: 临床病症专项指南 — 正念干预实操手册 | Clinical Condition Guide — Mindfulness Intervention Handbook

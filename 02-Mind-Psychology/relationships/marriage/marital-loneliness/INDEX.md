@@ -1,3 +1,21 @@
+---
+
+title: "marital-loneliness | 婚内孤独专题 Index"
+description: "marital-loneliness | 婚内孤独专题 Index的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
+tags: ["intervention", "loneliness", "人际关系"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是marital-loneliness | 婚内孤独专题 Index"
+  - "marital-loneliness | 婚内孤独专题 Index的核心概念"
+  - "marital-loneliness | 婚内孤独专题 Index的方法与实践"
+trigger_keywords: ["assessment", "clinical", "intervention", "loneliness"]
+cross_refs: []
+
+---
 # marital-loneliness | 婚内孤独专题 Index
 
 ## 内容索引 | Contents

@@ -1,3 +1,31 @@
+---
+
+title: "Tea Varieties & Processing (茶叶品种与加工工艺)"
+description: "Tea Varieties & Processing (茶叶品种与加工工艺)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Tea"
+tags: ["sexuality", "stress", "营养学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Tea Varieties & Processing"
+  - "Tea Varieties & Processing的核心概念"
+  - "Tea Varieties & Processing的方法与实践"
+trigger_keywords: ["child", "developmental", "sexuality", "stress"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "immune/nutrition/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
+    relation: "immune/nutrition/sexuality"
+
+---
 # Tea Varieties & Processing (茶叶品种与加工工艺)
 
 ## 六大茶类基础分类表 (Six Major Tea Categories)

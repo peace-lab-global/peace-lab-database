@@ -1,3 +1,31 @@
+---
+
+title: "《路》The Road"
+description: "《路》The Road的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["suicide", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《路》The Road"
+  - "《路》The Road的核心概念"
+  - "《路》The Road的方法与实践"
+trigger_keywords: ["death", "sexuality", "suicide", "文学"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "death/depression/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "death/depression/sexuality"
+
+---
 # 《路》The Road
 
 > 科马克·麦卡锡（Cormac McCarthy）著，2006年出版。美国作家的后末日小说，讲述了一位父亲和儿子在核冬天后的废墟中向南行进的旅程。获普利策奖，被誉为21世纪最重要的美国小说之一。

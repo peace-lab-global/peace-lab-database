@@ -1,3 +1,31 @@
+---
+
+title: "耆那教冥想概述 (Jain Meditation Overview)"
+description: "耆那教冥想概述 (Jain Meditation Overview)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Jain Meditation"
+tags: ["anxiety", "cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是耆那教冥想概述"
+  - "耆那教冥想概述的核心概念"
+  - "耆那教冥想概述的方法与实践"
+trigger_keywords: ["耆那教冥想概述", "aging", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 耆那教冥想概述 (Jain Meditation Overview)
 
 > **主题**: 耆那教（Jainism）冥想传统——从Mahāvīra的解脱之道到Prekṣā Dhyāna的现代复兴

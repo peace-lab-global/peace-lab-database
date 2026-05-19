@@ -1,3 +1,31 @@
+---
+
+title: "莫扎特音乐疗愈 (Mozart Music Therapy)"
+description: "莫扎特音乐疗愈 (Mozart Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是莫扎特音乐疗愈"
+  - "莫扎特音乐疗愈的核心概念"
+  - "莫扎特音乐疗愈的方法与实践"
+trigger_keywords: ["莫扎特音乐疗愈", "act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "aging/anxiety/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 莫扎特音乐疗愈 (Mozart Music Therapy)
 
 > **沃尔夫冈·阿玛迪斯·莫扎特 (Wolfgang Amadeus Mozart, 1756-1791)**

@@ -1,3 +1,31 @@
+---
+
+title: "《商君书》The Book of Lord Shang"
+description: "《商君书》The Book of Lord Shang的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "productivity", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《商君书》The Book of Lord Shang"
+  - "《商君书》The Book of Lord Shang的核心概念"
+  - "《商君书》The Book of Lord Shang的方法与实践"
+trigger_keywords: ["buddhism", "daoism", "death", "productivity"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/daoism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/daoism/death"
+
+---
 # 《商君书》The Book of Lord Shang
 
 > 商鞅及其后学著，约公元前3世纪。法家核心经典，阐述了商鞅在秦国的变法思想——以严刑峻法、重农抑商、军功爵制来富国强兵。虽然与"灵性"似乎无关，但它展示了**另一种面对生命有限性的方式：通过建立不朽的制度来超越个人的死亡**。

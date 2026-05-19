@@ -1,3 +1,31 @@
+---
+
+title: "《空谷幽兰》Road to Heaven"
+description: "《空谷幽兰》Road to Heaven的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "spirituality", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《空谷幽兰》Road to Heaven"
+  - "《空谷幽兰》Road to Heaven的核心概念"
+  - "《空谷幽兰》Road to Heaven的方法与实践"
+trigger_keywords: ["buddhism", "death", "literature", "sexuality"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/daoism/death"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "buddhism/daoism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《空谷幽兰》Road to Heaven
 
 > 比尔·波特（Bill Porter，笔名红松）著，1993年出版。美国汉学家、翻译家，1989年深入中国陕西终南山，寻访现代隐士。这本书记录了他在山间的小径上遇到的佛教僧人、道教道士和独居修行者的故事，是西方世界了解中国隐士文化最重要的著作。

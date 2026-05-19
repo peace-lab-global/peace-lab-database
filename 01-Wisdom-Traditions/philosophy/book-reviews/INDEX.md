@@ -1,3 +1,31 @@
+---
+
+title: "哲学经典书评总论 | Philosophy Book Reviews Overview"
+description: "哲学经典书评总论 | Philosophy Book Reviews Overview的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Book Reviews"
+tags: ["buddhism", "habits", "philosophy", "treatment", "yoga", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是哲学经典书评总论 | Philosophy Book Reviews Overview"
+  - "哲学经典书评总论 | Philosophy Book Reviews Overview的核心概念"
+  - "哲学经典书评总论 | Philosophy Book Reviews Overview的方法与实践"
+trigger_keywords: ["哲学经典书评总论", "buddhism", "death", "habits", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "buddhism/daoism/death"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/daoism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "daoism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "buddhism/death/emotion"
+
+---
 # 哲学经典书评总论 | Philosophy Book Reviews Overview
 
 > 哲学不是象牙塔中的思辨游戏，而是人类面对生存困境时最深层的回应。本专栏精选东西方哲学经典著作，提供面向个人成长与心灵健康的深度书评，帮助读者在浩瀚的哲学海洋中找到属于自己的航向。

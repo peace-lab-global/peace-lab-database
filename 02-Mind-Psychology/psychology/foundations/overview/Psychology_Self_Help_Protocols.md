@@ -1,3 +1,31 @@
+---
+
+title: "Self-Help Protocols (深度心理自助方案)"
+description: "Self-Help Protocols (深度心理自助方案)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Self-Help Protocols"
+  - "Self-Help Protocols的核心概念"
+  - "Self-Help Protocols的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # Self-Help Protocols (深度心理自助方案)
 
 ### CBT Self-Application: Cognitive Restructuring (CBT自助：认知重构工具表)

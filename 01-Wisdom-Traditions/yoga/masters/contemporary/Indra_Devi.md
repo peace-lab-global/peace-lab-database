@@ -1,3 +1,31 @@
+---
+
+title: "英德拉·德维（Indra Devi / Индра Деви）"
+description: "英德拉·德维（Indra Devi / Индра Деви）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Contemporary"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是英德拉·德维（Indra Devi / Индра Деви）"
+  - "英德拉·德维（Indra Devi / Индра Деви）的核心概念"
+  - "英德拉·德维（Indra Devi / Индра Деви）的方法与实践"
+trigger_keywords: ["英德拉", "sexuality", "yoga", "瑜伽"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+    relation: "sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "sexuality/yoga"
+
+---
 # 英德拉·德维（Indra Devi / Индра Деви）
 
 > "瑜伽的第一夫人"——将瑜伽带入好莱坞的俄裔先驱

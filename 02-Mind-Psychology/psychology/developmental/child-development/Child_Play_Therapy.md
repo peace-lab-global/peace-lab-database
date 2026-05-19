@@ -1,3 +1,32 @@
+---
+
+title: "游戏治疗 | Child Play Therapy"
+description: "游戏治疗 | Child Play Therapy的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Child Development"
+tags: ["anxiety", "attachment", "cbt", "emdr", "trauma", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是游戏治疗 | Child Play Therapy"
+  - "游戏治疗 | Child Play Therapy的核心概念"
+  - "游戏治疗 | Child Play Therapy的方法与实践"
+  - "游戏治疗 | Child Play Therapy的循证证据"
+trigger_keywords: ["游戏治疗", "anxiety", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Schubert_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 游戏治疗 | Child Play Therapy
 
 > **学科定位**: 儿童心理治疗 · 表达性疗法 · 临床儿童心理学

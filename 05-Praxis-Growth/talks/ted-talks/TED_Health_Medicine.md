@@ -1,3 +1,31 @@
+---
+
+title: "TED身体健康与医学精选 | TED Health & Medicine Collection"
+description: "TED身体健康与医学精选 | TED Health & Medicine Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是TED身体健康与医学精选 | TED Health & Medicine Collection"
+  - "TED身体健康与医学精选 | TED Health & Medicine Collection的核心概念"
+  - "TED身体健康与医学精选 | TED Health & Medicine Collection的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "communication/emotion/exercise"
+
+---
 # TED身体健康与医学精选 | TED Health & Medicine Collection
 
 > **身体健康与医学**是人类福祉的基石。本文件精选TED平台上关于医学前沿、公共健康、营养科学、运动医学等领域的优质演讲，涵盖从微观的细胞机制到宏观的公共卫生政策，为关注健康的学习者提供科学、实用的医学知识和健康指导。

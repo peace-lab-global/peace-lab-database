@@ -1,3 +1,31 @@
+---
+
+title: "奥卡姆的威廉 (William of Ockham)"
+description: "奥卡姆的威廉 (William of Ockham)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Christian"
+tags: ["cbt", "decision-making", "healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是奥卡姆的威廉"
+  - "奥卡姆的威廉的核心概念"
+  - "奥卡姆的威廉的方法与实践"
+trigger_keywords: ["奥卡姆的威廉", "behavioral", "cbt", "cognitive", "decision-making"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # 奥卡姆的威廉 (William of Ockham)
 
 ## 核心思想 (Core Ideas)

@@ -1,3 +1,31 @@
+---
+
+title: "《五个邀请》The Five Invitations"
+description: "《五个邀请》The Five Invitations的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《五个邀请》The Five Invitations"
+  - "《五个邀请》The Five Invitations的核心概念"
+  - "《五个邀请》The Five Invitations的方法与实践"
+trigger_keywords: ["death", "zen", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《五个邀请》The Five Invitations
 
 > 弗兰克·奥斯塔塞克（Frank Ostaseski）著，2017年出版。临终关怀先驱、禅宗修行者奥斯塔塞克总结了三十年来陪伴数千人离世的经验，提炼出五个"邀请"——不是"如何死去"的建议，而是"如何活着"的觉醒。

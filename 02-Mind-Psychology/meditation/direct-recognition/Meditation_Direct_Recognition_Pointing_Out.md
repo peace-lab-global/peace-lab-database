@@ -1,3 +1,31 @@
+---
+
+title: "Pointing-out Instructions (直指心性：技术现象学与引导实操)"
+description: "Pointing-out Instructions (直指心性：技术现象学与引导实操)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 直接认知"
+tags: ["anxiety", "brain", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Pointing-out Instructions"
+  - "Pointing-out Instructions的核心概念"
+  - "Pointing-out Instructions的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # Pointing-out Instructions (直指心性：技术现象学与引导实操)
 
 ### The Nature of "Pointing-out": Upaya (方便：直指教法的本质详表)

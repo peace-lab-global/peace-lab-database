@@ -1,3 +1,31 @@
+---
+
+title: "《当生命陷落时》When Things Fall Apart"
+description: "《当生命陷落时》When Things Fall Apart的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["loneliness", "marriage"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《当生命陷落时》When Things Fall Apart"
+  - "《当生命陷落时》When Things Fall Apart的核心概念"
+  - "《当生命陷落时》When Things Fall Apart的方法与实践"
+trigger_keywords: ["body", "buddhism", "death", "emotion"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/buddhism/death"
+  - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
+    relation: "attachment/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Integrated_Methods.md"
+    relation: "attachment/buddhism/emotion"
+
+---
 # 《当生命陷落时》When Things Fall Apart
 
 > 佩玛·丘卓（Pema Chödrön）著，1997年出版。美国第一位藏传佛教比丘尼，师承秋吉林巴伏藏传承的创巴仁波切。这本书是她对"如何在破碎中与真实的自己相遇"的温柔而锐利的教导，全球销量超过百万册。

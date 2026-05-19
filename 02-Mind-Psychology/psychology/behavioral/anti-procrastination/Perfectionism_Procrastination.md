@@ -1,3 +1,31 @@
+---
+
+title: "完美主义与拖延"
+description: "完美主义与拖延的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["心理学", "行为心理"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是完美主义与拖延"
+  - "完美主义与拖延的核心概念"
+  - "完美主义与拖延的方法与实践"
+trigger_keywords: ["完美主义与拖延", "assessment", "behavioral", "cognitive", "心理学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "communication/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "communication/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
+    relation: "communication/productivity"
+
+---
 # 完美主义与拖延
 
 ## 目录

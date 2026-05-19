@@ -1,3 +1,31 @@
+---
+
+title: "《火星上的人类学家》An Anthropologist on Mars"
+description: "《火星上的人类学家》An Anthropologist on Mars的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《火星上的人类学家》An Anthropologist on Mars"
+  - "《火星上的人类学家》An Anthropologist on Mars的核心概念"
+  - "《火星上的人类学家》An Anthropologist on Mars的方法与实践"
+trigger_keywords: ["art", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/exercise/neuroscience"
+
+---
 # 《火星上的人类学家》An Anthropologist on Mars
 
 **作者**：奥利弗·萨克斯 (Oliver Sacks)  

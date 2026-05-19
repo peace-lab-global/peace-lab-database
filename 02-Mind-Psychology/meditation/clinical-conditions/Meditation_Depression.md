@@ -1,3 +1,32 @@
+---
+
+title: "冥想与抑郁症 | Meditation and Depression"
+description: "冥想与抑郁症 | Meditation and Depression的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["anxiety", "attachment", "depression", "mbsr", "mindfulness", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "1h"
+intent_queries:
+  - "什么是冥想与抑郁症 | Meditation and Depression"
+  - "冥想与抑郁症 | Meditation and Depression的核心概念"
+  - "冥想与抑郁症 | Meditation and Depression的方法与实践"
+  - "冥想与抑郁症 | Meditation and Depression的自助方法"
+trigger_keywords: ["冥想与抑郁症", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 冥想与抑郁症 | Meditation and Depression
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide

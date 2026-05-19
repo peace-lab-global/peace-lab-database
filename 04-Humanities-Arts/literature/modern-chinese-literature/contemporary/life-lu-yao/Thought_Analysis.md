@@ -1,3 +1,21 @@
+---
+
+title: "《人生》核心思想与观点分析"
+description: "《人生》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人生》核心思想与观点分析"
+  - "《人生》核心思想与观点分析的核心概念"
+  - "《人生》核心思想与观点分析的方法与实践"
+trigger_keywords: ["cognitive", "literature", "文学"]
+cross_refs: []
+
+---
 # 《人生》核心思想与观点分析
 
 ## 一、人生的岔路口——选择本身就是代价

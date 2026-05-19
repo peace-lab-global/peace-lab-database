@@ -1,3 +1,31 @@
+---
+
+title: "急诊医学 | Emergency Medicine"
+description: "急诊医学 | Emergency Medicine的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cardiovascular", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是急诊医学 | Emergency Medicine"
+  - "急诊医学 | Emergency Medicine的核心概念"
+  - "急诊医学 | Emergency Medicine的方法与实践"
+trigger_keywords: ["急诊医学", "body", "brain", "breathwork", "cardiovascular"]
+cross_refs:
+  - path: "README.md"
+    relation: "cardiovascular/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "cardiovascular/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md"
+    relation: "cardiovascular/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/_manifest.md"
+    relation: "cardiovascular/communication/emotion"
+
+---
 # 急诊医学 | Emergency Medicine
 
 > **急诊医学**（Emergency Medicine）是医疗系统中最前线、最具时间压力的学科——从创伤救治（Trauma Care）到急救响应（First Response），从灾难医学（Disaster Medicine）到院前急救（Pre-Hospital Care）。在黄金时间内做出正确决策是挽救生命的关键。本文件精选TED平台上关于急诊医学的代表性演讲，帮助读者理解急诊医学的前沿发展和生命救援的核心原则。

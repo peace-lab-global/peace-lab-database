@@ -1,3 +1,32 @@
+---
+
+title: "扩展版文学治疗应用指南：具体案例与实践方案"
+description: "扩展版文学治疗应用指南：具体案例与实践方案的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是扩展版文学治疗应用指南：具体案例与实践方案"
+  - "扩展版文学治疗应用指南：具体案例与实践方案的核心概念"
+  - "扩展版文学治疗应用指南：具体案例与实践方案的方法与实践"
+  - "扩展版文学治疗应用指南：具体案例与实践方案的循证证据"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 扩展版文学治疗应用指南：具体案例与实践方案
 
 ## 概述 (Overview)

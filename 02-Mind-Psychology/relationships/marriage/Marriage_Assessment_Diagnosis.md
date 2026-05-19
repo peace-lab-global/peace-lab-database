@@ -1,3 +1,31 @@
+---
+
+title: "夫妻关系评估与诊断工具 (Marriage Assessment & Diagnosis Tools)"
+description: "夫妻关系评估与诊断工具 (Marriage Assessment & Diagnosis Tools)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是夫妻关系评估与诊断工具"
+  - "夫妻关系评估与诊断工具的核心概念"
+  - "夫妻关系评估与诊断工具的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 夫妻关系评估与诊断工具 (Marriage Assessment & Diagnosis Tools)
 
 ## 专业评估框架表

@@ -1,3 +1,31 @@
+---
+
+title: "Psychology Therapy Techniques (心理治疗技术详表)"
+description: "Psychology Therapy Techniques (心理治疗技术详表)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["addiction", "anxiety", "attachment", "mbsr", "emdr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Psychology Therapy Techniques"
+  - "Psychology Therapy Techniques的核心概念"
+  - "Psychology Therapy Techniques的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "GLOSSARY.md"
+    relation: "attachment/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Psychology Therapy Techniques (心理治疗技术详表)
 
 ## 核心术语表

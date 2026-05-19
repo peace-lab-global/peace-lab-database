@@ -1,3 +1,31 @@
+---
+
+title: "个人任务管理数字工具与实践 (Task Management - Digital Tools & Practice)"
+description: "个人任务管理数字工具与实践 (Task Management - Digital Tools & Practice)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Task Management"
+tags: ["productivity", "flow", "minimalism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是个人任务管理数字工具与实践"
+  - "个人任务管理数字工具与实践的核心概念"
+  - "个人任务管理数字工具与实践的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "anxiety/neuroscience/productivity"
+
+---
 # 个人任务管理数字工具与实践 (Task Management - Digital Tools & Practice)
 
 ## 数字任务管理工具全景 (Digital Tool Landscape)

@@ -1,3 +1,32 @@
+---
+
+title: "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection"
+description: "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Yixi Talks"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection"
+  - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的核心概念"
+  - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的方法与实践"
+  - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的自助方法"
+trigger_keywords: ["adolescent", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Practical_Guide.md"
+    relation: "communication/emotion/neuroscience"
+
+---
 # 一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection
 
 > **心理学与神经科学**是理解人类行为、思维和情感的核心学科。本文件精选一席平台上最具影响力的心理学与神经科学演讲，涵盖认知科学、发展心理学、社会心理学、临床心理学等各个分支，为学习者提供前沿的科学洞见和实用的心理学知识。

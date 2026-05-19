@@ -1,3 +1,31 @@
+---
+
+title: "新禅·杨 (Shinzen Young)"
+description: "新禅·杨 (Shinzen Young)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["dzogchen", "habits", "meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是新禅·杨"
+  - "新禅·杨的核心概念"
+  - "新禅·杨的方法与实践"
+trigger_keywords: ["新禅", "act", "aging", "body", "buddhism"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/buddhism/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 新禅·杨 (Shinzen Young)
 
 > "Suffering = Pain x Resistance. If you can reduce resistance to zero, you can reduce suffering to zero."

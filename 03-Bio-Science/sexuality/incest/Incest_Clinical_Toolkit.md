@@ -1,3 +1,31 @@
+---
+
+title: "乱伦临床工具箱 (Incest Clinical Toolkit)"
+description: "乱伦临床工具箱 (Incest Clinical Toolkit)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Incest"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是乱伦临床工具箱"
+  - "乱伦临床工具箱的核心概念"
+  - "乱伦临床工具箱的方法与实践"
+trigger_keywords: ["乱伦临床工具箱", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 乱伦临床工具箱 (Incest Clinical Toolkit)
 
 > 🛠️ **实用工具集**: 本工具箱提供乱伦创伤临床工作中必需的评估量表、治疗模板、安全协议和危机干预工具，帮助专业人员高效开展临床服务。

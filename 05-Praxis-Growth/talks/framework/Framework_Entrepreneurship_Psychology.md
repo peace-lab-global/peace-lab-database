@@ -1,3 +1,32 @@
+---
+
+title: "创业心理学 | Entrepreneurship Psychology"
+description: "创业心理学 | Entrepreneurship Psychology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["communication"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创业心理学 | Entrepreneurship Psychology"
+  - "创业心理学 | Entrepreneurship Psychology的核心概念"
+  - "创业心理学 | Entrepreneurship Psychology的方法与实践"
+  - "创业心理学 | Entrepreneurship Psychology的自助方法"
+trigger_keywords: ["创业心理学", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 创业心理学 | Entrepreneurship Psychology
 
 > **创业心理学（Entrepreneurship Psychology）** 是研究创业者在创业过程中的心理活动、行为模式和心理机制的交叉学科。它融合心理学、管理学和行为经济学的理论与方法，探索创业者的人格特质、认知偏差、情绪调节、决策行为和社会心理因素，为创业教育和创业支持提供科学依据。本文档系统梳理创业心理学的核心概念、理论框架、实践应用和前沿研究方向。

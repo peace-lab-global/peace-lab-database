@@ -1,3 +1,32 @@
+---
+
+title: "性焦虑专业内容体系用户体验指南"
+description: "性焦虑专业内容体系用户体验指南的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性焦虑专业内容体系用户体验指南"
+  - "性焦虑专业内容体系用户体验指南的核心概念"
+  - "性焦虑专业内容体系用户体验指南的方法与实践"
+  - "性焦虑专业内容体系用户体验指南的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 性焦虑专业内容体系用户体验指南
 
 ## 使用对象定位

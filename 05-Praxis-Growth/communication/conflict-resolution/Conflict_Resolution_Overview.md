@@ -1,3 +1,31 @@
+---
+
+title: "冲突解决概述 | Conflict Resolution Overview"
+description: "冲突解决概述 | Conflict Resolution Overview的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > Conflict Resolution"
+tags: ["communication", "decision-making", "negotiation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冲突解决概述 | Conflict Resolution Overview"
+  - "冲突解决概述 | Conflict Resolution Overview的核心概念"
+  - "冲突解决概述 | Conflict Resolution Overview的方法与实践"
+trigger_keywords: ["冲突解决概述", "assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Client_Relations.md"
+    relation: "communication/emotion/neuroscience"
+
+---
 # 冲突解决概述 | Conflict Resolution Overview
 
 > 冲突解决(Conflict Resolution)是一个跨学科的实践领域,融合了心理学、谈判学、调解学和法学等多领域智慧。从Thomas-Kilmann冲突模式工具,到Fisher与Ury的利益导向谈判,再到修复性司法(Restorative Justice)的对话范式,冲突解决的方法论不断演进。本概述提供系统框架,帮助读者理解冲突的本质、掌握专业的解决工具,并在实践中促进建设性转化。

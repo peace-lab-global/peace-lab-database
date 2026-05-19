@@ -1,3 +1,31 @@
+---
+
+title: "巴鲁赫·斯宾诺莎 (Baruch Spinoza)"
+description: "巴鲁赫·斯宾诺莎 (Baruch Spinoza)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
+tags: ["cbt", "healing"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴鲁赫·斯宾诺莎"
+  - "巴鲁赫·斯宾诺莎的核心概念"
+  - "巴鲁赫·斯宾诺莎的方法与实践"
+trigger_keywords: ["巴鲁赫", "斯宾诺莎", "act", "behavioral", "body", "cbt"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "emotion/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 巴鲁赫·斯宾诺莎 (Baruch Spinoza)
 
 ## 核心思想 (Core Ideas)

@@ -1,3 +1,31 @@
+---
+
+title: "Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命"
+description: "Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命"
+  - "Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命的核心概念"
+  - "Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命的方法与实践"
+trigger_keywords: ["act", "adolescent", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "exercise/sexuality/therapy"
+
+---
 # Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命
 
 ## 摘要 (Abstract)

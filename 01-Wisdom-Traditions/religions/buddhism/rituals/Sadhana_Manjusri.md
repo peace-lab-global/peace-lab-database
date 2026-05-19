@@ -1,3 +1,31 @@
+---
+
+title: "文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)"
+description: "文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["decision-making", "buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文殊师利完整修持仪轨"
+  - "文殊师利完整修持仪轨的核心概念"
+  - "文殊师利完整修持仪轨的方法与实践"
+trigger_keywords: ["文殊师利完整修持仪轨", "decision-making", "sexuality", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality"
+
+---
 # 文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)
 
 > **文殊师利 (Manjusri / Jamyang / Wenshu Shili)**：智慧本尊，诸佛之师，七佛之师。身黄色，持宝剑与般若经函，象征般若智慧能断一切烦恼。此仪轨涵盖文殊五字真言、文殊心咒、文殊法相观想及智慧开显修持。

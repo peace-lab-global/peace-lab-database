@@ -1,3 +1,32 @@
+---
+
+title: "职业吸引心理学专业内容体系建设项目总结报告"
+description: "职业吸引心理学专业内容体系建设项目总结报告的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Professional Attraction"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业吸引心理学专业内容体系建设项目总结报告"
+  - "职业吸引心理学专业内容体系建设项目总结报告的核心概念"
+  - "职业吸引心理学专业内容体系建设项目总结报告的方法与实践"
+  - "职业吸引心理学专业内容体系建设项目总结报告的自助方法"
+trigger_keywords: ["act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
+    relation: "sexuality/therapy/trauma"
+
+---
 # 职业吸引心理学专业内容体系建设项目总结报告
 
 ## 📋 项目概述

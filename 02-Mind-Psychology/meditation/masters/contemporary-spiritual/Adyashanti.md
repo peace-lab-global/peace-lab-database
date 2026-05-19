@@ -1,3 +1,31 @@
+---
+
+title: "阿迪亚香提 (Adyashanti)"
+description: "阿迪亚香提 (Adyashanti)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
+tags: ["brain", "meditation", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是阿迪亚香提"
+  - "阿迪亚香提的核心概念"
+  - "阿迪亚香提的方法与实践"
+trigger_keywords: ["阿迪亚香提", "act", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 阿迪亚香提 (Adyashanti)
 
 > "Enlightenment is a destructive process. It has nothing to do with becoming better or being happier. Enlightenment is the crumbling away of untruth."

@@ -1,3 +1,31 @@
+---
+
+title: "《宗教经验之种种》The Varieties of Religious Experience"
+description: "《宗教经验之种种》The Varieties of Religious Experience的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《宗教经验之种种》The Varieties of Religious Experience"
+  - "《宗教经验之种种》The Varieties of Religious Experience的核心概念"
+  - "《宗教经验之种种》The Varieties of Religious Experience的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "anxiety/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《宗教经验之种种》The Varieties of Religious Experience
 
 **作者：** 威廉·詹姆斯 (William James)  

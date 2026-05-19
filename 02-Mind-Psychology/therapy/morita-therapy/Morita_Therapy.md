@@ -1,3 +1,31 @@
+---
+
+title: "Morita Therapy (森田疗法)"
+description: "Morita Therapy (森田疗法)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Morita Therapy"
+tags: ["anxiety", "cbt", "mbsr", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Morita Therapy"
+  - "Morita Therapy的核心概念"
+  - "Morita Therapy的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # Morita Therapy (森田疗法)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

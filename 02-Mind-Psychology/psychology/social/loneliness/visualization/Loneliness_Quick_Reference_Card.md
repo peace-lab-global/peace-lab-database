@@ -1,3 +1,31 @@
+---
+
+title: "孤独干预速查卡 | Loneliness Intervention Quick Reference Card"
+description: "孤独干预速查卡 | Loneliness Intervention Quick Reference Card的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
+tags: ["anxiety", "attachment", "mbsr", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独干预速查卡 | Loneliness Intervention Quick Reference Card"
+  - "孤独干预速查卡 | Loneliness Intervention Quick Reference Card的核心概念"
+  - "孤独干预速查卡 | Loneliness Intervention Quick Reference Card的方法与实践"
+trigger_keywords: ["孤独干预速查卡", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独干预速查卡 | Loneliness Intervention Quick Reference Card
 
 > **版本**：v1.0 | **设计用途**：A4打印（可裁切为A5口袋版）| **适用**：心理咨询师、社工、全科医生、冥想导师  

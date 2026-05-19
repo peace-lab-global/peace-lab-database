@@ -1,3 +1,31 @@
+---
+
+title: "锡克教冥想专业概述：Naam 之道与神圣记忆"
+description: "锡克教冥想专业概述：Naam 之道与神圣记忆的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Sikh Meditation"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是锡克教冥想专业概述：Naam 之道与神圣记忆"
+  - "锡克教冥想专业概述：Naam 之道与神圣记忆的核心概念"
+  - "锡克教冥想专业概述：Naam 之道与神圣记忆的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 锡克教冥想专业概述：Naam 之道与神圣记忆
 
 > **适用对象**：对锡克教灵修传统感兴趣的冥想练习者、宗教学研究者、跨传统灵修探索者、心理健康从业者、瑜伽/昆达里尼练习者

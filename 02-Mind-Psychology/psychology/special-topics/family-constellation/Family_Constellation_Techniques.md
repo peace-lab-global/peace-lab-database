@@ -1,3 +1,31 @@
+---
+
+title: "家庭系统排列实践方法与技术 (Family Constellation Techniques & Practice)"
+description: "家庭系统排列实践方法与技术 (Family Constellation Techniques & Practice)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
+tags: ["decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是家庭系统排列实践方法与技术"
+  - "家庭系统排列实践方法与技术的核心概念"
+  - "家庭系统排列实践方法与技术的方法与实践"
+trigger_keywords: ["act", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ethics_Business_Professional.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # 家庭系统排列实践方法与技术 (Family Constellation Techniques & Practice)
 
 ## 排列形式分类 (Types of Constellation Work)

@@ -1,3 +1,32 @@
+---
+
+title: "储物癖障碍治疗 (Hoarding Disorder Treatment)"
+description: "储物癖障碍治疗 (Hoarding Disorder Treatment)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Hoarding Disorder"
+tags: ["anxiety", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是储物癖障碍治疗"
+  - "储物癖障碍治疗的核心概念"
+  - "储物癖障碍治疗的方法与实践"
+  - "储物癖障碍治疗的循证证据"
+trigger_keywords: ["储物癖障碍治疗", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Practice_Guide.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 储物癖障碍治疗 (Hoarding Disorder Treatment)
 
 ## 1. 治疗原则 (Treatment Principles)

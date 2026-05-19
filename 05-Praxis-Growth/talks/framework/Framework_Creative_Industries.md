@@ -1,3 +1,31 @@
+---
+
+title: "创意产业 | Creative Industries"
+description: "创意产业 | Creative Industries的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["cinema", "literature", "music", "productivity"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创意产业 | Creative Industries"
+  - "创意产业 | Creative Industries的核心概念"
+  - "创意产业 | Creative Industries的方法与实践"
+trigger_keywords: ["创意产业", "act", "art", "cinema", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 创意产业 | Creative Industries
 
 > 创意产业（Creative Industries）是以知识、创意、文化和个人才能为核心要素的新兴经济形态。从约翰·霍金斯（John Howkins）提出"创意经济"（Creative Economy）概念，到理查德·佛罗里达（Richard Florida）揭示"创意阶层"（Creative Class）的崛起，创意产业已成为全球经济中最具活力和增长潜力的板块之一。在数字化浪潮的推动下，创意产业正经历着前所未有的范式转型，同时也在和平建设、文化多样性和可持续发展等方面发挥着独特的社会价值。

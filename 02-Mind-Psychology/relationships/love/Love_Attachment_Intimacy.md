@@ -1,3 +1,31 @@
+---
+
+title: "Love Attachment & Intimacy Development (恋爱依恋与亲密发展)"
+description: "Love Attachment & Intimacy Development (恋爱依恋与亲密发展)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Love"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Love Attachment & Intimacy Development"
+  - "Love Attachment & Intimacy Development的核心概念"
+  - "Love Attachment & Intimacy Development的方法与实践"
+trigger_keywords: ["anxiety", "attachment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Love Attachment & Intimacy Development (恋爱依恋与亲密发展)
 
 ### Adult Attachment in Romantic Love (恋爱中的成人依恋表)

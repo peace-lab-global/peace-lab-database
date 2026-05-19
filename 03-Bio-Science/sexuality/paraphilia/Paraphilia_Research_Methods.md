@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)"
+description: "Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Research Methods & Academic Resources"
+  - "Paraphilic Disorders: Research Methods & Academic Resources的核心概念"
+  - "Paraphilic Disorders: Research Methods & Academic Resources的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
+    relation: "sexuality/therapy"
+
+---
 # Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)
 
 > 📘 **文档导航**: 本专题文档提供恋物癖研究的方法学指导和学术资源。相关主题请参考：

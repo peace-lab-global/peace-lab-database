@@ -1,3 +1,31 @@
+---
+
+title: "death | Index"
+description: "death | Index的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是death | Index"
+  - "death | Index的核心概念"
+  - "death | Index的方法与实践"
+trigger_keywords: ["death", "Index", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # death | Index
 
 ## 内容索引 | Contents

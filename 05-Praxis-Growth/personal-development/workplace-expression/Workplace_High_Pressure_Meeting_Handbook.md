@@ -1,3 +1,31 @@
+---
+
+title: "高压会议现场应对手册 (High-Pressure Meeting Survival Handbook)"
+description: "高压会议现场应对手册 (High-Pressure Meeting Survival Handbook)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "leadership", "ocd", "personality", "个人发展"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是高压会议现场应对手册"
+  - "高压会议现场应对手册的核心概念"
+  - "高压会议现场应对手册的方法与实践"
+trigger_keywords: ["高压会议现场应对手册", "communication", "emotion", "leadership", "ocd"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "communication/emotion/personality"
+
+---
 # 高压会议现场应对手册 (High-Pressure Meeting Survival Handbook)
 
 > **定位**：帮助在公开施压、突然点名、被追责、被迫当场表态等高压会议中保持专业、保护边界并守住事实

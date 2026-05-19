@@ -1,3 +1,32 @@
+---
+
+title: "政党忠诚心理学社会影响与干预策略 (Party Loyalty Psychology: Social Impact & Intervention Strategies)"
+description: "政党忠诚心理学社会影响与干预策略 (Party Loyalty Psychology: Social Impact & Intervention Strategies)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Party Loyalty Psychology"
+tags: ["cbt", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是政党忠诚心理学社会影响与干预策略"
+  - "政党忠诚心理学社会影响与干预策略的核心概念"
+  - "政党忠诚心理学社会影响与干预策略的方法与实践"
+  - "政党忠诚心理学社会影响与干预策略的自助方法"
+trigger_keywords: ["act", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/sexuality/stress"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/sexuality/stress"
+  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
+    relation: "communication/sexuality/stress"
+
+---
 # 政党忠诚心理学社会影响与干预策略 (Party Loyalty Psychology: Social Impact & Intervention Strategies)
 
 ## 目录 (Table of Contents)

@@ -1,3 +1,31 @@
+---
+
+title: "《人间是剧场》三方书评"
+description: "《人间是剧场》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > World Is A Playground"
+tags: ["buddhism", "cinema", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人间是剧场》三方书评"
+  - "《人间是剧场》三方书评的核心概念"
+  - "《人间是剧场》三方书评的方法与实践"
+trigger_keywords: ["anxiety", "body", "buddhism", "cinema"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C4-2-five-obstacles-of-meditation.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 《人间是剧场》三方书评
 
 ---

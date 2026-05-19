@@ -1,3 +1,31 @@
+---
+
+title: "心念转化技术 (Mind Transformation Techniques)"
+description: "心念转化技术 (Mind Transformation Techniques)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
+tags: ["addiction", "buddhism", "cbt", "meditation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是心念转化技术"
+  - "心念转化技术的核心概念"
+  - "心念转化技术的方法与实践"
+trigger_keywords: ["心念转化技术", "act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Chanting_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 心念转化技术 (Mind Transformation Techniques)
 
 > **心念转化**：通过系统的禅修与觉察方法，将染污心识转化为清净智慧，是佛教修行的核心目标与唯识学的实践精髓。

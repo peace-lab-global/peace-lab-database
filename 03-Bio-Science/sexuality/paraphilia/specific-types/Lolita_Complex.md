@@ -1,3 +1,31 @@
+---
+
+title: "Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)"
+description: "Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Lolita Complex & Age-Related Attraction"
+  - "Lolita Complex & Age-Related Attraction的核心概念"
+  - "Lolita Complex & Age-Related Attraction的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/sexuality"
+
+---
 # Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)
 
 > ⚠️ **重要伦理声明**: 本文档严格遵守法律法规，仅讨论合法的成人审美偏好和心理现象。任何涉及未成年人的实际行为都是严重违法的，必须坚决反对和杜绝。

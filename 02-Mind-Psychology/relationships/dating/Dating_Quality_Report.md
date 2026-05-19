@@ -1,3 +1,31 @@
+---
+
+title: "Dating Psychology Quality Report (约会心理学质量报告)"
+description: "Dating Psychology Quality Report (约会心理学质量报告)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["attachment", "intervention", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Psychology Quality Report"
+  - "Dating Psychology Quality Report的核心概念"
+  - "Dating Psychology Quality Report的方法与实践"
+trigger_keywords: ["assessment", "attachment", "clinical", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "attachment/communication/neuroscience"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "attachment/communication/neuroscience"
+
+---
 # Dating Psychology Quality Report (约会心理学质量报告)
 
 > 📘 **报告概述**: 本报告对约会心理学专业内容体系进行全面质量评估，确保内容的专业性、完整性和实用性。

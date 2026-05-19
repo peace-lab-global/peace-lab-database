@@ -1,3 +1,31 @@
+---
+
+title: "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）"
+description: "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Tibetan"
+tags: ["dzogchen", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）"
+  - "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的核心概念"
+  - "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的方法与实践"
+trigger_keywords: ["behavioral", "body", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/death/emotion"
+
+---
 # 索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）
 
 > 《西藏生死书》的作者——从畅销书大师到性侵被告的坠落

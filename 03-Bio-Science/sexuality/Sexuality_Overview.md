@@ -1,3 +1,31 @@
+---
+
+title: "Sexuality Studies Overview (性学研究概览)"
+description: "Sexuality Studies Overview (性学研究概览)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["aging", "attachment", "cbt", "sexuality", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Sexuality Studies Overview"
+  - "Sexuality Studies Overview的核心概念"
+  - "Sexuality Studies Overview的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Sexuality Studies Overview (性学研究概览)
 
 > 📘 **文档导航**: 本概览文档提供性学研究的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

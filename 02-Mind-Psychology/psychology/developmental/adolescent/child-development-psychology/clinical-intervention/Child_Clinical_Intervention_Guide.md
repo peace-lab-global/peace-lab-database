@@ -1,3 +1,31 @@
+---
+
+title: "儿童临床干预实践指南"
+description: "儿童临床干预实践指南的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Clinical Intervention"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童临床干预实践指南"
+  - "儿童临床干预实践指南的核心概念"
+  - "儿童临床干预实践指南的方法与实践"
+trigger_keywords: ["儿童临床干预实践指南", "anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Terminology_Theory.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 儿童临床干预实践指南
 
 ## 🛠️ 循证干预方法体系

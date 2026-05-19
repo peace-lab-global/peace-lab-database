@@ -1,3 +1,31 @@
+---
+
+title: "《回忆、梦、反思》Memories, Dreams, Reflections"
+description: "《回忆、梦、反思》Memories, Dreams, Reflections的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["freud", "jung", "loneliness", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《回忆、梦、反思》Memories, Dreams, Reflections"
+  - "《回忆、梦、反思》Memories, Dreams, Reflections的核心概念"
+  - "《回忆、梦、反思》Memories, Dreams, Reflections的方法与实践"
+trigger_keywords: ["《回忆", "aging", "buddhism", "death", "freud"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "buddhism/death/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
+    relation: "buddhism/death/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/buddhism/personality"
+
+---
 # 《回忆、梦、反思》Memories, Dreams, Reflections
 
 > 卡尔·荣格（Carl Jung）著，1961年出版（遗作）。荣格晚年口述的自传，由他的秘书阿尼拉·贾菲记录整理。这不是传统意义上的自传——它是荣格对自己一生的心灵探索的记录，包括他的童年幻觉、与弗洛伊德的决裂、对集体无意识的发现、以及与死亡的对话。

@@ -1,3 +1,31 @@
+---
+
+title: "Special Populations"
+description: "Special Populations的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Special Populations"
+  - "Special Populations的核心概念"
+  - "Special Populations的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+
+---
 ## 11. 特定人群抑郁正念干预指南
 
 > **说明**：不同生命阶段、性别、躯体健康状况的抑郁患者，其症状表达、认知特点、社会处境和干预需求存在显著差异。"一刀切"的正念方案可能事倍功半，甚至造成二次伤害。本章提供四大特定人群的差异化干预框架。

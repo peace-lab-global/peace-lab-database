@@ -1,3 +1,31 @@
+---
+
+title: "NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways"
+description: "NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
+tags: ["aging", "exercise", "fasting", "hpa-axis", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways"
+  - "NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways的核心概念"
+  - "NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways的方法与实践"
+trigger_keywords: ["NAD+", "Sirtuins", "mTOR", "act", "aging", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/exercise/immune"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/exercise/immune"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/exercise/immune"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/exercise/immune"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/exercise/nutrition"
+
+---
 # NAD+与Sirtuins长寿通路 | NAD+ / Sirtuins / mTOR / AMPK Pathways
 
 > **核心主题**: 衰老的四大营养感应信号通路及其药理干预

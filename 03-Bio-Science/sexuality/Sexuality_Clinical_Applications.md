@@ -1,3 +1,31 @@
+---
+
+title: "Clinical Applications in Sexuality (性学临床应用)"
+description: "Clinical Applications in Sexuality (性学临床应用)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["attachment", "brain", "cbt", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Clinical Applications in Sexuality"
+  - "Clinical Applications in Sexuality的核心概念"
+  - "Clinical Applications in Sexuality的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Energy_Sound.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # Clinical Applications in Sexuality (性学临床应用)
 
 > 🏥 **临床应用指南**: 本文档专注于性学的临床实践应用。

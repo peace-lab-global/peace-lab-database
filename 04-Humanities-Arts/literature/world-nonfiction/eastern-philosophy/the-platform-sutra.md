@@ -1,3 +1,31 @@
+---
+
+title: "《六祖坛经》The Platform Sutra"
+description: "《六祖坛经》The Platform Sutra的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["personality", "spirituality", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《六祖坛经》The Platform Sutra"
+  - "《六祖坛经》The Platform Sutra的核心概念"
+  - "《六祖坛经》The Platform Sutra的方法与实践"
+trigger_keywords: ["anxiety", "buddhism", "personality", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 《六祖坛经》The Platform Sutra
 
 > 惠能（Huineng，638-713年）著，中国禅宗六祖，唐代高僧。本书是惠能在大梵寺讲法的记录，由弟子法海集录，是中国佛教史上唯一一部被尊为"经"的本土著作。惠能本为岭南樵夫，因听闻《金刚经》"应无所住而生其心"一句而悟道，后得五祖弘忍衣钵，成为禅宗南宗创始人。

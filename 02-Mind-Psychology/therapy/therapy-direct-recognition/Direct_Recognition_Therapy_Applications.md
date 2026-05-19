@@ -1,3 +1,32 @@
+---
+
+title: "直接认知疗法应用指南 (Direct Recognition Therapy Applications)"
+description: "直接认知疗法应用指南 (Direct Recognition Therapy Applications)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Therapy Direct Recognition"
+tags: ["addiction", "anxiety", "attachment", "cbt", "emdr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是直接认知疗法应用指南"
+  - "直接认知疗法应用指南的核心概念"
+  - "直接认知疗法应用指南的方法与实践"
+  - "直接认知疗法应用指南的循证证据"
+trigger_keywords: ["直接认知疗法应用指南", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 直接认知疗法应用指南 (Direct Recognition Therapy Applications)
 
 > 不二论心理学在临床实践中的具体应用：技术方法、适用人群与整合策略

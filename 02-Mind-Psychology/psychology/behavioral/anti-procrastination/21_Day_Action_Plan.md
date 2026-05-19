@@ -1,3 +1,31 @@
+---
+
+title: "21天行动方案"
+description: "21天行动方案的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["anxiety", "habits", "心理学", "行为心理"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是21天行动方案"
+  - "21天行动方案的核心概念"
+  - "21天行动方案的方法与实践"
+trigger_keywords: ["21天行动方案", "anxiety", "assessment", "cognitive", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "anxiety/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
+    relation: "anxiety/productivity/sexuality"
+
+---
 # 21天行动方案
 
 ## 目录

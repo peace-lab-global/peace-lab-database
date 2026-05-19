@@ -1,3 +1,31 @@
+---
+
+title: "Fasting Protocols & Practical Guidelines (断食协议与实务操作)"
+description: "Fasting Protocols & Practical Guidelines (断食协议与实务操作)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食"
+tags: ["fasting", "gut", "immune", "inflammation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Fasting Protocols & Practical Guidelines"
+  - "Fasting Protocols & Practical Guidelines的核心概念"
+  - "Fasting Protocols & Practical Guidelines的方法与实践"
+trigger_keywords: ["act", "body", "clinical", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "cardiovascular/emotion/nutrition"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "emotion/immune/nutrition"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/emotion/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+    relation: "cardiovascular/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/emotion/immune"
+
+---
 # Fasting Protocols & Practical Guidelines (断食协议与实务操作)
 
 ### Foundational Protocols for Healthy Adults (健康成人基础断食协议表)

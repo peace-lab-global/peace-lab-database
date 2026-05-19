@@ -1,3 +1,32 @@
+---
+
+title: "谈判心理学与策略 | Negotiation Psychology & Strategy"
+description: "谈判心理学与策略 | Negotiation Psychology & Strategy的详细解析与实践指南"
+category: "实践与个人增长 > 沟通 > 谈判"
+tags: ["communication", "decision-making", "negotiation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是谈判心理学与策略 | Negotiation Psychology & Strategy"
+  - "谈判心理学与策略 | Negotiation Psychology & Strategy的核心概念"
+  - "谈判心理学与策略 | Negotiation Psychology & Strategy的方法与实践"
+  - "谈判心理学与策略 | Negotiation Psychology & Strategy的自助方法"
+trigger_keywords: ["谈判心理学与策略", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/INDEX.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 谈判心理学与策略 | Negotiation Psychology & Strategy
 
 > **学科定位**: 行为经济学 x 社会心理学 x 冲突解决

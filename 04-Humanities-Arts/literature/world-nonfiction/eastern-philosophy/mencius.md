@@ -1,3 +1,31 @@
+---
+
+title: "《孟子》Mencius"
+description: "《孟子》Mencius的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["self-confidence", "social", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《孟子》Mencius"
+  - "《孟子》Mencius的核心概念"
+  - "《孟子》Mencius的方法与实践"
+trigger_keywords: ["behavioral", "developmental", "philosophy", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # 《孟子》Mencius
 
 > 孟子（Mencius，约公元前372—前289年）及其弟子著，战国时期儒家代表人物，被后世尊为"亚圣"。《孟子》七篇，记录了孟子的言行和政治游说，是儒家"四书"之一。孟子发展了孔子的"仁"学，提出"性善论"、"仁政"和"民本思想"，对中国政治哲学和伦理学产生了深远影响。

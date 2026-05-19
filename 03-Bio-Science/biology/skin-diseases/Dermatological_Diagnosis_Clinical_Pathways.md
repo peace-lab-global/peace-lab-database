@@ -1,3 +1,31 @@
+---
+
+title: "Dermatological Diagnosis Clinical Pathways (皮肤病诊断临床路径)"
+description: "Dermatological Diagnosis Clinical Pathways (皮肤病诊断临床路径)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Skin Diseases"
+tags: ["decision-making", "gut", "habits"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dermatological Diagnosis Clinical Pathways"
+  - "Dermatological Diagnosis Clinical Pathways的核心概念"
+  - "Dermatological Diagnosis Clinical Pathways的方法与实践"
+trigger_keywords: ["assessment", "clinical", "cognitive", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/pain/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+    relation: "communication/pain/productivity"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md"
+    relation: "communication/pain/productivity"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
+    relation: "communication/pain/productivity"
+  - path: "04-Humanities-Arts/arts/artists/renaissance/Leonardo_da_Vinci.md"
+    relation: "communication/pain/productivity"
+
+---
 # Dermatological Diagnosis Clinical Pathways (皮肤病诊断临床路径)
 
 > **皮肤病系统性诊断框架 (Systematic Dermatological Diagnostic Framework)**

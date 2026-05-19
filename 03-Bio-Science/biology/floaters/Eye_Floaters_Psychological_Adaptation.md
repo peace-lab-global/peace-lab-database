@@ -1,3 +1,32 @@
+---
+
+title: "飞蚊症心理适应策略专业内容体系"
+description: "飞蚊症心理适应策略专业内容体系的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 飞蚊症"
+tags: ["aging", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是飞蚊症心理适应策略专业内容体系"
+  - "飞蚊症心理适应策略专业内容体系的核心概念"
+  - "飞蚊症心理适应策略专业内容体系的方法与实践"
+  - "飞蚊症心理适应策略专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 飞蚊症心理适应策略专业内容体系
 
 ## 目录

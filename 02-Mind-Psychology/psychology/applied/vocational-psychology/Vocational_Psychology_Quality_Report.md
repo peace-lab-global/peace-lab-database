@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)"
+description: "职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
+tags: ["cbt", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学专业体系质量评估报告"
+  - "职业心理学专业体系质量评估报告的核心概念"
+  - "职业心理学专业体系质量评估报告的方法与实践"
+  - "职业心理学专业体系质量评估报告的自助方法"
+trigger_keywords: ["act", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "sexuality/therapy/trauma"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
+    relation: "sexuality/therapy/trauma"
+
+---
 # 职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)
 
 > 📘 **文档导航**: 本报告全面评估职业心理学专业体系的内容质量、专业标准符合度和未来发展建议。相关文档：

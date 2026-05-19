@@ -1,3 +1,31 @@
+---
+
+title: "睡前拉伸放松：科学入眠身体准备"
+description: "睡前拉伸放松：科学入眠身体准备的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Pre Sleep Stretching"
+tags: ["aging", "brain", "sleep", "exercise"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是睡前拉伸放松：科学入眠身体准备"
+  - "睡前拉伸放松：科学入眠身体准备的核心概念"
+  - "睡前拉伸放松：科学入眠身体准备的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 睡前拉伸放松：科学入眠身体准备
 # Pre-Sleep Stretching: Scientific Physical Preparation for Sleep Onset
 

@@ -1,3 +1,31 @@
+---
+
+title: "印度哲学经典 · 佛法视角三方书评"
+description: "印度哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
+tags: ["buddhism", "philosophy", "yoga", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是印度哲学经典 · 佛法视角三方书评"
+  - "印度哲学经典 · 佛法视角三方书评的核心概念"
+  - "印度哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["印度哲学经典", "佛法视角三方书评", "behavioral", "body", "buddhism", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+    relation: "buddhism/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+    relation: "buddhism/emotion/sexuality"
+
+---
 # 印度哲学经典 · 佛法视角三方书评
 
 ---

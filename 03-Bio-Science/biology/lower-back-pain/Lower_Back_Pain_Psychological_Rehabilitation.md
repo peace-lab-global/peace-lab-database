@@ -1,3 +1,32 @@
+---
+
+title: "腰痛心理康复指导专业内容体系"
+description: "腰痛心理康复指导专业内容体系的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Lower Back Pain"
+tags: ["aging", "pain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是腰痛心理康复指导专业内容体系"
+  - "腰痛心理康复指导专业内容体系的核心概念"
+  - "腰痛心理康复指导专业内容体系的方法与实践"
+  - "腰痛心理康复指导专业内容体系的自助方法"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 腰痛心理康复指导专业内容体系
 
 ## 目录

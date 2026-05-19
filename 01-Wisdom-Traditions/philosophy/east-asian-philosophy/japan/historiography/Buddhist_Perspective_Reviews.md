@@ -1,3 +1,31 @@
+---
+
+title: "日本史学哲学 · 佛法视角三方书评"
+description: "日本史学哲学 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Historiography"
+tags: ["buddhism", "mindfulness", "philosophy", "positive-psychology", "trauma"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是日本史学哲学 · 佛法视角三方书评"
+  - "日本史学哲学 · 佛法视角三方书评的核心概念"
+  - "日本史学哲学 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["日本史学哲学", "佛法视角三方书评", "body", "buddhism", "exercise", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/hindu-meditation/Hindu_Meditation_Overview.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/industry-leaders/Dan_Harris.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/industry-leaders/Michael_Tamez.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 日本史学哲学 · 佛法视角三方书评
 
 ## 主题：家永三郎的和平主义 vs 佛教和平主义；历史反思 vs 正念

@@ -1,3 +1,32 @@
+---
+
+title: "慢性疲劳综合征治疗方法 (CFS Treatment Methods)"
+description: "慢性疲劳综合征治疗方法 (CFS Treatment Methods)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
+tags: ["addiction", "anxiety", "brain", "cbt", "sleep", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是慢性疲劳综合征治疗方法"
+  - "慢性疲劳综合征治疗方法的核心概念"
+  - "慢性疲劳综合征治疗方法的方法与实践"
+  - "慢性疲劳综合征治疗方法的循证证据"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 慢性疲劳综合征治疗方法 (CFS Treatment Methods)
 
 > ME/CFS目前尚无根治方法，治疗目标是症状管理、功能优化和预防恶化。活动管理(Pacing)是治疗基础，辅以针对性症状治疗、心理支持和生活方式调整。本文档基于最新NICE 2021指南和循证证据，提供全面的治疗框架。

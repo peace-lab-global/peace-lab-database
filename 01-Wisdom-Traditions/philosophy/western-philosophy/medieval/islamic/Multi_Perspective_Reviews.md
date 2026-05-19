@@ -1,3 +1,31 @@
+---
+
+title: "伊斯兰哲学经典三方书评"
+description: "伊斯兰哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Islamic"
+tags: ["habits", "philosophy", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是伊斯兰哲学经典三方书评"
+  - "伊斯兰哲学经典三方书评的核心概念"
+  - "伊斯兰哲学经典三方书评的方法与实践"
+trigger_keywords: ["behavioral", "body", "crisis", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Branding_Marketing.md"
+    relation: "exercise/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "exercise/productivity/sexuality"
+
+---
 # 伊斯兰哲学经典三方书评
 
 > 安萨里（Al-Ghazali, 1058–1111）的三部核心著作，由哲学、神学与神秘主义三个视角分别评述。

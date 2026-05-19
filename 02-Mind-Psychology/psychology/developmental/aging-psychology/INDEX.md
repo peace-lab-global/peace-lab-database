@@ -1,3 +1,32 @@
+---
+
+title: "老年心理学 | Aging Psychology Index"
+description: "老年心理学 | Aging Psychology Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
+tags: ["brain", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是老年心理学 | Aging Psychology Index"
+  - "老年心理学 | Aging Psychology Index的核心概念"
+  - "老年心理学 | Aging Psychology Index的方法与实践"
+  - "老年心理学 | Aging Psychology Index的自助方法"
+trigger_keywords: ["老年心理学", "aging", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/death/INDEX.md"
+    relation: "aging/daoism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Mahler_Music_Therapy.md"
+    relation: "aging/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/depression/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/daoism/depression"
+
+---
 # 老年心理学 | Aging Psychology Index
 
 > 成功老化、认知保护、情绪健康与人生转型

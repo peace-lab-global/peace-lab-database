@@ -1,3 +1,31 @@
+---
+
+title: "《不能承受的生命之轻》The Unbearable Lightness of Being"
+description: "《不能承受的生命之轻》The Unbearable Lightness of Being的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["loneliness", "marriage", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不能承受的生命之轻》The Unbearable Lightness of Being"
+  - "《不能承受的生命之轻》The Unbearable Lightness of Being的核心概念"
+  - "《不能承受的生命之轻》The Unbearable Lightness of Being的方法与实践"
+trigger_keywords: ["death", "loneliness", "marriage", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "attachment/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/death/emotion"
+  - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
+    relation: "attachment/death/emotion"
+
+---
 # 《不能承受的生命之轻》The Unbearable Lightness of Being
 
 > 米兰·昆德拉（Milan Kundera）著，1984年出版。捷克裔法国作家的代表作，以1968年布拉格之春为背景，讲述了外科医生托马斯、他的妻子特蕾莎和他的情人萨宾娜之间的情感纠葛。书名来自尼采的"永恒轮回"思想——如果生命只能活一次，它就是"轻的"；如果可以无限重复，它就是"重的"。

@@ -1,3 +1,31 @@
+---
+
+title: "生态文明 | Ecological Civilization"
+description: "生态文明 | Ecological Civilization的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["daoism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是生态文明 | Ecological Civilization"
+  - "生态文明 | Ecological Civilization的核心概念"
+  - "生态文明 | Ecological Civilization的方法与实践"
+trigger_keywords: ["生态文明", "assessment", "buddhism", "crisis", "daoism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/daoism/emotion"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "buddhism/daoism/emotion"
+
+---
 # 生态文明 | Ecological Civilization
 
 > 生态文明（Ecological Civilization）是人类继农业文明、工业文明之后的一种新型文明形态，以人与自然和谐共生为核心理念，强调在尊重自然规律的基础上实现经济、社会与环境的协调发展。这一概念源自中国，已逐渐成为全球可持续发展话语体系中的重要组成部分，代表着人类文明从征服自然向与自然共生关系的深刻转型。

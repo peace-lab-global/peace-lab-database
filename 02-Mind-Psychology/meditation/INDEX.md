@@ -1,3 +1,31 @@
+---
+
+title: "冥想知识库总索引 | Meditation Knowledge Base Master Index"
+description: "冥想知识库总索引 | Meditation Knowledge Base Master Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想"
+tags: ["addiction", "anxiety", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是冥想知识库总索引 | Meditation Knowledge Base Master Index"
+  - "冥想知识库总索引 | Meditation Knowledge Base Master Index的核心概念"
+  - "冥想知识库总索引 | Meditation Knowledge Base Master Index的方法与实践"
+trigger_keywords: ["冥想知识库总索引", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # 冥想知识库总索引 | Meditation Knowledge Base Master Index
 
 > **最后更新**：2026-05

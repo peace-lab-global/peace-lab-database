@@ -1,3 +1,31 @@
+---
+
+title: "《原型与集体无意识》The Archetypes and the Collective Unconscious"
+description: "《原型与集体无意识》The Archetypes and the Collective Unconscious的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《原型与集体无意识》The Archetypes and the Collective Unconscious"
+  - "《原型与集体无意识》The Archetypes and the Collective Unconscious的核心概念"
+  - "《原型与集体无意识》The Archetypes and the Collective Unconscious的方法与实践"
+trigger_keywords: ["buddhism", "death", "jung", "psychology"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《原型与集体无意识》The Archetypes and the Collective Unconscious
 
 > 卡尔·荣格（Carl Jung）著，1934-1954年（论文集）。荣格分析心理学的核心著作，系统阐述了"原型"（Archetypes）和"集体无意识"（Collective Unconscious）的理论。荣格认为，人类共享一个深层的心理结构，这个结构通过神话、梦境和宗教象征来表达自己。

@@ -1,3 +1,31 @@
+---
+
+title: "文艺复兴艺术家艺术疗愈应用指南"
+description: "文艺复兴艺术家艺术疗愈应用指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文艺复兴艺术家艺术疗愈应用指南"
+  - "文艺复兴艺术家艺术疗愈应用指南的核心概念"
+  - "文艺复兴艺术家艺术疗愈应用指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 文艺复兴艺术家艺术疗愈应用指南
 
 ## 概述 (Overview)

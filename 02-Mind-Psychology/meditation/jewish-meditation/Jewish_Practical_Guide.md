@@ -1,3 +1,31 @@
+---
+
+title: "犹太冥想实践指南"
+description: "犹太冥想实践指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Jewish Meditation"
+tags: ["brain", "grief", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是犹太冥想实践指南"
+  - "犹太冥想实践指南的核心概念"
+  - "犹太冥想实践指南的方法与实践"
+trigger_keywords: ["犹太冥想实践指南", "art", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "death/depression/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "depression/emotion/exercise"
+
+---
 # 犹太冥想实践指南
 
 > Hitbonenut、Hitbodedut、Sefirot 与 Niggun——犹太灵性修行的实操手册

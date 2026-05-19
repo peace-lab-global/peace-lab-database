@@ -1,3 +1,31 @@
+---
+
+title: "太极拳 | Tai Chi Index"
+description: "太极拳 | Tai Chi Index的详细解析与实践指南"
+category: "智慧传承 > 太极拳"
+tags: ["cardiovascular", "daoism", "meditation", "tcm", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太极拳 | Tai Chi Index"
+  - "太极拳 | Tai Chi Index的核心概念"
+  - "太极拳 | Tai Chi Index的方法与实践"
+trigger_keywords: ["太极拳", "act", "breathwork", "cardiovascular", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "daoism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/daoism/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "cardiovascular/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "cardiovascular/exercise/meditation"
+
+---
 # 太极拳 | Tai Chi Index
 
 > 太极拳身心修炼体系 — 道家哲学 · 内家拳术 · 动态冥想

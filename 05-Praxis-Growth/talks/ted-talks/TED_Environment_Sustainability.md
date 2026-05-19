@@ -1,3 +1,31 @@
+---
+
+title: "TED环境与可持续发展精选 | TED Environment & Sustainability Collection"
+description: "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["讲座"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是TED环境与可持续发展精选 | TED Environment & Sustainability Collection"
+  - "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的核心概念"
+  - "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的方法与实践"
+trigger_keywords: ["developmental", "sexuality", "讲座"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality"
+
+---
 # TED环境与可持续发展精选 | TED Environment & Sustainability Collection
 
 > **环境与可持续发展**关乎人类未来命运。本文件精选TED平台上关于气候变化、环境保护、可持续发展等议题的重要演讲，为环保人士和可持续发展实践者提供科学依据和行动指南。

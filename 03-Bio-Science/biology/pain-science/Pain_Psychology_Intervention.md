@@ -1,3 +1,32 @@
+---
+
+title: "慢性疼痛心理干预 | Pain Psychology Intervention"
+description: "慢性疼痛心理干预 | Pain Psychology Intervention的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 疼痛科学"
+tags: ["cbt", "depression", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是慢性疼痛心理干预 | Pain Psychology Intervention"
+  - "慢性疼痛心理干预 | Pain Psychology Intervention的核心概念"
+  - "慢性疼痛心理干预 | Pain Psychology Intervention的方法与实践"
+  - "慢性疼痛心理干预 | Pain Psychology Intervention的自助方法"
+trigger_keywords: ["慢性疼痛心理干预", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 慢性疼痛心理干预 | Pain Psychology Intervention
 
 > **学科定位**: 健康心理学 × 行为医学 × 疼痛康复

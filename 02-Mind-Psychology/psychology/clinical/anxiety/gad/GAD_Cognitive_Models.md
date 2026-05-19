@@ -1,3 +1,31 @@
+---
+
+title: "Generalized Anxiety Disorder Cognitive Models (广泛性焦虑障碍认知模型)"
+description: "Generalized Anxiety Disorder Cognitive Models (广泛性焦虑障碍认知模型)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Gad"
+tags: ["anxiety", "cbt", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Generalized Anxiety Disorder Cognitive Models"
+  - "Generalized Anxiety Disorder Cognitive Models的核心概念"
+  - "Generalized Anxiety Disorder Cognitive Models的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Generalized Anxiety Disorder Cognitive Models (广泛性焦虑障碍认知模型)
 
 > **GAD认知理论 (GAD Cognitive Theories / Theoriae Cognitivae)**

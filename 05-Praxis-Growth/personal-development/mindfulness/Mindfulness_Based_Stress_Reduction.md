@@ -1,3 +1,32 @@
+---
+
+title: "正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)"
+description: "正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念减压疗法"
+  - "正念减压疗法的核心概念"
+  - "正念减压疗法的方法与实践"
+  - "正念减压疗法的循证证据"
+trigger_keywords: ["正念减压疗法", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)
 
 ## 核心术语表 (Core Terminology)

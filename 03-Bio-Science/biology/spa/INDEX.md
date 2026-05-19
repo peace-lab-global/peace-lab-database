@@ -1,3 +1,19 @@
+---
+title: "spa | Index"
+description: "spa | Index的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa"
+tags: ["生物学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是spa | Index"
+  - "spa | Index的核心概念"
+  - "spa | Index的方法与实践"
+trigger_keywords: ["spa", "Index", "生物学"]
+cross_refs: []
+---
 # spa | Index
 
 ## 内容索引 | Contents

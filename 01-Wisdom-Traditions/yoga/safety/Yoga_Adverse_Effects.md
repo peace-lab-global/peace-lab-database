@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）"
+description: "瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Safety"
+tags: ["cardiovascular", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）"
+  - "瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）的核心概念"
+  - "瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/exercise"
+
+---
 # 瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）
 
 > 正视风险——瑜伽练习中的身体、心理与灵性不良反应

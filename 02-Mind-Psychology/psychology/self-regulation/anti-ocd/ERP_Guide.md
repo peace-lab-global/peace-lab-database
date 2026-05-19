@@ -1,3 +1,31 @@
+---
+
+title: "暴露与反应预防（ERP）详解"
+description: "暴露与反应预防（ERP）详解的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
+tags: ["anxiety", "habits", "ocd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是暴露与反应预防（ERP）详解"
+  - "暴露与反应预防（ERP）详解的核心概念"
+  - "暴露与反应预防（ERP）详解的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # 暴露与反应预防（ERP）详解
 
 ## 目录

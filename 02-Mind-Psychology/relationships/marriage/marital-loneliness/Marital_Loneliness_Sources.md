@@ -1,3 +1,31 @@
+---
+
+title: "婚后孤独感来源与形成机制 (Sources & Formation Mechanisms of Post-Marital Loneliness)"
+description: "婚后孤独感来源与形成机制 (Sources & Formation Mechanisms of Post-Marital Loneliness)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是婚后孤独感来源与形成机制"
+  - "婚后孤独感来源与形成机制的核心概念"
+  - "婚后孤独感来源与形成机制的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 婚后孤独感来源与形成机制 (Sources & Formation Mechanisms of Post-Marital Loneliness)
 
 ## 目录导航

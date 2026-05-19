@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽营养与生活方式 (Yogic Nutrition & Lifestyle)"
+description: "瑜伽营养与生活方式 (Yogic Nutrition & Lifestyle)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "cardiovascular", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽营养与生活方式"
+  - "瑜伽营养与生活方式的核心概念"
+  - "瑜伽营养与生活方式的方法与实践"
+trigger_keywords: ["瑜伽营养与生活方式", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/attachment/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/attachment/cardiovascular"
+  - path: "README.md"
+    relation: "attachment/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/attachment/emotion"
+
+---
 # 瑜伽营养与生活方式 (Yogic Nutrition & Lifestyle)
 
 ## 核心术语表 (Core Terminology)

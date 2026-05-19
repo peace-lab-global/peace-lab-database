@@ -1,3 +1,31 @@
+---
+
+title: "《吉檀迦利》Gitanjali"
+description: "《吉檀迦利》Gitanjali的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature", "religion", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《吉檀迦利》Gitanjali"
+  - "《吉檀迦利》Gitanjali的核心概念"
+  - "《吉檀迦利》Gitanjali的方法与实践"
+trigger_keywords: ["buddhism", "death", "literature", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《吉檀迦利》Gitanjali
 
 > 罗宾德拉纳特·泰戈尔（Rabindranath Tagore）著，1912年出版（英文版）。泰戈尔的诗集，副标题是"奉献之歌"（Song Offerings）。泰戈尔因此获得了1913年的诺贝尔文学奖，成为第一位获此殊荣的非欧洲作家。诗的核心主题是**对神的渴望、对合一的追求、对死亡的超越**。

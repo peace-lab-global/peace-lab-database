@@ -1,3 +1,32 @@
+---
+
+title: "心理学 (Psychology) | Index"
+description: "心理学 (Psychology) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学"
+tags: ["addiction", "anxiety", "cortisol", "depression", "sleep", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心理学  | Index"
+  - "心理学  | Index的核心概念"
+  - "心理学  | Index的方法与实践"
+  - "心理学  | Index的自助方法"
+trigger_keywords: ["心理学", "Index", "addiction", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 心理学 (Psychology) | Index
 
 > 覆盖理论基础、临床诊断、应激与神经内分泌、发展阶段、社会交互、行为模式、身心关联、自我调节、应用领域和特殊议题十大分类。

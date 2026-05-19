@@ -1,3 +1,31 @@
+---
+
+title: "C1-2 冥想简史"
+description: "C1-2 冥想简史的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "daoism", "depression"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C1-2 冥想简史"
+  - "C1-2 冥想简史的核心概念"
+  - "C1-2 冥想简史的方法与实践"
+trigger_keywords: ["C1-2 冥想简史", "anxiety", "buddhism", "cognitive", "communication"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/daoism"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # C1-2 冥想简史
 
 从东西方哲学角度梳理冥想的起源与价值，讨论了“科学尽头是神学”的内涵，给出冥想明确定义，并梳理了冥想发展的完整历史脉络。

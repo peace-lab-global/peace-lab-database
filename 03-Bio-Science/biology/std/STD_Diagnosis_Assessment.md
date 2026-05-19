@@ -1,3 +1,31 @@
+---
+
+title: "Sexually Transmitted Diseases Diagnosis and Assessment (性传播疾病诊断评估)"
+description: "Sexually Transmitted Diseases Diagnosis and Assessment (性传播疾病诊断评估)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["brain", "decision-making", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Sexually Transmitted Diseases Diagnosis and Assessment"
+  - "Sexually Transmitted Diseases Diagnosis and Assessment的核心概念"
+  - "Sexually Transmitted Diseases Diagnosis and Assessment的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # Sexually Transmitted Diseases Diagnosis and Assessment (性传播疾病诊断评估)
 
 > 🧪 **诊断指南**: 本文档详细介绍性传播疾病的诊断方法、实验室检测技术、影像学检查和鉴别诊断策略。建议结合[临床表现](STD_Clinical_Features.md)和[治疗管理](STD_Treatment_Management.md)文档进行系统学习。

@@ -1,3 +1,31 @@
+---
+
+title: "中国现代诗歌专业内容体系：新诗发展的百年历程"
+description: "中国现代诗歌专业内容体系：新诗发展的百年历程的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Poetry > Modern"
+tags: ["literature", "music", "nutrition", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国现代诗歌专业内容体系：新诗发展的百年历程"
+  - "中国现代诗歌专业内容体系：新诗发展的百年历程的核心概念"
+  - "中国现代诗歌专业内容体系：新诗发展的百年历程的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
+    relation: "exercise/nutrition/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "exercise/nutrition/personality"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "exercise/nutrition/personality"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+
+---
 # 中国现代诗歌专业内容体系：新诗发展的百年历程
 
 ## 概述 (Overview)

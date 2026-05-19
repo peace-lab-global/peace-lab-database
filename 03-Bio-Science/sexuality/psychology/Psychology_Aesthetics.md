@@ -1,3 +1,32 @@
+---
+
+title: "性心理学概述 | Sexual Psychology Overview"
+description: "性心理学概述 | Sexual Psychology Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > 心理学"
+tags: ["attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性心理学概述 | Sexual Psychology Overview"
+  - "性心理学概述 | Sexual Psychology Overview的核心概念"
+  - "性心理学概述 | Sexual Psychology Overview的方法与实践"
+  - "性心理学概述 | Sexual Psychology Overview的自助方法"
+trigger_keywords: ["性心理学概述", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 性心理学概述 | Sexual Psychology Overview
 
 > 性心理学（Sexual Psychology）是心理学的重要分支，研究人类性行为、性欲望、性取向、性别认同及性健康的心理机制。本概述系统梳理性心理学的核心理论、研究方法与实践应用，为理解人类性心理现象提供科学基础。

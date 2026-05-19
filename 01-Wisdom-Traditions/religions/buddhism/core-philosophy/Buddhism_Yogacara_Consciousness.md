@@ -1,3 +1,31 @@
+---
+
+title: "唯识学与八识心王 (Yogācāra & Eight Consciousnesses)"
+description: "唯识学与八识心王 (Yogācāra & Eight Consciousnesses)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["addiction", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是唯识学与八识心王"
+  - "唯识学与八识心王的核心概念"
+  - "唯识学与八识心王的方法与实践"
+trigger_keywords: ["唯识学与八识心王", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Chanting_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "anxiety/buddhism/sexuality"
+
+---
 # 唯识学与八识心王 (Yogācāra & Eight Consciousnesses)
 
 > **唯识学 (Yogācāra)**：大乘佛教两大学派之一，深入分析心识结构与运作机制，主张"三界唯心，万法唯识"，认为一切现象皆是心识的变现。

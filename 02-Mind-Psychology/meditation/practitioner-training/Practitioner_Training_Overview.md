@@ -1,3 +1,31 @@
+---
+
+title: "Meditation Practitioner Training Overview (冥想执行师培训体系总览)"
+description: "Meditation Practitioner Training Overview (冥想执行师培训体系总览)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Practitioner Training"
+tags: ["addiction", "anxiety", "attachment", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Meditation Practitioner Training Overview"
+  - "Meditation Practitioner Training Overview的核心概念"
+  - "Meditation Practitioner Training Overview的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Overview.md"
+    relation: "aging/anxiety/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # Meditation Practitioner Training Overview (冥想执行师培训体系总览)
 
 ## 核心术语表 (Core Terms)

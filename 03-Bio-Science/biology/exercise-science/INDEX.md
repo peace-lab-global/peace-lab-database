@@ -1,3 +1,31 @@
+---
+
+title: "运动科学与健身 (Exercise Science & Fitness)"
+description: "运动科学与健身 (Exercise Science & Fitness)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 运动科学"
+tags: ["addiction", "cortisol", "depression", "exercise", "flow", "breathwork"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是运动科学与健身"
+  - "运动科学与健身的核心概念"
+  - "运动科学与健身的方法与实践"
+trigger_keywords: ["运动科学与健身", "addiction", "assessment", "breathwork", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "depression/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "depression/emotion/exercise"
+  - path: "README.md"
+    relation: "daoism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "exercise/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+
+---
 # 运动科学与健身 (Exercise Science & Fitness)
 
 > **目录位置**: `03-Bio-Science/biology/exercise-science/`

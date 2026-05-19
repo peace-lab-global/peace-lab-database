@@ -1,3 +1,31 @@
+---
+
+title: "《遥远的救世主》读书笔记与书评"
+description: "《遥远的救世主》读书笔记与书评的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
+tags: ["music", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《遥远的救世主》读书笔记与书评"
+  - "《遥远的救世主》读书笔记与书评的核心概念"
+  - "《遥远的救世主》读书笔记与书评的方法与实践"
+trigger_keywords: ["brain", "cognitive", "music", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "exercise/neuroscience/sexuality"
+
+---
 # 《遥远的救世主》读书笔记与书评
 
 ## 一、总体评价

@@ -1,3 +1,31 @@
+---
+
+title: "个人理财基础 (Personal Finance Fundamentals)"
+description: "个人理财基础 (Personal Finance Fundamentals)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 财务素养"
+tags: ["decision-making", "habits", "social", "stress", "个人发展", "flow"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是个人理财基础"
+  - "个人理财基础的核心概念"
+  - "个人理财基础的方法与实践"
+trigger_keywords: ["个人理财基础", "assessment", "decision-making", "habits", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "emotion/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "emotion/productivity/sexuality"
+
+---
 # 个人理财基础 (Personal Finance Fundamentals)
 
 > **学科定位**: 05-Praxis-Growth > personal-development > financial-literacy

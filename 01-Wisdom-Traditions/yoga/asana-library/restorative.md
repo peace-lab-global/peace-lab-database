@@ -1,3 +1,31 @@
+---
+
+title: "Restorative Poses 修复/支撑位体式"
+description: "Restorative Poses 修复/支撑位体式的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Asana Library"
+tags: ["cortisol", "depression", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Restorative Poses 修复/支撑位体式"
+  - "Restorative Poses 修复/支撑位体式的核心概念"
+  - "Restorative Poses 修复/支撑位体式的方法与实践"
+trigger_keywords: ["支撑位体式", "anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/kundalini-meditation/Kundalini_Safety_Screening.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/cardiovascular/depression"
+
+---
 # Restorative Poses 修复/支撑位体式
 
 ## 核心修复体式详表

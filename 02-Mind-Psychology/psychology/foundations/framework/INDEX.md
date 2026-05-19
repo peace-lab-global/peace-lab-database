@@ -1,3 +1,19 @@
+---
+title: "framework | Index"
+description: "framework | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
+tags: ["心理学", "心理学基础"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是framework | Index"
+  - "framework | Index的核心概念"
+  - "framework | Index的方法与实践"
+trigger_keywords: ["framework", "Index", "心理学", "心理学基础"]
+cross_refs: []
+---
 # framework | Index
 
 ## 内容索引 | Contents

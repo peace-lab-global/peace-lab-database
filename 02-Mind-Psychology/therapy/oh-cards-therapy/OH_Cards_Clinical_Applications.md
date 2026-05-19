@@ -1,3 +1,32 @@
+---
+
+title: "OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)"
+description: "OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Oh Cards Therapy"
+tags: ["addiction", "anxiety", "attachment", "depression", "trauma", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是OH卡疗法临床应用指南"
+  - "OH卡疗法临床应用指南的核心概念"
+  - "OH卡疗法临床应用指南的方法与实践"
+  - "OH卡疗法临床应用指南的循证证据"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)
 
 > **循证实践与临床整合**

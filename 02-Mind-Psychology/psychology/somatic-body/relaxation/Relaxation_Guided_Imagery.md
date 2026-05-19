@@ -1,3 +1,31 @@
+---
+
+title: "引导意象放松 (Guided Imagery / Visualization)"
+description: "引导意象放松 (Guided Imagery / Visualization)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["anxiety", "brain", "cardiovascular", "emdr", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是引导意象放松"
+  - "引导意象放松的核心概念"
+  - "引导意象放松的方法与实践"
+trigger_keywords: ["引导意象放松", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 引导意象放松 (Guided Imagery / Visualization)
 
 > **模块定位**：系统化的引导意象技术知识体系，涵盖心理意象机制、GIM (引导意象与音乐)、临床应用协议、脚本设计原则及循证基础。

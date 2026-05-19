@@ -1,3 +1,31 @@
+---
+
+title: "Grief: Special Loss Types (特殊丧失类型专题)"
+description: "Grief: Special Loss Types (特殊丧失类型专题)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Grief"
+tags: ["anxiety", "attachment", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Grief: Special Loss Types"
+  - "Grief: Special Loss Types的核心概念"
+  - "Grief: Special Loss Types的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/death"
+  - path: "03-Bio-Science/death/Death_Suicidology_Boundary.md"
+    relation: "anxiety/death/depression"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "anxiety/attachment/death"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
+    relation: "anxiety/attachment/death"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "anxiety/attachment/death"
+
+---
 # Grief: Special Loss Types (特殊丧失类型专题)
 
 > **特殊丧失类型 (Special Loss Types / Luctus Specialis)**

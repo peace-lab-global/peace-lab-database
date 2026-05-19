@@ -1,3 +1,31 @@
+---
+
+title: "工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide"
+description: "工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Meditation Workplace"
+tags: ["addiction", "anxiety", "brain", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "1h"
+intent_queries:
+  - "什么是工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide"
+  - "工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide的核心概念"
+  - "工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 工作生活场景冥想评估指南 | Workplace & Daily Life Meditation Assessment Guide
 
 > **文档类型**：应用场景专项评估指南 | Domain-Specific Assessment Guide  

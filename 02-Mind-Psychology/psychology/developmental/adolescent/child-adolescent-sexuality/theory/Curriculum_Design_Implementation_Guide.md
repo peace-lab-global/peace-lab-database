@@ -1,3 +1,31 @@
+---
+
+title: "性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)"
+description: "性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
+tags: ["brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是性教育课程设计与实施指南"
+  - "性教育课程设计与实施指南的核心概念"
+  - "性教育课程设计与实施指南的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/neuroscience/sexuality"
+
+---
 # 性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)
 
 > 🎨 **设计定位**: 基于系统化课程设计理论和循证实践原则，为儿童青少年性教育提供完整的课程开发、实施和评估框架。涵盖课程目标设定、内容组织、教学方法选择、实施策略和质量保障等全流程指导。建议结合[儿童期性教育](../curriculum/Childhood_Sexuality_Education_5_12.md)和[青少年期性教育](../curriculum/Adolescent_Sexuality_Education_13_18.md)具体内容，参考[性教育概览](../Child_Adolescent_Sexuality_Education_Overview.md)理论框架。

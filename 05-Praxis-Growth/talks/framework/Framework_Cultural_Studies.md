@@ -1,3 +1,31 @@
+---
+
+title: "文化研究 | Cultural Studies"
+description: "文化研究 | Cultural Studies的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: []
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文化研究 | Cultural Studies"
+  - "文化研究 | Cultural Studies的核心概念"
+  - "文化研究 | Cultural Studies的方法与实践"
+trigger_keywords: ["文化研究", "act", "art", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
+    relation: "emotion/exercise/sexuality"
+
+---
 # 文化研究 | Cultural Studies
 
 > 文化研究（Cultural Studies）是一门研究文化实践、文化制度与文化意义之生产与消费的跨学科领域，起源于20世纪中叶的英国伯明翰学派。它融合了文学批评、社会学、人类学、传播学和哲学的理论资源，关注权力、身份和意义在日常文化生活中的交织关系。文化研究打破了"高雅文化"与"大众文化"的传统分界，将影视、音乐、时尚、网络文化等日常文化实践纳入严肃学术分析的范畴。

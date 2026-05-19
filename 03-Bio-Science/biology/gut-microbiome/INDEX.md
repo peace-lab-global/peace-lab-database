@@ -1,3 +1,31 @@
+---
+
+title: "肠道微生物组 | Gut Microbiome Index"
+description: "肠道微生物组 | Gut Microbiome Index的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 肠道微生物"
+tags: ["brain", "depression", "fasting", "gut", "hpa-axis", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肠道微生物组 | Gut Microbiome Index"
+  - "肠道微生物组 | Gut Microbiome Index的核心概念"
+  - "肠道微生物组 | Gut Microbiome Index的方法与实践"
+trigger_keywords: ["肠道微生物组", "anxiety", "brain", "depression", "fasting"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/depression/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/immune/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/immune"
+
+---
 # 肠道微生物组 | Gut Microbiome Index
 
 > 肠道菌群、肠-脑轴、精神微生物学与饮食干预

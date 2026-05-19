@@ -1,3 +1,31 @@
+---
+
+title: "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide"
+description: "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "mindfulness", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide"
+  - "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的核心概念"
+  - "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide
 
 > **领域**：冥想实践的包容性与无障碍设计（Meditation Inclusion & Accessible Design）

@@ -1,3 +1,31 @@
+---
+
+title: "《狂智》Crazy Wisdom"
+description: "《狂智》Crazy Wisdom的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《狂智》Crazy Wisdom"
+  - "《狂智》Crazy Wisdom的核心概念"
+  - "《狂智》Crazy Wisdom的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "death", "sexuality"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《狂智》Crazy Wisdom
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1991年出版。创巴仁波切对"狂智"（Crazy Wisdom）传统的深入阐述——一种通过非常规行为来打破学生概念执着的教学方法。不是 clinical 的疯狂，而是**超越常规概念的智慧表达**。

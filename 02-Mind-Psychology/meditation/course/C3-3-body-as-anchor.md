@@ -1,3 +1,31 @@
+---
+
+title: "C3-3 与身体对话：冥想练习：以身体为锚"
+description: "C3-3 与身体对话：冥想练习：以身体为锚的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "habits", "healing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-3 与身体对话：冥想练习：以身体为锚"
+  - "C3-3 与身体对话：冥想练习：以身体为锚的核心概念"
+  - "C3-3 与身体对话：冥想练习：以身体为锚的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C3-3 与身体对话：冥想练习：以身体为锚
 
 📑 智能总结

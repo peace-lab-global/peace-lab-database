@@ -1,3 +1,31 @@
+---
+
+title: "《荒原》The Waste Land"
+description: "《荒原》The Waste Land的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《荒原》The Waste Land"
+  - "《荒原》The Waste Land的核心概念"
+  - "《荒原》The Waste Land的方法与实践"
+trigger_keywords: ["buddhism", "death", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《荒原》The Waste Land
 
 > T.S.艾略特（T.S. Eliot）著，1922年出版。现代主义诗歌的里程碑，以其碎片化的结构、多语言的引用和对战后文明崩溃的深刻描绘而闻名。艾略特在诗中引用了佛教《火诫》、印度《奥义书》、基督教圣经和众多古典文献，创造了一部**跨文化的灵性废墟地图**。

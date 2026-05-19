@@ -1,3 +1,31 @@
+---
+
+title: "Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)"
+description: "Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Masturbation Relationships"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Masturbation and Intimate Relationships"
+  - "Masturbation and Intimate Relationships的核心概念"
+  - "Masturbation and Intimate Relationships的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)
 
 > 基于关系心理学与伴侣治疗研究，系统分析自慰行为对亲密关系的多维影响路径。内容涵盖伴侣态度差异、关系满意度影响、共同自慰的亲密功能及色情内容的调节作用。

@@ -1,3 +1,31 @@
+---
+
+title: "C3-1 冥想与止观：第三讲：练习止的关键词-1"
+description: "C3-1 冥想与止观：第三讲：练习止的关键词-1的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["calligraphy", "habits", "meditation", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-1 冥想与止观：第三讲：练习止的关键词-1"
+  - "C3-1 冥想与止观：第三讲：练习止的关键词-1的核心概念"
+  - "C3-1 冥想与止观：第三讲：练习止的关键词-1的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "calligraphy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/daoism/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # C3-1 冥想与止观：第三讲：练习止的关键词-1
 
 📑 智能总结

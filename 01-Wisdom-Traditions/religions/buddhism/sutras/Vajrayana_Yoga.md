@@ -1,3 +1,31 @@
+---
+
+title: "密乘瑜伽修行法要"
+description: "密乘瑜伽修行法要的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "dzogchen", "mandala", "phobia", "mahamudra", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是密乘瑜伽修行法要"
+  - "密乘瑜伽修行法要的核心概念"
+  - "密乘瑜伽修行法要的方法与实践"
+trigger_keywords: ["密乘瑜伽修行法要", "breathwork", "buddhism", "death", "dzogchen"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # 密乘瑜伽修行法要
 
 ## 概述

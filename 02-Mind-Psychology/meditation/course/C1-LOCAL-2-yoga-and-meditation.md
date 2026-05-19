@@ -1,3 +1,31 @@
+---
+
+title: "C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想"
+description: "C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想"
+  - "C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想的核心概念"
+  - "C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/depression"
+
+---
 # C1-LOCAL-2 直接认知冥想线下精品课：瑜伽与冥想
 
 知识精讲

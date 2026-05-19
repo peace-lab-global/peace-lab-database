@@ -1,3 +1,31 @@
+---
+
+title: "How to Win Friends and Influence People 人性的弱点"
+description: "How to Win Friends and Influence People 人性的弱点的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["communication", "habits", "个人发展"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是How to Win Friends and Influence People 人性的弱点"
+  - "How to Win Friends and Influence People 人性的弱点的核心概念"
+  - "How to Win Friends and Influence People 人性的弱点的方法与实践"
+trigger_keywords: ["act", "behavioral", "communication", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/exercise/productivity"
+
+---
 # How to Win Friends and Influence People 人性的弱点
 
 ## 作者背景 (Author Background)

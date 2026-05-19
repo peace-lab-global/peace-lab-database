@@ -1,3 +1,31 @@
+---
+
+title: "《我的死亡之旅》My Descent into Death"
+description: "《我的死亡之旅》My Descent into Death的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["literature", "loneliness", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我的死亡之旅》My Descent into Death"
+  - "《我的死亡之旅》My Descent into Death的核心概念"
+  - "《我的死亡之旅》My Descent into Death的方法与实践"
+trigger_keywords: ["art", "behavioral", "body", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《我的死亡之旅》My Descent into Death
 
 **作者：** 霍华德·斯托姆 (Howard Storm)  

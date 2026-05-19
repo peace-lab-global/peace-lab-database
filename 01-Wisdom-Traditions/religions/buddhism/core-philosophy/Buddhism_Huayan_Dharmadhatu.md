@@ -1,3 +1,31 @@
+---
+
+title: "华严哲学法界缘起详论 (Huayan Philosophy & Dharmadhātu Pratītyasamutpāda)"
+description: "华严哲学法界缘起详论 (Huayan Philosophy & Dharmadhātu Pratītyasamutpāda)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "decision-making", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是华严哲学法界缘起详论"
+  - "华严哲学法界缘起详论的核心概念"
+  - "华严哲学法界缘起详论的方法与实践"
+trigger_keywords: ["华严哲学法界缘起详论", "act", "behavioral", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
+    relation: "buddhism/communication/meditation"
+  - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/authors/Wang_Wei_Complete_Profile.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 华严哲学法界缘起详论 (Huayan Philosophy & Dharmadhātu Pratītyasamutpāda)
 
 > **华严哲学 (Huayan Philosophy)**：以《华严经》为核心的大乘佛教哲学体系，强调"法界缘起"，认为一切现象相互融通、圆融无碍，展现了宇宙的全息性和整体性。

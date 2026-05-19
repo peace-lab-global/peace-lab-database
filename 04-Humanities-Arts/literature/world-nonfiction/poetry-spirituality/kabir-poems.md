@@ -1,3 +1,31 @@
+---
+
+title: "《迦比尔诗集》Poems of Kabir"
+description: "《迦比尔诗集》Poems of Kabir的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["dzogchen", "religion", "spirituality", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《迦比尔诗集》Poems of Kabir"
+  - "《迦比尔诗集》Poems of Kabir的核心概念"
+  - "《迦比尔诗集》Poems of Kabir的方法与实践"
+trigger_keywords: ["buddhism", "death", "dzogchen", "religion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《迦比尔诗集》Poems of Kabir
 
 > 迦比尔（Kabir，约1440–1518年）。印度诗人、神秘主义者，试图融合印度教和伊斯兰教的灵性传统。他的诗以印地语和方言写成，极其直接、极其有力——他不关心教条，只关心**直接的体验**。他说："神不在寺庙里，不在清真寺里——神在你心里。"

@@ -1,3 +1,31 @@
+---
+
+title: "经典电影技术分析：视觉语言与叙事技巧的专业解析"
+description: "经典电影技术分析：视觉语言与叙事技巧的专业解析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是经典电影技术分析：视觉语言与叙事技巧的专业解析"
+  - "经典电影技术分析：视觉语言与叙事技巧的专业解析的核心概念"
+  - "经典电影技术分析：视觉语言与叙事技巧的专业解析的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 经典电影技术分析：视觉语言与叙事技巧的专业解析
 
 ## 摘要 (Abstract)

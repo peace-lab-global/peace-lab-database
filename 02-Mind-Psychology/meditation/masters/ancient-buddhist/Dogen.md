@@ -1,3 +1,31 @@
+---
+
+title: "道元禅师（Dōgen Zenji / 道元禅師）"
+description: "道元禅师（Dōgen Zenji / 道元禅師）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
+tags: ["meditation", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是道元禅师（Dōgen Zenji / 道元禅師）"
+  - "道元禅师（Dōgen Zenji / 道元禅師）的核心概念"
+  - "道元禅师（Dōgen Zenji / 道元禅師）的方法与实践"
+trigger_keywords: ["道元禅師）", "act", "breathwork", "buddhism", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 道元禅师（Dōgen Zenji / 道元禅師）
 
 > 曹洞宗的创立者——"只管打坐"的日本禅修大师

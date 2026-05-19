@@ -1,3 +1,31 @@
+---
+
+title: "Brainwave Entrainment (脑波引导技术：双耳节拍、等时音与神经调控)"
+description: "Brainwave Entrainment (脑波引导技术：双耳节拍、等时音与神经调控)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "brain", "cbt", "emdr", "adhd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Brainwave Entrainment"
+  - "Brainwave Entrainment的核心概念"
+  - "Brainwave Entrainment的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # Brainwave Entrainment (脑波引导技术：双耳节拍、等时音与神经调控)
 
 ### Brainwave Bands & Consciousness States (脑波频段与意识状态对照表)

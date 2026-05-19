@@ -1,3 +1,31 @@
+---
+
+title: "solitude | 独处专题 Index"
+description: "solitude | 独处专题 Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["attachment", "brain", "personality", "mindfulness", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是solitude | 独处专题 Index"
+  - "solitude | 独处专题 Index的核心概念"
+  - "solitude | 独处专题 Index的方法与实践"
+trigger_keywords: ["solitude", "独处专题 Index", "act", "aging", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "attachment/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "attachment/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/attachment/buddhism"
+
+---
 # solitude | 独处专题 Index
 
 > **核心定位**: 从"害怕独处"到"享受独处"的完整知识体系

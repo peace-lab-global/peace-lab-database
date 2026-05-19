@@ -1,3 +1,31 @@
+---
+
+title: "《观呼吸》Mindfulness in Plain English"
+description: "《观呼吸》Mindfulness in Plain English的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《观呼吸》Mindfulness in Plain English"
+  - "《观呼吸》Mindfulness in Plain English的核心概念"
+  - "《观呼吸》Mindfulness in Plain English的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《观呼吸》Mindfulness in Plain English
 
 > 德宝法师（Bhante Henepola Gunaratana）著，1992年出版。斯里兰卡上座部佛教僧侣，12岁出家，1968年赴美弘法，在华盛顿特区附近建立了 bhavana 协会（森林修道院）。这本书是上座部佛教视角下最清晰、最实用的内观（Vipassana）禅修手册。

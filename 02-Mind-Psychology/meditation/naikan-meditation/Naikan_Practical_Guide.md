@@ -1,3 +1,31 @@
+---
+
+title: "内观（Naikan）冥想实操指南"
+description: "内观（Naikan）冥想实操指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Naikan Meditation"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是内观（Naikan）冥想实操指南"
+  - "内观（Naikan）冥想实操指南的核心概念"
+  - "内观（Naikan）冥想实操指南的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "behavioral", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "anxiety/communication/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Retreat_Workshop_Design.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/meditation"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/meditation"
+
+---
 # 内观（Naikan）冥想实操指南
 
 > **适用范围**：希望改善人际关系、深化自我认知、及进行结构化反思的修习者

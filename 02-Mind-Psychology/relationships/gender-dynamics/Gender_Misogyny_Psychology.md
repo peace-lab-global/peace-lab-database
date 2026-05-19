@@ -1,3 +1,32 @@
+---
+
+title: "厌女情结心理学分析 (Misogyny Psychology: Sociocultural Roots & Personal Growth)"
+description: "厌女情结心理学分析 (Misogyny Psychology: Sociocultural Roots & Personal Growth)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Gender Dynamics"
+tags: ["anxiety", "attachment", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是厌女情结心理学分析"
+  - "厌女情结心理学分析的核心概念"
+  - "厌女情结心理学分析的方法与实践"
+  - "厌女情结心理学分析的自助方法"
+trigger_keywords: ["厌女情结心理学分析", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/personality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/personality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
+    relation: "anxiety/attachment/personality"
+
+---
 # 厌女情结心理学分析 (Misogyny Psychology: Sociocultural Roots & Personal Growth)
 
 ## 核心术语与概念界定 (Core Terminology & Conceptual Framework)

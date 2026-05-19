@@ -1,3 +1,31 @@
+---
+
+title: "《音乐迷恋》Musicophilia"
+description: "《音乐迷恋》Musicophilia的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["depression", "music", "therapy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《音乐迷恋》Musicophilia"
+  - "《音乐迷恋》Musicophilia的核心概念"
+  - "《音乐迷恋》Musicophilia的方法与实践"
+trigger_keywords: ["brain", "death", "depression", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/depression"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/depression"
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "communication/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/death/exercise"
+
+---
 # 《音乐迷恋》Musicophilia
 
 > 奥利弗·萨克斯（Oliver Sacks）著，2007年出版。神经学家萨克斯的又一杰作，探索音乐与大脑的关系——从音乐幻听到绝对音感，从帕金森患者通过音乐恢复运动到阿尔茨海默症患者通过音乐找回记忆。

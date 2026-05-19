@@ -1,3 +1,31 @@
+---
+
+title: "《不是为了快乐》读书笔记与书评"
+description: "《不是为了快乐》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Not For Happiness"
+tags: ["buddhism", "dzogchen", "spirituality", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不是为了快乐》读书笔记与书评"
+  - "《不是为了快乐》读书笔记与书评的核心概念"
+  - "《不是为了快乐》读书笔记与书评的方法与实践"
+trigger_keywords: ["body", "buddhism", "dzogchen", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality"
+
+---
 # 《不是为了快乐》读书笔记与书评
 
 ## 一、总体评价

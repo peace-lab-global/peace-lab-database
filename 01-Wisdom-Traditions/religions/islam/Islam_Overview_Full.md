@@ -1,3 +1,31 @@
+---
+
+title: "伊斯兰教核心概览 (Islam Overview)"
+description: "伊斯兰教核心概览 (Islam Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 伊斯兰教"
+tags: ["addiction", "calligraphy", "cbt", "islam"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是伊斯兰教核心概览"
+  - "伊斯兰教核心概览的核心概念"
+  - "伊斯兰教核心概览的方法与实践"
+trigger_keywords: ["伊斯兰教核心概览", "addiction", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/art_therapy/sexuality"
+
+---
 # 伊斯兰教核心概览 (Islam Overview)
 
 ## 目录 (Table of Contents)

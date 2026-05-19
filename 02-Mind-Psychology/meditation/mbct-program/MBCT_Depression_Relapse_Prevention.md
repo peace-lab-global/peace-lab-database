@@ -1,3 +1,32 @@
+---
+
+title: "MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention"
+description: "MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Mbct Program"
+tags: ["anxiety", "attachment", "brain", "depression", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention"
+  - "MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention的核心概念"
+  - "MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention的方法与实践"
+  - "MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/death/Death_Contemplation_Overview.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Integration_Practices.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # MBCT 抑郁症复发预防机制 | MBCT Depression Relapse Prevention
 
 > **领域**：正念认知疗法（Mindfulness-Based Cognitive Therapy）

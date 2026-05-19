@@ -1,3 +1,31 @@
+---
+
+title: "呼吸科学深度探索 | Breathwork Science Deep Dive"
+description: "呼吸科学深度探索 | Breathwork Science Deep Dive的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 呼吸法"
+tags: ["brain", "cardiovascular", "breathwork"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是呼吸科学深度探索 | Breathwork Science Deep Dive"
+  - "呼吸科学深度探索 | Breathwork Science Deep Dive的核心概念"
+  - "呼吸科学深度探索 | Breathwork Science Deep Dive的方法与实践"
+trigger_keywords: ["呼吸科学深度探索", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Somatization.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 呼吸科学深度探索 | Breathwork Science Deep Dive
 
 > **学科定位**: 呼吸生理学 · 自主神经调节 · 心身医学

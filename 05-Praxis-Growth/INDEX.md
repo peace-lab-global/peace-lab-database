@@ -1,6 +1,96 @@
+---
+
+title: "05-Praxis-Growth | 实践与个人增长"
+description: "05-Praxis-Growth | 实践与个人增长的详细解析与实践指南"
+category: "实践与个人增长"
+tags: ["communication", "decision-making", "mental-resilience", "habits", "flow", "minimalism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是05-Praxis-Growth | 实践与个人增长"
+  - "05-Praxis-Growth | 实践与个人增长的核心概念"
+  - "05-Praxis-Growth | 实践与个人增长的方法与实践"
+trigger_keywords: ["实践与个人增长", "act", "art", "assessment", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 05-Praxis-Growth | 实践与个人增长
 
 > 关注个人进化、职业发展、自媒体变现及社会实践方法论。
+
+---
+
+## 📚 阅读路径建议 | Reading Path Guide
+
+> 本支柱内容涵盖个人发展、职业规划、沟通表达等多个领域，以下路径帮助不同背景的读者找到适合自己的学习顺序。
+
+### 🌱 初阶路径 (入门者)
+
+**目标**: 建立个人成长的基础认知，开始实践自我提升
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [效率核心理论](personal-development/productivity/Productivity_Core.md) | 理解效率的本质与方法 | 20分钟 |
+| 2 | [心流与专注力](personal-development/flow/) | 学习进入心流状态的条件 | 20分钟 |
+| 3 | [习惯养成科学](personal-development/topics/Personal_Development_Habit_Science.md) | 建立可持续的习惯系统 | 25分钟 |
+| 4 | [高效沟通核心](communication/effective-communication/Effective_Communication_Overview.md) | 掌握沟通的基础原则 | 20分钟 |
+
+**适合**: 首次接触个人发展领域，希望建立成长基础的读者。
+
+---
+
+### 🌿 中阶路径 (已有基础)
+
+**目标**: 深入特定领域，建立系统性的成长方法论
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [心力成长核心](personal-development/mental-resilience/Mental_Resilience_Overview.md) | 建立心理韧性系统 | 30分钟 |
+| 2 | [元学习总览](personal-development/meta-learning/Meta_Learning_Overview.md) | 学会如何学习 | 25分钟 |
+| 3 | [决策科学体系](personal-development/decision-making/Decision_Making_Overview.md) | 提升决策质量 | 30分钟 |
+| 4 | [情商总览](personal-development/emotional-intelligence/EI_Overview.md) | 发展情绪智能 | 25分钟 |
+
+**适合**: 有个人发展基础，希望深入特定领域并建立系统性方法的读者。
+
+---
+
+### 🌳 高阶路径 (专业研习)
+
+**目标**: 掌握高级成长策略，准备从事专业咨询或领导工作
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [超级个体核心能力](personal-development/super-individual/Core_Competencies.md) | 建立超级个体的能力矩阵 | 35分钟 |
+| 2 | [财务素养与投资心理](personal-development/financial-literacy/Investment_Psychology.md) | 建立财务自由的认知框架 | 30分钟 |
+| 3 | [谈判心理学与策略](communication/negotiation/Negotiation_Psychology_Strategy.md) | 掌握高级谈判技能 | 35分钟 |
+| 4 | [管理心理学与法家](religions/legalist/Legalist_Management_Psychology.md) | 建立组织管理的心理学基础 | 30分钟 |
+
+**适合**: 已有一定积累，希望成为专业人士或管理者的读者。
+
+---
+
+### 🎯 专题路径 | Special Interest Paths
+
+| 主题 | 推荐文档序列 | 适合人群 |
+|------|-------------|----------|
+| **效率提升** | 效率理论 → 执行力 → 任务管理 → 每日打卡 | 效率追求者 |
+| **心力成长** | 心力 → 稳定内核 → 习惯 → 正念 | 心理成长者 |
+| **职业发展** | 职业规划 → 决策 → 沟通 → 向上管理 | 职场人士 |
+| **写作表达** | 创意写作 → 技术写作 → 公共表达 → 出版 | 创作者 |
+
+---
 
 ## 核心索引 | Core Index
 
@@ -127,6 +217,24 @@
 - [法家管理心理学 (Legalist Management)](../01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md)
 - [职场心理危机干预 (Workplace Crisis)](../02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
 - [职场倦怠专题 (Occupational Burnout)](../02-Mind-Psychology/psychology/applied/occupational-burnout/) — 倦怠评估、预防干预与恢复随访
+
+---
+
+## 🗺️ 知识图谱
+
+<details>
+<summary>点击查看本支柱知识图谱</summary>
+
+![实践与个人增长知识图谱](../Visualization/initial-autofit.png)
+
+*图注：实践与个人增长支柱的知识结构，涵盖超级个体、心力成长、效率执行、沟通表达、媒体运营等核心领域。*
+
+**导航提示**:
+- 圆形节点代表专题入口
+- 点击节点可跳转至对应文档
+- 颜色编码对应不同的知识类别
+
+</details>
 
 ---
 

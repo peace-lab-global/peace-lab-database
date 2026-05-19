@@ -1,3 +1,31 @@
+---
+
+title: "财务自由与FIRE运动 (Financial Independence & FIRE Movement)"
+description: "财务自由与FIRE运动 (Financial Independence & FIRE Movement)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 财务素养"
+tags: ["flow", "habits", "minimalism", "productivity", "financial-literacy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是财务自由与FIRE运动"
+  - "财务自由与FIRE运动的核心概念"
+  - "财务自由与FIRE运动的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "crisis", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/exercise/productivity"
+
+---
 # 财务自由与FIRE运动 (Financial Independence & FIRE Movement)
 
 > **学科定位**: 05-Praxis-Growth > personal-development > financial-literacy

@@ -1,3 +1,31 @@
+---
+
+title: "佛教内观冥想概述 | Buddhist Vipassana Overview"
+description: "佛教内观冥想概述 | Buddhist Vipassana Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Buddhist Vipassana"
+tags: ["anxiety", "brain", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教内观冥想概述 | Buddhist Vipassana Overview"
+  - "佛教内观冥想概述 | Buddhist Vipassana Overview的核心概念"
+  - "佛教内观冥想概述 | Buddhist Vipassana Overview的方法与实践"
+trigger_keywords: ["佛教内观冥想概述", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 佛教内观冥想概述 | Buddhist Vipassana Overview
 
 > **适用对象**：对佛教内观传统感兴趣的冥想练习者、佛教研究者、正念教师、心理健康从业者

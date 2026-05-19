@@ -1,3 +1,31 @@
+---
+
+title: "基督教冥想概述 | Christian Meditation Overview"
+description: "基督教冥想概述 | Christian Meditation Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Christian Meditation"
+tags: ["anxiety", "brain", "depression", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是基督教冥想概述 | Christian Meditation Overview"
+  - "基督教冥想概述 | Christian Meditation Overview的核心概念"
+  - "基督教冥想概述 | Christian Meditation Overview的方法与实践"
+trigger_keywords: ["基督教冥想概述", "act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 基督教冥想概述 | Christian Meditation Overview
 
 > **适用对象**：对基督教灵修传统感兴趣的冥想练习者、神学研究者、跨宗教对话参与者、心理健康从业者

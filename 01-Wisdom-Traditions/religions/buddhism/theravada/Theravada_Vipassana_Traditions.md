@@ -1,3 +1,31 @@
+---
+
+title: "南传内观传承 (Theravada Vipassanā Traditions)"
+description: "南传内观传承 (Theravada Vipassanā Traditions)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
+tags: ["buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是南传内观传承"
+  - "南传内观传承的核心概念"
+  - "南传内观传承的方法与实践"
+trigger_keywords: ["南传内观传承", "act", "adolescent", "art", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Eckhart_Tolle.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 南传内观传承 (Theravada Vipassanā Traditions)
 
 > **内观传承 (Vipassanā Traditions)**：上座部佛教中专注于毗婆舍那(观禅)修习的各大传承体系，尤其指19-20世纪缅甸复兴运动中形成的多个禅修流派。

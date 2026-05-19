@@ -1,3 +1,31 @@
+---
+
+title: "世界冥想全景图 | World Meditation Panorama"
+description: "世界冥想全景图 | World Meditation Panorama的详细解析与实践指南"
+category: "心智与心理学 > 冥想"
+tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是世界冥想全景图 | World Meditation Panorama"
+  - "世界冥想全景图 | World Meditation Panorama的核心概念"
+  - "世界冥想全景图 | World Meditation Panorama的方法与实践"
+trigger_keywords: ["世界冥想全景图", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/daoism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 世界冥想全景图 | World Meditation Panorama
 
 > **版本**：v1.0  

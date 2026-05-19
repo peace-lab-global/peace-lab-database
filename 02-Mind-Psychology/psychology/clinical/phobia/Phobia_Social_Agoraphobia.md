@@ -1,3 +1,31 @@
+---
+
+title: "社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)"
+description: "社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是社交恐惧症与广场恐惧症"
+  - "社交恐惧症与广场恐惧症的核心概念"
+  - "社交恐惧症与广场恐惧症的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)
 
 > **核心定位**: 社交焦虑障碍和广场恐惧症是恐惧症体系中功能损害最严重的两类，分别指向社交评价恐惧和困境逃离恐惧。本文档详细阐述两者的诊断鉴别、神经机制、治疗方法及临床应用。

@@ -1,3 +1,31 @@
+---
+
+title: "近代理性主义经典 · 佛法视角三方书评"
+description: "近代理性主义经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
+tags: ["buddhism", "philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是近代理性主义经典 · 佛法视角三方书评"
+  - "近代理性主义经典 · 佛法视角三方书评的核心概念"
+  - "近代理性主义经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["近代理性主义经典", "佛法视角三方书评", "buddhism", "philosophy", "sexuality", "哲学"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 近代理性主义经典 · 佛法视角三方书评
 
 ---

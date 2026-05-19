@@ -1,3 +1,31 @@
+---
+
+title: "莲花生大士完整修持仪轨 (Guru Rinpoche / Padmasambhava Sadhana)"
+description: "莲花生大士完整修持仪轨 (Guru Rinpoche / Padmasambhava Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "longevity", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是莲花生大士完整修持仪轨"
+  - "莲花生大士完整修持仪轨的核心概念"
+  - "莲花生大士完整修持仪轨的方法与实践"
+trigger_keywords: ["anxiety", "body", "buddhism", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 莲花生大士完整修持仪轨 (Guru Rinpoche / Padmasambhava Sadhana)
 
 > **莲花生大士 (Padmasambhava / Guru Rinpoche / Lianhua Sheng Da Shi)**：藏传佛教创始祖师，被尊为第二佛。此仪轨涵盖莲师七句祈请、莲师心咒、莲师会供、莲师护法的完整修持体系，为宁玛派最核心的修持法门。

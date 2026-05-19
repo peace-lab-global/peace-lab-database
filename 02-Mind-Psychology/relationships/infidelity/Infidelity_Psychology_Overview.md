@@ -1,3 +1,32 @@
+---
+
+title: "出轨心理学总论 (Infidelity Psychology Overview)"
+description: "出轨心理学总论 (Infidelity Psychology Overview)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["anxiety", "attachment", "cbt", "emdr"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是出轨心理学总论"
+  - "出轨心理学总论的核心概念"
+  - "出轨心理学总论的方法与实践"
+  - "出轨心理学总论的自助方法"
+trigger_keywords: ["出轨心理学总论", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 出轨心理学总论 (Infidelity Psychology Overview)
 
 > 婚姻与亲密关系中出轨行为的科学研究、心理机制分析与临床干预全景框架

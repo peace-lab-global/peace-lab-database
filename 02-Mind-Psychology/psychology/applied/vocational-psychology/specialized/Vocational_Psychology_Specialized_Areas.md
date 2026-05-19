@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学细分领域专业体系 (Vocational Psychology Specialized Areas)"
+description: "职业心理学细分领域专业体系 (Vocational Psychology Specialized Areas)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Specialized"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学细分领域专业体系"
+  - "职业心理学细分领域专业体系的核心概念"
+  - "职业心理学细分领域专业体系的方法与实践"
+  - "职业心理学细分领域专业体系的自助方法"
+trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # 职业心理学细分领域专业体系 (Vocational Psychology Specialized Areas)
 
 > 📘 **文档导航**: 本指南深入探讨职业心理学在不同职业群体、行业领域和新兴趋势中的专业化应用。相关文档：

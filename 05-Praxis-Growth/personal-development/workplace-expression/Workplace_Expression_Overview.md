@@ -1,3 +1,31 @@
+---
+
+title: "职场表达专业内容体系 (Workplace Communication Professional Content System)"
+description: "职场表达专业内容体系 (Workplace Communication Professional Content System)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场表达专业内容体系"
+  - "职场表达专业内容体系的核心概念"
+  - "职场表达专业内容体系的方法与实践"
+trigger_keywords: ["职场表达专业内容体系", "art", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 职场表达专业内容体系 (Workplace Communication Professional Content System)
 
 > **学科定位**：职场沟通学 × 商务表达学 × 职业发展心理学

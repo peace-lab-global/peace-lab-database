@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞剧鉴赏指南综合 (Comprehensive Ballet Appreciation Guide)"
+description: "芭蕾舞剧鉴赏指南综合 (Comprehensive Ballet Appreciation Guide)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Appreciation"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是芭蕾舞剧鉴赏指南综合"
+  - "芭蕾舞剧鉴赏指南综合的核心概念"
+  - "芭蕾舞剧鉴赏指南综合的方法与实践"
+trigger_keywords: ["芭蕾舞剧鉴赏指南综合", "act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+
+---
 # 芭蕾舞剧鉴赏指南综合 (Comprehensive Ballet Appreciation Guide)
 
 > **芭蕾舞剧鉴赏艺术**

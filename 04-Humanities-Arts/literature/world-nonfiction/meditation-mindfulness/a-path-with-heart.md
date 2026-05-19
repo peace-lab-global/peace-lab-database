@@ -1,3 +1,31 @@
+---
+
+title: "《有心之路》A Path with Heart"
+description: "《有心之路》A Path with Heart的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["jung", "phobia", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《有心之路》A Path with Heart"
+  - "《有心之路》A Path with Heart的核心概念"
+  - "《有心之路》A Path with Heart的方法与实践"
+trigger_keywords: ["buddhism", "jung", "phobia", "psychology"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 《有心之路》A Path with Heart
 
 > 杰克·康菲尔德（Jack Kornfield）著，1993年出版。康菲尔德将他在泰国、缅甸和印度的修行经验，与美国西海岸的灵性探索结合，提出了一条"有心"的修行道路——不是逃避情感，而是**通过情感来修行**。

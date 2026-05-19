@@ -1,3 +1,31 @@
+---
+
+title: "约炮与出轨的多元化群体视角 (Diverse Populations Perspectives on Casual Sex and Infidelity)"
+description: "约炮与出轨的多元化群体视角 (Diverse Populations Perspectives on Casual Sex and Infidelity)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Diverse Populations"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是约炮与出轨的多元化群体视角"
+  - "约炮与出轨的多元化群体视角的核心概念"
+  - "约炮与出轨的多元化群体视角的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Cultural_Origins.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 约炮与出轨的多元化群体视角 (Diverse Populations Perspectives on Casual Sex and Infidelity)
 
 ## LGBTQ+群体的特殊考量

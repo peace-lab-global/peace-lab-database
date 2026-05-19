@@ -1,3 +1,31 @@
+---
+
+title: "Bioethics of Death & Dying (死亡与临终的生物伦理学)"
+description: "Bioethics of Death & Dying (死亡与临终的生物伦理学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Bioethics of Death & Dying"
+  - "Bioethics of Death & Dying的核心概念"
+  - "Bioethics of Death & Dying的方法与实践"
+trigger_keywords: ["aging", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
+    relation: "aging/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/communication/death"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
+    relation: "aging/communication/death"
+
+---
 # Bioethics of Death & Dying (死亡与临终的生物伦理学)
 
 > *"医学伦理的核心问题不是'我们能做什么'，而是'我们应该做什么'。"*

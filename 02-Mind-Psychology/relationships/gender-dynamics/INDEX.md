@@ -1,3 +1,31 @@
+---
+
+title: "性别关系动态分析 (Gender Relations Dynamics) | Index"
+description: "性别关系动态分析 (Gender Relations Dynamics) | Index的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Gender Dynamics"
+tags: ["attachment", "cbt", "emdr", "trauma", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性别关系动态分析  | Index"
+  - "性别关系动态分析  | Index的核心概念"
+  - "性别关系动态分析  | Index的方法与实践"
+trigger_keywords: ["性别关系动态分析", "Index", "act", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "attachment/emotion/personality"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "attachment/emotion/personality"
+  - path: "03-Bio-Science/sexuality/authority-complex/Father_Mother_Complex.md"
+    relation: "attachment/emotion/personality"
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md"
+    relation: "attachment/emotion/personality"
+
+---
 # 性别关系动态分析 (Gender Relations Dynamics) | Index
 
 > 从心理学、社会学与文化研究视角，系统分析性别关系中的极化态度、行为模式与心理机制，促进性别间的理解、尊重与健康互动。

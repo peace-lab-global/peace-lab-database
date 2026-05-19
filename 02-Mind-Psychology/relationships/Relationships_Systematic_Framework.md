@@ -1,3 +1,32 @@
+---
+
+title: "人际关系治疗体系：系统性框架与实践指南"
+description: "人际关系治疗体系：系统性框架与实践指南的详细解析与实践指南"
+category: "心智与心理学 > 人际关系"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人际关系治疗体系：系统性框架与实践指南"
+  - "人际关系治疗体系：系统性框架与实践指南的核心概念"
+  - "人际关系治疗体系：系统性框架与实践指南的方法与实践"
+  - "人际关系治疗体系：系统性框架与实践指南的循证证据"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Practice_Guide.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Composition_Background.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 人际关系治疗体系：系统性框架与实践指南
 
 ## 📋 完整治疗体系架构

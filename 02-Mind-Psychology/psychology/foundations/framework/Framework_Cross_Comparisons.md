@@ -1,3 +1,31 @@
+---
+
+title: "Comparisons (多重维度分类与对比)"
+description: "Comparisons (多重维度分类与对比)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
+tags: ["anxiety", "brain", "cardiovascular", "mbsr", "sleep", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Comparisons"
+  - "Comparisons的核心概念"
+  - "Comparisons的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # Comparisons (多重维度分类与对比)
 
 ### 冥想类型比较表

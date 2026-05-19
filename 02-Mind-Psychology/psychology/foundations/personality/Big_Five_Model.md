@@ -1,3 +1,31 @@
+---
+
+title: "大五人格模型 (Big Five / Five-Factor Model)"
+description: "大五人格模型 (Big Five / Five-Factor Model)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
+tags: ["anxiety", "cbt", "depression", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是大五人格模型"
+  - "大五人格模型的核心概念"
+  - "大五人格模型的方法与实践"
+trigger_keywords: ["大五人格模型", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 大五人格模型 (Big Five / Five-Factor Model)
 
 > **学科定位**: 02-Mind-Psychology > foundations > personality

@@ -1,3 +1,31 @@
+---
+
+title: "《大脑中的灵性之门》The Spiritual Doorway in the Brain"
+description: "《大脑中的灵性之门》The Spiritual Doorway in the Brain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《大脑中的灵性之门》The Spiritual Doorway in the Brain"
+  - "《大脑中的灵性之门》The Spiritual Doorway in the Brain的核心概念"
+  - "《大脑中的灵性之门》The Spiritual Doorway in the Brain的方法与实践"
+trigger_keywords: ["body", "brain", "clinical", "cognitive"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/cardiovascular"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Essential_Oils.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
+    relation: "anxiety/cardiovascular/neuroscience"
+
+---
 # 《大脑中的灵性之门》The Spiritual Doorway in the Brain
 
 **作者**：凯文·尼尔森 (Kevin Nelson)  

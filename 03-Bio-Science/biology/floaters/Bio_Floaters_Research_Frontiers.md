@@ -1,3 +1,31 @@
+---
+
+title: "飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)"
+description: "飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 飞蚊症"
+tags: ["brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是飞蚊症研究前沿与发展趋势"
+  - "飞蚊症研究前沿与发展趋势的核心概念"
+  - "飞蚊症研究前沿与发展趋势的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)
 
 ## 术语标准化词汇表

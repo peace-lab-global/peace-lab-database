@@ -1,3 +1,31 @@
+---
+
+title: "中国瑜伽关键人物（Yoga in China: Key Figures）"
+description: "中国瑜伽关键人物（Yoga in China: Key Figures）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > East Asian"
+tags: ["buddhism", "mindfulness", "music", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国瑜伽关键人物（Yoga in China: Key Figures）"
+  - "中国瑜伽关键人物（Yoga in China: Key Figures）的核心概念"
+  - "中国瑜伽关键人物（Yoga in China: Key Figures）的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "buddhism/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/yoga"
+
+---
 # 中国瑜伽关键人物（Yoga in China: Key Figures）
 
 > 瑜伽在中国的传播、本土化与行业领袖

@@ -1,3 +1,31 @@
+---
+
+title: "《不要骄傲，死亡》Death Be Not Proud"
+description: "《不要骄傲，死亡》Death Be Not Proud的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["treatment", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不要骄傲，死亡》Death Be Not Proud"
+  - "《不要骄傲，死亡》Death Be Not Proud的核心概念"
+  - "《不要骄傲，死亡》Death Be Not Proud的方法与实践"
+trigger_keywords: ["《不要骄傲", "brain", "child", "death", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/neuroscience"
+  - path: "README.md"
+    relation: "art_therapy/death/neuroscience"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "death/neuroscience/sexuality"
+
+---
 # 《不要骄傲，死亡》Death Be Not Proud
 
 > 约翰·冈瑟（John Gunther）著，1949年出版。记者冈瑟记录了儿子约翰尼与脑瘤抗争的历程。书名来自约翰·多恩的十四行诗——死亡不应骄傲，因为它不是终结。这是20世纪最著名的儿童疾病与死亡回忆录之一。

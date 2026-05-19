@@ -1,3 +1,31 @@
+---
+
+title: "《金刚世界之秘》The Secret of the Vajra World"
+description: "《金刚世界之秘》The Secret of the Vajra World的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["spirituality", "yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《金刚世界之秘》The Secret of the Vajra World"
+  - "《金刚世界之秘》The Secret of the Vajra World的核心概念"
+  - "《金刚世界之秘》The Secret of the Vajra World的方法与实践"
+trigger_keywords: ["buddhism", "sexuality", "spirituality", "yoga"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
+    relation: "art_therapy/buddhism/sexuality"
+
+---
 # 《金刚世界之秘》The Secret of the Vajra World
 
 >  雷吉·瑞伊（Reginald A. Ray）著，2001年出版。《不坏真理》的续篇，从"历史"转向"实践"——详细描述了藏传佛教密宗的修行体系，包括本尊瑜伽、曼荼罗、灌顶、护法等。是西方语言中关于密宗实践最全面的学术著作。

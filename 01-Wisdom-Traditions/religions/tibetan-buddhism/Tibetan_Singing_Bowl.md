@@ -1,3 +1,31 @@
+---
+
+title: "西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)"
+description: "西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是西藏颂钵疗愈"
+  - "西藏颂钵疗愈的核心概念"
+  - "西藏颂钵疗愈的方法与实践"
+trigger_keywords: ["西藏颂钵疗愈", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)
 
 > **西藏颂钵 (Tibetan Singing Bowl)**：源于喜马拉雅地区的金属钵器，通过敲击或摩擦边缘产生持续振动与泛音。

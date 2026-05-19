@@ -1,3 +1,31 @@
+---
+
+title: "《发生了什么的感觉》The Feeling of What Happens"
+description: "《发生了什么的感觉》The Feeling of What Happens的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《发生了什么的感觉》The Feeling of What Happens"
+  - "《发生了什么的感觉》The Feeling of What Happens的核心概念"
+  - "《发生了什么的感觉》The Feeling of What Happens的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《发生了什么的感觉》The Feeling of What Happens
 
 **作者**：安东尼奥·达马西奥 (Antonio R. Damasio)  

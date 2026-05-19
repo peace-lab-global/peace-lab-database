@@ -1,3 +1,31 @@
+---
+
+title: "播客创作指南 | Podcast Creation Guide"
+description: "播客创作指南 | Podcast Creation Guide的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > Podcast"
+tags: ["music", "social", "writing", "媒体"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是播客创作指南 | Podcast Creation Guide"
+  - "播客创作指南 | Podcast Creation Guide的核心概念"
+  - "播客创作指南 | Podcast Creation Guide的方法与实践"
+trigger_keywords: ["播客创作指南", "communication", "music", "psychology", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/communication/productivity"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "art_therapy/communication/productivity"
+
+---
 # 播客创作指南 | Podcast Creation Guide
 
 > **学科定位**: 内容创作 x 传播学 x 音频制作

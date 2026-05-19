@@ -1,3 +1,31 @@
+---
+
+title: "当代政治哲学经典 · 佛法视角三方书评"
+description: "当代政治哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Political Philosophy"
+tags: ["attachment", "buddhism", "habits", "personality", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是当代政治哲学经典 · 佛法视角三方书评"
+  - "当代政治哲学经典 · 佛法视角三方书评的核心概念"
+  - "当代政治哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["当代政治哲学经典", "佛法视角三方书评", "attachment", "behavioral", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/buddhism/emotion"
+
+---
 # 当代政治哲学经典 · 佛法视角三方书评
 
 > 评述对象：**玛莎·努斯鲍姆**（Martha Nussbaum, 1947—）

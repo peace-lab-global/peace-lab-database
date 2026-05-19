@@ -1,3 +1,32 @@
+---
+
+title: "OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)"
+description: "OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是OH卡与绘画疗法临床案例研究报告"
+  - "OH卡与绘画疗法临床案例研究报告的核心概念"
+  - "OH卡与绘画疗法临床案例研究报告的方法与实践"
+  - "OH卡与绘画疗法临床案例研究报告的循证证据"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)
 
 > **循证实践与临床经验总结**

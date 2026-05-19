@@ -1,3 +1,31 @@
+---
+
+title: "步行整合应用实践 (Walking Integration Practices)"
+description: "步行整合应用实践 (Walking Integration Practices)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Walking"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是步行整合应用实践"
+  - "步行整合应用实践的核心概念"
+  - "步行整合应用实践的方法与实践"
+trigger_keywords: ["步行整合应用实践", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 步行整合应用实践 (Walking Integration Practices)
 
 > 步行的价值不仅在于运动本身，更在于它与正念、社交、情绪调节、创造力等实践的无缝整合。本文档聚焦步行与其他干预方式的结合应用，涵盖改善孤独感的五大实践方案与优化独处质量的五大实践方案。

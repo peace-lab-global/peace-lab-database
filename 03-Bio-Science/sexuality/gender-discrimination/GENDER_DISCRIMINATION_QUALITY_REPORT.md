@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)"
+description: "Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["decision-making", "intervention", "productivity", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Gender Discrimination Professional Content System Quality Report"
+  - "Gender Discrimination Professional Content System Quality Report的核心概念"
+  - "Gender Discrimination Professional Content System Quality Report的方法与实践"
+trigger_keywords: ["act", "assessment", "decision-making", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "productivity/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "productivity/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "productivity/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "productivity/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Plotinus.md"
+    relation: "productivity/sexuality/therapy"
+
+---
 # Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)
 
 ## 项目概况 (Project Overview)

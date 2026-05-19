@@ -1,3 +1,31 @@
+---
+
+title: "Cognition & Neuroscience (认知科学与神经可塑性)"
+description: "Cognition & Neuroscience (认知科学与神经可塑性)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
+tags: ["addiction", "anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Cognition & Neuroscience"
+  - "Cognition & Neuroscience的核心概念"
+  - "Cognition & Neuroscience的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Cognition & Neuroscience (认知科学与神经可塑性)
 
 ### 心理学偏见类型表

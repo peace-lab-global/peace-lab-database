@@ -1,3 +1,31 @@
+---
+
+title: "《中庸》Doctrine of the Mean"
+description: "《中庸》Doctrine of the Mean的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《中庸》Doctrine of the Mean"
+  - "《中庸》Doctrine of the Mean的核心概念"
+  - "《中庸》Doctrine of the Mean的方法与实践"
+trigger_keywords: ["buddhism", "death", "emotion", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《中庸》Doctrine of the Mean
 
 > 子思（孔伋，孔子的孙子）著，约公元前5世纪至公元前4世纪。儒家经典"四书"之一，阐述了"中庸"的哲学——不是"平庸"，而是"恰到好处的平衡"。是理解儒家修养论和存在论的关键文本。

@@ -1,3 +1,31 @@
+---
+
+title: "科学哲学与认识论 | Epistemology & Philosophy of Science"
+description: "科学哲学与认识论 | Epistemology & Philosophy of Science的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是科学哲学与认识论 | Epistemology & Philosophy of Science"
+  - "科学哲学与认识论 | Epistemology & Philosophy of Science的核心概念"
+  - "科学哲学与认识论 | Epistemology & Philosophy of Science的方法与实践"
+trigger_keywords: ["科学哲学与认识论", "behavioral", "brain", "cognitive", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "communication/neuroscience/productivity"
+
+---
 # 科学哲学与认识论 | Epistemology & Philosophy of Science
 
 > **科学哲学与认识论**（Epistemology & Philosophy of Science）探讨科学知识的本质、获取方式和可靠性标准。TED平台上关于这一主题的演讲触及科学方法论、真理的本质、知识的边界以及科学与社会的关系，帮助我们在信息爆炸时代建立更清晰的认知框架。

@@ -1,3 +1,31 @@
+---
+
+title: "14. 个案概念化 | Case Conceptualizations"
+description: "14. 个案概念化 | Case Conceptualizations的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "depression", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是14. 个案概念化 | Case Conceptualizations"
+  - "14. 个案概念化 | Case Conceptualizations的核心概念"
+  - "14. 个案概念化 | Case Conceptualizations的方法与实践"
+trigger_keywords: ["14. 个案概念化", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 14. 个案概念化 | Case Conceptualizations
 
 > **文档定位**：本章提供3个虚构但临床真实的个案概念化，演示从评估到干预到随访的完整临床思维过程。所有个案均基于典型临床特征组合，不对应任何真实个体。

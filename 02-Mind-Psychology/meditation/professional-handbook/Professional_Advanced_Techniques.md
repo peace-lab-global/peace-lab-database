@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师技术进阶 | Professional Advanced Techniques"
+description: "冥想执行师技术进阶 | Professional Advanced Techniques的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["addiction", "anxiety", "mbsr", "adhd", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师技术进阶 | Professional Advanced Techniques"
+  - "冥想执行师技术进阶 | Professional Advanced Techniques的核心概念"
+  - "冥想执行师技术进阶 | Professional Advanced Techniques的方法与实践"
+trigger_keywords: ["冥想执行师技术进阶", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 冥想执行师技术进阶 | Professional Advanced Techniques
 
 > **领域**：冥想执行师职业手册 — 技术进阶

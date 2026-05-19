@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Measurement and Assessment Tools (性别歧视测量与评估工具)"
+description: "Gender Discrimination Measurement and Assessment Tools (性别歧视测量与评估工具)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Gender Discrimination Measurement and Assessment Tools"
+  - "Gender Discrimination Measurement and Assessment Tools的核心概念"
+  - "Gender Discrimination Measurement and Assessment Tools的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # Gender Discrimination Measurement and Assessment Tools (性别歧视测量与评估工具)
 
 ## 核心测量工具体系 (Core Measurement Tool System)

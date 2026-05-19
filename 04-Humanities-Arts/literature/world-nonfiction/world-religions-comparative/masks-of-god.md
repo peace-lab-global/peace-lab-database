@@ -1,3 +1,31 @@
+---
+
+title: "《神的面具》The Masks of God"
+description: "《神的面具》The Masks of God的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["cinema", "daoism"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《神的面具》The Masks of God"
+  - "《神的面具》The Masks of God的核心概念"
+  - "《神的面具》The Masks of God的方法与实践"
+trigger_keywords: ["art", "behavioral", "buddhism", "cinema"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "buddhism/communication/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/daoism"
+
+---
 # 《神的面具》The Masks of God
 
 **作者：** 约瑟夫·坎贝尔 (Joseph Campbell)  

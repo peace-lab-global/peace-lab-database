@@ -1,3 +1,31 @@
+---
+
+title: "京都学派 · 佛法视角三方书评"
+description: "京都学派 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Kyoto School"
+tags: ["buddhism", "philosophy", "religion", "zen", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是京都学派 · 佛法视角三方书评"
+  - "京都学派 · 佛法视角三方书评的核心概念"
+  - "京都学派 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["京都学派", "佛法视角三方书评", "behavioral", "buddhism", "philosophy", "religion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 京都学派 · 佛法视角三方书评
 
 ---

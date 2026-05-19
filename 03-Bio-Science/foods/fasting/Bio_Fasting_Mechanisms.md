@@ -1,3 +1,31 @@
+---
+
+title: "Fasting Mechanisms & Biomarkers (断食作用机制与生物标志物)"
+description: "Fasting Mechanisms & Biomarkers (断食作用机制与生物标志物)的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食"
+tags: ["addiction", "aging", "brain", "fasting", "immune"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Fasting Mechanisms & Biomarkers"
+  - "Fasting Mechanisms & Biomarkers的核心概念"
+  - "Fasting Mechanisms & Biomarkers的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # Fasting Mechanisms & Biomarkers (断食作用机制与生物标志物)
 
 ### Hormonal & Metabolic Pathways (激素与代谢通路总览表)

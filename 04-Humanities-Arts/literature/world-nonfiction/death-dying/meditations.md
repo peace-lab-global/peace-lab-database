@@ -1,3 +1,31 @@
+---
+
+title: "《沉思录》Meditations"
+description: "《沉思录》Meditations的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《沉思录》Meditations"
+  - "《沉思录》Meditations的核心概念"
+  - "《沉思录》Meditations的方法与实践"
+trigger_keywords: ["body", "breathwork", "death", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/attachment/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
+    relation: "attachment/death/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/meditation"
+
+---
 # 《沉思录》Meditations
 
 > 马可·奥勒留（Marcus Aurelius）著，公元161-180年（写作时间）。罗马皇帝、斯多葛派哲学家，在征战和治国之余写下的私人笔记。这本书从未打算出版，是奥勒留与自己的"内在对话"——关于如何做一个好人、如何面对困难、如何接受死亡。

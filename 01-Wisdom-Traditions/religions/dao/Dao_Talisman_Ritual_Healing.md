@@ -1,3 +1,31 @@
+---
+
+title: "Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)"
+description: "Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["flow", "healing", "immune"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Talisman & Ritual Healing"
+  - "Talisman & Ritual Healing的核心概念"
+  - "Talisman & Ritual Healing的方法与实践"
+trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/daoism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "anxiety/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/immune/neuroscience"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "anxiety/neuroscience/nutrition"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "anxiety/immune/neuroscience"
+
+---
 # Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)
 
 ### Semiotics of the Sacred: Daoist Talismans (符咒符号学详表)

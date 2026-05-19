@@ -1,3 +1,31 @@
+---
+
+title: "正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)"
+description: "正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是正念核心概念与技术"
+  - "正念核心概念与技术的核心概念"
+  - "正念核心概念与技术的方法与实践"
+trigger_keywords: ["正念核心概念与技术", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)
 
 ## 目录 (Table of Contents)

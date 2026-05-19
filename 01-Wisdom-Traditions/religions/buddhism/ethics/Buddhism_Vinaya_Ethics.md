@@ -1,3 +1,31 @@
+---
+
+title: "佛教戒律与伦理 (Buddhist Vinaya & Ethics)"
+description: "佛教戒律与伦理 (Buddhist Vinaya & Ethics)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Ethics"
+tags: ["addiction", "buddhism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教戒律与伦理"
+  - "佛教戒律与伦理的核心概念"
+  - "佛教戒律与伦理的方法与实践"
+trigger_keywords: ["佛教戒律与伦理", "act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_DBT_Skills.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 佛教戒律与伦理 (Buddhist Vinaya & Ethics)
 
 > **戒律 (Vinaya)**：佛教修行的基础，通过规范身口意的行为，防非止恶、培养善法，是定慧二学的根基。

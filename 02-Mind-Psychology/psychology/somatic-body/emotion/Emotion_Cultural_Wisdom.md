@@ -1,3 +1,31 @@
+---
+
+title: "跨文化情绪智慧 (Cross-Cultural Emotion Wisdom)"
+description: "跨文化情绪智慧 (Cross-Cultural Emotion Wisdom)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["addiction", "anxiety", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是跨文化情绪智慧"
+  - "跨文化情绪智慧的核心概念"
+  - "跨文化情绪智慧的方法与实践"
+trigger_keywords: ["跨文化情绪智慧", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 跨文化情绪智慧 (Cross-Cultural Emotion Wisdom)
 
 > **跨文化情绪智慧 (Cross-Cultural Wisdom on Emotion)**

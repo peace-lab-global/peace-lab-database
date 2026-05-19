@@ -1,3 +1,31 @@
+---
+
+title: "Zen Neuroscience & Psychology (禅宗神经科学与心理学)"
+description: "Zen Neuroscience & Psychology (禅宗神经科学与心理学)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["addiction", "zen"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zen Neuroscience & Psychology"
+  - "Zen Neuroscience & Psychology的核心概念"
+  - "Zen Neuroscience & Psychology的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+  - path: "GLOSSARY.md"
+    relation: "buddhism/depression/emotion"
+  - path: "README.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Zen Neuroscience & Psychology (禅宗神经科学与心理学)
 
 ### Neuro-biological Architecture of Zen (禅修的神经生物学地图)

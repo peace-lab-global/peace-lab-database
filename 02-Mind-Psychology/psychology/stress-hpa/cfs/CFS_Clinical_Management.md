@@ -1,3 +1,31 @@
+---
+
+title: "慢性疲劳综合征临床管理专业内容体系"
+description: "慢性疲劳综合征临床管理专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是慢性疲劳综合征临床管理专业内容体系"
+  - "慢性疲劳综合征临床管理专业内容体系的核心概念"
+  - "慢性疲劳综合征临床管理专业内容体系的方法与实践"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/emotion/exercise"
+
+---
 # 慢性疲劳综合征临床管理专业内容体系
 
 ## 目录

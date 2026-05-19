@@ -1,3 +1,31 @@
+---
+
+title: "《给未来尸体的建议》Advice for Future Corpses"
+description: "《给未来尸体的建议》Advice for Future Corpses的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["phobia", "positive-psychology", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《给未来尸体的建议》Advice for Future Corpses"
+  - "《给未来尸体的建议》Advice for Future Corpses的核心概念"
+  - "《给未来尸体的建议》Advice for Future Corpses的方法与实践"
+trigger_keywords: ["death", "exercise", "philosophy", "phobia"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《给未来尸体的建议》Advice for Future Corpses
 
 > 凯特琳·道蒂（Caitlin Doughty）著，2018年出版。殡葬师、作家、"死亡积极运动"（Death Positive Movement）的倡导者。这本书以黑色幽默和毫不掩饰的诚实，解构了现代社会对死亡的种种禁忌，从"不要把尸体藏进衣柜"到"如何与你的孩子谈论死亡"。

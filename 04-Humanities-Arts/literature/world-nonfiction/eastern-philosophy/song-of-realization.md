@@ -1,3 +1,31 @@
+---
+
+title: "《证道歌》Song of Realization"
+description: "《证道歌》Song of Realization的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "phobia", "self-confidence", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《证道歌》Song of Realization"
+  - "《证道歌》Song of Realization的核心概念"
+  - "《证道歌》Song of Realization的方法与实践"
+trigger_keywords: ["death", "literature", "phobia", "self-confidence"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《证道歌》Song of Realization
 
 > 玄觉（Xuanjue，665—713年）著，唐代高僧，人称"一宿觉"或"真觉大师"。永嘉（今浙江温州）人，俗姓戴。初学天台宗，后因读《维摩诘经》发明心地，往曹溪参六祖惠能，一夕而悟，次日即归，故号"一宿觉"。《证道歌》是他悟道后所作，共180余句，是禅宗文学中最具气势的长诗之一。

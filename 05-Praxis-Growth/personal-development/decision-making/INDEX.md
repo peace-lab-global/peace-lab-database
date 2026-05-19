@@ -1,3 +1,31 @@
+---
+
+title: "决策框架 | Decision Making — 文档索引"
+description: "决策框架 | Decision Making — 文档索引的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 决策科学"
+tags: ["decision-making", "mindfulness", "personality", "financial-literacy", "meta-learning"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是决策框架 | Decision Making — 文档索引"
+  - "决策框架 | Decision Making — 文档索引的核心概念"
+  - "决策框架 | Decision Making — 文档索引的方法与实践"
+trigger_keywords: ["决策框架", "behavioral", "cognitive", "decision-making", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "emotion/meditation/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "emotion/meditation/personality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "emotion/meditation/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "emotion/meditation/personality"
+
+---
 # 决策框架 | Decision Making — 文档索引
 
 > **目录**: `05-Praxis-Growth/personal-development/decision-making/`

@@ -1,3 +1,32 @@
+---
+
+title: "性焦虑的国际比较与借鉴研究"
+description: "性焦虑的国际比较与借鉴研究的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["sexuality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性焦虑的国际比较与借鉴研究"
+  - "性焦虑的国际比较与借鉴研究的核心概念"
+  - "性焦虑的国际比较与借鉴研究的方法与实践"
+  - "性焦虑的国际比较与借鉴研究的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # 性焦虑的国际比较与借鉴研究
 
 ## 东西方文化比较分析

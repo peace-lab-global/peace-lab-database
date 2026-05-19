@@ -1,3 +1,31 @@
+---
+
+title: "情商总览 | Emotional Intelligence Overview"
+description: "情商总览 | Emotional Intelligence Overview的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 情商"
+tags: ["communication", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是情商总览 | Emotional Intelligence Overview"
+  - "情商总览 | Emotional Intelligence Overview的核心概念"
+  - "情商总览 | Emotional Intelligence Overview的方法与实践"
+trigger_keywords: ["情商总览", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 情商总览 | Emotional Intelligence Overview
 
 > **学科定位**: 心理学 x 组织行为学 x 个人发展

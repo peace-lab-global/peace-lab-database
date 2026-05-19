@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽教学方法论（Yoga Teaching Methodology）"
+description: "瑜伽教学方法论（Yoga Teaching Methodology）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Practitioner Training"
+tags: ["philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽教学方法论（Yoga Teaching Methodology）"
+  - "瑜伽教学方法论（Yoga Teaching Methodology）的核心概念"
+  - "瑜伽教学方法论（Yoga Teaching Methodology）的方法与实践"
+trigger_keywords: ["act", "adolescent", "art", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
+    relation: "communication/exercise/productivity"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 瑜伽教学方法论（Yoga Teaching Methodology）
 
 > 从知道到教好——瑜伽教师核心教学能力体系

@@ -1,3 +1,31 @@
+---
+
+title: "黑暗中的救赎——与《遥远的救世主》对读"
+description: "黑暗中的救赎——与《遥远的救世主》对读的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Betrayal"
+tags: ["loneliness", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是黑暗中的救赎——与《遥远的救世主》对读"
+  - "黑暗中的救赎——与《遥远的救世主》对读的核心概念"
+  - "黑暗中的救赎——与《遥远的救世主》对读的方法与实践"
+trigger_keywords: ["death", "loneliness", "sexuality", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/emotion"
+  - path: "README.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "death/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "death/emotion/sexuality"
+
+---
 # 黑暗中的救赎——与《遥远的救世主》对读
 
 ## 同一个作者，两种"看透"的结局

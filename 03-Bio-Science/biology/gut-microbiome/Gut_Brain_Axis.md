@@ -1,3 +1,31 @@
+---
+
+title: "肠-脑轴 | Gut-Brain Axis"
+description: "肠-脑轴 | Gut-Brain Axis的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 肠道微生物"
+tags: ["brain", "cortisol", "depression", "hpa-axis"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肠-脑轴 | Gut-Brain Axis"
+  - "肠-脑轴 | Gut-Brain Axis的核心概念"
+  - "肠-脑轴 | Gut-Brain Axis的方法与实践"
+trigger_keywords: ["肠-脑轴", "act", "anxiety", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 肠-脑轴 | Gut-Brain Axis
 
 > **学科定位**: 神经胃肠病学 · 精神微生物学 · 神经免疫学

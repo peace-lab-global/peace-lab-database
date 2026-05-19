@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽认证体系对比 | Yoga Certification Comparison"
+description: "瑜伽认证体系对比 | Yoga Certification Comparison的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Practitioner Training"
+tags: ["decision-making", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽认证体系对比 | Yoga Certification Comparison"
+  - "瑜伽认证体系对比 | Yoga Certification Comparison的核心概念"
+  - "瑜伽认证体系对比 | Yoga Certification Comparison的方法与实践"
+trigger_keywords: ["瑜伽认证体系对比", "act", "assessment", "breathwork", "child"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/exercise/therapy"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "emotion/exercise/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "emotion/exercise/therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "emotion/exercise/therapy"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "emotion/exercise/therapy"
+
+---
 # 瑜伽认证体系对比 | Yoga Certification Comparison
 
 > **领域**：瑜伽教师认证（Yoga Teacher Certification）

@@ -1,3 +1,21 @@
+---
+
+title: "party-loyalty-psychology | Index"
+description: "party-loyalty-psychology | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Party Loyalty Psychology"
+tags: ["心理学", "社会心理学", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是party-loyalty-psychology | Index"
+  - "party-loyalty-psychology | Index的核心概念"
+  - "party-loyalty-psychology | Index的方法与实践"
+trigger_keywords: ["Index", "act", "心理学", "社会心理学"]
+cross_refs: []
+
+---
 # party-loyalty-psychology | Index
 
 ## 内容索引 | Contents

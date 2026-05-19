@@ -1,3 +1,21 @@
+---
+
+title: "商君书 (Shang Jun Shu)"
+description: "商君书 (Shang Jun Shu)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 法家 > Classics"
+tags: ["宗教与灵性", "法家"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是商君书"
+  - "商君书的核心概念"
+  - "商君书的方法与实践"
+trigger_keywords: ["商君书", "sexuality", "宗教与灵性", "法家"]
+cross_refs: []
+
+---
 # 商君书 (Shang Jun Shu)
 
 ## 基本信息

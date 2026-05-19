@@ -1,3 +1,31 @@
+---
+
+title: "C3-4 与身体对话：生活觉察：和身体建立亲密关系"
+description: "C3-4 与身体对话：生活觉察：和身体建立亲密关系的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["brain", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-4 与身体对话：生活觉察：和身体建立亲密关系"
+  - "C3-4 与身体对话：生活觉察：和身体建立亲密关系的核心概念"
+  - "C3-4 与身体对话：生活觉察：和身体建立亲密关系的方法与实践"
+trigger_keywords: ["body", "brain", "child", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # C3-4 与身体对话：生活觉察：和身体建立亲密关系 
  
 📑 智能总结

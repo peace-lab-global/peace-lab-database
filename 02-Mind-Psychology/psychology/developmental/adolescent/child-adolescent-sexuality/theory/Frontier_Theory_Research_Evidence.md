@@ -1,3 +1,31 @@
+---
+
+title: "儿童青少年性教育前沿理论整合与研究证据库 (Frontier Theory Integration and Research Evidence Database for Child & Adolescent Sexuality Education)"
+description: "儿童青少年性教育前沿理论整合与研究证据库 (Frontier Theory Integration and Research Evidence Database for Child & Adolescent Sexuality Education)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童青少年性教育前沿理论整合与研究证据库"
+  - "儿童青少年性教育前沿理论整合与研究证据库的核心概念"
+  - "儿童青少年性教育前沿理论整合与研究证据库的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/neuroscience/sexuality"
+
+---
 # 儿童青少年性教育前沿理论整合与研究证据库 (Frontier Theory Integration and Research Evidence Database for Child & Adolescent Sexuality Education)
 
 > 📚 **学术定位**: 系统整合儿童青少年性教育领域的前沿理论研究成果，提供基于循证实践的科学依据和理论支撑。涵盖发展心理学、神经科学、教育学、公共卫生学等多学科最新研究成果，为性教育实践提供坚实的学术基础。建议结合[概览文档](../Child_Adolescent_Sexuality_Education_Overview.md)了解整体框架，参考[课程设计指南](Curriculum_Design_Implementation_Guide.md)掌握应用方法。

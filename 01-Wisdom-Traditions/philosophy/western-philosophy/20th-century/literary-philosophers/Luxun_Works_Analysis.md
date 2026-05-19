@@ -1,3 +1,31 @@
+---
+
+title: "鲁迅主要作品深度分析"
+description: "鲁迅主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["loneliness", "personality", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是鲁迅主要作品深度分析"
+  - "鲁迅主要作品深度分析的核心概念"
+  - "鲁迅主要作品深度分析的方法与实践"
+trigger_keywords: ["鲁迅主要作品深度分析", "art", "cognitive", "developmental", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/exercise/personality"
+
+---
 # 鲁迅主要作品深度分析
 
 ## 《呐喊》(Call to Arms, 1923)

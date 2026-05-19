@@ -1,3 +1,31 @@
+---
+
+title: "Michelangelo (米开朗基罗)：文艺复兴艺术巨匠"
+description: "Michelangelo (米开朗基罗)：文艺复兴艺术巨匠的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > 文艺复兴"
+tags: ["personality", "positive-psychology", "renaissance"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Michelangelo ：文艺复兴艺术巨匠"
+  - "Michelangelo ：文艺复兴艺术巨匠的核心概念"
+  - "Michelangelo ：文艺复兴艺术巨匠的方法与实践"
+trigger_keywords: ["act", "art", "death", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "death/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+
+---
 # Michelangelo (米开朗基罗)：文艺复兴艺术巨匠
 
 ## 概述 (Overview)

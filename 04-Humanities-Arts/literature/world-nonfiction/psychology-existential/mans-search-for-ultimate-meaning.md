@@ -1,3 +1,31 @@
+---
+
+title: "《人对终极意义的寻求》Man's Search for Ultimate Meaning"
+description: "《人对终极意义的寻求》Man's Search for Ultimate Meaning的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["addiction", "depression", "freud"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人对终极意义的寻求》Man's Search for Ultimate Meaning"
+  - "《人对终极意义的寻求》Man's Search for Ultimate Meaning的核心概念"
+  - "《人对终极意义的寻求》Man's Search for Ultimate Meaning的方法与实践"
+trigger_keywords: ["addiction", "behavioral", "clinical", "depression"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "depression/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "depression/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "depression/emotion/exercise"
+
+---
 # 《人对终极意义的寻求》Man's Search for Ultimate Meaning
 
 > 维克多·弗兰克尔（Viktor E. Frankl）著，1969年出版。弗兰克尔在《活出生命的意义》之后的理论深化，系统阐述了"意义疗法"（Logotherapy）的哲学基础和临床技术。如果说前一本书是"故事"，这本书就是"理论"。

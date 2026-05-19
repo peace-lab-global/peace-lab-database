@@ -1,3 +1,32 @@
+---
+
+title: "职业心理学专业体系概览 (Vocational Psychology Professional System Overview)"
+description: "职业心理学专业体系概览 (Vocational Psychology Professional System Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
+tags: ["anxiety", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业心理学专业体系概览"
+  - "职业心理学专业体系概览的核心概念"
+  - "职业心理学专业体系概览的方法与实践"
+  - "职业心理学专业体系概览的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/productivity"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/cardiovascular/productivity"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/productivity"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/productivity"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/productivity"
+
+---
 # 职业心理学专业体系概览 (Vocational Psychology Professional System Overview)
 
 > 📘 **文档导航**: 本指南系统阐述职业心理学的核心理论、评估工具、临床应用和研究方法。相关文档：

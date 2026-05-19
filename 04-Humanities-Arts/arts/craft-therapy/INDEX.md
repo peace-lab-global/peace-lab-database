@@ -1,3 +1,31 @@
+---
+
+title: "陶艺手工疗愈 | Craft Therapy"
+description: "陶艺手工疗愈 | Craft Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > Craft Therapy"
+tags: ["calligraphy", "healing", "mindfulness", "horticultural-therapy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是陶艺手工疗愈 | Craft Therapy"
+  - "陶艺手工疗愈 | Craft Therapy的核心概念"
+  - "陶艺手工疗愈 | Craft Therapy的方法与实践"
+trigger_keywords: ["陶艺手工疗愈", "anxiety", "art", "calligraphy", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Rituals_Overview.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 陶艺手工疗愈 | Craft Therapy
 
 > 表达性艺术治疗 · 陶艺 · 纺织 · 正念手工

@@ -1,3 +1,31 @@
+---
+
+title: "《景观社会》The Society of the Spectacle"
+description: "《景观社会》The Society of the Spectacle的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["social", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《景观社会》The Society of the Spectacle"
+  - "《景观社会》The Society of the Spectacle的核心概念"
+  - "《景观社会》The Society of the Spectacle的方法与实践"
+trigger_keywords: ["death", "sexuality", "social", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/sexuality"
+
+---
 # 《景观社会》The Society of the Spectacle
 
 > 居伊·德波（Guy Debord）著，1967年出版。法国情境主义者的核心著作，提出了一个影响深远的批判：现代社会已经被"景观"（Spectacle）所统治——真实的生活被图像、广告、媒体所取代，人们不再 lived experience，而是 consumed representation。

@@ -1,3 +1,31 @@
+---
+
+title: "《瑜伽经》Yoga Sutras"
+description: "《瑜伽经》Yoga Sutras的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["flow", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《瑜伽经》Yoga Sutras"
+  - "《瑜伽经》Yoga Sutras的核心概念"
+  - "《瑜伽经》Yoga Sutras的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 《瑜伽经》Yoga Sutras
 
 > 帕坦伽利（Patanjali）著，约公元2-4世纪。印度瑜伽哲学的系统经典，195句短小的梵文经文（sutras），阐述了瑜伽的"八支"（Ashtanga）道路和意识止息的科学。不是"体式指南"，而是关于"心"的操作手册。

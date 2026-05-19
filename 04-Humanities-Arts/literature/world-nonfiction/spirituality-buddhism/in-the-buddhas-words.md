@@ -1,3 +1,31 @@
+---
+
+title: "《佛陀的话语》In the Buddha's Words"
+description: "《佛陀的话语》In the Buddha's Words的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《佛陀的话语》In the Buddha's Words"
+  - "《佛陀的话语》In the Buddha's Words的核心概念"
+  - "《佛陀的话语》In the Buddha's Words的方法与实践"
+trigger_keywords: ["buddhism", "death", "meditation", "sexuality"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《佛陀的话语》In the Buddha's Words
 
 >  Bhikkhu Bodhi 编选翻译，2005年出版。美国上座部佛教僧侣、学者，从巴利文经典（Tipitaka）中精选了最重要的段落，按主题组织成佛陀教导的" reader "。被称为"最可靠的佛陀原话英文汇编"。

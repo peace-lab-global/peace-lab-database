@@ -1,3 +1,31 @@
+---
+
+title: "Self-Confidence: Development & Damage (自信的发展与损害)"
+description: "Self-Confidence: Development & Damage (自信的发展与损害)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Self Confidence"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Self-Confidence: Development & Damage"
+  - "Self-Confidence: Development & Damage的核心概念"
+  - "Self-Confidence: Development & Damage的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Formation_Mechanisms.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Neuroscience_Biology.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Self-Confidence: Development & Damage (自信的发展与损害)
 
 > **自信的来路与去路 (How Confidence Grows & Breaks / Crescens et Frangens)**

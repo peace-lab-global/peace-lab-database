@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师教学实务 | Professional Teaching Practice"
+description: "冥想执行师教学实务 | Professional Teaching Practice的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师教学实务 | Professional Teaching Practice"
+  - "冥想执行师教学实务 | Professional Teaching Practice的核心概念"
+  - "冥想执行师教学实务 | Professional Teaching Practice的方法与实践"
+trigger_keywords: ["冥想执行师教学实务", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/anxiety/meditation"
+
+---
 # 冥想执行师教学实务 | Professional Teaching Practice
 
 > **领域**：冥想执行师职业手册 — 教学实务

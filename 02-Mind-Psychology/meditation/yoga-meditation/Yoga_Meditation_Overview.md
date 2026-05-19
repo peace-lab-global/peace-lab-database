@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽冥想概述 | Yoga Meditation Overview"
+description: "瑜伽冥想概述 | Yoga Meditation Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Meditation"
+tags: ["anxiety", "brain", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽冥想概述 | Yoga Meditation Overview"
+  - "瑜伽冥想概述 | Yoga Meditation Overview的核心概念"
+  - "瑜伽冥想概述 | Yoga Meditation Overview的方法与实践"
+trigger_keywords: ["瑜伽冥想概述", "anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 瑜伽冥想概述 | Yoga Meditation Overview
 
 > **适用对象**：对瑜伽传统中的冥想体系感兴趣的练习者、瑜伽教师、印度哲学研究者、心理健康从业者

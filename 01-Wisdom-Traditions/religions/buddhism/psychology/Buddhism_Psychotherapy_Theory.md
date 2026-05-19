@@ -1,3 +1,32 @@
+---
+
+title: "佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)"
+description: "佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学"
+tags: ["addiction", "meditation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教心理治疗理论详论"
+  - "佛教心理治疗理论详论的核心概念"
+  - "佛教心理治疗理论详论的方法与实践"
+  - "佛教心理治疗理论详论的循证证据"
+trigger_keywords: ["佛教心理治疗理论详论", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)
 
 > **佛教心理治疗 (Buddhist Psychotherapy)**：运用佛教智慧和禅修方法来处理心理问题的治疗体系，结合传统佛教教义与现代心理学理论，为心理健康提供独特的解决方案。

@@ -1,3 +1,31 @@
+---
+
+title: "Habit Science 习惯养成科学"
+description: "Habit Science 习惯养成科学的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["addiction", "cbt", "habits"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Habit Science 习惯养成科学"
+  - "Habit Science 习惯养成科学的核心概念"
+  - "Habit Science 习惯养成科学的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Habit Science 习惯养成科学
 
 ## 核心术语与词源 (Core Terminology & Etymology)

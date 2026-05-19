@@ -1,3 +1,31 @@
+---
+
+title: "《时时刻刻》Moment by Moment"
+description: "《时时刻刻》Moment by Moment的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness", "vipassana", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《时时刻刻》Moment by Moment"
+  - "《时时刻刻》Moment by Moment的核心概念"
+  - "《时时刻刻》Moment by Moment的方法与实践"
+trigger_keywords: ["breathwork", "exercise", "meditation", "mindfulness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/exercise/meditation"
+
+---
 # 《时时刻刻》Moment by Moment
 
 >  莎朗·萨尔斯堡（Sharon Salzberg）著，1990年出版。美国内观禅修运动联合创始人之一，与约瑟夫·戈尔茨坦和杰克·康菲尔德共同创立了内观禅修社（IMS）。这本书是她的核心教导——**正念不是"特殊的状态"，而是"每一刻的选择"**。

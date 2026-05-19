@@ -1,3 +1,31 @@
+---
+
+title: "昆达里尼 Kriya 实操序列详解"
+description: "昆达里尼 Kriya 实操序列详解的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Kundalini Meditation"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是昆达里尼 Kriya 实操序列详解"
+  - "昆达里尼 Kriya 实操序列详解的核心概念"
+  - "昆达里尼 Kriya 实操序列详解的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/communication/emotion"
+  - path: "README.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 昆达里尼 Kriya 实操序列详解
 
 > **Kundalini Kriya Practice Sequences: A Detailed Operational Guide**

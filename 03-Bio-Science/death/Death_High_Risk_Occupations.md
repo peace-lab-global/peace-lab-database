@@ -1,3 +1,31 @@
+---
+
+title: "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)"
+description: "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience"
+  - "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的核心概念"
+  - "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/a-bittersweet-season.md"
+    relation: "communication/death/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "communication/death/emotion"
+
+---
 # High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)
 
 > *"我们不是被死亡本身伤害，而是被死亡发生的方式、以及我们在其中的无力感所伤害。"*

@@ -1,3 +1,31 @@
+---
+
+title: "Aromatherapy & Olfactory (高阶芳香与嗅觉神经)"
+description: "Aromatherapy & Olfactory (高阶芳香与嗅觉神经)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["anxiety", "brain", "depression", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Aromatherapy & Olfactory"
+  - "Aromatherapy & Olfactory的核心概念"
+  - "Aromatherapy & Olfactory的方法与实践"
+trigger_keywords: ["act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Aromatherapy & Olfactory (高阶芳香与嗅觉神经)
 
 ### Essential Oil Chemistry & Neuropsychology (精油化学与神经心理学关系表)

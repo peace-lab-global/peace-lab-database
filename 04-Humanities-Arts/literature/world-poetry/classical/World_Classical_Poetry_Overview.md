@@ -1,3 +1,31 @@
+---
+
+title: "国外经典诗歌专业内容体系：从古代到近现代的诗歌精华"
+description: "国外经典诗歌专业内容体系：从古代到近现代的诗歌精华的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Poetry > Classical"
+tags: ["literature", "music", "personality", "renaissance"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是国外经典诗歌专业内容体系：从古代到近现代的诗歌精华"
+  - "国外经典诗歌专业内容体系：从古代到近现代的诗歌精华的核心概念"
+  - "国外经典诗歌专业内容体系：从古代到近现代的诗歌精华的方法与实践"
+trigger_keywords: ["act", "art", "communication", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 国外经典诗歌专业内容体系：从古代到近现代的诗歌精华
 
 ## 概述 (Overview)

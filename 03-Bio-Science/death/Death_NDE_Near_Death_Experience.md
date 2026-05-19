@@ -1,3 +1,31 @@
+---
+
+title: "Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)"
+description: "Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Near-Death Experience & End-of-Life Consciousness"
+  - "Near-Death Experience & End-of-Life Consciousness的核心概念"
+  - "Near-Death Experience & End-of-Life Consciousness的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Essential_Oils.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)
 
 > **濒死体验 (Near-Death Experience, NDE)**

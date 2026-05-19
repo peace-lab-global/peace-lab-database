@@ -1,3 +1,31 @@
+---
+
+title: "Evidence Based Protocols"
+description: "Evidence Based Protocols的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "cbt", "depression", "intervention", "mbct", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Evidence Based Protocols"
+  - "Evidence Based Protocols的核心概念"
+  - "Evidence Based Protocols的方法与实践"
+trigger_keywords: ["anxiety", "cbt", "depression", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "anxiety/depression/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/meditation"
+
+---
 ## 4. 循证干预方案
 
 ### 4.1 关键荟萃分析

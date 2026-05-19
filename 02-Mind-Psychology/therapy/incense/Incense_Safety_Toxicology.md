@@ -1,3 +1,32 @@
+---
+
+title: "檀香疗法安全性与毒理学 (Incense Safety & Toxicology)"
+description: "檀香疗法安全性与毒理学 (Incense Safety & Toxicology)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Incense"
+tags: ["brain", "gut", "immune", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是檀香疗法安全性与毒理学"
+  - "檀香疗法安全性与毒理学的核心概念"
+  - "檀香疗法安全性与毒理学的方法与实践"
+  - "檀香疗法安全性与毒理学的循证证据"
+trigger_keywords: ["assessment", "brain", "breathwork", "child"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
+    relation: "immune/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "immune/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "immune/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+    relation: "immune/neuroscience/sexuality"
+
+---
 # 檀香疗法安全性与毒理学 (Incense Safety & Toxicology)
 
 > **目标**：系统评估檀香疗法的安全性、毒理学数据、不良反应、禁忌症及风险管理策略。

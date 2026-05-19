@@ -1,3 +1,31 @@
+---
+
+title: "The Tibetan Book of Living and Dying | 西藏生死书"
+description: "The Tibetan Book of Living and Dying | 西藏生死书的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
+tags: ["dzogchen", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是The Tibetan Book of Living and Dying | 西藏生死书"
+  - "The Tibetan Book of Living and Dying | 西藏生死书的核心概念"
+  - "The Tibetan Book of Living and Dying | 西藏生死书的方法与实践"
+trigger_keywords: ["西藏生死书", "anxiety", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # The Tibetan Book of Living and Dying | 西藏生死书
 
 > 索甲仁波切（Sogyal Rinpoche）著，1992年出版。一部将藏传佛教生死观带给现代世界的里程碑式著作，被誉为"当代的西藏度亡经"。

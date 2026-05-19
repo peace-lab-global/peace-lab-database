@@ -1,3 +1,32 @@
+---
+
+title: "创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)"
+description: "创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Tf Cbt Therapy"
+tags: ["anxiety", "attachment", "cbt", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是创伤聚焦认知行为治疗"
+  - "创伤聚焦认知行为治疗的核心概念"
+  - "创伤聚焦认知行为治疗的方法与实践"
+  - "创伤聚焦认知行为治疗的循证证据"
+trigger_keywords: ["创伤聚焦认知行为治疗", "act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/literature/Expanded_Literary_Therapy_Guide_Extended.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)
 
 > **目标**：构建完整的TF-CBT理论体系与实践框架，涵盖核心组件、治疗技术、实施流程及循证应用。TF-CBT是专门为儿童青少年创伤后应激开发的循证治疗方法，强调创伤叙事和亲子共同参与。

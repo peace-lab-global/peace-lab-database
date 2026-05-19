@@ -1,3 +1,31 @@
+---
+
+title: "《行列》The Procession"
+description: "《行列》The Procession的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["loneliness", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《行列》The Procession"
+  - "《行列》The Procession的核心概念"
+  - "《行列》The Procession的方法与实践"
+trigger_keywords: ["buddhism", "death", "loneliness", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Rituals_Overview.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
+    relation: "buddhism/death/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/buddhism/death"
+
+---
 # 《行列》The Procession
 
 > 纪伯伦（Kahlil Gibran）著，1918年出版。纪伯伦的散文诗集，以"行列"为隐喻——人生是一场不断行进的队伍，每个人都在其中扮演自己的角色。书中的主题包括死亡、爱、孤独、信仰和人类的命运。风格比《先知》更加 dark 和 melancholic。

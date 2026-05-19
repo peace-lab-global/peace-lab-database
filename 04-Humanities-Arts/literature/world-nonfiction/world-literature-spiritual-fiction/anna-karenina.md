@@ -1,3 +1,31 @@
+---
+
+title: "《安娜·卡列尼娜》Anna Karenina"
+description: "《安娜·卡列尼娜》Anna Karenina的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "marriage"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《安娜·卡列尼娜》Anna Karenina"
+  - "《安娜·卡列尼娜》Anna Karenina的核心概念"
+  - "《安娜·卡列尼娜》Anna Karenina的方法与实践"
+trigger_keywords: ["《安娜", "anxiety", "art", "body", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
+    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Urbanization_Psychology.md"
+    relation: "anxiety/attachment/death"
+
+---
 # 《安娜·卡列尼娜》Anna Karenina
 
 **作者**：列夫·托尔斯泰 (Leo Tolstoy)  

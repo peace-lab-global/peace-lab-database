@@ -1,3 +1,31 @@
+---
+
+title: "创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide"
+description: "创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Safety"
+tags: ["anxiety", "depression", "mindfulness", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide"
+  - "创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide的核心概念"
+  - "创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide的方法与实践"
+trigger_keywords: ["创伤知情冥想指南", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 创伤知情冥想指南 | Trauma-Sensitive Mindfulness Guide
 
 > **领域**：冥想安全与不良反应（Meditation Safety & Adverse Effects）

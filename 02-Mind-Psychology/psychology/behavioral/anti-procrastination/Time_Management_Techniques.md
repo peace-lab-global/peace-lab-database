@@ -1,3 +1,31 @@
+---
+
+title: "时间管理技术"
+description: "时间管理技术的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["decision-making", "habits", "心理学", "行为心理"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是时间管理技术"
+  - "时间管理技术的核心概念"
+  - "时间管理技术的方法与实践"
+trigger_keywords: ["时间管理技术", "assessment", "communication", "decision-making", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 时间管理技术
 
 ## 目录

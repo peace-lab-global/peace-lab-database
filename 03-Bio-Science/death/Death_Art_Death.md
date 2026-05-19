@@ -1,3 +1,31 @@
+---
+
+title: "Art, Aesthetics & Death (艺术与死亡)"
+description: "Art, Aesthetics & Death (艺术与死亡)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "cinema", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Art, Aesthetics & Death"
+  - "Art, Aesthetics & Death的核心概念"
+  - "Art, Aesthetics & Death的方法与实践"
+trigger_keywords: ["adolescent", "aging", "art", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/art_therapy/buddhism"
+  - path: "04-Humanities-Arts/arts/photography-therapy/INDEX.md"
+    relation: "aging/art_therapy/communication"
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "aging/art_therapy/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/art_therapy/communication"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/art_therapy/communication"
+
+---
 # Art, Aesthetics & Death (艺术与死亡)
 
 > *"艺术是对死亡的永恒反抗。"*

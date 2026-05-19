@@ -1,3 +1,31 @@
+---
+
+title: "《上师也喝酒？》读书笔记与书评"
+description: "《上师也喝酒？》读书笔记与书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > The Guru Drinks Bourbon"
+tags: ["buddhism", "phobia", "writing", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《上师也喝酒？》读书笔记与书评"
+  - "《上师也喝酒？》读书笔记与书评的核心概念"
+  - "《上师也喝酒？》读书笔记与书评的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "phobia", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 《上师也喝酒？》读书笔记与书评
 
 ## 一、总体评价

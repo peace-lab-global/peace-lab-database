@@ -1,3 +1,31 @@
+---
+
+title: "系列十五：青少年与家庭系列 | Youth & Family Series"
+description: "系列十五：青少年与家庭系列 | Youth & Family Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列十五：青少年与家庭系列 | Youth & Family Series"
+  - "系列十五：青少年与家庭系列 | Youth & Family Series的核心概念"
+  - "系列十五：青少年与家庭系列 | Youth & Family Series的方法与实践"
+trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 系列十五：青少年与家庭系列 | Youth & Family Series
 
 > **级别**：Level 1-3（初中级）

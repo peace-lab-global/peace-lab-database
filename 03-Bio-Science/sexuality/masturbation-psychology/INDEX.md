@@ -1,3 +1,32 @@
+---
+
+title: "masturbation-psychology | 自慰心理学：生物科学视角"
+description: "masturbation-psychology | 自慰心理学：生物科学视角的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
+tags: ["aging", "cbt", "intervention", "neuroscience", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是masturbation-psychology | 自慰心理学：生物科学视角"
+  - "masturbation-psychology | 自慰心理学：生物科学视角的核心概念"
+  - "masturbation-psychology | 自慰心理学：生物科学视角的方法与实践"
+  - "masturbation-psychology | 自慰心理学：生物科学视角的自助方法"
+trigger_keywords: ["aging", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "aging/attachment/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/attachment/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Personality_Attachment.md"
+    relation: "aging/attachment/neuroscience"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Sources_Etiology.md"
+    relation: "aging/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/neuroscience/personality"
+
+---
 # masturbation-psychology | 自慰心理学：生物科学视角
 
 > 基于神经科学、生理学与发展心理学的循证研究，系统阐述自慰行为的生物学基础、生命周期发展、个体差异与临床评估干预。

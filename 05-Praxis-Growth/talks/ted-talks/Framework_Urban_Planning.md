@@ -1,3 +1,31 @@
+---
+
+title: "城市规划 | Urban Planning"
+description: "城市规划 | Urban Planning的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["productivity", "resilience", "social", "讲座"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是城市规划 | Urban Planning"
+  - "城市规划 | Urban Planning的核心概念"
+  - "城市规划 | Urban Planning的方法与实践"
+trigger_keywords: ["城市规划", "act", "developmental", "productivity", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/productivity/sexuality"
+
+---
 # 城市规划 | Urban Planning
 
 > **城市规划**（Urban Planning）是设计和管理工作城市空间发展的实践与科学，关注土地利用、交通系统、公共空间和社区营造。TED平台上关于城市规划的演讲探讨了如何打造更加宜居、可持续和公平的城市，展示了全球城市的创新实践和未来愿景。

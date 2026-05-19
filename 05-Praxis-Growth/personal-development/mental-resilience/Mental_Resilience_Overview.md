@@ -1,3 +1,32 @@
+---
+
+title: "心力成长核心理论与实践"
+description: "心力成长核心理论与实践的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 心力成长"
+tags: ["flow"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是心力成长核心理论与实践"
+  - "心力成长核心理论与实践的核心概念"
+  - "心力成长核心理论与实践的方法与实践"
+  - "心力成长核心理论与实践的自助方法"
+trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 心力成长核心理论与实践
 
 ## 文档说明

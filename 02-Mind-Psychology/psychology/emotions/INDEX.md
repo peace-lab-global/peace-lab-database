@@ -1,3 +1,31 @@
+---
+
+title: "情绪专业分析 (Emotions Professional Analysis)"
+description: "情绪专业分析 (Emotions Professional Analysis)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > Emotions"
+tags: ["anxiety", "depression", "intervention", "sleep", "trauma", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是情绪专业分析"
+  - "情绪专业分析的核心概念"
+  - "情绪专业分析的方法与实践"
+trigger_keywords: ["情绪专业分析", "anxiety", "assessment", "clinical", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 情绪专业分析 (Emotions Professional Analysis)
 
 > 系统梳理各类情绪的核心概念、神经生物学机制、临床评估与治疗干预，满足心理医生专业诊断需求与患者自我理解诉求。

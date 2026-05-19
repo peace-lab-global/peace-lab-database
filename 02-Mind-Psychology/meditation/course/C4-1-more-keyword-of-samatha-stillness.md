@@ -1,3 +1,31 @@
+---
+
+title: "C4-1 冥想与止观：第五讲：练习止的关键词-2"
+description: "C4-1 冥想与止观：第五讲：练习止的关键词-2的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["daoism", "habits", "meditation", "ocd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-1 冥想与止观：第五讲：练习止的关键词-2"
+  - "C4-1 冥想与止观：第五讲：练习止的关键词-2的核心概念"
+  - "C4-1 冥想与止观：第五讲：练习止的关键词-2的方法与实践"
+trigger_keywords: ["body", "breathwork", "daoism", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "daoism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "daoism/emotion/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/emotion/meditation"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "daoism/emotion/meditation"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md"
+    relation: "daoism/emotion/meditation"
+
+---
 # C4-1 冥想与止观：第五讲：练习止的关键词-2 
 
 📑 智能总结

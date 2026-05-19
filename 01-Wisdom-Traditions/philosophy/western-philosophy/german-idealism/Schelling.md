@@ -1,3 +1,31 @@
+---
+
+title: "弗里德里希·威廉·约瑟夫·谢林 (Friedrich Wilhelm Joseph Schelling)"
+description: "弗里德里希·威廉·约瑟夫·谢林 (Friedrich Wilhelm Joseph Schelling)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > German Idealism"
+tags: ["healing", "jung", "philosophy", "religion", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是弗里德里希·威廉·约瑟夫·谢林"
+  - "弗里德里希·威廉·约瑟夫·谢林的核心概念"
+  - "弗里德里希·威廉·约瑟夫·谢林的方法与实践"
+trigger_keywords: ["弗里德里希", "威廉", "约瑟夫", "谢林", "art", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 弗里德里希·威廉·约瑟夫·谢林 (Friedrich Wilhelm Joseph Schelling)
 
 ## 核心思想 (Core Ideas)

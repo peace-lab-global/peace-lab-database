@@ -1,3 +1,21 @@
+---
+
+title: "飞蚊症专题 (Eye Floaters) | Index"
+description: "飞蚊症专题 (Eye Floaters) | Index的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 飞蚊症"
+tags: ["生物学", "飞蚊症"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是飞蚊症专题  | Index"
+  - "飞蚊症专题  | Index的核心概念"
+  - "飞蚊症专题  | Index的方法与实践"
+trigger_keywords: ["飞蚊症专题", "Index", "clinical", "psychology", "生物学", "飞蚊症"]
+cross_refs: []
+
+---
 # 飞蚊症专题 (Eye Floaters) | Index
 
 > 飞蚊症的临床管理、心理适应、预防保健与前沿研究。

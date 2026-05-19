@@ -1,3 +1,31 @@
+---
+
+title: "20. 重返工作岗位与渐进式复工 | Return to Work"
+description: "20. 重返工作岗位与渐进式复工 | Return to Work的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是20. 重返工作岗位与渐进式复工 | Return to Work"
+  - "20. 重返工作岗位与渐进式复工 | Return to Work的核心概念"
+  - "20. 重返工作岗位与渐进式复工 | Return to Work的方法与实践"
+trigger_keywords: ["assessment", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Willpower_Instinct.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 20. 重返工作岗位与渐进式复工 | Return to Work
 
 > **文档定位**：倦怠干预的临床终点。本章提供从病假/离职到安全重返工作岗位的完整路径，连接正念干预与职业医学、EAP、劳动法实践。

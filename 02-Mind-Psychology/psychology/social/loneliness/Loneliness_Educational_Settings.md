@@ -1,3 +1,31 @@
+---
+
+title: "教育情境中的孤独 | Loneliness in Educational Settings"
+description: "教育情境中的孤独 | Loneliness in Educational Settings的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "cbt", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是教育情境中的孤独 | Loneliness in Educational Settings"
+  - "教育情境中的孤独 | Loneliness in Educational Settings的核心概念"
+  - "教育情境中的孤独 | Loneliness in Educational Settings的方法与实践"
+trigger_keywords: ["教育情境中的孤独", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/prevention/Body_Shame_Prevention_Public_Health.md"
+    relation: "anxiety/body_image/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/body_image/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/body_image/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/body_image/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 教育情境中的孤独 | Loneliness in Educational Settings
 
 > **核心定位**: 从学校系统视角理解学生与教师的孤独体验及系统性干预

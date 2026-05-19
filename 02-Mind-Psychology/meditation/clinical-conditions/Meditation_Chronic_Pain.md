@@ -1,3 +1,31 @@
+---
+
+title: "å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management"
+description: "å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["cbt", "dmn", "mbct", "mbsr", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management"
+  - "å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management的核心概念"
+  - "å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management的方法与实践"
+trigger_keywords: ["act", "cbt", "dmn", "mbct"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "meditation/neuroscience/pain"
+  - path: "03-Bio-Science/biology/pain-science/INDEX.md"
+    relation: "meditation/neuroscience/pain"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "meditation/neuroscience/pain"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "meditation/neuroscience/pain"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "meditation/neuroscience/pain"
+
+---
 # å¥æ³ä¸æ¢æ§ç¼çç®¡ç | Meditation and Chronic Pain Management
 
 > **åç±»**: ä¸´åºæ­£å¿µåºç¨ | **è¯æ®ç­çº§**: Içº§ï¼è°çãçº¤ç»´èçï¼/ IIçº§ï¼å¹¿æ³æ§æ¢æ§ç¼çï¼

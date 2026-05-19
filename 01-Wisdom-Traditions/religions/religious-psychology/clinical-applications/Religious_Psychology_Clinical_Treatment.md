@@ -1,3 +1,32 @@
+---
+
+title: "宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)"
+description: "宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Clinical Applications"
+tags: ["addiction", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是宗教心理学临床应用与治疗"
+  - "宗教心理学临床应用与治疗的核心概念"
+  - "宗教心理学临床应用与治疗的方法与实践"
+  - "宗教心理学临床应用与治疗的循证证据"
+trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/death/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/death/emotion"
+
+---
 # 宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)
 
 ## 目录 (Table of Contents)

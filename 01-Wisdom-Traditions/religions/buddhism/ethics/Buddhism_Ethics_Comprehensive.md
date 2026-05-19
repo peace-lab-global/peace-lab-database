@@ -1,3 +1,31 @@
+---
+
+title: "佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)"
+description: "佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Ethics"
+tags: ["buddhism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是佛教戒律与伦理学综合研究"
+  - "佛教戒律与伦理学综合研究的核心概念"
+  - "佛教戒律与伦理学综合研究的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "buddhism/communication/neuroscience"
+  - path: "02-Mind-Psychology/meditation/zazen/Zazen_Koan_Collection.md"
+    relation: "buddhism/communication/neuroscience"
+
+---
 # 佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)
 
 > **佛教伦理学 (Buddhist Ethics)**：基于因果业力法则和慈悲智慧的道德哲学体系，强调行为的动机、过程与结果的统一性，以解脱和利他为终极目标的行为准则。

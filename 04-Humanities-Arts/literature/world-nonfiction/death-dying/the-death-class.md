@@ -1,3 +1,31 @@
+---
+
+title: "《死亡课》The Death Class"
+description: "《死亡课》The Death Class的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《死亡课》The Death Class"
+  - "《死亡课》The Death Class的核心概念"
+  - "《死亡课》The Death Class的方法与实践"
+trigger_keywords: ["anxiety", "cognitive", "death", "literature"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/death/emotion"
+
+---
 # 《死亡课》The Death Class
 
 > 厄普顿·海因兹（Erika Hayasaki）著，2014年出版。报道文学，记录了新泽西州基恩大学诺玛·鲍伊教授开设的"死亡与临终"课程，以及选课学生们如何在面对死亡主题的过程中改变了自己的人生。

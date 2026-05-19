@@ -1,3 +1,31 @@
+---
+
+title: "《正念的大脑》The Mindful Brain"
+description: "《正念的大脑》The Mindful Brain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正念的大脑》The Mindful Brain"
+  - "《正念的大脑》The Mindful Brain的核心概念"
+  - "《正念的大脑》The Mindful Brain的方法与实践"
+trigger_keywords: ["anxiety", "art", "attachment", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 《正念的大脑》The Mindful Brain
 
 **作者**：丹尼尔·西格尔 (Daniel J. Siegel)  

@@ -1,3 +1,31 @@
+---
+
+title: "南传上座部佛教概览 (Theravada Buddhism Overview)"
+description: "南传上座部佛教概览 (Theravada Buddhism Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
+tags: ["buddhism", "longevity", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是南传上座部佛教概览"
+  - "南传上座部佛教概览的核心概念"
+  - "南传上座部佛教概览的方法与实践"
+trigger_keywords: ["南传上座部佛教概览", "act", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 南传上座部佛教概览 (Theravada Buddhism Overview)
 
 > **上座部佛教 (Theravada Buddhism)**：佛教最古老的存续传承，以巴利三藏为经典依据，强调原始佛陀教法的忠实传承与阿罗汉道的解脱实践。

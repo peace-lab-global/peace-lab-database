@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教冥想 (Tibetan Meditation)"
+description: "藏传佛教冥想 (Tibetan Meditation)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tibetan Meditation"
+tags: ["dzogchen", "meditation", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教冥想"
+  - "藏传佛教冥想的核心概念"
+  - "藏传佛教冥想的方法与实践"
+trigger_keywords: ["藏传佛教冥想", "breathwork", "buddhism", "dzogchen", "meditation"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # 藏传佛教冥想 (Tibetan Meditation)
 
 > **最后更新**：2026-05

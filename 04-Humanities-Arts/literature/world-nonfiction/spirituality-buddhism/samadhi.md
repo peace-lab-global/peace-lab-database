@@ -1,3 +1,31 @@
+---
+
+title: "《三摩地》Samadhi"
+description: "《三摩地》Samadhi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["cinema", "music", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《三摩地》Samadhi"
+  - "《三摩地》Samadhi的核心概念"
+  - "《三摩地》Samadhi的方法与实践"
+trigger_keywords: ["body", "brain", "buddhism", "cinema"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 《三摩地》Samadhi
 
 > 丹尼尔·施密特（Daniel Schmidt）著/导演，2017年出版（纪录片及配套文字）。加拿大冥想导师和电影制作人，通过影像和文字探索"自我的幻觉"与合一体验。虽然主要以纪录片形式存在，但其配套的冥想指南和哲学阐述构成了完整的灵性教学内容。

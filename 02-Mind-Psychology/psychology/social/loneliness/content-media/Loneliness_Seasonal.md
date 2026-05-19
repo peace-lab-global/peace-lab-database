@@ -1,3 +1,31 @@
+---
+
+title: "季节性孤独 | Seasonal Loneliness"
+description: "季节性孤独 | Seasonal Loneliness的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Content Media"
+tags: ["anxiety", "cinema", "depression", "hpa-axis", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是季节性孤独 | Seasonal Loneliness"
+  - "季节性孤独 | Seasonal Loneliness的核心概念"
+  - "季节性孤独 | Seasonal Loneliness的方法与实践"
+trigger_keywords: ["季节性孤独", "anxiety", "body", "cinema", "depression"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/body-shame/assessment/Body_Shame_Clinical_Assessment.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 季节性孤独 | Seasonal Loneliness
 
 > **自媒体定位**: 时效话题 × 情感共鸣 × 实用指南  

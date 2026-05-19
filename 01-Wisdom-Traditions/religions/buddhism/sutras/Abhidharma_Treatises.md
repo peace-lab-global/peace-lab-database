@@ -1,3 +1,31 @@
+---
+
+title: "佛教论藏重要论典"
+description: "佛教论藏重要论典的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "philosophy", "yoga", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是佛教论藏重要论典"
+  - "佛教论藏重要论典的核心概念"
+  - "佛教论藏重要论典的方法与实践"
+trigger_keywords: ["佛教论藏重要论典", "buddhism", "developmental", "literature", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/cardiovascular/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/cardiovascular/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "buddhism/cardiovascular/sexuality"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/cardiovascular/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/cardiovascular/sexuality"
+
+---
 # 佛教论藏重要论典
 
 佛教论藏（Abhidharma Pitaka）是三藏之一，主要阐述佛法义理，包括各部派的阿毗达磨论书以及大乘佛教的各类论典。本文档系统介绍中观派、瑜伽行派及阿毗达磨各部的重要论典。

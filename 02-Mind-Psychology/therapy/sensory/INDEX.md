@@ -1,3 +1,31 @@
+---
+
+title: "sensory | Index"
+description: "sensory | Index的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["感官疗法", "疗法", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是sensory | Index"
+  - "sensory | Index的核心概念"
+  - "sensory | Index的方法与实践"
+trigger_keywords: ["sensory", "Index", "act", "感官疗法", "疗法"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # sensory | Index
 
 ## 内容索引 | Contents

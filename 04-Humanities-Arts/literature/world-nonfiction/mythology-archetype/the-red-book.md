@@ -1,3 +1,31 @@
+---
+
+title: "《红书》The Red Book"
+description: "《红书》The Red Book的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "phobia", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《红书》The Red Book"
+  - "《红书》The Red Book的核心概念"
+  - "《红书》The Red Book的方法与实践"
+trigger_keywords: ["act", "art", "death", "jung"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "anxiety/death/depression"
+
+---
 # 《红书》The Red Book
 
 > 卡尔·荣格（Carl Jung）著，2009年出版（首次公开）。荣格从1914年到1930年的私人日记和绘画，记录了他与"无意识"的直接对话——他进入自己的幻想世界，与各种"人物"对话，包括"斐乐蒙"（Philemon），他的内在导师。这本书被荣格封存了几十年，直到他去世后很久才公开。

@@ -1,3 +1,21 @@
+---
+
+title: "韩非子 (Han Feizi)"
+description: "韩非子 (Han Feizi)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 法家 > Classics"
+tags: ["gut", "宗教与灵性", "法家"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是韩非子"
+  - "韩非子的核心概念"
+  - "韩非子的方法与实践"
+trigger_keywords: ["韩非子", "behavioral", "gut", "sexuality", "宗教与灵性"]
+cross_refs: []
+
+---
 # 韩非子 (Han Feizi)
 
 ## 基本信息

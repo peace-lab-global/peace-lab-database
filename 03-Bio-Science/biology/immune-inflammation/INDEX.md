@@ -1,3 +1,31 @@
+---
+
+title: "免疫系统与炎症 (Immune System & Inflammation)"
+description: "免疫系统与炎症 (Immune System & Inflammation)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
+tags: ["cortisol", "exercise", "hpa-axis", "immune", "inflammation", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是免疫系统与炎症"
+  - "免疫系统与炎症的核心概念"
+  - "免疫系统与炎症的方法与实践"
+trigger_keywords: ["免疫系统与炎症", "act", "assessment", "cortisol", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/emotion/exercise"
+
+---
 # 免疫系统与炎症 (Immune System & Inflammation)
 
 > **目录位置**: `03-Bio-Science/biology/immune-inflammation/`

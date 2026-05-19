@@ -1,3 +1,31 @@
+---
+
+title: "孤独研究标准术语表 (Standard Terminology Dictionary for Loneliness Research)"
+description: "孤独研究标准术语表 (Standard Terminology Dictionary for Loneliness Research)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独研究标准术语表"
+  - "孤独研究标准术语表的核心概念"
+  - "孤独研究标准术语表的方法与实践"
+trigger_keywords: ["孤独研究标准术语表", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/death"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 孤独研究标准术语表 (Standard Terminology Dictionary for Loneliness Research)
 
 ## 核心概念标准化定义

@@ -1,3 +1,31 @@
+---
+
+title: "圣严法师 (Sheng Yen / Master Sheng Yen)"
+description: "圣严法师 (Sheng Yen / Master Sheng Yen)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Chinese"
+tags: ["meditation", "positive-psychology", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是圣严法师"
+  - "圣严法师的核心概念"
+  - "圣严法师的方法与实践"
+trigger_keywords: ["圣严法师", "act", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "buddhism/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 圣严法师 (Sheng Yen / Master Sheng Yen)
 
 > "面对它、接受它、处理它、放下它。"

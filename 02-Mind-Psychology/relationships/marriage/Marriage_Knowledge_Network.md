@@ -1,3 +1,31 @@
+---
+
+title: "夫妻相处知识网络与交叉引用系统 (Marriage Knowledge Network & Cross-references)"
+description: "夫妻相处知识网络与交叉引用系统 (Marriage Knowledge Network & Cross-references)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "attachment", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是夫妻相处知识网络与交叉引用系统"
+  - "夫妻相处知识网络与交叉引用系统的核心概念"
+  - "夫妻相处知识网络与交叉引用系统的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 夫妻相处知识网络与交叉引用系统 (Marriage Knowledge Network & Cross-references)
 
 ## 知识体系架构图

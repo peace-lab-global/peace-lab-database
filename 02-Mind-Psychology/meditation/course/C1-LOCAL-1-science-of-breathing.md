@@ -1,3 +1,31 @@
+---
+
+title: "C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学"
+description: "C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "daoism", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学"
+  - "C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学的核心概念"
+  - "C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/communication"
+
+---
 # C1-LOCAL-1 直接认知冥想线下精品课：呼吸的科学
 
 知识精讲

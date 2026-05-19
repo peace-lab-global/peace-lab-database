@@ -1,3 +1,31 @@
+---
+
+title: "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide"
+description: "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide"
+  - "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的核心概念"
+  - "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide
 
 > **领域**：冥想行为设计与持续实践系统（Meditation Behavioral Design & Sustainable Practice）

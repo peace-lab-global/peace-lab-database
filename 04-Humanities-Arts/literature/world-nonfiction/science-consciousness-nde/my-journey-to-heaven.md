@@ -1,3 +1,31 @@
+---
+
+title: "《我的天堂之旅》My Journey to Heaven"
+description: "《我的天堂之旅》My Journey to Heaven的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我的天堂之旅》My Journey to Heaven"
+  - "《我的天堂之旅》My Journey to Heaven的核心概念"
+  - "《我的天堂之旅》My Journey to Heaven的方法与实践"
+trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/visualization/Loneliness_Chronic_Disease_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 《我的天堂之旅》My Journey to Heaven
 
 **作者：** 马文·贝斯特曼 (Marvin J. Besteman)  

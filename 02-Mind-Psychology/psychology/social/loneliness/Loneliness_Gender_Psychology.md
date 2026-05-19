@@ -1,3 +1,31 @@
+---
+
+title: "性别与孤独 | Gender & Loneliness"
+description: "性别与孤独 | Gender & Loneliness的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["attachment", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性别与孤独 | Gender & Loneliness"
+  - "性别与孤独 | Gender & Loneliness的核心概念"
+  - "性别与孤独 | Gender & Loneliness的方法与实践"
+trigger_keywords: ["性别与孤独", "adolescent", "aging", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/depression"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/attachment/depression"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
+    relation: "aging/depression/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/attachment/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/attachment/depression"
+
+---
 # 性别与孤独 | Gender & Loneliness
 
 > **核心定位**: 从性别心理学视角理解女性与男性在孤独体验上的差异与特异性

@@ -1,3 +1,31 @@
+---
+
+title: "数字时代关系深度研究 (Digital Age Relationships Deep Dive)"
+description: "数字时代关系深度研究 (Digital Age Relationships Deep Dive)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Digital Age"
+tags: ["addiction", "anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字时代关系深度研究"
+  - "数字时代关系深度研究的核心概念"
+  - "数字时代关系深度研究的方法与实践"
+trigger_keywords: ["数字时代关系深度研究", "addiction", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 数字时代关系深度研究 (Digital Age Relationships Deep Dive)
 
 ## 约会应用心理学

@@ -1,3 +1,31 @@
+---
+
+title: "冥想日记模板 | Meditation Journal Template"
+description: "冥想日记模板 | Meditation Journal Template的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tools"
+tags: ["meditation", "pain"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想日记模板 | Meditation Journal Template"
+  - "冥想日记模板 | Meditation Journal Template的核心概念"
+  - "冥想日记模板 | Meditation Journal Template的方法与实践"
+trigger_keywords: ["冥想日记模板", "behavioral", "body", "breathwork", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/meditation/pain"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "emotion/meditation/pain"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "emotion/meditation/pain"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Healing_Garden_Design.md"
+    relation: "emotion/meditation/pain"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "emotion/meditation/pain"
+
+---
 # 冥想日记模板 | Meditation Journal Template
 
 > **用途**：每日/每周冥想练习记录与反思

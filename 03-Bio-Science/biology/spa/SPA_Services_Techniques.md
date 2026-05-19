@@ -1,3 +1,31 @@
+---
+
+title: "SPA Services & Techniques (SPA服务类型与技术)"
+description: "SPA Services & Techniques (SPA服务类型与技术)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa"
+tags: ["aging", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是SPA Services & Techniques"
+  - "SPA Services & Techniques的核心概念"
+  - "SPA Services & Techniques的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # SPA Services & Techniques (SPA服务类型与技术)
 
 > 🏥 **专业概览**: 本文档详细介绍SPA行业的各类服务项目和技术手段，涵盖经典水疗、按摩疗法、芳香疗法、身体护理等核心技术模块。每项技术均包含操作规范、适应症、注意事项和专业要求。

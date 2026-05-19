@@ -1,3 +1,32 @@
+---
+
+title: "玻璃心心理机制"
+description: "玻璃心心理机制的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是玻璃心心理机制"
+  - "玻璃心心理机制的核心概念"
+  - "玻璃心心理机制的方法与实践"
+  - "玻璃心心理机制的自助方法"
+trigger_keywords: ["玻璃心心理机制", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 玻璃心心理机制
 
 ## 目录

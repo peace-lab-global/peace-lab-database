@@ -1,3 +1,31 @@
+---
+
+title: "Rural Mental Health Service (农村心理健康服务体系)"
+description: "Rural Mental Health Service (农村心理健康服务体系)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Rural Mental Health Service"
+  - "Rural Mental Health Service的核心概念"
+  - "Rural Mental Health Service的方法与实践"
+trigger_keywords: ["aging", "behavioral", "cognitive", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/communication/depression"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "aging/communication/depression"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/communication/depression"
+
+---
 # Rural Mental Health Service (农村心理健康服务体系)
 
 > **农村心理健康服务体系 (Rural Mental Health Service System)**

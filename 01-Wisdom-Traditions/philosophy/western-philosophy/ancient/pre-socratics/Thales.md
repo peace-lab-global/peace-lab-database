@@ -1,3 +1,31 @@
+---
+
+title: "泰勒斯 (Thales)"
+description: "泰勒斯 (Thales)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
+tags: ["healing", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是泰勒斯"
+  - "泰勒斯的核心概念"
+  - "泰勒斯的方法与实践"
+trigger_keywords: ["泰勒斯", "act", "cognitive", "developmental", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "exercise/sexuality/stress"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "exercise/sexuality/stress"
+
+---
 # 泰勒斯 (Thales)
 
 ## 核心思想 (Core Ideas)

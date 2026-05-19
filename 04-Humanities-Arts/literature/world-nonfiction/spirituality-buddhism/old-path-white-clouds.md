@@ -1,3 +1,31 @@
+---
+
+title: "《故道白云》Old Path White Clouds"
+description: "《故道白云》Old Path White Clouds的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["pain", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《故道白云》Old Path White Clouds"
+  - "《故道白云》Old Path White Clouds的核心概念"
+  - "《故道白云》Old Path White Clouds的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/meditation"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《故道白云》Old Path White Clouds
 
 > 一行禅师（Thich Nhat Hanh）著，1987年出版。一部佛陀的传记小说，以极其诗意和温柔的方式讲述了悉达多从王子到觉悟者的旅程。书名来自佛陀走过的古老道路和他脚下的白云——象征着足迹虽在，但人已离去，留下的只是空性的示现。

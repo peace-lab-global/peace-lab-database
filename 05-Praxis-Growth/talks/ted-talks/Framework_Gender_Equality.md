@@ -1,3 +1,31 @@
+---
+
+title: "性别平等 | Gender Equality"
+description: "性别平等 | Gender Equality的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性别平等 | Gender Equality"
+  - "性别平等 | Gender Equality的核心概念"
+  - "性别平等 | Gender Equality的方法与实践"
+trigger_keywords: ["性别平等", "addiction", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "attachment/communication/death"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
+    relation: "attachment/communication/death"
+  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+    relation: "attachment/communication/death"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/Gender_Discrimination_Overview.md"
+    relation: "attachment/communication/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/play-it-as-it-lays.md"
+    relation: "attachment/communication/death"
+
+---
 # 性别平等 | Gender Equality
 
 > **性别平等**（Gender Equality）是基本人权和社会正义的核心议题，涵盖经济平等、政治参与、教育权利和身体自主等维度。TED平台上关于性别平等的演讲来自全球各地的倡导者，挑战了根深蒂固的性别偏见，推动了关于权力、身份和正义的深层社会对话。

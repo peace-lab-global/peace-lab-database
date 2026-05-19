@@ -1,3 +1,31 @@
+---
+
+title: "Marriage Cultural & Spiritual Perspectives (婚姻的文化与灵性视角)"
+description: "Marriage Cultural & Spiritual Perspectives (婚姻的文化与灵性视角)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["attachment", "daoism", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Marriage Cultural & Spiritual Perspectives"
+  - "Marriage Cultural & Spiritual Perspectives的核心概念"
+  - "Marriage Cultural & Spiritual Perspectives的方法与实践"
+trigger_keywords: ["assessment", "attachment", "behavioral", "buddhism"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "attachment/buddhism/communication"
+  - path: "05-Praxis-Growth/personal-development/minimalism/INDEX.md"
+    relation: "attachment/buddhism/communication"
+  - path: "README.md"
+    relation: "attachment/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "buddhism/communication/daoism"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "attachment/communication/daoism"
+
+---
 # Marriage Cultural & Spiritual Perspectives (婚姻的文化与灵性视角)
 
 ## 东西方婚姻观比较表

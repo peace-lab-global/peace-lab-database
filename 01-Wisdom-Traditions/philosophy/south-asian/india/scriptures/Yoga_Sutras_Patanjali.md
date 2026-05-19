@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽经（Yoga Sūtra）"
+description: "瑜伽经（Yoga Sūtra）的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
+tags: ["meditation", "philosophy", "sleep", "yoga", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是瑜伽经（Yoga Sūtra）"
+  - "瑜伽经（Yoga Sūtra）的核心概念"
+  - "瑜伽经（Yoga Sūtra）的方法与实践"
+trigger_keywords: ["breathwork", "cognitive", "meditation", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "meditation/sexuality/sleep"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "meditation/sexuality/sleep"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+    relation: "meditation/sexuality/sleep"
+  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+    relation: "meditation/sexuality/sleep"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "meditation/sexuality/sleep"
+
+---
 # 瑜伽经（Yoga Sūtra）
 
 ## 基本信息

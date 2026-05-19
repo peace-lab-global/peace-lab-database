@@ -1,3 +1,31 @@
+---
+
+title: "商鞅 (Shang Yang)"
+description: "商鞅 (Shang Yang)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["healing", "philosophy", "positive-psychology", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是商鞅"
+  - "商鞅的核心概念"
+  - "商鞅的方法与实践"
+trigger_keywords: ["商鞅", "behavioral", "developmental", "healing", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality"
+
+---
 # 商鞅 (Shang Yang)
 
 ## 核心思想 (Core Ideas)

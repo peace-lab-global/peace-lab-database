@@ -1,3 +1,31 @@
+---
+
+title: "《比利·芬格斯的来世》The Afterlife of Billy Fingers"
+description: "《比利·芬格斯的来世》The Afterlife of Billy Fingers的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["healing", "literature", "music", "pain", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《比利·芬格斯的来世》The Afterlife of Billy Fingers"
+  - "《比利·芬格斯的来世》The Afterlife of Billy Fingers的核心概念"
+  - "《比利·芬格斯的来世》The Afterlife of Billy Fingers的方法与实践"
+trigger_keywords: ["《比利", "body", "death", "healing", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《比利·芬格斯的来世》The Afterlife of Billy Fingers
 
 **作者：** 安妮·卡瑟曼 (Annie Kagan)  

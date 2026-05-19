@@ -1,3 +1,31 @@
+---
+
+title: "《阴符经》Yinfujing"
+description: "《阴符经》Yinfujing的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "decision-making", "ocd", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《阴符经》Yinfujing"
+  - "《阴符经》Yinfujing的核心概念"
+  - "《阴符经》Yinfujing的方法与实践"
+trigger_keywords: ["behavioral", "daoism", "decision-making", "ocd"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/daoism"
+
+---
 # 《阴符经》Yinfujing
 
 > 全称《黄帝阴符经》，旧题黄帝撰，实际成书年代众说纷纭，学界多认为是战国至南北朝时期的作品，作者不详。全文仅300余字，分三篇（或作一篇），是道教最重要的经典之一，也是中国古代最神秘、最富哲理性的短章之一。"阴符"二字意为"暗合"——暗中符合天道。书名暗示：此经所言，是人与天道暗合的奥秘。

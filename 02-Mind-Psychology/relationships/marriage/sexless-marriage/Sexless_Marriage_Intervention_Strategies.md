@@ -1,3 +1,31 @@
+---
+
+title: "无性婚姻干预策略专业内容体系"
+description: "无性婚姻干预策略专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Sexless Marriage"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是无性婚姻干预策略专业内容体系"
+  - "无性婚姻干预策略专业内容体系的核心概念"
+  - "无性婚姻干预策略专业内容体系的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 无性婚姻干预策略专业内容体系
 
 ## 目录

@@ -1,3 +1,32 @@
+---
+
+title: "恐怖电影心理影响分析专业内容体系"
+description: "恐怖电影心理影响分析专业内容体系的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Horror Movie Psychology"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是恐怖电影心理影响分析专业内容体系"
+  - "恐怖电影心理影响分析专业内容体系的核心概念"
+  - "恐怖电影心理影响分析专业内容体系的方法与实践"
+  - "恐怖电影心理影响分析专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md"
+    relation: "anxiety/emotion/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Digital_Technology_Applications.md"
+    relation: "anxiety/emotion/productivity"
+
+---
 # 恐怖电影心理影响分析专业内容体系
 
 ## 目录

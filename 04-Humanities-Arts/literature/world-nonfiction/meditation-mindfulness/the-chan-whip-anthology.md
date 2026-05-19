@@ -1,3 +1,31 @@
+---
+
+title: "《禅门锻炼说》The Chan Whip Anthology"
+description: "《禅门锻炼说》The Chan Whip Anthology的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits", "ocd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《禅门锻炼说》The Chan Whip Anthology"
+  - "《禅门锻炼说》The Chan Whip Anthology的核心概念"
+  - "《禅门锻炼说》The Chan Whip Anthology的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "crisis", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # 《禅门锻炼说》The Chan Whip Anthology
 
 > 这是一部古代禅宗公案集，中文原名为《禅关策进》或相关禅宗语录汇编，由历代禅师编纂整理而成。书中收录了自唐宋以来禅宗大德的开示、公案、偈颂和修行指南，核心内容是"以毒攻毒"的峻烈教法——用极端的言语和行为来打破学人的执着。《禅门锻炼说》这一书名体现了禅宗"锻炼"学人的精神：如同铁匠锻铁，须经千锤百炼方能成器。本书是研究中国禅宗实修传统不可多得的原始资料。

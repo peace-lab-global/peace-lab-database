@@ -1,3 +1,31 @@
+---
+
+title: "《致俄耳甫斯的十四行诗》Sonnets to Orpheus"
+description: "《致俄耳甫斯的十四行诗》Sonnets to Orpheus的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["music", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《致俄耳甫斯的十四行诗》Sonnets to Orpheus"
+  - "《致俄耳甫斯的十四行诗》Sonnets to Orpheus的核心概念"
+  - "《致俄耳甫斯的十四行诗》Sonnets to Orpheus的方法与实践"
+trigger_keywords: ["art", "death", "music", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death"
+
+---
 # 《致俄耳甫斯的十四行诗》Sonnets to Orpheus
 
 > 赖内·马利亚·里尔克（Rainer Maria Rilke）著，1922年出版（与《杜伊诺哀歌》同年完成）。里尔克在"诗歌爆发"的同一时期写下了这55首十四行诗，以希腊神话中的诗人俄耳甫斯为主题。与 elegies 的沉重不同，这些 sonnets 更加轻盈、更加音乐化——它们是对诗歌本身的赞美，也是对死亡的超越。

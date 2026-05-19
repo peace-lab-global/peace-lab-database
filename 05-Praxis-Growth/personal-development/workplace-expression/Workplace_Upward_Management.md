@@ -1,3 +1,31 @@
+---
+
+title: "向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)"
+description: "向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "decision-making", "leadership"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是向上管理与情绪化上级应对"
+  - "向上管理与情绪化上级应对的核心概念"
+  - "向上管理与情绪化上级应对的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
+    relation: "communication/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/emotion/productivity"
+
+---
 # 向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)
 
 > **学科定位**：职场沟通学 × 组织行为学 × 冲突管理 × 职业风险管理

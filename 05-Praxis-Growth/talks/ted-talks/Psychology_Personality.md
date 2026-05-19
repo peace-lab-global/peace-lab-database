@@ -1,3 +1,32 @@
+---
+
+title: "人格心理学 | Personality Psychology"
+description: "人格心理学 | Personality Psychology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["personality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人格心理学 | Personality Psychology"
+  - "人格心理学 | Personality Psychology的核心概念"
+  - "人格心理学 | Personality Psychology的方法与实践"
+  - "人格心理学 | Personality Psychology的自助方法"
+trigger_keywords: ["人格心理学", "act", "behavioral", "brain", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 人格心理学 | Personality Psychology
 
 > **人格心理学**（Personality Psychology）研究个体在思维、情感和行为上的稳定差异——是什么使每个人独一无二，又是什么让人保持一致。从"五大人格"（Big Five）到内向与外向的维度，从心理韧性（Resilience）到成长型思维（Growth Mindset），人格心理学帮助我们理解自我和他人。本文件精选TED平台上关于人格心理学的代表性演讲，揭示人格的科学本质与改变的可能性。

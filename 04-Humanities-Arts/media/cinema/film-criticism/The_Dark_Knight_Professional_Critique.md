@@ -1,3 +1,31 @@
+---
+
+title: "《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境"
+description: "《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境"
+  - "《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境的核心概念"
+  - "《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/sexuality"
+
+---
 # 《黑暗骑士》专业影评：超级英雄电影的哲学思辨与道德困境
 
 ## 摘要 (Abstract)

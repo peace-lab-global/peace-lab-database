@@ -1,3 +1,19 @@
+---
+title: "samkhya | Index"
+description: "samkhya | Index的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Samkhya"
+tags: ["philosophy", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是samkhya | Index"
+  - "samkhya | Index的核心概念"
+  - "samkhya | Index的方法与实践"
+trigger_keywords: ["samkhya", "Index", "philosophy", "哲学"]
+cross_refs: []
+---
 # samkhya | Index
 
 ## 经典原典 | Scriptures

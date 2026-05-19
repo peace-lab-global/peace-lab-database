@@ -1,3 +1,31 @@
+---
+
+title: "《跳舞的物理大师》The Dancing Wu Li Masters"
+description: "《跳舞的物理大师》The Dancing Wu Li Masters的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["literature", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《跳舞的物理大师》The Dancing Wu Li Masters"
+  - "《跳舞的物理大师》The Dancing Wu Li Masters的核心概念"
+  - "《跳舞的物理大师》The Dancing Wu Li Masters的方法与实践"
+trigger_keywords: ["act", "behavioral", "buddhism", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "buddhism/sexuality/therapy"
+
+---
 # 《跳舞的物理大师》The Dancing Wu Li Masters
 
 **作者：** 加里·祖卡夫 (Gary Zukav)  

@@ -1,3 +1,31 @@
+---
+
+title: "《真爱》True Love"
+description: "《真爱》True Love的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["cinema", "habits", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《真爱》True Love"
+  - "《真爱》True Love的核心概念"
+  - "《真爱》True Love的方法与实践"
+trigger_keywords: ["anxiety", "art", "behavioral", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/attachment"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 《真爱》True Love
 
 > 一行禅师（Thich Nhat Hanh）著，1997年出版。这是他在亲密关系和爱的主题上最集中、最深入的著作。与流行文化中将"爱"浪漫化、理想化甚至商品化的倾向不同，一行禅师从佛教"四无量心"（慈悲喜舍）的框架出发，重新定义了"真爱"的本质。他认为，真爱不是一种感觉、一种激情或一种占有欲，而是一种**能力、一种修行、一种存在的方式**。这本书以简洁优美的语言，为所有渴望在关系中成长和觉醒的人提供了一条清晰的道路。

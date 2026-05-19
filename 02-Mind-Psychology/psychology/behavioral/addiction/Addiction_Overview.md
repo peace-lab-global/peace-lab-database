@@ -1,3 +1,31 @@
+---
+
+title: "成瘾概览 (Addiction Overview)"
+description: "成瘾概览 (Addiction Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
+tags: ["addiction", "anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是成瘾概览"
+  - "成瘾概览的核心概念"
+  - "成瘾概览的方法与实践"
+trigger_keywords: ["成瘾概览", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/attachment/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "anxiety/attachment/neuroscience"
+
+---
 # 成瘾概览 (Addiction Overview)
 
 **重要更新**：新增[咖啡因成瘾与咖啡使用障碍](Addiction_Caffeine_Coffee.md)专业文档，包含完整的诊断标准、评估工具和治疗方案。

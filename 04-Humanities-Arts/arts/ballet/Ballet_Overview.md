@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞概览 (Ballet Overview)"
+description: "芭蕾舞概览 (Ballet Overview)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是芭蕾舞概览"
+  - "芭蕾舞概览的核心概念"
+  - "芭蕾舞概览的方法与实践"
+trigger_keywords: ["芭蕾舞概览", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 芭蕾舞概览 (Ballet Overview)
 
 > **芭蕾舞 (Ballet)**

@@ -1,3 +1,31 @@
+---
+
+title: "书法疗愈临床应用 | Calligraphy Clinical Applications"
+description: "书法疗愈临床应用 | Calligraphy Clinical Applications的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
+tags: ["act-therapy", "calligraphy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是书法疗愈临床应用 | Calligraphy Clinical Applications"
+  - "书法疗愈临床应用 | Calligraphy Clinical Applications的核心概念"
+  - "书法疗愈临床应用 | Calligraphy Clinical Applications的方法与实践"
+trigger_keywords: ["书法疗愈临床应用", "act", "act-therapy", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 书法疗愈临床应用 | Calligraphy Clinical Applications
 
 > **文档定位**: 书法疗愈在各类临床情境中的系统化应用方案与效果评估

@@ -1,3 +1,31 @@
+---
+
+title: "《菜根谭》Vegetable Root Discourse"
+description: "《菜根谭》Vegetable Root Discourse的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《菜根谭》Vegetable Root Discourse"
+  - "《菜根谭》Vegetable Root Discourse的核心概念"
+  - "《菜根谭》Vegetable Root Discourse的方法与实践"
+trigger_keywords: ["buddhism", "daoism", "death", "philosophy"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/daoism"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "anxiety/buddhism/daoism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《菜根谭》Vegetable Root Discourse
 
 > 洪应明著，约明朝万历年间（16世纪末）。中国处世修身的格言集，融合了儒、释、道三家的智慧，以简洁优美的文言写成。书名"菜根谭"意为"在粗茶淡饭中咀嚼出的真理"——最深刻的智慧不在高堂庙宇，而在日常生活的根部。

@@ -1,3 +1,31 @@
+---
+
+title: "Hatred Theoretical Framework (仇恨的理论模型与神经科学基础)"
+description: "Hatred Theoretical Framework (仇恨的理论模型与神经科学基础)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
+tags: ["anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Hatred Theoretical Framework"
+  - "Hatred Theoretical Framework的核心概念"
+  - "Hatred Theoretical Framework的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/biology/aging-longevity/INDEX.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
+    relation: "aging/anxiety/death"
+  - path: "03-Bio-Science/death/Death_Anxiety_Overview.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Hatred Theoretical Framework (仇恨的理论模型与神经科学基础)
 
 > **仇恨理论框架 (Theoretical Framework of Hatred / Theoria Odii)**

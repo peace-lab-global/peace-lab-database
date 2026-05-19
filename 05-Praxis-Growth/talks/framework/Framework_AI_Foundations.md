@@ -1,3 +1,31 @@
+---
+
+title: "人工智能基础 | AI Foundations"
+description: "人工智能基础 | AI Foundations的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making", "flow"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人工智能基础 | AI Foundations"
+  - "人工智能基础 | AI Foundations的核心概念"
+  - "人工智能基础 | AI Foundations的方法与实践"
+trigger_keywords: ["人工智能基础", "act", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "exercise/neuroscience/productivity"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+    relation: "exercise/neuroscience/productivity"
+
+---
 # 人工智能基础 | AI Foundations
 
 > 人工智能（Artificial Intelligence）是计算机科学的一个重要分支，致力于研究和开发能够模拟、延伸和扩展人类智能的理论、方法与技术。从艾伦·图灵（Alan Turing）提出"机器能思考吗？"这一根本性问题，到大语言模型（LLM）展现出的涌现能力（Emergent Abilities），人工智能经历了数十年的理论积累与技术突破，如今已深刻渗透到医疗、教育、商业、科研等人类社会的各个层面，成为推动第四次工业革命的核心引擎。

@@ -1,3 +1,31 @@
+---
+
+title: "系列二：呼吸冥想系列 | Breath Meditation Series"
+description: "系列二：呼吸冥想系列 | Breath Meditation Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "meditation", "adhd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列二：呼吸冥想系列 | Breath Meditation Series"
+  - "系列二：呼吸冥想系列 | Breath Meditation Series的核心概念"
+  - "系列二：呼吸冥想系列 | Breath Meditation Series的方法与实践"
+trigger_keywords: ["系列二：呼吸冥想系列", "anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 系列二：呼吸冥想系列 | Breath Meditation Series
 
 > **级别**：Level 2（初级-中级过渡）

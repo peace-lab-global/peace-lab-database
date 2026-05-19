@@ -1,3 +1,31 @@
+---
+
+title: "《玛斯纳维》The Masnavi"
+description: "《玛斯纳维》The Masnavi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature", "religion", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《玛斯纳维》The Masnavi"
+  - "《玛斯纳维》The Masnavi的核心概念"
+  - "《玛斯纳维》The Masnavi的方法与实践"
+trigger_keywords: ["death", "literature", "meditation", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/meditation"
+  - path: "README.md"
+    relation: "art_therapy/death/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/meditation/sexuality"
+
+---
 # 《玛斯纳维》The Masnavi
 
 > 鲁米（Jalāl al-Dīn Rūmī）著，13世纪。鲁米的史诗巨著，被称为"波斯语的《古兰经》"，由约25000行诗组成，分为六卷。内容涵盖苏菲神秘主义的所有主题——爱、神、灵魂、死亡、转化。鲁米在诗中讲述故事、寓言、对话，以极其丰富和多样的方式指向同一个真理：**神就是爱，爱就是神。**

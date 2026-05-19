@@ -1,3 +1,31 @@
+---
+
+title: "系列七：特殊应用系列 | Specialized Application Series"
+description: "系列七：特殊应用系列 | Specialized Application Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "cbt", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列七：特殊应用系列 | Specialized Application Series"
+  - "系列七：特殊应用系列 | Specialized Application Series的核心概念"
+  - "系列七：特殊应用系列 | Specialized Application Series的方法与实践"
+trigger_keywords: ["系列七：特殊应用系列", "anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-relaxation-response.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Willpower_Instinct.md"
+    relation: "anxiety/meditation/neuroscience"
+  - path: "README.md"
+    relation: "anxiety/meditation/neuroscience"
+
+---
 # 系列七：特殊应用系列 | Specialized Application Series
 
 > **级别**：Level 5（应用整合）

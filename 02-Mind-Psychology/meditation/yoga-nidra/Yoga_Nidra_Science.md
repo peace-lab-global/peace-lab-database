@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽尼德拉的科学机制 | Yoga Nidra Science"
+description: "瑜伽尼德拉的科学机制 | Yoga Nidra Science的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Nidra"
+tags: ["anxiety", "brain", "cardiovascular", "cortisol"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽尼德拉的科学机制 | Yoga Nidra Science"
+  - "瑜伽尼德拉的科学机制 | Yoga Nidra Science的核心概念"
+  - "瑜伽尼德拉的科学机制 | Yoga Nidra Science的方法与实践"
+trigger_keywords: ["瑜伽尼德拉的科学机制", "anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "anxiety/emotion/immune"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 瑜伽尼德拉的科学机制 | Yoga Nidra Science
 
 > **文档类型**: 科学机制综述 | Science Review

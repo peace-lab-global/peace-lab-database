@@ -1,3 +1,32 @@
+---
+
+title: "拜金女心理特征分析专业内容体系"
+description: "拜金女心理特征分析专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Materialism Psychology"
+tags: ["anxiety", "attachment", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是拜金女心理特征分析专业内容体系"
+  - "拜金女心理特征分析专业内容体系的核心概念"
+  - "拜金女心理特征分析专业内容体系的方法与实践"
+  - "拜金女心理特征分析专业内容体系的自助方法"
+trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 拜金女心理特征分析专业内容体系
 
 ## 目录

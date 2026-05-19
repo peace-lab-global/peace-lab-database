@@ -1,3 +1,31 @@
+---
+
+title: "Stewardess Fetishism (恋空姐癖专业指南)"
+description: "Stewardess Fetishism (恋空姐癖专业指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stewardess Fetishism"
+  - "Stewardess Fetishism的核心概念"
+  - "Stewardess Fetishism的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "attachment/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/sexuality/therapy"
+
+---
 # Stewardess Fetishism (恋空姐癖专业指南)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋空姐癖的专业内容。相关主题请参考：

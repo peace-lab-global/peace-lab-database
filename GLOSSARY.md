@@ -1,3 +1,31 @@
+---
+
+title: "全局术语表 (Global Glossary)"
+description: "全局术语表 (Global Glossary)的详细解析与实践指南"
+category: "general"
+tags: ["attachment", "cortisol", "daoism", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是全局术语表"
+  - "全局术语表的核心概念"
+  - "全局术语表的方法与实践"
+trigger_keywords: ["全局术语表", "attachment", "behavioral", "brain", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "attachment/buddhism/daoism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/buddhism/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "buddhism/depression/emotion"
+
+---
 # 全局术语表 (Global Glossary)
 
 > 统一项目全域的核心术语中英文映射与定义。首次使用术语时，请标注中英文：`正念认知疗法 (MBCT)`。

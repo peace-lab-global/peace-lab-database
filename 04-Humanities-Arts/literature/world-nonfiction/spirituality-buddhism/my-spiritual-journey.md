@@ -1,3 +1,31 @@
+---
+
+title: "《我的灵修之旅》My Spiritual Journey"
+description: "《我的灵修之旅》My Spiritual Journey的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["leadership", "spirituality", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我的灵修之旅》My Spiritual Journey"
+  - "《我的灵修之旅》My Spiritual Journey的核心概念"
+  - "《我的灵修之旅》My Spiritual Journey的方法与实践"
+trigger_keywords: ["death", "leadership", "meditation", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 《我的灵修之旅》My Spiritual Journey
 
 >  达赖喇嘛（Dalai Lama）著，2009年出版。达赖喇嘛的个人回忆录，从他在西藏的童年到1959年的流亡，从与各国领导人的会见到与普通人的对话。这不是一部政治回忆录，而是一部灵性回忆录——关于一个人如何在失去一切后仍然保持内心的平静。

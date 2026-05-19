@@ -1,3 +1,31 @@
+---
+
+title: "吠檀多哲学总览 | Vedanta Philosophy Overview"
+description: "吠檀多哲学总览 | Vedanta Philosophy Overview的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
+tags: ["buddhism", "cbt", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是吠檀多哲学总览 | Vedanta Philosophy Overview"
+  - "吠檀多哲学总览 | Vedanta Philosophy Overview的核心概念"
+  - "吠檀多哲学总览 | Vedanta Philosophy Overview的方法与实践"
+trigger_keywords: ["吠檀多哲学总览", "act", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/mythology-archetype/mysterium-coniunctionis.md"
+    relation: "buddhism/death/sexuality"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 吠檀多哲学总览 | Vedanta Philosophy Overview
 
 > **学科定位**: 印度六派正统哲学（Shad Darshana） × 灵性形而上学 × 意识哲学

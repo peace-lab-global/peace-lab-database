@@ -1,3 +1,31 @@
+---
+
+title: "《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析"
+description: "《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析"
+  - "《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析的核心概念"
+  - "《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "README.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # 《教父》全系列专业影评：美国资本主义家族企业的权力政治学分析
 
 ## 摘要 (Abstract)

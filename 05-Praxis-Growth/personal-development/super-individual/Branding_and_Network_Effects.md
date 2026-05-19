@@ -1,3 +1,31 @@
+---
+
+title: "个人品牌与网络效应 | Personal Branding & Network Effects"
+description: "个人品牌与网络效应 | Personal Branding & Network Effects的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 超级个体"
+tags: ["communication", "social", "个人发展", "超级个体"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是个人品牌与网络效应 | Personal Branding & Network Effects"
+  - "个人品牌与网络效应 | Personal Branding & Network Effects的核心概念"
+  - "个人品牌与网络效应 | Personal Branding & Network Effects的方法与实践"
+trigger_keywords: ["个人品牌与网络效应", "cognitive", "communication", "sexuality", "social"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "communication/sexuality"
+
+---
 # 个人品牌与网络效应 | Personal Branding & Network Effects
 
 > 在一个信息爆炸的时代，**注意力就是货币，信任就是杠杆**。超级个体的核心资产不是存款，而是个人品牌的信誉价值。

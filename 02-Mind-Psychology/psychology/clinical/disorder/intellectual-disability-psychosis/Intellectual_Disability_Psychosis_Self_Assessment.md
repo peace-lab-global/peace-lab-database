@@ -1,3 +1,31 @@
+---
+
+title: "Intellectual Disability with Psychosis Self-Assessment (精神发育迟滞伴发精神障碍评估与筛查指南)"
+description: "Intellectual Disability with Psychosis Self-Assessment (精神发育迟滞伴发精神障碍评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Intellectual Disability Psychosis"
+tags: ["depression", "intervention"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Intellectual Disability with Psychosis Self-Assessment"
+  - "Intellectual Disability with Psychosis Self-Assessment的核心概念"
+  - "Intellectual Disability with Psychosis Self-Assessment的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "clinical", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
+    relation: "communication/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
+    relation: "communication/depression/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "communication/depression/emotion"
+
+---
 # Intellectual Disability with Psychosis Self-Assessment (精神发育迟滞伴发精神障碍评估与筛查指南)
 
 > **精神发育迟滞伴发精神障碍评估与筛查 (ID+Psychosis Assessment & Screening)**

@@ -1,3 +1,31 @@
+---
+
+title: "《禅者的初心》Zen Mind, Beginner's Mind"
+description: "《禅者的初心》Zen Mind, Beginner's Mind的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《禅者的初心》Zen Mind, Beginner's Mind"
+  - "《禅者的初心》Zen Mind, Beginner's Mind的核心概念"
+  - "《禅者的初心》Zen Mind, Beginner's Mind的方法与实践"
+trigger_keywords: ["brain", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/death/exercise"
+
+---
 # 《禅者的初心》Zen Mind, Beginner's Mind
 
 > 铃木俊隆（Shunryu Suzuki）著，1970年出版。日本曹洞宗禅师，1959年赴美弘法，在旧金山建立了西方最早的禅宗修行中心之一。这本书由他的美国学生根据讲座整理而成，是西方禅宗运动最具影响力的经典。

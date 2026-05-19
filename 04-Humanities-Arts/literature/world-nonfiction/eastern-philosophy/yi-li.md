@@ -1,3 +1,31 @@
+---
+
+title: "《仪礼》Yi-li / Book of Etiquette and Ceremonial"
+description: "《仪礼》Yi-li / Book of Etiquette and Ceremonial的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《仪礼》Yi-li / Book of Etiquette and Ceremonial"
+  - "《仪礼》Yi-li / Book of Etiquette and Ceremonial的核心概念"
+  - "《仪礼》Yi-li / Book of Etiquette and Ceremonial的方法与实践"
+trigger_keywords: ["《仪礼》Yi-li", "anxiety", "behavioral", "death", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《仪礼》Yi-li / Book of Etiquette and Ceremonial
 
 > 传统归于周公，约公元前3世纪至公元前2世纪形成。儒家经典"三礼"之一，详细记录了古代中国的各种礼仪——冠礼（成年礼）、婚礼、丧礼、祭礼、朝礼、聘礼等。虽然内容极为繁琐，但它展示了**礼仪作为"社会软件"的功能**——通过规范行为来塑造人格、维护秩序、连接生死。

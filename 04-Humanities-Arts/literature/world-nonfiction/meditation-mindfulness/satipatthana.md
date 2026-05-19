@@ -1,3 +1,31 @@
+---
+
+title: "《四念处》Satipatthana"
+description: "《四念处》Satipatthana的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits", "mindfulness", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《四念处》Satipatthana"
+  - "《四念处》Satipatthana的核心概念"
+  - "《四念处》Satipatthana的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "habits"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 《四念处》Satipatthana
 
 > 英比丘（Bhikkhu Anālayo）著，2003年出版。德国出生的佛教僧侣、学者，在斯里兰卡出家，现任汉堡大学佛教研究中心教授。他以对巴利经典的深入研究和禅修实践的结合而闻名，是当代佛教学术界最受尊敬的学者之一。《四念处》是对佛陀最核心教导——《念处经》（Satipatthāna Sutta）——的最详尽学术注释与实修指南。Anālayo 的独特之处在于，他既有严格的古典语言学训练，又有长期的密集禅修经验，能够将学术精确性与实修相关性完美融合。

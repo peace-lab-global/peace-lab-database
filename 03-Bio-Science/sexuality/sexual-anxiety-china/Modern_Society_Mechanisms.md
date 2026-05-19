@@ -1,3 +1,32 @@
+---
+
+title: "现代社会性焦虑机制分析"
+description: "现代社会性焦虑机制分析的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
+tags: ["addiction", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是现代社会性焦虑机制分析"
+  - "现代社会性焦虑机制分析的核心概念"
+  - "现代社会性焦虑机制分析的方法与实践"
+  - "现代社会性焦虑机制分析的自助方法"
+trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 现代社会性焦虑机制分析
 
 ## 家庭系统机制

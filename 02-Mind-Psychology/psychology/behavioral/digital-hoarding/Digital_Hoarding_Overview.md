@@ -1,3 +1,31 @@
+---
+
+title: "数字囤积癖概览 (Digital Hoarding Overview)"
+description: "数字囤积癖概览 (Digital Hoarding Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
+tags: ["addiction", "anxiety", "brain", "cbt", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字囤积癖概览"
+  - "数字囤积癖概览的核心概念"
+  - "数字囤积癖概览的方法与实践"
+trigger_keywords: ["数字囤积癖概览", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 数字囤积癖概览 (Digital Hoarding Overview)
 
 ## 1. 核心定义与术语 (Core Definition & Terminology)

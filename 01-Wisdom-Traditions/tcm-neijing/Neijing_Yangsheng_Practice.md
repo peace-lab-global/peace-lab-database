@@ -1,3 +1,31 @@
+---
+
+title: "内经养生实践指南"
+description: "内经养生实践指南的详细解析与实践指南"
+category: "智慧传承 > 中医内经"
+tags: []
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是内经养生实践指南"
+  - "内经养生实践指南的核心概念"
+  - "内经养生实践指南的方法与实践"
+trigger_keywords: ["内经养生实践指南", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/daoism/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+    relation: "aging/anxiety/daoism"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
+    relation: "aging/anxiety/daoism"
+
+---
 # 内经养生实践指南
 ## Neijing Health Preservation Practice Guide
 

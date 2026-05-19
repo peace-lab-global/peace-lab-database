@@ -1,3 +1,31 @@
+---
+
+title: "经验主义哲学 · 佛法视角三方书评"
+description: "经验主义哲学 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Empiricism"
+tags: ["buddhism", "habits", "philosophy", "vipassana"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是经验主义哲学 · 佛法视角三方书评"
+  - "经验主义哲学 · 佛法视角三方书评的核心概念"
+  - "经验主义哲学 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["经验主义哲学", "佛法视角三方书评", "brain", "buddhism", "developmental", "habits"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C6-1-冥想与止观-第九讲-练习观照的方式.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 经验主义哲学 · 佛法视角三方书评
 
 ---

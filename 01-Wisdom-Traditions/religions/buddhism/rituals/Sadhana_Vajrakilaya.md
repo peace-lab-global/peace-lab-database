@@ -1,3 +1,31 @@
+---
+
+title: "普巴金刚/金刚橛完整修持仪轨 (Vajrakilaya / Dorje Phurba Sadhana)"
+description: "普巴金刚/金刚橛完整修持仪轨 (Vajrakilaya / Dorje Phurba Sadhana)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "yoga", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是普巴金刚/金刚橛完整修持仪轨"
+  - "普巴金刚/金刚橛完整修持仪轨的核心概念"
+  - "普巴金刚/金刚橛完整修持仪轨的方法与实践"
+trigger_keywords: ["普巴金刚", "金刚橛完整修持仪轨", "buddhism", "sexuality", "yoga", "佛教"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 普巴金刚/金刚橛完整修持仪轨 (Vajrakilaya / Dorje Phurba Sadhana)
 
 > **普巴金刚 (Vajrakilaya / Dorje Phurba / Pubajingang)**：藏传佛教宁玛派极为重要的忿怒本尊，身持金刚橛（三棱杵），象征钉住一切烦恼与障碍。为莲花生大士主要修法之一，具强大降伏力量，能破除一切邪术、诅咒与魔障。

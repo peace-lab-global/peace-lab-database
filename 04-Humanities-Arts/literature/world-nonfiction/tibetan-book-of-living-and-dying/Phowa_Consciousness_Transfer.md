@@ -1,3 +1,31 @@
+---
+
+title: "颇瓦法：意识迁移的修行"
+description: "颇瓦法：意识迁移的修行的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
+tags: ["dzogchen", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是颇瓦法：意识迁移的修行"
+  - "颇瓦法：意识迁移的修行的核心概念"
+  - "颇瓦法：意识迁移的修行的方法与实践"
+trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
+    relation: "buddhism/death/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/death/emotion"
+
+---
 # 颇瓦法：意识迁移的修行
 
 ## 一、颇瓦法的基本概念

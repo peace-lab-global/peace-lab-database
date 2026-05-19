@@ -1,3 +1,31 @@
+---
+
+title: "宋词专业内容体系：中国古典词学的巅峰成就"
+description: "宋词专业内容体系：中国古典词学的巅峰成就的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Song Lyrics"
+tags: ["literature", "music", "nutrition"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是宋词专业内容体系：中国古典词学的巅峰成就"
+  - "宋词专业内容体系：中国古典词学的巅峰成就的核心概念"
+  - "宋词专业内容体系：中国古典词学的巅峰成就的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "literature"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "buddhism/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "buddhism/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
+    relation: "buddhism/emotion/nutrition"
+
+---
 # 宋词专业内容体系：中国古典词学的巅峰成就
 
 ## 概述 (Overview)

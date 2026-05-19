@@ -1,3 +1,31 @@
+---
+
+title: "乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)"
+description: "乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Incest"
+tags: ["attachment", "cbt", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是乱伦研究专业术语词典"
+  - "乱伦研究专业术语词典的核心概念"
+  - "乱伦研究专业术语词典的方法与实践"
+trigger_keywords: ["乱伦研究专业术语词典", "act", "adolescent", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)
 
 > 📘 **术语标准化**: 本词典提供乱伦研究领域的标准化术语定义，确保学术交流的准确性和一致性。所有术语均基于国际权威文献和临床实践标准制定。

@@ -1,3 +1,31 @@
+---
+
+title: "清醒梦 | Lucid Dreaming"
+description: "清醒梦 | Lucid Dreaming的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Dream Psychology"
+tags: ["brain", "grief", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是清醒梦 | Lucid Dreaming"
+  - "清醒梦 | Lucid Dreaming的核心概念"
+  - "清醒梦 | Lucid Dreaming的方法与实践"
+trigger_keywords: ["清醒梦", "act", "brain", "breathwork", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/depression/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/death/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/death/depression"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/depression/exercise"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Survival_Philosophy.md"
+    relation: "buddhism/death/depression"
+
+---
 # 清醒梦 | Lucid Dreaming
 
 > **学科定位**: 意识研究 × 认知神经科学 × 冥想传统

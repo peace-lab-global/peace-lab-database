@@ -1,3 +1,31 @@
+---
+
+title: "jewish-meditation | 犹太教冥想 Index"
+description: "jewish-meditation | 犹太教冥想 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Jewish Meditation"
+tags: ["daoism", "meditation", "therapy", "trauma"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是jewish-meditation | 犹太教冥想 Index"
+  - "jewish-meditation | 犹太教冥想 Index的核心概念"
+  - "jewish-meditation | 犹太教冥想 Index的方法与实践"
+trigger_keywords: ["breathwork", "cognitive", "daoism", "exercise"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "daoism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "daoism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "exercise/meditation/therapy"
+  - path: "01-Wisdom-Traditions/tai-chi/INDEX.md"
+    relation: "daoism/exercise/meditation"
+
+---
 # jewish-meditation | 犹太教冥想 Index
 
 > **最后更新**：2026-05

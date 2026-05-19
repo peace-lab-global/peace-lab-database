@@ -1,3 +1,31 @@
+---
+
+title: "世界文学巨匠疗愈应用指南"
+description: "世界文学巨匠疗愈应用指南的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > 疗法"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是世界文学巨匠疗愈应用指南"
+  - "世界文学巨匠疗愈应用指南的核心概念"
+  - "世界文学巨匠疗愈应用指南的方法与实践"
+trigger_keywords: ["adolescent", "aging", "art", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/emotion"
+
+---
 # 世界文学巨匠疗愈应用指南
 
 ## 概述 (Overview)

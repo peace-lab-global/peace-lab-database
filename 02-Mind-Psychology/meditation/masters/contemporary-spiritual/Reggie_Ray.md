@@ -1,3 +1,31 @@
+---
+
+title: "瑞吉·雷 (Reginald A. Ray / Reggie Ray)"
+description: "瑞吉·雷 (Reginald A. Ray / Reggie Ray)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
+tags: ["dzogchen", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑞吉·雷"
+  - "瑞吉·雷的核心概念"
+  - "瑞吉·雷的方法与实践"
+trigger_keywords: ["瑞吉", "act", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_History_Tradition.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 瑞吉·雷 (Reginald A. Ray / Reggie Ray)
 
 > "The body is not a vehicle for the spirit. The body is the spirit."

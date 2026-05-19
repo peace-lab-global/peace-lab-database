@@ -1,3 +1,31 @@
+---
+
+title: "Yoga Therapy (瑜伽理疗)"
+description: "Yoga Therapy (瑜伽理疗)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "yoga"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Yoga Therapy"
+  - "Yoga Therapy的核心概念"
+  - "Yoga Therapy的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+
+---
 # Yoga Therapy (瑜伽理疗)
 
 ## 核心术语表 (Core Terminology)

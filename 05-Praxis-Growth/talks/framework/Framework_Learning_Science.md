@@ -1,3 +1,31 @@
+---
+
+title: "学习科学 | Learning Science"
+description: "学习科学 | Learning Science的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是学习科学 | Learning Science"
+  - "学习科学 | Learning Science的核心概念"
+  - "学习科学 | Learning Science的方法与实践"
+trigger_keywords: ["学习科学", "anxiety", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-5-QA-posture-of-meditation.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # 学习科学 | Learning Science
 
 > 学习科学（Learning Sciences）是一门研究人类学习过程及其促进方法的跨学科研究领域，融合了认知科学、教育心理学、神经科学、计算机科学和人类学等多学科视角。学习科学致力于理解学习如何在个体、群体和组织层面发生，并基于实证证据设计更有效的学习环境、教学技术和教育政策。在知识经济和终身学习的时代背景下，学习科学已成为推动教育创新的核心驱动力。

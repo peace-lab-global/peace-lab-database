@@ -1,3 +1,31 @@
+---
+
+title: "Death Education Workshop Design (死亡教育工作坊设计指南)"
+description: "Death Education Workshop Design (死亡教育工作坊设计指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "cinema", "exercise", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Death Education Workshop Design"
+  - "Death Education Workshop Design的核心概念"
+  - "Death Education Workshop Design的方法与实践"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Death Education Workshop Design (死亡教育工作坊设计指南)
 
 > *"死亡教育的最高境界不是消除恐惧，而是让人在有限性的觉知中活出更真实、更完整的人生。"*

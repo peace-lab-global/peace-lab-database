@@ -1,3 +1,31 @@
+---
+
+title: "Specific Types Quality Assessment Report (性迷恋类型质量评估报告)"
+description: "Specific Types Quality Assessment Report (性迷恋类型质量评估报告)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["ballet", "intervention", "neuroscience", "sexuality"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Specific Types Quality Assessment Report"
+  - "Specific Types Quality Assessment Report的核心概念"
+  - "Specific Types Quality Assessment Report的方法与实践"
+trigger_keywords: ["assessment", "ballet", "clinical", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "communication/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "communication/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
+    relation: "communication/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "communication/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/sexuality"
+
+---
 # Specific Types Quality Assessment Report (性迷恋类型质量评估报告)
 
 > 📘 **文档导航**: 本报告对性迷恋类型专业内容体系进行全面质量评估和项目总结。相关主题请参考：

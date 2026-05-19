@@ -1,3 +1,32 @@
+---
+
+title: "情绪疗法概览 (Emotion Therapy Overview)"
+description: "情绪疗法概览 (Emotion Therapy Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["addiction", "anxiety", "attachment", "brain", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是情绪疗法概览"
+  - "情绪疗法概览的核心概念"
+  - "情绪疗法概览的方法与实践"
+  - "情绪疗法概览的循证证据"
+trigger_keywords: ["情绪疗法概览", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 情绪疗法概览 (Emotion Therapy Overview)
 
 > **情绪疗法 (Emotion Therapy / Affective Therapeutics)**

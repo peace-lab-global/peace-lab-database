@@ -1,3 +1,31 @@
+---
+
+title: "印度教冥想概述 | Hindu Meditation Overview"
+description: "印度教冥想概述 | Hindu Meditation Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Hindu Meditation"
+tags: ["anxiety", "brain", "depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是印度教冥想概述 | Hindu Meditation Overview"
+  - "印度教冥想概述 | Hindu Meditation Overview的核心概念"
+  - "印度教冥想概述 | Hindu Meditation Overview的方法与实践"
+trigger_keywords: ["印度教冥想概述", "act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 印度教冥想概述 | Hindu Meditation Overview
 
 > **适用对象**：对印度教灵修传统感兴趣的冥想练习者、印度哲学研究者、跨传统灵修探索者、心理健康从业者

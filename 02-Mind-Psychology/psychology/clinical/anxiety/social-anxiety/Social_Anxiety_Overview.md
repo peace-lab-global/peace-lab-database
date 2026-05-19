@@ -1,3 +1,31 @@
+---
+
+title: "Social Anxiety Disorder Overview (社交焦虑障碍概览)"
+description: "Social Anxiety Disorder Overview (社交焦虑障碍概览)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
+tags: ["anxiety", "brain", "cbt", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Social Anxiety Disorder Overview"
+  - "Social Anxiety Disorder Overview的核心概念"
+  - "Social Anxiety Disorder Overview的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/neuroscience/personality"
+
+---
 # Social Anxiety Disorder Overview (社交焦虑障碍概览)
 
 > **社交焦虑障碍 (Social Anxiety Disorder / Anxietas Socialis)**

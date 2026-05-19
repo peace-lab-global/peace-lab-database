@@ -1,3 +1,31 @@
+---
+
+title: "数论哲学经典 · 佛法视角三方书评"
+description: "数论哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Samkhya"
+tags: ["buddhism", "mindfulness", "philosophy", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是数论哲学经典 · 佛法视角三方书评"
+  - "数论哲学经典 · 佛法视角三方书评的核心概念"
+  - "数论哲学经典 · 佛法视角三方书评的方法与实践"
+trigger_keywords: ["数论哲学经典", "佛法视角三方书评", "behavioral", "body", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 数论哲学经典 · 佛法视角三方书评
 
 > **迦毗罗 (Kapila)** — 数论派(Sāṃkhya)创始人

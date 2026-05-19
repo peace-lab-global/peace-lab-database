@@ -1,3 +1,32 @@
+---
+
+title: "孤独与独处的心理药理学 | Psychopharmacology of Loneliness"
+description: "孤独与独处的心理药理学 | Psychopharmacology of Loneliness的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["addiction", "anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孤独与独处的心理药理学 | Psychopharmacology of Loneliness"
+  - "孤独与独处的心理药理学 | Psychopharmacology of Loneliness的核心概念"
+  - "孤独与独处的心理药理学 | Psychopharmacology of Loneliness的方法与实践"
+  - "孤独与独处的心理药理学 | Psychopharmacology of Loneliness的自助方法"
+trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/attachment/depression"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/immune"
+  - path: "03-Bio-Science/biology/immune-inflammation/Autoimmune_Psychology.md"
+    relation: "anxiety/depression/immune"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 孤独与独处的心理药理学 | Psychopharmacology of Loneliness
 
 > **核心定位**: 从神经化学与药物干预视角理解孤独的生物学治疗

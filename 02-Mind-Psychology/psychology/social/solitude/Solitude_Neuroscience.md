@@ -1,3 +1,31 @@
+---
+
+title: "独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)"
+description: "独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety", "brain", "cortisol", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是独处神经科学：大脑如何在独处中修复与生长"
+  - "独处神经科学：大脑如何在独处中修复与生长的核心概念"
+  - "独处神经科学：大脑如何在独处中修复与生长的方法与实践"
+trigger_keywords: ["act", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/biology/weight-loss/Weight_Loss_Psychology.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)
 
 > **核心命题**: 独处不是大脑的"待机状态"，而是一种活跃的、建设性的神经加工模式。高质量的独处促进默认模式网络的有序激活、前额叶-边缘系统的整合，以及海马体的神经发生。

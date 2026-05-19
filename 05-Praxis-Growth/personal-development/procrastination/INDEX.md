@@ -1,3 +1,31 @@
+---
+
+title: "procrastination | Index"
+description: "procrastination | Index的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 拖延心理"
+tags: ["depression", "intervention", "phobia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是procrastination | Index"
+  - "procrastination | Index的核心概念"
+  - "procrastination | Index的方法与实践"
+trigger_keywords: ["Index", "act", "anxiety", "cognitive", "depression"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # procrastination | Index
 
 ## 内容索引 | Contents

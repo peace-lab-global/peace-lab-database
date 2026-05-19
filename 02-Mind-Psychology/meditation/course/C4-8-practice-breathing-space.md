@@ -1,3 +1,31 @@
+---
+
+title: "C4-8 选修加练：呼吸空间"
+description: "C4-8 选修加练：呼吸空间的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-8 选修加练：呼吸空间"
+  - "C4-8 选修加练：呼吸空间的核心概念"
+  - "C4-8 选修加练：呼吸空间的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # C4-8 选修加练：呼吸空间
 
 📑 智能总结

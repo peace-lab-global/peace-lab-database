@@ -1,3 +1,31 @@
+---
+
+title: "马勒音乐疗愈 (Mahler Music Therapy)"
+description: "马勒音乐疗愈 (Mahler Music Therapy)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是马勒音乐疗愈"
+  - "马勒音乐疗愈的核心概念"
+  - "马勒音乐疗愈的方法与实践"
+trigger_keywords: ["马勒音乐疗愈", "adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 马勒音乐疗愈 (Mahler Music Therapy)
 
 > **古斯塔夫·马勒 (Gustav Mahler, 1860-1911)**：奥地利晚期浪漫主义作曲家、指挥家。

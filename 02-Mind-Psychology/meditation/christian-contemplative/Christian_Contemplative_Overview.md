@@ -1,3 +1,31 @@
+---
+
+title: "基督教默观/冥想专业概述"
+description: "基督教默观/冥想专业概述的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Christian Contemplative"
+tags: ["anxiety", "brain", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是基督教默观/冥想专业概述"
+  - "基督教默观/冥想专业概述的核心概念"
+  - "基督教默观/冥想专业概述的方法与实践"
+trigger_keywords: ["基督教默观", "冥想专业概述", "act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/cardiovascular/meditation"
+
+---
 # 基督教默观/冥想专业概述
 
 > **适用对象**：对基督教灵修传统感兴趣的冥想练习者、神学研究者、跨宗教对话参与者、心理健康从业者

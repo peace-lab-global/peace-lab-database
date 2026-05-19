@@ -1,3 +1,31 @@
+---
+
+title: "《解放之见》Seeing That Frees"
+description: "《解放之见》Seeing That Frees的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《解放之见》Seeing That Frees"
+  - "《解放之见》Seeing That Frees的核心概念"
+  - "《解放之见》Seeing That Frees的方法与实践"
+trigger_keywords: ["act", "art", "body", "buddhism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/emotion/meditation"
+
+---
 # 《解放之见》Seeing That Frees
 
 > 罗布·伯比（Rob Burbea，1965-2020）著，2015年出版。英国佛教导师、冥想老师，曾任盖亚府（Gaia House）禅修中心常驻教师。伯比以极深的学术素养、艺术敏感性和灵性洞察力著称，他的教学横跨上座部佛教、大乘佛教、藏传佛教和非二元传统。《解放之见》是他唯一的完整著作，也是他一生修行的结晶——一部关于"空观"（Emptiness）的系统性实修指南。伯比于2020年因胰腺癌去世，他的离世在欧美佛教界引发了深切的哀悼，许多人认为他是他那一代最杰出的佛教导师之一。

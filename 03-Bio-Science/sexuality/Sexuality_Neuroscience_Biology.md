@@ -1,3 +1,31 @@
+---
+
+title: "Neuroscience and Biological Foundations of Sexuality (性学神经科学与生物学基础)"
+description: "Neuroscience and Biological Foundations of Sexuality (性学神经科学与生物学基础)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["addiction", "brain", "cbt", "sexuality", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Neuroscience and Biological Foundations of Sexuality"
+  - "Neuroscience and Biological Foundations of Sexuality的核心概念"
+  - "Neuroscience and Biological Foundations of Sexuality的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Neuroscience and Biological Foundations of Sexuality (性学神经科学与生物学基础)
 
 > 🔗 **相关专题入口**: [男性性健康系列](male-sexual-health/INDEX.md) - 涵盖前列腺、勃起唤起与射精/高潮等生物学机制扩展。

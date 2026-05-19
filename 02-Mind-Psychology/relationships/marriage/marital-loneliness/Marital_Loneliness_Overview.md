@@ -1,3 +1,32 @@
+---
+
+title: "婚内孤独心理学专业内容体系"
+description: "婚内孤独心理学专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
+tags: ["anxiety", "attachment", "cardiovascular", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是婚内孤独心理学专业内容体系"
+  - "婚内孤独心理学专业内容体系的核心概念"
+  - "婚内孤独心理学专业内容体系的方法与实践"
+  - "婚内孤独心理学专业内容体系的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 婚内孤独心理学专业内容体系
 
 ## 目录

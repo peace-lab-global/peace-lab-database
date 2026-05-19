@@ -1,3 +1,31 @@
+---
+
+title: "Advanced Kriya & Kundalini (高阶克里亚与昆达里尼瑜伽)"
+description: "Advanced Kriya & Kundalini (高阶克里亚与昆达里尼瑜伽)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Advanced Kriya & Kundalini"
+  - "Advanced Kriya & Kundalini的核心概念"
+  - "Advanced Kriya & Kundalini的方法与实践"
+trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Advanced Kriya & Kundalini (高阶克里亚与昆达里尼瑜伽)
 
 ## 核心术语表 (Core Terminology)

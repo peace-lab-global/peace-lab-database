@@ -1,3 +1,31 @@
+---
+
+title: "韩国禅（Korean Seon）实修指南"
+description: "韩国禅（Korean Seon）实修指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Korean Seon"
+tags: ["anxiety", "brain", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是韩国禅（Korean Seon）实修指南"
+  - "韩国禅（Korean Seon）实修指南的核心概念"
+  - "韩国禅（Korean Seon）实修指南的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "brain"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "README.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 韩国禅（Korean Seon）实修指南
 
 > **最后更新：** 2026-05

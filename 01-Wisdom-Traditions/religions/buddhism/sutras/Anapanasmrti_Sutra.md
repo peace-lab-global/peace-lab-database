@@ -1,3 +1,31 @@
+---
+
+title: "佛说大安般守意经"
+description: "佛说大安般守意经的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "mindfulness", "sleep", "vipassana"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是佛说大安般守意经"
+  - "佛说大安般守意经的核心概念"
+  - "佛说大安般守意经的方法与实践"
+trigger_keywords: ["佛说大安般守意经", "body", "breathwork", "buddhism", "mindfulness"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 佛说大安般守意经
 
 ## 基本信息

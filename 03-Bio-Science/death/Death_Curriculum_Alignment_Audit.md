@@ -1,3 +1,31 @@
+---
+
+title: "Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)"
+description: "Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Curriculum Alignment Audit: Death Studies Module"
+  - "Curriculum Alignment Audit: Death Studies Module的核心概念"
+  - "Curriculum Alignment Audit: Death Studies Module的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+
+---
 # Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)
 
 > *"教育的目的是培养能够面对死亡而不恐惧、面对生命而不虚度的人。"*

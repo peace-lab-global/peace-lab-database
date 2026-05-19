@@ -1,3 +1,31 @@
+---
+
+title: "科技与社会圆桌 | Technology and Society Round Table"
+description: "科技与社会圆桌 | Technology and Society Round Table的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Round Table"
+tags: ["addiction", "minimalism"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是科技与社会圆桌 | Technology and Society Round Table"
+  - "科技与社会圆桌 | Technology and Society Round Table的核心概念"
+  - "科技与社会圆桌 | Technology and Society Round Table的方法与实践"
+trigger_keywords: ["科技与社会圆桌", "act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
+    relation: "anxiety/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Pyrrho.md"
+    relation: "anxiety/exercise/sexuality"
+
+---
 # 科技与社会圆桌 | Technology and Society Round Table
 
 > 技术(Technology)已不再是中性的工具,而是深刻塑造社会结构、人际关系和人类心理的力量。从人工智能伦理(AI Ethics)到社交媒体的社会影响(Social Media Impact),从数字健康(Digital Wellness)到未来工作(The Future of Work),科技与社会的交叉议题需要来自技术、人文、社会科学和公众的多方对话。本圆桌讨论聚焦科技发展的深层社会影响,探索在拥抱技术进步的同时守护人类福祉的路径。

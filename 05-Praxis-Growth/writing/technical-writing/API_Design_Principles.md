@@ -1,3 +1,31 @@
+---
+
+title: "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API"
+description: "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的详细解析与实践指南"
+category: "实践与个人增长 > 写作 > Technical Writing"
+tags: ["communication", "productivity", "stress"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是API设计原则 | API Design Principles | Αρχές Σχεδιασμού API"
+  - "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的核心概念"
+  - "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的方法与实践"
+trigger_keywords: ["API设计原则", "assessment", "behavioral", "communication", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "communication/productivity/sexuality"
+
+---
 # API设计原则 | API Design Principles | Αρχές Σχεδιασμού API
 
 > **API设计原则**系统阐述现代API设计的最佳实践和核心原则，涵盖RESTful架构、GraphQL、gRPC等主流API设计模式，以及安全性、性能优化、版本管理等关键设计考量，帮助开发者创建高质量、易用性强的API接口。

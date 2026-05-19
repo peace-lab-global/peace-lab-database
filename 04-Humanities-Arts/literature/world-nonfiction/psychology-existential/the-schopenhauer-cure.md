@@ -1,3 +1,32 @@
+---
+
+title: "《叔本华的治疗》The Schopenhauer Cure"
+description: "《叔本华的治疗》The Schopenhauer Cure的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["literature", "loneliness", "phobia", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《叔本华的治疗》The Schopenhauer Cure"
+  - "《叔本华的治疗》The Schopenhauer Cure的核心概念"
+  - "《叔本华的治疗》The Schopenhauer Cure的方法与实践"
+  - "《叔本华的治疗》The Schopenhauer Cure的循证证据"
+trigger_keywords: ["art", "death", "literature", "loneliness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《叔本华的治疗》The Schopenhauer Cure
 
 > 欧文·亚隆（Irvin D. Yalom）著，2005年出版。存在主义心理治疗大师亚隆的小说作品，讲述了一群心理治疗患者在治疗师被诊断出绝症后，通过叔本华的哲学来面对生死、孤独和意义的问题。

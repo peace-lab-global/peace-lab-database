@@ -1,3 +1,31 @@
+---
+
+title: "Psychological and Relationship Factors (心理与关系因素)"
+description: "Psychological and Relationship Factors (心理与关系因素)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Male Sexual Health"
+tags: ["attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Psychological and Relationship Factors"
+  - "Psychological and Relationship Factors的核心概念"
+  - "Psychological and Relationship Factors的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Psychological and Relationship Factors (心理与关系因素)
 
 ## 概述

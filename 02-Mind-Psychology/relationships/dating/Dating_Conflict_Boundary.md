@@ -1,3 +1,31 @@
+---
+
+title: "Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)"
+description: "Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Conflict Management & Boundary Setting"
+  - "Dating Conflict Management & Boundary Setting的核心概念"
+  - "Dating Conflict Management & Boundary Setting的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)
 
 > 📘 **文档导航**: 本指南提供约会关系中冲突预防、处理和边界维护的专业策略。相关文档：

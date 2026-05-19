@@ -1,3 +1,31 @@
+---
+
+title: "Generalized Anxiety Disorder Clinical Features (广泛性焦虑障碍临床表现)"
+description: "Generalized Anxiety Disorder Clinical Features (广泛性焦虑障碍临床表现)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Gad"
+tags: ["anxiety", "attachment", "brain", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Generalized Anxiety Disorder Clinical Features"
+  - "Generalized Anxiety Disorder Clinical Features的核心概念"
+  - "Generalized Anxiety Disorder Clinical Features的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Anxiety_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Generalized Anxiety Disorder Clinical Features (广泛性焦虑障碍临床表现)
 
 > **GAD临床表现 (GAD Clinical Presentation / Manifestatio Clinica)**

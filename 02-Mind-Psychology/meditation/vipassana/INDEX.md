@@ -1,3 +1,31 @@
+---
+
+title: "vipassana | 内观禅修 Index"
+description: "vipassana | 内观禅修 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 内观冥想"
+tags: ["meditation", "vipassana", "内观冥想", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是vipassana | 内观禅修 Index"
+  - "vipassana | 内观禅修 Index的核心概念"
+  - "vipassana | 内观禅修 Index的方法与实践"
+trigger_keywords: ["vipassana", "内观禅修 Index", "act", "meditation", "内观冥想"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/therapy"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "buddhism/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "buddhism/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "buddhism/meditation/therapy"
+
+---
 # vipassana | 内观禅修 Index
 
 ## 内容索引 | Contents

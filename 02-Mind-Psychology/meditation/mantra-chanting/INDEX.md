@@ -1,3 +1,31 @@
+---
+
+title: "咒语/唱诵冥想 | Mantra Chanting Meditation"
+description: "咒语/唱诵冥想 | Mantra Chanting Meditation的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Mantra Chanting"
+tags: ["healing", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是咒语/唱诵冥想 | Mantra Chanting Meditation"
+  - "咒语/唱诵冥想 | Mantra Chanting Meditation的核心概念"
+  - "咒语/唱诵冥想 | Mantra Chanting Meditation的方法与实践"
+trigger_keywords: ["咒语", "唱诵冥想", "breathwork", "healing", "meditation", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+
+---
 # 咒语/唱诵冥想 | Mantra Chanting Meditation
 
 > **最后更新**：2026-05

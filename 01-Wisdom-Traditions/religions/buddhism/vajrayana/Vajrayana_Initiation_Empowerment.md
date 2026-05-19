@@ -1,3 +1,31 @@
+---
+
+title: "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā"
+description: "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
+tags: ["buddhism", "dzogchen", "fasting", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā"
+  - "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的核心概念"
+  - "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的方法与实践"
+trigger_keywords: ["灌顶与传承", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "buddhism/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "buddhism/exercise/nutrition"
+  - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/Tang_Poetry_Overview.md"
+    relation: "buddhism/exercise/nutrition"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā
 
 > **灌顶**（梵文：Abhiṣeka，藏文：དབང་བསྐུར་，威利：dbang bskur）是金刚乘修行的核心门径，通过具格上师的加持，将本尊的身、语、意力量传递给弟子，授权其修持特定密法。灌顶不仅是仪式，更是师徒之间三昧耶戒的建立，是密乘修行合法性与有效性的根本保障。

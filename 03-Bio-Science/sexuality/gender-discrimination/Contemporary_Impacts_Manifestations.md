@@ -1,3 +1,31 @@
+---
+
+title: "Contemporary Manifestations and Impacts of Gender Discrimination in China (中国性别歧视的当代影响与表现)"
+description: "Contemporary Manifestations and Impacts of Gender Discrimination in China (中国性别歧视的当代影响与表现)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["aging"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Contemporary Manifestations and Impacts of Gender Discrimination in China"
+  - "Contemporary Manifestations and Impacts of Gender Discrimination in China的核心概念"
+  - "Contemporary Manifestations and Impacts of Gender Discrimination in China的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Yidam_Practice.md"
+    relation: "aging/anxiety/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Contemporary Manifestations and Impacts of Gender Discrimination in China (中国性别歧视的当代影响与表现)
 
 ## 职场歧视的多维分析 (Multidimensional Analysis of Workplace Discrimination)

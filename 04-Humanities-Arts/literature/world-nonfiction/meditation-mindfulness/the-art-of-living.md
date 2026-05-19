@@ -1,3 +1,31 @@
+---
+
+title: "《内观》The Art of Living"
+description: "《内观》The Art of Living的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《内观》The Art of Living"
+  - "《内观》The Art of Living的核心概念"
+  - "《内观》The Art of Living的方法与实践"
+trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+    relation: "anxiety/buddhism/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《内观》The Art of Living
 
 > 威廉·哈特（William Hart）著，1987年出版。基于印度内观大师葛印卡（S.N. Goenka）的十日课程教授，是上座部佛教"内观"（Vipassana）修行最权威的入门指南之一。葛印卡的全球内观中心网络每年为数十万人提供免费的十日闭关课程。

@@ -1,3 +1,31 @@
+---
+
+title: "正念呼吸引导词脚本 | Mindfulness Breathing Scripts"
+description: "正念呼吸引导词脚本 | Mindfulness Breathing Scripts的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Guided Scripts"
+tags: ["mbsr", "meditation", "mindfulness", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是正念呼吸引导词脚本 | Mindfulness Breathing Scripts"
+  - "正念呼吸引导词脚本 | Mindfulness Breathing Scripts的核心概念"
+  - "正念呼吸引导词脚本 | Mindfulness Breathing Scripts的方法与实践"
+trigger_keywords: ["正念呼吸引导词脚本", "act", "body", "breathwork", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "emotion/meditation/sexuality"
+
+---
 # 正念呼吸引导词脚本 | Mindfulness Breathing Scripts
 
 > **领域**：冥想引导词脚本库（Guided Meditation Scripts）

@@ -1,3 +1,31 @@
+---
+
+title: "Gender Discrimination Prevention and Response Practical Guide (性别歧视预防与应对实践指南)"
+description: "Gender Discrimination Prevention and Response Practical Guide (性别歧视预防与应对实践指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Gender Discrimination Prevention and Response Practical Guide"
+  - "Gender Discrimination Prevention and Response Practical Guide的核心概念"
+  - "Gender Discrimination Prevention and Response Practical Guide的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
+    relation: "communication/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/emotion/sexuality"
+
+---
 # Gender Discrimination Prevention and Response Practical Guide (性别歧视预防与应对实践指南)
 
 ## 实践指南概述 (Practice Guide Overview)

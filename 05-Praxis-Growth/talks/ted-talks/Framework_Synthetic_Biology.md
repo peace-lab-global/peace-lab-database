@@ -1,3 +1,31 @@
+---
+
+title: "合成生物学 | Synthetic Biology"
+description: "合成生物学 | Synthetic Biology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["gut", "immune", "intervention", "phobia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是合成生物学 | Synthetic Biology"
+  - "合成生物学 | Synthetic Biology的核心概念"
+  - "合成生物学 | Synthetic Biology的方法与实践"
+trigger_keywords: ["合成生物学", "act", "assessment", "crisis", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
+    relation: "anxiety/communication/immune"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/communication/immune"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "anxiety/communication/immune"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/communication/immune"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 合成生物学 | Synthetic Biology
 
 > **合成生物学**（Synthetic Biology）是融合生物学、工程学和计算科学的交叉学科，旨在通过设计和构建新的生物系统来理解和改造生命。从基因组编辑（CRISPR-Cas9）到人工合成细胞，从生物燃料到基因疗法，合成生物学正在重新定义人类与生命的关系。本文件精选TED平台上关于合成生物学的代表性演讲，帮助读者理解这一前沿领域的核心原理和变革潜力。

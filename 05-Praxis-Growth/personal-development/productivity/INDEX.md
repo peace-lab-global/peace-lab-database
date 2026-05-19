@@ -1,3 +1,31 @@
+---
+
+title: "工作效率与执行力 (Productivity & Execution)"
+description: "工作效率与执行力 (Productivity & Execution)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > 效率"
+tags: ["flow", "habits", "mindfulness", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是工作效率与执行力"
+  - "工作效率与执行力的核心概念"
+  - "工作效率与执行力的方法与实践"
+trigger_keywords: ["工作效率与执行力", "assessment", "clinical", "cognitive", "flow"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 工作效率与执行力 (Productivity & Execution)
 
 > 系统化的效率提升方法论,涵盖理论基础、执行力训练与高级策略。

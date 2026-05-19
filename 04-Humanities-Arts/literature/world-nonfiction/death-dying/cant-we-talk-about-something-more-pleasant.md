@@ -1,3 +1,31 @@
+---
+
+title: "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?"
+description: "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?"
+  - "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的核心概念"
+  - "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/anxiety/art_therapy"
+
+---
 # 《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?
 
 > 罗兹·查斯特（Roz Chast）著，2014年出版。著名《纽约客》漫画家查斯特用漫画和文字记录了父母晚年的衰老和死亡。这本书是罕见的"漫画形式的死亡教育"——它证明了幽默和艺术可以是面对最黑暗主题的最有力工具。

@@ -1,3 +1,31 @@
+---
+
+title: "道家冥想实践指南"
+description: "道家冥想实践指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Taoist Meditation"
+tags: ["brain", "daoism", "fasting"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是道家冥想实践指南"
+  - "道家冥想实践指南的核心概念"
+  - "道家冥想实践指南的方法与实践"
+trigger_keywords: ["道家冥想实践指南", "assessment", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "daoism/emotion/exercise"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/emotion/exercise"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+    relation: "daoism/emotion/exercise"
+  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "daoism/emotion/exercise"
+
+---
 # 道家冥想实践指南
 
 > **最后更新：2026-05**

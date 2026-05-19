@@ -1,3 +1,31 @@
+---
+
+title: "《意识的起源与历史》The Origins and History of Consciousness"
+description: "《意识的起源与历史》The Origins and History of Consciousness的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "religion", "therapy", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《意识的起源与历史》The Origins and History of Consciousness"
+  - "《意识的起源与历史》The Origins and History of Consciousness的核心概念"
+  - "《意识的起源与历史》The Origins and History of Consciousness的方法与实践"
+trigger_keywords: ["death", "developmental", "jung", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
+    relation: "death/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "death/exercise/sexuality"
+
+---
 # 《意识的起源与历史》The Origins and History of Consciousness
 
 > 埃利希·诺伊曼（Erich Neumann）著，1949年出版。诺伊曼的另一部巨著，试图用荣格的心理学来重构人类意识的"进化史"——从原始的"太一"（Uroboros）到现代的"自我-自性"轴心。这是荣格学派中最"进化论"的著作。

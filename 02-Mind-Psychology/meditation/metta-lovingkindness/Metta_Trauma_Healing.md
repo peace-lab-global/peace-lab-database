@@ -1,3 +1,31 @@
+---
+
+title: "慈心禅与创伤疗愈专题"
+description: "慈心禅与创伤疗愈专题的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Metta Lovingkindness"
+tags: ["attachment", "brain", "cbt", "trauma"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是慈心禅与创伤疗愈专题"
+  - "慈心禅与创伤疗愈专题的核心概念"
+  - "慈心禅与创伤疗愈专题的方法与实践"
+trigger_keywords: ["慈心禅与创伤疗愈专题", "act", "art", "assessment", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "GLOSSARY.md"
+    relation: "attachment/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/meditation"
+
+---
 # 慈心禅与创伤疗愈专题
 
 > **Metta-Based Trauma Healing: A Trauma-Informed Approach to Loving-Kindness Meditation**

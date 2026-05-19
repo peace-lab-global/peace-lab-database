@@ -1,3 +1,31 @@
+---
+
+title: "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide"
+description: "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 血压调节"
+tags: ["aging", "cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide"
+  - "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的核心概念"
+  - "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的方法与实践"
+trigger_keywords: ["晨间血压调节实践指南", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide
 
 > 基于循证医学的晨间血压管理策略，整合生活方式干预、行为调节与身心调节技术。

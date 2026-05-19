@@ -1,3 +1,31 @@
+---
+
+title: "夫妻长期关系维护策略 (Marriage Long-term Maintenance Strategies)"
+description: "夫妻长期关系维护策略 (Marriage Long-term Maintenance Strategies)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是夫妻长期关系维护策略"
+  - "夫妻长期关系维护策略的核心概念"
+  - "夫妻长期关系维护策略的方法与实践"
+trigger_keywords: ["夫妻长期关系维护策略", "aging", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/attachment/communication"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
+    relation: "attachment/communication/death"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/communication/death"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/attachment/communication"
+
+---
 # 夫妻长期关系维护策略 (Marriage Long-term Maintenance Strategies)
 
 ## 关系生命周期各阶段特点表

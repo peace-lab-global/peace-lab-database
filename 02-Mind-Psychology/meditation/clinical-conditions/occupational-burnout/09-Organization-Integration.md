@@ -1,3 +1,31 @@
+---
+
+title: "09. 组织-个体整合框架 | Organization-Individual Integration"
+description: "09. 组织-个体整合框架 | Organization-Individual Integration的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["cbt", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是09. 组织-个体整合框架 | Organization-Individual Integration"
+  - "09. 组织-个体整合框架 | Organization-Individual Integration的核心概念"
+  - "09. 组织-个体整合框架 | Organization-Individual Integration的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "communication/emotion/meditation"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "communication/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "communication/emotion/meditation"
+
+---
 # 09. 组织-个体整合框架 | Organization-Individual Integration
 
 > **文档定位**：倦怠不是纯个体问题，也不仅是组织问题。本章提供 JD-R 模型下的整合框架，说明正念如何在个体层面与组织干预协同，并提供工作再设计（Job Crafting）的正念化策略。

@@ -1,3 +1,31 @@
+---
+
+title: "《我们如何死亡》How We Die"
+description: "《我们如何死亡》How We Die的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["immune", "literature", "loneliness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《我们如何死亡》How We Die"
+  - "《我们如何死亡》How We Die的核心概念"
+  - "《我们如何死亡》How We Die的方法与实践"
+trigger_keywords: ["aging", "clinical", "death", "immune"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/visualization/Loneliness_Chronic_Disease_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+
+---
 # 《我们如何死亡》How We Die
 
 > 舍温·努兰（Sherwin B. Nuland）著，1994年出版。耶鲁医学院外科教授、医学史学家。这本书以临床的精确和文学的优雅，描述了人类最常见的死亡方式——心脏病、中风、阿尔茨海默症、艾滋病、癌症、衰老——从医学和人性化的双重视角。

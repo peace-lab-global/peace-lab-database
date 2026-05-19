@@ -1,3 +1,31 @@
+---
+
+title: "柴可夫斯基芭蕾舞剧《睡美人》编舞分析"
+description: "柴可夫斯基芭蕾舞剧《睡美人》编舞分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Tchaikovsky Ballets > Sleepingbeauty"
+tags: ["ballet", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是柴可夫斯基芭蕾舞剧《睡美人》编舞分析"
+  - "柴可夫斯基芭蕾舞剧《睡美人》编舞分析的核心概念"
+  - "柴可夫斯基芭蕾舞剧《睡美人》编舞分析的方法与实践"
+trigger_keywords: ["adolescent", "art", "ballet", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "communication/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/emotion/exercise"
+
+---
 # 柴可夫斯基芭蕾舞剧《睡美人》编舞分析
 
 ## 编舞艺术概览

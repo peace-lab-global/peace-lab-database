@@ -1,3 +1,32 @@
+---
+
+title: "跨种族性别吸引力文化心理学 (Cross-Racial Gender Attraction: Cultural Psychology Perspectives)"
+description: "跨种族性别吸引力文化心理学 (Cross-Racial Gender Attraction: Cultural Psychology Perspectives)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Gender Dynamics"
+tags: ["anxiety", "attachment", "cinema", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是跨种族性别吸引力文化心理学"
+  - "跨种族性别吸引力文化心理学的核心概念"
+  - "跨种族性别吸引力文化心理学的方法与实践"
+  - "跨种族性别吸引力文化心理学的自助方法"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+    relation: "anxiety/attachment/immune"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
+    relation: "anxiety/attachment/immune"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "anxiety/attachment/immune"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
+    relation: "anxiety/attachment/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "anxiety/attachment/sexuality"
+
+---
 # 跨种族性别吸引力文化心理学 (Cross-Racial Gender Attraction: Cultural Psychology Perspectives)
 
 ## 核心术语与概念界定 (Core Terminology & Conceptual Framework)

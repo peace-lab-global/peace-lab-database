@@ -1,3 +1,31 @@
+---
+
+title: "AI应用 | AI Applications"
+description: "AI应用 | AI Applications的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "music", "positive-psychology", "productivity", "social"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是AI应用 | AI Applications"
+  - "AI应用 | AI Applications的核心概念"
+  - "AI应用 | AI Applications的方法与实践"
+trigger_keywords: ["AI应用", "act", "clinical", "decision-making", "music"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/exercise/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/exercise/productivity"
+
+---
 # AI应用 | AI Applications
 
 > **人工智能应用**（AI Applications）关注AI技术在各行各业的实际落地——从医疗健康（Healthcare）到金融服务（Finance），从智能制造（Smart Manufacturing）到创意产业（Creative Industries）。AI不再只是研究课题，而是正在深刻改变每个行业的运作方式。本文件精选TED平台上关于AI应用的代表性演讲，帮助读者理解AI在现实世界中的变革力量。

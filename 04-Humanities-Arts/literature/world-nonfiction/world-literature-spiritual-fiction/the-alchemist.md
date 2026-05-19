@@ -1,3 +1,31 @@
+---
+
+title: "《牧羊少年奇幻之旅》The Alchemist"
+description: "《牧羊少年奇幻之旅》The Alchemist的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "phobia", "spirituality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《牧羊少年奇幻之旅》The Alchemist"
+  - "《牧羊少年奇幻之旅》The Alchemist的核心概念"
+  - "《牧羊少年奇幻之旅》The Alchemist的方法与实践"
+trigger_keywords: ["brain", "death", "literature", "phobia"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/death/neuroscience"
+
+---
 # 《牧羊少年奇幻之旅》The Alchemist
 
 > 保罗·柯艾略（Paulo Coelho）著，1988年出版。巴西作家的全球畅销小说，讲述了一个西班牙牧羊少年圣地亚哥追寻宝藏的旅程。表面上是冒险故事，深层是关于"个人传奇"（Personal Legend）的灵性寓言——每个人都有一个命中注定的使命，听从内心的声音就能实现它。

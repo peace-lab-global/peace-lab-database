@@ -1,3 +1,31 @@
+---
+
+title: "脉轮冥想 | Chakra Meditation"
+description: "脉轮冥想 | Chakra Meditation的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Chakra Meditation"
+tags: ["healing", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是脉轮冥想 | Chakra Meditation"
+  - "脉轮冥想 | Chakra Meditation的核心概念"
+  - "脉轮冥想 | Chakra Meditation的方法与实践"
+trigger_keywords: ["脉轮冥想", "breathwork", "healing", "meditation", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "meditation/yoga"
+
+---
 # 脉轮冥想 | Chakra Meditation
 
 > **最后更新**：2026-05

@@ -1,3 +1,31 @@
+---
+
+title: "蕙兰（Wai Lana / 张蕙兰）"
+description: "蕙兰（Wai Lana / 张蕙兰）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > East Asian"
+tags: ["meditation", "music", "religion", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是蕙兰（Wai Lana / 张蕙兰）"
+  - "蕙兰（Wai Lana / 张蕙兰）的核心概念"
+  - "蕙兰（Wai Lana / 张蕙兰）的方法与实践"
+trigger_keywords: ["张蕙兰）", "child", "exercise", "meditation", "music"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
+    relation: "exercise/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/meditation/yoga"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/meditation/yoga"
+
+---
 # 蕙兰（Wai Lana / 张蕙兰）
 
 > 将瑜伽带进中国千家万户的先驱——从 CCTV 到全球瑜伽传播

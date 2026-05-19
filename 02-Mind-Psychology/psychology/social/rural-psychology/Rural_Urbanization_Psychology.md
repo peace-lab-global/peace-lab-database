@@ -1,3 +1,31 @@
+---
+
+title: "Rural Urbanization Psychology (城镇化心理影响)"
+description: "Rural Urbanization Psychology (城镇化心理影响)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
+tags: ["anxiety", "attachment", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Rural Urbanization Psychology"
+  - "Rural Urbanization Psychology的核心概念"
+  - "Rural Urbanization Psychology的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Rural Urbanization Psychology (城镇化心理影响)
 
 > **城镇化心理影响 (Urbanization Psychology / Psychologia Urbanizationis)**

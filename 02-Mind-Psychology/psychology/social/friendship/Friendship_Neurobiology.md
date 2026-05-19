@@ -1,3 +1,31 @@
+---
+
+title: "友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας"
+description: "友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
+tags: ["anxiety", "attachment", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας"
+  - "友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας的核心概念"
+  - "友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας的方法与实践"
+trigger_keywords: ["友谊神经生物学", "aging", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 友谊神经生物学 | Friendship Neurobiology | Νευροβιολογία της Φιλίας
 
 > **友谊神经生物学**深入探讨友谊形成和维持的生物学基础，结合神经科学、内分泌学和进化心理学研究，揭示人类社交行为的生理机制和神经回路。

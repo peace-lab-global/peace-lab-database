@@ -1,3 +1,31 @@
+---
+
+title: "济群法师书籍书评 | Ji Qun Fa Shi Book Reviews"
+description: "济群法师书籍书评 | Ji Qun Fa Shi Book Reviews的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Jiqun"
+tags: ["buddhism", "positive-psychology", "religion"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是济群法师书籍书评 | Ji Qun Fa Shi Book Reviews"
+  - "济群法师书籍书评 | Ji Qun Fa Shi Book Reviews的核心概念"
+  - "济群法师书籍书评 | Ji Qun Fa Shi Book Reviews的方法与实践"
+trigger_keywords: ["济群法师书籍书评", "behavioral", "buddhism", "cognitive", "crisis"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Knowledge_Network.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 济群法师书籍书评 | Ji Qun Fa Shi Book Reviews
 
 ## 基本信息

@@ -1,3 +1,31 @@
+---
+
+title: "窥淫癖与色情成瘾专业内容体系质量报告 (Voyeurism & Pornography Addiction Content Quality Report)"
+description: "窥淫癖与色情成瘾专业内容体系质量报告 (Voyeurism & Pornography Addiction Content Quality Report)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
+tags: ["addiction", "intervention", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是窥淫癖与色情成瘾专业内容体系质量报告"
+  - "窥淫癖与色情成瘾专业内容体系质量报告的核心概念"
+  - "窥淫癖与色情成瘾专业内容体系质量报告的方法与实践"
+trigger_keywords: ["addiction", "assessment", "clinical", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md"
+    relation: "neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
+    relation: "neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
+    relation: "neuroscience/sexuality"
+
+---
 # 窥淫癖与色情成瘾专业内容体系质量报告 (Voyeurism & Pornography Addiction Content Quality Report)
 
 ## 📊 总体概况

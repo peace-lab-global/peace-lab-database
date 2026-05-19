@@ -1,3 +1,31 @@
+---
+
+title: "C4-3 与呼吸同频：冥想练习：以呼吸为锚"
+description: "C4-3 与呼吸同频：冥想练习：以呼吸为锚的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C4-3 与呼吸同频：冥想练习：以呼吸为锚"
+  - "C4-3 与呼吸同频：冥想练习：以呼吸为锚的核心概念"
+  - "C4-3 与呼吸同频：冥想练习：以呼吸为锚的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
+    relation: "anxiety/depression/emotion"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "depression/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # C4-3 与呼吸同频：冥想练习：以呼吸为锚
 
 📑 智能总结

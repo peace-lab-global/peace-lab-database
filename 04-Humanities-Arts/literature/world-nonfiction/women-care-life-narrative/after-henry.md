@@ -1,3 +1,31 @@
+---
+
+title: "《亨利之后》After Henry"
+description: "《亨利之后》After Henry的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature", "loneliness", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是《亨利之后》After Henry"
+  - "《亨利之后》After Henry的核心概念"
+  - "《亨利之后》After Henry的方法与实践"
+trigger_keywords: ["act", "literature", "loneliness", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "communication/death/emotion"
+
+---
 # 《亨利之后》After Henry
 
 **作者**：琼·狄迪恩 (Joan Didion)  

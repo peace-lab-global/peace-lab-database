@@ -1,3 +1,31 @@
+---
+
+title: "《论语》Analects"
+description: "《论语》Analects的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "phobia", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《论语》Analects"
+  - "《论语》Analects的核心概念"
+  - "《论语》Analects的方法与实践"
+trigger_keywords: ["aging", "behavioral", "buddhism", "daoism"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《论语》Analects
 
 > 孔子（Confucius，公元前551-479年）及其弟子著，约公元前5世纪至公元前3世纪编纂。儒家经典的核心，记录了孔子的言行和教导。与道家和佛教不同，儒家对死亡的态度是"敬鬼神而远之"——不讨论死后世界，只关注此生的伦理实践。

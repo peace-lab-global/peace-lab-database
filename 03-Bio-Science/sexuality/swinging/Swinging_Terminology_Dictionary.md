@@ -1,3 +1,31 @@
+---
+
+title: "换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)"
+description: "换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Swinging"
+tags: ["attachment", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是换妻研究专业术语词典"
+  - "换妻研究专业术语词典的核心概念"
+  - "换妻研究专业术语词典的方法与实践"
+trigger_keywords: ["换妻研究专业术语词典", "act", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "attachment/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Intimacy_Relationships.md"
+    relation: "attachment/communication/emotion"
+
+---
 # 换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)
 
 > 📘 **术语标准化**: 本词典提供换妻研究领域的标准化术语定义，涵盖社会学、心理学和关系科学等多个维度，确保学术交流和实践应用的准确性和一致性。

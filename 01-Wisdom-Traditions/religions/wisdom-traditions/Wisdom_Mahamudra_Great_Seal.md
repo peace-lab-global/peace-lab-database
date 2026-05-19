@@ -1,3 +1,31 @@
+---
+
+title: "Mahamudra (大手印：显实圆融)"
+description: "Mahamudra (大手印：显实圆融)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["attachment", "cbt", "meditation", "mahamudra", "yoga", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Mahamudra"
+  - "Mahamudra的核心概念"
+  - "Mahamudra的方法与实践"
+trigger_keywords: ["Mahamudra", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Mahamudra (大手印：显实圆融)
 
 ### The Triad of Mahamudra: Ground, Path, and Fruit (大手印之基、道、果深度解析表)

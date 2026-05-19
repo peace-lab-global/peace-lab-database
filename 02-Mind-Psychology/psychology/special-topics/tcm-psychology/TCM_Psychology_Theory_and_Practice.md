@@ -1,3 +1,32 @@
+---
+
+title: "中医心理学理论与实践专业内容体系"
+description: "中医心理学理论与实践专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Tcm Psychology"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中医心理学理论与实践专业内容体系"
+  - "中医心理学理论与实践专业内容体系的核心概念"
+  - "中医心理学理论与实践专业内容体系的方法与实践"
+  - "中医心理学理论与实践专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 中医心理学理论与实践专业内容体系
 
 ## 目录

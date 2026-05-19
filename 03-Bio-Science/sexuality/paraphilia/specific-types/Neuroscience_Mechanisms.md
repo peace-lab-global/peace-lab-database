@@ -1,3 +1,31 @@
+---
+
+title: "Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)"
+description: "Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
+tags: ["addiction", "ballet", "brain", "cbt", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Specific Types Neuroscience Mechanisms"
+  - "Specific Types Neuroscience Mechanisms的核心概念"
+  - "Specific Types Neuroscience Mechanisms的方法与实践"
+trigger_keywords: ["addiction", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "emotion/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/neuroscience/sexuality"
+
+---
 # Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)
 
 > 📘 **文档导航**: 本专题文档深入探讨各类性迷恋现象的神经生物学基础和大脑机制。相关主题请参考：

@@ -1,3 +1,31 @@
+---
+
+title: "正念行走实修方案集 (Mindful Walking: Practice Protocols & Structured Programs)"
+description: "正念行走实修方案集 (Mindful Walking: Practice Protocols & Structured Programs)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念行走实修方案集"
+  - "正念行走实修方案集的核心概念"
+  - "正念行走实修方案集的方法与实践"
+trigger_keywords: ["正念行走实修方案集", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_08_Life_Scenes.md"
+    relation: "aging/anxiety/exercise"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "aging/anxiety/exercise"
+
+---
 # 正念行走实修方案集 (Mindful Walking: Practice Protocols & Structured Programs)
 
 > **本文档定位**：作为《[正念行走专业实践指南](Mindful_Walking_Practice.md)》的**实修伴侣手册**，提供可直接使用的详细操作脚本、结构化训练方案、人群定制化课程与临床应用协议。理论基础与循证框架请参阅主文档。

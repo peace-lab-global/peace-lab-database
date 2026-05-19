@@ -1,3 +1,31 @@
+---
+
+title: "《春秋》Spring and Autumn Annals"
+description: "《春秋》Spring and Autumn Annals的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《春秋》Spring and Autumn Annals"
+  - "《春秋》Spring and Autumn Annals的核心概念"
+  - "《春秋》Spring and Autumn Annals的方法与实践"
+trigger_keywords: ["death", "literature", "philosophy", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death"
+
+---
 # 《春秋》Spring and Autumn Annals
 
 > 孔子编订，约公元前5世纪。中国最早的编年体史书，记录了鲁国从公元前722年到公元前481年的历史。虽然表面上是历史记录，但儒家认为其中隐藏着孔子的"微言大义"——通过历史来传达道德判断。

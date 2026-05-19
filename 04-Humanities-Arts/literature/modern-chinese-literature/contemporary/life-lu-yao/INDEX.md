@@ -1,3 +1,21 @@
+---
+
+title: "Life | 人生"
+description: "Life | 人生的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Life | 人生"
+  - "Life | 人生的核心概念"
+  - "Life | 人生的方法与实践"
+trigger_keywords: ["Life", "人生", "cinema", "philosophy", "文学"]
+cross_refs: []
+
+---
 # Life | 人生
 
 > 路遥中篇小说，1982年发表于《收获》杂志。1984年改编为同名电影（吴天明导演）。被视为《平凡的世界》的前奏曲。

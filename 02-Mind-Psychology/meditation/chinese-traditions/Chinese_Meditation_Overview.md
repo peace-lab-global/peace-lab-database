@@ -1,3 +1,31 @@
+---
+
+title: "中国本土冥想传统概论 | Chinese Meditation Traditions Overview"
+description: "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Chinese Traditions"
+tags: ["daoism", "mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中国本土冥想传统概论 | Chinese Meditation Traditions Overview"
+  - "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的核心概念"
+  - "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的方法与实践"
+trigger_keywords: ["中国本土冥想传统概论", "act", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/buddhism/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/daoism/emotion"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "aging/daoism/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "aging/buddhism/daoism"
+
+---
 # 中国本土冥想传统概论 | Chinese Meditation Traditions Overview
 
 > **领域**：中国本土冥想与禅修（Chinese Indigenous Meditation）

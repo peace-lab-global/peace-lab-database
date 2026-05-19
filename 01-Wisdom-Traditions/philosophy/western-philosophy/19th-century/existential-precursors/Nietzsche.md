@@ -1,3 +1,21 @@
+---
+
+title: "弗里德里希·尼采 (Friedrich Nietzsche)"
+description: "弗里德里希·尼采 (Friedrich Nietzsche)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century > Existential Precursors"
+tags: ["freud", "healing", "jung", "music", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是弗里德里希·尼采"
+  - "弗里德里希·尼采的核心概念"
+  - "弗里德里希·尼采的方法与实践"
+trigger_keywords: ["弗里德里希", "尼采", "art", "assessment", "developmental", "freud"]
+cross_refs: []
+
+---
 # 弗里德里希·尼采 (Friedrich Nietzsche)
 
 **时期 (Period):** 19世纪哲学 (19th Century Philosophy)

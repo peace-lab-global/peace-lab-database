@@ -1,3 +1,31 @@
+---
+
+title: "《千面英雄》The Hero with a Thousand Faces"
+description: "《千面英雄》The Hero with a Thousand Faces的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["cinema", "jung", "religion", "treatment", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《千面英雄》The Hero with a Thousand Faces"
+  - "《千面英雄》The Hero with a Thousand Faces的核心概念"
+  - "《千面英雄》The Hero with a Thousand Faces的方法与实践"
+trigger_keywords: ["cinema", "death", "jung", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise"
+
+---
 # 《千面英雄》The Hero with a Thousand Faces
 
 > 约瑟夫·坎贝尔（Joseph Campbell）著，1949年出版。比较神话学巨著，提出了"单一神话"（monomyth）理论：人类所有文化的英雄故事——从荷马到《星球大战》、从佛陀到耶稣——都遵循同一个深层结构。这本书直接启发了乔治·卢卡斯的《星球大战》和无数好莱坞编剧。

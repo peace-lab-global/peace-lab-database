@@ -1,3 +1,31 @@
+---
+
+title: "耆那冥想实修指南 (Jain Meditation Practical Guide)"
+description: "耆那冥想实修指南 (Jain Meditation Practical Guide)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Jain Meditation"
+tags: ["anxiety", "act"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是耆那冥想实修指南"
+  - "耆那冥想实修指南的核心概念"
+  - "耆那冥想实修指南的方法与实践"
+trigger_keywords: ["耆那冥想实修指南", "act", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/death/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 耆那冥想实修指南 (Jain Meditation Practical Guide)
 
 > **最后更新：** 2026-05

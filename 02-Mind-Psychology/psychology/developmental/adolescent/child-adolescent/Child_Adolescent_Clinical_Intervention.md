@@ -1,3 +1,32 @@
+---
+
+title: "儿童青少年发展心理学与临床干预深度融合体系"
+description: "儿童青少年发展心理学与临床干预深度融合体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent"
+tags: ["anxiety", "attachment", "cbt", "adhd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童青少年发展心理学与临床干预深度融合体系"
+  - "儿童青少年发展心理学与临床干预深度融合体系的核心概念"
+  - "儿童青少年发展心理学与临床干预深度融合体系的方法与实践"
+  - "儿童青少年发展心理学与临床干预深度融合体系的自助方法"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 儿童青少年发展心理学与临床干预深度融合体系
 
 ## 📋 发展心理学理论整合框架

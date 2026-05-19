@@ -1,3 +1,31 @@
+---
+
+title: "《爱的艺术》The Art of Loving"
+description: "《爱的艺术》The Art of Loving的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["music", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《爱的艺术》The Art of Loving"
+  - "《爱的艺术》The Art of Loving的核心概念"
+  - "《爱的艺术》The Art of Loving的方法与实践"
+trigger_keywords: ["art", "music", "sexuality", "writing"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "art_therapy/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/productivity/sexuality"
+
+---
 # 《爱的艺术》The Art of Loving
 
 > 艾里希·弗洛姆（Erich Fromm）著，1956年出版。德裔美国精神分析学家、法兰克福学派成员。这本书将"爱"从浪漫的迷梦中唤醒，重新定义为一项需要学习、练习和纪律的"艺术"——与音乐、绘画、木匠手艺一样。

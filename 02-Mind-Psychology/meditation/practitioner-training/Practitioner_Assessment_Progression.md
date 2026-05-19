@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System"
+description: "冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Practitioner Training"
+tags: ["brain", "mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System"
+  - "冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System的核心概念"
+  - "冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System的方法与实践"
+trigger_keywords: ["act", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # 冥想执行师评估与进阶体系 | Practitioner Assessment & Progression System
 
 > **领域**：执行师培训体系（Practitioner Training System）

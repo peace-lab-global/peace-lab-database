@@ -1,3 +1,31 @@
+---
+
+title: "Mandala Meditation Traditions (坛城冥想传统流派)"
+description: "Mandala Meditation Traditions (坛城冥想传统流派)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 坛城冥想"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mandala Meditation Traditions"
+  - "Mandala Meditation Traditions的核心概念"
+  - "Mandala Meditation Traditions的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Mind_Transformation.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # Mandala Meditation Traditions (坛城冥想传统流派)
 
 ## 藏传佛教坛城体系 (Tibetan Buddhist Mandala Systems)

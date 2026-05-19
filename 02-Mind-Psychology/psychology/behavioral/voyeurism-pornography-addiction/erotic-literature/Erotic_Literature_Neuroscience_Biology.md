@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾神经科学与生物学机制 (Erotic Literature Addiction Neuroscientific and Biological Mechanisms)"
+description: "色情文学成瘾神经科学与生物学机制 (Erotic Literature Addiction Neuroscientific and Biological Mechanisms)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "anxiety", "brain", "cardiovascular", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾神经科学与生物学机制"
+  - "色情文学成瘾神经科学与生物学机制的核心概念"
+  - "色情文学成瘾神经科学与生物学机制的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/emotion"
+
+---
 # 色情文学成瘾神经科学与生物学机制 (Erotic Literature Addiction Neuroscientific and Biological Mechanisms)
 
 > 🧠 **神经机制研究**: 本文档深入分析色情文学成瘾的神经生物学基础和生理机制。建议结合[形成机制](Erotic_Literature_Formation_Mechanisms.md)了解心理机制，参考[临床评估](Erotic_Literature_Clinical_Assessment.md)掌握诊断应用。

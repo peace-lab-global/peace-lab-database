@@ -1,3 +1,31 @@
+---
+
+title: "Flow 心流"
+description: "Flow 心流的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["flow", "habits"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Flow 心流"
+  - "Flow 心流的核心概念"
+  - "Flow 心流的方法与实践"
+trigger_keywords: ["Flow 心流", "act", "anxiety", "body", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # Flow 心流
 
 ## 作者背景 (Author Background)

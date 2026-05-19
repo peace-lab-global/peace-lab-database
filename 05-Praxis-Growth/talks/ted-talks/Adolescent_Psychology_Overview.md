@@ -1,3 +1,32 @@
+---
+
+title: "青少年心理学 | Adolescent Psychology Overview"
+description: "青少年心理学 | Adolescent Psychology Overview的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年心理学 | Adolescent Psychology Overview"
+  - "青少年心理学 | Adolescent Psychology Overview的核心概念"
+  - "青少年心理学 | Adolescent Psychology Overview的方法与实践"
+  - "青少年心理学 | Adolescent Psychology Overview的自助方法"
+trigger_keywords: ["青少年心理学", "adolescent", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+    relation: "communication/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Client_Relations.md"
+    relation: "communication/emotion/neuroscience"
+
+---
 # 青少年心理学 | Adolescent Psychology Overview
 
 > **青少年时期**是人生中大脑发育最剧烈、心理变化最深刻的阶段之一。从神经科学的角度来看，青春期大脑的 可塑性（Neuroplasticity）远超成年期，同时伴随情绪波动、身份认同探索与社会关系重构。本文件精选TED平台上关于青少年心理学的代表性演讲，帮助家长、教育工作者和青少年本人理解这一关键发展阶段的科学本质。

@@ -1,3 +1,32 @@
+---
+
+title: "佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)"
+description: "佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是佛教正念与现代心理治疗整合"
+  - "佛教正念与现代心理治疗整合的核心概念"
+  - "佛教正念与现代心理治疗整合的方法与实践"
+  - "佛教正念与现代心理治疗整合的循证证据"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)
 
 > **正念疗法整合 (Mindfulness-Based Integration)**：将佛教正念传统与现代循证心理治疗系统融合的跨学科领域，代表东方智慧与西方科学的深度对话。

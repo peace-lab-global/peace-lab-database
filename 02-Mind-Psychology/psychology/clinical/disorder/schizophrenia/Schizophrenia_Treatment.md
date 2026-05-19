@@ -1,3 +1,31 @@
+---
+
+title: "Schizophrenia Treatment (精神分裂症治疗)"
+description: "Schizophrenia Treatment (精神分裂症治疗)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizophrenia"
+tags: ["cardiovascular", "schizophrenia", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Schizophrenia Treatment"
+  - "Schizophrenia Treatment的核心概念"
+  - "Schizophrenia Treatment的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Fundamentals.md"
+    relation: "aging/cardiovascular/depression"
+
+---
 # Schizophrenia Treatment (精神分裂症治疗)
 
 > **精神分裂症治疗 (Schizophrenia Treatment / Antipsychotic Therapy & Psychosocial Rehabilitation)**

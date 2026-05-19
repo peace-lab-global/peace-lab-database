@@ -1,3 +1,32 @@
+---
+
+title: "梦的治疗应用 | Dream Therapy Practice"
+description: "梦的治疗应用 | Dream Therapy Practice的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Dream Psychology"
+tags: ["cbt", "emdr", "sleep", "trauma", "act", "insomnia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是梦的治疗应用 | Dream Therapy Practice"
+  - "梦的治疗应用 | Dream Therapy Practice的核心概念"
+  - "梦的治疗应用 | Dream Therapy Practice的方法与实践"
+  - "梦的治疗应用 | Dream Therapy Practice的循证证据"
+trigger_keywords: ["梦的治疗应用", "act", "behavioral", "body", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "cardiovascular/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "cardiovascular/death/exercise"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "cardiovascular/death/exercise"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
+    relation: "cardiovascular/death/exercise"
+  - path: "03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md"
+    relation: "cardiovascular/death/exercise"
+
+---
 # 梦的治疗应用 | Dream Therapy Practice
 
 > **学科定位**: 临床心理学 × 意象治疗 × 睡眠医学

@@ -1,3 +1,32 @@
+---
+
+title: "巴赫《哥德堡变奏曲》心理学与疗愈功能分析"
+description: "巴赫《哥德堡变奏曲》心理学与疗愈功能分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Goldberg Variations"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴赫《哥德堡变奏曲》心理学与疗愈功能分析"
+  - "巴赫《哥德堡变奏曲》心理学与疗愈功能分析的核心概念"
+  - "巴赫《哥德堡变奏曲》心理学与疗愈功能分析的方法与实践"
+  - "巴赫《哥德堡变奏曲》心理学与疗愈功能分析的自助方法"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 巴赫《哥德堡变奏曲》心理学与疗愈功能分析
 
 ## 心理治疗理论基础

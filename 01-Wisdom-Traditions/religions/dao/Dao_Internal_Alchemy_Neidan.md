@@ -1,3 +1,31 @@
+---
+
+title: "Internal Alchemy (内丹修持与路径)"
+description: "Internal Alchemy (内丹修持与路径)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 道家"
+tags: ["decision-making", "dmn", "gut"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Internal Alchemy"
+  - "Internal Alchemy的核心概念"
+  - "Internal Alchemy的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "daoism/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C2-2-effects-of-meditation.md"
+    relation: "daoism/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "daoism/emotion/neuroscience"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "daoism/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/emotion/neuroscience"
+
+---
 # Internal Alchemy (内丹修持与路径)
 
 ### The Three Treasures: San Bao (三宝：精气神详细参数表)

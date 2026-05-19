@@ -1,3 +1,31 @@
+---
+
+title: "冥想导师自我关照（Meditation Instructor Self-Care）"
+description: "冥想导师自我关照（Meditation Instructor Self-Care）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Career Business"
+tags: ["anxiety", "depression", "trauma"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想导师自我关照（Meditation Instructor Self-Care）"
+  - "冥想导师自我关照（Meditation Instructor Self-Care）的核心概念"
+  - "冥想导师自我关照（Meditation Instructor Self-Care）的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/daoism/depression"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/depression/emotion"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "anxiety/depression/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/depression/emotion"
+  - path: "README.md"
+    relation: "anxiety/daoism/emotion"
+
+---
 # 冥想导师自我关照（Meditation Instructor Self-Care）
 
 > 照顾他人之前，先照顾自己——冥想教师的身心灵可持续发展

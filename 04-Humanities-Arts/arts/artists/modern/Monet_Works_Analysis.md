@@ -1,3 +1,31 @@
+---
+
+title: "Monet (莫奈)主要作品深度分析"
+description: "Monet (莫奈)主要作品深度分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Monet 主要作品深度分析"
+  - "Monet 主要作品深度分析的核心概念"
+  - "Monet 主要作品深度分析的方法与实践"
+trigger_keywords: ["act", "art", "ballet", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "emotion/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "emotion/exercise/pain"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "emotion/exercise/pain"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
+    relation: "emotion/exercise/pain"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/exercise/pain"
+
+---
 # Monet (莫奈)主要作品深度分析
 
 ## 概述 (Overview)

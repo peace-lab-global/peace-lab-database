@@ -1,3 +1,31 @@
+---
+
+title: "脑电生物反馈 (EEG Neurofeedback)"
+description: "脑电生物反馈 (EEG Neurofeedback)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["addiction", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是脑电生物反馈"
+  - "脑电生物反馈的核心概念"
+  - "脑电生物反馈的方法与实践"
+trigger_keywords: ["脑电生物反馈", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "anxiety/depression/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 脑电生物反馈 (EEG Neurofeedback)
 
 > **目标**：系统化的EEG神经反馈技术、协议类型、训练方法、设备系统及临床实践。

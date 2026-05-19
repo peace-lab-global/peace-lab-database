@@ -1,3 +1,31 @@
+---
+
+title: "国际经济学 | International Economics"
+description: "国际经济学 | International Economics的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "leadership", "productivity", "resilience", "flow"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是国际经济学 | International Economics"
+  - "国际经济学 | International Economics的核心概念"
+  - "国际经济学 | International Economics的方法与实践"
+trigger_keywords: ["国际经济学", "act", "behavioral", "crisis", "decision-making"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 国际经济学 | International Economics
 
 > **国际经济学**（International Economics）研究国家之间的经济互动——从贸易理论（Trade Theory）到汇率制度（Exchange Rate Regimes），从国际资本流动（Capital Flows）到全球经济治理（Global Economic Governance）。在全球化与去全球化力量交织的时代，理解国际经济学对把握世界发展格局至关重要。本文件精选TED平台上关于国际经济学的代表性演讲，帮助读者理解全球经济体系的运行逻辑和变革趋势。

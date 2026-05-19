@@ -1,3 +1,31 @@
+---
+
+title: "职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)"
+description: "职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["communication", "intervention", "leadership", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场语言霸凌与PUA专业知识数据库"
+  - "职场语言霸凌与PUA专业知识数据库的核心概念"
+  - "职场语言霸凌与PUA专业知识数据库的方法与实践"
+trigger_keywords: ["behavioral", "cognitive", "communication", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
+    relation: "communication/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "communication/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
+    relation: "communication/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun.md"
+    relation: "communication/personality/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md"
+    relation: "communication/personality/sexuality"
+
+---
 # 职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)
 
 > **定位**：围绕职场语言霸凌、羞辱性管理、煤气灯操控、精神控制与权力压迫，构建一个兼具学术深度与实务可操作性的知识数据库

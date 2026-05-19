@@ -1,3 +1,32 @@
+---
+
+title: "芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)"
+description: "芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞治疗应用体系"
+  - "芭蕾舞治疗应用体系的核心概念"
+  - "芭蕾舞治疗应用体系的方法与实践"
+  - "芭蕾舞治疗应用体系的循证证据"
+trigger_keywords: ["芭蕾舞治疗应用体系", "adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)
 
 > **芭蕾舞治疗 (Ballet Therapy)**

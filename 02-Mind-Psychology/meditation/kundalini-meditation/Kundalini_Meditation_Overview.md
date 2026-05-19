@@ -1,3 +1,31 @@
+---
+
+title: "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga"
+description: "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Kundalini Meditation"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga"
+  - "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的核心概念"
+  - "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的方法与实践"
+trigger_keywords: ["addiction", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/meditation"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/meditation"
+
+---
 # 昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga
 
 > **适用对象**：对瑜伽能量体系有兴趣的进阶练习者、瑜伽教练、身心疗愈从业者、创伤康复研究者  

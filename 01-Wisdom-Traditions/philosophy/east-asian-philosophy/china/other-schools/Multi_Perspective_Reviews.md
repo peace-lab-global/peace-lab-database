@@ -1,3 +1,31 @@
+---
+
+title: "先秦诸子百家三方书评"
+description: "先秦诸子百家三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["daoism", "decision-making", "habits", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是先秦诸子百家三方书评"
+  - "先秦诸子百家三方书评的核心概念"
+  - "先秦诸子百家三方书评的方法与实践"
+trigger_keywords: ["先秦诸子百家三方书评", "behavioral", "cognitive", "daoism", "decision-making"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "daoism/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C2-2-effects-of-meditation.md"
+    relation: "daoism/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "daoism/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C4-1-more-keyword-of-samatha-stillness.md"
+    relation: "daoism/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "daoism/emotion/productivity"
+
+---
 # 先秦诸子百家三方书评
 
 > 本文件收录墨家、法家、兵家、名家、阴阳家等非儒道主流学派的经典著作三方书评。  

@@ -1,3 +1,31 @@
+---
+
+title: "《西方哲学史》A History of Western Philosophy"
+description: "《西方哲学史》A History of Western Philosophy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["intervention", "literature", "music", "phobia"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《西方哲学史》A History of Western Philosophy"
+  - "《西方哲学史》A History of Western Philosophy的核心概念"
+  - "《西方哲学史》A History of Western Philosophy的方法与实践"
+trigger_keywords: ["child", "developmental", "exercise", "intervention"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/communication"
+
+---
 # 《西方哲学史》A History of Western Philosophy
 
 **作者：** 伯特兰·罗素 (Bertrand Russell)  

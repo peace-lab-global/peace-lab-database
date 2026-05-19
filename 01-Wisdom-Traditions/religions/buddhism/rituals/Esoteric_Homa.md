@@ -1,3 +1,31 @@
+---
+
+title: "唐密/东密护摩仪轨 (Esoteric Homa / Goma Rituals)"
+description: "唐密/东密护摩仪轨 (Esoteric Homa / Goma Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "mandala", "vipassana", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是唐密/东密护摩仪轨"
+  - "唐密/东密护摩仪轨的核心概念"
+  - "唐密/东密护摩仪轨的方法与实践"
+trigger_keywords: ["唐密", "东密护摩仪轨", "buddhism", "developmental", "mandala", "vipassana"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 唐密/东密护摩仪轨 (Esoteric Homa / Goma Rituals)
 
 > **护摩 (Homa / Goma)**：源于古印度吠陀祭火传统，佛教密宗化后成为以火为媒介供养本尊的殊胜法门。唐密（汉传密宗）与东密（日本真言宗）护摩体系最为完备，具息灾、增益、调伏、敬爱、钩召五大功能。

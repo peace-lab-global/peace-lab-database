@@ -1,3 +1,31 @@
+---
+
+title: "奥义书智慧 | Upanishads Wisdom"
+description: "奥义书智慧 | Upanishads Wisdom的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
+tags: ["buddhism", "daoism", "meditation", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是奥义书智慧 | Upanishads Wisdom"
+  - "奥义书智慧 | Upanishads Wisdom的核心概念"
+  - "奥义书智慧 | Upanishads Wisdom的方法与实践"
+trigger_keywords: ["奥义书智慧", "body", "breathwork", "buddhism", "daoism"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/daoism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
+    relation: "buddhism/daoism/death"
+  - path: "GLOSSARY.md"
+    relation: "buddhism/daoism/meditation"
+  - path: "README.md"
+    relation: "buddhism/daoism/death"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/daoism/meditation"
+
+---
 # 奥义书智慧 | Upanishads Wisdom
 
 > **学科定位**: 印度古典哲学 × 意识本体论 × 灵性认识论

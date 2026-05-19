@@ -1,3 +1,31 @@
+---
+
+title: "《信心铭》Xin Xin Ming"
+description: "《信心铭》Xin Xin Ming的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["music", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《信心铭》Xin Xin Ming"
+  - "《信心铭》Xin Xin Ming的核心概念"
+  - "《信心铭》Xin Xin Ming的方法与实践"
+trigger_keywords: ["behavioral", "body", "brain", "music"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "buddhism/communication/emotion"
+
+---
 # 《信心铭》Xin Xin Ming
 
 > 僧璨（Sengcan，？—606年）著，禅宗三祖，中国禅宗第三代祖师。全文约600字，是现存最早的禅宗文献之一。关于作者身份有争议，传统上归于僧璨，但现代学者多认为成书于7世纪。无论作者是谁，这部作品以其凝练的诗意和深邃的见地，成为禅宗最核心的经典之一。

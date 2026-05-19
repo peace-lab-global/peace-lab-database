@@ -1,3 +1,32 @@
+---
+
+title: "music-therapy | 音乐疗法"
+description: "music-therapy | 音乐疗法的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
+tags: ["healing", "music", "religion", "therapy", "媒体", "music-therapy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是music-therapy | 音乐疗法"
+  - "music-therapy | 音乐疗法的核心概念"
+  - "music-therapy | 音乐疗法的方法与实践"
+  - "music-therapy | 音乐疗法的循证证据"
+trigger_keywords: ["音乐疗法", "healing", "music", "religion", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/emotion/sexuality"
+
+---
 # music-therapy | 音乐疗法
 
 > 基于古典音乐作曲家与演奏家作品的疗愈应用

@@ -1,3 +1,31 @@
+---
+
+title: "Ikigai生命意义 | Ikigai"
+description: "Ikigai生命意义 | Ikigai的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Career Planning"
+tags: ["cardiovascular", "depression", "flow"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Ikigai生命意义 | Ikigai"
+  - "Ikigai生命意义 | Ikigai的核心概念"
+  - "Ikigai生命意义 | Ikigai的方法与实践"
+trigger_keywords: ["Ikigai生命意义", "Ikigai", "aging", "assessment", "behavioral", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/depression/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/cardiovascular/death"
+
+---
 # Ikigai生命意义 | Ikigai
 
 > **学科定位**: 积极心理学 · 日本哲学 · 意义疗法

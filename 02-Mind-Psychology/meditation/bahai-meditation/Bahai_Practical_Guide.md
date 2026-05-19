@@ -1,3 +1,31 @@
+---
+
+title: "巴哈伊冥想实修指南 (Bahá'í Meditation Practical Guide)"
+description: "巴哈伊冥想实修指南 (Bahá'í Meditation Practical Guide)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Bahai Meditation"
+tags: ["act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是巴哈伊冥想实修指南"
+  - "巴哈伊冥想实修指南的核心概念"
+  - "巴哈伊冥想实修指南的方法与实践"
+trigger_keywords: ["巴哈伊冥想实修指南", "act", "art", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "death/meditation/productivity"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "death/meditation/productivity"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "death/meditation/productivity"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Miracle_Morning.md"
+    relation: "death/meditation/productivity"
+  - path: "README.md"
+    relation: "death/meditation/productivity"
+
+---
 # 巴哈伊冥想实修指南 (Bahá'í Meditation Practical Guide)
 
 > **最后更新：** 2026-05

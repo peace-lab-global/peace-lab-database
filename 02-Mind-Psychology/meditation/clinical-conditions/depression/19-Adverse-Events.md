@@ -1,3 +1,31 @@
+---
+
+title: "Adverse Events"
+description: "Adverse Events的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
+tags: ["anxiety", "act", "ocd"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Adverse Events"
+  - "Adverse Events的核心概念"
+  - "Adverse Events的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
+    relation: "anxiety/death/depression"
+
+---
 ## 19. 困难体验与不良事件监测
 
 > **说明**：正念并非总是"安全"的。在特定条件下，正念练习可能引发或加重困难的心理体验——从短暂的不适到严重的解离、惊恐发作、甚至精神病性症状。作为负责任的临床工作者，必须能够识别、分类、监测这些不良事件，并知道何时需要暂停正念、转介精神科。

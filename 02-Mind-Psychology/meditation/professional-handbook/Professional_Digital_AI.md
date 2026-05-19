@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师数字产品与AI | Professional Digital & AI"
+description: "冥想执行师数字产品与AI | Professional Digital & AI的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["meditation", "mindfulness", "music"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师数字产品与AI | Professional Digital & AI"
+  - "冥想执行师数字产品与AI | Professional Digital & AI的核心概念"
+  - "冥想执行师数字产品与AI | Professional Digital & AI的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+    relation: "emotion/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "emotion/meditation/sexuality"
+
+---
 # 冥想执行师数字产品与AI | Professional Digital & AI
 
 > **领域**：冥想执行师职业手册 — 数字产品与AI

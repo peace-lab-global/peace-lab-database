@@ -1,3 +1,31 @@
+---
+
+title: "《冥想》Meditation"
+description: "《冥想》Meditation的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness", "pain"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《冥想》Meditation"
+  - "《冥想》Meditation的核心概念"
+  - "《冥想》Meditation的方法与实践"
+trigger_keywords: ["body", "brain", "breathwork", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《冥想》Meditation
 
 > 斯瓦米·拉玛（Swami Rama）著，1968年出版。印度瑜伽大师，喜马拉雅瑜伽传统的重要传承者，也是最早将印度冥想传统系统介绍给西方世界的导师之一。这本书源自他在美国的讲座和教学内容，以极为平实的语言阐述了冥想的本质、方法与目的，被誉为"进入冥想世界最可靠的入门指南"。

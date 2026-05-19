@@ -1,3 +1,31 @@
+---
+
+title: "《寒山》Cold Mountain"
+description: "《寒山》Cold Mountain的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
+tags: ["literature", "loneliness", "spirituality", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《寒山》Cold Mountain"
+  - "《寒山》Cold Mountain的核心概念"
+  - "《寒山》Cold Mountain的方法与实践"
+trigger_keywords: ["buddhism", "death", "exercise", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "buddhism/communication/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+
+---
 # 《寒山》Cold Mountain
 
 > 寒山子（Hanshan / Cold Mountain），唐代诗人（约7-8世纪）。寒山子是中国文学史上最神秘的诗人之一——他的生平不详，据说他隐居在天台山寒岩，以白话诗闻名。他的诗简洁、幽默、直接，融合了佛教、道教和民间智慧。在20世纪，寒山子通过加里·斯奈德（Gary Snyder）的翻译，成为了美国"垮掉的一代"和"嬉皮运动"的精神偶像。

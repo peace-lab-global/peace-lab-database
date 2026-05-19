@@ -1,3 +1,31 @@
+---
+
+title: "如来藏思想详论 (Tathāgata-garbha Thought)"
+description: "如来藏思想详论 (Tathāgata-garbha Thought)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["addiction", "buddhism"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是如来藏思想详论"
+  - "如来藏思想详论的核心概念"
+  - "如来藏思想详论的方法与实践"
+trigger_keywords: ["如来藏思想详论", "act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 如来藏思想详论 (Tathāgata-garbha Thought)
 
 > **如来藏 (Tathāgata-garbha)**：大乘佛教的重要思想，认为一切众生本具佛性，如来法身藏于众生心中，是众生成佛的内在根据和可能性。

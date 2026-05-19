@@ -1,3 +1,31 @@
+---
+
+title: "启蒙哲学经典三方书评"
+description: "启蒙哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
+tags: ["philosophy", "religion", "哲学"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是启蒙哲学经典三方书评"
+  - "启蒙哲学经典三方书评的核心概念"
+  - "启蒙哲学经典三方书评的方法与实践"
+trigger_keywords: ["启蒙哲学经典三方书评", "cognitive", "philosophy", "religion", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+    relation: "emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "emotion/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "emotion/sexuality"
+
+---
 # 启蒙哲学经典三方书评
 
 ---

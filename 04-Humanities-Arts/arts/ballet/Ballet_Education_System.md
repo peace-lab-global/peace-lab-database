@@ -1,3 +1,31 @@
+---
+
+title: "芭蕾舞教育体系 (Ballet Educational System)"
+description: "芭蕾舞教育体系 (Ballet Educational System)的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 芭蕾"
+tags: ["ballet"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是芭蕾舞教育体系"
+  - "芭蕾舞教育体系的核心概念"
+  - "芭蕾舞教育体系的方法与实践"
+trigger_keywords: ["芭蕾舞教育体系", "act", "art", "assessment", "ballet"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
+    relation: "communication/exercise/sexuality"
+
+---
 # 芭蕾舞教育体系 (Ballet Educational System)
 
 > **芭蕾舞教育 (Ballet Education)**

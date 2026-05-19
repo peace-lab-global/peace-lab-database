@@ -1,3 +1,31 @@
+---
+
+title: "基督教圣经神学基础 (Christian Biblical Theology Foundation)"
+description: "基督教圣经神学基础 (Christian Biblical Theology Foundation)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 基督教"
+tags: ["cbt", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是基督教圣经神学基础"
+  - "基督教圣经神学基础的核心概念"
+  - "基督教圣经神学基础的方法与实践"
+trigger_keywords: ["基督教圣经神学基础", "behavioral", "body", "brain", "cbt"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "death/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "death/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
+    relation: "death/exercise/neuroscience"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "death/exercise/neuroscience"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "death/exercise/neuroscience"
+
+---
 # 基督教圣经神学基础 (Christian Biblical Theology Foundation)
 
 ## 目录 (Table of Contents)

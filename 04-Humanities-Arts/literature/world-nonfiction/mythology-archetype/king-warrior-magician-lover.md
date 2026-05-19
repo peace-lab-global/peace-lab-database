@@ -1,3 +1,31 @@
+---
+
+title: "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover"
+description: "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["addiction", "jung", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover"
+  - "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的核心概念"
+  - "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的方法与实践"
+trigger_keywords: ["《国王", "战士", "魔法师", "addiction", "death", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "death/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "death/exercise/sexuality"
+
+---
 # 《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover
 
 > 罗伯特·摩尔（Robert Moore）和道格拉斯·吉列特（Douglas Gillette）著，1990年出版。荣格分析师摩尔和神话学家吉列特提出了男性的四种成熟原型：国王（秩序与祝福）、战士（边界与保护）、魔法师（知识与转化）、爱人（热情与连接）。同时，每种原型都有对应的"阴影面"。

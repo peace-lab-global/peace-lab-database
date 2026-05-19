@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾临床评估与诊断 (Erotic Literature Addiction Clinical Assessment and Diagnosis)"
+description: "色情文学成瘾临床评估与诊断 (Erotic Literature Addiction Clinical Assessment and Diagnosis)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾临床评估与诊断"
+  - "色情文学成瘾临床评估与诊断的核心概念"
+  - "色情文学成瘾临床评估与诊断的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/neuroscience/sexuality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/neuroscience/sexuality"
+
+---
 # 色情文学成瘾临床评估与诊断 (Erotic Literature Addiction Clinical Assessment and Diagnosis)
 
 > 🎯 **评估指导**: 本文档提供色情文学成瘾的系统性临床评估框架和诊断工具。建议结合[概览文档](Erotic_Literature_Addiction_Overview.md)了解基础概念，参考[治疗干预](Erotic_Literature_Treatment_Interventions.md)制定治疗方案。

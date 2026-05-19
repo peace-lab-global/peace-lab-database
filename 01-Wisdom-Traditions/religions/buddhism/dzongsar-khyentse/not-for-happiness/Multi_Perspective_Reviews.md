@@ -1,3 +1,31 @@
+---
+
+title: "《不是为了快乐》三方书评"
+description: "《不是为了快乐》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Not For Happiness"
+tags: ["buddhism", "dzogchen", "philosophy"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不是为了快乐》三方书评"
+  - "《不是为了快乐》三方书评的核心概念"
+  - "《不是为了快乐》三方书评的方法与实践"
+trigger_keywords: ["body", "buddhism", "dzogchen", "emotion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "buddhism/emotion/exercise"
+
+---
 # 《不是为了快乐》三方书评
 
 ---

@@ -1,3 +1,31 @@
+---
+
+title: "Zazen 坐禅"
+description: "Zazen 坐禅的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Zazen"
+tags: ["zen", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zazen 坐禅"
+  - "Zazen 坐禅的核心概念"
+  - "Zazen 坐禅的方法与实践"
+trigger_keywords: ["Zazen 坐禅", "philosophy", "psychology", "sexuality", "zen"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # Zazen 坐禅
 
 > **最后更新**：2026-05

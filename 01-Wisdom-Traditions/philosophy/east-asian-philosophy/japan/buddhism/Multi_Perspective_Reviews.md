@@ -1,3 +1,31 @@
+---
+
+title: "日本佛教哲学三方书评"
+description: "日本佛教哲学三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > 佛教"
+tags: ["buddhism", "philosophy", "religion", "writing", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是日本佛教哲学三方书评"
+  - "日本佛教哲学三方书评的核心概念"
+  - "日本佛教哲学三方书评的方法与实践"
+trigger_keywords: ["日本佛教哲学三方书评", "buddhism", "literature", "philosophy", "psychology"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 日本佛教哲学三方书评
 
 ## 主题：铃木大拙 (D.T. Suzuki) — 禅与日本文化

@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications"
+description: "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Nidra"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications"
+  - "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的核心概念"
+  - "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的方法与实践"
+trigger_keywords: ["瑜伽尼德拉临床应用", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications
 
 > **文档类型**: 临床应用指南 | Clinical Application Guide

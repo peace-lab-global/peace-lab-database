@@ -1,3 +1,32 @@
+---
+
+title: "假期心理临床干预指南专业内容体系"
+description: "假期心理临床干预指南专业内容体系的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 应用心理学 > Holiday Psychology"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是假期心理临床干预指南专业内容体系"
+  - "假期心理临床干预指南专业内容体系的核心概念"
+  - "假期心理临床干预指南专业内容体系的方法与实践"
+  - "假期心理临床干预指南专业内容体系的自助方法"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 假期心理临床干预指南专业内容体系
 
 ## 目录

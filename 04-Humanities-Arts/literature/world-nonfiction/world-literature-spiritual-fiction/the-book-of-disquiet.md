@@ -1,3 +1,31 @@
+---
+
+title: "《不安之书》The Book of Disquiet"
+description: "《不安之书》The Book of Disquiet的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["literature", "loneliness", "phobia", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《不安之书》The Book of Disquiet"
+  - "《不安之书》The Book of Disquiet的核心概念"
+  - "《不安之书》The Book of Disquiet的方法与实践"
+trigger_keywords: ["anxiety", "death", "literature", "loneliness"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《不安之书》The Book of Disquiet
 
 > 费尔南多·佩索阿（Fernando Pessoa）著，1982年出版（遗作）。葡萄牙诗人佩索阿以他的多个"异名"（heteronyms）写作——不同的 persona 有不同的风格、哲学和声音。《不安之书》是他以"贝尔纳多·索阿雷斯"（一位簿记员）的名义写下的 fragmentary 笔记，关于孤独、无聊、梦想和存在的焦虑。

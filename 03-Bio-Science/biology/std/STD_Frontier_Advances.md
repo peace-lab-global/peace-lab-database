@@ -1,3 +1,31 @@
+---
+
+title: "Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)"
+description: "Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Std"
+tags: ["decision-making", "gut", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sexually Transmitted Diseases Frontier Advances"
+  - "Sexually Transmitted Diseases Frontier Advances的核心概念"
+  - "Sexually Transmitted Diseases Frontier Advances的方法与实践"
+trigger_keywords: ["assessment", "behavioral", "child", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "immune/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "immune/productivity/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+    relation: "immune/productivity/sexuality"
+
+---
 # Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)
 
 > 🔬 **前沿指南**: 本文档整合2024年最新WHO/CDC指南更新、前沿技术和研究进展，为性传播疾病的诊疗和防控提供最新循证指导。

@@ -1,3 +1,31 @@
+---
+
+title: "Zen Sutras In Depth (禅宗经典深度解析)"
+description: "Zen Sutras In Depth (禅宗经典深度解析)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 禅宗"
+tags: ["addiction", "zen"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Zen Sutras In Depth"
+  - "Zen Sutras In Depth的核心概念"
+  - "Zen Sutras In Depth的方法与实践"
+trigger_keywords: ["addiction", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/death/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # Zen Sutras In Depth (禅宗经典深度解析)
 
 ### Comparative Thematic Matrix: Core Sutras (根本经典对比矩阵)

@@ -1,3 +1,31 @@
+---
+
+title: "Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)"
+description: "Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "brain", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Cultural Death Rituals: A Comparative Guide"
+  - "Cultural Death Rituals: A Comparative Guide的核心概念"
+  - "Cultural Death Rituals: A Comparative Guide的方法与实践"
+trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)
 
 > *"每一种死亡仪式,都是一座文化的神庙。它告诉我们:这个文化认为什么是重要的,什么是值得在生命的终点被铭记的。"*

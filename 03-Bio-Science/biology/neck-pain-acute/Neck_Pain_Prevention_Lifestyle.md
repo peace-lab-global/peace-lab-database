@@ -1,3 +1,31 @@
+---
+
+title: "预防与日常护理 (Prevention & Daily Care)"
+description: "预防与日常护理 (Prevention & Daily Care)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
+tags: ["brain", "exercise", "habits", "inflammation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是预防与日常护理"
+  - "预防与日常护理的核心概念"
+  - "预防与日常护理的方法与实践"
+trigger_keywords: ["预防与日常护理", "assessment", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "emotion/exercise/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "emotion/exercise/immune"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "emotion/exercise/immune"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
+    relation: "emotion/exercise/immune"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
+    relation: "emotion/exercise/immune"
+
+---
 # 预防与日常护理 (Prevention & Daily Care)
 
 ## 概述

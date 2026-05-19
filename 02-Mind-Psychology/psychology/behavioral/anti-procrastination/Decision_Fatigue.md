@@ -1,3 +1,31 @@
+---
+
+title: "决策困难应对"
+description: "决策困难应对的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["decision-making", "habits", "心理学", "行为心理"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是决策困难应对"
+  - "决策困难应对的核心概念"
+  - "决策困难应对的方法与实践"
+trigger_keywords: ["决策困难应对", "assessment", "decision-making", "habits", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "productivity/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "productivity/sexuality"
+
+---
 # 决策困难应对
 
 ## 目录

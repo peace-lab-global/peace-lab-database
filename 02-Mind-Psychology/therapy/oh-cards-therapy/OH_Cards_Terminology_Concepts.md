@@ -1,3 +1,32 @@
+---
+
+title: "OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)"
+description: "OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Oh Cards Therapy"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是OH卡疗法核心术语与概念体系"
+  - "OH卡疗法核心术语与概念体系的核心概念"
+  - "OH卡疗法核心术语与概念体系的方法与实践"
+  - "OH卡疗法核心术语与概念体系的循证证据"
+trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/communication"
+
+---
 # OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)
 
 > **专业术语标准化与理论框架**

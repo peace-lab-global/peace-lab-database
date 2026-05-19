@@ -1,3 +1,31 @@
+---
+
+title: "社会学理论 | Social Theory"
+description: "社会学理论 | Social Theory的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["habits", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是社会学理论 | Social Theory"
+  - "社会学理论 | Social Theory的核心概念"
+  - "社会学理论 | Social Theory的方法与实践"
+trigger_keywords: ["社会学理论", "act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "exercise/personality/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "exercise/personality/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "exercise/personality/productivity"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "exercise/personality/productivity"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "exercise/personality/productivity"
+
+---
 # 社会学理论 | Social Theory
 
 > 社会学理论（Social Theory）是理解人类社会结构、社会关系与社会变迁的系统性思想体系。从奥古斯特·孔德（Auguste Comte）提出"社会学"这一概念，到当代全球化与数字化时代的理论创新，社会学理论不断回应着人类社会面临的核心问题：社会秩序如何可能？权力与不平等如何产生与再生产？个体与社会的关系如何理解？本框架旨在梳理社会学理论的主要脉络，为理解当代社会现象提供多元视角。

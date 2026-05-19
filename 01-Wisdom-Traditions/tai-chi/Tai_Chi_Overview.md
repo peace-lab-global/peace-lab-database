@@ -1,3 +1,31 @@
+---
+
+title: "太极拳总览 | Tai Chi Overview"
+description: "太极拳总览 | Tai Chi Overview的详细解析与实践指南"
+category: "智慧传承 > 太极拳"
+tags: ["cardiovascular", "daoism", "depression", "meditation", "tcm", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太极拳总览 | Tai Chi Overview"
+  - "太极拳总览 | Tai Chi Overview的核心概念"
+  - "太极拳总览 | Tai Chi Overview的方法与实践"
+trigger_keywords: ["太极拳总览", "act", "aging", "anxiety", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/cardiovascular/daoism"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 太极拳总览 | Tai Chi Overview
 
 > **学科定位**: 身心修炼 · 内家拳 · 中华传统武术 · 动态冥想

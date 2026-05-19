@@ -1,3 +1,31 @@
+---
+
+title: "Paraphilic Disorders: Neuroscience & Biological Mechanisms (恋物癖神经科学与生物学机制)"
+description: "Paraphilic Disorders: Neuroscience & Biological Mechanisms (恋物癖神经科学与生物学机制)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Paraphilia"
+tags: ["addiction", "aging", "attachment", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Paraphilic Disorders: Neuroscience & Biological Mechanisms"
+  - "Paraphilic Disorders: Neuroscience & Biological Mechanisms的核心概念"
+  - "Paraphilic Disorders: Neuroscience & Biological Mechanisms的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # Paraphilic Disorders: Neuroscience & Biological Mechanisms (恋物癖神经科学与生物学机制)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋物癖的神经生物学基础。相关主题请参考：

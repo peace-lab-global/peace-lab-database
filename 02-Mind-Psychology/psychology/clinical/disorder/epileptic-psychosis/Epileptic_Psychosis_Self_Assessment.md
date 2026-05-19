@@ -1,3 +1,31 @@
+---
+
+title: "Epileptic Psychosis Self-Assessment & Screening (癫痫所致精神障碍评估与筛查指南)"
+description: "Epileptic Psychosis Self-Assessment & Screening (癫痫所致精神障碍评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Epileptic Psychosis"
+tags: ["anxiety", "depression", "neuroscience", "phobia"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Epileptic Psychosis Self-Assessment & Screening"
+  - "Epileptic Psychosis Self-Assessment & Screening的核心概念"
+  - "Epileptic Psychosis Self-Assessment & Screening的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/depression/emotion"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Epileptic Psychosis Self-Assessment & Screening (癫痫所致精神障碍评估与筛查指南)
 
 > **癫痫所致精神障碍评估与筛查 (Epileptic Psychosis Assessment & Screening)**

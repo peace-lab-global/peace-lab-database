@@ -1,3 +1,31 @@
+---
+
+title: "日本真言宗护摩仪轨 (Japanese Shingon Goma Ritual)"
+description: "日本真言宗护摩仪轨 (Japanese Shingon Goma Ritual)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是日本真言宗护摩仪轨"
+  - "日本真言宗护摩仪轨的核心概念"
+  - "日本真言宗护摩仪轨的方法与实践"
+trigger_keywords: ["日本真言宗护摩仪轨", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/exercise/sexuality"
+
+---
 # 日本真言宗护摩仪轨 (Japanese Shingon Goma Ritual)
 
 > **护摩（Goma）**：日本真言宗最核心的仪轨之一，每日于高野山等寺院定时举行。以智慧火焚烧供品，供养诸佛菩萨、护法圣众，具息灾、增益、调伏、敬爱四大功能。

@@ -1,3 +1,31 @@
+---
+
+title: "营养学基础 | Nutrition Fundamentals"
+description: "营养学基础 | Nutrition Fundamentals的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > Nutritional"
+tags: ["aging", "brain", "cardiovascular", "nutrition"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是营养学基础 | Nutrition Fundamentals"
+  - "营养学基础 | Nutrition Fundamentals的核心概念"
+  - "营养学基础 | Nutrition Fundamentals的方法与实践"
+trigger_keywords: ["营养学基础", "act", "adolescent", "aging", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/depression/emotion"
+
+---
 # 营养学基础 | Nutrition Fundamentals
 
 > 营养学（Nutrition）是研究食物与人体健康关系的科学，涵盖宏量营养素（Macronutrients）、微量营养素（Micronutrients）的摄取、消化、吸收与代谢过程。理解营养学基础是进行任何饮食干预与心理健康促进的前提。本文件系统梳理营养学核心概念、理论框架、实践应用与案例分析，为临床工作者与公众提供循证参考。

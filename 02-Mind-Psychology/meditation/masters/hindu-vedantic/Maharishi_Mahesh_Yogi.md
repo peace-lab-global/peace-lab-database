@@ -1,3 +1,31 @@
+---
+
+title: "玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）"
+description: "玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Hindu Vedantic"
+tags: ["meditation", "spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）"
+  - "玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）的核心概念"
+  - "玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）的方法与实践"
+trigger_keywords: ["玛赫西", "马赫什", "exercise", "meditation", "sexuality", "spirituality"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "cardiovascular/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-relaxation-response.md"
+    relation: "cardiovascular/exercise/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "cardiovascular/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "exercise/meditation/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "exercise/meditation/productivity"
+
+---
 # 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）
 
 > 超觉冥想的创始人——将冥想带入主流科学和流行文化的争议性大师

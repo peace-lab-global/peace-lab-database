@@ -1,3 +1,31 @@
+---
+
+title: "《紫色气球》The Purple Balloon"
+description: "《紫色气球》The Purple Balloon的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["grief"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《紫色气球》The Purple Balloon"
+  - "《紫色气球》The Purple Balloon的核心概念"
+  - "《紫色气球》The Purple Balloon的方法与实践"
+trigger_keywords: ["art", "body", "child", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 《紫色气球》The Purple Balloon
 
 **作者**：克里斯·拉斯卡 (Chris Raschka) 文/图  

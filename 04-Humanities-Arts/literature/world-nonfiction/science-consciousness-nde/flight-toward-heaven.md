@@ -1,3 +1,31 @@
+---
+
+title: "《飞向天堂》Flight Toward Heaven"
+description: "《飞向天堂》Flight Toward Heaven的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["healing", "literature", "ocd"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《飞向天堂》Flight Toward Heaven"
+  - "《飞向天堂》Flight Toward Heaven的核心概念"
+  - "《飞向天堂》Flight Toward Heaven的方法与实践"
+trigger_keywords: ["anxiety", "body", "clinical", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+
+---
 # 《飞向天堂》Flight Toward Heaven
 
 **作者：** 多洛莉丝·坎农 (Dolores Cannon)  

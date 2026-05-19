@@ -1,3 +1,31 @@
+---
+
+title: "《心智生态学》Steps to an Ecology of Mind"
+description: "《心智生态学》Steps to an Ecology of Mind的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《心智生态学》Steps to an Ecology of Mind"
+  - "《心智生态学》Steps to an Ecology of Mind的核心概念"
+  - "《心智生态学》Steps to an Ecology of Mind的方法与实践"
+trigger_keywords: ["behavioral", "brain", "buddhism", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/neuroscience"
+
+---
 # 《心智生态学》Steps to an Ecology of Mind
 
 > 格雷戈里·贝特森（Gregory Bateson）著，1972年出版。英国人类学家、控制论学家、系统思想家。这本书汇集了贝特森三十年来的论文，提出了一个革命性的观点：**心智不是存在于个体大脑中，而是存在于整个生态系统中——包括人与人、人与自然、人与文化之间的关系网络。**

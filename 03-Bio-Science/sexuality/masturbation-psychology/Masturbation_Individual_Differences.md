@@ -1,3 +1,31 @@
+---
+
+title: "Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)"
+description: "Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Individual Differences and Personality Factors in Masturbation"
+  - "Individual Differences and Personality Factors in Masturbation的核心概念"
+  - "Individual Differences and Personality Factors in Masturbation的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)
 
 > 基于差异心理学、人格心理学与社会心理学研究，系统分析性别、人格特质、性取向、宗教信仰与文化背景等因素对自慰行为模式的影响。所有内容基于循证研究，旨在呈现自慰行为的多元变异性与正常谱系。

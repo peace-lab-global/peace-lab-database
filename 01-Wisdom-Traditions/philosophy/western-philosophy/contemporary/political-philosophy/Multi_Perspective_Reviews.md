@@ -1,3 +1,31 @@
+---
+
+title: "当代政治哲学经典三方书评"
+description: "当代政治哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Political Philosophy"
+tags: ["habits", "philosophy", "self-esteem"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是当代政治哲学经典三方书评"
+  - "当代政治哲学经典三方书评的核心概念"
+  - "当代政治哲学经典三方书评的方法与实践"
+trigger_keywords: ["aging", "body", "cognitive", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+    relation: "aging/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+    relation: "aging/emotion/productivity"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "aging/emotion/productivity"
+
+---
 # 当代政治哲学经典三方书评
 
 > 评述对象：**玛莎·努斯鲍姆**（Martha Nussbaum, 1947—）

@@ -1,3 +1,31 @@
+---
+
+title: "《密续入门》Introduction to Tantra"
+description: "《密续入门》Introduction to Tantra的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["yoga", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《密续入门》Introduction to Tantra"
+  - "《密续入门》Introduction to Tantra的核心概念"
+  - "《密续入门》Introduction to Tantra的方法与实践"
+trigger_keywords: ["buddhism", "death", "sexuality", "yoga"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 《密续入门》Introduction to Tantra
 
 >  喇嘛图登耶喜（Lama Thubten Yeshe）著，1987年出版。藏传佛教格鲁派和宁玛派大师，以向西方学生传授密宗而闻名。这本书是西方语言中关于藏传佛教密宗最清晰、最 accessible 的入门之一。

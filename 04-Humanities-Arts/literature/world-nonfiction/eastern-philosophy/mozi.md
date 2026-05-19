@@ -1,3 +1,31 @@
+---
+
+title: "《墨子》Mozi"
+description: "《墨子》Mozi的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["daoism", "positive-psychology", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《墨子》Mozi"
+  - "《墨子》Mozi的核心概念"
+  - "《墨子》Mozi的方法与实践"
+trigger_keywords: ["《墨子》Mozi", "behavioral", "cognitive", "daoism", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/daoism/sexuality"
+
+---
 # 《墨子》Mozi
 
 > 墨子（Mozi，约公元前468—前376年）及其弟子著，战国初期思想家，墨家学派创始人。墨子名翟，宋国人（一说鲁国人），出身平民，曾学儒者之业，后因不满儒家的礼乐制度和宿命论，自立学派。《墨子》原书71篇，现存53篇，内容涵盖哲学、逻辑、伦理、政治、军事、科技等多个领域。墨家曾与儒家并称"显学"，但在汉代以后逐渐式微。

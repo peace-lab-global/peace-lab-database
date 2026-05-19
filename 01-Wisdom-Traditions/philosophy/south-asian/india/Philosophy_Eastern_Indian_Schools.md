@@ -1,3 +1,31 @@
+---
+
+title: "Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)"
+description: "Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > South Asian > India"
+tags: ["intervention", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Eastern Philosophy: Indian Philosophical Schools"
+  - "Eastern Philosophy: Indian Philosophical Schools的核心概念"
+  - "Eastern Philosophy: Indian Philosophical Schools的方法与实践"
+trigger_keywords: ["act", "anxiety", "body", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)
 
 ### I. Samkhya: The Dualistic Cosmology (数论派：二元论宇宙观详表)

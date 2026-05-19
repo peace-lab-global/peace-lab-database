@@ -1,3 +1,31 @@
+---
+
+title: "《幻觉》Hallucinations"
+description: "《幻觉》Hallucinations的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
+tags: ["phobia", "sleep", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《幻觉》Hallucinations"
+  - "《幻觉》Hallucinations的核心概念"
+  - "《幻觉》Hallucinations的方法与实践"
+trigger_keywords: ["brain", "death", "neuroscience", "phobia"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+    relation: "anxiety/death/neuroscience"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/death/neuroscience"
+
+---
 # 《幻觉》Hallucinations
 
 > 奥利弗·萨克斯（Oliver Sacks）著，2012年出版。萨克斯的最后一本主要著作，探索了各种幻觉体验——从偏头痛的视觉幻觉到帕金森药物导致的"小人幻觉"，从睡眠瘫痪到濒死体验中的"光"。萨克斯以他标志性的同理心，展示了幻觉不是"疯狂"，而是**大脑在特定条件下的正常运作**。

@@ -1,3 +1,31 @@
+---
+
+title: "犹太哲学经典三方书评"
+description: "犹太哲学经典三方书评的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Jewish"
+tags: ["philosophy", "religion", "writing", "哲学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是犹太哲学经典三方书评"
+  - "犹太哲学经典三方书评的核心概念"
+  - "犹太哲学经典三方书评的方法与实践"
+trigger_keywords: ["犹太哲学经典三方书评", "behavioral", "philosophy", "religion", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "exercise/sexuality"
+
+---
 # 犹太哲学经典三方书评
 
 > 本期聚焦：迈蒙尼德（Moses Maimonides, 1138–1204）及其核心著作《迷途指津》（*Dalālat al-Ḥā'irīn* / *Guide for the Perplexed*）

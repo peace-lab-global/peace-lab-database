@@ -1,3 +1,31 @@
+---
+
+title: "咖啡因成瘾预防与早期干预 (Caffeine Addiction Prevention & Early Intervention)"
+description: "咖啡因成瘾预防与早期干预 (Caffeine Addiction Prevention & Early Intervention)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
+tags: ["addiction", "anxiety", "cbt", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是咖啡因成瘾预防与早期干预"
+  - "咖啡因成瘾预防与早期干预的核心概念"
+  - "咖啡因成瘾预防与早期干预的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 咖啡因成瘾预防与早期干预 (Caffeine Addiction Prevention & Early Intervention)
 
 ## 1. 预防框架与理论基础 (Prevention Framework & Theoretical Foundation)

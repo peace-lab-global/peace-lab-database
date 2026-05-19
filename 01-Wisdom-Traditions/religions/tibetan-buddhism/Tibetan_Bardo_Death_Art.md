@@ -1,3 +1,31 @@
+---
+
+title: "藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)"
+description: "藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["attachment", "buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是藏传中阴与死亡艺术"
+  - "藏传中阴与死亡艺术的核心概念"
+  - "藏传中阴与死亡艺术的方法与实践"
+trigger_keywords: ["藏传中阴与死亡艺术", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "03-Bio-Science/death/Death_Resources_Bibliography.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "README.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)
 
 > **中阴 (Bardo)**：藏语བར་དོ (Bar-do)，意为"中间状态"，指任何两种状态之间的过渡期，尤其指死亡与再生之间的状态。

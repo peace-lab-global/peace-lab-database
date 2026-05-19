@@ -1,3 +1,31 @@
+---
+
+title: "色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)"
+description: "色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是色情文学成瘾预防教育与社会支持体系"
+  - "色情文学成瘾预防教育与社会支持体系的核心概念"
+  - "色情文学成瘾预防教育与社会支持体系的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "attachment/communication/emotion"
+  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
+    relation: "attachment/communication/emotion"
+
+---
 # 色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)
 
 > 🛡️ **预防指导**: 本文档提供色情文学成瘾的系统性预防教育策略和社会支持体系建设方案。建议结合[治疗干预](Erotic_Literature_Treatment_Interventions.md)了解治疗方法，参考[形成机制](Erotic_Literature_Formation_Mechanisms.md)理解风险因素。

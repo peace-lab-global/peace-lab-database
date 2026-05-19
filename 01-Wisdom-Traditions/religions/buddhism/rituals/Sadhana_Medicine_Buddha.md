@@ -1,3 +1,31 @@
+---
+
+title: "药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)"
+description: "药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["healing", "longevity", "pain", "positive-psychology", "therapy", "buddhism"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是药师佛完整修持仪轨"
+  - "药师佛完整修持仪轨的核心概念"
+  - "药师佛完整修持仪轨的方法与实践"
+trigger_keywords: ["药师佛完整修持仪轨", "anxiety", "healing", "longevity", "pain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)
 
 > **药师佛 (Bhaisajyaguru / Medicine Buddha / Yaoshi Fo)**：东方净琉璃世界教主，发愿消除众生病苦、延长寿命、增进福报。此仪轨涵盖药师佛观想、药师咒修持、十二大愿发愿、药师法门的完整体系。

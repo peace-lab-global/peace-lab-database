@@ -1,3 +1,31 @@
+---
+
+title: "书法疗愈总览 | Calligraphy Therapy Overview"
+description: "书法疗愈总览 | Calligraphy Therapy Overview的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
+tags: ["calligraphy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是书法疗愈总览 | Calligraphy Therapy Overview"
+  - "书法疗愈总览 | Calligraphy Therapy Overview的核心概念"
+  - "书法疗愈总览 | Calligraphy Therapy Overview的方法与实践"
+trigger_keywords: ["书法疗愈总览", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 书法疗愈总览 | Calligraphy Therapy Overview
 
 > **学科定位**: 艺术疗愈 (Art Therapy) / 表达性艺术治疗 (Expressive Arts Therapy) 分支

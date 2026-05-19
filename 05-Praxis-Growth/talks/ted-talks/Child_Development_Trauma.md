@@ -1,3 +1,31 @@
+---
+
+title: "童年创伤与发展 | Child Development & Trauma"
+description: "童年创伤与发展 | Child Development & Trauma的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是童年创伤与发展 | Child Development & Trauma"
+  - "童年创伤与发展 | Child Development & Trauma的核心概念"
+  - "童年创伤与发展 | Child Development & Trauma的方法与实践"
+trigger_keywords: ["童年创伤与发展", "act", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "attachment/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "attachment/cardiovascular/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "attachment/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "attachment/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "communication/depression/emotion"
+
+---
 # 童年创伤与发展 | Child Development & Trauma
 
 > **童年创伤**（Childhood Trauma）是指在儿童期经历的虐待、忽视、家庭暴力、父母物质滥用等不良经历（Adverse Childhood Experiences, ACEs）。这些早期创伤不仅影响儿童的心理发展，还通过神经生物学机制对终身健康产生深远影响。本文件精选TED平台上关于童年创伤与发展的代表性演讲，揭示早期经历如何塑造大脑发育和人生轨迹。

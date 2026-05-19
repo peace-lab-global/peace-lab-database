@@ -1,3 +1,31 @@
+---
+
+title: "应成中观传统 (Prāsaṅgika Mādhyamika Tradition)"
+description: "应成中观传统 (Prāsaṅgika Mādhyamika Tradition)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["dzogchen", "philosophy", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是应成中观传统"
+  - "应成中观传统的核心概念"
+  - "应成中观传统的方法与实践"
+trigger_keywords: ["应成中观传统", "act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "buddhism/meditation/neuroscience"
+
+---
 # 应成中观传统 (Prāsaṅgika Mādhyamika Tradition)
 
 > **应成中观 (Prāsaṅgika)**：中观学最彻底的一支。如果说龙树是"拆的开创者"，那月称就是"拆到底的集大成者"。应成派不给你留任何一个可以站的"观点"——连"空性"本身也不让你站。

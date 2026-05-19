@@ -1,3 +1,31 @@
+---
+
+title: "C3-2 冥想与止观：第四讲：练习止的方式-1"
+description: "C3-2 冥想与止观：第四讲：练习止的方式-1的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["habits", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C3-2 冥想与止观：第四讲：练习止的方式-1"
+  - "C3-2 冥想与止观：第四讲：练习止的方式-1的核心概念"
+  - "C3-2 冥想与止观：第四讲：练习止的方式-1的方法与实践"
+trigger_keywords: ["body", "breathwork", "developmental", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_History_Tradition.md"
+    relation: "emotion/exercise/meditation"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C3-2 冥想与止观：第四讲：练习止的方式-1
 
 📑 智能总结

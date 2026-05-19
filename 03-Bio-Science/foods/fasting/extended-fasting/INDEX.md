@@ -1,3 +1,31 @@
+---
+
+title: "Extended Fasting | 延长断食专题索引"
+description: "Extended Fasting | 延长断食专题索引的详细解析与实践指南"
+category: "生命科学与生物医学 > 营养学 > 断食 > Extended Fasting"
+tags: ["fasting", "immune", "nutrition", "sexuality", "断食"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Extended Fasting | 延长断食专题索引"
+  - "Extended Fasting | 延长断食专题索引的核心概念"
+  - "Extended Fasting | 延长断食专题索引的方法与实践"
+trigger_keywords: ["延长断食专题索引", "adolescent", "body", "clinical", "fasting"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/emotion/immune"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Gut_Brain_Axis.md"
+    relation: "aging/emotion/immune"
+  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
+    relation: "aging/emotion/immune"
+
+---
 # Extended Fasting | 延长断食专题索引
 
 > 深度代谢重启与细胞再生：24/48/72小时断食与液断完整指南

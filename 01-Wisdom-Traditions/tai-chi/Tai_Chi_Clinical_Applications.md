@@ -1,3 +1,31 @@
+---
+
+title: "太极拳临床应用 | Tai Chi Clinical Applications"
+description: "太极拳临床应用 | Tai Chi Clinical Applications的详细解析与实践指南"
+category: "智慧传承 > 太极拳"
+tags: ["cardiovascular", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是太极拳临床应用 | Tai Chi Clinical Applications"
+  - "太极拳临床应用 | Tai Chi Clinical Applications的核心概念"
+  - "太极拳临床应用 | Tai Chi Clinical Applications的方法与实践"
+trigger_keywords: ["太极拳临床应用", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 太极拳临床应用 | Tai Chi Clinical Applications
 
 > **学科定位**: 运动康复 · 补充替代医学 · 老年医学 · 慢病管理

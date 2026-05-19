@@ -1,3 +1,31 @@
+---
+
+title: "C4 第四周作业"
+description: "C4 第四周作业的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["loneliness", "meditation", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4 第四周作业"
+  - "C4 第四周作业的核心概念"
+  - "C4 第四周作业的方法与实践"
+trigger_keywords: ["C4 第四周作业", "body", "breathwork", "cognitive", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+    relation: "emotion/meditation/productivity"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/meditation/productivity"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "emotion/meditation/productivity"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "emotion/meditation/productivity"
+
+---
 # C4 第四周作业
 
 # 作业

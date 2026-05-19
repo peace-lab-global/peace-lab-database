@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教早晚课仪轨 (Chinese Buddhist Daily Practice)"
+description: "汉传佛教早晚课仪轨 (Chinese Buddhist Daily Practice)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "dzogchen", "zen", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是汉传佛教早晚课仪轨"
+  - "汉传佛教早晚课仪轨的核心概念"
+  - "汉传佛教早晚课仪轨的方法与实践"
+trigger_keywords: ["汉传佛教早晚课仪轨", "act", "buddhism", "developmental", "dzogchen"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 汉传佛教早晚课仪轨 (Chinese Buddhist Daily Practice)
 
 > **朝暮课诵 (Morning and Evening Service)**：汉传佛教寺院每日必修的功课，是两千年来汉地佛教修行最基本、最普遍的仪轨形式。以念诵、礼拜、回向为核心，集忏悔、发愿、持咒、念佛于一体。

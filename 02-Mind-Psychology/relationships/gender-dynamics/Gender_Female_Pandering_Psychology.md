@@ -1,3 +1,32 @@
+---
+
+title: "媚女行为模式心理机制研究 (Female-Pandering Psychology: Mechanisms & Integration)"
+description: "媚女行为模式心理机制研究 (Female-Pandering Psychology: Mechanisms & Integration)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Gender Dynamics"
+tags: ["addiction", "anxiety", "attachment", "cbt", "personality", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是媚女行为模式心理机制研究"
+  - "媚女行为模式心理机制研究的核心概念"
+  - "媚女行为模式心理机制研究的方法与实践"
+  - "媚女行为模式心理机制研究的自助方法"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 媚女行为模式心理机制研究 (Female-Pandering Psychology: Mechanisms & Integration)
 
 ## 核心术语与概念界定 (Core Terminology & Conceptual Framework)

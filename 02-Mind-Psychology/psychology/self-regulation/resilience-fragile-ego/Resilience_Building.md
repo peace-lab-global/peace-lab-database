@@ -1,3 +1,32 @@
+---
+
+title: "心理韧性构建"
+description: "心理韧性构建的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["anxiety"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是心理韧性构建"
+  - "心理韧性构建的核心概念"
+  - "心理韧性构建的方法与实践"
+  - "心理韧性构建的自助方法"
+trigger_keywords: ["心理韧性构建", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/exercise"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 心理韧性构建
 
 ## 目录

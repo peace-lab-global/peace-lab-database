@@ -1,3 +1,31 @@
+---
+
+title: "职业发展 | Career Development"
+description: "职业发展 | Career Development的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["ocd", "personality", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业发展 | Career Development"
+  - "职业发展 | Career Development的核心概念"
+  - "职业发展 | Career Development的方法与实践"
+trigger_keywords: ["职业发展", "body", "brain", "developmental", "ocd"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Enneagram_System.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
+    relation: "communication/exercise/neuroscience"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-etudes/Chopin_Etudes_Overview.md"
+    relation: "communication/exercise/neuroscience"
+
+---
 # 职业发展 | Career Development
 
 > **职业发展**（Career Development）是每个人终身面对的核心课题——从职业规划（Career Planning）到技能提升（Skill Enhancement），从职业转型（Career Transition）到工作与生活平衡（Work-Life Balance）。在AI时代，传统的线性职业路径正在被"组合式职业"（Portfolio Career）所取代。本文件精选TED平台上关于职业发展的代表性演讲，帮助读者在变革的时代找到职业方向和成长策略。

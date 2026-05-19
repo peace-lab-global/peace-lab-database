@@ -1,3 +1,31 @@
+---
+
+title: "书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology"
+description: "书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
+tags: ["calligraphy"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology"
+  - "书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology的核心概念"
+  - "书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology的方法与实践"
+trigger_keywords: ["书法疗愈神经科学", "act", "aging", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology
 
 > **文档定位**: 书法书写过程中的神经科学机制、脑区激活模式与心理生理学证据

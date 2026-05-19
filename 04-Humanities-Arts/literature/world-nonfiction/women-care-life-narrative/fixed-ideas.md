@@ -1,3 +1,31 @@
+---
+
+title: "《固定的想法》Fixed Ideas"
+description: "《固定的想法》Fixed Ideas的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是《固定的想法》Fixed Ideas"
+  - "《固定的想法》Fixed Ideas的核心概念"
+  - "《固定的想法》Fixed Ideas的方法与实践"
+trigger_keywords: ["act", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "death/depression/therapy"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "death/depression/therapy"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "death/depression/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "death/depression/therapy"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+    relation: "death/depression/therapy"
+
+---
 # 《固定的想法》Fixed Ideas
 
 **作者**：琼·狄迪恩 (Joan Didion)  

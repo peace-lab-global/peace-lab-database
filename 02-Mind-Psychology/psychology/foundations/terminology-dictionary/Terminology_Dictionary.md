@@ -1,3 +1,31 @@
+---
+
+title: "平静实验室专业术语词典 (Peace Lab Professional Terminology Dictionary)"
+description: "平静实验室专业术语词典 (Peace Lab Professional Terminology Dictionary)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础 > Terminology Dictionary"
+tags: ["addiction", "anxiety", "attachment", "emdr", "cbt", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是平静实验室专业术语词典"
+  - "平静实验室专业术语词典的核心概念"
+  - "平静实验室专业术语词典的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # 平静实验室专业术语词典 (Peace Lab Professional Terminology Dictionary)
 
 ## 📋 术语标准化规范

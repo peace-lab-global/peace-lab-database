@@ -1,3 +1,31 @@
+---
+
+title: "一席教育与学习精选 | YiXi Education & Learning Collection"
+description: "一席教育与学习精选 | YiXi Education & Learning Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Yixi Talks"
+tags: ["productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是一席教育与学习精选 | YiXi Education & Learning Collection"
+  - "一席教育与学习精选 | YiXi Education & Learning Collection的核心概念"
+  - "一席教育与学习精选 | YiXi Education & Learning Collection的方法与实践"
+trigger_keywords: ["一席教育与学习精选", "art", "assessment", "cognitive", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/neuroscience/productivity"
+
+---
 # 一席教育与学习精选 | YiXi Education & Learning Collection
 
 > **教育与学习**是人类文明传承和创新的根本。本文件精选一席平台上关于教育改革、学习科学、人才培养等教育领域的优质演讲，为教育工作者、学习者和关心教育发展的各界人士提供前沿理念和实践指导。

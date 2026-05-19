@@ -1,3 +1,31 @@
+---
+
+title: "Community Resources (社区、社群与社会支持)"
+description: "Community Resources (社区、社群与社会支持)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Community Resources"
+  - "Community Resources的核心概念"
+  - "Community Resources的方法与实践"
+trigger_keywords: ["act", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # Community Resources (社区、社群与社会支持)
 
 ### 认证项目与培训表

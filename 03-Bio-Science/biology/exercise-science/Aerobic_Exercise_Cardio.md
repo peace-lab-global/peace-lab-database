@@ -1,3 +1,31 @@
+---
+
+title: "有氧运动与心肺适能 (Aerobic Exercise & Cardiorespiratory Fitness)"
+description: "有氧运动与心肺适能 (Aerobic Exercise & Cardiorespiratory Fitness)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 运动科学"
+tags: ["cardiovascular", "death", "exercise", "habits", "productivity", "sexuality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是有氧运动与心肺适能"
+  - "有氧运动与心肺适能的核心概念"
+  - "有氧运动与心肺适能的方法与实践"
+trigger_keywords: ["有氧运动与心肺适能", "act", "body", "cardiovascular", "death"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
+    relation: "cardiovascular/death/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "cardiovascular/death/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "cardiovascular/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "death/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "death/exercise/productivity"
+
+---
 # 有氧运动与心肺适能 (Aerobic Exercise & Cardiorespiratory Fitness)
 
 > **领域定位**: 03-Bio-Science / biology / exercise-science

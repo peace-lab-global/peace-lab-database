@@ -1,3 +1,31 @@
+---
+
+title: "Shamanic Healing Journey (萨满疗愈与灵魂之旅)"
+description: "Shamanic Healing Journey (萨满疗愈与灵魂之旅)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Shamanic Healing Journey"
+  - "Shamanic Healing Journey的核心概念"
+  - "Shamanic Healing Journey的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_General_Resources.md"
+    relation: "anxiety/communication/exercise"
+
+---
 # Shamanic Healing Journey (萨满疗愈与灵魂之旅)
 
 ## 1. Core Terminology (核心术语表)

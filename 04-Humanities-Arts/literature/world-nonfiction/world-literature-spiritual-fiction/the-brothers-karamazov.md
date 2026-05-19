@@ -1,3 +1,31 @@
+---
+
+title: "《卡拉马佐夫兄弟》The Brothers Karamazov"
+description: "《卡拉马佐夫兄弟》The Brothers Karamazov的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["habits", "literature", "phobia", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《卡拉马佐夫兄弟》The Brothers Karamazov"
+  - "《卡拉马佐夫兄弟》The Brothers Karamazov的核心概念"
+  - "《卡拉马佐夫兄弟》The Brothers Karamazov的方法与实践"
+trigger_keywords: ["art", "behavioral", "habits", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
+    relation: "anxiety/art_therapy/emotion"
+
+---
 # 《卡拉马佐夫兄弟》The Brothers Karamazov
 
 **作者**：费奥多尔·陀思妥耶夫斯基 (Fyodor Dostoevsky)  

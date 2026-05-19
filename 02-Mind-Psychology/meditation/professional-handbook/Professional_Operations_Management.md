@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师运营管理 | Professional Operations Management"
+description: "冥想执行师运营管理 | Professional Operations Management的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["habits", "healing", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师运营管理 | Professional Operations Management"
+  - "冥想执行师运营管理 | Professional Operations Management的核心概念"
+  - "冥想执行师运营管理 | Professional Operations Management的方法与实践"
+trigger_keywords: ["冥想执行师运营管理", "assessment", "body", "breathwork", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "emotion/meditation/productivity"
+
+---
 # 冥想执行师运营管理 | Professional Operations Management
 
 > **领域**：冥想执行师职业手册 — 运营管理

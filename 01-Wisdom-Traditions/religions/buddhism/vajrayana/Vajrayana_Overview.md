@@ -1,3 +1,31 @@
+---
+
+title: "金刚乘概览 (Vajrayana Overview)"
+description: "金刚乘概览 (Vajrayana Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
+tags: ["buddhism", "dzogchen", "mandala", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是金刚乘概览"
+  - "金刚乘概览的核心概念"
+  - "金刚乘概览的方法与实践"
+trigger_keywords: ["金刚乘概览", "act", "body", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/communication/meditation"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Practical_Guide.md"
+    relation: "buddhism/communication/meditation"
+
+---
 # 金刚乘概览 (Vajrayana Overview)
 
 > **金刚乘 (Vajrayana)**：大乘佛教的密教分支，以金刚(不坏之智)为喻，通过灌顶、真言、手印、观想等方便善巧，实现即身成佛的快速解脱道。

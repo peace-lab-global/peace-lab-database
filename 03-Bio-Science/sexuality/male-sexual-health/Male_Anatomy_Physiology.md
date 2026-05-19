@@ -1,3 +1,31 @@
+---
+
+title: "Male Anatomy and Physiology (男性解剖与生理基础)"
+description: "Male Anatomy and Physiology (男性解剖与生理基础)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Male Sexual Health"
+tags: ["brain", "cardiovascular", "cortisol", "depression", "inflammation", "sexuality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Male Anatomy and Physiology"
+  - "Male Anatomy and Physiology的核心概念"
+  - "Male Anatomy and Physiology的方法与实践"
+trigger_keywords: ["assessment", "brain", "cardiovascular", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/communication/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "communication/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "cardiovascular/communication/depression"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
+    relation: "cardiovascular/depression/emotion"
+
+---
 # Male Anatomy and Physiology (男性解剖与生理基础)
 
 ## 概述

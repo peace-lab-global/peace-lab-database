@@ -1,3 +1,32 @@
+---
+
+title: "职场语言霸凌与PUA：心理学机制分析 (Psychological Mechanisms of Workplace Verbal Bullying & PUA)"
+description: "职场语言霸凌与PUA：心理学机制分析 (Psychological Mechanisms of Workplace Verbal Bullying & PUA)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Workplace Expression"
+tags: ["addiction", "communication", "intervention", "leadership", "personality"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职场语言霸凌与PUA：心理学机制分析"
+  - "职场语言霸凌与PUA：心理学机制分析的核心概念"
+  - "职场语言霸凌与PUA：心理学机制分析的方法与实践"
+  - "职场语言霸凌与PUA：心理学机制分析的自助方法"
+trigger_keywords: ["addiction", "behavioral", "cognitive", "communication"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/emotion"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 职场语言霸凌与PUA：心理学机制分析 (Psychological Mechanisms of Workplace Verbal Bullying & PUA)
 
 > **定位**：从认知、情绪、依附与压力反应机制解释为什么语言霸凌和PUA会让人持续内耗、自责、顺从甚至失去行动力

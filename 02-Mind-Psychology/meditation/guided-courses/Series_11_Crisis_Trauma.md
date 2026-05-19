@@ -1,3 +1,32 @@
+---
+
+title: "系列十一：心理危机与创伤系列 | Crisis & Trauma Series"
+description: "系列十一：心理危机与创伤系列 | Crisis & Trauma Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["addiction", "anxiety", "brain", "cinema", "trauma", "mbct"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列十一：心理危机与创伤系列 | Crisis & Trauma Series"
+  - "系列十一：心理危机与创伤系列 | Crisis & Trauma Series的核心概念"
+  - "系列十一：心理危机与创伤系列 | Crisis & Trauma Series的方法与实践"
+  - "系列十一：心理危机与创伤系列 | Crisis & Trauma Series的自助方法"
+trigger_keywords: ["addiction", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/exercise"
+  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 系列十一：心理危机与创伤系列 | Crisis & Trauma Series
 
 > **级别**：Level 2-4（初中高级混合）

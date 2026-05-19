@@ -1,3 +1,31 @@
+---
+
+title: "《明亮的时刻》The Bright Hour"
+description: "《明亮的时刻》The Bright Hour的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["phobia", "suicide", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《明亮的时刻》The Bright Hour"
+  - "《明亮的时刻》The Bright Hour的核心概念"
+  - "《明亮的时刻》The Bright Hour的方法与实践"
+trigger_keywords: ["anxiety", "breathwork", "death", "phobia"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "anxiety/death/depression"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "anxiety/death/depression"
+
+---
 # 《明亮的时刻》The Bright Hour
 
 > 妮娜·里格斯（Nina Riggs）著，2017年出版。诗人、散文家里格斯在38岁被诊断出乳腺癌（与母亲相同的疾病）后写下的 memoir。书名来自爱默生："在黄昏里藏着一个明亮的时刻。"她在书完成前去世，年仅39岁。

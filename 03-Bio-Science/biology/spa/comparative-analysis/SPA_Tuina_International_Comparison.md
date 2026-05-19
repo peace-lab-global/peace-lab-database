@@ -1,3 +1,31 @@
+---
+
+title: "SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)"
+description: "SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa > Comparative Analysis"
+tags: ["daoism", "decision-making", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是SPA与中医推拿国际比较分析"
+  - "SPA与中医推拿国际比较分析的核心概念"
+  - "SPA与中医推拿国际比较分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "anxiety/daoism/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_17_Nature_Elements.md"
+    relation: "anxiety/daoism/depression"
+
+---
 # SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)
 
 > 🌍 **跨文化视野**: 本文档从全球化视角深入比较SPA水疗与中医推拿在理论基础、技术特色、临床应用、产业化发展等方面的异同，探讨两种疗法在现代healthcare体系中的互补性与融合可能性。

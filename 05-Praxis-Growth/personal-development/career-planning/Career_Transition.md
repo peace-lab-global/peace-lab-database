@@ -1,3 +1,31 @@
+---
+
+title: "职业转型 | Career Transition"
+description: "职业转型 | Career Transition的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Career Planning"
+tags: ["communication", "decision-making", "financial-literacy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是职业转型 | Career Transition"
+  - "职业转型 | Career Transition的核心概念"
+  - "职业转型 | Career Transition的方法与实践"
+trigger_keywords: ["职业转型", "assessment", "behavioral", "cognitive", "communication"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/death/depression"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "anxiety/communication/death"
+
+---
 # 职业转型 | Career Transition
 
 > **学科定位**: 生涯转换 · 职业心理学 · 成人发展

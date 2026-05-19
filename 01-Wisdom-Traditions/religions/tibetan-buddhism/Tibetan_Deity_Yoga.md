@@ -1,3 +1,31 @@
+---
+
+title: "本尊瑜伽 (Deity Yoga / Yidam Practice)"
+description: "本尊瑜伽 (Deity Yoga / Yidam Practice)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "mandala", "meditation", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是本尊瑜伽"
+  - "本尊瑜伽的核心概念"
+  - "本尊瑜伽的方法与实践"
+trigger_keywords: ["本尊瑜伽", "act", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "buddhism/death/meditation"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "buddhism/death/meditation"
+
+---
 # 本尊瑜伽 (Deity Yoga / Yidam Practice)
 
 > **本尊瑜伽 (Deity Yoga)**：金刚乘修行的核心方法，通过观想自己为本尊、持诵真言、住于佛慢，转化凡庸身口意为清净三密，实现快速成就的方便道。

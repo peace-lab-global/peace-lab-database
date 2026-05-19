@@ -1,3 +1,21 @@
+---
+
+title: "黄帝内经·素问 (Huangdi Neijing Suwen)"
+description: "黄帝内经·素问 (Huangdi Neijing Suwen)的详细解析与实践指南"
+category: "智慧传承 > 中医内经 > Classics"
+tags: ["gut", "中医内经"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是黄帝内经·素问"
+  - "黄帝内经·素问的核心概念"
+  - "黄帝内经·素问的方法与实践"
+trigger_keywords: ["黄帝内经", "素问", "body", "breathwork", "gut", "sexuality"]
+cross_refs: []
+
+---
 # 黄帝内经·素问 (Huangdi Neijing Suwen)
 
 ## 基本信息

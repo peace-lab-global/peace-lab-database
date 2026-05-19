@@ -1,3 +1,31 @@
+---
+
+title: "《正念的奇迹》The Miracle of Mindfulness"
+description: "《正念的奇迹》The Miracle of Mindfulness的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正念的奇迹》The Miracle of Mindfulness"
+  - "《正念的奇迹》The Miracle of Mindfulness的核心概念"
+  - "《正念的奇迹》The Miracle of Mindfulness的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 《正念的奇迹》The Miracle of Mindfulness
 
 > 一行禅师（Thich Nhat Hanh）著，1975年出版。写给一位社会运动战友的长信，后来成为 mindfulness 运动最具影响力的经典之一。书中展示了如何在洗碗、喝茶、走路中练习觉悟——不需要寺庙，不需要闭关，只需要此刻的觉知。

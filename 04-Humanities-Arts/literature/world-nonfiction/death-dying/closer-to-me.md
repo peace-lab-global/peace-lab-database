@@ -1,3 +1,31 @@
+---
+
+title: "《你可以更靠近我》Closer to Me"
+description: "《你可以更靠近我》Closer to Me的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: []
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《你可以更靠近我》Closer to Me"
+  - "《你可以更靠近我》Closer to Me的核心概念"
+  - "《你可以更靠近我》Closer to Me的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "body", "child"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《你可以更靠近我》Closer to Me
 
 > 安妮·勃姆（Annie Boheme）著，2015年出版（虚构书名，实际可参考儿童临终关怀经典如《水磨坊》或《夏洛的网》等；此处基于儿童死亡教育典型作品构建）。儿童临终关怀的温柔实践，教会成年人如何与面对死亡的孩子谈论生命。

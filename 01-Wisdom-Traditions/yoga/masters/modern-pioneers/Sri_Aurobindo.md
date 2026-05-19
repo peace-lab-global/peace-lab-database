@@ -1,3 +1,31 @@
+---
+
+title: "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）"
+description: "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
+tags: ["philosophy", "spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）"
+  - "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的核心概念"
+  - "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的方法与实践"
+trigger_keywords: ["室利", "body", "emotion", "exercise", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "emotion/exercise/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "emotion/exercise/sexuality"
+
+---
 # 室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）
 
 > 整合瑜伽的创立者——从革命家到灵性哲学家的超越之路

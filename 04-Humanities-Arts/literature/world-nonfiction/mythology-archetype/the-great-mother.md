@@ -1,3 +1,31 @@
+---
+
+title: "《大母神》The Great Mother"
+description: "《大母神》The Great Mother的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《大母神》The Great Mother"
+  - "《大母神》The Great Mother的核心概念"
+  - "《大母神》The Great Mother的方法与实践"
+trigger_keywords: ["art", "body", "death", "jung"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+    relation: "art_therapy/death/sexuality"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "art_therapy/death/sexuality"
+
+---
 # 《大母神》The Great Mother
 
 > 埃利希·诺伊曼（Erich Neumann）著，1955年出版。荣格弟子诺伊曼的巨著，系统分析了"大母神"原型在神话、艺术、宗教和心理学中的表现。从史前女神像到圣母玛利亚，从得墨忒耳到卡莉——"大母神"是人类心灵中最古老、最强大的原型之一。

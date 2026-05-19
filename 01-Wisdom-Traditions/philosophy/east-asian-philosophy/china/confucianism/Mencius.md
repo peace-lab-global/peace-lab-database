@@ -1,3 +1,31 @@
+---
+
+title: "孟子 (Mencius)"
+description: "孟子 (Mencius)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
+tags: ["healing", "leadership", "personality", "philosophy", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是孟子"
+  - "孟子的核心概念"
+  - "孟子的方法与实践"
+trigger_keywords: ["孟子", "developmental", "emotion", "healing", "leadership"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
+    relation: "emotion/exercise/personality"
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md"
+    relation: "emotion/exercise/personality"
+
+---
 # 孟子 (Mencius)
 
 ## 核心思想 (Core Ideas)

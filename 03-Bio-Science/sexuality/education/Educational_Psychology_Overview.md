@@ -1,3 +1,31 @@
+---
+
+title: "性教育概述 | Sex Education Overview"
+description: "性教育概述 | Sex Education Overview的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Education"
+tags: ["aging", "sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性教育概述 | Sex Education Overview"
+  - "性教育概述 | Sex Education Overview的核心概念"
+  - "性教育概述 | Sex Education Overview的方法与实践"
+trigger_keywords: ["性教育概述", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 性教育概述 | Sex Education Overview
 
 > 性教育（Sex Education）是关于人类性行为、性健康、性关系和生殖健康的系统性教育。全面性教育（Comprehensive Sexuality Education, CSE）不仅传授生理知识，更致力于培养健康的性态度、负责任的性行为和尊重多元的价值观。本概述梳理全球性教育的理论发展、实践模式和未来趋势。

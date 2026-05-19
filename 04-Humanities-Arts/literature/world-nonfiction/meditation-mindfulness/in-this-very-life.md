@@ -1,3 +1,31 @@
+---
+
+title: "《在此生中》In This Very Life"
+description: "《在此生中》In This Very Life的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["habits", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《在此生中》In This Very Life"
+  - "《在此生中》In This Very Life的核心概念"
+  - "《在此生中》In This Very Life的方法与实践"
+trigger_keywords: ["anxiety", "art", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 《在此生中》In This Very Life
 
 > 班迪达尊者（Sayadaw U Pandita，1921-2016）著，1992年出版。缅甸最重要的内观禅修大师之一，马哈希尊者的主要传人，以极其严格和精确的教导风格闻名于世。他在仰光创办了班迪达禅修中心（Panditarama），培养了大量国际禅修导师。这本书基于他在西方教学期间的讲话，以直接、不加修饰的语言阐述了内观修行的核心原则。《在此生中》这个书名本身就是一个宣言：解脱不是来世的承诺，而是在这一生、此刻就可以实现的现实。

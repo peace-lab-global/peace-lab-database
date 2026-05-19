@@ -1,3 +1,31 @@
+---
+
+title: "《正见》What Makes You Not a Buddhist"
+description: "《正见》What Makes You Not a Buddhist的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["sleep", "spirituality", "writing"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《正见》What Makes You Not a Buddhist"
+  - "《正见》What Makes You Not a Buddhist的核心概念"
+  - "《正见》What Makes You Not a Buddhist的方法与实践"
+trigger_keywords: ["behavioral", "buddhism", "emotion", "meditation"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Overview.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 《正见》What Makes You Not a Buddhist
 
 > 宗萨蒋扬钦哲仁波切（Dzongsar Jamyang Khyentse Rinpoche）著，2003年出版。不丹出身、全球最具 provocative 风格的藏传佛教导师之一。这本书的标题本身就是一颗炸弹：你不是佛教徒，不是因为你不穿袈裟、不持咒，而是因为你没有真正理解佛教的"见地"。

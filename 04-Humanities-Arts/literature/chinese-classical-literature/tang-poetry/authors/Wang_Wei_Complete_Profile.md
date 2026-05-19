@@ -1,3 +1,31 @@
+---
+
+title: "王维 (Wang Wei, 701-761)：诗佛与山水田园诗派的开创者"
+description: "王维 (Wang Wei, 701-761)：诗佛与山水田园诗派的开创者的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Tang Poetry > Authors"
+tags: ["literature", "music", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是王维 ：诗佛与山水田园诗派的开创者"
+  - "王维 ：诗佛与山水田园诗派的开创者的核心概念"
+  - "王维 ：诗佛与山水田园诗派的开创者的方法与实践"
+trigger_keywords: ["act", "art", "buddhism", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/communication/death"
+  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+    relation: "buddhism/communication/emotion"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "buddhism/death/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+    relation: "buddhism/communication/emotion"
+
+---
 # 王维 (Wang Wei, 701-761)：诗佛与山水田园诗派的开创者
 
 ## 概述 (Overview)

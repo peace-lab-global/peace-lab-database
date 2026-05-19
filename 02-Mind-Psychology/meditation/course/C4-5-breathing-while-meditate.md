@@ -1,3 +1,31 @@
+---
+
+title: "C4-5 与呼吸同频：答疑解惑：冥想中的呼吸"
+description: "C4-5 与呼吸同频：答疑解惑：冥想中的呼吸的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["habits", "intervention", "meditation", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C4-5 与呼吸同频：答疑解惑：冥想中的呼吸"
+  - "C4-5 与呼吸同频：答疑解惑：冥想中的呼吸的核心概念"
+  - "C4-5 与呼吸同频：答疑解惑：冥想中的呼吸的方法与实践"
+trigger_keywords: ["body", "breathwork", "emotion", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "emotion/exercise/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # C4-5 与呼吸同频：答疑解惑：冥想中的呼吸
 
 📑 智能总结

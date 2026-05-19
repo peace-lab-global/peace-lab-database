@@ -1,3 +1,31 @@
+---
+
+title: "Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)"
+description: "Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Birth Gender Anxiety: Case Studies"
+  - "Birth Gender Anxiety: Case Studies的核心概念"
+  - "Birth Gender Anxiety: Case Studies的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/social/visualization/Loneliness_Solitude_Case_Vignettes.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Dream_Psychology_Overview.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/dating/Dating_Neuroscience_Integration.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Family_Rebuilding.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)
 
 ## 案例导读 (Case Study Guide)

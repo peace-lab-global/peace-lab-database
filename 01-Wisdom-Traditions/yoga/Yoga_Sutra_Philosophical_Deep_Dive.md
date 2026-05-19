@@ -1,3 +1,31 @@
+---
+
+title: "Yoga Sutra Philosophical Deep Dive (瑜伽经深度哲学解析)"
+description: "Yoga Sutra Philosophical Deep Dive (瑜伽经深度哲学解析)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["addiction", "buddhism", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Yoga Sutra Philosophical Deep Dive"
+  - "Yoga Sutra Philosophical Deep Dive的核心概念"
+  - "Yoga Sutra Philosophical Deep Dive的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # Yoga Sutra Philosophical Deep Dive (瑜伽经深度哲学解析)
 
 > 《瑜伽经》(Yoga Sūtra) 由帕坦伽利 (Patañjali) 约于公元 400 年编纂，共 196 条经文 (Sūtra)，分为四品 (Pāda)。它是瑜伽修行的系统性蓝图，将意识科学、认知心理学和灵性解脱整合为一套精密的操作体系。本文以中文为主体，梵文 (天城体 + IAST) 和英文作术语注释。

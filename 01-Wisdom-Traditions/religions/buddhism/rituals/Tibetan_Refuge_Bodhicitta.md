@@ -1,3 +1,31 @@
+---
+
+title: "藏传佛教皈依发心仪轨 (Tibetan Refuge and Bodhicitta Rituals)"
+description: "藏传佛教皈依发心仪轨 (Tibetan Refuge and Bodhicitta Rituals)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "healing", "positive-psychology", "resilience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是藏传佛教皈依发心仪轨"
+  - "藏传佛教皈依发心仪轨的核心概念"
+  - "藏传佛教皈依发心仪轨的方法与实践"
+trigger_keywords: ["藏传佛教皈依发心仪轨", "act", "anxiety", "buddhism", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/sexuality"
+
+---
 # 藏传佛教皈依发心仪轨 (Tibetan Refuge and Bodhicitta Rituals)
 
 > **皈依与发菩提心 (Skyabs Gro and Sems Bskyed)**：藏传佛教一切修行的根基。未受皈依不得进入佛门，未发菩提心不算是大乘行者。此仪轨是每位藏传佛弟子每日必修、终身持守的根本法。

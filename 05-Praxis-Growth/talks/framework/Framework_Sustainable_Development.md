@@ -1,3 +1,31 @@
+---
+
+title: "可持续发展理论 | Sustainable Development"
+description: "可持续发展理论 | Sustainable Development的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Framework"
+tags: ["nutrition"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是可持续发展理论 | Sustainable Development"
+  - "可持续发展理论 | Sustainable Development的核心概念"
+  - "可持续发展理论 | Sustainable Development的方法与实践"
+trigger_keywords: ["可持续发展理论", "act", "assessment", "behavioral", "cognitive"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "nutrition/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "nutrition/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
+    relation: "nutrition/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md"
+    relation: "nutrition/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+    relation: "nutrition/sexuality/therapy"
+
+---
 # 可持续发展理论 | Sustainable Development
 
 > 可持续发展（Sustainable Development）是当代人类面对资源枯竭、环境退化与社会不平等等全球性挑战而形成的核心理念与行动框架。自1987年布伦特兰报告（Brundtland Report）正式提出"满足当代需求而不损害后代满足其需求能力"的经典定义以来，可持续发展已从环境保护议题演变为涵盖经济、社会、环境三大维度的系统性发展范式，深刻影响着全球治理、国家政策与企业战略的制定方向。

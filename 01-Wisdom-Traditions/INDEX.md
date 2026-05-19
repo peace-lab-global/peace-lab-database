@@ -1,6 +1,99 @@
+---
+
+title: "01-Wisdom-Traditions | 智慧传承"
+description: "01-Wisdom-Traditions | 智慧传承的详细解析与实践指南"
+category: "智慧传承"
+tags: ["buddhism", "calligraphy", "cardiovascular", "meditation", "dzogchen", "philosophy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是01-Wisdom-Traditions | 智慧传承"
+  - "01-Wisdom-Traditions | 智慧传承的核心概念"
+  - "01-Wisdom-Traditions | 智慧传承的方法与实践"
+trigger_keywords: ["智慧传承", "act", "art", "body", "brain"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/cardiovascular/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "buddhism/cardiovascular/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "art_therapy/buddhism/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "art_therapy/buddhism/exercise"
+
+---
 # 01-Wisdom-Traditions | 智慧传承
 
 > 跨越地理与时代的界限，整合古代智慧与现代科学，涵盖瑜伽、禅宗、道家及全球灵性疗愈。
+
+---
+
+## 📚 阅读路径建议 | Reading Path Guide
+
+> 本支柱内容广博，以下路径帮助不同背景的读者找到适合自己的学习顺序。
+
+### 🌱 初阶路径 (入门者)
+
+**目标**: 建立对智慧传统的整体感知，培养日常练习习惯
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [瑜伽哲学 (Philosophy)](yoga/Yoga_Philosophy.md) | 理解瑜伽的核心思想体系 | 30分钟 |
+| 2 | [道家哲学与宇宙论](../religions/dao/Dao_Philosophy_Cosmology.md) | 建立"道"的整体世界观 | 30分钟 |
+| 3 | [禅宗智慧与传承](../religions/zen/Zen_Wisdom_Lineage.md) | 理解禅宗的核心智慧 | 25分钟 |
+| 4 | [太极拳总览](../tai-chi/Tai_Chi_Overview.md) | 体验身心合一运动 | 20分钟 |
+| 5 | [正念与冥想入门](#) | 建立日常冥想习惯（参考 02-Mind-Psychology） | 持续 |
+
+**适合**: 首次接触东方智慧传统的读者，希望建立基础认知和日常练习习惯。
+
+---
+
+### 🌿 中阶路径 (已有基础)
+
+**目标**: 深入特定传统，理解修习方法论，建立跨传统比较视野
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [瑜伽经深度 (Yoga Sutra)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md) | 深入瑜伽哲学核心经典 | 45分钟 |
+| 2 | [止观双运 (Samatha & Vipassana)](../religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) | 掌握佛教核心修习方法 | 40分钟 |
+| 3 | [内丹修持与路径](../religions/dao/Dao_Internal_Alchemy_Neidan.md) | 理解道家内丹学体系 | 35分钟 |
+| 4 | [佛教心理学与疗愈](../religions/buddhism/psychology/) | 连接古老智慧与现代心理学 | 30分钟 |
+| 5 | [佛教神经科学](../religions/zen/Zen_Neuroscience_Psychology.md) | 了解冥想的科学基础 | 25分钟 |
+
+**适合**: 已完成初阶路径，希望深入特定传统的读者。
+
+---
+
+### 🌳 高阶路径 (专业研习)
+
+**目标**: 掌握传统全貌，进行跨文化比较研究，准备从事教学或传播
+
+| 顺序 | 文档 | 建议 | 时长 |
+|:----:|:-----|:-----|:-----|
+| 1 | [五家七宗法脉](../religions/zen/Zen_Five_Houses_Lineage.md) | 深入禅宗七宗传承体系 | 60分钟 |
+| 2 | [大圆满与大手印](../religions/buddhism/dzogchen/) | 藏密最高教法 | 60分钟 |
+| 3 | [高阶内丹实务](../religions/dao/Dao_Advanced_Internal_Alchemy.md) | 道家高阶修持 | 50分钟 |
+| 4 | [中观、唯识与华严](../religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md) | 大乘佛教三大体系 | 60分钟 |
+| 5 | [全球灵性比较](../religions/syncretism/) | 建立跨文化视野 | 45分钟 |
+
+**适合**: 有志于深入研究，希望成为传播者或学者的读者。
+
+---
+
+### 🎯 专题路径 | Special Interest Paths
+
+| 主题 | 推荐文档序列 | 适合人群 |
+|------|-------------|----------|
+| **冥想修习** | 瑜伽冥想 → 止观双运 → 禅宗公案 → 大圆满 | 实践者 |
+| **身体锻炼** | 瑜伽体式 → 太极拳基础 → 道家气功 → 运动科学 | 健身爱好者 |
+| **哲学研究** | 印度哲学概论 → 吠檀多 → 道家 → 斯多葛 | 哲学学习者 |
+| **心理疗愈** | 佛教心理学 → 瑜伽疗愈 → 道教心理养生 → 正念减压 | 心理健康从业者 |
+
+---
 
 ## 核心索引 | Core Index
 
@@ -110,6 +203,24 @@
   - [吠檀多哲学总览](philosophy/south-asian/india/vedanta/Vedanta_Philosophy_Overview.md)
   - [薄伽梵歌研读](philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md)
   - [奥义书智慧](philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md)
+
+---
+
+## 🗺️ 知识图谱
+
+<details>
+<summary>点击查看本支柱知识图谱</summary>
+
+![智慧传承知识图谱](../Visualization/initial-autofit.png)
+
+*图注：智慧传承支柱的知识结构，涵盖瑜伽、禅宗、道家、佛教、全球灵性哲学等核心领域。*
+
+**导航提示**:
+- 圆形节点代表专题入口
+- 点击节点可跳转至对应文档
+- 颜色编码对应不同的知识类别
+
+</details>
 
 ---
 

@@ -1,3 +1,31 @@
+---
+
+title: "经济与金融 | Economics and Finance"
+description: "经济与金融 | Economics and Finance的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是经济与金融 | Economics and Finance"
+  - "经济与金融 | Economics and Finance的核心概念"
+  - "经济与金融 | Economics and Finance的方法与实践"
+trigger_keywords: ["经济与金融", "act", "behavioral", "cognitive", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
+    relation: "communication/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
+    relation: "communication/sexuality/therapy"
+
+---
 # 经济与金融 | Economics and Finance
 
 > **经济与金融**（Economics and Finance）是理解现代社会运行的核心学科——从宏观经济学（Macroeconomics）到行为金融学（Behavioral Finance），从货币理论（Monetary Theory）到金融科技（FinTech）。经济与金融不仅影响每个人的日常生活，更决定着国家的发展方向和全球格局。本文件精选TED平台上关于经济与金融的代表性演讲，帮助读者理解现代经济体系的运行逻辑和前沿趋势。

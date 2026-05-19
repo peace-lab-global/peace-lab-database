@@ -1,3 +1,31 @@
+---
+
+title: "系列一：基础入门系列 | Foundation Series"
+description: "系列一：基础入门系列 | Foundation Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["brain", "dmn", "mbsr"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列一：基础入门系列 | Foundation Series"
+  - "系列一：基础入门系列 | Foundation Series的核心概念"
+  - "系列一：基础入门系列 | Foundation Series的方法与实践"
+trigger_keywords: ["系列一：基础入门系列", "act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/death/INDEX.md"
+    relation: "buddhism/cardiovascular/emotion"
+  - path: "README.md"
+    relation: "buddhism/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/cardiovascular/meditation"
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "buddhism/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "buddhism/emotion/meditation"
+
+---
 # 系列一：基础入门系列 | Foundation Series
 
 > **级别**：Level 1（初学者）

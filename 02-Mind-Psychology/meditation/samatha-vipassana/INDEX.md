@@ -1,3 +1,31 @@
+---
+
+title: "samatha-vipassana | 止观禅修专题 Index"
+description: "samatha-vipassana | 止观禅修专题 Index的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Samatha Vipassana"
+tags: ["brain", "cbt", "mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是samatha-vipassana | 止观禅修专题 Index"
+  - "samatha-vipassana | 止观禅修专题 Index的核心概念"
+  - "samatha-vipassana | 止观禅修专题 Index的方法与实践"
+trigger_keywords: ["act", "behavioral", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "buddhism/exercise/meditation"
+
+---
 # samatha-vipassana | 止观禅修专题 Index
 
 > **止观禅修 (Samatha-Vipassana)** 专题知识库，涵盖理论基础、禅定体系、历史传承、分层实践指南、神经科学研究与现代心理学应用。

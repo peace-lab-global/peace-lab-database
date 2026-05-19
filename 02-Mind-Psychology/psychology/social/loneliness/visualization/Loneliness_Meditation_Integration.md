@@ -1,3 +1,31 @@
+---
+
+title: "孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework"
+description: "孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
+tags: ["addiction", "anxiety", "cbt", "mbsr", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework"
+  - "孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework的核心概念"
+  - "孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 孤独与冥想评估交叉整合框架 | Loneliness × Meditation Assessment Integration Framework
 
 > **文档类型**：跨领域整合框架 | Cross-Domain Integration Framework  

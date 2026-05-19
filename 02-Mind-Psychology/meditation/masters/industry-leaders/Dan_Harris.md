@@ -1,3 +1,31 @@
+---
+
+title: "丹·哈里斯 (Dan Harris)"
+description: "丹·哈里斯 (Dan Harris)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Industry Leaders"
+tags: ["anxiety", "brain", "decision-making", "eq", "meditation", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是丹·哈里斯"
+  - "丹·哈里斯的核心概念"
+  - "丹·哈里斯的方法与实践"
+trigger_keywords: ["哈里斯", "act", "anxiety", "brain", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/buddhism/exercise"
+
+---
 # 丹·哈里斯 (Dan Harris)
 
 > "Meditation is not about feeling a certain way. It's about feeling the way you feel."

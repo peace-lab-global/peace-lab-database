@@ -1,3 +1,31 @@
+---
+
+title: "ADHD Treatment & Interventions (ADHD治疗与干预)"
+description: "ADHD Treatment & Interventions (ADHD治疗与干预)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Adhd"
+tags: ["anxiety", "cbt", "adhd", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是ADHD Treatment & Interventions"
+  - "ADHD Treatment & Interventions的核心概念"
+  - "ADHD Treatment & Interventions的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "aging/anxiety/depression"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+
+---
 # ADHD Treatment & Interventions (ADHD治疗与干预)
 
 > **ADHD治疗与干预 (ADHD Treatment & Interventions)**

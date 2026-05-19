@@ -1,3 +1,19 @@
+---
+title: "emotional-abuse | Index"
+description: "emotional-abuse | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
+tags: ["心理学", "社会心理学"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是emotional-abuse | Index"
+  - "emotional-abuse | Index的核心概念"
+  - "emotional-abuse | Index的方法与实践"
+trigger_keywords: ["Index", "心理学", "社会心理学"]
+cross_refs: []
+---
 # emotional-abuse | Index
 
 ## 内容索引 | Contents

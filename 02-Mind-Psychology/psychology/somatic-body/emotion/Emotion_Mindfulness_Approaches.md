@@ -1,3 +1,32 @@
+---
+
+title: "正念情绪疗法 (Mindfulness-Based Emotion Therapy)"
+description: "正念情绪疗法 (Mindfulness-Based Emotion Therapy)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["anxiety", "attachment", "depression", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是正念情绪疗法"
+  - "正念情绪疗法的核心概念"
+  - "正念情绪疗法的方法与实践"
+  - "正念情绪疗法的循证证据"
+trigger_keywords: ["正念情绪疗法", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # 正念情绪疗法 (Mindfulness-Based Emotion Therapy)
 
 > **正念情绪疗法 (Mindfulness-Based Approaches to Emotion)**

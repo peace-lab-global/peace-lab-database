@@ -1,3 +1,31 @@
+---
+
+title: "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications"
+description: "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 戏剧疗愈"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications"
+  - "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的核心概念"
+  - "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications
 
 > **文档定位**: 戏剧疗愈和心理剧在各临床群体中的循证应用

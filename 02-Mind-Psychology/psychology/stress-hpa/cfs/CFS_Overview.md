@@ -1,3 +1,31 @@
+---
+
+title: "慢性疲劳综合征概览 (Chronic Fatigue Syndrome Overview)"
+description: "慢性疲劳综合征概览 (Chronic Fatigue Syndrome Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
+tags: ["anxiety", "brain", "cbt", "sleep", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是慢性疲劳综合征概览"
+  - "慢性疲劳综合征概览的核心概念"
+  - "慢性疲劳综合征概览的方法与实践"
+trigger_keywords: ["慢性疲劳综合征概览", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 慢性疲劳综合征概览 (Chronic Fatigue Syndrome Overview)
 
 > 慢性疲劳综合征(CFS)，现更多被称为肌痛性脑脊髓炎/慢性疲劳综合征(ME/CFS)，是一种复杂的多系统疾病，以持续性、不可解释的严重疲劳为主要特征，伴随认知障碍、睡眠问题和劳后不适，严重影响患者生活质量。

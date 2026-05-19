@@ -1,3 +1,31 @@
+---
+
+title: "真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系"
+description: "真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
+tags: ["dzogchen", "phobia", "yoga", "buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系"
+  - "真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系的核心概念"
+  - "真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系的方法与实践"
+trigger_keywords: ["真言与陀罗尼", "咒语体系", "act", "dzogchen", "phobia", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "anxiety/buddhism/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "anxiety/buddhism/cardiovascular"
+
+---
 # 真言与陀罗尼 | Mantra & Dhāraṇī | 咒语体系
 
 > **真言**（梵文：Mantra，藏文：སྔགས་，威利：sngags）意为"心之保护"或"能救度心"，是佛菩萨智慧功德的音声显现。**陀罗尼**（梵文：Dhāraṇī，藏文：གཟུངས་，威利：gzungs）意为"总持"，能统摄无量义理于简短音节中。二者是密乘修行的核心方便，通过音声振动与心识专注，转化凡夫身语意为佛之三密。

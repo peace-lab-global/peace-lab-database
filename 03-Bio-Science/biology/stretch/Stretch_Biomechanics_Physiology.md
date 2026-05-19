@@ -1,3 +1,31 @@
+---
+
+title: "Stretch Biomechanics & Physiology (拉伸生物力学与生理学)"
+description: "Stretch Biomechanics & Physiology (拉伸生物力学与生理学)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Stretch"
+tags: ["ballet", "brain", "exercise", "intervention", "neuroscience", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Stretch Biomechanics & Physiology"
+  - "Stretch Biomechanics & Physiology的核心概念"
+  - "Stretch Biomechanics & Physiology的方法与实践"
+trigger_keywords: ["ballet", "brain", "breathwork", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "emotion/exercise/neuroscience"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md"
+    relation: "emotion/exercise/neuroscience"
+
+---
 # Stretch Biomechanics & Physiology (拉伸生物力学与生理学)
 
 ### Muscle-Tendon Unit (MTU) Mechanics (肌肉-肌腱单元力学表)

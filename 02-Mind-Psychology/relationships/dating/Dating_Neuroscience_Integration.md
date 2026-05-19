@@ -1,3 +1,31 @@
+---
+
+title: "Dating Neuroscience & Brain-Based Insights (约会神经科学与大脑洞察)"
+description: "Dating Neuroscience & Brain-Based Insights (约会神经科学与大脑洞察)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Dating"
+tags: ["anxiety", "attachment", "brain", "emdr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Neuroscience & Brain-Based Insights"
+  - "Dating Neuroscience & Brain-Based Insights的核心概念"
+  - "Dating Neuroscience & Brain-Based Insights的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Dating Neuroscience & Brain-Based Insights (约会神经科学与大脑洞察)
 
 > 📘 **文档导航**: 本指南整合神经科学研究成果，揭示约会过程中大脑机制和生物基础。相关文档：

@@ -1,3 +1,32 @@
+---
+
+title: "人际关系治疗体系总览"
+description: "人际关系治疗体系总览的详细解析与实践指南"
+category: "心智与心理学 > 人际关系"
+tags: ["anxiety", "attachment", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是人际关系治疗体系总览"
+  - "人际关系治疗体系总览的核心概念"
+  - "人际关系治疗体系总览的方法与实践"
+  - "人际关系治疗体系总览的循证证据"
+trigger_keywords: ["人际关系治疗体系总览", "anxiety", "assessment", "attachment", "behavioral"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/communication/depression"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/depression"
+
+---
 # 人际关系治疗体系总览
 
 ## 📋 体系架构

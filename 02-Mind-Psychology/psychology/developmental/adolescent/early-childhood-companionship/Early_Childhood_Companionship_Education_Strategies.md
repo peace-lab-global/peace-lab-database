@@ -1,3 +1,31 @@
+---
+
+title: "幼童陪伴教育策略 (Early Childhood Companionship and Education Strategies)"
+description: "幼童陪伴教育策略 (Early Childhood Companionship and Education Strategies)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Early Childhood Companionship"
+tags: ["anxiety", "attachment", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是幼童陪伴教育策略"
+  - "幼童陪伴教育策略的核心概念"
+  - "幼童陪伴教育策略的方法与实践"
+trigger_keywords: ["幼童陪伴教育策略", "act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 幼童陪伴教育策略 (Early Childhood Companionship and Education Strategies)
 
 > **目标**：构建完整的幼童陪伴教育策略体系，涵盖发展特点、教育原则、陪伴方法及实施策略。为0-6岁幼童提供科学化的陪伴教育支持，促进全面发展和健康成长。

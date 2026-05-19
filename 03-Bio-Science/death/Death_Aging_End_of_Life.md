@@ -1,3 +1,31 @@
+---
+
+title: "Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)"
+description: "Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Aging & End-of-Life Psychology"
+  - "Aging & End-of-Life Psychology的核心概念"
+  - "Aging & End-of-Life Psychology的方法与实践"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Psychology_Overview.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/death"
+
+---
 # Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)
 
 > *"老年不是生命的余韵，而是生命最完整的乐章。死亡不是老年的专利，但老年给了我们时间——去准备，去接受，去告别。"*

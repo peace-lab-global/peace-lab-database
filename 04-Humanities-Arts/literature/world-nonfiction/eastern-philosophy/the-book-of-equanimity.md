@@ -1,3 +1,31 @@
+---
+
+title: "《从容录》The Book of Equanimity"
+description: "《从容录》The Book of Equanimity的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["habits", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《从容录》The Book of Equanimity"
+  - "《从容录》The Book of Equanimity的核心概念"
+  - "《从容录》The Book of Equanimity的方法与实践"
+trigger_keywords: ["body", "breathwork", "death", "habits"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/buddhism/death"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/art_therapy/buddhism"
+
+---
 # 《从容录》The Book of Equanimity
 
 > 宏智正觉（Hongzhi Zhengjue，1091—1157年）著，南宋曹洞宗禅师。本书全称《宏智正觉禅师颂古》，又称《从容庵录》或《百则颂古》，由宏智正觉的弟子等人编辑成书。全书100则公案，与《碧岩录》并列为禅宗公案的两大巨著。宏智正觉以"默照禅"闻名，强调通过静坐冥想和觉知来自然显现本觉，与临济宗的"看话禅"形成对比。

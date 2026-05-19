@@ -1,3 +1,31 @@
+---
+
+title: "Time Management & Productivity 时间管理与效率"
+description: "Time Management & Productivity 时间管理与效率的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["flow", "productivity"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Time Management & Productivity 时间管理与效率"
+  - "Time Management & Productivity 时间管理与效率的核心概念"
+  - "Time Management & Productivity 时间管理与效率的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "anxiety/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/exercise/meditation"
+
+---
 # Time Management & Productivity 时间管理与效率
 
 ## 核心术语与词源 (Core Terminology & Etymology)

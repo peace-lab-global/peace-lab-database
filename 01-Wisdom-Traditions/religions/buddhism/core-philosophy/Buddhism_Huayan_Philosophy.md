@@ -1,3 +1,31 @@
+---
+
+title: "华严宗法界缘起 (Huayan Dharmadhātu Philosophy)"
+description: "华严宗法界缘起 (Huayan Dharmadhātu Philosophy)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["buddhism", "philosophy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是华严宗法界缘起"
+  - "华严宗法界缘起的核心概念"
+  - "华严宗法界缘起的方法与实践"
+trigger_keywords: ["华严宗法界缘起", "act", "anxiety", "buddhism", "cognitive"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 华严宗法界缘起 (Huayan Dharmadhātu Philosophy)
 
 > **华严宗 (Huayan)**：中国佛教重要宗派，以《华严经》为宗经，以"法界缘起"与"事事无碍"为核心教义，构建了佛教最宏大圆融的宇宙观与心灵哲学。

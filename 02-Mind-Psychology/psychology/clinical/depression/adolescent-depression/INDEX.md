@@ -1,3 +1,32 @@
+---
+
+title: "青少年抑郁 (Adolescent Depression) | Index"
+description: "青少年抑郁 (Adolescent Depression) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Adolescent Depression"
+tags: ["cbt", "depression", "bipolar", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是青少年抑郁  | Index"
+  - "青少年抑郁  | Index的核心概念"
+  - "青少年抑郁  | Index的方法与实践"
+  - "青少年抑郁  | Index的自助方法"
+trigger_keywords: ["青少年抑郁", "Index", "act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "depression/emotion/meditation"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "depression/emotion/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "depression/emotion/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "depression/emotion/meditation"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "emotion/meditation/neuroscience"
+
+---
 # 青少年抑郁 (Adolescent Depression) | Index
 
 > 青少年抑郁是全球青少年致残的首要原因。其表现常与成年人不同——易激惹、行为问题、学业骤降、自伤和社交退缩往往比悲伤更突出。约10-20%的青少年在其成长过程中会经历抑郁发作。

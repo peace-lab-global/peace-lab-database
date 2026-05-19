@@ -1,3 +1,31 @@
+---
+
+title: "咒语/唱诵冥想专业概述：跨文化的声音修行传统"
+description: "咒语/唱诵冥想专业概述：跨文化的声音修行传统的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Mantra Chanting"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是咒语/唱诵冥想专业概述：跨文化的声音修行传统"
+  - "咒语/唱诵冥想专业概述：跨文化的声音修行传统的核心概念"
+  - "咒语/唱诵冥想专业概述：跨文化的声音修行传统的方法与实践"
+trigger_keywords: ["咒语", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/buddhism/meditation"
+
+---
 # 咒语/唱诵冥想专业概述：跨文化的声音修行传统
 
 > **适用对象**：对声音冥想有兴趣的练习者、音乐治疗师、瑜伽/唱诵带领者、跨宗教研究者、身心灵从业者  

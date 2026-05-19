@@ -1,3 +1,31 @@
+---
+
+title: "Pilgrimage | 朝圣：到印度佛教圣地该做的事"
+description: "Pilgrimage | 朝圣：到印度佛教圣地该做的事的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Pilgrimage"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Pilgrimage | 朝圣：到印度佛教圣地该做的事"
+  - "Pilgrimage | 朝圣：到印度佛教圣地该做的事的核心概念"
+  - "Pilgrimage | 朝圣：到印度佛教圣地该做的事的方法与实践"
+trigger_keywords: ["Pilgrimage", "buddhism", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/sexuality"
+
+---
 # Pilgrimage | 朝圣：到印度佛教圣地该做的事
 
 > 宗萨蒋扬钦哲仁波切著，佛教朝圣指南，阐释朝圣的真正意义与实修方法。

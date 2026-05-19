@@ -1,3 +1,31 @@
+---
+
+title: "跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)"
+description: "跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Sexual Repression China"
+tags: ["daoism", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是跨文化比较研究：中国性压抑现象的国际视野"
+  - "跨文化比较研究：中国性压抑现象的国际视野的核心概念"
+  - "跨文化比较研究：中国性压抑现象的国际视野的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "buddhism"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "buddhism/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "buddhism/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "buddhism/daoism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Rituals_Overview.md"
+    relation: "buddhism/daoism/sexuality"
+
+---
 # 跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)
 
 > 📘 **文档导航**: 本专题通过跨文化比较研究方法，深入分析中国性压抑现象在全球文化语境中的独特性与普遍性，为本土化理论建构和国际对话提供学术支撑。如需了解其他相关内容，请参考：

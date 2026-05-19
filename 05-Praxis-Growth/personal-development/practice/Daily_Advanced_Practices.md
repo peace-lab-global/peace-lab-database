@@ -1,3 +1,31 @@
+---
+
+title: "Practices (进阶实践 · 性别视角 · 生命阶段)"
+description: "Practices (进阶实践 · 性别视角 · 生命阶段)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Practice"
+tags: ["addiction", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是Practices"
+  - "Practices的核心概念"
+  - "Practices的方法与实践"
+trigger_keywords: ["Practices", "act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # Practices (进阶实践 · 性别视角 · 生命阶段)
 
 ### 整合实践表

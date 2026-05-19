@@ -1,3 +1,31 @@
+---
+
+title: "书法疗愈 INDEX | Calligraphy Therapy"
+description: "书法疗愈 INDEX | Calligraphy Therapy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
+tags: ["act-therapy", "calligraphy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是书法疗愈 INDEX | Calligraphy Therapy"
+  - "书法疗愈 INDEX | Calligraphy Therapy的核心概念"
+  - "书法疗愈 INDEX | Calligraphy Therapy的方法与实践"
+trigger_keywords: ["书法疗愈 INDEX", "act", "act-therapy", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 书法疗愈 INDEX | Calligraphy Therapy
 
 > **模块定位**: 04-Humanities-Arts / arts / calligraphy-therapy

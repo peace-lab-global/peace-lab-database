@@ -1,3 +1,31 @@
+---
+
+title: "C1 第一周 先导课作业"
+description: "C1 第一周 先导课作业的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是C1 第一周 先导课作业"
+  - "C1 第一周 先导课作业的核心概念"
+  - "C1 第一周 先导课作业的方法与实践"
+trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
+    relation: "aging/anxiety/emotion"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # C1 第一周 先导课作业
 
 # 精简版作业：

@@ -1,3 +1,31 @@
+---
+
+title: "脑波与神经反馈概览 (Brain & Neurofeedback Overview)"
+description: "脑波与神经反馈概览 (Brain & Neurofeedback Overview)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["bci", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是脑波与神经反馈概览"
+  - "脑波与神经反馈概览的核心概念"
+  - "脑波与神经反馈概览的方法与实践"
+trigger_keywords: ["脑波与神经反馈概览", "anxiety", "assessment", "bci", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_General.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 脑波与神经反馈概览 (Brain & Neurofeedback Overview)
 
 > **目标**：建立脑波疗法与神经反馈的完整知识体系，涵盖核心术语、历史发展、理论基础、脑波分类及神经生理学机制。

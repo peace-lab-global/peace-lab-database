@@ -1,3 +1,31 @@
+---
+
+title: "LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations"
+description: "LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
+tags: ["cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations"
+  - "LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations的核心概念"
+  - "LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations的方法与实践"
+trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/emotion/sexuality"
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
+    relation: "aging/emotion/sexuality"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/emotion/sexuality"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "aging/emotion/sexuality"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
+    relation: "aging/emotion/sexuality"
+
+---
 # LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations
 
 > **核心定位**: 性少数群体（LGBTQ+）面临的独特孤独风险、机制与循证干预

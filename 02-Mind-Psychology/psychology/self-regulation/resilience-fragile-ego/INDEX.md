@@ -1,6 +1,51 @@
+---
+
+title: "玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index"
+description: "玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
+tags: ["habits", "intervention", "resilience", "act", "self-regulation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是玻璃心与反玻璃心  | Index"
+  - "玻璃心与反玻璃心  | Index的核心概念"
+  - "玻璃心与反玻璃心  | Index的方法与实践"
+trigger_keywords: ["玻璃心与反玻璃心", "Index", "act", "assessment", "cognitive", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "emotion/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
+    relation: "emotion/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "emotion/exercise/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "emotion/exercise/productivity"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "emotion/exercise/productivity"
+
+---
 # 玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index
 
 > 玻璃心指情绪过度敏感、易受批评伤害的心理状态；反玻璃心（心理韧性）指在挫折、批评、拒绝中快速恢复并成长的能力。本模块提供双向干预：既理解玻璃心的成因机制，也系统构建心理韧性。
+
+## 🤖 Agent Skills 智能体技能层
+
+本模块已上线**结构化智能体技能**，可供 AI 智能体调用：
+
+| 技能ID | 技能名称 | 角色 | 说明 |
+|:------|:---------|:----:|:-----|
+| FEG_001 | 玻璃心综合评估 | entry | 入口技能，确定敏感类型和严重程度 |
+| FEG_002 | 心理韧性构建 | intervention | 系统韧性构建方案 |
+| FEG_003 | 批评与拒绝应对 | intervention | 建设性批评区分、情绪脱敏 |
+| FEG_004 | 玻璃心日常训练协议 | tool | 每日练习方案 |
+
+**智能体调用协议**：
+- `_protocol.md` — 技能调用规范、状态管理、输出标准
+- `_manifest.md` — 技能元数据注册表
+
+---
 
 ## 内容索引 | Contents
 

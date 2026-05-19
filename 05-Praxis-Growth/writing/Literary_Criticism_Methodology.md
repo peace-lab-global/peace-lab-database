@@ -1,3 +1,31 @@
+---
+
+title: "文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής"
+description: "文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής的详细解析与实践指南"
+category: "实践与个人增长 > 写作"
+tags: ["habits", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής"
+  - "文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής的核心概念"
+  - "文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής的方法与实践"
+trigger_keywords: ["文学批评方法论", "art", "assessment", "behavioral", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 文学批评方法论 | Literary Criticism Methodology | Μεθοδολογία Λογοτεχνικής Κριτικής
 
 > **文学批评方法论**系统阐述文学批评的理论基础、分析框架、评价标准和实践应用，为文学研究者、批评家和爱好者提供科学严谨的批评方法体系，提升文学鉴赏和评价的专业水平。

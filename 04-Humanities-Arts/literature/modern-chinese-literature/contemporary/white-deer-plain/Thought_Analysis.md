@@ -1,3 +1,31 @@
+---
+
+title: "《白鹿原》核心思想与观点分析"
+description: "《白鹿原》核心思想与观点分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
+tags: ["self-confidence", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《白鹿原》核心思想与观点分析"
+  - "《白鹿原》核心思想与观点分析的核心概念"
+  - "《白鹿原》核心思想与观点分析的方法与实践"
+trigger_keywords: ["behavioral", "death", "exercise", "self-confidence"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "death/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "death/exercise/sexuality"
+
+---
 # 《白鹿原》核心思想与观点分析
 
 ## 一、宗法秩序——那个已经死去的世界

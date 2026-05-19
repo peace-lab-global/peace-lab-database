@@ -1,3 +1,31 @@
+---
+
+title: "《佛教的见地与修道》The View and Practice of Buddhism"
+description: "《佛教的见地与修道》The View and Practice of Buddhism的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《佛教的见地与修道》The View and Practice of Buddhism"
+  - "《佛教的见地与修道》The View and Practice of Buddhism的核心概念"
+  - "《佛教的见地与修道》The View and Practice of Buddhism的方法与实践"
+trigger_keywords: ["act", "behavioral", "buddhism", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/meditation/sexuality"
+
+---
 # 《佛教的见地与修道》The View and Practice of Buddhism
 
 > 宗萨蒋扬钦哲仁波切（Dzongsar Jamyang Khyentse Rinpoche）著，2003年出版。《正见》的姊妹篇，从"见地"延伸到"修道"——如果《正见》告诉你"佛教怎么看世界"，这本书告诉你"佛教怎么改变世界"。

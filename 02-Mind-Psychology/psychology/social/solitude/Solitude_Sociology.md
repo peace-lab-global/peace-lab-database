@@ -1,3 +1,31 @@
+---
+
+title: "独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity"
+description: "独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
+tags: ["anxiety", "calligraphy"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity"
+  - "独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity的核心概念"
+  - "独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity的方法与实践"
+trigger_keywords: ["独处的社会学：文化", "制度与现代性", "adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "aging/anxiety/art_therapy"
+
+---
 # 独处的社会学：文化、制度与现代性 | The Sociology of Solitude: Culture, Institutions & Modernity
 
 > **文档类型**：社会学专题 | Sociology Monograph  

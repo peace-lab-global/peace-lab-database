@@ -1,3 +1,31 @@
+---
+
+title: "超觉静坐研究证据 | Transcendental Meditation Research Evidence"
+description: "超觉静坐研究证据 | Transcendental Meditation Research Evidence的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "cardiovascular", "cortisol", "mbsr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是超觉静坐研究证据 | Transcendental Meditation Research Evidence"
+  - "超觉静坐研究证据 | Transcendental Meditation Research Evidence的核心概念"
+  - "超觉静坐研究证据 | Transcendental Meditation Research Evidence的方法与实践"
+trigger_keywords: ["超觉静坐研究证据", "anxiety", "assessment", "body", "brain"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 超觉静坐研究证据 | Transcendental Meditation Research Evidence
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）

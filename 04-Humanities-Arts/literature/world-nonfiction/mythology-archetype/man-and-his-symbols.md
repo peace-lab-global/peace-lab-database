@@ -1,3 +1,31 @@
+---
+
+title: "《人及其象征》Man and His Symbols"
+description: "《人及其象征》Man and His Symbols的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["jung", "religion", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人及其象征》Man and His Symbols"
+  - "《人及其象征》Man and His Symbols的核心概念"
+  - "《人及其象征》Man and His Symbols的方法与实践"
+trigger_keywords: ["art", "brain", "death", "jung"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "communication/death/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/communication/neuroscience"
+
+---
 # 《人及其象征》Man and His Symbols
 
 > 卡尔·荣格（Carl Jung）著，1964年出版。荣格晚年亲自参与编写的最后一部主要著作，旨在向普通读者介绍他的分析心理学核心概念——集体无意识、原型、象征、梦境。全书由荣格和他的四位同事共同撰写，图文并茂，是最 accessible 的荣格入门书。

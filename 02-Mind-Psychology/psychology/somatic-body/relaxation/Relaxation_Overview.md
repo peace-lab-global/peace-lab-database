@@ -1,3 +1,31 @@
+---
+
+title: "放松术核心概览 (Relaxation Techniques Overview)"
+description: "放松术核心概览 (Relaxation Techniques Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
+tags: ["anxiety", "bci", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是放松术核心概览"
+  - "放松术核心概览的核心概念"
+  - "放松术核心概览的方法与实践"
+trigger_keywords: ["放松术核心概览", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/emotion"
+  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 放松术核心概览 (Relaxation Techniques Overview)
 
 > **模块定位**：系统化的放松术知识体系，涵盖放松反应理论、神经生理学机制、主要技术分类及临床应用循证。

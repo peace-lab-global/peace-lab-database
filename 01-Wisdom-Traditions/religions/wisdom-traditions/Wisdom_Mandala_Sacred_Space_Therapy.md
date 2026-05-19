@@ -1,3 +1,31 @@
+---
+
+title: "Sacred Space/Mandala (坛城与圣域空间)"
+description: "Sacred Space/Mandala (坛城与圣域空间)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Sacred Space/Mandala"
+  - "Sacred Space/Mandala的核心概念"
+  - "Sacred Space/Mandala的方法与实践"
+trigger_keywords: ["Mandala", "act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Psychology_Overview.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Sacred Space/Mandala (坛城与圣域空间)
 
 ### The Five Wisdom Mandalas (五方佛坛城与五智转换表)

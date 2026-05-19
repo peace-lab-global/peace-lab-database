@@ -1,3 +1,31 @@
+---
+
+title: "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་"
+description: "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "philosophy", "religion", "宗教与灵性", "藏传佛教"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་"
+  - "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的核心概念"
+  - "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的方法与实践"
+trigger_keywords: ["转世活佛制度", "སྤྲུལ་སྐུ་", "art", "buddhism", "developmental", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "buddhism/death/sexuality"
+  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "buddhism/death/sexuality"
+
+---
 # 转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་
 
 > **转世活佛**（藏文：སྤྲུལ་སྐུ་，威利：sprul sku，英文：Tulku/Incarnate Lama）是藏传佛教特有的传承制度，指高僧大德圆寂后，其意识（或誓愿力）再次投生为人，继续弘法利生事业。这一制度源于佛教三身教理中的"化身"概念，是藏传佛教最具特色的宗教、社会与政治制度之一。

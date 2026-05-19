@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽尼德拉概述 | Yoga Nidra Overview"
+description: "瑜伽尼德拉概述 | Yoga Nidra Overview的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Nidra"
+tags: ["anxiety", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽尼德拉概述 | Yoga Nidra Overview"
+  - "瑜伽尼德拉概述 | Yoga Nidra Overview的核心概念"
+  - "瑜伽尼德拉概述 | Yoga Nidra Overview的方法与实践"
+trigger_keywords: ["瑜伽尼德拉概述", "anxiety", "body", "breathwork", "buddhism"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "README.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 瑜伽尼德拉概述 | Yoga Nidra Overview
 
 > **文档类型**: 传统冥想系统介绍 | Tradition Introduction

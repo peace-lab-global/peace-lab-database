@@ -1,3 +1,32 @@
+---
+
+title: "焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up"
+description: "焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
+tags: ["anxiety", "cbt", "decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up"
+  - "焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up的核心概念"
+  - "焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up的方法与实践"
+  - "焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up的循证证据"
+trigger_keywords: ["anxiety", "assessment", "behavioral", "cbt"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
+    relation: "anxiety/communication/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/sexuality"
+
+---
 # 焦虑症治疗监测与长期随访 Anxiety Treatment Monitoring & Long-term Follow-up
 
 > "What gets measured gets managed."  

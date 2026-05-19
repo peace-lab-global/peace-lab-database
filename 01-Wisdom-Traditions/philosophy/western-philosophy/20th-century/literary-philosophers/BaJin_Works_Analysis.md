@@ -1,3 +1,31 @@
+---
+
+title: "巴金主要作品深度分析"
+description: "巴金主要作品深度分析的详细解析与实践指南"
+category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
+tags: ["marriage", "personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是巴金主要作品深度分析"
+  - "巴金主要作品深度分析的核心概念"
+  - "巴金主要作品深度分析的方法与实践"
+trigger_keywords: ["巴金主要作品深度分析", "art", "behavioral", "communication", "developmental"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Enneagram_System.md"
+    relation: "attachment/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
+    relation: "attachment/communication/exercise"
+
+---
 # 巴金主要作品深度分析
 
 ## 《家》(Family, 1931)

@@ -1,3 +1,31 @@
+---
+
+title: "Dating Stages & Relationship Development (恋爱阶段与关系发展)"
+description: "Dating Stages & Relationship Development (恋爱阶段与关系发展)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Love"
+tags: ["anxiety", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Dating Stages & Relationship Development"
+  - "Dating Stages & Relationship Development的核心概念"
+  - "Dating Stages & Relationship Development的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "README.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/neuroscience"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/neuroscience"
+
+---
 # Dating Stages & Relationship Development (恋爱阶段与关系发展)
 
 ### Pre-Relationship Stages (恋爱前阶段表)

@@ -1,3 +1,31 @@
+---
+
+title: "正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)"
+description: "正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
+tags: ["addiction"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是正念饮水专业实践指南"
+  - "正念饮水专业实践指南的核心概念"
+  - "正念饮水专业实践指南的方法与实践"
+trigger_keywords: ["正念饮水专业实践指南", "act", "addiction", "adolescent", "aging"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # 正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)
 
 > **正念饮水 (Mindful Drinking)**：以非评判的、有意识的觉察态度，全然临在于饮水的每一个微细过程——从看到、拿起、感受、品味到吞咽——将一杯水转化为深度正念训练的入口。

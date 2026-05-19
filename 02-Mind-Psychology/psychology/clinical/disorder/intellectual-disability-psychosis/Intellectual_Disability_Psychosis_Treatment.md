@@ -1,3 +1,31 @@
+---
+
+title: "Intellectual Disability with Psychosis Treatment (精神发育迟滞伴发精神障碍治疗)"
+description: "Intellectual Disability with Psychosis Treatment (精神发育迟滞伴发精神障碍治疗)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Intellectual Disability Psychosis"
+tags: ["anxiety", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Intellectual Disability with Psychosis Treatment"
+  - "Intellectual Disability with Psychosis Treatment的核心概念"
+  - "Intellectual Disability with Psychosis Treatment的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "anxiety/communication/pain"
+  - path: "03-Bio-Science/biology/body-shame/prevention/Body_Shame_Prevention_Public_Health.md"
+    relation: "anxiety/body_image/communication"
+  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
+    relation: "anxiety/body_image/communication"
+  - path: "03-Bio-Science/biology/immune-inflammation/Autoimmune_Psychology.md"
+    relation: "anxiety/body_image/pain"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/communication/pain"
+
+---
 # Intellectual Disability with Psychosis Treatment (精神发育迟滞伴发精神障碍治疗)
 
 > **精神发育迟滞伴发精神障碍治疗 (ID+Psychosis Treatment)**

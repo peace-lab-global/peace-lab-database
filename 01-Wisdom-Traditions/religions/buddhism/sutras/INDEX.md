@@ -1,3 +1,31 @@
+---
+
+title: "佛教经典 (Buddhist Sutras)"
+description: "佛教经典 (Buddhist Sutras)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
+tags: ["buddhism", "dzogchen", "philosophy", "yoga", "zen", "meditation"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是佛教经典"
+  - "佛教经典的核心概念"
+  - "佛教经典的方法与实践"
+trigger_keywords: ["佛教经典", "breathwork", "buddhism", "dzogchen", "philosophy"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "buddhism/cardiovascular/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/cardiovascular/meditation"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "buddhism/cardiovascular/meditation"
+  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
+    relation: "buddhism/cardiovascular/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/cardiovascular/meditation"
+
+---
 # 佛教经典 (Buddhist Sutras)
 
 本目录收录汉传佛教核心经典原文与重要介绍，采用最权威的译本，为修行人提供可靠的教法依据。

@@ -1,3 +1,31 @@
+---
+
+title: "性教育教学工具包与实践指南 (Sexuality Education Toolkit and Practice Guide)"
+description: "性教育教学工具包与实践指南 (Sexuality Education Toolkit and Practice Guide)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Practice"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是性教育教学工具包与实践指南"
+  - "性教育教学工具包与实践指南的核心概念"
+  - "性教育教学工具包与实践指南的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Overview_Full.md"
+    relation: "anxiety/exercise/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/exercise/neuroscience"
+
+---
 # 性教育教学工具包与实践指南 (Sexuality Education Toolkit and Practice Guide)
 
 > 🛠️ **工具定位**: 提供系统化、标准化的性教育教学工具和实践指导，包含具体的教学活动设计、评估工具、资源模板和操作手册，为教育工作者提供即用型的实践支持。建议结合[课程设计指南](../theory/Curriculum_Design_Implementation_Guide.md)了解设计原理，参考[质量评估体系](../assessment/Quality_Assessment_System.md)掌握评估标准。

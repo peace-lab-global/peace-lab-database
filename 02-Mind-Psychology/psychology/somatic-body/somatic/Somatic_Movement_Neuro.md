@@ -1,3 +1,31 @@
+---
+
+title: "Neuro-Integration Movement (跨侧神经整合运动)"
+description: "Neuro-Integration Movement (跨侧神经整合运动)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["anxiety", "brain", "cortisol", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Neuro-Integration Movement"
+  - "Neuro-Integration Movement的核心概念"
+  - "Neuro-Integration Movement的方法与实践"
+trigger_keywords: ["aging", "anxiety", "body", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/INDEX.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md"
+    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/emotion"
+
+---
 # Neuro-Integration Movement (跨侧神经整合运动)
 
 ### Neuro-Reeducation: Cross-Lateral & Brain Logic (神经重塑：跨侧整合与大脑逻辑表)

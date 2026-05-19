@@ -1,3 +1,31 @@
+---
+
+title: "《上师也喝酒？》三方书评"
+description: "《上师也喝酒？》三方书评的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > The Guru Drinks Bourbon"
+tags: ["buddhism", "religion", "spirituality", "stress", "zen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《上师也喝酒？》三方书评"
+  - "《上师也喝酒？》三方书评的核心概念"
+  - "《上师也喝酒？》三方书评的方法与实践"
+trigger_keywords: ["buddhism", "cognitive", "exercise", "religion"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "buddhism/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "buddhism/communication/exercise"
+
+---
 # 《上师也喝酒？》三方书评
 
 ---

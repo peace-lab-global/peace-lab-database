@@ -1,3 +1,31 @@
+---
+
+title: "《没有目标之旅》Journey Without Goal"
+description: "《没有目标之旅》Journey Without Goal的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["dzogchen", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《没有目标之旅》Journey Without Goal"
+  - "《没有目标之旅》Journey Without Goal的核心概念"
+  - "《没有目标之旅》Journey Without Goal的方法与实践"
+trigger_keywords: ["buddhism", "dzogchen", "sexuality", "spirituality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/sexuality"
+
+---
 # 《没有目标之旅》Journey Without Goal
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1981年出版。创巴仁波切对藏传佛教金刚乘（Vajrayana）的系统性介绍。书名的悖论直击核心：金刚乘不是"为了到达某个地方"的旅程——因为**你已经在那里了**。

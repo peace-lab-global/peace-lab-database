@@ -1,3 +1,31 @@
+---
+
+title: "系列三：身体觉察系列 | Body Awareness Series"
+description: "系列三：身体觉察系列 | Body Awareness Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "mbsr", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列三：身体觉察系列 | Body Awareness Series"
+  - "系列三：身体觉察系列 | Body Awareness Series的核心概念"
+  - "系列三：身体觉察系列 | Body Awareness Series的方法与实践"
+trigger_keywords: ["系列三：身体觉察系列", "anxiety", "art", "assessment", "body"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 系列三：身体觉察系列 | Body Awareness Series
 
 > **级别**：Level 2（初级-中级过渡）

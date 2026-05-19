@@ -1,3 +1,31 @@
+---
+
+title: "杰克·康菲尔德 (Jack Kornfield)"
+description: "杰克·康菲尔德 (Jack Kornfield)的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是杰克·康菲尔德"
+  - "杰克·康菲尔德的核心概念"
+  - "杰克·康菲尔德的方法与实践"
+trigger_keywords: ["杰克", "康菲尔德", "act", "behavioral", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "buddhism/cardiovascular/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "buddhism/exercise/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
+    relation: "buddhism/cardiovascular/exercise"
+
+---
 # 杰克·康菲尔德 (Jack Kornfield)
 
 > "In the end, just three things matter: How well we have lived. How well we have loved. How well we have learned to let go."

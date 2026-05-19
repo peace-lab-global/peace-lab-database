@@ -1,3 +1,31 @@
+---
+
+title: "《约定》The Appointment"
+description: "《约定》The Appointment的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["trauma", "writing", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《约定》The Appointment"
+  - "《约定》The Appointment的核心概念"
+  - "《约定》The Appointment的方法与实践"
+trigger_keywords: ["death", "sexuality", "trauma", "writing"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/emotion"
+  - path: "README.md"
+    relation: "art_therapy/death/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
+    relation: "death/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
+    relation: "death/emotion/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
+    relation: "death/emotion/sexuality"
+
+---
 # 《约定》The Appointment
 
 > 哈金（Ha Jin）著，1994年出版。华人作家哈金以冷静而精确的笔触，讲述了中国知识分子在时代变迁中的命运。虽然不是直接的死亡主题，但书中对"时间的有限性"和"未完成的承诺"的描写，让"死亡"以隐喻的方式贯穿全书——死亡就是未能兑现的约定。

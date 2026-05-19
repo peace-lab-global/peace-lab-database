@@ -1,3 +1,31 @@
+---
+
+title: "Tibetan Healing Arts (藏地治愈艺术)"
+description: "Tibetan Healing Arts (藏地治愈艺术)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 智慧传统"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Tibetan Healing Arts"
+  - "Tibetan Healing Arts的核心概念"
+  - "Tibetan Healing Arts的方法与实践"
+trigger_keywords: ["anxiety", "art", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # Tibetan Healing Arts (藏地治愈艺术)
 
 ### Sowa Rigpa: The Science of Healing (藏医五大基础理论表)

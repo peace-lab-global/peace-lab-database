@@ -1,3 +1,32 @@
+---
+
+title: "出轨心理学与关系干预 (Infidelity Psychology & Relationship Intervention)"
+description: "出轨心理学与关系干预 (Infidelity Psychology & Relationship Intervention)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Infidelity"
+tags: ["anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是出轨心理学与关系干预"
+  - "出轨心理学与关系干预的核心概念"
+  - "出轨心理学与关系干预的方法与实践"
+  - "出轨心理学与关系干预的自助方法"
+trigger_keywords: ["出轨心理学与关系干预", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/communication/personality"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/personality"
+
+---
 # 出轨心理学与关系干预 (Infidelity Psychology & Relationship Intervention)
 
 ## 出轨现象的多维度分析框架

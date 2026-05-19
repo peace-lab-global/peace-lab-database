@@ -1,3 +1,31 @@
+---
+
+title: "《永恒轮回的神话》The Myth of the Eternal Return"
+description: "《永恒轮回的神话》The Myth of the Eternal Return的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
+tags: ["personality"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《永恒轮回的神话》The Myth of the Eternal Return"
+  - "《永恒轮回的神话》The Myth of the Eternal Return的核心概念"
+  - "《永恒轮回的神话》The Myth of the Eternal Return的方法与实践"
+trigger_keywords: ["anxiety", "behavioral", "crisis", "death"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "anxiety/death/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
+    relation: "anxiety/death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
+    relation: "anxiety/death/exercise"
+
+---
 # 《永恒轮回的神话》The Myth of the Eternal Return
 
 **作者：** 米尔恰·伊利亚德 (Mircea Eliade)  

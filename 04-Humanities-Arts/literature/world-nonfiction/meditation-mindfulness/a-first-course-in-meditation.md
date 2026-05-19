@@ -1,3 +1,31 @@
+---
+
+title: "《平静的第一堂课》A First Course in Meditation"
+description: "《平静的第一堂课》A First Course in Meditation的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["mindfulness", "religion"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《平静的第一堂课》A First Course in Meditation"
+  - "《平静的第一堂课》A First Course in Meditation的核心概念"
+  - "《平静的第一堂课》A First Course in Meditation的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "anxiety/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+    relation: "anxiety/meditation/nutrition"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "anxiety/art_therapy/meditation"
+
+---
 # 《平静的第一堂课》A First Course in Meditation
 
 > 一行禅师（Thich Nhat Hanh）著，2011年出版。一行禅师为完全初学者设计的冥想入门，以极短的章节、简单的练习和温柔的语言，邀请任何人——无论年龄、身体状况、宗教信仰——开始冥想。

@@ -1,3 +1,31 @@
+---
+
+title: "Ṣaṭkarma: Six Purification Practices (六净化法)"
+description: "Ṣaṭkarma: Six Purification Practices (六净化法)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Ṣaṭkarma: Six Purification Practices"
+  - "Ṣaṭkarma: Six Purification Practices的核心概念"
+  - "Ṣaṭkarma: Six Purification Practices的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/immune"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
 # Ṣaṭkarma: Six Purification Practices (六净化法)
 
 ## 核心术语表 (Core Terminology)

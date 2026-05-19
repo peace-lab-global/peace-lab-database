@@ -1,3 +1,31 @@
+---
+
+title: "Intervention Strategies and Policy Recommendations for Gender Discrimination (性别歧视干预策略与政策建议)"
+description: "Intervention Strategies and Policy Recommendations for Gender Discrimination (性别歧视干预策略与政策建议)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Gender Discrimination"
+tags: ["aging"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Intervention Strategies and Policy Recommendations for Gender Discrimination"
+  - "Intervention Strategies and Policy Recommendations for Gender Discrimination的核心概念"
+  - "Intervention Strategies and Policy Recommendations for Gender Discrimination的方法与实践"
+trigger_keywords: ["act", "adolescent", "aging", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "aging/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
+    relation: "aging/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "aging/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "aging/sexuality/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
+    relation: "aging/sexuality/therapy"
+
+---
 # Intervention Strategies and Policy Recommendations for Gender Discrimination (性别歧视干预策略与政策建议)
 
 ## 多层次综合治理框架 (Multi-level Comprehensive Governance Framework)

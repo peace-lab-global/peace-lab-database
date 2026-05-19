@@ -1,3 +1,31 @@
+---
+
+title: "前行法 (Ngöndro / Preliminary Practices)"
+description: "前行法 (Ngöndro / Preliminary Practices)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 藏传佛教"
+tags: ["buddhism", "habits", "longevity", "pain", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是前行法"
+  - "前行法的核心概念"
+  - "前行法的方法与实践"
+trigger_keywords: ["前行法", "act", "body", "buddhism", "death"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/buddhism/pain"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "aging/buddhism/pain"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/buddhism/pain"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "buddhism/death/pain"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "aging/buddhism/pain"
+
+---
 # 前行法 (Ngöndro / Preliminary Practices)
 
 > **前行法 (Ngöndro)**：藏传佛教密法修行前的基础净化与积资修法，通过大礼拜、金刚萨埵、献曼达、上师瑜伽等四加行，为正行打下坚实基础。

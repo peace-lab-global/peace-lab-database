@@ -1,3 +1,31 @@
+---
+
+title: "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου"
+description: "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Home Organization"
+tags: ["meditation", "productivity"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου"
+  - "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的核心概念"
+  - "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的方法与实践"
+trigger_keywords: ["空间设计原理", "art", "assessment", "child", "developmental"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
+    relation: "emotion/exercise/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "emotion/exercise/meditation"
+
+---
 # 空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου
 
 > **空间设计原理**系统阐述人居环境设计的基本理论和实践方法，涵盖空间规划、功能布局、美学原则、人因工程等核心设计要素，为空间设计师、室内装饰师和居住者提供科学的设计指导和实用的优化方案。

@@ -1,4 +1,5 @@
 ---
+
 skill_id: S_001
 skill_name: 压力状态综合评估
 skill_name_en: Comprehensive Stress Assessment
@@ -30,6 +31,18 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
+cross_refs:
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
+    relation: "anxiety/communication/depression"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
+    relation: "anxiety/communication/depression"
+
 ---
 
 # 压力状态综合评估技能

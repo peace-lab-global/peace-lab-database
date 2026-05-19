@@ -1,3 +1,31 @@
+---
+
+title: "Authentic Happiness 真实的幸福"
+description: "Authentic Happiness 真实的幸福的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Topics"
+tags: ["depression", "flow", "intervention"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Authentic Happiness 真实的幸福"
+  - "Authentic Happiness 真实的幸福的核心概念"
+  - "Authentic Happiness 真实的幸福的方法与实践"
+trigger_keywords: ["act", "body", "depression", "developmental"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "depression/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "depression/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "depression/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "depression/emotion/exercise"
+
+---
 # Authentic Happiness 真实的幸福
 
 ## 作者背景 (Author Background)

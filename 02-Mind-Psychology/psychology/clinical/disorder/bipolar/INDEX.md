@@ -1,3 +1,31 @@
+---
+
+title: "双相情感障碍 (Bipolar Disorder) | Index"
+description: "双相情感障碍 (Bipolar Disorder) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Bipolar"
+tags: ["cbt", "depression", "intervention", "bipolar", "sleep", "mindfulness"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是双相情感障碍  | Index"
+  - "双相情感障碍  | Index的核心概念"
+  - "双相情感障碍  | Index的方法与实践"
+trigger_keywords: ["双相情感障碍", "Index", "adolescent", "assessment", "cbt", "clinical"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "depression/emotion/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "depression/emotion/neuroscience"
+
+---
 # 双相情感障碍 (Bipolar Disorder) | Index
 
 > 双相情感障碍是一种以躁狂/轻躁狂发作与抑郁发作交替或混合出现为特征的慢性精神障碍。全球终生患病率约 1-3%，是致残率最高的精神疾病之一。本专题覆盖双相障碍的临床诊断、自我评估、治疗策略，以及与抑郁鉴别的交叉专题。

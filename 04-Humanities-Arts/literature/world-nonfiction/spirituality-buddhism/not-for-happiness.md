@@ -1,3 +1,31 @@
+---
+
+title: "《人间是剧场》Not for Happiness"
+description: "《人间是剧场》Not for Happiness的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["mindfulness", "positive-psychology", "social", "spirituality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《人间是剧场》Not for Happiness"
+  - "《人间是剧场》Not for Happiness的核心概念"
+  - "《人间是剧场》Not for Happiness的方法与实践"
+trigger_keywords: ["buddhism", "mindfulness", "positive-psychology", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《人间是剧场》Not for Happiness
 
 > 宗萨蒋扬钦哲仁波切（Dzongsar Jamyang Khyentse Rinpoche）著，2010年出版。书名再次挑衅：如果你修行是为了"快乐"，你可能来错了地方。佛教不是为了让你舒服，而是为了让你觉醒——而觉醒往往是痛苦的。

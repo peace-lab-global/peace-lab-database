@@ -1,3 +1,31 @@
+---
+
+title: "SPA Physiological & Psychological Effects (SPA生理心理效应机制)"
+description: "SPA Physiological & Psychological Effects (SPA生理心理效应机制)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > Spa"
+tags: ["aging", "brain", "pain", "immune"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是SPA Physiological & Psychological Effects"
+  - "SPA Physiological & Psychological Effects的核心概念"
+  - "SPA Physiological & Psychological Effects的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Modern_Research_Review.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # SPA Physiological & Psychological Effects (SPA生理心理效应机制)
 
 > 🧠 **科学概览**: 本文档基于现代神经科学、内分泌学和心理学研究成果，深入解析SPA治疗对人体生理和心理系统的多重作用机制。涵盖神经系统调节、内分泌平衡、免疫功能增强、心理状态改善等核心机制。

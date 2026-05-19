@@ -1,3 +1,31 @@
+---
+
+title: "专注力冥想疗愈"
+description: "专注力冥想疗愈的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Focus Therapy"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是专注力冥想疗愈"
+  - "专注力冥想疗愈的核心概念"
+  - "专注力冥想疗愈的方法与实践"
+trigger_keywords: ["专注力冥想疗愈", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "anxiety/buddhism/emotion"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/emotion"
+
+---
 # 专注力冥想疗愈
 
 ## 概述

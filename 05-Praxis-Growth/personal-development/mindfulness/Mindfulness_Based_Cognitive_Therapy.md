@@ -1,3 +1,32 @@
+---
+
+title: "正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)"
+description: "正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念认知疗法"
+  - "正念认知疗法的核心概念"
+  - "正念认知疗法的方法与实践"
+  - "正念认知疗法的循证证据"
+trigger_keywords: ["正念认知疗法", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/depression"
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)
 
 ## 核心术语表 (Core Terminology)

@@ -1,3 +1,31 @@
+---
+
+title: "Dalí (达利)主要作品深度分析"
+description: "Dalí (达利)主要作品深度分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
+tags: ["cinema"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Dalí 主要作品深度分析"
+  - "Dalí 主要作品深度分析的核心概念"
+  - "Dalí 主要作品深度分析的方法与实践"
+trigger_keywords: ["act", "anxiety", "art", "body"]
+cross_refs:
+  - path: "README.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "anxiety/art_therapy/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "anxiety/communication/death"
+
+---
 # Dalí (达利)主要作品深度分析
 
 ## 概述 (Overview)

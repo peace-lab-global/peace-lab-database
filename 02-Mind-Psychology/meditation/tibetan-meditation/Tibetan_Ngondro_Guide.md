@@ -1,3 +1,31 @@
+---
+
+title: "大圆满前行五加行实操指南"
+description: "大圆满前行五加行实操指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Tibetan Meditation"
+tags: ["anxiety", "attachment", "dzogchen"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是大圆满前行五加行实操指南"
+  - "大圆满前行五加行实操指南的核心概念"
+  - "大圆满前行五加行实操指南的方法与实践"
+trigger_keywords: ["act", "anxiety", "attachment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 大圆满前行五加行实操指南
 
 > **最后更新**: 2026-05

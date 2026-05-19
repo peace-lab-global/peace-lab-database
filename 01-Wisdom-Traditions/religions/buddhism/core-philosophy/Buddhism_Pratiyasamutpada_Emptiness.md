@@ -1,3 +1,31 @@
+---
+
+title: "缘起性空哲学详论 (Pratītyasamutpāda & Śūnyatā Philosophy)"
+description: "缘起性空哲学详论 (Pratītyasamutpāda & Śūnyatā Philosophy)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
+tags: ["addiction", "buddhism", "philosophy"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是缘起性空哲学详论"
+  - "缘起性空哲学详论的核心概念"
+  - "缘起性空哲学详论的方法与实践"
+trigger_keywords: ["缘起性空哲学详论", "act", "addiction", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+    relation: "aging/anxiety/buddhism"
+
+---
 # 缘起性空哲学详论 (Pratītyasamutpāda & Śūnyatā Philosophy)
 
 > **缘起性空 (Pratītyasamutpāda & Śūnyatā)**：佛教最根本的哲学原理，揭示一切现象依因缘和合而生，无独立自性，故说为空。这是佛教区别于其他宗教哲学的核心标识。

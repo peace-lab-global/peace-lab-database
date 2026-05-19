@@ -1,3 +1,31 @@
+---
+
+title: "系列十三：中西方文化场景系列 | Cultural Scenes Series"
+description: "系列十三：中西方文化场景系列 | Cultural Scenes Series的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > 冥想引导课程"
+tags: ["anxiety", "brain", "calligraphy", "depression", "adhd"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是系列十三：中西方文化场景系列 | Cultural Scenes Series"
+  - "系列十三：中西方文化场景系列 | Cultural Scenes Series的核心概念"
+  - "系列十三：中西方文化场景系列 | Cultural Scenes Series的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "body"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
+    relation: "aging/anxiety/art_therapy"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/art_therapy/death"
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "anxiety/death/depression"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "aging/anxiety/depression"
+
+---
 # 系列十三：中西方文化场景系列 | Cultural Scenes Series
 
 > **级别**：Level 2-4（初中高级混合）

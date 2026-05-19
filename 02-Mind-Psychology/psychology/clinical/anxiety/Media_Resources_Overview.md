@@ -1,3 +1,31 @@
+---
+
+title: "媒体资源总览 (Media Resources Overview)"
+description: "媒体资源总览 (Media Resources Overview)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
+tags: ["anxiety", "brain", "healing", "sleep"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是媒体资源总览"
+  - "媒体资源总览的核心概念"
+  - "媒体资源总览的方法与实践"
+trigger_keywords: ["媒体资源总览", "anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "README.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 媒体资源总览 (Media Resources Overview)
 
 > **目标**：为用户提供高质量的心理健康、冥想、学习相关的数字化资源推荐，包括应用程序、播客、书籍等。

@@ -1,3 +1,31 @@
+---
+
+title: "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία"
+description: "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的详细解析与实践指南"
+category: "实践与个人增长 > 写作"
+tags: ["communication", "decision-making", "literature"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία"
+  - "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的核心概念"
+  - "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的方法与实践"
+trigger_keywords: ["数字文学创作", "art", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "communication/neuroscience/productivity"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/neuroscience/productivity"
+
+---
 # 数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία
 
 > **数字文学创作**系统阐述数字化时代文学创作的新形式、新工具和新方法，涵盖网络文学、互动小说、多媒体叙事等前沿创作领域，为写作者提供适应数字时代的创作指导。

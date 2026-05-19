@@ -1,3 +1,31 @@
+---
+
+title: "TED社会议题与政治精选 | TED Social & Political Issues Collection"
+description: "TED社会议题与政治精选 | TED Social & Political Issues Collection的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["addiction", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是TED社会议题与政治精选 | TED Social & Political Issues Collection"
+  - "TED社会议题与政治精选 | TED Social & Political Issues Collection的核心概念"
+  - "TED社会议题与政治精选 | TED Social & Political Issues Collection的方法与实践"
+trigger_keywords: ["act", "addiction", "art", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/death/exercise"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/exercise"
+
+---
 # TED社会议题与政治精选 | TED Social & Political Issues Collection
 
 > **社会议题与政治**是理解现代社会运行机制的核心。本文件精选TED平台上关于社会公正、政治哲学、全球化、媒体影响等领域的深度演讲，涵盖从个体权利到全球治理的各个层面，为关心社会发展和政治进程的学习者提供多元视角和深刻洞察。

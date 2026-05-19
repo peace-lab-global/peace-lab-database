@@ -1,3 +1,31 @@
+---
+
+title: "公共健康 | Public Health"
+description: "公共健康 | Public Health的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是公共健康 | Public Health"
+  - "公共健康 | Public Health的核心概念"
+  - "公共健康 | Public Health的方法与实践"
+trigger_keywords: ["公共健康", "art", "assessment", "behavioral", "brain"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/death/immune"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "aging/communication/immune"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
+    relation: "aging/communication/death"
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+    relation: "communication/death/immune"
+
+---
 # 公共健康 | Public Health
 
 > **公共健康**（Public Health）关注人群层面的健康促进和疾病预防，涵盖流行病学、健康政策、环境健康和全球卫生治理等领域。TED平台上关于公共健康的演讲从传染病防控到慢性病管理，从健康不平等到卫生系统改革，提供了理解和管理健康挑战的系统视角。

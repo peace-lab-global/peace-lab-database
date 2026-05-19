@@ -1,3 +1,31 @@
+---
+
+title: "Border Town | 边城"
+description: "Border Town | 边城的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Border Town"
+tags: ["cinema", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Border Town | 边城"
+  - "Border Town | 边城的核心概念"
+  - "Border Town | 边城的方法与实践"
+trigger_keywords: ["边城", "cinema", "literature", "philosophy", "sexuality"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/sexuality"
+
+---
 # Border Town | 边城
 
 > 沈从文中篇小说，1934年出版。以湘西茶峒小镇为背景，讲述了少女翠翠与船总家两兄弟天保、傩送之间的爱情故事。被誉为"中国现代文学最美的作品"。

@@ -1,3 +1,31 @@
+---
+
+title: "济群法师 | Ji Qun Fa Shi"
+description: "济群法师 | Ji Qun Fa Shi的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Jiqun"
+tags: ["buddhism", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是济群法师 | Ji Qun Fa Shi"
+  - "济群法师 | Ji Qun Fa Shi的核心概念"
+  - "济群法师 | Ji Qun Fa Shi的方法与实践"
+trigger_keywords: ["济群法师", "buddhism", "psychology", "佛教", "宗教与灵性"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 济群法师 | Ji Qun Fa Shi
 
 ## 简介

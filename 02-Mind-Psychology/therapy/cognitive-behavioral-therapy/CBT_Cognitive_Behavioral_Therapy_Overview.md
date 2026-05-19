@@ -1,3 +1,32 @@
+---
+
+title: "认知行为疗法 (CBT: Cognitive Behavioral Therapy)"
+description: "认知行为疗法 (CBT: Cognitive Behavioral Therapy)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > Cognitive Behavioral Therapy"
+tags: ["anxiety", "brain", "cbt", "ocd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是认知行为疗法"
+  - "认知行为疗法的核心概念"
+  - "认知行为疗法的方法与实践"
+  - "认知行为疗法的循证证据"
+trigger_keywords: ["认知行为疗法", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "anxiety/depression/emotion"
+  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
+    relation: "anxiety/depression/emotion"
+
+---
 # 认知行为疗法 (CBT: Cognitive Behavioral Therapy)
 
 > **目标**：构建完整的CBT理论体系与实践框架，涵盖核心原理、技术方法、治疗流程及循证应用。CBT是当代最具实证支持的心理治疗方法，广泛应用于各类心理障碍的治疗。

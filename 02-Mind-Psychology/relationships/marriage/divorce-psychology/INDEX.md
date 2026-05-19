@@ -1,3 +1,32 @@
+---
+
+title: "divorce-psychology | 离婚心理学专题"
+description: "divorce-psychology | 离婚心理学专题的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
+tags: ["decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是divorce-psychology | 离婚心理学专题"
+  - "divorce-psychology | 离婚心理学专题的核心概念"
+  - "divorce-psychology | 离婚心理学专题的方法与实践"
+  - "divorce-psychology | 离婚心理学专题的自助方法"
+trigger_keywords: ["离婚心理学专题", "act", "assessment", "clinical", "cognitive"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
+    relation: "attachment/communication/productivity"
+  - path: "README.md"
+    relation: "attachment/communication/productivity"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
+    relation: "communication/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "attachment/productivity/sexuality"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "attachment/productivity/sexuality"
+
+---
 # divorce-psychology | 离婚心理学专题
 
 > 离婚心理学的系统知识体系：从决策过程到子女影响，从共同育儿到家庭重建

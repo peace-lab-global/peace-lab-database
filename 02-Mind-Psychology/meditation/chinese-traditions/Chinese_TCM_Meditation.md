@@ -1,3 +1,31 @@
+---
+
+title: "中医与冥想 | Traditional Chinese Medicine & Meditation"
+description: "中医与冥想 | Traditional Chinese Medicine & Meditation的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Chinese Traditions"
+tags: ["anxiety", "cardiovascular", "depression", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是中医与冥想 | Traditional Chinese Medicine & Meditation"
+  - "中医与冥想 | Traditional Chinese Medicine & Meditation的核心概念"
+  - "中医与冥想 | Traditional Chinese Medicine & Meditation的方法与实践"
+trigger_keywords: ["中医与冥想", "act", "anxiety", "body", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "daoism/depression/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/daoism/depression"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "anxiety/depression/emotion"
+  - path: "README.md"
+    relation: "anxiety/cardiovascular/daoism"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/cardiovascular/daoism"
+
+---
 # 中医与冥想 | Traditional Chinese Medicine & Meditation
 
 > **领域**：中国本土冥想与禅修（Chinese Indigenous Meditation）

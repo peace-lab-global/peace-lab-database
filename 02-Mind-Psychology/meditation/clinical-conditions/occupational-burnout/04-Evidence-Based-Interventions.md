@@ -1,3 +1,31 @@
+---
+
+title: "04. 循证干预方案 | Evidence-Based Interventions"
+description: "04. 循证干预方案 | Evidence-Based Interventions的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
+tags: ["anxiety", "cbt", "mbsr", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是04. 循证干预方案 | Evidence-Based Interventions"
+  - "04. 循证干预方案 | Evidence-Based Interventions的核心概念"
+  - "04. 循证干预方案 | Evidence-Based Interventions的方法与实践"
+trigger_keywords: ["04. 循证干预方案", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "anxiety/emotion/meditation"
+
+---
 # 04. 循证干预方案 | Evidence-Based Interventions
 
 > **文档定位**：本章汇总正念及相关干预在职业倦怠中的高质量循证证据，为临床决策提供参考。不仅包括正念，也涵盖 ACT、MSC（正念自我慈悲）等与正念高度整合的干预。

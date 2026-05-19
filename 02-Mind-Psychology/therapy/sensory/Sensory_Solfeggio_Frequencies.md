@@ -1,3 +1,31 @@
+---
+
+title: "Solfeggio Frequencies (索尔菲吉奥频率体系：完整九频理论与临床应用)"
+description: "Solfeggio Frequencies (索尔菲吉奥频率体系：完整九频理论与临床应用)的详细解析与实践指南"
+category: "心智与心理学 > 疗法 > 感官疗法"
+tags: ["addiction", "anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Solfeggio Frequencies"
+  - "Solfeggio Frequencies的核心概念"
+  - "Solfeggio Frequencies的方法与实践"
+trigger_keywords: ["act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Diagnostics.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/neuroscience/pain"
+  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
+    relation: "anxiety/neuroscience/pain"
+
+---
 # Solfeggio Frequencies (索尔菲吉奥频率体系：完整九频理论与临床应用)
 
 ### Solfeggio Historical Origins & Mathematical Foundation (索尔菲吉奥历史起源与数论基础表)

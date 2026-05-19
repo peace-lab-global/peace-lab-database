@@ -1,3 +1,31 @@
+---
+
+title: "LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)"
+description: "LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)的详细解析与实践指南"
+category: "生命科学与生物医学 > 死亡学"
+tags: ["aging", "sexuality", "death"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是LGBTQ+ Communities: Death, Grief & End-of-Life"
+  - "LGBTQ+ Communities: Death, Grief & End-of-Life的核心概念"
+  - "LGBTQ+ Communities: Death, Grief & End-of-Life的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+    relation: "aging/anxiety/death"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "aging/anxiety/communication"
+
+---
 # LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)
 
 > *"对于许多LGBTQ+老人来说，最大的恐惧不是死亡本身，而是回到那个 closet 里——在生命的最后时刻，被迫隐藏自己。"*

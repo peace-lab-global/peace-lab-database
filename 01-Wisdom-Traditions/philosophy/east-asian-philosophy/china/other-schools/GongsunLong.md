@@ -1,3 +1,31 @@
+---
+
+title: "公孙龙 (Gongsun Long)"
+description: "公孙龙 (Gongsun Long)的详细解析与实践指南"
+category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
+tags: ["healing", "philosophy", "treatment"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是公孙龙"
+  - "公孙龙的核心概念"
+  - "公孙龙的方法与实践"
+trigger_keywords: ["公孙龙", "cognitive", "communication", "developmental", "healing"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+    relation: "communication/exercise/productivity"
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "communication/exercise/productivity"
+
+---
 # 公孙龙 (Gongsun Long)
 
 ## 核心思想 (Core Ideas)

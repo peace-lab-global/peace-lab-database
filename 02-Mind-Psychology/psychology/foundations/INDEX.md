@@ -1,3 +1,21 @@
+---
+
+title: "理论基础 (Foundations) | Index"
+description: "理论基础 (Foundations) | Index的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 心理学基础"
+tags: ["personality", "positive-psychology", "treatment", "心理学"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是理论基础  | Index"
+  - "理论基础  | Index的核心概念"
+  - "理论基础  | Index的方法与实践"
+trigger_keywords: ["理论基础", "Index", "assessment", "clinical", "developmental", "personality"]
+cross_refs: []
+
+---
 # 理论基础 (Foundations) | Index
 
 > 心理学流派、理论框架、术语辞典与积极心理学。

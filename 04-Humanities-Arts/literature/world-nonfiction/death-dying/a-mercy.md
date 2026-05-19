@@ -1,3 +1,31 @@
+---
+
+title: "《仁慈》A Mercy"
+description: "《仁慈》A Mercy的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《仁慈》A Mercy"
+  - "《仁慈》A Mercy的核心概念"
+  - "《仁慈》A Mercy的方法与实践"
+trigger_keywords: ["behavioral", "body", "death", "literature"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death/exercise"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death/exercise"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "death/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/exercise"
+
+---
 # 《仁慈》A Mercy
 
 > 托妮·莫里森（Toni Morrison）著，2008年出版。诺贝尔文学奖得主莫里森的又一杰作，以17世纪的美国殖民地为背景，讲述了一个母亲为了避免女儿成为奴隶而做出的"仁慈"选择——杀死女儿。这个"仁慈"的暴力行为成为了整个叙事的中心。

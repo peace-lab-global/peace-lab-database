@@ -1,3 +1,31 @@
+---
+
+title: "冥想执行师伦理与法律 | Professional Ethics Legal"
+description: "冥想执行师伦理与法律 | Professional Ethics Legal的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Professional Handbook"
+tags: ["cardiovascular", "decision-making", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是冥想执行师伦理与法律 | Professional Ethics Legal"
+  - "冥想执行师伦理与法律 | Professional Ethics Legal的核心概念"
+  - "冥想执行师伦理与法律 | Professional Ethics Legal的方法与实践"
+trigger_keywords: ["冥想执行师伦理与法律", "act", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "cardiovascular/emotion/meditation"
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "cardiovascular/emotion/meditation"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "cardiovascular/emotion/meditation"
+  - path: "README.md"
+    relation: "cardiovascular/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
+    relation: "emotion/meditation/sexuality"
+
+---
 # 冥想执行师伦理与法律 | Professional Ethics Legal
 
 > **领域**：冥想执行师职业手册 — 伦理与法律

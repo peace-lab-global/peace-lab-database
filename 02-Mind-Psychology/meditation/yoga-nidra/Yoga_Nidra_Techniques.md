@@ -1,3 +1,31 @@
+---
+
+title: "瑜伽尼德拉技术体系 | Yoga Nidra Techniques"
+description: "瑜伽尼德拉技术体系 | Yoga Nidra Techniques的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Yoga Nidra"
+tags: ["anxiety", "brain", "habits"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽尼德拉技术体系 | Yoga Nidra Techniques"
+  - "瑜伽尼德拉技术体系 | Yoga Nidra Techniques的核心概念"
+  - "瑜伽尼德拉技术体系 | Yoga Nidra Techniques的方法与实践"
+trigger_keywords: ["瑜伽尼德拉技术体系", "anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 瑜伽尼德拉技术体系 | Yoga Nidra Techniques
 
 > **文档类型**: 技术实施指南 | Technical Guide

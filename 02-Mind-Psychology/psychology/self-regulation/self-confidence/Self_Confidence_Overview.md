@@ -1,3 +1,31 @@
+---
+
+title: "Self-Confidence Psychology (自信心理学)"
+description: "Self-Confidence Psychology (自信心理学)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Self Confidence"
+tags: ["anxiety", "attachment", "cbt"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Self-Confidence Psychology"
+  - "Self-Confidence Psychology的核心概念"
+  - "Self-Confidence Psychology的方法与实践"
+trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/authority-complex/Father_Mother_Complex.md"
+    relation: "anxiety/attachment/emotion"
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md"
+    relation: "anxiety/attachment/emotion"
+
+---
 # Self-Confidence Psychology (自信心理学)
 
 > **自信 (Self-Confidence / Fiducia Sui)**

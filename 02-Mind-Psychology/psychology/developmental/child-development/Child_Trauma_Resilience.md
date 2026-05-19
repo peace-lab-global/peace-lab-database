@@ -1,3 +1,31 @@
+---
+
+title: "儿童创伤与韧性 | Child Trauma & Resilience"
+description: "儿童创伤与韧性 | Child Trauma & Resilience的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 发展心理学 > Child Development"
+tags: ["attachment", "brain", "cbt", "emdr", "trauma", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是儿童创伤与韧性 | Child Trauma & Resilience"
+  - "儿童创伤与韧性 | Child Trauma & Resilience的核心概念"
+  - "儿童创伤与韧性 | Child Trauma & Resilience的方法与实践"
+trigger_keywords: ["儿童创伤与韧性", "act", "attachment", "behavioral", "body"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Child_Development_Trauma.md"
+    relation: "attachment/cardiovascular/depression"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "attachment/depression/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-aversion/Sexual_Aversion_Overview.md"
+    relation: "attachment/cardiovascular/depression"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "cardiovascular/depression/emotion"
+
+---
 # 儿童创伤与韧性 | Child Trauma & Resilience
 
 > **学科定位**: 创伤心理学 · 发展精神病理学 · 韧性研究

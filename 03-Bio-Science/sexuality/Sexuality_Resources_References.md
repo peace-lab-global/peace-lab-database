@@ -1,3 +1,31 @@
+---
+
+title: "Resources and References in Sexuality (性学资源与参考文献)"
+description: "Resources and References in Sexuality (性学资源与参考文献)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学"
+tags: ["sexuality"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Resources and References in Sexuality"
+  - "Resources and References in Sexuality的核心概念"
+  - "Resources and References in Sexuality的方法与实践"
+trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
+    relation: "sexuality/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
+    relation: "sexuality/therapy"
+
+---
 # Resources and References in Sexuality (性学资源与参考文献)
 
 ## 核心学术期刊与出版物 (Core Academic Journals and Publications)

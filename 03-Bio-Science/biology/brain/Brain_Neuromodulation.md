@@ -1,3 +1,31 @@
+---
+
+title: "神经调控技术 (Neuromodulation Technologies)"
+description: "神经调控技术 (Neuromodulation Technologies)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 神经科学"
+tags: ["brain", "depression", "exercise", "inflammation"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是神经调控技术"
+  - "神经调控技术的核心概念"
+  - "神经调控技术的方法与实践"
+trigger_keywords: ["神经调控技术", "act", "anxiety", "brain", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+    relation: "anxiety/depression/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "anxiety/depression/exercise"
+
+---
 # 神经调控技术 (Neuromodulation Technologies)
 
 > **目标**：系统化的非侵入性神经调控技术，涵盖tDCS、tACS、tRNS、TMS等电磁刺激方法的机制、协议、临床应用及安全性。

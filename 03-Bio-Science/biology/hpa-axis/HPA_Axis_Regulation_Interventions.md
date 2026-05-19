@@ -1,3 +1,31 @@
+---
+
+title: "HPA轴调节与干预 (HPA Axis Regulation & Interventions)"
+description: "HPA轴调节与干预 (HPA Axis Regulation & Interventions)的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > HPA轴"
+tags: ["HPA轴", "addiction", "aging", "attachment", "nutrition", "sleep"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是HPA轴调节与干预"
+  - "HPA轴调节与干预的核心概念"
+  - "HPA轴调节与干预的方法与实践"
+trigger_keywords: ["HPA轴调节与干预", "HPA轴", "act", "addiction", "adolescent"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
+    relation: "aging/anxiety/attachment"
+  - path: "README.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # HPA轴调节与干预 (HPA Axis Regulation & Interventions)
 
 > **从生活方式到临床治疗的系统性干预策略** (Systematic Interventions from Lifestyle to Clinical Treatment)

@@ -1,3 +1,32 @@
+---
+
+title: "肖邦《夜曲》心理学与疗愈功能分析"
+description: "肖邦《夜曲》心理学与疗愈功能分析的详细解析与实践指南"
+category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Nocturnes"
+tags: ["cardiovascular"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是肖邦《夜曲》心理学与疗愈功能分析"
+  - "肖邦《夜曲》心理学与疗愈功能分析的核心概念"
+  - "肖邦《夜曲》心理学与疗愈功能分析的方法与实践"
+  - "肖邦《夜曲》心理学与疗愈功能分析的自助方法"
+trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "README.md"
+    relation: "anxiety/art_therapy/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
 # 肖邦《夜曲》心理学与疗愈功能分析
 
 ## 心理治疗理论基础

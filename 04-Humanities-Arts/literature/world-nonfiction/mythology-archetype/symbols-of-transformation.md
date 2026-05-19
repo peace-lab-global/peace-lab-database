@@ -1,3 +1,31 @@
+---
+
+title: "《转化的象征》Symbols of Transformation"
+description: "《转化的象征》Symbols of Transformation的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
+tags: ["freud", "jung", "personality", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《转化的象征》Symbols of Transformation"
+  - "《转化的象征》Symbols of Transformation的核心概念"
+  - "《转化的象征》Symbols of Transformation的方法与实践"
+trigger_keywords: ["buddhism", "death", "freud", "jung"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
+    relation: "communication/death/personality"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
+    relation: "buddhism/death/personality"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/communication/death"
+
+---
 # 《转化的象征》Symbols of Transformation
 
 > 卡尔·荣格（Carl Jung）著，1912年出版。荣格与弗洛伊德决裂后的第一部重要著作，标志着他从精神分析转向分析心理学。书中通过对一位年轻女性的梦境和幻觉的分析，展示了"力比多"（心理能量）的转化过程——从性的本能到精神的追求。

@@ -1,3 +1,31 @@
+---
+
+title: "汉传佛教大藏经体系"
+description: "汉传佛教大藏经体系的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > History"
+tags: ["buddhism", "mindfulness", "religion", "yoga", "zen", "宗教与灵性"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是汉传佛教大藏经体系"
+  - "汉传佛教大藏经体系的核心概念"
+  - "汉传佛教大藏经体系的方法与实践"
+trigger_keywords: ["汉传佛教大藏经体系", "buddhism", "mindfulness", "religion", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "buddhism/meditation/sexuality"
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "buddhism/meditation/sexuality"
+
+---
 # 汉传佛教大藏经体系
 
 > **大藏经**（梵语：Tripiṭaka，巴利语：Tipiṭaka），又称**一切经**、**三藏**，是佛教典籍的总汇，包含经、律、论三部分。汉传佛教大藏经是历史上最为完整、卷帙最为浩繁的佛教文献集成。

@@ -1,3 +1,31 @@
+---
+
+title: "正念开会专业实践指南 (Mindful Meeting Practice)"
+description: "正念开会专业实践指南 (Mindful Meeting Practice)的详细解析与实践指南"
+category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
+tags: ["attachment", "communication"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是正念开会专业实践指南"
+  - "正念开会专业实践指南的核心概念"
+  - "正念开会专业实践指南的方法与实践"
+trigger_keywords: ["正念开会专业实践指南", "act", "anxiety", "assessment", "attachment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "anxiety/attachment/communication"
+  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
+    relation: "anxiety/attachment/communication"
+
+---
 # 正念开会专业实践指南 (Mindful Meeting Practice)
 
 ## 目录 (Table of Contents)

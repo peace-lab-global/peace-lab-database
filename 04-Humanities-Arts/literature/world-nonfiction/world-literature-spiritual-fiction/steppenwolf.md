@@ -1,3 +1,31 @@
+---
+
+title: "《荒原狼》Steppenwolf"
+description: "《荒原狼》Steppenwolf的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
+tags: ["jung", "literature", "loneliness", "marriage", "music"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《荒原狼》Steppenwolf"
+  - "《荒原狼》Steppenwolf的核心概念"
+  - "《荒原狼》Steppenwolf的方法与实践"
+trigger_keywords: ["art", "behavioral", "crisis", "jung"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "anxiety/attachment/exercise"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
+    relation: "anxiety/attachment/exercise"
+
+---
 # 《荒原狼》Steppenwolf
 
 **作者**：赫尔曼·黑塞 (Hermann Hesse)  

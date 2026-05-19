@@ -1,3 +1,21 @@
+---
+
+title: "Meditation Assessment Tools v3"
+description: "Meditation Assessment Tools v3的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Meditation Assessment Tools v3"
+  - "Meditation Assessment Tools v3的核心概念"
+  - "Meditation Assessment Tools v3的方法与实践"
+trigger_keywords: ["冥想"]
+cross_refs: []
+
+---
 # Meditation Assessment Tools v3
 
 > 此页面为占位文件，内容待补充。

@@ -1,3 +1,31 @@
+---
+
+title: "ADHD Self-Assessment & Screening (ADHD自我评估与筛查指南)"
+description: "ADHD Self-Assessment & Screening (ADHD自我评估与筛查指南)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Adhd"
+tags: ["anxiety", "brain", "cbt", "adhd", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是ADHD Self-Assessment & Screening"
+  - "ADHD Self-Assessment & Screening的核心概念"
+  - "ADHD Self-Assessment & Screening的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/neuroscience/nutrition"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
+    relation: "anxiety/depression/neuroscience"
+  - path: "03-Bio-Science/foods/tea/Tea_Neuroscience_Pharmacology.md"
+    relation: "anxiety/depression/neuroscience"
+
+---
 # ADHD Self-Assessment & Screening (ADHD自我评估与筛查指南)
 
 > **ADHD自我评估与筛查 (ADHD Self-Assessment & Screening)**

@@ -1,3 +1,31 @@
+---
+
+title: "TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path"
+description: "TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["communication", "decision-making"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path"
+  - "TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path的核心概念"
+  - "TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path的方法与实践"
+trigger_keywords: ["aging", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "aging/communication/emotion"
+
+---
 # TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path
 
 > **使用指南**：本指南为TED演讲学习者提供系统化的观看策略、学习方法和实践建议，帮助您最大化TED演讲的学习价值。

@@ -1,3 +1,31 @@
+---
+
+title: "冥想过程练习指导 | Meditation Practice Techniques"
+description: "冥想过程练习指导 | Meditation Practice Techniques的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Overview"
+tags: ["anxiety", "brain", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "30min"
+intent_queries:
+  - "什么是冥想过程练习指导 | Meditation Practice Techniques"
+  - "冥想过程练习指导 | Meditation Practice Techniques的核心概念"
+  - "冥想过程练习指导 | Meditation Practice Techniques的方法与实践"
+trigger_keywords: ["冥想过程练习指导", "act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "aging/anxiety/cardiovascular"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
+    relation: "aging/anxiety/depression"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "aging/anxiety/cardiovascular"
+
+---
 # 冥想过程练习指导 | Meditation Practice Techniques
 
 > **本指南面向**：冥想练习者，提供冥想过程中常见身体与感知现象的专业指导，涵盖姿势、呼吸、舌抵上腭、锚点选择、腿麻应对、气味与声音运用等核心主题。

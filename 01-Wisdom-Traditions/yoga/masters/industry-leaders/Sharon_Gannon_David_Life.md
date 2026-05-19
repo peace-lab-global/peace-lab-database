@@ -1,3 +1,31 @@
+---
+
+title: "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）"
+description: "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
+tags: ["meditation", "music", "philosophy", "positive-psychology", "spirituality", "yoga"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）"
+  - "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的核心概念"
+  - "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的方法与实践"
+trigger_keywords: ["莎朗", "甘农与大卫", "act", "literature", "meditation", "music"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/INDEX.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+    relation: "meditation/sexuality/therapy"
+  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+    relation: "meditation/sexuality/therapy"
+
+---
 # 莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）
 
 > Jivamukti Yoga 的创始人——将瑜伽、音乐、素食主义和社会行动融为一体

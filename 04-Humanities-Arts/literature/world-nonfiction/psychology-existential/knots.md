@@ -1,3 +1,31 @@
+---
+
+title: "《结》Knots"
+description: "《结》Knots的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
+tags: ["dzogchen", "zen", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《结》Knots"
+  - "《结》Knots的核心概念"
+  - "《结》Knots的方法与实践"
+trigger_keywords: ["《结》Knots", "buddhism", "dzogchen", "meditation", "psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《结》Knots
 
 > R.D.莱恩（R.D. Laing）著，1970年出版。一本极其独特的书——70页的散文诗，以简洁而令人不安的语言，描述了人类关系中的各种"结"——那些让我们无法自由的心理缠绕。全球销量超过百万册，被翻译成数十种语言。

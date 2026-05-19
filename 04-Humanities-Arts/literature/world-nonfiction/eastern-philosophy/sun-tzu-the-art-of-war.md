@@ -1,3 +1,31 @@
+---
+
+title: "《孙子兵法》The Art of War"
+description: "《孙子兵法》The Art of War的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
+tags: ["decision-making", "phobia"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《孙子兵法》The Art of War"
+  - "《孙子兵法》The Art of War的核心概念"
+  - "《孙子兵法》The Art of War的方法与实践"
+trigger_keywords: ["cognitive", "decision-making", "emotion", "exercise"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/exercise"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "anxiety/art_therapy/emotion"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 《孙子兵法》The Art of War
 
 > 孙武（Sun Tzu，约公元前544—前496年）著，春秋末期齐国军事家。全书13篇，约6000余字，是中国乃至世界历史上最著名的军事著作，也是最具影响力的战略思想经典。其影响远超军事领域，广泛应用于商业竞争、政治博弈、体育竞技乃至个人成长等各个方面。

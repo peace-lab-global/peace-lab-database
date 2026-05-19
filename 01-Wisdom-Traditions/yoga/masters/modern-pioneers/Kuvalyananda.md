@@ -1,3 +1,31 @@
+---
+
+title: "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）"
+description: "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
+tags: ["intervention", "treatment", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）"
+  - "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的核心概念"
+  - "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的方法与实践"
+trigger_keywords: ["breathwork", "intervention", "psychology", "sexuality"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+    relation: "cardiovascular/sexuality/yoga"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/sexuality/yoga"
+
+---
 # 库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）
 
 > 瑜伽科学研究的先驱——用实验室方法研究瑜伽的第一人

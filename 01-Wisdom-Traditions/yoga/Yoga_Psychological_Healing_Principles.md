@@ -1,3 +1,32 @@
+---
+
+title: "瑜伽心理疗愈原理专业内容体系"
+description: "瑜伽心理疗愈原理专业内容体系的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: []
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是瑜伽心理疗愈原理专业内容体系"
+  - "瑜伽心理疗愈原理专业内容体系的核心概念"
+  - "瑜伽心理疗愈原理专业内容体系的方法与实践"
+  - "瑜伽心理疗愈原理专业内容体系的自助方法"
+trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "aging/anxiety/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/communication"
+
+---
 # 瑜伽心理疗愈原理专业内容体系
 
 ## 目录

@@ -1,3 +1,31 @@
+---
+
+title: "《关于死亡与濒死》On Death and Dying"
+description: "《关于死亡与濒死》On Death and Dying的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["depression", "loneliness", "phobia", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《关于死亡与濒死》On Death and Dying"
+  - "《关于死亡与濒死》On Death and Dying的核心概念"
+  - "《关于死亡与濒死》On Death and Dying的方法与实践"
+trigger_keywords: ["buddhism", "death", "depression", "exercise"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "anxiety/communication/death"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "anxiety/communication/death"
+
+---
 # 《关于死亡与濒死》On Death and Dying
 
 > 伊丽莎白·库伯勒-罗斯（Elisabeth Kübler-Ross）著，1969年出版。瑞士裔美国精神科医师，在芝加哥大学医学院通过对500多位临终病人的访谈，提出了影响深远的"临终五阶段"理论。现代临终关怀运动的精神奠基人。

@@ -1,3 +1,31 @@
+---
+
+title: "循证医学 | Evidence-Based Medicine"
+description: "循证医学 | Evidence-Based Medicine的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["decision-making", "depression"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是循证医学 | Evidence-Based Medicine"
+  - "循证医学 | Evidence-Based Medicine的核心概念"
+  - "循证医学 | Evidence-Based Medicine的方法与实践"
+trigger_keywords: ["循证医学", "act", "assessment", "clinical", "crisis"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "communication/depression/exercise"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
+    relation: "communication/depression/exercise"
+
+---
 # 循证医学 | Evidence-Based Medicine
 
 > **循证医学**（Evidence-Based Medicine, EBM）是将最佳科学证据、临床经验和患者价值观相结合的医学实践框架。TED平台上关于循证医学的演讲探讨了如何用科学方法评估医疗干预的有效性，揭示了医学中的偏见和盲点，推动了更加透明和有效的医疗实践。

@@ -1,3 +1,31 @@
+---
+
+title: "脉轮冥想实践指南"
+description: "脉轮冥想实践指南的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Chakra Meditation"
+tags: ["addiction", "anxiety", "attachment"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是脉轮冥想实践指南"
+  - "脉轮冥想实践指南的核心概念"
+  - "脉轮冥想实践指南的方法与实践"
+trigger_keywords: ["脉轮冥想实践指南", "act", "addiction", "anxiety", "art"]
+cross_refs:
+  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "anxiety/attachment/communication"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # 脉轮冥想实践指南
 
 > **最后更新：2026-05**

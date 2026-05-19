@@ -1,3 +1,31 @@
+---
+
+title: "向上攀爬的道德代价——巧珍的牺牲"
+description: "向上攀爬的道德代价——巧珍的牺牲的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是向上攀爬的道德代价——巧珍的牺牲"
+  - "向上攀爬的道德代价——巧珍的牺牲的核心概念"
+  - "向上攀爬的道德代价——巧珍的牺牲的方法与实践"
+trigger_keywords: ["brain", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/neuroscience"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/neuroscience"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+    relation: "art_therapy/neuroscience"
+
+---
 # 向上攀爬的道德代价——巧珍的牺牲
 
 ## 这篇文章讨论的问题

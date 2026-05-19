@@ -1,3 +1,31 @@
+---
+
+title: "C2-5 冥想练习课：冥想的环境选择"
+description: "C2-5 冥想练习课：冥想的环境选择的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Course"
+tags: ["meditation", "music", "neuroscience"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是C2-5 冥想练习课：冥想的环境选择"
+  - "C2-5 冥想练习课：冥想的环境选择的核心概念"
+  - "C2-5 冥想练习课：冥想的环境选择的方法与实践"
+trigger_keywords: ["body", "cognitive", "communication", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "communication/emotion/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "communication/emotion/exercise"
+
+---
 # C2-5 冥想练习课：冥想的环境选择
 
 📑 智能总结

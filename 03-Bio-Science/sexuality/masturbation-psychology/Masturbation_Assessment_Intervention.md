@@ -1,3 +1,31 @@
+---
+
+title: "Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)"
+description: "Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)的详细解析与实践指南"
+category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
+tags: ["addiction", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Mental Health Assessment and Intervention for Masturbation-Related Issues"
+  - "Mental Health Assessment and Intervention for Masturbation-Related Issues的核心概念"
+  - "Mental Health Assessment and Intervention for Masturbation-Related Issues的方法与实践"
+trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)
 
 > 基于临床心理学与性治疗研究，系统介绍自慰相关评估工具、诊断框架、干预方案及治疗性应用。内容遵循循证实践原则，强调功能性评估而非道德判断，旨在支持专业人员的临床决策。

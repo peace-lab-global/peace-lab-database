@@ -1,3 +1,31 @@
+---
+
+title: "内经四时养生 | Neijing Seasonal Health Cultivation"
+description: "内经四时养生 | Neijing Seasonal Health Cultivation的详细解析与实践指南"
+category: "智慧传承 > 中医内经"
+tags: ["depression"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是内经四时养生 | Neijing Seasonal Health Cultivation"
+  - "内经四时养生 | Neijing Seasonal Health Cultivation的核心概念"
+  - "内经四时养生 | Neijing Seasonal Health Cultivation的方法与实践"
+trigger_keywords: ["内经四时养生", "behavioral", "body", "breathwork", "clinical"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "cardiovascular/depression/emotion"
+  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+    relation: "cardiovascular/depression/emotion"
+
+---
 # 内经四时养生 | Neijing Seasonal Health Cultivation
 
 > "夫四时阴阳者，万物之根本也。所以圣人春夏养阳，秋冬养阴，以从其根，故与万物沉浮于生长之门。"

@@ -1,3 +1,31 @@
+---
+
+title: "流行病学 | Epidemiology"
+description: "流行病学 | Epidemiology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: ["cardiovascular", "communication"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是流行病学 | Epidemiology"
+  - "流行病学 | Epidemiology的核心概念"
+  - "流行病学 | Epidemiology的方法与实践"
+trigger_keywords: ["流行病学", "act", "assessment", "behavioral", "cardiovascular"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "cardiovascular/communication/exercise"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "cardiovascular/communication/exercise"
+
+---
 # 流行病学 | Epidemiology
 
 > **流行病学**（Epidemiology）是研究疾病在人群中分布和决定因素的学科——从传染病追踪（Infectious Disease Tracking）到慢性病分析（Chronic Disease Analysis），从疾病监测（Disease Surveillance）到疫情建模（Epidemic Modeling）。流行病学是公共卫生的科学基础，也是人类应对健康危机的核心工具。本文件精选TED平台上关于流行病学的代表性演讲，帮助读者理解流行病学的方法论和前沿发展。

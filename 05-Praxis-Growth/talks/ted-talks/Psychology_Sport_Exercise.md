@@ -1,3 +1,32 @@
+---
+
+title: "运动心理学 | Sport & Exercise Psychology"
+description: "运动心理学 | Sport & Exercise Psychology的详细解析与实践指南"
+category: "实践与个人增长 > 讲座 > Ted Talks"
+tags: []
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是运动心理学 | Sport & Exercise Psychology"
+  - "运动心理学 | Sport & Exercise Psychology的核心概念"
+  - "运动心理学 | Sport & Exercise Psychology的方法与实践"
+  - "运动心理学 | Sport & Exercise Psychology的自助方法"
+trigger_keywords: ["运动心理学", "adolescent", "aging", "anxiety", "behavioral"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
+    relation: "aging/anxiety/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
+    relation: "aging/anxiety/communication"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+    relation: "aging/communication/depression"
+
+---
 # 运动心理学 | Sport & Exercise Psychology
 
 > **运动心理学**（Sport and Exercise Psychology）研究运动、锻炼和身体活动对心理健康、认知功能和情感状态的积极影响。从运动如何改变大脑的神经化学机制到体育竞技中的心理韧性（Mental Toughness），从锻炼作为抗抑郁的自然疗法到身体活动促进创造力和学习能力的证据，这一领域展示了身心关系的深层连接。本文件精选TED平台上关于运动心理学的代表性演讲。

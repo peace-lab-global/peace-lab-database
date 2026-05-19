@@ -1,3 +1,31 @@
+---
+
+title: "《蓝夜》Blue Nights"
+description: "《蓝夜》Blue Nights的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["grief", "literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《蓝夜》Blue Nights"
+  - "《蓝夜》Blue Nights的核心概念"
+  - "《蓝夜》Blue Nights的方法与实践"
+trigger_keywords: ["aging", "art", "body", "grief"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "aging/art_therapy/death"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
+    relation: "aging/art_therapy/death"
+  - path: "03-Bio-Science/death/Death_Art_Death.md"
+    relation: "aging/art_therapy/death"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "aging/death/depression"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "aging/art_therapy/death"
+
+---
 # 《蓝夜》Blue Nights
 
 > 琼·狄迪恩（Joan Didion）著，2011年出版。《奇想之年》的续篇，记录了狄迪恩独生女金塔娜·罗的去世——就在《奇想之年》出版的前夕。如果说《奇想之年》是关于"失去丈夫"，这本书就是关于"失去孩子"——一种被普遍认为是最难以承受的丧失。

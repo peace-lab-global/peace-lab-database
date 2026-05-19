@@ -1,3 +1,31 @@
+---
+
+title: "《放开思想之手》Opening the Hand of Thought"
+description: "《放开思想之手》Opening the Hand of Thought的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
+tags: ["productivity", "spirituality", "vipassana"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《放开思想之手》Opening the Hand of Thought"
+  - "《放开思想之手》Opening the Hand of Thought的核心概念"
+  - "《放开思想之手》Opening the Hand of Thought的方法与实践"
+trigger_keywords: ["breathwork", "buddhism", "meditation", "philosophy"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+    relation: "art_therapy/buddhism/meditation"
+  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
+    relation: "art_therapy/buddhism/meditation"
+
+---
 # 《放开思想之手》Opening the Hand of Thought
 
 > 西山住职（Kosho Uchiyama，内山兴正）著，1967年出版（日文原版），英文版由麻省理工学院出版社于2004年出版。日本曹洞宗（Soto Zen）重要禅师，曾任东京永平寺代理住持，后创立证诚寺（Antaiji），致力于将禅宗修行与现代生活结合。他是同时代日本禅师中最具独立思想和批判精神的代表人物之一，其著作以坦诚、直接、有时甚至反传统的风格著称。《放开思想之手》是他最著名的作品，系统阐述了"只管打坐"（Shikantaza）的修行法门。

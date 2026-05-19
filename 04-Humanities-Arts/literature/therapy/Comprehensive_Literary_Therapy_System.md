@@ -1,3 +1,32 @@
+---
+
+title: "文学治疗应用体系：各文学形式的心理疗愈价值与应用方法"
+description: "文学治疗应用体系：各文学形式的心理疗愈价值与应用方法的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > 疗法"
+tags: ["attachment", "cbt", "literature"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是文学治疗应用体系：各文学形式的心理疗愈价值与应用方法"
+  - "文学治疗应用体系：各文学形式的心理疗愈价值与应用方法的核心概念"
+  - "文学治疗应用体系：各文学形式的心理疗愈价值与应用方法的方法与实践"
+  - "文学治疗应用体系：各文学形式的心理疗愈价值与应用方法的循证证据"
+trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Clinical_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+
+---
 # 文学治疗应用体系：各文学形式的心理疗愈价值与应用方法
 
 ## 概述 (Overview)

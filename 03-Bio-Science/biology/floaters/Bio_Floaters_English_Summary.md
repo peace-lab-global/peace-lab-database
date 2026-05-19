@@ -1,3 +1,31 @@
+---
+
+title: "Comprehensive Floaters Guide - English Summary"
+description: "Comprehensive Floaters Guide - English Summary的详细解析与实践指南"
+category: "生命科学与生物医学 > 生物学 > 飞蚊症"
+tags: ["生物学", "飞蚊症", "aging", "pain", "inflammation"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Comprehensive Floaters Guide - English Summary"
+  - "Comprehensive Floaters Guide - English Summary的核心概念"
+  - "Comprehensive Floaters Guide - English Summary的方法与实践"
+trigger_keywords: ["act", "生物学", "飞蚊症"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/therapy/trauma"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/therapy/trauma"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "aging/therapy/trauma"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
+    relation: "aging/therapy/trauma"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "aging/therapy/trauma"
+
+---
 # Comprehensive Floaters Guide - English Summary
 
 ## Table of Contents

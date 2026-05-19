@@ -1,3 +1,31 @@
+---
+
+title: "南传佛教仪轨总览 (Theravada Rituals Overview)"
+description: "南传佛教仪轨总览 (Theravada Rituals Overview)的详细解析与实践指南"
+category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
+tags: ["buddhism", "meditation"]
+last_updated: "2026-05"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是南传佛教仪轨总览"
+  - "南传佛教仪轨总览的核心概念"
+  - "南传佛教仪轨总览的方法与实践"
+trigger_keywords: ["南传佛教仪轨总览", "act", "anxiety", "behavioral", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Practical_Guide.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "anxiety/buddhism/communication"
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/buddhism/communication"
+
+---
 # 南传佛教仪轨总览 (Theravada Rituals Overview)
 
 > **南传上座部佛教仪轨 (Theravāda Buddhist Rituals)**：以巴利语经典为基础，传承自斯里兰卡、缅甸、泰国、柬埔寨、老挝等地区的佛教仪轨体系，强调简朴、戒德与内在觉醒。

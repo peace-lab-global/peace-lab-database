@@ -1,3 +1,31 @@
+---
+
+title: "自我慈悲与自我关怀 (Self-Compassion & Self-Care)"
+description: "自我慈悲与自我关怀 (Self-Compassion & Self-Care)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 自我调节 > Self Compassion"
+tags: ["anxiety", "attachment", "mbsr", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "20min"
+intent_queries:
+  - "什么是自我慈悲与自我关怀"
+  - "自我慈悲与自我关怀的核心概念"
+  - "自我慈悲与自我关怀的方法与实践"
+trigger_keywords: ["自我慈悲与自我关怀", "act", "adolescent", "aging", "anxiety"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "aging/anxiety/buddhism"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "anxiety/attachment/depression"
+
+---
 # 自我慈悲与自我关怀 (Self-Compassion & Self-Care)
 
 ## 核心术语表 (Core Terminology)

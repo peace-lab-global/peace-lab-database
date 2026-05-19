@@ -1,3 +1,31 @@
+---
+
+title: "Psychology of Masturbation: Overview and Theoretical Foundations (自慰心理学概述与理论基础)"
+description: "Psychology of Masturbation: Overview and Theoretical Foundations (自慰心理学概述与理论基础)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Masturbation Psychology"
+tags: ["anxiety", "brain", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是Psychology of Masturbation: Overview and Theoretical Foundations"
+  - "Psychology of Masturbation: Overview and Theoretical Foundations的核心概念"
+  - "Psychology of Masturbation: Overview and Theoretical Foundations的方法与实践"
+trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/communication/emotion"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
+    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "anxiety/communication/emotion"
+
+---
 # Psychology of Masturbation: Overview and Theoretical Foundations (自慰心理学概述与理论基础)
 
 > 从多元心理学理论视角系统阐述自慰行为的心理学理解框架，涵盖术语演变、理论矩阵、心理功能分析、研究方法论评估与当前前沿。本文旨在为自慰心理学领域提供全景式学术地图。

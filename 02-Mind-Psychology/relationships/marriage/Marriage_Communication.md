@@ -1,3 +1,31 @@
+---
+
+title: "Marriage Communication & Conflict (婚姻沟通与冲突)"
+description: "Marriage Communication & Conflict (婚姻沟通与冲突)的详细解析与实践指南"
+category: "心智与心理学 > 人际关系 > Marriage"
+tags: ["anxiety", "cinema", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "15min"
+intent_queries:
+  - "什么是Marriage Communication & Conflict"
+  - "Marriage Communication & Conflict的核心概念"
+  - "Marriage Communication & Conflict的方法与实践"
+trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "aging/anxiety/attachment"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "aging/anxiety/attachment"
+  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
+    relation: "aging/anxiety/communication"
+
+---
 # Marriage Communication & Conflict (婚姻沟通与冲突)
 
 ## Gottman四骑士详解表

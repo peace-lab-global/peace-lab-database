@@ -1,3 +1,31 @@
+---
+
+title: "《威尼斯之死》Death in Venice"
+description: "《威尼斯之死》Death in Venice的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《威尼斯之死》Death in Venice"
+  - "《威尼斯之死》Death in Venice的核心概念"
+  - "《威尼斯之死》Death in Venice的方法与实践"
+trigger_keywords: ["death", "literature", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
+    relation: "art_therapy/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+    relation: "art_therapy/death"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "art_therapy/death"
+
+---
 # 《威尼斯之死》Death in Venice
 
 > 托马斯·曼（Thomas Mann）著，1912年出版。德国诺贝尔奖得主的经典中篇小说，讲述了年老的作家阿森巴赫在威尼斯度假时，对一位波兰美少年塔齐奥产生了致命的迷恋——迷恋的不是欲望，而是"美"本身，以及美所象征的、正在从他生命中消逝的一切。

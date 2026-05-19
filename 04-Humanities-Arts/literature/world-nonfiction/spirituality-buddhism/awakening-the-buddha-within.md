@@ -1,3 +1,31 @@
+---
+
+title: "《唤醒内在的佛陀》Awakening the Buddha Within"
+description: "《唤醒内在的佛陀》Awakening the Buddha Within的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
+tags: ["literature"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是《唤醒内在的佛陀》Awakening the Buddha Within"
+  - "《唤醒内在的佛陀》Awakening the Buddha Within的核心概念"
+  - "《唤醒内在的佛陀》Awakening the Buddha Within的方法与实践"
+trigger_keywords: ["act", "body", "brain", "buddhism"]
+cross_refs:
+  - path: "README.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "art_therapy/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
+    relation: "buddhism/communication/death"
+  - path: "01-Wisdom-Traditions/INDEX.md"
+    relation: "art_therapy/buddhism/neuroscience"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "buddhism/communication/death"
+
+---
 # 《唤醒内在的佛陀》Awakening the Buddha Within
 
 >  拉姆·达斯（Lama Surya Das）著，1997年出版。美国出生的藏传佛教喇嘛，在印度和尼泊尔学习多年后将佛教带回西方。这本书是"西藏智慧"的通俗介绍，涵盖了四圣谛、八正道、菩提心、中阴教法等核心主题。

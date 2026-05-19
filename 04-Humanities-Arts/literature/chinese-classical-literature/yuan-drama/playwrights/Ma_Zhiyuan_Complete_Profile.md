@@ -1,3 +1,31 @@
+---
+
+title: "马致远 (Ma Zhiyuan, 约1250-1321)：元曲四大家之一与"曲状元""
+description: "马致远 (Ma Zhiyuan, 约1250-1321)：元曲四大家之一与"曲状元"的详细解析与实践指南"
+category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Yuan Drama > Playwrights"
+tags: ["gut", "literature", "music", "personality", "positive-psychology"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是马致远 ：元曲四大家之一与"曲状元""
+  - "马致远 ：元曲四大家之一与"曲状元"的核心概念"
+  - "马致远 ：元曲四大家之一与"曲状元"的方法与实践"
+trigger_keywords: ["act", "art", "developmental", "gut"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
+    relation: "art_therapy/emotion/personality"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "art_therapy/communication/emotion"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "communication/emotion/personality"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "art_therapy/communication/emotion"
+
+---
 # 马致远 (Ma Zhiyuan, 约1250-1321)：元曲四大家之一与"曲状元"
 
 ## 概述 (Overview)

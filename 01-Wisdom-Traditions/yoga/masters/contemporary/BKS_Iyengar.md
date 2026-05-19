@@ -1,3 +1,31 @@
+---
+
+title: "B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人"
+description: "B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人的详细解析与实践指南"
+category: "智慧传承 > 瑜伽 > Masters > Contemporary"
+tags: ["depression", "meditation", "philosophy", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是B.K.S. Iyengar  — 精准瑜伽体系创始人"
+  - "B.K.S. Iyengar  — 精准瑜伽体系创始人的核心概念"
+  - "B.K.S. Iyengar  — 精准瑜伽体系创始人的方法与实践"
+trigger_keywords: ["aging", "anxiety", "art", "body"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+    relation: "aging/anxiety/communication"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "aging/anxiety/communication"
+
+---
 # B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人
 
 ## 概述 (Overview)

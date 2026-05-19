@@ -1,3 +1,31 @@
+---
+
+title: "明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）"
+description: "明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）的详细解析与实践指南"
+category: "心智与心理学 > 冥想 > Masters > Tibetan"
+tags: ["anxiety", "brain", "meditation", "neuroscience", "pain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）"
+  - "明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）的核心概念"
+  - "明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）的方法与实践"
+trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/exercise"
+  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+    relation: "anxiety/emotion/exercise"
+
+---
 # 明就仁波切（Yongey Mingyur Rinpoche / ཡོངས་གེ་མི་འགྱུར་རིན་པོ་ཆེ）
 
 > 科学验证的冥想大师——将神经科学与藏传冥想完美结合的当代活佛

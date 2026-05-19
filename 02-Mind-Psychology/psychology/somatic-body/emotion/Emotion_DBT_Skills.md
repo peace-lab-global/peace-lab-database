@@ -1,3 +1,32 @@
+---
+
+title: "辩证行为疗法情绪技能 (DBT Emotion Skills)"
+description: "辩证行为疗法情绪技能 (DBT Emotion Skills)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
+tags: ["anxiety", "attachment", "sleep", "mindfulness", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是辩证行为疗法情绪技能"
+  - "辩证行为疗法情绪技能的核心概念"
+  - "辩证行为疗法情绪技能的方法与实践"
+  - "辩证行为疗法情绪技能的循证证据"
+trigger_keywords: ["辩证行为疗法情绪技能", "act", "adolescent", "anxiety", "assessment"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
+    relation: "anxiety/attachment/buddhism"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "anxiety/attachment/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "anxiety/buddhism/depression"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
+    relation: "anxiety/attachment/buddhism"
+
+---
 # 辩证行为疗法情绪技能 (DBT Emotion Skills)
 
 > **辩证行为疗法 (Dialectical Behavior Therapy, DBT)**

@@ -1,3 +1,19 @@
+---
+title: "INDEX"
+description: "INDEX的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 特殊专题 > Death Existential"
+tags: ["心理学", "特殊专题"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是INDEX"
+  - "INDEX的核心概念"
+  - "INDEX的方法与实践"
+trigger_keywords: ["INDEX", "心理学", "特殊专题"]
+cross_refs: []
+---
 # INDEX
 
 > 此页面为占位文件，内容待补充。
