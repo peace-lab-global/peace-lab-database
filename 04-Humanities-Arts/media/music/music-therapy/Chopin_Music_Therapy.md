@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/art_therapy/communication"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
 
 ---

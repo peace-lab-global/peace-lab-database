@@ -141,7 +141,7 @@ Pratyahara（感官内收）是瑜伽中对"独处"最精确的描述：
 ### 2.4 跨模块引用
 
 - **瑜伽Pratyahara专题**: `01-Wisdom-Traditions/yoga/` — 感官内收与独处能力的古典根基
-- **冥想体系**: `02-Mind-Psychology/meditation/overview/` — 冥想是最结构化的独处实践
+- **冥想体系**: `02-Mind-Psychology/meditation/foundations/overview/` — 冥想是最结构化的独处实践
 - **正念生活**: `05-Praxis-Growth/personal-development/mindfulness/` — 正念将独处品质带入日常
 
 ---

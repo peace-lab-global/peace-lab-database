@@ -14,7 +14,7 @@ intent_queries:
   - "歌剧与艺术歌曲疗愈的方法与实践"
 trigger_keywords: ["歌剧与艺术歌曲疗愈", "adolescent", "anxiety", "art", "attachment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/attachment/communication"

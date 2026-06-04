@@ -131,7 +131,7 @@ cross_refs:
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
+| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
 | **Tara Stiles** | Stripped yoga | 2014 | 简化瑜伽的益处 | [瑜伽疗法](Yoga_Therapeutic_Applications.md) | 14:33 | [观看](https://www.ted.com/talks/tara_stiles_stripped_yoga) |
 
 ---
@@ -183,7 +183,7 @@ cross_refs:
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Jon Kabat-Zinn** | Mindfulness and meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
-| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---
 

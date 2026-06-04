@@ -14,9 +14,9 @@ intent_queries:
   - "《女仆》 专业影评内容查漏补缺质量报告的方法与实践"
 trigger_keywords: ["assessment", "body", "cinema", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/emotion/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/emotion/neuroscience"
   - path: "README.md"
     relation: "art_therapy/emotion/neuroscience"

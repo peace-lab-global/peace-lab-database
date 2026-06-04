@@ -17,7 +17,7 @@ trigger_keywords: ["adolescent", "art", "assessment", "attachment"]
 cross_refs:
   - path: "README.md"
     relation: "art_therapy/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/communication/emotion"
   - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
     relation: "attachment/communication/emotion"

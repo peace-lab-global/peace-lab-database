@@ -15,7 +15,7 @@ intent_queries:
   - "性焦虑干预案例研究与实践汇编的自助方法"
 trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/attachment"

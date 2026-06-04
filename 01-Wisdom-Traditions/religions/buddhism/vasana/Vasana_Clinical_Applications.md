@@ -14,15 +14,15 @@ intent_queries:
   - "熏习理论临床应用的方法与实践"
 trigger_keywords: ["熏习理论临床应用", "act", "addiction", "adolescent", "aging"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/buddhism"
 
 ---
@@ -396,8 +396,8 @@ cross_refs:
 |---|---|
 | **[正念核心概念](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)** | 正念技术详解 |
 | **[正念临床应用](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)** | 正念的临床应用 |
-| **[慈悲聚焦疗法](../../../../02-Mind-Psychology/therapy/compassion-focused-therapy/Compassion_Focused_Therapy.md)** | CFT详解 |
-| **[辩证行为疗法](../../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)** | DBT技能 |
+| **[慈悲聚焦疗法](../../../../02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/Compassion_Focused_Therapy.md)** | CFT详解 |
+| **[辩证行为疗法](../../../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)** | DBT技能 |
 | **[心理治疗技术详表](../../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md)** | 治疗技术汇总 |
 
 ### 表10.3 核心参考文献 (Key References)

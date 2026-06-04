@@ -18,11 +18,11 @@ cross_refs:
     relation: "buddhism/meditation/nutrition"
   - path: "TAXONOMY.md"
     relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "meditation/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "meditation/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/06-Subtypes.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/06-Subtypes.md"
     relation: "meditation/nutrition/sexuality"
 
 ---

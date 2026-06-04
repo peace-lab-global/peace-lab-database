@@ -16,7 +16,7 @@ trigger_keywords: ["act", "behavioral", "cognitive", "communication"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
     relation: "buddhism/communication/exercise"
   - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
     relation: "buddhism/communication/death"

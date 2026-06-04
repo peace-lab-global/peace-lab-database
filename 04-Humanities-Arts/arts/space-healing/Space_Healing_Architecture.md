@@ -15,9 +15,9 @@ intent_queries:
   - "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology的自助方法"
 trigger_keywords: ["疗愈建筑与空间心理学", "anxiety", "attachment", "cortisol", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/depression"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "anxiety/attachment/depression"
@@ -193,6 +193,6 @@ cross_refs:
 |---------|------|--------|
 | 居住空间设计 | [Space_Home_Office_Design](Space_Home_Office_Design.md) | 家庭/办公空间实践 |
 | 园艺疗愈 | [04-Humanities-Arts/arts/horticultural-therapy/](../horticultural-therapy/) | 自然接触与治疗 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 自然环境疗愈 |
-| 感官治疗 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 多感官环境 |
-| 香薰疗法 | [02-Mind-Psychology/therapy/incense/](../../../02-Mind-Psychology/therapy/incense/) | 嗅觉环境设计 |
+| 森林疗法 | [02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 自然环境疗愈 |
+| 感官治疗 | [02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 多感官环境 |
+| 香薰疗法 | [02-Mind-Psychology/therapy/sensory-nature/incense/](../../../02-Mind-Psychology/therapy/sensory-nature/incense/) | 嗅觉环境设计 |

@@ -14,9 +14,9 @@ intent_queries:
   - "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live的方法与实践"
 trigger_keywords: ["act", "developmental", "sexuality", "writing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/death/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/death/depression"

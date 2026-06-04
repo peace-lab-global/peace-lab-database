@@ -14,15 +14,15 @@ intent_queries:
   - "《群魔》Demons的方法与实践"
 trigger_keywords: ["《群魔》Demons", "brain", "death", "exercise", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/death/depression"
   - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/death/depression"
 
 ---

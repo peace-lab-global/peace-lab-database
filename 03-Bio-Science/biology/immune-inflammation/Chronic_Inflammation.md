@@ -14,13 +14,13 @@ intent_queries:
   - "慢性炎症的方法与实践"
 trigger_keywords: ["慢性炎症", "act", "aging", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/communication/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/exercise/immune"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/cardiovascular/exercise"
   - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
     relation: "aging/cardiovascular/exercise"
@@ -143,7 +143,7 @@ NF-κB 信号通路:
   行为因素: 久坐↑ 不良饮食↑ 睡眠↓ → 炎症加重
 ```
 
-> **交叉引用**: 抑郁症知识参见 → [02-Mind-Psychology/psychology/clinical/depression/](../../../02-Mind-Psychology/meditation/clinical-conditions/depression/)
+> **交叉引用**: 抑郁症知识参见 → [02-Mind-Psychology/psychology/clinical/depression/](../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/)
 
 ---
 

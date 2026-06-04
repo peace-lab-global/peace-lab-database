@@ -16,13 +16,13 @@ trigger_keywords: ["太极与气功整合", "act", "aging", "body", "brain"]
 cross_refs:
   - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
     relation: "aging/cardiovascular/daoism"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/cardiovascular/emotion"
 
 ---

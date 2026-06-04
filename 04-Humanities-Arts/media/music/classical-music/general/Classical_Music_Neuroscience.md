@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/art_therapy/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/emotion/exercise"
 
 ---

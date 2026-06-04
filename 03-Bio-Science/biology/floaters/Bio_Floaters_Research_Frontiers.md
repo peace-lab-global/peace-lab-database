@@ -16,13 +16,13 @@ trigger_keywords: ["act", "assessment", "behavioral", "brain"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
     relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/emotion/exercise"
 
 ---

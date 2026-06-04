@@ -14,11 +14,11 @@ intent_queries:
   - "《关于死亡与濒死》On Death and Dying的方法与实践"
 trigger_keywords: ["buddhism", "death", "depression", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/death"

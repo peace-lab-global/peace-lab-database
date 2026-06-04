@@ -14,15 +14,15 @@ intent_queries:
   - "吠檀多哲学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["吠檀多哲学经典", "佛法视角三方书评", "body", "buddhism", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
     relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "buddhism/meditation/personality"
 
 ---

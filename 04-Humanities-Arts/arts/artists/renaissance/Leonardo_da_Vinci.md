@@ -20,9 +20,9 @@ cross_refs:
     relation: "art_therapy/communication/productivity"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/pain/productivity"
 
 ---

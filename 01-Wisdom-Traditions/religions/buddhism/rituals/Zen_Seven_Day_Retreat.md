@@ -16,13 +16,13 @@ trigger_keywords: ["禅宗打七仪轨", "act", "anxiety", "body", "breathwork"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/buddhism/emotion"
 
 ---

@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/death/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
     relation: "aging/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/death/sexuality"
 
 ---

@@ -14,15 +14,15 @@ intent_queries:
   - "亚里士多德的方法与实践"
 trigger_keywords: ["亚里士多德", "behavioral", "cbt", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "emotion/exercise/sexuality"
 
 ---

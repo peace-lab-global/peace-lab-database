@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/depression/emotion"
   - path: "README.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "anxiety/depression/emotion"
 
 ---

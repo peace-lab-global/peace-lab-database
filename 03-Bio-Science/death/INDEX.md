@@ -14,15 +14,15 @@ intent_queries:
   - "death | Index的方法与实践"
 trigger_keywords: ["death", "Index", "act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "README.md"
     relation: "anxiety/buddhism/cardiovascular"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/cardiovascular"
 
 ---
@@ -95,9 +95,9 @@ cross_refs:
 | **01-智慧传承** | 佛教/道家/禅宗/基督教死亡观 | [Death_Traditional_Views_Deep_Dive](Death_Traditional_Views_Deep_Dive.md) |
 | **02-心理学** | 哀伤辅导、存在真空、临终心理 | [02-Mind-Psychology/psychology/special-topics/grief/](../../02-Mind-Psychology/psychology/special-topics/grief/) |
 | **02-心理学** | 存在主义心理治疗、意义疗法 | [02-Mind-Psychology/psychology/special-topics/existential-vacuum/](../../02-Mind-Psychology/psychology/special-topics/existential-vacuum/) |
-| **02-心理学** | 存在与灵性冥想系列20门课程 | [02-Mind-Psychology/meditation/guided-courses/Series_24_Existential_Spiritual.md](../../02-Mind-Psychology/meditation/guided-courses/Series_24_Existential_Spiritual.md) |
+| **02-心理学** | 存在与灵性冥想系列20门课程 | [02-Mind-Psychology/meditation/courses/guided-courses/Series_24_Existential_Spiritual.md](../../02-Mind-Psychology/meditation/courses/guided-courses/Series_24_Existential_Spiritual.md) |
 | **04-人文艺术** | 文学疗愈与死亡叙事 | [04-Humanities-Arts/literature/therapy/](../../04-Humanities-Arts/literature/therapy/) |
-| **04-人文艺术** | 音乐临终关怀 | [02-Mind-Psychology/therapy/sensory/Sensory_Music_Thanatology.md](../../02-Mind-Psychology/therapy/sensory/Sensory_Music_Thanatology.md) |
+| **04-人文艺术** | 音乐临终关怀 | [02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md) |
 | **05-实践增长** | 意义建构与Frankl | [05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md) |
 
 ---

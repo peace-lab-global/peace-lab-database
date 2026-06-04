@@ -22,7 +22,7 @@ cross_refs:
     relation: "daoism/death/exercise"
   - path: "04-Humanities-Arts/literature/world-nonfiction/world-religions-comparative/masks-of-god.md"
     relation: "daoism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/exercise/sexuality"
 
 ---

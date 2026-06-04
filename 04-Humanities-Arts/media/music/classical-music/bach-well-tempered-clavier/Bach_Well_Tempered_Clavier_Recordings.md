@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/communication/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
     relation: "communication/emotion/exercise"
 
 ---

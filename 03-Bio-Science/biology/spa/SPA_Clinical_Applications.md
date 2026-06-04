@@ -14,15 +14,15 @@ intent_queries:
   - "SPA Clinical Applications & Indications的方法与实践"
 trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/emotion"
 
 ---

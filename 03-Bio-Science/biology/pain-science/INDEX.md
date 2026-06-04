@@ -16,11 +16,11 @@ trigger_keywords: ["疼痛科学", "act", "assessment", "cbt", "hpa-axis"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
     relation: "anxiety/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "anxiety/meditation/neuroscience"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/meditation/neuroscience"
@@ -48,10 +48,10 @@ cross_refs:
 |---------|------|--------|
 | 下背痛 | [03-Bio-Science/biology/lower-back-pain/](../lower-back-pain/) | 常见慢性疼痛 |
 | HPA轴 | [03-Bio-Science/biology/hpa-axis/](../hpa-axis/) | 压力-疼痛关联 |
-| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../01-Wisdom-Traditions/yoga/Yoga_Therapy.md) | 瑜伽疗法 |
+| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md) | 瑜伽疗法 |
 | 太极拳 | [01-Wisdom-Traditions/tai-chi/](../../../01-Wisdom-Traditions/tai-chi/) | 太极拳疼痛管理 |
-| ACT治疗 | [02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | 接纳承诺疗法 |
-| MBSR | [02-Mind-Psychology/meditation/mbsr-program/](../../../02-Mind-Psychology/meditation/mbsr-program/) | 正念减压 |
+| ACT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) | 接纳承诺疗法 |
+| MBSR | [02-Mind-Psychology/meditation/clinical/mbsr-program/](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/) | 正念减压 |
 
 ---
 

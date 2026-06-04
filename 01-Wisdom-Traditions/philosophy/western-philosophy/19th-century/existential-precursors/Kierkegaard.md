@@ -14,7 +14,7 @@ intent_queries:
   - "索伦·克尔凯郭尔的方法与实践"
 trigger_keywords: ["索伦", "克尔凯郭尔", "anxiety", "communication", "crisis", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
     relation: "anxiety/communication/death"

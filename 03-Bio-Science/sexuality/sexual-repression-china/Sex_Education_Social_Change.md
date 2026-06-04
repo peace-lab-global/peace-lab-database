@@ -14,9 +14,9 @@ intent_queries:
   - "性教育与社会变革的方法与实践"
 trigger_keywords: ["性教育与社会变革", "aging", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/attachment"

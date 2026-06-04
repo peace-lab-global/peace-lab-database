@@ -35,20 +35,20 @@ graph TB
 | 节点 | 文件位置 | 支柱 |
 |------|---------|------|
 | 佛教止观修法 | `01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md` | 01 |
-| MBSR 正念减压 | `02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md` | 02 |
-| MBCT 正念认知疗法 | `02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md` | 02 |
+| MBSR 正念减压 | `02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md` | 02 |
+| MBCT 正念认知疗法 | `02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md` | 02 |
 | 正念核心实践 | `05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md` | 05 |
 | 正念饮水 | `05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md` | 05 |
 | 正念书法 | `04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Practice_Guide.md` | 04 |
 | 禅宗日常实修 | `01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md` | 01 |
-| 瑜伽冥想 | `01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md` | 01 |
+| 瑜伽冥想 | `01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md` | 01 |
 | 太极正念运动 | `01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md` | 01 |
 | PNI 免疫调节 | `03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md` | 03 |
 | HRV 心率改善 | `03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md` | 03 |
 | 心流与专注 | `05-Praxis-Growth/personal-development/flow/Flow_State_Core.md` | 05 |
-| 声音正念 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
-| 频率疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
-| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| 声音正念 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 频率疗愈 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

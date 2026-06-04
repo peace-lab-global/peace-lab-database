@@ -16,13 +16,13 @@ trigger_keywords: ["维瓦尔第音乐疗愈", "act", "clinical", "developmental
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "emotion/exercise/meditation"
 
 ---

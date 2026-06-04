@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/buddhism/exercise"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/death/exercise"
 
 ---

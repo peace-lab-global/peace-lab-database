@@ -14,15 +14,15 @@ intent_queries:
   - "Sexually Transmitted Diseases in Special Populations的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/therapy/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
     relation: "aging/anxiety/emotion"
 
 ---

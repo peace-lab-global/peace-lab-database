@@ -14,7 +14,7 @@ intent_queries:
   - "失去与承受的方法与实践"
 trigger_keywords: ["失去与承受", "body", "brain", "depression", "grief"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "death/depression/neuroscience"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "death/depression/neuroscience"

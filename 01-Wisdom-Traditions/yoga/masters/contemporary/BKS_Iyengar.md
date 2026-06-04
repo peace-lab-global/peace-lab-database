@@ -14,13 +14,13 @@ intent_queries:
   - "B.K.S. Iyengar  — 精准瑜伽体系创始人的方法与实践"
 trigger_keywords: ["aging", "anxiety", "art", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/communication"
@@ -243,6 +243,6 @@ cross_refs:
 - [克里希那马查亚](../modern-pioneers/Krishnamacharya.md) — 恩师
 - [帕塔比·乔伊斯](Pattabhi_Jois.md) — 同门师兄弟
 - [德希卡恰](Desikachar.md) — 同门师兄弟
-- [现代瑜伽流派](../../Yoga_Modern_Styles.md) — 各流派详细对比
-- [瑜伽治疗](../../Yoga_Therapy.md) — 治疗应用
-- [瑜伽解剖学与生理学](../../Yoga_Anatomy_Physiology.md) — 解剖学基础
+- [现代瑜伽流派](../../modern-professional/Yoga_Modern_Styles.md) — 各流派详细对比
+- [瑜伽治疗](../../therapy-clinical/Yoga_Therapy.md) — 治疗应用
+- [瑜伽解剖学与生理学](../../anatomy-science/Yoga_Anatomy_Physiology.md) — 解剖学基础

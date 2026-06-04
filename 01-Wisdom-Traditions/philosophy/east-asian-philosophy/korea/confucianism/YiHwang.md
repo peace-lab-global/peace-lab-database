@@ -14,15 +14,15 @@ intent_queries:
   - "退溪李滉的方法与实践"
 trigger_keywords: ["退溪李滉", "cognitive", "developmental", "emotion", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/10-Contraindications.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/10-Contraindications.md"
     relation: "emotion/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "emotion/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
     relation: "emotion/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "emotion/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "emotion/personality/sexuality"
 
 ---

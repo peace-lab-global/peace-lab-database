@@ -16,7 +16,7 @@ trigger_keywords: ["双相情感障碍", "Index", "adolescent", "assessment", "c
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "depression/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "depression/emotion/neuroscience"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "depression/emotion/neuroscience"

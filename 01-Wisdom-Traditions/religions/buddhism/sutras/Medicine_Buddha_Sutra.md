@@ -14,15 +14,15 @@ intent_queries:
   - "药师琉璃光如来本愿功德经的方法与实践"
 trigger_keywords: ["buddhism", "sexuality", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
     relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
     relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/relationships/cultural-perspective/Cross_Cultural_Analysis.md"
+  - path: "02-Mind-Psychology/relationships/social-context/cultural-perspective/Cross_Cultural_Analysis.md"
     relation: "buddhism/nutrition/sexuality"
 
 ---

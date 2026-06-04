@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/anxiety/cardiovascular"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/anxiety/death"
 
 ---

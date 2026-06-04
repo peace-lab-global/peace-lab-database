@@ -14,15 +14,15 @@ intent_queries:
   - "经验主义哲学 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["经验主义哲学", "佛法视角三方书评", "brain", "buddhism", "developmental", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C6-1-冥想与止观-第九讲-练习观照的方式.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C6-1-冥想与止观-第九讲-练习观照的方式.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
     relation: "buddhism/emotion/meditation"
 
 ---

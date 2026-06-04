@@ -14,15 +14,15 @@ intent_queries:
   - "南传佛教仪轨总览的方法与实践"
 trigger_keywords: ["南传佛教仪轨总览", "act", "anxiety", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Practical_Guide.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/communication"
 
 ---

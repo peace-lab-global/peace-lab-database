@@ -14,13 +14,13 @@ intent_queries:
   - "让-保罗·萨特  - 哲学思想全览的方法与实践"
 trigger_keywords: ["让-保罗", "anxiety", "art", "death", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_19_Social_Community.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
     relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/death/exercise"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/death/exercise"

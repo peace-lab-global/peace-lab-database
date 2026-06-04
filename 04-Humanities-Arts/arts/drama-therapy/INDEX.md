@@ -16,7 +16,7 @@ trigger_keywords: ["戏剧疗愈 INDEX", "act", "act-therapy", "aging", "art"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/communication/depression"
@@ -63,11 +63,11 @@ cross_refs:
 |----------|---------|----------|
 | → 书法疗愈 | [../calligraphy-therapy/](../calligraphy-therapy/) | 同属创造性艺术治疗 |
 | → 摄影疗愈 | [../photography-therapy/](../photography-therapy/) | 表达性艺术治疗家族 |
-| → 游戏治疗 | [../../02-Mind-Psychology/therapy/game-therapy/](../../../02-Mind-Psychology/therapy/game-therapy/) | 游戏/戏剧的共通治疗因子 |
-| → 感官疗愈(舞动) | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 身体表达性治疗 |
-| → ACT疗法 | [../../02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | 体验性回避vs行动暴露 |
-| → Satir模式 | [../../02-Mind-Psychology/meditation/satir-model/](../../../02-Mind-Psychology/meditation/satir-model/) | 家庭雕塑技术的共通性 |
-| → EMDR | [../../02-Mind-Psychology/therapy/emdr-therapy/](../../../02-Mind-Psychology/therapy/emdr-therapy/) | 创伤处理的不同通路 |
+| → 游戏治疗 | [../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/) | 游戏/戏剧的共通治疗因子 |
+| → 感官疗愈(舞动) | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 身体表达性治疗 |
+| → ACT疗法 | [../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) | 体验性回避vs行动暴露 |
+| → Satir模式 | [../../02-Mind-Psychology/meditation/clinical/satir-model/](../../../02-Mind-Psychology/meditation/clinical/satir-model/) | 家庭雕塑技术的共通性 |
+| → EMDR | [../../02-Mind-Psychology/therapy/integrative/emdr-therapy/](../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/) | 创伤处理的不同通路 |
 | → 认知衰老 | [../../03-Bio-Science/biology/aging-longevity/](../../../03-Bio-Science/biology/aging-longevity/) | 回忆剧场在痴呆预防中的角色 |
 | → 关系心理学 | [../../02-Mind-Psychology/relationships/](../../../02-Mind-Psychology/relationships/) | 角色交换在关系治疗中的应用 |
 

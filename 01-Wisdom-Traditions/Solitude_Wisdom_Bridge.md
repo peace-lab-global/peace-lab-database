@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/buddhism/daoism"
   - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
     relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/emotion"
 
 ---
@@ -64,15 +64,15 @@ cross_refs:
 | **止观修法** | `buddhism/Buddhism_Samatha_Vipassana.md` | 止观双运——独自观照身心 | MBSR/MBCT的核心技术 |
 | **佛教冥想体系** | `buddhism/meditation/Buddhism_Meditation_Practice_System.md` | 四念处——独自觉察身、受、心、法 | 正念减压 |
 | **四无量心** | `buddhism/Buddhism_Four_Immeasurables.md` | 慈心禅——独处时培养无条件的爱 | 自我慈悲、社会连接 |
-| **米拉日巴传记** | `meditation/masters/ancient-buddhist/Milarepa.md` | 山洞独居——极端独处中的证悟 | 创造力、灵性觉醒 |
+| **米拉日巴传记** | `meditation/professional/masters/ancient-buddhist/Milarepa.md` | 山洞独居——极端独处中的证悟 | 创造力、灵性觉醒 |
 
 ### 1.4 瑜伽与印度传统的独处
 
 | 资源 | 路径 | 核心独处概念 | 现代心理学对应 |
 |------|------|-------------|---------------|
-| **瑜伽冥想 (Dharana/Dhyana)** | `yoga/Yoga_Meditation_Dharana_Dhyana.md` | 专注与禅定——独自收束心念 | 注意力训练、心流 |
-| **瑜伽睡眠术** | `yoga/Yoga_Nidra.md` |  Yoga Nidra——独自进入深度放松觉知 | 躯体放松、潜意识整合 |
-| **瑜伽心理疗愈** | `yoga/Yoga_Psychological_Healing_Principles.md` |  Pratyahara——感官内收，回归内在 | 感觉剥夺、内感受觉察 |
+| **瑜伽冥想 (Dharana/Dhyana)** | `yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md` | 专注与禅定——独自收束心念 | 注意力训练、心流 |
+| **瑜伽睡眠术** | `yoga/meditation-consciousness/Yoga_Nidra.md` |  Yoga Nidra——独自进入深度放松觉知 | 躯体放松、潜意识整合 |
+| **瑜伽心理疗愈** | `yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md` |  Pratyahara——感官内收，回归内在 | 感觉剥夺、内感受觉察 |
 
 ---
 
@@ -129,10 +129,10 @@ cross_refs:
 
 | 传统来源 | 现代实践形式 | 适合人群 | 入门资源 |
 |---------|------------|---------|---------|
-| 禅宗坐禅 | MBSR正念减压课程 | 高压职场人 | `meditation/mbsr-program/` |
-| 道家养生 | 森林浴/自然步行 | 城市居民 | `therapy/forest-therapy/` |
+| 禅宗坐禅 | MBSR正念减压课程 | 高压职场人 | `meditation/clinical/mbsr-program/` |
+| 道家养生 | 森林浴/自然步行 | 城市居民 | `therapy/sensory-nature/forest-therapy/` |
 | 基督教默观 | Centering Prayer | 有基督教背景者 | — |
-| 瑜伽Nidra | Yoga Nidra引导音频 | 失眠/焦虑者 | `meditation/yoga-nidra/` |
+| 瑜伽Nidra | Yoga Nidra引导音频 | 失眠/焦虑者 | `meditation/traditions/indian-yogic/yoga-nidra/` |
 | 存在主义哲学 | 存在主义心理治疗 | 存在性孤独者 | `psychology/social/loneliness/Loneliness_Existential.md` |
 
 ---
@@ -141,7 +141,7 @@ cross_refs:
 
 - `02-Mind-Psychology/psychology/social/solitude/Solitude_Philosophy.md` — 独处哲学的深度系统梳理
 - `02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md` — 将传统独处智慧转化为日常实践
-- `02-Mind-Psychology/meditation/overview/` — 现代冥想技术体系
+- `02-Mind-Psychology/meditation/foundations/overview/` — 现代冥想技术体系
 
 ---
 

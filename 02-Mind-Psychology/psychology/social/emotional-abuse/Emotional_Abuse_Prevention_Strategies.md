@@ -14,7 +14,7 @@ intent_queries:
   - "冷暴力预防策略专业内容体系的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/emotion"
   - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
     relation: "aging/communication/emotion"

@@ -14,11 +14,11 @@ intent_queries:
   - "内经养生实践指南的方法与实践"
 trigger_keywords: ["内经养生实践指南", "act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
     relation: "aging/anxiety/daoism"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/depression"

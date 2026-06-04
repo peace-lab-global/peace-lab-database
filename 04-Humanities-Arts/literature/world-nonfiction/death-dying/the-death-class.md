@@ -14,11 +14,11 @@ intent_queries:
   - "《死亡课》The Death Class的方法与实践"
 trigger_keywords: ["anxiety", "cognitive", "death", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/death"
   - path: "README.md"
     relation: "anxiety/art_therapy/death"

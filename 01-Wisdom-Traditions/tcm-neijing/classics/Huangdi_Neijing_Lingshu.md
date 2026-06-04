@@ -16,13 +16,13 @@ trigger_keywords: ["黄帝内经", "灵枢", "behavioral", "gut", "phobia", "sex
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
     relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "anxiety/sexuality"
 
 ---

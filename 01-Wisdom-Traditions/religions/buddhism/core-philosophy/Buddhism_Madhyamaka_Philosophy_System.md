@@ -14,13 +14,13 @@ intent_queries:
   - "中观哲学体系详论的方法与实践"
 trigger_keywords: ["中观哲学体系详论", "act", "anxiety", "behavioral", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
     relation: "anxiety/buddhism/depression"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/buddhism/depression"

@@ -19,7 +19,7 @@ cross_refs:
     relation: "anxiety/art_therapy/emotion"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "anxiety/emotion/productivity"
   - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md"
     relation: "anxiety/emotion/productivity"

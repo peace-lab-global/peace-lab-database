@@ -14,15 +14,15 @@ intent_queries:
   - "启蒙哲学经典三方书评的方法与实践"
 trigger_keywords: ["启蒙哲学经典三方书评", "cognitive", "philosophy", "religion", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
     relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "emotion/sexuality"
 
 ---

@@ -15,13 +15,13 @@ intent_queries:
   - "中国社会性焦虑专业术语词典的自助方法"
 trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
     relation: "anxiety/attachment/communication"

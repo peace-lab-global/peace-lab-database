@@ -14,15 +14,15 @@ intent_queries:
   - "dao | Index的方法与实践"
 trigger_keywords: ["dao", "Index", "daoism", "宗教与灵性", "道家"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
     relation: "daoism/sexuality"
 
 ---

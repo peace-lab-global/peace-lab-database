@@ -15,7 +15,7 @@ intent_queries:
   - "六瑜伽心理修炼专业内容体系的自助方法"
 trigger_keywords: ["assessment", "attachment", "body", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "attachment/buddhism/emotion"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "attachment/buddhism/death"
@@ -23,7 +23,7 @@ cross_refs:
     relation: "attachment/buddhism/emotion"
   - path: "README.md"
     relation: "attachment/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/buddhism/emotion"
 
 ---

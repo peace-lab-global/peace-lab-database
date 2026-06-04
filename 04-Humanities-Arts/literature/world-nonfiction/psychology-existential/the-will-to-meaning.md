@@ -16,13 +16,13 @@ trigger_keywords: ["addiction", "behavioral", "clinical", "depression"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
     relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "depression/emotion/exercise"
 
 ---

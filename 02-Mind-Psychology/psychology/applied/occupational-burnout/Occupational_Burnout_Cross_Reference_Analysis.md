@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "anxiety/depression/emotion"
 
 ---
@@ -162,12 +162,12 @@ cross_refs:
 
 | 相关文档 | 路径 | 核心关联 |
 |---|---|---|
-| 冥想概览 | [meditation/overview/](../../../meditation/overview/) | 冥想类型与流派 |
-| MBSR课程 | [mbsr-program/](../../../meditation/mbsr-program/) | 标准化正念减压课程 |
+| 冥想概览 | [meditation/foundations/overview/](../../../meditation/foundations/overview/) | 冥想类型与流派 |
+| MBSR课程 | [mbsr-program/](../../../meditation/clinical/mbsr-program/) | 标准化正念减压课程 |
 | 四无量心 | [Buddhism_Four_Immeasurables.md](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 同情疲劳的佛教转化路径 |
 | 太极心理调节 | [Tai_Chi_Psychological_Adjustment_Mechanism.md](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对压力的调节 |
 | 禅宗日常修行 | [zen/](../../../../01-Wisdom-Traditions/religions/zen/) | 工作即修行的禅宗视角 |
-| 森林疗法 | [forest-therapy/](../../../therapy/forest-therapy/) | 自然暴露疗法 |
+| 森林疗法 | [forest-therapy/](../../../therapy/sensory-nature/forest-therapy/) | 自然暴露疗法 |
 
 ---
 
@@ -203,12 +203,12 @@ cross_refs:
 
 | 治疗取向 | 倦怠的理解视角 | 核心贡献 | 知识库参考 |
 |---|---|---|---|
-| **认知行为疗法** | 功能失调的工作相关认知 | 认知重构、行为激活 | [CBT](../../../therapy/cognitive-behavioral-therapy/) |
-| **辩证行为疗法** | 情绪失调和痛苦耐受不足 | 情绪调节技能、正念 | [DBT](../../../therapy/dialectical-behavior-therapy/) |
-| **接纳承诺疗法** | 经验回避和价值脱离 | 心理灵活性、价值行动 | [ACT](../../../therapy/act-therapy/) |
-| **慈悲焦点疗法** | 自我批判和羞耻 | 自我关怀、情感调节 | [CFT](../../../therapy/compassion-focused-therapy/) |
-| **森田疗法** | 对症状的过度关注 | "顺其自然、为所当为" | [森田疗法](../../../therapy/morita-therapy/) |
-| **聚焦疗法** | 与身体感受的连接断裂 | 体会性聚焦 | [聚焦疗法](../../../therapy/focus-therapy/) |
+| **认知行为疗法** | 功能失调的工作相关认知 | 认知重构、行为激活 | [CBT](../../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/) |
+| **辩证行为疗法** | 情绪失调和痛苦耐受不足 | 情绪调节技能、正念 | [DBT](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/) |
+| **接纳承诺疗法** | 经验回避和价值脱离 | 心理灵活性、价值行动 | [ACT](../../../therapy/cognitive-behavioral/act-therapy/) |
+| **慈悲焦点疗法** | 自我批判和羞耻 | 自我关怀、情感调节 | [CFT](../../../therapy/integrative/compassion-focused-therapy/) |
+| **森田疗法** | 对症状的过度关注 | "顺其自然、为所当为" | [森田疗法](../../../therapy/integrative/morita-therapy/) |
+| **聚焦疗法** | 与身体感受的连接断裂 | 体会性聚焦 | [聚焦疗法](../../../therapy/creative-expressive/focus-therapy/) |
 
 ---
 

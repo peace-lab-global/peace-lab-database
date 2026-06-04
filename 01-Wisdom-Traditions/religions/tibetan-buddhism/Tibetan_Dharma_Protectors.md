@@ -14,13 +14,13 @@ intent_queries:
   - "护法系统 | Dharma Protectors | Dharmapāla的方法与实践"
 trigger_keywords: ["护法系统", "Dharmapāla", "act", "body", "buddhism", "dzogchen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/buddhism/productivity"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/buddhism/productivity"

@@ -17,7 +17,7 @@ trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
   - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "aging/anxiety/communication"

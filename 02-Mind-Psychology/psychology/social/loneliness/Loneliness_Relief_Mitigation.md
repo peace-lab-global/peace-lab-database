@@ -20,7 +20,7 @@ cross_refs:
     relation: "anxiety/attachment/emotion"
   - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
     relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "anxiety/attachment/emotion"
   - path: "03-Bio-Science/INDEX.md"
     relation: "anxiety/emotion/immune"

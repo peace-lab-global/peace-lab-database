@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/depression/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "anxiety/depression/emotion"
 
 ---
@@ -57,7 +57,7 @@ cross_refs:
 
 ### 🏥 临床心理 (Clinical)
 - [精神障碍专题](../clinical/disorder/)
-- [焦虑症](../clinical/anxiety/) · [抑郁症](../../meditation/clinical-conditions/depression/)
+- [焦虑症](../clinical/anxiety/) · [抑郁症](../../meditation/clinical/clinical-conditions/depression/)
 - [强迫症](../clinical/obsessive-compulsive/) · [创伤心理](../clinical/trauma/)
 
 ### 💼 应用心理 (Applied)

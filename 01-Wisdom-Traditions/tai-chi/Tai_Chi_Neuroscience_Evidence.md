@@ -14,15 +14,15 @@ intent_queries:
   - "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的方法与实践"
 trigger_keywords: ["aging", "anxiety", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/exercise"
 
 ---

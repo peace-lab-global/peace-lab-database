@@ -14,15 +14,15 @@ intent_queries:
   - "巴鲁赫·斯宾诺莎的方法与实践"
 trigger_keywords: ["巴鲁赫", "斯宾诺莎", "act", "behavioral", "body", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "emotion/exercise/meditation"
 
 ---

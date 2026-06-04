@@ -46,9 +46,9 @@ cross_refs:
 | 关联领域 | 路径 | 关联点 |
 |---------|------|--------|
 | 园艺疗愈 | [04-Humanities-Arts/arts/horticultural-therapy/](../horticultural-therapy/) | 自然接触与绿色空间 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 自然环境疗愈 |
-| 感官治疗 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 多感官环境设计 |
-| 香薰疗法 | [02-Mind-Psychology/therapy/incense/](../../../02-Mind-Psychology/therapy/incense/) | 嗅觉空间 |
+| 森林疗法 | [02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 自然环境疗愈 |
+| 感官治疗 | [02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 多感官环境设计 |
+| 香薰疗法 | [02-Mind-Psychology/therapy/sensory-nature/incense/](../../../02-Mind-Psychology/therapy/sensory-nature/incense/) | 嗅觉空间 |
 | SPA | [03-Bio-Science/biology/spa/](../../../03-Bio-Science/biology/spa/) | 水疗空间设计 |
 
 ---

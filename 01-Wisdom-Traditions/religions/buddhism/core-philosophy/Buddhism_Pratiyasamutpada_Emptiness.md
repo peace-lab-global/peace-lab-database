@@ -14,15 +14,15 @@ intent_queries:
   - "缘起性空哲学详论的方法与实践"
 trigger_keywords: ["缘起性空哲学详论", "act", "addiction", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
     relation: "aging/anxiety/buddhism"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/anxiety/buddhism"
 
 ---

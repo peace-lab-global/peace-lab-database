@@ -14,9 +14,9 @@ intent_queries:
   - "《佛陀的启示》What the Buddha Taught的方法与实践"
 trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
     relation: "aging/anxiety/art_therapy"

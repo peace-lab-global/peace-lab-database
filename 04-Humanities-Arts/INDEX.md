@@ -14,9 +14,9 @@ intent_queries:
   - "04-Humanities-Arts | 人文与艺术疗愈的方法与实践"
 trigger_keywords: ["人文与艺术疗愈", "act", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
     relation: "aging/anxiety/communication"
@@ -104,7 +104,7 @@ cross_refs:
   - [毕加索 (Picasso)](arts/artists/modern/Picasso.md)
   - [莫奈 (Monet)](arts/artists/modern/Monet.md)
   - [达利 (Dali)](arts/artists/modern/Dali.md)
-- [正念艺术与缠绕画 (Mindful Zentangle)](../02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md)
+- [正念艺术与缠绕画 (Mindful Zentangle)](../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md)
 
 ### 1.5 ✍️ 书法疗愈 (Calligraphy Therapy) — [完整知识地图](arts/calligraphy-therapy/INDEX.md) **[NEW]**
 - [书法疗愈总览 (Calligraphy Therapy Overview)](arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md) — 理论基础、心理生理机制、不同书法传统
@@ -133,6 +133,18 @@ cross_refs:
 - [陶艺疗愈 (Pottery Therapy)](arts/craft-therapy/Craft_Pottery_Therapy.md) — 泥土象征、拉坯冥想、侘寂/金缮
 - [纺织编织疗愈 (Textile Therapy)](arts/craft-therapy/Craft_Textile_Therapy.md) — 编织正念、刺绣/纺纱/拼布、编织圈
 
+### 1.12 💃 舞动治疗 (Dance/Movement Therapy) — [完整知识地图](arts/dance-movement-therapy/INDEX.md) **[NEW]**
+- [舞动治疗总览](arts/dance-movement-therapy/Dance_Movement_Therapy_Overview.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
+
+### 1.13 📖 叙事疗法 (Narrative Therapy) — [完整知识地图](arts/narrative-therapy/INDEX.md) **[NEW]**
+- [叙事疗法总览](arts/narrative-therapy/Narrative_Therapy_Overview.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
+
+### 1.14 🏖️ 沙盘/沙游治疗 (Sandplay Therapy) — [完整知识地图](arts/sandplay-therapy/INDEX.md) **[NEW]**
+- [沙盘/沙游治疗总览](arts/sandplay-therapy/Sandplay_Therapy_Overview.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
+
+### 1.15 🌲 自然与荒野疗愈 (Nature & Wilderness Therapy) — [完整知识地图](arts/nature-wilderness-therapy/INDEX.md) **[NEW]**
+- [自然与荒野疗愈总览](arts/nature-wilderness-therapy/Nature_Wilderness_Therapy_Overview.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
+
 ### 2. 🩰 芭蕾艺术全系 (Ballet: From Technique to Therapy)
 - [芭蕾艺术概览与系统 (Ballet Overview)](arts/ballet/Ballet_Overview.md)
 - [芭蕾技术体系 (Technique System)](arts/ballet/Ballet_Technique_System.md)
@@ -155,7 +167,10 @@ cross_refs:
   - [莫扎特 (Mozart)](media/music/musician/composers/Mozart.md)
 - [钢琴家艺术与演奏分析 (Pianists)](media/music/musician/pianists/)
 - [歌剧、艺术歌曲与民族音乐 (Opera & Folk)](media/music/opera-artsong-therapy/Opera_ArtSong_Therapy.md)
-- [表达性舞动治疗 (Expressive Dance)](../02-Mind-Psychology/therapy/sensory/Sensory_Dance_Expressive.md)
+- [表达性舞动治疗 (Expressive Dance)](../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Dance_Expressive.md)
+- [**声音疗愈 (Sound Healing)**](media/sound-healing/) **[NEW]** — 颂钵/音叉/频率疗法/声音浴/脑波夹带
+  - [声音疗愈总览](media/sound-healing/Sound_Healing_Overview.md) — 声学原理、工具、Solfeggio频率、40Hz疗法
+  - [声音疗愈临床应用](media/sound-healing/Sound_Healing_Clinical_Applications.md) — 焦虑/PTSD/疼痛/安宁疗护/项目设计
 
 ### 4. 🎬 影音媒体与文化批评 (Media & Cultural Criticism)
 - [电影疗愈核心理论 (Cinema Therapy)](media/cinema/cinema-therapy/Cinema_Therapy_Overview.md)
@@ -185,7 +200,7 @@ cross_refs:
 <details>
 <summary>点击查看本支柱知识图谱</summary>
 
-![人文与艺术疗愈知识图谱](../Visualization/initial-autofit.png)
+![人文与艺术疗愈知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：人文与艺术疗愈支柱的知识结构，涵盖艺术疗愈、音乐疗愈、电影疗愈、文学疗愈、书法疗愈等核心领域。*
 

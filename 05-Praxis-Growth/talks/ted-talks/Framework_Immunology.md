@@ -14,13 +14,13 @@ intent_queries:
   - "免疫学 | Immunology的方法与实践"
 trigger_keywords: ["免疫学", "Immunology", "exercise", "gut", "immune", "neuroscience"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/exercise/immune"
   - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
     relation: "communication/exercise/immune"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/exercise/immune"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "communication/exercise/immune"

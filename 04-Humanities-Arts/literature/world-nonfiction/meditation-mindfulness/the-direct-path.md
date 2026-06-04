@@ -16,13 +16,13 @@ trigger_keywords: ["body", "brain", "buddhism", "cognitive"]
 cross_refs:
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/emotion/exercise"
 
 ---

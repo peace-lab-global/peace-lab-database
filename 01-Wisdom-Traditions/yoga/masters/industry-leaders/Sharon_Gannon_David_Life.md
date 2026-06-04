@@ -16,13 +16,13 @@ trigger_keywords: ["莎朗", "甘农与大卫", "act", "literature", "meditation
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
     relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "meditation/sexuality/therapy"
 
 ---

@@ -14,13 +14,13 @@ intent_queries:
   - "南传佛教布萨仪轨的方法与实践"
 trigger_keywords: ["南传佛教布萨仪轨", "behavioral", "body", "buddhism", "fasting"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
     relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
     relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/meditation/nutrition"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "buddhism/meditation/nutrition"

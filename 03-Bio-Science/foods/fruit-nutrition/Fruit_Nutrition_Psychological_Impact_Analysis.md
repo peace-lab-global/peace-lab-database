@@ -15,15 +15,15 @@ intent_queries:
   - "水果食疗心理影响分析专业内容体系的自助方法"
 trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/depression"
 
 ---

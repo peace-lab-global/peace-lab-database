@@ -14,15 +14,15 @@ intent_queries:
   - "路德维希·维特根斯坦的方法与实践"
 trigger_keywords: ["路德维希", "维特根斯坦", "act", "art", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/exercise/neuroscience"
 
 ---

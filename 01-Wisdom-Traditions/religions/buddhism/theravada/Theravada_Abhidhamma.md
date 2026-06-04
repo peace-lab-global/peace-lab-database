@@ -15,15 +15,15 @@ intent_queries:
   - "阿毗达摩心理学的自助方法"
 trigger_keywords: ["阿毗达摩心理学", "act", "addiction", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
     relation: "aging/anxiety/buddhism"
 
 ---

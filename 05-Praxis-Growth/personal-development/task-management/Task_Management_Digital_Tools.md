@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/neuroscience/productivity"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
     relation: "anxiety/neuroscience/productivity"
 
 ---

@@ -20,9 +20,9 @@ cross_refs:
     relation: "attachment/buddhism/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
     relation: "attachment/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/buddhism/sexuality"
 
 ---

@@ -20,7 +20,7 @@ cross_refs:
     relation: "art_therapy/death/emotion"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
     relation: "death/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "art_therapy/death/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "death/emotion/exercise"

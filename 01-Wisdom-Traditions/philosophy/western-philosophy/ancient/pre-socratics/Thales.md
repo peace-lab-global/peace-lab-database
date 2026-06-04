@@ -14,15 +14,15 @@ intent_queries:
   - "泰勒斯的方法与实践"
 trigger_keywords: ["泰勒斯", "act", "cognitive", "developmental", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "exercise/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "exercise/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "exercise/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "exercise/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "exercise/sexuality/stress"
 
 ---

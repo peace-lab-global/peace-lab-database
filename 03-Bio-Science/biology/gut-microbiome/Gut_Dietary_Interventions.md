@@ -14,11 +14,11 @@ intent_queries:
   - "肠道饮食干预 | Gut Dietary Interventions的方法与实践"
 trigger_keywords: ["肠道饮食干预", "act", "brain", "cardiovascular", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "cardiovascular/depression/emotion"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "cardiovascular/depression/emotion"

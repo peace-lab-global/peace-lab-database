@@ -14,15 +14,15 @@ intent_queries:
   - "Zen Five Houses & Seven Schools的方法与实践"
 trigger_keywords: ["act", "cognitive", "philosophy", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
     relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "buddhism/meditation/productivity"
 
 ---

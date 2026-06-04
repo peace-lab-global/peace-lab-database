@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/death/neuroscience"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
     relation: "anxiety/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "anxiety/death/neuroscience"
 
 ---

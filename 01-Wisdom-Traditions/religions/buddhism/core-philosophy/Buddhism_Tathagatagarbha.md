@@ -14,15 +14,15 @@ intent_queries:
   - "如来藏思想详论的方法与实践"
 trigger_keywords: ["如来藏思想详论", "act", "addiction", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Contemplative_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
 
 ---

@@ -14,15 +14,15 @@ intent_queries:
   - "Eczema Comprehensive Guide的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/emotion"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Modern_Research_Review.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Modern_Research_Review.md"
     relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "aging/anxiety/emotion"
 
 ---

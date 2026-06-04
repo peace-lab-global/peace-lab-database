@@ -14,7 +14,7 @@ intent_queries:
   - "Aging & End-of-Life Psychology的方法与实践"
 trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "aging/anxiety/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/death"

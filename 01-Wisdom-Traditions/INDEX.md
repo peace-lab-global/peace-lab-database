@@ -16,9 +16,9 @@ trigger_keywords: ["智慧传承", "act", "art", "body", "brain"]
 cross_refs:
   - path: "README.md"
     relation: "art_therapy/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "buddhism/cardiovascular/exercise"
   - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
     relation: "art_therapy/buddhism/exercise"
@@ -42,7 +42,7 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [瑜伽哲学 (Philosophy)](yoga/Yoga_Philosophy.md) | 理解瑜伽的核心思想体系 | 30分钟 |
+| 1 | [瑜伽哲学 (Philosophy)](yoga/philosophy-history/Yoga_Philosophy.md) | 理解瑜伽的核心思想体系 | 30分钟 |
 | 2 | [道家哲学与宇宙论](../religions/dao/Dao_Philosophy_Cosmology.md) | 建立"道"的整体世界观 | 30分钟 |
 | 3 | [禅宗智慧与传承](../religions/zen/Zen_Wisdom_Lineage.md) | 理解禅宗的核心智慧 | 25分钟 |
 | 4 | [太极拳总览](../tai-chi/Tai_Chi_Overview.md) | 体验身心合一运动 | 20分钟 |
@@ -58,7 +58,7 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [瑜伽经深度 (Yoga Sutra)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md) | 深入瑜伽哲学核心经典 | 45分钟 |
+| 1 | [瑜伽经深度 (Yoga Sutra)](yoga/philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) | 深入瑜伽哲学核心经典 | 45分钟 |
 | 2 | [止观双运 (Samatha & Vipassana)](../religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) | 掌握佛教核心修习方法 | 40分钟 |
 | 3 | [内丹修持与路径](../religions/dao/Dao_Internal_Alchemy_Neidan.md) | 理解道家内丹学体系 | 35分钟 |
 | 4 | [佛教心理学与疗愈](../religions/buddhism/psychology/) | 连接古老智慧与现代心理学 | 30分钟 |
@@ -100,27 +100,27 @@ cross_refs:
 ### 1. 🧘‍♂️ 瑜伽与印度传统 (Yoga & Indian Traditions) — [完整知识地图](yoga/INDEX.md)
 
 **哲学与历史**
-- [瑜伽哲学 (Philosophy)](yoga/Yoga_Philosophy.md) | [瑜伽经深度 (Yoga Sutra)](yoga/Yoga_Sutra_Philosophical_Deep_Dive.md) | [哲学流派 (Schools)](yoga/Yoga_Philosophy_Schools_Deep.md)
-- [瑜伽历史 (History)](yoga/Yoga_History_Tradition.md) | [术语总表 (Glossary)](yoga/Yoga_Glossary_Master.md)
+- [瑜伽哲学 (Philosophy)](yoga/philosophy-history/Yoga_Philosophy.md) | [瑜伽经深度 (Yoga Sutra)](yoga/philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) | [哲学流派 (Schools)](yoga/philosophy-history/Yoga_Philosophy_Schools_Deep.md)
+- [瑜伽历史 (History)](yoga/philosophy-history/Yoga_History_Tradition.md) | [术语总表 (Glossary)](yoga/philosophy-history/Yoga_Glossary_Master.md)
 
 **练习与技术**
-- [体式与调息 (Asana & Pranayama)](yoga/Yoga_Asana_Pranayama.md) | [体式库 (Asana Library)](yoga/asana-library/INDEX.md)
-- [冥想 (Meditation)](yoga/Yoga_Meditation_Dharana_Dhyana.md) | [Mantra与声音 (Mantra & Nada)](yoga/Yoga_Mantra_Nada_Chanting.md)
-- [六业净化 (Shatkarma)](yoga/Yoga_Shatkarma_Cleansing.md) | [昆达里尼 (Kundalini)](yoga/Yoga_Advanced_Kriya_Kundalini.md)
-- [Yoga Nidra](yoga/Yoga_Nidra.md) | [那洛六法 (Six Yogas of Naropa)](yoga/six-yogas-naropa/)
+- [体式与调息 (Asana & Pranayama)](yoga/practice-technique/Yoga_Asana_Pranayama.md) | [体式库 (Asana Library)](yoga/asana-library/INDEX.md)
+- [冥想 (Meditation)](yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md) | [Mantra与声音 (Mantra & Nada)](yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md)
+- [六业净化 (Shatkarma)](yoga/practice-technique/Yoga_Shatkarma_Cleansing.md) | [昆达里尼 (Kundalini)](yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md)
+- [Yoga Nidra](yoga/meditation-consciousness/Yoga_Nidra.md) | [那洛六法 (Six Yogas of Naropa)](yoga/six-yogas-naropa/)
 
 **科学与治疗**
-- [解剖学 (Anatomy)](yoga/Yoga_Anatomy_Physiology.md) | [神经科学 (Neuroscience)](yoga/Yoga_Neuroscience_Modern_Research.md)
-- [瑜伽治疗 (Therapy)](yoga/Yoga_Therapy.md) | [心理健康 (Mental Health)](yoga/Yoga_Mental_Health_Clinical.md)
-- [阿育吠陀整合 (Ayurveda)](yoga/Yoga_Ayurvedic_Therapy_Integration.md) | [中医整合 (TCM)](yoga/Yoga_TCM_Integration.md)
+- [解剖学 (Anatomy)](yoga/anatomy-science/Yoga_Anatomy_Physiology.md) | [神经科学 (Neuroscience)](yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md)
+- [瑜伽治疗 (Therapy)](yoga/therapy-clinical/Yoga_Therapy.md) | [心理健康 (Mental Health)](yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md)
+- [阿育吠陀整合 (Ayurveda)](yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md) | [中医整合 (TCM)](yoga/integrative-medicine/Yoga_TCM_Integration.md)
 
 **人群与生活**
-- [特殊人群 (Populations)](yoga/Yoga_Specific_Populations.md) | [女性健康 (Women)](yoga/Yoga_Women_Health.md)
-- [营养与生活 (Nutrition)](yoga/Yoga_Nutrition_Lifestyle.md) | [现代流派 (Styles)](yoga/Yoga_Modern_Styles.md)
+- [特殊人群 (Populations)](yoga/specific-populations/Yoga_Specific_Populations.md) | [女性健康 (Women)](yoga/specific-populations/Yoga_Women_Health.md)
+- [营养与生活 (Nutrition)](yoga/lifestyle/Yoga_Nutrition_Lifestyle.md) | [现代流派 (Styles)](yoga/modern-professional/Yoga_Modern_Styles.md)
 
 **职业与资源**
-- [伦理与专业 (Ethics)](yoga/Yoga_Ethics_Business_Professional.md) | [静修设计 (Retreats)](yoga/Yoga_Retreat_Workshop_Design.md)
-- [科技与数字 (Technology)](yoga/Yoga_Technology_Digital.md) | [资源指南 (Resources)](yoga/Yoga_Resources.md)
+- [伦理与专业 (Ethics)](yoga/modern-professional/Yoga_Ethics_Business_Professional.md) | [静修设计 (Retreats)](yoga/modern-professional/Yoga_Retreat_Workshop_Design.md)
+- [科技与数字 (Technology)](yoga/modern-professional/Yoga_Technology_Digital.md) | [资源指南 (Resources)](yoga/resources/Yoga_Resources.md)
 
 ### 2. 🏮 禅宗与东亚静修 (Zen & East Asian Contemplation)
 - [禅宗智慧与传承 (Zen Wisdom)](religions/zen/Zen_Wisdom_Lineage.md)
@@ -150,14 +150,17 @@ cross_refs:
   - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/Neijing_Yangsheng_Overview.md)
   - [内经养生实践指南 (Practice Guide)](tcm-neijing/Neijing_Yangsheng_Practice.md)
 
-### 3.6 ☯️ 太极拳与身心调适 (Tai Chi & Mind-Body Regulation) — [完整知识地图](tai-chi/INDEX.md) **[NEW]**
-- [太极拳总览 (Tai Chi Overview)](tai-chi/Tai_Chi_Overview.md) — 历史源流、核心哲学、太极拳与健康
-- [太极拳流派与风格 (Schools & Styles)](tai-chi/Tai_Chi_Schools_Styles.md) — 陈/杨/武/吴/孙五大流派
-- [太极拳基础与练习 (Fundamentals & Practice)](tai-chi/Tai_Chi_Fundamentals_Practice.md) — 桩功、套路、推手、器械
-- [太极拳心理调适机制 (Psychological Adjustment)](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) — 正念运动、情绪调节
-- [太极拳神经科学证据 (Neuroscience Evidence)](tai-chi/Tai_Chi_Neuroscience_Evidence.md) — 脑影像、HRV、认知
-- [太极拳临床应用 (Clinical Applications)](tai-chi/Tai_Chi_Clinical_Applications.md) — 慢性病、疼痛、跌倒预防
-- [太极拳与气功整合 (Qigong Integration)](tai-chi/Tai_Chi_Qigong_Integration.md) — 气功体系、八段锦、五禽戏
+### 3.6 ☯️ 太极拳学院体系 (Tai Chi Academy) — [完整知识地图](tai-chi/INDEX.md) **48+文档 · 13维度**
+
+**核心概览**
+- [太极拳总览](tai-chi/Tai_Chi_Overview.md) · [五大流派](tai-chi/Tai_Chi_Schools_Styles.md) · [基本功法](tai-chi/Tai_Chi_Fundamentals_Practice.md)
+- [神经科学证据](tai-chi/Tai_Chi_Neuroscience_Evidence.md) · [临床应用](tai-chi/Tai_Chi_Clinical_Applications.md) · [气功整合](tai-chi/Tai_Chi_Qigong_Integration.md) · [心理调适](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
+
+**13维度子目录**
+- [philosophy-history/](tai-chi/philosophy-history/) 哲学源流 · [schools-lineage/](tai-chi/schools-lineage/) 流派传承 · [fundamentals/](tai-chi/fundamentals/) 基本功法
+- [forms-routines/](tai-chi/forms-routines/) 套路招式 · [push-hands-martial/](tai-chi/push-hands-martial/) 推手武术 · [qigong-neigong/](tai-chi/qigong-neigong/) 气功内功
+- [clinical-health/](tai-chi/clinical-health/) 临床健康 · [neuroscience-research/](tai-chi/neuroscience-research/) 神经科学 · [psychology-wellbeing/](tai-chi/psychology-wellbeing/) 心理健康
+- [teaching-pedagogy/](tai-chi/teaching-pedagogy/) 师资培训 · [special-populations/](tai-chi/special-populations/) 特殊人群 · [culture-art/](tai-chi/culture-art/) 文化艺术 · [resources/](tai-chi/resources/) 学习资源
 
 ### 4. ☸️ 佛教智慧体系 (Buddhist Wisdom System)
 - [佛教核心概论 (Core Overview)](religions/buddhism/foundations/Buddhism_Core_Overview.md)
@@ -211,7 +214,7 @@ cross_refs:
 <details>
 <summary>点击查看本支柱知识图谱</summary>
 
-![智慧传承知识图谱](../Visualization/initial-autofit.png)
+![智慧传承知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：智慧传承支柱的知识结构，涵盖瑜伽、禅宗、道家、佛教、全球灵性哲学等核心领域。*
 

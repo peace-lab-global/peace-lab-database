@@ -14,7 +14,7 @@ intent_queries:
   - "《回忆、梦、反思》Memories, Dreams, Reflections的方法与实践"
 trigger_keywords: ["《回忆", "aging", "buddhism", "death", "freud"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "aging/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
     relation: "buddhism/death/personality"

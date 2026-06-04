@@ -19,11 +19,11 @@ cross_refs:
     relation: "communication/emotion/neuroscience"
   - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
     relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/christian-contemplative/Christian_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Practical_Guide.md"
     relation: "communication/emotion/neuroscience"
 
 ---

@@ -18,7 +18,7 @@ cross_refs:
     relation: "attachment/death/depression"
   - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
     relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "attachment/death/depression"
   - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
     relation: "attachment/death/depression"

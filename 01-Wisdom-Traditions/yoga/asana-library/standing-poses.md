@@ -14,15 +14,15 @@ intent_queries:
   - "Standing Poses 站立位体式的方法与实践"
 trigger_keywords: ["anxiety", "breathwork", "positive-psychology", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
     relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/productivity/sexuality"
 
 ---

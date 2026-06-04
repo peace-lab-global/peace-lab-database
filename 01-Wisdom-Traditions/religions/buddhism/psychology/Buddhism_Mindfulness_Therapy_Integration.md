@@ -17,13 +17,13 @@ trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
     relation: "anxiety/attachment/emotion"
 
 ---

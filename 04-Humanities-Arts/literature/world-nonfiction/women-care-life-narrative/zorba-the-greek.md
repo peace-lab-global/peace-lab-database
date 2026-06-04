@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
     relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "anxiety/communication/death"
   - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
     relation: "anxiety/communication/death"

@@ -23,7 +23,7 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "aging/anxiety/communication"
 
 ---

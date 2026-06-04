@@ -16,13 +16,13 @@ trigger_keywords: ["瑜伽职业发展路径", "act", "adolescent", "aging", "br
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "aging/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "aging/communication/neuroscience"
 
 ---
@@ -232,6 +232,6 @@ cross_refs:
 - [瑜伽数字化产业](Yoga_Digital_Industry.md)
 - [瑜伽认证体系对比](../practitioner-training/Yoga_Certification_Comparison.md)
 - [瑜伽教师培训概览](../practitioner-training/Yoga_Training_Overview.md)
-- [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md)
-- [冥想职业发展路径](../../../02-Mind-Psychology/meditation/career-business/Meditation_Career_Pathways.md) — 对比参考
+- [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md)
+- [冥想职业发展路径](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Career_Pathways.md) — 对比参考
 - [瑜伽+冥想双轨职业](Yoga_Meditation_Cross_Career.md)

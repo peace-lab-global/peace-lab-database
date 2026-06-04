@@ -14,9 +14,9 @@ intent_queries:
   - "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的方法与实践"
 trigger_keywords: ["act", "addiction", "adolescent", "aging"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/depression"
@@ -198,7 +198,7 @@ cross_refs:
 | 戏剧疗愈总览 | [Drama_Therapy_Overview.md](./Drama_Therapy_Overview.md) |
 | 心理剧技术 | [Psychodrama_Techniques.md](./Psychodrama_Techniques.md) |
 | 戏剧疗愈实操 | [Drama_Therapy_Practice.md](./Drama_Therapy_Practice.md) |
-| EMDR疗法 | [../../../02-Mind-Psychology/therapy/emdr-therapy/](../../../02-Mind-Psychology/therapy/emdr-therapy/) |
+| EMDR疗法 | [../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/](../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/) |
 | 认知衰老 | [../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) |
 
 ### 核心参考文献

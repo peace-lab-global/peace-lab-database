@@ -14,15 +14,15 @@ intent_queries:
   - "Practice Methodology的方法与实践"
 trigger_keywords: ["act", "anxiety", "brain", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "anxiety/buddhism/cardiovascular"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/buddhism/exercise"
 
 ---

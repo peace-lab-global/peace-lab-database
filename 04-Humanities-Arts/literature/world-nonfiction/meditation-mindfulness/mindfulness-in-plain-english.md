@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/death"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "anxiety/art_therapy/death"
 
 ---

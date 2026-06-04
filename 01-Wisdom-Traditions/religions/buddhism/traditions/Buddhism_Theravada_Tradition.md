@@ -14,11 +14,11 @@ intent_queries:
   - "南传上座部传统详论的方法与实践"
 trigger_keywords: ["南传上座部传统详论", "act", "behavioral", "buddhism", "crisis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "buddhism/communication/meditation"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
     relation: "buddhism/communication/meditation"

@@ -14,15 +14,15 @@ intent_queries:
   - "分析哲学经典三方书评的方法与实践"
 trigger_keywords: ["分析哲学经典三方书评", "philosophy", "religion", "sexuality", "treatment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
     relation: "communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/05-MBCT-Relapse-Prevention.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/05-MBCT-Relapse-Prevention.md"
     relation: "communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "communication/sexuality"
 
 ---

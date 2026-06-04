@@ -45,11 +45,11 @@ graph TB
 | 手工/陶艺疗愈 | `04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md` | 04 |
 | 芭蕾疗愈 | `04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md` | 04 |
 | 音乐治疗 | `04-Humanities-Arts/media/music/` | 04 |
-| 感官疗法 | `02-Mind-Psychology/therapy/sensory/` | 02 |
-| 舞动疗法 | `02-Mind-Psychology/therapy/sensory/Sensory_Dance_Expressive.md` | 02 |
-| 声音疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
-| 频率疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
-| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| 感官疗法 | `02-Mind-Psychology/therapy/sensory-nature/sensory/` | 02 |
+| 舞动疗法 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Dance_Expressive.md` | 02 |
+| 声音疗愈 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 频率疗愈 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 | 禅宗审美 | `01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md` | 01 |
 | 东亚书道 | `01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md` | 01 |
 | 脑科学 | `03-Bio-Science/biology/brain/` | 03 |

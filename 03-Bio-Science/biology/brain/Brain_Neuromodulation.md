@@ -14,15 +14,15 @@ intent_queries:
   - "神经调控技术的方法与实践"
 trigger_keywords: ["神经调控技术", "act", "anxiety", "brain", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "anxiety/depression/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/depression/exercise"
 
 ---

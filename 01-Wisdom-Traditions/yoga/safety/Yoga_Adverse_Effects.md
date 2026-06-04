@@ -14,11 +14,11 @@ intent_queries:
   - "瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）的方法与实践"
 trigger_keywords: ["act", "anxiety", "assessment", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "anxiety/exercise/neuroscience"
   - path: "03-Bio-Science/INDEX.md"
     relation: "anxiety/cardiovascular/death"

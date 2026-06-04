@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽教师培训全景（Yoga Teacher Training Overview）的方法与实践"
 trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/buddhism"
 
 ---

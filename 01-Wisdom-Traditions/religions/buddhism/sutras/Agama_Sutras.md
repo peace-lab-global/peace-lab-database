@@ -14,15 +14,15 @@ intent_queries:
   - "四阿含经（Āgama Sūtras）的方法与实践"
 trigger_keywords: ["act", "aging", "breathwork", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "aging/buddhism/emotion"
 
 ---

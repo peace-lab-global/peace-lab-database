@@ -14,15 +14,15 @@ intent_queries:
   - "医疗转诊指南的方法与实践"
 trigger_keywords: ["医疗转诊指南", "act", "assessment", "brain", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "cardiovascular/exercise/immune"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
     relation: "cardiovascular/exercise/neuroscience"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "cardiovascular/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "exercise/immune/neuroscience"
 
 ---

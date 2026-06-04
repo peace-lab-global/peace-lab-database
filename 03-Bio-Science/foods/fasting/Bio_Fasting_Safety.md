@@ -16,13 +16,13 @@ trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/anxiety/cardiovascular"
 
 ---

@@ -15,15 +15,15 @@ intent_queries:
   - "慢性疼痛心理干预 | Pain Psychology Intervention的自助方法"
 trigger_keywords: ["慢性疼痛心理干预", "act", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/depression/emotion"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/depression/emotion"
 
 ---
@@ -174,6 +174,6 @@ cross_refs:
 |---------|------|--------|
 | 疼痛科学总览 | [Pain_Science_Overview](Pain_Science_Overview.md) | 疼痛机制与评估 |
 | 身心疼痛疗法 | [Pain_Mind_Body_Approaches](Pain_Mind_Body_Approaches.md) | 正念/瑜伽/催眠 |
-| ACT治疗 | [02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | ACT理论与实践 |
-| CBT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) | CBT理论 |
-| MBSR | [02-Mind-Psychology/meditation/mbsr-program/](../../../02-Mind-Psychology/meditation/mbsr-program/) | 正念减压 |
+| ACT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) | ACT理论与实践 |
+| CBT治疗 | [02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/) | CBT理论 |
+| MBSR | [02-Mind-Psychology/meditation/clinical/mbsr-program/](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/) | 正念减压 |

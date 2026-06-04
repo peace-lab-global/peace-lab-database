@@ -15,15 +15,15 @@ intent_queries:
   - "莫扎特《第21号钢琴协奏曲》创作背景与心理分析的自助方法"
 trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
 
 ---

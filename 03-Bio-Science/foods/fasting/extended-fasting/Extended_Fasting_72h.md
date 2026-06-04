@@ -14,13 +14,13 @@ intent_queries:
   - "72小时断食完整指南的方法与实践"
 trigger_keywords: ["72小时断食完整指南", "aging", "anxiety", "assessment", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
     relation: "aging/anxiety/cardiovascular"

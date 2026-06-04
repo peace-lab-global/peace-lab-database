@@ -18,7 +18,7 @@ cross_refs:
     relation: "art_therapy/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "aging/emotion/exercise"

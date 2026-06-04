@@ -14,7 +14,7 @@ intent_queries:
   - "《客房》The Guest House的方法与实践"
 trigger_keywords: ["body", "buddhism", "depression", "emotion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
     relation: "anxiety/buddhism/depression"

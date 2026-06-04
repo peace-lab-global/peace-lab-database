@@ -16,13 +16,13 @@ trigger_keywords: ["addiction", "anxiety", "behavioral", "body"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/cardiovascular"
 
 ---

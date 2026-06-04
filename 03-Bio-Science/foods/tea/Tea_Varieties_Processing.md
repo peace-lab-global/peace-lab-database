@@ -16,13 +16,13 @@ trigger_keywords: ["child", "developmental", "sexuality", "stress"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
     relation: "immune/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "immune/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "immune/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "immune/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
     relation: "immune/nutrition/sexuality"
 
 ---

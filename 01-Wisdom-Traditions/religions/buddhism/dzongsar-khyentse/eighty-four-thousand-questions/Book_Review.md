@@ -14,7 +14,7 @@ intent_queries:
   - "《八万四千问》读书笔记与书评的方法与实践"
 trigger_keywords: ["behavioral", "buddhism", "death", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/death/depression"
   - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
     relation: "buddhism/death/depression"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/death/depression"
   - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
     relation: "buddhism/death/depression"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "buddhism/depression/emotion"
 
 ---

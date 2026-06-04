@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/cardiovascular/exercise"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "aging/art_therapy/death"
 
 ---

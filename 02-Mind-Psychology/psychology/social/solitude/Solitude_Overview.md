@@ -20,7 +20,7 @@ cross_refs:
     relation: "anxiety/depression/emotion"
   - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/depression/emotion"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "anxiety/depression/emotion"

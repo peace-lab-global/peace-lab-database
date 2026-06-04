@@ -16,7 +16,7 @@ trigger_keywords: ["death", "loneliness", "sexuality", "文学"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "art_therapy/death/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "art_therapy/death/emotion"
   - path: "README.md"
     relation: "art_therapy/death/emotion"

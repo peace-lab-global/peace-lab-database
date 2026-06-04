@@ -17,13 +17,13 @@ trigger_keywords: ["个人任务管理核心理论", "anxiety", "behavioral", "b
 cross_refs:
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Branding_Marketing.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Branding_Marketing.md"
     relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
     relation: "anxiety/depression/neuroscience"
 
 ---

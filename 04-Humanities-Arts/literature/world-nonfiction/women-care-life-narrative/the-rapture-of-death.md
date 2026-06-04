@@ -16,13 +16,13 @@ trigger_keywords: ["body", "cognitive", "death", "developmental"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
     relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_19_Social_Community.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
     relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/jewish-meditation/Jewish_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/jewish-meditation/Jewish_Practical_Guide.md"
     relation: "death/depression/exercise"
 
 ---

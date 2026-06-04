@@ -14,13 +14,13 @@ intent_queries:
   - "情商总览 | Emotional Intelligence Overview的方法与实践"
 trigger_keywords: ["情商总览", "anxiety", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "anxiety/communication/emotion"

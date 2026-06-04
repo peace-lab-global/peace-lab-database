@@ -17,7 +17,7 @@ trigger_keywords: ["心理剧核心技术详解", "act", "art", "assessment", "b
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/emotion"
   - path: "README.md"
     relation: "art_therapy/communication/emotion"
@@ -247,7 +247,7 @@ cross_refs:
 | 戏剧疗愈总览 | [Drama_Therapy_Overview.md](./Drama_Therapy_Overview.md) |
 | 戏剧疗愈实操 | [Drama_Therapy_Practice.md](./Drama_Therapy_Practice.md) |
 | 戏剧疗愈临床 | [Drama_Therapy_Clinical.md](./Drama_Therapy_Clinical.md) |
-| 空椅技术(完形) | [../../../02-Mind-Psychology/therapy/focus-therapy/](../../../02-Mind-Psychology/therapy/focus-therapy/) |
+| 空椅技术(完形) | [../../../02-Mind-Psychology/therapy/creative-expressive/focus-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/focus-therapy/) |
 
 ### 核心参考文献
 

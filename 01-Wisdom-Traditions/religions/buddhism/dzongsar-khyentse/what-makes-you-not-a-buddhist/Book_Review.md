@@ -14,15 +14,15 @@ intent_queries:
   - "《正见：佛陀的证悟》读书笔记与书评的方法与实践"
 trigger_keywords: ["behavioral", "brain", "buddhism", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/emotion/neuroscience"
 
 ---

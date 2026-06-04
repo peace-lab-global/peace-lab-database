@@ -14,15 +14,15 @@ intent_queries:
   - "Herbal Tea Comprehensive Guide的方法与实践"
 trigger_keywords: ["anxiety", "body", "brain", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "anxiety/emotion/immune"
 
 ---

@@ -14,11 +14,11 @@ intent_queries:
   - "肖邦《波兰舞曲》综合指南的方法与实践"
 trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
     relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/emotion"
   - path: "README.md"
     relation: "art_therapy/communication/emotion"

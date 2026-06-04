@@ -18,7 +18,7 @@ cross_refs:
     relation: "attachment/emotion/neuroscience"
   - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
     relation: "attachment/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "attachment/emotion/neuroscience"
   - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
     relation: "attachment/emotion/neuroscience"

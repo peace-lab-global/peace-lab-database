@@ -16,7 +16,7 @@ trigger_keywords: ["收纳工具评测指南", "aging", "art", "assessment", "ch
 cross_refs:
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "aging/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/emotion/exercise"
   - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
     relation: "aging/emotion/exercise"

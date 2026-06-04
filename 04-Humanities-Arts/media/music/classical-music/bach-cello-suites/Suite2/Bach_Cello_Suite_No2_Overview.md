@@ -14,9 +14,9 @@ intent_queries:
   - "巴赫《第二大提琴组曲》综合指南的方法与实践"
 trigger_keywords: ["art", "brain", "clinical", "cognitive"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/depression/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/depression/emotion"

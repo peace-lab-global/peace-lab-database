@@ -18,11 +18,11 @@ cross_refs:
     relation: "cardiovascular/emotion/neuroscience"
   - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
     relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/emotion/neuroscience"
 
 ---

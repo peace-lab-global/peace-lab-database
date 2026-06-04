@@ -14,15 +14,15 @@ intent_queries:
   - "SPA Services & Techniques的方法与实践"
 trigger_keywords: ["aging", "anxiety", "assessment", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/cardiovascular/emotion"
 
 ---

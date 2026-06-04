@@ -14,7 +14,7 @@ intent_queries:
   - "20世纪哲学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["20世纪哲学经典", "佛法视角三方书评", "anxiety", "buddhism", "death", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/buddhism/death"
   - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
     relation: "anxiety/buddhism/death"

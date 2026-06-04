@@ -16,7 +16,7 @@ trigger_keywords: ["anxiety", "body", "clinical", "habits"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_20_Creative_Arts.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_20_Creative_Arts.md"
     relation: "anxiety/art_therapy/meditation"
   - path: "README.md"
     relation: "anxiety/art_therapy/meditation"

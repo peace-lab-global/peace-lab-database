@@ -20,9 +20,9 @@ cross_refs:
     relation: "art_therapy/communication/daoism"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "art_therapy/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "communication/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/daoism"
 
 ---

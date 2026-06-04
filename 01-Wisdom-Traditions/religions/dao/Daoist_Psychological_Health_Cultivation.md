@@ -15,15 +15,15 @@ intent_queries:
   - "道家心理养生专业内容体系的自助方法"
 trigger_keywords: ["aging", "assessment", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "daoism/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/depression/emotion"
 
 ---

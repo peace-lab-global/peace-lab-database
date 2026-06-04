@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/communication"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/communication/death"
 
 ---

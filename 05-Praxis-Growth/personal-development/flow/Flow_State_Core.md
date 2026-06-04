@@ -17,9 +17,9 @@ trigger_keywords: ["心流核心理论", "act", "addiction", "adolescent", "anxi
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
     relation: "anxiety/buddhism/meditation"
   - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
     relation: "anxiety/buddhism/meditation"

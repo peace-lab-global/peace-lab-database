@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "aging/anxiety/communication"
 
 ---

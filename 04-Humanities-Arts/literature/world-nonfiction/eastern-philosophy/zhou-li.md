@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "art_therapy/buddhism"
 
 ---

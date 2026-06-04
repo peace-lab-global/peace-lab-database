@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/art_therapy/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "anxiety/art_therapy/meditation"
 
 ---

@@ -14,13 +14,13 @@ intent_queries:
   - "Nutritional & Natural Therapy的方法与实践"
 trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "aging/anxiety/cardiovascular"

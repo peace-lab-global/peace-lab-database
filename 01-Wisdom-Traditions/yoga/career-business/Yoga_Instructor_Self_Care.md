@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽导师自我关照（Yoga Instructor Self-Care）的方法与实践"
 trigger_keywords: ["anxiety", "body", "exercise", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C5-1.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C5-1.md"
     relation: "anxiety/exercise/sexuality"
 
 ---
@@ -136,4 +136,4 @@ cross_refs:
 ---
 
 *最后更新：2026年4月*
-*关联文件：[Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Yoga_Injury_Prevention](../safety/Yoga_Injury_Prevention.md) | [Meditation_Instructor_Self_Care](../../../02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md)*
+*关联文件：[Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Yoga_Injury_Prevention](../safety/Yoga_Injury_Prevention.md) | [Meditation_Instructor_Self_Care](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md)*

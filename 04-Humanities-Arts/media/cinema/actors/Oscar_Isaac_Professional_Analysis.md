@@ -14,7 +14,7 @@ intent_queries:
   - "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破的方法与实践"
 trigger_keywords: ["act", "art", "body", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/personality"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/personality/sexuality"

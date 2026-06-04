@@ -14,9 +14,9 @@ intent_queries:
   - "Eastern Philosophy: Classical Confucianism & Self-Cultivation的方法与实践"
 trigger_keywords: ["anxiety", "behavioral", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "anxiety/communication/emotion"

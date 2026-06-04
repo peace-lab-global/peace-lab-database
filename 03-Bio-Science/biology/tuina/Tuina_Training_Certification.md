@@ -18,11 +18,11 @@ cross_refs:
     relation: "communication/exercise/pain"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/exercise/pain"
 
 ---

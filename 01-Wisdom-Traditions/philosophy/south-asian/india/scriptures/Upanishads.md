@@ -14,15 +14,15 @@ intent_queries:
   - "主要奥义书（Mukhya Upanishads）的方法与实践"
 trigger_keywords: ["body", "meditation", "philosophy", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "meditation/sexuality/sleep"
 
 ---

@@ -14,11 +14,11 @@ intent_queries:
   - "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的方法与实践"
 trigger_keywords: ["behavioral", "body", "breathwork", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
     relation: "exercise/meditation/nutrition"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
     relation: "exercise/meditation/nutrition"

@@ -14,9 +14,9 @@ intent_queries:
   - "Eighty-Four Thousand Questions | 八万四千问的方法与实践"
 trigger_keywords: ["八万四千问", "buddhism", "death", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
     relation: "buddhism/death/emotion"
   - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
     relation: "buddhism/death/emotion"

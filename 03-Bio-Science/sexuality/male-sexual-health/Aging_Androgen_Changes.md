@@ -16,13 +16,13 @@ trigger_keywords: ["aging", "assessment", "cardiovascular", "clinical"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/cardiovascular/exercise"
 
 ---

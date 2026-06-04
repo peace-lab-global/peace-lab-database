@@ -16,13 +16,13 @@ trigger_keywords: ["act", "addiction", "aging", "anxiety"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/exercise"
 
 ---

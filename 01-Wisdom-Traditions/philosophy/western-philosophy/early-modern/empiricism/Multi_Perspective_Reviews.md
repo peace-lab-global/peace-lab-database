@@ -14,15 +14,15 @@ intent_queries:
   - "英国经验主义经典三方书评的方法与实践"
 trigger_keywords: ["body", "brain", "child", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_14_Health_Medical.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_14_Health_Medical.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Mingyur_Rinpoche.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "exercise/neuroscience/pain"
 
 ---

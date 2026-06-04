@@ -92,7 +92,7 @@ cross_refs:
 | **正念自我关怀 (MSC)** | 对自身痛苦的温暖接纳 | 自我批判、羞耻 | d = 0.42 | 完美主义倾向 |
 | **瑜伽正念** | 身心整合、躯体觉知 | 躯体化症状、紧张 | d = 0.40 | 躯体症状显著 |
 
-> **交叉引用**：详见 [冥想专题](../../../meditation/) 和 [MBSR课程](../../../meditation/mbsr-program/)
+> **交叉引用**：详见 [冥想专题](../../../meditation/) 和 [MBSR课程](../../../meditation/clinical/mbsr-program/)
 
 ---
 
@@ -215,14 +215,14 @@ cross_refs:
 | 相关主题 | 链接 | 关联要点 |
 |---|---|---|
 | 正念冥想 | [Meditation](../../../meditation/) | 正念干预的详细方法与证据 |
-| MBSR课程 | [MBSR](../../../meditation/mbsr-program/) | 正念减压的标准化课程 |
-| 认知行为疗法 | [CBT](../../../therapy/cognitive-behavioral-therapy/) | CBT的详细技术和应用 |
-| 接纳承诺疗法 | [ACT](../../../therapy/act-therapy/) | ACT的理论与实践 |
-| 慈悲焦点疗法 | [CFT](../../../therapy/compassion-focused-therapy/) | 自我关怀和慈悲训练 |
+| MBSR课程 | [MBSR](../../../meditation/clinical/mbsr-program/) | 正念减压的标准化课程 |
+| 认知行为疗法 | [CBT](../../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/) | CBT的详细技术和应用 |
+| 接纳承诺疗法 | [ACT](../../../therapy/cognitive-behavioral/act-therapy/) | ACT的理论与实践 |
+| 慈悲焦点疗法 | [CFT](../../../therapy/integrative/compassion-focused-therapy/) | 自我关怀和慈悲训练 |
 | 佛教四无量心 | [Four Immeasurables](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 同情疲劳的传统转化 |
 | 瑜伽 | [Yoga](../../../../01-Wisdom-Traditions/yoga/) | 瑜伽在身心健康中的应用 |
 | 太极 | [Tai Chi](../../../../01-Wisdom-Traditions/tai-chi/) | 太极拳的心理调节机制 |
-| 森林疗法 | [Forest Therapy](../../../therapy/forest-therapy/) | 自然暴露疗法 |
+| 森林疗法 | [Forest Therapy](../../../therapy/sensory-nature/forest-therapy/) | 自然暴露疗法 |
 | 倦怠恢复 | [Recovery](Occupational_Burnout_Recovery_Followup.md) | 治疗后的恢复与随访 |
 
 ---

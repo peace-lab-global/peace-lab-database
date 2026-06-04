@@ -47,7 +47,7 @@ cross_refs:
 | 2 | [焦虑症专题](psychology/clinical/anxiety/) | 识别常见焦虑问题 | 25分钟 |
 | 3 | [压力与HPA轴](psychology/stress-hpa/chronic-stress/) | 理解压力机制 | 20分钟 |
 | 4 | [睡眠科学](psychology/somatic-body/sleep/) | 建立健康睡眠认知 | 20分钟 |
-| 5 | [冥想基础](meditation/overview/Meditation_Core.md) | 体验基础冥想技术 | 持续 |
+| 5 | [冥想基础](meditation/foundations/overview/Meditation_Core.md) | 体验基础冥想技术 | 持续 |
 
 **适合**: 首次接触系统心理学的读者。
 
@@ -59,10 +59,10 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [MBCT正念认知疗法](therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 循证疗法入门 | 30分钟 |
+| 1 | [MBCT正念认知疗法](therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 循证疗法入门 | 30分钟 |
 | 2 | [HPA轴与皮质醇](psychology/stress-hpa/cortisol/) | 深入压力生理机制 | 25分钟 |
 | 3 | [自我调节技能](psychology/self-regulation/) | 发展情绪调节能力 | 30分钟 |
-| 4 | [冥想脑科学](meditation/overview/Meditation_Brain_Science_Foundations.md) | 理解冥想的科学基础 | 25分钟 |
+| 4 | [冥想脑科学](meditation/foundations/overview/Meditation_Brain_Science_Foundations.md) | 理解冥想的科学基础 | 25分钟 |
 | 5 | [压力日记分析](../02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Diary_Analysis_Skill.md) | 实践自我监测（Agent Skill） | 持续 |
 
 **适合**: 有一定心理学基础，希望深入学习和实践的读者。
@@ -157,11 +157,11 @@ cross_refs:
   - [出轨心理学专题 (Infidelity)](relationships/infidelity/)
   - [离婚心理学专题 (Divorce)](relationships/marriage/divorce-psychology/INDEX.md)
   - [亲密关系冷战专题 (Silent Treatment)](relationships/marriage/Marriage_Silent_Treatment.md)
-  - [情感银行 (Emotional Bank Account)](relationships/emotional-bank-account/)
-- [父母如何更懂孩子 (Understanding Children)](relationships/parenting/)
-- [性别关系动态分析 (Gender Relations Dynamics)](relationships/gender-dynamics/) **[NEW]**
-  - [媚男/媚女现象](relationships/gender-dynamics/Gender_Male_Pandering_Psychology.md) · [厌男/厌女情结](relationships/gender-dynamics/Gender_Misandry_Psychology.md)
-  - [跨种族性别吸引力](relationships/gender-dynamics/Gender_Cross_Racial_Attraction_Psychology.md)
+  - [情感银行 (Emotional Bank Account)](relationships/clinical-practice/emotional-bank-account/)
+- [父母如何更懂孩子 (Understanding Children)](relationships/marriage/parenting/)
+- [性别关系动态分析 (Gender Relations Dynamics)](relationships/social-context/gender-dynamics/) **[NEW]**
+  - [媚男/媚女现象](relationships/social-context/gender-dynamics/Gender_Male_Pandering_Psychology.md) · [厌男/厌女情结](relationships/social-context/gender-dynamics/Gender_Misandry_Psychology.md)
+  - [跨种族性别吸引力](relationships/social-context/gender-dynamics/Gender_Cross_Racial_Attraction_Psychology.md)
 
 ### 6. 🎭 行为与成瘾 (Behavioral & Addiction)
 - [成瘾心理学 (Addiction)](psychology/behavioral/addiction/)
@@ -200,25 +200,25 @@ cross_refs:
 - [**梦的心理学 (Dream Psychology)**](psychology/special-topics/dream-psychology/) **[NEW]** — 释梦/清醒梦/噩梦治疗(IRT)/梦工作
 
 ### 11. 🧘‍♂️ 冥想技术与意识研究 (Meditation & Consciousness)
-- [冥想基础与核心技术 (Core)](meditation/overview/Meditation_Core.md)
-- [冥想心念管理方法论 (Mind Management)](meditation/overview/Meditation_Mind_Management.md)
-- [冥想哲学认知论基础 (Philosophical Foundations)](meditation/overview/Meditation_Philosophical_Foundations.md)
-- [冥想脑科学基础 (Brain Science)](meditation/overview/Meditation_Brain_Science_Foundations.md)
-- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
-- [直接认知/直指体系 (Direct Recognition)](meditation/direct-recognition/)
-- [坛城与曼荼罗体系 (Mandala)](meditation/mandala-meditation/Mandala_Meditation_Overview.md)
-- [萨提亚家族治疗模式 (Satir Model)](meditation/satir-model/Satir_Model_Overview.md)
-- [内观与先验冥想 (Vipassana & TM)](meditation/vipassana/Vipassana_Meditation.md)
-- [冥想纪录片指南 (Documentary Guide)](meditation/documentary/Meditation_Documentary_Guide.md)
+- [冥想基础与核心技术 (Core)](meditation/foundations/overview/Meditation_Core.md)
+- [冥想心念管理方法论 (Mind Management)](meditation/foundations/overview/Meditation_Mind_Management.md)
+- [冥想哲学认知论基础 (Philosophical Foundations)](meditation/foundations/overview/Meditation_Philosophical_Foundations.md)
+- [冥想脑科学基础 (Brain Science)](meditation/foundations/overview/Meditation_Brain_Science_Foundations.md)
+- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/courses/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
+- [直接认知/直指体系 (Direct Recognition)](meditation/traditions/buddhist/direct-recognition/)
+- [坛城与曼荼罗体系 (Mandala)](meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md)
+- [萨提亚家族治疗模式 (Satir Model)](meditation/clinical/satir-model/Satir_Model_Overview.md)
+- [内观与先验冥想 (Vipassana & TM)](meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md)
+- [冥想纪录片指南 (Documentary Guide)](meditation/foundations/documentary/Meditation_Documentary_Guide.md)
 
 ### 12. 🧪 循证疗法与感官治疗 (Evidence-Based & Sensory Therapy)
-- [正念认知疗法 (MBCT)](therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md)
-- [创伤聚焦认知行为疗法 (TF-CBT)](therapy/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md)
-- [人际关系疗法 (IPT)](therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md)
-- [森田疗法 (Morita Therapy)](therapy/morita-therapy/Morita_Therapy.md)
-- [OH 卡牌临床应用 (OH Cards)](therapy/oh-cards-therapy/OH_Cards_Therapy_Overview.md)
-- [感官疗法全系 (Sensory Therapy)](therapy/sensory/)
-- [香气与艾灸治疗 (Incense & Moxibustion)](therapy/incense/)
+- [正念认知疗法 (MBCT)](therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md)
+- [创伤聚焦认知行为疗法 (TF-CBT)](therapy/cognitive-behavioral/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md)
+- [人际关系疗法 (IPT)](therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md)
+- [森田疗法 (Morita Therapy)](therapy/integrative/morita-therapy/Morita_Therapy.md)
+- [OH 卡牌临床应用 (OH Cards)](therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md)
+- [感官疗法全系 (Sensory Therapy)](therapy/sensory-nature/sensory/)
+- [香气与艾灸治疗 (Incense & Moxibustion)](therapy/sensory-nature/incense/)
 
 ---
 
@@ -227,7 +227,7 @@ cross_refs:
 <details>
 <summary>点击查看本支柱知识图谱</summary>
 
-![心智与心理学知识图谱](../Visualization/initial-autofit.png)
+![心智与心理学知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：心智与心理学支柱的知识结构，涵盖理论基础、临床心理、压力与HPA轴、发展心理学、社会心理学、冥想技术等核心领域。*
 

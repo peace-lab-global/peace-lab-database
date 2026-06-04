@@ -253,7 +253,7 @@ Landreth & Bratton发展的结构化10次亲子游戏治疗模式：
 | 依恋理论 | [依恋理论](Child_Attachment_Theory.md) |
 | 情绪调节 | [情绪调节](Child_Emotional_Regulation.md) |
 | 创伤与韧性 | [创伤韧性](Child_Trauma_Resilience.md) |
-| OH卡疗法 | [OH卡](../../../therapy/oh-cards-therapy/) |
+| OH卡疗法 | [OH卡](../../../therapy/creative-expressive/oh-cards-therapy/) |
 | 艺术疗愈 | [艺术](../../../../04-Humanities-Arts/arts/) |
 
 ---

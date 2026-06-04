@@ -14,15 +14,15 @@ intent_queries:
   - "止观禅修详表的方法与实践"
 trigger_keywords: ["止观禅修详表", "act", "addiction", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md"
     relation: "aging/anxiety/buddhism"
 
 ---
@@ -535,22 +535,22 @@ cross_refs:
 | 相关主题 | 链接 | 说明 |
 |---|---|---|
 | 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../tiantai/Buddhism_Tiantai_Zhiguan.md) | 圆融三谛、一念三千、小止观实修 |
-| 内观禅修详解 | [Vipassana_Meditation.md](../../../../02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md) | 葛印卡传承、四念住、十六观智 |
+| 内观禅修详解 | [Vipassana_Meditation.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) | 葛印卡传承、四念住、十六观智 |
 | 小止观经典原文 | [Samatha_Vipasyana.md](../sutras/Samatha_Vipasyana.md) | 智颞大师《修习止观坐禅法要》 |
 | 六妙法门经典 | [Six_Wonderful_Gates.md](../sutras/Six_Wonderful_Gates.md) | 数随止观还净六妙门 |
 | 大安般守意经 | [Anapanasmrti_Sutra.md](../sutras/Anapanasmrti_Sutra.md) | 呼吸禅法根本经典 |
 | 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../psychology/Buddhism_Mindfulness_Therapy_Integration.md) | MBSR/MBCT与佛教止观的整合 |
-| 禅修安全与不良反应 | [Meditation_Adverse_Effects.md](../../../../02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md) | 禅病、解离、灵性危机 |
-| 修行黑夜现象 | [Meditation_Dark_Night.md](../../../../02-Mind-Psychology/meditation/safety/Meditation_Dark_Night.md) | 观智进展中的困难阶段 |
+| 禅修安全与不良反应 | [Meditation_Adverse_Effects.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md) | 禅病、解离、灵性危机 |
+| 修行黑夜现象 | [Meditation_Dark_Night.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md) | 观智进展中的困难阶段 |
 | 正念行走专业实践指南 | [Mindful_Walking_Practice.md](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 经行的完整理论、神经科学、临床应用与进阶路径 |
-| **止观禅定理论基础** | [Samatha_Vipassana_Theory.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_Theory.md) | 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语 |
-| **禅定体系专项** | [Dhyana_Samadhi_System.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Dhyana_Samadhi_System.md) | 四禅八定深度解析、九次第定、六大传承对比 |
-| **历史发展与传承** | [Samatha_Vipassana_History.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_History.md) | 佛陀→部派→南传→中国→藏传→现代、大事年表、人物小传 |
-| **初学者实践手册** | [Practice_Guide_Beginner.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md) | 入出息念、身体扫描、经行入门、五盖对治、FAQ |
-| **进阶实践手册** | [Practice_Guide_Intermediate.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Intermediate.md) | 近行定→安止定、禅相处理、七觉支、密集禅修 |
-| **高阶实践手册** | [Practice_Guide_Advanced.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Advanced.md) | 四禅八定实修、十六观智、灭尽定、禅修教师培养 |
-| **神经科学研究** | [Neuroscience_Research.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md) | EEG/fMRI、结构脑变化、表观遗传学、50+论文索引 |
-| **现代心理学应用** | [Modern_Psychology_Integration.md](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Modern_Psychology_Integration.md) | CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床、案例 |
+| **止观禅定理论基础** | [Samatha_Vipassana_Theory.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_Theory.md) | 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语 |
+| **禅定体系专项** | [Dhyana_Samadhi_System.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md) | 四禅八定深度解析、九次第定、六大传承对比 |
+| **历史发展与传承** | [Samatha_Vipassana_History.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_History.md) | 佛陀→部派→南传→中国→藏传→现代、大事年表、人物小传 |
+| **初学者实践手册** | [Practice_Guide_Beginner.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md) | 入出息念、身体扫描、经行入门、五盖对治、FAQ |
+| **进阶实践手册** | [Practice_Guide_Intermediate.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Intermediate.md) | 近行定→安止定、禅相处理、七觉支、密集禅修 |
+| **高阶实践手册** | [Practice_Guide_Advanced.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Advanced.md) | 四禅八定实修、十六观智、灭尽定、禅修教师培养 |
+| **神经科学研究** | [Neuroscience_Research.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) | EEG/fMRI、结构脑变化、表观遗传学、50+论文索引 |
+| **现代心理学应用** | [Modern_Psychology_Integration.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Modern_Psychology_Integration.md) | CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床、案例 |
 
 ---
 

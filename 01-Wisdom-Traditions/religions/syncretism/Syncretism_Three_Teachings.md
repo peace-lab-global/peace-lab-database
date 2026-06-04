@@ -14,13 +14,13 @@ intent_queries:
   - "Syncretism: Three Teachings in One的方法与实践"
 trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
     relation: "aging/anxiety/buddhism"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "aging/anxiety/buddhism"

@@ -16,13 +16,13 @@ trigger_keywords: ["佛教经典疗愈导读", "anxiety", "behavioral", "body", 
 cross_refs:
   - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
     relation: "anxiety/buddhism/cardiovascular"
 
 ---

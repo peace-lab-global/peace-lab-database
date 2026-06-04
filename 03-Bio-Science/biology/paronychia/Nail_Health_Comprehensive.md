@@ -14,13 +14,13 @@ intent_queries:
   - "指甲健康综合指南 | Nail Health Comprehensive Guide的方法与实践"
 trigger_keywords: ["指甲健康综合指南", "aging", "assessment", "clinical", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "immune/nutrition/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/immune/pain"
   - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
     relation: "aging/nutrition/pain"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/immune/nutrition"
   - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
     relation: "aging/immune/nutrition"

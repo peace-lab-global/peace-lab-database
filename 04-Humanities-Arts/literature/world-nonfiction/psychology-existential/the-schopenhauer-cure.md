@@ -17,7 +17,7 @@ trigger_keywords: ["art", "death", "literature", "loneliness"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/death"
   - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
     relation: "anxiety/death/exercise"

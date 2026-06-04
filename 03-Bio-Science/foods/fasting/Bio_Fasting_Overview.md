@@ -16,9 +16,9 @@ trigger_keywords: ["aging", "assessment", "behavioral", "brain"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/cardiovascular/daoism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/emotion"
   - path: "02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md"
     relation: "aging/emotion/exercise"

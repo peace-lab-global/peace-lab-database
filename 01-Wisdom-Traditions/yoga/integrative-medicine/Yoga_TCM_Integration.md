@@ -1,0 +1,129 @@
+---
+
+title: "Yoga & TCM Integration (瑜伽与中医整合)"
+description: "Yoga & TCM Integration (瑜伽与中医整合)的详细解析与实践指南"
+category: "智慧传承 > 瑜伽"
+tags: ["depression", "inflammation", "tcm", "yoga"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Yoga & TCM Integration"
+  - "Yoga & TCM Integration的核心概念"
+  - "Yoga & TCM Integration的方法与实践"
+trigger_keywords: ["anxiety", "assessment", "body", "breathwork"]
+cross_refs:
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "anxiety/cardiovascular/depression"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
+    relation: "anxiety/cardiovascular/communication"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
+    relation: "anxiety/cardiovascular/communication"
+
+---
+# Yoga & TCM Integration (瑜伽与中医整合)
+
+## 一、体系对照总表
+
+| 维度 | 瑜伽/阿育吠陀 | 中医 | 交叉点 |
+| :--- | :--- | :--- | :--- |
+| **生命力** | Prāṇa(气) | 气(Qì) | 均指生命维持的精微能量 |
+| **能量通道** | Nāḍī(脉) | 经络(Jīngluò) | 能量流动的通道网络 |
+| **能量中心** | Cakra(脉轮) | 丹田(Dāntián) | 能量汇聚/储存的关键点 |
+| **体质分类** | Tri-Doṣa(三体质) | 体质辨识(九种体质) | 个体化的健康管理基础 |
+| **诊断方法** | 脉诊(Nāḍī Parīkṣā)+舌诊 | 脉诊+舌诊+望闻问切 | 相似的整体评估方法 |
+| **治疗原则** | 平衡Doṣa；增强Agni | 扶正祛邪；调和阴阳 | 恢复平衡而非对抗症状 |
+| **季节养生** | Ṛtucaryā(季节养生) | 四季养生 | 顺应自然节律 |
+
+---
+
+## 二、Prāṇa与气的深度对照
+
+| 分类 | 瑜伽(Pañca Prāṇa) | 中医(五脏之气) | 功能对应 |
+| :--- | :--- | :--- | :--- |
+| **上行气** | Prāṇa Vāyu(心→喉) | 宗气(胸中) | 呼吸、语言、心脏功能 |
+| **下行气** | Apāna Vāyu(脐→盆底) | 肾气(下焦) | 排泄、生殖、排毒 |
+| **均行气** | Samāna Vāyu(脐区) | 脾胃之气(中焦) | 消化、同化、转化 |
+| **上升气** | Udāna Vāyu(喉→头) | 肝气(升发) | 表达、成长、意志力 |
+| **遍行气** | Vyāna Vāyu(全身) | 卫气(体表) | 循环、运动、保护 |
+
+---
+
+## 三、经络与Nāḍī的对照
+
+| Nāḍī | 中医经络 | 路径对照 | 整合应用 |
+| :--- | :--- | :--- | :--- |
+| **Suṣumnā(中脉)** | 督脉+任脉(中线) | 均沿脊柱/中线走行 | 后弯(督脉)+前屈(任脉)交替 |
+| **Iḍā(左脉)** | 阴经系统(肝/肾/脾) | 左侧、冷却、滋养 | 左鼻呼吸=滋阴 |
+| **Piṅgalā(右脉)** | 阳经系统(胆/膀胱/胃) | 右侧、加热、活化 | 右鼻呼吸=助阳 |
+
+---
+
+## 四、脉轮与丹田/穴位对照
+
+| 脉轮 | 位置 | 对应丹田/穴位 | 中医功能 | 整合练习 |
+| :--- | :--- | :--- | :--- | :--- |
+| **Mūlādhāra** | 会阴 | 会阴穴(任脉) | 任督交汇；固本培元 | Mūla Bandha = 提肛(传统功法) |
+| **Svādhiṣṭhāna** | 骶骨 | 关元穴/下丹田 | 肾精储存；先天之本 | 骨盆运动+关元穴意守 |
+| **Maṇipūra** | 脐 | 神阙穴/中丹田 | 脾胃运化；后天之本 | Nauli = 腹部功法 |
+| **Anāhata** | 胸中心 | 膻中穴 | 气之海；情志调节 | 后弯开胸+膻中穴按压 |
+| **Viśuddha** | 喉 | 天突穴 | 肺气宣降 | Jālandhara Bandha = 收颔 |
+| **Ājñā** | 眉间 | 印堂穴/上丹田 | 神明之处 | Trāṭaka = 守窍 |
+| **Sahasrāra** | 头顶 | 百会穴 | 诸阳之会 | 头顶意守；倒立 |
+
+---
+
+## 五、体质对照：三Doṣa与九种体质
+
+| 阿育吠陀 | 中医体质 | 共同特征 | 共同调理原则 |
+| :--- | :--- | :--- | :--- |
+| **Vāta** | 气虚质+阳虚质 | 怕冷、疲劳、消化弱、焦虑 | 温补、接地、规律 |
+| **Pitta** | 湿热质+阴虚质 | 怕热、易怒、炎症、口渴 | 清凉、镇静、避免过热 |
+| **Kapha** | 痰湿质+气郁质 | 沉重、水肿、黏液、抑郁 | 运动、温通、祛湿 |
+
+---
+
+## 六、整合实践方案
+
+### 6.1 瑜伽+经络养生晨间方案
+
+| 步骤 | 练习 | 瑜伽视角 | 中医视角 | 时长 |
+| :--- | :--- | :--- | :--- | :--- |
+| 1 | 腹式呼吸(仰卧) | Dīrgha Prāṇāyāma | 调气归元 | 3分钟 |
+| 2 | 猫牛式 | 脊柱热身 | 疏通督脉+任脉 | 2分钟 |
+| 3 | 拜日式(5轮) | Sūrya Namaskāra | 疏通十二正经 | 10分钟 |
+| 4 | 站立扭转 | Parivrtta序列 | 疏肝理气 | 5分钟 |
+| 5 | 拍打经络 | — | 激活气血(手三阴/手三阳) | 3分钟 |
+| 6 | Nāḍī Śodhana | 经脉净化 | 调和阴阳 | 5分钟 |
+| 7 | 静坐(守丹田) | Dhāraṇā | 意守下丹田 | 5分钟 |
+
+### 6.2 季节对照养生
+
+| 季节 | 瑜伽调整 | 中医养生 | 共同饮食建议 |
+| :--- | :--- | :--- | :--- |
+| **春(肝/Kapha)** | 动态流瑜伽+扭转+Kapālabhāti | 疏肝解郁；升发阳气 | 减甜腻；增辛散(姜、薄荷) |
+| **夏(心/Pitta)** | 修复+冷却呼吸+月光序列 | 养心安神；清热 | 苦味蔬菜；绿豆；西瓜 |
+| **秋(肺/Vāta)** | 接地站立+温和流动 | 润肺养阴；收敛 | 梨、百合、银耳、蜂蜜 |
+| **冬(肾/Kapha)** | 核心力量+内在热量 | 补肾固精；藏而不泄 | 黑芝麻、核桃、羊肉 |
+
+---
+
+## 七、参考文献 (References)
+
+| 作者 | 标题 | 年份 | 重要性 |
+| :--- | :--- | :--- | :--- |
+| David Frawley | *Yoga and Ayurveda* | 1999 | 瑜伽-阿育吠陀整合经典 |
+| David Frawley & Subhash Ranade | *Ayurveda and Marma Therapy* | 2003 | Marma与经络的对照研究 |
+| Vasant Lad | *Textbook of Ayurveda* | 2002 | 阿育吠陀教科书 |
+| 王居易 | 《经络诊察与治疗》 | 2000 | 经络临床应用 |
+| Samuel (Geoffrey) | *The Origins of Yoga and Tantra* | 2008 | 印度与东亚身体修炼的比较研究 |
+| 印度AYUSH部 | 瑜伽与传统医学整合指南 | 2015+ | 官方整合框架 |
+
+---
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

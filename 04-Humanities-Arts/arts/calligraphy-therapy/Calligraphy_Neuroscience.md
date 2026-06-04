@@ -14,15 +14,15 @@ intent_queries:
   - "书法疗愈神经科学 | Calligraphy Neuroscience & Psychophysiology的方法与实践"
 trigger_keywords: ["书法疗愈神经科学", "act", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/emotion"
 
 ---
@@ -226,7 +226,7 @@ cross_refs:
 |------|----------|
 | 书法疗愈总览 | [Calligraphy_Therapy_Overview.md](./Calligraphy_Therapy_Overview.md) |
 | 脑神经科学 | [../../../03-Bio-Science/biology/brain/](../../../03-Bio-Science/biology/brain/) |
-| 冥想的神经科学 | [../../../02-Mind-Psychology/meditation/overview/](../../../02-Mind-Psychology/meditation/overview/) |
+| 冥想的神经科学 | [../../../02-Mind-Psychology/meditation/foundations/overview/](../../../02-Mind-Psychology/meditation/foundations/overview/) |
 | DMN与默认模式网络 | [../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md](../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md) |
 | HPA轴 | [../../../03-Bio-Science/biology/hpa-axis/](../../../03-Bio-Science/biology/hpa-axis/) |
 

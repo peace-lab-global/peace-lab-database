@@ -14,13 +14,13 @@ intent_queries:
   - "《正见：佛陀的证悟》三方书评的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "brain", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
     relation: "anxiety/buddhism/communication"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
     relation: "anxiety/buddhism/communication"

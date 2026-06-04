@@ -16,11 +16,11 @@ trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/emotion/meditation"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/therapy/incense/Incense_Integration_Modalities.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Integration_Modalities.md"
     relation: "anxiety/emotion/meditation"
   - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
     relation: "anxiety/emotion/meditation"

@@ -14,7 +14,7 @@ intent_queries:
   - "Patañjali  — 瑜伽经编纂者，八支体系奠基人的方法与实践"
 trigger_keywords: ["八支体系奠基人", "anxiety", "behavioral", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/exercise"
   - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
     relation: "anxiety/buddhism/death"
@@ -250,8 +250,8 @@ cross_refs:
 
 ## 相关链接
 
-- [瑜伽经深度解读](../../Yoga_Sutra_Philosophical_Deep_Dive.md) — 四章逐篇分析
-- [瑜伽哲学](../../Yoga_Philosophy.md) — 六条瑜伽道路与八支体系
-- [瑜伽哲学流派深度研究](../../Yoga_Philosophy_Schools_Deep.md) — 六派哲学背景
+- [瑜伽经深度解读](../../philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) — 四章逐篇分析
+- [瑜伽哲学](../../philosophy-history/Yoga_Philosophy.md) — 六条瑜伽道路与八支体系
+- [瑜伽哲学流派深度研究](../../philosophy-history/Yoga_Philosophy_Schools_Deep.md) — 六派哲学背景
 - [克里希那马查亚](../modern-pioneers/Krishnamacharya.md) — 现代最重要的《瑜伽经》传承者
-- [冥想：专注与禅定](../../Yoga_Meditation_Dharana_Dhyana.md) — 内三支详解
+- [冥想：专注与禅定](../../meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md) — 内三支详解

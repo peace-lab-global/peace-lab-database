@@ -16,7 +16,7 @@ trigger_keywords: ["act", "adolescent", "assessment", "attachment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "attachment/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
     relation: "attachment/emotion/personality"
   - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md"
     relation: "attachment/emotion/personality"

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/neuroscience"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
     relation: "anxiety/attachment/neuroscience"
 
 ---

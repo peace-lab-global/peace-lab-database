@@ -15,15 +15,15 @@ intent_queries:
   - "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析的自助方法"
 trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/emotion/exercise"
 
 ---

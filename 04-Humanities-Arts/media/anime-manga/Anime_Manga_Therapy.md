@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/communication"
   - path: "README.md"
     relation: "anxiety/art_therapy/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/attachment/depression"
 
 ---

@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/art_therapy/attachment"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "anxiety/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/attachment/death"

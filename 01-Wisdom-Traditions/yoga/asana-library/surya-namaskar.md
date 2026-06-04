@@ -14,13 +14,13 @@ intent_queries:
   - "Sūrya Namaskāra 拜日式详解的方法与实践"
 trigger_keywords: ["aging", "breathwork", "cardiovascular", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/cardiovascular/exercise"
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "aging/exercise/meditation"

@@ -14,15 +14,15 @@ intent_queries:
   - "迦羅底的方法与实践"
 trigger_keywords: ["迦羅底", "behavioral", "cbt", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md"
     relation: "emotion/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "emotion/meditation/personality"
   - path: "GLOSSARY.md"
     relation: "emotion/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "emotion/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
     relation: "emotion/meditation/personality"
 
 ---

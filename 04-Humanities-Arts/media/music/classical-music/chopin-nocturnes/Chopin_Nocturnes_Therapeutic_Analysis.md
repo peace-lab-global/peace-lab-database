@@ -17,13 +17,13 @@ trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "README.md"
     relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
 
 ---

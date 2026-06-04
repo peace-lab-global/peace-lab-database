@@ -14,11 +14,11 @@ intent_queries:
   - "飞蚊症预防与保健指南的方法与实践"
 trigger_keywords: ["飞蚊症预防与保健指南", "adolescent", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/immune"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/immune"

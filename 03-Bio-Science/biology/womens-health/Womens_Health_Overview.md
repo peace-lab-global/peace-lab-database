@@ -16,13 +16,13 @@ trigger_keywords: ["女性生理健康总览", "anxiety", "body", "cardiovascula
 cross_refs:
   - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
     relation: "anxiety/body_image/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Clinical_Case_Collection.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Clinical_Case_Collection.md"
     relation: "anxiety/depression/emotion"
 
 ---
@@ -147,7 +147,7 @@ cross_refs:
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
 | 心血管(女性) | [心血管](../cardiovascular/) |
-| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md) |
 | 关系心理 | [关系](../../../02-Mind-Psychology/relationships/) |
 
 ---

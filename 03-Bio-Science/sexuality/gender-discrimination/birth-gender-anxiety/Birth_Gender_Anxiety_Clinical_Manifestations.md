@@ -14,13 +14,13 @@ intent_queries:
   - "Birth Gender Anxiety: Clinical Manifestations and Diagnosis的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
     relation: "anxiety/communication/depression"

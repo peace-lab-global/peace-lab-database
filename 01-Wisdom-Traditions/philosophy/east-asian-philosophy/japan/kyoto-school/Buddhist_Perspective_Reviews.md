@@ -14,15 +14,15 @@ intent_queries:
   - "京都学派 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["京都学派", "佛法视角三方书评", "behavioral", "buddhism", "philosophy", "religion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/communication/meditation"
 
 ---

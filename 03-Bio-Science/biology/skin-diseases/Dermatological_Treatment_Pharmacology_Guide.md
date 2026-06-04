@@ -14,15 +14,15 @@ intent_queries:
   - "Dermatological Treatment Pharmacology Guide的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "aging/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md"
     relation: "aging/emotion/immune"
 
 ---

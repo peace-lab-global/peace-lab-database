@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/buddhism"
   - path: "README.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/attachment/buddhism"
 
 ---

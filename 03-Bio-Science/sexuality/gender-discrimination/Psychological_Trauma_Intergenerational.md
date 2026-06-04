@@ -14,7 +14,7 @@ intent_queries:
   - "Psychological Trauma and Intergenerational Transmission of Gender Discrimination的方法与实践"
 trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/attachment/cardiovascular"
   - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Treatment.md"
     relation: "anxiety/attachment/cardiovascular"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/cardiovascular"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/attachment/cardiovascular"
 
 ---

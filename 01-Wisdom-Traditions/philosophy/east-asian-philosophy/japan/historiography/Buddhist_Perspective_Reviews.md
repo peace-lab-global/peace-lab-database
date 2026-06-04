@@ -14,15 +14,15 @@ intent_queries:
   - "日本史学哲学 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["日本史学哲学", "佛法视角三方书评", "body", "buddhism", "exercise", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/hindu-meditation/Hindu_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/Hindu_Meditation_Overview.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/industry-leaders/Dan_Harris.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Dan_Harris.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/industry-leaders/Michael_Tamez.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Michael_Tamez.md"
     relation: "buddhism/exercise/meditation"
 
 ---

@@ -14,15 +14,15 @@ intent_queries:
   - "分析哲学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["分析哲学经典", "佛法视角三方书评", "act", "anxiety", "body", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/hindu-meditation/Hindu_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/Hindu_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
 
 ---

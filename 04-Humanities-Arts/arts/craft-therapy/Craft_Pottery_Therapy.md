@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/communication/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/depression/emotion"
 
 ---

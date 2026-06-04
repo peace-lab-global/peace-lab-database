@@ -14,15 +14,15 @@ intent_queries:
   - "韩非子的方法与实践"
 trigger_keywords: ["韩非子", "decision-making", "developmental", "healing", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
     relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
     relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "depression/sexuality"
 
 ---

@@ -14,9 +14,9 @@ intent_queries:
   - "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/death"

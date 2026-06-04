@@ -18,7 +18,7 @@ cross_refs:
     relation: "art_therapy/neuroscience/therapy"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/neuroscience/therapy"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
     relation: "art_therapy/neuroscience/therapy"
@@ -88,7 +88,7 @@ cross_refs:
 ### 4. 专项媒体治疗
 - [电视剧疗法](../tv/television-therapy/Television_Therapy.md) - 长期叙事陪伴机制、追剧心理学、流媒体时代治疗应用
 - [动漫疗法](../anime-manga/Anime_Manga_Therapy.md) - 二次元心理学、治愈系动漫、Otaku身份认同、同人创作治疗
-- [游戏疗法](../../../02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md) - 游戏心理机制、治疗性游戏、VR暴露疗法、游戏化治疗、成瘾预防
+- [游戏疗法](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md) - 游戏心理机制、治疗性游戏、VR暴露疗法、游戏化治疗、成瘾预防
 
 ---
 
@@ -132,7 +132,7 @@ cinema/
 
 **内容创作者**：
 - 参考 [电视剧疗法](../tv/television-therapy/Television_Therapy.md) 和 [动漫疗法](../anime-manga/Anime_Manga_Therapy.md) 了解受众心理
-- 查阅 [游戏疗法](../../../02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md) 学习互动叙事设计
+- 查阅 [游戏疗法](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md) 学习互动叙事设计
 
 ---
 
@@ -161,8 +161,8 @@ cinema/
 ### 项目内链接
 - [心理学治疗技术](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md) - 心理治疗基础理论
 - [创伤与危机干预](../../../02-Mind-Psychology/psychology/clinical/trauma/) - 创伤干预与恢复
-- [认知行为疗法](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) - CBT理论与实践
-- [创伤聚焦 CBT](../../../02-Mind-Psychology/therapy/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md) - 创伤专项循证路径
+- [认知行为疗法](../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) - CBT理论与实践
+- [创伤聚焦 CBT](../../../02-Mind-Psychology/therapy/cognitive-behavioral/tf-cbt-therapy/TF_CBT_Trauma_Focused_Cognitive_Behavioral_Therapy_Overview.md) - 创伤专项循证路径
 
 ### 外部学术资源
 - 相关理论经典著作清单

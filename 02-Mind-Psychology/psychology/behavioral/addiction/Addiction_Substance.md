@@ -20,7 +20,7 @@ cross_refs:
     relation: "anxiety/cardiovascular/neuroscience"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
     relation: "anxiety/cardiovascular/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md"
     relation: "anxiety/cardiovascular/neuroscience"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
     relation: "anxiety/cardiovascular/neuroscience"

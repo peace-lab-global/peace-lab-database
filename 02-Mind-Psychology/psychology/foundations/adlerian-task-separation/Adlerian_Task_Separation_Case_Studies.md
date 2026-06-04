@@ -301,12 +301,12 @@ cross_refs:
 
 - **理论基础** → [Adlerian_Task_Separation_Overview](Adlerian_Task_Separation_Overview.md)
 - **临床应用与治疗技术** → [Adlerian_Task_Separation_Clinical_Application](Adlerian_Task_Separation_Clinical_Application.md)
-- **冥想引导资源** → [冥想引导脚本](../../../meditation/guided-scripts/)
-- **正向教养** → [Parenting_Understanding_Child_Overview](../../../relationships/parenting/Parenting_Understanding_Child_Overview.md)
+- **冥想引导资源** → [冥想引导脚本](../../../meditation/courses/guided-scripts/)
+- **正向教养** → [Parenting_Understanding_Child_Overview](../../../relationships/marriage/parenting/Parenting_Understanding_Child_Overview.md)
 - **存在性空虚** → [Existential Vacuum](../../special-topics/existential-vacuum/)
 - **自我关怀** → [Self-Compassion](../../self-regulation/self-compassion/)
 - **哀伤与损失** → [Grief](../../special-topics/grief/)
-- **Satir模型** → [Satir Model](../../../meditation/satir-model/)
+- **Satir模型** → [Satir Model](../../../meditation/clinical/satir-model/)
 
 ---
 *返回上级 [Foundations](../INDEX.md) | 返回 [Psychology](../../INDEX.md) | 返回根目录 [README.md](./)*

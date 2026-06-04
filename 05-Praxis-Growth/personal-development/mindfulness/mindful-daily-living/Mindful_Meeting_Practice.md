@@ -14,11 +14,11 @@ intent_queries:
   - "正念开会专业实践指南的方法与实践"
 trigger_keywords: ["正念开会专业实践指南", "act", "anxiety", "assessment", "attachment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
     relation: "anxiety/attachment/communication"
@@ -554,8 +554,8 @@ cross_refs:
 - [正念日常生活](Mindful_Daily_Living.md)
 - [正念饮水专业实践指南](Mindful_Drinking_Practice.md)
 - [正念行走专业实践指南](Mindful_Walking_Practice.md)
-- [专注力冥想疗愈](/02-Mind-Psychology/therapy/focus-therapy/Focus_Meditation_Therapy.md)
-- [冥想核心](/02-Mind-Psychology/meditation/overview/Meditation_Core.md)
+- [专注力冥想疗愈](/02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
+- [冥想核心](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
 
 ---
 

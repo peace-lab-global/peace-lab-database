@@ -14,13 +14,13 @@ intent_queries:
   - "社交资本总览 | Social Capital Overview的方法与实践"
 trigger_keywords: ["社交资本总览", "act", "behavioral", "cognitive", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/death/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "communication/death/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "communication/death/emotion"
   - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
     relation: "communication/death/emotion"

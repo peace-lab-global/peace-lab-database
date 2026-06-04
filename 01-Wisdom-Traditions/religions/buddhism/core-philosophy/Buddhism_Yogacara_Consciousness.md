@@ -14,15 +14,15 @@ intent_queries:
   - "唯识学与八识心王的方法与实践"
 trigger_keywords: ["唯识学与八识心王", "act", "addiction", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
     relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Chanting_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Chanting_Overview.md"
     relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "anxiety/buddhism/sexuality"
 
 ---

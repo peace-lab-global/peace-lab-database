@@ -16,7 +16,7 @@ trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/attachment/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "anxiety/attachment/emotion"

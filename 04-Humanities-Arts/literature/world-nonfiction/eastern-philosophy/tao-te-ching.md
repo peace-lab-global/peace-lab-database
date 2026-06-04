@@ -14,7 +14,7 @@ intent_queries:
   - "《道德经》Tao Te Ching的方法与实践"
 trigger_keywords: ["daoism", "death", "intervention", "ocd"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "anxiety/art_therapy/daoism"
   - path: "README.md"
     relation: "anxiety/art_therapy/daoism"

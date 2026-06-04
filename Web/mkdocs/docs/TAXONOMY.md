@@ -1,1 +1,1 @@
-../../../TAXONOMY.md
+../../../docs/TAXONOMY.md

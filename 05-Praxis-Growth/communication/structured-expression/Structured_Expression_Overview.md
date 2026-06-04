@@ -14,13 +14,13 @@ intent_queries:
   - "结构化表达核心方法论的方法与实践"
 trigger_keywords: ["结构化表达核心方法论", "act", "aging", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "aging/communication/neuroscience"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/communication/neuroscience"
   - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
     relation: "aging/communication/neuroscience"
-  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
     relation: "aging/communication/neuroscience"
   - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
     relation: "aging/communication/neuroscience"

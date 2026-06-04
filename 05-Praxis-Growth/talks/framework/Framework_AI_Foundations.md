@@ -18,11 +18,11 @@ cross_refs:
     relation: "exercise/neuroscience/productivity"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
     relation: "exercise/neuroscience/productivity"
 
 ---

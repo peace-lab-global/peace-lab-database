@@ -16,9 +16,9 @@ trigger_keywords: ["哲学经典书评总论", "buddhism", "death", "habits", "p
 cross_refs:
   - path: "README.md"
     relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "daoism/death/emotion"
   - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
     relation: "buddhism/death/emotion"

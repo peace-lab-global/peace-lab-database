@@ -1,0 +1,164 @@
+---
+
+title: "自我监测工具"
+description: "自我监测工具的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
+tags: ["anxiety", "brain", "social", "心理学", "行为心理"]
+last_updated: "2026-05"
+difficulty: "beginner"
+reading_level: "beginner"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是自我监测工具"
+  - "自我监测工具的核心概念"
+  - "自我监测工具的方法与实践"
+trigger_keywords: ["自我监测工具", "anxiety", "brain", "cognitive", "emotion"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "anxiety/emotion/neuroscience"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "anxiety/emotion/neuroscience"
+
+---
+# 自我监测工具
+
+## 目录
+1. [拖延日志](#拖延日志)
+2. [触发因素分析](#触发因素分析)
+3. [进度追踪](#进度追踪)
+4. [周度反思模板](#周度反思模板)
+
+---
+
+## 拖延日志
+
+### 每日拖延日志
+
+| 日期 | 任务 | 计划开始时间 | 实际开始时间 | 拖延时长 | 触发因素 | 最终完成 | 备注 |
+|------|------|-------------|-------------|----------|----------|----------|------|
+| | | | | | | | |
+
+**填写说明**：
+- 任务：需要完成的工作
+- 计划开始时间：你打算什么时候开始
+- 实际开始时间：实际什么时候开始
+- 拖延时长：晚了多久开始
+- 触发因素：什么让你拖延了
+- 最终完成：是否最终完成
+
+### 拖延事件详细记录
+
+| 项目 | 内容 |
+|------|------|
+| 日期/时间 | |
+| 任务 | |
+| 计划 | 什么时候开始？ |
+| 实际 | 实际上做了什么？ |
+| 触发 | 什么触发了拖延？ |
+| 借口 | 脑子里在想什么？ |
+| 后果 | 拖延带来的后果 |
+| 情绪 | 拖延时的感受 |
+| 教训 | 下次如何改进 |
+
+---
+
+## 触发因素分析
+
+### 常见触发因素
+
+| 类型 | 示例 |
+|------|------|
+| 情绪因素 | 焦虑、无聊、沮丧、疲惫 |
+| 认知因素 | "不完美就不开始" |
+| 环境因素 | 手机、社交媒体、噪音 |
+| 任务因素 | 太难、无聊、不明确 |
+| 社会因素 | 害怕评价、完美主义 |
+
+### 个人触发因素表
+
+| 触发因素 | 出现频率 | 严重程度 | 应对策略 |
+|----------|----------|----------|----------|
+| | | | |
+
+### 拖延模式识别
+
+回答以下问题：
+
+1. 什么时候最容易拖延？
+   - 什么时间？
+   - 什么情境？
+   - 什么情绪状态下？
+
+2. 什么类型的任务最容易拖延？
+   - 大任务？
+   - 不确定的任务？
+   - 需要反馈的任务？
+
+3. 拖延的常见借口是什么？
+   - ________
+   - ________
+   - ________
+
+---
+
+## 进度追踪
+
+### 每周进度追踪
+
+| 周次 | 计划任务数 | 完成任务数 | 完成率 | 主要拖延领域 |
+|------|------------|-----------|--------|-------------|
+| 第1周 | | | | |
+| 第2周 | | | | |
+| 第3周 | | | | |
+| 第4周 | | | | |
+
+### 成功指标
+
+| 指标 | 目标 | 实际 | 进步 |
+|------|------|------|------|
+| 平均拖延时间减少 | - | - | ? |
+| 任务完成率 | - | - | ? |
+| 启动时间准时率 | - | - | ? |
+| 番茄钟完成数 | - | - | ? |
+
+---
+
+## 周度反思模板
+
+### 周反思问卷
+
+**1. 本周回顾**
+- 本周拖延了多少次？
+- 最常见的拖延触发是什么？
+- 有哪些任务是成功按时完成的？
+
+**2. 成功经验**
+- 什么策略有效？
+- 什么情况下你没有拖延？
+- 你是怎么做到的？
+
+**3. 挑战**
+- 最难克服的拖延是什么？
+- 哪些策略效果不佳？
+- 遇到了什么障碍？
+
+**4. 下周计划**
+- 重点关注的任务？
+- 计划使用什么策略？
+- 如何改进？
+
+**5. 自我肯定**
+- 本周做得好的三件事：
+  1. ________
+  2. ________
+  3. ________
+
+---
+
+*自我监测是改变的基础。通过记录和分析拖延模式，你可以更好地理解自己的拖延原因，并针对性地使用策略。*

@@ -233,7 +233,7 @@ cross_refs:
 | 认知重构 | Cognitive Restructuring | 识别、挑战并替换认知扭曲的技术 | "纠正错误想法" - 发现并改正不合理的想法 | "别人都在嘲笑我" → "其实大部分人都很忙，没注意我" | CBT核心技能 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 行为激活 | Behavioral Activation | 通过增加愉快活动打破抑郁的回避循环 | "行动起来法" - 通过做喜欢的事来改善心情 | 整天躺在床上 → 出去散步、见朋友、做手工 | 抑郁治疗 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 暴露疗法 | Exposure Therapy | 系统性接触恐惧刺激以实现习惯化 | "逐步面对法" - 渐进式地接触害怕的事物 | 害怕坐电梯 → 先看电梯图片，再站在电梯口，最后乘坐 | 焦虑障碍治疗 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
-| 辩证行为疗法 | Dialectical Behavior Therapy (DBT) | 平衡接纳与改变的综合疗法 | "接纳与改变平衡法" - 既要接受现状也要努力改变 | 情绪激动时先深呼吸接纳情绪，再寻找解决方法 | 边缘性人格障碍 | [DBT](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 辩证行为疗法 | Dialectical Behavior Therapy (DBT) | 平衡接纳与改变的综合疗法 | "接纳与改变平衡法" - 既要接受现状也要努力改变 | 情绪激动时先深呼吸接纳情绪，再寻找解决方法 | 边缘性人格障碍 | [DBT](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
 | 接受承诺疗法 | Acceptance and Commitment Therapy (ACT) | 基于关系框架理论的心理疗法 | "接受现实法" - 接受无法改变的事情，专注能控制的部分 | 面对慢性疾病 → 接受病情，专注提高生活质量 | 第三代CBT | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 精神分析疗法 | Psychoanalysis | 探索潜意识冲突的深度心理疗法 | "深度挖掘法" - 探索内心深处的想法和感受 | 通过自由联想发现童年经历对现在的影响 | 深度心理治疗 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 人本主义疗法 | Humanistic Therapy | 强调无条件积极关注与共情的疗法 | "被理解和支持法" - 在温暖的环境中探索自己 | 感受到治疗师完全的理解和接纳，自由表达内心 | 个人成长 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
@@ -314,7 +314,7 @@ cross_refs:
 | 公案 | Koan | 禅宗用来启发觉悟的 paradoxical 问题 | 禅修教学 | [公案机锋](../../../../01-Wisdom-Traditions/religions/zen/Zen_Koan_Anthropology.md) |
 | 无心 | Mushin | 无念、无心的状态 | 心理治疗 | [禅宗心理学](../../../../01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md) |
 | 正念 | Mindfulness | 有意识地、非评判地觉察当下 | 冥想、心理治疗 | [正念核心](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) |
-| 慈悲 | Compassion | 对他人痛苦的同情和帮助愿望 | 慈悲聚焦疗法 | [慈悲聚焦疗法](../../../therapy/compassion-focused-therapy/Compassion_Focused_Therapy.md) |
+| 慈悲 | Compassion | 对他人痛苦的同情和帮助愿望 | 慈悲聚焦疗法 | [慈悲聚焦疗法](../../../therapy/integrative/compassion-focused-therapy/Compassion_Focused_Therapy.md) |
 
 ---
 
@@ -329,7 +329,7 @@ cross_refs:
 | 内感受暴露 | Interoceptive Exposure | 诱发身体感觉以脱敏于惊恐线索 | "身体感觉面对法" - 安全地体验恐慌时的身体感觉 | 故意加快心跳来减少对心跳加速的恐惧 | 惊恐障碍治疗 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 虚拟现实暴露 | Virtual Reality Exposure Therapy | 使用VR技术创建可控的暴露情境 | "虚拟现实治疗" - 用虚拟技术进行安全的暴露练习 | 用VR模拟高空环境治疗恐高症 | 现代暴露治疗 | [创伤治疗](../../clinical/trauma/PTSD_Specialized_Treatment.md) |
 | 家庭系统排列 | Family Constellation | 通过代表排列揭示家庭系统动力的疗法 | "家庭关系排列法" - 通过角色扮演揭示家庭问题 | 用代表来展现家庭成员间的关系模式 | 家庭治疗 | [家排](../../special-topics/family-constellation/Family_Constellation_Overview.md) |
-| 萨提亚模式 | Satir Model | 关注沟通和家庭关系的心理治疗方法 | "沟通改善法" - 改善家庭沟通方式 | 学习更好的表达和倾听技巧 | 家庭治疗 | [萨提亚](../../../meditation/satir-model/Satir_Model_Overview.md) |
+| 萨提亚模式 | Satir Model | 关注沟通和家庭关系的心理治疗方法 | "沟通改善法" - 改善家庭沟通方式 | 学习更好的表达和倾听技巧 | 家庭治疗 | [萨提亚](../../../meditation/clinical/satir-model/Satir_Model_Overview.md) |
 | 躯体体验疗法 | Somatic Experiencing | 通过身体感知处理创伤的疗法 | "身体释放疗法" - 通过身体感受释放创伤压力 | 注意身体紧张并让其自然释放 | 创伤治疗 | [躯体体验](../../somatic-body/somatic/Somatic_Experiencing.md) |
 | 动机访谈 | Motivational Interviewing | 引导患者自我探索改变动机的技术 | "动机激发法" - 帮助找到改变的内在动力 | 引导吸烟者发现自己戒烟的理由 | 行为改变 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
 | 图式疗法 | Schema Therapy | 针对早期适应不良图式的整合疗法 | "深层模式疗法" - 处理根深蒂固的不健康思维模式 | 识别并改变童年形成的负面信念 | 人格障碍 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
@@ -345,10 +345,10 @@ cross_refs:
 |---------|-------------|------|----------|----------|
 | 正念减压 | Mindfulness-Based Stress Reduction (MBSR) | Kabat-Zinn创立的8周正念训练程序 | 压力管理 | [MBSR](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
 | 正念认知疗法 | Mindfulness-Based Cognitive Therapy (MBCT) | 整合MBSR与CBT的抑郁预防疗法 | 抑郁复发预防 | [CBT技术详表](../overview/Psychology_Therapy_Techniques.md) |
-| 内观 | Vipassana | 通过观察身心现象获得洞察的冥想方法 | 创伤治疗、自我觉察 | [内观禅修](../../../meditation/vipassana/Vipassana_Meditation.md) |
+| 内观 | Vipassana | 通过观察身心现象获得洞察的冥想方法 | 创伤治疗、自我觉察 | [内观禅修](../../../meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) |
 | 慈心禅 | Loving-Kindness Meditation | 培养慈悲心的冥想练习 | 人际关系、自我慈悲 | [四无量心](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) |
 | 身体扫描 | Body Scan | 系统性觉察身体各个部位的冥想技术 | 躯体治疗、放松 | [MBSR](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
-| 呼吸觉察 | Breath Awareness | 专注观察呼吸的冥想基础技术 | 入门练习、焦虑管理 | [冥想技术](../../../meditation/overview/Meditation_Core.md) |
+| 呼吸觉察 | Breath Awareness | 专注观察呼吸的冥想基础技术 | 入门练习、焦虑管理 | [冥想技术](../../../meditation/foundations/overview/Meditation_Core.md) |
 
 ---
 
@@ -357,7 +357,7 @@ cross_refs:
 ### 神经生物学机制
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|----------|----------|
-| 神经可塑性 | Neuroplasticity | 大脑根据经验重组神经连接的能力 | "大脑可塑性" - 大脑能够重新学习和适应 | 学习新技能、从脑损伤中恢复 | 学习、康复 | [冥想神经科学](../../../meditation/overview/Meditation_Neuroscience_Mechanisms.md) |
+| 神经可塑性 | Neuroplasticity | 大脑根据经验重组神经连接的能力 | "大脑可塑性" - 大脑能够重新学习和适应 | 学习新技能、从脑损伤中恢复 | 学习、康复 | [冥想神经科学](../../../meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) |
 | 默认模式网络 | Default Mode Network (DMN) | 大脑在静息状态时活跃的网络 | "大脑默认状态" - 不思考时大脑的活动模式 | 发呆时脑子里想的事情 | 自我参照思维、冥想研究 | [DMN研究](../../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md) |
 | 任务正网络 | Task-Positive Network (TPN) | 与DMN反相关的脑网络,在外部任务执行时激活 | "专注工作网络" - 专注做事时活跃的大脑网络 | 工作时大脑高度集中 | 认知任务执行 | [DMN研究](../../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md) |
 | HPA轴 | HPA Axis | 下丘脑-垂体-肾上腺应激反应系统 | "压力反应系统" - 身体应对压力的机制 | 面临危险时身体的应急反应 | 压力、创伤 | [HPA轴专项](../../../../03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md) |
@@ -397,19 +397,19 @@ cross_refs:
 | 中文术语 | 英文标准术语 | 定义 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|
 | 音乐疗法 | Music Therapy | 利用音乐促进身心健康的专业治疗方法 | 心理治疗、康复 | [音乐疗愈](../../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md) |
-| 声音医学 | Sound Medicine | 利用声音频率和振动进行治疗的实践 | 身心疗愈 | [声音治疗](../../../therapy/sensory/Sensory_Sound_Medicine.md) |
-| 芳香疗法 | Aromatherapy | 利用植物精油的香气进行治疗的方法 | 情绪调节、放松 | [芳香治疗](../../../therapy/incense/Incense_Overview.md) |
-| 色彩疗法 | Color Therapy | 利用颜色对心理和生理产生影响的疗法 | 情绪管理、环境设计 | [感官治疗](../../../therapy/sensory/Sensory_Zentangle_Art.md) |
+| 声音医学 | Sound Medicine | 利用声音频率和振动进行治疗的实践 | 身心疗愈 | [声音治疗](../../../therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md) |
+| 芳香疗法 | Aromatherapy | 利用植物精油的香气进行治疗的方法 | 情绪调节、放松 | [芳香治疗](../../../therapy/sensory-nature/incense/Incense_Overview.md) |
+| 色彩疗法 | Color Therapy | 利用颜色对心理和生理产生影响的疗法 | 情绪管理、环境设计 | [感官治疗](../../../therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md) |
 | 舞蹈运动治疗 | Dance/Movement Therapy | 通过身体动作促进情感和心理健康的疗法 | 创伤治疗、自我表达 | [创伤治疗](../../clinical/trauma/PTSD_Specialized_Treatment.md) |
 | 艺术表达治疗 | Art Expression Therapy | 通过绘画等视觉艺术处理心理创伤 | 创伤治疗、情绪释放 | [创伤治疗](../../clinical/trauma/PTSD_Specialized_Treatment.md) |
-| 冥想曼陀罗 | Meditative Mandala | 结合曼陀罗绘制的冥想实践 | 注意力训练、创造力 | [曼陀罗冥想](../../../meditation/mandala-meditation/Mandala_Meditation_Overview.md) |
+| 冥想曼陀罗 | Meditative Mandala | 结合曼陀罗绘制的冥想实践 | 注意力训练、创造力 | [曼陀罗冥想](../../../meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md) |
 
 ### 感官整合疗法
 | 中文术语 | 英文标准术语 | 定义 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|
-| 感官整合 | Sensory Integration | 整合多种感官输入促进身心和谐 | 发展障碍治疗 | [感官治疗](../../../therapy/sensory/Sensory_Clinical_Dialogue.md) |
-| 多感官环境 | Multi-Sensory Environment | 同时刺激多种感官的治疗环境 | 自闭症、感官处理障碍 | [感官治疗](../../../therapy/sensory/Sensory_Clinical_Dialogue.md) |
-| 感官饮食 | Sensory Diet | 个性化的感官刺激计划 | 感官调节 | [感官治疗](../../../therapy/sensory/Sensory_Clinical_Dialogue.md) |
+| 感官整合 | Sensory Integration | 整合多种感官输入促进身心和谐 | 发展障碍治疗 | [感官治疗](../../../therapy/sensory-nature/sensory/Sensory_Clinical_Dialogue.md) |
+| 多感官环境 | Multi-Sensory Environment | 同时刺激多种感官的治疗环境 | 自闭症、感官处理障碍 | [感官治疗](../../../therapy/sensory-nature/sensory/Sensory_Clinical_Dialogue.md) |
+| 感官饮食 | Sensory Diet | 个性化的感官刺激计划 | 感官调节 | [感官治疗](../../../therapy/sensory-nature/sensory/Sensory_Clinical_Dialogue.md) |
 
 ---
 
@@ -527,15 +527,15 @@ cross_refs:
 ### 辩证行为疗法术语
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|----------|----------|
-| 辩证行为疗法 | Dialectical Behavior Therapy (DBT) | Linehan开发的整合辩证哲学与行为治疗的心理疗法 | 平衡接纳与改变的疗法 | 既理解自己的困难又积极寻求改善 | 边缘性人格障碍治疗 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 情绪失调 | Emotion Dysregulation | 情绪强度高、变化快、恢复慢，缺乏有效调节策略 | 情绪管理困难 | 容易因为小事大发脾气或极度沮丧 | DBT核心治疗目标 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 生物社会理论 | Biosocial Theory | 情绪失调源于生物易感性与无效环境的交互作用 | 天生敏感遇上不当环境 | 天生情绪敏感的孩子在不理解的家庭中长大 | DBT病因学理论 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 无效环境 | Invalidating Environment | 系统性否定、忽视或惩罚个体情绪体验的环境 | 不认可情绪的环境 | 家人常说你想太多了、没什么大不了 | 导致情绪问题的环境因素 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 智慧心 | Wise Mind | 整合理性心和情绪心的平衡状态 | 理智与情感的和谐 | 冷静分析又考虑感受的决策状态 | DBT追求的理想心理状态 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 痛苦承受 | Distress Tolerance | 在危机中不使情况恶化的能力，接纳无法改变的现实 | 忍受痛苦的能力 | 遇到挫折时不自伤或冲动行为 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 情绪调节 | Emotion Regulation | 理解、管理和改变情绪反应的能力 | 管理情绪的技巧 | 学会识别和调节愤怒、焦虑等情绪 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 人际效能 | Interpersonal Effectiveness | 在维护关系和自尊的同时实现人际目标的能力 | 有效处理人际关系 | 既能说不又不让关系破裂 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
-| 行为链分析 | Chain Analysis | 详细分解问题行为前后的触发因素、想法、情绪、行为链条 | 分析问题行为的过程 | 详细记录自伤行为前发生了什么 | DBT核心分析工具 | [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 辩证行为疗法 | Dialectical Behavior Therapy (DBT) | Linehan开发的整合辩证哲学与行为治疗的心理疗法 | 平衡接纳与改变的疗法 | 既理解自己的困难又积极寻求改善 | 边缘性人格障碍治疗 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 情绪失调 | Emotion Dysregulation | 情绪强度高、变化快、恢复慢，缺乏有效调节策略 | 情绪管理困难 | 容易因为小事大发脾气或极度沮丧 | DBT核心治疗目标 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 生物社会理论 | Biosocial Theory | 情绪失调源于生物易感性与无效环境的交互作用 | 天生敏感遇上不当环境 | 天生情绪敏感的孩子在不理解的家庭中长大 | DBT病因学理论 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 无效环境 | Invalidating Environment | 系统性否定、忽视或惩罚个体情绪体验的环境 | 不认可情绪的环境 | 家人常说你想太多了、没什么大不了 | 导致情绪问题的环境因素 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 智慧心 | Wise Mind | 整合理性心和情绪心的平衡状态 | 理智与情感的和谐 | 冷静分析又考虑感受的决策状态 | DBT追求的理想心理状态 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 痛苦承受 | Distress Tolerance | 在危机中不使情况恶化的能力，接纳无法改变的现实 | 忍受痛苦的能力 | 遇到挫折时不自伤或冲动行为 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 情绪调节 | Emotion Regulation | 理解、管理和改变情绪反应的能力 | 管理情绪的技巧 | 学会识别和调节愤怒、焦虑等情绪 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 人际效能 | Interpersonal Effectiveness | 在维护关系和自尊的同时实现人际目标的能力 | 有效处理人际关系 | 既能说不又不让关系破裂 | DBT四大技能模块之一 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
+| 行为链分析 | Chain Analysis | 详细分解问题行为前后的触发因素、想法、情绪、行为链条 | 分析问题行为的过程 | 详细记录自伤行为前发生了什么 | DBT核心分析工具 | [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md) |
 
 ### 生物医学术语
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |

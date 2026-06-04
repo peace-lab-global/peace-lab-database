@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/emotion"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/attachment/emotion"
 
 ---

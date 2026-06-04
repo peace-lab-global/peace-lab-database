@@ -16,13 +16,13 @@ trigger_keywords: ["男性健康", "cardiovascular", "depression", "emotion", "e
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "cardiovascular/depression/emotion"
 
 ---

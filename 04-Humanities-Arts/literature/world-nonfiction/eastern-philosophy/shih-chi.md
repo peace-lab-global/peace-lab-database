@@ -22,7 +22,7 @@ cross_refs:
     relation: "death/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
     relation: "death/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "art_therapy/death/emotion"
 
 ---

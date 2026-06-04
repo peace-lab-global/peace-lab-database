@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/art_therapy/death"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
     relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
     relation: "anxiety/attachment/cardiovascular"
 
 ---

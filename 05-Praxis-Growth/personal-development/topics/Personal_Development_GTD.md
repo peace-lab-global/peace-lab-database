@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/communication/neuroscience"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_09_Workplace.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_09_Workplace.md"
     relation: "anxiety/communication/neuroscience"
 
 ---

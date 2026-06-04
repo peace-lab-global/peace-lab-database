@@ -14,9 +14,9 @@ intent_queries:
   - "孙子的方法与实践"
 trigger_keywords: ["孙子", "art", "crisis", "decision-making", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
     relation: "communication/productivity/sexuality"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
     relation: "communication/productivity/sexuality"

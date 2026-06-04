@@ -16,7 +16,7 @@ trigger_keywords: ["实用哲学经典三方书评", "anxiety", "art", "behavior
 cross_refs:
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/death/emotion"
   - path: "03-Bio-Science/INDEX.md"
     relation: "anxiety/death/emotion"

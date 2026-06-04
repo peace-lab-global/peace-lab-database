@@ -14,7 +14,7 @@ intent_queries:
   - "《明亮的时刻》The Bright Hour的方法与实践"
 trigger_keywords: ["anxiety", "breathwork", "death", "phobia"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
     relation: "anxiety/art_therapy/death"

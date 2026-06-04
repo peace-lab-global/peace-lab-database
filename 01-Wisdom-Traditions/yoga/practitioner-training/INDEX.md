@@ -16,13 +16,13 @@ trigger_keywords: ["瑜伽教师培训体系", "act", "assessment", "development
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/jewish-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/jewish-meditation/INDEX.md"
     relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
     relation: "exercise/meditation/therapy"
 
 ---
@@ -45,6 +45,6 @@ cross_refs:
 
 ## 相关链接
 
-- [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md)
-- [冥想执行师培训体系](../../../02-Mind-Psychology/meditation/practitioner-training/Practitioner_Training_Overview.md)
+- [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md)
+- [冥想执行师培训体系](../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Training_Overview.md)
 - [瑜伽大师人物档案](../masters/INDEX.md)

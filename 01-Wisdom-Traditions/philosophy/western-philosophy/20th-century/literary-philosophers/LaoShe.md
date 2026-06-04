@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/exercise/personality"
   - path: "05-Praxis-Growth/writing/Creative_Writing_Workshop.md"
     relation: "communication/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/exercise/personality"
 
 ---

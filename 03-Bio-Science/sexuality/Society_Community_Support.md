@@ -18,7 +18,7 @@ cross_refs:
     relation: "buddhism/exercise/meditation"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "buddhism/exercise/meditation"
   - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
     relation: "buddhism/exercise/meditation"

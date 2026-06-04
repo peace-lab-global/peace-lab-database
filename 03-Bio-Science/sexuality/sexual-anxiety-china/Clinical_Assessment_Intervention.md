@@ -15,11 +15,11 @@ intent_queries:
   - "性焦虑的临床评估与干预的自助方法"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/anxiety/body_image"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/attachment"

@@ -14,15 +14,15 @@ intent_queries:
   - "情商评估与发展体系的方法与实践"
 trigger_keywords: ["情商评估与发展体系", "anxiety", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
     relation: "anxiety/communication/emotion"
 
 ---

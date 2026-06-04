@@ -14,7 +14,7 @@ intent_queries:
   - "职场霸凌/歧视取证与申诉流程的方法与实践"
 trigger_keywords: ["职场霸凌", "歧视取证与申诉流程", "assessment", "behavioral", "body", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
     relation: "anxiety/communication/emotion"

@@ -14,13 +14,13 @@ intent_queries:
   - "伤寒论的方法与实践"
 trigger_keywords: ["伤寒论", "clinical", "pain", "sexuality", "中医内经"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "nutrition/pain/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "nutrition/pain/sexuality"
-  - path: "02-Mind-Psychology/meditation/kundalini-meditation/Kundalini_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Safety_Screening.md"
     relation: "nutrition/pain/sexuality"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Crisis_Protocol.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Crisis_Protocol.md"
     relation: "nutrition/pain/sexuality"
   - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/INDEX.md"
     relation: "nutrition/pain/sexuality"

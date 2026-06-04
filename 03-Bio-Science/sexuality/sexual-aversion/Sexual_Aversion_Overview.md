@@ -15,15 +15,15 @@ intent_queries:
   - "性冷淡心理学专业内容体系的自助方法"
 trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/cardiovascular"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/attachment/cardiovascular"
   - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
     relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/attachment/cardiovascular"
 
 ---

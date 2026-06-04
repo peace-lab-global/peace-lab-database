@@ -14,7 +14,7 @@ intent_queries:
   - "《红楼梦》：中国古典小说的巅峰之作的方法与实践"
 trigger_keywords: ["act", "art", "developmental", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/communication"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "attachment/communication/emotion"

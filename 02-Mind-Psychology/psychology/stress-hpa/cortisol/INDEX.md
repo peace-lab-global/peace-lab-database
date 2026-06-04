@@ -21,7 +21,7 @@ cross_refs:
     relation: "emotion/neuroscience/stress"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "emotion/neuroscience/stress"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "emotion/neuroscience/stress"
 ---
 # cortisol | Index

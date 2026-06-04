@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/communication/personality"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "anxiety/communication/personality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/personality"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/personality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
     relation: "anxiety/communication/personality"
 
 ---

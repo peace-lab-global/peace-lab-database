@@ -14,7 +14,7 @@ intent_queries:
   - "Bioethics of Death & Dying的方法与实践"
 trigger_keywords: ["aging", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
     relation: "aging/communication/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/communication/death"

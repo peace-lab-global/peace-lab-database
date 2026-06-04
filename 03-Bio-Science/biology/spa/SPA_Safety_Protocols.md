@@ -14,7 +14,7 @@ intent_queries:
   - "SPA Safety Protocols & Contraindications的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
     relation: "anxiety/cardiovascular/communication"

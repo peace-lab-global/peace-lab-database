@@ -14,15 +14,15 @@ intent_queries:
   - "Western Philosophy: Kantian & Schopenhauerian Thought的方法与实践"
 trigger_keywords: ["act", "addiction", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "anxiety/buddhism/meditation"
 
 ---

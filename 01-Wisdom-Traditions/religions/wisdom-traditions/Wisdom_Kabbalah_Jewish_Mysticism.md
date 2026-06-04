@@ -14,15 +14,15 @@ intent_queries:
   - "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism的方法与实践"
 trigger_keywords: ["卡巴拉与犹太神秘主义", "art", "body", "brain", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/14-HRV-Biofeedback.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/14-HRV-Biofeedback.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/emotion/exercise"
 
 ---

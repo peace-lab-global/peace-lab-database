@@ -1,0 +1,93 @@
+---
+
+title: "疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)"
+description: "疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
+tags: ["anxiety", "cbt", "mindfulness", "ocd"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是疑病症与疾病焦虑障碍"
+  - "疑病症与疾病焦虑障碍的核心概念"
+  - "疑病症与疾病焦虑障碍的方法与实践"
+  - "疑病症与疾病焦虑障碍的自助方法"
+trigger_keywords: ["疑病症与疾病焦虑障碍", "anxiety", "assessment", "behavioral", "body"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
+    relation: "anxiety/emotion/meditation"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
+    relation: "anxiety/emotion/meditation"
+
+---
+# 疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)
+
+## 核心术语与词源表 (Core Terminology & Etymology)
+
+| 术语 (中文) | 英文名 (English Term) | 原始语言/术语 (Original Language) | 词源含义 | 精确定义 | 专业视角 |
+|---|---|---|---|---|---|
+| **疑病症（旧称）** | Hypochondriasis | 希: *Hypo* (下) + *Chondros* (软骨) | 古希腊认为“肋软骨下方”区域（腹部）产生忧郁与多疑 | 过度关注身体功能，持续担心患有严重疾病，医学检查反复正常 | DSM-5已不再使用此词，大部分被“疾病焦虑障碍”与“躯体症状障碍”吸收 |
+| **疾病焦虑障碍** | Illness Anxiety Disorder | DSM-5 术语 | - | 轻微或几乎没有躯体症状，却对患严重疾病有持续性、过度焦虑与恐惧 | 关键在“疾病担忧”而非“症状本身”，属于躯体症状及相关障碍谱系 |
+| **健康焦虑** | Health Anxiety | - | - | 泛指对健康状况的持续过度担心，可见于多种诊断（IAD、SSD、OCD等） | 实务中“健康焦虑”作为较少污名化的通俗表述更易被患者接受 |
+| **疾病恐惧/病恐** | Nosophobia | 希: *Nosos* (疾病) + *Phobos* (恐惧) | 对特定疾病的强烈恐惧，如癌症恐惧 | 与恐惧症、强迫症有交叠 | 与“对症状本身的焦虑”需区分 |
+| **躯体症状障碍（疑病型）** | Somatic Symptom Disorder, Health-anxious type | DSM-5 subtype | - | 有明显躯体症状 + 对症状过度焦虑与反应 | 与IAD的区别在于“症状本身”的突出程度 |
+
+---
+
+## DSM-5 疾病焦虑障碍诊断标准表 (Illness Anxiety Disorder - DSM-5)
+
+| 条目 | 中文描述 | 英文原文 (简化) | 说明 | 临床评估要点 |
+|---|---|---|---|---|
+| **A** | 对患有或得某种严重疾病有过度担忧 | Preoccupation with having or acquiring a serious illness | 担忧持续存在，即便医学检查正常 | 询问“过去半年里，有多少时间在想自己可能得重病？” |
+| **B** | 无躯体症状或仅轻微症状；若存在躯体病，则担忧明显过度 | Somatic symptoms are not present or only mild; excessive if medical condition present | 重点是“担忧与实际风险不匹配” | 需区分合理担忧与过度担忧 |
+| **C** | 对健康的高度焦虑，易被健康相关信息触发 | High level of anxiety about health | 阅读健康资讯、身边有人生病都可触发 | 注意信息环境（网络、短视频）对其影响 |
+| **D** | 过度的健康相关行为或相反的回避行为 | Excessive health-related behaviors or maladaptive avoidance | 如频繁自检、反复就医，或极度回避医院体检 | 观察行为模式而不仅是主诉 |
+| **E** | 病程≥6个月，担忧对象可在不同疾病间转换 | Illness preoccupation present for ≥6 months | 诊断需长期观察 | 问既往就医和担心历史 |
+| **F** | 症状不能更好地用其他精神障碍解释 | Not better explained by another mental disorder | 需排除OCD、躯体妄想性障碍等 | 若有妄想级信念，应考虑精神病性障碍 |
+
+---
+
+## 疑病症与相关障碍鉴别诊断表 (Differential Diagnosis)
+
+| 障碍 | 核心焦点 | 信念强度 | 典型行为 | 与IAD的区别 | 提示性问题 |
+|---|---|---|---|---|---|
+| **疾病焦虑障碍 (IAD)** | “我可能有严重疾病” | 高焦虑，但仍能部分修正 | 频繁就医、自检、查资料或极端回避 | 躯体症状轻或缺如，焦点在疾病本身 | “如果医生反复说没事，你能否暂时安心？” |
+| **躯体症状障碍 (SSD)** | “我的症状很严重” | 对症状本身的关注更高 | 专注疼痛、疲劳等症状本身 | 症状负担更重，功能受损多与症状相关 | “你最困扰的是症状本身还是背后有什么大病？” |
+| **强迫症 (健康相关强迫)** | “我必须不断检查/询问以确保安全” | 强迫观念，患者知其不合理 | 反复检查身体、查资料以减轻焦虑 | 行为更符合“仪式感”，焦点是缓解强迫观念 | “你是否觉得自己检查行为有点过头，但就是停不下来？” |
+| **精神病性障碍（躯体妄想）** | “我肯定得了绝症，没人懂” | 妄想级，难以被说服 | 拒绝相反证据，坚持单一疾病解释 | 缺乏现实检验能力，与证据严重不符 | “如果所有检查都正常，你是否仍100%确信自己得了这个病？” |
+
+---
+
+## 疑病认知模型表 (Cognitive Model of Health Anxiety)
+
+| 环节 | 中文描述 | 英文名 | 示例 | 治疗靶点 |
+|---|---|---|---|---|
+| **身体感觉** | 正常或轻微身体感觉 | Bodily Sensations | 心跳略快、偶尔刺痛 | 通过内感受训练区分“危险信号”与“噪音” |
+| **注意选择性放大** | 将注意力集中在特定部位 | Selective Attention | 反复关注胸口每一次跳动 | 训练注意力转移与外向专注 |
+| **灾难化解释** | 将轻微感觉解释为严重疾病 | Catastrophic Misinterpretation | “心跳快=心肌梗死前兆” | 认知重构，列出更合理解释 |
+| **安全行为** | 频繁检查、不断求医、上网搜索 | Safety Behaviors | 每天摸淋巴结、搜“癌症早期症状” | 在治疗中逐步减少安全行为以促进修正学习 |
+| **短期缓解、长期维持** | 检查后短暂安心，随后疑虑卷土重来 | Short-term relief, long-term maintenance | “这次没查出来，下次再查一次更高级的” | 解释“负强化循环”，通过暴露打破 |
+
+---
+
+## 疑病症/疾病焦虑障碍治疗工具表 (Treatment Tools)
+
+| 技术 (中文) | 英文名 | 核心目标 | 具体做法 | 循证等级 | 专业洞察 |
+|---|---|---|---|---|---|
+| **健康焦虑CBT** | CBT for Health Anxiety | 修正灾难化解释与安全行为 | 构建恐惧层级、行为实验、认知重构 | A级 | 证据支持CBT对健康焦虑疗效显著，疗效可维持数年 |
+| **暴露与反应预防** | Exposure and Response Prevention (ERP) | 减少安全行为、容忍不确定性 | 暴露于“未检查的身体感觉”，禁止额外检查 | A级 | 借鉴OCD治疗模式，强调“不做安全动作” |
+| **医学-心理联合随访** | Collaborative Care | 减少“医生购物”与过度检查 | 固定一名主诊医生+心理治疗师 | B级 | 建议在全科/身心科建立固定随访体系 |
+| **正念与接纳训练** | Mindfulness & Acceptance | 与身体感觉共处、不过度解释 | 正念扫描、接纳不确定性练习 | B级 | 有助于减少“控制身体必须100%确定”的刚性信念 |
+| **家庭教育** | Family Education | 降低家人过度安抚或共谋行为 | 教育家属避免重复检查、配合治疗计划 | C级 | 家属常因爱而参与安全行为，需转化支持方式 |
+
+---
+
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

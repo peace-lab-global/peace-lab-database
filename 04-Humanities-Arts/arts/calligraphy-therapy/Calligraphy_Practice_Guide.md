@@ -14,15 +14,15 @@ intent_queries:
   - "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的方法与实践"
 trigger_keywords: ["书法疗愈实操指南", "act", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_08_Life_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_08_Life_Scenes.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "aging/anxiety/art_therapy"
 
 ---
@@ -217,9 +217,9 @@ cross_refs:
 | 书法疗愈总览 | [Calligraphy_Therapy_Overview.md](./Calligraphy_Therapy_Overview.md) |
 | 书法疗愈神经科学 | [Calligraphy_Neuroscience.md](./Calligraphy_Neuroscience.md) |
 | 书法疗愈临床应用 | [Calligraphy_Clinical_Applications.md](./Calligraphy_Clinical_Applications.md) |
-| OH卡牌疗愈 | [../../../02-Mind-Psychology/therapy/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/oh-cards-therapy/) |
-| 正念冥想引导脚本 | [../../../02-Mind-Psychology/meditation/guided-scripts/](../../../02-Mind-Psychology/meditation/guided-scripts/) |
-| 森林疗愈 | [../../../02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) |
+| OH卡牌疗愈 | [../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/) |
+| 正念冥想引导脚本 | [../../../02-Mind-Psychology/meditation/courses/guided-scripts/](../../../02-Mind-Psychology/meditation/courses/guided-scripts/) |
+| 森林疗愈 | [../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
 
 ---
 

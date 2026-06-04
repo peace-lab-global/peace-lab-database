@@ -14,7 +14,7 @@ intent_queries:
   - "《超越疯狂》Transcending Madness的方法与实践"
 trigger_keywords: ["anxiety", "buddhism", "emotion", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/buddhism"
   - path: "README.md"
     relation: "anxiety/art_therapy/buddhism"

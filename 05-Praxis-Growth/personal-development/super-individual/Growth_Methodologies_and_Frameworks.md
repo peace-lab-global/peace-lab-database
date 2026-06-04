@@ -22,7 +22,7 @@ cross_refs:
     relation: "pain/sexuality/therapy"
   - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Diagnostics.md"
     relation: "pain/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "pain/sexuality/therapy"
 
 ---

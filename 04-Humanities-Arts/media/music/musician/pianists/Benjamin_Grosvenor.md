@@ -14,7 +14,7 @@ intent_queries:
   - "Benjamin Grosvenor  - 英国钢琴新贵的方法与实践"
 trigger_keywords: ["act", "art", "developmental", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/emotion"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/emotion/personality"

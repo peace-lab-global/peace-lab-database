@@ -17,13 +17,13 @@ trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/depression/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "anxiety/depression/emotion"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
     relation: "anxiety/depression/emotion"
 
 ---

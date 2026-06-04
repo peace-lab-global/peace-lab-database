@@ -20,9 +20,9 @@ cross_refs:
     relation: "buddhism/communication/death"
   - path: "README.md"
     relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
     relation: "communication/death/meditation"
 
 ---

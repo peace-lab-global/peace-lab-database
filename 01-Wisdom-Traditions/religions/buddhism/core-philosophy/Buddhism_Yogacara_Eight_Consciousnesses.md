@@ -14,11 +14,11 @@ intent_queries:
   - "唯识学与八识心王详论的方法与实践"
 trigger_keywords: ["唯识学与八识心王详论", "act", "anxiety", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
     relation: "anxiety/buddhism/communication"
   - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
     relation: "anxiety/buddhism/communication"

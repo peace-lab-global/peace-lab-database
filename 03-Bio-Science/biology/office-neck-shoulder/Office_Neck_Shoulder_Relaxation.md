@@ -16,11 +16,11 @@ trigger_keywords: ["act", "aging", "assessment", "body"]
 cross_refs:
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/cardiovascular/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/cardiovascular/exercise"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/cardiovascular/exercise"

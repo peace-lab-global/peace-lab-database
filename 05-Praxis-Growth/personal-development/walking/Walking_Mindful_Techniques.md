@@ -14,7 +14,7 @@ intent_queries:
   - "步行冥想核心技法与进阶路径的方法与实践"
 trigger_keywords: ["act", "anxiety", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/depression"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
     relation: "anxiety/buddhism/depression"

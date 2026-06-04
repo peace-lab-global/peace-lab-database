@@ -16,13 +16,13 @@ trigger_keywords: ["behavioral", "body", "breathwork", "exercise"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "exercise/meditation/sexuality"
 
 ---
@@ -101,9 +101,9 @@ cross_refs:
 
 - Yoga Alliance Code of Conduct.
 - 各国消费者保护法和广告法.
-- 详见 [Meditation_Insurance_Legal](../../../02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md) 中的完整法律分析.
+- 详见 [Meditation_Insurance_Legal](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md) 中的完整法律分析.
 
 ---
 
 *最后更新：2026年4月*
-*关联文件：[Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Yoga_Instructor_Self_Care](Yoga_Instructor_Self_Care.md) | [Meditation_Insurance_Legal](../../../02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md)*
+*关联文件：[Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Yoga_Instructor_Self_Care](Yoga_Instructor_Self_Care.md) | [Meditation_Insurance_Legal](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md)*

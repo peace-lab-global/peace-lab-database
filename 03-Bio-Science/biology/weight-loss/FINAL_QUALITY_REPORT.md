@@ -16,7 +16,7 @@ trigger_keywords: ["assessment", "communication", "developmental", "habits"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/nutrition/productivity"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
     relation: "communication/nutrition/productivity"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "communication/nutrition/productivity"

@@ -16,7 +16,7 @@ trigger_keywords: ["art", "buddhism", "calligraphy", "developmental"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/buddhism/communication"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/buddhism/exercise"

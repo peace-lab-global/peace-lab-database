@@ -16,13 +16,13 @@ trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
     relation: "anxiety/meditation/neuroscience"
 
 ---
@@ -471,4 +471,4 @@ cross_refs:
 ---
 
 *最后更新：2026年4月*
-*关联文件：[Yoga_Business_Models](Yoga_Business_Models.md) | [Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Meditation_Digital_Industry](../../../02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md)*
+*关联文件：[Yoga_Business_Models](Yoga_Business_Models.md) | [Yoga_Career_Pathways](Yoga_Career_Pathways.md) | [Meditation_Digital_Industry](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md)*

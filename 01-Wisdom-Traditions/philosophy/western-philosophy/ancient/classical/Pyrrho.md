@@ -14,15 +14,15 @@ intent_queries:
   - "皮浪的方法与实践"
 trigger_keywords: ["皮浪", "anxiety", "behavioral", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/exercise/meditation"
 
 ---

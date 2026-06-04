@@ -14,13 +14,13 @@ intent_queries:
   - "药师佛完整修持仪轨的方法与实践"
 trigger_keywords: ["药师佛完整修持仪轨", "anxiety", "healing", "longevity", "pain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/buddhism"

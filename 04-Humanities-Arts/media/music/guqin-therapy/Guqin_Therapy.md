@@ -14,7 +14,7 @@ intent_queries:
   - "古琴疗愈的方法与实践"
 trigger_keywords: ["古琴疗愈", "aging", "anxiety", "art", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
     relation: "aging/anxiety/communication"

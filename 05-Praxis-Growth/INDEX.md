@@ -16,9 +16,9 @@ trigger_keywords: ["实践与个人增长", "act", "art", "assessment", "cogniti
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/emotion/productivity"
   - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
     relation: "communication/emotion/productivity"
@@ -113,6 +113,8 @@ cross_refs:
   - [原子习惯 (Atomic Habits)](personal-development/topics/Personal_Development_Atomic_Habits.md)
   - [微习惯 (Mini Habits)](personal-development/topics/Personal_Development_Mini_Habits.md)
 - [正念与生活禅 (Mindfulness)](personal-development/mindfulness/)
+- [**正念生活化实践 (Mindful Living)**](mindful-living/) **[NEW]** — 正念进食/行走/工作/沟通/育儿/数字生活
+  - [正念生活化实践总览](mindful-living/Mindful_Living_Overview.md) — 日常觉察整合、STOP技术、最小可行正念
 - [极简主义与整理 (Minimalism)](personal-development/minimalism-decluttering/)
 - [拖延心理调节 (Procrastination)](personal-development/procrastination/Procrastination_Psychological_Regulation.md)
 
@@ -218,6 +220,18 @@ cross_refs:
 - [职场心理危机干预 (Workplace Crisis)](../02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md)
 - [职场倦怠专题 (Occupational Burnout)](../02-Mind-Psychology/psychology/applied/occupational-burnout/) — 倦怠评估、预防干预与恢复随访
 
+### 6. 🧘 疗愈师职业发展 (Healer Career Development) — [完整知识地图](personal-development/healer-career/INDEX.md) **[NEW]**
+- [**疗愈师职业发展路径**](personal-development/healer-career/Healer_Career_Overview.md) — 职业图谱/认证体系(MBSR/艺术治疗/躯体)/伦理规范/督导/个案管理/自我关怀
+
+### 6.1 🤲 身体工作实践 (Somatic Practice) — [完整知识地图](personal-development/somatic-practice/INDEX.md) **[NEW]**
+- [身体工作实践总览](personal-development/somatic-practice/Somatic_Practice_Overview.md) — SE/Feldenkrais/SP/BMC/Alexander、自下而上理论、日常实践
+
+### 6.2 🏕️ 静修Retreat设计与运营 (Retreat Design) — [完整知识地图](personal-development/retreat-design/INDEX.md) **[NEW]**
+- [静修Retreat设计与运营](personal-development/retreat-design/Retreat_Design_Overview.md) — 类型矩阵/设计五要素/3天日程/团体动力/商业运营
+
+### 6.3 ❤️ 自我关怀与同情疲劳 (Self-Compassion) — [完整知识地图](personal-development/self-compassion/INDEX.md) **[NEW]**
+- [自我关怀与同情疲劳](personal-development/self-compassion/Self_Compassion_Overview.md) — Neff三成分/MSC 8周/同情疲劳防护/疗愈师日常仪式
+
 ---
 
 ## 🗺️ 知识图谱
@@ -225,7 +239,7 @@ cross_refs:
 <details>
 <summary>点击查看本支柱知识图谱</summary>
 
-![实践与个人增长知识图谱](../Visualization/initial-autofit.png)
+![实践与个人增长知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：实践与个人增长支柱的知识结构，涵盖超级个体、心力成长、效率执行、沟通表达、媒体运营等核心领域。*
 

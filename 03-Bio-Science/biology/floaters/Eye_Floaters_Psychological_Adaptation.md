@@ -17,13 +17,13 @@ trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
     relation: "aging/communication/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/communication"
 
 ---

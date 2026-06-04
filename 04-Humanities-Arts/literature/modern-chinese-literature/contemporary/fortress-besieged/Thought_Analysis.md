@@ -14,7 +14,7 @@ intent_queries:
   - "《围城》核心思想与观点分析的方法与实践"
 trigger_keywords: ["marriage", "sexuality", "文学"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/sexuality"
   - path: "README.md"
     relation: "art_therapy/attachment/sexuality"

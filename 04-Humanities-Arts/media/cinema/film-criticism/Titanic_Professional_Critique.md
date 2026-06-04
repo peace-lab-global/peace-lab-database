@@ -14,7 +14,7 @@ intent_queries:
   - "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言的方法与实践"
 trigger_keywords: ["act", "art", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "communication/death/emotion"
   - path: "README.md"
     relation: "art_therapy/communication/death"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/communication/death"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
     relation: "death/emotion/pain"
 
 ---

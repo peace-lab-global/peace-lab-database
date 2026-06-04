@@ -18,7 +18,7 @@ cross_refs:
     relation: "communication/death/emotion"
   - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
     relation: "communication/death/emotion"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "communication/death/emotion"
   - path: "04-Humanities-Arts/literature/world-poetry/modern/World_Modern_Poetry_Overview.md"
     relation: "communication/death/emotion"

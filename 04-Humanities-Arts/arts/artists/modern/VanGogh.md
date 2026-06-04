@@ -14,7 +14,7 @@ intent_queries:
   - "Van Gogh ：艺术精神与表现主义探索的方法与实践"
 trigger_keywords: ["act", "anxiety", "art", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "anxiety/communication/emotion"

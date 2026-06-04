@@ -14,15 +14,15 @@ intent_queries:
   - "Advanced Internal Alchemy的方法与实践"
 trigger_keywords: ["addiction", "anxiety", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_And_Sleep.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md"
     relation: "anxiety/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/emotion"
   - path: "README.md"
     relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "anxiety/daoism/emotion"
 
 ---

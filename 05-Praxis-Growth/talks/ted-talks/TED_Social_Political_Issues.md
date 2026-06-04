@@ -16,13 +16,13 @@ trigger_keywords: ["act", "addiction", "art", "crisis"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "communication/death/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/death/exercise"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "communication/death/exercise"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "communication/death/exercise"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/death"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "anxiety/buddhism/emotion"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
     relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
 
 ---

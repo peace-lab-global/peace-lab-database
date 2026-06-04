@@ -16,13 +16,13 @@ trigger_keywords: ["个人任务管理高级策略", "anxiety", "art", "behavior
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
     relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/05-Emotional-Exhaustion-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/05-Emotional-Exhaustion-Toolkit.md"
     relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/neuroscience/productivity"
 
 ---

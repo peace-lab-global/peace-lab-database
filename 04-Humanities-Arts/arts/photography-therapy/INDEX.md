@@ -18,9 +18,9 @@ cross_refs:
     relation: "aging/communication/death"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/communication/death"
@@ -60,11 +60,11 @@ cross_refs:
 | → 身体意象 | [../../03-Bio-Science/biology/body-shame/](../../../03-Bio-Science/biology/body-shame/) | 自拍像工作在身体意象中的应用 |
 | → 死亡与悲伤 | [../../03-Bio-Science/death/](../../../03-Bio-Science/death/) | 照片在丧亲辅导中的角色 |
 | → 认知衰老 | [../../03-Bio-Science/biology/aging-longevity/](../../../03-Bio-Science/biology/aging-longevity/) | 照片回忆法与痴呆预防 |
-| → 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 视觉为主的多感官整合 |
-| → OH卡牌 | [../../02-Mind-Psychology/therapy/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/oh-cards-therapy/) | 投射性图片反应的共通原理 |
+| → 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 视觉为主的多感官整合 |
+| → OH卡牌 | [../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/) | 投射性图片反应的共通原理 |
 | → 电影疗愈 | [../../04-Humanities-Arts/media/cinema/](../../media/cinema/) | 同属视觉媒介疗愈 |
-| → EMDR | [../../02-Mind-Psychology/therapy/emdr-therapy/](../../../02-Mind-Psychology/therapy/emdr-therapy/) | 视觉刺激在创伤处理中的平行运用 |
-| → 森林疗愈 | [../../02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 户外自然摄影疗愈 |
+| → EMDR | [../../02-Mind-Psychology/therapy/integrative/emdr-therapy/](../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/) | 视觉刺激在创伤处理中的平行运用 |
+| → 森林疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 户外自然摄影疗愈 |
 
 ---
 

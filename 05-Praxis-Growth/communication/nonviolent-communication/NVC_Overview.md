@@ -14,15 +14,15 @@ intent_queries:
   - "非暴力沟通概述 | Nonviolent Communication Overview的方法与实践"
 trigger_keywords: ["非暴力沟通概述", "anxiety", "art", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
 
 ---

@@ -14,11 +14,11 @@ intent_queries:
   - "《上师也喝酒？》三方书评的方法与实践"
 trigger_keywords: ["buddhism", "cognitive", "exercise", "religion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/communication/exercise"
   - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
     relation: "buddhism/communication/exercise"

@@ -16,7 +16,7 @@ trigger_keywords: ["季节性孤独", "anxiety", "body", "cinema", "depression"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
     relation: "anxiety/depression/emotion"
   - path: "03-Bio-Science/biology/body-shame/assessment/Body_Shame_Clinical_Assessment.md"
     relation: "anxiety/depression/emotion"

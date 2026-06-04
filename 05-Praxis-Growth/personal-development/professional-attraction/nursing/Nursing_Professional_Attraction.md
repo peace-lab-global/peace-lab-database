@@ -18,11 +18,11 @@ cross_refs:
     relation: "aging/anxiety/attachment"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/attachment"
 
 ---

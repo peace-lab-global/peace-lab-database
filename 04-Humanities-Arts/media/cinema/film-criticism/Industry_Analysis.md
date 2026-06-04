@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/daoism/sexuality"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "art_therapy/daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/daoism/sexuality"
 
 ---

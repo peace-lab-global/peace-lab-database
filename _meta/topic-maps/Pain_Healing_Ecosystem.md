@@ -38,16 +38,16 @@ graph TB
 | 慢性疼痛心理干预 | `03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md` | 03 |
 | 疼痛身心疗法 | `03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md` | 03 |
 | 太极拳临床 | `01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md` | 01 |
-| 瑜伽治疗 | `01-Wisdom-Traditions/yoga/Yoga_Therapy.md` | 01 |
-| MBSR 正念减压 | `02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md` | 02 |
-| ACT 接纳承诺 | `02-Mind-Psychology/therapy/act-therapy/` | 02 |
+| 瑜伽治疗 | `01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md` | 01 |
+| MBSR 正念减压 | `02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md` | 02 |
+| ACT 接纳承诺 | `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` | 02 |
 | 躯体体验疗法 | `02-Mind-Psychology/psychology/somatic-body/somatic/` | 02 |
 | 运动科学 | `03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md` | 03 |
 | 戏剧疗愈 | `04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Overview.md` | 04 |
 | 音乐疗愈 | `04-Humanities-Arts/media/music/` | 04 |
 | 园艺疗愈 | `04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md` | 04 |
-| 频率止痛 (Solfeggio 174Hz) | `02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
-| 脑波镇痛 (Alpha-Delta) | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| 频率止痛 (Solfeggio 174Hz) | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 脑波镇痛 (Alpha-Delta) | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

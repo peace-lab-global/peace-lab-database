@@ -14,15 +14,15 @@ intent_queries:
   - "《有意识的心智》The Conscious Mind的方法与实践"
 trigger_keywords: ["behavioral", "brain", "cognitive", "developmental"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "exercise/neuroscience/pain"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "exercise/neuroscience/pain"
 
 ---

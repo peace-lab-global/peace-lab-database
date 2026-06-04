@@ -20,9 +20,9 @@ cross_refs:
     relation: "nutrition/sexuality/stress"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "nutrition/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "nutrition/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
     relation: "nutrition/sexuality/stress"
 
 ---

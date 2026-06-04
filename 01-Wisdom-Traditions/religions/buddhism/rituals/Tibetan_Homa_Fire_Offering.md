@@ -14,15 +14,15 @@ intent_queries:
   - "藏传佛教火供仪轨的方法与实践"
 trigger_keywords: ["藏传佛教火供仪轨", "buddhism", "emotion", "healing", "longevity"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "aging/buddhism/emotion"
 
 ---

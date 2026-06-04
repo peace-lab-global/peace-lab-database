@@ -16,7 +16,7 @@ trigger_keywords: ["act", "art", "body", "cinema"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/sexuality"
   - path: "README.md"
     relation: "art_therapy/communication/sexuality"

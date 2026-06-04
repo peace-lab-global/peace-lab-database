@@ -14,7 +14,7 @@ intent_queries:
   - "Fortress Besieged | 围城的方法与实践"
 trigger_keywords: ["围城", "art", "marriage", "philosophy", "文学"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment"
   - path: "README.md"
     relation: "art_therapy/attachment"

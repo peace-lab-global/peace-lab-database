@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "attachment/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "attachment/emotion/exercise"
 
 ---

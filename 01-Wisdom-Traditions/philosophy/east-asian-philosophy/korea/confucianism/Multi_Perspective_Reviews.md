@@ -14,15 +14,15 @@ intent_queries:
   - "韩国儒学经典三方书评的方法与实践"
 trigger_keywords: ["韩国儒学经典三方书评", "developmental", "philosophy", "sexuality", "哲学"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "daoism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "daoism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
     relation: "daoism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "daoism/emotion/exercise"
 
 ---

@@ -14,7 +14,7 @@ intent_queries:
   - "《为上帝辩护》The Case for God的方法与实践"
 trigger_keywords: ["buddhism", "cognitive", "crisis", "death"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/death/exercise"
   - path: "README.md"
     relation: "art_therapy/buddhism/death"

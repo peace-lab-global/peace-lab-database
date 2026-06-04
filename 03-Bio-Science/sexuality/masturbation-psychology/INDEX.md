@@ -43,7 +43,7 @@ cross_refs:
 ### 关联专题
 
 - [自慰心理学概述（心理学视角）](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/INDEX.md) - 理论基础、文化历史、临床心理学
-- [自慰与关系心理学](../../../02-Mind-Psychology/relationships/masturbation-relationships/INDEX.md) - 动机分析、亲密关系、心理困扰、性健康
+- [自慰与关系心理学](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/INDEX.md) - 动机分析、亲密关系、心理困扰、性健康
 - [性学研究概览](../Sexuality_Overview.md) - 性学学科总览
 - [性学神经科学基础](../Sexuality_Neuroscience_Biology.md) - 性反应的神经生物学机制
 - [性发展与生命周期](../Sexuality_Development_Lifespan.md) - 性发展的生命全程视角

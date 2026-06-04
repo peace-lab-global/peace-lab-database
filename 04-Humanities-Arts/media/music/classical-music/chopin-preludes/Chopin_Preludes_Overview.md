@@ -14,15 +14,15 @@ intent_queries:
   - "肖邦《前奏曲》综合指南的方法与实践"
 trigger_keywords: ["art", "brain", "clinical", "cognitive"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/emotion/exercise"
 
 ---

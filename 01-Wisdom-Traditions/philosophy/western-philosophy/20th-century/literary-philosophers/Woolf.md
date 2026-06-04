@@ -14,7 +14,7 @@ intent_queries:
   - "弗吉尼亚·伍尔夫  - 哲学思想全览的方法与实践"
 trigger_keywords: ["弗吉尼亚", "anxiety", "art", "developmental", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
     relation: "anxiety/communication/emotion"

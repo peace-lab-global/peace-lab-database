@@ -15,7 +15,7 @@ intent_queries:
   - "运动心理学 | Sport & Exercise Psychology的自助方法"
 trigger_keywords: ["运动心理学", "adolescent", "aging", "anxiety", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/communication"
@@ -23,7 +23,7 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
     relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/depression"
 
 ---

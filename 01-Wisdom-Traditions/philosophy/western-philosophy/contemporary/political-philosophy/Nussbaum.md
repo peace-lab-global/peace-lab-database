@@ -14,15 +14,15 @@ intent_queries:
   - "玛莎·努斯鲍姆的方法与实践"
 trigger_keywords: ["玛莎", "努斯鲍姆", "assessment", "behavioral", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
     relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/10-Contraindications.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/10-Contraindications.md"
     relation: "emotion/sexuality/therapy"
 
 ---

@@ -14,13 +14,13 @@ intent_queries:
   - "实用主义哲学经典三方书评的方法与实践"
 trigger_keywords: ["assessment", "clinical", "cognitive", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/shamanic-traditions/Shamanic_Traditions_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/shamanic-traditions/Shamanic_Traditions_Overview.md"
     relation: "communication/depression/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "communication/depression/exercise"

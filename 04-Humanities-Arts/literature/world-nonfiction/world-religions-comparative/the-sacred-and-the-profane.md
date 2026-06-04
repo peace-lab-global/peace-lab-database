@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/emotion/productivity"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
     relation: "buddhism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/emotion"
 
 ---

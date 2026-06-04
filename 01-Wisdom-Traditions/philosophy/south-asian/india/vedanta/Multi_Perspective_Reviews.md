@@ -14,15 +14,15 @@ intent_queries:
   - "吠檀多哲学经典三方书评的方法与实践"
 trigger_keywords: ["personality", "philosophy", "religion", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/10-Contraindications.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/10-Contraindications.md"
     relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
     relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "personality/sexuality"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/anxiety/exercise"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
     relation: "aging/anxiety/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "aging/anxiety/exercise"
 
 ---
@@ -215,6 +215,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [神经科学与生理学基础](Masturbation_Neuroscience_Physiology.md) | [个体差异与人格因素](Masturbation_Individual_Differences.md) | [社会文化变迁](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Cultural_History.md) | [心理机制与动机](../../../02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Mechanisms_Motivation.md)
+> 🔗 **交叉引用**: [神经科学与生理学基础](Masturbation_Neuroscience_Physiology.md) | [个体差异与人格因素](Masturbation_Individual_Differences.md) | [社会文化变迁](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Cultural_History.md) | [心理机制与动机](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Mechanisms_Motivation.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回性学目录](../INDEX.md)

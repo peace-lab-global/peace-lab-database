@@ -14,7 +14,7 @@ intent_queries:
   - "实用哲学 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["实用哲学", "佛法视角三方书评", "anxiety", "buddhism", "death", "emotion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/death"
   - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
     relation: "anxiety/buddhism/death"

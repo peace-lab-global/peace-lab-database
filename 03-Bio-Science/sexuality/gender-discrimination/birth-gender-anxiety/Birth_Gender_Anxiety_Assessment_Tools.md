@@ -14,13 +14,13 @@ intent_queries:
   - "Birth Gender Anxiety: Assessment Tools的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/attachment/depression"
   - path: "02-Mind-Psychology/psychology/clinical/depression/peripartum-depression/Peripartum_Depression.md"
     relation: "anxiety/attachment/depression"
   - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
     relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/attachment/depression"
   - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Impact_Children_Development.md"
     relation: "anxiety/attachment/depression"

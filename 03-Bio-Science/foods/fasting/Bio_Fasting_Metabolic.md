@@ -14,7 +14,7 @@ intent_queries:
   - "Fasting & Metabolic Wisdom的方法与实践"
 trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
     relation: "aging/anxiety/emotion"

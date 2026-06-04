@@ -14,15 +14,15 @@ intent_queries:
   - "《上师也喝酒？》读书笔记与书评的方法与实践"
 trigger_keywords: ["behavioral", "buddhism", "phobia", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "anxiety/buddhism/emotion"
 
 ---

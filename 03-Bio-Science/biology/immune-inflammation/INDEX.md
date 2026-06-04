@@ -14,15 +14,15 @@ intent_queries:
   - "免疫系统与炎症的方法与实践"
 trigger_keywords: ["免疫系统与炎症", "act", "assessment", "cortisol", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/emotion/exercise"
 
 ---
@@ -56,7 +56,7 @@ cross_refs:
 | 运动科学 | [exercise-science/](../exercise-science/) | 运动的抗炎机制 |
 | 睡眠 | [02-Mind-Psychology/somatic-body/sleep/](../../../02-Mind-Psychology/psychology/somatic-body/sleep/) | 睡眠与炎症 |
 | 营养 | [foods/](../../foods/) | 抗炎饮食 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | NK细胞与自然接触 |
+| 森林疗法 | [02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | NK细胞与自然接触 |
 | 瑜伽 | [01-Wisdom-Traditions/yoga/](../../../01-Wisdom-Traditions/yoga/) | 瑜伽的抗炎效应 |
 
 ---

@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/art_therapy/communication"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/productivity"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "aging/communication/productivity"
 
 ---

@@ -14,11 +14,11 @@ intent_queries:
   - "《会讲故事的大脑》The Tell-Tale Brain的方法与实践"
 trigger_keywords: ["art", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "cardiovascular/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md"
     relation: "cardiovascular/emotion/exercise"

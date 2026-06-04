@@ -14,15 +14,15 @@ intent_queries:
   - "西田幾多郎的方法与实践"
 trigger_keywords: ["西田幾多郎", "act", "art", "behavioral", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Dogen.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Huineng.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Huineng.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/chinese/Sheng_Yen.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Sheng_Yen.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thomas_Hubl.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
     relation: "buddhism/communication/exercise"
 
 ---

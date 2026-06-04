@@ -14,15 +14,15 @@ intent_queries:
   - "脑电生物反馈的方法与实践"
 trigger_keywords: ["脑电生物反馈", "act", "addiction", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "anxiety/depression/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/depression/exercise"
 
 ---

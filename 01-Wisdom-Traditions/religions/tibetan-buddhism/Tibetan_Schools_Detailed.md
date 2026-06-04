@@ -20,9 +20,9 @@ cross_refs:
     relation: "buddhism/cardiovascular/death"
   - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
     relation: "buddhism/cardiovascular/death"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
     relation: "buddhism/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jack_Kornfield.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
     relation: "buddhism/cardiovascular/exercise"
 
 ---

@@ -14,13 +14,13 @@ intent_queries:
   - "Stretch Biomechanics & Physiology的方法与实践"
 trigger_keywords: ["ballet", "brain", "breathwork", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Mingyur_Rinpoche.md"
     relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "emotion/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md"
     relation: "emotion/exercise/neuroscience"

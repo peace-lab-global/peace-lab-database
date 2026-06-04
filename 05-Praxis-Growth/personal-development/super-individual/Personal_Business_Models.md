@@ -14,9 +14,9 @@ intent_queries:
   - "个人商业模式的方法与实践"
 trigger_keywords: ["个人商业模式", "act", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/neuroscience/productivity"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
     relation: "communication/neuroscience/productivity"

@@ -14,15 +14,15 @@ intent_queries:
   - "莲花生大士完整修持仪轨的方法与实践"
 trigger_keywords: ["anxiety", "body", "buddhism", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
 
 ---

@@ -270,7 +270,7 @@ cross_refs:
 | 儿童发展总览 | [总览](Child_Development_Overview.md) |
 | 儿童情绪调节 | [情绪调节](Child_Emotional_Regulation.md) |
 | 儿童创伤与韧性 | [创伤韧性](Child_Trauma_Resilience.md) |
-| 亲密关系 | [亲密关系](../../../relationships/love/) |
+| 亲密关系 | [亲密关系](../../../relationships/love-dating/love/) |
 | 人格发展 | [人格发展](../../foundations/personality/Personality_Development_Change.md) |
 
 ---

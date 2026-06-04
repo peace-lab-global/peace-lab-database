@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/art_therapy/cardiovascular"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
     relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
     relation: "anxiety/art_therapy/communication"

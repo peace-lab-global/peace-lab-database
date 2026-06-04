@@ -183,10 +183,10 @@ cross_refs:
 | 戏剧疗愈神经科学 | [Drama_Therapy_Neuroscience.md](./Drama_Therapy_Neuroscience.md) |
 | 书法疗愈 | [../calligraphy-therapy/](../calligraphy-therapy/) |
 | 摄影疗愈 | [../photography-therapy/](../photography-therapy/) |
-| 感官疗愈(舞动) | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) |
-| 游戏治疗 | [../../02-Mind-Psychology/therapy/game-therapy/](../../../02-Mind-Psychology/therapy/game-therapy/) |
-| ACT疗法 | [../../02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) |
-| Satir模式 | [../../02-Mind-Psychology/meditation/satir-model/](../../../02-Mind-Psychology/meditation/satir-model/) |
+| 感官疗愈(舞动) | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
+| 游戏治疗 | [../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/) |
+| ACT疗法 | [../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) |
+| Satir模式 | [../../02-Mind-Psychology/meditation/clinical/satir-model/](../../../02-Mind-Psychology/meditation/clinical/satir-model/) |
 
 ### 核心参考文献
 
@@ -208,6 +208,6 @@ cross_refs:
 |---------|---------|------|--------|
 | 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 戏剧化操演与身体导向创伤处理 |
 | 焦虑症概览 | 02-心理学 | [焦虑症](../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md) | 戏剧治疗对社交焦虑的干预 |
-| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念觉察与戏剧化体验的整合 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 正念觉察与戏剧化体验的整合 |
 | 神经科学 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 戏剧化角色扮演的镜像神经元机制 |
 | 艺术疗愈路径 | 学习路径 | [艺术疗愈](../../../_meta/learning-paths/Art_Healing_Path.md) | 戏剧在艺术疗愈学习中的定位 |

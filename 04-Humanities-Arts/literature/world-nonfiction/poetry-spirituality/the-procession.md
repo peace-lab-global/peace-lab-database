@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/death/emotion"
   - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
     relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "art_therapy/buddhism/death"
 
 ---

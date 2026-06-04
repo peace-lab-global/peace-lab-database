@@ -17,13 +17,13 @@ trigger_keywords: ["媒体疗法概览", "addiction", "adolescent", "anxiety", "
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/18-Digital-Therapy.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/18-Digital-Therapy.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "anxiety/emotion/exercise"
 
 ---

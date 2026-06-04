@@ -15,7 +15,7 @@ intent_queries:
   - "心血管心理学 | Cardiovascular Psychology的自助方法"
 trigger_keywords: ["心血管心理学", "anxiety", "assessment", "behavioral", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "anxiety/cardiovascular/depression"
@@ -23,7 +23,7 @@ cross_refs:
     relation: "anxiety/cardiovascular/depression"
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/emotion"
 
 ---
@@ -226,7 +226,7 @@ cross_refs:
 | HRV | [HRV](Heart_Rate_Variability.md) |
 | 运动营养 | [运动营养](Cardiovascular_Exercise_Nutrition.md) |
 | HPA轴 | [HPA轴](../hpa-axis/) |
-| CBT | [CBT](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) |
+| CBT | [CBT](../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/) |
 | 压力心理学 | [压力](../../../02-Mind-Psychology/psychology/stress-hpa/) |
 
 ---

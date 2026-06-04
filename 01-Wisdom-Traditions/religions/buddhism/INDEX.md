@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/death/meditation"
   - path: "README.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "buddhism/meditation/neuroscience"
 
 ---
@@ -90,12 +90,12 @@ cross_refs:
 ### 止观禅修 (Samatha-Vipassana) — [完整索引](meditation/INDEX.md)
 - [止观禅修详表](meditation/Buddhism_Samatha_Vipassana.md) — 核心术语、四十业处、禅相体系、四禅八定、观智十六阶
 - [天台宗止观体系](tiantai/Buddhism_Tiantai_Zhiguan.md) — 圆融三谛、一念三千、四种三昧、十境十乘
-- **止观禅定专项知识库** → [samatha-vipassana/ 总索引](../../../02-Mind-Psychology/meditation/samatha-vipassana/INDEX.md)
-  - [理论基础](../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_Theory.md) — 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语
-  - [禅定体系](../../../02-Mind-Psychology/meditation/samatha-vipassana/Dhyana_Samadhi_System.md) — 四禅八定深度解析、九次第定、六大传承对比
-  - [历史传承](../../../02-Mind-Psychology/meditation/samatha-vipassana/Samatha_Vipassana_History.md) — 佛陀教法→部派→南传→中国→藏传→现代、大事年表、人物小传
-  - [神经科学研究](../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md) — EEG/fMRI、结构脑变化、表观遗传学、50+论文
-  - [现代心理学应用](../../../02-Mind-Psychology/meditation/samatha-vipassana/Modern_Psychology_Integration.md) — CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床
+- **止观禅定专项知识库** → [samatha-vipassana/ 总索引](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/INDEX.md)
+  - [理论基础](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_Theory.md) — 哲学根基、业处论、禅支论、四念处、十六观智、阿毗达摩、五语术语
+  - [禅定体系](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md) — 四禅八定深度解析、九次第定、六大传承对比
+  - [历史传承](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_History.md) — 佛陀教法→部派→南传→中国→藏传→现代、大事年表、人物小传
+  - [神经科学研究](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) — EEG/fMRI、结构脑变化、表观遗传学、50+论文
+  - [现代心理学应用](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Modern_Psychology_Integration.md) — CBT/MBCT/MBSR/DBT/ACT/CFT整合、循证临床
 
 ### 核心哲学 (Core Philosophy) — [完整索引](core-philosophy/INDEX.md)
 - **唯识学**: [八识详论](core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md) | [唯识基础](core-philosophy/Buddhism_Yogacara_Consciousness.md) | [百法明门论](core-philosophy/Buddhism_Yogacara_Hundred_Dharmas.md) | [认识论与因明](core-philosophy/Buddhism_Yogacara_Epistemology.md)
@@ -113,8 +113,8 @@ cross_refs:
 
 ### 佛教现代应用 (Modern Applications) — [完整索引](modern-applications/INDEX.md)
 - **心理治疗与临床**：心理治疗理论 | 正念疗法整合(MBSR/MBCT/ACT/DBT) | 熏习临床转化 | 慢性疼痛 | 睡眠问题
-- **神经科学**：止观禅修神经科学机制 | [跨项目深度研究](../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md)
-- **身体康复**：[太极身心调整](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [瑜伽疗法整合](../../../01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md)
+- **神经科学**：止观禅修神经科学机制 | [跨项目深度研究](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md)
+- **身体康复**：[太极身心调整](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [瑜伽疗法整合](../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
 - **临终关怀**：[经文疗愈导读](sutras/Buddhism_Sutra_Healing_Guide.md) | [藏传中阴度亡](rituals/Tibetan_Bardo_Rites.md) | [死亡教育现代诠释](dzongsar-khyentse/living-is-dying/Book_Review.md)
 - **数字时代**：[数字化正念与AI心理健康](modern-applications/Digital_Mindfulness_AI_Mental_Health.md) — 移动应用、VR正念、生物反馈、AI心理助手、伦理框架
 

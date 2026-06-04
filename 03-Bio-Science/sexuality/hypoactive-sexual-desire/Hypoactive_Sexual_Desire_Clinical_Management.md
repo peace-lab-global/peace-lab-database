@@ -16,7 +16,7 @@ trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/communication"

@@ -14,9 +14,9 @@ intent_queries:
   - "安娜·福瑞斯特（Ana Forrest）的方法与实践"
 trigger_keywords: ["安娜", "act", "addiction", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "emotion/exercise/sexuality"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
     relation: "emotion/exercise/sexuality"

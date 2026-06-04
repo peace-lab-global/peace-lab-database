@@ -14,13 +14,13 @@ intent_queries:
   - "Internal Alchemy的方法与实践"
 trigger_keywords: ["body", "brain", "breathwork", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "daoism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C2-2-effects-of-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-2-effects-of-meditation.md"
     relation: "daoism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "daoism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "daoism/emotion/neuroscience"
   - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
     relation: "daoism/emotion/neuroscience"

@@ -16,13 +16,13 @@ trigger_keywords: ["act", "anxiety", "art", "assessment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/communication/death"
 
 ---

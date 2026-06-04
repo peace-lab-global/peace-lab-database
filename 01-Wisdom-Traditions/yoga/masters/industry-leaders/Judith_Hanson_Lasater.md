@@ -16,9 +16,9 @@ trigger_keywords: ["朱迪思", "汉森", "communication", "developmental", "imm
 cross_refs:
   - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
     relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/immune/neuroscience"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
     relation: "communication/immune/neuroscience"

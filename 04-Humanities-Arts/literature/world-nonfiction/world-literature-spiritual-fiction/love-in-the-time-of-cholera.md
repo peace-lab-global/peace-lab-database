@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/death/productivity"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
     relation: "aging/art_therapy/productivity"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "aging/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
     relation: "aging/death/productivity"
 
 ---

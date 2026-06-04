@@ -18,11 +18,11 @@ cross_refs:
     relation: "aging/cardiovascular/exercise"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Modern_Styles.md"
+  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Modern_Styles.md"
     relation: "aging/cardiovascular/exercise"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/cardiovascular/exercise"
 
 ---

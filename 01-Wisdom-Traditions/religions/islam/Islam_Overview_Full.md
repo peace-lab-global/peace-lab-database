@@ -14,7 +14,7 @@ intent_queries:
   - "伊斯兰教核心概览的方法与实践"
 trigger_keywords: ["伊斯兰教核心概览", "addiction", "anxiety", "art", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/art_therapy/sexuality"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
     relation: "anxiety/art_therapy/sexuality"

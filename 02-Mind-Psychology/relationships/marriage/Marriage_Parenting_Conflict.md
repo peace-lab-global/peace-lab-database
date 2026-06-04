@@ -16,7 +16,7 @@ trigger_keywords: ["育儿冲突与共同养育", "act", "adolescent", "anxiety"
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
     relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "anxiety/attachment/emotion"
   - path: "03-Bio-Science/INDEX.md"
     relation: "anxiety/emotion/immune"

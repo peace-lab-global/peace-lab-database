@@ -14,15 +14,15 @@ intent_queries:
   - "胜乐金刚完整修持仪轨的方法与实践"
 trigger_keywords: ["胜乐金刚完整修持仪轨", "buddhism", "longevity", "mandala", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
     relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "aging/buddhism/sexuality"
 
 ---

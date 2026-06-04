@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/death/neuroscience"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/death/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md"
     relation: "anxiety/cardiovascular/neuroscience"
 
 ---

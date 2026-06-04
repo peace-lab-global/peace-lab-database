@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/exercise/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
     relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/exercise/sexuality"
 
 ---

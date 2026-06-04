@@ -14,13 +14,13 @@ intent_queries:
   - "Monastic Rituals的方法与实践"
 trigger_keywords: ["act", "anxiety", "behavioral", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "anxiety/buddhism/cardiovascular"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
     relation: "anxiety/buddhism/cardiovascular"

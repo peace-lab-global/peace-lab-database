@@ -14,15 +14,15 @@ intent_queries:
   - "情商应用 | Emotional Intelligence的方法与实践"
 trigger_keywords: ["情商应用", "breathwork", "cognitive", "emotion", "eq"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/emotion/exercise"
 
 ---
@@ -47,7 +47,7 @@ cross_refs:
 | 关联领域 | 路径 | 关联点 |
 |---------|------|--------|
 | 正念冥想 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 情绪觉察核心训练 |
-| DBT | [02-Mind-Psychology/therapy/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/) | 系统情绪调节技能 |
+| DBT | [02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/) | 系统情绪调节技能 |
 | 谈判技能 | [05-Praxis-Growth/communication/negotiation/](../../communication/negotiation/) | 谈判中的情绪管理 |
 | 社交资本 | [05-Praxis-Growth/personal-development/social-capital/](../social-capital/) | 社交中的情商 |
 | 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../03-Bio-Science/biology/breathwork/) | 情绪调节工具 |

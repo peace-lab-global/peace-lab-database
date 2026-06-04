@@ -14,9 +14,9 @@ intent_queries:
   - "Tuina Modern Research & Evidence-Based Medicine的方法与实践"
 trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
     relation: "aging/anxiety/cardiovascular"

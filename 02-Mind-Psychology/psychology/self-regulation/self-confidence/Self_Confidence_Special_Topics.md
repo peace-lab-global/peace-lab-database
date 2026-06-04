@@ -16,7 +16,7 @@ trigger_keywords: ["adolescent", "aging", "anxiety", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
     relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "aging/anxiety/communication"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
     relation: "aging/anxiety/communication"

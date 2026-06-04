@@ -64,7 +64,7 @@ cross_refs:
 |-------|---------|------|----------|------------|------|----------|
 | **Jill Bolte Taylor** | My stroke of insight | 2008 | 脑科学家中风后的觉醒 | [神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 18:44 | [观看](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight) |
 | **Lara Boyd** | After watching this, your brain will not be the same | 2015 | 神经可塑性如何改变人生 | [神经可塑性](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 14:25 | [观看](https://www.youtube.com/watch?v=LNHBMFCzznE) |
-| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 | **Sarah McKay** | What happens to your brain when you pay attention | 2018 | 注意力神经机制 | [认知科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) | 12:52 | [观看](https://www.youtube.com/watch?v=crunbgL_9sI) |
 
 ### 2.3 情绪与心理健康
@@ -94,10 +94,10 @@ cross_refs:
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
+| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
 | **Dan Harris** | Hack your brain's default mode with meditation | 2019 | 冥想改变默认模式网络 | [DMN](../../../03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md) | 11:14 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
-| **Sam Harris** | It's now or never | 2018 | 正念哲学家的洞见 | [不二论](../../../02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Foundations.md) | 14:07 | [观看](https://www.youtube.com/watch?v=CvKZj5watlas) |
-| **Yuval Harari** | Nationalism vs. globalism | 2017 | 历史学家谈内观禅修 | [内观禅修](../../../02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
+| **Sam Harris** | It's now or never | 2018 | 正念哲学家的洞见 | [不二论](../../../02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Foundations.md) | 14:07 | [观看](https://www.youtube.com/watch?v=CvKZj5watlas) |
+| **Yuval Harari** | Nationalism vs. globalism | 2017 | 历史学家谈内观禅修 | [内观禅修](../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
 
 ### 3.2 东方智慧
 
@@ -106,7 +106,7 @@ cross_refs:
 | **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
 | **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
 | **Thích Nhất Hạnh** | How to eat mindfully | 2013 | 一行禅师正念饮食教导 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) | 8:34 | [观看](https://www.youtube.com/watch?v=wk4xRqsMt7Q) |
-| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
+| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
 
 ---
 
@@ -124,7 +124,7 @@ cross_refs:
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
+| **Eddie Stern** | How yoga helps your brain | 2019 | 瑜伽神经科学 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md) | 11:28 | [观看](https://www.youtube.com/watch?v=0w7MAfBAx9Y) |
 | **Sunni Brown** | Breathe to heal | 2018 | 呼吸疗愈机制 | [呼吸技术](../../../03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md) | 14:16 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
 | **Max Strom** | Breathe to heal | 2019 | 调息法改善身心 | [呼吸与生物黑客](../../../03-Bio-Science/biology/breathwork/Bio_Breathwork_Biohack.md) | 18:23 | [观看](https://www.youtube.com/watch?v=4Lb5L-VEm34) |
 
@@ -137,9 +137,9 @@ cross_refs:
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Esther Perel** | Rethinking infidelity ... a talk for anyone who has ever loved | 2015 | 出轨心理学深度解析 | [出轨与背叛](../../../02-Mind-Psychology/relationships/marriage/Marriage_Infidelity_Betrayal.md) | 19:15 | [观看](https://www.ted.com/talks/esther_perel_rethinking_infidelity_a_talk_for_anyone_who_has_ever_loved) |
-| **Helen Fisher** | The brain in love | 2008 | 爱情神经科学研究 | [恋爱神经科学](../../../02-Mind-Psychology/relationships/love/Love_Neuroscience_Biology.md) | 16:22 | [观看](https://www.ted.com/talks/helen_fisher_the_brain_in_love) |
+| **Helen Fisher** | The brain in love | 2008 | 爱情神经科学研究 | [恋爱神经科学](../../../02-Mind-Psychology/relationships/love-dating/love/Love_Neuroscience_Biology.md) | 16:22 | [观看](https://www.ted.com/talks/helen_fisher_the_brain_in_love) |
 | **John Gottman** | The science of love | 2018 | Gottman方法创始人 | [婚姻治疗](../../../02-Mind-Psychology/relationships/marriage/Marriage_Therapy_Methods.md) | 15:42 | [观看](https://www.youtube.com/watch?v=-mdGctqONgU) |
-| **Sue Johnson** | The power of emotional connection | 2016 | EFT创始人谈情感依恋 | [依恋与亲密](../../../02-Mind-Psychology/relationships/love/Love_Attachment_Intimacy.md) | 17:38 | [观看](https://www.youtube.com/watch?v=KZ-OwbGWXPw) |
+| **Sue Johnson** | The power of emotional connection | 2016 | EFT创始人谈情感依恋 | [依恋与亲密](../../../02-Mind-Psychology/relationships/love-dating/love/Love_Attachment_Intimacy.md) | 17:38 | [观看](https://www.youtube.com/watch?v=KZ-OwbGWXPw) |
 | **Alain de Botton** | A kinder, gentler philosophy of success | 2009 | 现代爱情与成功哲学 | [人际关系](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 16:53 | [观看](https://www.ted.com/talks/alain_de_botton_a_kinder_gentler_philosophy_of_success) |
 
 ### 5.2 沟通与冲突
@@ -147,7 +147,7 @@ cross_refs:
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Celeste Headlee** | 10 ways to have a better conversation | 2015 | 高质量对话技术 | [沟通技术](../../../02-Mind-Psychology/relationships/marriage/Marriage_Communication.md) | 11:44 | [观看](https://www.ted.com/talks/celeste_headlee_10_ways_to_have_a_better_conversation) |
-| **Julian Treasure** | How to speak so that people want to listen | 2013 | 有效沟通的声音艺术 | [声乐疗法](../../../02-Mind-Psychology/therapy/sensory/Sensory_Vocal_Therapy.md) | 9:58 | [观看](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen) |
+| **Julian Treasure** | How to speak so that people want to listen | 2013 | 有效沟通的声音艺术 | [声乐疗法](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Vocal_Therapy.md) | 9:58 | [观看](https://www.ted.com/talks/julian_treasure_how_to_speak_so_that_people_want_to_listen) |
 | **William Ury** | The walk from "no" to "yes" | 2010 | 谈判与冲突解决 | [冲突处理](../../../02-Mind-Psychology/relationships/marriage/Marriage_Crisis_Intervention.md) | 18:50 | [观看](https://www.ted.com/talks/william_ury_the_walk_from_no_to_yes) |
 
 ---
@@ -180,7 +180,7 @@ cross_refs:
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Martin Seligman** | The new era of positive psychology | 2004 | 积极心理学之父演讲 | [积极心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Schools_Theories.md) | 23:42 | [观看](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology) |
-| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](../../../02-Mind-Psychology/meditation/overview/Meditation_Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
+| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
 | **Dan Gilbert** | The surprising science of happiness | 2004 | 综合幸福vs自然幸福 | [情感心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 21:20 | [观看](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness) |
 | **Robert Waldinger** | What makes a good life? Lessons from the longest study on happiness | 2015 | 哈佛75年幸福研究 | [人际关系](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Social.md) | 12:46 | [观看](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) |
 
@@ -260,7 +260,7 @@ cross_refs:
 |-------|---------|------|----------|------------|------|----------|
 | **John Cacioppo** | The lethality of loneliness | 2013 | 孤独神经科学研究 | [孤独概览](../../../02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md) | 16:34 | [观看](https://www.youtube.com/watch?v=_0hxl03JoA0) |
 | **Julianne Holt-Lunstad** | The health risks of loneliness | 2017 | 孤独健康风险研究 | [孤独健康风险](../../../02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md) | 14:28 | [观看](https://www.youtube.com/watch?v=cmbBEEp0lh4) |
-| **Guy Winch** | How to fix a broken heart | 2017 | 失恋心理急救 | [失恋疗愈](../../../02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md) | 12:38 | [观看](https://www.youtube.com/watch?v=k0GQSJrpVhM) |
+| **Guy Winch** | How to fix a broken heart | 2017 | 失恋心理急救 | [失恋疗愈](../../../02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md) | 12:38 | [观看](https://www.youtube.com/watch?v=k0GQSJrpVhM) |
 
 ### 11.2 数字时代心理健康
 
@@ -323,7 +323,7 @@ cross_refs:
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Daniel Goleman** | Why aren't we more compassionate? | 2007 | 情商之父谈慈悲教育 | [情商](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) | 13:05 | [观看](https://www.ted.com/talks/daniel_goleman_why_aren_t_we_more_compassionate) |
-| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](../../../02-Mind-Psychology/meditation/overview/Meditation_Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---
 
@@ -335,14 +335,14 @@ cross_refs:
 |-------|---------|------|----------|------------|------|----------|
 | **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
 | **Michael Moschen** | Juggling as art ... and science | 2002 | 节奏与大脑协调 | [音乐神经科学](../../../04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Neuroscience.md) | 23:01 | [观看](https://www.ted.com/talks/michael_moschen_juggling_as_art_and_science) |
-| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家谈聆听艺术 | [声音疗愈](../../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
+| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家谈聆听艺术 | [声音疗愈](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
 
 ### 15.2 艺术表达
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
-| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](../../../02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
+| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
 ---
 
@@ -381,7 +381,7 @@ cross_refs:
 |------|--------------|---------|------------|
 | **大脑科学** | How your brain works系列 | 初学者 | [神经科学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Cognition.md) |
 | **心理学概念** | Psychology 101系列 | 学生 | [心理学理论](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Theories_Experiments.md) |
-| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](../../../02-Mind-Psychology/meditation/overview/Meditation_General.md) |
+| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_General.md) |
 | **情绪管理** | Emotional intelligence系列 | 所有人 | [情绪心理](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Emotion.md) |
 
 ---
@@ -522,7 +522,7 @@ cross_refs:
 | Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](../../personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) |
 | Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](../../personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md) |
 | Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) |
-| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-Mind-Psychology/meditation/overview/Meditation_Core.md) |
+| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) |
 | Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) |
 
 ### 22.2 创伤疗愈系列

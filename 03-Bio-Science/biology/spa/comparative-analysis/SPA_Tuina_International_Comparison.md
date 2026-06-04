@@ -16,13 +16,13 @@ trigger_keywords: ["act", "anxiety", "assessment", "clinical"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
     relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_17_Nature_Elements.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
     relation: "anxiety/daoism/depression"
 
 ---

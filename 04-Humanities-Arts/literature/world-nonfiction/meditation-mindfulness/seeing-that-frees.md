@@ -14,7 +14,7 @@ intent_queries:
   - "《解放之见》Seeing That Frees的方法与实践"
 trigger_keywords: ["act", "art", "body", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/emotion"
   - path: "README.md"
     relation: "art_therapy/buddhism/emotion"

@@ -16,7 +16,7 @@ trigger_keywords: ["aging", "anxiety", "assessment", "cardiovascular"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Neurobiological_Mechanisms.md"
     relation: "aging/anxiety/cardiovascular"
@@ -285,7 +285,7 @@ cross_refs:
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 瑜伽神经科学 | 01-智慧传承 | [瑜伽研究](../../../01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md) | 冥想对端粒酶活性的影响 |
-| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念干预与表观遗传学年龄 |
+| 瑜伽神经科学 | 01-智慧传承 | [瑜伽研究](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md) | 冥想对端粒酶活性的影响 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 正念干预与表观遗传学年龄 |
 | HPA轴与压力 | 03-生命科学 | [HPA轴](../hpa-axis/HPA_Axis_Overview.md) | 慢性压力加速端粒缩短的机制 |
 | 道家养生 | 01-智慧传承 | [养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 气功对细胞衰老标志物的影响 |

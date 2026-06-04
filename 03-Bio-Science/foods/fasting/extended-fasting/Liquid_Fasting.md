@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/exercise/nutrition"
   - path: "01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md"
     relation: "aging/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/exercise/nutrition"
 
 ---

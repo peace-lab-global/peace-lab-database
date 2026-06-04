@@ -22,7 +22,7 @@ cross_refs:
     relation: "emotion/productivity/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
     relation: "art_therapy/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "emotion/productivity/sexuality"
 
 ---

@@ -14,13 +14,13 @@ intent_queries:
   - "Birth Gender Anxiety: Case Studies的方法与实践"
 trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/social/visualization/Loneliness_Solitude_Case_Vignettes.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Dream_Psychology_Overview.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/dating/Dating_Neuroscience_Integration.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Neuroscience_Integration.md"
     relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Family_Rebuilding.md"
     relation: "anxiety/attachment/communication"

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/art_therapy/communication"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "anxiety/communication/exercise"
 
 ---

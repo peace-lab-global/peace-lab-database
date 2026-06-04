@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/daoism/meditation"
   - path: "README.md"
     relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/daoism/meditation"
 
 ---

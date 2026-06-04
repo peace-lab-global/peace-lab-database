@@ -14,7 +14,7 @@ intent_queries:
   - "20世纪大陆哲学经典三方书评的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "buddhism", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/buddhism/death"
   - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
     relation: "anxiety/buddhism/death"

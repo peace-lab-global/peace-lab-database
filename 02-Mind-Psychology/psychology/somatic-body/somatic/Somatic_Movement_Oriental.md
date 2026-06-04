@@ -16,7 +16,7 @@ trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "depression/emotion/exercise"
   - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
     relation: "anxiety/depression/emotion"

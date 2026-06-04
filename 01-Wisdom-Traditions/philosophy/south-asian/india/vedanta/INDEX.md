@@ -14,15 +14,15 @@ intent_queries:
   - "吠檀多哲学 | Vedanta Philosophy — 文档索引的方法与实践"
 trigger_keywords: ["吠檀多哲学", "buddhism", "daoism", "meditation", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
     relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "buddhism/daoism/meditation"
 
 ---

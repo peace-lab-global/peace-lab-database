@@ -14,13 +14,13 @@ intent_queries:
   - "Ikigai生命意义 | Ikigai的方法与实践"
 trigger_keywords: ["Ikigai生命意义", "Ikigai", "aging", "assessment", "behavioral", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/depression/immune"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
     relation: "aging/cardiovascular/depression"
   - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
     relation: "aging/cardiovascular/death"

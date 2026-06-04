@@ -14,15 +14,15 @@ intent_queries:
   - "当代钢琴家音乐疗愈应用指南的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
     relation: "anxiety/communication/depression"
 
 ---

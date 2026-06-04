@@ -39,7 +39,7 @@ graph TB
 | 倦怠评估 | `02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Assessment_Diagnosis.md` | 02 |
 | 倦怠预防 | `02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Prevention_Intervention.md` | 02 |
 | 职场危机 | `02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/` | 02 |
-| MBSR 正念减压 | `02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md` | 02 |
+| MBSR 正念减压 | `02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md` | 02 |
 | 慢性压力 | `02-Mind-Psychology/psychology/stress-hpa/chronic-stress/` | 02 |
 | 太极拳调适 | `01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md` | 01 |
 | 禅宗实修 | `01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md` | 01 |

@@ -14,7 +14,7 @@ intent_queries:
   - "巴赫《英国组曲第一号》综合指南的方法与实践"
 trigger_keywords: ["anxiety", "art", "brain", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/emotion"
   - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
     relation: "anxiety/communication/emotion"

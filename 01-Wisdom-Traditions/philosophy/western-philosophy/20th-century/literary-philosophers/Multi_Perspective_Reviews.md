@@ -14,9 +14,9 @@ intent_queries:
   - "文学哲人经典三方书评的方法与实践"
 trigger_keywords: ["文学哲人经典三方书评", "act", "art", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/death/meditation"
   - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
     relation: "buddhism/death/meditation"

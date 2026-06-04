@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/buddhism/death"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Assessment_Tools.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Assessment_Tools.md"
     relation: "anxiety/buddhism/exercise"
 
 ---

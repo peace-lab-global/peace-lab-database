@@ -14,7 +14,7 @@ intent_queries:
   - "《佛陀的大脑》Buddha's Brain的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
     relation: "anxiety/depression/meditation"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/art_therapy/meditation"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "anxiety/depression/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/meditation"
 
 ---

@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "emotion/exercise/sexuality"
 
 ---

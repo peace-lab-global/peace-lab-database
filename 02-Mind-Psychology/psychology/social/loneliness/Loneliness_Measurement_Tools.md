@@ -16,7 +16,7 @@ trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Asana_Pranayama.md"
+  - path: "01-Wisdom-Traditions/yoga/practice-technique/Yoga_Asana_Pranayama.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "03-Bio-Science/INDEX.md"
     relation: "aging/anxiety/cardiovascular"

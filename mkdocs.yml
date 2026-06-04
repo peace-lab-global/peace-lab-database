@@ -3,7 +3,7 @@ site_description: 多维度身心疗愈与个人进化知识体系
 site_url: https://peace-lab-global.github.io/peace-lab-database/
 copyright: '&copy; 2026 Peace Lab Global'
 docs_dir: Web/mkdocs/docs
-site_dir: site
+site_dir: Web/site
 
 repo_url: https://github.com/peace-lab-global/peace-lab-database
 repo_name: peace-lab-global/peace-lab-database

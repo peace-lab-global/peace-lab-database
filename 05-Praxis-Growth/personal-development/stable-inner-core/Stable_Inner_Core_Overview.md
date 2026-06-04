@@ -16,7 +16,7 @@ trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md"
     relation: "anxiety/emotion/exercise"
   - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
     relation: "anxiety/emotion/exercise"

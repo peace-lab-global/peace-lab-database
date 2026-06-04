@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/communication/exercise"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
     relation: "anxiety/communication/exercise"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/exercise"

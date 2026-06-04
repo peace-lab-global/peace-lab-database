@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
     relation: "anxiety/buddhism/cardiovascular"
 
 ---

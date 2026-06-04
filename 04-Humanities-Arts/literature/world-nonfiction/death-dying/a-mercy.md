@@ -16,7 +16,7 @@ trigger_keywords: ["behavioral", "body", "death", "literature"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "art_therapy/death/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/exercise"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/exercise"

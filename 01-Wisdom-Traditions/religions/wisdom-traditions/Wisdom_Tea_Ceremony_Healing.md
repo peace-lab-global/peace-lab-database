@@ -14,15 +14,15 @@ intent_queries:
   - "茶道疗愈 | Tea Ceremony Healing的方法与实践"
 trigger_keywords: ["茶道疗愈", "aging", "anxiety", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/depression"
 
 ---
@@ -187,6 +187,6 @@ cross_refs:
 | 书道传统 | [Wisdom_East_Asian_Calligraphy_Way](Wisdom_East_Asian_Calligraphy_Way.md) | 东亚道艺一体 |
 | 禅宗 | [01-Wisdom-Traditions/religions/zen/](../zen/) | 茶禅一味 |
 | 正念冥想 | [02-Mind-Psychology/meditation/](../buddhism/meditation/) | 正念茶修行 |
-| 感官疗法 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 多感官体验 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 自然连接 |
+| 感官疗法 | [02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 多感官体验 |
+| 森林疗法 | [02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 自然连接 |
 | 侘寂美学 | [01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture](../zen/Zen_Aesthetics_Culture.md) | 不完美之美 |

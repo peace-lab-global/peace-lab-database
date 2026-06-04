@@ -16,13 +16,13 @@ trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
     relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/emotion/productivity"
 
 ---

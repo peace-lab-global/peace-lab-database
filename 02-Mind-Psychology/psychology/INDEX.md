@@ -17,7 +17,7 @@ trigger_keywords: ["心理学", "Index", "addiction", "adolescent", "anxiety", "
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "anxiety/depression/emotion"
   - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
     relation: "anxiety/depression/emotion"

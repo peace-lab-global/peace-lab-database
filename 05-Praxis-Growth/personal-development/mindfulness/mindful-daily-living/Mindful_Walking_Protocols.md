@@ -14,15 +14,15 @@ intent_queries:
   - "正念行走实修方案集的方法与实践"
 trigger_keywords: ["正念行走实修方案集", "act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_08_Life_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_08_Life_Scenes.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "aging/anxiety/exercise"
 
 ---

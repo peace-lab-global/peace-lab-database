@@ -19,7 +19,7 @@ cross_refs:
     relation: "art_therapy/communication/emotion"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Recovery_Followup.md"
     relation: "communication/emotion/exercise"

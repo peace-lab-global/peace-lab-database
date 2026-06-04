@@ -20,7 +20,7 @@ cross_refs:
     relation: "attachment/buddhism/death"
   - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
     relation: "attachment/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/buddhism/emotion"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Integrated_Methods.md"
     relation: "attachment/buddhism/emotion"

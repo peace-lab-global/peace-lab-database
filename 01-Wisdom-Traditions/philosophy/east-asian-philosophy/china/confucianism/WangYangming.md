@@ -16,9 +16,9 @@ trigger_keywords: ["王阳明", "act", "behavioral", "cognitive", "developmental
 cross_refs:
   - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
     relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "emotion/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "emotion/exercise/personality"
   - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
     relation: "emotion/exercise/personality"

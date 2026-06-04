@@ -14,7 +14,7 @@ intent_queries:
   - "《我来自何方》Where I Was From的方法与实践"
 trigger_keywords: ["act", "death", "sexuality", "writing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/death/sexuality"
   - path: "README.md"
     relation: "art_therapy/death/sexuality"

@@ -16,13 +16,13 @@ trigger_keywords: ["基督教核心概览", "addiction", "adolescent", "anxiety"
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/exercise/neuroscience"
 
 ---

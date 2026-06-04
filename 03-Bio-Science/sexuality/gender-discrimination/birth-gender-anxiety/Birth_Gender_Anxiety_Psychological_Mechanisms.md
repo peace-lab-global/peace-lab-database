@@ -16,13 +16,13 @@ trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/21-Work-Family-Integration.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/21-Work-Family-Integration.md"
     relation: "anxiety/attachment/emotion"
 
 ---

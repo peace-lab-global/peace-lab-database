@@ -16,9 +16,9 @@ trigger_keywords: ["女性生理健康", "cardiovascular", "hpa-axis", "nutritio
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "cardiovascular/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/daoism/exercise"
   - path: "README.md"
     relation: "cardiovascular/daoism/nutrition"
@@ -47,7 +47,7 @@ cross_refs:
 
 ## 跨支柱引用
 
-- [瑜伽与女性健康](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md)
+- [瑜伽与女性健康](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md)
 - [太极拳](../../../01-Wisdom-Traditions/tai-chi/)
 - [心血管健康](../cardiovascular/)
 - [关系心理学](../../../02-Mind-Psychology/relationships/)

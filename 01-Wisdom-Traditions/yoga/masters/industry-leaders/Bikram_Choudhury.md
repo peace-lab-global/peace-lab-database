@@ -14,15 +14,15 @@ intent_queries:
   - "比克拉姆·乔杜里（Bikram Choudhury / बिक्रम चौधरी）的方法与实践"
 trigger_keywords: ["比克拉姆", "act", "breathwork", "sexuality", "spirituality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "pain/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
     relation: "pain/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
     relation: "pain/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "pain/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md"
     relation: "pain/sexuality/therapy"
 
 ---

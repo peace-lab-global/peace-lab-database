@@ -14,7 +14,7 @@ intent_queries:
   - "HPA轴临床应用的方法与实践"
 trigger_keywords: ["HPA轴临床应用", "HPA轴", "act", "addiction", "adolescent"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/anxiety/attachment"

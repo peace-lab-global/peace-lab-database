@@ -14,9 +14,9 @@ intent_queries:
   - "Near-Death Experience & End-of-Life Consciousness的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Essential_Oils.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Essential_Oils.md"
     relation: "anxiety/cardiovascular/death"
   - path: "README.md"
     relation: "anxiety/cardiovascular/death"

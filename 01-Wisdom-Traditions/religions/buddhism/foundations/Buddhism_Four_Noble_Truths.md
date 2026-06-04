@@ -14,11 +14,11 @@ intent_queries:
   - "四圣谛与八正道详表的方法与实践"
 trigger_keywords: ["四圣谛与八正道详表", "act", "addiction", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
     relation: "aging/anxiety/attachment"

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/death"
   - path: "README.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "anxiety/buddhism/emotion"
 
 ---

@@ -14,7 +14,7 @@ intent_queries:
   - "黄帝内经总论 | Neijing Comprehensive Overview的方法与实践"
 trigger_keywords: ["黄帝内经总论", "act", "clinical", "daoism", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "daoism/exercise/nutrition"
   - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
     relation: "daoism/exercise/nutrition"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "daoism/exercise/nutrition"
   - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
     relation: "daoism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/exercise/nutrition"
 
 ---

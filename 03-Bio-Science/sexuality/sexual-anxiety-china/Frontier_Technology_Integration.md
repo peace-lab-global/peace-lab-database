@@ -15,11 +15,11 @@ intent_queries:
   - "前沿技术在性焦虑领域的整合应用的自助方法"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "README.md"
     relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/emotion"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "anxiety/communication/emotion"

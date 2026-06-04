@@ -14,15 +14,15 @@ intent_queries:
   - "公孙龙的方法与实践"
 trigger_keywords: ["公孙龙", "cognitive", "communication", "developmental", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
     relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
     relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "communication/exercise/productivity"
 
 ---

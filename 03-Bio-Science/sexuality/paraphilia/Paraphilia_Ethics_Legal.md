@@ -18,11 +18,11 @@ cross_refs:
     relation: "aging/buddhism/communication"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
     relation: "aging/buddhism/communication"
 
 ---

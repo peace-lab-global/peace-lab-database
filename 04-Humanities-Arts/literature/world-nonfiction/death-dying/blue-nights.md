@@ -14,7 +14,7 @@ intent_queries:
   - "《蓝夜》Blue Nights的方法与实践"
 trigger_keywords: ["aging", "art", "body", "grief"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "aging/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
     relation: "aging/art_therapy/death"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/art_therapy/death"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
     relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "aging/art_therapy/death"
 
 ---

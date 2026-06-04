@@ -16,7 +16,7 @@ trigger_keywords: ["如何重获", "act", "addiction", "aging", "anxiety"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "aging/anxiety/neuroscience"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "aging/anxiety/neuroscience"

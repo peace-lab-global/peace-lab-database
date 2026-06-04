@@ -14,15 +14,15 @@ intent_queries:
   - "摄影疗愈总览 | Photography Therapy Overview的方法与实践"
 trigger_keywords: ["摄影疗愈总览", "act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Mantra_Sacred_Sound.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Mantra_Sacred_Sound.md"
     relation: "aging/anxiety/communication"
 
 ---
@@ -241,9 +241,9 @@ cross_refs:
 | 正念冥想 | [../../02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) |
 | 身体意象与身体羞耻 | [../../03-Bio-Science/biology/body-shame/](../../../03-Bio-Science/biology/body-shame/) |
 | 书法疗愈 | [../calligraphy-therapy/](../calligraphy-therapy/) |
-| 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) |
+| 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
 | 电影疗愈 | [../../../04-Humanities-Arts/media/cinema/](../../media/cinema/) |
-| 森林疗愈 | [../../02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) |
+| 森林疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
 
 ### 7.2 核心参考文献
 
@@ -263,7 +263,7 @@ cross_refs:
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
 | 抑郁症概览 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 摄影疗法对抑郁情绪的干预 |
-| 正念冥想 | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 正念摄影与觉察训练的整合 |
+| 正念冥想 | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 正念摄影与觉察训练的整合 |
 | 禅宗审美 | 01-智慧传承 | [禅宗文化](../../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md) | 禅意审美与摄影视觉表达 |
 | 神经科学 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 视觉艺术与神经美学 |
 | 艺术疗愈路径 | 学习路径 | [艺术疗愈](../../../_meta/learning-paths/Art_Healing_Path.md) | 摄影在艺术疗愈学习中的定位 |

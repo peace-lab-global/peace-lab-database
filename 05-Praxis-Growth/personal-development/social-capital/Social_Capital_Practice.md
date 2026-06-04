@@ -161,7 +161,7 @@ cross_refs:
 | 关联主题 | 路径 | 关联点 |
 |---------|------|--------|
 | 社交资本理论 | [Social_Capital_Overview](Social_Capital_Overview.md) | 理论基础 |
-| 约会与交往 | [02-Mind-Psychology/relationships/dating/](../../../02-Mind-Psychology/relationships/dating/) | 亲密关系建立 |
-| 情绪银行 | [02-Mind-Psychology/relationships/emotional-bank-account/](../../../02-Mind-Psychology/relationships/emotional-bank-account/) | 关系中的投资与提取 |
+| 约会与交往 | [02-Mind-Psychology/relationships/love-dating/dating/](../../../02-Mind-Psychology/relationships/love-dating/dating/) | 亲密关系建立 |
+| 情绪银行 | [02-Mind-Psychology/relationships/clinical-practice/emotional-bank-account/](../../../02-Mind-Psychology/relationships/clinical-practice/emotional-bank-account/) | 关系中的投资与提取 |
 | 沟通技巧 | [05-Praxis-Growth/communication/](../../communication/) | 社交沟通能力 |
 | 谈判技能 | [05-Praxis-Growth/communication/negotiation/](../../communication/negotiation/) | 利益协调 |

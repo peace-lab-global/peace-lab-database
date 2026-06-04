@@ -17,11 +17,11 @@ trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jon_Kabat_Zinn.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
     relation: "aging/anxiety/communication"
@@ -38,11 +38,11 @@ cross_refs:
 ## 🔗 核心文档导航 (Core Document Navigation)
 
 ### OH卡疗法核心文档 (OH Cards Therapy Core Documents)
-- [OH_Cards_Therapy_Overview.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Therapy_Overview.md) - OH卡疗法概览与核心框架
-- [OH_Cards_Terminology_Concepts.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Terminology_Concepts.md) - 核心术语与概念体系
-- [OH_Cards_Clinical_Applications.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Clinical_Applications.md) - 临床应用详解
-- [OH_Cards_Techniques_Methods.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Techniques_Methods.md) - 技巧方法详解
-- [OH_Cards_Research_Evidence.md](../../../02-Mind-Psychology/therapy/oh-cards-therapy/OH_Cards_Research_Evidence.md) - 研究证据与循证实践
+- [OH_Cards_Therapy_Overview.md](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md) - OH卡疗法概览与核心框架
+- [OH_Cards_Terminology_Concepts.md](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Terminology_Concepts.md) - 核心术语与概念体系
+- [OH_Cards_Clinical_Applications.md](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Clinical_Applications.md) - 临床应用详解
+- [OH_Cards_Techniques_Methods.md](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Techniques_Methods.md) - 技巧方法详解
+- [OH_Cards_Research_Evidence.md](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Research_Evidence.md) - 研究证据与循证实践
 
 ### 绘画疗法核心文档 (Art Therapy Core Documents)
 - [Art_Therapy_Overview.md](../arts-therapy/Art_Therapy_Overview.md) - 绘画疗法概览与理论根基

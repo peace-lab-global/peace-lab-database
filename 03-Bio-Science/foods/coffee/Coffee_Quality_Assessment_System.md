@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/neuroscience/nutrition"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Moxibustion_Safety_Guidelines.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Moxibustion_Safety_Guidelines.md"
     relation: "communication/neuroscience/nutrition"
 
 ---

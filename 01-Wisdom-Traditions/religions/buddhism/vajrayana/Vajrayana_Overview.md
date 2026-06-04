@@ -14,15 +14,15 @@ intent_queries:
   - "金刚乘概览的方法与实践"
 trigger_keywords: ["金刚乘概览", "act", "body", "buddhism", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Practical_Guide.md"
     relation: "buddhism/communication/meditation"
 
 ---

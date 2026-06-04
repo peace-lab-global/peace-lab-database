@@ -14,15 +14,15 @@ intent_queries:
   - "约翰·戈特利布·费希特的方法与实践"
 trigger_keywords: ["约翰", "戈特利布", "费希特", "act", "developmental", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "buddhism/communication/meditation"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
     relation: "buddhism/communication/meditation"
   - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/authors/Wang_Wei_Complete_Profile.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "buddhism/communication/meditation"
 
 ---

@@ -18,11 +18,11 @@ cross_refs:
     relation: "immune/productivity/sexuality"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "immune/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "immune/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "immune/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "immune/productivity/sexuality"
 
 ---

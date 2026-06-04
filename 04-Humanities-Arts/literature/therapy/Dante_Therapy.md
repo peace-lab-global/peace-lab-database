@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/communication/death"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/INDEX.md"
     relation: "anxiety/communication/depression"
 
 ---

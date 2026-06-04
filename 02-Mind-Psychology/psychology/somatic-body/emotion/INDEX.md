@@ -22,7 +22,7 @@ cross_refs:
     relation: "emotion/meditation/neuroscience"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
     relation: "emotion/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "emotion/meditation/neuroscience"
 
 ---

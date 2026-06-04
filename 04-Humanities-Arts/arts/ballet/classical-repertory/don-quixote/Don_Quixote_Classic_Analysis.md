@@ -14,7 +14,7 @@ intent_queries:
   - "《堂吉诃德》经典剧目分析的方法与实践"
 trigger_keywords: ["anxiety", "art", "assessment", "ballet"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/communication"
   - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
     relation: "anxiety/art_therapy/communication"

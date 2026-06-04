@@ -14,9 +14,9 @@ intent_queries:
   - "藏医学与索瓦日巴的方法与实践"
 trigger_keywords: ["藏医学与索瓦日巴", "act", "anxiety", "art", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/emotion"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "anxiety/emotion/exercise"

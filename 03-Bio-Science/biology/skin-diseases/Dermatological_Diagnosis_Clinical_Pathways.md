@@ -14,9 +14,9 @@ intent_queries:
   - "Dermatological Diagnosis Clinical Pathways的方法与实践"
 trigger_keywords: ["assessment", "clinical", "cognitive", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/pain/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
     relation: "communication/pain/productivity"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Functional.md"
     relation: "communication/pain/productivity"

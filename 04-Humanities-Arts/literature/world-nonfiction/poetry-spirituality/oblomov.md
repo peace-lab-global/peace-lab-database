@@ -16,7 +16,7 @@ trigger_keywords: ["buddhism", "daoism", "death", "literature"]
 cross_refs:
   - path: "README.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "art_therapy/buddhism/daoism"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/buddhism/daoism"

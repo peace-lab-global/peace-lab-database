@@ -14,7 +14,7 @@ intent_queries:
   - "Peace Lab Database的方法与实践"
 trigger_keywords: ["addiction", "anxiety", "art", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/attachment/buddhism"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/buddhism/communication"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/art_therapy/attachment"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/buddhism"
 
 ---
@@ -56,9 +56,9 @@ cross_refs:
 
 | 导航 | 说明 |
 |------|------|
-| [📖 分类法与架构说明](TAXONOMY.md) | 五大支柱的分类原则与决策树 |
-| [📝 贡献指南](CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
-| [🔤 全局术语表](GLOSSARY.md) | 核心术语中英文映射 |
+| [📖 分类法与架构说明](_meta/docs/TAXONOMY.md) | 五大支柱的分类原则与决策树 |
+| [📝 贡献指南](_meta/docs/CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
+| [🔤 全局术语表](_meta/docs/GLOSSARY.md) | 核心术语中英文映射 |
 | 🗺️ 学习路径 | 主题化的推荐阅读路线 |
 | 🔗 交叉引用索引 | 跨支柱关联内容 |
 | 🔧 工具与脚本 | 质量检查、链接验证等自动化工具 |
@@ -157,7 +157,7 @@ Agent Skills 遵循以下设计原则：
 |:-----|:-----|:---------|
 | `Addiction_Assessment_Skill.md` | 成瘾行为评估（AUDIT/DAST/ASI） | "我戒不掉酒/游戏/手机" |
 
-#### 亲密关系模块 (`02-Mind-Psychology/relationships/skills/`)
+#### 亲密关系模块 (`02-Mind-Psychology/relationships/clinical-practice/skills/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|

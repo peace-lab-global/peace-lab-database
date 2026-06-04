@@ -14,15 +14,15 @@ intent_queries:
   - "大方广佛华严经普贤行愿品的方法与实践"
 trigger_keywords: ["buddhism", "music", "sexuality", "佛教"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Localization_Challenges.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
     relation: "buddhism/sexuality"
 
 ---

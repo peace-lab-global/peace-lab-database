@@ -34,7 +34,7 @@ changelog:
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
     relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "anxiety/emotion/immune"
   - path: "03-Bio-Science/INDEX.md"
     relation: "anxiety/emotion/immune"

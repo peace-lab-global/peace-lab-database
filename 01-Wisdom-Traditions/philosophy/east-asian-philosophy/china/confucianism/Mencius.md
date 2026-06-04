@@ -14,11 +14,11 @@ intent_queries:
   - "孟子的方法与实践"
 trigger_keywords: ["孟子", "developmental", "emotion", "healing", "leadership"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "emotion/exercise/personality"
   - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
     relation: "emotion/exercise/personality"

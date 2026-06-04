@@ -14,13 +14,13 @@ intent_queries:
   - "Stretch Clinical Applications的方法与实践"
 trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "aging/anxiety/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/exercise"

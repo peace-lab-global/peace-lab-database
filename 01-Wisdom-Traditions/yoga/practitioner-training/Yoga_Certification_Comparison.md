@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽认证体系对比 | Yoga Certification Comparison的方法与实践"
 trigger_keywords: ["瑜伽认证体系对比", "act", "assessment", "breathwork", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "emotion/exercise/therapy"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "emotion/exercise/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "emotion/exercise/therapy"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "emotion/exercise/therapy"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "emotion/exercise/therapy"
 
 ---
@@ -203,5 +203,5 @@ cross_refs:
 - [瑜伽职业发展路径](../career-business/Yoga_Career_Pathways.md)
 - [瑜伽教师培训概览](Yoga_Training_Overview.md)
 - [瑜伽教学方法论](Yoga_Teaching_Methodology.md)
-- [冥想执行师认证对比](../../../02-Mind-Psychology/meditation/practitioner-training/Practitioner_Certification_Comparison.md) — 对比参考
-- [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md)
+- [冥想执行师认证对比](../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Certification_Comparison.md) — 对比参考
+- [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md)

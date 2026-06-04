@@ -14,11 +14,11 @@ intent_queries:
   - "佛教论藏重要论典的方法与实践"
 trigger_keywords: ["佛教论藏重要论典", "buddhism", "developmental", "literature", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "buddhism/cardiovascular/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/cardiovascular/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "buddhism/cardiovascular/sexuality"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "buddhism/cardiovascular/sexuality"

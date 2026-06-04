@@ -14,9 +14,9 @@ intent_queries:
   - "萨特主要作品深度分析的方法与实践"
 trigger_keywords: ["萨特主要作品深度分析", "act", "anxiety", "art", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
     relation: "anxiety/communication/death"

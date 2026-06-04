@@ -14,7 +14,7 @@ intent_queries:
   - "《围城》读书笔记与书评的方法与实践"
 trigger_keywords: ["behavioral", "brain", "literature", "marriage"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/neuroscience"
   - path: "README.md"
     relation: "art_therapy/attachment/neuroscience"

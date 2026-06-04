@@ -14,9 +14,9 @@ intent_queries:
   - "《死后的生命》Life After Life的方法与实践"
 trigger_keywords: ["behavioral", "body", "brain", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/depression"

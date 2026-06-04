@@ -48,9 +48,9 @@ cross_refs:
 | 关联领域 | 路径 | 关联点 |
 |---------|------|--------|
 | 那洛六法 · 梦瑜伽 | [01-Wisdom-Traditions/yoga/six-yogas-naropa/](../../../../01-Wisdom-Traditions/yoga/six-yogas-naropa/) | 藏传佛教梦修行 |
-| 瑜伽尼德拉 | [01-Wisdom-Traditions/yoga/Yoga_Nidra](../../../../01-Wisdom-Traditions/yoga/Yoga_Nidra.md) | 睡眠觉知 |
+| 瑜伽尼德拉 | [01-Wisdom-Traditions/yoga/Yoga_Nidra](../../../../01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md) | 睡眠觉知 |
 | 创伤治疗 | [02-Mind-Psychology/psychology/clinical/trauma/](../../clinical/trauma/) | 创伤噩梦与PTSD |
-| EMDR | [02-Mind-Psychology/therapy/emdr-therapy/](../../../therapy/emdr-therapy/) | 创伤记忆加工 |
+| EMDR | [02-Mind-Psychology/therapy/integrative/emdr-therapy/](../../../therapy/integrative/emdr-therapy/) | 创伤记忆加工 |
 | 荣格心理学 | [02-Mind-Psychology/psychology/foundations/](../../foundations/) | 原型与集体无意识 |
 | 死亡冥想 | [03-Bio-Science/death/](../../../../03-Bio-Science/death/) | 临终梦 |
 

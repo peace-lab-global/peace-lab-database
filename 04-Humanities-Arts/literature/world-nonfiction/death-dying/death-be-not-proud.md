@@ -16,7 +16,7 @@ trigger_keywords: ["《不要骄傲", "brain", "child", "death", "philosophy"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
     relation: "art_therapy/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "art_therapy/death/neuroscience"
   - path: "README.md"
     relation: "art_therapy/death/neuroscience"

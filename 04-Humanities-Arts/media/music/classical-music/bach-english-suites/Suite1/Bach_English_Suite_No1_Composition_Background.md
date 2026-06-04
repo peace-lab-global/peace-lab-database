@@ -15,13 +15,13 @@ intent_queries:
   - "巴赫《英国组曲第一号》创作背景与心理分析的自助方法"
 trigger_keywords: ["anxiety", "art", "child", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "anxiety/communication/depression"
   - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
     relation: "anxiety/communication/depression"

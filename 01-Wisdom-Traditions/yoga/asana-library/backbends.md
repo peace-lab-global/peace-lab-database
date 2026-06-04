@@ -14,15 +14,15 @@ intent_queries:
   - "Backbends 后弯位体式的方法与实践"
 trigger_keywords: ["exercise", "sexuality", "stress", "瑜伽"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
     relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/exercise/sexuality"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
     relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_SPA_Bodywork.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_SPA_Bodywork.md"
     relation: "cardiovascular/exercise/sexuality"
 
 ---

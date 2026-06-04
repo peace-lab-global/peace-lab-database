@@ -14,9 +14,9 @@ intent_queries:
   - "《重塑大脑》The Brain That Changes Itself的方法与实践"
 trigger_keywords: ["addiction", "aging", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/buddhism/depression"
-  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
     relation: "aging/buddhism/depression"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/buddhism/exercise"

@@ -14,9 +14,9 @@ intent_queries:
   - "《文子》Wen-tzu的方法与实践"
 trigger_keywords: ["daoism", "death", "intervention", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "art_therapy/daoism/death"
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/daoism/death"
   - path: "README.md"
     relation: "art_therapy/daoism/death"

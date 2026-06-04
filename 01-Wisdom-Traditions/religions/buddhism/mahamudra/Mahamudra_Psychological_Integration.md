@@ -15,9 +15,9 @@ intent_queries:
   - "大手印心理整合专业内容体系的自助方法"
 trigger_keywords: ["assessment", "body", "buddhism", "death"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "buddhism/emotion/meditation"
   - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
     relation: "buddhism/death/emotion"

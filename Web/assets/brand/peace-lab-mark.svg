@@ -1,0 +1,162 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Peace Lab — Cognitive Topology mark">
+  <title>Peace Lab — Cognitive Topology</title>
+  <desc>Pentagonal cognitive topology: golden-ratio nested circles, outward petal Bezier blooms, inscribed pentagram skeleton, hexagonal core, scattered field stars, and a single magenta singularity. Academic dark container, grid, registration marks, mono notations.</desc>
+  <defs>
+    <linearGradient id="mBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0f1c"/>
+      <stop offset="100%" stop-color="#0d1426"/>
+    </linearGradient>
+    <pattern id="mGrid" x="0" y="0" width="16" height="16" patternUnits="userSpaceOnUse">
+      <path d="M 16 0 L 0 0 0 16" fill="none" stroke="#1a2238" stroke-width="0.6"/>
+    </pattern>
+    <radialGradient id="mCoreGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#a5f3fc" stop-opacity="0.45"/>
+      <stop offset="55%" stop-color="#22d3ee" stop-opacity="0.14"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mNodeGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#a5f3fc" stop-opacity="0.55"/>
+      <stop offset="60%" stop-color="#22d3ee" stop-opacity="0.20"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="mPinkGlow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%"  stop-color="#f9a8d4" stop-opacity="0.85"/>
+      <stop offset="55%" stop-color="#f472b6" stop-opacity="0.35"/>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"/>
+    </radialGradient>
+    <linearGradient id="mPetal" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%"  stop-color="#22d3ee" stop-opacity="0.92"/>
+      <stop offset="100%" stop-color="#5eead4" stop-opacity="0.85"/>
+    </linearGradient>
+    <linearGradient id="mStar" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%"  stop-color="#5eead4" stop-opacity="0.42"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.22"/>
+    </linearGradient>
+    <clipPath id="mCard">
+      <rect width="512" height="512" rx="72"/>
+    </clipPath>
+  </defs>
+
+  <!-- 容器 -->
+  <rect width="512" height="512" rx="72" fill="url(#mBg)"/>
+  <rect width="512" height="512" rx="72" fill="url(#mGrid)" opacity="0.55"/>
+  <rect x="0.5" y="0.5" width="511" height="511" rx="71.5" fill="none" stroke="#22d3ee" stroke-opacity="0.22" stroke-width="1"/>
+
+  <g clip-path="url(#mCard)">
+
+    <!-- 四角校准标 -->
+    <g stroke="#22d3ee" stroke-opacity="0.45" stroke-width="1" fill="none">
+      <path d="M 28 44 L 28 28 L 44 28"/>
+      <path d="M 484 28 L 468 28 L 468 44"/>
+      <path d="M 28 468 L 28 484 L 44 484"/>
+      <path d="M 484 484 L 484 468 L 468 468"/>
+    </g>
+
+    <!-- 顶部 mono 注释 -->
+    <text x="60" y="46" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="11" font-weight="600" fill="#22d3ee" fill-opacity="0.75" letter-spacing="2">FIG.01 — COGNITIVE TOPOLOGY</text>
+    <text x="452" y="46" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="11" font-weight="600" fill="#22d3ee" fill-opacity="0.55" letter-spacing="2" text-anchor="end">v.∞</text>
+
+    <!-- 底部 mono 注释 -->
+    <text x="60" y="478" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="11" font-weight="600" fill="#22d3ee" fill-opacity="0.55" letter-spacing="2">φ = 0.618</text>
+    <text x="256" y="478" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="11" font-weight="600" fill="#22d3ee" fill-opacity="0.55" letter-spacing="2" text-anchor="middle">n = 5</text>
+    <text x="452" y="478" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="11" font-weight="600" fill="#22d3ee" fill-opacity="0.55" letter-spacing="2" text-anchor="end">PEACE / LAB</text>
+
+    <!-- 中心辉光底盘 -->
+    <circle cx="256" cy="256" r="190" fill="url(#mCoreGlow)"/>
+
+    <!-- 背景星点（field stars，散布于内外圈之间） -->
+    <g fill="#a5f3fc">
+      <circle cx="138"  cy="118" r="1.2" fill-opacity="0.65"/>
+      <circle cx="382"  cy="78"  r="1.5" fill-opacity="0.80"/>
+      <circle cx="448"  cy="164" r="1.0" fill-opacity="0.55"/>
+      <circle cx="430"  cy="346" r="1.3" fill-opacity="0.70"/>
+      <circle cx="222"  cy="446" r="1.0" fill-opacity="0.55"/>
+      <circle cx="86"   cy="392" r="1.4" fill-opacity="0.75"/>
+      <circle cx="56"   cy="248" r="1.0" fill-opacity="0.55"/>
+      <circle cx="74"   cy="156" r="1.2" fill-opacity="0.65"/>
+      <circle cx="356"  cy="448" r="0.9" fill-opacity="0.50"/>
+    </g>
+
+    <!-- 同心律动圆环（黄金比例嵌套） -->
+    <circle cx="256" cy="256" r="200"  fill="none" stroke="#22d3ee" stroke-opacity="0.10" stroke-width="1"/>
+    <circle cx="256" cy="256" r="160"  fill="none" stroke="#22d3ee" stroke-opacity="0.55" stroke-width="2"/>
+    <circle cx="256" cy="256" r="128"  fill="none" stroke="#5eead4" stroke-opacity="0.22" stroke-width="1" stroke-dasharray="1 5"/>
+    <circle cx="256" cy="256" r="98.8" fill="none" stroke="#22d3ee" stroke-opacity="0.18" stroke-width="1"/>
+    <circle cx="256" cy="256" r="61"   fill="none" stroke="#5eead4" stroke-opacity="0.28" stroke-width="1" stroke-dasharray="2 4"/>
+
+    <!-- 内嵌五角星骨架（连接跨2节点 0→2→4→1→3→0，极淡 cyan） -->
+    <path d="M 256 96 L 350.0 385.4 L 103.8 206.6 L 408.2 206.6 L 162.0 385.4 Z"
+          fill="none" stroke="url(#mStar)" stroke-width="1" stroke-linejoin="round" stroke-opacity="0.85"/>
+
+    <!-- 五瓣外凸 Bezier 花瓣（控制点 r=220 沿节点中点径向外延伸，形成花瓣外凸形态） -->
+    <g fill="none" stroke="url(#mPetal)" stroke-width="1.8" stroke-linecap="round">
+      <path d="M 256 96     Q 385.3 78  408.2 206.6"/>
+      <path d="M 408.2 206.6 Q 465.2 324 350.0 385.4"/>
+      <path d="M 350.0 385.4 Q 256 476  162.0 385.4"/>
+      <path d="M 162.0 385.4 Q 46.8 324 103.8 206.6"/>
+      <path d="M 103.8 206.6 Q 126.7 78 256 96"/>
+    </g>
+
+    <!-- 内层节点（黄金比 r=98.8，旋转 36°）：极小蓝紫呼应点 -->
+    <g fill="#a5f3fc" fill-opacity="0.65">
+      <circle cx="314.1" cy="176.1" r="1.8"/>
+      <circle cx="350.0" cy="286.5" r="1.8"/>
+      <circle cx="256.0" cy="354.8" r="1.8"/>
+      <circle cx="162.0" cy="286.5" r="1.8"/>
+      <circle cx="197.9" cy="176.1" r="1.8"/>
+    </g>
+
+    <!-- 五节点（外层 r=160）：4 cyan + 1 magenta，每节点 = 外辉光 + 实心核 + 内白高光 -->
+    <!-- N0 顶 -->
+    <g>
+      <circle cx="256" cy="96" r="22" fill="url(#mNodeGlow)"/>
+      <circle cx="256" cy="96" r="9.5" fill="#5eead4"/>
+      <circle cx="256" cy="96" r="9.5" fill="none" stroke="#a5f3fc" stroke-width="1.4"/>
+      <circle cx="256" cy="96" r="3" fill="#f0fdfa"/>
+    </g>
+    <!-- N2 右下 -->
+    <g>
+      <circle cx="350.0" cy="385.4" r="22" fill="url(#mNodeGlow)"/>
+      <circle cx="350.0" cy="385.4" r="9.5" fill="#5eead4"/>
+      <circle cx="350.0" cy="385.4" r="9.5" fill="none" stroke="#a5f3fc" stroke-width="1.4"/>
+      <circle cx="350.0" cy="385.4" r="3" fill="#f0fdfa"/>
+    </g>
+    <!-- N3 左下 -->
+    <g>
+      <circle cx="162.0" cy="385.4" r="22" fill="url(#mNodeGlow)"/>
+      <circle cx="162.0" cy="385.4" r="9.5" fill="#5eead4"/>
+      <circle cx="162.0" cy="385.4" r="9.5" fill="none" stroke="#a5f3fc" stroke-width="1.4"/>
+      <circle cx="162.0" cy="385.4" r="3" fill="#f0fdfa"/>
+    </g>
+    <!-- N4 左上 -->
+    <g>
+      <circle cx="103.8" cy="206.6" r="22" fill="url(#mNodeGlow)"/>
+      <circle cx="103.8" cy="206.6" r="9.5" fill="#5eead4"/>
+      <circle cx="103.8" cy="206.6" r="9.5" fill="none" stroke="#a5f3fc" stroke-width="1.4"/>
+      <circle cx="103.8" cy="206.6" r="3" fill="#f0fdfa"/>
+    </g>
+
+    <!-- N1 右上 = magenta 奇点：极淡指示线 + 三层辉光 + 标注 -->
+    <line x1="256" y1="256" x2="408.2" y2="206.6" stroke="#f472b6" stroke-width="1" stroke-opacity="0.55" stroke-dasharray="2 4"/>
+    <circle cx="408.2" cy="206.6" r="36" fill="url(#mPinkGlow)"/>
+    <circle cx="408.2" cy="206.6" r="11" fill="#f472b6"/>
+    <circle cx="408.2" cy="206.6" r="11" fill="none" stroke="#fbcfe8" stroke-width="1.4"/>
+    <circle cx="408.2" cy="206.6" r="3.4" fill="#fdf2f8"/>
+    <text x="430" y="200" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="9" font-weight="700" fill="#f472b6" letter-spacing="1.5">SINGULARITY</text>
+    <text x="430" y="214" font-family="ui-monospace,'JetBrains Mono','Menlo',monospace"
+          font-size="9" font-weight="500" fill="#f472b6" fill-opacity="0.75" letter-spacing="1.5">x = 0.618</text>
+
+    <!-- 中心几何核：六边形 + 同心环 + 中心点 -->
+    <circle cx="256" cy="256" r="22" fill="none" stroke="#5eead4" stroke-width="1" stroke-opacity="0.40" stroke-dasharray="2 3"/>
+    <polygon points="268,256 262,245.61 250,245.61 244,256 250,266.39 262,266.39"
+             fill="none" stroke="#a5f3fc" stroke-width="1.2" stroke-opacity="0.85" stroke-linejoin="round"/>
+    <circle cx="256" cy="256" r="2.4" fill="#f8fafc"/>
+
+  </g>
+</svg>

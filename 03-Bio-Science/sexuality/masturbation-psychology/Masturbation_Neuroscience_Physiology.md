@@ -14,11 +14,11 @@ intent_queries:
   - "Neuroscience and Physiology of Masturbation的方法与实践"
 trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "anxiety/cardiovascular/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Neuroscience_Biology.md"
     relation: "anxiety/cardiovascular/emotion"

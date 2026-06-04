@@ -16,9 +16,9 @@ trigger_keywords: ["body", "brain", "clinical", "cognitive"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Essential_Oils.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Essential_Oils.md"
     relation: "anxiety/cardiovascular/death"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "anxiety/cardiovascular/neuroscience"

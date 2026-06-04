@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/death/depression"
   - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
     relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "communication/death/depression"
 
 ---

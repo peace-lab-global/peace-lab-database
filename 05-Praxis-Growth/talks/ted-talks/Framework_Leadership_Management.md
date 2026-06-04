@@ -14,7 +14,7 @@ intent_queries:
   - "领导力与管理 | Leadership & Management的方法与实践"
 trigger_keywords: ["领导力与管理", "act", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
     relation: "anxiety/cardiovascular/communication"

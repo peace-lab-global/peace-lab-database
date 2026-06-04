@@ -14,7 +14,7 @@ intent_queries:
   - "肖邦《前奏曲》聆听鉴赏完全指南的方法与实践"
 trigger_keywords: ["art", "body", "brain", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/emotion"
   - path: "README.md"
     relation: "art_therapy/communication/emotion"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/communication/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/meditation"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/meditation"
 
 ---

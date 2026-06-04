@@ -14,15 +14,15 @@ intent_queries:
   - "古希腊哲学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["古希腊哲学经典", "佛法视角三方书评", "body", "buddhism", "habits", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
     relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/productivity/sexuality"
 
 ---

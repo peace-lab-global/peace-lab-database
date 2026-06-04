@@ -16,7 +16,7 @@ trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "anxiety/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
     relation: "anxiety/communication/productivity"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
     relation: "anxiety/communication/productivity"

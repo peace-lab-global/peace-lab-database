@@ -16,9 +16,9 @@ trigger_keywords: ["心血管运动与营养", "anxiety", "assessment", "behavio
 cross_refs:
   - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
     relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
     relation: "anxiety/cardiovascular/communication"

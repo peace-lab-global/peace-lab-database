@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/emotion/sexuality"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ethics_Business_Professional.md"
+  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Ethics_Business_Professional.md"
     relation: "communication/emotion/sexuality"
 
 ---

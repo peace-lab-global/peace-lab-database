@@ -14,15 +14,15 @@ intent_queries:
   - "前列腺健康 | Prostate Health的方法与实践"
 trigger_keywords: ["前列腺健康", "anxiety", "assessment", "behavioral", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/depression/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Clinical_Case_Collection.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Clinical_Case_Collection.md"
     relation: "anxiety/depression/exercise"
 
 ---

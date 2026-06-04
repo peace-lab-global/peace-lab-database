@@ -18,11 +18,11 @@ cross_refs:
     relation: "buddhism/daoism/death"
   - path: "README.md"
     relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Dhyana_Samadhi_System.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md"
     relation: "buddhism/daoism/meditation"
 
 ---

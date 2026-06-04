@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/anxiety/emotion"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
     relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
 
 ---

@@ -14,15 +14,15 @@ intent_queries:
   - "内经四时养生 | Neijing Seasonal Health Cultivation的方法与实践"
 trigger_keywords: ["内经四时养生", "behavioral", "body", "breathwork", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Movement_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
     relation: "cardiovascular/depression/emotion"
 
 ---

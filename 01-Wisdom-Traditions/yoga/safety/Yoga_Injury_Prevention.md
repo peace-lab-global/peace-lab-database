@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽损伤预防（Yoga Injury Prevention）的方法与实践"
 trigger_keywords: ["act", "aging", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/communication/exercise"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
     relation: "aging/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/cardiovascular/exercise"
 
 ---

@@ -14,9 +14,9 @@ intent_queries:
   - "《占有还是存在》书评的方法与实践"
 trigger_keywords: ["《占有还是存在》书评", "behavioral", "body", "buddhism", "crisis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/communication"
   - path: "README.md"
     relation: "art_therapy/buddhism/communication"

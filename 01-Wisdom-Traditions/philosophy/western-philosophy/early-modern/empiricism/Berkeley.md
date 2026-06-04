@@ -16,13 +16,13 @@ trigger_keywords: ["乔治", "贝克莱", "behavioral", "cbt", "cognitive", "dev
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "neuroscience/sexuality/therapy"
 
 ---

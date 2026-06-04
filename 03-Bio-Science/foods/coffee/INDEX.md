@@ -22,7 +22,7 @@ cross_refs:
     relation: "meditation/neuroscience/nutrition"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
     relation: "meditation/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "meditation/neuroscience/nutrition"
 
 ---

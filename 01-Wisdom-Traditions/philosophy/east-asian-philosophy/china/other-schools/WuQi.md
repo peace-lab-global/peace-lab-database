@@ -14,15 +14,15 @@ intent_queries:
   - "吴起的方法与实践"
 trigger_keywords: ["吴起", "behavioral", "crisis", "developmental", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
     relation: "productivity/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "productivity/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "productivity/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "productivity/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/INDEX.md"
     relation: "productivity/sexuality/trauma"
 
 ---

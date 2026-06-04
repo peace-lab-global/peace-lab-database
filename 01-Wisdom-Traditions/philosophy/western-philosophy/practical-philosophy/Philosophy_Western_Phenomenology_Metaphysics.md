@@ -20,7 +20,7 @@ cross_refs:
     relation: "anxiety/death/depression"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/death/depression"
   - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
     relation: "anxiety/death/depression"

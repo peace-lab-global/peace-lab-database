@@ -17,13 +17,13 @@ trigger_keywords: ["日记写作核心理论", "act", "anxiety", "behavioral", "
 cross_refs:
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
     relation: "anxiety/communication/emotion"
 
 ---

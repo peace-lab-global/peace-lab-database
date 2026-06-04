@@ -14,15 +14,15 @@ intent_queries:
   - "越南儒学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["越南儒学经典", "佛法视角三方书评", "behavioral", "breathwork", "buddhism", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/ancient-buddhist/Dogen.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Dogen.md"
     relation: "buddhism/communication/exercise"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/therapy/game-therapy/Game_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
     relation: "aging/anxiety/buddhism"
 
 ---

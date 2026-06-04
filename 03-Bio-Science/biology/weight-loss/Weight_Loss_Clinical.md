@@ -14,7 +14,7 @@ intent_queries:
   - "Weight Loss Clinical Applications & Special Populations的方法与实践"
 trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "aging/anxiety/cardiovascular"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/anxiety/cardiovascular"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md"
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
     relation: "aging/anxiety/cardiovascular"
 
 ---

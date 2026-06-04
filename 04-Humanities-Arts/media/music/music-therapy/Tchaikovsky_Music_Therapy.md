@@ -20,7 +20,7 @@ cross_refs:
     relation: "attachment/communication/death"
   - path: "README.md"
     relation: "art_therapy/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "communication/death/depression"
   - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
     relation: "attachment/communication/death"

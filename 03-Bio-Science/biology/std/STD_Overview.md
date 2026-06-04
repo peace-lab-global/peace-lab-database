@@ -14,13 +14,13 @@ intent_queries:
   - "Sexually Transmitted Diseases Overview的方法与实践"
 trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "death/immune/sexuality"
   - path: "02-Mind-Psychology/psychology/social/loneliness/visualization/Loneliness_Chronic_Disease_Integration.md"
     relation: "death/immune/sexuality"
   - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
     relation: "death/immune/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "death/immune/sexuality"
   - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
     relation: "death/immune/sexuality"

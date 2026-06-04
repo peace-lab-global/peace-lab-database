@@ -14,7 +14,7 @@ intent_queries:
   - "《星球大战之法》The Dharma of Star Wars的方法与实践"
 trigger_keywords: ["buddhism", "cinema", "daoism", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/buddhism"
   - path: "README.md"
     relation: "anxiety/art_therapy/buddhism"

@@ -20,9 +20,9 @@ cross_refs:
     relation: "aging/exercise/neuroscience"
   - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
     relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Advanced_Kriya_Kundalini.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
     relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/exercise/neuroscience"
 
 ---

@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/communication/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
     relation: "anxiety/communication/depression"
 
 ---

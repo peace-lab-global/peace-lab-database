@@ -16,7 +16,7 @@ trigger_keywords: ["汉传佛教盂兰盆会仪轨", "act", "anxiety", "behavior
 cross_refs:
   - path: "README.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/buddhism/death"
   - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
     relation: "anxiety/attachment/buddhism"

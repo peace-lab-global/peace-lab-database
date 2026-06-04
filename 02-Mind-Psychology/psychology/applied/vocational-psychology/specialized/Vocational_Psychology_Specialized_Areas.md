@@ -17,7 +17,7 @@ trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "anxiety/communication/neuroscience"
   - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
     relation: "anxiety/communication/neuroscience"

@@ -14,9 +14,9 @@ intent_queries:
   - "《局外人》The Outsider的方法与实践"
 trigger_keywords: ["art", "buddhism", "literature", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/emotion"
   - path: "README.md"
     relation: "art_therapy/buddhism/emotion"

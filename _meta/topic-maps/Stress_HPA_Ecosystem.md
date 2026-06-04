@@ -41,18 +41,18 @@ graph TB
 | PNI 心理神经免疫 | `03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md` | 03 |
 | 慢性炎症 | `03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md` | 03 |
 | 肠道菌群 | `03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md` | 03 |
-| MBSR 正念减压 | `02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md` | 02 |
+| MBSR 正念减压 | `02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md` | 02 |
 | 呼吸法 | `03-Bio-Science/biology/breathwork/` | 03 |
 | 太极拳 | `01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md` | 01 |
-| 瑜伽 | `01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md` | 01 |
+| 瑜伽 | `01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md` | 01 |
 | 运动 | `03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md` | 03 |
 | HRV训练 | `03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md` | 03 |
 | 焦虑障碍 | `02-Mind-Psychology/psychology/clinical/anxiety/` | 02 |
 | 抑郁障碍 | `02-Mind-Psychology/psychology/clinical/depression/` | 02 |
 | 职业倦怠 | `02-Mind-Psychology/psychology/applied/occupational-burnout/` | 02 |
 | 心力成长 | `05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md` | 05 |
-| 声音疗愈 | `02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md` | 02 |
-| 脑波引导 | `02-Mind-Psychology/therapy/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| 声音疗愈 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 脑波引导 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
 
 ## 相关学习路径
 

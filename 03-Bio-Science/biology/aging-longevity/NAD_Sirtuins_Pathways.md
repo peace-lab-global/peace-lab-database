@@ -16,7 +16,7 @@ trigger_keywords: ["NAD+", "Sirtuins", "mTOR", "act", "aging", "assessment"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/exercise/immune"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/exercise/immune"
   - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
     relation: "aging/exercise/immune"

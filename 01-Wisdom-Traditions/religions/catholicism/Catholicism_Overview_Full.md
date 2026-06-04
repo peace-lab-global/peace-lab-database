@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/death"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Terminology_Standards.md"
     relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "anxiety/attachment/death"
 
 ---

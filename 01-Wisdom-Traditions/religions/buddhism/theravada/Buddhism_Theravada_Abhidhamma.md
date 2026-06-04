@@ -14,15 +14,15 @@ intent_queries:
   - "南传佛教与阿毗达摩的方法与实践"
 trigger_keywords: ["南传佛教与阿毗达摩", "act", "addiction", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Pema_Chodron.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Pema_Chodron.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
     relation: "anxiety/attachment/buddhism"
 
 ---

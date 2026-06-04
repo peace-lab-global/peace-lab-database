@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽纪录片完整指南 | Yoga Documentary Guide的方法与实践"
 trigger_keywords: ["瑜伽纪录片完整指南", "art", "body", "breathwork", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
     relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/exercise/stress"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
     relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_SPA_Bodywork.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_SPA_Bodywork.md"
     relation: "cardiovascular/exercise/stress"
 
 ---
@@ -58,7 +58,7 @@ cross_refs:
 - 展现瑜伽作为活态传承的历史脉络
 - 对"瑜伽只是体操"的偏见的深度纠正
 
-> **关联知识**：[克里希那马查亚](../masters/modern-pioneers/Krishnamacharya.md) · [B.K.S. 艾扬格](../masters/contemporary/BKS_Iyengar.md) · [帕塔比·乔伊斯](../masters/contemporary/Pattabhi_Jois.md) · [瑜伽历史与传统](../Yoga_History_Tradition.md)
+> **关联知识**：[克里希那马查亚](../masters/modern-pioneers/Krishnamacharya.md) · [B.K.S. 艾扬格](../masters/contemporary/BKS_Iyengar.md) · [帕塔比·乔伊斯](../masters/contemporary/Pattabhi_Jois.md) · [瑜伽历史与传统](../philosophy-history/Yoga_History_Tradition.md)
 
 ---
 
@@ -84,7 +84,7 @@ cross_refs:
 
 **适合人群**：想系统了解瑜伽5000年历史的学习者
 
-> **关联知识**：[瑜伽历史与传统](../Yoga_History_Tradition.md) · [瑜伽哲学](../Yoga_Philosophy.md) · [帕坦伽利](../masters/ancient/Patanjali.md) · [辨喜](../masters/pre-modern/Vivekananda.md)
+> **关联知识**：[瑜伽历史与传统](../philosophy-history/Yoga_History_Tradition.md) · [瑜伽哲学](../philosophy-history/Yoga_Philosophy.md) · [帕坦伽利](../masters/ancient/Patanjali.md) · [辨喜](../masters/pre-modern/Vivekananda.md)
 
 ---
 
@@ -114,7 +114,7 @@ cross_refs:
 - 探讨东方智慧与西方科学的对话可能性
 - 对自我实现(Self-Realization)概念的深入探索
 
-> **关联知识**：[尤迦南达](../masters/modern-pioneers/Yogananda.md) · [瑜伽哲学](../Yoga_Philosophy.md) · [昆达里尼与高级修炼](../Yoga_Advanced_Kriya_Kundalini.md)
+> **关联知识**：[尤迦南达](../masters/modern-pioneers/Yogananda.md) · [瑜伽哲学](../philosophy-history/Yoga_Philosophy.md) · [昆达里尼与高级修炼](../meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md)
 
 ---
 
@@ -135,7 +135,7 @@ cross_refs:
 
 **搜索建议**：搜索 "Iyengar documentary" "艾扬格纪录片"
 
-> **关联知识**：[B.K.S. 艾扬格](../masters/contemporary/BKS_Iyengar.md) · [瑜伽治疗](../Yoga_Therapy.md) · [现代瑜伽流派](../Yoga_Modern_Styles.md)
+> **关联知识**：[B.K.S. 艾扬格](../masters/contemporary/BKS_Iyengar.md) · [瑜伽治疗](../therapy-clinical/Yoga_Therapy.md) · [现代瑜伽流派](../modern-professional/Yoga_Modern_Styles.md)
 
 ---
 
@@ -163,7 +163,7 @@ cross_refs:
 - 印度圣地的壮丽景观
 - 将瑜伽的美学与精神性完美融合
 
-> **关联知识**：[瑜伽哲学](../Yoga_Philosophy.md) · [瑜伽历史与传统](../Yoga_History_Tradition.md)
+> **关联知识**：[瑜伽哲学](../philosophy-history/Yoga_Philosophy.md) · [瑜伽历史与传统](../philosophy-history/Yoga_History_Tradition.md)
 
 ---
 
@@ -184,7 +184,7 @@ cross_refs:
 - 瑜伽对心理健康的影响机制
 - 现代科学如何验证古老实践
 
-> **关联知识**：[瑜伽神经科学与现代研究](../Yoga_Neuroscience_Modern_Research.md) · [瑜伽解剖学与生理学](../Yoga_Anatomy_Physiology.md)
+> **关联知识**：[瑜伽神经科学与现代研究](../anatomy-science/Yoga_Neuroscience_Modern_Research.md) · [瑜伽解剖学与生理学](../anatomy-science/Yoga_Anatomy_Physiology.md)
 
 ---
 
@@ -219,7 +219,7 @@ cross_refs:
 
 > ⚠️ **注意**：此片涉及性侵话题，观看时注意自我照顾
 
-> **关联知识**：[Bikram Choudhury](../masters/industry-leaders/Bikram_Choudhury.md) · [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md) · [瑜伽安全](../safety/)
+> **关联知识**：[Bikram Choudhury](../masters/industry-leaders/Bikram_Choudhury.md) · [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md) · [瑜伽安全](../safety/)
 
 ---
 
@@ -239,7 +239,7 @@ cross_refs:
 
 **搜索关键词**：Yoga Inc, yoga industry documentary, 瑜伽产业纪录片
 
-> **关联知识**：[瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md) · [瑜伽与科技](../Yoga_Technology_Digital.md)
+> **关联知识**：[瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md) · [瑜伽与科技](../modern-professional/Yoga_Technology_Digital.md)
 
 ---
 
@@ -258,7 +258,7 @@ cross_refs:
 - 瑜伽在退伍军人事务部(VA)的项目
 - 身体练习与心理疗愈的连接
 
-> **关联知识**：[瑜伽心理健康临床应用](../Yoga_Mental_Health_Clinical.md) · [瑜伽治疗](../Yoga_Therapy.md) · [特殊人群瑜伽](../Yoga_Specific_Populations.md)
+> **关联知识**：[瑜伽心理健康临床应用](../therapy-clinical/Yoga_Mental_Health_Clinical.md) · [瑜伽治疗](../therapy-clinical/Yoga_Therapy.md) · [特殊人群瑜伽](../specific-populations/Yoga_Specific_Populations.md)
 
 ---
 
@@ -275,7 +275,7 @@ cross_refs:
 - 瑜伽作为康复工具在刑事司法系统中的角色
 - 与冥想纪录片《Dhamma Brothers》《Doing Time, Doing Vipassana》形成互补
 
-> **关联知识**：[瑜伽心理疗愈原则](../Yoga_Psychological_Healing_Principles.md) · [冥想纪录片指南](../../../02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md)
+> **关联知识**：[瑜伽心理疗愈原则](../therapy-clinical/Yoga_Psychological_Healing_Principles.md) · [冥想纪录片指南](../../../02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md)
 
 ---
 
@@ -334,17 +334,17 @@ Bikram 瑜伽 Netflix / 热瑜伽 纪录片
 
 ### 瑜伽知识库相关主题
 
-- [瑜伽历史与传统](../Yoga_History_Tradition.md) — 瑜伽5000年发展史
-- [瑜伽哲学](../Yoga_Philosophy.md) — 瑜伽核心哲学体系
-- [现代瑜伽流派](../Yoga_Modern_Styles.md) — 当代流派对比
-- [瑜伽神经科学](../Yoga_Neuroscience_Modern_Research.md) — 科学研究综述
-- [瑜伽治疗](../Yoga_Therapy.md) — 临床治疗应用
-- [瑜伽伦理与专业](../Yoga_Ethics_Business_Professional.md) — 行业伦理与反思
+- [瑜伽历史与传统](../philosophy-history/Yoga_History_Tradition.md) — 瑜伽5000年发展史
+- [瑜伽哲学](../philosophy-history/Yoga_Philosophy.md) — 瑜伽核心哲学体系
+- [现代瑜伽流派](../modern-professional/Yoga_Modern_Styles.md) — 当代流派对比
+- [瑜伽神经科学](../anatomy-science/Yoga_Neuroscience_Modern_Research.md) — 科学研究综述
+- [瑜伽治疗](../therapy-clinical/Yoga_Therapy.md) — 临床治疗应用
+- [瑜伽伦理与专业](../modern-professional/Yoga_Ethics_Business_Professional.md) — 行业伦理与反思
 - [瑜伽大师人物档案](../masters/INDEX.md) — 关键人物传记
 
 ### 冥想相关纪录片
 
-- [冥想纪录片指南](../../../02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md)
+- [冥想纪录片指南](../../../02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md)
 
 ### 电影疗法
 

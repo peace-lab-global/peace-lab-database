@@ -7,10 +7,11 @@ DOCS_DIR = os.path.join(SCRIPT_DIR, 'docs')
 SKIP = {
     '.git', '.venv', 'node_modules', '__pycache__', 'site',
     'Visualization', '.claude', '.codebuddy', '.qoder', '.trae',
-    'Tools', 'Project', '_meta', 'Web', '.DS_Store',
+    'Tools', 'Project', '_meta', 'Web', 'docs', '.DS_Store',
 }
 
-MD_FILES = {'README.md', 'TAXONOMY.md', 'GLOSSARY.md', 'CONTRIBUTING.md'}
+# 需要从 docs/ 子目录符号链接的项目级文档
+DOCS_SUBDIR_FILES = {'TAXONOMY.md', 'GLOSSARY.md', 'CONTRIBUTING.md'}
 
 os.makedirs(DOCS_DIR, exist_ok=True)
 
@@ -28,10 +29,24 @@ for name in sorted(os.listdir(REPO_ROOT)):
         rel = os.path.relpath(src, DOCS_DIR)
         os.symlink(rel, dst)
         print(f"  linked dir: {name}")
-    elif name in MD_FILES:
+
+# README.md 保持从仓库根目录链接
+for name in ['README.md']:
+    src = os.path.join(REPO_ROOT, name)
+    dst = os.path.join(DOCS_DIR, name)
+    if os.path.exists(src) and not os.path.lexists(dst):
         rel = os.path.relpath(src, DOCS_DIR)
         os.symlink(rel, dst)
         print(f"  linked file: {name}")
+
+# TAXONOMY.md / GLOSSARY.md / CONTRIBUTING.md 从 docs/ 子目录链接
+for name in sorted(DOCS_SUBDIR_FILES):
+    src = os.path.join(REPO_ROOT, 'docs', name)
+    dst = os.path.join(DOCS_DIR, name)
+    if os.path.exists(src) and not os.path.lexists(dst):
+        rel = os.path.relpath(src, DOCS_DIR)
+        os.symlink(rel, dst)
+        print(f"  linked file: docs/{name}")
 
 index_src = os.path.join(SCRIPT_DIR, '..', 'landing.md')
 index_dst = os.path.join(DOCS_DIR, 'index.md')

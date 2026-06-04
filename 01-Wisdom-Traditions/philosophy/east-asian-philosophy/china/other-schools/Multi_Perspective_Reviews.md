@@ -14,15 +14,15 @@ intent_queries:
   - "先秦诸子百家三方书评的方法与实践"
 trigger_keywords: ["先秦诸子百家三方书评", "behavioral", "cognitive", "daoism", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C2-2-effects-of-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-2-effects-of-meditation.md"
     relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C4-1-more-keyword-of-samatha-stillness.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-1-more-keyword-of-samatha-stillness.md"
     relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
     relation: "daoism/emotion/productivity"
 
 ---

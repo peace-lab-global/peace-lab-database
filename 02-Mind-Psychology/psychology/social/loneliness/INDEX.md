@@ -16,9 +16,9 @@ trigger_keywords: ["loneliness", "adolescent", "aging", "assessment", "attachmen
 cross_refs:
   - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
     relation: "aging/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/immune"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "aging/communication/immune"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "aging/cardiovascular/communication"

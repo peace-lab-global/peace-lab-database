@@ -21,9 +21,9 @@ cross_refs:
     relation: "anxiety/death/depression"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
     relation: "anxiety/death/depression"
 
 ---

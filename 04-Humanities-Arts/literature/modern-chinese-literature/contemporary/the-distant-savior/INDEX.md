@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/buddhism/daoism"
   - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/daoism"
 
 ---

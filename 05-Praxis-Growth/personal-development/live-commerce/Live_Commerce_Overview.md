@@ -20,9 +20,9 @@ cross_refs:
     relation: "communication/emotion/productivity"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/emotion/productivity"
 
 ---

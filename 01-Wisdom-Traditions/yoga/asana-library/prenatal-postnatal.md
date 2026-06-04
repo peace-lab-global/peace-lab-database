@@ -14,11 +14,11 @@ intent_queries:
   - "Prenatal & Postnatal Yoga 孕产期体式的方法与实践"
 trigger_keywords: ["breathwork", "exercise", "habits", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
     relation: "cardiovascular/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "cardiovascular/exercise/productivity"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
     relation: "cardiovascular/exercise/productivity"

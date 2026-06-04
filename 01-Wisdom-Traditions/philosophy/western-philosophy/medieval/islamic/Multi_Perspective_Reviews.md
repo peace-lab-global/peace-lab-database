@@ -14,15 +14,15 @@ intent_queries:
   - "伊斯兰哲学经典三方书评的方法与实践"
 trigger_keywords: ["behavioral", "body", "crisis", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Jack_Kornfield.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
     relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
     relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Branding_Marketing.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Branding_Marketing.md"
     relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "exercise/productivity/sexuality"
 
 ---

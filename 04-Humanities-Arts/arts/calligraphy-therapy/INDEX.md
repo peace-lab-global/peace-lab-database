@@ -14,11 +14,11 @@ intent_queries:
   - "书法疗愈 INDEX | Calligraphy Therapy的方法与实践"
 trigger_keywords: ["书法疗愈 INDEX", "act", "act-therapy", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/depression"
@@ -62,15 +62,15 @@ cross_refs:
 | 关联方向 | 目标文件 | 关联说明 |
 |----------|---------|----------|
 | → 正念冥想 | [../../02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 书法与正念的深度融合——正念书法 (Mindful Calligraphy) |
-| → 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 多感官整合疗愈——视觉+触觉+嗅觉(墨香) |
+| → 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 多感官整合疗愈——视觉+触觉+嗅觉(墨香) |
 | → 心流理论 | [../../02-Mind-Psychology/psychology/](../../../02-Mind-Psychology/psychology/) | 书法作为心流诱发活动的心理学基础 |
 | → 大脑科学 | [../../03-Bio-Science/biology/brain/](../../../03-Bio-Science/biology/brain/) | 书法激活的脑区与神经可塑性 |
 | → 认知衰老 | [../../03-Bio-Science/biology/aging-longevity/](../../../03-Bio-Science/biology/aging-longevity/) | 书法在痴呆预防中的作用 |
 | → HPA轴 | [../../03-Bio-Science/biology/hpa-axis/](../../../03-Bio-Science/biology/hpa-axis/) | 书法降低皮质醇的HPA轴机制 |
 | → 禅宗 | [../../01-Wisdom-Traditions/religions/zen/](../../../01-Wisdom-Traditions/religions/zen/) | 书道即禅——禅宗美学与书法修行 |
 | → 道家 | [../../01-Wisdom-Traditions/religions/dao/](../../../01-Wisdom-Traditions/religions/dao/) | 书法中的"气"——道家养生哲学 |
-| → ACT疗法 | [../../02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) | 书法作为ACT的体验性练习 |
-| → 森林疗愈 | [../../02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 户外书法——自然+书写联合疗愈 |
+| → ACT疗法 | [../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) | 书法作为ACT的体验性练习 |
+| → 森林疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 户外书法——自然+书写联合疗愈 |
 
 ---
 

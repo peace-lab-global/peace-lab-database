@@ -14,11 +14,11 @@ intent_queries:
   - "衰老与长寿科学 INDEX | Aging & Longevity Science的方法与实践"
 trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/exercise"
   - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
     relation: "aging/anxiety/exercise"

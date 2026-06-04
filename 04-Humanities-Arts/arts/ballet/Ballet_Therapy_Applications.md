@@ -15,9 +15,9 @@ intent_queries:
   - "芭蕾舞治疗应用体系的循证证据"
 trigger_keywords: ["芭蕾舞治疗应用体系", "adolescent", "aging", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/communication"
@@ -267,6 +267,6 @@ cross_refs:
 |---------|---------|------|--------|
 | 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 舞动与身体导向创伤治疗的整合 |
 | 运动与心理健康 | 03-生命科学 | [运动心理](../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 芞蕾作为身心运动的神经科学基础 |
-| 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md) | 身体形式与心理干预的互补路径 |
+| 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md) | 身体形式与心理干预的互补路径 |
 | 疼痛科学 | 03-生命科学 | [疼痛概览](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 舞蹈运动对慢性疼痛的干预机制 |
 | 正念身心整合 | 05-实践增长 | [身心整合路径](../../../_meta/learning-paths/Body_Mind_Integration_Path.md) | 芞蕾在身心整合学习中的定位 |

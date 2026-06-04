@@ -15,15 +15,15 @@ intent_queries:
   - "心理神经免疫学的自助方法"
 trigger_keywords: ["心理神经免疫学", "aging", "anxiety", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/emotion"
 
 ---
@@ -251,7 +251,7 @@ Steve Cole 的 CTRA (Conserved Transcriptional Response to Adversity) 模型：
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | MBSR对免疫标志物的调节证据 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | MBSR对免疫标志物的调节证据 |
 | 抑郁症 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 炎症-抑郁双向通路 |
 | 道家养生 | 01-智慧传承 | [养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 传统养生对免疫功能的影响 |
 | HPA轴 | 03-生命科学 | [HPA轴](../hpa-axis/HPA_Axis_Overview.md) | 压力-免疫轴的神经内分泌机制 |

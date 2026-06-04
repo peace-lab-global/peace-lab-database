@@ -14,7 +14,7 @@ intent_queries:
   - "《反叛者》The Rebel的方法与实践"
 trigger_keywords: ["death", "philosophy", "sexuality", "social"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/death/sexuality"
   - path: "README.md"
     relation: "art_therapy/death/sexuality"

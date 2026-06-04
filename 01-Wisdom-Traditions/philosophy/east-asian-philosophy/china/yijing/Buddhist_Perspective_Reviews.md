@@ -14,13 +14,13 @@ intent_queries:
   - "《易经》· 佛法视角三方书评的方法与实践"
 trigger_keywords: ["《易经》", "佛法视角三方书评", "behavioral", "buddhism", "developmental", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Jiang_Weiqiao.md"
     relation: "buddhism/communication/daoism"
   - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
     relation: "buddhism/communication/daoism"

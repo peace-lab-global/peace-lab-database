@@ -15,15 +15,15 @@ intent_queries:
   - "SPA心理放松机制专业内容体系的自助方法"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
     relation: "aging/anxiety/emotion"
   - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
     relation: "aging/anxiety/emotion"
 
 ---

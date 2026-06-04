@@ -14,9 +14,9 @@ intent_queries:
   - "书法疗愈总览 | Calligraphy Therapy Overview的方法与实践"
 trigger_keywords: ["书法疗愈总览", "act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
     relation: "aging/anxiety/buddhism"
@@ -192,7 +192,7 @@ cross_refs:
 | 书法疗愈临床应用 | [Calligraphy_Clinical_Applications.md](./Calligraphy_Clinical_Applications.md) |
 | 正念冥想 | [../../02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) |
 | 心流理论 | [../../02-Mind-Psychology/psychology/](../../../02-Mind-Psychology/psychology/) |
-| 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) |
+| 感官疗愈 | [../../02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
 | 瑜伽 | [../../01-Wisdom-Traditions/yoga/](../../../01-Wisdom-Traditions/yoga/) |
 | 禅宗 | [../../01-Wisdom-Traditions/religions/zen/](../../../01-Wisdom-Traditions/religions/zen/) |
 
@@ -215,6 +215,6 @@ cross_refs:
 |---------|---------|------|--------|
 | 禅宗审美文化 | 01-智慧传承 | [禅宗审美](../../../01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md) | 书法中的禅意与东方美学 |
 | 认知衰老预防 | 03-生命科学 | [认知衰老](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) | 书法练习对老年认知功能的保护 |
-| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md) | 书法作为正念练习的载体 |
+| 正念减压(MBSR) | 02-心理学 | [MBSR](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 书法作为正念练习的载体 |
 | 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 书写动作与身体觉察的整合 |
 | 智慧老化路径 | 学习路径 | [老化路径](../../../_meta/learning-paths/Aging_Wisdom_Path.md) | 书法在智慧老化学习中的定位 |

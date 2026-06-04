@@ -16,9 +16,9 @@ trigger_keywords: ["生育与妊娠", "anxiety", "assessment", "cbt", "communica
 cross_refs:
   - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "anxiety/depression/emotion"
@@ -167,7 +167,7 @@ cross_refs:
 | 月经健康 | [月经](Womens_Menstrual_Health.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
 | 营养 | [营养](../../foods/nutritional/) |
-| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md) |
 
 ---
 

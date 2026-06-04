@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/death/exercise"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "buddhism/exercise/sexuality"
 
 ---

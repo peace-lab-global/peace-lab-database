@@ -14,13 +14,13 @@ intent_queries:
   - "基督教圣经神学基础的方法与实践"
 trigger_keywords: ["基督教圣经神学基础", "behavioral", "body", "brain", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "death/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "death/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
     relation: "death/exercise/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "death/exercise/neuroscience"
   - path: "03-Bio-Science/INDEX.md"
     relation: "death/exercise/neuroscience"

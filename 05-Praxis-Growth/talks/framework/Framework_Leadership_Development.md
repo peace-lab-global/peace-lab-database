@@ -14,13 +14,13 @@ intent_queries:
   - "领导力发展 | Leadership Development的方法与实践"
 trigger_keywords: ["领导力发展", "act", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "communication/emotion/neuroscience"
   - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
     relation: "communication/emotion/neuroscience"

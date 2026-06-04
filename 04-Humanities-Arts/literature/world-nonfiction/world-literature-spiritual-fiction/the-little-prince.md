@@ -14,7 +14,7 @@ intent_queries:
   - "《小王子》The Little Prince的方法与实践"
 trigger_keywords: ["child", "death", "literature", "loneliness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/depression"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
     relation: "art_therapy/death/depression"

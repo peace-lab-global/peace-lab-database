@@ -48,6 +48,6 @@ cross_refs:
 
 - [书法疗愈](../calligraphy-therapy/)
 - [正念冥想](../../../02-Mind-Psychology/meditation/)
-- [感觉治疗](../../../02-Mind-Psychology/therapy/sensory/)
+- [感觉治疗](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/)
 - [禅宗](../../../01-Wisdom-Traditions/religions/zen/)
 - [园艺疗愈](../horticultural-therapy/)

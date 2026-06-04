@@ -14,7 +14,7 @@ intent_queries:
   - "《转化的象征》Symbols of Transformation的方法与实践"
 trigger_keywords: ["buddhism", "death", "freud", "jung"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/communication"
   - path: "README.md"
     relation: "art_therapy/buddhism/communication"

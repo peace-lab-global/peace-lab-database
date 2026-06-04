@@ -16,13 +16,13 @@ trigger_keywords: ["埃德蒙德", "胡塞尔", "clinical", "cognitive", "crisis
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "exercise/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "exercise/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "exercise/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/18-Digital-Therapy.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/18-Digital-Therapy.md"
     relation: "exercise/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "exercise/neuroscience/sexuality"
 
 ---

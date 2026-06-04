@@ -14,15 +14,15 @@ intent_queries:
   - "古希腊哲学经典三方书评的方法与实践"
 trigger_keywords: ["habits", "literature", "philosophy", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
     relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Business_Models.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
     relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Addiction_Recovery.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Addiction_Recovery.md"
     relation: "productivity/sexuality"
 
 ---

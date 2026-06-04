@@ -14,15 +14,15 @@ intent_queries:
   - "情绪调节训练 | Emotion Regulation Training的方法与实践"
 trigger_keywords: ["情绪调节训练", "anxiety", "behavioral", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
 
 ---
@@ -177,6 +177,6 @@ cross_refs:
 | 情商总览 | [EI_Overview](EI_Overview.md) | 理论框架 |
 | 职场情商 | [EI_Leadership_Workplace](EI_Leadership_Workplace.md) | 工作应用 |
 | 正念冥想 | [02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) | 情绪觉察 |
-| DBT | [02-Mind-Psychology/therapy/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/dialectical-behavior-therapy/) | 情绪调节技能 |
+| DBT | [02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/) | 情绪调节技能 |
 | 压力管理 | [02-Mind-Psychology/psychology/stress-hpa/](../../../02-Mind-Psychology/psychology/stress-hpa/) | 应激情绪管理 |
 | 呼吸法 | [03-Bio-Science/biology/breathwork/](../../../03-Bio-Science/biology/breathwork/) | 呼吸调节情绪 |

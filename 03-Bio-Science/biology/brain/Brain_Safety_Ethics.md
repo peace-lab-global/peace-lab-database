@@ -14,11 +14,11 @@ intent_queries:
   - "安全性与伦理的方法与实践"
 trigger_keywords: ["安全性与伦理", "addiction", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
     relation: "aging/anxiety/cardiovascular"

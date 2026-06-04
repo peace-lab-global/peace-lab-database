@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/death/emotion"
   - path: "README.md"
     relation: "anxiety/art_therapy/death"

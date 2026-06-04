@@ -16,7 +16,7 @@ trigger_keywords: ["art", "cognitive", "daoism", "developmental"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
     relation: "art_therapy/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/communication/daoism"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/daoism/exercise"

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/art_therapy/communication"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-2-yoga-and-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
     relation: "anxiety/communication/emotion"
 
 ---

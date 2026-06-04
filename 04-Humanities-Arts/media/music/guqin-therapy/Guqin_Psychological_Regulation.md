@@ -15,13 +15,13 @@ intent_queries:
   - "古琴心理调节专业内容体系的自助方法"
 trigger_keywords: ["anxiety", "art", "assessment", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/daoism"
   - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
     relation: "anxiety/depression/emotion"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
     relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/therapy/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
+  - path: "02-Mind-Psychology/therapy/integrative/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
     relation: "anxiety/depression/emotion"
   - path: "05-Praxis-Growth/personal-development/procrastination/02_拖延症成因与机制.md"
     relation: "anxiety/depression/emotion"

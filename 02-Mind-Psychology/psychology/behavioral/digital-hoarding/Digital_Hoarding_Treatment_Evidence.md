@@ -17,7 +17,7 @@ trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
     relation: "aging/anxiety/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/exercise"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "aging/anxiety/exercise"

@@ -14,9 +14,9 @@ intent_queries:
   - "Enlightenment Stages的方法与实践"
 trigger_keywords: ["act", "behavioral", "brain", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_06_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "buddhism/emotion/meditation"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "buddhism/emotion/meditation"

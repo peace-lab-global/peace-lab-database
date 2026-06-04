@@ -144,6 +144,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [社会文化变迁](Masturbation_Cultural_History.md) | [临床心理学意义](Masturbation_Clinical_Psychology.md) | [神经科学基础](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Neuroscience_Physiology.md) | [心理机制与动机](../../../relationships/masturbation-relationships/Masturbation_Mechanisms_Motivation.md) | [个体差异](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md)
+> 🔗 **交叉引用**: [社会文化变迁](Masturbation_Cultural_History.md) | [临床心理学意义](Masturbation_Clinical_Psychology.md) | [神经科学基础](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Neuroscience_Physiology.md) | [心理机制与动机](../../../relationships/sexuality/masturbation-relationships/Masturbation_Mechanisms_Motivation.md) | [个体差异](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回特殊专题索引](../INDEX.md)

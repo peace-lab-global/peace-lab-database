@@ -14,15 +14,15 @@ intent_queries:
   - "《活着》读书笔记与书评的方法与实践"
 trigger_keywords: ["death", "emotion", "loneliness", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/depression"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "art_therapy/death/emotion"
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
     relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_19_Social_Community.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
     relation: "death/depression/emotion"
 
 ---

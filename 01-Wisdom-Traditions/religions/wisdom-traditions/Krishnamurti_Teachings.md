@@ -16,13 +16,13 @@ trigger_keywords: ["克里希那穆提教导", "act", "addiction", "adolescent",
 cross_refs:
   - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_DBT_Skills.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Pema_Chodron.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Pema_Chodron.md"
     relation: "anxiety/attachment/buddhism"
 
 ---

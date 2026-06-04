@@ -14,15 +14,15 @@ intent_queries:
   - "Fertility and Reproductive Health的方法与实践"
 trigger_keywords: ["assessment", "clinical", "communication", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "communication/exercise/immune"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "exercise/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "exercise/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
     relation: "exercise/immune/nutrition"
 
 ---

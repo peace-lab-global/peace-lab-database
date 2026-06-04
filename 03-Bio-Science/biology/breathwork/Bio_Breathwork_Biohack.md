@@ -14,7 +14,7 @@ intent_queries:
   - "Breathwork & Biohacking的方法与实践"
 trigger_keywords: ["act", "breathwork", "dmn", "neuroscience"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Trauma_Healing.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
     relation: "anxiety/neuroscience/productivity"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/neuroscience/productivity"

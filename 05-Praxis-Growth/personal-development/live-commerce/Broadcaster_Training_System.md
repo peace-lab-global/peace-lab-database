@@ -18,7 +18,7 @@ cross_refs:
     relation: "communication/emotion/exercise"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
     relation: "communication/emotion/exercise"

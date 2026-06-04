@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/emotion/meditation"
   - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Advanced.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
     relation: "anxiety/emotion/meditation"
 
 ---

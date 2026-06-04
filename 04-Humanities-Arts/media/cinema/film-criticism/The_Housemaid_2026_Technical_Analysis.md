@@ -16,7 +16,7 @@ trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/exercise"
   - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
     relation: "anxiety/art_therapy/exercise"

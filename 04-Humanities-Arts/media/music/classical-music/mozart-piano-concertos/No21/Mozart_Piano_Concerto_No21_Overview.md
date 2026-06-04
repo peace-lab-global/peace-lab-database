@@ -14,15 +14,15 @@ intent_queries:
   - "莫扎特《第21号钢琴协奏曲》综合指南的方法与实践"
 trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C3-5-QA-posture-of-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-5-QA-posture-of-meditation.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C4-4-use-breathing-to-settle.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-4-use-breathing-to-settle.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/depression/emotion"
 
 ---

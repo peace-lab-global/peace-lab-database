@@ -14,15 +14,15 @@ intent_queries:
   - "南传内观传承的方法与实践"
 trigger_keywords: ["南传内观传承", "act", "adolescent", "art", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Eckhart_Tolle.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Eckhart_Tolle.md"
     relation: "buddhism/exercise/meditation"
 
 ---

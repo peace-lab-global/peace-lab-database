@@ -14,7 +14,7 @@ intent_queries:
   - "《西藏生死书》读书笔记与书评的方法与实践"
 trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/buddhism/death"
   - path: "README.md"
     relation: "anxiety/art_therapy/buddhism"

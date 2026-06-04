@@ -14,15 +14,15 @@ intent_queries:
   - "南传上座部佛教概览的方法与实践"
 trigger_keywords: ["南传上座部佛教概览", "act", "anxiety", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/vipassana/Vipassana_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md"
     relation: "aging/anxiety/buddhism"
 
 ---

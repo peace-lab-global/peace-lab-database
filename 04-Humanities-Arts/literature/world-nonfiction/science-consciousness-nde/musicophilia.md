@@ -16,7 +16,7 @@ trigger_keywords: ["brain", "death", "depression", "exercise"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "communication/death/depression"
   - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
     relation: "communication/death/depression"

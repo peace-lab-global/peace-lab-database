@@ -14,7 +14,7 @@ intent_queries:
   - "sleeping-beauty | Index的方法与实践"
 trigger_keywords: ["Index", "艺术", "芭蕾"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/sleep"
   - path: "README.md"
     relation: "art_therapy/sleep"

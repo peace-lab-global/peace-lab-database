@@ -14,13 +14,13 @@ intent_queries:
   - "安德烈·纪德  - 哲学思想全览的方法与实践"
 trigger_keywords: ["安德烈", "art", "behavioral", "body", "crisis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
     relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
     relation: "communication/personality/sexuality"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
     relation: "communication/personality/sexuality"

@@ -18,7 +18,7 @@ cross_refs:
     relation: "communication/death/exercise"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "communication/death/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/death/exercise"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/exercise"

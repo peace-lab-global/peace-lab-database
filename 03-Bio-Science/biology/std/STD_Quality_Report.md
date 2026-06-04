@@ -22,7 +22,7 @@ cross_refs:
     relation: "immune/sexuality/therapy"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "immune/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md"
     relation: "immune/sexuality/therapy"
 
 ---

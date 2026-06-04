@@ -16,13 +16,13 @@ trigger_keywords: ["太极拳五大流派", "act", "art", "body", "daoism"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
     relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
     relation: "daoism/exercise/meditation"
 
 ---

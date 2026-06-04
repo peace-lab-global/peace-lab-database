@@ -14,11 +14,11 @@ intent_queries:
   - "书法疗愈临床应用 | Calligraphy Clinical Applications的方法与实践"
 trigger_keywords: ["书法疗愈临床应用", "act", "act-therapy", "adolescent", "aging"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/anxiety/depression"
@@ -253,10 +253,10 @@ cross_refs:
 | 书法疗愈总览 | [Calligraphy_Therapy_Overview.md](./Calligraphy_Therapy_Overview.md) |
 | 书法疗愈实操 | [Calligraphy_Practice_Guide.md](./Calligraphy_Practice_Guide.md) |
 | 书法神经科学 | [Calligraphy_Neuroscience.md](./Calligraphy_Neuroscience.md) |
-| ACT疗法 | [../../../02-Mind-Psychology/therapy/act-therapy/](../../../02-Mind-Psychology/therapy/act-therapy/) |
-| CBT疗法 | [../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral-therapy/) |
+| ACT疗法 | [../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) |
+| CBT疗法 | [../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/](../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/) |
 | 认知衰老与预防 | [../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) |
-| 游戏治疗 | [../../../02-Mind-Psychology/therapy/game-therapy/](../../../02-Mind-Psychology/therapy/game-therapy/) |
+| 游戏治疗 | [../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/) |
 
 ---
 

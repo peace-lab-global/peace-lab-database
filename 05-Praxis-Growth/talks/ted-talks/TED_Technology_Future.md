@@ -14,15 +14,15 @@ intent_queries:
   - "TED科技与未来趋势精选 | TED Technology & Future Trends Collection的方法与实践"
 trigger_keywords: ["developmental", "immune", "intervention", "philosophy"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/immune/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "communication/immune/sexuality"
   - path: "01-Wisdom-Traditions/yoga/masters/industry-leaders/Judith_Hanson_Lasater.md"
     relation: "communication/immune/sexuality"
   - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
     relation: "communication/immune/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "communication/immune/sexuality"
 
 ---

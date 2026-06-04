@@ -16,13 +16,13 @@ trigger_keywords: ["act", "body", "clinical", "emotion"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "cardiovascular/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "emotion/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/emotion/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
     relation: "cardiovascular/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/emotion/immune"
 
 ---

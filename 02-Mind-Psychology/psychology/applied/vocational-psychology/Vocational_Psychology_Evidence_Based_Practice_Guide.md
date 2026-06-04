@@ -23,7 +23,7 @@ cross_refs:
     relation: "anxiety/depression/neuroscience"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "anxiety/depression/neuroscience"
 
 ---

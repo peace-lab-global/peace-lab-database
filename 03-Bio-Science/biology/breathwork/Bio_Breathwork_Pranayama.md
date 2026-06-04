@@ -14,7 +14,7 @@ intent_queries:
   - "Breathwork & Pranayama的方法与实践"
 trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/depression"

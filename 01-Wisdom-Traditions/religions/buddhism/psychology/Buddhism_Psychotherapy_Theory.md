@@ -15,11 +15,11 @@ intent_queries:
   - "佛教心理治疗理论详论的循证证据"
 trigger_keywords: ["佛教心理治疗理论详论", "act", "addiction", "adolescent", "aging"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/depression"

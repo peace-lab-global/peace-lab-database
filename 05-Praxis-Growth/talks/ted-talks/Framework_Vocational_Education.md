@@ -16,13 +16,13 @@ trigger_keywords: ["职业教育", "brain", "child", "communication", "developme
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
     relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C3-4-intimacy-with-body.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
     relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C6-3-与情绪共处-冥想练习-如实观照心念.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C6-3-与情绪共处-冥想练习-如实观照心念.md"
     relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "attachment/communication/neuroscience"
 
 ---

@@ -15,7 +15,7 @@ intent_queries:
   - "《给心理治疗师的礼物》The Gift of Therapy的循证证据"
 trigger_keywords: ["act", "behavioral", "clinical", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "attachment/communication/depression"

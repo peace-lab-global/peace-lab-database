@@ -14,11 +14,11 @@ intent_queries:
   - "《易经》经典三方书评的方法与实践"
 trigger_keywords: ["《易经》经典三方书评", "behavioral", "crisis", "daoism", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/13-Crisis-Safety.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
     relation: "daoism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_17_Nature_Elements.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
     relation: "daoism/exercise/sexuality"
   - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
     relation: "daoism/exercise/sexuality"

@@ -14,15 +14,15 @@ intent_queries:
   - "HRV心率变异性 | Heart Rate Variability的方法与实践"
 trigger_keywords: ["HRV心率变异性", "anxiety", "assessment", "behavioral", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cardiovascular_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
     relation: "anxiety/cardiovascular/depression"
 
 ---

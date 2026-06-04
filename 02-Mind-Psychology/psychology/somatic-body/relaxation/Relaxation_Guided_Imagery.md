@@ -511,7 +511,7 @@ cross_refs:
 - [接地技术 (Grounding Techniques)](../../self-regulation/grounding-techniques/Grounding_Techniques.md)
 - [容器化技术 (Containment Techniques)](../../self-regulation/containment-techniques/Containment_Techniques.md)
 - [正念核心 (Mindfulness Core)](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
-- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](../../../therapy/sensory/Sensory_Mandala_Jungian.md)
+- [荣格心理与曼陀罗 (Mandala/Jungian Symbols)](../../../therapy/sensory-nature/sensory/Sensory_Mandala_Jungian.md)
 
 ---
 

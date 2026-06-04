@@ -16,7 +16,7 @@ trigger_keywords: ["特殊教育", "act", "art", "assessment", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
     relation: "communication/exercise/neuroscience"

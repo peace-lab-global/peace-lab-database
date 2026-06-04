@@ -14,9 +14,9 @@ intent_queries:
   - "中世纪哲学 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["中世纪哲学", "佛法视角三方书评", "buddhism", "crisis", "exercise", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/yoga-meditation/Yoga_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
     relation: "buddhism/exercise/sexuality"
   - path: "03-Bio-Science/sexuality/Society_Community_Support.md"
     relation: "buddhism/exercise/sexuality"

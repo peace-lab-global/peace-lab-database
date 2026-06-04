@@ -14,15 +14,15 @@ intent_queries:
   - "佛教戒律与伦理学综合研究的方法与实践"
 trigger_keywords: ["act", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/zazen/Zazen_Koan_Collection.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/Zazen_Koan_Collection.md"
     relation: "buddhism/communication/neuroscience"
 
 ---

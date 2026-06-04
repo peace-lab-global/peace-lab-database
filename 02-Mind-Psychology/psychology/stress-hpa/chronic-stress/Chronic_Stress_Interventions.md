@@ -290,8 +290,8 @@ cross_refs:
 
 | 实践 | 描述 | 证据 | 详见 |
 |:-----|:-----|:-----|:-----|
-| **冥想** | 多种传统冥想技术 | ★★☆-★★★ | [冥想类型](../../../meditation/overview/Meditation_Types_Classification.md) |
-| **瑜伽** | 体式、呼吸、冥想整合 | ★★★ | [瑜伽哲学](../../../../01-Wisdom-Traditions/yoga/Yoga_Philosophy.md) |
+| **冥想** | 多种传统冥想技术 | ★★☆-★★★ | [冥想类型](../../../meditation/foundations/overview/Meditation_Types_Classification.md) |
+| **瑜伽** | 体式、呼吸、冥想整合 | ★★★ | [瑜伽哲学](../../../../01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md) |
 | **太极** | 中国内家拳 | ★★☆ | [东方内家运动](../../somatic-body/somatic/Somatic_Movement_Oriental.md) |
 | **气功** | 中国养生功法 | ★★☆ | [道家养生](../../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) |
 | **禅修** | 坐禅、正念 | ★★☆ | [禅宗实践](../../../../01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md) |
@@ -301,8 +301,8 @@ cross_refs:
 
 | 疗法 | 描述 | 证据 | 详见 |
 |:-----|:-----|:-----|:-----|
-| **森林浴** | 日本Shinrin-yoku | ★★☆ | [森林疗愈](../../../therapy/forest-therapy/Forest_Therapy_Tree_Hugging.md) |
-| **芳香疗法** | 精油的心理生理效应 | ★☆☆-★★☆ | [芳香疗法](../../../therapy/sensory/Sensory_Aromatherapy_Olfactory.md) |
+| **森林浴** | 日本Shinrin-yoku | ★★☆ | [森林疗愈](../../../therapy/sensory-nature/forest-therapy/Forest_Therapy_Tree_Hugging.md) |
+| **芳香疗法** | 精油的心理生理效应 | ★☆☆-★★☆ | [芳香疗法](../../../therapy/sensory-nature/sensory/Sensory_Aromatherapy_Olfactory.md) |
 | **园艺疗法** | 植物照料活动 | ★★☆ | — |
 | **动物辅助疗法** | 与动物互动 | ★★☆ | — |
 
@@ -653,4 +653,4 @@ cross_refs:
 
 ---
 
-*相关文档: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力健康影响](Chronic_Stress_Health_Effects.md) | [正念减压疗法](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [正念行走专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | [放松术核心概览](../../somatic-body/relaxation/Relaxation_Overview.md) | [辨证行为疗法](../../../therapy/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)*
+*相关文档: [慢性压力概览](Chronic_Stress_Overview.md) | [慢性压力机制](Chronic_Stress_Mechanisms.md) | [慢性压力评估](Chronic_Stress_Assessment.md) | [慢性压力健康影响](Chronic_Stress_Health_Effects.md) | [正念减压疗法](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [正念行走专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | [放松术核心概览](../../somatic-body/relaxation/Relaxation_Overview.md) | [辨证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md)*

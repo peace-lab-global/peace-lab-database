@@ -18,7 +18,7 @@ cross_refs:
     relation: "aging/anxiety/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/depression"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "aging/anxiety/depression"

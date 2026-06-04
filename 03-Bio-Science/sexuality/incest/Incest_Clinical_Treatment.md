@@ -15,7 +15,7 @@ intent_queries:
   - "乱伦临床干预与治疗指南的循证证据"
 trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "anxiety/communication/depression"

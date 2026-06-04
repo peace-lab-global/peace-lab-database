@@ -14,9 +14,9 @@ intent_queries:
   - "藏传佛教加行仪轨的方法与实践"
 trigger_keywords: ["藏传佛教加行仪轨", "behavioral", "body", "buddhism", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
     relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Ram_Dass.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Ram_Dass.md"
     relation: "buddhism/death/sexuality"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "buddhism/death/sexuality"

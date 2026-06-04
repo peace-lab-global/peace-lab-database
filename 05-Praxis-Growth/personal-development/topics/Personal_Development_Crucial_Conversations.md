@@ -14,7 +14,7 @@ intent_queries:
   - "Crucial Conversations 关键对话的方法与实践"
 trigger_keywords: ["act", "assessment", "behavioral", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/communication/emotion"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
     relation: "cardiovascular/communication/emotion"

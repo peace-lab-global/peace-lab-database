@@ -22,7 +22,7 @@ cross_refs:
     relation: "communication/neuroscience/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
     relation: "communication/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
     relation: "communication/neuroscience/sexuality"
 
 ---

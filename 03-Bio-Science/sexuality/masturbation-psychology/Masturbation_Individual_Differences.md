@@ -16,9 +16,9 @@ trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
     relation: "anxiety/attachment/buddhism"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
     relation: "anxiety/attachment/buddhism"
@@ -208,6 +208,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [神经科学基础](Masturbation_Neuroscience_Physiology.md) | [发展心理学视角](Masturbation_Development_Lifespan.md) | [社会文化变迁](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Cultural_History.md) | [心理困扰与应对](../../../02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Distress_Coping.md) | [心理机制与动机](../../../02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Mechanisms_Motivation.md)
+> 🔗 **交叉引用**: [神经科学基础](Masturbation_Neuroscience_Physiology.md) | [发展心理学视角](Masturbation_Development_Lifespan.md) | [社会文化变迁](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Cultural_History.md) | [心理困扰与应对](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md) | [心理机制与动机](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Mechanisms_Motivation.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回性学目录](../INDEX.md)

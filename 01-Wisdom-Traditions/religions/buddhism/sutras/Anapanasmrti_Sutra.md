@@ -14,13 +14,13 @@ intent_queries:
   - "佛说大安般守意经的方法与实践"
 trigger_keywords: ["佛说大安般守意经", "body", "breathwork", "buddhism", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Overview.md"
     relation: "buddhism/meditation/sexuality"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "buddhism/meditation/sexuality"

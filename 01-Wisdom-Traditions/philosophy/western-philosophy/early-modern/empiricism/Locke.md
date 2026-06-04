@@ -14,11 +14,11 @@ intent_queries:
   - "约翰·洛克的方法与实践"
 trigger_keywords: ["约翰", "洛克", "act", "behavioral", "child", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "exercise/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "exercise/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
     relation: "exercise/personality/sexuality"
   - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
     relation: "exercise/personality/sexuality"

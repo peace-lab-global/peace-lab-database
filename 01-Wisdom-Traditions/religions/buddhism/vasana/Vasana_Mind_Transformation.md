@@ -14,15 +14,15 @@ intent_queries:
   - "心念转化技术的方法与实践"
 trigger_keywords: ["心念转化技术", "act", "addiction", "anxiety", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
     relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/mantra-chanting/Mantra_Chanting_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Chanting_Overview.md"
     relation: "anxiety/buddhism/meditation"
 
 ---
@@ -355,7 +355,7 @@ cross_refs:
 |---|---|
 | **[藏传佛教心理学](../../tibetan-buddhism/Tibetan_Buddhist_Psychology.md)** | 五毒转五智、51心所 |
 | **[大圆满/佐钦](../dzogchen/Dzogchen_Great_Perfection.md)** | 本觉、直接认知 |
-| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md)** | 冥想系统分类 |
+| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)** | 冥想系统分类 |
 | **[正念核心概念](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)** | 正念技术 |
 
 ### 表10.3 核心参考文献 (Key References)

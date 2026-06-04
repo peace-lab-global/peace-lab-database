@@ -20,9 +20,9 @@ cross_refs:
     relation: "art_therapy/communication/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/meditation"
 
 ---
@@ -45,7 +45,7 @@ cross_refs:
 
 | 关联领域 | 路径 | 关联点 |
 |---------|------|--------|
-| 冥想引导 | [02-Mind-Psychology/meditation/guided-scripts/](../../../02-Mind-Psychology/meditation/guided-scripts/) | 音频冥想脚本 |
+| 冥想引导 | [02-Mind-Psychology/meditation/courses/guided-scripts/](../../../02-Mind-Psychology/meditation/courses/guided-scripts/) | 音频冥想脚本 |
 | TED演讲 | [05-Praxis-Growth/talks/](../../../05-Praxis-Growth/talks/) | 知识传播媒介 |
 | 写作 | [05-Praxis-Growth/writing/](../../../05-Praxis-Growth/writing/) | 内容创作 |
 | 阅读 | [04-Humanities-Arts/reading/](../../reading/) | 文字与声音互补 |

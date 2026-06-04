@@ -21,7 +21,7 @@ cross_refs:
     relation: "aging/attachment/death"
   - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
     relation: "aging/attachment/communication"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/depression"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
     relation: "aging/attachment/communication"

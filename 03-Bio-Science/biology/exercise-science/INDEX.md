@@ -14,7 +14,7 @@ intent_queries:
   - "运动科学与健身的方法与实践"
 trigger_keywords: ["运动科学与健身", "addiction", "assessment", "breathwork", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "depression/emotion/exercise"
   - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
     relation: "depression/emotion/exercise"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "daoism/emotion/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "depression/emotion/exercise"
 
 ---
@@ -63,7 +63,7 @@ cross_refs:
 | 减肥 | [biology/weight-loss/](../weight-loss/) | 运动处方/能量赤字/体成分 |
 | 呼吸法 | [biology/breathwork/](../breathwork/) | 运动呼吸/调息/恢复 |
 | 心流 | [05-Praxis-Growth/personal-development/flow/](../../../05-Praxis-Growth/personal-development/flow/) | 运动中的心流体验 |
-| 森林疗法 | [02-Mind-Psychology/therapy/forest-therapy/](../../../02-Mind-Psychology/therapy/forest-therapy/) | 绿色运动/户外训练 |
+| 森林疗法 | [02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) | 绿色运动/户外训练 |
 | 办公肩颈 | [biology/office-neck-shoulder/](../office-neck-shoulder/) | 上交叉综合征/姿势矫正 |
 | 腰痛 | [biology/lower-back-pain/](../lower-back-pain/) | 下交叉综合征/核心训练 |
 

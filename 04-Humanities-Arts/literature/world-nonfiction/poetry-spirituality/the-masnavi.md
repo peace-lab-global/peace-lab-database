@@ -16,9 +16,9 @@ trigger_keywords: ["death", "literature", "meditation", "philosophy"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
     relation: "art_therapy/death/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C3-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "art_therapy/death/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-scripts/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
     relation: "art_therapy/death/meditation"
   - path: "README.md"
     relation: "art_therapy/death/meditation"

@@ -14,13 +14,13 @@ intent_queries:
   - "SPA Physiological & Psychological Effects的方法与实践"
 trigger_keywords: ["act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/incense/moxibustion/Modern_Research_Review.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Modern_Research_Review.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
     relation: "aging/anxiety/cardiovascular"

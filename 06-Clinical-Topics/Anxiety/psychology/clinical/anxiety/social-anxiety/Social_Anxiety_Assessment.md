@@ -1,0 +1,234 @@
+---
+
+title: "Social Anxiety Disorder Assessment (社交焦虑障碍评估)"
+description: "Social Anxiety Disorder Assessment (社交焦虑障碍评估)的详细解析与实践指南"
+category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
+tags: ["anxiety", "brain", "act"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Social Anxiety Disorder Assessment"
+  - "Social Anxiety Disorder Assessment的核心概念"
+  - "Social Anxiety Disorder Assessment的方法与实践"
+trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
+    relation: "anxiety/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "anxiety/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
+    relation: "anxiety/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
+    relation: "anxiety/neuroscience/therapy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
+    relation: "anxiety/neuroscience/therapy"
+
+---
+# Social Anxiety Disorder Assessment (社交焦虑障碍评估)
+
+> **社交焦虑障碍评估 (SAD Assessment / Aestimatio Anxietatis Socialis)**
+> 
+> *"准确的评估不仅是确认诊断——更是理解每个患者独特的恐惧网络和维持循环。"*
+> *"Accurate assessment is not just confirming a diagnosis — it is understanding each patient's unique fear network and maintenance cycle."*
+> 
+> 本文档系统呈现社交焦虑障碍的评估工具、诊断访谈技术、个案公式化框架及鉴别诊断指南。
+
+---
+
+## 1. SAD专用评估量表 (SAD-Specific Scales)
+
+### 表1.1 Liebowitz社交焦虑量表 (LSAS)
+
+| 维度 | 内容 |
+|---|---|
+| **全称** | Liebowitz Social Anxiety Scale (Liebowitz社交焦虑量表) |
+| **开发者** | Liebowitz (1987) |
+| **条目数** | 24项(13项表现情境 + 11项社交互动情境) |
+| **评估维度** | 每项评2个维度：(1)恐惧/焦虑程度(0-3) (2)回避频率(0-3) |
+| **分数范围** | 总分0-144分 |
+| **临床切分** | <55=非社交焦虑；55-65=中等；66-80=显著；81-95=重度；>95=极重度 |
+| **施测方式** | 临床医生评定(LSAS-CR)或自评(LSAS-SR) |
+| **信度(α)** | 0.95(总量表) |
+| **用途** | 金标准评估工具；严重度评估；疗效监测 |
+| **优势** | 区分恐惧和回避；覆盖多种社交情境 |
+
+### 表1.2 社交恐惧量表/社交互动焦虑量表 (SPS/SIAS)
+
+| 维度 | SPS | SIAS |
+|---|---|---|
+| **全称** | Social Phobia Scale | Social Interaction Anxiety Scale |
+| **开发者** | Mattick & Clarke (1998) | Mattick & Clarke (1998) |
+| **条目数** | 20项 | 20项 |
+| **评估焦点** | 被他人观察/审视时的焦虑 | 社交互动中的焦虑 |
+| **评分** | 0-4分(一点也不-非常) | 0-4分 |
+| **分数范围** | 0-80分 | 0-80分 |
+| **临床切分** | ≥24(可能SAD) | ≥34(可能SAD) |
+| **信度(α)** | 0.89-0.94 | 0.88-0.94 |
+| **配对使用** | 建议SPS+SIAS配对使用，分别评估表演焦虑和互动焦虑 |
+
+### 表1.3 社交恐惧症清单 (SPIN)
+
+| 维度 | 内容 |
+|---|---|
+| **全称** | Social Phobia Inventory (社交恐惧症清单) |
+| **开发者** | Connor et al. (2000) |
+| **条目数** | 17项 |
+| **三个分量表** | (1)恐惧(6项) (2)回避(7项) (3)生理症状(4项) |
+| **评分** | 0-4分(一点也不-非常) |
+| **分数范围** | 0-68分 |
+| **临床切分** | ≥19(可能SAD)；≥40(重度) |
+| **信度(α)** | 0.87-0.94 |
+| **用途** | 筛查+严重度评估；简短高效 |
+
+### 表1.4 负面评价恐惧量表 (FNE/BFNE)
+
+| 维度 | FNE | BFNE |
+|---|---|---|
+| **全称** | Fear of Negative Evaluation Scale | Brief Fear of Negative Evaluation |
+| **开发者** | Watson & Friend (1969) | Leary (1983) |
+| **条目数** | 30项 | 12项 |
+| **评估焦点** | 对负面评价的恐惧(SAD核心构念) | 同FNE |
+| **信度(α)** | 0.94 | 0.90 |
+| **推荐** | BFNE更简短实用，推荐临床使用 |
+
+### 表1.5 量表选择决策指南 (Scale Selection Guide)
+
+| 评估目的 | 推荐量表 | 施测时间 | 适用场景 |
+|---|---|---|---|
+| **快速筛查** | Mini-SPIN(3项) | 1分钟 | 初级保健大规模筛查 |
+| **标准筛查** | SPIN | 5分钟 | 门诊筛查 |
+| **严重度评估** | LSAS-SR | 10分钟 | 专科；疗效监测 |
+| **表演vs互动区分** | SPS+SIAS | 10分钟 | 治疗计划(哪类情境最困难) |
+| **核心构念** | BFNE | 3分钟 | 评估"评价恐惧"程度 |
+| **全面初始评估** | LSAS + BFNE + SDS | 15分钟 | 首次专科评估 |
+
+---
+
+## 2. 行为评估 (Behavioral Assessment)
+
+### 表2.1 行为回避测试 (Behavioral Approach Test, BAT)
+
+| 维度 | 内容 |
+|---|---|
+| **定义** | 在标准化社交情境中直接观察患者的焦虑和回避行为 |
+| **标准BAT** | (1)即兴演讲(3分钟) (2)与陌生人对话(5分钟) (3)在被观察下写字/吃东西 |
+| **评估指标** | 最高焦虑等级(SUDS)、持续时间、回避行为、安全行为观察 |
+| **优势** | 直接行为观察；不依赖自报告 |
+| **局限** | 需要标准化情境设置；可能引起显著不适 |
+| **治疗应用** | 可作为暴露练习的基线和疗效评估 |
+
+### 表2.2 社交技能评估 (Social Skills Assessment)
+
+| 评估方法 | 内容 | 目的 |
+|---|---|---|
+| **角色扮演** | 模拟社交情境(如与陌生人交谈) | 观察实际社交技能 |
+| **录像分析** | 录制社交互动并分析 | 客观vs主观表现差异 |
+| **社交技能量表** | 如SSI(Social Skills Inventory) | 量化社交技能水平 |
+| **辨别评估** | 区分"技能缺陷"vs"表现抑制" | 决定是否需要技能训练 |
+
+---
+
+## 3. Clark模型个案公式化 (Clark Model Case Formulation)
+
+### 表3.1 个案公式化核心要素 (Formulation Components)
+
+| 要素 | 评估方法 | 公式化中的位置 | 治疗靶点 |
+|---|---|---|---|
+| **触发情境** | 访谈/问卷 | 外部触发 | 暴露层级设计 |
+| **核心信念** | 下行箭头技术 | 深层认知 | 长期认知工作 |
+| **灾难预测** | "你最害怕发生什么？" | 认知 | 行为实验 |
+| **自我聚焦** | "当你焦虑时注意力在哪？" | 注意力 | 注意力训练 |
+| **负性自我意象** | "你觉得自己在别人眼里是什么样的？" | 意象 | 视频反馈 |
+| **安全行为** | "你做了什么来应对？" | 行为 | 行为实验取消 |
+| **事后反刍** | "事后你会回顾发生了什么吗？" | 维持过程 | PEP减少 |
+| **早期经历** | "你记得第一次感到社交焦虑是什么时候？" | 发展背景 | 理解起源 |
+
+### 表3.2 个案公式化模板示例 (Formulation Template)
+
+```
+早期经历: [中学时被同学嘲笑口音]
+          ↓
+核心信念: ["我很奇怪/不够好"]
+          ↓
+社交情境: [需要在会议上发言]
+          ↓
+激活假设: ["如果我说话，别人会觉得我很蠢"]
+          ↓
+    ┌─────────────────────────────┐
+    │  感知到的社交危险             │
+    │  "他们在评判我"               │
+    └──────────┬──────────────────┘
+               │
+    ┌──────────▼──────────────────┐
+    │  自我聚焦注意                 │
+    │  监控自己的声音/表情/脸红      │
+    │  从观察者视角"看到"自己紧张     │
+    └──────────┬──────────────────┘
+               │
+    ┌──────────▼──────────────────┐
+    │  安全行为                     │
+    │  少说话/避免眼神接触/过度准备   │
+    └──────────┬──────────────────┘
+               │
+    ┌──────────▼──────────────────┐
+    │  焦虑症状                     │
+    │  脸红/声音颤抖/大脑空白        │
+    └──────────┬──────────────────┘
+               │
+    ┌──────────▼──────────────────┐
+    │  事后反刍(PEP)               │
+    │  反复回顾"失败"细节           │
+    │  记忆越来越负面               │
+    └─────────────────────────────┘
+```
+
+---
+
+## 4. 鉴别诊断 (Differential Diagnosis)
+
+### 表4.1 SAD与相关障碍的鉴别 (Differential Diagnosis)
+
+| 鉴别疾病 | 共同特征 | SAD的鉴别要点 | 对方的鉴别要点 |
+|---|---|---|---|
+| **害羞(正常)** | 社交不适 | 导致显著功能损害 | 无临床显著损害 |
+| **回避型人格障碍** | 社交回避、自卑 | 可能情境特异性 | 更广泛、稳定；涉及自我概念 |
+| **惊恐障碍+广场恐惧** | 社交情境焦虑 | 核心恐惧是被评价 | 核心恐惧是惊恐发作/逃不掉 |
+| **广泛性焦虑障碍** | 社交情境担忧 | 恐惧聚焦于被评价 | 担忧涵盖多领域 |
+| **体象障碍(BDD)** | 在他人面前焦虑 | 恐惧行为被评价 | 恐惧外貌缺陷被注意 |
+| **选择性缄默** | 社交情境不说话 | 广泛社交焦虑 | 特定情境选择不说话(多为儿童) |
+| **自闭谱系障碍** | 社交困难 | 有社交动机但恐惧 | 社交动机/理解缺陷 |
+| **抑郁障碍** | 社交退缩 | 恐惧驱动的回避 | 兴趣/动力丧失驱动 |
+
+---
+
+## 5. 功能损害评估 (Functional Impairment Assessment)
+
+### 表5.1 Sheehan失能量表 (SDS)在SAD中的应用
+
+| 维度 | 评估内容 | 评分 | SAD中的典型模式 |
+|---|---|---|---|
+| **工作/学业** | 症状对工作/学习的干扰程度 | 0-10分 | 回避演讲/会议→职业受限 |
+| **社交生活** | 症状对社交活动的干扰 | 0-10分 | 通常最高分(核心受损领域) |
+| **家庭生活** | 症状对家庭责任的干扰 | 0-10分 | 回避家庭社交活动 |
+| **功能缺失天数** | 过去一周因症状完全无法工作的天数 | 0-7天 | 评估严重度 |
+| **效率降低天数** | 过去一周效率降低的天数 | 0-7天 | 评估生产力损失 |
+
+---
+
+## 6. 评估伦理与注意事项 (Assessment Ethics)
+
+### 表6.1 SAD评估伦理要点 (Ethical Considerations)
+
+| 伦理原则 | 具体要求 | 实践要点 |
+|---|---|---|
+| **正常化** | 评估过程中正常化社交焦虑(常见且可治疗) | 减少病耻感和"只是害羞"的误解 |
+| **评估本身的焦虑** | 认识到评估情境本身可能触发SAD | 建立安全关系；说明评估目的 |
+| **文化敏感** | 考虑文化对社交行为期望的影响 | 某些"回避"可能是文化规范 |
+| **保密性** | 强调评估信息的保密性 | 减少被评价的恐惧 |
+| **自杀筛查** | SAD伴抑郁时需评估自杀风险 | 约10-15%的SAD患者有自杀意念 |
+
+---
+
+*返回上级 [Social Anxiety Index](INDEX.md) | 返回 [Anxiety Index](../INDEX.md)*

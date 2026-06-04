@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/daoism"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/daoism"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
 
 ---
@@ -614,7 +614,7 @@ cross_refs:
 - [皮质醇神经科学与脑机制 (Cortisol Neuroscience)](Cortisol_Neuroscience.md)
 - [皮质醇与精神障碍 (Cortisol & Mental Health)](Cortisol_Mental_Health.md)
 - [皮质醇检测与评估 (Cortisol Assessment)](Cortisol_Assessment.md)
-- [瑜伽理疗 (Yoga Therapy)](../../../../01-Wisdom-Traditions/yoga/Yoga_Therapy.md)
+- [瑜伽理疗 (Yoga Therapy)](../../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md)
 - [正念核心 (Mindfulness Core)](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
 - [放松术概览 (Relaxation Overview)](../../somatic-body/relaxation/Relaxation_Overview.md)
-- [森林疗愈与抱树 (Forest Therapy)](../../../therapy/forest-therapy/Forest_Therapy_Tree_Hugging.md)
+- [森林疗愈与抱树 (Forest Therapy)](../../../therapy/sensory-nature/forest-therapy/Forest_Therapy_Tree_Hugging.md)

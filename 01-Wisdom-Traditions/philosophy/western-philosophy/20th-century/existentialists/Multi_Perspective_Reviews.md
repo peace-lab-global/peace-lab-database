@@ -14,13 +14,13 @@ intent_queries:
   - "存在主义哲学经典三方书评的方法与实践"
 trigger_keywords: ["anxiety", "cognitive", "crisis", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
     relation: "anxiety/communication/depression"

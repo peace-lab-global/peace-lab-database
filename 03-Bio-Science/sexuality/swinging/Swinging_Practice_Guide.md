@@ -16,13 +16,13 @@ trigger_keywords: ["act", "assessment", "behavioral", "body"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
     relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/09-Organization-Integration.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/09-Organization-Integration.md"
     relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "communication/emotion/sexuality"
 
 ---

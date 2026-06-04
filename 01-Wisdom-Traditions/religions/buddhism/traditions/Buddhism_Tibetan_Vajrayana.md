@@ -16,7 +16,7 @@ trigger_keywords: ["藏传金刚乘体系详论", "act", "behavioral", "body", "
 cross_refs:
   - path: "README.md"
     relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/communication/death"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "buddhism/death/meditation"

@@ -14,7 +14,7 @@ intent_queries:
   - "大卫·休谟的方法与实践"
 trigger_keywords: ["大卫", "休谟", "behavioral", "cbt", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/productivity"
   - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
     relation: "communication/emotion/productivity"

@@ -16,7 +16,7 @@ trigger_keywords: ["房间清整术概览", "aging", "anxiety", "art", "assessme
 cross_refs:
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "aging/anxiety/emotion"
   - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
     relation: "aging/anxiety/emotion"

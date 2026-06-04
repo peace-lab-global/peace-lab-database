@@ -16,13 +16,13 @@ trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Philosophy.md"
+  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/therapy/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
+  - path: "02-Mind-Psychology/therapy/integrative/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
     relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
     relation: "anxiety/meditation/neuroscience"
 
 ---

@@ -14,11 +14,11 @@ intent_queries:
   - "苏格拉底的方法与实践"
 trigger_keywords: ["苏格拉底", "behavioral", "body", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
     relation: "death/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Crisis_Meditation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
     relation: "death/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/INDEX.md"
     relation: "death/meditation/productivity"
   - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
     relation: "death/meditation/productivity"

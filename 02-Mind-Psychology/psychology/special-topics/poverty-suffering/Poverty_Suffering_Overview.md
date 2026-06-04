@@ -20,7 +20,7 @@ cross_refs:
     relation: "aging/anxiety/neuroscience"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "aging/anxiety/neuroscience"
   - path: "03-Bio-Science/INDEX.md"
     relation: "aging/anxiety/neuroscience"

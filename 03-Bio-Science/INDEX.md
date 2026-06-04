@@ -14,15 +14,15 @@ intent_queries:
   - "03-Bio-Science | 生命科学与生物医学的方法与实践"
 trigger_keywords: ["生命科学与生物医学", "act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/emotion"
 
 ---
@@ -93,6 +93,21 @@ cross_refs:
 ---
 
 ## 核心索引 | Core Index
+
+### 0.5 🌙 睡眠科学与疗愈 (Sleep Science & Healing) — [完整知识地图](biology/sleep-science/INDEX.md) **[NEW]**
+- [睡眠科学与疗愈总览](biology/sleep-science/Sleep_Science_Overview.md) — 双过程模型、NREM-REM周期、神经递质、心理共病
+- [睡眠障碍分类与评估](biology/sleep-science/Sleep_Disorders_Classification.md) — 失眠/OSA/昼夜节律/异态睡眠/RLS
+- [CBT-I认知行为疗法](biology/sleep-science/CBT_I_Cognitive_Behavioral.md) — 刺激控制/睡眠限制/认知重构/数字化CBT-I
+- [睡眠卫生与昼夜节律](biology/sleep-science/Sleep_Hygiene_Chronobiology.md) — 光照/温度/饮食处方、时型识别、睡前例行
+
+### 0.6 🧪 内分泌系统与疗愈整合 (Endocrine System & Healing) — [完整知识地图](biology/endocrine/INDEX.md) **[NEW]**
+- [内分泌系统与疗愈整合](biology/endocrine/Endocrine_Overview.md) — HPA/HPG/HPT轴、10大内分泌腺、慢性压力病理、疗愈干预对HPA影响
+
+### 0.7 💊 物质成瘾生物学 (Substance Addiction Biology) — [完整知识地图](biology/addiction/INDEX.md) **[NEW]**
+- [物质成瘾生物学总览](biology/addiction/Addiction_Biology_Overview.md) — 三阶段循环模型、多巴胺机制、各物质生物学、遗传、治疗
+
+### 0.8 🏥 中医现代化循证 (TCM: Modern Evidence) — [完整知识地图](biology/tcm-evidence/INDEX.md) **[NEW]**
+- [中医现代化循证](biology/tcm-evidence/TCM_Evidence_Overview.md) — 针灸机制/RCT、艾灸证据、中药现代化、WHO适应证、东西方整合模型
 
 ### 1. 🏋️ 运动科学与健身 (Exercise Science & Fitness) — [完整知识地图](biology/exercise-science/INDEX.md) **[NEW]**
 - [运动科学总览 (Exercise Science Overview)](biology/exercise-science/Exercise_Science_Overview.md) — FITT原则、运动分类、循证关系
@@ -245,7 +260,7 @@ cross_refs:
 <details>
 <summary>点击查看本支柱知识图谱</summary>
 
-![生命科学与生物医学知识图谱](../Visualization/initial-autofit.png)
+![生命科学与生物医学知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：生命科学支柱的知识结构，涵盖运动科学、神经科学、免疫炎症、肠脑轴、心血管健康、疼痛科学等核心领域。*
 

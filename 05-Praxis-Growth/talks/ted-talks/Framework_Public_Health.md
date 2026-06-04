@@ -14,7 +14,7 @@ intent_queries:
   - "公共健康 | Public Health的方法与实践"
 trigger_keywords: ["公共健康", "art", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/death/immune"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/communication/death"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/communication/immune"
   - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
     relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "communication/death/immune"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/emotion/neuroscience"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "anxiety/emotion/neuroscience"
 
 ---

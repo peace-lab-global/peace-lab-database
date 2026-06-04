@@ -14,9 +14,9 @@ intent_queries:
   - "《妈妈及生命的意义》Momma and the Meaning of Life的方法与实践"
 trigger_keywords: ["aging", "art", "death", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "aging/art_therapy/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "aging/death/depression"

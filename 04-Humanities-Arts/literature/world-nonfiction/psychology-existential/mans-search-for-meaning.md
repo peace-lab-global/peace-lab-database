@@ -14,7 +14,7 @@ intent_queries:
   - "《活出生命的意义》Man's Search for Meaning的方法与实践"
 trigger_keywords: ["behavioral", "body", "buddhism", "freud"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/neuroscience"
   - path: "README.md"
     relation: "art_therapy/buddhism/neuroscience"

@@ -20,7 +20,7 @@ cross_refs:
     relation: "emotion/exercise/neuroscience"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
     relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "emotion/exercise/neuroscience"
   - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
     relation: "emotion/exercise/neuroscience"

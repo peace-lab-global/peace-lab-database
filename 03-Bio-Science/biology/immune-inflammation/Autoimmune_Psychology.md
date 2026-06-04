@@ -15,9 +15,9 @@ intent_queries:
   - "自身免疫心理学的自助方法"
 trigger_keywords: ["自身免疫心理学", "act", "anxiety", "assessment", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/immune"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/depression/immune"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
     relation: "anxiety/depression/immune"

@@ -14,7 +14,7 @@ intent_queries:
   - "《当呼吸化为空气》When Breath Becomes Air的方法与实践"
 trigger_keywords: ["anxiety", "brain", "breathwork", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "anxiety/art_therapy/death"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "anxiety/art_therapy/death"

@@ -14,11 +14,11 @@ intent_queries:
   - "更年期健康 | Menopause的方法与实践"
 trigger_keywords: ["更年期健康", "Menopause", "anxiety", "assessment", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "anxiety/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
     relation: "anxiety/cardiovascular/depression"
@@ -210,7 +210,7 @@ cross_refs:
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 骨质疏松 | [心血管](../cardiovascular/) |
 | 太极拳 | [太极拳](../../../01-Wisdom-Traditions/tai-chi/) |
-| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md) |
 
 ---
 

@@ -14,9 +14,9 @@ intent_queries:
   - "鲁迅  - 哲学思想全览的方法与实践"
 trigger_keywords: ["art", "crisis", "developmental", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
     relation: "communication/exercise/personality"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md"
     relation: "communication/exercise/personality"

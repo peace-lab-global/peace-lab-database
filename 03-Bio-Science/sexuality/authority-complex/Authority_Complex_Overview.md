@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/emotion"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
     relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "anxiety/attachment/emotion"
 
 ---

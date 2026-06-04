@@ -14,11 +14,11 @@ intent_queries:
   - "T.K.V. Desikachar  — Viniyoga 创始人，个性化瑜伽先驱的方法与实践"
 trigger_keywords: ["个性化瑜伽先驱", "act", "art", "assessment", "attachment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "attachment/buddhism/exercise"
   - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
     relation: "attachment/buddhism/exercise"
@@ -236,6 +236,6 @@ KYM 采用滑动费用制（Sliding Scale），确保经济状况不同的人都
 - [克里希那马查亚](../modern-pioneers/Krishnamacharya.md) — 父亲与恩师
 - [B.K.S. 艾扬格](BKS_Iyengar.md) — 父亲的另一核心弟子
 - [帕塔比·乔伊斯](Pattabhi_Jois.md) — 父亲的另一核心弟子
-- [瑜伽治疗](../../Yoga_Therapy.md) — Viniyoga的治疗应用
-- [瑜伽心理健康临床应用](../../Yoga_Mental_Health_Clinical.md) — 临床整合
-- [瑜伽哲学](../../Yoga_Philosophy.md) — 哲学基础
+- [瑜伽治疗](../../therapy-clinical/Yoga_Therapy.md) — Viniyoga的治疗应用
+- [瑜伽心理健康临床应用](../../therapy-clinical/Yoga_Mental_Health_Clinical.md) — 临床整合
+- [瑜伽哲学](../../philosophy-history/Yoga_Philosophy.md) — 哲学基础

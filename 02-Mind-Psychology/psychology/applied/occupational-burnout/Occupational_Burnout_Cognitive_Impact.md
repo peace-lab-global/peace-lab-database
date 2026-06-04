@@ -206,7 +206,7 @@ Kaplan (1995) 的注意力恢复理论认为，自然环境中的"软迷恋" (so
 |---|---|---|---|
 | **慢性压力对认知的影响** | 皮质醇介导的海马和PFC损伤 | 倦怠是工作特异性的 | [慢性压力](../../stress-hpa/chronic-stress/) |
 | **注意力与专注力** | 注意力网络功能退化 | 倦怠的注意力损害更弥漫 | [认知科学](../../foundations/) |
-| **冥想与认知增强** | 正念训练改善前额叶功能 | 倦怠需要更多恢复而非训练 | [冥想概览](../../../meditation/overview/) |
+| **冥想与认知增强** | 正念训练改善前额叶功能 | 倦怠需要更多恢复而非训练 | [冥想概览](../../../meditation/foundations/overview/) |
 | **睡眠与认知** | 睡眠障碍加重认知损害 | 倦怠的失眠有特殊的反刍特征 | [睡眠科学](../../../../03-Bio-Science/) |
 
 ---
@@ -219,7 +219,7 @@ Kaplan (1995) 的注意力恢复理论认为，自然环境中的"软迷恋" (so
 | 慢性压力 | [Chronic Stress](../../stress-hpa/chronic-stress/) | 压力对认知功能的影响 |
 | 倦怠预防干预 | [Prevention](Occupational_Burnout_Prevention_Intervention.md) | 认知保护与恢复干预 |
 | 冥想实践 | [Meditation](../../../meditation/) | 正念对注意力的增强 |
-| 森林疗法 | [Forest Therapy](../../../therapy/forest-therapy/) | 自然暴露与注意力恢复 |
+| 森林疗法 | [Forest Therapy](../../../therapy/sensory-nature/forest-therapy/) | 自然暴露与注意力恢复 |
 
 ---
 *返回索引 [INDEX](INDEX.md) | 返回上级 [Applied Psychology](../INDEX.md) | 返回根目录 [README.md](./)*

@@ -9,8 +9,8 @@
 
 1. [太极拳总览](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md)
 2. [太极拳基础与练习](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md)
-3. [瑜伽体式与调息](../../01-Wisdom-Traditions/yoga/Yoga_Asana_Pranayama.md)
-4. [瑜伽解剖学](../../01-Wisdom-Traditions/yoga/Yoga_Anatomy_Physiology.md)
+3. [瑜伽体式与调息](../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Asana_Pranayama.md)
+4. [瑜伽解剖学](../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md)
 
 ## 阶段二：现代运动科学（第3-4周）
 
@@ -23,10 +23,10 @@
 
 9. [躯体体验疗法](../../02-Mind-Psychology/psychology/somatic-body/somatic/)
 10. [情绪科学与调节](../../02-Mind-Psychology/psychology/somatic-body/emotion/)
-11. [瑜伽心理疗愈原理](../../01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md)
+11. [瑜伽心理疗愈原理](../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md)
 12. [太极拳心理调适机制](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
-13. [声音疗愈与振动疗法](../../02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md)
-14. [频率疗愈与身心整合](../../02-Mind-Psychology/therapy/sensory/Sensory_Solfeggio_Frequencies.md)
+13. [声音疗愈与振动疗法](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md)
+14. [频率疗愈与身心整合](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md)
 
 ## 阶段四：日常正念整合（第7-8周）
 

@@ -14,15 +14,15 @@ intent_queries:
   - "阿德里安·米什勒（Adriene Mishler）的方法与实践"
 trigger_keywords: ["阿德里安", "act", "body", "exercise", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
     relation: "anxiety/exercise/pain"
 
 ---

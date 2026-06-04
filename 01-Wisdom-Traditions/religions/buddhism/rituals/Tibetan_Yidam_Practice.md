@@ -14,15 +14,15 @@ intent_queries:
   - "藏传佛教本尊观修仪轨的方法与实践"
 trigger_keywords: ["藏传佛教本尊观修仪轨", "act", "anxiety", "breathwork", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "aging/anxiety/buddhism"
 
 ---

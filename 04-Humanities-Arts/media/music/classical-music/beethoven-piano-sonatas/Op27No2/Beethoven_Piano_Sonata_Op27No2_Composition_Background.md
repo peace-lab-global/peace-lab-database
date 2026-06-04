@@ -15,7 +15,7 @@ intent_queries:
   - "贝多芬《月光奏鸣曲》创作背景与心理分析的自助方法"
 trigger_keywords: ["anxiety", "art", "assessment", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/depression"

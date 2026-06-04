@@ -14,15 +14,15 @@ intent_queries:
   - "六妙法门的方法与实践"
 trigger_keywords: ["六妙法门", "body", "breathwork", "sexuality", "sleep"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Dipa_Ma.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md"
     relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "buddhism/meditation/sexuality"
 
 ---

@@ -14,7 +14,7 @@ intent_queries:
   - "《没有淤泥，没有莲花》No Mud, No Lotus的方法与实践"
 trigger_keywords: ["《没有淤泥", "aging", "body", "breathwork", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/death"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/buddhism"

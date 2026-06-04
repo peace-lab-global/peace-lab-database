@@ -16,7 +16,7 @@ trigger_keywords: ["系统论", "act", "behavioral", "cognitive", "crisis"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
     relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Sports_Performance.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
     relation: "communication/exercise/productivity"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/exercise/productivity"

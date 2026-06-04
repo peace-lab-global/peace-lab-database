@@ -14,13 +14,13 @@ intent_queries:
   - "Vajrayana/Tantra的方法与实践"
 trigger_keywords: ["Vajrayana", "Tantra", "attachment", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "attachment/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/communication/exercise"
   - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
     relation: "attachment/communication/exercise"

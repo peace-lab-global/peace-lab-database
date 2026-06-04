@@ -17,7 +17,7 @@ trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
     relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/depression/emotion"
   - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
     relation: "anxiety/depression/emotion"

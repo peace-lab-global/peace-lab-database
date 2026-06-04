@@ -16,9 +16,9 @@ trigger_keywords: ["act", "assessment", "brain", "breathwork"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "exercise/meditation/neuroscience"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "exercise/meditation/neuroscience"

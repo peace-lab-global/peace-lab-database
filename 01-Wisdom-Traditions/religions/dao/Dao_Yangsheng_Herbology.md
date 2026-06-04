@@ -22,7 +22,7 @@ cross_refs:
     relation: "cardiovascular/emotion/exercise"
   - path: "README.md"
     relation: "cardiovascular/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "cardiovascular/daoism/emotion"
 
 ---

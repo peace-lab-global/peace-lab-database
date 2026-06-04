@@ -14,7 +14,7 @@ intent_queries:
   - "《可爱的骨头》The Lovely Bones的方法与实践"
 trigger_keywords: ["cinema", "death", "grief", "文学"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/depression"
   - path: "03-Bio-Science/death/Death_Art_Death.md"
     relation: "art_therapy/death/depression"

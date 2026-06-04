@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/emotion/exercise"
   - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
     relation: "art_therapy/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "daoism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_17_Nature_Elements.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
     relation: "daoism/emotion/exercise"
 
 ---

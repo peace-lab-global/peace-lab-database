@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/communication/emotion"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
     relation: "anxiety/communication/emotion"
 
 ---

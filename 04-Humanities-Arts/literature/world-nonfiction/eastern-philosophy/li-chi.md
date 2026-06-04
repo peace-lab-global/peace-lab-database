@@ -14,7 +14,7 @@ intent_queries:
   - "《礼记》Li-chi / Book of Rites的方法与实践"
 trigger_keywords: ["《礼记》Li-chi", "behavioral", "buddhism", "death", "personality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/communication"
   - path: "README.md"
     relation: "art_therapy/buddhism/communication"

@@ -14,15 +14,15 @@ intent_queries:
   - "What Makes You Not a Buddhist | 正见：佛陀的证悟的方法与实践"
 trigger_keywords: ["正见：佛陀的证悟", "buddhism", "emotion", "philosophy", "positive-psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
     relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/emotion/pain"
 
 ---

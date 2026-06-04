@@ -14,11 +14,11 @@ intent_queries:
   - "疗愈花园设计 | Healing Garden Design的方法与实践"
 trigger_keywords: ["疗愈花园设计", "aging", "anxiety", "body", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/emotion"
   - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
     relation: "aging/anxiety/emotion"
@@ -151,8 +151,8 @@ cross_refs:
 |------|------|
 | 园艺疗愈总览 | [总览](Horticultural_Therapy_Overview.md) |
 | 临床园艺治疗 | [临床](Horticultural_Therapy_Clinical.md) |
-| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/forest-therapy/) |
-| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory/) |
+| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
+| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
 | 环境心理学 | [环境](../../../02-Mind-Psychology/psychology/) |
 
 ---

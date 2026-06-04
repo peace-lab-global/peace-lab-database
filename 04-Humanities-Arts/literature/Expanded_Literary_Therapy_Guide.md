@@ -15,9 +15,9 @@ intent_queries:
   - "文学治疗应用体系扩展版：具体案例与实践指南的循证证据"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
     relation: "anxiety/communication/depression"
   - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
     relation: "anxiety/communication/depression"

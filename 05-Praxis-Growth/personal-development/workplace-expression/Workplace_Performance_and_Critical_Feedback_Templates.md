@@ -18,11 +18,11 @@ cross_refs:
     relation: "communication/emotion/personality"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
     relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/13-MBBI-Curriculum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/13-MBBI-Curriculum.md"
     relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "communication/emotion/personality"
 
 ---

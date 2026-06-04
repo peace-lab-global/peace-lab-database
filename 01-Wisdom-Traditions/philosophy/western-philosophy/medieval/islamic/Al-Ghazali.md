@@ -14,7 +14,7 @@ intent_queries:
   - "阿尔-加扎利的方法与实践"
 trigger_keywords: ["阿尔-加扎利", "behavioral", "cbt", "cognitive", "crisis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "emotion/exercise/meditation"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "emotion/exercise/meditation"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "emotion/exercise/meditation"
   - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/therapy/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
     relation: "emotion/exercise/meditation"
 
 ---

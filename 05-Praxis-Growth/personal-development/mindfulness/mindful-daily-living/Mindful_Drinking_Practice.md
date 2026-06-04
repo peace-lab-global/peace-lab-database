@@ -14,11 +14,11 @@ intent_queries:
   - "正念饮水专业实践指南的方法与实践"
 trigger_keywords: ["正念饮水专业实践指南", "act", "addiction", "adolescent", "aging"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
     relation: "aging/anxiety/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment.md"
     relation: "aging/anxiety/emotion"

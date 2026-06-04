@@ -14,11 +14,11 @@ intent_queries:
   - "Male Prostate Orgasm的方法与实践"
 trigger_keywords: ["body", "breathwork", "clinical", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Sexual_Health.md"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Sexual_Health.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Sound_Medicine.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
     relation: "communication/emotion/neuroscience"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
     relation: "communication/emotion/neuroscience"

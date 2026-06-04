@@ -14,7 +14,7 @@ intent_queries:
   - "《六祖坛经》The Platform Sutra的方法与实践"
 trigger_keywords: ["anxiety", "buddhism", "personality", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "anxiety/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
     relation: "anxiety/buddhism/meditation"

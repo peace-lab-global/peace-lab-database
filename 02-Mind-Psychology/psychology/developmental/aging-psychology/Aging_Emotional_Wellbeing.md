@@ -226,7 +226,7 @@ cross_refs:
 | 退休适应 | [退休适应](Aging_Retirement_Transition.md) |
 | 死亡焦虑 | [死亡](../../../../03-Bio-Science/death/) |
 | 冥想 | [冥想](../../../meditation/) |
-| 正念 | [MBSR](../../../meditation/mbsr-program/) |
+| 正念 | [MBSR](../../../meditation/clinical/mbsr-program/) |
 
 ---
 

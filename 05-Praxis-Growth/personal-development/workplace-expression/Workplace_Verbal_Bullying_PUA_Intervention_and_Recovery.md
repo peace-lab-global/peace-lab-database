@@ -15,7 +15,7 @@ intent_queries:
   - "职场语言霸凌与PUA：干预方案与心理康复指南的自助方法"
 trigger_keywords: ["assessment", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
     relation: "communication/emotion/exercise"

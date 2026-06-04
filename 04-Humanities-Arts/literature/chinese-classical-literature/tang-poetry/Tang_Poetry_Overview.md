@@ -16,7 +16,7 @@ trigger_keywords: ["act", "art", "buddhism", "developmental"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "buddhism/emotion/exercise"
   - path: "README.md"
     relation: "art_therapy/buddhism/emotion"

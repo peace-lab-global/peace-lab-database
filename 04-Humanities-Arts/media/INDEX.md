@@ -66,7 +66,7 @@ cross_refs:
 - [安全与伦理](media-therapy/Media_Safety_Ethics.md) - 触发警示、内容分级、伦理议题
 
 ### 6. 冥想与瑜伽纪录片 (Meditation & Yoga Documentaries)
-- [冥想纪录片指南](../../02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md) - 17部正念冥想纪录片完整指南
+- [冥想纪录片指南](../../02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md) - 17部正念冥想纪录片完整指南
 - [瑜伽纪录片指南](../../01-Wisdom-Traditions/yoga/documentary/Yoga_Documentary_Guide.md) - 10部瑜伽纪录片完整指南
 
 ---

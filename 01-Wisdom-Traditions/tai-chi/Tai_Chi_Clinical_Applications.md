@@ -16,13 +16,13 @@ trigger_keywords: ["太极拳临床应用", "adolescent", "aging", "anxiety", "a
 cross_refs:
   - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
     relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "aging/anxiety/cardiovascular"
 
 ---
@@ -304,7 +304,7 @@ cross_refs:
 | 心血管健康 | [心血管](../../03-Bio-Science/biology/cardiovascular/) |
 | 运动处方 | [伸展运动](../../03-Bio-Science/biology/stretch/) |
 | 心理健康 | [心理治疗](../../02-Mind-Psychology/therapy/) |
-| 瑜伽疗愈 | [瑜伽疗愈](../yoga/Yoga_Therapy.md) |
+| 瑜伽疗愈 | [瑜伽疗愈](../yoga/therapy-clinical/Yoga_Therapy.md) |
 
 ---
 

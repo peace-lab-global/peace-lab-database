@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/buddhism/emotion"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/buddhism/emotion"
 
 ---
@@ -179,8 +179,8 @@ cross_refs:
 - [正念减压疗法 (MBSR)](../Mindfulness_Based_Stress_Reduction.md)
 - [正念认知疗法 (MBCT)](../Mindfulness_Based_Cognitive_Therapy.md)
 - [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md)
-- [冥想核心](/02-Mind-Psychology/meditation/overview/Meditation_Core.md)
-- [专注力冥想疗愈](/02-Mind-Psychology/therapy/focus-therapy/Focus_Meditation_Therapy.md)
+- [冥想核心](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
+- [专注力冥想疗愈](/02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
 
 ---
 

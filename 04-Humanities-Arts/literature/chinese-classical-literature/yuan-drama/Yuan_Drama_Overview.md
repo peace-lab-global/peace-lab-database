@@ -20,9 +20,9 @@ cross_refs:
     relation: "art_therapy/nutrition/sexuality"
   - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
     relation: "attachment/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "attachment/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nutrition_Lifestyle.md"
+  - path: "01-Wisdom-Traditions/yoga/lifestyle/Yoga_Nutrition_Lifestyle.md"
     relation: "attachment/nutrition/sexuality"
 
 ---

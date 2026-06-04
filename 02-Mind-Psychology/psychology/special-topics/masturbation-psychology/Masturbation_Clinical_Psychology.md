@@ -168,6 +168,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [自慰心理学概述](Masturbation_Psychology_Overview.md) | [社会文化变迁](Masturbation_Cultural_History.md) | [心理健康评估与干预](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md) | [心理困扰与应对](../../../relationships/masturbation-relationships/Masturbation_Distress_Coping.md) | [性心理健康](../../../relationships/masturbation-relationships/Masturbation_Sexual_Health.md)
+> 🔗 **交叉引用**: [自慰心理学概述](Masturbation_Psychology_Overview.md) | [社会文化变迁](Masturbation_Cultural_History.md) | [心理健康评估与干预](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md) | [心理困扰与应对](../../../relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md) | [性心理健康](../../../relationships/sexuality/masturbation-relationships/Masturbation_Sexual_Health.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回特殊专题索引](../INDEX.md)

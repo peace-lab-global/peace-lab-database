@@ -14,7 +14,7 @@ intent_queries:
   - "Clinical & Workplace Applications in Death Care的方法与实践"
 trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/death"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
     relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "anxiety/communication/death"
 
 ---

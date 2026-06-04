@@ -14,7 +14,7 @@ intent_queries:
   - "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南的方法与实践"
 trigger_keywords: ["art", "assessment", "brain", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/emotion"
   - path: "README.md"
     relation: "art_therapy/communication/emotion"

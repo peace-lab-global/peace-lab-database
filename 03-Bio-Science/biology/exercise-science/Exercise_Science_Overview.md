@@ -316,7 +316,7 @@ Step 2b (不活跃者):
 | 关联主题 | 所在支柱 | 文档路径 | 关联维度 |
 |---------|---------|---------|---------|
 | 太极拳 | 01-Wisdom | `tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md` | 低强度神经肌肉训练 |
-| 瑜伽解剖学 | 01-Wisdom | `yoga/Yoga_Anatomy_Physiology.md` | 柔韧与功能性运动 |
+| 瑜伽解剖学 | 01-Wisdom | `yoga/anatomy-science/Yoga_Anatomy_Physiology.md` | 柔韧与功能性运动 |
 | 拉伸疗法 | 03-Bio | `biology/stretch/` | 柔韧训练与损伤预防 |
 | 睡眠科学 | 02-Mind | `psychology/somatic-body/sleep/` | 运动与睡眠质量 |
 | HPA轴 | 03-Bio | `biology/hpa-axis/` | 运动对皮质醇调节 |

@@ -14,7 +14,7 @@ intent_queries:
   - "晨间血压调节概览 | Morning Blood Pressure Regulation Overview的方法与实践"
 trigger_keywords: ["晨间血压调节概览", "act", "aging", "assessment", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/cardiovascular/communication"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "aging/cardiovascular/emotion"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/cardiovascular/communication"
   - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
     relation: "aging/cardiovascular/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/communication/emotion"
 
 ---

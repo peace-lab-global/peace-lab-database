@@ -14,7 +14,7 @@ intent_queries:
   - "contemporary | 当代文学知识库的方法与实践"
 trigger_keywords: ["当代文学知识库", "body", "literature", "marriage", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/sexuality"
   - path: "README.md"
     relation: "art_therapy/attachment/sexuality"

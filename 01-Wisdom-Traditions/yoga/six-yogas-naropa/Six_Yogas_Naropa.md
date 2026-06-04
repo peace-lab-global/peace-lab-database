@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/buddhism/death"
   - path: "README.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/neuroscience"
 
 ---

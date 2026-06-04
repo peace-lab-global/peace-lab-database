@@ -18,11 +18,11 @@ cross_refs:
     relation: "anxiety/attachment/communication"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
     relation: "anxiety/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Intimacy_Relationships.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
     relation: "anxiety/attachment/communication"
 
 ---

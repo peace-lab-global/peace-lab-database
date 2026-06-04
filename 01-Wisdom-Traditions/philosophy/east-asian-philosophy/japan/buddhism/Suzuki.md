@@ -14,15 +14,15 @@ intent_queries:
   - "铃木大拙的方法与实践"
 trigger_keywords: ["铃木大拙", "art", "cognitive", "developmental", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "buddhism/exercise/meditation"
 
 ---

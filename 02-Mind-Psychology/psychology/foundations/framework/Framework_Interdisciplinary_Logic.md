@@ -14,7 +14,7 @@ intent_queries:
   - "Interdisciplinary的方法与实践"
 trigger_keywords: ["art", "behavioral", "brain", "cbt"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/emotion/exercise"
   - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
     relation: "emotion/exercise/immune"

@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/attachment/personality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
     relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Philosophy.md"
+  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
     relation: "anxiety/attachment/personality"
 
 ---

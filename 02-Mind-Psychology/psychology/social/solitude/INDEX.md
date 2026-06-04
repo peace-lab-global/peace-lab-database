@@ -22,7 +22,7 @@ cross_refs:
     relation: "attachment/buddhism/exercise"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "attachment/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Meditation_Dharana_Dhyana.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
     relation: "aging/attachment/buddhism"
 
 ---
@@ -105,7 +105,7 @@ cross_refs:
 |---------|------|---------|
 | **孤独研究体系** | `../loneliness/` | 独处的"前身"与转化对象——理解孤独是善用独处的前提 |
 | **婚内孤独** | `../loneliness/Loneliness_Marital.md` | 婚姻中的独处需求与空间边界（本文档聚焦"关系中的健康空间"，婚内孤独文档聚焦"婚姻中的情感缺失"） |
-| **冥想体系** | `../../../meditation/overview/` | 冥想是最结构化的独处实践形式 |
+| **冥想体系** | `../../../meditation/foundations/overview/` | 冥想是最结构化的独处实践形式 |
 | **正念生活** | `../../../../05-Praxis-Growth/personal-development/mindfulness/` | 正念是将独处品质带入日常的工具 |
 | **自我慈悲** | `../../self-regulation/self-compassion/` | 自我慈悲是独处时最核心的内在关系 |
 | **文学疗愈** | `../../../../04-Humanities-Arts/literature/therapy/` | 文学是独处时最深邃的陪伴 |

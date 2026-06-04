@@ -14,11 +14,11 @@ intent_queries:
   - "Routine Practices的方法与实践"
 trigger_keywords: ["act", "anxiety", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "anxiety/depression/emotion"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/depression/emotion"

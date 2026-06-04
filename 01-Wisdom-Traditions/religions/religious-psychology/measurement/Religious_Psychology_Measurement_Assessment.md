@@ -15,15 +15,15 @@ intent_queries:
   - "宗教心理学测量工具与评估的自助方法"
 trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
     relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/emotion/sexuality"
 
 ---

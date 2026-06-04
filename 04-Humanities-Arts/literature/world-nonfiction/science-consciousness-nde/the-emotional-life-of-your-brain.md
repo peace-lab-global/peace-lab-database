@@ -14,15 +14,15 @@ intent_queries:
   - "《大脑的情绪生活》The Emotional Life of Your Brain的方法与实践"
 trigger_keywords: ["assessment", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/emotion"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
     relation: "buddhism/emotion/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
     relation: "buddhism/emotion/meditation"
 
 ---

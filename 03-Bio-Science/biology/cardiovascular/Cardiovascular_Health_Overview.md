@@ -14,11 +14,11 @@ intent_queries:
   - "心血管健康总览 | Cardiovascular Health Overview的方法与实践"
 trigger_keywords: ["心血管健康总览", "assessment", "brain", "cardiovascular", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "body_image/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
     relation: "body_image/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "cardiovascular/depression/exercise"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "cardiovascular/exercise/neuroscience"

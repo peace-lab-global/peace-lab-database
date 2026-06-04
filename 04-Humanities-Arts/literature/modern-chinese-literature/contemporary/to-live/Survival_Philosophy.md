@@ -16,7 +16,7 @@ trigger_keywords: ["生存哲学", "act", "body", "brain", "breathwork"]
 cross_refs:
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md"
     relation: "buddhism/cardiovascular/depression"

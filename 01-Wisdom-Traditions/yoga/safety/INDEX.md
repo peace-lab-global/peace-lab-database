@@ -16,13 +16,13 @@ trigger_keywords: ["瑜伽安全", "clinical", "crisis", "psychology", "sexualit
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/guided-courses/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Tara_Brach.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
     relation: "sexuality/therapy/trauma"
 
 ---
@@ -41,6 +41,6 @@ cross_refs:
 
 ## 相关链接
 
-- [瑜伽治疗](../Yoga_Therapy.md)
-- [瑜伽解剖学与生理学](../Yoga_Anatomy_Physiology.md)
-- [瑜伽心理健康临床应用](../Yoga_Mental_Health_Clinical.md)
+- [瑜伽治疗](../therapy-clinical/Yoga_Therapy.md)
+- [瑜伽解剖学与生理学](../anatomy-science/Yoga_Anatomy_Physiology.md)
+- [瑜伽心理健康临床应用](../therapy-clinical/Yoga_Mental_Health_Clinical.md)

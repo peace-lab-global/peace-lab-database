@@ -18,7 +18,7 @@ cross_refs:
     relation: "anxiety/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "anxiety/buddhism/death"
   - path: "README.md"
     relation: "anxiety/art_therapy/buddhism"

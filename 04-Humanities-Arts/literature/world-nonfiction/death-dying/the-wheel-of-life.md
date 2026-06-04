@@ -14,15 +14,15 @@ intent_queries:
   - "《生命之轮》The Wheel of Life的方法与实践"
 trigger_keywords: ["communication", "death", "depression", "neuroscience"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-1-science-of-breathing.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
     relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/depression"
   - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
     relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "communication/death/depression"
 
 ---

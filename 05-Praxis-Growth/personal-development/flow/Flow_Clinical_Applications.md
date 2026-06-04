@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/depression/exercise"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/depression/exercise"
 
 ---

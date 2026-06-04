@@ -14,15 +14,15 @@ intent_queries:
   - "modern-applications | Index的方法与实践"
 trigger_keywords: ["Index", "act", "addiction", "anxiety", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/buddhism/depression"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Advanced_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/buddhism/depression"
 
 ---
@@ -54,7 +54,7 @@ cross_refs:
 - [止观禅修详表 — 神经科学章节](../meditation/Buddhism_Samatha_Vipassana.md) — 前额叶皮层、默认模式网络(DMN)、θ波/α波、EEG/fMRI 研究证据
 
 #### 跨项目深度研究
-- **止观禅定神经科学专项** → [02-Mind-Psychology 神经科学研究](../../../../02-Mind-Psychology/meditation/samatha-vipassana/Neuroscience_Research.md) — 结构脑变化、表观遗传学、50+论文索引
+- **止观禅定神经科学专项** → [02-Mind-Psychology 神经科学研究](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) — 结构脑变化、表观遗传学、50+论文索引
 
 ---
 
@@ -69,7 +69,7 @@ cross_refs:
 #### 跨项目身心整合
 - **太极身心调整** → [01-Wisdom-Traditions 太极心理调整机制](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
 - **太极神经科学证据** → [01-Wisdom-Traditions 太极神经科学](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md)
-- **瑜伽阿育吠陀整合** → [01-Wisdom-Traditions 瑜伽疗法整合](../../../../01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md)
+- **瑜伽阿育吠陀整合** → [01-Wisdom-Traditions 瑜伽疗法整合](../../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
 
 ---
 

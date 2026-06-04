@@ -14,11 +14,11 @@ intent_queries:
   - "普罗提诺的方法与实践"
 trigger_keywords: ["普罗提诺", "developmental", "healing", "meditation", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
     relation: "meditation/personality/productivity"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "meditation/personality/productivity"

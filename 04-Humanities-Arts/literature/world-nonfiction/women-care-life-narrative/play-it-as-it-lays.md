@@ -16,9 +16,9 @@ trigger_keywords: ["act", "behavioral", "body", "death"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/communication/depression"
   - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
     relation: "attachment/death/depression"

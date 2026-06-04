@@ -17,13 +17,13 @@ trigger_keywords: ["临床园艺治疗", "adolescent", "aging", "anxiety", "asse
 cross_refs:
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
 
 ---
@@ -153,8 +153,8 @@ cross_refs:
 |------|------|
 | 园艺疗愈总览 | [总览](Horticultural_Therapy_Overview.md) |
 | 疗愈花园设计 | [花园](Healing_Garden_Design.md) |
-| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/forest-therapy/) |
-| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory/) |
+| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
+| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
 | 儿童发展 | [儿童](../../../02-Mind-Psychology/psychology/developmental/child-development/) |
 
 ---

@@ -14,7 +14,7 @@ intent_queries:
   - "The Power of Habit 习惯的力量的方法与实践"
 trigger_keywords: ["act", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "emotion/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "emotion/exercise/neuroscience"

@@ -18,7 +18,7 @@ cross_refs:
     relation: "depression/emotion/productivity"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "depression/emotion/productivity"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "depression/emotion/productivity"
   - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
     relation: "depression/emotion/productivity"

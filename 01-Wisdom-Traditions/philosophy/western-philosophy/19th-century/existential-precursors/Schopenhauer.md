@@ -16,13 +16,13 @@ trigger_keywords: ["阿图尔", "叔本华", "art", "cognitive", "developmental"
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
     relation: "meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/INDEX.md"
     relation: "meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "meditation/sexuality"
 
 ---

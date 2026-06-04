@@ -15,13 +15,13 @@ intent_queries:
   - "疼痛的身心疗法 | Pain Mind-Body Approaches的循证证据"
 trigger_keywords: ["疼痛的身心疗法", "act", "anxiety", "body", "breathwork"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "anxiety/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
     relation: "anxiety/daoism/emotion"
@@ -191,7 +191,7 @@ cross_refs:
 |---------|------|--------|
 | 疼痛科学总览 | [Pain_Science_Overview](Pain_Science_Overview.md) | 疼痛机制基础 |
 | 心理干预 | [Pain_Psychology_Intervention](Pain_Psychology_Intervention.md) | CBT/ACT |
-| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../01-Wisdom-Traditions/yoga/Yoga_Therapy.md) | 瑜伽疗法 |
+| 瑜伽治疗 | [01-Wisdom-Traditions/yoga/Yoga_Therapy](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md) | 瑜伽疗法 |
 | 太极拳 | [01-Wisdom-Traditions/tai-chi/](../../../01-Wisdom-Traditions/tai-chi/) | 太极拳练习 |
 | 推拿 | [03-Bio-Science/biology/tuina/](../tuina/) | 手法治疗 |
 | 呼吸法 | [03-Bio-Science/biology/breathwork/](../breathwork/) | 呼吸训练 |

@@ -14,15 +14,15 @@ intent_queries:
   - "冲突解决概述 | Conflict Resolution Overview的方法与实践"
 trigger_keywords: ["冲突解决概述", "assessment", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_04_Emotion.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Client_Relations.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Client_Relations.md"
     relation: "communication/emotion/neuroscience"
 
 ---

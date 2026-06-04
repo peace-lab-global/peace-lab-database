@@ -20,7 +20,7 @@ cross_refs:
     relation: "aging/anxiety/depression"
   - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
     relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/depression/emotion"
   - path: "03-Bio-Science/INDEX.md"
     relation: "aging/anxiety/emotion"

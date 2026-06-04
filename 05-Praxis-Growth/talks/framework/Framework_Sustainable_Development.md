@@ -22,7 +22,7 @@ cross_refs:
     relation: "nutrition/sexuality/therapy"
   - path: "01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md"
     relation: "nutrition/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "nutrition/sexuality/therapy"
 
 ---

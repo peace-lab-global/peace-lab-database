@@ -14,7 +14,7 @@ intent_queries:
   - "肖邦《钢琴协奏曲》综合指南的方法与实践"
 trigger_keywords: ["adolescent", "art", "brain", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "communication/emotion/exercise"

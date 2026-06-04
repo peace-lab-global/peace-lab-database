@@ -14,15 +14,15 @@ intent_queries:
   - "栗谷李珥的方法与实践"
 trigger_keywords: ["栗谷李珥", "cognitive", "developmental", "emotion", "healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
     relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
     relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
     relation: "emotion/neuroscience/personality"
 
 ---

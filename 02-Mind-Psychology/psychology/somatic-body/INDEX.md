@@ -22,7 +22,7 @@ cross_refs:
     relation: "emotion/sleep/therapy"
   - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
     relation: "emotion/sleep/therapy"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Ayurvedic_Therapy_Integration.md"
+  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
     relation: "emotion/sleep/therapy"
 
 ---

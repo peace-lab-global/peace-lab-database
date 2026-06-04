@@ -17,13 +17,13 @@ trigger_keywords: ["每日打卡核心理论", "act", "assessment", "behavioral"
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
     relation: "emotion/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
     relation: "emotion/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "emotion/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Neuroscience_Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
     relation: "emotion/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
     relation: "emotion/exercise/nutrition"
 
 ---

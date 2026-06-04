@@ -14,11 +14,11 @@ intent_queries:
   - "职场语言霸凌与PUA：案例库与行为模式分析的方法与实践"
 trigger_keywords: ["addiction", "behavioral", "cognitive", "communication"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/tools/Meditation_Safety_Screening.md"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
     relation: "anxiety/communication/emotion"

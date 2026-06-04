@@ -14,11 +14,11 @@ intent_queries:
   - "罗德尼·怡（Rodney Yee）的方法与实践"
 trigger_keywords: ["罗德尼", "ballet", "body", "developmental", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/communication/exercise"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
     relation: "attachment/communication/exercise"

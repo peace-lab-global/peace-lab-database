@@ -14,11 +14,11 @@ intent_queries:
   - "六祖大师法宝坛经的方法与实践"
 trigger_keywords: ["六祖大师法宝坛经", "buddhism", "sexuality", "tai-chi", "zen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/daoism"
   - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/INDEX.md"
     relation: "art_therapy/buddhism/daoism"

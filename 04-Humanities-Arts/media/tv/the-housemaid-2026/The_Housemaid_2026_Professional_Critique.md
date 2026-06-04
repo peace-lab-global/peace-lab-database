@@ -23,7 +23,7 @@ cross_refs:
     relation: "anxiety/attachment/neuroscience"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "anxiety/attachment/neuroscience"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/attachment/neuroscience"
 
 ---

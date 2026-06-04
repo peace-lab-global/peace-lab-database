@@ -39,8 +39,8 @@
 ## 阶段三：身心传统实践（第5-6周）
 
 8. [太极拳临床应用](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md)
-9. [瑜伽特殊人群](../../01-Wisdom-Traditions/yoga/Yoga_Specific_Populations.md)
-10. [冥想核心与脑保护](../../02-Mind-Psychology/meditation/overview/Meditation_Brain_Science_Foundations.md)
+9. [瑜伽特殊人群](../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md)
+10. [冥想核心与脑保护](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Brain_Science_Foundations.md)
 11. [内经养生实践](../../01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md)
 
 ## 阶段四：创意与审美疗愈（第7-8周）

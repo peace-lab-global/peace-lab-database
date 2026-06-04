@@ -18,7 +18,7 @@ cross_refs:
     relation: "art_therapy/buddhism/exercise"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C3-1-keyword-of-samatha-stillness.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
     relation: "art_therapy/buddhism/exercise"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
     relation: "buddhism/exercise/meditation"

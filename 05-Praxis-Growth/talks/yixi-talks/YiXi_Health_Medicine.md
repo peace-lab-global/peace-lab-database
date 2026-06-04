@@ -18,11 +18,11 @@ cross_refs:
     relation: "communication/exercise/nutrition"
   - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
     relation: "communication/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "communication/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
     relation: "communication/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Weekly_Curriculum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
     relation: "communication/exercise/nutrition"
 
 ---

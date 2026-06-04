@@ -15,7 +15,7 @@ intent_queries:
   - "政治心理学测量工具与研究方法的自助方法"
 trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Psychological_Healing_Principles.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
     relation: "anxiety/communication/emotion"
   - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
     relation: "anxiety/communication/emotion"

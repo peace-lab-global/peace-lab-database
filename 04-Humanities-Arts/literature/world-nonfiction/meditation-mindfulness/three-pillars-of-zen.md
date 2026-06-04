@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/buddhism/communication"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/17-Family-Caregiver.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/art_therapy/buddhism"
 
 ---

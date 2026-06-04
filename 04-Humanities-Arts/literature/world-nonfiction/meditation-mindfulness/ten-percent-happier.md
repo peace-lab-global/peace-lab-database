@@ -14,7 +14,7 @@ intent_queries:
   - "《10% Happier》的方法与实践"
 trigger_keywords: ["anxiety", "behavioral", "breathwork", "clinical"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/art_therapy/meditation"
   - path: "README.md"
     relation: "anxiety/art_therapy/meditation"

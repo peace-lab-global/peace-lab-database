@@ -15,13 +15,13 @@
 ## 阶段二：心理干预与技能（第3-4周）
 
 5. [倦怠预防干预](../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Prevention_Intervention.md)
-6. [接纳承诺疗法 (ACT)](../../02-Mind-Psychology/therapy/act-therapy/)
+6. [接纳承诺疗法 (ACT)](../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/)
 7. [情商与领导力/职场](../../05-Praxis-Growth/personal-development/emotional-intelligence/EI_Leadership_Workplace.md)
 8. [非防御性沟通](../../05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
 
 ## 阶段三：正念与身心恢复（第5-6周）
 
-9. [MBSR正念减压](../../02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md)
+9. [MBSR正念减压](../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
 10. [太极拳心理调适](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
 11. [禅宗日常实修](../../01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md)
 12. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)

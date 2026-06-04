@@ -14,7 +14,7 @@ intent_queries:
   - "Stretch Integration & Movement Systems的方法与实践"
 trigger_keywords: ["anxiety", "art", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/exercise/neuroscience"
   - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
     relation: "anxiety/exercise/neuroscience"

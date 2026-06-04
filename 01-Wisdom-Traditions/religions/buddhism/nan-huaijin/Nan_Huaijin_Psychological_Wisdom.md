@@ -15,15 +15,15 @@ intent_queries:
   - "南怀瑾心理智慧专业内容体系的自助方法"
 trigger_keywords: ["assessment", "body", "breathwork", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/masters/chinese/Jiang_Weiqiao.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Jiang_Weiqiao.md"
     relation: "buddhism/communication/daoism"
 
 ---

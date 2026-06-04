@@ -14,15 +14,15 @@ intent_queries:
   - "每日打卡系统设计与实践的方法与实践"
 trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Pregnancy.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
     relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/focus-therapy/Focus_Workplace_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Workplace_Therapy.md"
     relation: "anxiety/communication/emotion"
 
 ---

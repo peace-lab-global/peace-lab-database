@@ -2,7 +2,7 @@
 
 > **版本**: v1.0
 > **创建日期**: 2026-05-18
-> **用途**: 指导如何在文档中嵌入 Visualization/ 目录中的图谱可视化
+> **用途**: 指导如何在文档中嵌入 Web/visualization/ 目录中的图谱可视化
 
 ---
 
@@ -12,9 +12,9 @@
 
 | 文件 | 说明 | 目录位置 |
 |------|------|---------|
-| `initial-autofit.png` | 初始知识图谱 | Visualization/ |
-| `after-ballet.png` | 芭蕾知识图谱 | Visualization/ |
-| `after-ballet-fixed.png` | 芭蕾知识图谱（修复版） | Visualization/ |
+| `initial-autofit.png` | 初始知识图谱 | Web/visualization/ |
+| `after-ballet.png` | 芭蕾知识图谱 | Web/visualization/ |
+| `after-ballet-fixed.png` | 芭蕾知识图谱（修复版） | Web/visualization/ |
 
 ### 1.2 布局配置 (YAML)
 
@@ -42,7 +42,7 @@
 ```markdown
 ## 图谱预览
 
-![知识图谱](../Visualization/initial-autofit.png)
+![知识图谱](../Web/visualization/initial-autofit.png)
 ```
 
 **效果**: 直接显示图片，适合静态阅读。
@@ -59,7 +59,7 @@
 <details>
 <summary>点击展开图谱</summary>
 
-![图谱](../Visualization/initial-autofit.png)
+![图谱](../Web/visualization/initial-autofit.png)
 
 *图注：初始知识图谱，展示了五大支柱的关联结构*
 </details>
@@ -74,11 +74,11 @@
 对于交互式 HTML 应用，在支持 iframe 的环境中使用：
 
 ```html
-<iframe src="../Visualization/index.html" width="100%" height="600" frameborder="0"></iframe>
+<iframe src="../Web/visualization/index.html" width="100%" height="600" frameborder="0"></iframe>
 ```
 
 **注意**:
-- 需要确保 `Visualization/` 目录已构建或可访问
+- 需要确保 `Web/visualization/` 目录已构建或可访问
 - iframe 可能影响页面加载性能
 - 移动端兼容性需测试
 
@@ -91,9 +91,9 @@
 ```markdown
 ## 知识图谱
 
-[![图谱缩略图](../Visualization/initial-autofit.png)](../Visualization/initial-autofit.png)
+[![图谱缩略图](../Web/visualization/initial-autofit.png)](../Web/visualization/initial-autofit.png)
 
-[查看完整图谱](../Visualization/initial-autofit.png)
+[查看完整图谱](../Web/visualization/initial-autofit.png)
 ```
 
 **效果**: 页面加载快，点击查看完整图谱。
@@ -110,7 +110,7 @@
 <details>
 <summary>点击查看完整图谱</summary>
 
-![五大支柱知识图谱](../Visualization/initial-autofit.png)
+![五大支柱知识图谱](../Web/visualization/initial-autofit.png)
 
 *图注：展示了智慧传承、心智心理学、生命科学、人文艺术、实践成长五大支柱之间的交叉关联。*
 
@@ -131,7 +131,7 @@
 
 以下是本专题的知识结构图谱：
 
-![专题图谱](../Visualization/after-ballet.png)
+![专题图谱](../Web/visualization/after-ballet.png)
 
 **图谱说明**:
 - 中心节点：当前专题
@@ -153,7 +153,7 @@
 <details>
 <summary>心智与心理学知识图谱</summary>
 
-![心智心理学图谱](../Visualization/initial-autofit.png)
+![心智心理学图谱](../Web/visualization/initial-autofit.png)
 
 *图注：心智与心理学支柱的知识结构，涵盖理论基础、临床心理、压力与HPA轴、发展心理学、社会心理学、冥想技术等核心领域。*
 
@@ -189,7 +189,7 @@
 
 如需更新或创建新图谱：
 
-1. **编辑 YAML 配置**：修改 `Visualization/*.yaml` 中的节点和布局
+1. **编辑 YAML 配置**：修改 `Web/visualization/*.yaml` 中的节点和布局
 2. **运行构建脚本**：根据 `graph-app.js` 的配置生成新的 PNG
 3. **更新嵌入引用**：替换文档中的图片引用路径
 

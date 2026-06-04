@@ -14,11 +14,11 @@ intent_queries:
   - "唯识与中观的对话与融合的方法与实践"
 trigger_keywords: ["act", "buddhism", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
     relation: "buddhism/emotion/personality"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
     relation: "buddhism/emotion/personality"

@@ -15,7 +15,7 @@ intent_queries:
   - "人格心理学 | Personality Psychology的自助方法"
 trigger_keywords: ["人格心理学", "act", "behavioral", "brain", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
     relation: "anxiety/communication/emotion"

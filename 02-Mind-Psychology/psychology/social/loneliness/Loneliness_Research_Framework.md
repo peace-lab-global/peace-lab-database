@@ -14,7 +14,7 @@ intent_queries:
   - "孤独研究框架与学术综述的方法与实践"
 trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/anxiety/emotion"
   - path: "03-Bio-Science/INDEX.md"
     relation: "aging/anxiety/emotion"

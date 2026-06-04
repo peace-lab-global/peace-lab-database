@@ -14,13 +14,13 @@ intent_queries:
   - "伏藏传统 | Terma Tradition | གཏེར་མ་的方法与实践"
 trigger_keywords: ["伏藏传统", "གཏེར་མ་", "buddhism", "death", "developmental", "dzogchen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
     relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
     relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Ram_Dass.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Ram_Dass.md"
     relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/death/exercise"
   - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
     relation: "buddhism/death/exercise"

@@ -14,7 +14,7 @@ intent_queries:
   - "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的方法与实践"
 trigger_keywords: ["脏腑经络理论", "brain", "breathwork", "clinical", "cortisol"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/communication/exercise"
   - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
     relation: "cardiovascular/communication/exercise"

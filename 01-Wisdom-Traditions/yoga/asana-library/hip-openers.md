@@ -14,11 +14,11 @@ intent_queries:
   - "Hip Openers 开髋位体式的方法与实践"
 trigger_keywords: ["body", "clinical", "emotion", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Core.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
     relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "emotion/exercise/meditation"
   - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
     relation: "emotion/exercise/meditation"

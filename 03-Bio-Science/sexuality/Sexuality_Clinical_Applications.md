@@ -14,9 +14,9 @@ intent_queries:
   - "Clinical Applications in Sexuality的方法与实践"
 trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/attachment/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Energy_Sound.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Energy_Sound.md"
     relation: "anxiety/attachment/neuroscience"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "anxiety/attachment/neuroscience"

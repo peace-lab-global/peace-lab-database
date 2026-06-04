@@ -15,7 +15,7 @@ intent_queries:
   - "经典电影临床应用指南：治疗性观影协议与心理干预策略的循证证据"
 trigger_keywords: ["act", "adolescent", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
     relation: "anxiety/communication/depression"

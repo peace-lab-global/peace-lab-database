@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/cardiovascular/depression"
   - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
     relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "aging/depression/exercise"
 
 ---

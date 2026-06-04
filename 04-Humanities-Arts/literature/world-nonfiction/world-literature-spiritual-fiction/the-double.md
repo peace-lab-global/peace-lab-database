@@ -14,7 +14,7 @@ intent_queries:
   - "《双重人格》The Double的方法与实践"
 trigger_keywords: ["art", "behavioral", "body", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/personality"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/personality/sexuality"

@@ -14,13 +14,13 @@ intent_queries:
   - "托马斯·阿奎那的方法与实践"
 trigger_keywords: ["托马斯", "阿奎那", "behavioral", "cognitive", "decision-making", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
     relation: "exercise/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "exercise/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "exercise/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Transformation_Process.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
     relation: "exercise/personality/sexuality"
   - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
     relation: "exercise/personality/sexuality"

@@ -14,11 +14,11 @@ intent_queries:
   - "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）的方法与实践"
 trigger_keywords: ["瑜伽", "aging", "anxiety", "breathwork", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Seniors_Elderly.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
     relation: "aging/anxiety/emotion"
   - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
     relation: "aging/anxiety/emotion"

@@ -14,7 +14,7 @@ intent_queries:
   - "婚姻与人生的幻灭的方法与实践"
 trigger_keywords: ["婚姻与人生的幻灭", "marriage", "sexuality", "文学"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/sexuality"
   - path: "README.md"
     relation: "art_therapy/attachment/sexuality"

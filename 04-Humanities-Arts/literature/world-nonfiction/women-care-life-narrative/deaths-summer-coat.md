@@ -16,9 +16,9 @@ trigger_keywords: ["body", "breathwork", "buddhism", "daoism"]
 cross_refs:
   - path: "03-Bio-Science/death/INDEX.md"
     relation: "aging/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Meditation_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
     relation: "aging/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/buddhism/daoism"
   - path: "03-Bio-Science/death/Death_Art_Death.md"
     relation: "aging/art_therapy/buddhism"

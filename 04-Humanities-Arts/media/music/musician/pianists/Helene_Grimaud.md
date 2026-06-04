@@ -14,7 +14,7 @@ intent_queries:
   - "Hélène Grimaud  - 法国钢琴诗人与野生动物保护者的方法与实践"
 trigger_keywords: ["act", "art", "communication", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/communication/emotion"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/emotion/personality"

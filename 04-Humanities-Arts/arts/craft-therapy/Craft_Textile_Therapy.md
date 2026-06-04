@@ -14,7 +14,7 @@ intent_queries:
   - "纺织疗愈 | Textile Therapy的方法与实践"
 trigger_keywords: ["纺织疗愈", "aging", "anxiety", "art", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/depression"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "README.md"
     relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
 
 ---
@@ -170,7 +170,7 @@ cross_refs:
 | 手工艺疗愈总览 | [总览](Craft_Therapy_Overview.md) |
 | 陶艺疗愈 | [陶艺](Craft_Pottery_Therapy.md) |
 | 正念冥想 | [冥想](../../../02-Mind-Psychology/meditation/) |
-| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory/) |
+| 感觉治疗 | [感觉](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) |
 
 ---
 

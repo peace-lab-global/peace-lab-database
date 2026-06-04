@@ -204,7 +204,7 @@ cross_refs:
 | 戏剧疗愈总览 | [Drama_Therapy_Overview.md](./Drama_Therapy_Overview.md) |
 | 心理剧技术 | [Psychodrama_Techniques.md](./Psychodrama_Techniques.md) |
 | 戏剧疗愈临床 | [Drama_Therapy_Clinical.md](./Drama_Therapy_Clinical.md) |
-| 游戏治疗 | [../../../02-Mind-Psychology/therapy/game-therapy/](../../../02-Mind-Psychology/therapy/game-therapy/) |
+| 游戏治疗 | [../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/game-therapy/) |
 | 团体治疗动力 | [../../../02-Mind-Psychology/psychology/social/](../../../02-Mind-Psychology/psychology/social/) |
 
 ---

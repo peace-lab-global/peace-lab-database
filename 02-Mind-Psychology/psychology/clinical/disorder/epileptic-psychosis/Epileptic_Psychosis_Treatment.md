@@ -22,7 +22,7 @@ cross_refs:
     relation: "depression/neuroscience/sexuality"
   - path: "01-Wisdom-Traditions/yoga/INDEX.md"
     relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Mental_Health_Clinical.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
     relation: "depression/neuroscience/sexuality"
 
 ---

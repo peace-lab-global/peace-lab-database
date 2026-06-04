@@ -20,9 +20,9 @@ cross_refs:
     relation: "anxiety/emotion/exercise"
   - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/emotion/exercise"
 
 ---
@@ -176,6 +176,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [神经科学基础](Masturbation_Neuroscience_Physiology.md) | [个体差异](Masturbation_Individual_Differences.md) | [临床心理学意义](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Clinical_Psychology.md) | [心理困扰与应对](../../../02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Distress_Coping.md) | [性心理健康](../../../02-Mind-Psychology/relationships/masturbation-relationships/Masturbation_Sexual_Health.md)
+> 🔗 **交叉引用**: [神经科学基础](Masturbation_Neuroscience_Physiology.md) | [个体差异](Masturbation_Individual_Differences.md) | [临床心理学意义](../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Clinical_Psychology.md) | [心理困扰与应对](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md) | [性心理健康](../../../02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Sexual_Health.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回性学目录](../INDEX.md)

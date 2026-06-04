@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽经（Yoga Sūtra）的方法与实践"
 trigger_keywords: ["breathwork", "cognitive", "meditation", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/09-Comorbidities.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "meditation/sexuality/sleep"
 
 ---

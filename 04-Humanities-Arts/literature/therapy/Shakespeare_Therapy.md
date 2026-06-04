@@ -20,9 +20,9 @@ cross_refs:
     relation: "death/depression/emotion"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/01-Clinical-Spectrum.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/01-Clinical-Spectrum.md"
     relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/19-Adverse-Events.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
     relation: "death/depression/emotion"
 
 ---

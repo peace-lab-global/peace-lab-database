@@ -16,13 +16,13 @@ trigger_keywords: ["syncretism", "Index", "宗教与灵性", "宗教融合"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Insurance_Legal.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
     relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "sexuality/yoga"
 
 ---

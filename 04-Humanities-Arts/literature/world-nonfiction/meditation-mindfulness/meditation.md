@@ -14,7 +14,7 @@ intent_queries:
   - "《冥想》Meditation的方法与实践"
 trigger_keywords: ["body", "brain", "breathwork", "emotion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/emotion/exercise"
   - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
     relation: "anxiety/art_therapy/emotion"

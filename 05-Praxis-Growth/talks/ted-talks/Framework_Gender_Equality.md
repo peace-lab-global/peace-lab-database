@@ -18,7 +18,7 @@ cross_refs:
     relation: "attachment/communication/death"
   - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
     relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "attachment/communication/death"
   - path: "03-Bio-Science/sexuality/gender-discrimination/Gender_Discrimination_Overview.md"
     relation: "attachment/communication/death"

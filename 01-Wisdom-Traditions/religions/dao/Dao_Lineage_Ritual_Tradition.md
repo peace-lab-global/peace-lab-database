@@ -14,7 +14,7 @@ intent_queries:
   - "Lineage & Ritual的方法与实践"
 trigger_keywords: ["cognitive", "healing", "philosophy", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "buddhism/daoism/meditation"
   - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
     relation: "buddhism/daoism/meditation"

@@ -16,13 +16,13 @@ trigger_keywords: ["classical", "Index", "哲学"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
     relation: "buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
     relation: "buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Centers_Directory.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Centers_Directory.md"
     relation: "buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Community_Sangha.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
     relation: "buddhism/meditation"
 
 ---

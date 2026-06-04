@@ -14,7 +14,7 @@ intent_queries:
   - "财务素养与个人理财  | Index的方法与实践"
 trigger_keywords: ["财务素养与个人理财", "Index", "addiction", "assessment", "behavioral", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "attachment/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
     relation: "attachment/emotion/exercise"

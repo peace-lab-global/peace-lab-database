@@ -14,7 +14,7 @@ intent_queries:
   - "加缪主要作品深度分析的方法与实践"
 trigger_keywords: ["加缪主要作品深度分析", "anxiety", "art", "behavioral", "child"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "anxiety/communication/death"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "anxiety/communication/death"
   - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
     relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
+  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
     relation: "anxiety/communication/death"
 
 ---

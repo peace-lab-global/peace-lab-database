@@ -14,9 +14,9 @@ intent_queries:
   - "HPA轴调节与干预的方法与实践"
 trigger_keywords: ["HPA轴调节与干预", "HPA轴", "act", "addiction", "adolescent"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/anxiety/attachment"
   - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
     relation: "aging/anxiety/attachment"

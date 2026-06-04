@@ -14,13 +14,13 @@ intent_queries:
   - "抗炎生活方式的方法与实践"
 trigger_keywords: ["抗炎生活方式", "behavioral", "brain", "breathwork", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/impact-analysis/Relationship_Impact_Research.md"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
     relation: "cardiovascular/exercise/immune"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "cardiovascular/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "cardiovascular/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Research_Evidence.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
     relation: "cardiovascular/exercise/immune"
   - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
     relation: "exercise/immune/neuroscience"

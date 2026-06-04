@@ -14,15 +14,15 @@ intent_queries:
   - "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་的方法与实践"
 trigger_keywords: ["大手印详解", "Mahāmudrā", "behavioral", "body", "breathwork", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/jain-meditation/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
     relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
     relation: "buddhism/death/meditation"
 
 ---

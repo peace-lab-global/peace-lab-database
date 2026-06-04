@@ -18,7 +18,7 @@ cross_refs:
     relation: "communication/depression/emotion"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "communication/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Neuroscience_Modern_Research.md"
+  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
     relation: "communication/depression/emotion"
   - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
     relation: "communication/depression/emotion"

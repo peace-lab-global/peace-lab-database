@@ -14,13 +14,13 @@ intent_queries:
   - "《一个荒唐人的梦》The Dream of a Ridiculous Man的方法与实践"
 trigger_keywords: ["art", "behavioral", "body", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "attachment/cardiovascular/death"
   - path: "README.md"
     relation: "art_therapy/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "attachment/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "attachment/cardiovascular/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "attachment/death/depression"

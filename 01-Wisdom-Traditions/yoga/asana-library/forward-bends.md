@@ -14,15 +14,15 @@ intent_queries:
   - "Forward Bends 前屈位体式的方法与实践"
 trigger_keywords: ["ocd", "stress", "yoga", "瑜伽"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/11-Special-Populations.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
     relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/course/C1-2-meditation-history.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/course/C1-LOCAL-4-direct-awareness-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
     relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/course/C4-0-homework.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-0-homework.md"
     relation: "stress/yoga"
 
 ---

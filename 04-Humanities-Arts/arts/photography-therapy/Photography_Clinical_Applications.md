@@ -20,7 +20,7 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
     relation: "aging/anxiety/communication"
@@ -185,7 +185,7 @@ cross_refs:
 | 身体羞耻感 | [../../../03-Bio-Science/biology/body-shame/](../../../03-Bio-Science/biology/body-shame/) |
 | 死亡焦虑与悲伤 | [../../../03-Bio-Science/death/](../../../03-Bio-Science/death/) |
 | 认知衰老 | [../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) |
-| EMDR疗法 | [../../../02-Mind-Psychology/therapy/emdr-therapy/](../../../02-Mind-Psychology/therapy/emdr-therapy/) |
+| EMDR疗法 | [../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/](../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/) |
 
 ### 核心参考文献
 

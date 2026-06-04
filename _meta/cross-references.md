@@ -9,33 +9,33 @@
 
 | 01-Wisdom-Traditions 内容 | 02-Mind-Psychology 内容 | 关联说明 |
 |---|---|---|
-| buddhism/Buddhism_Samatha_Vipassana.md | meditation/vipassana/ | 止观修法与正念冥想 |
-| buddhism/psychology/ | therapy/mbct-therapy/ | 佛教心理学与正念认知疗法 |
+| buddhism/Buddhism_Samatha_Vipassana.md | meditation/traditions/buddhist/vipassana/ | 止观修法与正念冥想 |
+| buddhism/psychology/ | therapy/integrative/mbct-therapy/ | 佛教心理学与正念认知疗法 |
 | buddhism/Buddhism_Four_Immeasurables.md | psychology/applied/occupational-burnout/ | 四无量心与同情疲劳转化 |
-| buddhism/meditation/Buddhism_Meditation_Practice_System.md | meditation/overview/ | 佛教冥想体系与现代冥想核心 |
+| buddhism/meditation/Buddhism_Meditation_Practice_System.md | meditation/foundations/overview/ | 佛教冥想体系与现代冥想核心 |
 | dao/Daoist_Psychological_Health_Cultivation.md | psychology/special-topics/tcm-psychology/ | 道家心理养生与中医心理 |
-| yoga/Yoga_Mental_Health_Clinical.md | therapy/act-therapy/ | 瑜伽心理健康与接纳承诺疗法 |
-| yoga/Yoga_Psychological_Healing_Principles.md | psychology/somatic-body/somatic/ | 瑜伽心理疗愈与躯体疗法 |
-| yoga/Yoga_Meditation_Dharana_Dhyana.md | meditation/overview/Meditation_Core.md | 瑜伽冥想(Dharana/Dhyana)与冥想核心技术 |
-| yoga/Yoga_Nidra.md | psychology/somatic-body/relaxation/ | 瑜伽睡眠术与深度放松技术 |
+| yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md | therapy/cognitive-behavioral/act-therapy/ | 瑜伽心理健康与接纳承诺疗法 |
+| yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md | psychology/somatic-body/somatic/ | 瑜伽心理疗愈与躯体疗法 |
+| yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md | meditation/foundations/overview/Meditation_Core.md | 瑜伽冥想(Dharana/Dhyana)与冥想核心技术 |
+| yoga/meditation-consciousness/Yoga_Nidra.md | psychology/somatic-body/relaxation/ | 瑜伽睡眠术与深度放松技术 |
 | tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md | psychology/applied/occupational-burnout/ | 太极心理调适与倦怠压力调节 |
 | tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md | psychology/self-regulation/ | 太极正念运动与自我调节技能 |
-| religions/zen/Zen_Neuroscience_Psychology.md | meditation/overview/Meditation_Brain_Science_Foundations.md | 禅宗神经科学与冥想脑科学 |
-| religions/zen/Zen_Daily_Life_Practice.md | meditation/overview/Meditation_Mind_Management.md | 禅宗日常实修与心念管理 |
-| religions/wisdom-traditions/Krishnamurti_Teachings.md | meditation/masters/ | 克里希那穆提与冥想传统 |
-| yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Mantra_Sacred_Sound.md | 瑜伽梵咒与神圣声音疗法 |
-| yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Solfeggio_Frequencies.md | 瑜伽 Nada 音流与 Solfeggio 频率体系 |
-| yoga/Yoga_Mantra_Nada_Chanting.md | therapy/sensory/Sensory_Nada_Yoga.md | 瑜伽梵唱与纳达瑜伽声音体系 |
-| dao/Dao_Health_Yangsheng_Qigong.md | therapy/sensory/Sensory_Nada_Yoga.md | 道家六字诀与印度 Nada Yoga 跨文化对照 |
+| religions/zen/Zen_Neuroscience_Psychology.md | meditation/foundations/overview/Meditation_Brain_Science_Foundations.md | 禅宗神经科学与冥想脑科学 |
+| religions/zen/Zen_Daily_Life_Practice.md | meditation/foundations/overview/Meditation_Mind_Management.md | 禅宗日常实修与心念管理 |
+| religions/wisdom-traditions/Krishnamurti_Teachings.md | meditation/professional/masters/ | 克里希那穆提与冥想传统 |
+| yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md | therapy/sensory-nature/sensory/Sensory_Mantra_Sacred_Sound.md | 瑜伽梵咒与神圣声音疗法 |
+| yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md | therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md | 瑜伽 Nada 音流与 Solfeggio 频率体系 |
+| yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md | therapy/sensory-nature/sensory/Sensory_Nada_Yoga.md | 瑜伽梵唱与纳达瑜伽声音体系 |
+| dao/Dao_Health_Yangsheng_Qigong.md | therapy/sensory-nature/sensory/Sensory_Nada_Yoga.md | 道家六字诀与印度 Nada Yoga 跨文化对照 |
 
 ## 01 ↔ 03: 智慧传承 × 生命科学
 
 | 01-Wisdom-Traditions 内容 | 03-Bio-Science 内容 | 关联说明 |
 |---|---|---|
-| yoga/Yoga_Anatomy_Physiology.md | biology/stretch/ | 瑜伽解剖学与拉伸疗法 |
-| yoga/Yoga_Neuroscience_Modern_Research.md | biology/brain/ | 瑜伽神经科学与脑科学 |
-| yoga/Yoga_TCM_Integration.md | biology/immune-inflammation/ | 瑜伽中医整合与免疫调节 |
-| yoga/Yoga_Women_Health.md | biology/womens-health/ | 瑜伽女性健康与女性生理 |
+| yoga/anatomy-science/Yoga_Anatomy_Physiology.md | biology/stretch/ | 瑜伽解剖学与拉伸疗法 |
+| yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md | biology/brain/ | 瑜伽神经科学与脑科学 |
+| yoga/integrative-medicine/Yoga_TCM_Integration.md | biology/immune-inflammation/ | 瑜伽中医整合与免疫调节 |
+| yoga/specific-populations/Yoga_Women_Health.md | biology/womens-health/ | 瑜伽女性健康与女性生理 |
 | tai-chi/ | biology/energy-restoration/ | 太极拳与能量恢复 |
 | tai-chi/Tai_Chi_Clinical_Applications.md | biology/pain-science/ | 太极拳临床应用与疼痛管理 |
 | tai-chi/Tai_Chi_Neuroscience_Evidence.md | biology/brain/ | 太极拳神经科学证据与脑影像 |
@@ -57,7 +57,7 @@
 | religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md | arts/craft-therapy/ | 茶道疗愈与手工疗愈(陶艺/器物) |
 | religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md | arts/arts-therapy/ | 曼荼罗圣域与艺术疗愈 |
 | dao/Dao_Aesthetics_Modern_Life.md | arts/space-healing/ | 道家审美与疗愈建筑空间设计 |
-| yoga/Yoga_Mantra_Nada_Chanting.md | media/music/ | 瑜伽梵咒声音与音乐疗愈 |
+| yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md | media/music/ | 瑜伽梵咒声音与音乐疗愈 |
 | buddhism/Buddhism_Core_Overview.md | arts/drama-therapy/ | 佛教正念觉察与戏剧疗愈中的临在 |
 | tai-chi/Tai_Chi_Fundamentals_Practice.md | arts/ballet/ | 太极拳身体觉知与芭蕾体态训练 |
 | religions/zen/Zen_Koan_Anthropology.md | literature/therapy/ | 禅宗公案研究与文学叙事疗愈 |
@@ -70,12 +70,12 @@
 | religions/zen/Zen_Daily_Life_Practice.md | personal-development/mindfulness/ | 禅宗日常实修与正念生活 |
 | tai-chi/Tai_Chi_Fundamentals_Practice.md | personal-development/flow/ | 太极拳练习与心流体验 |
 | tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md | personal-development/mental-resilience/ | 太极心理调适与心力成长 |
-| yoga/Yoga_Philosophy.md | personal-development/stable-inner-core/ | 瑜伽哲学(Yama/Niyama)与稳定内核 |
+| yoga/philosophy-history/Yoga_Philosophy.md | personal-development/stable-inner-core/ | 瑜伽哲学(Yama/Niyama)与稳定内核 |
 | religions/legalist/Legalist_Management_Psychology.md | personal-development/workplace-expression/ | 法家管理心理与职场策略 |
 | dao/Dao_Philosophy_Cosmology.md | personal-development/decision-making/ | 道家无为哲学与决策框架 |
-| yoga/Yoga_Ethics_Business_Professional.md | personal-development/career-planning/ | 瑜伽伦理与职业规划 |
+| yoga/modern-professional/Yoga_Ethics_Business_Professional.md | personal-development/career-planning/ | 瑜伽伦理与职业规划 |
 | religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md | personal-development/mindfulness/ | 茶道正念与日常正念实践 |
-| yoga/Yoga_Nutrition_Lifestyle.md | personal-development/topics/Personal_Development_Habit_Science.md | 瑜伽生活方式与习惯养成科学 |
+| yoga/lifestyle/Yoga_Nutrition_Lifestyle.md | personal-development/topics/Personal_Development_Habit_Science.md | 瑜伽生活方式与习惯养成科学 |
 
 ## 02 ↔ 01: 心理学 × 智慧传承 (孤独/独处维度)
 
@@ -122,44 +122,44 @@
 |---|---|---|
 | psychology/somatic-body/sleep/ | biology/pre-sleep-stretching/ | 睡眠心理学与睡前拉伸 |
 | psychology/stress-hpa/ | biology/hpa-axis/ | 心理压力与HPA轴生物机制 |
-| meditation/samatha-vipassana/Neuroscience_Research.md | biology/brain/ | 冥想神经科学与脑影像 |
-| therapy/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/ | 脑波引导与神经科学 |
+| meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md | biology/brain/ | 冥想神经科学与脑影像 |
+| therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/ | 脑波引导与神经科学 |
 | psychology/behavioral/addiction/ | sexuality/sexual-anxiety-china/ | 成瘾心理与性焦虑 |
 | psychology/clinical/anxiety/ | biology/cardiovascular/Cardiovascular_Psychology.md | 焦虑障碍与心血管心理学(心脏焦虑) |
 | psychology/clinical/depression/ | biology/immune-inflammation/Psychoneuroimmunology.md | 抑郁症与心理神经免疫学(炎症假说) |
 | psychology/clinical/depression/ | biology/gut-microbiome/Gut_Mental_Health.md | 抑郁症与肠脑轴(精神益生菌) |
 | psychology/applied/occupational-burnout/ | biology/immune-inflammation/ | 职业倦怠与慢性炎症/免疫抑制 |
-| therapy/sensory/Sensory_Sound_Medicine.md | biology/brain/Brain_Neurofeedback_Overview.md | 声音疗愈与神经反馈训练 |
-| therapy/sensory/Sensory_Solfeggio_Frequencies.md | biology/brain/ | 索尔菲吉奥频率体系与脑科学(频率-脑波引导) |
-| therapy/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/Brain_Neurofeedback_Overview.md | 脑波引导技术与神经反馈的技术互补 |
-| therapy/sensory/Sensory_444Hz_Frequency_Therapy.md | biology/cardiovascular/Heart_Rate_Variability.md | 444Hz/528Hz 频率与 HRV 心率变异性调节 |
-| therapy/sensory/Sensory_Brainwave_Entrainment.md | psychology/somatic-body/sleep/Bio_Sleep_Science.md | Delta 脑波引导与睡眠科学 |
-| meditation/mbsr-program/ | biology/immune-inflammation/Psychoneuroimmunology.md | MBSR正念减压与心理神经免疫 |
+| therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md | biology/brain/Brain_Neurofeedback_Overview.md | 声音疗愈与神经反馈训练 |
+| therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md | biology/brain/ | 索尔菲吉奥频率体系与脑科学(频率-脑波引导) |
+| therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md | biology/brain/Brain_Neurofeedback_Overview.md | 脑波引导技术与神经反馈的技术互补 |
+| therapy/sensory-nature/sensory/Sensory_444Hz_Frequency_Therapy.md | biology/cardiovascular/Heart_Rate_Variability.md | 444Hz/528Hz 频率与 HRV 心率变异性调节 |
+| therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md | psychology/somatic-body/sleep/Bio_Sleep_Science.md | Delta 脑波引导与睡眠科学 |
+| meditation/clinical/mbsr-program/ | biology/immune-inflammation/Psychoneuroimmunology.md | MBSR正念减压与心理神经免疫 |
 | psychology/somatic-body/emotion/ | biology/cardiovascular/Heart_Rate_Variability.md | 情绪调节与心率变异性(HRV) |
 | psychology/developmental/aging-psychology/ | biology/aging-longevity/ | 老年心理学与衰老长寿科学 |
-| therapy/sensory/Sensory_Music_Thanatology.md | biology/aging-longevity/Cognitive_Aging_Prevention.md | 音乐临终关怀与认知衰老预防(痴呆晚期音乐) |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | biology/aging-longevity/Cognitive_Aging_Prevention.md | 音乐临终关怀与认知衰老预防(痴呆晚期音乐) |
 
 ## 02 ↔ 04: 心理学 × 人文艺术
 
 | 02-Mind-Psychology 内容 | 04-Humanities-Arts 内容 | 关联说明 |
 |---|---|---|
-| therapy/sensory/ | arts/arts-therapy/ | 感官疗法与艺术疗法 |
-| therapy/sensory/Sensory_Dance_Expressive.md | arts/ballet/Ballet_Therapy_Applications.md | 表达性舞动与芭蕾心理疗愈 |
-| therapy/sensory/Sensory_Sound_Medicine.md | media/music/ | 声音疗愈与音乐治疗 |
-| therapy/sensory/Sensory_Solfeggio_Frequencies.md | media/music/ | 索尔菲吉奥频率与音乐调律理论 |
-| therapy/sensory/Sensory_Brainwave_Entrainment.md | media/music/ | 脑波引导与音乐疗愈的整合 |
-| therapy/sensory/Sensory_Nada_Yoga.md | media/music/ | 纳达瑜伽与印度古典音乐疗愈 |
-| therapy/sensory/Sensory_Music_Thanatology.md | media/music/music-therapy/ | 音乐临终关怀与音乐疗法 |
-| therapy/sensory/Sensory_Vibroacoustic_Therapy.md | biology/pain-science/ | 振动声学疗法与疼痛管理 |
-| therapy/sensory/Sensory_Zentangle_Art.md | arts/calligraphy-therapy/ | 缠绕画正念与书法疗愈 |
-| therapy/sensory/Sensory_Mandala_Jungian.md | arts/arts-therapy/ | 荣格曼荼罗与艺术疗愈 |
-| therapy/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 音乐临终关怀与死亡存在主义心理 |
-| therapy/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Dignity_Therapy_Palliative_Care.md | 音乐临终关怀与尊严疗法/安宁疗护 |
+| therapy/sensory-nature/sensory/ | arts/arts-therapy/ | 感官疗法与艺术疗法 |
+| therapy/sensory-nature/sensory/Sensory_Dance_Expressive.md | arts/ballet/Ballet_Therapy_Applications.md | 表达性舞动与芭蕾心理疗愈 |
+| therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md | media/music/ | 声音疗愈与音乐治疗 |
+| therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md | media/music/ | 索尔菲吉奥频率与音乐调律理论 |
+| therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md | media/music/ | 脑波引导与音乐疗愈的整合 |
+| therapy/sensory-nature/sensory/Sensory_Nada_Yoga.md | media/music/ | 纳达瑜伽与印度古典音乐疗愈 |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | media/music/music-therapy/ | 音乐临终关怀与音乐疗法 |
+| therapy/sensory-nature/sensory/Sensory_Vibroacoustic_Therapy.md | biology/pain-science/ | 振动声学疗法与疼痛管理 |
+| therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md | arts/calligraphy-therapy/ | 缠绕画正念与书法疗愈 |
+| therapy/sensory-nature/sensory/Sensory_Mandala_Jungian.md | arts/arts-therapy/ | 荣格曼荼罗与艺术疗愈 |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 音乐临终关怀与死亡存在主义心理 |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Dignity_Therapy_Palliative_Care.md | 音乐临终关怀与尊严疗法/安宁疗护 |
 | psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 哀伤的文化灵性维度与跨传统死亡观 |
 | psychology/special-topics/grief/Grief_Intervention_Techniques.md | 03-Bio-Science/death/Death_Dignity_Therapy_Palliative_Care.md | 哀伤干预技术与安宁疗护整合 |
 | psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 存在真空干预与向死而生深度整合 |
 | psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 存在真空与西方死亡哲学经典 |
-| 03-Bio-Science/death/Death_NDE_Near_Death_Experience.md | 02-Mind-Psychology/meditation/masters/tibetan/Sogyal_Rinpoche.md | 濒死体验研究与藏传佛教临终意识 |
+| 03-Bio-Science/death/Death_NDE_Near_Death_Experience.md | 02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md | 濒死体验研究与藏传佛教临终意识 |
 | 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md | 跨传统死亡观与佛教核心教义 |
 | 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md | 道家死亡观与庄子经典 |
 | 03-Bio-Science/death/Death_Modern_Issues.md | 03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md | 当代死亡议题与衰老长寿科学 |
@@ -175,15 +175,15 @@
 | 03-Bio-Science/death/Death_Clinical_Workplace_Applications.md | 04-Humanities-Arts/arts/arts-therapy/ | 表达性艺术治疗在临终关怀中的应用 |
 | 05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-Bio-Science/death/Death_Existential_Psychology.md | Frankl意义疗法与向死而生整合 |
 | 05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 意义疗法与西方死亡哲学经典 |
-| therapy/sensory/Sensory_Vocal_Therapy.md | media/music/ | 声乐治疗与音乐疗愈的整合 |
-| therapy/sensory/Sensory_Writing_Journaling.md | literature/therapy/ | 疗愈性写作与文学疗愈 |
+| therapy/sensory-nature/sensory/Sensory_Vocal_Therapy.md | media/music/ | 声乐治疗与音乐疗愈的整合 |
+| therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md | literature/therapy/ | 疗愈性写作与文学疗愈 |
 | psychology/clinical/trauma/ | arts/drama-therapy/ | 创伤心理治疗与戏剧疗愈/心理剧 |
 | psychology/clinical/depression/ | arts/photography-therapy/ | 抑郁症干预与摄影疗愈 |
 | psychology/developmental/aging-psychology/ | arts/horticultural-therapy/ | 老年心理学与园艺疗愈(认知/社交) |
 | psychology/special-topics/grief/ | literature/therapy/ | 哀伤与丧恸与文学疗愈(叙事重建) |
-| therapy/forest-therapy/ | arts/horticultural-therapy/ | 森林疗法与园艺疗愈(自然暴露) |
-| therapy/game-therapy/ | arts/craft-therapy/ | 游戏疗法与手工疗愈(触觉/创造) |
-| meditation/satir-model/ | arts/drama-therapy/Psychodrama_Techniques.md | 萨提亚雕塑与心理剧技术 |
+| therapy/sensory-nature/forest-therapy/ | arts/horticultural-therapy/ | 森林疗法与园艺疗愈(自然暴露) |
+| therapy/creative-expressive/game-therapy/ | arts/craft-therapy/ | 游戏疗法与手工疗愈(触觉/创造) |
+| meditation/clinical/satir-model/ | arts/drama-therapy/Psychodrama_Techniques.md | 萨提亚雕塑与心理剧技术 |
 
 ## 02 ↔ 05: 心理学 × 实践增长
 
@@ -193,15 +193,15 @@
 | psychology/applied/workplace-psychological-crisis/ | personal-development/workplace-expression/ | 职场危机与职场表达 |
 | psychology/applied/occupational-burnout/ | personal-development/workplace-expression/ | 职场倦怠与职场应对策略 |
 | psychology/applied/occupational-burnout/ | personal-development/mental-resilience/ | 职场倦怠与心力成长 |
-| meditation/overview/ | personal-development/mindfulness/ | 冥想核心与正念生活 |
-| meditation/mbsr-program/ | personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md | MBSR课程与正念减压实践指南 |
-| therapy/mbct-therapy/ | personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md | MBCT疗法与正念认知治疗实践 |
+| meditation/foundations/overview/ | personal-development/mindfulness/ | 冥想核心与正念生活 |
+| meditation/clinical/mbsr-program/ | personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md | MBSR课程与正念减压实践指南 |
+| therapy/integrative/mbct-therapy/ | personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md | MBCT疗法与正念认知治疗实践 |
 | psychology/self-regulation/self-compassion/ | personal-development/stable-inner-core/ | 自我关怀与稳定内核建设 |
 | psychology/self-regulation/self-confidence/ | personal-development/social-capital/ | 自信心理学与社交资本经营 |
 | psychology/somatic-body/emotion/ | personal-development/emotional-intelligence/ | 情绪科学与情商应用 |
 | psychology/foundations/personality/ | personal-development/career-planning/ | 人格心理学与职业规划(Holland/MBTI) |
 | psychology/applied/educational-psychology/ | personal-development/meta-learning/ | 教育心理学与元学习方法论 |
-| therapy/sensory/Sensory_Writing_Journaling.md | writing/ | 疗愈性写作与创意写作技巧 |
+| therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md | writing/ | 疗愈性写作与创意写作技巧 |
 
 ## 03 ↔ 04: 生命科学 × 人文艺术
 
@@ -260,11 +260,11 @@
 | psychology/applied/occupational-burnout/ | psychology/clinical/anxiety/ | 倦怠与焦虑的共病鉴别 |
 | psychology/applied/occupational-burnout/ | psychology/clinical/depression/ | 倦怠与抑郁的共病鉴别 |
 | psychology/applied/occupational-burnout/ | psychology/stress-hpa/cfs/ | 倦怠与慢性疲劳的鉴别诊断 |
-| psychology/applied/occupational-burnout/ | therapy/cognitive-behavioral-therapy/ | CBT在倦怠中的应用 |
-| psychology/applied/occupational-burnout/ | therapy/act-therapy/ | ACT在倦怠中的应用 |
-| psychology/applied/occupational-burnout/ | therapy/compassion-focused-therapy/ | CFT与自我关怀训练 |
-| psychology/applied/occupational-burnout/ | therapy/forest-therapy/ | 森林疗法与自然暴露恢复 |
-| psychology/applied/occupational-burnout/ | meditation/mbsr-program/ | 正念减压在倦怠干预中的证据 |
+| psychology/applied/occupational-burnout/ | therapy/cognitive-behavioral/cognitive-behavioral-therapy/ | CBT在倦怠中的应用 |
+| psychology/applied/occupational-burnout/ | therapy/cognitive-behavioral/act-therapy/ | ACT在倦怠中的应用 |
+| psychology/applied/occupational-burnout/ | therapy/integrative/compassion-focused-therapy/ | CFT与自我关怀训练 |
+| psychology/applied/occupational-burnout/ | therapy/sensory-nature/forest-therapy/ | 森林疗法与自然暴露恢复 |
+| psychology/applied/occupational-burnout/ | meditation/clinical/mbsr-program/ | 正念减压在倦怠干预中的证据 |
 
 ### 02 内部: 焦虑症 × 心理学子领域
 
@@ -273,8 +273,8 @@
 | psychology/clinical/anxiety/ | psychology/stress-hpa/ | 焦虑的 HPA 轴与皮质醇调节机制 |
 | psychology/clinical/anxiety/ | psychology/clinical/depression/ | 焦虑与抑郁的高共病与跨诊断治疗 |
 | psychology/clinical/anxiety/Anxiety_Cross_Cultural_Perspectives.md | psychology/special-topics/tcm-psychology/ | 中国文化焦虑表达与中医心理 |
-| psychology/clinical/anxiety/Anxiety_Digital_Self_Help.md | therapy/cognitive-behavioral-therapy/ | 数字 CBT 与传统 CBT 效果比较 |
-| psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md | meditation/mbsr-program/ | 正念减压在焦虑预防中的证据 |
+| psychology/clinical/anxiety/Anxiety_Digital_Self_Help.md | therapy/cognitive-behavioral/cognitive-behavioral-therapy/ | 数字 CBT 与传统 CBT 效果比较 |
+| psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md | meditation/clinical/mbsr-program/ | 正念减压在焦虑预防中的证据 |
 | psychology/clinical/anxiety/Anxiety_Special_Populations.md | psychology/applied/occupational-burnout/ | 职场焦虑与职业倦怠的交叉 |
 
 ### 03 内部: 身心科学关键关联
@@ -334,8 +334,8 @@
 | 死亡冥想与佛教体系 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/religions/buddhism/meditation/` | 南传念死/藏传颇瓦/禅宗话头与佛教实修体系 |
 | 死亡冥想与道家 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/religions/dao/` | 坐忘/心斋/守一与死亡冥想 |
 | 死亡冥想与印度瑜伽 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/yoga/` | Prāṇa Saṃhāra/Mahāsamādhi与瑜伽传统 |
-| 死亡冥想与脑科学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/meditation/overview/` | DMN/PCC/杏仁核/岛叶与死亡冥想神经机制 |
-| 死亡冥想与临床心理学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/therapy/act-therapy/` | 死亡冥想与ACT/CBT/暴露疗法整合 |
+| 死亡冥想与脑科学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | DMN/PCC/杏仁核/岛叶与死亡冥想神经机制 |
+| 死亡冥想与临床心理学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` | 死亡冥想与ACT/CBT/暴露疗法整合 |
 | 死亡冥想与社会学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `_meta/cross-references.md` | Durkheim集体欢腾/van Gennep过渡仪式/共睦态 |
 
 ### 死亡哲学P0-P3全面扩展新增跨支柱关联
@@ -367,8 +367,8 @@
 |------|------|---------|
 | 失智症临终与老年心理 | `03-Bio-Science/death/Death_Dementia_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年认知衰退与临终关怀 |
 | 失智症与家属哀伤 | `03-Bio-Science/death/Death_Dementia_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | ambiguous loss与复杂性哀伤 |
-| 临床案例与CBT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral-therapy/` | 案例A认知重构与CBT技术 |
-| 临床案例与ACT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/act-therapy/` | 案例B接纳与承诺疗法应用 |
+| 临床案例与CBT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/` | 案例A认知重构与CBT技术 |
+| 临床案例与ACT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` | 案例B接纳与承诺疗法应用 |
 | 临床案例与存在疗法 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/psychology/special-topics/existential-vacuum/` | 案例A存在危机与存在真空干预 |
 | 临床案例与创伤治疗 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 案例D青少年PTSD与创伤治疗 |
 | 临床案例与家庭治疗 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/family-therapy/` | 案例D家庭系统与家庭治疗 |
@@ -379,7 +379,7 @@
 | 老年临终与老年心理 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年死亡焦虑与老年发展心理学 |
 | 老年临终与哀伤 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 老年丧偶与复杂性哀伤 |
 | 老年自杀预防 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/clinical/suicide/` | 老年自杀与自杀预防 |
-| 工作坊与正念 | `03-Bio-Science/death/Death_Education_Workshop_Design.md` ↔ `02-Mind-Psychology/meditation/overview/` | 死亡教育工作坊与正念引导 |
+| 工作坊与正念 | `03-Bio-Science/death/Death_Education_Workshop_Design.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | 死亡教育工作坊与正念引导 |
 | 工作坊与创伤 | `03-Bio-Science/death/Death_Education_Workshop_Design.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 安全协议与创伤知情 |
 | LGBTQ+与性学 | `03-Bio-Science/death/Death_LGBTQ_Death_Grief.md` ↔ `03-Bio-Science/sexuality/` | LGBTQ+身份与性学研究 |
 | LGBTQ+与社会心理 | `03-Bio-Science/death/Death_LGBTQ_Death_Grief.md` ↔ `02-Mind-Psychology/psychology/social/` | 少数群体压力与社会心理学 |
@@ -393,7 +393,7 @@
 | 生前整理与数字极简 | `03-Bio-Science/death/Death_Preparation_Life.md` ↔ `02-Mind-Psychology/psychology/behavioral/digital-hoarding/` | 数字遗物与数字极简 |
 | 高风险职业与倦怠 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/psychology/applied/occupational-burnout/` | 道德伤害与职业倦怠 |
 | 高风险职业与创伤 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 替代性创伤与创伤治疗 |
-| 高风险职业与正念 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/meditation/overview/` | 心理韧性与正念练习 |
+| 高风险职业与正念 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | 心理韧性与正念练习 |
 | 宠物丧失与儿童发展 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/developmental/` | 儿童首次死亡体验 |
 | 宠物丧失与老年心理 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年社会孤立与宠物陪伴 |
 | 宠物丧失与哀伤 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 宠物哀伤与丧恸专题 |

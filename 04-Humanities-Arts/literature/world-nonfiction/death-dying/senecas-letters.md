@@ -14,7 +14,7 @@ intent_queries:
   - "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的方法与实践"
 trigger_keywords: ["aging", "buddhism", "death", "philosophy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
     relation: "aging/anxiety/art_therapy"

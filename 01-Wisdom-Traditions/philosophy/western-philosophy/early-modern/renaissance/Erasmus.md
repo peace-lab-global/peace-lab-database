@@ -14,11 +14,11 @@ intent_queries:
   - "伊拉斯谟的方法与实践"
 trigger_keywords: ["伊拉斯谟", "behavioral", "cbt", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "personality/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "personality/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/satir-model/Satir_Meditation_Techniques.md"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
     relation: "personality/productivity/sexuality"
   - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
     relation: "personality/productivity/sexuality"

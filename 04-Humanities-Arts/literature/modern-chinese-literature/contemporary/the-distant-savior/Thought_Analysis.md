@@ -14,7 +14,7 @@ intent_queries:
   - "《遥远的救世主》核心思想与观点分析的方法与实践"
 trigger_keywords: ["brain", "buddhism", "developmental", "personality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/depression"
   - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
     relation: "buddhism/depression/neuroscience"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "buddhism/neuroscience/nutrition"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
     relation: "buddhism/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/22-Research-Critical-Review.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
     relation: "buddhism/depression/neuroscience"
 
 ---

@@ -22,7 +22,7 @@ cross_refs:
     relation: "attachment/exercise/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
     relation: "attachment/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "attachment/exercise/sexuality"
 
 ---

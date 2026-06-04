@@ -16,13 +16,13 @@ trigger_keywords: ["居住与办公空间设计", "anxiety", "behavioral", "body
 cross_refs:
   - path: "README.md"
     relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Clinical_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
     relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/cardiovascular/emotion"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "anxiety/cardiovascular/emotion"
 
 ---
@@ -160,5 +160,5 @@ cross_refs:
 | 疗愈建筑 | [Space_Healing_Architecture](Space_Healing_Architecture.md) | 空间心理学理论 |
 | 睡前拉伸 | [03-Bio-Science/biology/pre-sleep-stretching/](../../../03-Bio-Science/biology/pre-sleep-stretching/) | 睡眠环境配合 |
 | 工作专注力 | [05-Praxis-Growth/personal-development/](../../../05-Praxis-Growth/personal-development/) | 专注力环境 |
-| 感官治疗 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 家庭感官环境 |
-| 香薰 | [02-Mind-Psychology/therapy/incense/](../../../02-Mind-Psychology/therapy/incense/) | 家庭香氛选择 |
+| 感官治疗 | [02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 家庭感官环境 |
+| 香薰 | [02-Mind-Psychology/therapy/sensory-nature/incense/](../../../02-Mind-Psychology/therapy/sensory-nature/incense/) | 家庭香氛选择 |

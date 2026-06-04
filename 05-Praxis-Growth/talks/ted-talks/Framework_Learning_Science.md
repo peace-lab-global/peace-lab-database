@@ -16,7 +16,7 @@ trigger_keywords: ["学习科学", "act", "behavioral", "body", "brain"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/exercise/neuroscience"
   - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
     relation: "communication/exercise/neuroscience"

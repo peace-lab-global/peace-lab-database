@@ -18,7 +18,7 @@ cross_refs:
     relation: "art_therapy/buddhism/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/buddhism/meditation"
   - path: "README.md"
     relation: "art_therapy/buddhism/meditation"

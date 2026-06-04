@@ -20,7 +20,7 @@ cross_refs:
     relation: "anxiety/art_therapy/buddhism"
   - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
     relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/exercise"
   - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
     relation: "anxiety/buddhism/exercise"

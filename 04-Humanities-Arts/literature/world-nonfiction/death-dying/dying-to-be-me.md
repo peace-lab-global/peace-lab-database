@@ -14,7 +14,7 @@ intent_queries:
   - "《死过一次才学会爱》Dying to Be Me的方法与实践"
 trigger_keywords: ["body", "death", "immune", "intervention"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "anxiety/death/immune"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
     relation: "anxiety/art_therapy/death"

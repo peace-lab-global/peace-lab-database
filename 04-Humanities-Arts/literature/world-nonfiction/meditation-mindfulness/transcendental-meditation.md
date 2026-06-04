@@ -22,7 +22,7 @@ cross_refs:
     relation: "art_therapy/exercise/meditation"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "exercise/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "exercise/meditation/productivity"
 
 ---

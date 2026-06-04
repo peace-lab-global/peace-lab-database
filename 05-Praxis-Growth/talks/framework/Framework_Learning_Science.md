@@ -14,15 +14,15 @@ intent_queries:
   - "学习科学 | Learning Science的方法与实践"
 trigger_keywords: ["学习科学", "anxiety", "assessment", "behavioral", "brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Digital_Industry.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
     relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C3-5-QA-posture-of-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C3-5-QA-posture-of-meditation.md"
     relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/course/C4-3-breathing-as-anchor.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
     relation: "anxiety/emotion/neuroscience"
 
 ---

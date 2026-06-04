@@ -14,7 +14,7 @@ intent_queries:
   - "社会阶层流动的方法与实践"
 trigger_keywords: ["社会阶层流动", "body", "brain", "cognitive", "developmental"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/neuroscience"
   - path: "README.md"
     relation: "art_therapy/attachment/neuroscience"

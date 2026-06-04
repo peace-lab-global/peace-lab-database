@@ -16,13 +16,13 @@ trigger_keywords: ["和辻哲郎", "cognitive", "developmental", "healing", "phi
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/christian-meditation/Christian_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_PTSD_Trauma.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
     relation: "sexuality/therapy/trauma"
 
 ---

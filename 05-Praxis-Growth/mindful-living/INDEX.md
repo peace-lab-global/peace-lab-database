@@ -1,27 +1,24 @@
+# 正念生活化实践 | Mindful Living Practices
+
+> 将正念觉察融入饮食、行走、工作、沟通、育儿与数字生活。
+
 ---
-title: "INDEX"
-description: "INDEX的详细解析与实践指南"
-category: "实践与个人增长 > 正念生活"
-tags: ["正念生活"]
-last_updated: "2026-05"
-difficulty: "beginner"
-reading_level: "beginner"
-estimated_read_time: "5min"
-intent_queries:
-  - "什么是INDEX"
-  - "INDEX的核心概念"
-  - "INDEX的方法与实践"
-trigger_keywords: ["INDEX", "正念生活"]
-cross_refs: []
+
+## 核心文档
+
+| 文档 | 内容 |
+|------|------|
+| [正念生活化实践总览](Mindful_Living_Overview.md) | 正念进食/行走/工作/沟通/育儿/数字生活、每日整合方案 |
+
 ---
-# INDEX
 
-> 此页面为占位文件，内容待补充。
+## 关联模块
 
-## 概述
+- [正念冥想](../../02-Mind-Psychology/meditation/) — 正式冥想练习
+- [正念正念](../personal-development/mindfulness/) — 正念个人发展
+- [日常打卡](../personal-development/daily-checkin/) — 习惯追踪
+- [睡前拉伸](../../03-Bio-Science/biology/pre-sleep-stretching/) — 正念睡前仪式
 
-本条目属于 Peace Lab 知识体系，目前处于待建设状态。
+---
 
-## 相关资源
-
-- 返回 [INDEX](../INDEX.md)
+*返回 [05-Praxis-Growth INDEX](../INDEX.md)*

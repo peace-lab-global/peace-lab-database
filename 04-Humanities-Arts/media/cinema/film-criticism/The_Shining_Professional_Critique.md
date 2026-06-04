@@ -17,7 +17,7 @@ trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
 cross_refs:
   - path: "README.md"
     relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/art_therapy/neuroscience"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
     relation: "anxiety/communication/neuroscience"

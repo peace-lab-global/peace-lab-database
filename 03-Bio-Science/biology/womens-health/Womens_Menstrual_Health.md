@@ -14,9 +14,9 @@ intent_queries:
   - "月经健康 | Menstrual Health的方法与实践"
 trigger_keywords: ["月经健康", "anxiety", "ballet", "behavioral", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/communication/depression"
   - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
     relation: "anxiety/communication/depression"
@@ -162,7 +162,7 @@ cross_refs:
 | 女性健康总览 | [总览](Womens_Health_Overview.md) |
 | 生育与妊娠 | [生育](Womens_Fertility_Pregnancy.md) |
 | 更年期 | [更年期](Womens_Menopause.md) |
-| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/Yoga_Women_Health.md) |
+| 瑜伽与女性 | [瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md) |
 | HPA轴 | [HPA轴](../hpa-axis/) |
 
 ---

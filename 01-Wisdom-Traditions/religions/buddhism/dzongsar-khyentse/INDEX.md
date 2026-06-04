@@ -14,11 +14,11 @@ intent_queries:
   - "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的方法与实践"
 trigger_keywords: ["宗萨蒋扬钦哲仁波切", "act", "buddhism", "cinema", "death"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/death/sexuality"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
     relation: "buddhism/death/sexuality"

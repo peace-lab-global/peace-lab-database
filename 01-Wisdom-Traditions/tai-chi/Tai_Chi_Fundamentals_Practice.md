@@ -18,11 +18,11 @@ cross_refs:
     relation: "daoism/exercise/neuroscience"
   - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
     relation: "daoism/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_Sitting_Practices.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
     relation: "daoism/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Neurological_Disorders.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
     relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "exercise/neuroscience/pain"
 
 ---

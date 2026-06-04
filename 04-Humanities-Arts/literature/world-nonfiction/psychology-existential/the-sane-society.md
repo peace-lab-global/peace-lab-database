@@ -16,7 +16,7 @@ trigger_keywords: ["《健全的社会》书评", "act", "anxiety", "behavioral"
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
     relation: "anxiety/art_therapy/sexuality"
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
     relation: "anxiety/art_therapy/sexuality"
   - path: "README.md"
     relation: "anxiety/art_therapy/sexuality"

@@ -18,11 +18,11 @@ cross_refs:
     relation: "exercise/meditation/yoga"
   - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
     relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "exercise/meditation/yoga"
 
 ---
@@ -46,7 +46,7 @@ cross_refs:
 
 ## 相关链接
 
-- [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md)
-- [瑜伽与科技](../Yoga_Technology_Digital.md)
-- [冥想职业发展路径](../../../02-Mind-Psychology/meditation/career-business/Meditation_Career_Pathways.md)
+- [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md)
+- [瑜伽与科技](../modern-professional/Yoga_Technology_Digital.md)
+- [冥想职业发展路径](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Career_Pathways.md)
 - [瑜伽大师人物档案](../masters/INDEX.md)

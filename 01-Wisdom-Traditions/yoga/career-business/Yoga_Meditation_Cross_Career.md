@@ -16,13 +16,13 @@ trigger_keywords: ["act", "body", "developmental", "exercise"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "exercise/meditation/neuroscience"
 
 ---
@@ -119,4 +119,4 @@ cross_refs:
 ---
 
 *最后更新：2026年4月*
-*关联文件：[Yoga_Career_Pathways](../career-business/Yoga_Career_Pathways.md) | [Meditation_Career_Pathways](../../../02-Mind-Psychology/meditation/career-business/Meditation_Career_Pathways.md)*
+*关联文件：[Yoga_Career_Pathways](../career-business/Yoga_Career_Pathways.md) | [Meditation_Career_Pathways](../../../02-Mind-Psychology/meditation/professional/career-business/Meditation_Career_Pathways.md)*

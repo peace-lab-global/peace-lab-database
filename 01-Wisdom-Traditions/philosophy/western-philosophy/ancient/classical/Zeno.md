@@ -14,15 +14,15 @@ intent_queries:
   - "芝诺的方法与实践"
 trigger_keywords: ["芝诺", "art", "behavioral", "cbt", "cognitive"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
     relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/therapy/focus-therapy/Focus_Meditation_Therapy.md"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md"
     relation: "buddhism/emotion/exercise"
 
 ---

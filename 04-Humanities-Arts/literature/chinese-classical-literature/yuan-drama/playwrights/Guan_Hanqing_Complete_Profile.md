@@ -16,7 +16,7 @@ trigger_keywords: ["act", "art", "developmental", "literature"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/personality/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/personality/sexuality"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/sexuality/therapy"

@@ -14,15 +14,15 @@ intent_queries:
   - "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的方法与实践"
 trigger_keywords: ["斯瓦米", "breathwork", "exercise", "meditation", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/career-business/Meditation_Instructor_Self_Care.md"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/chinese-traditions/Chinese_TCM_Meditation.md"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Holistic_Integration.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Holistic_Integration.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Self_Cultivation.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
     relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/samatha-vipassana/Practice_Guide_Beginner.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
     relation: "exercise/meditation/nutrition"
 
 ---

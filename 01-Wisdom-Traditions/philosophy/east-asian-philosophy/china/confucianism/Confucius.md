@@ -14,7 +14,7 @@ intent_queries:
   - "孔子的方法与实践"
 trigger_keywords: ["孔子", "behavioral", "cognitive", "developmental", "emotion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Clinical.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
     relation: "communication/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
     relation: "communication/emotion/exercise"

@@ -14,7 +14,7 @@ intent_queries:
   - "瑜伽大师人物档案 | Yoga Masters & Leaders的方法与实践"
 trigger_keywords: ["瑜伽大师人物档案", "act", "developmental", "philosophy", "psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional-handbook/Professional_Career_Development.md"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
     relation: "communication/sexuality/therapy"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
     relation: "communication/sexuality/therapy"
@@ -103,8 +103,8 @@ cross_refs:
 
 ## 相关链接
 
-- [瑜伽历史与传统](../Yoga_History_Tradition.md) — 完整历史脉络
-- [现代瑜伽流派](../Yoga_Modern_Styles.md) — 各流派详细对比
-- [瑜伽伦理与专业发展](../Yoga_Ethics_Business_Professional.md) — 师生关系与职业伦理
+- [瑜伽历史与传统](../philosophy-history/Yoga_History_Tradition.md) — 完整历史脉络
+- [现代瑜伽流派](../modern-professional/Yoga_Modern_Styles.md) — 各流派详细对比
+- [瑜伽伦理与专业发展](../modern-professional/Yoga_Ethics_Business_Professional.md) — 师生关系与职业伦理
 - [瑜伽职业发展路径](../career-business/Yoga_Career_Pathways.md) — 职业规划
 - [瑜伽认证对比](../practitioner-training/Yoga_Certification_Comparison.md) — 全球认证体系

@@ -14,15 +14,15 @@ intent_queries:
   - "园艺疗愈总览 | Horticultural Therapy Overview的方法与实践"
 trigger_keywords: ["园艺疗愈总览", "aging", "anxiety", "assessment", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/buddhism"
   - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
     relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Zentangle_Art.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
     relation: "aging/anxiety/buddhism"
 
 ---
@@ -191,7 +191,7 @@ cross_refs:
 |------|------|
 | 临床园艺治疗 | [临床](Horticultural_Therapy_Clinical.md) |
 | 疗愈花园设计 | [花园](Healing_Garden_Design.md) |
-| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/forest-therapy/) |
+| 森林疗法 | [森林](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
 | 正念 | [正念](../../../02-Mind-Psychology/meditation/) |
 | 老年心理学 | [老年](../../../02-Mind-Psychology/psychology/developmental/aging-psychology/) |
 

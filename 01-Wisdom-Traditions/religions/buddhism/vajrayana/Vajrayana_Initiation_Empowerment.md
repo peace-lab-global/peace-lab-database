@@ -14,15 +14,15 @@ intent_queries:
   - "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的方法与实践"
 trigger_keywords: ["灌顶与传承", "act", "assessment", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Habit_Formation_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
     relation: "buddhism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Resources.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
     relation: "buddhism/exercise/nutrition"
   - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/Tang_Poetry_Overview.md"
     relation: "buddhism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "buddhism/exercise/sexuality"
 
 ---

@@ -14,7 +14,7 @@ intent_queries:
   - "马丁·海德格尔的方法与实践"
 trigger_keywords: ["马丁", "海德格尔", "anxiety", "art", "cognitive", "death"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/course/C1-3-brain-science.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
     relation: "anxiety/death/personality"
   - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
     relation: "anxiety/death/personality"

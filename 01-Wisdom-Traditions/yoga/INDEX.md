@@ -14,15 +14,15 @@ intent_queries:
   - "瑜伽  | 知识地图的方法与实践"
 trigger_keywords: ["瑜伽", "知识地图", "act", "aging", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Cancer_Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
     relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "aging/anxiety/depression"
 
 ---
@@ -36,11 +36,11 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [瑜伽哲学](Yoga_Philosophy.md) | 六条瑜伽道路、八支体系、五Kleśa、核心哲学概念 |
-| [瑜伽经深度解读](Yoga_Sutra_Philosophical_Deep_Dive.md) | Patañjali《瑜伽经》四章逐篇分析、核心经句 |
-| [瑜伽哲学流派深度研究](Yoga_Philosophy_Schools_Deep.md) | 六派哲学(Ṣaḍ Darśana)、数论、吠檀多、正理、胜论等 |
-| [瑜伽历史与传统](Yoga_History_Tradition.md) | 从吠陀到当代的发展脉络、关键人物与里程碑 |
-| [瑜伽术语总表](Yoga_Glossary_Master.md) | 梵中英三语对照术语表(含天城体+IAST) |
+| [瑜伽哲学](philosophy-history/Yoga_Philosophy.md) | 六条瑜伽道路、八支体系、五Kleśa、核心哲学概念 |
+| [瑜伽经深度解读](philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) | Patañjali《瑜伽经》四章逐篇分析、核心经句 |
+| [瑜伽哲学流派深度研究](philosophy-history/Yoga_Philosophy_Schools_Deep.md) | 六派哲学(Ṣaḍ Darśana)、数论、吠檀多、正理、胜论等 |
+| [瑜伽历史与传统](philosophy-history/Yoga_History_Tradition.md) | 从吠陀到当代的发展脉络、关键人物与里程碑 |
+| [瑜伽术语总表](philosophy-history/Yoga_Glossary_Master.md) | 梵中英三语对照术语表(含天城体+IAST) |
 
 ---
 
@@ -48,10 +48,10 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [体式与调息](Yoga_Asana_Pranayama.md) | 六类体式、12种调息、Bandha与Mudra、课堂编排 |
+| [体式与调息](practice-technique/Yoga_Asana_Pranayama.md) | 六类体式、12种调息、Bandha与Mudra、课堂编排 |
 | [体式库](asana-library/INDEX.md) | 13类体式详细图鉴(150+体式)——站立、后弯、倒立、修复等 |
-| [六业净化](Yoga_Shatkarma_Cleansing.md) | 六大净化法(Neti、Dhauti、Nauli、Basti、Kapalabhati、Trataka) |
-| [Mantra与声音瑜伽](Yoga_Mantra_Nada_Chanting.md) | 四层声音(Vāk)、OṂ解析、Nāda Yoga、Japa与Kirtana |
+| [六业净化](practice-technique/Yoga_Shatkarma_Cleansing.md) | 六大净化法(Neti、Dhauti、Nauli、Basti、Kapalabhati、Trataka) |
+| [Mantra与声音瑜伽](practice-technique/Yoga_Mantra_Nada_Chanting.md) | 四层声音(Vāk)、OṂ解析、Nāda Yoga、Japa与Kirtana |
 
 ---
 
@@ -59,9 +59,9 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [冥想：专注与禅定](Yoga_Meditation_Dharana_Dhyana.md) | 内三支、七级Samādhi、六类冥想技术、神经科学 |
-| [Yoga Nidra](Yoga_Nidra.md) | 瑜伽休息术历史、技术结构、科学基础、临床应用 |
-| [昆达里尼与高级修炼](Yoga_Advanced_Kriya_Kundalini.md) | 脉轮、经脉、Kuṇḍalinī觉醒、Kriyā技术、安全指南 |
+| [冥想：专注与禅定](meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md) | 内三支、七级Samādhi、六类冥想技术、神经科学 |
+| [Yoga Nidra](meditation-consciousness/Yoga_Nidra.md) | 瑜伽休息术历史、技术结构、科学基础、临床应用 |
+| [昆达里尼与高级修炼](meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md) | 脉轮、经脉、Kuṇḍalinī觉醒、Kriyā技术、安全指南 |
 
 ---
 
@@ -69,8 +69,8 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [瑜伽解剖学与生理学](Yoga_Anatomy_Physiology.md) | 关节系统、核心肌群、多迷走神经、筋膜科学、Pañca Kosha |
-| [瑜伽神经科学与现代研究](Yoga_Neuroscience_Modern_Research.md) | 10大机制、脑区映射、神经免疫学、研究方法论 |
+| [瑜伽解剖学与生理学](anatomy-science/Yoga_Anatomy_Physiology.md) | 关节系统、核心肌群、多迷走神经、筋膜科学、Pañca Kosha |
+| [瑜伽神经科学与现代研究](anatomy-science/Yoga_Neuroscience_Modern_Research.md) | 10大机制、脑区映射、神经免疫学、研究方法论 |
 
 ---
 
@@ -78,9 +78,9 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [瑜伽治疗](Yoga_Therapy.md) | Kosha评估模型、精神健康方案、慢性病管理、TSY |
-| [瑜伽心理健康临床应用](Yoga_Mental_Health_Clinical.md) | 焦虑谱系、抑郁、创伤、与主流心理治疗整合 |
-| [瑜伽心理疗愈原则](Yoga_Psychological_Healing_Principles.md) | 瑜伽心理疗愈的核心原则与方法 |
+| [瑜伽治疗](therapy-clinical/Yoga_Therapy.md) | Kosha评估模型、精神健康方案、慢性病管理、TSY |
+| [瑜伽心理健康临床应用](therapy-clinical/Yoga_Mental_Health_Clinical.md) | 焦虑谱系、抑郁、创伤、与主流心理治疗整合 |
+| [瑜伽心理疗愈原则](therapy-clinical/Yoga_Psychological_Healing_Principles.md) | 瑜伽心理疗愈的核心原则与方法 |
 
 ---
 
@@ -88,8 +88,8 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [阿育吠陀与瑜伽整合](Yoga_Ayurvedic_Therapy_Integration.md) | 三Dosha、体质处方、季节养生、Marma穴位 |
-| [中医与瑜伽整合](Yoga_TCM_Integration.md) | 经络与Nāḍī对应、气与Prāṇa映射、体质对应 |
+| [阿育吠陀与瑜伽整合](integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md) | 三Dosha、体质处方、季节养生、Marma穴位 |
+| [中医与瑜伽整合](integrative-medicine/Yoga_TCM_Integration.md) | 经络与Nāḍī对应、气与Prāṇa映射、体质对应 |
 
 ---
 
@@ -97,8 +97,8 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [特殊人群瑜伽](Yoga_Specific_Populations.md) | 老年人、儿童、运动员、残障适应、职场瑜伽 |
-| [女性健康瑜伽](Yoga_Women_Health.md) | 月经周期、孕产期、更年期、盆底健康 |
+| [特殊人群瑜伽](specific-populations/Yoga_Specific_Populations.md) | 老年人、儿童、运动员、残障适应、职场瑜伽 |
+| [女性健康瑜伽](specific-populations/Yoga_Women_Health.md) | 月经周期、孕产期、更年期、盆底健康 |
 
 ---
 
@@ -106,10 +106,10 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [现代瑜伽流派](Yoga_Modern_Styles.md) | Ashtanga、Iyengar、Vinyasa、Yin等12+流派详细对比 |
-| [瑜伽伦理与专业发展](Yoga_Ethics_Business_Professional.md) | 伦理准则、师生关系、DEI、商业模式、持续教育 |
-| [静修与工作坊设计](Yoga_Retreat_Workshop_Design.md) | 静修类型、日程设计、风险管理、市场推广 |
-| [瑜伽与科技](Yoga_Technology_Digital.md) | 线上教学、App、可穿戴设备、AI、VR、社交媒体 |
+| [现代瑜伽流派](modern-professional/Yoga_Modern_Styles.md) | Ashtanga、Iyengar、Vinyasa、Yin等12+流派详细对比 |
+| [瑜伽伦理与专业发展](modern-professional/Yoga_Ethics_Business_Professional.md) | 伦理准则、师生关系、DEI、商业模式、持续教育 |
+| [静修与工作坊设计](modern-professional/Yoga_Retreat_Workshop_Design.md) | 静修类型、日程设计、风险管理、市场推广 |
+| [瑜伽与科技](modern-professional/Yoga_Technology_Digital.md) | 线上教学、App、可穿戴设备、AI、VR、社交媒体 |
 
 ---
 
@@ -117,7 +117,7 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [瑜伽营养与生活方式](Yoga_Nutrition_Lifestyle.md) | 三Guṇa饮食、Agni、Dinacarya、断食、睡眠、数字排毒 |
+| [瑜伽营养与生活方式](lifestyle/Yoga_Nutrition_Lifestyle.md) | 三Guṇa饮食、Agni、Dinacarya、断食、睡眠、数字排毒 |
 
 ---
 
@@ -125,7 +125,7 @@ cross_refs:
 
 | 文档 | 内容概述 |
 | :--- | :--- |
-| [瑜伽资源指南](Yoga_Resources.md) | 经典文献、核心书籍、期刊、认证机构、线上平台、辅具 |
+| [瑜伽资源指南](resources/Yoga_Resources.md) | 经典文献、核心书籍、期刊、认证机构、线上平台、辅具 |
 
 ---
 
@@ -135,7 +135,7 @@ cross_refs:
 | :--- | :--- |
 | [瑜伽纪录片指南](documentary/Yoga_Documentary_Guide.md) | 10部精选瑜伽纪录片——历史传承、大师传记、科学研究、行业反思 |
 
-精选推荐：[诸神的呼吸](documentary/Yoga_Documentary_Guide.md#1-诸神的呼吸--breath-of-the-gods) · [觉醒：尤迦南达](documentary/Yoga_Documentary_Guide.md#3-觉醒尤迦南达的一生--awake-the-life-of-yogananda) · [Bikram纪录片](documentary/Yoga_Documentary_Guide.md#7-bikram瑜伽士大师掠食者) · [冥想纪录片指南](../../02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md)
+精选推荐：[诸神的呼吸](documentary/Yoga_Documentary_Guide.md#1-诸神的呼吸--breath-of-the-gods) · [觉醒：尤迦南达](documentary/Yoga_Documentary_Guide.md#3-觉醒尤迦南达的一生--awake-the-life-of-yogananda) · [Bikram纪录片](documentary/Yoga_Documentary_Guide.md#7-bikram瑜伽士大师掠食者) · [冥想纪录片指南](../../02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md)
 
 ---
 
@@ -177,6 +177,16 @@ cross_refs:
 
 | 目录 | 内容 |
 | :--- | :--- |
+| [哲学与历史 (philosophy-history/)](philosophy-history/) | 哲学体系、经典解读、历史脉络、术语总表 |
+| [身体练习与技术 (practice-technique/)](practice-technique/) | 体式调息、六业净化、Mantra声音瑜伽 |
+| [冥想与意识 (meditation-consciousness/)](meditation-consciousness/) | 专注禅定、Yoga Nidra、昆达里尼高级修炼 |
+| [解剖学与科学 (anatomy-science/)](anatomy-science/) | 解剖生理、神经科学与现代研究 |
+| [治疗与临床 (therapy-clinical/)](therapy-clinical/) | 瑜伽治疗、心理健康临床、心理疗愈原则 |
+| [整合医学 (integrative-medicine/)](integrative-medicine/) | 阿育吠陀整合、中医整合 |
+| [特殊人群 (specific-populations/)](specific-populations/) | 特殊人群瑜伽、女性健康 |
+| [现代发展与职业 (modern-professional/)](modern-professional/) | 现代流派、伦理专业、静修设计、科技 |
+| [生活方式 (lifestyle/)](lifestyle/) | 营养与生活方式 |
+| [资源与工具 (resources/)](resources/) | 经典文献、书籍、期刊、认证机构 |
 | [体式库 (asana-library/)](asana-library/INDEX.md) | 13类体式详细档案 |
 | [纪录片 (documentary/)](documentary/Yoga_Documentary_Guide.md) | 瑜伽纪录片完整指南 |
 | [那洛六法 (six-yogas-naropa/)](six-yogas-naropa/) | 藏传瑜伽六法 |
@@ -190,25 +200,25 @@ cross_refs:
 ## 学习路径建议
 
 ### 初学者路径
-1. [瑜伽哲学](Yoga_Philosophy.md) → 理解"为什么练瑜伽"
-2. [体式与调息](Yoga_Asana_Pranayama.md) → 基础技术
-3. [现代瑜伽流派](Yoga_Modern_Styles.md) → 找到适合自己的流派
-4. [瑜伽营养与生活方式](Yoga_Nutrition_Lifestyle.md) → 日常整合
+1. [瑜伽哲学](philosophy-history/Yoga_Philosophy.md) → 理解“为什么练瑜伽”
+2. [体式与调息](practice-technique/Yoga_Asana_Pranayama.md) → 基础技术
+3. [现代瑜伽流派](modern-professional/Yoga_Modern_Styles.md) → 找到适合自己的流派
+4. [瑜伽营养与生活方式](lifestyle/Yoga_Nutrition_Lifestyle.md) → 日常整合
 
 ### 教师培训路径
-1. [瑜伽历史与传统](Yoga_History_Tradition.md) + [瑜伽哲学流派](Yoga_Philosophy_Schools_Deep.md)
-2. [解剖学与生理学](Yoga_Anatomy_Physiology.md) + [体式库](asana-library/INDEX.md)
-3. [伦理与专业](Yoga_Ethics_Business_Professional.md) + [静修与工作坊设计](Yoga_Retreat_Workshop_Design.md)
-4. [瑜伽治疗](Yoga_Therapy.md) + [特殊人群](Yoga_Specific_Populations.md)
+1. [瑜伽历史与传统](philosophy-history/Yoga_History_Tradition.md) + [瑜伽哲学流派](philosophy-history/Yoga_Philosophy_Schools_Deep.md)
+2. [解剖学与生理学](anatomy-science/Yoga_Anatomy_Physiology.md) + [体式库](asana-library/INDEX.md)
+3. [伦理与专业](modern-professional/Yoga_Ethics_Business_Professional.md) + [静修与工作坊设计](modern-professional/Yoga_Retreat_Workshop_Design.md)
+4. [瑜伽治疗](therapy-clinical/Yoga_Therapy.md) + [特殊人群](specific-populations/Yoga_Specific_Populations.md)
 
 ### 治疗师路径
-1. [瑜伽治疗](Yoga_Therapy.md) + [心理健康临床](Yoga_Mental_Health_Clinical.md)
-2. [阿育吠陀整合](Yoga_Ayurvedic_Therapy_Integration.md) + [中医整合](Yoga_TCM_Integration.md)
-3. [神经科学](Yoga_Neuroscience_Modern_Research.md) + [女性健康](Yoga_Women_Health.md)
-4. [资源指南](Yoga_Resources.md) → 持续学习
+1. [瑜伽治疗](therapy-clinical/Yoga_Therapy.md) + [心理健康临床](therapy-clinical/Yoga_Mental_Health_Clinical.md)
+2. [阿育吠陀整合](integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md) + [中医整合](integrative-medicine/Yoga_TCM_Integration.md)
+3. [神经科学](anatomy-science/Yoga_Neuroscience_Modern_Research.md) + [女性健康](specific-populations/Yoga_Women_Health.md)
+4. [资源指南](resources/Yoga_Resources.md) → 持续学习
 
 ### 灵性深化路径
-1. [瑜伽经深度](Yoga_Sutra_Philosophical_Deep_Dive.md) + [哲学流派](Yoga_Philosophy_Schools_Deep.md)
-2. [冥想](Yoga_Meditation_Dharana_Dhyana.md) + [Yoga Nidra](Yoga_Nidra.md)
-3. [昆达里尼与高级修炼](Yoga_Advanced_Kriya_Kundalini.md) + [Mantra与声音](Yoga_Mantra_Nada_Chanting.md)
-4. [六业净化](Yoga_Shatkarma_Cleansing.md) + [术语总表](Yoga_Glossary_Master.md)
+1. [瑜伽经深度](philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) + [哲学流派](philosophy-history/Yoga_Philosophy_Schools_Deep.md)
+2. [冥想](meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md) + [Yoga Nidra](meditation-consciousness/Yoga_Nidra.md)
+3. [昆达里尼与高级修炼](meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md) + [Mantra与声音](practice-technique/Yoga_Mantra_Nada_Chanting.md)
+4. [六业净化](practice-technique/Yoga_Shatkarma_Cleansing.md) + [术语总表](philosophy-history/Yoga_Glossary_Master.md)

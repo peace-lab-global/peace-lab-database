@@ -359,10 +359,10 @@ cross_refs:
 | 排列技术详解 | [Family_Constellation_Techniques](Family_Constellation_Techniques.md) | 排列实操技术与治疗师培训 |
 | 创伤治疗概述 | [Trauma_Treatment_Overview](../../clinical/trauma/Trauma_Treatment_Overview.md) | 创伤知情视角与多种创伤治疗方法比较 |
 | PTSD专业治疗 | [PTSD_Specialized_Treatment](../../clinical/trauma/PTSD_Specialized_Treatment.md) | 案例一、五中创伤后症状的专业治疗路径 |
-| EMDR疗法 | [EMDR_Overview](../../../therapy/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md) | 案例一中代际创伤的EMDR整合治疗 |
+| EMDR疗法 | [EMDR_Overview](../../../therapy/integrative/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md) | 案例一中代际创伤的EMDR整合治疗 |
 | 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../somatic-body/emotion/Emotion_Focused_Therapy.md) | 案例三中情绪加工的EFT取向补充 |
-| CBT认知行为疗法 | [CBT_Overview](../../../therapy/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) | 案例一中CBT作为先期治疗的角色 |
-| 依恋与亲密关系 | [Love_Attachment_Intimacy](../../../relationships/love/Love_Attachment_Intimacy.md) | 案例二中依恋模式对伴侣选择的影响 |
+| CBT认知行为疗法 | [CBT_Overview](../../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) | 案例一中CBT作为先期治疗的角色 |
+| 依恋与亲密关系 | [Love_Attachment_Intimacy](../../../relationships/love-dating/love/Love_Attachment_Intimacy.md) | 案例二中依恋模式对伴侣选择的影响 |
 | 婚姻心理学 | [Marriage_Psychology](../../../relationships/marriage/Marriage_Psychology.md) | 案例二、三中婚姻动力学的系统理解 |
 | 接地技术 | [Grounding_Techniques](../../self-regulation/grounding-techniques/Grounding_Techniques.md) | 排列后情绪稳定化的接地技术资源 |
 | 自我慈悲 | [Self_Compassion_Self_Care](../../self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 排列后的自我关怀与整合支持 |

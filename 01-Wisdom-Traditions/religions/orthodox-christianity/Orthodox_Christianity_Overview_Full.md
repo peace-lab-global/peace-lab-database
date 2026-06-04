@@ -14,15 +14,15 @@ intent_queries:
   - "东正教核心概览的方法与实践"
 trigger_keywords: ["东正教核心概览", "addiction", "adolescent", "anxiety", "art"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/bahai-meditation/Bahai_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/documentary/Meditation_Documentary_Guide.md"
+  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/hindu-meditation/Hindu_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/Hindu_Meditation_Overview.md"
     relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/korean-seon/Korean_Seon_Overview.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/korean-seon/Korean_Seon_Overview.md"
     relation: "anxiety/buddhism/exercise"
 
 ---

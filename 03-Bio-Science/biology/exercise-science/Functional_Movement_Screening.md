@@ -14,9 +14,9 @@ intent_queries:
   - "功能性动作筛查的方法与实践"
 trigger_keywords: ["功能性动作筛查", "act", "assessment", "body", "exercise"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Nidra.md"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
     relation: "exercise/pain/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "exercise/pain/sexuality"
   - path: "01-Wisdom-Traditions/yoga/masters/industry-leaders/Adriene_Mishler.md"
     relation: "exercise/pain/sexuality"

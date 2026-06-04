@@ -14,9 +14,9 @@ intent_queries:
   - "《分裂的自我》The Divided Self的方法与实践"
 trigger_keywords: ["brain", "personality", "psychology", "sexuality"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/neuroscience/personality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Arts_Nature.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/neuroscience/personality"
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/neuroscience/sexuality"

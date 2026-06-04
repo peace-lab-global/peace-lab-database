@@ -37,7 +37,7 @@ cross_refs:
     relation: "anxiety/daoism/emotion"
   - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
     relation: "anxiety/daoism/emotion"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "anxiety/emotion/exercise"
   - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
     relation: "anxiety/emotion/exercise"

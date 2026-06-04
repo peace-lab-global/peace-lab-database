@@ -46,8 +46,8 @@ cross_refs:
 
 ## 跨支柱引用
 
-- [森林疗法](../../../02-Mind-Psychology/therapy/forest-therapy/)
-- [感觉治疗](../../../02-Mind-Psychology/therapy/sensory/)
+- [森林疗法](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/)
+- [感觉治疗](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/)
 - [正念冥想](../../../02-Mind-Psychology/meditation/)
 - [老年心理学](../../../02-Mind-Psychology/psychology/developmental/aging-psychology/)
 - [儿童发展](../../../02-Mind-Psychology/psychology/developmental/child-development/)

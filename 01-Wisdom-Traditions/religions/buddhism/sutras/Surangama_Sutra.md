@@ -14,15 +14,15 @@ intent_queries:
   - "大佛顶如来密因修证了义诸菩萨万行首楞严经的方法与实践"
 trigger_keywords: ["aging", "body", "brain", "longevity"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
     relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/masters/western-pioneers/Shinzen_Young.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
     relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/mbsr-program/MBSR_Program_Overview.md"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
     relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/meditation-critique/Meditation_Commercialization_Critique.md"
+  - path: "02-Mind-Psychology/meditation/foundations/meditation-critique/Meditation_Commercialization_Critique.md"
     relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/buddhism/meditation"
 
 ---

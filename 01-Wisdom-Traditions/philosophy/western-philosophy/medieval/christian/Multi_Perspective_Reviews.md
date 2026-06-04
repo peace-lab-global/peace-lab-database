@@ -14,13 +14,13 @@ intent_queries:
   - "中世纪基督教哲学经典三方书评的方法与实践"
 trigger_keywords: ["act", "addiction", "behavioral", "body"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "death/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "death/emotion/exercise"
   - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
     relation: "death/emotion/exercise"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Writing_Journaling.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
     relation: "death/emotion/exercise"
   - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
     relation: "death/emotion/exercise"

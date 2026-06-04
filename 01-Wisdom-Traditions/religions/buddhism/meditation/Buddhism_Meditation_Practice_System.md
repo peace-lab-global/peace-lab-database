@@ -14,15 +14,15 @@ intent_queries:
   - "佛教禅修实践体系详论的方法与实践"
 trigger_keywords: ["佛教禅修实践体系详论", "act", "addiction", "anxiety", "behavioral"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_General.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_General.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/depression"
   - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
     relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/depression/emotion"
 
 ---

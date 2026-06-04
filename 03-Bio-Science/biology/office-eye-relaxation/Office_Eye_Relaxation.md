@@ -18,11 +18,11 @@ cross_refs:
     relation: "aging/emotion/neuroscience"
   - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
     relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/Yoga_Therapy.md"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
     relation: "aging/emotion/neuroscience"
   - path: "02-Mind-Psychology/INDEX.md"
     relation: "aging/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_Depression.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md"
     relation: "aging/emotion/neuroscience"
 
 ---

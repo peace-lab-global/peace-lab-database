@@ -14,13 +14,13 @@ intent_queries:
   - "Research Methods and Measurement Tools in Sexuality的方法与实践"
 trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/Meditation_IBS_Gut_Health.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
     relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/course/C1-1-seeds-of-intention-course.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
     relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/masters/tibetan/Mingyur_Rinpoche.md"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Mingyur_Rinpoche.md"
     relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "anxiety/neuroscience/pain"
   - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
     relation: "anxiety/neuroscience/pain"

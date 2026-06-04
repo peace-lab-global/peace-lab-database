@@ -18,11 +18,11 @@ cross_refs:
     relation: "art_therapy/attachment/buddhism"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
     relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/buddhism/emotion"
 
 ---
@@ -156,7 +156,7 @@ cross_refs:
 | 关联主题 | 路径 | 关联点 |
 |---------|------|--------|
 | 播客制作 | [Podcast_Creation_Guide](Podcast_Creation_Guide.md) | 播客创作实践 |
-| 冥想音频 | [02-Mind-Psychology/meditation/guided-scripts/](../../../02-Mind-Psychology/meditation/guided-scripts/) | 引导式冥想脚本 |
-| 声音治疗 | [02-Mind-Psychology/therapy/sensory/](../../../02-Mind-Psychology/therapy/sensory/) | 声音疗法 |
+| 冥想音频 | [02-Mind-Psychology/meditation/courses/guided-scripts/](../../../02-Mind-Psychology/meditation/courses/guided-scripts/) | 引导式冥想脚本 |
+| 声音治疗 | [02-Mind-Psychology/therapy/sensory-nature/sensory/](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/) | 声音疗法 |
 | TED演讲 | [05-Praxis-Growth/talks/](../../../05-Praxis-Growth/talks/) | 演讲与知识传播 |
 | 阅读 | [04-Humanities-Arts/reading/](../../reading/) | 阅读与聆听比较 |

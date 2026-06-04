@@ -20,9 +20,9 @@ cross_refs:
     relation: "death/personality/sexuality"
   - path: "02-Mind-Psychology/psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md"
     relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/relationships/love/Love_Breakup_Heartbreak.md"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
     relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory/Sensory_Mandala_Jungian.md"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Mandala_Jungian.md"
     relation: "death/personality/sexuality"
 
 ---

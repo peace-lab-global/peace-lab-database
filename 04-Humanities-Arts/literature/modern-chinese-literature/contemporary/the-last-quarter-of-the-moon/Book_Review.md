@@ -14,7 +14,7 @@ intent_queries:
   - "《额尔古纳河右岸》读书笔记与书评的方法与实践"
 trigger_keywords: ["death", "exercise", "grief", "literature"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/Series_13_Cultural_Scenes.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
     relation: "art_therapy/death/depression"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
     relation: "death/depression/exercise"

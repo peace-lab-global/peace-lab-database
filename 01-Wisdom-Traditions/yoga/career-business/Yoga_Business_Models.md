@@ -14,7 +14,7 @@ intent_queries:
   - "瑜伽商业模式全景（Yoga Business Models）的方法与实践"
 trigger_keywords: ["act", "aging", "breathwork", "crisis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/guided-courses/CATALOG.md"
+  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
     relation: "aging/emotion/exercise"
   - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
     relation: "aging/emotion/exercise"
@@ -22,7 +22,7 @@ cross_refs:
     relation: "aging/emotion/exercise"
   - path: "02-Mind-Psychology/meditation/INDEX.md"
     relation: "aging/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/emotion/exercise"
 
 ---

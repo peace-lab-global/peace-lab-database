@@ -14,7 +14,7 @@ intent_queries:
   - "Extended Fasting | 延长断食专题索引的方法与实践"
 trigger_keywords: ["延长断食专题索引", "adolescent", "body", "clinical", "fasting"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "aging/emotion/immune"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
     relation: "aging/emotion/immune"

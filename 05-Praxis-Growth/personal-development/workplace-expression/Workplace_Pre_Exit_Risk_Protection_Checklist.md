@@ -14,13 +14,13 @@ intent_queries:
   - "离职前风险自保与证据清单的方法与实践"
 trigger_keywords: ["behavioral", "brain", "communication", "emotion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/14-Movement-Mindfulness.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/20-Therapist-Self-Care.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Applications.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md"
     relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "communication/emotion/neuroscience"
   - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Sleep_Comorbidity.md"
     relation: "communication/emotion/neuroscience"

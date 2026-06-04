@@ -5,7 +5,7 @@
 ## 2026-04-13 (止观禅定专业内容体系建设)
 
 > **规模**: 9 个新文件 + 3 个索引更新 / ~2,800+ 行新增内容
-> **目录**: `02-Mind-Psychology/meditation/samatha-vipassana/`
+> **目录**: `02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/`
 
 ### 新建止观禅定专项子目录 (9 文件 / ~2,742 行)
 

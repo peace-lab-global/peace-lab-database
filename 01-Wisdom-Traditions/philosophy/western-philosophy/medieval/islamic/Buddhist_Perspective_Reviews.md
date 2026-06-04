@@ -14,15 +14,15 @@ intent_queries:
   - "伊斯兰哲学经典 · 佛法视角三方书评的方法与实践"
 trigger_keywords: ["伊斯兰哲学经典", "佛法视角三方书评", "behavioral", "buddhism", "cognitive", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/course/C2-1-whats-meditation.md"
+  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/direct-recognition/Direct_Recognition_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/korean-seon/Korean_Seon_Practical.md"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/korean-seon/Korean_Seon_Practical.md"
     relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Psychological_Painting.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
     relation: "buddhism/communication/meditation"
 
 ---

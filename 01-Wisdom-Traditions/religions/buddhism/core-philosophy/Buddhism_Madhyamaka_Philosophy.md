@@ -14,11 +14,11 @@ intent_queries:
   - "中观学与空性哲学的方法与实践"
 trigger_keywords: ["中观学与空性哲学", "act", "anxiety", "assessment", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/safety/Meditation_Adverse_Effects.md"
+  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
     relation: "anxiety/buddhism/communication"
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
     relation: "anxiety/buddhism/communication"

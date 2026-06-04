@@ -16,13 +16,13 @@ trigger_keywords: ["谈判技能", "act", "cognitive", "communication", "decisio
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
     relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/chakra-meditation/Chakra_Practical_Guide.md"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
     relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/keynotes/mocici.md"
+  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
     relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/Meditation_Intimacy_Relationships.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
     relation: "attachment/communication/emotion"
 
 ---

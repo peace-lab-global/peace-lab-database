@@ -14,7 +14,7 @@ intent_queries:
   - "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的方法与实践"
 trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
     relation: "communication/death/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "communication/death/emotion"

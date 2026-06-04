@@ -14,15 +14,15 @@ intent_queries:
   - "意念熏习概览的方法与实践"
 trigger_keywords: ["意念熏习概览", "act", "behavioral", "brain", "buddhism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/15-Culture-Adaptation.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
     relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/mandala-meditation/Mandala_Meditation_Overview.md"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
     relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
     relation: "buddhism/neuroscience/productivity"
 
 ---
@@ -250,7 +250,7 @@ cross_refs:
 | **[藏传佛教心理学](../../tibetan-buddhism/Tibetan_Buddhist_Psychology.md)** | 51心所、八识、五毒转五智 | 心识结构详解 |
 | **[佛教疗愈心理学](../../wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md)** | 四圣谛、十二因缘、阿毗达摩 | 佛教心理学基础 |
 | **[大圆满/佐钦](../dzogchen/Dzogchen_Great_Perfection.md)** | 本觉、转识成智 | 藏传转化方法 |
-| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/overview/Meditation_Types_Classification.md)** | 冥想分类与机制 | 实修方法背景 |
+| **[冥想类型与分类](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)** | 冥想分类与机制 | 实修方法背景 |
 
 ---
 

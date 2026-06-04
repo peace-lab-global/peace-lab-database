@@ -18,11 +18,11 @@ cross_refs:
     relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical-conditions/depression/08-Practical-Toolkit.md"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
     relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/meditation-integration/INDEX.md"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
     relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/overview/Meditation_Practitioner_QA.md"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
     relation: "aging/anxiety/communication"
 
 ---
@@ -211,7 +211,7 @@ cross_refs:
 | 摄影疗愈临床应用 | [Photography_Clinical_Applications.md](./Photography_Clinical_Applications.md) |
 | 书法疗愈 | [../calligraphy-therapy/](../calligraphy-therapy/) |
 | 正念冥想 | [../../02-Mind-Psychology/meditation/](../../../02-Mind-Psychology/meditation/) |
-| OH卡牌(投射性图像) | [../../02-Mind-Psychology/therapy/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/oh-cards-therapy/) |
+| OH卡牌(投射性图像) | [../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/) |
 
 ---
 

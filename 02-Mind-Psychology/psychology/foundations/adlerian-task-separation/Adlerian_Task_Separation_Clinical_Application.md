@@ -298,9 +298,9 @@ cross_refs:
 
 - **理论基础** → [Adlerian_Task_Separation_Overview](Adlerian_Task_Separation_Overview.md)
 - **案例分析与实践指导** → [Adlerian_Task_Separation_Case_Studies](Adlerian_Task_Separation_Case_Studies.md)
-- **CBT专题** → [认知行为疗法](../../../therapy/cognitive-behavioral-therapy/)
-- **DBT专题** → [辩证行为疗法](../../../therapy/dialectical-behavior-therapy/)
-- **ACT专题** → [接纳承诺疗法](../../../therapy/act-therapy/)
+- **CBT专题** → [认知行为疗法](../../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/)
+- **DBT专题** → [辩证行为疗法](../../../therapy/cognitive-behavioral/dialectical-behavior-therapy/)
+- **ACT专题** → [接纳承诺疗法](../../../therapy/cognitive-behavioral/act-therapy/)
 - **职场倦怠** → [Occupational Burnout](../../applied/occupational-burnout/)
 - **焦虑症** → [Anxiety](../../clinical/anxiety/)
 - **抑郁症** → [Depression](../../clinical/depression/)
