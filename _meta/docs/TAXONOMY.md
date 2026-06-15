@@ -159,4 +159,4 @@ peace-lab-database/
 | 2026-04-08 | tai-chi/ 从 religions/ 升格为 01 顶层 | 身心实践独立归属 |
 
 ---
-*返回根目录 [README.md]()*
+*返回根目录 [README.md](../../README.md)*

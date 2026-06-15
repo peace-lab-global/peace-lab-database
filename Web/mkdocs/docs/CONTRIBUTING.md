@@ -1,1 +1,1 @@
-../../../docs/CONTRIBUTING.md
+../../../_meta/docs/CONTRIBUTING.md

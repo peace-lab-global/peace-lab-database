@@ -6,12 +6,12 @@ DOCS_DIR = os.path.join(SCRIPT_DIR, 'docs')
 
 SKIP = {
     '.git', '.venv', 'node_modules', '__pycache__', 'site',
-    'Visualization', '.claude', '.codebuddy', '.qoder', '.trae',
-    'Tools', 'Project', '_meta', 'Web', 'docs', '.DS_Store',
+    '.claude', '.codebuddy', '.qoder', '.trae',
+    'Tools', 'Web', '_meta', '.DS_Store',
 }
 
-# 需要从 docs/ 子目录符号链接的项目级文档
-DOCS_SUBDIR_FILES = {'TAXONOMY.md', 'GLOSSARY.md', 'CONTRIBUTING.md'}
+META_DOCS_DIR = os.path.join(REPO_ROOT, '_meta', 'docs')
+META_DOCS_FILES = {'TAXONOMY.md', 'GLOSSARY.md', 'CONTRIBUTING.md'}
 
 os.makedirs(DOCS_DIR, exist_ok=True)
 
@@ -39,14 +39,22 @@ for name in ['README.md']:
         os.symlink(rel, dst)
         print(f"  linked file: {name}")
 
-# TAXONOMY.md / GLOSSARY.md / CONTRIBUTING.md 从 docs/ 子目录链接
-for name in sorted(DOCS_SUBDIR_FILES):
-    src = os.path.join(REPO_ROOT, 'docs', name)
+# TAXONOMY.md / GLOSSARY.md / CONTRIBUTING.md 从 _meta/docs/ 链接
+for name in sorted(META_DOCS_FILES):
+    src = os.path.join(META_DOCS_DIR, name)
     dst = os.path.join(DOCS_DIR, name)
     if os.path.exists(src) and not os.path.lexists(dst):
         rel = os.path.relpath(src, DOCS_DIR)
         os.symlink(rel, dst)
-        print(f"  linked file: docs/{name}")
+        print(f"  linked file: _meta/docs/{name}")
+
+# assets 链接到 Web/mkdocs/assets/
+assets_src = os.path.join(SCRIPT_DIR, 'assets')
+assets_dst = os.path.join(DOCS_DIR, 'assets')
+if os.path.isdir(assets_src) and not os.path.lexists(assets_dst):
+    rel = os.path.relpath(assets_src, DOCS_DIR)
+    os.symlink(rel, assets_dst)
+    print(f"  linked dir: assets")
 
 index_src = os.path.join(SCRIPT_DIR, '..', 'landing.md')
 index_dst = os.path.join(DOCS_DIR, 'index.md')

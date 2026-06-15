@@ -118,4 +118,4 @@ cross_refs:
 3. 新增术语请同步更新本表并按首字拼音排序
 
 ---
-*返回根目录 [README.md]()*
+*返回根目录 [README.md](../../README.md)*

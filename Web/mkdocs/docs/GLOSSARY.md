@@ -1,1 +1,1 @@
-../../../docs/GLOSSARY.md
+../../../_meta/docs/GLOSSARY.md

@@ -1,1 +1,1 @@
-../../../docs/TAXONOMY.md
+../../../_meta/docs/TAXONOMY.md
