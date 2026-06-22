@@ -1,7 +1,6 @@
 ---
-
 title: "Media Clinical Applications (媒体疗法临床应用)"
-description: "Media Clinical Applications (媒体疗法临床应用)的详细解析与实践指南"
+description: "Media Clinical Applications (媒体疗法临床应用) —— 媒体 · Media Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > Media Therapy"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Media Clinical Applications"
   - "Media Clinical Applications的核心概念"
   - "Media Clinical Applications的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["Media", "Clinical", "Applications", "媒体疗法临床应用"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "03-Bio-Science/biology/stretch/Stretch_Clinical_Applications.md"
+    relation: "pathology-specific/prescriptions/applications"
 ---
 # Media Clinical Applications (媒体疗法临床应用)
 

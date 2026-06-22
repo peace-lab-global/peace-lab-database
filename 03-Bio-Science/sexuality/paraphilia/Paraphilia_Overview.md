@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)"
-description: "Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)的详细解析与实践指南"
+description: "Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["addiction", "aging", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Paraphilic Disorders & Fetishism Overview"
   - "Paraphilic Disorders & Fetishism Overview的核心概念"
   - "Paraphilic Disorders & Fetishism Overview的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["Paraphilic", "Disorders", "Fetishism", "Overview", "恋物癖与性偏离障碍概览"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/anxiety/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Addiction_Overview.md"
+    relation: "matrix/legal/framework"
 ---
 # Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Stocking Fetishism (恋丝袜癖专业指南)"
-description: "Stocking Fetishism (恋丝袜癖专业指南)的详细解析与实践指南"
+description: "Stocking Fetishism (恋丝袜癖专业指南) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Stocking Fetishism"
   - "Stocking Fetishism的核心概念"
   - "Stocking Fetishism的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["Stocking", "Fetishism", "恋丝袜癖专业指南"]
+cross_refs: []
 ---
 # Stocking Fetishism (恋丝袜癖专业指南)
 

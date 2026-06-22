@@ -1,7 +1,6 @@
 ---
-
 title: "日本佛教哲学 · 佛法视角三方书评"
-description: "日本佛教哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "日本佛教哲学 · 佛法视角三方书评 —— Japan · 佛教 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > 佛教"
 tags: ["buddhism", "philosophy", "writing", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是日本佛教哲学 · 佛法视角三方书评"
   - "日本佛教哲学 · 佛法视角三方书评的核心概念"
   - "日本佛教哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["日本佛教哲学", "佛法视角三方书评", "buddhism", "developmental", "philosophy", "psychology"]
+trigger_keywords: ["日本佛教哲学", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/zen/佛教"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md"
+    relation: "zen/禅宗/vs"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "佛法/禅宗/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-gateless-gate.md"
+    relation: "禅宗/佛法/佛教"
 ---
 # 日本佛教哲学 · 佛法视角三方书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "nutritional | Index"
-description: "nutritional | Index的详细解析与实践指南"
+description: "nutritional | Index —— 营养学 · Nutritional 专题"
 category: "生命科学与生物医学 > 营养学 > Nutritional"
 tags: ["营养学", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是nutritional | Index"
   - "nutritional | Index的核心概念"
   - "nutritional | Index的方法与实践"
-trigger_keywords: ["Index", "营养学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "nutrition/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "nutrition/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "nutrition/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
-    relation: "nutrition/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
-    relation: "nutrition/therapy"
-
+trigger_keywords: ["营养学", "nutritional"]
+cross_refs: []
 ---
 # nutritional | Index
 

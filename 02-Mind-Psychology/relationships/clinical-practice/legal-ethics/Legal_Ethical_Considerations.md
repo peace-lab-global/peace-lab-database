@@ -1,7 +1,6 @@
 ---
-
 title: "约炮与出轨的法律与伦理考量 (Legal and Ethical Considerations for Casual Sex and Infidelity)"
-description: "约炮与出轨的法律与伦理考量 (Legal and Ethical Considerations for Casual Sex and Infidelity)的详细解析与实践指南"
+description: "约炮与出轨的法律与伦理考量 (Legal and Ethical Considerations for Casual Sex and Infidelity) —— 人际关系 · Legal Ethics 专题"
 category: "心智与心理学 > 人际关系 > Legal Ethics"
 tags: ["marriage", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是约炮与出轨的法律与伦理考量"
   - "约炮与出轨的法律与伦理考量的核心概念"
   - "约炮与出轨的法律与伦理考量的方法与实践"
-trigger_keywords: ["aging", "behavioral", "child", "communication"]
+trigger_keywords: ["约炮与出轨的法律与伦理考量", "Legal", "and", "Ethical", "Considerations"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Youth_Population_Intervention.md"
-    relation: "aging/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/ffe/style"
 ---
 # 约炮与出轨的法律与伦理考量 (Legal and Ethical Considerations for Casual Sex and Infidelity)
 

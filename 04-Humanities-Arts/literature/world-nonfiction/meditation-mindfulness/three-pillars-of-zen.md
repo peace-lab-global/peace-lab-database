@@ -1,7 +1,6 @@
 ---
-
 title: "《禅的三柱》The Three Pillars of Zen"
-description: "《禅的三柱》The Three Pillars of Zen的详细解析与实践指南"
+description: "《禅的三柱》The Three Pillars of Zen —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["dmn", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《禅的三柱》The Three Pillars of Zen"
   - "《禅的三柱》The Three Pillars of Zen的核心概念"
   - "《禅的三柱》The Three Pillars of Zen的方法与实践"
-trigger_keywords: ["anxiety", "brain", "cognitive", "crisis"]
+trigger_keywords: ["《禅的三柱》The", "Three", "Pillars", "of", "Zen"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/zen/智慧"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+    relation: "禅宗/zen/pillars"
 ---
 # 《禅的三柱》The Three Pillars of Zen
 

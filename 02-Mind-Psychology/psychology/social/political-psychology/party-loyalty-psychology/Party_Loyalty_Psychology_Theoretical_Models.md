@@ -1,7 +1,6 @@
 ---
-
 title: "政党忠诚心理学理论模型与影响因素 (Party Loyalty Psychology: Theoretical Models & Influencing Factors)"
-description: "政党忠诚心理学理论模型与影响因素 (Party Loyalty Psychology: Theoretical Models & Influencing Factors)的详细解析与实践指南"
+description: "政党忠诚心理学理论模型与影响因素 (Party Loyalty Psychology: Theoretical Models & Influencing Factors) —— Political Psychology · Party Loyalty Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Party Loyalty Psychology"
 tags: ["attachment", "brain", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "政党忠诚心理学理论模型与影响因素的核心概念"
   - "政党忠诚心理学理论模型与影响因素的方法与实践"
   - "政党忠诚心理学理论模型与影响因素的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "assessment"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
-    relation: "aging/attachment/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
-    relation: "aging/attachment/emotion"
-  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Decluttering_Practice_Guide.md"
-    relation: "aging/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/emotion/neuroscience"
-
+trigger_keywords: ["政党忠诚心理学理论模型与影响因素", "Party", "Loyalty", "Psychology:", "Theoretical"]
+cross_refs: []
 ---
 # 政党忠诚心理学理论模型与影响因素 (Party Loyalty Psychology: Theoretical Models & Influencing Factors)
 

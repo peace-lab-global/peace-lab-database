@@ -1,7 +1,6 @@
 ---
-
 title: "门德尔松第一钢琴协奏曲治疗应用指导"
-description: "门德尔松第一钢琴协奏曲治疗应用指导的详细解析与实践指南"
+description: "门德尔松第一钢琴协奏曲治疗应用指导 —— Mendelssohn Piano Concertos · No1 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Piano Concertos > No1"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "门德尔松第一钢琴协奏曲治疗应用指导的核心概念"
   - "门德尔松第一钢琴协奏曲治疗应用指导的方法与实践"
   - "门德尔松第一钢琴协奏曲治疗应用指导的循证证据"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["门德尔松第一钢琴协奏曲治疗应用指导"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/depression"
-
+    relation: "团体治疗/家庭治疗"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
+    relation: "家庭治疗/团体治疗"
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Overview.md"
+    relation: "积极心理学/专注"
 ---
 # 门德尔松第一钢琴协奏曲治疗应用指导
 

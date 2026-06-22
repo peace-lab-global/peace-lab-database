@@ -1,7 +1,6 @@
 ---
-
 title: "modern-applications | Index"
-description: "modern-applications | Index的详细解析与实践指南"
+description: "modern-applications | Index —— 佛教 · Modern Applications 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Modern Applications"
 tags: ["addiction", "buddhism", "meditation", "yoga", "tai-chi"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是modern-applications | Index"
   - "modern-applications | Index的核心概念"
   - "modern-applications | Index的方法与实践"
-trigger_keywords: ["Index", "act", "addiction", "anxiety", "behavioral"]
+trigger_keywords: ["modern-applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/buddhism/depression"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/疗法/障碍"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "临终/佛教/死亡"
 ---
 # modern-applications | Index
 

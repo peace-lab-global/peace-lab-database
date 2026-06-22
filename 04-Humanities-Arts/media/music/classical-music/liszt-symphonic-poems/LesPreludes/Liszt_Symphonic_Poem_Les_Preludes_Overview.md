@@ -1,7 +1,6 @@
 ---
-
 title: "李斯特交响诗《前奏曲》概述"
-description: "李斯特交响诗《前奏曲》概述的详细解析与实践指南"
+description: "李斯特交响诗《前奏曲》概述 —— Liszt Symphonic Poems · Lespreludes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是李斯特交响诗《前奏曲》概述"
   - "李斯特交响诗《前奏曲》概述的核心概念"
   - "李斯特交响诗《前奏曲》概述的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "cognitive", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["李斯特交响诗《前奏曲》概述"]
+cross_refs: []
 ---
 # 李斯特交响诗《前奏曲》概述
 

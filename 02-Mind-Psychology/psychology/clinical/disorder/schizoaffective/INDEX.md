@@ -1,7 +1,6 @@
 ---
-
 title: "schizoaffective | Index"
-description: "schizoaffective | Index的详细解析与实践指南"
+description: "schizoaffective | Index —— 精神障碍 · Schizoaffective 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizoaffective"
 tags: ["treatment", "临床心理", "心理学", "精神障碍"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是schizoaffective | Index"
   - "schizoaffective | Index的核心概念"
   - "schizoaffective | Index的方法与实践"
-trigger_keywords: ["Index", "assessment", "sexuality", "treatment", "临床心理"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Mencius.md"
-    relation: "emotion/sexuality"
-
+trigger_keywords: ["treatment", "临床心理"]
+cross_refs: []
 ---
 # schizoaffective | Index
 

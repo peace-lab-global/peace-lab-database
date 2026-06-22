@@ -1,7 +1,6 @@
 ---
-
 title: "强迫症本质解析"
-description: "强迫症本质解析的详细解析与实践指南"
+description: "强迫症本质解析 —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["anxiety", "brain", "intervention", "neuroscience", "ocd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是强迫症本质解析"
   - "强迫症本质解析的核心概念"
   - "强迫症本质解析的方法与实践"
-trigger_keywords: ["强迫症本质解析", "act", "anxiety", "behavioral", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["强迫症本质解析"]
+cross_refs: []
 ---
 # 强迫症本质解析
 

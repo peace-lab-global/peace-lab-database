@@ -1,7 +1,6 @@
 ---
-
 title: "太空医学 | Space Medicine Framework"
-description: "太空医学 | Space Medicine Framework的详细解析与实践指南"
+description: "太空医学 | Space Medicine Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是太空医学 | Space Medicine Framework"
   - "太空医学 | Space Medicine Framework的核心概念"
   - "太空医学 | Space Medicine Framework的方法与实践"
-trigger_keywords: ["太空医学", "aging", "art", "assessment", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["太空医学", "Space", "Medicine", "Framework"]
+cross_refs: []
 ---
 # 太空医学 | Space Medicine Framework
 

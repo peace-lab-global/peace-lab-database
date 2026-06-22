@@ -1,7 +1,6 @@
 ---
-
 title: "指甲健康综合指南 | Nail Health Comprehensive Guide"
-description: "指甲健康综合指南 | Nail Health Comprehensive Guide的详细解析与实践指南"
+description: "指甲健康综合指南 | Nail Health Comprehensive Guide —— 生物学 · Paronychia 专题"
 category: "生命科学与生物医学 > 生物学 > Paronychia"
 tags: ["aging", "gut", "habits", "immune", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是指甲健康综合指南 | Nail Health Comprehensive Guide"
   - "指甲健康综合指南 | Nail Health Comprehensive Guide的核心概念"
   - "指甲健康综合指南 | Nail Health Comprehensive Guide的方法与实践"
-trigger_keywords: ["指甲健康综合指南", "aging", "assessment", "clinical", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "immune/nutrition/pain"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/immune/pain"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
-    relation: "aging/nutrition/pain"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/immune/nutrition"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/immune/nutrition"
-
+trigger_keywords: ["指甲健康综合指南", "Nail", "Health", "Comprehensive", "Guide"]
+cross_refs: []
 ---
 # 指甲健康综合指南 | Nail Health Comprehensive Guide
 

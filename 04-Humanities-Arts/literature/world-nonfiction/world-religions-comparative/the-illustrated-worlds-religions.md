@@ -1,7 +1,6 @@
 ---
-
 title: "《图解世界宗教》The Illustrated World's Religions"
-description: "《图解世界宗教》The Illustrated World's Religions的详细解析与实践指南"
+description: "《图解世界宗教》The Illustrated World's Religions —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["calligraphy", "mandala", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《图解世界宗教》The Illustrated World's Religions"
   - "《图解世界宗教》The Illustrated World's Religions的核心概念"
   - "《图解世界宗教》The Illustrated World's Religions的方法与实践"
-trigger_keywords: ["art", "buddhism", "calligraphy", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "buddhism/communication/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "buddhism/communication/exercise"
-
+trigger_keywords: ["calligraphy", "《图解世界宗教》The", "Illustrated", "World's", "Religions"]
+cross_refs: []
 ---
 # 《图解世界宗教》The Illustrated World's Religions
 

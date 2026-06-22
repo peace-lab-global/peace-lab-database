@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Communication & Conflict (恋爱沟通与冲突管理)"
-description: "Dating Communication & Conflict (恋爱沟通与冲突管理)的详细解析与实践指南"
+description: "Dating Communication & Conflict (恋爱沟通与冲突管理) —— 人际关系 · Love 专题"
 category: "心智与心理学 > 人际关系 > Love"
 tags: ["anxiety", "attachment", "marriage", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Dating Communication & Conflict"
   - "Dating Communication & Conflict的核心概念"
   - "Dating Communication & Conflict的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["Dating", "Communication", "Conflict", "恋爱沟通与冲突管理"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "conflict/冲突/resolution"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "conflict/冲突/resolution"
+  - path: "05-Praxis-Growth/communication/effective-communication/Effective_Communication_Overview.md"
+    relation: "倾听/沟通/communication"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md"
+    relation: "communication/沟通/professional"
 ---
 # Dating Communication & Conflict (恋爱沟通与冲突管理)
 

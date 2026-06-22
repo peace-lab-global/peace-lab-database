@@ -1,7 +1,6 @@
 ---
-
 title: "《周易》I Ching / Book of Changes"
-description: "《周易》I Ching / Book of Changes的详细解析与实践指南"
+description: "《周易》I Ching / Book of Changes —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["decision-making", "jung", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《周易》I Ching / Book of Changes"
   - "《周易》I Ching / Book of Changes的核心概念"
   - "《周易》I Ching / Book of Changes的方法与实践"
-trigger_keywords: ["buddhism", "death", "decision-making", "jung"]
+trigger_keywords: ["decision-making", "jung"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism"
-
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "book/死亡"
 ---
 # 《周易》I Ching / Book of Changes
 

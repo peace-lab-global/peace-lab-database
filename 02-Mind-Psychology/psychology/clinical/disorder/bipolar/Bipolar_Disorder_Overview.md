@@ -1,7 +1,6 @@
 ---
-
 title: "Bipolar Disorder Overview (双相情感障碍概览)"
-description: "Bipolar Disorder Overview (双相情感障碍概览)的详细解析与实践指南"
+description: "Bipolar Disorder Overview (双相情感障碍概览) —— 精神障碍 · Bipolar 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Bipolar"
 tags: ["anxiety", "brain", "cardiovascular", "personality", "bipolar", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Bipolar Disorder Overview"
   - "Bipolar Disorder Overview的核心概念"
   - "Bipolar Disorder Overview的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Microbiome_Mental_Health.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Menopause.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Neuroscience_Pharmacology.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/sexuality/sexual-aversion/Sexual_Aversion_Overview.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["Bipolar", "Disorder", "Overview", "双相情感障碍概览"]
+cross_refs: []
 ---
 # Bipolar Disorder Overview (双相情感障碍概览)
 

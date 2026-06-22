@@ -1,6 +1,6 @@
 ---
 title: "信息战"
-description: "信息战的详细解析与实践指南"
+description: "信息战 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

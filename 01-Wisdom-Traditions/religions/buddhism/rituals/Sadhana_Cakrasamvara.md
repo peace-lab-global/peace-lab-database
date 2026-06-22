@@ -1,7 +1,6 @@
 ---
-
 title: "胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)"
-description: "胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)的详细解析与实践指南"
+description: "胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "longevity", "mandala", "yoga", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是胜乐金刚完整修持仪轨"
   - "胜乐金刚完整修持仪轨的核心概念"
   - "胜乐金刚完整修持仪轨的方法与实践"
-trigger_keywords: ["胜乐金刚完整修持仪轨", "buddhism", "longevity", "mandala", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
-    relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "aging/buddhism/sexuality"
-
+trigger_keywords: ["胜乐金刚完整修持仪轨", "longevity", "mandala"]
+cross_refs: []
 ---
 # 胜乐金刚完整修持仪轨 (Cakrasamvara / Khorlo Demchog Sadhana)
 

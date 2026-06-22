@@ -1,7 +1,6 @@
 ---
-
 title: "Cross-Cultural and Sociological Perspectives in Sexuality (性学跨文化与社会学视角)"
-description: "Cross-Cultural and Sociological Perspectives in Sexuality (性学跨文化与社会学视角)的详细解析与实践指南"
+description: "Cross-Cultural and Sociological Perspectives in Sexuality (性学跨文化与社会学视角) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["aging", "attachment", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Cross-Cultural and Sociological Perspectives in Sexuality"
   - "Cross-Cultural and Sociological Perspectives in Sexuality的核心概念"
   - "Cross-Cultural and Sociological Perspectives in Sexuality的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Cross-Cultural", "and", "Sociological", "Perspectives", "in"]
+cross_refs: []
 ---
 # Cross-Cultural and Sociological Perspectives in Sexuality (性学跨文化与社会学视角)
 

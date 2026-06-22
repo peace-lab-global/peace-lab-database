@@ -70,31 +70,47 @@ INDEX.md 标准模板：
 
 ## 📝 文档标准
 
-### Frontmatter（推荐）
+### Frontmatter（必需）
 
-每个 `.md` 文件头部建议添加 YAML frontmatter：
+每个内容 `.md` 文件头部**必须**包含 YAML frontmatter。以下是本项目实际使用的完整 schema（以真实文件为准，字段顺序建议保持一致）：
 
 ```yaml
 ---
-title: "文档标题"
-domain: 02-Mind-Psychology
-category: clinical
-tags: [anxiety, CBT, assessment]
-difficulty: intermediate
-created: 2025-06-15
-updated: 2026-04-08
-status: complete
+title: "焦虑障碍的认知行为治疗 (CBT for Anxiety)"
+description: "焦虑障碍的认知行为治疗 —— 心智与心理学 · 临床 专题"
+category: "心智与心理学 > 心理学 > clinical > anxiety"
+tags: ["anxiety", "cbt", "clinical"]
+last_updated: "2026-06"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "45min"
+intent_queries:
+  - "什么是焦虑障碍的认知行为治疗"
+  - "CBT治疗焦虑的方法"
+trigger_keywords: ["焦虑障碍", "cbt", "认知重构"]
+cross_refs:
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation.md"
+    relation: "焦虑/hpa轴"
 ---
 ```
 
-### 状态定义
+#### 字段说明
 
-| 状态 | 含义 |
-|------|------|
-| `draft` | 初稿，结构不完整 |
-| `in-progress` | 撰写中，核心内容已有 |
-| `complete` | 内容完整，可供使用 |
-| `needs-review` | 需要专业审核 |
+| 字段 | 必需 | 说明 |
+|:-----|:----:|:-----|
+| `title` | ✅ | 文档标题，中英双语，如 `"中文 (English)"` |
+| `description` | ✅ | 一句话专题描述（由 `metadata-cleanup.py` 从 title+category 派生，勿用"的详细解析与实践指南"模板） |
+| `category` | ✅ | 分类路径，`>` 分隔，如 `"支柱 > 领域 > 分类 > 专题"` |
+| `tags` | ✅ | inline 数组，主题特定词，≤6 个 |
+| `last_updated` | ✅ | 月级时间戳，`"YYYY-MM"` |
+| `difficulty` | ✅ | 难度等级（见下表） |
+| `reading_level` | ✅ | 读者水平，同 difficulty |
+| `estimated_read_time` | ✅ | 预计阅读时长，如 `"5min"`/`"45min"`/`"1h"` |
+| `intent_queries` | 可选 | 用户可能搜索的真实查询，block-list 形式 |
+| `trigger_keywords` | 可选 | 主题触发词，inline 数组；**禁用全局通用词**（anxiety/assessment/behavioral 等，见 `metadata-cleanup.py:GENERIC_WORDS`） |
+| `cross_refs` | 自动 | 跨支柱关联，由 `cross-ref-generator.py` 基于 TF-IDF 自动生成，**勿手动编辑** |
+
+> ⚠️ **废弃字段**：早期文档定义的 `domain`/`status`/`created`/`updated` 字段**未被任何内容文件使用**，请勿添加。
 
 ### 难度等级
 
@@ -103,6 +119,7 @@ status: complete
 | `beginner` | 零基础入门读者 |
 | `intermediate` | 有一定背景知识的学习者 |
 | `advanced` | 专业从业者或深度研究者 |
+| `expert` | 该领域专家 / 临床督导级别 |
 
 ---
 

@@ -1,7 +1,6 @@
 ---
-
 title: "纪德主要作品深度分析"
-description: "纪德主要作品深度分析的详细解析与实践指南"
+description: "纪德主要作品深度分析 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是纪德主要作品深度分析"
   - "纪德主要作品深度分析的核心概念"
   - "纪德主要作品深度分析的方法与实践"
-trigger_keywords: ["纪德主要作品深度分析", "anxiety", "art", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["纪德主要作品深度分析"]
+cross_refs: []
 ---
 # 纪德主要作品深度分析
 

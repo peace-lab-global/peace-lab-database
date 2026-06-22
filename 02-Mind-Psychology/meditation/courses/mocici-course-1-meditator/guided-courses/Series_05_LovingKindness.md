@@ -1,7 +1,6 @@
 ---
-
 title: "系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series (Highest Professional Standard v2.0)"
-description: "系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series (Highest Professional Standard v2.0)的详细解析与实践指南"
+description: "系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series (Highest Professional Standard v2.0) —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "calligraphy", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series"
   - "系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series的核心概念"
   - "系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+trigger_keywords: ["系列五：慈心与关系系列", "最高专业标准版", "Loving-Kindness", "Relational", "Series"]
+cross_refs: []
 ---
 # 系列五：慈心与关系系列（最高专业标准版） | Loving-Kindness & Relational Series (Highest Professional Standard v2.0)
 

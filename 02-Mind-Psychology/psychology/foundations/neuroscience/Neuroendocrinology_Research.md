@@ -1,6 +1,6 @@
 ---
 title: "神经内分泌"
-description: "神经内分泌的详细解析与实践指南"
+description: "神经内分泌 —— 心理学基础 · Neuroscience 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Neuroscience"
 tags: ["neuroscience", "心理学", "心理学基础"]
 last_updated: "2026-05"

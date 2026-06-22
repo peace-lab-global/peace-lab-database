@@ -1,7 +1,6 @@
 ---
-
 title: "文学哲人经典三方书评"
-description: "文学哲人经典三方书评的详细解析与实践指南"
+description: "文学哲人经典三方书评 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是文学哲人经典三方书评"
   - "文学哲人经典三方书评的核心概念"
   - "文学哲人经典三方书评的方法与实践"
-trigger_keywords: ["文学哲人经典三方书评", "act", "art", "behavioral", "body"]
+trigger_keywords: ["文学哲人经典三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
-    relation: "buddhism/death/meditation"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/siddhartha.md"
+    relation: "hermann/hesse/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/demian.md"
+    relation: "hermann/hesse/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/steppenwolf.md"
+    relation: "hermann/hesse"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/near-modern/authors/INDEX.md"
+    relation: "lao/xun/jin"
 ---
 # 文学哲人经典三方书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "恐怖日剧心理机制专业内容体系"
-description: "恐怖日剧心理机制专业内容体系的详细解析与实践指南"
+description: "恐怖日剧心理机制专业内容体系 —— 电影 · Horror Japanese Drama 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Horror Japanese Drama"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "恐怖日剧心理机制专业内容体系的核心概念"
   - "恐怖日剧心理机制专业内容体系的方法与实践"
   - "恐怖日剧心理机制专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
+trigger_keywords: ["恐怖日剧心理机制专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "恐惧/人格"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "人格/情绪调节"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/social-relationships/Adolescent_Relationship_Toolkit.md"
+    relation: "恐惧/情绪调节"
 ---
 # 恐怖日剧心理机制专业内容体系
 

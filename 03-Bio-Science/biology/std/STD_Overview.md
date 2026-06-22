@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases Overview (性传播疾病概览)"
-description: "Sexually Transmitted Diseases Overview (性传播疾病概览)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases Overview (性传播疾病概览) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["death", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases Overview"
   - "Sexually Transmitted Diseases Overview的核心概念"
   - "Sexually Transmitted Diseases Overview的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "death/immune/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/visualization/Loneliness_Chronic_Disease_Integration.md"
-    relation: "death/immune/sexuality"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
-    relation: "death/immune/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "death/immune/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
-    relation: "death/immune/sexuality"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Overview", "性传播疾病概览"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases Overview (性传播疾病概览)
 

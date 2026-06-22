@@ -1,7 +1,6 @@
 ---
-
 title: "Emmanuel Ax (埃马努埃尔·艾克斯) - 美国钢琴大师"
-description: "Emmanuel Ax (埃马努埃尔·艾克斯) - 美国钢琴大师的详细解析与实践指南"
+description: "Emmanuel Ax (埃马努埃尔·艾克斯) - 美国钢琴大师 —— Musician · Pianists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Emmanuel Ax  - 美国钢琴大师"
   - "Emmanuel Ax  - 美国钢琴大师的核心概念"
   - "Emmanuel Ax  - 美国钢琴大师的方法与实践"
-trigger_keywords: ["act", "art", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["Emmanuel", "Ax", "埃马努埃尔", "艾克斯", "美国钢琴大师"]
+cross_refs: []
 ---
 # Emmanuel Ax (埃马努埃尔·艾克斯) - 美国钢琴大师
 

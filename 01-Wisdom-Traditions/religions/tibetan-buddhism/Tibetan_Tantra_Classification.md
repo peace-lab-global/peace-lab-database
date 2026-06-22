@@ -1,7 +1,6 @@
 ---
-
 title: "密续分类体系 (Tantra Classification System)"
-description: "密续分类体系 (Tantra Classification System)的详细解析与实践指南"
+description: "密续分类体系 (Tantra Classification System) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "dzogchen", "mandala", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是密续分类体系"
   - "密续分类体系的核心概念"
   - "密续分类体系的方法与实践"
-trigger_keywords: ["密续分类体系", "act", "behavioral", "body", "buddhism"]
+trigger_keywords: ["密续分类体系", "Tantra", "Classification", "System"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "tantra/坛城/classes"
 ---
 # 密续分类体系 (Tantra Classification System)
 

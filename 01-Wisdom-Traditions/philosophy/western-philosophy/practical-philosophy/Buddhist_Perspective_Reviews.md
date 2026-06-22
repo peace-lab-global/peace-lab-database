@@ -1,7 +1,6 @@
 ---
-
 title: "实用哲学 · 佛法视角三方书评"
-description: "实用哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "实用哲学 · 佛法视角三方书评 —— Western Philosophy · Practical Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
 tags: ["buddhism", "mindfulness", "philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是实用哲学 · 佛法视角三方书评"
   - "实用哲学 · 佛法视角三方书评的核心概念"
   - "实用哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["实用哲学", "佛法视角三方书评", "anxiety", "buddhism", "death", "emotion"]
+trigger_keywords: ["实用哲学", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "佛教/vs/觉察"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "佛教/vs"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/what-the-buddha-taught.md"
+    relation: "佛教/缘起"
 ---
 # 实用哲学 · 佛法视角三方书评
 

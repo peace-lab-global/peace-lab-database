@@ -1,7 +1,6 @@
 ---
-
 title: "《奇迹的消逝》The Unwinding of the Miracle"
-description: "《奇迹的消逝》The Unwinding of the Miracle的详细解析与实践指南"
+description: "《奇迹的消逝》The Unwinding of the Miracle —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["gut", "literature", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《奇迹的消逝》The Unwinding of the Miracle"
   - "《奇迹的消逝》The Unwinding of the Miracle的核心概念"
   - "《奇迹的消逝》The Unwinding of the Miracle的方法与实践"
-trigger_keywords: ["death", "developmental", "gut", "literature"]
+trigger_keywords: ["gut", "《奇迹的消逝》The", "Unwinding", "of", "the"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/death/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《奇迹的消逝》The Unwinding of the Miracle
 

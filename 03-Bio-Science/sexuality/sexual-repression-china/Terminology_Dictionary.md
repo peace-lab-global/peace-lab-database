@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑专业术语词典 (Professional Terminology Dictionary for Sexual Repression in Chinese Society)"
-description: "中国社会性压抑专业术语词典 (Professional Terminology Dictionary for Sexual Repression in Chinese Society)的详细解析与实践指南"
+description: "中国社会性压抑专业术语词典 (Professional Terminology Dictionary for Sexual Repression in Chinese Society) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["addiction", "aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是中国社会性压抑专业术语词典"
   - "中国社会性压抑专业术语词典的核心概念"
   - "中国社会性压抑专业术语词典的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["中国社会性压抑专业术语词典", "Professional", "Terminology", "Dictionary", "for"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md"
+    relation: "dictionary/terminology"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Terminology_Standards.md"
+    relation: "terminology/concept/norms"
 ---
 # 中国社会性压抑专业术语词典 (Professional Terminology Dictionary for Sexual Repression in Chinese Society)
 

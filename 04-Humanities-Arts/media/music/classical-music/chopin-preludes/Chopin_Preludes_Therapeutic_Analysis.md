@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《前奏曲》心理学与疗愈功能分析"
-description: "肖邦《前奏曲》心理学与疗愈功能分析的详细解析与实践指南"
+description: "肖邦《前奏曲》心理学与疗愈功能分析 —— 古典音乐 · Chopin Preludes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Preludes"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "肖邦《前奏曲》心理学与疗愈功能分析的核心概念"
   - "肖邦《前奏曲》心理学与疗愈功能分析的方法与实践"
   - "肖邦《前奏曲》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["肖邦《前奏曲》心理学与疗愈功能分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "认知行为/认知重构/运动"
+  - path: "02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md"
+    relation: "认知行为/认知重构/压力"
 ---
 # 肖邦《前奏曲》心理学与疗愈功能分析
 

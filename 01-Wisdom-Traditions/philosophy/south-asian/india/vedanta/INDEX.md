@@ -1,7 +1,6 @@
 ---
-
 title: "吠檀多哲学 | Vedanta Philosophy — 文档索引"
-description: "吠檀多哲学 | Vedanta Philosophy — 文档索引的详细解析与实践指南"
+description: "吠檀多哲学 | Vedanta Philosophy — 文档索引 —— India · Vedanta 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
 tags: ["buddhism", "daoism", "meditation", "mindfulness", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是吠檀多哲学 | Vedanta Philosophy — 文档索引"
   - "吠檀多哲学 | Vedanta Philosophy — 文档索引的核心概念"
   - "吠檀多哲学 | Vedanta Philosophy — 文档索引的方法与实践"
-trigger_keywords: ["吠檀多哲学", "buddhism", "daoism", "meditation", "mindfulness"]
+trigger_keywords: ["吠檀多哲学", "daoism", "meditation", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "buddhism/daoism/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
+    relation: "gita/bhagavad/瑜伽"
 ---
 # 吠檀多哲学 | Vedanta Philosophy — 文档索引
 

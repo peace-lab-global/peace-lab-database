@@ -1,7 +1,6 @@
 ---
-
 title: "《金刚世界之秘》The Secret of the Vajra World"
-description: "《金刚世界之秘》The Secret of the Vajra World的详细解析与实践指南"
+description: "《金刚世界之秘》The Secret of the Vajra World —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["spirituality", "yoga", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《金刚世界之秘》The Secret of the Vajra World"
   - "《金刚世界之秘》The Secret of the Vajra World的核心概念"
   - "《金刚世界之秘》The Secret of the Vajra World的方法与实践"
-trigger_keywords: ["buddhism", "sexuality", "spirituality", "yoga"]
+trigger_keywords: ["spirituality", "yoga"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
-    relation: "art_therapy/buddhism/sexuality"
-
+  - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
+    relation: "瑜伽/藏传/佛教"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_22_World_Traditions.md"
+    relation: "观想/world/藏传"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
+    relation: "瑜伽/观想/念诵"
 ---
 # 《金刚世界之秘》The Secret of the Vajra World
 

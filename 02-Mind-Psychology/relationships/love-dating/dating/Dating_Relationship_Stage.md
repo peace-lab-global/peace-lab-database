@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Relationship Development Stages (约会关系发展阶段)"
-description: "Dating Relationship Development Stages (约会关系发展阶段)的详细解析与实践指南"
+description: "Dating Relationship Development Stages (约会关系发展阶段) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["anxiety", "attachment", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Dating Relationship Development Stages"
   - "Dating Relationship Development Stages的核心概念"
   - "Dating Relationship Development Stages的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Dating", "Relationship", "Development", "Stages", "约会关系发展阶段"]
+cross_refs: []
 ---
 # Dating Relationship Development Stages (约会关系发展阶段)
 

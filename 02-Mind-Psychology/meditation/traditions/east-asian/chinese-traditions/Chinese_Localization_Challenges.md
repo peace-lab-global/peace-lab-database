@@ -1,7 +1,6 @@
 ---
-
 title: "正念中国本土化挑战 | Mindfulness Localization Challenges in China"
-description: "正念中国本土化挑战 | Mindfulness Localization Challenges in China的详细解析与实践指南"
+description: "正念中国本土化挑战 | Mindfulness Localization Challenges in China —— 冥想 · Chinese Traditions 专题"
 category: "心智与心理学 > 冥想 > Chinese Traditions"
 tags: ["intervention", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是正念中国本土化挑战 | Mindfulness Localization Challenges in China"
   - "正念中国本土化挑战 | Mindfulness Localization Challenges in China的核心概念"
   - "正念中国本土化挑战 | Mindfulness Localization Challenges in China的方法与实践"
-trigger_keywords: ["正念中国本土化挑战", "act", "body", "buddhism", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "buddhism/emotion/meditation"
-
+trigger_keywords: ["正念中国本土化挑战", "Mindfulness", "Localization", "Challenges", "in"]
+cross_refs: []
 ---
 # 正念中国本土化挑战 | Mindfulness Localization Challenges in China
 

@@ -1,7 +1,6 @@
 ---
-
 title: "数字囤积癖与传统囤积癖对比分析 (Digital vs Traditional Hoarding Comparison Analysis)"
-description: "数字囤积癖与传统囤积癖对比分析 (Digital vs Traditional Hoarding Comparison Analysis)的详细解析与实践指南"
+description: "数字囤积癖与传统囤积癖对比分析 (Digital vs Traditional Hoarding Comparison Analysis) —— 行为心理 · Digital Hoarding 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
 tags: ["addiction", "anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是数字囤积癖与传统囤积癖对比分析"
   - "数字囤积癖与传统囤积癖对比分析的核心概念"
   - "数字囤积癖与传统囤积癖对比分析的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["数字囤积癖与传统囤积癖对比分析", "Digital", "vs", "Traditional", "Hoarding"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Hoarding_Comparison.md"
+    relation: "comparison/hoarding/approaches"
 ---
 # 数字囤积癖与传统囤积癖对比分析 (Digital vs Traditional Hoarding Comparison Analysis)
 

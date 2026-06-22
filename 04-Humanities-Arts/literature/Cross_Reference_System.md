@@ -1,7 +1,6 @@
 ---
-
 title: "中国古典与现代文学体系交叉引用与关联关系"
-description: "中国古典与现代文学体系交叉引用与关联关系的详细解析与实践指南"
+description: "中国古典与现代文学体系交叉引用与关联关系 —— 人文与艺术疗愈 · 文学 专题"
 category: "人文与艺术疗愈 > 文学"
 tags: ["daoism", "healing", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中国古典与现代文学体系交叉引用与关联关系"
   - "中国古典与现代文学体系交叉引用与关联关系的核心概念"
   - "中国古典与现代文学体系交叉引用与关联关系的方法与实践"
-trigger_keywords: ["art", "cognitive", "daoism", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/communication/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/daoism/exercise"
-
+trigger_keywords: ["daoism", "中国古典与现代文学体系交叉引用与关联关系"]
+cross_refs: []
 ---
 # 中国古典与现代文学体系交叉引用与关联关系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "恐惧症治疗方法 (Phobia Treatment Methods)"
-description: "恐惧症治疗方法 (Phobia Treatment Methods)的详细解析与实践指南"
+description: "恐惧症治疗方法 (Phobia Treatment Methods) —— 临床心理 · Phobia 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "恐惧症治疗方法的核心概念"
   - "恐惧症治疗方法的方法与实践"
   - "恐惧症治疗方法的循证证据"
-trigger_keywords: ["恐惧症治疗方法", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["恐惧症治疗方法", "Phobia", "Treatment", "Methods"]
 cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Treatment_Interventions.md"
+    relation: "暴露/疗法/treatment"
 ---
 # 恐惧症治疗方法 (Phobia Treatment Methods)
 

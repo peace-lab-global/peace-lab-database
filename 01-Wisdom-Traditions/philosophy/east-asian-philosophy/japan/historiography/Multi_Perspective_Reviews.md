@@ -1,7 +1,6 @@
 ---
-
 title: "日本史学哲学三方书评"
-description: "日本史学哲学三方书评的详细解析与实践指南"
+description: "日本史学哲学三方书评 —— Japan · Historiography 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Historiography"
 tags: ["buddhism", "philosophy", "religion", "trauma", "writing", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是日本史学哲学三方书评"
   - "日本史学哲学三方书评的核心概念"
   - "日本史学哲学三方书评的方法与实践"
-trigger_keywords: ["日本史学哲学三方书评", "buddhism", "exercise", "philosophy", "religion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/Hindu_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Dan_Harris.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Michael_Tamez.md"
-    relation: "buddhism/exercise/sexuality"
-
+trigger_keywords: ["日本史学哲学三方书评", "exercise", "religion"]
+cross_refs: []
 ---
 # 日本史学哲学三方书评
 

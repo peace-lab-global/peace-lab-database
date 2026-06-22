@@ -1,7 +1,6 @@
 ---
-
 title: "rural-psychology | 农村心理学 Index"
-description: "rural-psychology | 农村心理学 Index的详细解析与实践指南"
+description: "rural-psychology | 农村心理学 Index —— 社会心理学 · Rural Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
 tags: ["intervention", "stress", "suicide", "心理学", "社会心理学"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "rural-psychology | 农村心理学 Index的核心概念"
   - "rural-psychology | 农村心理学 Index的方法与实践"
   - "rural-psychology | 农村心理学 Index的自助方法"
-trigger_keywords: ["behavioral", "child", "intervention", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "depression/stress"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
-    relation: "depression/stress"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "depression/stress"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/stress"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "depression/stress"
-
+trigger_keywords: ["intervention", "rural-psychology", "农村心理学"]
+cross_refs: []
 ---
 # rural-psychology | 农村心理学 Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《抱朴子》Baopuzi"
-description: "《抱朴子》Baopuzi的详细解析与实践指南"
+description: "《抱朴子》Baopuzi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "fasting", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《抱朴子》Baopuzi"
   - "《抱朴子》Baopuzi的核心概念"
   - "《抱朴子》Baopuzi的方法与实践"
-trigger_keywords: ["body", "breathwork", "daoism", "death"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["daoism", "《抱朴子》Baopuzi"]
+cross_refs: []
 ---
 # 《抱朴子》Baopuzi
 

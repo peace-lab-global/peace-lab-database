@@ -1,7 +1,6 @@
 ---
-
 title: "婚前准备与关系预防 (Pre-marital Preparation & Relationship Prevention)"
-description: "婚前准备与关系预防 (Pre-marital Preparation & Relationship Prevention)的详细解析与实践指南"
+description: "婚前准备与关系预防 (Pre-marital Preparation & Relationship Prevention) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是婚前准备与关系预防"
   - "婚前准备与关系预防的核心概念"
   - "婚前准备与关系预防的方法与实践"
-trigger_keywords: ["婚前准备与关系预防", "assessment", "attachment", "behavioral", "cbt"]
+trigger_keywords: ["婚前准备与关系预防", "cbt"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Sociological_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "沟通/relationship/倾听"
 ---
 # 婚前准备与关系预防 (Pre-marital Preparation & Relationship Prevention)
 

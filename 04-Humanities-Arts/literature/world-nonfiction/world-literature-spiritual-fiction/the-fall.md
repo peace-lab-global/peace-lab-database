@@ -1,7 +1,6 @@
 ---
-
 title: "《堕落》The Fall"
-description: "《堕落》The Fall的详细解析与实践指南"
+description: "《堕落》The Fall —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["habits", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《堕落》The Fall"
   - "《堕落》The Fall的核心概念"
   - "《堕落》The Fall的方法与实践"
-trigger_keywords: ["art", "behavioral", "brain", "crisis"]
+trigger_keywords: ["《堕落》The", "Fall"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "neuroscience/productivity/sexuality"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "camus/albert/戏剧"
 ---
 # 《堕落》The Fall
 

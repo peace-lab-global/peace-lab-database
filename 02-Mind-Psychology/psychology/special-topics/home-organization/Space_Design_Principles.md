@@ -1,7 +1,6 @@
 ---
-
 title: "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου"
-description: "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的详细解析与实践指南"
+description: "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου —— 特殊专题 · Home Organization 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Home Organization"
 tags: ["meditation", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου"
   - "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的核心概念"
   - "空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου的方法与实践"
-trigger_keywords: ["空间设计原理", "art", "assessment", "child", "developmental"]
+trigger_keywords: ["空间设计原理", "Space", "Design", "Principles", "Αρχές"]
 cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "emotion/exercise/meditation"
-
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "space/design/睡眠"
+  - path: "04-Humanities-Arts/arts/space-healing/INDEX.md"
+    relation: "space/design"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Healing_Architecture.md"
+    relation: "space/design/冥想"
 ---
 # 空间设计原理 | Space Design Principles | Αρχές Σχεδιασμού Χώρου
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: Recovery & Follow-up (职场倦怠：恢复与长期随访)"
-description: "Occupational Burnout: Recovery & Follow-up (职场倦怠：恢复与长期随访)的详细解析与实践指南"
+description: "Occupational Burnout: Recovery & Follow-up (职场倦怠：恢复与长期随访) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Occupational Burnout: Recovery & Follow-up"
   - "Occupational Burnout: Recovery & Follow-up的核心概念"
   - "Occupational Burnout: Recovery & Follow-up的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/exercise/nutrition"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Occupational", "Burnout:", "Recovery", "Follow-up", "职场倦怠：恢复与长期随访"]
+cross_refs: []
 ---
 # Occupational Burnout: Recovery & Follow-up (职场倦怠：恢复与长期随访)
 

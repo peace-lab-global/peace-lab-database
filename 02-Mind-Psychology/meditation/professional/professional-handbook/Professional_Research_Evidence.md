@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师研究方法与循证 | Professional Research & Evidence"
-description: "冥想执行师研究方法与循证 | Professional Research & Evidence的详细解析与实践指南"
+description: "冥想执行师研究方法与循证 | Professional Research & Evidence —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["addiction", "anxiety", "brain", "depression", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想执行师研究方法与循证 | Professional Research & Evidence"
   - "冥想执行师研究方法与循证 | Professional Research & Evidence的核心概念"
   - "冥想执行师研究方法与循证 | Professional Research & Evidence的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["冥想执行师研究方法与循证", "Professional", "Research", "Evidence"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+    relation: "默认模式/神经可塑性/神经科学"
 ---
 # 冥想执行师研究方法与循证 | Professional Research & Evidence
 

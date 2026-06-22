@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《波兰舞曲》创作背景与心理分析"
-description: "肖邦《波兰舞曲》创作背景与心理分析的详细解析与实践指南"
+description: "肖邦《波兰舞曲》创作背景与心理分析 —— 古典音乐 · Chopin Polonaises 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Polonaises"
 tags: ["healing", "intervention", "music"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "肖邦《波兰舞曲》创作背景与心理分析的核心概念"
   - "肖邦《波兰舞曲》创作背景与心理分析的方法与实践"
   - "肖邦《波兰舞曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["肖邦《波兰舞曲》创作背景与心理分析"]
+cross_refs: []
 ---
 # 肖邦《波兰舞曲》创作背景与心理分析
 

@@ -1,7 +1,6 @@
 ---
-
 title: "儒家哲学经典 · 佛法视角三方书评"
-description: "儒家哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "儒家哲学经典 · 佛法视角三方书评 —— China · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
 tags: ["buddhism", "philosophy", "zen", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是儒家哲学经典 · 佛法视角三方书评"
   - "儒家哲学经典 · 佛法视角三方书评的核心概念"
   - "儒家哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["儒家哲学经典", "佛法视角三方书评", "buddhism", "exercise", "philosophy", "sexuality"]
+trigger_keywords: ["儒家哲学经典", "佛法视角三方书评", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "佛法/佛教/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeing-that-frees.md"
+    relation: "佛教/空性"
 ---
 # 儒家哲学经典 · 佛法视角三方书评
 

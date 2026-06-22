@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Family Dynamics (生育性别焦虑的家庭动力学)"
-description: "Birth Gender Anxiety: Family Dynamics (生育性别焦虑的家庭动力学)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Family Dynamics (生育性别焦虑的家庭动力学) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Family Dynamics"
   - "Birth Gender Anxiety: Family Dynamics的核心概念"
   - "Birth Gender Anxiety: Family Dynamics的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Family", "Dynamics"]
+cross_refs: []
 ---
 # Birth Gender Anxiety: Family Dynamics (生育性别焦虑的家庭动力学)
 

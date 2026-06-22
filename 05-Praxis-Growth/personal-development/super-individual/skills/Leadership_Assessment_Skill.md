@@ -49,6 +49,9 @@ related_skills:
     skill_name: 决策能力评估
     skill_name_en: Decision Making Assessment
     relationship: complementary
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/clinical-practice/skills/Relationship_Assessment_Skill.md"
+    relation: "step/level/entry"
 ---
 
 # 领导力与影响力评估技能

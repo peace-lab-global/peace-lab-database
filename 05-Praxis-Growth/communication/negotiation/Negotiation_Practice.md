@@ -1,7 +1,6 @@
 ---
-
 title: "谈判实战练习 | Negotiation Practice"
-description: "谈判实战练习 | Negotiation Practice的详细解析与实践指南"
+description: "谈判实战练习 | Negotiation Practice —— 沟通 · 谈判 专题"
 category: "实践与个人增长 > 沟通 > 谈判"
 tags: ["communication", "decision-making", "eq", "negotiation", "emotional-intelligence"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是谈判实战练习 | Negotiation Practice"
   - "谈判实战练习 | Negotiation Practice的核心概念"
   - "谈判实战练习 | Negotiation Practice的方法与实践"
-trigger_keywords: ["谈判实战练习", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["谈判实战练习", "Negotiation", "Practice"]
+cross_refs: []
 ---
 # 谈判实战练习 | Negotiation Practice
 

@@ -1,7 +1,6 @@
 ---
-
 title: "余华 (Yu Hua, 1960-)：从先锋实验到现实关怀的文学旅程"
-description: "余华 (Yu Hua, 1960-)：从先锋实验到现实关怀的文学旅程的详细解析与实践指南"
+description: "余华 (Yu Hua, 1960-)：从先锋实验到现实关怀的文学旅程 —— Avant Garde · Experimental 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Avant Garde > Experimental"
 tags: ["literature", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是余华 ：从先锋实验到现实关怀的文学旅程"
   - "余华 ：从先锋实验到现实关怀的文学旅程的核心概念"
   - "余华 ：从先锋实验到现实关怀的文学旅程的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "death"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["余华", "Yu", "Hua", "1960-", "：从先锋实验到现实关怀的文学旅程"]
+cross_refs: []
 ---
 # 余华 (Yu Hua, 1960-)：从先锋实验到现实关怀的文学旅程
 

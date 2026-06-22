@@ -1,7 +1,6 @@
 ---
-
 title: "个人任务管理高级策略 (Task Management - Advanced Strategies)"
-description: "个人任务管理高级策略 (Task Management - Advanced Strategies)的详细解析与实践指南"
+description: "个人任务管理高级策略 (Task Management - Advanced Strategies) —— 个人发展 · Task Management 专题"
 category: "实践与个人增长 > 个人发展 > Task Management"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是个人任务管理高级策略"
   - "个人任务管理高级策略的核心概念"
   - "个人任务管理高级策略的方法与实践"
-trigger_keywords: ["个人任务管理高级策略", "anxiety", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/05-Emotional-Exhaustion-Toolkit.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/neuroscience/productivity"
-
+trigger_keywords: ["个人任务管理高级策略", "Task", "Management", "Advanced", "Strategies"]
+cross_refs: []
 ---
 # 个人任务管理高级策略 (Task Management - Advanced Strategies)
 

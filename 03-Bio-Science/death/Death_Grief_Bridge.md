@@ -1,7 +1,6 @@
 ---
-
 title: "Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)"
-description: "Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)的详细解析与实践指南"
+description: "Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["attachment", "cbt", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Grief-Death Bridge: Integrating Bereavement & Mortality"
   - "Grief-Death Bridge: Integrating Bereavement & Mortality的核心概念"
   - "Grief-Death Bridge: Integrating Bereavement & Mortality的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["Grief-Death", "Bridge:", "Integrating", "Bereavement", "Mortality"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/death"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_12_Life_Transitions.md"
+    relation: "哀伤/丧亲/死亡"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/INDEX.md"
+    relation: "哀伤/丧亲/grief"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-long-goodbye.md"
+    relation: "哀伤/grief"
   - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Urbanization_Psychology.md"
-    relation: "anxiety/attachment/death"
-
+    relation: "哀伤/丧亲/抑郁"
 ---
 # Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)
 

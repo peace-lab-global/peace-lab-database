@@ -12,11 +12,7 @@ intent_queries:
   - "缠丝劲怎么练"
   - "松腰落胯是什么意思"
 trigger_keywords: ["身法", "缠丝", "松腰", "虚灵顶劲", "含胸拔背"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/schools-lineage/TaiChi_Chen_Style_Deep.md"
-    relation: "chen-style-silk-reeling"
+cross_refs: []
 ---
 # 身法与缠丝 | Bodywork & Silk Reeling
 

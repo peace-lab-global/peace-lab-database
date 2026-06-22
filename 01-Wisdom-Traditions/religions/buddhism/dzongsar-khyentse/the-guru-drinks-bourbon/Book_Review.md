@@ -1,7 +1,6 @@
 ---
-
 title: "《上师也喝酒？》读书笔记与书评"
-description: "《上师也喝酒？》读书笔记与书评的详细解析与实践指南"
+description: "《上师也喝酒？》读书笔记与书评 —— Dzongsar Khyentse · The Guru Drinks Bourbon 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > The Guru Drinks Bourbon"
 tags: ["buddhism", "phobia", "writing", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《上师也喝酒？》读书笔记与书评"
   - "《上师也喝酒？》读书笔记与书评的核心概念"
   - "《上师也喝酒？》读书笔记与书评的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "phobia", "sexuality"]
+trigger_keywords: ["phobia", "《上师也喝酒？》读书笔记与书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/words-of-my-perfect-teacher.md"
+    relation: "上师/藏传/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "上师/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "上师/藏传/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/cutting-through-spiritual-materialism.md"
+    relation: "上师/佛教/藏传"
 ---
 # 《上师也喝酒？》读书笔记与书评
 

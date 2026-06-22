@@ -1,7 +1,6 @@
 ---
-
 title: "完美主义与低自尊"
-description: "完美主义与低自尊的详细解析与实践指南"
+description: "完美主义与低自尊 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["anxiety", "depression", "intervention", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是完美主义与低自尊"
   - "完美主义与低自尊的核心概念"
   - "完美主义与低自尊的方法与实践"
-trigger_keywords: ["完美主义与低自尊", "anxiety", "behavioral", "cognitive", "depression"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["完美主义与低自尊", "depression"]
+cross_refs: []
 ---
 # 完美主义与低自尊
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Epileptic Psychosis Treatment (癫痫所致精神障碍治疗)"
-description: "Epileptic Psychosis Treatment (癫痫所致精神障碍治疗)的详细解析与实践指南"
+description: "Epileptic Psychosis Treatment (癫痫所致精神障碍治疗) —— 精神障碍 · Epileptic Psychosis 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Epileptic Psychosis"
 tags: ["decision-making", "depression", "intervention", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Epileptic Psychosis Treatment"
   - "Epileptic Psychosis Treatment的核心概念"
   - "Epileptic Psychosis Treatment的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "depression/neuroscience/sexuality"
-
+trigger_keywords: ["Epileptic", "Psychosis", "Treatment", "癫痫所致精神障碍治疗"]
+cross_refs: []
 ---
 # Epileptic Psychosis Treatment (癫痫所致精神障碍治疗)
 

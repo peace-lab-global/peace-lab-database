@@ -1,7 +1,6 @@
 ---
-
 title: "Measure What Matters OKR工作法"
-description: "Measure What Matters OKR工作法的详细解析与实践指南"
+description: "Measure What Matters OKR工作法 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["habits", "leadership", "sleep", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Measure What Matters OKR工作法"
   - "Measure What Matters OKR工作法的核心概念"
   - "Measure What Matters OKR工作法的方法与实践"
-trigger_keywords: ["act", "body", "habits", "leadership"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "productivity/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "productivity/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "productivity/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "productivity/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "productivity/sexuality/sleep"
-
+trigger_keywords: ["habits", "leadership"]
+cross_refs: []
 ---
 # Measure What Matters OKR工作法
 

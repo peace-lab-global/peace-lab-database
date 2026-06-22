@@ -1,7 +1,6 @@
 ---
-
 title: "情商与领导力/职场 | EI Leadership & Workplace"
-description: "情商与领导力/职场 | EI Leadership & Workplace的详细解析与实践指南"
+description: "情商与领导力/职场 | EI Leadership & Workplace —— 个人发展 · 情商 专题"
 category: "实践与个人增长 > 个人发展 > 情商"
 tags: ["communication", "eq", "negotiation", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是情商与领导力/职场 | EI Leadership & Workplace"
   - "情商与领导力/职场 | EI Leadership & Workplace的核心概念"
   - "情商与领导力/职场 | EI Leadership & Workplace的方法与实践"
-trigger_keywords: ["情商与领导力", "职场", "act", "assessment", "behavioral", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Ethics_Business_Professional.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["情商与领导力", "职场"]
+cross_refs: []
 ---
 # 情商与领导力/职场 | EI Leadership & Workplace
 

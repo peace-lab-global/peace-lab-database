@@ -1,7 +1,6 @@
 ---
-
 title: "职场表达专业内容体系 (Workplace Communication Professional Content System)"
-description: "职场表达专业内容体系 (Workplace Communication Professional Content System)的详细解析与实践指南"
+description: "职场表达专业内容体系 (Workplace Communication Professional Content System) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是职场表达专业内容体系"
   - "职场表达专业内容体系的核心概念"
   - "职场表达专业内容体系的方法与实践"
-trigger_keywords: ["职场表达专业内容体系", "art", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["职场表达专业内容体系", "Workplace", "Communication", "Professional", "Content"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Communication_Skills.md"
+    relation: "沟通/communication/psychology"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Client_Relations.md"
+    relation: "沟通/communication/professional"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/18-Mindful-Meetings-and-Communication.md"
+    relation: "沟通/communication"
+  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Communication_Stances.md"
+    relation: "沟通/communication/professional"
 ---
 # 职场表达专业内容体系 (Workplace Communication Professional Content System)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "超级个体增长方法论 | Growth Methodologies & Frameworks"
-description: "超级个体增长方法论 | Growth Methodologies & Frameworks的详细解析与实践指南"
+description: "超级个体增长方法论 | Growth Methodologies & Frameworks —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["decision-making", "个人发展", "超级个体", "meta-learning"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是超级个体增长方法论 | Growth Methodologies & Frameworks"
   - "超级个体增长方法论 | Growth Methodologies & Frameworks的核心概念"
   - "超级个体增长方法论 | Growth Methodologies & Frameworks的方法与实践"
-trigger_keywords: ["超级个体增长方法论", "act", "decision-making", "sexuality", "个人发展"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "pain/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Medicine_Buddha.md"
-    relation: "pain/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md"
-    relation: "pain/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Diagnostics.md"
-    relation: "pain/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "pain/sexuality/therapy"
-
+trigger_keywords: ["超级个体增长方法论", "decision-making", "个人发展"]
+cross_refs: []
 ---
 # 超级个体增长方法论 | Growth Methodologies & Frameworks
 

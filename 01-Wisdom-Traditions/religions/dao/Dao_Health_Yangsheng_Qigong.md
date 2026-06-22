@@ -1,7 +1,6 @@
 ---
-
 title: "Health & Qigong (传统养生与气功)"
-description: "Health & Qigong (传统养生与气功)的详细解析与实践指南"
+description: "Health & Qigong (传统养生与气功) —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["cardiovascular", "cortisol", "daoism", "tcm"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Health & Qigong"
   - "Health & Qigong的核心概念"
   - "Health & Qigong的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "breathwork"]
+trigger_keywords: ["Health", "Qigong", "传统养生与气功"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/INDEX.md"
+    relation: "taoist/道家"
 ---
 # Health & Qigong (传统养生与气功)
 

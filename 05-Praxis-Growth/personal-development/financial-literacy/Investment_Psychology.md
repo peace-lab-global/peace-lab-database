@@ -1,7 +1,6 @@
 ---
-
 title: "投资心理学 (Investment Psychology)"
-description: "投资心理学 (Investment Psychology)的详细解析与实践指南"
+description: "投资心理学 (Investment Psychology) —— 个人发展 · 财务素养 专题"
 category: "实践与个人增长 > 个人发展 > 财务素养"
 tags: ["addiction", "decision-making", "financial-literacy"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "投资心理学的核心概念"
   - "投资心理学的方法与实践"
   - "投资心理学的自助方法"
-trigger_keywords: ["投资心理学", "addiction", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["投资心理学", "Investment", "Psychology"]
+cross_refs: []
 ---
 # 投资心理学 (Investment Psychology)
 

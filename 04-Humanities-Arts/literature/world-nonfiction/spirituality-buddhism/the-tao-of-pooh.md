@@ -1,7 +1,6 @@
 ---
-
 title: "《小熊维尼的道》The Tao of Pooh"
-description: "《小熊维尼的道》The Tao of Pooh的详细解析与实践指南"
+description: "《小熊维尼的道》The Tao of Pooh —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["daoism", "ocd", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《小熊维尼的道》The Tao of Pooh"
   - "《小熊维尼的道》The Tao of Pooh的核心概念"
   - "《小熊维尼的道》The Tao of Pooh的方法与实践"
-trigger_keywords: ["anxiety", "daoism", "ocd", "sexuality"]
+trigger_keywords: ["daoism", "ocd"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/daoism"
-
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Dao_De_Jing.md"
+    relation: "无为/老子/道家"
 ---
 # 《小熊维尼的道》The Tao of Pooh
 

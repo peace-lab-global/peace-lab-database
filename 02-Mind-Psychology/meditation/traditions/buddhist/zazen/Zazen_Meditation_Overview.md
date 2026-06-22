@@ -1,7 +1,6 @@
 ---
-
 title: "日本坐禅专业概述：历史传承、核心哲学与修习体系"
-description: "日本坐禅专业概述：历史传承、核心哲学与修习体系的详细解析与实践指南"
+description: "日本坐禅专业概述：历史传承、核心哲学与修习体系 —— 冥想 · Zazen 专题"
 category: "心智与心理学 > 冥想 > Zazen"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是日本坐禅专业概述：历史传承、核心哲学与修习体系"
   - "日本坐禅专业概述：历史传承、核心哲学与修习体系的核心概念"
   - "日本坐禅专业概述：历史传承、核心哲学与修习体系的方法与实践"
-trigger_keywords: ["核心哲学与修习体系", "act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["核心哲学与修习体系", "日本坐禅专业概述：历史传承"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Decluttering_Overview.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "坐禅/菩提/禅宗"
 ---
 # 日本坐禅专业概述：历史传承、核心哲学与修习体系
 

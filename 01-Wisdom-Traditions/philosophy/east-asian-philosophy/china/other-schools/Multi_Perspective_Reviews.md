@@ -1,7 +1,6 @@
 ---
-
 title: "先秦诸子百家三方书评"
-description: "先秦诸子百家三方书评的详细解析与实践指南"
+description: "先秦诸子百家三方书评 —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["daoism", "decision-making", "habits", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是先秦诸子百家三方书评"
   - "先秦诸子百家三方书评的核心概念"
   - "先秦诸子百家三方书评的方法与实践"
-trigger_keywords: ["先秦诸子百家三方书评", "behavioral", "cognitive", "daoism", "decision-making"]
+trigger_keywords: ["先秦诸子百家三方书评", "daoism", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-2-effects-of-meditation.md"
-    relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-1-more-keyword-of-samatha-stillness.md"
-    relation: "daoism/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
-    relation: "daoism/emotion/productivity"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "庄子/阴阳"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：呼吸的科学.md"
+    relation: "阴阳/习惯"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "阴阳/习惯"
 ---
 # 先秦诸子百家三方书评
 

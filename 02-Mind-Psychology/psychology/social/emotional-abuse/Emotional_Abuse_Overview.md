@@ -1,7 +1,6 @@
 ---
-
 title: "冷暴力心理学专业内容体系"
-description: "冷暴力心理学专业内容体系的详细解析与实践指南"
+description: "冷暴力心理学专业内容体系 —— 社会心理学 · Emotional Abuse 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "冷暴力心理学专业内容体系的核心概念"
   - "冷暴力心理学专业内容体系的方法与实践"
   - "冷暴力心理学专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["冷暴力心理学专业内容体系"]
+cross_refs: []
 ---
 # 冷暴力心理学专业内容体系
 

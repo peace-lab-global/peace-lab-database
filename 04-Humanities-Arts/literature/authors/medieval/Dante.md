@@ -1,7 +1,6 @@
 ---
-
 title: "Dante Alighieri (但丁·阿利吉耶里)：神曲与中世纪文学巅峰"
-description: "Dante Alighieri (但丁·阿利吉耶里)：神曲与中世纪文学巅峰的详细解析与实践指南"
+description: "Dante Alighieri (但丁·阿利吉耶里)：神曲与中世纪文学巅峰 —— Authors · Medieval 专题"
 category: "人文与艺术疗愈 > 文学 > Authors > Medieval"
 tags: ["literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Dante Alighieri ：神曲与中世纪文学巅峰"
   - "Dante Alighieri ：神曲与中世纪文学巅峰的核心概念"
   - "Dante Alighieri ：神曲与中世纪文学巅峰的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "crisis"]
+trigger_keywords: ["Dante", "Alighieri", "但丁", "阿利吉耶里", "：神曲与中世纪文学巅峰"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "05-Praxis-Growth/writing/INDEX.md"
+    relation: "literary/creative/creation"
 ---
 # Dante Alighieri (但丁·阿利吉耶里)：神曲与中世纪文学巅峰
 

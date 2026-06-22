@@ -1,7 +1,6 @@
 ---
-
 title: "《正见：佛陀的证悟》三方书评"
-description: "《正见：佛陀的证悟》三方书评的详细解析与实践指南"
+description: "《正见：佛陀的证悟》三方书评 —— Dzongsar Khyentse · What Makes You Not A Buddhist 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > What Makes You Not A Buddhist"
 tags: ["buddhism", "depression", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《正见：佛陀的证悟》三方书评"
   - "《正见：佛陀的证悟》三方书评的核心概念"
   - "《正见：佛陀的证悟》三方书评的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "brain", "buddhism"]
+trigger_keywords: ["《正见：佛陀的证悟》三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeing-that-frees.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "佛教/空性"
 ---
 # 《正见：佛陀的证悟》三方书评
 

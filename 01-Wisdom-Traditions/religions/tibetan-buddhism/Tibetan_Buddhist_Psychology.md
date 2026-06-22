@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教心理学 (Tibetan Buddhist Psychology)"
-description: "藏传佛教心理学 (Tibetan Buddhist Psychology)的详细解析与实践指南"
+description: "藏传佛教心理学 (Tibetan Buddhist Psychology) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "藏传佛教心理学的核心概念"
   - "藏传佛教心理学的方法与实践"
   - "藏传佛教心理学的自助方法"
-trigger_keywords: ["藏传佛教心理学", "act", "addiction", "anxiety", "attachment"]
+trigger_keywords: ["藏传佛教心理学", "Tibetan", "Buddhist", "Psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
 ---
 # 藏传佛教心理学 (Tibetan Buddhist Psychology)
 

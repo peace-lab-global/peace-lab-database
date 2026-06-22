@@ -1,7 +1,6 @@
 ---
-
 title: "特殊饮食指南 | Special Diets Guide"
-description: "特殊饮食指南 | Special Diets Guide的详细解析与实践指南"
+description: "特殊饮食指南 | Special Diets Guide —— 营养学 · Nutritional 专题"
 category: "生命科学与生物医学 > 营养学 > Nutritional"
 tags: ["aging", "brain", "cardiovascular", "fasting", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是特殊饮食指南 | Special Diets Guide"
   - "特殊饮食指南 | Special Diets Guide的核心概念"
   - "特殊饮食指南 | Special Diets Guide的方法与实践"
-trigger_keywords: ["特殊饮食指南", "act", "aging", "assessment", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "aging/cardiovascular/depression"
-
+trigger_keywords: ["特殊饮食指南", "Special", "Diets", "Guide"]
+cross_refs: []
 ---
 # 特殊饮食指南 | Special Diets Guide
 

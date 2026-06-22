@@ -1,7 +1,6 @@
 ---
-
 title: "统计学与研究方法 | Statistics & Research Methods"
-description: "统计学与研究方法 | Statistics & Research Methods的详细解析与实践指南"
+description: "统计学与研究方法 | Statistics & Research Methods —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是统计学与研究方法 | Statistics & Research Methods"
   - "统计学与研究方法 | Statistics & Research Methods的核心概念"
   - "统计学与研究方法 | Statistics & Research Methods的方法与实践"
-trigger_keywords: ["统计学与研究方法", "adolescent", "art", "assessment", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/death/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/exercise"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "communication/death/exercise"
-
+trigger_keywords: ["统计学与研究方法", "Statistics", "Research", "Methods"]
+cross_refs: []
 ---
 # 统计学与研究方法 | Statistics & Research Methods
 

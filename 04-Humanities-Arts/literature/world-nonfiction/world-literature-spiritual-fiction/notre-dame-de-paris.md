@@ -1,7 +1,6 @@
 ---
-
 title: "《巴黎圣母院》The Hunchback of Notre-Dame"
-description: "《巴黎圣母院》The Hunchback of Notre-Dame的详细解析与实践指南"
+description: "《巴黎圣母院》The Hunchback of Notre-Dame —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "loneliness", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《巴黎圣母院》The Hunchback of Notre-Dame"
   - "《巴黎圣母院》The Hunchback of Notre-Dame的核心概念"
   - "《巴黎圣母院》The Hunchback of Notre-Dame的方法与实践"
-trigger_keywords: ["art", "body", "communication", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["《巴黎圣母院》The", "Hunchback", "of", "Notre-Dame"]
+cross_refs: []
 ---
 # 《巴黎圣母院》The Hunchback of Notre-Dame
 

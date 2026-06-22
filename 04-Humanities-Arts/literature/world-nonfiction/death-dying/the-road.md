@@ -1,7 +1,6 @@
 ---
-
 title: "《路》The Road"
-description: "《路》The Road的详细解析与实践指南"
+description: "《路》The Road —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["suicide", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《路》The Road"
   - "《路》The Road的核心概念"
   - "《路》The Road的方法与实践"
-trigger_keywords: ["death", "sexuality", "suicide", "文学"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "death/depression/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "death/depression/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "death/depression/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
-    relation: "death/depression/sexuality"
-
+trigger_keywords: ["suicide", "文学"]
+cross_refs: []
 ---
 # 《路》The Road
 

@@ -1,7 +1,6 @@
 ---
-
 title: "职业发展 | Career Development"
-description: "职业发展 | Career Development的详细解析与实践指南"
+description: "职业发展 | Career Development —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["ocd", "personality", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职业发展 | Career Development"
   - "职业发展 | Career Development的核心概念"
   - "职业发展 | Career Development的方法与实践"
-trigger_keywords: ["职业发展", "body", "brain", "developmental", "ocd"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Enneagram_System.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-etudes/Chopin_Etudes_Overview.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["职业发展", "ocd"]
+cross_refs: []
 ---
 # 职业发展 | Career Development
 

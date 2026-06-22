@@ -1,7 +1,6 @@
 ---
-
 title: "依恋理论 | Attachment Theory"
-description: "依恋理论 | Attachment Theory的详细解析与实践指南"
+description: "依恋理论 | Attachment Theory —— 发展心理学 · Child Development 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Child Development"
 tags: ["anxiety", "attachment", "brain", "personality", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是依恋理论 | Attachment Theory"
   - "依恋理论 | Attachment Theory的核心概念"
   - "依恋理论 | Attachment Theory的方法与实践"
-trigger_keywords: ["依恋理论", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["依恋理论", "Attachment", "Theory"]
+cross_refs: []
 ---
 # 依恋理论 | Attachment Theory
 

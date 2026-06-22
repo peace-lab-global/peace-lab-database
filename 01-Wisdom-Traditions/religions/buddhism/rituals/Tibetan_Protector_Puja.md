@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)"
-description: "藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)的详细解析与实践指南"
+description: "藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "longevity", "mandala", "music", "phobia", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是藏传佛教护法供养仪轨"
   - "藏传佛教护法供养仪轨的核心概念"
   - "藏传佛教护法供养仪轨的方法与实践"
-trigger_keywords: ["藏传佛教护法供养仪轨", "buddhism", "longevity", "mandala", "music"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["藏传佛教护法供养仪轨", "longevity", "mandala", "music"]
+cross_refs: []
 ---
 # 藏传佛教护法供养仪轨 (Tibetan Dharma Protector Puja)
 

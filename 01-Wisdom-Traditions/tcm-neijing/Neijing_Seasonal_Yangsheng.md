@@ -1,7 +1,6 @@
 ---
-
 title: "内经四时养生 | Neijing Seasonal Health Cultivation"
-description: "内经四时养生 | Neijing Seasonal Health Cultivation的详细解析与实践指南"
+description: "内经四时养生 | Neijing Seasonal Health Cultivation —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是内经四时养生 | Neijing Seasonal Health Cultivation"
   - "内经四时养生 | Neijing Seasonal Health Cultivation的核心概念"
   - "内经四时养生 | Neijing Seasonal Health Cultivation的方法与实践"
-trigger_keywords: ["内经四时养生", "behavioral", "body", "breathwork", "clinical"]
+trigger_keywords: ["内经四时养生", "Neijing", "Seasonal", "Health", "Cultivation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "cardiovascular/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "neijing/五行/阴阳"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "五行/阴阳"
 ---
 # 内经四时养生 | Neijing Seasonal Health Cultivation
 

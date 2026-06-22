@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide"
-description: "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的详细解析与实践指南"
+description: "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "mindfulness", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide"
   - "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的核心概念"
   - "冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["冥想与残障人士无障碍指南", "Meditation", "Accessibility", "Disability", "Inclusion"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/障碍"
 ---
 # 冥想与残障人士无障碍指南 | Meditation Accessibility & Disability Inclusion Guide
 

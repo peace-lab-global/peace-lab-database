@@ -1,7 +1,6 @@
 ---
-
 title: "彼得·辛格 (Peter Singer)"
-description: "彼得·辛格 (Peter Singer)的详细解析与实践指南"
+description: "彼得·辛格 (Peter Singer) —— Contemporary · Applied Ethics 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Applied Ethics"
 tags: ["decision-making", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是彼得·辛格"
   - "彼得·辛格的核心概念"
   - "彼得·辛格的方法与实践"
-trigger_keywords: ["彼得", "辛格", "act", "assessment", "behavioral", "decision-making"]
+trigger_keywords: ["彼得", "辛格", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Framework_Ethics_Philosophy.md"
+    relation: "singer/peter/altruism"
 ---
 # 彼得·辛格 (Peter Singer)
 

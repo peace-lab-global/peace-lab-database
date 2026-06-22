@@ -1,7 +1,6 @@
 ---
-
 title: "关系法律与伦理深度研究 (Relationship Law & Ethics Deep Dive)"
-description: "关系法律与伦理深度研究 (Relationship Law & Ethics Deep Dive)的详细解析与实践指南"
+description: "关系法律与伦理深度研究 (Relationship Law & Ethics Deep Dive) —— 人际关系 · Legal Ethics 专题"
 category: "心智与心理学 > 人际关系 > Legal Ethics"
 tags: ["anxiety", "intervention", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是关系法律与伦理深度研究"
   - "关系法律与伦理深度研究的核心概念"
   - "关系法律与伦理深度研究的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["关系法律与伦理深度研究", "Relationship", "Law", "Ethics", "Deep"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Cultural_Variations.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/ffe"
 ---
 # 关系法律与伦理深度研究 (Relationship Law & Ethics Deep Dive)
 

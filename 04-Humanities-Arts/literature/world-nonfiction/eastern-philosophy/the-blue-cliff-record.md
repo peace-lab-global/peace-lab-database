@@ -1,7 +1,6 @@
 ---
-
 title: "《碧岩录》The Blue Cliff Record"
-description: "《碧岩录》The Blue Cliff Record的详细解析与实践指南"
+description: "《碧岩录》The Blue Cliff Record —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["habits", "literature", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《碧岩录》The Blue Cliff Record"
   - "《碧岩录》The Blue Cliff Record的核心概念"
   - "《碧岩录》The Blue Cliff Record的方法与实践"
-trigger_keywords: ["buddhism", "habits", "literature", "philosophy"]
+trigger_keywords: ["habits", "《碧岩录》The", "Blue", "Cliff", "Record"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/佛教"
 ---
 # 《碧岩录》The Blue Cliff Record
 

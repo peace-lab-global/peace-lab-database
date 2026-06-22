@@ -1,7 +1,6 @@
 ---
-
 title: "《六祖坛经》The Platform Sutra"
-description: "《六祖坛经》The Platform Sutra的详细解析与实践指南"
+description: "《六祖坛经》The Platform Sutra —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["personality", "spirituality", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《六祖坛经》The Platform Sutra"
   - "《六祖坛经》The Platform Sutra的核心概念"
   - "《六祖坛经》The Platform Sutra的方法与实践"
-trigger_keywords: ["anxiety", "buddhism", "personality", "philosophy"]
+trigger_keywords: ["personality", "《六祖坛经》The", "Platform", "Sutra"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "菩提/禅宗/般若"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Diamond_Sutra.md"
+    relation: "菩提/般若/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/pilgrimage/Multi_Perspective_Reviews.md"
+    relation: "菩提/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Heart_Sutra.md"
+    relation: "般若/菩提/佛教"
 ---
 # 《六祖坛经》The Platform Sutra
 

@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第三钢琴协奏曲》综合指南"
-description: "拉赫玛尼诺夫《第三钢琴协奏曲》综合指南的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第三钢琴协奏曲》综合指南 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: ["cinema", "healing", "music", "resilience", "treatment", "古典音乐"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是拉赫玛尼诺夫《第三钢琴协奏曲》综合指南"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》综合指南的核心概念"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》综合指南的方法与实践"
-trigger_keywords: ["cinema", "healing", "music", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/emotion/sexuality"
-
+trigger_keywords: ["cinema", "healing", "music"]
+cross_refs: []
 ---
 # 拉赫玛尼诺夫《第三钢琴协奏曲》综合指南
 

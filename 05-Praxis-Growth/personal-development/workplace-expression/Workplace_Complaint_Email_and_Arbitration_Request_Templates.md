@@ -1,7 +1,6 @@
 ---
-
 title: "职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)"
-description: "职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)的详细解析与实践指南"
+description: "职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "personality", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场维权申诉邮件与仲裁请求模板"
   - "职场维权申诉邮件与仲裁请求模板的核心概念"
   - "职场维权申诉邮件与仲裁请求模板的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "communication", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "communication/emotion/personality"
-
+trigger_keywords: ["职场维权申诉邮件与仲裁请求模板", "Complaint", "Email", "Arbitration", "Request"]
+cross_refs: []
 ---
 # 职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)
 

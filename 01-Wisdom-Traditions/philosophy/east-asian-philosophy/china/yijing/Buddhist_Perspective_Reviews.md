@@ -1,7 +1,6 @@
 ---
-
 title: "《易经》· 佛法视角三方书评"
-description: "《易经》· 佛法视角三方书评的详细解析与实践指南"
+description: "《易经》· 佛法视角三方书评 —— China · Yijing 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Yijing"
 tags: ["buddhism", "philosophy", "positive-psychology", "tai-chi"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《易经》· 佛法视角三方书评"
   - "《易经》· 佛法视角三方书评的核心概念"
   - "《易经》· 佛法视角三方书评的方法与实践"
-trigger_keywords: ["《易经》", "佛法视角三方书评", "behavioral", "buddhism", "developmental", "literature"]
+trigger_keywords: ["《易经》", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Jiang_Weiqiao.md"
-    relation: "buddhism/communication/daoism"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "buddhism/communication/daoism"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "阴阳/五行"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "佛教/缘起/anicca"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "佛教/vs"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "阴阳/五行/智慧"
 ---
 # 《易经》· 佛法视角三方书评
 

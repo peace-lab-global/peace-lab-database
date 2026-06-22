@@ -13,8 +13,12 @@ intent_queries:
   - "产后太极恢复"
 trigger_keywords: ["孕妇", "产后", "更年期", "女性", "月经"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "overview"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Health_Overview.md"
+    relation: "women/health"
+  - path: "03-Bio-Science/biology/womens-health/INDEX.md"
+    relation: "women/health/pregnancy"
 ---
 # 孕产与女性健康 | Tai Chi, Pregnancy & Women's Health
 

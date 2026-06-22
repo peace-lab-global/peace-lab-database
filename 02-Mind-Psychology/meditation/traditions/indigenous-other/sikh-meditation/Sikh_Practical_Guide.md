@@ -1,7 +1,6 @@
 ---
-
 title: "锡克冥想实践指南"
-description: "锡克冥想实践指南的详细解析与实践指南"
+description: "锡克冥想实践指南 —— 冥想 · Sikh Meditation 专题"
 category: "心智与心理学 > 冥想 > Sikh Meditation"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是锡克冥想实践指南"
   - "锡克冥想实践指南的核心概念"
   - "锡克冥想实践指南的方法与实践"
-trigger_keywords: ["锡克冥想实践指南", "art", "behavioral", "body", "breathwork"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "death/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Miracle_Morning.md"
-    relation: "death/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "death/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "death/exercise/productivity"
-
+trigger_keywords: ["锡克冥想实践指南"]
+cross_refs: []
 ---
 # 锡克冥想实践指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας"
-description: "文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας的详细解析与实践指南"
+description: "文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["communication", "literature", "positive-psychology", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας"
   - "文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας的核心概念"
   - "文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας的方法与实践"
-trigger_keywords: ["文学史研究方法", "art", "behavioral", "communication", "developmental"]
+trigger_keywords: ["文学史研究方法", "Literary", "History", "Research", "Methods"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/research/INDEX.md"
+    relation: "research/methods"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "methods/research/意义"
 ---
 # 文学史研究方法 | Literary History Research Methods | Μέθοδοι Έρευνας Λογοτεχνικής Ιστορίας
 

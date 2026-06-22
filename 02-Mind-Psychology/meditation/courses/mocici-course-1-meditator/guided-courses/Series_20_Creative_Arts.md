@@ -1,7 +1,6 @@
 ---
-
 title: "系列二十：创意艺术冥想系列 | Creative Arts Series"
-description: "系列二十：创意艺术冥想系列 | Creative Arts Series的详细解析与实践指南"
+description: "系列二十：创意艺术冥想系列 | Creative Arts Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "cinema", "meditation", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列二十：创意艺术冥想系列 | Creative Arts Series"
   - "系列二十：创意艺术冥想系列 | Creative Arts Series的核心概念"
   - "系列二十：创意艺术冥想系列 | Creative Arts Series的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "body"]
+trigger_keywords: ["系列二十：创意艺术冥想系列", "Creative", "Arts", "Series"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "anxiety/art_therapy/exercise"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Listening_Guide.md"
+    relation: "呼吸/专注"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md"
+    relation: "专注/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "冥想/专注/觉察"
+  - path: "05-Praxis-Growth/talks/yixi-talks/YiXi_Arts_Culture.md"
+    relation: "绘画/arts/戏剧"
 ---
 # 系列二十：创意艺术冥想系列 | Creative Arts Series
 

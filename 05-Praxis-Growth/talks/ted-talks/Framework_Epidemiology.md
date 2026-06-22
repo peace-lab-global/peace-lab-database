@@ -1,7 +1,6 @@
 ---
-
 title: "流行病学 | Epidemiology"
-description: "流行病学 | Epidemiology的详细解析与实践指南"
+description: "流行病学 | Epidemiology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cardiovascular", "communication"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是流行病学 | Epidemiology"
   - "流行病学 | Epidemiology的核心概念"
   - "流行病学 | Epidemiology的方法与实践"
-trigger_keywords: ["流行病学", "act", "assessment", "behavioral", "cardiovascular"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "cardiovascular/communication/exercise"
-
+trigger_keywords: ["流行病学", "cardiovascular"]
+cross_refs: []
 ---
 # 流行病学 | Epidemiology
 

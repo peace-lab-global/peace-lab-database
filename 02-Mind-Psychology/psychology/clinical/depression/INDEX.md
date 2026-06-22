@@ -1,7 +1,6 @@
 ---
-
 title: "抑郁症 (Depression) | Index"
-description: "抑郁症 (Depression) | Index的详细解析与实践指南"
+description: "抑郁症 (Depression) | Index —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["anxiety", "bci", "depression", "mbsr", "bipolar", "sleep"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "抑郁症  | Index的核心概念"
   - "抑郁症  | Index的方法与实践"
   - "抑郁症  | Index的自助方法"
-trigger_keywords: ["抑郁症", "Index", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["抑郁症", "Depression"]
+cross_refs: []
 ---
 # 抑郁症 (Depression) | Index
 

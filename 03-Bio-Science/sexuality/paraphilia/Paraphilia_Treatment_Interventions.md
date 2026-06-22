@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)"
-description: "Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)的详细解析与实践指南"
+description: "Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Paraphilic Disorders: Treatment Interventions & Clinical Practice"
   - "Paraphilic Disorders: Treatment Interventions & Clinical Practice的核心概念"
   - "Paraphilic Disorders: Treatment Interventions & Clinical Practice的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Paraphilic", "Disorders:", "Treatment", "Interventions", "Clinical"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Treatment_Interventions.md"
+    relation: "treatment/interventions/家庭治疗"
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "treatment/家庭治疗/therapy"
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment.md"
+    relation: "treatment/principles/疗法"
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Treatment.md"
+    relation: "treatment/principles/interventions"
 ---
 # Paraphilic Disorders: Treatment Interventions & Clinical Practice (恋物癖治疗干预与临床实践)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "性教育数字化创新与AI技术应用 (Digital Innovation and AI Technology Applications in Sexuality Education)"
-description: "性教育数字化创新与AI技术应用 (Digital Innovation and AI Technology Applications in Sexuality Education)的详细解析与实践指南"
+description: "性教育数字化创新与AI技术应用 (Digital Innovation and AI Technology Applications in Sexuality Education) —— Child Adolescent Sexuality · Digital Resources 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Digital Resources"
 tags: ["anxiety", "bci", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性教育数字化创新与AI技术应用"
   - "性教育数字化创新与AI技术应用的核心概念"
   - "性教育数字化创新与AI技术应用的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["性教育数字化创新与AI技术应用", "Digital", "Innovation", "and", "AI"]
+cross_refs: []
 ---
 # 性教育数字化创新与AI技术应用 (Digital Innovation and AI Technology Applications in Sexuality Education)
 

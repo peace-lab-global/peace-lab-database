@@ -1,7 +1,6 @@
 ---
-
 title: "Nonviolent Communication 非暴力沟通"
-description: "Nonviolent Communication 非暴力沟通的详细解析与实践指南"
+description: "Nonviolent Communication 非暴力沟通 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["communication"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Nonviolent Communication 非暴力沟通"
   - "Nonviolent Communication 非暴力沟通的核心概念"
   - "Nonviolent Communication 非暴力沟通的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["Nonviolent", "Communication", "非暴力沟通"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "anxiety/communication/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
-    relation: "anxiety/communication/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/therapy"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
+    relation: "nvc/非暴力沟通/冲突"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Communication.md"
+    relation: "nvc/非暴力沟通/冲突"
 ---
 # Nonviolent Communication 非暴力沟通
 

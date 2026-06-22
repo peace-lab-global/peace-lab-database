@@ -1,6 +1,6 @@
 ---
 title: "cultural-perspective | Index"
-description: "cultural-perspective | Index的详细解析与实践指南"
+description: "cultural-perspective | Index —— 人际关系 · Cultural Perspective 专题"
 category: "心智与心理学 > 人际关系 > Cultural Perspective"
 tags: ["人际关系"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是cultural-perspective | Index"
   - "cultural-perspective | Index的核心概念"
   - "cultural-perspective | Index的方法与实践"
-trigger_keywords: ["Index", "人际关系"]
-cross_refs: []
+trigger_keywords: ["人际关系", "cultural-perspective"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/INDEX.md"
+    relation: "cross/cultural/contents"
 ---
 # cultural-perspective | Index
 

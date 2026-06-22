@@ -1,7 +1,6 @@
 ---
-
 title: "强迫症综合评估 | OCD Assessment Skill"
-description: "强迫症综合评估 | OCD Assessment Skill的详细解析与实践指南"
+description: "强迫症综合评估 | OCD Assessment Skill —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["anxiety", "decision-making", "depression", "intervention", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是强迫症综合评估 | OCD Assessment Skill"
   - "强迫症综合评估 | OCD Assessment Skill的核心概念"
   - "强迫症综合评估 | OCD Assessment Skill的方法与实践"
-trigger_keywords: ["强迫症综合评估", "anxiety", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["强迫症综合评估", "OCD", "Assessment", "Skill"]
+cross_refs: []
 ---
 # 强迫症综合评估 | OCD Assessment Skill
 

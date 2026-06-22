@@ -1,7 +1,6 @@
 ---
-
 title: "腰痛心理学专业内容体系"
-description: "腰痛心理学专业内容体系的详细解析与实践指南"
+description: "腰痛心理学专业内容体系 —— 生物学 · Lower Back Pain 专题"
 category: "生命科学与生物医学 > 生物学 > Lower Back Pain"
 tags: ["brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "腰痛心理学专业内容体系的核心概念"
   - "腰痛心理学专业内容体系的方法与实践"
   - "腰痛心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["腰痛心理学专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md"
+    relation: "情绪调节/障碍/认知行为"
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "情绪调节/认知行为"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+    relation: "认知行为/障碍"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "认知行为/障碍"
 ---
 # 腰痛心理学专业内容体系
 

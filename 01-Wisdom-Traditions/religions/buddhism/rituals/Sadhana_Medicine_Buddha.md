@@ -1,7 +1,6 @@
 ---
-
 title: "药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)"
-description: "药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)的详细解析与实践指南"
+description: "药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["healing", "longevity", "pain", "positive-psychology", "therapy", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是药师佛完整修持仪轨"
   - "药师佛完整修持仪轨的核心概念"
   - "药师佛完整修持仪轨的方法与实践"
-trigger_keywords: ["药师佛完整修持仪轨", "anxiety", "healing", "longevity", "pain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["药师佛完整修持仪轨", "healing", "longevity", "pain"]
+cross_refs: []
 ---
 # 药师佛完整修持仪轨 (Medicine Buddha Sadhana / Bhaisajyaguru)
 

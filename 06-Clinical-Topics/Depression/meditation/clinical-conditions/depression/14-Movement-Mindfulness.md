@@ -1,7 +1,6 @@
 ---
-
 title: "Movement Mindfulness"
-description: "Movement Mindfulness的详细解析与实践指南"
+description: "Movement Mindfulness —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "brain", "cortisol", "depression", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Movement Mindfulness"
   - "Movement Mindfulness的核心概念"
   - "Movement Mindfulness的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/depression"
-
+trigger_keywords: ["Movement", "Mindfulness"]
+cross_refs: []
 ---
 ## 14. 运动-正念整合处方（Movement-Based Mindfulness）
 

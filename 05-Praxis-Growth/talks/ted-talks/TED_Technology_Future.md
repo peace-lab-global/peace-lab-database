@@ -1,7 +1,6 @@
 ---
-
 title: "TED科技与未来趋势精选 | TED Technology & Future Trends Collection"
-description: "TED科技与未来趋势精选 | TED Technology & Future Trends Collection的详细解析与实践指南"
+description: "TED科技与未来趋势精选 | TED Technology & Future Trends Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["immune", "intervention", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED科技与未来趋势精选 | TED Technology & Future Trends Collection"
   - "TED科技与未来趋势精选 | TED Technology & Future Trends Collection的核心概念"
   - "TED科技与未来趋势精选 | TED Technology & Future Trends Collection的方法与实践"
-trigger_keywords: ["developmental", "immune", "intervention", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/immune/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "communication/immune/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/masters/industry-leaders/Judith_Hanson_Lasater.md"
-    relation: "communication/immune/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "communication/immune/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "communication/immune/sexuality"
-
+trigger_keywords: ["immune", "intervention"]
+cross_refs: []
 ---
 # TED科技与未来趋势精选 | TED Technology & Future Trends Collection
 

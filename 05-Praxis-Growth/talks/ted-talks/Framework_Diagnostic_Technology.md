@@ -1,7 +1,6 @@
 ---
-
 title: "诊断技术 | Diagnostic Technology"
-description: "诊断技术 | Diagnostic Technology的详细解析与实践指南"
+description: "诊断技术 | Diagnostic Technology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "intervention", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是诊断技术 | Diagnostic Technology"
   - "诊断技术 | Diagnostic Technology的核心概念"
   - "诊断技术 | Diagnostic Technology的方法与实践"
-trigger_keywords: ["诊断技术", "brain", "clinical", "decision-making", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "aging/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/communication/neuroscience"
-
+trigger_keywords: ["诊断技术", "decision-making"]
+cross_refs: []
 ---
 # 诊断技术 | Diagnostic Technology
 

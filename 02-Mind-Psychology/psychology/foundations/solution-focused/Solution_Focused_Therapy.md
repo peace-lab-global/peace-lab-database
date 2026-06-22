@@ -1,6 +1,6 @@
 ---
 title: "焦点解决"
-description: "焦点解决的详细解析与实践指南"
+description: "焦点解决 —— 心理学基础 · Solution Focused 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Solution Focused"
 tags: ["心理学", "心理学基础"]
 last_updated: "2026-05"

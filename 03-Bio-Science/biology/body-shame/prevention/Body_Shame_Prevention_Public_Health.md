@@ -7,16 +7,12 @@ date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/communication/exercise"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "羞耻/shame"
+  - path: "02-Mind-Psychology/psychology/emotions/INDEX.md"
+    relation: "羞耻/shame"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
+    relation: "羞耻/shame/障碍"
 ---
 
 # 身体羞耻障碍预防与公共卫生策略

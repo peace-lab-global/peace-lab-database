@@ -1,7 +1,6 @@
 ---
-
 title: "四圣谛与八正道详表 (Four Noble Truths & Noble Eightfold Path)"
-description: "四圣谛与八正道详表 (Four Noble Truths & Noble Eightfold Path)的详细解析与实践指南"
+description: "四圣谛与八正道详表 (Four Noble Truths & Noble Eightfold Path) —— 佛教 · 心理学基础 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学基础"
 tags: ["addiction", "attachment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是四圣谛与八正道详表"
   - "四圣谛与八正道详表的核心概念"
   - "四圣谛与八正道详表的方法与实践"
-trigger_keywords: ["四圣谛与八正道详表", "act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["四圣谛与八正道详表", "Four", "Noble", "Truths", "Eightfold"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-four-noble-truths.md"
+    relation: "noble/truths/dukkha"
 ---
 # 四圣谛与八正道详表 (Four Noble Truths & Noble Eightfold Path)
 

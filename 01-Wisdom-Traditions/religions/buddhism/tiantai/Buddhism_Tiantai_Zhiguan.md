@@ -1,7 +1,6 @@
 ---
-
 title: "天台宗止观体系 (Tiantai Zhiguan System)"
-description: "天台宗止观体系 (Tiantai Zhiguan System)的详细解析与实践指南"
+description: "天台宗止观体系 (Tiantai Zhiguan System) —— 佛教 · Tiantai 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Tiantai"
 tags: ["buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是天台宗止观体系"
   - "天台宗止观体系的核心概念"
   - "天台宗止观体系的方法与实践"
-trigger_keywords: ["天台宗止观体系", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["天台宗止观体系", "Tiantai", "Zhiguan", "System"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/INDEX.md"
+    relation: "tiantai/zhiguan/止观"
 ---
 # 天台宗止观体系 (Tiantai Zhiguan System)
 

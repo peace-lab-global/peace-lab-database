@@ -1,7 +1,6 @@
 ---
-
 title: "柏拉图 (Plato)"
-description: "柏拉图 (Plato)的详细解析与实践指南"
+description: "柏拉图 (Plato) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["healing", "personality", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是柏拉图"
   - "柏拉图的核心概念"
   - "柏拉图的方法与实践"
-trigger_keywords: ["柏拉图", "art", "cognitive", "death", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md"
-    relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "death/personality/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Mandala_Jungian.md"
-    relation: "death/personality/sexuality"
-
+trigger_keywords: ["柏拉图", "Plato"]
+cross_refs: []
 ---
 # 柏拉图 (Plato)
 

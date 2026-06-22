@@ -1,7 +1,6 @@
 ---
-
 title: "皮浪 (Pyrrho of Elis)"
-description: "皮浪 (Pyrrho of Elis)的详细解析与实践指南"
+description: "皮浪 (Pyrrho of Elis) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["cbt", "decision-making", "healing", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是皮浪"
   - "皮浪的核心概念"
   - "皮浪的方法与实践"
-trigger_keywords: ["皮浪", "anxiety", "behavioral", "cbt", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/exercise/meditation"
-
+trigger_keywords: ["皮浪", "cbt"]
+cross_refs: []
 ---
 # 皮浪 (Pyrrho of Elis)
 

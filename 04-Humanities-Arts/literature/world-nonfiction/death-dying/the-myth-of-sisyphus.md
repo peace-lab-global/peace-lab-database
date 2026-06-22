@@ -1,7 +1,6 @@
 ---
-
 title: "《西西弗神话》The Myth of Sisyphus"
-description: "《西西弗神话》The Myth of Sisyphus的详细解析与实践指南"
+description: "《西西弗神话》The Myth of Sisyphus —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature", "religion", "suicide", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《西西弗神话》The Myth of Sisyphus"
   - "《西西弗神话》The Myth of Sisyphus的核心概念"
   - "《西西弗神话》The Myth of Sisyphus的方法与实践"
-trigger_keywords: ["death", "literature", "philosophy", "religion"]
+trigger_keywords: ["religion", "《西西弗神话》The", "Myth", "of", "Sisyphus"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "death/depression/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "death/depression/sexuality"
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "death/depression/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
-    relation: "death/depression/sexuality"
-
+    relation: "camus/albert/存在主义"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/死亡/意义"
 ---
 # 《西西弗神话》The Myth of Sisyphus
 

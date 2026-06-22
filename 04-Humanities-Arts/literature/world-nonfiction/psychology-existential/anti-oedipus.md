@@ -1,7 +1,6 @@
 ---
-
 title: "《反俄狄浦斯》Anti-Oedipus"
-description: "《反俄狄浦斯》Anti-Oedipus的详细解析与实践指南"
+description: "《反俄狄浦斯》Anti-Oedipus —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["freud", "treatment", "literature"]
 last_updated: "2026-05"
@@ -12,15 +11,8 @@ intent_queries:
   - "什么是《反俄狄浦斯》Anti-Oedipus"
   - "《反俄狄浦斯》Anti-Oedipus的核心概念"
   - "《反俄狄浦斯》Anti-Oedipus的方法与实践"
-trigger_keywords: ["body", "freud", "philosophy", "treatment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/cardiovascular"
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "art_therapy/cardiovascular"
-  - path: "README.md"
-    relation: "art_therapy/cardiovascular"
-
+trigger_keywords: ["freud", "treatment"]
+cross_refs: []
 ---
 # 《反俄狄浦斯》Anti-Oedipus
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《悉达多》Siddhartha"
-description: "《悉达多》Siddhartha的详细解析与实践指南"
+description: "《悉达多》Siddhartha —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《悉达多》Siddhartha"
   - "《悉达多》Siddhartha的核心概念"
   - "《悉达多》Siddhartha的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "brain"]
+trigger_keywords: ["《悉达多》Siddhartha"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "hermann/hesse/siddhartha"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "siddhartha/智慧/意义"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
+    relation: "hermann/hesse/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
+    relation: "智慧/佛教"
 ---
 # 《悉达多》Siddhartha
 

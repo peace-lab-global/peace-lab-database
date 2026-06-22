@@ -1,7 +1,6 @@
 ---
-
 title: "冥想安全筛查工具 | Meditation Safety Screening Toolkit"
-description: "冥想安全筛查工具 | Meditation Safety Screening Toolkit的详细解析与实践指南"
+description: "冥想安全筛查工具 | Meditation Safety Screening Toolkit —— 冥想 · Tools 专题"
 category: "心智与心理学 > 冥想 > Tools"
 tags: ["anxiety", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是冥想安全筛查工具 | Meditation Safety Screening Toolkit"
   - "冥想安全筛查工具 | Meditation Safety Screening Toolkit的核心概念"
   - "冥想安全筛查工具 | Meditation Safety Screening Toolkit的方法与实践"
-trigger_keywords: ["冥想安全筛查工具", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["冥想安全筛查工具", "Meditation", "Safety", "Screening", "Toolkit"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
+    relation: "冥想/瑜伽/呼吸"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "冥想/呼吸/meditation"
 ---
 # 冥想安全筛查工具 | Meditation Safety Screening Toolkit
 

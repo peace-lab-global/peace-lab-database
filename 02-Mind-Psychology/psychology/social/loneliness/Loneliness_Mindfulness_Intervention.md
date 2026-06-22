@@ -1,7 +1,6 @@
 ---
-
 title: "孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness"
-description: "孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness的详细解析与实践指南"
+description: "孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment", "mbsr", "mindfulness", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness"
   - "孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness的核心概念"
   - "孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["孤独的正念与慈心干预方案", "Mindfulness", "Compassion-Based", "Interventions", "for"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/正念/正念减压"
 ---
 # 孤独的正念与慈心干预方案 | Mindfulness & Compassion-Based Interventions for Loneliness
 

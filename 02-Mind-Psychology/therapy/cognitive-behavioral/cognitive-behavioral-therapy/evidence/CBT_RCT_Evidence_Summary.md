@@ -1,7 +1,6 @@
 ---
-
 title: "CBT 认知行为疗法 RCT 证据摘要"
-description: "CBT 认知行为疗法 RCT 证据摘要的详细解析与实践指南"
+description: "CBT 认知行为疗法 RCT 证据摘要 —— CBT · Evidence 专题"
 category: "心智与心理学 > 疗法 > CBT > Evidence"
 tags: ["cbt", "anxiety", "depression", "therapy", "evidence-based"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是CBT 认知行为疗法 RCT 证据摘要"
   - "CBT 认知行为疗法 RCT 证据摘要的核心概念"
   - "CBT 认知行为疗法 RCT 证据摘要的方法与实践"
-trigger_keywords: ["cbt", "anxiety", "depression", "therapy", "evidence-based"]
+trigger_keywords: ["cbt", "depression", "therapy", "evidence-based"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md"
-    relation: "anxiety/depression/evidence-based"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/stress"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/"
-    relation: "anxiety/depression/therapy"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/depression/practice"
-  - path: "02-Mind-Psychology/meditation/mindfulness/"
-    relation: "anxiety/depression/mindfulness"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
+    relation: "rct/al/et"
 ---
 # CBT 认知行为疗法 RCT 证据摘要
 

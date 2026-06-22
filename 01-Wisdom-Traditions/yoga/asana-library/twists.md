@@ -1,7 +1,6 @@
 ---
-
 title: "Twists 扭转位体式"
-description: "Twists 扭转位体式的详细解析与实践指南"
+description: "Twists 扭转位体式 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["nutrition", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Twists 扭转位体式"
   - "Twists 扭转位体式的核心概念"
   - "Twists 扭转位体式的方法与实践"
-trigger_keywords: ["clinical", "emotion", "exercise", "neuroscience"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Health_Hormonal.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["exercise", "neuroscience"]
+cross_refs: []
 ---
 # Twists 扭转位体式
 

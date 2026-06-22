@@ -1,7 +1,6 @@
 ---
-
 title: "人格心理学 (Personality Psychology) | Index"
-description: "人格心理学 (Personality Psychology) | Index的详细解析与实践指南"
+description: "人格心理学 (Personality Psychology) | Index —— 心理学基础 · 人格心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
 tags: ["intervention", "jung", "personality"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "人格心理学  | Index的核心概念"
   - "人格心理学  | Index的方法与实践"
   - "人格心理学  | Index的自助方法"
-trigger_keywords: ["人格心理学", "Index", "aging", "assessment", "behavioral", "clinical"]
+trigger_keywords: ["人格心理学", "Personality", "Psychology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/meditation/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/meditation/personality"
-  - path: "01-Wisdom-Traditions/religions/syncretism/Syncretism_Three_Teachings.md"
-    relation: "aging/meditation/personality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/altered-traits.md"
-    relation: "aging/meditation/personality"
-  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics.md"
-    relation: "aging/meditation/personality"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Personality.md"
+    relation: "人格心理学/personality/人格"
 ---
 # 人格心理学 (Personality Psychology) | Index
 

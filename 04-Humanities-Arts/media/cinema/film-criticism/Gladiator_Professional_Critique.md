@@ -1,7 +1,6 @@
 ---
-
 title: "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释"
-description: "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释的详细解析与实践指南"
+description: "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释"
   - "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释的核心概念"
   - "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "cinema"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["cinema", "《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释"]
+cross_refs: []
 ---
 # 《角斗士》专业影评：史诗电影的历史重构与英雄主义再诠释
 

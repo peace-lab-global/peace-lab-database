@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications"
-description: "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的详细解析与实践指南"
+description: "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications —— 冥想 · Yoga Nidra 专题"
 category: "心智与心理学 > 冥想 > Yoga Nidra"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications"
   - "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的核心概念"
   - "瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications的方法与实践"
-trigger_keywords: ["瑜伽尼德拉临床应用", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["瑜伽尼德拉临床应用", "Yoga", "Nidra", "Clinical", "Applications"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
+    relation: "nidra/yoga/irest"
+  - path: "05-Praxis-Growth/personal-development/flow/Flow_Clinical_Applications.md"
+    relation: "运动/障碍/创伤后应激"
+  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Clinical.md"
+    relation: "ptsd/创伤后应激/障碍"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "失眠/障碍/睡眠"
 ---
 # 瑜伽尼德拉临床应用 | Yoga Nidra Clinical Applications
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)"
-description: "Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["decision-making", "gut", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases Frontier Advances"
   - "Sexually Transmitted Diseases Frontier Advances的核心概念"
   - "Sexually Transmitted Diseases Frontier Advances的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "child", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "immune/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "immune/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "immune/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "immune/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "immune/productivity/sexuality"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Frontier", "Advances"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)
 

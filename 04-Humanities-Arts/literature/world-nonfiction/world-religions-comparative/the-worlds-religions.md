@@ -1,7 +1,6 @@
 ---
-
 title: "《世界宗教》The World's Religions"
-description: "《世界宗教》The World's Religions的详细解析与实践指南"
+description: "《世界宗教》The World's Religions —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["daoism", "music", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《世界宗教》The World's Religions"
   - "《世界宗教》The World's Religions的核心概念"
   - "《世界宗教》The World's Religions的方法与实践"
-trigger_keywords: ["act", "art", "buddhism", "crisis"]
-cross_refs:
-  - path: "GLOSSARY.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-
+trigger_keywords: ["《世界宗教》The", "World's", "Religions"]
+cross_refs: []
 ---
 # 《世界宗教》The World's Religions
 

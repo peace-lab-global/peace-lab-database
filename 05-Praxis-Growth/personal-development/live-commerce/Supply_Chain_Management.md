@@ -1,7 +1,6 @@
 ---
-
 title: "直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου"
-description: "直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου的详细解析与实践指南"
+description: "直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου —— 个人发展 · Live Commerce 专题"
 category: "实践与个人增长 > 个人发展 > Live Commerce"
 tags: ["communication", "decision-making", "positive-psychology", "productivity", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου"
   - "直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου的核心概念"
   - "直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου的方法与实践"
-trigger_keywords: ["直播电商供应链管理", "assessment", "communication", "decision-making", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["直播电商供应链管理", "decision-making"]
+cross_refs: []
 ---
 # 直播电商供应链管理 | Live Commerce Supply Chain Management | Διαχείριση Εφοδιαστικής Αλυσίδας Ζωντανού Εμπορίου
 

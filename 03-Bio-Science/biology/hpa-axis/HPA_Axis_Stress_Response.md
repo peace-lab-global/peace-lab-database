@@ -1,7 +1,6 @@
 ---
-
 title: "HPA轴与应激反应 (HPA Axis & Stress Response)"
-description: "HPA轴与应激反应 (HPA Axis & Stress Response)的详细解析与实践指南"
+description: "HPA轴与应激反应 (HPA Axis & Stress Response) —— 生物学 · HPA轴 专题"
 category: "生命科学与生物医学 > 生物学 > HPA轴"
 tags: ["HPA轴", "aging", "attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是HPA轴与应激反应"
   - "HPA轴与应激反应的核心概念"
   - "HPA轴与应激反应的方法与实践"
-trigger_keywords: ["HPA轴与应激反应", "HPA轴", "act", "aging", "anxiety"]
+trigger_keywords: ["HPA轴与应激反应", "HPA轴"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Overview.md"
+    relation: "stress/应激/chronic"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Mechanisms.md"
+    relation: "stress/应激/hpa"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Assessment.md"
+    relation: "stress/应激/chronic"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
+    relation: "hpa/应激/肾上腺"
 ---
 # HPA轴与应激反应 (HPA Axis & Stress Response)
 

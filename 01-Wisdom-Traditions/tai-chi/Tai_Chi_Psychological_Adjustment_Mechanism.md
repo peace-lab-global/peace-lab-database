@@ -1,7 +1,6 @@
 ---
-
 title: "太极心理调适机制专业内容体系"
-description: "太极心理调适机制专业内容体系的详细解析与实践指南"
+description: "太极心理调适机制专业内容体系 —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "太极心理调适机制专业内容体系的核心概念"
   - "太极心理调适机制专业内容体系的方法与实践"
   - "太极心理调适机制专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["太极心理调适机制专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：呼吸的科学.md"
+    relation: "阴阳/呼吸"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
+    relation: "太极/呼吸/运动"
 ---
 # 太极心理调适机制专业内容体系
 

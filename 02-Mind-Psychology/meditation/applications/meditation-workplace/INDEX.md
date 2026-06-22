@@ -1,7 +1,6 @@
 ---
-
 title: "职场冥想与企业正念 Meditation & Mindfulness in the Workplace"
-description: "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的详细解析与实践指南"
+description: "职场冥想与企业正念 Meditation & Mindfulness in the Workplace —— 冥想 · Meditation Workplace 专题"
 category: "心智与心理学 > 冥想 > Meditation Workplace"
 tags: ["brain", "decision-making", "leadership", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是职场冥想与企业正念 Meditation & Mindfulness in the Workplace"
   - "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的核心概念"
   - "职场冥想与企业正念 Meditation & Mindfulness in the Workplace的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "brain", "breathwork"]
+trigger_keywords: ["职场冥想与企业正念", "Meditation", "Mindfulness", "in", "the"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "03-Bio-Science/biology/immune-inflammation/Immune_System_Overview.md"
-    relation: "exercise/meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # 职场冥想与企业正念 Meditation & Mindfulness in the Workplace
 

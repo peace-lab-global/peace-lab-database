@@ -1,7 +1,6 @@
 ---
-
 title: "演化未来 | Evolutionary Futures"
-description: "演化未来 | Evolutionary Futures的详细解析与实践指南"
+description: "演化未来 | Evolutionary Futures —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["stress", "therapy", "treatment", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是演化未来 | Evolutionary Futures"
   - "演化未来 | Evolutionary Futures的核心概念"
   - "演化未来 | Evolutionary Futures的方法与实践"
-trigger_keywords: ["演化未来", "developmental", "philosophy", "sexuality", "stress"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/sexuality/stress"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/sexuality/stress"
-
+trigger_keywords: ["演化未来", "stress"]
+cross_refs: []
 ---
 # 演化未来 | Evolutionary Futures
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Weight Loss Exercise Science (减肥运动科学)"
-description: "Weight Loss Exercise Science (减肥运动科学)的详细解析与实践指南"
+description: "Weight Loss Exercise Science (减肥运动科学) —— 生物学 · Weight Loss 专题"
 category: "生命科学与生物医学 > 生物学 > Weight Loss"
 tags: ["aging", "cardiovascular", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Weight Loss Exercise Science"
   - "Weight Loss Exercise Science的核心概念"
   - "Weight Loss Exercise Science的方法与实践"
-trigger_keywords: ["act", "aging", "assessment", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "aging/emotion/exercise"
-
+trigger_keywords: ["Weight", "Loss", "Exercise", "Science", "减肥运动科学"]
+cross_refs: []
 ---
 # Weight Loss Exercise Science (减肥运动科学)
 

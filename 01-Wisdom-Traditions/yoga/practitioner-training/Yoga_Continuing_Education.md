@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽继续教育指南（Yoga Continuing Education Guide）"
-description: "瑜伽继续教育指南（Yoga Continuing Education Guide）的详细解析与实践指南"
+description: "瑜伽继续教育指南（Yoga Continuing Education Guide） —— 瑜伽 · Practitioner Training 专题"
 category: "智慧传承 > 瑜伽 > Practitioner Training"
 tags: ["intervention", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽继续教育指南（Yoga Continuing Education Guide）"
   - "瑜伽继续教育指南（Yoga Continuing Education Guide）的核心概念"
   - "瑜伽继续教育指南（Yoga Continuing Education Guide）的方法与实践"
-trigger_keywords: ["act", "aging", "assessment", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/exercise/meditation"
-
+trigger_keywords: ["瑜伽继续教育指南", "Yoga", "Continuing", "Education", "Guide"]
+cross_refs: []
 ---
 # 瑜伽继续教育指南（Yoga Continuing Education Guide）
 

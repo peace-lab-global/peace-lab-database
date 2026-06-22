@@ -1,7 +1,6 @@
 ---
-
 title: "儿童青少年心理发展与干预"
-description: "儿童青少年心理发展与干预的详细解析与实践指南"
+description: "儿童青少年心理发展与干预 —— Adolescent · Child Adolescent 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent"
 tags: ["addiction", "anxiety", "attachment", "cbt", "adhd"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "儿童青少年心理发展与干预的核心概念"
   - "儿童青少年心理发展与干预的方法与实践"
   - "儿童青少年心理发展与干预的自助方法"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["儿童青少年心理发展与干预"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "依恋/焦虑/障碍"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/International_Comparison_Reference.md"
+    relation: "vs/焦虑/沟通"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "依恋/沟通/焦虑"
+  - path: "04-Humanities-Arts/media/music/classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Therapeutic_Use.md"
+    relation: "依恋/亲子/障碍"
 ---
 # 儿童青少年心理发展与干预
 

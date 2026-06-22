@@ -1,7 +1,6 @@
 ---
-
 title: "性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)"
-description: "性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)的详细解析与实践指南"
+description: "性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide) —— Child Adolescent Sexuality · Theory 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
 tags: ["brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是性教育课程设计与实施指南"
   - "性教育课程设计与实施指南的核心概念"
   - "性教育课程设计与实施指南的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["性教育课程设计与实施指南", "Sexuality", "Education", "Curriculum", "Design"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/neuroscience/sexuality"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md"
+    relation: "sexuality/curriculum/education"
 ---
 # 性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)
 

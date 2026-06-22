@@ -1,7 +1,6 @@
 ---
-
 title: "柴可夫斯基芭蕾舞剧《睡美人》概述"
-description: "柴可夫斯基芭蕾舞剧《睡美人》概述的详细解析与实践指南"
+description: "柴可夫斯基芭蕾舞剧《睡美人》概述 —— Tchaikovsky Ballets · Sleepingbeauty 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Tchaikovsky Ballets > Sleepingbeauty"
 tags: ["ballet", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是柴可夫斯基芭蕾舞剧《睡美人》概述"
   - "柴可夫斯基芭蕾舞剧《睡美人》概述的核心概念"
   - "柴可夫斯基芭蕾舞剧《睡美人》概述的方法与实践"
-trigger_keywords: ["adolescent", "art", "ballet", "child"]
+trigger_keywords: ["ballet", "柴可夫斯基芭蕾舞剧《睡美人》概述"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "communication/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/depression/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/舞蹈/力量"
 ---
 # 柴可夫斯基芭蕾舞剧《睡美人》概述
 

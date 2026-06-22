@@ -1,7 +1,6 @@
 ---
-
 title: "《死亡否认》The Denial of Death"
-description: "《死亡否认》The Denial of Death的详细解析与实践指南"
+description: "《死亡否认》The Denial of Death —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["freud", "personality", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《死亡否认》The Denial of Death"
   - "《死亡否认》The Denial of Death的核心概念"
   - "《死亡否认》The Denial of Death的方法与实践"
-trigger_keywords: ["anxiety", "buddhism", "death", "emotion"]
+trigger_keywords: ["《死亡否认》The", "Denial", "of", "Death"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Rituals_Overview.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "03-Bio-Science/death/Death_Existential_Psychology.md"
+    relation: "becker/death/死亡"
 ---
 # 《死亡否认》The Denial of Death
 

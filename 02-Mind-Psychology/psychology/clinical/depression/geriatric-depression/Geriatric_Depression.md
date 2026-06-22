@@ -1,7 +1,6 @@
 ---
-
 title: "Geriatric Depression (老年抑郁专题)"
-description: "Geriatric Depression (老年抑郁专题)的详细解析与实践指南"
+description: "Geriatric Depression (老年抑郁专题) —— 抑郁症 · Geriatric Depression 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Geriatric Depression"
 tags: ["anxiety", "brain", "cardiovascular", "cbt", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Geriatric Depression"
   - "Geriatric Depression的核心概念"
   - "Geriatric Depression的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Geriatric", "Depression", "老年抑郁专题"]
+cross_refs: []
 ---
 # Geriatric Depression (老年抑郁专题)
 

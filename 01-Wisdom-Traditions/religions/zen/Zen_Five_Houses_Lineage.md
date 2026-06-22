@@ -1,7 +1,6 @@
 ---
-
 title: "Zen Five Houses & Seven Schools (禅门五家七宗)"
-description: "Zen Five Houses & Seven Schools (禅门五家七宗)的详细解析与实践指南"
+description: "Zen Five Houses & Seven Schools (禅门五家七宗) —— 宗教与灵性 · 禅宗 专题"
 category: "智慧传承 > 宗教与灵性 > 禅宗"
 tags: ["philosophy", "zen", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Zen Five Houses & Seven Schools"
   - "Zen Five Houses & Seven Schools的核心概念"
   - "Zen Five Houses & Seven Schools的方法与实践"
-trigger_keywords: ["act", "cognitive", "philosophy", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/meditation/productivity"
-
+trigger_keywords: ["Zen", "Five", "Houses", "Seven", "Schools"]
+cross_refs: []
 ---
 # Zen Five Houses & Seven Schools (禅门五家七宗)
 

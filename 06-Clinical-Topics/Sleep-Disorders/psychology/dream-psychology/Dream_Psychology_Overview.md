@@ -1,7 +1,6 @@
 ---
-
 title: "梦的心理学总览 | Dream Psychology Overview"
-description: "梦的心理学总览 | Dream Psychology Overview的详细解析与实践指南"
+description: "梦的心理学总览 | Dream Psychology Overview —— 特殊专题 · Dream Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Dream Psychology"
 tags: ["anxiety", "attachment", "brain", "sleep", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "梦的心理学总览 | Dream Psychology Overview的核心概念"
   - "梦的心理学总览 | Dream Psychology Overview的方法与实践"
   - "梦的心理学总览 | Dream Psychology Overview的自助方法"
-trigger_keywords: ["梦的心理学总览", "act", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["梦的心理学总览", "Dream", "Psychology", "Overview"]
+cross_refs: []
 ---
 # 梦的心理学总览 | Dream Psychology Overview
 

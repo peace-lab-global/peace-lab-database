@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析"
-description: "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析的核心概念"
   - "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析的方法与实践"
   - "拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析"]
+cross_refs: []
 ---
 # 拉赫玛尼诺夫《第一钢琴协奏曲》心理学与疗愈功能分析
 

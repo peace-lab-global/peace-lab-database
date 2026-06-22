@@ -1,7 +1,6 @@
 ---
-
 title: "sexuality | 性学研究专题"
-description: "sexuality | 性学研究专题的详细解析与实践指南"
+description: "sexuality | 性学研究专题 —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["intervention", "neuroscience", "personality", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是sexuality | 性学研究专题"
   - "sexuality | 性学研究专题的核心概念"
   - "sexuality | 性学研究专题的方法与实践"
-trigger_keywords: ["sexuality", "性学研究专题", "act", "anxiety", "assessment", "clinical"]
+trigger_keywords: ["性学研究专题"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/neuroscience/personality"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Frontier_Theory_Research_Evidence.md"
+    relation: "sexuality/theory/education"
 ---
 # sexuality | 性学研究专题
 

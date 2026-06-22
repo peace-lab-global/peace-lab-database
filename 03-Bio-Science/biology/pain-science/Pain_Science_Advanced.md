@@ -1,7 +1,6 @@
 ---
-
 title: "疼痛科学进阶 | Pain Science Advanced"
-description: "疼痛科学进阶 | Pain Science Advanced的详细解析与实践指南"
+description: "疼痛科学进阶 | Pain Science Advanced —— 生物学 · 疼痛科学 专题"
 category: "生命科学与生物医学 > 生物学 > 疼痛科学"
 tags: ["brain", "cbt", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是疼痛科学进阶 | Pain Science Advanced"
   - "疼痛科学进阶 | Pain Science Advanced的核心概念"
   - "疼痛科学进阶 | Pain Science Advanced的方法与实践"
-trigger_keywords: ["疼痛科学进阶", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["疼痛科学进阶", "Pain", "Science", "Advanced"]
+cross_refs: []
 ---
 # 疼痛科学进阶 | Pain Science Advanced
 

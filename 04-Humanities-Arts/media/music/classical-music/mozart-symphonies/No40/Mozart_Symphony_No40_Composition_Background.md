@@ -1,7 +1,6 @@
 ---
-
 title: "莫扎特《第40号交响曲》创作背景与心理分析"
-description: "莫扎特《第40号交响曲》创作背景与心理分析的详细解析与实践指南"
+description: "莫扎特《第40号交响曲》创作背景与心理分析 —— Mozart Symphonies · No40 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Symphonies > No40"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "莫扎特《第40号交响曲》创作背景与心理分析的核心概念"
   - "莫扎特《第40号交响曲》创作背景与心理分析的方法与实践"
   - "莫扎特《第40号交响曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "body"]
+trigger_keywords: ["莫扎特《第40号交响曲》创作背景与心理分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/焦虑"
 ---
 # 莫扎特《第40号交响曲》创作背景与心理分析
 

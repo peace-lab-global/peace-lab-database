@@ -1,7 +1,6 @@
 ---
-
 title: "Standing Poses 站立位体式"
-description: "Standing Poses 站立位体式的详细解析与实践指南"
+description: "Standing Poses 站立位体式 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["positive-psychology", "stress", "treatment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Standing Poses 站立位体式"
   - "Standing Poses 站立位体式的核心概念"
   - "Standing Poses 站立位体式的方法与实践"
-trigger_keywords: ["anxiety", "breathwork", "positive-psychology", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/productivity/sexuality"
-
+trigger_keywords: ["positive-psychology", "Standing", "Poses", "站立位体式"]
+cross_refs: []
 ---
 # Standing Poses 站立位体式
 

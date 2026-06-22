@@ -1,7 +1,6 @@
 ---
-
 title: "Nada Yoga Sound System (纳达瑜伽声音体系：内在音流与觉知训练)"
-description: "Nada Yoga Sound System (纳达瑜伽声音体系：内在音流与觉知训练)的详细解析与实践指南"
+description: "Nada Yoga Sound System (纳达瑜伽声音体系：内在音流与觉知训练) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["brain", "daoism", "mbsr", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Nada Yoga Sound System"
   - "Nada Yoga Sound System的核心概念"
   - "Nada Yoga Sound System的方法与实践"
-trigger_keywords: ["act", "assessment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "daoism/exercise/meditation"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "daoism/exercise/meditation"
-  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
-    relation: "daoism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "daoism/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "daoism/meditation/neuroscience"
-
+trigger_keywords: ["Nada", "Yoga", "Sound", "System", "纳达瑜伽声音体系：内在音流与觉知训练"]
+cross_refs: []
 ---
 # Nada Yoga Sound System (纳达瑜伽声音体系：内在音流与觉知训练)
 

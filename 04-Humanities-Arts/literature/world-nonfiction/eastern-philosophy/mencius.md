@@ -1,7 +1,6 @@
 ---
-
 title: "《孟子》Mencius"
-description: "《孟子》Mencius的详细解析与实践指南"
+description: "《孟子》Mencius —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["self-confidence", "social", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《孟子》Mencius"
   - "《孟子》Mencius的核心概念"
   - "《孟子》Mencius的方法与实践"
-trigger_keywords: ["behavioral", "developmental", "philosophy", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["《孟子》Mencius"]
+cross_refs: []
 ---
 # 《孟子》Mencius
 

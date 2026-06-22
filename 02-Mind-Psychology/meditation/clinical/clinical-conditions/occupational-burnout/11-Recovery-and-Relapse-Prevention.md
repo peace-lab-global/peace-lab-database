@@ -1,7 +1,6 @@
 ---
-
 title: "11. 恢复与复发预防 | Recovery & Relapse Prevention"
-description: "11. 恢复与复发预防 | Recovery & Relapse Prevention的详细解析与实践指南"
+description: "11. 恢复与复发预防 | Recovery & Relapse Prevention —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["depression", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是11. 恢复与复发预防 | Recovery & Relapse Prevention"
   - "11. 恢复与复发预防 | Recovery & Relapse Prevention的核心概念"
   - "11. 恢复与复发预防 | Recovery & Relapse Prevention的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["11.", "恢复与复发预防", "Recovery", "Relapse", "Prevention"]
+cross_refs: []
 ---
 # 11. 恢复与复发预防 | Recovery & Relapse Prevention
 

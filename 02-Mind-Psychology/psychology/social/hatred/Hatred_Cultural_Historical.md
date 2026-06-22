@@ -1,7 +1,6 @@
 ---
-
 title: "Hatred Cultural & Historical Perspectives (仇恨的文化、历史与哲学视角)"
-description: "Hatred Cultural & Historical Perspectives (仇恨的文化、历史与哲学视角)的详细解析与实践指南"
+description: "Hatred Cultural & Historical Perspectives (仇恨的文化、历史与哲学视角) —— 社会心理学 · Hatred 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
 tags: ["cbt", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Hatred Cultural & Historical Perspectives"
   - "Hatred Cultural & Historical Perspectives的核心概念"
   - "Hatred Cultural & Historical Perspectives的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "buddhism", "cbt"]
-cross_refs:
-  - path: "GLOSSARY.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "README.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/daoism/emotion"
-
+trigger_keywords: ["cbt", "Hatred", "Cultural", "Historical", "Perspectives"]
+cross_refs: []
 ---
 # Hatred Cultural & Historical Perspectives (仇恨的文化、历史与哲学视角)
 

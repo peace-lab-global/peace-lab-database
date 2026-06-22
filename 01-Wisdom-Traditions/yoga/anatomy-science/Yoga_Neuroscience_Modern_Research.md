@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga & Neuroscience: Modern Research (瑜伽与神经科学：现代研究)"
-description: "Yoga & Neuroscience: Modern Research (瑜伽与神经科学：现代研究)的详细解析与实践指南"
+description: "Yoga & Neuroscience: Modern Research (瑜伽与神经科学：现代研究) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cortisol", "depression", "dmn", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Yoga & Neuroscience: Modern Research"
   - "Yoga & Neuroscience: Modern Research的核心概念"
   - "Yoga & Neuroscience: Modern Research的方法与实践"
-trigger_keywords: ["act", "aging", "brain", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/communication/depression"
-
+trigger_keywords: ["Yoga", "Neuroscience:", "Modern", "Research", "瑜伽与神经科学：现代研究"]
+cross_refs: []
 ---
 # Yoga & Neuroscience: Modern Research (瑜伽与神经科学：现代研究)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "情绪调节实践"
-description: "情绪调节实践的详细解析与实践指南"
+description: "情绪调节实践 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是情绪调节实践"
   - "情绪调节实践的核心概念"
   - "情绪调节实践的方法与实践"
-trigger_keywords: ["情绪调节实践", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "anxiety/communication/death"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
-    relation: "anxiety/death/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["情绪调节实践"]
+cross_refs: []
 ---
 # 情绪调节实践
 

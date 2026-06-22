@@ -1,7 +1,6 @@
 ---
-
 title: "教育公平 | Educational Equity Framework"
-description: "教育公平 | Educational Equity Framework的详细解析与实践指南"
+description: "教育公平 | Educational Equity Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["intervention", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是教育公平 | Educational Equity Framework"
   - "教育公平 | Educational Equity Framework的核心概念"
   - "教育公平 | Educational Equity Framework的方法与实践"
-trigger_keywords: ["教育公平", "adolescent", "behavioral", "body", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "communication/death/sexuality"
-
+trigger_keywords: ["教育公平", "Educational", "Equity", "Framework"]
+cross_refs: []
 ---
 # 教育公平 | Educational Equity Framework
 

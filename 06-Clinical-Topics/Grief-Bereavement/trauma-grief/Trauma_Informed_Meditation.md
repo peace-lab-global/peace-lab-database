@@ -1,7 +1,6 @@
 ---
-
 title: "Trauma Informed Meditation"
-description: "Trauma Informed Meditation的详细解析与实践指南"
+description: "Trauma Informed Meditation —— 冥想 · Safety 专题"
 category: "心智与心理学 > 冥想 > Safety"
 tags: ["meditation", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Trauma Informed Meditation"
   - "Trauma Informed Meditation的核心概念"
   - "Trauma Informed Meditation的方法与实践"
-trigger_keywords: ["冥想"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/historiography/Buddhist_Perspective_Reviews.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Kantian_Schopenhauer.md"
-    relation: "meditation/trauma"
-
+trigger_keywords: ["冥想", "Trauma", "Informed", "Meditation"]
+cross_refs: []
 ---
 # Trauma Informed Meditation
 

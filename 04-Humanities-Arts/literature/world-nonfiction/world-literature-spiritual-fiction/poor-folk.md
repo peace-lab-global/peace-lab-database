@@ -1,7 +1,6 @@
 ---
-
 title: "《穷人》Poor Folk"
-description: "《穷人》Poor Folk的详细解析与实践指南"
+description: "《穷人》Poor Folk —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["habits", "literature", "loneliness", "marriage", "suicide"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《穷人》Poor Folk"
   - "《穷人》Poor Folk的核心概念"
   - "《穷人》Poor Folk的方法与实践"
-trigger_keywords: ["death", "habits", "literature", "loneliness"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "attachment/death/depression"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "attachment/death/depression"
-  - path: "README.md"
-    relation: "art_therapy/attachment/death"
-
+trigger_keywords: ["habits", "loneliness"]
+cross_refs: []
 ---
 # 《穷人》Poor Folk
 

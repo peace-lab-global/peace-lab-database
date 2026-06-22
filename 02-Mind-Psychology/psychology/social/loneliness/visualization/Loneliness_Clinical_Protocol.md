@@ -1,7 +1,6 @@
 ---
-
 title: "孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol"
-description: "孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol的详细解析与实践指南"
+description: "孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol —— Loneliness · Visualization 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol"
   - "孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol的核心概念"
   - "孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["孤独干预临床标准化流程图", "Loneliness", "Clinical", "Intervention", "Protocol"]
+cross_refs: []
 ---
 # 孤独干预临床标准化流程图 | Loneliness Clinical Intervention Protocol
 

@@ -1,7 +1,6 @@
 ---
-
 title: "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series"
-description: "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的详细解析与实践指南"
+description: "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series"
   - "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的核心概念"
   - "系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["系列二十五：死亡冥想深度专业系列", "Death", "Meditation", "Deep", "Dive"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/death"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/buddhism"
   - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-
+    relation: "死亡/dive/deep"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
+    relation: "死亡/death/正念"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "死亡/自杀/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/death/冥想"
 ---
 # 系列二十五：死亡冥想深度专业系列 | Death Meditation Deep Dive Series
 

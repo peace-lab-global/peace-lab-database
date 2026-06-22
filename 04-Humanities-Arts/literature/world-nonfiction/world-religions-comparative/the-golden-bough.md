@@ -1,7 +1,6 @@
 ---
-
 title: "《金枝》The Golden Bough"
-description: "《金枝》The Golden Bough的详细解析与实践指南"
+description: "《金枝》The Golden Bough —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["intervention", "jung"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《金枝》The Golden Bough"
   - "《金枝》The Golden Bough的核心概念"
   - "《金枝》The Golden Bough的方法与实践"
-trigger_keywords: ["act", "aging", "body", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Agama_Sutras.md"
-    relation: "aging/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ngondro_Preliminaries.md"
-    relation: "aging/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "aging/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/death/sexuality"
-
+trigger_keywords: ["《金枝》The", "Golden", "Bough"]
+cross_refs: []
 ---
 # 《金枝》The Golden Bough
 

@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫音乐疗愈 (Bach Music Therapy)"
-description: "巴赫音乐疗愈 (Bach Music Therapy)的详细解析与实践指南"
+description: "巴赫音乐疗愈 (Bach Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫音乐疗愈"
   - "巴赫音乐疗愈的核心概念"
   - "巴赫音乐疗愈的方法与实践"
-trigger_keywords: ["巴赫音乐疗愈", "act", "anxiety", "art", "body"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["巴赫音乐疗愈", "Bach", "Music", "Therapy"]
+cross_refs: []
 ---
 # 巴赫音乐疗愈 (Bach Music Therapy)
 

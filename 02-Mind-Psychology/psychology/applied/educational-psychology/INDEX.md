@@ -1,7 +1,6 @@
 ---
-
 title: "教育心理学 | Educational Psychology — 文档索引"
-description: "教育心理学 | Educational Psychology — 文档索引的详细解析与实践指南"
+description: "教育心理学 | Educational Psychology — 文档索引 —— 应用心理学 · Educational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Educational Psychology"
 tags: ["anxiety", "meditation"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "教育心理学 | Educational Psychology — 文档索引的核心概念"
   - "教育心理学 | Educational Psychology — 文档索引的方法与实践"
   - "教育心理学 | Educational Psychology — 文档索引的自助方法"
-trigger_keywords: ["教育心理学", "adolescent", "anxiety", "assessment", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["教育心理学", "Educational", "Psychology", "文档索引"]
+cross_refs: []
 ---
 # 教育心理学 | Educational Psychology — 文档索引
 

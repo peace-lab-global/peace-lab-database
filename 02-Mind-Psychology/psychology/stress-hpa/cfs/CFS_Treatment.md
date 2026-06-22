@@ -1,7 +1,6 @@
 ---
-
 title: "慢性疲劳综合征治疗方法 (CFS Treatment Methods)"
-description: "慢性疲劳综合征治疗方法 (CFS Treatment Methods)的详细解析与实践指南"
+description: "慢性疲劳综合征治疗方法 (CFS Treatment Methods) —— 压力与HPA轴 · Cfs 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
 tags: ["addiction", "anxiety", "brain", "cbt", "sleep", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "慢性疲劳综合征治疗方法的核心概念"
   - "慢性疲劳综合征治疗方法的方法与实践"
   - "慢性疲劳综合征治疗方法的循证证据"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+trigger_keywords: ["慢性疲劳综合征治疗方法", "CFS", "Treatment", "Methods"]
+cross_refs: []
 ---
 # 慢性疲劳综合征治疗方法 (CFS Treatment Methods)
 

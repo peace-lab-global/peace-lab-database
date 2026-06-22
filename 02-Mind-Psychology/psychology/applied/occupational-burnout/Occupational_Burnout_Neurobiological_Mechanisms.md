@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: Neurobiological Mechanisms (职场倦怠：神经生物学机制)"
-description: "Occupational Burnout: Neurobiological Mechanisms (职场倦怠：神经生物学机制)的详细解析与实践指南"
+description: "Occupational Burnout: Neurobiological Mechanisms (职场倦怠：神经生物学机制) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Occupational Burnout: Neurobiological Mechanisms"
   - "Occupational Burnout: Neurobiological Mechanisms的核心概念"
   - "Occupational Burnout: Neurobiological Mechanisms的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Occupational", "Burnout:", "Neurobiological", "Mechanisms", "职场倦怠：神经生物学机制"]
 cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "hpa/炎症/免疫"
 ---
 # Occupational Burnout: Neurobiological Mechanisms (职场倦怠：神经生物学机制)
 

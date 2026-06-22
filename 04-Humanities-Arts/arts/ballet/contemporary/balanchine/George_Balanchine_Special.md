@@ -1,7 +1,6 @@
 ---
-
 title: "乔治·巴兰钦专题 (George Balanchine Special Topic)"
-description: "乔治·巴兰钦专题 (George Balanchine Special Topic)的详细解析与实践指南"
+description: "乔治·巴兰钦专题 (George Balanchine Special Topic) —— Contemporary · Balanchine 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary > Balanchine"
 tags: ["ballet", "music", "positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是乔治·巴兰钦专题"
   - "乔治·巴兰钦专题的核心概念"
   - "乔治·巴兰钦专题的方法与实践"
-trigger_keywords: ["乔治", "巴兰钦专题", "art", "assessment", "ballet", "body"]
+trigger_keywords: ["乔治", "巴兰钦专题", "ballet"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/productivity"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/舞蹈/意义"
 ---
 # 乔治·巴兰钦专题 (George Balanchine Special Topic)
 

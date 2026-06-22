@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南"
-description: "巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南的详细解析与实践指南"
+description: "巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南 —— Bach Brandenburg Concertos · No3 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Brandenburg Concertos > No3"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南"
   - "巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南的核心概念"
   - "巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南的方法与实践"
-trigger_keywords: ["art", "body", "brain", "breathwork"]
+trigger_keywords: ["巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/exercise/neuroscience"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/专注数息.md"
+    relation: "专注/呼吸"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C4-homework.md"
+    relation: "专注/呼吸"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "呼吸/专注"
 ---
 # 巴赫《第三勃兰登堡协奏曲》聆听鉴赏完全指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "高效沟通概览与核心理论"
-description: "高效沟通概览与核心理论的详细解析与实践指南"
+description: "高效沟通概览与核心理论 —— 沟通 · 高效沟通 专题"
 category: "实践与个人增长 > 沟通 > 高效沟通"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "高效沟通概览与核心理论的核心概念"
   - "高效沟通概览与核心理论的方法与实践"
   - "高效沟通概览与核心理论的自助方法"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["高效沟通概览与核心理论"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Communication.md"
+    relation: "nvc/沟通/非暴力沟通"
+  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
+    relation: "沟通/倾听/非暴力沟通"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
+    relation: "nvc/非暴力沟通/冲突"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Communication_Conflict.md"
+    relation: "倾听/沟通/communication"
 ---
 # 高效沟通概览与核心理论
 Effective Communication: Overview and Core Theories

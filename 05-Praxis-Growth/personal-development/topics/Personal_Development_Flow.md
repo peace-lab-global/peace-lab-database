@@ -1,7 +1,6 @@
 ---
-
 title: "Flow 心流"
-description: "Flow 心流的详细解析与实践指南"
+description: "Flow 心流 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Flow 心流"
   - "Flow 心流的核心概念"
   - "Flow 心流的方法与实践"
-trigger_keywords: ["Flow 心流", "act", "anxiety", "body", "cognitive"]
+trigger_keywords: ["Flow 心流", "Flow", "心流"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Overview.md"
+    relation: "积极心理学/心流/人格"
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/skills/_manifest.md"
+    relation: "心流/积极心理学/意义"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
+    relation: "心流/flow/csikszentmihalyi"
 ---
 # Flow 心流
 

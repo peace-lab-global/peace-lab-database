@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师数字产品与AI | Professional Digital & AI"
-description: "冥想执行师数字产品与AI | Professional Digital & AI的详细解析与实践指南"
+description: "冥想执行师数字产品与AI | Professional Digital & AI —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["meditation", "mindfulness", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想执行师数字产品与AI | Professional Digital & AI"
   - "冥想执行师数字产品与AI | Professional Digital & AI的核心概念"
   - "冥想执行师数字产品与AI | Professional Digital & AI的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
+trigger_keywords: ["冥想执行师数字产品与AI", "Professional", "Digital", "AI"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Advanced_Internal_Alchemy.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "emotion/meditation/sexuality"
-
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "ai/ar/vr"
+  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Technology_Digital.md"
+    relation: "ai/vr/app"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "ai/vr/digital"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/waking-up.md"
+    relation: "waking/冥想/harris"
 ---
 # 冥想执行师数字产品与AI | Professional Digital & AI
 

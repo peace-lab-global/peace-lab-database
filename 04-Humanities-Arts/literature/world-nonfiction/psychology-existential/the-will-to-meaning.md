@@ -1,7 +1,6 @@
 ---
-
 title: "《人对意义的寻求》The Will to Meaning"
-description: "《人对意义的寻求》The Will to Meaning的详细解析与实践指南"
+description: "《人对意义的寻求》The Will to Meaning —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["addiction", "depression", "freud"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《人对意义的寻求》The Will to Meaning"
   - "《人对意义的寻求》The Will to Meaning的核心概念"
   - "《人对意义的寻求》The Will to Meaning的方法与实践"
-trigger_keywords: ["addiction", "behavioral", "clinical", "depression"]
+trigger_keywords: ["depression", "《人对意义的寻求》The", "Will", "to", "Meaning"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "depression/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md"
+    relation: "意义疗法/meaning/意义"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Motivation_Enhancement.md"
+    relation: "意义/vs"
+  - path: "02-Mind-Psychology/psychology/special-topics/poverty-suffering/Suffering_Meaning_Transformation.md"
+    relation: "meaning/意义"
+  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
+    relation: "logotherapy/意义疗法/existential"
 ---
 # 《人对意义的寻求》The Will to Meaning
 

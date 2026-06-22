@@ -1,7 +1,6 @@
 ---
-
 title: "emotion | Index"
-description: "emotion | Index的详细解析与实践指南"
+description: "emotion | Index —— 躯体与情绪 · Emotion 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
 tags: ["心理学", "躯体与情绪", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是emotion | Index"
   - "emotion | Index的核心概念"
   - "emotion | Index的方法与实践"
-trigger_keywords: ["emotion", "Index", "心理学", "躯体与情绪"]
+trigger_keywords: ["心理学", "躯体与情绪"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/meditation/neuroscience"
-
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/EI_Emotion_Regulation_Training.md"
+    relation: "emotion/regulation"
 ---
 # emotion | Index
 

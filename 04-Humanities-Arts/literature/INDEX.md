@@ -1,7 +1,6 @@
 ---
-
 title: "literature | 文学与文学疗愈"
-description: "literature | 文学与文学疗愈的详细解析与实践指南"
+description: "literature | 文学与文学疗愈 —— 人文与艺术疗愈 · 文学 专题"
 category: "人文与艺术疗愈 > 文学"
 tags: ["healing", "literature", "loneliness", "renaissance"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是literature | 文学与文学疗愈"
   - "literature | 文学与文学疗愈的核心概念"
   - "literature | 文学与文学疗愈的方法与实践"
-trigger_keywords: ["literature", "文学与文学疗愈", "art", "brain", "breathwork", "buddhism"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-
+trigger_keywords: ["文学与文学疗愈"]
+cross_refs: []
 ---
 # literature | 文学与文学疗愈
 

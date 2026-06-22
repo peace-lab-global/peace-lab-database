@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Massage Overview (中医推拿概览)"
-description: "Tuina Massage Overview (中医推拿概览)的详细解析与实践指南"
+description: "Tuina Massage Overview (中医推拿概览) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Tuina Massage Overview"
   - "Tuina Massage Overview的核心概念"
   - "Tuina Massage Overview的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
+trigger_keywords: ["Tuina", "Massage", "Overview", "中医推拿概览"]
 cross_refs:
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "推拿/五行/经络"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Overview.md"
+    relation: "推拿/经络"
 ---
 # Tuina Massage Overview (中医推拿概览)
 

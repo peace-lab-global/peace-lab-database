@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑干预案例研究与实践汇编"
-description: "性焦虑干预案例研究与实践汇编的详细解析与实践指南"
+description: "性焦虑干预案例研究与实践汇编 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "性焦虑干预案例研究与实践汇编的核心概念"
   - "性焦虑干预案例研究与实践汇编的方法与实践"
   - "性焦虑干预案例研究与实践汇编的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["性焦虑干预案例研究与实践汇编"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Anxiety_Procrastination.md"
+    relation: "焦虑/暴露/冲突"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Emotional_Desensitization.md"
+    relation: "暴露/焦虑"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Exposure_Training_Guide.md"
+    relation: "暴露/焦虑"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Daily_Training_Protocol_Anxiety.md"
+    relation: "焦虑/暴露"
 ---
 # 性焦虑干预案例研究与实践汇编
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Marriage Relationship Overview (婚姻关系概览)"
-description: "Marriage Relationship Overview (婚姻关系概览)的详细解析与实践指南"
+description: "Marriage Relationship Overview (婚姻关系概览) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Marriage Relationship Overview"
   - "Marriage Relationship Overview的核心概念"
   - "Marriage Relationship Overview的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Marriage", "Relationship", "Overview", "婚姻关系概览"]
+cross_refs: []
 ---
 # Marriage Relationship Overview (婚姻关系概览)
 

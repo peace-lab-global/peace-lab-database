@@ -1,7 +1,6 @@
 ---
-
 title: "Eighty-Four Thousand Questions | 八万四千问"
-description: "Eighty-Four Thousand Questions | 八万四千问的详细解析与实践指南"
+description: "Eighty-Four Thousand Questions | 八万四千问 —— Dzongsar Khyentse · Eighty Four Thousand Questions 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Eighty Four Thousand Questions"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Eighty-Four Thousand Questions | 八万四千问"
   - "Eighty-Four Thousand Questions | 八万四千问的核心概念"
   - "Eighty-Four Thousand Questions | 八万四千问的方法与实践"
-trigger_keywords: ["八万四千问", "buddhism", "death", "佛教", "宗教与灵性"]
+trigger_keywords: ["八万四千问", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
-    relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
-    relation: "buddhism/death/emotion"
-  - path: "03-Bio-Science/death/Death_Comparative_Philosophy.md"
-    relation: "buddhism/death/emotion"
-  - path: "03-Bio-Science/death/Death_Resources_Bibliography.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/buddhism/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # Eighty-Four Thousand Questions | 八万四千问
 

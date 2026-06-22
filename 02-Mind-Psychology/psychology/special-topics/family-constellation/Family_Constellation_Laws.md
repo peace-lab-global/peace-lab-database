@@ -1,7 +1,6 @@
 ---
-
 title: "家庭系统排列理论基础与法则 (Family Constellation Laws & Theoretical Foundations)"
-description: "家庭系统排列理论基础与法则 (Family Constellation Laws & Theoretical Foundations)的详细解析与实践指南"
+description: "家庭系统排列理论基础与法则 (Family Constellation Laws & Theoretical Foundations) —— 特殊专题 · Family Constellation 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
 tags: ["grief", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是家庭系统排列理论基础与法则"
   - "家庭系统排列理论基础与法则的核心概念"
   - "家庭系统排列理论基础与法则的方法与实践"
-trigger_keywords: ["act", "behavioral", "child", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "death/depression/emotion"
-  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
-    relation: "death/depression/emotion"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "death/depression/emotion"
-  - path: "03-Bio-Science/death/Death_Clinical_Workplace_Applications.md"
-    relation: "death/depression/emotion"
-
+trigger_keywords: ["家庭系统排列理论基础与法则", "Family", "Constellation", "Laws", "Theoretical"]
+cross_refs: []
 ---
 # 家庭系统排列理论基础与法则 (Family Constellation Laws & Theoretical Foundations)
 

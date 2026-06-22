@@ -1,7 +1,6 @@
 ---
-
 title: "Crisis Postvention & Recovery (危机后干预与康复)"
-description: "Crisis Postvention & Recovery (危机后干预与康复)的详细解析与实践指南"
+description: "Crisis Postvention & Recovery (危机后干预与康复) —— 临床心理 · Crisis Postvention 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Crisis Postvention"
 tags: ["anxiety", "attachment", "brain", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Crisis Postvention & Recovery"
   - "Crisis Postvention & Recovery的核心概念"
   - "Crisis Postvention & Recovery的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Crisis", "Postvention", "Recovery", "危机后干预与康复"]
+cross_refs: []
 ---
 # Crisis Postvention & Recovery (危机后干预与康复)
 

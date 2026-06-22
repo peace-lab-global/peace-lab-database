@@ -1,7 +1,6 @@
 ---
-
 title: "失眠认知行为疗法 (CBT-I: Cognitive Behavioral Therapy for Insomnia)"
-description: "失眠认知行为疗法 (CBT-I: Cognitive Behavioral Therapy for Insomnia)的详细解析与实践指南"
+description: "失眠认知行为疗法 (CBT-I: Cognitive Behavioral Therapy for Insomnia) —— 躯体与情绪 · Sleep 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
 tags: ["anxiety", "cbt", "sleep", "insomnia"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "失眠认知行为疗法的核心概念"
   - "失眠认知行为疗法的方法与实践"
   - "失眠认知行为疗法的循证证据"
-trigger_keywords: ["失眠认知行为疗法", "aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["失眠认知行为疗法", "CBT-I:", "Cognitive", "Behavioral", "Therapy"]
+cross_refs: []
 ---
 # 失眠认知行为疗法 (CBT-I: Cognitive Behavioral Therapy for Insomnia)
 

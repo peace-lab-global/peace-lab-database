@@ -1,7 +1,6 @@
 ---
-
 title: "莫扎特《第21号钢琴协奏曲》创作背景与心理分析"
-description: "莫扎特《第21号钢琴协奏曲》创作背景与心理分析的详细解析与实践指南"
+description: "莫扎特《第21号钢琴协奏曲》创作背景与心理分析 —— Mozart Piano Concertos · No21 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Piano Concertos > No21"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "莫扎特《第21号钢琴协奏曲》创作背景与心理分析的核心概念"
   - "莫扎特《第21号钢琴协奏曲》创作背景与心理分析的方法与实践"
   - "莫扎特《第21号钢琴协奏曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+trigger_keywords: ["莫扎特《第21号钢琴协奏曲》创作背景与心理分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Overview.md"
+    relation: "婚姻/压力"
 ---
 # 莫扎特《第21号钢琴协奏曲》创作背景与心理分析
 

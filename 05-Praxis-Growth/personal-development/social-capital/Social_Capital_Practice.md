@@ -1,7 +1,6 @@
 ---
-
 title: "社交资本实践 | Social Capital Practice"
-description: "社交资本实践 | Social Capital Practice的详细解析与实践指南"
+description: "社交资本实践 | Social Capital Practice —— 个人发展 · Social Capital 专题"
 category: "实践与个人增长 > 个人发展 > Social Capital"
 tags: ["communication", "intervention", "loneliness", "positive-psychology", "negotiation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是社交资本实践 | Social Capital Practice"
   - "社交资本实践 | Social Capital Practice的核心概念"
   - "社交资本实践 | Social Capital Practice的方法与实践"
-trigger_keywords: ["社交资本实践", "act", "assessment", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["社交资本实践", "Social", "Capital", "Practice"]
+cross_refs: []
 ---
 # 社交资本实践 | Social Capital Practice
 

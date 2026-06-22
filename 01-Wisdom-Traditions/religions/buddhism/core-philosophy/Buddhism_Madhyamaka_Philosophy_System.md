@@ -1,7 +1,6 @@
 ---
-
 title: "中观哲学体系详论 (Madhyamaka Philosophy System)"
-description: "中观哲学体系详论 (Madhyamaka Philosophy System)的详细解析与实践指南"
+description: "中观哲学体系详论 (Madhyamaka Philosophy System) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "decision-making", "depression", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中观哲学体系详论"
   - "中观哲学体系详论的核心概念"
   - "中观哲学体系详论的方法与实践"
-trigger_keywords: ["中观哲学体系详论", "act", "anxiety", "behavioral", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/buddhism/depression"
-
+trigger_keywords: ["中观哲学体系详论", "Madhyamaka", "Philosophy", "System"]
+cross_refs: []
 ---
 # 中观哲学体系详论 (Madhyamaka Philosophy System)
 

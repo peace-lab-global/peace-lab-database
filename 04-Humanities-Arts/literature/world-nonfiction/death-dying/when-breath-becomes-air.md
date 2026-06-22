@@ -1,7 +1,6 @@
 ---
-
 title: "《当呼吸化为空气》When Breath Becomes Air"
-description: "《当呼吸化为空气》When Breath Becomes Air的详细解析与实践指南"
+description: "《当呼吸化为空气》When Breath Becomes Air —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["cinema", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《当呼吸化为空气》When Breath Becomes Air"
   - "《当呼吸化为空气》When Breath Becomes Air的核心概念"
   - "《当呼吸化为空气》When Breath Becomes Air的方法与实践"
-trigger_keywords: ["anxiety", "brain", "breathwork", "cinema"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/exercise"
-
+trigger_keywords: ["cinema", "《当呼吸化为空气》When", "Breath", "Becomes", "Air"]
+cross_refs: []
 ---
 # 《当呼吸化为空气》When Breath Becomes Air
 

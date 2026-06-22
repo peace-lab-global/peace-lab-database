@@ -1,7 +1,6 @@
 ---
-
 title: "四阿含经（Āgama Sūtras）"
-description: "四阿含经（Āgama Sūtras）的详细解析与实践指南"
+description: "四阿含经（Āgama Sūtras） —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "loneliness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是四阿含经（Āgama Sūtras）"
   - "四阿含经（Āgama Sūtras）的核心概念"
   - "四阿含经（Āgama Sūtras）的方法与实践"
-trigger_keywords: ["act", "aging", "breathwork", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
-    relation: "aging/buddhism/emotion"
-
+trigger_keywords: ["四阿含经", "Āgama", "Sūtras"]
+cross_refs: []
 ---
 # 四阿含经（Āgama Sūtras）
 

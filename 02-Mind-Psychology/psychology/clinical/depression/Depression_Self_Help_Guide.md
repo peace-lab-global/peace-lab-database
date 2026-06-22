@@ -1,7 +1,6 @@
 ---
-
 title: "Depression Self-Help Guide (轻中度抑郁自助管理指南)"
-description: "Depression Self-Help Guide (轻中度抑郁自助管理指南)的详细解析与实践指南"
+description: "Depression Self-Help Guide (轻中度抑郁自助管理指南) —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["anxiety", "brain", "cbt", "depression", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Depression Self-Help Guide"
   - "Depression Self-Help Guide的核心概念"
   - "Depression Self-Help Guide的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/neuroscience"
-
+trigger_keywords: ["Depression", "Self-Help", "Guide", "轻中度抑郁自助管理指南"]
+cross_refs: []
 ---
 # Depression Self-Help Guide (轻中度抑郁自助管理指南)
 

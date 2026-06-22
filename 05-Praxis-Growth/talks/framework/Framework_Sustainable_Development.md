@@ -1,7 +1,6 @@
 ---
-
 title: "可持续发展理论 | Sustainable Development"
-description: "可持续发展理论 | Sustainable Development的详细解析与实践指南"
+description: "可持续发展理论 | Sustainable Development —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是可持续发展理论 | Sustainable Development"
   - "可持续发展理论 | Sustainable Development的核心概念"
   - "可持续发展理论 | Sustainable Development的方法与实践"
-trigger_keywords: ["可持续发展理论", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "nutrition/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "nutrition/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "nutrition/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md"
-    relation: "nutrition/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "nutrition/sexuality/therapy"
-
+trigger_keywords: ["可持续发展理论", "Sustainable", "Development"]
+cross_refs: []
 ---
 # 可持续发展理论 | Sustainable Development
 

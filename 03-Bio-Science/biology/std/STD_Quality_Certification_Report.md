@@ -1,7 +1,6 @@
 ---
-
 title: "性传播疾病专业内容体系质量认证报告"
-description: "性传播疾病专业内容体系质量认证报告的详细解析与实践指南"
+description: "性传播疾病专业内容体系质量认证报告 —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["sexuality", "生物学"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是性传播疾病专业内容体系质量认证报告"
   - "性传播疾病专业内容体系质量认证报告的核心概念"
   - "性传播疾病专业内容体系质量认证报告的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "clinical", "sexuality"]
-cross_refs: []
-
+trigger_keywords: ["性传播疾病专业内容体系质量认证报告"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md"
+    relation: "certification/quality/system"
 ---
 # 性传播疾病专业内容体系质量认证报告
 # STD Professional Content System Quality Certification Report

@@ -1,6 +1,6 @@
 ---
 title: "diverse-populations | Index"
-description: "diverse-populations | Index的详细解析与实践指南"
+description: "diverse-populations | Index —— 人际关系 · Diverse Populations 专题"
 category: "心智与心理学 > 人际关系 > Diverse Populations"
 tags: ["人际关系"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是diverse-populations | Index"
   - "diverse-populations | Index的核心概念"
   - "diverse-populations | Index的方法与实践"
-trigger_keywords: ["Index", "人际关系"]
-cross_refs: []
+trigger_keywords: ["人际关系", "diverse-populations"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/populations/INDEX.md"
+    relation: "populations/contents"
 ---
 # diverse-populations | Index
 

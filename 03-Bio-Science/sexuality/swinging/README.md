@@ -1,7 +1,6 @@
 ---
-
 title: "换妻研究专业内容体系概览 (Swinging Research Professional Content Overview)"
-description: "换妻研究专业内容体系概览 (Swinging Research Professional Content Overview)的详细解析与实践指南"
+description: "换妻研究专业内容体系概览 (Swinging Research Professional Content Overview) —— 性学 · Swinging 专题"
 category: "生命科学与生物医学 > 性学 > Swinging"
 tags: ["decision-making", "personality", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是换妻研究专业内容体系概览"
   - "换妻研究专业内容体系概览的核心概念"
   - "换妻研究专业内容体系概览的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/social/friendship/Same_Gender_Friendship_Psychology.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["换妻研究专业内容体系概览", "Swinging", "Research", "Professional", "Content"]
+cross_refs: []
 ---
 # 换妻研究专业内容体系概览 (Swinging Research Professional Content Overview)
 

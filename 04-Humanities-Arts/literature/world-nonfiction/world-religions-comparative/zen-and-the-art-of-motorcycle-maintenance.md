@@ -1,7 +1,6 @@
 ---
-
 title: "《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance"
-description: "《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance的详细解析与实践指南"
+description: "《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance"
   - "《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance的核心概念"
   - "《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance的方法与实践"
-trigger_keywords: ["anxiety", "art", "cognitive", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+trigger_keywords: ["《禅与摩托车维修艺术》Zen", "and", "the", "Art", "of"]
+cross_refs: []
 ---
 # 《禅与摩托车维修艺术》Zen and the Art of Motorcycle Maintenance
 

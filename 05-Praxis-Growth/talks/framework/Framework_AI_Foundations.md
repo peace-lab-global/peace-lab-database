@@ -1,7 +1,6 @@
 ---
-
 title: "人工智能基础 | AI Foundations"
-description: "人工智能基础 | AI Foundations的详细解析与实践指南"
+description: "人工智能基础 | AI Foundations —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人工智能基础 | AI Foundations"
   - "人工智能基础 | AI Foundations的核心概念"
   - "人工智能基础 | AI Foundations的方法与实践"
-trigger_keywords: ["人工智能基础", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/neuroscience/productivity"
-
+trigger_keywords: ["人工智能基础", "AI", "Foundations"]
+cross_refs: []
 ---
 # 人工智能基础 | AI Foundations
 

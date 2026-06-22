@@ -1,7 +1,6 @@
 ---
-
 title: "HRV心率变异性 | Heart Rate Variability"
-description: "HRV心率变异性 | Heart Rate Variability的详细解析与实践指南"
+description: "HRV心率变异性 | Heart Rate Variability —— 生物学 · 心血管 专题"
 category: "生命科学与生物医学 > 生物学 > 心血管"
 tags: ["cardiovascular", "death", "breathwork", "hpa-axis"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是HRV心率变异性 | Heart Rate Variability"
   - "HRV心率变异性 | Heart Rate Variability的核心概念"
   - "HRV心率变异性 | Heart Rate Variability的方法与实践"
-trigger_keywords: ["HRV心率变异性", "anxiety", "assessment", "behavioral", "breathwork"]
+trigger_keywords: ["HRV心率变异性", "Heart", "Rate", "Variability"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/14-HRV-Biofeedback.md"
+    relation: "hrv/心率/变异性"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_02_Breath.md"
+    relation: "hrv/心率/副交感"
 ---
 # HRV心率变异性 | Heart Rate Variability
 

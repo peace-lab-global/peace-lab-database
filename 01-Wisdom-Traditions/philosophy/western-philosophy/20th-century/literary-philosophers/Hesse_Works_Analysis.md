@@ -1,7 +1,6 @@
 ---
-
 title: "黑塞主要作品深度分析"
-description: "黑塞主要作品深度分析的详细解析与实践指南"
+description: "黑塞主要作品深度分析 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是黑塞主要作品深度分析"
   - "黑塞主要作品深度分析的核心概念"
   - "黑塞主要作品深度分析的方法与实践"
-trigger_keywords: ["黑塞主要作品深度分析", "aging", "anxiety", "art", "behavioral"]
+trigger_keywords: ["黑塞主要作品深度分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/siddhartha.md"
+    relation: "siddhartha/智慧/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Thought_Analysis.md"
+    relation: "智慧/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Man_vs_Heaven.md"
+    relation: "智慧/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/demian.md"
+    relation: "demian/意义"
 ---
 # 黑塞主要作品深度分析
 

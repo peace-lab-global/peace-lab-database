@@ -1,7 +1,6 @@
 ---
-
 title: "《宗教经验之种种》The Varieties of Religious Experience"
-description: "《宗教经验之种种》The Varieties of Religious Experience的详细解析与实践指南"
+description: "《宗教经验之种种》The Varieties of Religious Experience —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《宗教经验之种种》The Varieties of Religious Experience"
   - "《宗教经验之种种》The Varieties of Religious Experience的核心概念"
   - "《宗教经验之种种》The Varieties of Religious Experience的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "buddhism"]
+trigger_keywords: ["《宗教经验之种种》The", "Varieties", "of", "Religious", "Experience"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "anxiety/buddhism/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
+    relation: "religious/william/james"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
+    relation: "varieties/religious/experience"
 ---
 # 《宗教经验之种种》The Varieties of Religious Experience
 

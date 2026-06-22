@@ -1,7 +1,6 @@
 ---
-
 title: "衰老与长寿科学总览 | Aging & Longevity Science Overview"
-description: "衰老与长寿科学总览 | Aging & Longevity Science Overview的详细解析与实践指南"
+description: "衰老与长寿科学总览 | Aging & Longevity Science Overview —— 生物学 · 衰老与长寿 专题"
 category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
 tags: ["aging", "calligraphy", "cardiovascular", "longevity", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是衰老与长寿科学总览 | Aging & Longevity Science Overview"
   - "衰老与长寿科学总览 | Aging & Longevity Science Overview的核心概念"
   - "衰老与长寿科学总览 | Aging & Longevity Science Overview的方法与实践"
-trigger_keywords: ["衰老与长寿科学总览", "aging", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/how-we-die.md"
-    relation: "aging/anxiety/art_therapy"
-
+trigger_keywords: ["衰老与长寿科学总览", "Aging", "Longevity", "Science", "Overview"]
+cross_refs: []
 ---
 # 衰老与长寿科学总览 | Aging & Longevity Science Overview
 

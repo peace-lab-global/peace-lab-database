@@ -1,7 +1,6 @@
 ---
-
 title: "用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών"
-description: "用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών的详细解析与实践指南"
+description: "用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών"
   - "用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών的核心概念"
   - "用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών的方法与实践"
-trigger_keywords: ["用户研究方法", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["用户研究方法", "User", "Research", "Methods", "Μέθοδοι"]
+cross_refs: []
 ---
 # 用户研究方法 | User Research Methods | Μέθοδοι Έρευνας Χρηστών
 

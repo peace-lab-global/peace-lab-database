@@ -1,7 +1,6 @@
 ---
-
 title: "自我监测工具"
-description: "自我监测工具的详细解析与实践指南"
+description: "自我监测工具 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["anxiety", "positive-psychology", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自我监测工具"
   - "自我监测工具的核心概念"
   - "自我监测工具的方法与实践"
-trigger_keywords: ["自我监测工具", "anxiety", "assessment", "behavioral", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["自我监测工具"]
+cross_refs: []
 ---
 # 自我监测工具
 

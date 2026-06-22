@@ -1,7 +1,6 @@
 ---
-
 title: "《背叛》核心思想与观点分析"
-description: "《背叛》核心思想与观点分析的详细解析与实践指南"
+description: "《背叛》核心思想与观点分析 —— Contemporary · Betrayal 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Betrayal"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《背叛》核心思想与观点分析"
   - "《背叛》核心思想与观点分析的核心概念"
   - "《背叛》核心思想与观点分析的方法与实践"
-trigger_keywords: ["sexuality", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["文学", "《背叛》核心思想与观点分析"]
+cross_refs: []
 ---
 # 《背叛》核心思想与观点分析
 

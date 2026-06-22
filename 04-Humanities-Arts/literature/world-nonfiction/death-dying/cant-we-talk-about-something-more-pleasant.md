@@ -1,7 +1,6 @@
 ---
-
 title: "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?"
-description: "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的详细解析与实践指南"
+description: "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant? —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?"
   - "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的核心概念"
   - "《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/anxiety/art_therapy"
-
+trigger_keywords: ["《我们能谈点开心的吗》Can't", "We", "Talk", "About", "Something"]
+cross_refs: []
 ---
 # 《我们能谈点开心的吗》Can't We Talk About Something More Pleasant?
 

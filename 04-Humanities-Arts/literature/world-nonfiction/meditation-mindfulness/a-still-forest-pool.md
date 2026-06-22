@@ -1,7 +1,6 @@
 ---
-
 title: "《静谧林池》A Still Forest Pool"
-description: "《静谧林池》A Still Forest Pool的详细解析与实践指南"
+description: "《静谧林池》A Still Forest Pool —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《静谧林池》A Still Forest Pool"
   - "《静谧林池》A Still Forest Pool的核心概念"
   - "《静谧林池》A Still Forest Pool的方法与实践"
-trigger_keywords: ["art", "buddhism", "death", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["文学", "《静谧林池》A", "Still", "Forest", "Pool"]
+cross_refs: []
 ---
 # 《静谧林池》A Still Forest Pool
 

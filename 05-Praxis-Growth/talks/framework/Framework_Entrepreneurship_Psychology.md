@@ -1,7 +1,6 @@
 ---
-
 title: "创业心理学 | Entrepreneurship Psychology"
-description: "创业心理学 | Entrepreneurship Psychology的详细解析与实践指南"
+description: "创业心理学 | Entrepreneurship Psychology —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["communication"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "创业心理学 | Entrepreneurship Psychology的核心概念"
   - "创业心理学 | Entrepreneurship Psychology的方法与实践"
   - "创业心理学 | Entrepreneurship Psychology的自助方法"
-trigger_keywords: ["创业心理学", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["创业心理学", "Entrepreneurship", "Psychology"]
+cross_refs: []
 ---
 # 创业心理学 | Entrepreneurship Psychology
 

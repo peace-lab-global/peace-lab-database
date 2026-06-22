@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与焦虑障碍 | Meditation and Anxiety Disorders"
-description: "冥想与焦虑障碍 | Meditation and Anxiety Disorders的详细解析与实践指南"
+description: "冥想与焦虑障碍 | Meditation and Anxiety Disorders —— 冥想 · Clinical Conditions 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions"
 tags: ["anxiety", "attachment", "brain", "mbsr", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的核心概念"
   - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的方法与实践"
   - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的自助方法"
-trigger_keywords: ["冥想与焦虑障碍", "act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
-    relation: "anxiety/attachment/meditation"
-
+trigger_keywords: ["冥想与焦虑障碍", "Meditation", "and", "Anxiety", "Disorders"]
+cross_refs: []
 ---
 # 冥想与焦虑障碍 | Meditation and Anxiety Disorders
 

@@ -1,7 +1,6 @@
 ---
-
 title: "止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)"
-description: "止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)的详细解析与实践指南"
+description: "止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration) —— 冥想 · Samatha Vipassana 专题"
 category: "心智与心理学 > 冥想 > Samatha Vipassana"
 tags: ["addiction", "anxiety", "brain", "depression", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "止观禅修与现代心理学整合的核心概念"
   - "止观禅修与现代心理学整合的方法与实践"
   - "止观禅修与现代心理学整合的自助方法"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["止观禅修与现代心理学整合", "Samatha-Vipassana", "Modern", "Psychology", "Integration"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "dbt/mbsr/act"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/疗法/mbsr"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md"
+    relation: "cbt/act/疗法"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md"
+    relation: "mbct/正念认知/疗法"
 ---
 # 止观禅修与现代心理学整合 (Samatha-Vipassana & Modern Psychology Integration)
 

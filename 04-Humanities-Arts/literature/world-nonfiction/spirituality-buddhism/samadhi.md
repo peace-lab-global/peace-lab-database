@@ -1,7 +1,6 @@
 ---
-
 title: "《三摩地》Samadhi"
-description: "《三摩地》Samadhi的详细解析与实践指南"
+description: "《三摩地》Samadhi —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["cinema", "music", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《三摩地》Samadhi"
   - "《三摩地》Samadhi的核心概念"
   - "《三摩地》Samadhi的方法与实践"
-trigger_keywords: ["body", "brain", "buddhism", "cinema"]
+trigger_keywords: ["cinema", "《三摩地》Samadhi"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/与当下同行：觉察是当下之门.md"
+    relation: "冥想/瑜伽"
 ---
 # 《三摩地》Samadhi
 

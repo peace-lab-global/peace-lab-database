@@ -1,7 +1,6 @@
 ---
-
 title: "公共政策 | Public Policy"
-description: "公共政策 | Public Policy的详细解析与实践指南"
+description: "公共政策 | Public Policy —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是公共政策 | Public Policy"
   - "公共政策 | Public Policy的核心概念"
   - "公共政策 | Public Policy的方法与实践"
-trigger_keywords: ["公共政策", "act", "assessment", "behavioral", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/productivity/sexuality"
-
+trigger_keywords: ["公共政策", "Public", "Policy"]
+cross_refs: []
 ---
 # 公共政策 | Public Policy
 

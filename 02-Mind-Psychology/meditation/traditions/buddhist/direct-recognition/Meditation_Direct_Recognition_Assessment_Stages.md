@@ -1,7 +1,6 @@
 ---
-
 title: "Direct Recognition Assessment & Stages (直接认知评估与阶次：识别深化与成熟度量表 v2.0)"
-description: "Direct Recognition Assessment & Stages (直接认知评估与阶次：识别深化与成熟度量表 v2.0)的详细解析与实践指南"
+description: "Direct Recognition Assessment & Stages (直接认知评估与阶次：识别深化与成熟度量表 v2.0) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct Recognition Assessment & Stages"
   - "Direct Recognition Assessment & Stages的核心概念"
   - "Direct Recognition Assessment & Stages的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["Direct", "Recognition", "Assessment", "Stages", "直接认知评估与阶次：识别深化与成熟度量表"]
+cross_refs: []
 ---
 # Direct Recognition Assessment & Stages (直接认知评估与阶次：识别深化与成熟度量表 v2.0)
 

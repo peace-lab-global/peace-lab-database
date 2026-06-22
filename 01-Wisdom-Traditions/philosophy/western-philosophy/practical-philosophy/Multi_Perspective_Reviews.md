@@ -1,7 +1,6 @@
 ---
-
 title: "实用哲学经典三方书评"
-description: "实用哲学经典三方书评的详细解析与实践指南"
+description: "实用哲学经典三方书评 —— Western Philosophy · Practical Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是实用哲学经典三方书评"
   - "实用哲学经典三方书评的核心概念"
   - "实用哲学经典三方书评的方法与实践"
-trigger_keywords: ["实用哲学经典三方书评", "anxiety", "art", "behavioral", "body"]
+trigger_keywords: ["实用哲学经典三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/death/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/death/emotion"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/death/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/existential-psychotherapy.md"
+    relation: "存在主义/焦虑/死亡"
+  - path: "02-Mind-Psychology/psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md"
+    relation: "存在主义/认知行为/焦虑"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/死亡"
+  - path: "04-Humanities-Arts/media/tv/breaking-bad/Breaking_Bad_Professional_Critique.md"
+    relation: "存在主义/焦虑/死亡"
 ---
 # 实用哲学经典三方书评
 

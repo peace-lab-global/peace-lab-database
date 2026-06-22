@@ -1,7 +1,6 @@
 ---
-
 title: "Crisis Safety"
-description: "Crisis Safety的详细解析与实践指南"
+description: "Crisis Safety —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["daoism", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Crisis Safety"
   - "Crisis Safety的核心概念"
   - "Crisis Safety的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "daoism/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-
+trigger_keywords: ["Crisis", "Safety"]
+cross_refs: []
 ---
 ## 13. 危机干预与安全计划
 

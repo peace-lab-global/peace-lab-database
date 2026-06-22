@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout Overview (职场倦怠概览)"
-description: "Occupational Burnout Overview (职场倦怠概览)的详细解析与实践指南"
+description: "Occupational Burnout Overview (职场倦怠概览) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Occupational Burnout Overview"
   - "Occupational Burnout Overview的核心概念"
   - "Occupational Burnout Overview的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/personality"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Occupational", "Burnout", "Overview", "职场倦怠概览"]
+cross_refs: []
 ---
 # Occupational Burnout Overview (职场倦怠概览)
 

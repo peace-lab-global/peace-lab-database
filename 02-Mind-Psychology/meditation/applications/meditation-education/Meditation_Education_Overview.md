@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与教育专业概述 | Meditation Education Overview"
-description: "冥想与教育专业概述 | Meditation Education Overview的详细解析与实践指南"
+description: "冥想与教育专业概述 | Meditation Education Overview —— 冥想 · Meditation Education 专题"
 category: "心智与心理学 > 冥想 > Meditation Education"
 tags: ["anxiety", "brain", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想与教育专业概述 | Meditation Education Overview"
   - "冥想与教育专业概述 | Meditation Education Overview的核心概念"
   - "冥想与教育专业概述 | Meditation Education Overview的方法与实践"
-trigger_keywords: ["冥想与教育专业概述", "act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
-    relation: "anxiety/exercise/meditation"
-
+trigger_keywords: ["冥想与教育专业概述", "Meditation", "Education", "Overview"]
+cross_refs: []
 ---
 # 冥想与教育专业概述 | Meditation Education Overview
 

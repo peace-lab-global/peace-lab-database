@@ -1,7 +1,6 @@
 ---
-
 title: "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）"
-description: "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）的详细解析与实践指南"
+description: "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि） —— Masters · Hindu Vedantic 专题"
 category: "心智与心理学 > 冥想 > Masters > Hindu Vedantic"
 tags: ["meditation", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）"
   - "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）的核心概念"
   - "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）的方法与实践"
-trigger_keywords: ["拉玛那", "body", "death", "exercise", "meditation"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
-    relation: "death/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "death/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "death/exercise/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "death/exercise/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "death/exercise/meditation"
-
+trigger_keywords: ["拉玛那", "exercise", "meditation"]
+cross_refs: []
 ---
 # 拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）
 

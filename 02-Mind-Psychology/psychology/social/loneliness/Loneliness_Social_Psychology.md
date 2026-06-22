@@ -1,7 +1,6 @@
 ---
-
 title: "孤独社会心理学与社区干预 (Loneliness Social Psychology & Community Interventions)"
-description: "孤独社会心理学与社区干预 (Loneliness Social Psychology & Community Interventions)的详细解析与实践指南"
+description: "孤独社会心理学与社区干预 (Loneliness Social Psychology & Community Interventions) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "孤独社会心理学与社区干预的核心概念"
   - "孤独社会心理学与社区干预的方法与实践"
   - "孤独社会心理学与社区干预的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["孤独社会心理学与社区干预", "Loneliness", "Social", "Psychology", "Community"]
+cross_refs: []
 ---
 # 孤独社会心理学与社区干预 (Loneliness Social Psychology & Community Interventions)
 

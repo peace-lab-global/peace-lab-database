@@ -1,7 +1,6 @@
 ---
-
 title: "乔治·贝克莱 (George Berkeley)"
-description: "乔治·贝克莱 (George Berkeley)的详细解析与实践指南"
+description: "乔治·贝克莱 (George Berkeley) —— Early Modern · Empiricism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Empiricism"
 tags: ["cbt", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是乔治·贝克莱"
   - "乔治·贝克莱的核心概念"
   - "乔治·贝克莱的方法与实践"
-trigger_keywords: ["乔治", "贝克莱", "behavioral", "cbt", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "neuroscience/sexuality/therapy"
-
+trigger_keywords: ["乔治", "贝克莱", "cbt"]
+cross_refs: []
 ---
 # 乔治·贝克莱 (George Berkeley)
 

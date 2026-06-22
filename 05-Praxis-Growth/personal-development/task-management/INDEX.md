@@ -1,7 +1,6 @@
 ---
-
 title: "task-management | Index"
-description: "task-management | Index的详细解析与实践指南"
+description: "task-management | Index —— 个人发展 · Task Management 专题"
 category: "实践与个人增长 > 个人发展 > Task Management"
 tags: ["个人发展"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是task-management | Index"
   - "task-management | Index的核心概念"
   - "task-management | Index的方法与实践"
-trigger_keywords: ["Index", "psychology", "个人发展"]
+trigger_keywords: ["个人发展", "task-management"]
 cross_refs: []
-
 ---
 # task-management | Index
 

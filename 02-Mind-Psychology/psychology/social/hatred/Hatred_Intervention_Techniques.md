@@ -1,7 +1,6 @@
 ---
-
 title: "Hatred Intervention Techniques (仇恨的干预策略与循证治疗方法)"
-description: "Hatred Intervention Techniques (仇恨的干预策略与循证治疗方法)的详细解析与实践指南"
+description: "Hatred Intervention Techniques (仇恨的干预策略与循证治疗方法) —— 社会心理学 · Hatred 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
 tags: ["anxiety", "cbt", "emdr", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Hatred Intervention Techniques"
   - "Hatred Intervention Techniques的核心概念"
   - "Hatred Intervention Techniques的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/body-shame/clinical/Body_Shame_Treatment_Interventions.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Hatred", "Intervention", "Techniques", "仇恨的干预策略与循证治疗方法"]
+cross_refs: []
 ---
 # Hatred Intervention Techniques (仇恨的干预策略与循证治疗方法)
 

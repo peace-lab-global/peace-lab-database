@@ -1,7 +1,6 @@
 ---
-
 title: "书法疗愈 INDEX | Calligraphy Therapy"
-description: "书法疗愈 INDEX | Calligraphy Therapy的详细解析与实践指南"
+description: "书法疗愈 INDEX | Calligraphy Therapy —— 艺术 · 书法疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
 tags: ["act-therapy", "calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是书法疗愈 INDEX | Calligraphy Therapy"
   - "书法疗愈 INDEX | Calligraphy Therapy的核心概念"
   - "书法疗愈 INDEX | Calligraphy Therapy的方法与实践"
-trigger_keywords: ["书法疗愈 INDEX", "act", "act-therapy", "aging", "anxiety"]
+trigger_keywords: ["书法疗愈 INDEX", "act-therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "01-Wisdom-Traditions/tai-chi/culture-art/TaiChi_Calligraphy_Aesthetics.md"
+    relation: "书法/calligraphy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "书法/calligraphy"
 ---
 # 书法疗愈 INDEX | Calligraphy Therapy
 

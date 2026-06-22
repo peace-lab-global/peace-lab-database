@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Psychology Quality Report (约会心理学质量报告)"
-description: "Dating Psychology Quality Report (约会心理学质量报告)的详细解析与实践指南"
+description: "Dating Psychology Quality Report (约会心理学质量报告) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["attachment", "intervention", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Dating Psychology Quality Report"
   - "Dating Psychology Quality Report的核心概念"
   - "Dating Psychology Quality Report的方法与实践"
-trigger_keywords: ["assessment", "attachment", "clinical", "communication"]
+trigger_keywords: ["Dating", "Psychology", "Quality", "Report", "约会心理学质量报告"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "attachment/communication/neuroscience"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/GENDER_DISCRIMINATION_QUALITY_REPORT.md"
+    relation: "quality/completeness/report"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Quality_Assessment_Report.md"
+    relation: "quality/report/assessment"
+  - path: "03-Bio-Science/biology/std/STD_Quality_Report.md"
+    relation: "completeness/quality/report"
 ---
 # Dating Psychology Quality Report (约会心理学质量报告)
 

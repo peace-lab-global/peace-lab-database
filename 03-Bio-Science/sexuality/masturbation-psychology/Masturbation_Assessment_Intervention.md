@@ -1,7 +1,6 @@
 ---
-
 title: "Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)"
-description: "Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)的详细解析与实践指南"
+description: "Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预) —— 性学 · Masturbation Psychology 专题"
 category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Mental Health Assessment and Intervention for Masturbation-Related Issues"
   - "Mental Health Assessment and Intervention for Masturbation-Related Issues的核心概念"
   - "Mental Health Assessment and Intervention for Masturbation-Related Issues的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["Mental", "Health", "Assessment", "and", "Intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Pornography_Compulsive_Sexual_Behavior.md"
+    relation: "csbd/compulsive/强迫"
+  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md"
+    relation: "csbd/成瘾/icd-"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Diagnosis.md"
+    relation: "强迫/icd-/障碍"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Clinical_Applications.md"
+    relation: "成瘾/icd-/problematic"
 ---
 # Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)
 

@@ -1,6 +1,6 @@
 ---
 title: "social-media | Index"
-description: "social-media | Index的详细解析与实践指南"
+description: "social-media | Index —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["个人发展"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是social-media | Index"
   - "social-media | Index的核心概念"
   - "social-media | Index的方法与实践"
-trigger_keywords: ["Index", "个人发展"]
+trigger_keywords: ["个人发展", "social-media"]
 cross_refs: []
 ---
 # social-media | Index

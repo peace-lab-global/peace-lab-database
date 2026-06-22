@@ -1,7 +1,6 @@
 ---
-
 title: "婚姻冲突的神经科学 (Neuroscience of Marital Conflict)"
-description: "婚姻冲突的神经科学 (Neuroscience of Marital Conflict)的详细解析与实践指南"
+description: "婚姻冲突的神经科学 (Neuroscience of Marital Conflict) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment", "brain", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是婚姻冲突的神经科学"
   - "婚姻冲突的神经科学的核心概念"
   - "婚姻冲突的神经科学的方法与实践"
-trigger_keywords: ["婚姻冲突的神经科学", "act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["婚姻冲突的神经科学", "Neuroscience", "of", "Marital", "Conflict"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "conflict/冲突/resolution"
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "conflict/冲突/resolution"
 ---
 # 婚姻冲突的神经科学 (Neuroscience of Marital Conflict)
 

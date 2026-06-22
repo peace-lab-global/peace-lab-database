@@ -1,7 +1,6 @@
 ---
-
 title: "经典电影产业分析：商业成功与文化影响的经济学解读"
-description: "经典电影产业分析：商业成功与文化影响的经济学解读的详细解析与实践指南"
+description: "经典电影产业分析：商业成功与文化影响的经济学解读 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema", "daoism", "decision-making", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是经典电影产业分析：商业成功与文化影响的经济学解读"
   - "经典电影产业分析：商业成功与文化影响的经济学解读的核心概念"
   - "经典电影产业分析：商业成功与文化影响的经济学解读的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "cinema"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/daoism/sexuality"
-
+trigger_keywords: ["cinema", "经典电影产业分析：商业成功与文化影响的经济学解读"]
+cross_refs: []
 ---
 # 经典电影产业分析：商业成功与文化影响的经济学解读
 

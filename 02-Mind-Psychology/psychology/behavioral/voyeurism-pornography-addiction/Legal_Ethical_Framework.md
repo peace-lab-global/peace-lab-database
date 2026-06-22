@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖与色情成瘾法律伦理框架 (Legal and Ethical Framework for Voyeurism and Pornography Addiction)"
-description: "窥淫癖与色情成瘾法律伦理框架 (Legal and Ethical Framework for Voyeurism and Pornography Addiction)的详细解析与实践指南"
+description: "窥淫癖与色情成瘾法律伦理框架 (Legal and Ethical Framework for Voyeurism and Pornography Addiction) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是窥淫癖与色情成瘾法律伦理框架"
   - "窥淫癖与色情成瘾法律伦理框架的核心概念"
   - "窥淫癖与色情成瘾法律伦理框架的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/sexuality"
-
+trigger_keywords: ["窥淫癖与色情成瘾法律伦理框架", "Legal", "and", "Ethical", "Framework"]
+cross_refs: []
 ---
 # 窥淫癖与色情成瘾法律伦理框架 (Legal and Ethical Framework for Voyeurism and Pornography Addiction)
 

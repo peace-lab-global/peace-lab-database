@@ -1,7 +1,6 @@
 ---
-
 title: "晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications"
-description: "晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications的详细解析与实践指南"
+description: "晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications —— 生物学 · 血压调节 专题"
 category: "生命科学与生物医学 > 生物学 > 血压调节"
 tags: ["aging", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications"
   - "晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications的核心概念"
   - "晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications的方法与实践"
-trigger_keywords: ["晨间血压调节临床应用", "act", "aging", "assessment", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Neurobiological_Mechanisms.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "aging/cardiovascular/emotion"
-
+trigger_keywords: ["晨间血压调节临床应用", "Morning", "Blood", "Pressure", "Regulation"]
+cross_refs: []
 ---
 # 晨间血压调节临床应用 | Morning Blood Pressure Regulation Clinical Applications
 

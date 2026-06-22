@@ -1,7 +1,6 @@
 ---
-
 title: "心血管健康 | Cardiovascular Health"
-description: "心血管健康 | Cardiovascular Health的详细解析与实践指南"
+description: "心血管健康 | Cardiovascular Health —— 生物学 · 心血管 专题"
 category: "生命科学与生物医学 > 生物学 > 心血管"
 tags: ["cardiovascular", "exercise", "hpa-axis", "intervention", "nutrition", "breathwork"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是心血管健康 | Cardiovascular Health"
   - "心血管健康 | Cardiovascular Health的核心概念"
   - "心血管健康 | Cardiovascular Health的方法与实践"
-trigger_keywords: ["心血管健康", "assessment", "breathwork", "cardiovascular", "clinical"]
+trigger_keywords: ["心血管健康", "cardiovascular"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "README.md"
-    relation: "cardiovascular/daoism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "cardiovascular/hrv/health"
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Cardiovascular_Metabolic.md"
+    relation: "cardiovascular/运动/health"
 ---
 # 心血管健康 | Cardiovascular Health
 

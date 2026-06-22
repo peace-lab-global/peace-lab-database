@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)"
-description: "Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases Public Health (性传播疾病公共卫生) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases Public Health"
   - "Sexually Transmitted Diseases Public Health的核心概念"
   - "Sexually Transmitted Diseases Public Health的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "communication/death/immune"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "communication/death/immune"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "communication/death/immune"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/death/sexuality"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Public", "Health"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)
 

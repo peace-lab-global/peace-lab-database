@@ -1,7 +1,6 @@
 ---
-
 title: "老年孤独 (Loneliness in Old Age)"
-description: "老年孤独 (Loneliness in Old Age)的详细解析与实践指南"
+description: "老年孤独 (Loneliness in Old Age) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "calligraphy", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是老年孤独"
   - "老年孤独的核心概念"
   - "老年孤独的方法与实践"
-trigger_keywords: ["老年孤独", "adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "aging/anxiety/death"
-  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
-    relation: "aging/anxiety/death"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
-    relation: "aging/anxiety/art_therapy"
-
+trigger_keywords: ["老年孤独", "Loneliness", "in", "Old", "Age"]
+cross_refs: []
 ---
 # 老年孤独 (Loneliness in Old Age)
 

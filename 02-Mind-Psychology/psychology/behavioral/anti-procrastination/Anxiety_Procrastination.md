@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑与拖延"
-description: "焦虑与拖延的详细解析与实践指南"
+description: "焦虑与拖延 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "phobia", "stress", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "焦虑与拖延的核心概念"
   - "焦虑与拖延的方法与实践"
   - "焦虑与拖延的自助方法"
-trigger_keywords: ["焦虑与拖延", "anxiety", "cognitive", "emotion", "phobia"]
+trigger_keywords: ["焦虑与拖延", "phobia"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/emotion/productivity"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "拖延/焦虑"
+  - path: "05-Praxis-Growth/personal-development/procrastination/04_拖延与心理健康.md"
+    relation: "拖延/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "焦虑/暴露/冲突"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/暴露"
 ---
 # 焦虑与拖延
 

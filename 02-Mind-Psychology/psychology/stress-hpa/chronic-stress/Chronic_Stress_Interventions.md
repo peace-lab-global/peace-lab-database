@@ -1,7 +1,6 @@
 ---
-
 title: "慢性压力干预 (Chronic Stress Interventions)"
-description: "慢性压力干预 (Chronic Stress Interventions)的详细解析与实践指南"
+description: "慢性压力干预 (Chronic Stress Interventions) —— 压力与HPA轴 · Chronic Stress 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
 tags: ["anxiety", "mbsr", "emdr", "mindfulness", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是慢性压力干预"
   - "慢性压力干预的核心概念"
   - "慢性压力干预的方法与实践"
-trigger_keywords: ["慢性压力干预", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["慢性压力干预", "Chronic", "Stress", "Interventions"]
 cross_refs:
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/communication"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "stress/mbsr/压力"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-
+    relation: "interventions/chronic/stress"
 ---
 # 慢性压力干预 (Chronic Stress Interventions)
 

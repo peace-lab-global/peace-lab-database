@@ -1,7 +1,6 @@
 ---
-
 title: "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）"
-description: "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）的详细解析与实践指南"
+description: "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द） —— Masters · Contemporary 专题"
 category: "智慧传承 > 瑜伽 > Masters > Contemporary"
 tags: ["meditation", "music", "religion", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）"
   - "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）的核心概念"
   - "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）的方法与实践"
-trigger_keywords: ["斯瓦米", "behavioral", "breathwork", "exercise", "meditation"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "exercise/meditation/sexuality"
-
+trigger_keywords: ["斯瓦米", "exercise", "meditation"]
+cross_refs: []
 ---
 # 斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）
 

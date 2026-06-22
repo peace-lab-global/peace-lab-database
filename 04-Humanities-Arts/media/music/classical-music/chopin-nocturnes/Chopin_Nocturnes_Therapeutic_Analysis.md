@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《夜曲》心理学与疗愈功能分析"
-description: "肖邦《夜曲》心理学与疗愈功能分析的详细解析与实践指南"
+description: "肖邦《夜曲》心理学与疗愈功能分析 —— 古典音乐 · Chopin Nocturnes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Nocturnes"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "肖邦《夜曲》心理学与疗愈功能分析的核心概念"
   - "肖邦《夜曲》心理学与疗愈功能分析的方法与实践"
   - "肖邦《夜曲》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+trigger_keywords: ["肖邦《夜曲》心理学与疗愈功能分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_02_Breath.md"
+    relation: "副交感/呼吸/心率"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Somatic_Regulation_Techniques.md"
+    relation: "呼吸/副交感"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Neuroscience.md"
+    relation: "默认模式/前额叶/神经科学"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "血压/呼吸/情绪调节"
 ---
 # 肖邦《夜曲》心理学与疗愈功能分析
 

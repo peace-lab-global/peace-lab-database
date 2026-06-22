@@ -1,6 +1,6 @@
 ---
 title: "std | Index"
-description: "std | Index的详细解析与实践指南"
+description: "std | Index —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["生物学"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是std | Index"
   - "std | Index的核心概念"
   - "std | Index的方法与实践"
-trigger_keywords: ["std", "Index", "生物学"]
-cross_refs: []
+trigger_keywords: ["std", "生物学"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/INDEX.md"
+    relation: "toolkit/quality/assessment"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality/assessment"
 ---
 # std | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Infidelity Psychology | 出轨心理学"
-description: "Infidelity Psychology | 出轨心理学的详细解析与实践指南"
+description: "Infidelity Psychology | 出轨心理学 —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["decision-making", "habits", "trauma"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "Infidelity Psychology | 出轨心理学的核心概念"
   - "Infidelity Psychology | 出轨心理学的方法与实践"
   - "Infidelity Psychology | 出轨心理学的自助方法"
-trigger_keywords: ["出轨心理学", "assessment", "behavioral", "clinical", "communication"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
-    relation: "attachment/communication/productivity"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
-    relation: "attachment/communication/productivity"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/anger.md"
-    relation: "attachment/communication/productivity"
-  - path: "README.md"
-    relation: "attachment/communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["出轨心理学", "Infidelity", "Psychology"]
+cross_refs: []
 ---
 # Infidelity Psychology | 出轨心理学
 

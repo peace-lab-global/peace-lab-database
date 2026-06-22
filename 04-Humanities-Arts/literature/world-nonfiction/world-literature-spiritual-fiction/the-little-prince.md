@@ -1,7 +1,6 @@
 ---
-
 title: "《小王子》The Little Prince"
-description: "《小王子》The Little Prince的详细解析与实践指南"
+description: "《小王子》The Little Prince —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "loneliness", "suicide"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《小王子》The Little Prince"
   - "《小王子》The Little Prince的核心概念"
   - "《小王子》The Little Prince的方法与实践"
-trigger_keywords: ["child", "death", "literature", "loneliness"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "art_therapy/death/depression"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "death/depression"
-
+trigger_keywords: ["loneliness", "《小王子》The", "Little", "Prince"]
+cross_refs: []
 ---
 # 《小王子》The Little Prince
 

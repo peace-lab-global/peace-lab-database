@@ -1,7 +1,6 @@
 ---
-
 title: "色情内容类型与成瘾风险分析 (Pornography Content Types and Addiction Risk Analysis)"
-description: "色情内容类型与成瘾风险分析 (Pornography Content Types and Addiction Risk Analysis)的详细解析与实践指南"
+description: "色情内容类型与成瘾风险分析 (Pornography Content Types and Addiction Risk Analysis) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety", "attachment", "personality", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是色情内容类型与成瘾风险分析"
   - "色情内容类型与成瘾风险分析的核心概念"
   - "色情内容类型与成瘾风险分析的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["色情内容类型与成瘾风险分析", "Pornography", "Content", "Types", "and"]
+cross_refs: []
 ---
 # 色情内容类型与成瘾风险分析 (Pornography Content Types and Addiction Risk Analysis)
 

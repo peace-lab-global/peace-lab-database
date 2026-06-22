@@ -1,7 +1,6 @@
 ---
-
 title: "孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist"
-description: "孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist的详细解析与实践指南"
+description: "孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist —— Loneliness · Visualization 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness > Visualization"
 tags: ["anxiety", "attachment", "cbt", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist"
   - "孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist的核心概念"
   - "孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/attachment/productivity"
-
+trigger_keywords: ["孤独干预", "Fidelity", "检查清单", "Loneliness", "Intervention"]
+cross_refs: []
 ---
 # 孤独干预 Fidelity 检查清单 | Loneliness Intervention Fidelity Checklist
 

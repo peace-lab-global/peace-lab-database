@@ -1,7 +1,6 @@
 ---
-
 title: "婚姻中的财务冲突 (Financial Conflict in Marriage)"
-description: "婚姻中的财务冲突 (Financial Conflict in Marriage)的详细解析与实践指南"
+description: "婚姻中的财务冲突 (Financial Conflict in Marriage) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["addiction", "anxiety", "attachment", "cbt", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是婚姻中的财务冲突"
   - "婚姻中的财务冲突的核心概念"
   - "婚姻中的财务冲突的方法与实践"
-trigger_keywords: ["婚姻中的财务冲突", "act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["婚姻中的财务冲突", "Financial", "Conflict", "in", "Marriage"]
+cross_refs: []
 ---
 # 婚姻中的财务冲突 (Financial Conflict in Marriage)
 

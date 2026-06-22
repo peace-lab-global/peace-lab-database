@@ -1,7 +1,6 @@
 ---
-
 title: "商业伦理 | Business Ethics"
-description: "商业伦理 | Business Ethics的详细解析与实践指南"
+description: "商业伦理 | Business Ethics —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["addiction", "decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是商业伦理 | Business Ethics"
   - "商业伦理 | Business Ethics的核心概念"
   - "商业伦理 | Business Ethics的方法与实践"
-trigger_keywords: ["商业伦理", "addiction", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["商业伦理", "Business", "Ethics"]
 cross_refs: []
-
 ---
 # 商业伦理 | Business Ethics
 

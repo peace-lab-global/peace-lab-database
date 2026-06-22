@@ -1,7 +1,6 @@
 ---
-
 title: "儿童青少年心理学专业内容质量报告"
-description: "儿童青少年心理学专业内容质量报告的详细解析与实践指南"
+description: "儿童青少年心理学专业内容质量报告 —— Adolescent · Child Development Psychology 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "儿童青少年心理学专业内容质量报告的核心概念"
   - "儿童青少年心理学专业内容质量报告的方法与实践"
   - "儿童青少年心理学专业内容质量报告的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["儿童青少年心理学专业内容质量报告"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Therapeutic_Use.md"
+    relation: "发展心理学/依恋"
 ---
 # 儿童青少年心理学专业内容质量报告
 

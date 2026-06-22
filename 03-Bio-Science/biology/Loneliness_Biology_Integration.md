@@ -1,7 +1,6 @@
 ---
-
 title: "孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)"
-description: "孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)的详细解析与实践指南"
+description: "孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration) —— 生命科学与生物医学 · 生物学 专题"
 category: "生命科学与生物医学 > 生物学"
 tags: ["aging", "brain", "pain", "inflammation", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是孤独的生物学整合：从社会伤口到身体炎症"
   - "孤独的生物学整合：从社会伤口到身体炎症的核心概念"
   - "孤独的生物学整合：从社会伤口到身体炎症的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["孤独的生物学整合：从社会伤口到身体炎症", "Biology", "of", "Loneliness:", "Integration"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Features.md"
-    relation: "aging/anxiety/cardiovascular"
-
+    relation: "炎症/hpa/loneliness"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "免疫/炎症/压力"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Neurobiological_Mechanisms.md"
+    relation: "hpa/炎症/免疫"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+    relation: "hpa/炎症/免疫"
 ---
 # 孤独的生物学整合：从社会伤口到身体炎症 (Biology of Loneliness: Integration)
 

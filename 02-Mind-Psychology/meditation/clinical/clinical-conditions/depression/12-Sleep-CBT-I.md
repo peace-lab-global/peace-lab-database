@@ -1,7 +1,6 @@
 ---
-
 title: "Sleep Cbt I"
-description: "Sleep Cbt I的详细解析与实践指南"
+description: "Sleep Cbt I —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "cbt", "cortisol", "sleep", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sleep Cbt I"
   - "Sleep Cbt I的核心概念"
   - "Sleep Cbt I的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Sleep", "Cbt"]
+cross_refs: []
 ---
 ## 12. 睡眠正念与失眠认知行为疗法（CBT-I）整合
 

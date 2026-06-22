@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐"
-description: "巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐的详细解析与实践指南"
+description: "巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐 —— Bach Brandenburg Concertos · No3 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Brandenburg Concertos > No3"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐"
   - "巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐的核心概念"
   - "巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐的方法与实践"
-trigger_keywords: ["art", "assessment", "brain", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐"]
+cross_refs: []
 ---
 # 巴赫《第三勃兰登堡协奏曲》最佳录音版本推荐
 

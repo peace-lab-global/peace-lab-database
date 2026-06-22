@@ -1,7 +1,6 @@
 ---
-
 title: "一个民族的黄昏——文明消逝的记录"
-description: "一个民族的黄昏——文明消逝的记录的详细解析与实践指南"
+description: "一个民族的黄昏——文明消逝的记录 —— Contemporary · The Last Quarter Of The Moon 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
 tags: ["literature", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一个民族的黄昏——文明消逝的记录"
   - "一个民族的黄昏——文明消逝的记录的核心概念"
   - "一个民族的黄昏——文明消逝的记录的方法与实践"
-trigger_keywords: ["developmental", "exercise", "literature", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise"
-
+trigger_keywords: ["exercise", "religion"]
+cross_refs: []
 ---
 # 一个民族的黄昏——文明消逝的记录
 

@@ -1,7 +1,6 @@
 ---
-
 title: "超觉冥想（TM）实践指南"
-description: "超觉冥想（TM）实践指南的详细解析与实践指南"
+description: "超觉冥想（TM）实践指南 —— 冥想 · Transcendental Meditation 专题"
 category: "心智与心理学 > 冥想 > Transcendental Meditation"
 tags: ["anxiety", "brain", "cardiovascular", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是超觉冥想（TM）实践指南"
   - "超觉冥想（TM）实践指南的核心概念"
   - "超觉冥想（TM）实践指南的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Wisdom_Lineage.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "README.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+trigger_keywords: ["超觉冥想", "TM", "实践指南"]
+cross_refs: []
 ---
 # 超觉冥想（TM）实践指南
 

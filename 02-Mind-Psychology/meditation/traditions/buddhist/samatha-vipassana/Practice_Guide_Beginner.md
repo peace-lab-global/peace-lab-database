@@ -1,7 +1,6 @@
 ---
-
 title: "止观禅修实践指南——初学者篇 (Practice Guide: Beginner)"
-description: "止观禅修实践指南——初学者篇 (Practice Guide: Beginner)的详细解析与实践指南"
+description: "止观禅修实践指南——初学者篇 (Practice Guide: Beginner) —— 冥想 · Samatha Vipassana 专题"
 category: "心智与心理学 > 冥想 > Samatha Vipassana"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是止观禅修实践指南——初学者篇"
   - "止观禅修实践指南——初学者篇的核心概念"
   - "止观禅修实践指南——初学者篇的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "depression/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/depression/exercise"
-  - path: "README.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/exercise"
-
+trigger_keywords: ["止观禅修实践指南——初学者篇", "Practice", "Guide:", "Beginner"]
+cross_refs: []
 ---
 # 止观禅修实践指南——初学者篇 (Practice Guide: Beginner)
 

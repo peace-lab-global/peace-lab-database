@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: Cognitive Impact (职场倦怠：认知与专注力影响)"
-description: "Occupational Burnout: Cognitive Impact (职场倦怠：认知与专注力影响)的详细解析与实践指南"
+description: "Occupational Burnout: Cognitive Impact (职场倦怠：认知与专注力影响) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "brain", "cortisol", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Occupational Burnout: Cognitive Impact"
   - "Occupational Burnout: Cognitive Impact的核心概念"
   - "Occupational Burnout: Cognitive Impact的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Core_Overview.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["Occupational", "Burnout:", "Cognitive", "Impact", "职场倦怠：认知与专注力影响"]
+cross_refs: []
 ---
 # Occupational Burnout: Cognitive Impact (职场倦怠：认知与专注力影响)
 

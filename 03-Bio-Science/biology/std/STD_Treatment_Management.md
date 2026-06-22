@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases Treatment and Management (性传播疾病治疗管理)"
-description: "Sexually Transmitted Diseases Treatment and Management (性传播疾病治疗管理)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases Treatment and Management (性传播疾病治疗管理) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases Treatment and Management"
   - "Sexually Transmitted Diseases Treatment and Management的核心概念"
   - "Sexually Transmitted Diseases Treatment and Management的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
-    relation: "anxiety/communication/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Treatment", "and"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases Treatment and Management (性传播疾病治疗管理)
 

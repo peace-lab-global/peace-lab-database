@@ -1,7 +1,6 @@
 ---
-
 title: "17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence"
-description: "17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence的详细解析与实践指南"
+description: "17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "mbsr", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence"
   - "17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence的核心概念"
   - "17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["17.", "跨文化循证证据与本土化研究", "Cross-Cultural", "Evidence"]
+cross_refs: []
 ---
 # 17. 跨文化循证证据与本土化研究 | Cross-Cultural Evidence
 

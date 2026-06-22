@@ -1,7 +1,6 @@
 ---
-
 title: "办公室眼部放松：科学护眼与视觉疲劳管理"
-description: "办公室眼部放松：科学护眼与视觉疲劳管理的详细解析与实践指南"
+description: "办公室眼部放松：科学护眼与视觉疲劳管理 —— 生物学 · Office Eye Relaxation 专题"
 category: "生命科学与生物医学 > 生物学 > Office Eye Relaxation"
 tags: ["aging", "brain", "pain", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是办公室眼部放松：科学护眼与视觉疲劳管理"
   - "办公室眼部放松：科学护眼与视觉疲劳管理的核心概念"
   - "办公室眼部放松：科学护眼与视觉疲劳管理的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "02-Mind-Psychology/INDEX.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md"
-    relation: "aging/emotion/neuroscience"
-
+trigger_keywords: ["办公室眼部放松：科学护眼与视觉疲劳管理"]
+cross_refs: []
 ---
 # 办公室眼部放松：科学护眼与视觉疲劳管理
 

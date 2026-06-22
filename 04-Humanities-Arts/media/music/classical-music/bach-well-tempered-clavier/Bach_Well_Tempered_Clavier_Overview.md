@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《十二平均律键盘曲集》综合指南"
-description: "巴赫《十二平均律键盘曲集》综合指南的详细解析与实践指南"
+description: "巴赫《十二平均律键盘曲集》综合指南 —— 古典音乐 · Bach Well Tempered Clavier 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Well Tempered Clavier"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫《十二平均律键盘曲集》综合指南"
   - "巴赫《十二平均律键盘曲集》综合指南的核心概念"
   - "巴赫《十二平均律键盘曲集》综合指南的方法与实践"
-trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["巴赫《十二平均律键盘曲集》综合指南"]
+cross_refs: []
 ---
 # 巴赫《十二平均律键盘曲集》综合指南
 

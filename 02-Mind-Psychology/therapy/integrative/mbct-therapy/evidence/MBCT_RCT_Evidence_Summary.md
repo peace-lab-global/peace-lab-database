@@ -1,7 +1,6 @@
 ---
-
 title: "MBCT 正念认知疗法 RCT 证据摘要"
-description: "MBCT 正念认知疗法 RCT 证据摘要的详细解析与实践指南"
+description: "MBCT 正念认知疗法 RCT 证据摘要 —— 正念认知疗法 · Evidence 专题"
 category: "心智与心理学 > 疗法 > 正念认知疗法 > Evidence"
 tags: ["depression", "intervention", "mbct", "meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "MBCT 正念认知疗法 RCT 证据摘要的核心概念"
   - "MBCT 正念认知疗法 RCT 证据摘要的方法与实践"
   - "MBCT 正念认知疗法 RCT 证据摘要的循证证据"
-trigger_keywords: ["body", "clinical", "cognitive", "depression"]
+trigger_keywords: ["depression", "MBCT", "正念认知疗法", "RCT", "证据摘要"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
-    relation: "depression/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "depression/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "depression/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/meditation/sexuality"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
+    relation: "rct/al/et"
 ---
 # MBCT 正念认知疗法 RCT 证据摘要
 

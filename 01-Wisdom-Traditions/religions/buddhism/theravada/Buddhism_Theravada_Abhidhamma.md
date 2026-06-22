@@ -1,7 +1,6 @@
 ---
-
 title: "南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)"
-description: "南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)的详细解析与实践指南"
+description: "南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma) —— 佛教 · Theravada 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
 tags: ["addiction", "attachment", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传佛教与阿毗达摩"
   - "南传佛教与阿毗达摩的核心概念"
   - "南传佛教与阿毗达摩的方法与实践"
-trigger_keywords: ["南传佛教与阿毗达摩", "act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Pema_Chodron.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["南传佛教与阿毗达摩", "Theravāda", "Buddhism", "Abhidhamma"]
+cross_refs: []
 ---
 # 南传佛教与阿毗达摩 (Theravāda Buddhism & Abhidhamma)
 

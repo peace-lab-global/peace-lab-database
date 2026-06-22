@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性焦虑的社会学分析"
-description: "中国社会性焦虑的社会学分析的详细解析与实践指南"
+description: "中国社会性焦虑的社会学分析 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "中国社会性焦虑的社会学分析的核心概念"
   - "中国社会性焦虑的社会学分析的方法与实践"
   - "中国社会性焦虑的社会学分析的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "behavioral", "buddhism"]
+trigger_keywords: ["中国社会性焦虑的社会学分析"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Thought_Analysis.md"
+    relation: "焦虑/创伤"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Sleep_Anxiety.md"
+    relation: "焦虑/运动/压力"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
+    relation: "运动/压力/焦虑"
 ---
 # 中国社会性焦虑的社会学分析
 

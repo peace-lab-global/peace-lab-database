@@ -1,7 +1,6 @@
 ---
-
 title: "成瘾治疗方法 (Addiction Treatment Methods)"
-description: "成瘾治疗方法 (Addiction Treatment Methods)的详细解析与实践指南"
+description: "成瘾治疗方法 (Addiction Treatment Methods) —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["addiction", "anxiety", "attachment", "cbt", "mindfulness", "trauma"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "成瘾治疗方法的核心概念"
   - "成瘾治疗方法的方法与实践"
   - "成瘾治疗方法的循证证据"
-trigger_keywords: ["成瘾治疗方法", "act", "addiction", "anxiety", "attachment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["成瘾治疗方法", "Addiction", "Treatment", "Methods"]
+cross_refs: []
 ---
 # 成瘾治疗方法 (Addiction Treatment Methods)
 

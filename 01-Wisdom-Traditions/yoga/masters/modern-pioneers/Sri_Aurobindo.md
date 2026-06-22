@@ -1,7 +1,6 @@
 ---
-
 title: "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）"
-description: "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的详细解析与实践指南"
+description: "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द） —— Masters · Modern Pioneers 专题"
 category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
 tags: ["philosophy", "spirituality", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）"
   - "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的核心概念"
   - "室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）的方法与实践"
-trigger_keywords: ["室利", "body", "emotion", "exercise", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "emotion/exercise/sexuality"
-
+trigger_keywords: ["室利", "exercise"]
+cross_refs: []
 ---
 # 室利·奥罗宾多（Sri Aurobindo / श्री अरविन्द）
 

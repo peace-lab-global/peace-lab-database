@@ -13,12 +13,14 @@ intent_queries:
   - "气沉丹田怎么练"
 trigger_keywords: ["呼吸", "内劲", "丹田", "腹式呼吸", "胎息"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Bodywork_Silk_Reeling.md"
-    relation: "silk-reeling"
-  - path: "01-Wisdom-Traditions/tai-chi/qigong-neigong/TaiChi_Neigong_Cultivation.md"
-    relation: "neigong-cultivation"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：答疑解惑：冥想中的呼吸.md"
+    relation: "腹式呼吸/呼吸"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/conscious-breathing.md"
+    relation: "呼吸/breathing/腹式呼吸"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Somatic_Regulation_Techniques.md"
+    relation: "呼吸/腹式呼吸/呼吸法"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "呼吸/腹式呼吸"
 ---
 # 呼吸与内劲 | Breathwork & Internal Power
 

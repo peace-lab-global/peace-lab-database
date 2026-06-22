@@ -1,7 +1,6 @@
 ---
-
 title: "《死亡的艺术》The Art of Dying"
-description: "《死亡的艺术》The Art of Dying的详细解析与实践指南"
+description: "《死亡的艺术》The Art of Dying —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《死亡的艺术》The Art of Dying"
   - "《死亡的艺术》The Art of Dying的核心概念"
   - "《死亡的艺术》The Art of Dying的方法与实践"
-trigger_keywords: ["art", "body", "brain", "buddhism"]
+trigger_keywords: ["《死亡的艺术》The", "Art", "of", "Dying"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/INDEX.md"
+    relation: "dying/死亡/临终"
+  - path: "03-Bio-Science/death/Death_Curriculum_Alignment_Audit.md"
+    relation: "dying/死亡/临终"
+  - path: "03-Bio-Science/death/Death_NDE_Near_Death_Experience.md"
+    relation: "nde/临终/死亡"
 ---
 # 《死亡的艺术》The Art of Dying
 

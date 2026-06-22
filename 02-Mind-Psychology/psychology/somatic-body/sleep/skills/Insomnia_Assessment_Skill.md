@@ -89,6 +89,7 @@ clinical_basis:
   - "ISI (Insomnia Severity Index) — Bastien et al., 2001"
   - "AASM 临床实践指南"
   - "CBT-I 循证综述 — Trauer et al., 2015, Annals of Internal Medicine"
+cross_refs: []
 ---
 
 # 失眠与睡眠质量评估 (Insomnia & Sleep Quality Assessment)

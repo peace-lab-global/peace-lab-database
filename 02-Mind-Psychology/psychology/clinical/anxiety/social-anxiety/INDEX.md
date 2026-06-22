@@ -1,7 +1,6 @@
 ---
-
 title: "社交焦虑障碍 (Social Anxiety Disorder) | Index"
-description: "社交焦虑障碍 (Social Anxiety Disorder) | Index的详细解析与实践指南"
+description: "社交焦虑障碍 (Social Anxiety Disorder) | Index —— 焦虑症 · Social Anxiety 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
 tags: ["anxiety", "social", "treatment", "临床心理", "心理学"]
 last_updated: "2026-05"
@@ -13,9 +12,12 @@ intent_queries:
   - "社交焦虑障碍  | Index的核心概念"
   - "社交焦虑障碍  | Index的方法与实践"
   - "社交焦虑障碍  | Index的自助方法"
-trigger_keywords: ["社交焦虑障碍", "Index", "anxiety", "assessment", "clinical", "cognitive"]
-cross_refs: []
-
+trigger_keywords: ["社交焦虑障碍", "Social", "Anxiety", "Disorder"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
+    relation: "anxiety/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Clinical_Assessment_Intervention.md"
+    relation: "anxiety/焦虑/障碍"
 ---
 # 社交焦虑障碍 (Social Anxiety Disorder) | Index
 

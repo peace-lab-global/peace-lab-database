@@ -1,7 +1,6 @@
 ---
-
 title: "德彪西音乐疗愈 (Debussy Music Therapy)"
-description: "德彪西音乐疗愈 (Debussy Music Therapy)的详细解析与实践指南"
+description: "德彪西音乐疗愈 (Debussy Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是德彪西音乐疗愈"
   - "德彪西音乐疗愈的核心概念"
   - "德彪西音乐疗愈的方法与实践"
-trigger_keywords: ["德彪西音乐疗愈", "act", "anxiety", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/exercise"
-
+trigger_keywords: ["德彪西音乐疗愈", "Debussy", "Music", "Therapy"]
+cross_refs: []
 ---
 # 德彪西音乐疗愈 (Debussy Music Therapy)
 

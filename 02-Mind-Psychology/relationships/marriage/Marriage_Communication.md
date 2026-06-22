@@ -1,7 +1,6 @@
 ---
-
 title: "Marriage Communication & Conflict (婚姻沟通与冲突)"
-description: "Marriage Communication & Conflict (婚姻沟通与冲突)的详细解析与实践指南"
+description: "Marriage Communication & Conflict (婚姻沟通与冲突) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "cinema", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Marriage Communication & Conflict"
   - "Marriage Communication & Conflict的核心概念"
   - "Marriage Communication & Conflict的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Marriage", "Communication", "Conflict", "婚姻沟通与冲突"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/communication/effective-communication/Effective_Communication_Overview.md"
+    relation: "nvc/沟通/非暴力沟通"
+  - path: "05-Praxis-Growth/communication/nonviolent-communication/NVC_Overview.md"
+    relation: "nvc/非暴力沟通/communication"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_NVC.md"
+    relation: "nvc/非暴力沟通/冲突"
+  - path: "05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md"
+    relation: "沟通/gottman/冲突"
 ---
 # Marriage Communication & Conflict (婚姻沟通与冲突)
 

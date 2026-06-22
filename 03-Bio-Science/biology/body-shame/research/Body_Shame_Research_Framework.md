@@ -7,16 +7,10 @@ date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/body_image/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Safety_Screening.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "anxiety/communication/depression"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Neuroscience.md"
+    relation: "默认模式/dmn/前额叶"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+    relation: "神经科学/默认模式/障碍"
 ---
 
 # 身体羞耻障碍研究前沿与理论框架

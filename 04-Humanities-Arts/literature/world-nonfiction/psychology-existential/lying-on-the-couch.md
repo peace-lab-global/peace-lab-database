@@ -1,7 +1,6 @@
 ---
-
 title: "《诊疗椅上的谎言》Lying on the Couch"
-description: "《诊疗椅上的谎言》Lying on the Couch的详细解析与实践指南"
+description: "《诊疗椅上的谎言》Lying on the Couch —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["self-esteem", "treatment", "literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是《诊疗椅上的谎言》Lying on the Couch"
   - "《诊疗椅上的谎言》Lying on the Couch的核心概念"
   - "《诊疗椅上的谎言》Lying on the Couch的方法与实践"
-trigger_keywords: ["psychology", "self-esteem", "treatment", "文学"]
+trigger_keywords: ["self-esteem", "treatment", "文学"]
 cross_refs: []
-
 ---
 # 《诊疗椅上的谎言》Lying on the Couch
 

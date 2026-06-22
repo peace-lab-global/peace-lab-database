@@ -1,7 +1,6 @@
 ---
-
 title: "青年群体性压抑特征与干预策略 (Youth Population Sexual Repression Characteristics and Intervention Strategies)"
-description: "青年群体性压抑特征与干预策略 (Youth Population Sexual Repression Characteristics and Intervention Strategies)的详细解析与实践指南"
+description: "青年群体性压抑特征与干预策略 (Youth Population Sexual Repression Characteristics and Intervention Strategies) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是青年群体性压抑特征与干预策略"
   - "青年群体性压抑特征与干预策略的核心概念"
   - "青年群体性压抑特征与干预策略的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["青年群体性压抑特征与干预策略", "Youth", "Population", "Sexual", "Repression"]
+cross_refs: []
 ---
 # 青年群体性压抑特征与干预策略 (Youth Population Sexual Repression Characteristics and Intervention Strategies)
 

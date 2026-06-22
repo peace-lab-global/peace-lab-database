@@ -9,6 +9,7 @@ skills:
     skill_name: 创伤与应激评估
     filename: Trauma_Assessment_Skill.md
     status: active
+cross_refs: []
 ---
 
 # 创伤评估模块清单

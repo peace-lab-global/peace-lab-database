@@ -1,7 +1,6 @@
 ---
-
 title: "《太上感应篇》Taishang Ganying Pian"
-description: "《太上感应篇》Taishang Ganying Pian的详细解析与实践指南"
+description: "《太上感应篇》Taishang Ganying Pian —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature", "personality", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《太上感应篇》Taishang Ganying Pian"
   - "《太上感应篇》Taishang Ganying Pian的核心概念"
   - "《太上感应篇》Taishang Ganying Pian的方法与实践"
-trigger_keywords: ["behavioral", "body", "buddhism", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
-    relation: "buddhism/communication/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-
+trigger_keywords: ["《太上感应篇》Taishang", "Ganying", "Pian"]
+cross_refs: []
 ---
 # 《太上感应篇》Taishang Ganying Pian
 

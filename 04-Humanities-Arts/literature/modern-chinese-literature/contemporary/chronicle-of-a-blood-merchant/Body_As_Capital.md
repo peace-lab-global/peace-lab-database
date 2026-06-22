@@ -1,7 +1,6 @@
 ---
-
 title: "身体作为最后的资本——当你除了血什么都没有"
-description: "身体作为最后的资本——当你除了血什么都没有的详细解析与实践指南"
+description: "身体作为最后的资本——当你除了血什么都没有 —— Contemporary · Chronicle Of A Blood Merchant 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是身体作为最后的资本——当你除了血什么都没有"
   - "身体作为最后的资本——当你除了血什么都没有的核心概念"
   - "身体作为最后的资本——当你除了血什么都没有的方法与实践"
-trigger_keywords: ["body", "brain", "death", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "README.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience"
-
+trigger_keywords: ["文学", "身体作为最后的资本——当你除了血什么都没有"]
+cross_refs: []
 ---
 # 身体作为最后的资本——当你除了血什么都没有
 

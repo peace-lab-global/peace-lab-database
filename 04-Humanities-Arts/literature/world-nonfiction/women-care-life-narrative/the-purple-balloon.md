@@ -1,7 +1,6 @@
 ---
-
 title: "《紫色气球》The Purple Balloon"
-description: "《紫色气球》The Purple Balloon的详细解析与实践指南"
+description: "《紫色气球》The Purple Balloon —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["grief"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《紫色气球》The Purple Balloon"
   - "《紫色气球》The Purple Balloon的核心概念"
   - "《紫色气球》The Purple Balloon的方法与实践"
-trigger_keywords: ["art", "body", "child", "cognitive"]
+trigger_keywords: ["《紫色气球》The", "Purple", "Balloon"]
 cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/depression"
-
+    relation: "临终/死亡"
 ---
 # 《紫色气球》The Purple Balloon
 

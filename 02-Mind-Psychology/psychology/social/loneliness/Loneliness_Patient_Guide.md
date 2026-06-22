@@ -1,7 +1,6 @@
 ---
-
 title: "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone"
-description: "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone的详细解析与实践指南"
+description: "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone"
   - "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone的核心概念"
   - "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["理解孤独：写给每一位感到孤独的人", "Understanding", "Loneliness:", "Guide", "for"]
+cross_refs: []
 ---
 # 理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone
 

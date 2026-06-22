@@ -1,7 +1,6 @@
 ---
-
 title: "transcendental-meditation | 超觉静坐 Index"
-description: "transcendental-meditation | 超觉静坐 Index的详细解析与实践指南"
+description: "transcendental-meditation | 超觉静坐 Index —— 冥想 · Transcendental Meditation 专题"
 category: "心智与心理学 > 冥想 > Transcendental Meditation"
 tags: ["meditation", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是transcendental-meditation | 超觉静坐 Index"
   - "transcendental-meditation | 超觉静坐 Index的核心概念"
   - "transcendental-meditation | 超觉静坐 Index的方法与实践"
-trigger_keywords: ["超觉静坐 Index", "clinical", "meditation", "neuroscience", "冥想"]
+trigger_keywords: ["超觉静坐 Index", "meditation", "neuroscience", "冥想"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/transcendental-meditation.md"
+    relation: "tm/transcendental/冥想"
 ---
 # transcendental-meditation | 超觉静坐 Index
 

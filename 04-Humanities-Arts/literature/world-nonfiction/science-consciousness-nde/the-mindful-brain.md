@@ -1,7 +1,6 @@
 ---
-
 title: "《正念的大脑》The Mindful Brain"
-description: "《正念的大脑》The Mindful Brain的详细解析与实践指南"
+description: "《正念的大脑》The Mindful Brain —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《正念的大脑》The Mindful Brain"
   - "《正念的大脑》The Mindful Brain的核心概念"
   - "《正念的大脑》The Mindful Brain的方法与实践"
-trigger_keywords: ["anxiety", "art", "attachment", "behavioral"]
+trigger_keywords: ["《正念的大脑》The", "Mindful", "Brain"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "正念/觉察/冥想"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "正念/mindful/觉察"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md"
+    relation: "正念/mindful/神经科学"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/18-Mindful-Meetings-and-Communication.md"
+    relation: "正念/mindful/觉察"
 ---
 # 《正念的大脑》The Mindful Brain
 

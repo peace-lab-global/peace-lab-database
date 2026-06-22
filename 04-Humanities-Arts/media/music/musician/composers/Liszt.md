@@ -1,7 +1,6 @@
 ---
-
 title: "Liszt (李斯特)：钢琴之王与浪漫主义先锋"
-description: "Liszt (李斯特)：钢琴之王与浪漫主义先锋的详细解析与实践指南"
+description: "Liszt (李斯特)：钢琴之王与浪漫主义先锋 —— Musician · Composers 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Liszt ：钢琴之王与浪漫主义先锋"
   - "Liszt ：钢琴之王与浪漫主义先锋的核心概念"
   - "Liszt ：钢琴之王与浪漫主义先锋的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Liszt", "李斯特", "：钢琴之王与浪漫主义先锋"]
+cross_refs: []
 ---
 # Liszt (李斯特)：钢琴之王与浪漫主义先锋
 

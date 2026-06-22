@@ -1,7 +1,6 @@
 ---
-
 title: "度母完整修持仪轨 (Tara Sadhana)"
-description: "度母完整修持仪轨 (Tara Sadhana)的详细解析与实践指南"
+description: "度母完整修持仪轨 (Tara Sadhana) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "healing", "phobia", "positive-psychology", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是度母完整修持仪轨"
   - "度母完整修持仪轨的核心概念"
   - "度母完整修持仪轨的方法与实践"
-trigger_keywords: ["度母完整修持仪轨", "anxiety", "buddhism", "emotion", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-2-five-obstacles-of-meditation.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["度母完整修持仪轨", "healing"]
+cross_refs: []
 ---
 # 度母完整修持仪轨 (Tara Sadhana)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "莫言 (Mo Yan, 1955-)：首位诺贝尔文学奖获得者的文学奇迹"
-description: "莫言 (Mo Yan, 1955-)：首位诺贝尔文学奖获得者的文学奇迹的详细解析与实践指南"
+description: "莫言 (Mo Yan, 1955-)：首位诺贝尔文学奖获得者的文学奇迹 —— Contemporary · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Authors"
 tags: ["habits", "literature", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是莫言 ：首位诺贝尔文学奖获得者的文学奇迹"
   - "莫言 ：首位诺贝尔文学奖获得者的文学奇迹的核心概念"
   - "莫言 ：首位诺贝尔文学奖获得者的文学奇迹的方法与实践"
-trigger_keywords: ["act", "adolescent", "art", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "exercise/nutrition/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/nutrition/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "exercise/nutrition/productivity"
-
+trigger_keywords: ["莫言", "Mo", "Yan", "1955-", "：首位诺贝尔文学奖获得者的文学奇迹"]
+cross_refs: []
 ---
 # 莫言 (Mo Yan, 1955-)：首位诺贝尔文学奖获得者的文学奇迹
 

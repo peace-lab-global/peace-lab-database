@@ -1,7 +1,6 @@
 ---
-
 title: "园艺疗愈总览 | Horticultural Therapy Overview"
-description: "园艺疗愈总览 | Horticultural Therapy Overview的详细解析与实践指南"
+description: "园艺疗愈总览 | Horticultural Therapy Overview —— 艺术 · 园艺疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
 tags: ["cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是园艺疗愈总览 | Horticultural Therapy Overview"
   - "园艺疗愈总览 | Horticultural Therapy Overview的核心概念"
   - "园艺疗愈总览 | Horticultural Therapy Overview的方法与实践"
-trigger_keywords: ["园艺疗愈总览", "aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["园艺疗愈总览", "Horticultural", "Therapy", "Overview"]
+cross_refs: []
 ---
 # 园艺疗愈总览 | Horticultural Therapy Overview
 

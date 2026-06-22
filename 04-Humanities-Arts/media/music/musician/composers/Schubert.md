@@ -1,7 +1,6 @@
 ---
-
 title: "Schubert (舒伯特)：艺术歌曲之王"
-description: "Schubert (舒伯特)：艺术歌曲之王的详细解析与实践指南"
+description: "Schubert (舒伯特)：艺术歌曲之王 —— Musician · Composers 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
 tags: ["habits", "literature", "loneliness", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Schubert ：艺术歌曲之王"
   - "Schubert ：艺术歌曲之王的核心概念"
   - "Schubert ：艺术歌曲之王的方法与实践"
-trigger_keywords: ["act", "art", "death", "developmental"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
-    relation: "communication/death/emotion"
-
+trigger_keywords: ["Schubert", "舒伯特", "：艺术歌曲之王"]
+cross_refs: []
 ---
 # Schubert (舒伯特)：艺术歌曲之王
 

@@ -1,7 +1,6 @@
 ---
-
 title: "汉传佛教瑜伽焰口施食仪轨 (Chinese Yogacara Flaming Mouth Ritual)"
-description: "汉传佛教瑜伽焰口施食仪轨 (Chinese Yogacara Flaming Mouth Ritual)的详细解析与实践指南"
+description: "汉传佛教瑜伽焰口施食仪轨 (Chinese Yogacara Flaming Mouth Ritual) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "healing", "phobia", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是汉传佛教瑜伽焰口施食仪轨"
   - "汉传佛教瑜伽焰口施食仪轨的核心概念"
   - "汉传佛教瑜伽焰口施食仪轨的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "death", "developmental"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/death"
-
+trigger_keywords: ["汉传佛教瑜伽焰口施食仪轨", "Chinese", "Yogacara", "Flaming", "Mouth"]
+cross_refs: []
 ---
 # 汉传佛教瑜伽焰口施食仪轨 (Chinese Yogacara Flaming Mouth Ritual)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Anatomy & Physiology (解剖与生理)"
-description: "Anatomy & Physiology (解剖与生理)的详细解析与实践指南"
+description: "Anatomy & Physiology (解剖与生理) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cardiovascular", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anatomy & Physiology"
   - "Anatomy & Physiology的核心概念"
   - "Anatomy & Physiology的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/exercise"
-
+trigger_keywords: ["Anatomy", "Physiology", "解剖与生理"]
+cross_refs: []
 ---
 # Anatomy & Physiology (解剖与生理)
 

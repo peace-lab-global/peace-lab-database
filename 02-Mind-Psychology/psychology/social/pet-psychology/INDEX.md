@@ -1,6 +1,6 @@
 ---
 title: "pet-psychology | Index"
-description: "pet-psychology | Index的详细解析与实践指南"
+description: "pet-psychology | Index —— 社会心理学 · Pet Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Pet Psychology"
 tags: ["心理学", "社会心理学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是pet-psychology | Index"
   - "pet-psychology | Index的核心概念"
   - "pet-psychology | Index的方法与实践"
-trigger_keywords: ["Index", "心理学", "社会心理学"]
+trigger_keywords: ["心理学", "社会心理学"]
 cross_refs: []
 ---
 # pet-psychology | Index

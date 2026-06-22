@@ -1,7 +1,6 @@
 ---
-
 title: "佛教经典 (Buddhist Sutras)"
-description: "佛教经典 (Buddhist Sutras)的详细解析与实践指南"
+description: "佛教经典 (Buddhist Sutras) —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "dzogchen", "philosophy", "yoga", "zen", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是佛教经典"
   - "佛教经典的核心概念"
   - "佛教经典的方法与实践"
-trigger_keywords: ["佛教经典", "breathwork", "buddhism", "dzogchen", "philosophy"]
+trigger_keywords: ["佛教经典", "dzogchen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/cardiovascular/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "sutra/般若/菩萨"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "sutra/般若/禅宗"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "sutra/diamond/般若"
 ---
 # 佛教经典 (Buddhist Sutras)
 

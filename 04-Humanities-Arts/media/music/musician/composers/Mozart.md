@@ -1,7 +1,6 @@
 ---
-
 title: "Mozart (莫扎特)：古典主义的完美典范"
-description: "Mozart (莫扎特)：古典主义的完美典范的详细解析与实践指南"
+description: "Mozart (莫扎特)：古典主义的完美典范 —— Musician · Composers 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
 tags: ["cinema", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mozart ：古典主义的完美典范"
   - "Mozart ：古典主义的完美典范的核心概念"
   - "Mozart ：古典主义的完美典范的方法与实践"
-trigger_keywords: ["act", "art", "brain", "cinema"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["cinema", "Mozart", "莫扎特", "：古典主义的完美典范"]
+cross_refs: []
 ---
 # Mozart (莫扎特)：古典主义的完美典范
 

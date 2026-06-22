@@ -1,7 +1,6 @@
 ---
-
 title: "05-Praxis-Growth | 实践与个人增长"
-description: "05-Praxis-Growth | 实践与个人增长的详细解析与实践指南"
+description: "05-Praxis-Growth | 实践与个人增长 —— 实践与个人增长 专题"
 category: "实践与个人增长"
 tags: ["communication", "decision-making", "mental-resilience", "habits", "flow", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是05-Praxis-Growth | 实践与个人增长"
   - "05-Praxis-Growth | 实践与个人增长的核心概念"
   - "05-Praxis-Growth | 实践与个人增长的方法与实践"
-trigger_keywords: ["实践与个人增长", "act", "art", "assessment", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["实践与个人增长", "05-Praxis-Growth"]
+cross_refs: []
 ---
 # 05-Praxis-Growth | 实践与个人增长
 

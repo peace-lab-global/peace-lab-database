@@ -1,7 +1,6 @@
 ---
-
 title: "恋尸癖临床诊断标准专业内容体系"
-description: "恋尸癖临床诊断标准专业内容体系的详细解析与实践指南"
+description: "恋尸癖临床诊断标准专业内容体系 —— 行为心理 · Necrophilia 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Necrophilia"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是恋尸癖临床诊断标准专业内容体系"
   - "恋尸癖临床诊断标准专业内容体系的核心概念"
   - "恋尸癖临床诊断标准专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["恋尸癖临床诊断标准专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics2.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Quality_Report.md"
+    relation: "paraphilic/disorders"
+  - path: "04-Humanities-Arts/reading/Reading_Disorders_Intervention.md"
+    relation: "障碍/disorders"
 ---
 # 恋尸癖临床诊断标准专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "皮质醇检测与评估 (Cortisol Assessment & Testing)"
-description: "皮质醇检测与评估 (Cortisol Assessment & Testing)的详细解析与实践指南"
+description: "皮质醇检测与评估 (Cortisol Assessment & Testing) —— 压力与HPA轴 · Cortisol 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cortisol"
 tags: ["anxiety", "brain", "cortisol", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是皮质醇检测与评估"
   - "皮质醇检测与评估的核心概念"
   - "皮质醇检测与评估的方法与实践"
-trigger_keywords: ["皮质醇检测与评估", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["皮质醇检测与评估", "Cortisol", "Assessment", "Testing"]
 cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/immune"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/immune"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/immune"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/neuroscience"
-
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
+    relation: "皮质醇/cortisol/car"
 ---
 # 皮质醇检测与评估 (Cortisol Assessment & Testing)
 

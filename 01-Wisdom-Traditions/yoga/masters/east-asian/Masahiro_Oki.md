@@ -1,7 +1,6 @@
 ---
-
 title: "冲正弘（Masahiro Oki / 沖正弘）"
-description: "冲正弘（Masahiro Oki / 沖正弘）的详细解析与实践指南"
+description: "冲正弘（Masahiro Oki / 沖正弘） —— Masters · East Asian 专题"
 category: "智慧传承 > 瑜伽 > Masters > East Asian"
 tags: ["fasting", "meditation", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冲正弘（Masahiro Oki / 沖正弘）"
   - "冲正弘（Masahiro Oki / 沖正弘）的核心概念"
   - "冲正弘（Masahiro Oki / 沖正弘）的方法与实践"
-trigger_keywords: ["沖正弘）", "body", "breathwork", "exercise", "fasting"]
+trigger_keywords: ["沖正弘）", "exercise", "fasting"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "exercise/meditation/nutrition"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Yoga_Therapeutic_Applications.md"
+    relation: "瑜伽/疗法"
 ---
 # 冲正弘（Masahiro Oki / 沖正弘）
 

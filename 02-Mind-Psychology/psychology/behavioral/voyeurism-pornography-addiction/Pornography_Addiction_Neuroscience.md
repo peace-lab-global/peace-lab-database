@@ -1,6 +1,6 @@
 ---
 title: "色情成瘾神经科学"
-description: "色情成瘾神经科学的详细解析与实践指南"
+description: "色情成瘾神经科学 —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "neuroscience", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是色情成瘾神经科学"
   - "色情成瘾神经科学的核心概念"
   - "色情成瘾神经科学的方法与实践"
-trigger_keywords: ["色情成瘾神经科学", "addiction", "neuroscience", "心理学", "行为心理"]
-cross_refs: []
+trigger_keywords: ["色情成瘾神经科学", "neuroscience", "心理学", "行为心理"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/yixi-talks/Psychology_Neuroscience.md"
+    relation: "神经科学/todo"
 ---
 # 色情成瘾神经科学
 

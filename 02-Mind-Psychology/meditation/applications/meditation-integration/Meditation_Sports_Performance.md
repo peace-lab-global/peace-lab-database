@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与运动表现"
-description: "冥想与运动表现的详细解析与实践指南"
+description: "冥想与运动表现 —— 冥想 · Meditation Integration 专题"
 category: "心智与心理学 > 冥想 > Meditation Integration"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是冥想与运动表现"
   - "冥想与运动表现的核心概念"
   - "冥想与运动表现的方法与实践"
-trigger_keywords: ["冥想与运动表现", "act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["冥想与运动表现"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/exercise"
-  - path: "04-Humanities-Arts/literature/Expanded_Literary_Therapy_Guide_Extended.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "正念/运动/觉察"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/觉察"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "运动/压力/焦虑"
 ---
 # 冥想与运动表现
 

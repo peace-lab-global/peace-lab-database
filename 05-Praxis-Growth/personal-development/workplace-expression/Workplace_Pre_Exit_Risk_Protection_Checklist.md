@@ -1,7 +1,6 @@
 ---
-
 title: "离职前风险自保与证据清单 (Pre-Exit Risk Protection & Evidence Checklist)"
-description: "离职前风险自保与证据清单 (Pre-Exit Risk Protection & Evidence Checklist)的详细解析与实践指南"
+description: "离职前风险自保与证据清单 (Pre-Exit Risk Protection & Evidence Checklist) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "sleep", "个人发展", "negotiation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是离职前风险自保与证据清单"
   - "离职前风险自保与证据清单的核心概念"
   - "离职前风险自保与证据清单的方法与实践"
-trigger_keywords: ["behavioral", "brain", "communication", "emotion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Sleep_Comorbidity.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["离职前风险自保与证据清单", "Pre-Exit", "Risk", "Protection", "Evidence"]
+cross_refs: []
 ---
 # 离职前风险自保与证据清单 (Pre-Exit Risk Protection & Evidence Checklist)
 

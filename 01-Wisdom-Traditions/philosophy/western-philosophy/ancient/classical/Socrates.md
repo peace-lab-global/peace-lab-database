@@ -1,7 +1,6 @@
 ---
-
 title: "苏格拉底 (Socrates)"
-description: "苏格拉底 (Socrates)的详细解析与实践指南"
+description: "苏格拉底 (Socrates) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["cbt", "healing", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是苏格拉底"
   - "苏格拉底的核心概念"
   - "苏格拉底的方法与实践"
-trigger_keywords: ["苏格拉底", "behavioral", "body", "cbt", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
-    relation: "death/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "death/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/INDEX.md"
-    relation: "death/meditation/productivity"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "death/meditation/productivity"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "death/meditation/productivity"
-
+trigger_keywords: ["苏格拉底", "cbt"]
+cross_refs: []
 ---
 # 苏格拉底 (Socrates)
 

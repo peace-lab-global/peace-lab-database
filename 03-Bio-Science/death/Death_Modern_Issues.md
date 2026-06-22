@@ -1,7 +1,6 @@
 ---
-
 title: "Contemporary Issues in Death Philosophy (当代死亡议题)"
-description: "Contemporary Issues in Death Philosophy (当代死亡议题)的详细解析与实践指南"
+description: "Contemporary Issues in Death Philosophy (当代死亡议题) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Contemporary Issues in Death Philosophy"
   - "Contemporary Issues in Death Philosophy的核心概念"
   - "Contemporary Issues in Death Philosophy的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics.md"
-    relation: "aging/anxiety/death"
-  - path: "04-Humanities-Arts/media/media-therapy/Media_Safety_Ethics2.md"
-    relation: "aging/anxiety/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Contemporary", "Issues", "in", "Death", "Philosophy"]
+cross_refs: []
 ---
 # Contemporary Issues in Death Philosophy (当代死亡议题)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《经验的政治》The Politics of Experience"
-description: "《经验的政治》The Politics of Experience的详细解析与实践指南"
+description: "《经验的政治》The Politics of Experience —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["healing", "treatment", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《经验的政治》The Politics of Experience"
   - "《经验的政治》The Politics of Experience的核心概念"
   - "《经验的政治》The Politics of Experience的方法与实践"
-trigger_keywords: ["healing", "psychology", "sexuality", "treatment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["healing", "treatment"]
+cross_refs: []
 ---
 # 《经验的政治》The Politics of Experience
 

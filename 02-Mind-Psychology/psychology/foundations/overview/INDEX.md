@@ -1,6 +1,6 @@
 ---
 title: "overview | Index"
-description: "overview | Index的详细解析与实践指南"
+description: "overview | Index —— 心理学基础 · Overview 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
 tags: ["心理学", "心理学基础"]
 last_updated: "2026-05"
@@ -11,18 +11,10 @@ intent_queries:
   - "什么是overview | Index"
   - "overview | Index的核心概念"
   - "overview | Index的方法与实践"
-trigger_keywords: ["overview", "Index", "心理学", "心理学基础"]
+trigger_keywords: ["overview", "心理学", "心理学基础"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "emotion/therapy"
+  - path: "04-Humanities-Arts/arts/ballet/general/INDEX.md"
+    relation: "general/resources/contents"
 ---
 # overview | Index
 

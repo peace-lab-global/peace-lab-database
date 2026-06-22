@@ -13,10 +13,10 @@ intent_queries:
   - "太极与认知功能"
 trigger_keywords: ["认知", "记忆", "注意力", "执行功能", "老年痴呆"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience"
-  - path: "01-Wisdom-Traditions/tai-chi/neuroscience-research/TaiChi_Brain_Imaging.md"
-    relation: "brain-imaging"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "太极/bdnf/海马"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 太极与认知老化 | Tai Chi & Cognitive Aging
 

@@ -1,7 +1,6 @@
 ---
-
 title: "中医心理学理论与实践专业内容体系"
-description: "中医心理学理论与实践专业内容体系的详细解析与实践指南"
+description: "中医心理学理论与实践专业内容体系 —— 特殊专题 · Tcm Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Tcm Psychology"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中医心理学理论与实践专业内容体系的核心概念"
   - "中医心理学理论与实践专业内容体系的方法与实践"
   - "中医心理学理论与实践专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["中医心理学理论与实践专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_YinYang_FiveElements.md"
+    relation: "五行/阴阳/经络"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "推拿/经络/阴阳"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "五行/阴阳/针灸"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "阴阳/五行"
 ---
 # 中医心理学理论与实践专业内容体系
 

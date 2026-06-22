@@ -1,7 +1,6 @@
 ---
-
 title: "Emotion & Resilience (情感管理与幸福干预)"
-description: "Emotion & Resilience (情感管理与幸福干预)的详细解析与实践指南"
+description: "Emotion & Resilience (情感管理与幸福干预) —— 心理学基础 · Overview 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Emotion & Resilience"
   - "Emotion & Resilience的核心概念"
   - "Emotion & Resilience的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "README.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Emotion", "Resilience", "情感管理与幸福干预"]
+cross_refs: []
 ---
 # Emotion & Resilience (情感管理与幸福干预)
 

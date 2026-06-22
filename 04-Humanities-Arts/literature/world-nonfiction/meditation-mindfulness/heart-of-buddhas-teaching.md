@@ -1,7 +1,6 @@
 ---
-
 title: "《The Heart of Buddha's Teaching》"
-description: "《The Heart of Buddha's Teaching》的详细解析与实践指南"
+description: "《The Heart of Buddha's Teaching》 —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《The Heart of Buddha's Teaching》"
   - "《The Heart of Buddha's Teaching》的核心概念"
   - "《The Heart of Buddha's Teaching》的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "philosophy", "sexuality"]
+trigger_keywords: ["《The", "Heart", "of", "Buddha's", "Teaching》"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/INDEX.md"
-    relation: "buddhism/cardiovascular/meditation"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/vietnam/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/thich/hanh"
 ---
 # 《The Heart of Buddha's Teaching》
 

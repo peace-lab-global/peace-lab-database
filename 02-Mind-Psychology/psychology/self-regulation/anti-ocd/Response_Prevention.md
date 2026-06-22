@@ -1,7 +1,6 @@
 ---
-
 title: "反应预防"
-description: "反应预防的详细解析与实践指南"
+description: "反应预防 —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["anxiety", "intervention", "mindfulness", "ocd", "心理学", "自我调节"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是反应预防"
   - "反应预防的核心概念"
   - "反应预防的方法与实践"
-trigger_keywords: ["反应预防", "anxiety", "behavioral", "breathwork", "intervention"]
+trigger_keywords: ["反应预防", "intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/emotion/meditation"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "焦虑/暴露"
 ---
 # 反应预防
 

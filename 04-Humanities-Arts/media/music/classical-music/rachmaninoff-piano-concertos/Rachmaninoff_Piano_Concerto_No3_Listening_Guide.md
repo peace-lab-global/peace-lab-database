@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南"
-description: "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: ["habits", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南的核心概念"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南的方法与实践"
-trigger_keywords: ["art", "assessment", "brain", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南"]
+cross_refs: []
 ---
 # 拉赫玛尼诺夫《第三钢琴协奏曲》聆听鉴赏完全指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "professional-handbook | 冥想执行师职业手册 Index"
-description: "professional-handbook | 冥想执行师职业手册 Index的详细解析与实践指南"
+description: "professional-handbook | 冥想执行师职业手册 Index —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["meditation", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是professional-handbook | 冥想执行师职业手册 Index"
   - "professional-handbook | 冥想执行师职业手册 Index的核心概念"
   - "professional-handbook | 冥想执行师职业手册 Index的方法与实践"
-trigger_keywords: ["act", "child", "developmental", "meditation"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "meditation/therapy"
-
+trigger_keywords: ["meditation", "professional-handbook", "冥想执行师职业手册"]
+cross_refs: []
 ---
 # professional-handbook | 冥想执行师职业手册 Index
 

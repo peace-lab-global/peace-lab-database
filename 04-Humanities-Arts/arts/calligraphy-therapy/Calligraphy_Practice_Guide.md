@@ -1,7 +1,6 @@
 ---
-
 title: "书法疗愈实操指南 | Calligraphy Therapy Practice Guide"
-description: "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的详细解析与实践指南"
+description: "书法疗愈实操指南 | Calligraphy Therapy Practice Guide —— 艺术 · 书法疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
 tags: ["calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是书法疗愈实操指南 | Calligraphy Therapy Practice Guide"
   - "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的核心概念"
   - "书法疗愈实操指南 | Calligraphy Therapy Practice Guide的方法与实践"
-trigger_keywords: ["书法疗愈实操指南", "act", "aging", "anxiety", "art"]
+trigger_keywords: ["书法疗愈实操指南", "Calligraphy", "Therapy", "Practice", "Guide"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_08_Life_Scenes.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/anxiety/art_therapy"
-
+  - path: "01-Wisdom-Traditions/tai-chi/culture-art/TaiChi_Calligraphy_Aesthetics.md"
+    relation: "书法/calligraphy"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "书法/calligraphy/正念"
 ---
 # 书法疗愈实操指南 | Calligraphy Therapy Practice Guide
 

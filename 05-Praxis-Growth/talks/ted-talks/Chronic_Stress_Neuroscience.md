@@ -1,6 +1,6 @@
 ---
 title: "应激生理"
-description: "应激生理的详细解析与实践指南"
+description: "应激生理 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

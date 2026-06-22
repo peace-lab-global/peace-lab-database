@@ -1,7 +1,6 @@
 ---
-
 title: "文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)"
-description: "文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)的详细解析与实践指南"
+description: "文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["decision-making", "buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文殊师利完整修持仪轨"
   - "文殊师利完整修持仪轨的核心概念"
   - "文殊师利完整修持仪轨的方法与实践"
-trigger_keywords: ["文殊师利完整修持仪轨", "decision-making", "sexuality", "佛教", "宗教与灵性"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+trigger_keywords: ["文殊师利完整修持仪轨", "decision-making", "佛教", "宗教与灵性"]
+cross_refs: []
 ---
 # 文殊师利完整修持仪轨 (Manjusri / Jamyang Sadhana)
 

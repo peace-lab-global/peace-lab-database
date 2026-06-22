@@ -13,8 +13,8 @@ intent_queries:
   - "校园太极操"
 trigger_keywords: ["儿童", "青少年", "校园", "注意力", "ADHD"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "overview"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 儿童青少年太极 | Tai Chi for Children & Adolescents
 

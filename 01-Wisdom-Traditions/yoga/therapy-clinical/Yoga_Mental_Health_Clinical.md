@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga & Mental Health: Clinical Applications (瑜伽与心理健康：临床应用)"
-description: "Yoga & Mental Health: Clinical Applications (瑜伽与心理健康：临床应用)的详细解析与实践指南"
+description: "Yoga & Mental Health: Clinical Applications (瑜伽与心理健康：临床应用) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["addiction", "cbt", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Yoga & Mental Health: Clinical Applications"
   - "Yoga & Mental Health: Clinical Applications的核心概念"
   - "Yoga & Mental Health: Clinical Applications的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Yoga", "Mental", "Health:", "Clinical", "Applications"]
+cross_refs: []
 ---
 # Yoga & Mental Health: Clinical Applications (瑜伽与心理健康：临床应用)
 

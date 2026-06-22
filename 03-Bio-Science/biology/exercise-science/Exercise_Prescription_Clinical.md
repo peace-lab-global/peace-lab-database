@@ -1,7 +1,6 @@
 ---
-
 title: "临床运动处方 (Exercise Prescription — Clinical Applications)"
-description: "临床运动处方 (Exercise Prescription — Clinical Applications)的详细解析与实践指南"
+description: "临床运动处方 (Exercise Prescription — Clinical Applications) —— 生物学 · 运动科学 专题"
 category: "生命科学与生物医学 > 生物学 > 运动科学"
 tags: ["aging", "cardiovascular", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是临床运动处方"
   - "临床运动处方的核心概念"
   - "临床运动处方的方法与实践"
-trigger_keywords: ["临床运动处方", "act", "adolescent", "aging", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Modern_Styles.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/cardiovascular/exercise"
-
+trigger_keywords: ["临床运动处方", "Exercise", "Prescription", "Clinical", "Applications"]
+cross_refs: []
 ---
 # 临床运动处方 (Exercise Prescription — Clinical Applications)
 

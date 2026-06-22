@@ -1,7 +1,6 @@
 ---
-
 title: "反强迫症 (Anti-OCD) | Index"
-description: "反强迫症 (Anti-OCD) | Index的详细解析与实践指南"
+description: "反强迫症 (Anti-OCD) | Index —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["intervention", "ocd", "act", "self-regulation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是反强迫症  | Index"
   - "反强迫症  | Index的核心概念"
   - "反强迫症  | Index的方法与实践"
-trigger_keywords: ["反强迫症", "Index", "act", "assessment", "behavioral", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "emotion/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
-    relation: "emotion/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "emotion/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
-    relation: "emotion/therapy/trauma"
-
+trigger_keywords: ["反强迫症", "Anti-OCD"]
+cross_refs: []
 ---
 # 反强迫症 (Anti-OCD) | Index
 

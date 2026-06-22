@@ -1,7 +1,6 @@
 ---
-
 title: "减肥专业知识体系最终质量报告"
-description: "减肥专业知识体系最终质量报告的详细解析与实践指南"
+description: "减肥专业知识体系最终质量报告 —— 生物学 · Weight Loss 专题"
 category: "生命科学与生物医学 > 生物学 > Weight Loss"
 tags: ["habits", "intervention", "nutrition", "positive-psychology", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是减肥专业知识体系最终质量报告"
   - "减肥专业知识体系最终质量报告的核心概念"
   - "减肥专业知识体系最终质量报告的方法与实践"
-trigger_keywords: ["assessment", "communication", "developmental", "habits"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/nutrition/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
-    relation: "communication/nutrition/productivity"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/nutrition/productivity"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Clinical_Management.md"
-    relation: "communication/nutrition/productivity"
-  - path: "05-Praxis-Growth/talks/ted-talks/Framework_Design_Aesthetics.md"
-    relation: "communication/nutrition/productivity"
-
+trigger_keywords: ["habits", "减肥专业知识体系最终质量报告"]
+cross_refs: []
 ---
 # 减肥专业知识体系最终质量报告
 

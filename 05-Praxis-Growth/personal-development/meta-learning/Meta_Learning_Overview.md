@@ -1,7 +1,6 @@
 ---
-
 title: "元学习总览 (Meta-Learning Overview)"
-description: "元学习总览 (Meta-Learning Overview)的详细解析与实践指南"
+description: "元学习总览 (Meta-Learning Overview) —— 个人发展 · 元学习 专题"
 category: "实践与个人增长 > 个人发展 > 元学习"
 tags: ["flow", "habits", "meta-learning"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是元学习总览"
   - "元学习总览的核心概念"
   - "元学习总览的方法与实践"
-trigger_keywords: ["元学习总览", "act", "aging", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "aging/emotion/neuroscience"
-
+trigger_keywords: ["元学习总览", "Meta-Learning", "Overview"]
+cross_refs: []
 ---
 # 元学习总览 (Meta-Learning Overview)
 

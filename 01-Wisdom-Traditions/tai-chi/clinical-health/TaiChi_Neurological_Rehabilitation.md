@@ -13,10 +13,8 @@ intent_queries:
   - "太极改善认知功能"
 trigger_keywords: ["帕金森", "中风", "多发性硬化", "认知", "神经康复"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
-    relation: "clinical-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
+    relation: "ms/neurological/mci"
 ---
 # 神经康复 | Neurological Rehabilitation
 

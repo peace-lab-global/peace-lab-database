@@ -34,12 +34,22 @@ class LinkChecker:
     # ─── 文件扫描 ─────────────────────────────────────────────
 
     def find_markdown_files(self) -> List[Path]:
-        """查找所有 Markdown 文件（排除隐藏/系统目录）"""
-        exclude = {'.git', 'node_modules', '.qoder', '.codebuddy', '.trae'}
+        """查找所有 Markdown 文件（排除隐藏/系统目录、构建产物、工具区）
+
+        排除集与其他 Tools/scripts 统一（见 cross-ref-generator.py /
+        metadata-cleanup.py 的 EXCLUDE_DIRS），避免扫描 Web/site 构建产物、
+        .venv 虚拟环境、Tools 工具文档等产生误报断链。
+        """
+        exclude = {
+            '.git', '.venv', 'venv', '.env', 'site', 'node_modules',
+            'logs', 'reports', 'Tools', 'Project', 'Web', 'Visualization',
+            '_meta', '.claude', '.codebuddy', '.qoder', '.trae',
+            '__pycache__', '.cache',
+        }
         md_files = []
         for fp in self.base_path.rglob("*.md"):
             parts = fp.relative_to(self.base_path).parts
-            if not any(p in exclude for p in parts):
+            if not any(p in exclude or p.startswith('.') for p in parts):
                 md_files.append(fp)
         return sorted(md_files)
 

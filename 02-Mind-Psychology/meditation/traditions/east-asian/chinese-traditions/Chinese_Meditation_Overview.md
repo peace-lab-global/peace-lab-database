@@ -1,7 +1,6 @@
 ---
-
 title: "中国本土冥想传统概论 | Chinese Meditation Traditions Overview"
-description: "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的详细解析与实践指南"
+description: "中国本土冥想传统概论 | Chinese Meditation Traditions Overview —— 冥想 · Chinese Traditions 专题"
 category: "心智与心理学 > 冥想 > Chinese Traditions"
 tags: ["daoism", "mbsr", "mindfulness", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是中国本土冥想传统概论 | Chinese Meditation Traditions Overview"
   - "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的核心概念"
   - "中国本土冥想传统概论 | Chinese Meditation Traditions Overview的方法与实践"
-trigger_keywords: ["中国本土冥想传统概论", "act", "assessment", "body", "breathwork"]
+trigger_keywords: ["中国本土冥想传统概论", "Chinese", "Meditation", "Traditions", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/buddhism/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/daoism/emotion"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "aging/daoism/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/buddhism/daoism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-book-of-equanimity.md"
+    relation: "静坐/默照/禅宗"
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "道家/静坐/阴阳"
 ---
 # 中国本土冥想传统概论 | Chinese Meditation Traditions Overview
 

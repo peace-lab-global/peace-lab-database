@@ -1,7 +1,6 @@
 ---
-
 title: "ballet | Index"
-description: "ballet | Index的详细解析与实践指南"
+description: "ballet | Index —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["art-therapy", "芭蕾", "ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是ballet | Index"
   - "ballet | Index的核心概念"
   - "ballet | Index的方法与实践"
-trigger_keywords: ["ballet", "Index", "艺术", "芭蕾"]
+trigger_keywords: ["ballet", "艺术", "芭蕾"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/therapy"
-
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md"
+    relation: "dictionary/terminology/contents"
 ---
 # ballet | Index
 

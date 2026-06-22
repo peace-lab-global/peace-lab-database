@@ -1,7 +1,6 @@
 ---
-
 title: "Nursing Professional Attraction Psychology (护理职业吸引心理学)"
-description: "Nursing Professional Attraction Psychology (护理职业吸引心理学)的详细解析与实践指南"
+description: "Nursing Professional Attraction Psychology (护理职业吸引心理学) —— Professional Attraction · Nursing 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > Nursing"
 tags: ["attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Nursing Professional Attraction Psychology"
   - "Nursing Professional Attraction Psychology的核心概念"
   - "Nursing Professional Attraction Psychology的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Nursing", "Professional", "Attraction", "Psychology", "护理职业吸引心理学"]
+cross_refs: []
 ---
 # Nursing Professional Attraction Psychology (护理职业吸引心理学)
 

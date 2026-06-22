@@ -1,7 +1,6 @@
 ---
-
 title: "生态文明 | Ecological Civilization"
-description: "生态文明 | Ecological Civilization的详细解析与实践指南"
+description: "生态文明 | Ecological Civilization —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["daoism", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是生态文明 | Ecological Civilization"
   - "生态文明 | Ecological Civilization的核心概念"
   - "生态文明 | Ecological Civilization的方法与实践"
-trigger_keywords: ["生态文明", "assessment", "buddhism", "crisis", "daoism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "buddhism/daoism/emotion"
-
+trigger_keywords: ["生态文明", "daoism"]
+cross_refs: []
 ---
 # 生态文明 | Ecological Civilization
 

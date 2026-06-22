@@ -1,7 +1,6 @@
 ---
-
 title: "一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit"
-description: "一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit的详细解析与实践指南"
+description: "一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit"
   - "一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit的核心概念"
   - "一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit的方法与实践"
-trigger_keywords: ["art", "body", "brain", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "communication/neuroscience/nutrition"
-
+trigger_keywords: ["一席演讲内容体系查漏补缺最终质量确认报告", "Final", "Quality", "Confirmation", "Report"]
+cross_refs: []
 ---
 # 一席演讲内容体系查漏补缺最终质量确认报告 | Final Quality Confirmation Report for YiXi Talks Audit
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: Prevention & Intervention (职场倦怠：预防与干预)"
-description: "Occupational Burnout: Prevention & Intervention (职场倦怠：预防与干预)的详细解析与实践指南"
+description: "Occupational Burnout: Prevention & Intervention (职场倦怠：预防与干预) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "cbt", "mbsr", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Occupational Burnout: Prevention & Intervention"
   - "Occupational Burnout: Prevention & Intervention的核心概念"
   - "Occupational Burnout: Prevention & Intervention的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Occupational", "Burnout:", "Prevention", "Intervention", "职场倦怠：预防与干预"]
+cross_refs: []
 ---
 # Occupational Burnout: Prevention & Intervention (职场倦怠：预防与干预)
 

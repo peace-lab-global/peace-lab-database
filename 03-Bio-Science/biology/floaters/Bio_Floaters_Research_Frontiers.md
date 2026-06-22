@@ -1,7 +1,6 @@
 ---
-
 title: "飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)"
-description: "飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)的详细解析与实践指南"
+description: "飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends) —— 生物学 · 飞蚊症 专题"
 category: "生命科学与生物医学 > 生物学 > 飞蚊症"
 tags: ["brain", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是飞蚊症研究前沿与发展趋势"
   - "飞蚊症研究前沿与发展趋势的核心概念"
   - "飞蚊症研究前沿与发展趋势的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+trigger_keywords: ["飞蚊症研究前沿与发展趋势", "Floaters", "Research", "Frontiers", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "04-Humanities-Arts/reading/Digital_Reading_Research.md"
+    relation: "frontiers/research"
 ---
 # 飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)
 

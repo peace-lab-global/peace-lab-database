@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《法国组曲第六号》创作背景与心理分析"
-description: "巴赫《法国组曲第六号》创作背景与心理分析的详细解析与实践指南"
+description: "巴赫《法国组曲第六号》创作背景与心理分析 —— Bach French Suites · Suite6 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach French Suites > Suite6"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "巴赫《法国组曲第六号》创作背景与心理分析的核心概念"
   - "巴赫《法国组曲第六号》创作背景与心理分析的方法与实践"
   - "巴赫《法国组曲第六号》创作背景与心理分析的自助方法"
-trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
+trigger_keywords: ["巴赫《法国组曲第六号》创作背景与心理分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
+    relation: "智慧/情绪调节"
+  - path: "05-Praxis-Growth/writing/Creative_Writing_Workshop.md"
+    relation: "自信/智慧"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "智慧/意义"
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "智慧/情绪调节/意义"
 ---
 # 巴赫《法国组曲第六号》创作背景与心理分析
 

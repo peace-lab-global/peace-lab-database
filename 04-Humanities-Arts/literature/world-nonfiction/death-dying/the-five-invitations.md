@@ -1,7 +1,6 @@
 ---
-
 title: "《五个邀请》The Five Invitations"
-description: "《五个邀请》The Five Invitations的详细解析与实践指南"
+description: "《五个邀请》The Five Invitations —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《五个邀请》The Five Invitations"
   - "《五个邀请》The Five Invitations的核心概念"
   - "《五个邀请》The Five Invitations的方法与实践"
-trigger_keywords: ["death", "zen", "文学"]
+trigger_keywords: ["zen", "文学"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《五个邀请》The Five Invitations
 

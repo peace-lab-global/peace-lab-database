@@ -1,7 +1,6 @@
 ---
-
 title: "熏习理论临床应用 (Vāsanā Clinical Applications)"
-description: "熏习理论临床应用 (Vāsanā Clinical Applications)的详细解析与实践指南"
+description: "熏习理论临床应用 (Vāsanā Clinical Applications) —— 佛教 · Vasana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是熏习理论临床应用"
   - "熏习理论临床应用的核心概念"
   - "熏习理论临床应用的方法与实践"
-trigger_keywords: ["熏习理论临床应用", "act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["熏习理论临床应用", "Vāsanā", "Clinical", "Applications"]
+cross_refs: []
 ---
 # 熏习理论临床应用 (Vāsanā Clinical Applications)
 

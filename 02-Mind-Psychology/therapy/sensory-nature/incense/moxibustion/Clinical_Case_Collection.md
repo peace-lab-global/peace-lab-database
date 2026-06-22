@@ -1,7 +1,6 @@
 ---
-
 title: "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας"
-description: "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的详细解析与实践指南"
+description: "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας —— Incense · Moxibustion 专题"
 category: "心智与心理学 > 疗法 > Incense > Moxibustion"
 tags: ["anxiety", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας"
   - "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的核心概念"
   - "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的方法与实践"
-trigger_keywords: ["艾灸临床案例集", "act", "anxiety", "assessment", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Microbiome_Mental_Health.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Prostate_Health.md"
-    relation: "anxiety/depression/exercise"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Fertility_Pregnancy.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["艾灸临床案例集", "Moxibustion", "Clinical", "Case", "Collection"]
+cross_refs: []
 ---
 # 艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας
 

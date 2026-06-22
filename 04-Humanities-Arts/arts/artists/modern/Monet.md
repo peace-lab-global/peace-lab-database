@@ -1,7 +1,6 @@
 ---
-
 title: "Monet (莫奈)：光影艺术与印象派精神"
-description: "Monet (莫奈)：光影艺术与印象派精神的详细解析与实践指南"
+description: "Monet (莫奈)：光影艺术与印象派精神 —— 艺术家 · Modern 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Monet ：光影艺术与印象派精神"
   - "Monet ：光影艺术与印象派精神的核心概念"
   - "Monet ：光影艺术与印象派精神的方法与实践"
-trigger_keywords: ["act", "art", "ballet", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "emotion/exercise/productivity"
-
+trigger_keywords: ["ballet", "Monet", "莫奈", "：光影艺术与印象派精神"]
+cross_refs: []
 ---
 # Monet (莫奈)：光影艺术与印象派精神
 

@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽职业发展路径 | Yoga Career Pathways"
-description: "瑜伽职业发展路径 | Yoga Career Pathways的详细解析与实践指南"
+description: "瑜伽职业发展路径 | Yoga Career Pathways —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽职业发展路径 | Yoga Career Pathways"
   - "瑜伽职业发展路径 | Yoga Career Pathways的核心概念"
   - "瑜伽职业发展路径 | Yoga Career Pathways的方法与实践"
-trigger_keywords: ["瑜伽职业发展路径", "act", "adolescent", "aging", "brain"]
+trigger_keywords: ["瑜伽职业发展路径", "Yoga", "Career", "Pathways"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/exercise"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Career_Pathways.md"
+    relation: "career/pathways/瑜伽"
   - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "aging/communication/neuroscience"
-
+    relation: "career/cross-disciplinary"
+  - path: "05-Praxis-Growth/personal-development/career-planning/Career_Transition.md"
+    relation: "career/瑜伽"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga"
 ---
 # 瑜伽职业发展路径 | Yoga Career Pathways
 

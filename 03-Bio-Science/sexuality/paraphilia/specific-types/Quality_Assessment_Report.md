@@ -1,7 +1,6 @@
 ---
-
 title: "Specific Types Quality Assessment Report (性迷恋类型质量评估报告)"
-description: "Specific Types Quality Assessment Report (性迷恋类型质量评估报告)的详细解析与实践指南"
+description: "Specific Types Quality Assessment Report (性迷恋类型质量评估报告) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["ballet", "intervention", "neuroscience", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Specific Types Quality Assessment Report"
   - "Specific Types Quality Assessment Report的核心概念"
   - "Specific Types Quality Assessment Report的方法与实践"
-trigger_keywords: ["assessment", "ballet", "clinical", "developmental"]
+trigger_keywords: ["ballet", "Specific", "Types", "Quality", "Assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality/assessment"
+  - path: "05-Praxis-Growth/talks/ted-talks/TED_Quality_Assessment_Report.md"
+    relation: "report/quality/assessment"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/report/assessment"
 ---
 # Specific Types Quality Assessment Report (性迷恋类型质量评估报告)
 

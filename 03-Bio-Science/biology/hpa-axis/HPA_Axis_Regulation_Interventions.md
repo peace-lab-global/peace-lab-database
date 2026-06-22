@@ -1,7 +1,6 @@
 ---
-
 title: "HPA轴调节与干预 (HPA Axis Regulation & Interventions)"
-description: "HPA轴调节与干预 (HPA Axis Regulation & Interventions)的详细解析与实践指南"
+description: "HPA轴调节与干预 (HPA Axis Regulation & Interventions) —— 生物学 · HPA轴 专题"
 category: "生命科学与生物医学 > 生物学 > HPA轴"
 tags: ["HPA轴", "addiction", "aging", "attachment", "nutrition", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是HPA轴调节与干预"
   - "HPA轴调节与干预的核心概念"
   - "HPA轴调节与干预的方法与实践"
-trigger_keywords: ["HPA轴调节与干预", "HPA轴", "act", "addiction", "adolescent"]
+trigger_keywords: ["HPA轴调节与干预", "HPA轴"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
-    relation: "aging/anxiety/attachment"
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/_protocol.md"
+    relation: "hpa/axis/stress"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/INDEX.md"
+    relation: "hpa/axis/皮质醇"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Interventions.md"
+    relation: "interventions/chronic/stress"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/INDEX.md"
+    relation: "hpa/axis/protocol"
 ---
 # HPA轴调节与干预 (HPA Axis Regulation & Interventions)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《接骨师之女》读书笔记与书评"
-description: "《接骨师之女》读书笔记与书评的详细解析与实践指南"
+description: "《接骨师之女》读书笔记与书评 —— Contemporary · The Bonesetters Daughter 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Bonesetters Daughter"
 tags: ["attachment", "literature", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《接骨师之女》读书笔记与书评"
   - "《接骨师之女》读书笔记与书评的核心概念"
   - "《接骨师之女》读书笔记与书评的方法与实践"
-trigger_keywords: ["aging", "anxiety", "attachment", "behavioral"]
+trigger_keywords: ["《接骨师之女》读书笔记与书评"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "创伤/恐惧"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "创伤/冲突/焦虑"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "恐惧/创伤/冲突"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "恐惧/焦虑"
 ---
 # 《接骨师之女》读书笔记与书评
 

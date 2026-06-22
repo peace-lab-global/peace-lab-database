@@ -1,7 +1,6 @@
 ---
-
 title: "Crisis Assessment Tools (心理危机评估工具)"
-description: "Crisis Assessment Tools (心理危机评估工具)的详细解析与实践指南"
+description: "Crisis Assessment Tools (心理危机评估工具) —— 临床心理 · Crisis Assessment 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Crisis Assessment"
 tags: ["addiction", "anxiety", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Crisis Assessment Tools"
   - "Crisis Assessment Tools的核心概念"
   - "Crisis Assessment Tools的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Crisis", "Assessment", "Tools", "心理危机评估工具"]
+cross_refs: []
 ---
 # Crisis Assessment Tools (心理危机评估工具)
 

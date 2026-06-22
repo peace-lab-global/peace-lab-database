@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽导师自我关照（Yoga Instructor Self-Care）"
-description: "瑜伽导师自我关照（Yoga Instructor Self-Care）的详细解析与实践指南"
+description: "瑜伽导师自我关照（Yoga Instructor Self-Care） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["social", "spirituality", "stress", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是瑜伽导师自我关照（Yoga Instructor Self-Care）"
   - "瑜伽导师自我关照（Yoga Instructor Self-Care）的核心概念"
   - "瑜伽导师自我关照（Yoga Instructor Self-Care）的方法与实践"
-trigger_keywords: ["anxiety", "body", "exercise", "psychology"]
+trigger_keywords: ["exercise", "瑜伽导师自我关照", "Yoga", "Instructor", "Self-Care"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C5-1.md"
-    relation: "anxiety/exercise/sexuality"
-
+    relation: "self-care/instructor/瑜伽"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：能量瑜伽.md"
+    relation: "瑜伽/体式"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽/yoga/体式"
 ---
 # 瑜伽导师自我关照（Yoga Instructor Self-Care）
 

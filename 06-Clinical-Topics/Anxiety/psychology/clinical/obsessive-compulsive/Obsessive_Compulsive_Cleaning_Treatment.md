@@ -1,7 +1,6 @@
 ---
-
 title: "洁癖治疗方法体系专业内容体系"
-description: "洁癖治疗方法体系专业内容体系的详细解析与实践指南"
+description: "洁癖治疗方法体系专业内容体系 —— 临床心理 · Obsessive Compulsive 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Obsessive Compulsive"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "洁癖治疗方法体系专业内容体系的核心概念"
   - "洁癖治疗方法体系专业内容体系的方法与实践"
   - "洁癖治疗方法体系专业内容体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["洁癖治疗方法体系专业内容体系"]
+cross_refs: []
 ---
 # 洁癖治疗方法体系专业内容体系
 

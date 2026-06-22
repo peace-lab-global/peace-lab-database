@@ -1,7 +1,6 @@
 ---
-
 title: "数字健康 | Digital Health"
-description: "数字健康 | Digital Health的详细解析与实践指南"
+description: "数字健康 | Digital Health —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "decision-making", "intervention", "treatment", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字健康 | Digital Health"
   - "数字健康 | Digital Health的核心概念"
   - "数字健康 | Digital Health的方法与实践"
-trigger_keywords: ["数字健康", "clinical", "communication", "decision-making", "intervention"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+trigger_keywords: ["数字健康", "decision-making", "intervention"]
+cross_refs: []
 ---
 # 数字健康 | Digital Health
 

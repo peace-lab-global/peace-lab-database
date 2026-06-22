@@ -1,7 +1,6 @@
 ---
-
 title: "飞蚊症专业内容体系质量报告 (Floaters Professional Content Quality Report)"
-description: "飞蚊症专业内容体系质量报告 (Floaters Professional Content Quality Report)的详细解析与实践指南"
+description: "飞蚊症专业内容体系质量报告 (Floaters Professional Content Quality Report) —— 生物学 · 飞蚊症 专题"
 category: "生命科学与生物医学 > 生物学 > 飞蚊症"
 tags: ["decision-making", "sexuality", "treatment", "生物学"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是飞蚊症专业内容体系质量报告"
   - "飞蚊症专业内容体系质量报告的核心概念"
   - "飞蚊症专业内容体系质量报告的方法与实践"
-trigger_keywords: ["assessment", "clinical", "decision-making", "developmental"]
-cross_refs: []
-
+trigger_keywords: ["decision-making", "飞蚊症专业内容体系质量报告", "Floaters", "Professional", "Content"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality/professional"
 ---
 # 飞蚊症专业内容体系质量报告 (Floaters Professional Content Quality Report)
 

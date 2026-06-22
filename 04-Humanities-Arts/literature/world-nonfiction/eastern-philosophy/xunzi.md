@@ -1,7 +1,6 @@
 ---
-
 title: "《荀子》Xunzi"
-description: "《荀子》Xunzi的详细解析与实践指南"
+description: "《荀子》Xunzi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["music", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《荀子》Xunzi"
   - "《荀子》Xunzi的核心概念"
   - "《荀子》Xunzi的方法与实践"
-trigger_keywords: ["《荀子》Xunzi", "emotion", "music", "philosophy", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/emotion/sexuality"
-
+trigger_keywords: ["《荀子》Xunzi", "music", "religion"]
+cross_refs: []
 ---
 # 《荀子》Xunzi
 

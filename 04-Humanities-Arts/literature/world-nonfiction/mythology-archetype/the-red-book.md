@@ -1,7 +1,6 @@
 ---
-
 title: "《红书》The Red Book"
-description: "《红书》The Red Book的详细解析与实践指南"
+description: "《红书》The Red Book —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "phobia", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《红书》The Red Book"
   - "《红书》The Red Book的核心概念"
   - "《红书》The Red Book的方法与实践"
-trigger_keywords: ["act", "art", "death", "jung"]
+trigger_keywords: ["jung", "《红书》The", "Red", "Book"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
-    relation: "anxiety/death/depression"
-
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "book/死亡"
 ---
 # 《红书》The Red Book
 

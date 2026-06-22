@@ -1,7 +1,6 @@
 ---
-
 title: "《天堂是真的》Heaven is for Real"
-description: "《天堂是真的》Heaven is for Real的详细解析与实践指南"
+description: "《天堂是真的》Heaven is for Real —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["cinema", "literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《天堂是真的》Heaven is for Real"
   - "《天堂是真的》Heaven is for Real的核心概念"
   - "《天堂是真的》Heaven is for Real的方法与实践"
-trigger_keywords: ["body", "child", "cinema", "clinical"]
-cross_refs:
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "art_therapy/cardiovascular/death"
-  - path: "README.md"
-    relation: "art_therapy/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/cardiovascular/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/sexuality"
-
+trigger_keywords: ["cinema", "《天堂是真的》Heaven", "is", "for", "Real"]
+cross_refs: []
 ---
 # 《天堂是真的》Heaven is for Real
 

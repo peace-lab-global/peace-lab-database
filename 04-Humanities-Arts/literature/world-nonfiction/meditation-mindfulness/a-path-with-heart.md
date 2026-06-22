@@ -1,7 +1,6 @@
 ---
-
 title: "《有心之路》A Path with Heart"
-description: "《有心之路》A Path with Heart的详细解析与实践指南"
+description: "《有心之路》A Path with Heart —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["jung", "phobia", "spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《有心之路》A Path with Heart"
   - "《有心之路》A Path with Heart的核心概念"
   - "《有心之路》A Path with Heart的方法与实践"
-trigger_keywords: ["buddhism", "jung", "phobia", "psychology"]
+trigger_keywords: ["jung", "phobia"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "kornfield/jack/heart"
 ---
 # 《有心之路》A Path with Heart
 

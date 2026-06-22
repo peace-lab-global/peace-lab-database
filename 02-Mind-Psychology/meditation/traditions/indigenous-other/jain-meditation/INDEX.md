@@ -1,7 +1,6 @@
 ---
-
 title: "耆那教冥想 (Jain Meditation)"
-description: "耆那教冥想 (Jain Meditation)的详细解析与实践指南"
+description: "耆那教冥想 (Jain Meditation) —— 冥想 · Jain Meditation 专题"
 category: "心智与心理学 > 冥想 > Jain Meditation"
 tags: ["meditation", "spirituality", "vipassana", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是耆那教冥想"
   - "耆那教冥想的核心概念"
   - "耆那教冥想的方法与实践"
-trigger_keywords: ["耆那教冥想", "body", "buddhism", "meditation", "sexuality"]
+trigger_keywords: ["耆那教冥想", "meditation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "buddhism/death/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/瑜伽"
 ---
 # 耆那教冥想 (Jain Meditation)
 

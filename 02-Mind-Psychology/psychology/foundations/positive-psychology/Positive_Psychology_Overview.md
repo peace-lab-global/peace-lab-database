@@ -1,7 +1,6 @@
 ---
-
 title: "积极心理学专业内容体系"
-description: "积极心理学专业内容体系的详细解析与实践指南"
+description: "积极心理学专业内容体系 —— 心理学基础 · 积极心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 积极心理学"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "积极心理学专业内容体系的核心概念"
   - "积极心理学专业内容体系的方法与实践"
   - "积极心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["积极心理学专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/personality"
-
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Flow.md"
+    relation: "积极心理学/心流/人格"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md"
+    relation: "积极心理学/专注"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Pastoral_Utopia.md"
+    relation: "人际关系/意义"
 ---
 # 积极心理学专业内容体系
 

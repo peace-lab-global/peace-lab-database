@@ -1,7 +1,6 @@
 ---
-
 title: "职场心理学 | Workplace Psychology"
-description: "职场心理学 | Workplace Psychology的详细解析与实践指南"
+description: "职场心理学 | Workplace Psychology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "职场心理学 | Workplace Psychology的核心概念"
   - "职场心理学 | Workplace Psychology的方法与实践"
   - "职场心理学 | Workplace Psychology的自助方法"
-trigger_keywords: ["职场心理学", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["职场心理学", "Workplace", "Psychology"]
+cross_refs: []
 ---
 # 职场心理学 | Workplace Psychology
 

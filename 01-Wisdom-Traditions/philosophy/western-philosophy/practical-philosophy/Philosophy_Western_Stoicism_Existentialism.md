@@ -1,7 +1,6 @@
 ---
-
 title: "Western Philosophy: Stoicism & Existentialism (西方哲学：斯多葛与存在主义)"
-description: "Western Philosophy: Stoicism & Existentialism (西方哲学：斯多葛与存在主义)的详细解析与实践指南"
+description: "Western Philosophy: Stoicism & Existentialism (西方哲学：斯多葛与存在主义) —— Western Philosophy · Practical Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
 tags: ["addiction", "cbt", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Western Philosophy: Stoicism & Existentialism"
   - "Western Philosophy: Stoicism & Existentialism的核心概念"
   - "Western Philosophy: Stoicism & Existentialism的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/death/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "anxiety/death/emotion"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "anxiety/death/emotion"
-  - path: "README.md"
-    relation: "anxiety/death/emotion"
-
+trigger_keywords: ["Western", "Philosophy:", "Stoicism", "Existentialism", "西方哲学：斯多葛与存在主义"]
+cross_refs: []
 ---
 # Western Philosophy: Stoicism & Existentialism (西方哲学：斯多葛与存在主义)
 

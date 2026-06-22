@@ -1,7 +1,6 @@
 ---
-
 title: "城市规划 | Urban Planning"
-description: "城市规划 | Urban Planning的详细解析与实践指南"
+description: "城市规划 | Urban Planning —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["productivity", "resilience", "social", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是城市规划 | Urban Planning"
   - "城市规划 | Urban Planning的核心概念"
   - "城市规划 | Urban Planning的方法与实践"
-trigger_keywords: ["城市规划", "act", "developmental", "productivity", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["城市规划", "productivity"]
+cross_refs: []
 ---
 # 城市规划 | Urban Planning
 

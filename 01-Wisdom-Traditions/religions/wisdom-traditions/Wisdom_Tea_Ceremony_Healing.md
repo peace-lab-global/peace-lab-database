@@ -1,7 +1,6 @@
 ---
-
 title: "茶道疗愈 | Tea Ceremony Healing"
-description: "茶道疗愈 | Tea Ceremony Healing的详细解析与实践指南"
+description: "茶道疗愈 | Tea Ceremony Healing —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["cortisol", "depression", "meditation", "zen", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是茶道疗愈 | Tea Ceremony Healing"
   - "茶道疗愈 | Tea Ceremony Healing的核心概念"
   - "茶道疗愈 | Tea Ceremony Healing的方法与实践"
-trigger_keywords: ["茶道疗愈", "aging", "anxiety", "body", "brain"]
+trigger_keywords: ["茶道疗愈", "Tea", "Ceremony", "Healing"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
+    relation: "茶道/tea/ceremony"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "茶道/tea/ceremony"
+  - path: "03-Bio-Science/foods/tea/INDEX.md"
+    relation: "tea/ceremony"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_13_Cultural_Scenes.md"
+    relation: "茶道/冥想/正念"
 ---
 # 茶道疗愈 | Tea Ceremony Healing
 

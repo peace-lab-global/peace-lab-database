@@ -1,7 +1,6 @@
 ---
-
 title: "创伤后应激障碍(PTSD)专门治疗方案"
-description: "创伤后应激障碍(PTSD)专门治疗方案的详细解析与实践指南"
+description: "创伤后应激障碍(PTSD)专门治疗方案 —— 临床心理 · 创伤心理 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 创伤心理"
 tags: ["anxiety", "brain", "emdr", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "创伤后应激障碍专门治疗方案的核心概念"
   - "创伤后应激障碍专门治疗方案的方法与实践"
   - "创伤后应激障碍专门治疗方案的循证证据"
-trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/exercise"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/depression/exercise"
-
+trigger_keywords: ["创伤后应激障碍", "PTSD", "专门治疗方案"]
+cross_refs: []
 ---
 # 创伤后应激障碍(PTSD)专门治疗方案
 

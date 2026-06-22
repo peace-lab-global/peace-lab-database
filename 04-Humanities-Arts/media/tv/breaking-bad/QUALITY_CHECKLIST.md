@@ -1,7 +1,6 @@
 ---
-
 title: "《绝命毒师》专业影评质量检查清单"
-description: "《绝命毒师》专业影评质量检查清单的详细解析与实践指南"
+description: "《绝命毒师》专业影评质量检查清单 —— Tv · Breaking Bad 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
 tags: ["decision-making", "therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《绝命毒师》专业影评质量检查清单"
   - "《绝命毒师》专业影评质量检查清单的核心概念"
   - "《绝命毒师》专业影评质量检查清单的方法与实践"
-trigger_keywords: ["art", "assessment", "clinical", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/sexuality/therapy"
-
+trigger_keywords: ["decision-making", "《绝命毒师》专业影评质量检查清单"]
+cross_refs: []
 ---
 # 《绝命毒师》专业影评质量检查清单
 

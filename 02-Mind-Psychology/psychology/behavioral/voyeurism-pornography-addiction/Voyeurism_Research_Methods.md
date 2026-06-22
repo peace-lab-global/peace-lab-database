@@ -1,6 +1,6 @@
 ---
 title: "窥淫癖研究方法"
-description: "窥淫癖研究方法的详细解析与实践指南"
+description: "窥淫癖研究方法 —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["心理学", "行为心理"]
 last_updated: "2026-05"

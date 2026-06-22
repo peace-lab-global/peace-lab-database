@@ -1,7 +1,6 @@
 ---
-
 title: "American Modern Literature | 美国现代文学"
-description: "American Modern Literature | 美国现代文学的详细解析与实践指南"
+description: "American Modern Literature | 美国现代文学 —— Authors · American Modern 专题"
 category: "人文与艺术疗愈 > 文学 > Authors > American Modern"
 tags: ["literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是American Modern Literature | 美国现代文学"
   - "American Modern Literature | 美国现代文学的核心概念"
   - "American Modern Literature | 美国现代文学的方法与实践"
-trigger_keywords: ["美国现代文学", "literature", "loneliness", "文学"]
+trigger_keywords: ["美国现代文学", "loneliness", "文学"]
 cross_refs: []
-
 ---
 # American Modern Literature | 美国现代文学
 

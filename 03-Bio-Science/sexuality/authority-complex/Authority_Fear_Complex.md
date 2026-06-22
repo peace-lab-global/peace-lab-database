@@ -1,7 +1,6 @@
 ---
-
 title: "权威恐惧情结 (Authority Fear Complex)"
-description: "权威恐惧情结 (Authority Fear Complex)的详细解析与实践指南"
+description: "权威恐惧情结 (Authority Fear Complex) —— 性学 · Authority Complex 专题"
 category: "生命科学与生物医学 > 性学 > Authority Complex"
 tags: ["attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是权威恐惧情结"
   - "权威恐惧情结的核心概念"
   - "权威恐惧情结的方法与实践"
-trigger_keywords: ["权威恐惧情结", "act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["权威恐惧情结", "Authority", "Fear", "Complex"]
+cross_refs: []
 ---
 # 权威恐惧情结 (Authority Fear Complex)
 

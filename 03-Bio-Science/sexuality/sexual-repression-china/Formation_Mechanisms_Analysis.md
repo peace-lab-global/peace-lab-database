@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)"
-description: "中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)的详细解析与实践指南"
+description: "中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["aging", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是中国社会性压抑形成机制分析"
   - "中国社会性压抑形成机制分析的核心概念"
   - "中国社会性压抑形成机制分析的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["中国社会性压抑形成机制分析", "Formation", "Mechanisms", "Analysis", "of"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Voyeurism_Pornography_Formation_Mechanisms.md"
+    relation: "bpst/formation/mechanisms"
 ---
 # 中国社会性压抑形成机制分析 (Formation Mechanisms Analysis of Sexual Repression in Chinese Society)
 

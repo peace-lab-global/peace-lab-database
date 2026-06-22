@@ -1,7 +1,6 @@
 ---
-
 title: "数字囤积癖鉴别诊断 (Digital Hoarding Differential Diagnosis)"
-description: "数字囤积癖鉴别诊断 (Digital Hoarding Differential Diagnosis)的详细解析与实践指南"
+description: "数字囤积癖鉴别诊断 (Digital Hoarding Differential Diagnosis) —— 行为心理 · Digital Hoarding 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
 tags: ["anxiety", "schizophrenia", "personality", "bipolar", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字囤积癖鉴别诊断"
   - "数字囤积癖鉴别诊断的核心概念"
   - "数字囤积癖鉴别诊断的方法与实践"
-trigger_keywords: ["数字囤积癖鉴别诊断", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["数字囤积癖鉴别诊断", "Digital", "Hoarding", "Differential", "Diagnosis"]
+cross_refs: []
 ---
 # 数字囤积癖鉴别诊断 (Digital Hoarding Differential Diagnosis)
 

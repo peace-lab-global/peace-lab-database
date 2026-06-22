@@ -1,7 +1,6 @@
 ---
-
 title: "极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)"
-description: "极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)的详细解析与实践指南"
+description: "极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis) —— 个人发展 · 极简主义 专题"
 category: "实践与个人增长 > 个人发展 > 极简主义"
 tags: ["cbt", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是极简主义与储物癖：对比与关联分析"
   - "极简主义与储物癖：对比与关联分析的核心概念"
   - "极简主义与储物癖：对比与关联分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["极简主义与储物癖：对比与关联分析", "Minimalism", "vs", "Hoarding:", "Comparison"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Comparison.md"
+    relation: "comparison/hoarding/approaches"
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Minimalism_Decision.md"
+    relation: "minimalism/differences/hoarding"
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/INDEX.md"
+    relation: "hoarding/comparison/treatment"
 ---
 # 极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)
 

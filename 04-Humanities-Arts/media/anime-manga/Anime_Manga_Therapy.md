@@ -1,7 +1,6 @@
 ---
-
 title: "Anime & Manga Therapy (动漫疗法)"
-description: "Anime & Manga Therapy (动漫疗法)的详细解析与实践指南"
+description: "Anime & Manga Therapy (动漫疗法) —— 媒体 · Anime Manga 专题"
 category: "人文与艺术疗愈 > 媒体 > Anime Manga"
 tags: ["addiction", "attachment", "cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anime & Manga Therapy"
   - "Anime & Manga Therapy的核心概念"
   - "Anime & Manga Therapy的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "art", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["Anime", "Manga", "Therapy", "动漫疗法"]
+cross_refs: []
 ---
 # Anime & Manga Therapy (动漫疗法)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Neuroscience (古典音乐疗愈的神经科学)"
-description: "Classical Music Neuroscience (古典音乐疗愈的神经科学)的详细解析与实践指南"
+description: "Classical Music Neuroscience (古典音乐疗愈的神经科学) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Classical Music Neuroscience"
   - "Classical Music Neuroscience的核心概念"
   - "Classical Music Neuroscience的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Classical", "Music", "Neuroscience", "古典音乐疗愈的神经科学"]
+cross_refs: []
 ---
 # Classical Music Neuroscience (古典音乐疗愈的神经科学)
 

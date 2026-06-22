@@ -1,7 +1,6 @@
 ---
-
 title: "生存哲学 (Survival Philosophy)"
-description: "生存哲学 (Survival Philosophy)的详细解析与实践指南"
+description: "生存哲学 (Survival Philosophy) —— Contemporary · To Live 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是生存哲学"
   - "生存哲学的核心概念"
   - "生存哲学的方法与实践"
-trigger_keywords: ["生存哲学", "act", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md"
-    relation: "buddhism/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
-    relation: "buddhism/death/depression"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-
+trigger_keywords: ["生存哲学", "Survival", "Philosophy"]
+cross_refs: []
 ---
 # 生存哲学 (Survival Philosophy)
 

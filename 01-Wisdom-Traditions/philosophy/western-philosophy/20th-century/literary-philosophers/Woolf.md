@@ -1,7 +1,6 @@
 ---
-
 title: "弗吉尼亚·伍尔夫 (Virginia Woolf) - 哲学思想全览"
-description: "弗吉尼亚·伍尔夫 (Virginia Woolf) - 哲学思想全览的详细解析与实践指南"
+description: "弗吉尼亚·伍尔夫 (Virginia Woolf) - 哲学思想全览 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["music", "personality", "philosophy", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是弗吉尼亚·伍尔夫  - 哲学思想全览"
   - "弗吉尼亚·伍尔夫  - 哲学思想全览的核心概念"
   - "弗吉尼亚·伍尔夫  - 哲学思想全览的方法与实践"
-trigger_keywords: ["弗吉尼亚", "anxiety", "art", "developmental", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Enneagram_System.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["弗吉尼亚", "伍尔夫", "Virginia", "Woolf", "哲学思想全览"]
+cross_refs: []
 ---
 # 弗吉尼亚·伍尔夫 (Virginia Woolf) - 哲学思想全览
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Direct Recognition Traditions (直接认知流派：技术地图与教法全息)"
-description: "Direct Recognition Traditions (直接认知流派：技术地图与教法全息)的详细解析与实践指南"
+description: "Direct Recognition Traditions (直接认知流派：技术地图与教法全息) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["anxiety", "dzogchen", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct Recognition Traditions"
   - "Direct Recognition Traditions的核心概念"
   - "Direct Recognition Traditions的方法与实践"
-trigger_keywords: ["aging", "anxiety", "body", "breathwork"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Direct", "Recognition", "Traditions", "直接认知流派：技术地图与教法全息"]
+cross_refs: []
 ---
 # Direct Recognition Traditions (直接认知流派：技术地图与教法全息)
 

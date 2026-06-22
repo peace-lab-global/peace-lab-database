@@ -1,7 +1,6 @@
 ---
-
 title: "职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)"
-description: "职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)的详细解析与实践指南"
+description: "职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "intervention", "leadership", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场语言霸凌与PUA专业知识数据库"
   - "职场语言霸凌与PUA专业知识数据库的核心概念"
   - "职场语言霸凌与PUA专业知识数据库的方法与实践"
-trigger_keywords: ["behavioral", "cognitive", "communication", "intervention"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
-    relation: "communication/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "communication/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun.md"
-    relation: "communication/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md"
-    relation: "communication/personality/sexuality"
-
+trigger_keywords: ["intervention", "职场语言霸凌与PUA专业知识数据库", "Workplace", "Verbal", "Bullying"]
+cross_refs: []
 ---
 # 职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)
 

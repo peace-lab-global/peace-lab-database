@@ -1,7 +1,6 @@
 ---
-
 title: "表达性艺术治疗交叉引用体系 (Expressive Arts Therapy Cross-Reference System)"
-description: "表达性艺术治疗交叉引用体系 (Expressive Arts Therapy Cross-Reference System)的详细解析与实践指南"
+description: "表达性艺术治疗交叉引用体系 (Expressive Arts Therapy Cross-Reference System) —— 艺术 · Expressive Arts 专题"
 category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "表达性艺术治疗交叉引用体系的核心概念"
   - "表达性艺术治疗交叉引用体系的方法与实践"
   - "表达性艺术治疗交叉引用体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["表达性艺术治疗交叉引用体系", "Expressive", "Arts", "Therapy", "Cross-Reference"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/INDEX.md"
+    relation: "oh/cards/oh-cards-therapy"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Terminology_Concepts.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Techniques_Methods.md"
+    relation: "oh/cards/integration"
 ---
 # 表达性艺术治疗交叉引用体系 (Expressive Arts Therapy Cross-Reference System)
 

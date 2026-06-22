@@ -1,7 +1,6 @@
 ---
-
 title: "TED身体健康与医学精选 | TED Health & Medicine Collection"
-description: "TED身体健康与医学精选 | TED Health & Medicine Collection的详细解析与实践指南"
+description: "TED身体健康与医学精选 | TED Health & Medicine Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED身体健康与医学精选 | TED Health & Medicine Collection"
   - "TED身体健康与医学精选 | TED Health & Medicine Collection的核心概念"
   - "TED身体健康与医学精选 | TED Health & Medicine Collection的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["TED身体健康与医学精选", "TED", "Health", "Medicine", "Collection"]
+cross_refs: []
 ---
 # TED身体健康与医学精选 | TED Health & Medicine Collection
 

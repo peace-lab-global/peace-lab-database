@@ -1,7 +1,6 @@
 ---
-
 title: "冥想数字化产业 | Meditation Digital Industry"
-description: "冥想数字化产业 | Meditation Digital Industry的详细解析与实践指南"
+description: "冥想数字化产业 | Meditation Digital Industry —— 冥想 · Career Business 专题"
 category: "心智与心理学 > 冥想 > Career Business"
 tags: ["brain", "meditation", "sleep", "anxiety", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想数字化产业 | Meditation Digital Industry"
   - "冥想数字化产业 | Meditation Digital Industry的核心概念"
   - "冥想数字化产业 | Meditation Digital Industry的方法与实践"
-trigger_keywords: ["冥想数字化产业", "assessment", "behavioral", "brain", "breathwork"]
+trigger_keywords: ["冥想数字化产业", "Meditation", "Digital", "Industry"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Overview.md"
-    relation: "anxiety/emotion/meditation"
-
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Digital_Industry.md"
+    relation: "app/industry/digital"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "vr/ai/ar"
+  - path: "01-Wisdom-Traditions/yoga/career-business/INDEX.md"
+    relation: "business/career/app"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "ai/vr/digital"
 ---
 # 冥想数字化产业 | Meditation Digital Industry
 

@@ -1,7 +1,6 @@
 ---
-
 title: "直接认证修习实践指南"
-description: "直接认证修习实践指南的详细解析与实践指南"
+description: "直接认证修习实践指南 —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["brain", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是直接认证修习实践指南"
   - "直接认证修习实践指南的核心概念"
   - "直接认证修习实践指南的方法与实践"
-trigger_keywords: ["直接认证修习实践指南", "behavioral", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-preludes/Chopin_Preludes_Overview.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/emotion"
-
+trigger_keywords: ["直接认证修习实践指南"]
+cross_refs: []
 ---
 # 直接认证修习实践指南
 

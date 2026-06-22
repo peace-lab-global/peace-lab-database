@@ -1,7 +1,6 @@
 ---
-
 title: "阿尔-加扎利 (Al-Ghazali)"
-description: "阿尔-加扎利 (Al-Ghazali)的详细解析与实践指南"
+description: "阿尔-加扎利 (Al-Ghazali) —— Medieval · Islamic 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Islamic"
 tags: ["cbt", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是阿尔-加扎利"
   - "阿尔-加扎利的核心概念"
   - "阿尔-加扎利的方法与实践"
-trigger_keywords: ["阿尔-加扎利", "behavioral", "cbt", "cognitive", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
-    relation: "emotion/exercise/meditation"
-
+trigger_keywords: ["阿尔-加扎利", "cbt"]
+cross_refs: []
 ---
 # 阿尔-加扎利 (Al-Ghazali)
 ## 核心思想 (Core Ideas)

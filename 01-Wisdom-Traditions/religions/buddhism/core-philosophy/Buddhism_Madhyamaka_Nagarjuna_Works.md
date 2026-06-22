@@ -1,7 +1,6 @@
 ---
-
 title: "龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)"
-description: "龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)的详细解析与实践指南"
+description: "龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是龙树论典体系深度解析"
   - "龙树论典体系深度解析的核心概念"
   - "龙树论典体系深度解析的方法与实践"
-trigger_keywords: ["龙树论典体系深度解析", "behavioral", "buddhism", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/exercise/sexuality"
-
+trigger_keywords: ["龙树论典体系深度解析", "Nāgārjuna's", "Treatises", "In-Depth", "Analysis"]
+cross_refs: []
 ---
 # 龙树论典体系深度解析 (Nāgārjuna's Treatises In-Depth Analysis)
 

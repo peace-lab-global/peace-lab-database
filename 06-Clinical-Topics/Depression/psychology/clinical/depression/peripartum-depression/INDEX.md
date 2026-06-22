@@ -1,7 +1,6 @@
 ---
-
 title: "围产期抑郁 (Peripartum Depression) | Index"
-description: "围产期抑郁 (Peripartum Depression) | Index的详细解析与实践指南"
+description: "围产期抑郁 (Peripartum Depression) | Index —— 抑郁症 · Peripartum Depression 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Peripartum Depression"
 tags: ["depression", "intervention", "nutrition", "ocd", "sleep"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "围产期抑郁  | Index的核心概念"
   - "围产期抑郁  | Index的方法与实践"
   - "围产期抑郁  | Index的自助方法"
-trigger_keywords: ["围产期抑郁", "Index", "assessment", "clinical", "crisis", "depression"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "depression/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "depression/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "depression/emotion/sexuality"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "depression/emotion/sexuality"
-
+trigger_keywords: ["围产期抑郁", "depression"]
+cross_refs: []
 ---
 # 围产期抑郁 (Peripartum Depression) | Index
 

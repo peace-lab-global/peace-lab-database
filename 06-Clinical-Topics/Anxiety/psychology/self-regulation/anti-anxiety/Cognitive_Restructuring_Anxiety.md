@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑认知重构"
-description: "焦虑认知重构的详细解析与实践指南"
+description: "焦虑认知重构 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain", "phobia"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑认知重构的核心概念"
   - "焦虑认知重构的方法与实践"
   - "焦虑认知重构的自助方法"
-trigger_keywords: ["焦虑认知重构", "anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/communication"
-
+trigger_keywords: ["焦虑认知重构"]
+cross_refs: []
 ---
 # 焦虑认知重构
 

@@ -1,7 +1,6 @@
 ---
-
 title: "政治心理学概览 (Political Psychology Overview)"
-description: "政治心理学概览 (Political Psychology Overview)的详细解析与实践指南"
+description: "政治心理学概览 (Political Psychology Overview) —— 社会心理学 · Political Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "政治心理学概览的核心概念"
   - "政治心理学概览的方法与实践"
   - "政治心理学概览的自助方法"
-trigger_keywords: ["政治心理学概览", "anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["政治心理学概览", "Political", "Psychology", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/exercise"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/communication/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
+    relation: "table/psychology/contents"
+  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
+    relation: "table/contents"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/Religious_Psychology_Cross_Cultural_Research.md"
+    relation: "table/psychology/contents"
+  - path: "01-Wisdom-Traditions/religions/catholicism/Catholicism_Overview_Full.md"
+    relation: "table/contents"
 ---
 # 政治心理学概览 (Political Psychology Overview)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《爱情刽子手》Love's Executioner"
-description: "《爱情刽子手》Love's Executioner的详细解析与实践指南"
+description: "《爱情刽子手》Love's Executioner —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["grief", "literature", "phobia", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《爱情刽子手》Love's Executioner"
   - "《爱情刽子手》Love's Executioner的核心概念"
   - "《爱情刽子手》Love's Executioner的方法与实践"
-trigger_keywords: ["anxiety", "death", "grief", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
-    relation: "anxiety/death/depression"
-
+trigger_keywords: ["grief", "《爱情刽子手》Love's", "Executioner"]
+cross_refs: []
 ---
 # 《爱情刽子手》Love's Executioner
 

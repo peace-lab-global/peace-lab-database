@@ -1,7 +1,6 @@
 ---
-
 title: "Dao in Modern Life (道家美学与现代生活)"
-description: "Dao in Modern Life (道家美学与现代生活)的详细解析与实践指南"
+description: "Dao in Modern Life (道家美学与现代生活) —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["calligraphy", "daoism", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Dao in Modern Life"
   - "Dao in Modern Life的核心概念"
   - "Dao in Modern Life的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "calligraphy"]
+trigger_keywords: ["calligraphy", "Dao", "in", "Modern", "Life"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/daoism"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/communication/daoism"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Terminology_Dictionary.md"
-    relation: "anxiety/communication/daoism"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/INDEX.md"
+    relation: "taoist/道家"
 ---
 # Dao in Modern Life (道家美学与现代生活)
 

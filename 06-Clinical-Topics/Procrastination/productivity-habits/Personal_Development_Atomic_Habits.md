@@ -1,7 +1,6 @@
 ---
-
 title: "Atomic Habits 原子习惯"
-description: "Atomic Habits 原子习惯的详细解析与实践指南"
+description: "Atomic Habits 原子习惯 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["decision-making", "flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Atomic Habits 原子习惯"
   - "Atomic Habits 原子习惯的核心概念"
   - "Atomic Habits 原子习惯的方法与实践"
-trigger_keywords: ["act", "behavioral", "brain", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/personality"
-
+trigger_keywords: ["Atomic", "Habits", "原子习惯"]
+cross_refs: []
 ---
 # Atomic Habits 原子习惯
 

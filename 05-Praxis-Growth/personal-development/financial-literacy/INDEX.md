@@ -1,7 +1,6 @@
 ---
-
 title: "财务素养与个人理财 (Financial Literacy) | Index"
-description: "财务素养与个人理财 (Financial Literacy) | Index的详细解析与实践指南"
+description: "财务素养与个人理财 (Financial Literacy) | Index —— 个人发展 · 财务素养 专题"
 category: "实践与个人增长 > 个人发展 > 财务素养"
 tags: ["addiction", "habits", "hpa-axis", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是财务素养与个人理财  | Index"
   - "财务素养与个人理财  | Index的核心概念"
   - "财务素养与个人理财  | Index的方法与实践"
-trigger_keywords: ["财务素养与个人理财", "Index", "addiction", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "attachment/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/exercise/meditation"
-
+trigger_keywords: ["财务素养与个人理财", "Financial", "Literacy"]
+cross_refs: []
 ---
 # 财务素养与个人理财 (Financial Literacy) | Index
 

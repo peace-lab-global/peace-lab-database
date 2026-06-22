@@ -1,7 +1,6 @@
 ---
-
 title: "bach-goldberg-variations | Index"
-description: "bach-goldberg-variations | Index的详细解析与实践指南"
+description: "bach-goldberg-variations | Index —— 古典音乐 · Bach Goldberg Variations 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Goldberg Variations"
 tags: ["古典音乐", "媒体", "music-therapy"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是bach-goldberg-variations | Index"
   - "bach-goldberg-variations | Index的核心概念"
   - "bach-goldberg-variations | Index的方法与实践"
-trigger_keywords: ["Index", "古典音乐", "媒体", "音乐"]
+trigger_keywords: ["古典音乐", "媒体", "音乐"]
 cross_refs: []
-
 ---
 # bach-goldberg-variations | Index
 

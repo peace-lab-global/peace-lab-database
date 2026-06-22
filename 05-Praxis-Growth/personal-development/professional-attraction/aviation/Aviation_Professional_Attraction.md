@@ -1,7 +1,6 @@
 ---
-
 title: "Aviation Professional Attraction Psychology (航空职业吸引心理学)"
-description: "Aviation Professional Attraction Psychology (航空职业吸引心理学)的详细解析与实践指南"
+description: "Aviation Professional Attraction Psychology (航空职业吸引心理学) —— Professional Attraction · Aviation 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > Aviation"
 tags: ["attachment", "cbt", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Aviation Professional Attraction Psychology"
   - "Aviation Professional Attraction Psychology的核心概念"
   - "Aviation Professional Attraction Psychology的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
-    relation: "attachment/emotion/personality"
-  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Recovery.md"
-    relation: "attachment/emotion/personality"
-  - path: "02-Mind-Psychology/psychology/developmental/child-development/INDEX.md"
-    relation: "attachment/emotion/personality"
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "attachment/emotion/personality"
-
+trigger_keywords: ["Aviation", "Professional", "Attraction", "Psychology", "航空职业吸引心理学"]
+cross_refs: []
 ---
 # Aviation Professional Attraction Psychology (航空职业吸引心理学)
 

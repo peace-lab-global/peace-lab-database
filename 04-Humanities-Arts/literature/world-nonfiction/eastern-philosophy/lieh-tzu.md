@@ -1,7 +1,6 @@
 ---
-
 title: "《列子》Lieh-tzu"
-description: "《列子》Lieh-tzu的详细解析与实践指南"
+description: "《列子》Lieh-tzu —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《列子》Lieh-tzu"
   - "《列子》Lieh-tzu的核心概念"
   - "《列子》Lieh-tzu的方法与实践"
-trigger_keywords: ["daoism", "death", "sexuality", "文学"]
+trigger_keywords: ["daoism", "文学"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/daoism/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/daoism/death"
-  - path: "README.md"
-    relation: "art_therapy/daoism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "daoism/death/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md"
+    relation: "庄子/道家"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "老子/道家/庄子"
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Dao_De_Jing.md"
+    relation: "老子/道家/无为"
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "道家/庄子/无为"
 ---
 # 《列子》Lieh-tzu
 

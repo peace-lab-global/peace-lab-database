@@ -1,7 +1,6 @@
 ---
-
 title: "向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)"
-description: "向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)的详细解析与实践指南"
+description: "向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是向上管理与情绪化上级应对"
   - "向上管理与情绪化上级应对的核心概念"
   - "向上管理与情绪化上级应对的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["向上管理与情绪化上级应对", "Upward", "Management", "Handling", "Emotionally"]
+cross_refs: []
 ---
 # 向上管理与情绪化上级应对 (Upward Management & Handling Emotionally Volatile Leaders)
 

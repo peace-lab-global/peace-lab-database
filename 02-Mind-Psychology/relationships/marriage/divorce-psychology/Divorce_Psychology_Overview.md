@@ -1,7 +1,6 @@
 ---
-
 title: "离婚心理学专业内容体系"
-description: "离婚心理学专业内容体系的详细解析与实践指南"
+description: "离婚心理学专业内容体系 —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "离婚心理学专业内容体系的核心概念"
   - "离婚心理学专业内容体系的方法与实践"
   - "离婚心理学专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["离婚心理学专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/depression"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "婚姻/压力"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "婚姻/压力"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
+    relation: "婚姻/压力"
 ---
 # 离婚心理学专业内容体系
 

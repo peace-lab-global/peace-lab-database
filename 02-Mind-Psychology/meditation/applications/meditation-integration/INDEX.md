@@ -1,7 +1,6 @@
 ---
-
 title: "冥想跨领域整合索引"
-description: "冥想跨领域整合索引的详细解析与实践指南"
+description: "冥想跨领域整合索引 —— 冥想 · Meditation Integration 专题"
 category: "心智与心理学 > 冥想 > Meditation Integration"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想跨领域整合索引"
   - "冥想跨领域整合索引的核心概念"
   - "冥想跨领域整合索引的方法与实践"
-trigger_keywords: ["冥想跨领域整合索引", "act", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["冥想跨领域整合索引"]
+cross_refs: []
 ---
 # 冥想跨领域整合索引
 

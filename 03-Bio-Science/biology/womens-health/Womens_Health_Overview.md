@@ -1,7 +1,6 @@
 ---
-
 title: "女性生理健康总览 | Women's Health Overview"
-description: "女性生理健康总览 | Women's Health Overview的详细解析与实践指南"
+description: "女性生理健康总览 | Women's Health Overview —— 生物学 · Womens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Womens Health"
 tags: ["cardiovascular", "depression", "exercise", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是女性生理健康总览 | Women's Health Overview"
   - "女性生理健康总览 | Women's Health Overview的核心概念"
   - "女性生理健康总览 | Women's Health Overview的方法与实践"
-trigger_keywords: ["女性生理健康总览", "anxiety", "body", "cardiovascular", "cognitive"]
+trigger_keywords: ["女性生理健康总览", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "anxiety/body_image/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Clinical_Case_Collection.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "免疫/抑郁"
+  - path: "01-Wisdom-Traditions/tai-chi/special-populations/TaiChi_Pregnancy_Womens_Health.md"
+    relation: "women/health"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
+    relation: "免疫/health/抑郁"
 ---
 # 女性生理健康总览 | Women's Health Overview
 

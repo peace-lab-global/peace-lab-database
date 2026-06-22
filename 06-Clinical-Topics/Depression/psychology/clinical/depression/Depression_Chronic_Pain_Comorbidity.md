@@ -1,7 +1,6 @@
 ---
-
 title: "Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题)"
-description: "Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题)的详细解析与实践指南"
+description: "Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题) —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["anxiety", "brain", "cardiovascular", "depression", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Depression & Chronic Pain Comorbidity"
   - "Depression & Chronic Pain Comorbidity的核心概念"
   - "Depression & Chronic Pain Comorbidity的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Depression", "Chronic", "Pain", "Comorbidity", "抑郁症与慢性疼痛交叉专题"]
+cross_refs: []
 ---
 # Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题)
 

@@ -1,6 +1,6 @@
 ---
 title: "环境政策"
-description: "环境政策的详细解析与实践指南"
+description: "环境政策 —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

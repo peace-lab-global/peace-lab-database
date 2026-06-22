@@ -1,7 +1,6 @@
 ---
-
 title: "《改变的特质》Altered Traits"
-description: "《改变的特质》Altered Traits的详细解析与实践指南"
+description: "《改变的特质》Altered Traits —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["cortisol", "dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《改变的特质》Altered Traits"
   - "《改变的特质》Altered Traits的核心概念"
   - "《改变的特质》Altered Traits的方法与实践"
-trigger_keywords: ["aging", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
-    relation: "aging/emotion/meditation"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/emotion/meditation"
-
+trigger_keywords: ["《改变的特质》Altered", "Traits"]
+cross_refs: []
 ---
 # 《改变的特质》Altered Traits
 

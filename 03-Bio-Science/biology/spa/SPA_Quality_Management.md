@@ -1,7 +1,6 @@
 ---
-
 title: "SPA Quality Management & Standardization (SPA质量管理与标准化)"
-description: "SPA Quality Management & Standardization (SPA质量管理与标准化)的详细解析与实践指南"
+description: "SPA Quality Management & Standardization (SPA质量管理与标准化) —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["brain", "decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是SPA Quality Management & Standardization"
   - "SPA Quality Management & Standardization的核心概念"
   - "SPA Quality Management & Standardization的方法与实践"
-trigger_keywords: ["act", "assessment", "body", "brain"]
+trigger_keywords: ["SPA", "Quality", "Management", "Standardization", "SPA质量管理与标准化"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/neuroscience/productivity"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md"
+    relation: "quality/certification/mechanism"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/quality/Quality_Standards_Consistency_Check.md"
+    relation: "quality/standardization/pdca"
 ---
 # SPA Quality Management & Standardization (SPA质量管理与标准化)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《寒山》Cold Mountain"
-description: "《寒山》Cold Mountain的详细解析与实践指南"
+description: "《寒山》Cold Mountain —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["literature", "loneliness", "spirituality", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《寒山》Cold Mountain"
   - "《寒山》Cold Mountain的核心概念"
   - "《寒山》Cold Mountain的方法与实践"
-trigger_keywords: ["buddhism", "death", "exercise", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
-    relation: "buddhism/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-
+trigger_keywords: ["exercise", "《寒山》Cold", "Mountain"]
+cross_refs: []
 ---
 # 《寒山》Cold Mountain
 

@@ -1,7 +1,6 @@
 ---
-
 title: "大方广佛华严经普贤行愿品"
-description: "大方广佛华严经普贤行愿品的详细解析与实践指南"
+description: "大方广佛华严经普贤行愿品 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "music", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是大方广佛华严经普贤行愿品"
   - "大方广佛华严经普贤行愿品的核心概念"
   - "大方广佛华严经普贤行愿品的方法与实践"
-trigger_keywords: ["buddhism", "music", "sexuality", "佛教"]
+trigger_keywords: ["music", "佛教"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "菩萨/般若"
 ---
 # 大方广佛华严经普贤行愿品
 

@@ -1,7 +1,6 @@
 ---
-
 title: "田小娥与白鹿原上的女性命运"
-description: "田小娥与白鹿原上的女性命运的详细解析与实践指南"
+description: "田小娥与白鹿原上的女性命运 —— Contemporary · White Deer Plain 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是田小娥与白鹿原上的女性命运"
   - "田小娥与白鹿原上的女性命运的核心概念"
   - "田小娥与白鹿原上的女性命运的方法与实践"
-trigger_keywords: ["brain", "death", "literature", "marriage"]
+trigger_keywords: ["marriage", "田小娥与白鹿原上的女性命运"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/death/exercise"
-  - path: "02-Mind-Psychology/psychology/social/hatred/Hatred_Theoretical_Framework.md"
-    relation: "attachment/death/exercise"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
-    relation: "attachment/death/exercise"
-  - path: "03-Bio-Science/death/Death_Grief_Technology.md"
-    relation: "attachment/death/exercise"
-  - path: "README.md"
-    relation: "art_therapy/attachment/death"
-
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Assessment_Tools.md"
+    relation: "婚姻/意义"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Marriage_Repair.md"
+    relation: "婚姻/意义"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "婚姻/意义"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "婚姻/意义"
 ---
 # 田小娥与白鹿原上的女性命运
 

@@ -1,7 +1,6 @@
 ---
-
 title: "步行整合应用实践 (Walking Integration Practices)"
-description: "步行整合应用实践 (Walking Integration Practices)的详细解析与实践指南"
+description: "步行整合应用实践 (Walking Integration Practices) —— 个人发展 · Walking 专题"
 category: "实践与个人增长 > 个人发展 > Walking"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是步行整合应用实践"
   - "步行整合应用实践的核心概念"
   - "步行整合应用实践的方法与实践"
-trigger_keywords: ["步行整合应用实践", "act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["步行整合应用实践", "Walking", "Integration", "Practices"]
+cross_refs: []
 ---
 # 步行整合应用实践 (Walking Integration Practices)
 

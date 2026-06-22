@@ -1,7 +1,6 @@
 ---
-
 title: "佛教高级修行主题详论 (Advanced Buddhist Practice Topics)"
-description: "佛教高级修行主题详论 (Advanced Buddhist Practice Topics)的详细解析与实践指南"
+description: "佛教高级修行主题详论 (Advanced Buddhist Practice Topics) —— 佛教 · Advanced 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Advanced"
 tags: ["buddhism", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是佛教高级修行主题详论"
   - "佛教高级修行主题详论的核心概念"
   - "佛教高级修行主题详论的方法与实践"
-trigger_keywords: ["佛教高级修行主题详论", "act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/death/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-
+trigger_keywords: ["佛教高级修行主题详论", "Advanced", "Buddhist", "Practice", "Topics"]
+cross_refs: []
 ---
 # 佛教高级修行主题详论 (Advanced Buddhist Practice Topics)
 

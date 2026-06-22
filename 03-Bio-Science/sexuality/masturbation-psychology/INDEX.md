@@ -1,7 +1,6 @@
 ---
-
 title: "masturbation-psychology | 自慰心理学：生物科学视角"
-description: "masturbation-psychology | 自慰心理学：生物科学视角的详细解析与实践指南"
+description: "masturbation-psychology | 自慰心理学：生物科学视角 —— 性学 · Masturbation Psychology 专题"
 category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
 tags: ["aging", "cbt", "intervention", "neuroscience", "sexuality"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "masturbation-psychology | 自慰心理学：生物科学视角的核心概念"
   - "masturbation-psychology | 自慰心理学：生物科学视角的方法与实践"
   - "masturbation-psychology | 自慰心理学：生物科学视角的自助方法"
-trigger_keywords: ["aging", "assessment", "behavioral", "cbt"]
+trigger_keywords: ["cbt", "masturbation-psychology", "自慰心理学：生物科学视角"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "aging/attachment/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/attachment/neuroscience"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Personality_Attachment.md"
-    relation: "aging/attachment/neuroscience"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Sources_Etiology.md"
-    relation: "aging/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/neuroscience/personality"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/masturbation-psychology/INDEX.md"
+    relation: "masturbation/masturbation-psychology/contents"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/INDEX.md"
+    relation: "masturbation/masturbation-psychology/contents"
 ---
 # masturbation-psychology | 自慰心理学：生物科学视角
 

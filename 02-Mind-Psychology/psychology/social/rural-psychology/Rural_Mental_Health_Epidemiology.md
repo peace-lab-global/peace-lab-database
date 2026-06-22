@@ -1,7 +1,6 @@
 ---
-
 title: "Rural Mental Health Epidemiology (农村心理健康流行病学)"
-description: "Rural Mental Health Epidemiology (农村心理健康流行病学)的详细解析与实践指南"
+description: "Rural Mental Health Epidemiology (农村心理健康流行病学) —— 社会心理学 · Rural Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
 tags: ["addiction", "anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Rural Mental Health Epidemiology"
   - "Rural Mental Health Epidemiology的核心概念"
   - "Rural Mental Health Epidemiology的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Rural", "Mental", "Health", "Epidemiology", "农村心理健康流行病学"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
   - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-
+    relation: "自杀/mental/health"
 ---
 # Rural Mental Health Epidemiology (农村心理健康流行病学)
 

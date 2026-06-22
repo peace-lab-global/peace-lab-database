@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾形成机制分析 (Erotic Literature Addiction Formation Mechanisms Analysis)"
-description: "色情文学成瘾形成机制分析 (Erotic Literature Addiction Formation Mechanisms Analysis)的详细解析与实践指南"
+description: "色情文学成瘾形成机制分析 (Erotic Literature Addiction Formation Mechanisms Analysis) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "anxiety", "brain", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是色情文学成瘾形成机制分析"
   - "色情文学成瘾形成机制分析的核心概念"
   - "色情文学成瘾形成机制分析的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["色情文学成瘾形成机制分析", "Erotic", "Literature", "Addiction", "Formation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/authority-complex/Formation_Mechanisms_Analysis.md"
+    relation: "formation/mechanisms/multilevel"
 ---
 # 色情文学成瘾形成机制分析 (Erotic Literature Addiction Formation Mechanisms Analysis)
 

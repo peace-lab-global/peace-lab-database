@@ -1,7 +1,6 @@
 ---
-
 title: "循环经济 | Circular Economy"
-description: "循环经济 | Circular Economy的详细解析与实践指南"
+description: "循环经济 | Circular Economy —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是循环经济 | Circular Economy"
   - "循环经济 | Circular Economy的核心概念"
   - "循环经济 | Circular Economy的方法与实践"
-trigger_keywords: ["循环经济", "act", "assessment", "crisis", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["循环经济", "decision-making"]
+cross_refs: []
 ---
 # 循环经济 | Circular Economy
 

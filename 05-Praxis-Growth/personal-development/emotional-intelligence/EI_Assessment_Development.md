@@ -1,7 +1,6 @@
 ---
-
 title: "情商评估与发展体系 (EI Assessment & Development)"
-description: "情商评估与发展体系 (EI Assessment & Development)的详细解析与实践指南"
+description: "情商评估与发展体系 (EI Assessment & Development) —— 个人发展 · 情商 专题"
 category: "实践与个人增长 > 个人发展 > 情商"
 tags: ["communication"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是情商评估与发展体系"
   - "情商评估与发展体系的核心概念"
   - "情商评估与发展体系的方法与实践"
-trigger_keywords: ["情商评估与发展体系", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["情商评估与发展体系", "EI", "Assessment", "Development"]
+cross_refs: []
 ---
 # 情商评估与发展体系 (EI Assessment & Development)
 

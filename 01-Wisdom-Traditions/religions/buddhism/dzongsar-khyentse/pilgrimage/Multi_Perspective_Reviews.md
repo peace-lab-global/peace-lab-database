@@ -1,7 +1,6 @@
 ---
-
 title: "《朝圣》三方书评"
-description: "《朝圣》三方书评的详细解析与实践指南"
+description: "《朝圣》三方书评 —— Dzongsar Khyentse · Pilgrimage 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Pilgrimage"
 tags: ["buddhism", "philosophy", "religion", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《朝圣》三方书评"
   - "《朝圣》三方书评的核心概念"
   - "《朝圣》三方书评的方法与实践"
-trigger_keywords: ["《朝圣》三方书评", "buddhism", "literature", "philosophy", "religion"]
+trigger_keywords: ["《朝圣》三方书评", "religion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/exercise/sexuality"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "力量/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "菩提/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "菩提/佛法/佛教"
 ---
 # 《朝圣》三方书评
 

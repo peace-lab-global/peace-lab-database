@@ -1,7 +1,6 @@
 ---
-
 title: "《有意识的心智》The Conscious Mind"
-description: "《有意识的心智》The Conscious Mind的详细解析与实践指南"
+description: "《有意识的心智》The Conscious Mind —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《有意识的心智》The Conscious Mind"
   - "《有意识的心智》The Conscious Mind的核心概念"
   - "《有意识的心智》The Conscious Mind的方法与实践"
-trigger_keywords: ["behavioral", "brain", "cognitive", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "exercise/neuroscience/pain"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "exercise/neuroscience/pain"
-
+trigger_keywords: ["《有意识的心智》The", "Conscious", "Mind"]
+cross_refs: []
 ---
 # 《有意识的心智》The Conscious Mind
 

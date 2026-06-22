@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Policy and Social Support (生育性别焦虑的政策与社会支持)"
-description: "Birth Gender Anxiety: Policy and Social Support (生育性别焦虑的政策与社会支持)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Policy and Social Support (生育性别焦虑的政策与社会支持) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Policy and Social Support"
   - "Birth Gender Anxiety: Policy and Social Support的核心概念"
   - "Birth Gender Anxiety: Policy and Social Support的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Policy", "and"]
+cross_refs: []
 ---
 # Birth Gender Anxiety: Policy and Social Support (生育性别焦虑的政策与社会支持)
 

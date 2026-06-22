@@ -1,7 +1,6 @@
 ---
-
 title: "沈从文 (Shen Congwen) - 哲学思想全览"
-description: "沈从文 (Shen Congwen) - 哲学思想全览的详细解析与实践指南"
+description: "沈从文 (Shen Congwen) - 哲学思想全览 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["healing", "marriage", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是沈从文  - 哲学思想全览"
   - "沈从文  - 哲学思想全览的核心概念"
   - "沈从文  - 哲学思想全览的方法与实践"
-trigger_keywords: ["art", "body", "crisis", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/social/friendship/Same_Gender_Friendship_Psychology.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Marriage_Repair.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["沈从文", "Shen", "Congwen", "哲学思想全览"]
+cross_refs: []
 ---
 # 沈从文 (Shen Congwen) - 哲学思想全览
 

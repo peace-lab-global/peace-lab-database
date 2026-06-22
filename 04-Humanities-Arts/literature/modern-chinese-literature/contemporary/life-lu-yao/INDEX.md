@@ -1,7 +1,6 @@
 ---
-
 title: "Life | 人生"
-description: "Life | 人生的详细解析与实践指南"
+description: "Life | 人生 —— Contemporary · Life Lu Yao 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
 tags: ["cinema", "literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是Life | 人生"
   - "Life | 人生的核心概念"
   - "Life | 人生的方法与实践"
-trigger_keywords: ["Life", "人生", "cinema", "philosophy", "文学"]
+trigger_keywords: ["Life", "人生", "cinema", "文学"]
 cross_refs: []
-
 ---
 # Life | 人生
 

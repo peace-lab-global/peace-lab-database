@@ -1,7 +1,6 @@
 ---
-
 title: "《分裂的自我》The Divided Self"
-description: "《分裂的自我》The Divided Self的详细解析与实践指南"
+description: "《分裂的自我》The Divided Self —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["personality", "treatment", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《分裂的自我》The Divided Self"
   - "《分裂的自我》The Divided Self的核心概念"
   - "《分裂的自我》The Divided Self的方法与实践"
-trigger_keywords: ["brain", "personality", "psychology", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/neuroscience/personality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md"
-    relation: "neuroscience/personality/sexuality"
-
+trigger_keywords: ["personality", "《分裂的自我》The", "Divided", "Self"]
+cross_refs: []
 ---
 # 《分裂的自我》The Divided Self
 

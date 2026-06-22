@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Mind Management (冥想心念管理方法论)"
-description: "Meditation Mind Management (冥想心念管理方法论)的详细解析与实践指南"
+description: "Meditation Mind Management (冥想心念管理方法论) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Meditation Mind Management"
   - "Meditation Mind Management的核心概念"
   - "Meditation Mind Management的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Meditation", "Mind", "Management", "冥想心念管理方法论"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "冥想/meditation/焦虑"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-mind-illuminated.md"
+    relation: "mind/冥想"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-relaxation-response.md"
+    relation: "冥想/mind"
 ---
 # Meditation Mind Management (冥想心念管理方法论)
 

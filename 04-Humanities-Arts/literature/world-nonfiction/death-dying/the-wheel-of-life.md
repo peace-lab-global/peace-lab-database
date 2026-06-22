@@ -1,7 +1,6 @@
 ---
-
 title: "《生命之轮》The Wheel of Life"
-description: "《生命之轮》The Wheel of Life的详细解析与实践指南"
+description: "《生命之轮》The Wheel of Life —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["depression", "spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《生命之轮》The Wheel of Life"
   - "《生命之轮》The Wheel of Life的核心概念"
   - "《生命之轮》The Wheel of Life的方法与实践"
-trigger_keywords: ["communication", "death", "depression", "neuroscience"]
+trigger_keywords: ["depression", "neuroscience"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "communication/death/depression"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《生命之轮》The Wheel of Life
 

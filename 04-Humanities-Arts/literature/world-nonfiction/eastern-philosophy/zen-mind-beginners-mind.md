@@ -1,7 +1,6 @@
 ---
-
 title: "《禅者的初心》Zen Mind, Beginner's Mind"
-description: "《禅者的初心》Zen Mind, Beginner's Mind的详细解析与实践指南"
+description: "《禅者的初心》Zen Mind, Beginner's Mind —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《禅者的初心》Zen Mind, Beginner's Mind"
   - "《禅者的初心》Zen Mind, Beginner's Mind的核心概念"
   - "《禅者的初心》Zen Mind, Beginner's Mind的方法与实践"
-trigger_keywords: ["brain", "breathwork", "buddhism", "death"]
+trigger_keywords: ["《禅者的初心》Zen", "Mind", "Beginner's"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/death/exercise"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Multi_Perspective_Reviews.md"
+    relation: "suzuki/禅宗"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/zen"
 ---
 # 《禅者的初心》Zen Mind, Beginner's Mind
 

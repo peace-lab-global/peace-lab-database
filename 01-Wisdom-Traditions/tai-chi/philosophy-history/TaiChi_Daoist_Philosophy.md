@@ -13,12 +13,8 @@ intent_queries:
   - "无极太极阴阳的宇宙观"
 trigger_keywords: ["道家", "道德经", "太极", "无极", "阴阳", "庄子"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/"
-    relation: "daoist-philosophy"
-  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
-    relation: "yinyang-theory"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/"
-    relation: "east-asian-thought"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "阴阳/道家/庄子"
 ---
 # 太极与道家哲学 | Tai Chi & Daoist Philosophy
 

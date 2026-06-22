@@ -1,7 +1,6 @@
 ---
-
 title: "职业转型 | Career Transition"
-description: "职业转型 | Career Transition的详细解析与实践指南"
+description: "职业转型 | Career Transition —— 个人发展 · Career Planning 专题"
 category: "实践与个人增长 > 个人发展 > Career Planning"
 tags: ["communication", "decision-making", "financial-literacy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是职业转型 | Career Transition"
   - "职业转型 | Career Transition的核心概念"
   - "职业转型 | Career Transition的方法与实践"
-trigger_keywords: ["职业转型", "assessment", "behavioral", "cognitive", "communication"]
+trigger_keywords: ["职业转型", "Career", "Transition"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/death"
-
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Career_Pathways.md"
+    relation: "career/瑜伽"
 ---
 # 职业转型 | Career Transition
 

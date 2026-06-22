@@ -1,7 +1,6 @@
 ---
-
 title: "Epileptic Psychosis Overview (癫痫所致精神障碍概览)"
-description: "Epileptic Psychosis Overview (癫痫所致精神障碍概览)的详细解析与实践指南"
+description: "Epileptic Psychosis Overview (癫痫所致精神障碍概览) —— 精神障碍 · Epileptic Psychosis 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Epileptic Psychosis"
 tags: ["brain", "neuroscience", "phobia", "religion", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Epileptic Psychosis Overview"
   - "Epileptic Psychosis Overview的核心概念"
   - "Epileptic Psychosis Overview的方法与实践"
-trigger_keywords: ["act", "behavioral", "brain", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+trigger_keywords: ["Epileptic", "Psychosis", "Overview", "癫痫所致精神障碍概览"]
+cross_refs: []
 ---
 # Epileptic Psychosis Overview (癫痫所致精神障碍概览)
 

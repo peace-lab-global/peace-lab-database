@@ -1,7 +1,6 @@
 ---
-
 title: "《音乐迷恋》Musicophilia"
-description: "《音乐迷恋》Musicophilia的详细解析与实践指南"
+description: "《音乐迷恋》Musicophilia —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["depression", "music", "therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《音乐迷恋》Musicophilia"
   - "《音乐迷恋》Musicophilia的核心概念"
   - "《音乐迷恋》Musicophilia的方法与实践"
-trigger_keywords: ["brain", "death", "depression", "exercise"]
+trigger_keywords: ["depression", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "communication/death/depression"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "communication/death/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/death/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《音乐迷恋》Musicophilia
 

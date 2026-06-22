@@ -1,7 +1,6 @@
 ---
-
 title: "Sūrya Namaskāra 拜日式详解"
-description: "Sūrya Namaskāra 拜日式详解的详细解析与实践指南"
+description: "Sūrya Namaskāra 拜日式详解 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["cardiovascular", "meditation", "mindfulness", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sūrya Namaskāra 拜日式详解"
   - "Sūrya Namaskāra 拜日式详解的核心概念"
   - "Sūrya Namaskāra 拜日式详解的方法与实践"
-trigger_keywords: ["aging", "breathwork", "cardiovascular", "exercise"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "aging/exercise/meditation"
-
+trigger_keywords: ["cardiovascular", "exercise"]
+cross_refs: []
 ---
 # Sūrya Namaskāra 拜日式详解
 

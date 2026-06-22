@@ -1,7 +1,6 @@
 ---
-
 title: "教育技术 | Educational Technology"
-description: "教育技术 | Educational Technology的详细解析与实践指南"
+description: "教育技术 | Educational Technology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["social"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是教育技术 | Educational Technology"
   - "教育技术 | Educational Technology的核心概念"
   - "教育技术 | Educational Technology的方法与实践"
-trigger_keywords: ["教育技术", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["教育技术", "Educational", "Technology"]
+cross_refs: []
 ---
 # 教育技术 | Educational Technology
 

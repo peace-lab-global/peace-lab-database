@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)"
-description: "Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)的详细解析与实践指南"
+description: "Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["addiction", "buddhism", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Meditation: Dhāraṇā & Dhyāna"
   - "Meditation: Dhāraṇā & Dhyāna的核心概念"
   - "Meditation: Dhāraṇā & Dhyāna的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["Meditation:", "Dhāraṇā", "Dhyāna", "冥想：专注与禅定"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md"
+    relation: "dhi/dhy/sam"
   - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/buddhism"
-
+    relation: "dhi/冥想/meditation"
 ---
 # Meditation: Dhāraṇā & Dhyāna (冥想：专注与禅定)
 

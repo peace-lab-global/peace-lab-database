@@ -1,7 +1,6 @@
 ---
-
 title: "法家经典原文 (Legalist Classics)"
-description: "法家经典原文 (Legalist Classics)的详细解析与实践指南"
+description: "法家经典原文 (Legalist Classics) —— 法家 · Classics 专题"
 category: "智慧传承 > 宗教与灵性 > 法家 > Classics"
 tags: ["daoism", "philosophy", "宗教与灵性", "法家"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是法家经典原文"
   - "法家经典原文的核心概念"
   - "法家经典原文的方法与实践"
-trigger_keywords: ["法家经典原文", "daoism", "philosophy", "psychology", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
-    relation: "daoism/sexuality"
-
+trigger_keywords: ["法家经典原文", "daoism"]
+cross_refs: []
 ---
 # 法家经典原文 (Legalist Classics)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析"
-description: "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析的核心概念"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析的方法与实践"
   - "拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析"]
+cross_refs: []
 ---
 # 拉赫玛尼诺夫《第三钢琴协奏曲》心理学与疗愈功能深度分析
 

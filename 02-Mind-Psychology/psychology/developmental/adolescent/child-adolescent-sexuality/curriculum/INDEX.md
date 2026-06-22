@@ -1,6 +1,6 @@
 ---
 title: "curriculum | Index"
-description: "curriculum | Index的详细解析与实践指南"
+description: "curriculum | Index —— Child Adolescent Sexuality · Curriculum 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Curriculum"
 tags: ["发展心理学", "心理学"]
 last_updated: "2026-05"
@@ -11,8 +11,14 @@ intent_queries:
   - "什么是curriculum | Index"
   - "curriculum | Index的核心概念"
   - "curriculum | Index的方法与实践"
-trigger_keywords: ["curriculum", "Index", "发展心理学", "心理学"]
-cross_refs: []
+trigger_keywords: ["curriculum", "发展心理学", "心理学"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md"
+    relation: "sexuality/education/curriculum"
+  - path: "03-Bio-Science/sexuality/education/Educational_Psychology_Overview.md"
+    relation: "sexuality/education"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/education/INDEX.md"
+    relation: "education/contents"
 ---
 # curriculum | Index
 

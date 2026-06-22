@@ -1,7 +1,6 @@
 ---
-
 title: "qing-novels | Index"
-description: "qing-novels | Index的详细解析与实践指南"
+description: "qing-novels | Index —— Chinese Classical Literature · Qing Novels 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Qing Novels"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是qing-novels | Index"
   - "qing-novels | Index的核心概念"
   - "qing-novels | Index的方法与实践"
-trigger_keywords: ["Index", "文学"]
+trigger_keywords: ["文学", "qing-novels"]
 cross_refs: []
-
 ---
 # qing-novels | Index
 

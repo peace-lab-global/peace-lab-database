@@ -1,6 +1,6 @@
 ---
 title: "dialectical-behavior-therapy | Index"
-description: "dialectical-behavior-therapy | Index的详细解析与实践指南"
+description: "dialectical-behavior-therapy | Index —— 疗法 · Dialectical Behavior Therapy 专题"
 category: "心智与心理学 > 疗法 > Dialectical Behavior Therapy"
 tags: ["疗法"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是dialectical-behavior-therapy | Index"
   - "dialectical-behavior-therapy | Index的核心概念"
   - "dialectical-behavior-therapy | Index的方法与实践"
-trigger_keywords: ["Index", "疗法"]
+trigger_keywords: ["疗法", "dialectical-behavior-therapy"]
 cross_refs: []
 ---
 # dialectical-behavior-therapy | Index

@@ -1,7 +1,6 @@
 ---
-
 title: "色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)"
-description: "色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)的详细解析与实践指南"
+description: "色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是色情成瘾研究方法与测量工具"
   - "色情成瘾研究方法与测量工具的核心概念"
   - "色情成瘾研究方法与测量工具的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["色情成瘾研究方法与测量工具", "Pornography", "Addiction", "Research", "Methods"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/neuroscience/productivity"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Research_Methods.md"
+    relation: "measurement/data/research"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/data"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Empirical_Research_Methods.md"
+    relation: "data/research/methods"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Research_Methods.md"
+    relation: "research/methods/statistical"
 ---
 # 色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)
 

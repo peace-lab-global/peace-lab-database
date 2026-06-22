@@ -1,7 +1,6 @@
 ---
-
 title: "组织学习 | Organizational Learning"
-description: "组织学习 | Organizational Learning的详细解析与实践指南"
+description: "组织学习 | Organizational Learning —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是组织学习 | Organizational Learning"
   - "组织学习 | Organizational Learning的核心概念"
   - "组织学习 | Organizational Learning的方法与实践"
-trigger_keywords: ["组织学习", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "exercise/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "exercise/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "exercise/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "exercise/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "exercise/neuroscience/sexuality"
-
+trigger_keywords: ["组织学习", "Organizational", "Learning"]
+cross_refs: []
 ---
 # 组织学习 | Organizational Learning
 

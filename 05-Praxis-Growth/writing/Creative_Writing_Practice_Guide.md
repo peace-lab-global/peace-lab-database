@@ -1,7 +1,6 @@
 ---
-
 title: "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής"
-description: "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的详细解析与实践指南"
+description: "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["writing"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής"
   - "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的核心概念"
   - "创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής的方法与实践"
-trigger_keywords: ["创意写作实践指南", "act", "anxiety", "art", "assessment"]
+trigger_keywords: ["创意写作实践指南", "Creative", "Writing", "Practice", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Listening_Guide.md"
+    relation: "习惯/专注/觉察"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第二讲：冥想的作用.md"
+    relation: "习惯/冥想/觉察"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/21_Day_Action_Plan.md"
+    relation: "习惯/觉察"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Daily_Training_Protocol.md"
+    relation: "习惯/觉察/专注"
 ---
 # 创意写作实践指南 | Creative Writing Practice Guide | Οδηγός Πρακτικής Δημιουργικής Συγγραφής
 

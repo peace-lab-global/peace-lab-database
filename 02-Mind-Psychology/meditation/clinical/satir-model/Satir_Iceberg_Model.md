@@ -1,7 +1,6 @@
 ---
-
 title: "Satir Iceberg Model (萨提亚冰山模型详表)"
-description: "Satir Iceberg Model (萨提亚冰山模型详表)的详细解析与实践指南"
+description: "Satir Iceberg Model (萨提亚冰山模型详表) —— 冥想 · 萨提亚模式 专题"
 category: "心智与心理学 > 冥想 > 萨提亚模式"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Satir Iceberg Model"
   - "Satir Iceberg Model的核心概念"
   - "Satir Iceberg Model的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Meeting_Practice.md"
-    relation: "anxiety/attachment/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/TED_Talks_Healing_Resources.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Satir", "Iceberg", "Model", "萨提亚冰山模型详表"]
+cross_refs: []
 ---
 # Satir Iceberg Model (萨提亚冰山模型详表)
 

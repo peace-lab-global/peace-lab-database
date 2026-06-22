@@ -1,7 +1,6 @@
 ---
-
 title: "瑞克·汉森 (Rick Hanson)"
-description: "瑞克·汉森 (Rick Hanson)的详细解析与实践指南"
+description: "瑞克·汉森 (Rick Hanson) —— Masters · Western Pioneers 专题"
 category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
 tags: ["brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是瑞克·汉森"
   - "瑞克·汉森的核心概念"
   - "瑞克·汉森的方法与实践"
-trigger_keywords: ["瑞克", "汉森", "act", "body", "brain", "buddhism"]
+trigger_keywords: ["瑞克", "汉森"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/buddhas-brain.md"
+    relation: "rick/hanson/冥想"
 ---
 # 瑞克·汉森 (Rick Hanson)
 

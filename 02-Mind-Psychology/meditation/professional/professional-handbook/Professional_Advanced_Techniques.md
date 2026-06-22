@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师技术进阶 | Professional Advanced Techniques"
-description: "冥想执行师技术进阶 | Professional Advanced Techniques的详细解析与实践指南"
+description: "冥想执行师技术进阶 | Professional Advanced Techniques —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["addiction", "anxiety", "mbsr", "adhd", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想执行师技术进阶 | Professional Advanced Techniques"
   - "冥想执行师技术进阶 | Professional Advanced Techniques的核心概念"
   - "冥想执行师技术进阶 | Professional Advanced Techniques的方法与实践"
-trigger_keywords: ["冥想执行师技术进阶", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["冥想执行师技术进阶", "Professional", "Advanced", "Techniques"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
+    relation: "呼吸法/冥想/瑜伽"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "内观/冥想/觉察"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-practice-of-vipassana.md"
+    relation: "内观/vipassana/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/INDEX.md"
+    relation: "samatha/vipassana/meditation"
 ---
 # 冥想执行师技术进阶 | Professional Advanced Techniques
 

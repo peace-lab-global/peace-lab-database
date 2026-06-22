@@ -1,7 +1,6 @@
 ---
-
 title: "《内观冥想练习册》The Insight Meditation Workbook"
-description: "《内观冥想练习册》The Insight Meditation Workbook的详细解析与实践指南"
+description: "《内观冥想练习册》The Insight Meditation Workbook —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《内观冥想练习册》The Insight Meditation Workbook"
   - "《内观冥想练习册》The Insight Meditation Workbook的核心概念"
   - "《内观冥想练习册》The Insight Meditation Workbook的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+trigger_keywords: ["《内观冥想练习册》The", "Insight", "Meditation", "Workbook"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/death/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/emotion"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与情绪共处/与情绪共处：答疑解惑：冥想的效果.md"
+    relation: "冥想/内观"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "觉察/冥想/正念"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/与当下同行：觉察是当下之门.md"
+    relation: "冥想/觉察"
+  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Journal_Template.md"
+    relation: "内观/冥想/meditation"
 ---
 # 《内观冥想练习册》The Insight Meditation Workbook
 

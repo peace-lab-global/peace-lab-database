@@ -1,7 +1,6 @@
 ---
-
 title: "Game Therapy (游戏疗法)"
-description: "Game Therapy (游戏疗法)的详细解析与实践指南"
+description: "Game Therapy (游戏疗法) —— 疗法 · Game Therapy 专题"
 category: "心智与心理学 > 疗法 > Game Therapy"
 tags: ["addiction", "anxiety", "brain", "cinema", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Game Therapy"
   - "Game Therapy的核心概念"
   - "Game Therapy的方法与实践"
-trigger_keywords: ["addiction", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["Game", "Therapy", "游戏疗法"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/flow/Flow_Clinical_Applications.md"
+    relation: "心流/flow/state"
+  - path: "05-Praxis-Growth/personal-development/flow/Flow_State_Core.md"
+    relation: "心流/flow/state"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Flow.md"
+    relation: "心流/flow/csikszentmihalyi"
 ---
 # Game Therapy (游戏疗法)
 

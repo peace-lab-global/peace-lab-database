@@ -1,7 +1,6 @@
 ---
-
 title: "青少年陪伴心理指导 (Adolescent Companionship Psychological Guidance)"
-description: "青少年陪伴心理指导 (Adolescent Companionship Psychological Guidance)的详细解析与实践指南"
+description: "青少年陪伴心理指导 (Adolescent Companionship Psychological Guidance) —— Adolescent · Adolescent Companionship 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Companionship"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "青少年陪伴心理指导的核心概念"
   - "青少年陪伴心理指导的方法与实践"
   - "青少年陪伴心理指导的自助方法"
-trigger_keywords: ["青少年陪伴心理指导", "act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["青少年陪伴心理指导", "Adolescent", "Companionship", "Psychological", "Guidance"]
+cross_refs: []
 ---
 # 青少年陪伴心理指导 (Adolescent Companionship Psychological Guidance)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《超觉冥想》Science of Being and Art of Living"
-description: "《超觉冥想》Science of Being and Art of Living的详细解析与实践指南"
+description: "《超觉冥想》Science of Being and Art of Living —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["habits", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《超觉冥想》Science of Being and Art of Living"
   - "《超觉冥想》Science of Being and Art of Living的核心概念"
   - "《超觉冥想》Science of Being and Art of Living的方法与实践"
-trigger_keywords: ["art", "breathwork", "exercise", "habits"]
+trigger_keywords: ["exercise", "habits"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/meditation/productivity"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/TM_Research_Evidence.md"
+    relation: "tm/transcendental/mahesh"
+  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
+    relation: "tm/mahesh/maharishi"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/transcendental-meditation/Transcendental_Meditation.md"
+    relation: "tm/transcendental/冥想"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Brain_Science_Foundations.md"
+    relation: "tm/冥想/science"
 ---
 # 《超觉冥想》Science of Being and Art of Living
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Television Series Therapy (电视剧疗法)"
-description: "Television Series Therapy (电视剧疗法)的详细解析与实践指南"
+description: "Television Series Therapy (电视剧疗法) —— Tv · Television Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Television Therapy"
 tags: ["addiction", "attachment", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Television Series Therapy"
   - "Television Series Therapy的核心概念"
   - "Television Series Therapy的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["Television", "Series", "Therapy", "电视剧疗法"]
+cross_refs: []
 ---
 # Television Series Therapy (电视剧疗法)
 

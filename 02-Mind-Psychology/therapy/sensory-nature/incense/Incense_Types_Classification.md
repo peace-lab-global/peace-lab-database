@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法分类与类型 (Incense Types & Classification)"
-description: "檀香疗法分类与类型 (Incense Types & Classification)的详细解析与实践指南"
+description: "檀香疗法分类与类型 (Incense Types & Classification) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "brain", "depression", "healing", "meditation", "sleep"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法分类与类型的核心概念"
   - "檀香疗法分类与类型的方法与实践"
   - "檀香疗法分类与类型的循证证据"
-trigger_keywords: ["檀香疗法分类与类型", "anxiety", "art", "brain", "buddhism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "03-Bio-Science/death/INDEX.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["檀香疗法分类与类型", "Incense", "Types", "Classification"]
+cross_refs: []
 ---
 # 檀香疗法分类与类型 (Incense Types & Classification)
 

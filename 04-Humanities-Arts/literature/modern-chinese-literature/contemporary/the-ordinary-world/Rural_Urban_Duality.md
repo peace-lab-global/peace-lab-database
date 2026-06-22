@@ -1,7 +1,6 @@
 ---
-
 title: "城乡二元结构 (Rural-Urban Duality)"
-description: "城乡二元结构 (Rural-Urban Duality)的详细解析与实践指南"
+description: "城乡二元结构 (Rural-Urban Duality) —— Contemporary · The Ordinary World 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Ordinary World"
 tags: ["literature", "social"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是城乡二元结构"
   - "城乡二元结构的核心概念"
   - "城乡二元结构的方法与实践"
-trigger_keywords: ["城乡二元结构", "body", "literature", "psychology", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/sexuality"
-
+trigger_keywords: ["城乡二元结构", "Rural-Urban", "Duality"]
+cross_refs: []
 ---
 # 城乡二元结构 (Rural-Urban Duality)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《心理的原型维度》Archetypal Dimensions of the Psyche"
-description: "《心理的原型维度》Archetypal Dimensions of the Psyche的详细解析与实践指南"
+description: "《心理的原型维度》Archetypal Dimensions of the Psyche —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "religion", "literature"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "《心理的原型维度》Archetypal Dimensions of the Psyche的核心概念"
   - "《心理的原型维度》Archetypal Dimensions of the Psyche的方法与实践"
   - "《心理的原型维度》Archetypal Dimensions of the Psyche的自助方法"
-trigger_keywords: ["death", "jung", "psychology", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "communication/death/emotion"
-
+trigger_keywords: ["jung", "religion"]
+cross_refs: []
 ---
 # 《心理的原型维度》Archetypal Dimensions of the Psyche
 

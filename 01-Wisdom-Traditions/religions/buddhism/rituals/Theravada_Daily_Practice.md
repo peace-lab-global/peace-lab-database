@@ -1,7 +1,6 @@
 ---
-
 title: "南传佛教日常功课仪轨 (Theravada Daily Practice Rituals)"
-description: "南传佛教日常功课仪轨 (Theravada Daily Practice Rituals)的详细解析与实践指南"
+description: "南传佛教日常功课仪轨 (Theravada Daily Practice Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "mindfulness", "宗教与灵性", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传佛教日常功课仪轨"
   - "南传佛教日常功课仪轨的核心概念"
   - "南传佛教日常功课仪轨的方法与实践"
-trigger_keywords: ["南传佛教日常功课仪轨", "act", "body", "breathwork", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["南传佛教日常功课仪轨", "Theravada", "Daily", "Practice", "Rituals"]
+cross_refs: []
 ---
 # 南传佛教日常功课仪轨 (Theravada Daily Practice Rituals)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞技术体系 (Ballet Technical System)"
-description: "芭蕾舞技术体系 (Ballet Technical System)的详细解析与实践指南"
+description: "芭蕾舞技术体系 (Ballet Technical System) —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是芭蕾舞技术体系"
   - "芭蕾舞技术体系的核心概念"
   - "芭蕾舞技术体系的方法与实践"
-trigger_keywords: ["芭蕾舞技术体系", "act", "art", "assessment", "ballet"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["芭蕾舞技术体系", "ballet"]
+cross_refs: []
 ---
 # 芭蕾舞技术体系 (Ballet Technical System)
 

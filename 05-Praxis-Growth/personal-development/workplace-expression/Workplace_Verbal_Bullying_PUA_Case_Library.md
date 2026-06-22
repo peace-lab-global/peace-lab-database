@@ -1,7 +1,6 @@
 ---
-
 title: "职场语言霸凌与PUA：案例库与行为模式分析 (Case Library & Behavioral Pattern Analysis)"
-description: "职场语言霸凌与PUA：案例库与行为模式分析 (Case Library & Behavioral Pattern Analysis)的详细解析与实践指南"
+description: "职场语言霸凌与PUA：案例库与行为模式分析 (Case Library & Behavioral Pattern Analysis) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["addiction", "communication", "personality", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场语言霸凌与PUA：案例库与行为模式分析"
   - "职场语言霸凌与PUA：案例库与行为模式分析的核心概念"
   - "职场语言霸凌与PUA：案例库与行为模式分析的方法与实践"
-trigger_keywords: ["addiction", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["职场语言霸凌与PUA：案例库与行为模式分析", "Case", "Library", "Behavioral", "Pattern"]
+cross_refs: []
 ---
 # 职场语言霸凌与PUA：案例库与行为模式分析 (Case Library & Behavioral Pattern Analysis)
 

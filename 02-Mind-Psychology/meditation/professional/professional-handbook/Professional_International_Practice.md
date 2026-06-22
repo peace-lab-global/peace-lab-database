@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师国际执业 | Professional International Practice"
-description: "冥想执行师国际执业 | Professional International Practice的详细解析与实践指南"
+description: "冥想执行师国际执业 | Professional International Practice —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["mbct", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想执行师国际执业 | Professional International Practice"
   - "冥想执行师国际执业 | Professional International Practice的核心概念"
   - "冥想执行师国际执业 | Professional International Practice的方法与实践"
-trigger_keywords: ["冥想执行师国际执业", "act", "body", "buddhism", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_History_Tradition.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/emotion/meditation"
-
+trigger_keywords: ["冥想执行师国际执业", "Professional", "International", "Practice"]
+cross_refs: []
 ---
 # 冥想执行师国际执业 | Professional International Practice
 

@@ -1,7 +1,6 @@
 ---
-
 title: "职业吸引心理学专业内容体系建设项目总结报告"
-description: "职业吸引心理学专业内容体系建设项目总结报告的详细解析与实践指南"
+description: "职业吸引心理学专业内容体系建设项目总结报告 —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "职业吸引心理学专业内容体系建设项目总结报告的核心概念"
   - "职业吸引心理学专业内容体系建设项目总结报告的方法与实践"
   - "职业吸引心理学专业内容体系建设项目总结报告的自助方法"
-trigger_keywords: ["act", "art", "assessment", "ballet"]
+trigger_keywords: ["ballet", "职业吸引心理学专业内容体系建设项目总结报告"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
-    relation: "sexuality/therapy/trauma"
-
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/PROJECT_SUMMARY.md"
+    relation: "kb/standards/ai"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Terminology_Standards.md"
+    relation: "standards/attraction/terminology"
 ---
 # 职业吸引心理学专业内容体系建设项目总结报告
 

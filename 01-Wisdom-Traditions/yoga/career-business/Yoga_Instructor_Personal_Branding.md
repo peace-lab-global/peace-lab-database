@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）"
-description: "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）的详细解析与实践指南"
+description: "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["decision-making", "meditation", "mindfulness", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）"
   - "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）的核心概念"
   - "瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）的方法与实践"
-trigger_keywords: ["瑜伽", "aging", "anxiety", "breathwork", "child"]
+trigger_keywords: ["瑜伽", "冥想导师个人品牌建设", "Personal", "Branding", "for"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Branding_Marketing.md"
+    relation: "branding/personal/冥想"
 ---
 # 瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）
 

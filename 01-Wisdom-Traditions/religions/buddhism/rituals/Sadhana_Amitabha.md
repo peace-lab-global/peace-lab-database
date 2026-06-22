@@ -1,7 +1,6 @@
 ---
-
 title: "阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)"
-description: "阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)的详细解析与实践指南"
+description: "阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "mindfulness", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是阿弥陀佛完整修持仪轨"
   - "阿弥陀佛完整修持仪轨的核心概念"
   - "阿弥陀佛完整修持仪轨的方法与实践"
-trigger_keywords: ["阿弥陀佛完整修持仪轨", "body", "buddhism", "mindfulness", "佛教"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["阿弥陀佛完整修持仪轨", "mindfulness", "佛教"]
+cross_refs: []
 ---
 # 阿弥陀佛完整修持仪轨 (Amitabha Buddha Sadhana)
 

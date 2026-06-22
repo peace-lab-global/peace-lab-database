@@ -1,7 +1,6 @@
 ---
-
 title: "重复出轨模式干预 (Chronic Infidelity Intervention)"
-description: "重复出轨模式干预 (Chronic Infidelity Intervention)的详细解析与实践指南"
+description: "重复出轨模式干预 (Chronic Infidelity Intervention) —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["addiction", "anxiety", "attachment", "cbt", "emdr", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是重复出轨模式干预"
   - "重复出轨模式干预的核心概念"
   - "重复出轨模式干预的方法与实践"
-trigger_keywords: ["重复出轨模式干预", "addiction", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/exercise"
-
+trigger_keywords: ["重复出轨模式干预", "Chronic", "Infidelity", "Intervention"]
+cross_refs: []
 ---
 # 重复出轨模式干预 (Chronic Infidelity Intervention)
 

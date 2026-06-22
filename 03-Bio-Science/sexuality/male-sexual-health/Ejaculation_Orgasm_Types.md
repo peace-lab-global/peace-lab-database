@@ -1,7 +1,6 @@
 ---
-
 title: "Ejaculation and Orgasm Types (射精与高潮类型)"
-description: "Ejaculation and Orgasm Types (射精与高潮类型)的详细解析与实践指南"
+description: "Ejaculation and Orgasm Types (射精与高潮类型) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["brain", "cbt", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Ejaculation and Orgasm Types"
   - "Ejaculation and Orgasm Types的核心概念"
   - "Ejaculation and Orgasm Types的方法与实践"
-trigger_keywords: ["behavioral", "brain", "cbt", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "communication/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["cbt", "Ejaculation", "and", "Orgasm", "Types"]
+cross_refs: []
 ---
 # Ejaculation and Orgasm Types (射精与高潮类型)
 

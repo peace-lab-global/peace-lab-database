@@ -1,7 +1,6 @@
 ---
-
 title: "南传上座部传统详论 (Theravāda Tradition Detailed)"
-description: "南传上座部传统详论 (Theravāda Tradition Detailed)的详细解析与实践指南"
+description: "南传上座部传统详论 (Theravāda Tradition Detailed) —— 佛教 · Traditions 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
 tags: ["buddhism", "leadership", "philosophy", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传上座部传统详论"
   - "南传上座部传统详论的核心概念"
   - "南传上座部传统详论的方法与实践"
-trigger_keywords: ["南传上座部传统详论", "act", "behavioral", "buddhism", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Knowledge_Network.md"
-    relation: "buddhism/communication/meditation"
-
+trigger_keywords: ["南传上座部传统详论", "Theravāda", "Tradition", "Detailed"]
+cross_refs: []
 ---
 # 南传上座部传统详论 (Theravāda Tradition Detailed)
 

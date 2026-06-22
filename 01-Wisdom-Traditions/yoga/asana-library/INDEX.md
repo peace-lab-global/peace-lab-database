@@ -1,7 +1,6 @@
 ---
-
 title: "Āsana Library Index (体式库索引)"
-description: "Āsana Library Index (体式库索引)的详细解析与实践指南"
+description: "Āsana Library Index (体式库索引) —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Āsana Library Index"
   - "Āsana Library Index的核心概念"
   - "Āsana Library Index的方法与实践"
-trigger_keywords: ["emotion", "meditation", "neuroscience", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "emotion/exercise/meditation"
-
+trigger_keywords: ["meditation", "neuroscience"]
+cross_refs: []
 ---
 # Āsana Library Index (体式库索引)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Deep Work 深度工作"
-description: "Deep Work 深度工作的详细解析与实践指南"
+description: "Deep Work 深度工作 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["addiction", "decision-making", "minimalism", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Deep Work 深度工作"
   - "Deep Work 深度工作的核心概念"
   - "Deep Work 深度工作的方法与实践"
-trigger_keywords: ["act", "addiction", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "exercise/meditation/neuroscience"
-
+trigger_keywords: ["Deep", "Work", "深度工作"]
+cross_refs: []
 ---
 # Deep Work 深度工作
 

@@ -1,7 +1,6 @@
 ---
-
 title: "人格评估工具 (Personality Assessment Tools)"
-description: "人格评估工具 (Personality Assessment Tools)的详细解析与实践指南"
+description: "人格评估工具 (Personality Assessment Tools) —— 心理学基础 · 人格心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
 tags: ["anxiety", "brain", "cortisol", "decision-making", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人格评估工具"
   - "人格评估工具的核心概念"
   - "人格评估工具的方法与实践"
-trigger_keywords: ["人格评估工具", "anxiety", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "anxiety/neuroscience/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/personality/productivity"
-
+trigger_keywords: ["人格评估工具", "Personality", "Assessment", "Tools"]
+cross_refs: []
 ---
 # 人格评估工具 (Personality Assessment Tools)
 

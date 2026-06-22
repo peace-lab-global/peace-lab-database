@@ -1,7 +1,6 @@
 ---
-
 title: "writing | Index"
-description: "writing | Index的详细解析与实践指南"
+description: "writing | Index —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["writing"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是writing | Index"
   - "writing | Index的核心概念"
   - "writing | Index的方法与实践"
-trigger_keywords: ["writing", "Index", "act", "写作"]
-cross_refs: []
-
+trigger_keywords: ["writing", "写作"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/authors/medieval/Dante.md"
+    relation: "literary/creative/creation"
 ---
 # writing | Index
 

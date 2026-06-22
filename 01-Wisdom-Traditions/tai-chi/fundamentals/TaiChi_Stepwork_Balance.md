@@ -12,13 +12,7 @@ intent_queries:
   - "太极猫步怎么练"
   - "如何提高太极平衡能力"
 trigger_keywords: ["步法", "弓步", "虚步", "猫步", "平衡"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Zhanzhuang_Standing.md"
-    relation: "zhanzhuang"
-  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
-    relation: "fall-prevention"
+cross_refs: []
 ---
 # 步法与平衡 | Stepwork & Balance
 

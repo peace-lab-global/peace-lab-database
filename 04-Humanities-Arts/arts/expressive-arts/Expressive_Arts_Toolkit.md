@@ -1,7 +1,6 @@
 ---
-
 title: "表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)"
-description: "表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)的详细解析与实践指南"
+description: "表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit) —— 艺术 · Expressive Arts 专题"
 category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "表达性艺术治疗实用工具箱的核心概念"
   - "表达性艺术治疗实用工具箱的方法与实践"
   - "表达性艺术治疗实用工具箱的循证证据"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["表达性艺术治疗实用工具箱", "Expressive", "Arts", "Therapy", "Practical"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/INDEX.md"
+    relation: "cards/oh/therapy"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Terminology_Concepts.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Clinical_Applications.md"
+    relation: "oh/cards/emergency"
 ---
 # 表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)
 

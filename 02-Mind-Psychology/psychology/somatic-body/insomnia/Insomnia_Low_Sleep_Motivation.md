@@ -1,7 +1,6 @@
 ---
-
 title: "睡眠意愿低与睡眠拖延：机制、评估与干预"
-description: "睡眠意愿低与睡眠拖延：机制、评估与干预的详细解析与实践指南"
+description: "睡眠意愿低与睡眠拖延：机制、评估与干预 —— 躯体与情绪 · Insomnia 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Insomnia"
 tags: ["addiction", "anxiety", "cbt", "sleep", "act", "self-regulation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是睡眠意愿低与睡眠拖延：机制、评估与干预"
   - "睡眠意愿低与睡眠拖延：机制、评估与干预的核心概念"
   - "睡眠意愿低与睡眠拖延：机制、评估与干预的方法与实践"
-trigger_keywords: ["评估与干预", "act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["评估与干预", "睡眠意愿低与睡眠拖延：机制"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/neuroscience"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/01_拖延症概述.md"
+    relation: "拖延/procrastination/self-regulation"
+  - path: "05-Praxis-Growth/personal-development/procrastination/INDEX.md"
+    relation: "拖延/procrastination/障碍"
+  - path: "05-Praxis-Growth/personal-development/procrastination/04_拖延与心理健康.md"
+    relation: "拖延/procrastination/self-compassion"
+  - path: "05-Praxis-Growth/personal-development/procrastination/02_拖延症成因与机制.md"
+    relation: "拖延/procrastination/情绪调节"
 ---
 # 睡眠意愿低与睡眠拖延：机制、评估与干预
 

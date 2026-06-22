@@ -1,7 +1,6 @@
 ---
-
 title: "Vocal Therapy (声乐治疗与发声)"
-description: "Vocal Therapy (声乐治疗与发声)的详细解析与实践指南"
+description: "Vocal Therapy (声乐治疗与发声) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "brain", "dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Vocal Therapy"
   - "Vocal Therapy的核心概念"
   - "Vocal Therapy的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Vocal", "Therapy", "声乐治疗与发声"]
+cross_refs: []
 ---
 # Vocal Therapy (声乐治疗与发声)
 

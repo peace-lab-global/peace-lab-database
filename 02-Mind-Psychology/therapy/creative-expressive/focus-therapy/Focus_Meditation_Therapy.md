@@ -1,7 +1,6 @@
 ---
-
 title: "专注力冥想疗愈"
-description: "专注力冥想疗愈的详细解析与实践指南"
+description: "专注力冥想疗愈 —— 疗法 · Focus Therapy 专题"
 category: "心智与心理学 > 疗法 > Focus Therapy"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是专注力冥想疗愈"
   - "专注力冥想疗愈的核心概念"
   - "专注力冥想疗愈的方法与实践"
-trigger_keywords: ["专注力冥想疗愈", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["专注力冥想疗愈"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Listening_Guide.md"
+    relation: "专注/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md"
+    relation: "专注/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "专注/冥想/锚定"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-miracle-of-mindfulness.md"
+    relation: "专注/锚定/呼吸"
 ---
 # 专注力冥想疗愈
 

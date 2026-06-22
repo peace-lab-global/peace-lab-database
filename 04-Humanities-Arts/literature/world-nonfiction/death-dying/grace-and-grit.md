@@ -1,7 +1,6 @@
 ---
-
 title: "《恩宠与勇气》Grace and Grit"
-description: "《恩宠与勇气》Grace and Grit的详细解析与实践指南"
+description: "《恩宠与勇气》Grace and Grit —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["phobia", "religion", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《恩宠与勇气》Grace and Grit"
   - "《恩宠与勇气》Grace and Grit的核心概念"
   - "《恩宠与勇气》Grace and Grit的方法与实践"
-trigger_keywords: ["death", "meditation", "philosophy", "phobia"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/death/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "anxiety/death/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/meditation"
-
+trigger_keywords: ["meditation", "phobia"]
+cross_refs: []
 ---
 # 《恩宠与勇气》Grace and Grit
 

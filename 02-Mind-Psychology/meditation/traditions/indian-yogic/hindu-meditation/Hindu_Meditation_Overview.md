@@ -1,7 +1,6 @@
 ---
-
 title: "印度教冥想概述 | Hindu Meditation Overview"
-description: "印度教冥想概述 | Hindu Meditation Overview的详细解析与实践指南"
+description: "印度教冥想概述 | Hindu Meditation Overview —— 冥想 · Hindu Meditation 专题"
 category: "心智与心理学 > 冥想 > Hindu Meditation"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是印度教冥想概述 | Hindu Meditation Overview"
   - "印度教冥想概述 | Hindu Meditation Overview的核心概念"
   - "印度教冥想概述 | Hindu Meditation Overview的方法与实践"
-trigger_keywords: ["印度教冥想概述", "act", "anxiety", "body", "brain"]
+trigger_keywords: ["印度教冥想概述", "Hindu", "Meditation", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
+    relation: "brahman/tvam/tat"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # 印度教冥想概述 | Hindu Meditation Overview
 

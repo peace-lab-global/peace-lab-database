@@ -1,7 +1,6 @@
 ---
-
 title: "性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)"
-description: "性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)的详细解析与实践指南"
+description: "性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework) —— Child Adolescent Sexuality · Theory 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
 tags: ["act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是性教育政策法规与伦理框架"
   - "性教育政策法规与伦理框架的核心概念"
   - "性教育政策法规与伦理框架的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["性教育政策法规与伦理框架", "Sexuality", "Education", "Policy", "Law"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "communication/exercise/sexuality"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/exercise/sexuality"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Ethics_Legal.md"
+    relation: "policy/sexuality/ethical"
 ---
 # 性教育政策法规与伦理框架 (Sexuality Education Policy, Law and Ethical Framework)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《白色专辑》The White Album"
-description: "《白色专辑》The White Album的详细解析与实践指南"
+description: "《白色专辑》The White Album —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["depression", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《白色专辑》The White Album"
   - "《白色专辑》The White Album的核心概念"
   - "《白色专辑》The White Album的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["《白色专辑》The", "White", "Album"]
+cross_refs: []
 ---
 # 《白色专辑》The White Album
 

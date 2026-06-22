@@ -1,7 +1,6 @@
 ---
-
 title: "Cinema Therapy (电影疗法)"
-description: "Cinema Therapy (电影疗法)的详细解析与实践指南"
+description: "Cinema Therapy (电影疗法) —— 电影 · Cinema Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Cinema Therapy"
 tags: ["addiction", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Cinema Therapy"
   - "Cinema Therapy的核心概念"
   - "Cinema Therapy的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Cinema", "Therapy", "电影疗法"]
+cross_refs: []
 ---
 # Cinema Therapy (电影疗法)
 

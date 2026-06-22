@@ -1,7 +1,6 @@
 ---
-
 title: "Vajrayana/Tantra (金刚乘/密宗核心)"
-description: "Vajrayana/Tantra (金刚乘/密宗核心)的详细解析与实践指南"
+description: "Vajrayana/Tantra (金刚乘/密宗核心) —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["attachment", "mandala", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Vajrayana/Tantra"
   - "Vajrayana/Tantra的核心概念"
   - "Vajrayana/Tantra的方法与实践"
-trigger_keywords: ["Vajrayana", "Tantra", "attachment", "behavioral", "body", "brain"]
+trigger_keywords: ["Vajrayana", "Tantra"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "attachment/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
-    relation: "attachment/communication/exercise"
-
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "tantra/classes/观想"
 ---
 # Vajrayana/Tantra (金刚乘/密宗核心)
 

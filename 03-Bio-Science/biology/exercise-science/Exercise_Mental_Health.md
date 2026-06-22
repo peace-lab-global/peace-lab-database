@@ -1,7 +1,6 @@
 ---
-
 title: "运动与心理健康 (Exercise & Mental Health)"
-description: "运动与心理健康 (Exercise & Mental Health)的详细解析与实践指南"
+description: "运动与心理健康 (Exercise & Mental Health) —— 生物学 · 运动科学 专题"
 category: "生命科学与生物医学 > 生物学 > 运动科学"
 tags: ["addiction", "aging", "exercise", "hpa-axis"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "运动与心理健康的核心概念"
   - "运动与心理健康的方法与实践"
   - "运动与心理健康的自助方法"
-trigger_keywords: ["运动与心理健康", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["运动与心理健康", "Exercise", "Mental", "Health"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
+    relation: "exercise/运动/有氧"
 ---
 # 运动与心理健康 (Exercise & Mental Health)
 

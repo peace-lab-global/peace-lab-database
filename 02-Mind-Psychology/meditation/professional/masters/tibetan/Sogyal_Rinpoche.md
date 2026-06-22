@@ -1,7 +1,6 @@
 ---
-
 title: "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）"
-description: "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的详细解析与实践指南"
+description: "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན） —— Masters · Tibetan 专题"
 category: "心智与心理学 > 冥想 > Masters > Tibetan"
 tags: ["dzogchen", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）"
   - "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的核心概念"
   - "索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）的方法与实践"
-trigger_keywords: ["behavioral", "body", "buddhism", "death"]
+trigger_keywords: ["索甲仁波切", "Sogyal", "Rinpoche", "བསོད་ནམས་རྒྱལ་མཚན"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/INDEX.md"
+    relation: "sogyal/rinpoche/dying"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "bardo/临终/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "临终/dying/死亡"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "bardo/临终/藏传"
 ---
 # 索甲仁波切（Sogyal Rinpoche / བསོད་ནམས་རྒྱལ་མཚན）
 

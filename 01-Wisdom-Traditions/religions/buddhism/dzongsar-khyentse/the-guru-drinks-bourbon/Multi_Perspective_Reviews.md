@@ -1,7 +1,6 @@
 ---
-
 title: "《上师也喝酒？》三方书评"
-description: "《上师也喝酒？》三方书评的详细解析与实践指南"
+description: "《上师也喝酒？》三方书评 —— Dzongsar Khyentse · The Guru Drinks Bourbon 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > The Guru Drinks Bourbon"
 tags: ["buddhism", "religion", "spirituality", "stress", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《上师也喝酒？》三方书评"
   - "《上师也喝酒？》三方书评的核心概念"
   - "《上师也喝酒？》三方书评的方法与实践"
-trigger_keywords: ["buddhism", "cognitive", "exercise", "religion"]
+trigger_keywords: ["exercise", "religion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/words-of-my-perfect-teacher.md"
+    relation: "上师/藏传/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "上师/藏传/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "上师/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/indestructible-truth.md"
+    relation: "藏传/佛教"
 ---
 # 《上师也喝酒？》三方书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《反叛者》The Rebel"
-description: "《反叛者》The Rebel的详细解析与实践指南"
+description: "《反叛者》The Rebel —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["social", "therapy", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《反叛者》The Rebel"
   - "《反叛者》The Rebel的核心概念"
   - "《反叛者》The Rebel的方法与实践"
-trigger_keywords: ["death", "philosophy", "sexuality", "social"]
+trigger_keywords: ["social", "《反叛者》The", "Rebel"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "README.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality/therapy"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
+    relation: "camus/albert/死亡"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Motivation_Enhancement.md"
+    relation: "意义/vs"
 ---
 # 《反叛者》The Rebel
 

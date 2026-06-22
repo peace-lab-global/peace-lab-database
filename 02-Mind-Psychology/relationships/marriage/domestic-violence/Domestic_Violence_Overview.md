@@ -1,7 +1,6 @@
 ---
-
 title: "家庭暴力心理学专业内容体系"
-description: "家庭暴力心理学专业内容体系的详细解析与实践指南"
+description: "家庭暴力心理学专业内容体系 —— Marriage · Domestic Violence 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
 tags: ["anxiety", "attachment", "brain", "emdr", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "家庭暴力心理学专业内容体系的核心概念"
   - "家庭暴力心理学专业内容体系的方法与实践"
   - "家庭暴力心理学专业内容体系的自助方法"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["家庭暴力心理学专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Formation_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "恐惧/创伤/冲突"
 ---
 # 家庭暴力心理学专业内容体系
 

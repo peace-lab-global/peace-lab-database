@@ -1,7 +1,6 @@
 ---
-
 title: "Anxiety Disorders in Special Populations (特殊人群焦虑症治疗指南)"
-description: "Anxiety Disorders in Special Populations (特殊人群焦虑症治疗指南)的详细解析与实践指南"
+description: "Anxiety Disorders in Special Populations (特殊人群焦虑症治疗指南) —— 临床心理 · 焦虑症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
 tags: ["addiction", "anxiety", "cardiovascular", "mbsr", "cbt", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anxiety Disorders in Special Populations"
   - "Anxiety Disorders in Special Populations的核心概念"
   - "Anxiety Disorders in Special Populations的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Anxiety", "Disorders", "in", "Special", "Populations"]
+cross_refs: []
 ---
 # Anxiety Disorders in Special Populations (特殊人群焦虑症治疗指南)
 

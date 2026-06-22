@@ -1,7 +1,6 @@
 ---
-
 title: "智顗（Zhiyi / 智顗大師）"
-description: "智顗（Zhiyi / 智顗大師）的详细解析与实践指南"
+description: "智顗（Zhiyi / 智顗大師） —— Masters · Ancient Buddhist 专题"
 category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
 tags: ["meditation", "mindfulness", "sleep", "treatment", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是智顗（Zhiyi / 智顗大師）"
   - "智顗（Zhiyi / 智顗大師）的核心概念"
   - "智顗（Zhiyi / 智顗大師）的方法与实践"
-trigger_keywords: ["智顗（Zhiyi", "智顗大師）", "buddhism", "meditation", "mindfulness", "philosophy"]
+trigger_keywords: ["智顗（Zhiyi", "智顗大師）", "meditation", "mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/masters/east-asian/Masahiro_Oki.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Samatha_Vipasyana.md"
+    relation: "止观/坐禅/佛教"
 ---
 # 智顗（Zhiyi / 智顗大師）
 

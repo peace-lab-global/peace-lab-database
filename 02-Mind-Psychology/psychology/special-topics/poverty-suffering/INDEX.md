@@ -1,7 +1,6 @@
 ---
-
 title: "poverty-suffering | 贫困与苦难心理学 Index"
-description: "poverty-suffering | 贫困与苦难心理学 Index的详细解析与实践指南"
+description: "poverty-suffering | 贫困与苦难心理学 Index —— 特殊专题 · Poverty Suffering 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
 tags: ["anxiety", "decision-making", "depression", "intervention", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "poverty-suffering | 贫困与苦难心理学 Index的核心概念"
   - "poverty-suffering | 贫困与苦难心理学 Index的方法与实践"
   - "poverty-suffering | 贫困与苦难心理学 Index的自助方法"
-trigger_keywords: ["act", "anxiety", "behavioral", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/depression/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/sexuality"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/sexuality"
-
+trigger_keywords: ["poverty-suffering", "贫困与苦难心理学"]
+cross_refs: []
 ---
 # poverty-suffering | 贫困与苦难心理学 Index
 

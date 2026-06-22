@@ -1,7 +1,6 @@
 ---
-
 title: "荀子 (Xunzi)"
-description: "荀子 (Xunzi)的详细解析与实践指南"
+description: "荀子 (Xunzi) —— China · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
 tags: ["habits", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是荀子"
   - "荀子的核心概念"
   - "荀子的方法与实践"
-trigger_keywords: ["荀子", "behavioral", "cognitive", "developmental", "habits"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "exercise/productivity/sexuality"
-
+trigger_keywords: ["荀子", "habits"]
+cross_refs: []
 ---
 # 荀子 (Xunzi)
 

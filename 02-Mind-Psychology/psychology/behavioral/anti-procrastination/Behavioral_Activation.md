@@ -1,7 +1,6 @@
 ---
-
 title: "行为激活技术"
-description: "行为激活技术的详细解析与实践指南"
+description: "行为激活技术 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["decision-making", "depression", "habits", "intervention", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是行为激活技术"
   - "行为激活技术的核心概念"
   - "行为激活技术的方法与实践"
-trigger_keywords: ["行为激活技术", "act", "behavioral", "decision-making", "depression"]
+trigger_keywords: ["行为激活技术", "decision-making", "depression"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "depression/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/04_拖延与心理健康.md"
+    relation: "拖延/抑郁/内疚"
 ---
 # 行为激活技术
 

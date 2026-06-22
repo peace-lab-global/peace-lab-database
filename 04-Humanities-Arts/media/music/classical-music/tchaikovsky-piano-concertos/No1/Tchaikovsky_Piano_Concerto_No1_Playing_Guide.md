@@ -1,7 +1,6 @@
 ---
-
 title: "柴可夫斯基第一钢琴协奏曲演奏指导"
-description: "柴可夫斯基第一钢琴协奏曲演奏指导的详细解析与实践指南"
+description: "柴可夫斯基第一钢琴协奏曲演奏指导 —— Tchaikovsky Piano Concertos · No1 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Tchaikovsky Piano Concertos > No1"
 tags: ["music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是柴可夫斯基第一钢琴协奏曲演奏指导"
   - "柴可夫斯基第一钢琴协奏曲演奏指导的核心概念"
   - "柴可夫斯基第一钢琴协奏曲演奏指导的方法与实践"
-trigger_keywords: ["art", "body", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-
+trigger_keywords: ["柴可夫斯基第一钢琴协奏曲演奏指导"]
+cross_refs: []
 ---
 # 柴可夫斯基第一钢琴协奏曲演奏指导
 

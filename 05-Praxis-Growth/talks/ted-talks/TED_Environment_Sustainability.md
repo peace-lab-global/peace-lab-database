@@ -1,7 +1,6 @@
 ---
-
 title: "TED环境与可持续发展精选 | TED Environment & Sustainability Collection"
-description: "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的详细解析与实践指南"
+description: "TED环境与可持续发展精选 | TED Environment & Sustainability Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED环境与可持续发展精选 | TED Environment & Sustainability Collection"
   - "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的核心概念"
   - "TED环境与可持续发展精选 | TED Environment & Sustainability Collection的方法与实践"
-trigger_keywords: ["developmental", "sexuality", "讲座"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+trigger_keywords: ["讲座", "TED环境与可持续发展精选", "TED", "Environment", "Sustainability"]
+cross_refs: []
 ---
 # TED环境与可持续发展精选 | TED Environment & Sustainability Collection
 

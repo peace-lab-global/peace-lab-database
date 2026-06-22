@@ -1,7 +1,6 @@
 ---
-
 title: "Media Safety & Ethics (媒体疗法安全性与伦理)"
-description: "Media Safety & Ethics (媒体疗法安全性与伦理)的详细解析与实践指南"
+description: "Media Safety & Ethics (媒体疗法安全性与伦理) —— 媒体 · Media Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > Media Therapy"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Media Safety & Ethics"
   - "Media Safety & Ethics的核心概念"
   - "Media Safety & Ethics的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Media", "Safety", "Ethics", "媒体疗法安全性与伦理"]
+cross_refs: []
 ---
 # Media Safety & Ethics (媒体疗法安全性与伦理)
 

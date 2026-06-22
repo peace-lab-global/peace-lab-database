@@ -1,7 +1,6 @@
 ---
-
 title: "mbsr-program | MBSR正念减压项目 Index"
-description: "mbsr-program | MBSR正念减压项目 Index的详细解析与实践指南"
+description: "mbsr-program | MBSR正念减压项目 Index —— 冥想 · 正念减压课程 专题"
 category: "心智与心理学 > 冥想 > 正念减压课程"
 tags: ["mbsr", "meditation", "mindfulness", "sleep", "正念减压课程", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是mbsr-program | MBSR正念减压项目 Index"
   - "mbsr-program | MBSR正念减压项目 Index的核心概念"
   - "mbsr-program | MBSR正念减压项目 Index的方法与实践"
-trigger_keywords: ["act", "assessment", "mbsr", "meditation"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "exercise/meditation/sleep"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "exercise/meditation/sleep"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/meditation/sleep"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "exercise/meditation/sleep"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "exercise/meditation/sleep"
-
+trigger_keywords: ["mbsr", "meditation"]
+cross_refs: []
 ---
 # mbsr-program | MBSR正念减压项目 Index
 

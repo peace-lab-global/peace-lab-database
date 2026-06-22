@@ -1,7 +1,6 @@
 ---
-
 title: "Thích Nhất Hạnh (一行禅师) — 入世佛教先驱，正念生活导师"
-description: "Thích Nhất Hạnh (一行禅师) — 入世佛教先驱，正念生活导师的详细解析与实践指南"
+description: "Thích Nhất Hạnh (一行禅师) — 入世佛教先驱，正念生活导师 —— Masters · Contemporary Spiritual 专题"
 category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
 tags: ["decision-making", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Thích Nhất Hạnh  — 入世佛教先驱，正念生活导师"
   - "Thích Nhất Hạnh  — 入世佛教先驱，正念生活导师的核心概念"
   - "Thích Nhất Hạnh  — 入世佛教先驱，正念生活导师的方法与实践"
-trigger_keywords: ["正念生活导师", "art", "behavioral", "body", "breathwork"]
+trigger_keywords: ["正念生活导师", "Thích", "Nhất", "Hạnh", "一行禅师"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/poetry-spirituality/cold-mountain.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/autobiography-of-a-yogi.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/peace-is-every-step.md"
+    relation: "engaged/佛教/plum"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "nh/th/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/vietnam/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/engaged/buddhism"
 ---
 # Thích Nhất Hạnh (一行禅师) — 入世佛教先驱，正念生活导师
 

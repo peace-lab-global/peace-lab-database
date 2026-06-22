@@ -1,7 +1,6 @@
 ---
-
 title: "道家心理养生专业内容体系"
-description: "道家心理养生专业内容体系的详细解析与实践指南"
+description: "道家心理养生专业内容体系 —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["daoism", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "道家心理养生专业内容体系的核心概念"
   - "道家心理养生专业内容体系的方法与实践"
   - "道家心理养生专业内容体系的自助方法"
-trigger_keywords: ["aging", "assessment", "body", "breathwork"]
+trigger_keywords: ["道家心理养生专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "daoism/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/shen-tzu.md"
+    relation: "无为/道家/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/lieh-tzu.md"
+    relation: "道家/庄子/无为"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "道家/庄子/阴阳"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/tao-te-ching.md"
+    relation: "道德经/无为/道家"
 ---
 # 道家心理养生专业内容体系
 

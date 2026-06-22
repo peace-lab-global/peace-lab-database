@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析"
-description: "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析的详细解析与实践指南"
+description: "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析 —— 古典音乐 · Bach Well Tempered Clavier 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Well Tempered Clavier"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析的核心概念"
   - "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析的方法与实践"
   - "巴赫《十二平均律键盘曲集》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["巴赫《十二平均律键盘曲集》心理学与疗愈功能分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/情绪调节"
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "情绪调节/认知行为/认知重构"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "认知行为/认知重构"
 ---
 # 巴赫《十二平均律键盘曲集》心理学与疗愈功能分析
 

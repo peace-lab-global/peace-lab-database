@@ -1,7 +1,6 @@
 ---
-
 title: "老年抑郁 (Geriatric Depression) | Index"
-description: "老年抑郁 (Geriatric Depression) | Index的详细解析与实践指南"
+description: "老年抑郁 (Geriatric Depression) | Index —— 抑郁症 · Geriatric Depression 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Geriatric Depression"
 tags: ["depression", "intervention", "sleep"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "老年抑郁  | Index的核心概念"
   - "老年抑郁  | Index的方法与实践"
   - "老年抑郁  | Index的自助方法"
-trigger_keywords: ["老年抑郁", "Index", "aging", "assessment", "clinical", "cognitive"]
-cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/depression/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "depression/emotion/nutrition"
-
+trigger_keywords: ["老年抑郁", "Geriatric", "Depression"]
+cross_refs: []
 ---
 # 老年抑郁 (Geriatric Depression) | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "erotic-literature | Index"
-description: "erotic-literature | Index的详细解析与实践指南"
+description: "erotic-literature | Index —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["心理学", "行为心理", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是erotic-literature | Index"
   - "erotic-literature | Index的核心概念"
   - "erotic-literature | Index的方法与实践"
-trigger_keywords: ["Index", "act", "心理学", "行为心理"]
+trigger_keywords: ["心理学", "行为心理"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "neuroscience/therapy"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/INDEX.md"
+    relation: "comparative/formation/study"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/INDEX.md"
+    relation: "comparative/formation/study"
 ---
 # erotic-literature | Index
 

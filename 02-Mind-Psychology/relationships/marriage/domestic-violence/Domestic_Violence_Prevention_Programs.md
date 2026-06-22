@@ -1,7 +1,6 @@
 ---
-
 title: "家庭暴力预防教育项目专业内容体系"
-description: "家庭暴力预防教育项目专业内容体系的详细解析与实践指南"
+description: "家庭暴力预防教育项目专业内容体系 —— Marriage · Domestic Violence 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是家庭暴力预防教育项目专业内容体系"
   - "家庭暴力预防教育项目专业内容体系的核心概念"
   - "家庭暴力预防教育项目专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["家庭暴力预防教育项目专业内容体系"]
+cross_refs: []
 ---
 # 家庭暴力预防教育项目专业内容体系
 

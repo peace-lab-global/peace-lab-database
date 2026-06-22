@@ -9,6 +9,7 @@ skills:
     skill_name: 抑郁状态综合评估
     filename: Depression_Assessment_Skill.md
     status: active
+cross_refs: []
 ---
 
 # 抑郁评估模块清单

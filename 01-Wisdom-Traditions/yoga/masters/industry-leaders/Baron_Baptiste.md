@@ -1,7 +1,6 @@
 ---
-
 title: "巴伦·巴蒂斯特（Baron Baptiste）"
-description: "巴伦·巴蒂斯特（Baron Baptiste）的详细解析与实践指南"
+description: "巴伦·巴蒂斯特（Baron Baptiste） —— Masters · Industry Leaders 专题"
 category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
 tags: ["leadership", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴伦·巴蒂斯特（Baron Baptiste）"
   - "巴伦·巴蒂斯特（Baron Baptiste）的核心概念"
   - "巴伦·巴蒂斯特（Baron Baptiste）的方法与实践"
-trigger_keywords: ["巴伦", "act", "breathwork", "exercise", "leadership"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/therapy/yoga"
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "exercise/therapy/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/therapy/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/therapy/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "exercise/therapy/yoga"
-
+trigger_keywords: ["巴伦", "exercise", "leadership"]
+cross_refs: []
 ---
 # 巴伦·巴蒂斯特（Baron Baptiste）
 

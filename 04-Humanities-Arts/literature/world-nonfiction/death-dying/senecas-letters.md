@@ -1,7 +1,6 @@
 ---
-
 title: "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius"
-description: "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的详细解析与实践指南"
+description: "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["phobia", "suicide", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius"
   - "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的核心概念"
   - "《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius的方法与实践"
-trigger_keywords: ["aging", "buddhism", "death", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Epidemiology_Data.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["《塞涅卡道德书简》Letters", "from", "Stoic", "Moral", "Letters"]
+cross_refs: []
 ---
 # 《塞涅卡道德书简》Letters from a Stoic / Moral Letters to Lucilius
 

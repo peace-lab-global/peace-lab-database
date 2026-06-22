@@ -1,7 +1,6 @@
 ---
-
 title: "汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)"
-description: "汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)的详细解析与实践指南"
+description: "汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是汉传佛教三坛大戒仪轨"
   - "汉传佛教三坛大戒仪轨的核心概念"
   - "汉传佛教三坛大戒仪轨的方法与实践"
-trigger_keywords: ["汉传佛教三坛大戒仪轨", "buddhism", "sexuality", "佛教", "宗教与灵性"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/relationships/social-context/cultural-perspective/Cross_Cultural_Analysis.md"
-    relation: "buddhism/nutrition/sexuality"
-
+trigger_keywords: ["汉传佛教三坛大戒仪轨", "佛教", "宗教与灵性"]
+cross_refs: []
 ---
 # 汉传佛教三坛大戒仪轨 (Chinese Three Platforms Ordination)
 

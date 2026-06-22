@@ -1,7 +1,6 @@
 ---
-
 title: "和辻哲郎哲学三方书评"
-description: "和辻哲郎哲学三方书评的详细解析与实践指南"
+description: "和辻哲郎哲学三方书评 —— Japan · Watsuji 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Watsuji"
 tags: ["habits", "loneliness", "philosophy", "positive-psychology", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是和辻哲郎哲学三方书评"
   - "和辻哲郎哲学三方书评的核心概念"
   - "和辻哲郎哲学三方书评的方法与实践"
-trigger_keywords: ["和辻哲郎哲学三方书评", "developmental", "habits", "loneliness", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Addiction_Recovery.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["和辻哲郎哲学三方书评", "habits", "loneliness"]
+cross_refs: []
 ---
 # 和辻哲郎哲学三方书评
 

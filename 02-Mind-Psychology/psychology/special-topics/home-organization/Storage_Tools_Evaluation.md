@@ -1,7 +1,6 @@
 ---
-
 title: "收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης"
-description: "收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης的详细解析与实践指南"
+description: "收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης —— 特殊专题 · Home Organization 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Home Organization"
 tags: ["decision-making", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης"
   - "收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης的核心概念"
   - "收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης的方法与实践"
-trigger_keywords: ["收纳工具评测指南", "aging", "art", "assessment", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/exercise"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/emotion/exercise"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "aging/emotion/exercise"
-
+trigger_keywords: ["收纳工具评测指南", "Storage", "Tools", "Evaluation", "Guide"]
+cross_refs: []
 ---
 # 收纳工具评测指南 | Storage Tools Evaluation Guide | Οδηγός Αξιολόγησης Εργαλείων Αποθήκευσης
 

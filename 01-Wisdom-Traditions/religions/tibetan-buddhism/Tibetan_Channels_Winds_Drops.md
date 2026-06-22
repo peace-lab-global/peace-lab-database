@@ -1,7 +1,6 @@
 ---
-
 title: "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu"
-description: "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的详细解析与实践指南"
+description: "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["dzogchen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu"
   - "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的核心概念"
   - "气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu的方法与实践"
-trigger_keywords: ["气脉明点体系", "anxiety", "body", "breathwork", "child"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["气脉明点体系", "Channels", "Winds", "Drops", "Nāḍī"]
+cross_refs: []
 ---
 # 气脉明点体系 | Channels, Winds & Drops | Nāḍī, Prāṇa & Bindu
 

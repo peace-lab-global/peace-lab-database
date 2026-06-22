@@ -1,7 +1,6 @@
 ---
-
 title: "Poverty & Suffering Intervention (贫困与苦难干预)"
-description: "Poverty & Suffering Intervention (贫困与苦难干预)的详细解析与实践指南"
+description: "Poverty & Suffering Intervention (贫困与苦难干预) —— 特殊专题 · Poverty Suffering 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Poverty & Suffering Intervention"
   - "Poverty & Suffering Intervention的核心概念"
   - "Poverty & Suffering Intervention的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["Poverty", "Suffering", "Intervention", "贫困与苦难干预"]
+cross_refs: []
 ---
 # Poverty & Suffering Intervention (贫困与苦难干预)
 

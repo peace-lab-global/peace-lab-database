@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽教师培训体系 | Yoga Teacher Training"
-description: "瑜伽教师培训体系 | Yoga Teacher Training的详细解析与实践指南"
+description: "瑜伽教师培训体系 | Yoga Teacher Training —— 瑜伽 · Practitioner Training 专题"
 category: "智慧传承 > 瑜伽 > Practitioner Training"
 tags: ["meditation", "trauma", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽教师培训体系 | Yoga Teacher Training"
   - "瑜伽教师培训体系 | Yoga Teacher Training的核心概念"
   - "瑜伽教师培训体系 | Yoga Teacher Training的方法与实践"
-trigger_keywords: ["瑜伽教师培训体系", "act", "assessment", "developmental", "meditation"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/jewish-meditation/INDEX.md"
-    relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "exercise/meditation/therapy"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "exercise/meditation/therapy"
-
+trigger_keywords: ["瑜伽教师培训体系", "meditation"]
+cross_refs: []
 ---
 # 瑜伽教师培训体系 | Yoga Teacher Training
 

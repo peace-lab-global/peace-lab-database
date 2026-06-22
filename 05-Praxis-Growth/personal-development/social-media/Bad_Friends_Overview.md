@@ -1,7 +1,6 @@
 ---
-
 title: "Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)"
-description: "Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)的详细解析与实践指南"
+description: "Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System) —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Bad Friends播客专业内容体系"
   - "Bad Friends播客专业内容体系的核心概念"
   - "Bad Friends播客专业内容体系的方法与实践"
-trigger_keywords: ["art", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["Bad", "Friends播客专业内容体系", "Friends", "Podcast", "Professional"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "attachment/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "04-Humanities-Arts/media/tv/breaking-bad/INDEX.md"
+    relation: "bad/professional"
 ---
 # Bad Friends播客专业内容体系 (Bad Friends Podcast Professional Content System)
 

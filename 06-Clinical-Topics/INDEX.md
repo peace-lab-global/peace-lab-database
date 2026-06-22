@@ -4,6 +4,7 @@ description: "跨支柱临床专题索引，整合焦虑、抑郁、睡眠障碍
 category: "clinical"
 tags: ["clinical", "anxiety", "depression", "sleep", "grief", "procrastination", "mbct"]
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 06-Clinical-Topics — 临床专题

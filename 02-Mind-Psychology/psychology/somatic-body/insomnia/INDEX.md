@@ -1,7 +1,6 @@
 ---
-
 title: "insomnia | Index"
-description: "insomnia | Index的详细解析与实践指南"
+description: "insomnia | Index —— 躯体与情绪 · Insomnia 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Insomnia"
 tags: ["intervention", "sleep", "treatment", "心理学", "躯体与情绪", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是insomnia | Index"
   - "insomnia | Index的核心概念"
   - "insomnia | Index的方法与实践"
-trigger_keywords: ["insomnia", "Index", "assessment", "clinical", "intervention", "sleep"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/productivity/sleep"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/productivity/sleep"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "emotion/productivity/sleep"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "emotion/productivity/sleep"
-  - path: "03-Bio-Science/biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md"
-    relation: "emotion/productivity/sleep"
-
+trigger_keywords: ["insomnia", "intervention", "sleep"]
+cross_refs: []
 ---
 # insomnia | Index
 

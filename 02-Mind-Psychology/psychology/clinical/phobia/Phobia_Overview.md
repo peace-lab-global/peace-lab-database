@@ -1,7 +1,6 @@
 ---
-
 title: "恐惧症概览 (Phobia Overview)"
-description: "恐惧症概览 (Phobia Overview)的详细解析与实践指南"
+description: "恐惧症概览 (Phobia Overview) —— 临床心理 · Phobia 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
 tags: ["anxiety", "attachment", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是恐惧症概览"
   - "恐惧症概览的核心概念"
   - "恐惧症概览的方法与实践"
-trigger_keywords: ["恐惧症概览", "act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/attachment/neuroscience"
-
+trigger_keywords: ["恐惧症概览", "Phobia", "Overview"]
+cross_refs: []
 ---
 # 恐惧症概览 (Phobia Overview)
 

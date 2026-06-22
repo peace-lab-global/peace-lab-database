@@ -1,7 +1,6 @@
 ---
-
 title: "SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)"
-description: "SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)的详细解析与实践指南"
+description: "SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina) —— Spa · Comparative Analysis 专题"
 category: "生命科学与生物医学 > 生物学 > Spa > Comparative Analysis"
 tags: ["daoism", "decision-making", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是SPA与中医推拿国际比较分析"
   - "SPA与中医推拿国际比较分析的核心概念"
   - "SPA与中医推拿国际比较分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "clinical"]
+trigger_keywords: ["SPA与中医推拿国际比较分析", "International", "Comparison", "Analysis", "of"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
-    relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
-    relation: "anxiety/daoism/depression"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "推拿/阴阳/五行"
 ---
 # SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)
 

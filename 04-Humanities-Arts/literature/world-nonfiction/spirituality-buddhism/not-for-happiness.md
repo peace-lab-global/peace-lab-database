@@ -1,7 +1,6 @@
 ---
-
 title: "《人间是剧场》Not for Happiness"
-description: "《人间是剧场》Not for Happiness的详细解析与实践指南"
+description: "《人间是剧场》Not for Happiness —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["mindfulness", "positive-psychology", "social", "spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《人间是剧场》Not for Happiness"
   - "《人间是剧场》Not for Happiness的核心概念"
   - "《人间是剧场》Not for Happiness的方法与实践"
-trigger_keywords: ["buddhism", "mindfulness", "positive-psychology", "sexuality"]
+trigger_keywords: ["mindfulness", "positive-psychology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/INDEX.md"
+    relation: "jamyang/khyentse/dzongsar"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/not-for-happiness/INDEX.md"
+    relation: "happiness/佛教/jamyang"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/INDEX.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/pilgrimage/INDEX.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # 《人间是剧场》Not for Happiness
 

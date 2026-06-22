@@ -1,7 +1,6 @@
 ---
-
 title: "门德尔松e小调小提琴协奏曲概述"
-description: "门德尔松e小调小提琴协奏曲概述的详细解析与实践指南"
+description: "门德尔松e小调小提琴协奏曲概述 —— Mendelssohn Violin Concertos · Op64 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Violin Concertos > Op64"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是门德尔松e小调小提琴协奏曲概述"
   - "门德尔松e小调小提琴协奏曲概述的核心概念"
   - "门德尔松e小调小提琴协奏曲概述的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["门德尔松e小调小提琴协奏曲概述"]
+cross_refs: []
 ---
 # 门德尔松e小调小提琴协奏曲概述
 

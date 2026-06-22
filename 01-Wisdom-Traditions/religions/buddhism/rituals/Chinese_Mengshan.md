@@ -1,7 +1,6 @@
 ---
-
 title: "汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)"
-description: "汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)的详细解析与实践指南"
+description: "汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是汉传佛教蒙山施食仪轨"
   - "汉传佛教蒙山施食仪轨的核心概念"
   - "汉传佛教蒙山施食仪轨的方法与实践"
-trigger_keywords: ["汉传佛教蒙山施食仪轨", "buddhism", "developmental", "佛教", "宗教与灵性"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["汉传佛教蒙山施食仪轨", "佛教", "宗教与灵性"]
+cross_refs: []
 ---
 # 汉传佛教蒙山施食仪轨 (Chinese Mengshan Food Offering)
 

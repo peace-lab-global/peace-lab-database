@@ -1,6 +1,6 @@
 ---
 title: "SETI研究"
-description: "SETI研究的详细解析与实践指南"
+description: "SETI研究 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

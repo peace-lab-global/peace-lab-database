@@ -1,7 +1,6 @@
 ---
-
 title: "苏菲冥想与Dhikr实操指南"
-description: "苏菲冥想与Dhikr实操指南的详细解析与实践指南"
+description: "苏菲冥想与Dhikr实操指南 —— 冥想 · Sufism Meditation 专题"
 category: "心智与心理学 > 冥想 > Sufism Meditation"
 tags: ["cardiovascular", "leadership", "meditation", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是苏菲冥想与Dhikr实操指南"
   - "苏菲冥想与Dhikr实操指南的核心概念"
   - "苏菲冥想与Dhikr实操指南的方法与实践"
-trigger_keywords: ["art", "body", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "cardiovascular/emotion/meditation"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "cardiovascular/emotion/meditation"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "cardiovascular/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "cardiovascular/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
-    relation: "cardiovascular/emotion/meditation"
-
+trigger_keywords: ["cardiovascular", "苏菲冥想与Dhikr实操指南"]
+cross_refs: []
 ---
 # 苏菲冥想与Dhikr实操指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "文化研究 | Cultural Studies"
-description: "文化研究 | Cultural Studies的详细解析与实践指南"
+description: "文化研究 | Cultural Studies —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文化研究 | Cultural Studies"
   - "文化研究 | Cultural Studies的核心概念"
   - "文化研究 | Cultural Studies的方法与实践"
-trigger_keywords: ["文化研究", "act", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "emotion/exercise/sexuality"
-
+trigger_keywords: ["文化研究", "Cultural", "Studies"]
+cross_refs: []
 ---
 # 文化研究 | Cultural Studies
 

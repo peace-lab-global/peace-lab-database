@@ -1,7 +1,6 @@
 ---
-
 title: "HPA轴神经科学 (HPA Axis Neuroscience)"
-description: "HPA轴神经科学 (HPA Axis Neuroscience)的详细解析与实践指南"
+description: "HPA轴神经科学 (HPA Axis Neuroscience) —— 生物学 · HPA轴 专题"
 category: "生命科学与生物医学 > 生物学 > HPA轴"
 tags: ["HPA轴", "addiction", "aging", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是HPA轴神经科学"
   - "HPA轴神经科学的核心概念"
   - "HPA轴神经科学的方法与实践"
-trigger_keywords: ["HPA轴神经科学", "HPA轴", "act", "addiction", "aging"]
+trigger_keywords: ["HPA轴神经科学", "HPA轴"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Sleep_Comorbidity.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Neuroscience.md"
+    relation: "gr/hpa/receptor"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
+    relation: "hpa/crh/应激"
 ---
 # HPA轴神经科学 (HPA Axis Neuroscience)
 

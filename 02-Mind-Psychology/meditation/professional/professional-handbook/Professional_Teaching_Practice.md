@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师教学实务 | Professional Teaching Practice"
-description: "冥想执行师教学实务 | Professional Teaching Practice的详细解析与实践指南"
+description: "冥想执行师教学实务 | Professional Teaching Practice —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想执行师教学实务 | Professional Teaching Practice"
   - "冥想执行师教学实务 | Professional Teaching Practice的核心概念"
   - "冥想执行师教学实务 | Professional Teaching Practice的方法与实践"
-trigger_keywords: ["冥想执行师教学实务", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["冥想执行师教学实务", "Professional", "Teaching", "Practice"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
-    relation: "aging/anxiety/meditation"
-
+  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Practice.md"
+    relation: "min/facilitation/practice"
 ---
 # 冥想执行师教学实务 | Professional Teaching Practice
 

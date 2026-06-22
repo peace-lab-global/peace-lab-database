@@ -1,7 +1,6 @@
 ---
-
 title: "Hatred Social & Political Psychology (群体仇恨、偏见与社会心理学)"
-description: "Hatred Social & Political Psychology (群体仇恨、偏见与社会心理学)的详细解析与实践指南"
+description: "Hatred Social & Political Psychology (群体仇恨、偏见与社会心理学) —— 社会心理学 · Hatred 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
 tags: ["anxiety", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Hatred Social & Political Psychology"
   - "Hatred Social & Political Psychology的核心概念"
   - "Hatred Social & Political Psychology的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/sexuality/therapy"
-
+trigger_keywords: ["Hatred", "Social", "Political", "Psychology", "群体仇恨"]
+cross_refs: []
 ---
 # Hatred Social & Political Psychology (群体仇恨、偏见与社会心理学)
 

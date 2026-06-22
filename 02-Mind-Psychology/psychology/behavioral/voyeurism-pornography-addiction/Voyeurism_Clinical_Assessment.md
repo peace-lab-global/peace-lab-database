@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)"
-description: "窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)的详细解析与实践指南"
+description: "窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["anxiety", "brain", "act", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是窥淫癖临床评估指南"
   - "窥淫癖临床评估指南的核心概念"
   - "窥淫癖临床评估指南的方法与实践"
-trigger_keywords: ["窥淫癖临床评估指南", "act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["窥淫癖临床评估指南", "Voyeurism", "Clinical", "Assessment", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Clinical_Assessment.md"
+    relation: "assessment/report/diagnosis"
+  - path: "03-Bio-Science/sexuality/authority-complex/Clinical_Assessment_Treatment.md"
+    relation: "assessment/diagnostic/differentiation"
 ---
 # 窥淫癖临床评估指南 (Voyeurism Clinical Assessment Guide)
 

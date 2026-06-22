@@ -1,7 +1,6 @@
 ---
-
 title: "唯识学与八识心王详论 (Yogācāra & Eight Consciousnesses)"
-description: "唯识学与八识心王详论 (Yogācāra & Eight Consciousnesses)的详细解析与实践指南"
+description: "唯识学与八识心王详论 (Yogācāra & Eight Consciousnesses) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是唯识学与八识心王详论"
   - "唯识学与八识心王详论的核心概念"
   - "唯识学与八识心王详论的方法与实践"
-trigger_keywords: ["唯识学与八识心王详论", "act", "anxiety", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["唯识学与八识心王详论", "Yogācāra", "Eight", "Consciousnesses"]
+cross_refs: []
 ---
 # 唯识学与八识心王详论 (Yogācāra & Eight Consciousnesses)
 

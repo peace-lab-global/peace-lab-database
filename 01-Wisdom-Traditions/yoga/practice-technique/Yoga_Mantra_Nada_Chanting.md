@@ -1,7 +1,6 @@
 ---
-
 title: "Mantra, Nāda & Chanting (咒语、音流与唱诵)"
-description: "Mantra, Nāda & Chanting (咒语、音流与唱诵)的详细解析与实践指南"
+description: "Mantra, Nāda & Chanting (咒语、音流与唱诵) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["buddhism", "cardiovascular", "cortisol", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Mantra, Nāda & Chanting"
   - "Mantra, Nāda & Chanting的核心概念"
   - "Mantra, Nāda & Chanting的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "breathwork"]
+trigger_keywords: ["Mantra", "Nāda", "Chanting", "咒语", "音流与唱诵"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "README.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/INDEX.md"
+    relation: "mantra/chanting/冥想"
 ---
 # Mantra, Nāda & Chanting (咒语、音流与唱诵)
 

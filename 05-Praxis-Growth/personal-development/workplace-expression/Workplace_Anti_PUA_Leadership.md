@@ -1,7 +1,6 @@
 ---
-
 title: "应对PUA/羞辱型领导 (Handling PUA or Humiliating Leaders)"
-description: "应对PUA/羞辱型领导 (Handling PUA or Humiliating Leaders)的详细解析与实践指南"
+description: "应对PUA/羞辱型领导 (Handling PUA or Humiliating Leaders) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是应对PUA/羞辱型领导"
   - "应对PUA/羞辱型领导的核心概念"
   - "应对PUA/羞辱型领导的方法与实践"
-trigger_keywords: ["应对PUA", "羞辱型领导", "anxiety", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["应对PUA", "羞辱型领导"]
+cross_refs: []
 ---
 # 应对PUA/羞辱型领导 (Handling PUA or Humiliating Leaders)
 

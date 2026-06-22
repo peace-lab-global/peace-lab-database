@@ -1,7 +1,6 @@
 ---
-
 title: "金刚般若波罗蜜经"
-description: "金刚般若波罗蜜经的详细解析与实践指南"
+description: "金刚般若波罗蜜经 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "loneliness", "zen", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是金刚般若波罗蜜经"
   - "金刚般若波罗蜜经的核心概念"
   - "金刚般若波罗蜜经的方法与实践"
-trigger_keywords: ["金刚般若波罗蜜经", "body", "buddhism", "loneliness", "sexuality"]
+trigger_keywords: ["金刚般若波罗蜜经", "loneliness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "菩提/般若/禅宗"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "菩萨/般若/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-way-of-bodhisattva.md"
+    relation: "菩萨/菩提/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "菩提/般若/禅宗"
 ---
 # 金刚般若波罗蜜经
 

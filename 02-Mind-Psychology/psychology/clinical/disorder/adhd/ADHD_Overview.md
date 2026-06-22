@@ -1,7 +1,6 @@
 ---
-
 title: "Attention-Deficit/Hyperactivity Disorder (注意缺陷多动障碍)"
-description: "Attention-Deficit/Hyperactivity Disorder (注意缺陷多动障碍)的详细解析与实践指南"
+description: "Attention-Deficit/Hyperactivity Disorder (注意缺陷多动障碍) —— 精神障碍 · Adhd 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Adhd"
 tags: ["anxiety", "brain", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Attention-Deficit/Hyperactivity Disorder"
   - "Attention-Deficit/Hyperactivity Disorder的核心概念"
   - "Attention-Deficit/Hyperactivity Disorder的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["Attention-Deficit", "Hyperactivity", "Disorder", "注意缺陷多动障碍"]
+cross_refs: []
 ---
 # Attention-Deficit/Hyperactivity Disorder (注意缺陷多动障碍)
 

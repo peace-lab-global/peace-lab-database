@@ -1,7 +1,6 @@
 ---
-
 title: "当代政治哲学经典三方书评"
-description: "当代政治哲学经典三方书评的详细解析与实践指南"
+description: "当代政治哲学经典三方书评 —— Contemporary · Political Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Political Philosophy"
 tags: ["habits", "philosophy", "self-esteem"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是当代政治哲学经典三方书评"
   - "当代政治哲学经典三方书评的核心概念"
   - "当代政治哲学经典三方书评的方法与实践"
-trigger_keywords: ["aging", "body", "cognitive", "developmental"]
+trigger_keywords: ["当代政治哲学经典三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "aging/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
-    relation: "aging/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
-    relation: "aging/emotion/productivity"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/anger.md"
+    relation: "愤怒/anger"
 ---
 # 当代政治哲学经典三方书评
 

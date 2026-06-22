@@ -1,7 +1,6 @@
 ---
-
 title: "印度经典原文 (Indian Scriptures)"
-description: "印度经典原文 (Indian Scriptures)的详细解析与实践指南"
+description: "印度经典原文 (Indian Scriptures) —— India · Scriptures 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
 tags: ["philosophy", "spirituality", "yoga", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是印度经典原文"
   - "印度经典原文的核心概念"
   - "印度经典原文的方法与实践"
-trigger_keywords: ["印度经典原文", "philosophy", "sexuality", "spirituality", "yoga"]
+trigger_keywords: ["印度经典原文", "spirituality", "yoga"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "sexuality/yoga"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽经/sutras/帕坦伽利"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽经/yoga/瑜伽"
 ---
 # 印度经典原文 (Indian Scriptures)
 

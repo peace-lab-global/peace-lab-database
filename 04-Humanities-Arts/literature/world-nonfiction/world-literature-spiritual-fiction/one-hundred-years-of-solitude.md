@@ -1,7 +1,6 @@
 ---
-
 title: "《百年孤独》One Hundred Years of Solitude"
-description: "《百年孤独》One Hundred Years of Solitude的详细解析与实践指南"
+description: "《百年孤独》One Hundred Years of Solitude —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["daoism", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《百年孤独》One Hundred Years of Solitude"
   - "《百年孤独》One Hundred Years of Solitude的核心概念"
   - "《百年孤独》One Hundred Years of Solitude的方法与实践"
-trigger_keywords: ["body", "buddhism", "daoism", "death"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/daoism/death"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "buddhism/daoism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+trigger_keywords: ["daoism", "《百年孤独》One", "Hundred", "Years", "of"]
+cross_refs: []
 ---
 # 《百年孤独》One Hundred Years of Solitude
 

@@ -9,6 +9,15 @@ skills:
     skill_name: 领导力与影响力评估
     filename: Leadership_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Assessment_Skill.md"
+    relation: "skill/id/assessment"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/skills/_manifest.md"
+    relation: "skill/id/assessment"
+  - path: "02-Mind-Psychology/relationships/clinical-practice/skills/_manifest.md"
+    relation: "skill/id/assessment"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Fragile_Ego_Assessment_Skill.md"
+    relation: "skill/id/assessment"
 ---
 
 # 领导力评估模块清单

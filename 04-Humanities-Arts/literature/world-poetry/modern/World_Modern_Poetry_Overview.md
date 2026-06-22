@@ -1,7 +1,6 @@
 ---
-
 title: "国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展"
-description: "国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展的详细解析与实践指南"
+description: "国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展 —— World Poetry · Modern 专题"
 category: "人文与艺术疗愈 > 文学 > World Poetry > Modern"
 tags: ["habits", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展"
   - "国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展的核心概念"
   - "国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "crisis"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展"]
+cross_refs: []
 ---
 # 国外现代诗歌专业内容体系：20世纪以来的世界诗歌发展
 

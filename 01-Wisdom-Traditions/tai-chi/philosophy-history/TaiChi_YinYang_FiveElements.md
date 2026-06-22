@@ -13,12 +13,14 @@ intent_queries:
   - "太极与中医经络的关联"
 trigger_keywords: ["阴阳", "五行", "经络", "脏腑", "太极"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
-    relation: "yinyang-five-elements-theory"
-  - path: "01-Wisdom-Traditions/tcm-neijing/ZangFu_Meridians.md"
-    relation: "meridian-system"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
-    relation: "qigong-integration"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "五行/阴阳/经络"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "五行/阴阳/经络"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "经络/阴阳"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/guanzi.md"
+    relation: "五行/阴阳"
 ---
 # 阴阳五行与太极 | Yin-Yang, Five Elements & Tai Chi
 

@@ -1,7 +1,6 @@
 ---
-
 title: "文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή"
-description: "文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή的详细解析与实践指南"
+description: "文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή"
   - "文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή的核心概念"
   - "文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή的方法与实践"
-trigger_keywords: ["文学写作概览", "adolescent", "aging", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/communication/emotion"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/communication/emotion"
-
+trigger_keywords: ["文学写作概览", "Literary", "Writing", "Overview", "Λογοτεχνική"]
+cross_refs: []
 ---
 # 文学写作概览 | Literary Writing Overview | Λογοτεχνική Συγγραφή
 

@@ -1,7 +1,6 @@
 ---
-
 title: "人格心理学总览 (Personality Psychology Overview)"
-description: "人格心理学总览 (Personality Psychology Overview)的详细解析与实践指南"
+description: "人格心理学总览 (Personality Psychology Overview) —— 心理学基础 · 人格心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
 tags: ["anxiety", "attachment", "brain", "cbt", "personality"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "人格心理学总览的核心概念"
   - "人格心理学总览的方法与实践"
   - "人格心理学总览的自助方法"
-trigger_keywords: ["人格心理学总览", "anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["人格心理学总览", "Personality", "Psychology", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/authority-complex/Father_Mother_Complex.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Personality.md"
+    relation: "人格心理学/personality/人格"
 ---
 # 人格心理学总览 (Personality Psychology Overview)
 

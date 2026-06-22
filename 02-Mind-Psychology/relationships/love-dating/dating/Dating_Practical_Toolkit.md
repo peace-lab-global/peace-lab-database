@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Psychology Practical Toolkit (约会心理学实用工具包)"
-description: "Dating Psychology Practical Toolkit (约会心理学实用工具包)的详细解析与实践指南"
+description: "Dating Psychology Practical Toolkit (约会心理学实用工具包) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["anxiety", "cinema", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Dating Psychology Practical Toolkit"
   - "Dating Psychology Practical Toolkit的核心概念"
   - "Dating Psychology Practical Toolkit的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Dating", "Psychology", "Practical", "Toolkit", "约会心理学实用工具包"]
+cross_refs: []
 ---
 # Dating Psychology Practical Toolkit (约会心理学实用工具包)
 

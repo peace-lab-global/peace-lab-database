@@ -1,7 +1,6 @@
 ---
-
 title: "特定恐惧症详表 (Specific Phobia Types)"
-description: "特定恐惧症详表 (Specific Phobia Types)的详细解析与实践指南"
+description: "特定恐惧症详表 (Specific Phobia Types) —— 临床心理 · Phobia 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
 tags: ["anxiety", "cinema", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是特定恐惧症详表"
   - "特定恐惧症详表的核心概念"
   - "特定恐惧症详表的方法与实践"
-trigger_keywords: ["特定恐惧症详表", "aging", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["特定恐惧症详表", "Specific", "Phobia", "Types"]
+cross_refs: []
 ---
 # 特定恐惧症详表 (Specific Phobia Types)
 

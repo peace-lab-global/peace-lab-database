@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾治疗干预策略 (Erotic Literature Addiction Treatment Interventions)"
-description: "色情文学成瘾治疗干预策略 (Erotic Literature Addiction Treatment Interventions)的详细解析与实践指南"
+description: "色情文学成瘾治疗干预策略 (Erotic Literature Addiction Treatment Interventions) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "anxiety", "cbt", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "色情文学成瘾治疗干预策略的核心概念"
   - "色情文学成瘾治疗干预策略的方法与实践"
   - "色情文学成瘾治疗干预策略的循证证据"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["色情文学成瘾治疗干预策略", "Erotic", "Literature", "Addiction", "Treatment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Treatment_Interventions.md"
+    relation: "treatment/interventions/家庭治疗"
 ---
 # 色情文学成瘾治疗干预策略 (Erotic Literature Addiction Treatment Interventions)
 

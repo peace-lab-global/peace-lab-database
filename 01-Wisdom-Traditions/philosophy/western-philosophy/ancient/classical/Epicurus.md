@@ -1,7 +1,6 @@
 ---
-
 title: "伊壁鸠鲁 (Epicurus)"
-description: "伊壁鸠鲁 (Epicurus)的详细解析与实践指南"
+description: "伊壁鸠鲁 (Epicurus) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["cbt", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是伊壁鸠鲁"
   - "伊壁鸠鲁的核心概念"
   - "伊壁鸠鲁的方法与实践"
-trigger_keywords: ["伊壁鸠鲁", "anxiety", "behavioral", "cbt", "cognitive"]
+trigger_keywords: ["伊壁鸠鲁", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/death/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/death/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/exercise"
-
+  - path: "03-Bio-Science/death/Death_Western_Philosophy_Classics.md"
+    relation: "epicurus/死亡/ataraxia"
 ---
 # 伊壁鸠鲁 (Epicurus)
 

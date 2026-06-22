@@ -1,7 +1,6 @@
 ---
-
 title: "阿毗达摩心理学 (Abhidhamma Psychology)"
-description: "阿毗达摩心理学 (Abhidhamma Psychology)的详细解析与实践指南"
+description: "阿毗达摩心理学 (Abhidhamma Psychology) —— 佛教 · Theravada 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
 tags: ["addiction", "buddhism"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "阿毗达摩心理学的核心概念"
   - "阿毗达摩心理学的方法与实践"
   - "阿毗达摩心理学的自助方法"
-trigger_keywords: ["阿毗达摩心理学", "act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Loving_Kindness_Overview.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["阿毗达摩心理学", "Abhidhamma", "Psychology"]
+cross_refs: []
 ---
 # 阿毗达摩心理学 (Abhidhamma Psychology)
 

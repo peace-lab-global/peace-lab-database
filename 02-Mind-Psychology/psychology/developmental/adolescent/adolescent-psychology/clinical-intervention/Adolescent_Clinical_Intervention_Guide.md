@@ -1,7 +1,6 @@
 ---
-
 title: "青少年临床干预实践指南"
-description: "青少年临床干预实践指南的详细解析与实践指南"
+description: "青少年临床干预实践指南 —— Adolescent Psychology · Clinical Intervention 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Clinical Intervention"
 tags: ["anxiety", "attachment", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是青少年临床干预实践指南"
   - "青少年临床干预实践指南的核心概念"
   - "青少年临床干预实践指南的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["青少年临床干预实践指南"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "家庭治疗/觉察/认知行为"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/情绪调节/障碍"
   - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-
+    relation: "系统脱敏/焦虑/认知行为"
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "情绪调节/认知行为/认知重构"
 ---
 # 青少年临床干预实践指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "禅定体系详解 (Dhyāna & Samādhi Comprehensive System)"
-description: "禅定体系详解 (Dhyāna & Samādhi Comprehensive System)的详细解析与实践指南"
+description: "禅定体系详解 (Dhyāna & Samādhi Comprehensive System) —— 冥想 · Samatha Vipassana 专题"
 category: "心智与心理学 > 冥想 > Samatha Vipassana"
 tags: ["brain", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是禅定体系详解"
   - "禅定体系详解的核心概念"
   - "禅定体系详解的方法与实践"
-trigger_keywords: ["禅定体系详解", "act", "assessment", "body", "brain"]
+trigger_keywords: ["禅定体系详解", "Dhyāna", "Samādhi", "Comprehensive", "System"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "GLOSSARY.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "README.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "buddhism/daoism/meditation"
-
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "dhi/dhy/sam"
 ---
 # 禅定体系详解 (Dhyāna & Samādhi Comprehensive System)
 

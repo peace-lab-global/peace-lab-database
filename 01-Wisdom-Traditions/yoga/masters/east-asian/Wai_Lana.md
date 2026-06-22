@@ -1,7 +1,6 @@
 ---
-
 title: "蕙兰（Wai Lana / 张蕙兰）"
-description: "蕙兰（Wai Lana / 张蕙兰）的详细解析与实践指南"
+description: "蕙兰（Wai Lana / 张蕙兰） —— Masters · East Asian 专题"
 category: "智慧传承 > 瑜伽 > Masters > East Asian"
 tags: ["meditation", "music", "religion", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是蕙兰（Wai Lana / 张蕙兰）"
   - "蕙兰（Wai Lana / 张蕙兰）的核心概念"
   - "蕙兰（Wai Lana / 张蕙兰）的方法与实践"
-trigger_keywords: ["张蕙兰）", "child", "exercise", "meditation", "music"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/meditation/yoga"
-
+trigger_keywords: ["张蕙兰）", "exercise", "meditation", "music"]
+cross_refs: []
 ---
 # 蕙兰（Wai Lana / 张蕙兰）
 

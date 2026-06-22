@@ -1,7 +1,6 @@
 ---
-
 title: "《人对终极意义的寻求》Man's Search for Ultimate Meaning"
-description: "《人对终极意义的寻求》Man's Search for Ultimate Meaning的详细解析与实践指南"
+description: "《人对终极意义的寻求》Man's Search for Ultimate Meaning —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["addiction", "depression", "freud"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《人对终极意义的寻求》Man's Search for Ultimate Meaning"
   - "《人对终极意义的寻求》Man's Search for Ultimate Meaning的核心概念"
   - "《人对终极意义的寻求》Man's Search for Ultimate Meaning的方法与实践"
-trigger_keywords: ["addiction", "behavioral", "clinical", "depression"]
+trigger_keywords: ["depression", "《人对终极意义的寻求》Man's", "Search", "for", "Ultimate"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "depression/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md"
+    relation: "search/意义疗法/meaning"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "search/meaning/man"
 ---
 # 《人对终极意义的寻求》Man's Search for Ultimate Meaning
 

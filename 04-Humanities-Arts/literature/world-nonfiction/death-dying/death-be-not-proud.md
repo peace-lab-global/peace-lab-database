@@ -1,7 +1,6 @@
 ---
-
 title: "《不要骄傲，死亡》Death Be Not Proud"
-description: "《不要骄傲，死亡》Death Be Not Proud的详细解析与实践指南"
+description: "《不要骄傲，死亡》Death Be Not Proud —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["treatment", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《不要骄傲，死亡》Death Be Not Proud"
   - "《不要骄傲，死亡》Death Be Not Proud的核心概念"
   - "《不要骄傲，死亡》Death Be Not Proud的方法与实践"
-trigger_keywords: ["《不要骄傲", "brain", "child", "death", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "README.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "death/neuroscience/sexuality"
-
+trigger_keywords: ["《不要骄傲", "死亡》Death", "Be", "Not", "Proud"]
+cross_refs: []
 ---
 # 《不要骄傲，死亡》Death Be Not Proud
 

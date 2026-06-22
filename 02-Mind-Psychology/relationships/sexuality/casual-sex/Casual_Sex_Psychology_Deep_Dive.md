@@ -1,7 +1,6 @@
 ---
-
 title: "约炮心理学深度研究 (Casual Sex Psychology Deep Dive)"
-description: "约炮心理学深度研究 (Casual Sex Psychology Deep Dive)的详细解析与实践指南"
+description: "约炮心理学深度研究 (Casual Sex Psychology Deep Dive) —— 人际关系 · Casual Sex 专题"
 category: "心智与心理学 > 人际关系 > Casual Sex"
 tags: ["anxiety", "attachment", "cortisol"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "约炮心理学深度研究的核心概念"
   - "约炮心理学深度研究的方法与实践"
   - "约炮心理学深度研究的自助方法"
-trigger_keywords: ["约炮心理学深度研究", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Youth_Population_Intervention.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["约炮心理学深度研究", "Casual", "Sex", "Psychology", "Deep"]
+cross_refs: []
 ---
 # 约炮心理学深度研究 (Casual Sex Psychology Deep Dive)
 

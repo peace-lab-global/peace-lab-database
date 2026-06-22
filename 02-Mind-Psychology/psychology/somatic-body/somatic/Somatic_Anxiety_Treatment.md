@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑躯体化与相关障碍治疗方法 (Treatment of Anxiety Somatization, Autonomic Dysregulation & Health Anxiety)"
-description: "焦虑躯体化与相关障碍治疗方法 (Treatment of Anxiety Somatization, Autonomic Dysregulation & Health Anxiety)的详细解析与实践指南"
+description: "焦虑躯体化与相关障碍治疗方法 (Treatment of Anxiety Somatization, Autonomic Dysregulation & Health Anxiety) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "cbt", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "焦虑躯体化与相关障碍治疗方法的核心概念"
   - "焦虑躯体化与相关障碍治疗方法的方法与实践"
   - "焦虑躯体化与相关障碍治疗方法的循证证据"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["焦虑躯体化与相关障碍治疗方法", "Treatment", "of", "Anxiety", "Somatization"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/cardiovascular/communication"
-
+  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
+    relation: "anxiety/treatment/焦虑"
 ---
 # 焦虑躯体化与相关障碍治疗方法 (Treatment of Anxiety Somatization, Autonomic Dysregulation & Health Anxiety)
 

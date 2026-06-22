@@ -1,7 +1,6 @@
 ---
-
 title: "《华尔街》(Wall Street, 1987) 专业影评：金融资本主义的道德哲学批判"
-description: "《华尔街》(Wall Street, 1987) 专业影评：金融资本主义的道德哲学批判的详细解析与实践指南"
+description: "《华尔街》(Wall Street, 1987) 专业影评：金融资本主义的道德哲学批判 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《华尔街》 专业影评：金融资本主义的道德哲学批判"
   - "《华尔街》 专业影评：金融资本主义的道德哲学批判的核心概念"
   - "《华尔街》 专业影评：金融资本主义的道德哲学批判的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["《华尔街》", "Wall", "Street", "1987", "专业影评：金融资本主义的道德哲学批判"]
+cross_refs: []
 ---
 # 《华尔街》(Wall Street, 1987) 专业影评：金融资本主义的道德哲学批判
 

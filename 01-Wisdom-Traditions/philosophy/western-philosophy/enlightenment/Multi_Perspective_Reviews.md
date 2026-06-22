@@ -1,7 +1,6 @@
 ---
-
 title: "启蒙哲学经典三方书评"
-description: "启蒙哲学经典三方书评的详细解析与实践指南"
+description: "启蒙哲学经典三方书评 —— Western Philosophy · Enlightenment 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
 tags: ["philosophy", "religion", "哲学"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是启蒙哲学经典三方书评"
   - "启蒙哲学经典三方书评的核心概念"
   - "启蒙哲学经典三方书评的方法与实践"
-trigger_keywords: ["启蒙哲学经典三方书评", "cognitive", "philosophy", "religion", "sexuality"]
+trigger_keywords: ["启蒙哲学经典三方书评", "religion"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
     relation: "emotion/sexuality"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "emotion/sexuality"
   - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
     relation: "emotion/sexuality"
-
 ---
 # 启蒙哲学经典三方书评
 

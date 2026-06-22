@@ -1,7 +1,6 @@
 ---
-
 title: "更年期健康 | Menopause"
-description: "更年期健康 | Menopause的详细解析与实践指南"
+description: "更年期健康 | Menopause —— 生物学 · Womens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Womens Health"
 tags: ["brain", "cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是更年期健康 | Menopause"
   - "更年期健康 | Menopause的核心概念"
   - "更年期健康 | Menopause的方法与实践"
-trigger_keywords: ["更年期健康", "Menopause", "anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["更年期健康", "Menopause"]
+cross_refs: []
 ---
 # 更年期健康 | Menopause
 

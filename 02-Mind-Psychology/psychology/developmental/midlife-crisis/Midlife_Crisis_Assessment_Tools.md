@@ -1,7 +1,6 @@
 ---
-
 title: "中年危机评估诊断工具专业内容体系"
-description: "中年危机评估诊断工具专业内容体系的详细解析与实践指南"
+description: "中年危机评估诊断工具专业内容体系 —— 发展心理学 · Midlife Crisis 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Midlife Crisis"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中年危机评估诊断工具专业内容体系"
   - "中年危机评估诊断工具专业内容体系的核心概念"
   - "中年危机评估诊断工具专业内容体系的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["中年危机评估诊断工具专业内容体系"]
+cross_refs: []
 ---
 # 中年危机评估诊断工具专业内容体系
 

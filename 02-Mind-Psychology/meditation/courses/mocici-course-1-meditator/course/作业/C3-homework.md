@@ -1,7 +1,6 @@
 ---
-
 title: "C3 第三周作业"
-description: "C3 第三周作业的详细解析与实践指南"
+description: "C3 第三周作业 —— 冥想 · Course 专题"
 category: "心智与心理学 > 冥想 > Course"
 tags: ["anxiety", "calligraphy", "dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是C3 第三周作业"
   - "C3 第三周作业的核心概念"
   - "C3 第三周作业的方法与实践"
-trigger_keywords: ["C3 第三周作业", "anxiety", "body", "breathwork", "calligraphy"]
+trigger_keywords: ["C3 第三周作业", "calligraphy"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/emotion"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "觉察/呼吸"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "觉察/身体扫描/呼吸"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "觉察/身体扫描/呼吸"
 ---
 # C3 第三周作业
 

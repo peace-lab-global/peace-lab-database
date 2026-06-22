@@ -1,7 +1,6 @@
 ---
-
 title: "Ethical Will & Life Review Guide (伦理遗嘱与生命回顾实操指南)"
-description: "Ethical Will & Life Review Guide (伦理遗嘱与生命回顾实操指南)的详细解析与实践指南"
+description: "Ethical Will & Life Review Guide (伦理遗嘱与生命回顾实操指南) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Ethical Will & Life Review Guide"
   - "Ethical Will & Life Review Guide的核心概念"
   - "Ethical Will & Life Review Guide的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/communication/death"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
-    relation: "aging/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/a-bittersweet-season.md"
-    relation: "aging/communication/death"
-
+trigger_keywords: ["Ethical", "Will", "Life", "Review", "Guide"]
+cross_refs: []
 ---
 # Ethical Will & Life Review Guide (伦理遗嘱与生命回顾实操指南)
 

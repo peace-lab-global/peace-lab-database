@@ -1,7 +1,6 @@
 ---
-
 title: "《自然大圆满》Natural Great Perfection"
-description: "《自然大圆满》Natural Great Perfection的详细解析与实践指南"
+description: "《自然大圆满》Natural Great Perfection —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["dzogchen", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《自然大圆满》Natural Great Perfection"
   - "《自然大圆满》Natural Great Perfection的核心概念"
   - "《自然大圆满》Natural Great Perfection的方法与实践"
-trigger_keywords: ["buddhism", "dzogchen", "sexuality", "writing"]
+trigger_keywords: ["dzogchen", "writing"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/INDEX.md"
+    relation: "perfection/dzogchen/great"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
+    relation: "dzogchen/perfection/great"
 ---
 # 《自然大圆满》Natural Great Perfection
 

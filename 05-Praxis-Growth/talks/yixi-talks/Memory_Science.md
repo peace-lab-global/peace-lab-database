@@ -1,6 +1,6 @@
 ---
 title: "记忆科学"
-description: "记忆科学的详细解析与实践指南"
+description: "记忆科学 —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

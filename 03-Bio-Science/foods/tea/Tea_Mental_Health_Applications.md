@@ -1,7 +1,6 @@
 ---
-
 title: "Tea & Mental Health Clinical Applications (茶与心理健康临床应用)"
-description: "Tea & Mental Health Clinical Applications (茶与心理健康临床应用)的详细解析与实践指南"
+description: "Tea & Mental Health Clinical Applications (茶与心理健康临床应用) —— 营养学 · Tea 专题"
 category: "生命科学与生物医学 > 营养学 > Tea"
 tags: ["addiction", "aging", "attachment", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Tea & Mental Health Clinical Applications"
   - "Tea & Mental Health Clinical Applications的核心概念"
   - "Tea & Mental Health Clinical Applications的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Tea", "Mental", "Health", "Clinical", "Applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
+    relation: "茶道/tea/ceremony"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Sleep_Comorbidity.md"
+    relation: "睡眠/抑郁/障碍"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "失眠/障碍/睡眠"
+  - path: "02-Mind-Psychology/psychology/somatic-body/sleep/skills/_manifest.md"
+    relation: "失眠/睡眠/障碍"
 ---
 # Tea & Mental Health Clinical Applications (茶与心理健康临床应用)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "禅与商道 (Zen & Business Philosophy)"
-description: "禅与商道 (Zen & Business Philosophy)的详细解析与实践指南"
+description: "禅与商道 (Zen & Business Philosophy) —— Contemporary · The Distant Savior 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
 tags: ["daoism", "decision-making", "phobia", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是禅与商道"
   - "禅与商道的核心概念"
   - "禅与商道的方法与实践"
-trigger_keywords: ["禅与商道", "behavioral", "cognitive", "daoism", "decision-making"]
+trigger_keywords: ["禅与商道", "daoism", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "zen/禅宗/vs"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
+    relation: "zen/禅宗/vs"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Wisdom_Lineage.md"
+    relation: "zen/禅宗"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
+    relation: "zen/禅宗"
 ---
 # 禅与商道 (Zen & Business Philosophy)
 

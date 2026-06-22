@@ -1,7 +1,6 @@
 ---
-
 title: "《平凡的世界》读书笔记与书评"
-description: "《平凡的世界》读书笔记与书评的详细解析与实践指南"
+description: "《平凡的世界》读书笔记与书评 —— Contemporary · The Ordinary World 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Ordinary World"
 tags: ["marriage", "stress", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《平凡的世界》读书笔记与书评"
   - "《平凡的世界》读书笔记与书评的核心概念"
   - "《平凡的世界》读书笔记与书评的方法与实践"
-trigger_keywords: ["exercise", "marriage", "sexuality", "stress"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
-    relation: "attachment/exercise/sexuality"
-
+trigger_keywords: ["exercise", "marriage", "stress"]
+cross_refs: []
 ---
 # 《平凡的世界》读书笔记与书评
 

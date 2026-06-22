@@ -1,7 +1,6 @@
 ---
-
 title: "Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路"
-description: "Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路的详细解析与实践指南"
+description: "Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路"
   - "Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路的核心概念"
   - "Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "attachment/exercise/sexuality"
-
+trigger_keywords: ["Adam", "Driver", "专业分析：从海军陆战队员到银幕艺术家的蜕变之路"]
+cross_refs: []
 ---
 # Adam Driver 专业分析：从海军陆战队员到银幕艺术家的蜕变之路
 

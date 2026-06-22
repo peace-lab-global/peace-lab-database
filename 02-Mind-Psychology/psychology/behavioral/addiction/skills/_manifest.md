@@ -9,6 +9,9 @@ skills:
     skill_name: 成瘾行为评估
     filename: Addiction_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
 ---
 
 # 成瘾行为评估模块清单

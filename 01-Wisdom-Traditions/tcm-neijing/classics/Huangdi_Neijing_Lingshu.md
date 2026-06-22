@@ -1,7 +1,6 @@
 ---
-
 title: "黄帝内经·灵枢 (Huangdi Neijing Lingshu)"
-description: "黄帝内经·灵枢 (Huangdi Neijing Lingshu)的详细解析与实践指南"
+description: "黄帝内经·灵枢 (Huangdi Neijing Lingshu) —— 中医内经 · Classics 专题"
 category: "智慧传承 > 中医内经 > Classics"
 tags: ["gut", "phobia", "中医内经"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是黄帝内经·灵枢"
   - "黄帝内经·灵枢的核心概念"
   - "黄帝内经·灵枢的方法与实践"
-trigger_keywords: ["黄帝内经", "灵枢", "behavioral", "gut", "phobia", "sexuality"]
+trigger_keywords: ["黄帝内经", "灵枢", "gut", "phobia"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
-    relation: "anxiety/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "anxiety/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "黄帝内经/huangdi/neijing"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Overview.md"
+    relation: "针灸/经络"
 ---
 # 黄帝内经·灵枢 (Huangdi Neijing Lingshu)
 

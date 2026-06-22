@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法临床方案与案例 (Clinical Protocols & Case Studies)"
-description: "檀香疗法临床方案与案例 (Clinical Protocols & Case Studies)的详细解析与实践指南"
+description: "檀香疗法临床方案与案例 (Clinical Protocols & Case Studies) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["addiction", "anxiety", "brain", "depression", "mbsr", "emdr"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法临床方案与案例的核心概念"
   - "檀香疗法临床方案与案例的方法与实践"
   - "檀香疗法临床方案与案例的循证证据"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["檀香疗法临床方案与案例", "Clinical", "Protocols", "Case", "Studies"]
+cross_refs: []
 ---
 # 檀香疗法临床方案与案例 (Clinical Protocols & Case Studies)
 

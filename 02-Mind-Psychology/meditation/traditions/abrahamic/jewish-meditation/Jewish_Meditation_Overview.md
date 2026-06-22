@@ -1,7 +1,6 @@
 ---
-
 title: "犹太教冥想专业概述：从圣经默想到卡巴拉神视"
-description: "犹太教冥想专业概述：从圣经默想到卡巴拉神视的详细解析与实践指南"
+description: "犹太教冥想专业概述：从圣经默想到卡巴拉神视 —— 冥想 · Jewish Meditation 专题"
 category: "心智与心理学 > 冥想 > Jewish Meditation"
 tags: ["brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是犹太教冥想专业概述：从圣经默想到卡巴拉神视"
   - "犹太教冥想专业概述：从圣经默想到卡巴拉神视的核心概念"
   - "犹太教冥想专业概述：从圣经默想到卡巴拉神视的方法与实践"
-trigger_keywords: ["behavioral", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["犹太教冥想专业概述：从圣经默想到卡巴拉神视"]
+cross_refs: []
 ---
 # 犹太教冥想专业概述：从圣经默想到卡巴拉神视
 

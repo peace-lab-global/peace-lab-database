@@ -1,7 +1,6 @@
 ---
-
 title: "《白夜》White Nights"
-description: "《白夜》White Nights的详细解析与实践指南"
+description: "《白夜》White Nights —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["cinema", "literature", "loneliness", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《白夜》White Nights"
   - "《白夜》White Nights的核心概念"
   - "《白夜》White Nights的方法与实践"
-trigger_keywords: ["cinema", "literature", "loneliness", "psychology"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "emotion/productivity/sexuality"
-
+trigger_keywords: ["cinema", "loneliness"]
+cross_refs: []
 ---
 # 《白夜》White Nights
 

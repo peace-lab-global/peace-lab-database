@@ -1,7 +1,6 @@
 ---
-
 title: "系列二十二：世界传统冥想系列 | World Traditions Series"
-description: "系列二十二：世界传统冥想系列 | World Traditions Series的详细解析与实践指南"
+description: "系列二十二：世界传统冥想系列 | World Traditions Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是系列二十二：世界传统冥想系列 | World Traditions Series"
   - "系列二十二：世界传统冥想系列 | World Traditions Series的核心概念"
   - "系列二十二：世界传统冥想系列 | World Traditions Series的方法与实践"
-trigger_keywords: ["art", "body", "breathwork", "buddhism"]
+trigger_keywords: ["系列二十二：世界传统冥想系列", "World", "Traditions", "Series"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/daoism"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "art_therapy/buddhism/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/secret-of-the-vajra-world.md"
+    relation: "观想/world/藏传"
 ---
 # 系列二十二：世界传统冥想系列 | World Traditions Series
 

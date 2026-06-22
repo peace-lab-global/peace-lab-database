@@ -1,7 +1,6 @@
 ---
-
 title: "办公椅肩颈放松：科学方法与系统实践"
-description: "办公椅肩颈放松：科学方法与系统实践的详细解析与实践指南"
+description: "办公椅肩颈放松：科学方法与系统实践 —— 生物学 · Office Neck Shoulder 专题"
 category: "生命科学与生物医学 > 生物学 > Office Neck Shoulder"
 tags: ["aging", "brain", "cardiovascular", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是办公椅肩颈放松：科学方法与系统实践"
   - "办公椅肩颈放松：科学方法与系统实践的核心概念"
   - "办公椅肩颈放松：科学方法与系统实践的方法与实践"
-trigger_keywords: ["act", "aging", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/exercise"
-
+trigger_keywords: ["办公椅肩颈放松：科学方法与系统实践"]
+cross_refs: []
 ---
 # 办公椅肩颈放松：科学方法与系统实践
 

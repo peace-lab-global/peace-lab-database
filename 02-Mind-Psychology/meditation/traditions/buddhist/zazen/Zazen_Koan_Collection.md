@@ -1,7 +1,6 @@
 ---
-
 title: "坐禅公案集详解"
-description: "坐禅公案集详解的详细解析与实践指南"
+description: "坐禅公案集详解 —— 冥想 · Zazen 专题"
 category: "心智与心理学 > 冥想 > Zazen"
 tags: ["brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是坐禅公案集详解"
   - "坐禅公案集详解的核心概念"
   - "坐禅公案集详解的方法与实践"
-trigger_keywords: ["坐禅公案集详解", "act", "behavioral", "body", "brain"]
+trigger_keywords: ["坐禅公案集详解"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "buddhism/communication/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
+    relation: "话头/坐禅/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "坐禅/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
+    relation: "话头/坐禅/禅宗"
 ---
 # 坐禅公案集详解
 

@@ -1,7 +1,6 @@
 ---
-
 title: "中医心理学专业内容体系"
-description: "中医心理学专业内容体系的详细解析与实践指南"
+description: "中医心理学专业内容体系 —— 特殊专题 · Tcm Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Tcm Psychology"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中医心理学专业内容体系的核心概念"
   - "中医心理学专业内容体系的方法与实践"
   - "中医心理学专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["中医心理学专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "推拿/经络"
+  - path: "01-Wisdom-Traditions/tcm-neijing/classics/Huangdi_Neijing_Lingshu.md"
+    relation: "针灸/经络"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Overview.md"
+    relation: "推拿/经络"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Meridian_Acupoint.md"
+    relation: "推拿/经络/运动"
 ---
 # 中医心理学专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)"
-description: "Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)的详细解析与实践指南"
+description: "Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["cbt", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Clinical & Workplace Applications in Death Care"
   - "Clinical & Workplace Applications in Death Care的核心概念"
   - "Clinical & Workplace Applications in Death Care的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
+trigger_keywords: ["Clinical", "Workplace", "Applications", "in", "Death"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/communication/death"
-
+    relation: "临终/care/death"
 ---
 # Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)
 

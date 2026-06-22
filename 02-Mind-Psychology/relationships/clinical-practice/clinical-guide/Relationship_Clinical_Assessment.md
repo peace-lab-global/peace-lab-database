@@ -1,7 +1,6 @@
 ---
-
 title: "关系临床评估与治疗规划 (Relationship Clinical Assessment & Treatment Planning)"
-description: "关系临床评估与治疗规划 (Relationship Clinical Assessment & Treatment Planning)的详细解析与实践指南"
+description: "关系临床评估与治疗规划 (Relationship Clinical Assessment & Treatment Planning) —— 人际关系 · Clinical Guide 专题"
 category: "心智与心理学 > 人际关系 > Clinical Guide"
 tags: ["attachment", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "关系临床评估与治疗规划的核心概念"
   - "关系临床评估与治疗规划的方法与实践"
   - "关系临床评估与治疗规划的循证证据"
-trigger_keywords: ["assessment", "attachment", "behavioral", "clinical"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Youth_Population_Intervention.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Sociological_Analysis.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["关系临床评估与治疗规划", "Relationship", "Clinical", "Assessment", "Treatment"]
+cross_refs: []
 ---
 # 关系临床评估与治疗规划 (Relationship Clinical Assessment & Treatment Planning)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Dalí (达利)：超现实主义与梦境艺术"
-description: "Dalí (达利)：超现实主义与梦境艺术的详细解析与实践指南"
+description: "Dalí (达利)：超现实主义与梦境艺术 —— 艺术家 · Modern 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Dalí ：超现实主义与梦境艺术"
   - "Dalí ：超现实主义与梦境艺术的核心概念"
   - "Dalí ：超现实主义与梦境艺术的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "cinema"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["cinema", "Dalí", "达利", "：超现实主义与梦境艺术"]
+cross_refs: []
 ---
 # Dalí (达利)：超现实主义与梦境艺术
 

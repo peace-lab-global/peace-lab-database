@@ -1,7 +1,6 @@
 ---
-
 title: "Benefits & Risks (疗愈风险与益处分析)"
-description: "Benefits & Risks (疗愈风险与益处分析)的详细解析与实践指南"
+description: "Benefits & Risks (疗愈风险与益处分析) —— 心理学基础 · Framework 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
 tags: ["anxiety", "brain", "mbsr", "mindfulness", "cbt", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Benefits & Risks"
   - "Benefits & Risks的核心概念"
   - "Benefits & Risks的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "README.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Benefits", "Risks", "疗愈风险与益处分析"]
+cross_refs: []
 ---
 # Benefits & Risks (疗愈风险与益处分析)
 

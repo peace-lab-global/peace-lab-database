@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽教师评估与进阶体系（Yoga Assessment & Progression）"
-description: "瑜伽教师评估与进阶体系（Yoga Assessment & Progression）的详细解析与实践指南"
+description: "瑜伽教师评估与进阶体系（Yoga Assessment & Progression） —— 瑜伽 · Practitioner Training 专题"
 category: "智慧传承 > 瑜伽 > Practitioner Training"
 tags: ["meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽教师评估与进阶体系（Yoga Assessment & Progression）"
   - "瑜伽教师评估与进阶体系（Yoga Assessment & Progression）的核心概念"
   - "瑜伽教师评估与进阶体系（Yoga Assessment & Progression）的方法与实践"
-trigger_keywords: ["act", "assessment", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/exercise/sexuality"
-
+trigger_keywords: ["瑜伽教师评估与进阶体系", "Yoga", "Assessment", "Progression"]
+cross_refs: []
 ---
 # 瑜伽教师评估与进阶体系（Yoga Assessment & Progression）
 

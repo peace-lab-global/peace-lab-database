@@ -1,7 +1,6 @@
 ---
-
 title: "Literary Therapy: Dante Alighieri"
-description: "Literary Therapy: Dante Alighieri的详细解析与实践指南"
+description: "Literary Therapy: Dante Alighieri —— 文学 · 疗法 专题"
 category: "人文与艺术疗愈 > 文学 > 疗法"
 tags: ["literature", "疗法"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Literary Therapy: Dante Alighieri"
   - "Literary Therapy: Dante Alighieri的核心概念"
   - "Literary Therapy: Dante Alighieri的方法与实践"
-trigger_keywords: ["act", "文学", "疗法"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/17-Case-Conceptualization.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["文学", "疗法"]
+cross_refs: []
 ---
 # Literary Therapy: Dante Alighieri
 

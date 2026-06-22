@@ -1,7 +1,6 @@
 ---
-
 title: "loneliness | 孤独感研究 Index"
-description: "loneliness | 孤独感研究 Index的详细解析与实践指南"
+description: "loneliness | 孤独感研究 Index —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["attachment", "brain", "cardiovascular", "personality", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是loneliness | 孤独感研究 Index"
   - "loneliness | 孤独感研究 Index的核心概念"
   - "loneliness | 孤独感研究 Index的方法与实践"
-trigger_keywords: ["loneliness", "adolescent", "aging", "assessment", "attachment"]
+trigger_keywords: ["loneliness", "孤独感研究"]
 cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/immune"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/communication/immune"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "aging/cardiovascular/communication"
-
+  - path: "05-Praxis-Growth/personal-development/social-capital/Social_Capital_Loneliness_Bridge.md"
+    relation: "loneliness/social"
+  - path: "05-Praxis-Growth/personal-development/social-capital/INDEX.md"
+    relation: "loneliness/social/new"
 ---
 # loneliness | 孤独感研究 Index
 

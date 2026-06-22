@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《第二钢琴协奏曲》创作背景与心理分析"
-description: "肖邦《第二钢琴协奏曲》创作背景与心理分析的详细解析与实践指南"
+description: "肖邦《第二钢琴协奏曲》创作背景与心理分析 —— Chopin Piano Concertos · No2 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Piano Concertos > No2"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "肖邦《第二钢琴协奏曲》创作背景与心理分析的核心概念"
   - "肖邦《第二钢琴协奏曲》创作背景与心理分析的方法与实践"
   - "肖邦《第二钢琴协奏曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["adolescent", "art", "clinical", "cognitive"]
+trigger_keywords: ["肖邦《第二钢琴协奏曲》创作背景与心理分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/parent-dependent-male/Parent_Dependent_Male_Analysis.md"
+    relation: "冲突/情绪调节"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Quality_Certification_Report.md"
+    relation: "冲突/情绪调节"
+  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
+    relation: "冲突/自信"
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "冲突/情绪调节/意义"
 ---
 # 肖邦《第二钢琴协奏曲》创作背景与心理分析
 

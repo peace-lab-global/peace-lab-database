@@ -1,7 +1,6 @@
 ---
-
 title: "practice | Index"
-description: "practice | Index的详细解析与实践指南"
+description: "practice | Index —— 个人发展 · Practice 专题"
 category: "实践与个人增长 > 个人发展 > Practice"
 tags: ["个人发展"]
 last_updated: "2026-05"
@@ -12,9 +11,12 @@ intent_queries:
   - "什么是practice | Index"
   - "practice | Index的核心概念"
   - "practice | Index的方法与实践"
-trigger_keywords: ["practice", "Index", "act", "个人发展"]
-cross_refs: []
-
+trigger_keywords: ["practice", "个人发展"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/buddhism/advanced/INDEX.md"
+    relation: "advanced/practice/contents"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Daily_Practices.md"
+    relation: "daily/practices"
 ---
 # practice | Index
 

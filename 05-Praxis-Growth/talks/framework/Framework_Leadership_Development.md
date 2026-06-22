@@ -1,7 +1,6 @@
 ---
-
 title: "领导力发展 | Leadership Development"
-description: "领导力发展 | Leadership Development的详细解析与实践指南"
+description: "领导力发展 | Leadership Development —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["communication", "decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是领导力发展 | Leadership Development"
   - "领导力发展 | Leadership Development的核心概念"
   - "领导力发展 | Leadership Development的方法与实践"
-trigger_keywords: ["领导力发展", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["领导力发展", "Leadership", "Development"]
+cross_refs: []
 ---
 # 领导力发展 | Leadership Development
 

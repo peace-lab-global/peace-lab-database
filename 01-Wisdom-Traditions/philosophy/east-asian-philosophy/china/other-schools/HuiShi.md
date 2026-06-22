@@ -1,7 +1,6 @@
 ---
-
 title: "惠施 (Hui Shi)"
-description: "惠施 (Hui Shi)的详细解析与实践指南"
+description: "惠施 (Hui Shi) —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["cbt", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是惠施"
   - "惠施的核心概念"
   - "惠施的方法与实践"
-trigger_keywords: ["惠施", "behavioral", "cbt", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["惠施", "cbt"]
+cross_refs: []
 ---
 # 惠施 (Hui Shi)
 

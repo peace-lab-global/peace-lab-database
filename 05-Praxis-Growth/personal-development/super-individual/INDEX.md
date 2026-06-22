@@ -1,6 +1,6 @@
 ---
 title: "super-individual | Index"
-description: "super-individual | Index的详细解析与实践指南"
+description: "super-individual | Index —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["个人发展", "超级个体"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是super-individual | Index"
   - "super-individual | Index的核心概念"
   - "super-individual | Index的方法与实践"
-trigger_keywords: ["Index", "个人发展", "超级个体"]
+trigger_keywords: ["个人发展", "超级个体"]
 cross_refs: []
 ---
 # super-individual | Index

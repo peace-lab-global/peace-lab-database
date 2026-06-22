@@ -1,7 +1,6 @@
 ---
-
 title: "家庭系统排列案例分析与临床实例 (Family Constellation Case Analysis & Clinical Examples)"
-description: "家庭系统排列案例分析与临床实例 (Family Constellation Case Analysis & Clinical Examples)的详细解析与实践指南"
+description: "家庭系统排列案例分析与临床实例 (Family Constellation Case Analysis & Clinical Examples) —— 特殊专题 · Family Constellation 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Family Constellation"
 tags: ["anxiety", "attachment", "cbt", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是家庭系统排列案例分析与临床实例"
   - "家庭系统排列案例分析与临床实例的核心概念"
   - "家庭系统排列案例分析与临床实例的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "README.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["家庭系统排列案例分析与临床实例", "Family", "Constellation", "Case", "Analysis"]
+cross_refs: []
 ---
 # 家庭系统排列案例分析与临床实例 (Family Constellation Case Analysis & Clinical Examples)
 

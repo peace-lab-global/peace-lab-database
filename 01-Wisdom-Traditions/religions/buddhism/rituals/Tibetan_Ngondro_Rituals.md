@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教加行仪轨 (Tibetan Ngondro Rituals)"
-description: "藏传佛教加行仪轨 (Tibetan Ngondro Rituals)的详细解析与实践指南"
+description: "藏传佛教加行仪轨 (Tibetan Ngondro Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "healing", "resilience", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是藏传佛教加行仪轨"
   - "藏传佛教加行仪轨的核心概念"
   - "藏传佛教加行仪轨的方法与实践"
-trigger_keywords: ["藏传佛教加行仪轨", "behavioral", "body", "buddhism", "cognitive"]
+trigger_keywords: ["藏传佛教加行仪轨", "Tibetan", "Ngondro", "Rituals"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Ram_Dass.md"
-    relation: "buddhism/death/sexuality"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
-    relation: "buddhism/death/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/Tibetan_Ngondro_Guide.md"
+    relation: "上师/ngondro/观想"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/观想"
 ---
 # 藏传佛教加行仪轨 (Tibetan Ngondro Rituals)
 

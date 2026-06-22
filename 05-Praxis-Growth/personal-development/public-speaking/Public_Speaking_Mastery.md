@@ -1,7 +1,6 @@
 ---
-
 title: "公众演讲精通指南 (Public Speaking Mastery)"
-description: "公众演讲精通指南 (Public Speaking Mastery)的详细解析与实践指南"
+description: "公众演讲精通指南 (Public Speaking Mastery) —— 个人发展 · Public Speaking 专题"
 category: "实践与个人增长 > 个人发展 > Public Speaking"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是公众演讲精通指南"
   - "公众演讲精通指南的核心概念"
   - "公众演讲精通指南的方法与实践"
-trigger_keywords: ["公众演讲精通指南", "act", "anxiety", "art", "assessment"]
+trigger_keywords: ["公众演讲精通指南", "Public", "Speaking", "Mastery"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/communication/exercise"
-
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
+    relation: "fill/style/ffe"
+  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Comparison.md"
+    relation: "fill/ffe/style"
+  - path: "02-Mind-Psychology/relationships/clinical-practice/legal-ethics/Relationship_Law_Ethics_Deep_Dive.md"
+    relation: "fill/style/ffe"
+  - path: "02-Mind-Psychology/relationships/social-context/diverse-populations/Relationships_Diverse_Populations_Guide.md"
+    relation: "fill/ffe/style"
 ---
 # 公众演讲精通指南 (Public Speaking Mastery)
 

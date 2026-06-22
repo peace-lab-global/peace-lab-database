@@ -1,7 +1,6 @@
 ---
-
 title: "《成为我自己》Becoming Myself"
-description: "《成为我自己》Becoming Myself的详细解析与实践指南"
+description: "《成为我自己》Becoming Myself —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["loneliness", "phobia", "suicide"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《成为我自己》Becoming Myself"
   - "《成为我自己》Becoming Myself的核心概念"
   - "《成为我自己》Becoming Myself的方法与实践"
-trigger_keywords: ["aging", "anxiety", "death", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/death"
-
+trigger_keywords: ["《成为我自己》Becoming", "Myself"]
+cross_refs: []
 ---
 # 《成为我自己》Becoming Myself
 

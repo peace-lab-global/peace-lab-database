@@ -1,7 +1,6 @@
 ---
-
 title: "《平静的第一堂课》A First Course in Meditation"
-description: "《平静的第一堂课》A First Course in Meditation的详细解析与实践指南"
+description: "《平静的第一堂课》A First Course in Meditation —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《平静的第一堂课》A First Course in Meditation"
   - "《平静的第一堂课》A First Course in Meditation的核心概念"
   - "《平静的第一堂课》A First Course in Meditation的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "body", "breathwork"]
+trigger_keywords: ["《平静的第一堂课》A", "First", "Course", "in", "Meditation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/meditation"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/身体呼吸觉知.md"
+    relation: "呼吸/冥想"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/专注数息.md"
+    relation: "呼吸/冥想"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/呼吸空间.md"
+    relation: "呼吸/冥想"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：答疑解惑：冥想中的呼吸.md"
+    relation: "呼吸/冥想"
 ---
 # 《平静的第一堂课》A First Course in Meditation
 

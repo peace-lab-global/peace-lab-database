@@ -1,7 +1,6 @@
 ---
-
 title: "《好家伙》(Goodfellas) 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察"
-description: "《好家伙》(Goodfellas) 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察的详细解析与实践指南"
+description: "《好家伙》(Goodfellas) 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《好家伙》 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察"
   - "《好家伙》 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察的核心概念"
   - "《好家伙》 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/sexuality"
-
+trigger_keywords: ["《好家伙》", "Goodfellas", "专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察"]
+cross_refs: []
 ---
 # 《好家伙》(Goodfellas) 专业影评：意大利裔美国人身份认同与道德相对主义的民族志考察
 

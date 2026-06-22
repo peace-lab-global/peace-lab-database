@@ -29,16 +29,10 @@ changelog:
     date: 2026-04-10
     changes: "初始版本"
 cross_refs:
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
-    relation: "communication/emotion/sexuality"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "communication/emotion/sexuality"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/emotion/sexuality"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/emotion/sexuality"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "communication/emotion/sexuality"
+  - path: "03-Bio-Science/biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md"
+    relation: "睡眠/压力"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+    relation: "睡眠/压力"
 ---
 
 # 压力日记分析技能

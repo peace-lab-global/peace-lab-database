@@ -1,6 +1,6 @@
 ---
 title: "other-schools | Index"
-description: "other-schools | Index的详细解析与实践指南"
+description: "other-schools | Index —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是other-schools | Index"
   - "other-schools | Index的核心概念"
   - "other-schools | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "other-schools"]
 cross_refs: []
 ---
 # other-schools | Index

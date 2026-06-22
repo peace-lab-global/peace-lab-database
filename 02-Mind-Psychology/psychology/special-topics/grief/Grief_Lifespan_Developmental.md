@@ -1,7 +1,6 @@
 ---
-
 title: "Grief Across the Lifespan (生命全程中的悲伤)"
-description: "Grief Across the Lifespan (生命全程中的悲伤)的详细解析与实践指南"
+description: "Grief Across the Lifespan (生命全程中的悲伤) —— 特殊专题 · Grief 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Grief"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Grief Across the Lifespan"
   - "Grief Across the Lifespan的核心概念"
   - "Grief Across the Lifespan的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["Grief", "Across", "the", "Lifespan", "生命全程中的悲伤"]
+cross_refs: []
 ---
 # Grief Across the Lifespan (生命全程中的悲伤)
 

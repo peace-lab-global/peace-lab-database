@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽安全 | Yoga Safety"
-description: "瑜伽安全 | Yoga Safety的详细解析与实践指南"
+description: "瑜伽安全 | Yoga Safety —— 瑜伽 · Safety 专题"
 category: "智慧传承 > 瑜伽 > Safety"
 tags: ["spirituality", "treatment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是瑜伽安全 | Yoga Safety"
   - "瑜伽安全 | Yoga Safety的核心概念"
   - "瑜伽安全 | Yoga Safety的方法与实践"
-trigger_keywords: ["瑜伽安全", "clinical", "crisis", "psychology", "sexuality"]
+trigger_keywords: ["瑜伽安全", "Yoga", "Safety"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "sexuality/therapy/trauma"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga"
 ---
 # 瑜伽安全 | Yoga Safety
 

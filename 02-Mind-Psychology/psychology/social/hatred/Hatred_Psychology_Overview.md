@@ -1,6 +1,6 @@
 ---
 title: "Hatred Psychology Overview"
-description: "Hatred Psychology Overview的详细解析与实践指南"
+description: "Hatred Psychology Overview —— 社会心理学 · Hatred 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
 tags: ["心理学", "社会心理学"]
 last_updated: "2026-05"
@@ -12,7 +12,9 @@ intent_queries:
   - "Hatred Psychology Overview的核心概念"
   - "Hatred Psychology Overview的方法与实践"
 trigger_keywords: ["心理学", "社会心理学"]
-cross_refs: []
+cross_refs:
+  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md"
+    relation: "lab/peace"
 ---
 # Hatred Psychology Overview
 

@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽大师人物档案 | Yoga Masters & Leaders"
-description: "瑜伽大师人物档案 | Yoga Masters & Leaders的详细解析与实践指南"
+description: "瑜伽大师人物档案 | Yoga Masters & Leaders —— 瑜伽 · Masters 专题"
 category: "智慧传承 > 瑜伽 > Masters"
 tags: ["philosophy", "spirituality", "trauma", "treatment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是瑜伽大师人物档案 | Yoga Masters & Leaders"
   - "瑜伽大师人物档案 | Yoga Masters & Leaders的核心概念"
   - "瑜伽大师人物档案 | Yoga Masters & Leaders的方法与实践"
-trigger_keywords: ["瑜伽大师人物档案", "act", "developmental", "philosophy", "psychology"]
+trigger_keywords: ["瑜伽大师人物档案", "Yoga", "Masters", "Leaders"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/sexuality/therapy"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/sexuality/therapy"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/sexuality/therapy"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/sexuality/therapy"
-  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
-    relation: "communication/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/INDEX.md"
+    relation: "ancient/leaders/masters"
 ---
 # 瑜伽大师人物档案 | Yoga Masters & Leaders
 

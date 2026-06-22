@@ -1,7 +1,6 @@
 ---
-
 title: "Seong-Jin Cho (赵成珍) - 韩国钢琴新锐之星"
-description: "Seong-Jin Cho (赵成珍) - 韩国钢琴新锐之星的详细解析与实践指南"
+description: "Seong-Jin Cho (赵成珍) - 韩国钢琴新锐之星 —— Musician · Pianists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
 tags: ["healing", "music", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Seong-Jin Cho  - 韩国钢琴新锐之星"
   - "Seong-Jin Cho  - 韩国钢琴新锐之星的核心概念"
   - "Seong-Jin Cho  - 韩国钢琴新锐之星的方法与实践"
-trigger_keywords: ["act", "art", "developmental", "healing"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["healing", "Seong-Jin", "Cho", "赵成珍", "韩国钢琴新锐之星"]
+cross_refs: []
 ---
 # Seong-Jin Cho (赵成珍) - 韩国钢琴新锐之星
 

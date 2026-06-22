@@ -1,7 +1,6 @@
 ---
-
 title: "李斯特交响诗《前奏曲》录音推荐"
-description: "李斯特交响诗《前奏曲》录音推荐的详细解析与实践指南"
+description: "李斯特交响诗《前奏曲》录音推荐 —— Liszt Symphonic Poems · Lespreludes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
 tags: ["music", "古典音乐", "媒体", "music-therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是李斯特交响诗《前奏曲》录音推荐"
   - "李斯特交响诗《前奏曲》录音推荐的核心概念"
   - "李斯特交响诗《前奏曲》录音推荐的方法与实践"
-trigger_keywords: ["art", "music", "sexuality", "古典音乐"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["music", "古典音乐"]
+cross_refs: []
 ---
 # 李斯特交响诗《前奏曲》录音推荐
 

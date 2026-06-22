@@ -1,7 +1,6 @@
 ---
-
 title: "人格、依恋与孤独 | Personality, Attachment & Loneliness"
-description: "人格、依恋与孤独 | Personality, Attachment & Loneliness的详细解析与实践指南"
+description: "人格、依恋与孤独 | Personality, Attachment & Loneliness —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment", "cbt", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是人格、依恋与孤独 | Personality, Attachment & Loneliness"
   - "人格、依恋与孤独 | Personality, Attachment & Loneliness的核心概念"
   - "人格、依恋与孤独 | Personality, Attachment & Loneliness的方法与实践"
-trigger_keywords: ["人格", "依恋与孤独", "adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["人格", "依恋与孤独"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Personality.md"
+    relation: "人格/人格心理学/personality"
 ---
 # 人格、依恋与孤独 | Personality, Attachment & Loneliness
 

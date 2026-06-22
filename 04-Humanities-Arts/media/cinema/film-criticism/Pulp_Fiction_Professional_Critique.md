@@ -1,7 +1,6 @@
 ---
-
 title: "《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨"
-description: "《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨的详细解析与实践指南"
+description: "《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨"
   - "《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨的核心概念"
   - "《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/neuroscience"
-
+trigger_keywords: ["《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨"]
+cross_refs: []
 ---
 # 《低俗小说》专业影评：后现代叙事的黑色幽默与存在主义思辨
 

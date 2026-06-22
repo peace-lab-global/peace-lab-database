@@ -1,7 +1,6 @@
 ---
-
 title: "《大脑中的灵性之门》The Spiritual Doorway in the Brain"
-description: "《大脑中的灵性之门》The Spiritual Doorway in the Brain的详细解析与实践指南"
+description: "《大脑中的灵性之门》The Spiritual Doorway in the Brain —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《大脑中的灵性之门》The Spiritual Doorway in the Brain"
   - "《大脑中的灵性之门》The Spiritual Doorway in the Brain的核心概念"
   - "《大脑中的灵性之门》The Spiritual Doorway in the Brain的方法与实践"
-trigger_keywords: ["body", "brain", "clinical", "cognitive"]
+trigger_keywords: ["《大脑中的灵性之门》The", "Spiritual", "Doorway", "in", "the"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Essential_Oils.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Dream_Psychology_Overview.md"
+    relation: "rem/快速眼动/睡眠"
+  - path: "02-Mind-Psychology/psychology/somatic-body/sleep/skills/_manifest.md"
+    relation: "rem/睡眠/障碍"
 ---
 # 《大脑中的灵性之门》The Spiritual Doorway in the Brain
 

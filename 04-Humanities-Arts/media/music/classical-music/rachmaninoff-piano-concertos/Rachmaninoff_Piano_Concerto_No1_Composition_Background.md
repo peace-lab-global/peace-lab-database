@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析"
-description: "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析的核心概念"
   - "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析的方法与实践"
   - "拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "art", "cognitive"]
+trigger_keywords: ["拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "创伤/冲突/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Quality_Certification_Report.md"
+    relation: "冲突/焦虑/情绪调节"
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "创伤/恐惧"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "恐惧/冲突/创伤"
 ---
 # 拉赫玛尼诺夫《第一钢琴协奏曲》创作背景与心理分析
 

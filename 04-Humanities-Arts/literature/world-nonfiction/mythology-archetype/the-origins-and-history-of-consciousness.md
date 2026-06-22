@@ -1,7 +1,6 @@
 ---
-
 title: "《意识的起源与历史》The Origins and History of Consciousness"
-description: "《意识的起源与历史》The Origins and History of Consciousness的详细解析与实践指南"
+description: "《意识的起源与历史》The Origins and History of Consciousness —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "religion", "therapy", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《意识的起源与历史》The Origins and History of Consciousness"
   - "《意识的起源与历史》The Origins and History of Consciousness的核心概念"
   - "《意识的起源与历史》The Origins and History of Consciousness的方法与实践"
-trigger_keywords: ["death", "developmental", "jung", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "death/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
-    relation: "death/exercise/sexuality"
-
+trigger_keywords: ["jung", "《意识的起源与历史》The", "Origins", "and", "History"]
+cross_refs: []
 ---
 # 《意识的起源与历史》The Origins and History of Consciousness
 

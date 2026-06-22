@@ -1,7 +1,6 @@
 ---
-
 title: "《活着》核心思想与观点分析"
-description: "《活着》核心思想与观点分析的详细解析与实践指南"
+description: "《活着》核心思想与观点分析 —— Contemporary · To Live 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《活着》核心思想与观点分析"
   - "《活着》核心思想与观点分析的核心概念"
   - "《活着》核心思想与观点分析的方法与实践"
-trigger_keywords: ["buddhism", "cognitive", "death", "sexuality"]
+trigger_keywords: ["《活着》核心思想与观点分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/death/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Multi_Perspective_Reviews.md"
+    relation: "力量/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/not-for-happiness/Multi_Perspective_Reviews.md"
+    relation: "力量/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/力量/意义"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/pilgrimage/Multi_Perspective_Reviews.md"
+    relation: "力量/佛教"
 ---
 # 《活着》核心思想与观点分析
 

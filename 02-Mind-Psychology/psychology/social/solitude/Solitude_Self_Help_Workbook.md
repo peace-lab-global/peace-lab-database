@@ -1,7 +1,6 @@
 ---
-
 title: "独处能力自助练习册 | Solitude Self-Help Workbook"
-description: "独处能力自助练习册 | Solitude Self-Help Workbook的详细解析与实践指南"
+description: "独处能力自助练习册 | Solitude Self-Help Workbook —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["anxiety", "brain", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是独处能力自助练习册 | Solitude Self-Help Workbook"
   - "独处能力自助练习册 | Solitude Self-Help Workbook的核心概念"
   - "独处能力自助练习册 | Solitude Self-Help Workbook的方法与实践"
-trigger_keywords: ["独处能力自助练习册", "anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["独处能力自助练习册", "Solitude", "Self-Help", "Workbook"]
+cross_refs: []
 ---
 # 独处能力自助练习册 | Solitude Self-Help Workbook
 

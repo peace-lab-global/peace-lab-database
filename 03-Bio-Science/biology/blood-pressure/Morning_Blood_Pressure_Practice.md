@@ -1,7 +1,6 @@
 ---
-
 title: "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide"
-description: "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的详细解析与实践指南"
+description: "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide —— 生物学 · 血压调节 专题"
 category: "生命科学与生物医学 > 生物学 > 血压调节"
 tags: ["aging", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide"
   - "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的核心概念"
   - "晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide的方法与实践"
-trigger_keywords: ["晨间血压调节实践指南", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["晨间血压调节实践指南", "Morning", "Blood", "Pressure", "Regulation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "血压/压力/睡眠"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
+    relation: "情绪调节/睡眠/呼吸"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Sleep_Anxiety.md"
+    relation: "睡眠/睡眠卫生/运动"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：生活觉察：用呼吸安定身心.md"
+    relation: "呼吸/睡眠/压力"
 ---
 # 晨间血压调节实践指南 | Morning Blood Pressure Regulation Practice Guide
 

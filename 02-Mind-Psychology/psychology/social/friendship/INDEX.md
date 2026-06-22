@@ -1,6 +1,6 @@
 ---
 title: "friendship | Index"
-description: "friendship | Index的详细解析与实践指南"
+description: "friendship | Index —— 社会心理学 · Friendship 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
 tags: ["心理学", "社会心理学"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是friendship | Index"
   - "friendship | Index的核心概念"
   - "friendship | Index的方法与实践"
-trigger_keywords: ["friendship", "Index", "心理学", "社会心理学"]
-cross_refs: []
+trigger_keywords: ["friendship", "心理学", "社会心理学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/INDEX.md"
+    relation: "cross-cultural/cross/psychology"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/measurement/INDEX.md"
+    relation: "measurement/psychology/contents"
 ---
 # friendship | Index
 

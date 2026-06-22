@@ -1,7 +1,6 @@
 ---
-
 title: "《转化的象征》Symbols of Transformation"
-description: "《转化的象征》Symbols of Transformation的详细解析与实践指南"
+description: "《转化的象征》Symbols of Transformation —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["freud", "jung", "personality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《转化的象征》Symbols of Transformation"
   - "《转化的象征》Symbols of Transformation的核心概念"
   - "《转化的象征》Symbols of Transformation的方法与实践"
-trigger_keywords: ["buddhism", "death", "freud", "jung"]
+trigger_keywords: ["freud", "jung"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death/personality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "buddhism/death/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
 ---
 # 《转化的象征》Symbols of Transformation
 

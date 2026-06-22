@@ -1,7 +1,6 @@
 ---
-
 title: "李斯特交响诗《前奏曲》治疗应用指导"
-description: "李斯特交响诗《前奏曲》治疗应用指导的详细解析与实践指南"
+description: "李斯特交响诗《前奏曲》治疗应用指导 —— Liszt Symphonic Poems · Lespreludes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "李斯特交响诗《前奏曲》治疗应用指导的核心概念"
   - "李斯特交响诗《前奏曲》治疗应用指导的方法与实践"
   - "李斯特交响诗《前奏曲》治疗应用指导的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["李斯特交响诗《前奏曲》治疗应用指导"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-
+    relation: "团体治疗/家庭治疗/认知行为"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md"
+    relation: "团体治疗/家庭治疗/认知行为"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "呼吸/觉察/专注"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：生活觉察：用呼吸安定身心.md"
+    relation: "呼吸/觉察/焦虑"
 ---
 # 李斯特交响诗《前奏曲》治疗应用指导
 

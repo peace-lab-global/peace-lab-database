@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide"
-description: "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的详细解析与实践指南"
+description: "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide —— 冥想 · Documentary 专题"
 category: "心智与心理学 > 冥想 > Documentary"
 tags: ["addiction", "anxiety", "brain", "sleep", "mindfulness", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide"
   - "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的核心概念"
   - "冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "art"]
+trigger_keywords: ["冥想与正念纪录片完整指南", "Meditation", "Mindfulness", "Documentary", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-practice-of-vipassana.md"
+    relation: "内观/vipassana/retreat"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "内观/冥想/正念"
 ---
 # 冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide
 

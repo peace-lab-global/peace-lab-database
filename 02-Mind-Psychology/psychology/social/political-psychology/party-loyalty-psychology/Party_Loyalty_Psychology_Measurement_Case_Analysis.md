@@ -1,7 +1,6 @@
 ---
-
 title: "政党忠诚心理学测量评估与案例分析 (Party Loyalty Psychology: Measurement Assessment & Case Analysis)"
-description: "政党忠诚心理学测量评估与案例分析 (Party Loyalty Psychology: Measurement Assessment & Case Analysis)的详细解析与实践指南"
+description: "政党忠诚心理学测量评估与案例分析 (Party Loyalty Psychology: Measurement Assessment & Case Analysis) —— Political Psychology · Party Loyalty Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Party Loyalty Psychology"
 tags: ["attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "政党忠诚心理学测量评估与案例分析的核心概念"
   - "政党忠诚心理学测量评估与案例分析的方法与实践"
   - "政党忠诚心理学测量评估与案例分析的自助方法"
-trigger_keywords: ["assessment", "attachment", "behavioral", "brain"]
+trigger_keywords: ["政党忠诚心理学测量评估与案例分析", "Party", "Loyalty", "Psychology:", "Measurement"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "attachment/communication/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/measurement/INDEX.md"
+    relation: "measurement/psychology/assessment"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/measurement/Religious_Psychology_Measurement_Assessment.md"
+    relation: "measurement/table/psychology"
 ---
 # 政党忠诚心理学测量评估与案例分析 (Party Loyalty Psychology: Measurement Assessment & Case Analysis)
 

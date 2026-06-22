@@ -1,7 +1,6 @@
 ---
-
 title: "经验主义哲学 · 佛法视角三方书评"
-description: "经验主义哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "经验主义哲学 · 佛法视角三方书评 —— Early Modern · Empiricism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Empiricism"
 tags: ["buddhism", "habits", "philosophy", "vipassana"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是经验主义哲学 · 佛法视角三方书评"
   - "经验主义哲学 · 佛法视角三方书评的核心概念"
   - "经验主义哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["经验主义哲学", "佛法视角三方书评", "brain", "buddhism", "developmental", "habits"]
+trigger_keywords: ["经验主义哲学", "佛法视角三方书评", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C6-1-冥想与止观-第九讲-练习观照的方式.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
-    relation: "buddhism/emotion/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "佛教/内观"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/one-dharma.md"
+    relation: "佛教/内观"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_History.md"
+    relation: "佛教/内观"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教"
 ---
 # 经验主义哲学 · 佛法视角三方书评
 

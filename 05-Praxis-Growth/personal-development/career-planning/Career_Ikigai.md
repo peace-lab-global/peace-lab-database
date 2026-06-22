@@ -1,7 +1,6 @@
 ---
-
 title: "Ikigai生命意义 | Ikigai"
-description: "Ikigai生命意义 | Ikigai的详细解析与实践指南"
+description: "Ikigai生命意义 | Ikigai —— 个人发展 · Career Planning 专题"
 category: "实践与个人增长 > 个人发展 > Career Planning"
 tags: ["cardiovascular", "depression", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Ikigai生命意义 | Ikigai"
   - "Ikigai生命意义 | Ikigai的核心概念"
   - "Ikigai生命意义 | Ikigai的方法与实践"
-trigger_keywords: ["Ikigai生命意义", "Ikigai", "aging", "assessment", "behavioral", "cardiovascular"]
+trigger_keywords: ["Ikigai生命意义", "Ikigai", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/depression/immune"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/cardiovascular/death"
-
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
+    relation: "ikigai/意义"
 ---
 # Ikigai生命意义 | Ikigai
 

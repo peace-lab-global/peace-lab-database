@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Meridian & Acupoint Theory & Application (推拿经络腧穴理论与应用)"
-description: "Tuina Meridian & Acupoint Theory & Application (推拿经络腧穴理论与应用)的详细解析与实践指南"
+description: "Tuina Meridian & Acupoint Theory & Application (推拿经络腧穴理论与应用) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["brain", "exercise", "gut", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Tuina Meridian & Acupoint Theory & Application"
   - "Tuina Meridian & Acupoint Theory & Application的核心概念"
   - "Tuina Meridian & Acupoint Theory & Application的方法与实践"
-trigger_keywords: ["assessment", "brain", "breathwork", "clinical"]
+trigger_keywords: ["Tuina", "Meridian", "Acupoint", "Theory", "Application"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "exercise/immune/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Overview.md"
+    relation: "推拿/经络/运动"
 ---
 # Tuina Meridian & Acupoint Theory & Application (推拿经络腧穴理论与应用)
 

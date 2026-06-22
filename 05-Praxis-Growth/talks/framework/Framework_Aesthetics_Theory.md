@@ -1,7 +1,6 @@
 ---
-
 title: "美学理论 | Aesthetics Theory"
-description: "美学理论 | Aesthetics Theory的详细解析与实践指南"
+description: "美学理论 | Aesthetics Theory —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是美学理论 | Aesthetics Theory"
   - "美学理论 | Aesthetics Theory的核心概念"
   - "美学理论 | Aesthetics Theory的方法与实践"
-trigger_keywords: ["美学理论", "act", "art", "body", "brain"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/communication/daoism"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Anger_Management.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["美学理论", "Aesthetics", "Theory"]
+cross_refs: []
 ---
 # 美学理论 | Aesthetics Theory
 

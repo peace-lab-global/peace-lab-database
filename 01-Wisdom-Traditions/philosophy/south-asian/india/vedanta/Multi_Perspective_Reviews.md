@@ -1,7 +1,6 @@
 ---
-
 title: "吠檀多哲学经典三方书评"
-description: "吠檀多哲学经典三方书评的详细解析与实践指南"
+description: "吠檀多哲学经典三方书评 —— India · Vedanta 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
 tags: ["personality", "philosophy", "religion", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是吠檀多哲学经典三方书评"
   - "吠檀多哲学经典三方书评的核心概念"
   - "吠檀多哲学经典三方书评的方法与实践"
-trigger_keywords: ["personality", "philosophy", "religion", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/10-Contraindications.md"
-    relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
-    relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
-    relation: "personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "personality/sexuality"
-
+trigger_keywords: ["personality", "religion"]
+cross_refs: []
 ---
 # 吠檀多哲学经典三方书评
 

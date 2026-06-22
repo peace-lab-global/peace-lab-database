@@ -1,7 +1,6 @@
 ---
-
 title: "超级个体核心能力模型 | Core Competencies of Super Individuals"
-description: "超级个体核心能力模型 | Core Competencies of Super Individuals的详细解析与实践指南"
+description: "超级个体核心能力模型 | Core Competencies of Super Individuals —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["decision-making", "social", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是超级个体核心能力模型 | Core Competencies of Super Individuals"
   - "超级个体核心能力模型 | Core Competencies of Super Individuals的核心概念"
   - "超级个体核心能力模型 | Core Competencies of Super Individuals的方法与实践"
-trigger_keywords: ["超级个体核心能力模型", "act", "brain", "cognitive", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Ethics_Comprehensive.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/sexuality"
-
+trigger_keywords: ["超级个体核心能力模型", "decision-making"]
+cross_refs: []
 ---
 # 超级个体核心能力模型 | Core Competencies of Super Individuals
 

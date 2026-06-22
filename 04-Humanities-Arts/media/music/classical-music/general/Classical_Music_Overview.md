@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Therapy Overview (古典音乐疗愈概览)"
-description: "Classical Music Therapy Overview (古典音乐疗愈概览)的详细解析与实践指南"
+description: "Classical Music Therapy Overview (古典音乐疗愈概览) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Classical Music Therapy Overview"
   - "Classical Music Therapy Overview的核心概念"
   - "Classical Music Therapy Overview的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Classical", "Music", "Therapy", "Overview", "古典音乐疗愈概览"]
+cross_refs: []
 ---
 # Classical Music Therapy Overview (古典音乐疗愈概览)
 

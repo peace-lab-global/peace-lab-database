@@ -1,7 +1,6 @@
 ---
-
 title: "社交焦虑应对"
-description: "社交焦虑应对的详细解析与实践指南"
+description: "社交焦虑应对 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "phobia", "social", "心理学", "自我调节"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "社交焦虑应对的核心概念"
   - "社交焦虑应对的方法与实践"
   - "社交焦虑应对的自助方法"
-trigger_keywords: ["社交焦虑应对", "anxiety", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["社交焦虑应对"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "anxiety/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "anxiety/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/认知重构"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "恐惧/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "恐惧/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sexual_Anxiety_China_Overview.md"
+    relation: "焦虑/恐惧"
 ---
 # 社交焦虑应对
 

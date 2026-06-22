@@ -1,6 +1,6 @@
 ---
 title: "INDEX"
-description: "INDEX的详细解析与实践指南"
+description: "INDEX —— 心理学基础 · Personality Psychology 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Personality Psychology"
 tags: ["心理学", "心理学基础"]
 last_updated: "2026-05"
@@ -12,7 +12,11 @@ intent_queries:
   - "INDEX的核心概念"
   - "INDEX的方法与实践"
 trigger_keywords: ["INDEX", "心理学", "心理学基础"]
-cross_refs: []
+cross_refs:
+  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md"
+    relation: "lab/peace"
+  - path: "04-Humanities-Arts/media/cinema/INDEX.md"
+    relation: "lab/peace"
 ---
 # INDEX
 

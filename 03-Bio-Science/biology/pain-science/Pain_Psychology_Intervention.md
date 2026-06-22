@@ -1,7 +1,6 @@
 ---
-
 title: "慢性疼痛心理干预 | Pain Psychology Intervention"
-description: "慢性疼痛心理干预 | Pain Psychology Intervention的详细解析与实践指南"
+description: "慢性疼痛心理干预 | Pain Psychology Intervention —— 生物学 · 疼痛科学 专题"
 category: "生命科学与生物医学 > 生物学 > 疼痛科学"
 tags: ["cbt", "depression", "pain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "慢性疼痛心理干预 | Pain Psychology Intervention的核心概念"
   - "慢性疼痛心理干预 | Pain Psychology Intervention的方法与实践"
   - "慢性疼痛心理干预 | Pain Psychology Intervention的自助方法"
-trigger_keywords: ["慢性疼痛心理干预", "act", "assessment", "behavioral", "body"]
+trigger_keywords: ["慢性疼痛心理干预", "Pain", "Psychology", "Intervention"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Modern_Psychology_Integration.md"
+    relation: "cbt/act/疗法"
+  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
+    relation: "cbt/疗法/认知行为"
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Cognitive_Restructuring.md"
+    relation: "认知重构/cbt/接纳承诺"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md"
+    relation: "cbt/疗法/认知行为"
 ---
 # 慢性疼痛心理干预 | Pain Psychology Intervention
 

@@ -1,7 +1,6 @@
 ---
-
 title: "路德维希·维特根斯坦 (后期) (Ludwig Wittgenstein - Later Period)"
-description: "路德维希·维特根斯坦 (后期) (Ludwig Wittgenstein - Later Period)的详细解析与实践指南"
+description: "路德维希·维特根斯坦 (后期) (Ludwig Wittgenstein - Later Period) —— 20Th Century · Analytic 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Analytic"
 tags: ["cbt", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是路德维希·维特根斯坦"
   - "路德维希·维特根斯坦的核心概念"
   - "路德维希·维特根斯坦的方法与实践"
-trigger_keywords: ["路德维希", "维特根斯坦", "behavioral", "cbt", "cognitive", "communication"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Recovery_Followup.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["路德维希", "维特根斯坦", "cbt"]
+cross_refs: []
 ---
 # 路德维希·维特根斯坦 (后期) (Ludwig Wittgenstein - Later Period)
 

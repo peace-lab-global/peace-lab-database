@@ -1,7 +1,6 @@
 ---
-
 title: "general | Index"
-description: "general | Index的详细解析与实践指南"
+description: "general | Index —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["古典音乐", "媒体", "music-therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是general | Index"
   - "general | Index的核心概念"
   - "general | Index的方法与实践"
-trigger_keywords: ["general", "Index", "古典音乐", "媒体", "音乐"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/neuroscience"
-
+trigger_keywords: ["general", "古典音乐", "媒体", "音乐"]
+cross_refs: []
 ---
 # general | Index
 

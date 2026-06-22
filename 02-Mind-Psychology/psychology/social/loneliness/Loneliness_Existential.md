@@ -1,7 +1,6 @@
 ---
-
 title: "存在性孤独 (Existential Loneliness)"
-description: "存在性孤独 (Existential Loneliness)的详细解析与实践指南"
+description: "存在性孤独 (Existential Loneliness) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["addiction", "anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是存在性孤独"
   - "存在性孤独的核心概念"
   - "存在性孤独的方法与实践"
-trigger_keywords: ["存在性孤独", "act", "addiction", "anxiety", "art"]
+trigger_keywords: ["存在性孤独", "Existential", "Loneliness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Rituals_Overview.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/existential-psychotherapy.md"
+    relation: "存在主义/existential/死亡"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/死亡"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Thought_Analysis.md"
+    relation: "vs/死亡"
+  - path: "04-Humanities-Arts/media/tv/breaking-bad/Breaking_Bad_Professional_Critique.md"
+    relation: "存在主义/existential/死亡"
 ---
 # 存在性孤独 (Existential Loneliness)
 

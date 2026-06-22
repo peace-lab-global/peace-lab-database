@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)"
-description: "中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)的详细解析与实践指南"
+description: "中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是中国社会性压抑实证研究方法指南"
   - "中国社会性压抑实证研究方法指南的核心概念"
   - "中国社会性压抑实证研究方法指南的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["中国社会性压抑实证研究方法指南", "Empirical", "Research", "Methods", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/standards"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md"
+    relation: "data/research/methods"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md"
+    relation: "research/methods/standards"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/research/Vocational_Psychology_Research_Methods.md"
+    relation: "data/research/methods"
 ---
 # 中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)
 

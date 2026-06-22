@@ -1,7 +1,6 @@
 ---
-
 title: "S.N. Goenka (S.N. 葛印卡) — 全球内观运动领袖，十日闭关体系创始人"
-description: "S.N. Goenka (S.N. 葛印卡) — 全球内观运动领袖，十日闭关体系创始人的详细解析与实践指南"
+description: "S.N. Goenka (S.N. 葛印卡) — 全球内观运动领袖，十日闭关体系创始人 —— Masters · Western Pioneers 专题"
 category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
 tags: ["anxiety", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是S.N. Goenka  — 全球内观运动领袖，十日闭关体系创始人"
   - "S.N. Goenka  — 全球内观运动领袖，十日闭关体系创始人的核心概念"
   - "S.N. Goenka  — 全球内观运动领袖，十日闭关体系创始人的方法与实践"
-trigger_keywords: ["十日闭关体系创始人", "adolescent", "anxiety", "behavioral", "body"]
+trigger_keywords: ["十日闭关体系创始人", "S.N.", "Goenka", "葛印卡", "全球内观运动领袖"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Vipassana_Traditions.md"
+    relation: "vipassan/内观/goenka"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-art-of-living.md"
+    relation: "内观/goenka/身体感受"
 ---
 # S.N. Goenka (S.N. 葛印卡) — 全球内观运动领袖，十日闭关体系创始人
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《今日简史》21 Lessons for the 21st Century"
-description: "《今日简史》21 Lessons for the 21st Century的详细解析与实践指南"
+description: "《今日简史》21 Lessons for the 21st Century —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["decision-making", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《今日简史》21 Lessons for the 21st Century"
   - "《今日简史》21 Lessons for the 21st Century的核心概念"
   - "《今日简史》21 Lessons for the 21st Century的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["《今日简史》21", "Lessons", "for", "the", "21st"]
+cross_refs: []
 ---
 # 《今日简史》21 Lessons for the 21st Century
 

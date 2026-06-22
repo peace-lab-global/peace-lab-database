@@ -1,7 +1,6 @@
 ---
-
 title: "《易经》经典三方书评"
-description: "《易经》经典三方书评的详细解析与实践指南"
+description: "《易经》经典三方书评 —— China · Yijing 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Yijing"
 tags: ["daoism", "philosophy", "tai-chi"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《易经》经典三方书评"
   - "《易经》经典三方书评的核心概念"
   - "《易经》经典三方书评的方法与实践"
-trigger_keywords: ["《易经》经典三方书评", "behavioral", "crisis", "daoism", "developmental"]
+trigger_keywords: ["《易经》经典三方书评", "daoism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
-    relation: "daoism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
-    relation: "daoism/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
-    relation: "daoism/exercise/sexuality"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "daoism/exercise/sexuality"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Man_vs_Heaven.md"
+    relation: "智慧/力量"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "阴阳/力量/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "阴阳/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "智慧/力量"
 ---
 # 《易经》经典三方书评
 

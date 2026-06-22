@@ -1,7 +1,6 @@
 ---
-
 title: "Clinical Psychology of Masturbation (自慰的临床心理学意义)"
-description: "Clinical Psychology of Masturbation (自慰的临床心理学意义)的详细解析与实践指南"
+description: "Clinical Psychology of Masturbation (自慰的临床心理学意义) —— 特殊专题 · Masturbation Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Masturbation Psychology"
 tags: ["addiction", "anxiety", "cbt", "trauma", "act", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Clinical Psychology of Masturbation"
   - "Clinical Psychology of Masturbation的核心概念"
   - "Clinical Psychology of Masturbation的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Clinical", "Psychology", "of", "Masturbation", "自慰的临床心理学意义"]
+cross_refs: []
 ---
 # Clinical Psychology of Masturbation (自慰的临床心理学意义)
 

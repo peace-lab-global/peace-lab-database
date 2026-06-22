@@ -1,7 +1,6 @@
 ---
-
 title: "Growth Mindset & Mental Models 成长型思维与心智模型"
-description: "Growth Mindset & Mental Models 成长型思维与心智模型的详细解析与实践指南"
+description: "Growth Mindset & Mental Models 成长型思维与心智模型 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["cbt", "communication", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Growth Mindset & Mental Models 成长型思维与心智模型"
   - "Growth Mindset & Mental Models 成长型思维与心智模型的核心概念"
   - "Growth Mindset & Mental Models 成长型思维与心智模型的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["Growth", "Mindset", "Mental", "Models", "成长型思维与心智模型"]
+cross_refs: []
 ---
 # Growth Mindset & Mental Models 成长型思维与心智模型
 

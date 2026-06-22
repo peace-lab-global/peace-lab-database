@@ -1,6 +1,6 @@
 ---
 title: "horror-tv-series | Index"
-description: "horror-tv-series | Index的详细解析与实践指南"
+description: "horror-tv-series | Index —— Tv · Horror Tv Series 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Horror Tv Series"
 tags: ["媒体"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是horror-tv-series | Index"
   - "horror-tv-series | Index的核心概念"
   - "horror-tv-series | Index的方法与实践"
-trigger_keywords: ["Index", "媒体"]
+trigger_keywords: ["媒体", "horror-tv-series"]
 cross_refs: []
 ---
 # horror-tv-series | Index

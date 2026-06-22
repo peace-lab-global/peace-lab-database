@@ -1,7 +1,6 @@
 ---
-
 title: "临床心理学 (Clinical Psychology) | Index"
-description: "临床心理学 (Clinical Psychology) | Index的详细解析与实践指南"
+description: "临床心理学 (Clinical Psychology) | Index —— 心理学 · 临床心理 专题"
 category: "心智与心理学 > 心理学 > 临床心理"
 tags: ["anxiety", "depression", "intervention", "ocd", "schizophrenia", "bipolar"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "临床心理学  | Index的核心概念"
   - "临床心理学  | Index的方法与实践"
   - "临床心理学  | Index的自助方法"
-trigger_keywords: ["临床心理学", "Index", "anxiety", "assessment", "clinical", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["临床心理学", "Clinical", "Psychology"]
+cross_refs: []
 ---
 # 临床心理学 (Clinical Psychology) | Index
 

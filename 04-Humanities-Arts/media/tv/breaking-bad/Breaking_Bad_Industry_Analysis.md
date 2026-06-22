@@ -1,7 +1,6 @@
 ---
-
 title: "《绝命毒师》(Breaking Bad) 产业评论：重新定义电视艺术的商业模式创新"
-description: "《绝命毒师》(Breaking Bad) 产业评论：重新定义电视艺术的商业模式创新的详细解析与实践指南"
+description: "《绝命毒师》(Breaking Bad) 产业评论：重新定义电视艺术的商业模式创新 —— Tv · Breaking Bad 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
 tags: ["cinema", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《绝命毒师》 产业评论：重新定义电视艺术的商业模式创新"
   - "《绝命毒师》 产业评论：重新定义电视艺术的商业模式创新的核心概念"
   - "《绝命毒师》 产业评论：重新定义电视艺术的商业模式创新的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/productivity/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/productivity/sexuality"
-  - path: "README.md"
-    relation: "art_therapy/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality/therapy"
-
+trigger_keywords: ["《绝命毒师》", "Breaking", "Bad", "产业评论：重新定义电视艺术的商业模式创新"]
+cross_refs: []
 ---
 # 《绝命毒师》(Breaking Bad) 产业评论：重新定义电视艺术的商业模式创新
 

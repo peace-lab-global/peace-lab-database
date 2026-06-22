@@ -1,7 +1,6 @@
 ---
-
 title: "16. 亚洲职场正念研究 | Asian Workplace Mindfulness"
-description: "16. 亚洲职场正念研究 | Asian Workplace Mindfulness的详细解析与实践指南"
+description: "16. 亚洲职场正念研究 | Asian Workplace Mindfulness —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["intervention", "mbsr", "mindfulness", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是16. 亚洲职场正念研究 | Asian Workplace Mindfulness"
   - "16. 亚洲职场正念研究 | Asian Workplace Mindfulness的核心概念"
   - "16. 亚洲职场正念研究 | Asian Workplace Mindfulness的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "emotion", "intervention"]
-cross_refs:
-  - path: "README.md"
-    relation: "buddhism/communication/daoism"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/daoism/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "communication/emotion/meditation"
-  - path: "GLOSSARY.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "daoism/emotion/meditation"
-
+trigger_keywords: ["intervention", "16.", "亚洲职场正念研究", "Asian", "Workplace"]
+cross_refs: []
 ---
 # 16. 亚洲职场正念研究 | Asian Workplace Mindfulness
 

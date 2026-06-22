@@ -1,7 +1,6 @@
 ---
-
 title: "《绝命毒师》(Breaking Bad) 专业影评：叙事伦理学视角下的道德沦陷与人性探索"
-description: "《绝命毒师》(Breaking Bad) 专业影评：叙事伦理学视角下的道德沦陷与人性探索的详细解析与实践指南"
+description: "《绝命毒师》(Breaking Bad) 专业影评：叙事伦理学视角下的道德沦陷与人性探索 —— Tv · Breaking Bad 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《绝命毒师》 专业影评：叙事伦理学视角下的道德沦陷与人性探索"
   - "《绝命毒师》 专业影评：叙事伦理学视角下的道德沦陷与人性探索的核心概念"
   - "《绝命毒师》 专业影评：叙事伦理学视角下的道德沦陷与人性探索的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["《绝命毒师》", "Breaking", "Bad", "专业影评：叙事伦理学视角下的道德沦陷与人性探索"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/焦虑/死亡"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/existential/死亡"
 ---
 # 《绝命毒师》(Breaking Bad) 专业影评：叙事伦理学视角下的道德沦陷与人性探索
 

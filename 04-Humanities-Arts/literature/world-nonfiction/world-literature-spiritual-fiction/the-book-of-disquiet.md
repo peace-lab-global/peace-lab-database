@@ -1,7 +1,6 @@
 ---
-
 title: "《不安之书》The Book of Disquiet"
-description: "《不安之书》The Book of Disquiet的详细解析与实践指南"
+description: "《不安之书》The Book of Disquiet —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "loneliness", "phobia", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《不安之书》The Book of Disquiet"
   - "《不安之书》The Book of Disquiet的核心概念"
   - "《不安之书》The Book of Disquiet的方法与实践"
-trigger_keywords: ["anxiety", "death", "literature", "loneliness"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-
+trigger_keywords: ["loneliness", "《不安之书》The", "Book", "of", "Disquiet"]
+cross_refs: []
 ---
 # 《不安之书》The Book of Disquiet
 

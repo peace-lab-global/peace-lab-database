@@ -1,7 +1,6 @@
 ---
-
 title: "南怀瑾心理智慧专业内容体系"
-description: "南怀瑾心理智慧专业内容体系的详细解析与实践指南"
+description: "南怀瑾心理智慧专业内容体系 —— 佛教 · Nan Huaijin 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Nan Huaijin"
 tags: ["buddhism", "daoism"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "南怀瑾心理智慧专业内容体系的核心概念"
   - "南怀瑾心理智慧专业内容体系的方法与实践"
   - "南怀瑾心理智慧专业内容体系的自助方法"
-trigger_keywords: ["assessment", "body", "breathwork", "buddhism"]
+trigger_keywords: ["南怀瑾心理智慧专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Jiang_Weiqiao.md"
-    relation: "buddhism/communication/daoism"
-
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "智慧/人际关系"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Philosophy.md"
+    relation: "智慧/道家"
 ---
 # 南怀瑾心理智慧专业内容体系
 

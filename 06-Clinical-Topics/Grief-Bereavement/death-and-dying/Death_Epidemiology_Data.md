@@ -1,7 +1,6 @@
 ---
-
 title: "Epidemiology of Death Anxiety & Global Mortality Patterns (死亡焦虑流行病学与全球死亡模式)"
-description: "Epidemiology of Death Anxiety & Global Mortality Patterns (死亡焦虑流行病学与全球死亡模式)的详细解析与实践指南"
+description: "Epidemiology of Death Anxiety & Global Mortality Patterns (死亡焦虑流行病学与全球死亡模式) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Epidemiology of Death Anxiety & Global Mortality Patterns"
   - "Epidemiology of Death Anxiety & Global Mortality Patterns的核心概念"
   - "Epidemiology of Death Anxiety & Global Mortality Patterns的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/senecas-letters.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Epidemiology", "of", "Death", "Anxiety", "Global"]
+cross_refs: []
 ---
 # Epidemiology of Death Anxiety & Global Mortality Patterns (死亡焦虑流行病学与全球死亡模式)
 

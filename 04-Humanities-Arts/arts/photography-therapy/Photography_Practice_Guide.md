@@ -1,7 +1,6 @@
 ---
-
 title: "摄影疗愈实操与方案 | Photography Therapy Practice Guide"
-description: "摄影疗愈实操与方案 | Photography Therapy Practice Guide的详细解析与实践指南"
+description: "摄影疗愈实操与方案 | Photography Therapy Practice Guide —— 艺术 · 摄影疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 摄影疗愈"
 tags: ["photography", "calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是摄影疗愈实操与方案 | Photography Therapy Practice Guide"
   - "摄影疗愈实操与方案 | Photography Therapy Practice Guide的核心概念"
   - "摄影疗愈实操与方案 | Photography Therapy Practice Guide的方法与实践"
-trigger_keywords: ["摄影疗愈实操与方案", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["摄影疗愈实操与方案", "Photography", "Therapy", "Practice", "Guide"]
+cross_refs: []
 ---
 # 摄影疗愈实操与方案 | Photography Therapy Practice Guide
 

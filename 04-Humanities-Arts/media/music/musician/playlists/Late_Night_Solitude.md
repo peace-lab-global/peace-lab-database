@@ -1,7 +1,6 @@
 ---
-
 title: "Late Night Solitude (夜深孤独) — 深夜独处古典音乐歌单"
-description: "Late Night Solitude (夜深孤独) — 深夜独处古典音乐歌单的详细解析与实践指南"
+description: "Late Night Solitude (夜深孤独) — 深夜独处古典音乐歌单 —— Musician · Playlists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Playlists"
 tags: ["healing", "loneliness", "music", "媒体"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Late Night Solitude  — 深夜独处古典音乐歌单"
   - "Late Night Solitude  — 深夜独处古典音乐歌单的核心概念"
   - "Late Night Solitude  — 深夜独处古典音乐歌单的方法与实践"
-trigger_keywords: ["breathwork", "emotion", "healing", "loneliness"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/emotion/meditation"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/emotion/meditation"
-  - path: "README.md"
-    relation: "art_therapy/emotion/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
-    relation: "emotion/meditation/nutrition"
-
+trigger_keywords: ["healing", "loneliness"]
+cross_refs: []
 ---
 # Late Night Solitude (夜深孤独) — 深夜独处古典音乐歌单
 

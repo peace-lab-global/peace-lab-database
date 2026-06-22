@@ -1,6 +1,6 @@
 ---
 title: "营养学"
-description: "营养学的详细解析与实践指南"
+description: "营养学 —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["nutrition", "讲座"]
 last_updated: "2026-05"

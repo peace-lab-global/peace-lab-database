@@ -1,7 +1,6 @@
 ---
-
 title: "Living Is Dying | 活着即是迈向死亡"
-description: "Living Is Dying | 活着即是迈向死亡的详细解析与实践指南"
+description: "Living Is Dying | 活着即是迈向死亡 —— Dzongsar Khyentse · Living Is Dying 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Living Is Dying"
 tags: ["buddhism", "dzogchen", "philosophy", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Living Is Dying | 活着即是迈向死亡"
   - "Living Is Dying | 活着即是迈向死亡的核心概念"
   - "Living Is Dying | 活着即是迈向死亡的方法与实践"
-trigger_keywords: ["活着即是迈向死亡", "buddhism", "death", "dzogchen", "philosophy"]
+trigger_keywords: ["活着即是迈向死亡", "dzogchen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
-    relation: "buddhism/death/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/INDEX.md"
+    relation: "dying/living/book"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "dying/死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/buddhism/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # Living Is Dying | 活着即是迈向死亡
 

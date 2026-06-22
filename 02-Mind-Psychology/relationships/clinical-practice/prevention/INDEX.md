@@ -1,6 +1,6 @@
 ---
 title: "prevention | Index"
-description: "prevention | Index的详细解析与实践指南"
+description: "prevention | Index —— 人际关系 · Prevention 专题"
 category: "心智与心理学 > 人际关系 > Prevention"
 tags: ["人际关系"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是prevention | Index"
   - "prevention | Index的核心概念"
   - "prevention | Index的方法与实践"
-trigger_keywords: ["prevention", "Index", "人际关系"]
-cross_refs: []
+trigger_keywords: ["prevention", "人际关系"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/prevention/INDEX.md"
+    relation: "prevention/contents"
 ---
 # prevention | Index
 

@@ -7,16 +7,12 @@ date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
-    relation: "anxiety/attachment/depression"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "羞耻/shame"
+  - path: "02-Mind-Psychology/psychology/emotions/INDEX.md"
+    relation: "羞耻/shame/body"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
+    relation: "羞耻/shame/障碍"
 ---
 
 # Body Shame Disorder Overview (身体羞耻障碍概览)

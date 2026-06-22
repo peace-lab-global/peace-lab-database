@@ -1,7 +1,6 @@
 ---
-
 title: "杰克·康菲尔德 (Jack Kornfield)"
-description: "杰克·康菲尔德 (Jack Kornfield)的详细解析与实践指南"
+description: "杰克·康菲尔德 (Jack Kornfield) —— Masters · Western Pioneers 专题"
 category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
 tags: ["mbsr", "mindfulness", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是杰克·康菲尔德"
   - "杰克·康菲尔德的核心概念"
   - "杰克·康菲尔德的方法与实践"
-trigger_keywords: ["杰克", "康菲尔德", "act", "behavioral", "body", "breathwork"]
+trigger_keywords: ["杰克", "康菲尔德"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "buddhism/cardiovascular/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeking-the-heart-of-wisdom.md"
+    relation: "内观/jack/heart"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-path-with-heart.md"
+    relation: "kornfield/jack/heart"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/after-the-ecstasy-the-laundry.md"
+    relation: "kornfield/jack/laundry"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "kornfield/jack/heart"
 ---
 # 杰克·康菲尔德 (Jack Kornfield)
 

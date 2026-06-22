@@ -1,7 +1,6 @@
 ---
-
 title: "藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)"
-description: "藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)的详细解析与实践指南"
+description: "藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["attachment", "buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是藏传中阴与死亡艺术"
   - "藏传中阴与死亡艺术的核心概念"
   - "藏传中阴与死亡艺术的方法与实践"
-trigger_keywords: ["藏传中阴与死亡艺术", "act", "anxiety", "art", "assessment"]
+trigger_keywords: ["藏传中阴与死亡艺术", "Tibetan", "Bardo", "The", "Art"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/death/Death_Resources_Bibliography.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "bardo/死亡/dying"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Book_Review.md"
+    relation: "bardo/死亡/藏传"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-art-of-dying.md"
+    relation: "dying/临终/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "临终/dying/死亡"
 ---
 # 藏传中阴与死亡艺术 (Tibetan Bardo & The Art of Dying)
 

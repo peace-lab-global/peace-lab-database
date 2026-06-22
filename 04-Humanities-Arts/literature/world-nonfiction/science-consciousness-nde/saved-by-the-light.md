@@ -1,7 +1,6 @@
 ---
-
 title: "《被光拯救》Saved by the Light"
-description: "《被光拯救》Saved by the Light的详细解析与实践指南"
+description: "《被光拯救》Saved by the Light —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《被光拯救》Saved by the Light"
   - "《被光拯救》Saved by the Light的核心概念"
   - "《被光拯救》Saved by the Light的方法与实践"
-trigger_keywords: ["behavioral", "body", "clinical", "cognitive"]
+trigger_keywords: ["《被光拯救》Saved", "by", "the", "Light"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "anxiety/attachment/cardiovascular"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《被光拯救》Saved by the Light
 

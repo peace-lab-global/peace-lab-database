@@ -1,7 +1,6 @@
 ---
-
 title: "《人间是剧场》三方书评"
-description: "《人间是剧场》三方书评的详细解析与实践指南"
+description: "《人间是剧场》三方书评 —— Dzongsar Khyentse · World Is A Playground 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > World Is A Playground"
 tags: ["buddhism", "cinema", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《人间是剧场》三方书评"
   - "《人间是剧场》三方书评的核心概念"
   - "《人间是剧场》三方书评的方法与实践"
-trigger_keywords: ["anxiety", "body", "buddhism", "cinema"]
+trigger_keywords: ["cinema", "《人间是剧场》三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-2-five-obstacles-of-meditation.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "力量/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "力量/佛法/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "力量/佛教"
 ---
 # 《人间是剧场》三方书评
 

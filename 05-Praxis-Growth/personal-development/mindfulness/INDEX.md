@@ -1,7 +1,6 @@
 ---
-
 title: "mindfulness | Index"
-description: "mindfulness | Index的详细解析与实践指南"
+description: "mindfulness | Index —— 个人发展 · Mindfulness 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness"
 tags: ["mindfulness", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是mindfulness | Index"
   - "mindfulness | Index的核心概念"
   - "mindfulness | Index的方法与实践"
-trigger_keywords: ["Index", "act", "cognitive", "meditation", "mindfulness"]
+trigger_keywords: ["meditation", "mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "meditation/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "meditation/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "meditation/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "meditation/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Pyrrho.md"
-    relation: "meditation/stress/therapy"
-
+  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/INDEX.md"
+    relation: "based/mindfulness/cognitive"
 ---
 # mindfulness | Index
 

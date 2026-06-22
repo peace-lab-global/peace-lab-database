@@ -1,7 +1,6 @@
 ---
-
 title: "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）"
-description: "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）的详细解析与实践指南"
+description: "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज） —— Masters · Hindu Vedantic 专题"
 category: "心智与心理学 > 冥想 > Masters > Hindu Vedantic"
 tags: ["meditation", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）"
   - "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）的核心概念"
   - "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）的方法与实践"
-trigger_keywords: ["尼萨伽达塔", "body", "exercise", "meditation", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "exercise/meditation/sexuality"
-
+trigger_keywords: ["尼萨伽达塔", "exercise", "meditation"]
+cross_refs: []
 ---
 # 尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）
 

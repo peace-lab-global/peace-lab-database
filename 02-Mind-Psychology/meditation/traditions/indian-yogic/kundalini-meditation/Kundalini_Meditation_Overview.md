@@ -1,7 +1,6 @@
 ---
-
 title: "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga"
-description: "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的详细解析与实践指南"
+description: "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga —— 冥想 · Kundalini Meditation 专题"
 category: "心智与心理学 > 冥想 > Kundalini Meditation"
 tags: ["addiction", "anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga"
   - "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的核心概念"
   - "昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga的方法与实践"
-trigger_keywords: ["addiction", "aging", "anxiety", "assessment"]
+trigger_keywords: ["昆达里尼冥想专业概述：从Tantra传统到现代Kundalini", "Yoga"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/meditation"
-
+  - path: "01-Wisdom-Traditions/yoga/masters/contemporary/Yogi_Bhajan.md"
+    relation: "kundalini/bhajan/yogi"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "kundalini/昆达里尼/tantra"
 ---
 # 昆达里尼冥想专业概述：从Tantra传统到现代Kundalini Yoga
 

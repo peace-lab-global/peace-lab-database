@@ -1,7 +1,6 @@
 ---
-
 title: "Digital Therapy"
-description: "Digital Therapy的详细解析与实践指南"
+description: "Digital Therapy —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "depression", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Digital Therapy"
   - "Digital Therapy的核心概念"
   - "Digital Therapy的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Digital", "Therapy"]
+cross_refs: []
 ---
 ## 18. 数字疗法与远程正念干预
 

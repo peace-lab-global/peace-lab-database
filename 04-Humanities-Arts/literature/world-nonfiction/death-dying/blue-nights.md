@@ -1,7 +1,6 @@
 ---
-
 title: "《蓝夜》Blue Nights"
-description: "《蓝夜》Blue Nights的详细解析与实践指南"
+description: "《蓝夜》Blue Nights —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["grief", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《蓝夜》Blue Nights"
   - "《蓝夜》Blue Nights的核心概念"
   - "《蓝夜》Blue Nights的方法与实践"
-trigger_keywords: ["aging", "art", "body", "grief"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "aging/art_therapy/death"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "aging/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "aging/art_therapy/death"
-
+trigger_keywords: ["grief", "《蓝夜》Blue", "Nights"]
+cross_refs: []
 ---
 # 《蓝夜》Blue Nights
 

@@ -1,7 +1,6 @@
 ---
-
 title: "第五周 作业"
-description: "第五周 作业的详细解析与实践指南"
+description: "第五周 作业 —— 冥想 · Course 专题"
 category: "心智与心理学 > 冥想 > Course"
 tags: ["brain", "habits", "meditation", "mindfulness", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是第五周 作业"
   - "第五周 作业的核心概念"
   - "第五周 作业的方法与实践"
-trigger_keywords: ["第五周 作业", "body", "brain", "breathwork", "habits"]
+trigger_keywords: ["第五周 作业", "habits"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
-    relation: "meditation/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "meditation/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "meditation/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "meditation/neuroscience/productivity"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Listening_Guide.md"
+    relation: "专注/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md"
+    relation: "专注/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "冥想/觉察/专注"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Listening_Guide.md"
+    relation: "专注/觉察"
 ---
 # 第五周 作业
 

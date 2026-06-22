@@ -1,7 +1,6 @@
 ---
-
 title: "应用心理学 (Applied Psychology) | Index"
-description: "应用心理学 (Applied Psychology) | Index的详细解析与实践指南"
+description: "应用心理学 (Applied Psychology) | Index —— 心理学 · 应用心理学 专题"
 category: "心智与心理学 > 心理学 > 应用心理学"
 tags: ["intervention", "neuroscience", "应用心理学", "心理学"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "应用心理学  | Index的核心概念"
   - "应用心理学  | Index的方法与实践"
   - "应用心理学  | Index的自助方法"
-trigger_keywords: ["应用心理学", "Index", "assessment", "crisis", "intervention", "neuroscience"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/stress/trauma"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "neuroscience/stress/trauma"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
-    relation: "neuroscience/stress/trauma"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "neuroscience/stress/trauma"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "neuroscience/stress/trauma"
-
+trigger_keywords: ["应用心理学", "intervention", "neuroscience"]
+cross_refs: []
 ---
 # 应用心理学 (Applied Psychology) | Index
 

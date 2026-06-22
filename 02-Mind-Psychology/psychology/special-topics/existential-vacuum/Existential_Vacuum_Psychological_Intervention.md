@@ -1,7 +1,6 @@
 ---
-
 title: "空心症心理干预方法专业内容体系"
-description: "空心症心理干预方法专业内容体系的详细解析与实践指南"
+description: "空心症心理干预方法专业内容体系 —— 特殊专题 · Existential Vacuum 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Existential Vacuum"
 tags: ["anxiety", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "空心症心理干预方法专业内容体系的核心概念"
   - "空心症心理干预方法专业内容体系的方法与实践"
   - "空心症心理干预方法专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["空心症心理干预方法专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/tv/breaking-bad/Breaking_Bad_Therapy_Application_Guide.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/death"
-  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/认知行为/焦虑"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "意义建构/认知行为"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/staring-at-the-sun.md"
+    relation: "存在主义/死亡/焦虑"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/existential-psychotherapy.md"
+    relation: "存在主义/死亡/焦虑"
 ---
 # 空心症心理干预方法专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "栗谷李珥 (Yi I/Yulgok)"
-description: "栗谷李珥 (Yi I/Yulgok)的详细解析与实践指南"
+description: "栗谷李珥 (Yi I/Yulgok) —— Korea · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
 tags: ["healing", "personality", "philosophy", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是栗谷李珥"
   - "栗谷李珥的核心概念"
   - "栗谷李珥的方法与实践"
-trigger_keywords: ["栗谷李珥", "cognitive", "developmental", "emotion", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
-    relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "emotion/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
-    relation: "emotion/neuroscience/personality"
-
+trigger_keywords: ["栗谷李珥", "healing"]
+cross_refs: []
 ---
 # 栗谷李珥 (Yi I/Yulgok)
 ## 核心思想 (Core Ideas)

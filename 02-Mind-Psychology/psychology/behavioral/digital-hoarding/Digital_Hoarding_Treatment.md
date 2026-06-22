@@ -1,7 +1,6 @@
 ---
-
 title: "数字囤积癖治疗 (Digital Hoarding Treatment)"
-description: "数字囤积癖治疗 (Digital Hoarding Treatment)的详细解析与实践指南"
+description: "数字囤积癖治疗 (Digital Hoarding Treatment) —— 行为心理 · Digital Hoarding 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "数字囤积癖治疗的核心概念"
   - "数字囤积癖治疗的方法与实践"
   - "数字囤积癖治疗的循证证据"
-trigger_keywords: ["数字囤积癖治疗", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["数字囤积癖治疗", "Digital", "Hoarding", "Treatment"]
 cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md"
-    relation: "aging/anxiety/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Treatment_Interventions.md"
+    relation: "treatment/principles/疗法"
 ---
 # 数字囤积癖治疗 (Digital Hoarding Treatment)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《不坏真理》Indestructible Truth"
-description: "《不坏真理》Indestructible Truth的详细解析与实践指南"
+description: "《不坏真理》Indestructible Truth —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["dzogchen", "yoga", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《不坏真理》Indestructible Truth"
   - "《不坏真理》Indestructible Truth的核心概念"
   - "《不坏真理》Indestructible Truth的方法与实践"
-trigger_keywords: ["buddhism", "death", "developmental", "dzogchen"]
+trigger_keywords: ["dzogchen", "《不坏真理》Indestructible", "Truth"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/advanced/Buddhism_Advanced_Practice_Topics.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Sadhana_Yamantaka.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
-    relation: "buddhism/death/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/the-guru-drinks-bourbon/Multi_Perspective_Reviews.md"
+    relation: "藏传/佛教"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Reggie_Ray.md"
+    relation: "ray/reginald/藏传"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "佛教/藏传/死亡"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "藏传/佛教"
 ---
 # 《不坏真理》Indestructible Truth
 

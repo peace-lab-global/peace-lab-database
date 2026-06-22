@@ -1,7 +1,6 @@
 ---
-
 title: "液断完整指南 (Liquid Fasting Complete Guide)"
-description: "液断完整指南 (Liquid Fasting Complete Guide)的详细解析与实践指南"
+description: "液断完整指南 (Liquid Fasting Complete Guide) —— 断食 · Extended Fasting 专题"
 category: "生命科学与生物医学 > 营养学 > 断食 > Extended Fasting"
 tags: ["aging", "exercise", "fasting", "gut", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是液断完整指南"
   - "液断完整指南的核心概念"
   - "液断完整指南的方法与实践"
-trigger_keywords: ["液断完整指南", "adolescent", "aging", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "aging/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/practitioner-training/Yoga_Continuing_Education.md"
-    relation: "aging/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/exercise/nutrition"
-
+trigger_keywords: ["液断完整指南", "Liquid", "Fasting", "Complete", "Guide"]
+cross_refs: []
 ---
 # 液断完整指南 (Liquid Fasting Complete Guide)
 

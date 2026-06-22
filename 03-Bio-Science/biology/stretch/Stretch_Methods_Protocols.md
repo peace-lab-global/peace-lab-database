@@ -1,7 +1,6 @@
 ---
-
 title: "Stretch Methods & Protocols (拉伸方法与协议)"
-description: "Stretch Methods & Protocols (拉伸方法与协议)的详细解析与实践指南"
+description: "Stretch Methods & Protocols (拉伸方法与协议) —— 生物学 · Stretch 专题"
 category: "生命科学与生物医学 > 生物学 > Stretch"
 tags: ["exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Stretch Methods & Protocols"
   - "Stretch Methods & Protocols的核心概念"
   - "Stretch Methods & Protocols的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Stretch", "Methods", "Protocols", "拉伸方法与协议"]
+cross_refs: []
 ---
 # Stretch Methods & Protocols (拉伸方法与协议)
 

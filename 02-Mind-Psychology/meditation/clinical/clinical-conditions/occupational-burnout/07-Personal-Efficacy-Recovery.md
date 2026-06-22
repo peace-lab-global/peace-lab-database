@@ -1,7 +1,6 @@
 ---
-
 title: "07. 个人效能感恢复 | Personal Efficacy Recovery"
-description: "07. 个人效能感恢复 | Personal Efficacy Recovery的详细解析与实践指南"
+description: "07. 个人效能感恢复 | Personal Efficacy Recovery —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["brain", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是07. 个人效能感恢复 | Personal Efficacy Recovery"
   - "07. 个人效能感恢复 | Personal Efficacy Recovery的核心概念"
   - "07. 个人效能感恢复 | Personal Efficacy Recovery的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "communication/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/meditation"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/depression/meditation"
-
+trigger_keywords: ["07.", "个人效能感恢复", "Personal", "Efficacy", "Recovery"]
+cross_refs: []
 ---
 # 07. 个人效能感恢复 | Personal Efficacy Recovery
 

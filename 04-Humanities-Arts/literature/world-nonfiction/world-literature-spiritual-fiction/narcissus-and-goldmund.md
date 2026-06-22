@@ -1,7 +1,6 @@
 ---
-
 title: "《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund"
-description: "《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund的详细解析与实践指南"
+description: "《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund"
   - "《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund的核心概念"
   - "《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund的方法与实践"
-trigger_keywords: ["art", "death", "literature", "phobia"]
+trigger_keywords: ["phobia", "《纳尔齐斯与歌尔德蒙》Narcissus", "and", "Goldmund"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "anxiety/communication/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
+    relation: "hermann/hesse"
 ---
 # 《纳尔齐斯与歌尔德蒙》Narcissus and Goldmund
 

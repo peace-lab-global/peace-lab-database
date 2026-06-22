@@ -1,7 +1,6 @@
 ---
-
 title: "营养与心理健康 | Nutrition and Mental Health"
-description: "营养与心理健康 | Nutrition and Mental Health的详细解析与实践指南"
+description: "营养与心理健康 | Nutrition and Mental Health —— 营养学 · Nutritional 专题"
 category: "生命科学与生物医学 > 营养学 > Nutritional"
 tags: ["aging", "brain", "nutrition", "inflammation"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "营养与心理健康 | Nutrition and Mental Health的核心概念"
   - "营养与心理健康 | Nutrition and Mental Health的方法与实践"
   - "营养与心理健康 | Nutrition and Mental Health的自助方法"
-trigger_keywords: ["营养与心理健康", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["营养与心理健康", "Nutrition", "and", "Mental", "Health"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "nutritional/营养/gut-brain"
 ---
 # 营养与心理健康 | Nutrition and Mental Health
 

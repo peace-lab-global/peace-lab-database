@@ -1,7 +1,6 @@
 ---
-
 title: "道家哲学经典 · 佛法视角三方书评"
-description: "道家哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "道家哲学经典 · 佛法视角三方书评 —— China · Taoism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
 tags: ["buddhism", "daoism", "mindfulness", "philosophy", "zen", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是道家哲学经典 · 佛法视角三方书评"
   - "道家哲学经典 · 佛法视角三方书评的核心概念"
   - "道家哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["道家哲学经典", "佛法视角三方书评", "body", "buddhism", "daoism", "mindfulness"]
+trigger_keywords: ["道家哲学经典", "佛法视角三方书评", "daoism", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/daoism/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/wen-tzu.md"
+    relation: "老子/道家/庄子"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/lieh-tzu.md"
+    relation: "老子/道家/庄子"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "老子/道家/庄子"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/zhuangzi.md"
+    relation: "庄子/老子/道家"
 ---
 # 道家哲学经典 · 佛法视角三方书评
 

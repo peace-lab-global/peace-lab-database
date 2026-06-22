@@ -1,7 +1,6 @@
 ---
-
 title: "一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection"
-description: "一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection的详细解析与实践指南"
+description: "一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["bci", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection"
   - "一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection的核心概念"
   - "一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection的方法与实践"
-trigger_keywords: ["act", "assessment", "bci", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Ethics_Comprehensive.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/sexuality"
-
+trigger_keywords: ["bci", "一席科技与未来趋势精选", "YiXi", "Technology", "Future"]
+cross_refs: []
 ---
 # 一席科技与未来趋势精选 | YiXi Technology & Future Trends Collection
 

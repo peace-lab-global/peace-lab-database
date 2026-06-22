@@ -1,7 +1,6 @@
 ---
-
 title: "《孙子兵法》The Art of War"
-description: "《孙子兵法》The Art of War的详细解析与实践指南"
+description: "《孙子兵法》The Art of War —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["decision-making", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《孙子兵法》The Art of War"
   - "《孙子兵法》The Art of War的核心概念"
   - "《孙子兵法》The Art of War的方法与实践"
-trigger_keywords: ["cognitive", "decision-making", "emotion", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["decision-making", "exercise"]
+cross_refs: []
 ---
 # 《孙子兵法》The Art of War
 

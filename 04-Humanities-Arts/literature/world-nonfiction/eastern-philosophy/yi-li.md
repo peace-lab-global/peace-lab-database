@@ -1,7 +1,6 @@
 ---
-
 title: "《仪礼》Yi-li / Book of Etiquette and Ceremonial"
-description: "《仪礼》Yi-li / Book of Etiquette and Ceremonial的详细解析与实践指南"
+description: "《仪礼》Yi-li / Book of Etiquette and Ceremonial —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《仪礼》Yi-li / Book of Etiquette and Ceremonial"
   - "《仪礼》Yi-li / Book of Etiquette and Ceremonial的核心概念"
   - "《仪礼》Yi-li / Book of Etiquette and Ceremonial的方法与实践"
-trigger_keywords: ["《仪礼》Yi-li", "anxiety", "behavioral", "death", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-
+trigger_keywords: ["《仪礼》Yi-li", "Book", "of", "Etiquette", "and"]
+cross_refs: []
 ---
 # 《仪礼》Yi-li / Book of Etiquette and Ceremonial
 

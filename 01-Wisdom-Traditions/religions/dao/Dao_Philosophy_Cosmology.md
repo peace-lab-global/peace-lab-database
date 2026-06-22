@@ -1,7 +1,6 @@
 ---
-
 title: "Philosophy & Cosmology (哲学与宇宙观)"
-description: "Philosophy & Cosmology (哲学与宇宙观)的详细解析与实践指南"
+description: "Philosophy & Cosmology (哲学与宇宙观) —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["daoism", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Philosophy & Cosmology"
   - "Philosophy & Cosmology的核心概念"
   - "Philosophy & Cosmology的方法与实践"
-trigger_keywords: ["act", "anxiety", "cognitive", "crisis"]
+trigger_keywords: ["Philosophy", "Cosmology", "哲学与宇宙观"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "anxiety/communication/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "README.md"
-    relation: "anxiety/communication/daoism"
-
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/INDEX.md"
+    relation: "taoist/道家"
 ---
 # Philosophy & Cosmology (哲学与宇宙观)
 

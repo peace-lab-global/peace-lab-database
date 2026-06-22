@@ -1,6 +1,6 @@
 ---
 title: "stretch | Index"
-description: "stretch | Index的详细解析与实践指南"
+description: "stretch | Index —— 生物学 · Stretch 专题"
 category: "生命科学与生物医学 > 生物学 > Stretch"
 tags: ["生物学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是stretch | Index"
   - "stretch | Index的核心概念"
   - "stretch | Index的方法与实践"
-trigger_keywords: ["stretch", "Index", "生物学"]
+trigger_keywords: ["stretch", "生物学"]
 cross_refs: []
 ---
 # stretch | Index

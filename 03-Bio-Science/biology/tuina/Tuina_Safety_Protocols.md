@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)"
-description: "Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)的详细解析与实践指南"
+description: "Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["aging", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tuina Safety Protocols & Contraindications"
   - "Tuina Safety Protocols & Contraindications的核心概念"
   - "Tuina Safety Protocols & Contraindications的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Tuina", "Safety", "Protocols", "Contraindications", "推拿安全性与禁忌症"]
+cross_refs: []
 ---
 # Tuina Safety Protocols & Contraindications (推拿安全性与禁忌症)
 

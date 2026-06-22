@@ -1,7 +1,6 @@
 ---
-
 title: "AI基础理论 | AI Theory Framework"
-description: "AI基础理论 | AI Theory Framework的详细解析与实践指南"
+description: "AI基础理论 | AI Theory Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是AI基础理论 | AI Theory Framework"
   - "AI基础理论 | AI Theory Framework的核心概念"
   - "AI基础理论 | AI Theory Framework的方法与实践"
-trigger_keywords: ["AI基础理论", "behavioral", "brain", "cognitive", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["AI基础理论", "decision-making"]
+cross_refs: []
 ---
 # AI基础理论 | AI Theory Framework
 

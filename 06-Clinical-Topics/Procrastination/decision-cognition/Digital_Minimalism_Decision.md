@@ -1,7 +1,6 @@
 ---
-
 title: "数字极简主义与数字断舍离 (Digital Minimalism & Digital Decovery)"
-description: "数字极简主义与数字断舍离 (Digital Minimalism & Digital Decovery)的详细解析与实践指南"
+description: "数字极简主义与数字断舍离 (Digital Minimalism & Digital Decovery) —— 行为心理 · Digital Hoarding 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字极简主义与数字断舍离"
   - "数字极简主义与数字断舍离的核心概念"
   - "数字极简主义与数字断舍离的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["数字极简主义与数字断舍离", "Digital", "Minimalism", "Decovery"]
+cross_refs: []
 ---
 # 数字极简主义与数字断舍离 (Digital Minimalism & Digital Decovery)
 

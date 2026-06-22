@@ -1,7 +1,6 @@
 ---
-
 title: "数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)"
-description: "数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)的详细解析与实践指南"
+description: "数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices) —— Child Adolescent Sexuality · Digital Resources 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Digital Resources"
 tags: ["bci", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字化性教育资源与创新实践"
   - "数字化性教育资源与创新实践的核心概念"
   - "数字化性教育资源与创新实践的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "bci"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/productivity/sexuality"
-
+trigger_keywords: ["bci", "数字化性教育资源与创新实践", "Digital", "Sexuality", "Education"]
+cross_refs: []
 ---
 # 数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)
 

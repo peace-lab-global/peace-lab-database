@@ -1,7 +1,6 @@
 ---
-
 title: "青少年陪伴心理学专业内容体系"
-description: "青少年陪伴心理学专业内容体系的详细解析与实践指南"
+description: "青少年陪伴心理学专业内容体系 —— Adolescent · Adolescent Companionship 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Companionship"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "青少年陪伴心理学专业内容体系的核心概念"
   - "青少年陪伴心理学专业内容体系的方法与实践"
   - "青少年陪伴心理学专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/Bio_Dietary_Pharmacy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["青少年陪伴心理学专业内容体系"]
+cross_refs: []
 ---
 # 青少年陪伴心理学专业内容体系
 

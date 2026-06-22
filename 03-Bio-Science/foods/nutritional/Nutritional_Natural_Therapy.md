@@ -1,7 +1,6 @@
 ---
-
 title: "Nutritional & Natural Therapy (食疗与自然疗法)"
-description: "Nutritional & Natural Therapy (食疗与自然疗法)的详细解析与实践指南"
+description: "Nutritional & Natural Therapy (食疗与自然疗法) —— 营养学 · Nutritional 专题"
 category: "生命科学与生物医学 > 营养学 > Nutritional"
 tags: ["aging", "brain", "cardiovascular", "cbt", "nutrition", "breathwork"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Nutritional & Natural Therapy"
   - "Nutritional & Natural Therapy的核心概念"
   - "Nutritional & Natural Therapy的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Nutritional", "Natural", "Therapy", "食疗与自然疗法"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "nutritional/营养/dietary"
+  - path: "04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview.md"
+    relation: "疗法/therapy/modalities"
+  - path: "04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview2.md"
+    relation: "疗法/therapy/modalities"
 ---
 # Nutritional & Natural Therapy (食疗与自然疗法)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga & Women's Health (瑜伽与女性健康)"
-description: "Yoga & Women's Health (瑜伽与女性健康)的详细解析与实践指南"
+description: "Yoga & Women's Health (瑜伽与女性健康) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cortisol", "gut", "hpa-axis", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Yoga & Women's Health"
   - "Yoga & Women's Health的核心概念"
   - "Yoga & Women's Health的方法与实践"
-trigger_keywords: ["anxiety", "breathwork", "cognitive", "cortisol"]
+trigger_keywords: ["cortisol", "Yoga", "Women's", "Health", "瑜伽与女性健康"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C5-1.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/womens-health/INDEX.md"
+    relation: "women/yoga/menstrual"
+  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
+    relation: "menstrual/lh/health"
 ---
 # Yoga & Women's Health (瑜伽与女性健康)
 

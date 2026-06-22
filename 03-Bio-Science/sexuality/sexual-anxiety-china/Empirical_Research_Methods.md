@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑研究的实证方法论体系"
-description: "性焦虑研究的实证方法论体系的详细解析与实践指南"
+description: "性焦虑研究的实证方法论体系 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "性焦虑研究的实证方法论体系的核心概念"
   - "性焦虑研究的实证方法论体系的方法与实践"
   - "性焦虑研究的实证方法论体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/body_image"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["性焦虑研究的实证方法论体系"]
+cross_refs: []
 ---
 # 性焦虑研究的实证方法论体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Clinical Casebook in Death Studies (死亡专题临床案例集)"
-description: "Clinical Casebook in Death Studies (死亡专题临床案例集)的详细解析与实践指南"
+description: "Clinical Casebook in Death Studies (死亡专题临床案例集) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "attachment", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Clinical Casebook in Death Studies"
   - "Clinical Casebook in Death Studies的核心概念"
   - "Clinical Casebook in Death Studies的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Clinical", "Casebook", "in", "Death", "Studies"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/death/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/临终/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "临终/死亡/death"
 ---
 # Clinical Casebook in Death Studies (死亡专题临床案例集)
 

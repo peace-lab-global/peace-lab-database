@@ -1,7 +1,6 @@
 ---
-
 title: "佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)"
-description: "佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)的详细解析与实践指南"
+description: "佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study) —— 佛教 · Ethics 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Ethics"
 tags: ["buddhism", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是佛教戒律与伦理学综合研究"
   - "佛教戒律与伦理学综合研究的核心概念"
   - "佛教戒律与伦理学综合研究的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "buddhism/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/Zazen_Koan_Collection.md"
-    relation: "buddhism/communication/neuroscience"
-
+trigger_keywords: ["佛教戒律与伦理学综合研究", "Buddhist", "Ethics", "Vinaya", "Comprehensive"]
+cross_refs: []
 ---
 # 佛教戒律与伦理学综合研究 (Buddhist Ethics & Vinaya Comprehensive Study)
 

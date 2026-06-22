@@ -1,7 +1,6 @@
 ---
-
 title: "《围城》读书笔记与书评"
-description: "《围城》读书笔记与书评的详细解析与实践指南"
+description: "《围城》读书笔记与书评 —— Contemporary · Fortress Besieged 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是《围城》读书笔记与书评"
   - "《围城》读书笔记与书评的核心概念"
   - "《围城》读书笔记与书评的方法与实践"
-trigger_keywords: ["behavioral", "brain", "literature", "marriage"]
+trigger_keywords: ["marriage", "《围城》读书笔记与书评"]
 cross_refs:
   - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
     relation: "art_therapy/attachment/neuroscience"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "attachment/neuroscience/sexuality"
   - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
     relation: "attachment/neuroscience/sexuality"
-
 ---
 # 《围城》读书笔记与书评
 

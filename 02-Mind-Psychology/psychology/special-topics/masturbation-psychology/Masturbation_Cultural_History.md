@@ -1,7 +1,6 @@
 ---
-
 title: "Masturbation in Cultural and Historical Perspective (自慰观念的社会文化变迁与历史视角)"
-description: "Masturbation in Cultural and Historical Perspective (自慰观念的社会文化变迁与历史视角)的详细解析与实践指南"
+description: "Masturbation in Cultural and Historical Perspective (自慰观念的社会文化变迁与历史视角) —— 特殊专题 · Masturbation Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Masturbation Psychology"
 tags: ["addiction", "anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Masturbation in Cultural and Historical Perspective"
   - "Masturbation in Cultural and Historical Perspective的核心概念"
   - "Masturbation in Cultural and Historical Perspective的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["Masturbation", "in", "Cultural", "and", "Historical"]
+cross_refs: []
 ---
 # Masturbation in Cultural and Historical Perspective (自慰观念的社会文化变迁与历史视角)
 

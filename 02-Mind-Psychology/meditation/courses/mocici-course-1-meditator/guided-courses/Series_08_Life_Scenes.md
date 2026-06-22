@@ -1,7 +1,6 @@
 ---
-
 title: "系列八：生活场景系列 | Life Scenes Series"
-description: "系列八：生活场景系列 | Life Scenes Series的详细解析与实践指南"
+description: "系列八：生活场景系列 | Life Scenes Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["addiction", "anxiety", "attachment", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是系列八：生活场景系列 | Life Scenes Series"
   - "系列八：生活场景系列 | Life Scenes Series的核心概念"
   - "系列八：生活场景系列 | Life Scenes Series的方法与实践"
-trigger_keywords: ["系列八：生活场景系列", "act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/exercise"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/anxiety/exercise"
-
+trigger_keywords: ["系列八：生活场景系列", "Life", "Scenes", "Series"]
+cross_refs: []
 ---
 # 系列八：生活场景系列 | Life Scenes Series
 

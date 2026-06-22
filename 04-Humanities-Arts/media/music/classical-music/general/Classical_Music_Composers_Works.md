@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Composers & Therapeutic Works (古典音乐作曲家与疗愈作品)"
-description: "Classical Music Composers & Therapeutic Works (古典音乐作曲家与疗愈作品)的详细解析与实践指南"
+description: "Classical Music Composers & Therapeutic Works (古典音乐作曲家与疗愈作品) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Classical Music Composers & Therapeutic Works"
   - "Classical Music Composers & Therapeutic Works的核心概念"
   - "Classical Music Composers & Therapeutic Works的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["Classical", "Music", "Composers", "Therapeutic", "Works"]
+cross_refs: []
 ---
 # Classical Music Composers & Therapeutic Works (古典音乐作曲家与疗愈作品)
 

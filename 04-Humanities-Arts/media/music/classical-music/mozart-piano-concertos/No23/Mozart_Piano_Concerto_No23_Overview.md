@@ -1,7 +1,6 @@
 ---
-
 title: "莫扎特《第23号钢琴协奏曲》综合指南"
-description: "莫扎特《第23号钢琴协奏曲》综合指南的详细解析与实践指南"
+description: "莫扎特《第23号钢琴协奏曲》综合指南 —— Mozart Piano Concertos · No23 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Piano Concertos > No23"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是莫扎特《第23号钢琴协奏曲》综合指南"
   - "莫扎特《第23号钢琴协奏曲》综合指南的核心概念"
   - "莫扎特《第23号钢琴协奏曲》综合指南的方法与实践"
-trigger_keywords: ["anxiety", "art", "brain", "clinical"]
+trigger_keywords: ["莫扎特《第23号钢琴协奏曲》综合指南"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
 ---
 # 莫扎特《第23号钢琴协奏曲》综合指南
 

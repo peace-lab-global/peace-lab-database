@@ -1,7 +1,6 @@
 ---
-
 title: "High Heel Fetishism (恋高跟鞋癖专业指南)"
-description: "High Heel Fetishism (恋高跟鞋癖专业指南)的详细解析与实践指南"
+description: "High Heel Fetishism (恋高跟鞋癖专业指南) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["addiction", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是High Heel Fetishism"
   - "High Heel Fetishism的核心概念"
   - "High Heel Fetishism的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Overview_Full.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/exercise/neuroscience"
-
+trigger_keywords: ["High", "Heel", "Fetishism", "恋高跟鞋癖专业指南"]
+cross_refs: []
 ---
 # High Heel Fetishism (恋高跟鞋癖专业指南)
 

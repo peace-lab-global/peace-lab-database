@@ -1,7 +1,6 @@
 ---
-
 title: "romeo-juliet | Index"
-description: "romeo-juliet | Index的详细解析与实践指南"
+description: "romeo-juliet | Index —— Classical Repertory · Romeo Juliet 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Romeo Juliet"
 tags: ["art-therapy", "芭蕾"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是romeo-juliet | Index"
   - "romeo-juliet | Index的核心概念"
   - "romeo-juliet | Index的方法与实践"
-trigger_keywords: ["Index", "艺术", "芭蕾"]
+trigger_keywords: ["艺术", "芭蕾"]
 cross_refs: []
-
 ---
 # romeo-juliet | Index
 

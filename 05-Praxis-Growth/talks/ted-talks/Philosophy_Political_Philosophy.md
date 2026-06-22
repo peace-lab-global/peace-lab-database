@@ -1,7 +1,6 @@
 ---
-
 title: "政治哲学"
-description: "政治哲学的详细解析与实践指南"
+description: "政治哲学 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是政治哲学"
   - "政治哲学的核心概念"
   - "政治哲学的方法与实践"
-trigger_keywords: ["政治哲学", "philosophy", "讲座"]
+trigger_keywords: ["政治哲学", "讲座"]
 cross_refs: []
-
 ---
 # 政治哲学
 

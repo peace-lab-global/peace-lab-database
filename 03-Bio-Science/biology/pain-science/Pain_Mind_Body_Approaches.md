@@ -1,7 +1,6 @@
 ---
-
 title: "疼痛的身心疗法 | Pain Mind-Body Approaches"
-description: "疼痛的身心疗法 | Pain Mind-Body Approaches的详细解析与实践指南"
+description: "疼痛的身心疗法 | Pain Mind-Body Approaches —— 生物学 · 疼痛科学 专题"
 category: "生命科学与生物医学 > 生物学 > 疼痛科学"
 tags: ["cbt", "exercise", "breathwork", "pain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "疼痛的身心疗法 | Pain Mind-Body Approaches的核心概念"
   - "疼痛的身心疗法 | Pain Mind-Body Approaches的方法与实践"
   - "疼痛的身心疗法 | Pain Mind-Body Approaches的循证证据"
-trigger_keywords: ["疼痛的身心疗法", "act", "anxiety", "body", "breathwork"]
+trigger_keywords: ["疼痛的身心疗法", "Pain", "Mind-Body", "Approaches"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
-    relation: "anxiety/daoism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C3-homework.md"
+    relation: "觉察/身体扫描/呼吸"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
+    relation: "疗法/觉察/瑜伽"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
+    relation: "身体扫描/呼吸/太极"
+  - path: "05-Praxis-Growth/talks/ted-talks/Yoga_Therapeutic_Applications.md"
+    relation: "疗法/瑜伽"
 ---
 # 疼痛的身心疗法 | Pain Mind-Body Approaches
 

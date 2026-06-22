@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Periods & Styles (古典音乐时期与风格的疗愈特质)"
-description: "Classical Music Periods & Styles (古典音乐时期与风格的疗愈特质)的详细解析与实践指南"
+description: "Classical Music Periods & Styles (古典音乐时期与风格的疗愈特质) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Classical Music Periods & Styles"
   - "Classical Music Periods & Styles的核心概念"
   - "Classical Music Periods & Styles的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Classical", "Music", "Periods", "Styles", "古典音乐时期与风格的疗愈特质"]
+cross_refs: []
 ---
 # Classical Music Periods & Styles (古典音乐时期与风格的疗愈特质)
 

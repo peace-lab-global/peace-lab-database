@@ -1,7 +1,6 @@
 ---
-
 title: "《群魔》Demons"
-description: "《群魔》Demons的详细解析与实践指南"
+description: "《群魔》Demons —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《群魔》Demons"
   - "《群魔》Demons的核心概念"
   - "《群魔》Demons的方法与实践"
-trigger_keywords: ["《群魔》Demons", "brain", "death", "exercise", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/death/depression"
-
+trigger_keywords: ["《群魔》Demons", "exercise"]
+cross_refs: []
 ---
 # 《群魔》Demons
 

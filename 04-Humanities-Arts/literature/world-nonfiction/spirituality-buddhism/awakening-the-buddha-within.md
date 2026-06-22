@@ -1,7 +1,6 @@
 ---
-
 title: "《唤醒内在的佛陀》Awakening the Buddha Within"
-description: "《唤醒内在的佛陀》Awakening the Buddha Within的详细解析与实践指南"
+description: "《唤醒内在的佛陀》Awakening the Buddha Within —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《唤醒内在的佛陀》Awakening the Buddha Within"
   - "《唤醒内在的佛陀》Awakening the Buddha Within的核心概念"
   - "《唤醒内在的佛陀》Awakening the Buddha Within的方法与实践"
-trigger_keywords: ["act", "body", "brain", "buddhism"]
+trigger_keywords: ["《唤醒内在的佛陀》Awakening", "the", "Buddha", "Within"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
 ---
 # 《唤醒内在的佛陀》Awakening the Buddha Within
 

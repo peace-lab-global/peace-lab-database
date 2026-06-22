@@ -1,7 +1,6 @@
 ---
-
 title: "周易 (Yi Jing / I Ching)"
-description: "周易 (Yi Jing / I Ching)的详细解析与实践指南"
+description: "周易 (Yi Jing / I Ching) —— China · Yijing 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Yijing"
 tags: ["philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是周易"
   - "周易的核心概念"
   - "周易的方法与实践"
-trigger_keywords: ["周易", "philosophy", "sexuality", "哲学"]
+trigger_keywords: ["周易", "哲学"]
 cross_refs: []
-
 ---
 # 周易 (Yi Jing / I Ching)
 

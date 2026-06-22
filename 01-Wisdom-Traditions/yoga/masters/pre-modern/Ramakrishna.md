@@ -1,7 +1,6 @@
 ---
-
 title: "罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）"
-description: "罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）的详细解析与实践指南"
+description: "罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ） —— Masters · Pre Modern 专题"
 category: "智慧传承 > 瑜伽 > Masters > Pre Modern"
 tags: ["philosophy", "religion", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）"
   - "罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）的核心概念"
   - "罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）的方法与实践"
-trigger_keywords: ["philosophy", "religion", "sexuality", "yoga"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "sexuality/yoga"
-
+trigger_keywords: ["religion", "yoga"]
+cross_refs: []
 ---
 # 罗摩克里希那（Sri Ramakrishna Paramahamsa / শ্রীরামকৃষ্ণ）
 

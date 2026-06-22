@@ -1,7 +1,6 @@
 ---
-
 title: "01-Wisdom-Traditions | 智慧传承"
-description: "01-Wisdom-Traditions | 智慧传承的详细解析与实践指南"
+description: "01-Wisdom-Traditions | 智慧传承 —— 智慧传承 专题"
 category: "智慧传承"
 tags: ["buddhism", "calligraphy", "cardiovascular", "meditation", "dzogchen", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是01-Wisdom-Traditions | 智慧传承"
   - "01-Wisdom-Traditions | 智慧传承的核心概念"
   - "01-Wisdom-Traditions | 智慧传承的方法与实践"
-trigger_keywords: ["智慧传承", "act", "art", "body", "brain"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "buddhism/cardiovascular/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "art_therapy/buddhism/exercise"
-
+trigger_keywords: ["智慧传承", "01-Wisdom-Traditions"]
+cross_refs: []
 ---
 # 01-Wisdom-Traditions | 智慧传承
 

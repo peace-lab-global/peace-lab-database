@@ -1,7 +1,6 @@
 ---
-
 title: "成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention)"
-description: "成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention)的详细解析与实践指南"
+description: "成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention) —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["addiction", "anxiety", "attachment", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是成瘾康复与复发预防"
   - "成瘾康复与复发预防的核心概念"
   - "成瘾康复与复发预防的方法与实践"
-trigger_keywords: ["成瘾康复与复发预防", "act", "addiction", "anxiety", "attachment"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["成瘾康复与复发预防", "Addiction", "Recovery", "Relapse", "Prevention"]
+cross_refs: []
 ---
 # 成瘾康复与复发预防 (Addiction Recovery & Relapse Prevention)
 

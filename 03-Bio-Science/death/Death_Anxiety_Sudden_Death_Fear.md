@@ -1,7 +1,6 @@
 ---
-
 title: "Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)"
-description: "Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)的详细解析与实践指南"
+description: "Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["brain", "cbt", "sleep", "pain", "exercise", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Sudden Death Fear & Cardiac Anxiety"
   - "Sudden Death Fear & Cardiac Anxiety的核心概念"
   - "Sudden Death Fear & Cardiac Anxiety的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Sudden", "Death", "Fear", "Cardiac", "Anxiety"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/death/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md"
+    relation: "anxiety/恐惧/fear"
+  - path: "02-Mind-Psychology/psychology/clinical/phobia/Phobia_Social_Agoraphobia.md"
+    relation: "恐惧/anxiety/焦虑"
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/panic-disorder/INDEX.md"
+    relation: "panic/disorder/anxiety"
 ---
 # Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "迪巴·马 (Dipa Ma)"
-description: "迪巴·马 (Dipa Ma)的详细解析与实践指南"
+description: "迪巴·马 (Dipa Ma) —— Masters · Western Pioneers 专题"
 category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
 tags: ["anxiety", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是迪巴·马"
   - "迪巴·马的核心概念"
   - "迪巴·马的方法与实践"
-trigger_keywords: ["迪巴", "act", "anxiety", "body", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["迪巴", "Dipa", "Ma"]
+cross_refs: []
 ---
 # 迪巴·马 (Dipa Ma)
 

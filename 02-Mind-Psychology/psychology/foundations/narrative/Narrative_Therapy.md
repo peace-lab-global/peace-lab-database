@@ -1,6 +1,6 @@
 ---
 title: "叙事治疗"
-description: "叙事治疗的详细解析与实践指南"
+description: "叙事治疗 —— 心理学基础 · Narrative 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Narrative"
 tags: ["treatment", "心理学", "心理学基础"]
 last_updated: "2026-05"

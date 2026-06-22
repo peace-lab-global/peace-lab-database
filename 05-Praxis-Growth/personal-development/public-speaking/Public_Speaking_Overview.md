@@ -1,7 +1,6 @@
 ---
-
 title: "公众表达专业内容体系 (Public Speaking Professional Content System)"
-description: "公众表达专业内容体系 (Public Speaking Professional Content System)的详细解析与实践指南"
+description: "公众表达专业内容体系 (Public Speaking Professional Content System) —— 个人发展 · Public Speaking 专题"
 category: "实践与个人增长 > 个人发展 > Public Speaking"
 tags: ["communication", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是公众表达专业内容体系"
   - "公众表达专业内容体系的核心概念"
   - "公众表达专业内容体系的方法与实践"
-trigger_keywords: ["公众表达专业内容体系", "art", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["公众表达专业内容体系", "Public", "Speaking", "Professional", "Content"]
+cross_refs: []
 ---
 # 公众表达专业内容体系 (Public Speaking Professional Content System)
 

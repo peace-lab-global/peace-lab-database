@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Teaching Methodology (冥想教学方法论)"
-description: "Meditation Teaching Methodology (冥想教学方法论)的详细解析与实践指南"
+description: "Meditation Teaching Methodology (冥想教学方法论) —— 冥想 · Practitioner Training 专题"
 category: "心智与心理学 > 冥想 > Practitioner Training"
 tags: ["anxiety", "brain", "habits", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Meditation Teaching Methodology"
   - "Meditation Teaching Methodology的核心概念"
   - "Meditation Teaching Methodology的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Meditation", "Teaching", "Methodology", "冥想教学方法论"]
+cross_refs: []
 ---
 # Meditation Teaching Methodology (冥想教学方法论)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "刻意练习 (Deliberate Practice)"
-description: "刻意练习 (Deliberate Practice)的详细解析与实践指南"
+description: "刻意练习 (Deliberate Practice) —— 个人发展 · 元学习 专题"
 category: "实践与个人增长 > 个人发展 > 元学习"
 tags: ["flow", "meta-learning"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是刻意练习"
   - "刻意练习的核心概念"
   - "刻意练习的方法与实践"
-trigger_keywords: ["刻意练习", "act", "body", "brain", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["刻意练习", "Deliberate", "Practice"]
+cross_refs: []
 ---
 # 刻意练习 (Deliberate Practice)
 

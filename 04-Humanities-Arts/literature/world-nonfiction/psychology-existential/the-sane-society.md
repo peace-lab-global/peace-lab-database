@@ -1,7 +1,6 @@
 ---
-
 title: "《健全的社会》书评"
-description: "《健全的社会》书评的详细解析与实践指南"
+description: "《健全的社会》书评 —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《健全的社会》书评"
   - "《健全的社会》书评的核心概念"
   - "《健全的社会》书评的方法与实践"
-trigger_keywords: ["《健全的社会》书评", "act", "anxiety", "behavioral", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/sexuality"
-
+trigger_keywords: ["《健全的社会》书评"]
+cross_refs: []
 ---
 # 《健全的社会》书评
 

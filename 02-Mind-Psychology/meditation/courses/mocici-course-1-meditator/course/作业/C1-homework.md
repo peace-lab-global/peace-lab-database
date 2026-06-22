@@ -1,7 +1,6 @@
 ---
-
 title: "C1 第一周 先导课作业"
-description: "C1 第一周 先导课作业的详细解析与实践指南"
+description: "C1 第一周 先导课作业 —— 冥想 · Course 专题"
 category: "心智与心理学 > 冥想 > Course"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是C1 第一周 先导课作业"
   - "C1 第一周 先导课作业的核心概念"
   - "C1 第一周 先导课作业的方法与实践"
-trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
+trigger_keywords: ["C1", "第一周", "先导课作业"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
+    relation: "冥想/瑜伽/呼吸"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Meditation_Cross_Career.md"
+    relation: "冥想/瑜伽/神经科学"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "冥想/呼吸"
 ---
 # C1 第一周 先导课作业
 

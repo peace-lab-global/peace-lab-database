@@ -1,7 +1,6 @@
 ---
-
 title: "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης"
-description: "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的详细解析与实践指南"
+description: "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题"
 category: "人文与艺术疗愈 > 阅读"
 tags: ["bci", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης"
   - "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的核心概念"
   - "数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης的方法与实践"
-trigger_keywords: ["数字阅读研究前沿", "anxiety", "assessment", "bci", "behavioral"]
+trigger_keywords: ["数字阅读研究前沿", "bci"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/exercise"
-
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Types_Causes.md"
+    relation: "vs/习惯"
+  - path: "03-Bio-Science/biology/floaters/Bio_Floaters_Research_Frontiers.md"
+    relation: "frontiers/research"
 ---
 # 数字阅读研究前沿 | Digital Reading Research Frontiers | Μελέτες Ψηφιακής Ανάγνωσης
 

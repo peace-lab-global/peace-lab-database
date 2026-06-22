@@ -1,7 +1,6 @@
 ---
-
 title: "Sacred Mantra (神圣真言与声学术)"
-description: "Sacred Mantra (神圣真言与声学术)的详细解析与实践指南"
+description: "Sacred Mantra (神圣真言与声学术) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "brain", "dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sacred Mantra"
   - "Sacred Mantra的核心概念"
   - "Sacred Mantra的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["Sacred", "Mantra", "神圣真言与声学术"]
+cross_refs: []
 ---
 # Sacred Mantra (神圣真言与声学术)
 

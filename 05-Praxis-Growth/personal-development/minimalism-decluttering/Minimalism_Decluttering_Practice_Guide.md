@@ -1,7 +1,6 @@
 ---
-
 title: "极简主义与断舍离实践指南 (Minimalism & Decluttering Practice Guide)"
-description: "极简主义与断舍离实践指南 (Minimalism & Decluttering Practice Guide)的详细解析与实践指南"
+description: "极简主义与断舍离实践指南 (Minimalism & Decluttering Practice Guide) —— 个人发展 · 极简主义 专题"
 category: "实践与个人增长 > 个人发展 > 极简主义"
 tags: ["attachment", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是极简主义与断舍离实践指南"
   - "极简主义与断舍离实践指南的核心概念"
   - "极简主义与断舍离实践指南的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["极简主义与断舍离实践指南", "Minimalism", "Decluttering", "Practice", "Guide"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Minimalism_Decision.md"
+    relation: "minimalism/decovery/organization"
 ---
 # 极简主义与断舍离实践指南 (Minimalism & Decluttering Practice Guide)
 

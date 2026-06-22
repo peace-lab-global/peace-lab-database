@@ -1,7 +1,6 @@
 ---
-
 title: "《堂吉诃德》经典剧目分析 (Don Quixote Classic Analysis)"
-description: "《堂吉诃德》经典剧目分析 (Don Quixote Classic Analysis)的详细解析与实践指南"
+description: "《堂吉诃德》经典剧目分析 (Don Quixote Classic Analysis) —— Classical Repertory · Don Quixote 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Don Quixote"
 tags: ["ballet", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《堂吉诃德》经典剧目分析"
   - "《堂吉诃德》经典剧目分析的核心概念"
   - "《堂吉诃德》经典剧目分析的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "ballet"]
+trigger_keywords: ["ballet", "《堂吉诃德》经典剧目分析", "Don", "Quixote", "Classic"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/舞蹈/analysis"
 ---
 # 《堂吉诃德》经典剧目分析 (Don Quixote Classic Analysis)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《可爱的骨头》The Lovely Bones"
-description: "《可爱的骨头》The Lovely Bones的详细解析与实践指南"
+description: "《可爱的骨头》The Lovely Bones —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["cinema", "grief", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《可爱的骨头》The Lovely Bones"
   - "《可爱的骨头》The Lovely Bones的核心概念"
   - "《可爱的骨头》The Lovely Bones的方法与实践"
-trigger_keywords: ["cinema", "death", "grief", "文学"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "death/depression/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md"
-    relation: "death/depression/emotion"
-
+trigger_keywords: ["cinema", "grief", "文学"]
+cross_refs: []
 ---
 # 《可爱的骨头》The Lovely Bones
 

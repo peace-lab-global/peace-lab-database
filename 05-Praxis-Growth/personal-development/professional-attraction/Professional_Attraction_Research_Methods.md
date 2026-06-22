@@ -1,7 +1,6 @@
 ---
-
 title: "Professional Attraction Research Methods (职业吸引研究方法)"
-description: "Professional Attraction Research Methods (职业吸引研究方法)的详细解析与实践指南"
+description: "Professional Attraction Research Methods (职业吸引研究方法) —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["flow"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Professional Attraction Research Methods"
   - "Professional Attraction Research Methods的核心概念"
   - "Professional Attraction Research Methods的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "brain"]
+trigger_keywords: ["Professional", "Attraction", "Research", "Methods", "职业吸引研究方法"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "exercise/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/neuroscience/productivity"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "quantitative/research/methods"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md"
+    relation: "research/studies/methods"
+  - path: "03-Bio-Science/sexuality/Sexuality_Research_Methods.md"
+    relation: "research/methods/technologies"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md"
+    relation: "research/methods/data"
 ---
 # Professional Attraction Research Methods (职业吸引研究方法)
 

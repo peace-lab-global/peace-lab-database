@@ -1,7 +1,6 @@
 ---
-
 title: "南传佛教仪轨总览 (Theravada Rituals Overview)"
-description: "南传佛教仪轨总览 (Theravada Rituals Overview)的详细解析与实践指南"
+description: "南传佛教仪轨总览 (Theravada Rituals Overview) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传佛教仪轨总览"
   - "南传佛教仪轨总览的核心概念"
   - "南传佛教仪轨总览的方法与实践"
-trigger_keywords: ["南传佛教仪轨总览", "act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Practical_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["南传佛教仪轨总览", "Theravada", "Rituals", "Overview"]
+cross_refs: []
 ---
 # 南传佛教仪轨总览 (Theravada Rituals Overview)
 

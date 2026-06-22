@@ -1,6 +1,6 @@
 ---
 title: "MDMA治疗"
-description: "MDMA治疗的详细解析与实践指南"
+description: "MDMA治疗 —— 心理学基础 · Mdma 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Mdma"
 tags: ["treatment", "心理学", "心理学基础"]
 last_updated: "2026-05"

@@ -1,7 +1,6 @@
 ---
-
 title: "茶文化心理疗愈专业内容体系"
-description: "茶文化心理疗愈专业内容体系的详细解析与实践指南"
+description: "茶文化心理疗愈专业内容体系 —— Tea · Tea Culture 专题"
 category: "生命科学与生物医学 > 营养学 > Tea > Tea Culture"
 tags: ["calligraphy"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "茶文化心理疗愈专业内容体系的核心概念"
   - "茶文化心理疗愈专业内容体系的方法与实践"
   - "茶文化心理疗愈专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["茶文化心理疗愈专业内容体系"]
+cross_refs: []
 ---
 # 茶文化心理疗愈专业内容体系
 

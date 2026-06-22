@@ -1,7 +1,6 @@
 ---
-
 title: "sufism-meditation | 苏菲冥想/神秘主义 Index"
-description: "sufism-meditation | 苏菲冥想/神秘主义 Index的详细解析与实践指南"
+description: "sufism-meditation | 苏菲冥想/神秘主义 Index —— 冥想 · Sufism Meditation 专题"
 category: "心智与心理学 > 冥想 > Sufism Meditation"
 tags: ["meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是sufism-meditation | 苏菲冥想/神秘主义 Index"
   - "sufism-meditation | 苏菲冥想/神秘主义 Index的核心概念"
   - "sufism-meditation | 苏菲冥想/神秘主义 Index的方法与实践"
-trigger_keywords: ["苏菲冥想", "神秘主义 Index", "breathwork", "meditation", "mindfulness", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "meditation/yoga"
-
+trigger_keywords: ["苏菲冥想", "神秘主义 Index", "meditation", "mindfulness"]
+cross_refs: []
 ---
 # sufism-meditation | 苏菲冥想/神秘主义 Index
 

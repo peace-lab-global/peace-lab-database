@@ -1,7 +1,6 @@
 ---
-
 title: "Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身"
-description: "Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身的详细解析与实践指南"
+description: "Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身"
   - "Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身的核心概念"
   - "Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/sexuality"
-
+trigger_keywords: ["Jack", "Nicholson", "专业分析：好莱坞反叛精神的银幕化身"]
+cross_refs: []
 ---
 # Jack Nicholson 专业分析：好莱坞反叛精神的银幕化身
 

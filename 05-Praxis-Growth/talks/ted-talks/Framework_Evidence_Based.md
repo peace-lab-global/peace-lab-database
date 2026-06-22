@@ -1,7 +1,6 @@
 ---
-
 title: "循证医学 | Evidence-Based Medicine"
-description: "循证医学 | Evidence-Based Medicine的详细解析与实践指南"
+description: "循证医学 | Evidence-Based Medicine —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是循证医学 | Evidence-Based Medicine"
   - "循证医学 | Evidence-Based Medicine的核心概念"
   - "循证医学 | Evidence-Based Medicine的方法与实践"
-trigger_keywords: ["循证医学", "act", "assessment", "clinical", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/depression/exercise"
-
+trigger_keywords: ["循证医学", "Evidence-Based", "Medicine"]
+cross_refs: []
 ---
 # 循证医学 | Evidence-Based Medicine
 

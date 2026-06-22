@@ -33,17 +33,7 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "03-Bio-Science/biology/immune-inflammation/Autoimmune_Psychology.md"
-    relation: "depression/neuroscience/sexuality"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "depression/neuroscience/sexuality"
+cross_refs: []
 ---
 
 # 慢性疲劳综合征识别技能

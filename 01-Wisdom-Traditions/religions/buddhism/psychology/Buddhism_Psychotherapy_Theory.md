@@ -1,7 +1,6 @@
 ---
-
 title: "佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)"
-description: "佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)的详细解析与实践指南"
+description: "佛教心理治疗理论详论 (Buddhist Psychotherapy Theory) —— 佛教 · 心理学 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学"
 tags: ["addiction", "meditation"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "佛教心理治疗理论详论的核心概念"
   - "佛教心理治疗理论详论的方法与实践"
   - "佛教心理治疗理论详论的循证证据"
-trigger_keywords: ["佛教心理治疗理论详论", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["佛教心理治疗理论详论", "Buddhist", "Psychotherapy", "Theory"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
+    relation: "foundation/treatment/theoretical"
 ---
 # 佛教心理治疗理论详论 (Buddhist Psychotherapy Theory)
 

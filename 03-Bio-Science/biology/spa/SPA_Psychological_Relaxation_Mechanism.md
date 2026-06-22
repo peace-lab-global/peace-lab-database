@@ -1,7 +1,6 @@
 ---
-
 title: "SPA心理放松机制专业内容体系"
-description: "SPA心理放松机制专业内容体系的详细解析与实践指南"
+description: "SPA心理放松机制专业内容体系 —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "SPA心理放松机制专业内容体系的核心概念"
   - "SPA心理放松机制专业内容体系的方法与实践"
   - "SPA心理放松机制专业内容体系的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["SPA心理放松机制专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
-    relation: "aging/anxiety/emotion"
-
+    relation: "疗法/觉察/压力"
 ---
 # SPA心理放松机制专业内容体系
 

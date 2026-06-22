@@ -1,7 +1,6 @@
 ---
-
 title: "约炮与出轨对关系影响的综合分析 (Comprehensive Analysis of Casual Sex and Infidelity Impact on Relationships)"
-description: "约炮与出轨对关系影响的综合分析 (Comprehensive Analysis of Casual Sex and Infidelity Impact on Relationships)的详细解析与实践指南"
+description: "约炮与出轨对关系影响的综合分析 (Comprehensive Analysis of Casual Sex and Infidelity Impact on Relationships) —— 人际关系 · Impact Analysis 专题"
 category: "心智与心理学 > 人际关系 > Impact Analysis"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是约炮与出轨对关系影响的综合分析"
   - "约炮与出轨对关系影响的综合分析的核心概念"
   - "约炮与出轨对关系影响的综合分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["约炮与出轨对关系影响的综合分析", "Comprehensive", "Analysis", "of", "Casual"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/ffe/style"
 ---
 # 约炮与出轨对关系影响的综合分析 (Comprehensive Analysis of Casual Sex and Infidelity Impact on Relationships)
 

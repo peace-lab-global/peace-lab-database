@@ -1,7 +1,6 @@
 ---
-
 title: "《韩非子》Han Fei Tzu"
-description: "《韩非子》Han Fei Tzu的详细解析与实践指南"
+description: "《韩非子》Han Fei Tzu —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature", "phobia", "productivity", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《韩非子》Han Fei Tzu"
   - "《韩非子》Han Fei Tzu的核心概念"
   - "《韩非子》Han Fei Tzu的方法与实践"
-trigger_keywords: ["behavioral", "literature", "philosophy", "phobia"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["phobia", "《韩非子》Han", "Fei", "Tzu"]
+cross_refs: []
 ---
 # 《韩非子》Han Fei Tzu
 

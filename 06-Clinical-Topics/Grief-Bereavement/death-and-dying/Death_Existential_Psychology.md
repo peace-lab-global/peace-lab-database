@@ -1,7 +1,6 @@
 ---
-
 title: "Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)"
-description: "Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)的详细解析与实践指南"
+description: "Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["addiction", "aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Death, Existential Psychology & Being-Toward-Death"
   - "Death, Existential Psychology & Being-Toward-Death的核心概念"
   - "Death, Existential Psychology & Being-Toward-Death的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "aging/anxiety/death"
-
+trigger_keywords: ["Death", "Existential", "Psychology", "Being-Toward-Death", "死亡焦虑"]
+cross_refs: []
 ---
 # Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)
 

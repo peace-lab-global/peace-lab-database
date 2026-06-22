@@ -1,7 +1,6 @@
 ---
-
 title: "《周礼》Zhou-li / Rites of Zhou"
-description: "《周礼》Zhou-li / Rites of Zhou的详细解析与实践指南"
+description: "《周礼》Zhou-li / Rites of Zhou —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《周礼》Zhou-li / Rites of Zhou"
   - "《周礼》Zhou-li / Rites of Zhou的核心概念"
   - "《周礼》Zhou-li / Rites of Zhou的方法与实践"
-trigger_keywords: ["buddhism", "literature", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism"
-
+trigger_keywords: ["文学", "《周礼》Zhou-li", "Rites", "of", "Zhou"]
+cross_refs: []
 ---
 # 《周礼》Zhou-li / Rites of Zhou
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《米拉拜诗集》Poems of Mirabai"
-description: "《米拉拜诗集》Poems of Mirabai的详细解析与实践指南"
+description: "《米拉拜诗集》Poems of Mirabai —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["spirituality", "yoga", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《米拉拜诗集》Poems of Mirabai"
   - "《米拉拜诗集》Poems of Mirabai的核心概念"
   - "《米拉拜诗集》Poems of Mirabai的方法与实践"
-trigger_keywords: ["body", "buddhism", "death", "exercise"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-
+trigger_keywords: ["exercise", "《米拉拜诗集》Poems", "of", "Mirabai"]
+cross_refs: []
 ---
 # 《米拉拜诗集》Poems of Mirabai
 

@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽冥想概述 | Yoga Meditation Overview"
-description: "瑜伽冥想概述 | Yoga Meditation Overview的详细解析与实践指南"
+description: "瑜伽冥想概述 | Yoga Meditation Overview —— 冥想 · Yoga Meditation 专题"
 category: "心智与心理学 > 冥想 > Yoga Meditation"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽冥想概述 | Yoga Meditation Overview"
   - "瑜伽冥想概述 | Yoga Meditation Overview的核心概念"
   - "瑜伽冥想概述 | Yoga Meditation Overview的方法与实践"
-trigger_keywords: ["瑜伽冥想概述", "anxiety", "body", "brain", "breathwork"]
+trigger_keywords: ["瑜伽冥想概述", "Yoga", "Meditation", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽经/帕坦伽利/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
+    relation: "瑜伽经/帕坦伽利/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "瑜伽/yoga/瑜伽经"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Yoga_Sutras_Patanjali.md"
+    relation: "瑜伽/瑜伽经/yoga"
 ---
 # 瑜伽冥想概述 | Yoga Meditation Overview
 

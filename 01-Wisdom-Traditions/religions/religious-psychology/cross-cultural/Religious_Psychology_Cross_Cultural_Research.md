@@ -1,7 +1,6 @@
 ---
-
 title: "宗教心理学跨文化比较研究 (Religious Psychology: Cross-Cultural Comparative Studies)"
-description: "宗教心理学跨文化比较研究 (Religious Psychology: Cross-Cultural Comparative Studies)的详细解析与实践指南"
+description: "宗教心理学跨文化比较研究 (Religious Psychology: Cross-Cultural Comparative Studies) —— 宗教心理学 · Cross Cultural 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Cross Cultural"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "宗教心理学跨文化比较研究的核心概念"
   - "宗教心理学跨文化比较研究的方法与实践"
   - "宗教心理学跨文化比较研究的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["宗教心理学跨文化比较研究", "Religious", "Psychology:", "Cross-Cultural", "Comparative"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md"
+    relation: "table/psychology/contents"
+  - path: "02-Mind-Psychology/psychology/developmental/INDEX.md"
+    relation: "发展心理学/psychology/contents"
 ---
 # 宗教心理学跨文化比较研究 (Religious Psychology: Cross-Cultural Comparative Studies)
 

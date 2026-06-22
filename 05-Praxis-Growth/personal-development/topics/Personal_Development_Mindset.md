@@ -1,7 +1,6 @@
 ---
-
 title: "Mindset 终身成长"
-description: "Mindset 终身成长的详细解析与实践指南"
+description: "Mindset 终身成长 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["communication", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mindset 终身成长"
   - "Mindset 终身成长的核心概念"
   - "Mindset 终身成长的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/anxiety/social-anxiety/Social_Anxiety_Overview.md"
-    relation: "communication/neuroscience/personality"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "communication/neuroscience/personality"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "communication/neuroscience/personality"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Daily_Practices.md"
-    relation: "communication/neuroscience/personality"
-  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Therapeutic_Methods.md"
-    relation: "communication/neuroscience/personality"
-
+trigger_keywords: ["Mindset", "终身成长"]
+cross_refs: []
 ---
 # Mindset 终身成长
 

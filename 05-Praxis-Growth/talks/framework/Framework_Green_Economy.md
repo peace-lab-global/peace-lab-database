@@ -1,7 +1,6 @@
 ---
-
 title: "绿色经济 | Green Economy"
-description: "绿色经济 | Green Economy的详细解析与实践指南"
+description: "绿色经济 | Green Economy —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making", "habits", "positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是绿色经济 | Green Economy"
   - "绿色经济 | Green Economy的核心概念"
   - "绿色经济 | Green Economy的方法与实践"
-trigger_keywords: ["绿色经济", "assessment", "decision-making", "developmental", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/productivity/sexuality"
-
+trigger_keywords: ["绿色经济", "decision-making", "exercise"]
+cross_refs: []
 ---
 # 绿色经济 | Green Economy
 

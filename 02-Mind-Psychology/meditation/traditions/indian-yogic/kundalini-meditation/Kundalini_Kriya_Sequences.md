@@ -1,7 +1,6 @@
 ---
-
 title: "昆达里尼 Kriya 实操序列详解"
-description: "昆达里尼 Kriya 实操序列详解的详细解析与实践指南"
+description: "昆达里尼 Kriya 实操序列详解 —— 冥想 · Kundalini Meditation 专题"
 category: "心智与心理学 > 冥想 > Kundalini Meditation"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是昆达里尼 Kriya 实操序列详解"
   - "昆达里尼 Kriya 实操序列详解的核心概念"
   - "昆达里尼 Kriya 实操序列详解的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["昆达里尼", "Kriya", "实操序列详解"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "README.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "01-Wisdom-Traditions/yoga/masters/contemporary/Yogi_Bhajan.md"
+    relation: "kriya/kundalini/bhajan"
 ---
 # 昆达里尼 Kriya 实操序列详解
 

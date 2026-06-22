@@ -1,7 +1,6 @@
 ---
-
 title: "《仁慈》A Mercy"
-description: "《仁慈》A Mercy的详细解析与实践指南"
+description: "《仁慈》A Mercy —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《仁慈》A Mercy"
   - "《仁慈》A Mercy的核心概念"
   - "《仁慈》A Mercy的方法与实践"
-trigger_keywords: ["behavioral", "body", "death", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-
+trigger_keywords: ["《仁慈》A", "Mercy"]
+cross_refs: []
 ---
 # 《仁慈》A Mercy
 

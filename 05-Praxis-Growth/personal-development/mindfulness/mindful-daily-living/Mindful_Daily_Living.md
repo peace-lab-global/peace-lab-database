@@ -1,7 +1,6 @@
 ---
-
 title: "Mindful Daily Living (正念日常实践)"
-description: "Mindful Daily Living (正念日常实践)的详细解析与实践指南"
+description: "Mindful Daily Living (正念日常实践) —— Mindfulness · Mindful Daily Living 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Mindful Daily Living"
   - "Mindful Daily Living的核心概念"
   - "Mindful Daily Living的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "behavioral"]
+trigger_keywords: ["Mindful", "Daily", "Living", "正念日常实践"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "mindful/正念/觉察"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "mindful/正念/觉察"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "正念/觉察/sati"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "正念/觉察/专注"
 ---
 # Mindful Daily Living (正念日常实践)
 

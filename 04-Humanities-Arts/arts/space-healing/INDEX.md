@@ -1,7 +1,6 @@
 ---
-
 title: "建筑空间疗愈 | Space Healing"
-description: "建筑空间疗愈 | Space Healing的详细解析与实践指南"
+description: "建筑空间疗愈 | Space Healing —— 艺术 · 空间疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 空间疗愈"
 tags: ["healing", "therapy", "treatment", "空间疗愈", "art-therapy", "horticultural-therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是建筑空间疗愈 | Space Healing"
   - "建筑空间疗愈 | Space Healing的核心概念"
   - "建筑空间疗愈 | Space Healing的方法与实践"
-trigger_keywords: ["建筑空间疗愈", "healing", "psychology", "therapy", "treatment"]
+trigger_keywords: ["建筑空间疗愈", "healing", "therapy", "treatment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/therapy"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/INDEX.md"
+    relation: "forest-therapy/sensory-nature/horticultural-therapy"
+  - path: "02-Mind-Psychology/psychology/special-topics/home-organization/Space_Design_Principles.md"
+    relation: "space/design"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-space/INDEX.md"
+    relation: "space/design"
 ---
 # 建筑空间疗愈 | Space Healing
 

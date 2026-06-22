@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性焦虑专业术语词典"
-description: "中国社会性焦虑专业术语词典的详细解析与实践指南"
+description: "中国社会性焦虑专业术语词典 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中国社会性焦虑专业术语词典的核心概念"
   - "中国社会性焦虑专业术语词典的方法与实践"
   - "中国社会性焦虑专业术语词典的自助方法"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["中国社会性焦虑专业术语词典"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Assessment_Skill.md"
+    relation: "焦虑/anxiety/恐惧"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "焦虑/恐惧"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/anxiety"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Cognitive_Restructuring_Anxiety.md"
+    relation: "焦虑/恐惧"
 ---
 # 中国社会性焦虑专业术语词典
 

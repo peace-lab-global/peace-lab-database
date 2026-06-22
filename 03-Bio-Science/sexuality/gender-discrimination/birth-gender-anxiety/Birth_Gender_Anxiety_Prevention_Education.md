@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Prevention and Education (生育性别焦虑的预防与教育)"
-description: "Birth Gender Anxiety: Prevention and Education (生育性别焦虑的预防与教育)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Prevention and Education (生育性别焦虑的预防与教育) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Prevention and Education"
   - "Birth Gender Anxiety: Prevention and Education的核心概念"
   - "Birth Gender Anxiety: Prevention and Education的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Prevention", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Prevention_Education.md"
+    relation: "prevention/three-level/education"
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md"
+    relation: "prevention/three-level/early"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/curriculum/Adolescent_Sexuality_Education_13_18.md"
+    relation: "healthcare/education/services"
 ---
 # Birth Gender Anxiety: Prevention and Education (生育性别焦虑的预防与教育)
 

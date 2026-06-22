@@ -1,7 +1,6 @@
 ---
-
 title: "儿童认知发展与学习障碍专业指南"
-description: "儿童认知发展与学习障碍专业指南的详细解析与实践指南"
+description: "儿童认知发展与学习障碍专业指南 —— Child Development Psychology · Cognitive Development 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Cognitive Development"
 tags: ["brain", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是儿童认知发展与学习障碍专业指南"
   - "儿童认知发展与学习障碍专业指南的核心概念"
   - "儿童认知发展与学习障碍专业指南的方法与实践"
-trigger_keywords: ["adolescent", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["儿童认知发展与学习障碍专业指南"]
+cross_refs: []
 ---
 # 儿童认知发展与学习障碍专业指南
 

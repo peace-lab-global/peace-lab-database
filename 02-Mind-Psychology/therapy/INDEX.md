@@ -2,6 +2,7 @@
 title: 心理治疗
 description: 循证心理治疗方法与辅助疗法知识体系
 tags: [therapy, psychotherapy, evidence-based]
+cross_refs: []
 ---
 
 # 心理治疗 (Therapy)

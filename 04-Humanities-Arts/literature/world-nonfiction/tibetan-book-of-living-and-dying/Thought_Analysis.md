@@ -1,7 +1,6 @@
 ---
-
 title: "《西藏生死书》核心思想与观点分析"
-description: "《西藏生死书》核心思想与观点分析的详细解析与实践指南"
+description: "《西藏生死书》核心思想与观点分析 —— World Nonfiction · Tibetan Book Of Living And Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《西藏生死书》核心思想与观点分析"
   - "《西藏生死书》核心思想与观点分析的核心概念"
   - "《西藏生死书》核心思想与观点分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "body"]
+trigger_keywords: ["《西藏生死书》核心思想与观点分析"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "死亡/临终/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
+    relation: "死亡/佛教/力量"
 ---
 # 《西藏生死书》核心思想与观点分析
 

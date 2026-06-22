@@ -1,7 +1,6 @@
 ---
-
 title: "21天行动方案"
-description: "21天行动方案的详细解析与实践指南"
+description: "21天行动方案 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "habits", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是21天行动方案"
   - "21天行动方案的核心概念"
   - "21天行动方案的方法与实践"
-trigger_keywords: ["21天行动方案", "anxiety", "assessment", "cognitive", "habits"]
+trigger_keywords: ["21天行动方案", "habits"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "anxiety/productivity/sexuality"
-
+  - path: "05-Praxis-Growth/writing/Creative_Writing_Practice_Guide.md"
+    relation: "习惯/觉察"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Listening_Guide.md"
+    relation: "习惯/觉察"
+  - path: "05-Praxis-Growth/personal-development/productivity/Execution_Excellence.md"
+    relation: "拖延/习惯"
 ---
 # 21天行动方案
 

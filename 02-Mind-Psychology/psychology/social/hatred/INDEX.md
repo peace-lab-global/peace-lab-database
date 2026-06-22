@@ -1,7 +1,6 @@
 ---
-
 title: "hatred | 仇恨心理学 Index"
-description: "hatred | 仇恨心理学 Index的详细解析与实践指南"
+description: "hatred | 仇恨心理学 Index —— 社会心理学 · Hatred 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
 tags: ["intervention", "neuroscience", "treatment", "心理学"]
 last_updated: "2026-05"
@@ -13,9 +12,8 @@ intent_queries:
   - "hatred | 仇恨心理学 Index的核心概念"
   - "hatred | 仇恨心理学 Index的方法与实践"
   - "hatred | 仇恨心理学 Index的自助方法"
-trigger_keywords: ["hatred", "assessment", "clinical", "intervention", "neuroscience"]
+trigger_keywords: ["hatred", "intervention", "neuroscience"]
 cross_refs: []
-
 ---
 # hatred | 仇恨心理学 Index
 

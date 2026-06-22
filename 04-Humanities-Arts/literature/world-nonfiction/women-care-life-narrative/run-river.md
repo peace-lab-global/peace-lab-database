@@ -1,7 +1,6 @@
 ---
-
 title: "《奔河》Run River"
-description: "《奔河》Run River的详细解析与实践指南"
+description: "《奔河》Run River —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["literature", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《奔河》Run River"
   - "《奔河》Run River的核心概念"
   - "《奔河》Run River的方法与实践"
-trigger_keywords: ["act", "developmental", "exercise", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "attachment/exercise/sexuality"
-
+trigger_keywords: ["exercise", "《奔河》Run", "River"]
+cross_refs: []
 ---
 # 《奔河》Run River
 

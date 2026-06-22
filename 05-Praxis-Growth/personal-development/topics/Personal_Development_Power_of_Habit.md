@@ -1,7 +1,6 @@
 ---
-
 title: "The Power of Habit 习惯的力量"
-description: "The Power of Habit 习惯的力量的详细解析与实践指南"
+description: "The Power of Habit 习惯的力量 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是The Power of Habit 习惯的力量"
   - "The Power of Habit 习惯的力量的核心概念"
   - "The Power of Habit 习惯的力量的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["The", "Power", "of", "Habit", "习惯的力量"]
+cross_refs: []
 ---
 # The Power of Habit 习惯的力量
 

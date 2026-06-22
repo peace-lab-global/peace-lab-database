@@ -1,7 +1,6 @@
 ---
-
 title: "独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation"
-description: "独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation的详细解析与实践指南"
+description: "独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation"
   - "独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation的核心概念"
   - "独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["独处的临床评估与诊断框架", "Clinical", "Assessment", "of", "Solitude:"]
+cross_refs: []
 ---
 # 独处的临床评估与诊断框架 | Clinical Assessment of Solitude: Distinguishing Healthy Solitude from Pathological Isolation
 

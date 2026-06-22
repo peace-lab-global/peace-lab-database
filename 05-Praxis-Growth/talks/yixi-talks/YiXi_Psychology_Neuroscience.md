@@ -1,7 +1,6 @@
 ---
-
 title: "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection"
-description: "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的详细解析与实践指南"
+description: "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的核心概念"
   - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的方法与实践"
   - "一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection的自助方法"
-trigger_keywords: ["adolescent", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Practical_Guide.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["一席心理学与神经科学精选", "YiXi", "Psychology", "Neuroscience", "Collection"]
+cross_refs: []
 ---
 # 一席心理学与神经科学精选 | YiXi Psychology & Neuroscience Collection
 

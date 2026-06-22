@@ -1,7 +1,6 @@
 ---
-
 title: "师生与教练权威情结 (Teacher-Coache Authority Complex)"
-description: "师生与教练权威情结 (Teacher-Coache Authority Complex)的详细解析与实践指南"
+description: "师生与教练权威情结 (Teacher-Coache Authority Complex) —— 性学 · Authority Complex 专题"
 category: "生命科学与生物医学 > 性学 > Authority Complex"
 tags: ["attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是师生与教练权威情结"
   - "师生与教练权威情结的核心概念"
   - "师生与教练权威情结的方法与实践"
-trigger_keywords: ["师生与教练权威情结", "act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["师生与教练权威情结", "Teacher-Coache", "Authority", "Complex"]
+cross_refs: []
 ---
 # 师生与教练权威情结 (Teacher-Coache Authority Complex)
 

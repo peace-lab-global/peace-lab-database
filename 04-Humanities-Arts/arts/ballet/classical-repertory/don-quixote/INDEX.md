@@ -1,7 +1,6 @@
 ---
-
 title: "don-quixote | Index"
-description: "don-quixote | Index的详细解析与实践指南"
+description: "don-quixote | Index —— Classical Repertory · Don Quixote 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Don Quixote"
 tags: ["art-therapy", "芭蕾"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是don-quixote | Index"
   - "don-quixote | Index的核心概念"
   - "don-quixote | Index的方法与实践"
-trigger_keywords: ["Index", "艺术", "芭蕾"]
+trigger_keywords: ["艺术", "芭蕾"]
 cross_refs: []
-
 ---
 # don-quixote | Index
 

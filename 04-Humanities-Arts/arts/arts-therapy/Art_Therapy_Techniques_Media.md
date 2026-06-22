@@ -1,7 +1,6 @@
 ---
-
 title: "绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)"
-description: "绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)的详细解析与实践指南"
+description: "绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed) —— 艺术 · 艺术疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "绘画疗法技法与媒材详解的核心概念"
   - "绘画疗法技法与媒材详解的方法与实践"
   - "绘画疗法技法与媒材详解的循证证据"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["绘画疗法技法与媒材详解", "Art", "Therapy", "Techniques", "Media"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Techniques_Methods.md"
+    relation: "br/techniques/adaptations"
 ---
 # 绘画疗法技法与媒材详解 (Art Therapy Techniques & Media Detailed)
 

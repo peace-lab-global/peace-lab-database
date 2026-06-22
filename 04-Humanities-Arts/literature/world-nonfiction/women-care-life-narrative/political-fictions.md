@@ -1,7 +1,6 @@
 ---
-
 title: "《政治小说》Political Fictions"
-description: "《政治小说》Political Fictions的详细解析与实践指南"
+description: "《政治小说》Political Fictions —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《政治小说》Political Fictions"
   - "《政治小说》Political Fictions的核心概念"
   - "《政治小说》Political Fictions的方法与实践"
-trigger_keywords: ["act", "crisis", "sexuality", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "README.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/sexuality/therapy"
-
+trigger_keywords: ["文学", "《政治小说》Political", "Fictions"]
+cross_refs: []
 ---
 # 《政治小说》Political Fictions
 

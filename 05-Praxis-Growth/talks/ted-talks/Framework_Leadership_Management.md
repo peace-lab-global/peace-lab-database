@@ -1,7 +1,6 @@
 ---
-
 title: "领导力与管理 | Leadership & Management"
-description: "领导力与管理 | Leadership & Management的详细解析与实践指南"
+description: "领导力与管理 | Leadership & Management —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是领导力与管理 | Leadership & Management"
   - "领导力与管理 | Leadership & Management的核心概念"
   - "领导力与管理 | Leadership & Management的方法与实践"
-trigger_keywords: ["领导力与管理", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Somatization.md"
-    relation: "anxiety/cardiovascular/communication"
-
+trigger_keywords: ["领导力与管理", "Leadership", "Management"]
+cross_refs: []
 ---
 # 领导力与管理 | Leadership & Management
 

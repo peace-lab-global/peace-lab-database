@@ -1,7 +1,6 @@
 ---
-
 title: "写作工具与资源大全 | Writing Tools and Resources Compendium"
-description: "写作工具与资源大全 | Writing Tools and Resources Compendium的详细解析与实践指南"
+description: "写作工具与资源大全 | Writing Tools and Resources Compendium —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["calligraphy", "habits", "literature", "music", "productivity", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是写作工具与资源大全 | Writing Tools and Resources Compendium"
   - "写作工具与资源大全 | Writing Tools and Resources Compendium的核心概念"
   - "写作工具与资源大全 | Writing Tools and Resources Compendium的方法与实践"
-trigger_keywords: ["写作工具与资源大全", "art", "brain", "calligraphy", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["写作工具与资源大全", "calligraphy"]
+cross_refs: []
 ---
 # 写作工具与资源大全 | Writing Tools and Resources Compendium
 

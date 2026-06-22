@@ -1,7 +1,6 @@
 ---
-
 title: "《传道书》Ecclesiastes"
-description: "《传道书》Ecclesiastes的详细解析与实践指南"
+description: "《传道书》Ecclesiastes —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《传道书》Ecclesiastes"
   - "《传道书》Ecclesiastes的核心概念"
   - "《传道书》Ecclesiastes的方法与实践"
-trigger_keywords: ["death", "philosophy", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death"
-
+trigger_keywords: ["文学", "《传道书》Ecclesiastes"]
+cross_refs: []
 ---
 # 《传道书》Ecclesiastes
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《自由的神话》The Myth of Freedom"
-description: "《自由的神话》The Myth of Freedom的详细解析与实践指南"
+description: "《自由的神话》The Myth of Freedom —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《自由的神话》The Myth of Freedom"
   - "《自由的神话》The Myth of Freedom的核心概念"
   - "《自由的神话》The Myth of Freedom的方法与实践"
-trigger_keywords: ["buddhism", "psychology", "sexuality", "spirituality"]
+trigger_keywords: ["spirituality", "《自由的神话》The", "Myth", "of", "Freedom"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "gyam/trungpa/ch"
 ---
 # 《自由的神话》The Myth of Freedom
 

@@ -2,6 +2,9 @@
 title: 认知行为体系
 description: CBT 及其衍生流派（第二波/第三波）
 tags: [cbt, act, dbt, cognitive-behavioral]
+cross_refs:
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/疗法"
 ---
 
 # 认知行为体系 (Cognitive-Behavioral)

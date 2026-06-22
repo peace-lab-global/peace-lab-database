@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽哲学流派深度研究 (Yoga Philosophy Schools — Deep Dive)"
-description: "瑜伽哲学流派深度研究 (Yoga Philosophy Schools — Deep Dive)的详细解析与实践指南"
+description: "瑜伽哲学流派深度研究 (Yoga Philosophy Schools — Deep Dive) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["buddhism", "meditation", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽哲学流派深度研究"
   - "瑜伽哲学流派深度研究的核心概念"
   - "瑜伽哲学流派深度研究的方法与实践"
-trigger_keywords: ["瑜伽哲学流派深度研究", "act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["瑜伽哲学流派深度研究", "Yoga", "Philosophy", "Schools", "Deep"]
+cross_refs: []
 ---
 # 瑜伽哲学流派深度研究 (Yoga Philosophy Schools — Deep Dive)
 

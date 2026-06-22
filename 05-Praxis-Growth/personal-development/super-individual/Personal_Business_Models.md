@@ -1,7 +1,6 @@
 ---
-
 title: "个人商业模式 (Personal Business Models)"
-description: "个人商业模式 (Personal Business Models)的详细解析与实践指南"
+description: "个人商业模式 (Personal Business Models) —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["communication", "flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是个人商业模式"
   - "个人商业模式的核心概念"
   - "个人商业模式的方法与实践"
-trigger_keywords: ["个人商业模式", "act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
-    relation: "communication/neuroscience/productivity"
-
+trigger_keywords: ["个人商业模式", "Personal", "Business", "Models"]
+cross_refs: []
 ---
 # 个人商业模式 (Personal Business Models)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Man's Search for Meaning 活出意义来"
-description: "Man's Search for Meaning 活出意义来的详细解析与实践指南"
+description: "Man's Search for Meaning 活出意义来 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["depression", "flow", "freud", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Man's Search for Meaning 活出意义来"
   - "Man's Search for Meaning 活出意义来的核心概念"
   - "Man's Search for Meaning 活出意义来的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "death"]
+trigger_keywords: ["Man's", "Search", "for", "Meaning", "活出意义来"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Psychology_Overview.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/mans-search-for-meaning.md"
+    relation: "意义疗法/search/man"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/mans-search-for-ultimate-meaning.md"
+    relation: "search/意义疗法/meaning"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/the-will-to-meaning.md"
+    relation: "意义疗法/meaning/意义"
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
+    relation: "search/man/book"
 ---
 # Man's Search for Meaning 活出意义来
 

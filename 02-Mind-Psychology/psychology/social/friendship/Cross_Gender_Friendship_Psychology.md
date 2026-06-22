@@ -1,7 +1,6 @@
 ---
-
 title: "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων"
-description: "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的详细解析与实践指南"
+description: "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων —— 社会心理学 · Friendship 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的核心概念"
   - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的方法与实践"
   - "异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων的自助方法"
-trigger_keywords: ["异性友谊心理学", "anxiety", "art", "assessment", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["异性友谊心理学", "Cross-Gender", "Friendship", "Psychology", "Ψυχολογία"]
+cross_refs: []
 ---
 # 异性友谊心理学 | Cross-Gender Friendship Psychology | Ψυχολογία Φιλίας μεταξύ Αντίθετων Φύλων
 

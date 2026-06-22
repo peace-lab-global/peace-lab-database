@@ -1,7 +1,6 @@
 ---
-
 title: "直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης"
-description: "直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης的详细解析与实践指南"
+description: "直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης —— 个人发展 · Live Commerce 专题"
 category: "实践与个人增长 > 个人发展 > Live Commerce"
 tags: ["communication", "decision-making", "eq", "habits", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης"
   - "直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης的核心概念"
   - "直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης的方法与实践"
-trigger_keywords: ["直播带货概览", "assessment", "communication", "crisis", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["直播带货概览", "decision-making"]
+cross_refs: []
 ---
 # 直播带货概览 | Live Streaming E-commerce Overview | Επισκόπηση E-commerce Ζωντανής Μετάδοσης
 

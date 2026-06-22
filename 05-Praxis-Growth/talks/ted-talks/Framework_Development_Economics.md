@@ -1,7 +1,6 @@
 ---
-
 title: "发展经济学 | Development Economics"
-description: "发展经济学 | Development Economics的详细解析与实践指南"
+description: "发展经济学 | Development Economics —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是发展经济学 | Development Economics"
   - "发展经济学 | Development Economics的核心概念"
   - "发展经济学 | Development Economics的方法与实践"
-trigger_keywords: ["发展经济学", "act", "assessment", "behavioral", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/death/sexuality"
-
+trigger_keywords: ["发展经济学", "Development", "Economics"]
+cross_refs: []
 ---
 # 发展经济学 | Development Economics
 

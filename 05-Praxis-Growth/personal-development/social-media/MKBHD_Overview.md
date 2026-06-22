@@ -1,7 +1,6 @@
 ---
-
 title: "MKBHD科技评测专业内容体系 (Marques Brownlee Tech Review Professional Content System)"
-description: "MKBHD科技评测专业内容体系 (Marques Brownlee Tech Review Professional Content System)的详细解析与实践指南"
+description: "MKBHD科技评测专业内容体系 (Marques Brownlee Tech Review Professional Content System) —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "decision-making", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是MKBHD科技评测专业内容体系"
   - "MKBHD科技评测专业内容体系的核心概念"
   - "MKBHD科技评测专业内容体系的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+trigger_keywords: ["MKBHD科技评测专业内容体系", "Marques", "Brownlee", "Tech", "Review"]
+cross_refs: []
 ---
 # MKBHD科技评测专业内容体系 (Marques Brownlee Tech Review Professional Content System)
 

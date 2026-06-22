@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法概览 (Incense Therapy Overview)"
-description: "檀香疗法概览 (Incense Therapy Overview)的详细解析与实践指南"
+description: "檀香疗法概览 (Incense Therapy Overview) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "brain", "adhd"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法概览的核心概念"
   - "檀香疗法概览的方法与实践"
   - "檀香疗法概览的循证证据"
-trigger_keywords: ["檀香疗法概览", "anxiety", "art", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "README.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-relaxation-response.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["檀香疗法概览", "Incense", "Therapy", "Overview"]
+cross_refs: []
 ---
 # 檀香疗法概览 (Incense Therapy Overview)
 

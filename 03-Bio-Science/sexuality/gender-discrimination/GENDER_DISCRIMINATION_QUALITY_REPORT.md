@@ -1,7 +1,6 @@
 ---
-
 title: "Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)"
-description: "Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)的详细解析与实践指南"
+description: "Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["decision-making", "intervention", "productivity", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Gender Discrimination Professional Content System Quality Report"
   - "Gender Discrimination Professional Content System Quality Report的核心概念"
   - "Gender Discrimination Professional Content System Quality Report的方法与实践"
-trigger_keywords: ["act", "assessment", "decision-making", "developmental"]
+trigger_keywords: ["decision-making", "Gender", "Discrimination", "Professional", "Content"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "productivity/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Plotinus.md"
-    relation: "productivity/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Quality_Report.md"
+    relation: "quality/value/completeness"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "quality/completeness/report"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/completeness/system"
 ---
 # Gender Discrimination Professional Content System Quality Report (性别歧视专业内容体系质量报告)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "孤独感缓释与自助策略 (Loneliness Relief & Self-Help Strategies)"
-description: "孤独感缓释与自助策略 (Loneliness Relief & Self-Help Strategies)的详细解析与实践指南"
+description: "孤独感缓释与自助策略 (Loneliness Relief & Self-Help Strategies) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孤独感缓释与自助策略"
   - "孤独感缓释与自助策略的核心概念"
   - "孤独感缓释与自助策略的方法与实践"
-trigger_keywords: ["孤独感缓释与自助策略", "anxiety", "art", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/immune"
-
+trigger_keywords: ["孤独感缓释与自助策略", "Loneliness", "Relief", "Self-Help", "Strategies"]
+cross_refs: []
 ---
 # 孤独感缓释与自助策略 (Loneliness Relief & Self-Help Strategies)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "03-Bio-Science | 生命科学与生物医学"
-description: "03-Bio-Science | 生命科学与生物医学的详细解析与实践指南"
+description: "03-Bio-Science | 生命科学与生物医学 —— 生命科学与生物医学 专题"
 category: "生命科学与生物医学"
 tags: ["aging", "bci", "gut-microbiome", "cardiovascular", "fasting", "breathwork"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是03-Bio-Science | 生命科学与生物医学"
   - "03-Bio-Science | 生命科学与生物医学的核心概念"
   - "03-Bio-Science | 生命科学与生物医学的方法与实践"
-trigger_keywords: ["生命科学与生物医学", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+trigger_keywords: ["生命科学与生物医学", "03-Bio-Science"]
+cross_refs: []
 ---
 # 03-Bio-Science | 生命科学与生物医学
 

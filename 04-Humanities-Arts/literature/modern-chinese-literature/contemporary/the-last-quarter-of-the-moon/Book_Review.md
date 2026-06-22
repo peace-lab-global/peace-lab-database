@@ -1,7 +1,6 @@
 ---
-
 title: "《额尔古纳河右岸》读书笔记与书评"
-description: "《额尔古纳河右岸》读书笔记与书评的详细解析与实践指南"
+description: "《额尔古纳河右岸》读书笔记与书评 —— Contemporary · The Last Quarter Of The Moon 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
 tags: ["grief", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《额尔古纳河右岸》读书笔记与书评"
   - "《额尔古纳河右岸》读书笔记与书评的核心概念"
   - "《额尔古纳河右岸》读书笔记与书评的方法与实践"
-trigger_keywords: ["death", "exercise", "grief", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "death/depression/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "death/depression/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/exercise"
-
+trigger_keywords: ["exercise", "grief"]
+cross_refs: []
 ---
 # 《额尔古纳河右岸》读书笔记与书评
 

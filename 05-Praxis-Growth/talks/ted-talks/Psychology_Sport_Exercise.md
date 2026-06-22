@@ -1,7 +1,6 @@
 ---
-
 title: "运动心理学 | Sport & Exercise Psychology"
-description: "运动心理学 | Sport & Exercise Psychology的详细解析与实践指南"
+description: "运动心理学 | Sport & Exercise Psychology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "运动心理学 | Sport & Exercise Psychology的核心概念"
   - "运动心理学 | Sport & Exercise Psychology的方法与实践"
   - "运动心理学 | Sport & Exercise Psychology的自助方法"
-trigger_keywords: ["运动心理学", "adolescent", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["运动心理学", "Sport", "Exercise", "Psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/depression"
-
+  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
+    relation: "exercise/运动/有氧"
+  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
+    relation: "exercise/运动/science"
 ---
 # 运动心理学 | Sport & Exercise Psychology
 

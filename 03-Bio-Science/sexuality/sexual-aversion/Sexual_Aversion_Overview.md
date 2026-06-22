@@ -1,7 +1,6 @@
 ---
-
 title: "性冷淡心理学专业内容体系"
-description: "性冷淡心理学专业内容体系的详细解析与实践指南"
+description: "性冷淡心理学专业内容体系 —— 性学 · Sexual Aversion 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Aversion"
 tags: ["attachment", "cardiovascular", "sexuality"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "性冷淡心理学专业内容体系的核心概念"
   - "性冷淡心理学专业内容体系的方法与实践"
   - "性冷淡心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/cardiovascular"
-
+trigger_keywords: ["性冷淡心理学专业内容体系"]
+cross_refs: []
 ---
 # 性冷淡心理学专业内容体系
 

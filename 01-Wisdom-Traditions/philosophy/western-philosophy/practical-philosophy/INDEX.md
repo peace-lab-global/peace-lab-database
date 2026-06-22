@@ -1,7 +1,6 @@
 ---
-
 title: "实用哲学 (Practical Philosophy) | Index"
-description: "实用哲学 (Practical Philosophy) | Index的详细解析与实践指南"
+description: "实用哲学 (Practical Philosophy) | Index —— Western Philosophy · Practical Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Practical Philosophy"
 tags: ["philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是实用哲学  | Index"
   - "实用哲学  | Index的核心概念"
   - "实用哲学  | Index的方法与实践"
-trigger_keywords: ["实用哲学", "Index", "act", "philosophy", "哲学"]
-cross_refs: []
-
+trigger_keywords: ["实用哲学", "哲学"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-religions-comparative/a-history-of-western-philosophy.md"
+    relation: "western/philosophy"
 ---
 # 实用哲学 (Practical Philosophy) | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)"
-description: "藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)的详细解析与实践指南"
+description: "藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "grief", "phobia", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是藏传佛教中阴度亡仪轨"
   - "藏传佛教中阴度亡仪轨的核心概念"
   - "藏传佛教中阴度亡仪轨的方法与实践"
-trigger_keywords: ["藏传佛教中阴度亡仪轨", "body", "breathwork", "buddhism", "death"]
+trigger_keywords: ["藏传佛教中阴度亡仪轨", "Tibetan", "Bardo", "Liberation", "Rituals"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "anxiety/buddhism/depression"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Bardo_Teachings.md"
+    relation: "bardo/临终/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Book_Review.md"
+    relation: "bardo/藏传/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/tibetan-book-of-the-dead.md"
+    relation: "bardo/藏传/tibetan"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "临终/藏传/死亡"
 ---
 # 藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)
 

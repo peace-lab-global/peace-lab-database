@@ -1,7 +1,6 @@
 ---
-
 title: "塔拉·布拉赫 (Tara Brach)"
-description: "塔拉·布拉赫 (Tara Brach)的详细解析与实践指南"
+description: "塔拉·布拉赫 (Tara Brach) —— Masters · Contemporary Spiritual 专题"
 category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
 tags: ["addiction", "anxiety", "brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是塔拉·布拉赫"
   - "塔拉·布拉赫的核心概念"
   - "塔拉·布拉赫的方法与实践"
-trigger_keywords: ["塔拉", "布拉赫", "act", "addiction", "anxiety", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["塔拉", "布拉赫"]
+cross_refs: []
 ---
 # 塔拉·布拉赫 (Tara Brach)
 

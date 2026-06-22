@@ -1,7 +1,6 @@
 ---
-
 title: "一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia"
-description: "一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia的详细解析与实践指南"
+description: "一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia"
   - "一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia的核心概念"
   - "一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia的方法与实践"
-trigger_keywords: ["一席演讲全领域资源库", "act", "adolescent", "art", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
-    relation: "emotion/exercise/neuroscience"
-
+trigger_keywords: ["一席演讲全领域资源库", "YiXi", "Talks", "Comprehensive", "Resources"]
+cross_refs: []
 ---
 # 一席演讲全领域资源库 | YiXi Talks Comprehensive Resources | Colloquia YiXi Universalia
 

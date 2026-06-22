@@ -1,7 +1,6 @@
 ---
-
 title: "存在主义哲学经典三方书评"
-description: "存在主义哲学经典三方书评的详细解析与实践指南"
+description: "存在主义哲学经典三方书评 —— 20Th Century · Existentialists 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
 tags: ["philosophy", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是存在主义哲学经典三方书评"
   - "存在主义哲学经典三方书评的核心概念"
   - "存在主义哲学经典三方书评的方法与实践"
-trigger_keywords: ["anxiety", "cognitive", "crisis", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["存在主义哲学经典三方书评"]
+cross_refs: []
 ---
 # 存在主义哲学经典三方书评
 

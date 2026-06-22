@@ -1,7 +1,6 @@
 ---
-
 title: "《双重束缚》The Double Bind"
-description: "《双重束缚》The Double Bind的详细解析与实践指南"
+description: "《双重束缚》The Double Bind —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["spirituality", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《双重束缚》The Double Bind"
   - "《双重束缚》The Double Bind的核心概念"
   - "《双重束缚》The Double Bind的方法与实践"
-trigger_keywords: ["brain", "communication", "sexuality", "spirituality"]
+trigger_keywords: ["spirituality", "《双重束缚》The", "Double", "Bind"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "buddhism/communication/meditation"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_General.md"
+    relation: "bind/double/bateson"
 ---
 # 《双重束缚》The Double Bind
 

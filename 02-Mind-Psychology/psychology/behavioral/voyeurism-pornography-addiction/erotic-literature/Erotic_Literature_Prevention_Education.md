@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)"
-description: "色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)的详细解析与实践指南"
+description: "色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是色情文学成瘾预防教育与社会支持体系"
   - "色情文学成瘾预防教育与社会支持体系的核心概念"
   - "色情文学成瘾预防教育与社会支持体系的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "assessment"]
+trigger_keywords: ["色情文学成瘾预防教育与社会支持体系", "Erotic", "Literature", "Addiction", "Prevention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Prevention_Education.md"
+    relation: "prevention/three-level/education"
 ---
 # 色情文学成瘾预防教育与社会支持体系 (Erotic Literature Addiction Prevention Education and Social Support System)
 

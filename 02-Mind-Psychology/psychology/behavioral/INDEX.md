@@ -1,7 +1,6 @@
 ---
-
 title: "行为与成瘾心理学 (Behavioral & Addiction) | Index"
-description: "行为与成瘾心理学 (Behavioral & Addiction) | Index的详细解析与实践指南"
+description: "行为与成瘾心理学 (Behavioral & Addiction) | Index —— 心理学 · 行为心理 专题"
 category: "心智与心理学 > 心理学 > 行为心理"
 tags: ["addiction", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "行为与成瘾心理学  | Index的核心概念"
   - "行为与成瘾心理学  | Index的方法与实践"
   - "行为与成瘾心理学  | Index的自助方法"
-trigger_keywords: ["行为与成瘾心理学", "Index", "addiction", "behavioral", "psychology", "心理学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Multi_Perspective_Reviews.md"
-    relation: "emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "emotion/productivity"
-
+trigger_keywords: ["行为与成瘾心理学", "心理学"]
+cross_refs: []
 ---
 # 行为与成瘾心理学 (Behavioral & Addiction) | Index
 

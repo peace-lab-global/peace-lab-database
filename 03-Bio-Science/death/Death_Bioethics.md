@@ -1,7 +1,6 @@
 ---
-
 title: "Bioethics of Death & Dying (死亡与临终的生物伦理学)"
-description: "Bioethics of Death & Dying (死亡与临终的生物伦理学)的详细解析与实践指南"
+description: "Bioethics of Death & Dying (死亡与临终的生物伦理学) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Bioethics of Death & Dying"
   - "Bioethics of Death & Dying的核心概念"
   - "Bioethics of Death & Dying的方法与实践"
-trigger_keywords: ["aging", "behavioral", "body", "brain"]
+trigger_keywords: ["Bioethics", "of", "Death", "Dying", "死亡与临终的生物伦理学"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
-    relation: "aging/communication/death"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "aging/communication/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
-    relation: "aging/communication/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "dying/临终/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-art-of-dying.md"
+    relation: "死亡/dying/临终"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/INDEX.md"
+    relation: "dying/死亡/living"
 ---
 # Bioethics of Death & Dying (死亡与临终的生物伦理学)
 

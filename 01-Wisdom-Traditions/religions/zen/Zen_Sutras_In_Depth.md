@@ -1,7 +1,6 @@
 ---
-
 title: "Zen Sutras In Depth (禅宗经典深度解析)"
-description: "Zen Sutras In Depth (禅宗经典深度解析)的详细解析与实践指南"
+description: "Zen Sutras In Depth (禅宗经典深度解析) —— 宗教与灵性 · 禅宗 专题"
 category: "智慧传承 > 宗教与灵性 > 禅宗"
 tags: ["addiction", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Zen Sutras In Depth"
   - "Zen Sutras In Depth的核心概念"
   - "Zen Sutras In Depth的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "behavioral", "body"]
+trigger_keywords: ["Zen", "Sutras", "In", "Depth", "禅宗经典深度解析"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_06_Advanced.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "sutra/platform/禅宗"
 ---
 # Zen Sutras In Depth (禅宗经典深度解析)
 

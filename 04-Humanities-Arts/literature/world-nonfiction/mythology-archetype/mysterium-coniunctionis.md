@@ -1,7 +1,6 @@
 ---
-
 title: "《神秘的合题》Mysterium Coniunctionis"
-description: "《神秘的合题》Mysterium Coniunctionis的详细解析与实践指南"
+description: "《神秘的合题》Mysterium Coniunctionis —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《神秘的合题》Mysterium Coniunctionis"
   - "《神秘的合题》Mysterium Coniunctionis的核心概念"
   - "《神秘的合题》Mysterium Coniunctionis的方法与实践"
-trigger_keywords: ["act", "buddhism", "death", "jung"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Vedanta_Philosophy_Overview.md"
-    relation: "buddhism/death/sexuality"
-
+trigger_keywords: ["jung", "《神秘的合题》Mysterium", "Coniunctionis"]
+cross_refs: []
 ---
 # 《神秘的合题》Mysterium Coniunctionis
 

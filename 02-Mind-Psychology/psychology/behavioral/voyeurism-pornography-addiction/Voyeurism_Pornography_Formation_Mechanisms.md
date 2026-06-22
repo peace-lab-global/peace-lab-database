@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖与色情成瘾形成机制分析 (Formation Mechanisms Analysis of Voyeurism and Pornography Addiction)"
-description: "窥淫癖与色情成瘾形成机制分析 (Formation Mechanisms Analysis of Voyeurism and Pornography Addiction)的详细解析与实践指南"
+description: "窥淫癖与色情成瘾形成机制分析 (Formation Mechanisms Analysis of Voyeurism and Pornography Addiction) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "attachment", "brain", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是窥淫癖与色情成瘾形成机制分析"
   - "窥淫癖与色情成瘾形成机制分析的核心概念"
   - "窥淫癖与色情成瘾形成机制分析的方法与实践"
-trigger_keywords: ["act", "addiction", "assessment", "attachment"]
+trigger_keywords: ["窥淫癖与色情成瘾形成机制分析", "Formation", "Mechanisms", "Analysis", "of"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "attachment/emotion/neuroscience"
   - path: "03-Bio-Science/sexuality/authority-complex/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Research_Framework.md"
-    relation: "attachment/emotion/neuroscience"
-
+    relation: "formation/mechanisms/multilevel"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
+    relation: "bpst/formation/mechanisms"
 ---
 # 窥淫癖与色情成瘾形成机制分析 (Formation Mechanisms Analysis of Voyeurism and Pornography Addiction)
 

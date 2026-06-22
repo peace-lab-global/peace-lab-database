@@ -1,7 +1,6 @@
 ---
-
 title: "色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)"
-description: "色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)的详细解析与实践指南"
+description: "色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety", "mindfulness", "cbt", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是色情成瘾临床应用指南"
   - "色情成瘾临床应用指南的核心概念"
   - "色情成瘾临床应用指南的方法与实践"
-trigger_keywords: ["色情成瘾临床应用指南", "act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["色情成瘾临床应用指南", "Pornography", "Addiction", "Clinical", "Applications"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Parmenides.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/emotion/sexuality"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Clinical_Applications.md"
+    relation: "lgbtq/dsm-/criteria"
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md"
+    relation: "成瘾/icd-/problematic"
 ---
 # 色情成瘾临床应用指南 (Pornography Addiction Clinical Applications Guide)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度"
-description: "Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度的详细解析与实践指南"
+description: "Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度"
   - "Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度的核心概念"
   - "Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["Kate", "Winslet", "专业分析：英国演技派女星的艺术坚持与情感深度"]
+cross_refs: []
 ---
 # Kate Winslet 专业分析：英国演技派女星的艺术坚持与情感深度
 

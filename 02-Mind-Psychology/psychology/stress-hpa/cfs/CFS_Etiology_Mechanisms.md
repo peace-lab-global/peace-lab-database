@@ -1,7 +1,6 @@
 ---
-
 title: "慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)"
-description: "慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)的详细解析与实践指南"
+description: "慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms) —— 压力与HPA轴 · Cfs 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是慢性疲劳综合征病因与机制"
   - "慢性疲劳综合征病因与机制的核心概念"
   - "慢性疲劳综合征病因与机制的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "brain"]
+trigger_keywords: ["慢性疲劳综合征病因与机制", "CFS", "Etiology", "Mechanisms"]
 cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
+    relation: "免疫/炎症/immune"
+  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md"
+    relation: "免疫/微生物组/gut-brain"
+  - path: "03-Bio-Science/biology/immune-inflammation/Immune_System_Overview.md"
+    relation: "免疫/immune/炎症"
+  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
+    relation: "炎症/inflammation/immune"
 ---
 # 慢性疲劳综合征病因与机制 (CFS Etiology & Mechanisms)
 

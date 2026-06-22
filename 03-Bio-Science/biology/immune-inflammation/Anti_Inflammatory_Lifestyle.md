@@ -1,7 +1,6 @@
 ---
-
 title: "抗炎生活方式 (Anti-Inflammatory Lifestyle)"
-description: "抗炎生活方式 (Anti-Inflammatory Lifestyle)的详细解析与实践指南"
+description: "抗炎生活方式 (Anti-Inflammatory Lifestyle) —— 生物学 · 免疫与炎症 专题"
 category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
 tags: ["brain", "cardiovascular", "cbt", "cortisol", "exercise", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是抗炎生活方式"
   - "抗炎生活方式的核心概念"
   - "抗炎生活方式的方法与实践"
-trigger_keywords: ["抗炎生活方式", "behavioral", "brain", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "exercise/immune/neuroscience"
-
+trigger_keywords: ["抗炎生活方式", "cardiovascular"]
+cross_refs: []
 ---
 # 抗炎生活方式 (Anti-Inflammatory Lifestyle)
 

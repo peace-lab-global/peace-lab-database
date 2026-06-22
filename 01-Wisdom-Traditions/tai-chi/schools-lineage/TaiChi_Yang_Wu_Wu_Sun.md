@@ -12,11 +12,7 @@ intent_queries:
   - "五种太极拳流派的区别"
   - "哪种太极拳适合初学者"
 trigger_keywords: ["杨式", "武式", "吴式", "孙式", "流派"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Schools_Styles.md"
-    relation: "five-schools-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/schools-lineage/TaiChi_Chen_Style_Deep.md"
-    relation: "chen-style"
+cross_refs: []
 ---
 # 杨武吴孙四式详解 | Yang, Wu, Wu, Sun Styles
 

@@ -1,7 +1,6 @@
 ---
-
 title: "入睡困难专题：机制、评估与循证干预"
-description: "入睡困难专题：机制、评估与循证干预的详细解析与实践指南"
+description: "入睡困难专题：机制、评估与循证干预 —— 躯体与情绪 · Insomnia 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Insomnia"
 tags: ["anxiety", "brain", "sleep", "cbt", "act", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是入睡困难专题：机制、评估与循证干预"
   - "入睡困难专题：机制、评估与循证干预的核心概念"
   - "入睡困难专题：机制、评估与循证干预的方法与实践"
-trigger_keywords: ["入睡困难专题：机制", "评估与循证干预", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["入睡困难专题：机制", "评估与循证干预"]
+cross_refs: []
 ---
 # 入睡困难专题：机制、评估与循证干预
 

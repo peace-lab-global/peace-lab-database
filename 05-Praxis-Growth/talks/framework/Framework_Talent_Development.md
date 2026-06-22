@@ -1,7 +1,6 @@
 ---
-
 title: "人才发展 | Talent Development"
-description: "人才发展 | Talent Development的详细解析与实践指南"
+description: "人才发展 | Talent Development —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making", "intervention", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人才发展 | Talent Development"
   - "人才发展 | Talent Development的核心概念"
   - "人才发展 | Talent Development的方法与实践"
-trigger_keywords: ["人才发展", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "personality/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "personality/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "personality/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "personality/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "personality/sexuality/therapy"
-
+trigger_keywords: ["人才发展", "Talent", "Development"]
+cross_refs: []
 ---
 # 人才发展 | Talent Development
 

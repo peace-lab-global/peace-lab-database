@@ -13,10 +13,8 @@ intent_queries:
   - "化劲与发劲的原理"
 trigger_keywords: ["发劲", "整劲", "寸劲", "弹抖", "化劲", "内功"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Combat_Applications.md"
-    relation: "combat"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Breathwork_Internal.md"
-    relation: "breathwork"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "jin/internal/太极"
 ---
 # 太极内功与发力 | Tai Chi Internal Power
 

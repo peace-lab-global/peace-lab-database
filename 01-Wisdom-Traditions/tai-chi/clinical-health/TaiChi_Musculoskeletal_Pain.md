@@ -12,9 +12,7 @@ intent_queries:
   - "太极与膝盖疼痛"
   - "太极治疗纤维肌痛"
 trigger_keywords: ["关节炎", "膝痛", "纤维肌痛", "腰背痛", "肩周炎"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
-    relation: "clinical-overview"
+cross_refs: []
 ---
 # 骨骼肌肉与疼痛管理 | Musculoskeletal & Pain Management
 

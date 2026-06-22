@@ -1,7 +1,6 @@
 ---
-
 title: "近代理性主义哲学经典三方书评"
-description: "近代理性主义哲学经典三方书评的详细解析与实践指南"
+description: "近代理性主义哲学经典三方书评 —— Early Modern · Rationalism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
 tags: ["buddhism", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是近代理性主义哲学经典三方书评"
   - "近代理性主义哲学经典三方书评的核心概念"
   - "近代理性主义哲学经典三方书评的方法与实践"
-trigger_keywords: ["body", "brain", "buddhism", "emotion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/neuroscience"
-
+trigger_keywords: ["近代理性主义哲学经典三方书评"]
+cross_refs: []
 ---
 # 近代理性主义哲学经典三方书评
 

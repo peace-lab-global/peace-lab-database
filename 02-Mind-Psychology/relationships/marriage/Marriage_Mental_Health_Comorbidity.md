@@ -1,7 +1,6 @@
 ---
-
 title: "心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)"
-description: "心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)的详细解析与实践指南"
+description: "心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["addiction", "anxiety", "attachment", "brain", "depression", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "心理障碍与婚姻冲突的共病关系的核心概念"
   - "心理障碍与婚姻冲突的共病关系的方法与实践"
   - "心理障碍与婚姻冲突的共病关系的自助方法"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["心理障碍与婚姻冲突的共病关系", "Mental", "Health", "Comorbidity", "Marital"]
+cross_refs: []
 ---
 # 心理障碍与婚姻冲突的共病关系 (Mental Health Comorbidity & Marital Conflict)
 

@@ -1,6 +1,6 @@
 ---
 title: "pragmatism | Index"
-description: "pragmatism | Index的详细解析与实践指南"
+description: "pragmatism | Index —— Modern · Pragmatism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Modern > Pragmatism"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是pragmatism | Index"
   - "pragmatism | Index的核心概念"
   - "pragmatism | Index的方法与实践"
-trigger_keywords: ["pragmatism", "Index", "哲学"]
+trigger_keywords: ["pragmatism", "哲学"]
 cross_refs: []
 ---
 # pragmatism | Index

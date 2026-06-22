@@ -1,7 +1,6 @@
 ---
-
 title: "《慢船去中国》核心思想与观点分析"
-description: "《慢船去中国》核心思想与观点分析的详细解析与实践指南"
+description: "《慢船去中国》核心思想与观点分析 —— Contemporary · Slow Boat To China 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Slow Boat To China"
 tags: ["habits", "literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《慢船去中国》核心思想与观点分析"
   - "《慢船去中国》核心思想与观点分析的核心概念"
   - "《慢船去中国》核心思想与观点分析的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "cognitive"]
+trigger_keywords: ["《慢船去中国》核心思想与观点分析"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "焦虑/创伤"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
+    relation: "焦虑/创伤"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "创伤/焦虑"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "焦虑/创伤"
 ---
 # 《慢船去中国》核心思想与观点分析
 

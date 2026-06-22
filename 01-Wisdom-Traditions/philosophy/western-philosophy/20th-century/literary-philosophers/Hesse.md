@@ -1,7 +1,6 @@
 ---
-
 title: "赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览"
-description: "赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览的详细解析与实践指南"
+description: "赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["buddhism", "healing", "jung"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是赫尔曼·黑塞  - 哲学思想全览"
   - "赫尔曼·黑塞  - 哲学思想全览的核心概念"
   - "赫尔曼·黑塞  - 哲学思想全览的方法与实践"
-trigger_keywords: ["赫尔曼", "anxiety", "art", "breathwork", "buddhism"]
+trigger_keywords: ["赫尔曼", "黑塞", "Hermann", "Hesse", "哲学思想全览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/communication/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/siddhartha.md"
+    relation: "hermann/hesse/siddhartha"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/steppenwolf.md"
+    relation: "hermann/hesse/steppenwolf"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/demian.md"
+    relation: "hermann/hesse/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/narcissus-and-goldmund.md"
+    relation: "hermann/hesse"
 ---
 # 赫尔曼·黑塞 (Hermann Hesse) - 哲学思想全览
 

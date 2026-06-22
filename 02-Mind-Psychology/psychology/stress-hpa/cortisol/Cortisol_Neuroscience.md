@@ -1,7 +1,6 @@
 ---
-
 title: "皮质醇神经科学与脑机制 (Cortisol Neuroscience & Brain Mechanisms)"
-description: "皮质醇神经科学与脑机制 (Cortisol Neuroscience & Brain Mechanisms)的详细解析与实践指南"
+description: "皮质醇神经科学与脑机制 (Cortisol Neuroscience & Brain Mechanisms) —— 压力与HPA轴 · Cortisol 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cortisol"
 tags: ["addiction", "anxiety", "attachment", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是皮质醇神经科学与脑机制"
   - "皮质醇神经科学与脑机制的核心概念"
   - "皮质醇神经科学与脑机制的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["皮质醇神经科学与脑机制", "Cortisol", "Neuroscience", "Brain", "Mechanisms"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
-    relation: "aging/anxiety/communication"
+    relation: "gr/hpa/receptor"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+    relation: "hpa/gr/mr"
 ---
 # 皮质醇神经科学与脑机制 (Cortisol Neuroscience & Brain Mechanisms)
 

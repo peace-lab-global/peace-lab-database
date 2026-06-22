@@ -1,7 +1,6 @@
 ---
-
 title: "Psychological Trauma and Intergenerational Transmission of Gender Discrimination (性别歧视的心理创伤与代际传递)"
-description: "Psychological Trauma and Intergenerational Transmission of Gender Discrimination (性别歧视的心理创伤与代际传递)的详细解析与实践指南"
+description: "Psychological Trauma and Intergenerational Transmission of Gender Discrimination (性别歧视的心理创伤与代际传递) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["attachment", "cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Psychological Trauma and Intergenerational Transmission of Gender Discrimination"
   - "Psychological Trauma and Intergenerational Transmission of Gender Discrimination的核心概念"
   - "Psychological Trauma and Intergenerational Transmission of Gender Discrimination的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Treatment.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/attachment/cardiovascular"
-
+trigger_keywords: ["Psychological", "Trauma", "and", "Intergenerational", "Transmission"]
+cross_refs: []
 ---
 # Psychological Trauma and Intergenerational Transmission of Gender Discrimination (性别歧视的心理创伤与代际传递)
 

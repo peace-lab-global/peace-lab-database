@@ -1,7 +1,6 @@
 ---
-
 title: "勒内·笛卡尔 (René Descartes)"
-description: "勒内·笛卡尔 (René Descartes)的详细解析与实践指南"
+description: "勒内·笛卡尔 (René Descartes) —— Early Modern · Rationalism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
 tags: ["cbt", "healing", "philosophy", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是勒内·笛卡尔"
   - "勒内·笛卡尔的核心概念"
   - "勒内·笛卡尔的方法与实践"
-trigger_keywords: ["勒内", "笛卡尔", "behavioral", "body", "cbt", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "emotion/meditation/sexuality"
-
+trigger_keywords: ["勒内", "笛卡尔", "cbt"]
+cross_refs: []
 ---
 # 勒内·笛卡尔 (René Descartes)
 

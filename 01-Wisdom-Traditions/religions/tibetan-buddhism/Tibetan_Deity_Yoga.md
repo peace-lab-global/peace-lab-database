@@ -1,7 +1,6 @@
 ---
-
 title: "本尊瑜伽 (Deity Yoga / Yidam Practice)"
-description: "本尊瑜伽 (Deity Yoga / Yidam Practice)的详细解析与实践指南"
+description: "本尊瑜伽 (Deity Yoga / Yidam Practice) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "mandala", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是本尊瑜伽"
   - "本尊瑜伽的核心概念"
   - "本尊瑜伽的方法与实践"
-trigger_keywords: ["本尊瑜伽", "act", "behavioral", "body", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["本尊瑜伽", "Deity", "Yoga", "Yidam", "Practice"]
+cross_refs: []
 ---
 # 本尊瑜伽 (Deity Yoga / Yidam Practice)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης"
-description: "技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης的详细解析与实践指南"
+description: "技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης"
   - "技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης的核心概念"
   - "技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης的方法与实践"
-trigger_keywords: ["技术文档生态系统", "act", "aging", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "aging/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Overview.md"
-    relation: "aging/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/productivity/sexuality"
-
+trigger_keywords: ["技术文档生态系统", "Technical", "Documentation", "Ecosystem", "Οικοσύστημα"]
+cross_refs: []
 ---
 # 技术文档生态系统 | Technical Documentation Ecosystem | Οικοσύστημα Τεχνικής Τεκμηρίωσης
 

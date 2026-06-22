@@ -1,7 +1,6 @@
 ---
-
 title: "创新管理 | Innovation Management"
-description: "创新管理 | Innovation Management的详细解析与实践指南"
+description: "创新管理 | Innovation Management —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making", "flow", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是创新管理 | Innovation Management"
   - "创新管理 | Innovation Management的核心概念"
   - "创新管理 | Innovation Management的方法与实践"
-trigger_keywords: ["创新管理", "assessment", "behavioral", "crisis", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Multi_Perspective_Reviews.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "exercise/productivity/sexuality"
-
+trigger_keywords: ["创新管理", "decision-making"]
+cross_refs: []
 ---
 # 创新管理 | Innovation Management
 

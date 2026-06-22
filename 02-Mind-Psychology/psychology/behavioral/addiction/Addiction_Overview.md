@@ -1,7 +1,6 @@
 ---
-
 title: "成瘾概览 (Addiction Overview)"
-description: "成瘾概览 (Addiction Overview)的详细解析与实践指南"
+description: "成瘾概览 (Addiction Overview) —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["addiction", "anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是成瘾概览"
   - "成瘾概览的核心概念"
   - "成瘾概览的方法与实践"
-trigger_keywords: ["成瘾概览", "act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
-    relation: "anxiety/attachment/neuroscience"
-
+trigger_keywords: ["成瘾概览", "Addiction", "Overview"]
+cross_refs: []
 ---
 # 成瘾概览 (Addiction Overview)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "革命与传统的绞杀——白灵、黑娃们的命运"
-description: "革命与传统的绞杀——白灵、黑娃们的命运的详细解析与实践指南"
+description: "革命与传统的绞杀——白灵、黑娃们的命运 —— Contemporary · White Deer Plain 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -14,17 +13,10 @@ intent_queries:
   - "革命与传统的绞杀——白灵、黑娃们的命运的方法与实践"
 trigger_keywords: ["黑娃们的命运", "exercise", "文学"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Criticism_Rejection_Coping.md"
+    relation: "愤怒/vs"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/International_Comparison_Reference.md"
+    relation: "vs/运动"
 ---
 # 革命与传统的绞杀——白灵、黑娃们的命运
 

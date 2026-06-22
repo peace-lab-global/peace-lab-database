@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑自我监测"
-description: "焦虑自我监测的详细解析与实践指南"
+description: "焦虑自我监测 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain", "social", "treatment"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑自我监测的核心概念"
   - "焦虑自我监测的方法与实践"
   - "焦虑自我监测的自助方法"
-trigger_keywords: ["焦虑自我监测", "anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["焦虑自我监测"]
+cross_refs: []
 ---
 # 焦虑自我监测
 

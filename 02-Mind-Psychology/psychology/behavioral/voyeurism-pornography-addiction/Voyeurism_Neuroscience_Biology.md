@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)"
-description: "窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)的详细解析与实践指南"
+description: "窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety", "attachment", "bci", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是窥淫癖神经科学与生物学基础"
   - "窥淫癖神经科学与生物学基础的核心概念"
   - "窥淫癖神经科学与生物学基础的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["窥淫癖神经科学与生物学基础", "Voyeurism", "Neuroscience", "and", "Biology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Neuroscience_Biology.md"
+    relation: "neural/network/neuroanatomical"
 ---
 # 窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)
 

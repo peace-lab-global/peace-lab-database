@@ -1,7 +1,6 @@
 ---
-
 title: "《当尼采哭泣》When Nietzsche Wept"
-description: "《当尼采哭泣》When Nietzsche Wept的详细解析与实践指南"
+description: "《当尼采哭泣》When Nietzsche Wept —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["loneliness", "suicide", "treatment", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《当尼采哭泣》When Nietzsche Wept"
   - "《当尼采哭泣》When Nietzsche Wept的核心概念"
   - "《当尼采哭泣》When Nietzsche Wept的方法与实践"
-trigger_keywords: ["crisis", "loneliness", "philosophy", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "depression/emotion/exercise"
-
+trigger_keywords: ["loneliness", "《当尼采哭泣》When", "Nietzsche", "Wept"]
+cross_refs: []
 ---
 # 《当尼采哭泣》When Nietzsche Wept
 

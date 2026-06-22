@@ -1,7 +1,6 @@
 ---
-
 title: "六妙法门"
-description: "六妙法门的详细解析与实践指南"
+description: "六妙法门 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["sleep", "buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是六妙法门"
   - "六妙法门的核心概念"
   - "六妙法门的方法与实践"
-trigger_keywords: ["六妙法门", "body", "breathwork", "sexuality", "sleep"]
+trigger_keywords: ["六妙法门", "sleep"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Applications.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md"
+    relation: "呼吸/止观"
 ---
 # 六妙法门
 

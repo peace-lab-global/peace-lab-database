@@ -1,7 +1,6 @@
 ---
-
 title: "宠物心理学专业内容体系"
-description: "宠物心理学专业内容体系的详细解析与实践指南"
+description: "宠物心理学专业内容体系 —— 社会心理学 · Pet Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Pet Psychology"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "宠物心理学专业内容体系的核心概念"
   - "宠物心理学专业内容体系的方法与实践"
   - "宠物心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["宠物心理学专业内容体系"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "沟通/依恋"
 ---
 # 宠物心理学专业内容体系
 

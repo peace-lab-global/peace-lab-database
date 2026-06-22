@@ -1,7 +1,6 @@
 ---
-
 title: "孙子 (Sunzi)"
-description: "孙子 (Sunzi)的详细解析与实践指南"
+description: "孙子 (Sunzi) —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["decision-making", "healing", "leadership", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孙子"
   - "孙子的核心概念"
   - "孙子的方法与实践"
-trigger_keywords: ["孙子", "art", "crisis", "decision-making", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["孙子", "decision-making"]
+cross_refs: []
 ---
 # 孙子 (Sunzi)
 

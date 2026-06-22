@@ -1,7 +1,6 @@
 ---
-
 title: "克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special Topic)"
-description: "克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special Topic)的详细解析与实践指南"
+description: "克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special Topic) —— Contemporary · Wheeldon 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary > Wheeldon"
 tags: ["ballet", "literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是克里斯托弗·韦尔顿专题"
   - "克里斯托弗·韦尔顿专题的核心概念"
   - "克里斯托弗·韦尔顿专题的方法与实践"
-trigger_keywords: ["克里斯托弗", "韦尔顿专题", "act", "art", "assessment", "ballet"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["克里斯托弗", "韦尔顿专题", "ballet"]
+cross_refs: []
 ---
 # 克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special Topic)
 

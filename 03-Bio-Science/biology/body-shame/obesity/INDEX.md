@@ -1,6 +1,6 @@
 ---
 title: "obesity | Index"
-description: "obesity | Index的详细解析与实践指南"
+description: "obesity | Index —— 身体羞耻 · Obesity 专题"
 category: "生命科学与生物医学 > 生物学 > 身体羞耻 > Obesity"
 tags: ["生物学", "身体羞耻"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是obesity | Index"
   - "obesity | Index的核心概念"
   - "obesity | Index的方法与实践"
-trigger_keywords: ["obesity", "Index", "生物学", "身体羞耻"]
-cross_refs: []
+trigger_keywords: ["obesity", "生物学", "身体羞耻"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/specialized/INDEX.md"
+    relation: "specialized/contents"
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/INDEX.md"
+    relation: "specialized/contents"
 ---
 # obesity | Index
 

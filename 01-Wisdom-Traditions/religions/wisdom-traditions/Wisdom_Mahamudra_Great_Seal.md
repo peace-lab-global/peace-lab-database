@@ -1,7 +1,6 @@
 ---
-
 title: "Mahamudra (大手印：显实圆融)"
-description: "Mahamudra (大手印：显实圆融)的详细解析与实践指南"
+description: "Mahamudra (大手印：显实圆融) —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["attachment", "cbt", "meditation", "mahamudra", "yoga", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mahamudra"
   - "Mahamudra的核心概念"
   - "Mahamudra的方法与实践"
-trigger_keywords: ["Mahamudra", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["Mahamudra", "大手印：显实圆融"]
+cross_refs: []
 ---
 # Mahamudra (大手印：显实圆融)
 

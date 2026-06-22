@@ -1,7 +1,6 @@
 ---
-
 title: "《存在主义心理治疗》Existential Psychotherapy"
-description: "《存在主义心理治疗》Existential Psychotherapy的详细解析与实践指南"
+description: "《存在主义心理治疗》Existential Psychotherapy —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["addiction", "depression", "freud", "loneliness"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "《存在主义心理治疗》Existential Psychotherapy的核心概念"
   - "《存在主义心理治疗》Existential Psychotherapy的方法与实践"
   - "《存在主义心理治疗》Existential Psychotherapy的循证证据"
-trigger_keywords: ["addiction", "anxiety", "body", "clinical"]
+trigger_keywords: ["《存在主义心理治疗》Existential", "Psychotherapy"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
-    relation: "anxiety/death/depression"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/焦虑/死亡"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/existential/死亡"
+  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
+    relation: "existential/死亡/yalom"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "死亡/存在主义/irvin"
 ---
 # 《存在主义心理治疗》Existential Psychotherapy
 

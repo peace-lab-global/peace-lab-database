@@ -1,7 +1,6 @@
 ---
-
 title: "《许三观卖血记》读书笔记与书评"
-description: "《许三观卖血记》读书笔记与书评的详细解析与实践指南"
+description: "《许三观卖血记》读书笔记与书评 —— Contemporary · Chronicle Of A Blood Merchant 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Chronicle Of A Blood Merchant"
 tags: ["loneliness", "literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是《许三观卖血记》读书笔记与书评"
   - "《许三观卖血记》读书笔记与书评的核心概念"
   - "《许三观卖血记》读书笔记与书评的方法与实践"
-trigger_keywords: ["body", "loneliness", "文学"]
+trigger_keywords: ["loneliness", "文学"]
 cross_refs: []
-
 ---
 # 《许三观卖血记》读书笔记与书评
 

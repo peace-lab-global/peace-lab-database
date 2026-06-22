@@ -1,7 +1,6 @@
 ---
-
 title: "韩国禅（Korean Seon）实修指南"
-description: "韩国禅（Korean Seon）实修指南的详细解析与实践指南"
+description: "韩国禅（Korean Seon）实修指南 —— 冥想 · Korean Seon 专题"
 category: "心智与心理学 > 冥想 > Korean Seon"
 tags: ["anxiety", "brain", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是韩国禅（Korean Seon）实修指南"
   - "韩国禅（Korean Seon）实修指南的核心概念"
   - "韩国禅（Korean Seon）实修指南的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "brain"]
+trigger_keywords: ["韩国禅", "Korean", "Seon", "实修指南"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "README.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
+    relation: "话头/坐禅/默照"
 ---
 # 韩国禅（Korean Seon）实修指南
 

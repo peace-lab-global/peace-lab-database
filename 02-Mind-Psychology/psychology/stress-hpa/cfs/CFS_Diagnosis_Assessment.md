@@ -1,7 +1,6 @@
 ---
-
 title: "慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)"
-description: "慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)的详细解析与实践指南"
+description: "慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment) —— 压力与HPA轴 · Cfs 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
 tags: ["brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是慢性疲劳综合征诊断与评估"
   - "慢性疲劳综合征诊断与评估的核心概念"
   - "慢性疲劳综合征诊断与评估的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/cardiovascular/exercise"
-
+trigger_keywords: ["慢性疲劳综合征诊断与评估", "CFS", "Diagnosis", "Assessment"]
+cross_refs: []
 ---
 # 慢性疲劳综合征诊断与评估 (CFS Diagnosis & Assessment)
 

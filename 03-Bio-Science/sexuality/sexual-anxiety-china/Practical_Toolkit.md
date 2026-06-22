@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑实用工具箱"
-description: "性焦虑实用工具箱的详细解析与实践指南"
+description: "性焦虑实用工具箱 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "性焦虑实用工具箱的核心概念"
   - "性焦虑实用工具箱的方法与实践"
   - "性焦虑实用工具箱的自助方法"
-trigger_keywords: ["性焦虑实用工具箱", "adolescent", "anxiety", "art", "assessment"]
+trigger_keywords: ["性焦虑实用工具箱"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/productivity"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Cognitive_Restructuring_Anxiety.md"
+    relation: "焦虑/认知重构/呼吸"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Daily_Training_Protocol_Anxiety.md"
+    relation: "焦虑/认知重构/呼吸"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Self_Monitoring.md"
+    relation: "焦虑/呼吸"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md"
+    relation: "焦虑/情绪调节/安全计划"
 ---
 # 性焦虑实用工具箱
 

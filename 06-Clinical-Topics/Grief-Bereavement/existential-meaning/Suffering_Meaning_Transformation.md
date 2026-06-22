@@ -1,7 +1,6 @@
 ---
-
 title: "Suffering, Meaning & Transformation (苦难、意义与转化)"
-description: "Suffering, Meaning & Transformation (苦难、意义与转化)的详细解析与实践指南"
+description: "Suffering, Meaning & Transformation (苦难、意义与转化) —— 特殊专题 · Poverty Suffering 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Poverty Suffering"
 tags: ["anxiety", "daoism", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Suffering, Meaning & Transformation"
   - "Suffering, Meaning & Transformation的核心概念"
   - "Suffering, Meaning & Transformation的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "body", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-
+trigger_keywords: ["Suffering", "Meaning", "Transformation", "苦难", "意义与转化"]
+cross_refs: []
 ---
 # Suffering, Meaning & Transformation (苦难、意义与转化)
 

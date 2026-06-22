@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《夜曲》创作背景与心理分析"
-description: "肖邦《夜曲》创作背景与心理分析的详细解析与实践指南"
+description: "肖邦《夜曲》创作背景与心理分析 —— 古典音乐 · Chopin Nocturnes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Nocturnes"
 tags: ["cortisol"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "肖邦《夜曲》创作背景与心理分析的核心概念"
   - "肖邦《夜曲》创作背景与心理分析的方法与实践"
   - "肖邦《夜曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "art", "clinical"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["肖邦《夜曲》创作背景与心理分析"]
+cross_refs: []
 ---
 # 肖邦《夜曲》创作背景与心理分析
 

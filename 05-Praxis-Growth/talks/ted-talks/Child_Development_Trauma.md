@@ -1,7 +1,6 @@
 ---
-
 title: "童年创伤与发展 | Child Development & Trauma"
-description: "童年创伤与发展 | Child Development & Trauma的详细解析与实践指南"
+description: "童年创伤与发展 | Child Development & Trauma —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是童年创伤与发展 | Child Development & Trauma"
   - "童年创伤与发展 | Child Development & Trauma的核心概念"
   - "童年创伤与发展 | Child Development & Trauma的方法与实践"
-trigger_keywords: ["童年创伤与发展", "act", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["童年创伤与发展", "Child", "Development", "Trauma"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "attachment/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/cardiovascular/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
-    relation: "attachment/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "attachment/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Trauma_Resilience.md"
+    relation: "ace/aces/创伤"
 ---
 # 童年创伤与发展 | Child Development & Trauma
 

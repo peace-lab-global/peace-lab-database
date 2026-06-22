@@ -1,7 +1,6 @@
 ---
-
 title: "《我们如何死亡》How We Die"
-description: "《我们如何死亡》How We Die的详细解析与实践指南"
+description: "《我们如何死亡》How We Die —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["immune", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《我们如何死亡》How We Die"
   - "《我们如何死亡》How We Die的核心概念"
   - "《我们如何死亡》How We Die的方法与实践"
-trigger_keywords: ["aging", "clinical", "death", "immune"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/visualization/Loneliness_Chronic_Disease_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/death"
-
+trigger_keywords: ["immune", "《我们如何死亡》How", "We", "Die"]
+cross_refs: []
 ---
 # 《我们如何死亡》How We Die
 

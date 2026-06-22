@@ -1,7 +1,6 @@
 ---
-
 title: "48小时断食完整指南 (48-Hour Fasting Complete Guide)"
-description: "48小时断食完整指南 (48-Hour Fasting Complete Guide)的详细解析与实践指南"
+description: "48小时断食完整指南 (48-Hour Fasting Complete Guide) —— 断食 · Extended Fasting 专题"
 category: "生命科学与生物医学 > 营养学 > 断食 > Extended Fasting"
 tags: ["brain", "cardiovascular", "fasting"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是48小时断食完整指南"
   - "48小时断食完整指南的核心概念"
   - "48小时断食完整指南的方法与实践"
-trigger_keywords: ["48小时断食完整指南", "adolescent", "assessment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/emotion/immune"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/cardiovascular/emotion"
-
+trigger_keywords: ["48小时断食完整指南", "48-Hour", "Fasting", "Complete", "Guide"]
+cross_refs: []
 ---
 # 48小时断食完整指南 (48-Hour Fasting Complete Guide)
 

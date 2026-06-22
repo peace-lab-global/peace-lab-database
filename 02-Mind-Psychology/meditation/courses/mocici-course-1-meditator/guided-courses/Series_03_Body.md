@@ -1,7 +1,6 @@
 ---
-
 title: "系列三：身体觉察系列 | Body Awareness Series"
-description: "系列三：身体觉察系列 | Body Awareness Series的详细解析与实践指南"
+description: "系列三：身体觉察系列 | Body Awareness Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "brain", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列三：身体觉察系列 | Body Awareness Series"
   - "系列三：身体觉察系列 | Body Awareness Series的核心概念"
   - "系列三：身体觉察系列 | Body Awareness Series的方法与实践"
-trigger_keywords: ["系列三：身体觉察系列", "anxiety", "art", "assessment", "body"]
+trigger_keywords: ["系列三：身体觉察系列", "Body", "Awareness", "Series"]
 cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "觉察/身体扫描/mbsr"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "身体扫描/觉察/mbsr"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "mbsr/身体扫描/觉察"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "觉察/身体扫描/冥想"
 ---
 # 系列三：身体觉察系列 | Body Awareness Series
 

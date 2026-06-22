@@ -1,7 +1,6 @@
 ---
-
 title: "舒伯特音乐疗愈 (Schubert Music Therapy)"
-description: "舒伯特音乐疗愈 (Schubert Music Therapy)的详细解析与实践指南"
+description: "舒伯特音乐疗愈 (Schubert Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是舒伯特音乐疗愈"
   - "舒伯特音乐疗愈的核心概念"
   - "舒伯特音乐疗愈的方法与实践"
-trigger_keywords: ["舒伯特音乐疗愈", "act", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["舒伯特音乐疗愈", "Schubert", "Music", "Therapy"]
+cross_refs: []
 ---
 # 舒伯特音乐疗愈 (Schubert Music Therapy)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "职场孤独 (Workplace Loneliness)"
-description: "职场孤独 (Workplace Loneliness)的详细解析与实践指南"
+description: "职场孤独 (Workplace Loneliness) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "brain", "cardiovascular", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场孤独"
   - "职场孤独的核心概念"
   - "职场孤独的方法与实践"
-trigger_keywords: ["职场孤独", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/foods/tea/herbal-tea/Herbal_Tea_Comprehensive.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+trigger_keywords: ["职场孤独", "Workplace", "Loneliness"]
+cross_refs: []
 ---
 # 职场孤独 (Workplace Loneliness)
 

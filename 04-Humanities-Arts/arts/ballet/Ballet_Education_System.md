@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞教育体系 (Ballet Educational System)"
-description: "芭蕾舞教育体系 (Ballet Educational System)的详细解析与实践指南"
+description: "芭蕾舞教育体系 (Ballet Educational System) —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是芭蕾舞教育体系"
   - "芭蕾舞教育体系的核心概念"
   - "芭蕾舞教育体系的方法与实践"
-trigger_keywords: ["芭蕾舞教育体系", "act", "art", "assessment", "ballet"]
+trigger_keywords: ["芭蕾舞教育体系", "ballet"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/exercise/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet/assessment"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet/舞蹈"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/INDEX.md"
+    relation: "educational/faculty/system"
 ---
 # 芭蕾舞教育体系 (Ballet Educational System)
 

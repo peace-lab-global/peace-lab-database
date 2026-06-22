@@ -1,7 +1,6 @@
 ---
-
 title: "nursing | Index"
-description: "nursing | Index的详细解析与实践指南"
+description: "nursing | Index —— Professional Attraction · Nursing 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > Nursing"
 tags: ["个人发展"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是nursing | Index"
   - "nursing | Index的核心概念"
   - "nursing | Index的方法与实践"
-trigger_keywords: ["nursing", "Index", "act", "个人发展"]
+trigger_keywords: ["nursing", "个人发展"]
 cross_refs: []
-
 ---
 # nursing | Index
 

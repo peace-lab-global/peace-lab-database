@@ -1,7 +1,6 @@
 ---
-
 title: "预防医学 | Preventive Medicine"
-description: "预防医学 | Preventive Medicine的详细解析与实践指南"
+description: "预防医学 | Preventive Medicine —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cardiovascular", "gut", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是预防医学 | Preventive Medicine"
   - "预防医学 | Preventive Medicine的核心概念"
   - "预防医学 | Preventive Medicine的方法与实践"
-trigger_keywords: ["预防医学", "aging", "cardiovascular", "clinical", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/cardiovascular/communication"
-
+trigger_keywords: ["预防医学", "cardiovascular"]
+cross_refs: []
 ---
 # 预防医学 | Preventive Medicine
 

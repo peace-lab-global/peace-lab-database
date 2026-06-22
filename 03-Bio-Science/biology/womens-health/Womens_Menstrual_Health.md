@@ -1,7 +1,6 @@
 ---
-
 title: "月经健康 | Menstrual Health"
-description: "月经健康 | Menstrual Health的详细解析与实践指南"
+description: "月经健康 | Menstrual Health —— 生物学 · Womens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Womens Health"
 tags: ["ballet", "cbt", "depression", "hpa-axis"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是月经健康 | Menstrual Health"
   - "月经健康 | Menstrual Health的核心概念"
   - "月经健康 | Menstrual Health的方法与实践"
-trigger_keywords: ["月经健康", "anxiety", "ballet", "behavioral", "cbt"]
+trigger_keywords: ["月经健康", "ballet", "cbt"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Willpower_Instinct.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md"
+    relation: "menstrual/lh/health"
 ---
 # 月经健康 | Menstrual Health
 

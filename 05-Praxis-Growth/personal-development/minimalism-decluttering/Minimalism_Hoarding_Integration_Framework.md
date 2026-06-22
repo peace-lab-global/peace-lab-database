@@ -1,7 +1,6 @@
 ---
-
 title: "从囤积到极简：整合性干预框架 (From Hoarding to Minimalism: Integrated Intervention Framework)"
-description: "从囤积到极简：整合性干预框架 (From Hoarding to Minimalism: Integrated Intervention Framework)的详细解析与实践指南"
+description: "从囤积到极简：整合性干预框架 (From Hoarding to Minimalism: Integrated Intervention Framework) —— 个人发展 · 极简主义 专题"
 category: "实践与个人增长 > 个人发展 > 极简主义"
 tags: ["attachment", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是从囤积到极简：整合性干预框架"
   - "从囤积到极简：整合性干预框架的核心概念"
   - "从囤积到极简：整合性干预框架的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["从囤积到极简：整合性干预框架", "From", "Hoarding", "to", "Minimalism:"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Neuroscience.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
+    relation: "family/家庭治疗/hoarding"
 ---
 # 从囤积到极简：整合性干预框架 (From Hoarding to Minimalism: Integrated Intervention Framework)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "运动科学总览 (Exercise Science Overview)"
-description: "运动科学总览 (Exercise Science Overview)的详细解析与实践指南"
+description: "运动科学总览 (Exercise Science Overview) —— 生物学 · 运动科学 专题"
 category: "生命科学与生物医学 > 生物学 > 运动科学"
 tags: ["addiction", "aging", "nutrition", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是运动科学总览"
   - "运动科学总览的核心概念"
   - "运动科学总览的方法与实践"
-trigger_keywords: ["运动科学总览", "act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/daoism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
-    relation: "aging/cardiovascular/daoism"
-
+trigger_keywords: ["运动科学总览", "Exercise", "Science", "Overview"]
+cross_refs: []
 ---
 # 运动科学总览 (Exercise Science Overview)
 

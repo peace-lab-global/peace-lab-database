@@ -1,7 +1,6 @@
 ---
-
 title: "MBSR 评估工具汇编 | MBSR Assessment Tools"
-description: "MBSR 评估工具汇编 | MBSR Assessment Tools的详细解析与实践指南"
+description: "MBSR 评估工具汇编 | MBSR Assessment Tools —— 冥想 · 正念减压课程 专题"
 category: "心智与心理学 > 冥想 > 正念减压课程"
 tags: ["anxiety", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是MBSR 评估工具汇编 | MBSR Assessment Tools"
   - "MBSR 评估工具汇编 | MBSR Assessment Tools的核心概念"
   - "MBSR 评估工具汇编 | MBSR Assessment Tools的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["MBSR", "评估工具汇编", "Assessment", "Tools"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/正念/reduction"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/mbsr/reduction"
 ---
 # MBSR 评估工具汇编 | MBSR Assessment Tools
 

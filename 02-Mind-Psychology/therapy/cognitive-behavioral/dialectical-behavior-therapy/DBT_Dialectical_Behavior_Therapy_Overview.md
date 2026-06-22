@@ -1,7 +1,6 @@
 ---
-
 title: "辩证行为疗法 (DBT: Dialectical Behavior Therapy)"
-description: "辩证行为疗法 (DBT: Dialectical Behavior Therapy)的详细解析与实践指南"
+description: "辩证行为疗法 (DBT: Dialectical Behavior Therapy) —— 疗法 · Dialectical Behavior Therapy 专题"
 category: "心智与心理学 > 疗法 > Dialectical Behavior Therapy"
 tags: ["addiction", "anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "辩证行为疗法的核心概念"
   - "辩证行为疗法的方法与实践"
   - "辩证行为疗法的循证证据"
-trigger_keywords: ["辩证行为疗法", "addiction", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "GLOSSARY.md"
-    relation: "attachment/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-
+trigger_keywords: ["辩证行为疗法", "DBT:", "Dialectical", "Behavior", "Therapy"]
+cross_refs: []
 ---
 # 辩证行为疗法 (DBT: Dialectical Behavior Therapy)
 

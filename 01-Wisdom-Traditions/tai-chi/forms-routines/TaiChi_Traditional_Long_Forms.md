@@ -12,11 +12,7 @@ intent_queries:
   - "传统太极拳长套路怎么学"
   - "陈式老架一路的结构"
 trigger_keywords: ["85式", "108式", "老架", "长套路", "传统"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/forms-routines/TaiChi_24_Form_Breakdown.md"
-    relation: "24-form"
-  - path: "01-Wisdom-Traditions/tai-chi/schools-lineage/TaiChi_Chen_Style_Deep.md"
-    relation: "chen-style"
+cross_refs: []
 ---
 # 传统长套路 | Traditional Long Forms
 

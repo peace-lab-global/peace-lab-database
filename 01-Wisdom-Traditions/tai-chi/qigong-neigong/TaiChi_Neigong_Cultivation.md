@@ -13,10 +13,8 @@ intent_queries:
   - "丹田修炼方法"
 trigger_keywords: ["内功", "小周天", "大周天", "丹田", "意念"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/qigong-neigong/TaiChi_Qigong_Foundations.md"
-    relation: "qigong-foundations"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Breathwork_Internal.md"
-    relation: "breathwork"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/Taoist_Practical_Guide.md"
+    relation: "周天/冥想/呼吸"
 ---
 # 内功心法 | Neigong Cultivation
 

@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑研究前沿技术整合与发展展望"
-description: "中国社会性压抑研究前沿技术整合与发展展望的详细解析与实践指南"
+description: "中国社会性压抑研究前沿技术整合与发展展望 —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是中国社会性压抑研究前沿技术整合与发展展望"
   - "中国社会性压抑研究前沿技术整合与发展展望的核心概念"
   - "中国社会性压抑研究前沿技术整合与发展展望的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["中国社会性压抑研究前沿技术整合与发展展望"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "ar/ai/vr"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "ai/ar/vr"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/INDEX.md"
+    relation: "ar/ai/vr"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "ai/vr/ar"
 ---
 # 中国社会性压抑研究前沿技术整合与发展展望
 

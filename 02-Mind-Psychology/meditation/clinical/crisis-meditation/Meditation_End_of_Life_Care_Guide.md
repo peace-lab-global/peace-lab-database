@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide"
-description: "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的详细解析与实践指南"
+description: "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide —— 冥想 · Crisis Meditation 专题"
 category: "心智与心理学 > 冥想 > Crisis Meditation"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide"
   - "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的核心概念"
   - "冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
+trigger_keywords: ["冥想与临终关怀专业指南", "Meditation", "End-of-Life", "Care", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "README.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-good-death.md"
+    relation: "临终/hospice/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "临终/死亡/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "临终/death/死亡"
+  - path: "03-Bio-Science/death/Death_Clinical_Workplace_Applications.md"
+    relation: "临终/care/death"
 ---
 # 冥想与临终关怀专业指南 | Meditation & End-of-Life Care Guide
 

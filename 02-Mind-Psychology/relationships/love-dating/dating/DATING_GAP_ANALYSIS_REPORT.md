@@ -1,7 +1,6 @@
 ---
-
 title: "约会与异性交流内容查漏补缺总结报告"
-description: "约会与异性交流内容查漏补缺总结报告的详细解析与实践指南"
+description: "约会与异性交流内容查漏补缺总结报告 —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["decision-making", "人际关系", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是约会与异性交流内容查漏补缺总结报告"
   - "约会与异性交流内容查漏补缺总结报告的核心概念"
   - "约会与异性交流内容查漏补缺总结报告的方法与实践"
-trigger_keywords: ["act", "assessment", "communication", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["decision-making", "约会与异性交流内容查漏补缺总结报告"]
+cross_refs: []
 ---
 # 约会与异性交流内容查漏补缺总结报告
 

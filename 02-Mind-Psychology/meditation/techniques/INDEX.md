@@ -2,6 +2,7 @@
 title: "跨传统冥想技术 | Meditation Techniques"
 category: "心智与心理学 > 冥想 > 技术方法"
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 跨传统冥想技术 | Meditation Techniques

@@ -1,7 +1,6 @@
 ---
-
 title: "《深入生命之心》Into the Heart of Life"
-description: "《深入生命之心》Into the Heart of Life的详细解析与实践指南"
+description: "《深入生命之心》Into the Heart of Life —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["loneliness", "social", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《深入生命之心》Into the Heart of Life"
   - "《深入生命之心》Into the Heart of Life的核心概念"
   - "《深入生命之心》Into the Heart of Life的方法与实践"
-trigger_keywords: ["buddhism", "death", "loneliness", "meditation"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
-    relation: "buddhism/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "buddhism/cardiovascular/death"
-
+trigger_keywords: ["loneliness", "meditation"]
+cross_refs: []
 ---
 # 《深入生命之心》Into the Heart of Life
 

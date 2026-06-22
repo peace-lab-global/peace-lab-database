@@ -1,7 +1,6 @@
 ---
-
 title: "冥想空间设计 Meditation Space Design"
-description: "冥想空间设计 Meditation Space Design的详细解析与实践指南"
+description: "冥想空间设计 Meditation Space Design —— 冥想 · Meditation Space 专题"
 category: "心智与心理学 > 冥想 > Meditation Space"
 tags: ["meditation", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想空间设计 Meditation Space Design"
   - "冥想空间设计 Meditation Space Design的核心概念"
   - "冥想空间设计 Meditation Space Design的方法与实践"
-trigger_keywords: ["art", "buddhism", "meditation", "psychology"]
+trigger_keywords: ["meditation", "冥想空间设计", "Meditation", "Space", "Design"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "buddhism/meditation/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/productivity"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Healing_Architecture.md"
+    relation: "space/design/冥想"
+  - path: "04-Humanities-Arts/arts/space-healing/INDEX.md"
+    relation: "space/design"
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "space/design/冥想"
 ---
 # 冥想空间设计 Meditation Space Design
 

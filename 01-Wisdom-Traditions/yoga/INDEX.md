@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽 (Yoga) | 知识地图"
-description: "瑜伽 (Yoga) | 知识地图的详细解析与实践指南"
+description: "瑜伽 (Yoga) | 知识地图 —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["meditation", "philosophy", "tcm", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是瑜伽  | 知识地图"
   - "瑜伽  | 知识地图的核心概念"
   - "瑜伽  | 知识地图的方法与实践"
-trigger_keywords: ["瑜伽", "知识地图", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["瑜伽", "知识地图"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga/瑜伽经"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽经/瑜伽/yoga"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "呼吸/瑜伽经/瑜伽"
 ---
 # 瑜伽 (Yoga) | 知识地图
 

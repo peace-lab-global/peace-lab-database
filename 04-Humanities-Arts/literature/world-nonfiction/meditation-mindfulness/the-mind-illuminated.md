@@ -1,7 +1,6 @@
 ---
-
 title: "《The Mind Illuminated》"
-description: "《The Mind Illuminated》的详细解析与实践指南"
+description: "《The Mind Illuminated》 —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《The Mind Illuminated》"
   - "《The Mind Illuminated》的核心概念"
   - "《The Mind Illuminated》的方法与实践"
-trigger_keywords: ["body", "brain", "breathwork", "buddhism"]
+trigger_keywords: ["《The", "Mind", "Illuminated》"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md"
+    relation: "mind/冥想"
 ---
 # 《The Mind Illuminated》
 

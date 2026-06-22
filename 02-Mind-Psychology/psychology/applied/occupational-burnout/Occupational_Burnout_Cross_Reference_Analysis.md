@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: Cross-Reference Analysis (职场倦怠：跨主题关联分析)"
-description: "Occupational Burnout: Cross-Reference Analysis (职场倦怠：跨主题关联分析)的详细解析与实践指南"
+description: "Occupational Burnout: Cross-Reference Analysis (职场倦怠：跨主题关联分析) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "brain", "depression", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Occupational Burnout: Cross-Reference Analysis"
   - "Occupational Burnout: Cross-Reference Analysis的核心概念"
   - "Occupational Burnout: Cross-Reference Analysis的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Occupational", "Burnout:", "Cross-Reference", "Analysis", "职场倦怠：跨主题关联分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/焦虑"
+  - path: "05-Praxis-Growth/talks/round-table/Round_Table_Mental_Health.md"
+    relation: "倦怠/burnout/焦虑"
 ---
 # Occupational Burnout: Cross-Reference Analysis (职场倦怠：跨主题关联分析)
 

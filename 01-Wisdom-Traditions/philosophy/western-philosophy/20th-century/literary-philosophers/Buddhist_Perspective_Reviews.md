@@ -1,7 +1,6 @@
 ---
-
 title: "文学哲学家 · 佛法视角三方书评"
-description: "文学哲学家 · 佛法视角三方书评的详细解析与实践指南"
+description: "文学哲学家 · 佛法视角三方书评 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["buddhism", "philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是文学哲学家 · 佛法视角三方书评"
   - "文学哲学家 · 佛法视角三方书评的核心概念"
   - "文学哲学家 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["文学哲学家", "佛法视角三方书评", "anxiety", "body", "buddhism", "literature"]
+trigger_keywords: ["文学哲学家", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "佛教/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教/意义"
 ---
 # 文学哲学家 · 佛法视角三方书评
 

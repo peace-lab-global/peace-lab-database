@@ -1,7 +1,6 @@
 ---
-
 title: "Dante Alighieri (但丁)《神曲》深度分析"
-description: "Dante Alighieri (但丁)《神曲》深度分析的详细解析与实践指南"
+description: "Dante Alighieri (但丁)《神曲》深度分析 —— Authors · Medieval 专题"
 category: "人文与艺术疗愈 > 文学 > Authors > Medieval"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Dante Alighieri 《神曲》深度分析"
   - "Dante Alighieri 《神曲》深度分析的核心概念"
   - "Dante Alighieri 《神曲》深度分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["Dante", "Alighieri", "但丁", "《神曲》深度分析"]
+cross_refs: []
 ---
 # Dante Alighieri (但丁)《神曲》深度分析
 

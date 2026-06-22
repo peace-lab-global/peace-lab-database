@@ -1,7 +1,6 @@
 ---
-
 title: "尼科洛·马基雅维利 (Niccolò Machiavelli)"
-description: "尼科洛·马基雅维利 (Niccolò Machiavelli)的详细解析与实践指南"
+description: "尼科洛·马基雅维利 (Niccolò Machiavelli) —— Early Modern · 文艺复兴 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
 tags: ["decision-making", "healing", "leadership", "philosophy"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是尼科洛·马基雅维利"
   - "尼科洛·马基雅维利的核心概念"
   - "尼科洛·马基雅维利的方法与实践"
-trigger_keywords: ["尼科洛", "马基雅维利", "behavioral", "decision-making", "developmental", "healing"]
+trigger_keywords: ["尼科洛", "马基雅维利", "decision-making", "healing"]
 cross_refs: []
-
 ---
 # 尼科洛·马基雅维利 (Niccolò Machiavelli)
 

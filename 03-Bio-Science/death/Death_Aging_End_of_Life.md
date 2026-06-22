@@ -1,7 +1,6 @@
 ---
-
 title: "Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)"
-description: "Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)的详细解析与实践指南"
+description: "Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Aging & End-of-Life Psychology"
   - "Aging & End-of-Life Psychology的核心概念"
   - "Aging & End-of-Life Psychology的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Aging", "End-of-Life", "Psychology", "老年期死亡焦虑与临终心理"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Psychology_Overview.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/death"
-
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/死亡/end-of-life"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/death/临终"
 ---
 # Aging & End-of-Life Psychology (老年期死亡焦虑与临终心理)
 

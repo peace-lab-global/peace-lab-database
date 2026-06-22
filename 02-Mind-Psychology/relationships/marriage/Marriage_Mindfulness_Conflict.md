@@ -1,7 +1,6 @@
 ---
-
 title: "正念与冥想在婚姻冲突中的应用 (Mindfulness & Meditation in Marital Conflict)"
-description: "正念与冥想在婚姻冲突中的应用 (Mindfulness & Meditation in Marital Conflict)的详细解析与实践指南"
+description: "正念与冥想在婚姻冲突中的应用 (Mindfulness & Meditation in Marital Conflict) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是正念与冥想在婚姻冲突中的应用"
   - "正念与冥想在婚姻冲突中的应用的核心概念"
   - "正念与冥想在婚姻冲突中的应用的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "attachment"]
+trigger_keywords: ["正念与冥想在婚姻冲突中的应用", "Mindfulness", "Meditation", "in", "Marital"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/TED_Talks_Healing_Resources.md"
-    relation: "anxiety/attachment/communication"
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "冲突/conflict/resolution"
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "conflict/冲突/resolution"
 ---
 # 正念与冥想在婚姻冲突中的应用 (Mindfulness & Meditation in Marital Conflict)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "日记的治疗性写作与深度实践 (Journaling - Therapeutic Writing & Deep Practice)"
-description: "日记的治疗性写作与深度实践 (Journaling - Therapeutic Writing & Deep Practice)的详细解析与实践指南"
+description: "日记的治疗性写作与深度实践 (Journaling - Therapeutic Writing & Deep Practice) —— 个人发展 · Journaling 专题"
 category: "实践与个人增长 > 个人发展 > Journaling"
 tags: ["cbt", "depression", "writing"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "日记的治疗性写作与深度实践的核心概念"
   - "日记的治疗性写作与深度实践的方法与实践"
   - "日记的治疗性写作与深度实践的循证证据"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["日记的治疗性写作与深度实践", "Journaling", "Therapeutic", "Writing", "Deep"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
+    relation: "writing/journaling/expressive"
 ---
 # 日记的治疗性写作与深度实践 (Journaling - Therapeutic Writing & Deep Practice)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)"
-description: "藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)的详细解析与实践指南"
+description: "藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed) —— 佛教 · Traditions 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
 tags: ["buddhism", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是藏传金刚乘体系详论"
   - "藏传金刚乘体系详论的核心概念"
   - "藏传金刚乘体系详论的方法与实践"
-trigger_keywords: ["藏传金刚乘体系详论", "act", "behavioral", "body", "buddhism"]
-cross_refs:
-  - path: "README.md"
-    relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/communication/death"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["藏传金刚乘体系详论", "Tibetan", "Vajrayāna", "System", "Detailed"]
+cross_refs: []
 ---
 # 藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)
 

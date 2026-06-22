@@ -1,7 +1,6 @@
 ---
-
 title: "MBSR 项目全景概述 | MBSR Program Overview"
-description: "MBSR 项目全景概述 | MBSR Program Overview的详细解析与实践指南"
+description: "MBSR 项目全景概述 | MBSR Program Overview —— 冥想 · 正念减压课程 专题"
 category: "心智与心理学 > 冥想 > 正念减压课程"
 tags: ["anxiety", "brain", "mbsr", "mindfulness", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是MBSR 项目全景概述 | MBSR Program Overview"
   - "MBSR 项目全景概述 | MBSR Program Overview的核心概念"
   - "MBSR 项目全景概述 | MBSR Program Overview的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["MBSR", "项目全景概述", "Program", "Overview"]
 cross_refs:
   - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/exercise"
-
+    relation: "mbsr/reduction/stress"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "mbsr/jon/kabat-zinn"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/wherever-you-go-there-you-are.md"
+    relation: "mbsr/jon/kabat-zinn"
 ---
 # MBSR 项目全景概述 | MBSR Program Overview
 

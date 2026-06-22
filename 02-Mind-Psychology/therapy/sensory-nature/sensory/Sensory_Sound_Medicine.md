@@ -1,7 +1,6 @@
 ---
-
 title: "Sound Medicine (多维声音医学)"
-description: "Sound Medicine (多维声音医学)的详细解析与实践指南"
+description: "Sound Medicine (多维声音医学) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "brain", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Sound Medicine"
   - "Sound Medicine的核心概念"
   - "Sound Medicine的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "brain"]
+trigger_keywords: ["Sound", "Medicine", "多维声音医学"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/communication"
-
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
+    relation: "bowl/singing/sound"
 ---
 # Sound Medicine (多维声音医学)
 

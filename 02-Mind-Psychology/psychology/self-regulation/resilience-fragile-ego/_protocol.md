@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-Fragile-Ego Agent Skills — 技能协议"
-description: "Anti-Fragile-Ego Agent Skills — 技能协议的详细解析与实践指南"
+description: "Anti-Fragile-Ego Agent Skills — 技能协议 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["decision-making", "habits", "intervention", "resilience", "social", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anti-Fragile-Ego Agent Skills — 技能协议"
   - "Anti-Fragile-Ego Agent Skills — 技能协议的核心概念"
   - "Anti-Fragile-Ego Agent Skills — 技能协议的方法与实践"
-trigger_keywords: ["act", "assessment", "decision-making", "habits"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/productivity"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "depression/emotion/productivity"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "depression/emotion/productivity"
-
+trigger_keywords: ["decision-making", "habits"]
+cross_refs: []
 ---
 # Anti-Fragile-Ego Agent Skills — 技能协议
 

@@ -1,7 +1,6 @@
 ---
-
 title: "隔级沟通与HR升级指南 (Skip-Level Communication & HR Escalation Guide)"
-description: "隔级沟通与HR升级指南 (Skip-Level Communication & HR Escalation Guide)的详细解析与实践指南"
+description: "隔级沟通与HR升级指南 (Skip-Level Communication & HR Escalation Guide) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "personality", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是隔级沟通与HR升级指南"
   - "隔级沟通与HR升级指南的核心概念"
   - "隔级沟通与HR升级指南的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "communication", "emotion"]
+trigger_keywords: ["隔级沟通与HR升级指南", "Skip-Level", "Communication", "HR", "Escalation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "communication/emotion/personality"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
+    relation: "hr/沟通"
 ---
 # 隔级沟通与HR升级指南 (Skip-Level Communication & HR Escalation Guide)
 

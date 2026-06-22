@@ -1,7 +1,6 @@
 ---
-
 title: "安德烈·纪德 (André Gide) - 哲学思想全览"
-description: "安德烈·纪德 (André Gide) - 哲学思想全览的详细解析与实践指南"
+description: "安德烈·纪德 (André Gide) - 哲学思想全览 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["freud", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是安德烈·纪德  - 哲学思想全览"
   - "安德烈·纪德  - 哲学思想全览的核心概念"
   - "安德烈·纪德  - 哲学思想全览的方法与实践"
-trigger_keywords: ["安德烈", "art", "behavioral", "body", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
-    relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "communication/personality/sexuality"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "communication/personality/sexuality"
-
+trigger_keywords: ["安德烈", "纪德", "André", "Gide", "哲学思想全览"]
+cross_refs: []
 ---
 # 安德烈·纪德 (André Gide) - 哲学思想全览
 

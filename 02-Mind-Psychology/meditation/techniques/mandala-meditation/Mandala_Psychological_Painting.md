@@ -1,7 +1,6 @@
 ---
-
 title: "曼陀罗心理绘画专业内容体系"
-description: "曼陀罗心理绘画专业内容体系的详细解析与实践指南"
+description: "曼陀罗心理绘画专业内容体系 —— 冥想 · 坛城冥想 专题"
 category: "心智与心理学 > 冥想 > 坛城冥想"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "曼陀罗心理绘画专业内容体系的核心概念"
   - "曼陀罗心理绘画专业内容体系的方法与实践"
   - "曼陀罗心理绘画专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["曼陀罗心理绘画专业内容体系"]
+cross_refs: []
 ---
 # 曼陀罗心理绘画专业内容体系
 

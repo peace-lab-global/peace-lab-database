@@ -1,7 +1,6 @@
 ---
-
 title: "Lineage & Ritual (宗派、仪式与传承)"
-description: "Lineage & Ritual (宗派、仪式与传承)的详细解析与实践指南"
+description: "Lineage & Ritual (宗派、仪式与传承) —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["healing", "philosophy", "spirituality", "tai-chi", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Lineage & Ritual"
   - "Lineage & Ritual的核心概念"
   - "Lineage & Ritual的方法与实践"
-trigger_keywords: ["cognitive", "healing", "philosophy", "psychology"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/bhagavad-gita.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/world-religions-comparative/the-worlds-religions.md"
-    relation: "buddhism/daoism/meditation"
-
+trigger_keywords: ["healing", "Lineage", "Ritual", "宗派", "仪式与传承"]
+cross_refs: []
 ---
 # Lineage & Ritual (宗派、仪式与传承)
 

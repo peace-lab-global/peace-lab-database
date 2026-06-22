@@ -1,7 +1,6 @@
 ---
-
 title: "粒子物理 | Particle Physics"
-description: "粒子物理 | Particle Physics的详细解析与实践指南"
+description: "粒子物理 | Particle Physics —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "leadership", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是粒子物理 | Particle Physics"
   - "粒子物理 | Particle Physics的核心概念"
   - "粒子物理 | Particle Physics的方法与实践"
-trigger_keywords: ["粒子物理", "body", "communication", "leadership", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+trigger_keywords: ["粒子物理", "leadership"]
+cross_refs: []
 ---
 # 粒子物理 | Particle Physics
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《死亡课》The Death Class"
-description: "《死亡课》The Death Class的详细解析与实践指南"
+description: "《死亡课》The Death Class —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《死亡课》The Death Class"
   - "《死亡课》The Death Class的核心概念"
   - "《死亡课》The Death Class的方法与实践"
-trigger_keywords: ["anxiety", "cognitive", "death", "literature"]
+trigger_keywords: ["《死亡课》The", "Death", "Class"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/死亡/death"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "死亡/临终/death"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "死亡/death/冥想"
 ---
 # 《死亡课》The Death Class
 

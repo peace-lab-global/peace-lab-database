@@ -1,7 +1,6 @@
 ---
-
 title: "心理防御机制与精神胜利法 (Psychological Defense Mechanisms & Spiritual Victory Method)"
-description: "心理防御机制与精神胜利法 (Psychological Defense Mechanisms & Spiritual Victory Method)的详细解析与实践指南"
+description: "心理防御机制与精神胜利法 (Psychological Defense Mechanisms & Spiritual Victory Method) —— 心理学基础 · Overview 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
 tags: ["anxiety", "attachment", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "心理防御机制与精神胜利法的核心概念"
   - "心理防御机制与精神胜利法的方法与实践"
   - "心理防御机制与精神胜利法的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/media/tv/breaking-bad/Breaking_Bad_Therapy_Application_Guide.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["心理防御机制与精神胜利法", "Psychological", "Defense", "Mechanisms", "Spiritual"]
+cross_refs: []
 ---
 # 心理防御机制与精神胜利法 (Psychological Defense Mechanisms & Spiritual Victory Method)
 

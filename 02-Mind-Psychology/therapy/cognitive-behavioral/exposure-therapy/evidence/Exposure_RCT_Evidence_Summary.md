@@ -11,20 +11,9 @@ intent_queries:
   - "什么是暴露疗法 RCT 证据摘要"
   - "暴露疗法 RCT 证据摘要的核心研究"
   - "暴露疗法临床应用与证据等级"
-trigger_keywords: ["exposure", "anxiety", "phobia", "ocd", "ptsd", "habituation", "extinction"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Core_Principles.md"
-    relation: "CBT含暴露疗法成分"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/exposure-therapy/Exposure_Therapy_Overview.md"
-    relation: "暴露疗法概述"
-  - path: "03-Bio-Science/biology/amygdala/Amygdala_Fear_Circuit.md"
-    relation: "恐惧回路神经机制"
-  - path: "02-Mind-Psychology/therapy/emdr/evidence/EMDR_Evidence_Summary.md"
-    relation: "PTSD治疗比较"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "应激反应调节"
+trigger_keywords: ["exposure", "phobia", "ocd", "ptsd", "habituation", "extinction"]
+cross_refs: []
 ---
-
 # 暴露疗法 RCT 证据摘要
 
 > **状态**: 实证 (A级证据)

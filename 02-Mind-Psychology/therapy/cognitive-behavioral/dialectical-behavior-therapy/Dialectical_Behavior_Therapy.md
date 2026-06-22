@@ -1,7 +1,6 @@
 ---
-
 title: "辩证行为疗法 (Dialectical Behavior Therapy, DBT)"
-description: "辩证行为疗法 (Dialectical Behavior Therapy, DBT)的详细解析与实践指南"
+description: "辩证行为疗法 (Dialectical Behavior Therapy, DBT) —— 疗法 · Dialectical Behavior Therapy 专题"
 category: "心智与心理学 > 疗法 > Dialectical Behavior Therapy"
 tags: ["anxiety", "brain", "mindfulness", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "辩证行为疗法的核心概念"
   - "辩证行为疗法的方法与实践"
   - "辩证行为疗法的循证证据"
-trigger_keywords: ["辩证行为疗法", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["辩证行为疗法", "Dialectical", "Behavior", "Therapy", "DBT"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "dbt/疗法/辩证行为"
 ---
 # 辩证行为疗法 (Dialectical Behavior Therapy, DBT)
 

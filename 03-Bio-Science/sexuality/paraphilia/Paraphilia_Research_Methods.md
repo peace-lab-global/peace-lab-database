@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)"
-description: "Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)的详细解析与实践指南"
+description: "Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Paraphilic Disorders: Research Methods & Academic Resources"
   - "Paraphilic Disorders: Research Methods & Academic Resources的核心概念"
   - "Paraphilic Disorders: Research Methods & Academic Resources的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
+trigger_keywords: ["Paraphilic", "Disorders:", "Research", "Methods", "Academic"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
-    relation: "sexuality/therapy"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md"
+    relation: "research/academic/methods"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/methodology"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "research/methods/随机对照"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md"
+    relation: "research/methods/data"
 ---
 # Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)
 

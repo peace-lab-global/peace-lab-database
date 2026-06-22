@@ -1,7 +1,6 @@
 ---
-
 title: "Nutrition & Gut-Brain (肠脑轴与抗炎营养)"
-description: "Nutrition & Gut-Brain (肠脑轴与抗炎营养)的详细解析与实践指南"
+description: "Nutrition & Gut-Brain (肠脑轴与抗炎营养) —— 生命科学与生物医学 · 营养学 专题"
 category: "生命科学与生物医学 > 营养学"
 tags: ["brain", "cortisol", "depression", "nutrition", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Nutrition & Gut-Brain"
   - "Nutrition & Gut-Brain的核心概念"
   - "Nutrition & Gut-Brain的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "brain"]
+trigger_keywords: ["Nutrition", "Gut-Brain", "肠脑轴与抗炎营养"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Gut_Brain_Axis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "肠脑轴/gut-brain/营养"
 ---
 # Nutrition & Gut-Brain (肠脑轴与抗炎营养)
 

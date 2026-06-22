@@ -1,7 +1,6 @@
 ---
-
 title: "唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)"
-description: "唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)的详细解析与实践指南"
+description: "唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是唯识认识论与因明逻辑"
   - "唯识认识论与因明逻辑的核心概念"
   - "唯识认识论与因明逻辑的方法与实践"
-trigger_keywords: ["唯识认识论与因明逻辑", "act", "art", "body", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["唯识认识论与因明逻辑", "Yogācāra", "Epistemology", "Buddhist", "Logic"]
+cross_refs: []
 ---
 # 唯识认识论与因明逻辑 (Yogācāra Epistemology & Buddhist Logic)
 

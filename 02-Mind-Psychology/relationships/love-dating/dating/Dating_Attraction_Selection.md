@@ -1,7 +1,6 @@
 ---
-
 title: "Attraction Laws & Mate Selection Strategies (吸引力法则与择偶策略)"
-description: "Attraction Laws & Mate Selection Strategies (吸引力法则与择偶策略)的详细解析与实践指南"
+description: "Attraction Laws & Mate Selection Strategies (吸引力法则与择偶策略) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Attraction Laws & Mate Selection Strategies"
   - "Attraction Laws & Mate Selection Strategies的核心概念"
   - "Attraction Laws & Mate Selection Strategies的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Fertility_Pregnancy.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Ejaculation_Orgasm_Types.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Attraction", "Laws", "Mate", "Selection", "Strategies"]
+cross_refs: []
 ---
 # Attraction Laws & Mate Selection Strategies (吸引力法则与择偶策略)
 

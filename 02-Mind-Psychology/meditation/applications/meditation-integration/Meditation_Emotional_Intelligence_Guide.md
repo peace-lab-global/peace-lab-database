@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide"
-description: "冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide的详细解析与实践指南"
+description: "冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide —— 冥想 · Meditation Integration 专题"
 category: "心智与心理学 > 冥想 > Meditation Integration"
 tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide"
   - "冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide的核心概念"
   - "冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["冥想与情绪智力", "EQ", "专业指南", "Meditation", "Emotional"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Integration_Practices.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/EI_Overview.md"
+    relation: "eq/intelligence/emotional"
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/INDEX.md"
+    relation: "intelligence/emotional/leadership"
 ---
 # 冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide
 

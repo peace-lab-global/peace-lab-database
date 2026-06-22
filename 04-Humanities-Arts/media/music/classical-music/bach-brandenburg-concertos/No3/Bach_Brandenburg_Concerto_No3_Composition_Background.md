@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析"
-description: "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析的详细解析与实践指南"
+description: "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析 —— Bach Brandenburg Concertos · No3 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Brandenburg Concertos > No3"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析的核心概念"
   - "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析的方法与实践"
   - "巴赫《第三勃兰登堡协奏曲》创作背景与心理分析的自助方法"
-trigger_keywords: ["aging", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/emotion"
-
+trigger_keywords: ["巴赫《第三勃兰登堡协奏曲》创作背景与心理分析"]
+cross_refs: []
 ---
 # 巴赫《第三勃兰登堡协奏曲》创作背景与心理分析
 

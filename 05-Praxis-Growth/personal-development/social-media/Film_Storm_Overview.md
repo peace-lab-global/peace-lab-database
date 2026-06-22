@@ -1,7 +1,6 @@
 ---
-
 title: "影视飓风专业内容体系 (Film Storm Professional Content System)"
-description: "影视飓风专业内容体系 (Film Storm Professional Content System)的详细解析与实践指南"
+description: "影视飓风专业内容体系 (Film Storm Professional Content System) —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "decision-making", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是影视飓风专业内容体系"
   - "影视飓风专业内容体系的核心概念"
   - "影视飓风专业内容体系的方法与实践"
-trigger_keywords: ["影视飓风专业内容体系", "art", "assessment", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["影视飓风专业内容体系", "Film", "Storm", "Professional", "Content"]
+cross_refs: []
 ---
 # 影视飓风专业内容体系 (Film Storm Professional Content System)
 

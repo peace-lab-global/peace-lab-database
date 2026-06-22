@@ -1,7 +1,6 @@
 ---
-
 title: "安迪·普迪科姆 (Andy Puddicombe)"
-description: "安迪·普迪科姆 (Andy Puddicombe)的详细解析与实践指南"
+description: "安迪·普迪科姆 (Andy Puddicombe) —— Masters · Industry Leaders 专题"
 category: "心智与心理学 > 冥想 > Masters > Industry Leaders"
 tags: ["brain", "habits", "sleep", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是安迪·普迪科姆"
   - "安迪·普迪科姆的核心概念"
   - "安迪·普迪科姆的方法与实践"
-trigger_keywords: ["安迪", "普迪科姆", "act", "behavioral", "brain", "buddhism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["安迪", "普迪科姆"]
+cross_refs: []
 ---
 # 安迪·普迪科姆 (Andy Puddicombe)
 

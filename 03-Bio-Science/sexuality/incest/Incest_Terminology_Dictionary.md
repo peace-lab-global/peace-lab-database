@@ -1,7 +1,6 @@
 ---
-
 title: "乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)"
-description: "乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)的详细解析与实践指南"
+description: "乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary) —— 性学 · Incest 专题"
 category: "生命科学与生物医学 > 性学 > Incest"
 tags: ["attachment", "cbt", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是乱伦研究专业术语词典"
   - "乱伦研究专业术语词典的核心概念"
   - "乱伦研究专业术语词典的方法与实践"
-trigger_keywords: ["乱伦研究专业术语词典", "act", "adolescent", "assessment", "attachment"]
+trigger_keywords: ["乱伦研究专业术语词典", "Incest", "Research", "Professional", "Terminology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md"
+    relation: "dictionary/terminology"
 ---
 # 乱伦研究专业术语词典 (Incest Research Professional Terminology Dictionary)
 

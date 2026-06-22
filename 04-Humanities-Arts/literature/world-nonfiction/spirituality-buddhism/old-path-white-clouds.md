@@ -1,7 +1,6 @@
 ---
-
 title: "《故道白云》Old Path White Clouds"
-description: "《故道白云》Old Path White Clouds的详细解析与实践指南"
+description: "《故道白云》Old Path White Clouds —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["pain", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《故道白云》Old Path White Clouds"
   - "《故道白云》Old Path White Clouds的核心概念"
   - "《故道白云》Old Path White Clouds的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/death/meditation"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["《故道白云》Old", "Path", "White", "Clouds"]
+cross_refs: []
 ---
 # 《故道白云》Old Path White Clouds
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Love Breakup & Heartbreak (失恋与情感丧失)"
-description: "Love Breakup & Heartbreak (失恋与情感丧失)的详细解析与实践指南"
+description: "Love Breakup & Heartbreak (失恋与情感丧失) —— 人际关系 · Love 专题"
 category: "心智与心理学 > 人际关系 > Love"
 tags: ["addiction", "anxiety", "attachment", "cbt", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Love Breakup & Heartbreak"
   - "Love Breakup & Heartbreak的核心概念"
   - "Love Breakup & Heartbreak的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/depression"
-  - path: "README.md"
-    relation: "anxiety/attachment/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["Love", "Breakup", "Heartbreak", "失恋与情感丧失"]
+cross_refs: []
 ---
 # Love Breakup & Heartbreak (失恋与情感丧失)
 

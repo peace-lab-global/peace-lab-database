@@ -1,7 +1,6 @@
 ---
-
 title: "大卫·休谟 (David Hume)"
-description: "大卫·休谟 (David Hume)的详细解析与实践指南"
+description: "大卫·休谟 (David Hume) —— Western Philosophy · Enlightenment 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
 tags: ["cbt", "habits", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是大卫·休谟"
   - "大卫·休谟的核心概念"
   - "大卫·休谟的方法与实践"
-trigger_keywords: ["大卫", "休谟", "behavioral", "cbt", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["大卫", "休谟", "cbt"]
+cross_refs: []
 ---
 # 大卫·休谟 (David Hume)
 

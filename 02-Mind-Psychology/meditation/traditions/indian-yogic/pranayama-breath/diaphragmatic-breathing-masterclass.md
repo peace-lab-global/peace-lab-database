@@ -1,7 +1,6 @@
 ---
-
 title: "横膈膜呼吸专业教程：解剖、力学与冥想整合"
-description: "横膈膜呼吸专业教程：解剖、力学与冥想整合的详细解析与实践指南"
+description: "横膈膜呼吸专业教程：解剖、力学与冥想整合 —— 冥想 · Pranayama Breath 专题"
 category: "心智与心理学 > 冥想 > Pranayama Breath"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是横膈膜呼吸专业教程：解剖、力学与冥想整合"
   - "横膈膜呼吸专业教程：解剖、力学与冥想整合的核心概念"
   - "横膈膜呼吸专业教程：解剖、力学与冥想整合的方法与实践"
-trigger_keywords: ["力学与冥想整合", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["力学与冥想整合", "横膈膜呼吸专业教程：解剖"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/conscious-breathing.md"
+    relation: "呼吸/breathing"
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
+    relation: "呼吸/冥想/呼吸法"
 ---
 # 横膈膜呼吸专业教程：解剖、力学与冥想整合
 

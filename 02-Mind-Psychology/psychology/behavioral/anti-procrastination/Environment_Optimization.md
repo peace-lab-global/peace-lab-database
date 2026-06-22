@@ -1,7 +1,6 @@
 ---
-
 title: "环境优化"
-description: "环境优化的详细解析与实践指南"
+description: "环境优化 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["positive-psychology", "social", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是环境优化"
   - "环境优化的核心概念"
   - "环境优化的方法与实践"
-trigger_keywords: ["环境优化", "behavioral", "positive-psychology", "psychology", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["环境优化", "positive-psychology"]
+cross_refs: []
 ---
 # 环境优化
 

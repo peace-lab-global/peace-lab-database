@@ -1,7 +1,6 @@
 ---
-
 title: "清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού"
-description: "清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού的详细解析与实践指南"
+description: "清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού —— 特殊专题 · Home Organization 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Home Organization"
 tags: ["brain", "gut", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού"
   - "清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού的核心概念"
   - "清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού的方法与实践"
-trigger_keywords: ["清洁产品使用指南", "assessment", "brain", "breathwork", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "neuroscience/productivity/sexuality"
-
+trigger_keywords: ["清洁产品使用指南", "Cleaning", "Products", "Usage", "Guide"]
+cross_refs: []
 ---
 # 清洁产品使用指南 | Cleaning Products Usage Guide | Οδηγός Χρήσης Προϊόντων Καθαρισμού
 

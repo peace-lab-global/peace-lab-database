@@ -2,6 +2,7 @@
 title: "性与亲密关系 | Sexuality & Relationships"
 category: "心智与心理学 > 关系 > 性与亲密"
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 性与亲密关系 | Sexuality & Relationships

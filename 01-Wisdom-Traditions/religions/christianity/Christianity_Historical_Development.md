@@ -1,7 +1,6 @@
 ---
-
 title: "基督教历史发展与教派分化 (Christianity Historical Development and Denominational Diversification)"
-description: "基督教历史发展与教派分化 (Christianity Historical Development and Denominational Diversification)的详细解析与实践指南"
+description: "基督教历史发展与教派分化 (Christianity Historical Development and Denominational Diversification) —— 宗教与灵性 · 基督教 专题"
 category: "智慧传承 > 宗教与灵性 > 基督教"
 tags: ["philosophy", "religion", "spirituality", "christianity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是基督教历史发展与教派分化"
   - "基督教历史发展与教派分化的核心概念"
   - "基督教历史发展与教派分化的方法与实践"
-trigger_keywords: ["crisis", "developmental", "exercise", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "exercise/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
-    relation: "exercise/sexuality/trauma"
-
+trigger_keywords: ["exercise", "基督教历史发展与教派分化", "Christianity", "Historical", "Development"]
+cross_refs: []
 ---
 # 基督教历史发展与教派分化 (Christianity Historical Development and Denominational Diversification)
 

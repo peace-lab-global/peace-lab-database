@@ -1,7 +1,6 @@
 ---
-
 title: "青少年心理发展理论与大脑发育专业指南"
-description: "青少年心理发展理论与大脑发育专业指南的详细解析与实践指南"
+description: "青少年心理发展理论与大脑发育专业指南 —— Adolescent Psychology · Development Theory 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Development Theory"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "青少年心理发展理论与大脑发育专业指南的核心概念"
   - "青少年心理发展理论与大脑发育专业指南的方法与实践"
   - "青少年心理发展理论与大脑发育专业指南的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/Bio_Dietary_Pharmacy.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["青少年心理发展理论与大脑发育专业指南"]
+cross_refs: []
 ---
 # 青少年心理发展理论与大脑发育专业指南
 

@@ -1,7 +1,6 @@
 ---
-
 title: "邮件/微信/会议纪要版模板库 (Email, WeChat & Meeting Minutes Templates)"
-description: "邮件/微信/会议纪要版模板库 (Email, WeChat & Meeting Minutes Templates)的详细解析与实践指南"
+description: "邮件/微信/会议纪要版模板库 (Email, WeChat & Meeting Minutes Templates) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "个人发展", "negotiation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是邮件/微信/会议纪要版模板库"
   - "邮件/微信/会议纪要版模板库的核心概念"
   - "邮件/微信/会议纪要版模板库的方法与实践"
-trigger_keywords: ["邮件", "微信", "会议纪要版模板库", "communication", "emotion", "个人发展"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/emotion"
-
+trigger_keywords: ["邮件", "微信", "会议纪要版模板库", "个人发展"]
+cross_refs: []
 ---
 # 邮件/微信/会议纪要版模板库 (Email, WeChat & Meeting Minutes Templates)
 

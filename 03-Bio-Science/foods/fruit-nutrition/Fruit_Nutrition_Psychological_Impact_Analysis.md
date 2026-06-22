@@ -1,7 +1,6 @@
 ---
-
 title: "水果食疗心理影响分析专业内容体系"
-description: "水果食疗心理影响分析专业内容体系的详细解析与实践指南"
+description: "水果食疗心理影响分析专业内容体系 —— 营养学 · Fruit Nutrition 专题"
 category: "生命科学与生物医学 > 营养学 > Fruit Nutrition"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "水果食疗心理影响分析专业内容体系的核心概念"
   - "水果食疗心理影响分析专业内容体系的方法与实践"
   - "水果食疗心理影响分析专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["水果食疗心理影响分析专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "营养/习惯"
 ---
 # 水果食疗心理影响分析专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《给心理治疗师的礼物》The Gift of Therapy"
-description: "《给心理治疗师的礼物》The Gift of Therapy的详细解析与实践指南"
+description: "《给心理治疗师的礼物》The Gift of Therapy —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["suicide", "treatment", "writing"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "《给心理治疗师的礼物》The Gift of Therapy的核心概念"
   - "《给心理治疗师的礼物》The Gift of Therapy的方法与实践"
   - "《给心理治疗师的礼物》The Gift of Therapy的循证证据"
-trigger_keywords: ["act", "behavioral", "clinical", "psychology"]
+trigger_keywords: ["《给心理治疗师的礼物》The", "Gift", "of", "Therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/adolescent-depression/Adolescent_Depression.md"
-    relation: "attachment/communication/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/communication/depression"
-
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "人际关系/亲密关系/智慧"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
+    relation: "人际关系/亲密关系"
 ---
 # 《给心理治疗师的礼物》The Gift of Therapy
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Practitioner Training Q&A (冥想执行师培训问答)"
-description: "Meditation Practitioner Training Q&A (冥想执行师培训问答)的详细解析与实践指南"
+description: "Meditation Practitioner Training Q&A (冥想执行师培训问答) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "attachment", "brain", "mbsr", "mindfulness", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Meditation Practitioner Training Q&A"
   - "Meditation Practitioner Training Q&A的核心概念"
   - "Meditation Practitioner Training Q&A的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Meditation", "Practitioner", "Training", "Q&A", "冥想执行师培训问答"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/瑜伽"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "冥想/觉察/kabat-zinn"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "冥想/觉察/meditation"
 ---
 # Meditation Practitioner Training Q&A (冥想执行师培训问答)
 

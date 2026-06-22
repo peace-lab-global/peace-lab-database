@@ -1,7 +1,6 @@
 ---
-
 title: "《人间是剧场》读书笔记与书评"
-description: "《人间是剧场》读书笔记与书评的详细解析与实践指南"
+description: "《人间是剧场》读书笔记与书评 —— Dzongsar Khyentse · World Is A Playground 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > World Is A Playground"
 tags: ["buddhism", "cinema", "habits", "mindfulness", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《人间是剧场》读书笔记与书评"
   - "《人间是剧场》读书笔记与书评的核心概念"
   - "《人间是剧场》读书笔记与书评的方法与实践"
-trigger_keywords: ["buddhism", "cinema", "death", "habits"]
+trigger_keywords: ["cinema", "habits"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/death"
-  - path: "README.md"
-    relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
-    relation: "communication/death/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/Tibetan_Ngondro_Guide.md"
+    relation: "上师/菩提/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/words-of-my-perfect-teacher.md"
+    relation: "上师/死亡/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "菩提/佛教"
 ---
 # 《人间是剧场》读书笔记与书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "洁癖临床诊断标准专业内容体系"
-description: "洁癖临床诊断标准专业内容体系的详细解析与实践指南"
+description: "洁癖临床诊断标准专业内容体系 —— 临床心理 · Obsessive Compulsive 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Obsessive Compulsive"
 tags: ["anxiety", "brain", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是洁癖临床诊断标准专业内容体系"
   - "洁癖临床诊断标准专业内容体系的核心概念"
   - "洁癖临床诊断标准专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["洁癖临床诊断标准专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
-    relation: "aging/anxiety/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md"
+    relation: "强迫/icd-/障碍"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "强迫/恐惧/焦虑"
 ---
 # 洁癖临床诊断标准专业内容体系
 

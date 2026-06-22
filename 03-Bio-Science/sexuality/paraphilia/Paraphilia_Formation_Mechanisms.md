@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders: Formation Mechanisms Analysis (恋物癖形成机制深度分析)"
-description: "Paraphilic Disorders: Formation Mechanisms Analysis (恋物癖形成机制深度分析)的详细解析与实践指南"
+description: "Paraphilic Disorders: Formation Mechanisms Analysis (恋物癖形成机制深度分析) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["aging", "attachment", "brain", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Paraphilic Disorders: Formation Mechanisms Analysis"
   - "Paraphilic Disorders: Formation Mechanisms Analysis的核心概念"
   - "Paraphilic Disorders: Formation Mechanisms Analysis的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["Paraphilic", "Disorders:", "Formation", "Mechanisms", "Analysis"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "依恋/人格/依恋类型"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "依恋/创伤"
 ---
 # Paraphilic Disorders: Formation Mechanisms Analysis (恋物癖形成机制深度分析)
 

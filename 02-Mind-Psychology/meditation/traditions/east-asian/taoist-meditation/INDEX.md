@@ -1,7 +1,6 @@
 ---
-
 title: "道家冥想"
-description: "道家冥想的详细解析与实践指南"
+description: "道家冥想 —— 冥想 · Taoist Meditation 专题"
 category: "心智与心理学 > 冥想 > Taoist Meditation"
 tags: ["daoism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是道家冥想"
   - "道家冥想的核心概念"
   - "道家冥想的方法与实践"
-trigger_keywords: ["道家冥想", "breathwork", "daoism", "meditation", "psychology"]
+trigger_keywords: ["道家冥想", "daoism", "meditation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "daoism/meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "daoism/meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/INDEX.md"
-    relation: "daoism/meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "daoism/meditation/yoga"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "daoism/meditation/yoga"
-
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
+    relation: "taoist/道家"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
+    relation: "taoist/道家"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "meditation/冥想"
+  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
+    relation: "taoist/道家"
 ---
 # 道家冥想
 

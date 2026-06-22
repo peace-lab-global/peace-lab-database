@@ -1,7 +1,6 @@
 ---
-
 title: "跨文化沟通概述 | Cross-Cultural Communication Overview"
-description: "跨文化沟通概述 | Cross-Cultural Communication Overview的详细解析与实践指南"
+description: "跨文化沟通概述 | Cross-Cultural Communication Overview —— 沟通 · Cross Cultural Communication 专题"
 category: "实践与个人增长 > 沟通 > Cross Cultural Communication"
 tags: ["communication", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是跨文化沟通概述 | Cross-Cultural Communication Overview"
   - "跨文化沟通概述 | Cross-Cultural Communication Overview的核心概念"
   - "跨文化沟通概述 | Cross-Cultural Communication Overview的方法与实践"
-trigger_keywords: ["跨文化沟通概述", "aging", "behavioral", "communication", "developmental"]
+trigger_keywords: ["跨文化沟通概述", "Cross-Cultural", "Communication", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/communication/productivity"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/communication/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/productivity"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/communication/productivity"
-
+  - path: "02-Mind-Psychology/psychology/social/friendship/Cross-cultural_Friendship_Research.md"
+    relation: "hofstede/沟通/cross-cultural"
 ---
 # 跨文化沟通概述 | Cross-Cultural Communication Overview
 

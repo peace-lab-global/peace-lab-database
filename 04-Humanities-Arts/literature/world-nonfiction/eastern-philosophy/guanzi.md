@@ -1,7 +1,6 @@
 ---
-
 title: "《管子》Guanzi"
-description: "《管子》Guanzi的详细解析与实践指南"
+description: "《管子》Guanzi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "intervention", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《管子》Guanzi"
   - "《管子》Guanzi的核心概念"
   - "《管子》Guanzi的方法与实践"
-trigger_keywords: ["《管子》Guanzi", "daoism", "developmental", "exercise", "intervention"]
+trigger_keywords: ["《管子》Guanzi", "daoism", "exercise", "intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/daoism/exercise"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "五行/阴阳"
+  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_YinYang_FiveElements.md"
+    relation: "五行/阴阳"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "阴阳/五行"
 ---
 # 《管子》Guanzi
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《内观实修》The Practice of Vipassana"
-description: "《内观实修》The Practice of Vipassana的详细解析与实践指南"
+description: "《内观实修》The Practice of Vipassana —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《内观实修》The Practice of Vipassana"
   - "《内观实修》The Practice of Vipassana的核心概念"
   - "《内观实修》The Practice of Vipassana的方法与实践"
-trigger_keywords: ["act", "body", "breathwork", "buddhism"]
+trigger_keywords: ["《内观实修》The", "Practice", "of", "Vipassana"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Vipassana_Practice_Guide.md"
+    relation: "内观/vipassana/sayadaw"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "内观/vipassana/佛教"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md"
+    relation: "vipassana/内观/anicca"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Retreat_Guide.md"
+    relation: "内观/vipassana/retreat"
 ---
 # 《内观实修》The Practice of Vipassana
 

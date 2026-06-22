@@ -1,7 +1,6 @@
 ---
-
 title: "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications"
-description: "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的详细解析与实践指南"
+description: "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications —— 艺术 · 戏剧疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 戏剧疗愈"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications"
   - "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的核心概念"
   - "戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["戏剧疗愈临床应用与循证研究", "Drama", "Therapy", "Clinical", "Applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/PTSD_Specialized_Treatment.md"
+    relation: "ptsd/创伤/创伤后应激"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
+    relation: "ptsd/创伤后应激/障碍"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
+    relation: "ptsd/创伤/创伤后应激"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "创伤/创伤后应激/applications"
 ---
 # 戏剧疗愈临床应用与循证研究 | Drama Therapy Clinical Applications
 

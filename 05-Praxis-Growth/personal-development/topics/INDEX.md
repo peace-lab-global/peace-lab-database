@@ -1,7 +1,6 @@
 ---
-
 title: "topics | Index"
-description: "topics | Index的详细解析与实践指南"
+description: "topics | Index —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["个人发展", "habits", "flow"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是topics | Index"
   - "topics | Index的核心概念"
   - "topics | Index的方法与实践"
-trigger_keywords: ["topics", "Index", "个人发展"]
+trigger_keywords: ["topics", "个人发展"]
 cross_refs: []
-
 ---
 # topics | Index
 

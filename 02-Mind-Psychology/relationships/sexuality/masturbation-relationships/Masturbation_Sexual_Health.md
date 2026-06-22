@@ -1,7 +1,6 @@
 ---
-
 title: "Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)"
-description: "Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)的详细解析与实践指南"
+description: "Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系) —— 人际关系 · Masturbation Relationships 专题"
 category: "心智与心理学 > 人际关系 > Masturbation Relationships"
 tags: ["addiction", "anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Masturbation and Sexual-Psychological Health"
   - "Masturbation and Sexual-Psychological Health的核心概念"
   - "Masturbation and Sexual-Psychological Health的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["Masturbation", "and", "Sexual-Psychological", "Health", "自慰与性心理健康的关系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Neuroscience_Physiology.md"
+    relation: "masturbation/sexual/key"
 ---
 # Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Gender Discrimination in China: Overview and Theoretical Foundations (中国性别歧视：概览与理论基础)"
-description: "Gender Discrimination in China: Overview and Theoretical Foundations (中国性别歧视：概览与理论基础)的详细解析与实践指南"
+description: "Gender Discrimination in China: Overview and Theoretical Foundations (中国性别歧视：概览与理论基础) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["death", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Gender Discrimination in China: Overview and Theoretical Foundations"
   - "Gender Discrimination in China: Overview and Theoretical Foundations的核心概念"
   - "Gender Discrimination in China: Overview and Theoretical Foundations的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Gender", "Discrimination", "in", "China:", "Overview"]
+cross_refs: []
 ---
 # Gender Discrimination in China: Overview and Theoretical Foundations (中国性别歧视：概览与理论基础)
 

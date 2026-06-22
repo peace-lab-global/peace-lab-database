@@ -1,7 +1,6 @@
 ---
-
 title: "佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)"
-description: "佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)的详细解析与实践指南"
+description: "佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration) —— 佛教 · 心理学 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "佛教正念与现代心理治疗整合的核心概念"
   - "佛教正念与现代心理治疗整合的方法与实践"
   - "佛教正念与现代心理治疗整合的循证证据"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["佛教正念与现代心理治疗整合", "Buddhist", "Mindfulness", "Modern", "Psychotherapy"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Modern_Psychology_Integration.md"
+    relation: "dbt/mbsr/act"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md"
+    relation: "mbct/疗法/mbsr"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Mindfulness_Approaches.md"
+    relation: "act/mbsr/正念"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/正念/mindfulness"
 ---
 # 佛教正念与现代心理治疗整合 (Buddhist Mindfulness & Modern Psychotherapy Integration)
 

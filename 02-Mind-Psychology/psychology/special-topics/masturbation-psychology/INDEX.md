@@ -1,7 +1,6 @@
 ---
-
 title: "masturbation-psychology | 自慰心理学：心理学理论视角"
-description: "masturbation-psychology | 自慰心理学：心理学理论视角的详细解析与实践指南"
+description: "masturbation-psychology | 自慰心理学：心理学理论视角 —— 特殊专题 · Masturbation Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Masturbation Psychology"
 tags: ["心理学", "特殊专题", "self-regulation"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "masturbation-psychology | 自慰心理学：心理学理论视角的核心概念"
   - "masturbation-psychology | 自慰心理学：心理学理论视角的方法与实践"
   - "masturbation-psychology | 自慰心理学：心理学理论视角的自助方法"
-trigger_keywords: ["behavioral", "clinical", "psychology", "sexuality"]
+trigger_keywords: ["masturbation-psychology", "自慰心理学：心理学理论视角"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Mencius.md"
-    relation: "emotion/sexuality"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/INDEX.md"
+    relation: "masturbation/masturbation-psychology/contents"
 ---
 # masturbation-psychology | 自慰心理学：心理学理论视角
 

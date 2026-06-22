@@ -1,7 +1,6 @@
 ---
-
 title: "失眠临床诊断标准专业内容体系"
-description: "失眠临床诊断标准专业内容体系的详细解析与实践指南"
+description: "失眠临床诊断标准专业内容体系 —— 躯体与情绪 · Insomnia 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Insomnia"
 tags: ["anxiety", "brain", "depression", "sleep", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是失眠临床诊断标准专业内容体系"
   - "失眠临床诊断标准专业内容体系的核心概念"
   - "失眠临床诊断标准专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["失眠临床诊断标准专业内容体系"]
+cross_refs: []
 ---
 # 失眠临床诊断标准专业内容体系
 

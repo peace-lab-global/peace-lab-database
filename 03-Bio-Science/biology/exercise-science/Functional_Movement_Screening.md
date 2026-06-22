@@ -1,7 +1,6 @@
 ---
-
 title: "功能性动作筛查 (Functional Movement Screening)"
-description: "功能性动作筛查 (Functional Movement Screening)的详细解析与实践指南"
+description: "功能性动作筛查 (Functional Movement Screening) —— 生物学 · 运动科学 专题"
 category: "生命科学与生物医学 > 生物学 > 运动科学"
 tags: ["exercise", "pain", "resilience", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是功能性动作筛查"
   - "功能性动作筛查的核心概念"
   - "功能性动作筛查的方法与实践"
-trigger_keywords: ["功能性动作筛查", "act", "assessment", "body", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "exercise/pain/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "exercise/pain/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/masters/industry-leaders/Adriene_Mishler.md"
-    relation: "exercise/pain/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "exercise/pain/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "exercise/pain/sexuality"
-
+trigger_keywords: ["功能性动作筛查", "exercise"]
+cross_refs: []
 ---
 # 功能性动作筛查 (Functional Movement Screening)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing"
-description: "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的详细解析与实践指南"
+description: "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: ["gut", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing"
   - "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的核心概念"
   - "阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing的方法与实践"
-trigger_keywords: ["阴阳五行学说", "act", "brain", "clinical", "developmental"]
+trigger_keywords: ["阴阳五行学说", "Yin-Yang", "and", "Five", "Elements"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "exercise/immune/neuroscience"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "阴阳/五行/neijing"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "阴阳/五行"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/guanzi.md"
+    relation: "阴阳/五行"
 ---
 # 阴阳五行学说 | Yin-Yang and Five Elements Theory in Neijing
 

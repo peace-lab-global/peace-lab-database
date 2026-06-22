@@ -1,7 +1,6 @@
 ---
-
 title: "职场霸凌/歧视取证与申诉流程 (Workplace Bullying & Discrimination Evidence and Complaint Guide)"
-description: "职场霸凌/歧视取证与申诉流程 (Workplace Bullying & Discrimination Evidence and Complaint Guide)的详细解析与实践指南"
+description: "职场霸凌/歧视取证与申诉流程 (Workplace Bullying & Discrimination Evidence and Complaint Guide) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "ocd", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场霸凌/歧视取证与申诉流程"
   - "职场霸凌/歧视取证与申诉流程的核心概念"
   - "职场霸凌/歧视取证与申诉流程的方法与实践"
-trigger_keywords: ["职场霸凌", "歧视取证与申诉流程", "assessment", "behavioral", "body", "communication"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["职场霸凌", "歧视取证与申诉流程"]
+cross_refs: []
 ---
 # 职场霸凌/歧视取证与申诉流程 (Workplace Bullying & Discrimination Evidence and Complaint Guide)
 

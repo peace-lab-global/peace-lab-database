@@ -1,6 +1,6 @@
 ---
 title: "强迫症治疗"
-description: "强迫症治疗的详细解析与实践指南"
+description: "强迫症治疗 —— 心理学基础 · Ocd 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Ocd"
 tags: ["ocd", "treatment", "心理学", "心理学基础"]
 last_updated: "2026-05"

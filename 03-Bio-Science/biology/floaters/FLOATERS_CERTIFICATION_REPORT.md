@@ -1,7 +1,6 @@
 ---
-
 title: "飞蚊症专业内容体系质量认证报告"
-description: "飞蚊症专业内容体系质量认证报告的详细解析与实践指南"
+description: "飞蚊症专业内容体系质量认证报告 —— 生物学 · 飞蚊症 专题"
 category: "生命科学与生物医学 > 生物学 > 飞蚊症"
 tags: ["decision-making", "sexuality", "treatment", "生物学", "飞蚊症"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是飞蚊症专业内容体系质量认证报告"
   - "飞蚊症专业内容体系质量认证报告的核心概念"
   - "飞蚊症专业内容体系质量认证报告的方法与实践"
-trigger_keywords: ["assessment", "clinical", "decision-making", "developmental"]
+trigger_keywords: ["decision-making", "飞蚊症专业内容体系质量认证报告"]
 cross_refs: []
-
 ---
 # 飞蚊症专业内容体系质量认证报告
 (Floaters Professional Content Quality Certification Report)

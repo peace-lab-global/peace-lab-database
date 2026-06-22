@@ -1,6 +1,6 @@
 ---
 title: "digital-hoarding | Index"
-description: "digital-hoarding | Index的详细解析与实践指南"
+description: "digital-hoarding | Index —— 行为心理 · Digital Hoarding 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Digital Hoarding"
 tags: ["心理学", "行为心理"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是digital-hoarding | Index"
   - "digital-hoarding | Index的核心概念"
   - "digital-hoarding | Index的方法与实践"
-trigger_keywords: ["Index", "心理学", "行为心理"]
-cross_refs: []
+trigger_keywords: ["心理学", "行为心理"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/INDEX.md"
+    relation: "hoarding/comparison/contents"
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Hoarding_Comparison.md"
+    relation: "hoarding/comparison/treatment"
 ---
 # digital-hoarding | Index
 

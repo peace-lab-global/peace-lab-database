@@ -1,7 +1,6 @@
 ---
-
 title: "常见强迫类型应对"
-description: "常见强迫类型应对的详细解析与实践指南"
+description: "常见强迫类型应对 —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["anxiety", "immune", "ocd", "religion", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是常见强迫类型应对"
   - "常见强迫类型应对的核心概念"
   - "常见强迫类型应对的方法与实践"
-trigger_keywords: ["常见强迫类型应对", "act", "anxiety", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/practice-technique/Yoga_Shatkarma_Cleansing.md"
-    relation: "anxiety/emotion/immune"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/immune"
-  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
-    relation: "anxiety/emotion/immune"
-
+trigger_keywords: ["常见强迫类型应对"]
+cross_refs: []
 ---
 # 常见强迫类型应对
 

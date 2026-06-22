@@ -1,7 +1,6 @@
 ---
-
 title: "《佛陀的大脑》Buddha's Brain"
-description: "《佛陀的大脑》Buddha's Brain的详细解析与实践指南"
+description: "《佛陀的大脑》Buddha's Brain —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《佛陀的大脑》Buddha's Brain"
   - "《佛陀的大脑》Buddha's Brain的核心概念"
   - "《佛陀的大脑》Buddha's Brain的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+trigger_keywords: ["《佛陀的大脑》Buddha's", "Brain"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "anxiety/depression/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Rick_Hanson.md"
+    relation: "rick/hanson/冥想"
 ---
 # 《佛陀的大脑》Buddha's Brain
 

@@ -13,8 +13,8 @@ intent_queries:
   - "线上太极教学"
 trigger_keywords: ["课程", "教学", "方案", "线上", "培训"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/teaching-pedagogy/TaiChi_Teaching_Methodology.md"
-    relation: "teaching-method"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/INDEX.md"
+    relation: "curriculum/design"
 ---
 # 课程设计 | Curriculum Design
 

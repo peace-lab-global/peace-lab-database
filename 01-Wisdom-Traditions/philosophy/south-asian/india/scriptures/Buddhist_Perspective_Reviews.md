@@ -1,7 +1,6 @@
 ---
-
 title: "印度哲学经典 · 佛法视角三方书评"
-description: "印度哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "印度哲学经典 · 佛法视角三方书评 —— India · Scriptures 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
 tags: ["buddhism", "philosophy", "yoga", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是印度哲学经典 · 佛法视角三方书评"
   - "印度哲学经典 · 佛法视角三方书评的核心概念"
   - "印度哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["印度哲学经典", "佛法视角三方书评", "behavioral", "body", "buddhism", "emotion"]
+trigger_keywords: ["印度哲学经典", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
-    relation: "buddhism/emotion/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "佛法/佛教/菩提"
 ---
 # 印度哲学经典 · 佛法视角三方书评
 

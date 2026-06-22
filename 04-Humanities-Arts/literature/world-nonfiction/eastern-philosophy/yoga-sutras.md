@@ -1,7 +1,6 @@
 ---
-
 title: "《瑜伽经》Yoga Sutras"
-description: "《瑜伽经》Yoga Sutras的详细解析与实践指南"
+description: "《瑜伽经》Yoga Sutras —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《瑜伽经》Yoga Sutras"
   - "《瑜伽经》Yoga Sutras的核心概念"
   - "《瑜伽经》Yoga Sutras的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+trigger_keywords: ["《瑜伽经》Yoga", "Sutras"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽经/帕坦伽利/瑜伽"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/INDEX.md"
+    relation: "瑜伽经/sutras/帕坦伽利"
+  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
+    relation: "瑜伽经/帕坦伽利/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
+    relation: "瑜伽经/瑜伽/yoga"
 ---
 # 《瑜伽经》Yoga Sutras
 

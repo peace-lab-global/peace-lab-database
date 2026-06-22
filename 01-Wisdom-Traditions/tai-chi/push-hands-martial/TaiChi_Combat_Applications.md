@@ -12,11 +12,7 @@ intent_queries:
   - "太极拳怎么用实战"
   - "太极散手训练"
 trigger_keywords: ["八法", "掤", "捋", "挤", "按", "技击", "散手"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Push_Hands_System.md"
-    relation: "push-hands"
-  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Internal_Power.md"
-    relation: "internal-power"
+cross_refs: []
 ---
 # 太极拳技击应用 | Tai Chi Combat Applications
 

@@ -1,7 +1,6 @@
 ---
-
 title: "孤独的进化心理学 | Evolutionary Psychology of Loneliness"
-description: "孤独的进化心理学 | Evolutionary Psychology of Loneliness的详细解析与实践指南"
+description: "孤独的进化心理学 | Evolutionary Psychology of Loneliness —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "孤独的进化心理学 | Evolutionary Psychology of Loneliness的核心概念"
   - "孤独的进化心理学 | Evolutionary Psychology of Loneliness的方法与实践"
   - "孤独的进化心理学 | Evolutionary Psychology of Loneliness的自助方法"
-trigger_keywords: ["孤独的进化心理学", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "03-Bio-Science/sexuality/Sexuality_Clinical_Applications.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/neuroscience/pain"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/neuroscience"
-
+trigger_keywords: ["孤独的进化心理学", "Evolutionary", "Psychology", "of", "Loneliness"]
+cross_refs: []
 ---
 # 孤独的进化心理学 | Evolutionary Psychology of Loneliness
 

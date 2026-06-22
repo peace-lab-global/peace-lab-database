@@ -1,7 +1,6 @@
 ---
-
 title: "当代政治哲学经典 · 佛法视角三方书评"
-description: "当代政治哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "当代政治哲学经典 · 佛法视角三方书评 —— Contemporary · Political Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Political Philosophy"
 tags: ["attachment", "buddhism", "habits", "personality", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是当代政治哲学经典 · 佛法视角三方书评"
   - "当代政治哲学经典 · 佛法视角三方书评的核心概念"
   - "当代政治哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["当代政治哲学经典", "佛法视角三方书评", "attachment", "behavioral", "buddhism", "cognitive"]
+trigger_keywords: ["当代政治哲学经典", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/anger.md"
+    relation: "愤怒/anger/佛教"
+  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
+    relation: "nh/th/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-dharma-of-star-wars.md"
+    relation: "愤怒/佛教/dharma"
 ---
 # 当代政治哲学经典 · 佛法视角三方书评
 

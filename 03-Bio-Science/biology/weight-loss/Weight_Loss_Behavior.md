@@ -1,7 +1,6 @@
 ---
-
 title: "Weight Loss Behavior Change & Habit Formation (减肥行为改变与习惯养成)"
-description: "Weight Loss Behavior Change & Habit Formation (减肥行为改变与习惯养成)的详细解析与实践指南"
+description: "Weight Loss Behavior Change & Habit Formation (减肥行为改变与习惯养成) —— 生物学 · Weight Loss 专题"
 category: "生命科学与生物医学 > 生物学 > Weight Loss"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Weight Loss Behavior Change & Habit Formation"
   - "Weight Loss Behavior Change & Habit Formation的核心概念"
   - "Weight Loss Behavior Change & Habit Formation的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "anxiety/communication/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/productivity"
-
+trigger_keywords: ["Weight", "Loss", "Behavior", "Change", "Habit"]
+cross_refs: []
 ---
 # Weight Loss Behavior Change & Habit Formation (减肥行为改变与习惯养成)
 

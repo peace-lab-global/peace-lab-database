@@ -1,7 +1,6 @@
 ---
-
 title: "《禅宗手册》Manual of Zen Buddhism"
-description: "《禅宗手册》Manual of Zen Buddhism的详细解析与实践指南"
+description: "《禅宗手册》Manual of Zen Buddhism —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["calligraphy", "habits", "jung"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《禅宗手册》Manual of Zen Buddhism"
   - "《禅宗手册》Manual of Zen Buddhism的核心概念"
   - "《禅宗手册》Manual of Zen Buddhism的方法与实践"
-trigger_keywords: ["anxiety", "art", "buddhism", "calligraphy"]
+trigger_keywords: ["calligraphy", "《禅宗手册》Manual", "of", "Zen", "Buddhism"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Multi_Perspective_Reviews.md"
+    relation: "禅宗/suzuki/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/zen/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/INDEX.md"
+    relation: "buddhism/suzuki"
 ---
 # 《禅宗手册》Manual of Zen Buddhism
 

@@ -12,11 +12,7 @@ intent_queries:
   - "推手四正四隅是什么"
   - "太极听劲训练"
 trigger_keywords: ["推手", "听劲", "四正", "四隅", "化劲"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/forms-routines/TaiChi_Partner_Forms.md"
-    relation: "partner-forms"
-  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Combat_Applications.md"
-    relation: "combat-applications"
+cross_refs: []
 ---
 # 推手体系 | Push Hands System
 

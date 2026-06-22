@@ -1,7 +1,6 @@
 ---
-
 title: "慢性压力评估 (Chronic Stress Assessment)"
-description: "慢性压力评估 (Chronic Stress Assessment)的详细解析与实践指南"
+description: "慢性压力评估 (Chronic Stress Assessment) —— 压力与HPA轴 · Chronic Stress 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是慢性压力评估"
   - "慢性压力评估的核心概念"
   - "慢性压力评估的方法与实践"
-trigger_keywords: ["慢性压力评估", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["慢性压力评估", "Chronic", "Stress", "Assessment"]
 cross_refs:
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/depression/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "stress/应激/chronic"
 ---
 # 慢性压力评估 (Chronic Stress Assessment)
 

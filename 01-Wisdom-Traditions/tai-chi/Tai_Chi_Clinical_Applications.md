@@ -1,7 +1,6 @@
 ---
-
 title: "太极拳临床应用 | Tai Chi Clinical Applications"
-description: "太极拳临床应用 | Tai Chi Clinical Applications的详细解析与实践指南"
+description: "太极拳临床应用 | Tai Chi Clinical Applications —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["cardiovascular", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是太极拳临床应用 | Tai Chi Clinical Applications"
   - "太极拳临床应用 | Tai Chi Clinical Applications的核心概念"
   - "太极拳临床应用 | Tai Chi Clinical Applications的方法与实践"
-trigger_keywords: ["太极拳临床应用", "adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["太极拳临床应用", "Tai", "Chi", "Clinical", "Applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "chi/tai/太极"
 ---
 # 太极拳临床应用 | Tai Chi Clinical Applications
 

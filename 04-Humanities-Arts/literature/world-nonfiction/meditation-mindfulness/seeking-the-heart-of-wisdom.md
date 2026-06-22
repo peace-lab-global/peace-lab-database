@@ -1,7 +1,6 @@
 ---
-
 title: "《寻求智慧之心》Seeking the Heart of Wisdom"
-description: "《寻求智慧之心》Seeking the Heart of Wisdom的详细解析与实践指南"
+description: "《寻求智慧之心》Seeking the Heart of Wisdom —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mbsr", "mindfulness", "vipassana"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《寻求智慧之心》Seeking the Heart of Wisdom"
   - "《寻求智慧之心》Seeking the Heart of Wisdom的核心概念"
   - "《寻求智慧之心》Seeking the Heart of Wisdom的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "death", "emotion"]
+trigger_keywords: ["《寻求智慧之心》Seeking", "the", "Heart", "of", "Wisdom"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/death/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "buddhism/cardiovascular/emotion"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Joseph_Goldstein.md"
+    relation: "goldstein/内观/joseph"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "内观/jack/heart"
 ---
 # 《寻求智慧之心》Seeking the Heart of Wisdom
 

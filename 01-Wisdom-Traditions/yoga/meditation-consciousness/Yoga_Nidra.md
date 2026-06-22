@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga Nidra (瑜伽休息术)"
-description: "Yoga Nidra (瑜伽休息术)的详细解析与实践指南"
+description: "Yoga Nidra (瑜伽休息术) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Yoga Nidra"
   - "Yoga Nidra的核心概念"
   - "Yoga Nidra的方法与实践"
-trigger_keywords: ["Yoga Nidra", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Yoga Nidra", "Yoga", "Nidra", "瑜伽休息术"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/exercise"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Overview.md"
+    relation: "nidra/yoga/satyananda"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/INDEX.md"
+    relation: "nidra/yoga/瑜伽"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Techniques.md"
+    relation: "nidra/sankalpa/yoga"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Science.md"
+    relation: "nidra/yoga/sankalpa"
 ---
 # Yoga Nidra (瑜伽休息术)
 

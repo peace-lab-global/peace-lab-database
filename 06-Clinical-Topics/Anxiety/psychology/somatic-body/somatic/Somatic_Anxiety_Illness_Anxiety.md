@@ -1,7 +1,6 @@
 ---
-
 title: "疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)"
-description: "疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)的详细解析与实践指南"
+description: "疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "cbt", "mindfulness", "ocd"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "疑病症与疾病焦虑障碍的核心概念"
   - "疑病症与疾病焦虑障碍的方法与实践"
   - "疑病症与疾病焦虑障碍的自助方法"
-trigger_keywords: ["疑病症与疾病焦虑障碍", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/meditation"
-
+trigger_keywords: ["疑病症与疾病焦虑障碍", "Hypochondriasis", "Illness", "Anxiety", "Disorder"]
+cross_refs: []
 ---
 # 疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)
 

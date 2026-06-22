@@ -1,7 +1,6 @@
 ---
-
 title: "出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης"
-description: "出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης的详细解析与实践指南"
+description: "出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης"
   - "出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης的核心概念"
   - "出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης的方法与实践"
-trigger_keywords: ["出版实务指南", "act", "aging", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/exercise"
-
+trigger_keywords: ["出版实务指南", "Publishing", "Practical", "Guide", "Πρακτικός"]
+cross_refs: []
 ---
 # 出版实务指南 | Publishing Practical Guide | Πρακτικός Οδηγός Έκδοσης
 

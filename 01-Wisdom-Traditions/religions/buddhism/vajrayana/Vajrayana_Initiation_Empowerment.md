@@ -1,7 +1,6 @@
 ---
-
 title: "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā"
-description: "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的详细解析与实践指南"
+description: "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā —— 佛教 · Vajrayana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
 tags: ["buddhism", "dzogchen", "fasting", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā"
   - "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的核心概念"
   - "灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā的方法与实践"
-trigger_keywords: ["灌顶与传承", "act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
-    relation: "buddhism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/exercise/nutrition"
-  - path: "04-Humanities-Arts/literature/chinese-classical-literature/tang-poetry/Tang_Poetry_Overview.md"
-    relation: "buddhism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-
+trigger_keywords: ["灌顶与传承", "Initiation", "Empowerment", "Abhiṣeka", "Paramparā"]
+cross_refs: []
 ---
 # 灌顶与传承 | Initiation & Empowerment | Abhiṣeka & Paramparā
 

@@ -1,7 +1,6 @@
 ---
-
 title: "四无量心 (Four Immeasurables / Brahmavihāra)"
-description: "四无量心 (Four Immeasurables / Brahmavihāra)的详细解析与实践指南"
+description: "四无量心 (Four Immeasurables / Brahmavihāra) —— 佛教 · 心理学基础 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学基础"
 tags: ["attachment", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是四无量心"
   - "四无量心的核心概念"
   - "四无量心的方法与实践"
-trigger_keywords: ["四无量心", "act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["四无量心", "Four", "Immeasurables", "Brahmavihāra"]
+cross_refs: []
 ---
 # 四无量心 (Four Immeasurables / Brahmavihāra)
 

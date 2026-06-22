@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师自我修养 | Professional Self Cultivation"
-description: "冥想执行师自我修养 | Professional Self Cultivation的详细解析与实践指南"
+description: "冥想执行师自我修养 | Professional Self Cultivation —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["mindfulness", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想执行师自我修养 | Professional Self Cultivation"
   - "冥想执行师自我修养 | Professional Self Cultivation的核心概念"
   - "冥想执行师自我修养 | Professional Self Cultivation的方法与实践"
-trigger_keywords: ["冥想执行师自我修养", "act", "assessment", "body", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "emotion/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "emotion/exercise/meditation"
-
+trigger_keywords: ["冥想执行师自我修养", "Professional", "Self", "Cultivation"]
+cross_refs: []
 ---
 # 冥想执行师自我修养 | Professional Self Cultivation
 

@@ -1,7 +1,6 @@
 ---
-
 title: "数字时代约炮与出轨的影响分析 (Digital Age Impact Analysis on Casual Sex and Infidelity)"
-description: "数字时代约炮与出轨的影响分析 (Digital Age Impact Analysis on Casual Sex and Infidelity)的详细解析与实践指南"
+description: "数字时代约炮与出轨的影响分析 (Digital Age Impact Analysis on Casual Sex and Infidelity) —— 人际关系 · Digital Age 专题"
 category: "心智与心理学 > 人际关系 > Digital Age"
 tags: ["addiction", "anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字时代约炮与出轨的影响分析"
   - "数字时代约炮与出轨的影响分析的核心概念"
   - "数字时代约炮与出轨的影响分析的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/sexuality"
-
+trigger_keywords: ["数字时代约炮与出轨的影响分析", "Digital", "Age", "Impact", "Analysis"]
+cross_refs: []
 ---
 # 数字时代约炮与出轨的影响分析 (Digital Age Impact Analysis on Casual Sex and Infidelity)
 

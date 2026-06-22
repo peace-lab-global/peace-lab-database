@@ -1,7 +1,6 @@
 ---
-
 title: "《未来简史》Homo Deus: A Brief History of Tomorrow"
-description: "《未来简史》Homo Deus: A Brief History of Tomorrow的详细解析与实践指南"
+description: "《未来简史》Homo Deus: A Brief History of Tomorrow —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《未来简史》Homo Deus: A Brief History of Tomorrow"
   - "《未来简史》Homo Deus: A Brief History of Tomorrow的核心概念"
   - "《未来简史》Homo Deus: A Brief History of Tomorrow的方法与实践"
-trigger_keywords: ["anxiety", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/death/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/emotion"
-
+trigger_keywords: ["《未来简史》Homo", "Deus:", "Brief", "History", "of"]
+cross_refs: []
 ---
 # 《未来简史》Homo Deus: A Brief History of Tomorrow
 

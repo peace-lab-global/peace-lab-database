@@ -1,7 +1,6 @@
 ---
-
 title: "Chopin (肖邦)：钢琴诗人"
-description: "Chopin (肖邦)：钢琴诗人的详细解析与实践指南"
+description: "Chopin (肖邦)：钢琴诗人 —— Musician · Composers 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Chopin ：钢琴诗人"
   - "Chopin ：钢琴诗人的核心概念"
   - "Chopin ：钢琴诗人的方法与实践"
-trigger_keywords: ["act", "art", "breathwork", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Chopin", "肖邦", "：钢琴诗人"]
+cross_refs: []
 ---
 # Chopin (肖邦)：钢琴诗人
 

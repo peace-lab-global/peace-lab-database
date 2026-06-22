@@ -1,7 +1,6 @@
 ---
-
 title: "政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)"
-description: "政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)的详细解析与实践指南"
+description: "政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods) —— Political Psychology · Measurement Methods 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Measurement Methods"
 tags: ["anxiety", "brain", "cortisol"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "政治心理学测量工具与研究方法的核心概念"
   - "政治心理学测量工具与研究方法的方法与实践"
   - "政治心理学测量工具与研究方法的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["政治心理学测量工具与研究方法", "Political", "Psychology:", "Measurement", "Tools"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/measurement/INDEX.md"
+    relation: "measurement/psychology/contents"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/measurement/Religious_Psychology_Measurement_Assessment.md"
+    relation: "measurement/table/tools"
+  - path: "03-Bio-Science/sexuality/Sexuality_Research_Methods.md"
+    relation: "measurement/research/methods"
 ---
 # 政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)
 

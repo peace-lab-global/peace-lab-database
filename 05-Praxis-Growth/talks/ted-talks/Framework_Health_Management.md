@@ -1,7 +1,6 @@
 ---
-
 title: "健康管理 | Health Management"
-description: "健康管理 | Health Management的详细解析与实践指南"
+description: "健康管理 | Health Management —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cardiovascular", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是健康管理 | Health Management"
   - "健康管理 | Health Management的核心概念"
   - "健康管理 | Health Management的方法与实践"
-trigger_keywords: ["健康管理", "aging", "behavioral", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/death"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-last-quarter-of-the-moon/Thought_Analysis.md"
-    relation: "aging/communication/death"
-
+trigger_keywords: ["健康管理", "cardiovascular"]
+cross_refs: []
 ---
 # 健康管理 | Health Management
 

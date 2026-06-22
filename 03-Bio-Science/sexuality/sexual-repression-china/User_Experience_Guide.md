@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑研究用户体验指南 (User Experience Guide for Sexual Repression in Chinese Society Research)"
-description: "中国社会性压抑研究用户体验指南 (User Experience Guide for Sexual Repression in Chinese Society Research)的详细解析与实践指南"
+description: "中国社会性压抑研究用户体验指南 (User Experience Guide for Sexual Repression in Chinese Society Research) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中国社会性压抑研究用户体验指南"
   - "中国社会性压抑研究用户体验指南的核心概念"
   - "中国社会性压抑研究用户体验指南的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "cbt"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["cbt", "中国社会性压抑研究用户体验指南", "User", "Experience", "Guide"]
+cross_refs: []
 ---
 # 中国社会性压抑研究用户体验指南 (User Experience Guide for Sexual Repression in Chinese Society Research)
 

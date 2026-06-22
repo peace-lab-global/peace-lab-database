@@ -1,7 +1,6 @@
 ---
-
 title: "一席教育与学习精选 | YiXi Education & Learning Collection"
-description: "一席教育与学习精选 | YiXi Education & Learning Collection的详细解析与实践指南"
+description: "一席教育与学习精选 | YiXi Education & Learning Collection —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一席教育与学习精选 | YiXi Education & Learning Collection"
   - "一席教育与学习精选 | YiXi Education & Learning Collection的核心概念"
   - "一席教育与学习精选 | YiXi Education & Learning Collection的方法与实践"
-trigger_keywords: ["一席教育与学习精选", "art", "assessment", "cognitive", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/neuroscience/productivity"
-
+trigger_keywords: ["一席教育与学习精选", "YiXi", "Education", "Learning", "Collection"]
+cross_refs: []
 ---
 # 一席教育与学习精选 | YiXi Education & Learning Collection
 

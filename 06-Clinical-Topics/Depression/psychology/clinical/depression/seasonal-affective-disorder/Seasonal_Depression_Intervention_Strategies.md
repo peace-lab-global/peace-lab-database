@@ -1,7 +1,6 @@
 ---
-
 title: "季节性抑郁干预策略专业内容体系"
-description: "季节性抑郁干预策略专业内容体系的详细解析与实践指南"
+description: "季节性抑郁干预策略专业内容体系 —— 抑郁症 · Seasonal Affective Disorder 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Seasonal Affective Disorder"
 tags: ["cbt", "decision-making", "depression", "anxiety"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "季节性抑郁干预策略专业内容体系的核心概念"
   - "季节性抑郁干预策略专业内容体系的方法与实践"
   - "季节性抑郁干预策略专业内容体系的自助方法"
-trigger_keywords: ["assessment", "behavioral", "cbt", "cognitive"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "communication/depression/emotion"
-
+trigger_keywords: ["cbt", "季节性抑郁干预策略专业内容体系"]
+cross_refs: []
 ---
 # 季节性抑郁干预策略专业内容体系
 

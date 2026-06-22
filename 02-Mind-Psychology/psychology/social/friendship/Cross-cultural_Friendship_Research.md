@@ -1,7 +1,6 @@
 ---
-
 title: "跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας"
-description: "跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας的详细解析与实践指南"
+description: "跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας —— 社会心理学 · Friendship 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας"
   - "跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας的核心概念"
   - "跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας的方法与实践"
-trigger_keywords: ["跨文化友谊研究", "anxiety", "art", "assessment", "behavioral"]
+trigger_keywords: ["跨文化友谊研究", "Cross-cultural", "Friendship", "Research", "Διαπολιτισμική"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sociological_Analysis.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "05-Praxis-Growth/communication/cross-cultural-communication/Cross_Cultural_Communication_Overview.md"
+    relation: "hofstede/沟通/cross-cultural"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/INDEX.md"
+    relation: "cross-cultural/research"
 ---
 # 跨文化友谊研究 | Cross-cultural Friendship Research | Διαπολιτισμική Έρευνα Φιλίας
 

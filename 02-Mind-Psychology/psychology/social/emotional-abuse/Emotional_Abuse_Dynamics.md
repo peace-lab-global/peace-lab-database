@@ -1,6 +1,6 @@
 ---
 title: "Emotional Abuse Dynamics"
-description: "Emotional Abuse Dynamics的详细解析与实践指南"
+description: "Emotional Abuse Dynamics —— 社会心理学 · Emotional Abuse 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
 tags: ["心理学", "社会心理学"]
 last_updated: "2026-05"

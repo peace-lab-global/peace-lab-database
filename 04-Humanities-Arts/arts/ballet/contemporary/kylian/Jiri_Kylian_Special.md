@@ -1,7 +1,6 @@
 ---
-
 title: "吉里·基里安专题 (Jiří Kylián Special Topic)"
-description: "吉里·基里安专题 (Jiří Kylián Special Topic)的详细解析与实践指南"
+description: "吉里·基里安专题 (Jiří Kylián Special Topic) —— Contemporary · Kylian 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary > Kylian"
 tags: ["ballet", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是吉里·基里安专题"
   - "吉里·基里安专题的核心概念"
   - "吉里·基里安专题的方法与实践"
-trigger_keywords: ["吉里", "基里安专题", "art", "ballet", "body", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-
+trigger_keywords: ["吉里", "基里安专题", "ballet"]
+cross_refs: []
 ---
 # 吉里·基里安专题 (Jiří Kylián Special Topic)
 

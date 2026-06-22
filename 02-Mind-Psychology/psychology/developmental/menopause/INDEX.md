@@ -1,6 +1,6 @@
 ---
 title: "menopause | Index"
-description: "menopause | Index的详细解析与实践指南"
+description: "menopause | Index —— 发展心理学 · Menopause 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Menopause"
 tags: ["发展心理学", "心理学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是menopause | Index"
   - "menopause | Index的核心概念"
   - "menopause | Index的方法与实践"
-trigger_keywords: ["menopause", "Index", "发展心理学", "心理学"]
+trigger_keywords: ["menopause", "发展心理学", "心理学"]
 cross_refs: []
 ---
 # menopause | Index

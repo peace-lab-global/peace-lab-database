@@ -1,7 +1,6 @@
 ---
-
 title: "基督教核心概览 (Christianity Overview)"
-description: "基督教核心概览 (Christianity Overview)的详细解析与实践指南"
+description: "基督教核心概览 (Christianity Overview) —— 宗教与灵性 · 基督教 专题"
 category: "智慧传承 > 宗教与灵性 > 基督教"
 tags: ["addiction", "cbt", "christianity"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是基督教核心概览"
   - "基督教核心概览的核心概念"
   - "基督教核心概览的方法与实践"
-trigger_keywords: ["基督教核心概览", "addiction", "adolescent", "anxiety", "behavioral"]
+trigger_keywords: ["基督教核心概览", "Christianity", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/exercise/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "table/创伤/contents"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md"
+    relation: "table/contents"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "table/疗法/contents"
 ---
 # 基督教核心概览 (Christianity Overview)
 

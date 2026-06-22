@@ -1,7 +1,6 @@
 ---
-
 title: "《第二性》The Second Sex"
-description: "《第二性》The Second Sex的详细解析与实践指南"
+description: "《第二性》The Second Sex —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《第二性》The Second Sex"
   - "《第二性》The Second Sex的核心概念"
   - "《第二性》The Second Sex的方法与实践"
-trigger_keywords: ["buddhism", "literature", "philosophy", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/sexuality"
-
+trigger_keywords: ["religion", "《第二性》The", "Second", "Sex"]
+cross_refs: []
 ---
 # 《第二性》The Second Sex
 

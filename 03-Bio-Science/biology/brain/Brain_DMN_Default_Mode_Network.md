@@ -1,7 +1,6 @@
 ---
-
 title: "默认模式网络 (Default Mode Network, DMN)"
-description: "默认模式网络 (Default Mode Network, DMN)的详细解析与实践指南"
+description: "默认模式网络 (Default Mode Network, DMN) —— 生物学 · 神经科学 专题"
 category: "生命科学与生物医学 > 生物学 > 神经科学"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是默认模式网络"
   - "默认模式网络的核心概念"
   - "默认模式网络的方法与实践"
-trigger_keywords: ["默认模式网络", "act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["默认模式网络", "Default", "Mode", "Network", "DMN"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Search_Index.md"
-    relation: "anxiety/depression/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Neuroscience.md"
+    relation: "dmn/default/network"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Neuroscience.md"
+    relation: "dmn/默认模式/前额叶"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Creativity_Flow.md"
+    relation: "dmn/default/mode"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_01_Foundation.md"
+    relation: "dmn/tpn/默认模式"
 ---
 # 默认模式网络 (Default Mode Network, DMN)
 

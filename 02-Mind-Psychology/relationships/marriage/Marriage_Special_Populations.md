@@ -1,7 +1,6 @@
 ---
-
 title: "特殊人群夫妻关系处理 (Special Populations in Marriage)"
-description: "特殊人群夫妻关系处理 (Special Populations in Marriage)的详细解析与实践指南"
+description: "特殊人群夫妻关系处理 (Special Populations in Marriage) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是特殊人群夫妻关系处理"
   - "特殊人群夫妻关系处理的核心概念"
   - "特殊人群夫妻关系处理的方法与实践"
-trigger_keywords: ["特殊人群夫妻关系处理", "aging", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["特殊人群夫妻关系处理", "Special", "Populations", "in", "Marriage"]
+cross_refs: []
 ---
 # 特殊人群夫妻关系处理 (Special Populations in Marriage)
 

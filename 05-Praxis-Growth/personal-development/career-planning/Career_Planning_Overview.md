@@ -1,7 +1,6 @@
 ---
-
 title: "职业规划总览 | Career Planning Overview"
-description: "职业规划总览 | Career Planning Overview的详细解析与实践指南"
+description: "职业规划总览 | Career Planning Overview —— 个人发展 · Career Planning 专题"
 category: "实践与个人增长 > 个人发展 > Career Planning"
 tags: ["decision-making", "intervention", "leadership", "financial-literacy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是职业规划总览 | Career Planning Overview"
   - "职业规划总览 | Career Planning Overview的核心概念"
   - "职业规划总览 | Career Planning Overview的方法与实践"
-trigger_keywords: ["职业规划总览", "art", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["职业规划总览", "Career", "Planning", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun_Works_Analysis.md"
-    relation: "communication/exercise/personality"
-
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/theory/Vocational_Psychology_Theory_Framework.md"
+    relation: "holland/career/super"
 ---
 # 职业规划总览 | Career Planning Overview
 

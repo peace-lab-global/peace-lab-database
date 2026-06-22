@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑躯体化概览 (Anxiety Somatization Overview)"
-description: "焦虑躯体化概览 (Anxiety Somatization Overview)的详细解析与实践指南"
+description: "焦虑躯体化概览 (Anxiety Somatization Overview) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑躯体化概览的核心概念"
   - "焦虑躯体化概览的方法与实践"
   - "焦虑躯体化概览的自助方法"
-trigger_keywords: ["焦虑躯体化概览", "anxiety", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["焦虑躯体化概览", "Anxiety", "Somatization", "Overview"]
+cross_refs: []
 ---
 # 焦虑躯体化概览 (Anxiety Somatization Overview)
 

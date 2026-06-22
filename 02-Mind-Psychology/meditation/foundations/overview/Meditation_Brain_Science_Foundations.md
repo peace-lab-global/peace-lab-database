@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Brain Science Foundations (冥想脑科学基础)"
-description: "Meditation Brain Science Foundations (冥想脑科学基础)的详细解析与实践指南"
+description: "Meditation Brain Science Foundations (冥想脑科学基础) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["addiction", "anxiety", "brain", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Meditation Brain Science Foundations"
   - "Meditation Brain Science Foundations的核心概念"
   - "Meditation Brain Science Foundations的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["Meditation", "Brain", "Science", "Foundations", "冥想脑科学基础"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/exercise"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/transcendental-meditation.md"
+    relation: "tm/冥想/science"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "冥想/meditation/呼吸"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "冥想/meditation/正念"
 ---
 # Meditation Brain Science Foundations (冥想脑科学基础)
 

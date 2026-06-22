@@ -1,7 +1,6 @@
 ---
-
 title: "ACT 接受承诺疗法 RCT 证据摘要"
-description: "ACT 接受承诺疗法 RCT 证据摘要的详细解析与实践指南"
+description: "ACT 接受承诺疗法 RCT 证据摘要 —— 接纳承诺疗法 · Evidence 专题"
 category: "心智与心理学 > 疗法 > 接纳承诺疗法 > Evidence"
 tags: ["anxiety", "depression", "intervention", "ocd", "pain", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "ACT 接受承诺疗法 RCT 证据摘要的核心概念"
   - "ACT 接受承诺疗法 RCT 证据摘要的方法与实践"
   - "ACT 接受承诺疗法 RCT 证据摘要的循证证据"
-trigger_keywords: ["act", "anxiety", "behavioral", "clinical"]
+trigger_keywords: ["ACT", "接受承诺疗法", "RCT", "证据摘要"]
 cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/pain"
-  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
-    relation: "anxiety/depression/pain"
-  - path: "03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md"
-    relation: "anxiety/depression/pain"
-  - path: "03-Bio-Science/death/Death_Suicidology_Boundary.md"
-    relation: "anxiety/depression/pain"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "anxiety/depression/pain"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
+    relation: "rct/al/et"
 ---
 # ACT 接受承诺疗法 RCT 证据摘要
 

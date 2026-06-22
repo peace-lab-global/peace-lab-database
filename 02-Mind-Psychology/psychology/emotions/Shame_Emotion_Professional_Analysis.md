@@ -1,7 +1,6 @@
 ---
-
 title: "Shame Emotion Professional Analysis (羞耻情绪专业分析)"
-description: "Shame Emotion Professional Analysis (羞耻情绪专业分析)的详细解析与实践指南"
+description: "Shame Emotion Professional Analysis (羞耻情绪专业分析) —— 心理学 · Emotions 专题"
 category: "心智与心理学 > 心理学 > Emotions"
 tags: ["addiction", "anxiety", "attachment", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Shame Emotion Professional Analysis"
   - "Shame Emotion Professional Analysis的核心概念"
   - "Shame Emotion Professional Analysis的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["Shame", "Emotion", "Professional", "Analysis", "羞耻情绪专业分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Formation_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "羞耻/shame"
+  - path: "03-Bio-Science/biology/body-shame/prevention/Body_Shame_Prevention_Public_Health.md"
+    relation: "羞耻/shame"
+  - path: "03-Bio-Science/biology/body-shame/assessment/Body_Shame_Clinical_Assessment.md"
+    relation: "羞耻/shame"
+  - path: "03-Bio-Science/biology/body-shame/terminology/Body_Shame_Terminology_Standards.md"
+    relation: "羞耻/shame"
 ---
 # Shame Emotion Professional Analysis (羞耻情绪专业分析)
 

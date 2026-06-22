@@ -1,7 +1,6 @@
 ---
-
 title: "教育创新 | Educational Innovation"
-description: "教育创新 | Educational Innovation的详细解析与实践指南"
+description: "教育创新 | Educational Innovation —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是教育创新 | Educational Innovation"
   - "教育创新 | Educational Innovation的核心概念"
   - "教育创新 | Educational Innovation的方法与实践"
-trigger_keywords: ["教育创新", "art", "assessment", "child", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["教育创新", "Educational", "Innovation"]
+cross_refs: []
 ---
 # 教育创新 | Educational Innovation
 

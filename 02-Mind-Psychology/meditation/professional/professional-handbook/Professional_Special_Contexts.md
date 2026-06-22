@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师特殊场景应用 | Professional Special Contexts"
-description: "冥想执行师特殊场景应用 | Professional Special Contexts的详细解析与实践指南"
+description: "冥想执行师特殊场景应用 | Professional Special Contexts —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想执行师特殊场景应用 | Professional Special Contexts"
   - "冥想执行师特殊场景应用 | Professional Special Contexts的核心概念"
   - "冥想执行师特殊场景应用 | Professional Special Contexts的方法与实践"
-trigger_keywords: ["addiction", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/meditation"
-
+trigger_keywords: ["冥想执行师特殊场景应用", "Professional", "Special", "Contexts"]
+cross_refs: []
 ---
 # 冥想执行师特殊场景应用 | Professional Special Contexts
 

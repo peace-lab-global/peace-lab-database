@@ -1,7 +1,6 @@
 ---
-
 title: "自我监测工具"
-description: "自我监测工具的详细解析与实践指南"
+description: "自我监测工具 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "brain", "social", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自我监测工具"
   - "自我监测工具的核心概念"
   - "自我监测工具的方法与实践"
-trigger_keywords: ["自我监测工具", "anxiety", "brain", "cognitive", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["自我监测工具"]
+cross_refs: []
 ---
 # 自我监测工具
 

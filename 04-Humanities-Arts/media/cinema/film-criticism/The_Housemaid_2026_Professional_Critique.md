@@ -1,7 +1,6 @@
 ---
-
 title: "《女仆》(The Housemaid, 2026) 专业影评：心理动力学视角下的阶级创伤与女性主体性重构"
-description: "《女仆》(The Housemaid, 2026) 专业影评：心理动力学视角下的阶级创伤与女性主体性重构的详细解析与实践指南"
+description: "《女仆》(The Housemaid, 2026) 专业影评：心理动力学视角下的阶级创伤与女性主体性重构 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["attachment", "cinema"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "《女仆》 专业影评：心理动力学视角下的阶级创伤与女性主体性重构的核心概念"
   - "《女仆》 专业影评：心理动力学视角下的阶级创伤与女性主体性重构的方法与实践"
   - "《女仆》 专业影评：心理动力学视角下的阶级创伤与女性主体性重构的自助方法"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/neuroscience"
-
+trigger_keywords: ["《女仆》", "The", "Housemaid", "2026", "专业影评：心理动力学视角下的阶级创伤与女性主体性重构"]
+cross_refs: []
 ---
 # 《女仆》(The Housemaid, 2026) 专业影评：心理动力学视角下的阶级创伤与女性主体性重构
 

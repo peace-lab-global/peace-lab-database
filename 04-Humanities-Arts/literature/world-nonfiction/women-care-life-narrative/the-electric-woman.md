@@ -1,7 +1,6 @@
 ---
-
 title: "《带电的女人》The Electric Woman"
-description: "《带电的女人》The Electric Woman的详细解析与实践指南"
+description: "《带电的女人》The Electric Woman —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["loneliness", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《带电的女人》The Electric Woman"
   - "《带电的女人》The Electric Woman的核心概念"
   - "《带电的女人》The Electric Woman的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["《带电的女人》The", "Electric", "Woman"]
+cross_refs: []
 ---
 # 《带电的女人》The Electric Woman
 

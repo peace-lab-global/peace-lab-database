@@ -1,7 +1,6 @@
 ---
-
 title: "财务素养总览 (Financial Literacy Overview)"
-description: "财务素养总览 (Financial Literacy Overview)的详细解析与实践指南"
+description: "财务素养总览 (Financial Literacy Overview) —— 个人发展 · 财务素养 专题"
 category: "实践与个人增长 > 个人发展 > 财务素养"
 tags: ["addiction", "communication", "decision-making", "financial-literacy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是财务素养总览"
   - "财务素养总览的核心概念"
   - "财务素养总览的方法与实践"
-trigger_keywords: ["财务素养总览", "act", "addiction", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["财务素养总览", "Financial", "Literacy", "Overview"]
+cross_refs: []
 ---
 # 财务素养总览 (Financial Literacy Overview)
 

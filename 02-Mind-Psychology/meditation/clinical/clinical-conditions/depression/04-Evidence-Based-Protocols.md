@@ -1,7 +1,6 @@
 ---
-
 title: "Evidence Based Protocols"
-description: "Evidence Based Protocols的详细解析与实践指南"
+description: "Evidence Based Protocols —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "cbt", "depression", "intervention", "mbct", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Evidence Based Protocols"
   - "Evidence Based Protocols的核心概念"
   - "Evidence Based Protocols的方法与实践"
-trigger_keywords: ["anxiety", "cbt", "depression", "intervention"]
+trigger_keywords: ["cbt", "depression", "intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/depression/meditation"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
+    relation: "al/et/rct"
 ---
 ## 4. 循证干预方案
 

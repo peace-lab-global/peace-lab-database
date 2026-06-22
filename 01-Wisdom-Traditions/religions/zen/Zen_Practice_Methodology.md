@@ -1,7 +1,6 @@
 ---
-
 title: "Practice Methodology (实践技术与法要)"
-description: "Practice Methodology (实践技术与法要)的详细解析与实践指南"
+description: "Practice Methodology (实践技术与法要) —— 宗教与灵性 · 禅宗 专题"
 category: "智慧传承 > 宗教与灵性 > 禅宗"
 tags: ["dmn", "healing", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Practice Methodology"
   - "Practice Methodology的核心概念"
   - "Practice Methodology的方法与实践"
-trigger_keywords: ["act", "anxiety", "brain", "breathwork"]
+trigger_keywords: ["Practice", "Methodology", "实践技术与法要"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/INDEX.md"
+    relation: "zazen/坐禅/禅宗"
 ---
 # Practice Methodology (实践技术与法要)
 

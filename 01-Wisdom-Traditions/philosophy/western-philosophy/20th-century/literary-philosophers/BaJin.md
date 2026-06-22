@@ -1,7 +1,6 @@
 ---
-
 title: "巴金 (Ba Jin) - 哲学思想全览"
-description: "巴金 (Ba Jin) - 哲学思想全览的详细解析与实践指南"
+description: "巴金 (Ba Jin) - 哲学思想全览 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["healing", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴金  - 哲学思想全览"
   - "巴金  - 哲学思想全览的核心概念"
   - "巴金  - 哲学思想全览的方法与实践"
-trigger_keywords: ["adolescent", "aging", "art", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/attachment/communication"
-
+trigger_keywords: ["巴金", "Ba", "Jin", "哲学思想全览"]
+cross_refs: []
 ---
 # 巴金 (Ba Jin) - 哲学思想全览
 

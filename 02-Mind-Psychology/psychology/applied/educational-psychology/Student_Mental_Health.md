@@ -1,7 +1,6 @@
 ---
-
 title: "学生心理健康 | Student Mental Health"
-description: "学生心理健康 | Student Mental Health的详细解析与实践指南"
+description: "学生心理健康 | Student Mental Health —— 应用心理学 · Educational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Educational Psychology"
 tags: ["anxiety", "cbt", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "学生心理健康 | Student Mental Health的核心概念"
   - "学生心理健康 | Student Mental Health的方法与实践"
   - "学生心理健康 | Student Mental Health的自助方法"
-trigger_keywords: ["学生心理健康", "adolescent", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["学生心理健康", "Student", "Mental", "Health"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/depression"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/depression"
-
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "自杀/mental/health"
 ---
 # 学生心理健康 | Student Mental Health
 

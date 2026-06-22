@@ -1,7 +1,6 @@
 ---
-
 title: "孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis"
-description: "孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis的详细解析与实践指南"
+description: "孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis"
   - "孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis的核心概念"
   - "孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["孤独与微生物-肠-脑轴", "Loneliness", "Gut", "Microbiota", "the"]
 cross_refs:
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "炎症/loneliness/免疫"
   - path: "03-Bio-Science/biology/gut-microbiome/Gut_Mental_Health.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/foods/Bio_Nutrition_Gut.md"
-    relation: "anxiety/depression/emotion"
-
+    relation: "gut/炎症/psychobiotics"
 ---
 # 孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis
 

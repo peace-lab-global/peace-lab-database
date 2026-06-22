@@ -1,7 +1,6 @@
 ---
-
 title: "《叔本华的治疗》The Schopenhauer Cure"
-description: "《叔本华的治疗》The Schopenhauer Cure的详细解析与实践指南"
+description: "《叔本华的治疗》The Schopenhauer Cure —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature", "loneliness", "phobia", "treatment"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "《叔本华的治疗》The Schopenhauer Cure的核心概念"
   - "《叔本华的治疗》The Schopenhauer Cure的方法与实践"
   - "《叔本华的治疗》The Schopenhauer Cure的循证证据"
-trigger_keywords: ["art", "death", "literature", "loneliness"]
+trigger_keywords: ["loneliness", "《叔本华的治疗》The", "Schopenhauer", "Cure"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/死亡"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/死亡/意义"
 ---
 # 《叔本华的治疗》The Schopenhauer Cure
 

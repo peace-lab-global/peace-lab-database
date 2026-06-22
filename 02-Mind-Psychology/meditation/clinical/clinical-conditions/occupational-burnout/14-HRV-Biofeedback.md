@@ -1,7 +1,6 @@
 ---
-
 title: "14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback"
-description: "14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback的详细解析与实践指南"
+description: "14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["cardiovascular", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback"
   - "14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback的核心概念"
   - "14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "breathwork"]
+trigger_keywords: ["14.", "生理反馈训练：HRV", "与倦怠恢复", "HRV", "Biofeedback"]
 cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
-    relation: "cardiovascular/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
+    relation: "hrv/心率/变异性"
+  - path: "01-Wisdom-Traditions/tai-chi/psychology-wellbeing/TaiChi_Stress_Anxiety_Depression.md"
+    relation: "hrv/副交感/心率"
 ---
 # 14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback
 

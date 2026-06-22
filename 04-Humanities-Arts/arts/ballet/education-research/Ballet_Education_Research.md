@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞教育研究专题 (Ballet Education Research)"
-description: "芭蕾舞教育研究专题 (Ballet Education Research)的详细解析与实践指南"
+description: "芭蕾舞教育研究专题 (Ballet Education Research) —— 芭蕾 · Education Research 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Education Research"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是芭蕾舞教育研究专题"
   - "芭蕾舞教育研究专题的核心概念"
   - "芭蕾舞教育研究专题的方法与实践"
-trigger_keywords: ["芭蕾舞教育研究专题", "art", "assessment", "ballet", "behavioral"]
+trigger_keywords: ["芭蕾舞教育研究专题", "ballet"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Ballet_Dancer_Fetishism.md"
+    relation: "芭蕾/ballet"
 ---
 # 芭蕾舞教育研究专题 (Ballet Education Research)
 

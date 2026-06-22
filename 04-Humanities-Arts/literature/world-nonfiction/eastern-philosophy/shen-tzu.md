@@ -1,7 +1,6 @@
 ---
-
 title: "《慎子》Shen-tzu"
-description: "《慎子》Shen-tzu的详细解析与实践指南"
+description: "《慎子》Shen-tzu —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "intervention", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《慎子》Shen-tzu"
   - "《慎子》Shen-tzu的核心概念"
   - "《慎子》Shen-tzu的方法与实践"
-trigger_keywords: ["daoism", "intervention", "philosophy", "sexuality"]
+trigger_keywords: ["daoism", "intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/daoism/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "无为/道家/智慧"
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Dao_De_Jing.md"
+    relation: "无为/道家"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "无为/道家/智慧"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "无为/道家"
 ---
 # 《慎子》Shen-tzu
 

@@ -1,7 +1,6 @@
 ---
-
 title: "系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series (Highest Professional Standard v2.0)"
-description: "系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series (Highest Professional Standard v2.0)的详细解析与实践指南"
+description: "系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series (Highest Professional Standard v2.0) —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "dmn", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series"
   - "系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series的核心概念"
   - "系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "breathwork"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Mahler_Music_Therapy.md"
-    relation: "anxiety/communication/death"
-  - path: "README.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["系列二十三：数字与现代生活系列", "最高标准模板版", "Digital", "Modern", "Life"]
+cross_refs: []
 ---
 # 系列二十三：数字与现代生活系列（最高标准模板版） | Digital & Modern Life Series (Highest Professional Standard v2.0)
 

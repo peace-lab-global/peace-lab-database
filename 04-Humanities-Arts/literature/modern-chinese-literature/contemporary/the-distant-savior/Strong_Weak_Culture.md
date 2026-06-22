@@ -1,7 +1,6 @@
 ---
-
 title: "强势文化与弱势文化 (Strong Culture vs. Weak Culture)"
-description: "强势文化与弱势文化 (Strong Culture vs. Weak Culture)的详细解析与实践指南"
+description: "强势文化与弱势文化 (Strong Culture vs. Weak Culture) —— Contemporary · The Distant Savior 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
 tags: ["daoism", "habits", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是强势文化与弱势文化"
   - "强势文化与弱势文化的核心概念"
   - "强势文化与弱势文化的方法与实践"
-trigger_keywords: ["强势文化与弱势文化", "buddhism", "cognitive", "daoism", "habits"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/daoism"
-
+trigger_keywords: ["强势文化与弱势文化", "daoism", "habits"]
+cross_refs: []
 ---
 # 强势文化与弱势文化 (Strong Culture vs. Weak Culture)
 

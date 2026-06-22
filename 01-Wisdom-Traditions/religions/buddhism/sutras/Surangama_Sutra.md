@@ -1,7 +1,6 @@
 ---
-
 title: "大佛顶如来密因修证了义诸菩萨万行首楞严经"
-description: "大佛顶如来密因修证了义诸菩萨万行首楞严经的详细解析与实践指南"
+description: "大佛顶如来密因修证了义诸菩萨万行首楞严经 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["longevity", "zen", "buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是大佛顶如来密因修证了义诸菩萨万行首楞严经"
   - "大佛顶如来密因修证了义诸菩萨万行首楞严经的核心概念"
   - "大佛顶如来密因修证了义诸菩萨万行首楞严经的方法与实践"
-trigger_keywords: ["aging", "body", "brain", "longevity"]
+trigger_keywords: ["longevity", "大佛顶如来密因修证了义诸菩萨万行首楞严经"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
-    relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/meditation-critique/Meditation_Commercialization_Critique.md"
-    relation: "aging/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-way-of-bodhisattva.md"
+    relation: "菩萨/菩提"
 ---
 # 大佛顶如来密因修证了义诸菩萨万行首楞严经
 

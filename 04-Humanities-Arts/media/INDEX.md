@@ -1,7 +1,6 @@
 ---
-
 title: "media | 媒体艺术与疗愈"
-description: "media | 媒体艺术与疗愈的详细解析与实践指南"
+description: "media | 媒体艺术与疗愈 —— 人文与艺术疗愈 · 媒体 专题"
 category: "人文与艺术疗愈 > 媒体"
 tags: ["cinema", "healing", "mindfulness", "music", "music-therapy", "classical-music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是media | 媒体艺术与疗愈"
   - "media | 媒体艺术与疗愈的核心概念"
   - "media | 媒体艺术与疗愈的方法与实践"
-trigger_keywords: ["media", "媒体艺术与疗愈", "act", "art", "cinema", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "README.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "meditation/therapy/yoga"
-
+trigger_keywords: ["media", "媒体艺术与疗愈", "cinema"]
+cross_refs: []
 ---
 # media | 媒体艺术与疗愈
 

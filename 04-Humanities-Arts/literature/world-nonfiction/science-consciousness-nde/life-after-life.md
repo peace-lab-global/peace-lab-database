@@ -1,7 +1,6 @@
 ---
-
 title: "《死后的生命》Life After Life"
-description: "《死后的生命》Life After Life的详细解析与实践指南"
+description: "《死后的生命》Life After Life —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《死后的生命》Life After Life"
   - "《死后的生命》Life After Life的核心概念"
   - "《死后的生命》Life After Life的方法与实践"
-trigger_keywords: ["behavioral", "body", "brain", "cinema"]
+trigger_keywords: ["cinema", "《死后的生命》Life", "After", "Life"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
-    relation: "communication/death/depression"
-
+  - path: "03-Bio-Science/death/Death_NDE_Near_Death_Experience.md"
+    relation: "nde/near-death/experience"
 ---
 # 《死后的生命》Life After Life
 

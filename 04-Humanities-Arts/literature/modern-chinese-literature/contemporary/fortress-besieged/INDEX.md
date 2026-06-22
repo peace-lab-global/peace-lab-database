@@ -1,7 +1,6 @@
 ---
-
 title: "Fortress Besieged | 围城"
-description: "Fortress Besieged | 围城的详细解析与实践指南"
+description: "Fortress Besieged | 围城 —— Contemporary · Fortress Besieged 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Fortress Besieged"
 tags: ["marriage", "literature"]
 last_updated: "2026-05"
@@ -12,13 +11,8 @@ intent_queries:
   - "什么是Fortress Besieged | 围城"
   - "Fortress Besieged | 围城的核心概念"
   - "Fortress Besieged | 围城的方法与实践"
-trigger_keywords: ["围城", "art", "marriage", "philosophy", "文学"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/attachment"
-  - path: "README.md"
-    relation: "art_therapy/attachment"
-
+trigger_keywords: ["围城", "marriage", "文学"]
+cross_refs: []
 ---
 # Fortress Besieged | 围城
 

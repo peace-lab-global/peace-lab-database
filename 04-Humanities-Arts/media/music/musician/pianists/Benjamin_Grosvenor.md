@@ -1,7 +1,6 @@
 ---
-
 title: "Benjamin Grosvenor (本杰明·格罗斯沃德) - 英国钢琴新贵"
-description: "Benjamin Grosvenor (本杰明·格罗斯沃德) - 英国钢琴新贵的详细解析与实践指南"
+description: "Benjamin Grosvenor (本杰明·格罗斯沃德) - 英国钢琴新贵 —— Musician · Pianists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
 tags: ["healing", "music", "personality", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Benjamin Grosvenor  - 英国钢琴新贵"
   - "Benjamin Grosvenor  - 英国钢琴新贵的核心概念"
   - "Benjamin Grosvenor  - 英国钢琴新贵的方法与实践"
-trigger_keywords: ["act", "art", "developmental", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["healing", "Benjamin", "Grosvenor", "本杰明", "格罗斯沃德"]
+cross_refs: []
 ---
 # Benjamin Grosvenor (本杰明·格罗斯沃德) - 英国钢琴新贵
 

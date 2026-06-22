@@ -1,7 +1,6 @@
 ---
-
 title: "《死亡的夏日外衣》Death's Summer Coat"
-description: "《死亡的夏日外衣》Death's Summer Coat的详细解析与实践指南"
+description: "《死亡的夏日外衣》Death's Summer Coat —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["daoism", "decision-making", "depression", "photography"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《死亡的夏日外衣》Death's Summer Coat"
   - "《死亡的夏日外衣》Death's Summer Coat的核心概念"
   - "《死亡的夏日外衣》Death's Summer Coat的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "daoism"]
-cross_refs:
-  - path: "03-Bio-Science/death/INDEX.md"
-    relation: "aging/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "aging/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/buddhism/daoism"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "aging/art_therapy/buddhism"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/buddhism/cardiovascular"
-
+trigger_keywords: ["daoism", "《死亡的夏日外衣》Death's", "Summer", "Coat"]
+cross_refs: []
 ---
 # 《死亡的夏日外衣》Death's Summer Coat
 

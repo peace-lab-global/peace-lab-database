@@ -1,7 +1,6 @@
 ---
-
 title: "夫妻相处核心关系建设 (Marriage Couple Relationship Core)"
-description: "夫妻相处核心关系建设 (Marriage Couple Relationship Core)的详细解析与实践指南"
+description: "夫妻相处核心关系建设 (Marriage Couple Relationship Core) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是夫妻相处核心关系建设"
   - "夫妻相处核心关系建设的核心概念"
   - "夫妻相处核心关系建设的方法与实践"
-trigger_keywords: ["夫妻相处核心关系建设", "anxiety", "assessment", "attachment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["夫妻相处核心关系建设", "Marriage", "Couple", "Relationship", "Core"]
+cross_refs: []
 ---
 # 夫妻相处核心关系建设 (Marriage Couple Relationship Core)
 

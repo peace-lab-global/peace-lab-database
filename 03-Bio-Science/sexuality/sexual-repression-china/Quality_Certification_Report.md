@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)"
-description: "中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)的详细解析与实践指南"
+description: "中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["intervention", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是中国社会性压抑专业内容体系质量认证报告"
   - "中国社会性压抑专业内容体系质量认证报告的核心概念"
   - "中国社会性压抑专业内容体系质量认证报告的方法与实践"
-trigger_keywords: ["act", "assessment", "clinical", "cognitive"]
+trigger_keywords: ["中国社会性压抑专业内容体系质量认证报告", "Quality", "Certification", "Report", "for"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
-    relation: "sexuality/therapy/trauma"
-
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "completeness/quality/assessment"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/completeness/assessment"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Quality_Report.md"
+    relation: "quality/completeness/assessment"
 ---
 # 中国社会性压抑专业内容体系质量认证报告 (Quality Certification Report for Sexual Repression in Chinese Society Professional Content System)
 

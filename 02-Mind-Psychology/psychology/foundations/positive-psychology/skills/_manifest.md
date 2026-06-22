@@ -9,6 +9,11 @@ skills:
     skill_name: 幸福感与积极心理评估
     filename: Wellbeing_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Flow.md"
+    relation: "心流/积极心理学/意义"
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
 ---
 
 # 积极心理学评估模块清单

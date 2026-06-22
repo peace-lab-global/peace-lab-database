@@ -1,7 +1,6 @@
 ---
-
 title: "《客房》The Guest House"
-description: "《客房》The Guest House的详细解析与实践指南"
+description: "《客房》The Guest House —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["depression", "mindfulness", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《客房》The Guest House"
   - "《客房》The Guest House的核心概念"
   - "《客房》The Guest House的方法与实践"
-trigger_keywords: ["body", "buddhism", "depression", "emotion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Funeral_Rites.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-
+trigger_keywords: ["depression", "《客房》The", "Guest", "House"]
+cross_refs: []
 ---
 # 《客房》The Guest House
 

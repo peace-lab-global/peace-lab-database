@@ -1,7 +1,6 @@
 ---
-
 title: "《包法利夫人》Madame Bovary"
-description: "《包法利夫人》Madame Bovary的详细解析与实践指南"
+description: "《包法利夫人》Madame Bovary —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《包法利夫人》Madame Bovary"
   - "《包法利夫人》Madame Bovary的核心概念"
   - "《包法利夫人》Madame Bovary的方法与实践"
-trigger_keywords: ["art", "behavioral", "crisis", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/attachment/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "attachment/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-
+trigger_keywords: ["《包法利夫人》Madame", "Bovary"]
+cross_refs: []
 ---
 # 《包法利夫人》Madame Bovary
 

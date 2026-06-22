@@ -1,7 +1,6 @@
 ---
-
 title: "《胡桃夹子》经典剧目分析 (The Nutcracker Classic Analysis)"
-description: "《胡桃夹子》经典剧目分析 (The Nutcracker Classic Analysis)的详细解析与实践指南"
+description: "《胡桃夹子》经典剧目分析 (The Nutcracker Classic Analysis) —— Classical Repertory · Nutcracker 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Classical Repertory > Nutcracker"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《胡桃夹子》经典剧目分析"
   - "《胡桃夹子》经典剧目分析的核心概念"
   - "《胡桃夹子》经典剧目分析的方法与实践"
-trigger_keywords: ["adolescent", "art", "assessment", "ballet"]
+trigger_keywords: ["ballet", "《胡桃夹子》经典剧目分析", "The", "Nutcracker", "Classic"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/舞蹈/analysis"
 ---
 # 《胡桃夹子》经典剧目分析 (The Nutcracker Classic Analysis)
 

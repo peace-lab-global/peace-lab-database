@@ -1,7 +1,6 @@
 ---
-
 title: "全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）"
-description: "全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）的详细解析与实践指南"
+description: "全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory） —— 瑜伽 · Practitioner Training 专题"
 category: "智慧传承 > 瑜伽 > Practitioner Training"
 tags: ["decision-making", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）"
   - "全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）的核心概念"
   - "全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）的方法与实践"
-trigger_keywords: ["decision-making", "sexuality", "yoga", "瑜伽"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["decision-making", "yoga", "瑜伽"]
+cross_refs: []
 ---
 # 全球瑜伽培训学校与中心目录（Yoga Schools & Training Centers Directory）
 

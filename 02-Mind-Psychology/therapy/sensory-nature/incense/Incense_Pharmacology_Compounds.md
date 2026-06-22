@@ -1,7 +1,6 @@
 ---
-
 title: "檀香药理学与活性化合物 (Incense Pharmacology & Active Compounds)"
-description: "檀香药理学与活性化合物 (Incense Pharmacology & Active Compounds)的详细解析与实践指南"
+description: "檀香药理学与活性化合物 (Incense Pharmacology & Active Compounds) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "depression", "gut", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是檀香药理学与活性化合物"
   - "檀香药理学与活性化合物的核心概念"
   - "檀香药理学与活性化合物的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["檀香药理学与活性化合物", "Incense", "Pharmacology", "Active", "Compounds"]
+cross_refs: []
 ---
 # 檀香药理学与活性化合物 (Incense Pharmacology & Active Compounds)
 

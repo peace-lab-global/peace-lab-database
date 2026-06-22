@@ -1,7 +1,6 @@
 ---
-
 title: "日本史学哲学 · 佛法视角三方书评"
-description: "日本史学哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "日本史学哲学 · 佛法视角三方书评 —— Japan · Historiography 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Historiography"
 tags: ["buddhism", "mindfulness", "philosophy", "positive-psychology", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是日本史学哲学 · 佛法视角三方书评"
   - "日本史学哲学 · 佛法视角三方书评的核心概念"
   - "日本史学哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["日本史学哲学", "佛法视角三方书评", "body", "buddhism", "exercise", "mindfulness"]
+trigger_keywords: ["日本史学哲学", "佛法视角三方书评", "exercise", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/Hindu_Meditation_Overview.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thomas_Hubl.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Dan_Harris.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Michael_Tamez.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "佛教/vs/运动"
 ---
 # 日本史学哲学 · 佛法视角三方书评
 

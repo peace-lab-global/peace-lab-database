@@ -1,7 +1,6 @@
 ---
-
 title: "Digital Age Dating & Online Relationship Dynamics (数字时代约会与在线关系动力学)"
-description: "Digital Age Dating & Online Relationship Dynamics (数字时代约会与在线关系动力学)的详细解析与实践指南"
+description: "Digital Age Dating & Online Relationship Dynamics (数字时代约会与在线关系动力学) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["cinema", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Digital Age Dating & Online Relationship Dynamics"
   - "Digital Age Dating & Online Relationship Dynamics的核心概念"
   - "Digital Age Dating & Online Relationship Dynamics的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["Digital", "Age", "Dating", "Online", "Relationship"]
+cross_refs: []
 ---
 # Digital Age Dating & Online Relationship Dynamics (数字时代约会与在线关系动力学)
 

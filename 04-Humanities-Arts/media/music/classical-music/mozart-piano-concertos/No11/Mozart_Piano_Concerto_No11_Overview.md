@@ -1,7 +1,6 @@
 ---
-
 title: "莫扎特《第11号钢琴协奏曲》综合指南"
-description: "莫扎特《第11号钢琴协奏曲》综合指南的详细解析与实践指南"
+description: "莫扎特《第11号钢琴协奏曲》综合指南 —— Mozart Piano Concertos · No11 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Piano Concertos > No11"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是莫扎特《第11号钢琴协奏曲》综合指南"
   - "莫扎特《第11号钢琴协奏曲》综合指南的核心概念"
   - "莫扎特《第11号钢琴协奏曲》综合指南的方法与实践"
-trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
+trigger_keywords: ["莫扎特《第11号钢琴协奏曲》综合指南"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
 ---
 # 莫扎特《第11号钢琴协奏曲》综合指南
 

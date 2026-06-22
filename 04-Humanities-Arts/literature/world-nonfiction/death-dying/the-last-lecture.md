@@ -1,7 +1,6 @@
 ---
-
 title: "《最后的演讲》The Last Lecture"
-description: "《最后的演讲》The Last Lecture的详细解析与实践指南"
+description: "《最后的演讲》The Last Lecture —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《最后的演讲》The Last Lecture"
   - "《最后的演讲》The Last Lecture的核心概念"
   - "《最后的演讲》The Last Lecture的方法与实践"
-trigger_keywords: ["adolescent", "death", "philosophy", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication"
-
+trigger_keywords: ["文学", "《最后的演讲》The", "Last", "Lecture"]
+cross_refs: []
 ---
 # 《最后的演讲》The Last Lecture
 

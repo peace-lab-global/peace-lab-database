@@ -1,7 +1,6 @@
 ---
-
 title: "traditions | Index"
-description: "traditions | Index的详细解析与实践指南"
+description: "traditions | Index —— 佛教 · Traditions 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是traditions | Index"
   - "traditions | Index的核心概念"
   - "traditions | Index的方法与实践"
-trigger_keywords: ["traditions", "Index", "佛教", "宗教与灵性"]
+trigger_keywords: ["traditions", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/vajrayana"
 ---
 # traditions | Index
 

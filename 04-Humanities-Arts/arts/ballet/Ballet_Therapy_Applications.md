@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)"
-description: "芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)的详细解析与实践指南"
+description: "芭蕾舞治疗应用体系 (Ballet Therapeutic Applications) —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "芭蕾舞治疗应用体系的核心概念"
   - "芭蕾舞治疗应用体系的方法与实践"
   - "芭蕾舞治疗应用体系的循证证据"
-trigger_keywords: ["芭蕾舞治疗应用体系", "adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["芭蕾舞治疗应用体系", "Ballet", "Therapeutic", "Applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet/specific"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet/舞蹈"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Ballet_Dancer_Fetishism.md"
+    relation: "芭蕾/ballet/treatment"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
+    relation: "foundation/treatment/theoretical"
 ---
 # 芭蕾舞治疗应用体系 (Ballet Therapeutic Applications)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《三明治年代》The Sandwich Years"
-description: "《三明治年代》The Sandwich Years的详细解析与实践指南"
+description: "《三明治年代》The Sandwich Years —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["music", "stress"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《三明治年代》The Sandwich Years"
   - "《三明治年代》The Sandwich Years的核心概念"
   - "《三明治年代》The Sandwich Years的方法与实践"
-trigger_keywords: ["aging", "behavioral", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/communication/exercise"
-
+trigger_keywords: ["《三明治年代》The", "Sandwich", "Years"]
+cross_refs: []
 ---
 # 《三明治年代》The Sandwich Years
 

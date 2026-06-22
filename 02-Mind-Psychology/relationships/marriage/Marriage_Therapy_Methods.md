@@ -1,7 +1,6 @@
 ---
-
 title: "Marriage Therapy Methods (婚姻治疗方法)"
-description: "Marriage Therapy Methods (婚姻治疗方法)的详细解析与实践指南"
+description: "Marriage Therapy Methods (婚姻治疗方法) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Marriage Therapy Methods"
   - "Marriage Therapy Methods的核心概念"
   - "Marriage Therapy Methods的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Marriage", "Therapy", "Methods", "婚姻治疗方法"]
+cross_refs: []
 ---
 # Marriage Therapy Methods (婚姻治疗方法)
 

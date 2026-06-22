@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学专业体系最终质量审查报告"
-description: "职业心理学专业体系最终质量审查报告的详细解析与实践指南"
+description: "职业心理学专业体系最终质量审查报告 —— 应用心理学 · Vocational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
 tags: ["intervention", "treatment", "应用心理学"]
 last_updated: "2026-05"
@@ -13,9 +12,10 @@ intent_queries:
   - "职业心理学专业体系最终质量审查报告的核心概念"
   - "职业心理学专业体系最终质量审查报告的方法与实践"
   - "职业心理学专业体系最终质量审查报告的自助方法"
-trigger_keywords: ["assessment", "clinical", "developmental", "intervention"]
-cross_refs: []
-
+trigger_keywords: ["intervention", "职业心理学专业体系最终质量审查报告"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/graph"
 ---
 # 职业心理学专业体系最终质量审查报告
 

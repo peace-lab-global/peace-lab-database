@@ -1,7 +1,6 @@
 ---
-
 title: "Skin Diseases Quality Assurance Report (皮肤病内容质量保证报告)"
-description: "Skin Diseases Quality Assurance Report (皮肤病内容质量保证报告)的详细解析与实践指南"
+description: "Skin Diseases Quality Assurance Report (皮肤病内容质量保证报告) —— 生物学 · Skin Diseases 专题"
 category: "生命科学与生物医学 > 生物学 > Skin Diseases"
 tags: ["sexuality", "treatment", "生物学"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Skin Diseases Quality Assurance Report"
   - "Skin Diseases Quality Assurance Report的核心概念"
   - "Skin Diseases Quality Assurance Report的方法与实践"
-trigger_keywords: ["act", "assessment", "clinical", "developmental"]
+trigger_keywords: ["Skin", "Diseases", "Quality", "Assurance", "Report"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
-    relation: "sexuality/therapy"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md"
+    relation: "assurance/quality/certification"
 ---
 # Skin Diseases Quality Assurance Report (皮肤病内容质量保证报告)
 

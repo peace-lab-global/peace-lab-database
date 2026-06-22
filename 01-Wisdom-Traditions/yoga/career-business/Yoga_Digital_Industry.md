@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽数字产业全景（Yoga Digital Industry）"
-description: "瑜伽数字产业全景（Yoga Digital Industry）的详细解析与实践指南"
+description: "瑜伽数字产业全景（Yoga Digital Industry） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["decision-making", "meditation", "yoga", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是瑜伽数字产业全景（Yoga Digital Industry）"
   - "瑜伽数字产业全景（Yoga Digital Industry）的核心概念"
   - "瑜伽数字产业全景（Yoga Digital Industry）的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["瑜伽数字产业全景", "Yoga", "Digital", "Industry"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "anxiety/meditation/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "app/ai/ar"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
+    relation: "app/industry/digital"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "app/ai/vr"
 ---
 # 瑜伽数字产业全景（Yoga Digital Industry）
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)"
-description: "Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)的详细解析与实践指南"
+description: "Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Gender Discrimination Training Materials and Curriculum Design"
   - "Gender Discrimination Training Materials and Curriculum Design的核心概念"
   - "Gender Discrimination Training Materials and Curriculum Design的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["Gender", "Discrimination", "Training", "Materials", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/Faculty_Training_Development_System.md"
+    relation: "module/training/design"
 ---
 # Gender Discrimination Training Materials and Curriculum Design (性别歧视培训材料与课程设计)
 

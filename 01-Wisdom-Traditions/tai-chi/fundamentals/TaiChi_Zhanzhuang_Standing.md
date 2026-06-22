@@ -12,11 +12,7 @@ intent_queries:
   - "无极桩和混元桩的区别"
   - "站桩的正确姿势"
 trigger_keywords: ["站桩", "无极桩", "混元桩", "三体式", "桩功"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/qigong-neigong/TaiChi_Neigong_Cultivation.md"
-    relation: "neigong-cultivation"
+cross_refs: []
 ---
 # 站桩功法 | Zhanzhuang Standing Meditation
 

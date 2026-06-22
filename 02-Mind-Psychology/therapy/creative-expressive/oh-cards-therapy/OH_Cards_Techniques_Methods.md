@@ -1,7 +1,6 @@
 ---
-
 title: "OH卡疗法技巧方法详解 (OH Cards Therapy Techniques & Methods Detailed)"
-description: "OH卡疗法技巧方法详解 (OH Cards Therapy Techniques & Methods Detailed)的详细解析与实践指南"
+description: "OH卡疗法技巧方法详解 (OH Cards Therapy Techniques & Methods Detailed) —— 疗法 · Oh Cards Therapy 专题"
 category: "心智与心理学 > 疗法 > Oh Cards Therapy"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "OH卡疗法技巧方法详解的核心概念"
   - "OH卡疗法技巧方法详解的方法与实践"
   - "OH卡疗法技巧方法详解的循证证据"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["OH卡疗法技巧方法详解", "OH", "Cards", "Therapy", "Techniques"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/death/Death_LGBTQ_Death_Grief.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Techniques_Media.md"
+    relation: "br/techniques/adaptations"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
+    relation: "oh/cards/integration"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Clinical_Integration.md"
+    relation: "br/group/integration"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Case_Studies.md"
+    relation: "oh/cards/basic"
 ---
 # OH卡疗法技巧方法详解 (OH Cards Therapy Techniques & Methods Detailed)
 

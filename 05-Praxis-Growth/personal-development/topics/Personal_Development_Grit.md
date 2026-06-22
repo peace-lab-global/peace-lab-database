@@ -1,7 +1,6 @@
 ---
-
 title: "Grit 坚毅"
-description: "Grit 坚毅的详细解析与实践指南"
+description: "Grit 坚毅 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["flow", "habits", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Grit 坚毅"
   - "Grit 坚毅的核心概念"
   - "Grit 坚毅的方法与实践"
-trigger_keywords: ["Grit 坚毅", "act", "behavioral", "developmental", "flow"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_09_Workplace.md"
-    relation: "anxiety/communication/neuroscience"
-
+trigger_keywords: ["Grit 坚毅", "flow"]
+cross_refs: []
 ---
 # Grit 坚毅
 

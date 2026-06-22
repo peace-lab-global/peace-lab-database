@@ -1,7 +1,6 @@
 ---
-
 title: "20世纪大陆哲学经典三方书评"
-description: "20世纪大陆哲学经典三方书评的详细解析与实践指南"
+description: "20世纪大陆哲学经典三方书评 —— 20Th Century · Continental 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Continental"
 tags: ["buddhism", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是20世纪大陆哲学经典三方书评"
   - "20世纪大陆哲学经典三方书评的核心概念"
   - "20世纪大陆哲学经典三方书评的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "buddhism", "cognitive"]
+trigger_keywords: ["20世纪大陆哲学经典三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-denial-of-death.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Self_Monitoring.md"
+    relation: "焦虑/意义"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/意义"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "焦虑/意义"
 ---
 # 20世纪大陆哲学经典三方书评
 

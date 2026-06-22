@@ -1,7 +1,6 @@
 ---
-
 title: "六瑜伽心理修炼专业内容体系"
-description: "六瑜伽心理修炼专业内容体系的详细解析与实践指南"
+description: "六瑜伽心理修炼专业内容体系 —— 瑜伽 · Six Yogas Naropa 专题"
 category: "智慧传承 > 瑜伽 > Six Yogas Naropa"
 tags: ["attachment", "buddhism", "habits", "yoga"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "六瑜伽心理修炼专业内容体系的核心概念"
   - "六瑜伽心理修炼专业内容体系的方法与实践"
   - "六瑜伽心理修炼专业内容体系的自助方法"
-trigger_keywords: ["assessment", "attachment", "body", "buddhism"]
+trigger_keywords: ["六瑜伽心理修炼专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "attachment/buddhism/death"
-  - path: "GLOSSARY.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "README.md"
-    relation: "attachment/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/buddhism/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-tibetan-yogas-of-dream-and-sleep.md"
+    relation: "瑜伽/yogas/藏传"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/secret-of-the-vajra-world.md"
+    relation: "瑜伽/藏传/佛教"
 ---
 # 六瑜伽心理修炼专业内容体系
 

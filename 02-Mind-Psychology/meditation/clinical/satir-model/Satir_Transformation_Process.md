@@ -1,7 +1,6 @@
 ---
-
 title: "Satir Transformation Process (萨提亚转化历程与技术详表)"
-description: "Satir Transformation Process (萨提亚转化历程与技术详表)的详细解析与实践指南"
+description: "Satir Transformation Process (萨提亚转化历程与技术详表) —— 冥想 · 萨提亚模式 专题"
 category: "心智与心理学 > 冥想 > 萨提亚模式"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Satir Transformation Process"
   - "Satir Transformation Process的核心概念"
   - "Satir Transformation Process的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/meditation"
-
+trigger_keywords: ["Satir", "Transformation", "Process", "萨提亚转化历程与技术详表"]
+cross_refs: []
 ---
 # Satir Transformation Process (萨提亚转化历程与技术详表)
 

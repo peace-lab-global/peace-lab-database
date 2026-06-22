@@ -1,7 +1,6 @@
 ---
-
 title: "Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)"
-description: "Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)的详细解析与实践指南"
+description: "Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "positive-psychology", "negotiation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Offer谈判与涨薪话术模板"
   - "Offer谈判与涨薪话术模板的核心概念"
   - "Offer谈判与涨薪话术模板的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Offer谈判与涨薪话术模板", "Offer", "Negotiation", "Salary", "Raise"]
+cross_refs: []
 ---
 # Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)
 

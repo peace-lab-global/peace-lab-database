@@ -1,7 +1,6 @@
 ---
-
 title: "15. 正念教师培训扩展手册 | Teaching Manual Extension"
-description: "15. 正念教师培训扩展手册 | Teaching Manual Extension的详细解析与实践指南"
+description: "15. 正念教师培训扩展手册 | Teaching Manual Extension —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["depression", "mbsr", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是15. 正念教师培训扩展手册 | Teaching Manual Extension"
   - "15. 正念教师培训扩展手册 | Teaching Manual Extension的核心概念"
   - "15. 正念教师培训扩展手册 | Teaching Manual Extension的方法与实践"
-trigger_keywords: ["assessment", "body", "breathwork", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "depression/emotion/exercise"
-
+trigger_keywords: ["15.", "正念教师培训扩展手册", "Teaching", "Manual", "Extension"]
+cross_refs: []
 ---
 # 15. 正念教师培训扩展手册 | Teaching Manual Extension
 

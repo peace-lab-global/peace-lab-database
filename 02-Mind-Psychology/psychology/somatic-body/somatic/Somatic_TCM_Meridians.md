@@ -1,7 +1,6 @@
 ---
-
 title: "TCM & Meridians (中医经络与生命节律)"
-description: "TCM & Meridians (中医经络与生命节律)的详细解析与实践指南"
+description: "TCM & Meridians (中医经络与生命节律) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["gut", "hpa-axis", "心理学", "躯体与情绪", "depression", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TCM & Meridians"
   - "TCM & Meridians的核心概念"
   - "TCM & Meridians的方法与实践"
-trigger_keywords: ["act", "emotion", "gut", "hpa-axis"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-preludes/Chopin_Preludes_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/depression"
-
+trigger_keywords: ["gut", "hpa-axis"]
+cross_refs: []
 ---
 # TCM & Meridians (中医经络与生命节律)
 

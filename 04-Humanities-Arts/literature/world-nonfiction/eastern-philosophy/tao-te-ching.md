@@ -1,7 +1,6 @@
 ---
-
 title: "《道德经》Tao Te Ching"
-description: "《道德经》Tao Te Ching的详细解析与实践指南"
+description: "《道德经》Tao Te Ching —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "intervention", "ocd", "phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《道德经》Tao Te Ching"
   - "《道德经》Tao Te Ching的核心概念"
   - "《道德经》Tao Te Ching的方法与实践"
-trigger_keywords: ["daoism", "death", "intervention", "ocd"]
+trigger_keywords: ["daoism", "intervention", "ocd"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "anxiety/daoism/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Dao_De_Jing.md"
+    relation: "道德经/无为/老子"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
+    relation: "道德经/无为/道家"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "道德经/老子/道家"
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "道德经/无为/道家"
 ---
 # 《道德经》Tao Te Ching
 

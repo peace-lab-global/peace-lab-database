@@ -1,7 +1,6 @@
 ---
-
 title: "护法系统 | Dharma Protectors | Dharmapāla"
-description: "护法系统 | Dharma Protectors | Dharmapāla的详细解析与实践指南"
+description: "护法系统 | Dharma Protectors | Dharmapāla —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "dzogchen", "habits", "longevity", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是护法系统 | Dharma Protectors | Dharmapāla"
   - "护法系统 | Dharma Protectors | Dharmapāla的核心概念"
   - "护法系统 | Dharma Protectors | Dharmapāla的方法与实践"
-trigger_keywords: ["护法系统", "Dharmapāla", "act", "body", "buddhism", "dzogchen"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/buddhism/productivity"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/buddhism/productivity"
-
+trigger_keywords: ["护法系统", "Dharmapāla", "dzogchen"]
+cross_refs: []
 ---
 # 护法系统 | Dharma Protectors | Dharmapāla
 

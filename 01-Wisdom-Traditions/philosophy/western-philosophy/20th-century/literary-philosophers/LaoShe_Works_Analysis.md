@@ -1,7 +1,6 @@
 ---
-
 title: "老舍主要作品深度分析"
-description: "老舍主要作品深度分析的详细解析与实践指南"
+description: "老舍主要作品深度分析 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是老舍主要作品深度分析"
   - "老舍主要作品深度分析的核心概念"
   - "老舍主要作品深度分析的方法与实践"
-trigger_keywords: ["老舍主要作品深度分析", "art", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "attachment/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Infidelity_Betrayal.md"
-    relation: "attachment/emotion/neuroscience"
-
+trigger_keywords: ["老舍主要作品深度分析"]
+cross_refs: []
 ---
 # 老舍主要作品深度分析
 

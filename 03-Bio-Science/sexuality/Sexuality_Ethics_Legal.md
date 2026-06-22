@@ -1,7 +1,6 @@
 ---
-
 title: "Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)"
-description: "Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)的详细解析与实践指南"
+description: "Ethics, Law, and Policy in Sexuality (性学伦理法律与政策) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["addiction", "decision-making", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Ethics, Law, and Policy in Sexuality"
   - "Ethics, Law, and Policy in Sexuality的核心概念"
   - "Ethics, Law, and Policy in Sexuality的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["Ethics", "Law", "and", "Policy", "in"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
-    relation: "communication/sexuality/trauma"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/Policy_Law_Ethics_Framework.md"
+    relation: "policy/sexuality/ethical"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/theory/INDEX.md"
+    relation: "policy/law/ethics"
 ---
 # Ethics, Law, and Policy in Sexuality (性学伦理法律与政策)
 

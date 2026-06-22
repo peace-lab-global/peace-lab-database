@@ -1,7 +1,6 @@
 ---
-
 title: "心念转化技术 (Mind Transformation Techniques)"
-description: "心念转化技术 (Mind Transformation Techniques)的详细解析与实践指南"
+description: "心念转化技术 (Mind Transformation Techniques) —— 佛教 · Vasana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
 tags: ["addiction", "buddhism", "cbt", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是心念转化技术"
   - "心念转化技术的核心概念"
   - "心念转化技术的方法与实践"
-trigger_keywords: ["心念转化技术", "act", "addiction", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Chanting_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["心念转化技术", "Mind", "Transformation", "Techniques"]
+cross_refs: []
 ---
 # 心念转化技术 (Mind Transformation Techniques)
 

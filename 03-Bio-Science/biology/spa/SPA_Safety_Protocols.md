@@ -1,7 +1,6 @@
 ---
-
 title: "SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)"
-description: "SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)的详细解析与实践指南"
+description: "SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症) —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是SPA Safety Protocols & Contraindications"
   - "SPA Safety Protocols & Contraindications的核心概念"
   - "SPA Safety Protocols & Contraindications的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/_manifest.md"
-    relation: "anxiety/cardiovascular/communication"
-
+trigger_keywords: ["SPA", "Safety", "Protocols", "Contraindications", "SPA安全规范与禁忌症"]
+cross_refs: []
 ---
 # SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)
 

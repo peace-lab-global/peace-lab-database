@@ -1,7 +1,6 @@
 ---
-
 title: "课题分离：临床应用与治疗技术 (Separation of Tasks: Clinical Application & Therapeutic Techniques)"
-description: "课题分离：临床应用与治疗技术 (Separation of Tasks: Clinical Application & Therapeutic Techniques)的详细解析与实践指南"
+description: "课题分离：临床应用与治疗技术 (Separation of Tasks: Clinical Application & Therapeutic Techniques) —— 心理学基础 · Adlerian Task Separation 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Adlerian Task Separation"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "课题分离：临床应用与治疗技术的核心概念"
   - "课题分离：临床应用与治疗技术的方法与实践"
   - "课题分离：临床应用与治疗技术的循证证据"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "anxiety/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "anxiety/therapy"
-
+trigger_keywords: ["课题分离：临床应用与治疗技术", "Separation", "of", "Tasks:", "Clinical"]
+cross_refs: []
 ---
 # 课题分离：临床应用与治疗技术 (Separation of Tasks: Clinical Application & Therapeutic Techniques)
 

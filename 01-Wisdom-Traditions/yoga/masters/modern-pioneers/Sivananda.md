@@ -1,7 +1,6 @@
 ---
-
 title: "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）"
-description: "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的详细解析与实践指南"
+description: "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द） —— Masters · Modern Pioneers 专题"
 category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
 tags: ["meditation", "mindfulness", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）"
   - "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的核心概念"
   - "斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）的方法与实践"
-trigger_keywords: ["斯瓦米", "breathwork", "exercise", "meditation", "mindfulness"]
+trigger_keywords: ["斯瓦米", "exercise", "meditation", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Holistic_Integration.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/meditation/nutrition"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Overview.md"
+    relation: "swami/satyananda/瑜伽"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "swami/瑜伽/冥想"
 ---
 # 斯瓦米·希瓦南达（Swami Sivananda / स्वामी शिवानन्द）
 

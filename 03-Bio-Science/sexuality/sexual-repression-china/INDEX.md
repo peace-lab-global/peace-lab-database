@@ -1,7 +1,6 @@
 ---
-
 title: "sexual-repression-china | Index"
-description: "sexual-repression-china | Index的详细解析与实践指南"
+description: "sexual-repression-china | Index —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["性学"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是sexual-repression-china | Index"
   - "sexual-repression-china | Index的核心概念"
   - "sexual-repression-china | Index的方法与实践"
-trigger_keywords: ["Index", "act", "性学"]
+trigger_keywords: ["性学", "sexual-repression-china"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
-    relation: "sexuality/therapy/trauma"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/INDEX.md"
+    relation: "comparative/formation/study"
 ---
 # sexual-repression-china | Index
 

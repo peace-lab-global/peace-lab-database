@@ -1,7 +1,6 @@
 ---
-
 title: "居住与办公空间设计 | Home & Office Space Design"
-description: "居住与办公空间设计 | Home & Office Space Design的详细解析与实践指南"
+description: "居住与办公空间设计 | Home & Office Space Design —— 艺术 · 空间疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 空间疗愈"
 tags: ["cortisol", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是居住与办公空间设计 | Home & Office Space Design"
   - "居住与办公空间设计 | Home & Office Space Design的核心概念"
   - "居住与办公空间设计 | Home & Office Space Design的方法与实践"
-trigger_keywords: ["居住与办公空间设计", "anxiety", "behavioral", "body", "brain"]
+trigger_keywords: ["居住与办公空间设计", "Home", "Office", "Space", "Design"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/home-organization/Space_Design_Principles.md"
+    relation: "space/design/睡眠"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-space/INDEX.md"
+    relation: "space/design/冥想"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "血压/压力/心率"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_07_Specialized.md"
+    relation: "睡眠/褪黑素/冥想"
 ---
 # 居住与办公空间设计 | Home & Office Space Design
 

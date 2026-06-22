@@ -1,7 +1,6 @@
 ---
-
 title: "家庭性教育支持体系 (Family Sexuality Education Support System)"
-description: "家庭性教育支持体系 (Family Sexuality Education Support System)的详细解析与实践指南"
+description: "家庭性教育支持体系 (Family Sexuality Education Support System) —— Child Adolescent Sexuality · Theory 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Theory"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是家庭性教育支持体系"
   - "家庭性教育支持体系的核心概念"
   - "家庭性教育支持体系的方法与实践"
-trigger_keywords: ["家庭性教育支持体系", "act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["家庭性教育支持体系", "Family", "Sexuality", "Education", "Support"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md"
+    relation: "sexuality/education/theoretical"
 ---
 # 家庭性教育支持体系 (Family Sexuality Education Support System)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "黄帝内经养生核心体系"
-description: "黄帝内经养生核心体系的详细解析与实践指南"
+description: "黄帝内经养生核心体系 —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是黄帝内经养生核心体系"
   - "黄帝内经养生核心体系的核心概念"
   - "黄帝内经养生核心体系的方法与实践"
-trigger_keywords: ["黄帝内经养生核心体系", "act", "adolescent", "aging", "body"]
+trigger_keywords: ["黄帝内经养生核心体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
-    relation: "aging/communication/exercise"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Mechanisms.md"
-    relation: "aging/communication/exercise"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "aging/communication/exercise"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/communication/exercise"
-  - path: "05-Praxis-Growth/talks/ted-talks/TED_Watching_Guide.md"
-    relation: "aging/communication/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "黄帝内经/neijing/阴阳"
 ---
 # 黄帝内经养生核心体系
 ## Neijing Core Health Preservation System

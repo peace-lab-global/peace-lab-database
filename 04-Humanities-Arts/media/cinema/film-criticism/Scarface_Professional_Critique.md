@@ -1,7 +1,6 @@
 ---
-
 title: "《疤面煞星》(Scarface, 1983) 专业影评：移民美国梦的暴力解构与资本主义批判"
-description: "《疤面煞星》(Scarface, 1983) 专业影评：移民美国梦的暴力解构与资本主义批判的详细解析与实践指南"
+description: "《疤面煞星》(Scarface, 1983) 专业影评：移民美国梦的暴力解构与资本主义批判 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["addiction", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《疤面煞星》 专业影评：移民美国梦的暴力解构与资本主义批判"
   - "《疤面煞星》 专业影评：移民美国梦的暴力解构与资本主义批判的核心概念"
   - "《疤面煞星》 专业影评：移民美国梦的暴力解构与资本主义批判的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/sexuality"
-
+trigger_keywords: ["《疤面煞星》", "Scarface", "1983", "专业影评：移民美国梦的暴力解构与资本主义批判"]
+cross_refs: []
 ---
 # 《疤面煞星》(Scarface, 1983) 专业影评：移民美国梦的暴力解构与资本主义批判
 

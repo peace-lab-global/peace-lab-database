@@ -1,7 +1,6 @@
 ---
-
 title: "庄子 (Zhuangzi)"
-description: "庄子 (Zhuangzi)的详细解析与实践指南"
+description: "庄子 (Zhuangzi) —— China · Taoism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
 tags: ["calligraphy", "cbt", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是庄子"
   - "庄子的核心概念"
   - "庄子的方法与实践"
-trigger_keywords: ["庄子", "anxiety", "art", "behavioral", "calligraphy"]
+trigger_keywords: ["庄子", "calligraphy"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/zhuangzi.md"
+    relation: "庄子/zhuangzi/道家"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "庄子/道家/智慧"
 ---
 # 庄子 (Zhuangzi)
 

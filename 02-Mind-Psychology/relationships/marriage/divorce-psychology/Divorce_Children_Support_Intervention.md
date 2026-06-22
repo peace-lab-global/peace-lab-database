@@ -1,7 +1,6 @@
 ---
-
 title: "离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)"
-description: "离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)的详细解析与实践指南"
+description: "离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce) —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "离婚家庭子女的心理支持与干预策略的核心概念"
   - "离婚家庭子女的心理支持与干预策略的方法与实践"
   - "离婚家庭子女的心理支持与干预策略的自助方法"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["离婚家庭子女的心理支持与干预策略", "Support", "Intervention", "for", "Children"]
+cross_refs: []
 ---
 # 离婚家庭子女的心理支持与干预策略 (Support & Intervention for Children of Divorce)
 

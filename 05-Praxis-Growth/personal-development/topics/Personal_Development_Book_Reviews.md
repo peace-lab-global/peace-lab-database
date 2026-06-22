@@ -1,7 +1,6 @@
 ---
-
 title: "Personal Development Book Reviews 个人发展书评汇总"
-description: "Personal Development Book Reviews 个人发展书评汇总的详细解析与实践指南"
+description: "Personal Development Book Reviews 个人发展书评汇总 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["communication", "decision-making", "habits", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Personal Development Book Reviews 个人发展书评汇总"
   - "Personal Development Book Reviews 个人发展书评汇总的核心概念"
   - "Personal Development Book Reviews 个人发展书评汇总的方法与实践"
-trigger_keywords: ["act", "behavioral", "cognitive", "communication"]
+trigger_keywords: ["Personal", "Development", "Book", "Reviews", "个人发展书评汇总"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "reviews/book/习惯"
 ---
 # Personal Development Book Reviews 个人发展书评汇总
 

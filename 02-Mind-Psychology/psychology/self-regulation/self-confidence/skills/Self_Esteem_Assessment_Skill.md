@@ -31,6 +31,9 @@ tags:
   - assessment
 author: Peace Lab Psychology Team
 last_updated: 2025-01-01
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "自尊/自我价值/抑郁"
 ---
 
 # 自尊与自我价值评估 | Self-Esteem & Self-Worth Assessment

@@ -1,7 +1,6 @@
 ---
-
 title: "玻璃心综合评估 | Fragile Ego Assessment Skill"
-description: "玻璃心综合评估 | Fragile Ego Assessment Skill的详细解析与实践指南"
+description: "玻璃心综合评估 | Fragile Ego Assessment Skill —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["decision-making", "intervention", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是玻璃心综合评估 | Fragile Ego Assessment Skill"
   - "玻璃心综合评估 | Fragile Ego Assessment Skill的核心概念"
   - "玻璃心综合评估 | Fragile Ego Assessment Skill的方法与实践"
-trigger_keywords: ["玻璃心综合评估", "assessment", "behavioral", "crisis", "decision-making"]
+trigger_keywords: ["玻璃心综合评估", "decision-making"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "communication/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "communication/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/trauma"
-
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
 ---
 # 玻璃心综合评估 | Fragile Ego Assessment Skill
 

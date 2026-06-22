@@ -1,7 +1,6 @@
 ---
-
 title: "Depression Early Warning Signals (抑郁症早期预警信号识别)"
-description: "Depression Early Warning Signals (抑郁症早期预警信号识别)的详细解析与实践指南"
+description: "Depression Early Warning Signals (抑郁症早期预警信号识别) —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["addiction", "anxiety", "attachment", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Depression Early Warning Signals"
   - "Depression Early Warning Signals的核心概念"
   - "Depression Early Warning Signals的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Depression", "Early", "Warning", "Signals", "抑郁症早期预警信号识别"]
+cross_refs: []
 ---
 # Depression Early Warning Signals (抑郁症早期预警信号识别)
 

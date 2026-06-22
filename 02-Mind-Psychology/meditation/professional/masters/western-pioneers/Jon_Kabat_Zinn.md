@@ -1,7 +1,6 @@
 ---
-
 title: "Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱"
-description: "Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱的详细解析与实践指南"
+description: "Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱 —— Masters · Western Pioneers 专题"
 category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
 tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱"
   - "Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱的核心概念"
   - "Jon Kabat-Zinn  — MBSR 创始人，正念医学化先驱的方法与实践"
-trigger_keywords: ["正念医学化先驱", "act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["正念医学化先驱", "Jon", "Kabat-Zinn", "乔恩", "卡巴金"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/mbsr/jon"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/reduction/kabat-zinn"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
+    relation: "mbsr/jon/kabat-zinn"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/wherever-you-go-there-you-are.md"
+    relation: "mbsr/正念/jon"
 ---
 # Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱
 

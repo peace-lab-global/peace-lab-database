@@ -1,7 +1,6 @@
 ---
-
 title: "Media Therapy Overview (媒体疗法概览)"
-description: "Media Therapy Overview (媒体疗法概览)的详细解析与实践指南"
+description: "Media Therapy Overview (媒体疗法概览) —— 媒体 · Media Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > Media Therapy"
 tags: ["addiction", "cbt", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Media Therapy Overview"
   - "Media Therapy Overview的核心概念"
   - "Media Therapy Overview的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["Media", "Therapy", "Overview", "媒体疗法概览"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/18-Digital-Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
+    relation: "疗法/therapy/modalities"
 ---
 # Media Therapy Overview (媒体疗法概览)
 

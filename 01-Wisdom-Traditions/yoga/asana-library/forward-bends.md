@@ -1,7 +1,6 @@
 ---
-
 title: "Forward Bends 前屈位体式"
-description: "Forward Bends 前屈位体式的详细解析与实践指南"
+description: "Forward Bends 前屈位体式 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["ocd", "stress", "yoga"]
 last_updated: "2026-05"
@@ -13,18 +12,7 @@ intent_queries:
   - "Forward Bends 前屈位体式的核心概念"
   - "Forward Bends 前屈位体式的方法与实践"
 trigger_keywords: ["ocd", "stress", "yoga", "瑜伽"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "stress/yoga"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-0-homework.md"
-    relation: "stress/yoga"
-
+cross_refs: []
 ---
 # Forward Bends 前屈位体式
 

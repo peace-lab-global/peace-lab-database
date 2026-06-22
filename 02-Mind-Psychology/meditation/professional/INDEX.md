@@ -2,6 +2,7 @@
 title: "冥想执行师与职业发展 | Meditation Professional"
 category: "心智与心理学 > 冥想 > 执行师与职业"
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 冥想执行师与职业发展 | Meditation Professional

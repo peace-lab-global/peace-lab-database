@@ -1,7 +1,6 @@
 ---
-
 title: "OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)"
-description: "OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)的详细解析与实践指南"
+description: "OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide) —— 疗法 · Oh Cards Therapy 专题"
 category: "心智与心理学 > 疗法 > Oh Cards Therapy"
 tags: ["addiction", "anxiety", "attachment", "depression", "trauma", "adhd"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "OH卡疗法临床应用指南的核心概念"
   - "OH卡疗法临床应用指南的方法与实践"
   - "OH卡疗法临床应用指南的循证证据"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["OH卡疗法临床应用指南", "OH", "Cards", "Therapy", "Clinical"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Case_Studies.md"
+    relation: "oh/cards/疗法"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
+    relation: "oh/cards/疗法"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Toolkit.md"
+    relation: "oh/cards/emergency"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "disorders/障碍/焦虑"
 ---
 # OH卡疗法临床应用指南 (OH Cards Therapy Clinical Application Guide)
 

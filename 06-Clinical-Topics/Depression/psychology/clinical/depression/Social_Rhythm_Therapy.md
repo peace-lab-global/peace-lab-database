@@ -1,6 +1,6 @@
 ---
 title: "Social Rhythm Therapy"
-description: "Social Rhythm Therapy的详细解析与实践指南"
+description: "Social Rhythm Therapy —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["临床心理", "心理学", "抑郁症"]
 last_updated: "2026-05"
@@ -12,17 +12,7 @@ intent_queries:
   - "Social Rhythm Therapy的核心概念"
   - "Social Rhythm Therapy的方法与实践"
 trigger_keywords: ["临床心理", "心理学", "抑郁症"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
-    relation: "depression/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "depression/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
-    relation: "depression/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy_System.md"
-    relation: "depression/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/therapy"
+cross_refs: []
 ---
 # Social Rhythm Therapy
 

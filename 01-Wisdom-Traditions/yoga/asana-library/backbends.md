@@ -1,7 +1,6 @@
 ---
-
 title: "Backbends 后弯位体式"
-description: "Backbends 后弯位体式的详细解析与实践指南"
+description: "Backbends 后弯位体式 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["stress", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Backbends 后弯位体式"
   - "Backbends 后弯位体式的核心概念"
   - "Backbends 后弯位体式的方法与实践"
-trigger_keywords: ["exercise", "sexuality", "stress", "瑜伽"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
-    relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
-    relation: "cardiovascular/exercise/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_SPA_Bodywork.md"
-    relation: "cardiovascular/exercise/sexuality"
-
+trigger_keywords: ["exercise", "stress", "瑜伽"]
+cross_refs: []
 ---
 # Backbends 后弯位体式
 

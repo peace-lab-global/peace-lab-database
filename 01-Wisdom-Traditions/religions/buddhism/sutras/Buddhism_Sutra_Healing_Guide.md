@@ -1,7 +1,6 @@
 ---
-
 title: "佛教经典疗愈导读 (Buddhist Sutras Healing Guide)"
-description: "佛教经典疗愈导读 (Buddhist Sutras Healing Guide)的详细解析与实践指南"
+description: "佛教经典疗愈导读 (Buddhist Sutras Healing Guide) —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是佛教经典疗愈导读"
   - "佛教经典疗愈导读的核心概念"
   - "佛教经典疗愈导读的方法与实践"
-trigger_keywords: ["佛教经典疗愈导读", "anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["佛教经典疗愈导读", "Buddhist", "Sutras", "Healing", "Guide"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Dipa_Ma.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "sutra/diamond/般若"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "sutra/般若/佛教"
 ---
 # 佛教经典疗愈导读 (Buddhist Sutras Healing Guide)
 

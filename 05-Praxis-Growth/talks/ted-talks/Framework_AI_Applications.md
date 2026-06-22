@@ -1,7 +1,6 @@
 ---
-
 title: "AI应用 | AI Applications"
-description: "AI应用 | AI Applications的详细解析与实践指南"
+description: "AI应用 | AI Applications —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "music", "positive-psychology", "productivity", "social"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是AI应用 | AI Applications"
   - "AI应用 | AI Applications的核心概念"
   - "AI应用 | AI Applications的方法与实践"
-trigger_keywords: ["AI应用", "act", "clinical", "decision-making", "music"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/exercise/productivity"
-
+trigger_keywords: ["AI应用", "decision-making", "music"]
+cross_refs: []
 ---
 # AI应用 | AI Applications
 

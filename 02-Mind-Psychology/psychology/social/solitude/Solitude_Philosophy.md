@@ -1,7 +1,6 @@
 ---
-
 title: "东西方独处哲学传统 (Philosophy of Solitude: East & West)"
-description: "东西方独处哲学传统 (Philosophy of Solitude: East & West)的详细解析与实践指南"
+description: "东西方独处哲学传统 (Philosophy of Solitude: East & West) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["anxiety", "daoism", "healing", "jung", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是东西方独处哲学传统"
   - "东西方独处哲学传统的核心概念"
   - "东西方独处哲学传统的方法与实践"
-trigger_keywords: ["东西方独处哲学传统", "act", "anxiety", "body", "cognitive"]
+trigger_keywords: ["东西方独处哲学传统", "Philosophy", "of", "Solitude:", "East"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
   - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/daoism/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/buddhism/emotion"
-
+    relation: "solitude/道家/智慧"
+  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Psychological_Wisdom.md"
+    relation: "智慧/道家"
 ---
 # 东西方独处哲学传统 (Philosophy of Solitude: East & West)
 

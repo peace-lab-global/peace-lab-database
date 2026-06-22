@@ -1,7 +1,6 @@
 ---
-
 title: "社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)"
-description: "社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)的详细解析与实践指南"
+description: "社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia) —— 临床心理 · Phobia 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Phobia"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是社交恐惧症与广场恐惧症"
   - "社交恐惧症与广场恐惧症的核心概念"
   - "社交恐惧症与广场恐惧症的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["社交恐惧症与广场恐惧症", "Social", "Anxiety", "Disorder", "Agoraphobia"]
+cross_refs: []
 ---
 # 社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)
 

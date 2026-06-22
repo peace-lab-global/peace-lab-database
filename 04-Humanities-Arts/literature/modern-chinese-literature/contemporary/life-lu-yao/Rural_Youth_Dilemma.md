@@ -1,7 +1,6 @@
 ---
-
 title: "农村青年的出路与死路"
-description: "农村青年的出路与死路的详细解析与实践指南"
+description: "农村青年的出路与死路 —— Contemporary · Life Lu Yao 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是农村青年的出路与死路"
   - "农村青年的出路与死路的核心概念"
   - "农村青年的出路与死路的方法与实践"
-trigger_keywords: ["农村青年的出路与死路", "anxiety", "body", "sexuality", "文学"]
+trigger_keywords: ["农村青年的出路与死路", "文学"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
     relation: "anxiety/art_therapy/emotion"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "anxiety/art_therapy/emotion"
   - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "anxiety/art_therapy/emotion"
-
 ---
 # 农村青年的出路与死路
 

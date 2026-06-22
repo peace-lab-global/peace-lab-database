@@ -13,10 +13,14 @@ intent_queries:
   - "社区太极防跌项目"
 trigger_keywords: ["跌倒", "平衡", "老年人", "防跌", "RCT"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
-    relation: "clinical-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Stepwork_Balance.md"
-    relation: "balance-training"
+  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/evidence/MBCT_RCT_Evidence_Summary.md"
+    relation: "rct/al/et"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/evidence/ACT_RCT_Evidence_Summary.md"
+    relation: "rct/al/et"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md"
+    relation: "rct/al/et"
+  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/evidence/CBT_RCT_Evidence_Summary.md"
+    relation: "rct/al/et"
 ---
 # 平衡与跌倒预防 | Balance & Fall Prevention
 

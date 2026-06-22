@@ -1,7 +1,6 @@
 ---
-
 title: "divorce-psychology | 离婚心理学专题"
-description: "divorce-psychology | 离婚心理学专题的详细解析与实践指南"
+description: "divorce-psychology | 离婚心理学专题 —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["decision-making", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "divorce-psychology | 离婚心理学专题的核心概念"
   - "divorce-psychology | 离婚心理学专题的方法与实践"
   - "divorce-psychology | 离婚心理学专题的自助方法"
-trigger_keywords: ["离婚心理学专题", "act", "assessment", "clinical", "cognitive"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
-    relation: "attachment/communication/productivity"
-  - path: "README.md"
-    relation: "attachment/communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/productivity/sexuality"
-
+trigger_keywords: ["离婚心理学专题", "divorce-psychology"]
+cross_refs: []
 ---
 # divorce-psychology | 离婚心理学专题
 

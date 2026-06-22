@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽纪录片完整指南 | Yoga Documentary Guide"
-description: "瑜伽纪录片完整指南 | Yoga Documentary Guide的详细解析与实践指南"
+description: "瑜伽纪录片完整指南 | Yoga Documentary Guide —— 瑜伽 · Documentary 专题"
 category: "智慧传承 > 瑜伽 > Documentary"
 tags: ["cardiovascular", "cinema", "cortisol", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽纪录片完整指南 | Yoga Documentary Guide"
   - "瑜伽纪录片完整指南 | Yoga Documentary Guide的核心概念"
   - "瑜伽纪录片完整指南 | Yoga Documentary Guide的方法与实践"
-trigger_keywords: ["瑜伽纪录片完整指南", "art", "body", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
-    relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
-    relation: "cardiovascular/exercise/stress"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_SPA_Bodywork.md"
-    relation: "cardiovascular/exercise/stress"
-
+trigger_keywords: ["瑜伽纪录片完整指南", "cardiovascular"]
+cross_refs: []
 ---
 # 瑜伽纪录片完整指南 | Yoga Documentary Guide
 

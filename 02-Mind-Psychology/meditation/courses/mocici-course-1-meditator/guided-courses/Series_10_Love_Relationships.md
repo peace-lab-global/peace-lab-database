@@ -1,7 +1,6 @@
 ---
-
 title: "系列十：婚恋关系系列 | Love & Relationships Series"
-description: "系列十：婚恋关系系列 | Love & Relationships Series的详细解析与实践指南"
+description: "系列十：婚恋关系系列 | Love & Relationships Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "attachment", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列十：婚恋关系系列 | Love & Relationships Series"
   - "系列十：婚恋关系系列 | Love & Relationships Series的核心概念"
   - "系列十：婚恋关系系列 | Love & Relationships Series的方法与实践"
-trigger_keywords: ["系列十：婚恋关系系列", "anxiety", "attachment", "behavioral", "body"]
+trigger_keywords: ["系列十：婚恋关系系列", "Love", "Relationships", "Series"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Youth_Population_Intervention.md"
+    relation: "亲密关系/自信/沟通"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/亲密关系/正念"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "沟通/依恋/焦虑"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "依恋/恐惧/创伤"
 ---
 # 系列十：婚恋关系系列 | Love & Relationships Series
 

@@ -1,7 +1,6 @@
 ---
-
 title: "独处与创造力：孤独中的灵光 (Solitude & Creativity)"
-description: "独处与创造力：孤独中的灵光 (Solitude & Creativity)的详细解析与实践指南"
+description: "独处与创造力：孤独中的灵光 (Solitude & Creativity) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["anxiety", "brain", "dmn"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是独处与创造力：孤独中的灵光"
   - "独处与创造力：孤独中的灵光的核心概念"
   - "独处与创造力：孤独中的灵光的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/exercise/neuroscience"
-
+trigger_keywords: ["独处与创造力：孤独中的灵光", "Solitude", "Creativity"]
+cross_refs: []
 ---
 # 独处与创造力：孤独中的灵光 (Solitude & Creativity)
 

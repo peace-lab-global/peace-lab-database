@@ -1,7 +1,6 @@
 ---
-
 title: "铃木大拙 (D.T. Suzuki)"
-description: "铃木大拙 (D.T. Suzuki)的详细解析与实践指南"
+description: "铃木大拙 (D.T. Suzuki) —— Japan · 佛教 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > 佛教"
 tags: ["healing", "meditation", "mindfulness", "philosophy", "zen", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是铃木大拙"
   - "铃木大拙的核心概念"
   - "铃木大拙的方法与实践"
-trigger_keywords: ["铃木大拙", "art", "cognitive", "developmental", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["铃木大拙", "healing"]
+cross_refs: []
 ---
 # 铃木大拙 (D.T. Suzuki)
 

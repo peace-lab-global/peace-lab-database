@@ -1,7 +1,6 @@
 ---
-
 title: "冷暴力评估诊断工具专业内容体系"
-description: "冷暴力评估诊断工具专业内容体系的详细解析与实践指南"
+description: "冷暴力评估诊断工具专业内容体系 —— 社会心理学 · Emotional Abuse 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冷暴力评估诊断工具专业内容体系"
   - "冷暴力评估诊断工具专业内容体系的核心概念"
   - "冷暴力评估诊断工具专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["冷暴力评估诊断工具专业内容体系"]
+cross_refs: []
 ---
 # 冷暴力评估诊断工具专业内容体系
 

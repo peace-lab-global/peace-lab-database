@@ -1,7 +1,6 @@
 ---
-
 title: "《大学》The Great Learning"
-description: "《大学》The Great Learning的详细解析与实践指南"
+description: "《大学》The Great Learning —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["ocd", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《大学》The Great Learning"
   - "《大学》The Great Learning的核心概念"
   - "《大学》The Great Learning的方法与实践"
-trigger_keywords: ["behavioral", "body", "emotion", "ocd"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/emotion/meditation"
-
+trigger_keywords: ["ocd", "《大学》The", "Great", "Learning"]
+cross_refs: []
 ---
 # 《大学》The Great Learning
 

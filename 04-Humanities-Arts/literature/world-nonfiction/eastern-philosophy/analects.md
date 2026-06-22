@@ -1,7 +1,6 @@
 ---
-
 title: "《论语》Analects"
-description: "《论语》Analects的详细解析与实践指南"
+description: "《论语》Analects —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《论语》Analects"
   - "《论语》Analects的核心概念"
   - "《论语》Analects的方法与实践"
-trigger_keywords: ["aging", "behavioral", "buddhism", "daoism"]
+trigger_keywords: ["daoism", "《论语》Analects"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教"
 ---
 # 《论语》Analects
 

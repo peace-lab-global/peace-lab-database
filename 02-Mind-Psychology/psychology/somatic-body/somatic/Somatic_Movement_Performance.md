@@ -1,7 +1,6 @@
 ---
-
 title: "Movement Performance (表现心理与运动绩效)"
-description: "Movement Performance (表现心理与运动绩效)的详细解析与实践指南"
+description: "Movement Performance (表现心理与运动绩效) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "cortisol", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Movement Performance"
   - "Movement Performance的核心概念"
   - "Movement Performance的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "body"]
+trigger_keywords: ["Movement", "Performance", "表现心理与运动绩效"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "05-Praxis-Growth/personal-development/flow/Flow_Clinical_Applications.md"
+    relation: "心流/flow/state"
+  - path: "05-Praxis-Growth/personal-development/flow/INDEX.md"
+    relation: "flow/state"
+  - path: "05-Praxis-Growth/personal-development/flow/Flow_State_Core.md"
+    relation: "心流/flow/state"
 ---
 # Movement Performance (表现心理与运动绩效)
 

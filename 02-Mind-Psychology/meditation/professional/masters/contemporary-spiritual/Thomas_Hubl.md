@@ -1,7 +1,6 @@
 ---
-
 title: "托马斯·许布尔 (Thomas Hübl)"
-description: "托马斯·许布尔 (Thomas Hübl)的详细解析与实践指南"
+description: "托马斯·许布尔 (Thomas Hübl) —— Masters · Contemporary Spiritual 专题"
 category: "心智与心理学 > 冥想 > Masters > Contemporary Spiritual"
 tags: ["anxiety", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是托马斯·许布尔"
   - "托马斯·许布尔的核心概念"
   - "托马斯·许布尔的方法与实践"
-trigger_keywords: ["托马斯", "许布尔", "act", "anxiety", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["托马斯", "许布尔"]
+cross_refs: []
 ---
 # 托马斯·许布尔 (Thomas Hübl)
 

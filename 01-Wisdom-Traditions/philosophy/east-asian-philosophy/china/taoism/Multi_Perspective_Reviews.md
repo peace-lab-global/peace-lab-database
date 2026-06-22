@@ -1,7 +1,6 @@
 ---
-
 title: "道家哲学经典三方书评"
-description: "道家哲学经典三方书评的详细解析与实践指南"
+description: "道家哲学经典三方书评 —— China · Taoism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
 tags: ["daoism", "philosophy", "zen", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是道家哲学经典三方书评"
   - "道家哲学经典三方书评的核心概念"
   - "道家哲学经典三方书评的方法与实践"
-trigger_keywords: ["道家哲学经典三方书评", "art", "daoism", "developmental", "literature"]
+trigger_keywords: ["道家哲学经典三方书评", "daoism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/professional/masters/chinese/Jiang_Weiqiao.md"
-    relation: "buddhism/communication/daoism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
-    relation: "buddhism/communication/daoism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/tao-te-ching.md"
+    relation: "道德经/无为/道家"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/shen-tzu.md"
+    relation: "无为/道家/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/lieh-tzu.md"
+    relation: "庄子/老子/道家"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huainanzi.md"
+    relation: "庄子/道家/老子"
 ---
 # 道家哲学经典三方书评
 

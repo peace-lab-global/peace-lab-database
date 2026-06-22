@@ -1,7 +1,6 @@
 ---
-
 title: "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism"
-description: "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism的详细解析与实践指南"
+description: "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["jung", "mindfulness", "philosophy", "christianity", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism"
   - "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism的核心概念"
   - "卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism的方法与实践"
-trigger_keywords: ["卡巴拉与犹太神秘主义", "art", "body", "brain", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/14-HRV-Biofeedback.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/emotion/exercise"
-
+trigger_keywords: ["卡巴拉与犹太神秘主义", "Kabbalah", "Jewish", "Mysticism"]
+cross_refs: []
 ---
 # 卡巴拉与犹太神秘主义 | Kabbalah & Jewish Mysticism
 

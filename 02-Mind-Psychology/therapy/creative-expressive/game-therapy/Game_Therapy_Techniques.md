@@ -1,7 +1,6 @@
 ---
-
 title: "游戏疗法技术手册 (Game Therapy Techniques)"
-description: "游戏疗法技术手册 (Game Therapy Techniques)的详细解析与实践指南"
+description: "游戏疗法技术手册 (Game Therapy Techniques) —— 疗法 · Game Therapy 专题"
 category: "心智与心理学 > 疗法 > Game Therapy"
 tags: ["anxiety", "adhd", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "游戏疗法技术手册的核心概念"
   - "游戏疗法技术手册的方法与实践"
   - "游戏疗法技术手册的循证证据"
-trigger_keywords: ["游戏疗法技术手册", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["游戏疗法技术手册", "Game", "Therapy", "Techniques"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "疗法/情绪调节/认知行为"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Guide.md"
+    relation: "疗法/therapy/创伤"
+  - path: "04-Humanities-Arts/arts/arts-therapy/INDEX.md"
+    relation: "疗法/therapy/techniques"
 ---
 # 游戏疗法技术手册 (Game Therapy Techniques)
 

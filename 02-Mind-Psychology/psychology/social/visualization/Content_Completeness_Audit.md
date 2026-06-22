@@ -1,7 +1,6 @@
 ---
-
 title: "孤独/独处专题：心理学院校课程维度完整度审计报告"
-description: "孤独/独处专题：心理学院校课程维度完整度审计报告的详细解析与实践指南"
+description: "孤独/独处专题：心理学院校课程维度完整度审计报告 —— 社会心理学 · Visualization 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Visualization"
 tags: ["anxiety", "attachment", "cardiovascular", "personality"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "孤独/独处专题：心理学院校课程维度完整度审计报告的核心概念"
   - "孤独/独处专题：心理学院校课程维度完整度审计报告的方法与实践"
   - "孤独/独处专题：心理学院校课程维度完整度审计报告的自助方法"
-trigger_keywords: ["孤独", "adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["孤独", "独处专题：心理学院校课程维度完整度审计报告"]
+cross_refs: []
 ---
 # 孤独/独处专题：心理学院校课程维度完整度审计报告
 

@@ -1,7 +1,6 @@
 ---
-
 title: "失眠自我评估与筛查指南"
-description: "失眠自我评估与筛查指南的详细解析与实践指南"
+description: "失眠自我评估与筛查指南 —— 躯体与情绪 · Insomnia 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Insomnia"
 tags: ["anxiety", "brain", "cbt", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是失眠自我评估与筛查指南"
   - "失眠自我评估与筛查指南的核心概念"
   - "失眠自我评估与筛查指南的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["失眠自我评估与筛查指南"]
+cross_refs: []
 ---
 # 失眠自我评估与筛查指南
 

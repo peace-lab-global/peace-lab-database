@@ -1,7 +1,6 @@
 ---
-
 title: "佛教专业内容体系目录结构说明 (Buddhism Professional Content Directory Structure)"
-description: "佛教专业内容体系目录结构说明 (Buddhism Professional Content Directory Structure)的详细解析与实践指南"
+description: "佛教专业内容体系目录结构说明 (Buddhism Professional Content Directory Structure) —— 宗教与灵性 · 佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教"
 tags: ["buddhism", "dzogchen", "healing", "leadership", "meditation", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是佛教专业内容体系目录结构说明"
   - "佛教专业内容体系目录结构说明的核心概念"
   - "佛教专业内容体系目录结构说明的方法与实践"
-trigger_keywords: ["act", "body", "buddhism", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["佛教专业内容体系目录结构说明", "Buddhism", "Professional", "Content", "Directory"]
+cross_refs: []
 ---
 # 佛教专业内容体系目录结构说明 (Buddhism Professional Content Directory Structure)
 

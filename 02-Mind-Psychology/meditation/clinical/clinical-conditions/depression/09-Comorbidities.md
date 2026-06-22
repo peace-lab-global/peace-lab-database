@@ -1,7 +1,6 @@
 ---
-
 title: "Comorbidities"
-description: "Comorbidities的详细解析与实践指南"
+description: "Comorbidities —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "depression", "intervention", "mbct", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Comorbidities"
   - "Comorbidities的核心概念"
   - "Comorbidities的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "cognitive"]
+trigger_keywords: ["Comorbidities"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "创伤/抑郁/焦虑"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Thought_Analysis.md"
+    relation: "创伤/焦虑"
 ---
 ## 9. 共病考量
 

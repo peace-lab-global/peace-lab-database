@@ -1,7 +1,6 @@
 ---
-
 title: "禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)"
-description: "禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)的详细解析与实践指南"
+description: "禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["decision-making", "meditation", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是禅宗打七仪轨"
   - "禅宗打七仪轨的核心概念"
   - "禅宗打七仪轨的方法与实践"
-trigger_keywords: ["禅宗打七仪轨", "act", "anxiety", "body", "breathwork"]
+trigger_keywords: ["禅宗打七仪轨", "Zen", "Seven-Day", "Retreat", "Chan"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/INDEX.md"
+    relation: "zazen/话头/坐禅"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/zen"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/Zazen_Koan_Collection.md"
+    relation: "话头/坐禅/禅宗"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-chan-whip-anthology.md"
+    relation: "禅宗/chan"
 ---
 # 禅宗打七仪轨 (Zen Seven-Day Retreat / Chan Qi)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "人口学 | Demography & Social Sciences"
-description: "人口学 | Demography & Social Sciences的详细解析与实践指南"
+description: "人口学 | Demography & Social Sciences —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "resilience", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人口学 | Demography & Social Sciences"
   - "人口学 | Demography & Social Sciences的核心概念"
   - "人口学 | Demography & Social Sciences的方法与实践"
-trigger_keywords: ["人口学", "child", "cognitive", "communication", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
-    relation: "communication/sexuality/trauma"
-
+trigger_keywords: ["人口学", "Demography", "Social", "Sciences"]
+cross_refs: []
 ---
 # 人口学 | Demography & Social Sciences
 

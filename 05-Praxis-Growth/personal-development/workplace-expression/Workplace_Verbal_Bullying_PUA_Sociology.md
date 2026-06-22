@@ -1,7 +1,6 @@
 ---
-
 title: "职场语言霸凌与PUA：社会学机制分析 (Sociological Analysis of Workplace Verbal Bullying & PUA)"
-description: "职场语言霸凌与PUA：社会学机制分析 (Sociological Analysis of Workplace Verbal Bullying & PUA)的详细解析与实践指南"
+description: "职场语言霸凌与PUA：社会学机制分析 (Sociological Analysis of Workplace Verbal Bullying & PUA) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "habits", "intervention", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场语言霸凌与PUA：社会学机制分析"
   - "职场语言霸凌与PUA：社会学机制分析的核心概念"
   - "职场语言霸凌与PUA：社会学机制分析的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["职场语言霸凌与PUA：社会学机制分析", "Sociological", "Analysis", "of", "Workplace"]
+cross_refs: []
 ---
 # 职场语言霸凌与PUA：社会学机制分析 (Sociological Analysis of Workplace Verbal Bullying & PUA)
 

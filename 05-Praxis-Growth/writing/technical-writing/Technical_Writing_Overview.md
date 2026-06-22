@@ -1,7 +1,6 @@
 ---
-
 title: "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT"
-description: "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的详细解析与实践指南"
+description: "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["communication", "decision-making", "leadership", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT"
   - "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的核心概念"
   - "IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT的方法与实践"
-trigger_keywords: ["IT技术写作概览", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["IT技术写作概览", "IT", "Technical", "Writing", "Overview"]
+cross_refs: []
 ---
 # IT技术写作概览 | IT Technical Writing Overview | Τεχνική Συγγραφή IT
 

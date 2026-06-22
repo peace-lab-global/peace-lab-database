@@ -1,7 +1,6 @@
 ---
-
 title: "《你可以更靠近我》Closer to Me"
-description: "《你可以更靠近我》Closer to Me的详细解析与实践指南"
+description: "《你可以更靠近我》Closer to Me —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《你可以更靠近我》Closer to Me"
   - "《你可以更靠近我》Closer to Me的核心概念"
   - "《你可以更靠近我》Closer to Me的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "body", "child"]
+trigger_keywords: ["《你可以更靠近我》Closer", "to", "Me"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-
+    relation: "临终/死亡/焦虑"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "死亡/临终/焦虑"
 ---
 # 《你可以更靠近我》Closer to Me
 

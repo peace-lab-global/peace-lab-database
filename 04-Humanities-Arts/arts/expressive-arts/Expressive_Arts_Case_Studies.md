@@ -1,7 +1,6 @@
 ---
-
 title: "OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)"
-description: "OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)的详细解析与实践指南"
+description: "OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy) —— 艺术 · Expressive Arts 专题"
 category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "OH卡与绘画疗法临床案例研究报告的核心概念"
   - "OH卡与绘画疗法临床案例研究报告的方法与实践"
   - "OH卡与绘画疗法临床案例研究报告的循证证据"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["OH卡与绘画疗法临床案例研究报告", "Clinical", "Case", "Study", "Report:"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Clinical_Applications.md"
+    relation: "oh/cards/疗法"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/INDEX.md"
+    relation: "oh/cards/therapy"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md"
+    relation: "oh/cards/basic"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Terminology_Concepts.md"
+    relation: "oh/cards/therapy"
 ---
 # OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)
 

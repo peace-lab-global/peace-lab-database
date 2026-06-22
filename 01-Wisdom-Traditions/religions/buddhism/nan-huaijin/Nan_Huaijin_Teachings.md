@@ -1,7 +1,6 @@
 ---
-
 title: "南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)"
-description: "南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)的详细解析与实践指南"
+description: "南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices) —— 佛教 · Nan Huaijin 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Nan Huaijin"
 tags: ["buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南怀瑾先生教导与实修体系"
   - "南怀瑾先生教导与实修体系的核心概念"
   - "南怀瑾先生教导与实修体系的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "body"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["南怀瑾先生教导与实修体系", "Nan", "Huai-Chin's", "Teachings", "Practices"]
+cross_refs: []
 ---
 # 南怀瑾先生教导与实修体系 (Nan Huai-Chin's Teachings & Practices)
 

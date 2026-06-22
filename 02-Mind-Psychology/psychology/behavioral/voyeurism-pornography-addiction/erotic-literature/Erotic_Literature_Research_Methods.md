@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)"
-description: "色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)的详细解析与实践指南"
+description: "色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是色情文学成瘾研究方法与学术资源指南"
   - "色情文学成瘾研究方法与学术资源指南的核心概念"
   - "色情文学成瘾研究方法与学术资源指南的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "assessment"]
+trigger_keywords: ["色情文学成瘾研究方法与学术资源指南", "Erotic", "Literature", "Addiction", "Research"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/HuiShi.md"
-    relation: "sexuality/therapy"
-
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Research_Methods.md"
+    relation: "research/designs/design"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/studies/methods"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Research_Methods.md"
+    relation: "research/academic/methods"
+  - path: "03-Bio-Science/sexuality/Sexuality_Research_Methods.md"
+    relation: "research/measurement/data"
 ---
 # 色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)
 

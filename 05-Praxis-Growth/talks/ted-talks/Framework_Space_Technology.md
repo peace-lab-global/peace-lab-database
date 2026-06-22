@@ -1,7 +1,6 @@
 ---
-
 title: "航天技术 | Space Technology"
-description: "航天技术 | Space Technology的详细解析与实践指南"
+description: "航天技术 | Space Technology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["phobia", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是航天技术 | Space Technology"
   - "航天技术 | Space Technology的核心概念"
   - "航天技术 | Space Technology的方法与实践"
-trigger_keywords: ["航天技术", "adolescent", "philosophy", "phobia", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["航天技术", "phobia"]
+cross_refs: []
 ---
 # 航天技术 | Space Technology
 

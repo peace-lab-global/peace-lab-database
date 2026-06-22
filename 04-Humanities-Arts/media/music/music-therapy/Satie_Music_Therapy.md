@@ -1,7 +1,6 @@
 ---
-
 title: "萨蒂音乐疗愈 (Satie Music Therapy)"
-description: "萨蒂音乐疗愈 (Satie Music Therapy)的详细解析与实践指南"
+description: "萨蒂音乐疗愈 (Satie Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是萨蒂音乐疗愈"
   - "萨蒂音乐疗愈的核心概念"
   - "萨蒂音乐疗愈的方法与实践"
-trigger_keywords: ["萨蒂音乐疗愈", "act", "anxiety", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["萨蒂音乐疗愈", "Satie", "Music", "Therapy"]
+cross_refs: []
 ---
 # 萨蒂音乐疗愈 (Satie Music Therapy)
 

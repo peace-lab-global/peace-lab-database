@@ -1,7 +1,6 @@
 ---
-
 title: "性别关系动态分析 (Gender Relations Dynamics) | Index"
-description: "性别关系动态分析 (Gender Relations Dynamics) | Index的详细解析与实践指南"
+description: "性别关系动态分析 (Gender Relations Dynamics) | Index —— 人际关系 · Gender Dynamics 专题"
 category: "心智与心理学 > 人际关系 > Gender Dynamics"
 tags: ["attachment", "cbt", "emdr", "trauma", "act", "self-regulation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性别关系动态分析  | Index"
   - "性别关系动态分析  | Index的核心概念"
   - "性别关系动态分析  | Index的方法与实践"
-trigger_keywords: ["性别关系动态分析", "Index", "act", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/emotion/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "attachment/emotion/personality"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "attachment/emotion/personality"
-  - path: "03-Bio-Science/sexuality/authority-complex/Father_Mother_Complex.md"
-    relation: "attachment/emotion/personality"
-  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Individual_Differences.md"
-    relation: "attachment/emotion/personality"
-
+trigger_keywords: ["性别关系动态分析", "Gender", "Relations", "Dynamics"]
+cross_refs: []
 ---
 # 性别关系动态分析 (Gender Relations Dynamics) | Index
 

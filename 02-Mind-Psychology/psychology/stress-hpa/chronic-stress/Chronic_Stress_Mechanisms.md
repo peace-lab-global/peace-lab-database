@@ -1,7 +1,6 @@
 ---
-
 title: "慢性压力机制 (Chronic Stress Mechanisms)"
-description: "慢性压力机制 (Chronic Stress Mechanisms)的详细解析与实践指南"
+description: "慢性压力机制 (Chronic Stress Mechanisms) —— 压力与HPA轴 · Chronic Stress 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是慢性压力机制"
   - "慢性压力机制的核心概念"
   - "慢性压力机制的方法与实践"
-trigger_keywords: ["慢性压力机制", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["慢性压力机制", "Chronic", "Stress", "Mechanisms"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "stress/应激/hpa"
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "hpa/炎症/压力"
+  - path: "03-Bio-Science/biology/hpa-axis/INDEX.md"
+    relation: "hpa/axis/stress"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "hpa/axis/sam"
 ---
 # 慢性压力机制 (Chronic Stress Mechanisms)
 

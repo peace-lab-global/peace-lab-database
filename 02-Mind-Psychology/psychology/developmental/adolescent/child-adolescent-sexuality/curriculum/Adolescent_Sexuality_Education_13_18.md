@@ -1,7 +1,6 @@
 ---
-
 title: "青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)"
-description: "青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)的详细解析与实践指南"
+description: "青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide) —— Child Adolescent Sexuality · Curriculum 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Curriculum"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是青少年性教育专业指南"
   - "青少年性教育专业指南的核心概念"
   - "青少年性教育专业指南的方法与实践"
-trigger_keywords: ["青少年性教育专业指南", "act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["青少年性教育专业指南", "13-18岁", "Adolescent", "Sexuality", "Education"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Sociological_Analysis.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Prevention_Education.md"
+    relation: "healthcare/education/services"
 ---
 # 青少年性教育专业指南 (13-18岁) (Adolescent Sexuality Education Professional Guide)
 

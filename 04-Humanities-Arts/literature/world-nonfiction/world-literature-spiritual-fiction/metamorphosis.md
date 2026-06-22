@@ -1,7 +1,6 @@
 ---
-
 title: "《变形记》The Metamorphosis"
-description: "《变形记》The Metamorphosis的详细解析与实践指南"
+description: "《变形记》The Metamorphosis —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《变形记》The Metamorphosis"
   - "《变形记》The Metamorphosis的核心概念"
   - "《变形记》The Metamorphosis的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "body"]
+trigger_keywords: ["《变形记》The", "Metamorphosis"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka.md"
+    relation: "kafka/franz"
 ---
 # 《变形记》The Metamorphosis
 

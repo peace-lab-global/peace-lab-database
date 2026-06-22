@@ -1,7 +1,6 @@
 ---
-
 title: "SPA Clinical Applications & Indications (SPA临床应用与适应症)"
-description: "SPA Clinical Applications & Indications (SPA临床应用与适应症)的详细解析与实践指南"
+description: "SPA Clinical Applications & Indications (SPA临床应用与适应症) —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["aging", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是SPA Clinical Applications & Indications"
   - "SPA Clinical Applications & Indications的核心概念"
   - "SPA Clinical Applications & Indications的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["SPA", "Clinical", "Applications", "Indications", "SPA临床应用与适应症"]
+cross_refs: []
 ---
 # SPA Clinical Applications & Indications (SPA临床应用与适应症)
 

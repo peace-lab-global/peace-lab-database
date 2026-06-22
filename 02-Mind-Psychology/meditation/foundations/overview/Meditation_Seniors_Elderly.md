@@ -1,7 +1,6 @@
 ---
-
 title: "老年冥想指南 | Meditation for Seniors and Elderly"
-description: "老年冥想指南 | Meditation for Seniors and Elderly的详细解析与实践指南"
+description: "老年冥想指南 | Meditation for Seniors and Elderly —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "cardiovascular", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是老年冥想指南 | Meditation for Seniors and Elderly"
   - "老年冥想指南 | Meditation for Seniors and Elderly的核心概念"
   - "老年冥想指南 | Meditation for Seniors and Elderly的方法与实践"
-trigger_keywords: ["老年冥想指南", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["老年冥想指南", "Meditation", "for", "Seniors", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/障碍"
 ---
 # 老年冥想指南 | Meditation for Seniors and Elderly
 

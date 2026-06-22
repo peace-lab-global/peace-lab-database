@@ -2,6 +2,11 @@
 title: "冥想课程与教学 | Meditation Courses"
 category: "心智与心理学 > 冥想 > 课程与教学"
 last_updated: "2026-06"
+cross_refs:
+  - path: "04-Humanities-Arts/media/podcast/INDEX.md"
+    relation: "guided-scripts/courses/meditation"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "course/呼吸/冥想"
 ---
 
 # 冥想课程与教学 | Meditation Courses

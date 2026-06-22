@@ -1,7 +1,6 @@
 ---
-
 title: "坐禅实操进阶指南"
-description: "坐禅实操进阶指南的详细解析与实践指南"
+description: "坐禅实操进阶指南 —— 冥想 · Zazen 专题"
 category: "心智与心理学 > 冥想 > Zazen"
 tags: ["brain", "gut", "habits", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是坐禅实操进阶指南"
   - "坐禅实操进阶指南的核心概念"
   - "坐禅实操进阶指南的方法与实践"
-trigger_keywords: ["坐禅实操进阶指南", "act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["坐禅实操进阶指南"]
+cross_refs: []
 ---
 # 坐禅实操进阶指南
 

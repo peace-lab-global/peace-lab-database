@@ -1,7 +1,6 @@
 ---
-
 title: "社区心理学"
-description: "社区心理学的详细解析与实践指南"
+description: "社区心理学 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -13,9 +12,8 @@ intent_queries:
   - "社区心理学的核心概念"
   - "社区心理学的方法与实践"
   - "社区心理学的自助方法"
-trigger_keywords: ["社区心理学", "psychology", "讲座"]
+trigger_keywords: ["社区心理学", "讲座"]
 cross_refs: []
-
 ---
 # 社区心理学
 

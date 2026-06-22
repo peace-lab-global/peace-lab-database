@@ -1,7 +1,6 @@
 ---
-
 title: "临床园艺治疗 | Clinical Horticultural Therapy"
-description: "临床园艺治疗 | Clinical Horticultural Therapy的详细解析与实践指南"
+description: "临床园艺治疗 | Clinical Horticultural Therapy —— 艺术 · 园艺疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "临床园艺治疗 | Clinical Horticultural Therapy的核心概念"
   - "临床园艺治疗 | Clinical Horticultural Therapy的方法与实践"
   - "临床园艺治疗 | Clinical Horticultural Therapy的循证证据"
-trigger_keywords: ["临床园艺治疗", "adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["临床园艺治疗", "Clinical", "Horticultural", "Therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "创伤/焦虑/障碍"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "抑郁/创伤/正念"
 ---
 # 临床园艺治疗 | Clinical Horticultural Therapy
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《天堂的证据》Proof of Heaven"
-description: "《天堂的证据》Proof of Heaven的详细解析与实践指南"
+description: "《天堂的证据》Proof of Heaven —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["gut", "habits", "literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《天堂的证据》Proof of Heaven"
   - "《天堂的证据》Proof of Heaven的核心概念"
   - "《天堂的证据》Proof of Heaven的方法与实践"
-trigger_keywords: ["assessment", "brain", "clinical", "gut"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "death/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "death/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "death/emotion/neuroscience"
-
+trigger_keywords: ["gut", "《天堂的证据》Proof", "of", "Heaven"]
+cross_refs: []
 ---
 # 《天堂的证据》Proof of Heaven
 

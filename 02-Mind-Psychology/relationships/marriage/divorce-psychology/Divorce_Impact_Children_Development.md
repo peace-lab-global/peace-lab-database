@@ -1,7 +1,6 @@
 ---
-
 title: "离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)"
-description: "离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)的详细解析与实践指南"
+description: "离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development) —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是离婚对子女的发展影响：分年龄段深度分析"
   - "离婚对子女的发展影响：分年龄段深度分析的核心概念"
   - "离婚对子女的发展影响：分年龄段深度分析的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["离婚对子女的发展影响：分年龄段深度分析", "Impact", "of", "Divorce", "on"]
+cross_refs: []
 ---
 # 离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "飞蚊症临床诊疗指南 (Floaters Clinical Management Guide)"
-description: "飞蚊症临床诊疗指南 (Floaters Clinical Management Guide)的详细解析与实践指南"
+description: "飞蚊症临床诊疗指南 (Floaters Clinical Management Guide) —— 生物学 · 飞蚊症 专题"
 category: "生命科学与生物医学 > 生物学 > 飞蚊症"
 tags: ["decision-making", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是飞蚊症临床诊疗指南"
   - "飞蚊症临床诊疗指南的核心概念"
   - "飞蚊症临床诊疗指南的方法与实践"
-trigger_keywords: ["飞蚊症临床诊疗指南", "assessment", "breathwork", "clinical", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Mencius.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Buddhist_Perspective_Reviews.md"
-    relation: "emotion/exercise/sexuality"
-
+trigger_keywords: ["飞蚊症临床诊疗指南", "Floaters", "Clinical", "Management", "Guide"]
+cross_refs: []
 ---
 # 飞蚊症临床诊疗指南 (Floaters Clinical Management Guide)
 

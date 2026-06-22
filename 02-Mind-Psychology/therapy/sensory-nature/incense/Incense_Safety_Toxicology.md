@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法安全性与毒理学 (Incense Safety & Toxicology)"
-description: "檀香疗法安全性与毒理学 (Incense Safety & Toxicology)的详细解析与实践指南"
+description: "檀香疗法安全性与毒理学 (Incense Safety & Toxicology) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["brain", "gut", "immune", "neuroscience"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法安全性与毒理学的核心概念"
   - "檀香疗法安全性与毒理学的方法与实践"
   - "檀香疗法安全性与毒理学的循证证据"
-trigger_keywords: ["assessment", "brain", "breathwork", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "immune/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "immune/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
-    relation: "immune/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "immune/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md"
-    relation: "immune/neuroscience/sexuality"
-
+trigger_keywords: ["檀香疗法安全性与毒理学", "Incense", "Safety", "Toxicology"]
+cross_refs: []
 ---
 # 檀香疗法安全性与毒理学 (Incense Safety & Toxicology)
 

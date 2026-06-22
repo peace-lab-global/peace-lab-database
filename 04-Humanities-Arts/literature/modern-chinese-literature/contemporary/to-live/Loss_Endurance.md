@@ -1,7 +1,6 @@
 ---
-
 title: "失去与承受 (Loss & Endurance)"
-description: "失去与承受 (Loss & Endurance)的详细解析与实践指南"
+description: "失去与承受 (Loss & Endurance) —— Contemporary · To Live 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
 tags: ["depression", "grief", "habits", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是失去与承受"
   - "失去与承受的核心概念"
   - "失去与承受的方法与实践"
-trigger_keywords: ["失去与承受", "body", "brain", "depression", "grief"]
+trigger_keywords: ["失去与承受", "depression", "grief"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "death/depression/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "death/depression/neuroscience"
-  - path: "README.md"
-    relation: "art_therapy/death/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "death/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "death/neuroscience/productivity"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/习惯"
 ---
 # 失去与承受 (Loss & Endurance)
 

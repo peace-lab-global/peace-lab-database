@@ -1,7 +1,6 @@
 ---
-
 title: "Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)"
-description: "Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)的详细解析与实践指南"
+description: "Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略) —— 人际关系 · Masturbation Relationships 专题"
 category: "心智与心理学 > 人际关系 > Masturbation Relationships"
 tags: ["addiction", "anxiety", "attachment", "mindfulness", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Masturbation-Related Distress and Coping"
   - "Masturbation-Related Distress and Coping的核心概念"
   - "Masturbation-Related Distress and Coping的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["Masturbation-Related", "Distress", "and", "Coping", "自慰相关心理困扰与应对策略"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
+    relation: "羞耻/shame/障碍"
+  - path: "03-Bio-Science/biology/body-shame/prevention/Body_Shame_Prevention_Public_Health.md"
+    relation: "羞耻/shame/障碍"
 ---
 # Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)
 

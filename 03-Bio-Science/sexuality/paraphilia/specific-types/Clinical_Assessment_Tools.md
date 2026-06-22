@@ -1,7 +1,6 @@
 ---
-
 title: "Specific Types Clinical Assessment Tools (性迷恋类型专项临床评估工具)"
-description: "Specific Types Clinical Assessment Tools (性迷恋类型专项临床评估工具)的详细解析与实践指南"
+description: "Specific Types Clinical Assessment Tools (性迷恋类型专项临床评估工具) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Specific Types Clinical Assessment Tools"
   - "Specific Types Clinical Assessment Tools的核心概念"
   - "Specific Types Clinical Assessment Tools的方法与实践"
-trigger_keywords: ["art", "assessment", "ballet", "behavioral"]
+trigger_keywords: ["ballet", "Specific", "Types", "Clinical", "Assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md"
-    relation: "emotion/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "emotion/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "emotion/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "emotion/personality/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet/assessment"
 ---
 # Specific Types Clinical Assessment Tools (性迷恋类型专项临床评估工具)
 

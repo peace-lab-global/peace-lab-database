@@ -1,7 +1,6 @@
 ---
-
 title: "Dietary & Pharmacy (高阶食疗与药理)"
-description: "Dietary & Pharmacy (高阶食疗与药理)的详细解析与实践指南"
+description: "Dietary & Pharmacy (高阶食疗与药理) —— 生命科学与生物医学 · 营养学 专题"
 category: "生命科学与生物医学 > 营养学"
 tags: ["attachment", "brain", "cortisol", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Dietary & Pharmacy"
   - "Dietary & Pharmacy的核心概念"
   - "Dietary & Pharmacy的方法与实践"
-trigger_keywords: ["anxiety", "attachment", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Dietary", "Pharmacy", "高阶食疗与药理"]
+cross_refs: []
 ---
 # Dietary & Pharmacy (高阶食疗与药理)
 

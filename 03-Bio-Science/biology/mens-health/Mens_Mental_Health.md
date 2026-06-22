@@ -1,7 +1,6 @@
 ---
-
 title: "男性心理健康 | Men's Mental Health"
-description: "男性心理健康 | Men's Mental Health的详细解析与实践指南"
+description: "男性心理健康 | Men's Mental Health —— 生物学 · Mens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Mens Health"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "男性心理健康 | Men's Mental Health的核心概念"
   - "男性心理健康 | Men's Mental Health的方法与实践"
   - "男性心理健康 | Men's Mental Health的自助方法"
-trigger_keywords: ["男性心理健康", "addiction", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["男性心理健康", "Men's", "Mental", "Health"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/skills/_manifest.md"
+    relation: "自杀/抑郁/障碍"
+  - path: "02-Mind-Psychology/psychology/special-topics/poverty-suffering/Poverty_Mental_Health_Impact.md"
+    relation: "自杀/抑郁/health"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
+    relation: "自杀/抑郁"
+  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Mental_Health_Epidemiology.md"
+    relation: "自杀/mental/health"
 ---
 # 男性心理健康 | Men's Mental Health
 

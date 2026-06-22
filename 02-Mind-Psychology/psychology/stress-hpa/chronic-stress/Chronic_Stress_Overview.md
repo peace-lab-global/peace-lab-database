@@ -1,7 +1,6 @@
 ---
-
 title: "慢性压力概览 (Chronic Stress Overview)"
-description: "慢性压力概览 (Chronic Stress Overview)的详细解析与实践指南"
+description: "慢性压力概览 (Chronic Stress Overview) —— 压力与HPA轴 · Chronic Stress 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
 tags: ["anxiety", "brain", "cardiovascular", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是慢性压力概览"
   - "慢性压力概览的核心概念"
   - "慢性压力概览的方法与实践"
-trigger_keywords: ["慢性压力概览", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["慢性压力概览", "Chronic", "Stress", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
-    relation: "anxiety/cardiovascular/neuroscience"
-
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "stress/应激/chronic"
 ---
 # 慢性压力概览 (Chronic Stress Overview)
 

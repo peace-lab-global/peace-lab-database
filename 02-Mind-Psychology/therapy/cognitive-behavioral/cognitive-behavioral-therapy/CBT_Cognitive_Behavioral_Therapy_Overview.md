@@ -1,7 +1,6 @@
 ---
-
 title: "认知行为疗法 (CBT: Cognitive Behavioral Therapy)"
-description: "认知行为疗法 (CBT: Cognitive Behavioral Therapy)的详细解析与实践指南"
+description: "认知行为疗法 (CBT: Cognitive Behavioral Therapy) —— 疗法 · Cognitive Behavioral Therapy 专题"
 category: "心智与心理学 > 疗法 > Cognitive Behavioral Therapy"
 tags: ["anxiety", "brain", "cbt", "ocd"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "认知行为疗法的核心概念"
   - "认知行为疗法的方法与实践"
   - "认知行为疗法的循证证据"
-trigger_keywords: ["认知行为疗法", "act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["认知行为疗法", "CBT:", "Cognitive", "Behavioral", "Therapy"]
 cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md"
+    relation: "cbt/疗法/认知行为"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md"
+    relation: "cbt/cognitive/疗法"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/疗法/障碍"
 ---
 # 认知行为疗法 (CBT: Cognitive Behavioral Therapy)
 

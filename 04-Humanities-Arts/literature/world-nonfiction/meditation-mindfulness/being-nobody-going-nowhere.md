@@ -1,7 +1,6 @@
 ---
-
 title: "《无人无往》Being Nobody, Going Nowhere"
-description: "《无人无往》Being Nobody, Going Nowhere的详细解析与实践指南"
+description: "《无人无往》Being Nobody, Going Nowhere —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["dzogchen", "spirituality", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《无人无往》Being Nobody, Going Nowhere"
   - "《无人无往》Being Nobody, Going Nowhere的核心概念"
   - "《无人无往》Being Nobody, Going Nowhere的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "dzogchen", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["dzogchen", "《无人无往》Being", "Nobody", "Going", "Nowhere"]
+cross_refs: []
 ---
 # 《无人无往》Being Nobody, Going Nowhere
 

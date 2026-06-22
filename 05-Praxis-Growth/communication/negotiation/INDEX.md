@@ -1,7 +1,6 @@
 ---
-
 title: "谈判技能 | Negotiation Skills"
-description: "谈判技能 | Negotiation Skills的详细解析与实践指南"
+description: "谈判技能 | Negotiation Skills —— 沟通 · 谈判 专题"
 category: "实践与个人增长 > 沟通 > 谈判"
 tags: ["communication", "decision-making", "eq", "marriage", "negotiation", "emotional-intelligence"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是谈判技能 | Negotiation Skills"
   - "谈判技能 | Negotiation Skills的核心概念"
   - "谈判技能 | Negotiation Skills的方法与实践"
-trigger_keywords: ["谈判技能", "act", "cognitive", "communication", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["谈判技能", "decision-making"]
+cross_refs: []
 ---
 # 谈判技能 | Negotiation Skills
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Sexuality Studies Overview (性学研究概览)"
-description: "Sexuality Studies Overview (性学研究概览)的详细解析与实践指南"
+description: "Sexuality Studies Overview (性学研究概览) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["aging", "attachment", "cbt", "sexuality", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Sexuality Studies Overview"
   - "Sexuality Studies Overview的核心概念"
   - "Sexuality Studies Overview的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Sexuality", "Studies", "Overview", "性学研究概览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/studies/ethics"
 ---
 # Sexuality Studies Overview (性学研究概览)
 

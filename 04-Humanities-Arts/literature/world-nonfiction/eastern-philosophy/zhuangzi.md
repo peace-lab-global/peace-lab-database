@@ -1,7 +1,6 @@
 ---
-
 title: "《庄子》Zhuangzi"
-description: "《庄子》Zhuangzi的详细解析与实践指南"
+description: "《庄子》Zhuangzi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "literature", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《庄子》Zhuangzi"
   - "《庄子》Zhuangzi的核心概念"
   - "《庄子》Zhuangzi的方法与实践"
-trigger_keywords: ["daoism", "death", "literature", "philosophy"]
+trigger_keywords: ["daoism", "《庄子》Zhuangzi"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "anxiety/daoism/death"
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md"
+    relation: "庄子/道家"
+  - path: "01-Wisdom-Traditions/religions/dao/classics/INDEX.md"
+    relation: "庄子/zhuangzi/道家"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "庄子/老子/道家"
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/daoism"
-
+    relation: "庄子/zhuangzi/道家"
 ---
 # 《庄子》Zhuangzi
 

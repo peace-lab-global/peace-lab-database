@@ -1,7 +1,6 @@
 ---
-
 title: "老年认知衰退 | Aging Cognitive Decline"
-description: "老年认知衰退 | Aging Cognitive Decline的详细解析与实践指南"
+description: "老年认知衰退 | Aging Cognitive Decline —— 发展心理学 · Aging Psychology 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
 tags: ["brain", "cardiovascular", "depression", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是老年认知衰退 | Aging Cognitive Decline"
   - "老年认知衰退 | Aging Cognitive Decline的核心概念"
   - "老年认知衰退 | Aging Cognitive Decline的方法与实践"
-trigger_keywords: ["老年认知衰退", "aging", "body", "brain", "cardiovascular"]
+trigger_keywords: ["老年认知衰退", "cardiovascular"]
 cross_refs:
-  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/depression/exercise"
-
+  - path: "03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md"
+    relation: "mci/aging/finger"
 ---
 # 老年认知衰退 | Aging Cognitive Decline
 

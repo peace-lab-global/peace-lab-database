@@ -1,7 +1,6 @@
 ---
-
 title: "Direct Recognition Foundations (直接认知：不二论核心存在论)"
-description: "Direct Recognition Foundations (直接认知：不二论核心存在论)的详细解析与实践指南"
+description: "Direct Recognition Foundations (直接认知：不二论核心存在论) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["dzogchen", "meditation", "neuroscience", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct Recognition Foundations"
   - "Direct Recognition Foundations的核心概念"
   - "Direct Recognition Foundations的方法与实践"
-trigger_keywords: ["cognitive", "dzogchen", "meditation", "neuroscience"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/neuroscience"
-
+trigger_keywords: ["dzogchen", "meditation", "neuroscience"]
+cross_refs: []
 ---
 # Direct Recognition Foundations (直接认知：不二论核心存在论)
 

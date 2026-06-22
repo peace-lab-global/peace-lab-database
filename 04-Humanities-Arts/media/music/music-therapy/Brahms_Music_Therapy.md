@@ -1,7 +1,6 @@
 ---
-
 title: "勃拉姆斯音乐疗愈 (Brahms Music Therapy)"
-description: "勃拉姆斯音乐疗愈 (Brahms Music Therapy)的详细解析与实践指南"
+description: "勃拉姆斯音乐疗愈 (Brahms Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["attachment", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是勃拉姆斯音乐疗愈"
   - "勃拉姆斯音乐疗愈的核心概念"
   - "勃拉姆斯音乐疗愈的方法与实践"
-trigger_keywords: ["勃拉姆斯音乐疗愈", "act", "aging", "anxiety", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["勃拉姆斯音乐疗愈", "Brahms", "Music", "Therapy"]
+cross_refs: []
 ---
 # 勃拉姆斯音乐疗愈 (Brahms Music Therapy)
 

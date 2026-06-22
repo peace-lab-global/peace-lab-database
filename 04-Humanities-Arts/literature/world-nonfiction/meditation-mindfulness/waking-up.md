@@ -1,7 +1,6 @@
 ---
-
 title: "《Waking Up》"
-description: "《Waking Up》的详细解析与实践指南"
+description: "《Waking Up》 —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["religion", "spirituality", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《Waking Up》"
   - "《Waking Up》的核心概念"
   - "《Waking Up》的方法与实践"
-trigger_keywords: ["brain", "meditation", "neuroscience", "philosophy"]
+trigger_keywords: ["meditation", "neuroscience"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/meditation/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Sam_Harris.md"
+    relation: "waking/harris/sam"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "waking/冥想/harris"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
+    relation: "waking/冥想/harris"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C1-homework.md"
+    relation: "冥想/神经科学"
 ---
 # 《Waking Up》
 

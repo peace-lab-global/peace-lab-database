@@ -1,7 +1,6 @@
 ---
-
 title: "李斯特交响诗《前奏曲》聆听指南"
-description: "李斯特交响诗《前奏曲》聆听指南的详细解析与实践指南"
+description: "李斯特交响诗《前奏曲》聆听指南 —— Liszt Symphonic Poems · Lespreludes 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Liszt Symphonic Poems > Lespreludes"
 tags: ["habits", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是李斯特交响诗《前奏曲》聆听指南"
   - "李斯特交响诗《前奏曲》聆听指南的核心概念"
   - "李斯特交响诗《前奏曲》聆听指南的方法与实践"
-trigger_keywords: ["art", "assessment", "body", "breathwork"]
+trigger_keywords: ["李斯特交响诗《前奏曲》聆听指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Daily_Training_Protocol.md"
+    relation: "习惯/觉察/专注"
+  - path: "05-Praxis-Growth/writing/Creative_Writing_Practice_Guide.md"
+    relation: "习惯/专注/觉察"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "觉察/专注"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第二讲：冥想的作用.md"
+    relation: "习惯/冲突/觉察"
 ---
 # 李斯特交响诗《前奏曲》聆听指南
 

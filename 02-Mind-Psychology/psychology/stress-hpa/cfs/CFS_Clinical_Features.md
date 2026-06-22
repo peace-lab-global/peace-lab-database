@@ -1,7 +1,6 @@
 ---
-
 title: "慢性疲劳综合征临床表现 (CFS Clinical Features)"
-description: "慢性疲劳综合征临床表现 (CFS Clinical Features)的详细解析与实践指南"
+description: "慢性疲劳综合征临床表现 (CFS Clinical Features) —— 压力与HPA轴 · Cfs 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cfs"
 tags: ["anxiety", "brain", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是慢性疲劳综合征临床表现"
   - "慢性疲劳综合征临床表现的核心概念"
   - "慢性疲劳综合征临床表现的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["慢性疲劳综合征临床表现", "CFS", "Clinical", "Features"]
+cross_refs: []
 ---
 # 慢性疲劳综合征临床表现 (CFS Clinical Features)
 

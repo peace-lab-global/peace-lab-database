@@ -1,7 +1,6 @@
 ---
-
 title: "动漫与心理疗愈 | Anime Therapy"
-description: "动漫与心理疗愈 | Anime Therapy的详细解析与实践指南"
+description: "动漫与心理疗愈 | Anime Therapy —— 媒体 · Anime Manga 专题"
 category: "人文与艺术疗愈 > 媒体 > Anime Manga"
 tags: ["attachment", "cinema"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "动漫与心理疗愈 | Anime Therapy的核心概念"
   - "动漫与心理疗愈 | Anime Therapy的方法与实践"
   - "动漫与心理疗愈 | Anime Therapy的自助方法"
-trigger_keywords: ["动漫与心理疗愈", "act", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Play_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["动漫与心理疗愈", "Anime", "Therapy"]
+cross_refs: []
 ---
 # 动漫与心理疗愈 | Anime Therapy
 

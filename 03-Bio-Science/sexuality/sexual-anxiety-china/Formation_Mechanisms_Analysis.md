@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性焦虑形成机制深度分析"
-description: "中国社会性焦虑形成机制深度分析的详细解析与实践指南"
+description: "中国社会性焦虑形成机制深度分析 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["addiction", "aging", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "中国社会性焦虑形成机制深度分析的核心概念"
   - "中国社会性焦虑形成机制深度分析的方法与实践"
   - "中国社会性焦虑形成机制深度分析的自助方法"
-trigger_keywords: ["addiction", "aging", "anxiety", "attachment"]
+trigger_keywords: ["中国社会性焦虑形成机制深度分析"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
+    relation: "hpa/肾上腺/应激"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
+    relation: "肾上腺/应激/hpa"
 ---
 # 中国社会性焦虑形成机制深度分析
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Therapy Resources (古典音乐疗愈专业资源)"
-description: "Classical Music Therapy Resources (古典音乐疗愈专业资源)的详细解析与实践指南"
+description: "Classical Music Therapy Resources (古典音乐疗愈专业资源) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Classical Music Therapy Resources"
   - "Classical Music Therapy Resources的核心概念"
   - "Classical Music Therapy Resources的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-
+trigger_keywords: ["Classical", "Music", "Therapy", "Resources", "古典音乐疗愈专业资源"]
+cross_refs: []
 ---
 # Classical Music Therapy Resources (古典音乐疗愈专业资源)
 

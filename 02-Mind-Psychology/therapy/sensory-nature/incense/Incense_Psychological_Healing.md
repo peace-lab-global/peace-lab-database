@@ -1,7 +1,6 @@
 ---
-
 title: "焚香心理疗愈专业内容体系"
-description: "焚香心理疗愈专业内容体系的详细解析与实践指南"
+description: "焚香心理疗愈专业内容体系 —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "焚香心理疗愈专业内容体系的核心概念"
   - "焚香心理疗愈专业内容体系的方法与实践"
   - "焚香心理疗愈专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "body", "brain"]
+trigger_keywords: ["焚香心理疗愈专业内容体系"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Neuroscience_Pharmacology.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md"
+    relation: "专注/情绪调节"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "专注/冥想/疗法"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Listening_Guide.md"
+    relation: "专注/情绪调节"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "疗法/情绪调节"
 ---
 # 焚香心理疗愈专业内容体系
 

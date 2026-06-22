@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-Procrastination Agent Skills — 技能协议"
-description: "Anti-Procrastination Agent Skills — 技能协议的详细解析与实践指南"
+description: "Anti-Procrastination Agent Skills — 技能协议 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "decision-making", "habits", "intervention", "suicide", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Anti-Procrastination Agent Skills — 技能协议"
   - "Anti-Procrastination Agent Skills — 技能协议的核心概念"
   - "Anti-Procrastination Agent Skills — 技能协议的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "decision-making"]
+trigger_keywords: ["decision-making", "Anti-Procrastination", "Agent", "Skills", "技能协议"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/productivity"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "anxiety/depression/productivity"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "anxiety/depression/productivity"
-  - path: "03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md"
-    relation: "anxiety/depression/productivity"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/INDEX.md"
+    relation: "拖延/procrastination"
+  - path: "05-Praxis-Growth/personal-development/procrastination/01_拖延症概述.md"
+    relation: "拖延/procrastination/motivation"
+  - path: "05-Praxis-Growth/personal-development/procrastination/03_拖延症应对策略.md"
+    relation: "拖延/procrastination/motivation"
+  - path: "05-Praxis-Growth/personal-development/procrastination/02_拖延症成因与机制.md"
+    relation: "拖延/procrastination"
 ---
 # Anti-Procrastination Agent Skills — 技能协议
 

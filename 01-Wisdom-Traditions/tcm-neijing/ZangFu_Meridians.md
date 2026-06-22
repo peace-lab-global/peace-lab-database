@@ -1,7 +1,6 @@
 ---
-
 title: "脏腑经络理论 | Zang-Fu Organs and Meridian Theory"
-description: "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的详细解析与实践指南"
+description: "脏腑经络理论 | Zang-Fu Organs and Meridian Theory —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: ["cortisol", "gut", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是脏腑经络理论 | Zang-Fu Organs and Meridian Theory"
   - "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的核心概念"
   - "脏腑经络理论 | Zang-Fu Organs and Meridian Theory的方法与实践"
-trigger_keywords: ["脏腑经络理论", "brain", "breathwork", "clinical", "cortisol"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Somatization.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
-    relation: "cardiovascular/communication/exercise"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Male_Anatomy_Physiology.md"
-    relation: "cardiovascular/communication/exercise"
-
+trigger_keywords: ["脏腑经络理论", "cortisol"]
+cross_refs: []
 ---
 # 脏腑经络理论 | Zang-Fu Organs and Meridian Theory
 

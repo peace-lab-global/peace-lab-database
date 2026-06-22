@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)"
-description: "职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)的详细解析与实践指南"
+description: "职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework) —— Vocational Psychology · Theory 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Theory"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "职业心理学理论基础与框架体系的核心概念"
   - "职业心理学理论基础与框架体系的方法与实践"
   - "职业心理学理论基础与框架体系的自助方法"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["职业心理学理论基础与框架体系", "Vocational", "Psychology", "Theory", "Framework"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/sexuality/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/career-planning/Career_Planning_Overview.md"
+    relation: "holland/career/super"
 ---
 # 职业心理学理论基础与框架体系 (Vocational Psychology Theory Framework)
 

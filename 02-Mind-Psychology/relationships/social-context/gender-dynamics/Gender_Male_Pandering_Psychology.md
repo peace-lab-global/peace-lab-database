@@ -1,7 +1,6 @@
 ---
-
 title: "媚男现象心理学分析与应对策略 (Male-Pandering Psychology: Analysis & Coping Strategies)"
-description: "媚男现象心理学分析与应对策略 (Male-Pandering Psychology: Analysis & Coping Strategies)的详细解析与实践指南"
+description: "媚男现象心理学分析与应对策略 (Male-Pandering Psychology: Analysis & Coping Strategies) —— 人际关系 · Gender Dynamics 专题"
 category: "心智与心理学 > 人际关系 > Gender Dynamics"
 tags: ["anxiety", "attachment", "cbt", "personality", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "媚男现象心理学分析与应对策略的核心概念"
   - "媚男现象心理学分析与应对策略的方法与实践"
   - "媚男现象心理学分析与应对策略的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/personality/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/productivity"
-
+trigger_keywords: ["媚男现象心理学分析与应对策略", "Male-Pandering", "Psychology:", "Analysis", "Coping"]
+cross_refs: []
 ---
 # 媚男现象心理学分析与应对策略 (Male-Pandering Psychology: Analysis & Coping Strategies)
 

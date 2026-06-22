@@ -1,7 +1,6 @@
 ---
-
 title: "22. 零工经济与平台工人 | Gig Economy & Platform Workers"
-description: "22. 零工经济与平台工人 | Gig Economy & Platform Workers的详细解析与实践指南"
+description: "22. 零工经济与平台工人 | Gig Economy & Platform Workers —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "decision-making", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是22. 零工经济与平台工人 | Gig Economy & Platform Workers"
   - "22. 零工经济与平台工人 | Gig Economy & Platform Workers的核心概念"
   - "22. 零工经济与平台工人 | Gig Economy & Platform Workers的方法与实践"
-trigger_keywords: ["anxiety", "body", "breathwork", "cognitive"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["22.", "零工经济与平台工人", "Gig", "Economy", "Platform"]
+cross_refs: []
 ---
 # 22. 零工经济与平台工人 | Gig Economy & Platform Workers
 

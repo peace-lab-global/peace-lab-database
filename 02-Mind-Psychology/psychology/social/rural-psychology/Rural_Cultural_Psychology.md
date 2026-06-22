@@ -1,7 +1,6 @@
 ---
-
 title: "Rural Cultural Psychology (农村文化心理学)"
-description: "Rural Cultural Psychology (农村文化心理学)的详细解析与实践指南"
+description: "Rural Cultural Psychology (农村文化心理学) —— 社会心理学 · Rural Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Rural Cultural Psychology"
   - "Rural Cultural Psychology的核心概念"
   - "Rural Cultural Psychology的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Rural", "Cultural", "Psychology", "农村文化心理学"]
 cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Clinical.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/INDEX.md"
+    relation: "cultural/psychology"
 ---
 # Rural Cultural Psychology (农村文化心理学)
 

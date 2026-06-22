@@ -1,7 +1,6 @@
 ---
-
 title: "躯体体验疗法 (Somatic Experiencing Therapy, SE)"
-description: "躯体体验疗法 (Somatic Experiencing Therapy, SE)的详细解析与实践指南"
+description: "躯体体验疗法 (Somatic Experiencing Therapy, SE) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "attachment", "mbsr", "emdr", "cbt", "trauma"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "躯体体验疗法的核心概念"
   - "躯体体验疗法的方法与实践"
   - "躯体体验疗法的循证证据"
-trigger_keywords: ["躯体体验疗法", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["躯体体验疗法", "Somatic", "Experiencing", "Therapy", "SE"]
+cross_refs: []
 ---
 # 躯体体验疗法 (Somatic Experiencing Therapy, SE)
 

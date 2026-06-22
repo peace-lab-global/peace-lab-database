@@ -1,6 +1,6 @@
 ---
 title: "compassion-focused-therapy | Index"
-description: "compassion-focused-therapy | Index的详细解析与实践指南"
+description: "compassion-focused-therapy | Index —— 疗法 · Compassion Focused Therapy 专题"
 category: "心智与心理学 > 疗法 > Compassion Focused Therapy"
 tags: ["疗法"]
 last_updated: "2026-05"
@@ -11,18 +11,10 @@ intent_queries:
   - "什么是compassion-focused-therapy | Index"
   - "compassion-focused-therapy | Index的核心概念"
   - "compassion-focused-therapy | Index的方法与实践"
-trigger_keywords: ["Index", "疗法"]
+trigger_keywords: ["疗法", "compassion-focused-therapy"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Plotinus.md"
-    relation: "productivity/therapy"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Nurse_Fetishism.md"
+    relation: "compassion-focused-therapy/focused/compassion"
 ---
 # compassion-focused-therapy | Index
 

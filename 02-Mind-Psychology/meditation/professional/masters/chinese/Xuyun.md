@@ -1,7 +1,6 @@
 ---
-
 title: "虚云老和尚 (Xuyun / Empty Cloud)"
-description: "虚云老和尚 (Xuyun / Empty Cloud)的详细解析与实践指南"
+description: "虚云老和尚 (Xuyun / Empty Cloud) —— Masters · Chinese 专题"
 category: "心智与心理学 > 冥想 > Masters > Chinese"
 tags: ["marriage", "meditation", "mindfulness", "religion", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是虚云老和尚"
   - "虚云老和尚的核心概念"
   - "虚云老和尚的方法与实践"
-trigger_keywords: ["虚云老和尚", "act", "buddhism", "developmental", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/yoga/masters/contemporary/Desikachar.md"
-    relation: "attachment/buddhism/exercise"
-
+trigger_keywords: ["虚云老和尚", "exercise"]
+cross_refs: []
 ---
 # 虚云老和尚 (Xuyun / Empty Cloud)
 

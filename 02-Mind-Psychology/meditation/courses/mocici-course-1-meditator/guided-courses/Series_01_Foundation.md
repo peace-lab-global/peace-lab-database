@@ -1,7 +1,6 @@
 ---
-
 title: "系列一：基础入门系列 | Foundation Series"
-description: "系列一：基础入门系列 | Foundation Series的详细解析与实践指南"
+description: "系列一：基础入门系列 | Foundation Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["brain", "dmn", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列一：基础入门系列 | Foundation Series"
   - "系列一：基础入门系列 | Foundation Series的核心概念"
   - "系列一：基础入门系列 | Foundation Series的方法与实践"
-trigger_keywords: ["系列一：基础入门系列", "act", "behavioral", "body", "brain"]
+trigger_keywords: ["系列一：基础入门系列", "Foundation", "Series"]
 cross_refs:
-  - path: "03-Bio-Science/death/INDEX.md"
-    relation: "buddhism/cardiovascular/emotion"
-  - path: "README.md"
-    relation: "buddhism/cardiovascular/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/cardiovascular/meditation"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "buddhism/emotion/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "冥想/觉察/呼吸"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "冥想/觉察/呼吸"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "正念/觉察/冥想"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-first-course-in-meditation.md"
+    relation: "冥想/呼吸"
 ---
 # 系列一：基础入门系列 | Foundation Series
 

@@ -1,7 +1,6 @@
 ---
-
 title: "人物命运与人生哲学 (Character Fate & Life Philosophy)"
-description: "人物命运与人生哲学 (Character Fate & Life Philosophy)的详细解析与实践指南"
+description: "人物命运与人生哲学 (Character Fate & Life Philosophy) —— Contemporary · The Ordinary World 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Ordinary World"
 tags: ["leadership", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人物命运与人生哲学"
   - "人物命运与人生哲学的核心概念"
   - "人物命运与人生哲学的方法与实践"
-trigger_keywords: ["人物命运与人生哲学", "act", "body", "developmental", "leadership"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/sexuality/therapy"
-
+trigger_keywords: ["人物命运与人生哲学", "leadership"]
+cross_refs: []
 ---
 # 人物命运与人生哲学 (Character Fate & Life Philosophy)
 

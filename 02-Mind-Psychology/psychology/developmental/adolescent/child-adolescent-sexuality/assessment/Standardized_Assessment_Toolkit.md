@@ -1,7 +1,6 @@
 ---
-
 title: "性教育标准化评估工具包 (Standardized Assessment Toolkit for Sexuality Education)"
-description: "性教育标准化评估工具包 (Standardized Assessment Toolkit for Sexuality Education)的详细解析与实践指南"
+description: "性教育标准化评估工具包 (Standardized Assessment Toolkit for Sexuality Education) —— Child Adolescent Sexuality · Assessment 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Assessment"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性教育标准化评估工具包"
   - "性教育标准化评估工具包的核心概念"
   - "性教育标准化评估工具包的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["性教育标准化评估工具包", "Standardized", "Assessment", "Toolkit", "for"]
+cross_refs: []
 ---
 # 性教育标准化评估工具包 (Standardized Assessment Toolkit for Sexuality Education)
 

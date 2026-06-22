@@ -9,6 +9,13 @@ skills:
     skill_name: 创伤与应激评估
     filename: Trauma_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Psychological_Impact_Trauma.md"
+    relation: "创伤/trauma/assessment"
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+    relation: "创伤/危机干预"
 ---
 
 # 创伤评估模块清单

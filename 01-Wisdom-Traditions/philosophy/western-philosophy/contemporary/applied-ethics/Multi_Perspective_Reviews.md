@@ -1,7 +1,6 @@
 ---
-
 title: "应用伦理学经典三方书评"
-description: "应用伦理学经典三方书评的详细解析与实践指南"
+description: "应用伦理学经典三方书评 —— Contemporary · Applied Ethics 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Applied Ethics"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是应用伦理学经典三方书评"
   - "应用伦理学经典三方书评的核心概念"
   - "应用伦理学经典三方书评的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
+trigger_keywords: ["应用伦理学经典三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
-    relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "death/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "death/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
-    relation: "emotion/exercise/personality"
-
+  - path: "05-Praxis-Growth/talks/ted-talks/Framework_Ethics_Philosophy.md"
+    relation: "singer/peter/ethics"
 ---
 # 应用伦理学经典三方书评
 

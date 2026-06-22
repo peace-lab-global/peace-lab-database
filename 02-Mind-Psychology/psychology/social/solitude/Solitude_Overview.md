@@ -1,7 +1,6 @@
 ---
-
 title: "独处与孤独：概览与区分 (Solitude vs Loneliness Overview)"
-description: "独处与孤独：概览与区分 (Solitude vs Loneliness Overview)的详细解析与实践指南"
+description: "独处与孤独：概览与区分 (Solitude vs Loneliness Overview) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["act-therapy", "anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是独处与孤独：概览与区分"
   - "独处与孤独：概览与区分的核心概念"
   - "独处与孤独：概览与区分的方法与实践"
-trigger_keywords: ["act", "act-therapy", "anxiety", "art"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["act-therapy", "独处与孤独：概览与区分", "Solitude", "vs", "Loneliness"]
+cross_refs: []
 ---
 # 独处与孤独：概览与区分 (Solitude vs Loneliness Overview)
 

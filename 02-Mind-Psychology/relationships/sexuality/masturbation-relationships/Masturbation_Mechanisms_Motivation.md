@@ -1,7 +1,6 @@
 ---
-
 title: "Psychological Mechanisms and Motivation of Masturbation (自慰行为的心理机制与动机分析)"
-description: "Psychological Mechanisms and Motivation of Masturbation (自慰行为的心理机制与动机分析)的详细解析与实践指南"
+description: "Psychological Mechanisms and Motivation of Masturbation (自慰行为的心理机制与动机分析) —— 人际关系 · Masturbation Relationships 专题"
 category: "心智与心理学 > 人际关系 > Masturbation Relationships"
 tags: ["anxiety", "cbt", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Psychological Mechanisms and Motivation of Masturbation"
   - "Psychological Mechanisms and Motivation of Masturbation的核心概念"
   - "Psychological Mechanisms and Motivation of Masturbation的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Psychological", "Mechanisms", "and", "Motivation", "of"]
 cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/EI_Emotion_Regulation_Training.md"
+    relation: "情绪调节/gross/emotion"
+  - path: "04-Humanities-Arts/media/cinema/horror-movie-psychology/Horror_Movie_Psychological_Impact_Analysis.md"
+    relation: "情绪调节/习惯"
+  - path: "04-Humanities-Arts/media/tv/horror-tv-series/Horror_TV_Series_Psychological_Effects_Research.md"
+    relation: "情绪调节/习惯"
 ---
 # Psychological Mechanisms and Motivation of Masturbation (自慰行为的心理机制与动机分析)
 

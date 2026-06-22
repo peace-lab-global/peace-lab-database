@@ -1,7 +1,6 @@
 ---
-
 title: "书法疗愈总览 | Calligraphy Therapy Overview"
-description: "书法疗愈总览 | Calligraphy Therapy Overview的详细解析与实践指南"
+description: "书法疗愈总览 | Calligraphy Therapy Overview —— 艺术 · 书法疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 书法疗愈"
 tags: ["calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是书法疗愈总览 | Calligraphy Therapy Overview"
   - "书法疗愈总览 | Calligraphy Therapy Overview的核心概念"
   - "书法疗愈总览 | Calligraphy Therapy Overview的方法与实践"
-trigger_keywords: ["书法疗愈总览", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["书法疗愈总览", "Calligraphy", "Therapy", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
+    relation: "书法/calligraphy/shodo"
+  - path: "01-Wisdom-Traditions/tai-chi/culture-art/TaiChi_Calligraphy_Aesthetics.md"
+    relation: "书法/calligraphy/运动"
 ---
 # 书法疗愈总览 | Calligraphy Therapy Overview
 

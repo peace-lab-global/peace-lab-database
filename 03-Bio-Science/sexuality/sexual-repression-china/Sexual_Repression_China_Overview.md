@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性压抑研究概览 (Sexual Repression in Chinese Society: Overview)"
-description: "中国社会性压抑研究概览 (Sexual Repression in Chinese Society: Overview)的详细解析与实践指南"
+description: "中国社会性压抑研究概览 (Sexual Repression in Chinese Society: Overview) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中国社会性压抑研究概览"
   - "中国社会性压抑研究概览的核心概念"
   - "中国社会性压抑研究概览的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/daoism"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/daoism"
-  - path: "01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["中国社会性压抑研究概览", "Sexual", "Repression", "in", "Chinese"]
+cross_refs: []
 ---
 # 中国社会性压抑研究概览 (Sexual Repression in Chinese Society: Overview)
 

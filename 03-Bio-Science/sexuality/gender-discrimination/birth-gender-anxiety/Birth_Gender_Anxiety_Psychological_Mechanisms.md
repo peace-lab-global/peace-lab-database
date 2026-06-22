@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Psychological Formation Mechanisms (生育性别焦虑的心理形成机制)"
-description: "Birth Gender Anxiety: Psychological Formation Mechanisms (生育性别焦虑的心理形成机制)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Psychological Formation Mechanisms (生育性别焦虑的心理形成机制) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["attachment", "cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Psychological Formation Mechanisms"
   - "Birth Gender Anxiety: Psychological Formation Mechanisms的核心概念"
   - "Birth Gender Anxiety: Psychological Formation Mechanisms的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/01-Definition-and-Model.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/21-Work-Family-Integration.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Psychological", "Formation"]
+cross_refs: []
 ---
 # Birth Gender Anxiety: Psychological Formation Mechanisms (生育性别焦虑的心理形成机制)
 

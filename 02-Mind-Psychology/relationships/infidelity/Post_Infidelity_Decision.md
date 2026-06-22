@@ -1,7 +1,6 @@
 ---
-
 title: "出轨后的决策指南 (Post-Infidelity Decision Guide)"
-description: "出轨后的决策指南 (Post-Infidelity Decision Guide)的详细解析与实践指南"
+description: "出轨后的决策指南 (Post-Infidelity Decision Guide) —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["anxiety", "emdr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是出轨后的决策指南"
   - "出轨后的决策指南的核心概念"
   - "出轨后的决策指南的方法与实践"
-trigger_keywords: ["出轨后的决策指南", "adolescent", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["出轨后的决策指南", "Post-Infidelity", "Decision", "Guide"]
+cross_refs: []
 ---
 # 出轨后的决策指南 (Post-Infidelity Decision Guide)
 

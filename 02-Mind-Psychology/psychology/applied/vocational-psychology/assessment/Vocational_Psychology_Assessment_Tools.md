@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学评估工具与测量标准 (Vocational Psychology Assessment Tools & Standards)"
-description: "职业心理学评估工具与测量标准 (Vocational Psychology Assessment Tools & Standards)的详细解析与实践指南"
+description: "职业心理学评估工具与测量标准 (Vocational Psychology Assessment Tools & Standards) —— Vocational Psychology · Assessment 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Assessment"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -13,9 +12,8 @@ intent_queries:
   - "职业心理学评估工具与测量标准的核心概念"
   - "职业心理学评估工具与测量标准的方法与实践"
   - "职业心理学评估工具与测量标准的自助方法"
-trigger_keywords: ["adolescent", "art", "assessment", "behavioral"]
+trigger_keywords: ["职业心理学评估工具与测量标准", "Vocational", "Psychology", "Assessment", "Tools"]
 cross_refs: []
-
 ---
 # 职业心理学评估工具与测量标准 (Vocational Psychology Assessment Tools & Standards)
 

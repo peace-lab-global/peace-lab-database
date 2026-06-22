@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《英国组曲第二号》综合指南"
-description: "巴赫《英国组曲第二号》综合指南的详细解析与实践指南"
+description: "巴赫《英国组曲第二号》综合指南 —— Bach English Suites · Suite2 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach English Suites > Suite2"
 tags: ["cortisol", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫《英国组曲第二号》综合指南"
   - "巴赫《英国组曲第二号》综合指南的核心概念"
   - "巴赫《英国组曲第二号》综合指南的方法与实践"
-trigger_keywords: ["adolescent", "art", "brain", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/depression/emotion"
-
+trigger_keywords: ["巴赫《英国组曲第二号》综合指南"]
+cross_refs: []
 ---
 # 巴赫《英国组曲第二号》综合指南
 

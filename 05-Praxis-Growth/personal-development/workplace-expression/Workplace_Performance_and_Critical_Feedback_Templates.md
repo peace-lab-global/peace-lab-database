@@ -1,7 +1,6 @@
 ---
-
 title: "一对一绩效/批评谈话模板 (1:1 Performance & Critical Feedback Templates)"
-description: "一对一绩效/批评谈话模板 (1:1 Performance & Critical Feedback Templates)的详细解析与实践指南"
+description: "一对一绩效/批评谈话模板 (1:1 Performance & Critical Feedback Templates) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "personality", "stress", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一对一绩效/批评谈话模板"
   - "一对一绩效/批评谈话模板的核心概念"
   - "一对一绩效/批评谈话模板的方法与实践"
-trigger_keywords: ["一对一绩效", "批评谈话模板", "behavioral", "communication", "emotion", "personality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/13-MBBI-Curriculum.md"
-    relation: "communication/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "communication/emotion/personality"
-
+trigger_keywords: ["一对一绩效", "批评谈话模板", "personality"]
+cross_refs: []
 ---
 # 一对一绩效/批评谈话模板 (1:1 Performance & Critical Feedback Templates)
 

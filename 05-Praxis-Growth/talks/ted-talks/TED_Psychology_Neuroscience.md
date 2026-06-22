@@ -1,7 +1,6 @@
 ---
-
 title: "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection"
-description: "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的详细解析与实践指南"
+description: "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的核心概念"
   - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的方法与实践"
   - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的自助方法"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["TED心理学与神经科学精选", "TED", "Psychology", "Neuroscience", "Collection"]
+cross_refs: []
 ---
 # TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection
 

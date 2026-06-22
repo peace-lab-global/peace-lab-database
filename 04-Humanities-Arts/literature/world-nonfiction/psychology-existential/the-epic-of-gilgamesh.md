@@ -1,7 +1,6 @@
 ---
-
 title: "《吉尔伽美什史诗》The Epic of Gilgamesh"
-description: "《吉尔伽美什史诗》The Epic of Gilgamesh的详细解析与实践指南"
+description: "《吉尔伽美什史诗》The Epic of Gilgamesh —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《吉尔伽美什史诗》The Epic of Gilgamesh"
   - "《吉尔伽美什史诗》The Epic of Gilgamesh的核心概念"
   - "《吉尔伽美什史诗》The Epic of Gilgamesh的方法与实践"
-trigger_keywords: ["body", "breathwork", "death", "literature"]
+trigger_keywords: ["《吉尔伽美什史诗》The", "Epic", "of", "Gilgamesh"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Psychology.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Health_Overview.md"
-    relation: "anxiety/cardiovascular/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/呼吸"
 ---
 # 《吉尔伽美什史诗》The Epic of Gilgamesh
 

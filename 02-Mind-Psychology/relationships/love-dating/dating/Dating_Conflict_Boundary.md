@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)"
-description: "Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)的详细解析与实践指南"
+description: "Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Dating Conflict Management & Boundary Setting"
   - "Dating Conflict Management & Boundary Setting的核心概念"
   - "Dating Conflict Management & Boundary Setting的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["Dating", "Conflict", "Management", "Boundary", "Setting"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "conflict/冲突/resolution"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "冲突/conflict/resolution"
 ---
 # Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《给未来尸体的建议》Advice for Future Corpses"
-description: "《给未来尸体的建议》Advice for Future Corpses的详细解析与实践指南"
+description: "《给未来尸体的建议》Advice for Future Corpses —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["phobia", "positive-psychology", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《给未来尸体的建议》Advice for Future Corpses"
   - "《给未来尸体的建议》Advice for Future Corpses的核心概念"
   - "《给未来尸体的建议》Advice for Future Corpses的方法与实践"
-trigger_keywords: ["death", "exercise", "philosophy", "phobia"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["exercise", "phobia"]
+cross_refs: []
 ---
 # 《给未来尸体的建议》Advice for Future Corpses
 

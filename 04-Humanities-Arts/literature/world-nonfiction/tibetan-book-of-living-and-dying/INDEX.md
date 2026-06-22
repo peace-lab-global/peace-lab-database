@@ -1,7 +1,6 @@
 ---
-
 title: "The Tibetan Book of Living and Dying | 西藏生死书"
-description: "The Tibetan Book of Living and Dying | 西藏生死书的详细解析与实践指南"
+description: "The Tibetan Book of Living and Dying | 西藏生死书 —— World Nonfiction · Tibetan Book Of Living And Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
 tags: ["dzogchen", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是The Tibetan Book of Living and Dying | 西藏生死书"
   - "The Tibetan Book of Living and Dying | 西藏生死书的核心概念"
   - "The Tibetan Book of Living and Dying | 西藏生死书的方法与实践"
-trigger_keywords: ["西藏生死书", "anxiety", "breathwork", "buddhism", "death"]
+trigger_keywords: ["西藏生死书", "The", "Tibetan", "Book", "of"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
+    relation: "sogyal/rinpoche/dying"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/INDEX.md"
+    relation: "dying/living/book"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "临终/tibetan/dying"
 ---
 # The Tibetan Book of Living and Dying | 西藏生死书
 

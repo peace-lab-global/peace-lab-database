@@ -1,6 +1,6 @@
 ---
 title: "brain | Index"
-description: "brain | Index的详细解析与实践指南"
+description: "brain | Index —— 生物学 · 神经科学 专题"
 category: "生命科学与生物医学 > 生物学 > 神经科学"
 tags: ["bci", "dmn", "生物学", "神经科学"]
 last_updated: "2026-05"
@@ -11,18 +11,8 @@ intent_queries:
   - "什么是brain | Index"
   - "brain | Index的核心概念"
   - "brain | Index的方法与实践"
-trigger_keywords: ["brain", "Index", "bci", "dmn", "生物学", "神经科学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Multi_Perspective_Reviews.md"
-    relation: "exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "exercise/neuroscience"
+trigger_keywords: ["bci", "dmn", "生物学", "神经科学"]
+cross_refs: []
 ---
 # brain | Index
 

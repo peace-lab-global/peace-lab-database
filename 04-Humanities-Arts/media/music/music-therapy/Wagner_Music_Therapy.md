@@ -1,7 +1,6 @@
 ---
-
 title: "理查德·瓦格纳音乐疗愈应用指南"
-description: "理查德·瓦格纳音乐疗愈应用指南的详细解析与实践指南"
+description: "理查德·瓦格纳音乐疗愈应用指南 —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是理查德·瓦格纳音乐疗愈应用指南"
   - "理查德·瓦格纳音乐疗愈应用指南的核心概念"
   - "理查德·瓦格纳音乐疗愈应用指南的方法与实践"
-trigger_keywords: ["理查德", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["理查德", "瓦格纳音乐疗愈应用指南"]
+cross_refs: []
 ---
 # 理查德·瓦格纳音乐疗愈应用指南
 

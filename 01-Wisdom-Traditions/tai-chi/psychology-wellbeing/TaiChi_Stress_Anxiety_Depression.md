@@ -13,8 +13,14 @@ intent_queries:
   - "太极的减压机制"
 trigger_keywords: ["压力", "焦虑", "抑郁", "皮质醇", "HPA轴"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "psychological-overview"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "太极/抑郁/hpa"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "血压/压力/hpa"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/14-HRV-Biofeedback.md"
+    relation: "hrv/副交感/心率"
 ---
 # 太极与压力焦虑抑郁 | Tai Chi, Stress, Anxiety & Depression
 

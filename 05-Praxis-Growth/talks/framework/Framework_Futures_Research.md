@@ -1,7 +1,6 @@
 ---
-
 title: "未来学研究 | Futures Research"
-description: "未来学研究 | Futures Research的详细解析与实践指南"
+description: "未来学研究 | Futures Research —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是未来学研究 | Futures Research"
   - "未来学研究 | Futures Research的核心概念"
   - "未来学研究 | Futures Research的方法与实践"
-trigger_keywords: ["未来学研究", "act", "art", "assessment", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
-    relation: "neuroscience/productivity/sexuality"
-
+trigger_keywords: ["未来学研究", "Futures", "Research"]
+cross_refs: []
 ---
 # 未来学研究 | Futures Research
 

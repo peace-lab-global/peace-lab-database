@@ -1,7 +1,6 @@
 ---
-
 title: "《先知》The Prophet"
-description: "《先知》The Prophet的详细解析与实践指南"
+description: "《先知》The Prophet —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "marriage", "music", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《先知》The Prophet"
   - "《先知》The Prophet的核心概念"
   - "《先知》The Prophet的方法与实践"
-trigger_keywords: ["death", "literature", "marriage", "music"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "attachment/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/death/sexuality"
-
+trigger_keywords: ["marriage", "music"]
+cross_refs: []
 ---
 # 《先知》The Prophet
 

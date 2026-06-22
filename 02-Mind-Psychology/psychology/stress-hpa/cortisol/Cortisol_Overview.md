@@ -1,7 +1,6 @@
 ---
-
 title: "皮质醇概览 (Cortisol Overview / Cortisol Conspectus)"
-description: "皮质醇概览 (Cortisol Overview / Cortisol Conspectus)的详细解析与实践指南"
+description: "皮质醇概览 (Cortisol Overview / Cortisol Conspectus) —— 压力与HPA轴 · Cortisol 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cortisol"
 tags: ["anxiety", "brain", "cardiovascular", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是皮质醇概览"
   - "皮质醇概览的核心概念"
   - "皮质醇概览的方法与实践"
-trigger_keywords: ["皮质醇概览", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["皮质醇概览", "Cortisol", "Overview", "Conspectus"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
+    relation: "hpa/应激/axis"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
+    relation: "hpa/皮质醇/cortisol"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+    relation: "应激/stress/hpa"
 ---
 # 皮质醇概览 (Cortisol Overview / Cortisol Conspectus)
 

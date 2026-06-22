@@ -1,7 +1,6 @@
 ---
-
 title: "中医与冥想 | Traditional Chinese Medicine & Meditation"
-description: "中医与冥想 | Traditional Chinese Medicine & Meditation的详细解析与实践指南"
+description: "中医与冥想 | Traditional Chinese Medicine & Meditation —— 冥想 · Chinese Traditions 专题"
 category: "心智与心理学 > 冥想 > Chinese Traditions"
 tags: ["anxiety", "cardiovascular", "depression", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是中医与冥想 | Traditional Chinese Medicine & Meditation"
   - "中医与冥想 | Traditional Chinese Medicine & Meditation的核心概念"
   - "中医与冥想 | Traditional Chinese Medicine & Meditation的方法与实践"
-trigger_keywords: ["中医与冥想", "act", "anxiety", "body", "breathwork"]
+trigger_keywords: ["中医与冥想", "Traditional", "Chinese", "Medicine", "Meditation"]
 cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "daoism/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/daoism/depression"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
-    relation: "anxiety/depression/emotion"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/daoism"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/daoism"
-
+  - path: "01-Wisdom-Traditions/tai-chi/qigong-neigong/TaiChi_Qigong_Foundations.md"
+    relation: "气功/qigong/调息"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "气功/qigong/冥想"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # 中医与冥想 | Traditional Chinese Medicine & Meditation
 

@@ -1,7 +1,6 @@
 ---
-
 title: "SPA & Bodywork (SPA仪式与触碰伦理)"
-description: "SPA & Bodywork (SPA仪式与触碰伦理)的详细解析与实践指南"
+description: "SPA & Bodywork (SPA仪式与触碰伦理) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["attachment", "brain", "cardiovascular", "cortisol", "healing", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是SPA & Bodywork"
   - "SPA & Bodywork的核心概念"
   - "SPA & Bodywork的方法与实践"
-trigger_keywords: ["act", "attachment", "body", "brain"]
+trigger_keywords: ["SPA", "Bodywork", "SPA仪式与触碰伦理"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/exercise/immune"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Breathwork_Science_Deep_Dive.md"
-    relation: "cardiovascular/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/spa/SPA_Overview.md"
+    relation: "spa/technical/疗法"
 ---
 # SPA & Bodywork (SPA仪式与触碰伦理)
 

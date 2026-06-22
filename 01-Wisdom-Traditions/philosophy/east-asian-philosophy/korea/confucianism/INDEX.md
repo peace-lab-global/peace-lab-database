@@ -1,6 +1,6 @@
 ---
 title: "confucianism | Index"
-description: "confucianism | Index的详细解析与实践指南"
+description: "confucianism | Index —— Korea · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是confucianism | Index"
   - "confucianism | Index的核心概念"
   - "confucianism | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "confucianism"]
 cross_refs: []
 ---
 # confucianism | Index

@@ -1,7 +1,6 @@
 ---
-
 title: "中阴教法：死亡后的意识地图"
-description: "中阴教法：死亡后的意识地图的详细解析与实践指南"
+description: "中阴教法：死亡后的意识地图 —— World Nonfiction · Tibetan Book Of Living And Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
 tags: ["dzogchen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是中阴教法：死亡后的意识地图"
   - "中阴教法：死亡后的意识地图的核心概念"
   - "中阴教法：死亡后的意识地图的方法与实践"
-trigger_keywords: ["anxiety", "art", "behavioral", "body"]
+trigger_keywords: ["中阴教法：死亡后的意识地图"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "bardo/死亡/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "bardo/临终/死亡"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Bardo_Death_Art.md"
+    relation: "bardo/死亡/dying"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
 ---
 # 中阴教法：死亡后的意识地图
 

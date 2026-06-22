@@ -1,7 +1,6 @@
 ---
-
 title: "恐怖美剧心理效应研究专业内容体系"
-description: "恐怖美剧心理效应研究专业内容体系的详细解析与实践指南"
+description: "恐怖美剧心理效应研究专业内容体系 —— Tv · Horror Tv Series 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Horror Tv Series"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "恐怖美剧心理效应研究专业内容体系的核心概念"
   - "恐怖美剧心理效应研究专业内容体系的方法与实践"
   - "恐怖美剧心理效应研究专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "art", "assessment"]
+trigger_keywords: ["恐怖美剧心理效应研究专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "习惯/恐惧"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Mechanisms_Motivation.md"
+    relation: "情绪调节/习惯"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/social-relationships/Adolescent_Relationship_Toolkit.md"
+    relation: "恐惧/情绪调节"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与身体对话/与身体对话：生活觉察：和身体建立亲密关系.md"
+    relation: "习惯/恐惧"
 ---
 # 恐怖美剧心理效应研究专业内容体系
 

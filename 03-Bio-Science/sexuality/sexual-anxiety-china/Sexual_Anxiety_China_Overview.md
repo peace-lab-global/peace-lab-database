@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性焦虑专业内容体系概览"
-description: "中国社会性焦虑专业内容体系概览的详细解析与实践指南"
+description: "中国社会性焦虑专业内容体系概览 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中国社会性焦虑专业内容体系概览的核心概念"
   - "中国社会性焦虑专业内容体系概览的方法与实践"
   - "中国社会性焦虑专业内容体系概览的自助方法"
-trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["中国社会性焦虑专业内容体系概览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-soothing/Self_Soothing_Techniques.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/杏仁核/anxiety"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "焦虑/恐惧"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Cognitive_Restructuring_Anxiety.md"
+    relation: "焦虑/恐惧"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Assessment_Skill.md"
+    relation: "焦虑/恐惧/anxiety"
 ---
 # 中国社会性焦虑专业内容体系概览
 

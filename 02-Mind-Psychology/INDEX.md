@@ -1,7 +1,6 @@
 ---
-
 title: "02-Mind-Psychology | 心智与心理学"
-description: "02-Mind-Psychology | 心智与心理学的详细解析与实践指南"
+description: "02-Mind-Psychology | 心智与心理学 —— 心智与心理学 专题"
 category: "心智与心理学"
 tags: ["addiction", "anxiety", "attachment", "depression", "schizophrenia", "personality"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "02-Mind-Psychology | 心智与心理学的核心概念"
   - "02-Mind-Psychology | 心智与心理学的方法与实践"
   - "02-Mind-Psychology | 心智与心理学的自助方法"
-trigger_keywords: ["心智与心理学", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["心智与心理学", "02-Mind-Psychology"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/emotion"
   - path: "README.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-
+    relation: "mind-psychology/psychology/somatic-body"
 ---
 # 02-Mind-Psychology | 心智与心理学
 

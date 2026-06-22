@@ -1,7 +1,6 @@
 ---
-
 title: "self-confidence | 自信心理学 Index"
-description: "self-confidence | 自信心理学 Index的详细解析与实践指南"
+description: "self-confidence | 自信心理学 Index —— 自我调节 · Self Confidence 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Self Confidence"
 tags: ["self-confidence", "self-esteem", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "self-confidence | 自信心理学 Index的核心概念"
   - "self-confidence | 自信心理学 Index的方法与实践"
   - "self-confidence | 自信心理学 Index的自助方法"
-trigger_keywords: ["act", "behavioral", "body", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "emotion/sexuality/therapy"
-
+trigger_keywords: ["self-confidence", "自信心理学"]
+cross_refs: []
 ---
 # self-confidence | 自信心理学 Index
 

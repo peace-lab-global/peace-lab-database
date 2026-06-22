@@ -1,7 +1,6 @@
 ---
-
 title: "islam | Index"
-description: "islam | Index的详细解析与实践指南"
+description: "islam | Index —— 宗教与灵性 · 伊斯兰教 专题"
 category: "智慧传承 > 宗教与灵性 > 伊斯兰教"
 tags: ["伊斯兰教", "宗教与灵性", "islam"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是islam | Index"
   - "islam | Index的核心概念"
   - "islam | Index的方法与实践"
-trigger_keywords: ["islam", "Index", "伊斯兰教", "宗教与灵性"]
+trigger_keywords: ["islam", "伊斯兰教", "宗教与灵性"]
 cross_refs: []
-
 ---
 # islam | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "宗教心理学概览 (Religious Psychology Overview)"
-description: "宗教心理学概览 (Religious Psychology Overview)的详细解析与实践指南"
+description: "宗教心理学概览 (Religious Psychology Overview) —— 宗教与灵性 · 宗教心理学 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教心理学"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "宗教心理学概览的核心概念"
   - "宗教心理学概览的方法与实践"
   - "宗教心理学概览的自助方法"
-trigger_keywords: ["宗教心理学概览", "addiction", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["宗教心理学概览", "Religious", "Psychology", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-religions-comparative/the-varieties-of-religious-experience.md"
+    relation: "religious/william/james"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md"
+    relation: "table/psychology/contents"
 ---
 # 宗教心理学概览 (Religious Psychology Overview)
 

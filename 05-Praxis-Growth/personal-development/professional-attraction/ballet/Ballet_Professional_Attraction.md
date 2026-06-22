@@ -1,7 +1,6 @@
 ---
-
 title: "Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学)"
-description: "Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学)的详细解析与实践指南"
+description: "Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学) —— Professional Attraction · 芭蕾 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > 芭蕾"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Ballet Professional Attraction Psychology"
   - "Ballet Professional Attraction Psychology的核心概念"
   - "Ballet Professional Attraction Psychology的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["Ballet", "Professional", "Attraction", "Psychology", "芭蕾舞职业吸引心理学"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/body_image/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/body_image/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/body_image/communication"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
-    relation: "anxiety/body_image/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/arts/ballet/education-research/Ballet_Education_Research.md"
+    relation: "芭蕾/ballet"
+  - path: "04-Humanities-Arts/arts/ballet/general/Ballet_General_Resources.md"
+    relation: "芭蕾/ballet/舞蹈"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Overview.md"
+    relation: "芭蕾/ballet/舞蹈"
+  - path: "04-Humanities-Arts/media/music/classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Choreography.md"
+    relation: "芭蕾/舞蹈"
 ---
 # Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学)
 

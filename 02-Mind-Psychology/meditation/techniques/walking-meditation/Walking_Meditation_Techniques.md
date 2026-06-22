@@ -1,7 +1,6 @@
 ---
-
 title: "正念行走技术体系 | Walking Meditation Techniques"
-description: "正念行走技术体系 | Walking Meditation Techniques的详细解析与实践指南"
+description: "正念行走技术体系 | Walking Meditation Techniques —— 冥想 · Walking Meditation 专题"
 category: "心智与心理学 > 冥想 > Walking Meditation"
 tags: ["habits", "mbsr", "meditation", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念行走技术体系 | Walking Meditation Techniques"
   - "正念行走技术体系 | Walking Meditation Techniques的核心概念"
   - "正念行走技术体系 | Walking Meditation Techniques的方法与实践"
-trigger_keywords: ["正念行走技术体系", "aging", "body", "breathwork", "developmental"]
+trigger_keywords: ["正念行走技术体系", "Walking", "Meditation", "Techniques"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/exercise/meditation"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/exercise/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/exercise/meditation"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/exercise/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/exercise/meditation"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "正念/觉察/table"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Mindful_Techniques.md"
+    relation: "walking/kinhin/觉察"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md"
+    relation: "walking/正念/table"
+  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/INDEX.md"
+    relation: "theravada/meditation/contents"
 ---
 # 正念行走技术体系 | Walking Meditation Techniques
 

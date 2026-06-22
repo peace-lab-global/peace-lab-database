@@ -1,7 +1,6 @@
 ---
-
 title: "《从天堂回来的男孩》The Boy Who Came Back from Heaven"
-description: "《从天堂回来的男孩》The Boy Who Came Back from Heaven的详细解析与实践指南"
+description: "《从天堂回来的男孩》The Boy Who Came Back from Heaven —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["literature", "spirituality", "trauma", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《从天堂回来的男孩》The Boy Who Came Back from Heaven"
   - "《从天堂回来的男孩》The Boy Who Came Back from Heaven的核心概念"
   - "《从天堂回来的男孩》The Boy Who Came Back from Heaven的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "child", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/sexuality/trauma"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/sexuality/trauma"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/sexuality/trauma"
-
+trigger_keywords: ["《从天堂回来的男孩》The", "Boy", "Who", "Came", "Back"]
+cross_refs: []
 ---
 # 《从天堂回来的男孩》The Boy Who Came Back from Heaven
 

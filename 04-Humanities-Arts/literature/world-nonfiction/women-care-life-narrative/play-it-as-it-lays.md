@@ -1,7 +1,6 @@
 ---
-
 title: "《顺其自然》Play It As It Lays"
-description: "《顺其自然》Play It As It Lays的详细解析与实践指南"
+description: "《顺其自然》Play It As It Lays —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["literature", "marriage", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《顺其自然》Play It As It Lays"
   - "《顺其自然》Play It As It Lays的核心概念"
   - "《顺其自然》Play It As It Lays的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/depression"
-
+trigger_keywords: ["《顺其自然》Play", "It", "As", "Lays"]
+cross_refs: []
 ---
 # 《顺其自然》Play It As It Lays
 

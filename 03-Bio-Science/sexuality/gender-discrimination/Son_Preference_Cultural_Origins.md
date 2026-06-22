@@ -1,7 +1,6 @@
 ---
-
 title: "Root Causes of Son Preference in China (中国重男轻女文化根源分析)"
-description: "Root Causes of Son Preference in China (中国重男轻女文化根源分析)的详细解析与实践指南"
+description: "Root Causes of Son Preference in China (中国重男轻女文化根源分析) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["aging", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Root Causes of Son Preference in China"
   - "Root Causes of Son Preference in China的核心概念"
   - "Root Causes of Son Preference in China的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Root", "Causes", "of", "Son", "Preference"]
+cross_refs: []
 ---
 # Root Causes of Son Preference in China (中国重男轻女文化根源分析)
 

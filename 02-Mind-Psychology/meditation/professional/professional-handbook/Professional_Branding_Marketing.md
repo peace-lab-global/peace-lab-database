@@ -1,7 +1,6 @@
 ---
-
 title: "冥想执行师品牌与营销 | Professional Branding & Marketing"
-description: "冥想执行师品牌与营销 | Professional Branding & Marketing的详细解析与实践指南"
+description: "冥想执行师品牌与营销 | Professional Branding & Marketing —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想执行师品牌与营销 | Professional Branding & Marketing"
   - "冥想执行师品牌与营销 | Professional Branding & Marketing的核心概念"
   - "冥想执行师品牌与营销 | Professional Branding & Marketing的方法与实践"
-trigger_keywords: ["冥想执行师品牌与营销", "anxiety", "art", "brain", "child"]
+trigger_keywords: ["冥想执行师品牌与营销", "Professional", "Branding", "Marketing"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/depression"
-
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Instructor_Personal_Branding.md"
+    relation: "branding/personal/冥想"
 ---
 # 冥想执行师品牌与营销 | Professional Branding & Marketing
 

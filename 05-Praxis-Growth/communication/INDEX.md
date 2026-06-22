@@ -1,0 +1,40 @@
+---
+title: "沟通与表达 (Communication)"
+description: "沟通与表达 —— 实践与个人增长 · 结构化沟通与非暴力表达 专题"
+category: "实践与个人增长 > 沟通与表达"
+tags: ["communication", "negotiation", "nvc", "conflict-resolution"]
+last_updated: "2026-06"
+cross_refs: []
+---
+
+# 沟通与表达 (Communication) | Index
+
+> **专题定位**：高效沟通与结构化表达的完整体系，涵盖非暴力沟通、冲突解决、跨文化沟通、谈判、教练式倾听。
+> **适用对象**：管理者、团队协作者、咨询师、教练、需要提升表达力的专业人士。
+
+---
+
+## 专题总览
+
+| 专题 | 目录 | 文档数 | 核心模块 |
+|:-----|:-----|:------:|:---------|
+| [有效沟通](effective-communication/) | `effective-communication/` | 2 | 沟通模型、反馈技巧 |
+| [结构化表达](structured-expression/) | `structured-expression/` | 1 | 金字塔原理、SCQA |
+| [非暴力沟通](nonviolent-communication/) | `nonviolent-communication/` | 1 | NVC 四要素、观察与评价 |
+| [非防御性沟通](non-defensive-communication/) | `non-defensive-communication/` | 1 | 降低防御、建设性对话 |
+| [教练式倾听](coaching-listening/) | `coaching-listening/` | 1 | 深度倾听、提问技术 |
+| [冲突解决](conflict-resolution/) | `conflict-resolution/` | 1 | 冲突模型、调解 |
+| [谈判](negotiation/) | `negotiation/` | 3 | 哈佛谈判法、BATNA |
+| [跨文化沟通](cross-cultural-communication/) | `cross-cultural-communication/` | 1 | 文化差异、跨文化适应 |
+
+---
+
+## 快速导航
+
+- [有效沟通](effective-communication/) — 沟通基础模型
+- [非暴力沟通](nonviolent-communication/) — Marshall Rosenberg NVC 体系
+- [谈判](negotiation/) — 原则性谈判方法
+- [教练式倾听](coaching-listening/) — 深度倾听技术
+
+---
+*返回上级 [05-Praxis-Growth](../INDEX.md) | 返回根目录 [README.md](../../README.md)*

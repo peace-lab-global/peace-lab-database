@@ -1,7 +1,6 @@
 ---
-
 title: "MBCT Assessment Tools"
-description: "MBCT Assessment Tools的详细解析与实践指南"
+description: "MBCT Assessment Tools —— 冥想 · Mbct Program 专题"
 category: "心智与心理学 > 冥想 > Mbct Program"
 tags: ["mbct", "meditation"]
 last_updated: "2026-05"
@@ -13,18 +12,7 @@ intent_queries:
   - "MBCT Assessment Tools的核心概念"
   - "MBCT Assessment Tools的方法与实践"
 trigger_keywords: ["mbct", "冥想"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "meditation/therapy"
-
+cross_refs: []
 ---
 # MBCT Assessment Tools
 

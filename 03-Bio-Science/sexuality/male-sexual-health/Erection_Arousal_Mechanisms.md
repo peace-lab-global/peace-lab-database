@@ -1,7 +1,6 @@
 ---
-
 title: "Erection and Arousal Mechanisms (勃起与唤起机制)"
-description: "Erection and Arousal Mechanisms (勃起与唤起机制)的详细解析与实践指南"
+description: "Erection and Arousal Mechanisms (勃起与唤起机制) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Erection and Arousal Mechanisms"
   - "Erection and Arousal Mechanisms的核心概念"
   - "Erection and Arousal Mechanisms的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "cardiovascular"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["cardiovascular", "Erection", "and", "Arousal", "Mechanisms"]
+cross_refs: []
 ---
 # Erection and Arousal Mechanisms (勃起与唤起机制)
 

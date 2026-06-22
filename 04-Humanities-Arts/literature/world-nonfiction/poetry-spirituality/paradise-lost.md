@@ -1,7 +1,6 @@
 ---
-
 title: "《失乐园》Paradise Lost"
-description: "《失乐园》Paradise Lost的详细解析与实践指南"
+description: "《失乐园》Paradise Lost —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["leadership", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《失乐园》Paradise Lost"
   - "《失乐园》Paradise Lost的核心概念"
   - "《失乐园》Paradise Lost的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "death", "leadership"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-
+trigger_keywords: ["leadership", "《失乐园》Paradise", "Lost"]
+cross_refs: []
 ---
 # 《失乐园》Paradise Lost
 

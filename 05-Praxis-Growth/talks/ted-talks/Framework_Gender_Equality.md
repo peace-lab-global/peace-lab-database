@@ -1,7 +1,6 @@
 ---
-
 title: "性别平等 | Gender Equality"
-description: "性别平等 | Gender Equality的详细解析与实践指南"
+description: "性别平等 | Gender Equality —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["addiction", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性别平等 | Gender Equality"
   - "性别平等 | Gender Equality的核心概念"
   - "性别平等 | Gender Equality的方法与实践"
-trigger_keywords: ["性别平等", "addiction", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
-    relation: "attachment/communication/death"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "attachment/communication/death"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/Gender_Discrimination_Overview.md"
-    relation: "attachment/communication/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/play-it-as-it-lays.md"
-    relation: "attachment/communication/death"
-
+trigger_keywords: ["性别平等", "Gender", "Equality"]
+cross_refs: []
 ---
 # 性别平等 | Gender Equality
 

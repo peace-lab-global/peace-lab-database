@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources"
-description: "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources的详细解析与实践指南"
+description: "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources —— 临床心理 · 焦虑症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
 tags: ["anxiety", "brain", "cbt", "act", "ocd"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources的核心概念"
   - "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources的方法与实践"
   - "焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources的自助方法"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["焦虑症数字干预与自助资源", "Anxiety", "Digital", "Interventions", "Self-Help"]
+cross_refs: []
 ---
 # 焦虑症数字干预与自助资源 Anxiety Digital Interventions & Self-Help Resources
 

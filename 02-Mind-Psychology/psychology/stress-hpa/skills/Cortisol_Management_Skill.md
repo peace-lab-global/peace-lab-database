@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_004
 skill_name: 皮质醇调节方案
 skill_name_en: Cortisol Regulation Protocol
@@ -31,18 +30,7 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-
+cross_refs: []
 ---
 
 # 皮质醇调节方案技能

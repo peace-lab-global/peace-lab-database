@@ -1,7 +1,6 @@
 ---
-
 title: "《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat"
-description: "《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat的详细解析与实践指南"
+description: "《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["immune", "literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat"
   - "《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat的核心概念"
   - "《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat的方法与实践"
-trigger_keywords: ["body", "brain", "cognitive", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
-    relation: "exercise/immune/neuroscience"
-
+trigger_keywords: ["《错把妻子当帽子的人》The", "Man", "Who", "Mistook", "His"]
+cross_refs: []
 ---
 # 《错把妻子当帽子的人》The Man Who Mistook His Wife for a Hat
 

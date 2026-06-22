@@ -1,7 +1,6 @@
 ---
-
 title: "约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)"
-description: "约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)的详细解析与实践指南"
+description: "约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity) —— 人际关系 · Prevention 专题"
 category: "心智与心理学 > 人际关系 > Prevention"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是约炮与出轨预防干预指南"
   - "约炮与出轨预防干预指南的核心概念"
   - "约炮与出轨预防干预指南的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["约炮与出轨预防干预指南", "Prevention", "and", "Early", "Intervention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/ffe"
 ---
 # 约炮与出轨预防干预指南 (Prevention and Early Intervention Guide for Casual Sex and Infidelity)
 

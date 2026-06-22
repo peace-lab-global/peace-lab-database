@@ -1,7 +1,6 @@
 ---
-
 title: "Neuroscience and Physiology of Masturbation (自慰行为的神经科学与生理学基础)"
-description: "Neuroscience and Physiology of Masturbation (自慰行为的神经科学与生理学基础)的详细解析与实践指南"
+description: "Neuroscience and Physiology of Masturbation (自慰行为的神经科学与生理学基础) —— 性学 · Masturbation Psychology 专题"
 category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
 tags: ["brain", "cardiovascular", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Neuroscience and Physiology of Masturbation"
   - "Neuroscience and Physiology of Masturbation的核心概念"
   - "Neuroscience and Physiology of Masturbation的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Neuroscience", "and", "Physiology", "of", "Masturbation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Neuroscience_Biology.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Autogenic_Training.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Sexual_Health.md"
+    relation: "masturbation/sexual/key"
 ---
 # Neuroscience and Physiology of Masturbation (自慰行为的神经科学与生理学基础)
 

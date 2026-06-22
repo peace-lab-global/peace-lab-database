@@ -1,7 +1,6 @@
 ---
-
 title: "和辻哲郎哲学 · 佛法视角三方书评"
-description: "和辻哲郎哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "和辻哲郎哲学 · 佛法视角三方书评 —— Japan · Watsuji 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Watsuji"
 tags: ["buddhism", "philosophy", "positive-psychology", "religion", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是和辻哲郎哲学 · 佛法视角三方书评"
   - "和辻哲郎哲学 · 佛法视角三方书评的核心概念"
   - "和辻哲郎哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["和辻哲郎哲学", "佛法视角三方书评", "buddhism", "cognitive", "philosophy", "positive-psychology"]
+trigger_keywords: ["和辻哲郎哲学", "佛法视角三方书评", "positive-psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/what-the-buddha-taught.md"
+    relation: "佛教/缘起"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "佛教/vs"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "佛教/vs"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "佛教/缘起"
 ---
 # 和辻哲郎哲学 · 佛法视角三方书评
 

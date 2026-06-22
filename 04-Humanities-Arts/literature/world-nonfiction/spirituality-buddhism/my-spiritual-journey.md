@@ -1,7 +1,6 @@
 ---
-
 title: "《我的灵修之旅》My Spiritual Journey"
-description: "《我的灵修之旅》My Spiritual Journey的详细解析与实践指南"
+description: "《我的灵修之旅》My Spiritual Journey —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["leadership", "spirituality", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《我的灵修之旅》My Spiritual Journey"
   - "《我的灵修之旅》My Spiritual Journey的核心概念"
   - "《我的灵修之旅》My Spiritual Journey的方法与实践"
-trigger_keywords: ["death", "leadership", "meditation", "sexuality"]
+trigger_keywords: ["leadership", "meditation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Dalai_Lama.md"
+    relation: "喇嘛/dalai/lama"
 ---
 # 《我的灵修之旅》My Spiritual Journey
 

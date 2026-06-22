@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《第一钢琴协奏曲》聆听鉴赏完全指南"
-description: "肖邦《第一钢琴协奏曲》聆听鉴赏完全指南的详细解析与实践指南"
+description: "肖邦《第一钢琴协奏曲》聆听鉴赏完全指南 —— Chopin Piano Concertos · No1 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Piano Concertos > No1"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是肖邦《第一钢琴协奏曲》聆听鉴赏完全指南"
   - "肖邦《第一钢琴协奏曲》聆听鉴赏完全指南的核心概念"
   - "肖邦《第一钢琴协奏曲》聆听鉴赏完全指南的方法与实践"
-trigger_keywords: ["art", "body", "brain", "breathwork"]
+trigger_keywords: ["肖邦《第一钢琴协奏曲》聆听鉴赏完全指南"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/meditation"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/meditation"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/专注数息.md"
+    relation: "专注/呼吸"
 ---
 # 肖邦《第一钢琴协奏曲》聆听鉴赏完全指南
 

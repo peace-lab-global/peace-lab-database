@@ -1,7 +1,6 @@
 ---
-
 title: "间隔重复与检索练习 (Spaced Repetition & Retrieval Practice)"
-description: "间隔重复与检索练习 (Spaced Repetition & Retrieval Practice)的详细解析与实践指南"
+description: "间隔重复与检索练习 (Spaced Repetition & Retrieval Practice) —— 个人发展 · 元学习 专题"
 category: "实践与个人增长 > 个人发展 > 元学习"
 tags: ["music", "meta-learning"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是间隔重复与检索练习"
   - "间隔重复与检索练习的核心概念"
   - "间隔重复与检索练习的方法与实践"
-trigger_keywords: ["间隔重复与检索练习", "act", "aging", "brain", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
-    relation: "aging/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/exercise/neuroscience"
-
+trigger_keywords: ["间隔重复与检索练习", "Spaced", "Repetition", "Retrieval", "Practice"]
+cross_refs: []
 ---
 # 间隔重复与检索练习 (Spaced Repetition & Retrieval Practice)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "冥想大师人物档案 | Meditation Masters & Leaders"
-description: "冥想大师人物档案 | Meditation Masters & Leaders的详细解析与实践指南"
+description: "冥想大师人物档案 | Meditation Masters & Leaders —— 冥想 · Masters 专题"
 category: "心智与心理学 > 冥想 > Masters"
 tags: ["brain", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想大师人物档案 | Meditation Masters & Leaders"
   - "冥想大师人物档案 | Meditation Masters & Leaders的核心概念"
   - "冥想大师人物档案 | Meditation Masters & Leaders的方法与实践"
-trigger_keywords: ["冥想大师人物档案", "act", "body", "brain", "buddhism"]
+trigger_keywords: ["冥想大师人物档案", "Meditation", "Masters", "Leaders"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "01-Wisdom-Traditions/yoga/masters/INDEX.md"
+    relation: "ancient/leaders/masters"
 ---
 # 冥想大师人物档案 | Meditation Masters & Leaders
 

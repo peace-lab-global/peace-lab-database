@@ -1,7 +1,6 @@
 ---
-
 title: "Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)"
-description: "Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)的详细解析与实践指南"
+description: "Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预) —— 宗教与灵性 · 道家 专题"
 category: "智慧传承 > 宗教与灵性 > 道家"
 tags: ["flow", "healing", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Talisman & Ritual Healing"
   - "Talisman & Ritual Healing的核心概念"
   - "Talisman & Ritual Healing的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/daoism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "anxiety/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "anxiety/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "anxiety/immune/neuroscience"
-
+trigger_keywords: ["Talisman", "Ritual", "Healing", "符箓与仪式疗愈：符号学干预"]
+cross_refs: []
 ---
 # Talisman & Ritual Healing (符箓与仪式疗愈：符号学干预)
 

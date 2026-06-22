@@ -1,7 +1,6 @@
 ---
-
 title: "汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)"
-description: "汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)的详细解析与实践指南"
+description: "汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed) —— 佛教 · Traditions 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Traditions"
 tags: ["buddhism", "mindfulness", "philosophy", "religion", "meditation", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是汉传大乘各宗派详论"
   - "汉传大乘各宗派详论的核心概念"
   - "汉传大乘各宗派详论的方法与实践"
-trigger_keywords: ["汉传大乘各宗派详论", "act", "buddhism", "cognitive", "developmental"]
+trigger_keywords: ["汉传大乘各宗派详论", "Chinese", "Mahayana", "Schools", "Detailed"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/buddhism/佛教"
 ---
 # 汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)
 

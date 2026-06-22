@@ -1,7 +1,6 @@
 ---
-
 title: "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言"
-description: "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言的详细解析与实践指南"
+description: "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言"
   - "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言的核心概念"
   - "《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "communication/death/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
-    relation: "death/emotion/pain"
-
+trigger_keywords: ["《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言"]
+cross_refs: []
 ---
 # 《泰坦尼克号》专业影评：史诗爱情的视觉奇观与阶级寓言
 

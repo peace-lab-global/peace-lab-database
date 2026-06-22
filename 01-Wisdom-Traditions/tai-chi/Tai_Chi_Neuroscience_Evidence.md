@@ -1,7 +1,6 @@
 ---
-
 title: "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence"
-description: "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的详细解析与实践指南"
+description: "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence"
   - "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的核心概念"
   - "太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence的方法与实践"
-trigger_keywords: ["aging", "anxiety", "body", "brain"]
+trigger_keywords: ["太极拳循证研究与神经科学", "Tai", "Chi", "Neuroscience", "Evidence"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/cardiovascular"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
+    relation: "炎症/太极/运动"
   - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/exercise"
-
+    relation: "太极/chi/tai"
 ---
 # 太极拳循证研究与神经科学 | Tai Chi Neuroscience & Evidence
 

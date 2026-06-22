@@ -1,7 +1,6 @@
 ---
-
 title: "情商应用 | Emotional Intelligence"
-description: "情商应用 | Emotional Intelligence的详细解析与实践指南"
+description: "情商应用 | Emotional Intelligence —— 个人发展 · 情商 专题"
 category: "实践与个人增长 > 个人发展 > 情商"
 tags: ["eq", "leadership", "mindfulness", "negotiation", "communication"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是情商应用 | Emotional Intelligence"
   - "情商应用 | Emotional Intelligence的核心概念"
   - "情商应用 | Emotional Intelligence的方法与实践"
-trigger_keywords: ["情商应用", "breathwork", "cognitive", "emotion", "eq"]
+trigger_keywords: ["情商应用", "eq"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Emotional_Intelligence_Guide.md"
+    relation: "intelligence/emotional/leadership"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Regulation_Methods.md"
+    relation: "emotion/regulation/gross"
 ---
 # 情商应用 | Emotional Intelligence
 

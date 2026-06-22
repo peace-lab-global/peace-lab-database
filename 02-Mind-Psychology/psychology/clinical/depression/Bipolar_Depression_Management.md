@@ -1,7 +1,6 @@
 ---
-
 title: "Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)"
-description: "Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)的详细解析与实践指南"
+description: "Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理) —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["anxiety", "cbt", "depression", "bipolar"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Bipolar Depression: Differential Diagnosis & Management"
   - "Bipolar Depression: Differential Diagnosis & Management的核心概念"
   - "Bipolar Depression: Differential Diagnosis & Management的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Bipolar", "Depression:", "Differential", "Diagnosis", "Management"]
+cross_refs: []
 ---
 # Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)
 

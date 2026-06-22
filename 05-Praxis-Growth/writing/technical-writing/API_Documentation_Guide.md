@@ -1,7 +1,6 @@
 ---
-
 title: "API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API"
-description: "API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API的详细解析与实践指南"
+description: "API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["habits", "productivity", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API"
   - "API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API的核心概念"
   - "API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API的方法与实践"
-trigger_keywords: ["API文档写作指南", "assessment", "developmental", "habits", "productivity"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["API文档写作指南", "habits", "productivity"]
+cross_refs: []
 ---
 # API文档写作指南 | API Documentation Guide | Οδηγός Τεκμηρίωσης API
 

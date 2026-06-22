@@ -1,7 +1,6 @@
 ---
-
 title: "《死亡的狂喜》The Rapture of Death"
-description: "《死亡的狂喜》The Rapture of Death的详细解析与实践指南"
+description: "《死亡的狂喜》The Rapture of Death —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["literature", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《死亡的狂喜》The Rapture of Death"
   - "《死亡的狂喜》The Rapture of Death的核心概念"
   - "《死亡的狂喜》The Rapture of Death的方法与实践"
-trigger_keywords: ["body", "cognitive", "death", "developmental"]
+trigger_keywords: ["《死亡的狂喜》The", "Rapture", "of", "Death"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
-    relation: "death/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/jewish-meditation/Jewish_Practical_Guide.md"
-    relation: "death/depression/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "死亡/death/临终"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "死亡/临终/death"
 ---
 # 《死亡的狂喜》The Rapture of Death
 

@@ -1,7 +1,6 @@
 ---
-
 title: "内感受与冥想专业指南 | Interoception & Meditation Guide"
-description: "内感受与冥想专业指南 | Interoception & Meditation Guide的详细解析与实践指南"
+description: "内感受与冥想专业指南 | Interoception & Meditation Guide —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是内感受与冥想专业指南 | Interoception & Meditation Guide"
   - "内感受与冥想专业指南 | Interoception & Meditation Guide的核心概念"
   - "内感受与冥想专业指南 | Interoception & Meditation Guide的方法与实践"
-trigger_keywords: ["内感受与冥想专业指南", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["内感受与冥想专业指南", "Interoception", "Meditation", "Guide"]
+cross_refs: []
 ---
 # 内感受与冥想专业指南 | Interoception & Meditation Guide
 

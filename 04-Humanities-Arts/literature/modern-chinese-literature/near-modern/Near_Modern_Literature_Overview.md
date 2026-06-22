@@ -1,7 +1,6 @@
 ---
-
 title: "现代中国文学专业内容体系：20世纪文学的多元发展"
-description: "现代中国文学专业内容体系：20世纪文学的多元发展的详细解析与实践指南"
+description: "现代中国文学专业内容体系：20世纪文学的多元发展 —— Modern Chinese Literature · Near Modern 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Near Modern"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是现代中国文学专业内容体系：20世纪文学的多元发展"
   - "现代中国文学专业内容体系：20世纪文学的多元发展的核心概念"
   - "现代中国文学专业内容体系：20世纪文学的多元发展的方法与实践"
-trigger_keywords: ["act", "art", "developmental", "exercise"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["exercise", "现代中国文学专业内容体系：20世纪文学的多元发展"]
+cross_refs: []
 ---
 # 现代中国文学专业内容体系：20世纪文学的多元发展
 

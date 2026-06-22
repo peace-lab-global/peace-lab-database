@@ -1,7 +1,6 @@
 ---
-
 title: "《会讲故事的大脑》The Tell-Tale Brain"
-description: "《会讲故事的大脑》The Tell-Tale Brain的详细解析与实践指南"
+description: "《会讲故事的大脑》The Tell-Tale Brain —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《会讲故事的大脑》The Tell-Tale Brain"
   - "《会讲故事的大脑》The Tell-Tale Brain的核心概念"
   - "《会讲故事的大脑》The Tell-Tale Brain的方法与实践"
-trigger_keywords: ["art", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "cardiovascular/emotion/exercise"
-
+trigger_keywords: ["《会讲故事的大脑》The", "Tell-Tale", "Brain"]
+cross_refs: []
 ---
 # 《会讲故事的大脑》The Tell-Tale Brain
 

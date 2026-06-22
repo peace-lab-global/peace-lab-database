@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑的国际比较与借鉴研究"
-description: "性焦虑的国际比较与借鉴研究的详细解析与实践指南"
+description: "性焦虑的国际比较与借鉴研究 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["sexuality"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "性焦虑的国际比较与借鉴研究的核心概念"
   - "性焦虑的国际比较与借鉴研究的方法与实践"
   - "性焦虑的国际比较与借鉴研究的自助方法"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["性焦虑的国际比较与借鉴研究"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
-    relation: "anxiety/communication/exercise"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/vs"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "vs/焦虑/沟通"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Revolution_Tradition.md"
+    relation: "vs/运动"
+  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
+    relation: "冲突/焦虑/沟通"
 ---
 # 性焦虑的国际比较与借鉴研究
 

@@ -1,7 +1,6 @@
 ---
-
 title: "系列九：职场场景系列 | Workplace Series"
-description: "系列九：职场场景系列 | Workplace Series的详细解析与实践指南"
+description: "系列九：职场场景系列 | Workplace Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "brain", "cbt", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是系列九：职场场景系列 | Workplace Series"
   - "系列九：职场场景系列 | Workplace Series的核心概念"
   - "系列九：职场场景系列 | Workplace Series的方法与实践"
-trigger_keywords: ["系列九：职场场景系列", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["系列九：职场场景系列", "Workplace", "Series"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/meditation"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/communication/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/communication/meditation"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/正念/认知重构"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Meeting_Practice.md"
+    relation: "正念/韧性/倦怠"
 ---
 # 系列九：职场场景系列 | Workplace Series
 

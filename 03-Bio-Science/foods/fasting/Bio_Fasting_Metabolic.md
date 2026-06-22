@@ -1,7 +1,6 @@
 ---
-
 title: "Fasting & Metabolic Wisdom (断食智慧与代谢增强)"
-description: "Fasting & Metabolic Wisdom (断食智慧与代谢增强)的详细解析与实践指南"
+description: "Fasting & Metabolic Wisdom (断食智慧与代谢增强) —— 营养学 · 断食 专题"
 category: "生命科学与生物医学 > 营养学 > 断食"
 tags: ["addiction", "aging", "brain", "fasting", "sleep", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Fasting & Metabolic Wisdom"
   - "Fasting & Metabolic Wisdom的核心概念"
   - "Fasting & Metabolic Wisdom的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/emotion"
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Fasting", "Metabolic", "Wisdom", "断食智慧与代谢增强"]
+cross_refs: []
 ---
 # Fasting & Metabolic Wisdom (断食智慧与代谢增强)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "系列四：情绪调节系列 | Emotion Regulation Series"
-description: "系列四：情绪调节系列 | Emotion Regulation Series的详细解析与实践指南"
+description: "系列四：情绪调节系列 | Emotion Regulation Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是系列四：情绪调节系列 | Emotion Regulation Series"
   - "系列四：情绪调节系列 | Emotion Regulation Series的核心概念"
   - "系列四：情绪调节系列 | Emotion Regulation Series的方法与实践"
-trigger_keywords: ["系列四：情绪调节系列", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["系列四：情绪调节系列", "Emotion", "Regulation", "Series"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/EI_Emotion_Regulation_Training.md"
+    relation: "rain/情绪调节/emotion"
 ---
 # 系列四：情绪调节系列 | Emotion Regulation Series
 

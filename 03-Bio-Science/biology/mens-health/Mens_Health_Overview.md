@@ -1,7 +1,6 @@
 ---
-
 title: "男性健康总览 | Men's Health Overview"
-description: "男性健康总览 | Men's Health Overview的详细解析与实践指南"
+description: "男性健康总览 | Men's Health Overview —— 生物学 · Mens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Mens Health"
 tags: ["cardiovascular", "death", "decision-making", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是男性健康总览 | Men's Health Overview"
   - "男性健康总览 | Men's Health Overview的核心概念"
   - "男性健康总览 | Men's Health Overview的方法与实践"
-trigger_keywords: ["男性健康总览", "anxiety", "assessment", "behavioral", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "anxiety/body_image/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["男性健康总览", "Men's", "Health", "Overview"]
+cross_refs: []
 ---
 # 男性健康总览 | Men's Health Overview
 

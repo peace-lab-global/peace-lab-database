@@ -1,7 +1,6 @@
 ---
-
 title: "太极拳总览 | Tai Chi Overview"
-description: "太极拳总览 | Tai Chi Overview的详细解析与实践指南"
+description: "太极拳总览 | Tai Chi Overview —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["cardiovascular", "daoism", "depression", "meditation", "tcm", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是太极拳总览 | Tai Chi Overview"
   - "太极拳总览 | Tai Chi Overview的核心概念"
   - "太极拳总览 | Tai Chi Overview的方法与实践"
-trigger_keywords: ["太极拳总览", "act", "aging", "anxiety", "breathwork"]
+trigger_keywords: ["太极拳总览", "Tai", "Chi", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
   - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/cardiovascular/daoism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极拳总览 | Tai Chi Overview
 

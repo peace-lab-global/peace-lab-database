@@ -1,7 +1,6 @@
 ---
-
 title: "独处实践指南：从害怕独处到享受独处 (Solitude Practice Guide)"
-description: "独处实践指南：从害怕独处到享受独处 (Solitude Practice Guide)的详细解析与实践指南"
+description: "独处实践指南：从害怕独处到享受独处 (Solitude Practice Guide) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是独处实践指南：从害怕独处到享受独处"
   - "独处实践指南：从害怕独处到享受独处的核心概念"
   - "独处实践指南：从害怕独处到享受独处的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Overview.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/anxiety/art_therapy"
-
+trigger_keywords: ["独处实践指南：从害怕独处到享受独处", "Solitude", "Practice", "Guide"]
+cross_refs: []
 ---
 # 独处实践指南：从害怕独处到享受独处 (Solitude Practice Guide)
 

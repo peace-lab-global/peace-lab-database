@@ -1,7 +1,6 @@
 ---
-
 title: "自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media"
-description: "自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media的详细解析与实践指南"
+description: "自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media"
   - "自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media的核心概念"
   - "自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media的方法与实践"
-trigger_keywords: ["自媒体运营概览", "art", "assessment", "communication", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/exercise/productivity"
-
+trigger_keywords: ["自媒体运营概览", "Social", "Media", "Operations", "Overview"]
+cross_refs: []
 ---
 # 自媒体运营概览 | Social Media Operations Overview | Επισκόπηση Λειτουργίας Social Media
 

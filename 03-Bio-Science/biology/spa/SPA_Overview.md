@@ -1,7 +1,6 @@
 ---
-
 title: "SPA Overview (水疗养生概览)"
-description: "SPA Overview (水疗养生概览)的详细解析与实践指南"
+description: "SPA Overview (水疗养生概览) —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["aging", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是SPA Overview"
   - "SPA Overview的核心概念"
   - "SPA Overview的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["SPA", "Overview", "水疗养生概览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_SPA_Bodywork.md"
+    relation: "spa/technical/疗法"
 ---
 # SPA Overview (水疗养生概览)
 

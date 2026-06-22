@@ -1,7 +1,6 @@
 ---
-
 title: "Children, Adolescents & Death (儿童与青少年的死亡概念发展)"
-description: "Children, Adolescents & Death (儿童与青少年的死亡概念发展)的详细解析与实践指南"
+description: "Children, Adolescents & Death (儿童与青少年的死亡概念发展) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "attachment", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Children, Adolescents & Death"
   - "Children, Adolescents & Death的核心概念"
   - "Children, Adolescents & Death的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["Children", "Adolescents", "Death", "儿童与青少年的死亡概念发展"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/rural-psychology/Rural_Psychological_Stressors.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
+    relation: "death/死亡/fear"
 ---
 # Children, Adolescents & Death (儿童与青少年的死亡概念发展)
 

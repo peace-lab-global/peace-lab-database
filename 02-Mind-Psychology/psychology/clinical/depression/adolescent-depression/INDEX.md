@@ -1,7 +1,6 @@
 ---
-
 title: "青少年抑郁 (Adolescent Depression) | Index"
-description: "青少年抑郁 (Adolescent Depression) | Index的详细解析与实践指南"
+description: "青少年抑郁 (Adolescent Depression) | Index —— 抑郁症 · Adolescent Depression 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症 > Adolescent Depression"
 tags: ["cbt", "depression", "bipolar", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "青少年抑郁  | Index的核心概念"
   - "青少年抑郁  | Index的方法与实践"
   - "青少年抑郁  | Index的自助方法"
-trigger_keywords: ["青少年抑郁", "Index", "act", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["青少年抑郁", "Adolescent", "Depression"]
 cross_refs:
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "depression/emotion/meditation"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "depression/emotion/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "depression/emotion/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "depression/emotion/meditation"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "emotion/meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
+    relation: "抑郁/悲伤/adolescent"
 ---
 # 青少年抑郁 (Adolescent Depression) | Index
 

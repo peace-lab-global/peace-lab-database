@@ -1,7 +1,6 @@
 ---
-
 title: "萨满传统实修指南 (Shamanic Traditions Practical Guide)"
-description: "萨满传统实修指南 (Shamanic Traditions Practical Guide)的详细解析与实践指南"
+description: "萨满传统实修指南 (Shamanic Traditions Practical Guide) —— 冥想 · Shamanic Traditions 专题"
 category: "心智与心理学 > 冥想 > Shamanic Traditions"
 tags: ["addiction", "anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是萨满传统实修指南"
   - "萨满传统实修指南的核心概念"
   - "萨满传统实修指南的方法与实践"
-trigger_keywords: ["萨满传统实修指南", "act", "addiction", "anxiety", "art"]
+trigger_keywords: ["萨满传统实修指南", "Shamanic", "Traditions", "Practical", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/exercise/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
+    relation: "shamanic/journey/traditions"
 ---
 # 萨满传统实修指南 (Shamanic Traditions Practical Guide)
 

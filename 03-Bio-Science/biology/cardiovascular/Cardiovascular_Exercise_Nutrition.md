@@ -1,7 +1,6 @@
 ---
-
 title: "心血管运动与营养 | Cardiovascular Exercise & Nutrition"
-description: "心血管运动与营养 | Cardiovascular Exercise & Nutrition的详细解析与实践指南"
+description: "心血管运动与营养 | Cardiovascular Exercise & Nutrition —— 生物学 · 心血管 专题"
 category: "生命科学与生物医学 > 生物学 > 心血管"
 tags: ["cardiovascular", "death", "depression", "nutrition", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是心血管运动与营养 | Cardiovascular Exercise & Nutrition"
   - "心血管运动与营养 | Cardiovascular Exercise & Nutrition的核心概念"
   - "心血管运动与营养 | Cardiovascular Exercise & Nutrition的方法与实践"
-trigger_keywords: ["心血管运动与营养", "anxiety", "assessment", "behavioral", "cardiovascular"]
+trigger_keywords: ["心血管运动与营养", "cardiovascular"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Cardiovascular_Metabolic.md"
+    relation: "运动/cardiovascular/血压"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Holistic_Integration.md"
+    relation: "营养/运动/nutrition"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "血压/cardiovascular/运动"
 ---
 # 心血管运动与营养 | Cardiovascular Exercise & Nutrition
 

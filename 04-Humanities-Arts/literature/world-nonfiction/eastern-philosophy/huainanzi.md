@@ -1,7 +1,6 @@
 ---
-
 title: "《淮南子》Huainanzi"
-description: "《淮南子》Huainanzi的详细解析与实践指南"
+description: "《淮南子》Huainanzi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《淮南子》Huainanzi"
   - "《淮南子》Huainanzi的核心概念"
   - "《淮南子》Huainanzi的方法与实践"
-trigger_keywords: ["daoism", "death", "literature", "sexuality"]
+trigger_keywords: ["daoism", "《淮南子》Huainanzi"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Multi_Perspective_Reviews.md"
-    relation: "daoism/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "daoism/death/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md"
+    relation: "庄子/道家"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Multi_Perspective_Reviews.md"
+    relation: "庄子/阴阳"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
+    relation: "老子/道家/庄子"
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "道家/庄子/阴阳"
 ---
 # 《淮南子》Huainanzi
 

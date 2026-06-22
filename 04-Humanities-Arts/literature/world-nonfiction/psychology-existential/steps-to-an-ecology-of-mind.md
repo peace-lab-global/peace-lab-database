@@ -1,7 +1,6 @@
 ---
-
 title: "《心智生态学》Steps to an Ecology of Mind"
-description: "《心智生态学》Steps to an Ecology of Mind的详细解析与实践指南"
+description: "《心智生态学》Steps to an Ecology of Mind —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《心智生态学》Steps to an Ecology of Mind"
   - "《心智生态学》Steps to an Ecology of Mind的核心概念"
   - "《心智生态学》Steps to an Ecology of Mind的方法与实践"
-trigger_keywords: ["behavioral", "brain", "buddhism", "psychology"]
+trigger_keywords: ["《心智生态学》Steps", "to", "an", "Ecology", "of"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_General.md"
+    relation: "bind/mind/double"
 ---
 # 《心智生态学》Steps to an Ecology of Mind
 

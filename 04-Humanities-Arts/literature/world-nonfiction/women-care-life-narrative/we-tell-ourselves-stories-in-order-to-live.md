@@ -1,7 +1,6 @@
 ---
-
 title: "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live"
-description: "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live的详细解析与实践指南"
+description: "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live"
   - "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live的核心概念"
   - "《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live的方法与实践"
-trigger_keywords: ["act", "developmental", "sexuality", "writing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "aging/death/depression"
-
+trigger_keywords: ["writing", "《我们讲故事是为了活着》We", "Tell", "Ourselves", "Stories"]
+cross_refs: []
 ---
 # 《我们讲故事是为了活着》We Tell Ourselves Stories in Order to Live
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Sexual Dysfunction Common Issues (男性性功能障碍与常见问题)"
-description: "Sexual Dysfunction Common Issues (男性性功能障碍与常见问题)的详细解析与实践指南"
+description: "Sexual Dysfunction Common Issues (男性性功能障碍与常见问题) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["cardiovascular", "depression", "intervention", "neuroscience", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Sexual Dysfunction Common Issues"
   - "Sexual Dysfunction Common Issues的核心概念"
   - "Sexual Dysfunction Common Issues的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "cardiovascular", "clinical"]
+trigger_keywords: ["cardiovascular", "Sexual", "Dysfunction", "Common", "Issues"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Cross_Comparisons.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "血压/压力/障碍"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/障碍"
 ---
 # Sexual Dysfunction Common Issues (男性性功能障碍与常见问题)
 

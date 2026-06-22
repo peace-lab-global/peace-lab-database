@@ -1,7 +1,6 @@
 ---
-
 title: "青少年发展实用工具箱"
-description: "青少年发展实用工具箱的详细解析与实践指南"
+description: "青少年发展实用工具箱 —— Adolescent Psychology · Social Relationships 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Social Relationships"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是青少年发展实用工具箱"
   - "青少年发展实用工具箱的核心概念"
   - "青少年发展实用工具箱的方法与实践"
-trigger_keywords: ["青少年发展实用工具箱", "adolescent", "anxiety", "art", "assessment"]
+trigger_keywords: ["青少年发展实用工具箱"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/恐惧"
+  - path: "04-Humanities-Arts/media/cinema/horror-movie-psychology/Horror_Movie_Psychology_Overview.md"
+    relation: "恐惧/情绪调节"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "安全计划/压力/情绪调节"
+  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
+    relation: "恐惧/情绪调节"
 ---
 # 青少年发展实用工具箱
 

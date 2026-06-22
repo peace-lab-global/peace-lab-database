@@ -1,7 +1,6 @@
 ---
-
 title: "哲学经典书评总论 | Philosophy Book Reviews Overview"
-description: "哲学经典书评总论 | Philosophy Book Reviews Overview的详细解析与实践指南"
+description: "哲学经典书评总论 | Philosophy Book Reviews Overview —— 哲学 · Book Reviews 专题"
 category: "智慧传承 > 哲学 > Book Reviews"
 tags: ["buddhism", "habits", "philosophy", "treatment", "yoga", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是哲学经典书评总论 | Philosophy Book Reviews Overview"
   - "哲学经典书评总论 | Philosophy Book Reviews Overview的核心概念"
   - "哲学经典书评总论 | Philosophy Book Reviews Overview的方法与实践"
-trigger_keywords: ["哲学经典书评总论", "buddhism", "death", "habits", "philosophy"]
+trigger_keywords: ["哲学经典书评总论", "habits"]
 cross_refs:
-  - path: "README.md"
-    relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "daoism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Book_Reviews.md"
+    relation: "reviews/book/习惯"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/i-ching.md"
+    relation: "book/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/consolation-of-philosophy.md"
+    relation: "philosophy/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/mythology-archetype/the-red-book.md"
+    relation: "book/死亡"
 ---
 # 哲学经典书评总论 | Philosophy Book Reviews Overview
 

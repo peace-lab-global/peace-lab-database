@@ -1,7 +1,6 @@
 ---
-
 title: "《千面英雄》The Hero with a Thousand Faces"
-description: "《千面英雄》The Hero with a Thousand Faces的详细解析与实践指南"
+description: "《千面英雄》The Hero with a Thousand Faces —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["cinema", "jung", "religion", "treatment", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《千面英雄》The Hero with a Thousand Faces"
   - "《千面英雄》The Hero with a Thousand Faces的核心概念"
   - "《千面英雄》The Hero with a Thousand Faces的方法与实践"
-trigger_keywords: ["cinema", "death", "jung", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-
+trigger_keywords: ["cinema", "jung"]
+cross_refs: []
 ---
 # 《千面英雄》The Hero with a Thousand Faces
 

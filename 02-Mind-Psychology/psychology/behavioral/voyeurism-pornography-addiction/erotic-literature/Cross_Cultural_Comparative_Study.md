@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)"
-description: "色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)的详细解析与实践指南"
+description: "色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是色情文学成瘾跨文化比较研究"
   - "色情文学成瘾跨文化比较研究的核心概念"
   - "色情文学成瘾跨文化比较研究的方法与实践"
-trigger_keywords: ["act", "addiction", "art", "assessment"]
+trigger_keywords: ["色情文学成瘾跨文化比较研究", "Cross-Cultural", "Comparative", "Study", "of"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "buddhism/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Traditional_Culture_Sexual_Concepts.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "README.md"
-    relation: "buddhism/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Cross_Cultural_Comparative_Study.md"
+    relation: "comparative/cross-cultural/study"
 ---
 # 色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "传统文化与性观念：儒家、道家、佛教的历史影响 (Traditional Culture and Sexual Concepts: Historical Influences of Confucianism, Taoism, and Buddhism)"
-description: "传统文化与性观念：儒家、道家、佛教的历史影响 (Traditional Culture and Sexual Concepts: Historical Influences of Confucianism, Taoism, and Buddhism)的详细解析与实践指南"
+description: "传统文化与性观念：儒家、道家、佛教的历史影响 (Traditional Culture and Sexual Concepts: Historical Influences of Confucianism, Taoism, and Buddhism) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["daoism", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是传统文化与性观念：儒家、道家、佛教的历史影响"
   - "传统文化与性观念：儒家、道家、佛教的历史影响的核心概念"
   - "传统文化与性观念：儒家、道家、佛教的历史影响的方法与实践"
-trigger_keywords: ["道家", "佛教的历史影响", "act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "README.md"
-    relation: "attachment/buddhism/communication"
-  - path: "GLOSSARY.md"
-    relation: "attachment/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/communication/emotion"
-
+trigger_keywords: ["道家", "佛教的历史影响"]
+cross_refs: []
 ---
 # 传统文化与性观念：儒家、道家、佛教的历史影响 (Traditional Culture and Sexual Concepts: Historical Influences of Confucianism, Taoism, and Buddhism)
 

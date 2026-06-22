@@ -1,7 +1,6 @@
 ---
-
 title: "冥想社群与僧团 (Meditation Community & Sangha)"
-description: "冥想社群与僧团 (Meditation Community & Sangha)的详细解析与实践指南"
+description: "冥想社群与僧团 (Meditation Community & Sangha) —— 冥想 · Career Business 专题"
 category: "心智与心理学 > 冥想 > Career Business"
 tags: ["leadership", "mbsr", "meditation", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想社群与僧团"
   - "冥想社群与僧团的核心概念"
   - "冥想社群与僧团的方法与实践"
-trigger_keywords: ["冥想社群与僧团", "act", "behavioral", "buddhism", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "buddhism/communication/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/communication/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/meditation"
-
+trigger_keywords: ["冥想社群与僧团", "Meditation", "Community", "Sangha"]
+cross_refs: []
 ---
 # 冥想社群与僧团 (Meditation Community & Sangha)
 

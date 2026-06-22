@@ -13,10 +13,10 @@ intent_queries:
   - "太极拳的传播历史"
 trigger_keywords: ["历史", "起源", "张三丰", "陈王廷", "杨露禅"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Schools_Styles.md"
-    relation: "schools-styles"
-  - path: "01-Wisdom-Traditions/religions/dao/"
-    relation: "daoist-tradition"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极拳历史演变 | Tai Chi Historical Evolution
 

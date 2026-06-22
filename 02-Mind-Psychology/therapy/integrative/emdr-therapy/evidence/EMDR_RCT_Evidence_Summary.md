@@ -1,5 +1,4 @@
 ---
-
 title: "EMDR 眼动脱敏再加工 RCT 证据摘要"
 description: "EMDR 眼动脱敏再加工疗法随机对照试验证据汇总与临床指南"
 category: "心智与心理学 > 疗法 > EMDR > Evidence"
@@ -14,18 +13,7 @@ intent_queries:
   - "眼动脱敏再加工的随机对照试验"
   - "EMDR 与 CBT 对比疗效"
 trigger_keywords: ["emdr", "trauma", "ptsd", "eye-movement", "bilateral-stimulation"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/evidence/CBT_RCT_Evidence_Summary.md"
-    relation: "PTSD 治疗对比"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "神经生物学机制"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/evidence/ACT_RCT_Evidence_Summary.md"
-    relation: "创伤共病干预"
-  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/evidence/MBCT_RCT_Evidence_Summary.md"
-    relation: "复发预防对比"
-  - path: "02-Mind-Psychology/psychology/clinical/trauma-psychology"
-    relation: "创伤心理学理论"
-
+cross_refs: []
 ---
 # EMDR 眼动脱敏再加工 RCT 证据摘要
 

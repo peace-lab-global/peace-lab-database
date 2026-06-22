@@ -1,7 +1,6 @@
 ---
-
 title: "物理科学 | Physical Sciences"
-description: "物理科学 | Physical Sciences的详细解析与实践指南"
+description: "物理科学 | Physical Sciences —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是物理科学 | Physical Sciences"
   - "物理科学 | Physical Sciences的核心概念"
   - "物理科学 | Physical Sciences的方法与实践"
-trigger_keywords: ["物理科学", "brain", "cognitive", "developmental", "neuroscience"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/neuroscience/productivity"
-
+trigger_keywords: ["物理科学", "neuroscience"]
+cross_refs: []
 ---
 # 物理科学 | Physical Sciences
 

@@ -1,7 +1,6 @@
 ---
-
 title: "汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)"
-description: "汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)的详细解析与实践指南"
+description: "汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "suicide", "yoga", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是汉传佛教水陆法会仪轨"
   - "汉传佛教水陆法会仪轨的核心概念"
   - "汉传佛教水陆法会仪轨的方法与实践"
-trigger_keywords: ["汉传佛教水陆法会仪轨", "buddhism", "death", "developmental", "suicide"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/depression/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/depression/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/depression/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/depression"
-
+trigger_keywords: ["汉传佛教水陆法会仪轨", "suicide"]
+cross_refs: []
 ---
 # 汉传佛教水陆法会仪轨 (Chinese Water-Land Dharma Assembly)
 

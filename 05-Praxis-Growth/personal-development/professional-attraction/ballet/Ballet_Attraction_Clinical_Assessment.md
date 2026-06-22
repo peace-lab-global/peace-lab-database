@@ -1,7 +1,6 @@
 ---
-
 title: "Ballet Professional Attraction Clinical Assessment (芭蕾舞职业吸引临床评估)"
-description: "Ballet Professional Attraction Clinical Assessment (芭蕾舞职业吸引临床评估)的详细解析与实践指南"
+description: "Ballet Professional Attraction Clinical Assessment (芭蕾舞职业吸引临床评估) —— Professional Attraction · 芭蕾 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > 芭蕾"
 tags: ["ballet", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Ballet Professional Attraction Clinical Assessment"
   - "Ballet Professional Attraction Clinical Assessment的核心概念"
   - "Ballet Professional Attraction Clinical Assessment的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["Ballet", "Professional", "Attraction", "Clinical", "Assessment"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/body_image/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/body_image/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/body_image/communication"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Clinical_Applications.md"
-    relation: "anxiety/body_image/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/arts/ballet/education-research/Ballet_Education_Research.md"
+    relation: "芭蕾/ballet"
+  - path: "04-Humanities-Arts/arts/ballet/general/Ballet_General_Resources.md"
+    relation: "芭蕾/ballet"
+  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
+    relation: "芭蕾/ballet"
+  - path: "04-Humanities-Arts/arts/ballet/Ballet_Overview.md"
+    relation: "芭蕾/ballet"
 ---
 # Ballet Professional Attraction Clinical Assessment (芭蕾舞职业吸引临床评估)
 

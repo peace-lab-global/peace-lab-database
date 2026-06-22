@@ -1,7 +1,6 @@
 ---
-
 title: "南传上座部佛教概览 (Theravada Buddhism Overview)"
-description: "南传上座部佛教概览 (Theravada Buddhism Overview)的详细解析与实践指南"
+description: "南传上座部佛教概览 (Theravada Buddhism Overview) —— 佛教 · Theravada 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
 tags: ["buddhism", "longevity", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传上座部佛教概览"
   - "南传上座部佛教概览的核心概念"
   - "南传上座部佛教概览的方法与实践"
-trigger_keywords: ["南传上座部佛教概览", "act", "anxiety", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["南传上座部佛教概览", "Theravada", "Buddhism", "Overview"]
+cross_refs: []
 ---
 # 南传上座部佛教概览 (Theravada Buddhism Overview)
 

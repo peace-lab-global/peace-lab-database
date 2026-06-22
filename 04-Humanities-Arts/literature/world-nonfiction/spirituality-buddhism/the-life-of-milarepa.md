@@ -1,7 +1,6 @@
 ---
-
 title: "《密勒日巴传》The Life of Milarepa"
-description: "《密勒日巴传》The Life of Milarepa的详细解析与实践指南"
+description: "《密勒日巴传》The Life of Milarepa —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["spirituality", "therapy", "yoga", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《密勒日巴传》The Life of Milarepa"
   - "《密勒日巴传》The Life of Milarepa的核心概念"
   - "《密勒日巴传》The Life of Milarepa的方法与实践"
-trigger_keywords: ["body", "buddhism", "sexuality", "spirituality"]
+trigger_keywords: ["spirituality", "《密勒日巴传》The", "Life", "of", "Milarepa"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Milarepa.md"
+    relation: "milarepa/life/藏传"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Multi_Perspective_Reviews.md"
+    relation: "力量/佛法/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/the-guru-drinks-bourbon/Multi_Perspective_Reviews.md"
+    relation: "上师/藏传/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Buddhist_Perspective_Reviews.md"
+    relation: "佛法/佛教/意义"
 ---
 # 《密勒日巴传》The Life of Milarepa
 

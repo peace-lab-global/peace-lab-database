@@ -1,7 +1,6 @@
 ---
-
 title: "Pornography Dependence & Compulsive Sexual Behavior (色情依赖与强迫性性行为)"
-description: "Pornography Dependence & Compulsive Sexual Behavior (色情依赖与强迫性性行为)的详细解析与实践指南"
+description: "Pornography Dependence & Compulsive Sexual Behavior (色情依赖与强迫性性行为) —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["addiction", "anxiety", "brain", "cbt", "emdr", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Pornography Dependence & Compulsive Sexual Behavior"
   - "Pornography Dependence & Compulsive Sexual Behavior的核心概念"
   - "Pornography Dependence & Compulsive Sexual Behavior的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["Pornography", "Dependence", "Compulsive", "Sexual", "Behavior"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md"
+    relation: "csbd/compulsive/强迫"
 ---
 # Pornography Dependence & Compulsive Sexual Behavior (色情依赖与强迫性性行为)
 

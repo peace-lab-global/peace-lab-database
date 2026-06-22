@@ -1,7 +1,6 @@
 ---
-
 title: "媒体素养 | Media Literacy"
-description: "媒体素养 | Media Literacy的详细解析与实践指南"
+description: "媒体素养 | Media Literacy —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是媒体素养 | Media Literacy"
   - "媒体素养 | Media Literacy的核心概念"
   - "媒体素养 | Media Literacy的方法与实践"
-trigger_keywords: ["媒体素养", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["媒体素养", "Media", "Literacy"]
+cross_refs: []
 ---
 # 媒体素养 | Media Literacy
 

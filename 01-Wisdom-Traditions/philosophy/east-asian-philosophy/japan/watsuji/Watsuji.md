@@ -1,7 +1,6 @@
 ---
-
 title: "和辻哲郎 (Watsuji Tetsurō)"
-description: "和辻哲郎 (Watsuji Tetsurō)的详细解析与实践指南"
+description: "和辻哲郎 (Watsuji Tetsurō) —— Japan · Watsuji 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Watsuji"
 tags: ["healing", "philosophy", "therapy", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是和辻哲郎"
   - "和辻哲郎的核心概念"
   - "和辻哲郎的方法与实践"
-trigger_keywords: ["和辻哲郎", "cognitive", "developmental", "healing", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "sexuality/therapy/trauma"
-
+trigger_keywords: ["和辻哲郎", "healing"]
+cross_refs: []
 ---
 # 和辻哲郎 (Watsuji Tetsurō)
 ## 核心思想 (Core Ideas)

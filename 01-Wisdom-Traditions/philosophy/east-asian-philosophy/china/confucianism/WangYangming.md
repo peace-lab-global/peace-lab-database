@@ -1,7 +1,6 @@
 ---
-
 title: "王阳明 (Wang Yangming)"
-description: "王阳明 (Wang Yangming)的详细解析与实践指南"
+description: "王阳明 (Wang Yangming) —— China · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
 tags: ["habits", "healing", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是王阳明"
   - "王阳明的核心概念"
   - "王阳明的方法与实践"
-trigger_keywords: ["王阳明", "act", "behavioral", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "emotion/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/psychology/applied/educational-psychology/Student_Mental_Health.md"
-    relation: "emotion/exercise/personality"
-  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/Vocational_Psychology_Clinical_Applications.md"
-    relation: "emotion/personality/productivity"
-
+trigger_keywords: ["王阳明", "Wang", "Yangming"]
+cross_refs: []
 ---
 # 王阳明 (Wang Yangming)
 

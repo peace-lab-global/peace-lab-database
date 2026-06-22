@@ -1,7 +1,6 @@
 ---
-
 title: "contemporary | Index"
-description: "contemporary | Index的详细解析与实践指南"
+description: "contemporary | Index —— 芭蕾 · Contemporary 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary"
 tags: ["art-therapy", "芭蕾", "ballet"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是contemporary | Index"
   - "contemporary | Index的核心概念"
   - "contemporary | Index的方法与实践"
-trigger_keywords: ["Index", "艺术", "芭蕾"]
-cross_refs: []
-
+trigger_keywords: ["艺术", "芭蕾"]
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/INDEX.md"
+    relation: "ballet/contents"
 ---
 # contemporary | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-OCD Agent Skills — 技能协议"
-description: "Anti-OCD Agent Skills — 技能协议的详细解析与实践指南"
+description: "Anti-OCD Agent Skills — 技能协议 —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["decision-making", "depression", "intervention", "ocd", "suicide", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anti-OCD Agent Skills — 技能协议"
   - "Anti-OCD Agent Skills — 技能协议的核心概念"
   - "Anti-OCD Agent Skills — 技能协议的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "decision-making", "depression"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/现代哲学书评.md"
-    relation: "depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md"
-    relation: "depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
-    relation: "depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
-    relation: "depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion"
-
+trigger_keywords: ["decision-making", "depression"]
+cross_refs: []
 ---
 # Anti-OCD Agent Skills — 技能协议
 

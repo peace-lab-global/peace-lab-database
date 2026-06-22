@@ -1,7 +1,6 @@
 ---
-
 title: "Stretch Integration & Movement Systems (拉伸与运动整合)"
-description: "Stretch Integration & Movement Systems (拉伸与运动整合)的详细解析与实践指南"
+description: "Stretch Integration & Movement Systems (拉伸与运动整合) —— 生物学 · Stretch 专题"
 category: "生命科学与生物医学 > 生物学 > Stretch"
 tags: ["daoism", "exercise", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Stretch Integration & Movement Systems"
   - "Stretch Integration & Movement Systems的核心概念"
   - "Stretch Integration & Movement Systems的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "daoism/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/daoism/neuroscience"
-
+trigger_keywords: ["Stretch", "Integration", "Movement", "Systems", "拉伸与运动整合"]
+cross_refs: []
 ---
 # Stretch Integration & Movement Systems (拉伸与运动整合)
 

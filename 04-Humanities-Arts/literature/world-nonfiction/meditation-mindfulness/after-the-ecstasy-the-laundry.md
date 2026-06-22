@@ -1,7 +1,6 @@
 ---
-
 title: "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry"
-description: "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的详细解析与实践指南"
+description: "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["spirituality", "yoga", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《狂喜之后，洗衣之时》After the Ecstasy, the Laundry"
   - "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的核心概念"
   - "《狂喜之后，洗衣之时》After the Ecstasy, the Laundry的方法与实践"
-trigger_keywords: ["《狂喜之后", "buddhism", "sexuality", "spirituality", "yoga"]
+trigger_keywords: ["《狂喜之后", "spirituality", "yoga"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/history/Buddhist_History_Timeline.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "kornfield/jack/laundry"
 ---
 # 《狂喜之后，洗衣之时》After the Ecstasy, the Laundry
 

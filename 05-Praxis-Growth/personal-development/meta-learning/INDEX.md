@@ -1,7 +1,6 @@
 ---
-
 title: "学习方法论与元学习 (Meta-Learning & Learning Methodology) | Index"
-description: "学习方法论与元学习 (Meta-Learning & Learning Methodology) | Index的详细解析与实践指南"
+description: "学习方法论与元学习 (Meta-Learning & Learning Methodology) | Index —— 个人发展 · 元学习 专题"
 category: "实践与个人增长 > 个人发展 > 元学习"
 tags: ["flow", "habits", "meta-learning"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是学习方法论与元学习  | Index"
   - "学习方法论与元学习  | Index的核心概念"
   - "学习方法论与元学习  | Index的方法与实践"
-trigger_keywords: ["学习方法论与元学习", "Index", "act", "aging", "brain", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_08_Life_Scenes.md"
-    relation: "aging/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/exercise/meditation"
-
+trigger_keywords: ["学习方法论与元学习", "Meta-Learning", "Learning", "Methodology"]
+cross_refs: []
 ---
 # 学习方法论与元学习 (Meta-Learning & Learning Methodology) | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "医护工作者孤独专题 | Loneliness in Healthcare Professionals"
-description: "医护工作者孤独专题 | Loneliness in Healthcare Professionals的详细解析与实践指南"
+description: "医护工作者孤独专题 | Loneliness in Healthcare Professionals —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["depression", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是医护工作者孤独专题 | Loneliness in Healthcare Professionals"
   - "医护工作者孤独专题 | Loneliness in Healthcare Professionals的核心概念"
   - "医护工作者孤独专题 | Loneliness in Healthcare Professionals的方法与实践"
-trigger_keywords: ["医护工作者孤独专题", "assessment", "behavioral", "communication", "crisis"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "communication/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Composition_Background.md"
-    relation: "communication/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "communication/death/depression"
-  - path: "05-Praxis-Growth/personal-development/career-planning/Career_Transition.md"
-    relation: "communication/death/depression"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/emotion"
-
+trigger_keywords: ["医护工作者孤独专题", "Loneliness", "in", "Healthcare", "Professionals"]
+cross_refs: []
 ---
 # 医护工作者孤独专题 | Loneliness in Healthcare Professionals
 

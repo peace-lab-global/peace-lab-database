@@ -1,7 +1,6 @@
 ---
-
 title: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)"
-description: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)的详细解析与实践指南"
+description: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Mental Illness & End-of-Life Care"
   - "Mental Illness & End-of-Life Care的核心概念"
   - "Mental Illness & End-of-Life Care的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "breathwork"]
+trigger_keywords: ["Mental", "Illness", "End-of-Life", "Care", "精神疾病患者的临终关怀"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/cardiovascular/communication"
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Safety_Management.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-
+    relation: "临终/end-of-life/care"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-best-care-possible.md"
+    relation: "临终/care/best"
 ---
 # Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)
 

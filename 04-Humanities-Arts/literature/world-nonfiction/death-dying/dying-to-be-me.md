@@ -1,7 +1,6 @@
 ---
-
 title: "《死过一次才学会爱》Dying to Be Me"
-description: "《死过一次才学会爱》Dying to Be Me的详细解析与实践指南"
+description: "《死过一次才学会爱》Dying to Be Me —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["immune", "intervention", "phobia", "spirituality", "stress"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《死过一次才学会爱》Dying to Be Me"
   - "《死过一次才学会爱》Dying to Be Me的核心概念"
   - "《死过一次才学会爱》Dying to Be Me的方法与实践"
-trigger_keywords: ["body", "death", "immune", "intervention"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "anxiety/death/immune"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Health_Effects.md"
-    relation: "anxiety/death/immune"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/death/immune"
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "anxiety/art_therapy/death"
-
+trigger_keywords: ["immune", "intervention"]
+cross_refs: []
 ---
 # 《死过一次才学会爱》Dying to Be Me
 

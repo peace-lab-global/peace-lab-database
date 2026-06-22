@@ -1,7 +1,6 @@
 ---
-
 title: "clinical-conditions | 临床病症应用 Index"
-description: "clinical-conditions | 临床病症应用 Index的详细解析与实践指南"
+description: "clinical-conditions | 临床病症应用 Index —— 冥想 · Clinical Conditions 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions"
 tags: ["addiction", "anxiety", "cardiovascular", "depression", "gut", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是clinical-conditions | 临床病症应用 Index"
   - "clinical-conditions | 临床病症应用 Index的核心概念"
   - "clinical-conditions | 临床病症应用 Index的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "cardiovascular", "clinical"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "anxiety/cardiovascular/depression"
-
+trigger_keywords: ["cardiovascular", "clinical-conditions", "临床病症应用"]
+cross_refs: []
 ---
 # clinical-conditions | 临床病症应用 Index
 

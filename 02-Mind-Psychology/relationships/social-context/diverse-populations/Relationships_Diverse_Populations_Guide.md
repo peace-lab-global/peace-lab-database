@@ -1,7 +1,6 @@
 ---
-
 title: "多元化群体关系深度指南 (Relationships Diverse Populations Guide)"
-description: "多元化群体关系深度指南 (Relationships Diverse Populations Guide)的详细解析与实践指南"
+description: "多元化群体关系深度指南 (Relationships Diverse Populations Guide) —— 人际关系 · Diverse Populations 专题"
 category: "心智与心理学 > 人际关系 > Diverse Populations"
 tags: ["anxiety", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是多元化群体关系深度指南"
   - "多元化群体关系深度指南的核心概念"
   - "多元化群体关系深度指南的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "child"]
+trigger_keywords: ["多元化群体关系深度指南", "Relationships", "Diverse", "Populations", "Guide"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/ffe/style"
 ---
 # 多元化群体关系深度指南 (Relationships Diverse Populations Guide)
 

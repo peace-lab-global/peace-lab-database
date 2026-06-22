@@ -1,7 +1,6 @@
 ---
-
 title: "孔子 (Confucius)"
-description: "孔子 (Confucius)的详细解析与实践指南"
+description: "孔子 (Confucius) —— China · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Confucianism"
 tags: ["healing", "personality", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孔子"
   - "孔子的核心概念"
   - "孔子的方法与实践"
-trigger_keywords: ["孔子", "behavioral", "cognitive", "developmental", "emotion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["孔子", "Confucius"]
+cross_refs: []
 ---
 # 孔子 (Confucius)
 

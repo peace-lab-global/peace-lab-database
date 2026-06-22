@@ -1,7 +1,6 @@
 ---
-
 title: "预防与日常护理 (Prevention & Daily Care)"
-description: "预防与日常护理 (Prevention & Daily Care)的详细解析与实践指南"
+description: "预防与日常护理 (Prevention & Daily Care) —— 生物学 · Neck Pain Acute 专题"
 category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
 tags: ["brain", "exercise", "habits", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是预防与日常护理"
   - "预防与日常护理的核心概念"
   - "预防与日常护理的方法与实践"
-trigger_keywords: ["预防与日常护理", "assessment", "behavioral", "body", "brain"]
+trigger_keywords: ["预防与日常护理", "Prevention", "Daily", "Care"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "emotion/exercise/immune"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Sleep_Anxiety.md"
+    relation: "睡眠/习惯/运动"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
+    relation: "睡眠/压力"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Diary_Analysis_Skill.md"
+    relation: "睡眠/压力"
+  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+    relation: "睡眠/运动/压力"
 ---
 # 预防与日常护理 (Prevention & Daily Care)
 

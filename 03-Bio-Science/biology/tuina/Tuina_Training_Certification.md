@@ -1,7 +1,6 @@
 ---
-
 title: "中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)"
-description: "中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)的详细解析与实践指南"
+description: "中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是中医推拿技术培训与认证体系"
   - "中医推拿技术培训与认证体系的核心概念"
   - "中医推拿技术培训与认证体系的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "child", "clinical"]
+trigger_keywords: ["中医推拿技术培训与认证体系", "Tuina", "Massage", "Training", "Certification"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/asana-library/seated-poses.md"
-    relation: "communication/exercise/pain"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/exercise/pain"
-
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Training_Certification.md"
+    relation: "certification/training/level"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/Faculty_Training_Development_System.md"
+    relation: "training/certification/system"
 ---
 # 中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)
 

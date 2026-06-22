@@ -1,7 +1,6 @@
 ---
-
 title: "给管理者看的：如何避免自己变成情绪化上级 (How Managers Avoid Becoming Emotionally Volatile Leaders)"
-description: "给管理者看的：如何避免自己变成情绪化上级 (How Managers Avoid Becoming Emotionally Volatile Leaders)的详细解析与实践指南"
+description: "给管理者看的：如何避免自己变成情绪化上级 (How Managers Avoid Becoming Emotionally Volatile Leaders) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "personality", "phobia", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是给管理者看的：如何避免自己变成情绪化上级"
   - "给管理者看的：如何避免自己变成情绪化上级的核心概念"
   - "给管理者看的：如何避免自己变成情绪化上级的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "communication", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["给管理者看的：如何避免自己变成情绪化上级", "How", "Managers", "Avoid", "Becoming"]
+cross_refs: []
 ---
 # 给管理者看的：如何避免自己变成情绪化上级 (How Managers Avoid Becoming Emotionally Volatile Leaders)
 

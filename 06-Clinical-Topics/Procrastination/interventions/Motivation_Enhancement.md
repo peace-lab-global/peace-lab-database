@@ -1,7 +1,6 @@
 ---
-
 title: "动机激发"
-description: "动机激发的详细解析与实践指南"
+description: "动机激发 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["social", "writing", "心理学", "行为心理"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是动机激发"
   - "动机激发的核心概念"
   - "动机激发的方法与实践"
-trigger_keywords: ["动机激发", "developmental", "sexuality", "social", "writing"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["动机激发", "social", "writing"]
+cross_refs: []
 ---
 # 动机激发
 

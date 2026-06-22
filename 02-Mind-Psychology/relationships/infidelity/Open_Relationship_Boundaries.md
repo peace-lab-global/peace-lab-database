@@ -1,7 +1,6 @@
 ---
-
 title: "开放式关系与出轨边界 (Open Relationship Boundaries & Infidelity)"
-description: "开放式关系与出轨边界 (Open Relationship Boundaries & Infidelity)的详细解析与实践指南"
+description: "开放式关系与出轨边界 (Open Relationship Boundaries & Infidelity) —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["anxiety", "attachment", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是开放式关系与出轨边界"
   - "开放式关系与出轨边界的核心概念"
   - "开放式关系与出轨边界的方法与实践"
-trigger_keywords: ["开放式关系与出轨边界", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "attachment/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["开放式关系与出轨边界", "Open", "Relationship", "Boundaries", "Infidelity"]
+cross_refs: []
 ---
 # 开放式关系与出轨边界 (Open Relationship Boundaries & Infidelity)
 

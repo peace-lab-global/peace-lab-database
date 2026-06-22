@@ -1,7 +1,6 @@
 ---
-
 title: "电影中心 (Cinema Center)"
-description: "电影中心 (Cinema Center)的详细解析与实践指南"
+description: "电影中心 (Cinema Center) —— 媒体 · 电影 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影"
 tags: ["addiction", "cbt", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是电影中心"
   - "电影中心的核心概念"
   - "电影中心的方法与实践"
-trigger_keywords: ["电影中心", "act", "addiction", "art", "behavioral"]
+trigger_keywords: ["电影中心", "Cinema", "Center"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/neuroscience/therapy"
-
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/INDEX.md"
+    relation: "lab/peace"
 ---
 # 电影中心 (Cinema Center)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "procrastination | Index"
-description: "procrastination | Index的详细解析与实践指南"
+description: "procrastination | Index —— 个人发展 · 拖延心理 专题"
 category: "实践与个人增长 > 个人发展 > 拖延心理"
 tags: ["depression", "intervention", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是procrastination | Index"
   - "procrastination | Index的核心概念"
   - "procrastination | Index的方法与实践"
-trigger_keywords: ["Index", "act", "anxiety", "cognitive", "depression"]
+trigger_keywords: ["depression", "procrastination"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Psychology_of_Procrastination.md"
+    relation: "拖延/procrastination/情绪调节"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Procrastination_Assessment_Skill.md"
+    relation: "拖延/procrastination"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Cognitive_Restructuring.md"
+    relation: "拖延/认知重构"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Perfectionism_Procrastination.md"
+    relation: "拖延/认知重构"
 ---
 # procrastination | Index
 

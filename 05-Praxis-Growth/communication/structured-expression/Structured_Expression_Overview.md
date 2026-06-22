@@ -1,7 +1,6 @@
 ---
-
 title: "结构化表达核心方法论"
-description: "结构化表达核心方法论的详细解析与实践指南"
+description: "结构化表达核心方法论 —— 沟通 · Structured Expression 专题"
 category: "实践与个人增长 > 沟通 > Structured Expression"
 tags: ["communication", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是结构化表达核心方法论"
   - "结构化表达核心方法论的核心概念"
   - "结构化表达核心方法论的方法与实践"
-trigger_keywords: ["结构化表达核心方法论", "act", "aging", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "aging/communication/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/neuroscience"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/communication/neuroscience"
-  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
-    relation: "aging/communication/neuroscience"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/communication/neuroscience"
-
+trigger_keywords: ["结构化表达核心方法论"]
+cross_refs: []
 ---
 # 结构化表达核心方法论
 

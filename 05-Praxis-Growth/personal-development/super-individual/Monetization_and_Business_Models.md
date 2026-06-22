@@ -1,6 +1,6 @@
 ---
 title: "个人商业模式与变现策略 | Personal Business Models & Monetization"
-description: "个人商业模式与变现策略 | Personal Business Models & Monetization的详细解析与实践指南"
+description: "个人商业模式与变现策略 | Personal Business Models & Monetization —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["个人发展", "超级个体"]
 last_updated: "2026-05"

@@ -1,7 +1,6 @@
 ---
-
 title: "认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)"
-description: "认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)的详细解析与实践指南"
+description: "认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy) —— 疗法 · Cbasp Therapy 专题"
 category: "心智与心理学 > 疗法 > Cbasp Therapy"
 tags: ["anxiety", "cbt", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "认知行为分析系统心理治疗的核心概念"
   - "认知行为分析系统心理治疗的方法与实践"
   - "认知行为分析系统心理治疗的循证证据"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/spa/SPA_Overview.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["认知行为分析系统心理治疗", "CBASP:", "Cognitive", "Behavioral", "Analysis"]
+cross_refs: []
 ---
 # 认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)
 

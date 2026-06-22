@@ -1,7 +1,6 @@
 ---
-
 title: "职场倦怠 (Occupational Burnout) | Index"
-description: "职场倦怠 (Occupational Burnout) | Index的详细解析与实践指南"
+description: "职场倦怠 (Occupational Burnout) | Index —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "cortisol", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职场倦怠  | Index"
   - "职场倦怠  | Index的核心概念"
   - "职场倦怠  | Index的方法与实践"
-trigger_keywords: ["职场倦怠", "Index", "act", "anxiety", "assessment", "clinical"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/meditation"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["职场倦怠", "Occupational", "Burnout"]
+cross_refs: []
 ---
 # 职场倦怠 (Occupational Burnout) | Index
 

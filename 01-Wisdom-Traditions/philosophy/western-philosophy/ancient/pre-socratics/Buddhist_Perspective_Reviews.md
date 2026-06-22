@@ -1,7 +1,6 @@
 ---
-
 title: "前苏格拉底哲学 · 佛法视角三方书评"
-description: "前苏格拉底哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "前苏格拉底哲学 · 佛法视角三方书评 —— Ancient · Pre Socratics 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Pre Socratics"
 tags: ["buddhism", "philosophy", "zen", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是前苏格拉底哲学 · 佛法视角三方书评"
   - "前苏格拉底哲学 · 佛法视角三方书评的核心概念"
   - "前苏格拉底哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["前苏格拉底哲学", "佛法视角三方书评", "body", "buddhism", "philosophy", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["前苏格拉底哲学", "佛法视角三方书评"]
+cross_refs: []
 ---
 # 前苏格拉底哲学 · 佛法视角三方书评
 

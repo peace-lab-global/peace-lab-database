@@ -1,7 +1,6 @@
 ---
-
 title: "Core Meditation (冥想核心：基础与技巧)"
-description: "Core Meditation (冥想核心：基础与技巧)的详细解析与实践指南"
+description: "Core Meditation (冥想核心：基础与技巧) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "mbsr", "mindfulness", "cbt", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Core Meditation"
   - "Core Meditation的核心概念"
   - "Core Meditation的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["Core", "Meditation", "冥想核心：基础与技巧"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/waking-up.md"
+    relation: "waking/冥想/harris"
 ---
 # Core Meditation (冥想核心：基础与技巧)
 

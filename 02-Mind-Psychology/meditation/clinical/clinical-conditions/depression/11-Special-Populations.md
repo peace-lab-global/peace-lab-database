@@ -1,7 +1,6 @@
 ---
-
 title: "Special Populations"
-description: "Special Populations的详细解析与实践指南"
+description: "Special Populations —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Special Populations"
   - "Special Populations的核心概念"
   - "Special Populations的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/depression"
-  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["Special", "Populations"]
+cross_refs: []
 ---
 ## 11. 特定人群抑郁正念干预指南
 

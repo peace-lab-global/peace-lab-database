@@ -1,7 +1,6 @@
 ---
-
 title: "Mate Selection & Attraction (择偶心理学与吸引力)"
-description: "Mate Selection & Attraction (择偶心理学与吸引力)的详细解析与实践指南"
+description: "Mate Selection & Attraction (择偶心理学与吸引力) —— 人际关系 · Love 专题"
 category: "心智与心理学 > 人际关系 > Love"
 tags: ["anxiety", "decision-making", "immune", "personality", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mate Selection & Attraction"
   - "Mate Selection & Attraction的核心概念"
   - "Mate Selection & Attraction的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "communication"]
-cross_refs:
-  - path: "03-Bio-Science/biology/std/STD_Special_Populations.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Fertility_Pregnancy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Mate", "Selection", "Attraction", "择偶心理学与吸引力"]
+cross_refs: []
 ---
 # Mate Selection & Attraction (择偶心理学与吸引力)
 

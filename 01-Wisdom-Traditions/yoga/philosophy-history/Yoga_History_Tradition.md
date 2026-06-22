@@ -1,7 +1,6 @@
 ---
-
 title: "History & Lineage (瑜伽历史与传统传承)"
-description: "History & Lineage (瑜伽历史与传统传承)的详细解析与实践指南"
+description: "History & Lineage (瑜伽历史与传统传承) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["buddhism", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是History & Lineage"
   - "History & Lineage的核心概念"
   - "History & Lineage的方法与实践"
-trigger_keywords: ["act", "body", "breathwork", "buddhism"]
+trigger_keywords: ["History", "Lineage", "瑜伽历史与传统传承"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_History_Lineage.md"
+    relation: "lineage/tradition/guru"
 ---
 # History & Lineage (瑜伽历史与传统传承)
 

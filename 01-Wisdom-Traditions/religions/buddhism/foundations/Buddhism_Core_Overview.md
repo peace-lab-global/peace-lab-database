@@ -1,7 +1,6 @@
 ---
-
 title: "佛教基础概论 (Buddhism Core Overview)"
-description: "佛教基础概论 (Buddhism Core Overview)的详细解析与实践指南"
+description: "佛教基础概论 (Buddhism Core Overview) —— 佛教 · 心理学基础 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 心理学基础"
 tags: ["addiction", "attachment", "meditation", "philosophy", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是佛教基础概论"
   - "佛教基础概论的核心概念"
   - "佛教基础概论的方法与实践"
-trigger_keywords: ["佛教基础概论", "act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["佛教基础概论", "Buddhism", "Core", "Overview"]
+cross_refs: []
 ---
 # 佛教基础概论 (Buddhism Core Overview)
 

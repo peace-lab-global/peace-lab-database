@@ -1,7 +1,6 @@
 ---
-
 title: "医疗转诊指南 (Medical Referral Guide)"
-description: "医疗转诊指南 (Medical Referral Guide)的详细解析与实践指南"
+description: "医疗转诊指南 (Medical Referral Guide) —— 生物学 · Neck Pain Acute 专题"
 category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
 tags: ["brain", "exercise", "gut", "habits", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是医疗转诊指南"
   - "医疗转诊指南的核心概念"
   - "医疗转诊指南的方法与实践"
-trigger_keywords: ["医疗转诊指南", "act", "assessment", "brain", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "cardiovascular/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "cardiovascular/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/immune/neuroscience"
-
+trigger_keywords: ["医疗转诊指南", "Medical", "Referral", "Guide"]
+cross_refs: []
 ---
 # 医疗转诊指南 (Medical Referral Guide)
 

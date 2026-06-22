@@ -1,7 +1,6 @@
 ---
-
 title: "Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)"
-description: "Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)的详细解析与实践指南"
+description: "Masturbation and Intimate Relationships (自慰与亲密关系的相互影响) —— 人际关系 · Masturbation Relationships 专题"
 category: "心智与心理学 > 人际关系 > Masturbation Relationships"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Masturbation and Intimate Relationships"
   - "Masturbation and Intimate Relationships的核心概念"
   - "Masturbation and Intimate Relationships的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Masturbation", "and", "Intimate", "Relationships", "自慰与亲密关系的相互影响"]
+cross_refs: []
 ---
 # Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦《波兰舞曲》综合指南"
-description: "肖邦《波兰舞曲》综合指南的详细解析与实践指南"
+description: "肖邦《波兰舞曲》综合指南 —— 古典音乐 · Chopin Polonaises 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Chopin Polonaises"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是肖邦《波兰舞曲》综合指南"
   - "肖邦《波兰舞曲》综合指南的核心概念"
   - "肖邦《波兰舞曲》综合指南的方法与实践"
-trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["肖邦《波兰舞曲》综合指南"]
+cross_refs: []
 ---
 # 肖邦《波兰舞曲》综合指南
 

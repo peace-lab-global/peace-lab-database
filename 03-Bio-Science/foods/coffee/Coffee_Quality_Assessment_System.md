@@ -1,7 +1,6 @@
 ---
-
 title: "咖啡相关内容质量评估体系 (Coffee Content Quality Assessment System)"
-description: "咖啡相关内容质量评估体系 (Coffee Content Quality Assessment System)的详细解析与实践指南"
+description: "咖啡相关内容质量评估体系 (Coffee Content Quality Assessment System) —— 营养学 · Coffee 专题"
 category: "生命科学与生物医学 > 营养学 > Coffee"
 tags: ["addiction", "neuroscience", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是咖啡相关内容质量评估体系"
   - "咖啡相关内容质量评估体系的核心概念"
   - "咖啡相关内容质量评估体系的方法与实践"
-trigger_keywords: ["act", "addiction", "assessment", "behavioral"]
+trigger_keywords: ["咖啡相关内容质量评估体系", "Coffee", "Content", "Quality", "Assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Moxibustion_Safety_Guidelines.md"
-    relation: "communication/neuroscience/nutrition"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/Quality_Assessment_System.md"
+    relation: "quality/certification/mechanism"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "completeness/quality/assessment"
 ---
 # 咖啡相关内容质量评估体系 (Coffee Content Quality Assessment System)
 

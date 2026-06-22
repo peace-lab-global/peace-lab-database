@@ -1,7 +1,6 @@
 ---
-
 title: "超人类主义 | Transhumanism"
-description: "超人类主义 | Transhumanism的详细解析与实践指南"
+description: "超人类主义 | Transhumanism —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "longevity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是超人类主义 | Transhumanism"
   - "超人类主义 | Transhumanism的核心概念"
   - "超人类主义 | Transhumanism的方法与实践"
-trigger_keywords: ["超人类主义", "aging", "body", "brain", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/communication/exercise"
-
+trigger_keywords: ["超人类主义", "Transhumanism"]
+cross_refs: []
 ---
 # 超人类主义 | Transhumanism
 

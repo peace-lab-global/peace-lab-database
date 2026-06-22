@@ -1,7 +1,6 @@
 ---
-
 title: "《相约星期二》Tuesdays with Morrie"
-description: "《相约星期二》Tuesdays with Morrie的详细解析与实践指南"
+description: "《相约星期二》Tuesdays with Morrie —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["cinema", "literature", "marriage", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《相约星期二》Tuesdays with Morrie"
   - "《相约星期二》Tuesdays with Morrie的核心概念"
   - "《相约星期二》Tuesdays with Morrie的方法与实践"
-trigger_keywords: ["aging", "behavioral", "cinema", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["cinema", "《相约星期二》Tuesdays", "with", "Morrie"]
+cross_refs: []
 ---
 # 《相约星期二》Tuesdays with Morrie
 

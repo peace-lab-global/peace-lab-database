@@ -1,7 +1,6 @@
 ---
-
 title: "专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)"
-description: "专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)的详细解析与实践指南"
+description: "专注力临床应用与治疗 (Focus: Clinical Applications & Treatment) —— 个人发展 · Focus 专题"
 category: "实践与个人增长 > 个人发展 > Focus"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "专注力临床应用与治疗的核心概念"
   - "专注力临床应用与治疗的方法与实践"
   - "专注力临床应用与治疗的循证证据"
-trigger_keywords: ["专注力临床应用与治疗", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["专注力临床应用与治疗", "Focus:", "Clinical", "Applications", "Treatment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_ADHD_Therapy.md"
+    relation: "adhd/专注/认知行为"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/INDEX.md"
+    relation: "focus/adhd/contents"
 ---
 # 专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)
 

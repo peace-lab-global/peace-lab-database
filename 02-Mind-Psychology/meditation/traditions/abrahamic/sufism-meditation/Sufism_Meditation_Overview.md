@@ -1,7 +1,6 @@
 ---
-
 title: "苏菲冥想/神秘主义专业概述"
-description: "苏菲冥想/神秘主义专业概述的详细解析与实践指南"
+description: "苏菲冥想/神秘主义专业概述 —— 冥想 · Sufism Meditation 专题"
 category: "心智与心理学 > 冥想 > Sufism Meditation"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是苏菲冥想/神秘主义专业概述"
   - "苏菲冥想/神秘主义专业概述的核心概念"
   - "苏菲冥想/神秘主义专业概述的方法与实践"
-trigger_keywords: ["苏菲冥想", "神秘主义专业概述", "act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/cardiovascular/exercise"
-
+trigger_keywords: ["苏菲冥想", "神秘主义专业概述"]
+cross_refs: []
 ---
 # 苏菲冥想/神秘主义专业概述
 

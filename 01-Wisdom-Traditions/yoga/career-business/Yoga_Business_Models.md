@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽商业模式全景（Yoga Business Models）"
-description: "瑜伽商业模式全景（Yoga Business Models）的详细解析与实践指南"
+description: "瑜伽商业模式全景（Yoga Business Models） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["healing", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽商业模式全景（Yoga Business Models）"
   - "瑜伽商业模式全景（Yoga Business Models）的核心概念"
   - "瑜伽商业模式全景（Yoga Business Models）的方法与实践"
-trigger_keywords: ["act", "aging", "breathwork", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/emotion/exercise"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md"
-    relation: "aging/emotion/exercise"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "aging/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/exercise"
-
+trigger_keywords: ["瑜伽商业模式全景", "Yoga", "Business", "Models"]
+cross_refs: []
 ---
 # 瑜伽商业模式全景（Yoga Business Models）
 

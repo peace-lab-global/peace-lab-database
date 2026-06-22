@@ -1,6 +1,6 @@
 ---
 title: "focus | Index"
-description: "focus | Index的详细解析与实践指南"
+description: "focus | Index —— 个人发展 · Focus 专题"
 category: "实践与个人增长 > 个人发展 > Focus"
 tags: ["个人发展"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是focus | Index"
   - "focus | Index的核心概念"
   - "focus | Index的方法与实践"
-trigger_keywords: ["focus", "Index", "个人发展"]
-cross_refs: []
+trigger_keywords: ["focus", "个人发展"]
+cross_refs:
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/INDEX.md"
+    relation: "focus/contents"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/INDEX.md"
+    relation: "applications/clinical/contents"
 ---
 # focus | Index
 

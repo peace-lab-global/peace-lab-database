@@ -1,7 +1,6 @@
 ---
-
 title: "Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征"
-description: "Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征的详细解析与实践指南"
+description: "Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征"
   - "Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征的核心概念"
   - "Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "cinema"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["cinema", "Tom", "Hanks", "专业分析：美国国民好感度的银幕建构与文化象征"]
+cross_refs: []
 ---
 # Tom Hanks 专业分析：美国国民好感度的银幕建构与文化象征
 

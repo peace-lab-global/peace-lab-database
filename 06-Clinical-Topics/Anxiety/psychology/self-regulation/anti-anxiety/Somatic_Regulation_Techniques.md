@@ -1,7 +1,6 @@
 ---
-
 title: "身心调节技术"
-description: "身心调节技术的详细解析与实践指南"
+description: "身心调节技术 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "neuroscience", "pain", "stress", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是身心调节技术"
   - "身心调节技术的核心概念"
   - "身心调节技术的方法与实践"
-trigger_keywords: ["身心调节技术", "anxiety", "body", "breathwork", "neuroscience"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["身心调节技术", "neuroscience"]
+cross_refs: []
 ---
 # 身心调节技术
 

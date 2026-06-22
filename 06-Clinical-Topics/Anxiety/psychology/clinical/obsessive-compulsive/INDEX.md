@@ -1,6 +1,6 @@
 ---
 title: "obsessive-compulsive | Index"
-description: "obsessive-compulsive | Index的详细解析与实践指南"
+description: "obsessive-compulsive | Index —— 临床心理 · Obsessive Compulsive 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Obsessive Compulsive"
 tags: ["临床心理", "心理学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是obsessive-compulsive | Index"
   - "obsessive-compulsive | Index的核心概念"
   - "obsessive-compulsive | Index的方法与实践"
-trigger_keywords: ["Index", "临床心理", "心理学"]
+trigger_keywords: ["临床心理", "心理学"]
 cross_refs: []
 ---
 # obsessive-compulsive | Index

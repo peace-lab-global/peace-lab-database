@@ -1,7 +1,6 @@
 ---
-
 title: "Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言"
-description: "Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言的详细解析与实践指南"
+description: "Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言"
   - "Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言的核心概念"
   - "Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["Lupita", "Nyong'o", "专业分析：非裔女演员的国际突破与文化代言"]
+cross_refs: []
 ---
 # Lupita Nyong'o 专业分析：非裔女演员的国际突破与文化代言
 

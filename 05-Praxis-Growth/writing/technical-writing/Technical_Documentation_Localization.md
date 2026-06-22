@@ -1,7 +1,6 @@
 ---
-
 title: "技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης"
-description: "技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης的详细解析与实践指南"
+description: "技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["communication", "habits", "intervention", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης"
   - "技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης的核心概念"
   - "技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης的方法与实践"
-trigger_keywords: ["技术文档本地化", "assessment", "buddhism", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "buddhism/communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "buddhism/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
-    relation: "buddhism/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "buddhism/communication/productivity"
-
+trigger_keywords: ["技术文档本地化", "Technical", "Documentation", "Localization", "Τοπικοποίηση"]
+cross_refs: []
 ---
 # 技术文档本地化 | Technical Documentation Localization | Τοπικοποίηση Τεχνικής Τεκμηρίωσης
 

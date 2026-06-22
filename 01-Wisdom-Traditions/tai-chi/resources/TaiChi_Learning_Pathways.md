@@ -13,10 +13,8 @@ intent_queries:
   - "太极学习阶段"
 trigger_keywords: ["路线图", "学习", "阶段", "里程碑", "入门"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/resources/TaiChi_Books_Media_Resources.md"
-    relation: "resources"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "overview"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 学习路线图 | Tai Chi Learning Pathways
 

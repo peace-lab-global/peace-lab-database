@@ -1,7 +1,6 @@
 ---
-
 title: "Interdisciplinary (学理：跨学科洞察)"
-description: "Interdisciplinary (学理：跨学科洞察)的详细解析与实践指南"
+description: "Interdisciplinary (学理：跨学科洞察) —— 心理学基础 · Framework 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
 tags: ["brain", "cbt", "gut", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Interdisciplinary"
   - "Interdisciplinary的核心概念"
   - "Interdisciplinary的方法与实践"
-trigger_keywords: ["art", "behavioral", "brain", "cbt"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "emotion/exercise/immune"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "communication/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["cbt", "Interdisciplinary", "学理：跨学科洞察"]
+cross_refs: []
 ---
 # Interdisciplinary (学理：跨学科洞察)
 

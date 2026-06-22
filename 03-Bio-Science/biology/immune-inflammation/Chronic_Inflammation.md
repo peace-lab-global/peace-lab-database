@@ -1,7 +1,6 @@
 ---
-
 title: "慢性炎症 (Chronic Inflammation)"
-description: "慢性炎症 (Chronic Inflammation)的详细解析与实践指南"
+description: "慢性炎症 (Chronic Inflammation) —— 生物学 · 免疫与炎症 专题"
 category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
 tags: ["aging", "brain", "cardiovascular", "cortisol", "inflammation", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是慢性炎症"
   - "慢性炎症的核心概念"
   - "慢性炎症的方法与实践"
-trigger_keywords: ["慢性炎症", "act", "aging", "assessment", "behavioral"]
+trigger_keywords: ["慢性炎症", "Chronic", "Inflammation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/exercise/immune"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/cardiovascular/exercise"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Etiology_Mechanisms.md"
+    relation: "炎症/inflammation/immune"
 ---
 # 慢性炎症 (Chronic Inflammation)
 

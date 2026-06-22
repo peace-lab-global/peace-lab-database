@@ -1,7 +1,6 @@
 ---
-
 title: "TED教育与学习精选 | TED Education & Learning Collection"
-description: "TED教育与学习精选 | TED Education & Learning Collection的详细解析与实践指南"
+description: "TED教育与学习精选 | TED Education & Learning Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["social", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED教育与学习精选 | TED Education & Learning Collection"
   - "TED教育与学习精选 | TED Education & Learning Collection的核心概念"
   - "TED教育与学习精选 | TED Education & Learning Collection的方法与实践"
-trigger_keywords: ["TED教育与学习精选", "developmental", "psychology", "sexuality", "social"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality"
-
+trigger_keywords: ["TED教育与学习精选", "social"]
+cross_refs: []
 ---
 # TED教育与学习精选 | TED Education & Learning Collection
 

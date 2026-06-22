@@ -1,7 +1,6 @@
 ---
-
 title: "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析"
-description: "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析的详细解析与实践指南"
+description: "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析 —— Mozart Piano Concertos · No21 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart Piano Concertos > No21"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析的核心概念"
   - "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析的方法与实践"
   - "莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "认知行为/抑郁/障碍"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/障碍"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "认知行为/障碍/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "焦虑/认知行为/障碍"
 ---
 # 莫扎特《第21号钢琴协奏曲》心理学与疗愈功能分析
 

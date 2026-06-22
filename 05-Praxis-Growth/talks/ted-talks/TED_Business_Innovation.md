@@ -1,7 +1,6 @@
 ---
-
 title: "TED商业与创新精选 | TED Business & Innovation Collection"
-description: "TED商业与创新精选 | TED Business & Innovation Collection的详细解析与实践指南"
+description: "TED商业与创新精选 | TED Business & Innovation Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["leadership", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED商业与创新精选 | TED Business & Innovation Collection"
   - "TED商业与创新精选 | TED Business & Innovation Collection的核心概念"
   - "TED商业与创新精选 | TED Business & Innovation Collection的方法与实践"
-trigger_keywords: ["TED商业与创新精选", "act", "body", "developmental", "leadership"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/therapy"
-
+trigger_keywords: ["TED商业与创新精选", "leadership"]
+cross_refs: []
 ---
 # TED商业与创新精选 | TED Business & Innovation Collection
 

@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)"
-description: "芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)的详细解析与实践指南"
+description: "芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy) —— 芭蕾 · Rehabilitation Therapy 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Rehabilitation Therapy"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "芭蕾舞康复治疗专题的核心概念"
   - "芭蕾舞康复治疗专题的方法与实践"
   - "芭蕾舞康复治疗专题的循证证据"
-trigger_keywords: ["芭蕾舞康复治疗专题", "aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["芭蕾舞康复治疗专题", "Ballet", "Rehabilitation", "Therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Ballet_Dancer_Fetishism.md"
+    relation: "芭蕾/ballet/therapy"
 ---
 # 芭蕾舞康复治疗专题 (Ballet Rehabilitation Therapy)
 

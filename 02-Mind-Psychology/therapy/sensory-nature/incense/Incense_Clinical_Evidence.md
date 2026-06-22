@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法临床证据 (Clinical Evidence)"
-description: "檀香疗法临床证据 (Clinical Evidence)的详细解析与实践指南"
+description: "檀香疗法临床证据 (Clinical Evidence) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "brain", "depression", "inflammation", "neuroscience"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法临床证据的核心概念"
   - "檀香疗法临床证据的方法与实践"
   - "檀香疗法临床证据的循证证据"
-trigger_keywords: ["檀香疗法临床证据", "anxiety", "assessment", "brain", "clinical"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/practice-technique/Yoga_Shatkarma_Cleansing.md"
-    relation: "anxiety/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["檀香疗法临床证据", "Clinical", "Evidence"]
+cross_refs: []
 ---
 # 檀香疗法临床证据 (Clinical Evidence)
 

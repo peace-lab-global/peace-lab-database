@@ -1,7 +1,6 @@
 ---
-
 title: "黄帝内经总论 | Neijing Comprehensive Overview"
-description: "黄帝内经总论 | Neijing Comprehensive Overview的详细解析与实践指南"
+description: "黄帝内经总论 | Neijing Comprehensive Overview —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: ["daoism", "gut", "nutrition", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是黄帝内经总论 | Neijing Comprehensive Overview"
   - "黄帝内经总论 | Neijing Comprehensive Overview的核心概念"
   - "黄帝内经总论 | Neijing Comprehensive Overview的方法与实践"
-trigger_keywords: ["黄帝内经总论", "act", "clinical", "daoism", "developmental"]
+trigger_keywords: ["黄帝内经总论", "daoism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "daoism/exercise/nutrition"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
-    relation: "daoism/exercise/nutrition"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "daoism/exercise/nutrition"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "daoism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/exercise/nutrition"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "黄帝内经/neijing/huangdi"
 ---
 # 黄帝内经总论 | Neijing Comprehensive Overview
 

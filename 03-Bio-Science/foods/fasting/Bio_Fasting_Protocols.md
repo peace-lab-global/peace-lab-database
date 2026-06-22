@@ -1,7 +1,6 @@
 ---
-
 title: "Fasting Protocols & Practical Guidelines (断食协议与实务操作)"
-description: "Fasting Protocols & Practical Guidelines (断食协议与实务操作)的详细解析与实践指南"
+description: "Fasting Protocols & Practical Guidelines (断食协议与实务操作) —— 营养学 · 断食 专题"
 category: "生命科学与生物医学 > 营养学 > 断食"
 tags: ["fasting", "gut", "immune", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Fasting Protocols & Practical Guidelines"
   - "Fasting Protocols & Practical Guidelines的核心概念"
   - "Fasting Protocols & Practical Guidelines的方法与实践"
-trigger_keywords: ["act", "body", "clinical", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "emotion/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/emotion/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/02-Neurobiology-and-Stress.md"
-    relation: "cardiovascular/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/emotion/immune"
-
+trigger_keywords: ["Fasting", "Protocols", "Practical", "Guidelines", "断食协议与实务操作"]
+cross_refs: []
 ---
 # Fasting Protocols & Practical Guidelines (断食协议与实务操作)
 

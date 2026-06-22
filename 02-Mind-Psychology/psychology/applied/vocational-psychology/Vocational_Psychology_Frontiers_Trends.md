@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学前沿发展与未来趋势 (Vocational Psychology Frontiers & Future Trends)"
-description: "职业心理学前沿发展与未来趋势 (Vocational Psychology Frontiers & Future Trends)的详细解析与实践指南"
+description: "职业心理学前沿发展与未来趋势 (Vocational Psychology Frontiers & Future Trends) —— 应用心理学 · Vocational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
 tags: ["anxiety", "brain", "cortisol", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "职业心理学前沿发展与未来趋势的核心概念"
   - "职业心理学前沿发展与未来趋势的方法与实践"
   - "职业心理学前沿发展与未来趋势的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["职业心理学前沿发展与未来趋势", "Vocational", "Psychology", "Frontiers", "Future"]
 cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Mental_Health.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Future_Trends_Strategic_Planning.md"
+    relation: "future/areas/trends"
 ---
 # 职业心理学前沿发展与未来趋势 (Vocational Psychology Frontiers & Future Trends)
 

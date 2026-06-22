@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学案例研究与实践指南 (Vocational Psychology Case Studies & Practice Guide)"
-description: "职业心理学案例研究与实践指南 (Vocational Psychology Case Studies & Practice Guide)的详细解析与实践指南"
+description: "职业心理学案例研究与实践指南 (Vocational Psychology Case Studies & Practice Guide) —— 应用心理学 · Vocational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "职业心理学案例研究与实践指南的核心概念"
   - "职业心理学案例研究与实践指南的方法与实践"
   - "职业心理学案例研究与实践指南的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["职业心理学案例研究与实践指南", "Vocational", "Psychology", "Case", "Studies"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/exercise/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
-    relation: "anxiety/exercise/personality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/exercise/personality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/exercise/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "anxiety/exercise/personality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Case_Studies.md"
+    relation: "case/studies/typical"
 ---
 # 职业心理学案例研究与实践指南 (Vocational Psychology Case Studies & Practice Guide)
 

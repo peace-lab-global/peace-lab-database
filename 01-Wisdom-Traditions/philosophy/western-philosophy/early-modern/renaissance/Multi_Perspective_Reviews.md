@@ -1,7 +1,6 @@
 ---
-
 title: "文艺复兴哲学经典三方书评"
-description: "文艺复兴哲学经典三方书评的详细解析与实践指南"
+description: "文艺复兴哲学经典三方书评 —— Early Modern · 文艺复兴 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
 tags: ["loneliness", "philosophy", "religion", "self-confidence", "social", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文艺复兴哲学经典三方书评"
   - "文艺复兴哲学经典三方书评的核心概念"
   - "文艺复兴哲学经典三方书评的方法与实践"
-trigger_keywords: ["literature", "loneliness", "philosophy", "religion"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/sexuality"
-
+trigger_keywords: ["loneliness", "religion"]
+cross_refs: []
 ---
 # 文艺复兴哲学经典三方书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《禅门锻炼说》The Chan Whip Anthology"
-description: "《禅门锻炼说》The Chan Whip Anthology的详细解析与实践指南"
+description: "《禅门锻炼说》The Chan Whip Anthology —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["habits", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《禅门锻炼说》The Chan Whip Anthology"
   - "《禅门锻炼说》The Chan Whip Anthology的核心概念"
   - "《禅门锻炼说》The Chan Whip Anthology的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "crisis", "exercise"]
+trigger_keywords: ["exercise", "《禅门锻炼说》The", "Chan", "Whip", "Anthology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
+    relation: "禅宗/chan"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Bodhidharma.md"
+    relation: "禅宗/chan"
 ---
 # 《禅门锻炼说》The Chan Whip Anthology
 

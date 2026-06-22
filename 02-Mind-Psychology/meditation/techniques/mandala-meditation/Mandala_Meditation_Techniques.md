@@ -1,7 +1,6 @@
 ---
-
 title: "Mandala Meditation Techniques (坛城冥想技术详表)"
-description: "Mandala Meditation Techniques (坛城冥想技术详表)的详细解析与实践指南"
+description: "Mandala Meditation Techniques (坛城冥想技术详表) —— 冥想 · 坛城冥想 专题"
 category: "心智与心理学 > 冥想 > 坛城冥想"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Mandala Meditation Techniques"
   - "Mandala Meditation Techniques的核心概念"
   - "Mandala Meditation Techniques的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["Mandala", "Meditation", "Techniques", "坛城冥想技术详表"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "坛城/mandala/visualization"
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Vajrayana_Mudra_Mandala.md"
+    relation: "坛城/观想"
 ---
 # Mandala Meditation Techniques (坛城冥想技术详表)
 

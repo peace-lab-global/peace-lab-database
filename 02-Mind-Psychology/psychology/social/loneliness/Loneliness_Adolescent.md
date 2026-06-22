@@ -1,7 +1,6 @@
 ---
-
 title: "青少年孤独专题 | Adolescent Loneliness"
-description: "青少年孤独专题 | Adolescent Loneliness的详细解析与实践指南"
+description: "青少年孤独专题 | Adolescent Loneliness —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["addiction", "anxiety", "attachment", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是青少年孤独专题 | Adolescent Loneliness"
   - "青少年孤独专题 | Adolescent Loneliness的核心概念"
   - "青少年孤独专题 | Adolescent Loneliness的方法与实践"
-trigger_keywords: ["青少年孤独专题", "act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["青少年孤独专题", "Adolescent", "Loneliness"]
+cross_refs: []
 ---
 # 青少年孤独专题 | Adolescent Loneliness
 

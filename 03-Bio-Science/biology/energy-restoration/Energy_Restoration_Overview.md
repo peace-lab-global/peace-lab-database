@@ -1,7 +1,6 @@
 ---
-
 title: "恢复身心能量：科学方法与系统实践 (Energy Restoration: Scientific Methods & Systematic Practice)"
-description: "恢复身心能量：科学方法与系统实践 (Energy Restoration: Scientific Methods & Systematic Practice)的详细解析与实践指南"
+description: "恢复身心能量：科学方法与系统实践 (Energy Restoration: Scientific Methods & Systematic Practice) —— 生物学 · 能量恢复 专题"
 category: "生命科学与生物医学 > 生物学 > 能量恢复"
 tags: ["addiction", "aging", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是恢复身心能量：科学方法与系统实践"
   - "恢复身心能量：科学方法与系统实践的核心概念"
   - "恢复身心能量：科学方法与系统实践的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["恢复身心能量：科学方法与系统实践", "Energy", "Restoration:", "Scientific", "Methods"]
+cross_refs: []
 ---
 # 恢复身心能量：科学方法与系统实践 (Energy Restoration: Scientific Methods & Systematic Practice)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)"
-description: "Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)的详细解析与实践指南"
+description: "Silent Treatment in Intimate Relationships (亲密关系中的冷战现象) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["addiction", "anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Silent Treatment in Intimate Relationships"
   - "Silent Treatment in Intimate Relationships的核心概念"
   - "Silent Treatment in Intimate Relationships的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Silent", "Treatment", "in", "Intimate", "Relationships"]
+cross_refs: []
 ---
 # Silent Treatment in Intimate Relationships (亲密关系中的冷战现象)
 

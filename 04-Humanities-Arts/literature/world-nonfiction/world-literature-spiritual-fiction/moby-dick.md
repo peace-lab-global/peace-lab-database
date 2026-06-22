@@ -1,7 +1,6 @@
 ---
-
 title: "《白鲸》Moby-Dick"
-description: "《白鲸》Moby-Dick的详细解析与实践指南"
+description: "《白鲸》Moby-Dick —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《白鲸》Moby-Dick"
   - "《白鲸》Moby-Dick的核心概念"
   - "《白鲸》Moby-Dick的方法与实践"
-trigger_keywords: ["death", "literature", "philosophy", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "death/exercise/sexuality"
-
+trigger_keywords: ["religion", "《白鲸》Moby-Dick"]
+cross_refs: []
 ---
 # 《白鲸》Moby-Dick
 

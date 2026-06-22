@@ -1,7 +1,6 @@
 ---
-
 title: "韩国儒学经典三方书评"
-description: "韩国儒学经典三方书评的详细解析与实践指南"
+description: "韩国儒学经典三方书评 —— Korea · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
 tags: ["philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是韩国儒学经典三方书评"
   - "韩国儒学经典三方书评的核心概念"
   - "韩国儒学经典三方书评的方法与实践"
-trigger_keywords: ["韩国儒学经典三方书评", "developmental", "philosophy", "sexuality", "哲学"]
+trigger_keywords: ["韩国儒学经典三方书评", "哲学"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
     relation: "daoism/emotion/exercise"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "daoism/emotion/exercise"
   - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
     relation: "daoism/emotion/exercise"
-
 ---
 # 韩国儒学经典三方书评
 

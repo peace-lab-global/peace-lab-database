@@ -1,7 +1,6 @@
 ---
-
 title: "冥想修行黑夜现象 | The Dark Night of Meditation"
-description: "冥想修行黑夜现象 | The Dark Night of Meditation的详细解析与实践指南"
+description: "冥想修行黑夜现象 | The Dark Night of Meditation —— 冥想 · Safety 专题"
 category: "心智与心理学 > 冥想 > Safety"
 tags: ["anxiety", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想修行黑夜现象 | The Dark Night of Meditation"
   - "冥想修行黑夜现象 | The Dark Night of Meditation的核心概念"
   - "冥想修行黑夜现象 | The Dark Night of Meditation的方法与实践"
-trigger_keywords: ["冥想修行黑夜现象", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Mind_Transformation.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["冥想修行黑夜现象", "The", "Dark", "Night", "of"]
+cross_refs: []
 ---
 # 冥想修行黑夜现象 | The Dark Night of Meditation
 

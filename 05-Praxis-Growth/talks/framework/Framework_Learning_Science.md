@@ -1,7 +1,6 @@
 ---
-
 title: "学习科学 | Learning Science"
-description: "学习科学 | Learning Science的详细解析与实践指南"
+description: "学习科学 | Learning Science —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是学习科学 | Learning Science"
   - "学习科学 | Learning Science的核心概念"
   - "学习科学 | Learning Science的方法与实践"
-trigger_keywords: ["学习科学", "anxiety", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-5-QA-posture-of-meditation.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["学习科学", "Learning", "Science"]
+cross_refs: []
 ---
 # 学习科学 | Learning Science
 

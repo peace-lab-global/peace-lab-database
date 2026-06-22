@@ -1,7 +1,6 @@
 ---
-
 title: "疗愈花园设计 | Healing Garden Design"
-description: "疗愈花园设计 | Healing Garden Design的详细解析与实践指南"
+description: "疗愈花园设计 | Healing Garden Design —— 艺术 · 园艺疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是疗愈花园设计 | Healing Garden Design"
   - "疗愈花园设计 | Healing Garden Design的核心概念"
   - "疗愈花园设计 | Healing Garden Design的方法与实践"
-trigger_keywords: ["疗愈花园设计", "aging", "anxiety", "body", "child"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["疗愈花园设计", "Healing", "Garden", "Design"]
+cross_refs: []
 ---
 # 疗愈花园设计 | Healing Garden Design
 

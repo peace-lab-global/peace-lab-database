@@ -1,7 +1,6 @@
 ---
-
 title: "换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)"
-description: "换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)的详细解析与实践指南"
+description: "换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual) —— 性学 · Swinging 专题"
 category: "生命科学与生物医学 > 性学 > Swinging"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是换妻实践指导与风险管理手册"
   - "换妻实践指导与风险管理手册的核心概念"
   - "换妻实践指导与风险管理手册的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
+trigger_keywords: ["换妻实践指导与风险管理手册", "Swinging", "Practice", "Guide", "Risk"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/09-Organization-Integration.md"
-    relation: "communication/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "communication/emotion/sexuality"
-
+  - path: "02-Mind-Psychology/relationships/clinical-practice/clinical-guide/INDEX.md"
+    relation: "manual/practice"
 ---
 # 换妻实践指导与风险管理手册 (Swinging Practice Guide & Risk Management Manual)
 

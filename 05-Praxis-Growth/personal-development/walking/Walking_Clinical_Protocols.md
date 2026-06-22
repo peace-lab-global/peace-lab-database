@@ -1,7 +1,6 @@
 ---
-
 title: "步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)"
-description: "步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)的详细解析与实践指南"
+description: "步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines) —— 个人发展 · Walking 专题"
 category: "实践与个人增长 > 个人发展 > Walking"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是步行临床方案、疗效与剂量指南"
   - "步行临床方案、疗效与剂量指南的核心概念"
   - "步行临床方案、疗效与剂量指南的方法与实践"
-trigger_keywords: ["步行临床方案", "疗效与剂量指南", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["步行临床方案", "疗效与剂量指南"]
+cross_refs: []
 ---
 # 步行临床方案、疗效与剂量指南 (Walking Clinical Protocols, Efficacy & Dose Guidelines)
 

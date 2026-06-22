@@ -1,5 +1,4 @@
 ---
-
 title: "太极拳 | Tai Chi Index"
 description: "太极拳身心修炼体系全景导航 — 太极学院级知识库"
 category: "智慧传承 > 太极拳"
@@ -12,19 +11,12 @@ intent_queries:
   - "太极拳知识体系总览"
   - "太极拳学习资源导航"
   - "太极学院体系全览"
-trigger_keywords: ["太极拳", "太极学院", "tai-chi", "index", "导航"]
+trigger_keywords: ["太极拳", "太极学院", "tai-chi", "导航"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "cardiovascular/exercise/meditation"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "chi/tai/太极"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "chi/tai/太极"
 ---
 # 太极拳 | Tai Chi Index
 

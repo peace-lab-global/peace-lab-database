@@ -1,7 +1,6 @@
 ---
-
 title: "ACT实践指南 (ACT Practical Guide)"
-description: "ACT实践指南 (ACT Practical Guide)的详细解析与实践指南"
+description: "ACT实践指南 (ACT Practical Guide) —— 疗法 · 接纳承诺疗法 专题"
 category: "心智与心理学 > 疗法 > 接纳承诺疗法"
 tags: ["addiction", "anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是ACT实践指南"
   - "ACT实践指南的核心概念"
   - "ACT实践指南的方法与实践"
-trigger_keywords: ["ACT实践指南", "act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["ACT实践指南", "ACT", "Practical", "Guide"]
+cross_refs: []
 ---
 # ACT实践指南 (ACT Practical Guide)
 

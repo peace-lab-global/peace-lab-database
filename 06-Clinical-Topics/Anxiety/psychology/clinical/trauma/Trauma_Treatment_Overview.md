@@ -1,7 +1,6 @@
 ---
-
 title: "创伤治疗专项体系"
-description: "创伤治疗专项体系的详细解析与实践指南"
+description: "创伤治疗专项体系 —— 临床心理 · 创伤心理 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 创伤心理"
 tags: ["brain", "cbt", "emdr"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "创伤治疗专项体系的核心概念"
   - "创伤治疗专项体系的方法与实践"
   - "创伤治疗专项体系的循证证据"
-trigger_keywords: ["创伤治疗专项体系", "art", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "attachment/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "communication/emotion/exercise"
-  - path: "README.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["创伤治疗专项体系"]
+cross_refs: []
 ---
 # 创伤治疗专项体系
 

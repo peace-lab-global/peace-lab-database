@@ -1,7 +1,6 @@
 ---
-
 title: "Specific Types Treatment Interventions (性迷恋类型治疗实践)"
-description: "Specific Types Treatment Interventions (性迷恋类型治疗实践)的详细解析与实践指南"
+description: "Specific Types Treatment Interventions (性迷恋类型治疗实践) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["ballet", "cbt", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Specific Types Treatment Interventions"
   - "Specific Types Treatment Interventions的核心概念"
   - "Specific Types Treatment Interventions的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "ballet"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+trigger_keywords: ["ballet", "Specific", "Types", "Treatment", "Interventions"]
+cross_refs: []
 ---
 # Specific Types Treatment Interventions (性迷恋类型治疗实践)
 

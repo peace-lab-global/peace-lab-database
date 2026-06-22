@@ -1,7 +1,6 @@
 ---
-
 title: "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析"
-description: "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析的详细解析与实践指南"
+description: "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析 —— 古典音乐 · Rachmaninoff Piano Concertos 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Rachmaninoff Piano Concertos"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析的核心概念"
   - "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析的方法与实践"
   - "拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析的自助方法"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
+    relation: "创伤/情绪调节/认知重构"
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/PTSD_Specialized_Treatment.md"
+    relation: "创伤/ptsd/暴露"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "创伤/ptsd/杏仁核"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
+    relation: "创伤/情绪调节"
 ---
 # 拉赫玛尼诺夫《第二钢琴协奏曲》心理学与疗愈功能深度分析
 

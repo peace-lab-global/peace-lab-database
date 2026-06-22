@@ -1,7 +1,6 @@
 ---
-
 title: "落枕与急性颈肩疼痛处理 (Acute Neck Pain & Stiff Neck) | Index"
-description: "落枕与急性颈肩疼痛处理 (Acute Neck Pain & Stiff Neck) | Index的详细解析与实践指南"
+description: "落枕与急性颈肩疼痛处理 (Acute Neck Pain & Stiff Neck) | Index —— 生物学 · Neck Pain Acute 专题"
 category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
 tags: ["inflammation", "intervention", "neuroscience", "pain", "sleep", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是落枕与急性颈肩疼痛处理  | Index"
   - "落枕与急性颈肩疼痛处理  | Index的核心概念"
   - "落枕与急性颈肩疼痛处理  | Index的方法与实践"
-trigger_keywords: ["Index", "act", "assessment", "clinical", "inflammation"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
-    relation: "exercise/immune/neuroscience"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "exercise/immune/neuroscience"
-
+trigger_keywords: ["inflammation", "落枕与急性颈肩疼痛处理", "Acute", "Neck", "Pain"]
+cross_refs: []
 ---
 # 落枕与急性颈肩疼痛处理 (Acute Neck Pain & Stiff Neck) | Index
 

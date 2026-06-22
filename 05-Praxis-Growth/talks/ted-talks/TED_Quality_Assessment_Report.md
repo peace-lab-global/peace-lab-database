@@ -1,7 +1,6 @@
 ---
-
 title: "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report"
-description: "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的详细解析与实践指南"
+description: "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report"
   - "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的核心概念"
   - "TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report的方法与实践"
-trigger_keywords: ["assessment", "body", "clinical", "cognitive"]
+trigger_keywords: ["TED演讲内容体系质量评估报告", "TED", "Content", "Quality", "Assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/20-Return-to-Work.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "communication/neuroscience/nutrition"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Quality_Assessment_Report.md"
+    relation: "report/quality/assessment"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/INDEX.md"
+    relation: "report/quality"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/report/assessment"
 ---
 # TED演讲内容体系质量评估报告 | TED Content Quality Assessment Report
 

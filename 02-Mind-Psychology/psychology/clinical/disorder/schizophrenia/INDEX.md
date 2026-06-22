@@ -1,7 +1,6 @@
 ---
-
 title: "schizophrenia | Index"
-description: "schizophrenia | Index的详细解析与实践指南"
+description: "schizophrenia | Index —— 精神障碍 · Schizophrenia 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizophrenia"
 tags: ["treatment", "临床心理", "心理学", "精神障碍", "schizophrenia"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是schizophrenia | Index"
   - "schizophrenia | Index的核心概念"
   - "schizophrenia | Index的方法与实践"
-trigger_keywords: ["Index", "assessment", "treatment", "临床心理", "心理学"]
+trigger_keywords: ["treatment", "临床心理", "心理学"]
 cross_refs: []
-
 ---
 # schizophrenia | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《哲学的故事》The Story of Philosophy"
-description: "《哲学的故事》The Story of Philosophy的详细解析与实践指南"
+description: "《哲学的故事》The Story of Philosophy —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["literature", "personality", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《哲学的故事》The Story of Philosophy"
   - "《哲学的故事》The Story of Philosophy的核心概念"
   - "《哲学的故事》The Story of Philosophy的方法与实践"
-trigger_keywords: ["cognitive", "developmental", "exercise", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Luxun.md"
-    relation: "communication/exercise/personality"
-
+trigger_keywords: ["exercise", "《哲学的故事》The", "Story", "of", "Philosophy"]
+cross_refs: []
 ---
 # 《哲学的故事》The Story of Philosophy
 

@@ -1,7 +1,6 @@
 ---
-
 title: "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας"
-description: "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας的详细解析与实践指南"
+description: "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας —— Incense · Moxibustion 专题"
 category: "心智与心理学 > 疗法 > Incense > Moxibustion"
 tags: ["brain", "cardiovascular", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας"
   - "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας的核心概念"
   - "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας的方法与实践"
-trigger_keywords: ["艾灸安全指南", "act", "assessment", "body", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/Chronic_Inflammation.md"
-    relation: "cardiovascular/communication/neuroscience"
-  - path: "README.md"
-    relation: "cardiovascular/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/neuroscience/nutrition"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/nutrition"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "cardiovascular/neuroscience/nutrition"
-
+trigger_keywords: ["艾灸安全指南", "Moxibustion", "Safety", "Guidelines", "Οδηγός"]
+cross_refs: []
 ---
 # 艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας
 

@@ -1,7 +1,6 @@
 ---
-
 title: "心理剧核心技术详解 | Psychodrama Core Techniques"
-description: "心理剧核心技术详解 | Psychodrama Core Techniques的详细解析与实践指南"
+description: "心理剧核心技术详解 | Psychodrama Core Techniques —— 艺术 · 戏剧疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 戏剧疗愈"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "心理剧核心技术详解 | Psychodrama Core Techniques的核心概念"
   - "心理剧核心技术详解 | Psychodrama Core Techniques的方法与实践"
   - "心理剧核心技术详解 | Psychodrama Core Techniques的自助方法"
-trigger_keywords: ["心理剧核心技术详解", "act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["心理剧核心技术详解", "Psychodrama", "Core", "Techniques"]
+cross_refs: []
 ---
 # 心理剧核心技术详解 | Psychodrama Core Techniques
 

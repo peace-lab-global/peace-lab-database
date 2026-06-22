@@ -9,6 +9,11 @@ skills:
     skill_name: 失眠与睡眠质量评估
     filename: Insomnia_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-spiritual-doorway-in-the-brain.md"
+    relation: "rem/睡眠/障碍"
+  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+    relation: "失眠/睡眠/障碍"
 ---
 
 # 失眠评估模块清单

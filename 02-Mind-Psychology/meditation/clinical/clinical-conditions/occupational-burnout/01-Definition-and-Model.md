@@ -1,7 +1,6 @@
 ---
-
 title: "01. 职业倦怠的临床定义与三维度模型 | Definition & Model"
-description: "01. 职业倦怠的临床定义与三维度模型 | Definition & Model的详细解析与实践指南"
+description: "01. 职业倦怠的临床定义与三维度模型 | Definition & Model —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是01. 职业倦怠的临床定义与三维度模型 | Definition & Model"
   - "01. 职业倦怠的临床定义与三维度模型 | Definition & Model的核心概念"
   - "01. 职业倦怠的临床定义与三维度模型 | Definition & Model的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["01.", "职业倦怠的临床定义与三维度模型", "Definition", "Model"]
+cross_refs: []
 ---
 # 01. 职业倦怠的临床定义与三维度模型 | Definition & Model
 

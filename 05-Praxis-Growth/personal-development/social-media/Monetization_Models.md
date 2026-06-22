@@ -1,7 +1,6 @@
 ---
-
 title: "自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης"
-description: "自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης的详细解析与实践指南"
+description: "自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης"
   - "自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης的核心概念"
   - "自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης的方法与实践"
-trigger_keywords: ["自媒体变现模式详解", "assessment", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["自媒体变现模式详解", "Monetization", "Models", "for", "Social"]
+cross_refs: []
 ---
 # 自媒体变现模式详解 | Monetization Models for Social Media | Λεπτομερής Ανάλυση Μοντέλων Εξαργύρωσης για τα Μέσα Κοινωνικής Δικτύωσης
 

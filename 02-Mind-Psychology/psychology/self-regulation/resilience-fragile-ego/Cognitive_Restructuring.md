@@ -1,7 +1,6 @@
 ---
-
 title: "认知重构技术"
-description: "认知重构技术的详细解析与实践指南"
+description: "认知重构技术 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["cbt", "therapy", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是认知重构技术"
   - "认知重构技术的核心概念"
   - "认知重构技术的方法与实践"
-trigger_keywords: ["认知重构技术", "behavioral", "cbt", "cognitive", "emotion"]
+trigger_keywords: ["认知重构技术", "cbt"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Aristotle.md"
-    relation: "emotion/exercise/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "认知重构/认知行为"
+  - path: "05-Praxis-Growth/personal-development/procrastination/03_拖延症应对策略.md"
+    relation: "认知重构/restructuring/认知行为"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Psychology_Intervention.md"
+    relation: "认知重构/cbt/接纳承诺"
 ---
 # 认知重构技术
 

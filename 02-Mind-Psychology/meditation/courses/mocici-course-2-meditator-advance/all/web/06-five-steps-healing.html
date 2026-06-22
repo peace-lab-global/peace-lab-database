@@ -1,0 +1,432 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<meta name="theme-color" content="#0a0a0d" />
+<title>06 五步禅观疗愈 · 解构剧场</title>
+<link rel="stylesheet" href="./shared.css" />
+<style>
+  body{background:#0a0a0d}
+
+  /* 7 幕：1 引子 + 5 步 + 1 整合 */
+  .bg{
+    transition:transform 2.4s cubic-bezier(.6,.2,.2,1), filter 2.4s ease;
+    transform-origin:center center;will-change:transform,filter;
+  }
+  /* 引子 */
+  body.act1 .bg{transform:scale(1.02);filter:saturate(.7) brightness(.55) contrast(1.1)}
+  /* 第 1 步 止心安神：天空——拉远、平静 */
+  body.act2 .bg{transform:scale(1.5) translate(0%, -28%);filter:saturate(.85) brightness(1.0)}
+  /* 第 2 步 思考反省：花——放大，看见生灭无常 */
+  body.act3 .bg{transform:scale(2.4) translate(0%, 22%);filter:saturate(1.2) brightness(1.05)}
+  /* 第 3 步 联结众生：城——放大，看见无数因缘 */
+  body.act4 .bg{transform:scale(2.0) translate(-2%, -10%);filter:saturate(1.05) brightness(.9)}
+  /* 第 4 步 松动我执：整图——亮化，"我"被弱化 */
+  body.act5 .bg{transform:scale(1.06);filter:saturate(1.1) brightness(1.0)}
+  /* 第 5 步 浸泡空性：整图——通透 */
+  body.act6 .bg{transform:scale(1.04);filter:saturate(1.0) brightness(1.05) contrast(.95)}
+  /* 整合 */
+  body.act7 .bg{transform:scale(1.02);filter:saturate(1.15) brightness(1.0)}
+
+  /* SVG 标注 */
+  svg.annot{position:absolute;inset:0;width:100%;height:100%;z-index:5;pointer-events:none}
+  svg.annot .layer{opacity:0;transition:opacity 1.4s ease}
+  body.act2 svg.annot .l-s1{opacity:1}
+  body.act3 svg.annot .l-s2{opacity:1}
+  body.act4 svg.annot .l-s3{opacity:1}
+  body.act5 svg.annot .l-s4{opacity:1}
+  body.act6 svg.annot .l-s5{opacity:1}
+  body.act7 svg.annot .l-fusion{opacity:1}
+
+  svg.annot text{
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    fill:#fff;font-size:13px;letter-spacing:.18em;
+    paint-order:stroke;stroke:rgba(0,0,0,.6);stroke-width:3px;
+  }
+  svg.annot .small{font-size:10.5px;letter-spacing:.16em}
+  svg.annot .gold{fill:#ffd58a;stroke:rgba(80,50,0,.6)}
+  svg.annot .rose{fill:#ffb1c8;stroke:rgba(120,30,60,.6)}
+  svg.annot .sky {fill:#cfe6ff;stroke:rgba(20,40,80,.6)}
+  svg.annot .green{fill:#a6e7c5;stroke:rgba(20,80,50,.6)}
+
+  /* ========== 各步骤的视觉提示 ========== */
+
+  /* 第 1 步：呼吸圈（止心安神） */
+  .breath-ring{
+    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:6;
+    width:240px;height:240px;border-radius:50%;
+    border:1px solid rgba(207,230,255,.45);
+    pointer-events:none;opacity:0;transition:opacity 1.4s ease;
+    box-shadow:0 0 80px rgba(207,230,255,.3) inset;
+  }
+  body.act2 .breath-ring{opacity:1;animation:breathe 6s ease-in-out infinite}
+  @keyframes breathe{
+    0%,100%{transform:translate(-50%,-50%) scale(.85);box-shadow:0 0 60px rgba(207,230,255,.2) inset}
+    50%   {transform:translate(-50%,-50%) scale(1.1);box-shadow:0 0 100px rgba(207,230,255,.45) inset}
+  }
+  .breath-ring::before{
+    content:'吸';position:absolute;left:50%;top:30%;transform:translate(-50%,-50%);
+    color:rgba(207,230,255,.7);font-size:13px;letter-spacing:.4em;
+  }
+  .breath-ring::after{
+    content:'呼';position:absolute;left:50%;top:70%;transform:translate(-50%,-50%);
+    color:rgba(207,230,255,.7);font-size:13px;letter-spacing:.4em;
+  }
+
+  /* 第 2 步：花的生住异灭 */
+  .four-phase{
+    position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;
+    width:300px;height:300px;pointer-events:none;
+    opacity:0;transition:opacity 1.4s ease;
+  }
+  body.act3 .four-phase{opacity:1}
+  .four-phase span{
+    position:absolute;width:100%;text-align:center;
+    color:#ffb1c8;font-size:24px;letter-spacing:.4em;font-weight:300;
+    text-shadow:0 4px 14px rgba(0,0,0,.7);
+    opacity:0;animation:phaseShow 8s linear infinite;
+  }
+  .four-phase span:nth-child(1){top:0;animation-delay:0s}
+  .four-phase span:nth-child(2){top:50%;left:60%;text-align:left;animation-delay:2s}
+  .four-phase span:nth-child(3){bottom:0;animation-delay:4s}
+  .four-phase span:nth-child(4){top:50%;left:0;text-align:right;width:40%;animation-delay:6s}
+  @keyframes phaseShow{
+    0%,18%,100%{opacity:0;transform:scale(.6)}
+    6%,12%    {opacity:1;transform:scale(1)}
+  }
+
+  /* 第 3 步：联结线（城市与众生） */
+  .links{position:absolute;inset:0;z-index:6;pointer-events:none;opacity:0;transition:opacity 1.4s ease}
+  body.act4 .links{opacity:1}
+
+  /* 第 4 步：「我」字渐隐 */
+  .self-fade{
+    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:6;
+    color:rgba(255,177,200,.8);font-size:clamp(80px,14vw,160px);font-weight:200;
+    letter-spacing:.05em;
+    font-family:"Source Han Serif SC","Songti SC",serif;
+    text-shadow:0 6px 30px rgba(0,0,0,.7);
+    pointer-events:none;opacity:0;transition:opacity 1.4s ease;
+  }
+  body.act5 .self-fade{opacity:1;animation:selfDissolve 6s ease-in-out infinite}
+  @keyframes selfDissolve{
+    0%,100%{opacity:.85;filter:blur(0);transform:translate(-50%,-50%) scale(1)}
+    60%   {opacity:.05;filter:blur(20px);transform:translate(-50%,-50%) scale(1.5)}
+  }
+
+  /* 第 5 步：空性光环（呼吸式） */
+  .void-aura{
+    position:fixed;left:50%;top:50%;transform:translate(-50%,-50%);z-index:6;
+    width:min(70vw,720px);height:min(70vw,720px);border-radius:50%;
+    pointer-events:none;opacity:0;transition:opacity 1.4s ease;
+    border:1px dashed rgba(255,255,255,.3);
+    box-shadow:
+      0 0 60px 10px rgba(207,230,255,.15) inset,
+      0 0 120px rgba(255,213,138,.15);
+  }
+  body.act6 .void-aura{opacity:1;animation:voidPulse 9s ease-in-out infinite}
+  @keyframes voidPulse{
+    0%,100%{transform:translate(-50%,-50%) scale(.92);opacity:.6}
+    50%   {transform:translate(-50%,-50%) scale(1.04);opacity:1}
+  }
+
+  /* ========== 文字面板 ========== */
+  .panel{
+    position:fixed;right:32px;top:50%;transform:translateY(-50%);z-index:10;
+    width:min(38vw,420px);
+    background:rgba(15,15,20,.55);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    border:1px solid rgba(255,255,255,.12);
+    border-radius:18px;padding:32px 30px;color:#fff;
+    box-shadow:0 30px 70px rgba(0,0,0,.45);
+    transition:opacity .8s ease,transform .8s ease;
+  }
+  .panel .step{font-size:11.5px;letter-spacing:.4em;color:#c8a96a;margin-bottom:14px}
+  .panel h2{font-size:clamp(20px,2.4vw,28px);font-weight:300;letter-spacing:.18em;margin-bottom:18px;line-height:1.4}
+  .panel p{font-size:14px;line-height:2;color:#e8e8ea;letter-spacing:.05em}
+  .panel .quote{margin-top:18px;padding-top:16px;border-top:1px dashed rgba(255,255,255,.2);font-size:12.5px;color:#ffd58a;letter-spacing:.05em;font-style:italic;line-height:1.9}
+  .panel.fade{opacity:0;transform:translateY(-50%) translateX(20px)}
+  @media (max-width:820px){
+    .panel{right:16px;left:16px;width:auto;top:auto;bottom:130px;transform:none;padding:22px 22px}
+    .panel.fade{transform:translateY(20px)}
+  }
+
+  /* 左侧五步纵列 */
+  .stack{
+    position:fixed;left:30px;top:50%;transform:translateY(-50%);z-index:10;
+    display:flex;flex-direction:column;gap:6px;
+    background:rgba(15,15,20,.45);
+    backdrop-filter:blur(10px);
+    padding:14px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.1);
+    color:rgba(255,255,255,.5);font-size:11px;letter-spacing:.22em;
+  }
+  .stack .row{padding:6px 12px;border-radius:6px;border:1px solid transparent;white-space:nowrap;transition:.6s;display:flex;align-items:center;gap:10px}
+  .stack .row .n{
+    width:20px;height:20px;border-radius:50%;
+    border:1px solid rgba(255,255,255,.3);font-size:11px;
+    display:flex;align-items:center;justify-content:center;
+  }
+  body.act2 .stack .r1{color:#fff;background:rgba(207,230,255,.12);border-color:rgba(207,230,255,.4)}
+  body.act3 .stack .r2{color:#fff;background:rgba(255,177,200,.12);border-color:rgba(255,177,200,.4)}
+  body.act4 .stack .r3{color:#fff;background:rgba(255,213,138,.12);border-color:rgba(255,213,138,.4)}
+  body.act5 .stack .r4{color:#fff;background:rgba(166,231,197,.12);border-color:rgba(166,231,197,.4)}
+  body.act6 .stack .r5{color:#fff;background:rgba(255,255,255,.14);border-color:rgba(255,255,255,.45)}
+  body.act7 .stack .row{color:#fff;background:rgba(255,255,255,.1);border-color:rgba(255,255,255,.2)}
+  @media (max-width:820px){.stack{display:none}}
+
+  /* 时间线 */
+  .timeline{
+    position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:11;
+    display:flex;gap:10px;align-items:center;
+    background:rgba(15,15,20,.5);backdrop-filter:blur(10px);
+    padding:10px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.12);
+  }
+  .timeline button{
+    background:none;color:#fff;cursor:pointer;
+    width:30px;height:30px;border-radius:50%;font-size:11px;letter-spacing:.05em;transition:.3s;
+    display:flex;align-items:center;justify-content:center;
+    border:1px solid rgba(255,255,255,.2);
+  }
+  .timeline button.active{background:#fff;color:#1b1b1f;border-color:#fff}
+  .timeline button:hover{border-color:#fff}
+  .timeline .play{width:auto;padding:0 14px;height:30px;border-radius:999px;font-size:11.5px;letter-spacing:.16em;margin-left:6px}
+  .timeline .div{width:1px;height:18px;background:rgba(255,255,255,.18)}
+
+  .hint{
+    position:fixed;left:50%;bottom:80px;transform:translateX(-50%);z-index:9;
+    color:rgba(255,255,255,.55);font-size:11.5px;letter-spacing:.3em;
+    pointer-events:none;animation:hintBlink 4s ease-in-out infinite;
+  }
+  @keyframes hintBlink{0%,100%{opacity:.4}50%{opacity:.85}}
+
+  /* 整合 act7 */
+  .center-insight{
+    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:7;
+    text-align:center;pointer-events:none;opacity:0;transition:opacity 1.5s ease;
+  }
+  body.act7 .center-insight{opacity:1}
+  .center-insight .eq{
+    font-size:clamp(22px,3.6vw,46px);font-weight:200;letter-spacing:.4em;color:#fff;
+    text-shadow:0 6px 40px rgba(0,0,0,.7);line-height:1.7;
+  }
+  .center-insight .eq b{color:#ffd58a;font-weight:300}
+  .center-insight .sub{
+    margin-top:14px;color:#cfe6ff;font-size:12.5px;letter-spacing:.4em;
+  }
+
+  /* 联结对象标注 */
+  .link-labels{position:absolute;inset:0;z-index:5;pointer-events:none}
+  .ll{position:absolute;transform:translate(-50%,-50%);white-space:nowrap;
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    font-size:clamp(12px,1.4vw,16px);letter-spacing:.15em;
+    color:#ffd58a;text-shadow:0 0 8px rgba(0,0,0,.7),0 2px 12px rgba(0,0,0,.5);
+    opacity:0;transition:opacity 1.4s ease}
+  body.act3 .link-labels .ll{opacity:1}
+
+  /* HTML 标注层 */
+  .act-labels{position:absolute;inset:0;z-index:5;pointer-events:none}
+  .al{position:absolute;transform:translate(-50%,-50%);white-space:nowrap;
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    font-size:clamp(13px,1.6vw,17px);letter-spacing:.22em;color:#fff;
+    text-shadow:0 0 8px rgba(0,0,0,.7),0 2px 12px rgba(0,0,0,.5);
+    opacity:0;transition:opacity 1.4s ease}
+  .al.t-sky{color:#cfe6ff}.al.t-gold{color:#ffd58a}.al.t-rose{color:#ffb1c8}
+  .al.t-green{color:#a6e7c5}
+  .al.t-sm{font-size:clamp(10px,1.2vw,13px);letter-spacing:.18em;opacity:.88}
+  body.act2 .act-labels .l1{opacity:1}body.act3 .act-labels .l2{opacity:1}
+  body.act4 .act-labels .l3{opacity:1}body.act5 .act-labels .l4{opacity:1}
+  body.act6 .act-labels .l5{opacity:1}body.act7 .act-labels .l6{opacity:1}
+  @media(max-width:640px){
+    .al{font-size:clamp(11px,3.2vw,15px);letter-spacing:.16em}
+    .al.t-sm{font-size:clamp(9px,2.6vw,12px)}
+    .ll{font-size:clamp(10px,2.8vw,14px)}
+  }
+</style>
+</head>
+<body class="act1">
+  <a class="back" href="./index.html">← 返回</a>
+  <div class="tag">06 / 06 · 五 步 禅 观 疗 愈</div>
+
+  <div class="stage">
+    <div class="bg"></div>
+
+    <!-- 各步骤视觉元素 -->
+    <div class="breath-ring"></div>
+
+    <div class="four-phase">
+      <span>生</span>
+      <span>住</span>
+      <span>异</span>
+      <span>灭</span>
+    </div>
+
+    <svg class="links" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <g stroke="#ffd58a" stroke-width=".4" stroke-dasharray="2 2" fill="none" opacity=".75">
+        <path d="M 50,52 C 30,40 18,30 12,18"/>
+        <path d="M 50,52 C 70,40 82,30 88,18"/>
+        <path d="M 50,52 C 30,68 18,80 10,90"/>
+        <path d="M 50,52 C 70,68 82,80 90,90"/>
+        <path d="M 50,52 C 35,55 22,60 8,55"/>
+        <path d="M 50,52 C 65,55 78,60 92,55"/>
+      </g>
+    </svg>
+
+    <!-- 联结对象标注（HTML） -->
+    <div class="link-labels">
+      <span class="ll t-gold" style="left:12%;top:16%">家人</span>
+      <span class="ll t-gold" style="left:88%;top:16%">同事</span>
+      <span class="ll t-gold" style="left:10%;top:92%">陌生人</span>
+      <span class="ll t-gold" style="left:90%;top:92%">众生</span>
+      <span class="ll t-gold" style="left:8%;top:56%">朋友</span>
+      <span class="ll t-gold" style="left:92%;top:56%">所爱</span>
+    </div>
+
+    <div class="self-fade">我</div>
+    <div class="void-aura"></div>
+
+    <!-- ============== SVG 标注 ============== -->
+    <svg class="annot" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <g class="layer l-s1"></g>
+      <g class="layer l-s2"></g>
+      <g class="layer l-s3"></g>
+      <g class="layer l-s4"></g>
+      <g class="layer l-s5"></g>
+      <g class="layer l-fusion"></g>
+    </svg>
+
+    <!-- HTML 标注层 -->
+    <div class="act-labels">
+      <span class="al l1 t-sky t-sm" style="left:50%;top:10%">第一步 · 止心安神</span>
+      <span class="al l1 t-sm" style="left:50%;top:92%">把注意力安在呼吸上，让浊浪沉淀</span>
+      <span class="al l2 t-rose t-sm" style="left:50%;top:10%">第二步 · 思考反省</span>
+      <span class="al l2 t-sm" style="left:50%;top:92%">观此烦恼之因 — 多半是想抓住「不该抓住的」</span>
+      <span class="al l3 t-gold t-sm" style="left:50%;top:10%">第三步 · 联结众生</span>
+      <span class="al l3 t-sm" style="left:50%;top:92%">这样的苦，不只我有 — 一切众生同此心</span>
+      <span class="al l4 t-green t-sm" style="left:50%;top:10%">第四步 · 松动我执</span>
+      <span class="al l4 t-sm" style="left:50%;top:92%">那个「为我受苦」的「我」，也不过是一串念头</span>
+      <span class="al l5 t-sm" style="left:50%;top:10%">第五步 · 浸泡空性</span>
+      <span class="al l5 t-sky t-sm" style="left:50%;top:92%">不修也不不修，只是与「这一刻」如实同在</span>
+      <span class="al l6 t-sm" style="left:50%;top:10%">五步不是五件事，而是一颗心的五个转弯</span>
+    </div>
+
+    <div class="center-insight">
+      <div class="eq"><b>止</b> · <b>思</b> · <b>联</b> · <b>松</b> · <b>泡</b></div>
+      <div class="sub">遇 烦 恼 即 修 行 · 此 心 即 道 场</div>
+    </div>
+
+    <div class="vignette"></div>
+  </div>
+
+  <!-- 左侧五步 -->
+  <div class="stack">
+    <div class="row r1"><span class="n">1</span>止 心 安 神</div>
+    <div class="row r2"><span class="n">2</span>思 考 反 省</div>
+    <div class="row r3"><span class="n">3</span>联 结 众 生</div>
+    <div class="row r4"><span class="n">4</span>松 动 我 执</div>
+    <div class="row r5"><span class="n">5</span>浸 泡 空 性</div>
+  </div>
+
+  <!-- 文字面板 -->
+  <div class="panel" id="panel">
+    <div class="step" id="step">幕 1 / 7 · 引 子</div>
+    <h2 id="title">当烦恼来时，怎么办？</h2>
+    <p id="body">不必逃到深山，也不必等到打坐——<br/>就在你眼前的城市、街边的花、抬头的天空里，<b style="color:#ffd58a">五步即可完成一次禅观疗愈</b>。</p>
+    <div class="quote" id="quote">遇烦恼即修行，此心即道场。</div>
+  </div>
+
+  <div class="timeline" id="tl">
+    <button class="active" data-act="1" title="引子">起</button>
+    <button data-act="2" title="止心安神">1</button>
+    <button data-act="3" title="思考反省">2</button>
+    <button data-act="4" title="联结众生">3</button>
+    <button data-act="5" title="松动我执">4</button>
+    <button data-act="6" title="浸泡空性">5</button>
+    <button data-act="7" title="整合">合</button>
+    <span class="div"></span>
+    <button class="play" id="autoBtn">❚❚&nbsp;暂停</button>
+  </div>
+
+  <div class="hint">滑 动 / 点 击 数 字 跳 转 任 一 步</div>
+
+<script>
+  const acts = [
+    {step:'幕 1 / 7 · 引&nbsp;子',
+     title:'当烦恼来时，怎么办？',
+     body:'不必逃到深山，也不必等到打坐——<br/>就在你眼前的城市、街边的花、抬头的天空里，<b style="color:#ffd58a">五步即可完成一次禅观疗愈</b>。',
+     quote:'遇烦恼即修行，此心即道场。'},
+    {step:'幕 2 / 7 · 第 一 步',
+     title:'止心安神',
+     body:'抬头看天空——把注意力安放在呼吸的进出上。<br/>不再追逐念头、也不再压制念头，<b style="color:#cfe6ff">让浊浪自己沉淀</b>。',
+     quote:'心一静，世界才有空间被看见。'},
+    {step:'幕 3 / 7 · 第 二 步',
+     title:'思考反省',
+     body:'凝视眼前的花——它正经历生、住、异、灭。<br/>观此烦恼之因——多半是<b style="color:#ffb1c8">想抓住一个本不该被抓住的</b>。',
+     quote:'看见原因，比对治原因更有力。'},
+    {step:'幕 4 / 7 · 第 三 步',
+     title:'联结众生',
+     body:'放眼整座城——千家万户都在经历相似的苦。<br/><b style="color:#ffd58a">「我的苦」并不孤独</b>，它把我和众生连在一起。',
+     quote:'孤立的「我」，是一切苦最好的温床。'},
+    {step:'幕 5 / 7 · 第 四 步',
+     title:'松动我执',
+     body:'那个「为我受苦」的「我」，仔细一看——<br/><b style="color:#a6e7c5">不过是一串自动浮现的念头</b>。它没有那么实在。',
+     quote:'当「我」被看见，「我」就开始松动。'},
+    {step:'幕 6 / 7 · 第 五 步',
+     title:'浸泡空性',
+     body:'不修也不不修，<b style="color:#fff">只是与「这一刻」如实同在</b>。<br/>花、楼、天、念头、身体——一切如其所是地存在。',
+     quote:'最深的疗愈，是不再急着疗愈。'},
+    {step:'幕 7 / 7 · 整 合',
+     title:'五步不是五件事，是一颗心的五个转弯',
+     body:'止 → 思 → 联 → 松 → 泡。<br/>从「跟自己打架」转向「与世界同在」——<b style="color:#ffd58a">同一颗心，从此可以承担更广的爱与更深的安住</b>。',
+     quote:'愿这五步，陪你走过此后每一次烦恼。'}
+  ];
+
+  const $ = id=>document.getElementById(id);
+  const panel=$('panel'), step=$('step'), title=$('title'), bodyT=$('body'), quote=$('quote'), tl=$('tl');
+  let cur=0, auto=true, timer=null;
+
+  function go(i){
+    cur = ((i % acts.length)+acts.length) % acts.length;
+    document.body.className = 'act' + (cur+1);
+    Array.from(tl.querySelectorAll('button[data-act]'))
+      .forEach(b=>b.classList.toggle('active', +b.dataset.act === cur+1));
+    panel.classList.add('fade');
+    setTimeout(()=>{
+      const a = acts[cur];
+      step.innerHTML=a.step; title.innerHTML=a.title; bodyT.innerHTML=a.body; quote.innerHTML=a.quote;
+      panel.classList.remove('fade');
+    }, 400);
+  }
+
+  tl.addEventListener('click', e=>{
+    const b = e.target.closest('button[data-act]'); if(!b) return;
+    pauseAuto(); go(+b.dataset.act-1);
+  });
+
+  function startAuto(){ if(timer) clearInterval(timer); timer = setInterval(()=>{ if(auto) go(cur+1); }, 8500); }
+  function pauseAuto(){ auto=false; $('autoBtn').innerHTML='▶&nbsp;播放'; clearInterval(timer); }
+  function resumeAuto(){ auto=true; $('autoBtn').innerHTML='❚❚&nbsp;暂停'; startAuto(); }
+  $('autoBtn').onclick = ()=> auto?pauseAuto():resumeAuto();
+
+  document.addEventListener('keydown', e=>{
+    if(e.key==='ArrowRight'){ pauseAuto(); go(cur+1); }
+    if(e.key==='ArrowLeft' ){ pauseAuto(); go(cur-1); }
+    if(e.key===' '){ e.preventDefault(); auto?pauseAuto():resumeAuto(); }
+  });
+
+  let sx=0;
+  addEventListener('touchstart', e=>{ sx=e.touches[0].clientX; }, {passive:true});
+  addEventListener('touchend', e=>{
+    const dx=e.changedTouches[0].clientX - sx;
+    if(Math.abs(dx)>40){ pauseAuto(); go(cur + (dx<0?1:-1)); }
+  });
+
+  go(0); startAuto();
+
+  function setVh(){document.documentElement.style.setProperty('--vh',(window.innerHeight*0.01)+'px');}
+  setVh();
+  addEventListener('resize',setVh);
+  addEventListener('orientationchange',setVh);
+</script>
+</body>
+</html>

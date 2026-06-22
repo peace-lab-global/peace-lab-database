@@ -1,7 +1,6 @@
 ---
-
 title: "adhd | Index"
-description: "adhd | Index的详细解析与实践指南"
+description: "adhd | Index —— 精神障碍 · Adhd 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Adhd"
 tags: ["intervention", "treatment", "临床心理", "心理学", "精神障碍", "adhd"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是adhd | Index"
   - "adhd | Index的核心概念"
   - "adhd | Index的方法与实践"
-trigger_keywords: ["adhd", "Index", "assessment", "intervention", "treatment", "临床心理"]
-cross_refs: []
-
+trigger_keywords: ["adhd", "intervention", "treatment", "临床心理"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/clinical/INDEX.md"
+    relation: "interventions/treatment/contents"
 ---
 # adhd | Index
 

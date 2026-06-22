@@ -1,6 +1,6 @@
 ---
 title: "spa | Index"
-description: "spa | Index的详细解析与实践指南"
+description: "spa | Index —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["生物学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是spa | Index"
   - "spa | Index的核心概念"
   - "spa | Index的方法与实践"
-trigger_keywords: ["spa", "Index", "生物学"]
+trigger_keywords: ["spa", "生物学"]
 cross_refs: []
 ---
 # spa | Index

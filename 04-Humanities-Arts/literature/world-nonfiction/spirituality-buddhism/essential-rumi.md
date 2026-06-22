@@ -1,7 +1,6 @@
 ---
-
 title: "《狂喜》The Essential Rumi"
-description: "《狂喜》The Essential Rumi的详细解析与实践指南"
+description: "《狂喜》The Essential Rumi —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["dzogchen", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《狂喜》The Essential Rumi"
   - "《狂喜》The Essential Rumi的核心概念"
   - "《狂喜》The Essential Rumi的方法与实践"
-trigger_keywords: ["anxiety", "body", "buddhism", "death"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-
+trigger_keywords: ["《狂喜》The", "Essential", "Rumi"]
+cross_refs: []
 ---
 # 《狂喜》The Essential Rumi
 

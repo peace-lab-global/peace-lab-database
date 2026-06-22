@@ -1,7 +1,6 @@
 ---
-
 title: "十字路口的选择——高加林式困境"
-description: "十字路口的选择——高加林式困境的详细解析与实践指南"
+description: "十字路口的选择——高加林式困境 —— Contemporary · Life Lu Yao 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
 tags: ["literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是十字路口的选择——高加林式困境"
   - "十字路口的选择——高加林式困境的核心概念"
   - "十字路口的选择——高加林式困境的方法与实践"
-trigger_keywords: ["developmental", "literature", "loneliness", "sexuality"]
+trigger_keywords: ["loneliness", "十字路口的选择——高加林式困境"]
 cross_refs:
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/sexuality"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "art_therapy/sexuality"
   - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
     relation: "art_therapy/sexuality"
-
 ---
 # 十字路口的选择——高加林式困境
 

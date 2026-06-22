@@ -1,7 +1,6 @@
 ---
-
 title: "自然冥想知识库 | Nature Meditation Knowledge Base"
-description: "自然冥想知识库 | Nature Meditation Knowledge Base的详细解析与实践指南"
+description: "自然冥想知识库 | Nature Meditation Knowledge Base —— 冥想 · Nature Meditation 专题"
 category: "心智与心理学 > 冥想 > Nature Meditation"
 tags: ["meditation", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是自然冥想知识库 | Nature Meditation Knowledge Base"
   - "自然冥想知识库 | Nature Meditation Knowledge Base的核心概念"
   - "自然冥想知识库 | Nature Meditation Knowledge Base的方法与实践"
-trigger_keywords: ["自然冥想知识库", "meditation", "psychology", "trauma", "冥想"]
+trigger_keywords: ["自然冥想知识库", "meditation", "trauma", "冥想"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/historiography/Buddhist_Perspective_Reviews.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "meditation/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Kantian_Schopenhauer.md"
-    relation: "meditation/trauma"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # 自然冥想知识库 | Nature Meditation Knowledge Base
 

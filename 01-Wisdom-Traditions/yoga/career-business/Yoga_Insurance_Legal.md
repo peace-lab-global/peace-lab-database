@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）"
-description: "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的详细解析与实践指南"
+description: "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["meditation", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）"
   - "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的核心概念"
   - "瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）的方法与实践"
-trigger_keywords: ["behavioral", "body", "breathwork", "exercise"]
+trigger_keywords: ["exercise", "瑜伽教学保险与法律指南", "Yoga", "Insurance", "Legal"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "exercise/meditation/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
+    relation: "insurance/legal/瑜伽"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：能量瑜伽.md"
+    relation: "瑜伽/体式"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽/yoga/体式"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga"
 ---
 # 瑜伽教学保险与法律指南（Yoga Insurance & Legal Guide）
 

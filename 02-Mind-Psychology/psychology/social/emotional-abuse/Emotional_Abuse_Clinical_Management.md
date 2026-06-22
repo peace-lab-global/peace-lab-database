@@ -1,7 +1,6 @@
 ---
-
 title: "冷暴力临床管理指南专业内容体系"
-description: "冷暴力临床管理指南专业内容体系的详细解析与实践指南"
+description: "冷暴力临床管理指南专业内容体系 —— 社会心理学 · Emotional Abuse 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
 tags: ["anxiety", "attachment", "cbt", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是冷暴力临床管理指南专业内容体系"
   - "冷暴力临床管理指南专业内容体系的核心概念"
   - "冷暴力临床管理指南专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["冷暴力临床管理指南专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+    relation: "创伤/危机干预"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "创伤/危机干预"
 ---
 # 冷暴力临床管理指南专业内容体系
 

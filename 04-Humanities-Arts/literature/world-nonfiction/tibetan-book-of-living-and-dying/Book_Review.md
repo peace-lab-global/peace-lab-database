@@ -1,7 +1,6 @@
 ---
-
 title: "《西藏生死书》读书笔记与书评"
-description: "《西藏生死书》读书笔记与书评的详细解析与实践指南"
+description: "《西藏生死书》读书笔记与书评 —— World Nonfiction · Tibetan Book Of Living And Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《西藏生死书》读书笔记与书评"
   - "《西藏生死书》读书笔记与书评的核心概念"
   - "《西藏生死书》读书笔记与书评的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["《西藏生死书》读书笔记与书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/bardo/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "bardo/藏传/临终"
+  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Bardo_Death_Art.md"
+    relation: "bardo/死亡/藏传"
 ---
 # 《西藏生死书》读书笔记与书评
 

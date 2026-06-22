@@ -1,7 +1,6 @@
 ---
-
 title: "内经养生实践指南"
-description: "内经养生实践指南的详细解析与实践指南"
+description: "内经养生实践指南 —— 智慧传承 · 中医内经 专题"
 category: "智慧传承 > 中医内经"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是内经养生实践指南"
   - "内经养生实践指南的核心概念"
   - "内经养生实践指南的方法与实践"
-trigger_keywords: ["内经养生实践指南", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["内经养生实践指南"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "aging/anxiety/daoism"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
-    relation: "aging/anxiety/daoism"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Sleep_Anxiety.md"
+    relation: "睡眠/运动/压力"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
+    relation: "睡眠/压力"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Diary_Analysis_Skill.md"
+    relation: "睡眠/压力"
+  - path: "03-Bio-Science/biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md"
+    relation: "睡眠/运动/压力"
 ---
 # 内经养生实践指南
 ## Neijing Health Preservation Practice Guide

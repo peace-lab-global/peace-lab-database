@@ -1,7 +1,6 @@
 ---
-
 title: "不确定性容忍"
-description: "不确定性容忍的详细解析与实践指南"
+description: "不确定性容忍 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "cinema", "decision-making", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是不确定性容忍"
   - "不确定性容忍的核心概念"
   - "不确定性容忍的方法与实践"
-trigger_keywords: ["不确定性容忍", "anxiety", "behavioral", "cinema", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["不确定性容忍", "cinema"]
+cross_refs: []
 ---
 # 不确定性容忍
 

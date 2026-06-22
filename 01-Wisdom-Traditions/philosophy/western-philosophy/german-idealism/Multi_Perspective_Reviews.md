@@ -1,7 +1,6 @@
 ---
-
 title: "德国观念论经典三方书评"
-description: "德国观念论经典三方书评的详细解析与实践指南"
+description: "德国观念论经典三方书评 —— Western Philosophy · German Idealism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > German Idealism"
 tags: ["philosophy", "phobia", "religion", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是德国观念论经典三方书评"
   - "德国观念论经典三方书评的核心概念"
   - "德国观念论经典三方书评的方法与实践"
-trigger_keywords: ["exercise", "literature", "philosophy", "phobia"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["exercise", "phobia"]
+cross_refs: []
 ---
 # 德国观念论经典三方书评
 

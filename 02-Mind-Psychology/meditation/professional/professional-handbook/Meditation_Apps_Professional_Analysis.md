@@ -1,7 +1,6 @@
 ---
-
 title: "全球冥想APP专业分析 | Global Meditation App Professional Analysis"
-description: "全球冥想APP专业分析 | Global Meditation App Professional Analysis的详细解析与实践指南"
+description: "全球冥想APP专业分析 | Global Meditation App Professional Analysis —— 冥想 · Professional Handbook 专题"
 category: "心智与心理学 > 冥想 > Professional Handbook"
 tags: ["anxiety", "brain", "sleep", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是全球冥想APP专业分析 | Global Meditation App Professional Analysis"
   - "全球冥想APP专业分析 | Global Meditation App Professional Analysis的核心概念"
   - "全球冥想APP专业分析 | Global Meditation App Professional Analysis的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/meditation"
-
+trigger_keywords: ["全球冥想APP专业分析", "Global", "Meditation", "App", "Professional"]
+cross_refs: []
 ---
 # 全球冥想APP专业分析 | Global Meditation App Professional Analysis
 

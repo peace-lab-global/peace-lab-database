@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第三勃兰登堡协奏曲》综合指南"
-description: "巴赫《第三勃兰登堡协奏曲》综合指南的详细解析与实践指南"
+description: "巴赫《第三勃兰登堡协奏曲》综合指南 —— Bach Brandenburg Concertos · No3 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Brandenburg Concertos > No3"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是巴赫《第三勃兰登堡协奏曲》综合指南"
   - "巴赫《第三勃兰登堡协奏曲》综合指南的核心概念"
   - "巴赫《第三勃兰登堡协奏曲》综合指南的方法与实践"
-trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
+trigger_keywords: ["巴赫《第三勃兰登堡协奏曲》综合指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "depression/emotion/exercise"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
 ---
 # 巴赫《第三勃兰登堡协奏曲》综合指南
 

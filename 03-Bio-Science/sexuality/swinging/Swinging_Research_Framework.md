@@ -1,7 +1,6 @@
 ---
-
 title: "换妻研究框架与专业分析 (Swinging Research Framework & Professional Analysis)"
-description: "换妻研究框架与专业分析 (Swinging Research Framework & Professional Analysis)的详细解析与实践指南"
+description: "换妻研究框架与专业分析 (Swinging Research Framework & Professional Analysis) —— 性学 · Swinging 专题"
 category: "生命科学与生物医学 > 性学 > Swinging"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是换妻研究框架与专业分析"
   - "换妻研究框架与专业分析的核心概念"
   - "换妻研究框架与专业分析的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/Workplace_Psychological_Crisis_Intervention.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["换妻研究框架与专业分析", "Swinging", "Research", "Framework", "Professional"]
+cross_refs: []
 ---
 # 换妻研究框架与专业分析 (Swinging Research Framework & Professional Analysis)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "经典电影专业影评合集索引"
-description: "经典电影专业影评合集索引的详细解析与实践指南"
+description: "经典电影专业影评合集索引 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是经典电影专业影评合集索引"
   - "经典电影专业影评合集索引的核心概念"
   - "经典电影专业影评合集索引的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/neuroscience"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+trigger_keywords: ["经典电影专业影评合集索引"]
+cross_refs: []
 ---
 # 经典电影专业影评合集索引
 

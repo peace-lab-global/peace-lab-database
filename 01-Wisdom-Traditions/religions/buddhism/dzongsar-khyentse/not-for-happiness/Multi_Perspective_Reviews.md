@@ -1,7 +1,6 @@
 ---
-
 title: "《不是为了快乐》三方书评"
-description: "《不是为了快乐》三方书评的详细解析与实践指南"
+description: "《不是为了快乐》三方书评 —— Dzongsar Khyentse · Not For Happiness 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Not For Happiness"
 tags: ["buddhism", "dzogchen", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《不是为了快乐》三方书评"
   - "《不是为了快乐》三方书评的核心概念"
   - "《不是为了快乐》三方书评的方法与实践"
-trigger_keywords: ["body", "buddhism", "dzogchen", "emotion"]
+trigger_keywords: ["dzogchen", "《不是为了快乐》三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "力量/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "力量/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "力量/佛教"
 ---
 # 《不是为了快乐》三方书评
 

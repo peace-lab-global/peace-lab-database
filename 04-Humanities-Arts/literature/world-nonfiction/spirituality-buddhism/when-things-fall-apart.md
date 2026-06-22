@@ -1,7 +1,6 @@
 ---
-
 title: "《当生命陷落时》When Things Fall Apart"
-description: "《当生命陷落时》When Things Fall Apart的详细解析与实践指南"
+description: "《当生命陷落时》When Things Fall Apart —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["loneliness", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《当生命陷落时》When Things Fall Apart"
   - "《当生命陷落时》When Things Fall Apart的核心概念"
   - "《当生命陷落时》When Things Fall Apart的方法与实践"
-trigger_keywords: ["body", "buddhism", "death", "emotion"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/buddhism/death"
-  - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
-    relation: "attachment/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Integrated_Methods.md"
-    relation: "attachment/buddhism/emotion"
-
+trigger_keywords: ["《当生命陷落时》When", "Things", "Fall", "Apart"]
+cross_refs: []
 ---
 # 《当生命陷落时》When Things Fall Apart
 

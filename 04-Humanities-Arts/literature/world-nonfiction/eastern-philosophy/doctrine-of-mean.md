@@ -1,7 +1,6 @@
 ---
-
 title: "《中庸》Doctrine of the Mean"
-description: "《中庸》Doctrine of the Mean的详细解析与实践指南"
+description: "《中庸》Doctrine of the Mean —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《中庸》Doctrine of the Mean"
   - "《中庸》Doctrine of the Mean的核心概念"
   - "《中庸》Doctrine of the Mean的方法与实践"
-trigger_keywords: ["buddhism", "death", "emotion", "philosophy"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+trigger_keywords: ["《中庸》Doctrine", "of", "the", "Mean"]
+cross_refs: []
 ---
 # 《中庸》Doctrine of the Mean
 

@@ -1,6 +1,6 @@
 ---
 title: "addiction | Index"
-description: "addiction | Index的详细解析与实践指南"
+description: "addiction | Index —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["心理学", "行为心理"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是addiction | Index"
   - "addiction | Index的核心概念"
   - "addiction | Index的方法与实践"
-trigger_keywords: ["addiction", "Index", "心理学", "行为心理"]
-cross_refs: []
+trigger_keywords: ["心理学", "行为心理"]
+cross_refs:
+  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
+    relation: "caffeine/coffee/addiction"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Neuroscience_Pharmacology.md"
+    relation: "caffeine/addiction/coffee"
 ---
 # addiction | Index
 

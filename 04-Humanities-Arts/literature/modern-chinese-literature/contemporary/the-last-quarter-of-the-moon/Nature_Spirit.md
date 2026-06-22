@@ -1,7 +1,6 @@
 ---
-
 title: "自然、萨满与人的共生——被现代世界遗忘的活法"
-description: "自然、萨满与人的共生——被现代世界遗忘的活法的详细解析与实践指南"
+description: "自然、萨满与人的共生——被现代世界遗忘的活法 —— Contemporary · The Last Quarter Of The Moon 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
 tags: ["productivity", "religion"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是自然、萨满与人的共生——被现代世界遗忘的活法"
   - "自然、萨满与人的共生——被现代世界遗忘的活法的核心概念"
   - "自然、萨满与人的共生——被现代世界遗忘的活法的方法与实践"
-trigger_keywords: ["自然", "behavioral", "cognitive", "crisis", "death"]
+trigger_keywords: ["自然", "萨满与人的共生——被现代世界遗忘的活法"]
 cross_refs:
   - path: "README.md"
     relation: "art_therapy/death/emotion"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "art_therapy/death/emotion"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
     relation: "death/emotion/exercise"
-
 ---
 # 自然、萨满与人的共生——被现代世界遗忘的活法
 

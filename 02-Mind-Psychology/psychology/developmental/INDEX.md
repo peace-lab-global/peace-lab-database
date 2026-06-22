@@ -1,7 +1,6 @@
 ---
-
 title: "发展心理学 (Developmental Psychology) | Index"
-description: "发展心理学 (Developmental Psychology) | Index的详细解析与实践指南"
+description: "发展心理学 (Developmental Psychology) | Index —— 心理学 · 发展心理学 专题"
 category: "心智与心理学 > 心理学 > 发展心理学"
 tags: ["发展心理学", "心理学"]
 last_updated: "2026-05"
@@ -13,9 +12,10 @@ intent_queries:
   - "发展心理学  | Index的核心概念"
   - "发展心理学  | Index的方法与实践"
   - "发展心理学  | Index的自助方法"
-trigger_keywords: ["发展心理学", "Index", "adolescent", "crisis", "developmental", "psychology"]
-cross_refs: []
-
+trigger_keywords: ["发展心理学", "Developmental", "Psychology"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/Religious_Psychology_Cross_Cultural_Research.md"
+    relation: "发展心理学/psychology/contents"
 ---
 # 发展心理学 (Developmental Psychology) | Index
 

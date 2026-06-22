@@ -1,7 +1,6 @@
 ---
-
 title: "Energy & Foundational Sound (能量与基础音疗)"
-description: "Energy & Foundational Sound (能量与基础音疗)的详细解析与实践指南"
+description: "Energy & Foundational Sound (能量与基础音疗) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "attachment", "brain", "cortisol", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Energy & Foundational Sound"
   - "Energy & Foundational Sound的核心概念"
   - "Energy & Foundational Sound的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/meditation"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/meditation"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/meditation"
-
+trigger_keywords: ["Energy", "Foundational", "Sound", "能量与基础音疗"]
+cross_refs: []
 ---
 # Energy & Foundational Sound (能量与基础音疗)
 

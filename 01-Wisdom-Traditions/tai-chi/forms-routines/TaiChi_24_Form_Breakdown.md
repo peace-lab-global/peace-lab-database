@@ -12,11 +12,7 @@ intent_queries:
   - "简化太极拳动作详解"
   - "24式太极常见错误"
 trigger_keywords: ["24式", "简化", "逐招", "动作"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals"
-  - path: "01-Wisdom-Traditions/tai-chi/schools-lineage/TaiChi_Contemporary_Styles.md"
-    relation: "contemporary-styles"
+cross_refs: []
 ---
 # 简化24式逐招解析 | 24 Form Breakdown
 

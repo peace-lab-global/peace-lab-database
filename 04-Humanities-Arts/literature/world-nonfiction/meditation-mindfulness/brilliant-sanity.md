@@ -1,7 +1,6 @@
 ---
-
 title: "《本觉妙明》Brilliant Sanity"
-description: "《本觉妙明》Brilliant Sanity的详细解析与实践指南"
+description: "《本觉妙明》Brilliant Sanity —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["dzogchen", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《本觉妙明》Brilliant Sanity"
   - "《本觉妙明》Brilliant Sanity的核心概念"
   - "《本觉妙明》Brilliant Sanity的方法与实践"
-trigger_keywords: ["anxiety", "art", "behavioral", "buddhism"]
+trigger_keywords: ["《本觉妙明》Brilliant", "Sanity"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "shambhala/gyam/trungpa"
 ---
 # 《本觉妙明》Brilliant Sanity
 

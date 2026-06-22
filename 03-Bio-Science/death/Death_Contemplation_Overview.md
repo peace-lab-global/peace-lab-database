@@ -1,7 +1,6 @@
 ---
-
 title: "Death Contemplation Overview (白骨观、死亡观与向死而生概览)"
-description: "Death Contemplation Overview (白骨观、死亡观与向死而生概览)的详细解析与实践指南"
+description: "Death Contemplation Overview (白骨观、死亡观与向死而生概览) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["addiction", "attachment", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Death Contemplation Overview"
   - "Death Contemplation Overview的核心概念"
   - "Death Contemplation Overview的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["Death", "Contemplation", "Overview", "白骨观", "死亡观与向死而生概览"]
+cross_refs: []
 ---
 # Death Contemplation Overview (白骨观、死亡观与向死而生概览)
 

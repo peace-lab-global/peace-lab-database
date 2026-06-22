@@ -1,7 +1,6 @@
 ---
-
 title: "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切"
-description: "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的详细解析与实践指南"
+description: "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切 —— 佛教 · Dzongsar Khyentse 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse"
 tags: ["buddhism", "cinema", "dzogchen", "philosophy", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切"
   - "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的核心概念"
   - "Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切的方法与实践"
-trigger_keywords: ["宗萨蒋扬钦哲仁波切", "act", "buddhism", "cinema", "death"]
+trigger_keywords: ["宗萨蒋扬钦哲仁波切", "cinema"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Lucid_Dreaming.md"
-    relation: "buddhism/death/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "jamyang/khyentse/dzongsar"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "jamyang/khyentse/dzongsar"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "jamyang/khyentse/dzongsar"
 ---
 # Dzongsar Jamyang Khyentse Rinpoche | 宗萨蒋扬钦哲仁波切
 

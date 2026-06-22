@@ -1,7 +1,6 @@
 ---
-
 title: "rehabilitation-therapy | Index"
-description: "rehabilitation-therapy | Index的详细解析与实践指南"
+description: "rehabilitation-therapy | Index —— 芭蕾 · Rehabilitation Therapy 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Rehabilitation Therapy"
 tags: ["art-therapy", "芭蕾", "ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是rehabilitation-therapy | Index"
   - "rehabilitation-therapy | Index的核心概念"
   - "rehabilitation-therapy | Index的方法与实践"
-trigger_keywords: ["Index", "艺术", "芭蕾"]
+trigger_keywords: ["艺术", "芭蕾"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/INDEX.md"
+    relation: "ballet/contents"
 ---
 # rehabilitation-therapy | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《关于死亡与濒死》On Death and Dying"
-description: "《关于死亡与濒死》On Death and Dying的详细解析与实践指南"
+description: "《关于死亡与濒死》On Death and Dying —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["depression", "loneliness", "phobia", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《关于死亡与濒死》On Death and Dying"
   - "《关于死亡与濒死》On Death and Dying的核心概念"
   - "《关于死亡与濒死》On Death and Dying的方法与实践"
-trigger_keywords: ["buddhism", "death", "depression", "exercise"]
+trigger_keywords: ["depression", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/communication"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-
+    relation: "临终/death/死亡"
+  - path: "03-Bio-Science/death/Death_Modern_Applications.md"
+    relation: "death/临终/死亡"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/INDEX.md"
+    relation: "dying/死亡/临终"
 ---
 # 《关于死亡与濒死》On Death and Dying
 

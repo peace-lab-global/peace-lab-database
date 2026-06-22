@@ -1,6 +1,6 @@
 ---
 title: "音乐学"
-description: "音乐学的详细解析与实践指南"
+description: "音乐学 —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["music", "讲座"]
 last_updated: "2026-05"

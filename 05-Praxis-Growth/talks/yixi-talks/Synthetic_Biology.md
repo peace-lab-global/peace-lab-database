@@ -1,6 +1,6 @@
 ---
 title: "合成生物学"
-description: "合成生物学的详细解析与实践指南"
+description: "合成生物学 —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["讲座"]
 last_updated: "2026-05"

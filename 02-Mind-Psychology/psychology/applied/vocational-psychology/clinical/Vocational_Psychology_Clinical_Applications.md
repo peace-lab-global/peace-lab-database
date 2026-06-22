@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学临床应用与治疗干预 (Vocational Psychology Clinical Applications & Interventions)"
-description: "职业心理学临床应用与治疗干预 (Vocational Psychology Clinical Applications & Interventions)的详细解析与实践指南"
+description: "职业心理学临床应用与治疗干预 (Vocational Psychology Clinical Applications & Interventions) —— Vocational Psychology · 临床心理 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > 临床心理"
 tags: ["anxiety", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "职业心理学临床应用与治疗干预的核心概念"
   - "职业心理学临床应用与治疗干预的方法与实践"
   - "职业心理学临床应用与治疗干预的循证证据"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["职业心理学临床应用与治疗干预", "Vocational", "Psychology", "Clinical", "Applications"]
+cross_refs: []
 ---
 # 职业心理学临床应用与治疗干预 (Vocational Psychology Clinical Applications & Interventions)
 

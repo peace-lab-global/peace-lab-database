@@ -1,6 +1,6 @@
 ---
 title: "yixi-talks | Index"
-description: "yixi-talks | Index的详细解析与实践指南"
+description: "yixi-talks | Index —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是yixi-talks | Index"
   - "yixi-talks | Index的核心概念"
   - "yixi-talks | Index的方法与实践"
-trigger_keywords: ["yixi-talks", "Index", "讲座"]
+trigger_keywords: ["yixi-talks", "讲座"]
 cross_refs: []
 ---
 # yixi-talks | Index

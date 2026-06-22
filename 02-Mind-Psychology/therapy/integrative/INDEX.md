@@ -2,6 +2,7 @@
 title: 整合取向
 description: EMDR、IPT、MBCT 等整合体验取向疗法
 tags: [emdr, ipt, mbct, compassion, integrative]
+cross_refs: []
 ---
 
 # 整合取向 (Integrative)

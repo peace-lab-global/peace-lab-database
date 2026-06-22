@@ -1,7 +1,6 @@
 ---
-
 title: "《最好的照护》The Best Care Possible"
-description: "《最好的照护》The Best Care Possible的详细解析与实践指南"
+description: "《最好的照护》The Best Care Possible —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["decision-making", "grief"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《最好的照护》The Best Care Possible"
   - "《最好的照护》The Best Care Possible的核心概念"
   - "《最好的照护》The Best Care Possible的方法与实践"
-trigger_keywords: ["body", "breathwork", "clinical", "communication"]
+trigger_keywords: ["《最好的照护》The", "Best", "Care", "Possible"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
+  - path: "03-Bio-Science/death/Death_Mental_Illness_End_of_Life.md"
+    relation: "临终/care/best"
   - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/depression/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "communication/death/depression"
-
+    relation: "临终/care"
 ---
 # 《最好的照护》The Best Care Possible
 

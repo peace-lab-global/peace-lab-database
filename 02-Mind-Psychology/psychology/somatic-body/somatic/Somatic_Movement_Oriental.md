@@ -1,7 +1,6 @@
 ---
-
 title: "Oriental Internal Movement (东方内家运动)"
-description: "Oriental Internal Movement (东方内家运动)的详细解析与实践指南"
+description: "Oriental Internal Movement (东方内家运动) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "depression", "gut"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Oriental Internal Movement"
   - "Oriental Internal Movement的核心概念"
   - "Oriental Internal Movement的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+trigger_keywords: ["Oriental", "Internal", "Movement", "东方内家运动"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "daoism/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/daoism/depression"
-
+  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Internal_Power.md"
+    relation: "jin/internal/太极"
+  - path: "01-Wisdom-Traditions/tai-chi/schools-lineage/TaiChi_Contemporary_Styles.md"
+    relation: "太极/chi/tai"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
+    relation: "太极/chi/tai"
+  - path: "01-Wisdom-Traditions/tai-chi/teaching-pedagogy/TaiChi_Teaching_Methodology.md"
+    relation: "太极/chi/tai"
 ---
 # Oriental Internal Movement (东方内家运动)
 

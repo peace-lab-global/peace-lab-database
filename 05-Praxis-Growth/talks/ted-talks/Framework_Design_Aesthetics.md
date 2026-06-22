@@ -1,7 +1,6 @@
 ---
-
 title: "视觉设计 | Design Aesthetics"
-description: "视觉设计 | Design Aesthetics的详细解析与实践指南"
+description: "视觉设计 | Design Aesthetics —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是视觉设计 | Design Aesthetics"
   - "视觉设计 | Design Aesthetics的核心概念"
   - "视觉设计 | Design Aesthetics的方法与实践"
-trigger_keywords: ["视觉设计", "act", "art", "behavioral", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["视觉设计", "Design", "Aesthetics"]
+cross_refs: []
 ---
 # 视觉设计 | Design Aesthetics
 

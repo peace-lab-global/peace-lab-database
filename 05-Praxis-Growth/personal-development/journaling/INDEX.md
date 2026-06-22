@@ -1,7 +1,6 @@
 ---
-
 title: "journaling | Index"
-description: "journaling | Index的详细解析与实践指南"
+description: "journaling | Index —— 个人发展 · Journaling 专题"
 category: "实践与个人增长 > 个人发展 > Journaling"
 tags: ["treatment", "writing", "个人发展"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是journaling | Index"
   - "journaling | Index的核心概念"
   - "journaling | Index的方法与实践"
-trigger_keywords: ["journaling", "Index", "psychology", "sexuality", "treatment", "writing"]
+trigger_keywords: ["journaling", "treatment", "writing"]
 cross_refs: []
-
 ---
 # journaling | Index
 

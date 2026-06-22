@@ -1,7 +1,6 @@
 ---
-
 title: "《四圣谛》The Four Noble Truths"
-description: "《四圣谛》The Four Noble Truths的详细解析与实践指南"
+description: "《四圣谛》The Four Noble Truths —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《四圣谛》The Four Noble Truths"
   - "《四圣谛》The Four Noble Truths的核心概念"
   - "《四圣谛》The Four Noble Truths的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "emotion", "sexuality"]
+trigger_keywords: ["《四圣谛》The", "Four", "Noble", "Truths"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/emotion/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/INDEX.md"
+    relation: "noble/truths/four"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
+    relation: "noble/truths/dukkha"
+  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
+    relation: "noble/truths/dukkha"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/INDEX.md"
+    relation: "noble/truths/four"
 ---
 # 《四圣谛》The Four Noble Truths
 

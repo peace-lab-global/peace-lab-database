@@ -1,7 +1,6 @@
 ---
-
 title: "wisdom-traditions | Index"
-description: "wisdom-traditions | Index的详细解析与实践指南"
+description: "wisdom-traditions | Index —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["宗教与灵性", "智慧传统", "christianity", "mahamudra", "islam", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是wisdom-traditions | Index"
   - "wisdom-traditions | Index的核心概念"
   - "wisdom-traditions | Index的方法与实践"
-trigger_keywords: ["Index", "宗教与灵性", "智慧传统"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality/therapy"
-
+trigger_keywords: ["宗教与灵性", "智慧传统"]
+cross_refs: []
 ---
 # wisdom-traditions | Index
 

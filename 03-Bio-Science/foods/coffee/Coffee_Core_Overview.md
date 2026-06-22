@@ -1,7 +1,6 @@
 ---
-
 title: "Coffee Therapy & Coffee Culture (咖啡疗法与咖啡文化)"
-description: "Coffee Therapy & Coffee Culture (咖啡疗法与咖啡文化)的详细解析与实践指南"
+description: "Coffee Therapy & Coffee Culture (咖啡疗法与咖啡文化) —— 营养学 · Coffee 专题"
 category: "生命科学与生物医学 > 营养学 > Coffee"
 tags: ["addiction", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Coffee Therapy & Coffee Culture"
   - "Coffee Therapy & Coffee Culture的核心概念"
   - "Coffee Therapy & Coffee Culture的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Coffee", "Therapy", "Culture", "咖啡疗法与咖啡文化"]
+cross_refs: []
 ---
 # Coffee Therapy & Coffee Culture (咖啡疗法与咖啡文化)
 

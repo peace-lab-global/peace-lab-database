@@ -1,7 +1,6 @@
 ---
-
 title: "正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)"
-description: "正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)的详细解析与实践指南"
+description: "正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT) —— 个人发展 · Mindfulness 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "正念认知疗法的核心概念"
   - "正念认知疗法的方法与实践"
   - "正念认知疗法的循证证据"
-trigger_keywords: ["正念认知疗法", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["正念认知疗法", "Mindfulness-Based", "Cognitive", "Therapy", "MBCT"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/25-Digital-Assessment-Tools.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "02-Mind-Psychology/therapy/integrative/mbct-therapy/MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md"
+    relation: "mbct/正念认知/mindfulness-based"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Mindfulness_Approaches.md"
+    relation: "mbct/mindfulness-based/mbsr"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
+    relation: "mbct/mindfulness-based/正念认知"
+  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
+    relation: "mbct/疗法/mbsr"
 ---
 # 正念认知疗法 (Mindfulness-Based Cognitive Therapy, MBCT)
 

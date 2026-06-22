@@ -1,7 +1,6 @@
 ---
-
 title: "Therapist Self Care"
-description: "Therapist Self Care的详细解析与实践指南"
+description: "Therapist Self Care —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["brain", "decision-making", "mbsr", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Therapist Self Care"
   - "Therapist Self Care的核心概念"
   - "Therapist Self Care的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "communication/depression/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "communication/depression/emotion"
-
+trigger_keywords: ["Therapist", "Self", "Care"]
+cross_refs: []
 ---
 ## 20. 治疗师自我照顾与督导
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《最好的告别》Being Mortal"
-description: "《最好的告别》Being Mortal的详细解析与实践指南"
+description: "《最好的告别》Being Mortal —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《最好的告别》Being Mortal"
   - "《最好的告别》Being Mortal的核心概念"
   - "《最好的告别》Being Mortal的方法与实践"
-trigger_keywords: ["act", "aging", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/exercise"
-
+trigger_keywords: ["《最好的告别》Being", "Mortal"]
+cross_refs: []
 ---
 # 《最好的告别》Being Mortal
 

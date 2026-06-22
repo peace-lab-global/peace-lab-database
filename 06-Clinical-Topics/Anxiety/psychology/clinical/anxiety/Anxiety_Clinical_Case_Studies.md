@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑症临床案例分析 Anxiety Clinical Case Studies"
-description: "焦虑症临床案例分析 Anxiety Clinical Case Studies的详细解析与实践指南"
+description: "焦虑症临床案例分析 Anxiety Clinical Case Studies —— 临床心理 · 焦虑症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑症临床案例分析 Anxiety Clinical Case Studies的核心概念"
   - "焦虑症临床案例分析 Anxiety Clinical Case Studies的方法与实践"
   - "焦虑症临床案例分析 Anxiety Clinical Case Studies的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-preludes/Chopin_Preludes_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["焦虑症临床案例分析", "Anxiety", "Clinical", "Case", "Studies"]
+cross_refs: []
 ---
 # 焦虑症临床案例分析 Anxiety Clinical Case Studies
 

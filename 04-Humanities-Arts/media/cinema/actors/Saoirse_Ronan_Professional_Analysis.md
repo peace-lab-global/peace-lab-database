@@ -1,7 +1,6 @@
 ---
-
 title: "Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长"
-description: "Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长的详细解析与实践指南"
+description: "Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长"
   - "Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长的核心概念"
   - "Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Transformation_Process.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["Saoirse", "Ronan", "专业分析：爱尔兰新生代演技天才的艺术成长"]
+cross_refs: []
 ---
 # Saoirse Ronan 专业分析：爱尔兰新生代演技天才的艺术成长
 

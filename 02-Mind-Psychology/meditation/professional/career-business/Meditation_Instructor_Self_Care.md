@@ -1,7 +1,6 @@
 ---
-
 title: "冥想导师自我关照（Meditation Instructor Self-Care）"
-description: "冥想导师自我关照（Meditation Instructor Self-Care）的详细解析与实践指南"
+description: "冥想导师自我关照（Meditation Instructor Self-Care） —— 冥想 · Career Business 专题"
 category: "心智与心理学 > 冥想 > Career Business"
 tags: ["anxiety", "depression", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想导师自我关照（Meditation Instructor Self-Care）"
   - "冥想导师自我关照（Meditation Instructor Self-Care）的核心概念"
   - "冥想导师自我关照（Meditation Instructor Self-Care）的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["冥想导师自我关照", "Meditation", "Instructor", "Self-Care"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/daoism/depression"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "daoism/depression/emotion"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "README.md"
-    relation: "anxiety/daoism/emotion"
-
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Instructor_Self_Care.md"
+    relation: "self-care/instructor/瑜伽"
 ---
 # 冥想导师自我关照（Meditation Instructor Self-Care）
 

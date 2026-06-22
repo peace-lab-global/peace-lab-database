@@ -1,7 +1,6 @@
 ---
-
 title: "独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)"
-description: "独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)的详细解析与实践指南"
+description: "独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["anxiety", "brain", "cortisol", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是独处神经科学：大脑如何在独处中修复与生长"
   - "独处神经科学：大脑如何在独处中修复与生长的核心概念"
   - "独处神经科学：大脑如何在独处中修复与生长的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "brain"]
+trigger_keywords: ["独处神经科学：大脑如何在独处中修复与生长", "Neuroscience", "of", "Solitude"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/weight-loss/Weight_Loss_Psychology.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md"
+    relation: "dmn/默认模式/前额叶"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+    relation: "默认模式/神经科学"
+  - path: "03-Bio-Science/biology/body-shame/research/Body_Shame_Research_Framework.md"
+    relation: "默认模式/dmn/前额叶"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "默认模式/前额叶/神经科学"
 ---
 # 独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)
 

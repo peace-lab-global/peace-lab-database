@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-Anxiety Agent Skills — 技能协议"
-description: "Anti-Anxiety Agent Skills — 技能协议的详细解析与实践指南"
+description: "Anti-Anxiety Agent Skills — 技能协议 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "sleep", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anti-Anxiety Agent Skills — 技能协议"
   - "Anti-Anxiety Agent Skills — 技能协议的核心概念"
   - "Anti-Anxiety Agent Skills — 技能协议的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Anti-Anxiety", "Agent", "Skills", "技能协议"]
+cross_refs: []
 ---
 # Anti-Anxiety Agent Skills — 技能协议
 

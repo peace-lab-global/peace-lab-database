@@ -1,7 +1,6 @@
 ---
-
 title: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)"
-description: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)的详细解析与实践指南"
+description: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge) —— 智慧传承 专题"
 category: "智慧传承"
 tags: ["buddhism", "cbt", "meditation", "philosophy", "christianity", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是智慧传承中的独处哲学资源索引"
   - "智慧传承中的独处哲学资源索引的核心概念"
   - "智慧传承中的独处哲学资源索引的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["智慧传承中的独处哲学资源索引", "Solitude", "Wisdom", "Bridge"]
 cross_refs:
-  - path: "03-Bio-Science/death/INDEX.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/psychology/social/solitude/INDEX.md"
+    relation: "solitude/bridge/智慧"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Philosophy.md"
+    relation: "solitude/道家/智慧"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/shen-tzu.md"
+    relation: "无为/道家/智慧"
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Loneliness_Bridge.md"
+    relation: "bridge/solitude"
 ---
 # 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)
 

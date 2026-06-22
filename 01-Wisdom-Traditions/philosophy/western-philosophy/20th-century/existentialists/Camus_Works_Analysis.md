@@ -1,7 +1,6 @@
 ---
-
 title: "加缪主要作品深度分析"
-description: "加缪主要作品深度分析的详细解析与实践指南"
+description: "加缪主要作品深度分析 —— 20Th Century · Existentialists 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是加缪主要作品深度分析"
   - "加缪主要作品深度分析的核心概念"
   - "加缪主要作品深度分析的方法与实践"
-trigger_keywords: ["加缪主要作品深度分析", "anxiety", "art", "behavioral", "child"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["加缪主要作品深度分析"]
+cross_refs: []
 ---
 # 加缪主要作品深度分析
 

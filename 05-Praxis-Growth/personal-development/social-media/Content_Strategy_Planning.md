@@ -1,7 +1,6 @@
 ---
-
 title: "自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης"
-description: "自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης的详细解析与实践指南"
+description: "自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης"
   - "自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης的核心概念"
   - "自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης的方法与实践"
-trigger_keywords: ["自媒体内容策略规划", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["自媒体内容策略规划", "Content", "Strategy", "Planning", "for"]
+cross_refs: []
 ---
 # 自媒体内容策略规划 | Content Strategy Planning for Social Media | Σχεδιασμός Στρατηγικής Περιεχομένου για τα Μέσα Κοινωνικής Δικτύωσης
 

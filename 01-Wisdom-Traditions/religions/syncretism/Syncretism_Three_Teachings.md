@@ -1,7 +1,6 @@
 ---
-
 title: "Syncretism: Three Teachings in One (三教合一：儒释道融合体系)"
-description: "Syncretism: Three Teachings in One (三教合一：儒释道融合体系)的详细解析与实践指南"
+description: "Syncretism: Three Teachings in One (三教合一：儒释道融合体系) —— 宗教与灵性 · 宗教融合 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教融合"
 tags: ["buddhism", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Syncretism: Three Teachings in One"
   - "Syncretism: Three Teachings in One的核心概念"
   - "Syncretism: Three Teachings in One的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Syncretism:", "Three", "Teachings", "in", "One"]
+cross_refs: []
 ---
 # Syncretism: Three Teachings in One (三教合一：儒释道融合体系)
 

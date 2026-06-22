@@ -1,7 +1,6 @@
 ---
-
 title: "电影疗法实践指南 (Cinema Therapy Practice Guide)"
-description: "电影疗法实践指南 (Cinema Therapy Practice Guide)的详细解析与实践指南"
+description: "电影疗法实践指南 (Cinema Therapy Practice Guide) —— 电影 · Cinema Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Cinema Therapy"
 tags: ["addiction", "cinema"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "电影疗法实践指南的核心概念"
   - "电影疗法实践指南的方法与实践"
   - "电影疗法实践指南的循证证据"
-trigger_keywords: ["电影疗法实践指南", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["电影疗法实践指南", "Cinema", "Therapy", "Practice", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/communication/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/communication/depression"
-
+  - path: "02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Clinical_Interventions.md"
+    relation: "创伤/安全计划"
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
+    relation: "创伤/疗法/认知重构"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy_Techniques.md"
+    relation: "疗法/therapy/创伤"
+  - path: "02-Mind-Psychology/therapy/integrative/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
+    relation: "疗法/认知重构"
 ---
 # 电影疗法实践指南 (Cinema Therapy Practice Guide)
 

@@ -13,10 +13,14 @@ intent_queries:
   - "太极对心脏病的康复"
 trigger_keywords: ["高血压", "冠心病", "糖尿病", "心血管", "代谢"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md"
-    relation: "clinical-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Exercise_Nutrition.md"
+    relation: "运动/cardiovascular/血压"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
+    relation: "血压/cardiovascular/心率"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Health_Overview.md"
+    relation: "cardiovascular/运动/心率"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "血压/运动/mmhg"
 ---
 # 心血管与代谢健康 | Cardiovascular & Metabolic Health
 

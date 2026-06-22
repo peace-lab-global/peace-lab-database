@@ -1,7 +1,6 @@
 ---
-
 title: "人格发展与改变 (Personality Development & Change)"
-description: "人格发展与改变 (Personality Development & Change)的详细解析与实践指南"
+description: "人格发展与改变 (Personality Development & Change) —— 心理学基础 · 人格心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
 tags: ["anxiety", "attachment", "brain", "cbt", "personality", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是人格发展与改变"
   - "人格发展与改变的核心概念"
   - "人格发展与改变的方法与实践"
-trigger_keywords: ["人格发展与改变", "act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["人格发展与改变", "Personality", "Development", "Change"]
+cross_refs: []
 ---
 # 人格发展与改变 (Personality Development & Change)
 

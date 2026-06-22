@@ -1,7 +1,6 @@
 ---
-
 title: "TED艺术与文化精选 | TED Arts & Culture Collection"
-description: "TED艺术与文化精选 | TED Arts & Culture Collection的详细解析与实践指南"
+description: "TED艺术与文化精选 | TED Arts & Culture Collection —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["healing", "music", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED艺术与文化精选 | TED Arts & Culture Collection"
   - "TED艺术与文化精选 | TED Arts & Culture Collection的核心概念"
   - "TED艺术与文化精选 | TED Arts & Culture Collection的方法与实践"
-trigger_keywords: ["TED艺术与文化精选", "art", "body", "death", "healing"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "communication/death/emotion"
-
+trigger_keywords: ["TED艺术与文化精选", "healing"]
+cross_refs: []
 ---
 # TED艺术与文化精选 | TED Arts & Culture Collection
 

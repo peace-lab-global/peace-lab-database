@@ -1,7 +1,6 @@
 ---
-
 title: "艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας"
-description: "艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας的详细解析与实践指南"
+description: "艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας —— Incense · Moxibustion 专题"
 category: "心智与心理学 > 疗法 > Incense > Moxibustion"
 tags: ["addiction", "anxiety", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας"
   - "艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας的核心概念"
   - "艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας的方法与实践"
-trigger_keywords: ["艾灸现代研究综述", "addiction", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/spa/SPA_Physiological_Psychological_Effects.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["艾灸现代研究综述", "Modern", "Research", "Review", "of"]
+cross_refs: []
 ---
 # 艾灸现代研究综述 | Modern Research Review of Moxibustion | Σύγχρονη Επισκόπηση Έρευνας Μόξας
 

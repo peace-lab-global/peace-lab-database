@@ -1,7 +1,6 @@
 ---
-
 title: "绘画疗法概览 (Art Therapy Overview)"
-description: "绘画疗法概览 (Art Therapy Overview)的详细解析与实践指南"
+description: "绘画疗法概览 (Art Therapy Overview) —— 艺术 · 艺术疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "绘画疗法概览的核心概念"
   - "绘画疗法概览的方法与实践"
   - "绘画疗法概览的循证证据"
-trigger_keywords: ["绘画疗法概览", "adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["绘画疗法概览", "Art", "Therapy", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md"
+    relation: "development/疗法/theoretical"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-assessment/Child_Development_Psychological_Assessment.md"
+    relation: "development/assessment/theoretical"
 ---
 # 绘画疗法概览 (Art Therapy Overview)
 

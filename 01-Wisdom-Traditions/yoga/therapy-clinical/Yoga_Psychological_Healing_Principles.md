@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽心理疗愈原理专业内容体系"
-description: "瑜伽心理疗愈原理专业内容体系的详细解析与实践指南"
+description: "瑜伽心理疗愈原理专业内容体系 —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "瑜伽心理疗愈原理专业内容体系的核心概念"
   - "瑜伽心理疗愈原理专业内容体系的方法与实践"
   - "瑜伽心理疗愈原理专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["瑜伽心理疗愈原理专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训.md"
+    relation: "瑜伽/冥想"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C1-homework.md"
+    relation: "冥想/瑜伽/呼吸"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
+    relation: "呼吸法/呼吸/瑜伽"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/瑜伽"
 ---
 # 瑜伽心理疗愈原理专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)"
-description: "正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)的详细解析与实践指南"
+description: "正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide) —— Mindfulness · Mindful Daily Living 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念饮水专业实践指南"
   - "正念饮水专业实践指南的核心概念"
   - "正念饮水专业实践指南的方法与实践"
-trigger_keywords: ["正念饮水专业实践指南", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["正念饮水专业实践指南", "Mindful", "Drinking:", "Professional", "Practice"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/digital-hoarding/Digital_Hoarding_Treatment.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/觉察"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "正念/觉察"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "正念/mindful/觉察"
+  - path: "02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Overview.md"
+    relation: "正念/table/觉察"
 ---
 # 正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)
 

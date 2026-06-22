@@ -1,7 +1,6 @@
 ---
-
 title: "《直视骄阳》Staring at the Sun"
-description: "《直视骄阳》Staring at the Sun的详细解析与实践指南"
+description: "《直视骄阳》Staring at the Sun —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《直视骄阳》Staring at the Sun"
   - "《直视骄阳》Staring at the Sun的核心概念"
   - "《直视骄阳》Staring at the Sun的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["《直视骄阳》Staring", "at", "the", "Sun"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
+    relation: "存在主义/死亡/焦虑"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "死亡/焦虑/障碍"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "恐惧/焦虑"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "存在主义/死亡/恐惧"
 ---
 # 《直视骄阳》Staring at the Sun
 

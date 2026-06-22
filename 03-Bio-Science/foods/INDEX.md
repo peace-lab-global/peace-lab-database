@@ -1,7 +1,6 @@
 ---
-
 title: "foods | Index"
-description: "foods | Index的详细解析与实践指南"
+description: "foods | Index —— 生命科学与生物医学 · 营养学 专题"
 category: "生命科学与生物医学 > 营养学"
 tags: ["营养学", "nutrition"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是foods | Index"
   - "foods | Index的核心概念"
   - "foods | Index的方法与实践"
-trigger_keywords: ["foods", "Index", "营养学"]
+trigger_keywords: ["foods", "营养学"]
 cross_refs: []
-
 ---
 # foods | Index
 

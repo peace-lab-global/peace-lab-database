@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法历史与文化 (Incense History & Cultural Context)"
-description: "檀香疗法历史与文化 (Incense History & Cultural Context)的详细解析与实践指南"
+description: "檀香疗法历史与文化 (Incense History & Cultural Context) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["brain", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法历史与文化的核心概念"
   - "檀香疗法历史与文化的方法与实践"
   - "檀香疗法历史与文化的循证证据"
-trigger_keywords: ["檀香疗法历史与文化", "act", "art", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "buddhism/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/exercise"
-
+trigger_keywords: ["檀香疗法历史与文化", "Incense", "History", "Cultural", "Context"]
+cross_refs: []
 ---
 # 檀香疗法历史与文化 (Incense History & Cultural Context)
 

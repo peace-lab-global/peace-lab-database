@@ -1,7 +1,6 @@
 ---
-
 title: "TED演讲内容体系全面查漏补缺报告"
-description: "TED演讲内容体系全面查漏补缺报告的详细解析与实践指南"
+description: "TED演讲内容体系全面查漏补缺报告 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED演讲内容体系全面查漏补缺报告"
   - "TED演讲内容体系全面查漏补缺报告的核心概念"
   - "TED演讲内容体系全面查漏补缺报告的方法与实践"
-trigger_keywords: ["assessment", "body", "developmental", "neuroscience"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "communication/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/sexuality"
-
+trigger_keywords: ["neuroscience", "TED演讲内容体系全面查漏补缺报告"]
+cross_refs: []
 ---
 # TED演讲内容体系全面查漏补缺报告
 ## TED Talks Content System Comprehensive Gap Analysis and Enhancement Report

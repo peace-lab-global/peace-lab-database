@@ -1,7 +1,6 @@
 ---
-
 title: "儿童社会性发展与同伴关系专业指南"
-description: "儿童社会性发展与同伴关系专业指南的详细解析与实践指南"
+description: "儿童社会性发展与同伴关系专业指南 —— Child Development Psychology · Social Emotional 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Social Emotional"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是儿童社会性发展与同伴关系专业指南"
   - "儿童社会性发展与同伴关系专业指南的核心概念"
   - "儿童社会性发展与同伴关系专业指南的方法与实践"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/authority-complex/Teacher_Coach_Complex.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/psychology/Psychology_Aesthetics.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["儿童社会性发展与同伴关系专业指南"]
+cross_refs: []
 ---
 # 儿童社会性发展与同伴关系专业指南
 

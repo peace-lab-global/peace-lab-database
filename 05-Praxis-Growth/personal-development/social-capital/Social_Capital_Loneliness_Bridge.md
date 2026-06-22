@@ -1,7 +1,6 @@
 ---
-
 title: "社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)"
-description: "社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)的详细解析与实践指南"
+description: "社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge) —— 个人发展 · Social Capital 专题"
 category: "实践与个人增长 > 个人发展 > Social Capital"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是社交资本与孤独的转化桥梁"
   - "社交资本与孤独的转化桥梁的核心概念"
   - "社交资本与孤独的转化桥梁的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["社交资本与孤独的转化桥梁", "Social", "Capital", "Loneliness", "Bridge"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Loneliness_Bridge.md"
+    relation: "bridge/loneliness"
+  - path: "02-Mind-Psychology/psychology/social/solitude/INDEX.md"
+    relation: "bridge/loneliness"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/INDEX.md"
+    relation: "loneliness/social"
 ---
 # 社交资本与孤独的转化桥梁 (Social Capital × Loneliness Bridge)
 

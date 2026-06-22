@@ -1,7 +1,6 @@
 ---
-
 title: "《心理学与炼金术》Psychology and Alchemy"
-description: "《心理学与炼金术》Psychology and Alchemy的详细解析与实践指南"
+description: "《心理学与炼金术》Psychology and Alchemy —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["depression", "jung", "literature"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "《心理学与炼金术》Psychology and Alchemy的核心概念"
   - "《心理学与炼金术》Psychology and Alchemy的方法与实践"
   - "《心理学与炼金术》Psychology and Alchemy的自助方法"
-trigger_keywords: ["buddhism", "death", "depression", "jung"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/Book_Review.md"
-    relation: "buddhism/death/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
-    relation: "buddhism/death/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Water_Land_Dharma.md"
-    relation: "buddhism/death/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Funeral_Rites.md"
-    relation: "buddhism/death/depression"
-
+trigger_keywords: ["depression", "jung"]
+cross_refs: []
 ---
 # 《心理学与炼金术》Psychology and Alchemy
 

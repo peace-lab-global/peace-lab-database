@@ -1,6 +1,6 @@
 ---
 title: "enlightenment | Index"
-description: "enlightenment | Index的详细解析与实践指南"
+description: "enlightenment | Index —— Western Philosophy · Enlightenment 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Enlightenment"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是enlightenment | Index"
   - "enlightenment | Index的核心概念"
   - "enlightenment | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "enlightenment"]
 cross_refs: []
 ---
 # enlightenment | Index

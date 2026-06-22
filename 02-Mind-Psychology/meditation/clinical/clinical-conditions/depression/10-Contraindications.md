@@ -1,7 +1,6 @@
 ---
-
 title: "Contraindications"
-description: "Contraindications的详细解析与实践指南"
+description: "Contraindications —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["cbt", "depression", "mbct", "meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Contraindications"
   - "Contraindications的核心概念"
   - "Contraindications的方法与实践"
-trigger_keywords: ["cbt", "clinical", "crisis", "depression"]
+trigger_keywords: ["cbt", "depression"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/emotion/meditation"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "depression/emotion/meditation"
   - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "depression/emotion/meditation"
-  - path: "GLOSSARY.md"
-    relation: "depression/emotion/meditation"
-
+    relation: "正念/抑郁/障碍"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/障碍"
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "自杀/抑郁/障碍"
 ---
 ## 10. 禁忌症与安全注意事项
 

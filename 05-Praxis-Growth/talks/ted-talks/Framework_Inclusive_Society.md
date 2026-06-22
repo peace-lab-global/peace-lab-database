@@ -1,7 +1,6 @@
 ---
-
 title: "包容社会 | Inclusive Society Framework"
-description: "包容社会 | Inclusive Society Framework的详细解析与实践指南"
+description: "包容社会 | Inclusive Society Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是包容社会 | Inclusive Society Framework"
   - "包容社会 | Inclusive Society Framework的核心概念"
   - "包容社会 | Inclusive Society Framework的方法与实践"
-trigger_keywords: ["包容社会", "assessment", "behavioral", "brain", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["包容社会", "decision-making"]
+cross_refs: []
 ---
 # 包容社会 | Inclusive Society Framework
 

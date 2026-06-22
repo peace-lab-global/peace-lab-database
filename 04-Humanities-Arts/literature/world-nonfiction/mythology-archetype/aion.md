@@ -1,7 +1,6 @@
 ---
-
 title: "《艾翁》Aion"
-description: "《艾翁》Aion的详细解析与实践指南"
+description: "《艾翁》Aion —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《艾翁》Aion"
   - "《艾翁》Aion的核心概念"
   - "《艾翁》Aion的方法与实践"
-trigger_keywords: ["《艾翁》Aion", "death", "developmental", "jung", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/death/sexuality"
-
+trigger_keywords: ["《艾翁》Aion", "jung"]
+cross_refs: []
 ---
 # 《艾翁》Aion
 

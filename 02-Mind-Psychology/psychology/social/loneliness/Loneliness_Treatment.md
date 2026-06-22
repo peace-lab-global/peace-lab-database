@@ -1,7 +1,6 @@
 ---
-
 title: "Loneliness Treatment & Relational Interventions (孤独疗愈与婚内孤独干预)"
-description: "Loneliness Treatment & Relational Interventions (孤独疗愈与婚内孤独干预)的详细解析与实践指南"
+description: "Loneliness Treatment & Relational Interventions (孤独疗愈与婚内孤独干预) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Loneliness Treatment & Relational Interventions"
   - "Loneliness Treatment & Relational Interventions的核心概念"
   - "Loneliness Treatment & Relational Interventions的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["Loneliness", "Treatment", "Relational", "Interventions", "孤独疗愈与婚内孤独干预"]
+cross_refs: []
 ---
 # Loneliness Treatment & Relational Interventions (孤独疗愈与婚内孤独干预)
 

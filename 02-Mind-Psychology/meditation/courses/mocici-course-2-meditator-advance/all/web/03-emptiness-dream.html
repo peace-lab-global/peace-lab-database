@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<meta name="theme-color" content="#0a0a0d" />
+<title>03 缘起性空 · 解构剧场</title>
+<link rel="stylesheet" href="./shared.css" />
+<style>
+  body{background:#0a0a0d}
+
+  /* 背景图：每幕做不同形态的"拆解" */
+  .bg{
+    transition:transform 2.4s cubic-bezier(.6,.2,.2,1), filter 2.4s ease, opacity 1.4s ease;
+    transform-origin:center center;will-change:transform,filter;
+  }
+  body.act1 .bg{transform:scale(1.02);filter:saturate(1.05) brightness(.95)}
+  /* 拆——开始模糊、对比降低，象征"找不到自性" */
+  body.act2 .bg{transform:scale(1.05);filter:saturate(.8) brightness(.85) blur(2px)}
+  /* 散——被切割成碎片（用 mask 实现，bg 自身只是更模糊） */
+  body.act3 .bg{transform:scale(1.1);filter:saturate(.6) brightness(.6) blur(8px);opacity:.45}
+  /* 因缘瓦解 → 整图淡出 */
+  body.act4 .bg{transform:scale(1.18);filter:saturate(.4) brightness(.4) blur(18px);opacity:.2}
+  /* 重新缘聚 → 图重新清晰 */
+  body.act5 .bg{transform:scale(1.04);filter:saturate(1.05) brightness(.95) blur(.5px);opacity:.95}
+  body.act6 .bg{transform:scale(1.02);filter:saturate(1.1) brightness(.95)}
+
+  /* ========== SVG 标注层 ========== */
+  svg.annot{position:absolute;inset:0;width:100%;height:100%;z-index:4;pointer-events:none}
+  svg.annot .layer{opacity:0;transition:opacity 1.4s ease}
+  body.act2 svg.annot .l-question{opacity:1}
+  body.act3 svg.annot .l-shards  {opacity:1}
+  body.act4 svg.annot .l-empty   {opacity:1}
+  body.act5 svg.annot .l-rebuild {opacity:1}
+  body.act6 svg.annot .l-fusion  {opacity:1}
+
+  svg.annot text{
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    fill:#fff;font-size:13px;letter-spacing:.18em;
+    paint-order:stroke;stroke:rgba(0,0,0,.6);stroke-width:3px;
+  }
+  svg.annot .small{font-size:10.5px;letter-spacing:.16em;opacity:.92}
+  svg.annot .gold{fill:#ffd58a;stroke:rgba(80,50,0,.6)}
+  svg.annot .rose{fill:#ffb1c8;stroke:rgba(120,30,60,.6)}
+  svg.annot .sky {fill:#cfe6ff;stroke:rgba(20,40,80,.6)}
+
+  /* 幕 3：因缘碎片漂浮 */
+  .shards{
+    position:absolute;inset:0;z-index:5;pointer-events:none;
+    opacity:0;transition:opacity 1.4s ease;
+  }
+  body.act3 .shards{opacity:1}
+  .shards span{
+    position:absolute;display:inline-block;
+    padding:6px 14px;border-radius:6px;
+    color:#fff;background:rgba(15,15,20,.55);
+    border:1px solid rgba(255,255,255,.2);backdrop-filter:blur(8px);
+    font-size:12.5px;letter-spacing:.2em;
+    animation:shardFloat 7s ease-in-out infinite;
+    text-shadow:0 2px 6px rgba(0,0,0,.6);
+  }
+  @keyframes shardFloat{
+    0%,100%{transform:translateY(0) rotate(-2deg);opacity:.85}
+    50%   {transform:translateY(-12px) rotate(2deg);opacity:1}
+  }
+
+  /* 幕 4：空——粒子散去 */
+  .void-particles{
+    position:absolute;inset:0;z-index:5;pointer-events:none;
+    opacity:0;transition:opacity 1.6s ease;
+  }
+  body.act4 .void-particles, body.act5 .void-particles{opacity:.7}
+  .void-particles i{
+    position:absolute;width:3px;height:3px;border-radius:50%;
+    background:#fff;box-shadow:0 0 10px rgba(255,255,255,.7);
+    animation:voidDrift linear infinite;
+  }
+  @keyframes voidDrift{
+    0%  {transform:translate3d(0,0,0) scale(.4);opacity:0}
+    20% {opacity:.95}
+    100%{transform:translate3d(var(--dx,40px),var(--dy,-160px),0) scale(1.4);opacity:0}
+  }
+
+  /* 幕 4：「空」大字 */
+  .void-glyph{
+    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:6;
+    pointer-events:none;opacity:0;transition:opacity 1.6s ease;text-align:center;
+  }
+  body.act4 .void-glyph{opacity:1}
+  .void-glyph .ch{
+    font-size:clamp(80px,18vw,220px);font-weight:200;color:rgba(255,255,255,.92);
+    letter-spacing:.05em;text-shadow:0 8px 50px rgba(207,230,255,.5);
+    font-family:"Source Han Serif SC","Songti SC",serif;
+  }
+  .void-glyph .sub{
+    margin-top:8px;color:#cfe6ff;font-size:13px;letter-spacing:.4em;opacity:.8;
+  }
+
+  /* 幕 5：碎片回归动画 */
+  .rebuild{
+    position:absolute;inset:0;z-index:5;pointer-events:none;
+    opacity:0;transition:opacity 1.4s ease;
+  }
+  body.act5 .rebuild{opacity:1}
+  .rebuild span{
+    position:absolute;display:inline-block;
+    padding:6px 14px;border-radius:6px;
+    color:#fff;background:rgba(15,15,20,.4);
+    border:1px solid rgba(255,213,138,.45);backdrop-filter:blur(6px);
+    font-size:12px;letter-spacing:.2em;
+    animation:rebuildFloat 6s ease-in-out infinite;
+  }
+  @keyframes rebuildFloat{
+    0%  {transform:translate(var(--fx,0),var(--fy,0)) scale(.5);opacity:0}
+    35% {opacity:1}
+    100%{transform:translate(0,0) scale(1);opacity:.9}
+  }
+
+  /* ========== 文字面板 ========== */
+  .panel{
+    position:fixed;right:32px;top:50%;transform:translateY(-50%);z-index:10;
+    width:min(38vw,420px);
+    background:rgba(15,15,20,.55);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    border:1px solid rgba(255,255,255,.12);
+    border-radius:18px;padding:32px 30px;color:#fff;
+    box-shadow:0 30px 70px rgba(0,0,0,.45);
+    transition:opacity .8s ease,transform .8s ease;
+  }
+  .panel .step{font-size:11.5px;letter-spacing:.4em;color:#c8a96a;margin-bottom:14px}
+  .panel h2{font-size:clamp(22px,2.6vw,30px);font-weight:300;letter-spacing:.18em;margin-bottom:18px;line-height:1.4}
+  .panel p{font-size:14.5px;line-height:2;color:#e8e8ea;letter-spacing:.05em}
+  .panel .quote{margin-top:18px;padding-top:16px;border-top:1px dashed rgba(255,255,255,.2);font-size:13px;color:#ffd58a;letter-spacing:.05em;font-style:italic;line-height:1.9}
+  .panel.fade{opacity:0;transform:translateY(-50%) translateX(20px)}
+  @media (max-width:820px){
+    .panel{right:16px;left:16px;width:auto;top:auto;bottom:130px;transform:none;padding:22px 22px}
+    .panel.fade{transform:translateY(20px)}
+  }
+
+  /* 时间线 */
+  .timeline{
+    position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:11;
+    display:flex;gap:10px;align-items:center;
+    background:rgba(15,15,20,.5);backdrop-filter:blur(10px);
+    padding:10px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.12);
+  }
+  .timeline button{
+    background:none;color:#fff;cursor:pointer;
+    width:30px;height:30px;border-radius:50%;font-size:11px;letter-spacing:.05em;transition:.3s;
+    display:flex;align-items:center;justify-content:center;
+    border:1px solid rgba(255,255,255,.2);
+  }
+  .timeline button.active{background:#fff;color:#1b1b1f;border-color:#fff}
+  .timeline button:hover{border-color:#fff}
+  .timeline .play{width:auto;padding:0 14px;height:30px;border-radius:999px;font-size:11.5px;letter-spacing:.16em;margin-left:6px}
+  .timeline .div{width:1px;height:18px;background:rgba(255,255,255,.18)}
+
+  .hint{
+    position:fixed;left:50%;bottom:80px;transform:translateX(-50%);z-index:9;
+    color:rgba(255,255,255,.55);font-size:11.5px;letter-spacing:.3em;
+    pointer-events:none;animation:hintBlink 4s ease-in-out infinite;
+  }
+  @keyframes hintBlink{0%,100%{opacity:.4}50%{opacity:.85}}
+
+  /* 中央顿悟（act6） */
+  .center-insight{
+    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:6;
+    text-align:center;pointer-events:none;opacity:0;transition:opacity 1.5s ease;
+  }
+  body.act6 .center-insight{opacity:1}
+  .center-insight .eq{
+    font-size:clamp(24px,4.2vw,54px);font-weight:200;letter-spacing:.4em;color:#fff;
+    text-shadow:0 6px 40px rgba(0,0,0,.7);line-height:1.5;
+  }
+  .center-insight .eq b{color:#ffd58a;font-weight:300}
+  .center-insight .eq span.b2{color:#cfe6ff}
+
+  /* HTML 标注层 */
+  .act-labels{position:absolute;inset:0;z-index:5;pointer-events:none}
+  .al{position:absolute;transform:translate(-50%,-50%);white-space:nowrap;
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    font-size:clamp(13px,1.6vw,17px);letter-spacing:.22em;color:#fff;
+    -webkit-text-stroke:0.5px rgba(0,0,0,.35);
+    text-shadow:0 0 8px rgba(0,0,0,.7),0 2px 12px rgba(0,0,0,.5);
+    opacity:0;transition:opacity 1.4s ease}
+  .al.t-sky{color:#cfe6ff}.al.t-gold{color:#ffd58a}.al.t-rose{color:#ffb1c8}
+  .al.t-sm{font-size:clamp(10px,1.2vw,13px);letter-spacing:.18em;opacity:.88}
+  .al.t-lg{font-size:clamp(16px,2.4vw,26px);letter-spacing:.2em}
+  body.act2 .act-labels .l2{opacity:1}body.act3 .act-labels .l3{opacity:1}
+  body.act4 .act-labels .l4{opacity:1}body.act5 .act-labels .l5{opacity:1}
+  body.act6 .act-labels .l6{opacity:1}
+  @media(max-width:640px){
+    .al{font-size:clamp(11px,3.2vw,15px);letter-spacing:.16em}
+    .al.t-sm{font-size:clamp(9px,2.6vw,12px)}
+    .al.t-lg{font-size:clamp(13px,3.6vw,20px)}
+  }
+</style>
+</head>
+<body class="act1">
+  <a class="back" href="./index.html">← 返回</a>
+  <div class="tag">03 / 06 · 缘 起 性 空 · 梦 幻 观</div>
+
+  <div class="stage">
+    <div class="bg"></div>
+
+    <!-- 幕 3：因缘碎片 -->
+    <div class="shards">
+      <span style="left:14%;top:24%;animation-delay:.2s">钢&nbsp;筋</span>
+      <span style="left:30%;top:38%;animation-delay:1.1s">玻&nbsp;璃</span>
+      <span style="left:48%;top:18%;animation-delay:.6s">水&nbsp;泥</span>
+      <span style="left:66%;top:30%;animation-delay:1.4s">人&nbsp;工</span>
+      <span style="left:80%;top:42%;animation-delay:.4s">资&nbsp;本</span>
+      <span style="left:18%;top:58%;animation-delay:1.8s">土&nbsp;地</span>
+      <span style="left:38%;top:62%;animation-delay:.9s">阳&nbsp;光</span>
+      <span style="left:58%;top:58%;animation-delay:1.6s">水</span>
+      <span style="left:74%;top:64%;animation-delay:.3s">风</span>
+      <span style="left:14%;top:78%;animation-delay:1.2s">花&nbsp;籽</span>
+      <span style="left:34%;top:84%;animation-delay:.7s">温&nbsp;度</span>
+      <span style="left:56%;top:80%;animation-delay:1.5s">时&nbsp;间</span>
+      <span style="left:78%;top:82%;animation-delay:.5s">观&nbsp;者</span>
+    </div>
+
+    <!-- 幕 4：粒子归空 -->
+    <div class="void-particles" id="void"></div>
+
+    <!-- 幕 4：「空」大字 -->
+    <div class="void-glyph">
+      <div class="ch">空</div>
+      <div class="sub">无 自 性 · 非 断 灭</div>
+    </div>
+
+    <!-- 幕 5：碎片回归 -->
+    <div class="rebuild">
+      <span style="left:50%;top:36%;--fx:-160px;--fy:-80px;animation-delay:.0s">钢</span>
+      <span style="left:50%;top:36%;--fx:160px;--fy:-80px;animation-delay:.4s">玻</span>
+      <span style="left:50%;top:50%;--fx:-180px;--fy:0;animation-delay:.8s">人</span>
+      <span style="left:50%;top:50%;--fx:180px;--fy:0;animation-delay:1.2s">地</span>
+      <span style="left:50%;top:64%;--fx:-120px;--fy:80px;animation-delay:1.6s">光</span>
+      <span style="left:50%;top:64%;--fx:120px;--fy:80px;animation-delay:2.0s">风</span>
+    </div>
+
+    <!-- ============== SVG 标注层 ============== -->
+    <svg class="annot" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <g class="layer l-question">
+        <rect x="38" y="34" width="24" height="34" fill="none" stroke="#ffd58a" stroke-width=".4" stroke-dasharray="2 2" rx="1"/>
+      </g>
+      <g class="layer l-shards"></g>
+      <g class="layer l-empty"></g>
+      <g class="layer l-rebuild"></g>
+      <g class="layer l-fusion"></g>
+    </svg>
+
+    <!-- HTML 标注层 -->
+    <div class="act-labels">
+      <span class="al l2 t-gold t-lg" style="left:50%;top:14%">这座楼，是什么让它「成为楼」？</span>
+      <span class="al l2 t-gold t-sm" style="left:50%;top:76%">没有一个不依赖因缘的「楼自己」</span>
+      <span class="al l3 t-lg" style="left:50%;top:12%">拆开看，处处是别物</span>
+      <span class="al l4 t-sky t-sm" style="left:50%;top:92%">所有因缘退场，楼与花一起隐入空</span>
+      <span class="al l5 t-gold t-lg" style="left:50%;top:12%">众缘重新聚合，它又显现</span>
+      <span class="al l5 t-sm" style="left:50%;top:92%">空不妨显，显不离空</span>
+      <span class="al l6 t-lg" style="left:50%;top:12%">梦幻观 · 如实而不执实</span>
+    </div>
+
+    <!-- act6 中央顿悟 -->
+    <div class="center-insight">
+      <div class="eq">
+        <b>缘 起</b>&nbsp;故&nbsp;<span class="b2">性 空</span><br/>
+        <span class="b2">性 空</span>&nbsp;故&nbsp;<b>缘 起</b>
+      </div>
+    </div>
+
+    <div class="vignette"></div>
+  </div>
+
+  <!-- 文字面板 -->
+  <div class="panel" id="panel">
+    <div class="step" id="step">幕 1 / 6 · 看 见</div>
+    <h2 id="title">这一切看起来如此真实</h2>
+    <p id="body">高楼坚固、繁花鲜艳——「真实」二字几乎不需要论证。<br/>但我们要轻轻问一句：它真的「是它自己」吗？</p>
+    <div class="quote" id="quote">真实的反义不是虚假，而是「依他而起」。</div>
+  </div>
+
+  <div class="timeline" id="tl">
+    <button class="active" data-act="1" title="表面真实">1</button>
+    <button data-act="2" title="发问 · 何为楼">2</button>
+    <button data-act="3" title="拆 · 处处是别物">3</button>
+    <button data-act="4" title="散 · 入于空">4</button>
+    <button data-act="5" title="聚 · 缘起再现">5</button>
+    <button data-act="6" title="梦幻观">6</button>
+    <span class="div"></span>
+    <button class="play" id="autoBtn">❚❚&nbsp;暂停</button>
+  </div>
+
+  <div class="hint">滑 动 / 点 击 数 字 跳 转 任 一 幕</div>
+
+<script>
+  // 粒子
+  const v = document.getElementById('void');
+  for(let i=0;i<55;i++){
+    const e = document.createElement('i');
+    const dx = (Math.random()*200-100);
+    const dy = -(80 + Math.random()*200);
+    e.style.left = (Math.random()*100)+'%';
+    e.style.top  = (50 + Math.random()*50)+'%';
+    e.style.setProperty('--dx', dx+'px');
+    e.style.setProperty('--dy', dy+'px');
+    e.style.animationDuration = (4 + Math.random()*5)+'s';
+    e.style.animationDelay = (Math.random()*-6)+'s';
+    v.appendChild(e);
+  }
+
+  const acts = [
+    {step:'幕 1 / 6 · 看&nbsp;见',
+     title:'这一切看起来如此真实',
+     body:'高楼坚固、繁花鲜艳——「真实」二字几乎不需要论证。<br/>但我们要轻轻问一句：它真的「是它自己」吗？',
+     quote:'真实的反义不是虚假，而是「依他而起」。'},
+    {step:'幕 2 / 6 · 发&nbsp;问',
+     title:'什么让「楼」成为楼？',
+     body:'楼≠钢，楼≠玻，楼≠地。<br/>把任何一缘拿走，它就不再是楼。<b style="color:#ffd58a">楼，没有一个独立的「楼自己」</b>。',
+     quote:'这就是龙树菩萨说的「无自性」。'},
+    {step:'幕 3 / 6 · 拆&nbsp;开',
+     title:'每一处都是别的东西',
+     body:'拆开看，眼前的城市与花朵——<br/>不过是钢、玻、人、地、光、风、水、籽、时间、观察者……<b style="color:#cfe6ff">众多因缘的临时聚合</b>。',
+     quote:'当你不再把它看作整体，它就消失为关系。'},
+    {step:'幕 4 / 6 · 散&nbsp;归',
+     title:'缘散，则归于空',
+     body:'当所有因缘退场，「楼」与「花」一起淡出。<br/>这个「<b style="color:#fff">空</b>」不是「什么都没有」，而是「<b style="color:#cfe6ff">没有一个独立的它</b>」。',
+     quote:'空，是因缘退场后的开放性，不是断灭。'},
+    {step:'幕 5 / 6 · 聚&nbsp;现',
+     title:'众缘重新聚合，它又显现',
+     body:'空不妨碍显现——只要因缘汇合，<br/>楼依然立、花依然开。<b style="color:#ffd58a">空与有，从来不是两件事</b>。',
+     quote:'真空不空，妙有非有。'},
+    {step:'幕 6 / 6 · 梦&nbsp;幻&nbsp;观',
+     title:'如梦如幻，如露如电',
+     body:'修行人不否认花与城，只是不再误把它们当作「实有」。<br/><b style="color:#cfe6ff">如实欣赏，但不再被它套牢</b>——这就叫梦幻观。',
+     quote:'《金刚经》：「一切有为法，如梦幻泡影，如露亦如电，应作如是观。」'}
+  ];
+
+  const $ = id=>document.getElementById(id);
+  const panel=$('panel'), step=$('step'), title=$('title'), bodyT=$('body'), quote=$('quote'), tl=$('tl');
+  let cur=0, auto=true, timer=null;
+
+  function go(i){
+    cur = ((i % acts.length)+acts.length) % acts.length;
+    document.body.className = 'act' + (cur+1);
+    Array.from(tl.querySelectorAll('button[data-act]'))
+      .forEach(b=>b.classList.toggle('active', +b.dataset.act === cur+1));
+    panel.classList.add('fade');
+    setTimeout(()=>{
+      const a = acts[cur];
+      step.innerHTML=a.step; title.innerHTML=a.title; bodyT.innerHTML=a.body; quote.innerHTML=a.quote;
+      panel.classList.remove('fade');
+    }, 400);
+  }
+
+  tl.addEventListener('click', e=>{
+    const b = e.target.closest('button[data-act]'); if(!b) return;
+    pauseAuto(); go(+b.dataset.act-1);
+  });
+
+  function startAuto(){ if(timer) clearInterval(timer); timer = setInterval(()=>{ if(auto) go(cur+1); }, 8000); }
+  function pauseAuto(){ auto=false; $('autoBtn').innerHTML='▶&nbsp;播放'; clearInterval(timer); }
+  function resumeAuto(){ auto=true; $('autoBtn').innerHTML='❚❚&nbsp;暂停'; startAuto(); }
+  $('autoBtn').onclick = ()=> auto?pauseAuto():resumeAuto();
+
+  document.addEventListener('keydown', e=>{
+    if(e.key==='ArrowRight'){ pauseAuto(); go(cur+1); }
+    if(e.key==='ArrowLeft' ){ pauseAuto(); go(cur-1); }
+    if(e.key===' '){ e.preventDefault(); auto?pauseAuto():resumeAuto(); }
+  });
+
+  let sx=0;
+  addEventListener('touchstart', e=>{ sx=e.touches[0].clientX; }, {passive:true});
+  addEventListener('touchend', e=>{
+    const dx=e.changedTouches[0].clientX - sx;
+    if(Math.abs(dx)>40){ pauseAuto(); go(cur + (dx<0?1:-1)); }
+  });
+
+  go(0); startAuto();
+
+  function setVh(){document.documentElement.style.setProperty('--vh',(window.innerHeight*0.01)+'px');}
+  setVh();
+  addEventListener('resize',setVh);
+  addEventListener('orientationchange',setVh);
+</script>
+</body>
+</html>

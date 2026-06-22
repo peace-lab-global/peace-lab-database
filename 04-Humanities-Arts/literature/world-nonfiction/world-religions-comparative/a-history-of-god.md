@@ -1,7 +1,6 @@
 ---
-
 title: "《上帝的历史》A History of God"
-description: "《上帝的历史》A History of God的详细解析与实践指南"
+description: "《上帝的历史》A History of God —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["freud", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《上帝的历史》A History of God"
   - "《上帝的历史》A History of God的核心概念"
   - "《上帝的历史》A History of God的方法与实践"
-trigger_keywords: ["anxiety", "buddhism", "crisis", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["《上帝的历史》A", "History", "of", "God"]
+cross_refs: []
 ---
 # 《上帝的历史》A History of God
 

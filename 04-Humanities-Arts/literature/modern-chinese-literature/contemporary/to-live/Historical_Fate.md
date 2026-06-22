@@ -1,7 +1,6 @@
 ---
-
 title: "历史与个人命运 (Historical Fate)"
-description: "历史与个人命运 (Historical Fate)的详细解析与实践指南"
+description: "历史与个人命运 (Historical Fate) —— Contemporary · To Live 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
 tags: ["leadership", "suicide", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是历史与个人命运"
   - "历史与个人命运的核心概念"
   - "历史与个人命运的方法与实践"
-trigger_keywords: ["历史与个人命运", "behavioral", "exercise", "leadership", "sexuality"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/depression/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "depression/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/exercise/sexuality"
-
+trigger_keywords: ["历史与个人命运", "exercise", "leadership"]
+cross_refs: []
 ---
 # 历史与个人命运 (Historical Fate)
 

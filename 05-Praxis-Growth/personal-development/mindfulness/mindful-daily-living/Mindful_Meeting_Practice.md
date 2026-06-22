@@ -1,7 +1,6 @@
 ---
-
 title: "正念开会专业实践指南 (Mindful Meeting Practice)"
-description: "正念开会专业实践指南 (Mindful Meeting Practice)的详细解析与实践指南"
+description: "正念开会专业实践指南 (Mindful Meeting Practice) —— Mindfulness · Mindful Daily Living 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
 tags: ["attachment", "communication"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念开会专业实践指南"
   - "正念开会专业实践指南的核心概念"
   - "正念开会专业实践指南的方法与实践"
-trigger_keywords: ["正念开会专业实践指南", "act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["正念开会专业实践指南", "Mindful", "Meeting", "Practice"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "倦怠/正念/压力"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/19-Mindful-Leadership-and-Team.md"
+    relation: "正念/倦怠/mindful"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
+    relation: "正念/倦怠"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/神经科学"
 ---
 # 正念开会专业实践指南 (Mindful Meeting Practice)
 

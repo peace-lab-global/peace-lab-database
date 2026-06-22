@@ -1,7 +1,6 @@
 ---
-
 title: "《正念：此刻是一枝花》Wherever You Go, There You Are"
-description: "《正念：此刻是一枝花》Wherever You Go, There You Are的详细解析与实践指南"
+description: "《正念：此刻是一枝花》Wherever You Go, There You Are —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["habits", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《正念：此刻是一枝花》Wherever You Go, There You Are"
   - "《正念：此刻是一枝花》Wherever You Go, There You Are的核心概念"
   - "《正念：此刻是一枝花》Wherever You Go, There You Are的方法与实践"
-trigger_keywords: ["anxiety", "body", "clinical", "habits"]
+trigger_keywords: ["habits", "《正念：此刻是一枝花》Wherever", "You", "Go", "There"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_20_Creative_Arts.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/meditation/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "mbsr/正念/jon"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/mbsr/jon"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
+    relation: "mbsr/jon/kabat-zinn"
 ---
 # 《正念：此刻是一枝花》Wherever You Go, There You Are
 

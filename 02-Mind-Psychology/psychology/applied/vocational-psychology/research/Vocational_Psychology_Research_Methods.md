@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)"
-description: "职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)的详细解析与实践指南"
+description: "职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System) —— Vocational Psychology · Research 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Research"
 tags: ["anxiety", "brain", "cortisol", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "职业心理学研究方法与数据分析体系的核心概念"
   - "职业心理学研究方法与数据分析体系的方法与实践"
   - "职业心理学研究方法与数据分析体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["职业心理学研究方法与数据分析体系", "Vocational", "Psychology", "Research", "Methods"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tea_Ceremony_Healing.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/data"
+  - path: "05-Praxis-Growth/personal-development/social-media/Data_Analysis_System.md"
+    relation: "data/system/analysis"
+  - path: "03-Bio-Science/sexuality/Sexuality_Research_Methods.md"
+    relation: "data/research/methods"
+  - path: "04-Humanities-Arts/reading/INDEX.md"
+    relation: "psychology/research/methodology"
 ---
 # 职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)
 

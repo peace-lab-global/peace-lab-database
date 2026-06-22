@@ -1,7 +1,6 @@
 ---
-
 title: "《无畏的简朴》Fearless Simplicity"
-description: "《无畏的简朴》Fearless Simplicity的详细解析与实践指南"
+description: "《无畏的简朴》Fearless Simplicity —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["dzogchen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《无畏的简朴》Fearless Simplicity"
   - "《无畏的简朴》Fearless Simplicity的核心概念"
   - "《无畏的简朴》Fearless Simplicity的方法与实践"
-trigger_keywords: ["buddhism", "death", "dzogchen", "psychology"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/death/productivity"
-
+trigger_keywords: ["dzogchen", "《无畏的简朴》Fearless", "Simplicity"]
+cross_refs: []
 ---
 # 《无畏的简朴》Fearless Simplicity
 

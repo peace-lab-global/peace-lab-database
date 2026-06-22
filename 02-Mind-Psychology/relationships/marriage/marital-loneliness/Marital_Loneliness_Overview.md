@@ -1,7 +1,6 @@
 ---
-
 title: "婚内孤独心理学专业内容体系"
-description: "婚内孤独心理学专业内容体系的详细解析与实践指南"
+description: "婚内孤独心理学专业内容体系 —— Marriage · Marital Loneliness 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Marital Loneliness"
 tags: ["anxiety", "attachment", "cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "婚内孤独心理学专业内容体系的核心概念"
   - "婚内孤独心理学专业内容体系的方法与实践"
   - "婚内孤独心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["婚内孤独心理学专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Female_Fate.md"
+    relation: "婚姻/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "婚姻/压力"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Youth_Population_Intervention.md"
+    relation: "亲密关系/压力"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/亲密关系"
 ---
 # 婚内孤独心理学专业内容体系
 

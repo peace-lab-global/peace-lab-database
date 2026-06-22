@@ -1,7 +1,6 @@
 ---
-
 title: "情商总览 | Emotional Intelligence Overview"
-description: "情商总览 | Emotional Intelligence Overview的详细解析与实践指南"
+description: "情商总览 | Emotional Intelligence Overview —— 个人发展 · 情商 专题"
 category: "实践与个人增长 > 个人发展 > 情商"
 tags: ["communication", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是情商总览 | Emotional Intelligence Overview"
   - "情商总览 | Emotional Intelligence Overview的核心概念"
   - "情商总览 | Emotional Intelligence Overview的方法与实践"
-trigger_keywords: ["情商总览", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["情商总览", "Emotional", "Intelligence", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Emotional_Intelligence_Guide.md"
+    relation: "eq/intelligence/emotional"
 ---
 # 情商总览 | Emotional Intelligence Overview
 

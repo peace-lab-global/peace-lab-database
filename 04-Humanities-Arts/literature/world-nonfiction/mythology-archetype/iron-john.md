@@ -1,7 +1,6 @@
 ---
-
 title: "《铁人约翰》Iron John"
-description: "《铁人约翰》Iron John的详细解析与实践指南"
+description: "《铁人约翰》Iron John —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《铁人约翰》Iron John"
   - "《铁人约翰》Iron John的核心概念"
   - "《铁人约翰》Iron John的方法与实践"
-trigger_keywords: ["exercise", "psychology", "religion", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/sexuality"
-
+trigger_keywords: ["exercise", "religion"]
+cross_refs: []
 ---
 # 《铁人约翰》Iron John
 

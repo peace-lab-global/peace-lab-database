@@ -1,7 +1,6 @@
 ---
-
 title: "学习科学 | Learning Science"
-description: "学习科学 | Learning Science的详细解析与实践指南"
+description: "学习科学 | Learning Science —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是学习科学 | Learning Science"
   - "学习科学 | Learning Science的核心概念"
   - "学习科学 | Learning Science的方法与实践"
-trigger_keywords: ["学习科学", "act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["学习科学", "Learning", "Science"]
+cross_refs: []
 ---
 # 学习科学 | Learning Science
 

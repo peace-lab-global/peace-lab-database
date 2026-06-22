@@ -1,7 +1,6 @@
 ---
-
 title: "Direct Recognition vs Mindfulness: Comprehensive Comparison (直接认知冥想与正念冥想：系统性异同对比)"
-description: "Direct Recognition vs Mindfulness: Comprehensive Comparison (直接认知冥想与正念冥想：系统性异同对比)的详细解析与实践指南"
+description: "Direct Recognition vs Mindfulness: Comprehensive Comparison (直接认知冥想与正念冥想：系统性异同对比) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["addiction", "anxiety", "brain", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct Recognition vs Mindfulness: Comprehensive Comparison"
   - "Direct Recognition vs Mindfulness: Comprehensive Comparison的核心概念"
   - "Direct Recognition vs Mindfulness: Comprehensive Comparison的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/meditation/neuroscience"
-
+trigger_keywords: ["Direct", "Recognition", "vs", "Mindfulness:", "Comprehensive"]
+cross_refs: []
 ---
 # Direct Recognition vs Mindfulness: Comprehensive Comparison (直接认知冥想与正念冥想：系统性异同对比)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "韩国禅（Seon）专业概述"
-description: "韩国禅（Seon）专业概述的详细解析与实践指南"
+description: "韩国禅（Seon）专业概述 —— 冥想 · Korean Seon 专题"
 category: "心智与心理学 > 冥想 > Korean Seon"
 tags: ["addiction", "anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是韩国禅（Seon）专业概述"
   - "韩国禅（Seon）专业概述的核心概念"
   - "韩国禅（Seon）专业概述的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "body"]
+trigger_keywords: ["韩国禅", "Seon", "专业概述"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
+    relation: "话头/念佛/禅宗"
 ---
 # 韩国禅（Seon）专业概述
 

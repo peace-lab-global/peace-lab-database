@@ -1,7 +1,6 @@
 ---
-
 title: "中国社会性焦虑专业内容体系质量认证报告"
-description: "中国社会性焦虑专业内容体系质量认证报告的详细解析与实践指南"
+description: "中国社会性焦虑专业内容体系质量认证报告 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中国社会性焦虑专业内容体系质量认证报告的核心概念"
   - "中国社会性焦虑专业内容体系质量认证报告的方法与实践"
   - "中国社会性焦虑专业内容体系质量认证报告的自助方法"
-trigger_keywords: ["anxiety", "assessment", "attachment", "clinical"]
+trigger_keywords: ["中国社会性焦虑专业内容体系质量认证报告"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/parent-dependent-male/Parent_Dependent_Male_Analysis.md"
+    relation: "依恋/冲突/情绪调节"
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "依恋/冲突/焦虑"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "依恋/焦虑/冲突"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "依恋/焦虑/冲突"
 ---
 # 中国社会性焦虑专业内容体系质量认证报告
 

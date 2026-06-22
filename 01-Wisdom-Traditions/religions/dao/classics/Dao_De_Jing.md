@@ -1,7 +1,6 @@
 ---
-
 title: "道德经"
-description: "道德经的详细解析与实践指南"
+description: "道德经 —— 道家 · Classics 专题"
 category: "智慧传承 > 宗教与灵性 > 道家 > Classics"
 tags: ["daoism", "philosophy", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是道德经"
   - "道德经的核心概念"
   - "道德经的方法与实践"
-trigger_keywords: ["道德经", "daoism", "philosophy", "宗教与灵性", "道家"]
+trigger_keywords: ["道德经", "daoism", "宗教与灵性", "道家"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "daoism/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
-    relation: "daoism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/lieh-tzu.md"
+    relation: "老子/道家/无为"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/wen-tzu.md"
+    relation: "老子/道家"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/tao-te-ching.md"
+    relation: "道德经/无为/老子"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/shen-tzu.md"
+    relation: "无为/道家"
 ---
 # 道德经
 

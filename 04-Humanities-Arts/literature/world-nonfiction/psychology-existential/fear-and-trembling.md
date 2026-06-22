@@ -1,7 +1,6 @@
 ---
-
 title: "《恐惧与颤栗》Fear and Trembling"
-description: "《恐惧与颤栗》Fear and Trembling的详细解析与实践指南"
+description: "《恐惧与颤栗》Fear and Trembling —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["loneliness", "phobia", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《恐惧与颤栗》Fear and Trembling"
   - "《恐惧与颤栗》Fear and Trembling的核心概念"
   - "《恐惧与颤栗》Fear and Trembling的方法与实践"
-trigger_keywords: ["buddhism", "communication", "loneliness", "philosophy"]
+trigger_keywords: ["loneliness", "《恐惧与颤栗》Fear", "and", "Trembling"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
+    relation: "kierkegaard/ren/存在主义"
 ---
 # 《恐惧与颤栗》Fear and Trembling
 

@@ -1,7 +1,6 @@
 ---
-
 title: "创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής"
-description: "创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής的详细解析与实践指南"
+description: "创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["habits", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής"
   - "创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής的核心概念"
   - "创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής的方法与实践"
-trigger_keywords: ["创意写作工作坊", "art", "assessment", "behavioral", "body"]
+trigger_keywords: ["创意写作工作坊", "Creative", "Writing", "Workshop", "Δημιουργικό"]
 cross_refs:
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Composition_Background.md"
+    relation: "自信/智慧"
 ---
 # 创意写作工作坊 | Creative Writing Workshop | Δημιουργικό Εργαστήριο Συγγραφής
 

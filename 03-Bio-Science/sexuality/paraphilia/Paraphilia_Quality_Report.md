@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders Professional Content System Quality Report (恋物癖专业内容体系质量报告)"
-description: "Paraphilic Disorders Professional Content System Quality Report (恋物癖专业内容体系质量报告)的详细解析与实践指南"
+description: "Paraphilic Disorders Professional Content System Quality Report (恋物癖专业内容体系质量报告) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["cbt", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Paraphilic Disorders Professional Content System Quality Report"
   - "Paraphilic Disorders Professional Content System Quality Report的核心概念"
   - "Paraphilic Disorders Professional Content System Quality Report的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "cbt"]
+trigger_keywords: ["cbt", "Paraphilic", "Disorders", "Professional", "Content"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
-    relation: "neuroscience/sexuality/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality/professional"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Clinical_Diagnosis.md"
+    relation: "paraphilic/disorders"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/report/system"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Enhancement_Report.md"
+    relation: "report/professional/system"
 ---
 # Paraphilic Disorders Professional Content System Quality Report (恋物癖专业内容体系质量报告)
 

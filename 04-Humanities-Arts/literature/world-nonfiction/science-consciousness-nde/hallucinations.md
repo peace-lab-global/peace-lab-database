@@ -1,7 +1,6 @@
 ---
-
 title: "《幻觉》Hallucinations"
-description: "《幻觉》Hallucinations的详细解析与实践指南"
+description: "《幻觉》Hallucinations —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["phobia", "sleep", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《幻觉》Hallucinations"
   - "《幻觉》Hallucinations的核心概念"
   - "《幻觉》Hallucinations的方法与实践"
-trigger_keywords: ["brain", "death", "neuroscience", "phobia"]
+trigger_keywords: ["neuroscience", "phobia"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/death/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/death/neuroscience"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/death/neuroscience"
-
+  - path: "03-Bio-Science/death/Death_NDE_Near_Death_Experience.md"
+    relation: "nde/临终/神经科学"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
 ---
 # 《幻觉》Hallucinations
 

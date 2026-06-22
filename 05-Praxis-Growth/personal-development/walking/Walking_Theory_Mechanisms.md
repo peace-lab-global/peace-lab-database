@@ -1,7 +1,6 @@
 ---
-
 title: "步行心理健康：理论基础与神经心理学机制 (Walking & Mental Health: Theory & Neuropsychological Mechanisms)"
-description: "步行心理健康：理论基础与神经心理学机制 (Walking & Mental Health: Theory & Neuropsychological Mechanisms)的详细解析与实践指南"
+description: "步行心理健康：理论基础与神经心理学机制 (Walking & Mental Health: Theory & Neuropsychological Mechanisms) —— 个人发展 · Walking 专题"
 category: "实践与个人增长 > 个人发展 > Walking"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "步行心理健康：理论基础与神经心理学机制的核心概念"
   - "步行心理健康：理论基础与神经心理学机制的方法与实践"
   - "步行心理健康：理论基础与神经心理学机制的自助方法"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["步行心理健康：理论基础与神经心理学机制", "Walking", "Mental", "Health:", "Theory"]
+cross_refs: []
 ---
 # 步行心理健康：理论基础与神经心理学机制 (Walking & Mental Health: Theory & Neuropsychological Mechanisms)
 

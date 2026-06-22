@@ -1,7 +1,6 @@
 ---
-
 title: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)"
-description: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)的详细解析与实践指南"
+description: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "attachment", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Grief Technology & Digital Mourning"
   - "Grief Technology & Digital Mourning的核心概念"
   - "Grief Technology & Digital Mourning的方法与实践"
-trigger_keywords: ["act", "aging", "art", "assessment"]
+trigger_keywords: ["Grief", "Technology", "Digital", "Mourning", "数字哀伤科技与网络哀悼"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/attachment/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/attachment/depression"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "ai/ar/vr"
+  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Technology_Digital.md"
+    relation: "ai/vr/digital"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "ai/vr/ar"
 ---
 # Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)
 

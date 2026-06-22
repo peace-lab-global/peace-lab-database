@@ -1,7 +1,6 @@
 ---
-
 title: "Mindful Zentangle (正念艺术与缠绕画)"
-description: "Mindful Zentangle (正念艺术与缠绕画)的详细解析与实践指南"
+description: "Mindful Zentangle (正念艺术与缠绕画) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "brain", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mindful Zentangle"
   - "Mindful Zentangle的核心概念"
   - "Mindful Zentangle的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["Mindful", "Zentangle", "正念艺术与缠绕画"]
+cross_refs: []
 ---
 # Mindful Zentangle (正念艺术与缠绕画)
 

@@ -13,10 +13,12 @@ intent_queries:
   - "气功有哪些分类"
 trigger_keywords: ["气功", "练气", "软硬气功", "动功", "静功"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
-    relation: "qigong-integration"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Breathwork_Internal.md"
-    relation: "breathwork"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "气功/太极/qigong"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
+    relation: "气功/qigong/调息"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Regulation.md"
+    relation: "气功/太极/qigong"
 ---
 # 太极气功基础 | Tai Chi Qigong Foundations
 

@@ -1,7 +1,6 @@
 ---
-
 title: "ballet | Index"
-description: "ballet | Index的详细解析与实践指南"
+description: "ballet | Index —— Professional Attraction · 芭蕾 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > 芭蕾"
 tags: ["个人发展", "芭蕾"]
 last_updated: "2026-05"
@@ -12,9 +11,16 @@ intent_queries:
   - "什么是ballet | Index"
   - "ballet | Index的核心概念"
   - "ballet | Index的方法与实践"
-trigger_keywords: ["ballet", "Index", "act", "个人发展", "芭蕾"]
-cross_refs: []
-
+trigger_keywords: ["ballet", "个人发展", "芭蕾"]
+cross_refs:
+  - path: "04-Humanities-Arts/arts/ballet/history/INDEX.md"
+    relation: "ballet/contents"
+  - path: "04-Humanities-Arts/arts/ballet/general/INDEX.md"
+    relation: "ballet/contents"
+  - path: "04-Humanities-Arts/arts/ballet/appreciation/INDEX.md"
+    relation: "ballet/contents"
+  - path: "04-Humanities-Arts/arts/ballet/education-research/INDEX.md"
+    relation: "ballet/contents"
 ---
 # ballet | Index
 

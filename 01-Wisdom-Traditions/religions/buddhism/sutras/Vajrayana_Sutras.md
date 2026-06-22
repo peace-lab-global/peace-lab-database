@@ -1,7 +1,6 @@
 ---
-
 title: "密宗重要经典（Vajrayana Sutras）"
-description: "密宗重要经典（Vajrayana Sutras）的详细解析与实践指南"
+description: "密宗重要经典（Vajrayana Sutras） —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "dzogchen", "mandala", "mindfulness", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是密宗重要经典（Vajrayana Sutras）"
   - "密宗重要经典（Vajrayana Sutras）的核心概念"
   - "密宗重要经典（Vajrayana Sutras）的方法与实践"
-trigger_keywords: ["breathwork", "buddhism", "developmental", "dzogchen"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/meditation/sexuality"
-
+trigger_keywords: ["dzogchen", "密宗重要经典", "Vajrayana", "Sutras"]
+cross_refs: []
 ---
 # 密宗重要经典（Vajrayana Sutras）
 

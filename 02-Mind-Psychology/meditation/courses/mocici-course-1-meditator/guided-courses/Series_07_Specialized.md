@@ -1,7 +1,6 @@
 ---
-
 title: "系列七：特殊应用系列 | Specialized Application Series"
-description: "系列七：特殊应用系列 | Specialized Application Series的详细解析与实践指南"
+description: "系列七：特殊应用系列 | Specialized Application Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "brain", "cbt", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是系列七：特殊应用系列 | Specialized Application Series"
   - "系列七：特殊应用系列 | Specialized Application Series的核心概念"
   - "系列七：特殊应用系列 | Specialized Application Series的方法与实践"
-trigger_keywords: ["系列七：特殊应用系列", "anxiety", "art", "assessment", "behavioral"]
+trigger_keywords: ["系列七：特殊应用系列", "Specialized", "Application", "Series"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-relaxation-response.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Willpower_Instinct.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "README.md"
-    relation: "anxiety/meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/arts/space-healing/Space_Home_Office_Design.md"
+    relation: "睡眠/褪黑素/冥想"
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Meditation_Cross_Career.md"
+    relation: "冥想/瑜伽/nidra"
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
+    relation: "nidra/yoga/睡眠"
 ---
 # 系列七：特殊应用系列 | Specialized Application Series
 

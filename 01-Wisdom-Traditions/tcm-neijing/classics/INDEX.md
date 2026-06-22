@@ -1,7 +1,6 @@
 ---
-
 title: "中医经典原文 (Traditional Chinese Medicine Classics)"
-description: "中医经典原文 (Traditional Chinese Medicine Classics)的详细解析与实践指南"
+description: "中医经典原文 (Traditional Chinese Medicine Classics) —— 中医内经 · Classics 专题"
 category: "智慧传承 > 中医内经 > Classics"
 tags: ["treatment", "中医内经"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是中医经典原文"
   - "中医经典原文的核心概念"
   - "中医经典原文的方法与实践"
-trigger_keywords: ["中医经典原文", "act", "clinical", "sexuality", "treatment"]
+trigger_keywords: ["中医经典原文", "treatment"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
-    relation: "sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
-    relation: "sexuality/therapy"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/huangdi-neijing.md"
+    relation: "黄帝内经/huangdi/neijing"
 ---
 # 中医经典原文 (Traditional Chinese Medicine Classics)
 

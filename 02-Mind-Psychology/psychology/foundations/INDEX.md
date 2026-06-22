@@ -1,7 +1,6 @@
 ---
-
 title: "理论基础 (Foundations) | Index"
-description: "理论基础 (Foundations) | Index的详细解析与实践指南"
+description: "理论基础 (Foundations) | Index —— 心理学 · 心理学基础 专题"
 category: "心智与心理学 > 心理学 > 心理学基础"
 tags: ["personality", "positive-psychology", "treatment", "心理学"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是理论基础  | Index"
   - "理论基础  | Index的核心概念"
   - "理论基础  | Index的方法与实践"
-trigger_keywords: ["理论基础", "Index", "assessment", "clinical", "developmental", "personality"]
-cross_refs: []
-
+trigger_keywords: ["理论基础", "personality"]
+cross_refs:
+  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Personality.md"
+    relation: "人格心理学/personality/人格"
 ---
 # 理论基础 (Foundations) | Index
 

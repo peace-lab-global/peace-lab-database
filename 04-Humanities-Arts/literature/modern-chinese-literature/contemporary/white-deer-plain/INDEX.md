@@ -1,7 +1,6 @@
 ---
-
 title: "White Deer Plain | 白鹿原"
-description: "White Deer Plain | 白鹿原的详细解析与实践指南"
+description: "White Deer Plain | 白鹿原 —— Contemporary · White Deer Plain 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
 tags: ["cinema", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是White Deer Plain | 白鹿原"
   - "White Deer Plain | 白鹿原的核心概念"
   - "White Deer Plain | 白鹿原的方法与实践"
-trigger_keywords: ["白鹿原", "cinema", "literature", "philosophy", "sexuality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["白鹿原", "cinema"]
+cross_refs: []
 ---
 # White Deer Plain | 白鹿原
 

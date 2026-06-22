@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与心血管健康 | Meditation and Cardiovascular Health"
-description: "冥想与心血管健康 | Meditation and Cardiovascular Health的详细解析与实践指南"
+description: "冥想与心血管健康 | Meditation and Cardiovascular Health —— 冥想 · Clinical Conditions 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions"
 tags: ["anxiety", "brain", "cardiovascular", "mbsr", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想与心血管健康 | Meditation and Cardiovascular Health"
   - "冥想与心血管健康 | Meditation and Cardiovascular Health的核心概念"
   - "冥想与心血管健康 | Meditation and Cardiovascular Health的方法与实践"
-trigger_keywords: ["冥想与心血管健康", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["冥想与心血管健康", "Meditation", "and", "Cardiovascular", "Health"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/depression/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Cardiovascular_Metabolic.md"
+    relation: "血压/cardiovascular/心率"
+  - path: "03-Bio-Science/biology/cardiovascular/INDEX.md"
+    relation: "cardiovascular/hrv/health"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "正念/table/冥想"
+  - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Exercise_Nutrition.md"
+    relation: "血压/cardiovascular/运动"
 ---
 # 冥想与心血管健康 | Meditation and Cardiovascular Health
 

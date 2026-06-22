@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga Philosophy (瑜伽哲学与概念)"
-description: "Yoga Philosophy (瑜伽哲学与概念)的详细解析与实践指南"
+description: "Yoga Philosophy (瑜伽哲学与概念) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["addiction", "attachment", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Yoga Philosophy"
   - "Yoga Philosophy的核心概念"
   - "Yoga Philosophy的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "attachment"]
+trigger_keywords: ["Yoga", "Philosophy", "瑜伽哲学与概念"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga/gunas"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽/瑜伽经/yoga"
 ---
 # Yoga Philosophy (瑜伽哲学与概念)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness"
-description: "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness的详细解析与实践指南"
+description: "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "brain", "decision-making", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness的核心概念"
   - "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness的方法与实践"
   - "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness的自助方法"
-trigger_keywords: ["孤独的认知心理学机制", "act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["孤独的认知心理学机制", "Cognitive", "Mechanisms", "of", "Loneliness"]
+cross_refs: []
 ---
 # 孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness
 

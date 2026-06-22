@@ -1,7 +1,6 @@
 ---
-
 title: "老子 (Laozi)"
-description: "老子 (Laozi)的详细解析与实践指南"
+description: "老子 (Laozi) —— China · Taoism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Taoism"
 tags: ["calligraphy", "cbt", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是老子"
   - "老子的核心概念"
   - "老子的方法与实践"
-trigger_keywords: ["老子", "act", "art", "behavioral", "calligraphy"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
-    relation: "emotion/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "daoism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_17_Nature_Elements.md"
-    relation: "daoism/emotion/exercise"
-
+trigger_keywords: ["老子", "calligraphy"]
+cross_refs: []
 ---
 # 老子 (Laozi)
 

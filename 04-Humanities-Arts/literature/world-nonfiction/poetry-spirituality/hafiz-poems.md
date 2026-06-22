@@ -1,7 +1,6 @@
 ---
-
 title: "《哈菲兹诗集》Poems of Hafiz"
-description: "《哈菲兹诗集》Poems of Hafiz的详细解析与实践指南"
+description: "《哈菲兹诗集》Poems of Hafiz —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《哈菲兹诗集》Poems of Hafiz"
   - "《哈菲兹诗集》Poems of Hafiz的核心概念"
   - "《哈菲兹诗集》Poems of Hafiz的方法与实践"
-trigger_keywords: ["buddhism", "death", "sexuality", "文学"]
+trigger_keywords: ["文学", "《哈菲兹诗集》Poems", "of", "Hafiz"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教"
 ---
 # 《哈菲兹诗集》Poems of Hafiz
 

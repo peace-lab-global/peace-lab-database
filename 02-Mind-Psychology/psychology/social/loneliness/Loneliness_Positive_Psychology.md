@@ -1,7 +1,6 @@
 ---
-
 title: "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude"
-description: "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude的详细解析与实践指南"
+description: "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["cbt", "depression", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude的核心概念"
   - "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude的方法与实践"
   - "积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude的自助方法"
-trigger_keywords: ["act", "aging", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/depression/emotion"
-
+trigger_keywords: ["积极心理学视角下的孤独与独处", "Positive", "Psychology", "of", "Loneliness"]
+cross_refs: []
 ---
 # 积极心理学视角下的孤独与独处 | Positive Psychology of Loneliness & Solitude
 

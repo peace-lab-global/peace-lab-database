@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与科技专业概述：从生物反馈到脑机接口"
-description: "冥想与科技专业概述：从生物反馈到脑机接口的详细解析与实践指南"
+description: "冥想与科技专业概述：从生物反馈到脑机接口 —— 冥想 · Meditation Technology 专题"
 category: "心智与心理学 > 冥想 > Meditation Technology"
 tags: ["addiction", "anxiety", "bci", "brain", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冥想与科技专业概述：从生物反馈到脑机接口"
   - "冥想与科技专业概述：从生物反馈到脑机接口的核心概念"
   - "冥想与科技专业概述：从生物反馈到脑机接口的方法与实践"
-trigger_keywords: ["addiction", "aging", "anxiety", "assessment"]
+trigger_keywords: ["冥想与科技专业概述：从生物反馈到脑机接口"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "ar/ai/vr"
+  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
+    relation: "ai/vr/mindfulness"
+  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Technology_Digital.md"
+    relation: "ai/vr/app"
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Digital_Industry.md"
+    relation: "app/ai/ar"
 ---
 # 冥想与科技专业概述：从生物反馈到脑机接口
 

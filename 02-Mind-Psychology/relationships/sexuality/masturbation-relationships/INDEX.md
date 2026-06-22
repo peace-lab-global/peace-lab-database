@@ -1,7 +1,6 @@
 ---
-
 title: "masturbation-relationships | 自慰与关系心理学"
-description: "masturbation-relationships | 自慰与关系心理学的详细解析与实践指南"
+description: "masturbation-relationships | 自慰与关系心理学 —— 人际关系 · Masturbation Relationships 专题"
 category: "心智与心理学 > 人际关系 > Masturbation Relationships"
 tags: ["人际关系"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "masturbation-relationships | 自慰与关系心理学的核心概念"
   - "masturbation-relationships | 自慰与关系心理学的方法与实践"
   - "masturbation-relationships | 自慰与关系心理学的自助方法"
-trigger_keywords: ["自慰与关系心理学", "behavioral", "psychology", "sexuality", "人际关系"]
+trigger_keywords: ["自慰与关系心理学", "人际关系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "attachment/sexuality/stress"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "attachment/sexuality/stress"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "attachment/sexuality/stress"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/INDEX.md"
+    relation: "masturbation/masturbation-psychology/contents"
 ---
 # masturbation-relationships | 自慰与关系心理学
 

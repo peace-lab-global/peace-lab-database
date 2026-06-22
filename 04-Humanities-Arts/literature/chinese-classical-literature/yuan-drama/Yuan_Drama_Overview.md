@@ -1,7 +1,6 @@
 ---
-
 title: "元曲专业内容体系：中国古典戏曲文学的辉煌成就"
-description: "元曲专业内容体系：中国古典戏曲文学的辉煌成就的详细解析与实践指南"
+description: "元曲专业内容体系：中国古典戏曲文学的辉煌成就 —— Chinese Classical Literature · Yuan Drama 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Yuan Drama"
 tags: ["literature", "marriage", "music", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是元曲专业内容体系：中国古典戏曲文学的辉煌成就"
   - "元曲专业内容体系：中国古典戏曲文学的辉煌成就的核心概念"
   - "元曲专业内容体系：中国古典戏曲文学的辉煌成就的方法与实践"
-trigger_keywords: ["act", "art", "child", "developmental"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/nutrition"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
-    relation: "attachment/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "attachment/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/lifestyle/Yoga_Nutrition_Lifestyle.md"
-    relation: "attachment/nutrition/sexuality"
-
+trigger_keywords: ["元曲专业内容体系：中国古典戏曲文学的辉煌成就"]
+cross_refs: []
 ---
 # 元曲专业内容体系：中国古典戏曲文学的辉煌成就
 

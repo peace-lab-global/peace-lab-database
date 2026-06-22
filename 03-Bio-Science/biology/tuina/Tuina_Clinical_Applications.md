@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Clinical Treatment Applications (推拿临床治疗应用)"
-description: "Tuina Clinical Treatment Applications (推拿临床治疗应用)的详细解析与实践指南"
+description: "Tuina Clinical Treatment Applications (推拿临床治疗应用) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["brain", "cardiovascular", "cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tuina Clinical Treatment Applications"
   - "Tuina Clinical Treatment Applications的核心概念"
   - "Tuina Clinical Treatment Applications的方法与实践"
-trigger_keywords: ["assessment", "brain", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/emotion/neuroscience"
-
+trigger_keywords: ["cardiovascular", "Tuina", "Clinical", "Treatment", "Applications"]
+cross_refs: []
 ---
 # Tuina Clinical Treatment Applications (推拿临床治疗应用)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《狂智》Crazy Wisdom"
-description: "《狂智》Crazy Wisdom的详细解析与实践指南"
+description: "《狂智》Crazy Wisdom —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《狂智》Crazy Wisdom"
   - "《狂智》Crazy Wisdom的核心概念"
   - "《狂智》Crazy Wisdom的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "death", "sexuality"]
+trigger_keywords: ["《狂智》Crazy", "Wisdom"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "gyam/trungpa/ch"
 ---
 # 《狂智》Crazy Wisdom
 

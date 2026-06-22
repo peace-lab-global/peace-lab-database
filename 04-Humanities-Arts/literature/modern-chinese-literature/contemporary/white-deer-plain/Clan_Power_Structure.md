@@ -1,7 +1,6 @@
 ---
-
 title: "宗族权力与乡土秩序——祠堂的规矩"
-description: "宗族权力与乡土秩序——祠堂的规矩的详细解析与实践指南"
+description: "宗族权力与乡土秩序——祠堂的规矩 —— Contemporary · White Deer Plain 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > White Deer Plain"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是宗族权力与乡土秩序——祠堂的规矩"
   - "宗族权力与乡土秩序——祠堂的规矩的核心概念"
   - "宗族权力与乡土秩序——祠堂的规矩的方法与实践"
-trigger_keywords: ["sexuality", "文学"]
+trigger_keywords: ["文学", "宗族权力与乡土秩序——祠堂的规矩"]
 cross_refs:
   - path: "01-Wisdom-Traditions/INDEX.md"
     relation: "art_therapy/sexuality"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "art_therapy/sexuality"
   - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
     relation: "art_therapy/sexuality"
-
 ---
 # 宗族权力与乡土秩序——祠堂的规矩
 

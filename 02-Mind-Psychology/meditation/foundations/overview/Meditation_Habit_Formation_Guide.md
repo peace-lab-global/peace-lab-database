@@ -1,7 +1,6 @@
 ---
-
 title: "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide"
-description: "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的详细解析与实践指南"
+description: "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide"
   - "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的核心概念"
   - "冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["冥想习惯养成与行为科学指南", "Meditation", "Habit", "Formation", "Behavioral"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md"
+    relation: "habit/习惯/stacking"
+  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Tiny_Habits.md"
+    relation: "习惯/bj/fogg"
 ---
 # 冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide
 

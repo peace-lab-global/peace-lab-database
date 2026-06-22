@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽职业与商业 | Yoga Career & Business"
-description: "瑜伽职业与商业 | Yoga Career & Business的详细解析与实践指南"
+description: "瑜伽职业与商业 | Yoga Career & Business —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽职业与商业 | Yoga Career & Business"
   - "瑜伽职业与商业 | Yoga Career & Business的核心概念"
   - "瑜伽职业与商业 | Yoga Career & Business的方法与实践"
-trigger_keywords: ["瑜伽职业与商业", "body", "developmental", "meditation", "yoga"]
+trigger_keywords: ["瑜伽职业与商业", "meditation", "yoga"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/meditation/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/meditation/yoga"
-
+  - path: "02-Mind-Psychology/meditation/professional/career-business/INDEX.md"
+    relation: "instructor/career/business"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Career_Pathways.md"
+    relation: "career/business/pathways"
+  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
+    relation: "business/career/app"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga/冥想"
 ---
 # 瑜伽职业与商业 | Yoga Career & Business
 

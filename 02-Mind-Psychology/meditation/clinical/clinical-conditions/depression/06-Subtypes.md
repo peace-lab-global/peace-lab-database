@@ -1,7 +1,6 @@
 ---
-
 title: "Subtypes"
-description: "Subtypes的详细解析与实践指南"
+description: "Subtypes —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["depression", "mbct", "meditation", "mindfulness", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Subtypes"
   - "Subtypes的核心概念"
   - "Subtypes的方法与实践"
-trigger_keywords: ["Subtypes", "body", "breathwork", "depression", "mbct"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "attachment/depression/exercise"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "depression/exercise/meditation"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/depression/exercise"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
-    relation: "depression/exercise/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "attachment/exercise/meditation"
-
+trigger_keywords: ["Subtypes", "depression", "mbct"]
+cross_refs: []
 ---
 ## 6. 不同抑郁亚型的冥想策略
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Family Caregiver"
-description: "Family Caregiver的详细解析与实践指南"
+description: "Family Caregiver —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Family Caregiver"
   - "Family Caregiver的核心概念"
   - "Family Caregiver的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No23/Mozart_Piano_Concerto_No23_Overview.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["Family", "Caregiver"]
+cross_refs: []
 ---
 ## 17. 家属与照护者支持工具
 

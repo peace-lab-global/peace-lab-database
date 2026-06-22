@@ -1,7 +1,6 @@
 ---
-
 title: "马丁·海德格尔 (Martin Heidegger)"
-description: "马丁·海德格尔 (Martin Heidegger)的详细解析与实践指南"
+description: "马丁·海德格尔 (Martin Heidegger) —— 20Th Century · Continental 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Continental"
 tags: ["healing", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是马丁·海德格尔"
   - "马丁·海德格尔的核心概念"
   - "马丁·海德格尔的方法与实践"
-trigger_keywords: ["马丁", "海德格尔", "anxiety", "art", "cognitive", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "anxiety/death/personality"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/death/personality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/death/personality"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Psychology_Overview.md"
-    relation: "anxiety/death/personality"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/death/personality"
-
+trigger_keywords: ["马丁", "海德格尔"]
+cross_refs: []
 ---
 # 马丁·海德格尔 (Martin Heidegger)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "纺织疗愈 | Textile Therapy"
-description: "纺织疗愈 | Textile Therapy的详细解析与实践指南"
+description: "纺织疗愈 | Textile Therapy —— 艺术 · Craft Therapy 专题"
 category: "人文与艺术疗愈 > 艺术 > Craft Therapy"
 tags: ["cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是纺织疗愈 | Textile Therapy"
   - "纺织疗愈 | Textile Therapy的核心概念"
   - "纺织疗愈 | Textile Therapy的方法与实践"
-trigger_keywords: ["纺织疗愈", "aging", "anxiety", "art", "behavioral"]
+trigger_keywords: ["纺织疗愈", "Textile", "Therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/18-Digital-Therapy.md"
+    relation: "al/et/正念"
 ---
 # 纺织疗愈 | Textile Therapy
 

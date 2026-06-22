@@ -1,7 +1,6 @@
 ---
-
 title: "《烟雾迷眼》Smoke Gets in Your Eyes"
-description: "《烟雾迷眼》Smoke Gets in Your Eyes的详细解析与实践指南"
+description: "《烟雾迷眼》Smoke Gets in Your Eyes —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["decision-making", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《烟雾迷眼》Smoke Gets in Your Eyes"
   - "《烟雾迷眼》Smoke Gets in Your Eyes的核心概念"
   - "《烟雾迷眼》Smoke Gets in Your Eyes的方法与实践"
-trigger_keywords: ["anxiety", "cognitive", "death", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["decision-making", "《烟雾迷眼》Smoke", "Gets", "in", "Your"]
+cross_refs: []
 ---
 # 《烟雾迷眼》Smoke Gets in Your Eyes
 

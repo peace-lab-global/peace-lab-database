@@ -1,7 +1,6 @@
 ---
-
 title: "索伦·克尔凯郭尔 (Søren Kierkegaard)"
-description: "索伦·克尔凯郭尔 (Søren Kierkegaard)的详细解析与实践指南"
+description: "索伦·克尔凯郭尔 (Søren Kierkegaard) —— 19Th Century · Existential Precursors 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century > Existential Precursors"
 tags: ["decision-making", "depression", "healing"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是索伦·克尔凯郭尔"
   - "索伦·克尔凯郭尔的核心概念"
   - "索伦·克尔凯郭尔的方法与实践"
-trigger_keywords: ["索伦", "克尔凯郭尔", "anxiety", "communication", "crisis", "decision-making"]
+trigger_keywords: ["索伦", "克尔凯郭尔", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_High_Risk_Professions.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/communication/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/fear-and-trembling.md"
+    relation: "kierkegaard/ren/存在主义"
 ---
 # 索伦·克尔凯郭尔 (Søren Kierkegaard)
 

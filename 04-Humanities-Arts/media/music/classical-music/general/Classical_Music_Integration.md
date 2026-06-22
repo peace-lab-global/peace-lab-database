@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Integration (古典音乐与其他疗愈模式的整合)"
-description: "Classical Music Integration (古典音乐与其他疗愈模式的整合)的详细解析与实践指南"
+description: "Classical Music Integration (古典音乐与其他疗愈模式的整合) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Classical Music Integration"
   - "Classical Music Integration的核心概念"
   - "Classical Music Integration的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+trigger_keywords: ["Classical", "Music", "Integration", "古典音乐与其他疗愈模式的整合"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Integration_Modalities.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/emotion/meditation"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/正念喝水.md"
+    relation: "觉察/冥想/专注"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与万物共感/与万物共感：冥想练习：以心境为锚.md"
+    relation: "专注/冥想/觉察"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "觉察/呼吸/冥想"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/与当下同行：觉察是当下之门.md"
+    relation: "觉察/冥想/瑜伽"
 ---
 # Classical Music Integration (古典音乐与其他疗愈模式的整合)
 

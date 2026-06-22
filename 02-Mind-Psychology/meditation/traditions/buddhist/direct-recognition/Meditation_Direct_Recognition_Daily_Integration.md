@@ -1,7 +1,6 @@
 ---
-
 title: "Direct Recognition Daily Integration (处世与后得：不二论的日常整合)"
-description: "Direct Recognition Daily Integration (处世与后得：不二论的日常整合)的详细解析与实践指南"
+description: "Direct Recognition Daily Integration (处世与后得：不二论的日常整合) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["anxiety", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct Recognition Daily Integration"
   - "Direct Recognition Daily Integration的核心概念"
   - "Direct Recognition Daily Integration的方法与实践"
-trigger_keywords: ["anxiety", "cognitive", "communication", "emotion"]
-cross_refs:
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Overview.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Direct", "Recognition", "Daily", "Integration", "处世与后得：不二论的日常整合"]
+cross_refs: []
 ---
 # Direct Recognition Daily Integration (处世与后得：不二论的日常整合)
 

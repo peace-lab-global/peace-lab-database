@@ -1,7 +1,6 @@
 ---
-
 title: "composers | Index"
-description: "composers | Index的详细解析与实践指南"
+description: "composers | Index —— Musician · Composers 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Composers"
 tags: ["媒体", "music-therapy"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是composers | Index"
   - "composers | Index的核心概念"
   - "composers | Index的方法与实践"
-trigger_keywords: ["composers", "Index", "媒体", "音乐"]
+trigger_keywords: ["composers", "媒体", "音乐"]
 cross_refs: []
-
 ---
 # composers | Index
 

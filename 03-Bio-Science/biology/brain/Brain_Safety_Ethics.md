@@ -1,7 +1,6 @@
 ---
-
 title: "安全性与伦理 (Safety & Ethics)"
-description: "安全性与伦理 (Safety & Ethics)的详细解析与实践指南"
+description: "安全性与伦理 (Safety & Ethics) —— 生物学 · 神经科学 专题"
 category: "生命科学与生物医学 > 生物学 > 神经科学"
 tags: ["addiction", "aging", "bci", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是安全性与伦理"
   - "安全性与伦理的核心概念"
   - "安全性与伦理的方法与实践"
-trigger_keywords: ["安全性与伦理", "addiction", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["安全性与伦理", "Safety", "Ethics"]
+cross_refs: []
 ---
 # 安全性与伦理 (Safety & Ethics)
 

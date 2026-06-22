@@ -1,7 +1,6 @@
 ---
-
 title: "职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)"
-description: "职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)的详细解析与实践指南"
+description: "职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report) —— 应用心理学 · Vocational Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology"
 tags: ["cbt", "decision-making", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "职业心理学专业体系质量评估报告的核心概念"
   - "职业心理学专业体系质量评估报告的方法与实践"
   - "职业心理学专业体系质量评估报告的自助方法"
-trigger_keywords: ["act", "assessment", "behavioral", "cbt"]
+trigger_keywords: ["cbt", "职业心理学专业体系质量评估报告", "Vocational", "Psychology", "Professional"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Watsuji.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "sexuality/therapy/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Nussbaum.md"
-    relation: "sexuality/therapy/trauma"
-
+  - path: "03-Bio-Science/sexuality/gender-discrimination/GENDER_DISCRIMINATION_QUALITY_REPORT.md"
+    relation: "quality/value/completeness"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality/assessment"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Enhancement_Report.md"
+    relation: "report/psychology/professional"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Quality_Certification_Report.md"
+    relation: "quality/completeness/assessment"
 ---
 # 职业心理学专业体系质量评估报告 (Vocational Psychology Professional System Quality Assessment Report)
 

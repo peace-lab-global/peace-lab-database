@@ -1,7 +1,6 @@
 ---
-
 title: "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践"
-description: "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践的详细解析与实践指南"
+description: "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践 —— Tchaikovsky Ballets · Sleepingbeauty 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Tchaikovsky Ballets > Sleepingbeauty"
 tags: ["attachment", "ballet"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践的核心概念"
   - "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践的方法与实践"
   - "柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践的循证证据"
-trigger_keywords: ["adolescent", "art", "assessment", "attachment"]
+trigger_keywords: ["柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-companionship/Adolescent_Companionship_Psychology_Overview.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
+    relation: "发展心理学/依恋/亲子"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/舞蹈/意义"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md"
+    relation: "团体治疗/家庭治疗"
 ---
 # 柴可夫斯基芭蕾舞剧《睡美人》治疗应用实践
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《从这里到永恒》From Here to Eternity"
-description: "《从这里到永恒》From Here to Eternity的详细解析与实践指南"
+description: "《从这里到永恒》From Here to Eternity —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["music", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《从这里到永恒》From Here to Eternity"
   - "《从这里到永恒》From Here to Eternity的核心概念"
   - "《从这里到永恒》From Here to Eternity的方法与实践"
-trigger_keywords: ["behavioral", "body", "cognitive", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/death/emotion"
-
+trigger_keywords: ["《从这里到永恒》From", "Here", "to", "Eternity"]
+cross_refs: []
 ---
 # 《从这里到永恒》From Here to Eternity
 

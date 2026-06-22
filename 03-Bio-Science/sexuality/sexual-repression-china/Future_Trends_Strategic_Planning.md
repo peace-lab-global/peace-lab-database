@@ -1,7 +1,6 @@
 ---
-
 title: "未来趋势与战略规划：中国性压抑研究的前瞻性发展 (Future Trends and Strategic Planning: Forward-looking Development of Sexual Repression Research in China)"
-description: "未来趋势与战略规划：中国性压抑研究的前瞻性发展 (Future Trends and Strategic Planning: Forward-looking Development of Sexual Repression Research in China)的详细解析与实践指南"
+description: "未来趋势与战略规划：中国性压抑研究的前瞻性发展 (Future Trends and Strategic Planning: Forward-looking Development of Sexual Repression Research in China) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["decision-making", "intervention", "leadership", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是未来趋势与战略规划：中国性压抑研究的前瞻性发展"
   - "未来趋势与战略规划：中国性压抑研究的前瞻性发展的核心概念"
   - "未来趋势与战略规划：中国性压抑研究的前瞻性发展的方法与实践"
-trigger_keywords: ["act", "assessment", "clinical", "decision-making"]
+trigger_keywords: ["decision-making", "未来趋势与战略规划：中国性压抑研究的前瞻性发展", "Future", "Trends", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "sexuality/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "sexuality/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "sexuality/stress/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "sexuality/stress/therapy"
-
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Frontiers_Trends.md"
+    relation: "future/areas/trends"
 ---
 # 未来趋势与战略规划：中国性压抑研究的前瞻性发展 (Future Trends and Strategic Planning: Forward-looking Development of Sexual Repression Research in China)
 

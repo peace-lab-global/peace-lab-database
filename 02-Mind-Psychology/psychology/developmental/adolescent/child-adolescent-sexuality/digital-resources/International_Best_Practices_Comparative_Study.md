@@ -1,7 +1,6 @@
 ---
-
 title: "国际性教育最佳实践与比较研究 (International Best Practices and Comparative Studies in Sexuality Education)"
-description: "国际性教育最佳实践与比较研究 (International Best Practices and Comparative Studies in Sexuality Education)的详细解析与实践指南"
+description: "国际性教育最佳实践与比较研究 (International Best Practices and Comparative Studies in Sexuality Education) —— Child Adolescent Sexuality · Digital Resources 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Digital Resources"
 tags: ["decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是国际性教育最佳实践与比较研究"
   - "国际性教育最佳实践与比较研究的核心概念"
   - "国际性教育最佳实践与比较研究的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["国际性教育最佳实践与比较研究", "International", "Best", "Practices", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/productivity/sexuality"
-
+  - path: "03-Bio-Science/sexuality/gender-discrimination/International_Comparison_Best_Practices.md"
+    relation: "equality/policy/un"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/International_Comparison_Reference.md"
+    relation: "comparative/international/education"
 ---
 # 国际性教育最佳实践与比较研究 (International Best Practices and Comparative Studies in Sexuality Education)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)"
-description: "宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)的详细解析与实践指南"
+description: "宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment) —— 宗教心理学 · Clinical Applications 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Clinical Applications"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "宗教心理学临床应用与治疗的核心概念"
   - "宗教心理学临床应用与治疗的方法与实践"
   - "宗教心理学临床应用与治疗的循证证据"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["宗教心理学临床应用与治疗", "Religious", "Psychology:", "Clinical", "Applications"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/death/emotion"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/clinical-applications/Political_Psychology_Clinical_Interventions.md"
+    relation: "创伤/table/焦虑"
+  - path: "02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Clinical_Interventions.md"
+    relation: "危机干预/创伤"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md"
+    relation: "创伤/危机干预"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "危机干预/创伤/认知行为"
 ---
 # 宗教心理学临床应用与治疗 (Religious Psychology: Clinical Applications & Treatment)
 

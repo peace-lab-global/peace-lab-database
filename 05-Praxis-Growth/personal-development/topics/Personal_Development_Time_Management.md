@@ -1,7 +1,6 @@
 ---
-
 title: "Time Management & Productivity 时间管理与效率"
-description: "Time Management & Productivity 时间管理与效率的详细解析与实践指南"
+description: "Time Management & Productivity 时间管理与效率 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["flow", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Time Management & Productivity 时间管理与效率"
   - "Time Management & Productivity 时间管理与效率的核心概念"
   - "Time Management & Productivity 时间管理与效率的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Time", "Management", "Productivity", "时间管理与效率"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/meditation"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Psychology_of_Procrastination.md"
+    relation: "拖延/procrastination/效率"
 ---
 # Time Management & Productivity 时间管理与效率
 

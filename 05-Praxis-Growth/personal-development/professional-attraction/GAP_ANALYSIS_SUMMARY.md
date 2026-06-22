@@ -1,7 +1,6 @@
 ---
-
 title: "职业吸引心理学专业内容体系查漏补缺项目总结报告"
-description: "职业吸引心理学专业内容体系查漏补缺项目总结报告的详细解析与实践指南"
+description: "职业吸引心理学专业内容体系查漏补缺项目总结报告 —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "职业吸引心理学专业内容体系查漏补缺项目总结报告的核心概念"
   - "职业吸引心理学专业内容体系查漏补缺项目总结报告的方法与实践"
   - "职业吸引心理学专业内容体系查漏补缺项目总结报告的自助方法"
-trigger_keywords: ["act", "art", "assessment", "ballet"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "body_image/sexuality/stress"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "body_image/sexuality/stress"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "body_image/sexuality/stress"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "body_image/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "sexuality/stress/therapy"
-
+trigger_keywords: ["ballet", "职业吸引心理学专业内容体系查漏补缺项目总结报告"]
+cross_refs: []
 ---
 # 职业吸引心理学专业内容体系查漏补缺项目总结报告
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Sleep Science (睡眠科学与节律优化)"
-description: "Sleep Science (睡眠科学与节律优化)的详细解析与实践指南"
+description: "Sleep Science (睡眠科学与节律优化) —— 躯体与情绪 · Sleep 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
 tags: ["anxiety", "brain", "cbt", "cortisol", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sleep Science"
   - "Sleep Science的核心概念"
   - "Sleep Science的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Sleep", "Science", "睡眠科学与节律优化"]
+cross_refs: []
 ---
 # Sleep Science (睡眠科学与节律优化)
 

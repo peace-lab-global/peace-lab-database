@@ -1,7 +1,6 @@
 ---
-
 title: "paraphilia | Index"
-description: "paraphilia | Index的详细解析与实践指南"
+description: "paraphilia | Index —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["性学", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是paraphilia | Index"
   - "paraphilia | Index的核心概念"
   - "paraphilia | Index的方法与实践"
-trigger_keywords: ["paraphilia", "Index", "性学"]
+trigger_keywords: ["paraphilia", "性学"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/INDEX.md"
+    relation: "biology/legal/neuroscience"
 ---
 # paraphilia | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)"
-description: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)的详细解析与实践指南"
+description: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "brain", "fasting", "exercise", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Death Meditation Practices: Religious, Psychological & Sociological Perspectives"
   - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的核心概念"
   - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["Death", "Meditation", "Practices:", "Religious", "Psychological"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/死亡/冥想"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/临终/冥想"
 ---
 # Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)
 

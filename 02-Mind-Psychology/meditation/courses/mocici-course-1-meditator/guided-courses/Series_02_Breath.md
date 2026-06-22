@@ -1,7 +1,6 @@
 ---
-
 title: "系列二：呼吸冥想系列 | Breath Meditation Series"
-description: "系列二：呼吸冥想系列 | Breath Meditation Series的详细解析与实践指南"
+description: "系列二：呼吸冥想系列 | Breath Meditation Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "brain", "meditation", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是系列二：呼吸冥想系列 | Breath Meditation Series"
   - "系列二：呼吸冥想系列 | Breath Meditation Series的核心概念"
   - "系列二：呼吸冥想系列 | Breath Meditation Series的方法与实践"
-trigger_keywords: ["系列二：呼吸冥想系列", "anxiety", "body", "brain", "breathwork"]
+trigger_keywords: ["系列二：呼吸冥想系列", "Breath", "Meditation", "Series"]
 cross_refs:
   - path: "03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/spa/SPA_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/emotion/exercise"
-
+    relation: "hrv/心率/副交感"
+  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
+    relation: "呼吸/breath/心率"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
+    relation: "副交感/呼吸/心率"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/conscious-breathing.md"
+    relation: "呼吸/腹式呼吸/焦虑"
 ---
 # 系列二：呼吸冥想系列 | Breath Meditation Series
 

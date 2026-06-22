@@ -12,11 +12,7 @@ intent_queries:
   - "太极推手套路怎么练"
   - "太极散手对练"
 trigger_keywords: ["对练", "推手", "散手", "粘剑", "双人"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/push-hands-martial/TaiChi_Push_Hands_System.md"
-    relation: "push-hands-detail"
-  - path: "01-Wisdom-Traditions/tai-chi/forms-routines/TaiChi_Weapons_Forms.md"
-    relation: "weapons"
+cross_refs: []
 ---
 # 对练套路 | Partner Forms
 

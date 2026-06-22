@@ -1,7 +1,6 @@
 ---
-
 title: "Male Prostate Orgasm (前列腺高潮)"
-description: "Male Prostate Orgasm (前列腺高潮)的详细解析与实践指南"
+description: "Male Prostate Orgasm (前列腺高潮) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["gut", "neuroscience", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Male Prostate Orgasm"
   - "Male Prostate Orgasm的核心概念"
   - "Male Prostate Orgasm的方法与实践"
-trigger_keywords: ["body", "breathwork", "clinical", "communication"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Sexual_Health.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["Male", "Prostate", "Orgasm", "前列腺高潮"]
+cross_refs: []
 ---
 # Male Prostate Orgasm (前列腺高潮)
 

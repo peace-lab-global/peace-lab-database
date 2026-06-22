@@ -12,9 +12,7 @@ intent_queries:
   - "太极的Cochrane综述"
   - "太极RCT汇总"
 trigger_keywords: ["系统综述", "Meta分析", "RCT", "证据"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience-overview"
+cross_refs: []
 ---
 # 系统综述与Meta分析 | Systematic Reviews & Meta-Analyses
 

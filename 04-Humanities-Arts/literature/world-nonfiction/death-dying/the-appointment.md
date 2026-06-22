@@ -1,7 +1,6 @@
 ---
-
 title: "《约定》The Appointment"
-description: "《约定》The Appointment的详细解析与实践指南"
+description: "《约定》The Appointment —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["trauma", "writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《约定》The Appointment"
   - "《约定》The Appointment的核心概念"
   - "《约定》The Appointment的方法与实践"
-trigger_keywords: ["death", "sexuality", "trauma", "writing"]
+trigger_keywords: ["trauma", "writing"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/emotion"
-  - path: "README.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "death/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "death/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/christian/Multi_Perspective_Reviews.md"
-    relation: "death/emotion/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "死亡/创伤"
 ---
 # 《约定》The Appointment
 

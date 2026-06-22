@@ -1,7 +1,6 @@
 ---
-
 title: "正念行走（行禅）概述 | Walking Meditation Overview"
-description: "正念行走（行禅）概述 | Walking Meditation Overview的详细解析与实践指南"
+description: "正念行走（行禅）概述 | Walking Meditation Overview —— 冥想 · Walking Meditation 专题"
 category: "心智与心理学 > 冥想 > Walking Meditation"
 tags: ["anxiety", "brain", "mbsr", "adhd", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念行走（行禅）概述 | Walking Meditation Overview"
   - "正念行走（行禅）概述 | Walking Meditation Overview的核心概念"
   - "正念行走（行禅）概述 | Walking Meditation Overview的方法与实践"
-trigger_keywords: ["正念行走（行禅）概述", "act", "aging", "anxiety", "body"]
+trigger_keywords: ["正念行走（行禅）概述", "正念行走", "行禅", "概述", "Walking"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md"
+    relation: "walking/正念/table"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "正念/walking/table"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Mindful_Techniques.md"
+    relation: "walking/正念/冥想"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "正念/冥想/觉察"
 ---
 # 正念行走（行禅）概述 | Walking Meditation Overview
 

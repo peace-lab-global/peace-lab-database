@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Neuroscience & Mechanisms (冥想神经科学与作用机制)"
-description: "Meditation Neuroscience & Mechanisms (冥想神经科学与作用机制)的详细解析与实践指南"
+description: "Meditation Neuroscience & Mechanisms (冥想神经科学与作用机制) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["addiction", "anxiety", "brain", "cardiovascular", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Meditation Neuroscience & Mechanisms"
   - "Meditation Neuroscience & Mechanisms的核心概念"
   - "Meditation Neuroscience & Mechanisms的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["Meditation", "Neuroscience", "Mechanisms", "冥想神经科学与作用机制"]
 cross_refs:
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-brain-that-changes-itself.md"
+    relation: "changes/神经可塑性/神经元"
 ---
 # Meditation Neuroscience & Mechanisms (冥想神经科学与作用机制)
 

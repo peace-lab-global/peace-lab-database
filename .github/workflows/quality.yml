@@ -1,0 +1,82 @@
+# Quality gates for Peace Lab Database
+#
+# Runs on every push to main and on pull requests. Two jobs:
+#   1. link-check    — validates markdown links, but only FAILS the build for
+#                      broken links introduced by the current changeset. The
+#                      repo carries ~1000 pre-existing broken links from its
+#                      legacy (tracked in Tools/reports/remediation-backlog);
+#                      those are not blocked here. This "baseline" mode
+#                      prevents new debt without gating on historical cleanup.
+#   2. metadata-lint — lightweight frontmatter sanity check on changed files
+#                      only (parseable by PyYAML, no control chars, required
+#                      title field present).
+#
+# Full-corpus link checking and quality reporting tools live in Tools/tools/
+# and can be run locally; this workflow is a guardrail, not a full audit.
+
+name: Quality
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+
+jobs:
+  link-check:
+    name: Link check (changed files)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need history to diff against base
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Check links in changed files (baseline mode)
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="origin/${{ github.base_ref }}"
+          else
+            BASE="HEAD^"
+          fi
+          # Export the list of changed .md content files for the Python step.
+          git diff --name-only --diff-filter=AM "$BASE...HEAD" -- '*.md' \
+            | grep -E '^(0[1-6]-' \
+            > changed_files.txt || true
+          python3 Tools/scripts/ci_check_links.py
+
+  metadata-lint:
+    name: Metadata lint (changed files)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Lint frontmatter on changed content files
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            BASE="origin/${{ github.base_ref }}"
+          else
+            BASE="HEAD^"
+          fi
+          git diff --name-only --diff-filter=AM "$BASE...HEAD" -- '*.md' \
+            | grep -E '^(0[1-6]-' \
+            > changed_files.txt || true
+          python3 Tools/scripts/ci_lint_metadata.py

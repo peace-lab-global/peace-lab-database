@@ -1,7 +1,6 @@
 ---
-
 title: "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms"
-description: "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的详细解析与实践指南"
+description: "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["brain", "dmn", "intervention", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms"
   - "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的核心概念"
   - "03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms的方法与实践"
-trigger_keywords: ["act", "body", "brain", "breathwork"]
+trigger_keywords: ["03.", "正念干预倦怠的核心机制", "Mindfulness", "Mechanisms"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "emotion/exercise/meditation"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "emotion/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md"
-    relation: "emotion/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "emotion/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/meditation/neuroscience"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Meeting_Practice.md"
+    relation: "倦怠/正念/压力"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
+    relation: "正念/mindfulness/人格"
+  - path: "04-Humanities-Arts/media/cinema/horror-korean-drama/Horror_Korean_Drama_Psychological_Experience.md"
+    relation: "人格/共情"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
+    relation: "正念/mindfulness/觉察"
 ---
 # 03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms
 

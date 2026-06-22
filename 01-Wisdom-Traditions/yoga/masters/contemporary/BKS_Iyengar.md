@@ -1,7 +1,6 @@
 ---
-
 title: "B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人"
-description: "B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人的详细解析与实践指南"
+description: "B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人 —— Masters · Contemporary 专题"
 category: "智慧传承 > 瑜伽 > Masters > Contemporary"
 tags: ["depression", "meditation", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是B.K.S. Iyengar  — 精准瑜伽体系创始人"
   - "B.K.S. Iyengar  — 精准瑜伽体系创始人的核心概念"
   - "B.K.S. Iyengar  — 精准瑜伽体系创始人的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "body"]
+trigger_keywords: ["B.K.S.", "Iyengar", "艾扬格", "精准瑜伽体系创始人"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：能量瑜伽.md"
+    relation: "瑜伽/体式/冥想"
+  - path: "03-Bio-Science/sexuality/Society_Community_Support.md"
+    relation: "iyengar/瑜伽/体式"
 ---
 # B.K.S. Iyengar (B.K.S. 艾扬格) — 精准瑜伽体系创始人
 

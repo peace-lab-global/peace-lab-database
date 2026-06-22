@@ -1,7 +1,6 @@
 ---
-
 title: "暴露训练指南"
-description: "暴露训练指南的详细解析与实践指南"
+description: "暴露训练指南 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是暴露训练指南"
   - "暴露训练指南的核心概念"
   - "暴露训练指南的方法与实践"
-trigger_keywords: ["暴露训练指南", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["暴露训练指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/Sexuality_Development_Lifespan.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "暴露/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "暴露/焦虑"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Clinical_Protocols.md"
+    relation: "暴露/焦虑/创伤"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
+    relation: "暴露/焦虑"
 ---
 # 暴露训练指南
 

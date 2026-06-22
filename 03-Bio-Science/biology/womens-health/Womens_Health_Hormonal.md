@@ -1,7 +1,6 @@
 ---
-
 title: "女性激素健康管理 | Women's Health Hormonal Guide"
-description: "女性激素健康管理 | Women's Health Hormonal Guide的详细解析与实践指南"
+description: "女性激素健康管理 | Women's Health Hormonal Guide —— 生物学 · Womens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Womens Health"
 tags: ["brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是女性激素健康管理 | Women's Health Hormonal Guide"
   - "女性激素健康管理 | Women's Health Hormonal Guide的核心概念"
   - "女性激素健康管理 | Women's Health Hormonal Guide的方法与实践"
-trigger_keywords: ["女性激素健康管理", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+trigger_keywords: ["女性激素健康管理", "Women's", "Health", "Hormonal", "Guide"]
+cross_refs: []
 ---
 # 女性激素健康管理 | Women's Health Hormonal Guide
 

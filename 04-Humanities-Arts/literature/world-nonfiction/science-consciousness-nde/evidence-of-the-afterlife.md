@@ -1,7 +1,6 @@
 ---
-
 title: "《来世的证据》Evidence of the Afterlife"
-description: "《来世的证据》Evidence of the Afterlife的详细解析与实践指南"
+description: "《来世的证据》Evidence of the Afterlife —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《来世的证据》Evidence of the Afterlife"
   - "《来世的证据》Evidence of the Afterlife的核心概念"
   - "《来世的证据》Evidence of the Afterlife的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "child"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["《来世的证据》Evidence", "of", "the", "Afterlife"]
+cross_refs: []
 ---
 # 《来世的证据》Evidence of the Afterlife
 

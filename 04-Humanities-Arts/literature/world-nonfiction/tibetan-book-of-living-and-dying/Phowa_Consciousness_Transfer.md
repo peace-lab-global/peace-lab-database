@@ -1,7 +1,6 @@
 ---
-
 title: "颇瓦法：意识迁移的修行"
-description: "颇瓦法：意识迁移的修行的详细解析与实践指南"
+description: "颇瓦法：意识迁移的修行 —— World Nonfiction · Tibetan Book Of Living And Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Tibetan Book Of Living And Dying"
 tags: ["dzogchen", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是颇瓦法：意识迁移的修行"
   - "颇瓦法：意识迁移的修行的核心概念"
   - "颇瓦法：意识迁移的修行的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "death"]
+trigger_keywords: ["颇瓦法：意识迁移的修行"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
-    relation: "buddhism/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/死亡/佛教"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "临终/死亡/佛教"
 ---
 # 颇瓦法：意识迁移的修行
 

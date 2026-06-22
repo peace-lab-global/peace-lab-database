@@ -1,7 +1,6 @@
 ---
-
 title: "Severe Mental Illness Overview (严重精神障碍总览)"
-description: "Severe Mental Illness Overview (严重精神障碍总览)的详细解析与实践指南"
+description: "Severe Mental Illness Overview (严重精神障碍总览) —— 临床心理 · 精神障碍 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍"
 tags: ["anxiety", "brain", "schizophrenia", "bipolar"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Severe Mental Illness Overview"
   - "Severe Mental Illness Overview的核心概念"
   - "Severe Mental Illness Overview的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Severe", "Mental", "Illness", "Overview", "严重精神障碍总览"]
+cross_refs: []
 ---
 # Severe Mental Illness Overview (严重精神障碍总览)
 

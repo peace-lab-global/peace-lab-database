@@ -1,7 +1,6 @@
 ---
-
 title: "心理学演讲概述 | Psychology Talks Overview"
-description: "心理学演讲概述 | Psychology Talks Overview的详细解析与实践指南"
+description: "心理学演讲概述 | Psychology Talks Overview —— 讲座 · 心理学 专题"
 category: "实践与个人增长 > 讲座 > 心理学"
 tags: ["flow"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "心理学演讲概述 | Psychology Talks Overview的核心概念"
   - "心理学演讲概述 | Psychology Talks Overview的方法与实践"
   - "心理学演讲概述 | Psychology Talks Overview的自助方法"
-trigger_keywords: ["心理学演讲概述", "act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["心理学演讲概述", "Psychology", "Talks", "Overview"]
+cross_refs: []
 ---
 # 心理学演讲概述 | Psychology Talks Overview
 

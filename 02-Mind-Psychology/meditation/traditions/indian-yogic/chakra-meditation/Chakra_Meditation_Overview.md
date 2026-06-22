@@ -1,7 +1,6 @@
 ---
-
 title: "脉轮冥想专业概述：从Tantra传统到现代能量修习"
-description: "脉轮冥想专业概述：从Tantra传统到现代能量修习的详细解析与实践指南"
+description: "脉轮冥想专业概述：从Tantra传统到现代能量修习 —— 冥想 · Chakra Meditation 专题"
 category: "心智与心理学 > 冥想 > Chakra Meditation"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是脉轮冥想专业概述：从Tantra传统到现代能量修习"
   - "脉轮冥想专业概述：从Tantra传统到现代能量修习的核心概念"
   - "脉轮冥想专业概述：从Tantra传统到现代能量修习的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["脉轮冥想专业概述：从Tantra传统到现代能量修习"]
+cross_refs: []
 ---
 # 脉轮冥想专业概述：从Tantra传统到现代能量修习
 

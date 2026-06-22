@@ -1,7 +1,6 @@
 ---
-
 title: "Satir Communication Stances (萨提亚沟通姿态详表)"
-description: "Satir Communication Stances (萨提亚沟通姿态详表)的详细解析与实践指南"
+description: "Satir Communication Stances (萨提亚沟通姿态详表) —— 冥想 · 萨提亚模式 专题"
 category: "心智与心理学 > 冥想 > 萨提亚模式"
 tags: ["anxiety", "brain", "cardiovascular", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Satir Communication Stances"
   - "Satir Communication Stances的核心概念"
   - "Satir Communication Stances的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+trigger_keywords: ["Satir", "Communication", "Stances", "萨提亚沟通姿态详表"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md"
+    relation: "沟通/communication/professional"
 ---
 # Satir Communication Stances (萨提亚沟通姿态详表)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "性教育与社会变革推动"
-description: "性教育与社会变革推动的详细解析与实践指南"
+description: "性教育与社会变革推动 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是性教育与社会变革推动"
   - "性教育与社会变革推动的核心概念"
   - "性教育与社会变革推动的方法与实践"
-trigger_keywords: ["性教育与社会变革推动", "act", "adolescent", "assessment", "behavioral"]
+trigger_keywords: ["性教育与社会变革推动"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "人际关系/亲密关系"
+  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
+    relation: "人际关系/亲密关系"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/the-gift-of-therapy.md"
+    relation: "人际关系/亲密关系"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
+    relation: "人际关系/障碍"
 ---
 # 性教育与社会变革推动
 

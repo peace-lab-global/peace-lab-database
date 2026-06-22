@@ -1,7 +1,6 @@
 ---
-
 title: "应用伦理学经典 · 佛法视角三方书评"
-description: "应用伦理学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "应用伦理学经典 · 佛法视角三方书评 —— Contemporary · Applied Ethics 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Applied Ethics"
 tags: ["buddhism", "philosophy", "positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是应用伦理学经典 · 佛法视角三方书评"
   - "应用伦理学经典 · 佛法视角三方书评的核心概念"
   - "应用伦理学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["应用伦理学经典", "佛法视角三方书评", "act", "assessment", "behavioral", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Eckhart_Tolle.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["应用伦理学经典", "佛法视角三方书评"]
+cross_refs: []
 ---
 # 应用伦理学经典 · 佛法视角三方书评
 

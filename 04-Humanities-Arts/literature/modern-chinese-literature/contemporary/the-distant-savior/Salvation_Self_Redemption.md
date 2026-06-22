@@ -1,7 +1,6 @@
 ---
-
 title: "救世与自救 (Salvation & Self-Redemption)"
-description: "救世与自救 (Salvation & Self-Redemption)的详细解析与实践指南"
+description: "救世与自救 (Salvation & Self-Redemption) —— Contemporary · The Distant Savior 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Distant Savior"
 tags: ["mindfulness", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是救世与自救"
   - "救世与自救的核心概念"
   - "救世与自救的方法与实践"
-trigger_keywords: ["救世与自救", "body", "cognitive", "communication", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["救世与自救", "exercise"]
+cross_refs: []
 ---
 # 救世与自救 (Salvation & Self-Redemption)
 

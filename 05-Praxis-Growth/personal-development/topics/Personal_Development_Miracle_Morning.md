@@ -1,7 +1,6 @@
 ---
-
 title: "The Miracle Morning 早起的奇迹"
-description: "The Miracle Morning 早起的奇迹的详细解析与实践指南"
+description: "The Miracle Morning 早起的奇迹 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["cbt", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是The Miracle Morning 早起的奇迹"
   - "The Miracle Morning 早起的奇迹的核心概念"
   - "The Miracle Morning 早起的奇迹的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "death/exercise/meditation"
-  - path: "README.md"
-    relation: "death/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "death/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "exercise/meditation/neuroscience"
-
+trigger_keywords: ["The", "Miracle", "Morning", "早起的奇迹"]
+cross_refs: []
 ---
 # The Miracle Morning 早起的奇迹
 

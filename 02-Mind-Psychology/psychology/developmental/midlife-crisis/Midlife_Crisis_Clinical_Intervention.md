@@ -1,7 +1,6 @@
 ---
-
 title: "中年危机临床干预指南专业内容体系"
-description: "中年危机临床干预指南专业内容体系的详细解析与实践指南"
+description: "中年危机临床干预指南专业内容体系 —— 发展心理学 · Midlife Crisis 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Midlife Crisis"
 tags: ["anxiety", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是中年危机临床干预指南专业内容体系"
   - "中年危机临床干预指南专业内容体系的核心概念"
   - "中年危机临床干预指南专业内容体系的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["中年危机临床干预指南专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No1/Chopin_Piano_Concerto_No1_Composition_Background.md"
+    relation: "意义/冲突/情绪调节"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "家庭治疗/亲子/认知行为"
+  - path: "04-Humanities-Arts/media/music/classical-music/chopin-piano-concertos/No2/Chopin_Piano_Concerto_No2_Composition_Background.md"
+    relation: "冲突/情绪调节/意义"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite1/Bach_English_Suite_No1_Composition_Background.md"
+    relation: "情绪调节/意义"
 ---
 # 中年危机临床干预指南专业内容体系
 

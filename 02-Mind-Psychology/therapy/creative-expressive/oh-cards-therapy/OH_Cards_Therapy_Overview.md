@@ -1,7 +1,6 @@
 ---
-
 title: "OH卡疗法概览 (OH Cards Therapy Overview)"
-description: "OH卡疗法概览 (OH Cards Therapy Overview)的详细解析与实践指南"
+description: "OH卡疗法概览 (OH Cards Therapy Overview) —— 疗法 · Oh Cards Therapy 专题"
 category: "心智与心理学 > 疗法 > Oh Cards Therapy"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "OH卡疗法概览的核心概念"
   - "OH卡疗法概览的方法与实践"
   - "OH卡疗法概览的循证证据"
-trigger_keywords: ["OH卡疗法概览", "act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["OH卡疗法概览", "OH", "Cards", "Therapy", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/neuroscience"
-
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md"
+    relation: "development/疗法/theoretical"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Case_Studies.md"
+    relation: "oh/cards/basic"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Training_Certification.md"
+    relation: "oh/certification/cards"
 ---
 # OH卡疗法概览 (OH Cards Therapy Overview)
 

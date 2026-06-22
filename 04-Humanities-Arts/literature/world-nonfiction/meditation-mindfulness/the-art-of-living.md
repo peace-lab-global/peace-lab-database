@@ -1,7 +1,6 @@
 ---
-
 title: "《内观》The Art of Living"
-description: "《内观》The Art of Living的详细解析与实践指南"
+description: "《内观》The Art of Living —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《内观》The Art of Living"
   - "《内观》The Art of Living的核心概念"
   - "《内观》The Art of Living的方法与实践"
-trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+trigger_keywords: ["《内观》The", "Art", "of", "Living"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Vipassana_Practice_Guide.md"
+    relation: "内观/vipassana/goenka"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
+    relation: "内观/vipassana/anapanasati"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md"
+    relation: "vipassana/内观/专注"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/vipassana/INDEX.md"
+    relation: "内观/vipassana/goenka"
 ---
 # 《内观》The Art of Living
 

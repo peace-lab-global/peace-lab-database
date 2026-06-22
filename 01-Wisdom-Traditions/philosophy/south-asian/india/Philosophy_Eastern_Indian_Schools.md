@@ -1,7 +1,6 @@
 ---
-
 title: "Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)"
-description: "Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)的详细解析与实践指南"
+description: "Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派) —— South Asian · India 专题"
 category: "智慧传承 > 哲学 > South Asian > India"
 tags: ["intervention", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Eastern Philosophy: Indian Philosophical Schools"
   - "Eastern Philosophy: Indian Philosophical Schools的核心概念"
   - "Eastern Philosophy: Indian Philosophical Schools的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["Eastern", "Philosophy:", "Indian", "Philosophical", "Schools"]
+cross_refs: []
 ---
 # Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)
 

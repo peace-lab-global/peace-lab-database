@@ -1,7 +1,6 @@
 ---
-
 title: "唯识学与八识心王 (Yogācāra & Eight Consciousnesses)"
-description: "唯识学与八识心王 (Yogācāra & Eight Consciousnesses)的详细解析与实践指南"
+description: "唯识学与八识心王 (Yogācāra & Eight Consciousnesses) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["addiction", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是唯识学与八识心王"
   - "唯识学与八识心王的核心概念"
   - "唯识学与八识心王的方法与实践"
-trigger_keywords: ["唯识学与八识心王", "act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Chanting_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "anxiety/buddhism/sexuality"
-
+trigger_keywords: ["唯识学与八识心王", "Yogācāra", "Eight", "Consciousnesses"]
+cross_refs: []
 ---
 # 唯识学与八识心王 (Yogācāra & Eight Consciousnesses)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "神经调控技术 (Neuromodulation Technologies)"
-description: "神经调控技术 (Neuromodulation Technologies)的详细解析与实践指南"
+description: "神经调控技术 (Neuromodulation Technologies) —— 生物学 · 神经科学 专题"
 category: "生命科学与生物医学 > 生物学 > 神经科学"
 tags: ["brain", "depression", "exercise", "inflammation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是神经调控技术"
   - "神经调控技术的核心概念"
   - "神经调控技术的方法与实践"
-trigger_keywords: ["神经调控技术", "act", "anxiety", "brain", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "anxiety/depression/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "anxiety/depression/exercise"
-
+trigger_keywords: ["神经调控技术", "Neuromodulation", "Technologies"]
+cross_refs: []
 ---
 # 神经调控技术 (Neuromodulation Technologies)
 

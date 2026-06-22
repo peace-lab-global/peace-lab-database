@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法实践指南 (Practical Guidelines)"
-description: "檀香疗法实践指南 (Practical Guidelines)的详细解析与实践指南"
+description: "檀香疗法实践指南 (Practical Guidelines) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "sleep", "therapy", "疗法", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法实践指南的核心概念"
   - "檀香疗法实践指南的方法与实践"
   - "檀香疗法实践指南的循证证据"
-trigger_keywords: ["檀香疗法实践指南", "act", "anxiety", "breathwork", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "03-Bio-Science/biology/spa/SPA_Services_Techniques.md"
-    relation: "anxiety/cardiovascular/sexuality"
-
+trigger_keywords: ["檀香疗法实践指南", "Practical", "Guidelines"]
+cross_refs: []
 ---
 # 檀香疗法实践指南 (Practical Guidelines)
 

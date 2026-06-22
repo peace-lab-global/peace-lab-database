@@ -1,7 +1,6 @@
 ---
-
 title: "假期心理临床干预指南专业内容体系"
-description: "假期心理临床干预指南专业内容体系的详细解析与实践指南"
+description: "假期心理临床干预指南专业内容体系 —— 应用心理学 · Holiday Psychology 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Holiday Psychology"
 tags: ["anxiety", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "假期心理临床干预指南专业内容体系的核心概念"
   - "假期心理临床干预指南专业内容体系的方法与实践"
   - "假期心理临床干预指南专业内容体系的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["假期心理临床干预指南专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "家庭治疗/亲子/认知行为"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/情绪调节"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Therapeutic_Use.md"
+    relation: "家庭治疗/亲子"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md"
+    relation: "家庭治疗/亲子"
 ---
 # 假期心理临床干预指南专业内容体系
 

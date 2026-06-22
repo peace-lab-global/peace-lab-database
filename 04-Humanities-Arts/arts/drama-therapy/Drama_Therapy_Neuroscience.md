@@ -1,7 +1,6 @@
 ---
-
 title: "Drama Therapy Neuroscience"
-description: "Drama Therapy Neuroscience的详细解析与实践指南"
+description: "Drama Therapy Neuroscience —— 艺术 · 戏剧疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 戏剧疗愈"
 tags: ["戏剧疗愈", "art-therapy"]
 last_updated: "2026-05"
@@ -14,17 +13,14 @@ intent_queries:
   - "Drama Therapy Neuroscience的方法与实践"
 trigger_keywords: ["戏剧疗愈", "艺术"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/neuroscience/therapy"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/neuroscience/therapy"
-
+  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/hindu-meditation/INDEX.md"
+    relation: "lab/peace"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/INDEX.md"
+    relation: "lab/peace"
 ---
 # Drama Therapy Neuroscience
 

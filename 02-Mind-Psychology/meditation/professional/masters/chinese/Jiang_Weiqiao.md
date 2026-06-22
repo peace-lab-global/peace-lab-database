@@ -1,7 +1,6 @@
 ---
-
 title: "蒋维乔 (Jiang Weiqiao)"
-description: "蒋维乔 (Jiang Weiqiao)的详细解析与实践指南"
+description: "蒋维乔 (Jiang Weiqiao) —— Masters · Chinese 专题"
 category: "心智与心理学 > 冥想 > Masters > Chinese"
 tags: ["daoism", "meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是蒋维乔"
   - "蒋维乔的核心概念"
   - "蒋维乔的方法与实践"
-trigger_keywords: ["蒋维乔", "body", "breathwork", "buddhism", "daoism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "communication/daoism/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/daoism/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/emotion"
-  - path: "README.md"
-    relation: "buddhism/communication/daoism"
-
+trigger_keywords: ["蒋维乔", "daoism"]
+cross_refs: []
 ---
 # 蒋维乔 (Jiang Weiqiao)
 

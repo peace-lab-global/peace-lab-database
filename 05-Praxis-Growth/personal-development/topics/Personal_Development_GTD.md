@@ -1,7 +1,6 @@
 ---
-
 title: "Getting Things Done 搞定"
-description: "Getting Things Done 搞定的详细解析与实践指南"
+description: "Getting Things Done 搞定 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["decision-making", "habits", "positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Getting Things Done 搞定"
   - "Getting Things Done 搞定的核心概念"
   - "Getting Things Done 搞定的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_09_Workplace.md"
-    relation: "anxiety/communication/neuroscience"
-
+trigger_keywords: ["Getting", "Things", "Done", "搞定"]
+cross_refs: []
 ---
 # Getting Things Done 搞定
 

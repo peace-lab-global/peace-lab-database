@@ -1,7 +1,6 @@
 ---
-
 title: "弗里德里希·尼采 (Friedrich Nietzsche)"
-description: "弗里德里希·尼采 (Friedrich Nietzsche)的详细解析与实践指南"
+description: "弗里德里希·尼采 (Friedrich Nietzsche) —— Western Philosophy · 19Th Century 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century"
 tags: ["healing", "music", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是弗里德里希·尼采"
   - "弗里德里希·尼采的核心概念"
   - "弗里德里希·尼采的方法与实践"
-trigger_keywords: ["弗里德里希", "尼采", "art", "developmental", "emotion", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "emotion/sexuality"
-
+trigger_keywords: ["弗里德里希", "尼采", "healing"]
+cross_refs: []
 ---
 # 弗里德里希·尼采 (Friedrich Nietzsche)
 

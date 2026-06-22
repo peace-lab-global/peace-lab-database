@@ -1,7 +1,6 @@
 ---
-
 title: "《红高粱》核心思想与观点分析"
-description: "《红高粱》核心思想与观点分析的详细解析与实践指南"
+description: "《红高粱》核心思想与观点分析 —— Contemporary · Red Sorghum 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Red Sorghum"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《红高粱》核心思想与观点分析"
   - "《红高粱》核心思想与观点分析的核心概念"
   - "《红高粱》核心思想与观点分析的方法与实践"
-trigger_keywords: ["death", "literature", "sexuality", "文学"]
+trigger_keywords: ["文学", "《红高粱》核心思想与观点分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/death/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Existential.md"
+    relation: "vs/死亡"
+  - path: "03-Bio-Science/death/Death_Comparative_Philosophy.md"
+    relation: "vs/死亡"
 ---
 # 《红高粱》核心思想与观点分析
 

@@ -1,7 +1,6 @@
 ---
-
 title: "慈心禅引导词脚本 | Loving-Kindness Meditation Scripts"
-description: "慈心禅引导词脚本 | Loving-Kindness Meditation Scripts的详细解析与实践指南"
+description: "慈心禅引导词脚本 | Loving-Kindness Meditation Scripts —— 冥想 · Guided Scripts 专题"
 category: "心智与心理学 > 冥想 > Guided Scripts"
 tags: ["mbsr", "meditation", "mindfulness", "ocd", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是慈心禅引导词脚本 | Loving-Kindness Meditation Scripts"
   - "慈心禅引导词脚本 | Loving-Kindness Meditation Scripts的核心概念"
   - "慈心禅引导词脚本 | Loving-Kindness Meditation Scripts的方法与实践"
-trigger_keywords: ["慈心禅引导词脚本", "body", "breathwork", "emotion", "mbsr"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "emotion/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "emotion/meditation/sexuality"
-
+trigger_keywords: ["慈心禅引导词脚本", "mbsr"]
+cross_refs: []
 ---
 # 慈心禅引导词脚本 | Loving-Kindness Meditation Scripts
 

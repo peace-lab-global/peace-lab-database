@@ -7,16 +7,8 @@ date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
 cross_refs:
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/body_image/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
+  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+    relation: "羞耻/shame"
 ---
 
 # 身体羞耻障碍临床评估与诊断指南

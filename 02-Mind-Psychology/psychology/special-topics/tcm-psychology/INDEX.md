@@ -1,7 +1,6 @@
 ---
-
 title: "tcm-psychology | Index"
-description: "tcm-psychology | Index的详细解析与实践指南"
+description: "tcm-psychology | Index —— 特殊专题 · Tcm Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Tcm Psychology"
 tags: ["心理学", "特殊专题", "act"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是tcm-psychology | Index"
   - "tcm-psychology | Index的核心概念"
   - "tcm-psychology | Index的方法与实践"
-trigger_keywords: ["Index", "act", "心理学", "特殊专题"]
-cross_refs: []
-
+trigger_keywords: ["心理学", "特殊专题"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md"
+    relation: "psychology/theory/contents"
 ---
 # tcm-psychology | Index
 

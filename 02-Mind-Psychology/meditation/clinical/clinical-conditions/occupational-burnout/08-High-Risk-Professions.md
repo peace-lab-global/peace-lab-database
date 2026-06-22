@@ -1,7 +1,6 @@
 ---
-
 title: "08. 高风险职业适配 | High-Risk Professions"
-description: "08. 高风险职业适配 | High-Risk Professions的详细解析与实践指南"
+description: "08. 高风险职业适配 | High-Risk Professions —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "decision-making", "mbsr", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是08. 高风险职业适配 | High-Risk Professions"
   - "08. 高风险职业适配 | High-Risk Professions的核心概念"
   - "08. 高风险职业适配 | High-Risk Professions的方法与实践"
-trigger_keywords: ["anxiety", "body", "breathwork", "cognitive"]
+trigger_keywords: ["08.", "高风险职业适配", "High-Risk", "Professions"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "README.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "03-Bio-Science/death/Death_High_Risk_Occupations.md"
+    relation: "injury/high-risk/moral"
 ---
 # 08. 高风险职业适配 | High-Risk Professions
 

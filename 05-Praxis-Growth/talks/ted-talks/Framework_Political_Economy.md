@@ -1,7 +1,6 @@
 ---
-
 title: "政治经济学 | Political Economy"
-description: "政治经济学 | Political Economy的详细解析与实践指南"
+description: "政治经济学 | Political Economy —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["leadership", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是政治经济学 | Political Economy"
   - "政治经济学 | Political Economy的核心概念"
   - "政治经济学 | Political Economy的方法与实践"
-trigger_keywords: ["政治经济学", "act", "crisis", "developmental", "leadership"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["政治经济学", "leadership"]
+cross_refs: []
 ---
 # 政治经济学 | Political Economy
 

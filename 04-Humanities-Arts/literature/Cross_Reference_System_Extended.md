@@ -1,7 +1,6 @@
 ---
-
 title: "中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络"
-description: "中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络的详细解析与实践指南"
+description: "中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络 —— 人文与艺术疗愈 · 文学 专题"
 category: "人文与艺术疗愈 > 文学"
 tags: ["healing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络"
   - "中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络的核心概念"
   - "中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络的方法与实践"
-trigger_keywords: ["act", "art", "cognitive", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/emotion/sexuality"
-
+trigger_keywords: ["中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络"]
+cross_refs: []
 ---
 # 中国古典与现代文学体系交叉引用关系：各文学传统间的关联网络
 

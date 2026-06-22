@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)"
-description: "Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)的详细解析与实践指南"
+description: "Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["aging", "brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Tuina Modern Research & Evidence-Based Medicine"
   - "Tuina Modern Research & Evidence-Based Medicine的核心概念"
   - "Tuina Modern Research & Evidence-Based Medicine的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Tuina", "Modern", "Research", "Evidence-Based", "Medicine"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Research_Evidence.md"
+    relation: "research/evidence/evidence-based"
 ---
 # Tuina Modern Research & Evidence-Based Medicine (推拿现代研究与循证医学)
 

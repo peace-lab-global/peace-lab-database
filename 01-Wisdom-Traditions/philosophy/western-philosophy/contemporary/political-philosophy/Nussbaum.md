@@ -1,7 +1,6 @@
 ---
-
 title: "玛莎·努斯鲍姆 (Martha Nussbaum)"
-description: "玛莎·努斯鲍姆 (Martha Nussbaum)的详细解析与实践指南"
+description: "玛莎·努斯鲍姆 (Martha Nussbaum) —— Contemporary · Political Philosophy 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Contemporary > Political Philosophy"
 tags: ["cbt", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是玛莎·努斯鲍姆"
   - "玛莎·努斯鲍姆的核心概念"
   - "玛莎·努斯鲍姆的方法与实践"
-trigger_keywords: ["玛莎", "努斯鲍姆", "assessment", "behavioral", "cbt", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
-    relation: "emotion/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/10-Contraindications.md"
-    relation: "emotion/sexuality/therapy"
-
+trigger_keywords: ["玛莎", "努斯鲍姆", "cbt"]
+cross_refs: []
 ---
 # 玛莎·努斯鲍姆 (Martha Nussbaum)
 

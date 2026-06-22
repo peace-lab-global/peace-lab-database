@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《法国组曲第五号》创作背景与心理分析"
-description: "巴赫《法国组曲第五号》创作背景与心理分析的详细解析与实践指南"
+description: "巴赫《法国组曲第五号》创作背景与心理分析 —— Bach French Suites · Suite5 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach French Suites > Suite5"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "巴赫《法国组曲第五号》创作背景与心理分析的核心概念"
   - "巴赫《法国组曲第五号》创作背景与心理分析的方法与实践"
   - "巴赫《法国组曲第五号》创作背景与心理分析的自助方法"
-trigger_keywords: ["art", "clinical", "cognitive", "developmental"]
+trigger_keywords: ["巴赫《法国组曲第五号》创作背景与心理分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
+    relation: "情绪调节/意义"
 ---
 # 巴赫《法国组曲第五号》创作背景与心理分析
 

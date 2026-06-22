@@ -1,7 +1,6 @@
 ---
-
 title: "茅盾完整专业档案：现实主义文学大师"
-description: "茅盾完整专业档案：现实主义文学大师的详细解析与实践指南"
+description: "茅盾完整专业档案：现实主义文学大师 —— Near Modern · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Near Modern > Authors"
 tags: ["literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是茅盾完整专业档案：现实主义文学大师"
   - "茅盾完整专业档案：现实主义文学大师的核心概念"
   - "茅盾完整专业档案：现实主义文学大师的方法与实践"
-trigger_keywords: ["act", "art", "cognitive", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "exercise/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "exercise/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "exercise/personality/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "exercise/personality/sexuality"
-
+trigger_keywords: ["茅盾完整专业档案：现实主义文学大师"]
+cross_refs: []
 ---
 # 茅盾完整专业档案：现实主义文学大师
 

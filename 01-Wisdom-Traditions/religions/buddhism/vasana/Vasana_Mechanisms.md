@@ -1,7 +1,6 @@
 ---
-
 title: "熏习机制与类型 (Vāsanā Mechanisms & Types)"
-description: "熏习机制与类型 (Vāsanā Mechanisms & Types)的详细解析与实践指南"
+description: "熏习机制与类型 (Vāsanā Mechanisms & Types) —— 佛教 · Vasana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是熏习机制与类型"
   - "熏习机制与类型的核心概念"
   - "熏习机制与类型的方法与实践"
-trigger_keywords: ["熏习机制与类型", "act", "addiction", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/neuroscience/personality"
-  - path: "GLOSSARY.md"
-    relation: "buddhism/neuroscience/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "buddhism/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/personality/productivity"
-
+trigger_keywords: ["熏习机制与类型", "Vāsanā", "Mechanisms", "Types"]
+cross_refs: []
 ---
 # 熏习机制与类型 (Vāsanā Mechanisms & Types)
 

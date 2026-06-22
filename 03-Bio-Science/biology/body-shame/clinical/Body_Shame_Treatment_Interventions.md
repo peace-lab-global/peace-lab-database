@@ -7,16 +7,10 @@ date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/relationships/infidelity/Chronic_Infidelity.md"
-    relation: "anxiety/emotion/exercise"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md"
+    relation: "团体治疗/认知重构/正念"
+  - path: "02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/Compassion_Focused_Therapy.md"
+    relation: "cft/羞耻/团体治疗"
 ---
 
 # 身体羞耻障碍治疗干预方法体系

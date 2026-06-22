@@ -1,7 +1,6 @@
 ---
-
 title: "《占有还是存在》书评"
-description: "《占有还是存在》书评的详细解析与实践指南"
+description: "《占有还是存在》书评 —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["daoism", "literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《占有还是存在》书评"
   - "《占有还是存在》书评的核心概念"
   - "《占有还是存在》书评的方法与实践"
-trigger_keywords: ["《占有还是存在》书评", "behavioral", "body", "buddhism", "crisis"]
+trigger_keywords: ["《占有还是存在》书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/exercise"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Multi_Perspective_Reviews.md"
+    relation: "力量/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/not-for-happiness/Multi_Perspective_Reviews.md"
+    relation: "力量/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/mahamudra/Mahamudra_Psychological_Integration.md"
+    relation: "智慧/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/Multi_Perspective_Reviews.md"
+    relation: "智慧/力量"
 ---
 # 《占有还是存在》书评
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《额尔古纳河右岸》核心思想与观点分析"
-description: "《额尔古纳河右岸》核心思想与观点分析的详细解析与实践指南"
+description: "《额尔古纳河右岸》核心思想与观点分析 —— Contemporary · The Last Quarter Of The Moon 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Last Quarter Of The Moon"
 tags: ["longevity", "phobia", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《额尔古纳河右岸》核心思想与观点分析"
   - "《额尔古纳河右岸》核心思想与观点分析的核心概念"
   - "《额尔古纳河右岸》核心思想与观点分析的方法与实践"
-trigger_keywords: ["body", "communication", "death", "exercise"]
+trigger_keywords: ["exercise", "《额尔古纳河右岸》核心思想与观点分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse_Works_Analysis.md"
+    relation: "智慧/意义"
 ---
 # 《额尔古纳河右岸》核心思想与观点分析
 

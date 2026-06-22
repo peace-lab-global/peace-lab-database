@@ -1,7 +1,6 @@
 ---
-
 title: "Anxiety Disorders Overview (焦虑症概览)"
-description: "Anxiety Disorders Overview (焦虑症概览)的详细解析与实践指南"
+description: "Anxiety Disorders Overview (焦虑症概览) —— 临床心理 · 焦虑症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
 tags: ["anxiety", "attachment", "trauma", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Anxiety Disorders Overview"
   - "Anxiety Disorders Overview的核心概念"
   - "Anxiety Disorders Overview的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Anxiety", "Disorders", "Overview", "焦虑症概览"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "03-Bio-Science/death/Death_Anxiety_Overview.md"
+    relation: "anxiety/焦虑/disorders"
+  - path: "03-Bio-Science/death/Death_Anxiety_Sudden_Death_Fear.md"
+    relation: "anxiety/恐惧/fear"
 ---
 # Anxiety Disorders Overview (焦虑症概览)
 

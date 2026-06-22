@@ -1,7 +1,6 @@
 ---
-
 title: "表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)"
-description: "表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)的详细解析与实践指南"
+description: "表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System) —— 艺术 · Expressive Arts 专题"
 category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "表达性艺术治疗培训认证体系的核心概念"
   - "表达性艺术治疗培训认证体系的方法与实践"
   - "表达性艺术治疗培训认证体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "art", "assessment"]
+trigger_keywords: ["表达性艺术治疗培训认证体系", "Expressive", "Arts", "Therapy", "Training"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Overview.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/communication/exercise"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/Faculty_Training_Development_System.md"
+    relation: "courses/certification/training"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Therapy_Overview.md"
+    relation: "oh/certification/cards"
+  - path: "03-Bio-Science/biology/tuina/Tuina_Training_Certification.md"
+    relation: "certification/training/level"
 ---
 # 表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "免疫系统总览 (Immune System Overview)"
-description: "免疫系统总览 (Immune System Overview)的详细解析与实践指南"
+description: "免疫系统总览 (Immune System Overview) —— 生物学 · 免疫与炎症 专题"
 category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
 tags: ["aging", "cortisol", "exercise", "gut", "inflammation", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是免疫系统总览"
   - "免疫系统总览的核心概念"
   - "免疫系统总览的方法与实践"
-trigger_keywords: ["免疫系统总览", "act", "aging", "assessment", "clinical"]
+trigger_keywords: ["免疫系统总览", "Immune", "System", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Etiology_Mechanisms.md"
+    relation: "免疫/immune/炎症"
 ---
 # 免疫系统总览 (Immune System Overview)
 

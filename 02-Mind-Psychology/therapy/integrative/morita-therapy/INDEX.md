@@ -1,6 +1,6 @@
 ---
 title: "morita-therapy | Index"
-description: "morita-therapy | Index的详细解析与实践指南"
+description: "morita-therapy | Index —— 疗法 · Morita Therapy 专题"
 category: "心智与心理学 > 疗法 > Morita Therapy"
 tags: ["疗法"]
 last_updated: "2026-05"
@@ -11,18 +11,8 @@ intent_queries:
   - "什么是morita-therapy | Index"
   - "morita-therapy | Index的核心概念"
   - "morita-therapy | Index的方法与实践"
-trigger_keywords: ["Index", "疗法"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "emotion/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "emotion/therapy"
+trigger_keywords: ["疗法", "morita-therapy"]
+cross_refs: []
 ---
 # morita-therapy | Index
 

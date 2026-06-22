@@ -1,7 +1,6 @@
 ---
-
 title: "歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy)"
-description: "歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy)的详细解析与实践指南"
+description: "歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy) —— 音乐 · Opera Artsong Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Opera Artsong Therapy"
 tags: ["attachment", "ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是歌剧与艺术歌曲疗愈"
   - "歌剧与艺术歌曲疗愈的核心概念"
   - "歌剧与艺术歌曲疗愈的方法与实践"
-trigger_keywords: ["歌剧与艺术歌曲疗愈", "adolescent", "anxiety", "art", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["歌剧与艺术歌曲疗愈", "Opera", "Art", "Song", "Therapy"]
+cross_refs: []
 ---
 # 歌剧与艺术歌曲疗愈 (Opera & Art Song Therapy)
 

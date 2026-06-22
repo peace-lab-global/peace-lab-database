@@ -1,7 +1,6 @@
 ---
-
 title: "地藏菩萨本愿经"
-description: "地藏菩萨本愿经的详细解析与实践指南"
+description: "地藏菩萨本愿经 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "dzogchen", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是地藏菩萨本愿经"
   - "地藏菩萨本愿经的核心概念"
   - "地藏菩萨本愿经的方法与实践"
-trigger_keywords: ["地藏菩萨本愿经", "buddhism", "dzogchen", "sexuality", "佛教"]
+trigger_keywords: ["地藏菩萨本愿经", "dzogchen", "佛教"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "菩萨/般若/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-way-of-bodhisattva.md"
+    relation: "菩萨/佛教"
 ---
 # 地藏菩萨本愿经
 

@@ -1,7 +1,6 @@
 ---
-
 title: "约炮与出轨心理咨询临床实践指南 (Clinical Practice Guide for Casual Sex and Infidelity Counseling)"
-description: "约炮与出轨心理咨询临床实践指南 (Clinical Practice Guide for Casual Sex and Infidelity Counseling)的详细解析与实践指南"
+description: "约炮与出轨心理咨询临床实践指南 (Clinical Practice Guide for Casual Sex and Infidelity Counseling) —— 人际关系 · Clinical Guide 专题"
 category: "心智与心理学 > 人际关系 > Clinical Guide"
 tags: ["anxiety", "attachment", "cbt", "emdr", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "约炮与出轨心理咨询临床实践指南的核心概念"
   - "约炮与出轨心理咨询临床实践指南的方法与实践"
   - "约炮与出轨心理咨询临床实践指南的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["约炮与出轨心理咨询临床实践指南", "Clinical", "Practice", "Guide", "for"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/depression"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/ff"
 ---
 # 约炮与出轨心理咨询临床实践指南 (Clinical Practice Guide for Casual Sex and Infidelity Counseling)
 

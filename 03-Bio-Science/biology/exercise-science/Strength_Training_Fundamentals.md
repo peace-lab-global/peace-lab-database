@@ -1,7 +1,6 @@
 ---
-
 title: "力量训练基础 (Strength Training Fundamentals)"
-description: "力量训练基础 (Strength Training Fundamentals)的详细解析与实践指南"
+description: "力量训练基础 (Strength Training Fundamentals) —— 生物学 · 运动科学 专题"
 category: "生命科学与生物医学 > 生物学 > 运动科学"
 tags: ["exercise", "gut", "immune", "neuroscience", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是力量训练基础"
   - "力量训练基础的核心概念"
   - "力量训练基础的方法与实践"
-trigger_keywords: ["力量训练基础", "act", "clinical", "emotion", "exercise"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "emotion/exercise/immune"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Treatment.md"
-    relation: "emotion/exercise/immune"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "emotion/exercise/immune"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/exercise/immune"
-
+trigger_keywords: ["力量训练基础", "exercise"]
+cross_refs: []
 ---
 # 力量训练基础 (Strength Training Fundamentals)
 

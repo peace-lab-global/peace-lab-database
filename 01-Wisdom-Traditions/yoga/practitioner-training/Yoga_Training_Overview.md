@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽教师培训全景（Yoga Teacher Training Overview）"
-description: "瑜伽教师培训全景（Yoga Teacher Training Overview）的详细解析与实践指南"
+description: "瑜伽教师培训全景（Yoga Teacher Training Overview） —— 瑜伽 · Practitioner Training 专题"
 category: "智慧传承 > 瑜伽 > Practitioner Training"
 tags: ["buddhism", "cardiovascular", "meditation", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽教师培训全景（Yoga Teacher Training Overview）"
   - "瑜伽教师培训全景（Yoga Teacher Training Overview）的核心概念"
   - "瑜伽教师培训全景（Yoga Teacher Training Overview）的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-
+trigger_keywords: ["瑜伽教师培训全景", "Yoga", "Teacher", "Training", "Overview"]
+cross_refs: []
 ---
 # 瑜伽教师培训全景（Yoga Teacher Training Overview）
 

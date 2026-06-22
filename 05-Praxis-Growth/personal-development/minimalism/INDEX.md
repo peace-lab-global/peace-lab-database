@@ -1,7 +1,6 @@
 ---
-
 title: "极简主义概述 | Minimalism Overview"
-description: "极简主义概述 | Minimalism Overview的详细解析与实践指南"
+description: "极简主义概述 | Minimalism Overview —— 个人发展 · Minimalism 专题"
 category: "实践与个人增长 > 个人发展 > Minimalism"
 tags: ["attachment", "habits", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是极简主义概述 | Minimalism Overview"
   - "极简主义概述 | Minimalism Overview的核心概念"
   - "极简主义概述 | Minimalism Overview的方法与实践"
-trigger_keywords: ["极简主义概述", "act", "anxiety", "art", "assessment"]
+trigger_keywords: ["极简主义概述", "Minimalism", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/home-organization/Home_Organization_Overview.md"
+    relation: "minimalism/cleaning/konmari"
+  - path: "03-Bio-Science/death/Death_Preparation_Life.md"
+    relation: "minimalism/swedish/cleaning"
 ---
 # 极简主义概述 | Minimalism Overview
 

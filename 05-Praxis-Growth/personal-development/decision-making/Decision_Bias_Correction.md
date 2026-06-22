@@ -1,7 +1,6 @@
 ---
-
 title: "认知偏差矫正 | Cognitive Bias Correction"
-description: "认知偏差矫正 | Cognitive Bias Correction的详细解析与实践指南"
+description: "认知偏差矫正 | Cognitive Bias Correction —— 个人发展 · 决策科学 专题"
 category: "实践与个人增长 > 个人发展 > 决策科学"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是认知偏差矫正 | Cognitive Bias Correction"
   - "认知偏差矫正 | Cognitive Bias Correction的核心概念"
   - "认知偏差矫正 | Cognitive Bias Correction的方法与实践"
-trigger_keywords: ["认知偏差矫正", "anxiety", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Overview_Full.md"
-    relation: "anxiety/exercise/neuroscience"
-
+trigger_keywords: ["认知偏差矫正", "Cognitive", "Bias", "Correction"]
+cross_refs: []
 ---
 # 认知偏差矫正 | Cognitive Bias Correction
 

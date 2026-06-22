@@ -12,11 +12,7 @@ intent_queries:
   - "五禽戏与太极的关系"
   - "八段锦每一式的功效"
 trigger_keywords: ["八段锦", "五禽戏", "气功", "养生"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
-    relation: "qigong-integration"
-  - path: "01-Wisdom-Traditions/tai-chi/qigong-neigong/TaiChi_Qigong_Foundations.md"
-    relation: "qigong-foundations"
+cross_refs: []
 ---
 # 八段锦与五禽戏 | Baduanjin & Wuqinxi
 

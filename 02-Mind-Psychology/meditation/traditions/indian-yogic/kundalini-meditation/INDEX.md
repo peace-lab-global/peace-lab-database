@@ -1,7 +1,6 @@
 ---
-
 title: "昆达里尼冥想"
-description: "昆达里尼冥想的详细解析与实践指南"
+description: "昆达里尼冥想 —— 冥想 · Kundalini Meditation 专题"
 category: "心智与心理学 > 冥想 > Kundalini Meditation"
 tags: ["meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是昆达里尼冥想"
   - "昆达里尼冥想的核心概念"
   - "昆达里尼冥想的方法与实践"
-trigger_keywords: ["昆达里尼冥想", "breathwork", "meditation", "psychology", "yoga"]
+trigger_keywords: ["昆达里尼冥想", "meditation", "yoga"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "meditation/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "meditation/yoga"
-
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
+    relation: "kundalini/昆达里尼/tantra"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # 昆达里尼冥想
 

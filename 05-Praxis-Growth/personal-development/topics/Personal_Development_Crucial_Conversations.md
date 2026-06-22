@@ -1,7 +1,6 @@
 ---
-
 title: "Crucial Conversations 关键对话"
-description: "Crucial Conversations 关键对话的详细解析与实践指南"
+description: "Crucial Conversations 关键对话 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["communication", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Crucial Conversations 关键对话"
   - "Crucial Conversations 关键对话的核心概念"
   - "Crucial Conversations 关键对话的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "communication"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "cardiovascular/communication/emotion"
-
+trigger_keywords: ["Crucial", "Conversations", "关键对话"]
+cross_refs: []
 ---
 # Crucial Conversations 关键对话
 

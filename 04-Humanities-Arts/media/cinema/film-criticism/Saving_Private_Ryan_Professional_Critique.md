@@ -1,7 +1,6 @@
 ---
-
 title: "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索"
-description: "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索的详细解析与实践指南"
+description: "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索"
   - "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索的核心概念"
   - "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索的方法与实践"
-trigger_keywords: ["act", "art", "cinema", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["cinema", "《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索"]
+cross_refs: []
 ---
 # 《拯救大兵瑞恩》专业影评：战争美学的现实主义重构与人性探索
 

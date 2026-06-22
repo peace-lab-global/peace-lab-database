@@ -1,7 +1,6 @@
 ---
-
 title: "让-保罗·萨特 (Jean-Paul Sartre) - 哲学思想全览"
-description: "让-保罗·萨特 (Jean-Paul Sartre) - 哲学思想全览的详细解析与实践指南"
+description: "让-保罗·萨特 (Jean-Paul Sartre) - 哲学思想全览 —— 20Th Century · Existentialists 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
 tags: ["philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是让-保罗·萨特  - 哲学思想全览"
   - "让-保罗·萨特  - 哲学思想全览的核心概念"
   - "让-保罗·萨特  - 哲学思想全览的方法与实践"
-trigger_keywords: ["让-保罗", "anxiety", "art", "death", "developmental"]
+trigger_keywords: ["让-保罗", "萨特", "Jean-Paul", "Sartre", "哲学思想全览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "anxiety/death/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/being-and-nothingness.md"
+    relation: "jean-paul/sartre/precedes"
 ---
 # 让-保罗·萨特 (Jean-Paul Sartre) - 哲学思想全览
 

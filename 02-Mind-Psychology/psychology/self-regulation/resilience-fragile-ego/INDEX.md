@@ -1,7 +1,6 @@
 ---
-
 title: "玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index"
-description: "玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index的详细解析与实践指南"
+description: "玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["habits", "intervention", "resilience", "act", "self-regulation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是玻璃心与反玻璃心  | Index"
   - "玻璃心与反玻璃心  | Index的核心概念"
   - "玻璃心与反玻璃心  | Index的方法与实践"
-trigger_keywords: ["玻璃心与反玻璃心", "Index", "act", "assessment", "cognitive", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "emotion/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
-    relation: "emotion/exercise/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "emotion/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/productivity"
-
+trigger_keywords: ["玻璃心与反玻璃心", "Fragile", "Ego", "Resilience"]
+cross_refs: []
 ---
 # 玻璃心与反玻璃心 (Fragile Ego & Resilience) | Index
 

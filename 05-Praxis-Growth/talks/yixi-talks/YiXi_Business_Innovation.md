@@ -1,7 +1,6 @@
 ---
-
 title: "商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque"
-description: "商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque的详细解析与实践指南"
+description: "商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["decision-making", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque"
   - "商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque的核心概念"
   - "商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque的方法与实践"
-trigger_keywords: ["商业与创新类一席演讲", "art", "assessment", "behavioral", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/19th-century/existential-precursors/Kierkegaard.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide.md"
-    relation: "communication/sexuality/trauma"
-
+trigger_keywords: ["商业与创新类一席演讲", "Business", "Innovation", "YiXi", "Talks"]
+cross_refs: []
 ---
 # 商业与创新类一席演讲 | Business & Innovation YiXi Talks | Colloquia Negotiorum Novationisque
 

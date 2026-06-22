@@ -1,7 +1,6 @@
 ---
-
 title: "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover"
-description: "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的详细解析与实践指南"
+description: "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["addiction", "jung", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover"
   - "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的核心概念"
   - "《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover的方法与实践"
-trigger_keywords: ["《国王", "战士", "魔法师", "addiction", "death", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "death/exercise/sexuality"
-
+trigger_keywords: ["《国王", "战士", "魔法师", "exercise"]
+cross_refs: []
 ---
 # 《国王、战士、魔法师、爱人》King, Warrior, Magician, Lover
 

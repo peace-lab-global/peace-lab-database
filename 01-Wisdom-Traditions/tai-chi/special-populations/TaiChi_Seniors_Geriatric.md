@@ -13,8 +13,8 @@ intent_queries:
   - "太极对老年人的好处"
 trigger_keywords: ["老年", "坐姿", "防跌", "关节", "慢病"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
-    relation: "fall-prevention"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 老年人群太极 | Tai Chi for Seniors
 

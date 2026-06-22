@@ -1,7 +1,6 @@
 ---
-
 title: "Zazen 坐禅"
-description: "Zazen 坐禅的详细解析与实践指南"
+description: "Zazen 坐禅 —— 冥想 · Zazen 专题"
 category: "心智与心理学 > 冥想 > Zazen"
 tags: ["zen", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Zazen 坐禅"
   - "Zazen 坐禅的核心概念"
   - "Zazen 坐禅的方法与实践"
-trigger_keywords: ["Zazen 坐禅", "philosophy", "psychology", "sexuality", "zen"]
+trigger_keywords: ["Zazen 坐禅", "zen"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
+    relation: "zazen/话头/坐禅"
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
+    relation: "zazen/坐禅/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "坐禅/禅宗"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
+    relation: "话头/坐禅/禅宗"
 ---
 # Zazen 坐禅
 

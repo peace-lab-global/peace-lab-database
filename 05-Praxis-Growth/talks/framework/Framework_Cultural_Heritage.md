@@ -1,7 +1,6 @@
 ---
-
 title: "文化遗产保护 | Cultural Heritage"
-description: "文化遗产保护 | Cultural Heritage的详细解析与实践指南"
+description: "文化遗产保护 | Cultural Heritage —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["calligraphy", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文化遗产保护 | Cultural Heritage"
   - "文化遗产保护 | Cultural Heritage的核心概念"
   - "文化遗产保护 | Cultural Heritage的方法与实践"
-trigger_keywords: ["文化遗产保护", "act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/clinical-intervention/Child_Clinical_Intervention_Guide.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "art_therapy/communication/sexuality"
-
+trigger_keywords: ["文化遗产保护", "Cultural", "Heritage"]
+cross_refs: []
 ---
 # 文化遗产保护 | Cultural Heritage
 

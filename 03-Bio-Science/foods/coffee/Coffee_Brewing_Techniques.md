@@ -1,7 +1,6 @@
 ---
-
 title: "Coffee Brewing Techniques & Extraction Science (咖啡冲煮技术与萃取科学)"
-description: "Coffee Brewing Techniques & Extraction Science (咖啡冲煮技术与萃取科学)的详细解析与实践指南"
+description: "Coffee Brewing Techniques & Extraction Science (咖啡冲煮技术与萃取科学) —— 营养学 · Coffee 专题"
 category: "生命科学与生物医学 > 营养学 > Coffee"
 tags: ["sexuality", "stress", "营养学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Coffee Brewing Techniques & Extraction Science"
   - "Coffee Brewing Techniques & Extraction Science的核心概念"
   - "Coffee Brewing Techniques & Extraction Science的方法与实践"
-trigger_keywords: ["act", "assessment", "sexuality", "stress"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "nutrition/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "nutrition/sexuality/stress"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "nutrition/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "nutrition/sexuality/stress"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
-    relation: "nutrition/sexuality/stress"
-
+trigger_keywords: ["stress", "Coffee", "Brewing", "Techniques", "Extraction"]
+cross_refs: []
 ---
 # Coffee Brewing Techniques & Extraction Science (咖啡冲煮技术与萃取科学)
 

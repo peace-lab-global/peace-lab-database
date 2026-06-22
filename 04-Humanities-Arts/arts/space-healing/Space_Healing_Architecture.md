@@ -1,7 +1,6 @@
 ---
-
 title: "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology"
-description: "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology的详细解析与实践指南"
+description: "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology —— 艺术 · 空间疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 空间疗愈"
 tags: ["attachment", "cortisol", "decision-making", "depression", "healing", "horticultural-therapy"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology的核心概念"
   - "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology的方法与实践"
   - "疗愈建筑与空间心理学 | Healing Architecture & Space Psychology的自助方法"
-trigger_keywords: ["疗愈建筑与空间心理学", "anxiety", "attachment", "cortisol", "decision-making"]
+trigger_keywords: ["疗愈建筑与空间心理学", "cortisol", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/depression"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-space/INDEX.md"
+    relation: "space/design/冥想"
+  - path: "02-Mind-Psychology/psychology/special-topics/home-organization/Space_Design_Principles.md"
+    relation: "space/design/冥想"
 ---
 # 疗愈建筑与空间心理学 | Healing Architecture & Space Psychology
 

@@ -1,7 +1,6 @@
 ---
-
 title: "决策框架总览 | Decision Making Overview"
-description: "决策框架总览 | Decision Making Overview的详细解析与实践指南"
+description: "决策框架总览 | Decision Making Overview —— 个人发展 · 决策科学 专题"
 category: "实践与个人增长 > 个人发展 > 决策科学"
 tags: ["cinema", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是决策框架总览 | Decision Making Overview"
   - "决策框架总览 | Decision Making Overview的核心概念"
   - "决策框架总览 | Decision Making Overview的方法与实践"
-trigger_keywords: ["决策框架总览", "assessment", "behavioral", "cinema", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "death/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "death/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "death/emotion/neuroscience"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/proof-of-heaven.md"
-    relation: "death/emotion/neuroscience"
-  - path: "README.md"
-    relation: "death/emotion/neuroscience"
-
+trigger_keywords: ["决策框架总览", "cinema"]
+cross_refs: []
 ---
 # 决策框架总览 | Decision Making Overview
 

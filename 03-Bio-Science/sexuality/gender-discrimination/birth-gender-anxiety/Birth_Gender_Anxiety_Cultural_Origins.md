@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)"
-description: "Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["attachment", "daoism", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Chinese Traditional Culture Analysis"
   - "Birth Gender Anxiety: Chinese Traditional Culture Analysis的核心概念"
   - "Birth Gender Anxiety: Chinese Traditional Culture Analysis的方法与实践"
-trigger_keywords: ["act", "anxiety", "attachment", "behavioral"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Chinese", "Traditional"]
+cross_refs: []
 ---
 # Birth Gender Anxiety: Chinese Traditional Culture Analysis (生育性别焦虑的中国传统文化根源分析)
 

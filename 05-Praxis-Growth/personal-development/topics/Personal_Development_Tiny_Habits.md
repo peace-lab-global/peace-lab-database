@@ -1,7 +1,6 @@
 ---
-
 title: "Tiny Habits 掌控习惯"
-description: "Tiny Habits 掌控习惯的详细解析与实践指南"
+description: "Tiny Habits 掌控习惯 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Tiny Habits 掌控习惯"
   - "Tiny Habits 掌控习惯的核心概念"
   - "Tiny Habits 掌控习惯的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "brain"]
+trigger_keywords: ["Tiny", "Habits", "掌控习惯"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "emotion/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "emotion/exercise/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
+    relation: "习惯/bj/fogg"
 ---
 # Tiny Habits 掌控习惯
 

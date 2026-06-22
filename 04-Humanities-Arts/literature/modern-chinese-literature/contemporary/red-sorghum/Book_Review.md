@@ -1,7 +1,6 @@
 ---
-
 title: "《红高粱》读书笔记与书评"
-description: "《红高粱》读书笔记与书评的详细解析与实践指南"
+description: "《红高粱》读书笔记与书评 —— Contemporary · Red Sorghum 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Red Sorghum"
 tags: ["cinema", "literature"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是《红高粱》读书笔记与书评"
   - "《红高粱》读书笔记与书评的核心概念"
   - "《红高粱》读书笔记与书评的方法与实践"
-trigger_keywords: ["cinema", "literature", "sexuality", "文学"]
+trigger_keywords: ["cinema", "文学"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
     relation: "art_therapy/emotion/sexuality"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "art_therapy/emotion/sexuality"
   - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
     relation: "art_therapy/emotion/sexuality"
-
 ---
 # 《红高粱》读书笔记与书评
 

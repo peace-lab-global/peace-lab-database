@@ -1,7 +1,6 @@
 ---
-
 title: "Van Gogh (梵高)主要作品深度分析"
-description: "Van Gogh (梵高)主要作品深度分析的详细解析与实践指南"
+description: "Van Gogh (梵高)主要作品深度分析 —— 艺术家 · Modern 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
 tags: ["habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Van Gogh 主要作品深度分析"
   - "Van Gogh 主要作品深度分析的核心概念"
   - "Van Gogh 主要作品深度分析的方法与实践"
-trigger_keywords: ["anxiety", "art", "cognitive", "death"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/death"
-  - path: "02-Mind-Psychology/therapy/integrative/ipt-therapy/IPT_Interpersonal_Psychotherapy_Overview.md"
-    relation: "anxiety/communication/death"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["Van", "Gogh", "梵高", "主要作品深度分析"]
+cross_refs: []
 ---
 # Van Gogh (梵高)主要作品深度分析
 

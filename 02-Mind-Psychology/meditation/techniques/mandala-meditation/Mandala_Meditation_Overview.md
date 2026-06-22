@@ -1,7 +1,6 @@
 ---
-
 title: "Mandala Meditation Overview (坛城冥想概览)"
-description: "Mandala Meditation Overview (坛城冥想概览)的详细解析与实践指南"
+description: "Mandala Meditation Overview (坛城冥想概览) —— 冥想 · 坛城冥想 专题"
 category: "心智与心理学 > 冥想 > 坛城冥想"
 tags: ["addiction", "anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Mandala Meditation Overview"
   - "Mandala Meditation Overview的核心概念"
   - "Mandala Meditation Overview的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "art"]
+trigger_keywords: ["Mandala", "Meditation", "Overview", "坛城冥想概览"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "GLOSSARY.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Vajrayana_Mudra_Mandala.md"
+    relation: "坛城/ala/ma"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "坛城/mandala/观想"
 ---
 # Mandala Meditation Overview (坛城冥想概览)
 

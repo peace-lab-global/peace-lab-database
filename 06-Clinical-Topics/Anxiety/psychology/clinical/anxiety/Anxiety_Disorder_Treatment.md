@@ -1,7 +1,6 @@
 ---
-
 title: "Anxiety Disorders Treatment (焦虑症治疗方法)"
-description: "Anxiety Disorders Treatment (焦虑症治疗方法)的详细解析与实践指南"
+description: "Anxiety Disorders Treatment (焦虑症治疗方法) —— 临床心理 · 焦虑症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症"
 tags: ["anxiety", "brain", "emdr", "cbt", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anxiety Disorders Treatment"
   - "Anxiety Disorders Treatment的核心概念"
   - "Anxiety Disorders Treatment的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/meditation"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
-    relation: "aging/anxiety/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/meditation"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/meditation"
-
+trigger_keywords: ["Anxiety", "Disorders", "Treatment", "焦虑症治疗方法"]
+cross_refs: []
 ---
 # Anxiety Disorders Treatment (焦虑症治疗方法)
 

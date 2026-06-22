@@ -1,7 +1,6 @@
 ---
-
 title: "《先知花园》The Garden of the Prophet"
-description: "《先知花园》The Garden of the Prophet的详细解析与实践指南"
+description: "《先知花园》The Garden of the Prophet —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["sleep", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《先知花园》The Garden of the Prophet"
   - "《先知花园》The Garden of the Prophet的核心概念"
   - "《先知花园》The Garden of the Prophet的方法与实践"
-trigger_keywords: ["buddhism", "death", "sexuality", "sleep"]
+trigger_keywords: ["sleep", "《先知花园》The", "Garden", "of", "the"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
-    relation: "buddhism/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/death/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "buddhism/death/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
 ---
 # 《先知花园》The Garden of the Prophet
 

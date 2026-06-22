@@ -1,7 +1,6 @@
 ---
-
 title: "Rural Psychological Stressors (农村特有心理压力源)"
-description: "Rural Psychological Stressors (农村特有心理压力源)的详细解析与实践指南"
+description: "Rural Psychological Stressors (农村特有心理压力源) —— 社会心理学 · Rural Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Rural Psychological Stressors"
   - "Rural Psychological Stressors的核心概念"
   - "Rural Psychological Stressors的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["Rural", "Psychological", "Stressors", "农村特有心理压力源"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "压力/婚姻"
 ---
 # Rural Psychological Stressors (农村特有心理压力源)
 

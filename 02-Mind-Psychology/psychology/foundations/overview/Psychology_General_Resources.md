@@ -1,7 +1,6 @@
 ---
-
 title: "General Resources (通用心理学资源)"
-description: "General Resources (通用心理学资源)的详细解析与实践指南"
+description: "General Resources (通用心理学资源) —— 心理学基础 · Overview 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
 tags: ["anxiety", "decision-making", "emdr", "healing", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是General Resources"
   - "General Resources的核心概念"
   - "General Resources的方法与实践"
-trigger_keywords: ["anxiety", "body", "cognitive", "communication"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["General", "Resources", "通用心理学资源"]
+cross_refs: []
 ---
 # General Resources (通用心理学资源)
 

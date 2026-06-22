@@ -1,7 +1,6 @@
 ---
-
 title: "samatha-vipassana | 止观禅修专题 Index"
-description: "samatha-vipassana | 止观禅修专题 Index的详细解析与实践指南"
+description: "samatha-vipassana | 止观禅修专题 Index —— 冥想 · Samatha Vipassana 专题"
 category: "心智与心理学 > 冥想 > Samatha Vipassana"
 tags: ["brain", "cbt", "mbsr", "mindfulness", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是samatha-vipassana | 止观禅修专题 Index"
   - "samatha-vipassana | 止观禅修专题 Index的核心概念"
   - "samatha-vipassana | 止观禅修专题 Index的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "brain"]
+trigger_keywords: ["samatha-vipassana", "止观禅修专题"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/INDEX.md"
+    relation: "samatha/vipassana/止观"
+  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+    relation: "samatha/止观/vipassana"
 ---
 # samatha-vipassana | 止观禅修专题 Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "批评与拒绝应对"
-description: "批评与拒绝应对的详细解析与实践指南"
+description: "批评与拒绝应对 —— 自我调节 · Resilience Fragile Ego 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Resilience Fragile Ego"
 tags: ["brain", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是批评与拒绝应对"
   - "批评与拒绝应对的核心概念"
   - "批评与拒绝应对的方法与实践"
-trigger_keywords: ["批评与拒绝应对", "assessment", "behavioral", "body", "brain"]
+trigger_keywords: ["批评与拒绝应对"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Safety_Protocols.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Ejaculation_Orgasm_Types.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Overview.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "03-Bio-Science/biology/body-shame/populations/Body_Shame_Special_Populations.md"
+    relation: "羞耻/自我价值"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Revolution_Tradition.md"
+    relation: "愤怒/vs"
 ---
 # 批评与拒绝应对
 

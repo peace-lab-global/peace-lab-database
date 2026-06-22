@@ -1,7 +1,6 @@
 ---
-
 title: "婚姻中的愤怒管理 (Anger Management in Marriage)"
-description: "婚姻中的愤怒管理 (Anger Management in Marriage)的详细解析与实践指南"
+description: "婚姻中的愤怒管理 (Anger Management in Marriage) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment", "brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是婚姻中的愤怒管理"
   - "婚姻中的愤怒管理的核心概念"
   - "婚姻中的愤怒管理的方法与实践"
-trigger_keywords: ["婚姻中的愤怒管理", "act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["婚姻中的愤怒管理", "Anger", "Management", "in", "Marriage"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/anger.md"
+    relation: "愤怒/anger/冲突"
 ---
 # 婚姻中的愤怒管理 (Anger Management in Marriage)
 

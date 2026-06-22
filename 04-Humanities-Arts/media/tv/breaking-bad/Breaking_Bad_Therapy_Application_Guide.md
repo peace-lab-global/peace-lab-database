@@ -1,7 +1,6 @@
 ---
-
 title: "《绝命毒师》(Breaking Bad) 临床应用指南：道德发展与自我认知的治疗性使用"
-description: "《绝命毒师》(Breaking Bad) 临床应用指南：道德发展与自我认知的治疗性使用的详细解析与实践指南"
+description: "《绝命毒师》(Breaking Bad) 临床应用指南：道德发展与自我认知的治疗性使用 —— Tv · Breaking Bad 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > Breaking Bad"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "《绝命毒师》 临床应用指南：道德发展与自我认知的治疗性使用的核心概念"
   - "《绝命毒师》 临床应用指南：道德发展与自我认知的治疗性使用的方法与实践"
   - "《绝命毒师》 临床应用指南：道德发展与自我认知的治疗性使用的循证证据"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Retirement_Transition.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["《绝命毒师》", "Breaking", "Bad", "临床应用指南：道德发展与自我认知的治疗性使用"]
+cross_refs: []
 ---
 # 《绝命毒师》(Breaking Bad) 临床应用指南：道德发展与自我认知的治疗性使用
 

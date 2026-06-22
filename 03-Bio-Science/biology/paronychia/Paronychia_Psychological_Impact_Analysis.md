@@ -1,7 +1,6 @@
 ---
-
 title: "甲沟炎心理影响分析专业内容体系"
-description: "甲沟炎心理影响分析专业内容体系的详细解析与实践指南"
+description: "甲沟炎心理影响分析专业内容体系 —— 生物学 · Paronychia 专题"
 category: "生命科学与生物医学 > 生物学 > Paronychia"
 tags: ["aging", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "甲沟炎心理影响分析专业内容体系的核心概念"
   - "甲沟炎心理影响分析专业内容体系的方法与实践"
   - "甲沟炎心理影响分析专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["甲沟炎心理影响分析专业内容体系"]
+cross_refs: []
 ---
 # 甲沟炎心理影响分析专业内容体系
 

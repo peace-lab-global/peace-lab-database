@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)"
-description: "Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases Clinical Features"
   - "Sexually Transmitted Diseases Clinical Features的核心概念"
   - "Sexually Transmitted Diseases Clinical Features的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Chronic_Pain_Comorbidity.md"
-    relation: "cardiovascular/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "cardiovascular/emotion/neuroscience"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Clinical", "Features"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases Clinical Features (性传播疾病临床表现)
 

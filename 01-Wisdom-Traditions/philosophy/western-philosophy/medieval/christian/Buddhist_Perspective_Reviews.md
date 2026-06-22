@@ -1,7 +1,6 @@
 ---
-
 title: "中世纪哲学 · 佛法视角三方书评"
-description: "中世纪哲学 · 佛法视角三方书评的详细解析与实践指南"
+description: "中世纪哲学 · 佛法视角三方书评 —— Medieval · Christian 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Christian"
 tags: ["buddhism", "philosophy", "religion", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是中世纪哲学 · 佛法视角三方书评"
   - "中世纪哲学 · 佛法视角三方书评的核心概念"
   - "中世纪哲学 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["中世纪哲学", "佛法视角三方书评", "buddhism", "crisis", "exercise", "literature"]
+trigger_keywords: ["中世纪哲学", "佛法视角三方书评", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "03-Bio-Science/sexuality/Society_Community_Support.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/peace-is-every-step.md"
-    relation: "buddhism/exercise/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/exercise/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeing-that-frees.md"
+    relation: "佛教/空性"
 ---
 # 中世纪哲学 · 佛法视角三方书评
 

@@ -2,6 +2,7 @@
 title: "冥想临床应用 | Meditation Clinical Applications"
 category: "心智与心理学 > 冥想 > 临床与治疗"
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 冥想临床应用 | Meditation Clinical Applications

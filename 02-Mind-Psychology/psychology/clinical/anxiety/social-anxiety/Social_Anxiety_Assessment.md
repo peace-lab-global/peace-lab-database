@@ -1,7 +1,6 @@
 ---
-
 title: "Social Anxiety Disorder Assessment (社交焦虑障碍评估)"
-description: "Social Anxiety Disorder Assessment (社交焦虑障碍评估)的详细解析与实践指南"
+description: "Social Anxiety Disorder Assessment (社交焦虑障碍评估) —— 焦虑症 · Social Anxiety 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Social Anxiety Disorder Assessment"
   - "Social Anxiety Disorder Assessment的核心概念"
   - "Social Anxiety Disorder Assessment的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "anxiety/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "anxiety/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Three_Seals_One_Reality.md"
-    relation: "anxiety/neuroscience/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Yogacara_Eight_Consciousnesses.md"
-    relation: "anxiety/neuroscience/therapy"
-
+trigger_keywords: ["Social", "Anxiety", "Disorder", "Assessment", "社交焦虑障碍评估"]
+cross_refs: []
 ---
 # Social Anxiety Disorder Assessment (社交焦虑障碍评估)
 

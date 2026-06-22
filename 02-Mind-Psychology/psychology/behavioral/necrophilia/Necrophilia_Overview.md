@@ -1,7 +1,6 @@
 ---
-
 title: "恋尸癖心理学专业内容体系"
-description: "恋尸癖心理学专业内容体系的详细解析与实践指南"
+description: "恋尸癖心理学专业内容体系 —— 行为心理 · Necrophilia 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Necrophilia"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "恋尸癖心理学专业内容体系的核心概念"
   - "恋尸癖心理学专业内容体系的方法与实践"
   - "恋尸癖心理学专业内容体系的自助方法"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["恋尸癖心理学专业内容体系"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/death"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "焦虑/创伤/障碍"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Thought_Analysis.md"
+    relation: "焦虑/创伤"
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+    relation: "认知行为/障碍/焦虑"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/障碍"
 ---
 # 恋尸癖心理学专业内容体系
 

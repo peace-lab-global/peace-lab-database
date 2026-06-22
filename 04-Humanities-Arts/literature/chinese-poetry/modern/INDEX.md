@@ -1,7 +1,6 @@
 ---
-
 title: "modern | Index"
-description: "modern | Index的详细解析与实践指南"
+description: "modern | Index —— Chinese Poetry · Modern 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Poetry > Modern"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是modern | Index"
   - "modern | Index的核心概念"
   - "modern | Index的方法与实践"
-trigger_keywords: ["modern", "Index", "文学"]
+trigger_keywords: ["modern", "文学"]
 cross_refs: []
-
 ---
 # modern | Index
 

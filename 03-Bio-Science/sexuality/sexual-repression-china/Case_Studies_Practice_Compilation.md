@@ -1,7 +1,6 @@
 ---
-
 title: "案例研究与实践汇编：中国性压抑干预的成功经验 (Case Studies and Practice Compilation: Successful Experiences in Sexual Repression Intervention in China)"
-description: "案例研究与实践汇编：中国性压抑干预的成功经验 (Case Studies and Practice Compilation: Successful Experiences in Sexual Repression Intervention in China)的详细解析与实践指南"
+description: "案例研究与实践汇编：中国性压抑干预的成功经验 (Case Studies and Practice Compilation: Successful Experiences in Sexual Repression Intervention in China) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是案例研究与实践汇编：中国性压抑干预的成功经验"
   - "案例研究与实践汇编：中国性压抑干预的成功经验的核心概念"
   - "案例研究与实践汇编：中国性压抑干预的成功经验的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "clinical"]
+trigger_keywords: ["案例研究与实践汇编：中国性压抑干预的成功经验", "Case", "Studies", "and", "Practice"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Case_Studies.md"
+    relation: "case/methodology/study"
 ---
 # 案例研究与实践汇编：中国性压抑干预的成功经验 (Case Studies and Practice Compilation: Successful Experiences in Sexual Repression Intervention in China)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《多舛的生命》Full Catastrophe Living"
-description: "《多舛的生命》Full Catastrophe Living的详细解析与实践指南"
+description: "《多舛的生命》Full Catastrophe Living —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["cinema", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《多舛的生命》Full Catastrophe Living"
   - "《多舛的生命》Full Catastrophe Living的核心概念"
   - "《多舛的生命》Full Catastrophe Living的方法与实践"
-trigger_keywords: ["anxiety", "body", "breathwork", "buddhism"]
+trigger_keywords: ["《多舛的生命》Full", "Catastrophe", "Living"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/cardiovascular"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/cardiovascular"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/catastrophe/full"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
+    relation: "mbsr/jon/kabat-zinn"
+  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
+    relation: "mbsr/jon/kabat-zinn"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_03_Body.md"
+    relation: "mbsr/身体扫描/觉察"
 ---
 # 《多舛的生命》Full Catastrophe Living
 

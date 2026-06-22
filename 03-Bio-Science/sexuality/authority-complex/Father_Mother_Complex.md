@@ -1,7 +1,6 @@
 ---
-
 title: "父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)"
-description: "父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)的详细解析与实践指南"
+description: "父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development) —— 性学 · Authority Complex 专题"
 category: "生命科学与生物医学 > 性学 > Authority Complex"
 tags: ["attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是父母情结与俄狄浦斯发展"
   - "父母情结与俄狄浦斯发展的核心概念"
   - "父母情结与俄狄浦斯发展的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["父母情结与俄狄浦斯发展", "Parental", "Complex", "Oedipal", "Development"]
+cross_refs: []
 ---
 # 父母情结与俄狄浦斯发展 (Parental Complex & Oedipal Development)
 

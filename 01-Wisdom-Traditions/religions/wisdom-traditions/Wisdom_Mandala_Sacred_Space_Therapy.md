@@ -1,7 +1,6 @@
 ---
-
 title: "Sacred Space/Mandala (坛城与圣域空间)"
-description: "Sacred Space/Mandala (坛城与圣域空间)的详细解析与实践指南"
+description: "Sacred Space/Mandala (坛城与圣域空间) —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Sacred Space/Mandala"
   - "Sacred Space/Mandala的核心概念"
   - "Sacred Space/Mandala的方法与实践"
-trigger_keywords: ["Mandala", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Mandala", "Sacred", "Space", "坛城与圣域空间"]
 cross_refs:
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Traditions.md"
+    relation: "坛城/mandala/mandalas"
   - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Psychology_Overview.md"
-    relation: "anxiety/attachment/emotion"
-
+    relation: "坛城/mandala/观想"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "坛城/mandala/visualization"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "坛城/mandala/观想"
 ---
 # Sacred Space/Mandala (坛城与圣域空间)
 

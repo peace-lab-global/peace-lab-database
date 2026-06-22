@@ -1,7 +1,6 @@
 ---
-
 title: "出轨预防与风险评估"
-description: "出轨预防与风险评估的详细解析与实践指南"
+description: "出轨预防与风险评估 —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是出轨预防与风险评估"
   - "出轨预防与风险评估的核心概念"
   - "出轨预防与风险评估的方法与实践"
-trigger_keywords: ["出轨预防与风险评估", "anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["出轨预防与风险评估"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "依恋/恐惧/创伤"
+  - path: "04-Humanities-Arts/media/tv/horror-tv-series/Horror_TV_Series_Psychological_Effects_Study.md"
+    relation: "恐惧/人格"
+  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
+    relation: "恐惧/人格"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "依恋/创伤/依恋类型"
 ---
 # 出轨预防与风险评估
 

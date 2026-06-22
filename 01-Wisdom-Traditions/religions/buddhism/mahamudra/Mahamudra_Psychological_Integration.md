@@ -1,7 +1,6 @@
 ---
-
 title: "大手印心理整合专业内容体系"
-description: "大手印心理整合专业内容体系的详细解析与实践指南"
+description: "大手印心理整合专业内容体系 —— 佛教 · 大手印 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 大手印"
 tags: ["buddhism", "habits", "meditation", "mahamudra"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "大手印心理整合专业内容体系的核心概念"
   - "大手印心理整合专业内容体系的方法与实践"
   - "大手印心理整合专业内容体系的自助方法"
-trigger_keywords: ["assessment", "body", "buddhism", "death"]
+trigger_keywords: ["大手印心理整合专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
-    relation: "buddhism/death/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No27/Mozart_Piano_Concerto_No27_Overview.md"
+    relation: "智慧/情绪调节"
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-french-suites/Suite6/Bach_French_Suite_No6_Composition_Background.md"
+    relation: "智慧/情绪调节"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "智慧/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/siddhartha.md"
+    relation: "智慧/佛教"
 ---
 # 大手印心理整合专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《雨人》(Rain Man, 1988) 专业影评：自闭症谱系障碍的家庭系统治疗学分析"
-description: "《雨人》(Rain Man, 1988) 专业影评：自闭症谱系障碍的家庭系统治疗学分析的详细解析与实践指南"
+description: "《雨人》(Rain Man, 1988) 专业影评：自闭症谱系障碍的家庭系统治疗学分析 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "《雨人》 专业影评：自闭症谱系障碍的家庭系统治疗学分析的核心概念"
   - "《雨人》 专业影评：自闭症谱系障碍的家庭系统治疗学分析的方法与实践"
   - "《雨人》 专业影评：自闭症谱系障碍的家庭系统治疗学分析的循证证据"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["《雨人》", "Rain", "Man", "1988", "专业影评：自闭症谱系障碍的家庭系统治疗学分析"]
+cross_refs: []
 ---
 # 《雨人》(Rain Man, 1988) 专业影评：自闭症谱系障碍的家庭系统治疗学分析
 

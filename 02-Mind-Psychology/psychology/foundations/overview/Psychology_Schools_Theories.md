@@ -1,7 +1,6 @@
 ---
-
 title: "Psychology Schools & Theoretical Systems (心理学流派与理论体系)"
-description: "Psychology Schools & Theoretical Systems (心理学流派与理论体系)的详细解析与实践指南"
+description: "Psychology Schools & Theoretical Systems (心理学流派与理论体系) —— 心理学基础 · Overview 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Overview"
 tags: ["addiction", "anxiety", "attachment", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Psychology Schools & Theoretical Systems"
   - "Psychology Schools & Theoretical Systems的核心概念"
   - "Psychology Schools & Theoretical Systems的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/neuroscience"
-
+trigger_keywords: ["Psychology", "Schools", "Theoretical", "Systems", "心理学流派与理论体系"]
+cross_refs: []
 ---
 # Psychology Schools & Theoretical Systems (心理学流派与理论体系)
 

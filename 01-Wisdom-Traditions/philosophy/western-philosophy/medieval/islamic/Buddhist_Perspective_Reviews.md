@@ -1,7 +1,6 @@
 ---
-
 title: "伊斯兰哲学经典 · 佛法视角三方书评"
-description: "伊斯兰哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "伊斯兰哲学经典 · 佛法视角三方书评 —— Medieval · Islamic 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Islamic"
 tags: ["buddhism", "habits", "philosophy", "religion", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是伊斯兰哲学经典 · 佛法视角三方书评"
   - "伊斯兰哲学经典 · 佛法视角三方书评的核心概念"
   - "伊斯兰哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["伊斯兰哲学经典", "佛法视角三方书评", "behavioral", "buddhism", "cognitive", "habits"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/korean-seon/Korean_Seon_Practical.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "buddhism/communication/meditation"
-
+trigger_keywords: ["伊斯兰哲学经典", "佛法视角三方书评", "habits"]
+cross_refs: []
 ---
 # 伊斯兰哲学经典 · 佛法视角三方书评
 

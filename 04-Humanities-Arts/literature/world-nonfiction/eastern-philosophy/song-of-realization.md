@@ -1,7 +1,6 @@
 ---
-
 title: "《证道歌》Song of Realization"
-description: "《证道歌》Song of Realization的详细解析与实践指南"
+description: "《证道歌》Song of Realization —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature", "phobia", "self-confidence", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《证道歌》Song of Realization"
   - "《证道歌》Song of Realization的核心概念"
   - "《证道歌》Song of Realization的方法与实践"
-trigger_keywords: ["death", "literature", "phobia", "self-confidence"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+trigger_keywords: ["phobia", "self-confidence"]
+cross_refs: []
 ---
 # 《证道歌》Song of Realization
 

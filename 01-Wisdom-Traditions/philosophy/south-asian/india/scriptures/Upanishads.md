@@ -1,7 +1,6 @@
 ---
-
 title: "主要奥义书（Mukhya Upanishads）"
-description: "主要奥义书（Mukhya Upanishads）的详细解析与实践指南"
+description: "主要奥义书（Mukhya Upanishads） —— India · Scriptures 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
 tags: ["meditation", "philosophy", "sleep", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是主要奥义书（Mukhya Upanishads）"
   - "主要奥义书（Mukhya Upanishads）的核心概念"
   - "主要奥义书（Mukhya Upanishads）的方法与实践"
-trigger_keywords: ["body", "meditation", "philosophy", "psychology"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "meditation/sexuality/sleep"
-
+trigger_keywords: ["meditation", "主要奥义书", "Mukhya", "Upanishads"]
+cross_refs: []
 ---
 # 主要奥义书（Mukhya Upanishads）
 

@@ -1,7 +1,6 @@
 ---
-
 title: "夫妻冲突处理与解决 (Marriage Conflict Resolution)"
-description: "夫妻冲突处理与解决 (Marriage Conflict Resolution)的详细解析与实践指南"
+description: "夫妻冲突处理与解决 (Marriage Conflict Resolution) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是夫妻冲突处理与解决"
   - "夫妻冲突处理与解决的核心概念"
   - "夫妻冲突处理与解决的方法与实践"
-trigger_keywords: ["夫妻冲突处理与解决", "act", "anxiety", "art", "assessment"]
+trigger_keywords: ["夫妻冲突处理与解决", "Marriage", "Conflict", "Resolution"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "冲突/conflict/resolution"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "冲突/resolution/conflict"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "冲突/依恋/创伤"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Quality_Certification_Report.md"
+    relation: "冲突/依恋"
 ---
 # 夫妻冲突处理与解决 (Marriage Conflict Resolution)
 

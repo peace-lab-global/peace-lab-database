@@ -1,7 +1,6 @@
 ---
-
 title: "Grief: Cultural & Spiritual Perspectives (哀伤的文化与灵性视角)"
-description: "Grief: Cultural & Spiritual Perspectives (哀伤的文化与灵性视角)的详细解析与实践指南"
+description: "Grief: Cultural & Spiritual Perspectives (哀伤的文化与灵性视角) —— 特殊专题 · Grief 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Grief"
 tags: ["anxiety", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Grief: Cultural & Spiritual Perspectives"
   - "Grief: Cultural & Spiritual Perspectives的核心概念"
   - "Grief: Cultural & Spiritual Perspectives的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "anxiety/communication/death"
-
+trigger_keywords: ["Grief:", "Cultural", "Spiritual", "Perspectives", "哀伤的文化与灵性视角"]
+cross_refs: []
 ---
 # Grief: Cultural & Spiritual Perspectives (哀伤的文化与灵性视角)
 

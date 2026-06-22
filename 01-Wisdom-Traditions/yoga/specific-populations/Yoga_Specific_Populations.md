@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga for Specific Populations (特殊人群瑜伽)"
-description: "Yoga for Specific Populations (特殊人群瑜伽)的详细解析与实践指南"
+description: "Yoga for Specific Populations (特殊人群瑜伽) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cardiovascular", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Yoga for Specific Populations"
   - "Yoga for Specific Populations的核心概念"
   - "Yoga for Specific Populations的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Yoga", "for", "Specific", "Populations", "特殊人群瑜伽"]
+cross_refs: []
 ---
 # Yoga for Specific Populations (特殊人群瑜伽)
 

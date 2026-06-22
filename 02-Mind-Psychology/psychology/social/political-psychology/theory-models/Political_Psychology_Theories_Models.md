@@ -1,7 +1,6 @@
 ---
-
 title: "政治心理学核心理论与模型 (Political Psychology: Core Theories & Models)"
-description: "政治心理学核心理论与模型 (Political Psychology: Core Theories & Models)的详细解析与实践指南"
+description: "政治心理学核心理论与模型 (Political Psychology: Core Theories & Models) —— Political Psychology · Theory Models 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Theory Models"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "政治心理学核心理论与模型的核心概念"
   - "政治心理学核心理论与模型的方法与实践"
   - "政治心理学核心理论与模型的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "brain"]
+trigger_keywords: ["政治心理学核心理论与模型", "Political", "Psychology:", "Core", "Theories"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Multi_Perspective_Reviews.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Hesse.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/neuroscience"
-  - path: "03-Bio-Science/biology/spa/SPA_Safety_Protocols.md"
-    relation: "anxiety/communication/neuroscience"
-
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md"
+    relation: "theories/models/psychology"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/theory/Religious_Psychology_Theories_Models.md"
+    relation: "theories/models/table"
 ---
 # 政治心理学核心理论与模型 (Political Psychology: Core Theories & Models)
 

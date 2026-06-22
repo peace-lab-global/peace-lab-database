@@ -1,7 +1,6 @@
 ---
-
 title: "《冥想》Meditation"
-description: "《冥想》Meditation的详细解析与实践指南"
+description: "《冥想》Meditation —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《冥想》Meditation"
   - "《冥想》Meditation的核心概念"
   - "《冥想》Meditation的方法与实践"
-trigger_keywords: ["body", "brain", "breathwork", "emotion"]
+trigger_keywords: ["《冥想》Meditation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/与当下同行：觉察是当下之门.md"
+    relation: "冥想/瑜伽"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训.md"
+    relation: "冥想/瑜伽"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C1-homework.md"
+    relation: "冥想/瑜伽"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md"
+    relation: "冥想/meditation"
 ---
 # 《冥想》Meditation
 

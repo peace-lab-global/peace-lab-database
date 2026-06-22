@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《英国组曲第一号》综合指南"
-description: "巴赫《英国组曲第一号》综合指南的详细解析与实践指南"
+description: "巴赫《英国组曲第一号》综合指南 —— Bach English Suites · Suite1 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach English Suites > Suite1"
 tags: ["cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫《英国组曲第一号》综合指南"
   - "巴赫《英国组曲第一号》综合指南的核心概念"
   - "巴赫《英国组曲第一号》综合指南的方法与实践"
-trigger_keywords: ["anxiety", "art", "brain", "child"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["巴赫《英国组曲第一号》综合指南"]
+cross_refs: []
 ---
 # 巴赫《英国组曲第一号》综合指南
 

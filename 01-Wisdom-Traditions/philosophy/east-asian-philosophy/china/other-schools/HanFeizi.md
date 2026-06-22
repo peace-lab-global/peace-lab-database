@@ -1,7 +1,6 @@
 ---
-
 title: "韩非子 (Han Feizi)"
-description: "韩非子 (Han Feizi)的详细解析与实践指南"
+description: "韩非子 (Han Feizi) —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["decision-making", "healing", "philosophy", "suicide", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是韩非子"
   - "韩非子的核心概念"
   - "韩非子的方法与实践"
-trigger_keywords: ["韩非子", "decision-making", "developmental", "healing", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
-    relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "depression/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "depression/sexuality"
-
+trigger_keywords: ["韩非子", "decision-making", "healing"]
+cross_refs: []
 ---
 # 韩非子 (Han Feizi)
 

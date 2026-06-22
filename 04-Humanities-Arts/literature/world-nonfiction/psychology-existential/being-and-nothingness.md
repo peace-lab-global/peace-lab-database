@@ -1,7 +1,6 @@
 ---
-
 title: "《存在与虚无》Being and Nothingness"
-description: "《存在与虚无》Being and Nothingness的详细解析与实践指南"
+description: "《存在与虚无》Being and Nothingness —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《存在与虚无》Being and Nothingness"
   - "《存在与虚无》Being and Nothingness的核心概念"
   - "《存在与虚无》Being and Nothingness的方法与实践"
-trigger_keywords: ["anxiety", "body", "buddhism", "philosophy"]
+trigger_keywords: ["《存在与虚无》Being", "and", "Nothingness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre.md"
+    relation: "jean-paul/sartre/precedes"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
+    relation: "jean-paul/sartre/存在主义"
 ---
 # 《存在与虚无》Being and Nothingness
 

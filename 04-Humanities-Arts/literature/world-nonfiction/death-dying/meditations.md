@@ -1,7 +1,6 @@
 ---
-
 title: "《沉思录》Meditations"
-description: "《沉思录》Meditations的详细解析与实践指南"
+description: "《沉思录》Meditations —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《沉思录》Meditations"
   - "《沉思录》Meditations的核心概念"
   - "《沉思录》Meditations的方法与实践"
-trigger_keywords: ["body", "breathwork", "death", "philosophy"]
+trigger_keywords: ["《沉思录》Meditations"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "attachment/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/meditation"
-
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
+    relation: "meditations/marcus/aurelius"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/呼吸"
 ---
 # 《沉思录》Meditations
 

@@ -1,7 +1,6 @@
 ---
-
 title: "南传佛教布萨仪轨 (Theravada Uposatha Rituals)"
-description: "南传佛教布萨仪轨 (Theravada Uposatha Rituals)的详细解析与实践指南"
+description: "南传佛教布萨仪轨 (Theravada Uposatha Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "fasting", "mindfulness", "spirituality", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传佛教布萨仪轨"
   - "南传佛教布萨仪轨的核心概念"
   - "南传佛教布萨仪轨的方法与实践"
-trigger_keywords: ["南传佛教布萨仪轨", "behavioral", "body", "buddhism", "fasting"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/meditation/nutrition"
-
+trigger_keywords: ["南传佛教布萨仪轨", "fasting"]
+cross_refs: []
 ---
 # 南传佛教布萨仪轨 (Theravada Uposatha Rituals)
 

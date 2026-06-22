@@ -1,7 +1,6 @@
 ---
-
 title: "佛教论藏重要论典"
-description: "佛教论藏重要论典的详细解析与实践指南"
+description: "佛教论藏重要论典 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "philosophy", "yoga", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是佛教论藏重要论典"
   - "佛教论藏重要论典的核心概念"
   - "佛教论藏重要论典的方法与实践"
-trigger_keywords: ["佛教论藏重要论典", "buddhism", "developmental", "literature", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/cardiovascular/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/cardiovascular/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "buddhism/cardiovascular/sexuality"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/cardiovascular/sexuality"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/cardiovascular/sexuality"
-
+trigger_keywords: ["佛教论藏重要论典"]
+cross_refs: []
 ---
 # 佛教论藏重要论典
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《审判》The Trial"
-description: "《审判》The Trial的详细解析与实践指南"
+description: "《审判》The Trial —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《审判》The Trial"
   - "《审判》The Trial的核心概念"
   - "《审判》The Trial的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "breathwork"]
+trigger_keywords: ["《审判》The", "Trial"]
 cross_refs:
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/cardiovascular/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka.md"
+    relation: "kafka/franz"
 ---
 # 《审判》The Trial
 

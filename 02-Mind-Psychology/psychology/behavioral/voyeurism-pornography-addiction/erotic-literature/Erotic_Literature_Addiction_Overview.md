@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾概览 (Erotic Literature Addiction Overview)"
-description: "色情文学成瘾概览 (Erotic Literature Addiction Overview)的详细解析与实践指南"
+description: "色情文学成瘾概览 (Erotic Literature Addiction Overview) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是色情文学成瘾概览"
   - "色情文学成瘾概览的核心概念"
   - "色情文学成瘾概览的方法与实践"
-trigger_keywords: ["色情文学成瘾概览", "act", "addiction", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["色情文学成瘾概览", "Erotic", "Literature", "Addiction", "Overview"]
+cross_refs: []
 ---
 # 色情文学成瘾概览 (Erotic Literature Addiction Overview)
 

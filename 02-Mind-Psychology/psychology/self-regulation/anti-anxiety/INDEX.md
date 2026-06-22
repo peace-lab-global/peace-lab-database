@@ -1,7 +1,6 @@
 ---
-
 title: "反焦虑症 (Anti-Anxiety) | Index"
-description: "反焦虑症 (Anti-Anxiety) | Index的详细解析与实践指南"
+description: "反焦虑症 (Anti-Anxiety) | Index —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "decision-making", "sleep", "mindfulness", "act", "self-regulation"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "反焦虑症  | Index的核心概念"
   - "反焦虑症  | Index的方法与实践"
   - "反焦虑症  | Index的自助方法"
-trigger_keywords: ["反焦虑症", "Index", "act", "anxiety", "assessment", "body"]
+trigger_keywords: ["反焦虑症", "Anti-Anxiety"]
 cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "焦虑/暴露/ai"
   - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-
+    relation: "焦虑/系统脱敏/暴露"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/暴露/认知重构"
 ---
 # 反焦虑症 (Anti-Anxiety) | Index
 

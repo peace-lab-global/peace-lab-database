@@ -1,7 +1,6 @@
 ---
-
 title: "宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)"
-description: "宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)的详细解析与实践指南"
+description: "宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["attachment", "brain", "cardiovascular", "mindfulness"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "宽恕心理学与深度关系修复的核心概念"
   - "宽恕心理学与深度关系修复的方法与实践"
   - "宽恕心理学与深度关系修复的自助方法"
-trigger_keywords: ["act", "attachment", "behavioral", "body"]
-cross_refs:
-  - path: "README.md"
-    relation: "attachment/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "GLOSSARY.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "buddhism/emotion/meditation"
-
+trigger_keywords: ["宽恕心理学与深度关系修复", "Forgiveness", "Psychology", "Deep", "Relationship"]
+cross_refs: []
 ---
 # 宽恕心理学与深度关系修复 (Forgiveness Psychology & Deep Relationship Repair)
 

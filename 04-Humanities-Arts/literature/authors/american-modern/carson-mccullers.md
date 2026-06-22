@@ -1,7 +1,6 @@
 ---
-
 title: "Carson McCullers | 卡森·麦卡勒斯"
-description: "Carson McCullers | 卡森·麦卡勒斯的详细解析与实践指南"
+description: "Carson McCullers | 卡森·麦卡勒斯 —— Authors · American Modern 专题"
 category: "人文与艺术疗愈 > 文学 > Authors > American Modern"
 tags: ["literature", "loneliness", "music", "personality", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Carson McCullers | 卡森·麦卡勒斯"
   - "Carson McCullers | 卡森·麦卡勒斯的核心概念"
   - "Carson McCullers | 卡森·麦卡勒斯的方法与实践"
-trigger_keywords: ["卡森", "麦卡勒斯", "child", "communication", "exercise", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["卡森", "麦卡勒斯", "exercise"]
+cross_refs: []
 ---
 # Carson McCullers | 卡森·麦卡勒斯
 

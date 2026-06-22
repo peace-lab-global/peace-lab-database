@@ -1,7 +1,6 @@
 ---
-
 title: "唐诗专业内容体系：中国古典诗歌的黄金时代"
-description: "唐诗专业内容体系：中国古典诗歌的黄金时代的详细解析与实践指南"
+description: "唐诗专业内容体系：中国古典诗歌的黄金时代 —— Chinese Classical Literature · Tang Poetry 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Tang Poetry"
 tags: ["literature", "music", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是唐诗专业内容体系：中国古典诗歌的黄金时代"
   - "唐诗专业内容体系：中国古典诗歌的黄金时代的核心概念"
   - "唐诗专业内容体系：中国古典诗歌的黄金时代的方法与实践"
-trigger_keywords: ["act", "art", "buddhism", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-
+trigger_keywords: ["唐诗专业内容体系：中国古典诗歌的黄金时代"]
+cross_refs: []
 ---
 # 唐诗专业内容体系：中国古典诗歌的黄金时代
 

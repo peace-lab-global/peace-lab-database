@@ -1,7 +1,6 @@
 ---
-
 title: "Fasting Therapy Overview (断食疗法概览)"
-description: "Fasting Therapy Overview (断食疗法概览)的详细解析与实践指南"
+description: "Fasting Therapy Overview (断食疗法概览) —— 营养学 · 断食 专题"
 category: "生命科学与生物医学 > 营养学 > 断食"
 tags: ["aging", "brain", "cardiovascular", "fasting"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Fasting Therapy Overview"
   - "Fasting Therapy Overview的核心概念"
   - "Fasting Therapy Overview的方法与实践"
-trigger_keywords: ["aging", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/daoism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md"
-    relation: "aging/emotion/exercise"
-  - path: "README.md"
-    relation: "cardiovascular/daoism/emotion"
-
+trigger_keywords: ["Fasting", "Therapy", "Overview", "断食疗法概览"]
+cross_refs: []
 ---
 # Fasting Therapy Overview (断食疗法概览)
 

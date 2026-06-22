@@ -1,7 +1,6 @@
 ---
-
 title: "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康"
-description: "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的详细解析与实践指南"
+description: "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康 —— 佛教 · Modern Applications 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Modern Applications"
 tags: ["bci", "buddhism", "meditation"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的核心概念"
   - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的方法与实践"
   - "Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康的自助方法"
-trigger_keywords: ["act", "anxiety", "bci", "behavioral"]
+trigger_keywords: ["bci", "Digital", "Mindfulness", "AI", "Mental"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "ai/vr/mindfulness"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/INDEX.md"
+    relation: "ai/technology/vr"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
+    relation: "ai/vr/ar"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "ai/vr/digital"
 ---
 # Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康
 

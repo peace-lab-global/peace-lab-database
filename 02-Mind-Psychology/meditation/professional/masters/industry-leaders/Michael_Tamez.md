@@ -1,7 +1,6 @@
 ---
-
 title: "迈克尔·塔梅兹 (Michael Tamez)"
-description: "迈克尔·塔梅兹 (Michael Tamez)的详细解析与实践指南"
+description: "迈克尔·塔梅兹 (Michael Tamez) —— Masters · Industry Leaders 专题"
 category: "心智与心理学 > 冥想 > Masters > Industry Leaders"
 tags: ["healing", "meditation", "mindfulness", "religion", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是迈克尔·塔梅兹"
   - "迈克尔·塔梅兹的核心概念"
   - "迈克尔·塔梅兹的方法与实践"
-trigger_keywords: ["迈克尔", "塔梅兹", "adolescent", "buddhism", "developmental", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/historiography/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["迈克尔", "塔梅兹", "exercise"]
+cross_refs: []
 ---
 # 迈克尔·塔梅兹 (Michael Tamez)
 

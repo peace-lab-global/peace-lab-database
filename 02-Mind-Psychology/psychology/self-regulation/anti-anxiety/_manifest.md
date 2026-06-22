@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-Anxiety Agent Skills — 技能注册清单"
-description: "Anti-Anxiety Agent Skills — 技能注册清单的详细解析与实践指南"
+description: "Anti-Anxiety Agent Skills — 技能注册清单 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anti-Anxiety Agent Skills — 技能注册清单"
   - "Anti-Anxiety Agent Skills — 技能注册清单的核心概念"
   - "Anti-Anxiety Agent Skills — 技能注册清单的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["Anti-Anxiety", "Agent", "Skills", "技能注册清单"]
+cross_refs: []
 ---
 # Anti-Anxiety Agent Skills — 技能注册清单
 

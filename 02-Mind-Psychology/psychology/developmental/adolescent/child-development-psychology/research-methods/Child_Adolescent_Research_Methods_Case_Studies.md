@@ -1,7 +1,6 @@
 ---
-
 title: "儿童青少年心理学研究方法与案例分析指导"
-description: "儿童青少年心理学研究方法与案例分析指导的详细解析与实践指南"
+description: "儿童青少年心理学研究方法与案例分析指导 —— Child Development Psychology · Research Methods 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Research Methods"
 tags: ["anxiety", "brain", "cbt", "adhd"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "儿童青少年心理学研究方法与案例分析指导的核心概念"
   - "儿童青少年心理学研究方法与案例分析指导的方法与实践"
   - "儿童青少年心理学研究方法与案例分析指导的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["儿童青少年心理学研究方法与案例分析指导"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/art_therapy/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "quantitative/research/methods"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Research_Methods.md"
+    relation: "research/methods/mixed"
+  - path: "05-Praxis-Growth/writing/Literary_History_Research_Methods.md"
+    relation: "methods/research/意义"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Research_Methods.md"
+    relation: "research/methods/随机对照"
 ---
 # 儿童青少年心理学研究方法与案例分析指导
 

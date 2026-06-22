@@ -1,7 +1,6 @@
 ---
-
 title: "约炮心理学与健康实践指南 (Casual Sex Psychology & Healthy Practice Guide)"
-description: "约炮心理学与健康实践指南 (Casual Sex Psychology & Healthy Practice Guide)的详细解析与实践指南"
+description: "约炮心理学与健康实践指南 (Casual Sex Psychology & Healthy Practice Guide) —— 人际关系 · Casual Sex 专题"
 category: "心智与心理学 > 人际关系 > Casual Sex"
 tags: ["addiction", "anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "约炮心理学与健康实践指南的核心概念"
   - "约炮心理学与健康实践指南的方法与实践"
   - "约炮心理学与健康实践指南的自助方法"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["约炮心理学与健康实践指南", "Casual", "Sex", "Psychology", "Healthy"]
+cross_refs: []
 ---
 # 约炮心理学与健康实践指南 (Casual Sex Psychology & Healthy Practice Guide)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Nursing Professional Attraction Clinical Assessment (护理职业吸引临床评估)"
-description: "Nursing Professional Attraction Clinical Assessment (护理职业吸引临床评估)的详细解析与实践指南"
+description: "Nursing Professional Attraction Clinical Assessment (护理职业吸引临床评估) —— Professional Attraction · Nursing 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction > Nursing"
 tags: ["cbt", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Nursing Professional Attraction Clinical Assessment"
   - "Nursing Professional Attraction Clinical Assessment的核心概念"
   - "Nursing Professional Attraction Clinical Assessment的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/emotion/sexuality"
-
+trigger_keywords: ["Nursing", "Professional", "Attraction", "Clinical", "Assessment"]
+cross_refs: []
 ---
 # Nursing Professional Attraction Clinical Assessment (护理职业吸引临床评估)
 

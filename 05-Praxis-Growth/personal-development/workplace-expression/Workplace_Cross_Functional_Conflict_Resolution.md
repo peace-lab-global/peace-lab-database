@@ -1,7 +1,6 @@
 ---
-
 title: "跨部门协作冲突处理 (Cross-Functional Conflict Resolution)"
-description: "跨部门协作冲突处理 (Cross-Functional Conflict Resolution)的详细解析与实践指南"
+description: "跨部门协作冲突处理 (Cross-Functional Conflict Resolution) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是跨部门协作冲突处理"
   - "跨部门协作冲突处理的核心概念"
   - "跨部门协作冲突处理的方法与实践"
-trigger_keywords: ["跨部门协作冲突处理", "communication", "emotion", "个人发展"]
+trigger_keywords: ["跨部门协作冲突处理", "个人发展"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/emotion"
-
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "冲突/resolution/conflict"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Conflict_Boundary.md"
+    relation: "冲突/conflict/resolution"
+  - path: "02-Mind-Psychology/relationships/marriage/INDEX.md"
+    relation: "冲突/conflict/resolution"
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Neuroscience.md"
+    relation: "conflict/冲突/resolution"
 ---
 # 跨部门协作冲突处理 (Cross-Functional Conflict Resolution)
 

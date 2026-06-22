@@ -1,7 +1,6 @@
 ---
-
 title: "创意产业 | Creative Industries"
-description: "创意产业 | Creative Industries的详细解析与实践指南"
+description: "创意产业 | Creative Industries —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["cinema", "literature", "music", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是创意产业 | Creative Industries"
   - "创意产业 | Creative Industries的核心概念"
   - "创意产业 | Creative Industries的方法与实践"
-trigger_keywords: ["创意产业", "act", "art", "cinema", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["创意产业", "cinema"]
+cross_refs: []
 ---
 # 创意产业 | Creative Industries
 

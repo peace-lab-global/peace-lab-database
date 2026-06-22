@@ -1,7 +1,6 @@
 ---
-
 title: "行为成瘾详表 (Behavioral Addictions)"
-description: "行为成瘾详表 (Behavioral Addictions)的详细解析与实践指南"
+description: "行为成瘾详表 (Behavioral Addictions) —— 行为心理 · Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Addiction"
 tags: ["addiction", "anxiety", "attachment", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是行为成瘾详表"
   - "行为成瘾详表的核心概念"
   - "行为成瘾详表的方法与实践"
-trigger_keywords: ["行为成瘾详表", "act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["行为成瘾详表", "Behavioral", "Addictions"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/body_image"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md"
+    relation: "csbd/成瘾/icd-"
 ---
 # 行为成瘾详表 (Behavioral Addictions)
 

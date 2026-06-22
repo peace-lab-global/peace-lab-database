@@ -1,7 +1,6 @@
 ---
-
 title: "《美国往事》(Once Upon a Time in America) 专业影评：记忆政治学视角下的美国犹太移民史诗"
-description: "《美国往事》(Once Upon a Time in America) 专业影评：记忆政治学视角下的美国犹太移民史诗的详细解析与实践指南"
+description: "《美国往事》(Once Upon a Time in America) 专业影评：记忆政治学视角下的美国犹太移民史诗 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《美国往事》 专业影评：记忆政治学视角下的美国犹太移民史诗"
   - "《美国往事》 专业影评：记忆政治学视角下的美国犹太移民史诗的核心概念"
   - "《美国往事》 专业影评：记忆政治学视角下的美国犹太移民史诗的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["《美国往事》", "Once", "Upon", "Time", "in"]
+cross_refs: []
 ---
 # 《美国往事》(Once Upon a Time in America) 专业影评：记忆政治学视角下的美国犹太移民史诗
 

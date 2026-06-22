@@ -1,7 +1,6 @@
 ---
-
 title: "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་"
-description: "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་的详细解析与实践指南"
+description: "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་ —— 佛教 · 大手印 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 大手印"
 tags: ["buddhism", "dzogchen", "mandala", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་"
   - "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་的核心概念"
   - "大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་的方法与实践"
-trigger_keywords: ["大手印详解", "Mahāmudrā", "behavioral", "body", "breathwork", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["大手印详解", "Mahāmudrā"]
+cross_refs: []
 ---
 # 大手印详解 | Mahāmudrā | ཕྱག་རྒྱ་ཆེན་པོ་
 

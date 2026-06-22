@@ -1,7 +1,6 @@
 ---
-
 title: "积极心理学应用实践专业内容体系"
-description: "积极心理学应用实践专业内容体系的详细解析与实践指南"
+description: "积极心理学应用实践专业内容体系 —— 心理学基础 · 积极心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 积极心理学"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "积极心理学应用实践专业内容体系的核心概念"
   - "积极心理学应用实践专业内容体系的方法与实践"
   - "积极心理学应用实践专业内容体系的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["积极心理学应用实践专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/border-town/Pastoral_Utopia.md"
+    relation: "人际关系/意义"
+  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
+    relation: "积极心理学/意义建构/意义"
 ---
 # 积极心理学应用实践专业内容体系
 

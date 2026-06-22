@@ -1,7 +1,6 @@
 ---
-
 title: "皮质醇与精神障碍 (Cortisol & Mental Health Disorders)"
-description: "皮质醇与精神障碍 (Cortisol & Mental Health Disorders)的详细解析与实践指南"
+description: "皮质醇与精神障碍 (Cortisol & Mental Health Disorders) —— 压力与HPA轴 · Cortisol 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Cortisol"
 tags: ["addiction", "anxiety", "attachment", "depression", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是皮质醇与精神障碍"
   - "皮质醇与精神障碍的核心概念"
   - "皮质醇与精神障碍的方法与实践"
-trigger_keywords: ["皮质醇与精神障碍", "act", "addiction", "aging", "anxiety"]
+trigger_keywords: ["皮质醇与精神障碍", "Cortisol", "Mental", "Health", "Disorders"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/depression"
   - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-
+    relation: "hpa/cortisol/皮质醇"
 ---
 # 皮质醇与精神障碍 (Cortisol & Mental Health Disorders)
 

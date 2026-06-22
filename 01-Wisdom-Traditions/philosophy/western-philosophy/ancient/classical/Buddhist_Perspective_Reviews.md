@@ -1,7 +1,6 @@
 ---
-
 title: "古希腊哲学经典 · 佛法视角三方书评"
-description: "古希腊哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "古希腊哲学经典 · 佛法视角三方书评 —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["buddhism", "habits", "philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是古希腊哲学经典 · 佛法视角三方书评"
   - "古希腊哲学经典 · 佛法视角三方书评的核心概念"
   - "古希腊哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["古希腊哲学经典", "佛法视角三方书评", "body", "buddhism", "habits", "philosophy"]
+trigger_keywords: ["古希腊哲学经典", "佛法视角三方书评", "habits"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/15-McMindfulness-Critique.md"
-    relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/productivity/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeing-that-frees.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛法/佛教"
 ---
 # 古希腊哲学经典 · 佛法视角三方书评
 

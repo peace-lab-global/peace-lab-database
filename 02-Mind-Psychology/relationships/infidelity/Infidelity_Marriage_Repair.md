@@ -1,7 +1,6 @@
 ---
-
 title: "出轨后婚姻修复指南"
-description: "出轨后婚姻修复指南的详细解析与实践指南"
+description: "出轨后婚姻修复指南 —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["addiction", "attachment", "cbt", "emdr"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是出轨后婚姻修复指南"
   - "出轨后婚姻修复指南的核心概念"
   - "出轨后婚姻修复指南的方法与实践"
-trigger_keywords: ["出轨后婚姻修复指南", "addiction", "adolescent", "assessment", "attachment"]
+trigger_keywords: ["出轨后婚姻修复指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "attachment/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/emotion/personality"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Female_Fate.md"
+    relation: "婚姻/意义"
+  - path: "04-Humanities-Arts/media/cinema/film-criticism/Therapy_Application_Guide.md"
+    relation: "创伤/认知行为/沟通"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "创伤/沟通"
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+    relation: "创伤/tf-cbt/认知行为"
 ---
 # 出轨后婚姻修复指南
 

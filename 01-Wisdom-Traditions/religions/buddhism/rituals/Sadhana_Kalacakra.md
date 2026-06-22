@@ -1,7 +1,6 @@
 ---
-
 title: "时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)"
-description: "时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)的详细解析与实践指南"
+description: "时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "mandala", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是时轮金刚完整修持仪轨"
   - "时轮金刚完整修持仪轨的核心概念"
   - "时轮金刚完整修持仪轨的方法与实践"
-trigger_keywords: ["时轮金刚完整修持仪轨", "body", "breathwork", "buddhism", "mandala"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/sexuality/yoga"
-
+trigger_keywords: ["时轮金刚完整修持仪轨", "mandala"]
+cross_refs: []
 ---
 # 时轮金刚完整修持仪轨 (Kalacakra / Dukhor Sadhana)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "急性期处理指南 (Acute Phase Management)"
-description: "急性期处理指南 (Acute Phase Management)的详细解析与实践指南"
+description: "急性期处理指南 (Acute Phase Management) —— 生物学 · Neck Pain Acute 专题"
 category: "生命科学与生物医学 > 生物学 > Neck Pain Acute"
 tags: ["aging", "brain", "exercise", "gut", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是急性期处理指南"
   - "急性期处理指南的核心概念"
   - "急性期处理指南的方法与实践"
-trigger_keywords: ["急性期处理指南", "act", "aging", "assessment", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/exercise/immune"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/exercise/immune"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/exercise/immune"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/exercise/immune"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "aging/exercise/neuroscience"
-
+trigger_keywords: ["急性期处理指南", "Acute", "Phase", "Management"]
+cross_refs: []
 ---
 # 急性期处理指南 (Acute Phase Management)
 

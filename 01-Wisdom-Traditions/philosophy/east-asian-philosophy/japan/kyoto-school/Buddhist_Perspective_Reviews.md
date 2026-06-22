@@ -1,7 +1,6 @@
 ---
-
 title: "京都学派 · 佛法视角三方书评"
-description: "京都学派 · 佛法视角三方书评的详细解析与实践指南"
+description: "京都学派 · 佛法视角三方书评 —— Japan · Kyoto School 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Japan > Kyoto School"
 tags: ["buddhism", "philosophy", "religion", "zen", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是京都学派 · 佛法视角三方书评"
   - "京都学派 · 佛法视角三方书评的核心概念"
   - "京都学派 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["京都学派", "佛法视角三方书评", "behavioral", "buddhism", "philosophy", "religion"]
+trigger_keywords: ["京都学派", "佛法视角三方书评", "religion"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-gateless-gate.md"
+    relation: "禅宗/佛法/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/diamond-sutra.md"
+    relation: "佛法/禅宗/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-dharma-of-star-wars.md"
+    relation: "禅宗/佛法/佛教"
 ---
 # 京都学派 · 佛法视角三方书评
 

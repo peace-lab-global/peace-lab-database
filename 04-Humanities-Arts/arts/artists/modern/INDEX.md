@@ -1,7 +1,6 @@
 ---
-
 title: "modern | Index"
-description: "modern | Index的详细解析与实践指南"
+description: "modern | Index —— 艺术家 · Modern 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术家 > Modern"
 tags: ["art-therapy", "艺术家"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是modern | Index"
   - "modern | Index的核心概念"
   - "modern | Index的方法与实践"
-trigger_keywords: ["modern", "Index", "艺术", "艺术家"]
+trigger_keywords: ["modern", "艺术", "艺术家"]
 cross_refs: []
-
 ---
 # modern | Index
 

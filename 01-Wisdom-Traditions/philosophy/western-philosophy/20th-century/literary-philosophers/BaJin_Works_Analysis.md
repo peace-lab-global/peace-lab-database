@@ -1,7 +1,6 @@
 ---
-
 title: "巴金主要作品深度分析"
-description: "巴金主要作品深度分析的详细解析与实践指南"
+description: "巴金主要作品深度分析 —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["marriage", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是巴金主要作品深度分析"
   - "巴金主要作品深度分析的核心概念"
   - "巴金主要作品深度分析的方法与实践"
-trigger_keywords: ["巴金主要作品深度分析", "art", "behavioral", "communication", "developmental"]
+trigger_keywords: ["巴金主要作品深度分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Enneagram_System.md"
-    relation: "attachment/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "attachment/communication/exercise"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "力量/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/spring-and-autumn-annals.md"
+    relation: "autumn/spring/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Man_vs_Heaven.md"
+    relation: "力量/意义/vs"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Female_Fate.md"
+    relation: "婚姻/意义"
 ---
 # 巴金主要作品深度分析
 

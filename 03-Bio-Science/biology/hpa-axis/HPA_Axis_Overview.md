@@ -1,7 +1,6 @@
 ---
-
 title: "HPA轴概览 (HPA Axis Overview)"
-description: "HPA轴概览 (HPA Axis Overview)的详细解析与实践指南"
+description: "HPA轴概览 (HPA Axis Overview) —— 生物学 · HPA轴 专题"
 category: "生命科学与生物医学 > 生物学 > HPA轴"
 tags: ["HPA轴", "aging", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是HPA轴概览"
   - "HPA轴概览的核心概念"
   - "HPA轴概览的方法与实践"
-trigger_keywords: ["HPA轴概览", "HPA轴", "act", "aging", "anxiety"]
+trigger_keywords: ["HPA轴概览", "HPA轴"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/HPA_Axis_Regulation_Skill.md"
+    relation: "hpa/肾上腺/应激"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Overview.md"
+    relation: "hpa/应激/axis"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Mechanisms.md"
+    relation: "hpa/axis/sam"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cortisol/Cortisol_Neuroscience.md"
+    relation: "hpa/gr/mr"
 ---
 # HPA轴概览 (HPA Axis Overview)
 

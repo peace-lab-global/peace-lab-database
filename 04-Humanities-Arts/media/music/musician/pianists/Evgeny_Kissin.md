@@ -1,7 +1,6 @@
 ---
-
 title: "Evgeny Kissin (叶甫格尼·基辛) - 钢琴诗人与技术大师"
-description: "Evgeny Kissin (叶甫格尼·基辛) - 钢琴诗人与技术大师的详细解析与实践指南"
+description: "Evgeny Kissin (叶甫格尼·基辛) - 钢琴诗人与技术大师 —— Musician · Pianists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Evgeny Kissin  - 钢琴诗人与技术大师"
   - "Evgeny Kissin  - 钢琴诗人与技术大师的核心概念"
   - "Evgeny Kissin  - 钢琴诗人与技术大师的方法与实践"
-trigger_keywords: ["act", "art", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Evgeny", "Kissin", "叶甫格尼", "基辛", "钢琴诗人与技术大师"]
+cross_refs: []
 ---
 # Evgeny Kissin (叶甫格尼·基辛) - 钢琴诗人与技术大师
 

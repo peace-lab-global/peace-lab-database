@@ -1,7 +1,6 @@
 ---
-
 title: "发展心理学基础"
-description: "发展心理学基础的详细解析与实践指南"
+description: "发展心理学基础 —— 性学 · Authority Complex 专题"
 category: "生命科学与生物医学 > 性学 > Authority Complex"
 tags: ["性学"]
 last_updated: "2026-05"
@@ -13,9 +12,8 @@ intent_queries:
   - "发展心理学基础的核心概念"
   - "发展心理学基础的方法与实践"
   - "发展心理学基础的自助方法"
-trigger_keywords: ["发展心理学基础", "developmental", "psychology", "性学"]
+trigger_keywords: ["发展心理学基础", "性学"]
 cross_refs: []
-
 ---
 # 发展心理学基础
 

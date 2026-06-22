@@ -1,7 +1,6 @@
 ---
-
 title: "生物伦理与哲学 | Ethics & Philosophy"
-description: "生物伦理与哲学 | Ethics & Philosophy的详细解析与实践指南"
+description: "生物伦理与哲学 | Ethics & Philosophy —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是生物伦理与哲学 | Ethics & Philosophy"
   - "生物伦理与哲学 | Ethics & Philosophy的核心概念"
   - "生物伦理与哲学 | Ethics & Philosophy的方法与实践"
-trigger_keywords: ["生物伦理与哲学", "art", "assessment", "behavioral", "child"]
+trigger_keywords: ["生物伦理与哲学", "Ethics", "Philosophy"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Channels_Winds_Drops.md"
-    relation: "communication/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
-    relation: "communication/death/exercise"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
+    relation: "singer/peter/altruism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Singer.md"
+    relation: "singer/peter/altruism"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
+    relation: "singer/peter/ethics"
 ---
 # 生物伦理与哲学 | Ethics & Philosophy
 

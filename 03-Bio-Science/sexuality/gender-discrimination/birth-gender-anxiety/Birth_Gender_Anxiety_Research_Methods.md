@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)"
-description: "Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Research Methods"
   - "Birth Gender Anxiety: Research Methods的核心概念"
   - "Birth Gender Anxiety: Research Methods的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Research", "Methods"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/productivity"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md"
+    relation: "research/designs/design"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/Child_Adolescent_Research_Methods_Case_Studies.md"
+    relation: "research/methods/mixed"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/mixed"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md"
+    relation: "research/methods/statistical"
 ---
 # Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)
 

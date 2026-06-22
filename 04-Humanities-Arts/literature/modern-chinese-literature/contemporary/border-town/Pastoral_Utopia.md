@@ -1,7 +1,6 @@
 ---
-
 title: "田园乌托邦——沈从文心中的理想世界"
-description: "田园乌托邦——沈从文心中的理想世界的详细解析与实践指南"
+description: "田园乌托邦——沈从文心中的理想世界 —— Contemporary · Border Town 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Border Town"
 tags: ["literature", "social"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是田园乌托邦——沈从文心中的理想世界"
   - "田园乌托邦——沈从文心中的理想世界的核心概念"
   - "田园乌托邦——沈从文心中的理想世界的方法与实践"
-trigger_keywords: ["anxiety", "literature", "sexuality", "social"]
+trigger_keywords: ["social", "田园乌托邦——沈从文心中的理想世界"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "anxiety/art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Application_Practice.md"
+    relation: "人际关系/意义"
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Overview.md"
+    relation: "人际关系/意义"
 ---
 # 田园乌托邦——沈从文心中的理想世界
 

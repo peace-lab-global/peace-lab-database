@@ -1,7 +1,6 @@
 ---
-
 title: "李白 (Li Bai, 701-762)：盛唐诗坛的浪漫主义巨星"
-description: "李白 (Li Bai, 701-762)：盛唐诗坛的浪漫主义巨星的详细解析与实践指南"
+description: "李白 (Li Bai, 701-762)：盛唐诗坛的浪漫主义巨星 —— Tang Poetry · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Tang Poetry > Authors"
 tags: ["daoism", "literature", "personality", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是李白 ：盛唐诗坛的浪漫主义巨星"
   - "李白 ：盛唐诗坛的浪漫主义巨星的核心概念"
   - "李白 ：盛唐诗坛的浪漫主义巨星的方法与实践"
-trigger_keywords: ["act", "art", "daoism", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/daoism"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/daoism"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "communication/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/daoism"
-
+trigger_keywords: ["daoism", "李白", "Li", "Bai", "701-762"]
+cross_refs: []
 ---
 # 李白 (Li Bai, 701-762)：盛唐诗坛的浪漫主义巨星
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Bipolar Disorder Treatment (双相情感障碍治疗)"
-description: "Bipolar Disorder Treatment (双相情感障碍治疗)的详细解析与实践指南"
+description: "Bipolar Disorder Treatment (双相情感障碍治疗) —— 精神障碍 · Bipolar 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Bipolar"
 tags: ["anxiety", "brain", "cardiovascular", "cbt", "bipolar"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Bipolar Disorder Treatment"
   - "Bipolar Disorder Treatment的核心概念"
   - "Bipolar Disorder Treatment的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Bipolar", "Disorder", "Treatment", "双相情感障碍治疗"]
+cross_refs: []
 ---
 # Bipolar Disorder Treatment (双相情感障碍治疗)
 

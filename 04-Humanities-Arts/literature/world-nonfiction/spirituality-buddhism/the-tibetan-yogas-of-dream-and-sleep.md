@@ -1,7 +1,6 @@
 ---
-
 title: "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep"
-description: "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的详细解析与实践指南"
+description: "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["yoga", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep"
   - "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的核心概念"
   - "《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep的方法与实践"
-trigger_keywords: ["buddhism", "death", "sexuality", "yoga"]
+trigger_keywords: ["yoga", "《藏梦瑜伽》The", "Tibetan", "Yogas", "of"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/yoga/masters/ancient/Patanjali.md"
-    relation: "buddhism/death/exercise"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/advanced/Buddhism_Advanced_Practice_Topics.md"
-    relation: "buddhism/death/exercise"
-
+  - path: "01-Wisdom-Traditions/yoga/six-yogas-naropa/Six_Yogas_Psychological_Cultivation.md"
+    relation: "瑜伽/yogas/藏传"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教/藏传"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
 ---
 # 《藏梦瑜伽》The Tibetan Yogas of Dream and Sleep
 

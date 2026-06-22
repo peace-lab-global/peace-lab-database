@@ -1,7 +1,6 @@
 ---
-
 title: "东亚书道传统 | East Asian Calligraphy Way"
-description: "东亚书道传统 | East Asian Calligraphy Way的详细解析与实践指南"
+description: "东亚书道传统 | East Asian Calligraphy Way —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["calligraphy", "meditation", "zen", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是东亚书道传统 | East Asian Calligraphy Way"
   - "东亚书道传统 | East Asian Calligraphy Way的核心概念"
   - "东亚书道传统 | East Asian Calligraphy Way的方法与实践"
-trigger_keywords: ["东亚书道传统", "aging", "anxiety", "art", "behavioral"]
+trigger_keywords: ["东亚书道传统", "East", "Asian", "Calligraphy", "Way"]
 cross_refs:
   - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/communication"
-
+    relation: "书法/calligraphy/shodo"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Practice_Guide.md"
+    relation: "书法/calligraphy/正念"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Clinical_Applications.md"
+    relation: "书法/calligraphy"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
+    relation: "书法/calligraphy"
 ---
 # 东亚书道传统 | East Asian Calligraphy Way
 

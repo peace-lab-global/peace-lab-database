@@ -1,7 +1,6 @@
 ---
-
 title: "自我调节技能 (Self-Regulation) | Index"
-description: "自我调节技能 (Self-Regulation) | Index的详细解析与实践指南"
+description: "自我调节技能 (Self-Regulation) | Index —— 心理学 · 自我调节 专题"
 category: "心智与心理学 > 心理学 > 自我调节"
 tags: ["anxiety", "ocd", "resilience", "self-confidence", "self-regulation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是自我调节技能  | Index"
   - "自我调节技能  | Index的核心概念"
   - "自我调节技能  | Index的方法与实践"
-trigger_keywords: ["自我调节技能", "Index", "anxiety", "behavioral", "cognitive", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["自我调节技能", "Self-Regulation"]
+cross_refs: []
 ---
 # 自我调节技能 (Self-Regulation) | Index
 

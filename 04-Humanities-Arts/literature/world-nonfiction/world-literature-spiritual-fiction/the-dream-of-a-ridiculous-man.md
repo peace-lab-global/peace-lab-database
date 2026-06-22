@@ -1,7 +1,6 @@
 ---
-
 title: "《一个荒唐人的梦》The Dream of a Ridiculous Man"
-description: "《一个荒唐人的梦》The Dream of a Ridiculous Man的详细解析与实践指南"
+description: "《一个荒唐人的梦》The Dream of a Ridiculous Man —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《一个荒唐人的梦》The Dream of a Ridiculous Man"
   - "《一个荒唐人的梦》The Dream of a Ridiculous Man的核心概念"
   - "《一个荒唐人的梦》The Dream of a Ridiculous Man的方法与实践"
-trigger_keywords: ["art", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "attachment/cardiovascular/death"
-  - path: "README.md"
-    relation: "art_therapy/attachment/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "attachment/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/death/depression"
-
+trigger_keywords: ["《一个荒唐人的梦》The", "Dream", "of", "Ridiculous", "Man"]
+cross_refs: []
 ---
 # 《一个荒唐人的梦》The Dream of a Ridiculous Man
 

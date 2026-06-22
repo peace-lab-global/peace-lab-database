@@ -1,7 +1,6 @@
 ---
-
 title: "《活着》读书笔记与书评"
-description: "《活着》读书笔记与书评的详细解析与实践指南"
+description: "《活着》读书笔记与书评 —— Contemporary · To Live 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > To Live"
 tags: ["loneliness", "suicide", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《活着》读书笔记与书评"
   - "《活着》读书笔记与书评的核心概念"
   - "《活着》读书笔记与书评的方法与实践"
-trigger_keywords: ["death", "emotion", "loneliness", "psychology"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
-    relation: "death/depression/emotion"
-
+trigger_keywords: ["loneliness", "《活着》读书笔记与书评"]
+cross_refs: []
 ---
 # 《活着》读书笔记与书评
 

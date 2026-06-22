@@ -1,7 +1,6 @@
 ---
-
 title: "Social Anxiety Disorder Clinical Features (社交焦虑障碍临床表现)"
-description: "Social Anxiety Disorder Clinical Features (社交焦虑障碍临床表现)的详细解析与实践指南"
+description: "Social Anxiety Disorder Clinical Features (社交焦虑障碍临床表现) —— 焦虑症 · Social Anxiety 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Social Anxiety"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Social Anxiety Disorder Clinical Features"
   - "Social Anxiety Disorder Clinical Features的核心概念"
   - "Social Anxiety Disorder Clinical Features的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/spa/SPA_Psychological_Relaxation_Mechanism.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["Social", "Anxiety", "Disorder", "Clinical", "Features"]
+cross_refs: []
 ---
 # Social Anxiety Disorder Clinical Features (社交焦虑障碍临床表现)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Integrated Weight Loss Protocols (综合减肥干预方案)"
-description: "Integrated Weight Loss Protocols (综合减肥干预方案)的详细解析与实践指南"
+description: "Integrated Weight Loss Protocols (综合减肥干预方案) —— 生物学 · Weight Loss 专题"
 category: "生命科学与生物医学 > 生物学 > Weight Loss"
 tags: ["aging", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Integrated Weight Loss Protocols"
   - "Integrated Weight Loss Protocols的核心概念"
   - "Integrated Weight Loss Protocols的方法与实践"
-trigger_keywords: ["act", "aging", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md"
-    relation: "aging/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/body_image/emotion"
-
+trigger_keywords: ["Integrated", "Weight", "Loss", "Protocols", "综合减肥干预方案"]
+cross_refs: []
 ---
 # Integrated Weight Loss Protocols (综合减肥干预方案)
 

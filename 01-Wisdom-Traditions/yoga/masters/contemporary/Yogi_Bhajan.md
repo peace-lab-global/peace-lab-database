@@ -1,7 +1,6 @@
 ---
-
 title: "尤吉·巴赞（Yogi Bhajan / योगी भजन）"
-description: "尤吉·巴赞（Yogi Bhajan / योगी भजन）的详细解析与实践指南"
+description: "尤吉·巴赞（Yogi Bhajan / योगी भजन） —— Masters · Contemporary 专题"
 category: "智慧传承 > 瑜伽 > Masters > Contemporary"
 tags: ["meditation", "social", "spirituality", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是尤吉·巴赞（Yogi Bhajan / योगी भजन）"
   - "尤吉·巴赞（Yogi Bhajan / योगी भजन）的核心概念"
   - "尤吉·巴赞（Yogi Bhajan / योगी भजन）的方法与实践"
-trigger_keywords: ["尤吉", "योगी भजन）", "act", "breathwork", "meditation", "sexuality"]
+trigger_keywords: ["尤吉", "योगी भजन）", "meditation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "meditation/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Meditation_Overview.md"
+    relation: "kundalini/bhajan/yogi"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Safety_Screening.md"
+    relation: "kundalini/yoga/昆达里尼"
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Kriya_Sequences.md"
+    relation: "kriya/kundalini/bhajan"
 ---
 # 尤吉·巴赞（Yogi Bhajan / योगी भजन）
 

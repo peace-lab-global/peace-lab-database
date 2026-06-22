@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《法国组曲第六号》综合指南"
-description: "巴赫《法国组曲第六号》综合指南的详细解析与实践指南"
+description: "巴赫《法国组曲第六号》综合指南 —— Bach French Suites · Suite6 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach French Suites > Suite6"
 tags: ["healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴赫《法国组曲第六号》综合指南"
   - "巴赫《法国组曲第六号》综合指南的核心概念"
   - "巴赫《法国组曲第六号》综合指南的方法与实践"
-trigger_keywords: ["art", "brain", "clinical", "cognitive"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/exercise"
-  - path: "README.md"
-    relation: "art_therapy/communication/emotion"
-
+trigger_keywords: ["巴赫《法国组曲第六号》综合指南"]
+cross_refs: []
 ---
 # 巴赫《法国组曲第六号》综合指南
 

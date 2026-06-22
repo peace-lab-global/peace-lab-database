@@ -1,7 +1,6 @@
 ---
-
 title: "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)"
-description: "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)的详细解析与实践指南"
+description: "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量) —— 性学 · Paraphilia 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Paraphilic Disorders: Ethics, Law & Sociocultural Considerations"
   - "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations的核心概念"
   - "Paraphilic Disorders: Ethics, Law & Sociocultural Considerations的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "assessment"]
+trigger_keywords: ["Paraphilic", "Disorders:", "Ethics", "Law", "Sociocultural"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/buddhism/communication"
-  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
-    relation: "aging/buddhism/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Ethics_Legal.md"
+    relation: "sociocultural/considerations/law"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Ethics_Legal.md"
+    relation: "ethical/considerations/ethics"
 ---
 # Paraphilic Disorders: Ethics, Law & Sociocultural Considerations (恋物癖伦理法律与社会文化考量)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "02. 神经生物学与职业应激机制 | Neurobiology & Stress"
-description: "02. 神经生物学与职业应激机制 | Neurobiology & Stress的详细解析与实践指南"
+description: "02. 神经生物学与职业应激机制 | Neurobiology & Stress —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "brain", "cardiovascular", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是02. 神经生物学与职业应激机制 | Neurobiology & Stress"
   - "02. 神经生物学与职业应激机制 | Neurobiology & Stress的核心概念"
   - "02. 神经生物学与职业应激机制 | Neurobiology & Stress的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["02.", "神经生物学与职业应激机制", "Neurobiology", "Stress"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md"
-    relation: "cardiovascular/emotion/immune"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/emotion"
-
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "hpa/炎症/免疫"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
+    relation: "肾上腺/应激/hpa"
+  - path: "03-Bio-Science/biology/gut-microbiome/Gut_Brain_Axis.md"
+    relation: "免疫/hpa/皮质醇"
+  - path: "01-Wisdom-Traditions/tai-chi/psychology-wellbeing/TaiChi_Stress_Anxiety_Depression.md"
+    relation: "hpa/stress/皮质醇"
 ---
 # 02. 神经生物学与职业应激机制 | Neurobiology & Stress
 

@@ -1,7 +1,6 @@
 ---
-
 title: "心理健康 | Mental Health Framework"
-description: "心理健康 | Mental Health Framework的详细解析与实践指南"
+description: "心理健康 | Mental Health Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "心理健康 | Mental Health Framework的核心概念"
   - "心理健康 | Mental Health Framework的方法与实践"
   - "心理健康 | Mental Health Framework的自助方法"
-trigger_keywords: ["心理健康", "act", "adolescent", "anxiety", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["心理健康", "Mental", "Health", "Framework"]
+cross_refs: []
 ---
 # 心理健康 | Mental Health Framework
 

@@ -1,7 +1,6 @@
 ---
-
 title: "正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)"
-description: "正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)的详细解析与实践指南"
+description: "正念核心概念与技术 (Mindfulness: Core Concepts & Techniques) —— 个人发展 · Mindfulness 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念核心概念与技术"
   - "正念核心概念与技术的核心概念"
   - "正念核心概念与技术的方法与实践"
-trigger_keywords: ["正念核心概念与技术", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["正念核心概念与技术", "Mindfulness:", "Core", "Concepts", "Techniques"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Overview.md"
+    relation: "正念/walking/table"
+  - path: "02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Techniques.md"
+    relation: "正念/觉察/table"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-scripts/Scripts_Mindfulness_Breathing.md"
+    relation: "正念/mindfulness/呼吸"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
+    relation: "正念/mindfulness/觉察"
 ---
 # 正念核心概念与技术 (Mindfulness: Core Concepts & Techniques)
 

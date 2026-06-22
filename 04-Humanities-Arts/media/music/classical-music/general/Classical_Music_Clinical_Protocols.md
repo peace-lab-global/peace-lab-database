@@ -1,7 +1,6 @@
 ---
-
 title: "Classical Music Clinical Protocols (古典音乐临床方案)"
-description: "Classical Music Clinical Protocols (古典音乐临床方案)的详细解析与实践指南"
+description: "Classical Music Clinical Protocols (古典音乐临床方案) —— 古典音乐 · General 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > General"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Classical Music Clinical Protocols"
   - "Classical Music Clinical Protocols的核心概念"
   - "Classical Music Clinical Protocols的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["Classical", "Music", "Clinical", "Protocols", "古典音乐临床方案"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Exposure_Training_Guide.md"
+    relation: "暴露/焦虑/创伤"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Emotional_Desensitization.md"
+    relation: "暴露/焦虑"
 ---
 # Classical Music Clinical Protocols (古典音乐临床方案)
 

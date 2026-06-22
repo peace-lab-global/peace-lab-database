@@ -1,7 +1,6 @@
 ---
-
 title: "双相情感障碍 (Bipolar Disorder) | Index"
-description: "双相情感障碍 (Bipolar Disorder) | Index的详细解析与实践指南"
+description: "双相情感障碍 (Bipolar Disorder) | Index —— 精神障碍 · Bipolar 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Bipolar"
 tags: ["cbt", "depression", "intervention", "bipolar", "sleep", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是双相情感障碍  | Index"
   - "双相情感障碍  | Index的核心概念"
   - "双相情感障碍  | Index的方法与实践"
-trigger_keywords: ["双相情感障碍", "Index", "adolescent", "assessment", "cbt", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "depression/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "depression/emotion/neuroscience"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "depression/emotion/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "depression/emotion/neuroscience"
-
+trigger_keywords: ["双相情感障碍", "cbt"]
+cross_refs: []
 ---
 # 双相情感障碍 (Bipolar Disorder) | Index
 

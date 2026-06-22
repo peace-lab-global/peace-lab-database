@@ -1,7 +1,6 @@
 ---
-
 title: "CBT高级技术 (CBT Advanced Techniques)"
-description: "CBT高级技术 (CBT Advanced Techniques)的详细解析与实践指南"
+description: "CBT高级技术 (CBT Advanced Techniques) —— 疗法 · Cognitive Behavioral Therapy 专题"
 category: "心智与心理学 > 疗法 > Cognitive Behavioral Therapy"
 tags: ["anxiety", "brain", "cbt", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是CBT高级技术"
   - "CBT高级技术的核心概念"
   - "CBT高级技术的方法与实践"
-trigger_keywords: ["CBT高级技术", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["CBT高级技术", "CBT", "Advanced", "Techniques"]
+cross_refs: []
 ---
 # CBT高级技术 (CBT Advanced Techniques)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "文艺复兴哲学经典 · 佛法视角三方书评"
-description: "文艺复兴哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "文艺复兴哲学经典 · 佛法视角三方书评 —— Early Modern · 文艺复兴 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > 文艺复兴"
 tags: ["buddhism", "habits", "philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文艺复兴哲学经典 · 佛法视角三方书评"
   - "文艺复兴哲学经典 · 佛法视角三方书评的核心概念"
   - "文艺复兴哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["文艺复兴哲学经典", "佛法视角三方书评", "behavioral", "brain", "buddhism", "death"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Assessment_Tools.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["文艺复兴哲学经典", "佛法视角三方书评"]
+cross_refs: []
 ---
 # 文艺复兴哲学经典 · 佛法视角三方书评
 

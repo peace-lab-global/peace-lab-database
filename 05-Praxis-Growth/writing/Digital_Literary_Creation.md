@@ -1,7 +1,6 @@
 ---
-
 title: "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία"
-description: "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的详细解析与实践指南"
+description: "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["communication", "decision-making", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία"
   - "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的核心概念"
   - "数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία的方法与实践"
-trigger_keywords: ["数字文学创作", "art", "assessment", "behavioral", "brain"]
+trigger_keywords: ["数字文学创作", "Digital", "Literary", "Creation", "Ψηφιακή"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/neuroscience/productivity"
-
+  - path: "04-Humanities-Arts/media/podcast/Podcast_Creation_Guide.md"
+    relation: "creation/vs"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "ai/digital/vs"
 ---
 # 数字文学创作 | Digital Literary Creation | Ψηφιακή Λογοτεχνική Δημιουργία
 

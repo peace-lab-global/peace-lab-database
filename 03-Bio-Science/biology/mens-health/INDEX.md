@@ -1,7 +1,6 @@
 ---
-
 title: "男性健康 | Men's Health"
-description: "男性健康 | Men's Health的详细解析与实践指南"
+description: "男性健康 | Men's Health —— 生物学 · Mens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Mens Health"
 tags: ["cardiovascular", "depression", "exercise", "hpa-axis", "nutrition", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是男性健康 | Men's Health"
   - "男性健康 | Men's Health的核心概念"
   - "男性健康 | Men's Health的方法与实践"
-trigger_keywords: ["男性健康", "cardiovascular", "depression", "emotion", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "cardiovascular/depression/emotion"
-
+trigger_keywords: ["男性健康", "cardiovascular", "depression", "exercise"]
+cross_refs: []
 ---
 # 男性健康 | Men's Health
 

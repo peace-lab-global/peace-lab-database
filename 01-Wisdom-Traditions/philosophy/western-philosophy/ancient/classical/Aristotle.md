@@ -1,7 +1,6 @@
 ---
-
 title: "亚里士多德 (Aristotle)"
-description: "亚里士多德 (Aristotle)的详细解析与实践指南"
+description: "亚里士多德 (Aristotle) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["cbt", "healing", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是亚里士多德"
   - "亚里士多德的核心概念"
   - "亚里士多德的方法与实践"
-trigger_keywords: ["亚里士多德", "behavioral", "cbt", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "emotion/exercise/sexuality"
-
+trigger_keywords: ["亚里士多德", "cbt"]
+cross_refs: []
 ---
 # 亚里士多德 (Aristotle)
 

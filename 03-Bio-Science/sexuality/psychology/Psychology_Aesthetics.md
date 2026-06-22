@@ -1,7 +1,6 @@
 ---
-
 title: "性心理学概述 | Sexual Psychology Overview"
-description: "性心理学概述 | Sexual Psychology Overview的详细解析与实践指南"
+description: "性心理学概述 | Sexual Psychology Overview —— 性学 · 心理学 专题"
 category: "生命科学与生物医学 > 性学 > 心理学"
 tags: ["attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "性心理学概述 | Sexual Psychology Overview的核心概念"
   - "性心理学概述 | Sexual Psychology Overview的方法与实践"
   - "性心理学概述 | Sexual Psychology Overview的自助方法"
-trigger_keywords: ["性心理学概述", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["性心理学概述", "Sexual", "Psychology", "Overview"]
+cross_refs: []
 ---
 # 性心理学概述 | Sexual Psychology Overview
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《大母神》The Great Mother"
-description: "《大母神》The Great Mother的详细解析与实践指南"
+description: "《大母神》The Great Mother —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《大母神》The Great Mother"
   - "《大母神》The Great Mother的核心概念"
   - "《大母神》The Great Mother的方法与实践"
-trigger_keywords: ["art", "body", "death", "jung"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/death/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "art_therapy/death/sexuality"
-
+trigger_keywords: ["jung", "《大母神》The", "Great", "Mother"]
+cross_refs: []
 ---
 # 《大母神》The Great Mother
 

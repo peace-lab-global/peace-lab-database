@@ -1,7 +1,6 @@
 ---
-
 title: "宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)"
-description: "宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)的详细解析与实践指南"
+description: "宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment) —— 宗教心理学 · Measurement 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Measurement"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "宗教心理学测量工具与评估的核心概念"
   - "宗教心理学测量工具与评估的方法与实践"
   - "宗教心理学测量工具与评估的自助方法"
-trigger_keywords: ["adolescent", "aging", "assessment", "behavioral"]
+trigger_keywords: ["宗教心理学测量工具与评估", "Religious", "Psychology:", "Measurement", "Tools"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
-    relation: "aging/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/emotion/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/measurement-methods/Political_Psychology_Measurement_Research_Methods.md"
+    relation: "measurement/table/tools"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/INDEX.md"
+    relation: "tools/assessment/psychology"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/party-loyalty-psychology/Party_Loyalty_Psychology_Measurement_Case_Analysis.md"
+    relation: "measurement/table/psychology"
 ---
 # 宗教心理学测量工具与评估 (Religious Psychology: Measurement Tools & Assessment)
 

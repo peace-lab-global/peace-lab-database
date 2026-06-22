@@ -1,7 +1,6 @@
 ---
-
 title: "免疫系统与炎症 (Immune System & Inflammation)"
-description: "免疫系统与炎症 (Immune System & Inflammation)的详细解析与实践指南"
+description: "免疫系统与炎症 (Immune System & Inflammation) —— 生物学 · 免疫与炎症 专题"
 category: "生命科学与生物医学 > 生物学 > 免疫与炎症"
 tags: ["cortisol", "exercise", "hpa-axis", "immune", "inflammation", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是免疫系统与炎症"
   - "免疫系统与炎症的核心概念"
   - "免疫系统与炎症的方法与实践"
-trigger_keywords: ["免疫系统与炎症", "act", "assessment", "cortisol", "exercise"]
+trigger_keywords: ["免疫系统与炎症", "cortisol", "exercise"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/cfs/CFS_Etiology_Mechanisms.md"
+    relation: "免疫/炎症/immune"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "免疫/炎症/压力"
 ---
 # 免疫系统与炎症 (Immune System & Inflammation)
 

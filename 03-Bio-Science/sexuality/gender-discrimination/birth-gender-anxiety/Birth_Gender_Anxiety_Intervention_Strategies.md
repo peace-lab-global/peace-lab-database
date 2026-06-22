@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Intervention Strategies (生育性别焦虑干预策略与治疗)"
-description: "Birth Gender Anxiety: Intervention Strategies (生育性别焦虑干预策略与治疗)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Intervention Strategies (生育性别焦虑干预策略与治疗) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["cbt", "exercise"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Intervention Strategies"
   - "Birth Gender Anxiety: Intervention Strategies的核心概念"
   - "Birth Gender Anxiety: Intervention Strategies的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Intervention", "Strategies"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/exercise"
-
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Clinical_Integration.md"
+    relation: "br/group/therapy"
 ---
 # Birth Gender Anxiety: Intervention Strategies (生育性别焦虑干预策略与治疗)
 

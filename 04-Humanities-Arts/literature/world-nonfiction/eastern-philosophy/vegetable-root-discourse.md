@@ -1,7 +1,6 @@
 ---
-
 title: "《菜根谭》Vegetable Root Discourse"
-description: "《菜根谭》Vegetable Root Discourse的详细解析与实践指南"
+description: "《菜根谭》Vegetable Root Discourse —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《菜根谭》Vegetable Root Discourse"
   - "《菜根谭》Vegetable Root Discourse的核心概念"
   - "《菜根谭》Vegetable Root Discourse的方法与实践"
-trigger_keywords: ["buddhism", "daoism", "death", "philosophy"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+trigger_keywords: ["daoism", "《菜根谭》Vegetable", "Root", "Discourse"]
+cross_refs: []
 ---
 # 《菜根谭》Vegetable Root Discourse
 

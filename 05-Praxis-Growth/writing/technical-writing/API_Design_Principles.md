@@ -1,7 +1,6 @@
 ---
-
 title: "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API"
-description: "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的详细解析与实践指南"
+description: "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["communication", "productivity", "stress"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是API设计原则 | API Design Principles | Αρχές Σχεδιασμού API"
   - "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的核心概念"
   - "API设计原则 | API Design Principles | Αρχές Σχεδιασμού API的方法与实践"
-trigger_keywords: ["API设计原则", "assessment", "behavioral", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["API设计原则", "API", "Design", "Principles", "Αρχές"]
+cross_refs: []
 ---
 # API设计原则 | API Design Principles | Αρχές Σχεδιασμού API
 

@@ -1,7 +1,6 @@
 ---
-
 title: "References"
-description: "References的详细解析与实践指南"
+description: "References —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["depression", "meditation", "抑郁症", "anxiety", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是References"
   - "References的核心概念"
   - "References的方法与实践"
-trigger_keywords: ["References", "clinical", "depression", "meditation", "冥想"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/meditation"
-
+trigger_keywords: ["References", "depression", "meditation", "冥想"]
+cross_refs: []
 ---
 ## 21. 参考文献
 

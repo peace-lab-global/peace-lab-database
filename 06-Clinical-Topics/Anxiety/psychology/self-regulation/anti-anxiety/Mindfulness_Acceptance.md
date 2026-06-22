@@ -1,7 +1,6 @@
 ---
-
 title: "正念与接纳"
-description: "正念与接纳的详细解析与实践指南"
+description: "正念与接纳 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是正念与接纳"
   - "正念与接纳的核心概念"
   - "正念与接纳的方法与实践"
-trigger_keywords: ["正念与接纳", "act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/emotion/meditation"
-
+trigger_keywords: ["正念与接纳"]
+cross_refs: []
 ---
 # 正念与接纳
 

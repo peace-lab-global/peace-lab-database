@@ -1,7 +1,6 @@
 ---
-
 title: "普罗提诺 (Plotinus)"
-description: "普罗提诺 (Plotinus)的详细解析与实践指南"
+description: "普罗提诺 (Plotinus) —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["healing", "meditation", "mindfulness", "personality", "philosophy", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是普罗提诺"
   - "普罗提诺的核心概念"
   - "普罗提诺的方法与实践"
-trigger_keywords: ["普罗提诺", "developmental", "healing", "meditation", "mindfulness"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
-    relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "meditation/personality/productivity"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
-    relation: "meditation/personality/productivity"
-
+trigger_keywords: ["普罗提诺", "healing", "meditation", "mindfulness"]
+cross_refs: []
 ---
 # 普罗提诺 (Plotinus)
 

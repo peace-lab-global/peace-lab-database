@@ -1,7 +1,6 @@
 ---
-
 title: "儿童专注力疗愈"
-description: "儿童专注力疗愈的详细解析与实践指南"
+description: "儿童专注力疗愈 —— 疗法 · Focus Therapy 专题"
 category: "心智与心理学 > 疗法 > Focus Therapy"
 tags: ["decision-making", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是儿童专注力疗愈"
   - "儿童专注力疗愈的核心概念"
   - "儿童专注力疗愈的方法与实践"
-trigger_keywords: ["儿童专注力疗愈", "adolescent", "art", "assessment", "behavioral"]
+trigger_keywords: ["儿童专注力疗愈"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/focus/Focus_Core.md"
+    relation: "专注/adhd/障碍"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "专注/疗法"
 ---
 # 儿童专注力疗愈
 

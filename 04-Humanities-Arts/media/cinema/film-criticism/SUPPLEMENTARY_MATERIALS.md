@@ -1,7 +1,6 @@
 ---
-
 title: "经典电影专业影评补充材料"
-description: "经典电影专业影评补充材料的详细解析与实践指南"
+description: "经典电影专业影评补充材料 —— 电影 · Film Criticism 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Film Criticism"
 tags: ["cinema", "literature", "music", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是经典电影专业影评补充材料"
   - "经典电影专业影评补充材料的核心概念"
   - "经典电影专业影评补充材料的方法与实践"
-trigger_keywords: ["art", "assessment", "cinema", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["cinema", "经典电影专业影评补充材料"]
+cross_refs: []
 ---
 # 经典电影专业影评补充材料
 

@@ -1,7 +1,6 @@
 ---
-
 title: "绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)"
-description: "绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)的详细解析与实践指南"
+description: "绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System) —— 艺术 · 艺术疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "绘画疗法核心术语与理论体系的核心概念"
   - "绘画疗法核心术语与理论体系的方法与实践"
   - "绘画疗法核心术语与理论体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["绘画疗法核心术语与理论体系", "Art", "Therapy", "Core", "Terminology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/OH_Cards_Terminology_Concepts.md"
+    relation: "fundamental/definitions/terminology"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/Gender_Discrimination_Terminology_Standards.md"
+    relation: "concept/definitions/terminology"
 ---
 # 绘画疗法核心术语与理论体系 (Art Therapy Core Terminology & Theoretical System)
 

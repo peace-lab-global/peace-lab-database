@@ -1,7 +1,6 @@
 ---
-
 title: "Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)"
-description: "Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)的详细解析与实践指南"
+description: "Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["addiction", "ballet", "brain", "cbt", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Specific Types Neuroscience Mechanisms"
   - "Specific Types Neuroscience Mechanisms的核心概念"
   - "Specific Types Neuroscience Mechanisms的方法与实践"
-trigger_keywords: ["addiction", "art", "assessment", "ballet"]
+trigger_keywords: ["ballet", "Specific", "Types", "Neuroscience", "Mechanisms"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Multi_Perspective_Reviews.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "emotion/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/neuroscience/sexuality"
-
+  - path: "04-Humanities-Arts/reading/Reading_Neuroscience.md"
+    relation: "neuroscience/神经科学/reading"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
+    relation: "fmri/neuroscience/神经科学"
 ---
 # Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)
 

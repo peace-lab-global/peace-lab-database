@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_016
 skill_name: 成瘾行为评估
 skill_name_en: Addiction Behavior Assessment
@@ -35,16 +34,7 @@ changelog:
   - version: 1.0
     date: 2026-05-19
     changes: "初始版本"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/depression/skills/Depression_Assessment_Skill.md"
-    relation: "addiction/depression/comorbidity"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
-    relation: "addiction/stress/coping"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/crisis/Crisis_Intervention_Skill.md"
-    relation: "addiction/crisis/escalation"
-  - path: "02-Mind-Psychology/psychology/clinical/trauma/skills/Trauma_Assessment_Skill.md"
-    relation: "addiction/trauma/comorbidity"
-
+cross_refs: []
 ---
 
 # 成瘾行为评估技能

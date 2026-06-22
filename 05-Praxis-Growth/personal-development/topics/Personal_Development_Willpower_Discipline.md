@@ -1,7 +1,6 @@
 ---
-
 title: "Willpower & Self-Discipline 意志力与自律"
-description: "Willpower & Self-Discipline 意志力与自律的详细解析与实践指南"
+description: "Willpower & Self-Discipline 意志力与自律 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Willpower & Self-Discipline 意志力与自律"
   - "Willpower & Self-Discipline 意志力与自律的核心概念"
   - "Willpower & Self-Discipline 意志力与自律的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Tara_Brach.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/mbct-program/MBCT_Weekly_Curriculum.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["Willpower", "Self-Discipline", "意志力与自律"]
+cross_refs: []
 ---
 # Willpower & Self-Discipline 意志力与自律
 

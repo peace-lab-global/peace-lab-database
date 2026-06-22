@@ -1,7 +1,6 @@
 ---
-
 title: "09. 组织-个体整合框架 | Organization-Individual Integration"
-description: "09. 组织-个体整合框架 | Organization-Individual Integration的详细解析与实践指南"
+description: "09. 组织-个体整合框架 | Organization-Individual Integration —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["cbt", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是09. 组织-个体整合框架 | Organization-Individual Integration"
   - "09. 组织-个体整合框架 | Organization-Individual Integration的核心概念"
   - "09. 组织-个体整合框架 | Organization-Individual Integration的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/emotion/meditation"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "communication/emotion/meditation"
-
+trigger_keywords: ["09.", "组织-个体整合框架", "Organization-Individual", "Integration"]
+cross_refs: []
 ---
 # 09. 组织-个体整合框架 | Organization-Individual Integration
 

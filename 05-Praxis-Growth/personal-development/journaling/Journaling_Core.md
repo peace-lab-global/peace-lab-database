@@ -1,7 +1,6 @@
 ---
-
 title: "日记写作核心理论 (Journaling - Core Theory)"
-description: "日记写作核心理论 (Journaling - Core Theory)的详细解析与实践指南"
+description: "日记写作核心理论 (Journaling - Core Theory) —— 个人发展 · Journaling 专题"
 category: "实践与个人增长 > 个人发展 > Journaling"
 tags: ["cbt", "writing"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "日记写作核心理论的核心概念"
   - "日记写作核心理论的方法与实践"
   - "日记写作核心理论的自助方法"
-trigger_keywords: ["日记写作核心理论", "act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["日记写作核心理论", "Journaling", "Core", "Theory"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/communication/emotion"
   - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/immune"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/emotion"
-
+    relation: "journaling/writing/pennebaker"
 ---
 # 日记写作核心理论 (Journaling - Core Theory)
 

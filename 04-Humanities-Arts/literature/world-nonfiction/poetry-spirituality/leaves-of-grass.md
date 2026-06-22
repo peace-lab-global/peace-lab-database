@@ -1,7 +1,6 @@
 ---
-
 title: "《草叶集》Leaves of Grass"
-description: "《草叶集》Leaves of Grass的详细解析与实践指南"
+description: "《草叶集》Leaves of Grass —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["daoism", "jung", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《草叶集》Leaves of Grass"
   - "《草叶集》Leaves of Grass的核心概念"
   - "《草叶集》Leaves of Grass的方法与实践"
-trigger_keywords: ["body", "buddhism", "daoism", "death"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/daoism/death"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "buddhism/daoism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+trigger_keywords: ["daoism", "《草叶集》Leaves", "of", "Grass"]
+cross_refs: []
 ---
 # 《草叶集》Leaves of Grass
 

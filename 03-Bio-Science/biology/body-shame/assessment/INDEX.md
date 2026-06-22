@@ -1,6 +1,6 @@
 ---
 title: "assessment | Index"
-description: "assessment | Index的详细解析与实践指南"
+description: "assessment | Index —— 身体羞耻 · Assessment 专题"
 category: "生命科学与生物医学 > 生物学 > 身体羞耻 > Assessment"
 tags: ["生物学", "身体羞耻"]
 last_updated: "2026-05"
@@ -11,8 +11,14 @@ intent_queries:
   - "什么是assessment | Index"
   - "assessment | Index的核心概念"
   - "assessment | Index的方法与实践"
-trigger_keywords: ["assessment", "Index", "生物学", "身体羞耻"]
-cross_refs: []
+trigger_keywords: ["生物学", "身体羞耻"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/INDEX.md"
+    relation: "assessment/contents"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/assessment/INDEX.md"
+    relation: "assessment/contents"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/education/INDEX.md"
+    relation: "assessment/clinical/contents"
 ---
 # assessment | Index
 

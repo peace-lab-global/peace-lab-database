@@ -1,7 +1,6 @@
 ---
-
 title: "儿童发展心理学 | Child Development Index"
-description: "儿童发展心理学 | Child Development Index的详细解析与实践指南"
+description: "儿童发展心理学 | Child Development Index —— 发展心理学 · Child Development 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Child Development"
 tags: ["attachment", "cbt", "emdr", "personality", "trauma", "self-regulation"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "儿童发展心理学 | Child Development Index的核心概念"
   - "儿童发展心理学 | Child Development Index的方法与实践"
   - "儿童发展心理学 | Child Development Index的自助方法"
-trigger_keywords: ["儿童发展心理学", "adolescent", "attachment", "cbt", "child"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "attachment/emotion/meditation"
-  - path: "GLOSSARY.md"
-    relation: "attachment/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/meditation/personality"
-
+trigger_keywords: ["儿童发展心理学", "cbt"]
+cross_refs: []
 ---
 # 儿童发展心理学 | Child Development Index
 

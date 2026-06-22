@@ -1,7 +1,6 @@
 ---
-
 title: "危机与哀伤冥想 Crisis & Grief Meditation"
-description: "危机与哀伤冥想 Crisis & Grief Meditation的详细解析与实践指南"
+description: "危机与哀伤冥想 Crisis & Grief Meditation —— 冥想 · Crisis Meditation 专题"
 category: "心智与心理学 > 冥想 > Crisis Meditation"
 tags: ["anxiety", "grief", "intervention", "meditation", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是危机与哀伤冥想 Crisis & Grief Meditation"
   - "危机与哀伤冥想 Crisis & Grief Meditation的核心概念"
   - "危机与哀伤冥想 Crisis & Grief Meditation的方法与实践"
-trigger_keywords: ["anxiety", "crisis", "grief", "intervention"]
+trigger_keywords: ["grief", "intervention"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/meditation"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-
+  - path: "03-Bio-Science/death/Death_Grief_Bridge.md"
+    relation: "哀伤/丧亲/grief"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-long-goodbye.md"
+    relation: "哀伤/grief"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
+  - path: "03-Bio-Science/death/Death_Pet_Loss.md"
+    relation: "哀伤/grief/丧亲"
 ---
 # 危机与哀伤冥想 Crisis & Grief Meditation
 

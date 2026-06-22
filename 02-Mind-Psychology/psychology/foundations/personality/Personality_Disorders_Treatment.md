@@ -1,6 +1,6 @@
 ---
 title: "人格障碍治疗"
-description: "人格障碍治疗的详细解析与实践指南"
+description: "人格障碍治疗 —— 心理学基础 · 人格心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 人格心理学"
 tags: ["personality", "treatment", "人格心理学", "心理学", "心理学基础"]
 last_updated: "2026-05"

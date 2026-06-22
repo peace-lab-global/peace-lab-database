@@ -1,7 +1,6 @@
 ---
-
 title: "Poison is Medicine | 毒药即解药"
-description: "Poison is Medicine | 毒药即解药的详细解析与实践指南"
+description: "Poison is Medicine | 毒药即解药 —— Dzongsar Khyentse · Poison Is Medicine 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Poison Is Medicine"
 tags: ["buddhism", "dzogchen", "philosophy", "spirituality", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Poison is Medicine | 毒药即解药"
   - "Poison is Medicine | 毒药即解药的核心概念"
   - "Poison is Medicine | 毒药即解药的方法与实践"
-trigger_keywords: ["毒药即解药", "buddhism", "dzogchen", "philosophy", "psychology"]
+trigger_keywords: ["毒药即解药", "dzogchen"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/buddhism/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # Poison is Medicine | 毒药即解药
 

@@ -1,7 +1,6 @@
 ---
-
 title: "离婚心理学评估诊断工具专业内容体系"
-description: "离婚心理学评估诊断工具专业内容体系的详细解析与实践指南"
+description: "离婚心理学评估诊断工具专业内容体系 —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "离婚心理学评估诊断工具专业内容体系的核心概念"
   - "离婚心理学评估诊断工具专业内容体系的方法与实践"
   - "离婚心理学评估诊断工具专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["离婚心理学评估诊断工具专业内容体系"]
+cross_refs: []
 ---
 # 离婚心理学评估诊断工具专业内容体系
 

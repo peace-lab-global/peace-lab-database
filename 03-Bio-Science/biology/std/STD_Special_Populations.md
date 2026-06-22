@@ -1,7 +1,6 @@
 ---
-
 title: "Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)"
-description: "Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)的详细解析与实践指南"
+description: "Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理) —— 生物学 · Std 专题"
 category: "生命科学与生物医学 > 生物学 > Std"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Sexually Transmitted Diseases in Special Populations"
   - "Sexually Transmitted Diseases in Special Populations的核心概念"
   - "Sexually Transmitted Diseases in Special Populations的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["Sexually", "Transmitted", "Diseases", "in", "Special"]
+cross_refs: []
 ---
 # Sexually Transmitted Diseases in Special Populations (特殊人群性传播疾病管理)
 

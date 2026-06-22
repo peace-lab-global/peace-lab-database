@@ -1,7 +1,6 @@
 ---
-
 title: "《男人向我解释事情》Men Explain Things to Me"
-description: "《男人向我解释事情》Men Explain Things to Me的详细解析与实践指南"
+description: "《男人向我解释事情》Men Explain Things to Me —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["self-confidence", "social", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《男人向我解释事情》Men Explain Things to Me"
   - "《男人向我解释事情》Men Explain Things to Me的核心概念"
   - "《男人向我解释事情》Men Explain Things to Me的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "self-confidence"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "attachment/emotion/exercise"
-
+trigger_keywords: ["self-confidence", "《男人向我解释事情》Men", "Explain", "Things", "to"]
+cross_refs: []
 ---
 # 《男人向我解释事情》Men Explain Things to Me
 

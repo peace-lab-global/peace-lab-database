@@ -1,7 +1,6 @@
 ---
-
 title: "道家冥想专业概述：从老庄玄思到内丹实修"
-description: "道家冥想专业概述：从老庄玄思到内丹实修的详细解析与实践指南"
+description: "道家冥想专业概述：从老庄玄思到内丹实修 —— 冥想 · Taoist Meditation 专题"
 category: "心智与心理学 > 冥想 > Taoist Meditation"
 tags: ["anxiety", "brain", "cortisol", "daoism"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是道家冥想专业概述：从老庄玄思到内丹实修"
   - "道家冥想专业概述：从老庄玄思到内丹实修的核心概念"
   - "道家冥想专业概述：从老庄玄思到内丹实修的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
+trigger_keywords: ["道家冥想专业概述：从老庄玄思到内丹实修"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
+    relation: "气功/周天/内丹"
+  - path: "01-Wisdom-Traditions/religions/dao/classics/INDEX.md"
+    relation: "道家/dao/庄子"
 ---
 # 道家冥想专业概述：从老庄玄思到内丹实修
 

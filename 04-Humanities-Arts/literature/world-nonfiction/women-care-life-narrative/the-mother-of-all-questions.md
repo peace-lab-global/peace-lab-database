@@ -1,7 +1,6 @@
 ---
-
 title: "《所有问题的母亲》The Mother of All Questions"
-description: "《所有问题的母亲》The Mother of All Questions的详细解析与实践指南"
+description: "《所有问题的母亲》The Mother of All Questions —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["phobia", "stress"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《所有问题的母亲》The Mother of All Questions"
   - "《所有问题的母亲》The Mother of All Questions的核心概念"
   - "《所有问题的母亲》The Mother of All Questions的方法与实践"
-trigger_keywords: ["body", "child", "exercise", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["exercise", "《所有问题的母亲》The", "Mother", "of", "All"]
+cross_refs: []
 ---
 # 《所有问题的母亲》The Mother of All Questions
 

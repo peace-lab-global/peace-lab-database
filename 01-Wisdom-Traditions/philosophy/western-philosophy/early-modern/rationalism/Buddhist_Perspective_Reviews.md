@@ -1,7 +1,6 @@
 ---
-
 title: "近代理性主义经典 · 佛法视角三方书评"
-description: "近代理性主义经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "近代理性主义经典 · 佛法视角三方书评 —— Early Modern · Rationalism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
 tags: ["buddhism", "philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是近代理性主义经典 · 佛法视角三方书评"
   - "近代理性主义经典 · 佛法视角三方书评的核心概念"
   - "近代理性主义经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["近代理性主义经典", "佛法视角三方书评", "buddhism", "philosophy", "sexuality", "哲学"]
+trigger_keywords: ["近代理性主义经典", "佛法视角三方书评", "哲学"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "buddhism/emotion/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/what-the-buddha-taught.md"
+    relation: "佛教/缘起/菩萨"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/heart-sutra.md"
+    relation: "佛教/菩萨/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/空性"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "佛教/缘起"
 ---
 # 近代理性主义经典 · 佛法视角三方书评
 

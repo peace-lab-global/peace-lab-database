@@ -1,7 +1,6 @@
 ---
-
 title: "摄影疗愈总览 | Photography Therapy Overview"
-description: "摄影疗愈总览 | Photography Therapy Overview的详细解析与实践指南"
+description: "摄影疗愈总览 | Photography Therapy Overview —— 艺术 · 摄影疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 摄影疗愈"
 tags: ["photography"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是摄影疗愈总览 | Photography Therapy Overview"
   - "摄影疗愈总览 | Photography Therapy Overview的核心概念"
   - "摄影疗愈总览 | Photography Therapy Overview的方法与实践"
-trigger_keywords: ["摄影疗愈总览", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Mantra_Sacred_Sound.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["摄影疗愈总览", "Photography", "Therapy", "Overview"]
+cross_refs: []
 ---
 # 摄影疗愈总览 | Photography Therapy Overview
 

@@ -1,0 +1,438 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<meta name="theme-color" content="#0a0a0d" />
+<title>01 涅槃在当下 · 解构剧场</title>
+<link rel="stylesheet" href="./shared.css" />
+<style>
+  /* ========== 解构剧场总体 ========== */
+  body{background:#0a0a0d}
+  .stage{cursor:default}
+
+  /* 背景图：所有"幕"共用同一张图，通过 transform 做聚焦/拉远 */
+  .bg{
+    transition: transform 2.4s cubic-bezier(.6,.2,.2,1), filter 2.4s ease, opacity 1s ease;
+    transform-origin:center center;
+    will-change:transform,filter;
+  }
+  /* 幕 1：完整图 */
+  body.act1 .bg{transform:scale(1.02);filter:saturate(1.05) brightness(.9)}
+  /* 幕 2：完整图（带标注），略微推近 */
+  body.act2 .bg{transform:scale(1.06);filter:saturate(1.05) brightness(.85)}
+  /* 幕 3：聚焦三角梅（前景，下方）*/
+  body.act3 .bg{transform:scale(2.4) translate(0%, 22%);filter:saturate(1.25) brightness(1)}
+  /* 幕 4：聚焦中央高楼群 */
+  body.act4 .bg{transform:scale(2.0) translate(-2%, -10%);filter:saturate(1.0) brightness(.8) contrast(1.1)}
+  /* 幕 5：聚焦天空 */
+  body.act5 .bg{transform:scale(1.6) translate(0%, -28%);filter:saturate(.85) brightness(1.05)}
+  /* 幕 6：完整图 + 高亮叠加 */
+  body.act6 .bg{transform:scale(1.02);filter:saturate(1.15) brightness(.95)}
+
+  /* ========== SVG 标注层 ========== */
+  svg.annot{
+    position:absolute;inset:0;width:100%;height:100%;z-index:4;
+    pointer-events:none;
+  }
+  svg.annot .layer{opacity:0;transition:opacity 1.4s ease;transform-origin:center}
+  body.act2 svg.annot .l-overview{opacity:1}
+  body.act3 svg.annot .l-flower  {opacity:1}
+  body.act4 svg.annot .l-city    {opacity:1}
+  body.act5 svg.annot .l-sky     {opacity:1}
+  body.act6 svg.annot .l-fusion  {opacity:1}
+
+  /* SVG 内部样式 */
+  svg.annot text{
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    fill:#fff; font-size:14px; letter-spacing:.18em;
+    paint-order:stroke; stroke:rgba(0,0,0,.55); stroke-width:3px;
+  }
+  svg.annot .gold{fill:#ffd58a; stroke:rgba(80,50,0,.6)}
+  svg.annot .rose{fill:#ffb1c8; stroke:rgba(120,30,60,.6)}
+  svg.annot .sky {fill:#cfe6ff; stroke:rgba(20,40,80,.6)}
+  svg.annot .small{font-size:11px;letter-spacing:.16em;opacity:.85}
+  svg.annot circle.ring{fill:none;stroke:rgba(255,255,255,.85);stroke-width:1.4;stroke-dasharray:6 5}
+  svg.annot circle.ring.gold{stroke:#ffd58a}
+  svg.annot circle.ring.rose{stroke:#ffb1c8}
+  svg.annot circle.ring.sky {stroke:#cfe6ff}
+  svg.annot line.lead{stroke:rgba(255,255,255,.7);stroke-width:1;stroke-dasharray:3 4}
+  svg.annot line.lead.gold{stroke:rgba(255,213,138,.85)}
+  svg.annot line.lead.rose{stroke:rgba(255,177,200,.85)}
+  svg.annot line.lead.sky {stroke:rgba(207,230,255,.85)}
+
+  /* 旋转动画 */
+  @keyframes spin   { to{transform:rotate(360deg)} }
+  @keyframes pulse  { 0%,100%{opacity:.4;r:30} 50%{opacity:1;r:46} }
+  .spin{transform-box:fill-box;transform-origin:center;animation:spin 30s linear infinite}
+
+  /* 花生灭示意（act3 用）*/
+  .flower-cycle{position:absolute;inset:0;z-index:5;pointer-events:none}
+  .petal-life{
+    position:absolute;left:60%;top:50%;
+    width:60px;height:60px;
+    background:radial-gradient(circle, #ff5b89 0%, #c92e62 60%, transparent 70%);
+    border-radius:50%;opacity:0;
+    filter:blur(.5px);
+    animation:petalLife 5s ease-in-out infinite;
+  }
+  body.act3 .petal-life{display:block}
+  body:not(.act3) .petal-life{animation:none;opacity:0}
+  @keyframes petalLife{
+    0%   {opacity:0;transform:scale(.2) translateY(0) rotate(0deg)}
+    20%  {opacity:1;transform:scale(1) translateY(0) rotate(20deg)}
+    50%  {opacity:1;transform:scale(1.05) translateY(20px) rotate(60deg)}
+    75%  {opacity:.6;transform:scale(.9) translateY(80px) rotate(140deg)}
+    100% {opacity:0;transform:scale(.4) translateY(180px) rotate(220deg)}
+  }
+
+  /* ========== 文字面板 ========== */
+  .panel{
+    position:fixed;right:32px;top:50%;transform:translateY(-50%);z-index:10;
+    width:min(38vw,420px);
+    background:rgba(15,15,20,.55);
+    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
+    border:1px solid rgba(255,255,255,.12);
+    border-radius:18px;padding:32px 30px;color:#fff;
+    box-shadow:0 30px 70px rgba(0,0,0,.45);
+    transition:opacity .8s ease, transform .8s ease;
+  }
+  .panel .step{
+    font-size:11.5px;letter-spacing:.4em;color:#c8a96a;margin-bottom:14px;
+  }
+  .panel h2{
+    font-size:clamp(22px,2.6vw,30px);font-weight:300;letter-spacing:.18em;
+    margin-bottom:18px;line-height:1.4;
+  }
+  .panel p{
+    font-size:14.5px;line-height:2;color:#e8e8ea;letter-spacing:.05em;
+  }
+  .panel .quote{
+    margin-top:18px;padding-top:16px;border-top:1px dashed rgba(255,255,255,.2);
+    font-size:13px;color:#ffd58a;letter-spacing:.05em;font-style:italic;line-height:1.9;
+  }
+  .panel.fade{opacity:0;transform:translateY(-50%) translateX(20px)}
+
+  @media (max-width:820px){
+    .panel{right:16px;left:16px;width:auto;top:auto;bottom:130px;transform:none;padding:22px 22px}
+    .panel.fade{transform:translateY(20px)}
+  }
+
+  /* ========== 底部进度 ========== */
+  .timeline{
+    position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:11;
+    display:flex;gap:10px;align-items:center;
+    background:rgba(15,15,20,.5);backdrop-filter:blur(10px);
+    padding:10px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.12);
+  }
+  .timeline button{
+    background:none;border:none;color:#fff;cursor:pointer;
+    width:30px;height:30px;border-radius:50%;
+    font-size:11px;letter-spacing:.05em;transition:.3s;
+    display:flex;align-items:center;justify-content:center;
+    border:1px solid rgba(255,255,255,.2);
+  }
+  .timeline button.active{background:#fff;color:#1b1b1f;border-color:#fff}
+  .timeline button:hover{border-color:#fff}
+  .timeline .play{
+    width:auto;padding:0 14px;height:30px;border-radius:999px;
+    font-size:11.5px;letter-spacing:.16em;margin-left:6px;
+  }
+  .timeline .div{width:1px;height:18px;background:rgba(255,255,255,.18)}
+
+  /* hint 提示 */
+  .hint{
+    position:fixed;left:50%;bottom:80px;transform:translateX(-50%);z-index:9;
+    color:rgba(255,255,255,.55);font-size:11.5px;letter-spacing:.3em;
+    pointer-events:none;animation:hintBlink 4s ease-in-out infinite;
+  }
+  @keyframes hintBlink{0%,100%{opacity:.4}50%{opacity:.85}}
+
+  /* 渐入文字（中央顿悟语 act6）*/
+  .center-fusion{
+    position:fixed;left:50%;top:42%;transform:translate(-50%,-50%);z-index:6;
+    text-align:center;pointer-events:none;
+    opacity:0;transition:opacity 1.5s ease;
+  }
+  body.act6 .center-fusion{opacity:1}
+  .center-fusion .eq{
+    font-size:clamp(28px,5vw,68px);font-weight:200;letter-spacing:.4em;color:#fff;
+    text-shadow:0 6px 40px rgba(0,0,0,.7);
+  }
+  .center-fusion .eq b{color:#ffd58a;font-weight:300}
+  .center-fusion .eq i{font-style:normal;display:inline-block;margin:0 .4em;color:#cfe6ff}
+
+  /* ========== HTML 标注层（替代 SVG 文字，避免 viewBox 拉伸变形）========== */
+  .act-labels{position:absolute;inset:0;z-index:5;pointer-events:none}
+  .al{
+    position:absolute;transform:translate(-50%,-50%);white-space:nowrap;
+    font-family:"PingFang SC","Hiragino Sans GB",serif;
+    font-size:clamp(13px,1.6vw,17px);letter-spacing:.22em;
+    color:#fff;paint-order:stroke;
+    -webkit-text-stroke:0.5px rgba(0,0,0,.35);
+    text-shadow:0 0 8px rgba(0,0,0,.7),0 2px 12px rgba(0,0,0,.5);
+    opacity:0;transition:opacity 1.4s ease;
+  }
+  .al.t-sky{color:#cfe6ff}
+  .al.t-gold{color:#ffd58a}
+  .al.t-rose{color:#ffb1c8}
+  .al.t-sm{font-size:clamp(10px,1.2vw,13px);letter-spacing:.18em;opacity:.88}
+  .al.t-lg{font-size:clamp(20px,3.2vw,36px);font-weight:200;letter-spacing:.4em}
+
+  body.act2 .act-labels .l2{opacity:1}
+  body.act3 .act-labels .l3{opacity:1}
+  body.act4 .act-labels .l4{opacity:1}
+  body.act5 .act-labels .l5{opacity:1}
+  body.act6 .act-labels .l6{opacity:1}
+
+  @media (max-width:640px){
+    .al{font-size:clamp(11px,3.2vw,15px);letter-spacing:.16em}
+    .al.t-sm{font-size:clamp(9px,2.6vw,12px)}
+    .al.t-lg{font-size:clamp(16px,5vw,28px)}
+  }
+</style>
+</head>
+<body class="act1">
+  <a class="back" href="./index.html">← 返回</a>
+  <div class="tag">01 / 06 · 解 构 剧 场</div>
+
+  <div class="stage">
+    <div class="bg"></div>
+
+    <!-- ============== SVG 标注层 ============== -->
+    <svg class="annot" viewBox="0 0 100 100" preserveAspectRatio="none">
+      <!-- 注：viewBox 是 100×100 的归一化坐标，便于按百分比放置标注 -->
+
+      <!-- 幕 2：整体俯瞰，三个圈分别圈住天/楼/花 -->
+      <g class="layer l-overview" data-ring>
+        <circle class="ring sky" cx="50" cy="20" r="10" pathLength="100" />
+        <line class="lead sky" x1="50" y1="10" x2="50" y2="4"/>
+        <circle class="ring gold" cx="50" cy="50" r="14" pathLength="100"/>
+        <line class="lead gold" x1="64" y1="50" x2="78" y2="50"/>
+        <circle class="ring rose" cx="42" cy="82" r="12" pathLength="100"/>
+        <line class="lead rose" x1="42" y1="94" x2="42" y2="98"/>
+      </g>
+
+      <!-- 幕 3：花的生灭——四相 -->
+      <g class="layer l-flower" data-ring>
+        <g transform="translate(50,55)">
+          <circle r="22" fill="none" stroke="rgba(255,177,200,.6)" stroke-width=".4" stroke-dasharray="2 2"/>
+          <path d="M 0,-22 A 22,22 0 1,1 -0.1,-22" fill="none" stroke="#ffb1c8" stroke-width=".4" marker-end="url(#arrowR)"/>
+        </g>
+      </g>
+
+      <!-- 幕 4：高楼的因缘 -->
+      <g class="layer l-city" data-ring>
+        <circle class="ring gold" cx="48" cy="42" r="6"/>
+        <line class="lead gold" x1="22" y1="22" x2="44" y2="40"/>
+        <line class="lead gold" x1="78" y1="22" x2="52" y2="40"/>
+        <line class="lead gold" x1="17" y1="55" x2="42" y2="44"/>
+        <line class="lead gold" x1="83" y1="55" x2="54" y2="44"/>
+        <line class="lead gold" x1="24" y1="83" x2="46" y2="46"/>
+        <line class="lead gold" x1="76" y1="83" x2="50" y2="46"/>
+      </g>
+
+      <!-- 幕 5：天的空性 -->
+      <g class="layer l-sky">
+        <g transform="translate(50,50)">
+          <circle r="30" fill="none" stroke="rgba(207,230,255,.5)" stroke-width=".3"/>
+          <circle r="22" fill="none" stroke="rgba(207,230,255,.7)" stroke-width=".3"/>
+          <circle r="14" fill="none" stroke="rgba(207,230,255,.9)" stroke-width=".4"/>
+          <circle r="6"  fill="rgba(207,230,255,.4)" stroke="#cfe6ff" stroke-width=".4"/>
+        </g>
+      </g>
+
+      <!-- 幕 6：叠加——三色光环同时显现 -->
+      <g class="layer l-fusion">
+        <circle class="ring sky"  cx="50" cy="20" r="10"/>
+        <circle class="ring gold" cx="50" cy="50" r="14"/>
+        <circle class="ring rose" cx="42" cy="82" r="12"/>
+      </g>
+
+      <defs>
+        <marker id="arrowR" viewBox="0 0 10 10" refX="5" refY="5" markerWidth="4" markerHeight="4" orient="auto-start-reverse">
+          <path d="M 0 0 L 10 5 L 0 10 z" fill="#ffb1c8"/>
+        </marker>
+      </defs>
+    </svg>
+
+    <!-- HTML 标注层（用百分比定位，px 字体，不再受 SVG viewBox 拉伸）-->
+    <div class="act-labels">
+      <!-- 幕 2：三元素标注 -->
+      <span class="al l2 t-sky" style="left:50%;top:3.5%">天 · 如如不动</span>
+      <span class="al l2 t-gold" style="left:79%;top:51%">城 · 因缘成住</span>
+      <span class="al l2 t-rose" style="left:42%;top:98.5%">花 · 刹那生灭</span>
+      <!-- 幕 3：四相 -->
+      <span class="al l3 t-rose" style="left:50%;top:30%">生</span>
+      <span class="al l3 t-rose" style="left:75%;top:55%">住</span>
+      <span class="al l3 t-rose" style="left:50%;top:85%">异</span>
+      <span class="al l3 t-rose" style="left:25%;top:55%">灭</span>
+      <span class="al l3 t-rose t-sm" style="left:50%;top:92%">一朵花的一生 · 不抗拒生，也不抗拒灭</span>
+      <!-- 幕 4：因缘 -->
+      <span class="al l4 t-gold" style="left:20%;top:20%">钢</span>
+      <span class="al l4 t-gold" style="left:80%;top:20%">玻</span>
+      <span class="al l4 t-gold" style="left:14%;top:55%">人</span>
+      <span class="al l4 t-gold" style="left:86%;top:55%">地</span>
+      <span class="al l4 t-gold" style="left:22%;top:85%">光</span>
+      <span class="al l4 t-gold" style="left:78%;top:85%">风</span>
+      <span class="al l4 t-gold t-sm" style="left:50%;top:96%">高楼非自有 — 钢玻人地光风，因缘聚合而显</span>
+      <!-- 幕 5：不动 -->
+      <span class="al l5 t-sky t-sm" style="left:50%;top:50%">不动</span>
+      <span class="al l5 t-sky" style="left:50%;top:92%">无论花落楼塌，天不曾动</span>
+      <!-- 幕 6：一体 -->
+      <span class="al l6" style="left:78%;top:50%">三 者 一 体</span>
+    </div>
+
+    <!-- 幕 3 上的"生灭花"动画元素 -->
+    <div class="flower-cycle"><div class="petal-life"></div></div>
+
+    <!-- 幕 6 中央叠加大字 -->
+    <div class="center-fusion">
+      <div class="eq"><b>世&nbsp;间</b><i>＝</i><span style="color:#cfe6ff">涅&nbsp;槃</span></div>
+    </div>
+
+    <div class="vignette"></div>
+  </div>
+
+  <!-- ============== 文字面板 ============== -->
+  <div class="panel" id="panel">
+    <div class="step" id="step">幕 1 / 6 · 看 见</div>
+    <h2 id="title">这就是你眼前的世界</h2>
+    <p id="body">高楼是繁华，繁花是生灭，天空是空。你以为要逃离的「世间」，就在此刻你睁眼看见的这座城里。</p>
+    <div class="quote" id="quote">先看，不评。一切的解构，从「如其所是」开始。</div>
+  </div>
+
+  <!-- ============== 底部时间线 ============== -->
+  <div class="timeline" id="tl">
+    <button class="active" data-act="1" title="看见整体">1</button>
+    <button data-act="2" title="标记三元素">2</button>
+    <button data-act="3" title="花的生灭">3</button>
+    <button data-act="4" title="楼的因缘">4</button>
+    <button data-act="5" title="天的不动">5</button>
+    <button data-act="6" title="叠加 · 涅槃即世间">6</button>
+    <span class="div"></span>
+    <button class="play" id="autoBtn">❚❚&nbsp;暂停</button>
+  </div>
+
+  <div class="hint" id="hint">滑 动 / 点 击 数 字 跳 转 任 一 幕</div>
+
+<script>
+  // ============== 6 幕剧本 ==============
+  const acts = [
+    {
+      step:'幕 1 / 6 · 看&nbsp;见',
+      title:'这就是你眼前的世界',
+      body:'高楼是繁华，繁花是生灭，天空是空旷。<br/>你以为要逃离的「世间」，就在此刻你睁眼看见的这座城里。',
+      quote:'先看，不评。一切的解构，从「如其所是」开始。'
+    },
+    {
+      step:'幕 2 / 6 · 解&nbsp;构',
+      title:'把这张图拆成三个意象',
+      body:'同一张图里，藏着三种生命节奏——<br/>天的<b style="color:#cfe6ff">如如不动</b>、城的<b style="color:#ffd58a">因缘聚合</b>、花的<b style="color:#ffb1c8">刹那生灭</b>。',
+      quote:'三者并立、互不相扰，却又共同构成你看到的此刻。'
+    },
+    {
+      step:'幕 3 / 6 · 花&nbsp;·&nbsp;生&nbsp;灭',
+      title:'三角梅的一生：生 · 住 · 异 · 灭',
+      body:'一朵花从绽放到凋落，不过几日。它没有抗拒生，也没有抗拒灭。<br/>苦不在「灭」本身，苦在我们想抓住「住」。',
+      quote:'若深观花的无常，便不再向无常索要永恒。'
+    },
+    {
+      step:'幕 4 / 6 · 城&nbsp;·&nbsp;因&nbsp;缘',
+      title:'高楼并非自己竖起来的',
+      body:'钢、玻、人、地、光、风——任何一缘缺席，这座楼便不在。<br/>它看起来坚固独立，本质却是因缘的临时聚合。',
+      quote:'看似最坚固的，也是最赤裸的「无自性」。'
+    },
+    {
+      step:'幕 5 / 6 · 天&nbsp;·&nbsp;不&nbsp;动',
+      title:'天空从未参与生灭',
+      body:'花开花落、楼起楼塌，天空不曾增减。<br/>它不抗拒任何现象，却容许一切现象。这就是<b style="color:#cfe6ff">心的本来面目</b>。',
+      quote:'修行不是抓住天空，而是发现你本来就是天空。'
+    },
+    {
+      step:'幕 6 / 6 · 叠&nbsp;加',
+      title:'世间 = 涅槃',
+      body:'当你不再要花永驻、不再要楼不倒、也不再向天索取——<br/>花、楼、天合在一起，正是「涅槃在当下」的全部内容。',
+      quote:'《中论》：「涅槃与世间，无有少分别。」'
+    }
+  ];
+
+  const $ = id=>document.getElementById(id);
+  const panel = $('panel'),
+        step  = $('step'),
+        title = $('title'),
+        bodyT = $('body'),
+        quote = $('quote'),
+        tl    = $('tl');
+  let cur = 0, auto = true, timer = null;
+
+  function go(i){
+    cur = ((i % acts.length) + acts.length) % acts.length;
+    document.body.className = 'act' + (cur+1);
+    Array.from(tl.querySelectorAll('button[data-act]'))
+      .forEach(b=>b.classList.toggle('active', +b.dataset.act === cur+1));
+
+    panel.classList.add('fade');
+    setTimeout(()=>{
+      const a = acts[cur];
+      step.innerHTML  = a.step;
+      title.innerHTML = a.title;
+      bodyT.innerHTML = a.body;
+      quote.innerHTML = a.quote;
+      panel.classList.remove('fade');
+    }, 400);
+  }
+
+  // 点击切换
+  tl.addEventListener('click', e=>{
+    const b = e.target.closest('button[data-act]'); if(!b) return;
+    pauseAuto();
+    go(+b.dataset.act - 1);
+  });
+
+  // 自动播放
+  function startAuto(){
+    if(timer) clearInterval(timer);
+    timer = setInterval(()=>{ if(auto) go(cur+1); }, 8000);
+  }
+  function pauseAuto(){
+    auto = false;
+    $('autoBtn').innerHTML = '▶&nbsp;播放';
+    clearInterval(timer);
+  }
+  function resumeAuto(){
+    auto = true;
+    $('autoBtn').innerHTML = '❚❚&nbsp;暂停';
+    startAuto();
+  }
+  $('autoBtn').onclick = ()=> auto ? pauseAuto() : resumeAuto();
+
+  // 键盘左右
+  document.addEventListener('keydown', e=>{
+    if(e.key==='ArrowRight'){ pauseAuto(); go(cur+1); }
+    if(e.key==='ArrowLeft' ){ pauseAuto(); go(cur-1); }
+    if(e.key===' '){ e.preventDefault(); auto?pauseAuto():resumeAuto(); }
+  });
+
+  // 触屏滑动
+  let sx=0;
+  addEventListener('touchstart', e=>{ sx = e.touches[0].clientX; }, {passive:true});
+  addEventListener('touchend', e=>{
+    const dx = e.changedTouches[0].clientX - sx;
+    if(Math.abs(dx)>40){ pauseAuto(); go(cur + (dx<0?1:-1)); }
+  });
+
+  // 初始化
+  go(0);
+  startAuto();
+
+  // —— iOS Safari 100vh 修正 ——
+  function setVh(){
+    document.documentElement.style.setProperty('--vh', (window.innerHeight*0.01)+'px');
+  }
+  setVh();
+  addEventListener('resize', setVh);
+  addEventListener('orientationchange', setVh);
+</script>
+</body>
+</html>

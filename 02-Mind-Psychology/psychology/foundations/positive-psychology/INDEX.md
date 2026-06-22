@@ -1,7 +1,6 @@
 ---
-
 title: "positive-psychology | Index"
-description: "positive-psychology | Index的详细解析与实践指南"
+description: "positive-psychology | Index —— 心理学基础 · 积极心理学 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > 积极心理学"
 tags: ["心理学", "心理学基础", "积极心理学", "act"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是positive-psychology | Index"
   - "positive-psychology | Index的核心概念"
   - "positive-psychology | Index的方法与实践"
-trigger_keywords: ["Index", "act", "心理学", "心理学基础", "积极心理学"]
+trigger_keywords: ["心理学", "心理学基础", "积极心理学"]
 cross_refs: []
-
 ---
 # positive-psychology | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽与科技·数字化 (Yoga & Technology · Digital)"
-description: "瑜伽与科技·数字化 (Yoga & Technology · Digital)的详细解析与实践指南"
+description: "瑜伽与科技·数字化 (Yoga & Technology · Digital) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["decision-making", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽与科技·数字化"
   - "瑜伽与科技·数字化的核心概念"
   - "瑜伽与科技·数字化的方法与实践"
-trigger_keywords: ["瑜伽与科技", "数字化", "act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["瑜伽与科技", "数字化"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/meditation/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/Meditation_Technology_Overview.md"
+    relation: "ai/vr/app"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Digital_AI.md"
+    relation: "ai/vr/app"
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/INDEX.md"
+    relation: "technology/ai/vr"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：能量瑜伽.md"
+    relation: "瑜伽/体式/冥想"
 ---
 # 瑜伽与科技·数字化 (Yoga & Technology · Digital)
 

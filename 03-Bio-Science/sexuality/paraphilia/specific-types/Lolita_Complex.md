@@ -1,7 +1,6 @@
 ---
-
 title: "Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)"
-description: "Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)的详细解析与实践指南"
+description: "Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Lolita Complex & Age-Related Attraction"
   - "Lolita Complex & Age-Related Attraction的核心概念"
   - "Lolita Complex & Age-Related Attraction的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["Lolita", "Complex", "Age-Related", "Attraction", "恋萝莉情结与年龄相关性吸引"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzogchen/Dzogchen_Great_Perfection.md"
-    relation: "anxiety/attachment/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "anxiety/attachment/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
-    relation: "anxiety/attachment/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/education/INDEX.md"
+    relation: "attraction/education/assessment"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/education/Education_Attraction_Clinical_Assessment.md"
+    relation: "attraction/education/assessment"
 ---
 # Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)
 

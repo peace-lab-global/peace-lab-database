@@ -1,7 +1,6 @@
 ---
-
 title: "肠道微生物与心理健康 | Gut Microbiome & Mental Health"
-description: "肠道微生物与心理健康 | Gut Microbiome & Mental Health的详细解析与实践指南"
+description: "肠道微生物与心理健康 | Gut Microbiome & Mental Health —— 生物学 · 肠道微生物 专题"
 category: "生命科学与生物医学 > 生物学 > 肠道微生物"
 tags: ["brain", "cardiovascular"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "肠道微生物与心理健康 | Gut Microbiome & Mental Health的核心概念"
   - "肠道微生物与心理健康 | Gut Microbiome & Mental Health的方法与实践"
   - "肠道微生物与心理健康 | Gut Microbiome & Mental Health的自助方法"
-trigger_keywords: ["肠道微生物与心理健康", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["肠道微生物与心理健康", "Gut", "Microbiome", "Mental", "Health"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
+    relation: "营养/微生物组/迷走神经"
 ---
 # 肠道微生物与心理健康 | Gut Microbiome & Mental Health
 

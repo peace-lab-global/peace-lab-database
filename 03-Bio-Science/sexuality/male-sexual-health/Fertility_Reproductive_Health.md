@@ -1,7 +1,6 @@
 ---
-
 title: "Fertility and Reproductive Health (生育与生殖健康)"
-description: "Fertility and Reproductive Health (生育与生殖健康)的详细解析与实践指南"
+description: "Fertility and Reproductive Health (生育与生殖健康) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["exercise", "inflammation", "nutrition", "sexuality", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Fertility and Reproductive Health"
   - "Fertility and Reproductive Health的核心概念"
   - "Fertility and Reproductive Health的方法与实践"
-trigger_keywords: ["assessment", "clinical", "communication", "exercise"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "communication/exercise/immune"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "exercise/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "exercise/immune/nutrition"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/11-Recovery-and-Relapse-Prevention.md"
-    relation: "exercise/immune/nutrition"
-
+trigger_keywords: ["exercise", "Fertility", "and", "Reproductive", "Health"]
+cross_refs: []
 ---
 # Fertility and Reproductive Health (生育与生殖健康)
 

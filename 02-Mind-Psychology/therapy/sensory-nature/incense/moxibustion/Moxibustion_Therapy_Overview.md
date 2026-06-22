@@ -1,7 +1,6 @@
 ---
-
 title: "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον"
-description: "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον的详细解析与实践指南"
+description: "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον —— Incense · Moxibustion 专题"
 category: "心智与心理学 > 疗法 > Incense > Moxibustion"
 tags: ["brain", "gut"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον的核心概念"
   - "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον的方法与实践"
   - "艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον的循证证据"
-trigger_keywords: ["艾灸疗法概览", "aging", "assessment", "brain", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
-    relation: "aging/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/neuroscience"
-
+trigger_keywords: ["艾灸疗法概览", "Moxibustion", "Therapy", "Overview", "Επισκόπηση"]
+cross_refs: []
 ---
 # 艾灸疗法概览 | Moxibustion Therapy Overview | Επισκόπηση Θεραπείας Μοξιμπούστιον
 

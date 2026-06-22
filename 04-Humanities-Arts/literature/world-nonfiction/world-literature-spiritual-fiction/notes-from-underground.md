@@ -1,7 +1,6 @@
 ---
-
 title: "《地下室手记》Notes from Underground"
-description: "《地下室手记》Notes from Underground的详细解析与实践指南"
+description: "《地下室手记》Notes from Underground —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《地下室手记》Notes from Underground"
   - "《地下室手记》Notes from Underground的核心概念"
   - "《地下室手记》Notes from Underground的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Sociology.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "aging/anxiety/art_therapy"
-
+trigger_keywords: ["《地下室手记》Notes", "from", "Underground"]
+cross_refs: []
 ---
 # 《地下室手记》Notes from Underground
 

@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑状态综合评估 | Anxiety Assessment Skill"
-description: "焦虑状态综合评估 | Anxiety Assessment Skill的详细解析与实践指南"
+description: "焦虑状态综合评估 | Anxiety Assessment Skill —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "焦虑状态综合评估 | Anxiety Assessment Skill的核心概念"
   - "焦虑状态综合评估 | Anxiety Assessment Skill的方法与实践"
   - "焦虑状态综合评估 | Anxiety Assessment Skill的自助方法"
-trigger_keywords: ["焦虑状态综合评估", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["焦虑状态综合评估", "Anxiety", "Assessment", "Skill"]
+cross_refs: []
 ---
 # 焦虑状态综合评估 | Anxiety Assessment Skill
 

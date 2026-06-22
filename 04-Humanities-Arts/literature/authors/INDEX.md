@@ -1,7 +1,6 @@
 ---
-
 title: "World Authors | 世界文学作家"
-description: "World Authors | 世界文学作家的详细解析与实践指南"
+description: "World Authors | 世界文学作家 —— 文学 · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Authors"
 tags: ["literature", "loneliness", "renaissance"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是World Authors | 世界文学作家"
   - "World Authors | 世界文学作家的核心概念"
   - "World Authors | 世界文学作家的方法与实践"
-trigger_keywords: ["世界文学作家", "literature", "loneliness", "文学"]
-cross_refs: []
-
+trigger_keywords: ["世界文学作家", "loneliness", "文学"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md"
+    relation: "renaissance/contents"
 ---
 # World Authors | 世界文学作家
 

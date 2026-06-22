@@ -1,7 +1,6 @@
 ---
-
 title: "《结》Knots"
-description: "《结》Knots的详细解析与实践指南"
+description: "《结》Knots —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["dzogchen", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《结》Knots"
   - "《结》Knots的核心概念"
   - "《结》Knots的方法与实践"
-trigger_keywords: ["《结》Knots", "buddhism", "dzogchen", "meditation", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["《结》Knots", "dzogchen", "meditation"]
+cross_refs: []
 ---
 # 《结》Knots
 

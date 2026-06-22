@@ -1,7 +1,6 @@
 ---
-
 title: "禅宗修行法门"
-description: "禅宗修行法门的详细解析与实践指南"
+description: "禅宗修行法门 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["phobia", "sleep", "zen", "buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是禅宗修行法门"
   - "禅宗修行法门的核心概念"
   - "禅宗修行法门的方法与实践"
-trigger_keywords: ["禅宗修行法门", "body", "breathwork", "phobia", "sexuality"]
+trigger_keywords: ["禅宗修行法门", "phobia"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Advanced_Techniques.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/Zazen_Koan_Collection.md"
+    relation: "话头/坐禅/禅宗"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/zazen/INDEX.md"
+    relation: "话头/坐禅/禅宗"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/korean-seon/Korean_Seon_Practical.md"
+    relation: "话头/坐禅/默照"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-book-of-equanimity.md"
+    relation: "默照/禅宗/呼吸"
 ---
 # 禅宗修行法门
 

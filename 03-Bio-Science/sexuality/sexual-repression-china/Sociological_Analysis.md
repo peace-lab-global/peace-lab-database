@@ -1,7 +1,6 @@
 ---
-
 title: "性压抑的社会学分析 (Sociological Analysis of Sexual Repression)"
-description: "性压抑的社会学分析 (Sociological Analysis of Sexual Repression)的详细解析与实践指南"
+description: "性压抑的社会学分析 (Sociological Analysis of Sexual Repression) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性压抑的社会学分析"
   - "性压抑的社会学分析的核心概念"
   - "性压抑的社会学分析的方法与实践"
-trigger_keywords: ["性压抑的社会学分析", "act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["性压抑的社会学分析", "Sociological", "Analysis", "of", "Sexual"]
+cross_refs: []
 ---
 # 性压抑的社会学分析 (Sociological Analysis of Sexual Repression)
 

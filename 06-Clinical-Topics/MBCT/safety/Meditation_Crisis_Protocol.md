@@ -1,7 +1,6 @@
 ---
-
 title: "冥想危机干预方案 | Meditation Crisis Intervention Protocol"
-description: "冥想危机干预方案 | Meditation Crisis Intervention Protocol的详细解析与实践指南"
+description: "冥想危机干预方案 | Meditation Crisis Intervention Protocol —— 冥想 · Safety 专题"
 category: "心智与心理学 > 冥想 > Safety"
 tags: ["anxiety", "mindfulness", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想危机干预方案 | Meditation Crisis Intervention Protocol"
   - "冥想危机干预方案 | Meditation Crisis Intervention Protocol的核心概念"
   - "冥想危机干预方案 | Meditation Crisis Intervention Protocol的方法与实践"
-trigger_keywords: ["冥想危机干预方案", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["冥想危机干预方案", "Meditation", "Crisis", "Intervention", "Protocol"]
+cross_refs: []
 ---
 # 冥想危机干预方案 | Meditation Crisis Intervention Protocol
 

@@ -1,7 +1,6 @@
 ---
-
 title: "越南儒学经典 · 佛法视角三方书评"
-description: "越南儒学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "越南儒学经典 · 佛法视角三方书评 —— Vietnam · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Vietnam > Confucianism"
 tags: ["buddhism", "mindfulness", "philosophy", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是越南儒学经典 · 佛法视角三方书评"
   - "越南儒学经典 · 佛法视角三方书评的核心概念"
   - "越南儒学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["越南儒学经典", "佛法视角三方书评", "behavioral", "breathwork", "buddhism", "developmental"]
+trigger_keywords: ["越南儒学经典", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "buddhism/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Dogen.md"
-    relation: "buddhism/communication/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/peace-is-every-step.md"
+    relation: "佛教/engaged/thich"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
+    relation: "佛教/thich/hanh"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/heart-of-buddhas-teaching.md"
+    relation: "佛教/thich/hanh"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/true-love.md"
+    relation: "佛教/thich/hanh"
 ---
 # 越南儒学经典 · 佛法视角三方书评
 

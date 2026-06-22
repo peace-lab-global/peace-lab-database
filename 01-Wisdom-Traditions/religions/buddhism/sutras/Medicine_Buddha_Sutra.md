@@ -1,7 +1,6 @@
 ---
-
 title: "药师琉璃光如来本愿功德经"
-description: "药师琉璃光如来本愿功德经的详细解析与实践指南"
+description: "药师琉璃光如来本愿功德经 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是药师琉璃光如来本愿功德经"
   - "药师琉璃光如来本愿功德经的核心概念"
   - "药师琉璃光如来本愿功德经的方法与实践"
-trigger_keywords: ["buddhism", "sexuality", "佛教", "宗教与灵性"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/22-Research-Critical-Review.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Habit_Formation_Guide.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "buddhism/nutrition/sexuality"
-  - path: "02-Mind-Psychology/relationships/social-context/cultural-perspective/Cross_Cultural_Analysis.md"
-    relation: "buddhism/nutrition/sexuality"
-
+trigger_keywords: ["佛教", "宗教与灵性"]
+cross_refs: []
 ---
 # 药师琉璃光如来本愿功德经
 

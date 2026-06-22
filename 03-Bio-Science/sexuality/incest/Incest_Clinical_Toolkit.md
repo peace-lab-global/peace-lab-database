@@ -1,7 +1,6 @@
 ---
-
 title: "乱伦临床工具箱 (Incest Clinical Toolkit)"
-description: "乱伦临床工具箱 (Incest Clinical Toolkit)的详细解析与实践指南"
+description: "乱伦临床工具箱 (Incest Clinical Toolkit) —— 性学 · Incest 专题"
 category: "生命科学与生物医学 > 性学 > Incest"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是乱伦临床工具箱"
   - "乱伦临床工具箱的核心概念"
   - "乱伦临床工具箱的方法与实践"
-trigger_keywords: ["乱伦临床工具箱", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["乱伦临床工具箱", "Incest", "Clinical", "Toolkit"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Clinical_Interventions.md"
+    relation: "创伤/危机干预/安全计划"
+  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Clinical_Management.md"
+    relation: "创伤/危机干预"
+  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
+    relation: "创伤/危机干预/人际关系"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Marriage_Repair.md"
+    relation: "创伤/tf-cbt/认知行为"
 ---
 # 乱伦临床工具箱 (Incest Clinical Toolkit)
 

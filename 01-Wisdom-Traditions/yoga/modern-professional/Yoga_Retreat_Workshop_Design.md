@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽静修与工作坊设计 (Yoga Retreat & Workshop Design)"
-description: "瑜伽静修与工作坊设计 (Yoga Retreat & Workshop Design)的详细解析与实践指南"
+description: "瑜伽静修与工作坊设计 (Yoga Retreat & Workshop Design) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cinema", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽静修与工作坊设计"
   - "瑜伽静修与工作坊设计的核心概念"
   - "瑜伽静修与工作坊设计的方法与实践"
-trigger_keywords: ["瑜伽静修与工作坊设计", "anxiety", "behavioral", "body", "breathwork"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Safety_Screening.md"
-    relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "anxiety/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/foundations/tools/Meditation_Safety_Screening.md"
-    relation: "anxiety/communication/meditation"
-
+trigger_keywords: ["瑜伽静修与工作坊设计", "Yoga", "Retreat", "Workshop", "Design"]
+cross_refs: []
 ---
 # 瑜伽静修与工作坊设计 (Yoga Retreat & Workshop Design)
 

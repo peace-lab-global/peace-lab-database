@@ -1,7 +1,6 @@
 ---
-
 title: "Yuja Wang (王羽佳) - 当代钢琴界的璀璨明星"
-description: "Yuja Wang (王羽佳) - 当代钢琴界的璀璨明星的详细解析与实践指南"
+description: "Yuja Wang (王羽佳) - 当代钢琴界的璀璨明星 —— Musician · Pianists 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Musician > Pianists"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Yuja Wang  - 当代钢琴界的璀璨明星"
   - "Yuja Wang  - 当代钢琴界的璀璨明星的核心概念"
   - "Yuja Wang  - 当代钢琴界的璀璨明星的方法与实践"
-trigger_keywords: ["act", "art", "body", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Yuja", "Wang", "王羽佳", "当代钢琴界的璀璨明星"]
+cross_refs: []
 ---
 # Yuja Wang (王羽佳) - 当代钢琴界的璀璨明星
 

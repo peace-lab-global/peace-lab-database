@@ -1,7 +1,6 @@
 ---
-
 title: "社会经济学 | Social Economics"
-description: "社会经济学 | Social Economics的详细解析与实践指南"
+description: "社会经济学 | Social Economics —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "intervention", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是社会经济学 | Social Economics"
   - "社会经济学 | Social Economics的核心概念"
   - "社会经济学 | Social Economics的方法与实践"
-trigger_keywords: ["社会经济学", "act", "assessment", "behavioral", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "communication/exercise/productivity"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "communication/exercise/productivity"
-
+trigger_keywords: ["社会经济学", "Social", "Economics"]
+cross_refs: []
 ---
 # 社会经济学 | Social Economics
 

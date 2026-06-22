@@ -1,6 +1,6 @@
 ---
 title: "herbal-tea | Index"
-description: "herbal-tea | Index的详细解析与实践指南"
+description: "herbal-tea | Index —— Tea · Herbal Tea 专题"
 category: "生命科学与生物医学 > 营养学 > Tea > Herbal Tea"
 tags: ["营养学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是herbal-tea | Index"
   - "herbal-tea | Index的核心概念"
   - "herbal-tea | Index的方法与实践"
-trigger_keywords: ["herbal-tea", "Index", "营养学"]
+trigger_keywords: ["herbal-tea", "营养学"]
 cross_refs: []
 ---
 # herbal-tea | Index

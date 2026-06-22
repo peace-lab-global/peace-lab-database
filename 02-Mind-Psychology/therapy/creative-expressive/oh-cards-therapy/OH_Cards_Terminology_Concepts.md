@@ -1,7 +1,6 @@
 ---
-
 title: "OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)"
-description: "OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)的详细解析与实践指南"
+description: "OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System) —— 疗法 · Oh Cards Therapy 专题"
 category: "心智与心理学 > 疗法 > Oh Cards Therapy"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "OH卡疗法核心术语与概念体系的核心概念"
   - "OH卡疗法核心术语与概念体系的方法与实践"
   - "OH卡疗法核心术语与概念体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["OH卡疗法核心术语与概念体系", "OH", "Cards", "Therapy", "Core"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Terminology_Theory.md"
+    relation: "fundamental/definitions/terminology"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
+    relation: "oh/cards/表达性艺术"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Case_Studies.md"
+    relation: "oh/cards/therapy"
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Toolkit.md"
+    relation: "oh/cards/表达性艺术"
 ---
 # OH卡疗法核心术语与概念体系 (OH Cards Therapy Core Terminology & Conceptual System)
 

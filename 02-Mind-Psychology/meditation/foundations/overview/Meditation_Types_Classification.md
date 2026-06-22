@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Types & Classification (冥想类型与流派分类)"
-description: "Meditation Types & Classification (冥想类型与流派分类)的详细解析与实践指南"
+description: "Meditation Types & Classification (冥想类型与流派分类) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "attachment", "brain", "mbsr", "adhd", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Meditation Types & Classification"
   - "Meditation Types & Classification的核心概念"
   - "Meditation Types & Classification的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
+trigger_keywords: ["Meditation", "Types", "Classification", "冥想类型与流派分类"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
+    relation: "dhi/冥想/meditation"
 ---
 # Meditation Types & Classification (冥想类型与流派分类)
 

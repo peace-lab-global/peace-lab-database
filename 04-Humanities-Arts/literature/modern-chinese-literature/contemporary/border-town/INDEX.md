@@ -1,7 +1,6 @@
 ---
-
 title: "Border Town | 边城"
-description: "Border Town | 边城的详细解析与实践指南"
+description: "Border Town | 边城 —— Contemporary · Border Town 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Border Town"
 tags: ["cinema", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Border Town | 边城"
   - "Border Town | 边城的核心概念"
   - "Border Town | 边城的方法与实践"
-trigger_keywords: ["边城", "cinema", "literature", "philosophy", "sexuality"]
+trigger_keywords: ["边城", "cinema"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
+    relation: "border/town"
 ---
 # Border Town | 边城
 

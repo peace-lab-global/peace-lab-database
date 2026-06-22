@@ -1,7 +1,6 @@
 ---
-
 title: "政策法规与治理机制分析 (Policy Analysis and Governance Mechanisms)"
-description: "政策法规与治理机制分析 (Policy Analysis and Governance Mechanisms)的详细解析与实践指南"
+description: "政策法规与治理机制分析 (Policy Analysis and Governance Mechanisms) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["leadership", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是政策法规与治理机制分析"
   - "政策法规与治理机制分析的核心概念"
   - "政策法规与治理机制分析的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
-    relation: "anxiety/attachment/personality"
-
+trigger_keywords: ["政策法规与治理机制分析", "Policy", "Analysis", "and", "Governance"]
+cross_refs: []
 ---
 # 政策法规与治理机制分析 (Policy Analysis and Governance Mechanisms)
 

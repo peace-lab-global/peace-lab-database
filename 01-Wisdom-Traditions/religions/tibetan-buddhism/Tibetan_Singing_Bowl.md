@@ -1,7 +1,6 @@
 ---
-
 title: "西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)"
-description: "西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)的详细解析与实践指南"
+description: "西藏颂钵疗愈 (Tibetan Singing Bowl Therapy) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是西藏颂钵疗愈"
   - "西藏颂钵疗愈的核心概念"
   - "西藏颂钵疗愈的方法与实践"
-trigger_keywords: ["西藏颂钵疗愈", "act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["西藏颂钵疗愈", "Tibetan", "Singing", "Bowl", "Therapy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md"
+    relation: "bowl/singing/sound"
 ---
 # 西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)
 

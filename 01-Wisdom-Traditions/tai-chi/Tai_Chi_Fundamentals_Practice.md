@@ -1,7 +1,6 @@
 ---
-
 title: "太极拳基本功法 | Tai Chi Fundamentals & Practice"
-description: "太极拳基本功法 | Tai Chi Fundamentals & Practice的详细解析与实践指南"
+description: "太极拳基本功法 | Tai Chi Fundamentals & Practice —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["pain", "tai-chi"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是太极拳基本功法 | Tai Chi Fundamentals & Practice"
   - "太极拳基本功法 | Tai Chi Fundamentals & Practice的核心概念"
   - "太极拳基本功法 | Tai Chi Fundamentals & Practice的方法与实践"
-trigger_keywords: ["太极拳基本功法", "act", "body", "breathwork", "exercise"]
+trigger_keywords: ["太极拳基本功法", "exercise"]
 cross_refs:
-  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
-    relation: "daoism/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "daoism/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "daoism/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "exercise/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "exercise/neuroscience/pain"
-
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md"
+    relation: "太极/呼吸/呼吸法"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极拳基本功法 | Tai Chi Fundamentals & Practice
 

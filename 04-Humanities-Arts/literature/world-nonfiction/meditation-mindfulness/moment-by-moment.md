@@ -1,7 +1,6 @@
 ---
-
 title: "《时时刻刻》Moment by Moment"
-description: "《时时刻刻》Moment by Moment的详细解析与实践指南"
+description: "《时时刻刻》Moment by Moment —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness", "vipassana", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《时时刻刻》Moment by Moment"
   - "《时时刻刻》Moment by Moment的核心概念"
   - "《时时刻刻》Moment by Moment的方法与实践"
-trigger_keywords: ["breathwork", "exercise", "meditation", "mindfulness"]
+trigger_keywords: ["exercise", "meditation", "mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/exercise/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Sharon_Salzberg.md"
+    relation: "salzberg/sharon/内观"
 ---
 # 《时时刻刻》Moment by Moment
 

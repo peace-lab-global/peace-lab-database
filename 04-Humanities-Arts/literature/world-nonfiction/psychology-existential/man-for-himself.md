@@ -1,7 +1,6 @@
 ---
-
 title: "《为自己的人》书评"
-description: "《为自己的人》书评的详细解析与实践指南"
+description: "《为自己的人》书评 —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["freud", "literature", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《为自己的人》书评"
   - "《为自己的人》书评的核心概念"
   - "《为自己的人》书评的方法与实践"
-trigger_keywords: ["《为自己的人》书评", "anxiety", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-
+trigger_keywords: ["《为自己的人》书评"]
+cross_refs: []
 ---
 # 《为自己的人》书评
 

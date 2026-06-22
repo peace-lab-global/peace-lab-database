@@ -1,7 +1,6 @@
 ---
-
 title: "《局外人》The Outsider"
-description: "《局外人》The Outsider的详细解析与实践指南"
+description: "《局外人》The Outsider —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《局外人》The Outsider"
   - "《局外人》The Outsider的核心概念"
   - "《局外人》The Outsider的方法与实践"
-trigger_keywords: ["art", "buddhism", "literature", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/emotion/sexuality"
-
+trigger_keywords: ["《局外人》The", "Outsider"]
+cross_refs: []
 ---
 # 《局外人》The Outsider
 

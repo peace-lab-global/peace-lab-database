@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_002
 skill_name: 慢性压力干预决策
 skill_name_en: Chronic Stress Intervention Decision
@@ -32,18 +31,7 @@ changelog:
   - version: 1.0
     date: 2026-04-10
     changes: "初始版本"
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md"
-    relation: "emotion/exercise/sexuality"
-
+cross_refs: []
 ---
 
 # 慢性压力干预决策技能

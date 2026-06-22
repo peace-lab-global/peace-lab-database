@@ -1,7 +1,6 @@
 ---
-
 title: "Tea Neuroscience & Pharmacology (茶的神经科学与药理学)"
-description: "Tea Neuroscience & Pharmacology (茶的神经科学与药理学)的详细解析与实践指南"
+description: "Tea Neuroscience & Pharmacology (茶的神经科学与药理学) —— 营养学 · Tea 专题"
 category: "生命科学与生物医学 > 营养学 > Tea"
 tags: ["addiction", "aging", "brain", "cardiovascular", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tea Neuroscience & Pharmacology"
   - "Tea Neuroscience & Pharmacology的核心概念"
   - "Tea Neuroscience & Pharmacology的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Tea", "Neuroscience", "Pharmacology", "茶的神经科学与药理学"]
+cross_refs: []
 ---
 # Tea Neuroscience & Pharmacology (茶的神经科学与药理学)
 

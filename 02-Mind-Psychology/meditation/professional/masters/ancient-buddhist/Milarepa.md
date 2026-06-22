@@ -1,7 +1,6 @@
 ---
-
 title: "密勒日巴（Milarepa / མི་ལ་རས་པ）"
-description: "密勒日巴（Milarepa / མི་ལ་རས་པ）的详细解析与实践指南"
+description: "密勒日巴（Milarepa / མི་ལ་རས་པ） —— Masters · Ancient Buddhist 专题"
 category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
 tags: ["meditation", "phobia", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是密勒日巴（Milarepa / མི་ལ་རས་པ）"
   - "密勒日巴（Milarepa / མི་ལ་རས་པ）的核心概念"
   - "密勒日巴（Milarepa / མི་ལ་རས་པ）的方法与实践"
-trigger_keywords: ["མི་ལ་རས་པ）", "buddhism", "meditation", "phobia", "sexuality"]
+trigger_keywords: ["མི་ལ་རས་པ）", "meditation", "phobia"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "milarepa/life/藏传"
 ---
 # 密勒日巴（Milarepa / མི་ལ་རས་པ）
 

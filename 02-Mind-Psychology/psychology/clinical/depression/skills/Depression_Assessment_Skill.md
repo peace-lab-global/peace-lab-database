@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_010
 skill_name: 抑郁状态综合评估
 skill_name_en: Comprehensive Depression Assessment
@@ -35,18 +34,7 @@ changelog:
   - version: 1.0
     date: 2026-05-19
     changes: "初始版本"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
-    relation: "stress/depression/comorbidity"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/crisis/Crisis_Intervention_Skill.md"
-    relation: "depression/crisis/escalation"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "depression/neuroendocrine/regulation"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "depression/anxiety/somatic"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "depression/mood/musical_therapy"
-
+cross_refs: []
 ---
 
 # 抑郁状态综合评估技能

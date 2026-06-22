@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与睡眠 | Meditation and Sleep"
-description: "冥想与睡眠 | Meditation and Sleep的详细解析与实践指南"
+description: "冥想与睡眠 | Meditation and Sleep —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "mbsr", "sleep", "mindfulness", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想与睡眠 | Meditation and Sleep"
   - "冥想与睡眠 | Meditation and Sleep的核心概念"
   - "冥想与睡眠 | Meditation and Sleep的方法与实践"
-trigger_keywords: ["冥想与睡眠", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "aging/emotion/immune"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/emotion/immune"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["冥想与睡眠", "Meditation", "and", "Sleep"]
+cross_refs: []
 ---
 # 冥想与睡眠 | Meditation and Sleep
 

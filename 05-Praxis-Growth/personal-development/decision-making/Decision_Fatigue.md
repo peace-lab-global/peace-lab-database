@@ -1,7 +1,6 @@
 ---
-
 title: "决策疲劳管理 | Decision Fatigue Management"
-description: "决策疲劳管理 | Decision Fatigue Management的详细解析与实践指南"
+description: "决策疲劳管理 | Decision Fatigue Management —— 个人发展 · 决策科学 专题"
 category: "实践与个人增长 > 个人发展 > 决策科学"
 tags: ["decision-making", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是决策疲劳管理 | Decision Fatigue Management"
   - "决策疲劳管理 | Decision Fatigue Management的核心概念"
   - "决策疲劳管理 | Decision Fatigue Management的方法与实践"
-trigger_keywords: ["决策疲劳管理", "assessment", "behavioral", "brain", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "depression/emotion/exercise"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "depression/emotion/exercise"
-
+trigger_keywords: ["决策疲劳管理", "Decision", "Fatigue", "Management"]
+cross_refs: []
 ---
 # 决策疲劳管理 | Decision Fatigue Management
 

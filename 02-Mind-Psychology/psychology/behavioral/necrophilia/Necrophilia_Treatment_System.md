@@ -1,7 +1,6 @@
 ---
-
 title: "恋尸癖治疗方法体系专业内容体系"
-description: "恋尸癖治疗方法体系专业内容体系的详细解析与实践指南"
+description: "恋尸癖治疗方法体系专业内容体系 —— 行为心理 · Necrophilia 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Necrophilia"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "恋尸癖治疗方法体系专业内容体系的核心概念"
   - "恋尸癖治疗方法体系专业内容体系的方法与实践"
   - "恋尸癖治疗方法体系专业内容体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["恋尸癖治疗方法体系专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Martha_Argerich_Music_Therapy.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Therapeutic_Use.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "04-Humanities-Arts/media/cinema/film-criticism/Therapy_Application_Guide.md"
+    relation: "团体治疗/创伤/认知行为"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "团体治疗/家庭治疗/认知行为"
 ---
 # 恋尸癖治疗方法体系专业内容体系
 

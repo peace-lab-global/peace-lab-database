@@ -1,7 +1,6 @@
 ---
-
 title: "《为什么佛学是真的》Why Buddhism Is True"
-description: "《为什么佛学是真的》Why Buddhism Is True的详细解析与实践指南"
+description: "《为什么佛学是真的》Why Buddhism Is True —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《为什么佛学是真的》Why Buddhism Is True"
   - "《为什么佛学是真的》Why Buddhism Is True的核心概念"
   - "《为什么佛学是真的》Why Buddhism Is True的方法与实践"
-trigger_keywords: ["anxiety", "art", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["《为什么佛学是真的》Why", "Buddhism", "Is", "True"]
+cross_refs: []
 ---
 # 《为什么佛学是真的》Why Buddhism Is True
 

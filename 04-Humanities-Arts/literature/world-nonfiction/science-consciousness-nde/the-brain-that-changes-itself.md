@@ -1,7 +1,6 @@
 ---
-
 title: "《重塑大脑》The Brain That Changes Itself"
-description: "《重塑大脑》The Brain That Changes Itself的详细解析与实践指南"
+description: "《重塑大脑》The Brain That Changes Itself —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《重塑大脑》The Brain That Changes Itself"
   - "《重塑大脑》The Brain That Changes Itself的核心概念"
   - "《重塑大脑》The Brain That Changes Itself的方法与实践"
-trigger_keywords: ["addiction", "aging", "assessment", "behavioral"]
+trigger_keywords: ["《重塑大脑》The", "Brain", "That", "Changes", "Itself"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/buddhism/depression"
-  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy.md"
-    relation: "aging/buddhism/depression"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/depression/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/buddhism/depression"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
+    relation: "changes/神经可塑性/神经元"
 ---
 # 《重塑大脑》The Brain That Changes Itself
 

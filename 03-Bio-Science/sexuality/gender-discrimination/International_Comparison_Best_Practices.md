@@ -1,7 +1,6 @@
 ---
-
 title: "International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)"
-description: "International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)的详细解析与实践指南"
+description: "International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["death", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是International Comparison and Best Practices in Gender Equality"
   - "International Comparison and Best Practices in Gender Equality的核心概念"
   - "International Comparison and Best Practices in Gender Equality的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "cognitive"]
+trigger_keywords: ["International", "Comparison", "and", "Best", "Practices"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Ritual_Healing.md"
-    relation: "communication/death/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/death/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/digital-resources/International_Best_Practices_Comparative_Study.md"
+    relation: "equality/policy/un"
 ---
 # International Comparison and Best Practices in Gender Equality (性别平等的国际比较与最佳实践)
 

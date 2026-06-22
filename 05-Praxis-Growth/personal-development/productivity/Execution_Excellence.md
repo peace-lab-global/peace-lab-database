@@ -1,7 +1,6 @@
 ---
-
 title: "执行力与任务完成 (Execution Excellence)"
-description: "执行力与任务完成 (Execution Excellence)的详细解析与实践指南"
+description: "执行力与任务完成 (Execution Excellence) —— 个人发展 · 效率 专题"
 category: "实践与个人增长 > 个人发展 > 效率"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是执行力与任务完成"
   - "执行力与任务完成的核心概念"
   - "执行力与任务完成的方法与实践"
-trigger_keywords: ["执行力与任务完成", "act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["执行力与任务完成", "Execution", "Excellence"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/21_Day_Action_Plan.md"
+    relation: "拖延/习惯"
 ---
 # 执行力与任务完成 (Execution Excellence)
 

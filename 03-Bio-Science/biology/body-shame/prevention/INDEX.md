@@ -1,6 +1,6 @@
 ---
 title: "prevention | Index"
-description: "prevention | Index的详细解析与实践指南"
+description: "prevention | Index —— 身体羞耻 · Prevention 专题"
 category: "生命科学与生物医学 > 生物学 > 身体羞耻 > Prevention"
 tags: ["生物学", "身体羞耻"]
 last_updated: "2026-05"
@@ -11,8 +11,12 @@ intent_queries:
   - "什么是prevention | Index"
   - "prevention | Index的核心概念"
   - "prevention | Index的方法与实践"
-trigger_keywords: ["prevention", "Index", "生物学", "身体羞耻"]
-cross_refs: []
+trigger_keywords: ["prevention", "生物学", "身体羞耻"]
+cross_refs:
+  - path: "02-Mind-Psychology/relationships/clinical-practice/prevention/INDEX.md"
+    relation: "prevention/contents"
+  - path: "05-Praxis-Growth/personal-development/public-speaking/INDEX.md"
+    relation: "public/contents"
 ---
 # prevention | Index
 

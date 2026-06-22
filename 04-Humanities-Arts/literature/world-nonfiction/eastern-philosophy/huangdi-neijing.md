@@ -1,7 +1,6 @@
 ---
-
 title: "《黄帝内经》Huangdi Neijing"
-description: "《黄帝内经》Huangdi Neijing的详细解析与实践指南"
+description: "《黄帝内经》Huangdi Neijing —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["habits", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《黄帝内经》Huangdi Neijing"
   - "《黄帝内经》Huangdi Neijing的核心概念"
   - "《黄帝内经》Huangdi Neijing的方法与实践"
-trigger_keywords: ["body", "crisis", "developmental", "emotion"]
+trigger_keywords: ["《黄帝内经》Huangdi", "Neijing"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/emotion/nutrition"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "emotion/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/exercise/nutrition"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/exercise/nutrition"
-
+  - path: "01-Wisdom-Traditions/tcm-neijing/classics/Huangdi_Neijing_Lingshu.md"
+    relation: "黄帝内经/huangdi/neijing"
+  - path: "01-Wisdom-Traditions/tcm-neijing/classics/Huangdi_Neijing_Suwen.md"
+    relation: "黄帝内经/huangdi/阴阳"
+  - path: "01-Wisdom-Traditions/tcm-neijing/classics/INDEX.md"
+    relation: "黄帝内经/huangdi/neijing"
+  - path: "01-Wisdom-Traditions/tcm-neijing/YinYang_Five_Elements.md"
+    relation: "阴阳/五行/neijing"
 ---
 # 《黄帝内经》Huangdi Neijing
 

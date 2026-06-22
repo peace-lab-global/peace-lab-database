@@ -1,7 +1,6 @@
 ---
-
 title: "20世纪哲学经典 · 佛法视角三方书评"
-description: "20世纪哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "20世纪哲学经典 · 佛法视角三方书评 —— 20Th Century · Continental 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Continental"
 tags: ["buddhism", "mindfulness", "philosophy", "religion", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是20世纪哲学经典 · 佛法视角三方书评"
   - "20世纪哲学经典 · 佛法视角三方书评的核心概念"
   - "20世纪哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["20世纪哲学经典", "佛法视角三方书评", "anxiety", "buddhism", "death", "mindfulness"]
+trigger_keywords: ["20世纪哲学经典", "佛法视角三方书评", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-miracle-of-mindfulness.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/one-dharma.md"
+    relation: "死亡/佛教"
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "死亡/mara/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
+    relation: "死亡/佛教/力量"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Book_Review.md"
+    relation: "死亡/佛教"
 ---
 # 20世纪哲学经典 · 佛法视角三方书评
 

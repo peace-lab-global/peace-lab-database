@@ -1,7 +1,6 @@
 ---
-
 title: "创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)"
-description: "创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)的详细解析与实践指南"
+description: "创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy) —— 疗法 · Tf Cbt Therapy 专题"
 category: "心智与心理学 > 疗法 > Tf Cbt Therapy"
 tags: ["anxiety", "attachment", "cbt", "trauma", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "创伤聚焦认知行为治疗的核心概念"
   - "创伤聚焦认知行为治疗的方法与实践"
   - "创伤聚焦认知行为治疗的循证证据"
-trigger_keywords: ["创伤聚焦认知行为治疗", "act", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/literature/Expanded_Literary_Therapy_Guide_Extended.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["创伤聚焦认知行为治疗", "TF-CBT:", "Trauma-Focused", "Cognitive", "Behavioral"]
+cross_refs: []
 ---
 # 创伤聚焦认知行为治疗 (TF-CBT: Trauma-Focused Cognitive Behavioral Therapy)
 

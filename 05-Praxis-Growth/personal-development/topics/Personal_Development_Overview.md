@@ -1,7 +1,6 @@
 ---
-
 title: "Personal Development Overview 个人发展概览"
-description: "Personal Development Overview 个人发展概览的详细解析与实践指南"
+description: "Personal Development Overview 个人发展概览 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["cbt", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Personal Development Overview 个人发展概览"
   - "Personal Development Overview 个人发展概览的核心概念"
   - "Personal Development Overview 个人发展概览的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/therapy/integrative/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md"
-    relation: "anxiety/meditation/neuroscience"
-
+trigger_keywords: ["Personal", "Development", "Overview", "个人发展概览"]
+cross_refs: []
 ---
 # Personal Development Overview 个人发展概览
 

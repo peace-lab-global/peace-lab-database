@@ -1,7 +1,6 @@
 ---
-
 title: "EMDR高级协议 (EMDR Advanced Protocols)"
-description: "EMDR高级协议 (EMDR Advanced Protocols)的详细解析与实践指南"
+description: "EMDR高级协议 (EMDR Advanced Protocols) —— 疗法 · Emdr Therapy 专题"
 category: "心智与心理学 > 疗法 > Emdr Therapy"
 tags: ["addiction", "anxiety", "attachment", "brain", "emdr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是EMDR高级协议"
   - "EMDR高级协议的核心概念"
   - "EMDR高级协议的方法与实践"
-trigger_keywords: ["EMDR高级协议", "addiction", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["EMDR高级协议", "EMDR", "Advanced", "Protocols"]
+cross_refs: []
 ---
 # EMDR高级协议 (EMDR Advanced Protocols)
 

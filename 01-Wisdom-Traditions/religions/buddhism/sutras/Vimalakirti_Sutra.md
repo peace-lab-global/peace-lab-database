@@ -1,7 +1,6 @@
 ---
-
 title: "维摩诘所说经"
-description: "维摩诘所说经的详细解析与实践指南"
+description: "维摩诘所说经 —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "loneliness", "mindfulness", "music", "philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是维摩诘所说经"
   - "维摩诘所说经的核心概念"
   - "维摩诘所说经的方法与实践"
-trigger_keywords: ["维摩诘所说经", "behavioral", "brain", "buddhism", "loneliness"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["维摩诘所说经", "loneliness"]
+cross_refs: []
 ---
 # 维摩诘所说经
 

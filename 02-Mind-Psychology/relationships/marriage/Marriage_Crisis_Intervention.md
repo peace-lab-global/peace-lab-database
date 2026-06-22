@@ -1,7 +1,6 @@
 ---
-
 title: "Marriage Crisis Intervention (婚姻危机干预)"
-description: "Marriage Crisis Intervention (婚姻危机干预)的详细解析与实践指南"
+description: "Marriage Crisis Intervention (婚姻危机干预) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["addiction", "anxiety", "attachment", "emdr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Marriage Crisis Intervention"
   - "Marriage Crisis Intervention的核心概念"
   - "Marriage Crisis Intervention的方法与实践"
-trigger_keywords: ["act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Neuroscience_Biology.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Marriage", "Crisis", "Intervention", "婚姻危机干预"]
+cross_refs: []
 ---
 # Marriage Crisis Intervention (婚姻危机干预)
 

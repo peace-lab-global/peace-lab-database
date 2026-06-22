@@ -1,7 +1,6 @@
 ---
-
 title: "《佛教的见地与修道》The View and Practice of Buddhism"
-description: "《佛教的见地与修道》The View and Practice of Buddhism的详细解析与实践指南"
+description: "《佛教的见地与修道》The View and Practice of Buddhism —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《佛教的见地与修道》The View and Practice of Buddhism"
   - "《佛教的见地与修道》The View and Practice of Buddhism的核心概念"
   - "《佛教的见地与修道》The View and Practice of Buddhism的方法与实践"
-trigger_keywords: ["act", "behavioral", "buddhism", "sexuality"]
+trigger_keywords: ["《佛教的见地与修道》The", "View", "and", "Practice", "of"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/meditation/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/INDEX.md"
+    relation: "jamyang/khyentse/dzongsar"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/INDEX.md"
+    relation: "上师/buddhism/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/INDEX.md"
+    relation: "佛教/buddhism/jamyang"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/INDEX.md"
+    relation: "佛教/buddhism/jamyang"
 ---
 # 《佛教的见地与修道》The View and Practice of Buddhism
 

@@ -1,7 +1,6 @@
 ---
-
 title: "中医推拿心理调节专业内容体系"
-description: "中医推拿心理调节专业内容体系的详细解析与实践指南"
+description: "中医推拿心理调节专业内容体系 —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["aging", "cardiovascular"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "中医推拿心理调节专业内容体系的核心概念"
   - "中医推拿心理调节专业内容体系的方法与实践"
   - "中医推拿心理调节专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["中医推拿心理调节专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Overview.md"
+    relation: "推拿/经络"
+  - path: "02-Mind-Psychology/psychology/special-topics/tcm-psychology/TCM_Psychology_Theory_and_Practice.md"
+    relation: "推拿/经络/阴阳"
+  - path: "01-Wisdom-Traditions/tcm-neijing/classics/Jinkui_Yaolue.md"
+    relation: "经络/阴阳"
+  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_YinYang_FiveElements.md"
+    relation: "经络/阴阳"
 ---
 # 中医推拿心理调节专业内容体系
 

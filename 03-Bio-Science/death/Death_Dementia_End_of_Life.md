@@ -1,7 +1,6 @@
 ---
-
 title: "Dementia & End-of-Life Consciousness (失智症与临终意识)"
-description: "Dementia & End-of-Life Consciousness (失智症与临终意识)的详细解析与实践指南"
+description: "Dementia & End-of-Life Consciousness (失智症与临终意识) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "cardiovascular", "pain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Dementia & End-of-Life Consciousness"
   - "Dementia & End-of-Life Consciousness的核心概念"
   - "Dementia & End-of-Life Consciousness的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Dementia", "End-of-Life", "Consciousness", "失智症与临终意识"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-long-goodbye.md"
+    relation: "哀伤/goodbye/long"
 ---
 # Dementia & End-of-Life Consciousness (失智症与临终意识)
 

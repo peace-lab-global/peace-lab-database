@@ -1,7 +1,6 @@
 ---
-
 title: "职业教育 | Vocational Education"
-description: "职业教育 | Vocational Education的详细解析与实践指南"
+description: "职业教育 | Vocational Education —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "resilience", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是职业教育 | Vocational Education"
   - "职业教育 | Vocational Education的核心概念"
   - "职业教育 | Vocational Education的方法与实践"
-trigger_keywords: ["职业教育", "brain", "child", "communication", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C6-3-与情绪共处-冥想练习-如实观照心念.md"
-    relation: "attachment/communication/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "attachment/communication/neuroscience"
-
+trigger_keywords: ["职业教育", "Vocational", "Education"]
+cross_refs: []
 ---
 # 职业教育 | Vocational Education
 

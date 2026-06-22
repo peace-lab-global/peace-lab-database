@@ -1,7 +1,6 @@
 ---
-
 title: "南传内观传承 (Theravada Vipassanā Traditions)"
-description: "南传内观传承 (Theravada Vipassanā Traditions)的详细解析与实践指南"
+description: "南传内观传承 (Theravada Vipassanā Traditions) —— 佛教 · Theravada 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
 tags: ["buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是南传内观传承"
   - "南传内观传承的核心概念"
   - "南传内观传承的方法与实践"
-trigger_keywords: ["南传内观传承", "act", "adolescent", "art", "body"]
+trigger_keywords: ["南传内观传承", "Theravada", "Vipassanā", "Traditions"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Eckhart_Tolle.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Vipassana_Practice_Guide.md"
+    relation: "内观/goenka/vipassan"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/SN_Goenka.md"
+    relation: "vipassan/内观/goenka"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-practice-of-vipassana.md"
+    relation: "内观/sayadaw/mogok"
 ---
 # 南传内观传承 (Theravada Vipassanā Traditions)
 

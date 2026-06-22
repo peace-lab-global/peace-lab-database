@@ -1,7 +1,6 @@
 ---
-
 title: "中国传统静坐功法 | Chinese Sitting Meditation Practices"
-description: "中国传统静坐功法 | Chinese Sitting Meditation Practices的详细解析与实践指南"
+description: "中国传统静坐功法 | Chinese Sitting Meditation Practices —— 冥想 · Chinese Traditions 专题"
 category: "心智与心理学 > 冥想 > Chinese Traditions"
 tags: ["daoism", "meditation", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中国传统静坐功法 | Chinese Sitting Meditation Practices"
   - "中国传统静坐功法 | Chinese Sitting Meditation Practices的核心概念"
   - "中国传统静坐功法 | Chinese Sitting Meditation Practices的方法与实践"
-trigger_keywords: ["中国传统静坐功法", "act", "body", "breathwork", "buddhism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/daoism/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["中国传统静坐功法", "Chinese", "Sitting", "Meditation", "Practices"]
+cross_refs: []
 ---
 # 中国传统静坐功法 | Chinese Sitting Meditation Practices
 

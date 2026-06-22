@@ -1,7 +1,6 @@
 ---
-
 title: "72小时断食完整指南 (72-Hour Fasting Complete Guide)"
-description: "72小时断食完整指南 (72-Hour Fasting Complete Guide)的详细解析与实践指南"
+description: "72小时断食完整指南 (72-Hour Fasting Complete Guide) —— 断食 · Extended Fasting 专题"
 category: "生命科学与生物医学 > 营养学 > 断食 > Extended Fasting"
 tags: ["aging", "brain", "cardiovascular", "fasting"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是72小时断食完整指南"
   - "72小时断食完整指南的核心概念"
   - "72小时断食完整指南的方法与实践"
-trigger_keywords: ["72小时断食完整指南", "aging", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/being-mortal.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["72小时断食完整指南", "72-Hour", "Fasting", "Complete", "Guide"]
+cross_refs: []
 ---
 # 72小时断食完整指南 (72-Hour Fasting Complete Guide)
 

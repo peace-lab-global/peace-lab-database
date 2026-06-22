@@ -1,7 +1,6 @@
 ---
-
 title: "Schizoaffective Disorder Treatment (分裂情感性障碍治疗)"
-description: "Schizoaffective Disorder Treatment (分裂情感性障碍治疗)的详细解析与实践指南"
+description: "Schizoaffective Disorder Treatment (分裂情感性障碍治疗) —— 精神障碍 · Schizoaffective 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Schizoaffective"
 tags: ["cardiovascular", "cbt", "depression", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Schizoaffective Disorder Treatment"
   - "Schizoaffective Disorder Treatment的核心概念"
   - "Schizoaffective Disorder Treatment的方法与实践"
-trigger_keywords: ["aging", "assessment", "cardiovascular", "cbt"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "03-Bio-Science/foods/nutritional/Nutrition_Fundamentals.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Neuroscience_Pharmacology.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Clinical_Assessment_Intervention.md"
-    relation: "aging/cardiovascular/depression"
-  - path: "04-Humanities-Arts/arts/ballet/rehabilitation-therapy/Ballet_Rehabilitation_Therapy.md"
-    relation: "aging/cardiovascular/depression"
-
+trigger_keywords: ["cardiovascular", "cbt"]
+cross_refs: []
 ---
 # Schizoaffective Disorder Treatment (分裂情感性障碍治疗)
 

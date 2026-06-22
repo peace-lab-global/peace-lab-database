@@ -1,7 +1,6 @@
 ---
-
 title: "焦虑管理日常训练方案"
-description: "焦虑管理日常训练方案的详细解析与实践指南"
+description: "焦虑管理日常训练方案 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "habits", "mindfulness"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "焦虑管理日常训练方案的核心概念"
   - "焦虑管理日常训练方案的方法与实践"
   - "焦虑管理日常训练方案的自助方法"
-trigger_keywords: ["焦虑管理日常训练方案", "anxiety", "assessment", "body", "breathwork"]
+trigger_keywords: ["焦虑管理日常训练方案"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/认知重构/呼吸"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "焦虑/暴露"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "焦虑/习惯/障碍"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Listening_Guide.md"
+    relation: "习惯/觉察"
 ---
 # 焦虑管理日常训练方案
 

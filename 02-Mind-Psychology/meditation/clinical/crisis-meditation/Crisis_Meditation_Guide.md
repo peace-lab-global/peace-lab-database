@@ -1,7 +1,6 @@
 ---
-
 title: "危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide"
-description: "危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide的详细解析与实践指南"
+description: "危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide —— 冥想 · Crisis Meditation 专题"
 category: "心智与心理学 > 冥想 > Crisis Meditation"
 tags: ["anxiety", "brain", "cbt", "emdr", "mindfulness", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide"
   - "危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide的核心概念"
   - "危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/depression"
-  - path: "README.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["危机与哀伤冥想专业指南", "Crisis", "Grief", "Meditation", "Guide"]
+cross_refs: []
 ---
 # 危机与哀伤冥想专业指南 Crisis & Grief Meditation Guide
 

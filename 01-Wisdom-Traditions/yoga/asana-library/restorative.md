@@ -1,7 +1,6 @@
 ---
-
 title: "Restorative Poses 修复/支撑位体式"
-description: "Restorative Poses 修复/支撑位体式的详细解析与实践指南"
+description: "Restorative Poses 修复/支撑位体式 —— 瑜伽 · Asana Library 专题"
 category: "智慧传承 > 瑜伽 > Asana Library"
 tags: ["cortisol", "depression", "hpa-axis"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Restorative Poses 修复/支撑位体式"
   - "Restorative Poses 修复/支撑位体式的核心概念"
   - "Restorative Poses 修复/支撑位体式的方法与实践"
-trigger_keywords: ["支撑位体式", "anxiety", "body", "brain", "breathwork"]
+trigger_keywords: ["支撑位体式", "Restorative", "Poses", "修复"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/kundalini-meditation/Kundalini_Safety_Screening.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
+    relation: "supported/体式/pose"
 ---
 # Restorative Poses 修复/支撑位体式
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《少年》The Adolescent"
-description: "《少年》The Adolescent的详细解析与实践指南"
+description: "《少年》The Adolescent —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["literature", "loneliness", "marriage", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《少年》The Adolescent"
   - "《少年》The Adolescent的核心概念"
   - "《少年》The Adolescent的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "literature", "loneliness"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
-    relation: "anxiety/attachment/personality"
-  - path: "01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md"
-    relation: "anxiety/attachment/personality"
-
+trigger_keywords: ["loneliness", "《少年》The", "Adolescent"]
+cross_refs: []
 ---
 # 《少年》The Adolescent
 

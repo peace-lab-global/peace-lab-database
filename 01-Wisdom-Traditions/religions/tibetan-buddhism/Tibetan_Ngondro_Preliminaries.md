@@ -1,7 +1,6 @@
 ---
-
 title: "前行法 (Ngöndro / Preliminary Practices)"
-description: "前行法 (Ngöndro / Preliminary Practices)的详细解析与实践指南"
+description: "前行法 (Ngöndro / Preliminary Practices) —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "habits", "longevity", "pain", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是前行法"
   - "前行法的核心概念"
   - "前行法的方法与实践"
-trigger_keywords: ["前行法", "act", "body", "buddhism", "death"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/pain"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "aging/buddhism/pain"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "aging/buddhism/pain"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/death/pain"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/buddhism/pain"
-
+trigger_keywords: ["前行法", "Ngöndro", "Preliminary", "Practices"]
+cross_refs: []
 ---
 # 前行法 (Ngöndro / Preliminary Practices)
 

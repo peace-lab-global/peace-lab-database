@@ -1,7 +1,6 @@
 ---
-
 title: "Cate Blanchett 专业分析：国际影坛多面手的艺术成就"
-description: "Cate Blanchett 专业分析：国际影坛多面手的艺术成就的详细解析与实践指南"
+description: "Cate Blanchett 专业分析：国际影坛多面手的艺术成就 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Cate Blanchett 专业分析：国际影坛多面手的艺术成就"
   - "Cate Blanchett 专业分析：国际影坛多面手的艺术成就的核心概念"
   - "Cate Blanchett 专业分析：国际影坛多面手的艺术成就的方法与实践"
-trigger_keywords: ["act", "aging", "art", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/communication/productivity"
-
+trigger_keywords: ["Cate", "Blanchett", "专业分析：国际影坛多面手的艺术成就"]
+cross_refs: []
 ---
 # Cate Blanchett 专业分析：国际影坛多面手的艺术成就
 

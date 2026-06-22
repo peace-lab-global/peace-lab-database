@@ -1,7 +1,6 @@
 ---
-
 title: "青年群体性焦虑干预策略"
-description: "青年群体性焦虑干预策略的详细解析与实践指南"
+description: "青年群体性焦虑干预策略 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "青年群体性焦虑干预策略的核心概念"
   - "青年群体性焦虑干预策略的方法与实践"
   - "青年群体性焦虑干预策略的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["青年群体性焦虑干预策略"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/crisis-postvention/Crisis_Postvention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与身体对话/与身体对话：生活觉察：和身体建立亲密关系.md"
+    relation: "亲密关系/压力"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_10_Love_Relationships.md"
+    relation: "亲密关系/自信/沟通"
+  - path: "02-Mind-Psychology/relationships/marriage/sexless-marriage/Sexless_Marriage_Intervention_Strategies.md"
+    relation: "亲密关系/沟通"
+  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
+    relation: "亲密关系/压力"
 ---
 # 青年群体性焦虑干预策略
 

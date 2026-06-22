@@ -1,7 +1,6 @@
 ---
-
 title: "Breathwork & Biohacking (呼吸技术与生物黑客)"
-description: "Breathwork & Biohacking (呼吸技术与生物黑客)的详细解析与实践指南"
+description: "Breathwork & Biohacking (呼吸技术与生物黑客) —— 生物学 · 呼吸法 专题"
 category: "生命科学与生物医学 > 生物学 > 呼吸法"
 tags: ["dmn", "neuroscience", "sexuality", "呼吸法", "生物学", "cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Breathwork & Biohacking"
   - "Breathwork & Biohacking的核心概念"
   - "Breathwork & Biohacking的方法与实践"
-trigger_keywords: ["act", "breathwork", "dmn", "neuroscience"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "README.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/productivity"
-
+trigger_keywords: ["dmn", "neuroscience"]
+cross_refs: []
 ---
 # Breathwork & Biohacking (呼吸技术与生物黑客)
 

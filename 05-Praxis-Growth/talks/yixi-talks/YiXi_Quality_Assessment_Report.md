@@ -1,7 +1,6 @@
 ---
-
 title: "一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi"
-description: "一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi的详细解析与实践指南"
+description: "一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["positive-psychology", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi"
   - "一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi的核心概念"
   - "一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi的方法与实践"
-trigger_keywords: ["act", "assessment", "developmental", "positive-psychology"]
+trigger_keywords: ["positive-psychology", "一席演讲内容质量评估报告", "YiXi", "Talks", "Quality"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "quality/completeness/report"
 ---
 # 一席演讲内容质量评估报告 | YiXi Talks Quality Assessment Report | Index Qualitatis YiXi
 

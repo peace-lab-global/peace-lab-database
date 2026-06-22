@@ -1,7 +1,6 @@
 ---
-
 title: "《女仆》(The Housemaid, 2026) 专业影评合集索引"
-description: "《女仆》(The Housemaid, 2026) 专业影评合集索引的详细解析与实践指南"
+description: "《女仆》(The Housemaid, 2026) 专业影评合集索引 —— Tv · The Housemaid 2026 专题"
 category: "人文与艺术疗愈 > 媒体 > Tv > The Housemaid 2026"
 tags: ["cinema", "literature", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《女仆》 专业影评合集索引"
   - "《女仆》 专业影评合集索引的核心概念"
   - "《女仆》 专业影评合集索引的方法与实践"
-trigger_keywords: ["art", "assessment", "cinema", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "README.md"
-    relation: "art_therapy/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/sexuality/therapy"
-
+trigger_keywords: ["cinema", "《女仆》", "The", "Housemaid", "2026"]
+cross_refs: []
 ---
 # 《女仆》(The Housemaid, 2026) 专业影评合集索引
 

@@ -1,7 +1,6 @@
 ---
-
 title: "太极与气功整合 | Tai Chi & Qigong Integration"
-description: "太极与气功整合 | Tai Chi & Qigong Integration的详细解析与实践指南"
+description: "太极与气功整合 | Tai Chi & Qigong Integration —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["cardiovascular", "daoism", "tcm"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是太极与气功整合 | Tai Chi & Qigong Integration"
   - "太极与气功整合 | Tai Chi & Qigong Integration的核心概念"
   - "太极与气功整合 | Tai Chi & Qigong Integration的方法与实践"
-trigger_keywords: ["太极与气功整合", "act", "aging", "body", "brain"]
+trigger_keywords: ["太极与气功整合", "Tai", "Chi", "Qigong", "Integration"]
 cross_refs:
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "aging/cardiovascular/daoism"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "气功/太极/qigong"
   - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/daoism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/cardiovascular/emotion"
-
+    relation: "气功/qigong/冥想"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/Taoist_Meditation_Overview.md"
+    relation: "气功/周天/内丹"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/taoist-meditation/Taoist_Practical_Guide.md"
+    relation: "周天/道家/内丹"
 ---
 # 太极与气功整合 | Tai Chi & Qigong Integration
 

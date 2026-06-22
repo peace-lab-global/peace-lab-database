@@ -1,6 +1,6 @@
 ---
 title: "瑜伽疗法"
-description: "瑜伽疗法的详细解析与实践指南"
+description: "瑜伽疗法 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["therapy", "yoga", "讲座"]
 last_updated: "2026-05"
@@ -14,16 +14,14 @@ intent_queries:
   - "瑜伽疗法的循证证据"
 trigger_keywords: ["瑜伽疗法", "therapy", "yoga", "讲座"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "therapy/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Kapila.md"
-    relation: "therapy/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "therapy/yoga"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Vedanta_Philosophy_Overview.md"
-    relation: "therapy/yoga"
-  - path: "01-Wisdom-Traditions/religions/buddhism/BUDDHISM_DIRECTORY_STRUCTURE.md"
-    relation: "therapy/yoga"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/forest-therapy/Forest_Therapy_Psychological_Benefits.md"
+    relation: "疗法/瑜伽"
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Integration_Modalities.md"
+    relation: "瑜伽/疗法"
+  - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
+    relation: "疗法/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/masters/east-asian/Masahiro_Oki.md"
+    relation: "瑜伽/疗法"
 ---
 # 瑜伽疗法
 

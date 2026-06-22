@@ -1,7 +1,6 @@
 ---
-
 title: "《Conscious Breathing》"
-description: "《Conscious Breathing》的详细解析与实践指南"
+description: "《Conscious Breathing》 —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《Conscious Breathing》"
   - "《Conscious Breathing》的核心概念"
   - "《Conscious Breathing》的方法与实践"
-trigger_keywords: ["anxiety", "body", "breathwork", "emotion"]
+trigger_keywords: ["《Conscious", "Breathing》"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/emotion"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：答疑解惑：冥想中的呼吸.md"
+    relation: "呼吸/腹式呼吸/专注"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：冥想练习：以呼吸为锚.md"
+    relation: "呼吸/腹式呼吸/专注"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与呼吸同频/与呼吸同频：生活觉察：用呼吸安定身心.md"
+    relation: "呼吸/焦虑"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/专注数息.md"
+    relation: "呼吸/专注"
 ---
 # 《Conscious Breathing》
 

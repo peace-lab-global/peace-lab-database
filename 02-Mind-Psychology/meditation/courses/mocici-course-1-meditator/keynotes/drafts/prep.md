@@ -1,7 +1,6 @@
 ---
-
 title: "直接认知论坛第三期 主题演讲"
-description: "直接认知论坛第三期 主题演讲的详细解析与实践指南"
+description: "直接认知论坛第三期 主题演讲 —— 冥想 · Keynotes 专题"
 category: "心智与心理学 > 冥想 > Keynotes"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是直接认知论坛第三期 主题演讲"
   - "直接认知论坛第三期 主题演讲的核心概念"
   - "直接认知论坛第三期 主题演讲的方法与实践"
-trigger_keywords: ["act", "anxiety", "attachment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["直接认知论坛第三期", "主题演讲"]
+cross_refs: []
 ---
 # 直接认知论坛第三期 主题演讲
 

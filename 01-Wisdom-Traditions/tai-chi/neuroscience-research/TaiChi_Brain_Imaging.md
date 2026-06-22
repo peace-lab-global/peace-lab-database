@@ -13,8 +13,8 @@ intent_queries:
   - "太极与脑灰质"
 trigger_keywords: ["脑影像", "fMRI", "EEG", "灰质", "神经可塑性"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience-overview"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Neuroimaging.md"
+    relation: "mri/smri/eeg"
 ---
 # 太极脑影像研究 | Tai Chi Brain Imaging
 

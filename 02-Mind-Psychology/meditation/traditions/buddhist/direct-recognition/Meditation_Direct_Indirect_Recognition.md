@@ -1,7 +1,6 @@
 ---
-
 title: "Direct & Indirect Recognition Comprehensive Comparison (直接认知与间接认知完整对比详辨)"
-description: "Direct & Indirect Recognition Comprehensive Comparison (直接认知与间接认知完整对比详辨)的详细解析与实践指南"
+description: "Direct & Indirect Recognition Comprehensive Comparison (直接认知与间接认知完整对比详辨) —— 冥想 · 直接认知 专题"
 category: "心智与心理学 > 冥想 > 直接认知"
 tags: ["addiction", "anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Direct & Indirect Recognition Comprehensive Comparison"
   - "Direct & Indirect Recognition Comprehensive Comparison的核心概念"
   - "Direct & Indirect Recognition Comprehensive Comparison的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/Digital_Mindfulness_AI_Mental_Health.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/meditation/neuroscience"
-
+trigger_keywords: ["Direct", "Indirect", "Recognition", "Comprehensive", "Comparison"]
+cross_refs: []
 ---
 # Direct & Indirect Recognition Comprehensive Comparison (直接认知与间接认知完整对比详辨)
 

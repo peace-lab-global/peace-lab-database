@@ -1,7 +1,6 @@
 ---
-
 title: "性教育评估与质量保障体系 (Sexuality Education Assessment and Quality Assurance System)"
-description: "性教育评估与质量保障体系 (Sexuality Education Assessment and Quality Assurance System)的详细解析与实践指南"
+description: "性教育评估与质量保障体系 (Sexuality Education Assessment and Quality Assurance System) —— Child Adolescent Sexuality · Assessment 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Assessment"
 tags: ["decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是性教育评估与质量保障体系"
   - "性教育评估与质量保障体系的核心概念"
   - "性教育评估与质量保障体系的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
+trigger_keywords: ["性教育评估与质量保障体系", "Sexuality", "Education", "Assessment", "and"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/productivity"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/exercise/productivity"
-
+  - path: "03-Bio-Science/biology/skin-diseases/Skin_Diseases_Quality_Assurance_Report.md"
+    relation: "assurance/quality/certification"
+  - path: "03-Bio-Science/biology/spa/SPA_Quality_Management.md"
+    relation: "quality/certification/mechanism"
+  - path: "03-Bio-Science/foods/coffee/Coffee_Quality_Assessment_System.md"
+    relation: "quality/certification/mechanism"
+  - path: "03-Bio-Science/biology/std/STD_Quality_Certification_Report.md"
+    relation: "certification/quality/system"
 ---
 # 性教育评估与质量保障体系 (Sexuality Education Assessment and Quality Assurance System)
 

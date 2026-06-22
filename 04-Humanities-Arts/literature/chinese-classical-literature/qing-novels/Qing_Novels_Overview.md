@@ -1,7 +1,6 @@
 ---
-
 title: "清代小说专业内容体系：中国古典长篇小说的巅峰成就"
-description: "清代小说专业内容体系：中国古典长篇小说的巅峰成就的详细解析与实践指南"
+description: "清代小说专业内容体系：中国古典长篇小说的巅峰成就 —— Chinese Classical Literature · Qing Novels 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Qing Novels"
 tags: ["literature", "marriage", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是清代小说专业内容体系：中国古典长篇小说的巅峰成就"
   - "清代小说专业内容体系：中国古典长篇小说的巅峰成就的核心概念"
   - "清代小说专业内容体系：中国古典长篇小说的巅峰成就的方法与实践"
-trigger_keywords: ["act", "art", "buddhism", "child"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Ghost_Festival.md"
-    relation: "attachment/buddhism/nutrition"
-  - path: "01-Wisdom-Traditions/yoga/masters/contemporary/Desikachar.md"
-    relation: "attachment/buddhism/nutrition"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/nutrition/therapy"
-
+trigger_keywords: ["清代小说专业内容体系：中国古典长篇小说的巅峰成就"]
+cross_refs: []
 ---
 # 清代小说专业内容体系：中国古典长篇小说的巅峰成就
 

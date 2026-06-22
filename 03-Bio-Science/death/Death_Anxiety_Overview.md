@@ -1,7 +1,6 @@
 ---
-
 title: "Death Anxiety Overview (死亡焦虑概览)"
-description: "Death Anxiety Overview (死亡焦虑概览)的详细解析与实践指南"
+description: "Death Anxiety Overview (死亡焦虑概览) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "attachment", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Death Anxiety Overview"
   - "Death Anxiety Overview的核心概念"
   - "Death Anxiety Overview的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Death", "Anxiety", "Overview", "死亡焦虑概览"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md"
+    relation: "anxiety/焦虑/disorders"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Illness_Anxiety.md"
+    relation: "anxiety/焦虑/障碍"
 ---
 # Death Anxiety Overview (死亡焦虑概览)
 

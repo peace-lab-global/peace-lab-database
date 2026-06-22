@@ -1,7 +1,6 @@
 ---
-
 title: "孤独干预效果评估与预防策略 (Loneliness Intervention Effectiveness & Prevention Strategies)"
-description: "孤独干预效果评估与预防策略 (Loneliness Intervention Effectiveness & Prevention Strategies)的详细解析与实践指南"
+description: "孤独干预效果评估与预防策略 (Loneliness Intervention Effectiveness & Prevention Strategies) —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孤独干预效果评估与预防策略"
   - "孤独干预效果评估与预防策略的核心概念"
   - "孤独干预效果评估与预防策略的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["孤独干预效果评估与预防策略", "Loneliness", "Intervention", "Effectiveness", "Prevention"]
+cross_refs: []
 ---
 # 孤独干预效果评估与预防策略 (Loneliness Intervention Effectiveness & Prevention Strategies)
 

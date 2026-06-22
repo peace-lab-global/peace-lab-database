@@ -1,7 +1,6 @@
 ---
-
 title: "关系预防项目研究 (Relationship Prevention Programs)"
-description: "关系预防项目研究 (Relationship Prevention Programs)的详细解析与实践指南"
+description: "关系预防项目研究 (Relationship Prevention Programs) —— 人际关系 · Prevention 专题"
 category: "心智与心理学 > 人际关系 > Prevention"
 tags: ["attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是关系预防项目研究"
   - "关系预防项目研究的核心概念"
   - "关系预防项目研究的方法与实践"
-trigger_keywords: ["关系预防项目研究", "act", "adolescent", "assessment", "attachment"]
+trigger_keywords: ["关系预防项目研究", "Relationship", "Prevention", "Programs"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "attachment/communication/emotion"
+  - path: "05-Praxis-Growth/communication/effective-communication/Effective_Communication_Practice.md"
+    relation: "prep/倾听/沟通"
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/ff"
   - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "attachment/communication/emotion"
-
+    relation: "relationship/沟通/倾听"
 ---
 # 关系预防项目研究 (Relationship Prevention Programs)
 

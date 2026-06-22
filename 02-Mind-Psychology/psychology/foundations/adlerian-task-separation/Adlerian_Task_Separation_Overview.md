@@ -1,7 +1,6 @@
 ---
-
 title: "课题分离：阿德勒个体心理学核心概念 (Separation of Tasks: Core Concept in Adlerian Individual Psychology)"
-description: "课题分离：阿德勒个体心理学核心概念 (Separation of Tasks: Core Concept in Adlerian Individual Psychology)的详细解析与实践指南"
+description: "课题分离：阿德勒个体心理学核心概念 (Separation of Tasks: Core Concept in Adlerian Individual Psychology) —— 心理学基础 · Adlerian Task Separation 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Adlerian Task Separation"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "课题分离：阿德勒个体心理学核心概念的核心概念"
   - "课题分离：阿德勒个体心理学核心概念的方法与实践"
   - "课题分离：阿德勒个体心理学核心概念的自助方法"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/neuroscience/sexuality"
-
+trigger_keywords: ["课题分离：阿德勒个体心理学核心概念", "Separation", "of", "Tasks:", "Core"]
+cross_refs: []
 ---
 # 课题分离：阿德勒个体心理学核心概念 (Separation of Tasks: Core Concept in Adlerian Individual Psychology)
 

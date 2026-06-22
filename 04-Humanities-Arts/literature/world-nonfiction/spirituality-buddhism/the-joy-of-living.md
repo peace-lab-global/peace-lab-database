@@ -1,7 +1,6 @@
 ---
-
 title: "《生命的喜悦》The Joy of Living"
-description: "《生命的喜悦》The Joy of Living的详细解析与实践指南"
+description: "《生命的喜悦》The Joy of Living —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《生命的喜悦》The Joy of Living"
   - "《生命的喜悦》The Joy of Living的核心概念"
   - "《生命的喜悦》The Joy of Living的方法与实践"
-trigger_keywords: ["anxiety", "brain", "buddhism", "meditation"]
+trigger_keywords: ["meditation", "《生命的喜悦》The", "Joy", "of", "Living"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Mingyur_Rinpoche.md"
+    relation: "yongey/mingyur/joy"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/INDEX.md"
+    relation: "living/佛教/rinpoche"
 ---
 # 《生命的喜悦》The Joy of Living
 

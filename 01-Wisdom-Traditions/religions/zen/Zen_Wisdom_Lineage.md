@@ -1,7 +1,6 @@
 ---
-
 title: "Zen Wisdom (禅宗智慧与传承)"
-description: "Zen Wisdom (禅宗智慧与传承)的详细解析与实践指南"
+description: "Zen Wisdom (禅宗智慧与传承) —— 宗教与灵性 · 禅宗 专题"
 category: "智慧传承 > 宗教与灵性 > 禅宗"
 tags: ["attachment", "decision-making", "philosophy", "self-esteem", "zen", "buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Zen Wisdom"
   - "Zen Wisdom的核心概念"
   - "Zen Wisdom的方法与实践"
-trigger_keywords: ["Zen Wisdom", "anxiety", "attachment", "cognitive", "decision-making"]
+trigger_keywords: ["Zen Wisdom", "decision-making"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/zen"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Bodhidharma.md"
+    relation: "bodhidharma/禅宗/zen"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md"
+    relation: "zen/禅宗"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_History_Lineage.md"
+    relation: "禅宗/zen/lineage"
 ---
 # Zen Wisdom (禅宗智慧与传承)
 

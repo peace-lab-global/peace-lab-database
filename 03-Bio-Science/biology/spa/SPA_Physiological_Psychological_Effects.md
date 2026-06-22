@@ -1,7 +1,6 @@
 ---
-
 title: "SPA Physiological & Psychological Effects (SPA生理心理效应机制)"
-description: "SPA Physiological & Psychological Effects (SPA生理心理效应机制)的详细解析与实践指南"
+description: "SPA Physiological & Psychological Effects (SPA生理心理效应机制) —— 生物学 · Spa 专题"
 category: "生命科学与生物医学 > 生物学 > Spa"
 tags: ["aging", "brain", "pain", "immune"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是SPA Physiological & Psychological Effects"
   - "SPA Physiological & Psychological Effects的核心概念"
   - "SPA Physiological & Psychological Effects的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/moxibustion/Modern_Research_Review.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["SPA", "Physiological", "Psychological", "Effects", "SPA生理心理效应机制"]
+cross_refs: []
 ---
 # SPA Physiological & Psychological Effects (SPA生理心理效应机制)
 

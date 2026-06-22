@@ -1,7 +1,6 @@
 ---
-
 title: "慈心禅与自我关怀8周课程"
-description: "慈心禅与自我关怀8周课程的详细解析与实践指南"
+description: "慈心禅与自我关怀8周课程 —— 冥想 · Metta Lovingkindness 专题"
 category: "心智与心理学 > 冥想 > Metta Lovingkindness"
 tags: ["anxiety", "attachment", "brain", "cinema", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是慈心禅与自我关怀8周课程"
   - "慈心禅与自我关怀8周课程的核心概念"
   - "慈心禅与自我关怀8周课程的方法与实践"
-trigger_keywords: ["act", "anxiety", "attachment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Faure_Music_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["慈心禅与自我关怀8周课程"]
+cross_refs: []
 ---
 # 慈心禅与自我关怀8周课程
 

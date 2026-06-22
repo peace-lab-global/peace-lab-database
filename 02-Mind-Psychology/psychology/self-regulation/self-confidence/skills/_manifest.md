@@ -9,6 +9,9 @@ skills:
     skill_name: 自尊与自我价值评估
     filename: Self_Esteem_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+    relation: "自我价值/自尊"
 ---
 
 # 自尊评估模块清单

@@ -1,7 +1,6 @@
 ---
-
 title: "圆桌讨论概述 | Round Table Discussions Overview"
-description: "圆桌讨论概述 | Round Table Discussions Overview的详细解析与实践指南"
+description: "圆桌讨论概述 | Round Table Discussions Overview —— 讲座 · Round Table 专题"
 category: "实践与个人增长 > 讲座 > Round Table"
 tags: ["decision-making", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是圆桌讨论概述 | Round Table Discussions Overview"
   - "圆桌讨论概述 | Round Table Discussions Overview的核心概念"
   - "圆桌讨论概述 | Round Table Discussions Overview的方法与实践"
-trigger_keywords: ["圆桌讨论概述", "aging", "anxiety", "cognitive", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["圆桌讨论概述", "decision-making"]
+cross_refs: []
 ---
 # 圆桌讨论概述 | Round Table Discussions Overview
 

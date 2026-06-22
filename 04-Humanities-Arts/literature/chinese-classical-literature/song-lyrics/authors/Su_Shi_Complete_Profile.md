@@ -1,7 +1,6 @@
 ---
-
 title: "苏轼 (Su Shi, 1037-1101)：豪放词派的开创者与全才文学家"
-description: "苏轼 (Su Shi, 1037-1101)：豪放词派的开创者与全才文学家的详细解析与实践指南"
+description: "苏轼 (Su Shi, 1037-1101)：豪放词派的开创者与全才文学家 —— Song Lyrics · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Song Lyrics > Authors"
 tags: ["calligraphy", "leadership", "literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是苏轼 ：豪放词派的开创者与全才文学家"
   - "苏轼 ：豪放词派的开创者与全才文学家的核心概念"
   - "苏轼 ：豪放词派的开创者与全才文学家的方法与实践"
-trigger_keywords: ["act", "art", "calligraphy", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["calligraphy", "苏轼", "Su", "Shi", "1037-1101"]
+cross_refs: []
 ---
 # 苏轼 (Su Shi, 1037-1101)：豪放词派的开创者与全才文学家
 

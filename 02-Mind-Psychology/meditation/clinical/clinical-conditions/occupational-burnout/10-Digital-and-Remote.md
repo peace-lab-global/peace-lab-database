@@ -1,7 +1,6 @@
 ---
-
 title: "10. 数字工具与远程干预 | Digital Tools & Remote Interventions"
-description: "10. 数字工具与远程干预 | Digital Tools & Remote Interventions的详细解析与实践指南"
+description: "10. 数字工具与远程干预 | Digital Tools & Remote Interventions —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["addiction", "anxiety", "cbt", "healing", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是10. 数字工具与远程干预 | Digital Tools & Remote Interventions"
   - "10. 数字工具与远程干预 | Digital Tools & Remote Interventions的核心概念"
   - "10. 数字工具与远程干预 | Digital Tools & Remote Interventions的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "breathwork", "cbt"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["cbt", "10.", "数字工具与远程干预", "Digital", "Tools"]
+cross_refs: []
 ---
 # 10. 数字工具与远程干预 | Digital Tools & Remote Interventions
 

@@ -1,7 +1,6 @@
 ---
-
 title: "伊斯兰哲学经典三方书评"
-description: "伊斯兰哲学经典三方书评的详细解析与实践指南"
+description: "伊斯兰哲学经典三方书评 —— Medieval · Islamic 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Medieval > Islamic"
 tags: ["habits", "philosophy", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是伊斯兰哲学经典三方书评"
   - "伊斯兰哲学经典三方书评的核心概念"
   - "伊斯兰哲学经典三方书评的方法与实践"
-trigger_keywords: ["behavioral", "body", "crisis", "exercise"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Branding_Marketing.md"
-    relation: "exercise/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "exercise/productivity/sexuality"
-
+trigger_keywords: ["exercise", "伊斯兰哲学经典三方书评"]
+cross_refs: []
 ---
 # 伊斯兰哲学经典三方书评
 

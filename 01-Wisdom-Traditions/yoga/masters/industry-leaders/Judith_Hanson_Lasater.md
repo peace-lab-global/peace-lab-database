@@ -1,7 +1,6 @@
 ---
-
 title: "朱迪思·汉森·拉萨特（Judith Hanson Lasater）"
-description: "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的详细解析与实践指南"
+description: "朱迪思·汉森·拉萨特（Judith Hanson Lasater） —— Masters · Industry Leaders 专题"
 category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
 tags: ["immune", "pain", "stress", "treatment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是朱迪思·汉森·拉萨特（Judith Hanson Lasater）"
   - "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的核心概念"
   - "朱迪思·汉森·拉萨特（Judith Hanson Lasater）的方法与实践"
-trigger_keywords: ["朱迪思", "汉森", "communication", "developmental", "immune", "neuroscience"]
-cross_refs:
-  - path: "05-Praxis-Growth/talks/ted-talks/Trauma_Overview.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
-    relation: "communication/immune/neuroscience"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "communication/immune/neuroscience"
-
+trigger_keywords: ["朱迪思", "汉森", "immune", "neuroscience"]
+cross_refs: []
 ---
 # 朱迪思·汉森·拉萨特（Judith Hanson Lasater）
 

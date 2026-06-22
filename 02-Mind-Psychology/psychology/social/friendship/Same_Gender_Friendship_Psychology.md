@@ -1,7 +1,6 @@
 ---
-
 title: "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας"
-description: "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的详细解析与实践指南"
+description: "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας —— 社会心理学 · Friendship 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Friendship"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的核心概念"
   - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的方法与实践"
   - "同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας的自助方法"
-trigger_keywords: ["同性友谊心理学", "act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["同性友谊心理学", "Same-Gender", "Friendship", "Psychology", "Ψυχολογία"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
-    relation: "anxiety/communication/emotion"
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/personality"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Youth_Population_Intervention.md"
+    relation: "亲密关系/沟通/压力"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/亲密关系/沟通"
 ---
 # 同性友谊心理学 | Same-Gender Friendship Psychology | Ψυχολογία Ομοφυλόφιλης Φιλίας
 

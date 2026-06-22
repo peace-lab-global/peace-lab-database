@@ -1,7 +1,6 @@
 ---
-
 title: "古琴心理调节专业内容体系"
-description: "古琴心理调节专业内容体系的详细解析与实践指南"
+description: "古琴心理调节专业内容体系 —— 音乐 · Guqin Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Guqin Therapy"
 tags: ["daoism", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "古琴心理调节专业内容体系的核心概念"
   - "古琴心理调节专业内容体系的方法与实践"
   - "古琴心理调节专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "art", "assessment", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
-    relation: "anxiety/daoism/depression"
-  - path: "02-Mind-Psychology/therapy/integrative/morita-therapy/Morita_Therapy_Psychological_Regulation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/procrastination/02_拖延症成因与机制.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["古琴心理调节专业内容体系"]
+cross_refs: []
 ---
 # 古琴心理调节专业内容体系
 

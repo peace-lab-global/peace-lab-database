@@ -1,7 +1,6 @@
 ---
-
 title: "色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)"
-description: "色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)的详细解析与实践指南"
+description: "色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System) —— Voyeurism Pornography Addiction · Erotic Literature 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction > Erotic Literature"
 tags: ["addiction", "cbt", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是色情文学成瘾专业内容体系质量评估报告"
   - "色情文学成瘾专业内容体系质量评估报告的核心概念"
   - "色情文学成瘾专业内容体系质量评估报告的方法与实践"
-trigger_keywords: ["addiction", "assessment", "cbt", "clinical"]
+trigger_keywords: ["cbt", "色情文学成瘾专业内容体系质量评估报告", "Quality", "Assessment", "Report"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "meditation/neuroscience/sexuality"
-
+  - path: "03-Bio-Science/biology/std/STD_Quality_Report.md"
+    relation: "quality/improvement/completeness"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "03-Bio-Science/sexuality/gender-discrimination/GENDER_DISCRIMINATION_QUALITY_REPORT.md"
+    relation: "quality/completeness/system"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Quality_Certification_Report.md"
+    relation: "quality/completeness/assessment"
 ---
 # 色情文学成瘾专业内容体系质量评估报告 (Quality Assessment Report for Erotic Literature Addiction Professional Content System)
 

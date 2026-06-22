@@ -1,7 +1,6 @@
 ---
-
 title: "Rural Left-Behind Psychology (留守心理学)"
-description: "Rural Left-Behind Psychology (留守心理学)的详细解析与实践指南"
+description: "Rural Left-Behind Psychology (留守心理学) —— 社会心理学 · Rural Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Rural Psychology"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Rural Left-Behind Psychology"
   - "Rural Left-Behind Psychology的核心概念"
   - "Rural Left-Behind Psychology的方法与实践"
-trigger_keywords: ["addiction", "aging", "anxiety", "attachment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/literature/therapy/Comprehensive_Literary_Therapy_System.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Rural", "Left-Behind", "Psychology", "留守心理学"]
+cross_refs: []
 ---
 # Rural Left-Behind Psychology (留守心理学)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "sikh-meditation | 锡克教冥想 Index"
-description: "sikh-meditation | 锡克教冥想 Index的详细解析与实践指南"
+description: "sikh-meditation | 锡克教冥想 Index —— 冥想 · Sikh Meditation 专题"
 category: "心智与心理学 > 冥想 > Sikh Meditation"
 tags: ["meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是sikh-meditation | 锡克教冥想 Index"
   - "sikh-meditation | 锡克教冥想 Index的核心概念"
   - "sikh-meditation | 锡克教冥想 Index的方法与实践"
-trigger_keywords: ["breathwork", "meditation", "psychology", "冥想"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Yoga_Sutras_Patanjali.md"
-    relation: "meditation/sleep/yoga"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "meditation/sleep/yoga"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Anapanasmrti_Sutra.md"
-    relation: "meditation/sleep/yoga"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
-    relation: "meditation/sleep/yoga"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "meditation/sleep/yoga"
-
+trigger_keywords: ["meditation", "冥想"]
+cross_refs: []
 ---
 # sikh-meditation | 锡克教冥想 Index
 

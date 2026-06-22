@@ -1,7 +1,6 @@
 ---
-
 title: "文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής"
-description: "文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής的详细解析与实践指南"
+description: "文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής —— 实践与个人增长 · 写作 专题"
 category: "实践与个人增长 > 写作"
 tags: ["communication"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής"
   - "文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής的核心概念"
   - "文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής的方法与实践"
-trigger_keywords: ["文学批评深度理论", "art", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/Multi_Perspective_Reviews.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "communication/emotion/neuroscience"
-
+trigger_keywords: ["文学批评深度理论", "Literary", "Criticism", "Deep", "Theory"]
+cross_refs: []
 ---
 # 文学批评深度理论 | Literary Criticism Deep Theory | Βαθιά Θεωρία Λογοτεχνικής Κριτικής
 

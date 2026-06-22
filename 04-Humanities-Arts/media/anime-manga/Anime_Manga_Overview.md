@@ -1,7 +1,6 @@
 ---
-
 title: "动漫概述 | Anime & Manga Overview"
-description: "动漫概述 | Anime & Manga Overview的详细解析与实践指南"
+description: "动漫概述 | Anime & Manga Overview —— 媒体 · Anime Manga 专题"
 category: "人文与艺术疗愈 > 媒体 > Anime Manga"
 tags: ["attachment", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是动漫概述 | Anime & Manga Overview"
   - "动漫概述 | Anime & Manga Overview的核心概念"
   - "动漫概述 | Anime & Manga Overview的方法与实践"
-trigger_keywords: ["动漫概述", "adolescent", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["动漫概述", "Anime", "Manga", "Overview"]
+cross_refs: []
 ---
 # 动漫概述 | Anime & Manga Overview
 

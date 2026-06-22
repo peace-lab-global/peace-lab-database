@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与成瘾戒断康复 | Meditation and Addiction Recovery"
-description: "冥想与成瘾戒断康复 | Meditation and Addiction Recovery的详细解析与实践指南"
+description: "冥想与成瘾戒断康复 | Meditation and Addiction Recovery —— 冥想 · Clinical Conditions 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions"
 tags: ["addiction", "anxiety", "brain", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想与成瘾戒断康复 | Meditation and Addiction Recovery"
   - "冥想与成瘾戒断康复 | Meditation and Addiction Recovery的核心概念"
   - "冥想与成瘾戒断康复 | Meditation and Addiction Recovery的方法与实践"
-trigger_keywords: ["冥想与成瘾戒断康复", "addiction", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "anxiety/emotion/meditation"
-
+trigger_keywords: ["冥想与成瘾戒断康复", "Meditation", "and", "Addiction", "Recovery"]
+cross_refs: []
 ---
 # 冥想与成瘾戒断康复 | Meditation and Addiction Recovery
 

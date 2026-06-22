@@ -1,7 +1,6 @@
 ---
-
 title: "Poor Charlie's Almanack 穷查理宝典"
-description: "Poor Charlie's Almanack 穷查理宝典的详细解析与实践指南"
+description: "Poor Charlie's Almanack 穷查理宝典 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Poor Charlie's Almanack 穷查理宝典"
   - "Poor Charlie's Almanack 穷查理宝典的核心概念"
   - "Poor Charlie's Almanack 穷查理宝典的方法与实践"
-trigger_keywords: ["act", "aging", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/exercise"
-
+trigger_keywords: ["Poor", "Charlie's", "Almanack", "穷查理宝典"]
+cross_refs: []
 ---
 # Poor Charlie's Almanack 穷查理宝典
 

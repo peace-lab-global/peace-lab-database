@@ -1,7 +1,6 @@
 ---
-
 title: "脑机接口系统 (Brain-Computer Interface Systems)"
-description: "脑机接口系统 (Brain-Computer Interface Systems)的详细解析与实践指南"
+description: "脑机接口系统 (Brain-Computer Interface Systems) —— 生物学 · 神经科学 专题"
 category: "生命科学与生物医学 > 生物学 > 神经科学"
 tags: ["bci", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是脑机接口系统"
   - "脑机接口系统的核心概念"
   - "脑机接口系统的方法与实践"
-trigger_keywords: ["脑机接口系统", "assessment", "bci", "brain", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "communication/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/exercise/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/exercise/meditation"
-
+trigger_keywords: ["脑机接口系统", "bci"]
+cross_refs: []
 ---
 # 脑机接口系统 (Brain-Computer Interface Systems)
 

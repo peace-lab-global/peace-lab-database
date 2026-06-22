@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽资源指南 (Yoga Resources Guide)"
-description: "瑜伽资源指南 (Yoga Resources Guide)的详细解析与实践指南"
+description: "瑜伽资源指南 (Yoga Resources Guide) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["meditation", "nutrition", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是瑜伽资源指南"
   - "瑜伽资源指南的核心概念"
   - "瑜伽资源指南的方法与实践"
-trigger_keywords: ["瑜伽资源指南", "act", "breathwork", "clinical", "developmental"]
+trigger_keywords: ["瑜伽资源指南", "Yoga", "Resources", "Guide"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "cardiovascular/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "cardiovascular/exercise/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/yoga/瑜伽经"
 ---
 # 瑜伽资源指南 (Yoga Resources Guide)
 

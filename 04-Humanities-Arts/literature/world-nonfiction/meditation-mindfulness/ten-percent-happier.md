@@ -1,7 +1,6 @@
 ---
-
 title: "《10% Happier》"
-description: "《10% Happier》的详细解析与实践指南"
+description: "《10% Happier》 —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《10% Happier》"
   - "《10% Happier》的核心概念"
   - "《10% Happier》的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "breathwork", "clinical"]
+trigger_keywords: ["《10%", "Happier》"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/meditation/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/industry-leaders/Dan_Harris.md"
+    relation: "happier/dan/harris"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md"
+    relation: "冥想/焦虑"
 ---
 # 《10% Happier》
 

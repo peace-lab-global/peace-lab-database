@@ -1,6 +1,6 @@
 ---
 title: "research | Index"
-description: "research | Index的详细解析与实践指南"
+description: "research | Index —— 身体羞耻 · Research 专题"
 category: "生命科学与生物医学 > 生物学 > 身体羞耻 > Research"
 tags: ["生物学", "身体羞耻"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是research | Index"
   - "research | Index的核心概念"
   - "research | Index的方法与实践"
-trigger_keywords: ["research", "Index", "生物学", "身体羞耻"]
-cross_refs: []
+trigger_keywords: ["research", "生物学", "身体羞耻"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/research/INDEX.md"
+    relation: "research/contents"
 ---
 # research | Index
 

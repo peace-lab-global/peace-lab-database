@@ -1,7 +1,6 @@
 ---
-
 title: "婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework"
-description: "婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework的详细解析与实践指南"
+description: "婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework —— 社会心理学 · Loneliness 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Loneliness"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework"
   - "婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework的核心概念"
   - "婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework的方法与实践"
-trigger_keywords: ["婚内孤独全面加强版", "act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["婚内孤独全面加强版", "Marital", "Loneliness:", "Comprehensive", "Clinical"]
+cross_refs: []
 ---
 # 婚内孤独全面加强版 | Marital Loneliness: Comprehensive Clinical & Sociological Framework
 

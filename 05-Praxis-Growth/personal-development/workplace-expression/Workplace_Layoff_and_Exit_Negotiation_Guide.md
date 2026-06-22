@@ -1,7 +1,6 @@
 ---
-
 title: "被裁员/劝退场景应对方案 (Layoff & Forced Exit Response Guide)"
-description: "被裁员/劝退场景应对方案 (Layoff & Forced Exit Response Guide)的详细解析与实践指南"
+description: "被裁员/劝退场景应对方案 (Layoff & Forced Exit Response Guide) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "decision-making", "stress", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是被裁员/劝退场景应对方案"
   - "被裁员/劝退场景应对方案的核心概念"
   - "被裁员/劝退场景应对方案的方法与实践"
-trigger_keywords: ["被裁员", "劝退场景应对方案", "communication", "decision-making", "emotion", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/cross-cultural/Religious_Psychology_Cross_Cultural_Research.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["被裁员", "劝退场景应对方案", "decision-making"]
+cross_refs: []
 ---
 # 被裁员/劝退场景应对方案 (Layoff & Forced Exit Response Guide)
 

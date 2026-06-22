@@ -1,6 +1,6 @@
 ---
 title: "existential-precursors | Index"
-description: "existential-precursors | Index的详细解析与实践指南"
+description: "existential-precursors | Index —— 19Th Century · Existential Precursors 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century > Existential Precursors"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是existential-precursors | Index"
   - "existential-precursors | Index的核心概念"
   - "existential-precursors | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "existential-precursors"]
 cross_refs: []
 ---
 # existential-precursors | Index

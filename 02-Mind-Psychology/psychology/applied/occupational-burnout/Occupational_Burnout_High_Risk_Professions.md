@@ -1,7 +1,6 @@
 ---
-
 title: "Occupational Burnout: High-Risk Professions (职场倦怠：高风险职业分析)"
-description: "Occupational Burnout: High-Risk Professions (职场倦怠：高风险职业分析)的详细解析与实践指南"
+description: "Occupational Burnout: High-Risk Professions (职场倦怠：高风险职业分析) —— 应用心理学 · Occupational Burnout 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Occupational Burnout"
 tags: ["anxiety", "cortisol", "decision-making", "mbsr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Occupational Burnout: High-Risk Professions"
   - "Occupational Burnout: High-Risk Professions的核心概念"
   - "Occupational Burnout: High-Risk Professions的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "communication"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "anxiety/communication/death"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/death"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["Occupational", "Burnout:", "High-Risk", "Professions", "职场倦怠：高风险职业分析"]
+cross_refs: []
 ---
 # Occupational Burnout: High-Risk Professions (职场倦怠：高风险职业分析)
 

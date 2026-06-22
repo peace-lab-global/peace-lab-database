@@ -1,7 +1,6 @@
 ---
-
 title: "《词与物》The Order of Things"
-description: "《词与物》The Order of Things的详细解析与实践指南"
+description: "《词与物》The Order of Things —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《词与物》The Order of Things"
   - "《词与物》The Order of Things的核心概念"
   - "《词与物》The Order of Things的方法与实践"
-trigger_keywords: ["buddhism", "death", "literature", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/sexuality"
-
+trigger_keywords: ["《词与物》The", "Order", "of", "Things"]
+cross_refs: []
 ---
 # 《词与物》The Order of Things
 

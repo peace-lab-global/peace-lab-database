@@ -1,7 +1,6 @@
 ---
-
 title: "vasana | Index"
-description: "vasana | Index的详细解析与实践指南"
+description: "vasana | Index —— 佛教 · Vasana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vasana"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是vasana | Index"
   - "vasana | Index的核心概念"
   - "vasana | Index的方法与实践"
-trigger_keywords: ["vasana", "Index", "佛教", "宗教与灵性"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/sexuality/yoga"
-
+trigger_keywords: ["vasana", "佛教", "宗教与灵性"]
+cross_refs: []
 ---
 # vasana | Index
 

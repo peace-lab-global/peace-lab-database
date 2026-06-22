@@ -1,7 +1,6 @@
 ---
-
 title: "《敲天堂的门》Knocking on Heaven's Door"
-description: "《敲天堂的门》Knocking on Heaven's Door的详细解析与实践指南"
+description: "《敲天堂的门》Knocking on Heaven's Door —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["decision-making", "intervention", "nutrition", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《敲天堂的门》Knocking on Heaven's Door"
   - "《敲天堂的门》Knocking on Heaven's Door的核心概念"
   - "《敲天堂的门》Knocking on Heaven's Door的方法与实践"
-trigger_keywords: ["aging", "body", "breathwork", "decision-making"]
-cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/cardiovascular/death"
-  - path: "03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md"
-    relation: "aging/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Qigong_Integration.md"
-    relation: "aging/cardiovascular/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/art_therapy/death"
-
+trigger_keywords: ["decision-making", "《敲天堂的门》Knocking", "on", "Heaven's", "Door"]
+cross_refs: []
 ---
 # 《敲天堂的门》Knocking on Heaven's Door
 

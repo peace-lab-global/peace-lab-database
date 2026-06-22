@@ -1,7 +1,6 @@
 ---
-
 title: "佛教仪轨 | Buddhism Rituals Index"
-description: "佛教仪轨 | Buddhism Rituals Index的详细解析与实践指南"
+description: "佛教仪轨 | Buddhism Rituals Index —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "dzogchen", "healing", "mandala", "mindfulness", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是佛教仪轨 | Buddhism Rituals Index"
   - "佛教仪轨 | Buddhism Rituals Index的核心概念"
   - "佛教仪轨 | Buddhism Rituals Index的方法与实践"
-trigger_keywords: ["佛教仪轨", "act", "breathwork", "buddhism", "dzogchen"]
+trigger_keywords: ["佛教仪轨", "dzogchen"]
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/death/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/buddhism/佛教"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
 ---
 # 佛教仪轨 | Buddhism Rituals Index
 

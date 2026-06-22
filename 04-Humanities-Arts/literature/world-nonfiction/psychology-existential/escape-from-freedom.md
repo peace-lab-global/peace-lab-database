@@ -1,7 +1,6 @@
 ---
-
 title: "《逃避自由》Escape from Freedom"
-description: "《逃避自由》Escape from Freedom的详细解析与实践指南"
+description: "《逃避自由》Escape from Freedom —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["freud", "loneliness", "personality", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《逃避自由》Escape from Freedom"
   - "《逃避自由》Escape from Freedom的核心概念"
   - "《逃避自由》Escape from Freedom的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "buddhism", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/ethics/Buddhism_Vinaya_Ethics.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-
+trigger_keywords: ["《逃避自由》Escape", "from", "Freedom"]
+cross_refs: []
 ---
 # 《逃避自由》Escape from Freedom
 

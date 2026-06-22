@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与神经系统疾病 | Meditation and Neurological Disorders"
-description: "冥想与神经系统疾病 | Meditation and Neurological Disorders的详细解析与实践指南"
+description: "冥想与神经系统疾病 | Meditation and Neurological Disorders —— 冥想 · Clinical Conditions 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions"
 tags: ["anxiety", "brain", "mbsr", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是冥想与神经系统疾病 | Meditation and Neurological Disorders"
   - "冥想与神经系统疾病 | Meditation and Neurological Disorders的核心概念"
   - "冥想与神经系统疾病 | Meditation and Neurological Disorders的方法与实践"
-trigger_keywords: ["冥想与神经系统疾病", "act", "anxiety", "assessment", "body"]
+trigger_keywords: ["冥想与神经系统疾病", "Meditation", "and", "Neurological", "Disorders"]
 cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Neurological_Rehabilitation.md"
+    relation: "ms/neurological/mci"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation/障碍"
 ---
 # 冥想与神经系统疾病 | Meditation and Neurological Disorders
 

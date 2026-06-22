@@ -1,7 +1,6 @@
 ---
-
 title: "Death Anxiety Treatment (死亡焦虑治疗)"
-description: "Death Anxiety Treatment (死亡焦虑治疗)的详细解析与实践指南"
+description: "Death Anxiety Treatment (死亡焦虑治疗) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "exercise", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Death Anxiety Treatment"
   - "Death Anxiety Treatment的核心概念"
   - "Death Anxiety Treatment的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Death", "Anxiety", "Treatment", "死亡焦虑治疗"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Treatment.md"
+    relation: "anxiety/treatment/焦虑"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/existential-psychotherapy.md"
+    relation: "existential/死亡/yalom"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/the-will-to-meaning.md"
+    relation: "logotherapy/意义疗法/existential"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
+    relation: "death/死亡/意义疗法"
 ---
 # Death Anxiety Treatment (死亡焦虑治疗)
 

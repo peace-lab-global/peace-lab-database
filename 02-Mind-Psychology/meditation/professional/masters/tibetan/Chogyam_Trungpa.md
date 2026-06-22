@@ -1,7 +1,6 @@
 ---
-
 title: "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）"
-description: "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的详细解析与实践指南"
+description: "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ） —— Masters · Tibetan 专题"
 category: "心智与心理学 > 冥想 > Masters > Tibetan"
 tags: ["meditation", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）"
   - "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的核心概念"
   - "创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "buddhism", "meditation"]
+trigger_keywords: ["meditation", "创巴仁波切", "Chögyam", "Trungpa", "ཆོས་རྒྱམས་དྲུང་པ"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/shambhala.md"
+    relation: "shambhala/warrior/gyam"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/cutting-through-spiritual-materialism.md"
+    relation: "materialism/cutting/gyam"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/brilliant-sanity.md"
+    relation: "shambhala/gyam/trungpa"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-sanity-we-are-born-with.md"
+    relation: "gyam/trungpa/ch"
 ---
 # 创巴仁波切（Chögyam Trungpa / ཆོས་རྒྱམས་དྲུང་པ）
 

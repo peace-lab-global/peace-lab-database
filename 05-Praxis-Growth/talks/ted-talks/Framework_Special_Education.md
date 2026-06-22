@@ -1,7 +1,6 @@
 ---
-
 title: "特殊教育 | Special Education"
-description: "特殊教育 | Special Education的详细解析与实践指南"
+description: "特殊教育 | Special Education —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是特殊教育 | Special Education"
   - "特殊教育 | Special Education的核心概念"
   - "特殊教育 | Special Education的方法与实践"
-trigger_keywords: ["特殊教育", "act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["特殊教育", "Special", "Education"]
+cross_refs: []
 ---
 # 特殊教育 | Special Education
 

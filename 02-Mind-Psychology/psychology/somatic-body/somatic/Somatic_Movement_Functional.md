@@ -1,7 +1,6 @@
 ---
-
 title: "Functional Somatics (功能性躯体运动)"
-description: "Functional Somatics (功能性躯体运动)的详细解析与实践指南"
+description: "Functional Somatics (功能性躯体运动) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Functional Somatics"
   - "Functional Somatics的核心概念"
   - "Functional Somatics的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Functional", "Somatics", "功能性躯体运动"]
+cross_refs: []
 ---
 # Functional Somatics (功能性躯体运动)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "拖延症心理调节专业内容体系"
-description: "拖延症心理调节专业内容体系的详细解析与实践指南"
+description: "拖延症心理调节专业内容体系 —— 个人发展 · 拖延心理 专题"
 category: "实践与个人增长 > 个人发展 > 拖延心理"
 tags: ["cbt", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "拖延症心理调节专业内容体系的核心概念"
   - "拖延症心理调节专业内容体系的方法与实践"
   - "拖延症心理调节专业内容体系的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "breathwork"]
+trigger_keywords: ["拖延症心理调节专业内容体系"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/Terminology_Dictionary.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/social/friendship/Friendship_Intervention_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Cognitive_Restructuring.md"
+    relation: "拖延/认知重构"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Perfectionism_Procrastination.md"
+    relation: "拖延/认知重构"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Psychology_of_Procrastination.md"
+    relation: "拖延/情绪调节"
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Anxiety_Procrastination.md"
+    relation: "拖延/焦虑"
 ---
 # 拖延症心理调节专业内容体系
 

@@ -1,7 +1,6 @@
 ---
-
 title: "门德尔松e小调小提琴协奏曲治疗应用实践"
-description: "门德尔松e小调小提琴协奏曲治疗应用实践的详细解析与实践指南"
+description: "门德尔松e小调小提琴协奏曲治疗应用实践 —— Mendelssohn Violin Concertos · Op64 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Violin Concertos > Op64"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "门德尔松e小调小提琴协奏曲治疗应用实践的核心概念"
   - "门德尔松e小调小提琴协奏曲治疗应用实践的方法与实践"
   - "门德尔松e小调小提琴协奏曲治疗应用实践的循证证据"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["门德尔松e小调小提琴协奏曲治疗应用实践"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
   - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/depression"
-
+    relation: "团体治疗/家庭治疗"
+  - path: "02-Mind-Psychology/psychology/clinical/obsessive-compulsive/Obsessive_Compulsive_Cleaning_Treatment.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Clinical_Intervention.md"
+    relation: "家庭治疗/团体治疗"
+  - path: "02-Mind-Psychology/psychology/applied/holiday-psychology/Holiday_Psychology_Clinical_Intervention.md"
+    relation: "家庭治疗/亲子"
 ---
 # 门德尔松e小调小提琴协奏曲治疗应用实践
 

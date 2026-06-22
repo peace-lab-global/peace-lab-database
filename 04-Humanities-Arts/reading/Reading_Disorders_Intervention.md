@@ -1,7 +1,6 @@
 ---
-
 title: "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης"
-description: "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的详细解析与实践指南"
+description: "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题"
 category: "人文与艺术疗愈 > 阅读"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης"
   - "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的核心概念"
   - "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的方法与实践"
-trigger_keywords: ["阅读障碍干预体系", "aging", "assessment", "behavioral", "brain"]
+trigger_keywords: ["阅读障碍干预体系", "Reading", "Disorders", "Intervention", "System"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "aging/art_therapy/neuroscience"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/neuroscience/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Anxiety_Disorders.md"
+    relation: "障碍/disorders/神经可塑性"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Clinical_Diagnosis.md"
+    relation: "障碍/disorders"
 ---
 # 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης
 

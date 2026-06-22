@@ -1,7 +1,6 @@
 ---
-
 title: "韩国佛教梵呗仪轨 (Korean Buddhist Beompae / Chanting Rituals)"
-description: "韩国佛教梵呗仪轨 (Korean Buddhist Beompae / Chanting Rituals)的详细解析与实践指南"
+description: "韩国佛教梵呗仪轨 (Korean Buddhist Beompae / Chanting Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是韩国佛教梵呗仪轨"
   - "韩国佛教梵呗仪轨的核心概念"
   - "韩国佛教梵呗仪轨的方法与实践"
-trigger_keywords: ["韩国佛教梵呗仪轨", "act", "anxiety", "breathwork", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "anxiety/buddhism/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/neuroscience"
-
+trigger_keywords: ["韩国佛教梵呗仪轨", "Korean", "Buddhist", "Beompae", "Chanting"]
+cross_refs: []
 ---
 # 韩国佛教梵呗仪轨 (Korean Buddhist Beompae / Chanting Rituals)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Islamic Psychology & Tazkiyah (伊斯兰心理与净心术)"
-description: "Islamic Psychology & Tazkiyah (伊斯兰心理与净心术)的详细解析与实践指南"
+description: "Islamic Psychology & Tazkiyah (伊斯兰心理与净心术) —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["addiction", "attachment", "islam"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Islamic Psychology & Tazkiyah"
   - "Islamic Psychology & Tazkiyah的核心概念"
   - "Islamic Psychology & Tazkiyah的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["Islamic", "Psychology", "Tazkiyah", "伊斯兰心理与净心术"]
+cross_refs: []
 ---
 # Islamic Psychology & Tazkiyah (伊斯兰心理与净心术)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑的政策分析与治理体系"
-description: "性焦虑的政策分析与治理体系的详细解析与实践指南"
+description: "性焦虑的政策分析与治理体系 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "性焦虑的政策分析与治理体系的核心概念"
   - "性焦虑的政策分析与治理体系的方法与实践"
   - "性焦虑的政策分析与治理体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["性焦虑的政策分析与治理体系"]
+cross_refs: []
 ---
 # 性焦虑的政策分析与治理体系
 

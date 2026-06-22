@@ -1,7 +1,6 @@
 ---
-
 title: "Peace Lab Database (平静实验室知识库)"
-description: "Peace Lab Database (平静实验室知识库)的详细解析与实践指南"
+description: "Peace Lab Database (平静实验室知识库) —— general 专题"
 category: "general"
 tags: ["addiction", "ballet", "bci"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Peace Lab Database"
   - "Peace Lab Database的核心概念"
   - "Peace Lab Database的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "art", "assessment"]
+trigger_keywords: ["Peace", "Lab", "Database", "平静实验室知识库"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "02-Mind-Psychology/INDEX.md"
+    relation: "mind-psychology/psychology/somatic-body"
 ---
 # Peace Lab Database (平静实验室知识库)
 
@@ -188,12 +178,14 @@ Agent Skills 遵循以下设计原则：
 ---
 
 ## 项目统计 (Statistics)
-- **专题领域**: 189+
-- **专业文档**: 2,400+
-- **核心行数**: 480,000+
+
+> 📊 数据由 `Tools/scripts/readme-stats.py` 自动生成（2026-06），请勿手动编辑。
+
+- **专题领域**: 559+
+- **专业文档**: 4,094+
+- **核心行数**: 915,107+
 - **更新频率**: 每日迭代 (Daily Iteration)
 
----
 
 ## 最近更新 (Recent Updates)
 

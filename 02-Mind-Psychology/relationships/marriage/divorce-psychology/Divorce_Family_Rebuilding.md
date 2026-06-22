@@ -1,7 +1,6 @@
 ---
-
 title: "离婚后家庭重建与亲子关系修复"
-description: "离婚后家庭重建与亲子关系修复的详细解析与实践指南"
+description: "离婚后家庭重建与亲子关系修复 —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是离婚后家庭重建与亲子关系修复"
   - "离婚后家庭重建与亲子关系修复的核心概念"
   - "离婚后家庭重建与亲子关系修复的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["离婚后家庭重建与亲子关系修复"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/incest/Incest_Research_Framework.md"
+    relation: "亲子/创伤"
 ---
 # 离婚后家庭重建与亲子关系修复
 

@@ -1,7 +1,6 @@
 ---
-
 title: "宇宙学 | Cosmology"
-description: "宇宙学 | Cosmology的详细解析与实践指南"
+description: "宇宙学 | Cosmology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["literature", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是宇宙学 | Cosmology"
   - "宇宙学 | Cosmology的核心概念"
   - "宇宙学 | Cosmology的方法与实践"
-trigger_keywords: ["宇宙学", "Cosmology", "cognitive", "exercise", "literature", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/yijing/Buddhist_Perspective_Reviews.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/exercise/sexuality"
-
+trigger_keywords: ["宇宙学", "Cosmology", "exercise"]
+cross_refs: []
 ---
 # 宇宙学 | Cosmology
 

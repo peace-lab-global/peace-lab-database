@@ -13,8 +13,8 @@ intent_queries:
   - "太极学习资源"
 trigger_keywords: ["书单", "资源", "视频", "APP", "网站"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/resources/TaiChi_Learning_Pathways.md"
-    relation: "learning-pathways"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 学习资源 | Tai Chi Books, Media & Resources
 

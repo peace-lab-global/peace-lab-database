@@ -1,7 +1,6 @@
 ---
-
 title: "巴哈伊信仰冥想 (Bahá'í Meditation)"
-description: "巴哈伊信仰冥想 (Bahá'í Meditation)的详细解析与实践指南"
+description: "巴哈伊信仰冥想 (Bahá'í Meditation) —— 冥想 · Bahai Meditation 专题"
 category: "心智与心理学 > 冥想 > Bahai Meditation"
 tags: ["meditation", "social", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是巴哈伊信仰冥想"
   - "巴哈伊信仰冥想的核心概念"
   - "巴哈伊信仰冥想的方法与实践"
-trigger_keywords: ["巴哈伊信仰冥想", "meditation", "sexuality", "social", "spirituality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Theravada_Uposatha.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Samatha_Vipasyana.md"
-    relation: "meditation/nutrition/sexuality"
-
+trigger_keywords: ["巴哈伊信仰冥想", "meditation", "social", "spirituality"]
+cross_refs: []
 ---
 # 巴哈伊信仰冥想 (Bahá'í Meditation)
 

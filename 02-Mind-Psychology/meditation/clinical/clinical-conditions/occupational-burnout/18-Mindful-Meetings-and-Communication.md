@@ -1,7 +1,6 @@
 ---
-
 title: "18. 正念会议与沟通 | Mindful Meetings & Communication"
-description: "18. 正念会议与沟通 | Mindful Meetings & Communication的详细解析与实践指南"
+description: "18. 正念会议与沟通 | Mindful Meetings & Communication —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是18. 正念会议与沟通 | Mindful Meetings & Communication"
   - "18. 正念会议与沟通 | Mindful Meetings & Communication的核心概念"
   - "18. 正念会议与沟通 | Mindful Meetings & Communication的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["18.", "正念会议与沟通", "Mindful", "Meetings", "Communication"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/觉察"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md"
+    relation: "沟通/communication"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "mindful/正念/觉察"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md"
+    relation: "正念/mindful/觉察"
 ---
 # 18. 正念会议与沟通 | Mindful Meetings & Communication
 

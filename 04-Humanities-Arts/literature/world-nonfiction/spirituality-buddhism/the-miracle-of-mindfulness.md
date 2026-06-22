@@ -1,7 +1,6 @@
 ---
-
 title: "《正念的奇迹》The Miracle of Mindfulness"
-description: "《正念的奇迹》The Miracle of Mindfulness的详细解析与实践指南"
+description: "《正念的奇迹》The Miracle of Mindfulness —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《正念的奇迹》The Miracle of Mindfulness"
   - "《正念的奇迹》The Miracle of Mindfulness的核心概念"
   - "《正念的奇迹》The Miracle of Mindfulness的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["《正念的奇迹》The", "Miracle", "of", "Mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/作业/C4-homework.md"
+    relation: "呼吸/锚定/专注"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md"
+    relation: "专注/锚定/呼吸"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/感知当下.md"
+    relation: "锚定/正念"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/专注数息.md"
+    relation: "呼吸/专注/冥想"
 ---
 # 《正念的奇迹》The Miracle of Mindfulness
 

@@ -1,5 +1,4 @@
 ---
-
 title: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview"
 description: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview的详细解析与实践指南"
 category: "心智与心理学 > 冥想 > Mbct Program"
@@ -13,18 +12,7 @@ intent_queries:
   - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的核心概念"
   - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的方法与实践"
 trigger_keywords: ["act", "dmn", "mbct", "mbsr"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "depression/meditation/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "depression/meditation/neuroscience"
-
+cross_refs: []
 ---
 # æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview
 

@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞概览 (Ballet Overview)"
-description: "芭蕾舞概览 (Ballet Overview)的详细解析与实践指南"
+description: "芭蕾舞概览 (Ballet Overview) —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是芭蕾舞概览"
   - "芭蕾舞概览的核心概念"
   - "芭蕾舞概览的方法与实践"
-trigger_keywords: ["芭蕾舞概览", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["芭蕾舞概览", "Ballet", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet/舞蹈"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Ballet_Dancer_Fetishism.md"
+    relation: "芭蕾/ballet/characteristics"
 ---
 # 芭蕾舞概览 (Ballet Overview)
 

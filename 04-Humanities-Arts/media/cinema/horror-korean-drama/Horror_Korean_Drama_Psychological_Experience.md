@@ -1,7 +1,6 @@
 ---
-
 title: "恐怖韩剧心理体验专业内容体系"
-description: "恐怖韩剧心理体验专业内容体系的详细解析与实践指南"
+description: "恐怖韩剧心理体验专业内容体系 —— 电影 · Horror Korean Drama 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Horror Korean Drama"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "恐怖韩剧心理体验专业内容体系的核心概念"
   - "恐怖韩剧心理体验专业内容体系的方法与实践"
   - "恐怖韩剧心理体验专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["恐怖韩剧心理体验专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/anxiety/art_therapy"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
+    relation: "共情/人格"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/emotional-regulation/Adolescent_Emotional_Regulation_Mental_Health.md"
+    relation: "情绪调节/共情/恐惧"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "恐惧/人格"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/03-Mindfulness-Mechanisms.md"
+    relation: "人格/共情"
 ---
 # 恐怖韩剧心理体验专业内容体系
 

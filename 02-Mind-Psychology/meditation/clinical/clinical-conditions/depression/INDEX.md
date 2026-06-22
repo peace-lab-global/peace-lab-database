@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide"
-description: "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide的详细解析与实践指南"
+description: "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "brain", "depression", "mbsr", "sleep", "mindfulness"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide的核心概念"
   - "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide的方法与实践"
   - "冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["冥想与抑郁症", "模块化临床指南", "Meditation", "and", "Depression"]
+cross_refs: []
 ---
 # 冥想与抑郁症 — 模块化临床指南 | Meditation and Depression — Modular Guide
 

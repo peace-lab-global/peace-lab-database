@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽经（Yoga Sūtra）"
-description: "瑜伽经（Yoga Sūtra）的详细解析与实践指南"
+description: "瑜伽经（Yoga Sūtra） —— India · Scriptures 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Scriptures"
 tags: ["meditation", "philosophy", "sleep", "yoga", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是瑜伽经（Yoga Sūtra）"
   - "瑜伽经（Yoga Sūtra）的核心概念"
   - "瑜伽经（Yoga Sūtra）的方法与实践"
-trigger_keywords: ["breathwork", "cognitive", "meditation", "philosophy"]
+trigger_keywords: ["meditation", "瑜伽经", "Yoga", "Sūtra"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/09-Comorbidities.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/courses/course/C4-3-breathing-as-anchor.md"
-    relation: "meditation/sexuality/sleep"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "meditation/sexuality/sleep"
-
+  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/Yoga_Meditation_Overview.md"
+    relation: "瑜伽/瑜伽经/yoga"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
+    relation: "瑜伽经/瑜伽/帕坦伽利"
 ---
 # 瑜伽经（Yoga Sūtra）
 

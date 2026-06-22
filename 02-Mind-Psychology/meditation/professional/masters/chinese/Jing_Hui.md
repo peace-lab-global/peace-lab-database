@@ -1,7 +1,6 @@
 ---
-
 title: "净慧长老 (Jing Hui / Master Jing Hui)"
-description: "净慧长老 (Jing Hui / Master Jing Hui)的详细解析与实践指南"
+description: "净慧长老 (Jing Hui / Master Jing Hui) —— Masters · Chinese 专题"
 category: "心智与心理学 > 冥想 > Masters > Chinese"
 tags: ["meditation", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是净慧长老"
   - "净慧长老的核心概念"
   - "净慧长老的方法与实践"
-trigger_keywords: ["净慧长老", "act", "body", "buddhism", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Zeno.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-
+trigger_keywords: ["净慧长老", "Jing", "Hui", "Master"]
+cross_refs: []
 ---
 # 净慧长老 (Jing Hui / Master Jing Hui)
 

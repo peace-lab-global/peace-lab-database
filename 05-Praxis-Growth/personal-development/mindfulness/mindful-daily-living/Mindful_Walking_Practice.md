@@ -1,7 +1,6 @@
 ---
-
 title: "正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)"
-description: "正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)的详细解析与实践指南"
+description: "正念行走专业实践指南 (Mindful Walking: Professional Practice Guide) —— Mindfulness · Mindful Daily Living 专题"
 category: "实践与个人增长 > 个人发展 > Mindfulness > Mindful Daily Living"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是正念行走专业实践指南"
   - "正念行走专业实践指南的核心概念"
   - "正念行走专业实践指南的方法与实践"
-trigger_keywords: ["正念行走专业实践指南", "act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["正念行走专业实践指南", "Mindful", "Walking:", "Professional", "Practice"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Overview.md"
+    relation: "walking/正念/table"
+  - path: "02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Techniques.md"
+    relation: "walking/正念/table"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/神经科学"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
+    relation: "正念/mindful/table"
 ---
 # 正念行走专业实践指南 (Mindful Walking: Professional Practice Guide)
 

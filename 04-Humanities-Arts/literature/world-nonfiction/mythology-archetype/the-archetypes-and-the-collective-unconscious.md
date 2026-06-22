@@ -1,7 +1,6 @@
 ---
-
 title: "《原型与集体无意识》The Archetypes and the Collective Unconscious"
-description: "《原型与集体无意识》The Archetypes and the Collective Unconscious的详细解析与实践指南"
+description: "《原型与集体无意识》The Archetypes and the Collective Unconscious —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["jung", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《原型与集体无意识》The Archetypes and the Collective Unconscious"
   - "《原型与集体无意识》The Archetypes and the Collective Unconscious的核心概念"
   - "《原型与集体无意识》The Archetypes and the Collective Unconscious的方法与实践"
-trigger_keywords: ["buddhism", "death", "jung", "psychology"]
+trigger_keywords: ["jung", "《原型与集体无意识》The", "Archetypes", "and", "the"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/world-is-a-playground/Book_Review.md"
-    relation: "buddhism/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Authorities_Lineage.md"
+    relation: "unconscious/archetypes/collective"
 ---
 # 《原型与集体无意识》The Archetypes and the Collective Unconscious
 

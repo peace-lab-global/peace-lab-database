@@ -1,7 +1,6 @@
 ---
-
 title: "《伊凡·伊里奇之死》The Death of Ivan Ilyich"
-description: "《伊凡·伊里奇之死》The Death of Ivan Ilyich的详细解析与实践指南"
+description: "《伊凡·伊里奇之死》The Death of Ivan Ilyich —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature", "marriage", "pain", "phobia", "religion", "social"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《伊凡·伊里奇之死》The Death of Ivan Ilyich"
   - "《伊凡·伊里奇之死》The Death of Ivan Ilyich的核心概念"
   - "《伊凡·伊里奇之死》The Death of Ivan Ilyich的方法与实践"
-trigger_keywords: ["《伊凡", "death", "literature", "marriage", "pain"]
+trigger_keywords: ["《伊凡", "marriage", "pain"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Special_Loss_Types.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
-    relation: "anxiety/attachment/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/attachment/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/death/死亡"
 ---
 # 《伊凡·伊里奇之死》The Death of Ivan Ilyich
 

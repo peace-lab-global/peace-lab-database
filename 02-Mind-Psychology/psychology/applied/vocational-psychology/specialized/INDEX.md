@@ -1,6 +1,6 @@
 ---
 title: "specialized | Index"
-description: "specialized | Index的详细解析与实践指南"
+description: "specialized | Index —— Vocational Psychology · Specialized 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Vocational Psychology > Specialized"
 tags: ["应用心理学", "心理学"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是specialized | Index"
   - "specialized | Index的核心概念"
   - "specialized | Index的方法与实践"
-trigger_keywords: ["Index", "应用心理学", "心理学"]
-cross_refs: []
+trigger_keywords: ["应用心理学", "心理学"]
+cross_refs:
+  - path: "03-Bio-Science/biology/body-shame/obesity/INDEX.md"
+    relation: "specialized/contents"
 ---
 # specialized | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης"
-description: "自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης的详细解析与实践指南"
+description: "自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης —— 个人发展 · Social Media 专题"
 category: "实践与个人增长 > 个人发展 > Social Media"
 tags: ["decision-making", "productivity", "个人发展", "flow"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης"
   - "自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης的核心概念"
   - "自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης的方法与实践"
-trigger_keywords: ["自媒体数据分析体系", "assessment", "behavioral", "decision-making", "developmental"]
+trigger_keywords: ["自媒体数据分析体系", "decision-making"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/Buddhist_Perspective_Reviews.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "neuroscience/productivity/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/research/Vocational_Psychology_Research_Methods.md"
+    relation: "data/system/analysis"
 ---
 # 自媒体数据分析体系 | Data Analysis System for Social Media | Σύστημα Ανάλυσης Δεδομένων για τα Μέσα Κοινωνικής Δικτύωσης
 

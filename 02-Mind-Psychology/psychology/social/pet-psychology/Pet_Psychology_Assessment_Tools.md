@@ -1,7 +1,6 @@
 ---
-
 title: "宠物心理学评估诊断工具专业内容体系"
-description: "宠物心理学评估诊断工具专业内容体系的详细解析与实践指南"
+description: "宠物心理学评估诊断工具专业内容体系 —— 社会心理学 · Pet Psychology 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Pet Psychology"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "宠物心理学评估诊断工具专业内容体系的核心概念"
   - "宠物心理学评估诊断工具专业内容体系的方法与实践"
   - "宠物心理学评估诊断工具专业内容体系的自助方法"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["宠物心理学评估诊断工具专业内容体系"]
+cross_refs: []
 ---
 # 宠物心理学评估诊断工具专业内容体系
 

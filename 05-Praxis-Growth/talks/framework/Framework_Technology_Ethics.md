@@ -1,7 +1,6 @@
 ---
-
 title: "科技伦理 | Technology Ethics"
-description: "科技伦理 | Technology Ethics的详细解析与实践指南"
+description: "科技伦理 | Technology Ethics —— 讲座 · Framework 专题"
 category: "实践与个人增长 > 讲座 > Framework"
 tags: ["addiction", "bci", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是科技伦理 | Technology Ethics"
   - "科技伦理 | Technology Ethics的核心概念"
   - "科技伦理 | Technology Ethics的方法与实践"
-trigger_keywords: ["科技伦理", "act", "addiction", "assessment", "bci"]
+trigger_keywords: ["科技伦理", "bci"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/pre-socratics/Democritus.md"
-    relation: "neuroscience/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/meditation/applications/meditation-technology/INDEX.md"
+    relation: "technology/ai"
 ---
 # 科技伦理 | Technology Ethics
 

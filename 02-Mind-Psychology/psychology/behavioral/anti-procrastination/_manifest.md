@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-Procrastination Agent Skills — 技能注册清单"
-description: "Anti-Procrastination Agent Skills — 技能注册清单的详细解析与实践指南"
+description: "Anti-Procrastination Agent Skills — 技能注册清单 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["decision-making", "habits", "social", "心理学", "行为心理", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Anti-Procrastination Agent Skills — 技能注册清单"
   - "Anti-Procrastination Agent Skills — 技能注册清单的核心概念"
   - "Anti-Procrastination Agent Skills — 技能注册清单的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "decision-making"]
+trigger_keywords: ["decision-making", "Anti-Procrastination", "Agent", "Skills", "技能注册清单"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "productivity/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Plotinus.md"
-    relation: "productivity/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/INDEX.md"
+    relation: "拖延/procrastination"
+  - path: "05-Praxis-Growth/personal-development/procrastination/01_拖延症概述.md"
+    relation: "拖延/procrastination"
 ---
 # Anti-Procrastination Agent Skills — 技能注册清单
 

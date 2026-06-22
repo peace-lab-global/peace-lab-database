@@ -1,6 +1,6 @@
 ---
 title: "chronic-stress | Index"
-description: "chronic-stress | Index的详细解析与实践指南"
+description: "chronic-stress | Index —— 压力与HPA轴 · Chronic Stress 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴 > Chronic Stress"
 tags: ["压力与HPA轴", "心理学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是chronic-stress | Index"
   - "chronic-stress | Index的核心概念"
   - "chronic-stress | Index的方法与实践"
-trigger_keywords: ["Index", "压力与HPA轴", "心理学"]
+trigger_keywords: ["压力与HPA轴", "心理学"]
 cross_refs: []
 ---
 # chronic-stress | Index

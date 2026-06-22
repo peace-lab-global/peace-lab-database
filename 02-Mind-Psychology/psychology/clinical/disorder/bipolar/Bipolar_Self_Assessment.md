@@ -1,7 +1,6 @@
 ---
-
 title: "Bipolar Disorder Self-Assessment & Screening (双相障碍自我评估与筛查指南)"
-description: "Bipolar Disorder Self-Assessment & Screening (双相障碍自我评估与筛查指南)的详细解析与实践指南"
+description: "Bipolar Disorder Self-Assessment & Screening (双相障碍自我评估与筛查指南) —— 精神障碍 · Bipolar 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Bipolar"
 tags: ["anxiety", "brain", "cbt", "depression", "bipolar", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Bipolar Disorder Self-Assessment & Screening"
   - "Bipolar Disorder Self-Assessment & Screening的核心概念"
   - "Bipolar Disorder Self-Assessment & Screening的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md"
-    relation: "anxiety/depression/neuroscience"
-  - path: "03-Bio-Science/death/Death_Modern_Issues.md"
-    relation: "anxiety/depression/neuroscience"
-
+trigger_keywords: ["Bipolar", "Disorder", "Self-Assessment", "Screening", "双相障碍自我评估与筛查指南"]
+cross_refs: []
 ---
 # Bipolar Disorder Self-Assessment & Screening (双相障碍自我评估与筛查指南)
 

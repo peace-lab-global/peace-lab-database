@@ -1,7 +1,6 @@
 ---
-
 title: "性焦虑研究的未来趋势与战略规划"
-description: "性焦虑研究的未来趋势与战略规划的详细解析与实践指南"
+description: "性焦虑研究的未来趋势与战略规划 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging", "brain", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "性焦虑研究的未来趋势与战略规划的核心概念"
   - "性焦虑研究的未来趋势与战略规划的方法与实践"
   - "性焦虑研究的未来趋势与战略规划的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/emotion"
-
+trigger_keywords: ["性焦虑研究的未来趋势与战略规划"]
+cross_refs: []
 ---
 # 性焦虑研究的未来趋势与战略规划
 

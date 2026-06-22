@@ -1,7 +1,6 @@
 ---
-
 title: "梦的心理学 | Dream Psychology"
-description: "梦的心理学 | Dream Psychology的详细解析与实践指南"
+description: "梦的心理学 | Dream Psychology —— 特殊专题 · Dream Psychology 专题"
 category: "心智与心理学 > 心理学 > 特殊专题 > Dream Psychology"
 tags: ["emdr", "freud", "intervention", "jung", "meditation", "trauma"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "梦的心理学 | Dream Psychology的核心概念"
   - "梦的心理学 | Dream Psychology的方法与实践"
   - "梦的心理学 | Dream Psychology的自助方法"
-trigger_keywords: ["梦的心理学", "act", "buddhism", "death", "emdr"]
-cross_refs:
-  - path: "README.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "buddhism/death/meditation"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
-    relation: "buddhism/death/meditation"
-
+trigger_keywords: ["梦的心理学", "emdr"]
+cross_refs: []
 ---
 # 梦的心理学 | Dream Psychology
 

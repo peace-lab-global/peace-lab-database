@@ -1,7 +1,6 @@
 ---
-
 title: "女性生理健康 | Women's Health"
-description: "女性生理健康 | Women's Health的详细解析与实践指南"
+description: "女性生理健康 | Women's Health —— 生物学 · Womens Health 专题"
 category: "生命科学与生物医学 > 生物学 > Womens Health"
 tags: ["cardiovascular", "hpa-axis", "nutrition", "sexuality", "tai-chi", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是女性生理健康 | Women's Health"
   - "女性生理健康 | Women's Health的核心概念"
   - "女性生理健康 | Women's Health的方法与实践"
-trigger_keywords: ["女性生理健康", "cardiovascular", "hpa-axis", "nutrition", "psychology"]
+trigger_keywords: ["女性生理健康", "cardiovascular", "hpa-axis", "nutrition"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/daoism/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "daoism/exercise/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/daoism/exercise"
-  - path: "README.md"
-    relation: "cardiovascular/daoism/nutrition"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "cardiovascular/daoism/exercise"
-
+  - path: "01-Wisdom-Traditions/yoga/specific-populations/Yoga_Women_Health.md"
+    relation: "women/yoga/menstrual"
+  - path: "01-Wisdom-Traditions/tai-chi/special-populations/TaiChi_Pregnancy_Womens_Health.md"
+    relation: "women/health/pregnancy"
 ---
 # 女性生理健康 | Women's Health
 

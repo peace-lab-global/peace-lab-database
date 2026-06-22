@@ -1,7 +1,6 @@
 ---
-
 title: "Psychological and Relationship Factors (心理与关系因素)"
-description: "Psychological and Relationship Factors (心理与关系因素)的详细解析与实践指南"
+description: "Psychological and Relationship Factors (心理与关系因素) —— 性学 · Male Sexual Health 专题"
 category: "生命科学与生物医学 > 性学 > Male Sexual Health"
 tags: ["attachment", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Psychological and Relationship Factors"
   - "Psychological and Relationship Factors的核心概念"
   - "Psychological and Relationship Factors的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["Psychological", "and", "Relationship", "Factors", "心理与关系因素"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
   - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+    relation: "依恋/沟通/倾听"
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "依恋/沟通/倾听"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_10_Love_Relationships.md"
+    relation: "沟通/依恋/焦虑"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "依恋/沟通/焦虑"
 ---
 # Psychological and Relationship Factors (心理与关系因素)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《商君书》The Book of Lord Shang"
-description: "《商君书》The Book of Lord Shang的详细解析与实践指南"
+description: "《商君书》The Book of Lord Shang —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "productivity", "spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《商君书》The Book of Lord Shang"
   - "《商君书》The Book of Lord Shang的核心概念"
   - "《商君书》The Book of Lord Shang的方法与实践"
-trigger_keywords: ["buddhism", "daoism", "death", "productivity"]
+trigger_keywords: ["daoism", "productivity"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/daoism/death"
-
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "道家/无为"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
 ---
 # 《商君书》The Book of Lord Shang
 

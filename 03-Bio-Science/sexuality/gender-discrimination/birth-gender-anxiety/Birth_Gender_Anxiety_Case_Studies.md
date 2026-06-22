@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)"
-description: "Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Case Studies"
   - "Birth Gender Anxiety: Case Studies的核心概念"
   - "Birth Gender Anxiety: Case Studies的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Case", "Studies"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/visualization/Loneliness_Solitude_Case_Vignettes.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/special-topics/dream-psychology/Dream_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Neuroscience_Integration.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Family_Rebuilding.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Case_Studies.md"
+    relation: "information/case/outcome"
 ---
 # Birth Gender Anxiety: Case Studies (生育性别焦虑案例汇编)
 

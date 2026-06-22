@@ -1,7 +1,6 @@
 ---
-
 title: "止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)"
-description: "止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)的详细解析与实践指南"
+description: "止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation) —— 冥想 · Samatha Vipassana 专题"
 category: "心智与心理学 > 冥想 > Samatha Vipassana"
 tags: ["anxiety", "brain", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是止观禅修神经科学研究"
   - "止观禅修神经科学研究的核心概念"
   - "止观禅修神经科学研究的方法与实践"
-trigger_keywords: ["止观禅修神经科学研究", "act", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["止观禅修神经科学研究", "Neuroscience", "of", "Samatha-Vipassana", "Meditation"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "04-Humanities-Arts/reading/Reading_Neuroscience.md"
+    relation: "fmri/neuroscience/神经科学"
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Neuroscience_Mechanisms.md"
+    relation: "fmri/neuroscience/神经科学"
 ---
 # 止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)
 

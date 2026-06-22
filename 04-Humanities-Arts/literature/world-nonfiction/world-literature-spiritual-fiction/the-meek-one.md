@@ -1,7 +1,6 @@
 ---
-
 title: "《温顺的女人》The Meek One"
-description: "《温顺的女人》The Meek One的详细解析与实践指南"
+description: "《温顺的女人》The Meek One —— World Nonfiction · World Literature Spiritual Fiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Literature Spiritual Fiction"
 tags: ["habits", "literature", "loneliness", "marriage"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《温顺的女人》The Meek One"
   - "《温顺的女人》The Meek One的核心概念"
   - "《温顺的女人》The Meek One的方法与实践"
-trigger_keywords: ["aging", "brain", "breathwork", "habits"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/attachment/depression"
-  - path: "02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/Compassion_Focused_Therapy.md"
-    relation: "aging/attachment/depression"
-
+trigger_keywords: ["habits", "《温顺的女人》The", "Meek", "One"]
+cross_refs: []
 ---
 # 《温顺的女人》The Meek One
 

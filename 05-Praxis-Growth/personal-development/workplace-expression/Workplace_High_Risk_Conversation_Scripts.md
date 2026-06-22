@@ -1,7 +1,6 @@
 ---
-
 title: "高风险对话话术清单 (High-Stakes Conversation Scripts)"
-description: "高风险对话话术清单 (High-Stakes Conversation Scripts)的详细解析与实践指南"
+description: "高风险对话话术清单 (High-Stakes Conversation Scripts) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "leadership", "personality", "个人发展"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是高风险对话话术清单"
   - "高风险对话话术清单的核心概念"
   - "高风险对话话术清单的方法与实践"
-trigger_keywords: ["高风险对话话术清单", "communication", "emotion", "leadership", "personality"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/ShenCongwen_Works_Analysis.md"
-    relation: "communication/emotion/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "communication/emotion/personality"
-
+trigger_keywords: ["高风险对话话术清单", "leadership", "personality"]
+cross_refs: []
 ---
 # 高风险对话话术清单 (High-Stakes Conversation Scripts)
 

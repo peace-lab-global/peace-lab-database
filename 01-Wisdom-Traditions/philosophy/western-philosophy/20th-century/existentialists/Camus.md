@@ -1,7 +1,6 @@
 ---
-
 title: "阿尔贝·加缪 (Albert Camus) - 哲学思想全览"
-description: "阿尔贝·加缪 (Albert Camus) - 哲学思想全览的详细解析与实践指南"
+description: "阿尔贝·加缪 (Albert Camus) - 哲学思想全览 —— 20Th Century · Existentialists 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
 tags: ["philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是阿尔贝·加缪  - 哲学思想全览"
   - "阿尔贝·加缪  - 哲学思想全览的核心概念"
   - "阿尔贝·加缪  - 哲学思想全览的方法与实践"
-trigger_keywords: ["阿尔贝", "anxiety", "art", "death", "developmental"]
+trigger_keywords: ["阿尔贝", "加缪", "Albert", "Camus", "哲学思想全览"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_19_Social_Community.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "anxiety/death/depression"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/the-stranger.md"
+    relation: "camus/albert/存在主义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-myth-of-sisyphus.md"
+    relation: "camus/albert/存在主义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/world-literature-spiritual-fiction/the-plague.md"
+    relation: "camus/albert/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/mythology-archetype/the-rebel.md"
+    relation: "camus/albert/死亡"
 ---
 # 阿尔贝·加缪 (Albert Camus) - 哲学思想全览
 

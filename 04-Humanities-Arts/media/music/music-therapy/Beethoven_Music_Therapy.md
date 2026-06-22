@@ -1,7 +1,6 @@
 ---
-
 title: "贝多芬音乐疗愈 (Beethoven Music Therapy)"
-description: "贝多芬音乐疗愈 (Beethoven Music Therapy)的详细解析与实践指南"
+description: "贝多芬音乐疗愈 (Beethoven Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["cardiovascular"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是贝多芬音乐疗愈"
   - "贝多芬音乐疗愈的核心概念"
   - "贝多芬音乐疗愈的方法与实践"
-trigger_keywords: ["贝多芬音乐疗愈", "act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Self_Help_Protocols.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-
+trigger_keywords: ["贝多芬音乐疗愈", "Beethoven", "Music", "Therapy"]
+cross_refs: []
 ---
 # 贝多芬音乐疗愈 (Beethoven Music Therapy)
 

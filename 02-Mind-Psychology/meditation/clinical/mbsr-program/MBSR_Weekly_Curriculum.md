@@ -1,7 +1,6 @@
 ---
-
 title: "MBSR 八周课程详细设计 | MBSR Weekly Curriculum"
-description: "MBSR 八周课程详细设计 | MBSR Weekly Curriculum的详细解析与实践指南"
+description: "MBSR 八周课程详细设计 | MBSR Weekly Curriculum —— 冥想 · 正念减压课程 专题"
 category: "心智与心理学 > 冥想 > 正念减压课程"
 tags: ["habits", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是MBSR 八周课程详细设计 | MBSR Weekly Curriculum"
   - "MBSR 八周课程详细设计 | MBSR Weekly Curriculum的核心概念"
   - "MBSR 八周课程详细设计 | MBSR Weekly Curriculum的方法与实践"
-trigger_keywords: ["act", "assessment", "body", "breathwork"]
+trigger_keywords: ["MBSR", "八周课程详细设计", "Weekly", "Curriculum"]
 cross_refs:
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/exercise/meditation"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/exercise/meditation"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
+    relation: "mbsr/reduction/正念"
 ---
 # MBSR 八周课程详细设计 | MBSR Weekly Curriculum
 

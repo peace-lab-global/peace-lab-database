@@ -1,7 +1,6 @@
 ---
-
 title: "《喜悦之书》The Book of Joy"
-description: "《喜悦之书》The Book of Joy的详细解析与实践指南"
+description: "《喜悦之书》The Book of Joy —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《喜悦之书》The Book of Joy"
   - "《喜悦之书》The Book of Joy的核心概念"
   - "《喜悦之书》The Book of Joy的方法与实践"
-trigger_keywords: ["buddhism", "death", "philosophy", "文学"]
+trigger_keywords: ["文学", "《喜悦之书》The", "Book", "of", "Joy"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/emotion"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Dalai_Lama.md"
+    relation: "喇嘛/dalai/lama"
 ---
 # 《喜悦之书》The Book of Joy
 

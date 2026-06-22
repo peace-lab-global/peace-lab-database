@@ -1,7 +1,6 @@
 ---
-
 title: "Panic Disorder Assessment (惊恐障碍评估)"
-description: "Panic Disorder Assessment (惊恐障碍评估)的详细解析与实践指南"
+description: "Panic Disorder Assessment (惊恐障碍评估) —— 焦虑症 · Panic Disorder 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Panic Disorder"
 tags: ["anxiety", "cardiovascular", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Panic Disorder Assessment"
   - "Panic Disorder Assessment的核心概念"
   - "Panic Disorder Assessment的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Vajrayana_Mantra_Dharani.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md"
-    relation: "anxiety/cardiovascular/sexuality"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "anxiety/cardiovascular/sexuality"
-
+trigger_keywords: ["Panic", "Disorder", "Assessment", "惊恐障碍评估"]
+cross_refs: []
 ---
 # Panic Disorder Assessment (惊恐障碍评估)
 

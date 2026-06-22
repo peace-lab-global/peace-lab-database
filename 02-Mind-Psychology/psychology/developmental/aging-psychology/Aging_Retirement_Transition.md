@@ -1,7 +1,6 @@
 ---
-
 title: "退休适应与角色转换 | Aging Retirement Transition"
-description: "退休适应与角色转换 | Aging Retirement Transition的详细解析与实践指南"
+description: "退休适应与角色转换 | Aging Retirement Transition —— 发展心理学 · Aging Psychology 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Aging Psychology"
 tags: ["anxiety", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是退休适应与角色转换 | Aging Retirement Transition"
   - "退休适应与角色转换 | Aging Retirement Transition的核心概念"
   - "退休适应与角色转换 | Aging Retirement Transition的方法与实践"
-trigger_keywords: ["退休适应与角色转换", "adolescent", "aging", "anxiety", "body"]
+trigger_keywords: ["退休适应与角色转换", "Aging", "Retirement", "Transition"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/career-planning/Career_Ikigai.md"
+    relation: "ikigai/意义"
 ---
 # 退休适应与角色转换 | Aging Retirement Transition
 

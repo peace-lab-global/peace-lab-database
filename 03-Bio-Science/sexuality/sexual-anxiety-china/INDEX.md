@@ -1,7 +1,6 @@
 ---
-
 title: "sexual-anxiety-china | Index"
-description: "sexual-anxiety-china | Index的详细解析与实践指南"
+description: "sexual-anxiety-china | Index —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["性学"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是sexual-anxiety-china | Index"
   - "sexual-anxiety-china | Index的核心概念"
   - "sexual-anxiety-china | Index的方法与实践"
-trigger_keywords: ["Index", "act", "性学"]
+trigger_keywords: ["性学", "sexual-anxiety-china"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Kantian_Schopenhauer.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/sexuality/therapy"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/INDEX.md"
+    relation: "comparative/formation/study"
 ---
 # sexual-anxiety-china | Index
 

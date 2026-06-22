@@ -1,7 +1,6 @@
 ---
-
 title: "合成生物学 | Synthetic Biology"
-description: "合成生物学 | Synthetic Biology的详细解析与实践指南"
+description: "合成生物学 | Synthetic Biology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["gut", "immune", "intervention", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是合成生物学 | Synthetic Biology"
   - "合成生物学 | Synthetic Biology的核心概念"
   - "合成生物学 | Synthetic Biology的方法与实践"
-trigger_keywords: ["合成生物学", "act", "assessment", "crisis", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "anxiety/communication/immune"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/communication/immune"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "anxiety/communication/immune"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "anxiety/communication/immune"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/sexuality"
-
+trigger_keywords: ["合成生物学", "Synthetic", "Biology"]
+cross_refs: []
 ---
 # 合成生物学 | Synthetic Biology
 

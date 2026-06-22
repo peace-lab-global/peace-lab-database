@@ -1,7 +1,6 @@
 ---
-
 title: "一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique"
-description: "一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique的详细解析与实践指南"
+description: "一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique —— 讲座 · Yixi Talks 专题"
 category: "实践与个人增长 > 讲座 > Yixi Talks"
 tags: ["communication", "habits", "positive-psychology", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique"
   - "一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique的核心概念"
   - "一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/emotion/productivity"
-
+trigger_keywords: ["一席演讲观看指南与学习路径", "YiXi", "Talks", "Viewing", "Guide"]
+cross_refs: []
 ---
 # 一席演讲观看指南与学习路径 | YiXi Talks Viewing Guide & Learning Path | Compendium Spectandi Discendique
 

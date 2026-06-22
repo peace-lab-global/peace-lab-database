@@ -1,7 +1,6 @@
 ---
-
 title: "拖延认知重构"
-description: "拖延认知重构的详细解析与实践指南"
+description: "拖延认知重构 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["brain", "decision-making", "habits", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是拖延认知重构"
   - "拖延认知重构的核心概念"
   - "拖延认知重构的方法与实践"
-trigger_keywords: ["拖延认知重构", "brain", "cognitive", "decision-making", "emotion"]
+trigger_keywords: ["拖延认知重构", "decision-making"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
-    relation: "emotion/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "emotion/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "emotion/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "emotion/neuroscience/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "emotion/neuroscience/productivity"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "拖延/认知重构"
+  - path: "05-Praxis-Growth/personal-development/procrastination/INDEX.md"
+    relation: "拖延/认知重构"
+  - path: "05-Praxis-Growth/personal-development/procrastination/03_拖延症应对策略.md"
+    relation: "拖延/认知重构"
 ---
 # 拖延认知重构
 

@@ -1,6 +1,6 @@
 ---
 title: "gad | Index"
-description: "gad | Index的详细解析与实践指南"
+description: "gad | Index —— 焦虑症 · Gad 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Gad"
 tags: ["临床心理", "心理学", "焦虑症"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是gad | Index"
   - "gad | Index的核心概念"
   - "gad | Index的方法与实践"
-trigger_keywords: ["gad", "Index", "临床心理", "心理学", "焦虑症"]
+trigger_keywords: ["gad", "临床心理", "心理学", "焦虑症"]
 cross_refs: []
 ---
 # gad | Index

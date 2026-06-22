@@ -1,7 +1,6 @@
 ---
-
 title: "播客与有声内容总览 | Podcast & Audio Content Overview"
-description: "播客与有声内容总览 | Podcast & Audio Content Overview的详细解析与实践指南"
+description: "播客与有声内容总览 | Podcast & Audio Content Overview —— 媒体 · Podcast 专题"
 category: "人文与艺术疗愈 > 媒体 > Podcast"
 tags: ["attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是播客与有声内容总览 | Podcast & Audio Content Overview"
   - "播客与有声内容总览 | Podcast & Audio Content Overview的核心概念"
   - "播客与有声内容总览 | Podcast & Audio Content Overview的方法与实践"
-trigger_keywords: ["播客与有声内容总览", "attachment", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/buddhism/emotion"
-
+trigger_keywords: ["播客与有声内容总览", "Podcast", "Audio", "Content", "Overview"]
+cross_refs: []
 ---
 # 播客与有声内容总览 | Podcast & Audio Content Overview
 

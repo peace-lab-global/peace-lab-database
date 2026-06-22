@@ -1,7 +1,6 @@
 ---
-
 title: "德国观念论 · 佛法视角三方书评"
-description: "德国观念论 · 佛法视角三方书评的详细解析与实践指南"
+description: "德国观念论 · 佛法视角三方书评 —— Western Philosophy · German Idealism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > German Idealism"
 tags: ["buddhism", "philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是德国观念论 · 佛法视角三方书评"
   - "德国观念论 · 佛法视角三方书评的核心概念"
   - "德国观念论 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["德国观念论", "佛法视角三方书评", "buddhism", "developmental", "philosophy", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "buddhism/emotion/sexuality"
-
+trigger_keywords: ["德国观念论", "佛法视角三方书评"]
+cross_refs: []
 ---
 # 德国观念论 · 佛法视角三方书评
 

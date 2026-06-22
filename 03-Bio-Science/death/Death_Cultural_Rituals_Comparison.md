@@ -1,7 +1,6 @@
 ---
-
 title: "Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)"
-description: "Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)的详细解析与实践指南"
+description: "Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Cultural Death Rituals: A Comparative Guide"
   - "Cultural Death Rituals: A Comparative Guide的核心概念"
   - "Cultural Death Rituals: A Comparative Guide的方法与实践"
-trigger_keywords: ["aging", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["Cultural", "Death", "Rituals:", "Comparative", "Guide"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-1-science-of-breathing.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/death/死亡"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "临终/death/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-good-death.md"
+    relation: "临终/good/death"
 ---
 # Cultural Death Rituals: A Comparative Guide (跨文化临终仪式对比指南)
 

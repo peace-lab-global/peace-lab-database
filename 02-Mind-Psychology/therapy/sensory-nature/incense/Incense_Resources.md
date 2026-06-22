@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法资源 (Resources)"
-description: "檀香疗法资源 (Resources)的详细解析与实践指南"
+description: "檀香疗法资源 (Resources) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["therapy", "疗法", "sleep"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法资源的核心概念"
   - "檀香疗法资源的方法与实践"
   - "檀香疗法资源的循证证据"
-trigger_keywords: ["檀香疗法资源", "clinical", "sexuality", "therapy", "疗法"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "sexuality/sleep/stress"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "sexuality/sleep/stress"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "sexuality/sleep/stress"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Overview.md"
-    relation: "sexuality/sleep/stress"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "sexuality/sleep/stress"
-
+trigger_keywords: ["檀香疗法资源", "therapy", "疗法"]
+cross_refs: []
 ---
 # 檀香疗法资源 (Resources)
 

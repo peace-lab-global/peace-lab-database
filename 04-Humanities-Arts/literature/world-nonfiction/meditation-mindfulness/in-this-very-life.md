@@ -1,7 +1,6 @@
 ---
-
 title: "《在此生中》In This Very Life"
-description: "《在此生中》In This Very Life的详细解析与实践指南"
+description: "《在此生中》In This Very Life —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["habits", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《在此生中》In This Very Life"
   - "《在此生中》In This Very Life的核心概念"
   - "《在此生中》In This Very Life的方法与实践"
-trigger_keywords: ["anxiety", "art", "body", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["《在此生中》In", "This", "Very", "Life"]
+cross_refs: []
 ---
 # 《在此生中》In This Very Life
 

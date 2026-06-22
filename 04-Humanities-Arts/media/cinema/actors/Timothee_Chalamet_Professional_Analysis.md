@@ -1,7 +1,6 @@
 ---
-
 title: "Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起"
-description: "Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起的详细解析与实践指南"
+description: "Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起"
   - "Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起的核心概念"
   - "Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "anxiety/art_therapy/communication"
-
+trigger_keywords: ["Timothée", "Chalamet", "专业分析：千禧一代演技新星的艺术崛起"]
+cross_refs: []
 ---
 # Timothée Chalamet 专业分析：千禧一代演技新星的艺术崛起
 

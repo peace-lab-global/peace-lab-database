@@ -1,7 +1,6 @@
 ---
-
 title: "Workplace Psychological Crisis Intervention (职场心理危机干预)"
-description: "Workplace Psychological Crisis Intervention (职场心理危机干预)的详细解析与实践指南"
+description: "Workplace Psychological Crisis Intervention (职场心理危机干预) —— 应用心理学 · Workplace Psychological Crisis 专题"
 category: "心智与心理学 > 心理学 > 应用心理学 > Workplace Psychological Crisis"
 tags: ["addiction", "anxiety", "trauma", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Workplace Psychological Crisis Intervention"
   - "Workplace Psychological Crisis Intervention的核心概念"
   - "Workplace Psychological Crisis Intervention的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/personality"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["Workplace", "Psychological", "Crisis", "Intervention", "职场心理危机干预"]
+cross_refs: []
 ---
 # Workplace Psychological Crisis Intervention (职场心理危机干预)
 

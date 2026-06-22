@@ -1,7 +1,6 @@
 ---
-
 title: "MBSR 正念减压 RCT 证据摘要"
-description: "MBSR 正念减压 RCT 证据摘要的详细解析与实践指南"
+description: "MBSR 正念减压 RCT 证据摘要 —— 正念减压课程 · Evidence 专题"
 category: "心智与心理学 > 冥想 > 正念减压课程 > Evidence"
 tags: ["anxiety", "depression", "intervention", "mbct", "mbsr", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是MBSR 正念减压 RCT 证据摘要"
   - "MBSR 正念减压 RCT 证据摘要的核心概念"
   - "MBSR 正念减压 RCT 证据摘要的方法与实践"
-trigger_keywords: ["act", "anxiety", "body", "clinical"]
+trigger_keywords: ["MBSR", "正念减压", "RCT", "证据摘要"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/depression/meditation"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Balance_Fall_Prevention.md"
+    relation: "rct/al/et"
 ---
 # MBSR 正念减压 RCT 证据摘要
 

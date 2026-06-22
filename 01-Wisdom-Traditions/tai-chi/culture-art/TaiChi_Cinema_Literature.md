@@ -13,8 +13,10 @@ intent_queries:
   - "武侠小说中的太极"
 trigger_keywords: ["电影", "纪录片", "小说", "武侠", "影视"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/culture-art/TaiChi_Calligraphy_Aesthetics.md"
-    relation: "aesthetics"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极影视文学 | Tai Chi in Cinema & Literature
 

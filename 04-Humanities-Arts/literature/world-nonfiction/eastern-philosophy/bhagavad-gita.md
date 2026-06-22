@@ -1,7 +1,6 @@
 ---
-
 title: "《薄伽梵歌》Bhagavad Gita"
-description: "《薄伽梵歌》Bhagavad Gita的详细解析与实践指南"
+description: "《薄伽梵歌》Bhagavad Gita —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["mindfulness", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《薄伽梵歌》Bhagavad Gita"
   - "《薄伽梵歌》Bhagavad Gita的核心概念"
   - "《薄伽梵歌》Bhagavad Gita的方法与实践"
-trigger_keywords: ["body", "buddhism", "crisis", "death"]
+trigger_keywords: ["《薄伽梵歌》Bhagavad", "Gita"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
+    relation: "gita/bhagavad/karma"
+  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/INDEX.md"
+    relation: "gita/bhagavad/瑜伽"
 ---
 # 《薄伽梵歌》Bhagavad Gita
 

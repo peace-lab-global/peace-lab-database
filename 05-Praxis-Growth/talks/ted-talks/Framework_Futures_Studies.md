@@ -1,7 +1,6 @@
 ---
-
 title: "未来学研究 | Futures Studies"
-description: "未来学研究 | Futures Studies的详细解析与实践指南"
+description: "未来学研究 | Futures Studies —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是未来学研究 | Futures Studies"
   - "未来学研究 | Futures Studies的核心概念"
   - "未来学研究 | Futures Studies的方法与实践"
-trigger_keywords: ["未来学研究", "act", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "communication/exercise/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/08-High-Risk-Professions.md"
-    relation: "communication/exercise/sexuality"
-
+trigger_keywords: ["未来学研究", "Futures", "Studies"]
+cross_refs: []
 ---
 # 未来学研究 | Futures Studies
 

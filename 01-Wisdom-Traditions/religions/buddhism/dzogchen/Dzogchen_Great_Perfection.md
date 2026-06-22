@@ -1,7 +1,6 @@
 ---
-
 title: "大圆满/佐钦 (Dzogchen - The Great Perfection)"
-description: "大圆满/佐钦 (Dzogchen - The Great Perfection)的详细解析与实践指南"
+description: "大圆满/佐钦 (Dzogchen - The Great Perfection) —— 佛教 · 大圆满 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > 大圆满"
 tags: ["attachment", "buddhism", "cbt", "meditation", "dzogchen", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是大圆满/佐钦"
   - "大圆满/佐钦的核心概念"
   - "大圆满/佐钦的方法与实践"
-trigger_keywords: ["大圆满", "佐钦", "act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["大圆满", "佐钦"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/Tibetan_Ngondro_Guide.md"
-    relation: "anxiety/attachment/buddhism"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/natural-great-perfection.md"
+    relation: "dzogchen/perfection/great"
 ---
 # 大圆满/佐钦 (Dzogchen - The Great Perfection)
 

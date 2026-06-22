@@ -1,6 +1,6 @@
 ---
 title: "existentialists | Index"
-description: "existentialists | Index的详细解析与实践指南"
+description: "existentialists | Index —— 20Th Century · Existentialists 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Existentialists"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是existentialists | Index"
   - "existentialists | Index的核心概念"
   - "existentialists | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "existentialists"]
 cross_refs: []
 ---
 # existentialists | Index

@@ -1,7 +1,6 @@
 ---
-
 title: "创伤心理学 | Trauma Psychology Overview"
-description: "创伤心理学 | Trauma Psychology Overview的详细解析与实践指南"
+description: "创伤心理学 | Trauma Psychology Overview —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "创伤心理学 | Trauma Psychology Overview的核心概念"
   - "创伤心理学 | Trauma Psychology Overview的方法与实践"
   - "创伤心理学 | Trauma Psychology Overview的自助方法"
-trigger_keywords: ["创伤心理学", "act", "addiction", "art", "behavioral"]
+trigger_keywords: ["创伤心理学", "Trauma", "Psychology", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "cardiovascular/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "cardiovascular/communication/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "cardiovascular/communication/depression"
-
+  - path: "02-Mind-Psychology/psychology/clinical/trauma/PTSD_Specialized_Treatment.md"
+    relation: "创伤/ptsd/创伤后应激"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
+    relation: "创伤/trauma/ptsd"
+  - path: "02-Mind-Psychology/psychology/developmental/child-development/Child_Trauma_Resilience.md"
+    relation: "创伤/trauma/kolk"
 ---
 # 创伤心理学 | Trauma Psychology Overview
 

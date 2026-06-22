@@ -1,7 +1,6 @@
 ---
-
 title: "Specific Types Project Summary (性迷恋类型项目总结报告)"
-description: "Specific Types Project Summary (性迷恋类型项目总结报告)的详细解析与实践指南"
+description: "Specific Types Project Summary (性迷恋类型项目总结报告) —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["ballet", "cbt", "intervention", "neuroscience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Specific Types Project Summary"
   - "Specific Types Project Summary的核心概念"
   - "Specific Types Project Summary的方法与实践"
-trigger_keywords: ["assessment", "ballet", "behavioral", "cbt"]
+trigger_keywords: ["ballet", "cbt"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Multi_Perspective_Reviews.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/INDEX.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Prasangika_Tradition.md"
-    relation: "meditation/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "meditation/neuroscience/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/INDEX.md"
+    relation: "project/summary/report"
 ---
 # Specific Types Project Summary (性迷恋类型项目总结报告)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《突破灵性物质主义》Cutting Through Spiritual Materialism"
-description: "《突破灵性物质主义》Cutting Through Spiritual Materialism的详细解析与实践指南"
+description: "《突破灵性物质主义》Cutting Through Spiritual Materialism —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《突破灵性物质主义》Cutting Through Spiritual Materialism"
   - "《突破灵性物质主义》Cutting Through Spiritual Materialism的核心概念"
   - "《突破灵性物质主义》Cutting Through Spiritual Materialism的方法与实践"
-trigger_keywords: ["buddhism", "sexuality", "spirituality", "文学"]
+trigger_keywords: ["spirituality", "文学"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "materialism/cutting/gyam"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/the-guru-drinks-bourbon/Multi_Perspective_Reviews.md"
+    relation: "上师/藏传/佛教"
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Pema_Chodron.md"
+    relation: "ch/藏传/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/the-guru-drinks-bourbon/Book_Review.md"
+    relation: "上师/佛教/藏传"
 ---
 # 《突破灵性物质主义》Cutting Through Spiritual Materialism
 

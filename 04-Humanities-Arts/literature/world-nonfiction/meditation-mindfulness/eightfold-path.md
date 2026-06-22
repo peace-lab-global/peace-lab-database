@@ -1,7 +1,6 @@
 ---
-
 title: "《八正道》Eightfold Path"
-description: "《八正道》Eightfold Path的详细解析与实践指南"
+description: "《八正道》Eightfold Path —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《八正道》Eightfold Path"
   - "《八正道》Eightfold Path的核心概念"
   - "《八正道》Eightfold Path的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "breathwork", "buddhism"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-1-keyword-of-samatha-stillness.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/meditation"
-  - path: "05-Praxis-Growth/writing/Writing_Tools_Resources.md"
-    relation: "art_therapy/buddhism/meditation"
-
+trigger_keywords: ["《八正道》Eightfold", "Path"]
+cross_refs: []
 ---
 # 《八正道》Eightfold Path
 

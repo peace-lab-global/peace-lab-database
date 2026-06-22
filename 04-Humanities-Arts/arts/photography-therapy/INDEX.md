@@ -1,7 +1,6 @@
 ---
-
 title: "摄影疗愈 INDEX | Photography Therapy"
-description: "摄影疗愈 INDEX | Photography Therapy的详细解析与实践指南"
+description: "摄影疗愈 INDEX | Photography Therapy —— 艺术 · 摄影疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 摄影疗愈"
 tags: ["calligraphy", "cinema", "photography"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是摄影疗愈 INDEX | Photography Therapy"
   - "摄影疗愈 INDEX | Photography Therapy的核心概念"
   - "摄影疗愈 INDEX | Photography Therapy的方法与实践"
-trigger_keywords: ["摄影疗愈 INDEX", "act", "aging", "art", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/communication/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "communication/death/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/communication/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/death"
-
+trigger_keywords: ["摄影疗愈 INDEX", "摄影疗愈", "INDEX", "Photography", "Therapy"]
+cross_refs: []
 ---
 # 摄影疗愈 INDEX | Photography Therapy
 

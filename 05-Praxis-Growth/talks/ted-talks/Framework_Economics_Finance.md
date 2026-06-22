@@ -1,7 +1,6 @@
 ---
-
 title: "经济与金融 | Economics and Finance"
-description: "经济与金融 | Economics and Finance的详细解析与实践指南"
+description: "经济与金融 | Economics and Finance —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是经济与金融 | Economics and Finance"
   - "经济与金融 | Economics and Finance的核心概念"
   - "经济与金融 | Economics and Finance的方法与实践"
-trigger_keywords: ["经济与金融", "act", "behavioral", "cognitive", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Theravada_Tradition.md"
-    relation: "communication/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/therapy"
-
+trigger_keywords: ["经济与金融", "Economics", "and", "Finance"]
+cross_refs: []
 ---
 # 经济与金融 | Economics and Finance
 

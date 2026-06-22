@@ -1,7 +1,6 @@
 ---
-
 title: "《放松反应》The Relaxation Response"
-description: "《放松反应》The Relaxation Response的详细解析与实践指南"
+description: "《放松反应》The Relaxation Response —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《放松反应》The Relaxation Response"
   - "《放松反应》The Relaxation Response的核心概念"
   - "《放松反应》The Relaxation Response的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "brain"]
+trigger_keywords: ["《放松反应》The", "Relaxation", "Response"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/cardiovascular/exercise"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Routine_Protocols.md"
-    relation: "anxiety/exercise/meditation"
-
+  - path: "02-Mind-Psychology/psychology/somatic-body/relaxation/Relaxation_Overview.md"
+    relation: "relaxation/benson/response"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md"
+    relation: "冥想/mind"
 ---
 # 《放松反应》The Relaxation Response
 

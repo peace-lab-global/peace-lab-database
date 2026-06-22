@@ -1,7 +1,6 @@
 ---
-
 title: "Legalist Management Psychology (法家管理心理学)"
-description: "Legalist Management Psychology (法家管理心理学)的详细解析与实践指南"
+description: "Legalist Management Psychology (法家管理心理学) —— 宗教与灵性 · 法家 专题"
 category: "智慧传承 > 宗教与灵性 > 法家"
 tags: ["buddhism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Legalist Management Psychology"
   - "Legalist Management Psychology的核心概念"
   - "Legalist Management Psychology的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Modern_Society_Mechanisms.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Sexual_Repression_China_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Terminology_Dictionary.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "05-Praxis-Growth/personal-development/minimalism/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["Legalist", "Management", "Psychology", "法家管理心理学"]
+cross_refs: []
 ---
 # Legalist Management Psychology (法家管理心理学)
 

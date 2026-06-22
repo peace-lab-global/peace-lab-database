@@ -1,7 +1,6 @@
 ---
-
 title: "人格心理学 | Personality Psychology"
-description: "人格心理学 | Personality Psychology的详细解析与实践指南"
+description: "人格心理学 | Personality Psychology —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["personality"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "人格心理学 | Personality Psychology的核心概念"
   - "人格心理学 | Personality Psychology的方法与实践"
   - "人格心理学 | Personality Psychology的自助方法"
-trigger_keywords: ["人格心理学", "act", "behavioral", "brain", "cognitive"]
+trigger_keywords: ["人格心理学", "Personality", "Psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Psychology_Overview.md"
+    relation: "人格心理学/personality/人格"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/INDEX.md"
+    relation: "人格心理学/personality/人格"
+  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Personality_Attachment.md"
+    relation: "人格/人格心理学/personality"
+  - path: "02-Mind-Psychology/psychology/foundations/personality/Big_Five_Model.md"
+    relation: "big/人格心理学/five"
 ---
 # 人格心理学 | Personality Psychology
 

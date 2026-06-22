@@ -1,7 +1,6 @@
 ---
-
 title: "冥想商业化与文化挪用批判"
-description: "冥想商业化与文化挪用批判的详细解析与实践指南"
+description: "冥想商业化与文化挪用批判 —— 冥想 · Meditation Critique 专题"
 category: "心智与心理学 > 冥想 > Meditation Critique"
 tags: ["brain", "mbsr", "emdr"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是冥想商业化与文化挪用批判"
   - "冥想商业化与文化挪用批判的核心概念"
   - "冥想商业化与文化挪用批判的方法与实践"
-trigger_keywords: ["assessment", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/buddhism/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "aging/buddhism/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "aging/buddhism/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-brain-that-changes-itself.md"
-    relation: "aging/buddhism/exercise"
-  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md"
-    relation: "aging/buddhism/exercise"
-
+trigger_keywords: ["冥想商业化与文化挪用批判"]
+cross_refs: []
 ---
 # 冥想商业化与文化挪用批判
 

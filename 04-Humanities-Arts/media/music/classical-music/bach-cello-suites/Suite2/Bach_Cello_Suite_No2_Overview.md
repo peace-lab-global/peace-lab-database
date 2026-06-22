@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第二大提琴组曲》综合指南"
-description: "巴赫《第二大提琴组曲》综合指南的详细解析与实践指南"
+description: "巴赫《第二大提琴组曲》综合指南 —— Bach Cello Suites · Suite2 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Cello Suites > Suite2"
 tags: ["depression", "healing", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是巴赫《第二大提琴组曲》综合指南"
   - "巴赫《第二大提琴组曲》综合指南的核心概念"
   - "巴赫《第二大提琴组曲》综合指南的方法与实践"
-trigger_keywords: ["art", "brain", "clinical", "cognitive"]
+trigger_keywords: ["巴赫《第二大提琴组曲》综合指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "communication/depression/emotion"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
 ---
 # 巴赫《第二大提琴组曲》综合指南
 

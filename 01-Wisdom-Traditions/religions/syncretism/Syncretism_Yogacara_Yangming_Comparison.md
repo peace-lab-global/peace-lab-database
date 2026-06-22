@@ -1,7 +1,6 @@
 ---
-
 title: "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison (唯识学与阳明心学异同论)"
-description: "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison (唯识学与阳明心学异同论)的详细解析与实践指南"
+description: "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison (唯识学与阳明心学异同论) —— 宗教与灵性 · 宗教融合 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教融合"
 tags: ["buddhism", "cbt", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison"
   - "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison的核心概念"
   - "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/sexuality"
-
+trigger_keywords: ["Syncretism:", "Yogācāra", "Yangming", "Mind-Philosophy", "Comparison"]
+cross_refs: []
 ---
 # Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison (唯识学与阳明心学异同论)
 

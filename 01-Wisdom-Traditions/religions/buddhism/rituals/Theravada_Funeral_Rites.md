@@ -1,7 +1,6 @@
 ---
-
 title: "南传佛教丧葬超度仪轨 (Theravada Funeral Rites)"
-description: "南传佛教丧葬超度仪轨 (Theravada Funeral Rites)的详细解析与实践指南"
+description: "南传佛教丧葬超度仪轨 (Theravada Funeral Rites) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "grief", "healing", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是南传佛教丧葬超度仪轨"
   - "南传佛教丧葬超度仪轨的核心概念"
   - "南传佛教丧葬超度仪轨的方法与实践"
-trigger_keywords: ["南传佛教丧葬超度仪轨", "anxiety", "body", "buddhism", "death"]
+trigger_keywords: ["南传佛教丧葬超度仪轨", "Theravada", "Funeral", "Rites"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/19-Adverse-Events.md"
-    relation: "anxiety/death/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/depression"
-
+  - path: "03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md"
+    relation: "mara/死亡/临终"
 ---
 # 南传佛教丧葬超度仪轨 (Theravada Funeral Rites)
 

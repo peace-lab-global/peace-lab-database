@@ -1,7 +1,6 @@
 ---
-
 title: "儿童情绪发展与行为问题干预专业指南"
-description: "儿童情绪发展与行为问题干预专业指南的详细解析与实践指南"
+description: "儿童情绪发展与行为问题干预专业指南 —— Child Development Psychology · Social Emotional 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Social Emotional"
 tags: ["anxiety", "attachment", "brain", "cbt", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是儿童情绪发展与行为问题干预专业指南"
   - "儿童情绪发展与行为问题干预专业指南的核心概念"
   - "儿童情绪发展与行为问题干预专业指南的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["儿童情绪发展与行为问题干预专业指南"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/Sexuality_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "创伤/disorder/障碍"
 ---
 # 儿童情绪发展与行为问题干预专业指南
 

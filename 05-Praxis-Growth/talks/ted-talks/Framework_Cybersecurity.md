@@ -1,7 +1,6 @@
 ---
-
 title: "网络安全 | Cybersecurity"
-description: "网络安全 | Cybersecurity的详细解析与实践指南"
+description: "网络安全 | Cybersecurity —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["habits", "immune", "positive-psychology", "讲座", "communication"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是网络安全 | Cybersecurity"
   - "网络安全 | Cybersecurity的核心概念"
   - "网络安全 | Cybersecurity的方法与实践"
-trigger_keywords: ["网络安全", "act", "behavioral", "habits", "immune"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/immune/productivity"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/immune/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "communication/immune/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/immune/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "communication/immune/productivity"
-
+trigger_keywords: ["网络安全", "habits", "immune"]
+cross_refs: []
 ---
 # 网络安全 | Cybersecurity
 

@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_014
 skill_name: 职业倦怠评估
 skill_name_en: Occupational Burnout Assessment
@@ -35,16 +34,7 @@ changelog:
   - version: 1.0
     date: 2026-05-19
     changes: "初始版本"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md"
-    relation: "burnout/stress/comorbidity"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/skills/Depression_Assessment_Skill.md"
-    relation: "burnout/depression/comorbidity"
-  - path: "02-Mind-Psychology/psychology/somatic-body/sleep/skills/Insomnia_Assessment_Skill.md"
-    relation: "burnout/sleep/disruption"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "burnout/neuroendocrine/dysregulation"
-
+cross_refs: []
 ---
 
 # 职业倦怠评估技能

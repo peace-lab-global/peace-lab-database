@@ -1,7 +1,6 @@
 ---
-
 title: "《人生》读书笔记与书评"
-description: "《人生》读书笔记与书评的详细解析与实践指南"
+description: "《人生》读书笔记与书评 —— Contemporary · Life Lu Yao 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Life Lu Yao"
 tags: ["cinema", "self-esteem", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《人生》读书笔记与书评"
   - "《人生》读书笔记与书评的核心概念"
   - "《人生》读书笔记与书评的方法与实践"
-trigger_keywords: ["cinema", "self-esteem", "sexuality", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["cinema", "self-esteem", "文学"]
+cross_refs: []
 ---
 # 《人生》读书笔记与书评
 

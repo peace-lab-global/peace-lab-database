@@ -1,7 +1,6 @@
 ---
-
 title: "《妈妈及生命的意义》Momma and the Meaning of Life"
-description: "《妈妈及生命的意义》Momma and the Meaning of Life的详细解析与实践指南"
+description: "《妈妈及生命的意义》Momma and the Meaning of Life —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature", "loneliness", "suicide"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《妈妈及生命的意义》Momma and the Meaning of Life"
   - "《妈妈及生命的意义》Momma and the Meaning of Life的核心概念"
   - "《妈妈及生命的意义》Momma and the Meaning of Life的方法与实践"
-trigger_keywords: ["aging", "art", "death", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "aging/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "aging/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/death/depression"
-
+trigger_keywords: ["《妈妈及生命的意义》Momma", "and", "the", "Meaning", "of"]
+cross_refs: []
 ---
 # 《妈妈及生命的意义》Momma and the Meaning of Life
 

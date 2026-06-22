@@ -1,7 +1,6 @@
 ---
-
 title: "系列十二：人生变故与转折系列 | Life Transitions Series"
-description: "系列十二：人生变故与转折系列 | Life Transitions Series的详细解析与实践指南"
+description: "系列十二：人生变故与转折系列 | Life Transitions Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["cinema", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是系列十二：人生变故与转折系列 | Life Transitions Series"
   - "系列十二：人生变故与转折系列 | Life Transitions Series的核心概念"
   - "系列十二：人生变故与转折系列 | Life Transitions Series的方法与实践"
-trigger_keywords: ["assessment", "body", "breathwork", "cinema"]
+trigger_keywords: ["cinema", "系列十二：人生变故与转折系列", "Life", "Transitions", "Series"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "death/depression/emotion"
-  - path: "04-Humanities-Arts/arts/photography-therapy/INDEX.md"
-    relation: "death/depression/emotion"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
-    relation: "death/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "death/depression/emotion"
-
+  - path: "03-Bio-Science/death/Death_Grief_Bridge.md"
+    relation: "哀伤/丧亲/死亡"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "哀伤/死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-year-of-magical-thinking.md"
+    relation: "哀伤/丧亲"
 ---
 # 系列十二：人生变故与转折系列 | Life Transitions Series
 

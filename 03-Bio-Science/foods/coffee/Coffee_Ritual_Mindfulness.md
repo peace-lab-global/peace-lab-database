@@ -1,7 +1,6 @@
 ---
-
 title: "Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)"
-description: "Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)的详细解析与实践指南"
+description: "Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践) —— 营养学 · Coffee 专题"
 category: "生命科学与生物医学 > 营养学 > Coffee"
 tags: ["addiction", "attachment", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Coffee Ritual & Mindfulness Practice"
   - "Coffee Ritual & Mindfulness Practice的核心概念"
   - "Coffee Ritual & Mindfulness Practice的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "anxiety"]
+trigger_keywords: ["Coffee", "Ritual", "Mindfulness", "Practice", "咖啡仪式与正念实践"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/divorce-psychology/Divorce_Psychology_Clinical_Intervention.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "mindful/正念/daily"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/练习课/感知当下.md"
+    relation: "锚定/正念/觉察"
 ---
 # Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)
 

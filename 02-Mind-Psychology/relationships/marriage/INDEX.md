@@ -1,7 +1,6 @@
 ---
-
 title: "Marriage | 婚姻心理学"
-description: "Marriage | 婚姻心理学的详细解析与实践指南"
+description: "Marriage | 婚姻心理学 —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["mindfulness", "trauma", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "Marriage | 婚姻心理学的核心概念"
   - "Marriage | 婚姻心理学的方法与实践"
   - "Marriage | 婚姻心理学的自助方法"
-trigger_keywords: ["Marriage", "婚姻心理学", "act", "assessment", "behavioral", "body"]
+trigger_keywords: ["Marriage", "婚姻心理学"]
 cross_refs:
-  - path: "README.md"
-    relation: "attachment/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/emotion/meditation"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "attachment/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "communication/emotion/meditation"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "communication/emotion/meditation"
-
+  - path: "05-Praxis-Growth/communication/conflict-resolution/Conflict_Resolution_Overview.md"
+    relation: "conflict/冲突/resolution"
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Cross_Functional_Conflict_Resolution.md"
+    relation: "冲突/conflict/resolution"
 ---
 # Marriage | 婚姻心理学
 

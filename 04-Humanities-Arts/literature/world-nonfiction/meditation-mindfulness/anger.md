@@ -1,7 +1,6 @@
 ---
-
 title: "《愤怒》Anger"
-description: "《愤怒》Anger的详细解析与实践指南"
+description: "《愤怒》Anger —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["habits", "healing", "parenting"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《愤怒》Anger"
   - "《愤怒》Anger的核心概念"
   - "《愤怒》Anger的方法与实践"
-trigger_keywords: ["《愤怒》Anger", "body", "breathwork", "buddhism", "cognitive"]
+trigger_keywords: ["《愤怒》Anger"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "attachment/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/buddhism/communication"
-
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Anger_Management.md"
+    relation: "愤怒/anger/冲突"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "愤怒/anger/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Multi_Perspective_Reviews.md"
+    relation: "愤怒/anger"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/vietnam/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/thich/hanh"
 ---
 # 《愤怒》Anger
 

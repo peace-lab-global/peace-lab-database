@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_007
 skill_name: 压力相关健康风险评估
 skill_name_en: Stress-Related Health Risk Assessment
@@ -35,17 +34,14 @@ changelog:
     date: 2026-04-10
     changes: "初始版本"
 cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/Autoimmune_Psychology.md"
-    relation: "anxiety/body_image/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/immune"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/cardiovascular/immune"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "anxiety/cardiovascular/depression"
-
+  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
+    relation: "免疫/炎症/压力"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "压力/焦虑/障碍"
+  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+    relation: "血压/压力/睡眠"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Sexual_Dysfunction_Common_Issues.md"
+    relation: "血压/压力/障碍"
 ---
 
 # 压力相关健康风险评估技能

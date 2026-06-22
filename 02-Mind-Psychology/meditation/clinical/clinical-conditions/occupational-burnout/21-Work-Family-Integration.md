@@ -1,7 +1,6 @@
 ---
-
 title: "21. 工作-家庭整合与双重负担 | Work-Family Integration"
-description: "21. 工作-家庭整合与双重负担 | Work-Family Integration的详细解析与实践指南"
+description: "21. 工作-家庭整合与双重负担 | Work-Family Integration —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是21. 工作-家庭整合与双重负担 | Work-Family Integration"
   - "21. 工作-家庭整合与双重负担 | Work-Family Integration的核心概念"
   - "21. 工作-家庭整合与双重负担 | Work-Family Integration的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["21.", "工作-家庭整合与双重负担", "Work-Family", "Integration"]
+cross_refs: []
 ---
 # 21. 工作-家庭整合与双重负担 | Work-Family Integration
 

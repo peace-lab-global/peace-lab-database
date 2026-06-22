@@ -1,7 +1,6 @@
 ---
-
 title: "飞蚊症预防与保健指南 (Floaters Prevention and Wellness Guide)"
-description: "飞蚊症预防与保健指南 (Floaters Prevention and Wellness Guide)的详细解析与实践指南"
+description: "飞蚊症预防与保健指南 (Floaters Prevention and Wellness Guide) —— 生物学 · 飞蚊症 专题"
 category: "生命科学与生物医学 > 生物学 > 飞蚊症"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是飞蚊症预防与保健指南"
   - "飞蚊症预防与保健指南的核心概念"
   - "飞蚊症预防与保健指南的方法与实践"
-trigger_keywords: ["飞蚊症预防与保健指南", "adolescent", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/immune"
-  - path: "02-Mind-Psychology/psychology/somatic-body/insomnia/Insomnia_Treatment_Methods.md"
-    relation: "aging/anxiety/neuroscience"
-
+trigger_keywords: ["飞蚊症预防与保健指南", "Floaters", "Prevention", "and", "Wellness"]
+cross_refs: []
 ---
 # 飞蚊症预防与保健指南 (Floaters Prevention and Wellness Guide)
 

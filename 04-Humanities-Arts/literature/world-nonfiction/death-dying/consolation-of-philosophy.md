@@ -1,7 +1,6 @@
 ---
-
 title: "《哲学的慰藉》The Consolation of Philosophy"
-description: "《哲学的慰藉》The Consolation of Philosophy的详细解析与实践指南"
+description: "《哲学的慰藉》The Consolation of Philosophy —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《哲学的慰藉》The Consolation of Philosophy"
   - "《哲学的慰藉》The Consolation of Philosophy的核心概念"
   - "《哲学的慰藉》The Consolation of Philosophy的方法与实践"
-trigger_keywords: ["anxiety", "buddhism", "death", "literature"]
+trigger_keywords: ["《哲学的慰藉》The", "Consolation", "of", "Philosophy"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
+    relation: "philosophy/死亡"
+  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
+    relation: "死亡/焦虑"
 ---
 # 《哲学的慰藉》The Consolation of Philosophy
 

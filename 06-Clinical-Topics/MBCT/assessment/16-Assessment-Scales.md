@@ -1,7 +1,6 @@
 ---
-
 title: "Assessment Scales"
-description: "Assessment Scales的详细解析与实践指南"
+description: "Assessment Scales —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["depression", "intervention", "mindfulness", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Assessment Scales"
   - "Assessment Scales的核心概念"
   - "Assessment Scales的方法与实践"
-trigger_keywords: ["act", "assessment", "body", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "depression/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "depression/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "depression/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "depression/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "depression/emotion/meditation"
-
+trigger_keywords: ["Assessment", "Scales"]
+cross_refs: []
 ---
 ## 16. 疗效评估与正念特异性量表
 

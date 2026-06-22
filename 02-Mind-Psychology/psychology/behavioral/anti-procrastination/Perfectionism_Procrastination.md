@@ -1,7 +1,6 @@
 ---
-
 title: "完美主义与拖延"
-description: "完美主义与拖延的详细解析与实践指南"
+description: "完美主义与拖延 —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["心理学", "行为心理"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是完美主义与拖延"
   - "完美主义与拖延的核心概念"
   - "完美主义与拖延的方法与实践"
-trigger_keywords: ["完美主义与拖延", "assessment", "behavioral", "cognitive", "心理学"]
+trigger_keywords: ["完美主义与拖延", "心理学"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/GongsunLong.md"
-    relation: "communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/other-schools/Sunzi.md"
-    relation: "communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/scriptures/Multi_Perspective_Reviews.md"
-    relation: "communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "communication/productivity"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe.md"
-    relation: "communication/productivity"
-
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "拖延/认知重构"
+  - path: "05-Praxis-Growth/personal-development/procrastination/INDEX.md"
+    relation: "拖延/认知重构"
+  - path: "05-Praxis-Growth/personal-development/procrastination/03_拖延症应对策略.md"
+    relation: "拖延/认知重构"
 ---
 # 完美主义与拖延
 

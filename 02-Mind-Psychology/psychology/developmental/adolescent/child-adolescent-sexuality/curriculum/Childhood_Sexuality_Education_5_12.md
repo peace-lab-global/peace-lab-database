@@ -1,7 +1,6 @@
 ---
-
 title: "儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)"
-description: "儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)的详细解析与实践指南"
+description: "儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide) —— Child Adolescent Sexuality · Curriculum 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality > Curriculum"
 tags: ["act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是儿童期性教育专业指南"
   - "儿童期性教育专业指南的核心概念"
   - "儿童期性教育专业指南的方法与实践"
-trigger_keywords: ["儿童期性教育专业指南", "act", "adolescent", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["儿童期性教育专业指南", "5-12岁", "Childhood", "Sexuality", "Education"]
+cross_refs: []
 ---
 # 儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)
 

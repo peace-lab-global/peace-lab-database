@@ -1,7 +1,6 @@
 ---
-
 title: "乱伦研究专业内容体系概览 (Incest Research Professional Content Overview)"
-description: "乱伦研究专业内容体系概览 (Incest Research Professional Content Overview)的详细解析与实践指南"
+description: "乱伦研究专业内容体系概览 (Incest Research Professional Content Overview) —— 性学 · Incest 专题"
 category: "生命科学与生物医学 > 性学 > Incest"
 tags: ["attachment", "intervention", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是乱伦研究专业内容体系概览"
   - "乱伦研究专业内容体系概览的核心概念"
   - "乱伦研究专业内容体系概览的方法与实践"
-trigger_keywords: ["assessment", "attachment", "behavioral", "child"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/LaoShe_Works_Analysis.md"
-    relation: "attachment/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "attachment/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "attachment/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "attachment/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "attachment/neuroscience/sexuality"
-
+trigger_keywords: ["乱伦研究专业内容体系概览", "Incest", "Research", "Professional", "Content"]
+cross_refs: []
 ---
 # 乱伦研究专业内容体系概览 (Incest Research Professional Content Overview)
 

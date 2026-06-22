@@ -1,7 +1,6 @@
 ---
-
 title: "14th Dalai Lama (达赖喇嘛十四世) — 冥想与科学对话的全球桥梁"
-description: "14th Dalai Lama (达赖喇嘛十四世) — 冥想与科学对话的全球桥梁的详细解析与实践指南"
+description: "14th Dalai Lama (达赖喇嘛十四世) — 冥想与科学对话的全球桥梁 —— Masters · Tibetan 专题"
 category: "心智与心理学 > 冥想 > Masters > Tibetan"
 tags: ["brain", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是14th Dalai Lama  — 冥想与科学对话的全球桥梁"
   - "14th Dalai Lama  — 冥想与科学对话的全球桥梁的核心概念"
   - "14th Dalai Lama  — 冥想与科学对话的全球桥梁的方法与实践"
-trigger_keywords: ["act", "art", "body", "brain"]
+trigger_keywords: ["14th", "Dalai", "Lama", "达赖喇嘛十四世", "冥想与科学对话的全球桥梁"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/my-spiritual-journey.md"
+    relation: "喇嘛/dalai/lama"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-book-of-joy.md"
+    relation: "喇嘛/dalai/lama"
 ---
 # 14th Dalai Lama (达赖喇嘛十四世) — 冥想与科学对话的全球桥梁
 

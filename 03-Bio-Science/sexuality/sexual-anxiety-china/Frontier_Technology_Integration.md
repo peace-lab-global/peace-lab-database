@@ -1,7 +1,6 @@
 ---
-
 title: "前沿技术在性焦虑领域的整合应用"
-description: "前沿技术在性焦虑领域的整合应用的详细解析与实践指南"
+description: "前沿技术在性焦虑领域的整合应用 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "前沿技术在性焦虑领域的整合应用的核心概念"
   - "前沿技术在性焦虑领域的整合应用的方法与实践"
   - "前沿技术在性焦虑领域的整合应用的自助方法"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["前沿技术在性焦虑领域的整合应用"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "README.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/cardiovascular/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/emotion"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Cognitive_Restructuring_Anxiety.md"
+    relation: "焦虑/认知重构"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "焦虑/认知重构"
   - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/INDEX.md"
-    relation: "anxiety/communication/emotion"
-
+    relation: "焦虑/系统脱敏/暴露"
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "认知重构/情绪调节/焦虑"
 ---
 # 前沿技术在性焦虑领域的整合应用
 

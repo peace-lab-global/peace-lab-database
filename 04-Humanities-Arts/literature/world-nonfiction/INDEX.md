@@ -1,7 +1,6 @@
 ---
-
 title: "World Nonfiction | 世界非虚构与灵性书写"
-description: "World Nonfiction | 世界非虚构与灵性书写的详细解析与实践指南"
+description: "World Nonfiction | 世界非虚构与灵性书写 —— 文学 · World Nonfiction 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction"
 tags: ["healing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是World Nonfiction | 世界非虚构与灵性书写"
   - "World Nonfiction | 世界非虚构与灵性书写的核心概念"
   - "World Nonfiction | 世界非虚构与灵性书写的方法与实践"
-trigger_keywords: ["世界非虚构与灵性书写", "anxiety", "art", "brain", "breathwork"]
+trigger_keywords: ["世界非虚构与灵性书写", "World", "Nonfiction"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "anxiety/buddhism/daoism"
-
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/end-of-life/death"
+  - path: "03-Bio-Science/death/Death_Curriculum_Alignment_Audit.md"
+    relation: "dying/临终/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终/佛教"
+  - path: "03-Bio-Science/death/Death_NDE_Near_Death_Experience.md"
+    relation: "nde/临终/end-of-life"
 ---
 # World Nonfiction | 世界非虚构与灵性书写
 

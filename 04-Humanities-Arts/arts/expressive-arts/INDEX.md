@@ -1,7 +1,6 @@
 ---
-
 title: "expressive-arts | Index"
-description: "expressive-arts | Index的详细解析与实践指南"
+description: "expressive-arts | Index —— 艺术 · Expressive Arts 专题"
 category: "人文与艺术疗愈 > 艺术 > Expressive Arts"
 tags: ["art-therapy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是expressive-arts | Index"
   - "expressive-arts | Index的核心概念"
   - "expressive-arts | Index的方法与实践"
-trigger_keywords: ["Index", "艺术"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise"
-
+trigger_keywords: ["艺术", "expressive-arts"]
+cross_refs: []
 ---
 # expressive-arts | Index
 

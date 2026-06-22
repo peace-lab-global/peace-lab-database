@@ -1,7 +1,6 @@
 ---
-
 title: "接纳承诺治疗 (ACT: Acceptance and Commitment Therapy)"
-description: "接纳承诺治疗 (ACT: Acceptance and Commitment Therapy)的详细解析与实践指南"
+description: "接纳承诺治疗 (ACT: Acceptance and Commitment Therapy) —— 疗法 · 接纳承诺疗法 专题"
 category: "心智与心理学 > 疗法 > 接纳承诺疗法"
 tags: ["anxiety", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "接纳承诺治疗的核心概念"
   - "接纳承诺治疗的方法与实践"
   - "接纳承诺治疗的循证证据"
-trigger_keywords: ["接纳承诺治疗", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Pottery_Therapy.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["接纳承诺治疗", "ACT:", "Acceptance", "and", "Commitment"]
+cross_refs: []
 ---
 # 接纳承诺治疗 (ACT: Acceptance and Commitment Therapy)
 

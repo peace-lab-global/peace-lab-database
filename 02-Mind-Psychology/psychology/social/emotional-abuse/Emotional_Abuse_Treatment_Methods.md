@@ -1,7 +1,6 @@
 ---
-
 title: "冷暴力治疗干预方法专业内容体系"
-description: "冷暴力治疗干预方法专业内容体系的详细解析与实践指南"
+description: "冷暴力治疗干预方法专业内容体系 —— 社会心理学 · Emotional Abuse 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Emotional Abuse"
 tags: ["anxiety", "attachment", "emdr", "cbt", "act"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "冷暴力治疗干预方法专业内容体系的核心概念"
   - "冷暴力治疗干预方法专业内容体系的方法与实践"
   - "冷暴力治疗干预方法专业内容体系的循证证据"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["冷暴力治疗干预方法专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/media/cinema/film-criticism/Therapy_Application_Guide.md"
+    relation: "创伤/团体治疗/认知行为"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "团体治疗/认知行为/情绪调节"
+  - path: "04-Humanities-Arts/media/tv/the-housemaid-2026/QUALITY_REPORT.md"
+    relation: "团体治疗/创伤"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No2_Therapeutic_Analysis.md"
+    relation: "创伤/情绪调节"
 ---
 # 冷暴力治疗干预方法专业内容体系
 

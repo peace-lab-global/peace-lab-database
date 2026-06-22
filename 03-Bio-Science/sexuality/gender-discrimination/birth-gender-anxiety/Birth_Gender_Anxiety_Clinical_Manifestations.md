@@ -1,7 +1,6 @@
 ---
-
 title: "Birth Gender Anxiety: Clinical Manifestations and Diagnosis (生育性别焦虑的临床表现与诊断)"
-description: "Birth Gender Anxiety: Clinical Manifestations and Diagnosis (生育性别焦虑的临床表现与诊断)的详细解析与实践指南"
+description: "Birth Gender Anxiety: Clinical Manifestations and Diagnosis (生育性别焦虑的临床表现与诊断) —— Gender Discrimination · Birth Gender Anxiety 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination > Birth Gender Anxiety"
 tags: ["decision-making", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Birth Gender Anxiety: Clinical Manifestations and Diagnosis"
   - "Birth Gender Anxiety: Clinical Manifestations and Diagnosis的核心概念"
   - "Birth Gender Anxiety: Clinical Manifestations and Diagnosis的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "clinical"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/22-Gig-Economy-and-Platform-Workers.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Pregnancy.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/crisis-intervention/Adolescent_Crisis_Intervention_Suicide_Prevention.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["Birth", "Gender", "Anxiety:", "Clinical", "Manifestations"]
+cross_refs: []
 ---
 # Birth Gender Anxiety: Clinical Manifestations and Diagnosis (生育性别焦虑的临床表现与诊断)
 

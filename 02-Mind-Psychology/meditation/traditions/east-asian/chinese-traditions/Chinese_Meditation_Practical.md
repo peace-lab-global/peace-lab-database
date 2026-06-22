@@ -1,7 +1,6 @@
 ---
-
 title: "中国本土冥想现代实践指南"
-description: "中国本土冥想现代实践指南的详细解析与实践指南"
+description: "中国本土冥想现代实践指南 —— 冥想 · Chinese Traditions 专题"
 category: "心智与心理学 > 冥想 > Chinese Traditions"
 tags: ["anxiety", "calligraphy"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是中国本土冥想现代实践指南"
   - "中国本土冥想现代实践指南的核心概念"
   - "中国本土冥想现代实践指南的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "assessment"]
+trigger_keywords: ["中国本土冥想现代实践指南"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/art_therapy"
-
+  - path: "01-Wisdom-Traditions/religions/dao/Daoist_Psychological_Health_Cultivation.md"
+    relation: "静坐/道家/无为"
 ---
 # 中国本土冥想现代实践指南
 

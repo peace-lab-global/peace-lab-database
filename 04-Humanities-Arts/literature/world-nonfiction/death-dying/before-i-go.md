@@ -1,7 +1,6 @@
 ---
-
 title: "《告别之前》Before I Go"
-description: "《告别之前》Before I Go的详细解析与实践指南"
+description: "《告别之前》Before I Go —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《告别之前》Before I Go"
   - "《告别之前》Before I Go的核心概念"
   - "《告别之前》Before I Go的方法与实践"
-trigger_keywords: ["art", "body", "psychology", "writing"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/death"
-  - path: "03-Bio-Science/death/Death_Art_Death.md"
-    relation: "art_therapy/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Liezi.md"
-    relation: "communication/death"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication"
-
+trigger_keywords: ["writing", "《告别之前》Before", "Go"]
+cross_refs: []
 ---
 # 《告别之前》Before I Go
 

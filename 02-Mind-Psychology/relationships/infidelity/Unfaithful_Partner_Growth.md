@@ -1,7 +1,6 @@
 ---
-
 title: "出轨者的自我觉察与改变"
-description: "出轨者的自我觉察与改变的详细解析与实践指南"
+description: "出轨者的自我觉察与改变 —— 人际关系 · Infidelity 专题"
 category: "心智与心理学 > 人际关系 > Infidelity"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是出轨者的自我觉察与改变"
   - "出轨者的自我觉察与改变的核心概念"
   - "出轨者的自我觉察与改变的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "attachment"]
+trigger_keywords: ["出轨者的自我觉察与改变"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/attachment/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
+    relation: "内疚/焦虑/婚姻"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "沟通/依恋/羞耻"
+  - path: "03-Bio-Science/biology/body-shame/populations/Body_Shame_Special_Populations.md"
+    relation: "羞耻/沟通"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "婚姻/vs"
 ---
 # 出轨者的自我觉察与改变
 

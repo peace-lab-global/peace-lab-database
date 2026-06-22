@@ -1,7 +1,6 @@
 ---
-
 title: "唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)"
-description: "唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)的详细解析与实践指南"
+description: "唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "habits", "personality", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是唯识与中观的对话与融合"
   - "唯识与中观的对话与融合的核心概念"
   - "唯识与中观的对话与融合的方法与实践"
-trigger_keywords: ["act", "buddhism", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
-    relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md"
-    relation: "buddhism/emotion/personality"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
-    relation: "buddhism/emotion/personality"
-
+trigger_keywords: ["唯识与中观的对话与融合", "Yogācāra-Mādhyamaka", "Dialogue", "Integration"]
+cross_refs: []
 ---
 # 唯识与中观的对话与融合 (Yogācāra-Mādhyamaka Dialogue & Integration)
 

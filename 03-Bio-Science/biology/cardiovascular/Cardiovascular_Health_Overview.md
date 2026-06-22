@@ -1,7 +1,6 @@
 ---
-
 title: "心血管健康总览 | Cardiovascular Health Overview"
-description: "心血管健康总览 | Cardiovascular Health Overview的详细解析与实践指南"
+description: "心血管健康总览 | Cardiovascular Health Overview —— 生物学 · 心血管 专题"
 category: "生命科学与生物医学 > 生物学 > 心血管"
 tags: ["brain", "cardiovascular", "death", "depression", "exercise", "gut"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是心血管健康总览 | Cardiovascular Health Overview"
   - "心血管健康总览 | Cardiovascular Health Overview的核心概念"
   - "心血管健康总览 | Cardiovascular Health Overview的方法与实践"
-trigger_keywords: ["心血管健康总览", "assessment", "brain", "cardiovascular", "clinical"]
+trigger_keywords: ["心血管健康总览", "cardiovascular"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "body_image/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md"
-    relation: "body_image/cardiovascular/depression"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "cardiovascular/depression/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "cardiovascular/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "death/exercise/neuroscience"
-
+  - path: "01-Wisdom-Traditions/tai-chi/clinical-health/TaiChi_Cardiovascular_Metabolic.md"
+    relation: "cardiovascular/运动/心率"
 ---
 # 心血管健康总览 | Cardiovascular Health Overview
 

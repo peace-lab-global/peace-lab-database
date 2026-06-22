@@ -1,7 +1,6 @@
 ---
-
 title: "芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)"
-description: "芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)的详细解析与实践指南"
+description: "芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References) —— 艺术 · 芭蕾 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾"
 tags: ["ballet", "music", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是芭蕾舞术语词典与参考资料"
   - "芭蕾舞术语词典与参考资料的核心概念"
   - "芭蕾舞术语词典与参考资料的方法与实践"
-trigger_keywords: ["act", "art", "ballet", "body"]
+trigger_keywords: ["ballet", "芭蕾舞术语词典与参考资料", "Ballet", "Terminology", "Dictionary"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "exercise/sexuality/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Attraction_Clinical_Assessment.md"
+    relation: "芭蕾/ballet"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/ballet/Ballet_Professional_Attraction.md"
+    relation: "芭蕾/ballet/舞蹈"
 ---
 # 芭蕾舞术语词典与参考资料 (Ballet Terminology Dictionary & References)
 

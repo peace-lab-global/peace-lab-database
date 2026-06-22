@@ -1,7 +1,6 @@
 ---
-
 title: "《约伯记》The Book of Job"
-description: "《约伯记》The Book of Job的详细解析与实践指南"
+description: "《约伯记》The Book of Job —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["literature", "religion", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《约伯记》The Book of Job"
   - "《约伯记》The Book of Job的核心概念"
   - "《约伯记》The Book of Job的方法与实践"
-trigger_keywords: ["death", "literature", "philosophy", "religion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus_Works_Analysis.md"
-    relation: "death/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
-    relation: "death/emotion/exercise"
-
+trigger_keywords: ["religion", "《约伯记》The", "Book", "of", "Job"]
+cross_refs: []
 ---
 # 《约伯记》The Book of Job
 

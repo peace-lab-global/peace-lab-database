@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Communication Skills & Interaction Strategies (约会沟通技巧与互动策略)"
-description: "Dating Communication Skills & Interaction Strategies (约会沟通技巧与互动策略)的详细解析与实践指南"
+description: "Dating Communication Skills & Interaction Strategies (约会沟通技巧与互动策略) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["anxiety", "cinema", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Dating Communication Skills & Interaction Strategies"
   - "Dating Communication Skills & Interaction Strategies的核心概念"
   - "Dating Communication Skills & Interaction Strategies的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
+trigger_keywords: ["Dating", "Communication", "Skills", "Interaction", "Strategies"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Sartre_Works_Analysis.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md"
-    relation: "anxiety/communication/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md"
+    relation: "沟通/communication/psychology"
 ---
 # Dating Communication Skills & Interaction Strategies (约会沟通技巧与互动策略)
 

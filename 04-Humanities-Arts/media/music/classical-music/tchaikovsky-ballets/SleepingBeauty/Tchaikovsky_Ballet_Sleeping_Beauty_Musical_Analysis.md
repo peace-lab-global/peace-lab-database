@@ -1,7 +1,6 @@
 ---
-
 title: "柴可夫斯基芭蕾舞剧《睡美人》音乐分析"
-description: "柴可夫斯基芭蕾舞剧《睡美人》音乐分析的详细解析与实践指南"
+description: "柴可夫斯基芭蕾舞剧《睡美人》音乐分析 —— Tchaikovsky Ballets · Sleepingbeauty 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Tchaikovsky Ballets > Sleepingbeauty"
 tags: ["ballet", "music", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是柴可夫斯基芭蕾舞剧《睡美人》音乐分析"
   - "柴可夫斯基芭蕾舞剧《睡美人》音乐分析的核心概念"
   - "柴可夫斯基芭蕾舞剧《睡美人》音乐分析的方法与实践"
-trigger_keywords: ["art", "ballet", "child", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "emotion/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Yangsheng_Herbology.md"
-    relation: "emotion/exercise/sexuality"
-
+trigger_keywords: ["ballet", "柴可夫斯基芭蕾舞剧《睡美人》音乐分析"]
+cross_refs: []
 ---
 # 柴可夫斯基芭蕾舞剧《睡美人》音乐分析
 

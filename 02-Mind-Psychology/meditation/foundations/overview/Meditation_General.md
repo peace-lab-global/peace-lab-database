@@ -1,7 +1,6 @@
 ---
-
 title: "General Meditation (冥想概论与通识)"
-description: "General Meditation (冥想概论与通识)的详细解析与实践指南"
+description: "General Meditation (冥想概论与通识) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "cbt", "mindfulness", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是General Meditation"
   - "General Meditation的核心概念"
   - "General Meditation的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["General", "Meditation", "冥想概论与通识"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/steps-to-an-ecology-of-mind.md"
+    relation: "bind/mind/double"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/double-bind.md"
+    relation: "bind/double/bateson"
 ---
 # General Meditation (冥想概论与通识)
 

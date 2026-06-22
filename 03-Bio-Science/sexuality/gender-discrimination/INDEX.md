@@ -1,7 +1,6 @@
 ---
-
 title: "gender-discrimination | 性别歧视专题"
-description: "gender-discrimination | 性别歧视专题的详细解析与实践指南"
+description: "gender-discrimination | 性别歧视专题 —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["intervention", "sexuality", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是gender-discrimination | 性别歧视专题"
   - "gender-discrimination | 性别歧视专题的核心概念"
   - "gender-discrimination | 性别歧视专题的方法与实践"
-trigger_keywords: ["性别歧视专题", "act", "anxiety", "assessment", "clinical"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Phenomenology_Metaphysics.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/exercise/sexuality"
-
+trigger_keywords: ["性别歧视专题", "gender-discrimination"]
+cross_refs: []
 ---
 # gender-discrimination | 性别歧视专题
 

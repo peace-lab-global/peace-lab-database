@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖具体类型分析 (Specific Types of Voyeurism Analysis)"
-description: "窥淫癖具体类型分析 (Specific Types of Voyeurism Analysis)的详细解析与实践指南"
+description: "窥淫癖具体类型分析 (Specific Types of Voyeurism Analysis) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["anxiety", "attachment", "cbt", "depression", "personality", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是窥淫癖具体类型分析"
   - "窥淫癖具体类型分析的核心概念"
   - "窥淫癖具体类型分析的方法与实践"
-trigger_keywords: ["窥淫癖具体类型分析", "act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Ritual_Mindfulness.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/sexuality/authority-complex/Teacher_Coach_Complex.md"
-    relation: "anxiety/attachment/exercise"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
-    relation: "anxiety/attachment/exercise"
-
+trigger_keywords: ["窥淫癖具体类型分析", "Specific", "Types", "of", "Voyeurism"]
+cross_refs: []
 ---
 # 窥淫癖具体类型分析 (Specific Types of Voyeurism Analysis)
 

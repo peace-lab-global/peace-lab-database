@@ -1,7 +1,6 @@
 ---
-
 title: "人际心理治疗 (IPT: Interpersonal Psychotherapy)"
-description: "人际心理治疗 (IPT: Interpersonal Psychotherapy)的详细解析与实践指南"
+description: "人际心理治疗 (IPT: Interpersonal Psychotherapy) —— 疗法 · Ipt Therapy 专题"
 category: "心智与心理学 > 疗法 > Ipt Therapy"
 tags: ["anxiety", "attachment", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "人际心理治疗的核心概念"
   - "人际心理治疗的方法与实践"
   - "人际心理治疗的循证证据"
-trigger_keywords: ["人际心理治疗", "anxiety", "assessment", "attachment", "behavioral"]
-cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["人际心理治疗", "IPT:", "Interpersonal", "Psychotherapy"]
+cross_refs: []
 ---
 # 人际心理治疗 (IPT: Interpersonal Psychotherapy)
 

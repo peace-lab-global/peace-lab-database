@@ -1,6 +1,6 @@
 ---
 title: "rationalism | Index"
-description: "rationalism | Index的详细解析与实践指南"
+description: "rationalism | Index —— Early Modern · Rationalism 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Early Modern > Rationalism"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是rationalism | Index"
   - "rationalism | Index的核心概念"
   - "rationalism | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "rationalism"]
 cross_refs: []
 ---
 # rationalism | Index

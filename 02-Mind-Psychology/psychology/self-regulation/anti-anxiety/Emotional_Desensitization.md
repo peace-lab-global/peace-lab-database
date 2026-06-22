@@ -1,7 +1,6 @@
 ---
-
 title: "情绪脱敏技术"
-description: "情绪脱敏技术的详细解析与实践指南"
+description: "情绪脱敏技术 —— 自我调节 · Anti Anxiety 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
 tags: ["anxiety", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是情绪脱敏技术"
   - "情绪脱敏技术的核心概念"
   - "情绪脱敏技术的方法与实践"
-trigger_keywords: ["情绪脱敏技术", "anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["情绪脱敏技术"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/communication/emotion"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
+    relation: "暴露/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "暴露/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
+    relation: "习惯/焦虑"
   - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-
+    relation: "暴露/焦虑"
 ---
 # 情绪脱敏技术
 

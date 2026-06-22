@@ -1,7 +1,6 @@
 ---
-
 title: "科技与社会圆桌 | Technology and Society Round Table"
-description: "科技与社会圆桌 | Technology and Society Round Table的详细解析与实践指南"
+description: "科技与社会圆桌 | Technology and Society Round Table —— 讲座 · Round Table 专题"
 category: "实践与个人增长 > 讲座 > Round Table"
 tags: ["addiction", "minimalism"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是科技与社会圆桌 | Technology and Society Round Table"
   - "科技与社会圆桌 | Technology and Society Round Table的核心概念"
   - "科技与社会圆桌 | Technology and Society Round Table的方法与实践"
-trigger_keywords: ["科技与社会圆桌", "act", "addiction", "adolescent", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "anxiety/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Pyrrho.md"
-    relation: "anxiety/exercise/sexuality"
-
+trigger_keywords: ["科技与社会圆桌", "Technology", "and", "Society", "Round"]
+cross_refs: []
 ---
 # 科技与社会圆桌 | Technology and Society Round Table
 

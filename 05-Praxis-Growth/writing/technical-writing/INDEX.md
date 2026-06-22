@@ -1,7 +1,6 @@
 ---
-
 title: "technical-writing | Index"
-description: "technical-writing | Index的详细解析与实践指南"
+description: "technical-writing | Index —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["writing"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是technical-writing | Index"
   - "technical-writing | Index的核心概念"
   - "technical-writing | Index的方法与实践"
-trigger_keywords: ["Index", "act", "写作"]
+trigger_keywords: ["写作", "technical-writing"]
 cross_refs: []
-
 ---
 # technical-writing | Index
 

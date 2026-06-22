@@ -36,6 +36,9 @@ tags:
   - 依恋
   - 沟通
   - 关系评估
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/Leadership_Assessment_Skill.md"
+    relation: "step/level/entry"
 ---
 
 # 亲密关系质量评估 (Intimate Relationship Quality Assessment)

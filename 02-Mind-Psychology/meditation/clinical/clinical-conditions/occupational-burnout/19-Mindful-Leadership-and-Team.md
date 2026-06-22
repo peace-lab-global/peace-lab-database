@@ -1,7 +1,6 @@
 ---
-
 title: "19. 正念领导力与团队练习 | Mindful Leadership & Team Practices"
-description: "19. 正念领导力与团队练习 | Mindful Leadership & Team Practices的详细解析与实践指南"
+description: "19. 正念领导力与团队练习 | Mindful Leadership & Team Practices —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是19. 正念领导力与团队练习 | Mindful Leadership & Team Practices"
   - "19. 正念领导力与团队练习 | Mindful Leadership & Team Practices的核心概念"
   - "19. 正念领导力与团队练习 | Mindful Leadership & Team Practices的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
+trigger_keywords: ["19.", "正念领导力与团队练习", "Mindful", "Leadership", "Team"]
 cross_refs:
-  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-mindful-brain.md"
+    relation: "正念/mindful/觉察"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Daily_Living.md"
+    relation: "mindful/正念/觉察"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Meeting_Practice.md"
+    relation: "正念/倦怠/mindful"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md"
+    relation: "正念/mindful/觉察"
 ---
 # 19. 正念领导力与团队练习 | Mindful Leadership & Team Practices
 

@@ -1,7 +1,6 @@
 ---
-
 title: "反拖延症 (Anti-Procrastination) | Index"
-description: "反拖延症 (Anti-Procrastination) | Index的详细解析与实践指南"
+description: "反拖延症 (Anti-Procrastination) | Index —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "decision-making", "habits", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是反拖延症  | Index"
   - "反拖延症  | Index的核心概念"
   - "反拖延症  | Index的方法与实践"
-trigger_keywords: ["反拖延症", "Index", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "anxiety/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/productivity/sexuality"
-
+trigger_keywords: ["反拖延症", "Anti-Procrastination"]
+cross_refs: []
 ---
 # 反拖延症 (Anti-Procrastination) | Index
 

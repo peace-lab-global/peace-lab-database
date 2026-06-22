@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析"
-description: "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析的详细解析与实践指南"
+description: "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析 —— Bach Brandenburg Concertos · No3 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Brandenburg Concertos > No3"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析的核心概念"
   - "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析的方法与实践"
   - "巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析的自助方法"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "认知行为/情绪调节"
+  - path: "05-Praxis-Growth/personal-development/procrastination/Procrastination_Psychological_Regulation.md"
+    relation: "情绪调节/认知行为/认知重构"
+  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
+    relation: "认知行为/认知重构"
 ---
 # 巴赫《第三勃兰登堡协奏曲》心理学与疗愈功能分析
 

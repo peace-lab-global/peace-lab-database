@@ -1,7 +1,6 @@
 ---
-
 title: "Delusional Disorder Overview (偏执性精神病概览)"
-description: "Delusional Disorder Overview (偏执性精神病概览)的详细解析与实践指南"
+description: "Delusional Disorder Overview (偏执性精神病概览) —— 精神障碍 · Delusional Disorder 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Delusional Disorder"
 tags: ["anxiety", "schizophrenia", "act", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Delusional Disorder Overview"
   - "Delusional Disorder Overview的核心概念"
   - "Delusional Disorder Overview的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Noble_Truths.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/sexuality"
-
+trigger_keywords: ["Delusional", "Disorder", "Overview", "偏执性精神病概览"]
+cross_refs: []
 ---
 # Delusional Disorder Overview (偏执性精神病概览)
 

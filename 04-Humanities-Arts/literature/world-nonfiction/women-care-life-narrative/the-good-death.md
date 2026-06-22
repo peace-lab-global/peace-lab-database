@@ -1,7 +1,6 @@
 ---
-
 title: "《善终》The Good Death"
-description: "《善终》The Good Death的详细解析与实践指南"
+description: "《善终》The Good Death —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["decision-making", "pain", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《善终》The Good Death"
   - "《善终》The Good Death的核心概念"
   - "《善终》The Good Death的方法与实践"
-trigger_keywords: ["body", "death", "decision-making", "exercise"]
+trigger_keywords: ["decision-making", "exercise"]
 cross_refs:
-  - path: "03-Bio-Science/biology/mens-health/Mens_Health_Overview.md"
-    relation: "death/depression/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "death/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "depression/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "depression/emotion/exercise"
-
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/hospice/death"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
+    relation: "临终/自杀/死亡"
+  - path: "03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md"
+    relation: "临终/good/death"
 ---
 # 《善终》The Good Death
 

@@ -1,7 +1,6 @@
 ---
-
 title: "19世纪哲学经典三方书评"
-description: "19世纪哲学经典三方书评的详细解析与实践指南"
+description: "19世纪哲学经典三方书评 —— 19Th Century · Existential Precursors 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 19Th Century > Existential Precursors"
 tags: ["buddhism", "freud", "philosophy"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是19世纪哲学经典三方书评"
   - "19世纪哲学经典三方书评的核心概念"
   - "19世纪哲学经典三方书评的方法与实践"
-trigger_keywords: ["anxiety", "art", "buddhism", "freud"]
+trigger_keywords: ["freud", "19世纪哲学经典三方书评"]
 cross_refs:
   - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
     relation: "anxiety/buddhism/sexuality"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "anxiety/buddhism/sexuality"
   - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
     relation: "anxiety/buddhism/sexuality"
-
 ---
 # 19世纪哲学经典三方书评
 

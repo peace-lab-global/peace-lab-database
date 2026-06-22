@@ -1,7 +1,6 @@
 ---
-
 title: "Yoga & TCM Integration (瑜伽与中医整合)"
-description: "Yoga & TCM Integration (瑜伽与中医整合)的详细解析与实践指南"
+description: "Yoga & TCM Integration (瑜伽与中医整合) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["depression", "inflammation", "tcm", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Yoga & TCM Integration"
   - "Yoga & TCM Integration的核心概念"
   - "Yoga & TCM Integration的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Treatment.md"
-    relation: "anxiety/cardiovascular/communication"
-
+trigger_keywords: ["Yoga", "TCM", "Integration", "瑜伽与中医整合"]
+cross_refs: []
 ---
 # Yoga & TCM Integration (瑜伽与中医整合)
 

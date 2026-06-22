@@ -1,7 +1,6 @@
 ---
-
 title: "科学哲学与认识论 | Epistemology & Philosophy of Science"
-description: "科学哲学与认识论 | Epistemology & Philosophy of Science的详细解析与实践指南"
+description: "科学哲学与认识论 | Epistemology & Philosophy of Science —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是科学哲学与认识论 | Epistemology & Philosophy of Science"
   - "科学哲学与认识论 | Epistemology & Philosophy of Science的核心概念"
   - "科学哲学与认识论 | Epistemology & Philosophy of Science的方法与实践"
-trigger_keywords: ["科学哲学与认识论", "behavioral", "brain", "cognitive", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/neuroscience/productivity"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/seasonal-affective-disorder/Seasonal_Depression_Intervention_Strategies.md"
-    relation: "communication/neuroscience/productivity"
-
+trigger_keywords: ["科学哲学与认识论", "Epistemology", "Philosophy", "of", "Science"]
+cross_refs: []
 ---
 # 科学哲学与认识论 | Epistemology & Philosophy of Science
 

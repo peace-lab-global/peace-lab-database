@@ -1,7 +1,6 @@
 ---
-
 title: "生物科学 | Biological Sciences Framework"
-description: "生物科学 | Biological Sciences Framework的详细解析与实践指南"
+description: "生物科学 | Biological Sciences Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["gut", "immune", "intervention", "loneliness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是生物科学 | Biological Sciences Framework"
   - "生物科学 | Biological Sciences Framework的核心概念"
   - "生物科学 | Biological Sciences Framework的方法与实践"
-trigger_keywords: ["生物科学", "act", "behavioral", "brain", "crisis"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/INDEX.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "communication/immune/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "communication/immune/neuroscience"
-
+trigger_keywords: ["生物科学", "Biological", "Sciences", "Framework"]
+cross_refs: []
 ---
 # 生物科学 | Biological Sciences Framework
 

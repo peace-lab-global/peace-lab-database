@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)"
-description: "藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)的详细解析与实践指南"
+description: "藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "dzogchen", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是藏传佛教仪轨总览"
   - "藏传佛教仪轨总览的核心概念"
   - "藏传佛教仪轨总览的方法与实践"
-trigger_keywords: ["藏传佛教仪轨总览", "act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["藏传佛教仪轨总览", "Tibetan", "Buddhist", "Rituals", "Overview"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Bach_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
 ---
 # 藏传佛教仪轨总览 (Tibetan Buddhist Rituals Overview)
 

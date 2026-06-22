@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《d小调托卡塔与赋格》综合指南"
-description: "巴赫《d小调托卡塔与赋格》综合指南的详细解析与实践指南"
+description: "巴赫《d小调托卡塔与赋格》综合指南 —— 古典音乐 · Bach Organ Works 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach Organ Works"
 tags: ["healing"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是巴赫《d小调托卡塔与赋格》综合指南"
   - "巴赫《d小调托卡塔与赋格》综合指南的核心概念"
   - "巴赫《d小调托卡塔与赋格》综合指南的方法与实践"
-trigger_keywords: ["art", "brain", "clinical", "cognitive"]
+trigger_keywords: ["巴赫《d小调托卡塔与赋格》综合指南"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/communication/exercise"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-2-yoga-and-meditation.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"
+    relation: "专注/情绪调节"
 ---
 # 巴赫《d小调托卡塔与赋格》综合指南
 

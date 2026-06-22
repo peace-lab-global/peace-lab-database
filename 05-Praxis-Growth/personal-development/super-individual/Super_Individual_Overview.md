@@ -1,7 +1,6 @@
 ---
-
 title: "超级个体概览 | Super Individual Overview"
-description: "超级个体概览 | Super Individual Overview的详细解析与实践指南"
+description: "超级个体概览 | Super Individual Overview —— 个人发展 · 超级个体 专题"
 category: "实践与个人增长 > 个人发展 > 超级个体"
 tags: ["productivity", "social", "个人发展", "超级个体", "negotiation", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是超级个体概览 | Super Individual Overview"
   - "超级个体概览 | Super Individual Overview的核心概念"
   - "超级个体概览 | Super Individual Overview的方法与实践"
-trigger_keywords: ["超级个体概览", "productivity", "psychology", "sexuality", "social"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "productivity/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Xunzi.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["超级个体概览", "productivity", "social"]
+cross_refs: []
 ---
 # 超级个体概览 | Super Individual Overview
 

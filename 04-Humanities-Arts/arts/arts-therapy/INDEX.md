@@ -1,7 +1,6 @@
 ---
-
 title: "arts-therapy | 艺术疗法"
-description: "arts-therapy | 艺术疗法的详细解析与实践指南"
+description: "arts-therapy | 艺术疗法 —— 艺术 · 艺术疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术疗愈"
 tags: ["healing", "therapy", "art-therapy", "艺术疗愈", "renaissance"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "arts-therapy | 艺术疗法的核心概念"
   - "arts-therapy | 艺术疗法的方法与实践"
   - "arts-therapy | 艺术疗法的循证证据"
-trigger_keywords: ["艺术疗法", "art", "clinical", "developmental", "healing"]
+trigger_keywords: ["艺术疗法", "healing"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/therapy"
-  - path: "01-Wisdom-Traditions/religions/islam/Islam_Overview_Full.md"
-    relation: "art_therapy/therapy"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/game-therapy/Game_Therapy_Techniques.md"
+    relation: "疗法/therapy/techniques"
 ---
 # arts-therapy | 艺术疗法
 

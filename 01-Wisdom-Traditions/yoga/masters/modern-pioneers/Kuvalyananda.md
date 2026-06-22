@@ -1,7 +1,6 @@
 ---
-
 title: "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）"
-description: "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的详细解析与实践指南"
+description: "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द） —— Masters · Modern Pioneers 专题"
 category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
 tags: ["intervention", "treatment", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）"
   - "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的核心概念"
   - "库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）的方法与实践"
-trigger_keywords: ["breathwork", "intervention", "psychology", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "cardiovascular/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "cardiovascular/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/professional/masters/hindu-vedantic/Maharishi_Mahesh_Yogi.md"
-    relation: "cardiovascular/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "cardiovascular/sexuality/yoga"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "cardiovascular/sexuality/yoga"
-
+trigger_keywords: ["intervention", "库瓦拉亚南达", "Swami", "Kuvalayananda", "स्वामी"]
+cross_refs: []
 ---
 # 库瓦拉亚南达（Swami Kuvalayananda / स्वामी कुवलयानन्द）
 

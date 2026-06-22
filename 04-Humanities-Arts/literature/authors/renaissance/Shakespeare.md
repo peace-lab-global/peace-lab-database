@@ -1,7 +1,6 @@
 ---
-
 title: "Shakespeare (莎士比亚)：戏剧文学巨匠"
-description: "Shakespeare (莎士比亚)：戏剧文学巨匠的详细解析与实践指南"
+description: "Shakespeare (莎士比亚)：戏剧文学巨匠 —— Authors · 文艺复兴 专题"
 category: "人文与艺术疗愈 > 文学 > Authors > 文艺复兴"
 tags: ["literature", "loneliness", "music", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Shakespeare ：戏剧文学巨匠"
   - "Shakespeare ：戏剧文学巨匠的核心概念"
   - "Shakespeare ：戏剧文学巨匠的方法与实践"
-trigger_keywords: ["act", "aging", "art", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "aging/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/emotion/exercise"
-
+trigger_keywords: ["Shakespeare", "莎士比亚", "：戏剧文学巨匠"]
+cross_refs: []
 ---
 # Shakespeare (莎士比亚)：戏剧文学巨匠
 

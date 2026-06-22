@@ -1,7 +1,6 @@
 ---
-
 title: "Mbct Relapse Prevention"
-description: "Mbct Relapse Prevention的详细解析与实践指南"
+description: "Mbct Relapse Prevention —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["depression", "mbct", "mbsr", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mbct Relapse Prevention"
   - "Mbct Relapse Prevention的核心概念"
   - "Mbct Relapse Prevention的方法与实践"
-trigger_keywords: ["body", "breathwork", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "communication/depression/emotion"
-  - path: "03-Bio-Science/biology/womens-health/Womens_Menstrual_Health.md"
-    relation: "communication/depression/emotion"
-
+trigger_keywords: ["Mbct", "Relapse", "Prevention"]
+cross_refs: []
 ---
 ## 5. MBCT详解：预防抑郁复发
 

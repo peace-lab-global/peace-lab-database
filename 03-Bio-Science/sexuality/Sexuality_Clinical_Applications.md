@@ -1,7 +1,6 @@
 ---
-
 title: "Clinical Applications in Sexuality (性学临床应用)"
-description: "Clinical Applications in Sexuality (性学临床应用)的详细解析与实践指南"
+description: "Clinical Applications in Sexuality (性学临床应用) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["attachment", "brain", "cbt", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Clinical Applications in Sexuality"
   - "Clinical Applications in Sexuality的核心概念"
   - "Clinical Applications in Sexuality的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["Clinical", "Applications", "in", "Sexuality", "性学临床应用"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Energy_Sound.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/attachment/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/neuroscience"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Clinical_Applications.md"
+    relation: "lgbtq/dsm-/criteria"
 ---
 # Clinical Applications in Sexuality (性学临床应用)
 

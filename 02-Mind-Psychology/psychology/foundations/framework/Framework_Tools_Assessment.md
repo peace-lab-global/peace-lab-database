@@ -1,7 +1,6 @@
 ---
-
 title: "Tools (疗愈辅助工具与道具)"
-description: "Tools (疗愈辅助工具与道具)的详细解析与实践指南"
+description: "Tools (疗愈辅助工具与道具) —— 心理学基础 · Framework 专题"
 category: "心智与心理学 > 心理学 > 心理学基础 > Framework"
 tags: ["anxiety", "attachment", "brain", "cbt", "depression", "adhd"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tools"
   - "Tools的核心概念"
   - "Tools的方法与实践"
-trigger_keywords: ["Tools", "anxiety", "assessment", "attachment", "brain"]
-cross_refs:
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "anxiety/attachment/depression"
-  - path: "03-Bio-Science/sexuality/sexual-aversion/Sexual_Aversion_Overview.md"
-    relation: "anxiety/attachment/depression"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/depression"
-
+trigger_keywords: ["Tools", "疗愈辅助工具与道具"]
+cross_refs: []
 ---
 # Tools (疗愈辅助工具与道具)
 

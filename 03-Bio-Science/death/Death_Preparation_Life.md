@@ -1,7 +1,6 @@
 ---
-
 title: "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)"
-description: "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)的详细解析与实践指南"
+description: "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism"
   - "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的核心概念"
   - "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的方法与实践"
-trigger_keywords: ["aging", "anxiety", "art", "behavioral"]
+trigger_keywords: ["Death", "Preparation", "in", "Daily", "Life:"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/media/music/folk-music-therapy/Folk_Music_Therapy.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/anxiety/death"
-
+  - path: "05-Praxis-Growth/personal-development/minimalism/INDEX.md"
+    relation: "minimalism/swedish/cleaning"
 ---
 # Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "性教育与社会变革 (Sex Education and Social Change)"
-description: "性教育与社会变革 (Sex Education and Social Change)的详细解析与实践指南"
+description: "性教育与社会变革 (Sex Education and Social Change) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["aging"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是性教育与社会变革"
   - "性教育与社会变革的核心概念"
   - "性教育与社会变革的方法与实践"
-trigger_keywords: ["性教育与社会变革", "aging", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Treatment_Methods.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["性教育与社会变革", "Sex", "Education", "and", "Social"]
+cross_refs: []
 ---
 # 性教育与社会变革 (Sex Education and Social Change)
 

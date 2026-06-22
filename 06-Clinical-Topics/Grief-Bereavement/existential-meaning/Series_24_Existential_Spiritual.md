@@ -1,7 +1,6 @@
 ---
-
 title: "系列二十四：存在与灵性系列 | Existential & Spiritual Series"
-description: "系列二十四：存在与灵性系列 | Existential & Spiritual Series的详细解析与实践指南"
+description: "系列二十四：存在与灵性系列 | Existential & Spiritual Series —— 冥想 · 冥想引导课程 专题"
 category: "心智与心理学 > 冥想 > 冥想引导课程"
 tags: ["anxiety", "meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是系列二十四：存在与灵性系列 | Existential & Spiritual Series"
   - "系列二十四：存在与灵性系列 | Existential & Spiritual Series的核心概念"
   - "系列二十四：存在与灵性系列 | Existential & Spiritual Series的方法与实践"
-trigger_keywords: ["aging", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Anxiety_Treatment.md"
-    relation: "aging/anxiety/death"
-  - path: "03-Bio-Science/death/Death_Clinical_Casebook.md"
-    relation: "aging/anxiety/death"
-  - path: "03-Bio-Science/death/Death_Education_Workshop_Design.md"
-    relation: "aging/anxiety/death"
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "aging/anxiety/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/no-mud-no-lotus.md"
-    relation: "aging/anxiety/death"
-
+trigger_keywords: ["系列二十四：存在与灵性系列", "Existential", "Spiritual", "Series"]
+cross_refs: []
 ---
 # 系列二十四：存在与灵性系列 | Existential & Spiritual Series
 

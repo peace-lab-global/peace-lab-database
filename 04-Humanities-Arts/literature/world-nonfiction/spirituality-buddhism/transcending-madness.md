@@ -1,7 +1,6 @@
 ---
-
 title: "《超越疯狂》Transcending Madness"
-description: "《超越疯狂》Transcending Madness的详细解析与实践指南"
+description: "《超越疯狂》Transcending Madness —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["habits", "spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《超越疯狂》Transcending Madness"
   - "《超越疯狂》Transcending Madness的核心概念"
   - "《超越疯狂》Transcending Madness的方法与实践"
-trigger_keywords: ["anxiety", "buddhism", "emotion", "habits"]
+trigger_keywords: ["habits", "《超越疯狂》Transcending", "Madness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "gyam/trungpa/ch"
 ---
 # 《超越疯狂》Transcending Madness
 

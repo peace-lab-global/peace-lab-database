@@ -1,7 +1,6 @@
 ---
-
 title: "《入菩萨行论》The Way of the Bodhisattva"
-description: "《入菩萨行论》The Way of the Bodhisattva的详细解析与实践指南"
+description: "《入菩萨行论》The Way of the Bodhisattva —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《入菩萨行论》The Way of the Bodhisattva"
   - "《入菩萨行论》The Way of the Bodhisattva的核心概念"
   - "《入菩萨行论》The Way of the Bodhisattva的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "cognitive", "sexuality"]
+trigger_keywords: ["《入菩萨行论》The", "Way", "of", "the", "Bodhisattva"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Amitabha_Sutra.md"
+    relation: "菩萨/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Great_Compassion_Mantra.md"
+    relation: "菩萨/菩提/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Diamond_Sutra.md"
+    relation: "菩萨/菩提/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Surangama_Sutra.md"
+    relation: "菩萨/菩提"
 ---
 # 《入菩萨行论》The Way of the Bodhisattva
 

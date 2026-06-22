@@ -1,7 +1,6 @@
 ---
-
 title: "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia"
-description: "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的详细解析与实践指南"
+description: "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia"
   - "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的核心概念"
   - "TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
-    relation: "anxiety/emotion/exercise"
-
+trigger_keywords: ["TED演讲全领域资源库", "TED", "Talks", "Comprehensive", "Resources"]
+cross_refs: []
 ---
 # TED演讲全领域资源库 | TED Talks Comprehensive Resources | Colloquia TED Universalia
 

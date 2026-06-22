@@ -1,7 +1,6 @@
 ---
-
 title: "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་"
-description: "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的详细解析与实践指南"
+description: "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་ —— 宗教与灵性 · 藏传佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 藏传佛教"
 tags: ["buddhism", "philosophy", "religion", "宗教与灵性", "藏传佛教"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་"
   - "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的核心概念"
   - "转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་的方法与实践"
-trigger_keywords: ["转世活佛制度", "སྤྲུལ་སྐུ་", "art", "buddhism", "developmental", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indigenous-other/jain-meditation/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md"
-    relation: "buddhism/death/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md"
-    relation: "buddhism/death/sexuality"
-
+trigger_keywords: ["转世活佛制度", "སྤྲུལ་སྐུ་"]
+cross_refs: []
 ---
 # 转世活佛制度 | Tulku System | སྤྲུལ་སྐུ་
 

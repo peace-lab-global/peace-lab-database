@@ -1,7 +1,6 @@
 ---
-
 title: "失眠疗愈概览 (Insomnia Therapy Overview)"
-description: "失眠疗愈概览 (Insomnia Therapy Overview)的详细解析与实践指南"
+description: "失眠疗愈概览 (Insomnia Therapy Overview) —— 躯体与情绪 · Sleep 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Sleep"
 tags: ["anxiety", "cardiovascular", "cbt", "sleep", "act", "insomnia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是失眠疗愈概览"
   - "失眠疗愈概览的核心概念"
   - "失眠疗愈概览的方法与实践"
-trigger_keywords: ["失眠疗愈概览", "act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/depression"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/coffee/Coffee_Mental_Health_Applications.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Contemporary_Pianists_Music_Therapy.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["失眠疗愈概览", "Insomnia", "Therapy", "Overview"]
+cross_refs: []
 ---
 # 失眠疗愈概览 (Insomnia Therapy Overview)
 

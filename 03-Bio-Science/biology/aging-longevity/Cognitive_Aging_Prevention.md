@@ -1,7 +1,6 @@
 ---
-
 title: "认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention"
-description: "认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention的详细解析与实践指南"
+description: "认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention —— 生物学 · 衰老与长寿 专题"
 category: "生命科学与生物医学 > 生物学 > 衰老与长寿"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention"
   - "认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention的核心概念"
   - "认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention的方法与实践"
-trigger_keywords: ["认知衰老与痴呆预防", "act", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["认知衰老与痴呆预防", "Cognitive", "Aging", "Dementia", "Prevention"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Cognitive_Decline.md"
+    relation: "mci/aging/finger"
+  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/INDEX.md"
+    relation: "aging/mci/cognitive"
 ---
 # 认知衰老与痴呆预防 | Cognitive Aging & Dementia Prevention
 

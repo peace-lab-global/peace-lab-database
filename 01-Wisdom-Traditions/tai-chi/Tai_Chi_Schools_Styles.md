@@ -1,7 +1,6 @@
 ---
-
 title: "太极拳五大流派 | Tai Chi Schools & Styles"
-description: "太极拳五大流派 | Tai Chi Schools & Styles的详细解析与实践指南"
+description: "太极拳五大流派 | Tai Chi Schools & Styles —— 智慧传承 · 太极拳 专题"
 category: "智慧传承 > 太极拳"
 tags: ["daoism", "decision-making", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是太极拳五大流派 | Tai Chi Schools & Styles"
   - "太极拳五大流派 | Tai Chi Schools & Styles的核心概念"
   - "太极拳五大流派 | Tai Chi Schools & Styles的方法与实践"
-trigger_keywords: ["太极拳五大流派", "act", "art", "body", "daoism"]
+trigger_keywords: ["太极拳五大流派", "daoism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/Meditation_World_Panorama.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "daoism/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/13-Crisis-Safety.md"
-    relation: "daoism/exercise/meditation"
-
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极拳五大流派 | Tai Chi Schools & Styles
 

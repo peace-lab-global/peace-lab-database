@@ -1,7 +1,6 @@
 ---
-
 title: "宗教心理学核心理论与模型 (Religious Psychology: Core Theories & Models)"
-description: "宗教心理学核心理论与模型 (Religious Psychology: Core Theories & Models)的详细解析与实践指南"
+description: "宗教心理学核心理论与模型 (Religious Psychology: Core Theories & Models) —— 宗教心理学 · Theory 专题"
 category: "智慧传承 > 宗教与灵性 > 宗教心理学 > Theory"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "宗教心理学核心理论与模型的核心概念"
   - "宗教心理学核心理论与模型的方法与实践"
   - "宗教心理学核心理论与模型的自助方法"
-trigger_keywords: ["addiction", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["宗教心理学核心理论与模型", "Religious", "Psychology:", "Core", "Theories"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_08_Life_Scenes.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/theory-models/Political_Psychology_Theories_Models.md"
+    relation: "theories/models/table"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/theory-models/INDEX.md"
+    relation: "theories/models/psychology"
 ---
 # 宗教心理学核心理论与模型 (Religious Psychology: Core Theories & Models)
 

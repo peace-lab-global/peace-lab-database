@@ -1,7 +1,6 @@
 ---
-
 title: "稳定内核：建设不可动摇的内在根基"
-description: "稳定内核：建设不可动摇的内在根基的详细解析与实践指南"
+description: "稳定内核：建设不可动摇的内在根基 —— 个人发展 · 稳定内核 专题"
 category: "实践与个人增长 > 个人发展 > 稳定内核"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是稳定内核：建设不可动摇的内在根基"
   - "稳定内核：建设不可动摇的内在根基的核心概念"
   - "稳定内核：建设不可动摇的内在根基的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/Dialectical_Behavior_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-ballades/Chopin_Ballades_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/exercise/meditation"
-
+trigger_keywords: ["稳定内核：建设不可动摇的内在根基"]
+cross_refs: []
 ---
 # 稳定内核：建设不可动摇的内在根基
 ## Stable Inner Core: Building an Unshakeable Inner Foundation

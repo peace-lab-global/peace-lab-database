@@ -1,7 +1,6 @@
 ---
-
 title: "李清照 (Li Qingzhao, 1084-约1155)：婉约词派的杰出女词人"
-description: "李清照 (Li Qingzhao, 1084-约1155)：婉约词派的杰出女词人的详细解析与实践指南"
+description: "李清照 (Li Qingzhao, 1084-约1155)：婉约词派的杰出女词人 —— Song Lyrics · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Classical Literature > Song Lyrics > Authors"
 tags: ["literature", "loneliness", "marriage", "music", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是李清照 ：婉约词派的杰出女词人"
   - "李清照 ：婉约词派的杰出女词人的核心概念"
   - "李清照 ：婉约词派的杰出女词人的方法与实践"
-trigger_keywords: ["act", "art", "developmental", "literature"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Development.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "attachment/communication/emotion"
-
+trigger_keywords: ["李清照", "Li", "Qingzhao", "1084-约1155", "：婉约词派的杰出女词人"]
+cross_refs: []
 ---
 # 李清照 (Li Qingzhao, 1084-约1155)：婉约词派的杰出女词人
 

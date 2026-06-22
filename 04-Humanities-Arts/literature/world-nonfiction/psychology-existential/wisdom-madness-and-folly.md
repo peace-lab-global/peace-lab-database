@@ -1,7 +1,6 @@
 ---
-
 title: "《智慧、疯狂与愚蠢》Wisdom, Madness and Folly"
-description: "《智慧、疯狂与愚蠢》Wisdom, Madness and Folly的详细解析与实践指南"
+description: "《智慧、疯狂与愚蠢》Wisdom, Madness and Folly —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["loneliness", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《智慧、疯狂与愚蠢》Wisdom, Madness and Folly"
   - "《智慧、疯狂与愚蠢》Wisdom, Madness and Folly的核心概念"
   - "《智慧、疯狂与愚蠢》Wisdom, Madness and Folly的方法与实践"
-trigger_keywords: ["《智慧", "death", "exercise", "loneliness", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise"
-
+trigger_keywords: ["《智慧", "exercise", "loneliness"]
+cross_refs: []
 ---
 # 《智慧、疯狂与愚蠢》Wisdom, Madness and Folly
 

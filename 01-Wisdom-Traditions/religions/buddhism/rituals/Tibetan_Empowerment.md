@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)"
-description: "藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)的详细解析与实践指南"
+description: "藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "dzogchen", "healing", "mandala", "self-confidence"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是藏传佛教灌顶仪轨"
   - "藏传佛教灌顶仪轨的核心概念"
   - "藏传佛教灌顶仪轨的方法与实践"
-trigger_keywords: ["藏传佛教灌顶仪轨", "act", "buddhism", "dzogchen", "healing"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-
+trigger_keywords: ["藏传佛教灌顶仪轨", "dzogchen", "healing"]
+cross_refs: []
 ---
 # 藏传佛教灌顶仪轨 (Tibetan Empowerment Rituals)
 

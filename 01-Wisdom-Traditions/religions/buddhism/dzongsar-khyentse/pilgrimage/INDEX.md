@@ -1,7 +1,6 @@
 ---
-
 title: "Pilgrimage | 朝圣：到印度佛教圣地该做的事"
-description: "Pilgrimage | 朝圣：到印度佛教圣地该做的事的详细解析与实践指南"
+description: "Pilgrimage | 朝圣：到印度佛教圣地该做的事 —— Dzongsar Khyentse · Pilgrimage 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Pilgrimage"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Pilgrimage | 朝圣：到印度佛教圣地该做的事"
   - "Pilgrimage | 朝圣：到印度佛教圣地该做的事的核心概念"
   - "Pilgrimage | 朝圣：到印度佛教圣地该做的事的方法与实践"
-trigger_keywords: ["Pilgrimage", "buddhism", "佛教", "宗教与灵性"]
+trigger_keywords: ["Pilgrimage", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "佛教/buddhist/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # Pilgrimage | 朝圣：到印度佛教圣地该做的事
 

@@ -1,7 +1,6 @@
 ---
-
 title: "《信心铭》Xin Xin Ming"
-description: "《信心铭》Xin Xin Ming的详细解析与实践指南"
+description: "《信心铭》Xin Xin Ming —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["music", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《信心铭》Xin Xin Ming"
   - "《信心铭》Xin Xin Ming的核心概念"
   - "《信心铭》Xin Xin Ming的方法与实践"
-trigger_keywords: ["behavioral", "body", "brain", "music"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "buddhism/communication/emotion"
-
+trigger_keywords: ["music", "《信心铭》Xin", "Xin", "Ming"]
+cross_refs: []
 ---
 # 《信心铭》Xin Xin Ming
 

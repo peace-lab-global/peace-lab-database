@@ -1,7 +1,6 @@
 ---
-
 title: "《接骨师之女》核心思想与观点分析"
-description: "《接骨师之女》核心思想与观点分析的详细解析与实践指南"
+description: "《接骨师之女》核心思想与观点分析 —— Contemporary · The Bonesetters Daughter 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > The Bonesetters Daughter"
 tags: ["attachment", "depression", "ocd"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《接骨师之女》核心思想与观点分析"
   - "《接骨师之女》核心思想与观点分析的核心概念"
   - "《接骨师之女》核心思想与观点分析的方法与实践"
-trigger_keywords: ["anxiety", "attachment", "behavioral", "body"]
+trigger_keywords: ["《接骨师之女》核心思想与观点分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Neuroscience.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/Relationships_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
+    relation: "创伤/依恋/恐惧"
+  - path: "02-Mind-Psychology/relationships/infidelity/Infidelity_Prevention_Assessment.md"
+    relation: "依恋/恐惧/创伤"
+  - path: "02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md"
+    relation: "依恋/恐惧/创伤"
+  - path: "02-Mind-Psychology/psychology/special-topics/parent-dependent-male/Parent_Dependent_Male_Analysis.md"
+    relation: "依恋/冲突"
 ---
 # 《接骨师之女》核心思想与观点分析
 

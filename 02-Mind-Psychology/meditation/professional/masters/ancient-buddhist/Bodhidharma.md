@@ -1,7 +1,6 @@
 ---
-
 title: "菩提达摩（Bodhidharma / बोधिधर्म）"
-description: "菩提达摩（Bodhidharma / बोधिधर्म）的详细解析与实践指南"
+description: "菩提达摩（Bodhidharma / बोधिधर्म） —— Masters · Ancient Buddhist 专题"
 category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
 tags: ["meditation", "mindfulness", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是菩提达摩（Bodhidharma / बोधिधर्म）"
   - "菩提达摩（Bodhidharma / बोधिधर्म）的核心概念"
   - "菩提达摩（Bodhidharma / बोधिधर्म）的方法与实践"
-trigger_keywords: ["बोधिधर्म）", "exercise", "meditation", "mindfulness", "sexuality"]
+trigger_keywords: ["बोधिधर्म）", "exercise", "meditation", "mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Multi_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Suzuki.md"
-    relation: "buddhism/exercise/meditation"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/historiography/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/exercise/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/zen/Zen_Wisdom_Lineage.md"
+    relation: "bodhidharma/禅宗/zen"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
+    relation: "菩提/禅宗"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/the-platform-sutra.md"
+    relation: "菩提/禅宗"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-chan-whip-anthology.md"
+    relation: "禅宗/chan"
 ---
 # 菩提达摩（Bodhidharma / बोधिधर्म）
 

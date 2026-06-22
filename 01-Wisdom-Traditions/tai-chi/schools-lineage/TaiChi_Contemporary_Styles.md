@@ -13,10 +13,10 @@ intent_queries:
   - "太极功夫扇是什么"
 trigger_keywords: ["24式", "42式", "太极扇", "竞赛", "简化"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Schools_Styles.md"
-    relation: "five-schools-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_Historical_Evolution.md"
-    relation: "tai-chi-history"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 当代太极流派 | Contemporary Tai Chi Styles
 

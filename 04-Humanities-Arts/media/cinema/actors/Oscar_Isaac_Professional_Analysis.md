@@ -1,7 +1,6 @@
 ---
-
 title: "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破"
-description: "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破的详细解析与实践指南"
+description: "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "leadership", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破"
   - "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破的核心概念"
   - "Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破的方法与实践"
-trigger_keywords: ["act", "art", "body", "cinema"]
-cross_refs:
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md"
-    relation: "art_therapy/communication/personality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "communication/personality/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/german-idealism/Fichte.md"
-    relation: "communication/personality/sexuality"
-
+trigger_keywords: ["cinema", "Oscar", "Isaac", "专业分析：拉丁裔演员的多元发展与艺术突破"]
+cross_refs: []
 ---
 # Oscar Isaac 专业分析：拉丁裔演员的多元发展与艺术突破
 

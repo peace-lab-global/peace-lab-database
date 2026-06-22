@@ -1,7 +1,6 @@
 ---
-
 title: "金钱信念系统 (Money Mindset & Beliefs)"
-description: "金钱信念系统 (Money Mindset & Beliefs)的详细解析与实践指南"
+description: "金钱信念系统 (Money Mindset & Beliefs) —— 个人发展 · 财务素养 专题"
 category: "实践与个人增长 > 个人发展 > 财务素养"
 tags: ["addiction", "attachment", "cbt", "minimalism", "financial-literacy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是金钱信念系统"
   - "金钱信念系统的核心概念"
   - "金钱信念系统的方法与实践"
-trigger_keywords: ["金钱信念系统", "addiction", "anxiety", "attachment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["金钱信念系统", "Money", "Mindset", "Beliefs"]
+cross_refs: []
 ---
 # 金钱信念系统 (Money Mindset & Beliefs)
 

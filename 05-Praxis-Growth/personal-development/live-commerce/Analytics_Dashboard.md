@@ -1,7 +1,6 @@
 ---
-
 title: "直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης"
-description: "直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης的详细解析与实践指南"
+description: "直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης —— 个人发展 · Live Commerce 专题"
 category: "实践与个人增长 > 个人发展 > Live Commerce"
 tags: ["decision-making", "habits", "productivity"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης"
   - "直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης的核心概念"
   - "直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης的方法与实践"
-trigger_keywords: ["直播数据分析仪表板", "assessment", "behavioral", "crisis", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "neuroscience/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Enlightenment_Stages.md"
-    relation: "neuroscience/productivity/sexuality"
-
+trigger_keywords: ["直播数据分析仪表板", "decision-making"]
+cross_refs: []
 ---
 # 直播数据分析仪表板 | Live Streaming Analytics Dashboard | Ταμπλό Ανάλυσης Δεδομένων Ζωντανής Μετάδοσης
 

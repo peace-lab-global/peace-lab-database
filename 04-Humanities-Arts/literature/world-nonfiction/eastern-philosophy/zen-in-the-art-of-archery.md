@@ -1,7 +1,6 @@
 ---
-
 title: "《箭术与禅心》Zen in the Art of Archery"
-description: "《箭术与禅心》Zen in the Art of Archery的详细解析与实践指南"
+description: "《箭术与禅心》Zen in the Art of Archery —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["writing", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《箭术与禅心》Zen in the Art of Archery"
   - "《箭术与禅心》Zen in the Art of Archery的核心概念"
   - "《箭术与禅心》Zen in the Art of Archery的方法与实践"
-trigger_keywords: ["body", "breathwork", "death", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Vajrayana_Yoga.md"
-    relation: "buddhism/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "buddhism/death/exercise"
-
+trigger_keywords: ["《箭术与禅心》Zen", "in", "the", "Art", "of"]
+cross_refs: []
 ---
 # 《箭术与禅心》Zen in the Art of Archery
 

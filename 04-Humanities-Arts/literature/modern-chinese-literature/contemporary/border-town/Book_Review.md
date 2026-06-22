@@ -1,7 +1,6 @@
 ---
-
 title: "《边城》读书笔记与书评"
-description: "《边城》读书笔记与书评的详细解析与实践指南"
+description: "《边城》读书笔记与书评 —— Contemporary · Border Town 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Border Town"
 tags: ["habits", "literature"]
 last_updated: "2026-05"
@@ -12,7 +11,7 @@ intent_queries:
   - "什么是《边城》读书笔记与书评"
   - "《边城》读书笔记与书评的核心概念"
   - "《边城》读书笔记与书评的方法与实践"
-trigger_keywords: ["art", "breathwork", "death", "habits"]
+trigger_keywords: ["habits", "《边城》读书笔记与书评"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
     relation: "art_therapy/communication/death"
@@ -24,7 +23,6 @@ cross_refs:
     relation: "art_therapy/communication/exercise"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
     relation: "communication/death/exercise"
-
 ---
 # 《边城》读书笔记与书评
 

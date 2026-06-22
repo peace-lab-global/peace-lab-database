@@ -1,7 +1,6 @@
 ---
-
 title: "Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)"
-description: "Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)的详细解析与实践指南"
+description: "Dignity Therapy & Palliative Care (尊严疗法与安宁疗护) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["pain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Dignity Therapy & Palliative Care"
   - "Dignity Therapy & Palliative Care的核心概念"
   - "Dignity Therapy & Palliative Care的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["Dignity", "Therapy", "Palliative", "Care", "尊严疗法与安宁疗护"]
 cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/full-catastrophe-living.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/death"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Adverse_Effects.md"
-    relation: "anxiety/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/yoga/safety/Yoga_Injury_Prevention.md"
-    relation: "cardiovascular/communication/exercise"
-
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/care/palliative"
 ---
 # Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)
 

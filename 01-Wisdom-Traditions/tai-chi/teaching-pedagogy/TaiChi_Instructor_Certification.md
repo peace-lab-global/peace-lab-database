@@ -12,9 +12,7 @@ intent_queries:
   - "太极拳教练认证"
   - "武术段位制"
 trigger_keywords: ["认证", "段位", "教练", "师资", "职业发展"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/teaching-pedagogy/TaiChi_Teaching_Methodology.md"
-    relation: "teaching-method"
+cross_refs: []
 ---
 # 师资认证体系 | Instructor Certification
 

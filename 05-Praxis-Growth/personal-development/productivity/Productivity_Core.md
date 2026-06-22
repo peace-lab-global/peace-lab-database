@@ -1,7 +1,6 @@
 ---
-
 title: "工作效率核心理论 (Productivity - Core Theory)"
-description: "工作效率核心理论 (Productivity - Core Theory)的详细解析与实践指南"
+description: "工作效率核心理论 (Productivity - Core Theory) —— 个人发展 · 效率 专题"
 category: "实践与个人增长 > 个人发展 > 效率"
 tags: ["cortisol", "productivity"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "工作效率核心理论的核心概念"
   - "工作效率核心理论的方法与实践"
   - "工作效率核心理论的自助方法"
-trigger_keywords: ["工作效率核心理论", "anxiety", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/emotion/neuroscience"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/emotion/neuroscience"
-
+trigger_keywords: ["工作效率核心理论", "Productivity", "Core", "Theory"]
+cross_refs: []
 ---
 # 工作效率核心理论 (Productivity - Core Theory)
 

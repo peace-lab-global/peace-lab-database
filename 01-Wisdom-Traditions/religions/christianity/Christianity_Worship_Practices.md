@@ -1,7 +1,6 @@
 ---
-
 title: "基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)"
-description: "基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)的详细解析与实践指南"
+description: "基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration) —— 宗教与灵性 · 基督教 专题"
 category: "智慧传承 > 宗教与灵性 > 基督教"
 tags: ["addiction", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "基督教实践传统与心理学整合的核心概念"
   - "基督教实践传统与心理学整合的方法与实践"
   - "基督教实践传统与心理学整合的自助方法"
-trigger_keywords: ["act", "addiction", "anxiety", "art"]
+trigger_keywords: ["基督教实践传统与心理学整合", "Christian", "Worship", "Practices", "and"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/adolescent-psychology/clinical-intervention/Adolescent_Clinical_Intervention_Guide.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/foundations/positive-psychology/Positive_Psychology_Application_Practice.md"
+    relation: "积极心理学/意义建构/意义"
 ---
 # 基督教实践传统与心理学整合 (Christian Worship Practices and Psychological Integration)
 

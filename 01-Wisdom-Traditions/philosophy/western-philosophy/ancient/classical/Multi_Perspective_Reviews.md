@@ -1,7 +1,6 @@
 ---
-
 title: "古希腊哲学经典三方书评"
-description: "古希腊哲学经典三方书评的详细解析与实践指南"
+description: "古希腊哲学经典三方书评 —— Ancient · Classical 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > Ancient > Classical"
 tags: ["habits", "philosophy", "social", "writing", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是古希腊哲学经典三方书评"
   - "古希腊哲学经典三方书评的核心概念"
   - "古希腊哲学经典三方书评的方法与实践"
-trigger_keywords: ["habits", "literature", "philosophy", "sexuality"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Business_Models.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Digital_Industry.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Addiction_Recovery.md"
-    relation: "productivity/sexuality"
-
+trigger_keywords: ["habits", "古希腊哲学经典三方书评"]
+cross_refs: []
 ---
 # 古希腊哲学经典三方书评
 

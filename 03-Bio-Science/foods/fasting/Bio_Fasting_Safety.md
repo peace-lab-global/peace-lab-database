@@ -1,7 +1,6 @@
 ---
-
 title: "Fasting Safety & Risk Management (断食安全性与风险管理)"
-description: "Fasting Safety & Risk Management (断食安全性与风险管理)的详细解析与实践指南"
+description: "Fasting Safety & Risk Management (断食安全性与风险管理) —— 营养学 · 断食 专题"
 category: "生命科学与生物医学 > 营养学 > 断食"
 tags: ["aging", "brain", "fasting", "pain"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Fasting Safety & Risk Management"
   - "Fasting Safety & Risk Management的核心概念"
   - "Fasting Safety & Risk Management的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Fasting", "Safety", "Risk", "Management", "断食安全性与风险管理"]
+cross_refs: []
 ---
 # Fasting Safety & Risk Management (断食安全性与风险管理)
 

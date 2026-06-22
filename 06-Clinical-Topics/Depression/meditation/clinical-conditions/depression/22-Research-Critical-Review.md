@@ -1,7 +1,6 @@
 ---
-
 title: "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions"
-description: "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions的详细解析与实践指南"
+description: "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["anxiety", "brain", "depression", "mbsr", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions"
   - "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions的核心概念"
   - "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Monastic_Rituals.md"
-    relation: "anxiety/buddhism/meditation"
-
+trigger_keywords: ["13.", "循证研究的方法论批判与未来方向", "Critical", "Review", "Future"]
+cross_refs: []
 ---
 # 13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions
 

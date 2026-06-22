@@ -2,6 +2,7 @@
 title: "社会与多元视角 | Social Context"
 category: "心智与心理学 > 关系 > 社会视角"
 last_updated: "2026-06"
+cross_refs: []
 ---
 
 # 社会与多元视角 | Social Context

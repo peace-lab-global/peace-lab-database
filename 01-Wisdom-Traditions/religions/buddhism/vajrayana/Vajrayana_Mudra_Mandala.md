@@ -1,7 +1,6 @@
 ---
-
 title: "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境"
-description: "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的详细解析与实践指南"
+description: "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境 —— 佛教 · Vajrayana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
 tags: ["buddhism", "dzogchen", "mandala", "music"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是手印与坛城 | Mudrā & Maṇḍala | 身印与圣境"
   - "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的核心概念"
   - "手印与坛城 | Mudrā & Maṇḍala | 身印与圣境的方法与实践"
-trigger_keywords: ["手印与坛城", "身印与圣境", "act", "art", "body", "breathwork"]
+trigger_keywords: ["手印与坛城", "身印与圣境"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/communication/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Practical_Guide.md"
-    relation: "buddhism/communication/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
+    relation: "坛城/ala/ma"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
+    relation: "坛城/观想"
+  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
+    relation: "坛城/观想"
 ---
 # 手印与坛城 | Mudrā & Maṇḍala | 身印与圣境
 

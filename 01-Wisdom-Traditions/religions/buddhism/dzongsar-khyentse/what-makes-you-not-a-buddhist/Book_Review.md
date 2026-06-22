@@ -1,7 +1,6 @@
 ---
-
 title: "《正见：佛陀的证悟》读书笔记与书评"
-description: "《正见：佛陀的证悟》读书笔记与书评的详细解析与实践指南"
+description: "《正见：佛陀的证悟》读书笔记与书评 —— Dzongsar Khyentse · What Makes You Not A Buddhist 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > What Makes You Not A Buddhist"
 tags: ["buddhism", "cinema", "philosophy", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《正见：佛陀的证悟》读书笔记与书评"
   - "《正见：佛陀的证悟》读书笔记与书评的核心概念"
   - "《正见：佛陀的证悟》读书笔记与书评的方法与实践"
-trigger_keywords: ["behavioral", "brain", "buddhism", "cinema"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-LOCAL-4-direct-awareness-meditation.md"
-    relation: "buddhism/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/neuroscience"
-
+trigger_keywords: ["cinema", "《正见：佛陀的证悟》读书笔记与书评"]
+cross_refs: []
 ---
 # 《正见：佛陀的证悟》读书笔记与书评
 

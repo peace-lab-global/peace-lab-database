@@ -1,7 +1,6 @@
 ---
-
 title: "帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）"
-description: "帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）的详细解析与实践指南"
+description: "帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द） —— Masters · Modern Pioneers 专题"
 category: "智慧传承 > 瑜伽 > Masters > Modern Pioneers"
 tags: ["meditation", "spirituality", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）"
   - "帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）的核心概念"
   - "帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）的方法与实践"
-trigger_keywords: ["帕拉宏撒", "act", "breathwork", "exercise", "meditation"]
+trigger_keywords: ["帕拉宏撒", "exercise", "meditation"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/exercise/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "communication/exercise/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "communication/exercise/meditation"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/autobiography-of-a-yogi.md"
+    relation: "yogananda/paramahansa/瑜伽"
 ---
 # 帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）
 

@@ -1,7 +1,6 @@
 ---
-
 title: "呼吸放松技术 (Breathing Relaxation Techniques)"
-description: "呼吸放松技术 (Breathing Relaxation Techniques)的详细解析与实践指南"
+description: "呼吸放松技术 (Breathing Relaxation Techniques) —— 躯体与情绪 · Relaxation 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Relaxation"
 tags: ["anxiety", "bci", "cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是呼吸放松技术"
   - "呼吸放松技术的核心概念"
   - "呼吸放松技术的方法与实践"
-trigger_keywords: ["呼吸放松技术", "aging", "anxiety", "assessment", "bci"]
+trigger_keywords: ["呼吸放松技术", "bci"]
 cross_refs:
-  - path: "03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Advanced_Kriya_Kundalini.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Breathwork_Internal.md"
+    relation: "breathing/呼吸/腹式呼吸"
 ---
 # 呼吸放松技术 (Breathing Relaxation Techniques)
 

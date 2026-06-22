@@ -1,7 +1,6 @@
 ---
-
 title: "Professional Attraction Clinical Assessment (职业吸引临床评估)"
-description: "Professional Attraction Clinical Assessment (职业吸引临床评估)的详细解析与实践指南"
+description: "Professional Attraction Clinical Assessment (职业吸引临床评估) —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["attachment", "flow", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Professional Attraction Clinical Assessment"
   - "Professional Attraction Clinical Assessment的核心概念"
   - "Professional Attraction Clinical Assessment的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Seed_Theory.md"
-    relation: "anxiety/attachment/productivity"
-
+trigger_keywords: ["Professional", "Attraction", "Clinical", "Assessment", "职业吸引临床评估"]
+cross_refs: []
 ---
 # Professional Attraction Clinical Assessment (职业吸引临床评估)
 

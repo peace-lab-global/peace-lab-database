@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）"
-description: "瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）的详细解析与实践指南"
+description: "瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development） —— 瑜伽 · Career Business 专题"
 category: "智慧传承 > 瑜伽 > Career Business"
 tags: ["mbct", "mbsr", "meditation", "mindfulness", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）"
   - "瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）的核心概念"
   - "瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）的方法与实践"
-trigger_keywords: ["act", "body", "developmental", "exercise"]
+trigger_keywords: ["exercise", "瑜伽与冥想跨职业发展", "Yoga-Meditation", "Cross-Career", "Development"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/CATALOG.md"
-    relation: "exercise/meditation/neuroscience"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：瑜伽冥想新生活方式与商业变现及冥想师培训.md"
+    relation: "瑜伽/冥想/运动"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/线下精品课/直接认知冥想线下精品课：能量瑜伽.md"
+    relation: "瑜伽/冥想/体式"
+  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Holistic_Integration.md"
+    relation: "冥想/瑜伽/holistic"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/瑜伽"
 ---
 # 瑜伽与冥想跨职业发展（Yoga-Meditation Cross-Career Development）
 

@@ -1,7 +1,6 @@
 ---
-
 title: "情感银行账户概览"
-description: "情感银行账户概览的详细解析与实践指南"
+description: "情感银行账户概览 —— 人际关系 · Emotional Bank Account 专题"
 category: "心智与心理学 > 人际关系 > Emotional Bank Account"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是情感银行账户概览"
   - "情感银行账户概览的核心概念"
   - "情感银行账户概览的方法与实践"
-trigger_keywords: ["情感银行账户概览", "act", "addiction", "adolescent", "aging"]
-cross_refs:
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-
+trigger_keywords: ["情感银行账户概览"]
+cross_refs: []
 ---
 # 情感银行账户概览
 ## Emotional Bank Account: Building and Maintaining Relationship Capital

@@ -1,7 +1,6 @@
 ---
-
 title: "《星球大战之法》The Dharma of Star Wars"
-description: "《星球大战之法》The Dharma of Star Wars的详细解析与实践指南"
+description: "《星球大战之法》The Dharma of Star Wars —— World Nonfiction · Meditation Mindfulness 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Meditation Mindfulness"
 tags: ["cinema", "daoism", "phobia", "spirituality", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《星球大战之法》The Dharma of Star Wars"
   - "《星球大战之法》The Dharma of Star Wars的核心概念"
   - "《星球大战之法》The Dharma of Star Wars的方法与实践"
-trigger_keywords: ["buddhism", "cinema", "daoism", "philosophy"]
+trigger_keywords: ["cinema", "daoism"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/daoism"
-
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/禅宗/佛法"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Buddhist_Perspective_Reviews.md"
+    relation: "禅宗/佛法/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/political-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "愤怒/佛教/dharma"
 ---
 # 《星球大战之法》The Dharma of Star Wars
 

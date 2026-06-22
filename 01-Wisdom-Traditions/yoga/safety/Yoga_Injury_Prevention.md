@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽损伤预防（Yoga Injury Prevention）"
-description: "瑜伽损伤预防（Yoga Injury Prevention）的详细解析与实践指南"
+description: "瑜伽损伤预防（Yoga Injury Prevention） —— 瑜伽 · Safety 专题"
 category: "智慧传承 > 瑜伽 > Safety"
 tags: ["cardiovascular", "inflammation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是瑜伽损伤预防（Yoga Injury Prevention）"
   - "瑜伽损伤预防（Yoga Injury Prevention）的核心概念"
   - "瑜伽损伤预防（Yoga Injury Prevention）的方法与实践"
-trigger_keywords: ["act", "aging", "body", "breathwork"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/exercise"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Biology_Integration.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/cardiovascular/communication"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/cardiovascular/exercise"
-
+trigger_keywords: ["瑜伽损伤预防", "Yoga", "Injury", "Prevention"]
+cross_refs: []
 ---
 # 瑜伽损伤预防（Yoga Injury Prevention）
 

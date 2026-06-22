@@ -1,7 +1,6 @@
 ---
-
 title: "Not for Happiness | 不是为了快乐"
-description: "Not for Happiness | 不是为了快乐的详细解析与实践指南"
+description: "Not for Happiness | 不是为了快乐 —— Dzongsar Khyentse · Not For Happiness 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Not For Happiness"
 tags: ["buddhism", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Not for Happiness | 不是为了快乐"
   - "Not for Happiness | 不是为了快乐的核心概念"
   - "Not for Happiness | 不是为了快乐的方法与实践"
-trigger_keywords: ["不是为了快乐", "act", "buddhism", "佛教", "宗教与灵性"]
+trigger_keywords: ["不是为了快乐", "佛教", "宗教与灵性"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/sexuality/therapy"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "happiness/佛教/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # Not for Happiness | 不是为了快乐
 

@@ -1,7 +1,6 @@
 ---
-
 title: "孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol"
-description: "孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol的详细解析与实践指南"
+description: "孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol —— 社会心理学 · Visualization 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Visualization"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol"
   - "孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol的核心概念"
   - "孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["孤独", "独处", "联合干预", "12周实操方案", "12-Week"]
+cross_refs: []
 ---
 # 孤独 x 独处 联合干预 12周实操方案 | 12-Week Integrated Protocol
 

@@ -1,7 +1,6 @@
 ---
-
 title: "中年危机心理学专业内容体系"
-description: "中年危机心理学专业内容体系的详细解析与实践指南"
+description: "中年危机心理学专业内容体系 —— 发展心理学 · Midlife Crisis 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Midlife Crisis"
 tags: ["anxiety", "attachment", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "中年危机心理学专业内容体系的核心概念"
   - "中年危机心理学专业内容体系的方法与实践"
   - "中年危机心理学专业内容体系的自助方法"
-trigger_keywords: ["aging", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["中年危机心理学专业内容体系"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/death"
-  - path: "03-Bio-Science/death/Death_Assessment_Measures.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Therapeutic_Use.md"
+    relation: "发展心理学/意义"
 ---
 # 中年危机心理学专业内容体系
 

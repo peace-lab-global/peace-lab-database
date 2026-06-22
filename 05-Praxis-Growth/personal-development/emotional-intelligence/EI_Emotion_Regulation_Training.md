@@ -1,7 +1,6 @@
 ---
-
 title: "情绪调节训练 | Emotion Regulation Training"
-description: "情绪调节训练 | Emotion Regulation Training的详细解析与实践指南"
+description: "情绪调节训练 | Emotion Regulation Training —— 个人发展 · 情商 专题"
 category: "实践与个人增长 > 个人发展 > 情商"
 tags: ["depression", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是情绪调节训练 | Emotion Regulation Training"
   - "情绪调节训练 | Emotion Regulation Training的核心概念"
   - "情绪调节训练 | Emotion Regulation Training的方法与实践"
-trigger_keywords: ["情绪调节训练", "anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["情绪调节训练", "Emotion", "Regulation", "Training"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Emotional_Regulation.md"
+    relation: "情绪调节/emotion/regulation"
+  - path: "02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Regulation_Methods.md"
+    relation: "gross/emotion/情绪调节"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_04_Emotion.md"
+    relation: "rain/情绪调节/emotion"
+  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Mechanisms_Motivation.md"
+    relation: "情绪调节/gross/emotion"
 ---
 # 情绪调节训练 | Emotion Regulation Training
 

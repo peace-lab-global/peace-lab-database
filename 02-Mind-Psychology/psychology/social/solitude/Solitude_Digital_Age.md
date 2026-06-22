@@ -1,7 +1,6 @@
 ---
-
 title: "数字时代的真正独处：为何如此困难，如何重获 (True Solitude in the Digital Age)"
-description: "数字时代的真正独处：为何如此困难，如何重获 (True Solitude in the Digital Age)的详细解析与实践指南"
+description: "数字时代的真正独处：为何如此困难，如何重获 (True Solitude in the Digital Age) —— 社会心理学 · Solitude 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Solitude"
 tags: ["addiction", "anxiety", "brain", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数字时代的真正独处：为何如此困难，如何重获"
   - "数字时代的真正独处：为何如此困难，如何重获的核心概念"
   - "数字时代的真正独处：为何如此困难，如何重获的方法与实践"
-trigger_keywords: ["如何重获", "act", "addiction", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/biology/stretch/Stretch_Clinical_Applications.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "aging/anxiety/neuroscience"
-
+trigger_keywords: ["如何重获", "数字时代的真正独处：为何如此困难", "True", "Solitude", "in"]
+cross_refs: []
 ---
 # 数字时代的真正独处：为何如此困难，如何重获 (True Solitude in the Digital Age)
 

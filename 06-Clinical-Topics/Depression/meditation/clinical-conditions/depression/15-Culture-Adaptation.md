@@ -1,7 +1,6 @@
 ---
-
 title: "Culture Adaptation"
-description: "Culture Adaptation的详细解析与实践指南"
+description: "Culture Adaptation —— Clinical Conditions · 抑郁症 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > 抑郁症"
 tags: ["mbsr", "mindfulness", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Culture Adaptation"
   - "Culture Adaptation的核心概念"
   - "Culture Adaptation的方法与实践"
-trigger_keywords: ["act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/depression/emotion"
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "buddhism/communication/emotion"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "buddhism/communication/depression"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "buddhism/depression/emotion"
-
+trigger_keywords: ["Culture", "Adaptation"]
+cross_refs: []
 ---
 ## 15. 文化与跨文化适配
 

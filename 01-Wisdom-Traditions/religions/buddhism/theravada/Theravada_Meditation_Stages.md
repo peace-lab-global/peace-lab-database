@@ -1,7 +1,6 @@
 ---
-
 title: "南传禅修阶次 (Theravada Meditation Stages)"
-description: "南传禅修阶次 (Theravada Meditation Stages)的详细解析与实践指南"
+description: "南传禅修阶次 (Theravada Meditation Stages) —— 佛教 · Theravada 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Theravada"
 tags: ["buddhism", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是南传禅修阶次"
   - "南传禅修阶次的核心概念"
   - "南传禅修阶次的方法与实践"
-trigger_keywords: ["南传禅修阶次", "act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md"
-    relation: "anxiety/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Techniques.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["南传禅修阶次", "Theravada", "Meditation", "Stages"]
+cross_refs: []
 ---
 # 南传禅修阶次 (Theravada Meditation Stages)
 

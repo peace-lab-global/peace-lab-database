@@ -1,7 +1,6 @@
 ---
-
 title: "Betrayal | 背叛"
-description: "Betrayal | 背叛的详细解析与实践指南"
+description: "Betrayal | 背叛 —— Contemporary · Betrayal 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary > Betrayal"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Betrayal | 背叛"
   - "Betrayal | 背叛的核心概念"
   - "Betrayal | 背叛的方法与实践"
-trigger_keywords: ["Betrayal", "背叛", "philosophy", "sexuality", "文学"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/sexuality"
-
+trigger_keywords: ["Betrayal", "背叛", "文学"]
+cross_refs: []
 ---
 # Betrayal | 背叛
 

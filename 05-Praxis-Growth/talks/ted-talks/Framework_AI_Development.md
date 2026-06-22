@@ -1,7 +1,6 @@
 ---
-
 title: "AI发展 | AI Development"
-description: "AI发展 | AI Development的详细解析与实践指南"
+description: "AI发展 | AI Development —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["phobia", "positive-psychology", "讲座"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是AI发展 | AI Development"
   - "AI发展 | AI Development的核心概念"
   - "AI发展 | AI Development的方法与实践"
-trigger_keywords: ["AI发展", "assessment", "developmental", "phobia", "positive-psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Shamanic_Healing_Journey.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/communication/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/communication/exercise"
-
+trigger_keywords: ["AI发展", "phobia", "positive-psychology"]
+cross_refs: []
 ---
 # AI发展 | AI Development
 

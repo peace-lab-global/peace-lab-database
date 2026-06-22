@@ -12,9 +12,7 @@ intent_queries:
   - "太极的运动剂量"
   - "太极研究的方法学挑战"
 trigger_keywords: ["剂量", "频率", "时长", "方法学", "研究设计"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "neuroscience-overview"
+cross_refs: []
 ---
 # 剂量效应与研究方法 | Dose-Response & Methodology
 

@@ -1,7 +1,6 @@
 ---
-
 title: "主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών"
-description: "主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών的详细解析与实践指南"
+description: "主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών —— 个人发展 · Live Commerce 专题"
 category: "实践与个人增长 > 个人发展 > Live Commerce"
 tags: ["communication", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών"
   - "主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών的核心概念"
   - "主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών的方法与实践"
-trigger_keywords: ["主播培训体系", "assessment", "behavioral", "cognitive", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "communication/emotion/exercise"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/theory/Child_Development_Theory_Framework.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/psychology/developmental/menopause/Menopause_Psychological_Adjustment.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["主播培训体系", "Broadcaster", "Training", "System", "Σύστημα"]
+cross_refs: []
 ---
 # 主播培训体系 | Broadcaster Training System | Σύστημα Εκπαίδευσης Παρουσιαστών
 

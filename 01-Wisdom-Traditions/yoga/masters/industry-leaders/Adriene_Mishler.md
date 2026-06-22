@@ -1,7 +1,6 @@
 ---
-
 title: "阿德里安·米什勒（Adriene Mishler）"
-description: "阿德里安·米什勒（Adriene Mishler）的详细解析与实践指南"
+description: "阿德里安·米什勒（Adriene Mishler） —— Masters · Industry Leaders 专题"
 category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
 tags: ["philosophy", "spirituality", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是阿德里安·米什勒（Adriene Mishler）"
   - "阿德里安·米什勒（Adriene Mishler）的核心概念"
   - "阿德里安·米什勒（Adriene Mishler）的方法与实践"
-trigger_keywords: ["阿德里安", "act", "body", "exercise", "philosophy"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md"
-    relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "anxiety/exercise/pain"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
-    relation: "anxiety/exercise/pain"
-
+trigger_keywords: ["阿德里安", "exercise"]
+cross_refs: []
 ---
 # 阿德里安·米什勒（Adriene Mishler）
 

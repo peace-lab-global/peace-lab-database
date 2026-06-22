@@ -1,7 +1,6 @@
 ---
-
 title: "中观学与空性哲学 (Madhyamaka & Philosophy of Emptiness)"
-description: "中观学与空性哲学 (Madhyamaka & Philosophy of Emptiness)的详细解析与实践指南"
+description: "中观学与空性哲学 (Madhyamaka & Philosophy of Emptiness) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["buddhism", "depression", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是中观学与空性哲学"
   - "中观学与空性哲学的核心概念"
   - "中观学与空性哲学的方法与实践"
-trigger_keywords: ["中观学与空性哲学", "act", "anxiety", "assessment", "buddhism"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Adolescent.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
-    relation: "anxiety/buddhism/communication"
-
+trigger_keywords: ["中观学与空性哲学", "Madhyamaka", "Philosophy", "of", "Emptiness"]
+cross_refs: []
 ---
 # 中观学与空性哲学 (Madhyamaka & Philosophy of Emptiness)
 

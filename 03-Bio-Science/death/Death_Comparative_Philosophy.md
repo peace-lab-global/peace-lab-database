@@ -1,7 +1,6 @@
 ---
-
 title: "Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)"
-description: "Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)的详细解析与实践指南"
+description: "Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["addiction", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Comparative Philosophy of Death: East-West Dialogues"
   - "Comparative Philosophy of Death: East-West Dialogues的核心概念"
   - "Comparative Philosophy of Death: East-West Dialogues的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
+trigger_keywords: ["Comparative", "Philosophy", "of", "Death:", "East-West"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/red-sorghum/Thought_Analysis.md"
+    relation: "vs/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/zhuangzi.md"
+    relation: "庄子/死亡/道家"
 ---
 # Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)
 

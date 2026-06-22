@@ -1,7 +1,6 @@
 ---
-
 title: "Innovative Approaches in Sexual Therapy (性治疗创新方法)"
-description: "Innovative Approaches in Sexual Therapy (性治疗创新方法)的详细解析与实践指南"
+description: "Innovative Approaches in Sexual Therapy (性治疗创新方法) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["addiction", "brain", "cbt", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Innovative Approaches in Sexual Therapy"
   - "Innovative Approaches in Sexual Therapy的核心概念"
   - "Innovative Approaches in Sexual Therapy的方法与实践"
-trigger_keywords: ["addiction", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/communication/depression"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Research_Evidence.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Innovative", "Approaches", "in", "Sexual", "Therapy"]
+cross_refs: []
 ---
 # Innovative Approaches in Sexual Therapy (性治疗创新方法)
 

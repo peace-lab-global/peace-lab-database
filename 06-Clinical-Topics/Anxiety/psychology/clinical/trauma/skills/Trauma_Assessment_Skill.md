@@ -65,6 +65,7 @@ related_protocols:
   - "ICD-11 复杂PTSD诊断标准 (6B41)"
   - "APA PTSD临床实践指南"
   - "NICE创伤后应激障碍指南 (NG116)"
+cross_refs: []
 ---
 
 # 创伤与应激评估 / Trauma & Stress Assessment

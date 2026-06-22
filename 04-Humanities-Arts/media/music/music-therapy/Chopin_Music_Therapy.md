@@ -1,7 +1,6 @@
 ---
-
 title: "肖邦音乐疗愈 (Chopin Music Therapy)"
-description: "肖邦音乐疗愈 (Chopin Music Therapy)的详细解析与实践指南"
+description: "肖邦音乐疗愈 (Chopin Music Therapy) —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: ["attachment", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是肖邦音乐疗愈"
   - "肖邦音乐疗愈的核心概念"
   - "肖邦音乐疗愈的方法与实践"
-trigger_keywords: ["肖邦音乐疗愈", "act", "anxiety", "art", "attachment"]
-cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/attachment"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-
+trigger_keywords: ["肖邦音乐疗愈", "Chopin", "Music", "Therapy"]
+cross_refs: []
 ---
 # 肖邦音乐疗愈 (Chopin Music Therapy)
 

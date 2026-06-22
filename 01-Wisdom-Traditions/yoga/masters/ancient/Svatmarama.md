@@ -1,7 +1,6 @@
 ---
-
 title: "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）"
-description: "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的详细解析与实践指南"
+description: "斯瓦特玛拉摩（Svatmarama / स्वात्माराम） —— Masters · Ancient 专题"
 category: "智慧传承 > 瑜伽 > Masters > Ancient"
 tags: ["cbt", "gut", "healing", "meditation", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是斯瓦特玛拉摩（Svatmarama / स्वात्माराम）"
   - "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的核心概念"
   - "斯瓦特玛拉摩（Svatmarama / स्वात्माराम）的方法与实践"
-trigger_keywords: ["behavioral", "body", "breathwork", "cbt"]
+trigger_keywords: ["cbt", "斯瓦特玛拉摩", "Svatmarama", "स्वात्माराम"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Self_Cultivation.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Interdisciplinary_Logic.md"
-    relation: "exercise/meditation/nutrition"
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "exercise/meditation/nutrition"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Integration_Modalities.md"
+    relation: "hatha/yoga/哈他瑜伽"
 ---
 # 斯瓦特玛拉摩（Svatmarama / स्वात्माराम）
 

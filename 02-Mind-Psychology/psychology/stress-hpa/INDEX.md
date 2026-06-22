@@ -1,7 +1,6 @@
 ---
-
 title: "压力与HPA轴 (Stress & HPA Axis) | Index"
-description: "压力与HPA轴 (Stress & HPA Axis) | Index的详细解析与实践指南"
+description: "压力与HPA轴 (Stress & HPA Axis) | Index —— 心理学 · 压力与HPA轴 专题"
 category: "心智与心理学 > 心理学 > 压力与HPA轴"
 tags: ["cortisol", "decision-making", "hpa-axis", "intervention", "stress", "压力与HPA轴"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是压力与HPA轴  | Index"
   - "压力与HPA轴  | Index的核心概念"
   - "压力与HPA轴  | Index的方法与实践"
-trigger_keywords: ["压力与HPA轴", "Index", "assessment", "cortisol", "decision-making", "hpa-axis"]
+trigger_keywords: ["压力与HPA轴", "cortisol", "decision-making", "hpa-axis"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "emotion/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Confucius.md"
-    relation: "emotion/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Mencius.md"
-    relation: "emotion/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/sexuality/stress"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/ZhuXi.md"
-    relation: "emotion/sexuality/stress"
-
+  - path: "03-Bio-Science/biology/hpa-axis/INDEX.md"
+    relation: "hpa/axis/stress"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
+    relation: "hpa/axis/皮质醇"
+  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
+    relation: "hpa/axis/cortisol"
 ---
 # 压力与HPA轴 (Stress & HPA Axis) | Index
 

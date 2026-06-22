@@ -1,7 +1,6 @@
 ---
-
 title: "先秦诸子百家 · 佛法视角三方书评"
-description: "先秦诸子百家 · 佛法视角三方书评的详细解析与实践指南"
+description: "先秦诸子百家 · 佛法视角三方书评 —— China · Other Schools 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > China > Other Schools"
 tags: ["buddhism", "philosophy", "哲学"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是先秦诸子百家 · 佛法视角三方书评"
   - "先秦诸子百家 · 佛法视角三方书评的核心概念"
   - "先秦诸子百家 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["先秦诸子百家", "佛法视角三方书评", "behavioral", "buddhism", "cognitive", "developmental"]
+trigger_keywords: ["先秦诸子百家", "佛法视角三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C2-1-whats-meditation.md"
-    relation: "buddhism/emotion/exercise"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/to-live/Thought_Analysis.md"
+    relation: "佛教/力量/意义"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/what-the-buddha-taught.md"
+    relation: "佛教/缘起/菩萨"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-heavenly-game/Man_vs_Heaven.md"
+    relation: "智慧/力量/vs"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/psychology-existential/to-have-or-to-be.md"
+    relation: "佛教/智慧/力量"
 ---
 # 先秦诸子百家 · 佛法视角三方书评
 

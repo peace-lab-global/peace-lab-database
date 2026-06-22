@@ -1,7 +1,6 @@
 ---
-
 title: "跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)"
-description: "跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)的详细解析与实践指南"
+description: "跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China) —— 性学 · Sexual Repression China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Repression China"
 tags: ["daoism", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是跨文化比较研究：中国性压抑现象的国际视野"
   - "跨文化比较研究：中国性压抑现象的国际视野的核心概念"
   - "跨文化比较研究：中国性压抑现象的国际视野的方法与实践"
-trigger_keywords: ["act", "adolescent", "assessment", "buddhism"]
+trigger_keywords: ["跨文化比较研究：中国性压抑现象的国际视野", "Cross-Cultural", "Comparative", "Study:", "International"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "buddhism/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "buddhism/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "buddhism/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "buddhism/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Chinese_Rituals_Overview.md"
-    relation: "buddhism/daoism/sexuality"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Cross_Cultural_Comparative_Study.md"
+    relation: "comparative/cross-cultural/study"
 ---
 # 跨文化比较研究：中国性压抑现象的国际视野 (Cross-Cultural Comparative Study: International Perspectives on Sexual Repression in China)
 

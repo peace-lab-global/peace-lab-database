@@ -1,7 +1,6 @@
 ---
-
 title: "政治心理学与国际关系 | Political Psychology & International Relations"
-description: "政治心理学与国际关系 | Political Psychology & International Relations的详细解析与实践指南"
+description: "政治心理学与国际关系 | Political Psychology & International Relations —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making", "leadership", "literature"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "政治心理学与国际关系 | Political Psychology & International Relations的核心概念"
   - "政治心理学与国际关系 | Political Psychology & International Relations的方法与实践"
   - "政治心理学与国际关系 | Political Psychology & International Relations的自助方法"
-trigger_keywords: ["政治心理学与国际关系", "act", "behavioral", "cognitive", "decision-making"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/PeterSinger.md"
-    relation: "communication/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/modern/pragmatism/Multi_Perspective_Reviews.md"
-    relation: "communication/exercise/sexuality"
-
+trigger_keywords: ["政治心理学与国际关系", "decision-making"]
+cross_refs: []
 ---
 # 政治心理学与国际关系 | Political Psychology & International Relations
 

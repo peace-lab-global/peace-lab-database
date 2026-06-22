@@ -1,7 +1,6 @@
 ---
-
 title: "巴赫《英国组曲第二号》创作背景与心理分析"
-description: "巴赫《英国组曲第二号》创作背景与心理分析的详细解析与实践指南"
+description: "巴赫《英国组曲第二号》创作背景与心理分析 —— Bach English Suites · Suite2 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Bach English Suites > Suite2"
 tags: ["depression", "healing"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "巴赫《英国组曲第二号》创作背景与心理分析的核心概念"
   - "巴赫《英国组曲第二号》创作背景与心理分析的方法与实践"
   - "巴赫《英国组曲第二号》创作背景与心理分析的自助方法"
-trigger_keywords: ["adolescent", "art", "clinical", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "communication/depression/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/depression/emotion"
-
+trigger_keywords: ["巴赫《英国组曲第二号》创作背景与心理分析"]
+cross_refs: []
 ---
 # 巴赫《英国组曲第二号》创作背景与心理分析
 

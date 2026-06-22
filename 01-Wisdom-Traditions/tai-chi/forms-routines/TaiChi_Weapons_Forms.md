@@ -13,10 +13,8 @@ intent_queries:
   - "太极刀和太极剑的区别"
 trigger_keywords: ["太极剑", "太极刀", "器械", "太极扇", "太极枪"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/forms-routines/TaiChi_24_Form_Breakdown.md"
-    relation: "24-form"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "fundamentals"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 太极器械 | Tai Chi Weapons Forms
 

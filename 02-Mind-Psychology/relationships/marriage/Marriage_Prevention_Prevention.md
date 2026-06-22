@@ -1,7 +1,6 @@
 ---
-
 title: "预防准备 (Marriage Prevention & Preparation)"
-description: "预防准备 (Marriage Prevention & Preparation)的详细解析与实践指南"
+description: "预防准备 (Marriage Prevention & Preparation) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是预防准备"
   - "预防准备的核心概念"
   - "预防准备的方法与实践"
-trigger_keywords: ["预防准备", "act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "README.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/productivity"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "anxiety/communication/productivity"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/attachment/productivity"
-
+trigger_keywords: ["预防准备", "Marriage", "Prevention", "Preparation"]
+cross_refs: []
 ---
 # 预防准备 (Marriage Prevention & Preparation)
 

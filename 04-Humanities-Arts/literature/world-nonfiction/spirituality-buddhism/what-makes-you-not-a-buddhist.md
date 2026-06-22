@@ -1,7 +1,6 @@
 ---
-
 title: "《正见》What Makes You Not a Buddhist"
-description: "《正见》What Makes You Not a Buddhist的详细解析与实践指南"
+description: "《正见》What Makes You Not a Buddhist —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["sleep", "spirituality", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《正见》What Makes You Not a Buddhist"
   - "《正见》What Makes You Not a Buddhist的核心概念"
   - "《正见》What Makes You Not a Buddhist的方法与实践"
-trigger_keywords: ["behavioral", "buddhism", "emotion", "meditation"]
+trigger_keywords: ["meditation", "《正见》What", "Makes", "You", "Not"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Overview.md"
-    relation: "buddhism/emotion/meditation"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "buddhism/emotion/meditation"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/what-makes-you-not-a-buddhist/INDEX.md"
+    relation: "makes/buddhist/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/INDEX.md"
+    relation: "jamyang/khyentse/dzongsar"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/pilgrimage/INDEX.md"
+    relation: "佛教/buddhist/jamyang"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/eighty-four-thousand-questions/INDEX.md"
+    relation: "佛教/jamyang/khyentse"
 ---
 # 《正见》What Makes You Not a Buddhist
 

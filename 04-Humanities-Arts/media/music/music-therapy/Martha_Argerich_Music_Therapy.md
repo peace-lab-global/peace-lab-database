@@ -1,7 +1,6 @@
 ---
-
 title: "Martha Argerich 音乐疗愈应用指南"
-description: "Martha Argerich 音乐疗愈应用指南的详细解析与实践指南"
+description: "Martha Argerich 音乐疗愈应用指南 —— 音乐 · Music Therapy 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > Music Therapy"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Martha Argerich 音乐疗愈应用指南"
   - "Martha Argerich 音乐疗愈应用指南的核心概念"
   - "Martha Argerich 音乐疗愈应用指南的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "art"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/anxiety/communication"
-
+trigger_keywords: ["Martha", "Argerich", "音乐疗愈应用指南"]
+cross_refs: []
 ---
 # Martha Argerich 音乐疗愈应用指南
 

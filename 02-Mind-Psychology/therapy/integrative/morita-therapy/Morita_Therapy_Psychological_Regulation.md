@@ -1,7 +1,6 @@
 ---
-
 title: "森田疗法心理调节专业内容体系"
-description: "森田疗法心理调节专业内容体系的详细解析与实践指南"
+description: "森田疗法心理调节专业内容体系 —— 疗法 · Morita Therapy 专题"
 category: "心智与心理学 > 疗法 > Morita Therapy"
 tags: ["anxiety", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "森田疗法心理调节专业内容体系的核心概念"
   - "森田疗法心理调节专业内容体系的方法与实践"
   - "森田疗法心理调节专业内容体系的循证证据"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "body"]
+trigger_keywords: ["森田疗法心理调节专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/bach-brandenburg-concertos/No3/Bach_Brandenburg_Concerto_No3_Listening_Guide.md"
+    relation: "专注/情绪调节"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "疗法/情绪调节"
+  - path: "04-Humanities-Arts/media/cinema/film-criticism/Therapy_Application_Guide.md"
+    relation: "疗法/团体治疗"
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "专注/疗法"
 ---
 # 森田疗法心理调节专业内容体系
 

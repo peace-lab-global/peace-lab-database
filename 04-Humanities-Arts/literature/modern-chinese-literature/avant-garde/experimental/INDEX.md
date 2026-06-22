@@ -1,7 +1,6 @@
 ---
-
 title: "experimental | Index"
-description: "experimental | Index的详细解析与实践指南"
+description: "experimental | Index —— Avant Garde · Experimental 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Avant Garde > Experimental"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是experimental | Index"
   - "experimental | Index的核心概念"
   - "experimental | Index的方法与实践"
-trigger_keywords: ["Index", "文学"]
+trigger_keywords: ["文学", "experimental"]
 cross_refs: []
-
 ---
 # experimental | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "离婚心理学临床干预指南专业内容体系"
-description: "离婚心理学临床干预指南专业内容体系的详细解析与实践指南"
+description: "离婚心理学临床干预指南专业内容体系 —— Marriage · Divorce Psychology 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Divorce Psychology"
 tags: ["anxiety", "attachment", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "离婚心理学临床干预指南专业内容体系的核心概念"
   - "离婚心理学临床干预指南专业内容体系的方法与实践"
   - "离婚心理学临床干预指南专业内容体系的自助方法"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["离婚心理学临床干预指南专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+    relation: "创伤/危机干预/人际关系"
+  - path: "03-Bio-Science/sexuality/hypoactive-sexual-desire/Hypoactive_Sexual_Desire_Clinical_Management.md"
+    relation: "创伤/人际关系"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "危机干预/创伤/认知行为"
+  - path: "04-Humanities-Arts/media/cinema/film-criticism/The_Shining_Professional_Critique.md"
+    relation: "创伤/家庭治疗"
 ---
 # 离婚心理学临床干预指南专业内容体系
 

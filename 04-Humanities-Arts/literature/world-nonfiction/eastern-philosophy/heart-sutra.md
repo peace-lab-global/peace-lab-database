@@ -1,7 +1,6 @@
 ---
-
 title: "《心经》Heart Sutra"
-description: "《心经》Heart Sutra的详细解析与实践指南"
+description: "《心经》Heart Sutra —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《心经》Heart Sutra"
   - "《心经》Heart Sutra的核心概念"
   - "《心经》Heart Sutra的方法与实践"
-trigger_keywords: ["body", "buddhism", "cognitive", "death"]
+trigger_keywords: ["《心经》Heart", "Sutra"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Buddhism_Sutra_Healing_Guide.md"
-    relation: "buddhism/cardiovascular/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "buddhism/cardiovascular/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Amitabha_Sutra.md"
+    relation: "菩萨/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Diamond_Sutra.md"
+    relation: "菩萨/般若/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Ksitigarbha_Sutra.md"
+    relation: "菩萨/般若/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Heart_Sutra.md"
+    relation: "般若/菩萨/佛教"
 ---
 # 《心经》Heart Sutra
 

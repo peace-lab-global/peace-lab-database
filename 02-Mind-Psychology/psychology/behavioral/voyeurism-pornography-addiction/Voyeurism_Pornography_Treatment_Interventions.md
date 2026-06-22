@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖与色情成瘾治疗干预专项指南 (Treatment & Intervention Guide for Voyeurism and Pornography Addiction)"
-description: "窥淫癖与色情成瘾治疗干预专项指南 (Treatment & Intervention Guide for Voyeurism and Pornography Addiction)的详细解析与实践指南"
+description: "窥淫癖与色情成瘾治疗干预专项指南 (Treatment & Intervention Guide for Voyeurism and Pornography Addiction) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "窥淫癖与色情成瘾治疗干预专项指南的核心概念"
   - "窥淫癖与色情成瘾治疗干预专项指南的方法与实践"
   - "窥淫癖与色情成瘾治疗干预专项指南的循证证据"
-trigger_keywords: ["addiction", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["窥淫癖与色情成瘾治疗干预专项指南", "Treatment", "Intervention", "Guide", "for"]
+cross_refs: []
 ---
 # 窥淫癖与色情成瘾治疗干预专项指南 (Treatment & Intervention Guide for Voyeurism and Pornography Addiction)
 

@@ -13,8 +13,10 @@ intent_queries:
   - "太极对幸福感的影响"
 trigger_keywords: ["社会", "社区", "幸福感", "群体", "联结"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md"
-    relation: "psychological-overview"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极与社会联结 | Tai Chi, Social Connection & Wellbeing
 

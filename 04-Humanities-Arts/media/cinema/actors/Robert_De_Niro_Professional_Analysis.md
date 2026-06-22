@@ -1,7 +1,6 @@
 ---
-
 title: "Robert De Niro 专业分析：方法派表演艺术的传承与创新"
-description: "Robert De Niro 专业分析：方法派表演艺术的传承与创新的详细解析与实践指南"
+description: "Robert De Niro 专业分析：方法派表演艺术的传承与创新 —— 电影 · Actors 专题"
 category: "人文与艺术疗愈 > 媒体 > 电影 > Actors"
 tags: ["cinema", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Robert De Niro 专业分析：方法派表演艺术的传承与创新"
   - "Robert De Niro 专业分析：方法派表演艺术的传承与创新的核心概念"
   - "Robert De Niro 专业分析：方法派表演艺术的传承与创新的方法与实践"
-trigger_keywords: ["act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["Robert", "De", "Niro", "专业分析：方法派表演艺术的传承与创新"]
+cross_refs: []
 ---
 # Robert De Niro 专业分析：方法派表演艺术的传承与创新
 

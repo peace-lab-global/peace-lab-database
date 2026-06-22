@@ -1,7 +1,6 @@
 ---
-
 title: "应成中观传统 (Prāsaṅgika Mādhyamika Tradition)"
-description: "应成中观传统 (Prāsaṅgika Mādhyamika Tradition)的详细解析与实践指南"
+description: "应成中观传统 (Prāsaṅgika Mādhyamika Tradition) —— 佛教 · Core Philosophy 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Core Philosophy"
 tags: ["dzogchen", "philosophy", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是应成中观传统"
   - "应成中观传统的核心概念"
   - "应成中观传统的方法与实践"
-trigger_keywords: ["应成中观传统", "act", "behavioral", "body", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-contemplative/Christian_Contemplative_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/christian-meditation/Christian_Meditation_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-
+trigger_keywords: ["应成中观传统", "Prāsaṅgika", "Mādhyamika", "Tradition"]
+cross_refs: []
 ---
 # 应成中观传统 (Prāsaṅgika Mādhyamika Tradition)
 

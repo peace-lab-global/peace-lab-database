@@ -1,7 +1,6 @@
 ---
-
 title: "T.K.V. Desikachar (德希卡恰) — Viniyoga 创始人，个性化瑜伽先驱"
-description: "T.K.V. Desikachar (德希卡恰) — Viniyoga 创始人，个性化瑜伽先驱的详细解析与实践指南"
+description: "T.K.V. Desikachar (德希卡恰) — Viniyoga 创始人，个性化瑜伽先驱 —— Masters · Contemporary 专题"
 category: "智慧传承 > 瑜伽 > Masters > Contemporary"
 tags: ["attachment", "buddhism", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是T.K.V. Desikachar  — Viniyoga 创始人，个性化瑜伽先驱"
   - "T.K.V. Desikachar  — Viniyoga 创始人，个性化瑜伽先驱的核心概念"
   - "T.K.V. Desikachar  — Viniyoga 创始人，个性化瑜伽先驱的方法与实践"
-trigger_keywords: ["个性化瑜伽先驱", "act", "art", "assessment", "attachment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "attachment/buddhism/exercise"
-  - path: "05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md"
-    relation: "attachment/buddhism/exercise"
-
+trigger_keywords: ["个性化瑜伽先驱", "T.K.V.", "Desikachar", "德希卡恰", "Viniyoga"]
+cross_refs: []
 ---
 # T.K.V. Desikachar (德希卡恰) — Viniyoga 创始人，个性化瑜伽先驱
 

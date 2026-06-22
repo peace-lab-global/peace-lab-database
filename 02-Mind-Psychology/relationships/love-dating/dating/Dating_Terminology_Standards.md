@@ -1,7 +1,6 @@
 ---
-
 title: "Dating Professional Terminology Standards (约会专业术语标准)"
-description: "Dating Professional Terminology Standards (约会专业术语标准)的详细解析与实践指南"
+description: "Dating Professional Terminology Standards (约会专业术语标准) —— 人际关系 · Dating 专题"
 category: "心智与心理学 > 人际关系 > Dating"
 tags: ["anxiety", "attachment", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Dating Professional Terminology Standards"
   - "Dating Professional Terminology Standards的核心概念"
   - "Dating Professional Terminology Standards的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["Dating", "Professional", "Terminology", "Standards", "约会专业术语标准"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/authority-complex/Authority_Fear_Complex.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/gender-discrimination/birth-gender-anxiety/Birth_Gender_Anxiety_Family_Dynamics.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Terminology_Standards.md"
+    relation: "standards/terminology/attraction"
+  - path: "03-Bio-Science/biology/body-shame/terminology/INDEX.md"
+    relation: "standards/terminology"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/PROJECT_SUMMARY.md"
+    relation: "standards/attraction/terminology"
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Terminology_Dictionary.md"
+    relation: "terminology/concept/norms"
 ---
 # Dating Professional Terminology Standards (约会专业术语标准)
 

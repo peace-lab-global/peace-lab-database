@@ -1,7 +1,6 @@
 ---
-
 title: "《漫长的告别》The Long Goodbye"
-description: "《漫长的告别》The Long Goodbye的详细解析与实践指南"
+description: "《漫长的告别》The Long Goodbye —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["freud", "grief", "literature", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《漫长的告别》The Long Goodbye"
   - "《漫长的告别》The Long Goodbye的核心概念"
   - "《漫长的告别》The Long Goodbye的方法与实践"
-trigger_keywords: ["freud", "grief", "literature", "neuroscience"]
+trigger_keywords: ["freud", "grief", "neuroscience"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md"
-    relation: "death/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/depression"
-
+  - path: "03-Bio-Science/death/Death_Dementia_End_of_Life.md"
+    relation: "哀伤/goodbye/long"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/INDEX.md"
+    relation: "哀伤/grief"
+  - path: "03-Bio-Science/death/Death_Grief_Bridge.md"
+    relation: "哀伤/grief"
+  - path: "03-Bio-Science/death/Death_Pet_Loss.md"
+    relation: "哀伤/grief"
 ---
 # 《漫长的告别》The Long Goodbye
 

@@ -13,8 +13,14 @@ intent_queries:
   - "拳法与书法的共通之处"
 trigger_keywords: ["书法", "美学", "文化", "艺术", "松圆连整"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_Daoist_Philosophy.md"
-    relation: "daoist-philosophy"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
+    relation: "书法/calligraphy/运动"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Practice_Guide.md"
+    relation: "书法/calligraphy"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/INDEX.md"
+    relation: "书法/calligraphy"
+  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Clinical_Applications.md"
+    relation: "书法/calligraphy"
 ---
 # 太极与书法美学 | Tai Chi, Calligraphy & Aesthetics
 

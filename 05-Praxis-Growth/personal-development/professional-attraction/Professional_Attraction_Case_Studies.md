@@ -1,7 +1,6 @@
 ---
-
 title: "Professional Attraction Case Studies (职业吸引案例研究报告)"
-description: "Professional Attraction Case Studies (职业吸引案例研究报告)的详细解析与实践指南"
+description: "Professional Attraction Case Studies (职业吸引案例研究报告) —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["attachment", "ballet"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Professional Attraction Case Studies"
   - "Professional Attraction Case Studies的核心概念"
   - "Professional Attraction Case Studies的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "art"]
+trigger_keywords: ["Professional", "Attraction", "Case", "Studies", "职业吸引案例研究报告"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Buddhist_Psychology.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "anxiety/attachment/emotion"
-
+  - path: "03-Bio-Science/sexuality/sexual-repression-china/Case_Studies_Practice_Compilation.md"
+    relation: "case/methodology/study"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Case_Studies_Guide.md"
+    relation: "case/studies/typical"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/research-methods/INDEX.md"
+    relation: "case/studies/research"
 ---
 # Professional Attraction Case Studies (职业吸引案例研究报告)
 

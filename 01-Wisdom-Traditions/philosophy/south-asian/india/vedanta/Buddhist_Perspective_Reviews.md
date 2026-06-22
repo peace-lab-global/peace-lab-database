@@ -1,7 +1,6 @@
 ---
-
 title: "吠檀多哲学经典 · 佛法视角三方书评"
-description: "吠檀多哲学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "吠檀多哲学经典 · 佛法视角三方书评 —— India · Vedanta 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Vedanta"
 tags: ["buddhism", "personality", "philosophy", "religion", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是吠檀多哲学经典 · 佛法视角三方书评"
   - "吠檀多哲学经典 · 佛法视角三方书评的核心概念"
   - "吠檀多哲学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["吠檀多哲学经典", "佛法视角三方书评", "body", "buddhism", "cognitive", "developmental"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/06-Depersonalization-Transformation.md"
-    relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Direct_Recognition_Practical.md"
-    relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "buddhism/meditation/personality"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "buddhism/meditation/personality"
-
+trigger_keywords: ["吠檀多哲学经典", "佛法视角三方书评"]
+cross_refs: []
 ---
 # 吠檀多哲学经典 · 佛法视角三方书评
 

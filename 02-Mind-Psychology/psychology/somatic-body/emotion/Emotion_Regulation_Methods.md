@@ -1,7 +1,6 @@
 ---
-
 title: "情绪调节理论与技术 (Emotion Regulation Theory & Techniques)"
-description: "情绪调节理论与技术 (Emotion Regulation Theory & Techniques)的详细解析与实践指南"
+description: "情绪调节理论与技术 (Emotion Regulation Theory & Techniques) —— 躯体与情绪 · Emotion 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Emotion"
 tags: ["anxiety", "attachment", "brain", "mindfulness", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是情绪调节理论与技术"
   - "情绪调节理论与技术的核心概念"
   - "情绪调节理论与技术的方法与实践"
-trigger_keywords: ["情绪调节理论与技术", "act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["情绪调节理论与技术", "Emotion", "Regulation", "Theory", "Techniques"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Composition_Background.md"
-    relation: "anxiety/attachment/communication"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/emotion"
-
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/EI_Emotion_Regulation_Training.md"
+    relation: "gross/emotion/情绪调节"
+  - path: "05-Praxis-Growth/personal-development/emotional-intelligence/INDEX.md"
+    relation: "emotion/regulation/gross"
 ---
 # 情绪调节理论与技术 (Emotion Regulation Theory & Techniques)
 

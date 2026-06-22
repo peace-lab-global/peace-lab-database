@@ -1,7 +1,6 @@
 ---
-
 title: "Anti-OCD Agent Skills — 技能注册清单"
-description: "Anti-OCD Agent Skills — 技能注册清单的详细解析与实践指南"
+description: "Anti-OCD Agent Skills — 技能注册清单 —— 自我调节 · Anti Ocd 专题"
 category: "心智与心理学 > 心理学 > 自我调节 > Anti Ocd"
 tags: ["anxiety", "intervention", "ocd", "treatment", "心理学"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Anti-OCD Agent Skills — 技能注册清单"
   - "Anti-OCD Agent Skills — 技能注册清单的核心概念"
   - "Anti-OCD Agent Skills — 技能注册清单的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Gide_Works_Analysis.md"
-    relation: "anxiety/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/emotion/trauma"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/trauma"
-  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
-    relation: "anxiety/emotion/trauma"
-
+trigger_keywords: ["Anti-OCD", "Agent", "Skills", "技能注册清单"]
+cross_refs: []
 ---
 # Anti-OCD Agent Skills — 技能注册清单
 

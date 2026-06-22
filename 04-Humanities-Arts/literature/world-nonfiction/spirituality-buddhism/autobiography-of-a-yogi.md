@@ -1,7 +1,6 @@
 ---
-
 title: "《一个瑜伽行者的自传》Autobiography of a Yogi"
-description: "《一个瑜伽行者的自传》Autobiography of a Yogi的详细解析与实践指南"
+description: "《一个瑜伽行者的自传》Autobiography of a Yogi —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《一个瑜伽行者的自传》Autobiography of a Yogi"
   - "《一个瑜伽行者的自传》Autobiography of a Yogi的核心概念"
   - "《一个瑜伽行者的自传》Autobiography of a Yogi的方法与实践"
-trigger_keywords: ["body", "breathwork", "buddhism", "communication"]
+trigger_keywords: ["《一个瑜伽行者的自传》Autobiography", "of", "Yogi"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-
+  - path: "01-Wisdom-Traditions/yoga/masters/modern-pioneers/Yogananda.md"
+    relation: "yogananda/paramahansa/瑜伽"
 ---
 # 《一个瑜伽行者的自传》Autobiography of a Yogi
 

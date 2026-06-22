@@ -1,7 +1,6 @@
 ---
-
 title: "Professional Attraction Quality Assessment Report (职业吸引质量评估报告)"
-description: "Professional Attraction Quality Assessment Report (职业吸引质量评估报告)的详细解析与实践指南"
+description: "Professional Attraction Quality Assessment Report (职业吸引质量评估报告) —— 个人发展 · Professional Attraction 专题"
 category: "实践与个人增长 > 个人发展 > Professional Attraction"
 tags: ["ballet", "intervention"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Professional Attraction Quality Assessment Report"
   - "Professional Attraction Quality Assessment Report的核心概念"
   - "Professional Attraction Quality Assessment Report的方法与实践"
-trigger_keywords: ["act", "assessment", "ballet", "clinical"]
+trigger_keywords: ["ballet", "Professional", "Attraction", "Quality", "Assessment"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Talisman_Ritual_Healing.md"
-    relation: "neuroscience/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/Religious_Psychology_Overview.md"
-    relation: "neuroscience/sexuality/therapy"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Quality_Assessment_Report.md"
+    relation: "report/quality/assessment"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Quality_Report.md"
+    relation: "quality/report/assessment"
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Quality_Report.md"
+    relation: "report/quality/professional"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Quality_Assessment_Report.md"
+    relation: "quality/report/assessment"
 ---
 # Professional Attraction Quality Assessment Report (职业吸引质量评估报告)
 

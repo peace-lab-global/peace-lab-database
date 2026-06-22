@@ -1,5 +1,4 @@
 ---
-
 skill_id: S_009
 skill_name: 放松技术指导
 skill_name_en: Relaxation Techniques Guide
@@ -31,17 +30,14 @@ changelog:
     date: 2026-04-10
     changes: "初始版本"
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/daoism/emotion"
-  - path: "README.md"
-    relation: "anxiety/daoism/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/daoism/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
+    relation: "呼吸法/呼吸/瑜伽"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
+    relation: "焦虑/呼吸/情绪调节"
+  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
+    relation: "情绪调节/焦虑"
+  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
+    relation: "太极/呼吸/呼吸法"
 ---
 
 # 放松技术指导技能

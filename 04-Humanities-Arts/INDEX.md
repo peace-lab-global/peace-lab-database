@@ -1,7 +1,6 @@
 ---
-
 title: "04-Humanities-Arts | 人文与艺术疗愈"
-description: "04-Humanities-Arts | 人文与艺术疗愈的详细解析与实践指南"
+description: "04-Humanities-Arts | 人文与艺术疗愈 —— 人文与艺术疗愈 专题"
 category: "人文与艺术疗愈"
 tags: ["ballet", "calligraphy", "photography", "cinema", "drama-therapy", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是04-Humanities-Arts | 人文与艺术疗愈"
   - "04-Humanities-Arts | 人文与艺术疗愈的核心概念"
   - "04-Humanities-Arts | 人文与艺术疗愈的方法与实践"
-trigger_keywords: ["人文与艺术疗愈", "act", "aging", "anxiety", "art"]
+trigger_keywords: ["人文与艺术疗愈", "04-Humanities-Arts"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/hoarding-disorder/Hoarding_Disorder_Treatment.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/geriatric-depression/Geriatric_Depression.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Ballet_Dancer_Fetishism.md"
+    relation: "arts/ballet/芭蕾"
 ---
 # 04-Humanities-Arts | 人文与艺术疗愈
 

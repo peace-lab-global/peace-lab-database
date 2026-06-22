@@ -1,7 +1,6 @@
 ---
-
 title: "儿童发展心理评估 (Child Development Psychological Assessment)"
-description: "儿童发展心理评估 (Child Development Psychological Assessment)的详细解析与实践指南"
+description: "儿童发展心理评估 (Child Development Psychological Assessment) —— Adolescent · Child Development Assessment 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Assessment"
 tags: []
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "儿童发展心理评估的核心概念"
   - "儿童发展心理评估的方法与实践"
   - "儿童发展心理评估的自助方法"
-trigger_keywords: ["儿童发展心理评估", "assessment", "behavioral", "body", "child"]
+trigger_keywords: ["儿童发展心理评估", "Child", "Development", "Psychological", "Assessment"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Treatment.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-english-suites/Suite3/Bach_English_Suite_No3_Overview.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "communication/emotion/exercise"
-  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
-    relation: "communication/emotion/exercise"
-
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Overview.md"
+    relation: "development/assessment/theoretical"
 ---
 # 儿童发展心理评估 (Child Development Psychological Assessment)
 

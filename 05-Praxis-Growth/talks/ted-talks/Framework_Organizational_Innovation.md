@@ -1,7 +1,6 @@
 ---
-
 title: "组织创新 | Organizational Innovation Framework"
-description: "组织创新 | Organizational Innovation Framework的详细解析与实践指南"
+description: "组织创新 | Organizational Innovation Framework —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["communication", "decision-making", "habits", "leadership"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是组织创新 | Organizational Innovation Framework"
   - "组织创新 | Organizational Innovation Framework的核心概念"
   - "组织创新 | Organizational Innovation Framework的方法与实践"
-trigger_keywords: ["组织创新", "act", "behavioral", "child", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/productivity/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["组织创新", "Organizational", "Innovation", "Framework"]
+cross_refs: []
 ---
 # 组织创新 | Organizational Innovation Framework
 

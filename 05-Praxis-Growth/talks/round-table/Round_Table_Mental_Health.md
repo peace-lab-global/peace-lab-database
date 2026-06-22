@@ -1,7 +1,6 @@
 ---
-
 title: "心理健康圆桌 | Mental Health Round Table"
-description: "心理健康圆桌 | Mental Health Round Table的详细解析与实践指南"
+description: "心理健康圆桌 | Mental Health Round Table —— 讲座 · Round Table 专题"
 category: "实践与个人增长 > 讲座 > Round Table"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,14 @@ intent_queries:
   - "心理健康圆桌 | Mental Health Round Table的核心概念"
   - "心理健康圆桌 | Mental Health Round Table的方法与实践"
   - "心理健康圆桌 | Mental Health Round Table的自助方法"
-trigger_keywords: ["心理健康圆桌", "act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["心理健康圆桌", "Mental", "Health", "Round", "Table"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/INDEX.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/skills/_manifest.md"
+    relation: "倦怠/burnout"
+  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/INDEX.md"
+    relation: "倦怠/burnout/table"
+  - path: "02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Cross_Reference_Analysis.md"
+    relation: "倦怠/burnout/焦虑"
 ---
 # 心理健康圆桌 | Mental Health Round Table
 

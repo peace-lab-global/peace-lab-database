@@ -1,7 +1,6 @@
 ---
-
 title: "《去天堂又回来》To Heaven and Back"
-description: "《去天堂又回来》To Heaven and Back的详细解析与实践指南"
+description: "《去天堂又回来》To Heaven and Back —— World Nonfiction · Science Consciousness Nde 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Science Consciousness Nde"
 tags: ["literature", "music", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《去天堂又回来》To Heaven and Back"
   - "《去天堂又回来》To Heaven and Back的核心概念"
   - "《去天堂又回来》To Heaven and Back的方法与实践"
-trigger_keywords: ["body", "clinical", "death", "literature"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["《去天堂又回来》To", "Heaven", "and", "Back"]
+cross_refs: []
 ---
 # 《去天堂又回来》To Heaven and Back
 

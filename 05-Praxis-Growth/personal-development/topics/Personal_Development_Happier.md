@@ -1,7 +1,6 @@
 ---
-
 title: "Happier 幸福的方法"
-description: "Happier 幸福的方法的详细解析与实践指南"
+description: "Happier 幸福的方法 —— 个人发展 · Topics 专题"
 category: "实践与个人增长 > 个人发展 > Topics"
 tags: ["flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Happier 幸福的方法"
   - "Happier 幸福的方法的核心概念"
   - "Happier 幸福的方法的方法与实践"
-trigger_keywords: ["act", "behavioral", "body", "emotion"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md"
-    relation: "communication/emotion/exercise"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/emotion/exercise"
-
+trigger_keywords: ["Happier", "幸福的方法"]
+cross_refs: []
 ---
 # Happier 幸福的方法
 

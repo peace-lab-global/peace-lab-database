@@ -1,7 +1,6 @@
 ---
-
 title: "Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)"
-description: "Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)的详细解析与实践指南"
+description: "Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "brain", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Curriculum Alignment Audit: Death Studies Module"
   - "Curriculum Alignment Audit: Death Studies Module的核心概念"
   - "Curriculum Alignment Audit: Death Studies Module的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Curriculum", "Alignment", "Audit:", "Death", "Studies"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "dying/临终/death"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "临终/death/死亡"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/women-care-life-narrative/the-art-of-dying.md"
+    relation: "dying/死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
+    relation: "dying/临终/death"
 ---
 # Curriculum Alignment Audit: Death Studies Module (课程维度考核：死亡专题与心理学院校课程标准对照)
 

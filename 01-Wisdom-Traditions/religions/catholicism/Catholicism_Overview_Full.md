@@ -1,7 +1,6 @@
 ---
-
 title: "天主教核心概览 (Catholicism Overview)"
-description: "天主教核心概览 (Catholicism Overview)的详细解析与实践指南"
+description: "天主教核心概览 (Catholicism Overview) —— 宗教与灵性 · 天主教 专题"
 category: "智慧传承 > 宗教与灵性 > 天主教"
 tags: ["cbt"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是天主教核心概览"
   - "天主教核心概览的核心概念"
   - "天主教核心概览的方法与实践"
-trigger_keywords: ["天主教核心概览", "adolescent", "anxiety", "art", "assessment"]
+trigger_keywords: ["天主教核心概览", "Catholicism", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Overview.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Terminology_Standards.md"
-    relation: "anxiety/attachment/death"
-  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Breakup_Heartbreak.md"
-    relation: "anxiety/attachment/death"
-
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/Political_Psychology_Overview.md"
+    relation: "table/contents"
 ---
 # 天主教核心概览 (Catholicism Overview)
 

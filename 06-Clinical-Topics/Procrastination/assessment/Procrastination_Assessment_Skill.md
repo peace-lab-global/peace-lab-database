@@ -1,7 +1,6 @@
 ---
-
 title: "拖延症综合评估 | Procrastination Assessment Skill"
-description: "拖延症综合评估 | Procrastination Assessment Skill的详细解析与实践指南"
+description: "拖延症综合评估 | Procrastination Assessment Skill —— 行为心理 · Anti Procrastination 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Anti Procrastination"
 tags: ["anxiety", "decision-making", "depression", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是拖延症综合评估 | Procrastination Assessment Skill"
   - "拖延症综合评估 | Procrastination Assessment Skill的核心概念"
   - "拖延症综合评估 | Procrastination Assessment Skill的方法与实践"
-trigger_keywords: ["拖延症综合评估", "act", "anxiety", "assessment", "behavioral"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Clinical_Assessment_Intervention.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/arts-therapy/Modern_Artists_Therapy.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["拖延症综合评估", "Procrastination", "Assessment", "Skill"]
+cross_refs: []
 ---
 # 拖延症综合评估 | Procrastination Assessment Skill
 

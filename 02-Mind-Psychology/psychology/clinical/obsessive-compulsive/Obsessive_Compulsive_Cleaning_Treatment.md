@@ -1,7 +1,6 @@
 ---
-
 title: "洁癖治疗方法体系专业内容体系"
-description: "洁癖治疗方法体系专业内容体系的详细解析与实践指南"
+description: "洁癖治疗方法体系专业内容体系 —— 临床心理 · Obsessive Compulsive 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > Obsessive Compulsive"
 tags: ["anxiety", "brain", "cbt"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "洁癖治疗方法体系专业内容体系的核心概念"
   - "洁癖治疗方法体系专业内容体系的方法与实践"
   - "洁癖治疗方法体系专业内容体系的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "assessment"]
+trigger_keywords: ["洁癖治疗方法体系专业内容体系"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/emotion"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-violin-concertos/Op64/Mendelssohn_Violin_Concerto_Op64_Therapeutic_Use.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
+    relation: "团体治疗/家庭治疗/认知行为"
+  - path: "04-Humanities-Arts/media/music/classical-music/mendelssohn-piano-concertos/No1/Mendelssohn_Piano_Concerto_No1_Therapeutic_Application.md"
+    relation: "团体治疗/家庭治疗"
+  - path: "03-Bio-Science/biology/body-shame/clinical/Body_Shame_Treatment_Interventions.md"
+    relation: "团体治疗/认知重构/正念"
 ---
 # 洁癖治疗方法体系专业内容体系
 

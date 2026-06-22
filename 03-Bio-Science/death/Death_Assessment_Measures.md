@@ -1,7 +1,6 @@
 ---
-
 title: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)"
-description: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)的详细解析与实践指南"
+description: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "attachment", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Assessment & Measures in Death Studies"
   - "Assessment & Measures in Death Studies的核心概念"
   - "Assessment & Measures in Death Studies的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
+trigger_keywords: ["Assessment", "Measures", "in", "Death", "Studies"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Overview.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "aging/anxiety/attachment"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/no-death-no-fear.md"
+    relation: "death/死亡/fear"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "death/死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/death/临终"
 ---
 # Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)
 

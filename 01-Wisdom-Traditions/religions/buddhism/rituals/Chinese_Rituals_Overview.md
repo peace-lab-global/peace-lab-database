@@ -1,7 +1,6 @@
 ---
-
 title: "汉传佛教仪轨总览 (Chinese Buddhist Rituals Overview)"
-description: "汉传佛教仪轨总览 (Chinese Buddhist Rituals Overview)的详细解析与实践指南"
+description: "汉传佛教仪轨总览 (Chinese Buddhist Rituals Overview) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "daoism", "dzogchen", "mandala", "music", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是汉传佛教仪轨总览"
   - "汉传佛教仪轨总览的核心概念"
   - "汉传佛教仪轨总览的方法与实践"
-trigger_keywords: ["汉传佛教仪轨总览", "act", "buddhism", "daoism", "developmental"]
-cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/daoism/death"
-  - path: "README.md"
-    relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md"
-    relation: "buddhism/daoism/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "buddhism/daoism/death"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md"
-    relation: "buddhism/daoism/meditation"
-
+trigger_keywords: ["汉传佛教仪轨总览", "daoism"]
+cross_refs: []
 ---
 # 汉传佛教仪轨总览 (Chinese Buddhist Rituals Overview)
 

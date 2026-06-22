@@ -1,7 +1,6 @@
 ---
-
 title: "家庭暴力临床干预策略专业内容体系"
-description: "家庭暴力临床干预策略专业内容体系的详细解析与实践指南"
+description: "家庭暴力临床干预策略专业内容体系 —— Marriage · Domestic Violence 专题"
 category: "心智与心理学 > 人际关系 > Marriage > Domestic Violence"
 tags: ["anxiety", "attachment", "emdr", "cbt", "trauma"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是家庭暴力临床干预策略专业内容体系"
   - "家庭暴力临床干预策略专业内容体系的核心概念"
   - "家庭暴力临床干预策略专业内容体系的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["家庭暴力临床干预策略专业内容体系"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/attachment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+    relation: "创伤/危机干预/安全计划"
+  - path: "04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Guide.md"
+    relation: "创伤/安全计划"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "危机干预/创伤"
 ---
 # 家庭暴力临床干预策略专业内容体系
 

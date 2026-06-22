@@ -1,7 +1,6 @@
 ---
-
 title: "《人类简史》Sapiens: A Brief History of Humankind"
-description: "《人类简史》Sapiens: A Brief History of Humankind的详细解析与实践指南"
+description: "《人类简史》Sapiens: A Brief History of Humankind —— World Nonfiction · World Religions Comparative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > World Religions Comparative"
 tags: ["nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《人类简史》Sapiens: A Brief History of Humankind"
   - "《人类简史》Sapiens: A Brief History of Humankind的核心概念"
   - "《人类简史》Sapiens: A Brief History of Humankind的方法与实践"
-trigger_keywords: ["body", "brain", "buddhism", "cognitive"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "buddhism/communication/exercise"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/communication"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Medicine_Sowa_Rigpa.md"
-    relation: "buddhism/exercise/neuroscience"
-
+trigger_keywords: ["《人类简史》Sapiens:", "Brief", "History", "of", "Humankind"]
+cross_refs: []
 ---
 # 《人类简史》Sapiens: A Brief History of Humankind
 

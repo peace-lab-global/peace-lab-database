@@ -1,7 +1,6 @@
 ---
-
 title: "藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)"
-description: "藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)的详细解析与实践指南"
+description: "藏传佛教火供仪轨 (Tibetan Homa / Fire Offering) —— 佛教 · Rituals 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Rituals"
 tags: ["buddhism", "healing", "longevity", "mandala", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是藏传佛教火供仪轨"
   - "藏传佛教火供仪轨的核心概念"
   - "藏传佛教火供仪轨的方法与实践"
-trigger_keywords: ["藏传佛教火供仪轨", "buddhism", "emotion", "healing", "longevity"]
+trigger_keywords: ["藏传佛教火供仪轨", "healing", "longevity"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/buddhism/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md"
-    relation: "aging/buddhism/emotion"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
 ---
 # 藏传佛教火供仪轨 (Tibetan Homa / Fire Offering)
 

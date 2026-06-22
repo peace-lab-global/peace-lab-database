@@ -1,7 +1,6 @@
 ---
-
 title: "Mandala Meditation Clinical Applications (坛城冥想临床应用)"
-description: "Mandala Meditation Clinical Applications (坛城冥想临床应用)的详细解析与实践指南"
+description: "Mandala Meditation Clinical Applications (坛城冥想临床应用) —— 冥想 · 坛城冥想 专题"
 category: "心智与心理学 > 冥想 > 坛城冥想"
 tags: ["addiction", "anxiety", "emdr", "cbt", "act", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是Mandala Meditation Clinical Applications"
   - "Mandala Meditation Clinical Applications的核心概念"
   - "Mandala Meditation Clinical Applications的方法与实践"
-trigger_keywords: ["act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["Mandala", "Meditation", "Clinical", "Applications", "坛城冥想临床应用"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "aging/anxiety/communication"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/Horticultural_Therapy_Clinical.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/vajrayana/Vajrayana_Mudra_Mandala.md"
+    relation: "坛城/观想"
+  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mandala_Sacred_Space_Therapy.md"
+    relation: "坛城/mandala/观想"
 ---
 # Mandala Meditation Clinical Applications (坛城冥想临床应用)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Depression Relapse Prevention (抑郁复发预防指南)"
-description: "Depression Relapse Prevention (抑郁复发预防指南)的详细解析与实践指南"
+description: "Depression Relapse Prevention (抑郁复发预防指南) —— 临床心理 · 抑郁症 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 抑郁症"
 tags: ["anxiety", "depression", "cbt", "mbct"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Depression Relapse Prevention"
   - "Depression Relapse Prevention的核心概念"
   - "Depression Relapse Prevention的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Depression", "Relapse", "Prevention", "抑郁复发预防指南"]
+cross_refs: []
 ---
 # Depression Relapse Prevention (抑郁复发预防指南)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής"
-description: "技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής的详细解析与实践指南"
+description: "技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["communication", "decision-making", "leadership", "positive-psychology", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής"
   - "技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής的核心概念"
   - "技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής的方法与实践"
-trigger_keywords: ["技术写作团队管理", "assessment", "cognitive", "communication", "crisis"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/traditions/Buddhism_Tibetan_Vajrayana.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Vajrayana_Tantra_Core.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Ethics_Business_Professional.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Retreat_Workshop_Design.md"
-    relation: "communication/sexuality/trauma"
-  - path: "01-Wisdom-Traditions/yoga/masters/INDEX.md"
-    relation: "communication/sexuality/trauma"
-
+trigger_keywords: ["技术写作团队管理", "Technical", "Writing", "Team", "Management"]
+cross_refs: []
 ---
 # 技术写作团队管理 | Technical Writing Team Management | Διαχείριση Ομάδας Τεχνικής Συγγραφής
 

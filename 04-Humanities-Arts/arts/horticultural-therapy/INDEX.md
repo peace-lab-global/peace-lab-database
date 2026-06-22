@@ -1,7 +1,6 @@
 ---
-
 title: "园艺疗愈 | Horticultural Therapy"
-description: "园艺疗愈 | Horticultural Therapy的详细解析与实践指南"
+description: "园艺疗愈 | Horticultural Therapy —— 艺术 · 园艺疗愈 专题"
 category: "人文与艺术疗愈 > 艺术 > 园艺疗愈"
 tags: ["healing", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是园艺疗愈 | Horticultural Therapy"
   - "园艺疗愈 | Horticultural Therapy的核心概念"
   - "园艺疗愈 | Horticultural Therapy的方法与实践"
-trigger_keywords: ["园艺疗愈", "aging", "child", "clinical", "cognitive"]
+trigger_keywords: ["园艺疗愈", "Horticultural", "Therapy"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/meditation/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/meditation/therapy"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/meditation/therapy"
-
+  - path: "02-Mind-Psychology/therapy/sensory-nature/INDEX.md"
+    relation: "sensory-nature/forest-therapy/sensory"
 ---
 # 园艺疗愈 | Horticultural Therapy
 

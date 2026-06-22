@@ -1,7 +1,6 @@
 ---
-
 title: "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation (自杀学：死亡焦虑与自杀意念的边界)"
-description: "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation (自杀学：死亡焦虑与自杀意念的边界)的详细解析与实践指南"
+description: "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation (自杀学：死亡焦虑与自杀意念的边界) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation"
   - "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation的核心概念"
   - "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-nidra/Yoga_Nidra_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/psychology/developmental/midlife-crisis/Midlife_Crisis_Clinical_Intervention.md"
-    relation: "aging/anxiety/death"
-
+trigger_keywords: ["Suicidology:", "The", "Boundary", "Between", "Death"]
+cross_refs: []
 ---
 # Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation (自杀学：死亡焦虑与自杀意念的边界)
 

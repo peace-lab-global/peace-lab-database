@@ -1,7 +1,6 @@
 ---
-
 title: "数论哲学经典三方书评"
-description: "数论哲学经典三方书评的详细解析与实践指南"
+description: "数论哲学经典三方书评 —— India · Samkhya 专题"
 category: "智慧传承 > 哲学 > South Asian > India > Samkhya"
 tags: ["buddhism", "meditation", "philosophy", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是数论哲学经典三方书评"
   - "数论哲学经典三方书评的核心概念"
   - "数论哲学经典三方书评的方法与实践"
-trigger_keywords: ["数论哲学经典三方书评", "anxiety", "body", "buddhism", "death"]
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-  - path: "README.md"
-    relation: "anxiety/buddhism/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/emotion"
-
+trigger_keywords: ["数论哲学经典三方书评"]
+cross_refs: []
 ---
 # 数论哲学经典三方书评
 

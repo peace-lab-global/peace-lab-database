@@ -1,7 +1,6 @@
 ---
-
 title: "Tibetan Healing Arts (藏地治愈艺术)"
-description: "Tibetan Healing Arts (藏地治愈艺术)的详细解析与实践指南"
+description: "Tibetan Healing Arts (藏地治愈艺术) —— 宗教与灵性 · 智慧传统 专题"
 category: "智慧传承 > 宗教与灵性 > 智慧传统"
 tags: ["depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tibetan Healing Arts"
   - "Tibetan Healing Arts的核心概念"
   - "Tibetan Healing Arts的方法与实践"
-trigger_keywords: ["anxiety", "art", "assessment", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychopharmacology.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "anxiety/attachment/depression"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/depression/emotion"
-
+trigger_keywords: ["Tibetan", "Healing", "Arts", "藏地治愈艺术"]
+cross_refs: []
 ---
 # Tibetan Healing Arts (藏地治愈艺术)
 

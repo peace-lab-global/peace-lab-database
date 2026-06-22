@@ -1,7 +1,6 @@
 ---
-
 title: "管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling & Adaptation Strategy System)"
-description: "管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling & Adaptation Strategy System)的详细解析与实践指南"
+description: "管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling & Adaptation Strategy System) —— 个人发展 · Workplace Expression 专题"
 category: "实践与个人增长 > 个人发展 > Workplace Expression"
 tags: ["communication", "decision-making", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是管理者沟通风格画像与适配策略系统设计"
   - "管理者沟通风格画像与适配策略系统设计的核心概念"
   - "管理者沟通风格画像与适配策略系统设计的方法与实践"
-trigger_keywords: ["anxiety", "assessment", "behavioral", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Kafka_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "anxiety/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["管理者沟通风格画像与适配策略系统设计", "Manager", "Communication", "Style", "Profiling"]
+cross_refs: []
 ---
 # 管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling & Adaptation Strategy System)
 

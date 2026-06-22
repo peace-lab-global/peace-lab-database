@@ -1,7 +1,6 @@
 ---
-
 title: "《四个四重奏》Four Quartets"
-description: "《四个四重奏》Four Quartets的详细解析与实践指南"
+description: "《四个四重奏》Four Quartets —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["spirituality", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是《四个四重奏》Four Quartets"
   - "《四个四重奏》Four Quartets的核心概念"
   - "《四个四重奏》Four Quartets的方法与实践"
-trigger_keywords: ["buddhism", "death", "sexuality", "spirituality"]
+trigger_keywords: ["spirituality", "《四个四重奏》Four", "Quartets"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "README.md"
-    relation: "art_therapy/buddhism/death"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/INDEX.md"
-    relation: "buddhism/death/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "buddhism/death/sexuality"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "死亡/佛教"
 ---
 # 《四个四重奏》Four Quartets
 

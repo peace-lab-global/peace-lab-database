@@ -1,7 +1,6 @@
 ---
-
 title: "《香巴拉》Shambhala: The Sacred Path of the Warrior"
-description: "《香巴拉》Shambhala: The Sacred Path of the Warrior的详细解析与实践指南"
+description: "《香巴拉》Shambhala: The Sacred Path of the Warrior —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["leadership", "mindfulness", "phobia", "religion", "stress"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《香巴拉》Shambhala: The Sacred Path of the Warrior"
   - "《香巴拉》Shambhala: The Sacred Path of the Warrior的核心概念"
   - "《香巴拉》Shambhala: The Sacred Path of the Warrior的方法与实践"
-trigger_keywords: ["buddhism", "developmental", "leadership", "mindfulness"]
+trigger_keywords: ["leadership", "mindfulness"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/26-Cross-Cultural-Evidence.md"
-    relation: "anxiety/buddhism/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "anxiety/buddhism/exercise"
-
+  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Chogyam_Trungpa.md"
+    relation: "shambhala/warrior/gyam"
 ---
 # 《香巴拉》Shambhala: The Sacred Path of the Warrior
 

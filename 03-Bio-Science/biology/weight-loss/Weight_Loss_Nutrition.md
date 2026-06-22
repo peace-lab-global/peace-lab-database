@@ -1,7 +1,6 @@
 ---
-
 title: "Weight Loss Nutrition Science (减肥营养科学)"
-description: "Weight Loss Nutrition Science (减肥营养科学)的详细解析与实践指南"
+description: "Weight Loss Nutrition Science (减肥营养科学) —— 生物学 · Weight Loss 专题"
 category: "生命科学与生物医学 > 生物学 > Weight Loss"
 tags: ["aging", "brain", "cardiovascular", "nutrition"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Weight Loss Nutrition Science"
   - "Weight Loss Nutrition Science的核心概念"
   - "Weight Loss Nutrition Science的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Research.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "aging/anxiety/exercise"
-
+trigger_keywords: ["Weight", "Loss", "Nutrition", "Science", "减肥营养科学"]
+cross_refs: []
 ---
 # Weight Loss Nutrition Science (减肥营养科学)
 

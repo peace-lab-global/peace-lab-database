@@ -1,7 +1,6 @@
 ---
-
 title: "《神话的力量》The Power of Myth"
-description: "《神话的力量》The Power of Myth的详细解析与实践指南"
+description: "《神话的力量》The Power of Myth —— World Nonfiction · Psychology Existential 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Psychology Existential"
 tags: ["phobia", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《神话的力量》The Power of Myth"
   - "《神话的力量》The Power of Myth的核心概念"
   - "《神话的力量》The Power of Myth的方法与实践"
-trigger_keywords: ["anxiety", "death", "phobia", "psychology"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/西方哲学经典书评.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/death/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Camus.md"
-    relation: "anxiety/death/exercise"
-
+trigger_keywords: ["phobia", "《神话的力量》The", "Power", "of", "Myth"]
+cross_refs: []
 ---
 # 《神话的力量》The Power of Myth
 

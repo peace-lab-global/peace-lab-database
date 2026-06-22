@@ -1,7 +1,6 @@
 ---
-
 title: "非防御性沟通概览 (Non-Defensive Communication Overview)"
-description: "非防御性沟通概览 (Non-Defensive Communication Overview)的详细解析与实践指南"
+description: "非防御性沟通概览 (Non-Defensive Communication Overview) —— 沟通 · Non Defensive Communication 专题"
 category: "实践与个人增长 > 沟通 > Non Defensive Communication"
 tags: ["attachment", "communication"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是非防御性沟通概览"
   - "非防御性沟通概览的核心概念"
   - "非防御性沟通概览的方法与实践"
-trigger_keywords: ["非防御性沟通概览", "act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["非防御性沟通概览", "Non-Defensive", "Communication", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent/Child_Adolescent_Clinical_Intervention.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/foundations/personality/Personality_Development_Change.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Daily_Practices.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/relationships/marriage/marital-loneliness/Marital_Loneliness_Overview.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Communication.md"
+    relation: "沟通/gottman/冲突"
 ---
 # 非防御性沟通概览 (Non-Defensive Communication Overview)
 

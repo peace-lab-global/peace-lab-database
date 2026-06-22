@@ -1,7 +1,6 @@
 ---
-
 title: "关系影响研究综述 (Relationship Impact Research)"
-description: "关系影响研究综述 (Relationship Impact Research)的详细解析与实践指南"
+description: "关系影响研究综述 (Relationship Impact Research) —— 人际关系 · Impact Analysis 专题"
 category: "心智与心理学 > 人际关系 > Impact Analysis"
 tags: ["anxiety", "brain", "cardiovascular", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是关系影响研究综述"
   - "关系影响研究综述的核心概念"
   - "关系影响研究综述的方法与实践"
-trigger_keywords: ["关系影响研究综述", "act", "aging", "anxiety", "behavioral"]
+trigger_keywords: ["关系影响研究综述", "Relationship", "Impact", "Research"]
 cross_refs:
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "03-Bio-Science/foods/nutritional/Nutritional_Natural_Therapy.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "05-Praxis-Growth/personal-development/walking/Walking_Clinical_Protocols.md"
-    relation: "aging/anxiety/attachment"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/cardiovascular"
-
+  - path: "05-Praxis-Growth/personal-development/public-speaking/Public_Speaking_Mastery.md"
+    relation: "fill/style/ffe"
 ---
 # 关系影响研究综述 (Relationship Impact Research)
 

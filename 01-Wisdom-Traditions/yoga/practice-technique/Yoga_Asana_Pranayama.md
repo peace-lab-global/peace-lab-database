@@ -1,7 +1,6 @@
 ---
-
 title: "Asanas & Pranayama (体式与呼吸法)"
-description: "Asanas & Pranayama (体式与呼吸法)的详细解析与实践指南"
+description: "Asanas & Pranayama (体式与呼吸法) —— 智慧传承 · 瑜伽 专题"
 category: "智慧传承 > 瑜伽"
 tags: ["cardiovascular", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Asanas & Pranayama"
   - "Asanas & Pranayama的核心概念"
   - "Asanas & Pranayama的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md"
-    relation: "aging/anxiety/cardiovascular"
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "aging/anxiety/exercise"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/11-Special-Populations.md"
-    relation: "aging/anxiety/cardiovascular"
-
+trigger_keywords: ["Asanas", "Pranayama", "体式与呼吸法"]
+cross_refs: []
 ---
 # Asanas & Pranayama (体式与呼吸法)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "路德维希·维特根斯坦 (Ludwig Wittgenstein)"
-description: "路德维希·维特根斯坦 (Ludwig Wittgenstein)的详细解析与实践指南"
+description: "路德维希·维特根斯坦 (Ludwig Wittgenstein) —— 20Th Century · Analytic 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Analytic"
 tags: ["cbt", "philosophy"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是路德维希·维特根斯坦"
   - "路德维希·维特根斯坦的核心概念"
   - "路德维希·维特根斯坦的方法与实践"
-trigger_keywords: ["路德维希", "维特根斯坦", "act", "art", "assessment", "behavioral"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "communication/exercise/neuroscience"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "communication/exercise/neuroscience"
-
+trigger_keywords: ["路德维希", "维特根斯坦"]
+cross_refs: []
 ---
 # 路德维希·维特根斯坦 (Ludwig Wittgenstein)
 

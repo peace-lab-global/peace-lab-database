@@ -1,7 +1,6 @@
 ---
-
 title: "《从容录》The Book of Equanimity"
-description: "《从容录》The Book of Equanimity的详细解析与实践指南"
+description: "《从容录》The Book of Equanimity —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["habits", "phobia"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《从容录》The Book of Equanimity"
   - "《从容录》The Book of Equanimity的核心概念"
   - "《从容录》The Book of Equanimity的方法与实践"
-trigger_keywords: ["body", "breathwork", "death", "habits"]
+trigger_keywords: ["habits", "《从容录》The", "Book", "of", "Equanimity"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Meditation_Stages.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "anxiety/art_therapy/buddhism"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md"
+    relation: "静坐/呼吸/冥想"
+  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Zen_Meditation_Methods.md"
+    relation: "默照/禅宗/呼吸"
+  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md"
+    relation: "静坐/默照/禅宗"
 ---
 # 《从容录》The Book of Equanimity
 

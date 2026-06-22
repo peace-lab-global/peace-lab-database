@@ -1,7 +1,6 @@
 ---
-
 title: "Meditation Philosophical Foundations (冥想哲学认知论基础)"
-description: "Meditation Philosophical Foundations (冥想哲学认知论基础)的详细解析与实践指南"
+description: "Meditation Philosophical Foundations (冥想哲学认知论基础) —— 冥想 · Overview 专题"
 category: "心智与心理学 > 冥想 > Overview"
 tags: ["anxiety", "brain", "daoism", "depression", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是Meditation Philosophical Foundations"
   - "Meditation Philosophical Foundations的核心概念"
   - "Meditation Philosophical Foundations的方法与实践"
-trigger_keywords: ["anxiety", "brain", "buddhism", "cognitive"]
+trigger_keywords: ["Meditation", "Philosophical", "Foundations", "冥想哲学认知论基础"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/modern-applications/INDEX.md"
-    relation: "anxiety/buddhism/daoism"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Traditional_Culture_Sexual_Concepts.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "README.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+    relation: "冥想/meditation"
 ---
 # Meditation Philosophical Foundations (冥想哲学认知论基础)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "冥想与创造力/艺术"
-description: "冥想与创造力/艺术的详细解析与实践指南"
+description: "冥想与创造力/艺术 —— 冥想 · Meditation Integration 专题"
 category: "心智与心理学 > 冥想 > Meditation Integration"
 tags: ["anxiety", "ballet", "brain", "cinema"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是冥想与创造力/艺术"
   - "冥想与创造力/艺术的核心概念"
   - "冥想与创造力/艺术的方法与实践"
-trigger_keywords: ["冥想与创造力", "艺术", "anxiety", "art", "ballet", "behavioral"]
+trigger_keywords: ["冥想与创造力", "艺术", "ballet"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Buddhism_Healing_Psychology.md"
-    relation: "anxiety/buddhism/meditation"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Mahamudra_Great_Seal.md"
-    relation: "anxiety/buddhism/meditation"
-
+  - path: "03-Bio-Science/biology/brain/Brain_DMN_Default_Mode_Network.md"
+    relation: "dmn/default/mode"
 ---
 # 冥想与创造力/艺术
 

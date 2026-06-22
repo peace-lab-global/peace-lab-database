@@ -1,7 +1,6 @@
 ---
-
 title: "Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)"
-description: "Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)的详细解析与实践指南"
+description: "Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范) —— 生物学 · Tuina 专题"
 category: "生命科学与生物医学 > 生物学 > Tuina"
 tags: ["brain", "exercise", "gut"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Tuina Manipulation Techniques Classification & Standards"
   - "Tuina Manipulation Techniques Classification & Standards的核心概念"
   - "Tuina Manipulation Techniques Classification & Standards的方法与实践"
-trigger_keywords: ["act", "assessment", "brain", "breathwork"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Resources.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/INDEX.md"
-    relation: "exercise/meditation/neuroscience"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Psychopathology_Atlas.md"
-    relation: "exercise/meditation/neuroscience"
-
+trigger_keywords: ["Tuina", "Manipulation", "Techniques", "Classification", "Standards"]
+cross_refs: []
 ---
 # Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)
 

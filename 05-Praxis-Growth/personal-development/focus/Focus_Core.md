@@ -1,7 +1,6 @@
 ---
-
 title: "专注力核心理论 (Focus/Core Attention: Core Theory)"
-description: "专注力核心理论 (Focus/Core Attention: Core Theory)的详细解析与实践指南"
+description: "专注力核心理论 (Focus/Core Attention: Core Theory) —— 个人发展 · Focus 专题"
 category: "实践与个人增长 > 个人发展 > Focus"
 tags: ["addiction"]
 last_updated: "2026-05"
@@ -13,19 +12,12 @@ intent_queries:
   - "专注力核心理论的核心概念"
   - "专注力核心理论的方法与实践"
   - "专注力核心理论的自助方法"
-trigger_keywords: ["专注力核心理论", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["专注力核心理论", "Focus", "Core", "Attention:", "Theory"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/emotion"
-
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Children_Therapy.md"
+    relation: "专注/adhd/障碍"
+  - path: "02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_ADHD_Therapy.md"
+    relation: "专注/adhd/障碍"
 ---
 # 专注力核心理论 (Focus/Core Attention: Core Theory)
 

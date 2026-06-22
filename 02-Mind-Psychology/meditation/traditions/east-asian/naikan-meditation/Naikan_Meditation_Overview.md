@@ -1,7 +1,6 @@
 ---
-
 title: "日本内观疗法专业概述 | Naikan Meditation Overview"
-description: "日本内观疗法专业概述 | Naikan Meditation Overview的详细解析与实践指南"
+description: "日本内观疗法专业概述 | Naikan Meditation Overview —— 冥想 · Naikan Meditation 专题"
 category: "心智与心理学 > 冥想 > Naikan Meditation"
 tags: ["addiction", "anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "日本内观疗法专业概述 | Naikan Meditation Overview的核心概念"
   - "日本内观疗法专业概述 | Naikan Meditation Overview的方法与实践"
   - "日本内观疗法专业概述 | Naikan Meditation Overview的循证证据"
-trigger_keywords: ["日本内观疗法专业概述", "act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["日本内观疗法专业概述", "Naikan", "Meditation", "Overview"]
+cross_refs: []
 ---
 # 日本内观疗法专业概述 | Naikan Meditation Overview
 

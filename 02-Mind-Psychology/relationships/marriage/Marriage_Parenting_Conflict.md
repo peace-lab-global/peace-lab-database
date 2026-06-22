@@ -1,7 +1,6 @@
 ---
-
 title: "育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)"
-description: "育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)的详细解析与实践指南"
+description: "育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage) —— 人际关系 · Marriage 专题"
 category: "心智与心理学 > 人际关系 > Marriage"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是育儿冲突与共同养育"
   - "育儿冲突与共同养育的核心概念"
   - "育儿冲突与共同养育的方法与实践"
-trigger_keywords: ["育儿冲突与共同养育", "act", "adolescent", "anxiety", "art"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/immune"
-  - path: "03-Bio-Science/biology/body-shame/Body_Shame_Overview.md"
-    relation: "anxiety/attachment/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/attachment/emotion"
-
+trigger_keywords: ["育儿冲突与共同养育", "Parenting", "Conflict", "Co-Parenting", "in"]
+cross_refs: []
 ---
 # 育儿冲突与共同养育 (Parenting Conflict & Co-Parenting in Marriage)
 

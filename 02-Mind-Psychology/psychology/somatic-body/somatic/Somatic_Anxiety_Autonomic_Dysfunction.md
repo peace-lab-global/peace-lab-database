@@ -1,7 +1,6 @@
 ---
-
 title: "植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)"
-description: "植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)的详细解析与实践指南"
+description: "植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia) —— 躯体与情绪 · Somatic 专题"
 category: "心智与心理学 > 心理学 > 躯体与情绪 > Somatic"
 tags: ["anxiety", "brain", "depression"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是植物神经紊乱与自主神经失调"
   - "植物神经紊乱与自主神经失调的核心概念"
   - "植物神经紊乱与自主神经失调的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Textile_Therapy.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/cardiovascular/communication"
-  - path: "01-Wisdom-Traditions/yoga/asana-library/restorative.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/communication/depression"
-
+trigger_keywords: ["植物神经紊乱与自主神经失调", "Autonomic", "Dysregulation", "Dysautonomia"]
+cross_refs: []
 ---
 # 植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)
 

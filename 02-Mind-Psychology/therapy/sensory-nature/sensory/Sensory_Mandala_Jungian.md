@@ -1,7 +1,6 @@
 ---
-
 title: "Mandala/Jungian Symbols (荣格心理与曼陀罗)"
-description: "Mandala/Jungian Symbols (荣格心理与曼陀罗)的详细解析与实践指南"
+description: "Mandala/Jungian Symbols (荣格心理与曼陀罗) —— 疗法 · 感官疗法 专题"
 category: "心智与心理学 > 疗法 > 感官疗法"
 tags: ["anxiety", "brain", "cortisol"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Mandala/Jungian Symbols"
   - "Mandala/Jungian Symbols的核心概念"
   - "Mandala/Jungian Symbols的方法与实践"
-trigger_keywords: ["Mandala", "anxiety", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Neuroscience_Psychology.md"
-    relation: "anxiety/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Overview.md"
-    relation: "anxiety/death/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/chopin-nocturnes/Chopin_Nocturnes_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md"
-    relation: "anxiety/death/emotion"
-
+trigger_keywords: ["Mandala", "Jungian", "Symbols", "荣格心理与曼陀罗"]
+cross_refs: []
 ---
 # Mandala/Jungian Symbols (荣格心理与曼陀罗)
 

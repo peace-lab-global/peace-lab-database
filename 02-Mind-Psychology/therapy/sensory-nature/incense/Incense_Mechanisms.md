@@ -1,7 +1,6 @@
 ---
-
 title: "檀香疗法机制 (Mechanisms of Incense Therapy)"
-description: "檀香疗法机制 (Mechanisms of Incense Therapy)的详细解析与实践指南"
+description: "檀香疗法机制 (Mechanisms of Incense Therapy) —— 疗法 · Incense 专题"
 category: "心智与心理学 > 疗法 > Incense"
 tags: ["anxiety", "brain", "cortisol", "immune"]
 last_updated: "2026-05"
@@ -13,19 +12,8 @@ intent_queries:
   - "檀香疗法机制的核心概念"
   - "檀香疗法机制的方法与实践"
   - "檀香疗法机制的循证证据"
-trigger_keywords: ["檀香疗法机制", "anxiety", "behavioral", "brain", "breathwork"]
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
-    relation: "anxiety/emotion/immune"
-  - path: "03-Bio-Science/INDEX.md"
-    relation: "anxiety/emotion/immune"
-  - path: "03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md"
-    relation: "emotion/immune/meditation"
-  - path: "03-Bio-Science/biology/immune-inflammation/INDEX.md"
-    relation: "emotion/immune/meditation"
-  - path: "03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md"
-    relation: "anxiety/emotion/immune"
-
+trigger_keywords: ["檀香疗法机制", "Mechanisms", "of", "Incense", "Therapy"]
+cross_refs: []
 ---
 # 檀香疗法机制 (Mechanisms of Incense Therapy)
 

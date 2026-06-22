@@ -1,7 +1,6 @@
 ---
-
 title: "Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)"
-description: "Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)的详细解析与实践指南"
+description: "Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素) —— 性学 · Masturbation Psychology 专题"
 category: "生命科学与生物医学 > 性学 > Masturbation Psychology"
 tags: ["addiction", "attachment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Individual Differences and Personality Factors in Masturbation"
   - "Individual Differences and Personality Factors in Masturbation的核心概念"
   - "Individual Differences and Personality Factors in Masturbation的方法与实践"
-trigger_keywords: ["act", "addiction", "anxiety", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/clinical/satir-model/Satir_Meditation_Techniques.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychology_Therapy_Techniques.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
-    relation: "anxiety/attachment/buddhism"
-
+trigger_keywords: ["Individual", "Differences", "and", "Personality", "Factors"]
+cross_refs: []
 ---
 # Individual Differences and Personality Factors in Masturbation (自慰行为的个体差异与人格因素)
 

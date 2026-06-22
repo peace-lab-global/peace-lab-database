@@ -1,7 +1,6 @@
 ---
-
 title: "传统文化与性观念对中国社会性焦虑的影响"
-description: "传统文化与性观念对中国社会性焦虑的影响的详细解析与实践指南"
+description: "传统文化与性观念对中国社会性焦虑的影响 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["aging", "brain"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "传统文化与性观念对中国社会性焦虑的影响的核心概念"
   - "传统文化与性观念对中国社会性焦虑的影响的方法与实践"
   - "传统文化与性观念对中国社会性焦虑的影响的自助方法"
-trigger_keywords: ["aging", "anxiety", "art", "behavioral"]
+trigger_keywords: ["传统文化与性观念对中国社会性焦虑的影响"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/attachment/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/anxiety/attachment"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Self_Monitoring.md"
+    relation: "焦虑/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/fortress-besieged/Siege_Mentality.md"
+    relation: "婚姻/压力/佛教"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/意义"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/white-deer-plain/Female_Fate.md"
+    relation: "婚姻/意义"
 ---
 # 传统文化与性观念对中国社会性焦虑的影响
 

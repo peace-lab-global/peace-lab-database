@@ -1,7 +1,6 @@
 ---
-
 title: "公共健康 | Public Health"
-description: "公共健康 | Public Health的详细解析与实践指南"
+description: "公共健康 | Public Health —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是公共健康 | Public Health"
   - "公共健康 | Public Health的核心概念"
   - "公共健康 | Public Health的方法与实践"
-trigger_keywords: ["公共健康", "art", "assessment", "behavioral", "brain"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md"
-    relation: "aging/death/immune"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "aging/communication/immune"
-  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Long_Term_Maintenance.md"
-    relation: "aging/communication/death"
-  - path: "02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md"
-    relation: "communication/death/immune"
-
+trigger_keywords: ["公共健康", "Public", "Health"]
+cross_refs: []
 ---
 # 公共健康 | Public Health
 

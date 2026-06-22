@@ -1,7 +1,6 @@
 ---
-
 title: "《紫色时光》The Violet Hour"
-description: "《紫色时光》The Violet Hour的详细解析与实践指南"
+description: "《紫色时光》The Violet Hour —— World Nonfiction · Death Dying 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying"
 tags: ["freud", "literature", "phobia", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《紫色时光》The Violet Hour"
   - "《紫色时光》The Violet Hour的核心概念"
   - "《紫色时光》The Violet Hour的方法与实践"
-trigger_keywords: ["death", "freud", "literature", "phobia"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Elderly.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md"
-    relation: "anxiety/art_therapy/death"
-  - path: "README.md"
-    relation: "anxiety/art_therapy/death"
-
+trigger_keywords: ["freud", "phobia"]
+cross_refs: []
 ---
 # 《紫色时光》The Violet Hour
 

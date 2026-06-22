@@ -1,7 +1,6 @@
 ---
-
 title: "avant-garde | Index"
-description: "avant-garde | Index的详细解析与实践指南"
+description: "avant-garde | Index —— Modern Chinese Literature · Avant Garde 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Avant Garde"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是avant-garde | Index"
   - "avant-garde | Index的核心概念"
   - "avant-garde | Index的方法与实践"
-trigger_keywords: ["Index", "文学"]
+trigger_keywords: ["文学", "avant-garde"]
 cross_refs: []
-
 ---
 # avant-garde | Index
 

@@ -1,7 +1,6 @@
 ---
-
 title: "换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)"
-description: "换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)的详细解析与实践指南"
+description: "换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary) —— 性学 · Swinging 专题"
 category: "生命科学与生物医学 > 性学 > Swinging"
 tags: ["attachment", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是换妻研究专业术语词典"
   - "换妻研究专业术语词典的核心概念"
   - "换妻研究专业术语词典的方法与实践"
-trigger_keywords: ["换妻研究专业术语词典", "act", "assessment", "attachment", "behavioral"]
+trigger_keywords: ["换妻研究专业术语词典", "Swinging", "Research", "Professional", "Terminology"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "attachment/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Intimacy_Relationships.md"
-    relation: "attachment/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md"
+    relation: "dictionary/terminology"
 ---
 # 换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)
 

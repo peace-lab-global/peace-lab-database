@@ -1,7 +1,6 @@
 ---
-
 title: "性学专业内容体系质量报告 (Sexuality Content Quality Report)"
-description: "性学专业内容体系质量报告 (Sexuality Content Quality Report)的详细解析与实践指南"
+description: "性学专业内容体系质量报告 (Sexuality Content Quality Report) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["intervention", "neuroscience", "sexuality", "treatment"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是性学专业内容体系质量报告"
   - "性学专业内容体系质量报告的核心概念"
   - "性学专业内容体系质量报告的方法与实践"
-trigger_keywords: ["assessment", "clinical", "developmental", "intervention"]
+trigger_keywords: ["intervention", "性学专业内容体系质量报告", "Sexuality", "Content", "Quality"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/korea/confucianism/YiI.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Wittgenstein.md"
-    relation: "neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "neuroscience/sexuality"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Quality_Report.md"
+    relation: "report/quality"
+  - path: "05-Praxis-Growth/talks/ted-talks/TED_Quality_Assessment_Report.md"
+    relation: "report/quality"
+  - path: "02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/INDEX.md"
+    relation: "report/quality"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Quality_Report.md"
+    relation: "report/quality/research"
 ---
 # 性学专业内容体系质量报告 (Sexuality Content Quality Report)
 

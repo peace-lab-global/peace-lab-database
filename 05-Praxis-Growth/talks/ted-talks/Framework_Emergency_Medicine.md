@@ -1,7 +1,6 @@
 ---
-
 title: "急诊医学 | Emergency Medicine"
-description: "急诊医学 | Emergency Medicine的详细解析与实践指南"
+description: "急诊医学 | Emergency Medicine —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["cardiovascular", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是急诊医学 | Emergency Medicine"
   - "急诊医学 | Emergency Medicine的核心概念"
   - "急诊医学 | Emergency Medicine的方法与实践"
-trigger_keywords: ["急诊医学", "body", "brain", "breathwork", "cardiovascular"]
-cross_refs:
-  - path: "README.md"
-    relation: "cardiovascular/communication/death"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "communication/death/emotion"
-  - path: "02-Mind-Psychology/psychology/social/pet-psychology/Pet_Psychology_Overview.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Anxiety_Autonomic_Dysfunction.md"
-    relation: "cardiovascular/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/_manifest.md"
-    relation: "cardiovascular/communication/emotion"
-
+trigger_keywords: ["急诊医学", "cardiovascular"]
+cross_refs: []
 ---
 # 急诊医学 | Emergency Medicine
 

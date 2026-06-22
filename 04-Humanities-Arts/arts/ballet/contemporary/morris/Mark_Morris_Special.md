@@ -1,7 +1,6 @@
 ---
-
 title: "马克·莫里斯专题 (Mark Morris Special Topic)"
-description: "马克·莫里斯专题 (Mark Morris Special Topic)的详细解析与实践指南"
+description: "马克·莫里斯专题 (Mark Morris Special Topic) —— Contemporary · Morris 专题"
 category: "人文与艺术疗愈 > 艺术 > 芭蕾 > Contemporary > Morris"
 tags: ["music", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是马克·莫里斯专题"
   - "马克·莫里斯专题的核心概念"
   - "马克·莫里斯专题的方法与实践"
-trigger_keywords: ["马克", "莫里斯专题", "act", "art", "assessment", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["马克", "莫里斯专题"]
+cross_refs: []
 ---
 # 马克·莫里斯专题 (Mark Morris Special Topic)
 

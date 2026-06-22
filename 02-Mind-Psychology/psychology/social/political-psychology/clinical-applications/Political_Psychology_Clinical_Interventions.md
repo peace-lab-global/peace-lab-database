@@ -1,7 +1,6 @@
 ---
-
 title: "政治心理学临床应用与干预 (Political Psychology: Clinical Applications & Interventions)"
-description: "政治心理学临床应用与干预 (Political Psychology: Clinical Applications & Interventions)的详细解析与实践指南"
+description: "政治心理学临床应用与干预 (Political Psychology: Clinical Applications & Interventions) —— Political Psychology · Clinical Applications 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Political Psychology > Clinical Applications"
 tags: ["anxiety", "brain", "cbt", "emdr"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "政治心理学临床应用与干预的核心概念"
   - "政治心理学临床应用与干预的方法与实践"
   - "政治心理学临床应用与干预的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "behavioral"]
+trigger_keywords: ["政治心理学临床应用与干预", "Political", "Psychology:", "Clinical", "Applications"]
 cross_refs:
-  - path: "03-Bio-Science/biology/breathwork/Bio_Breathwork_Pranayama.md"
-    relation: "anxiety/depression/emotion"
-  - path: "03-Bio-Science/sexuality/Sexuality_Therapy_Innovation.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/anime-manga/Anime_Manga_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/slow-boat-to-china/Thought_Analysis.md"
+    relation: "创伤/焦虑"
+  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
+    relation: "创伤/table/焦虑"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "创伤/冲突/焦虑"
+  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Composition_Background.md"
+    relation: "创伤/冲突/焦虑"
 ---
 # 政治心理学临床应用与干预 (Political Psychology: Clinical Applications & Interventions)
 

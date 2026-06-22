@@ -1,7 +1,6 @@
 ---
-
 title: "青少年心理学评估工具专业指南"
-description: "青少年心理学评估工具专业指南的详细解析与实践指南"
+description: "青少年心理学评估工具专业指南 —— Adolescent Psychology · Assessment Tools 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Adolescent Psychology > Assessment Tools"
 tags: ["addiction", "anxiety", "depression"]
 last_updated: "2026-05"
@@ -13,19 +12,10 @@ intent_queries:
   - "青少年心理学评估工具专业指南的核心概念"
   - "青少年心理学评估工具专业指南的方法与实践"
   - "青少年心理学评估工具专业指南的自助方法"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["青少年心理学评估工具专业指南"]
 cross_refs:
-  - path: "04-Humanities-Arts/media/music/classical-music/liszt-symphonic-poems/LesPreludes/Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Liszt_Music_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "04-Humanities-Arts/media/tv/television-therapy/Television_Therapy.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/depression/emotion"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/depression/emotion"
-
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "自杀/成瘾/抑郁"
 ---
 # 青少年心理学评估工具专业指南
 

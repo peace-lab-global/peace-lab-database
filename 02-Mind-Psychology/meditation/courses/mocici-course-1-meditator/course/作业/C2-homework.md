@@ -1,7 +1,6 @@
 ---
-
 title: "C1 第一周作业"
-description: "C1 第一周作业的详细解析与实践指南"
+description: "C1 第一周作业 —— 冥想 · Course 专题"
 category: "心智与心理学 > 冥想 > Course"
 tags: ["brain", "dmn", "flow", "habits"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是C1 第一周作业"
   - "C1 第一周作业的核心概念"
   - "C1 第一周作业的方法与实践"
-trigger_keywords: ["C1 第一周作业", "behavioral", "body", "brain", "breathwork"]
+trigger_keywords: ["C1 第一周作业", "C1", "第一周作业"]
 cross_refs:
-  - path: "03-Bio-Science/biology/exercise-science/INDEX.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "03-Bio-Science/foods/fasting/Bio_Fasting_Overview.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "emotion/meditation/neuroscience"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "emotion/meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/general/Classical_Music_Integration.md"
+    relation: "觉察/冥想/正念"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-insight-meditation-workbook.md"
+    relation: "觉察/冥想/正念"
 ---
 # C1 第一周作业
 

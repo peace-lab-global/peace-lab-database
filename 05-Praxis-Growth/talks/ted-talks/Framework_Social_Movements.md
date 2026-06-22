@@ -1,7 +1,6 @@
 ---
-
 title: "社会运动"
-description: "社会运动的详细解析与实践指南"
+description: "社会运动 —— 讲座 · Ted Talks 专题"
 category: "实践与个人增长 > 讲座 > Ted Talks"
 tags: ["讲座"]
 last_updated: "2026-05"
@@ -14,7 +13,6 @@ intent_queries:
   - "社会运动的方法与实践"
 trigger_keywords: ["社会运动", "exercise", "讲座"]
 cross_refs: []
-
 ---
 # 社会运动
 

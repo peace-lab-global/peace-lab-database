@@ -1,7 +1,6 @@
 ---
-
 title: "《春秋》Spring and Autumn Annals"
-description: "《春秋》Spring and Autumn Annals的详细解析与实践指南"
+description: "《春秋》Spring and Autumn Annals —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是《春秋》Spring and Autumn Annals"
   - "《春秋》Spring and Autumn Annals的核心概念"
   - "《春秋》Spring and Autumn Annals的方法与实践"
-trigger_keywords: ["death", "literature", "philosophy", "文学"]
+trigger_keywords: ["文学", "《春秋》Spring", "and", "Autumn", "Annals"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Practical.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/BaJin_Works_Analysis.md"
+    relation: "autumn/spring/意义"
 ---
 # 《春秋》Spring and Autumn Annals
 

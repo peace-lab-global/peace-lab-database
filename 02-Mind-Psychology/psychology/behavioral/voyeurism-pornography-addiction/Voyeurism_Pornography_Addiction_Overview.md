@@ -1,7 +1,6 @@
 ---
-
 title: "窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)"
-description: "窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)的详细解析与实践指南"
+description: "窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview) —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["addiction", "anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是窥淫癖与色情成瘾概览"
   - "窥淫癖与色情成瘾概览的核心概念"
   - "窥淫癖与色情成瘾概览的方法与实践"
-trigger_keywords: ["窥淫癖与色情成瘾概览", "act", "addiction", "adolescent", "aging"]
+trigger_keywords: ["窥淫癖与色情成瘾概览", "Voyeurism", "Pornography", "Addiction", "Overview"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "aging/anxiety/neuroscience"
-  - path: "01-Wisdom-Traditions/religions/tibetan-buddhism/Tibetan_Singing_Bowl.md"
-    relation: "aging/anxiety/neuroscience"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Overview.md"
+    relation: "matrix/legal/framework"
 ---
 # 窥淫癖与色情成瘾概览 (Voyeurism & Pornography Addiction Overview)
 

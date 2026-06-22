@@ -1,7 +1,6 @@
 ---
-
 title: "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base"
-description: "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的详细解析与实践指南"
+description: "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base —— 冥想 · Yoga Nidra 专题"
 category: "心智与心理学 > 冥想 > Yoga Nidra"
 tags: ["anxiety", "brain", "neuroscience", "pain", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base"
   - "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的核心概念"
   - "瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base的方法与实践"
-trigger_keywords: ["anxiety", "brain", "clinical", "exercise"]
+trigger_keywords: ["exercise", "瑜伽尼德拉", "Yoga", "Nidra", "知识库"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md"
-    relation: "anxiety/exercise/meditation"
   - path: "01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md"
-    relation: "anxiety/exercise/neuroscience"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "anxiety/exercise/meditation"
-  - path: "03-Bio-Science/biology/brain/Brain_EEG_Biofeedback.md"
-    relation: "anxiety/exercise/meditation"
-
+    relation: "nidra/yoga/瑜伽"
+  - path: "01-Wisdom-Traditions/yoga/career-business/Yoga_Meditation_Cross_Career.md"
+    relation: "nidra/yoga/瑜伽"
 ---
 # 瑜伽尼德拉（Yoga Nidra）知识库 | Yoga Nidra Knowledge Base
 

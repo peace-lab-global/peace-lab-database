@@ -1,6 +1,6 @@
 ---
 title: "literary-philosophers | Index"
-description: "literary-philosophers | Index的详细解析与实践指南"
+description: "literary-philosophers | Index —— 20Th Century · Literary Philosophers 专题"
 category: "智慧传承 > 哲学 > Western Philosophy > 20Th Century > Literary Philosophers"
 tags: ["哲学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是literary-philosophers | Index"
   - "literary-philosophers | Index的核心概念"
   - "literary-philosophers | Index的方法与实践"
-trigger_keywords: ["Index", "哲学"]
+trigger_keywords: ["哲学", "literary-philosophers"]
 cross_refs: []
 ---
 # literary-philosophers | Index

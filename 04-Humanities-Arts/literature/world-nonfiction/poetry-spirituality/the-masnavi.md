@@ -1,7 +1,6 @@
 ---
-
 title: "《玛斯纳维》The Masnavi"
-description: "《玛斯纳维》The Masnavi的详细解析与实践指南"
+description: "《玛斯纳维》The Masnavi —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["literature", "religion", "spirituality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《玛斯纳维》The Masnavi"
   - "《玛斯纳维》The Masnavi的核心概念"
   - "《玛斯纳维》The Masnavi的方法与实践"
-trigger_keywords: ["death", "literature", "meditation", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/death/meditation"
-  - path: "02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md"
-    relation: "art_therapy/death/meditation"
-  - path: "README.md"
-    relation: "art_therapy/death/meditation"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/meditation/sexuality"
-
+trigger_keywords: ["meditation", "《玛斯纳维》The", "Masnavi"]
+cross_refs: []
 ---
 # 《玛斯纳维》The Masnavi
 

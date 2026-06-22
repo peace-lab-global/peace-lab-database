@@ -1,7 +1,6 @@
 ---
-
 title: "技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη"
-description: "技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη的详细解析与实践指南"
+description: "技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη —— 写作 · Technical Writing 专题"
 category: "实践与个人增长 > 写作 > Technical Writing"
 tags: ["communication", "productivity", "social", "writing"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη"
   - "技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη的核心概念"
   - "技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη的方法与实践"
-trigger_keywords: ["技术写作工具链", "act", "assessment", "behavioral", "communication"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/christianity/Christianity_Worship_Practices.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Philosophy_Cosmology.md"
-    relation: "communication/productivity/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "communication/productivity/sexuality"
-
+trigger_keywords: ["技术写作工具链", "Technical", "Writing", "Toolchain", "Τεχνική"]
+cross_refs: []
 ---
 # 技术写作工具链 | Technical Writing Toolchain | Τεχνική Συγγραφή Εργαλειοθήκη
 

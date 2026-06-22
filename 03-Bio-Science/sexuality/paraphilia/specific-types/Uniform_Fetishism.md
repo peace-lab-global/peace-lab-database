@@ -1,6 +1,6 @@
 ---
 title: "制服恋物"
-description: "制服恋物的详细解析与实践指南"
+description: "制服恋物 —— Paraphilia · Specific Types 专题"
 category: "生命科学与生物医学 > 性学 > Paraphilia > Specific Types"
 tags: ["性学"]
 last_updated: "2026-05"

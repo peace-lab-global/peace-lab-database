@@ -1,7 +1,6 @@
 ---
-
 title: "representative-poets | Index"
-description: "representative-poets | Index的详细解析与实践指南"
+description: "representative-poets | Index —— Modern · Representative Poets 专题"
 category: "人文与艺术疗愈 > 文学 > Chinese Poetry > Modern > Representative Poets"
 tags: ["literature"]
 last_updated: "2026-05"
@@ -12,9 +11,8 @@ intent_queries:
   - "什么是representative-poets | Index"
   - "representative-poets | Index的核心概念"
   - "representative-poets | Index的方法与实践"
-trigger_keywords: ["Index", "文学"]
+trigger_keywords: ["文学", "representative-poets"]
 cross_refs: []
-
 ---
 # representative-poets | Index
 

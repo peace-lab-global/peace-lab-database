@@ -1,7 +1,6 @@
 ---
-
 title: "Herbal Tea Comprehensive Guide (花草茶完整专业指南)"
-description: "Herbal Tea Comprehensive Guide (花草茶完整专业指南)的详细解析与实践指南"
+description: "Herbal Tea Comprehensive Guide (花草茶完整专业指南) —— Tea · Herbal Tea 专题"
 category: "生命科学与生物医学 > 营养学 > Tea > Herbal Tea"
 tags: ["brain", "depression", "sleep"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Herbal Tea Comprehensive Guide"
   - "Herbal Tea Comprehensive Guide的核心概念"
   - "Herbal Tea Comprehensive Guide的方法与实践"
-trigger_keywords: ["anxiety", "body", "brain", "child"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/Depression_Nutritional_Interventions.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Tibetan_Healing_Arts.md"
-    relation: "anxiety/depression/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md"
-    relation: "anxiety/cardiovascular/depression"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "anxiety/emotion/immune"
-
+trigger_keywords: ["Herbal", "Tea", "Comprehensive", "Guide", "花草茶完整专业指南"]
+cross_refs: []
 ---
 # Herbal Tea Comprehensive Guide (花草茶完整专业指南)
 

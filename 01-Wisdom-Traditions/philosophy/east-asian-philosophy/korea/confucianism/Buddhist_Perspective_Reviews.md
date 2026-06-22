@@ -1,7 +1,6 @@
 ---
-
 title: "韩国儒学经典 · 佛法视角三方书评"
-description: "韩国儒学经典 · 佛法视角三方书评的详细解析与实践指南"
+description: "韩国儒学经典 · 佛法视角三方书评 —— Korea · Confucianism 专题"
 category: "智慧传承 > 哲学 > East Asian Philosophy > Korea > Confucianism"
 tags: ["buddhism", "mindfulness", "philosophy", "positive-psychology", "religion", "resilience"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是韩国儒学经典 · 佛法视角三方书评"
   - "韩国儒学经典 · 佛法视角三方书评的核心概念"
   - "韩国儒学经典 · 佛法视角三方书评的方法与实践"
-trigger_keywords: ["韩国儒学经典", "佛法视角三方书评", "behavioral", "buddhism", "developmental", "mindfulness"]
+trigger_keywords: ["韩国儒学经典", "佛法视角三方书评", "mindfulness"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/traditions/abrahamic/bahai-meditation/Bahai_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/buddhist-vipassana/Buddhist_Vipassana_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md"
-    relation: "buddhism/meditation/sexuality"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-life-of-milarepa.md"
+    relation: "佛教/佛法"
 ---
 # 韩国儒学经典 · 佛法视角三方书评
 

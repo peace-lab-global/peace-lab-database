@@ -13,8 +13,8 @@ intent_queries:
   - "太极与当代生活"
 trigger_keywords: ["全球化", "传播", "国际", "文化", "生活方式"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_Historical_Evolution.md"
-    relation: "history"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
 ---
 # 太极全球化传播 | Tai Chi Global Spread & Culture
 

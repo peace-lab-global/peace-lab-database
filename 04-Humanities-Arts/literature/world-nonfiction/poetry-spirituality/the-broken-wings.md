@@ -1,7 +1,6 @@
 ---
-
 title: "《折断的翅膀》The Broken Wings"
-description: "《折断的翅膀》The Broken Wings的详细解析与实践指南"
+description: "《折断的翅膀》The Broken Wings —— World Nonfiction · Poetry Spirituality 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality"
 tags: ["marriage", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《折断的翅膀》The Broken Wings"
   - "《折断的翅膀》The Broken Wings的核心概念"
   - "《折断的翅膀》The Broken Wings的方法与实践"
-trigger_keywords: ["body", "breathwork", "death", "marriage"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/death/exercise"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Christianity_Inner_Healing.md"
-    relation: "attachment/death/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_13_Cultural_Scenes.md"
-    relation: "art_therapy/death/exercise"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/death/exercise"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "attachment/death/exercise"
-
+trigger_keywords: ["marriage", "《折断的翅膀》The", "Broken", "Wings"]
+cross_refs: []
 ---
 # 《折断的翅膀》The Broken Wings
 

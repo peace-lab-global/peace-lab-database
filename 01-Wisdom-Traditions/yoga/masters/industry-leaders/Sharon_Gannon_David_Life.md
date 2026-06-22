@@ -1,7 +1,6 @@
 ---
-
 title: "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）"
-description: "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的详细解析与实践指南"
+description: "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life） —— Masters · Industry Leaders 专题"
 category: "智慧传承 > 瑜伽 > Masters > Industry Leaders"
 tags: ["meditation", "music", "philosophy", "positive-psychology", "spirituality", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）"
   - "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的核心概念"
   - "莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）的方法与实践"
-trigger_keywords: ["莎朗", "甘农与大卫", "act", "literature", "meditation", "music"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/INDEX.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Insurance_Legal.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "meditation/sexuality/therapy"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Practical_Guide.md"
-    relation: "meditation/sexuality/therapy"
-
+trigger_keywords: ["莎朗", "甘农与大卫", "meditation", "music"]
+cross_refs: []
 ---
 # 莎朗·甘农与大卫·莱夫（Sharon Gannon & David Life）
 

@@ -1,7 +1,6 @@
 ---
-
 title: "鲁迅 (Lu Xun, 1881-1936)：现代中国文学的奠基人与思想家"
-description: "鲁迅 (Lu Xun, 1881-1936)：现代中国文学的奠基人与思想家的详细解析与实践指南"
+description: "鲁迅 (Lu Xun, 1881-1936)：现代中国文学的奠基人与思想家 —— Near Modern · Authors 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Near Modern > Authors"
 tags: ["literature", "loneliness", "positive-psychology"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是鲁迅 ：现代中国文学的奠基人与思想家"
   - "鲁迅 ：现代中国文学的奠基人与思想家的核心概念"
   - "鲁迅 ：现代中国文学的奠基人与思想家的方法与实践"
-trigger_keywords: ["act", "adolescent", "art", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Practice_Guide.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/book-reviews/东方哲学经典书评.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["鲁迅", "Lu", "Xun", "1881-1936", "：现代中国文学的奠基人与思想家"]
+cross_refs: []
 ---
 # 鲁迅 (Lu Xun, 1881-1936)：现代中国文学的奠基人与思想家
 

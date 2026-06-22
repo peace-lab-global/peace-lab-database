@@ -1,7 +1,6 @@
 ---
-
 title: "金匮要略 (Jinkui Yaolue)"
-description: "金匮要略 (Jinkui Yaolue)的详细解析与实践指南"
+description: "金匮要略 (Jinkui Yaolue) —— 中医内经 · Classics 专题"
 category: "智慧传承 > 中医内经 > Classics"
 tags: ["gut", "中医内经"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是金匮要略"
   - "金匮要略的核心概念"
   - "金匮要略的方法与实践"
-trigger_keywords: ["金匮要略", "body", "gut", "sexuality", "中医内经"]
-cross_refs: []
-
+trigger_keywords: ["金匮要略", "gut", "中医内经"]
+cross_refs:
+  - path: "03-Bio-Science/biology/tuina/Tuina_Psychological_Regulation.md"
+    relation: "经络/阴阳"
 ---
 # 金匮要略 (Jinkui Yaolue)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "mbct-therapy | Index"
-description: "mbct-therapy | Index的详细解析与实践指南"
+description: "mbct-therapy | Index —— 疗法 · 正念认知疗法 专题"
 category: "心智与心理学 > 疗法 > 正念认知疗法"
 tags: ["mbct", "正念认知疗法", "疗法", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是mbct-therapy | Index"
   - "mbct-therapy | Index的核心概念"
   - "mbct-therapy | Index的方法与实践"
-trigger_keywords: ["Index", "mbct", "正念认知疗法", "疗法"]
+trigger_keywords: ["mbct", "正念认知疗法", "疗法"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "meditation/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/kyoto-school/Nishida.md"
-    relation: "meditation/therapy"
-
+  - path: "05-Praxis-Growth/personal-development/mindfulness/INDEX.md"
+    relation: "based/mindfulness/cognitive"
+  - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md"
+    relation: "mbct/mindfulness/cognitive"
 ---
 # mbct-therapy | Index
 

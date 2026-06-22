@@ -1,7 +1,6 @@
 ---
-
 title: "Generalized Anxiety Disorder Assessment (广泛性焦虑障碍评估)"
-description: "Generalized Anxiety Disorder Assessment (广泛性焦虑障碍评估)的详细解析与实践指南"
+description: "Generalized Anxiety Disorder Assessment (广泛性焦虑障碍评估) —— 焦虑症 · Gad 专题"
 category: "心智与心理学 > 心理学 > 临床心理 > 焦虑症 > Gad"
 tags: ["anxiety", "brain", "cbt", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Generalized Anxiety Disorder Assessment"
   - "Generalized Anxiety Disorder Assessment的核心概念"
   - "Generalized Anxiety Disorder Assessment的方法与实践"
-trigger_keywords: ["act", "adolescent", "aging", "anxiety"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/INDEX.md"
-    relation: "aging/anxiety/depression"
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Clinical_Applications.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Protocols_Training.md"
-    relation: "aging/anxiety/depression"
-  - path: "03-Bio-Science/biology/brain/Brain_Safety_Ethics.md"
-    relation: "aging/anxiety/depression"
-
+trigger_keywords: ["Generalized", "Anxiety", "Disorder", "Assessment", "广泛性焦虑障碍评估"]
+cross_refs: []
 ---
 # Generalized Anxiety Disorder Assessment (广泛性焦虑障碍评估)
 

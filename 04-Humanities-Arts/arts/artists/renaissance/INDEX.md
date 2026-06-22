@@ -1,7 +1,6 @@
 ---
-
 title: "renaissance | Index"
-description: "renaissance | Index的详细解析与实践指南"
+description: "renaissance | Index —— 艺术家 · 文艺复兴 专题"
 category: "人文与艺术疗愈 > 艺术 > 艺术家 > 文艺复兴"
 tags: ["文艺复兴", "art-therapy", "艺术家", "renaissance"]
 last_updated: "2026-05"
@@ -12,9 +11,10 @@ intent_queries:
   - "什么是renaissance | Index"
   - "renaissance | Index的核心概念"
   - "renaissance | Index的方法与实践"
-trigger_keywords: ["Index", "文艺复兴", "艺术", "艺术家"]
-cross_refs: []
-
+trigger_keywords: ["文艺复兴", "艺术", "艺术家"]
+cross_refs:
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md"
+    relation: "renaissance/contents"
 ---
 # renaissance | Index
 

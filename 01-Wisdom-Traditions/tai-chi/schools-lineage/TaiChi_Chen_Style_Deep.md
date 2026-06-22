@@ -13,12 +13,8 @@ intent_queries:
   - "缠丝劲是什么"
 trigger_keywords: ["陈式", "缠丝", "老架", "新架", "陈王廷", "陈长兴"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Schools_Styles.md"
-    relation: "five-schools-overview"
-  - path: "01-Wisdom-Traditions/tai-chi/philosophy-history/TaiChi_Historical_Evolution.md"
-    relation: "tai-chi-history"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Bodywork_Silk_Reeling.md"
-    relation: "silk-reeling-detail"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 陈式太极深度解析 | Chen Style Tai Chi Deep Dive
 

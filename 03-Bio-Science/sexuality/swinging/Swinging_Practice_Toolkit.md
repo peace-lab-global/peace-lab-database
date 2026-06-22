@@ -1,7 +1,6 @@
 ---
-
 title: "换妻实践工具箱 (Swinging Practice Toolkit)"
-description: "换妻实践工具箱 (Swinging Practice Toolkit)的详细解析与实践指南"
+description: "换妻实践工具箱 (Swinging Practice Toolkit) —— 性学 · Swinging 专题"
 category: "生命科学与生物医学 > 性学 > Swinging"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是换妻实践工具箱"
   - "换妻实践工具箱的核心概念"
   - "换妻实践工具箱的方法与实践"
-trigger_keywords: ["换妻实践工具箱", "act", "assessment", "behavioral", "body"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/enlightenment/Hume.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "communication/emotion/sexuality"
-  - path: "01-Wisdom-Traditions/yoga/modern-professional/Yoga_Ethics_Business_Professional.md"
-    relation: "communication/emotion/sexuality"
-
+trigger_keywords: ["换妻实践工具箱", "Swinging", "Practice", "Toolkit"]
+cross_refs: []
 ---
 # 换妻实践工具箱 (Swinging Practice Toolkit)
 

@@ -1,7 +1,6 @@
 ---
-
 title: "人际关系治疗体系：系统性框架与实践指南"
-description: "人际关系治疗体系：系统性框架与实践指南的详细解析与实践指南"
+description: "人际关系治疗体系：系统性框架与实践指南 —— 心智与心理学 · 人际关系 专题"
 category: "心智与心理学 > 人际关系"
 tags: ["anxiety", "attachment"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "人际关系治疗体系：系统性框架与实践指南的核心概念"
   - "人际关系治疗体系：系统性框架与实践指南的方法与实践"
   - "人际关系治疗体系：系统性框架与实践指南的循证证据"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["人际关系治疗体系：系统性框架与实践指南"]
 cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "aging/anxiety/attachment"
-  - path: "04-Humanities-Arts/arts/ballet/Ballet_Therapy_Applications.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/arts/photography-therapy/Photography_Practice_Guide.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Composition_Background.md"
-    relation: "aging/anxiety/communication"
-  - path: "04-Humanities-Arts/media/music/classical-music/bach-well-tempered-clavier/Bach_Well_Tempered_Clavier_Therapeutic_Analysis.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-bonesetters-daughter/Thought_Analysis.md"
+    relation: "依恋/恐惧/创伤"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Quality_Certification_Report.md"
+    relation: "依恋/冲突/焦虑"
+  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Sex_Education_Social_Change.md"
+    relation: "人际关系/亲密关系"
+  - path: "03-Bio-Science/sexuality/male-sexual-health/Psychological_Relationship_Factors.md"
+    relation: "依恋/沟通/倾听"
 ---
 # 人际关系治疗体系：系统性框架与实践指南
 

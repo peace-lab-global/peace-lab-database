@@ -1,7 +1,6 @@
 ---
-
 title: "《活着即是迈向死亡》三方书评"
-description: "《活着即是迈向死亡》三方书评的详细解析与实践指南"
+description: "《活着即是迈向死亡》三方书评 —— Dzongsar Khyentse · Living Is Dying 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > Living Is Dying"
 tags: ["buddhism", "dzogchen"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《活着即是迈向死亡》三方书评"
   - "《活着即是迈向死亡》三方书评的核心概念"
   - "《活着即是迈向死亡》三方书评的方法与实践"
-trigger_keywords: ["anxiety", "behavioral", "body", "breathwork"]
+trigger_keywords: ["《活着即是迈向死亡》三方书评"]
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/the-art-of-living.md"
-    relation: "anxiety/buddhism/death"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Phowa_Consciousness_Transfer.md"
+    relation: "死亡/临终/佛教"
   - path: "04-Humanities-Arts/literature/world-nonfiction/tibetan-book-of-living-and-dying/Thought_Analysis.md"
-    relation: "anxiety/buddhism/death"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/buddhism/death"
-
+    relation: "死亡/临终/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/closer-to-me.md"
+    relation: "死亡/临终"
 ---
 # 《活着即是迈向死亡》三方书评
 

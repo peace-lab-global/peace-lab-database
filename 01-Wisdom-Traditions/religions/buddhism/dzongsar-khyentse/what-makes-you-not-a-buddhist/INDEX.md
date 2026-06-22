@@ -1,7 +1,6 @@
 ---
-
 title: "What Makes You Not a Buddhist | 正见：佛陀的证悟"
-description: "What Makes You Not a Buddhist | 正见：佛陀的证悟的详细解析与实践指南"
+description: "What Makes You Not a Buddhist | 正见：佛陀的证悟 —— Dzongsar Khyentse · What Makes You Not A Buddhist 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Dzongsar Khyentse > What Makes You Not A Buddhist"
 tags: ["buddhism", "philosophy", "positive-psychology", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是What Makes You Not a Buddhist | 正见：佛陀的证悟"
   - "What Makes You Not a Buddhist | 正见：佛陀的证悟的核心概念"
   - "What Makes You Not a Buddhist | 正见：佛陀的证悟的方法与实践"
-trigger_keywords: ["正见：佛陀的证悟", "buddhism", "emotion", "philosophy", "positive-psychology"]
+trigger_keywords: ["正见：佛陀的证悟", "positive-psychology"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-2-meditation-history.md"
-    relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Traditions.md"
-    relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Shinzen_Young.md"
-    relation: "buddhism/emotion/pain"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "buddhism/emotion/pain"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "makes/buddhist/佛教"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/not-for-happiness.md"
+    relation: "佛教/jamyang/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "佛教/buddhism/jamyang"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-four-noble-truths.md"
+    relation: "noble/truths/four"
 ---
 # What Makes You Not a Buddhist | 正见：佛陀的证悟
 

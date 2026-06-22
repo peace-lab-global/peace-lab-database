@@ -1,7 +1,6 @@
 ---
-
 title: "当代中国文学专业内容体系：改革开放以来的文学发展"
-description: "当代中国文学专业内容体系：改革开放以来的文学发展的详细解析与实践指南"
+description: "当代中国文学专业内容体系：改革开放以来的文学发展 —— Modern Chinese Literature · Contemporary 专题"
 category: "人文与艺术疗愈 > 文学 > Modern Chinese Literature > Contemporary"
 tags: ["literature", "self-confidence"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是当代中国文学专业内容体系：改革开放以来的文学发展"
   - "当代中国文学专业内容体系：改革开放以来的文学发展的核心概念"
   - "当代中国文学专业内容体系：改革开放以来的文学发展的方法与实践"
-trigger_keywords: ["act", "art", "behavioral", "developmental"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/exercise/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/WittgensteinLater.md"
-    relation: "exercise/sexuality/therapy"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Husserl.md"
-    relation: "exercise/sexuality/therapy"
-
+trigger_keywords: ["当代中国文学专业内容体系：改革开放以来的文学发展"]
+cross_refs: []
 ---
 # 当代中国文学专业内容体系：改革开放以来的文学发展
 

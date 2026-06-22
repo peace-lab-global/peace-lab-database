@@ -1,6 +1,6 @@
 ---
 title: "social-emotional | Index"
-description: "social-emotional | Index的详细解析与实践指南"
+description: "social-emotional | Index —— Child Development Psychology · Social Emotional 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Development Psychology > Social Emotional"
 tags: ["发展心理学", "心理学"]
 last_updated: "2026-05"
@@ -11,7 +11,7 @@ intent_queries:
   - "什么是social-emotional | Index"
   - "social-emotional | Index的核心概念"
   - "social-emotional | Index的方法与实践"
-trigger_keywords: ["Index", "发展心理学", "心理学"]
+trigger_keywords: ["发展心理学", "心理学"]
 cross_refs: []
 ---
 # social-emotional | Index

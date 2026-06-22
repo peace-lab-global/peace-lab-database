@@ -1,7 +1,6 @@
 ---
-
 title: "金刚乘概览 (Vajrayana Overview)"
-description: "金刚乘概览 (Vajrayana Overview)的详细解析与实践指南"
+description: "金刚乘概览 (Vajrayana Overview) —— 佛教 · Vajrayana 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Vajrayana"
 tags: ["buddhism", "dzogchen", "mandala", "meditation"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是金刚乘概览"
   - "金刚乘概览的核心概念"
   - "金刚乘概览的方法与实践"
-trigger_keywords: ["金刚乘概览", "act", "body", "buddhism", "cognitive"]
+trigger_keywords: ["金刚乘概览", "Vajrayana", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Community_Sangha.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/15-Culture-Adaptation.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/occupational-burnout/16-Asian-Workplace-Studies.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
-    relation: "buddhism/communication/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/mantra-chanting/Mantra_Practical_Guide.md"
-    relation: "buddhism/communication/meditation"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/vajrayana/藏传"
 ---
 # 金刚乘概览 (Vajrayana Overview)
 

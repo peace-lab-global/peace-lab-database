@@ -1,7 +1,6 @@
 ---
-
 title: "门德尔松e小调小提琴协奏曲结构分析"
-description: "门德尔松e小调小提琴协奏曲结构分析的详细解析与实践指南"
+description: "门德尔松e小调小提琴协奏曲结构分析 —— Mendelssohn Violin Concertos · Op64 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mendelssohn Violin Concertos > Op64"
 tags: ["music", "writing", "古典音乐", "媒体"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是门德尔松e小调小提琴协奏曲结构分析"
   - "门德尔松e小调小提琴协奏曲结构分析的核心概念"
   - "门德尔松e小调小提琴协奏曲结构分析的方法与实践"
-trigger_keywords: ["art", "developmental", "emotion", "music"]
+trigger_keywords: ["music", "门德尔松e小调小提琴协奏曲结构分析"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/literary-philosophers/Woolf_Works_Analysis.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "art_therapy/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Psychological_Painting.md"
-    relation: "art_therapy/communication/emotion"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/anti-procrastination/Motivation_Enhancement.md"
+    relation: "意义/vs"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "意义/vs"
 ---
 # 门德尔松e小调小提琴协奏曲结构分析
 

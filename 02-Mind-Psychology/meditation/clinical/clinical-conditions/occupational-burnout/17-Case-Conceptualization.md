@@ -1,7 +1,6 @@
 ---
-
 title: "17. 案例概念化：从评估到干预 | Case Conceptualization"
-description: "17. 案例概念化：从评估到干预 | Case Conceptualization的详细解析与实践指南"
+description: "17. 案例概念化：从评估到干预 | Case Conceptualization —— Clinical Conditions · Occupational Burnout 专题"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["anxiety", "decision-making", "act"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是17. 案例概念化：从评估到干预 | Case Conceptualization"
   - "17. 案例概念化：从评估到干预 | Case Conceptualization的核心概念"
   - "17. 案例概念化：从评估到干预 | Case Conceptualization的方法与实践"
-trigger_keywords: ["act", "anxiety", "assessment", "breathwork"]
-cross_refs:
-  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychological_Rehabilitation.md"
-    relation: "anxiety/communication/depression"
-  - path: "04-Humanities-Arts/media/music/classical-music/rachmaninoff-piano-concertos/Rachmaninoff_Piano_Concerto_No1_Therapeutic_Analysis.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "anxiety/communication/emotion"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation_Interventions.md"
-    relation: "anxiety/communication/depression"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/communication/emotion"
-
+trigger_keywords: ["17.", "案例概念化：从评估到干预", "Case", "Conceptualization"]
+cross_refs: []
 ---
 # 17. 案例概念化：从评估到干预 | Case Conceptualization
 

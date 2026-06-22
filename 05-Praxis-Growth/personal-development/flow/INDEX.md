@@ -1,7 +1,6 @@
 ---
-
 title: "flow | Index"
-description: "flow | Index的详细解析与实践指南"
+description: "flow | Index —— 个人发展 · 心流 专题"
 category: "实践与个人增长 > 个人发展 > 心流"
 tags: ["个人发展", "flow"]
 last_updated: "2026-05"
@@ -12,9 +11,12 @@ intent_queries:
   - "什么是flow | Index"
   - "flow | Index的核心概念"
   - "flow | Index的方法与实践"
-trigger_keywords: ["flow", "Index", "个人发展", "心流"]
-cross_refs: []
-
+trigger_keywords: ["flow", "个人发展", "心流"]
+cross_refs:
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Performance.md"
+    relation: "flow/state"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/INDEX.md"
+    relation: "applications/clinical/contents"
 ---
 # flow | Index
 

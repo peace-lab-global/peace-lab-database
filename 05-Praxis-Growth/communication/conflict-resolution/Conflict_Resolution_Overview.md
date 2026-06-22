@@ -1,7 +1,6 @@
 ---
-
 title: "冲突解决概述 | Conflict Resolution Overview"
-description: "冲突解决概述 | Conflict Resolution Overview的详细解析与实践指南"
+description: "冲突解决概述 | Conflict Resolution Overview —— 沟通 · Conflict Resolution 专题"
 category: "实践与个人增长 > 沟通 > Conflict Resolution"
 tags: ["communication", "decision-making", "negotiation"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是冲突解决概述 | Conflict Resolution Overview"
   - "冲突解决概述 | Conflict Resolution Overview的核心概念"
   - "冲突解决概述 | Conflict Resolution Overview的方法与实践"
-trigger_keywords: ["冲突解决概述", "assessment", "behavioral", "body", "brain"]
+trigger_keywords: ["冲突解决概述", "Conflict", "Resolution", "Overview"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/17-Family-Caregiver.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/20-Therapist-Self-Care.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_04_Emotion.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Career_Development.md"
-    relation: "communication/emotion/neuroscience"
-  - path: "02-Mind-Psychology/meditation/professional/professional-handbook/Professional_Client_Relations.md"
-    relation: "communication/emotion/neuroscience"
-
+  - path: "02-Mind-Psychology/relationships/marriage/Marriage_Conflict_Resolution.md"
+    relation: "冲突/conflict/resolution"
+  - path: "02-Mind-Psychology/relationships/love-dating/dating/Dating_Conflict_Boundary.md"
+    relation: "conflict/冲突/resolution"
+  - path: "02-Mind-Psychology/relationships/marriage/INDEX.md"
+    relation: "conflict/冲突/resolution"
+  - path: "02-Mind-Psychology/relationships/love-dating/love/Love_Communication_Conflict.md"
+    relation: "conflict/冲突/resolution"
 ---
 # 冲突解决概述 | Conflict Resolution Overview
 

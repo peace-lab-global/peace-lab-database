@@ -1,7 +1,6 @@
 ---
-
 title: "K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人"
-description: "K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人的详细解析与实践指南"
+description: "K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人 —— Masters · Contemporary 专题"
 category: "智慧传承 > 瑜伽 > Masters > Contemporary"
 tags: ["cbt", "decision-making", "philosophy", "yoga"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人"
   - "K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人的核心概念"
   - "K. Pattabhi Jois  — 阿斯汤加流瑜伽体系创始人的方法与实践"
-trigger_keywords: ["act", "anxiety", "behavioral", "body"]
-cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/INDEX.md"
-    relation: "anxiety/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md"
-    relation: "anxiety/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Trauma_Healing.md"
-    relation: "anxiety/meditation/productivity"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md"
-    relation: "anxiety/meditation/productivity"
-
+trigger_keywords: ["K.", "Pattabhi", "Jois", "帕塔比", "乔伊斯"]
+cross_refs: []
 ---
 # K. Pattabhi Jois (帕塔比·乔伊斯) — 阿斯汤加流瑜伽体系创始人
 

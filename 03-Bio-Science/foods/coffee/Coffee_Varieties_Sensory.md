@@ -1,7 +1,6 @@
 ---
-
 title: "Coffee Varieties & Sensory Science (咖啡品种与感官科学)"
-description: "Coffee Varieties & Sensory Science (咖啡品种与感官科学)的详细解析与实践指南"
+description: "Coffee Varieties & Sensory Science (咖啡品种与感官科学) —— 营养学 · Coffee 专题"
 category: "生命科学与生物医学 > 营养学 > Coffee"
 tags: ["gut"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是Coffee Varieties & Sensory Science"
   - "Coffee Varieties & Sensory Science的核心概念"
   - "Coffee Varieties & Sensory Science的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "assessment"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Zen_Seven_Day_Retreat.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "anxiety/emotion/meditation"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Advanced.md"
-    relation: "anxiety/emotion/meditation"
-
+trigger_keywords: ["Coffee", "Varieties", "Sensory", "Science", "咖啡品种与感官科学"]
+cross_refs: []
 ---
 # Coffee Varieties & Sensory Science (咖啡品种与感官科学)
 

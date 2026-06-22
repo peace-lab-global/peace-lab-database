@@ -1,7 +1,6 @@
 ---
-
 title: "《明智之心》The Wise Heart"
-description: "《明智之心》The Wise Heart的详细解析与实践指南"
+description: "《明智之心》The Wise Heart —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: []
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《明智之心》The Wise Heart"
   - "《明智之心》The Wise Heart的核心概念"
   - "《明智之心》The Wise Heart的方法与实践"
-trigger_keywords: ["behavioral", "body", "buddhism", "clinical"]
+trigger_keywords: ["《明智之心》The", "Wise", "Heart"]
 cross_refs:
-  - path: "README.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/buddhism/cardiovascular"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "buddhism/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
-    relation: "buddhism/cardiovascular/emotion"
-
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/vs/觉察"
+  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/empiricism/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/内观"
+  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jack_Kornfield.md"
+    relation: "kornfield/jack/heart"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/watsuji/Buddhist_Perspective_Reviews.md"
+    relation: "佛教/vs"
 ---
 # 《明智之心》The Wise Heart
 

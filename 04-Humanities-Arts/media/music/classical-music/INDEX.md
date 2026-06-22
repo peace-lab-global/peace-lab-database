@@ -1,7 +1,6 @@
 ---
-
 title: "classical-music | 古典音乐"
-description: "classical-music | 古典音乐的详细解析与实践指南"
+description: "classical-music | 古典音乐 —— 音乐 · 古典音乐 专题"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐"
 tags: ["ballet", "healing", "music", "treatment", "classical-music"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是classical-music | 古典音乐"
   - "classical-music | 古典音乐的核心概念"
   - "classical-music | 古典音乐的方法与实践"
-trigger_keywords: ["古典音乐", "art", "ballet", "clinical", "healing"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
-    relation: "art_therapy/neuroscience/sexuality"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
-    relation: "art_therapy/neuroscience/sexuality"
-
+trigger_keywords: ["古典音乐", "ballet", "healing"]
+cross_refs: []
 ---
 # classical-music | 古典音乐
 

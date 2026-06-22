@@ -1,7 +1,6 @@
 ---
-
 title: "儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)"
-description: "儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)的详细解析与实践指南"
+description: "儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework) —— Adolescent · Child Adolescent Sexuality 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent Sexuality"
 tags: ["anxiety"]
 last_updated: "2026-05"
@@ -12,19 +11,10 @@ intent_queries:
   - "什么是儿童及青少年性教育专业体系概览"
   - "儿童及青少年性教育专业体系概览的核心概念"
   - "儿童及青少年性教育专业体系概览的方法与实践"
-trigger_keywords: ["act", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["儿童及青少年性教育专业体系概览", "Child", "Adolescent", "Sexuality", "Education"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Philosophy_Western_Stoicism_Existentialism.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/buddhism/vasana/Vasana_Clinical_Applications.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md"
-    relation: "anxiety/emotion/exercise"
-  - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/Religious_Psychology_Clinical_Treatment.md"
-    relation: "anxiety/emotion/exercise"
-
+  - path: "03-Bio-Science/sexuality/Sexuality_Education_Comprehensive.md"
+    relation: "sexuality/education/adolescent"
 ---
 # 儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)
 

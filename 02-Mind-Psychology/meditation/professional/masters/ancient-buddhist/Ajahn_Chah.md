@@ -1,7 +1,6 @@
 ---
-
 title: "阿姜查"
-description: "阿姜查的详细解析与实践指南"
+description: "阿姜查 —— Masters · Ancient Buddhist 专题"
 category: "心智与心理学 > 冥想 > Masters > Ancient Buddhist"
 tags: ["meditation"]
 last_updated: "2026-05"
@@ -14,7 +13,6 @@ intent_queries:
   - "阿姜查的方法与实践"
 trigger_keywords: ["阿姜查", "冥想"]
 cross_refs: []
-
 ---
 # 阿姜查
 

@@ -1,7 +1,6 @@
 ---
-
 title: "修习止观坐禅法要（小止观）"
-description: "修习止观坐禅法要（小止观）的详细解析与实践指南"
+description: "修习止观坐禅法要（小止观） —— 佛教 · Sutras 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教 > Sutras"
 tags: ["buddhism", "mindfulness", "music", "sleep", "宗教与灵性"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是修习止观坐禅法要（小止观）"
   - "修习止观坐禅法要（小止观）的核心概念"
   - "修习止观坐禅法要（小止观）的方法与实践"
-trigger_keywords: ["body", "buddhism", "mindfulness", "music"]
+trigger_keywords: ["mindfulness", "music"]
 cross_refs:
-  - path: "README.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "TAXONOMY.md"
-    relation: "buddhism/meditation/nutrition"
-  - path: "02-Mind-Psychology/meditation/professional/career-business/Meditation_Instructor_Self_Care.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md"
-    relation: "meditation/nutrition/sexuality"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/06-Subtypes.md"
-    relation: "meditation/nutrition/sexuality"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第四讲：练习止的方式-1.md"
+    relation: "止观/调息"
+  - path: "02-Mind-Psychology/meditation/professional/masters/ancient-buddhist/Zhiyi.md"
+    relation: "止观/坐禅/佛教"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_History.md"
+    relation: "止观/佛教"
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第三讲：练习止的关键词-1.md"
+    relation: "止观/调息"
 ---
 # 修习止观坐禅法要（小止观）
 

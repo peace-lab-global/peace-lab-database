@@ -1,7 +1,6 @@
 ---
-
 title: "《金刚经》Diamond Sutra"
-description: "《金刚经》Diamond Sutra的详细解析与实践指南"
+description: "《金刚经》Diamond Sutra —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["phobia", "zen", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是《金刚经》Diamond Sutra"
   - "《金刚经》Diamond Sutra的核心概念"
   - "《金刚经》Diamond Sutra的方法与实践"
-trigger_keywords: ["buddhism", "death", "phobia", "sexuality"]
+trigger_keywords: ["phobia", "《金刚经》Diamond", "Sutra"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/practical-philosophy/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/religions/buddhism/jiqun/Buddhist_Masters_Book_Reviews_Collection.md"
-    relation: "art_therapy/buddhism/death"
-
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/poison-is-medicine/Book_Review.md"
+    relation: "佛法/菩提/智慧"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/japan/buddhism/Buddhist_Perspective_Reviews.md"
+    relation: "佛法/禅宗/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/poison-is-medicine/Multi_Perspective_Reviews.md"
+    relation: "佛法/菩提/佛教"
+  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/Buddhist_Perspective_Reviews.md"
+    relation: "佛法/佛教/智慧"
 ---
 # 《金刚经》Diamond Sutra
 

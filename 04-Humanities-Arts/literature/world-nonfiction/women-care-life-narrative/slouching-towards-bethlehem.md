@@ -1,7 +1,6 @@
 ---
-
 title: "《向伯利恒跋涉》Slouching Towards Bethlehem"
-description: "《向伯利恒跋涉》Slouching Towards Bethlehem的详细解析与实践指南"
+description: "《向伯利恒跋涉》Slouching Towards Bethlehem —— World Nonfiction · Women Care Life Narrative 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Women Care Life Narrative"
 tags: ["literature", "personality"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《向伯利恒跋涉》Slouching Towards Bethlehem"
   - "《向伯利恒跋涉》Slouching Towards Bethlehem的核心概念"
   - "《向伯利恒跋涉》Slouching Towards Bethlehem的方法与实践"
-trigger_keywords: ["act", "behavioral", "cognitive", "exercise"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/emotion/exercise"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/confucianism/WangYangming.md"
-    relation: "emotion/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/contemporary/applied-ethics/Multi_Perspective_Reviews.md"
-    relation: "emotion/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/islamic/Al-Ghazali.md"
-    relation: "emotion/exercise/personality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/medieval/jewish/Maimonides.md"
-    relation: "emotion/exercise/personality"
-
+trigger_keywords: ["exercise", "《向伯利恒跋涉》Slouching", "Towards", "Bethlehem"]
+cross_refs: []
 ---
 # 《向伯利恒跋涉》Slouching Towards Bethlehem
 

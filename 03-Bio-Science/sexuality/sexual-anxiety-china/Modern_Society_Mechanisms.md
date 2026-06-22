@@ -1,7 +1,6 @@
 ---
-
 title: "现代社会性焦虑机制分析"
-description: "现代社会性焦虑机制分析的详细解析与实践指南"
+description: "现代社会性焦虑机制分析 —— 性学 · Sexual Anxiety China 专题"
 category: "生命科学与生物医学 > 性学 > Sexual Anxiety China"
 tags: ["addiction", "decision-making"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "现代社会性焦虑机制分析的核心概念"
   - "现代社会性焦虑机制分析的方法与实践"
   - "现代社会性焦虑机制分析的自助方法"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["现代社会性焦虑机制分析"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/courses/course/C3-4-intimacy-with-body.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/courses/keynotes/mocici.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/attachment/communication"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/与身体对话/与身体对话：生活觉察：和身体建立亲密关系.md"
+    relation: "亲密关系/压力/习惯"
+  - path: "02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Health_Risk_Assessment_Skill.md"
+    relation: "压力/焦虑/障碍"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Social_Anxiety_Coping.md"
+    relation: "恐惧/焦虑"
+  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Nature_of_Anxiety.md"
+    relation: "焦虑/障碍"
 ---
 # 现代社会性焦虑机制分析
 

@@ -1,7 +1,6 @@
 ---
-
 title: "Aesthetics & Modernity (禅宗美学与现代整合)"
-description: "Aesthetics & Modernity (禅宗美学与现代整合)的详细解析与实践指南"
+description: "Aesthetics & Modernity (禅宗美学与现代整合) —— 宗教与灵性 · 禅宗 专题"
 category: "智慧传承 > 宗教与灵性 > 禅宗"
 tags: ["buddhism", "calligraphy", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Aesthetics & Modernity"
   - "Aesthetics & Modernity的核心概念"
   - "Aesthetics & Modernity的方法与实践"
-trigger_keywords: ["act", "anxiety", "art", "behavioral"]
+trigger_keywords: ["Aesthetics", "Modernity", "禅宗美学与现代整合"]
 cross_refs:
-  - path: "04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "04-Humanities-Arts/arts/craft-therapy/Craft_Therapy_Overview.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/buddhism/communication"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "anxiety/buddhism/communication"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/manual-of-zen-buddhism.md"
+    relation: "禅宗/zen"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/three-pillars-of-zen.md"
+    relation: "禅宗/zen/pillars"
+  - path: "04-Humanities-Arts/literature/modern-chinese-literature/contemporary/the-distant-savior/Zen_Business_Philosophy.md"
+    relation: "zen/禅宗"
 ---
 # Aesthetics & Modernity (禅宗美学与现代整合)
 

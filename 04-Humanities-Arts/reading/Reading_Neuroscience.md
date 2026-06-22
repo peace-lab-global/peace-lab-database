@@ -1,7 +1,6 @@
 ---
-
 title: "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης"
-description: "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的详细解析与实践指南"
+description: "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题"
 category: "人文与艺术疗愈 > 阅读"
 tags: ["bci"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης"
   - "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的核心概念"
   - "阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης的方法与实践"
-trigger_keywords: ["阅读神经科学", "aging", "assessment", "bci", "behavioral"]
+trigger_keywords: ["阅读神经科学", "bci"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_East_Asian_Calligraphy_Way.md"
-    relation: "aging/art_therapy/communication"
-  - path: "01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md"
-    relation: "aging/communication/emotion"
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "aging/communication/emotion"
-
+  - path: "03-Bio-Science/sexuality/paraphilia/specific-types/Neuroscience_Mechanisms.md"
+    relation: "neuroscience/神经科学/reading"
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md"
+    relation: "fmri/neuroscience/神经科学"
 ---
 # 阅读神经科学 | Reading Neuroscience | Νευροεπιστήμη Ανάγνωσης
 

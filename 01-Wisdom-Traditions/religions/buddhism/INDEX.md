@@ -1,7 +1,6 @@
 ---
-
 title: "buddhism | Index"
-description: "buddhism | Index的详细解析与实践指南"
+description: "buddhism | Index —— 宗教与灵性 · 佛教 专题"
 category: "智慧传承 > 宗教与灵性 > 佛教"
 tags: ["buddhism", "cbt", "meditation", "philosophy", "yoga", "zen"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是buddhism | Index"
   - "buddhism | Index的核心概念"
   - "buddhism | Index的方法与实践"
-trigger_keywords: ["buddhism", "Index", "act", "body", "brain"]
+trigger_keywords: []
 cross_refs:
-  - path: "03-Bio-Science/death/Death_Meditation_Practices.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/literature/world-nonfiction/eastern-philosophy/yoga-sutras.md"
-    relation: "buddhism/death/meditation"
-  - path: "04-Humanities-Arts/media/music/music-therapy/Sacred_Music_Therapy.md"
-    relation: "buddhism/death/meditation"
-  - path: "README.md"
-    relation: "buddhism/death/meditation"
-  - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/chakra-meditation/Chakra_Meditation_Overview.md"
-    relation: "buddhism/meditation/neuroscience"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/the-view-and-practice.md"
+    relation: "buddhism/佛教/khyentse"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/what-makes-you-not-a-buddhist.md"
+    relation: "buddhist/佛教/khyentse"
 ---
 # buddhism | Index
 

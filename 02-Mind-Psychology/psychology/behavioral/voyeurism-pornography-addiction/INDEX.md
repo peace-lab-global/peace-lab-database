@@ -1,6 +1,6 @@
 ---
 title: "voyeurism-pornography-addiction | Index"
-description: "voyeurism-pornography-addiction | Index的详细解析与实践指南"
+description: "voyeurism-pornography-addiction | Index —— 行为心理 · Voyeurism Pornography Addiction 专题"
 category: "心智与心理学 > 心理学 > 行为心理 > Voyeurism Pornography Addiction"
 tags: ["心理学", "行为心理"]
 last_updated: "2026-05"
@@ -11,8 +11,10 @@ intent_queries:
   - "什么是voyeurism-pornography-addiction | Index"
   - "voyeurism-pornography-addiction | Index的核心概念"
   - "voyeurism-pornography-addiction | Index的方法与实践"
-trigger_keywords: ["Index", "心理学", "行为心理"]
-cross_refs: []
+trigger_keywords: ["心理学", "行为心理"]
+cross_refs:
+  - path: "03-Bio-Science/sexuality/paraphilia/INDEX.md"
+    relation: "biology/legal/neuroscience"
 ---
 # voyeurism-pornography-addiction | Index
 

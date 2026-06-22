@@ -1,7 +1,6 @@
 ---
-
 title: "《每个女人心中的女神》Goddesses in Everywoman"
-description: "《每个女人心中的女神》Goddesses in Everywoman的详细解析与实践指南"
+description: "《每个女人心中的女神》Goddesses in Everywoman —— World Nonfiction · Mythology Archetype 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Mythology Archetype"
 tags: ["depression", "grief", "marriage", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《每个女人心中的女神》Goddesses in Everywoman"
   - "《每个女人心中的女神》Goddesses in Everywoman的核心概念"
   - "《每个女人心中的女神》Goddesses in Everywoman的方法与实践"
-trigger_keywords: ["death", "depression", "grief", "marriage"]
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/behavioral/necrophilia/Necrophilia_Treatment_System.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/clinical/suicide-intervention/Suicide_Intervention.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/developmental/aging-psychology/Aging_Emotional_Wellbeing.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/foundations/overview/Psychological_Defense_Mechanisms.md"
-    relation: "attachment/death/depression"
-  - path: "02-Mind-Psychology/psychology/social/loneliness/Loneliness_Community_Psychology.md"
-    relation: "attachment/death/depression"
-
+trigger_keywords: ["depression", "grief", "marriage"]
+cross_refs: []
 ---
 # 《每个女人心中的女神》Goddesses in Everywoman
 

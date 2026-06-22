@@ -1,7 +1,6 @@
 ---
-
 title: "正念行走（行禅）知识库 | Walking Meditation Knowledge Base"
-description: "正念行走（行禅）知识库 | Walking Meditation Knowledge Base的详细解析与实践指南"
+description: "正念行走（行禅）知识库 | Walking Meditation Knowledge Base —— 冥想 · Walking Meditation 专题"
 category: "心智与心理学 > 冥想 > Walking Meditation"
 tags: ["meditation", "mindfulness"]
 last_updated: "2026-05"
@@ -12,19 +11,12 @@ intent_queries:
   - "什么是正念行走（行禅）知识库 | Walking Meditation Knowledge Base"
   - "正念行走（行禅）知识库 | Walking Meditation Knowledge Base的核心概念"
   - "正念行走（行禅）知识库 | Walking Meditation Knowledge Base的方法与实践"
-trigger_keywords: ["aging", "meditation", "mindfulness", "冥想"]
+trigger_keywords: ["meditation", "mindfulness", "冥想"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
-    relation: "aging/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md"
-    relation: "aging/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Agama_Sutras.md"
-    relation: "aging/meditation"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Surangama_Sutra.md"
-    relation: "aging/meditation"
-
+  - path: "05-Praxis-Growth/personal-development/walking/INDEX.md"
+    relation: "walking/techniques/冥想"
+  - path: "05-Praxis-Growth/personal-development/walking/Walking_Mindful_Techniques.md"
+    relation: "walking/techniques/meditation"
 ---
 # 正念行走（行禅）知识库 | Walking Meditation Knowledge Base
 

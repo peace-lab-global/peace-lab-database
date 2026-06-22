@@ -1,7 +1,6 @@
 ---
-
 title: "Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)"
-description: "Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)的详细解析与实践指南"
+description: "Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典) —— 性学 · Gender Discrimination 专题"
 category: "生命科学与生物医学 > 性学 > Gender Discrimination"
 tags: ["aging", "decision-making"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是Gender Discrimination Standardized Terminology Dictionary"
   - "Gender Discrimination Standardized Terminology Dictionary的核心概念"
   - "Gender Discrimination Standardized Terminology Dictionary的方法与实践"
-trigger_keywords: ["act", "aging", "anxiety", "assessment"]
+trigger_keywords: ["Gender", "Discrimination", "Standardized", "Terminology", "Dictionary"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/core-philosophy/Buddhism_Pratiyasamutpada_Emptiness.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Psychotherapy_Theory.md"
-    relation: "aging/anxiety/communication"
-  - path: "01-Wisdom-Traditions/religions/wisdom-traditions/Wisdom_Islamic_Psychology_Tazkiyah.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md"
-    relation: "aging/anxiety/communication"
-  - path: "02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md"
-    relation: "aging/anxiety/communication"
-
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Terminology_Standards.md"
+    relation: "standards/terminology/concept"
+  - path: "04-Humanities-Arts/arts/arts-therapy/Art_Therapy_Terminology_Theory.md"
+    relation: "concept/definitions/terminology"
+  - path: "02-Mind-Psychology/psychology/applied/vocational-psychology/Vocational_Psychology_Terminology_Standards.md"
+    relation: "dictionary/terms/terminology"
 ---
 # Gender Discrimination Standardized Terminology Dictionary (性别歧视标准化术语词典)
 

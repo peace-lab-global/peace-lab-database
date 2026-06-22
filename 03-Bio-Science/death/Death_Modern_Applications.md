@@ -1,7 +1,6 @@
 ---
-
 title: "Modern Applications in Death Awareness & Care (死亡专题现代应用指南)"
-description: "Modern Applications in Death Awareness & Care (死亡专题现代应用指南)的详细解析与实践指南"
+description: "Modern Applications in Death Awareness & Care (死亡专题现代应用指南) —— 生命科学与生物医学 · 死亡学 专题"
 category: "生命科学与生物医学 > 死亡学"
 tags: ["aging", "death"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Modern Applications in Death Awareness & Care"
   - "Modern Applications in Death Awareness & Care的核心概念"
   - "Modern Applications in Death Awareness & Care的方法与实践"
-trigger_keywords: ["adolescent", "aging", "anxiety", "art"]
+trigger_keywords: ["Modern", "Applications", "in", "Death", "Awareness"]
 cross_refs:
-  - path: "05-Praxis-Growth/talks/ted-talks/Psychology_Sport_Exercise.md"
-    relation: "aging/anxiety/death"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/08-Practical-Toolkit.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/depression/14-Movement-Mindfulness.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "aging/anxiety/emotion"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-3-brain-science.md"
-    relation: "aging/anxiety/death"
-
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/on-death-and-dying.md"
+    relation: "death/临终/死亡"
+  - path: "02-Mind-Psychology/meditation/clinical/crisis-meditation/Meditation_End_of_Life_Care_Guide.md"
+    relation: "death/临终/care"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Multi_Perspective_Reviews.md"
+    relation: "死亡/临终"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/death-dying/the-death-class.md"
+    relation: "死亡/death/临终"
 ---
 # Modern Applications in Death Awareness & Care (死亡专题现代应用指南)
 

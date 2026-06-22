@@ -1,7 +1,6 @@
 ---
-
 title: "Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)"
-description: "Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)的详细解析与实践指南"
+description: "Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具) —— 生命科学与生物医学 · 性学 专题"
 category: "生命科学与生物医学 > 性学"
 tags: ["addiction", "brain", "sexuality"]
 last_updated: "2026-05"
@@ -12,19 +11,16 @@ intent_queries:
   - "什么是Research Methods and Measurement Tools in Sexuality"
   - "Research Methods and Measurement Tools in Sexuality的核心概念"
   - "Research Methods and Measurement Tools in Sexuality的方法与实践"
-trigger_keywords: ["addiction", "adolescent", "anxiety", "assessment"]
+trigger_keywords: ["Research", "Methods", "and", "Measurement", "Tools"]
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_IBS_Gut_Health.md"
-    relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/courses/course/C1-1-seeds-of-intention-course.md"
-    relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/professional/masters/tibetan/Mingyur_Rinpoche.md"
-    relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/meditation/applications/meditation-integration/INDEX.md"
-    relation: "anxiety/neuroscience/pain"
-  - path: "02-Mind-Psychology/psychology/foundations/framework/Framework_Benefits_Risks.md"
-    relation: "anxiety/neuroscience/pain"
-
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/Pornography_Addiction_Research_Methods.md"
+    relation: "measurement/data/research"
+  - path: "05-Praxis-Growth/personal-development/professional-attraction/Professional_Attraction_Research_Methods.md"
+    relation: "research/methods/technologies"
+  - path: "02-Mind-Psychology/psychology/social/political-psychology/measurement-methods/Political_Psychology_Measurement_Research_Methods.md"
+    relation: "measurement/research/methods"
+  - path: "02-Mind-Psychology/psychology/behavioral/voyeurism-pornography-addiction/erotic-literature/Erotic_Literature_Research_Methods.md"
+    relation: "research/measurement/data"
 ---
 # Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)
 

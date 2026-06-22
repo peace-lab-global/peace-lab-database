@@ -9,6 +9,9 @@ skills:
     skill_name: 亲密关系质量评估
     filename: Relationship_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
 ---
 
 # 亲密关系评估模块清单

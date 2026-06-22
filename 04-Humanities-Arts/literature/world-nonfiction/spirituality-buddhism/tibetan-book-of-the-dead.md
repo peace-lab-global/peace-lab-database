@@ -1,7 +1,6 @@
 ---
-
 title: "《西藏度亡经》The Tibetan Book of the Dead"
-description: "《西藏度亡经》The Tibetan Book of the Dead的详细解析与实践指南"
+description: "《西藏度亡经》The Tibetan Book of the Dead —— World Nonfiction · Spirituality Buddhism 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism"
 tags: ["literature", "phobia", "religion"]
 last_updated: "2026-05"
@@ -12,19 +11,14 @@ intent_queries:
   - "什么是《西藏度亡经》The Tibetan Book of the Dead"
   - "《西藏度亡经》The Tibetan Book of the Dead的核心概念"
   - "《西藏度亡经》The Tibetan Book of the Dead的方法与实践"
-trigger_keywords: ["buddhism", "literature", "phobia", "religion"]
+trigger_keywords: ["phobia", "religion"]
 cross_refs:
-  - path: "README.md"
-    relation: "anxiety/art_therapy/buddhism"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/samkhya/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/continental/Multi_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/existentialists/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/buddhism/death"
-
+  - path: "02-Mind-Psychology/meditation/traditions/buddhist/tibetan-meditation/INDEX.md"
+    relation: "tibetan/藏传/佛教"
+  - path: "01-Wisdom-Traditions/religions/buddhism/rituals/Tibetan_Bardo_Rites.md"
+    relation: "bardo/藏传/tibetan"
+  - path: "01-Wisdom-Traditions/religions/buddhism/dzongsar-khyentse/living-is-dying/Book_Review.md"
+    relation: "bardo/佛教/藏传"
 ---
 # 《西藏度亡经》The Tibetan Book of the Dead
 

@@ -13,10 +13,10 @@ intent_queries:
   - "太极课堂组织"
 trigger_keywords: ["教学", "示范", "口令", "纠错", "课堂"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/teaching-pedagogy/TaiChi_Instructor_Certification.md"
-    relation: "certification"
-  - path: "01-Wisdom-Traditions/tai-chi/teaching-pedagogy/TaiChi_Curriculum_Design.md"
-    relation: "curriculum"
+  - path: "02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md"
+    relation: "太极/chi/tai"
+  - path: "02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Movement_Oriental.md"
+    relation: "太极/chi/tai"
 ---
 # 太极教学法 | Tai Chi Teaching Methodology
 

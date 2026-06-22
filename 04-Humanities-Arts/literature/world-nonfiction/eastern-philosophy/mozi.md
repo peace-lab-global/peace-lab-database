@@ -1,7 +1,6 @@
 ---
-
 title: "《墨子》Mozi"
-description: "《墨子》Mozi的详细解析与实践指南"
+description: "《墨子》Mozi —— World Nonfiction · Eastern Philosophy 专题"
 category: "人文与艺术疗愈 > 文学 > World Nonfiction > Eastern Philosophy"
 tags: ["daoism", "positive-psychology", "religion", "literature"]
 last_updated: "2026-05"
@@ -12,19 +11,8 @@ intent_queries:
   - "什么是《墨子》Mozi"
   - "《墨子》Mozi的核心概念"
   - "《墨子》Mozi的方法与实践"
-trigger_keywords: ["《墨子》Mozi", "behavioral", "cognitive", "daoism", "philosophy"]
-cross_refs:
-  - path: "01-Wisdom-Traditions/INDEX.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Laozi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/buddhism/sutras/Platform_Sutra.md"
-    relation: "art_therapy/daoism/sexuality"
-  - path: "01-Wisdom-Traditions/religions/dao/Dao_Aesthetics_Modern_Life.md"
-    relation: "art_therapy/daoism/sexuality"
-
+trigger_keywords: ["《墨子》Mozi", "daoism"]
+cross_refs: []
 ---
 # 《墨子》Mozi
 

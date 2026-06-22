@@ -1,7 +1,6 @@
 ---
-
 title: "儿童青少年发展心理学与临床干预深度融合体系"
-description: "儿童青少年发展心理学与临床干预深度融合体系的详细解析与实践指南"
+description: "儿童青少年发展心理学与临床干预深度融合体系 —— Adolescent · Child Adolescent 专题"
 category: "心智与心理学 > 心理学 > 发展心理学 > Adolescent > Child Adolescent"
 tags: ["anxiety", "attachment", "cbt", "adhd"]
 last_updated: "2026-05"
@@ -13,19 +12,16 @@ intent_queries:
   - "儿童青少年发展心理学与临床干预深度融合体系的核心概念"
   - "儿童青少年发展心理学与临床干预深度融合体系的方法与实践"
   - "儿童青少年发展心理学与临床干预深度融合体系的自助方法"
-trigger_keywords: ["adolescent", "anxiety", "assessment", "attachment"]
+trigger_keywords: ["儿童青少年发展心理学与临床干预深度融合体系"]
 cross_refs:
-  - path: "03-Bio-Science/foods/tea/Tea_Ceremony_Therapy.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Case_Studies_Practice_Compilation.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Formation_Mechanisms_Analysis.md"
-    relation: "anxiety/attachment/communication"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Frontier_Technology_Integration.md"
-    relation: "anxiety/attachment/communication"
-
+  - path: "04-Humanities-Arts/media/music/classical-music/tchaikovsky-ballets/SleepingBeauty/Tchaikovsky_Ballet_Sleeping_Beauty_Therapeutic_Use.md"
+    relation: "发展心理学/依恋/亲子"
+  - path: "04-Humanities-Arts/media/cinema/horror-japanese-drama/Horror_Japanese_Drama_Psychological_Mechanisms.md"
+    relation: "人格/情绪调节"
+  - path: "03-Bio-Science/biology/lower-back-pain/Lower_Back_Pain_Psychology_Overview.md"
+    relation: "情绪调节/认知行为/障碍"
+  - path: "04-Humanities-Arts/media/cinema/horror-korean-drama/Horror_Korean_Drama_Psychological_Experience.md"
+    relation: "人格/情绪调节"
 ---
 # 儿童青少年发展心理学与临床干预深度融合体系
 

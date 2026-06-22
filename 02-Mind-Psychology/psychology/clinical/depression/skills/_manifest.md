@@ -9,6 +9,11 @@ skills:
     skill_name: 抑郁状态综合评估
     filename: Depression_Assessment_Skill.md
     status: active
+cross_refs:
+  - path: "03-Bio-Science/biology/mens-health/Mens_Mental_Health.md"
+    relation: "自杀/抑郁/障碍"
+  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+    relation: "skill/id/assessment"
 ---
 
 # 抑郁评估模块清单
