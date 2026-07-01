@@ -21,7 +21,14 @@ cross_refs:
     relation: "正念/table/冥想"
   - path: "03-Bio-Science/biology/cardiovascular/Cardiovascular_Exercise_Nutrition.md"
     relation: "血压/cardiovascular/运动"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 冥想与心血管健康 | Meditation and Cardiovascular Health
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide
@@ -379,3 +386,15 @@ cross_refs:
 ---
 
 *Peace Lab Database — 冥想与心血管健康临床指南*
+
+---
+
+## 参考文献 | References
+
+- Schneider, R. H., Alexander, C. N., Staggers, F., et al. (2005). A randomized controlled trial of stress reduction for hypertension in older African Americans. *Hypertension*, *26*(5), 820-827. https://doi.org/10.1161/01.HYP.0000183149.82670.5d
+- Rainforth, M. V., Schneider, R. H., Nidich, S. I., Gaylord-King, C., Salerno, J. W., & Anderson, J. W. (2007). Stress reduction programs in patients with elevated blood pressure: A systematic review and meta-analysis. *Current Hypertension Reports*, *9*(6), 520-528. https://doi.org/10.1007/s11906-007-0094-3
+- Hughes, J. W., Fresco, D. M., Myerscough, R., van Dulmen, M. H. M., Carlson, L. E., & Josephson, S. (2013). Randomized controlled trial of mindfulness-based stress reduction for prehypertension. *Psychosomatic Medicine*, *75*(8), 721-728. https://doi.org/10.1097/PSY.0b013e3182a3e4e5
+- Pascoe, M. C., Bauer, I. E., & Russell, P. S. (2017). Mindfulness: A systematic review of measures, mechanisms, and outcomes. *Mindfulness*, *8*(6), 1440-1452. https://doi.org/10.1007/s12671-017-0710-1
+- Levine, G. N., Lange, R. A., Bairey-Merz, C. N., et al. (2017). Meditation and cardiovascular risk reduction: A scientific statement from the American Heart Association. *Journal of the American Heart Association*, *6*(10), e002218. https://doi.org/10.1161/JAHA.117.002218
+- Schwartz, A. R., Gerin, W., Davidson, K. W., et al. (2003). Toward a causal model of cardiovascular responses to stress and the development of cardiovascular disease. *Psychosomatic Medicine*, *65*(1), 22-35. https://doi.org/10.1097/01.PSY.0000046075.79922.61
+- Thayer, J. F., & Lane, R. D. (2007). The role of vagal function in the risk for cardiovascular disease and mortality. *Biological Psychology*, *74*(2), 224-242. https://doi.org/10.1016/j.biopsycho.2005.11.013

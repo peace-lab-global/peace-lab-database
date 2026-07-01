@@ -14,7 +14,7 @@
 
 **临床主题路径**
 - [焦虑整合管理](learning-paths/Anxiety_Integration_Path.md) — 02心理→03神经→01正念→05实践
-- [抑郁综合疗愈](learning-paths/Pain_Management_Path.md) — 03疼痛科学→01瑜伽太极→02心理→04艺术
+- [疼痛综合管理](learning-paths/Pain_Management_Path.md) — 03疼痛科学→01瑜伽太极→02心理→04艺术
 - [睡眠优化](learning-paths/Sleep_Optimization_Path.md) — 03睡眠科学→02放松→01冥想→05习惯
 - [压力韧性](learning-paths/Stress_Resilience_Path.md) — 02HPA轴→03呼吸法→01冥想→05心力
 
@@ -37,6 +37,13 @@
 - [艺术疗愈图谱](topic-maps/Arts_Therapy_Ecosystem.md) — 书法/摄影/戏剧/园艺/陶艺→感官疗法→临床
 - [睡眠恢复图谱](topic-maps/Sleep_Restoration_Ecosystem.md) — 睡眠科学→拉伸→冥想→声音→习惯
 - [职业心理图谱](topic-maps/Career_Psychology_Ecosystem.md) — 倦怠→压力→正念→太极→职场表达
+- [跨领域研究图谱](topic-maps/Research_Topics_Ecosystem.md) — 六大课题×六大支柱交叉网络
+
+### 跨领域课题研究 (07-Research-Topics)
+
+> 跨五大支柱的前沿交叉研究平台。
+
+- [跨领域课题研究总览](../07-Research-Topics/INDEX.md) — 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学
 
 ---
 *返回根目录 [README.md](./)*

@@ -1,3 +1,31 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "拖延的循证干预 | Evidence-Based Interventions for Procrastination"
+description: "```
+触发情境（困难/无趣任务）
+    ↓
+自动思维（"太难了""我会失败"）
+    ↓
+负面情绪（焦虑、无聊、自我怀疑）
+    ↓
+拖延行为（转向即时满足）
+    ↓
+短期情绪缓解（负强化）
+    ↓
+长期负面后果 → 自责 → 强化负性认知
+```"
+category: "临床专题 > Procrastination"
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 拖延的循证干预 | Evidence-Based Interventions for Procrastination
 
 > **目标**：系统阐述拖延的循证心理治疗干预，涵盖CBT、行为激活、ACT、正念及新兴数字干预。

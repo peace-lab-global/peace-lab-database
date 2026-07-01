@@ -140,3 +140,46 @@ cross_refs: []
 ---
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, *7*(1), 37-50. https://doi.org/10.1177/2167702618772296
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2011). *Acceptance and commitment therapy*. Guilford Press.
+- Linehan, M. M. (1993). *Cognitive-behavioral treatment of borderline personality disorder*. Guilford Press.
+- Kabat-Zinn, J. (2003). Mindfulness-based interventions in context. *Clinical Psychology: Science and Practice*, *10*(2), 144-156. https://doi.org/10.1093/clipsy.bpg016
+- Beck, A. T., Rush, A. J., Shaw, B. F., & Emery, G. (1979). *Cognitive therapy of depression*. Guilford Press.
+- Young, J. E., Klosko, J. S., & Weishaar, M. E. (2003). *Schema therapy*. Guilford Press.
+- Ellis, A. (1962). *Reason and emotion in psychotherapy*. Lyle Stuart.
+- Lazarus, R. S., & Folkman, S. (1984). *Stress, appraisal, and coping*. Springer.
+- Gilbert, P. (2014). The origins and nature of compassion focused therapy. *British Journal of Clinical Psychology*, *53*(1), 6-41. https://doi.org/10.1111/bjc.12043
+- Rogers, C. R. (1951). *Client-centered therapy: Its current practice, theory, and future*. Houghton Mifflin.

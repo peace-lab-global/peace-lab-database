@@ -4,17 +4,20 @@ module_name: 职业倦怠评估模块
 module_name_en: Occupational Burnout Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_014
-    skill_name: 职业倦怠评估
-    filename: Burnout_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "05-Praxis-Growth/talks/round-table/Round_Table_Mental_Health.md"
-    relation: "倦怠/burnout"
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
-    relation: "skill/id/assessment"
+skills: 
+- skill_id: S_014
+skill_name: 职业倦怠评估
+filename: Burnout_Assessment_Skill.md
+cross_refs: 
+- path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+relation: "skill/id/assessment"
+title: "职业倦怠评估模块清单"
+description: "职业倦怠评估模块清单 —— 相关领域的内容文档"
+category: "心智与心理学 > psychology"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 职业倦怠评估模块清单
 

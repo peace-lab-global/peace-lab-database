@@ -14,6 +14,7 @@ intent_queries:
   - "发展心理学基础的自助方法"
 trigger_keywords: ["发展心理学基础", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 发展心理学基础
 

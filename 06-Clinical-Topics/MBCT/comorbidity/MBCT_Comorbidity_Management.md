@@ -1,3 +1,29 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "MBCT 共病管理 | Comorbidity Management in MBCT"
+description: "```
+患者申请MBCT
+    │
+    ├── 活跃物质依赖
+    │       → 先物质治疗 → 稳定3月后评估
+    │
+    ├── 活跃进食障碍（AN/BN）
+    │       → 先ED专科治疗 → 营养/行为稳定后评估
+    │
+    ├── 未处理PTSD（频..."
+category: "临床专题 > MBCT"
+tags: ["mbct"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # MBCT 共病管理 | Comorbidity Management in MBCT
 
 > **目标**：建立精神科标准的 MBCT 共病评估与调整方案，覆盖抑郁与焦虑、PTSD、人格障碍、物质使用、进食障碍等常见共病组合。

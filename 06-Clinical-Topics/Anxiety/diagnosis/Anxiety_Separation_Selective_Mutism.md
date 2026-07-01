@@ -1,3 +1,25 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "分离焦虑障碍与选择性缄默症 | Separation Anxiety and Selective Mutism"
+description: "1. 与分离相关的痛苦反复且过度
+2. 持续且过度担心失去依恋对象或他们可能受到伤害
+3. 持续且过度担心不幸事件导致与依恋对象分离
+4. 因害怕分离而持续不愿或拒绝外出、离家、上学、上班
+5. 持续且过度害怕或拒绝独处或在没有依恋对象的情况下在家或其他场合
+6. 持续不愿或拒绝在没有依恋对象陪伴下..."
+category: "临床专题 > Anxiety"
+tags: ["anxiety"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 分离焦虑障碍与选择性缄默症 | Separation Anxiety and Selective Mutism
 
 > **目标**：建立分离焦虑障碍（SAD）与选择性缄默症（SM）的精神科标准诊断与治疗框架。

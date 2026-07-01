@@ -6,33 +6,41 @@ version: 1.0
 role: intervention
 category: intervention
 filename: Chronic_Stress_Intervention_Skill.md
-entry_trigger:
-  keywords: ["怎么减轻压力", "压力太大怎么办", "有什么方法", "如何缓解", "干预", "治疗"]
-  scenarios: ["用户已完成压力评估需要干预方案", "用户直接请求压力管理方法"]
-prerequisites:
-  - S_001
+entry_trigger: 
+keywords: ["怎么减轻压力", "压力太大怎么办", "有什么方法", "如何缓解", "干预", "治疗"]
+scenarios: ["用户已完成压力评估需要干预方案", "用户直接请求压力管理方法"]
+prerequisites: 
 prerequisite_logic: OR
-entry_criteria:
-  - Q: "压力评估是否已完成（已有评估报告）？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否已确认有压力并寻求解决方案？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否已确认有压力并寻求解决方案？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - intervention_plan_v1
-contraindications:
-  - "PSS>26且功能严重受损 → 建议专业医疗评估而非仅自我干预"
-  - "疑似CFS → 先完成S_006再谈干预"
+outputs: 
+contraindications: 
 estimated_duration: 5-10分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
 cross_refs: []
+title: "慢性压力干预决策技能"
+description: "STEP 1: 评估严重程度
+│
+├─ PSS < 14（低压力）？
+│   └─ 是 → 【初级预防】
+│       - 健康生活方式教育
+│       - 压力预防知识
+│       - 维护建议
+│
+├─ PSS 14-19（中低）？
+│   └─ 是 → 【自我调节方案】
+│..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 慢性压力干预决策技能
 
@@ -338,3 +346,32 @@ STEP 1: 评估严重程度
 ---
 
 *选择干预方法时应考虑用户的偏好、资源可得性、共病情况和既往治疗史。本指南不替代专业临床判断。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

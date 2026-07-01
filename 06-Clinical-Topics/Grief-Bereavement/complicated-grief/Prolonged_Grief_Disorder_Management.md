@@ -1,3 +1,20 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "延长哀伤障碍的临床管理 | Clinical Management of Prolonged Grief Disorder"
+description: "延长哀伤障碍的临床管理 | Clinical Management of Prolonged Grief Disorder —— 相关领域的内容文档"
+category: "临床专题 > Grief-Bereavement"
+tags: ["grief"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 延长哀伤障碍的临床管理 | Clinical Management of Prolonged Grief Disorder
 
 > **目标**：系统阐述延长哀伤障碍（PGD）的循证心理治疗、药物治疗与复杂病例管理。
@@ -202,3 +219,32 @@
 
 *Peace Lab Database — 延长哀伤障碍的临床管理*
 *参考：APA PGD Clinical Handbook (2022), Shear et al. (2005), WHO Guidelines*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

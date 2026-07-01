@@ -13,7 +13,7 @@ intent_queries:
   - "房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων的方法与实践"
 trigger_keywords: ["房间清整术概览", "Room", "Organization", "and", "Cleaning"]
 cross_refs:
-  - path: "05-Praxis-Growth/personal-development/minimalism/INDEX.md"
+  - path: "05-Praxis-Growth/personal-development/minimalism-decluttering/Minimalism_Overview.md"
     relation: "minimalism/cleaning/konmari"
 ---
 # 房间清整术概览 | Room Organization and Cleaning Art | Τέχνη Οργάνωσης και Καθαριότητας Δωματίων

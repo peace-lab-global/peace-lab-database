@@ -6,34 +6,42 @@ version: 1.0
 role: tool
 category: tool
 filename: Stress_Diary_Analysis_Skill.md
-entry_trigger:
-  keywords: ["日记", "分析", "记录", "追踪", "模式", "帮我看看"]
-  scenarios: ["用户提供了压力日记数据需要分析", "用户想了解自己的压力模式"]
+entry_trigger: 
+keywords: ["日记", "分析", "记录", "追踪", "模式", "帮我看看"]
+scenarios: ["用户提供了压力日记数据需要分析", "用户想了解自己的压力模式"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否提供了足够数据（至少5天记录）？"
-    threshold: true
-    type: boolean
-  - Q: "日记数据是否包含压力水平记录？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "日记数据是否包含压力水平记录？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - diary_analysis_report_v1
+outputs: 
 contraindications: []
 estimated_duration: 5-10分钟
 evidence_level: C
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
-cross_refs:
-  - path: "03-Bio-Science/biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md"
-    relation: "睡眠/压力"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
-    relation: "睡眠/压力"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
+cross_refs: 
+- path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
+relation: "睡眠/压力"
+title: "压力日记分析技能"
+description: "STEP 1: 验证数据质量
+│
+├─ 数据是否连续记录 ≥5天？
+│   └─ 否 → 建议继续记录
+│
+├─ 是否有每日多次记录？
+│   └─ 否 → 建议增加记录频率
+│
+└─ 数据是否完整？
+    └─ 否 → 指出缺失项"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 压力日记分析技能
 

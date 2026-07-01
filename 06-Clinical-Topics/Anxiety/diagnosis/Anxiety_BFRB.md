@@ -1,3 +1,20 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "身体聚焦重复行为：拔毛癖与抓痕障碍 | BFRB: Trichotillomania and Excoriation Disorder"
+description: "身体聚焦重复行为：拔毛癖与抓痕障碍 | BFRB: Trichotillomania and Excoriation Disorder —— 相关领域的内容文档"
+category: "临床专题 > Anxiety"
+tags: ["anxiety"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 身体聚焦重复行为：拔毛癖与抓痕障碍 | BFRB: Trichotillomania and Excoriation Disorder
 
 > **目标**：建立拔毛癖（TTM）与抓痕障碍（ExD）的精神科标准诊断与治疗框架。

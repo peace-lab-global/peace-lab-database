@@ -13,7 +13,14 @@ intent_queries:
   - "Subtypes的方法与实践"
 trigger_keywords: ["Subtypes", "depression", "mbct"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 ## 6. 不同抑郁亚型的冥想策略
 
 ### 6.1 复发性抑郁（MBCT核心适应症）

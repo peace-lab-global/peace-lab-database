@@ -22,6 +22,7 @@ cross_refs: []
 - [Beethoven](Beethoven.md)
 - [Brahms](Brahms.md)
 - [Chopin](Chopin.md)
+- [Debussy](Debussy.md)
 - [Liszt](Liszt.md)
 - [Mozart](Mozart.md)
 - [Rachmaninoff](Rachmaninoff.md)

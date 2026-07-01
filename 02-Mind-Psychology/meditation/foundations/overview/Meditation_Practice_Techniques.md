@@ -907,3 +907,44 @@ cross_refs: []
 
 *Peace Lab Database — 冥想过程练习指导*
 *形式为舟，觉知为岸——愿每一位练习者都能找到适合自己的修行之道。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice*, *11*(3), 230-241. https://doi.org/10.1093/clipsy.bph077
+- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, *12*(4), 163-169. https://doi.org/10.1016/j.tics.2008.01.005
+- Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, *16*(4), 213-225. https://doi.org/10.1038/nrn3916
+- Brewer, J. A., Worhunsky, P. D., Gray, J. R., Tang, Y. Y., Weber, J., & Kober, H. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *Proceedings of the National Academy of Sciences*, *108*(50), 20254-20259. https://doi.org/10.1073/pnas.1112029108
+- Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, *174*(3), 357-368. https://doi.org/10.1001/jamainternmed.2013.13018
+- Salmon, P., Sephton, S., Weissbecker, I., et al. (2004). Mindfulness meditation in clinical practice. *Cognitive and Behavioral Practice*, *11*(4), 434-446. https://doi.org/10.1016/j.cbpra.2004.09.005
+- Carson, J. W., Carson, K. M., Gil, K. M., & Baucom, D. H. (2004). Mindfulness-based relationship enhancement. *Behavior Therapy*, *35*(3), 471-494. https://doi.org/10.1016/S0005-7894(04)80028-5
+- Grossman, P., Niemann, L., Schmidt, S., & Walach, H. (2004). Mindfulness-based stress reduction and health benefits: A meta-analysis. *Journal of Psychosomatic Research*, *57*(1), 35-43. https://doi.org/10.1016/S0022-3999(03)00573-7

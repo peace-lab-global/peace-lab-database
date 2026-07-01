@@ -3,7 +3,10 @@ title: "冥想传统 | Meditation Traditions"
 category: "心智与心理学 > 冥想 > 宗教与文化传统"
 last_updated: "2026-06"
 cross_refs: []
+description: "冥想传统 | Meditation Traditions —— 相关领域的内容文档"
+tags: ["meditation"]
 ---
+
 
 # 冥想传统 | Meditation Traditions
 

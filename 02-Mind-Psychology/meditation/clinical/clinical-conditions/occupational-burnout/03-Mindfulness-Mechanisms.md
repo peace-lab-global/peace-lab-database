@@ -21,7 +21,14 @@ cross_refs:
     relation: "人格/共情"
   - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md"
     relation: "正念/mindfulness/觉察"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms
 
 > **文档定位**：本章建立"正念如何作用于倦怠"的理论桥梁。不是泛泛而谈"正念减压"，而是精确对应倦怠的三个维度（情绪耗竭、去人格化、低效能），阐明每一个维度背后的正念干预靶点和心理机制。

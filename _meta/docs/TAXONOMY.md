@@ -105,40 +105,31 @@ graph LR
 ```
 peace-lab-database/
 ├── 01~05-*/                  ← 五大内容支柱（知识主体）
-├── 06-Clinical-Topics/       ← 临床专题聚合层（跨支柱临床知识包）
+├── 06-Clinical-Topics/       ← 临床专题聚合层（跨支柱临床知识包，按疾病维度组织）
+├── 07-Research-Topics/       ← 跨领域课题研究层（课题驱动的前沿交叉研究平台）
 │
-├── docs/                     ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY）
 ├── _meta/                    ← 知识关联层（cross-references, learning-paths, topic-maps, skills-index）
-├── Project/                  ← 频道/项目策划（peace-lab, master-of-solitude 频道提案）
+│   └── docs/                 ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY, CRISIS_RESOURCES 等）
 │
-├── Web/                      ← Web 站点层（MkDocs 配置、symlinks、landing page）
-├── mkdocs.yml                ← MkDocs 主配置
-├── mkdocs-dev.yml            ← MkDocs 开发配置
-├── site/                     ← MkDocs 构建产物（.gitignore，不入库）
+├── Web/                      ← Web 站点层（MkDocs 配置、assets、docs、visualization 知识图谱前端）
+├── Tools/                    ← 质量工具与运维（scripts 脚本、reports 审计报告、qa-corpus、plans、logs）
 │
-├── Tools/                    ← 质量工具（link checker, quality checker, content indexer）
-├── scripts/                  ← 运维脚本（frontmatter 注入、交叉引用生成、QA 语料）
-├── Visualization/            ← 可视化应用（知识图谱前端）
-│
-├── assets/                   ← 静态资源（图片、SVG）
-├── qa-corpus/                ← QA 语料库（搜索/问答测试数据）
-├── reports/                  ← 审计报告（目录审计、执行报告）
-├── logs/                     ← 运行日志（.gitignore，不入库）
-└── README.md / LICENSE       ← 项目入口与许可
+├── .github/                  ← GitHub 配置（CI/Issue 模板等）
+└── README.md / LICENSE / .gitignore   ← 项目入口、许可与忽略规则
 ```
 
-### `_meta/` vs `docs/` vs `Project/` 边界
+> 注：历史布局中的 `docs/`、`Project/`、`scripts/`、`Visualization/`、`assets/`、`site/`、`mkdocs.yml` 等顶层项已重组：规范文档归入 `_meta/docs/`，运维脚本归入 `Tools/scripts/`，可视化归入 `Web/visualization/`。
+
+### `_meta/docs/` vs `_meta/` 边界
 
 | 目录 | 职责 | 典型内容 |
 |:-----|:-----|:---------|
-| `docs/` | **项目规范**：面向贡献者的标准文档 | CONTRIBUTING.md, GLOSSARY.md, TAXONOMY.md |
-| `_meta/` | **知识关联**：跨支柱的知识图谱与索引 | cross-references.md, learning-paths/, topic-maps/, skills-index.md |
-| `Project/` | **项目策划**：频道运营与内容规划 | Channel_Proposal.md, Topic_Catalog.md, Channel_Branding.md |
+| `_meta/docs/` | **项目规范**：面向贡献者的标准文档 | CONTRIBUTING.md, GLOSSARY.md, TAXONOMY.md, DIRECTORY_CONVENTIONS.md, CRISIS_RESOURCES.md |
+| `_meta/`（根） | **知识关联**：跨支柱的知识图谱与索引 | cross-references.md, learning-paths/, topic-maps/, skills-index.md |
 
 **原则**：
-- 规范类文档 → `docs/`
+- 规范类文档 → `_meta/docs/`
 - 知识关联/索引/地图 → `_meta/`
-- 运营策划/频道提案 → `Project/`
 - Agent Skills 嵌入在各专题的 `skills/` 子目录中，`_meta/skills-index.md` 提供聚合索引
 
 ---

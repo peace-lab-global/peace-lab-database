@@ -13,7 +13,14 @@ intent_queries:
   - "Suicide Intervention的方法与实践"
 trigger_keywords: ["Suicide", "Intervention", "自杀危机干预"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # Suicide Intervention (自杀危机干预)
 
 ## 核心术语表 (Core Terminology)
@@ -532,3 +539,16 @@ cross_refs: []
 | **危机热线** | 生命热线（台湾） | 危机干预 | 1995 | 24小时 |
 | **专业机构** | 北京回龙观医院 | 精神科治疗 | 010-83024000 | 工作时间 |
 | **网络资源** | 北京心理危机研究与干预中心 | 资源、培训 | crisis.org.cn | 在线 |
+
+---
+
+## 参考文献 | References
+
+- World Health Organization (2014). *Preventing suicide: A global imperative*. WHO Press. https://www.who.int/publications/i/item/9789241564779
+- O'Connor, R. C., & Kirtley, O. J. (2018). The integrated motivational-volitional model of suicidal behaviour. *Philosophical Transactions of the Royal Society B: Biological Sciences*, *373*(1754), 20170268. https://doi.org/10.1098/rstb.2017.0268
+- Glenn, C. R., Kleiman, E. M., Kellerman, A. L., et al. (2020). Annual Research Review: A meta-analytic review of worldwide suicide rates in adolescents. *Journal of Child Psychology and Psychiatry*, *61*(3), 261-282. https://doi.org/10.1111/jcpp.13106
+- Franklin, J. C., Ribeiro, J. D., Fox, K. R., et al. (2017). Risk factors for suicidal thoughts and behaviors: A meta-analysis of 50 years of research. *Psychological Bulletin*, *143*(2), 187-232. https://doi.org/10.1037/bul0000084
+- Jobes, D. A. (2016). Managing suicidal risk: A collaborative approach (2nd ed.). Guilford Press.
+- Stanley, B., & Brown, G. K. (2012). Safety planning intervention: A brief intervention to mitigate suicide risk. *Cognitive and Behavioral Practice*, *19*(2), 256-264. https://doi.org/10.1016/j.cbpra.2011.01.001
+- Linehan, M. M. (1993). *Cognitive-behavioral treatment of borderline personality disorder*. Guilford Press.
+- Miller, I. W., Camargo, C. A., Arias, S. A., et al. (2017). Suicide prevention in an emergency department population: The ED-SAFE study. *JAMA Psychiatry*, *74*(6), 563-570. https://doi.org/10.1001/jamapsychiatry.2017.0678

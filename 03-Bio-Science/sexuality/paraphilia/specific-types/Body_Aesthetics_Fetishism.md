@@ -13,6 +13,7 @@ intent_queries:
   - "身体美学恋物的方法与实践"
 trigger_keywords: ["身体美学恋物", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 身体美学恋物
 

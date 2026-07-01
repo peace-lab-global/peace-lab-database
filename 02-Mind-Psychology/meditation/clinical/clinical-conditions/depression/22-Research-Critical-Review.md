@@ -13,7 +13,14 @@ intent_queries:
   - "13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions的方法与实践"
 trigger_keywords: ["13.", "循证研究的方法论批判与未来方向", "Critical", "Review", "Future"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 13. 循证研究的方法论批判与未来方向 | Critical Review & Future Directions
 
 > **文档定位**：正念干预抑郁的循证基础虽已坚实，但任何科学领域都需要持续的批判性反思。本章从研究方法论角度，审视现有证据的优势与局限，为研究者、临床工作者和受过教育的消费者提供平衡视角。

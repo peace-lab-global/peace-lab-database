@@ -3,7 +3,10 @@ title: 整合取向
 description: EMDR、IPT、MBCT 等整合体验取向疗法
 tags: [emdr, ipt, mbct, compassion, integrative]
 cross_refs: []
+category: "心智与心理学 > therapy"
+last_updated: "2026-06"
 ---
+
 
 # 整合取向 (Integrative)
 
@@ -19,6 +22,8 @@ cross_refs: []
 | [compassion-focused-therapy/](./compassion-focused-therapy/) | CFT 慈悲聚焦疗法 | 完整手册 |
 | [morita-therapy/](./morita-therapy/) | 森田疗法 | 概述、心理调节 |
 | [therapy-direct-recognition/](./therapy-direct-recognition/) | 直接认知疗法 | 概述、应用 |
+| [ifs-therapy/](./ifs-therapy/) | IFS 内部家庭系统 | 部分工作、Self 领导、6F 步骤 |
+| [somatic-experiencing/](./somatic-experiencing/) | SE 躯体体验 | 创伤的躯体释放、滴定与钟摆 |
 
 ## 🔗 相关
 

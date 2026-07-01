@@ -4,19 +4,22 @@ module_name: 创伤评估模块
 module_name_en: Trauma Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_011
-    skill_name: 创伤与应激评估
-    filename: Trauma_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
-    relation: "skill/id/assessment"
-  - path: "03-Bio-Science/sexuality/sexual-repression-china/Psychological_Impact_Trauma.md"
-    relation: "创伤/trauma/assessment"
-  - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
-    relation: "创伤/危机干预"
+skills: 
+- skill_id: S_011
+skill_name: 创伤与应激评估
+filename: Trauma_Assessment_Skill.md
+cross_refs: 
+- path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
+relation: "创伤/危机干预"
+title: "创伤评估模块清单"
+description: ""创伤", "噩梦", "闪回", "PTSD", "心理阴影", "童年创伤", "被虐待", "事故", "灾难", "失去亲人""
+category: "心智与心理学 > psychology"
+tags: ["psychology", "trauma"]
+last_updated: "2026-06"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
 ---
+
 
 # 创伤评估模块清单
 

@@ -1,3 +1,23 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "抑郁症自杀风险评估与管理 | Suicide Risk Assessment and Management in Depression"
+description: "```markdown
+═══════════════════════════════════════════════════════════════
+                    安全计划（Safety Plan）
+════════════════════════════════════..."
+category: "临床专题 > Depression"
+tags: ["depression"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 抑郁症自杀风险评估与管理 | Suicide Risk Assessment and Management in Depression
 
 > **目标**：建立精神科标准的自杀风险评估体系、安全计划框架、危机干预流程与长期风险管理策略。

@@ -1,3 +1,23 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "哀伤中的自杀风险评估 | Suicide Risk Assessment in Grief and Bereavement"
+description: "```markdown
+═══════════════════════════════════════════════════════════════
+              我的安全计划（丧亲后）
+════════════════════════════════════════════════..."
+category: "临床专题 > Grief-Bereavement"
+tags: ["grief"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 哀伤中的自杀风险评估 | Suicide Risk Assessment in Grief and Bereavement
 
 > **目标**：建立丧亲者自杀风险的精神科标准评估框架。

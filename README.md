@@ -18,12 +18,14 @@ cross_refs:
 ---
 # Peace Lab Database (平静实验室知识库)
 
-这是一个专业的、多维度的身心疗愈与个人进化知识体系。项目通过严谨的 **"五大核心支柱"** 架构，整合了古代智慧传承、现代心理学、生命科学以及人文艺术实践。
+这是一个专业的、多维度的身心疗愈与个人进化知识体系。项目通过严谨的 **"六大核心支柱 + 临床研究专题"** 架构，整合了古代智慧传承、现代心理学、生命科学以及人文艺术实践。
 
 ---
 
-## 🧭 五大核心支柱 (The Five Pillars)
-*点击进入各大学科群索引 (Explore by Major Domain)*
+## 🧭 知识架构 (Architecture)
+*五大核心支柱 + 两个跨域聚合层 (Five Pillars + Two Cross-Domain Layers)*
+
+### 五大核心支柱 (The Five Pillars)
 
 ### 1. [🏛️ 智慧传承 (Wisdom Traditions)](01-Wisdom-Traditions/INDEX.md)
 **核心领域**: 瑜伽哲学、禅宗/道家/佛教全体系、太极拳、黄帝内经养生、东西方古典哲学、全球灵性疗愈。
@@ -40,6 +42,14 @@ cross_refs:
 ### 5. [🌱 实践与个人增长 (Praxis & Growth)](05-Praxis-Growth/INDEX.md)
 **核心领域**: 超级个体商业模式、工作效率与执行力、心力成长与稳定内核、高效沟通与结构化表达、心流与专注力、自媒体变现、创意/技术写作、TED/一席精品讲座知识框架(150+领域)、个人任务管理、每日打卡、日记写作。
 
+### 跨域聚合层 (Cross-Domain Aggregation Layers)
+
+### 6. [🏥 临床专题 (Clinical Topics)](06-Clinical-Topics/INDEX.md)
+**核心领域**: 跨支柱临床知识包 —— 焦虑、抑郁、睡眠障碍、哀伤丧亲、拖延症、MBCT 正念认知疗法，按疾病/问题维度聚合，面向临床实践。
+
+### 7. [🔬 跨领域课题研究 (Research Topics)](07-Research-Topics/INDEX.md)
+**核心领域**: 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学 — 跨五大支柱与临床专题的前沿交叉研究平台。
+
 ---
 
 ## 📚 快速导航 (Quick Navigation)
@@ -49,8 +59,8 @@ cross_refs:
 | [📖 分类法与架构说明](_meta/docs/TAXONOMY.md) | 五大支柱的分类原则与决策树 |
 | [📝 贡献指南](_meta/docs/CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
 | [🔤 全局术语表](_meta/docs/GLOSSARY.md) | 核心术语中英文映射 |
-| 🗺️ 学习路径 | 主题化的推荐阅读路线 |
-| 🔗 交叉引用索引 | 跨支柱关联内容 |
+| [🗺️ 学习路径](_meta/INDEX.md) | 跨支柱的主题化推荐阅读路线 |
+| [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
 | 🔧 工具与脚本 | 质量检查、链接验证等自动化工具 |
 | 🌐 Web 站点 | 在线浏览版本 |
 | [🤖 Agent Skills 智能体技能](02-Mind-Psychology/psychology/stress-hpa/skills/) | 压力与HPA轴调节智能体技能模块 |
@@ -189,7 +199,7 @@ Agent Skills 遵循以下设计原则：
 
 ## 最近更新 (Recent Updates)
 
-> 完整更新记录请查看 **CHANGELOG**
+> 完整更新记录请查看 **[CHANGELOG](Tools/CHANGELOG.md)**
 
 ---
 *本项目由 Peace Lab Global 维护，旨在为现代人提供多维度的认知工具与身心解决方案。*

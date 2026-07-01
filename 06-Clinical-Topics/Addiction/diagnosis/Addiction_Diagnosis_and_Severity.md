@@ -1,0 +1,176 @@
+---
+title: "成瘾诊断与严重度 | Addiction Diagnosis and Severity"
+description: "DSM-5-TR 物质使用障碍 11 项标准（轻/中/重）、ICD-11、行为成瘾（赌博/游戏）、ASAM 6 维度多轴评估。"
+category: "clinical"
+tags: ["clinical", "addiction", "diagnosis", "dsm-5-tr", "icd-11", "asam", "sud"]
+last_updated: "2026-07"
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断需由合格的精神科医生或成瘾医学专科医生做出。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+# 成瘾诊断与严重度
+
+本文件为 `06-Clinical-Topics/Addiction/` 临床标准文档，与 02 支柱源文件 [Addiction_Overview.md](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Overview.md)、[Addiction_Substance.md](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Substance.md)、[Addiction_Behavioral.md](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md) 互补：02 提供术语学/分类总表，本文档聚焦**诊断决策、严重度分级与 ASAM 多轴临床评估**。
+
+---
+
+## 一、DSM-5-TR 物质使用障碍（SUD）—— 11 项标准
+
+DSM-5-TR 取代了 DSM-IV 的"滥用 vs 依赖"二分法，采用**连续谱系**诊断：过去 12 个月内出现以下 **11 项标准中至少 2 项**即可诊断 SUD。
+
+### 11 项诊断标准
+
+| # | 标准（过去 12 个月） | 英文 | 维度 |
+|---|---------------------|------|------|
+| 1 | 使用量或时间超出预期 | Larger/longer | 失控 |
+| 2 | 持续想戒断或减少但失败 | Unsuccessful cut-down | 失控 |
+| 3 | 大量时间用于获取/使用/恢复 | Time spent | 失控 |
+| 4 | 渴求或强烈使用欲望 | Craving | 失控 |
+| 5 | 反复使用致未能履行主要角色义务 | Role failure | 社会损害 |
+| 6 | 尽管致社会/人际问题仍继续 | Continued despite problems | 社会损害 |
+| 7 | 因使用而放弃/减少重要活动 | Activities given up | 社会损害 |
+| 8 | 在危险情境下反复使用 | Hazardous use | 危险使用 |
+| 9 | 明知有生理/心理问题仍继续 | Continued despite harm | 危险使用 |
+| 10 | 耐受性（需增量或效果减弱） | Tolerance | 药理 |
+| 11 | 戒断症状（停用不适或使用以缓解） | Withdrawal | 药理 |
+
+### 严重度分级
+
+| 严重度 | 符合标准数 | 临床意义 | 治疗强度建议 |
+|--------|-----------|---------|------------|
+| **轻度** | 2–3 项 | 早期问题使用；常被忽视 | 简短干预（BI）、MI、门诊 |
+| **中度** | 4–5 项 | 明确功能损害；需结构化治疗 | 门诊强化 CBT/MI、IOP（强化门诊） |
+| **重度** | ≥ 6 项 | 显著依赖，常需解毒 + MAT + 长期治疗 | 住院/IOP/MAT + 同伴支持 |
+
+**重要例外**：标准 10（耐受）和 11（戒断）**在处方药物合理医疗使用下不计入** SUD 诊断（避免把慢性疼痛按医嘱用阿片的患者误诊为 SUD）。但若存在**非医嘱使用**（超出处方、多医生、街头来源）则仍计入。
+
+---
+
+## 二、DSM-5-TR 物质类别（适用 11 项标准的物质）
+
+DSM-5-TR 的 SUD 标准适用于以下物质类别（各自编码）：
+
+| 类别 | DSM-5-TR | ICD-11 | 戒断危险性 | MAT 可用 |
+|------|---------|--------|-----------|---------|
+| 酒精 | 303.90 / F10 | 6C40 | **高（致命）** | 纳曲酮/阿坎酸/双硫仑 |
+| 咖啡因 | 305.90（仅中毒，无 SUD） | 6C48（研究性 CUD） | 低 | 无 |
+| 大麻 | 304.30 / F12 | 6C41 | 低 | 无（CBT 为主） |
+| 致幻剂 | 304.50 / F16 | 6C46 | 极低 | 无 |
+| 吸入剂 | 304.60 / F18 | 6C47 | 低 | 无 |
+| 阿片类 | 304.00 / F11 | 6C42 | **中-高** | 美沙酮/丁丙诺啡/纳曲酮 |
+| 镇静催眠/抗焦虑（BZD/巴比妥） | 304.10 / F13 | 6C45 | **高（致命）** | 缓慢递减 |
+| 兴奋剂（可卡因/苯丙胺） | 304.20 / F15 | 6C44 | 低（崩溃抑郁） | 无（CBT/CM 为主） |
+| 烟草 | 305.10 / F17 | 6C4A | 低 | NRT/伐尼克兰/安非他酮 |
+| 其他 | 304.90 / F19 | 6C48 | 视物质而定 | — |
+
+---
+
+## 三、DSM-5-TR 行为成瘾
+
+DSM-5-TR 的"物质相关与成瘾障碍"章节中，**唯一正式纳入的行为成瘾是赌博障碍（Gambling Disorder, 312.31 / F63.0）**，使用与 SUD 相同的 9 项标准（非 11 项），过去 12 个月 ≥ 4 项即可诊断。
+
+其他行为成瘾（游戏、色情/性、购物、网络、运动、社交媒体）在 DSM-5-TR **未正式纳入**，但：
+- **ICD-11 已正式纳入游戏障碍（Gaming Disorder, 6C50）**——这是行为成瘾领域的重要里程碑。
+- 性/色情成瘾相关：ICD-11 用"强迫性性行为障碍"（Compulsive Sexual Behaviour Disorder, 6C72），归入**冲动控制障碍**而非成瘾，但临床与行为成瘾高度重叠。
+
+### 行为成瘾通用框架（Griffiths 六成分模型）
+
+| 成分 | 定义 |
+|------|------|
+| 显著性 Salience | 活动主导生活/思维 |
+| 心境改变 Mood modification | 从事活动改变情绪（兴奋或逃避） |
+| 耐受性 Tolerance | 需增加强度/时间 |
+| 戒断 Withdrawal | 停止时出现不适/烦躁 |
+| 冲突 Conflict | 与工作/关系/内心冲突 |
+| 复发 Relapse | 反复尝试停止又失败 |
+
+**临床要点**：行为成瘾的神经回路（VTA-NAc 奖赏回路）与物质成瘾**共享**，治疗原则可借鉴（详见 [02 源 Addiction_Behavioral.md](../../../02-Mind-Psychology/psychology/behavioral/addiction/Addiction_Behavioral.md) 与 [生物学目录](../../../03-Bio-Science/biology/addiction/)）。
+
+---
+
+## 四、ICD-11 与 DSM-5-TR 对照
+
+| 维度 | DSM-5-TR | ICD-11 |
+|------|---------|--------|
+| 谱系 | 单一 SUD + 严重度分级 | 分"有害使用模式"(harmful pattern) 与"依赖综合征"(dependence syndrome) 两级 |
+| 行为成瘾 | 仅赌博障碍 | 赌博 + **游戏障碍** |
+| 严重度阈值 | ≥ 2 项（轻 2-3 / 中 4-5 / 重 ≥6） | 依赖综合征需 ≥ 3 项（共 6 项核心特征） |
+| 临床应用 | 研究与美国临床主导 | 全球公共卫生/初级保健更常用 |
+
+---
+
+## 五、ASAM 六维度评估（治疗安置决策金标准）
+
+ASAM Criteria（美国成瘾医学学会，4th ed. 2023）使用**6 维度**评估患者，决定治疗强度（门诊 → IOP → PHP → 住院 → 急性解毒 → 长期居住）：
+
+| 维度 | 评估内容 | 关键问题 |
+|------|---------|---------|
+| **1. 急性中毒/戒断** | 当前/近期的中毒、戒断风险 | 是否需要医学解毒？酒精/BZD 戒断是否致命？ |
+| **2. 生物医学合并症** | 与成瘾相关的躯体疾病（肝病、HIV/HCV、孕产、疼痛） | 是否影响治疗安置？需内科共管？ |
+| **3. 精神/认知合并症** | 共病精神障碍、认知损害、自杀风险 | 是否需精神科共管？影响参与治疗能力？ |
+| **4. 准备改变（readiness）** | 改变动机与阶段（Prochaska） | 当前阶段 → 匹配干预强度 |
+| **5. 复发/持续使用潜力** | 复发风险、失足历史、保护因子 | 高复发 → 更高强度/结构化 |
+| **6. 恢复环境** | 居住环境、家庭支持、社交圈、经济、法律 | 回归环境是否触发？是否需搬迁/居住治疗？ |
+
+**ASAM 治疗强度层级**（自低到高）：
+1. 早期干预（Early Intervention / SBIRT）
+2. 门诊（Outpatient, < 9 小时/周）
+3. 强化门诊（IOP, 9–19 小时/周）
+4. 部分住院（PHP, ≥ 20 小时/周）
+5. 临床住院（Residential）
+6. 医学监护住院 / 急性解毒（Inpatient Medically Managed）
+
+---
+
+## 六、戒断综合征与解毒决策
+
+**致命性戒断（必须医疗监护）**：
+- **酒精**：震颤、自主神经亢进、癫痫、**震颤谵妄（DT）**——未治疗死亡率 5–15%。苯二氮䓬（地西泮/氯氮䓬）+ CIWA-Ar 监测。
+- **苯二氮䓬/巴比妥**：癫痫、谵妄、心血管崩溃——长半衰期药物缓慢递减。
+
+**非致命但显著不适**：
+- 阿片类：流感样症状、肌痛、焦虑、失眠、渴求（极度痛苦但通常不致命）——美沙酮/丁丙诺啡缓解。
+- 兴奋剂（可卡因/甲基苯丙胺）：崩溃期抑郁、嗜睡、快感缺失、自杀风险——支持性 + 心理治疗为主。
+- 尼古丁：易激惹、焦虑、渴求——NRT/伐尼克兰。
+
+---
+
+## 七、共病（双重诊断）
+
+| 共病 | 共病率（成瘾者中） | 处理原则 |
+|------|-------------------|---------|
+| 重性抑郁 | 30–40% | **整合治疗**（同时处理），非序贯 |
+| 焦虑障碍 | 20–30% | 暴露治疗 + SSRI；避免长期 BZD |
+| PTSD | 30–50% | 整合双重诊断； trauma-concurrent treatment 优于"先戒断" |
+| 双相障碍 | 40–60%（双相中成瘾反向） | 情绪稳定剂优先；SSRI 慎用 |
+| 边缘型人格障碍 | 50–70%（治疗人群中） | DBT + 成瘾整合 |
+| ADHD | 15–25% | 兴奋剂治疗 ADHD 不增加（甚至降低）成瘾风险 |
+
+---
+
+## 八、诊断流程小结
+
+1. **筛查**（初级保健）：[AUDIT-C](../assessment/Addiction_Assessment_Tools.md) + DAST-10 + 单物质问题（SBIRT）。
+2. **确认诊断**：DSM-5-TR 11 项标准 → 严重度分级。
+3. **物质特异性风险评估**：酒精/BZD 戒断致命性 → 决定解毒场所。
+4. **ASAM 6 维度**：决定治疗强度。
+5. **共病评估**：抑郁/焦虑/PTSD/双相/ADHD。
+6. **医学合并症**：肝病、HIV/HCV、孕产、疼痛、营养。
+7. **改变阶段**（Prochaska）：匹配干预风格。
+8. **康复资本评估**：见 [康复文档](../recovery/Addiction_Recovery_and_Relapse_Prevention.md)。
+
+---
+
+## 参考文献
+
+1. American Psychiatric Association. (2022). *DSM-5-TR* — Substance-Related and Addictive Disorders.
+2. World Health Organization. (2018). *ICD-11* — Disorders due to substance use or addictive behaviours.
+3. American Society of Addiction Medicine. (2023). *The ASAM Criteria*, 4th ed.
+4. NIDA. (2018). *Principles of Drug Addiction Treatment*, 3rd ed.
+5. SAMHSA. TIP 45: *Detoxification and Substance Abuse Treatment*.
+6. Hasin, D.S., et al. (2013). DSM-5 SUD in the NESARC. *JAMA Psychiatry*.
+
+---
+
+*Peace Lab Database — 成瘾专题 · 诊断与严重度*
+*创建日期：2026-07*

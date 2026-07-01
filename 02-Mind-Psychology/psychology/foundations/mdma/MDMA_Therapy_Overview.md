@@ -14,6 +14,7 @@ intent_queries:
   - "MDMA治疗的循证证据"
 trigger_keywords: ["MDMA治疗", "treatment", "心理学", "心理学基础"]
 cross_refs: []
+status: "stub"
 ---
 # MDMA治疗
 

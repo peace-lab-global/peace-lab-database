@@ -18,6 +18,9 @@ cross_refs: []
 
 > 关注个人进化、职业发展、自媒体变现及社会实践方法论。
 
+
+> ⚠️ **内容免责声明**:本支柱内容聚焦实用技能、个人发展、沟通方法与生活实践,涉及人际关系、职业发展、习惯养成、领导力等话题。文档仅供学习与参考,不构成专业咨询(心理治疗、职业咨询、医疗、法律、财务)建议。具体情境下的应用须结合个人实际情况,必要时应咨询相关领域的合格专业人士。任何自我探索与成长过程不应取代专业支持。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
 
 ## 📚 阅读路径建议 | Reading Path Guide
@@ -32,7 +35,7 @@ cross_refs: []
 |:----:|:-----|:-----|:-----|
 | 1 | [效率核心理论](personal-development/productivity/Productivity_Core.md) | 理解效率的本质与方法 | 20分钟 |
 | 2 | [心流与专注力](personal-development/flow/) | 学习进入心流状态的条件 | 20分钟 |
-| 3 | [习惯养成科学](personal-development/topics/Personal_Development_Habit_Science.md) | 建立可持续的习惯系统 | 25分钟 |
+| 3 | [习惯养成科学](personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 建立可持续的习惯系统 | 25分钟 |
 | 4 | [高效沟通核心](communication/effective-communication/Effective_Communication_Overview.md) | 掌握沟通的基础原则 | 20分钟 |
 
 **适合**: 首次接触个人发展领域，希望建立成长基础的读者。
@@ -63,7 +66,7 @@ cross_refs: []
 | 1 | [超级个体核心能力](personal-development/super-individual/Core_Competencies.md) | 建立超级个体的能力矩阵 | 35分钟 |
 | 2 | [财务素养与投资心理](personal-development/financial-literacy/Investment_Psychology.md) | 建立财务自由的认知框架 | 30分钟 |
 | 3 | [谈判心理学与策略](communication/negotiation/Negotiation_Psychology_Strategy.md) | 掌握高级谈判技能 | 35分钟 |
-| 4 | [管理心理学与法家](religions/legalist/Legalist_Management_Psychology.md) | 建立组织管理的心理学基础 | 30分钟 |
+| 4 | [管理心理学与法家](../01-Wisdom-Traditions/religions/legalist/Legalist_Management_Psychology.md) | 建立组织管理的心理学基础 | 30分钟 |
 
 **适合**: 已有一定积累，希望成为专业人士或管理者的读者。
 
@@ -97,9 +100,9 @@ cross_refs: []
 - [**稳定内核 (Stable Inner Core)**](personal-development/stable-inner-core/) **[NEW]** - 自我分化、价值观明晰、认知免疫与内在根基建设
   - [稳定内核核心体系 (Core System)](personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
 - [心流与专注力 (Flow & Focus)](personal-development/flow/)
-- [习惯养成科学 (Habit Science)](personal-development/topics/Personal_Development_Habit_Science.md)
-  - [原子习惯 (Atomic Habits)](personal-development/topics/Personal_Development_Atomic_Habits.md)
-  - [微习惯 (Mini Habits)](personal-development/topics/Personal_Development_Mini_Habits.md)
+- [习惯养成科学 (Habit Science)](personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md)
+  - [原子习惯 (Atomic Habits)](personal-development/topics/habits-behavior/Personal_Development_Atomic_Habits.md)
+  - [微习惯 (Mini Habits)](personal-development/topics/habits-behavior/Personal_Development_Mini_Habits.md)
 - [正念与生活禅 (Mindfulness)](personal-development/mindfulness/)
 - [**正念生活化实践 (Mindful Living)**](mindful-living/) **[NEW]** — 正念进食/行走/工作/沟通/育儿/数字生活
   - [正念生活化实践总览](mindful-living/Mindful_Living_Overview.md) — 日常觉察整合、STOP技术、最小可行正念
@@ -168,18 +171,18 @@ cross_refs: []
 - [TED 演说精选全系 (TED Talks)](talks/ted-talks/)
 - [公共表达与演讲技巧 (Public Speaking)](personal-development/public-speaking/)
 - [职场表达体系 (Workplace Expression)](personal-development/workplace-expression/)
-  - [向上管理与情绪化上级应对 (Upward Management)](personal-development/workplace-expression/Workplace_Upward_Management.md)
-  - [向上管理能力提升框架与实战方法论 (Upward Management Professional Framework)](personal-development/workplace-expression/Workplace_Upward_Management_Professional_Framework.md)
-  - [管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling System Design)](personal-development/workplace-expression/Workplace_Manager_Communication_Style_Profiling_System_Design.md)
-  - [绩效改进计划(PIP)应对指南 (PIP Response Guide)](personal-development/workplace-expression/Workplace_PIP_Response_Guide.md)
-  - [PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)](personal-development/workplace-expression/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
-  - [Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)](personal-development/workplace-expression/Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md)
-  - [Offer邮件模板与微信商务谈判话术指南 (Offer Email & WeChat Negotiation Templates)](personal-development/workplace-expression/Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
-  - [职场霸凌/歧视取证与申诉流程 (Bullying & Discrimination Evidence and Complaint Guide)](personal-development/workplace-expression/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
-  - [职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)](personal-development/workplace-expression/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
-  - [职场异常场景处理系统模块设计 (Exception Case Management System Design)](personal-development/workplace-expression/Workplace_Exception_Case_Management_System_Design.md)
-  - [职场语言霸凌与PUA专业知识数据库 (Verbal Bullying & PUA Knowledge Database)](personal-development/workplace-expression/Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
-  - [高风险敏感语料数据库 (High-Risk Sensitive Language Database)](personal-development/workplace-expression/Workplace_High_Risk_Sensitive_Language_Database.md)
+  - [向上管理与情绪化上级应对 (Upward Management)](personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md)
+  - [向上管理能力提升框架与实战方法论 (Upward Management Professional Framework)](personal-development/workplace-expression/upward-management/Workplace_Upward_Management_Professional_Framework.md)
+  - [管理者沟通风格画像与适配策略系统设计 (Manager Communication Style Profiling System Design)](personal-development/workplace-expression/upward-management/Workplace_Manager_Communication_Style_Profiling_System_Design.md)
+  - [绩效改进计划(PIP)应对指南 (PIP Response Guide)](personal-development/workplace-expression/performance-pip/Workplace_PIP_Response_Guide.md)
+  - [PIP周报/复盘模板 (PIP Weekly Report & Retrospective Templates)](personal-development/workplace-expression/performance-pip/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
+  - [Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)](personal-development/workplace-expression/career-negotiation/Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md)
+  - [Offer邮件模板与微信商务谈判话术指南 (Offer Email & WeChat Negotiation Templates)](personal-development/workplace-expression/career-negotiation/Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
+  - [职场霸凌/歧视取证与申诉流程 (Bullying & Discrimination Evidence and Complaint Guide)](personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+  - [职场维权申诉邮件与仲裁请求模板 (Complaint Email & Arbitration Request Templates)](personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
+  - [职场异常场景处理系统模块设计 (Exception Case Management System Design)](personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
+  - [职场语言霸凌与PUA专业知识数据库 (Verbal Bullying & PUA Knowledge Database)](personal-development/workplace-expression/anti-pua/Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
+  - [高风险敏感语料数据库 (High-Risk Sensitive Language Database)](personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Sensitive_Language_Database.md)
 
 ### 3.5 🗣️ 沟通技能与人际表达 (Communication Skills & Interpersonal Expression)
 - [**高效沟通 (Effective Communication)**](communication/effective-communication/) **[NEW]** - 沟通模型、NVC非暴力沟通、职场沟通策略
@@ -253,3 +256,32 @@ cross_refs: []
 
 ---
 *返回根目录 [README.md](./)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

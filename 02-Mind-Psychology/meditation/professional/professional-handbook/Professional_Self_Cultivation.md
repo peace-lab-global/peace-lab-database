@@ -232,3 +232,16 @@ cross_refs: []
 ---
 
 *相关阅读：[职业发展](Professional_Career_Development.md) · [安全管理](Professional_Safety_Management.md) · [教师自我关怀](../career-business/Meditation_Instructor_Self_Care.md)*
+
+---
+
+## 参考文献 | References
+
+- Davidson, R. J., & McEwen, B. S. (2012). Social influences on neuroplasticity. *Nature Neuroscience*, *15*(5), 689-695. https://doi.org/10.1038/nn.3093
+- Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, *16*(4), 213-225. https://doi.org/10.1038/nrn3916
+- Hölzel, B. K., Lazar, S. W., Gard, T., et al. (2011). How does mindfulness meditation work? *Perspectives on Psychological Science*, *6*(6), 537-559. https://doi.org/10.1177/1745691611419671
+- Davidson, R. J., Kabat-Zinn, J., Schumacher, J., et al. (2003). Alterations in brain and immune function produced by mindfulness meditation. *Psychosomatic Medicine*, *65*(4), 564-570. https://doi.org/10.1097/01.PSY.0000077505.67574.E3
+- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, *12*(4), 163-169. https://doi.org/10.1016/j.tics.2008.01.005
+- Vago, D. R., & Silbersweig, D. A. (2012). Self-awareness, self-regulation, and self-transcendence (S-ART). *Frontiers in Human Neuroscience*, *6*, 296. https://doi.org/10.3389/fnhum.2012.00296
+- Brewer, J. A., Worhunsky, P. D., Gray, J. R., et al. (2011). Meditation experience is associated with differences in default mode network activity. *PNAS*, *108*(50), 20254-20259. https://doi.org/10.1073/pnas.1112029108
+- Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. *Annals of the New York Academy of Sciences*, *1307*(1), 9-18. https://doi.org/10.1111/nyas.12261

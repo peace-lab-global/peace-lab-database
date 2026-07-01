@@ -13,7 +13,19 @@ intent_queries:
   - "Sleep Science的方法与实践"
 trigger_keywords: ["Sleep", "Science", "睡眠科学与节律优化"]
 cross_refs: []
+mirror_of: "../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md"
+status: "mirror"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
+> ⚠️ **本文档为镜像副本**
+> **权威版本**: [Sleep Science (睡眠科学与节律优化)](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md)
+
 # Sleep Science (睡眠科学与节律优化)
 
 ### Neurobiology of Sleep Stages (睡眠阶段的神经生物学详表)
@@ -61,10 +73,10 @@ cross_refs: []
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 瑜伽尼德拉/睡眠瑜伽 | 01-智慧传承 | [瑜伽神经科学](../../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md) | Yoga Nidra的神经生理学机制 |
-| 声音疗愈 | 02-心理学 | [声音医学](../../../therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md) | 声音频率引导睡眠脑波 |
+| 瑜伽尼德拉/睡眠瑜伽 | 01-智慧传承 | [瑜伽神经科学](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md) | Yoga Nidra的神经生理学机制 |
+| 声音疗愈 | 02-心理学 | [声音医学](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md) | 声音频率引导睡眠脑波 |
 | 呼吸训练 | 03-生命科学 | [呼吸法](../../../../03-Bio-Science/biology/breathwork/) | 呼吸调节副交感促进入睡 |
-| 睡眠习惯优化 | 05-实践增长 | [睡眠优化路径](../../../../_meta/learning-paths/Sleep_Optimization_Path.md) | 实践层面的睡眠改善路径 |
+| 睡眠习惯优化 | 05-实践增长 | [睡眠优化路径](../../../_meta/learning-paths/Sleep_Optimization_Path.md) | 实践层面的睡眠改善路径 |
 
 ---
 
@@ -142,3 +154,15 @@ cross_refs: []
 > **预期效果**：4周后入睡潜伏期（SOL）<20分钟，睡眠效率（SE）>85%，PSQI得分下降≥3分。
 >
 > **重要提醒**：本方案为一般性指导框架。若存在严重睡眠障碍（如睡眠呼吸暂停、不宁腿综合征），请先至睡眠医学专科排除器质性病因后，再在专业人员指导下实施 CBT-I。
+
+---
+
+## 参考文献 | References
+
+- Walker, M. (2017). *Why we sleep: Unlocking the power of sleep and dreams*. Scribner.
+- Buysse, D. J., Reynolds, C. F., Monk, T. H., Berman, S. R., & Kupfer, D. J. (1989). The Pittsburgh Sleep Quality Index: A new instrument for psychiatric practice and research. *Psychiatry Research*, *28*(2), 193-213. https://doi.org/10.1016/0165-1781(89)90047-4
+- Morin, C. M., & Benca, R. (2012). Chronic insomnia. *The Lancet*, *379*(9821), 1129-1141. https://doi.org/10.1016/S0140-6736(11)60750-2
+- Riemann, D., Baglioni, C., Bassetti, C., et al. (2017). European guideline for the diagnosis and treatment of insomnia. *Journal of Sleep Research*, *26*(6), 675-700. https://doi.org/10.1111/jsr.12594
+- Edinger, J. D., Arnedt, J. T., Bertisch, S. M., et al. (2021). Behavioral and psychological treatments for chronic insomnia: A clinical practice guideline from the American College of Physicians. *Annals of Internal Medicine*, *174*(1), 86-93. https://doi.org/10.7326/M20-7534
+- Bastien, C. H., Vallières, A., & Morin, C. M. (2001). Validation of the Insomnia Severity Index as an outcome measure for insomnia research. *Sleep Medicine*, *2*(4), 297-307. https://doi.org/10.1016/S1389-9457(00)00065-4
+- Irwin, M. R. (2015). Why sleep is important for health: A psychoneuroimmunology perspective. *Annual Review of Psychology*, *66*, 143-172. https://doi.org/10.1146/annurev-psych-010213-115205

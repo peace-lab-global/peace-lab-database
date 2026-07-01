@@ -6,35 +6,36 @@ version: 1.0
 role: escalation
 category: recognition
 filename: CFS_Recognition_Skill.md
-entry_trigger:
-  keywords: ["慢性疲劳", "总是累", "乏力", "不解乏", "精力不足", "疲劳综合征", "ME/CFS", "肌痛性", "什么都没干却很累"]
-  scenarios: ["用户主诉长期疲劳且休息无法缓解", "Stress_Assessment提示CFS疑似", "用户主动询问是否可能为CFS"]
+entry_trigger: 
+keywords: ["慢性疲劳", "总是累", "乏力", "不解乏", "精力不足", "疲劳综合征", "ME/CFS", "肌痛性", "什么都没干却很累"]
+scenarios: ["用户主诉长期疲劳且休息无法缓解", "Stress_Assessment提示CFS疑似", "用户主动询问是否可能为CFS"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否主诉长期（>2周）疲劳或精力不足？"
-    threshold: true
-    type: boolean
-  - Q: "疲劳是否在休息后无法完全缓解？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "疲劳是否在休息后无法完全缓解？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - cfs_screening_report_v1
-contraindications:
-  - "无特殊禁忌，但发现红旗症状需立即转介"
+outputs: 
+contraindications: 
 estimated_duration: 15-20分钟
 evidence_level: B
-red_flags:
-  - "PEM典型且严重 → 建议尽快就医"
-  - "极度疲劳影响日常功能 → 建议医疗评估"
-  - "出现任何红旗症状 → 立即转介"
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
+red_flags: 
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
 cross_refs: []
+title: "慢性疲劳综合征识别技能"
+description: "肌痛性脑脊髓炎/慢性疲劳综合征（ME/CFS）是一种严重的多系统疾病，以以下核心症状为特征：
+- **严重疲劳**：持续≥6个月，休息无法缓解
+- **劳后不适（PEM）**：活动后症状恶化，延迟24-72小时出现
+- **非恢复性睡眠**：无论睡多久都感觉不清醒
+- **认知障碍**：注意力、记忆..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 慢性疲劳综合征识别技能
 
@@ -348,3 +349,32 @@ STEP 3: 睡眠问题+认知障碍+直立不耐受
 ---
 
 *ME/CFS的诊断需要排除其他疾病并由专业医疗人员做出。本技能提供初步识别指导，不替代专业医学评估。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

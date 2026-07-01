@@ -13,7 +13,14 @@ intent_queries:
   - "05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit的方法与实践"
 trigger_keywords: ["05.", "情绪耗竭的正念工具包", "Emotional", "Exhaustion", "Toolkit"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 05. 情绪耗竭的正念工具包 | Emotional Exhaustion Toolkit
 
 > **文档定位**：情绪耗竭是倦怠的"入口症状"，也是正念干预效果最快的维度。本章提供一套完整的、可直接使用的能量管理工具，涵盖工作日微恢复、深层修复、睡眠整合三个层级。

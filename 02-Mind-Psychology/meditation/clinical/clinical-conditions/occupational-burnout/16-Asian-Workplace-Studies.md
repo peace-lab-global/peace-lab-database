@@ -13,7 +13,14 @@ intent_queries:
   - "16. 亚洲职场正念研究 | Asian Workplace Mindfulness的方法与实践"
 trigger_keywords: ["intervention", "16.", "亚洲职场正念研究", "Asian", "Workplace"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 16. 亚洲职场正念研究 | Asian Workplace Mindfulness
 
 > **文档定位**：本章汇总亚洲地区（特别是中国、日本、韩国、新加坡）的职场正念与倦怠干预研究，关注文化适应性和本土证据。

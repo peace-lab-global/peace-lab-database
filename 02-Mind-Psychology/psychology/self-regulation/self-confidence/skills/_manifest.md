@@ -4,15 +4,20 @@ module_name: 自尊评估模块
 module_name_en: Self-Esteem Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_018
-    skill_name: 自尊与自我价值评估
-    filename: Self_Esteem_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "自我价值/自尊"
+skills: 
+- skill_id: S_018
+skill_name: 自尊与自我价值评估
+filename: Self_Esteem_Assessment_Skill.md
+cross_refs: 
+- path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+relation: "自我价值/自尊"
+title: "自尊评估模块清单"
+description: "自尊评估模块清单 —— 相关领域的内容文档"
+category: "心智与心理学 > psychology"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 自尊评估模块清单
 

@@ -690,3 +690,15 @@ flowchart LR
 *Created by Peace Lab Database Project*
 *Integrating developmental psychology, education science, and contemplative research*
 *Last Updated: 2026-05*
+
+---
+
+## 参考文献 | References
+
+- Mendelson, T., Greenberg, M. T., Dariotis, J. K., Feagley Gould, L., Rhoades, B. L., & Leaf, P. J. (2010). A meta-analysis of mindfulness-based interventions for children and adolescents. *Journal of Consulting and Clinical Psychology*, *78*(2), 169-183. https://doi.org/10.1037/a0018355
+- Maynard, B. R., Solis, M. R., Miller, V. L., & Brendel, K. E. (2017). Mindfulness-based interventions for improving cognition, academic achievement, attention, and self-regulation: A meta-analysis. *Educational Psychology Review*, *29*(1), 119-140. https://doi.org/10.1007/s10648-015-9349-3
+- Felver, J. C., & Franks, C. A. (2015). Best practices in mindfulness-based school programs. In K. L. Paz (Ed.), *Best practices in school psychology* (pp. 1-14). National Association of School Psychologists.
+- Meiklejohn, J., Phillips, C., Freedman, M. L., et al. (2012). Integrating mindfulness training into K-12 education: Fostering the resilience of teachers and students. *Mindfulness*, *3*(4), 291-307. https://doi.org/10.1007/s12671-012-0094-5
+- Roeser, R. W., Skinner, E., Beers, J., & Jennings, P. A. (2012). Mindfulness training in middle schools. In T. S. G. N. M. Else-Quest (Ed.), *Building an evidence-based practice in school psychology* (pp. 421-442). Springer.
+- Schonert-Reichl, K. A., Oberle, E., Lawlor, M. S., et al. (2015). Enhancing cognitive and social-emotional development through a simple-to-administer mindfulness-based school program for elementary school children. *Developmental Psychology*, *51*(1), 52-66. https://doi.org/10.1037/a0038454
+- Britton, W. B., Lepp, N. E., Niles, H. F., et al. (2014). A randomized controlled pilot trial of classroom-based mindfulness meditation compared to an active control condition on sixth-grade students. *Journal of School Psychology*, *52*(3), 263-278. https://doi.org/10.1016/j.jsp.2014.03.002

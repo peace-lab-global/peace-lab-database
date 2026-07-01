@@ -5,62 +5,46 @@
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
 <meta name="theme-color" content="#0a0a0d" />
 <title>02 三界唯心造 · 解构剧场</title>
-<link rel="stylesheet" href="./shared.css" />
+<link rel="stylesheet" href="./shared.css?v=2" />
 <style>
-  body{background:#0a0a0d}
-
-  /* 同一张图，每幕施加不同滤镜/聚焦，对应不同识层 */
+  /* 背景图：每幕施加不同滤镜/聚焦，对应不同识层 */
   .bg{
-    transition:transform 2.4s cubic-bezier(.6,.2,.2,1), filter 2.4s ease;
+    transition:transform 2.4s var(--ease-in-out), filter 2.4s ease;
     transform-origin:center center;will-change:transform,filter;
   }
   body.act1 .bg{transform:scale(1.02);filter:saturate(1.05) brightness(.95)}
   body.act2 .bg{transform:scale(1.08);filter:saturate(1.2) brightness(1) contrast(1.05)}
   body.act3 .bg{transform:scale(1.1);filter:saturate(.95) brightness(.9) contrast(1.1)}
-  /* 末那识：整图被"我"色蒙染——红黄偏暖 */
   body.act4 .bg{transform:scale(1.06);filter:saturate(1.4) brightness(.85) hue-rotate(-12deg)}
-  /* 阿赖耶识：图被深度模糊+蓝紫——成为"种子海" */
   body.act5 .bg{transform:scale(1.15);filter:saturate(1.1) brightness(.6) blur(8px) hue-rotate(20deg)}
   body.act6 .bg{transform:scale(1.02);filter:saturate(1.1) brightness(.95)}
 
-  /* ========== SVG 标注层 ========== */
-  svg.annot{position:absolute;inset:0;width:100%;height:100%;z-index:4;pointer-events:none}
-  svg.annot .layer{opacity:0;transition:opacity 1.4s ease}
+  /* SVG 标注层可见性 */
   body.act2 svg.annot .l-five  {opacity:1}
   body.act3 svg.annot .l-mind  {opacity:1}
   body.act4 svg.annot .l-mana  {opacity:1}
   body.act5 svg.annot .l-alaya {opacity:1}
   body.act6 svg.annot .l-fusion{opacity:1}
-
-  svg.annot text{
-    font-family:"PingFang SC","Hiragino Sans GB",serif;
-    fill:#fff;font-size:13px;letter-spacing:.18em;
-    paint-order:stroke;stroke:rgba(0,0,0,.55);stroke-width:3px;
-  }
-  svg.annot .small{font-size:10.5px;letter-spacing:.16em;opacity:.92}
-  svg.annot .gold{fill:#ffd58a;stroke:rgba(80,50,0,.6)}
-  svg.annot .rose{fill:#ffb1c8;stroke:rgba(120,30,60,.6)}
-  svg.annot .sky {fill:#cfe6ff;stroke:rgba(20,40,80,.6)}
-  svg.annot .green{fill:#a6e7c5;stroke:rgba(20,80,50,.6)}
+  svg.annot .green{fill:var(--green);stroke:rgba(20,80,50,.6)}
   svg.annot circle.dot{fill:rgba(255,255,255,.85)}
-  svg.annot circle.dot.gold{fill:#ffd58a}
-  svg.annot circle.dot.rose{fill:#ffb1c8}
-  svg.annot circle.dot.sky {fill:#cfe6ff}
-  svg.annot circle.dot.green{fill:#a6e7c5}
+  svg.annot circle.dot.gold{fill:var(--gold-bright)}
+  svg.annot circle.dot.rose{fill:var(--rose-bright)}
+  svg.annot circle.dot.sky {fill:var(--sky-bright)}
+  svg.annot circle.dot.green{fill:var(--green)}
   svg.annot line.lead{stroke:rgba(255,255,255,.7);stroke-width:.8;stroke-dasharray:2 2}
 
   /* 末那识"我"染色蒙层 */
   .mana-dye{
     position:absolute;inset:0;z-index:3;pointer-events:none;
-    background:radial-gradient(ellipse at 50% 60%, rgba(217,79,122,.0) 0%, rgba(217,79,122,.18) 45%, rgba(217,79,122,.45) 100%);
-    opacity:0;transition:opacity 1.6s ease;mix-blend-mode:multiply;
+    background:radial-gradient(ellipse at 50% 60%, rgba(217,79,122,0) 0%, rgba(217,79,122,.18) 45%, rgba(217,79,122,.45) 100%);
+    opacity:0;transition:opacity 1.6s var(--ease-out);mix-blend-mode:multiply;
   }
   body.act4 .mana-dye{opacity:1}
 
   /* 阿赖耶识"种子海"——浮动光点 */
   .seed-sea{
     position:absolute;inset:0;z-index:5;pointer-events:none;
-    opacity:0;transition:opacity 1.4s ease;
+    opacity:0;transition:opacity 1.4s var(--ease-out);
   }
   body.act5 .seed-sea{opacity:1}
   .seed-sea i{
@@ -70,19 +54,19 @@
     animation:seedFloat linear infinite;
   }
   @keyframes seedFloat{
-    0%  {transform:translate3d(0,0,0) scale(.6);opacity:0}
-    20% {opacity:.95}
+    0%{transform:translate3d(0,0,0) scale(.6);opacity:0}
+    20%{opacity:.95}
     100%{transform:translate3d(0,-180px,0) scale(1.4);opacity:0}
   }
 
   /* 意识思维气泡（act3） */
   .thoughts{
     position:absolute;inset:0;z-index:5;pointer-events:none;
-    opacity:0;transition:opacity 1s ease;
+    opacity:0;transition:opacity 1s var(--ease-out);
   }
   body.act3 .thoughts{opacity:1}
   .thoughts span{
-    position:absolute;font-family:"PingFang SC",serif;color:#fff;
+    position:absolute;font-family:var(--font-sans);color:#fff;
     background:rgba(0,0,0,.5);border:1px solid rgba(255,255,255,.25);
     padding:5px 12px;border-radius:999px;font-size:12.5px;letter-spacing:.18em;
     backdrop-filter:blur(6px);
@@ -90,126 +74,56 @@
   }
   @keyframes thoughtFloat{
     0%,100%{transform:translateY(0);opacity:.6}
-    50%    {transform:translateY(-12px);opacity:1}
-  }
-
-  /* ========== 文字面板 ========== */
-  .panel{
-    position:fixed;right:32px;top:50%;transform:translateY(-50%);z-index:10;
-    width:min(38vw,420px);
-    background:rgba(15,15,20,.55);
-    backdrop-filter:blur(14px);-webkit-backdrop-filter:blur(14px);
-    border:1px solid rgba(255,255,255,.12);
-    border-radius:18px;padding:32px 30px;color:#fff;
-    box-shadow:0 30px 70px rgba(0,0,0,.45);
-    transition:opacity .8s ease,transform .8s ease;
-  }
-  .panel .step{font-size:11.5px;letter-spacing:.4em;color:#c8a96a;margin-bottom:14px}
-  .panel h2{font-size:clamp(22px,2.6vw,30px);font-weight:300;letter-spacing:.18em;margin-bottom:18px;line-height:1.4}
-  .panel p{font-size:14.5px;line-height:2;color:#e8e8ea;letter-spacing:.05em}
-  .panel .quote{margin-top:18px;padding-top:16px;border-top:1px dashed rgba(255,255,255,.2);
-    font-size:13px;color:#ffd58a;letter-spacing:.05em;font-style:italic;line-height:1.9}
-  .panel.fade{opacity:0;transform:translateY(-50%) translateX(20px)}
-  @media (max-width:820px){
-    .panel{right:16px;left:16px;width:auto;top:auto;bottom:130px;transform:none;padding:22px 22px}
-    .panel.fade{transform:translateY(20px)}
+    50%{transform:translateY(-12px);opacity:1}
   }
 
   /* 八识纵列示意（侧标） */
   .vijnana-stack{
     position:fixed;left:30px;top:50%;transform:translateY(-50%);z-index:10;
     display:flex;flex-direction:column;gap:6px;
-    background:rgba(15,15,20,.45);
-    backdrop-filter:blur(10px);
-    padding:14px 14px;border-radius:14px;border:1px solid rgba(255,255,255,.1);
+    background:var(--glass-bg);
+    backdrop-filter:var(--glass-blur-light);
+    -webkit-backdrop-filter:var(--glass-blur-light);
+    padding:14px;border-radius:var(--radius-md);
+    border:1px solid var(--glass-border);
+    box-shadow:var(--glass-shadow-inset);
   }
   .vijnana-stack .row{
     color:rgba(255,255,255,.4);font-size:11px;letter-spacing:.32em;
-    padding:5px 12px;border-radius:6px;transition:.6s;
+    padding:5px 12px;border-radius:6px;transition:all .6s var(--ease-out);
     border:1px solid transparent;white-space:nowrap;
   }
   .vijnana-stack .row.on{
     color:#fff;background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.18);
   }
-  body.act2 .vijnana-stack .r5  {color:#fff;background:rgba(207,230,255,.15);border-color:rgba(207,230,255,.4)}
-  body.act3 .vijnana-stack .r6  {color:#fff;background:rgba(255,213,138,.15);border-color:rgba(255,213,138,.4)}
-  body.act4 .vijnana-stack .r7  {color:#fff;background:rgba(217,79,122,.18);border-color:rgba(217,79,122,.45)}
-  body.act5 .vijnana-stack .r8  {color:#fff;background:rgba(166,138,255,.18);border-color:rgba(166,138,255,.45)}
-  body.act6 .vijnana-stack .row {color:#fff;background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.2)}
-  @media (max-width:820px){.vijnana-stack{display:none}}
+  body.act2 .vijnana-stack .r5{color:#fff;background:rgba(207,230,255,.15);border-color:rgba(207,230,255,.4)}
+  body.act3 .vijnana-stack .r6{color:#fff;background:rgba(255,213,138,.15);border-color:rgba(255,213,138,.4)}
+  body.act4 .vijnana-stack .r7{color:#fff;background:rgba(217,79,122,.18);border-color:rgba(217,79,122,.45)}
+  body.act5 .vijnana-stack .r8{color:#fff;background:rgba(166,138,255,.18);border-color:rgba(166,138,255,.45)}
+  body.act6 .vijnana-stack .row{color:#fff;background:rgba(255,255,255,.08);border-color:rgba(255,255,255,.2)}
 
-  /* 时间线 */
-  .timeline{
-    position:fixed;left:50%;bottom:24px;transform:translateX(-50%);z-index:11;
-    display:flex;gap:10px;align-items:center;
-    background:rgba(15,15,20,.5);backdrop-filter:blur(10px);
-    padding:10px 16px;border-radius:999px;border:1px solid rgba(255,255,255,.12);
-  }
-  .timeline button{
-    background:none;color:#fff;cursor:pointer;
-    width:30px;height:30px;border-radius:50%;font-size:11px;letter-spacing:.05em;transition:.3s;
-    display:flex;align-items:center;justify-content:center;
-    border:1px solid rgba(255,255,255,.2);
-  }
-  .timeline button.active{background:#fff;color:#1b1b1f;border-color:#fff}
-  .timeline button:hover{border-color:#fff}
-  .timeline .play{width:auto;padding:0 14px;height:30px;border-radius:999px;font-size:11.5px;letter-spacing:.16em;margin-left:6px}
-  .timeline .div{width:1px;height:18px;background:rgba(255,255,255,.18)}
+  /* 中央顿悟语自定义尺寸（act6） */
+  .center-insight .eq{font-size:clamp(26px,4.6vw,60px)}
 
-  .hint{
-    position:fixed;left:50%;bottom:80px;transform:translateX(-50%);z-index:9;
-    color:rgba(255,255,255,.55);font-size:11.5px;letter-spacing:.3em;
-    pointer-events:none;animation:hintBlink 4s ease-in-out infinite;
+  /* 页面专属标注类 */
+  .al.t-xl{
+    font-size:clamp(48px,14vw,120px);font-weight:200;letter-spacing:.05em;
+    color:rgba(255,255,255,.95);text-shadow:0 0 30px rgba(120,20,60,.5);
   }
-  @keyframes hintBlink{0%,100%{opacity:.4}50%{opacity:.85}}
-
-  /* 中央顿悟语（act6） */
-  .center-insight{
-    position:fixed;left:50%;top:46%;transform:translate(-50%,-50%);z-index:6;
-    text-align:center;pointer-events:none;opacity:0;transition:opacity 1.5s ease;
-  }
-  body.act6 .center-insight{opacity:1}
-  .center-insight .eq{
-    font-size:clamp(26px,4.6vw,60px);font-weight:200;letter-spacing:.4em;color:#fff;
-    text-shadow:0 6px 40px rgba(0,0,0,.7);
-  }
-  .center-insight .eq b{color:#ffd58a;font-weight:300}
-  .center-insight .sub{
-    margin-top:10px;color:#cfe6ff;font-size:13px;letter-spacing:.4em;
-  }
-
-  /* HTML 标注层 */
-  .act-labels{position:absolute;inset:0;z-index:5;pointer-events:none}
-  .al{
-    position:absolute;transform:translate(-50%,-50%);white-space:nowrap;
-    font-family:"PingFang SC","Hiragino Sans GB",serif;
-    font-size:clamp(13px,1.6vw,17px);letter-spacing:.22em;
-    color:#fff;paint-order:stroke;
-    -webkit-text-stroke:0.5px rgba(0,0,0,.35);
-    text-shadow:0 0 8px rgba(0,0,0,.7),0 2px 12px rgba(0,0,0,.5);
-    opacity:0;transition:opacity 1.4s ease;
-  }
-  .al.t-sky{color:#cfe6ff}
-  .al.t-gold{color:#ffd58a}
-  .al.t-rose{color:#ffb1c8}
-  .al.t-sm{font-size:clamp(10px,1.2vw,13px);letter-spacing:.18em;opacity:.88}
-  .al.t-lg{font-size:clamp(20px,3.2vw,36px);font-weight:200;letter-spacing:.4em}
-  .al.t-xl{font-size:clamp(48px,14vw,120px);font-weight:200;letter-spacing:.05em;
-    color:rgba(255,255,255,.95);text-shadow:0 0 30px rgba(120,20,60,.5)}
   .al.t-seed{font-size:clamp(12px,1.4vw,16px);letter-spacing:.05em;color:rgba(207,230,255,.85)}
 
+  /* 标注可见性 */
   body.act2 .act-labels .l2{opacity:1}
   body.act3 .act-labels .l3{opacity:1}
   body.act4 .act-labels .l4{opacity:1}
   body.act5 .act-labels .l5{opacity:1}
   body.act6 .act-labels .l6{opacity:1}
 
-  @media (max-width:640px){
-    .al{font-size:clamp(11px,3.2vw,15px);letter-spacing:.16em}
-    .al.t-sm{font-size:clamp(9px,2.6vw,12px)}
-    .al.t-lg{font-size:clamp(16px,5vw,28px)}
+  /* 页面专属移动端 */
+  @media(max-width:640px){
     .al.t-xl{font-size:clamp(36px,12vw,80px)}
     .al.t-seed{font-size:clamp(10px,2.8vw,14px)}
+    .al.t-xl[style*="top:56%"]{top:36% !important}
   }
 </style>
 </head>
@@ -239,7 +153,7 @@
     <svg class="annot" viewBox="0 0 100 100" preserveAspectRatio="none">
 
       <!-- 幕 2：前五识——五感采样点 -->
-      <g class="layer l-five">
+      <g class="layer l-five" data-ring>
         <circle class="dot sky" cx="50" cy="42" r=".9"/>
         <circle class="dot sky" cx="22" cy="30" r=".9"/>
         <circle class="dot sky" cx="42" cy="80" r=".9"/>
@@ -247,7 +161,7 @@
         <circle class="dot sky" cx="80" cy="40" r=".9"/>
       </g>
 
-      <g class="layer l-mind">
+      <g class="layer l-mind" data-ring>
         <circle cx="50" cy="50" r="3" fill="rgba(255,213,138,.2)" stroke="#ffd58a" stroke-width=".5"/>
         <line class="lead" x1="50" y1="42" x2="50" y2="48"/>
         <line class="lead" x1="22" y1="30" x2="48" y2="49"/>
@@ -265,7 +179,7 @@
         </g>
       </g>
 
-      <g class="layer l-alaya">
+      <g class="layer l-alaya" data-ring>
         <g>
           <circle class="dot sky" cx="22" cy="38" r=".6"/>
           <circle class="dot sky" cx="38" cy="32" r=".6"/>
@@ -415,6 +329,7 @@
   function go(i){
     cur = ((i % acts.length)+acts.length) % acts.length;
     document.body.className = 'act' + (cur+1);
+    document.body.classList.add('no-transition');void document.body.offsetHeight;document.body.classList.remove('no-transition');
     Array.from(tl.querySelectorAll('button[data-act]'))
       .forEach(b=>b.classList.toggle('active', +b.dataset.act === cur+1));
     panel.classList.add('fade');
@@ -422,6 +337,7 @@
       const a = acts[cur];
       step.innerHTML=a.step; title.innerHTML=a.title; bodyT.innerHTML=a.body; quote.innerHTML=a.quote;
       panel.classList.remove('fade');
+      panel.style.transition='none';void panel.offsetHeight;panel.style.transition='';
     }, 400);
   }
 
@@ -454,6 +370,18 @@
   setVh();
   addEventListener('resize',setVh);
   addEventListener('orientationchange',setVh);
+
+  // —— SVG 圆环反拉伸 ——
+  function fixRings(){
+    const svg=document.querySelector('svg.annot');if(!svg)return;
+    const w=svg.clientWidth,h=svg.clientHeight;if(!w||!h)return;
+    const k=h/w;
+    svg.querySelectorAll('[data-ring]').forEach(g=>{
+      g.style.transform=`translate(50px,50px) scale(${(1/k).toFixed(4)},1) translate(-50px,-50px)`;
+    });
+  }
+  fixRings();addEventListener('resize',fixRings);
+  addEventListener('orientationchange',()=>setTimeout(fixRings,100));
 </script>
 </body>
 </html>

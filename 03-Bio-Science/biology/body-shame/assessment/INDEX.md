@@ -19,7 +19,10 @@ cross_refs:
     relation: "assessment/contents"
   - path: "05-Praxis-Growth/personal-development/professional-attraction/education/INDEX.md"
     relation: "assessment/clinical/contents"
----
+mirror_of: "../../../../02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [assessment | index](../../../../02-Mind-Psychology/psychology/applied/vocational-psychology/assessment/INDEX.md)
+
 # assessment | Index
 
 ## 内容索引 | Contents

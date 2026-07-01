@@ -17,7 +17,14 @@ cross_refs:
     relation: "hrv/心率/变异性"
   - path: "01-Wisdom-Traditions/tai-chi/psychology-wellbeing/TaiChi_Stress_Anxiety_Depression.md"
     relation: "hrv/副交感/心率"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback
 
 > **文档定位**：HRV（心率变异性）生物反馈是连接正念练习与生理恢复的可量化桥梁。本章提供 HRV 监测的临床原理、操作协议和与正念整合的方案。

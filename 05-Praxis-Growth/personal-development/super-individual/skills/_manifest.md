@@ -4,21 +4,19 @@ module_name: 领导力评估模块
 module_name_en: Leadership Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_015
-    skill_name: 领导力与影响力评估
-    filename: Leadership_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/self-regulation/anti-anxiety/Anxiety_Assessment_Skill.md"
-    relation: "skill/id/assessment"
-  - path: "02-Mind-Psychology/psychology/clinical/depression/skills/_manifest.md"
-    relation: "skill/id/assessment"
-  - path: "02-Mind-Psychology/relationships/clinical-practice/skills/_manifest.md"
-    relation: "skill/id/assessment"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Fragile_Ego_Assessment_Skill.md"
-    relation: "skill/id/assessment"
+skills: 
+- skill_id: S_015
+skill_name: 领导力与影响力评估
+filename: Leadership_Assessment_Skill.md
+cross_refs: 
+- path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Fragile_Ego_Assessment_Skill.md"
+relation: "skill/id/assessment"
+title: "领导力评估模块清单"
+description: "领导力评估模块清单 —— 相关领域的内容文档"
+category: "实践与个人增长 > personal-development"
+last_updated: "2026-06"
 ---
+
 
 # 领导力评估模块清单
 

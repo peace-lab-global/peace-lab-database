@@ -13,6 +13,7 @@ intent_queries:
   - "知识权威恋物的方法与实践"
 trigger_keywords: ["知识权威恋物", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 知识权威恋物
 

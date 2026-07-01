@@ -15,7 +15,14 @@ trigger_keywords: ["Mbct", "Relapse", "Prevention"]
 cross_refs:
   - path: "03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md"
     relation: "身体扫描/觉察/呼吸"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 ## 5. MBCT详解：预防抑郁复发
 
 ### 5.1 MBCT 的核心创新

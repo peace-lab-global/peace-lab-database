@@ -1226,3 +1226,15 @@ graph TD
 
 > **最后更新**：2026-05  
 > **维护说明**：本文件为职场冥想与企业正念领域的专业概述，内容基于截至2026年的研究证据与行业实践。建议在实施具体项目时，结合最新研究进展和本土组织情境进行调整。
+
+---
+
+## 参考文献 | References
+
+- Lomas, T., Medina, J. C., Ivtzan, I., Rupprecht, S., & Eiroa-Orosa, F. J. (2017). A systematic review and meta-analysis of workplace mindfulness training. *Journal of Occupational Health Psychology*, *22*(2), 226-265. https://doi.org/10.1037/ocp0000048
+- Hulsheger, U. R., Alberts, H. J. E. M., Feinholdt, A., & Lang, J. W. B. (2013). Benefits of mindfulness at work. *Journal of Applied Psychology*, *98*(2), 310-325. https://doi.org/10.1037/a0031313
+- Wolever, R. Q., Bobinet, K. J., McCabe, K., et al. (2012). Effective and viable mind-body stress reduction in the workplace. *Journal of Occupational Health Psychology*, *17*(2), 246-258. https://doi.org/10.1037/a0027278
+- Aikens, K. A., Astin, J., Pelletier, K. R., et al. (2014). Mindfulness goes to work. *Journal of Occupational and Environmental Medicine*, *56*(7), 720-731. https://doi.org/10.1097/JOM.0000000000000209
+- Glomb, T. M., Duffy, M. K., Bono, J. E., & Yang, T. (2011). Mindfulness at work. *Research in Personnel and Human Resources Management*, *30*, 115-157. https://doi.org/10.1108/S0742-7301(2011)0000030005
+- Dane, E., & Brummel, B. J. (2014). Examining workplace mindfulness and its relations to job performance. *Journal of Management*, *40*(7), 1896-1923. https://doi.org/10.1177/0149206312445415
+- Shonin, E., Van Gordon, W., Dunn, T. J., et al. (2014). Meditation awareness training for work-related wellbeing. *International Journal of Mental Health and Addiction*, *12*(4), 401-414. https://doi.org/10.1007/s11469-014-9489-0

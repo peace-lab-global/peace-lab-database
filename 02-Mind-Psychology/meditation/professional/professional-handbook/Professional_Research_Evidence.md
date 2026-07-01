@@ -311,3 +311,17 @@ AND ("2020"[PDat] : "2026"[PDat])
 ---
 
 *相关阅读：[教学实务](Professional_Teaching_Practice.md) · [安全管理](Professional_Safety_Management.md) · [考试认证](Professional_Exam_Certification.md) · [神经科学机制](../overview/Meditation_Neuroscience_Mechanisms.md) · [临床应用](../overview/Meditation_Clinical_Applications.md)*
+
+---
+
+## 参考文献 | References
+
+- Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, *174*(3), 357-368. https://doi.org/10.1001/jamainternmed.2013.13018
+- Khoury, B., Lecomte, T., Fortin, G., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005
+- Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders. *Clinical Psychology Review*, *59*, 52-60. https://doi.org/10.1016/j.cpr.2017.10.011
+- Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, *16*(4), 213-225. https://doi.org/10.1038/nrn3916
+- Creswell, J. D. (2017). Mindfulness interventions. *Annual Review of Psychology*, *68*, 491-516. https://doi.org/10.1146/annurev-psych-042716-051139
+- Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, *7*(1), 37-50. https://doi.org/10.1177/2167702618772296
+- Crane, R. S., Brewer, J., Feldman, C., et al. (2017). What defines mindfulness-based programs? *Psychological Medicine*, *47*(6), 990-999. https://doi.org/10.1017/S0033291716003317
+- Davidson, R. J., Kabat-Zinn, J., Schumacher, J., et al. (2003). Alterations in brain and immune function produced by mindfulness meditation. *Psychosomatic Medicine*, *65*(4), 564-570. https://doi.org/10.1097/01.PSY.0000077505.67574.E3
+- Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice*, *11*(3), 230-241. https://doi.org/10.1093/clipsy.bph077

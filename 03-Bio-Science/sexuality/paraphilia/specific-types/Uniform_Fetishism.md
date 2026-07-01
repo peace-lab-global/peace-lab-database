@@ -13,6 +13,7 @@ intent_queries:
   - "制服恋物的方法与实践"
 trigger_keywords: ["制服恋物", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 制服恋物
 

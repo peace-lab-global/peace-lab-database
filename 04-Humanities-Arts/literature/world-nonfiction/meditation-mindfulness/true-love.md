@@ -17,6 +17,7 @@ cross_refs:
     relation: "佛教/thich/hanh"
   - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/guided-courses/Series_10_Love_Relationships.md"
     relation: "love/亲密关系/倾听"
+status: "stub"
 ---
 # 《真爱》True Love
 

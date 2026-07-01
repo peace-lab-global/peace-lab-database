@@ -5,36 +5,24 @@ skill_name_en: Self-Esteem & Self-Worth Assessment
 version: 1.0
 role: entry
 category: assessment
-entry_trigger:
-  keywords:
-    - "自卑"
-    - "自信"
-    - "自我价值"
-    - "自尊"
-    - "不配得"
-    - "自我否定"
-    - "玻璃心"
-    - "敏感"
-    - "在意别人看法"
+entry_trigger: 
+keywords: 
 estimated_duration: 10-15分钟
 evidence_level: A
-related_skills:
-  - S_012
-  - S_003
-  - S_014
-  - S_019
-tags:
-  - self-esteem
-  - self-worth
-  - self-compassion
-  - cognitive-restructuring
-  - assessment
+related_skills: 
 author: Peace Lab Psychology Team
 last_updated: 2025-01-01
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
-    relation: "自尊/自我价值/抑郁"
+cross_refs: 
+- path: "03-Bio-Science/sexuality/sexual-anxiety-china/Psychological_Impact_Trauma.md"
+relation: "自尊/自我价值/抑郁"
+title: "自尊与自我价值评估 | Self-Esteem & Self-Worth Assessment"
+description: "本技能提供一套系统化的自尊与自我价值评估框架，整合 Rosenberg
+自尊量表（RSES）、自我慈悲量表（SCS）、Beck 认知三角及内在
+批评者类型识别四大核心模块。旨在帮助用户客观认识自身自尊水平，
+识别导致低自尊的认知模式，并提供分级干预建议。"
+tags: ["psychology"]
 ---
+
 
 # 自尊与自我价值评估 | Self-Esteem & Self-Worth Assessment
 

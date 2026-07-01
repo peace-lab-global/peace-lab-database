@@ -13,7 +13,19 @@ intent_queries:
   - "失眠临床应用的方法与实践"
 trigger_keywords: ["失眠临床应用", "Insomnia", "Clinical", "Applications"]
 cross_refs: []
+mirror_of: "../../../02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Clinical.md"
+status: "mirror"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
+> ⚠️ **本文档为镜像副本**
+> **权威版本**: [失眠临床应用 (Insomnia Clinical Applications)](../../../02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Clinical.md)
+
 # 失眠临床应用 (Insomnia Clinical Applications)
 
 > **目标**：系统化的失眠临床应用指南，涵盖特殊人群、共病失眠、治疗流程、复发预防及自助资源。
@@ -121,3 +133,41 @@ cross_refs: []
 | **难治性失眠** | 专科CBT-I治疗 | 标准CBT-I无效 | 睡眠心理学家 | 高级CBT-I技术 | 转介信详细 | 考虑隐匿性病因 |
 | **慢性疼痛** | 疼痛专科管理 | 疼痛显著影响睡眠 | 疼痛科 | 疼痛控制 | 疼痛-失眠协同治疗 | 打破疼痛-失眠恶性循环 |
 | **物质滥用** | 成瘾专科治疗 | 酒精或药物依赖 | 成瘾医学科 | 戒断与康复 | 失眠是复发高危因素 | 戒断后失眠可能加重需支持 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Edinger, J. D., Arnedt, J. T., Bertisch, S. M., et al. (2021). Behavioral and psychological treatments for chronic insomnia: A clinical practice guideline from the American College of Physicians. *Annals of Internal Medicine*, *174*(1), 86-93. https://doi.org/10.7326/M20-7534
+- Qaseem, A., Kansagara, D., Forciea, M. A., Cooke, M., & Denberg, T. D. (2016). Management of chronic insomnia disorder in adults: A clinical practice guideline from the American College of Physicians. *Annals of Internal Medicine*, *165*(2), 125-133. https://doi.org/10.7326/M15-2175
+- Morin, C. M., Bootzin, R. R., Buysse, D. J., Edinger, J. D., Espie, C. A., & Lichstein, K. L. (2006). Psychological and behavioral treatment of insomnia: An update of recent evidence (1998-2004). *Sleep*, *29*(11), 1398-1414. https://doi.org/10.1093/sleep/29.11.1398
+- Trauer, J. M., Qian, M. Y., Doyle, J. S., Rajaratnam, S. M., & Cunnington, D. (2015). Cognitive behavioral therapy for chronic insomnia: A systematic review and meta-analysis. *Annals of Internal Medicine*, *163*(3), 191-204. https://doi.org/10.7326/M14-2841
+- van Straten, A., van der Zweerde, T., Kleiboer, A., Cuijpers, P., Morin, C. M., & Lancee, J. (2018). Cognitive and behavioral therapies in the treatment of insomnia: A meta-analysis. *Sleep Medicine Reviews*, *38*, 3-16. https://doi.org/10.1016/j.smrv.2017.02.001

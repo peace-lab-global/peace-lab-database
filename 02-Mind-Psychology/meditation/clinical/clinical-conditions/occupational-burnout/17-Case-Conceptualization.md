@@ -13,7 +13,14 @@ intent_queries:
   - "17. 案例概念化：从评估到干预 | Case Conceptualization的方法与实践"
 trigger_keywords: ["17.", "案例概念化：从评估到干预", "Case", "Conceptualization"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 17. 案例概念化：从评估到干预 | Case Conceptualization
 
 > **文档定位**：本章提供三个典型倦怠案例的完整概念化——从初步评估、理论假设到干预方案设计，供临床工作者参考。

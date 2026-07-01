@@ -4,6 +4,7 @@ description: "02-Mind-Psychology | 心智与心理学 —— 心智与心理学 
 category: "心智与心理学"
 tags: ["addiction", "anxiety", "attachment", "depression", "schizophrenia", "personality"]
 last_updated: "2026-05"
+disclaimer: true
 difficulty: "advanced"
 reading_level: "advanced"
 estimated_read_time: "10min"
@@ -20,6 +21,27 @@ cross_refs:
 # 02-Mind-Psychology | 心智与心理学
 
 > 整合现代心理学流派、测评工具、循证疗法及冥想技术。
+
+---
+
+## ⚠️ 全局免责声明 | Global Disclaimer
+
+> 本知识库为**教育性资源**,所有内容仅供学习与研究。
+
+**重要提醒**:
+
+- 🧠 本支柱涉及临床心理学、精神医学等专业内容
+- 💊 心理治疗与药物使用需在专业指导下进行
+- 🧘 冥想与正念练习不适合所有人(急性精神危机需谨慎)
+- 📞 如有心理困扰、情绪危机、自杀念头,请立即:
+  1. 联系当地急救电话或心理危机干预热线
+  2. 寻求专业心理健康服务
+  3. 不要仅依据本知识库内容做出医疗决策
+
+**24小时心理援助热线(中国)**:
+- 北京心理危机研究与干预中心:010-82951332
+- 全国心理援助热线:400-161-9995
+- 详细资源见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
 
 ---
 
@@ -194,7 +216,7 @@ cross_refs:
 - [冥想心念管理方法论 (Mind Management)](meditation/foundations/overview/Meditation_Mind_Management.md)
 - [冥想哲学认知论基础 (Philosophical Foundations)](meditation/foundations/overview/Meditation_Philosophical_Foundations.md)
 - [冥想脑科学基础 (Brain Science)](meditation/foundations/overview/Meditation_Brain_Science_Foundations.md)
-- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/courses/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
+- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
 - [直接认知/直指体系 (Direct Recognition)](meditation/traditions/buddhist/direct-recognition/)
 - [坛城与曼荼罗体系 (Mandala)](meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md)
 - [萨提亚家族治疗模式 (Satir Model)](meditation/clinical/satir-model/Satir_Model_Overview.md)
@@ -243,3 +265,32 @@ cross_refs:
 
 ---
 *返回根目录 [README.md](./)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

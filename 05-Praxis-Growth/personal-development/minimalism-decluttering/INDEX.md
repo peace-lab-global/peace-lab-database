@@ -3,7 +3,7 @@ title: "minimalism-decluttering | Index"
 description: "minimalism-decluttering | Index —— 个人发展 · 极简主义 专题"
 category: "实践与个人增长 > 个人发展 > 极简主义"
 tags: ["个人发展", "极简主义", "minimalism"]
-last_updated: "2026-05"
+last_updated: "2026-06"
 difficulty: "beginner"
 reading_level: "beginner"
 estimated_read_time: "5min"
@@ -20,6 +20,7 @@ cross_refs:
 
 ## 内容索引 | Contents
 
+- [Minimalism Overview 极简主义概述](Minimalism_Overview.md)
 - [Minimalism Decluttering Overview](Minimalism_Decluttering_Overview.md)
 - [Minimalism Decluttering Practice Guide](Minimalism_Decluttering_Practice_Guide.md)
 - [Minimalism Hoarding Comparison](Minimalism_Hoarding_Comparison.md)

@@ -6,16 +6,16 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/infidelity/Betrayed_Partner_Trauma.md"
-    relation: "羞耻/自我价值"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Criticism_Rejection_Coping.md"
-    relation: "羞耻/自我价值"
-  - path: "02-Mind-Psychology/psychology/self-regulation/resilience-fragile-ego/Fragile_Ego_Psychology.md"
-    relation: "羞耻/自我价值"
-  - path: "02-Mind-Psychology/relationships/infidelity/Unfaithful_Partner_Growth.md"
-    relation: "羞耻/沟通"
+cross_refs: 
+- path: "02-Mind-Psychology/relationships/infidelity/Unfaithful_Partner_Growth.md"
+relation: "羞耻/沟通"
+description: "身份认同支持：
+• 身体变化的正常化教育
+• 多元美丽标准的引入
+• 自我价值的多元化建构"
+last_updated: "2026-06"
 ---
+
 
 # 身体羞耻障碍特殊人群临床指南
 

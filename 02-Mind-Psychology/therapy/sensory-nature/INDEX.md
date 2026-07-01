@@ -2,12 +2,13 @@
 title: 感官自然
 description: 感官治疗、森林疗法、香疗与艾灸等身体/自然取向疗法
 tags: [sensory, sound-therapy, forest-therapy, incense, aromatherapy]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/space-healing/INDEX.md"
-    relation: "forest-therapy/sensory-nature/horticultural-therapy"
-  - path: "04-Humanities-Arts/arts/horticultural-therapy/INDEX.md"
-    relation: "sensory-nature/forest-therapy/sensory"
+cross_refs: 
+- path: "04-Humanities-Arts/arts/horticultural-therapy/INDEX.md"
+relation: "sensory-nature/forest-therapy/sensory"
+category: "心智与心理学 > therapy"
+last_updated: "2026-06"
 ---
+
 
 # 感官自然 (Sensory-Nature)
 

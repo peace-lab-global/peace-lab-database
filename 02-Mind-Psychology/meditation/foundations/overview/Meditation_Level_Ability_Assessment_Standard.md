@@ -2047,3 +2047,46 @@ VR技术为冥想评估提供了高生态效度的沉浸式环境（Navarro-Haro
 - 新增附录F：跨传统详细映射（日本禅宗/韩国Seon/东南亚上座部/苏菲/基督教/道教/印度教）
 - 新增12.3经济学与可及性考量
 - 补充参考文献至52条
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Lutz, A., Slagter, H. A., Dunne, J. D., & Davidson, R. J. (2008). Attention regulation and monitoring in meditation. *Trends in Cognitive Sciences*, *12*(4), 163-169. https://doi.org/10.1016/j.tics.2008.01.005
+- Tang, Y. Y., Hölzel, B. K., & Posner, M. I. (2015). The neuroscience of mindfulness meditation. *Nature Reviews Neuroscience*, *16*(4), 213-225. https://doi.org/10.1038/nrn3916
+- Hölzel, B. K., Lazar, S. W., Gard, T., et al. (2011). How does mindfulness meditation work? Proposing mechanisms. *Perspectives on Psychological Science*, *6*(6), 537-559. https://doi.org/10.1177/1745691611419671
+- MacLean, K. A., Ferrer, E., Aichele, S. R., et al. (2010). Intensive meditation training improves perceptual discrimination and sustained attention. *Psychological Science*, *21*(6), 829-839. https://doi.org/10.1177/0956797610371339
+- Slagter, H. A., Lutz, A., Greischar, L. L., et al. (2007). Mental training affects distribution of limited brain resources. *PLoS Biology*, *5*(6), e138. https://doi.org/10.1371/journal.pbio.0050138
+- Davidson, R. J., Kabat-Zinn, J., Schumacher, J., et al. (2003). Alterations in brain and immune function produced by mindfulness meditation. *Psychosomatic Medicine*, *65*(4), 564-570. https://doi.org/10.1097/01.PSY.0000077505.67574.E3
+- Brewer, J. A., Worhunsky, P. D., Gray, J. R., et al. (2011). Meditation experience is associated with differences in default mode network activity. *PNAS*, *108*(50), 20254-20259. https://doi.org/10.1073/pnas.1112029108
+- Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, *174*(3), 357-368. https://doi.org/10.1001/jamainternmed.2013.13018
+- Josipovic, Z. (2014). Neural correlates of nondual awareness in meditation. *Annals of the New York Academy of Sciences*, *1307*(1), 9-18. https://doi.org/10.1111/nyas.12261
+- Josipovic, Z. (2010). Duality and nonduality in meditation research. *Consciousness and Cognition*, *19*(4), 1119-1121. https://doi.org/10.1016/j.concog.2010.03.016

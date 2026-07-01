@@ -1,3 +1,27 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "抑郁症治疗监测与预后 | Depression Treatment Monitoring and Prognosis"
+description: "```
+复发信号出现
+    │
+    ├── 轻度波动（PHQ-9上升<5分，<1周）
+    │       → 加强监测；增加心理社会支持；生活方式调整
+    │
+    ├── 中度恶化（PHQ-9上升3-5分，1-2周）
+    │       → 增加随访（每周）；强化心理治疗；考虑..."
+category: "临床专题 > Depression"
+tags: ["depression"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 抑郁症治疗监测与预后 | Depression Treatment Monitoring and Prognosis
 
 > **目标**：建立精神科标准的抑郁症治疗监测体系，涵盖疗效评估、换药时机、维持治疗决策、复发监测与长期预后因素。
@@ -217,3 +241,32 @@
 
 *Peace Lab Database — 抑郁症治疗监测与预后*
 *参考：APA Practice Guidelines (2019), CANMAT Guidelines (2016), STAR*D Study, 中国抑郁障碍防治指南 (2020)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

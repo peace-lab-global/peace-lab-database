@@ -13,6 +13,7 @@ intent_queries:
   - "Sleep CBTI的方法与实践"
 trigger_keywords: ["Sleep CBTI", "cbt", "心理学", "躯体与情绪"]
 cross_refs: []
+status: "stub"
 ---
 # Sleep CBTI
 

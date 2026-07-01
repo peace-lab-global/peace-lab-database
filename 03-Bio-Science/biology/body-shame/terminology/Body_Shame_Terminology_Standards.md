@@ -6,10 +6,18 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "羞耻/shame"
+cross_refs: 
+- path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+relation: "羞耻/shame"
+description: "评分标准：
+总分范围：0-52分
+0-15分：轻度身体羞耻
+16-30分：中度身体羞耻
+31-45分：重度身体羞耻
+46-52分：极重度身体羞耻"
+last_updated: "2026-06"
 ---
+
 
 # 身体羞耻障碍术语词典与标准规范
 
@@ -346,3 +354,32 @@ Brown, K. L. (2022). The psychology of body shame: Theory and treatment. Oxford 
 ---
 
 *本术语词典建立了身体羞耻障碍领域的标准化术语体系，为临床实践、科学研究和学术交流提供统一的概念框架和操作定义。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

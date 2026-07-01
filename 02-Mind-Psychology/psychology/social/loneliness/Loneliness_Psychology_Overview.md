@@ -15,6 +15,7 @@ trigger_keywords: ["心理学", "社会心理学"]
 cross_refs:
   - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md"
     relation: "lab/peace"
+status: "stub"
 ---
 # Loneliness Psychology Overview
 

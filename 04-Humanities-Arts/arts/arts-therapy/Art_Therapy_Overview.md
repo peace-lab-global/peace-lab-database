@@ -288,3 +288,32 @@ cross_refs:
 | 身体体验疗法 | 02-心理学 | [身体疗法](../../../02-Mind-Psychology/psychology/somatic-body/somatic/Somatic_Experiencing_Therapy.md) | 艺术表达与身体导向的创伤处理 |
 | 神经科学 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 艺术创作的神经美学基础 |
 | 艺术疗愈路径 | 学习路径 | [艺术疗愈](../../../_meta/learning-paths/Art_Healing_Path.md) | 绘画疗法在艺术疗愈学习中的核心定位 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

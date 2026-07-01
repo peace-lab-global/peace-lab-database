@@ -16,7 +16,14 @@ trigger_keywords: ["恐惧症治疗方法", "Phobia", "Treatment", "Methods"]
 cross_refs:
   - path: "03-Bio-Science/sexuality/paraphilia/Paraphilia_Treatment_Interventions.md"
     relation: "暴露/疗法/treatment"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 恐惧症治疗方法 (Phobia Treatment Methods)
 
 > **核心定位**: 本文档系统阐述恐惧症的循证治疗方法，以暴露疗法为核心，整合认知行为疗法、药物治疗、VR技术及新兴疗法，为临床实践提供完整的治疗工具箱。

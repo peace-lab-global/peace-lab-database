@@ -3,7 +3,10 @@ title: "冥想现代应用 | Meditation Applications"
 category: "心智与心理学 > 冥想 > 现代应用"
 last_updated: "2026-06"
 cross_refs: []
+description: "冥想现代应用 | Meditation Applications —— 相关领域的内容文档"
+tags: ["meditation"]
 ---
+
 
 # 冥想现代应用 | Meditation Applications
 

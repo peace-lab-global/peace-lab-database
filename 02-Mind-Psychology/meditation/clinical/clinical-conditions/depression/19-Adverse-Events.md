@@ -13,7 +13,14 @@ intent_queries:
   - "Adverse Events的方法与实践"
 trigger_keywords: ["Adverse", "Events"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 ## 19. 困难体验与不良事件监测
 
 > **说明**：正念并非总是"安全"的。在特定条件下，正念练习可能引发或加重困难的心理体验——从短暂的不适到严重的解离、惊恐发作、甚至精神病性症状。作为负责任的临床工作者，必须能够识别、分类、监测这些不良事件，并知道何时需要暂停正念、转介精神科。

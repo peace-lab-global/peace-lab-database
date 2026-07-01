@@ -6,41 +6,41 @@ version: 1.0
 role: intervention
 category: intervention
 filename: HPA_Axis_Regulation_Skill.md
-entry_trigger:
-  keywords: ["HPA轴", "下丘脑垂体肾上腺", "肾上腺", "肾上腺功能", "应激系统"]
-  scenarios: ["用户已完成评估需要HPA轴整体调节", "用户描述肾上腺相关症状"]
-prerequisites:
-  - S_001
+entry_trigger: 
+keywords: ["HPA轴", "下丘脑垂体肾上腺", "肾上腺", "肾上腺功能", "应激系统"]
+scenarios: ["用户已完成评估需要HPA轴整体调节", "用户描述肾上腺相关症状"]
+prerequisites: 
 prerequisite_logic: AND
-entry_criteria:
-  - Q: "压力评估是否已完成？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否有HPA轴相关主诉（极度疲劳/应激反应异常/节律紊乱）？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否有HPA轴相关主诉（极度疲劳/应激反应异常/节律紊乱）？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - hpa_regulation_plan_v1
-contraindications:
-  - "严重肾上腺功能不全 → 立即建议内分泌科"
-  - "正在服用泼尼松等药物 → 需医疗评估"
+outputs: 
+contraindications: 
 estimated_duration: 10-15分钟
 evidence_level: B
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
-cross_refs:
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Formation_Mechanisms_Analysis.md"
-    relation: "hpa/肾上腺/应激"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Clinical_Applications.md"
-    relation: "hpa/皮质醇/肾上腺"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Overview.md"
-    relation: "hpa/肾上腺/应激"
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
-    relation: "hpa/应激/肾上腺"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
+cross_refs: 
+- path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Stress_Response.md"
+relation: "hpa/应激/肾上腺"
+title: "HPA轴功能调节技能"
+description: "```
+下丘脑（室旁核PVN）
+      ↓ CRH + AVP
+垂体前叶
+      ↓ ACTH
+肾上腺皮质（束状带）
+      ↓ 皮质醇
+全身组织（负反馈抑制）
+```"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # HPA轴功能调节技能
 
@@ -287,3 +287,32 @@ HPA轴调节决策树
 ---
 
 *本技能提供HPA轴功能调节的自我管理指导，不替代医学诊断。如症状严重或持续，建议寻求内分泌科或相关医疗专业人士评估。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

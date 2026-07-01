@@ -206,3 +206,32 @@ cross_refs: []
 | 内涵：技法与进阶 | [Walking_Mindful_Techniques.md](../walking/Walking_Mindful_Techniques.md) | 七大步行冥想核心技法 + 五阶段进阶路径 |
 | 外延：整合应用 | [Walking_Integration_Practices.md](../walking/Walking_Integration_Practices.md) | 孤独感五大实践 + 独处质量五大实践 + 跨领域整合 |
 | 疗愈：方案与剂量 | [Walking_Clinical_Protocols.md](../walking/Walking_Clinical_Protocols.md) | 六大临床方案 + 身心灵整合效应 + 剂量指南 + 整合方案 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

@@ -20,7 +20,14 @@ cross_refs:
     relation: "障碍/disorders/神经可塑性"
   - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
     relation: "冥想/障碍/meditation"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 冥想与焦虑障碍 | Meditation and Anxiety Disorders
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide
@@ -346,3 +353,44 @@ Level 4: 急性焦虑危机
 ---
 
 *Peace Lab Database — 冥想与焦虑障碍临床指南*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, *36*(5), 427-440. https://doi.org/10.1007/s10608-012-9476-1
+- Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, *7*(1), 37-50. https://doi.org/10.1177/2167702618772296
+- Hoge, E. A., Bui, E., Marques, L., et al. (2013). Randomized controlled trial of mindfulness meditation for generalized anxiety disorder. *Journal of Clinical Psychiatry*, *74*(8), 786-792. https://doi.org/10.4088/JCP.12m08083
+- Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: The GAD-7. *Archives of Internal Medicine*, *166*(10), 1092-1097. https://doi.org/10.1001/archinte.166.10.1092
+- Khoury, B., Lecomte, T., Fortin, G., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005
+- Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders. *Clinical Psychology Review*, *59*, 52-60. https://doi.org/10.1016/j.cpr.2017.10.011
+- Arch, J. J., & Craske, M. G. (2008). Acceptance and commitment therapy and cognitive behavioral therapy for anxiety disorders: Different treatments, similar mechanisms? *Clinical Psychology: Science and Practice*, *15*(4), 263-279. https://doi.org/10.1111/j.1468-2850.2008.00137.x
+- Reinhold, J. A., & Mandos, L. A. (2011). Generalized anxiety disorder: Epidemiology, pathophysiology, diagnosis, and treatment. *Journal of the American Osteopathic Association*, *111*(11), 640-646. https://doi.org/10.7556/jaoa.2011.111.11.640

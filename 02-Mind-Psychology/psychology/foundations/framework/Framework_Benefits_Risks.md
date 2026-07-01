@@ -48,3 +48,15 @@ cross_refs: []
 | 专注力 | 持续注意力测试 (CPT) | 走神频率显著降低，反应时变快。 | 记录番茄钟内分心次数。 | 改善了默认模式网络 (DMN) 的过度活跃。 | MacLean, K. A., et al. (2010). Intensive meditation training improves perceptual discrimination... *Psychological Science*. |
 | 情绪调节 | PANAS量表 | 正向情绪增加，负向情绪反应性降低。 | 每日心情日记打分。 | 缩短了从负面情绪中恢复的不应期 (Refractory Period)。 | Davidson, R. J. (2012). *The Emotional Life of Your Brain*. |
 | 睡眠质量 | PSQI指数 | 入睡潜伏期缩短，睡眠效率提升。 | 智能手环深睡数据。 | 主要通过降低觉醒水平 (Arousal) 来起效。 | Black, D. S., et al. (2015). Mindfulness meditation and improvement in sleep quality... *JAMA Internal Medicine*. |
+
+---
+
+## 参考文献 | References
+
+- Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, *174*(3), 357-368. https://doi.org/10.1001/jamainternmed.2013.13018
+- Khoury, B., Lecomte, T., Fortin, G., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005
+- Schlosser, M., Sparby, T., Vörös, S., Jones, R., & Marchant, N. L. (2019). Unpleasant meditation-related experiences in regular meditators: Prevalence, predictors, and conceptual considerations. *PLoS ONE*, *14*(5), e0216643. https://doi.org/10.1371/journal.pone.0216643
+- Britton, W. B., Lindahl, J. R., Cooper, D. J., Canby, N. K., & Palitsky, R. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. *Clinical Psychological Science*, *9*(6), 1185-1204. https://doi.org/10.1177/2167702621996340
+- Farias, M., & Wikholm, C. (2016). Has the science of mindfulness lost its mind? *Journal of Religion and Health*, *55*(6), 1935-1941. https://doi.org/10.1007/s10943-016-0218-2
+- Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). The varieties of contemplative experience: A mixed-methods study of meditation-related challenges in Western Buddhists. *PLoS ONE*, *12*(5), e0176239. https://doi.org/10.1371/journal.pone.0176239
+- Hanley, A. W., & Garland, E. L. (2014). Dispositional mindfulness, emotion regulation, and well-being. *Mindfulness*, *5*(5), 554-559. https://doi.org/10.1007/s12671-013-0211-9

@@ -2022,3 +2022,17 @@ graph LR
 ---
 
 *本文档为 Peace Lab 冥想课程体系的专业参考资料，与课程 C4-5「与呼吸同频」相互补充。建议在完成基础冥想课程后，结合本文进行进阶练习。*
+
+---
+
+## 参考文献 | References
+
+- Brown, R. P., & Gerbarg, P. L. (2005). Sudarshan Kriya yogic breathing in the treatment of stress, anxiety, and depression. *Journal of Alternative and Complementary Medicine*, *11*(1), 189-201. https://doi.org/10.1089/acm.2005.11.189
+- Jerath, R., Edry, J. W., Barnes, V. A., & Jerath, V. (2006). Physiology of long pranayamic breathing. *Medical Hypotheses*, *67*(3), 566-571. https://doi.org/10.1016/j.mehy.2006.02.042
+- Jerath, R., Crawford, M. W., Barnes, V. A., & Harden, K. (2006). Self-regulation of breathing as a primary treatment for anxiety. *Applied Psychophysiology and Biofeedback*, *31*(2), 107-115. https://doi.org/10.1007/s10484-006-9004-2
+- Ma, X., Yue, Z. Q., Gong, Z. Q., et al. (2017). The effect of diaphragmatic breathing on attention, negative affect and stress in healthy adults. *Frontiers in Psychology*, *8*, 874. https://doi.org/10.3389/fpsyg.2017.00874
+- Laborde, S., Hosang, T., Mosley, E., & Dosseville, F. (2019). Influence of a 30-day slow-paced breathing intervention. *Journal of Clinical Medicine*, *8*(2), 193. https://doi.org/10.3390/jcm8020193
+- Hamasaki, H. (2020). Effects of diaphragmatic breathing on health: A narrative review. *Medicines*, *7*(10), 65. https://doi.org/10.3390/medicines7100065
+- Hopper, S. I., Murray, S. L., Ferrara, L. R., & Singleton, J. K. (2019). Effectiveness of diaphragmatic breathing for reducing physiological and psychological stress in adults. *JBI Evidence Synthesis*, *17*(9), 1867-1875. https://doi.org/10.11124/JBISRIR-2017-003996
+- Telles, S., & Desiraju, T. (1991). Oxygen consumption during pranayamic breathing. *Indian Journal of Medical Research*, *94*, 357-363.
+- Tipton, M. J., Harper, A., Paton, J. F. R., & Costello, J. T. (2017). The human ventilatory response to stress in cold water. *Journal of Applied Physiology*, *123*(1), 226-235. https://doi.org/10.1152/japplphysiol.00633.2016

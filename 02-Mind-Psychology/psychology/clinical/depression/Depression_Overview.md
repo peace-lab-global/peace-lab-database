@@ -13,7 +13,14 @@ intent_queries:
   - "Depression Overview的方法与实践"
 trigger_keywords: ["Depression", "Overview", "抑郁症概览"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # Depression Overview (抑郁症概览)
 
 > **抑郁症 (Depression / Major Depressive Disorder)**
@@ -300,3 +307,45 @@ cross_refs: []
 | 运动与心理健康 | 03-生命 | [运动心理](../../../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md) | 运动抗抑郁(BDNF) |
 | MBCT正念认知疗法 | 02-心理 | [MBCT](../../../therapy/integrative/mbct-therapy/) | 抑郁症复发预防 |
 | 摄影疗愈 | 04-人文 | [摄影疗愈](../../../../04-Humanities-Arts/arts/photography-therapy/) | 抑郁症的摄影疗愈干预 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- American Psychiatric Association (2013). *Diagnostic and statistical manual of mental disorders (5th ed.)*. https://doi.org/10.1176/appi.books.9780890425596
+- World Health Organization (2019). *International statistical classification of diseases and related health problems (11th ed.)*. https://icd.who.int/
+- Beck, A. T. (2008). The evolution of the cognitive model of depression and its neurobiological correlates. *American Journal of Psychiatry*, *165*(8), 969-977. https://doi.org/10.1176/appi.ajp.2008.08050721
+- Kessler, R. C., Berglund, P., Demler, O., Jin, R., Koretz, D., Merikangas, K. R., Rush, A. J., Walters, E. E., & Wang, P. S. (2003). The epidemiology of major depressive disorder: Results from the National Comorbidity Survey Replication (NCS-R). *JAMA*, *289*(23), 3095-3105. https://doi.org/10.1001/jama.289.23.3095
+- Kroenke, K., Spitzer, R. L., & Williams, J. B. (2001). The PHQ-9: Validity of a brief depression severity measure. *Journal of General Internal Medicine*, *16*(9), 606-613. https://doi.org/10.1046/j.1525-1497.2001.016009606.x
+- Hamilton, M. (1960). A rating scale for depression. *Journal of Neurology, Neurosurgery, and Psychiatry*, *23*(1), 56-62. https://doi.org/10.1136/jnnp.23.1.56
+- Rush, A. J., Trivedi, M. H., Wisniewski, S. R., Nierenberg, A. A., Stewart, J. W., Warden, D., ... & Fava, M. (2006). Acute and longer-term outcomes in depressed outpatients requiring one or several treatment steps: A STAR*D report. *American Journal of Psychiatry*, *163*(11), 1905-1917. https://doi.org/10.1176/ajp.2006.163.11.1905
+- Krishnan, V., & Nestler, E. J. (2008). The molecular neurobiology of depression. *Nature*, *455*(7215), 894-902. https://doi.org/10.1038/nature07455
+- Duman, R. S., & Aghajanian, G. K. (2012). Synaptic dysfunction in depression: Potential therapeutic targets. *Science*, *338*(6103), 68-72. https://doi.org/10.1126/science.1222939

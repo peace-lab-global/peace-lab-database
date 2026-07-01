@@ -13,6 +13,7 @@ intent_queries:
   - "Playlists | 精选歌单的方法与实践"
 trigger_keywords: ["Playlists", "精选歌单", "loneliness", "music", "媒体"]
 cross_refs: []
+status: "stub"
 ---
 # Playlists | 精选歌单
 

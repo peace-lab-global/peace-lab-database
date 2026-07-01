@@ -1,3 +1,28 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "🌙 睡眠恢复生态主题地图 (Sleep Restoration Ecosystem)"
+description: "```mermaid
+graph TB
+    A[睡眠科学] --> B[昼夜节律]
+    A --> C[睡眠阶段]
+    A --> D[失眠总览]
+    D --> E[CBT-I 失眠认知行为]
+    D --> F[失眠干预方案]
+    A --> G[梦的科学]
+    H[..."
+category: "临床专题 > Sleep-Disorders"
+tags: ["sleep"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 🌙 睡眠恢复生态主题地图 (Sleep Restoration Ecosystem)
 
 > 睡眠-恢复-放松相关知识在五大支柱中的分布与关联网络。
@@ -54,8 +79,8 @@ graph TB
 
 ## 相关学习路径
 
-- [睡眠优化路径](../learning-paths/Sleep_Optimization_Path.md)
-- [压力韧性路径](../learning-paths/Stress_Resilience_Path.md)
+- [睡眠优化路径](Sleep_Optimization_Path.md)
+- [压力韧性路径](../../../_meta/learning-paths/Stress_Resilience_Path.md)
 
 ---
 *返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

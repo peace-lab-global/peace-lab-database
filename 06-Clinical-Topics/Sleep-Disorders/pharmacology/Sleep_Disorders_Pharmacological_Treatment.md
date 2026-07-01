@@ -1,3 +1,28 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "睡眠障碍药物治疗总览 | Pharmacological Treatment of Sleep-Wake Disorders"
+description: "```
+失眠患者
+│
+├─ 入睡困难为主？
+│   ├─ 是 → 短效：唑吡坦/扎来普隆/雷美替胺/苏沃雷生
+│   └─ 否 → 睡眠维持困难？
+│       ├─ 是 → 中长效：右佐匹克隆/达利雷生/多塞平
+│       └─ 否 → 早醒？
+│           ├─ 是 → 中长效；..."
+category: "临床专题 > Sleep-Disorders"
+tags: ["sleep"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 睡眠障碍药物治疗总览 | Pharmacological Treatment of Sleep-Wake Disorders
 
 > **目标**：系统阐述各类睡眠障碍的药物治疗策略，涵盖药物机制、剂量、适应证与安全性。

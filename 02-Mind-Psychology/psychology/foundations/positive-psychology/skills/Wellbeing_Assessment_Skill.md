@@ -5,29 +5,23 @@ skill_name_en: Well-being & Positive Psychology Assessment
 version: 1.0
 role: entry
 category: assessment
-entry_trigger:
-  keywords:
-    - "幸福"
-    - "快乐"
-    - "人生意义"
-    - "心流"
-    - "积极"
-    - "感恩"
-    - "优势"
-    - "韧性"
-    - "flourishing"
-    - "well-being"
+entry_trigger: 
+keywords: 
 estimated_duration: 10-15分钟
 evidence_level: A
-dependencies:
-  - S_003_Stress_Assessment
-  - S_005_Resilience
-  - S_010_Emotional_Intelligence
+dependencies: 
 created: 2026-05-19
 updated: 2026-05-19
 language: zh-CN
 cross_refs: []
+title: "幸福感与积极心理评估 | Well-being & Positive Psychology Assessment"
+description: "1. **PERMA幸福模型** (Seligman, 2011) — 全面评估幸福五维度
+2. **生活满意度量表** (Diener et al., 1985) — 主观幸福感金标准
+3. **VIA性格优势分类** (Peterson & Seligman, 2004) — 24项核心优势识别..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 幸福感与积极心理评估 | Well-being & Positive Psychology Assessment
 

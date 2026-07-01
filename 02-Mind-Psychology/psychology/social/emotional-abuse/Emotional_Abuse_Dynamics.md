@@ -13,6 +13,7 @@ intent_queries:
   - "Emotional Abuse Dynamics的方法与实践"
 trigger_keywords: ["心理学", "社会心理学"]
 cross_refs: []
+status: "stub"
 ---
 # Emotional Abuse Dynamics
 

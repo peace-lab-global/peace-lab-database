@@ -6,36 +6,31 @@ version: 1.0
 role: entry
 category: assessment
 filename: Burnout_Assessment_Skill.md
-entry_trigger:
-  keywords: ["倦怠", "burnout", "上班没动力", "职业疲劳", "不想上班", "工作没意义", "情绪耗竭", "去人格化"]
-  scenarios: ["用户主动描述工作倦怠感受", "用户询问如何评估自己的职业倦怠状态", "用户报告持续的工作动力下降或情绪耗竭"]
+entry_trigger: 
+keywords: ["倦怠", "burnout", "上班没动力", "职业疲劳", "不想上班", "工作没意义", "情绪耗竭", "去人格化"]
+scenarios: ["用户主动描述工作倦怠感受", "用户询问如何评估自己的职业倦怠状态", "用户报告持续的工作动力下降或情绪耗竭"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否表达了对工作的倦怠或疲惫感？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否报告了与工作相关的情绪耗竭、去人格化或成就感下降？"
-    threshold: true
-    type: boolean
-  - Q: "症状是否持续至少2周并影响日常功能？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "症状是否持续至少2周并影响日常功能？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - burnout_assessment_report_v1
-contraindications:
-  - "用户表达明确自杀念头或自杀计划 → 立即跳转危机干预技能（Crisis Intervention）"
-  - "用户出现严重抑郁症状 → 跳转抑郁评估技能（Depression Assessment）"
-  - "用户报告物质滥用 → 建议专业评估与转介"
+outputs: 
+contraindications: 
 estimated_duration: 10-15分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-05-19
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-05-19
+changes: "初始版本"
 cross_refs: []
+title: "职业倦怠评估技能"
+description: "通过结构化提问评估三个核心维度。每个项目采用 0-6 分制（0=从不，6=每天）。"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 职业倦怠评估技能
 
@@ -312,3 +307,32 @@ cross_refs: []
 | S_014 职业倦怠评估 | S_001 危机干预 | 升级转介 | 出现自杀念头 |
 | S_014 职业倦怠评估 | — HPA轴调节 | 生理支持 | 长期倦怠的生理恢复 |
 | S_014 职业倦怠评估 | — 慢性压力干预 | 干预协同 | 工作压力系统性管理 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

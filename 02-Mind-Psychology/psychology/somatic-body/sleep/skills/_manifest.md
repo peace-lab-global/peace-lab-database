@@ -4,17 +4,20 @@ module_name: 失眠评估模块
 module_name_en: Insomnia Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_012
-    skill_name: 失眠与睡眠质量评估
-    filename: Insomnia_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/science-consciousness-nde/the-spiritual-doorway-in-the-brain.md"
-    relation: "rem/睡眠/障碍"
-  - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
-    relation: "失眠/睡眠/障碍"
+skills: 
+- skill_id: S_012
+skill_name: 失眠与睡眠质量评估
+filename: Insomnia_Assessment_Skill.md
+cross_refs: 
+- path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
+relation: "失眠/睡眠/障碍"
+title: "失眠评估模块清单"
+description: ""失眠", "睡不着", "睡眠质量差", "早醒", "多梦", "入睡困难", "半夜醒", "白天困", "睡不好""
+category: "心智与心理学 > psychology"
+tags: ["psychology", "sleep"]
+last_updated: "2026-06"
 ---
+
 
 # 失眠评估模块清单
 

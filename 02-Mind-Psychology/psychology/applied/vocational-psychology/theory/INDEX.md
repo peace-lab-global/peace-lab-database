@@ -17,7 +17,10 @@ cross_refs:
     relation: "theory/psychology/contents"
   - path: "01-Wisdom-Traditions/religions/buddhism/psychology/INDEX.md"
     relation: "theory/psychology/contents"
----
+mirror_of: "../../../../../01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [theory | index](../../../../../01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md)
+
 # theory | Index
 
 ## 内容索引 | Contents

@@ -2,10 +2,13 @@
 title: 创意表达
 description: 游戏治疗、OH 卡、专注力训练等非传统治疗工具
 tags: [game-therapy, oh-cards, creative, expressive]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
-    relation: "oh/oh-cards-therapy/creative-expressive"
+cross_refs: 
+- path: "04-Humanities-Arts/arts/expressive-arts/Expressive_Arts_Cross_Reference.md"
+relation: "oh/oh-cards-therapy/creative-expressive"
+category: "心智与心理学 > therapy"
+last_updated: "2026-06"
 ---
+
 
 # 创意表达 (Creative-Expressive)
 

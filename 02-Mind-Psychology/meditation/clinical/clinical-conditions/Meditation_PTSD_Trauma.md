@@ -19,7 +19,14 @@ cross_refs:
     relation: "正念/mindfulness/table"
   - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Clinical.md"
     relation: "ptsd/创伤/创伤后应激"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 冥想与创伤后应激障碍 | Meditation and PTSD
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide
@@ -373,3 +380,45 @@ cross_refs:
 ---
 
 *Peace Lab Database — 冥想与创伤临床指南*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Bisson, J. I., Roberts, N. P., Andrew, M., Cooper, R., & Lewis, C. (2013). Psychological therapies for chronic post-traumatic stress disorder (PTSD) in adults. *Cochrane Database of Systematic Reviews*, (12), CD003388. https://doi.org/10.1002/14651858.CD003388.pub4
+- Bradley, R., Greene, J., Russ, E., Dutra, L., & Westen, D. (2005). A multidimensional meta-analysis of psychotherapy for PTSD. *American Journal of Psychiatry*, *162*(2), 214-227. https://doi.org/10.1176/appi.ajp.162.2.214
+- Foa, E. B., Keane, T. M., Friedman, M. J., & Cohen, J. A. (2009). *Effective treatments for PTSD: Practice guidelines from the International Society for Traumatic Stress Studies* (2nd ed.). Guilford Press.
+- Lang, A. J., Strauss, J. L., Bomyea, J., et al. (2012). The theoretical and empirical basis for meditation as an intervention for PTSD. *Clinical Psychology Review*, *32*(1), 24-36. https://doi.org/10.1016/j.cpr.2011.10.004
+- Kearney, D. J., McDermott, K., Malte, C., Martinez, M., & Simpson, T. L. (2013). Effects of participation in a mindfulness program for veterans with posttraumatic stress disorder: A randomized controlled pilot study. *Journal of Clinical Psychology*, *69*(1), 14-27. https://doi.org/10.1002/jclp.21911
+- King, A. P., Block, S. R., Sripada, R. K., et al. (2016). Altered default mode network (DMN) resting state functional connectivity following a mindfulness-based exposure therapy for posttraumatic stress disorder (PTSD) in combat veterans of Afghanistan and Iraq. *Depression and Anxiety*, *33*(4), 289-299. https://doi.org/10.1002/da.22481
+- Polusny, M. A., Erbes, C. R., Thuras, P., et al. (2015). Mindfulness-based stress reduction for posttraumatic stress disorder among veterans: A randomized clinical trial. *JAMA*, *314*(5), 456-465. https://doi.org/10.1001/jama.2015.8361
+- Van der Kolk, B. A. (2014). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Viking.
+- Ogden, P., Minton, K., & Pain, C. (2006). *Trauma and the body: A sensorimotor approach to psychotherapy*. W. W. Norton.

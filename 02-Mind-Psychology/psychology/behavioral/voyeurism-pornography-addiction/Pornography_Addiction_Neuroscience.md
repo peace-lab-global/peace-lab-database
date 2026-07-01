@@ -15,6 +15,7 @@ trigger_keywords: ["色情成瘾神经科学", "neuroscience", "心理学", "行
 cross_refs:
   - path: "05-Praxis-Growth/talks/yixi-talks/Psychology_Neuroscience.md"
     relation: "神经科学/todo"
+status: "stub"
 ---
 # 色情成瘾神经科学
 

@@ -6,10 +6,13 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "羞耻/shame"
+cross_refs: 
+- path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
+relation: "羞耻/shame"
+description: "身体羞耻障碍的临床评估采用多维度、多层次的综合评估框架，确保诊断的准确性和治疗方案的个性化。"
+last_updated: "2026-06"
 ---
+
 
 # 身体羞耻障碍临床评估与诊断指南
 
@@ -315,3 +318,32 @@ D. 排除其他诊断：
 ---
 
 *本评估指南基于循证医学原则制定，结合临床实践经验，为身体羞耻障碍的专业评估提供标准化框架。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

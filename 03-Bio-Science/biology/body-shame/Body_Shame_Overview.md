@@ -6,14 +6,13 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "羞耻/shame"
-  - path: "02-Mind-Psychology/psychology/emotions/INDEX.md"
-    relation: "羞耻/shame/body"
-  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
-    relation: "羞耻/shame/障碍"
+cross_refs: 
+- path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
+relation: "羞耻/shame/障碍"
+description: "身体羞耻(Body Shame)是一种复杂的心理现象，涉及个体对自己身体形态、功能或特征的负面评价和情感体验。这种羞耻感往往伴随着强烈的自我贬低、社交回避和行为退缩。"
+last_updated: "2026-06"
 ---
+
 
 # Body Shame Disorder Overview (身体羞耻障碍概览)
 

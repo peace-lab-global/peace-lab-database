@@ -6,32 +6,39 @@ version: 1.0
 role: intervention
 category: intervention
 filename: Cortisol_Management_Skill.md
-entry_trigger:
-  keywords: ["降低皮质醇", "怎么降皮质醇", "皮质醇高", "自然调节皮质醇", "皮质醇管理"]
-  scenarios: ["用户已完成皮质醇评估需要调节方案", "用户直接请求降低皮质醇的方法"]
-prerequisites:
-  - S_003
+entry_trigger: 
+keywords: ["降低皮质醇", "怎么降皮质醇", "皮质醇高", "自然调节皮质醇", "皮质醇管理"]
+scenarios: ["用户已完成皮质醇评估需要调节方案", "用户直接请求降低皮质醇的方法"]
+prerequisites: 
 prerequisite_logic: OR
-entry_criteria:
-  - Q: "皮质醇评估是否已完成？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否有明确的皮质醇调节需求？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否有明确的皮质醇调节需求？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - cortisol_management_plan_v1
-contraindications:
-  - "正在服用皮质醇类药物 → 建议医疗监督下调节"
+outputs: 
+contraindications: 
 estimated_duration: 8-12分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
 cross_refs: []
+title: "皮质醇调节方案技能"
+description: "```
+皮质醇调节决策树
+│
+├─ 目标是降低过高皮质醇？
+│   └─ 是 →
+│       ├─ 主要问题是焦虑/失眠？
+│       │   └─ 是 → 【优先级：放松技术】
+│       │           - 深度呼吸（4-7-8）
+│       │           -..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 皮质醇调节方案技能
 

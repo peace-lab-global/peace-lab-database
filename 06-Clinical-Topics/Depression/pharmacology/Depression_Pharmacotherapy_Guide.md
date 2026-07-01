@@ -1,3 +1,29 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "抑郁症药物治疗手册 | Depression Pharmacotherapy Guide"
+description: "```
+首次抑郁发作
+    │
+    ├── 伴显著焦虑/激越
+    │       → 舍曲林、艾司西酞普兰、帕罗西汀（镇静型）
+    │
+    ├── 伴失眠、食欲减退、体重下降
+    │       → 米氮平（15-30mg）
+    │
+    ├── 伴疲乏、动力缺乏、认知迟..."
+category: "临床专题 > Depression"
+tags: ["depression"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 抑郁症药物治疗手册 | Depression Pharmacotherapy Guide
 
 > **目标**：建立精神科标准的抗抑郁药物治疗体系，涵盖药物选择、剂量滴定、换药/联合/增效策略、副作用管理与特殊人群用药。
@@ -270,3 +296,32 @@
 
 *Peace Lab Database — 抑郁症药物治疗手册*
 *参考：CANMAT/ISBD Guidelines (2016), APA Practice Guidelines (2019), 中国抑郁障碍防治指南 (2020)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

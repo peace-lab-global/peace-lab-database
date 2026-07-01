@@ -1,3 +1,23 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "睡眠障碍DSM-5-TR与ICD-11分类 | Sleep-Wake Disorders Classification"
+description: "1. **活动欲望**：有移动腿部的欲望，通常伴随腿部不适感（感觉异常）
+2. **静息加重**：静息或不活动（坐位或躺卧）时症状开始或加重
+3. **活动缓解**：活动（行走或伸展）后症状部分或完全缓解
+4. **昼夜节律**：症状傍晚或夜间加重（仅严重病例可能白天也有）"
+category: "临床专题 > Sleep-Disorders"
+tags: ["sleep"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 睡眠障碍DSM-5-TR与ICD-11分类 | Sleep-Wake Disorders Classification
 
 > **目标**：建立精神科标准的睡眠-觉醒障碍诊断分类体系，涵盖DSM-5-TR与ICD-11的完整编码与诊断标准。

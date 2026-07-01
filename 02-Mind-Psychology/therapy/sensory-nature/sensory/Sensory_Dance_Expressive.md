@@ -13,6 +13,7 @@ intent_queries:
   - "Expressive Dance的方法与实践"
 trigger_keywords: ["Expressive", "Dance", "表达性舞动治疗"]
 cross_refs: []
+status: "stub"
 ---
 # Expressive Dance (表达性舞动治疗)
 

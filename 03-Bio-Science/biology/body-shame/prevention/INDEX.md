@@ -17,7 +17,10 @@ cross_refs:
     relation: "prevention/contents"
   - path: "05-Praxis-Growth/personal-development/public-speaking/INDEX.md"
     relation: "public/contents"
----
+mirror_of: "../../../../02-Mind-Psychology/relationships/clinical-practice/prevention/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [prevention | index](../../../../02-Mind-Psychology/relationships/clinical-practice/prevention/INDEX.md)
+
 # prevention | Index
 
 ## 内容索引 | Contents

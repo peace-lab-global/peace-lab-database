@@ -17,7 +17,10 @@ cross_refs:
     relation: "advanced/practice/contents"
   - path: "02-Mind-Psychology/relationships/marriage/Marriage_Daily_Practices.md"
     relation: "daily/practices"
----
+mirror_of: "../../../02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [practice | index](../../../02-Mind-Psychology/psychology/developmental/adolescent/child-adolescent-sexuality/practice/INDEX.md)
+
 # practice | Index
 
 ## 内容索引 | Contents

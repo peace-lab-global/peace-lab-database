@@ -15,7 +15,10 @@ trigger_keywords: ["theory", "发展心理学", "心理学"]
 cross_refs:
   - path: "01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md"
     relation: "theory/contents"
----
+mirror_of: "../../../../../../01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [theory | index](../../../../../../01-Wisdom-Traditions/religions/religious-psychology/theory/INDEX.md)
+
 # theory | Index
 
 ## 内容索引 | Contents

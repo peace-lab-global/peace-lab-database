@@ -18,6 +18,8 @@ cross_refs: []
 
 > 关注躯体智慧、生物机制、营养科学及健康管理。
 
+> ⚠️ **内容免责声明**:本支柱内容聚焦生命科学与生物医学知识,涉及生理、营养、运动、神经科学等领域。文档仅供学习与研究,不构成医学建议、诊断、治疗或预防。涉及个体健康决策时,请咨询合格的医疗专业人士。引用术语包括但不限于:神经递质、激素、营养干预、运动处方、补充剂、生酮饮食、间歇性禁食等。所有剂量、机制说明须以原始研究为准。
+
 ---
 
 ## 📚 阅读路径建议 | Reading Path Guide
@@ -63,7 +65,7 @@ cross_refs: []
 | 1 | [神经科学与生物反馈](biology/brain/Brain_Neurofeedback_Overview.md) | 掌握神经反馈技术 | 40分钟 |
 | 2 | [延长断食专题](foods/fasting/extended-fasting/) | 深入理解断食的科学 | 35分钟 |
 | 3 | [疼痛科学体系](biology/pain-science/Pain_Science_Overview.md) | 理解疼痛的全貌 | 45分钟 |
-| 4 | [死亡与临终全览](death/Death_Contemplation_Overview.md) | 建立死亡科学认知 | 40分钟 |
+| 4 | [死亡与临终全览](death/philosophy-culture/Death_Contemplation_Overview.md) | 建立死亡科学认知 | 40分钟 |
 
 **适合**: 健康管理从业者，或希望系统学习生命科学前沿的读者。
 
@@ -204,42 +206,42 @@ cross_refs: []
 - [多元性实践研究 (Swinging & Practices)](sexuality/swinging/)
 
 ### 5. 🍂 死亡、临终与生命哲学 (Death & Life Philosophy) — [完整知识地图](death/INDEX.md) **[EXPANDED]**
-- [死亡沉思概览 (Death Contemplation)](death/Death_Contemplation_Overview.md) — 白骨观、死亡观、向死而生概览
-- [死亡焦虑概览 (Death Anxiety)](death/Death_Anxiety_Overview.md) — 全谱：理论/神经生物/评估/发展轨迹
-- [死亡焦虑治疗 (Death Anxiety Treatment)](death/Death_Anxiety_Treatment.md) — 存在/意义/CBT/ACT/正念/药物整合
-- [猝死恐惧与心脏焦虑 (Sudden Death Fear)](death/Death_Anxiety_Sudden_Death_Fear.md) — Clark模型/医学鉴别
-- [死亡存在主义心理 (Existential Psychology)](death/Death_Existential_Psychology.md) — Heidegger/Becker/Nagel深度解读 **[EXPANDED]**
-- [死亡冥想实践 (Death Meditation)](death/Death_Meditation_Practices.md) — 宗教/心理/社会学三维度：南传/藏传/禅宗/道家/印度教/基督教体系、认知-情绪-神经机制、仪式理论、12周综合课程 **[EXPANDED]**
-- [濒死体验与临终意识 (NDE)](death/Death_NDE_Near_Death_Experience.md) — Greyson量表/AWARE研究/神经假说 **[NEW]**
-- [尊严疗法与安宁疗护 (Dignity Therapy)](death/Death_Dignity_Therapy_Palliative_Care.md) — Chochinov模型/症状管理/ACP **[NEW]**
-- [西方死亡哲学经典导读 (Western Classics)](death/Death_Western_Philosophy_Classics.md) — Epicurus/Montaigne/Tolstoy/Camus/Scheffler/Gawande **[NEW]**
-- [当代死亡议题 (Modern Issues)](death/Death_Modern_Issues.md) — 数字永生/MAiD/生态死亡学/气候哀伤 **[NEW]**
-- [死亡观跨传统深度解析 (Traditional Views)](death/Death_Traditional_Views_Deep_Dive.md) — 佛/道/禅/基督/印度教 **[NEW]**
-- [跨文化临终仪式对比 (Cultural Rituals)](death/Death_Cultural_Rituals_Comparison.md) — 墨西哥/日本/非洲/藏/印度/爱尔兰 **[NEW]**
-- [现代应用总览 (Modern Applications)](death/Death_Modern_Applications.md) — 死亡咖啡馆/死亡教育/死亡Doula/绿色殡葬/生前规划 **[NEW]**
-- [数字哀伤科技 (Grief Technology)](death/Death_Grief_Technology.md) — AI纪念/VR追思/数字墓碑/社交媒体哀悼 **[NEW]**
-- [临床与职场应用 (Clinical & Workplace)](death/Death_Clinical_Workplace_Applications.md) — 安宁团队/企业临终福利/数字化干预/工作坊设计 **[NEW]**
-- [儿童与青少年 (Children & Adolescents)](death/Death_Children_Adolescents.md) — Piaget/Nagy死亡概念阶段、哀伤干预、学校危机、自杀预防 **[NEW]**
-- [自杀学与边界 (Suicidology & Boundary)](death/Death_Suicidology_Boundary.md) — 死亡焦虑 vs 自杀意念、临床安全、MAiD鉴别、自杀遗族 **[NEW]**
-- [评估与测量 (Assessment & Measures)](death/Death_Assessment_Measures.md) — DAP-R/C-SSRS/临终质量/灵性评估整合手册 **[NEW]**
-- [哀伤-死亡桥接 (Grief Bridge)](death/Death_Grief_Bridge.md) — 预感性哀伤、双重历程、持续性联结、四道人生 **[NEW]**
-- [集体创伤 (Collective Trauma)](death/Death_Collective_Trauma.md) — 战争/灾难/COVID-19/种族灭绝/模糊丧失/代际创伤 **[NEW]**
-- [艺术与死亡 (Art & Death)](death/Death_Art_Death.md) — 虚空画、死亡舞蹈、死亡摄影、文学、音乐、电影 **[NEW]**
-- [生物伦理学 (Bioethics)](death/Death_Bioethics.md) — 脑死亡、预立指示、器官捐献、MAiD、基因编辑 **[NEW]**
-- [比较哲学 (Comparative Philosophy)](death/Death_Comparative_Philosophy.md) — 孔子vs苏格拉底、庄子vs伊壁鸠鲁、禅宗vs海德格尔 **[NEW]**
+- [死亡沉思概览 (Death Contemplation)](death/philosophy-culture/Death_Contemplation_Overview.md) — 白骨观、死亡观、向死而生概览
+- [死亡焦虑概览 (Death Anxiety)](death/death-anxiety/Death_Anxiety_Overview.md) — 全谱：理论/神经生物/评估/发展轨迹
+- [死亡焦虑治疗 (Death Anxiety Treatment)](death/death-anxiety/Death_Anxiety_Treatment.md) — 存在/意义/CBT/ACT/正念/药物整合
+- [猝死恐惧与心脏焦虑 (Sudden Death Fear)](death/death-anxiety/Death_Anxiety_Sudden_Death_Fear.md) — Clark模型/医学鉴别
+- [死亡存在主义心理 (Existential Psychology)](death/philosophy-culture/Death_Existential_Psychology.md) — Heidegger/Becker/Nagel深度解读 **[EXPANDED]**
+- [死亡冥想实践 (Death Meditation)](death/education-practice/Death_Meditation_Practices.md) — 宗教/心理/社会学三维度：南传/藏传/禅宗/道家/印度教/基督教体系、认知-情绪-神经机制、仪式理论、12周综合课程 **[EXPANDED]**
+- [濒死体验与临终意识 (NDE)](death/end-of-life/Death_NDE_Near_Death_Experience.md) — Greyson量表/AWARE研究/神经假说 **[NEW]**
+- [尊严疗法与安宁疗护 (Dignity Therapy)](death/end-of-life/Death_Dignity_Therapy_Palliative_Care.md) — Chochinov模型/症状管理/ACP **[NEW]**
+- [西方死亡哲学经典导读 (Western Classics)](death/philosophy-culture/Death_Western_Philosophy_Classics.md) — Epicurus/Montaigne/Tolstoy/Camus/Scheffler/Gawande **[NEW]**
+- [当代死亡议题 (Modern Issues)](death/education-practice/Death_Modern_Issues.md) — 数字永生/MAiD/生态死亡学/气候哀伤 **[NEW]**
+- [死亡观跨传统深度解析 (Traditional Views)](death/philosophy-culture/Death_Traditional_Views_Deep_Dive.md) — 佛/道/禅/基督/印度教 **[NEW]**
+- [跨文化临终仪式对比 (Cultural Rituals)](death/philosophy-culture/Death_Cultural_Rituals_Comparison.md) — 墨西哥/日本/非洲/藏/印度/爱尔兰 **[NEW]**
+- [现代应用总览 (Modern Applications)](death/education-practice/Death_Modern_Applications.md) — 死亡咖啡馆/死亡教育/死亡Doula/绿色殡葬/生前规划 **[NEW]**
+- [数字哀伤科技 (Grief Technology)](death/education-practice/Death_Grief_Technology.md) — AI纪念/VR追思/数字墓碑/社交媒体哀悼 **[NEW]**
+- [临床与职场应用 (Clinical & Workplace)](death/clinical-applications/Death_Clinical_Workplace_Applications.md) — 安宁团队/企业临终福利/数字化干预/工作坊设计 **[NEW]**
+- [儿童与青少年 (Children & Adolescents)](death/education-practice/Death_Children_Adolescents.md) — Piaget/Nagy死亡概念阶段、哀伤干预、学校危机、自杀预防 **[NEW]**
+- [自杀学与边界 (Suicidology & Boundary)](death/clinical-applications/Death_Suicidology_Boundary.md) — 死亡焦虑 vs 自杀意念、临床安全、MAiD鉴别、自杀遗族 **[NEW]**
+- [评估与测量 (Assessment & Measures)](death/clinical-applications/Death_Assessment_Measures.md) — DAP-R/C-SSRS/临终质量/灵性评估整合手册 **[NEW]**
+- [哀伤-死亡桥接 (Grief Bridge)](death/grief-bereavement/Death_Grief_Bridge.md) — 预感性哀伤、双重历程、持续性联结、四道人生 **[NEW]**
+- [集体创伤 (Collective Trauma)](death/grief-bereavement/Death_Collective_Trauma.md) — 战争/灾难/COVID-19/种族灭绝/模糊丧失/代际创伤 **[NEW]**
+- [艺术与死亡 (Art & Death)](death/philosophy-culture/Death_Art_Death.md) — 虚空画、死亡舞蹈、死亡摄影、文学、音乐、电影 **[NEW]**
+- [生物伦理学 (Bioethics)](death/clinical-applications/Death_Bioethics.md) — 脑死亡、预立指示、器官捐献、MAiD、基因编辑 **[NEW]**
+- [比较哲学 (Comparative Philosophy)](death/philosophy-culture/Death_Comparative_Philosophy.md) — 孔子vs苏格拉底、庄子vs伊壁鸠鲁、禅宗vs海德格尔 **[NEW]**
 - [文献资源索引 (Resources & Bibliography)](death/Death_Resources_Bibliography.md) — 经典书籍、量表工具、在线平台、阅读路径 **[NEW]**
-- [失智症与临终 (Dementia & End-of-Life)](death/Death_Dementia_End_of_Life.md) — 漫长的告别、ambiguous loss、预立指示失效、安宁疗护 **[NEW]**
-- [临床案例集 (Clinical Casebook)](death/Death_Clinical_Casebook.md) — 8个综合案例：存在危机/丧偶/癌症/青少年/跨文化/数字哀伤/失智症/MAiD伦理 **[NEW]**
-- [伦理遗嘱与生命回顾 (Ethical Will & Life Review)](death/Death_Ethical_Will_Life_Review_Guide.md) — 写作框架、结构化访谈、四道人生、预立清单 **[NEW]**
-- [课程维度考核 (Curriculum Alignment Audit)](death/Death_Curriculum_Alignment_Audit.md) — 12模块与ADEC/IWG/APA标准对照、完整度评估 **[NEW]**
-- [老年期临终心理 (Aging & End-of-Life)](death/Death_Aging_End_of_Life.md) — 死亡准备、Erikson第八阶段、老年自杀、孤独死、跨代对话 **[NEW]**
-- [死亡教育工作坊 (Workshop Design)](death/Death_Education_Workshop_Design.md) — 大学生/医护/企业/公众、安全协议、体验式活动、教案模板 **[NEW]**
-- [LGBTQ+死亡与哀伤 (LGBTQ+ Death & Grief)](death/Death_LGBTQ_Death_Grief.md) — 少数群体压力、HIV创伤、丧失之丧失、跨性别临终、回到衣橱 **[NEW]**
-- [精神疾病临终关怀 (Mental Illness & EOL)](death/Death_Mental_Illness_End_of_Life.md) — 决策能力、精神分裂症/双相/抑郁、MAiD伦理、整合照护 **[NEW]**
+- [失智症与临终 (Dementia & End-of-Life)](death/end-of-life/Death_Dementia_End_of_Life.md) — 漫长的告别、ambiguous loss、预立指示失效、安宁疗护 **[NEW]**
+- [临床案例集 (Clinical Casebook)](death/clinical-applications/Death_Clinical_Casebook.md) — 8个综合案例：存在危机/丧偶/癌症/青少年/跨文化/数字哀伤/失智症/MAiD伦理 **[NEW]**
+- [伦理遗嘱与生命回顾 (Ethical Will & Life Review)](death/education-practice/Death_Ethical_Will_Life_Review_Guide.md) — 写作框架、结构化访谈、四道人生、预立清单 **[NEW]**
+- [课程维度考核 (Curriculum Alignment Audit)](death/education-practice/Death_Curriculum_Alignment_Audit.md) — 12模块与ADEC/IWG/APA标准对照、完整度评估 **[NEW]**
+- [老年期临终心理 (Aging & End-of-Life)](death/end-of-life/Death_Aging_End_of_Life.md) — 死亡准备、Erikson第八阶段、老年自杀、孤独死、跨代对话 **[NEW]**
+- [死亡教育工作坊 (Workshop Design)](death/education-practice/Death_Education_Workshop_Design.md) — 大学生/医护/企业/公众、安全协议、体验式活动、教案模板 **[NEW]**
+- [LGBTQ+死亡与哀伤 (LGBTQ+ Death & Grief)](death/grief-bereavement/Death_LGBTQ_Death_Grief.md) — 少数群体压力、HIV创伤、丧失之丧失、跨性别临终、回到衣橱 **[NEW]**
+- [精神疾病临终关怀 (Mental Illness & EOL)](death/end-of-life/Death_Mental_Illness_End_of_Life.md) — 决策能力、精神分裂症/双相/抑郁、MAiD伦理、整合照护 **[NEW]**
 - [流行病学数据 (Epidemiology Data)](death/Death_Epidemiology_Data.md) — 全球死因、预期寿命、自杀率、安宁疗护、MAiD、COVID影响 **[NEW]**
-- [生前整理与终活 (Death Preparation)](death/Death_Preparation_Life.md) — 瑞典死亡清洁、日本终活、断舍离、数字遗物、按年龄段指南 **[NEW]**
-- [高风险职业死亡暴露 (High-Risk Occupations)](death/Death_High_Risk_Occupations.md) — 医护/军人/消防员/警察/记者、道德伤害、替代性创伤、韧性 **[NEW]**
-- [宠物丧失与哀伤 (Pet Loss)](death/Death_Pet_Loss.md) — 宠物哀伤、儿童与宠物、老年与宠物、安乐死决策 **[NEW]**
+- [生前整理与终活 (Death Preparation)](death/education-practice/Death_Preparation_Life.md) — 瑞典死亡清洁、日本终活、断舍离、数字遗物、按年龄段指南 **[NEW]**
+- [高风险职业死亡暴露 (High-Risk Occupations)](death/clinical-applications/Death_High_Risk_Occupations.md) — 医护/军人/消防员/警察/记者、道德伤害、替代性创伤、韧性 **[NEW]**
+- [宠物丧失与哀伤 (Pet Loss)](death/grief-bereavement/Death_Pet_Loss.md) — 宠物哀伤、儿童与宠物、老年与宠物、安乐死决策 **[NEW]**
 
 ---
 
@@ -274,3 +276,32 @@ cross_refs: []
 
 ---
 *返回根目录 [README.md](./)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

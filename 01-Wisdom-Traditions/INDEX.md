@@ -18,6 +18,9 @@ cross_refs: []
 
 > 跨越地理与时代的界限，整合古代智慧与现代科学，涵盖瑜伽、禅宗、道家及全球灵性疗愈。
 
+
+> ⚠️ **内容免责声明**:本支柱内容涉及世界主要宗教传统(佛教、道家、印度教、亚伯拉罕诸教、儒家等)、哲学流派与文化实践,旨在为读者提供学习与跨文化理解的资源。所有内容仅供学术研究与个人学习,不代表任何特定宗教组织的官方立场。涉及教义诠释、修行方法、文化习俗等内容时,请尊重传统的多样性、具体脉络与在地诠释。任何宗教/灵性实践都不应取代专业医疗、心理或法律咨询。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
 
 ## 📚 阅读路径建议 | Reading Path Guide
@@ -31,9 +34,9 @@ cross_refs: []
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
 | 1 | [瑜伽哲学 (Philosophy)](yoga/philosophy-history/Yoga_Philosophy.md) | 理解瑜伽的核心思想体系 | 30分钟 |
-| 2 | [道家哲学与宇宙论](../religions/dao/Dao_Philosophy_Cosmology.md) | 建立"道"的整体世界观 | 30分钟 |
-| 3 | [禅宗智慧与传承](../religions/zen/Zen_Wisdom_Lineage.md) | 理解禅宗的核心智慧 | 25分钟 |
-| 4 | [太极拳总览](../tai-chi/Tai_Chi_Overview.md) | 体验身心合一运动 | 20分钟 |
+| 2 | [道家哲学与宇宙论](religions/dao/Dao_Philosophy_Cosmology.md) | 建立"道"的整体世界观 | 30分钟 |
+| 3 | [禅宗智慧与传承](religions/zen/Zen_Wisdom_Lineage.md) | 理解禅宗的核心智慧 | 25分钟 |
+| 4 | [太极拳总览](tai-chi/Tai_Chi_Overview.md) | 体验身心合一运动 | 20分钟 |
 | 5 | [正念与冥想入门](#) | 建立日常冥想习惯（参考 02-Mind-Psychology） | 持续 |
 
 **适合**: 首次接触东方智慧传统的读者，希望建立基础认知和日常练习习惯。
@@ -47,10 +50,10 @@ cross_refs: []
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
 | 1 | [瑜伽经深度 (Yoga Sutra)](yoga/philosophy-history/Yoga_Sutra_Philosophical_Deep_Dive.md) | 深入瑜伽哲学核心经典 | 45分钟 |
-| 2 | [止观双运 (Samatha & Vipassana)](../religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) | 掌握佛教核心修习方法 | 40分钟 |
-| 3 | [内丹修持与路径](../religions/dao/Dao_Internal_Alchemy_Neidan.md) | 理解道家内丹学体系 | 35分钟 |
-| 4 | [佛教心理学与疗愈](../religions/buddhism/psychology/) | 连接古老智慧与现代心理学 | 30分钟 |
-| 5 | [佛教神经科学](../religions/zen/Zen_Neuroscience_Psychology.md) | 了解冥想的科学基础 | 25分钟 |
+| 2 | [止观双运 (Samatha & Vipassana)](religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) | 掌握佛教核心修习方法 | 40分钟 |
+| 3 | [内丹修持与路径](religions/dao/Dao_Internal_Alchemy_Neidan.md) | 理解道家内丹学体系 | 35分钟 |
+| 4 | [佛教心理学与疗愈](religions/buddhism/psychology/) | 连接古老智慧与现代心理学 | 30分钟 |
+| 5 | [佛教神经科学](religions/zen/Zen_Neuroscience_Psychology.md) | 了解冥想的科学基础 | 25分钟 |
 
 **适合**: 已完成初阶路径，希望深入特定传统的读者。
 
@@ -62,11 +65,11 @@ cross_refs: []
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [五家七宗法脉](../religions/zen/Zen_Five_Houses_Lineage.md) | 深入禅宗七宗传承体系 | 60分钟 |
-| 2 | [大圆满与大手印](../religions/buddhism/dzogchen/) | 藏密最高教法 | 60分钟 |
-| 3 | [高阶内丹实务](../religions/dao/Dao_Advanced_Internal_Alchemy.md) | 道家高阶修持 | 50分钟 |
-| 4 | [中观、唯识与华严](../religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md) | 大乘佛教三大体系 | 60分钟 |
-| 5 | [全球灵性比较](../religions/syncretism/) | 建立跨文化视野 | 45分钟 |
+| 1 | [五家七宗法脉](religions/zen/Zen_Five_Houses_Lineage.md) | 深入禅宗七宗传承体系 | 60分钟 |
+| 2 | [大圆满与大手印](religions/buddhism/dzogchen/) | 藏密最高教法 | 60分钟 |
+| 3 | [高阶内丹实务](religions/dao/Dao_Advanced_Internal_Alchemy.md) | 道家高阶修持 | 50分钟 |
+| 4 | [中观、唯识与华严](religions/buddhism/core-philosophy/Buddhism_Madhyamaka_Philosophy.md) | 大乘佛教三大体系 | 60分钟 |
+| 5 | [全球灵性比较](religions/syncretism/) | 建立跨文化视野 | 45分钟 |
 
 **适合**: 有志于深入研究，希望成为传播者或学者的读者。
 
@@ -135,14 +138,14 @@ cross_refs: []
 
 ### 3.5 黄帝内经养生 (Huangdi Neijing Health Cultivation)
 - [**内经养生核心体系 (Neijing Yangsheng Core)**](tcm-neijing/) - 四气调神、五脏养生、子午流注、情志调摄
-  - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/Neijing_Yangsheng_Overview.md)
-  - [内经养生实践指南 (Practice Guide)](tcm-neijing/Neijing_Yangsheng_Practice.md)
+  - [黄帝内经养生核心理论 (Core Theory)](tcm-neijing/yangsheng/Neijing_Yangsheng_Overview.md)
+  - [内经养生实践指南 (Practice Guide)](tcm-neijing/yangsheng/Neijing_Yangsheng_Practice.md)
 
 ### 3.6 ☯️ 太极拳学院体系 (Tai Chi Academy) — [完整知识地图](tai-chi/INDEX.md) **48+文档 · 13维度**
 
 **核心概览**
-- [太极拳总览](tai-chi/Tai_Chi_Overview.md) · [五大流派](tai-chi/Tai_Chi_Schools_Styles.md) · [基本功法](tai-chi/Tai_Chi_Fundamentals_Practice.md)
-- [神经科学证据](tai-chi/Tai_Chi_Neuroscience_Evidence.md) · [临床应用](tai-chi/Tai_Chi_Clinical_Applications.md) · [气功整合](tai-chi/Tai_Chi_Qigong_Integration.md) · [心理调适](tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
+- [太极拳总览](tai-chi/Tai_Chi_Overview.md) · [五大流派](tai-chi/schools-lineage/Tai_Chi_Schools_Styles.md) · [基本功法](tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md)
+- [神经科学证据](tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) · [临床应用](tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) · [气功整合](tai-chi/qigong-neigong/Tai_Chi_Qigong_Integration.md) · [心理调适](tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md)
 
 **13维度子目录**
 - [philosophy-history/](tai-chi/philosophy-history/) 哲学源流 · [schools-lineage/](tai-chi/schools-lineage/) 流派传承 · [fundamentals/](tai-chi/fundamentals/) 基本功法
@@ -194,6 +197,10 @@ cross_refs: []
   - [吠檀多哲学总览](philosophy/south-asian/india/vedanta/Vedanta_Philosophy_Overview.md)
   - [薄伽梵歌研读](philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md)
   - [奥义书智慧](philosophy/south-asian/india/vedanta/Upanishads_Wisdom.md)
+
+### 5.6 🌌 跨域主题资源 (Cross-Domain Bridges)
+- [**独处哲学资源索引 (Solitude Wisdom Bridge)**](Solitude_Wisdom_Bridge.md) — 跨智慧传统与现代心理学的"独处"主题资源桥接文档
+  - 涵盖佛教/基督教/瑜伽/冥想/CBT/哲学等六大传统中关于独处的核心智慧
 
 ---
 

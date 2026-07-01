@@ -13,6 +13,7 @@ intent_queries:
   - "恋童癖的方法与实践"
 trigger_keywords: ["恋童癖", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 恋童癖
 

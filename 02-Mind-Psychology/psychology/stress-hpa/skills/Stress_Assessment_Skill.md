@@ -6,40 +6,42 @@ version: 1.0
 role: entry
 category: assessment
 filename: Stress_Assessment_Skill.md
-entry_trigger:
-  keywords: ["压力", "焦虑", "紧张", "很累", "扛不住", "工作压力大", "生活压力大", "睡不着"]
-  scenarios: ["用户主动描述压力经历", "用户询问如何评估自己的压力状态"]
+entry_trigger: 
+keywords: ["压力", "焦虑", "紧张", "很累", "扛不住", "工作压力大", "生活压力大", "睡不着"]
+scenarios: ["用户主动描述压力经历", "用户询问如何评估自己的压力状态"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否表达了压力相关主诉？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否报告了疲劳、睡眠、情绪等症状？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否报告了疲劳、睡眠、情绪等症状？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - stress_assessment_report_v1
-contraindications:
-  - "用户正在经历急性危机（自杀念头、胸痛等）→ 跳转危机干预"
-  - "用户主诉明确为CFS → 跳转S_006"
+outputs: 
+contraindications: 
 estimated_duration: 10-15分钟
 evidence_level: B
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
-cross_refs:
-  - path: "03-Bio-Science/biology/neck-pain-acute/Neck_Pain_Prevention_Lifestyle.md"
-    relation: "睡眠/压力"
-  - path: "01-Wisdom-Traditions/tcm-neijing/Neijing_Yangsheng_Practice.md"
-    relation: "睡眠/压力"
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "压力/hpa"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "压力/睡眠"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
+cross_refs: 
+- path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
+relation: "压力/睡眠"
+title: "压力状态综合评估技能"
+description: "```
+压力类型分类决策树
+│
+├─ 持续时间 < 2周？
+│   └─ 是 → 【急性压力】
+│
+├─ 持续时间 ≥ 2周且 < 3个月？
+│   └─ 是 → 【亚慢性压力】
+│       ├─ 压力源明确且可解决 → 【可解决型慢性压力】
+│       └─ 压力源复杂或多源 → 【复合型..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 压力状态综合评估技能
 
@@ -237,3 +239,32 @@ cross_refs:
 ---
 
 *本技能提供方向性评估，不替代医学诊断。如症状持续或加重，建议寻求医疗专业人士帮助。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

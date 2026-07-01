@@ -290,3 +290,17 @@ Gottman（1999）的研究提供了有力的实证支持：在他的纵向追踪
 | 正念与情绪智力发展 | [Marriage_Mindfulness_Conflict](Marriage_Mindfulness_Conflict.md) | 正念作为发展情绪智力的核心路径——正念如何提升自我觉察和自我管理能力、正念沟通（mindful communication）的具体实践 | 阅读本文"情绪智力"板块后深入 |
 | 心理障碍对婚姻心理的影响 | [Marriage_Mental_Health_Comorbidity](Marriage_Mental_Health_Comorbidity.md) | 心理障碍作为VSA模型中"持久脆弱性"的核心因素——抑郁、焦虑、PTSD等如何系统性地影响婚姻中的认知偏差、情绪调节和依恋安全感 | 阅读本文"VSA模型"后深入 |
 | 情绪调节的愤怒管理维度 | [Marriage_Anger_Management](Marriage_Anger_Management.md) | 愤怒作为婚姻中最具破坏力的情绪——愤怒的神经生理学机制、愤怒管理的认知行为策略、以及愤怒背后的深层脆弱情绪识别 | 阅读本文"情绪调节与婚姻"和"情绪智力"后深入 |
+
+---
+
+## 参考文献 | References
+
+- Gottman, J. M., & Silver, N. (1999). *The seven principles for making marriage work*. Crown.
+- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, *59*(1), 73-81. https://doi.org/10.1037/0022-3514.59.1.73
+- Karney, B. R., & Bradbury, T. N. (1995). The longitudinal course of marital quality and stability. *Psychological Bulletin*, *118*(1), 3-34. https://doi.org/10.1037/0033-2909.118.1.3
+- Robles, T. F., Slatcher, R. B., Trombello, J. M., & McGinn, M. M. (2014). Marital quality and health: A meta-analytic review. *Psychological Bulletin*, *140*(1), 140-187. https://doi.org/10.1037/a0031859
+- Fincham, F. D., & Beach, S. R. H. (2010). Marriage in the new millennium: A decade in review. *Journal of Marriage and Family*, *72*(3), 630-649. https://doi.org/10.1111/j.1741-3737.2010.00722.x
+- Feeney, J. A. (2008). Adult romantic attachment: Developments in the study of couple relationships. In J. Cassidy & P. R. Shaver (Eds.), *Handbook of attachment: Theory, research, and clinical applications* (2nd ed., pp. 456-481). Guilford Press.
+- Hazan, C., & Shaver, P. R. (1987). Romantic love conceptualized as an attachment process. *Journal of Personality and Social Psychology*, *52*(3), 511-524. https://doi.org/10.1037/0022-3514.52.3.511
+- Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2010). *Fighting for your marriage*. Jossey-Bass.
+- Johnson, M. P. (2008). *A typology of domestic violence: Intimate terrorism, violent resistance, and situational couple violence*. Northeastern University Press.

@@ -5,18 +5,8 @@ skill_name_en: Intimate Relationship Quality Assessment
 version: 1.0
 role: entry
 category: assessment
-entry_trigger:
-  keywords:
-    - "感情"
-    - "婚姻"
-    - "伴侣"
-    - "吵架"
-    - "冷战"
-    - "出轨"
-    - "离婚"
-    - "亲密关系"
-    - "恋爱"
-    - "分手"
+entry_trigger: 
+keywords: 
 estimated_duration: 15-20分钟
 evidence_level: A
 author: Peace Lab Team
@@ -24,22 +14,18 @@ created: 2026-05-19
 last_updated: 2026-05-19
 status: active
 language: zh-CN
-related_skills:
-  - S_003
-  - S_005
-  - S_012
-  - S_018
-  - S_025
-tags:
-  - 亲密关系
-  - 婚姻
-  - 依恋
-  - 沟通
-  - 关系评估
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/Leadership_Assessment_Skill.md"
-    relation: "step/level/entry"
+related_skills: 
+cross_refs: 
+- path: "05-Praxis-Growth/personal-development/super-individual/skills/Leadership_Assessment_Skill.md"
+relation: "step/level/entry"
+title: "亲密关系质量评估 (Intimate Relationship Quality Assessment)"
+description: "```
+┌─────────────────────────────────────────────┐
+│           用户进入 (关键词触发)              │
+└──────────────────┬──────────────────────────┘..."
+tags: ["relationships"]
 ---
+
 
 # 亲密关系质量评估 (Intimate Relationship Quality Assessment)
 

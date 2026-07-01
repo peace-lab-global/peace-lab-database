@@ -6,14 +6,13 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/emotions/Shame_Emotion_Professional_Analysis.md"
-    relation: "羞耻/shame"
-  - path: "02-Mind-Psychology/psychology/emotions/INDEX.md"
-    relation: "羞耻/shame"
-  - path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
-    relation: "羞耻/shame/障碍"
+cross_refs: 
+- path: "02-Mind-Psychology/relationships/sexuality/masturbation-relationships/Masturbation_Distress_Coping.md"
+relation: "羞耻/shame/障碍"
+description: "身体羞耻障碍的预防采用经典的三级预防模型，针对不同风险水平的人群制定相应干预策略。"
+last_updated: "2026-06"
 ---
+
 
 # 身体羞耻障碍预防与公共卫生策略
 

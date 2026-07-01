@@ -9,63 +9,38 @@ language: zh-CN
 author: Peace Lab Clinical Team
 created: 2026-05-19
 updated: 2026-05-19
-entry_trigger:
-  keywords:
-    - "创伤"
-    - "噩梦"
-    - "闪回"
-    - "PTSD"
-    - "心理阴影"
-    - "童年创伤"
-    - "被虐待"
-    - "事故"
-    - "灾难"
-    - "失去亲人"
-  patterns:
-    - "我总是做噩梦"
-    - "那个画面反复出现"
-    - "不敢再经过那个地方"
-    - "听到类似的声音就害怕"
-    - "总觉得世界不安全"
-entry_criteria:
-  questions:
-    - id: EC_01
-      question: "您是否经历过或目睹过威胁生命或造成严重伤害的事件？"
-      type: boolean
-      required: true
-      answer_for_entry: true
-    - id: EC_02
-      question: "该事件是否发生在一个月以前（非急性应激阶段）？"
-      type: boolean
-      required: true
-      answer_for_entry: true
-    - id: EC_03
-      question: "该经历是否持续影响您的日常生活、睡眠或情绪？"
-      type: boolean
-      required: true
-      answer_for_entry: true
-    - id: EC_04
-      question: "您是否愿意在评估中回忆和讨论相关经历？"
-      type: boolean
-      required: true
-      answer_for_entry: true
-contraindications:
-  - condition: "当前存在自杀意念或自伤行为"
-    action: "立即跳转至 [S_002 危机干预与自杀风险评估]"
-  - condition: "急性创伤事件发生不足72小时"
-    action: "跳转至 [S_002 危机干预与自杀风险评估] 进行急性应激反应管理"
-  - condition: "当前处于精神病性发作状态"
-    action: "优先精神科转介，暂缓创伤评估"
-  - condition: "受试者明确拒绝讨论创伤经历"
-    action: "尊重自主权，提供心理教育资料后结束"
+entry_trigger: 
+keywords: 
+patterns: 
+entry_criteria: 
+questions: 
+- id: EC_04
+question: "您是否愿意在评估中回忆和讨论相关经历？"
+type: boolean
+required: true
+answer_for_entry: true
+contraindications: 
+- condition: "受试者明确拒绝讨论创伤经历"
+action: "尊重自主权，提供心理教育资料后结束"
 estimated_duration: "15-25分钟"
 evidence_level: A
-related_protocols:
-  - "DSM-5-TR PTSD诊断标准 (309.81 / F43.10)"
-  - "ICD-11 复杂PTSD诊断标准 (6B41)"
-  - "APA PTSD临床实践指南"
-  - "NICE创伤后应激障碍指南 (NG116)"
+related_protocols: 
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "创伤与应激评估 / Trauma & Stress Assessment"
+description: "1. 系统筛查创伤暴露类型与严重程度
+2. 评估PTSD核心症状簇是否达到临床阈值
+3. 区分单纯PTSD与复杂PTSD（C-PTSD）
+4. 识别创伤后正向心理成长的潜力
+5. 根据评估结果分层制定干预方案"
+tags: ["psychology", "trauma"]
+last_updated: "2026-06"
+---
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
 
 # 创伤与应激评估 / Trauma & Stress Assessment
@@ -402,3 +377,32 @@ ACE得分: [0-10]
 6. World Health Organization. (2018). ICD-11 Clinical Descriptions for Complex PTSD (6B41).
 7. American Psychiatric Association. (2022). DSM-5-TR: PTSD Criteria (309.81/F43.10).
 8. NICE. (2018). Post-traumatic stress disorder: NG116.
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

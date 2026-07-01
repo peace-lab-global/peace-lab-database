@@ -45,6 +45,9 @@ Web/visualization/node_modules/
 # MkDocs 构建产物
 Web/site/
 
+# 临时生成图像（本地大图，不入库；已归位 Web/assets/）
+Web/assets/vibe_images/
+
 # 运行日志
 Tools/logs/
 

@@ -13,7 +13,19 @@ intent_queries:
   - "自我慈悲与自我关怀的方法与实践"
 trigger_keywords: ["自我慈悲与自我关怀", "Self-Compassion", "Self-Care"]
 cross_refs: []
+mirror_of: "../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md"
+status: "mirror"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
+> ⚠️ **本文档为镜像副本**
+> **权威版本**: [自我慈悲与自我关怀 (Self-Compassion & Self-Care)](../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md)
+
 # 自我慈悲与自我关怀 (Self-Compassion & Self-Care)
 
 ## 核心术语表 (Core Terminology)
@@ -724,3 +736,15 @@ cross_refs: []
 **免责声明**: 本文档仅供教育和信息目的,不构成医疗建议或治疗。如果您正在经历严重心理困扰,请寻求专业心理健康服务。
 
 **危机资源**: 如您正在经历心理危机,请拨打当地危机热线或寻求紧急医疗帮助。自我慈悲是长期培养的技能,不能替代紧急干预。
+
+---
+
+## 参考文献 | References
+
+- Neff, K. D. (2003). The development and validation of a scale to measure self-compassion. *Self and Identity*, *2*(3), 223-250. https://doi.org/10.1080/15298860309027
+- Neff, K. D., & Germer, C. K. (2013). A pilot study and randomized controlled trial of the Mindful Self-Compassion program. *Journal of Clinical Psychology*, *69*(1), 28-44. https://doi.org/10.1002/jclp.21923
+- Ferrari, J. R., Johnson, J. L., & McCown, W. G. (1995). *Procrastination and task avoidance: Theory, research, and treatment*. Plenum Press.
+- Sirois, F. M. (2014). Procrastination and stress: Exploring the role of self-compassion. *Self and Identity*, *13*(2), 128-145. https://doi.org/10.1080/15298868.2013.763404
+- Smeekes, A., & Rowlands, L. E. (2022). Nostalgia and self-compassion: A systematic review and meta-analysis. *Memory*, *30*(5), 569-590. https://doi.org/10.1080/09658211.2022.2056554
+- Inwood, E., & Ferrari, M. (2018). Mechanisms of change in the relationship between self-compassion and emotion regulation. *Mindfulness*, *9*(6), 1755-1765. https://doi.org/10.1007/s12671-018-0913-9
+- Wilson, A. C., Mackintosh, K., Power, K., & Chan, S. W. (2019). Effectiveness of self-compassion related therapies: A systematic review and meta-analysis. *Mindfulness*, *10*(6), 979-995. https://doi.org/10.1007/s12671-018-1037-2

@@ -55,3 +55,16 @@ cross_refs: []
 *Created by Peace Lab Database Project*
 *Author: Allen Galler (allengaller@gmail.com)*
 
+---
+
+## 参考文献 | References
+
+- Engel, G. L. (1977). The need for a new medical model. *Science*, *196*(4286), 129-136. https://doi.org/10.1126/science.847460
+- Kirmayer, L. J., & Gold, I. (2012). *Re-visioning psychiatry: Toward a new social science of mind and brain*. Springer.
+- World Health Organization (2001). *The world health report 2001: Mental health: New understanding, new hope*. WHO.
+- Pargament, K. I. (1997). *The psychology of religion and coping*. Guilford Press.
+- Koenig, H. G. (2012). Religion, spirituality, and health. *ISRN Psychiatry*, *2012*, 278730. https://doi.org/10.5402/2012/278730
+- Seligman, M. E. P. (2011). *Flourish*. Free Press.
+- Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials. *Annual Review of Psychology*, *52*, 141-166. https://doi.org/10.1146/annurev.psych.52.1.141
+- Selye, H. (1976). *Stress in health and disease*. Butterworths.
+- McEwen, B. S. (2007). Physiology and neurobiology of stress and adaptation: Central role of the brain. *Physiological Reviews*, *87*(3), 873-904. https://doi.org/10.1152/physrev.00041.2006

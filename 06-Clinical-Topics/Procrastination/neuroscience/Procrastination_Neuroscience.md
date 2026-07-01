@@ -1,3 +1,26 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "拖延的神经科学 | Neuroscience of Procrastination"
+description: "```
+冲动系统（边缘系统）
+    ↑ 激活强
+反思系统（前额叶）
+    ↓ 控制弱
+    = 拖延
+```"
+category: "临床专题 > Procrastination"
+tags: ["neuroscience"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 拖延的神经科学 | Neuroscience of Procrastination
 
 > **目标**：阐述拖延的神经生物学基础，包括脑区、神经递质和神经影像学发现。

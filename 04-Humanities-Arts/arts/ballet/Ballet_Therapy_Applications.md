@@ -266,3 +266,32 @@ cross_refs:
 | 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md) | 身体形式与心理干预的互补路径 |
 | 疼痛科学 | 03-生命科学 | [疼痛概览](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | 舞蹈运动对慢性疼痛的干预机制 |
 | 正念身心整合 | 05-实践增长 | [身心整合路径](../../../_meta/learning-paths/Body_Mind_Integration_Path.md) | 芞蕾在身心整合学习中的定位 |
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

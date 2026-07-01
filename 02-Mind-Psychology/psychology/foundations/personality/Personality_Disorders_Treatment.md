@@ -14,6 +14,7 @@ intent_queries:
   - "人格障碍治疗的循证证据"
 trigger_keywords: ["人格障碍治疗", "personality", "treatment", "人格心理学", "心理学"]
 cross_refs: []
+status: "stub"
 ---
 # 人格障碍治疗
 

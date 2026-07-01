@@ -2,10 +2,13 @@
 title: "冥想理论基础 | Meditation Foundations"
 category: "心智与心理学 > 冥想 > 理论基础"
 last_updated: "2026-06"
-cross_refs:
-  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
-    relation: "冥想/meditation"
+cross_refs: 
+- path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/meditation.md"
+relation: "冥想/meditation"
+description: "冥想理论基础 | Meditation Foundations —— 相关领域的内容文档"
+tags: ["meditation"]
 ---
+
 
 # 冥想理论基础 | Meditation Foundations
 

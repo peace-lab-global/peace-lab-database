@@ -13,7 +13,14 @@ intent_queries:
   - "22. 零工经济与平台工人 | Gig Economy & Platform Workers的方法与实践"
 trigger_keywords: ["22.", "零工经济与平台工人", "Gig", "Economy", "Platform"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 22. 零工经济与平台工人 | Gig Economy & Platform Workers
 
 > **文档定位**：外卖骑手、网约车司机、自由职业者、远程零工等非标准雇佣关系劳动者的倦怠干预。这些群体面临算法控制、收入不稳定、缺乏保障等独特压力源，传统组织层面的干预往往无法触达。

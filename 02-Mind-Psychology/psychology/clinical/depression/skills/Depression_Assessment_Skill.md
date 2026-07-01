@@ -6,35 +6,36 @@ version: 1.0
 role: entry
 category: assessment
 filename: Depression_Assessment_Skill.md
-entry_trigger:
-  keywords: ["抑郁", "情绪低落", "开心不起来", "没意思", "不想活", "活着没意义", "对什么都没兴趣", "很丧"]
-  scenarios: ["用户主动描述抑郁情绪", "用户询问如何评估自己的抑郁状态", "用户报告持续情绪低落或兴趣丧失"]
+entry_trigger: 
+keywords: ["抑郁", "情绪低落", "开心不起来", "没意思", "不想活", "活着没意义", "对什么都没兴趣", "很丧"]
+scenarios: ["用户主动描述抑郁情绪", "用户询问如何评估自己的抑郁状态", "用户报告持续情绪低落或兴趣丧失"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否表达了情绪低落或兴趣丧失的主诉？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否报告了抑郁相关症状（如睡眠障碍、疲劳、自我评价低等）？"
-    threshold: true
-    type: boolean
-  - Q: "症状是否持续至少2周？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "症状是否持续至少2周？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - depression_assessment_report_v1
-contraindications:
-  - "用户表达明确自杀念头或自杀计划 → 立即跳转危机干预技能（Crisis Intervention）"
-  - "用户出现精神病性症状（幻觉、妄想）→ 建议紧急精神科评估"
-  - "用户主诉为双相障碍躁狂发作 → 跳转双相障碍评估"
+outputs: 
+contraindications: 
 estimated_duration: 15-20分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-05-19
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-05-19
+changes: "初始版本"
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "抑郁状态综合评估技能"
+description: "使用 **患者健康问卷-9（PHQ-9）** 进行标准化筛查："
+tags: ["depression", "psychology"]
+last_updated: "2026-06"
+---
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
 
 # 抑郁状态综合评估技能

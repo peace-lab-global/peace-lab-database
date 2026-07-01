@@ -1,1 +1,0 @@
-../../../_meta/docs/TAXONOMY.md

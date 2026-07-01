@@ -2659,3 +2659,17 @@ ________
 ---
 
 **本文档致力于整合东西方智慧，为建设不可动摇的内在稳定提供系统化框架与实践指南。愿每个实践者找到属于自己的内在锚点，在生命的风浪中保持中心。**
+
+---
+
+## 参考文献 | References
+
+- Sroufe, L. A., Egeland, B., Carlson, E., & Collins, W. A. (2005). *The development of the person: The Minnesota study of risk and adaptation from birth to adulthood*. Guilford Press.
+- McAdams, D. P. (2001). The psychology of life stories. *Review of General Psychology*, *5*(2), 100-122. https://doi.org/10.1037/1089-2680.5.2.100
+- Ryan, R. M., & Deci, E. L. (2001). On happiness and human potentials: A review of research on hedonic and eudaimonic well-being. *Annual Review of Psychology*, *52*, 141-166. https://doi.org/10.1146/annurev.psych.52.1.141
+- Baumeister, R. F., & Leary, M. R. (1995). The need to belong: Desire for interpersonal attachments as a fundamental human motivation. *Psychological Bulletin*, *117*(3), 497-529. https://doi.org/10.1037/0033-2909.117.3.497
+- Deci, E. L., & Ryan, R. M. (2000). The "what" and "why" of goal pursuits: Human needs and the self-determination of behavior. *Psychological Inquiry*, *11*(4), 227-268. https://doi.org/10.1207/S15327965PLI1104_01
+- Horney, K. (1950). *Neurosis and human growth: The struggle toward self-realization*. W. W. Norton.
+- Rogers, C. R. (1961). *On becoming a person: A therapist's view of psychotherapy*. Houghton Mifflin.
+- Jung, C. G. (1969). *The archetypes and the collective unconscious* (R. F. C. Hull, Trans.). Princeton University Press.
+- Bowlby, J. (1988). *A secure base: Parent-child attachment and healthy human development*. Basic Books.

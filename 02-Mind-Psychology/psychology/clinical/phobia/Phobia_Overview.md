@@ -13,7 +13,14 @@ intent_queries:
   - "恐惧症概览的方法与实践"
 trigger_keywords: ["恐惧症概览", "Phobia", "Overview"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 恐惧症概览 (Phobia Overview)
 
 > **核心定位**: 恐惧症是焦虑障碍的重要亚型，指对特定对象或情境的非理性、过度、持续的恐惧。本文档提供恐惧症的分类体系、神经生物学基础、诊断标准与流行病学数据，为临床实践与研究提供专业框架。

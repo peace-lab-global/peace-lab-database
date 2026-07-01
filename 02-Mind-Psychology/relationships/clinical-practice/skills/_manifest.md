@@ -4,15 +4,20 @@ module_name: 亲密关系评估模块
 module_name_en: Intimate Relationship Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_017
-    skill_name: 亲密关系质量评估
-    filename: Relationship_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
-    relation: "skill/id/assessment"
+skills: 
+- skill_id: S_017
+skill_name: 亲密关系质量评估
+filename: Relationship_Assessment_Skill.md
+cross_refs: 
+- path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+relation: "skill/id/assessment"
+title: "亲密关系评估模块清单"
+description: "亲密关系评估模块清单 —— 相关领域的内容文档"
+category: "心智与心理学 > relationships"
+tags: ["relationships"]
+last_updated: "2026-06"
 ---
+
 
 # 亲密关系评估模块清单
 

@@ -15,6 +15,7 @@ trigger_keywords: ["mbct", "冥想"]
 cross_refs:
   - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md"
     relation: "lab/peace"
+status: "stub"
 ---
 # MBCT Assessment Tools
 

@@ -1,3 +1,20 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "冥想与正念在睡眠障碍中的应用 | Meditation and Mindfulness for Sleep Disorders"
+description: "冥想和正念干预作为非药物治疗方法，在睡眠障碍管理中显示出日益增长的证据支持。其作用机制涉及降低生理和心理唤起、改善情绪调节、以及改变对睡眠的认知态度。"
+category: "临床专题 > Sleep-Disorders"
+tags: ["meditation", "mindfulness", "sleep"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 冥想与正念在睡眠障碍中的应用 | Meditation and Mindfulness for Sleep Disorders
 
 > **目标**：系统阐述冥想和正念干预在各类睡眠障碍中的证据、机制与临床应用。

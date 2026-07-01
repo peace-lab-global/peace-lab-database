@@ -13,6 +13,7 @@ intent_queries:
   - "妙法莲华经观世音菩萨普门品的方法与实践"
 trigger_keywords: ["佛教", "宗教与灵性"]
 cross_refs: []
+status: "stub"
 ---
 # 妙法莲华经观世音菩萨普门品
 

@@ -6,32 +6,39 @@ version: 1.0
 role: depth
 category: assessment
 filename: Cortisol_Rhythm_Assessment_Skill.md
-entry_trigger:
-  keywords: ["皮质醇", "皮质醇过高", "皮质醇过低", "肾上腺", "激素"]
-  scenarios: ["用户明确询问皮质醇相关问题", "Stress_Assessment提示需要皮质醇分析"]
-prerequisites:
-  - S_001
+entry_trigger: 
+keywords: ["皮质醇", "皮质醇过高", "皮质醇过低", "肾上腺", "激素"]
+scenarios: ["用户明确询问皮质醇相关问题", "Stress_Assessment提示需要皮质醇分析"]
+prerequisites: 
 prerequisite_logic: AND
-entry_criteria:
-  - Q: "压力评估是否已完成？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否有皮质醇相关主诉或评估需要？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否有皮质醇相关主诉或评估需要？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - cortisol_rhythm_report_v1
-contraindications:
-  - "用户正在经历急性肾上腺危象 → 立即建议急诊"
+outputs: 
+contraindications: 
 estimated_duration: 10-15分钟
 evidence_level: B
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
 cross_refs: []
+title: "皮质醇节律评估技能"
+description: "STEP 1: 评估晨起状态
+│
+├─ 晨起感觉？
+│   ├─ 困难、疲惫、数小时才清醒 → 可能的CAR缺失/肾上腺低下
+│   ├─ 逐渐清醒，但需要时间 → 轻度低下可能
+│   ├─ 自然醒来，感觉清醒 → 正常CAR可能
+│   └─ 醒来时焦虑、过度警觉 → 可能的过度激活
+│
+STE..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 皮质醇节律评估技能
 

@@ -6,36 +6,31 @@ version: 1.0
 role: entry
 category: assessment
 filename: Addiction_Assessment_Skill.md
-entry_trigger:
-  keywords: ["成瘾", "戒不掉", "依赖", "失控", "酒精", "药物", "游戏成瘾", "手机成瘾", "赌博", "色情"]
-  scenarios: ["用户主诉无法控制某种行为或物质使用", "用户询问自己是否有成瘾问题", "用户报告反复尝试戒除但失败", "用户描述因某种行为或物质使用导致生活功能受损"]
+entry_trigger: 
+keywords: ["成瘾", "戒不掉", "依赖", "失控", "酒精", "药物", "游戏成瘾", "手机成瘾", "赌博", "色情"]
+scenarios: ["用户主诉无法控制某种行为或物质使用", "用户询问自己是否有成瘾问题", "用户报告反复尝试戒除但失败", "用户描述因某种行为或物质使用导致生活功能受损"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否表达了对某种物质或行为的失控感？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否报告了反复戒除失败的经历？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否描述了成瘾行为对生活功能的负面影响？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否描述了成瘾行为对生活功能的负面影响？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - addiction_assessment_report_v1
-contraindications:
-  - "用户出现戒断症状（震颤、谵妄、癫痫发作）→ 立即建议急诊就医"
-  - "用户报告药物过量 → 立即拨打急救电话"
-  - "用户表达自杀意念 → 跳转危机干预技能（Crisis Intervention）"
+outputs: 
+contraindications: 
 estimated_duration: 15-20分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-05-19
-    changes: "初始版本"
+changelog: 
+- version: 1.0
+date: 2026-05-19
+changes: "初始版本"
 cross_refs: []
+title: "成瘾行为评估技能"
+description: "通过开放式提问识别成瘾类别，区分**物质成瘾**与**行为成瘾**："
+tags: ["addiction", "psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 成瘾行为评估技能
 

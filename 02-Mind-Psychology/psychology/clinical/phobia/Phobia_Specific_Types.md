@@ -13,7 +13,14 @@ intent_queries:
   - "特定恐惧症详表的方法与实践"
 trigger_keywords: ["特定恐惧症详表", "Specific", "Phobia", "Types"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 特定恐惧症详表 (Specific Phobia Types)
 
 > **核心定位**: 特定恐惧症是最常见的焦虑障碍，对特定对象或情境的标志性恐惧。本文档详细列举五大亚型（动物型、自然环境型、血液-注射-损伤型、情境型、其他型）下的常见恐惧症，提供命名、神经机制、治疗要点及临床洞察。

@@ -15,7 +15,10 @@ trigger_keywords: ["文学", "文艺复兴"]
 cross_refs:
   - path: "01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md"
     relation: "renaissance/contents"
----
+mirror_of: "../../../../01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [renaissance | index](../../../../01-Wisdom-Traditions/philosophy/western-philosophy/early-modern/renaissance/INDEX.md)
+
 # renaissance | Index
 
 ## 内容索引 | Contents

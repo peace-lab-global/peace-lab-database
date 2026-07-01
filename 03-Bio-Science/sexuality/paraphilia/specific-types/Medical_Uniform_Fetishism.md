@@ -13,6 +13,7 @@ intent_queries:
   - "医疗制服恋物的方法与实践"
 trigger_keywords: ["医疗制服恋物", "性学"]
 cross_refs: []
+status: "stub"
 ---
 # 医疗制服恋物
 

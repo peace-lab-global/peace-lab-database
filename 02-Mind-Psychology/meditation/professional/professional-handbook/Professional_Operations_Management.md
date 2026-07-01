@@ -226,3 +226,15 @@ T-10分钟：最终确认
 ---
 
 *相关阅读：[职业发展](Professional_Career_Development.md) · [客户关系](Professional_Client_Relations.md) · [商业模式分析](../career-business/Meditation_Business_Models.md)*
+
+---
+
+## 参考文献 | References
+
+- Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being. *JAMA Internal Medicine*, *174*(3), 357-368. https://doi.org/10.1001/jamainternmed.2013.13018
+- Crane, R. S., Brewer, J., Feldman, C., et al. (2017). What defines mindfulness-based programs? *Psychological Medicine*, *47*(6), 990-999. https://doi.org/10.1017/S0033291716003317
+- McCown, D., Reibel, D., & Micozzi, M. S. (2010). *Teaching mindfulness: A practical guide for clinicians and educators*. Springer.
+- Kabat-Zinn, J. (2003). Mindfulness-based interventions in context. *Clinical Psychology: Science and Practice*, *10*(2), 144-156. https://doi.org/10.1093/clipsy.bpg016
+- Carlson, L. E. (2012). Mindfulness-based interventions for coping with cancer. *Annals of the New York Academy of Sciences*, *1269*(1), 74-82. https://doi.org/10.1111/j.1749-6632.2012.06607.x
+- Irving, J. A., Dobkin, P. L., & Park, J. (2009). Cultivating mindfulness in health care professionals. *Complementary Therapies in Clinical Practice*, *15*(2), 61-66. https://doi.org/10.1016/j.ctcp.2009.01.002
+- Aikens, K. A., Astin, J., Pelletier, K. R., et al. (2014). Mindfulness goes to work. *Journal of Occupational and Environmental Medicine*, *56*(7), 720-731. https://doi.org/10.1097/JOM.0000000000000209

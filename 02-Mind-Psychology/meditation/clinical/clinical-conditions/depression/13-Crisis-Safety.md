@@ -13,7 +13,14 @@ intent_queries:
   - "Crisis Safety的方法与实践"
 trigger_keywords: ["Crisis", "Safety"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 ## 13. 危机干预与安全计划
 
 > **说明**：抑郁患者可能在任何阶段出现自杀意念或自伤冲动。正念干预者——无论是精神科医生、心理治疗师还是正念教师——必须具备识别危机信号和启动安全计划的能力。本章提供临床标准的安全计划框架（Stanley & Brown, 2012），以及正念在危机中的边界与角色。

@@ -19,7 +19,10 @@ cross_refs:
     relation: "interventions/clinical/contents"
   - path: "01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/INDEX.md"
     relation: "treatment/clinical/contents"
----
+mirror_of: "../../../../02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [clinical | index](../../../../02-Mind-Psychology/psychology/applied/vocational-psychology/clinical/INDEX.md)
+
 # clinical | Index
 
 ## 内容索引 | Contents

@@ -6,12 +6,16 @@ author: "Peace Lab Global"
 date: "2026-02-07"
 version: "1.0.0"
 license: "CC BY-NC-SA 4.0"
-cross_refs:
-  - path: "02-Mind-Psychology/psychology/social/solitude/Solitude_Neuroscience.md"
-    relation: "默认模式/dmn/前额叶"
-  - path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
-    relation: "神经科学/默认模式/障碍"
+cross_refs: 
+- path: "04-Humanities-Arts/media/music/classical-music/mozart-piano-concertos/No21/Mozart_Piano_Concerto_No21_Therapeutic_Analysis.md"
+relation: "神经科学/默认模式/障碍"
+description: "1. 默认模式网络(DMN)异常：
+   • 身体相关自我参照处理过度活跃
+   • 静息状态下负面身体思维反刍增加
+   • 与抑郁症状的神经重叠"
+last_updated: "2026-06"
 ---
+
 
 # 身体羞耻障碍研究前沿与理论框架
 

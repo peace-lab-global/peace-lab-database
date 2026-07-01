@@ -15,7 +15,14 @@ trigger_keywords: ["20.", "重返工作岗位与渐进式复工", "Return", "to"
 cross_refs:
   - path: "05-Praxis-Growth/personal-development/workplace-expression/Workplace_Skip_Level_and_HR_Escalation.md"
     relation: "hr/沟通"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 20. 重返工作岗位与渐进式复工 | Return to Work
 
 > **文档定位**：倦怠干预的临床终点。本章提供从病假/离职到安全重返工作岗位的完整路径，连接正念干预与职业医学、EAP、劳动法实践。

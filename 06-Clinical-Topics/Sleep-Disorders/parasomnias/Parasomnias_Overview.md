@@ -1,3 +1,19 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "异态睡眠概述 | Parasomnias Overview"
+description: "异态睡眠是指入睡、睡眠期间或觉醒转换时出现的非主观的异常行为、体验或生理事件。根据睡眠期分为NREM相关、REM相关及其他异态睡眠。"
+category: "临床专题 > Sleep-Disorders"
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 异态睡眠概述 | Parasomnias Overview
 
 > **目标**：系统阐述NREM相关、REM相关及其他异态睡眠的诊断、鉴别与治疗。

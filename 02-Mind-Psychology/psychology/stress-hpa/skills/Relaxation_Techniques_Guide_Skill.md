@@ -6,39 +6,43 @@ version: 1.0
 role: tool
 category: tool
 filename: Relaxation_Techniques_Guide_Skill.md
-entry_trigger:
-  keywords: ["放松", "冥想", "呼吸", "睡不着", "焦虑", "正念", "深呼吸", "放松方法"]
-  scenarios: ["用户请求具体的放松/冥想技术", "作为干预方案的辅助工具随时调用"]
+entry_trigger: 
+keywords: ["放松", "冥想", "呼吸", "睡不着", "焦虑", "正念", "深呼吸", "放松方法"]
+scenarios: ["用户请求具体的放松/冥想技术", "作为干预方案的辅助工具随时调用"]
 prerequisites: []
 prerequisite_logic: null
-entry_criteria:
-  - Q: "用户是否请求了具体的放松/冥想技术？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否有放松相关的需求？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否有放松相关的需求？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - relaxation_guide_v1
-contraindications:
-  - "严重创伤后应激障碍(PTSD) → 某些技术可能触发闪回，建议专业指导下进行"
+outputs: 
+contraindications: 
 estimated_duration: 5-10分钟
 evidence_level: A
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
-cross_refs:
-  - path: "01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md"
-    relation: "呼吸法/呼吸/瑜伽"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Practical_Toolkit.md"
-    relation: "焦虑/呼吸/情绪调节"
-  - path: "03-Bio-Science/biology/floaters/Eye_Floaters_Psychological_Adaptation.md"
-    relation: "情绪调节/焦虑"
-  - path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
-    relation: "太极/呼吸/呼吸法"
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
+cross_refs: 
+- path: "01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md"
+relation: "太极/呼吸/呼吸法"
+title: "放松技术指导技能"
+description: "STEP 1: 你有多少时间？
+│
+├─ < 5分钟（即时缓解）
+│   └─ 【呼吸技术】
+│       ├─ 急性焦虑/惊恐 → 4-7-8呼吸
+│       ├─ 需要镇静 → 慢速深呼吸
+│       └─ 快速平复 → 箱式呼吸
+│
+├─ 5-15分钟
+│   └─ 【短时放松】
+│..."
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 放松技术指导技能
 

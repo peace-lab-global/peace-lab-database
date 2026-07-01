@@ -13,6 +13,7 @@ intent_queries:
   - "阿姜查的方法与实践"
 trigger_keywords: ["阿姜查", "冥想"]
 cross_refs: []
+status: "stub"
 ---
 # 阿姜查
 

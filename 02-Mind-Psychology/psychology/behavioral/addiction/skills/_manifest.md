@@ -4,15 +4,20 @@ module_name: 成瘾行为评估模块
 module_name_en: Addiction Behavior Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_016
-    skill_name: 成瘾行为评估
-    filename: Addiction_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
-    relation: "skill/id/assessment"
+skills: 
+- skill_id: S_016
+skill_name: 成瘾行为评估
+filename: Addiction_Assessment_Skill.md
+cross_refs: 
+- path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+relation: "skill/id/assessment"
+title: "成瘾行为评估模块清单"
+description: "成瘾行为评估模块清单 —— 相关领域的内容文档"
+category: "心智与心理学 > psychology"
+tags: ["addiction", "psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 成瘾行为评估模块清单
 

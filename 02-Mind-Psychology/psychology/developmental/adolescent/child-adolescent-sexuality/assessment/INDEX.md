@@ -21,7 +21,10 @@ cross_refs:
     relation: "toolkit/quality/assessment"
   - path: "05-Praxis-Growth/talks/ted-talks/TED_Quality_Assessment_Report.md"
     relation: "assessment/quality"
----
+mirror_of: "../../../../applied/vocational-psychology/assessment/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [assessment | index](../../../../applied/vocational-psychology/assessment/INDEX.md)
+
 # assessment | Index
 
 ## 内容索引 | Contents

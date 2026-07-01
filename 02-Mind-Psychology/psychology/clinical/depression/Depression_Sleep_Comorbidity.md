@@ -15,7 +15,14 @@ trigger_keywords: ["Depression", "Sleep", "Disorders", "Comorbidity", "抑郁症
 cross_refs:
   - path: "03-Bio-Science/foods/tea/Tea_Mental_Health_Applications.md"
     relation: "睡眠/抑郁/障碍"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # Depression & Sleep Disorders Comorbidity (抑郁症与睡眠障碍交叉专题)
 
 > **抑郁症与睡眠障碍共病 (Depression-Sleep Comorbidity)**
@@ -238,5 +245,5 @@ CBT-I 是共病失眠的**一线推荐**，无论是否存在抑郁。
 | 睡眠障碍专题 | 02-心理 | [Sleep](../../somatic-body/sleep/) | 睡眠医学基础 |
 | 慢性压力 | 02-心理 | [Chronic Stress](../../stress-hpa/chronic-stress/) | HPA轴与睡眠 |
 | 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) | 正念改善睡眠 |
-| 光照治疗 | 03-生命 | [Light Therapy](../../../../Web/mkdocs/docs/03-Bio-Science/) | 昼夜节律干预 |
+| 光照治疗 | 03-生命 | [Light Therapy](../../../../03-Bio-Science/) | 昼夜节律干预 |
 | 老年心理 | 02-心理 | [Aging Psychology](../../developmental/aging-psychology/) | 老年睡眠-抑郁 |

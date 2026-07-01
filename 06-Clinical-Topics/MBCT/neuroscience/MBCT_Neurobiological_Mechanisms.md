@@ -1,3 +1,22 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "MBCT 神经生物学机制与生物标志物 | Neurobiological Mechanisms and Biomarkers of MBCT"
+description: "```
+抑郁状态：
+  轻微情绪低落 → DMN-mPFC过度激活 → 反刍循环 → 抑郁发作"
+category: "临床专题 > MBCT"
+tags: ["mbct", "neuroscience"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # MBCT 神经生物学机制与生物标志物 | Neurobiological Mechanisms and Biomarkers of MBCT
 
 > **目标**：从精神科神经科学视角，系统阐述 MBCT 的脑机制、HPA轴调节、自主神经、免疫炎症及表观遗传学证据，并探索生物标志物预测治疗反应的可行性。

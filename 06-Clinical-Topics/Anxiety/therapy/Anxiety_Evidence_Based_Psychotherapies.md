@@ -1,3 +1,30 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "焦虑障碍循证心理治疗 | Evidence-Based Psychotherapies for Anxiety Disorders"
+description: "```
+触发事件/情境
+    ↓
+自动化负性思维（认知）
+    ↓
+情绪反应（焦虑/恐惧）
+    ↓
+躯体反应 + 行为反应（回避/安全行为）
+    ↓
+强化负性认知 → 恶性循环
+```"
+category: "临床专题 > Anxiety"
+tags: ["anxiety"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 焦虑障碍循证心理治疗 | Evidence-Based Psychotherapies for Anxiety Disorders
 
 > **目标**：系统阐述焦虑障碍的循证心理治疗方法，涵盖CBT、暴露治疗、ACT、DBT、正念、EMDR，包括技术细节、适应症与疗效证据。

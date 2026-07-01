@@ -287,3 +287,15 @@ cross_refs:
 ---
 
 *相关阅读：[安全管理](Professional_Safety_Management.md) · [客户关系](Professional_Client_Relations.md) · [引导词脚本](../guided-scripts/INDEX.md) · [专业引导词课程库](../guided-courses/INDEX.md) · [执行师教学法](../practitioner-training/Practitioner_Teaching_Methodology.md)*
+
+---
+
+## 参考文献 | References
+
+- Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice*, *11*(3), 230-241. https://doi.org/10.1093/clipsy.bph077
+- Crane, R. S., Brewer, J., Feldman, C., et al. (2017). What defines mindfulness-based programs? *Psychological Medicine*, *47*(6), 990-999. https://doi.org/10.1017/S0033291716003317
+- Kabat-Zinn, J. (2003). Mindfulness-based interventions in context. *Clinical Psychology: Science and Practice*, *10*(2), 144-156. https://doi.org/10.1093/clipsy.bpg016
+- McCown, D., Reibel, D., & Micozzi, M. S. (2010). *Teaching mindfulness: A practical guide for clinicians and educators*. Springer.
+- Pollard, C., & Tarrant, M. (2017). Getting to the heart of mindfulness. *Mindfulness*, *8*(3), 772-778. https://doi.org/10.1007/s12671-016-0653-y
+- Irving, J. A., Dobkin, P. L., & Park, J. (2009). Cultivating mindfulness in health care professionals. *Complementary Therapies in Clinical Practice*, *15*(2), 61-66. https://doi.org/10.1016/j.ctcp.2009.01.002
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-based cognitive therapy for depression*. Guilford Press.

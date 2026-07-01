@@ -15,7 +15,10 @@ trigger_keywords: ["ballet", "艺术", "芭蕾"]
 cross_refs:
   - path: "02-Mind-Psychology/psychology/foundations/terminology-dictionary/INDEX.md"
     relation: "dictionary/terminology/contents"
----
+mirror_of: "../../../05-Praxis-Growth/personal-development/professional-attraction/ballet/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [ballet | index](../../../05-Praxis-Growth/personal-development/professional-attraction/ballet/INDEX.md)
+
 # ballet | Index
 
 ## 内容索引 | Contents

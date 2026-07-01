@@ -13,7 +13,14 @@ intent_queries:
   - "21. 工作-家庭整合与双重负担 | Work-Family Integration的方法与实践"
 trigger_keywords: ["21.", "工作-家庭整合与双重负担", "Work-Family", "Integration"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 21. 工作-家庭整合与双重负担 | Work-Family Integration
 
 > **文档定位**：针对工作-家庭边界模糊、双重/三重负担（工作+家庭+照护）导致的倦怠，提供正念实践方案。特别关注亚洲语境下的性别维度与集体主义家庭结构。

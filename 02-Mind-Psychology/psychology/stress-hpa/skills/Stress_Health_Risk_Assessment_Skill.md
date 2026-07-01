@@ -6,43 +6,38 @@ version: 1.0
 role: escalation
 category: recognition
 filename: Stress_Health_Risk_Assessment_Skill.md
-entry_trigger:
-  keywords: ["长期压力身体", "压力对健康", "健康风险", "多系统", "体检", "高血压", "肥胖"]
-  scenarios: ["用户关心长期压力的身体健康影响", "Stress_Assessment提示躯体症状突出"]
-prerequisites:
-  - S_001
+entry_trigger: 
+keywords: ["长期压力身体", "压力对健康", "健康风险", "多系统", "体检", "高血压", "肥胖"]
+scenarios: ["用户关心长期压力的身体健康影响", "Stress_Assessment提示躯体症状突出"]
+prerequisites: 
 prerequisite_logic: AND
-entry_criteria:
-  - Q: "压力评估是否完成？"
-    threshold: true
-    type: boolean
-  - Q: "用户是否报告了躯体症状或关心健康影响？"
-    threshold: true
-    type: boolean
+entry_criteria: 
+- Q: "用户是否报告了躯体症状或关心健康影响？"
+threshold: true
+type: boolean
 conflict_skills: []
-outputs:
-  - health_risk_report_v1
-contraindications:
-  - "急性胸痛/呼吸困难 → 建议立即急诊"
+outputs: 
+contraindications: 
 estimated_duration: 10-15分钟
 evidence_level: B
-red_flags:
-  - "持续胸痛 → 建议急诊"
-  - "血压显著升高 → 建议内科评估"
-changelog:
-  - version: 1.0
-    date: 2026-04-10
-    changes: "初始版本"
-cross_refs:
-  - path: "03-Bio-Science/biology/Loneliness_Biology_Integration.md"
-    relation: "免疫/炎症/压力"
-  - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Modern_Society_Mechanisms.md"
-    relation: "压力/焦虑/障碍"
-  - path: "03-Bio-Science/biology/blood-pressure/Morning_Blood_Pressure_Practice.md"
-    relation: "血压/压力/睡眠"
-  - path: "03-Bio-Science/sexuality/male-sexual-health/Sexual_Dysfunction_Common_Issues.md"
-    relation: "血压/压力/障碍"
+red_flags: 
+changelog: 
+- version: 1.0
+date: 2026-04-10
+changes: "初始版本"
+cross_refs: 
+- path: "03-Bio-Science/sexuality/male-sexual-health/Sexual_Dysfunction_Common_Issues.md"
+relation: "血压/压力/障碍"
+title: "压力相关健康风险评估技能"
+description: "元数据
+- 技能ID: S_007
+- 技能名称: 压力相关健康风险评估
+- 调用时间: YYYY-MM-DD HH:MM
+- 会话阶段: escalation"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 压力相关健康风险评估技能
 

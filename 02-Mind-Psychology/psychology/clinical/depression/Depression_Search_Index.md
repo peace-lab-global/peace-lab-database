@@ -13,7 +13,14 @@ intent_queries:
   - "Depression Topic Search Index的方法与实践"
 trigger_keywords: ["Depression", "Topic", "Search", "抑郁专题全文检索索引"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # Depression Topic Search Index (抑郁专题全文检索索引)
 
 > 本索引由自动化脚本生成，汇总抑郁专题下所有文档的标题、结构和关键术语，便于快速定位内容。
@@ -656,3 +663,44 @@ cross_refs: []
 - **艾司西酞普兰**：[青少年抑郁 (Adolescent Depression) | Index](adolescent-depression/INDEX.md)
 - **避免苯二氮卓**：[老年抑郁 (Geriatric Depression) | Index](geriatric-depression/INDEX.md)
 - **黑框警告**：[青少年抑郁 (Adolescent Depression) | Index](adolescent-depression/INDEX.md)
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- American Psychiatric Association (2013). *Diagnostic and statistical manual of mental disorders (5th ed.)*. https://doi.org/10.1176/appi.books.9780890425596
+- World Health Organization (2019). *International statistical classification of diseases and related health problems (11th ed.)*.
+- World Health Organization (2021). *Depression fact sheet*. https://www.who.int/news-room/fact-sheets/detail/depression
+- Ferrari, A. J., Charlson, F. J., Norman, R. E., et al. (2013). Burden of depressive disorders by country, sex, age, and year: Findings from the Global Burden of Disease Study 2010. *PLoS Medicine*, *10*(11), e1001547. https://doi.org/10.1371/journal.pmed.1001547
+- Kessler, R. C., Berglund, P., Demler, O., Jin, R., Merikangas, K. R., & Walters, E. E. (2005). Lifetime prevalence and age-of-onset distributions of DSM-IV disorders in the National Comorbidity Survey Replication. *Archives of General Psychiatry*, *62*(6), 593-602. https://doi.org/10.1001/archpsyc.62.6.593
+- Cuijpers, P., Karyotaki, E., Weitz, E., Andersson, G., Hollon, S. D., & van Straten, A. (2014). The effects of psychotherapies for major depression in adults on remission, recovery and improvement: A meta-analysis. *Journal of Affective Disorders*, *159*, 118-126. https://doi.org/10.1016/j.jad.2014.02.026
+- Cipriani, A., Furukawa, T. A., Salanti, G., et al. (2018). Comparative efficacy and acceptability of 21 antidepressant drugs for the acute treatment of adults with major depressive disorder: A systematic review and network meta-analysis. *The Lancet*, *391*(10128), 1357-1366. https://doi.org/10.1016/S0140-6736(17)32802-7
+- Trivedi, M. H., Rush, A. J., Wisniewski, S. R., et al. (2006). Evaluation of outcomes with citalopram for depression using measurement-based care in STAR*D: Implications for clinical practice. *American Journal of Psychiatry*, *163*(1), 28-40. https://doi.org/10.1176/appi.ajp.163.1.28

@@ -1,0 +1,199 @@
+# Tags Conventions | Tags 标签系统规范
+
+> 本文档定义 Peace Lab Database 中 tags 的命名、分层与维护规则。
+
+---
+
+## 一、当前 tags 健康度 | Current Tags Health
+
+| 指标 | 数值 | 健康度 |
+|---|---|---|
+| 独立 tags 数 | **357** | ⚠️ 偏多 |
+| 无 tags 字段文件 | 187 (4.5%) | ⚠️ |
+| 空 tags 列表文件 | 119 (2.8%) | ⚠️ |
+| 英文 tags | 267 (74.8%) | ✅ 主流 |
+| 中文 tags | 90 (25.2%) | ⚠️ 与英文混用 |
+| 低频 tags(< 5 次) | 229 (64.5%) | 🔴 严重碎片 |
+| 高频过载 tags(> 500 次) | 4 个 | ⚠️ |
+
+### 1.1 高频过载 tags(> 500 次)
+
+| tag | 数量 | 问题 |
+|---|---|---|
+| `anxiety` | **941** | 过细 — 应拆分为具体亚型 |
+| `brain` | **673** | 过宽 — 应限定为 neuroscience |
+| `cbt` | **513** | 合理但可补充 cbt-i, exposure-therapy 等子标签 |
+| `act` | **496** | 合理 |
+
+### 1.2 中频合理 tags(50-500 次)
+
+`meditation`(247), `buddhism`(236), `healing`(224), `philosophy`(203),
+`literature`(404), `decision-making`(346), `depression`(331), `addiction`(329),
+`mindfulness`(306), `habits`(207), `music`(174), `mbsr`(166), `yoga`(155),
+`trauma`(122), `sleep`(117), `mbct`(99), `loneliness`(83), `cortisol`(83)
+
+### 1.3 中文 tags
+
+当前唯一高频中文 tag:`心理学`(167)
+其他 89 个中文 tags 都是低频(< 10 次)
+
+---
+
+## 二、Tags 分层规范 | Three-Layer Tags
+
+**推荐采用三层标签结构**:
+
+### 2.1 顶层 tags(L1: Domain Tags, 10-20 个)
+
+**定义**:跨领域通用标签,每个文件至少 1 个,数量控制在 10-20 个。
+
+**候选顶层 tags**(基于现有高频 tag):
+
+| tag | 适用领域 |
+|---|---|
+| `healing` | 疗愈、整合、临床应用 |
+| `practice` | 实践、修习、行动 |
+| `philosophy` | 哲学、智慧、传统 |
+| `psychology` | 心理学、认知、情感 |
+| `neuroscience` | 神经科学、大脑、认知科学 |
+| `clinical` | 临床、诊断、治疗 |
+| `mindfulness` | 正念、觉察、冥想 |
+| `meditation` | 冥想、禅修、止观 |
+| `body` | 身体、运动、躯体 |
+| `arts` | 艺术、审美、疗愈 |
+| `literature` | 文学、阅读、叙事 |
+| `music` | 音乐、声音、疗愈 |
+| `nature` | 自然、生态、可持续 |
+| `education` | 教育、学习、教学 |
+| `business` | 商业、职业、管理 |
+| `social` | 社会、文化、关系 |
+| `tradition` | 传统、古典、传承 |
+| `science` | 科学、研究、方法 |
+| `technology` | 技术、AI、数字 |
+
+### 2.2 中层 tags(L2: Subdomain Tags, 50-100 个)
+
+**定义**:领域细分,每个文件 2-5 个。
+
+**示例**:
+- `cbt`, `act`, `dbt`, `mbct`(认知行为疗法族)
+- `depression`, `anxiety`, `trauma`, `addiction`(临床细分)
+- `buddhism`, `daoism`, `christianity`, `islam`(宗教传统)
+- `mbsr`, `vipassana`, `zazen`, `yoga-nidra`(冥想技法)
+- `tai-chi`, `qigong`, `asana`, `pranayama`(身体修习)
+
+### 2.3 底层 tags(L3: Specific Tags, 控制增长)
+
+**定义**:非常具体的概念,只在必要时使用,优先用中层 tag 组合。
+
+**规则**:
+- ✅ 仅在 L2 不能准确表达时使用
+- ❌ 不要创建只用于 1-2 个文件的 tag
+- ⚠️ 每季度合并频率 < 5 的 tag
+
+---
+
+## 三、命名规范 | Naming Conventions
+
+### 3.1 格式
+
+- ✅ **英文小写 + 连字符**:`cognitive-behavioral`, `post-traumatic-stress`
+- ❌ **下划线**:`cognitive_behavioral`(不推荐)
+- ❌ **驼峰**:`cognitiveBehavioral`(不推荐)
+- ❌ **空格**:在 YAML 数组中需引号,易出错
+
+### 3.2 单数 vs 复数
+
+- ✅ **概念用单数**:`psychology`, `philosophy`, `meditation`
+- ✅ **可数集合用复数**:`emotions`, `techniques`, `symptoms`
+
+### 3.3 缩写
+
+- ✅ **广泛认知的缩写**:`cbt`, `act`, `mbsr`, `mbct`, `pcl`, `gad`, `phq`
+- ❌ **自定义缩写**:`psy`(应为 psychology)
+- ⚠️ **首次使用**同时给出全称(`cbt`: cognitive-behavioral-therapy)
+
+### 3.4 中英文
+
+- **统一使用英文**(推荐)
+- 如必须用中文,加 `zh-` 前缀:`zh-心理学`, `zh-正念`
+- 不要在同一文档中混用中英文 tags
+
+### 3.5 索引 tag
+
+- `index`, `directory` — 自动生成 INDEX.md 的标记 tag,人工内容不需添加
+- `human_curated` — 人工维护 INDEX 的标记
+- `auto_generated` — 自动生成 INDEX 的标记
+- 这些是**元 tags**,用户筛选时应忽略
+
+---
+
+## 四、Tag 合并建议 | Tag Consolidation
+
+### 4.1 高频过载 tag 的子分类
+
+**`anxiety`(941)** 可考虑补充子标签:
+- `social-anxiety`(社交焦虑)
+- `generalized-anxiety`(广泛性焦虑,GAD)
+- `panic-disorder`(惊恐障碍)
+- `phobia`(恐惧症,已有 126)
+- `ocd`(强迫症)
+- `ptsd`(创伤后应激)
+
+> 但注意:**不要从 `anxiety` 中移除**,而是**附加子标签**。`anxiety` 作为顶层 L2 标签仍合理。
+
+**`brain`(673)** 建议:
+- 大部分应该是 `neuroscience` 而非 `brain`
+- 评估后批量替换:`brain` → `neuroscience`
+
+### 4.2 中文 tag 处理
+
+**决策**:保留 `心理学`(167) 与对应英文 `psychology` 共存,但:
+- 新内容统一使用 `psychology`
+- 中文 tag 仅作辅助,不强制
+- 长期目标:中文 tag 比例 < 5%
+
+### 4.3 碎片 tag 整合
+
+每季度检查:
+- 频率 < 5 的 tag 候选合并
+- 合并方法:将低频 tag 重命名为相似的中频 tag
+- 例:`mindfulness-practice`(3 次) → `mindfulness`
+
+---
+
+## 五、Tag 维护流程 | Maintenance Workflow
+
+### 5.1 新增文件时
+
+1. 至少添加 1 个 L1 顶层 tag
+2. 添加 2-3 个 L2 中层 tag(描述具体领域)
+3. 避免使用低频 L3 tag
+4. 不要超过 7 个 tags(保持精简)
+
+### 5.2 定期审计
+
+```bash
+# 查看 tag 频率分布
+grep -h "^tags:" $(find . -name "*.md" -not -path "./_meta/*") | \
+  sed 's/tags: \[//; s/\]//; s/"//g; s/, /\n/g' | \
+  sort | uniq -c | sort -rn | head -50
+```
+
+### 5.3 自动化检查(未来)
+
+- CI 检查:每个文件 tags 数 1-7 个
+- 警告:使用只出现 1 次的 tag
+- 报告:高频 tag 与实际含义是否匹配
+
+---
+
+## 六、修订记录 | Revision History
+
+| 日期 | 修订 |
+|---|---|
+| 2026-06-23 | 初版创建,定义三层 tag 结构 |
+
+---
+
+*返回 [_meta/docs/](./) | 上级:[_meta/](../../)*

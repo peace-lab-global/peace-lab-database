@@ -17,7 +17,14 @@ cross_refs:
     relation: "恐惧/anxiety/焦虑"
   - path: "03-Bio-Science/sexuality/sexual-anxiety-china/Terminology_Dictionary.md"
     relation: "anxiety/恐惧/焦虑"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 社交恐惧症与广场恐惧症 (Social Anxiety Disorder & Agoraphobia)
 
 > **核心定位**: 社交焦虑障碍和广场恐惧症是恐惧症体系中功能损害最严重的两类，分别指向社交评价恐惧和困境逃离恐惧。本文档详细阐述两者的诊断鉴别、神经机制、治疗方法及临床应用。

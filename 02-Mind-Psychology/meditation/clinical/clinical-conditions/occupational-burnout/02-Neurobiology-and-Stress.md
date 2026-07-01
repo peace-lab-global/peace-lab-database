@@ -21,7 +21,14 @@ cross_refs:
     relation: "免疫/hpa/皮质醇"
   - path: "01-Wisdom-Traditions/tai-chi/psychology-wellbeing/TaiChi_Stress_Anxiety_Depression.md"
     relation: "hpa/stress/皮质醇"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 02. 神经生物学与职业应激机制 | Neurobiology & Stress
 
 > **文档定位**：本章揭示职业倦怠背后的神经生物学通路，帮助临床工作者理解"为什么倦怠不仅仅是心理问题，而是整个神经-内分泌-免疫系统的功能紊乱"。

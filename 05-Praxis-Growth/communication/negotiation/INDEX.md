@@ -3,7 +3,7 @@ title: "谈判技能 | Negotiation Skills"
 description: "谈判技能 | Negotiation Skills —— 沟通 · 谈判 专题"
 category: "实践与个人增长 > 沟通 > 谈判"
 tags: ["communication", "decision-making", "eq", "marriage", "negotiation", "emotional-intelligence"]
-last_updated: "2026-05"
+last_updated: "2026-06"
 difficulty: "intermediate"
 reading_level: "intermediate"
 estimated_read_time: "5min"
@@ -25,7 +25,8 @@ cross_refs: []
 | 序号 | 文档 | 主题 |
 |------|------|------|
 | 1 | [Negotiation_Psychology_Strategy](Negotiation_Psychology_Strategy.md) | 谈判心理学、哈佛法/FBI术、BATNA、认知偏差 |
-| 2 | [Negotiation_Practice](Negotiation_Practice.md) | 谈判实战：案例模拟、困难谈判、跨文化、伦理 |
+| 2 | [Negotiation_Psychology_Deep](Negotiation_Psychology_Deep.md) | 谈判心理学深度解析 |
+| 3 | [Negotiation_Practice](Negotiation_Practice.md) | 谈判实战：案例模拟、困难谈判、跨文化、伦理 |
 
 ---
 

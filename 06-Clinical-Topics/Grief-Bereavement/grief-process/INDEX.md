@@ -1,0 +1,56 @@
+---
+title: "grief-process | grief-process"
+description: "目录索引 —— 列出本目录的子目录与文件清单"
+category: "目录索引"
+tags: ["index", "directory"]
+last_updated: "2026-06-23"
+auto_generated: true
+---
+
+# grief-process | grief-process
+
+> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **7 个直属文件**。
+
+## 📄 文件 | Files (7)
+
+- [Anticipatory_Grief_Palliative_Care.md](Anticipatory_Grief_Palliative_Care.md)
+- [Grief_Bereavement.md](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md)
+- [Grief_Cultural_Spiritual.md](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md)
+- [Grief_Intervention_Techniques.md](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Intervention_Techniques.md)
+- [Grief_Lifespan_Developmental.md](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Lifespan_Developmental.md)
+- [Grief_Special_Loss_Types.md](../../../02-Mind-Psychology/psychology/special-topics/grief/Grief_Special_Loss_Types.md)
+- [Grief_Theories_and_Models.md](Grief_Theories_and_Models.md)
+
+
+---
+
+---
+
+## ⚠️ 临床免责声明 | Clinical Disclaimer
+
+> **本目录内容仅供学习与研究,不能替代专业医疗建议。**
+
+本目录涵盖临床心理学、精神医学、循证疗法等内容。涉及:
+
+- **诊断标准**:DSM-5、ICD-11
+- **评估工具**:PHQ-9、GAD-7、PCL-5、ISI、HAM-D
+- **治疗方法**:CBT、ACT、MBCT、MBSR、DBT、SSRI/SNRI 等
+- **冥想与正念**:MBCT/MBSR 课程、临床应用
+
+**重要提醒**:
+
+- 🩺 诊断必须由合格的精神科医生或临床心理师做出
+- 💊 用药必须由医生处方,切勿自行用药或停药
+- 🧘 冥想练习不适合所有人(急性精神危机、解离障碍等需谨慎)
+- 📞 如有心理困扰或紧急情况,请立即寻求专业帮助
+
+**24小时心理援助热线(中国)**:
+
+- 北京心理危机研究与干预中心:010-82951332
+- 全国心理援助热线:400-161-9995
+- 希望24热线:400-161-9995
+- 生命热线:400-821-1215
+
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+*返回上级: [06-Clinical-Topics/Grief-Bereavement](../INDEX.md)*
+*自动生成于 2026-06-23 10:13*

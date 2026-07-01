@@ -14,7 +14,14 @@ intent_queries:
   - "冥想与抑郁症 | Meditation and Depression的自助方法"
 trigger_keywords: ["冥想与抑郁症", "Meditation", "and", "Depression"]
 cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 冥想与抑郁症 | Meditation and Depression
 
 > **文档类型**: 临床病症专项指南 | Clinical Condition Guide
@@ -4159,3 +4166,22 @@ ____ 分
 ---
 
 *Peace Lab Database — 冥想与抑郁症临床指南*
+
+---
+
+## 参考文献 | References
+
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-based cognitive therapy for depression: A new approach for preventing relapse*. Guilford Press.
+- Teasdale, J. D., Segal, Z. V., & Williams, J. M. G. (1995). How does cognitive therapy prevent depressive relapse and why should attentional control (mindfulness) training help? *Behaviour Research and Therapy*, *33*(1), 25-39. https://doi.org/10.1016/0005-7967(94)E0011-7
+- Kuyken, W., Warren, F. C., Taylor, R. S., et al. (2016). Efficacy of mindfulness-based cognitive therapy in prevention of depressive relapse: An individual patient data meta-analysis from randomized trials. *JAMA Psychiatry*, *73*(6), 565-574. https://doi.org/10.1001/jamapsychiatry.2016.0076
+- Piet, J., & Hougaard, E. (2011). The effect of mindfulness-based cognitive therapy for prevention of relapse in recurrent major depressive disorder: A systematic review and meta-analysis. *Clinical Psychology Review*, *31*(6), 1032-1040. https://doi.org/10.1016/j.cpr.2011.05.002
+- Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis. *Clinical Psychology Review*, *59*, 52-60. https://doi.org/10.1016/j.cpr.2017.10.011
+- Khoury, B., Lecomte, T., Fortin, G., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005
+- Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, *7*(1), 37-50. https://doi.org/10.1177/2167702618772296
+- Creswell, J. D. (2017). Mindfulness interventions. *Annual Review of Psychology*, *68*, 491-516. https://doi.org/10.1146/annurev-psych-042716-051139
+
+- Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2002). *Mindfulness-based cognitive therapy for depression: A new approach for preventing relapse*. Guilford Press.
+- Kuyken, W., Warren, F. C., Taylor, R. S., et al. (2016). Efficacy of mindfulness-based cognitive therapy in prevention of depressive relapse. *JAMA Psychiatry*, *73*(6), 565-574. https://doi.org/10.1001/jamapsychiatry.2016.0076
+- Piet, J., & Hougaard, E. (2011). The effect of mindfulness-based cognitive therapy for prevention of relapse in recurrent major depressive disorder. *Clinical Psychology Review*, *31*(6), 1032-1040. https://doi.org/10.1016/j.cpr.2011.05.002
+- Goldberg, S. B., et al. (2018). Mindfulness-based interventions for psychiatric disorders: A systematic review and meta-analysis. *Clinical Psychology Review*, *59*, 52-60. https://doi.org/10.1016/j.cpr.2017.10.011
+- Khoury, B., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005

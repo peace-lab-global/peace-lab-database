@@ -1,3 +1,24 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "CBT-I 标准化治疗协议模板 | CBT-I Protocol Template"
+description: "```markdown
+═══════════════════════════════════════════════════════════════
+                    睡眠日记
+         姓名：____________  日期：第___天
+══════════════..."
+category: "临床专题 > Sleep-Disorders"
+tags: ["cbt"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # CBT-I 标准化治疗协议模板 | CBT-I Protocol Template
 
 > **目标**：提供可直接临床使用的CBT-I标准化协议模板。

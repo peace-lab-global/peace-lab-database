@@ -1,3 +1,29 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "完美主义的临床管理 | Clinical Management of Perfectionism"
+description: "```
+高标准 + 对错误的恐惧
+    ↓
+"我还没准备好" / "这还不够好"
+    ↓
+延迟开始（等待"完美时机"）
+    ↓
+时间压力 → 质量确实下降 → "果然我不够好"
+    ↓
+强化完美主义信念（恶性循环）
+```"
+category: "临床专题 > Procrastination"
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 完美主义的临床管理 | Clinical Management of Perfectionism
 
 > **目标**：系统阐述完美主义与拖延关系的临床评估与干预策略。

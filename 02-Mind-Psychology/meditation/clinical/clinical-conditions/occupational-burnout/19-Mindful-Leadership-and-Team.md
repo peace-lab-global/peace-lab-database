@@ -21,7 +21,14 @@ cross_refs:
     relation: "正念/倦怠/mindful"
   - path: "05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Drinking_Practice.md"
     relation: "正念/mindful/觉察"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
 ---
+
 # 19. 正念领导力与团队练习 | Mindful Leadership & Team Practices
 
 > **文档定位**：为管理者和团队领导者提供可操作的正念领导力工具，以及团队层面的集体正念练习方案。

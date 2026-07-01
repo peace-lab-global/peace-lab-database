@@ -1,3 +1,27 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "MBCT 精神科标准评估组合 | Psychiatric Assessment Battery for MBCT"
+description: "```
+基线评估完成
+    │
+    ├── PHQ-9 ≥ 20 或 C-SSRS 阳性
+    │       → 暂缓入组 → 精神科评估 → 药物/住院治疗 → 缓解后重新评估
+    │
+    ├── PHQ-9 15-19 或 C-SSRS 边缘
+    │       → 谨慎入..."
+category: "临床专题 > MBCT"
+tags: ["mbct"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # MBCT 精神科标准评估组合 | Psychiatric Assessment Battery for MBCT
 
 > **目标**：建立符合精神科临床标准的 MBCT 入组、过程监测与疗效评估体系。所有量表均为中文验证版本或国际通用版本。
@@ -203,3 +227,32 @@
 
 *Peace Lab Database — MBCT 精神科标准评估组合*
 *参考：APA Practice Guidelines (2019), NICE Guidelines (2022), Segal et al. (2013), Crane et al. (2017)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

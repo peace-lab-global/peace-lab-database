@@ -10,87 +10,32 @@ created: 2026-05-19
 updated: 2026-05-19
 author: Peace Lab Clinical Team
 language: zh-CN
-tags:
-  - insomnia
-  - sleep
-  - assessment
-  - CBT-I
-  - ISI
-  - sleep-hygiene
-
-entry_trigger:
-  description: "当来访者报告睡眠相关困扰时触发本技能"
-  keywords:
-    - "失眠"
-    - "睡不着"
-    - "睡眠质量差"
-    - "早醒"
-    - "多梦"
-    - "入睡困难"
-    - "半夜醒"
-    - "白天困"
-    - "睡不好"
-    - "做噩梦"
-    - "睡眠浅"
-    - "醒了睡不着"
-  auto_match: true
-  match_threshold: 0.7
-
-entry_criteria:
-  questions:
-    - id: ec_1
-      text: "您是否在过去两周内频繁出现入睡或维持睡眠困难？"
-      type: boolean
-      required: true
-      trigger_on: true
-    - id: ec_2
-      text: "睡眠问题是否影响了您白天的精力、情绪或工作表现？"
-      type: boolean
-      required: true
-      trigger_on: true
-    - id: ec_3
-      text: "您是否每周至少3晚经历睡眠困扰？"
-      type: boolean
-      required: false
-      trigger_on: true
-  minimum_criteria: "至少 ec_1 为 true"
-
-contraindications:
-  - condition: "疑似阻塞性睡眠呼吸暂停 (OSA)"
-    indicators:
-      - "打鼾伴呼吸暂停"
-      - "晨起头痛"
-      - "白天过度嗜睡 (Epworth ≥ 16)"
-      - "BMI > 30 伴颈围 > 40cm"
-    action: "转介睡眠医学科进行多导睡眠图 (PSG) 评估"
-  - condition: "疑似不宁腿综合征 (RLS)"
-    indicators:
-      - "傍晚/夜间腿部不适感"
-      - "活动后症状缓解"
-      - "强烈移动下肢的冲动"
-    action: "转介睡眠医学科或神经内科"
-  - condition: "疑似发作性睡病 (Narcolepsy)"
-    indicators:
-      - "不可控制的日间嗜睡"
-      - "猝倒发作"
-      - "入睡幻觉"
-    action: "转介睡眠医学科"
-  - condition: "疑似 REM 睡眠行为障碍 (RBD)"
-    indicators:
-      - "梦中大喊大叫或暴力动作"
-      - "伴侣报告拳打脚踢"
-    action: "转介神经内科/睡眠医学科"
-
+entry_trigger: 
+description: "当来访者报告睡眠相关困扰时触发本技能"
+keywords: 
+auto_match: true
+match_threshold: 0.7
+entry_criteria: 
+questions: 
+- id: ec_3
+text: "您是否每周至少3晚经历睡眠困扰？"
+type: boolean
+required: false
+trigger_on: true
+minimum_criteria: "至少 ec_1 为 true"
+contraindications: 
+- condition: "疑似 REM 睡眠行为障碍 (RBD)"
+indicators: 
+action: "转介神经内科/睡眠医学科"
 estimated_duration: "10-15分钟"
 evidence_level: A
-clinical_basis:
-  - "DSM-5 失眠障碍诊断标准"
-  - "ICSD-3 慢性失眠障碍诊断标准"
-  - "ISI (Insomnia Severity Index) — Bastien et al., 2001"
-  - "AASM 临床实践指南"
-  - "CBT-I 循证综述 — Trauer et al., 2015, Annals of Internal Medicine"
+clinical_basis: 
 cross_refs: []
+title: "失眠与睡眠质量评估 (Insomnia & Sleep Quality Assessment)"
+tags: ["psychology", "sleep"]
+last_updated: "2026-06"
 ---
+
 
 # 失眠与睡眠质量评估 (Insomnia & Sleep Quality Assessment)
 
@@ -525,3 +470,32 @@ Agent："早上几点起床？"
 5. Morin, C. M., et al. (2006). Cognitive behavioral therapy for insomnia. *Sleep Medicine Clinics*, 1(3), 375-386.
 6. Sateia, M. J. (2014). International Classification of Sleep Disorders (ICSD-3). *Chest*, 146(5), 1387-1394.
 7. Buysse, D. J., et al. (1989). The Pittsburgh Sleep Quality Index: a new instrument for psychiatric practice and research. *Psychiatry Research*, 28(2), 193-213.
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

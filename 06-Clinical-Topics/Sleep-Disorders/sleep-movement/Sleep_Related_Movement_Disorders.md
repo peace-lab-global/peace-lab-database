@@ -1,3 +1,20 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "睡眠相关运动障碍 | Sleep-Related Movement Disorders"
+description: "周期性肢体运动障碍（Periodic Limb Movement Disorder, PLMD）是指睡眠中出现的周期性、重复性、刻板的肢体运动（通常为下肢），导致睡眠片段化和日间功能损害。"
+category: "临床专题 > Sleep-Disorders"
+tags: ["sleep"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 睡眠相关运动障碍 | Sleep-Related Movement Disorders
 
 > **目标**：系统阐述睡眠相关运动障碍的诊断、评估与治疗，重点涵盖周期性肢体运动障碍（PLMD）和睡眠磨牙（Sleep Bruxism）。

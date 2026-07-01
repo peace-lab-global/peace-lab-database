@@ -17,7 +17,10 @@ cross_refs:
     relation: "ballet/contents"
   - path: "01-Wisdom-Traditions/religions/buddhism/history/INDEX.md"
     relation: "history/contents"
----
+mirror_of: "../../../../01-Wisdom-Traditions/religions/buddhism/history/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [history | index](../../../../01-Wisdom-Traditions/religions/buddhism/history/INDEX.md)
+
 # history | Index
 
 ## 内容索引 | Contents

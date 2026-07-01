@@ -1,3 +1,23 @@
+---
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+title: "焦虑障碍复发预防与维持治疗 | Relapse Prevention and Maintenance for Anxiety Disorders"
+description: "```markdown
+═══════════════════════════════════════════════════════════════
+              我的焦虑复发预防计划
+═════════════════════════════════════════════════..."
+category: "临床专题 > Anxiety"
+tags: ["anxiety"]
+last_updated: "2026-06"
+---
+
+
+---
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
 # 焦虑障碍复发预防与维持治疗 | Relapse Prevention and Maintenance for Anxiety Disorders
 
 > **目标**：建立精神科标准的焦虑障碍复发预防体系，涵盖维持治疗决策、复发预警信号、长期管理策略。

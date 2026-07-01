@@ -280,3 +280,17 @@ ACT 对婚姻中"控制议程"（Control Agenda）有着独特且深刻的洞见
 | 宽恕与关系修复 | [Marriage_Forgiveness_Repair](Marriage_Forgiveness_Repair.md) | 宽恕在不同治疗方法中的定位：EFT 中的依恋损伤修复、IFS 中流放者的解负与宽恕的关系、图式疗法中对原生家庭创伤的哀悼与放下、ACT 中价值导向的宽恕行动 |
 | 心理健康共病与治疗选择 | [Marriage_Mental_Health_Comorbidity](Marriage_Mental_Health_Comorbidity.md) | 个人心理障碍如何影响治疗方法选择：图式疗法适合人格障碍共病、IFS 适合创伤后应激共病、ACT 适合焦虑抑郁共病、Discernment Counseling 在共病情况下的特殊考量 |
 | 权力动力与控制议题 | [Marriage_Power_Control](Marriage_Power_Control.md) | 权力不平衡在不同治疗框架中的理解与处理：图式疗法中屈从-特权图式的互锁、ACT 中控制议程的解构、IFS 中管理者部分的权力保护功能、Bowen 系统中的分化水平与权力运作 |
+
+---
+
+## 参考文献 | References
+
+- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, *59*(1), 73-81. https://doi.org/10.1037/0022-3514.59.1.73
+- Jacobson, N. S., & Christensen, A. (1996). *Acceptance and change in couple therapy: A systems approach to contextual behavior*. W. H. Freeman.
+- Baucom, D. H., Hahlweg, K., Atkins, D. C., Engl, J., & Thurmaier, F. (2006). Long-term prediction of marital quality following a relationship education program. *Journal of Family Psychology*, *20*(3), 448-455. https://doi.org/10.1037/0893-3200.20.3.448
+- Christensen, A., Atkins, D. C., Baucom, D., & Yi, J. (2010). Marital status and satisfaction five years following a randomized clinical trial comparing traditional versus integrative behavioral couple therapy. *Journal of Consulting and Clinical Psychology*, *78*(2), 225-235. https://doi.org/10.1037/a0018132
+- Gottman, J. M., & Silver, N. (1999). *The seven principles for making marriage work*. Crown.
+- Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2010). *Fighting for your marriage*. Jossey-Bass.
+- Snyder, D. K., & Whisman, M. A. (2003). *Treating difficult couples: Helping clients with coexisting mental and relationship disorders*. Guilford Press.
+- Johnson, S. M. (2004). The practice of emotionally focused couple therapy: Creating connection. *Journal of Marital and Family Therapy*, *30*(1), 1-18. https://doi.org/10.1111/j.1752-0606.2004.tb01223.x
+- Greenberg, L. S., & Johnson, S. M. (1988). *Emotionally focused therapy for couples*. Guilford Press.

@@ -222,3 +222,45 @@ cross_refs:
 ---
 
 *相关阅读：[教学实务](Professional_Teaching_Practice.md) · [伦理与法律](Professional_Ethics_Legal.md) · [安全与不良反应](../safety/Meditation_Adverse_Effects.md) · [危机干预](../safety/Meditation_Crisis_Protocol.md)*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Bessel van der Kolk, A. (2014). *The body keeps the score: Brain, mind, and body in the healing of trauma*. Viking.
+- West, M. A. (2016). *The psychology of meditation: Research and practice*. Oxford University Press.
+- Linehan, M. M. (1993). *Cognitive-behavioral treatment of borderline personality disorder*. Guilford Press.
+- Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2011). *Acceptance and commitment therapy*. Guilford Press.
+- Foa, E. B., Keane, T. M., Friedman, M. J., & Cohen, J. A. (2009). *Effective treatments for PTSD*. Guilford Press.
+- Shapiro, S. L., & Carlson, L. E. (2009). *The art and science of mindfulness: Integrating mindfulness into psychology and the helping professions*. American Psychological Association.
+- Crane, R. S., Brewer, J., Feldman, C., et al. (2017). What defines mindfulness-based programs? *Psychological Medicine*, *47*(6), 990-999. https://doi.org/10.1017/S0033291716003317
+- Schlosser, M., Sparby, T., Vörös, S., Jones, R., & Marchant, N. L. (2019). Unpleasant meditation-related experiences in regular meditators. *PLoS ONE*, *14*(5), e0216643. https://doi.org/10.1371/journal.pone.0216643
+- Britton, W. B., Lindahl, J. R., Cooper, D. J., Canby, N. K., & Palitsky, R. (2021). Defining and measuring meditation-related adverse effects. *Clinical Psychological Science*, *9*(6), 1185-1204. https://doi.org/10.1177/2167702621996340

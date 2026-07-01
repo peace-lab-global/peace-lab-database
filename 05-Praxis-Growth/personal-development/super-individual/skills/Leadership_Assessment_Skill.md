@@ -1,7 +1,7 @@
 ---
 skill_id: S_015
-skill_name: 领导力与影响力评估
-skill_name_en: Leadership & Influence Assessment
+skill_name: 决策能力评估
+skill_name_en: Decision Making Assessment
 version: "1.0"
 role: entry
 category: assessment
@@ -10,49 +10,23 @@ created: 2026-05-19
 updated: 2026-05-19
 author: Peace Lab Clinical Team
 language: zh-CN
-tags:
-  - leadership
-  - influence
-  - management
-  - EQ
-  - decision-making
-  - team-leadership
-  - assessment
-
-entry_trigger:
-  description: "当来访者讨论领导力、团队管理或影响力相关话题时触发本技能"
-  keywords:
-    - "领导力"
-    - "leadership"
-    - "管理"
-    - "团队"
-    - "影响力"
-    - "带人"
-    - "向上管理"
-    - "决策力"
-  auto_match: true
-  match_threshold: 0.7
-
+entry_trigger: 
+description: "当来访者讨论领导力、团队管理或影响力相关话题时触发本技能"
+keywords: 
+auto_match: true
+match_threshold: 0.7
 estimated_duration: "10-15分钟"
 evidence_level: B
-
-related_skills:
-  - skill_id: S_005
-    skill_name: 情商评估
-    skill_name_en: Emotional Intelligence Assessment
-    relationship: foundational
-  - skill_id: S_008
-    skill_name: 沟通技能评估
-    skill_name_en: Communication Skills Assessment
-    relationship: complementary
-  - skill_id: S_014
-    skill_name: 决策能力评估
-    skill_name_en: Decision Making Assessment
-    relationship: complementary
-cross_refs:
-  - path: "02-Mind-Psychology/relationships/clinical-practice/skills/Relationship_Assessment_Skill.md"
-    relation: "step/level/entry"
+related_skills: 
+- skill_id: S_014
+relationship: complementary
+cross_refs: 
+- path: "02-Mind-Psychology/relationships/clinical-practice/skills/Relationship_Assessment_Skill.md"
+relation: "step/level/entry"
+title: "领导力与影响力评估技能"
+last_updated: "2026-06"
 ---
+
 
 # 领导力与影响力评估技能
 

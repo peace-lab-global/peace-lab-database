@@ -3,7 +3,10 @@ title: "临床实践与干预 | Clinical Practice"
 category: "心智与心理学 > 关系 > 临床实践"
 last_updated: "2026-06"
 cross_refs: []
+description: "临床实践与干预 | Clinical Practice —— 相关领域的内容文档"
+tags: ["relationships"]
 ---
+
 
 # 临床实践与干预 | Clinical Practice
 

@@ -4,17 +4,20 @@ module_name: 积极心理学评估模块
 module_name_en: Positive Psychology Assessment Module
 version: 1.0
 status: active
-skills:
-  - skill_id: S_013
-    skill_name: 幸福感与积极心理评估
-    filename: Wellbeing_Assessment_Skill.md
-    status: active
-cross_refs:
-  - path: "05-Praxis-Growth/personal-development/topics/Personal_Development_Flow.md"
-    relation: "心流/积极心理学/意义"
-  - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
-    relation: "skill/id/assessment"
+skills: 
+- skill_id: S_013
+skill_name: 幸福感与积极心理评估
+filename: Wellbeing_Assessment_Skill.md
+cross_refs: 
+- path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
+relation: "skill/id/assessment"
+title: "积极心理学评估模块清单"
+description: "积极心理学评估模块清单 —— 相关领域的内容文档"
+category: "心智与心理学 > psychology"
+tags: ["psychology"]
+last_updated: "2026-06"
 ---
+
 
 # 积极心理学评估模块清单
 

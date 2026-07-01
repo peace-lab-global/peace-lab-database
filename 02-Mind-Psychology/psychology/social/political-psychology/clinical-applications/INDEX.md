@@ -17,7 +17,10 @@ cross_refs:
     relation: "clinical-applications/psychology/clinical"
   - path: "03-Bio-Science/biology/body-shame/clinical/INDEX.md"
     relation: "interventions/clinical/contents"
----
+mirror_of: "../../../../../01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/INDEX.md"
+status: "mirror"
+---> ⚠️ **本文档为镜像副本** — 权威版本: [clinical-applications | index](../../../../../01-Wisdom-Traditions/religions/religious-psychology/clinical-applications/INDEX.md)
+
 # clinical-applications | Index
 
 ## 内容索引 | Contents

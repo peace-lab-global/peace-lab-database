@@ -21,6 +21,7 @@ cross_refs:
     relation: "lab/peace"
   - path: "02-Mind-Psychology/meditation/traditions/indian-yogic/yoga-meditation/INDEX.md"
     relation: "lab/peace"
+status: "stub"
 ---
 # Drama Therapy Neuroscience
 

@@ -31,12 +31,12 @@ cross_refs:
 | # | 文档 | 主题 |
 |---|------|------|
 | 1 | [太极拳总览](Tai_Chi_Overview.md) | 定义、历史源流、哲学基础、核心原理 |
-| 2 | [五大流派](Tai_Chi_Schools_Styles.md) | 陈/杨/武/吴/孙式详解、流派选择指南 |
-| 3 | [基本功法](Tai_Chi_Fundamentals_Practice.md) | 桩功、身法、单式、套路入门、推手 |
-| 4 | [循证研究与神经科学](Tai_Chi_Neuroscience_Evidence.md) | 神经影像、Meta分析、剂量效应 |
-| 5 | [临床应用](Tai_Chi_Clinical_Applications.md) | 跌倒预防、关节炎、帕金森、心血管 |
-| 6 | [太极与气功整合](Tai_Chi_Qigong_Integration.md) | 站桩、八段锦、五禽戏、内功心法 |
-| 7 | [太极心理调适机制](Tai_Chi_Psychological_Adjustment_Mechanism.md) | 心理调适原理、群体/个体技术 |
+| 2 | [五大流派](schools-lineage/Tai_Chi_Schools_Styles.md) | 陈/杨/武/吴/孙式详解、流派选择指南 |
+| 3 | [基本功法](fundamentals/Tai_Chi_Fundamentals_Practice.md) | 桩功、身法、单式、套路入门、推手 |
+| 4 | [循证研究与神经科学](neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) | 神经影像、Meta分析、剂量效应 |
+| 5 | [临床应用](clinical-health/Tai_Chi_Clinical_Applications.md) | 跌倒预防、关节炎、帕金森、心血管 |
+| 6 | [太极与气功整合](qigong-neigong/Tai_Chi_Qigong_Integration.md) | 站桩、八段锦、五禽戏、内功心法 |
+| 7 | [太极心理调适机制](psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 心理调适原理、群体/个体技术 |
 
 ---
 

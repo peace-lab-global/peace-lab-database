@@ -13,6 +13,7 @@ intent_queries:
   - "窥淫癖研究方法的方法与实践"
 trigger_keywords: ["窥淫癖研究方法", "心理学", "行为心理"]
 cross_refs: []
+status: "stub"
 ---
 # 窥淫癖研究方法
 
