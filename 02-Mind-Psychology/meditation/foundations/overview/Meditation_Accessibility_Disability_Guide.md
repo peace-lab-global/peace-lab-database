@@ -480,10 +480,10 @@ graph TD
 - [冥想与睡眠](Meditation_And_Sleep.md)
 - [老年冥想指南](Meditation_Seniors_Elderly.md)
 - [儿童青少年冥想](Children_Youth_Meditation.md)
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
+- [创伤知情冥想指南](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
 - [冥想核心基础](Meditation_Core.md)
-- [危机与哀伤冥想指南](../crisis-meditation/Crisis_Meditation_Guide.md)
-- [冥想与运动表现](../meditation-integration/Meditation_Sports_Performance.md)
+- [危机与哀伤冥想指南](../../../../02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md)
+- [冥想与运动表现](../../../../02-Mind-Psychology/meditation/applications/meditation-integration/Meditation_Sports_Performance.md)
 
 ---
 

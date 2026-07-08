@@ -355,10 +355,10 @@ cross_refs: []
 ---
 
 > **相关文档链接：**
-> - [阿育吠陀与瑜伽治疗整合](Yoga_Ayurvedic_Therapy_Integration.md)
-> - [六业净化](Yoga_Shatkarma_Cleansing.md)
-> - [瑜伽治疗](Yoga_Therapy.md)
-> - [Yoga Nidra](Yoga_Nidra.md)
-> - [特殊人群瑜伽](Yoga_Specific_Populations.md)
-> - [瑜伽哲学](Yoga_Philosophy.md)
-> - [现代瑜伽流派](Yoga_Modern_Styles.md)
+> - [阿育吠陀与瑜伽治疗整合](../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
+> - [六业净化](../../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Shatkarma_Cleansing.md)
+> - [瑜伽治疗](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md)
+> - [Yoga Nidra](../../../01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md)
+> - [特殊人群瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md)
+> - [瑜伽哲学](../../../01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md)
+> - [现代瑜伽流派](../../../01-Wisdom-Traditions/yoga/modern-professional/Yoga_Modern_Styles.md)

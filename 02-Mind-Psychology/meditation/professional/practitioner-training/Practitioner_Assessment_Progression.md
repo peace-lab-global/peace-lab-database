@@ -577,13 +577,13 @@ cross_refs: []
 
 ## 相关链接
 
-- [冥想水平与能力评估总纲](../overview/Meditation_Level_Ability_Assessment_Standard.md) — 练习者水平评估标准
-- [冥想评估量表与工具](../overview/Meditation_Assessment_Tools.md) — 具体量表使用指南
+- [冥想水平与能力评估总纲](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Level_Ability_Assessment_Standard.md) — 练习者水平评估标准
+- [冥想评估量表与工具](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Assessment_Tools.md) — 具体量表使用指南
 - [冥想执行师培训体系总览](./Practitioner_Training_Overview.md)
 - [冥想教学方法论](./Practitioner_Teaching_Methodology.md)
 - [冥想执行师职业伦理](./Practitioner_Ethics_Standards.md)
 - [冥想执行师认证对比](./Practitioner_Certification_Comparison.md)
-- [MBSR项目概述](../mbsr-program/MBSR_Program_Overview.md)
+- [MBSR项目概述](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
 - [考试认证](../professional-handbook/Professional_Exam_Certification.md)
 
 ---

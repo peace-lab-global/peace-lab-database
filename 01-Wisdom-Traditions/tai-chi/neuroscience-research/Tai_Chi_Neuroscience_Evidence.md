@@ -275,9 +275,9 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极拳总览 | [总览](Tai_Chi_Overview.md) |
-| 太极心理调适 | [心理调适](Tai_Chi_Psychological_Adjustment_Mechanism.md) |
-| 临床应用 | [临床应用](Tai_Chi_Clinical_Applications.md) |
+| 太极拳总览 | [总览](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md) |
+| 太极心理调适 | [心理调适](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) |
+| 临床应用 | [临床应用](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) |
 | 冥想神经科学 | [冥想](../../02-Mind-Psychology/meditation/) |
 | HPA轴 | [HPA轴](../../03-Bio-Science/biology/hpa-axis/) |
 | 运动科学 | [运动科学](../../03-Bio-Science/biology/stretch/) |

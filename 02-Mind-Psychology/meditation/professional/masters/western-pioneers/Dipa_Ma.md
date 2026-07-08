@@ -235,7 +235,7 @@ cross_refs: []
 - [杰克·康菲尔德](Jack_Kornfield.md) — 她最著名的学生之一
 - [约瑟夫·戈德斯坦](Joseph_Goldstein.md) — 她最著名的学生之一
 - [S.N. 葛印卡](SN_Goenka.md) — 同样传承缅甸内观传统的大师
-- [内观禅修](../../vipassana/Vipassana_Meditation.md) — 她的核心传承
+- [内观禅修](../../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) — 她的核心传承
 
 ---
 

@@ -10,7 +10,7 @@ estimated_read_time: "20min"
 intent_queries:
   - "什么是焦点解决短程治疗"
   - "SFBT的核心技术与提问方式"
-  "焦点解决治疗的适应症与循证证据"
+  - "焦点解决治疗的适应症与循证证据"
 trigger_keywords: ["sfbt", "焦点解决", "短程治疗"]
 cross_refs: []
 ---

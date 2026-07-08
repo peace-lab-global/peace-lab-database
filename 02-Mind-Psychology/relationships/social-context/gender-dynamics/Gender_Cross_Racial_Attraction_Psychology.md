@@ -204,13 +204,13 @@ cross_refs:
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](Gender_Misogyny_Psychology.md) | 种族化厌女——厌女与种族偏见的交叉(相交性) |
 | 厌男情绪心理学 | [Gender_Misandry_Psychology](Gender_Misandry_Psychology.md) | 种族化性别态度的多维分析 |
 | 跨文化分析 | [Cross_Cultural_Analysis](../cultural-perspective/Cross_Cultural_Analysis.md) | 跨文化关系中的文化差异协商 |
-| 约会心理学 | [Dating_Psychology_Overview](../dating/Dating_Psychology_Overview.md) | 跨种族约会中的择偶偏好与偏见 |
-| 约会-吸引力与择偶 | [Dating_Attraction_Selection](../dating/Dating_Attraction_Selection.md) | 吸引力中的种族化因素分析 |
-| 依恋与亲密关系 | [Love_Attachment_Intimacy](../love/Love_Attachment_Intimacy.md) | 跨种族亲密关系中的依恋动态 |
-| 仇恨心理学 | [Hatred](../../psychology/social/hatred/Hatred_Psychology_Overview.md) | 种族仇恨与歧视心理学 |
-| 关系心理学概述 | [Relationships_Overview](../Relationships_Overview.md) | 跨种族关系在关系心理学体系中的定位 |
-| 社会心理学 | [Social_Psychology](../../psychology/social/INDEX.md) | 群际关系、偏见与歧视的社会心理学基础 |
-| 婚姻心理学 | [Marriage_Psychology](../marriage/Marriage_Psychology.md) | 跨种族婚姻的独特挑战与保护因子 |
+| 约会心理学 | [Dating_Psychology_Overview](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Psychology_Overview.md) | 跨种族约会中的择偶偏好与偏见 |
+| 约会-吸引力与择偶 | [Dating_Attraction_Selection](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Attraction_Selection.md) | 吸引力中的种族化因素分析 |
+| 依恋与亲密关系 | [Love_Attachment_Intimacy](../../../../02-Mind-Psychology/relationships/love-dating/love/Love_Attachment_Intimacy.md) | 跨种族亲密关系中的依恋动态 |
+| 仇恨心理学 | [Hatred](../../../../02-Mind-Psychology/psychology/social/hatred/Hatred_Psychology_Overview.md) | 种族仇恨与歧视心理学 |
+| 关系心理学概述 | [Relationships_Overview](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md) | 跨种族关系在关系心理学体系中的定位 |
+| 社会心理学 | [Social_Psychology](../../../../01-Wisdom-Traditions/INDEX.md) | 群际关系、偏见与歧视的社会心理学基础 |
+| 婚姻心理学 | [Marriage_Psychology](../../../../02-Mind-Psychology/relationships/marriage/Marriage_Psychology.md) | 跨种族婚姻的独特挑战与保护因子 |
 
 ---
 

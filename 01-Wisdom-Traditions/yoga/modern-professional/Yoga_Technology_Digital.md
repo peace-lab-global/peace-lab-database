@@ -274,8 +274,8 @@ cross_refs:
 > **相关文档链接：**
 > - [瑜伽伦理与专业](Yoga_Ethics_Business_Professional.md)
 > - [现代瑜伽流派](Yoga_Modern_Styles.md)
-> - [瑜伽神经科学与现代研究](Yoga_Neuroscience_Modern_Research.md)
-> - [冥想：专注与禅定](Yoga_Meditation_Dharana_Dhyana.md)
-> - [瑜伽营养与生活方式](Yoga_Nutrition_Lifestyle.md)
+> - [瑜伽神经科学与现代研究](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md)
+> - [冥想：专注与禅定](../../../01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md)
+> - [瑜伽营养与生活方式](../../../01-Wisdom-Traditions/yoga/lifestyle/Yoga_Nutrition_Lifestyle.md)
 > - [静修与工作坊设计](Yoga_Retreat_Workshop_Design.md)
-> - [瑜伽资源](Yoga_Resources.md)
+> - [瑜伽资源](../../../01-Wisdom-Traditions/yoga/resources/Yoga_Resources.md)

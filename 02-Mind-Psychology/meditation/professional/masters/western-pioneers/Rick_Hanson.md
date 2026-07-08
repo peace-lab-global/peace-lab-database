@@ -238,7 +238,7 @@ cross_refs:
 - [塔拉·布拉赫](../contemporary-spiritual/Tara_Brach.md) — 他的主要老师之一
 - [约瑟夫·戈德斯坦](Joseph_Goldstein.md) — 他的主要老师之一
 - [乔恩·卡巴金](Jon_Kabat_Zinn.md) — 同样将冥想科学化的先驱
-- [冥想神经科学机制](../../overview/Meditation_Neuroscience_Mechanisms.md) — 与他的核心教学相关的科学基础
+- [冥想神经科学机制](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) — 与他的核心教学相关的科学基础
 
 ---
 

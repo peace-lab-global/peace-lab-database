@@ -16,7 +16,7 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 **示例**:
 - `01-Wisdom-Traditions/religions/buddhism/` — 佛教相关内容
 - `03-Bio-Science/biology/sleep-science/` — 睡眠科学
-- `06-Clinical-Topics/Anxiety/` — 焦虑障碍
+- `06-Clinical-Topics/anxiety/` — 焦虑障碍
 
 **规则**:
 - ✅ 必须有 `INDEX.md`(可以是手写或自动生成)
@@ -30,7 +30,7 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 
 **示例**:
 - `02-Mind-Psychology/psychology/clinical/` — 心理学临床话题枢纽
-- `06-Clinical-Topics/Anxiety/psychology/` — 临床主题下嵌入心理学视角
+- `06-Clinical-Topics/anxiety/psychology/` — 临床主题下嵌入心理学视角
 - `04-Humanities-Arts/literature/world-poetry/` — 世界诗歌枢纽
 
 **规则**:
@@ -41,7 +41,7 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 
 **为什么需要枢纽目录?**
 当一个主题有多个维度(例:从临床疾病角度 vs 从心理学方法论角度)组织时,需要枢纽目录让用户从两个入口都能找到内容。例如:
-- `06-Clinical-Topics/Anxiety/psychology/self-regulation/anti-ocd/` ← 从"焦虑障碍"入口
+- `06-Clinical-Topics/anxiety/psychology/self-regulation/anti-ocd/` ← 从"焦虑障碍"入口
 - `02-Mind-Psychology/psychology/clinical/disorder/ocd/` ← 从"心理学临床"入口
 
 ### 1.3 镜像目录 (Mirror Directory) — 跨域引用型
@@ -49,8 +49,8 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 **定义**:在另一个 domain 内部嵌入,以便从该 domain 主题出发快速跳转到源 domain 的内容。
 
 **示例**:
-- `06-Clinical-Topics/Anxiety/psychology/` — 镜像 02-Mind-Psychology/psychology/ 的结构
-- `06-Clinical-Topics/Sleep-Disorders/psychology/dream-psychology/` — 引用 02-Mind-Psychology/psychology/special-topics/dream-psychology/
+- `06-Clinical-Topics/anxiety/psychology/` — 镜像 02-Mind-Psychology/psychology/ 的结构
+- `06-Clinical-Topics/sleep-disorders/psychology/dream-psychology/` — 引用 02-Mind-Psychology/psychology/special-topics/dream-psychology/
 
 **规则**:
 - ✅ 镜像目录下的文档应保持**与源目录同步**(避免双写)

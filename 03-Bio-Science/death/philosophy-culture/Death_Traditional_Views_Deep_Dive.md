@@ -83,7 +83,7 @@ cross_refs:
 
 ### 1.5 藏传佛教：中阴与死亡瑜伽
 
-详见 [Death_Meditation_Practices.md](Death_Meditation_Practices.md) 中的颇瓦法与中阴章节。
+详见 [Death_Meditation_Practices.md](../../../03-Bio-Science/death/education-practice/Death_Meditation_Practices.md) 中的颇瓦法与中阴章节。
 
 | 核心概念 | 内容 | 临终应用 |
 |---|---|---|

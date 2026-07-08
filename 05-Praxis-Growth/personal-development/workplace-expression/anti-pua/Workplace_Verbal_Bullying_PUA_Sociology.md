@@ -142,8 +142,8 @@ HR、业务二把手、隔级领导、工会、员工关系团队是关键中介
 建议继续阅读：
 - [心理学机制：精神控制与认知操控分析](Workplace_Verbal_Bullying_PUA_Psychology.md)
 - [工作方法论：应对策略与职场沟通方法](Workplace_Verbal_Bullying_PUA_Response_Methodology.md)
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
 
 ---
 *返回数据库总索引 [Workplace_Verbal_Bullying_PUA_Knowledge_Database.md](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) | 返回上级索引 [INDEX.md](INDEX.md)*

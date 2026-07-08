@@ -216,7 +216,7 @@ cross_refs:
 - [冥想心念管理方法论 (Mind Management)](meditation/foundations/overview/Meditation_Mind_Management.md)
 - [冥想哲学认知论基础 (Philosophical Foundations)](meditation/foundations/overview/Meditation_Philosophical_Foundations.md)
 - [冥想脑科学基础 (Brain Science)](meditation/foundations/overview/Meditation_Brain_Science_Foundations.md)
-- **[专业冥想引导词课程库 (500+门/150+场景)](meditation/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、扩展场景等150+具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
+- **[专业冥想引导词课程库 (~400门/200+场景)](meditation/guided-courses/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，25 系列，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、自然元素、时间节律、社交社群、创意艺术、学习智慧、世界传统、数字现代、存在灵性、死亡冥想等 200+ 具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
 - [直接认知/直指体系 (Direct Recognition)](meditation/traditions/buddhist/direct-recognition/)
 - [坛城与曼荼罗体系 (Mandala)](meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md)
 - [萨提亚家族治疗模式 (Satir Model)](meditation/clinical/satir-model/Satir_Model_Overview.md)

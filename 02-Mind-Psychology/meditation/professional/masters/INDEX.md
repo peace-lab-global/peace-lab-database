@@ -113,5 +113,5 @@ cross_refs:
 - [冥想执行师培训体系](../practitioner-training/Practitioner_Training_Overview.md) — 培训路径
 - [冥想执行师认证对比](../practitioner-training/Practitioner_Certification_Comparison.md) — 全球认证
 - [冥想商业模式](../career-business/Meditation_Business_Models.md) — 商业分析
-- [南怀瑾教学体系](../../../01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md) — 已有专题
-- [克里希纳穆提教学](../../../01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md) — 已有专题
+- [南怀瑾教学体系](../../../../01-Wisdom-Traditions/religions/buddhism/nan-huaijin/Nan_Huaijin_Teachings.md) — 已有专题
+- [克里希纳穆提教学](../../../../01-Wisdom-Traditions/religions/wisdom-traditions/Krishnamurti_Teachings.md) — 已有专题

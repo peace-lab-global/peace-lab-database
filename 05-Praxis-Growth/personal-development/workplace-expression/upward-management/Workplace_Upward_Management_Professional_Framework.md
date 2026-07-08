@@ -364,10 +364,10 @@ cross_refs: []
 - [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
 - [管理者沟通风格画像与适配策略系统设计](Workplace_Manager_Communication_Style_Profiling_System_Design.md)
 - [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 - [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
-- [高效沟通实践训练](../../communication/effective-communication/Effective_Communication_Practice.md)
+- [高效沟通实践训练](../../../../05-Praxis-Growth/communication/effective-communication/Effective_Communication_Practice.md)
 
 ---
 *返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

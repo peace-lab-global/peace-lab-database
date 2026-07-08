@@ -40,7 +40,7 @@ cross_refs: []
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 ---
 # safety | 冥想安全与不良反应 Index
 
@@ -53,6 +53,6 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [执行师培训](../practitioner-training/INDEX.md)
+- [执行师培训](../../../../01-Wisdom-Traditions/INDEX.md)
 - [MBSR项目](../mbsr-program/INDEX.md)
-- [冥想概览](../overview/INDEX.md)
+- [冥想概览](../../../../01-Wisdom-Traditions/INDEX.md)

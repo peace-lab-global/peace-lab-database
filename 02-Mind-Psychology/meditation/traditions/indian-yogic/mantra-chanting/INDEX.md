@@ -47,4 +47,4 @@ cross_refs:
 - [昆达里尼冥想概述](../kundalini-meditation/Kundalini_Meditation_Overview.md) — Kundalini Yoga中的Mantra与唱诵体系
 - [脉轮冥想概述](../chakra-meditation/Chakra_Meditation_Overview.md) — Bija Mantra与脉轮种子音冥想
 - [呼吸法专业教程](../pranayama-breath/diaphragmatic-breathing-masterclass.md) — 呼吸与声音的协同基础
-- [苏菲冥想概述](../sufism-meditation/Sufism_Meditation_Overview.md) — Dhikr与旋转舞中的声音冥想
+- [苏菲冥想概述](../../../../../02-Mind-Psychology/meditation/traditions/abrahamic/sufism-meditation/Sufism_Meditation_Overview.md) — Dhikr与旋转舞中的声音冥想

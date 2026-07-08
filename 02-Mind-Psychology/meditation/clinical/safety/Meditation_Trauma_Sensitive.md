@@ -17,7 +17,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -274,8 +274,8 @@ last_disclaimer_added: "2026-06-23"
 - [冥想不良反应系统分类](./Meditation_Adverse_Effects.md)
 - [修行黑夜现象专题](./Meditation_Dark_Night.md)
 - [冥想危机干预方案](./Meditation_Crisis_Protocol.md)
-- [冥想执行师职业伦理](../practitioner-training/Practitioner_Ethics_Standards.md)
-- [冥想教学方法论](../practitioner-training/Practitioner_Teaching_Methodology.md)
+- [冥想执行师职业伦理](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Ethics_Standards.md)
+- [冥想教学方法论](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Teaching_Methodology.md)
 
 ---
 
@@ -301,7 +301,7 @@ last_disclaimer_added: "2026-06-23"
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

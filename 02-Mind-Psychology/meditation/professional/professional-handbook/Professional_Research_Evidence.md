@@ -310,7 +310,7 @@ AND ("2020"[PDat] : "2026"[PDat])
 
 ---
 
-*相关阅读：[教学实务](Professional_Teaching_Practice.md) · [安全管理](Professional_Safety_Management.md) · [考试认证](Professional_Exam_Certification.md) · [神经科学机制](../overview/Meditation_Neuroscience_Mechanisms.md) · [临床应用](../overview/Meditation_Clinical_Applications.md)*
+*相关阅读：[教学实务](Professional_Teaching_Practice.md) · [安全管理](Professional_Safety_Management.md) · [考试认证](Professional_Exam_Certification.md) · [神经科学机制](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) · [临床应用](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md)*
 
 ---
 

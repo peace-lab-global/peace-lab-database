@@ -201,8 +201,8 @@ cross_refs: []
 - [执行师伦理标准](./Practitioner_Ethics_Standards.md)
 - [执行师评估与进阶](./Practitioner_Assessment_Progression.md)
 - [执行师认证对比](./Practitioner_Certification_Comparison.md)
-- [冥想安全与不良反应](../safety/Meditation_Adverse_Effects.md)
-- [MBSR项目概述](../mbsr-program/MBSR_Program_Overview.md)
+- [冥想安全与不良反应](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
+- [MBSR项目概述](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
 - [冥想职业发展路径](../career-business/Meditation_Career_Pathways.md)
 
 ---
@@ -229,7 +229,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

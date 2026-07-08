@@ -47,7 +47,7 @@ cross_refs: []
 |---------|------|---------|
 | 心流与专注 | [Flow](../flow/) | 学习中的心流状态 |
 | 专注力 | [Focus](../focus/) | 注意力管理 |
-| 习惯科学 | [Habit Science](../topics/Personal_Development_Habit_Science.md) | 学习习惯养成 |
+| 习惯科学 | [Habit Science](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 学习习惯养成 |
 | 冥想 | [Meditation](../../../02-Mind-Psychology/meditation/) | 注意力冥想训练 |
 | 脑科学 | [Brain](../../../03-Bio-Science/biology/brain/) | 学习的神经基础 |
 | 认知衰老 | [Cognitive Aging](../../../03-Bio-Science/biology/aging-longevity/Cognitive_Aging_Prevention.md) | 终身学习 |

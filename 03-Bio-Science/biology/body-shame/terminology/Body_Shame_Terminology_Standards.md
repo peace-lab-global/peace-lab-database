@@ -379,7 +379,7 @@ Brown, K. L. (2022). The psychology of body shame: Theory and treatment. Oxford 
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

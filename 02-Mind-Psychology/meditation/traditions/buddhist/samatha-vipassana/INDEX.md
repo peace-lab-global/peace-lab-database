@@ -58,7 +58,7 @@ cross_refs:
 1. [初学者实践指南](./Practice_Guide_Beginner.md) — 从零开始建立修习
 2. [止观理论基础](./Samatha_Vipassana_Theory.md) §1-2 — 了解哲学根基和止禅理论
 3. [内观禅修详解](../vipassana/Vipassana_Meditation.md) — 了解内观传统
-4. [冥想核心基础](../overview/Meditation_Core.md) — 冥想通用知识
+4. [冥想核心基础](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) — 冥想通用知识
 
 ### 中级修行者路线
 
@@ -72,14 +72,14 @@ cross_refs:
 1. [神经科学研究](./Neuroscience_Research.md) — 科学证据综述
 2. [现代心理学整合](./Modern_Psychology_Integration.md) — 临床应用
 3. [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/) — 百科级参考
-4. [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 汉传止观
+4. [天台宗止观体系](../../../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 汉传止观
 
 ### 临床工作者路线
 
 1. [现代心理学整合](./Modern_Psychology_Integration.md) — 循证应用与禁忌症
 2. [神经科学研究](./Neuroscience_Research.md) §6 — 剂量-效应关系
 3. [初学者实践指南](./Practice_Guide_Beginner.md) §9 — 安全注意事项
-4. [禅修安全与不良反应](../safety/INDEX.md) — 安全管理
+4. [禅修安全与不良反应](../../../../../01-Wisdom-Traditions/INDEX.md) — 安全管理
 
 ---
 
@@ -87,16 +87,16 @@ cross_refs:
 
 ### 佛教止观传统
 - [止观禅修详表](../../../01-Wisdom-Traditions/religions/buddhism/) — 止观百科级详表
-- [天台宗止观体系](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 天台止观
-- [佛教正念疗法整合](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) — 正念疗法
-- [上座部论典](../../../01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md) — 阿毗达摩
+- [天台宗止观体系](../../../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) — 天台止观
+- [佛教正念疗法整合](../../../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) — 正念疗法
+- [上座部论典](../../../../../01-Wisdom-Traditions/religions/buddhism/theravada/Buddhism_Theravada_Abhidhamma.md) — 阿毗达摩
 
 ### 冥想知识库
 - [内观禅修](../vipassana/INDEX.md) — 内观专题
-- [冥想概览](../overview/INDEX.md) — 冥想通用知识
-- [冥想安全](../safety/INDEX.md) — 安全与不良反应
-- [MBSR课程](../mbsr-program/INDEX.md) — 正念减压
-- [冥想大师](../masters/INDEX.md) — 人物档案
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md) — 冥想通用知识
+- [冥想安全](../../../../../01-Wisdom-Traditions/INDEX.md) — 安全与不良反应
+- [MBSR课程](../../../../../01-Wisdom-Traditions/INDEX.md) — 正念减压
+- [冥想大师](../../../../../01-Wisdom-Traditions/INDEX.md) — 人物档案
 
 ### 心理治疗
 - [认知行为疗法](../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/) — CBT

@@ -177,8 +177,8 @@ cross_refs: []
 建议继续阅读：
 - [心理学机制：精神控制与认知操控分析](Workplace_Verbal_Bullying_PUA_Psychology.md)
 - [案例库：典型案例与行为模式分析](Workplace_Verbal_Bullying_PUA_Case_Library.md)
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md)
 
 ---
 *返回数据库总索引 [Workplace_Verbal_Bullying_PUA_Knowledge_Database.md](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) | 返回上级索引 [INDEX.md](INDEX.md)*

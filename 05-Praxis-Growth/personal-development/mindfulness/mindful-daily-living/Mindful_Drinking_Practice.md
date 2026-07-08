@@ -327,7 +327,7 @@ Jon Kabat-Zinn在MBSR体系中提出的七种正念态度(*Seven Attitudinal Fou
 - [正念临床应用 (Mindfulness Clinical Applications)](../Mindfulness_Clinical_Applications.md) — 正念饮水的临床适用性
 - [正念减压疗法 (MBSR)](../Mindfulness_Based_Stress_Reduction.md) — MBSR中的饮食正念练习
 - [正念认知疗法 (MBCT)](../Mindfulness_Based_Cognitive_Therapy.md) — MBCT中的日常正念整合
-- [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 饮茶禅与日常生活禅
+- [佛教禅修实践体系](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 饮茶禅与日常生活禅
 - [正念核心理论 (Mindfulness Core)](../Mindfulness_Core.md) — 正念饮水的理论基础
 
 ---

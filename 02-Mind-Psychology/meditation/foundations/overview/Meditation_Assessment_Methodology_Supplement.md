@@ -1199,10 +1199,10 @@ graph TD
 - [冥想水平与能力评估标准总纲](./Meditation_Level_Ability_Assessment_Standard.md) — 本补充篇的母文档；完整评估框架
 - [冥想评估量表与工具](./Meditation_Assessment_Tools.md) — 具体量表使用指南与评分标准
 - [冥想评估量表与工具 v3.0](./Meditation_Assessment_Tools_v3.md) — v3.0版工具手册
-- [执行师评估与进阶](../practitioner-training/Practitioner_Assessment_Progression.md) — 执行师专用胜任力评估
-- [MBSR评估工具](../mbsr-program/MBSR_Assessment_Tools.md) — 临床干预标准化评估套件
-- [冥想不良反应](../safety/Meditation_Adverse_Effects.md) — 安全监测与风险识别
-- [创伤知情冥想教学](../safety/Trauma_Informed_Meditation.md) — 创伤知情教学指南
+- [执行师评估与进阶](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Assessment_Progression.md) — 执行师专用胜任力评估
+- [MBSR评估工具](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Assessment_Tools.md) — 临床干预标准化评估套件
+- [冥想不良反应](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md) — 安全监测与风险识别
+- [创伤知情冥想教学](../../../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md) — 创伤知情教学指南
 
 ---
 

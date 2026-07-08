@@ -113,7 +113,7 @@
 
 ### 5.2 太极/气功循证补充
 
-参见: [太极临床](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Clinical_Applications.md) · [太极神经科学](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md)
+参见: [太极临床](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) · [太极神经科学](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md)
 
 ---
 

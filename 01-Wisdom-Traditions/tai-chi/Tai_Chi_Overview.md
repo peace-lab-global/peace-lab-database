@@ -228,10 +228,10 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极五大流派详解 | [太极流派](Tai_Chi_Schools_Styles.md) |
-| 太极基本功法 | [基本功法](Tai_Chi_Fundamentals_Practice.md) |
-| 太极循证研究 | [循证研究](Tai_Chi_Neuroscience_Evidence.md) |
-| 太极心理调适 | [心理调适机制](Tai_Chi_Psychological_Adjustment_Mechanism.md) |
+| 太极五大流派详解 | [太极流派](../../01-Wisdom-Traditions/tai-chi/schools-lineage/Tai_Chi_Schools_Styles.md) |
+| 太极基本功法 | [基本功法](../../01-Wisdom-Traditions/tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md) |
+| 太极循证研究 | [循证研究](../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) |
+| 太极心理调适 | [心理调适机制](../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) |
 | 道家哲学 | [道家](../religions/dao/) |
 | 内经养生 | [内经养生](../tcm-neijing/) |
 | 瑜伽对比 | [瑜伽](../yoga/) |

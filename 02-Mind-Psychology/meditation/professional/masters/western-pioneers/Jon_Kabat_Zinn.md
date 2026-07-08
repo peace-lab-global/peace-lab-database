@@ -275,6 +275,6 @@ MBSR 直接催生了多个循证正念干预方案：
 - [冥想执行师培训体系](../../practitioner-training/Practitioner_Training_Overview.md) — 培训路径
 - [冥想执行师认证对比](../../practitioner-training/Practitioner_Certification_Comparison.md) — MBSR认证详情
 - [冥想职业发展路径](../../career-business/Meditation_Career_Pathways.md) — 职业规划
-- [冥想临床应用](../../overview/Meditation_Clinical_Applications.md) — 临床研究
+- [冥想临床应用](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) — 临床研究
 - [一行禅师](../contemporary-spiritual/Thich_Nhat_Hanh.md) — 卡巴金的重要影响者之一
 - [S.N. 葛印卡](SN_Goenka.md) — 内观传统的另一核心传播者

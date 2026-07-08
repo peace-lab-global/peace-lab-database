@@ -256,9 +256,9 @@ ________劳动人事争议仲裁委员会
 
 建议结合以下内容一起使用：
 - [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

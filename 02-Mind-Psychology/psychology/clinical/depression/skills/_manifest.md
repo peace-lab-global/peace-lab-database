@@ -12,7 +12,7 @@ cross_refs:
 - path: "05-Praxis-Growth/personal-development/super-individual/skills/_manifest.md"
 relation: "skill/id/assessment"
 title: "抑郁评估模块清单"
-description: ""抑郁", "情绪低落", "开心不起来", "没意思", "不想活", "活着没意义", "对什么都没兴趣", "很丧""
+description: "「抑郁「, 「情绪低落「, 「开心不起来「, 「没意思「, 「不想活「, 「活着没意义「, 「对什么都没兴趣「, 「很丧「"
 category: "心智与心理学 > psychology"
 tags: ["depression", "psychology"]
 last_updated: "2026-06"

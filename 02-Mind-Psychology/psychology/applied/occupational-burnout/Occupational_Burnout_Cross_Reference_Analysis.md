@@ -112,7 +112,7 @@ cross_refs:
 
 | 职场场景 | 与倦怠的关联 | 应对策略 | 知识库参考 |
 |---|---|---|---|
-| **向上管理** | 倦怠时可能情绪化应对上级 | 用事实而非情绪沟通，设定汇报边界 | [向上管理](../../../../05-Praxis-Growth/personal-development/workplace-expression/Workplace_Upward_Management.md) |
+| **向上管理** | 倦怠时可能情绪化应对上级 | 用事实而非情绪沟通，设定汇报边界 | [向上管理](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) |
 | **PIP应对** | 倦怠导致绩效下降触发PIP | 区分倦怠因素和能力因素 | [PIP应对](../../../../05-Praxis-Growth/personal-development/workplace-expression/) |
 | **职场霸凌** | 霸凌是倦怠的重要诱因 | 取证、维权、必要时离开 | [职场霸凌防范](../../../../05-Praxis-Growth/personal-development/workplace-expression/) |
 | **职业规划** | 倦怠可能是职业转型的信号 | 价值观重新审视+职业探索 | [职业心理学](../vocational-psychology/) |
@@ -157,7 +157,7 @@ cross_refs:
 | 冥想概览 | [meditation/foundations/overview/](../../../meditation/foundations/overview/) | 冥想类型与流派 |
 | MBSR课程 | [mbsr-program/](../../../meditation/clinical/mbsr-program/) | 标准化正念减压课程 |
 | 四无量心 | [Buddhism_Four_Immeasurables.md](../../../../01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Four_Immeasurables.md) | 同情疲劳的佛教转化路径 |
-| 太极心理调节 | [Tai_Chi_Psychological_Adjustment_Mechanism.md](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对压力的调节 |
+| 太极心理调节 | [Tai_Chi_Psychological_Adjustment_Mechanism.md](../../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极对压力的调节 |
 | 禅宗日常修行 | [zen/](../../../../01-Wisdom-Traditions/religions/zen/) | 工作即修行的禅宗视角 |
 | 森林疗法 | [forest-therapy/](../../../therapy/sensory-nature/forest-therapy/) | 自然暴露疗法 |
 
@@ -286,7 +286,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

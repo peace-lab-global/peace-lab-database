@@ -133,6 +133,6 @@ cross_refs:
 ## 相关链接
 
 - [冥想临床应用](./Meditation_Clinical_Applications.md)
-- [MBSR项目概述](../mbsr-program/MBSR_Program_Overview.md)
-- [创伤知情冥想](../safety/Meditation_Trauma_Sensitive.md)
-- [正念呼吸引导词](../guided-scripts/Scripts_Mindfulness_Breathing.md)
+- [MBSR项目概述](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
+- [创伤知情冥想](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
+- [正念呼吸引导词](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Mindfulness_Breathing.md)

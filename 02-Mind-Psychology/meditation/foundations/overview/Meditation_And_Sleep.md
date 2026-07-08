@@ -223,8 +223,8 @@ MBTI由Jason Ong开发，整合正念训练与CBT-I行为策略：
 ## 相关链接 | Related Links
 
 - [冥想执行师Q&A](./Meditation_Practitioner_QA.md)
-- [MBSR项目全景概述](../mbsr-program/MBSR_Program_Overview.md)
-- [正念呼吸引导词脚本](../guided-scripts/Scripts_Mindfulness_Breathing.md)
-- [身体扫描引导词脚本](../guided-scripts/Scripts_Body_Scan.md)
-- [冥想不良反应与安全](../safety/Meditation_Adverse_Effects.md)
+- [MBSR项目全景概述](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
+- [正念呼吸引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Mindfulness_Breathing.md)
+- [身体扫描引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md)
+- [冥想不良反应与安全](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
 - [儿童青少年冥想](./Children_Youth_Meditation.md)

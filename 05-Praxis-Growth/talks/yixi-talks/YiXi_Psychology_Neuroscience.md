@@ -27,7 +27,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **王行坤** | 当"热爱工作"成为骗局 | 2023 | 现代工作文化的反思 | [工作心理学](Psychology_Workplace.md) | 45:12 | [观看](https://www.yixi.tv/speech/1346) |
+| **王行坤** | 当"热爱工作"成为骗局 | 2023 | 现代工作文化的反思 | [工作心理学](../../../05-Praxis-Growth/talks/ted-talks/Psychology_Workplace.md) | 45:12 | [观看](https://www.yixi.tv/speech/1346) |
 | **陈嘉映** | 哲学与日常生活 | 2022 | 哲学思维的生活应用 | [哲学心理学](Psychology_Philosophy.md) | 42:30 | [观看](https://www.yixi.tv/speech/1205) |
 
 ### 1.2 学习与记忆机制
@@ -88,7 +88,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **杨国枢** | 华人心理学的独特性 | 2022 | 文化心理学视角 | [文化心理学](Psychology_Cultural.md) | 44:40 | [观看](https://www.yixi.tv/speech/1225) |
+| **杨国枢** | 华人心理学的独特性 | 2022 | 文化心理学视角 | [文化心理学](../../../05-Praxis-Growth/talks/psychology/Psychology_Cultural.md) | 44:40 | [观看](https://www.yixi.tv/speech/1225) |
 
 ---
 
@@ -178,7 +178,7 @@ cross_refs: []
 - [神经科学基础](../../../03-Bio-Science/biology/brain/Brain_Clinical_Applications.md)
 - [儿童发展心理学](../../../02-Mind-Psychology/psychology/developmental/adolescent/child-development-psychology/Child_Development_Quality_Report.md)
 - [积极心理学](../../../02-Mind-Psychology/psychology/foundations/overview/Psychology_Positive_Psychology.md)
-- [认知科学](../../personal-development/topics/Personal_Development_Growth_Mindset.md)
+- [认知科学](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Growth_Mindset.md)
 
 ---
 

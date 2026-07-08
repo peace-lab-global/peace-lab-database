@@ -103,8 +103,8 @@ cross_refs:
 | 现有文件 | 内容定位 | 本专题的互补点 |
 |---------|---------|--------------|
 | [`depression/`](../depression/INDEX.md) | 抑郁的正念干预模块化指南 | 倦怠与抑郁的鉴别；倦怠特异性的"能量管理"工具 |
-| [`Occupational_Burnout_Overview.md`](../../../psychology/applied/occupational-burnout/Occupational_Burnout_Overview.md) | 倦怠的理论概览 | 本专题专注正念实操，不重复理论 |
-| [`Occupational_Burnout_Prevention_Intervention.md`](../../../psychology/applied/occupational-burnout/Occupational_Burnout_Prevention_Intervention.md) | 预防干预综述 | 本专题将正念干预展开到引导脚本、模板、日志级别 |
+| [`Occupational_Burnout_Overview.md`](../../../../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Overview.md) | 倦怠的理论概览 | 本专题专注正念实操，不重复理论 |
+| [`Occupational_Burnout_Prevention_Intervention.md`](../../../../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Prevention_Intervention.md) | 预防干预综述 | 本专题将正念干预展开到引导脚本、模板、日志级别 |
 
 ---
 
@@ -133,7 +133,7 @@ cross_refs:
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
 ---
 
 *Peace Lab Database — 冥想与职业倦怠临床实操手册*

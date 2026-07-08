@@ -198,8 +198,8 @@ HR通常更关注：
 
 建议进一步阅读：
 - [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
-- [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
-- [给管理者看的：如何避免自己变成情绪化上级](Workplace_Manager_Emotional_Self_Check.md)
+- [应对PUA/羞辱型领导](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Anti_PUA_Leadership.md)
+- [给管理者看的：如何避免自己变成情绪化上级](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Manager_Emotional_Self_Check.md)
 
 ---
 *返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

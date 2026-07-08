@@ -19,7 +19,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -306,6 +306,6 @@ last_disclaimer_added: "2026-06-23"
 
 - [MBSR项目全景概述](./MBSR_Program_Overview.md)
 - [MBSR评估工具汇编](./MBSR_Assessment_Tools.md)
-- [正念呼吸引导词脚本](../guided-scripts/Scripts_Mindfulness_Breathing.md)
-- [身体扫描引导词脚本](../guided-scripts/Scripts_Body_Scan.md)
-- [慈心禅引导词脚本](../guided-scripts/Scripts_Loving_Kindness.md)
+- [正念呼吸引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Mindfulness_Breathing.md)
+- [身体扫描引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md)
+- [慈心禅引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Loving_Kindness.md)

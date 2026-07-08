@@ -105,6 +105,6 @@ cross_refs: []
 | 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 双耳节拍基础概念与脑波入门 |
 | 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 声浴引导序列与引向技术 (Entrainment) |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 哼鸣/吟诵对脑波与迷走神经的影响 |
-| 神经反馈与脑科学 | 03-生命科学 | [Neurofeedback](../../../03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md) | 脑波引导与神经反馈的技术互补 |
-| 冥想与脑科学 | 02-心理学 | [Meditation Brain Science](../../meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) | 冥想中的脑波变化与频率引导的整合 |
-| 睡眠科学 | 02-心理学 | [Sleep Science](../../psychology/somatic-body/sleep/Bio_Sleep_Science.md) | Delta 引导与睡眠优化的交叉应用 |
+| 神经反馈与脑科学 | 03-生命科学 | [Neurofeedback](../../../../03-Bio-Science/biology/brain/Brain_Neurofeedback_Overview.md) | 脑波引导与神经反馈的技术互补 |
+| 冥想与脑科学 | 02-心理学 | [Meditation Brain Science](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) | 冥想中的脑波变化与频率引导的整合 |
+| 睡眠科学 | 02-心理学 | [Sleep Science](../../../../02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md) | Delta 引导与睡眠优化的交叉应用 |

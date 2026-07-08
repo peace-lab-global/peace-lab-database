@@ -419,14 +419,14 @@ graph TB
 *本文件整合了临床心理学、婚姻家庭治疗和创伤学的最新研究成果，为出轨问题的预防、干预和治疗提供了科学的理论框架和实用的操作指南。*
 
 **相关文档链接：**
-- [约炮心理学与健康实践指南](../casual-sex/Casual_Sex_Psychology.md) - 约炮行为的科学定义和健康实践框架
-- [约炮与出轨关系影响综合分析](../impact-analysis/Relationship_Impact_Comparison.md) - 两种行为对不同类型关系的影响对比
-- [约炮与出轨临床实践指南](../clinical-guide/Clinical_Practice_Manual.md) - 专业心理咨询和治疗的技术方法
-- [约炮与出轨预防干预指南](../prevention/Prevention_Intervention_Guide.md) - 基于风险因素的预防策略和早期干预
-- [约炮与出轨法律伦理考量](../legal-ethics/Legal_Ethical_Considerations.md) - 相关法律风险和伦理道德框架
-- [约炮与出轨跨文化视角](../cultural-perspective/Cross_Cultural_Analysis.md) - 不同文化背景下的认知差异和处理方式
-- [数字时代约炮出轨影响分析](../digital-age/Digital_Age_Impact.md) - 社交媒体技术对行为模式的影响
-- [约炮与出轨多元化群体视角](../diverse-populations/Diverse_Populations_Perspectives.md) - 特殊群体的经历分析和支持策略
+- [约炮心理学与健康实践指南](../../../02-Mind-Psychology/relationships/sexuality/casual-sex/Casual_Sex_Psychology.md) - 约炮行为的科学定义和健康实践框架
+- [约炮与出轨关系影响综合分析](../../../02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Comparison.md) - 两种行为对不同类型关系的影响对比
+- [约炮与出轨临床实践指南](../../../02-Mind-Psychology/relationships/clinical-practice/clinical-guide/Clinical_Practice_Manual.md) - 专业心理咨询和治疗的技术方法
+- [约炮与出轨预防干预指南](../../../02-Mind-Psychology/relationships/clinical-practice/prevention/Prevention_Intervention_Guide.md) - 基于风险因素的预防策略和早期干预
+- [约炮与出轨法律伦理考量](../../../02-Mind-Psychology/relationships/clinical-practice/legal-ethics/Legal_Ethical_Considerations.md) - 相关法律风险和伦理道德框架
+- [约炮与出轨跨文化视角](../../../02-Mind-Psychology/relationships/social-context/cultural-perspective/Cross_Cultural_Analysis.md) - 不同文化背景下的认知差异和处理方式
+- [数字时代约炮出轨影响分析](../../../02-Mind-Psychology/relationships/social-context/digital-age/Digital_Age_Impact.md) - 社交媒体技术对行为模式的影响
+- [约炮与出轨多元化群体视角](../../../02-Mind-Psychology/relationships/social-context/diverse-populations/Diverse_Populations_Perspectives.md) - 特殊群体的经历分析和支持策略
 
 ---
 
@@ -452,7 +452,7 @@ graph TB
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

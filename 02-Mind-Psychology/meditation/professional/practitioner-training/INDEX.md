@@ -26,6 +26,6 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [安全与不良反应](../safety/INDEX.md)
-- [MBSR项目](../mbsr-program/INDEX.md)
-- [引导词脚本](../guided-scripts/INDEX.md)
+- [安全与不良反应](../../../../01-Wisdom-Traditions/INDEX.md)
+- [MBSR项目](../../../../01-Wisdom-Traditions/INDEX.md)
+- [引导词脚本](../../../../01-Wisdom-Traditions/INDEX.md)

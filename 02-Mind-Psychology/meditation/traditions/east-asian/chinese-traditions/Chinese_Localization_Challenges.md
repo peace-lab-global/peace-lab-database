@@ -163,4 +163,4 @@ cross_refs: []
 - [中国本土冥想传统概论](./Chinese_Meditation_Overview.md)
 - [中国传统静坐功法](./Chinese_Sitting_Practices.md)
 - [中医与冥想](./Chinese_TCM_Meditation.md)
-- [冥想执行师认证对比](../practitioner-training/Practitioner_Certification_Comparison.md)
+- [冥想执行师认证对比](../../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Certification_Comparison.md)

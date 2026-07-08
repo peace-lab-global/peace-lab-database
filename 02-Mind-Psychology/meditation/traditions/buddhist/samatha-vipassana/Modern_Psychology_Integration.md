@@ -349,10 +349,10 @@ cross_refs:
 |---|---|---|
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 理论框架 |
 | 神经科学研究 | [Neuroscience_Research.md](./Neuroscience_Research.md) | 脑科学证据 |
-| 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) | 佛教视角的整合 |
-| 冥想临床应用 | [Meditation_Clinical_Applications.md](../overview/Meditation_Clinical_Applications.md) | 临床应用概览 |
-| MBSR课程 | [mbsr-program/INDEX.md](../mbsr-program/INDEX.md) | MBSR详细课程 |
-| 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应 |
+| 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../../../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) | 佛教视角的整合 |
+| 冥想临床应用 | [Meditation_Clinical_Applications.md](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) | 临床应用概览 |
+| MBSR课程 | [mbsr-program/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | MBSR详细课程 |
+| 禅修安全 | [safety/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 安全与不良反应 |
 | 认知行为疗法 | [cognitive-behavioral-therapy/INDEX.md](../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/) | CBT详解 |
 | 辩证行为疗法 | [dialectical-behavior-therapy/INDEX.md](../../therapy/cognitive-behavioral/dialectical-behavior-therapy/) | DBT详解 |
 
@@ -393,7 +393,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

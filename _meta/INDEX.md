@@ -39,11 +39,11 @@
 - [职业心理图谱](topic-maps/Career_Psychology_Ecosystem.md) — 倦怠→压力→正念→太极→职场表达
 - [跨领域研究图谱](topic-maps/Research_Topics_Ecosystem.md) — 六大课题×六大支柱交叉网络
 
-### 跨领域课题研究 (07-Research-Topics)
+### 跨领域课题研究 (_meta/research-topics)
 
 > 跨五大支柱的前沿交叉研究平台。
 
-- [跨领域课题研究总览](../07-Research-Topics/INDEX.md) — 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学
+- [跨领域课题研究总览](../_meta/research-topics/INDEX.md) — 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学
 
 ---
 *返回根目录 [README.md](./)*

@@ -17,7 +17,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -725,12 +725,12 @@ ______________________________________________
 
 ### 知识库相关模块
 - [MBSR 八周课程](../mbsr-program/MBSR_Weekly_Curriculum.md) — 母本课程结构与教学参考
-- [冥想神经科学机制](../overview/Meditation_Neuroscience_Mechanisms.md) — 正念练习的脑机制
-- [冥想临床应用](../overview/Meditation_Clinical_Applications.md) — 正念干预的适应症
+- [冥想神经科学机制](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) — 正念练习的脑机制
+- [冥想临床应用](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) — 正念干预的适应症
 - [冥想不良反应与安全](../safety/Meditation_Adverse_Effects.md) — 课程中的风险管理
 - [创伤知情冥想](../safety/Meditation_Trauma_Sensitive.md) — 抑郁共病创伤的教学调整
-- [执行师培训体系](../practitioner-training/Practitioner_Training_Overview.md) — MBCT教师认证
-- [止观理论基础](../samatha-vipassana/Samatha_Vipassana_Theory.md) — MBCT的佛教源流
+- [执行师培训体系](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Training_Overview.md) — MBCT教师认证
+- [止观理论基础](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_Theory.md) — MBCT的佛教源流
 
 ---
 
@@ -760,7 +760,7 @@ ______________________________________________
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

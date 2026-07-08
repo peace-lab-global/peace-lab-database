@@ -301,11 +301,11 @@ graph LR
 *本指南基于循证心理学研究和临床实践经验，旨在为成年人提供科学、负责任的约炮实践指导。所有建议均遵循知情同意、相互尊重和安全第一的原则。*
 
 **相关文档链接：**
-- [出轨心理学与关系干预](../infidelity/Infidelity_Psychology.md) - 深入分析出轨行为的心理机制和影响
-- [约炮与出轨关系影响综合分析](../impact-analysis/Relationship_Impact_Comparison.md) - 两种行为对不同类型关系的影响对比
-- [约炮与出轨临床实践指南](../clinical-guide/Clinical_Practice_Manual.md) - 专业心理咨询和治疗的技术方法
-- [约炮与出轨预防干预指南](../prevention/Prevention_Intervention_Guide.md) - 基于风险因素的预防策略和早期干预
-- [约炮与出轨法律伦理考量](../legal-ethics/Legal_Ethical_Considerations.md) - 相关法律风险和伦理道德框架
-- [约炮与出轨跨文化视角](../cultural-perspective/Cross_Cultural_Analysis.md) - 不同文化背景下的认知差异和处理方式
-- [数字时代约炮出轨影响分析](../digital-age/Digital_Age_Impact.md) - 社交媒体技术对行为模式的影响
-- [约炮与出轨多元化群体视角](../diverse-populations/Diverse_Populations_Perspectives.md) - 特殊群体的经历分析和支持策略
+- [出轨心理学与关系干预](../../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology.md) - 深入分析出轨行为的心理机制和影响
+- [约炮与出轨关系影响综合分析](../../../../02-Mind-Psychology/relationships/social-context/impact-analysis/Relationship_Impact_Comparison.md) - 两种行为对不同类型关系的影响对比
+- [约炮与出轨临床实践指南](../../../../02-Mind-Psychology/relationships/clinical-practice/clinical-guide/Clinical_Practice_Manual.md) - 专业心理咨询和治疗的技术方法
+- [约炮与出轨预防干预指南](../../../../02-Mind-Psychology/relationships/clinical-practice/prevention/Prevention_Intervention_Guide.md) - 基于风险因素的预防策略和早期干预
+- [约炮与出轨法律伦理考量](../../../../02-Mind-Psychology/relationships/clinical-practice/legal-ethics/Legal_Ethical_Considerations.md) - 相关法律风险和伦理道德框架
+- [约炮与出轨跨文化视角](../../../../02-Mind-Psychology/relationships/social-context/cultural-perspective/Cross_Cultural_Analysis.md) - 不同文化背景下的认知差异和处理方式
+- [数字时代约炮出轨影响分析](../../../../02-Mind-Psychology/relationships/social-context/digital-age/Digital_Age_Impact.md) - 社交媒体技术对行为模式的影响
+- [约炮与出轨多元化群体视角](../../../../02-Mind-Psychology/relationships/social-context/diverse-populations/Diverse_Populations_Perspectives.md) - 特殊群体的经历分析和支持策略

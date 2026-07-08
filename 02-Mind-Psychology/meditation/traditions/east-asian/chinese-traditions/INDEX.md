@@ -25,6 +25,6 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [冥想概览](../overview/INDEX.md)
-- [冥想类型分类](../overview/Meditation_Types_Classification.md)
-- [动态冥想指南](../overview/Movement_Meditation.md)
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [冥想类型分类](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)
+- [动态冥想指南](../../../../../02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md)

@@ -96,4 +96,4 @@ cross_refs: []
 | 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 双耳节拍与生物场调谐 |
 | 神圣真言与声学术 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | 种子字频率与脉轮共振 |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 人声频率与迷走神经调优 |
-| 正念冥想 | 02-心理学 | [MBSR](../../meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 444Hz 作为冥想锚定音的整合应用 |
+| 正念冥想 | 02-心理学 | [MBSR](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 444Hz 作为冥想锚定音的整合应用 |

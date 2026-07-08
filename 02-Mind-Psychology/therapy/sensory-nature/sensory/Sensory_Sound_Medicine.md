@@ -71,4 +71,4 @@ cross_refs:
 | 佛教喃诵/梵唱 | 01-智慧传承 | [佛教传统](../../../01-Wisdom-Traditions/religions/buddhism/) | OM喃诵与佛教声音修行传统 |
 | 神经科学与声音 | 03-生命科学 | [脑科学](../../../03-Bio-Science/biology/brain/) | 声音频率对脑波的引导机制 |
 | 音乐疗愈 | 04-人文艺术 | [音乐治疗](../../../04-Humanities-Arts/arts/) | 声音医学与音乐艺术疗法的交叉 |
-| 正念冥想 | 02-心理学 | [MBSR](../../meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 声音引导与正念训练的整合 |
+| 正念冥想 | 02-心理学 | [MBSR](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) | 声音引导与正念训练的整合 |

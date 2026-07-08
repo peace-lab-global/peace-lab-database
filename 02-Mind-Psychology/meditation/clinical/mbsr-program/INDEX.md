@@ -40,7 +40,7 @@ cross_refs: []
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 ---
 # mbsr-program | MBSR正念减压项目 Index
 
@@ -52,7 +52,7 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [执行师培训](../practitioner-training/INDEX.md)
-- [引导词脚本](../guided-scripts/INDEX.md)
+- [执行师培训](../../../../01-Wisdom-Traditions/INDEX.md)
+- [引导词脚本](../../../../01-Wisdom-Traditions/INDEX.md)
 - [安全与不良反应](../safety/INDEX.md)
-- [冥想与睡眠](../overview/Meditation_And_Sleep.md)
+- [冥想与睡眠](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md)

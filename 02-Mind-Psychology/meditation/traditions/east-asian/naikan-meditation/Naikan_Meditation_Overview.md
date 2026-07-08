@@ -847,13 +847,13 @@ graph TD
 
 ## 相关链接
 
-- [MBSR正念减压](../mbsr-program/MBSR_Program_Overview.md) — 与内观对比的正念系统
+- [MBSR正念减压](../../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) — 与内观对比的正念系统
 - [内观禅修](../vipassana/) — 佛教内观（Vipassana）传统，与 Naikan 名称相近但方法不同
-- [正念行走概述](../walking-meditation/Walking_Meditation_Overview.md) — 可作为内观后的身体整合练习
+- [正念行走概述](../../../../../02-Mind-Psychology/meditation/techniques/walking-meditation/Walking_Meditation_Overview.md) — 可作为内观后的身体整合练习
 - [慈心禅](../metta-lovingkindness/) — 与内观的感恩主题互补的修习
-- [焦虑障碍](../clinical-conditions/Meditation_Anxiety_Disorders.md) — 内观辅助干预的临床应用
-- [抑郁症](../clinical-conditions/Meditation_Depression.md) — 内观辅助干预的临床应用
-- [成瘾戒断](../clinical-conditions/Meditation_Addiction_Recovery.md) — 内观的核心应用领域
+- [焦虑障碍](../../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Anxiety_Disorders.md) — 内观辅助干预的临床应用
+- [抑郁症](../../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md) — 内观辅助干预的临床应用
+- [成瘾戒断](../../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Addiction_Recovery.md) — 内观的核心应用领域
 
 ---
 
@@ -883,7 +883,7 @@ graph TD
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

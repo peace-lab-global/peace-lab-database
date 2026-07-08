@@ -211,12 +211,12 @@ cross_refs: []
 | 媚男现象心理学 | [Gender_Male_Pandering_Psychology](Gender_Male_Pandering_Psychology.md) | 内化厌女驱动媚男行为 |
 | 媚女行为心理学 | [Gender_Female_Pandering_Psychology](Gender_Female_Pandering_Psychology.md) | 好人综合征失败后转向厌女的路径 |
 | 跨种族性别吸引力 | [Gender_Cross_Racial_Attraction](Gender_Cross_Racial_Attraction_Psychology.md) | 厌女与种族偏见的交叉（相交性） |
-| 家庭暴力 | [Domestic_Violence](../marriage/domestic-violence/Domestic_Violence_Overview.md) | 厌女态度与家庭暴力的关联 |
-| 出轨心理学 | [Infidelity_Psychology](../infidelity/Infidelity_Psychology_Overview.md) | 处女-荡妇二分法与出轨行为的心理联系 |
-| 仇恨心理学 | [Hatred](../../psychology/social/hatred/Hatred_Psychology_Overview.md) | 从仇恨心理学视角理解极端厌女 |
-| 情感虐待 | [Emotional_Abuse](../../psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 厌女态度在情感虐待中的角色 |
-| 家庭系统排列 | [Family_Constellation_Clinical](../../psychology/special-topics/family-constellation/Family_Constellation_Clinical.md) | 母子关系创伤的系统排列视角 |
-| 关系心理学概述 | [Relationships_Overview](../Relationships_Overview.md) | 厌女态度对关系满意度的影响 |
+| 家庭暴力 | [Domestic_Violence](../../../../02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Overview.md) | 厌女态度与家庭暴力的关联 |
+| 出轨心理学 | [Infidelity_Psychology](../../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology_Overview.md) | 处女-荡妇二分法与出轨行为的心理联系 |
+| 仇恨心理学 | [Hatred](../../../../02-Mind-Psychology/psychology/social/hatred/Hatred_Psychology_Overview.md) | 从仇恨心理学视角理解极端厌女 |
+| 情感虐待 | [Emotional_Abuse](../../../../02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 厌女态度在情感虐待中的角色 |
+| 家庭系统排列 | [Family_Constellation_Clinical](../../../../02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Clinical.md) | 母子关系创伤的系统排列视角 |
+| 关系心理学概述 | [Relationships_Overview](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md) | 厌女态度对关系满意度的影响 |
 
 ---
 

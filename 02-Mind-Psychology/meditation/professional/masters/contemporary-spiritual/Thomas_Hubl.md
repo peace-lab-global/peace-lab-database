@@ -228,7 +228,7 @@ cross_refs: []
 
 ## 相关链接
 
-- [创伤知情正念](../../safety/Meditation_Trauma_Sensitive.md) — 与他的集体创伤工作的关联
+- [创伤知情正念](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md) — 与他的集体创伤工作的关联
 - [秋吉·创巴仁波切](../tibetan/Chogyam_Trungpa.md) — 同样关注社会转化的藏传佛教导师
 - [埃克哈特·托利](Eckhart_Tolle.md) — 同样受神秘主义影响的当代导师
 - [乔恩·卡巴金](../western-pioneers/Jon_Kabat_Zinn.md) — 将冥想科学化的西方先驱

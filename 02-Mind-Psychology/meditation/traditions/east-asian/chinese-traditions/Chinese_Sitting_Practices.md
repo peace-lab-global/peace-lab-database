@@ -191,5 +191,5 @@ cross_refs: []
 - [中国本土冥想传统概论](./Chinese_Meditation_Overview.md)
 - [中医与冥想](./Chinese_TCM_Meditation.md)
 - [正念中国本土化挑战](./Chinese_Localization_Challenges.md)
-- [冥想类型分类学](../overview/Meditation_Types_Classification.md)
-- [冥想安全与不良反应](../safety/Meditation_Adverse_Effects.md)
+- [冥想类型分类学](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)
+- [冥想安全与不良反应](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)

@@ -144,6 +144,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [亲密关系影响](Masturbation_Intimate_Relationships.md) | [心理困扰与应对](Masturbation_Distress_Coping.md) | [神经科学基础](../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Neuroscience_Physiology.md)
+> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [亲密关系影响](Masturbation_Intimate_Relationships.md) | [心理困扰与应对](Masturbation_Distress_Coping.md) | [神经科学基础](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Neuroscience_Physiology.md)
 
 [← 返回自慰与关系索引](INDEX.md) | [← 返回关系心理学目录](../INDEX.md)

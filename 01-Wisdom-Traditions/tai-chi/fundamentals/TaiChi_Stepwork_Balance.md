@@ -220,4 +220,4 @@ cross_refs: []
 ## 参考与延伸阅读
 
 - 王宗岳《太极拳论》："偏沉则随，双重则滞"
-- 参见: [站桩功法](TaiChi_Zhanzhuang_Standing.md) | [太极平衡防跌](../clinical-health/TaiChi_Balance_Fall_Prevention.md) | [太极基本功法](../Tai_Chi_Fundamentals_Practice.md)
+- 参见: [站桩功法](TaiChi_Zhanzhuang_Standing.md) | [太极平衡防跌](../clinical-health/TaiChi_Balance_Fall_Prevention.md) | [太极基本功法](../../../01-Wisdom-Traditions/tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md)

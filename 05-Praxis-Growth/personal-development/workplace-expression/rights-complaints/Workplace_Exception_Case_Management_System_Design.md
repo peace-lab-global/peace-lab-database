@@ -485,8 +485,8 @@ cross_refs: []
 - 建议限制原评价人单独定案
 - 建议补充历史周报、目标确认与面谈记录
 - 建议参考：
-  - [绩效改进计划(PIP)应对指南](Workplace_PIP_Response_Guide.md)
-  - [PIP周报/复盘模板](Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
+  - [绩效改进计划(PIP)应对指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Response_Guide.md)
+  - [PIP周报/复盘模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
   - [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
 
 ## 十三、关键指标设计
@@ -534,10 +534,10 @@ cross_refs: []
 建议与以下内容组合使用：
 - [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
 - [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
-- [绩效改进计划(PIP)应对指南](Workplace_PIP_Response_Guide.md)
-- [PIP周报/复盘模板](Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
-- [被裁员/劝退场景应对方案](Workplace_Layoff_and_Exit_Negotiation_Guide.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
+- [绩效改进计划(PIP)应对指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Response_Guide.md)
+- [PIP周报/复盘模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
+- [被裁员/劝退场景应对方案](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Layoff_and_Exit_Negotiation_Guide.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

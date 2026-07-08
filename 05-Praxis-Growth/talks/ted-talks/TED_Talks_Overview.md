@@ -294,7 +294,7 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Paul Gilding** | The Earth is full | 2012 | 地球承载力的极限 | [可持续发展](Framework_Sustainable_Development.md) | 17:22 | [观看](https://www.ted.com/talks/paul_gilding_the_earth_is_full) |
+| **Paul Gilding** | The Earth is full | 2012 | 地球承载力的极限 | [可持续发展](../../../05-Praxis-Growth/talks/framework/Framework_Sustainable_Development.md) | 17:22 | [观看](https://www.ted.com/talks/paul_gilding_the_earth_is_full) |
 | **William McDonough** | Cradle to cradle design | 2010 | 从摇篮到摇篮的设计理念 | [循环经济](Framework_Circular_Economy.md) | 16:13 | [观看](https://www.ted.com/talks/william_mcdonough_on_cradle_to_cradle_design) |
 
 ---

@@ -295,8 +295,8 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极拳总览 | [总览](Tai_Chi_Overview.md) |
-| 太极基本功法 | [基本功法](Tai_Chi_Fundamentals_Practice.md) |
+| 太极拳总览 | [总览](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md) |
+| 太极基本功法 | [基本功法](../../../01-Wisdom-Traditions/tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md) |
 | 内经养生 | [内经养生](../tcm-neijing/) |
 | 呼吸科学 | [呼吸训练](../../03-Bio-Science/biology/breathwork/) |
 | 冥想修炼 | [冥想](../../02-Mind-Psychology/meditation/) |

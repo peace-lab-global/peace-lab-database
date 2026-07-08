@@ -288,13 +288,13 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极拳总览 | [总览](Tai_Chi_Overview.md) |
-| 循证研究 | [神经科学证据](Tai_Chi_Neuroscience_Evidence.md) |
-| 气功整合 | [气功整合](Tai_Chi_Qigong_Integration.md) |
+| 太极拳总览 | [总览](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md) |
+| 循证研究 | [神经科学证据](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) |
+| 气功整合 | [气功整合](../../../01-Wisdom-Traditions/tai-chi/qigong-neigong/Tai_Chi_Qigong_Integration.md) |
 | 心血管健康 | [心血管](../../03-Bio-Science/biology/cardiovascular/) |
 | 运动处方 | [伸展运动](../../03-Bio-Science/biology/stretch/) |
 | 心理健康 | [心理治疗](../../02-Mind-Psychology/therapy/) |
-| 瑜伽疗愈 | [瑜伽疗愈](../yoga/therapy-clinical/Yoga_Therapy.md) |
+| 瑜伽疗愈 | [瑜伽疗愈](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md) |
 
 ---
 

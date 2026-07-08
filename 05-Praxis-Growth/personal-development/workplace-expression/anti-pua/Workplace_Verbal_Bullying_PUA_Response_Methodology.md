@@ -162,10 +162,10 @@ cross_refs: []
 | 阶段 | 关键动作 | 目标 | 可联动资源 |
 | --- | --- | --- | --- |
 | 识别期 | 记录原话、观察重复性 | 先判断是否成模式 | [心理学机制](Workplace_Verbal_Bullying_PUA_Psychology.md) |
-| 留痕期 | 邮件、纪要、周报、版本记录 | 固定事实与标准 | [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md) |
-| 边界期 | 低冲突回应、任务化表达 | 限制伤害方式 | [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md) |
-| 升级期 | 隔级、HR、ER、合规 | 获得制度支持 | [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md) |
-| 维权期 | 申诉、仲裁、法律映射 | 保护权益 | [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md) |
+| 留痕期 | 邮件、纪要、周报、版本记录 | 固定事实与标准 | [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md) |
+| 边界期 | 低冲突回应、任务化表达 | 限制伤害方式 | [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md) |
+| 升级期 | 隔级、HR、ER、合规 | 获得制度支持 | [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md) |
+| 维权期 | 申诉、仲裁、法律映射 | 保护权益 | [职场维权申诉邮件与仲裁请求模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md) |
 | 恢复期 | 睡眠、现实校准、职业修复 | 恢复功能与判断力 | [干预与康复指南](Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md) |
 
 ## 六、不同目标下的路径选择
@@ -195,9 +195,9 @@ cross_refs: []
 
 建议继续阅读：
 - [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
 
 ---
 *返回数据库总索引 [Workplace_Verbal_Bullying_PUA_Knowledge_Database.md](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) | 返回上级索引 [INDEX.md](INDEX.md)*

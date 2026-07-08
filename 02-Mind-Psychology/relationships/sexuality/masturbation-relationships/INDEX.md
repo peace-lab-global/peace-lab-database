@@ -32,10 +32,10 @@ cross_refs:
 
 ### 关联专题
 
-- [自慰心理学（生物科学视角）](../../../03-Bio-Science/sexuality/masturbation-psychology/INDEX.md)
-- [自慰心理学（心理学理论视角）](../../psychology/special-topics/masturbation-psychology/INDEX.md)
+- [自慰心理学（生物科学视角）](../../../../01-Wisdom-Traditions/INDEX.md)
+- [自慰心理学（心理学理论视角）](../../../../01-Wisdom-Traditions/INDEX.md)
 - [亲密关系总览](../INDEX.md)
-- [性学研究概览](../../../03-Bio-Science/sexuality/Sexuality_Overview.md)
+- [性学研究概览](../../../../03-Bio-Science/sexuality/Sexuality_Overview.md)
 
 ## 统计信息
 

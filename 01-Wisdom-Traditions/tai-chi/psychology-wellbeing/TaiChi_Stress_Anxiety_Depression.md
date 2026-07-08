@@ -71,4 +71,4 @@ cross_refs:
 
 ## 参考与延伸阅读
 
-- 参见: [心理调适机制](../Tai_Chi_Psychological_Adjustment_Mechanism.md) | [认知老化](TaiChi_Cognitive_Aging.md) | [社会联结](TaiChi_Social_Connection_Wellbeing.md)
+- 参见: [心理调适机制](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [认知老化](TaiChi_Cognitive_Aging.md) | [社会联结](TaiChi_Social_Connection_Wellbeing.md)

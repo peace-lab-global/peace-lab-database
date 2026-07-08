@@ -45,7 +45,7 @@ cross_refs: []
 - [婚姻不忠与背叛](../marriage/Marriage_Infidelity_Betrayal.md)
 - [离婚心理学](../marriage/divorce-psychology/Divorce_Psychology_Overview.md)
 - [婚姻孤独感](../marriage/marital-loneliness/Marital_Loneliness_Overview.md)
-- [随意性行为心理学](../casual-sex/Casual_Sex_Psychology.md)
+- [随意性行为心理学](../../../02-Mind-Psychology/relationships/sexuality/casual-sex/Casual_Sex_Psychology.md)
 
 ---
 
@@ -75,7 +75,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

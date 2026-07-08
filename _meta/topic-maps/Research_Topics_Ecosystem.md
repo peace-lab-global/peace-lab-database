@@ -1,6 +1,6 @@
 ---
 title: "跨领域课题研究图谱 — Research Topics Ecosystem"
-description: "07-Research-Topics 六大研究领域的跨支柱知识网络图谱"
+description: "_meta/research-topics 六大研究领域的跨支柱知识网络图谱"
 category: "topic-map"
 tags: ["research", "cross-domain", "ecosystem", "mermaid"]
 last_updated: "2026-06"
@@ -12,7 +12,7 @@ last_updated: "2026-06"
 
 ```mermaid
 graph TB
-    RT[07-Research-Topics]
+    RT[_meta/research-topics]
 
     CS[意识科学]
     EC[具身认知]
@@ -66,4 +66,4 @@ graph TB
 ```
 
 ---
-*返回 [07-Research-Topics](../07-Research-Topics/INDEX.md) | [主题地图索引](../INDEX.md)*
+*返回 [_meta/research-topics](../_meta/research-topics/INDEX.md) | [主题地图索引](../INDEX.md)*

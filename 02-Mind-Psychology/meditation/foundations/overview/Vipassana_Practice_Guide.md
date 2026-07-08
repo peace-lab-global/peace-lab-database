@@ -161,9 +161,9 @@ cross_refs:
 ## 相关链接
 
 - [冥想类型分类学](../overview/Meditation_Types_Classification.md)
-- [修行黑夜现象](../safety/Meditation_Dark_Night.md)
-- [冥想安全与不良反应](../safety/Meditation_Adverse_Effects.md)
-- [中国本土冥想传统](../chinese-traditions/Chinese_Meditation_Overview.md)
+- [修行黑夜现象](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md)
+- [冥想安全与不良反应](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
+- [中国本土冥想传统](../../../../02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md)
 
 ---
 
@@ -189,7 +189,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

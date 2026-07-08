@@ -116,20 +116,20 @@ cross_refs: []
 
 建议与以下内容组合使用：
 - [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
-- [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+- [职场维权申诉邮件与仲裁请求模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md)
 
 ## 八、后续扩展建议
 
 后续可继续新增：
 1. 行为标签词典
 2. 访谈提纲数据库
-3. [高风险敏感语料数据库](Workplace_High_Risk_Sensitive_Language_Database.md)
+3. [高风险敏感语料数据库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Sensitive_Language_Database.md)
 4. 组织预警指标库
 5. 不同行业案例分库
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

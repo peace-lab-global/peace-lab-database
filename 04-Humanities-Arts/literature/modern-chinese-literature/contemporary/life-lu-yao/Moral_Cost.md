@@ -21,7 +21,7 @@ cross_refs:
     relation: "art_therapy/neuroscience"
   - path: "02-Mind-Psychology/meditation/courses/course/C3-0-homework.md"
     relation: "art_therapy/neuroscience"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_05_LovingKindness.md"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_05_LovingKindness.md"
     relation: "art_therapy/neuroscience"
 ---
 # 向上攀爬的道德代价——巧珍的牺牲

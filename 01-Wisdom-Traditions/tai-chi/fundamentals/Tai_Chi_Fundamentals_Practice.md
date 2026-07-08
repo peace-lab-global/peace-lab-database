@@ -305,10 +305,10 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极拳总览 | [总览](Tai_Chi_Overview.md) |
-| 五大流派 | [流派](Tai_Chi_Schools_Styles.md) |
-| 心理调适机制 | [心理调适](Tai_Chi_Psychological_Adjustment_Mechanism.md) |
-| 循证研究 | [神经科学证据](Tai_Chi_Neuroscience_Evidence.md) |
+| 太极拳总览 | [总览](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md) |
+| 五大流派 | [流派](../../../01-Wisdom-Traditions/tai-chi/schools-lineage/Tai_Chi_Schools_Styles.md) |
+| 心理调适机制 | [心理调适](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) |
+| 循证研究 | [神经科学证据](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) |
 | 呼吸科学 | [呼吸训练](../../03-Bio-Science/biology/breathwork/) |
 | 伸展运动 | [伸展](../../03-Bio-Science/biology/stretch/) |
 

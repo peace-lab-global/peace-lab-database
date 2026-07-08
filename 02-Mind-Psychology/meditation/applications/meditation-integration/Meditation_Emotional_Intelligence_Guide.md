@@ -435,10 +435,10 @@ graph TD
 - [冥想与亲密关系](Meditation_Intimacy_Relationships.md)
 - [冥想与运动表现](Meditation_Sports_Performance.md)
 - [冥想与创造力/艺术](Meditation_Creativity_Flow.md)
-- [冥想核心基础](../overview/Meditation_Core.md)
-- [内感受与冥想指南](../overview/Meditation_Interoception_Guide.md)
-- [慈心禅概述](../metta-lovingkindness/Metta_Loving_Kindness_Overview.md)
-- [危机与哀伤冥想指南](../crisis-meditation/Crisis_Meditation_Guide.md)
+- [冥想核心基础](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
+- [内感受与冥想指南](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Interoception_Guide.md)
+- [慈心禅概述](../../../../02-Mind-Psychology/meditation/traditions/buddhist/metta-lovingkindness/Metta_Loving_Kindness_Overview.md)
+- [危机与哀伤冥想指南](../../../../02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md)
 
 ---
 

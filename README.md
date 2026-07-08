@@ -23,7 +23,7 @@ cross_refs:
 ---
 
 ## 🧭 知识架构 (Architecture)
-*五大核心支柱 + 两个跨域聚合层 (Five Pillars + Two Cross-Domain Layers)*
+*五大核心支柱 + 一个临床聚合层 (Five Pillars + One Clinical Layer；跨领域研究已并入 _meta 知识关联层)*
 
 ### 五大核心支柱 (The Five Pillars)
 
@@ -47,8 +47,7 @@ cross_refs:
 ### 6. [🏥 临床专题 (Clinical Topics)](06-Clinical-Topics/INDEX.md)
 **核心领域**: 跨支柱临床知识包 —— 焦虑、抑郁、睡眠障碍、哀伤丧亲、拖延症、MBCT 正念认知疗法，按疾病/问题维度聚合，面向临床实践。
 
-### 7. [🔬 跨领域课题研究 (Research Topics)](07-Research-Topics/INDEX.md)
-**核心领域**: 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学 — 跨五大支柱与临床专题的前沿交叉研究平台。
+> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_meta/` 知识关联层：[research-topics](_meta/research-topics/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
 
 ---
 
@@ -205,3 +204,9 @@ Agent Skills 遵循以下设计原则：
 *本项目由 Peace Lab Global 维护，旨在为现代人提供多维度的认知工具与身心解决方案。*
 
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](LICENSE)
+
+---
+
+## 2025-2026 维护备注
+
+> 2026-07-08 完成仓库卫生治理：扩展 `.gitignore`、确保 `.DS_Store` 不再被跟踪。身心成长与人文领域的最新趋势内容将持续补充。

@@ -2,6 +2,75 @@
 
 ---
 
+## 2026-07-08 (Phase 1 执行：临床急救 P0 缺口补全)
+
+> **规模**: 53 个新文档 / ~8,988 行新增内容 / 1 个 INDEX 更新
+> **计划**: [Mental_Health_Enhancement_Plan_20260708.md](plans/Mental_Health_Enhancement_Plan_20260708.md) Phase 1
+
+### M1.1 进食障碍 (20 文件 / 3,411 行) `[NEW]`
+
+| 目录 | 文件 |
+|:-----|:-----|
+| `eating-disorders/` | INDEX.md |
+| `diagnosis/` | Eating_Disorders_DSM5_Classification, Anorexia_Nervosa, Bulimia_Nervosa, Binge_Eating_Disorder, ARFID, OSFED |
+| `assessment/` | Eating_Disorders_Assessment_Tools, Medical_Complications_Assessment |
+| `treatment/` | CBT_E, FBT_Family_Based, IPT, DBT, Pharmacotherapy |
+| `special-populations/` | Adolescent, Male, Athletes |
+| `cross-pillar/` | Body_Image_Mindfulness, Nutrition_Rehabilitation |
+| `skills/` | Eating_Disorder_Assessment_Skill |
+
+### M1.2 人格障碍 (15 文件 / 1,577 行) `[NEW]`
+
+| 目录 | 文件 |
+|:-----|:-----|
+| `personality-disorders/` | INDEX.md |
+| `foundations/` | Personality_Disorders_DSM5_Overview, Dimensional_Model_Alternative |
+| `cluster-b/` | Borderline, Narcissistic, Antisocial, Histrionic |
+| `cluster-c/` | Avoidant, Dependent |
+| `treatment/` | DBT_Borderline_Complete, Schema_Therapy, MBT, TFP, STEPPS |
+| `skills/` | Personality_Disorder_Assessment_Skill |
+
+### M1.3 创伤-PTSD 扩展 (+10 文件, 总 19 文件 / 2,173 行)
+
+| 目录 | 新增文件 |
+|:-----|:---------|
+| `diagnosis/` | Complex_PTSD_ICD11, Developmental_Trauma_Disorder |
+| `therapy/` | Prolonged_Exposure, Cognitive_Processing, EMDR_Trauma_Protocol, Somatic_Experiencing |
+| `special-topics/` | Trauma_Informed_Care, Childhood_Trauma_Adult_Sequelae, Moral_Injury |
+| `skills/` | Trauma_Assessment_Advanced_Skill |
+
+### M1.4 成瘾障碍扩展 (+8 文件, 总 17 文件 / 1,827 行)
+
+| 目录 | 新增文件 |
+|:-----|:---------|
+| `diagnosis/` | Behavioral_Addiction_Overview, Gambling_Disorder, Gaming_Disorder, Social_Media_Addiction |
+| `therapy/` | Motivational_Interviewing, Contingency_Management |
+| `recovery/` | Relapse_Prevention_Model, Harm_Reduction_Approach |
+
+### INDEX 更新
+
+- `06-Clinical-Topics/INDEX.md`: 新增进食障碍/人格障碍条目，更新创伤/成瘾文档计数
+
+---
+
+## 2026-07-08 (心智健康内容体系增强计划制定)
+
+> **规模**: 1 个计划文件 / 606 行
+> **文件**: [Mental_Health_Enhancement_Plan_20260708.md](plans/Mental_Health_Enhancement_Plan_20260708.md)
+
+### 新增心智健康内容体系增强执行计划
+
+- **背景**: 基于对六大支柱 INDEX 文件的心智健康维度全面审查
+- **评估结论**: 知识库整体评级 A-，在进食障碍、人格障碍、DBT/ACT/EMDR 疗法、冥想安全、围产期心理、儿童青少年临床等领域存在显著缺口
+- **计划规模**: ~120-150 新文档 / ~60,000-80,000 行内容
+- **执行周期**: 2026-Q3 至 2027-Q3（四阶段）
+  - **Phase 1** (1-3月): 临床急救 — 进食障碍(20篇)、人格障碍(15篇)、创伤扩展(10篇)、成瘾扩展(8篇)
+  - **Phase 2** (3-6月): 疗法补全 — DBT(7篇)、ACT(7篇)、EMDR(5篇)、家庭治疗(6篇)、团体治疗(4篇)、其他(4篇)
+  - **Phase 3** (6-12月): 交叉深化 — 围产期(7篇)、儿童青少年(9篇)、冥想安全(6篇)、数字心理健康(4篇)、其他交叉(8篇)
+  - **Phase 4** (12-15月): 精细打磨 — 目录重组、INDEX 更新、Agent Skills 扩展(7个)、质量审计
+
+---
+
 ## 2026-04-13 (止观禅定专业内容体系建设)
 
 > **规模**: 9 个新文件 + 3 个索引更新 / ~2,800+ 行新增内容

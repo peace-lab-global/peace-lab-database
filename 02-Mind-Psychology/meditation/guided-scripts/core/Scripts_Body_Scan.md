@@ -253,5 +253,5 @@ cross_refs:
 - [正念呼吸引导词脚本](./Scripts_Mindfulness_Breathing.md)
 - [慈心禅引导词脚本](./Scripts_Loving_Kindness.md)
 - [特殊场景引导词脚本](./Scripts_Special_Scenarios.md)
-- [MBSR八周课程设计](../mbsr-program/MBSR_Weekly_Curriculum.md)
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
+- [MBSR八周课程设计](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md)
+- [创伤知情冥想指南](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)

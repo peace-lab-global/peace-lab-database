@@ -287,8 +287,8 @@ cross_refs:
 - [瑜伽尼德拉科学机制](Yoga_Nidra_Science.md) — 神经科学和生理学研究
 - [瑜伽尼德拉技术体系](Yoga_Nidra_Techniques.md) — 详细的技术实施指南
 - [瑜伽尼德拉临床应用](Yoga_Nidra_Clinical_Applications.md) — 循证临床应用
-- [冥想与睡眠](../overview/Meditation_And_Sleep.md) — 相关专题
-- [身体扫描](../guided-scripts/Scripts_Body_Scan.md) — 相关引导练习
+- [冥想与睡眠](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md) — 相关专题
+- [身体扫描](../../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md) — 相关引导练习
 
 ---
 

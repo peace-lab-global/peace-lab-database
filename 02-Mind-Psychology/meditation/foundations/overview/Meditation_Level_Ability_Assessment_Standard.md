@@ -2017,14 +2017,14 @@ VR技术为冥想评估提供了高生态效度的沉浸式环境（Navarro-Haro
 
 - [冥想评估量表与工具](./Meditation_Assessment_Tools.md) — 具体量表使用指南与评分标准
 - [冥想评估量表与工具 v3.0](./Meditation_Assessment_Tools_v3.md) — v3.0版工具手册（新增量表、ESM协议、VR评估）
-- [执行师评估与进阶](../practitioner-training/Practitioner_Assessment_Progression.md) — 执行师专用胜任力评估
+- [执行师评估与进阶](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Assessment_Progression.md) — 执行师专用胜任力评估
 - [执行师评估与进阶 v3.0](../practitioner-training/Practitioner_Assessment_Progression_v3.md) — v3.0版执行师评估（新增创伤知情、AI辅助）
-- [MBSR评估工具](../mbsr-program/MBSR_Assessment_Tools.md) — 临床干预标准化评估套件
-- [直接认知评估与阶次](../direct-recognition/Meditation_Direct_Recognition_Assessment_Stages.md) — 非二元传统专用评估
-- [禅定体系详解](../samatha-vipassana/Dhyana_Samadhi_System.md) — 传统阶次的深度解析
-- [冥想不良反应](../safety/Meditation_Adverse_Effects.md) — 安全监测与风险识别
-- [冥想危机干预](../safety/Meditation_Crisis_Protocol.md) — 紧急情况响应流程
-- [创伤知情冥想教学](../safety/Trauma_Informed_Meditation.md) — 创伤知情教学指南
+- [MBSR评估工具](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Assessment_Tools.md) — 临床干预标准化评估套件
+- [直接认知评估与阶次](../../../../02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Assessment_Stages.md) — 非二元传统专用评估
+- [禅定体系详解](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Dhyana_Samadhi_System.md) — 传统阶次的深度解析
+- [冥想不良反应](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md) — 安全监测与风险识别
+- [冥想危机干预](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Crisis_Protocol.md) — 紧急情况响应流程
+- [创伤知情冥想教学](../../../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md) — 创伤知情教学指南
 
 ---
 
@@ -2072,7 +2072,7 @@ VR技术为冥想评估提供了高生态效度的沉浸式环境（Navarro-Haro
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

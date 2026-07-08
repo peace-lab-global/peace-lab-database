@@ -65,6 +65,7 @@ md_with_imgs = mermaid_re.sub(replacer, md_text)
 
 # ── Step 3: Convert Markdown → HTML ────────────────────────────
 import markdown
+from bs4 import BeautifulSoup
 
 html_body = markdown.markdown(
     md_with_imgs,
@@ -73,20 +74,41 @@ html_body = markdown.markdown(
 )
 
 # ── Step 3b: Preprocess HTML to prevent orphaned headings ───────
-# Wrap h4 + immediately following .mermaid-diagram into a keep-together container
-html_body = re.sub(
-    r'(<h4[^>]*>.*?</h4>)\s*(<div class="mermaid-diagram">.*?</div>)',
-    r'<div class="keep-together">\1\2</div>',
-    html_body,
-    flags=re.DOTALL,
-)
-# Also wrap h3 + immediately following .mermaid-diagram
-html_body = re.sub(
-    r'(<h3[^>]*>.*?</h3>)\s*(<div class="mermaid-diagram">.*?</div>)',
-    r'<div class="keep-together">\1\2</div>',
-    html_body,
-    flags=re.DOTALL,
-)
+# NOTE: a previous regex-based implementation catastrophically over-matched
+# (backtracking let `.*?</h4>` span many headings), swallowing whole sections
+# and tables into a single unbreakable block → orphaned heading pages.
+# We now use BeautifulSoup so only a heading that is the *immediate sibling*
+# of a mermaid diagram gets wrapped.
+soup = BeautifulSoup(html_body, "lxml")
+
+# (a) drop <hr> that sits immediately before an <h2>: every <h2> already
+# forces a page break (page-break-before: always), so a preceding rule is
+# redundant and — when it lands at a page bottom — produces a blank page.
+for hr in soup.find_all("hr"):
+    nxt = hr.find_next_sibling()
+    if nxt is not None and nxt.name == "h2":
+        hr.decompose()
+
+# (b) wrap heading + its immediately-following mermaid diagram together.
+# Iterate over a snapshot because we re-parent nodes while walking.
+for heading in list(soup.find_all(["h2", "h3", "h4"])):
+    sib = heading.find_next_sibling(skip_strings=False)
+    # skip pure whitespace text nodes
+    while (sib is not None
+           and (not getattr(sib, "name", None))
+           and isinstance(sib, str) and not str(sib).strip()):
+        sib = sib.find_next_sibling()
+    if (sib is not None
+            and getattr(sib, "name", None) == "div"
+            and "mermaid-diagram" in (sib.get("class") or [])):
+        wrapper = soup.new_tag("div", attrs={"class": "keep-together"})
+        heading.wrap(wrapper)
+        # move the mermaid div inside the same wrapper, right after heading
+        wrapper.append(sib)
+
+html_body = str(soup.body) if soup.body else str(soup)
+# strip the <body> wrapper tags that lxml injects
+html_body = re.sub(r"^<body[^>]*>|</body>$", "", html_body, flags=re.DOTALL).strip()
 
 # ── Step 4: Wrap with CSS ──────────────────────────────────────
 CSS = f"""

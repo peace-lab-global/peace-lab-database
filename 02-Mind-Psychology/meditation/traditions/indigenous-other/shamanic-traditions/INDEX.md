@@ -22,8 +22,8 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [冥想概览](../overview/INDEX.md)
-- [冥想类型分类](../overview/Meditation_Types_Classification.md)
-- [自然冥想](../nature-meditation/INDEX.md)
-- [道家冥想](../taoist-meditation/INDEX.md)
-- [藏传佛教冥想](../tibetan-meditation/INDEX.md)
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [冥想类型分类](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)
+- [自然冥想](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [道家冥想](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [藏传佛教冥想](../../../../../01-Wisdom-Traditions/INDEX.md)

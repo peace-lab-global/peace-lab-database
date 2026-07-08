@@ -58,6 +58,6 @@ auto_generated: true
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 *返回上级: [02-Mind-Psychology/psychology/clinical](../INDEX.md)*
 *自动生成于 2026-06-23 10:13*

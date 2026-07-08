@@ -1,6 +1,6 @@
 ---
-title: "莫扎特《G大调弦乐四重奏"春天"》综合指南"
-description: "莫扎特《G大调弦乐四重奏"春天"》综合指南的详细解析与实践指南"
+title: "莫扎特《G大调弦乐四重奏「春天「》综合指南"
+description: "莫扎特《G大调弦乐四重奏「春天「》综合指南的详细解析与实践指南"
 category: "人文与艺术疗愈 > 媒体 > 音乐 > 古典音乐 > Mozart String Quartets > Kv387"
 tags: ["depression", "healing"]
 last_updated: "2026-05"
@@ -8,9 +8,9 @@ difficulty: "intermediate"
 reading_level: "intermediate"
 estimated_read_time: "5min"
 intent_queries:
-  - "什么是莫扎特《G大调弦乐四重奏"春天"》综合指南"
-  - "莫扎特《G大调弦乐四重奏"春天"》综合指南的核心概念"
-  - "莫扎特《G大调弦乐四重奏"春天"》综合指南的方法与实践"
+  - "什么是莫扎特《G大调弦乐四重奏「春天「》综合指南"
+  - "莫扎特《G大调弦乐四重奏「春天「》综合指南的核心概念"
+  - "莫扎特《G大调弦乐四重奏「春天「》综合指南的方法与实践"
 trigger_keywords: ["anxiety", "art", "clinical", "cognitive"]
 cross_refs:
   - path: "02-Mind-Psychology/therapy/sensory-nature/incense/Incense_Psychological_Healing.md"

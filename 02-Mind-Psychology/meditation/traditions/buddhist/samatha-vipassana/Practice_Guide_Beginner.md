@@ -302,7 +302,7 @@ cross_refs: []
 | 解离感持续存在（日常生活中） | 暂停并咨询心理治疗师 |
 | 自杀或自伤念头 | 立即寻求危机干预 |
 
-> **参考**：Lindahl, J. R. et al. (2017). The varieties of contemplative experience. *PLoS ONE*, 12(5); 详见 [禅修安全与不良反应](../safety/INDEX.md)
+> **参考**：Lindahl, J. R. et al. (2017). The varieties of contemplative experience. *PLoS ONE*, 12(5); 详见 [禅修安全与不良反应](../../../../../01-Wisdom-Traditions/INDEX.md)
 
 ---
 
@@ -314,9 +314,9 @@ cross_refs: []
 | 高阶实践指南 | [Practice_Guide_Advanced.md](./Practice_Guide_Advanced.md) | 高级修行者指南 |
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 深入理论学习 |
 | 内观禅修详解 | [Vipassana_Meditation.md](../vipassana/Vipassana_Meditation.md) | 内观传统详解 |
-| 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应 |
-| 引导词脚本 | [guided-scripts/INDEX.md](../guided-scripts/INDEX.md) | 呼吸、身扫引导词 |
-| 冥想核心基础 | [Meditation_Core.md](../overview/Meditation_Core.md) | 冥想通用基础 |
+| 禅修安全 | [safety/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 安全与不良反应 |
+| 引导词脚本 | [guided-scripts/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 呼吸、身扫引导词 |
+| 冥想核心基础 | [Meditation_Core.md](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) | 冥想通用基础 |
 
 ---
 
@@ -355,7 +355,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

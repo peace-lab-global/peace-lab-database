@@ -133,6 +133,6 @@ cross_refs:
 ## 相关链接
 
 - [冥想类型分类学](../overview/Meditation_Types_Classification.md)
-- [中医与冥想](../chinese-traditions/Chinese_TCM_Meditation.md)
-- [特殊场景引导词](../guided-scripts/Scripts_Special_Scenarios.md)
-- [创伤知情冥想](../safety/Meditation_Trauma_Sensitive.md)
+- [中医与冥想](../../../../02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md)
+- [特殊场景引导词](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Special_Scenarios.md)
+- [创伤知情冥想](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)

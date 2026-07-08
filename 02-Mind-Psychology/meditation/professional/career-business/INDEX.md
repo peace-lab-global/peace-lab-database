@@ -32,5 +32,5 @@ cross_refs:
 
 - [执行师培训](../practitioner-training/INDEX.md)
 - [执行师认证对比](../practitioner-training/Practitioner_Certification_Comparison.md)
-- [冥想概览](../overview/INDEX.md)
+- [冥想概览](../../../../01-Wisdom-Traditions/INDEX.md)
 - [冥想大师人物档案](../masters/INDEX.md)

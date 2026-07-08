@@ -289,7 +289,7 @@ cross_refs: []
 
 - **理论基础** → [Adlerian_Task_Separation_Overview](Adlerian_Task_Separation_Overview.md)
 - **临床应用与治疗技术** → [Adlerian_Task_Separation_Clinical_Application](Adlerian_Task_Separation_Clinical_Application.md)
-- **冥想引导资源** → [冥想引导脚本](../../../meditation/courses/guided-scripts/)
+- **冥想引导资源** → [冥想引导脚本](../../../meditation/guided-scripts/)
 - **正向教养** → [Parenting_Understanding_Child_Overview](../../../relationships/marriage/parenting/Parenting_Understanding_Child_Overview.md)
 - **存在性空虚** → [Existential Vacuum](../../special-topics/existential-vacuum/)
 - **自我关怀** → [Self-Compassion](../../self-regulation/self-compassion/)
@@ -323,7 +323,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

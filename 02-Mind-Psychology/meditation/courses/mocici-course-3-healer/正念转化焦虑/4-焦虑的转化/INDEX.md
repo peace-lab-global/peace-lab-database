@@ -16,7 +16,7 @@ auto_generated: true
 ### 主题目录 (Topic Directories)
 
 - [doc/](doc/INDEX.md) (1 md)
-- [infograhic/](infograhic/INDEX.md) (0 md)
+- [infographic/](../../../../../../01-Wisdom-Traditions/INDEX.md) (0 md)
 
 ## 📄 文件 | Files (1)
 

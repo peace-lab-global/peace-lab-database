@@ -444,14 +444,14 @@ cross_refs:
 - [正念日常生活 (Mindful Daily Living)](Mindful_Daily_Living.md) — 正念行走的练习层级表
 - [正念饮水专业实践指南 (Mindful Drinking Practice)](Mindful_Drinking_Practice.md) — 另一核心日常正念微练习
 - [正念开会专业实践指南 (Mindful Meeting Practice)](Mindful_Meeting_Practice.md) — 职场正念实践与会议场景应用
-- [正念核心概念与技术 (Mindfulness Core)](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) — 正念行走的理论框架(6.3节)
-- [正念临床应用 (Mindfulness Clinical Applications)](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念行走的临床适用性
-- [冥想类型与流派分类 (Meditation Types Classification)](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md) — 行走冥想在冥想分类中的位置
-- [佛教禅修实践体系 (Buddhism Meditation Practice System)](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 经行传统与日常生活禅
-- [冥想核心 (Meditation Core)](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) — 冥想基础知识
-- [止观禅修详表 (Samatha Vipassana)](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) — 经行禅修详解（表4.5）与三层级标记系统
-- [禅宗实践方法论 (Zen Practice Methodology)](/01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md) — Kinhin（经行）慢速/快速两种形式的技术规范
-- [南传内观传承 (Theravada Vipassana Traditions)](/01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Vipassana_Traditions.md) — 行禅标记系统（提-移-落）原始传承
+- [正念核心概念与技术 (Mindfulness Core)](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) — 正念行走的理论框架(6.3节)
+- [正念临床应用 (Mindfulness Clinical Applications)](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念行走的临床适用性
+- [冥想类型与流派分类 (Meditation Types Classification)](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md) — 行走冥想在冥想分类中的位置
+- [佛教禅修实践体系 (Buddhism Meditation Practice System)](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 经行传统与日常生活禅
+- [冥想核心 (Meditation Core)](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md) — 冥想基础知识
+- [止观禅修详表 (Samatha Vipassana)](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) — 经行禅修详解（表4.5）与三层级标记系统
+- [禅宗实践方法论 (Zen Practice Methodology)](../../../../01-Wisdom-Traditions/religions/zen/Zen_Practice_Methodology.md) — Kinhin（经行）慢速/快速两种形式的技术规范
+- [南传内观传承 (Theravada Vipassana Traditions)](../../../../01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Vipassana_Traditions.md) — 行禅标记系统（提-移-落）原始传承
 - [正念行走实修方案集 (Mindful Walking Protocols)](Mindful_Walking_Protocols.md) — 七种变式操作脚本、20周进阶方案、人群定制课程、临床协议与安全详案
 
 ---
@@ -489,7 +489,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

@@ -46,8 +46,8 @@ cross_refs: []
 ## 相关模块 | Related Modules
 
 - [执行师培训](../practitioner-training/INDEX.md)
-- [安全与不良反应](../safety/INDEX.md)
+- [安全与不良反应](../../../../01-Wisdom-Traditions/INDEX.md)
 - [职业与商业化](../career-business/INDEX.md)
-- [引导词脚本](../guided-scripts/INDEX.md)
-- [专业引导词课程库](../guided-courses/INDEX.md)
-- [冥想概览](../overview/INDEX.md)
+- [引导词脚本](../../../../01-Wisdom-Traditions/INDEX.md)
+- [专业引导词课程库](../../../../01-Wisdom-Traditions/INDEX.md)
+- [冥想概览](../../../../01-Wisdom-Traditions/INDEX.md)

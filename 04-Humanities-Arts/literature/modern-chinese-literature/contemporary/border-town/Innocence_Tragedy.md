@@ -19,7 +19,7 @@ cross_refs:
     relation: "art_therapy/communication/exercise"
   - path: "01-Wisdom-Traditions/religions/zen/Zen_Aesthetics_Culture.md"
     relation: "art_therapy/communication/exercise"
-  - path: "02-Mind-Psychology/meditation/courses/guided-courses/Series_22_World_Traditions.md"
+  - path: "02-Mind-Psychology/meditation/guided-courses/Series_22_World_Traditions.md"
     relation: "art_therapy/communication/exercise"
   - path: "03-Bio-Science/foods/tea/tea-culture/Tea_Culture_Psychological_Healing.md"
     relation: "art_therapy/communication/exercise"

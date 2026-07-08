@@ -240,7 +240,7 @@ cross_refs: []
 | 投资心理学 | [Investment Psychology](Investment_Psychology.md) | 投资偏差 |
 | 极简主义 | [Minimalism](../minimalism-decluttering/) | 消费极简 |
 | 生产力 | [Productivity](../productivity/) | 时间管理 |
-| 习惯科学 | [Habit Science](../topics/Personal_Development_Habit_Science.md) | 储蓄习惯 |
+| 习惯科学 | [Habit Science](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 储蓄习惯 |
 | 心流 | [Flow](../flow/) | FIRE后的理想生活 |
 
 ---

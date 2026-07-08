@@ -231,5 +231,5 @@ cross_refs:
 
 ## 交叉引用 | Cross References
 
-- [正念行走专业实践指南](/05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 动态冥想的完整理论、神经科学与实践指导
+- [正念行走专业实践指南](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) — 动态冥想的完整理论、神经科学与实践指导
 

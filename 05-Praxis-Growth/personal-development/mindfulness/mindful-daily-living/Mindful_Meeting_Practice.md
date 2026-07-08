@@ -550,8 +550,8 @@ cross_refs:
 - [正念日常生活](Mindful_Daily_Living.md)
 - [正念饮水专业实践指南](Mindful_Drinking_Practice.md)
 - [正念行走专业实践指南](Mindful_Walking_Practice.md)
-- [专注力冥想疗愈](/02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
-- [冥想核心](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
+- [专注力冥想疗愈](../../../../02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
+- [冥想核心](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
 
 ---
 

@@ -312,8 +312,8 @@ cross_refs:
 - [瑜伽尼德拉概述](Yoga_Nidra_Overview.md)
 - [瑜伽尼德拉科学机制](Yoga_Nidra_Science.md)
 - [瑜伽尼德拉技术体系](Yoga_Nidra_Techniques.md)
-- [冥想与睡眠](../overview/Meditation_And_Sleep.md)
-- [创伤知情正念](../safety/Meditation_Trauma_Sensitive.md)
+- [冥想与睡眠](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md)
+- [创伤知情正念](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
 
 ---
 

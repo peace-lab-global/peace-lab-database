@@ -169,8 +169,8 @@ cross_refs:
 - [冥想课程上级目录](../INDEX.md) — MOCICI 全部课程入口
 - [冥想基础理论](../../foundations/INDEX.md) — 冥想哲学与科学基础
 - [冥想技术方法](../../techniques/INDEX.md) — 冥想技术方法与实修指南
-- [佛教禅修传统](../../../01-Wisdom-Traditions/religions/buddhism/INDEX.md) — 南传/藏传/禅宗禅修体系
-- [瑜伽身心体系](../../../01-Wisdom-Traditions/yoga/INDEX.md) — 瑜伽哲学与实修传统
+- [佛教禅修传统](../../../../01-Wisdom-Traditions/INDEX.md) — 南传/藏传/禅宗禅修体系
+- [瑜伽身心体系](../../../../01-Wisdom-Traditions/INDEX.md) — 瑜伽哲学与实修传统
 - [冥想安全与创伤知情](../../safety/) — 安全协议与不良反应指南
 - [执行师培训体系](../../professional/) — 冥想执行师职业发展与培训
 

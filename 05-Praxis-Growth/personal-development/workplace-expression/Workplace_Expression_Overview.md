@@ -176,8 +176,8 @@ cross_refs:
 ## 🤝 相关专业链接
 
 ### 协同内容体系
-- [向上管理与情绪化上级应对专题](Workplace_Upward_Management.md) - 目标对齐、风险前置、边界维护与高压领导协作
-- [向上管理能力提升框架与实战方法论](Workplace_Upward_Management_Professional_Framework.md) - 管理层级沟通、资源争取、量化评估与数字化协同的系统方法
+- [向上管理与情绪化上级应对专题](../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) - 目标对齐、风险前置、边界维护与高压领导协作
+- [向上管理能力提升框架与实战方法论](../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management_Professional_Framework.md) - 管理层级沟通、资源争取、量化评估与数字化协同的系统方法
 - [公众表达专业内容体系](../public-speaking/Public_Speaking_Overview.md) - 公共演讲技能在职场的应用
 - [圆桌派专业内容体系](../../talks/round-table/Round_Table_Overview.md) - 对话技巧在会议讨论中的运用
 - [锵锵三人行专业内容体系](../../../04-Humanities-Arts/media/tv/qiang-qiang-san-ren-xing/Qiang_Qiang_San_Ren_Xing_Overview.md) - 高端沟通技巧的学习借鉴

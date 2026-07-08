@@ -203,7 +203,7 @@ cross_refs:
 | 主题 | 链接 |
 |------|------|
 | 老年心理学总览 | [总览](Aging_Psychology_Overview.md) |
-| 太极拳认知效应 | [太极拳循证](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md) |
+| 太极拳认知效应 | [太极拳循证](../../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) |
 | 冥想与认知 | [冥想](../../../meditation/) |
 | 脑科学 | [脑科学](../../../../03-Bio-Science/biology/brain/) |
 

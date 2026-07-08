@@ -314,7 +314,7 @@ cross_refs:
 
 ---
 
-*相关阅读：[技术进阶](Professional_Advanced_Techniques.md) · [安全管理](Professional_Safety_Management.md) · [特殊场景应用](Professional_Special_Contexts.md) · [MBSR项目](../mbsr-program/INDEX.md) · [呼吸法](../../psychology/self-regulation/grounding-techniques/INDEX.md)*
+*相关阅读：[技术进阶](Professional_Advanced_Techniques.md) · [安全管理](Professional_Safety_Management.md) · [特殊场景应用](Professional_Special_Contexts.md) · [MBSR项目](../../../../01-Wisdom-Traditions/INDEX.md) · [呼吸法](../../../../01-Wisdom-Traditions/INDEX.md)*
 
 ---
 
@@ -340,7 +340,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

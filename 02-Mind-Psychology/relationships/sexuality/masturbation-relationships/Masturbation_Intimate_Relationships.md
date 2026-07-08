@@ -137,6 +137,6 @@ cross_refs: []
 
 ---
 
-> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [心理困扰与应对](Masturbation_Distress_Coping.md) | [性心理健康](Masturbation_Sexual_Health.md) | [临床心理学意义](../../psychology/special-topics/masturbation-psychology/Masturbation_Clinical_Psychology.md)
+> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [心理困扰与应对](Masturbation_Distress_Coping.md) | [性心理健康](Masturbation_Sexual_Health.md) | [临床心理学意义](../../../../02-Mind-Psychology/psychology/special-topics/masturbation-psychology/Masturbation_Clinical_Psychology.md)
 
 [← 返回自慰与关系索引](INDEX.md) | [← 返回关系心理学目录](../INDEX.md)

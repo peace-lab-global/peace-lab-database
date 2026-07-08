@@ -200,14 +200,14 @@ cross_refs: []
 |:---|:---|:---|
 | 媚男现象心理学 | [Gender_Male_Pandering_Psychology](Gender_Male_Pandering_Psychology.md) | 厌男与媚男作为性别态度光谱的两端 |
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](Gender_Misogyny_Psychology.md) | 厌男与厌女的对称分析——社会结构与个体心理的交互 |
-| 创伤治疗概述 | [Trauma_Treatment_Overview](../../psychology/clinical/trauma/Trauma_Treatment_Overview.md) | 创伤反应型厌男的治疗路径 |
-| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../psychology/clinical/trauma/PTSD_Specialized_Treatment.md) | 性别创伤导致的PTSD专业治疗方案 |
-| EMDR疗法 | [EMDR_Overview](../../therapy/integrative/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md) | 创伤脱敏与认知重加工在厌男情绪中的应用 |
-| 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../psychology/somatic-body/emotion/Emotion_Focused_Therapy.md) | 愤怒背后的核心情绪加工 |
-| DBT辩证行为疗法 | [DBT_Overview](../../therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md) | 情绪调节与人际效能技能 |
-| 仇恨心理学 | [Hatred](../../psychology/social/hatred/Hatred_Psychology_Overview.md) | 从仇恨心理学视角理解极端厌男 |
-| 情感虐待 | [Emotional_Abuse](../../psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 情感虐待作为厌男情绪的重要成因 |
-| 关系心理学概述 | [Relationships_Overview](../Relationships_Overview.md) | 厌男情绪对亲密关系的多维影响 |
+| 创伤治疗概述 | [Trauma_Treatment_Overview](../../../../02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md) | 创伤反应型厌男的治疗路径 |
+| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../../../02-Mind-Psychology/psychology/clinical/trauma/PTSD_Specialized_Treatment.md) | 性别创伤导致的PTSD专业治疗方案 |
+| EMDR疗法 | [EMDR_Overview](../../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md) | 创伤脱敏与认知重加工在厌男情绪中的应用 |
+| 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../../../02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Focused_Therapy.md) | 愤怒背后的核心情绪加工 |
+| DBT辩证行为疗法 | [DBT_Overview](../../../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md) | 情绪调节与人际效能技能 |
+| 仇恨心理学 | [Hatred](../../../../02-Mind-Psychology/psychology/social/hatred/Hatred_Psychology_Overview.md) | 从仇恨心理学视角理解极端厌男 |
+| 情感虐待 | [Emotional_Abuse](../../../../02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 情感虐待作为厌男情绪的重要成因 |
+| 关系心理学概述 | [Relationships_Overview](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md) | 厌男情绪对亲密关系的多维影响 |
 
 ---
 

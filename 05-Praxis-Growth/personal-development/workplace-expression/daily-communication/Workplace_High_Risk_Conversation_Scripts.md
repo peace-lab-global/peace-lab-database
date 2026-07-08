@@ -179,10 +179,10 @@ cross_refs: []
 ## 六、与主专题联动
 
 建议结合以下内容一起使用：
-- [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
-- [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
-- [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
+- [向上管理与情绪化上级应对](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md)
+- [向上汇报模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Reporting_Templates.md)
+- [应对PUA/羞辱型领导](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Anti_PUA_Leadership.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

@@ -105,4 +105,4 @@ cross_refs:
 ## 参考与延伸阅读
 
 - AHA Scientific Statement: Alternative and Complementary Therapies (2016)
-- 参见: [临床应用](../Tai_Chi_Clinical_Applications.md) | [神经科学证据](../Tai_Chi_Neuroscience_Evidence.md)
+- 参见: [临床应用](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) | [神经科学证据](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md)

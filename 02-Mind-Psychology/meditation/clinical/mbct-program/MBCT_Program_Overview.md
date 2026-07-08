@@ -1,6 +1,6 @@
 ---
-title: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview"
-description: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview的详细解析与实践指南"
+title: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview"
+description: "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy (MBCT) Overview的详细解析与实践指南"
 category: "心智与心理学 > 冥想 > Mbct Program"
 tags: ["dmn", "mbct", "mbsr", "meditation", "depression", "mindfulness"]
 last_updated: "2026-05"
@@ -8,9 +8,9 @@ difficulty: "expert"
 reading_level: "expert"
 estimated_read_time: "30min"
 intent_queries:
-  - "什么是æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview"
-  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的核心概念"
-  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的方法与实践"
+  - "什么是æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview"
+  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的核心概念"
+  - "æ­£å¿µè®¤ç¥çæ³æ»è§ | Mindfulness-Based Cognitive Therapy  Overview的方法与实践"
 trigger_keywords: ["act", "dmn", "mbct", "mbsr"]
 cross_refs:
   - path: "05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md"
@@ -19,7 +19,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -303,10 +303,10 @@ MBCT â  preventing depressive relapse through decentering
 | MBSR 8å¨è¯¾ç¨ | [../mbsr-program/INDEX.md](../mbsr-program/INDEX.md) | çè®ºåæºï¼ç»æç¸ä¼¼ï¼ç®æ äººç¾¤ä¸å |
 | å¥æ³å®å¨ä¸ä¸è¯ååº | [../safety/INDEX.md](../safety/INDEX.md) | æéæ£èç»ä¹ çç¹æ®æ³¨æäºé¡¹ |
 | åä¼¤ç¥æå¥æ³ | [../safety/Meditation_Trauma_Sensitive.md](../safety/Meditation_Trauma_Sensitive.md) | PTSDå±çæ¶çè¯¾ç¨è°æ´ |
-| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../overview/Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨ç²¾ç¥å«çä¸­çæ´ä½å®ä½ |
-| ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](../overview/Meditation_Neuroscience_Mechanisms.md) | å»ä¸­å¿åçç¥ç»åºç¡ |
-| å¼å¯¼è¯èæ¬åº | [../guided-scripts/INDEX.md](../guided-scripts/INDEX.md) | 3åéå¼å¸ç©ºé´ç­æ ¸å¿ç»ä¹ èæ¬ |
-| æ§è¡å¸å¹è®­ | [../practitioner-training/INDEX.md](../practitioner-training/INDEX.md) | MBCTå¸èµå¹è®­è·¯å¾ |
+| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨ç²¾ç¥å«çä¸­çæ´ä½å®ä½ |
+| ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) | å»ä¸­å¿åçç¥ç»åºç¡ |
+| å¼å¯¼è¯èæ¬åº | [../guided-scripts/INDEX.md](../../../../01-Wisdom-Traditions/INDEX.md) | 3åéå¼å¸ç©ºé´ç­æ ¸å¿ç»ä¹ èæ¬ |
+| æ§è¡å¸å¹è®­ | [../practitioner-training/INDEX.md](../../../../01-Wisdom-Traditions/INDEX.md) | MBCTå¸èµå¹è®­è·¯å¾ |
 
 ---
 
@@ -369,12 +369,12 @@ MBCT â  preventing depressive relapse through decentering
 ### ç¥è¯åºç¸å³æ¨¡å
 - [MBSR é¡¹ç®æ¦è¿°](../mbsr-program/MBSR_Program_Overview.md) â MBCTçæ¯æ¬è¯¾ç¨
 - [MBSR å«å¨è¯¾ç¨](../mbsr-program/MBSR_Weekly_Curriculum.md) â æ ¸å¿ç»ä¹ çè¯¦ç»æå­¦è®¾è®¡
-- [å¥æ³ä¸´åºåºç¨](../overview/Meditation_Clinical_Applications.md) â æ­£å¿µå¹²é¢çä¸´åºéåºçæ»è§
-- [å¥æ³ç¥ç»ç§å­¦æºå¶](../overview/Meditation_Neuroscience_Mechanisms.md) â æ­£å¿µè®­ç»çèæºå¶
+- [å¥æ³ä¸´åºåºç¨](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) â æ­£å¿µå¹²é¢çä¸´åºéåºçæ»è§
+- [å¥æ³ç¥ç»ç§å­¦æºå¶](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) â æ­£å¿µè®­ç»çèæºå¶
 - [å¥æ³ä¸è¯ååºä¸å®å¨](../safety/Meditation_Adverse_Effects.md) â MBCTæå­¦ä¸­çé£é©ç®¡ç
 - [åä¼¤ç¥æå¥æ³](../safety/Meditation_Trauma_Sensitive.md) â æéæ£èä¸­å¸¸è§åä¼¤å²çåºå¯¹
-- [æ§è¡å¸å¹è®­ä½ç³»](../practitioner-training/Practitioner_Training_Overview.md) â MBCTæå¸è®¤è¯è·¯å¾
-- [æ­¢è§çè®ºåºç¡](../samatha-vipassana/Samatha_Vipassana_Theory.md) â MBCTçä½ææºæµ
+- [æ§è¡å¸å¹è®­ä½ç³»](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Training_Overview.md) â MBCTæå¸è®¤è¯è·¯å¾
+- [æ­¢è§çè®ºåºç¡](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Samatha_Vipassana_Theory.md) â MBCTçä½ææºæµ
 
 ### åèæç®
 

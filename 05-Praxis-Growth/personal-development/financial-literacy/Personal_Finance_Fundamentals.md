@@ -225,7 +225,7 @@ cross_refs: []
 | 投资心理学 | [Investment Psychology](Investment_Psychology.md) | 投资决策偏差 |
 | 金钱信念 | [Money Mindset](Money_Mindset_Beliefs.md) | 金钱心理 |
 | 极简主义 | [Minimalism](../minimalism-decluttering/) | 消费极简 |
-| 习惯养成 | [Habit Science](../topics/Personal_Development_Habit_Science.md) | 理财习惯 |
+| 习惯养成 | [Habit Science](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 理财习惯 |
 
 ---
 

@@ -97,8 +97,8 @@ cross_refs:
 
 ## 延伸阅读
 
-- [内经养生概论](../Neijing_Yangsheng_Overview.md)
-- [内经养生实践](../Neijing_Yangsheng_Practice.md)
+- [内经养生概论](../../../01-Wisdom-Traditions/tcm-neijing/yangsheng/Neijing_Yangsheng_Overview.md)
+- [内经养生实践](../../../01-Wisdom-Traditions/tcm-neijing/yangsheng/Neijing_Yangsheng_Practice.md)
 
 ---
 

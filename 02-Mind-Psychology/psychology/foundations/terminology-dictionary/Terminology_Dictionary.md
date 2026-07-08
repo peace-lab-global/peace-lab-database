@@ -457,11 +457,11 @@ cross_refs: []
 ### 存在心理学术语
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|----------|----------|
-| 向死而生 | Being-toward-Death | 海德格尔概念：通过对死亡的觉知来活得更真实 | 因为会死所以要好好活 | 思考生命意义后更加珍惜当下 | 存在主义心理治疗 | [存在心理学](../../../../03-Bio-Science/death/Death_Existential_Psychology.md) |
-| 此在 | Dasein | 海德格尔术语：人在世界中的存在状态 | 活生生的存在 | 每个人都有自己独特的人生轨迹 | 存在主义哲学 | [存在心理学](../../../../03-Bio-Science/death/Death_Existential_Psychology.md) |
-| 终极关怀 | Ultimate Concerns | Yalom提出的死亡、自由、孤独、无意义四大存在议题 | 人生的终极问题 | 对死亡、意义、关系的深层思考 | 存在主义治疗 | [存在心理学](../../../../03-Bio-Science/death/Death_Existential_Psychology.md) |
-| 死亡焦虑 | Death Anxiety | 对死亡和不存在的恐惧和焦虑 | 对死亡的担忧 | 担心意外死亡或疾病 | 临床心理评估 | [存在心理学](../../../../03-Bio-Science/death/Death_Existential_Psychology.md) |
-| 意义疗法 | Logotherapy | Frankl创立的通过寻找生命意义来治疗心理问题的方法 | 寻找生活意义的疗法 | 在困境中寻找人生价值 | 存在主义治疗 | [存在心理学](../../../../03-Bio-Science/death/Death_Existential_Psychology.md) |
+| 向死而生 | Being-toward-Death | 海德格尔概念：通过对死亡的觉知来活得更真实 | 因为会死所以要好好活 | 思考生命意义后更加珍惜当下 | 存在主义心理治疗 | [存在心理学](../../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) |
+| 此在 | Dasein | 海德格尔术语：人在世界中的存在状态 | 活生生的存在 | 每个人都有自己独特的人生轨迹 | 存在主义哲学 | [存在心理学](../../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) |
+| 终极关怀 | Ultimate Concerns | Yalom提出的死亡、自由、孤独、无意义四大存在议题 | 人生的终极问题 | 对死亡、意义、关系的深层思考 | 存在主义治疗 | [存在心理学](../../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) |
+| 死亡焦虑 | Death Anxiety | 对死亡和不存在的恐惧和焦虑 | 对死亡的担忧 | 担心意外死亡或疾病 | 临床心理评估 | [存在心理学](../../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) |
+| 意义疗法 | Logotherapy | Frankl创立的通过寻找生命意义来治疗心理问题的方法 | 寻找生活意义的疗法 | 在困境中寻找人生价值 | 存在主义治疗 | [存在心理学](../../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) |
 
 ### 抑郁症相关术语
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |
@@ -604,7 +604,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

@@ -79,5 +79,5 @@ cross_refs: []
 | 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 颂钵/音叉体感振动与 VAT 设备的对比 |
 | 444Hz 频率疗法 | 02-心理学 | [444Hz Frequency Therapy](Sensory_444Hz_Frequency_Therapy.md) | 528Hz 叠加 VAT 的复合疗愈方案 |
 | 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 声浴序列中的 VAT 整合技术 |
-| 疼痛科学 | 03-生命科学 | [疼痛科学](../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | VAT 镇痛与闸门控制理论 |
+| 疼痛科学 | 03-生命科学 | [疼痛科学](../../../../03-Bio-Science/biology/pain-science/Pain_Science_Overview.md) | VAT 镇痛与闸门控制理论 |
 | 呼吸法 | 03-生命科学 | [呼吸法](../../../03-Bio-Science/biology/breathwork/) | VAT 胸部振动与呼吸康复的整合 |

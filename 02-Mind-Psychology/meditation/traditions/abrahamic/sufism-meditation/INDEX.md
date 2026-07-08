@@ -33,9 +33,9 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [冥想概览](../overview/INDEX.md)
-- [冥想类型分类](../overview/Meditation_Types_Classification.md)
-- [止观禅定](../samatha-vipassana/INDEX.md)
-- [曼陀罗冥想](../mandala-meditation/INDEX.md)
-- [呼吸与调息](../pranayama-breath/diaphragmatic-breathing-masterclass.md)
-- [正念行走](../walking-meditation/INDEX.md)
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [冥想类型分类](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)
+- [止观禅定](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [曼陀罗冥想](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [呼吸与调息](../../../../../02-Mind-Psychology/meditation/traditions/indian-yogic/pranayama-breath/diaphragmatic-breathing-masterclass.md)
+- [正念行走](../../../../../01-Wisdom-Traditions/INDEX.md)

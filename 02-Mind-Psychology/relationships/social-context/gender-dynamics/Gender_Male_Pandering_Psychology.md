@@ -206,13 +206,13 @@ cross_refs: []
 | 厌男情绪心理学 | [Gender_Misandry_Psychology](Gender_Misandry_Psychology.md) | 媚男与厌男作为性别态度光谱的两端 |
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](Gender_Misogyny_Psychology.md) | 内化厌女是媚男行为的深层驱动力之一 |
 | 媚女行为心理学 | [Gender_Female_Pandering_Psychology](Gender_Female_Pandering_Psychology.md) | 媚男与媚女行为的镜像对称分析 |
-| 依恋与亲密关系 | [Love_Attachment_Intimacy](../love/Love_Attachment_Intimacy.md) | 焦虑型依恋在讨好行为中的核心角色 |
-| 约会心理学 | [Dating_Psychology_Overview](../dating/Dating_Psychology_Overview.md) | 媚男行为在约会场景中的典型表现 |
-| 自我慈悲 | [Self_Compassion_Self_Care](../../psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 从自我批判到自我关怀的转化路径 |
-| 自信心理学 | [Self_Confidence_Overview](../../psychology/self-regulation/self-confidence/Self_Confidence_Overview.md) | 建立内在自尊的系统方法 |
-| CBT认知行为疗法 | [CBT_Overview](../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) | 认知重构在讨好行为干预中的应用 |
-| 关系心理学概述 | [Relationships_Overview](../Relationships_Overview.md) | 讨好行为在关系体系中的定位 |
-| 情感虐待 | [Emotional_Abuse](../../psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 讨好者容易成为情感虐待的对象 |
+| 依恋与亲密关系 | [Love_Attachment_Intimacy](../../../../02-Mind-Psychology/relationships/love-dating/love/Love_Attachment_Intimacy.md) | 焦虑型依恋在讨好行为中的核心角色 |
+| 约会心理学 | [Dating_Psychology_Overview](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Psychology_Overview.md) | 媚男行为在约会场景中的典型表现 |
+| 自我慈悲 | [Self_Compassion_Self_Care](../../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 从自我批判到自我关怀的转化路径 |
+| 自信心理学 | [Self_Confidence_Overview](../../../../02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Overview.md) | 建立内在自尊的系统方法 |
+| CBT认知行为疗法 | [CBT_Overview](../../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md) | 认知重构在讨好行为干预中的应用 |
+| 关系心理学概述 | [Relationships_Overview](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md) | 讨好行为在关系体系中的定位 |
+| 情感虐待 | [Emotional_Abuse](../../../../02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md) | 讨好者容易成为情感虐待的对象 |
 
 ---
 

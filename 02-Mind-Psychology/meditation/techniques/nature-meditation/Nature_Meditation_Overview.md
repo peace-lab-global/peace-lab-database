@@ -690,10 +690,10 @@ graph TD
 ## 相关链接
 
 - [正念行走概述](../walking-meditation/Walking_Meditation_Overview.md) — 自然正念行走的技术基础
-- [MBSR正念减压](../mbsr-program/MBSR_Program_Overview.md) — 正念冥想的系统训练
-- [冥想与睡眠](../overview/Meditation_And_Sleep.md) — 自然冥想对睡眠的辅助作用
-- [焦虑障碍](../clinical-conditions/Meditation_Anxiety_Disorders.md) — 自然冥想对焦虑的临床应用
-- [抑郁症](../clinical-conditions/Meditation_Depression.md) — 自然冥想对抑郁的辅助干预
+- [MBSR正念减压](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md) — 正念冥想的系统训练
+- [冥想与睡眠](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md) — 自然冥想对睡眠的辅助作用
+- [焦虑障碍](../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Anxiety_Disorders.md) — 自然冥想对焦虑的临床应用
+- [抑郁症](../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md) — 自然冥想对抑郁的辅助干预
 
 ---
 

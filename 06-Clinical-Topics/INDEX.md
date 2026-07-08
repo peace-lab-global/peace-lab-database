@@ -1,9 +1,9 @@
 ---
 title: "06-Clinical-Topics — 临床专题"
-description: "跨支柱临床专题索引，整合焦虑、抑郁、睡眠障碍、哀伤、拖延症、MBCT六大临床领域的完整知识体系"
+description: "跨支柱临床专题索引，整合焦虑、抑郁、睡眠障碍、哀伤、拖延症、MBCT、进食障碍、人格障碍、创伤、成瘾十大临床领域"
 category: "clinical"
-tags: ["clinical", "anxiety", "depression", "sleep", "grief", "procrastination", "mbct"]
-last_updated: "2026-06"
+tags: ["clinical", "anxiety", "depression", "sleep", "grief", "procrastination", "mbct", "eating-disorders", "personality-disorders", "trauma", "addiction"]
+last_updated: "2026-07"
 cross_refs: []
 ---
 
@@ -47,8 +47,10 @@ cross_refs: []
 |:-----|:-----|:------:|:---------|
 | [焦虑障碍](Anxiety/INDEX.md) | `Anxiety/` | 96 | 诊断、评估、药物、心理治疗、危机干预、共病、特殊人群、监测、督导 |
 | [抑郁障碍](Depression/INDEX.md) | `Depression/` | 64 | 诊断、评估、药物、冥想、共病、特殊人群（青少年/老年/围产期/季节性）、安全、督导 |
-| [创伤与PTSD](Trauma-PTSD/INDEX.md) | `Trauma-PTSD/` | 5 | DSM-5-TR/ICD-11 诊断鉴别、PCL-5/CAPS-5 评估、TF-CBT/PE/CPT/EMDR/SE 干预、药物（SSRI/哌唑嗪）**[NEW]** |
-| [成瘾障碍](Addiction/INDEX.md) | `Addiction/` | 5 | DSM-5-TR SUD 严重度、AUDIT/DAST/ASI 评估、MAT/CBT/MI/CM 治疗、复发预防与恢复 **[NEW]** |
+| [创伤与PTSD](Trauma-PTSD/INDEX.md) | `Trauma-PTSD/` | 19 | DSM-5-TR/ICD-11 诊断鉴别、CPTSD、PCL-5/CAPS-5 评估、PE/CPT/EMDR/SE 干预、ACEs、道德伤害 |
+| [成瘾障碍](Addiction/INDEX.md) | `Addiction/` | 17 | DSM-5-TR SUD 严重度、行为成瘾、赌博/游戏/社交媒体、MAT/CBT/MI/CM 治疗、复发预防与减少伤害 |
+| [进食障碍](Eating-Disorders/INDEX.md) | `Eating-Disorders/` | 20 | AN/BN/BED/ARFID/OSFED 诊断、CBT-E/FBT/IPT/DBT 治疗、特殊人群、营养康复 **[NEW]** |
+| [人格障碍](Personality-Disorders/INDEX.md) | `Personality-Disorders/` | 15 | DSM-5 十型/AMPD 维度模型、BPD/NPD/ASPD/AvPD/DPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]** |
 | [MBCT 正念认知疗法](MBCT/INDEX.md) | `MBCT/` | 30 | 课程、评估、神经科学、药物整合、冥想、安全、督导 |
 | [睡眠障碍](Sleep-Disorders/INDEX.md) | `Sleep-Disorders/` | 41 | 失眠、睡眠呼吸暂停、异态睡眠、CBT-I、昼夜节律、药物、冥想 |
 | [拖延症](Procrastination/INDEX.md) | `Procrastination/` | 52 | 神经科学、情绪调节、决策认知、动机、ADHD、完美主义、干预、特殊人群 |
@@ -77,8 +79,10 @@ cross_refs: []
 
 - [焦虑障碍](Anxiety/INDEX.md) — GAD、惊恐、社交焦虑、OCD、PTSD 全体系
 - [抑郁障碍](Depression/INDEX.md) — MDD、双相抑郁、难治性抑郁
-- [创伤与PTSD](Trauma-PTSD/INDEX.md) — DSM-5-TR 诊断、PCL-5 评估、TF-CBT/EMDR/SE 干预 **[NEW]**
-- [成瘾障碍](Addiction/INDEX.md) — 物质/行为成瘾、MAT、MI、复发预防 **[NEW]**
+- [创伤与PTSD](Trauma-PTSD/INDEX.md) — PTSD/CPTSD 诊断、PE/CPT/EMDR/SE 干预、ACEs、道德伤害
+- [成瘾障碍](Addiction/INDEX.md) — 物质/行为成瘾、赌博/游戏/社交媒体、MI、复发预防、减少伤害
+- [进食障碍](Eating-Disorders/INDEX.md) — AN/BN/BED/ARFID/OSFED、CBT-E/FBT、特殊人群 **[NEW]**
+- [人格障碍](Personality-Disorders/INDEX.md) — DSM-5/AMPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]**
 - [MBCT](MBCT/INDEX.md) — 8 周正念认知疗法课程与临床整合
 - [睡眠障碍](Sleep-Disorders/INDEX.md) — 失眠、CBT-I、昼夜节律
 - [拖延症](Procrastination/INDEX.md) — 从神经科学到行为干预

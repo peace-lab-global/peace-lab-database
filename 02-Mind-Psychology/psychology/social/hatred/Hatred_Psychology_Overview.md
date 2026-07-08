@@ -1,30 +1,178 @@
 ---
-title: "Hatred Psychology Overview"
-description: "Hatred Psychology Overview —— 社会心理学 · Hatred 专题"
+title: "仇恨心理学 (Psychology of Hatred)"
+description: "仇恨心理学 —— 心智与心理学 · 社会心理学 专题"
 category: "心智与心理学 > 心理学 > 社会心理学 > Hatred"
-tags: ["心理学", "社会心理学"]
-last_updated: "2026-05"
-difficulty: "beginner"
-reading_level: "beginner"
-estimated_read_time: "5min"
+tags: ["hatred", "prejudice", "intergroup-conflict", "forgiveness", "social-psychology"]
+last_updated: "2026-06"
+difficulty: "intermediate"
+reading_level: "intermediate"
+estimated_read_time: "20min"
 intent_queries:
-  - "什么是Hatred Psychology Overview"
-  - "Hatred Psychology Overview的核心概念"
-  - "Hatred Psychology Overview的方法与实践"
-trigger_keywords: ["心理学", "社会心理学"]
-cross_refs:
-  - path: "04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md"
-    relation: "lab/peace"
-status: "stub"
+  - "什么是仇恨心理学"
+  - "仇恨的心理机制与根源"
+  - "如何化解仇恨"
+  - "仇恨与偏见的关系"
+trigger_keywords: ["仇恨", "hatred", "偏见", "群际冲突", "宽恕"]
+cross_refs: []
 ---
-# Hatred Psychology Overview
 
-> 此页面为占位文件，内容待补充。
+# 仇恨心理学 (Psychology of Hatred)
 
-## 概述
+> **循证等级**: B（理论框架 + 观察研究 + 干预有效性；仇恨是复杂情绪，难以在实验室直接诱导，证据以社会心理学与冲突研究为主）
 
-本条目属于 Peace Lab 知识体系，目前处于待建设状态。
+---
 
-## 相关资源
+## 核心概念：仇恨是什么
 
-- 返回 [INDEX](../INDEX.md)
+**仇恨 (hatred)** 是一种持久的、指向特定对象（个人/群体）的**强烈反感与敌意复合情绪**。与愤怒不同：
+
+| 维度 | 愤怒 (Anger) | 仇恨 (Hatred) |
+|:-----|:------------|:--------------|
+| 时效 | 短暂、情境性 | **持久**、跨情境 |
+| 对象 | 特定行为/事件 | **整个人/群体**的本质 |
+| 目标 | 改变对方行为 | **消灭/排除**对方 |
+| 体验 | 热的、唤起的 | 可冷（冷漠蔑视）可热 |
+| 认知 | "这不对" | **"他们不配存在/不属于这里"** |
+
+**Sternberg 的仇恨三元论** (2003)：仇恨由三种成分组合：
+1. **否定亲密** (Negation of Intimacy)：厌恶、想远离
+2. **激情** (Passion)：强烈情绪（恐惧/愤怒）
+3. **否定** (Commitment/Devaluation)：认知上贬低对方价值
+
+不同组合产生不同类型：恐惧型仇恨（激情+否定亲密）、蔑视型仇恨（否定亲密+否定）、暴力型仇恨（三者皆有）。
+
+---
+
+## 仇恨的心理机制
+
+### 1. 去人化 (Dehumanization)
+
+将目标群体**剥夺人性**——视为低于人类的"它者"。Haslam (2006) 区分两种：
+- **动物性去人化**：缺乏理性/道德/文明（如将难民比作"蝗虫"）
+- **机械性去人化**：缺乏情感/温暖/开放性（如将官僚视为"机器"）
+
+去人化是**暴力的认知前提**——当对方"不是人"，伤害他们就不再触发道德抑制。
+
+### 2. 群际偏见与认同 (Social Identity, Tajfel & Turner)
+
+- **内群体偏爱**：自动偏好"我们"
+- **外群体贬低**：通过贬低"他们"来提升自尊
+- **最小群体范式**：即便随机分组也会产生偏见
+
+### 3. 替代性攻击 (Displaced Aggression)
+
+当真实挫折源不可攻击时（如经济困境），仇恨转向**替罪羊**（少数群体、移民）。挫折-攻击-替罪羊链条。
+
+### 4. 道德排除 (Moral Exclusion)
+
+将某些群体排除在自己的**道德关怀圈**之外——"正义/公平不适用于他们"。Optow (1990)。
+
+---
+
+## 仇恨的根源
+
+| 层面 | 根源 | 机制 |
+|:-----|:-----|:-----|
+| **个体** | 童年创伤/虐待、未处理的丧失 | 痛苦外化为敌意 |
+| **关系** | 严重背叛、长期不公 | 信任崩溃、叙事固着 |
+| **群体** | 历史冲突、集体创伤记忆 | 代际传承的敌意叙事 |
+| **社会** | 经济不平等、资源竞争 | 替罪羊机制激活 |
+| **意识形态** | 极端叙事、政治宣传 | 刻意煽动（仇恨言论） |
+
+---
+
+## 仇恨的后果
+
+### 对被仇恨者
+- 心理创伤、PTSD、抑郁
+- 内化污名、自我认同受损
+- 健康（慢性应激）、生存威胁
+
+### 对仇恨者
+- **生理**：心血管应激、免疫下降（仇恨消耗身体）
+- **心理**：固着在创伤中、阻碍哀伤完成、侵蚀共情能力
+- **社会**：隔离、暴力循环
+
+### 对群体/社会
+- 冲突升级、暴力螺旋
+- 社会撕裂、制度信任崩溃
+- 代际传承（儿童习得仇恨叙事）
+
+---
+
+## 化解仇恨：干预路径
+
+### 1. 宽恕疗法 (Forgiveness Therapy, Enright & Fitzgibbons)
+
+宽恕 ≠ 和解/原谅/遗忘。宽恕是**自愿放弃报复权，释放自身的怨恨枷锁**。
+
+四阶段（20 步）：
+- **揭示阶段**：面对伤害与愤怒
+- **决策阶段**：选择宽恕（作为自我解放）
+- **工作阶段**：认知重构、共情、接纳
+- **深化阶段**：意义发现、释放
+
+循证：对情绪困扰、PTSD、心血管健康有效（RCT 支持）。
+
+### 2. 群际接触 (Intergroup Contact, Allport, 1954)
+
+在特定条件下接触可减少偏见：
+- 平等地位
+- 共同目标
+- 群际合作（非竞争）
+- 制度支持
+
+**"拼图教室" (Aronson)**：让学生在混合小组中各持一块拼图，必须合作完成——经典偏见干预。
+
+### 3. 叙事与对话
+
+- **真相与和解委员会**（南非模式）：公开叙事 + 承认 + 赦免
+- **同情对话**（以色列-巴勒斯坦 Parents Circle）：让仇恨双方听到彼此的丧失
+
+### 4. 处理底层创伤
+
+仇恨常是**未处理的哀伤/创伤的防御**。心理治疗（TF-CBT、EMDR、IFS）处理底层创伤，仇恨可能自然软化。
+
+---
+
+## 特殊议题
+
+| 议题 | 要点 |
+|:-----|:-----|
+| **网络仇恨** | 匿名性+群体极化+算法回音室放大仇恨 |
+| **政治煽动** | 仇恨言论与种族清洗的历史关联（卢旺达、缅甸） |
+| **代际传承** | 父母的仇恨叙事如何传递给下一代 |
+| **仇恨犯罪** | 法律定义、预防、受害者支持 |
+| **反仇恨教育** | 媒介素养、批判思维、共情训练 |
+
+---
+
+## 与冥想/正念的关系
+
+- **慈心冥想 (Metta)**：直接对治仇恨——从"愿我安乐"逐步扩展到"愿敌对者安乐"
+- **宽恕冥想 (Forgiveness Meditation)**：系统释放怨恨
+- **风险**：过早要求受害者"原谅"是二次伤害，宽恕必须出于自愿
+
+---
+
+## 临床要点
+
+1. **区分愤怒与仇恨**：愤怒可疏导，仇恨需深层工作（创伤+认同）
+2. **不要急于宽恕**：强制/过早的宽恕建议会加剧受害者的羞耻与孤立
+3. **评估底层创伤**：仇恨常是未处理痛苦的"固着"——先稳定化再探索
+4. **安全第一**：家庭暴力/跟踪/仇恨犯罪情境中，安全计划优先于心理工作
+5. **共情有限度**：治疗师对施害者的共情不应以忽视受害者安全为代价
+6. **群际仇恨需系统干预**：个体治疗难以化解政治/种族仇恨，需结合对话与制度变革
+
+---
+
+## 参考文献
+
+- Sternberg, R. J. (2003). A duplex theory of hate: Theory and application to terrorism and genocides. *Psychological Review*, 110(3), 471–510.
+- Haslam, N. (2006). Dehumanization: An integrative review. *Personality and Social Psychology Review*, 10(3), 252–264.
+- Enright, R. D., & Fitzgibbons, R. P. (2015). *Forgiveness Therapy* (2nd ed.). APA.
+- Allport, G. W. (1954). *The Nature of Prejudice*. Addison-Wesley.
+- Optow, S. (1990). Moral exclusion and injustice: An introduction. *Journal of Social Issues*, 46(1), 1–20.
+
+---
+*返回 [社会心理学索引](../INDEX.md)*

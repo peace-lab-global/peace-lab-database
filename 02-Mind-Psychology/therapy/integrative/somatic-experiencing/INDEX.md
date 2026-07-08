@@ -35,7 +35,7 @@ cross_refs: []
 
 ## 相关主题
 
-- [创伤知情冥想](../../clinical/safety/Trauma_Informed_Meditation.md) — SE 与正念的交叉
+- [创伤知情冥想](../../../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md) — SE 与正念的交叉
 - [IFS 内部家庭系统](../ifs-therapy/IFS_Overview.md) — 内在关系 vs 躯体释放，互补取向
 
 ---

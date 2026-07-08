@@ -43,7 +43,7 @@ cross_refs: []
 
 | 关联支柱 | 链接 | 关联主题 |
 |---------|------|---------|
-| 习惯科学 | [Habit Science](../topics/Personal_Development_Habit_Science.md) | 理财习惯养成 |
+| 习惯科学 | [Habit Science](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 理财习惯养成 |
 | 极简主义 | [Minimalism](../minimalism-decluttering/) | 消费极简 |
 | 拖延心理 | [Procrastination](../procrastination/) | 财务拖延 |
 | 正念 | [Mindfulness](../mindfulness/) | 消费正念 |

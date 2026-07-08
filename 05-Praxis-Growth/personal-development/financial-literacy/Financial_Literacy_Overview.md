@@ -253,7 +253,7 @@ cross_refs: []
 
 | 关联领域 | 链接 | 关联主题 |
 |---------|------|---------|
-| 习惯科学 | [Habit Science](../topics/Personal_Development_Habit_Science.md) | 理财习惯养成 |
+| 习惯科学 | [Habit Science](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 理财习惯养成 |
 | 拖延心理 | [Procrastination](../procrastination/) | 财务拖延 |
 | 极简主义 | [Minimalism](../minimalism-decluttering/) | 消费极简 |
 | 成瘾心理 | [Addiction](../../../02-Mind-Psychology/psychology/behavioral/addiction/) | 消费成瘾 |

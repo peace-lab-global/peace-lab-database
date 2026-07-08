@@ -286,7 +286,7 @@ cross_refs:
 
 ---
 
-*相关阅读：[安全管理](Professional_Safety_Management.md) · [客户关系](Professional_Client_Relations.md) · [引导词脚本](../guided-scripts/INDEX.md) · [专业引导词课程库](../guided-courses/INDEX.md) · [执行师教学法](../practitioner-training/Practitioner_Teaching_Methodology.md)*
+*相关阅读：[安全管理](Professional_Safety_Management.md) · [客户关系](Professional_Client_Relations.md) · [引导词脚本](../../../../01-Wisdom-Traditions/INDEX.md) · [专业引导词课程库](../../../../01-Wisdom-Traditions/INDEX.md) · [执行师教学法](../practitioner-training/Practitioner_Teaching_Methodology.md)*
 
 ---
 

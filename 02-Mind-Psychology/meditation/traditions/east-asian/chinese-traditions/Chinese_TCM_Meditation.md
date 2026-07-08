@@ -160,4 +160,4 @@ cross_refs:
 - [中国本土冥想传统概论](./Chinese_Meditation_Overview.md)
 - [中国传统静坐功法](./Chinese_Sitting_Practices.md)
 - [正念中国本土化挑战](./Chinese_Localization_Challenges.md)
-- [冥想临床应用](../overview/Meditation_Clinical_Applications.md)
+- [冥想临床应用](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md)

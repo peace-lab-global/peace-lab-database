@@ -266,7 +266,7 @@ cross_refs: []
 - 本项目学术支撑:
   - [Loneliness Existential](../Loneliness_Existential.md) — 存在性孤独的学术框架
   - [Loneliness Positive Psychology](../Loneliness_Positive_Psychology.md) — 孤独中的积极转化
-  - [Solitude-Loneliness Bridge](../solitude/Solitude_Loneliness_Bridge.md) — 从孤独到独处的转化
+  - [Solitude-Loneliness Bridge](../../../../../02-Mind-Psychology/psychology/social/solitude/Solitude_Loneliness_Bridge.md) — 从孤独到独处的转化
 - 外部参考:
   - 《梵高书信集》
   - 《卡夫卡日记》
@@ -281,4 +281,4 @@ cross_refs: []
 
 *Peace Lab Database — 孤独中的创造者自媒体专题 v1.0*  
 *创建日期: 2026-05-07 | 内容类型: 自媒体专题/人物IP*  
-*关联学术模块: [loneliness/INDEX.md](../INDEX.md) | [solitude/INDEX.md](../solitude/INDEX.md)*
+*关联学术模块: [loneliness/INDEX.md](../INDEX.md) | [solitude/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md)*

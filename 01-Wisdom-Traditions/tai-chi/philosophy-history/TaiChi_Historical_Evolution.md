@@ -228,4 +228,4 @@ cross_refs:
 - 顾留馨《太极拳术》
 - 沈家桢《陈氏太极拳》
 - 国际武术联合会 (IWUF) 官方资料
-- 参见: [五大流派](../Tai_Chi_Schools_Styles.md) | [陈式太极深度解析](../schools-lineage/TaiChi_Chen_Style_Deep.md)
+- 参见: [五大流派](../../../01-Wisdom-Traditions/tai-chi/schools-lineage/Tai_Chi_Schools_Styles.md) | [陈式太极深度解析](../schools-lineage/TaiChi_Chen_Style_Deep.md)

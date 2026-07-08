@@ -324,7 +324,7 @@ HPA轴敏感性:    过度敏感/脱敏       校准良好
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 太极拳心理调适 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极作为身心运动干预的循证体系 |
+| 太极拳心理调适 | 01-智慧传承 | [太极心理](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) | 太极作为身心运动干预的循证体系 |
 | 瑜伽神经科学 | 01-智慧传承 | [瑜伽研究](../../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md) | 瑜伽运动对精神健康的神经机制 |
 | 抑郁症概览 | 02-心理学 | [抑郁症](../../../02-Mind-Psychology/psychology/clinical/depression/Depression_Overview.md) | 运动抗抑郁的临床应用 |
 | 焦虑症概览 | 02-心理学 | [焦虑症](../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Disorder_Overview.md) | 运动抗焦虑的循证证据 |

@@ -40,7 +40,7 @@ cross_refs: []
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 ---
 # obsessive-compulsive | Index
 

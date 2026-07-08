@@ -103,7 +103,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **王行坤** | 当"热爱工作"成为骗局 | 2023 | 现代工作文化的反思 | [工作心理学](Psychology_Workplace.md) | 45:12 | [观看](https://www.yixi.tv/speech/1346) |
+| **王行坤** | 当"热爱工作"成为骗局 | 2023 | 现代工作文化的反思 | [工作心理学](../../../05-Praxis-Growth/talks/ted-talks/Psychology_Workplace.md) | 45:12 | [观看](https://www.yixi.tv/speech/1346) |
 | **陈嘉映** | 哲学与日常生活 | 2022 | 哲学思维的生活应用 | [哲学心理学](Psychology_Philosophy.md) | 42:30 | [观看](https://www.yixi.tv/speech/1205) |
 
 ### 2.2 神经科学与大脑研究

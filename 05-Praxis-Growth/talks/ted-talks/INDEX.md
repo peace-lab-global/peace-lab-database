@@ -106,7 +106,7 @@ human_curated: true
 - [Framework Circular Economy](Framework_Circular_Economy.md)
 - [Framework Environmental Science](Framework_Environmental_Science.md)
 - [Framework Sustainable Cities](Framework_Sustainable_Cities.md)
-- [Framework Sustainable Development](Framework_Sustainable_Development.md)
+- [Framework Sustainable Development](../../../05-Praxis-Growth/talks/framework/Framework_Sustainable_Development.md)
 - [Framework Urban Planning](Framework_Urban_Planning.md)
 
 ### 💰 经济/政治 (6)
@@ -236,7 +236,7 @@ human_curated: true
 - [Framework Space Technology](Framework_Space_Technology.md)
 - [Framework Special Education](Framework_Special_Education.md)
 - [Framework Sustainable Cities](Framework_Sustainable_Cities.md)
-- [Framework Sustainable Development](Framework_Sustainable_Development.md)
+- [Framework Sustainable Development](../../../05-Praxis-Growth/talks/framework/Framework_Sustainable_Development.md)
 - [Framework Synthetic Biology](Framework_Synthetic_Biology.md)
 - [Framework Systems Theory](Framework_Systems_Theory.md)
 - [Framework Technology Forecasting](Framework_Technology_Forecasting.md)

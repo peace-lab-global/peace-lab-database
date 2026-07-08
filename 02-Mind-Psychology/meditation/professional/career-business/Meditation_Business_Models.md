@@ -104,7 +104,7 @@ cross_refs:
 
 - [冥想职业发展路径](./Meditation_Career_Pathways.md)
 - [冥想数字化产业](./Meditation_Digital_Industry.md)
-- [正念中国本土化挑战](../chinese-traditions/Chinese_Localization_Challenges.md)
+- [正念中国本土化挑战](../../../../02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md)
 - [冥想教师自我关怀](./Meditation_Instructor_Self_Care.md)
 - [冥想保险与法律](./Meditation_Insurance_Legal.md)
 - [全球冥想中心目录](./Meditation_Centers_Directory.md)

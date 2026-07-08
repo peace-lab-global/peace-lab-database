@@ -106,10 +106,10 @@ graph LR
 peace-lab-database/
 ├── 01~05-*/                  ← 五大内容支柱（知识主体）
 ├── 06-Clinical-Topics/       ← 临床专题聚合层（跨支柱临床知识包，按疾病维度组织）
-├── 07-Research-Topics/       ← 跨领域课题研究层（课题驱动的前沿交叉研究平台）
 │
 ├── _meta/                    ← 知识关联层（cross-references, learning-paths, topic-maps, skills-index）
-│   └── docs/                 ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY, CRISIS_RESOURCES 等）
+│   ├── docs/                 ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY, CRISIS_RESOURCES 等）
+│   └── research-topics/      ← 跨领域课题研究（原 07 层，已降级并入：意识/具身/冥想/整合医学等交叉研究）
 │
 ├── Web/                      ← Web 站点层（MkDocs 配置、assets、docs、visualization 知识图谱前端）
 ├── Tools/                    ← 质量工具与运维（scripts 脚本、reports 审计报告、qa-corpus、plans、logs）

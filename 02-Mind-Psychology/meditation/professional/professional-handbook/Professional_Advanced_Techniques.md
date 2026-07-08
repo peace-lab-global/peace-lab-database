@@ -286,7 +286,7 @@ cross_refs:
 
 ---
 
-*相关阅读：[教学实务](Professional_Teaching_Practice.md) · [安全管理](Professional_Safety_Management.md) · [考试认证](Professional_Exam_Certification.md) · [止观禅定](../samatha-vipassana/INDEX.md) · [内观禅修](../vipassana/INDEX.md) · [直接认证冥想](../direct-recognition/INDEX.md)*
+*相关阅读：[教学实务](Professional_Teaching_Practice.md) · [安全管理](Professional_Safety_Management.md) · [考试认证](Professional_Exam_Certification.md) · [止观禅定](../../../../01-Wisdom-Traditions/INDEX.md) · [内观禅修](../../../../01-Wisdom-Traditions/INDEX.md) · [直接认证冥想](../../../../01-Wisdom-Traditions/INDEX.md)*
 
 ---
 
@@ -312,7 +312,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

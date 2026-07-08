@@ -227,5 +227,5 @@ cross_refs:
 - [身体扫描引导词脚本](./Scripts_Body_Scan.md)
 - [慈心禅引导词脚本](./Scripts_Loving_Kindness.md)
 - [特殊场景引导词脚本](./Scripts_Special_Scenarios.md)
-- [冥想教学方法论](../practitioner-training/Practitioner_Teaching_Methodology.md)
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
+- [冥想教学方法论](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Teaching_Methodology.md)
+- [创伤知情冥想指南](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)

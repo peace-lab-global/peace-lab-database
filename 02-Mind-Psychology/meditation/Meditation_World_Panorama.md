@@ -124,7 +124,7 @@ mindmap
 | **印度教 Hinduism** | 梵我合一（Atman-Brahman） | 解脱（Moksha）、与神合一 | 王瑜伽八支、昆达里尼、奉爱唱诵 | ✅ [瑜伽尼德拉](yoga-nidra/) · [昆达里尼](kundalini-meditation/) · [唱诵](mantra-chanting/) · [脉轮](chakra-meditation/) |
 | **佛教 Buddhism** | 四圣谛、缘起性空、心性本觉 | 觉悟（Bodhi）、涅槃、慈悲智慧 | 止观、内观、慈心禅、大圆满、坐禅 | ✅ [止观](samatha-vipassana/) · [内观](vipassana/) · [慈心禅](metta-lovingkindness/) · [藏传](tibetan-meditation/) · [坐禅](zazen/) · [直接认证](direct-recognition/) |
 | **道教 Daoism** | 道法自然、天人合一、三宝养生 | 长生久视、与道合一、成仙 | 内丹、胎息、存思、导引 | ✅ [道家冥想](taoist-meditation/) · [中国传统](chinese-traditions/) |
-| **儒教 Confucianism** | 修身齐家治国平天下 | 成圣、仁心修养 | 静坐、存心养性、礼乐涵养 | ✅ [中国传统](chinese-traditions/Chinese_Meditation_Overview.md) |
+| **儒教 Confucianism** | 修身齐家治国平天下 | 成圣、仁心修养 | 静坐、存心养性、礼乐涵养 | ✅ [中国传统](../../02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md) |
 | **基督教 Christianity** | 上帝临在、道成肉身、恩典 | 与上帝联合（Unio Mystica）、爱神爱人 | Lectio Divina、归心祈祷、耶稣祷文、神操 | ✅ [基督教默观](christian-contemplative/) |
 | **伊斯兰教 Islam** | 真主独一（Tawhid）、服从 | 接近真主、寂灭于真主（Fana） | Dhikr、Muraqaba、旋转舞 | ✅ [苏菲冥想](sufism-meditation/) |
 | **犹太教 Judaism** | 唯一真神、托拉律法 | 认识神、修复世界（Tikkun） | 卡巴拉冥想、字母冥想、Hitbonenut | ✅ [犹太教冥想](jewish-meditation/) |
@@ -247,18 +247,18 @@ graph LR
 
 | 应用领域 | 最相关的冥想类型 | 证据强度 | 知识库覆盖 |
 |---------|---------------|---------|-----------|
-| **焦虑障碍** | MBSR、正念呼吸、身体扫描 | ⭐⭐⭐⭐⭐（强） | ✅ [焦虑症](clinical-conditions/Meditation_Anxiety_Disorders.md) |
-| **抑郁症** | MBCT、慈心禅、TM | ⭐⭐⭐⭐⭐（强） | ✅ [抑郁症](clinical-conditions/Meditation_Depression.md) |
-| **PTSD/创伤** | 正念、瑜伽、Mantra、慈心禅 | ⭐⭐⭐⭐（中强） | ✅ [PTSD](clinical-conditions/Meditation_PTSD_Trauma.md) |
-| **慢性疼痛** | 正念减压、身体扫描 | ⭐⭐⭐⭐（中强） | ✅ [慢性疼痛](clinical-conditions/Meditation_Chronic_Pain.md) |
-| **心血管疾病** | TM、正念、呼吸法 | ⭐⭐⭐⭐（中强） | ✅ [心血管](clinical-conditions/Meditation_Cardiovascular_Health.md) |
-| **睡眠障碍** | 身体扫描、呼吸法、瑜伽尼德拉 | ⭐⭐⭐⭐（中强） | ✅ [睡眠](overview/Meditation_And_Sleep.md) · [瑜伽尼德拉](yoga-nidra/) |
-| **注意力/ADHD** | 专注冥想、正念、TM | ⭐⭐⭐（中等） | ✅ [神经疾病](clinical-conditions/Meditation_Neurological_Disorders.md) |
-| **成瘾戒断** | 正念复发预防、内观 | ⭐⭐⭐⭐（中强） | ✅ [成瘾](clinical-conditions/Meditation_Addiction_Recovery.md) |
+| **焦虑障碍** | MBSR、正念呼吸、身体扫描 | ⭐⭐⭐⭐⭐（强） | ✅ [焦虑症](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Anxiety_Disorders.md) |
+| **抑郁症** | MBCT、慈心禅、TM | ⭐⭐⭐⭐⭐（强） | ✅ [抑郁症](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md) |
+| **PTSD/创伤** | 正念、瑜伽、Mantra、慈心禅 | ⭐⭐⭐⭐（中强） | ✅ [PTSD](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_PTSD_Trauma.md) |
+| **慢性疼痛** | 正念减压、身体扫描 | ⭐⭐⭐⭐（中强） | ✅ [慢性疼痛](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Chronic_Pain.md) |
+| **心血管疾病** | TM、正念、呼吸法 | ⭐⭐⭐⭐（中强） | ✅ [心血管](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md) |
+| **睡眠障碍** | 身体扫描、呼吸法、瑜伽尼德拉 | ⭐⭐⭐⭐（中强） | ✅ [睡眠](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_And_Sleep.md) · [瑜伽尼德拉](yoga-nidra/) |
+| **注意力/ADHD** | 专注冥想、正念、TM | ⭐⭐⭐（中等） | ✅ [神经疾病](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Neurological_Disorders.md) |
+| **成瘾戒断** | 正念复发预防、内观 | ⭐⭐⭐⭐（中强） | ✅ [成瘾](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Addiction_Recovery.md) |
 | **免疫功能** | 昆达里尼、气功、森林浴 | ⭐⭐⭐（中等） | ✅ [昆达里尼](kundalini-meditation/) · [自然](nature-meditation/) |
-| **癌症护理** | MBSR、慈心禅、瑜伽 | ⭐⭐⭐⭐（中强） | ✅ [癌症](clinical-conditions/Meditation_Cancer_Care.md) |
+| **癌症护理** | MBSR、慈心禅、瑜伽 | ⭐⭐⭐⭐（中强） | ✅ [癌症](../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cancer_Care.md) |
 | **领导力/职场** | 正念、情绪觉察、决策冥想 | ⭐⭐⭐（中等） | ✅ [职业手册](professional-handbook/) |
-| **教育/儿童** | 正念教育、呼吸游戏、慈心禅 | ⭐⭐⭐（中等） | ✅ [儿童青少年](overview/Children_Youth_Meditation.md) |
+| **教育/儿童** | 正念教育、呼吸游戏、慈心禅 | ⭐⭐⭐（中等） | ✅ [儿童青少年](../../02-Mind-Psychology/meditation/foundations/overview/Children_Youth_Meditation.md) |
 
 ---
 
@@ -424,10 +424,10 @@ flowchart TD
 | 层级 | 必备知识 | 推荐深度 | 对应知识库模块 |
 |-----|---------|---------|--------------|
 | **基础层** | 至少精通 1 种传统的理论与实践 | 能独立带领课程 | 任一"特定传统"目录 |
-| **通用层** | 解剖学、神经科学、心理学基础 | 理解机制，能回答学员疑问 | [overview神经科学](overview/Meditation_Neuroscience_Mechanisms.md) · [临床应用](overview/Meditation_Clinical_Applications.md) |
+| **通用层** | 解剖学、神经科学、心理学基础 | 理解机制，能回答学员疑问 | [overview神经科学](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) · [临床应用](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md) |
 | **安全层** | 不良反应识别、创伤知情、危机干预 | 能处理突发状况 | [safety](safety/) |
 | **拓展层** | 了解 3–5 种其他传统的基本方法 | 能根据学员背景推荐适合路径 | 本全景图 + 多个"特定传统"目录 |
-| **伦理层** | 职业道德、文化敏感性、边界设定 | 符合行业最佳实践 | [practitioner-training伦理](practitioner-training/Practitioner_Ethics_Standards.md) |
+| **伦理层** | 职业道德、文化敏感性、边界设定 | 符合行业最佳实践 | [practitioner-training伦理](../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Ethics_Standards.md) |
 | **研究层** | 循证实践、评估工具、研究方法 | 能跟踪最新科学进展 | [professional-handbook研究](professional-handbook/) |
 
 ---

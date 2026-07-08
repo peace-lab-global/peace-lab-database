@@ -213,4 +213,4 @@ cross_refs: []
 
 - 于永年《站桩养生法》
 - 王芗斋《大成拳论》（站桩理论的重要参考）
-- 参见: [太极基本功法](../Tai_Chi_Fundamentals_Practice.md) | [内功心法](../qigong-neigong/TaiChi_Neigong_Cultivation.md) | [步法与平衡](TaiChi_Stepwork_Balance.md)
+- 参见: [太极基本功法](../../../01-Wisdom-Traditions/tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md) | [内功心法](../qigong-neigong/TaiChi_Neigong_Cultivation.md) | [步法与平衡](TaiChi_Stepwork_Balance.md)

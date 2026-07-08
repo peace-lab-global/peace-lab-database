@@ -49,8 +49,8 @@ cross_refs: []
 
 | 目录 | 中文名 | 文件数 | 说明 |
 |------|--------|--------|------|
-| [guided-scripts/](./courses/guided-scripts/INDEX.md) | 冥想引导词脚本库 | 20+基础+500+课程 | 专业执行师标准化设计，实施指南+交付矩阵+执行标记+创伤知情，覆盖150+场景包括生活、工作、婚恋、心理危机、人生变故、中西方文化 |
-| [guided-courses/](./courses/guided-courses/INDEX.md) | 专业引导词课程库 | 500+ | 20+系列，每门以专业冥想执行师维度设计，含理论、实施、交付、带精确执行标记的高质量引导词、教学要点，高质量覆盖生活、工作、婚恋、心理危机、人生变故、中西方文化等150+场景 |
+| [guided-scripts/](./guided-scripts/INDEX.md) | 冥想引导词脚本库 | 14 篇脚本+制作规范 | 可复用脚本模板+音频制作资产包（发音/录制/音乐/质检），含核心5篇+内在力量系列+古典音乐系列 |
+| [guided-courses/](./guided-courses/INDEX.md) | 专业引导词课程库 | ~400 门 | 25 系列，每门含理论+实施指南+交付矩阵+执行标记引导词+教学要点+课后整合，覆盖 200+ 场景 |
 | [chinese-traditions/](./traditions/east-asian/chinese-traditions/INDEX.md) | 中国本土传统 | 4 | 禅道儒天台概论、静坐功法、中医冥想、本土化挑战 |
 
 ### 职业发展
@@ -138,7 +138,7 @@ cross_refs: []
   - [犹太教实操指南](./traditions/abrahamic/jewish-meditation/Jewish_Practical_Guide.md) · [锡克教实操指南](./traditions/indigenous-other/sikh-meditation/Sikh_Practical_Guide.md)
   - [耆那教实操指南](./traditions/indigenous-other/jain-meditation/Jain_Practical_Guide.md) · [巴哈伊实操指南](./traditions/abrahamic/bahai-meditation/Bahai_Practical_Guide.md)
   - [萨满实操指南](./traditions/indigenous-other/shamanic-traditions/Shamanic_Practical_Guide.md) · [韩国禅实操指南](./traditions/buddhist/korean-seon/Korean_Seon_Practical.md)
-- **教学实操**：**[专业冥想引导词课程库（500+门/150+场景）](./courses/guided-courses/INDEX.md)** → [引导词脚本库](./courses/guided-scripts/INDEX.md) → [基础呼吸](./courses/guided-scripts/Scripts_Mindfulness_Breathing.md) → [身体扫描](./courses/guided-scripts/Scripts_Body_Scan.md) → [慈心禅](./courses/guided-scripts/Scripts_Loving_Kindness.md) → [专业执行师交付指南](./professional/professional-handbook/Professional_Teaching_Practice.md)
+- **教学实操**：**[专业冥想引导词课程库（~400门/200+场景）](./guided-courses/INDEX.md)** → [引导词脚本库](./guided-scripts/INDEX.md) → [基础呼吸](./guided-scripts/core/Scripts_Mindfulness_Breathing.md) → [身体扫描](./guided-scripts/core/Scripts_Body_Scan.md) → [慈心禅](./guided-scripts/core/Scripts_Loving_Kindness.md) → [专业执行师交付指南](./professional/professional-handbook/Professional_Teaching_Practice.md)
 - **中国传统**：[传统概论](./traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md) → [静坐功法](./traditions/east-asian/chinese-traditions/Chinese_Sitting_Practices.md) → [中医冥想](./traditions/east-asian/chinese-traditions/Chinese_TCM_Meditation.md) → [本土化](./traditions/east-asian/chinese-traditions/Chinese_Localization_Challenges.md)
 - **韩国禅（Seon）**：[概述](./traditions/buddhist/korean-seon/Korean_Seon_Overview.md) → 历史脉络、看话禅、108拜、Templestay、科学视角
 - **职业发展**：[职业路径](./professional/career-business/Meditation_Career_Pathways.md) → [商业模式](./professional/career-business/Meditation_Business_Models.md) → [数字化产业](./professional/career-business/Meditation_Digital_Industry.md)

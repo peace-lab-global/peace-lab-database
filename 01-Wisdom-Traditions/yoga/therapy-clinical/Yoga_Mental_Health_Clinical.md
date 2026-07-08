@@ -129,7 +129,7 @@ cross_refs: []
 |---------|---------|------|--------|
 | ACT接纳承诺疗法 | 02-心理 | [ACT](../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/) | 瑜伽心理健康与接纳承诺疗法 |
 | 躯体体验疗法 | 02-心理 | [躯体疗法](../../02-Mind-Psychology/psychology/somatic-body/somatic/) | 瑜伽心理疗愈与躯体疗法 |
-| 疼痛身心疗法 | 03-生命 | [疼痛身心](../../03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md) | 瑜伽在疼痛管理中的应用 |
+| 疼痛身心疗法 | 03-生命 | [疼痛身心](../../../03-Bio-Science/biology/pain-science/Pain_Mind_Body_Approaches.md) | 瑜伽在疼痛管理中的应用 |
 | 职业倦怠 | 02-心理 | [倦怠干预](../../02-Mind-Psychology/psychology/applied/occupational-burnout/) | 瑜伽在倦怠干预中的应用 |
 
 ---
@@ -156,7 +156,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

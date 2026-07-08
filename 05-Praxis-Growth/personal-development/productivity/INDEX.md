@@ -62,7 +62,7 @@ cross_refs: []
 - [专注力核心与临床应用 (Focus)](../focus/)
 - [个人任务管理 (Task Management)](../task-management/)
 - [拖延心理调节 (Procrastination)](../procrastination/)
-- [习惯养成科学 (Habit Science)](../topics/Personal_Development_Habit_Science.md)
+- [习惯养成科学 (Habit Science)](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md)
 - [正念与生活禅 (Mindfulness)](../mindfulness/)
 
 ---

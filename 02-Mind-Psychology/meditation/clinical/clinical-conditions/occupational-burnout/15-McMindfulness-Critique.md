@@ -1,6 +1,6 @@
 ---
-title: "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique"
-description: "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的详细解析与实践指南"
+title: "15. 「McMindfulness「 伦理批判与反思 | McMindfulness Critique"
+description: "15. 「McMindfulness「 伦理批判与反思 | McMindfulness Critique的详细解析与实践指南"
 category: "心智与心理学 > 冥想 > Clinical Conditions > Occupational Burnout"
 tags: ["decision-making", "intervention", "leadership", "mindfulness"]
 last_updated: "2026-05"
@@ -8,16 +8,16 @@ difficulty: "advanced"
 reading_level: "advanced"
 estimated_read_time: "5min"
 intent_queries:
-  - "什么是15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique"
-  - "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的核心概念"
-  - "15. "McMindfulness" 伦理批判与反思 | McMindfulness Critique的方法与实践"
+  - "什么是15. 「McMindfulness「 伦理批判与反思 | McMindfulness Critique"
+  - "15. 「McMindfulness「 伦理批判与反思 | McMindfulness Critique的核心概念"
+  - "15. 「McMindfulness「 伦理批判与反思 | McMindfulness Critique的方法与实践"
 trigger_keywords: ["assessment", "buddhism", "clinical", "decision-making"]
 cross_refs: []
 disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 

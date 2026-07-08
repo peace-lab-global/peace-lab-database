@@ -542,11 +542,11 @@
     - **documentary**
       - [Meditation Documentary Guide](/02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md)
     - **guided-scripts**
-      - [总览](/02-Mind-Psychology/meditation/courses/guided-scripts/INDEX.md)
-      - [Scripts Body Scan](/02-Mind-Psychology/meditation/courses/guided-scripts/Scripts_Body_Scan.md)
-      - [Scripts Loving Kindness](/02-Mind-Psychology/meditation/courses/guided-scripts/Scripts_Loving_Kindness.md)
-      - [Scripts Mindfulness Breathing](/02-Mind-Psychology/meditation/courses/guided-scripts/Scripts_Mindfulness_Breathing.md)
-      - [Scripts Special Scenarios](/02-Mind-Psychology/meditation/courses/guided-scripts/Scripts_Special_Scenarios.md)
+      - [总览](/02-Mind-Psychology/meditation/guided-scripts/INDEX.md)
+      - [Scripts Body Scan](/02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md)
+      - [Scripts Loving Kindness](/02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Loving_Kindness.md)
+      - [Scripts Mindfulness Breathing](/02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Mindfulness_Breathing.md)
+      - [Scripts Special Scenarios](/02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Special_Scenarios.md)
     - **mandala-meditation**
       - [总览](/02-Mind-Psychology/meditation/techniques/mandala-meditation/INDEX.md)
       - [Mandala Meditation Clinical](/02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Clinical.md)

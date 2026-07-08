@@ -21,10 +21,13 @@
 
 8. [TF-CBT 创伤聚焦认知行为疗法](../../02-Mind-Psychology/therapy/cognitive-behavioral/tf-cbt-therapy/)
 9. [EMDR 眼动脱敏](../../02-Mind-Psychology/therapy/integrative/emdr-therapy/)
-10. [辩证行为疗法 DBT](../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/)
-11. [慈悲聚焦疗法 CFT](../../02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/)
-12. [频率疗愈 (417Hz 创伤释放)](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md)
-13. [脑波 Alpha-Theta PTSD 引导](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md)
+10. [IFS 内部家庭系统（部分工作）](../../02-Mind-Psychology/therapy/integrative/ifs-therapy/IFS_Overview.md) — 创伤的内在关系取向
+11. [Somatic Experiencing 躯体体验](../../02-Mind-Psychology/therapy/integrative/somatic-experiencing/SE_Overview.md) — 完成冻结的生存反应
+12. [辩证行为疗法 DBT](../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/)
+13. [慈悲聚焦疗法 CFT](../../02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/)
+14. [频率疗愈 (417Hz 创伤释放)](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md)
+15. [脑波 Alpha-Theta PTSD 引导](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md)
+16. [创伤知情冥想](../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md) — 安全引导创伤史冥想者
 
 ## 阶段四：整合与成长
 

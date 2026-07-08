@@ -68,5 +68,5 @@ cross_refs: []
 | 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 颂钵在 Nada Yoga 中的过渡工具角色 |
 | 多维声音医学 | 02-心理学 | [Sound Medicine](Sensory_Sound_Medicine.md) | 声浴编排与 Nada Yoga 四阶段模型的对照 |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 吟唱技术与人声疗愈的整合 |
-| 瑜伽梵唱与 Nada | 01-智慧传承 | [瑜伽梵唱](../../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md) | Nada Yoga 在瑜伽传统中的原始文本 |
-| 道家六字诀 | 01-智慧传承 | [道家养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 中印声音疗愈传统的跨文化对照 |
+| 瑜伽梵唱与 Nada | 01-智慧传承 | [瑜伽梵唱](../../../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md) | Nada Yoga 在瑜伽传统中的原始文本 |
+| 道家六字诀 | 01-智慧传承 | [道家养生气功](../../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 中印声音疗愈传统的跨文化对照 |

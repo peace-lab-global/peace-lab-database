@@ -27,7 +27,7 @@ cross_refs: []
 该模块与现有内容的关系如下：
 1. 与 [向上管理与情绪化上级应对](Workplace_Upward_Management.md) 联动，作为“识别上级类型”与“选择沟通方式”的结构化底座
 2. 与 [向上管理能力提升框架与实战方法论](Workplace_Upward_Management_Professional_Framework.md) 联动，作为目标对齐、信息同步、资源争取和风险升级的前置判断层
-3. 与 [给管理者看的：如何避免自己变成情绪化上级](Workplace_Manager_Emotional_Self_Check.md) 联动，支持管理者自评、自我校准与带人方式优化
+3. 与 [给管理者看的：如何避免自己变成情绪化上级](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Manager_Emotional_Self_Check.md) 联动，支持管理者自评、自我校准与带人方式优化
 4. 与现有数字化工具案例联动，为 `飞书`、`Jira`、`Confluence`、`Notion` 等工具提供画像、推荐与复盘数据接口
 
 ## 二、模块建设目标
@@ -405,9 +405,9 @@ StrategyScore = 0.35 \times ProfileFit + 0.30 \times ScenarioFit + 0.20 \times H
 - [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
 - [向上管理能力提升框架与实战方法论](Workplace_Upward_Management_Professional_Framework.md)
 - [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [给管理者看的：如何避免自己变成情绪化上级](Workplace_Manager_Emotional_Self_Check.md)
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md)
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md)
+- [给管理者看的：如何避免自己变成情绪化上级](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Manager_Emotional_Self_Check.md)
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
 
 ---
 *返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

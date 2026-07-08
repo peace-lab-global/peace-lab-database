@@ -48,7 +48,7 @@ cross_refs: []
 - **推荐路径**：现场降温 + 会后书面确认 + 观察重复性 + 必要时升级
 - **交叉引用**：
   - [心理学机制文档](Workplace_Verbal_Bullying_PUA_Psychology.md)
-  - [高压会议现场应对手册](Workplace_High_Pressure_Meeting_Handbook.md)
+  - [高压会议现场应对手册](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Pressure_Meeting_Handbook.md)
 
 ## 2.2 案例B：私下长期否定导致自我怀疑
 - **场景类型**：一对一谈话
@@ -86,8 +86,8 @@ cross_refs: []
 - **主要风险**：从管理问题升级为劳动争议
 - **推荐路径**：固定申诉前后变化、申请绩效复核、准备维权材料
 - **交叉引用**：
-  - [PIP应对指南](Workplace_PIP_Response_Guide.md)
-  - [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
+  - [PIP应对指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Response_Guide.md)
+  - [职场维权申诉邮件与仲裁请求模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
 
 ## 2.5 案例E：孕产节点下的语言压迫与边缘化
 - **场景类型**：返岗、晋升、项目分配
@@ -167,7 +167,7 @@ cross_refs: []
 - [心理学机制：精神控制与认知操控分析](Workplace_Verbal_Bullying_PUA_Psychology.md)
 - [社会学机制：权力关系与组织结构分析](Workplace_Verbal_Bullying_PUA_Sociology.md)
 - [法律法规汇编：劳动权益与人格保护](Workplace_Verbal_Bullying_PUA_Legal_References.md)
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
 
 ---
 *返回数据库总索引 [Workplace_Verbal_Bullying_PUA_Knowledge_Database.md](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) | 返回上级索引 [INDEX.md](INDEX.md)*

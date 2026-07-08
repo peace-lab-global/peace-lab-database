@@ -328,8 +328,8 @@ cross_refs: []
 > **相关文档链接：**
 > - [瑜伽伦理与专业](Yoga_Ethics_Business_Professional.md)
 > - [现代瑜伽流派](Yoga_Modern_Styles.md)
-> - [Yoga Nidra](Yoga_Nidra.md)
-> - [冥想：专注与禅定](Yoga_Meditation_Dharana_Dhyana.md)
-> - [瑜伽营养与生活方式](Yoga_Nutrition_Lifestyle.md)
-> - [瑜伽治疗](Yoga_Therapy.md)
-> - [特殊人群瑜伽](Yoga_Specific_Populations.md)
+> - [Yoga Nidra](../../../01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md)
+> - [冥想：专注与禅定](../../../01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Meditation_Dharana_Dhyana.md)
+> - [瑜伽营养与生活方式](../../../01-Wisdom-Traditions/yoga/lifestyle/Yoga_Nutrition_Lifestyle.md)
+> - [瑜伽治疗](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md)
+> - [特殊人群瑜伽](../../../01-Wisdom-Traditions/yoga/specific-populations/Yoga_Specific_Populations.md)

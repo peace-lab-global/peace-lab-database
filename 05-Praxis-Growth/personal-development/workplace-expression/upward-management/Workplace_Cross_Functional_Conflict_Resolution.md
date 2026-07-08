@@ -148,9 +148,9 @@ cross_refs:
 ## 八、与主专题联动
 
 建议继续阅读：
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 - [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
-- [高压会议现场应对手册](Workplace_High_Pressure_Meeting_Handbook.md)
+- [高压会议现场应对手册](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Pressure_Meeting_Handbook.md)
 
 ---
 *返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

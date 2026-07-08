@@ -140,10 +140,10 @@ cross_refs: []
 ## 九、与相关专题联动
 
 建议继续阅读：
-- [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
+- [职场维权申诉邮件与仲裁请求模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
 - [案例库：典型案例与行为模式分析](Workplace_Verbal_Bullying_PUA_Case_Library.md)
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md)
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
 
 ---
 *返回数据库总索引 [Workplace_Verbal_Bullying_PUA_Knowledge_Database.md](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) | 返回上级索引 [INDEX.md](INDEX.md)*

@@ -374,9 +374,9 @@ PIP的程序合法性，通常离不开：
 建议结合以下内容继续使用：
 - [一对一绩效/批评谈话模板](Workplace_Performance_and_Critical_Feedback_Templates.md)
 - [PIP周报/复盘模板](Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
-- [被裁员/劝退场景应对方案](Workplace_Layoff_and_Exit_Negotiation_Guide.md)
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [被裁员/劝退场景应对方案](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Layoff_and_Exit_Negotiation_Guide.md)
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

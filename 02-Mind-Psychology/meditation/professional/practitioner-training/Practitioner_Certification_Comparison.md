@@ -198,5 +198,5 @@ cross_refs: []
 - [冥想执行师培训体系总览](./Practitioner_Training_Overview.md)
 - [冥想执行师评估与进阶](./Practitioner_Assessment_Progression.md)
 - [冥想执行师职业伦理](./Practitioner_Ethics_Standards.md)
-- [MBSR项目概述](../mbsr-program/MBSR_Program_Overview.md)
+- [MBSR项目概述](../../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
 - [冥想职业发展路径](../career-business/Meditation_Career_Pathways.md)

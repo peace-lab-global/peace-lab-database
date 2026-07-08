@@ -80,3 +80,18 @@ jobs:
             | grep -E '^(0[1-6]-' \
             > changed_files.txt || true
           python3 Tools/scripts/ci_lint_metadata.py
+
+  structural-drift:
+    name: Structural drift (typos & naming)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Run structural audit
+        run: |
+          # Fails only on unambiguous NEW drift (known typos like 'infograhic').
+          # Full report is informational; historical naming debt is not gated
+          # (consistent with the baseline-mode philosophy of this workflow).
+          python3 Tools/scripts/structural_audit.py --ci

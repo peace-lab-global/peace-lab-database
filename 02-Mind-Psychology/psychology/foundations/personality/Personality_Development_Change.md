@@ -262,7 +262,7 @@ cross_refs: []
 | 人格总览 | [Overview](Personality_Psychology_Overview.md) | 理论框架 |
 | 大五模型 | [Big Five](Big_Five_Model.md) | 年龄趋势 |
 | 冥想 | [Meditation](../../../meditation/) | 冥想改变人格 |
-| 习惯科学 | [Habits](../../../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md) | 行为改变方法 |
+| 习惯科学 | [Habits](../../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Habit_Science.md) | 行为改变方法 |
 | 正念 | [Mindfulness](../../../../05-Praxis-Growth/personal-development/mindfulness/) | 正念与N↓ |
 | 衰老 | [Aging](../../../../03-Bio-Science/biology/aging-longevity/) | 认知与人格衰老 |
 

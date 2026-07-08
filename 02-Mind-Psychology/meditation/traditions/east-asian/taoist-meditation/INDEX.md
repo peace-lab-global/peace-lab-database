@@ -48,5 +48,5 @@ cross_refs:
 
 ## 关联内容
 
-- [呼吸法专业教程](../pranayama-breath/diaphragmatic-breathing-masterclass.md) — 横膈膜呼吸的生理学基础
+- [呼吸法专业教程](../../../../../02-Mind-Psychology/meditation/traditions/indian-yogic/pranayama-breath/diaphragmatic-breathing-masterclass.md) — 横膈膜呼吸的生理学基础
 - [中医养生](../../../../../03-Bio-Science/) — 脏腑经络与时辰养生

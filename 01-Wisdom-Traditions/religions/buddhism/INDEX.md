@@ -106,7 +106,7 @@ cross_refs:
 ### 佛教现代应用 (Modern Applications) — [完整索引](modern-applications/INDEX.md)
 - **心理治疗与临床**：心理治疗理论 | 正念疗法整合(MBSR/MBCT/ACT/DBT) | 熏习临床转化 | 慢性疼痛 | 睡眠问题
 - **神经科学**：止观禅修神经科学机制 | [跨项目深度研究](../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md)
-- **身体康复**：[太极身心调整](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [瑜伽疗法整合](../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
+- **身体康复**：[太极身心调整](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) | [瑜伽疗法整合](../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
 - **临终关怀**：[经文疗愈导读](sutras/Buddhism_Sutra_Healing_Guide.md) | [藏传中阴度亡](rituals/Tibetan_Bardo_Rites.md) | [死亡教育现代诠释](dzongsar-khyentse/living-is-dying/Book_Review.md)
 - **数字时代**：[数字化正念与AI心理健康](modern-applications/Digital_Mindfulness_AI_Mental_Health.md) — 移动应用、VR正念、生物反馈、AI心理助手、伦理框架
 

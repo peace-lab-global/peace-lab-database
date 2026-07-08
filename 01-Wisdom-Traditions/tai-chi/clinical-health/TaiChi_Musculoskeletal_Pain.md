@@ -81,4 +81,4 @@ cross_refs: []
 
 - Wang C et al. (2016) Ann Intern Med. Comparative Effectiveness of Tai Chi.
 - Wang C et al. (2010) NEJM. A randomized trial of tai chi for fibromyalgia.
-- 参见: [临床应用](../Tai_Chi_Clinical_Applications.md) | [平衡与防跌](TaiChi_Balance_Fall_Prevention.md)
+- 参见: [临床应用](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) | [平衡与防跌](TaiChi_Balance_Fall_Prevention.md)

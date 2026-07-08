@@ -53,33 +53,33 @@ cross_refs: []
 ### 关联内容
 
 #### 关系心理学
-- [关系心理学概述](../Relationships_Overview.md)
-- [关系系统框架](../Relationships_Systematic_Framework.md)
-- [约会心理学](../dating/Dating_Psychology_Overview.md)
-- [约会-吸引力与择偶](../dating/Dating_Attraction_Selection.md)
-- [依恋与亲密关系](../love/Love_Attachment_Intimacy.md)
-- [婚姻心理学](../marriage/Marriage_Psychology.md)
-- [出轨心理学](../infidelity/Infidelity_Psychology_Overview.md)
-- [家庭暴力](../marriage/domestic-violence/Domestic_Violence_Overview.md)
+- [关系心理学概述](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md)
+- [关系系统框架](../../../../02-Mind-Psychology/relationships/Relationships_Systematic_Framework.md)
+- [约会心理学](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Psychology_Overview.md)
+- [约会-吸引力与择偶](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Attraction_Selection.md)
+- [依恋与亲密关系](../../../../02-Mind-Psychology/relationships/love-dating/love/Love_Attachment_Intimacy.md)
+- [婚姻心理学](../../../../02-Mind-Psychology/relationships/marriage/Marriage_Psychology.md)
+- [出轨心理学](../../../../02-Mind-Psychology/relationships/infidelity/Infidelity_Psychology_Overview.md)
+- [家庭暴力](../../../../02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Overview.md)
 
 #### 跨文化与社会视角
 - [跨文化分析](../cultural-perspective/Cross_Cultural_Analysis.md)
-- [社会心理学](../../psychology/social/INDEX.md)
-- [仇恨心理学](../../psychology/social/hatred/Hatred_Psychology_Overview.md)
-- [情感虐待](../../psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md)
-- [孤独心理学](../../psychology/social/loneliness/Loneliness_Psychology_Overview.md)
+- [社会心理学](../../../../01-Wisdom-Traditions/INDEX.md)
+- [仇恨心理学](../../../../02-Mind-Psychology/psychology/social/hatred/Hatred_Psychology_Overview.md)
+- [情感虐待](../../../../02-Mind-Psychology/psychology/social/emotional-abuse/Emotional_Abuse_Dynamics.md)
+- [孤独心理学](../../../../02-Mind-Psychology/psychology/social/loneliness/Loneliness_Psychology_Overview.md)
 
 #### 临床与治疗方法
-- [创伤治疗概述](../../psychology/clinical/trauma/Trauma_Treatment_Overview.md)
-- [CBT认知行为疗法](../../therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md)
-- [DBT辩证行为疗法](../../therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md)
-- [EMDR疗法](../../therapy/integrative/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md)
-- [情绪聚焦疗法](../../psychology/somatic-body/emotion/Emotion_Focused_Therapy.md)
-- [家庭系统排列](../../psychology/special-topics/family-constellation/INDEX.md)
+- [创伤治疗概述](../../../../02-Mind-Psychology/psychology/clinical/trauma/Trauma_Treatment_Overview.md)
+- [CBT认知行为疗法](../../../../02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/CBT_Cognitive_Behavioral_Therapy_Overview.md)
+- [DBT辩证行为疗法](../../../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/DBT_Dialectical_Behavior_Therapy_Overview.md)
+- [EMDR疗法](../../../../02-Mind-Psychology/therapy/integrative/emdr-therapy/EMDR_Eye_Movement_Desensitization_Overview.md)
+- [情绪聚焦疗法](../../../../02-Mind-Psychology/psychology/somatic-body/emotion/Emotion_Focused_Therapy.md)
+- [家庭系统排列](../../../../01-Wisdom-Traditions/INDEX.md)
 
 #### 自我发展
-- [自我慈悲与自我关怀](../../psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md)
-- [自信心理学](../../psychology/self-regulation/self-confidence/Self_Confidence_Overview.md)
+- [自我慈悲与自我关怀](../../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md)
+- [自信心理学](../../../../02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Overview.md)
 
 ---
 *返回上级 [Relationships](../INDEX.md) | 返回根目录 [README.md](./)*

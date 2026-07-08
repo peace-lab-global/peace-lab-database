@@ -204,4 +204,4 @@ cross_refs:
 - 沈家桢《陈氏太极拳》
 - 顾留馨《太极拳术》
 - 陈正雷《陈氏太极拳械汇宗》
-- 参见: [五大流派](../Tai_Chi_Schools_Styles.md) | [身法与缠丝](../fundamentals/TaiChi_Bodywork_Silk_Reeling.md) | [杨武吴孙四式](TaiChi_Yang_Wu_Wu_Sun.md)
+- 参见: [五大流派](../../../01-Wisdom-Traditions/tai-chi/schools-lineage/Tai_Chi_Schools_Styles.md) | [身法与缠丝](../fundamentals/TaiChi_Bodywork_Silk_Reeling.md) | [杨武吴孙四式](TaiChi_Yang_Wu_Wu_Sun.md)

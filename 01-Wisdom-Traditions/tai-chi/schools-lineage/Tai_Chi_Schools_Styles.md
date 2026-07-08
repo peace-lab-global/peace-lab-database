@@ -263,9 +263,9 @@ cross_refs:
 
 | 主题 | 链接 |
 |------|------|
-| 太极拳总览 | [总览](Tai_Chi_Overview.md) |
-| 太极基本功法 | [基本功法](Tai_Chi_Fundamentals_Practice.md) |
-| 太极心理调适 | [心理调适](Tai_Chi_Psychological_Adjustment_Mechanism.md) |
+| 太极拳总览 | [总览](../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md) |
+| 太极基本功法 | [基本功法](../../../01-Wisdom-Traditions/tai-chi/fundamentals/Tai_Chi_Fundamentals_Practice.md) |
+| 太极心理调适 | [心理调适](../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md) |
 | 道家哲学 | [道家](../religions/dao/) |
 | 运动科学 | [伸展运动](../../03-Bio-Science/biology/stretch/) |
 

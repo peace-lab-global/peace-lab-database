@@ -58,8 +58,8 @@
 
 **示例**:
 ```
-06-Clinical-Topics/Depression/meditation/Meditation_Depression.md (源)
-06-Clinical-Topics/MBCT/meditation/clinical-conditions/Meditation_Depression.md (镜像)
+06-Clinical-Topics/depression/meditation/Meditation_Depression.md (源)
+06-Clinical-Topics/mbct/meditation/clinical-conditions/Meditation_Depression.md (镜像)
 ```
 
 **特征**:同一 domain 内,服务于不同的"主题入口"
@@ -71,7 +71,7 @@
 **示例**:
 ```
 02-Mind-Psychology/psychology/clinical/Anti_Anxiety_Skills.md (源)
-06-Clinical-Topics/Anxiety/psychology/self-regulation/anti-anxiety/Anti_Anxiety_Skills.md (镜像)
+06-Clinical-Topics/anxiety/psychology/self-regulation/anti-anxiety/Anti_Anxiety_Skills.md (镜像)
 ```
 
 **特征**:服务于"从临床疾病角度查找心理学资源"的需求

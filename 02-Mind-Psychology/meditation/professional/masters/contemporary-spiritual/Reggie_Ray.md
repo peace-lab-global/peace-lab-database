@@ -254,9 +254,9 @@ cross_refs:
 
 - [秋吉·创巴仁波切](../tibetan/Chogyam_Trungpa.md) — 他的根本上师
 - [佩玛·丘卓](../tibetan/Pema_Chodron.md) — 同门，创巴仁波切的主要弟子
-- [瑜伽尼德拉](../../yoga-nidra/INDEX.md) — 相关的身体-冥想传统
-- [身体扫描](../../guided-scripts/Scripts_Body_Scan.md) — 相关的引导练习
-- [创伤知情正念](../../safety/Meditation_Trauma_Sensitive.md) — 身体觉察与创伤安全
+- [瑜伽尼德拉](../../../../../01-Wisdom-Traditions/INDEX.md) — 相关的身体-冥想传统
+- [身体扫描](../../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md) — 相关的引导练习
+- [创伤知情正念](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md) — 身体觉察与创伤安全
 
 ---
 

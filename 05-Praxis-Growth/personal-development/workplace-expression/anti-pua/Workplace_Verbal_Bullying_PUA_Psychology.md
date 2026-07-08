@@ -42,7 +42,7 @@ cross_refs: []
 | 羞耻诱导 | 公开羞辱、贬低能力、人身化比较 | 让个体通过自责而顺从 | [工作方法论](Workplace_Verbal_Bullying_PUA_Response_Methodology.md) |
 | 间歇性强化 | 一会儿夸奖一会儿打压 | 形成对认可的上瘾式追逐 | [干预与康复](Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md) |
 | 习得性无助 | 无论怎么做都被否定 | 放弃尝试、被动服从 | [案例库](Workplace_Verbal_Bullying_PUA_Case_Library.md) |
-| 认知过载 | 多任务压迫、口径反复变化、临时改标准 | 让人无法稳定思考和记录 | [高压会议现场应对手册](Workplace_High_Pressure_Meeting_Handbook.md) |
+| 认知过载 | 多任务压迫、口径反复变化、临时改标准 | 让人无法稳定思考和记录 | [高压会议现场应对手册](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Pressure_Meeting_Handbook.md) |
 | 创伤性警觉 | 反复受惊、等待下一次羞辱 | 形成持续高唤醒、失眠、惊恐 | [干预与康复](Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md) |
 
 ## 三、常见心理运作路径

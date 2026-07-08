@@ -159,9 +159,9 @@ cross_refs: []
 ## 九、与主专题联动
 
 建议结合以下内容继续使用：
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [给管理者看的：如何避免自己变成情绪化上级](Workplace_Manager_Emotional_Self_Check.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md)
+- [给管理者看的：如何避免自己变成情绪化上级](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Manager_Emotional_Self_Check.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

@@ -18,7 +18,7 @@ cross_refs: []
 
 > **本指南面向**：冥想练习者，提供冥想过程中常见身体与感知现象的专业指导，涵盖姿势、呼吸、舌抵上腭、锚点选择、腿麻应对、气味与声音运用等核心主题。
 >
-> **⚠️ 安全提示**：本指南仅供教育和自我练习参考，不能替代专业医疗建议。如果您有精神疾病史（如PTSD、重度抑郁、精神分裂）、创伤史、解离倾向、癫痫、心血管疾病的急性期症状，或正在服用精神科药物，请在开始或调整冥想练习前咨询专业医疗人员。详见 [禅修安全与不良反应](../safety/INDEX.md)。
+> **⚠️ 安全提示**：本指南仅供教育和自我练习参考，不能替代专业医疗建议。如果您有精神疾病史（如PTSD、重度抑郁、精神分裂）、创伤史、解离倾向、癫痫、心血管疾病的急性期症状，或正在服用精神科药物，请在开始或调整冥想练习前咨询专业医疗人员。详见 [禅修安全与不良反应](../../../../01-Wisdom-Traditions/INDEX.md)。
 >
 > **⚠️ 免责声明**：如遇任何不适，请立即停止练习并寻求专业帮助。
 >
@@ -876,8 +876,8 @@ cross_refs: []
 | 相关主题 | 链接 | 说明 |
 |----------|------|------|
 | 冥想核心基础 | [Meditation_Core.md](./Meditation_Core.md) | 冥想通用基础概念与姿势、呼吸概述 |
-| 止观初学者指南 | [../samatha-vipassana/Practice_Guide_Beginner.md](../samatha-vipassana/Practice_Guide_Beginner.md) | 从准备到建立稳定日常修习的完整指导 |
-| 止观进阶指南 | [../samatha-vipassana/Practice_Guide_Intermediate.md](../samatha-vipassana/Practice_Guide_Intermediate.md) | 中级修行者深化指导 |
+| 止观初学者指南 | [../samatha-vipassana/Practice_Guide_Beginner.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Beginner.md) | 从准备到建立稳定日常修习的完整指导 |
+| 止观进阶指南 | [../samatha-vipassana/Practice_Guide_Intermediate.md](../../../../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Practice_Guide_Intermediate.md) | 中级修行者深化指导 |
 | 身体为锚课程 | [../course/C3-3-body-as-anchor.md](../course/C3-3-body-as-anchor.md) | 以身体为锚的详细教学 |
 | 呼吸为锚课程 | [../course/C4-3-breathing-as-anchor.md](../course/C4-3-breathing-as-anchor.md) | 呼吸锚点的深入讲解 |
 | 冥想中呼吸答疑 | [../course/C4-5-breathing-while-meditate.md](../course/C4-5-breathing-while-meditate.md) | 呼吸相关常见问题解答 |
@@ -885,13 +885,13 @@ cross_refs: []
 | 姿势选择答疑 | [../course/C3-5-QA-posture-of-meditation.md](../course/C3-5-QA-posture-of-meditation.md) | 冥想姿势选择的详细答疑 |
 | 与身体亲密课程 | [../course/C3-4-intimacy-with-body.md](../course/C3-4-intimacy-with-body.md) | 身体觉察与具身认知 |
 | 冥想环境选择 | [../course/C2-5-QA-environment-of-meditation.md](../course/C2-5-QA-environment-of-meditation.md) | 环境搭建与干扰应对 |
-| 禅修安全 | [../safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应系统分类 |
-| 不良反应详解 | [../safety/Meditation_Adverse_Effects.md](../safety/Meditation_Adverse_Effects.md) | Britton MAE框架与风险因素 |
-| 修行黑夜现象 | [../safety/Meditation_Dark_Night.md](../safety/Meditation_Dark_Night.md) | 深度冥想中的痛苦性心理体验 |
-| 危机干预方案 | [../safety/Meditation_Crisis_Protocol.md](../safety/Meditation_Crisis_Protocol.md) | 冥想相关心理危机处理 |
-| 创伤知情冥想 | [../safety/Meditation_Trauma_Sensitive.md](../safety/Meditation_Trauma_Sensitive.md) | 创伤幸存者安全练习指南 |
-| 引导词脚本 | [../guided-scripts/INDEX.md](../guided-scripts/INDEX.md) | 标准化冥想引导词 |
-| 正念行走 | [../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md](../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 动态冥想的完整理论与实践 |
+| 禅修安全 | [../safety/INDEX.md](../../../../01-Wisdom-Traditions/INDEX.md) | 安全与不良反应系统分类 |
+| 不良反应详解 | [../safety/Meditation_Adverse_Effects.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md) | Britton MAE框架与风险因素 |
+| 修行黑夜现象 | [../safety/Meditation_Dark_Night.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md) | 深度冥想中的痛苦性心理体验 |
+| 危机干预方案 | [../safety/Meditation_Crisis_Protocol.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Crisis_Protocol.md) | 冥想相关心理危机处理 |
+| 创伤知情冥想 | [../safety/Meditation_Trauma_Sensitive.md](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md) | 创伤幸存者安全练习指南 |
+| 引导词脚本 | [../guided-scripts/INDEX.md](../../../../01-Wisdom-Traditions/INDEX.md) | 标准化冥想引导词 |
+| 正念行走 | [../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md](../../../../05-Praxis-Growth/personal-development/mindfulness/mindful-daily-living/Mindful_Walking_Practice.md) | 动态冥想的完整理论与实践 |
 
 ---
 
@@ -932,7 +932,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

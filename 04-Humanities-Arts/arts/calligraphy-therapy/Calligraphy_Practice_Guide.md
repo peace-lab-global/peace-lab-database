@@ -210,7 +210,7 @@ cross_refs:
 | 书法疗愈神经科学 | [Calligraphy_Neuroscience.md](./Calligraphy_Neuroscience.md) |
 | 书法疗愈临床应用 | [Calligraphy_Clinical_Applications.md](./Calligraphy_Clinical_Applications.md) |
 | OH卡牌疗愈 | [../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/](../../../02-Mind-Psychology/therapy/creative-expressive/oh-cards-therapy/) |
-| 正念冥想引导脚本 | [../../../02-Mind-Psychology/meditation/courses/guided-scripts/](../../../02-Mind-Psychology/meditation/courses/guided-scripts/) |
+| 正念冥想引导脚本 | [../../../02-Mind-Psychology/meditation/guided-scripts/](../../../02-Mind-Psychology/meditation/guided-scripts/) |
 | 森林疗愈 | [../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/](../../../02-Mind-Psychology/therapy/sensory-nature/forest-therapy/) |
 
 ---

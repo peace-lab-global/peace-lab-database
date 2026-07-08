@@ -23,7 +23,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -202,15 +202,15 @@ last_disclaimer_added: "2026-06-23"
 
 - [MBSR八周课程详细设计](./MBSR_Weekly_Curriculum.md)
 - [MBSR评估工具汇编](./MBSR_Assessment_Tools.md)
-- [冥想执行师培训体系](../practitioner-training/Practitioner_Training_Overview.md)
-- [冥想临床应用](../overview/Meditation_Clinical_Applications.md)
-- [冥想神经科学机制](../overview/Meditation_Neuroscience_Mechanisms.md)
+- [冥想执行师培训体系](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Training_Overview.md)
+- [冥想临床应用](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md)
+- [冥想神经科学机制](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md)
 
 ## 交叉引用 | Cross References
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
 | 佛教止观双运 | 01-智慧 | [止观](../../../01-Wisdom-Traditions/religions/buddhism/) | MBSR的佛教源流 |
-| PNI心理神经免疫 | 03-生命 | [PNI](../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | MBSR对免疫的调节作用 |
-| 正念核心实践 | 05-实践 | [正念实践](../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | MBSR与日常正念生活 |
-| 焦虑预防 | 02-心理 | [焦虑预防](../../psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md) | MBSR在焦虑预防中的证据 |
+| PNI心理神经免疫 | 03-生命 | [PNI](../../../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md) | MBSR对免疫的调节作用 |
+| 正念核心实践 | 05-实践 | [正念实践](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | MBSR与日常正念生活 |
+| 焦虑预防 | 02-心理 | [焦虑预防](../../../../02-Mind-Psychology/psychology/clinical/anxiety/Anxiety_Prevention_Early_Intervention.md) | MBSR在焦虑预防中的证据 |

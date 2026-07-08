@@ -22,8 +22,8 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [冥想概览](../overview/INDEX.md)
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md)
 - [日本坐禅](../zazen/INDEX.md)
-- [中国本土传统](../chinese-traditions/INDEX.md)
+- [中国本土传统](../../../../../01-Wisdom-Traditions/INDEX.md)
 - [止观禅定](../samatha-vipassana/INDEX.md)
 - [藏传佛教冥想](../tibetan-meditation/INDEX.md)

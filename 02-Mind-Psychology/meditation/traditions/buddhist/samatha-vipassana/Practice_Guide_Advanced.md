@@ -283,8 +283,8 @@ cross_refs:
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 完整理论 |
 | 禅定体系 | [Dhyana_Samadhi_System.md](./Dhyana_Samadhi_System.md) | 四禅八定详解 |
 | 神经科学研究 | [Neuroscience_Research.md](./Neuroscience_Research.md) | 禅修脑科学 |
-| 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全与不良反应 |
-| 修行黑夜 | [Meditation_Dark_Night.md](../safety/Meditation_Dark_Night.md) | 困难阶段 |
+| 禅修安全 | [safety/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 安全与不良反应 |
+| 修行黑夜 | [Meditation_Dark_Night.md](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md) | 困难阶段 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 百科级参考 |
 
 ---
@@ -324,7 +324,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

@@ -410,9 +410,9 @@ cross_refs:
 ## 相关链接
 
 - [正念行走概述](Walking_Meditation_Overview.md)
-- [动态冥想](../overview/Movement_Meditation.md)
-- [老年冥想](../overview/Meditation_Seniors_Elderly.md)
-- [冥想引导词脚本库](../guided-scripts/INDEX.md)
+- [动态冥想](../../../../02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md)
+- [老年冥想](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md)
+- [冥想引导词脚本库](../../../../01-Wisdom-Traditions/INDEX.md)
 
 ---
 

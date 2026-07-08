@@ -257,4 +257,4 @@ DON'T（不应该做）：
 
 ---
 
-*相关阅读：[安全管理](Professional_Safety_Management.md) · [身心健康整合](Professional_Holistic_Integration.md) · [技术进阶](Professional_Advanced_Techniques.md) · [MBSR项目](../mbsr-program/INDEX.md) · [创伤知情冥想](../safety/Meditation_Trauma_Sensitive.md)*
+*相关阅读：[安全管理](Professional_Safety_Management.md) · [身心健康整合](Professional_Holistic_Integration.md) · [技术进阶](Professional_Advanced_Techniques.md) · [MBSR项目](../../../../01-Wisdom-Traditions/INDEX.md) · [创伤知情冥想](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)*

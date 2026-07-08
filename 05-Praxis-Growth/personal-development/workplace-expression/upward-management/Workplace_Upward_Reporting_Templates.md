@@ -217,9 +217,9 @@ cross_refs: []
 
 建议结合以下内容一起使用：
 - [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
-- [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
+- [应对PUA/羞辱型领导](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Anti_PUA_Leadership.md)
 - [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
 
 ---

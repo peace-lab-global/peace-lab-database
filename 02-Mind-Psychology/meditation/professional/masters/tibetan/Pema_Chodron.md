@@ -202,8 +202,8 @@ Shenpa —— 一种内在的"上钩"反应（难以抗拒的冲动）
 - [秋吉·创巴仁波切](Chogyam_Trungpa.md) — 她的根本上师
 - [一行禅师](../contemporary-spiritual/Thich_Nhat_Hanh.md) — 早期影响
 - [达赖喇嘛](Dalai_Lama.md) — 藏传佛教在世界的另一位重要代表
-- [创伤知情正念](../../safety/Meditation_Trauma_Sensitive.md) — 与她的"面对困难"教导相关的安全实践
-- [慈心冥想](../../guided-scripts/Scripts_Loving_Kindness.md) — 相关练习
+- [创伤知情正念](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md) — 与她的"面对困难"教导相关的安全实践
+- [慈心冥想](../../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Loving_Kindness.md) — 相关练习
 
 ---
 

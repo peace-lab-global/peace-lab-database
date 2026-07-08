@@ -146,4 +146,4 @@ cross_refs:
 
 ## 参考与延伸阅读
 
-- 参见: [八段锦与五禽戏](TaiChi_Baduanjin_Wuqinxi.md) | [内功心法](TaiChi_Neigong_Cultivation.md) | [太极气功整合](../Tai_Chi_Qigong_Integration.md)
+- 参见: [八段锦与五禽戏](TaiChi_Baduanjin_Wuqinxi.md) | [内功心法](TaiChi_Neigong_Cultivation.md) | [太极气功整合](../../../01-Wisdom-Traditions/tai-chi/qigong-neigong/Tai_Chi_Qigong_Integration.md)

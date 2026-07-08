@@ -21,7 +21,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -51,7 +51,7 @@ last_disclaimer_added: "2026-06-23"
 
 ### 1.1 三层评估模型
 
-基于 [冥想水平与能力评估总纲](../overview/Meditation_Level_Ability_Assessment_Standard.md) 的 **5DCM模型**，MBSR评估聚焦于**L1-L3**水平的能力发展：
+基于 [冥想水平与能力评估总纲](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Level_Ability_Assessment_Standard.md) 的 **5DCM模型**，MBSR评估聚焦于**L1-L3**水平的能力发展：
 
 ```
 第一层：结果评估（Outcome）        → 课程是否有效？
@@ -191,7 +191,7 @@ last_disclaimer_added: "2026-06-23"
 | 传递主题 | 心理教育清晰度 | 1-6 | Level 4 |
 | 学习环境 | 探询、团体促进 | 1-6 | Level 4 |
 
-> 详细说明见 [冥想执行师评估与进阶](../practitioner-training/Practitioner_Assessment_Progression.md)
+> 详细说明见 [冥想执行师评估与进阶](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Assessment_Progression.md)
 
 ### 4.2 课程Fidelity评估
 
@@ -368,12 +368,12 @@ MIOME评估
 
 ## 相关链接
 
-- [冥想水平与能力评估总纲](../overview/Meditation_Level_Ability_Assessment_Standard.md)
-- [冥想评估量表与工具](../overview/Meditation_Assessment_Tools.md)
+- [冥想水平与能力评估总纲](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Level_Ability_Assessment_Standard.md)
+- [冥想评估量表与工具](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Assessment_Tools.md)
 - [MBSR项目全景概述](./MBSR_Program_Overview.md)
 - [MBSR八周课程设计](./MBSR_Weekly_Curriculum.md)
-- [冥想执行师评估与进阶](../practitioner-training/Practitioner_Assessment_Progression.md)
-- [冥想临床应用](../overview/Meditation_Clinical_Applications.md)
+- [冥想执行师评估与进阶](../../../../02-Mind-Psychology/meditation/professional/practitioner-training/Practitioner_Assessment_Progression.md)
+- [冥想临床应用](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Clinical_Applications.md)
 - [冥想不良反应](../safety/Meditation_Adverse_Effects.md)
 
 ---
@@ -405,7 +405,7 @@ MIOME评估
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

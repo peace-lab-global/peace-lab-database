@@ -146,6 +146,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [亲密关系影响](Masturbation_Intimate_Relationships.md) | [性心理健康](Masturbation_Sexual_Health.md) | [评估与干预](../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md)
+> 🔗 **交叉引用**: [心理机制与动机](Masturbation_Mechanisms_Motivation.md) | [亲密关系影响](Masturbation_Intimate_Relationships.md) | [性心理健康](Masturbation_Sexual_Health.md) | [评估与干预](../../../../03-Bio-Science/sexuality/masturbation-psychology/Masturbation_Assessment_Intervention.md)
 
 [← 返回自慰与关系索引](INDEX.md) | [← 返回关系心理学目录](../INDEX.md)

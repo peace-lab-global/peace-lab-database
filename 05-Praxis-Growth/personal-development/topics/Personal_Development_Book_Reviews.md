@@ -24,50 +24,50 @@ cross_refs:
 
 | 书名 | 作者 | 核心主题 | 详细书评 |
 | :--- | :--- | :--- | :--- |
-| **《原子习惯》** | James Clear | 四定律、习惯堆叠、身份改变 | [详细书评](Personal_Development_Atomic_Habits.md) |
-| **《习惯的力量》** | Charles Duhigg | 习惯回路、基石习惯 | [详细书评](Personal_Development_Power_of_Habit.md) |
-| **《微习惯》** | Stephen Guise | 极小起步、降低阻力 | [详细书评](Personal_Development_Mini_Habits.md) |
-| **《掌控习惯》** | BJ Fogg | 行为设计、B=MAP公式、庆祝 | [详细书评](Personal_Development_Tiny_Habits.md) |
-| **《自控力》** | Kelly McGonigal | 意志力科学、三种意志力、自控策略 | [详细书评](Personal_Development_Willpower_Instinct.md) |
+| **《原子习惯》** | James Clear | 四定律、习惯堆叠、身份改变 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Atomic_Habits.md) |
+| **《习惯的力量》** | Charles Duhigg | 习惯回路、基石习惯 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Power_of_Habit.md) |
+| **《微习惯》** | Stephen Guise | 极小起步、降低阻力 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Mini_Habits.md) |
+| **《掌控习惯》** | BJ Fogg | 行为设计、B=MAP公式、庆祝 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Tiny_Habits.md) |
+| **《自控力》** | Kelly McGonigal | 意志力科学、三种意志力、自控策略 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Willpower_Instinct.md) |
 
 ### 思维模式与心态类
 
 | 书名 | 作者 | 核心主题 | 详细书评 |
 | :--- | :--- | :--- | :--- |
-| **《终身成长》** | Carol Dweck | 固定vs成长型思维 | [详细书评](Personal_Development_Mindset.md) |
-| **《心流》** | Mihaly Csikszentmihalyi | 最优体验、挑战-技能平衡 | [详细书评](Personal_Development_Flow.md) |
-| **《刻意练习》** | Anders Ericsson | 专家级技能的训练方法 | [详细书评](Personal_Development_Peak.md) |
-| **《思考，快与慢》** | Daniel Kahneman | 系统1与系统2、认知偏差 | [详细书评](Personal_Development_Thinking_Fast_Slow.md) |
-| **《穷查理宝典》** | Charlie Munger | 心智模型、多元思维、误判心理学 | [详细书评](Personal_Development_Poor_Charlies_Almanack.md) |
+| **《终身成长》** | Carol Dweck | 固定vs成长型思维 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Mindset.md) |
+| **《心流》** | Mihaly Csikszentmihalyi | 最优体验、挑战-技能平衡 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Flow.md) |
+| **《刻意练习》** | Anders Ericsson | 专家级技能的训练方法 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/productivity-performance/Personal_Development_Peak.md) |
+| **《思考，快与慢》** | Daniel Kahneman | 系统1与系统2、认知偏差 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Thinking_Fast_Slow.md) |
+| **《穷查理宝典》** | Charlie Munger | 心智模型、多元思维、误判心理学 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/meaning-wisdom/Personal_Development_Poor_Charlies_Almanack.md) |
 
 ### 目标与效能类
 
 | 书名 | 作者 | 核心主题 | 详细书评 |
 | :--- | :--- | :--- | :--- |
-| **《早起的奇迹》** | Hal Elrod | 早晨仪式、S.A.V.E.R.S.方法 | [详细书评](Personal_Development_Miracle_Morning.md) |
-| **《深度工作》** | Cal Newport | 专注力、深度vs浅层工作、注意力管理 | [详细书评](Personal_Development_Deep_Work.md) |
-| **《高效能人士的七个习惯》** | Stephen Covey | 主动积极、以终为始、要事第一 | [详细书评](Personal_Development_7_Habits.md) |
-| **《搞定GTD》** | David Allen | GTD系统、收集-处理-组织-回顾-执行 | [详细书评](Personal_Development_GTD.md) |
-| **《OKR工作法》** | John Doerr | 目标与关键结果、聚焦协同追踪延展 | [详细书评](Personal_Development_OKR.md) |
-| **《吃掉那只青蛙》** | Brian Tracy | 优先处理最重要任务、ABCDE法 | [详细书评](Personal_Development_Eat_That_Frog.md) |
+| **《早起的奇迹》** | Hal Elrod | 早晨仪式、S.A.V.E.R.S.方法 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_Miracle_Morning.md) |
+| **《深度工作》** | Cal Newport | 专注力、深度vs浅层工作、注意力管理 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/productivity-performance/Personal_Development_Deep_Work.md) |
+| **《高效能人士的七个习惯》** | Stephen Covey | 主动积极、以终为始、要事第一 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/habits-behavior/Personal_Development_7_Habits.md) |
+| **《搞定GTD》** | David Allen | GTD系统、收集-处理-组织-回顾-执行 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/productivity-performance/Personal_Development_GTD.md) |
+| **《OKR工作法》** | John Doerr | 目标与关键结果、聚焦协同追踪延展 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/productivity-performance/Personal_Development_OKR.md) |
+| **《吃掉那只青蛙》** | Brian Tracy | 优先处理最重要任务、ABCDE法 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/productivity-performance/Personal_Development_Eat_That_Frog.md) |
 
 ### 意义与幸福类
 
 | 书名 | 作者 | 核心主题 | 详细书评 |
 | :--- | :--- | :--- | :--- |
-| **《活出意义来》** | Viktor Frankl | 意义疗法、三种意义途径、悲剧乐观主义 | [详细书评](Personal_Development_Mans_Search_for_Meaning.md) |
-| **《真实的幸福》** | Martin Seligman | 积极心理学、品格优势VIA、PERMA | [详细书评](Personal_Development_Authentic_Happiness.md) |
-| **《幸福的方法》** | Tal Ben-Shahar | 汉堡模型、愉悦+意义、幸福学 | [详细书评](Personal_Development_Happier.md) |
-| **《坚毅》** | Angela Duckworth | 热情+坚持、Grit量表、刻意练习 | [详细书评](Personal_Development_Grit.md) |
+| **《活出意义来》** | Viktor Frankl | 意义疗法、三种意义途径、悲剧乐观主义 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/meaning-wisdom/Personal_Development_Mans_Search_for_Meaning.md) |
+| **《真实的幸福》** | Martin Seligman | 积极心理学、品格优势VIA、PERMA | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Authentic_Happiness.md) |
+| **《幸福的方法》** | Tal Ben-Shahar | 汉堡模型、愉悦+意义、幸福学 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Happier.md) |
+| **《坚毅》** | Angela Duckworth | 热情+坚持、Grit量表、刻意练习 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/mindset-psychology/Personal_Development_Grit.md) |
 
 ### 沟通与人际类
 
 | 书名 | 作者 | 核心主题 | 详细书评 |
 | :--- | :--- | :--- | :--- |
-| **《人性的弱点》** | Dale Carnegie | 人际关系30条原则 | [详细书评](Personal_Development_How_to_Win_Friends.md) |
-| **《非暴力沟通》** | Marshall Rosenberg | 观察-感受-需要-请求、同理心倾听 | [详细书评](Personal_Development_NVC.md) |
-| **《关键对话》** | Patterson等 | 高风险对话、共享意义库、STATE方法 | [详细书评](Personal_Development_Crucial_Conversations.md) |
-| **《影响力》** | Robert Cialdini | 六大说服原则：互惠、承诺、社会认同、喜好、权威、稀缺 | [详细书评](Personal_Development_Influence.md) |
+| **《人性的弱点》** | Dale Carnegie | 人际关系30条原则 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/communication-influence/Personal_Development_How_to_Win_Friends.md) |
+| **《非暴力沟通》** | Marshall Rosenberg | 观察-感受-需要-请求、同理心倾听 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/communication-influence/Personal_Development_NVC.md) |
+| **《关键对话》** | Patterson等 | 高风险对话、共享意义库、STATE方法 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/communication-influence/Personal_Development_Crucial_Conversations.md) |
+| **《影响力》** | Robert Cialdini | 六大说服原则：互惠、承诺、社会认同、喜好、权威、稀缺 | [详细书评](../../../05-Praxis-Growth/personal-development/topics/communication-influence/Personal_Development_Influence.md) |
 
 ---
 

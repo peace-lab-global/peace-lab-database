@@ -86,4 +86,4 @@ cross_refs:
 ## 参考与延伸阅读
 
 - Li F et al. (2012) NEJM. Tai chi and postural stability in Parkinson's disease.
-- 参见: [临床应用](../Tai_Chi_Clinical_Applications.md) | [神经科学证据](../Tai_Chi_Neuroscience_Evidence.md) | [脑影像研究](../neuroscience-research/TaiChi_Brain_Imaging.md)
+- 参见: [临床应用](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md) | [神经科学证据](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) | [脑影像研究](../neuroscience-research/TaiChi_Brain_Imaging.md)

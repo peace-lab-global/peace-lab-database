@@ -277,25 +277,25 @@ cross_refs: []
 - [向上管理能力提升框架与实战方法论](Workplace_Upward_Management_Professional_Framework.md) - 聚焦目标对齐、信息同步、资源争取、量化评估与数字化工具应用的系统化能力建设
 - [管理者沟通风格画像与适配策略系统设计](Workplace_Manager_Communication_Style_Profiling_System_Design.md) - 通过风格评估模型、策略库、智能匹配与可视化分析，把“识别上级类型”升级为可配置系统能力
 - [向上汇报模板库](Workplace_Upward_Reporting_Templates.md) - 日常进展、风险预警、资源申请、优先级冲突、会后确认模板
-- [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md) - 会议受压、被甩锅、被羞辱、被迫表态等场景下的直接话术
-- [高压会议现场应对手册](Workplace_High_Pressure_Meeting_Handbook.md) - 公开施压、突然追问、跨部门甩锅与高压会议收束方法
-- [一对一绩效/批评谈话模板](Workplace_Performance_and_Critical_Feedback_Templates.md) - 绩效反馈、单独批评、标准对齐与会后确认模板
-- [绩效改进计划(PIP)应对指南](Workplace_PIP_Response_Guide.md) - PIP流程、关键节点、常见陷阱、证据策略与解除风险防范
-- [PIP周报/复盘模板](Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md) - 周报、周会纪要、中期复盘、结案复盘与书面提交模板
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md) - 不同沟通渠道中的留痕模板与快速同步模板
-- [Offer谈判与涨薪话术模板](Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md) - 薪资谈判流程、市场校准、筹码准备与书面收口
-- [Offer邮件模板与微信商务谈判话术指南](Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md) - 正式Offer邮件、微信谈薪、岗位细节确认与收口模板
-- [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md) - 识别操控、保护边界、证据留存与升级时机
-- [职场语言霸凌与PUA专业知识数据库](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) - 从心理学、社会学、工作方法论、案例、法规与康复六个模块系统理解语言霸凌与精神控制
+- [高风险对话话术清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Risk_Conversation_Scripts.md) - 会议受压、被甩锅、被羞辱、被迫表态等场景下的直接话术
+- [高压会议现场应对手册](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_High_Pressure_Meeting_Handbook.md) - 公开施压、突然追问、跨部门甩锅与高压会议收束方法
+- [一对一绩效/批评谈话模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_Performance_and_Critical_Feedback_Templates.md) - 绩效反馈、单独批评、标准对齐与会后确认模板
+- [绩效改进计划(PIP)应对指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Response_Guide.md) - PIP流程、关键节点、常见陷阱、证据策略与解除风险防范
+- [PIP周报/复盘模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/performance-pip/Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md) - 周报、周会纪要、中期复盘、结案复盘与书面提交模板
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md) - 不同沟通渠道中的留痕模板与快速同步模板
+- [Offer谈判与涨薪话术模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md) - 薪资谈判流程、市场校准、筹码准备与书面收口
+- [Offer邮件模板与微信商务谈判话术指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md) - 正式Offer邮件、微信谈薪、岗位细节确认与收口模板
+- [应对PUA/羞辱型领导](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Anti_PUA_Leadership.md) - 识别操控、保护边界、证据留存与升级时机
+- [职场语言霸凌与PUA专业知识数据库](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Verbal_Bullying_PUA_Knowledge_Database.md) - 从心理学、社会学、工作方法论、案例、法规与康复六个模块系统理解语言霸凌与精神控制
 - [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md) - 如何专业地进行越级沟通、正式升级与制度化处理
-- [职场霸凌/歧视取证与申诉流程](Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md) - 证据清单、内部申诉、外部维权与心理支持
-- [职场维权申诉邮件与仲裁请求模板](Workplace_Complaint_Email_and_Arbitration_Request_Templates.md) - 正式申诉邮件、事实陈述框架、证据目录和仲裁申请示例
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md) - 覆盖孕产歧视、报复性低绩效、违法调岗和劝退协商的全周期流程、角色协同、预警与案例库设计
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md) - 离职前的合法留痕、交接边界与证据整理
-- [被裁员/劝退场景应对方案](Workplace_Layoff_and_Exit_Negotiation_Guide.md) - 权益核查、补偿谈判、心理调适与交接控制
+- [职场霸凌/歧视取证与申诉流程](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md) - 证据清单、内部申诉、外部维权与心理支持
+- [职场维权申诉邮件与仲裁请求模板](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Complaint_Email_and_Arbitration_Request_Templates.md) - 正式申诉邮件、事实陈述框架、证据目录和仲裁申请示例
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md) - 覆盖孕产歧视、报复性低绩效、违法调岗和劝退协商的全周期流程、角色协同、预警与案例库设计
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md) - 离职前的合法留痕、交接边界与证据整理
+- [被裁员/劝退场景应对方案](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Layoff_and_Exit_Negotiation_Guide.md) - 权益核查、补偿谈判、心理调适与交接控制
 - [跨部门协作冲突处理](Workplace_Cross_Functional_Conflict_Resolution.md) - 责任界定、邮件留证、冲突话术与向上汇报
-- [背景调查风险防控指南](Workplace_Background_Check_Risk_Control_Guide.md) - 离职原因口径、证明人选择、薪资与空窗期说明
-- [给管理者看的：如何避免自己变成情绪化上级](Workplace_Manager_Emotional_Self_Check.md) - 给管理者的情绪领导自检与修复框架
+- [背景调查风险防控指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Background_Check_Risk_Control_Guide.md) - 离职原因口径、证明人选择、薪资与空窗期说明
+- [给管理者看的：如何避免自己变成情绪化上级](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Manager_Emotional_Self_Check.md) - 给管理者的情绪领导自检与修复框架
 
 **推荐阅读顺序**
 1. 主专题：理解向上管理、情绪化上级和边界
@@ -325,11 +325,11 @@ cross_refs: []
 ## 十、专题整合建议
 
 本专题可与以下内容联动学习：
-- [职场表达专业内容体系](Workplace_Expression_Overview.md)
-- [高效沟通实践训练](../../communication/effective-communication/Effective_Communication_Practice.md)
-- [结构化表达核心方法论](../../communication/structured-expression/Structured_Expression_Overview.md)
-- [非防御性沟通体系](../../communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
-- [Crucial Conversations 关键对话](../topics/Personal_Development_Crucial_Conversations.md)
+- [职场表达专业内容体系](../../../../05-Praxis-Growth/personal-development/workplace-expression/Workplace_Expression_Overview.md)
+- [高效沟通实践训练](../../../../05-Praxis-Growth/communication/effective-communication/Effective_Communication_Practice.md)
+- [结构化表达核心方法论](../../../../05-Praxis-Growth/communication/structured-expression/Structured_Expression_Overview.md)
+- [非防御性沟通体系](../../../../05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
+- [Crucial Conversations 关键对话](../../../../05-Praxis-Growth/personal-development/topics/communication-influence/Personal_Development_Crucial_Conversations.md)
 
 ---
 *返回上级索引 [INDEX.md](INDEX.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

@@ -96,4 +96,4 @@ cross_refs:
 
 - Wolf SL et al. (1996) JAMA. Reducing frailty and falls in older persons with tai chi.
 - Li F et al. (2005) NEJM. Tai chi and postural stability in Parkinson's disease.
-- 参见: [步法与平衡](../fundamentals/TaiChi_Stepwork_Balance.md) | [临床应用](../Tai_Chi_Clinical_Applications.md)
+- 参见: [步法与平衡](../fundamentals/TaiChi_Stepwork_Balance.md) | [临床应用](../../../01-Wisdom-Traditions/tai-chi/clinical-health/Tai_Chi_Clinical_Applications.md)

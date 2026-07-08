@@ -22,7 +22,7 @@ cross_refs: []
 
 **交叉引用：**
 - 直接认知完整体系：[Direct Recognition Foundations](Meditation_Direct_Recognition_Foundations.md) | [Neuroscience](Meditation_Direct_Recognition_Neuroscience.md) | [Traditions](Meditation_Direct_Recognition_Traditions.md)
-- 正念完整体系：[Mindfulness Core](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | [MBSR](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [MBCT](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md)
+- 正念完整体系：[Mindfulness Core](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | [MBSR](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [MBCT](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md)
 - 广义直接/间接对比：[Direct & Indirect Recognition Comparison](Meditation_Direct_Indirect_Recognition.md)
 
 ---
@@ -374,7 +374,7 @@ cross_refs: []
 
 **交叉引用导航：**
 - 直接认知完整体系：[Foundations](Meditation_Direct_Recognition_Foundations.md) | [Traditions](Meditation_Direct_Recognition_Traditions.md) | [Neuroscience](Meditation_Direct_Recognition_Neuroscience.md) | [Assessment Stages](Meditation_Direct_Recognition_Assessment_Stages.md) | [Pointing Out](Meditation_Direct_Recognition_Pointing_Out.md) | [History & Lineage](Meditation_Direct_Recognition_History_Lineage.md) | [Daily Integration](Meditation_Direct_Recognition_Daily_Integration.md)
-- 正念完整体系：[Mindfulness Core](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | [MBSR](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [MBCT](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md) | [Clinical Applications](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)
+- 正念完整体系：[Mindfulness Core](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md) | [MBSR](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Stress_Reduction.md) | [MBCT](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Based_Cognitive_Therapy.md) | [Clinical Applications](../../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md)
 - 广义路径对比：[Direct & Indirect Recognition Comparison](Meditation_Direct_Indirect_Recognition.md)
 
 ---

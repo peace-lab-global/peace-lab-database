@@ -26,6 +26,15 @@ PUPPETEER_CFG.write_text(json.dumps({
     "args": ["--no-sandbox", "--disable-setuid-sandbox"],
 }), encoding="utf-8")
 
+# Mermaid config: larger base font for readability + useMaxWidth so diagrams
+# scale to the render width instead of overflowing.
+MERMAID_CFG = WORK / "mermaid-config.json"
+MERMAID_CFG.write_text(json.dumps({
+    "theme": "default",
+    "themeVariables": {"fontSize": "18px"},
+    "flowchart": {"useMaxWidth": True, "htmlLabels": True, "curve": "basis"},
+}), encoding="utf-8")
+
 # ── Step 1: Extract & render Mermaid diagrams as PNG ────────────
 md_text = SRC.read_text(encoding="utf-8")
 mermaid_re = re.compile(r"```mermaid\n(.*?)```", re.DOTALL)
@@ -46,7 +55,8 @@ for i, m in enumerate(matches):
     mmd_file.write_text(mmd_text, encoding="utf-8")
     subprocess.run(
         ["mmdc", "-i", str(mmd_file), "-o", str(png_file),
-         "-b", "white", "-w", "800", "-s", str(SCALE),
+         "-b", "white", "-w", "1000", "-s", str(SCALE),
+         "-c", str(MERMAID_CFG),
          "-p", str(PUPPETEER_CFG)],
         check=True, capture_output=True,
     )
@@ -73,16 +83,28 @@ html_body = markdown.markdown(
 )
 
 # ── Step 3b: Preprocess HTML to prevent orphaned headings ───────
+# NOTE: heading text uses [^<]* (not .*?) so the match cannot span across
+# multiple headings (a lazy .*? with DOTALL would swallow intervening blocks
+# when a heading is NOT immediately followed by a diagram, corrupting layout).
 # Wrap h4 + immediately following .mermaid-diagram into a keep-together container
 html_body = re.sub(
-    r'(<h4[^>]*>.*?</h4>)\s*(<div class="mermaid-diagram">.*?</div>)',
+    r'(<h4[^>]*>[^<]*</h4>)\s*(<div class="mermaid-diagram">.*?</div>)',
     r'<div class="keep-together">\1\2</div>',
     html_body,
     flags=re.DOTALL,
 )
 # Also wrap h3 + immediately following .mermaid-diagram
 html_body = re.sub(
-    r'(<h3[^>]*>.*?</h3>)\s*(<div class="mermaid-diagram">.*?</div>)',
+    r'(<h3[^>]*>[^<]*</h3>)\s*(<div class="mermaid-diagram">.*?</div>)',
+    r'<div class="keep-together">\1\2</div>',
+    html_body,
+    flags=re.DOTALL,
+)
+# Bind part-level h2 to its immediately following h3 so the part heading is
+# never left orphaned at the bottom of a page (WeasyPrint does not always
+# honour page-break-after:avoid on h2).
+html_body = re.sub(
+    r'(<h2[^>]*>[^<]*</h2>)\s*(<h3[^>]*>[^<]*</h3>)',
     r'<div class="keep-together">\1\2</div>',
     html_body,
     flags=re.DOTALL,
@@ -154,6 +176,13 @@ table {{
     margin: 10pt 0;
     font-size: 9.5pt;
     line-height: 1.5;
+    page-break-inside: auto;
+}}
+/* Repeat the header row on every page when a table spans pages */
+thead {{
+    display: table-header-group;
+}}
+tr {{
     page-break-inside: avoid;
 }}
 th {{
@@ -205,7 +234,7 @@ code {{
 }}
 .mermaid-diagram img {{
     max-width: 100%;
-    max-height: 20cm;
+    max-height: 13cm;
     height: auto;
 }}
 
@@ -227,6 +256,12 @@ hr {{
     border: none;
     border-top: 1px solid #ccc;
     margin: 20pt 0;
+    page-break-after: avoid;
+}}
+
+/* Collapse trailing margins at document end */
+body > *:last-child {{
+    margin-bottom: 0;
 }}
 
 /* Strong text */

@@ -154,7 +154,7 @@ SE 与创伤知情冥想高度互补：
 - **正念提供觉察基础**：培养对身体感受的精细觉知
 - **共同原则**：容纳窗口、滴定、选择权、不强迫
 
-详细见 [创伤知情冥想](../../clinical/safety/Trauma_Informed_Meditation.md)。
+详细见 [创伤知情冥想](../../../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md)。
 
 ---
 

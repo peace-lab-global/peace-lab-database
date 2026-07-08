@@ -54,7 +54,7 @@ cross_refs:
 - 提供即学即用的实操练习
 - 科学化呈现正念机制
 
-> **关联知识**：[冥想核心基础](../overview/Meditation_Core.md) · [冥想类型分类](../overview/Meditation_Types_Classification.md) · [Andy Puddicombe人物档案](../masters/industry-leaders/Andy_Puddicombe.md)
+> **关联知识**：[冥想核心基础](../overview/Meditation_Core.md) · [冥想类型分类](../overview/Meditation_Types_Classification.md) · [Andy Puddicombe人物档案](../../../../02-Mind-Psychology/meditation/professional/masters/industry-leaders/Andy_Puddicombe.md)
 
 ---
 
@@ -137,7 +137,7 @@ cross_refs:
 
 **经典地位**：内观禅修纪录片中的**经典之作**，被广泛用于冥想教育和刑事司法改革讨论
 
-> **关联知识**：[内观禅修](../vipassana/Vipassana_Meditation.md) · [S.N. 葛印卡](../masters/western-pioneers/SN_Goenka.md) · [创伤干预](../../psychology/clinical/trauma/)
+> **关联知识**：[内观禅修](../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) · [S.N. 葛印卡](../../../../02-Mind-Psychology/meditation/professional/masters/western-pioneers/SN_Goenka.md) · [创伤干预](../../psychology/clinical/trauma/)
 
 ---
 
@@ -164,7 +164,7 @@ cross_refs:
 - 展示内观禅修的社会变革潜力
 - 关注冥想对愤怒、成瘾、暴力行为的干预效果
 
-> **关联知识**：[内观禅修](../vipassana/Vipassana_Meditation.md) · [S.N. 葛印卡](../masters/western-pioneers/SN_Goenka.md)
+> **关联知识**：[内观禅修](../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) · [S.N. 葛印卡](../../../../02-Mind-Psychology/meditation/professional/masters/western-pioneers/SN_Goenka.md)
 
 ---
 
@@ -194,7 +194,7 @@ cross_refs:
 
 **适合人群**：对系统禅修训练感兴趣、准备挑战自我的修行者
 
-> **关联知识**：[内观禅修](../vipassana/Vipassana_Meditation.md) · [冥想安全](../safety/) · [冥想不良反应](../safety/Meditation_Adverse_Effects.md)
+> **关联知识**：[内观禅修](../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) · [冥想安全](../safety/) · [冥想不良反应](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
 
 ---
 
@@ -231,7 +231,7 @@ cross_refs:
 - 展现正念不是技术而是一种存在方式
 - 对快节奏现代生活的深层反思
 
-> **关联知识**：[一行禅师人物档案](../masters/contemporary-spiritual/Thich_Nhat_Hanh.md) · [冥想核心基础](../overview/Meditation_Core.md)
+> **关联知识**：[一行禅师人物档案](../../../../02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md) · [冥想核心基础](../overview/Meditation_Core.md)
 
 ---
 
@@ -259,7 +259,7 @@ cross_refs:
 
 **适合人群**：喜欢中国式静修氛围、对隐修传统感兴趣的观众
 
-> **关联知识**：[中国本土冥想传统](../chinese-traditions/Chinese_Meditation_Overview.md) · [禅宗修行](../../../01-Wisdom-Traditions/religions/zen/)
+> **关联知识**：[中国本土冥想传统](../../../../02-Mind-Psychology/meditation/traditions/east-asian/chinese-traditions/Chinese_Meditation_Overview.md) · [禅宗修行](../../../01-Wisdom-Traditions/religions/zen/)
 
 ---
 
@@ -345,7 +345,7 @@ cross_refs:
 
 **适合人群**：想了解正念社会化应用的观众
 
-> **关联知识**：[乔恩·卡巴金](../masters/western-pioneers/Jon_Kabat_Zinn.md) · [MBSR正念减压](../mbsr-program/) · [冥想临床应用](../overview/Meditation_Clinical_Applications.md)
+> **关联知识**：[乔恩·卡巴金](../../../../02-Mind-Psychology/meditation/professional/masters/western-pioneers/Jon_Kabat_Zinn.md) · [MBSR正念减压](../mbsr-program/) · [冥想临床应用](../overview/Meditation_Clinical_Applications.md)
 
 ---
 
@@ -448,7 +448,7 @@ cross_refs:
 - 搜索"The Miracle of Mindfulness documentary"
 - 注意辨别原创纪录片与二次解读内容
 
-> **关联知识**：[一行禅师](../masters/contemporary-spiritual/Thich_Nhat_Hanh.md)
+> **关联知识**：[一行禅师](../../../../02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md)
 
 ---
 
@@ -543,19 +543,19 @@ Headspace 放松心灵指南
 - [冥想核心基础](../overview/Meditation_Core.md) — 冥想基本概念与类型
 - [冥想神经科学](../overview/Meditation_Neuroscience_Mechanisms.md) — 冥想的脑科学机制
 - [冥想临床应用](../overview/Meditation_Clinical_Applications.md) — 冥想在医疗中的应用
-- [内观禅修](../vipassana/Vipassana_Meditation.md) — 内观传统详解
+- [内观禅修](../../../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md) — 内观传统详解
 - [冥想安全](../safety/) — 修行中的安全注意事项
 - [MBSR正念减压](../mbsr-program/) — 正念减压系统课程
-- [冥想大师人物档案](../masters/INDEX.md) — 相关大师传记
+- [冥想大师人物档案](../../../../01-Wisdom-Traditions/INDEX.md) — 相关大师传记
 
 ### 瑜伽相关纪录片
 
-- [瑜伽纪录片指南](../../../01-Wisdom-Traditions/yoga/documentary/Yoga_Documentary_Guide.md)
+- [瑜伽纪录片指南](../../../../01-Wisdom-Traditions/yoga/documentary/Yoga_Documentary_Guide.md)
 
 ### 电影疗法
 
-- [电影疗法概览](../../../04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md)
-- [媒体疗法概览](../../../04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview.md)
+- [电影疗法概览](../../../../04-Humanities-Arts/media/cinema/cinema-therapy/Cinema_Therapy_Overview.md)
+- [媒体疗法概览](../../../../04-Humanities-Arts/media/media-therapy/Media_Therapy_Overview.md)
 
 ---
 

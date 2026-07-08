@@ -33,9 +33,9 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [冥想概览](../overview/INDEX.md)
-- [冥想类型分类](../overview/Meditation_Types_Classification.md)
-- [曼陀罗冥想](../mandala-meditation/INDEX.md)
-- [持名唱诵](../mantra-chanting/INDEX.md)
-- [昆达里尼冥想](../kundalini-meditation/INDEX.md)
-- [呼吸与调息](../pranayama-breath/diaphragmatic-breathing-masterclass.md)
+- [冥想概览](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [冥想类型分类](../../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Types_Classification.md)
+- [曼陀罗冥想](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [持名唱诵](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [昆达里尼冥想](../../../../../01-Wisdom-Traditions/INDEX.md)
+- [呼吸与调息](../../../../../02-Mind-Psychology/meditation/traditions/indian-yogic/pranayama-breath/diaphragmatic-breathing-masterclass.md)

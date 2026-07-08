@@ -178,9 +178,9 @@ JSON 文件中已预置：
 
 建议联动以下内容使用：
 - [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
-- [职场语言霸凌与PUA专业知识数据库](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
-- [应对PUA/羞辱型领导](Workplace_Anti_PUA_Leadership.md)
-- [职场异常场景处理系统模块设计](Workplace_Exception_Case_Management_System_Design.md)
+- [职场语言霸凌与PUA专业知识数据库](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
+- [应对PUA/羞辱型领导](../../../../05-Praxis-Growth/personal-development/workplace-expression/anti-pua/Workplace_Anti_PUA_Leadership.md)
+- [职场异常场景处理系统模块设计](../../../../05-Praxis-Growth/personal-development/workplace-expression/rights-complaints/Workplace_Exception_Case_Management_System_Design.md)
 
 ## 十、后续扩展建议
 
@@ -192,7 +192,7 @@ JSON 文件中已预置：
 5. 时间趋势与风险热词监控模块
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
 
 ---
 
@@ -218,7 +218,7 @@ JSON 文件中已预置：
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

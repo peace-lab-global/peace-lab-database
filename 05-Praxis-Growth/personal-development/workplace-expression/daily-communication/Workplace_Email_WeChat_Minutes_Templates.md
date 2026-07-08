@@ -238,10 +238,10 @@ ________
 ## 七、与主专题联动
 
 建议结合以下内容一起使用：
-- [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
-- [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
-- [Offer邮件模板与微信商务谈判话术指南](Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
+- [向上管理与情绪化上级应对](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md)
+- [向上汇报模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Reporting_Templates.md)
+- [Offer邮件模板与微信商务谈判话术指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
 - [高风险对话话术清单](Workplace_High_Risk_Conversation_Scripts.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

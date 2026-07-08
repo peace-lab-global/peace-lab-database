@@ -60,4 +60,4 @@ cross_refs: []
 | 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | 音叉生物场调谐与颂钵频率 |
 | 神圣真言 | 02-心理学 | [Sacred Mantra](Sensory_Mantra_Sacred_Sound.md) | 种子字频率与脉轮对齐 |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 人声频率与迷走神经调优 |
-| 气功与中医 | 01-智慧传承 | [道家养生气功](../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 六字诀与中医情志映射 |
+| 气功与中医 | 01-智慧传承 | [道家养生气功](../../../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md) | 六字诀与中医情志映射 |

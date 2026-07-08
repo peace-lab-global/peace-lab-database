@@ -16,13 +16,14 @@ cross_refs: []
 ---
 # 专业冥想引导词课程库 | Professional Guided Meditation Course Library
 
-> **领域**：专业冥想执行师标准化引导词与课程交付体系
-> **课程总数**：800+ 有效模块（核心课程 + 翻倍丰富变体）
-> **覆盖场景**：180+ 个。**已全面质量检查与升级**：所有冥想引导词与课程内容**至少翻倍**，达到最高专业执行师标准（更诗意精准语言、更深层循证+传统融合、更丰富执行标记系统、更全面创伤知情协议、文化适应、交付矩阵、阻抗策略、督导要点）。Series_05 等关键系列已示范性全面重构。
+> **领域**：专业冥想执行师标准化引导词课程交付体系
+> **课程总数**：~400 门核心课程（25 个系列），覆盖基础到高阶全场景
+> **覆盖场景**：200+ 个。部分系列已按最高专业执行师标准翻倍升级（Series_05/17/23 等）
 > **定位**：以专业冥想执行师（Certified Meditation Practitioner）高专业维度设计的系统化、可实施、可交付课程库
 > **适用对象**：认证冥想执行师、心理咨询师、瑜伽/太极教师、企业EAP培训师、医院临床支持人员、个人深度自修者
 > **核心特点**：每门课程均包含专业实施指南、交付方式矩阵（5种交付模式）、精确执行标记系统（停顿、语调、创伤知情、适应选项）、高质量完整引导词脚本、教学互动要点、课后作业与追踪、伦理安全协议
-> **上次更新**：2026-04
+> **与 guided-scripts 的关系**：本目录是完整课程交付单元（理论+实施+引导词+教学+作业）；[guided-scripts](../guided-scripts/INDEX.md) 是可复用脚本模板与音频制作资产包（发音/录制/音乐/质检），两者互补不重叠
+> **上次更新**：2026-06
 > **输出质量**：全部以专业执行师视角撰写，确保安全、循证、文化适宜、高可操作性
 
 ---
@@ -48,6 +49,15 @@ cross_refs: []
 | 医疗健康系列 | [Series_14_Health_Medical.md](./Series_14_Health_Medical.md) | 15 | L2-4 | 术前、术后、化疗、慢性病、残障、视障、自闭症、ADHD、老年痴呆、帕金森、纤维肌痛、IBS、皮肤病、免疫、药物康复 |
 | 青少年家庭系列 | [Series_15_Youth_Family.md](./Series_15_Youth_Family.md) | 15 | L1-3 | 儿童睡眠、小学生专注、青少年考试、社交压力、青春期身体、网络成瘾、校园霸凌、高考、大学适应、独立生活、新手爸爸、二胎老大、老年记忆、隔代教养、身份探索 |
 | 扩展场景系列 | [Series_16_Expanded_Scenes.md](./Series_16_Expanded_Scenes.md) | 15 | L2-3 | 四季、日月、日出、日落、星空、水边、雷雨、雪地、花园、驾驶、飞行、狭小空间、恐惧面对、医疗小场景、创作瓶颈 |
+| 自然元素系列 | [Series_17_Nature_Elements.md](./Series_17_Nature_Elements.md) | 25+ | L2-4 | 自然四大元素、景观联结、道家五行、原住民元素仪式 |
+| 时间节律系列 | [Series_18_Time_Rhythm.md](./Series_18_Time_Rhythm.md) | 20 | L1-3 | 24小时/7天/4周/四季节律、清晨/午后/深夜/季节转换 |
+| 社交社群系列 | [Series_19_Social_Community.md](./Series_19_Social_Community.md) | 20 | L2-3 | 初次见面、社交焦虑、社群融入、领导力、冲突调解、集体仪式 |
+| 创意艺术系列 | [Series_20_Creative_Arts.md](./Series_20_Creative_Arts.md) | 20 | L2-4 | 绘画、写作、音乐、舞蹈、摄影中的正念、创作瓶颈突破 |
+| 学习智慧系列 | [Series_21_Learning_Intelligence.md](./Series_21_Learning_Intelligence.md) | 20 | L2-3 | 阅读冥想、考试准备、决策思维、记忆巩固、心智模式 |
+| 世界传统系列 | [Series_22_World_Traditions.md](./Series_22_World_Traditions.md) | 25 | L2-4 | 藏传本尊瑜伽、禅宗公案、道家内丹、苏菲、基督教默观、印度吠檀多 |
+| 数字现代系列 | [Series_23_Digital_Modern.md](./Series_23_Digital_Modern.md) | 20+ | L2-4 | 数字依赖、信息过载、社交媒体焦虑、远程工作、数字 detox |
+| 存在灵性系列 | [Series_24_Existential_Spiritual.md](./Series_24_Existential_Spiritual.md) | 20 | L3-4 | 死亡冥想、意义探索、孤独、虚无、开悟、灵性觉醒 |
+| 死亡冥想深度系列 | [Series_25_Death_Meditation_Deep_Dive.md](./Series_25_Death_Meditation_Deep_Dive.md) | 16 | L2-4 | 跨传统死亡冥想、临终关怀、哀伤陪伴、存在性焦虑（循证+跨文化） |
 
 ---
 
@@ -183,21 +193,22 @@ cross_refs: []
 | v1.0 | 2026-04 | 初始发布，52 门课程，7 个系列 |
 | v2.0 | 2026-04 | 扩展至 128 门课程，12 个系列，新增生活/职场/婚恋/危机/变故 5 大系列 |
 | v3.0 | 2026-04 | 扩展至 193 门课程，16 个系列，新增中西方文化/医疗健康/青少年家庭/扩展场景 4 大系列，覆盖 120+ 场景 |
+| v4.0 | 2026-06 | 扩展至 ~400 门课程，25 个系列，新增自然元素/时间节律/社交社群/创意艺术/学习智慧/世界传统/数字现代/存在灵性/死亡冥想深度 9 大系列，覆盖 200+ 场景 |
 
 ---
 
 ## 相关链接
 
-- [基础引导词脚本库](../guided-scripts/INDEX.md) — 4 篇基础脚本
-- [MBSR 八周课程设计](../mbsr-program/MBSR_Weekly_Curriculum.md)
-- [执行师培训体系](../practitioner-training/INDEX.md)
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
-- [冥想安全与不良反应](../safety/Meditation_Adverse_Effects.md)
+- [基础引导词脚本库](../guided-scripts/INDEX.md) — 5 篇基础核心脚本 + 内在力量系列 + 古典音乐系列 + 制作规范
+- [MBSR 八周课程设计](../../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Weekly_Curriculum.md)
+- [执行师培训体系](../../../01-Wisdom-Traditions/INDEX.md)
+- [创伤知情冥想指南](../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
+- [冥想安全与不良反应](../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
 
 ---
 
-*Peace Lab Database — 专业冥想课程库 v3.0*
-*以专业冥想执行师标准设计 | 循证 · 安全 · 可交付 | 193 门课程 · 120+ 场景 · 16 大系列*
+*Peace Lab Database — 专业冥想课程库 v4.0*
+*以专业冥想执行师标准设计 | 循证 · 安全 · 可交付 | ~400 门课程 · 200+ 场景 · 25 大系列*
 
 ---
 
@@ -223,7 +234,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

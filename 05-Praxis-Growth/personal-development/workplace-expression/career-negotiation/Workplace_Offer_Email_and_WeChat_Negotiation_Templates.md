@@ -265,9 +265,9 @@ ________您好：
 
 建议结合以下内容一起使用：
 - [Offer谈判与涨薪话术模板](Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md)
-- [邮件/微信/会议纪要版模板库](Workplace_Email_WeChat_Minutes_Templates.md)
+- [邮件/微信/会议纪要版模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/daily-communication/Workplace_Email_WeChat_Minutes_Templates.md)
 - [背景调查风险防控指南](Workplace_Background_Check_Risk_Control_Guide.md)
 - [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

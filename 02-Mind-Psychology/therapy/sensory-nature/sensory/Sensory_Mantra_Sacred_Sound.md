@@ -63,4 +63,4 @@ cross_refs: []
 | 振动乐器 | 02-心理学 | [Vibrational Instruments](Sensory_Vibrational_Instruments.md) | OM 音叉与种子字频率的对照 |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](Sensory_Vocal_Therapy.md) | 咒语吟诵与声乐释放技术 |
 | 能量与基础音疗 | 02-心理学 | [Energy Sound](Sensory_Energy_Sound.md) | 脉轮体系与阿育吠陀体质 |
-| 瑜伽梵唱 | 01-智慧传承 | [瑜伽梵唱](../../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md) | 瑜伽 Nada 音流与种子字传统 |
+| 瑜伽梵唱 | 01-智慧传承 | [瑜伽梵唱](../../../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Mantra_Nada_Chanting.md) | 瑜伽 Nada 音流与种子字传统 |

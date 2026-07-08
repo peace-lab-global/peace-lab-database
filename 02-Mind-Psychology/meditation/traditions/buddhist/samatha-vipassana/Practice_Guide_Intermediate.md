@@ -256,7 +256,7 @@ cross_refs: []
 | **厌离智** | 深度倦怠、对一切失去兴趣 | 数天至数周 | 知道这是进步而非退步 | 产生自伤念头 |
 | **欲解脱智** | 焦躁、急切想解脱 | 数天 | 将焦躁本身作为观察对象 | 严重焦虑 |
 
-> **重要提示**：如果你在禅修中经历上述体验，请务必与有经验的禅师讨论。详见 [修行黑夜现象](../safety/Meditation_Dark_Night.md)
+> **重要提示**：如果你在禅修中经历上述体验，请务必与有经验的禅师讨论。详见 [修行黑夜现象](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md)
 
 ---
 
@@ -317,8 +317,8 @@ cross_refs: []
 | 高阶指南 | [Practice_Guide_Advanced.md](./Practice_Guide_Advanced.md) | 高阶修行 |
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 理论框架 |
 | 禅定体系 | [Dhyana_Samadhi_System.md](./Dhyana_Samadhi_System.md) | 四禅八定详解 |
-| 禅修安全 | [safety/INDEX.md](../safety/INDEX.md) | 安全指南 |
-| 修行黑夜 | [Meditation_Dark_Night.md](../safety/Meditation_Dark_Night.md) | 困难阶段应对 |
+| 禅修安全 | [safety/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 安全指南 |
+| 修行黑夜 | [Meditation_Dark_Night.md](../../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md) | 困难阶段应对 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 完整参考表 |
 
 ---

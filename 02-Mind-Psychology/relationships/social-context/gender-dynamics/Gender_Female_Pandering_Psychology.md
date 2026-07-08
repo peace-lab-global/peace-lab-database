@@ -208,13 +208,13 @@ cross_refs: []
 | 媚男现象心理学 | [Gender_Male_Pandering_Psychology](Gender_Male_Pandering_Psychology.md) | 媚女与媚男行为的镜像对称分析 |
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](Gender_Misogyny_Psychology.md) | 媚女失败后可能转向厌女——"好人转红药丸"现象 |
 | 厌男情绪心理学 | [Gender_Misandry_Psychology](Gender_Misandry_Psychology.md) | 过度讨好女性的行为可能引发对方的厌男反应 |
-| 依恋与亲密关系 | [Love_Attachment_Intimacy](../love/Love_Attachment_Intimacy.md) | 焦虑型依恋在好人综合征中的核心角色 |
-| 约会心理学 | [Dating_Psychology_Overview](../dating/Dating_Psychology_Overview.md) | 讨好策略在约会中的失效分析 |
-| 自信心理学 | [Self_Confidence_Overview](../../psychology/self-regulation/self-confidence/Self_Confidence_Overview.md) | 从讨好到自信的转化路径 |
-| 自我慈悲 | [Self_Compassion_Self_Care](../../psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 从"有毒羞耻"到自我接纳的治疗 |
-| 关系心理学概述 | [Relationships_Overview](../Relationships_Overview.md) | 平等互惠关系模型 |
-| 家庭系统排列 | [Family_Constellation_Clinical](../../psychology/special-topics/family-constellation/Family_Constellation_Clinical.md) | 母子纠葛与伴侣选择的系统视角 |
-| 家庭暴力 | [Domestic_Violence](../marriage/domestic-violence/Domestic_Violence_Overview.md) | 拯救者型讨好与家暴关系的交叉 |
+| 依恋与亲密关系 | [Love_Attachment_Intimacy](../../../../02-Mind-Psychology/relationships/love-dating/love/Love_Attachment_Intimacy.md) | 焦虑型依恋在好人综合征中的核心角色 |
+| 约会心理学 | [Dating_Psychology_Overview](../../../../02-Mind-Psychology/relationships/love-dating/dating/Dating_Psychology_Overview.md) | 讨好策略在约会中的失效分析 |
+| 自信心理学 | [Self_Confidence_Overview](../../../../02-Mind-Psychology/psychology/self-regulation/self-confidence/Self_Confidence_Overview.md) | 从讨好到自信的转化路径 |
+| 自我慈悲 | [Self_Compassion_Self_Care](../../../../02-Mind-Psychology/psychology/self-regulation/self-compassion/Self_Compassion_Self_Care.md) | 从"有毒羞耻"到自我接纳的治疗 |
+| 关系心理学概述 | [Relationships_Overview](../../../../02-Mind-Psychology/relationships/Relationships_Overview.md) | 平等互惠关系模型 |
+| 家庭系统排列 | [Family_Constellation_Clinical](../../../../02-Mind-Psychology/psychology/special-topics/family-constellation/Family_Constellation_Clinical.md) | 母子纠葛与伴侣选择的系统视角 |
+| 家庭暴力 | [Domestic_Violence](../../../../02-Mind-Psychology/relationships/marriage/domestic-violence/Domestic_Violence_Overview.md) | 拯救者型讨好与家暴关系的交叉 |
 
 ---
 

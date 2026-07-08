@@ -321,10 +321,10 @@ Ajahn Tong (1923-2019) 泰国马哈希系
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](./Samatha_Vipassana_Theory.md) | 止观完整理论体系 |
 | 禅定体系 | [Dhyana_Samadhi_System.md](./Dhyana_Samadhi_System.md) | 禅定跨传承体系 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/) | 百科级止观参考表 |
-| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
+| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-Wisdom-Traditions/religions/buddhism/tiantai/Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
 | 内观禅修详解 | [Vipassana_Meditation.md](../vipassana/Vipassana_Meditation.md) | 内观传承与实践 |
-| 冥想大师人物档案 | [masters/INDEX.md](../masters/INDEX.md) | 冥想大师完整资料 |
-| 中国本土冥想传统 | [chinese-traditions/INDEX.md](../chinese-traditions/INDEX.md) | 中国禅道儒静修 |
+| 冥想大师人物档案 | [masters/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 冥想大师完整资料 |
+| 中国本土冥想传统 | [chinese-traditions/INDEX.md](../../../../../01-Wisdom-Traditions/INDEX.md) | 中国禅道儒静修 |
 
 ---
 

@@ -68,4 +68,4 @@ cross_refs:
 
 ## 参考与延伸阅读
 
-- 参见: [神经科学证据](../Tai_Chi_Neuroscience_Evidence.md) | [系统综述](TaiChi_Systematic_Reviews.md) | [认知老化](../psychology-wellbeing/TaiChi_Cognitive_Aging.md)
+- 参见: [神经科学证据](../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md) | [系统综述](TaiChi_Systematic_Reviews.md) | [认知老化](../psychology-wellbeing/TaiChi_Cognitive_Aging.md)

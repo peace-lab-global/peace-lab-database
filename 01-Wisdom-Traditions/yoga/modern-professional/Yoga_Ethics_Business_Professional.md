@@ -322,10 +322,10 @@ cross_refs: []
 ---
 
 > **相关文档链接：**
-> - [瑜伽哲学](Yoga_Philosophy.md)
+> - [瑜伽哲学](../../../01-Wisdom-Traditions/yoga/philosophy-history/Yoga_Philosophy.md)
 > - [现代瑜伽流派](Yoga_Modern_Styles.md)
-> - [瑜伽治疗](Yoga_Therapy.md)
+> - [瑜伽治疗](../../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Therapy.md)
 > - [静修与工作坊设计](Yoga_Retreat_Workshop_Design.md)
 > - [瑜伽与科技](Yoga_Technology_Digital.md)
-> - [瑜伽资源](Yoga_Resources.md)
-> - [瑜伽历史与传统](Yoga_History_Tradition.md)
+> - [瑜伽资源](../../../01-Wisdom-Traditions/yoga/resources/Yoga_Resources.md)
+> - [瑜伽历史与传统](../../../01-Wisdom-Traditions/yoga/philosophy-history/Yoga_History_Tradition.md)

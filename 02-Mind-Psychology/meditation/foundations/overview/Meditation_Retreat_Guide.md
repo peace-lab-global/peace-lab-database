@@ -386,7 +386,7 @@ graph TD
 
 ### 5.4 "修行黑夜"（Dark Night）的闭关管理
 
-修行黑夜现象（见[修行黑夜现象专题](../safety/Meditation_Dark_Night.md)）在闭关中发生率显著升高：
+修行黑夜现象（见[修行黑夜现象专题](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md)）在闭关中发生率显著升高：
 
 **识别标志**：
 - 持续超过48小时的强烈恐惧、绝望或虚无感
@@ -572,13 +572,13 @@ graph TD
 
 ### 相关链接
 
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
-- [修行黑夜现象专题](../safety/Meditation_Dark_Night.md)
-- [冥想不良反应系统分类](../safety/Meditation_Adverse_Effects.md)
-- [冥想危机干预方案](../safety/Meditation_Crisis_Protocol.md)
+- [创伤知情冥想指南](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
+- [修行黑夜现象专题](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Dark_Night.md)
+- [冥想不良反应系统分类](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Adverse_Effects.md)
+- [冥想危机干预方案](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Crisis_Protocol.md)
 - [冥想与睡眠](Meditation_And_Sleep.md)
-- [危机与哀伤冥想指南](../crisis-meditation/Crisis_Meditation_Guide.md)
-- [止观禅定理论基础](../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
+- [危机与哀伤冥想指南](../../../../02-Mind-Psychology/meditation/clinical/crisis-meditation/Crisis_Meditation_Guide.md)
+- [止观禅定理论基础](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
 - [内观禅修实践指南](Vipassana_Practice_Guide.md)
 
 ---
@@ -612,7 +612,7 @@ graph TD
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

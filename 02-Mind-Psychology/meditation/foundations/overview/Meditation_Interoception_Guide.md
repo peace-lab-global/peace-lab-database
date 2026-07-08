@@ -573,11 +573,11 @@ HCT Score = 1 - (|实际心跳数 - 报告心跳数| / 实际心跳数)
 
 - [冥想神经科学机制](Meditation_Neuroscience_Mechanisms.md)
 - [冥想临床应用](Meditation_Clinical_Applications.md)
-- [创伤知情冥想指南](../safety/Meditation_Trauma_Sensitive.md)
+- [创伤知情冥想指南](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
 - [冥想与睡眠](Meditation_And_Sleep.md)
 - [冥想核心基础](Meditation_Core.md)
-- [身体扫描引导词脚本](../guided-scripts/Scripts_Body_Scan.md)
-- [多迷走神经理论与创伤](../safety/Meditation_Trauma_Sensitive.md#22-多迷走神经理论)
+- [身体扫描引导词脚本](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md)
+- [多迷走神经理论与创伤](../../../../02-Mind-Psychology/meditation/clinical/safety/Meditation_Trauma_Sensitive.md)
 
 ---
 

@@ -156,8 +156,8 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-Wisdom-Traditions/religions/buddhism/pure-land/Buddhism_Pure_Land_Practice.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
-| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
-| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-Bio-Science/death/Death_Anxiety_Overview.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
+| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
+| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-Bio-Science/death/death-anxiety/Death_Anxiety_Overview.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
 
 ---
 
@@ -329,7 +329,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-Bio-Science/death/Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
+| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-Bio-Science/death/philosophy-culture/Death_Existential_Psychology.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
 | **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](../../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Arts_Nature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
 ---

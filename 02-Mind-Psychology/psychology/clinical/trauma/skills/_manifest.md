@@ -12,7 +12,7 @@ cross_refs:
 - path: "03-Bio-Science/sexuality/incest/Incest_Clinical_Toolkit.md"
 relation: "创伤/危机干预"
 title: "创伤评估模块清单"
-description: ""创伤", "噩梦", "闪回", "PTSD", "心理阴影", "童年创伤", "被虐待", "事故", "灾难", "失去亲人""
+description: "「创伤「, 「噩梦「, 「闪回「, 「PTSD「, 「心理阴影「, 「童年创伤「, 「被虐待「, 「事故「, 「灾难「, 「失去亲人「"
 category: "心智与心理学 > psychology"
 tags: ["psychology", "trauma"]
 last_updated: "2026-06"

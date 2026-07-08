@@ -174,9 +174,9 @@ cross_refs:
 - [正念临床应用 (Mindfulness Clinical Applications)](../Mindfulness_Clinical_Applications.md)
 - [正念减压疗法 (MBSR)](../Mindfulness_Based_Stress_Reduction.md)
 - [正念认知疗法 (MBCT)](../Mindfulness_Based_Cognitive_Therapy.md)
-- [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md)
-- [冥想核心](/02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
-- [专注力冥想疗愈](/02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
+- [佛教禅修实践体系](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md)
+- [冥想核心](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
+- [专注力冥想疗愈](../../../../02-Mind-Psychology/therapy/creative-expressive/focus-therapy/Focus_Meditation_Therapy.md)
 
 ---
 

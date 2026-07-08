@@ -219,9 +219,9 @@ cross_refs:
 ## 相关链接
 
 - [正念行走技术体系](Walking_Meditation_Techniques.md) — 详细技术实施指南
-- [动态冥想](../overview/Movement_Meditation.md) — 相关运动冥想专题
-- [老年冥想](../overview/Meditation_Seniors_Elderly.md) — 包含正念行走的老年改良版
-- [一行禅师](../masters/contemporary-spiritual/Thich_Nhat_Hanh.md) — 行禅在西方的主要推广者
+- [动态冥想](../../../../02-Mind-Psychology/meditation/foundations/overview/Movement_Meditation.md) — 相关运动冥想专题
+- [老年冥想](../../../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Seniors_Elderly.md) — 包含正念行走的老年改良版
+- [一行禅师](../../../../02-Mind-Psychology/meditation/professional/masters/contemporary-spiritual/Thich_Nhat_Hanh.md) — 行禅在西方的主要推广者
 
 ---
 

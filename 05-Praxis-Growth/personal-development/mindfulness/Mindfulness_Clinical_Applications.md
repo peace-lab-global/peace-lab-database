@@ -553,7 +553,7 @@ cross_refs:
 - [正念饮水专业实践指南](mindful-daily-living/Mindful_Drinking_Practice.md) — 饮水正念的临床应用与循证研究
 - [正念开会专业实践指南](mindful-daily-living/Mindful_Meeting_Practice.md) — 职场正念的临床应用与倦怠预防
 - [正念日常生活](mindful-daily-living/Mindful_Daily_Living.md) — 日常正念练习的综合框架
-- [佛教禅修实践体系](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 正念的传统根源与现代临床转化
+- [佛教禅修实践体系](../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 正念的传统根源与现代临床转化
 
 ---
 

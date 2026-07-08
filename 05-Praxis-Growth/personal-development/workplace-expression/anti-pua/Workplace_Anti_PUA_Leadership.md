@@ -198,10 +198,10 @@ cross_refs: []
 
 建议进一步阅读：
 - [职场语言霸凌与PUA专业知识数据库](Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
-- [向上管理与情绪化上级应对](Workplace_Upward_Management.md)
-- [隔级沟通与HR升级指南](Workplace_Skip_Level_and_HR_Escalation.md)
-- [离职前风险自保与证据清单](Workplace_Pre_Exit_Risk_Protection_Checklist.md)
-- [向上汇报模板库](Workplace_Upward_Reporting_Templates.md)
+- [向上管理与情绪化上级应对](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md)
+- [隔级沟通与HR升级指南](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Skip_Level_and_HR_Escalation.md)
+- [离职前风险自保与证据清单](../../../../05-Praxis-Growth/personal-development/workplace-expression/career-negotiation/Workplace_Pre_Exit_Risk_Protection_Checklist.md)
+- [向上汇报模板库](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Reporting_Templates.md)
 
 ---
-*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 返回主专题 [Workplace_Upward_Management.md](../../../../05-Praxis-Growth/personal-development/workplace-expression/upward-management/Workplace_Upward_Management.md) | 返回支柱索引 [05-Praxis-Growth](../../INDEX.md)*

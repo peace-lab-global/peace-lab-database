@@ -480,11 +480,11 @@ cross_refs:
 - [正念行走专业实践指南 (Mindful Walking Practice)](Mindful_Walking_Practice.md) — 本文档的理论基础与循证框架
 - [正念日常生活 (Mindful Daily Living)](Mindful_Daily_Living.md) — 正念行走的练习层级表
 - [正念饮水专业实践指南 (Mindful Drinking Practice)](Mindful_Drinking_Practice.md) — 另一核心日常正念微练习
-- [正念临床应用 (Mindfulness Clinical Applications)](/05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念干预的完整临床证据
-- [佛教禅修实践体系 (Buddhism Meditation Practice System)](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 经行传统
-- [止观禅修详表 (Samatha Vipassana)](/01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) — 经行禅修详解与三层级标记系统
-- [创伤知情正念 (Trauma-Sensitive Mindfulness)](/01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) — 创伤人群的安全改编原则
-- [慢性压力干预 (Chronic Stress Interventions)](/02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Interventions.md) — 压力管理中的正念行走应用
+- [正念临床应用 (Mindfulness Clinical Applications)](../../../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Clinical_Applications.md) — 正念干预的完整临床证据
+- [佛教禅修实践体系 (Buddhism Meditation Practice System)](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Meditation_Practice_System.md) — 经行传统
+- [止观禅修详表 (Samatha Vipassana)](../../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md) — 经行禅修详解与三层级标记系统
+- [创伤知情正念 (Trauma-Sensitive Mindfulness)](../../../../01-Wisdom-Traditions/religions/buddhism/psychology/Buddhism_Mindfulness_Therapy_Integration.md) — 创伤人群的安全改编原则
+- [慢性压力干预 (Chronic Stress Interventions)](../../../../02-Mind-Psychology/psychology/stress-hpa/chronic-stress/Chronic_Stress_Interventions.md) — 压力管理中的正念行走应用
 
 ---
 
@@ -521,7 +521,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

@@ -59,8 +59,8 @@ cross_refs:
 - [正念疗法整合 — 睡眠问题](../psychology/Buddhism_Mindfulness_Therapy_Integration.md) — MBSR/MBTI 睡眠干预
 
 #### 跨项目身心整合
-- **太极身心调整** → [01-Wisdom-Traditions 太极心理调整机制](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
-- **太极神经科学证据** → [01-Wisdom-Traditions 太极神经科学](../../../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md)
+- **太极身心调整** → [01-Wisdom-Traditions 太极心理调整机制](../../../../01-Wisdom-Traditions/tai-chi/psychology-wellbeing/Tai_Chi_Psychological_Adjustment_Mechanism.md)
+- **太极神经科学证据** → [01-Wisdom-Traditions 太极神经科学](../../../../01-Wisdom-Traditions/tai-chi/neuroscience-research/Tai_Chi_Neuroscience_Evidence.md)
 - **瑜伽阿育吠陀整合** → [01-Wisdom-Traditions 瑜伽疗法整合](../../../../01-Wisdom-Traditions/yoga/integrative-medicine/Yoga_Ayurvedic_Therapy_Integration.md)
 
 ---

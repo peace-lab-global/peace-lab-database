@@ -391,10 +391,10 @@ cross_refs:
 
 - [冥想与睡眠](Meditation_And_Sleep.md)
 - [儿童青少年冥想](Children_Youth_Meditation.md)
-- [慢性疼痛冥想](../clinical-conditions/Meditation_Chronic_Pain.md)
-- [冥想与心血管](../clinical-conditions/Meditation_Cardiovascular_Health.md)
-- [身体扫描](../guided-scripts/Scripts_Body_Scan.md)
-- [慈心冥想](../guided-scripts/Scripts_Loving_Kindness.md)
+- [慢性疼痛冥想](../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Chronic_Pain.md)
+- [冥想与心血管](../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Cardiovascular_Health.md)
+- [身体扫描](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Body_Scan.md)
+- [慈心冥想](../../../../02-Mind-Psychology/meditation/guided-scripts/core/Scripts_Loving_Kindness.md)
 
 ---
 
