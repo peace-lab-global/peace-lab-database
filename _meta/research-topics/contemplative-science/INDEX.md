@@ -5,11 +5,11 @@ category: "research"
 tags: ["contemplative-science", "meditation", "neuroplasticity", "clinical-translation", "mechanisms"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "02-Mind-Psychology/meditation/"
+  - path: "02-心智心理/冥想/"
     relation: "冥想技术与传统"
-  - path: "06-Clinical-Topics/mbct/"
+  - path: "06-临床专题/正念认知/"
     relation: "正念认知疗法临床"
-  - path: "03-Bio-Science/biology/brain/"
+  - path: "03-生命科学/生物学/脑科学/"
     relation: "神经可塑性"
 ---
 

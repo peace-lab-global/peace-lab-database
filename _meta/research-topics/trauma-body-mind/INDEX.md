@@ -5,11 +5,11 @@ category: "research"
 tags: ["trauma", "somatic", "polyvagal", "body-mind", "healing"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "02-Mind-Psychology/psychology/clinical/trauma/"
+  - path: "02-心智心理/心理学/临床/创伤/"
     relation: "创伤心理学"
-  - path: "03-Bio-Science/biology/hpa-axis/"
+  - path: "03-生命科学/生物学/hpaaxis/"
     relation: "HPA轴与应激"
-  - path: "01-Wisdom-Traditions/yoga/"
+  - path: "01-智慧传统/瑜伽/"
     relation: "创伤敏感瑜伽"
 ---
 

@@ -1,0 +1,371 @@
+{
+  "database_name": "管理者沟通风格画像与适配策略数据库",
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "scope": "05-Praxis-Growth/personal-development/workplace-expression",
+  "module_name": "manager_communication_style_profiling",
+  "assessment_model": {
+    "name": "six_dimension_nine_metric_model",
+    "dimensions": [
+      {
+        "code": "information_processing",
+        "name": "信息处理偏好",
+        "metrics": ["info_conclusion_bias", "detail_tolerance"]
+      },
+      {
+        "code": "decision_pacing",
+        "name": "决策节奏偏好",
+        "metrics": ["decision_speed", "risk_tolerance"]
+      },
+      {
+        "code": "feedback_interaction",
+        "name": "反馈互动风格",
+        "metrics": ["feedback_intensity", "support_warmth"]
+      },
+      {
+        "code": "control_collaboration",
+        "name": "协作控制方式",
+        "metrics": ["control_orientation"]
+      },
+      {
+        "code": "evidence_trust",
+        "name": "证据与信任模式",
+        "metrics": ["evidence_preference"]
+      },
+      {
+        "code": "channel_cadence",
+        "name": "渠道与节奏习惯",
+        "metrics": ["sync_frequency_need"]
+      }
+    ],
+    "metrics": [
+      {
+        "code": "info_conclusion_bias",
+        "name": "结论先行偏好",
+        "range": "1-5",
+        "description": "越高越偏好先听结论与建议"
+      },
+      {
+        "code": "detail_tolerance",
+        "name": "细节容忍度",
+        "range": "1-5",
+        "description": "越高越愿意处理长链路细节"
+      },
+      {
+        "code": "decision_speed",
+        "name": "决策速度偏好",
+        "range": "1-5",
+        "description": "越高越倾向快速拍板"
+      },
+      {
+        "code": "risk_tolerance",
+        "name": "风险容忍度",
+        "range": "1-5",
+        "description": "越高越能接受试错和不完全信息"
+      },
+      {
+        "code": "feedback_intensity",
+        "name": "反馈强度",
+        "range": "1-5",
+        "description": "越高表达越直接、压强越大"
+      },
+      {
+        "code": "support_warmth",
+        "name": "支持温度",
+        "range": "1-5",
+        "description": "越高越支持解释、辅导与鼓励"
+      },
+      {
+        "code": "control_orientation",
+        "name": "控制倾向",
+        "range": "1-5",
+        "description": "越高越偏向过程控制与节点追踪"
+      },
+      {
+        "code": "evidence_preference",
+        "name": "证据偏好",
+        "range": "1-5",
+        "description": "越高越信数据、报表与书面证据"
+      },
+      {
+        "code": "sync_frequency_need",
+        "name": "同步频率需求",
+        "range": "1-5",
+        "description": "越高越需要高频状态更新"
+      }
+    ],
+    "data_sources": [
+      {
+        "code": "behavior_observation",
+        "weight": 0.35,
+        "description": "会议、1:1、邮件、纪要中的行为观察"
+      },
+      {
+        "code": "survey_questionnaire",
+        "weight": 0.25,
+        "description": "管理者自评、下属反馈与结构化问卷"
+      },
+      {
+        "code": "digital_signals",
+        "weight": 0.25,
+        "description": "项目管理、审批、沟通平台中的数字行为信号"
+      },
+      {
+        "code": "feedback_360",
+        "weight": 0.15,
+        "description": "平级、下属、HRBP 的360校准反馈"
+      }
+    ]
+  },
+  "style_types": [
+    {
+      "style_code": "result_driver",
+      "style_name": "结果驱动型",
+      "traits": ["结论导向", "推进速度快", "对长解释耐受低"],
+      "score_pattern": {
+        "info_conclusion_bias": ">=4",
+        "decision_speed": ">=4",
+        "detail_tolerance": "<=3"
+      },
+      "advantages": ["拍板快", "聚焦结果"],
+      "risks": ["容易忽略细节风险", "可能压缩讨论空间"]
+    },
+    {
+      "style_code": "structured_analyst",
+      "style_name": "结构审慎型",
+      "traits": ["重逻辑", "重证据", "偏审慎"],
+      "score_pattern": {
+        "detail_tolerance": ">=4",
+        "evidence_preference": ">=4",
+        "risk_tolerance": "<=3"
+      },
+      "advantages": ["判断稳", "复盘强"],
+      "risks": ["拍板慢", "对材料要求高"]
+    },
+    {
+      "style_code": "pressure_accelerator",
+      "style_name": "速度压强型",
+      "traits": ["高频追进度", "催动强", "反馈直接"],
+      "score_pattern": {
+        "decision_speed": ">=4",
+        "feedback_intensity": ">=4",
+        "sync_frequency_need": ">=4"
+      },
+      "advantages": ["推进强", "紧迫感足"],
+      "risks": ["团队焦虑", "信息噪音高"]
+    },
+    {
+      "style_code": "supportive_coach",
+      "style_name": "支持辅导型",
+      "traits": ["愿意解释", "支持温度高", "重长期成长"],
+      "score_pattern": {
+        "support_warmth": ">=4",
+        "feedback_intensity": "<=3",
+        "risk_tolerance": ">=3"
+      },
+      "advantages": ["心理安全较好", "利于培养人"],
+      "risks": ["执行锐度可能不足"]
+    },
+    {
+      "style_code": "detail_controller",
+      "style_name": "细节控制型",
+      "traits": ["过程追踪密", "节点意识强", "控制倾向高"],
+      "score_pattern": {
+        "control_orientation": ">=4",
+        "detail_tolerance": ">=4",
+        "sync_frequency_need": ">=4"
+      },
+      "advantages": ["落地细", "过程可控"],
+      "risks": ["微观管理", "团队疲惫"]
+    },
+    {
+      "style_code": "delegating_builder",
+      "style_name": "授权成长型",
+      "traits": ["放权", "抓关键节点", "看结果复盘"],
+      "score_pattern": {
+        "control_orientation": "<=3",
+        "support_warmth": ">=3",
+        "info_conclusion_bias": ">=3"
+      },
+      "advantages": ["培养梯队", "效率高"],
+      "risks": ["同步不足时易偏航"]
+    }
+  ],
+  "scenario_taxonomy": [
+    {"scenario_code": "goal_alignment", "name": "目标对齐", "goal_type": "clarify_priority"},
+    {"scenario_code": "weekly_sync", "name": "周度同步", "goal_type": "status_update"},
+    {"scenario_code": "risk_alert", "name": "风险预警", "goal_type": "early_escalation"},
+    {"scenario_code": "resource_request", "name": "资源申请", "goal_type": "gain_support"},
+    {"scenario_code": "cross_function_block", "name": "跨部门受阻", "goal_type": "remove_blocker"},
+    {"scenario_code": "bad_news_reporting", "name": "坏消息上报", "goal_type": "damage_control"},
+    {"scenario_code": "proposal_disagreement", "name": "方案分歧", "goal_type": "influence_decision"},
+    {"scenario_code": "meeting_pressure", "name": "会议高压追问", "goal_type": "stabilize_dialogue"},
+    {"scenario_code": "decision_memo", "name": "决策备忘录", "goal_type": "decision_support"},
+    {"scenario_code": "monthly_review", "name": "月度复盘", "goal_type": "build_trust"}
+  ],
+  "strategy_templates": [
+    {
+      "strategy_id": "st-001",
+      "style_code": "result_driver",
+      "scenario_code": "weekly_sync",
+      "communication_goal": "status_update",
+      "recommended_structure": ["结论", "当前状态", "风险", "需要拍板的点"],
+      "preferred_channel": ["即时消息摘要", "周会口头同步", "一页文档"],
+      "best_timing": "固定节奏 + 关键节点前24小时",
+      "evidence_requirements": ["关键数字", "红黄绿状态", "时间点"],
+      "tone_guidance": "简洁、直接、结论先行",
+      "opening_script": "结论先说：当前整体黄灯，可按时推进，但需要您确认范围取舍。",
+      "followup_script": "详细依据我放在附件中，如您需要我再展开。",
+      "risk_notes": ["避免长背景铺陈", "必须带建议动作"],
+      "success_metrics": ["一次看懂率", "一次拍板率"],
+      "related_templates": ["一页周报", "红黄绿状态卡"]
+    },
+    {
+      "strategy_id": "st-002",
+      "style_code": "structured_analyst",
+      "scenario_code": "resource_request",
+      "communication_goal": "gain_support",
+      "recommended_structure": ["目标", "现状缺口", "数据依据", "方案A/B", "建议"],
+      "preferred_channel": ["邮件", "文档", "会前备忘录"],
+      "best_timing": "会前预读 + 会议确认",
+      "evidence_requirements": ["投入产出", "样本数据", "依赖关系图"],
+      "tone_guidance": "结构化、证据充分、避免绝对化判断",
+      "opening_script": "本次申请的核心不是多要资源，而是确保目标和约束匹配。",
+      "followup_script": "如果您认可，我建议采用方案B，在风险和时效之间更平衡。",
+      "risk_notes": ["不能只说资源不足", "需展示不支持的后果"],
+      "success_metrics": ["资源申请成功率", "追问轮次"],
+      "related_templates": ["资源申请单", "决策备忘录"]
+    },
+    {
+      "strategy_id": "st-003",
+      "style_code": "pressure_accelerator",
+      "scenario_code": "bad_news_reporting",
+      "communication_goal": "damage_control",
+      "recommended_structure": ["事实", "影响", "已采取动作", "下一步请求"],
+      "preferred_channel": ["即时消息", "电话后补纪要"],
+      "best_timing": "风险出现后2小时内",
+      "evidence_requirements": ["当前状态", "影响范围", "首轮补救动作"],
+      "tone_guidance": "稳、短、快，不辩解",
+      "opening_script": "先同步风险：当前接口异常已影响验收窗口，我先说已采取动作和您需要拍板的点。",
+      "followup_script": "我会在30分钟内补一版完整纪要。",
+      "risk_notes": ["不要等完全查清才上报", "不要在第一轮里铺陈责任归因"],
+      "success_metrics": ["提前预警率", "冲突升级率"],
+      "related_templates": ["风险升级单", "紧急纪要"]
+    },
+    {
+      "strategy_id": "st-004",
+      "style_code": "supportive_coach",
+      "scenario_code": "proposal_disagreement",
+      "communication_goal": "influence_decision",
+      "recommended_structure": ["共同目标", "担忧点", "依据", "试点建议"],
+      "preferred_channel": ["1:1", "讨论会", "文档"],
+      "best_timing": "正式决策前",
+      "evidence_requirements": ["风险假设", "试点方案", "验证指标"],
+      "tone_guidance": "合作式、共同解题式",
+      "opening_script": "我理解我们的共同目标是一致的，我补充一个可能影响结果的变量，供您判断。",
+      "followup_script": "如果您同意，我们先做小范围验证，再决定是否全面推进。",
+      "risk_notes": ["避免直接否定", "用实验替代对抗"],
+      "success_metrics": ["建议采纳率", "关系稳定度"],
+      "related_templates": ["方案比较表", "试点验证单"]
+    },
+    {
+      "strategy_id": "st-005",
+      "style_code": "detail_controller",
+      "scenario_code": "cross_function_block",
+      "communication_goal": "remove_blocker",
+      "recommended_structure": ["阻塞点", "责任边界", "历史记录", "待拍板事项"],
+      "preferred_channel": ["纪要", "升级邮件", "专项会"],
+      "best_timing": "连续两次卡点后立即升级",
+      "evidence_requirements": ["时间线", "责任矩阵", "影响节点"],
+      "tone_guidance": "具体、可核验、边界清楚",
+      "opening_script": "当前不是谁更着急的问题，而是责任边界和依赖节点需要您拍板。",
+      "followup_script": "我已把历史同步记录和阻塞影响整理成时间线，请您确认责任归属。",
+      "risk_notes": ["不能只说跨部门不配合", "需给出结构化证据"],
+      "success_metrics": ["阻塞解除时长", "返工次数"],
+      "related_templates": ["RACI清单", "阻塞升级单"]
+    },
+    {
+      "strategy_id": "st-006",
+      "style_code": "delegating_builder",
+      "scenario_code": "monthly_review",
+      "communication_goal": "build_trust",
+      "recommended_structure": ["结果", "关键学习", "风险回顾", "下月计划", "授权边界建议"],
+      "preferred_channel": ["复盘文档", "1:1"],
+      "best_timing": "月末/项目结项后",
+      "evidence_requirements": ["关键结果", "问题复盘", "成长点"],
+      "tone_guidance": "成熟、承担、复盘导向",
+      "opening_script": "本月我先汇报结果，再说明哪些判断是有效的，哪些需要我下次改进。",
+      "followup_script": "如果您认可，我希望下月在这个边界内获得更多自主决策空间。",
+      "risk_notes": ["避免只报成绩不报失误", "要体现自驱和判断力"],
+      "success_metrics": ["授权扩大率", "信任评分"],
+      "related_templates": ["月度复盘表", "授权边界清单"]
+    },
+    {
+      "strategy_id": "st-007",
+      "style_code": "result_driver",
+      "scenario_code": "goal_alignment",
+      "communication_goal": "clarify_priority",
+      "recommended_structure": ["目标", "优先级", "不可妥协项", "建议排序"],
+      "preferred_channel": ["会议", "一页文档"],
+      "best_timing": "季度/项目启动时",
+      "evidence_requirements": ["关键结果", "时间边界", "资源约束"],
+      "tone_guidance": "明确、少歧义、可执行",
+      "opening_script": "为了保证执行不偏，我先确认本阶段唯一第一优先级。",
+      "followup_script": "如果只能保一个结果，我建议保____，其余顺延。",
+      "risk_notes": ["不能目标平铺", "必须给排序建议"],
+      "success_metrics": ["目标对齐率", "优先级变更次数"],
+      "related_templates": ["目标对齐表"]
+    },
+    {
+      "strategy_id": "st-008",
+      "style_code": "structured_analyst",
+      "scenario_code": "decision_memo",
+      "communication_goal": "decision_support",
+      "recommended_structure": ["背景", "问题定义", "方案对比", "风险", "建议结论"],
+      "preferred_channel": ["文档", "邮件"],
+      "best_timing": "拍板前半天或前一天",
+      "evidence_requirements": ["数据表", "样本", "外部依赖", "成本"],
+      "tone_guidance": "完整、冷静、审慎",
+      "opening_script": "为了便于您判断，我把方案差异、约束和建议结论整理成一页备忘录。",
+      "followup_script": "如果您重点关注风险项，我建议先看第三部分。",
+      "risk_notes": ["避免只有方案没有权衡", "需要列清前提假设"],
+      "success_metrics": ["一次拍板率", "补充材料次数"],
+      "related_templates": ["Decision Memo"]
+    }
+  ],
+  "matching_algorithm": {
+    "input_objects": ["profile_vector", "style_type", "scenario_code", "goal_type", "risk_level", "historical_effect", "constraints"],
+    "scoring_formula": "0.35*ProfileFit + 0.30*ScenarioFit + 0.20*HistoricalEffect + 0.15*ConstraintCompatibility",
+    "top_n": 3,
+    "fallback_rule": "当画像置信度不足时，退回通用保守策略：结论先行 + 风险前置 + 书面确认",
+    "feedback_fields": ["adoption_flag", "decision_speed_delta", "rework_delta", "manager_feedback_score", "followup_questions_count"]
+  },
+  "visualization_views": [
+    {
+      "view_code": "manager_profile_dashboard",
+      "name": "管理者画像首页",
+      "components": ["主风格标签", "九维雷达图", "90天趋势图", "高频追问主题Top5", "推荐沟通结构"]
+    },
+    {
+      "view_code": "strategy_recommendation_panel",
+      "name": "场景策略推荐页",
+      "components": ["场景摘要", "适配风格", "Top3策略", "推荐理由", "脚本模板", "风险提醒"]
+    },
+    {
+      "view_code": "team_distribution_analytics",
+      "name": "团队分布分析页",
+      "components": ["风格分布图", "高压风格占比", "返工关联图", "满意度关联图"]
+    },
+    {
+      "view_code": "manager_self_check",
+      "name": "管理者自检页",
+      "components": ["自评他评差异", "风险行为提示", "替代表达建议", "改进行动清单"]
+    }
+  ],
+  "extensibility": {
+    "style_registry": "新增风格通过StyleTaxonomy注册，不修改历史记录结构",
+    "strategy_registry": "策略条目模板化，支持新增行业、角色、场景分库",
+    "versioning": "画像维度、匹配规则和展示文案均使用schema_version控制兼容",
+    "future_options": ["行业细分策略库", "团队本地化排序", "基于效果反馈的排序学习", "语义相似场景扩展推荐"]
+  }
+}

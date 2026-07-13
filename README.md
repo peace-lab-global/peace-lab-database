@@ -13,8 +13,8 @@ intent_queries:
   - "Peace Lab Database的方法与实践"
 trigger_keywords: ["Peace", "Lab", "Database", "平静实验室知识库"]
 cross_refs:
-  - path: "02-Mind-Psychology/INDEX.md"
-    relation: "mind-psychology/psychology/somatic-body"
+  - path: "02-心智心理/INDEX.md"
+    relation: "mind-心理学/心理学/躯体身心"
 ---
 # Peace Lab Database (平静实验室知识库)
 
@@ -27,27 +27,27 @@ cross_refs:
 
 ### 五大核心支柱 (The Five Pillars)
 
-### 1. [🏛️ 智慧传承 (Wisdom Traditions)](01-Wisdom-Traditions/INDEX.md)
+### 1. [🏛️ 智慧传承 (Wisdom Traditions)](01-智慧传统/INDEX.md)
 **核心领域**: 瑜伽哲学、禅宗/道家/佛教全体系、太极拳、黄帝内经养生、东西方古典哲学、全球灵性疗愈。
 
-### 2. [🧠 心智与心理学 (Mind & Psychology)](02-Mind-Psychology/INDEX.md)
+### 2. [🧠 心智与心理学 (Mind & Psychology)](02-心智心理/INDEX.md)
 **核心领域**: 现代心理流派、临床干预(焦虑/创伤/成瘾/严重精神疾病)、冥想技术(坛城/直指/大师传承体系)、感官与循证疗法、自我调节技能(容纳/接地/自我安抚/自悲)、仇恨心理学、乡村心理学、贫困与苦难研究、自信心体系、婚姻冲突与离婚心理学、情感银行与亲子理解。
 
-### 3. [🏃 生命科学与生物医学 (Bio-Science & Medicine)](03-Bio-Science/INDEX.md)
+### 3. [🏃 生命科学与生物医学 (Bio-Science & Medicine)](03-生命科学/INDEX.md)
 **核心领域**: 生物黑客(睡眠/断食/呼吸/血压调节)、神经科学(BCI/DMN)、身心能量恢复、办公健康(肩颈/眼部/睡前拉伸)、性学研究、营养学与死亡教育。
 
-### 4. [🎨 人文与艺术疗愈 (Humanities & Arts)](04-Humanities-Arts/INDEX.md)
+### 4. [🎨 人文与艺术疗愈 (Humanities & Arts)](04-人文艺术/INDEX.md)
 **核心领域**: 艺术史与艺术疗法、芭蕾艺术全系、古典音乐疗愈、影音媒体与深度阅读。
 
-### 5. [🌱 实践与个人增长 (Praxis & Growth)](05-Praxis-Growth/INDEX.md)
+### 5. [🌱 实践与个人增长 (Praxis & Growth)](05-实践成长/INDEX.md)
 **核心领域**: 超级个体商业模式、工作效率与执行力、心力成长与稳定内核、高效沟通与结构化表达、心流与专注力、自媒体变现、创意/技术写作、TED/一席精品讲座知识框架(150+领域)、个人任务管理、每日打卡、日记写作。
 
 ### 跨域聚合层 (Cross-Domain Aggregation Layers)
 
-### 6. [🏥 临床专题 (Clinical Topics)](06-Clinical-Topics/INDEX.md)
+### 6. [🏥 临床专题 (Clinical Topics)](06-临床专题/INDEX.md)
 **核心领域**: 跨支柱临床知识包 —— 焦虑、抑郁、睡眠障碍、哀伤丧亲、拖延症、MBCT 正念认知疗法，按疾病/问题维度聚合，面向临床实践。
 
-> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_meta/` 知识关联层：[research-topics](_meta/research-topics/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
+> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_元信息/` 知识关联层：[research-topics](_meta/research-topics/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
 
 ---
 
@@ -62,7 +62,7 @@ cross_refs:
 | [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
 | 🔧 工具与脚本 | 质量检查、链接验证等自动化工具 |
 | 🌐 Web 站点 | 在线浏览版本 |
-| [🤖 Agent Skills 智能体技能](02-Mind-Psychology/psychology/stress-hpa/skills/) | 压力与HPA轴调节智能体技能模块 |
+| [🤖 Agent Skills 智能体技能](02-心智心理/心理学/压力与HPA轴/技能/) | 压力与HPA轴调节智能体技能模块 |
 
 ---
 
@@ -100,7 +100,7 @@ Agent Skills 遵循以下设计原则：
 
 ### 当前已上线的 Agent Skills
 
-#### 压力与 HPA 轴模块 (`02-Mind-Psychology/psychology/stress-hpa/skills/`)
+#### 压力与 HPA 轴模块 (`02-心智心理/心理学/压力与HPA轴/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
@@ -114,55 +114,55 @@ Agent Skills 遵循以下设计原则：
 | `Stress_Diary_Analysis_Skill.md` | 压力日记分析 | "帮我分析我的压力日记" |
 | `Relaxation_Techniques_Guide_Skill.md` | 放松技术指导 | "有什么放松方法" |
 
-#### 抑郁评估模块 (`02-Mind-Psychology/psychology/clinical/depression/skills/`)
+#### 抑郁评估模块 (`02-心智心理/心理学/临床/抑郁/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Depression_Assessment_Skill.md` | 抑郁状态综合评估（PHQ-9） | "我最近情绪很低落" |
 
-#### 创伤评估模块 (`02-Mind-Psychology/psychology/clinical/trauma/skills/`)
+#### 创伤评估模块 (`02-心智心理/心理学/临床/创伤/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Trauma_Assessment_Skill.md` | 创伤与应激评估（PCL-5） | "我总是做噩梦/闪回" |
 
-#### 失眠评估模块 (`02-Mind-Psychology/psychology/somatic-body/sleep/skills/`)
+#### 失眠评估模块 (`02-心智心理/心理学/躯体身心/睡眠/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Insomnia_Assessment_Skill.md` | 失眠与睡眠质量评估（ISI） | "我失眠睡不着" |
 
-#### 积极心理学模块 (`02-Mind-Psychology/psychology/foundations/positive-psychology/skills/`)
+#### 积极心理学模块 (`02-心智心理/心理学/基础/positive心理学/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Wellbeing_Assessment_Skill.md` | 幸福感与积极心理评估（PERMA/SWLS/VIA） | "我想提升幸福感" |
 
-#### 职业倦怠模块 (`02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/skills/`)
+#### 职业倦怠模块 (`02-心智心理/心理学/应用心理/职场心理危机/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Burnout_Assessment_Skill.md` | 职业倦怠评估（MBI/JD-R） | "上班没动力/职业倦怠" |
 
-#### 领导力模块 (`05-Praxis-Growth/personal-development/super-individual/skills/`)
+#### 领导力模块 (`05-实践成长/个人发展/superindividual/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Leadership_Assessment_Skill.md` | 领导力与影响力评估（Goleman/Cialdini） | "如何提升领导力" |
 
-#### 成瘾评估模块 (`02-Mind-Psychology/psychology/behavioral/addiction/skills/`)
+#### 成瘾评估模块 (`02-心智心理/心理学/行为心理/成瘾/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Addiction_Assessment_Skill.md` | 成瘾行为评估（AUDIT/DAST/ASI） | "我戒不掉酒/游戏/手机" |
 
-#### 亲密关系模块 (`02-Mind-Psychology/relationships/clinical-practice/skills/`)
+#### 亲密关系模块 (`02-心智心理/关系/临床实践/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
 | `Relationship_Assessment_Skill.md` | 亲密关系质量评估（CSI/ECR-R/Gottman） | "感情出了问题" |
 
-#### 自尊评估模块 (`02-Mind-Psychology/psychology/self-regulation/self-confidence/skills/`)
+#### 自尊评估模块 (`02-心智心理/心理学/selfregulation/selfconfidence/技能/`)
 
 | 技能 | 功能 | 适用场景 |
 |:-----|:-----|:---------|
@@ -172,10 +172,10 @@ Agent Skills 遵循以下设计原则：
 
 | 计划 | 说明 |
 |:-----|:-----|
-| 焦虑与反焦虑模块 | 已在 `self-regulation/anti-anxiety/` 上线 |
-| 强迫症与反强迫症模块 | 已在 `self-regulation/anti-ocd/` 上线 |
-| 拖延与反拖延症模块 | 已在 `behavioral/anti-procrastination/` 上线 |
-| 玻璃心与反玻璃心模块 | 已在 `self-regulation/resilience-fragile-ego/` 上线 |
+| 焦虑与反焦虑模块 | 已在 `selfregulation/anti焦虑/` 上线 |
+| 强迫症与反强迫症模块 | 已在 `selfregulation/anti强迫症/` 上线 |
+| 拖延与反拖延症模块 | 已在 `行为心理/anti拖延症/` 上线 |
+| 玻璃心与反玻璃心模块 | 已在 `selfregulation/韧性fragileego/` 上线 |
 
 ### 智能体使用注意事项
 

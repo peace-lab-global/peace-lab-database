@@ -1,0 +1,914 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mocici 精神健身 · 乐定安明爱身心状态自评问卷</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        joy:     { light: '#FEF9E7', DEFAULT: '#E6A817', dark: '#B07D0A' },
+                        stable:  { light: '#EBF5FF', DEFAULT: '#3B82F6', dark: '#1D4ED8' },
+                        peace:   { light: '#ECFDF5', DEFAULT: '#10B981', dark: '#047857' },
+                        clarity: { light: '#F5F3FF', DEFAULT: '#8B5CF6', dark: '#6D28D9' },
+                        love:    { light: '#FFF1F2', DEFAULT: '#F43F5E', dark: '#BE123C' },
+                        gray: {
+                            100: '#F9F9F9', 200: '#F0F0F0', 300: '#E0E0E0',
+                            400: '#BDBDBD', 500: '#9E9E9E', 600: '#757575',
+                            700: '#616161', 800: '#424242', 900: '#212121',
+                        }
+                    },
+                    fontFamily: { sans: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'] },
+                    boxShadow: { 'soft': '0 4px 20px rgba(0,0,0,0.03)' }
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .radio-label { position: relative; padding-left: 28px; cursor: pointer; display: block; height: 24px; line-height: 24px; transition: all 0.2s ease; }
+            .radio-label input { position: absolute; opacity: 0; cursor: pointer; }
+            .radio-custom { position: absolute; top: 0; left: 0; height: 24px; width: 24px; background: #fff; border: 1px solid #E0E0E0; border-radius: 50%; transition: all 0.2s ease; }
+            .radio-label:hover input ~ .radio-custom { border-color: #9E9E9E; }
+            .radio-label input:checked ~ .radio-custom { border-color: var(--dim-color, #000); }
+            .radio-custom:after { content: ""; position: absolute; display: none; }
+            .radio-label input:checked ~ .radio-custom:after { display: block; }
+            .radio-label .radio-custom:after { top: 8px; left: 8px; width: 8px; height: 8px; border-radius: 50%; background: var(--dim-color, #000); }
+            .dim-indicator { position: absolute; top: 10px; right: 10px; padding: 2px 8px; border-radius: 12px; font-size: 12px; font-weight: 500; border: 1px solid; }
+            .dim-joy     { --dim-color: #E6A817; background: #FEF9E7; color: #B07D0A; border-color: #E6A817; }
+            .dim-stable  { --dim-color: #3B82F6; background: #EBF5FF; color: #1D4ED8; border-color: #3B82F6; }
+            .dim-peace   { --dim-color: #10B981; background: #ECFDF5; color: #047857; border-color: #10B981; }
+            .dim-clarity { --dim-color: #8B5CF6; background: #F5F3FF; color: #6D28D9; border-color: #8B5CF6; }
+            .dim-love    { --dim-color: #F43F5E; background: #FFF1F2; color: #BE123C; border-color: #F43F5E; }
+            .screen { position: relative; min-height: 100vh; z-index: 10; }
+            .progress-bar { height: 2px; background-color: #000; transition: width 0.3s ease; }
+            .card-hover { transition: all 0.3s ease; }
+            .card-hover:hover { transform: translateY(-2px); box-shadow: 0 8px 30px rgba(0,0,0,0.06); }
+        }
+    </style>
+</head>
+<body class="bg-white text-gray-900 font-sans antialiased">
+
+<!-- 进度条 -->
+<div id="progress-bar" class="progress-bar fixed top-0 left-0 z-50" style="width: 0%"></div>
+
+<!-- ==================== 首屏 ==================== -->
+<section id="screen1" class="screen flex items-center justify-center px-4">
+    <div class="max-w-4xl w-full text-center">
+        <h1 class="text-4xl md:text-6xl font-light mb-6 tracking-tight">Mocici 精神健身</h1>
+        <div class="h-px bg-black opacity-80 w-32 mx-auto mb-8"></div>
+        <h2 class="text-2xl md:text-3xl font-light mb-12 text-gray-700">乐定安明爱 · 身心状态自评问卷</h2>
+        <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-8 leading-relaxed">
+            基于直接认知冥想课程五维模型，通过 20 道日常场景题目，<br class="hidden md:block">
+            评估您的喜悦、定力、安定、觉察与慈悲状态
+        </p>
+        <!-- 五维色带 -->
+        <div class="flex justify-center gap-2 mb-16">
+            <span class="px-3 py-1 rounded-full text-sm dim-joy">🟡 乐</span>
+            <span class="px-3 py-1 rounded-full text-sm dim-stable">🔵 定</span>
+            <span class="px-3 py-1 rounded-full text-sm dim-peace">🟢 安</span>
+            <span class="px-3 py-1 rounded-full text-sm dim-clarity">🟣 明</span>
+            <span class="px-3 py-1 rounded-full text-sm dim-love">🔴 爱</span>
+        </div>
+        <button id="start-btn" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 text-lg font-light">
+            开始评估 <i class="fa fa-arrow-right ml-2"></i>
+        </button>
+        <p class="mt-8 text-sm text-gray-400">预计用时 8–12 分钟 · 请根据最近一周的实际感受作答</p>
+    </div>
+</section>
+
+<!-- ==================== 问卷区 ==================== -->
+<section id="screen2" class="screen relative px-4 py-12 z-20">
+    <div class="max-w-4xl mx-auto">
+
+        <!-- 评分说明卡 -->
+        <div class="bg-gray-100 rounded-lg p-6 mb-12">
+            <h3 class="text-lg font-light mb-4">评分规则</h3>
+            <p class="text-gray-600 mb-4 leading-relaxed">请根据<b>最近一周</b>的实际感受，为每道题选择最贴合的选项。没有"正确答案"，诚实面对当下的自己比什么都重要。</p>
+            <div class="grid grid-cols-5 gap-2 text-center text-sm">
+                <div class="bg-white rounded p-2"><span class="font-medium">0</span><br><span class="text-gray-500">几乎从不</span></div>
+                <div class="bg-white rounded p-2"><span class="font-medium">1</span><br><span class="text-gray-500">偶尔</span></div>
+                <div class="bg-white rounded p-2"><span class="font-medium">2</span><br><span class="text-gray-500">有时</span></div>
+                <div class="bg-white rounded p-2"><span class="font-medium">3</span><br><span class="text-gray-500">经常</span></div>
+                <div class="bg-white rounded p-2"><span class="font-medium">4</span><br><span class="text-gray-500">几乎总是</span></div>
+            </div>
+        </div>
+
+        <form id="assessment-form">
+
+        <!-- ===== 🟡 乐维度 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <span class="w-3 h-3 rounded-full bg-joy mr-3"></span>
+                <h4 class="text-xl font-light">乐（Joy）—— 喜悦与轻松感</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <p class="text-gray-500 mb-6 text-sm">评估你在日常生活中体验喜悦、轻松、满足的能力</p>
+            <div class="space-y-8">
+                <!-- Q1 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-joy">乐</span>
+                    <p class="font-light text-lg mb-6">1. 最近一周，你有没有过那种"什么都没在想，就是觉得挺好的"的时刻？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q1" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q1" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q1" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q1" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q1" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q2 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-joy">乐</span>
+                    <p class="font-light text-lg mb-6">2. 吃到好吃的饭、看到好看的风景、听到好听的歌——你能自然而然地感到开心吗？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q2" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q2" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q2" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q2" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q2" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q3 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-joy">乐</span>
+                    <p class="font-light text-lg mb-6">3. 回想这一周，你有没有因为一件小事（比如帮了别人、完成了小任务）而发自内心地满足？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q3" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q3" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q3" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q3" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q3" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q4 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-joy">乐</span>
+                    <p class="font-light text-lg mb-6">4. 你笑起来容易吗？不是因为社交礼貌，而是那种从心底冒出来的笑。</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q4" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q4" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q4" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q4" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q4" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== 🔵 定维度 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <span class="w-3 h-3 rounded-full bg-stable mr-3"></span>
+                <h4 class="text-xl font-light">定（Stability）—— 专注与稳定力</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <p class="text-gray-500 mb-6 text-sm">评估你的注意力稳定性和面对干扰时"不被带跑"的能力</p>
+            <div class="space-y-8">
+                <!-- Q5 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-stable">定</span>
+                    <p class="font-light text-lg mb-6">5. 做一件事的时候（工作、看书、做饭），你能专注在上面，还是脑子里总冒出别的事？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q5" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q5" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q5" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q5" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q5" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q6 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-stable">定</span>
+                    <p class="font-light text-lg mb-6">6. 有人当着你的面说了不太好听的话，你心里能较快平复，还是会翻江倒海很久？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q6" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q6" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q6" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q6" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q6" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q7 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-stable">定</span>
+                    <p class="font-light text-lg mb-6">7. 正在忙一件事突然被打断了，你能比较快地回到原来的节奏吗？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q7" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q7" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q7" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q7" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q7" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q8 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-stable">定</span>
+                    <p class="font-light text-lg mb-6">8. 晚上躺下来准备睡觉时，你的脑子是很快就安静了，还是像开了弹幕一样停不下来？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q8" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q8" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q8" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q8" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q8" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== 🟢 安维度 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <span class="w-3 h-3 rounded-full bg-peace mr-3"></span>
+                <h4 class="text-xl font-light">安（Peace）—— 内心安定与松弛</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <p class="text-gray-500 mb-6 text-sm">评估你内心的安全感、松弛度，以及对不确定性的容纳能力</p>
+            <div class="space-y-8">
+                <!-- Q9 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-peace">安</span>
+                    <p class="font-light text-lg mb-6">9. 最近一周，你身体有没有莫名其妙的紧绷感？比如肩膀、胃、下巴发紧。（反向题：0=经常紧绷，4=完全放松）</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q9" value="0" required><span class="radio-custom"></span>0 · 经常紧绷</label>
+                        <label class="radio-label"><input type="radio" name="q9" value="1"><span class="radio-custom"></span>1 · 偶尔放松</label>
+                        <label class="radio-label"><input type="radio" name="q9" value="2"><span class="radio-custom"></span>2 · 有时放松</label>
+                        <label class="radio-label"><input type="radio" name="q9" value="3"><span class="radio-custom"></span>3 · 大多放松</label>
+                        <label class="radio-label"><input type="radio" name="q9" value="4"><span class="radio-custom"></span>4 · 完全放松</label>
+                    </div>
+                </div>
+                <!-- Q10 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-peace">安</span>
+                    <p class="font-light text-lg mb-6">10. 面对还没发生、但可能出状况的事（重要会面、汇报），你的内心能保持从容吗？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q10" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q10" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q10" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q10" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q10" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q11 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-peace">安</span>
+                    <p class="font-light text-lg mb-6">11. 如果有人误解了你，你能比较快地放下"非要解释清楚"的冲动吗？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q11" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q11" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q11" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q11" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q11" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q12 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-peace">安</span>
+                    <p class="font-light text-lg mb-6">12. 一个人独处的时候，你感到自在吗？还是总觉得少了点什么、想抓手机或找个人？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q12" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q12" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q12" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q12" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q12" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+
+        <!-- ===== 🟣 明维度 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <span class="w-3 h-3 rounded-full bg-clarity mr-3"></span>
+                <h4 class="text-xl font-light">明（Clarity）—— 清明与觉察力</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <p class="text-gray-500 mb-6 text-sm">评估你对自身状态和事物本质的觉察力、看清念头来去的能力</p>
+            <div class="space-y-8">
+                <!-- Q13 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-clarity">明</span>
+                    <p class="font-light text-lg mb-6">13. 当情绪上来的时候（生气、焦虑、委屈），你能意识到"我现在情绪上来了"，而不是直接被它带着走？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q13" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q13" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q13" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q13" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q13" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q14 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-clarity">明</span>
+                    <p class="font-light text-lg mb-6">14. 你有没有过这种体验：正在纠结一件事，突然意识到"其实我纠结的不是这件事本身，而是背后另一个东西"？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q14" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q14" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q14" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q14" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q14" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q15 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-clarity">明</span>
+                    <p class="font-light text-lg mb-6">15. 回想最近一次不愉快，事后你能比较清楚地看到自己在其中的"模式"吗？（比如"我又在较劲了""我又在讨好了"）</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q15" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q15" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q15" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q15" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q15" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q16 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-clarity">明</span>
+                    <p class="font-light text-lg mb-6">16. 做重要决定的时候，你是清楚知道自己为什么这样选的，还是更多凭感觉、事后才想明白？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q16" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q16" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q16" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q16" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q16" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== 🔴 爱维度 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <span class="w-3 h-3 rounded-full bg-love mr-3"></span>
+                <h4 class="text-xl font-light">爱（Love）—— 联结与慈悲</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <p class="text-gray-500 mb-6 text-sm">评估你对自己和对他人的善意、包容、联结的能力</p>
+            <div class="space-y-8">
+                <!-- Q17 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-love">爱</span>
+                    <p class="font-light text-lg mb-6">17. 这一周你能比较自然地接纳"我也有做不到的地方"，而不是一味苛责自己？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q17" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q17" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q17" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q17" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q17" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q18 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-love">爱</span>
+                    <p class="font-light text-lg mb-6">18. 身边的人犯了错或表现不好，你心里的第一反应是理解，还是评判？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q18" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q18" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q18" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q18" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q18" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q19 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-love">爱</span>
+                    <p class="font-light text-lg mb-6">19. 你有没有在某个瞬间，真心觉得"眼前这个人挺不容易的"，哪怕他让你不太舒服？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q19" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q19" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q19" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q19" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q19" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+                <!-- Q20 -->
+                <div class="bg-gray-100 rounded-lg p-6 relative card-hover">
+                    <span class="dim-indicator dim-love">爱</span>
+                    <p class="font-light text-lg mb-6">20. 回想这一周，你有没有主动为别人做过一件小事——不是因为义务，而是发自内心想做？</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="q20" value="0" required><span class="radio-custom"></span>0 · 几乎从不</label>
+                        <label class="radio-label"><input type="radio" name="q20" value="1"><span class="radio-custom"></span>1 · 偶尔</label>
+                        <label class="radio-label"><input type="radio" name="q20" value="2"><span class="radio-custom"></span>2 · 有时</label>
+                        <label class="radio-label"><input type="radio" name="q20" value="3"><span class="radio-custom"></span>3 · 经常</label>
+                        <label class="radio-label"><input type="radio" name="q20" value="4"><span class="radio-custom"></span>4 · 几乎总是</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- ===== 基础信息 ===== -->
+        <div class="mb-16">
+            <div class="flex items-center mb-6">
+                <h4 class="text-xl font-light">基础信息</h4>
+                <div class="h-px bg-gray-300 flex-grow ml-4"></div>
+            </div>
+            <div class="space-y-8">
+                <div class="bg-gray-100 rounded-lg p-6 card-hover">
+                    <p class="font-light text-lg mb-6">本周平均冥想时长：</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="info_time" value="0" required><span class="radio-custom"></span>0 分钟</label>
+                        <label class="radio-label"><input type="radio" name="info_time" value="1"><span class="radio-custom"></span>1–10 分钟</label>
+                        <label class="radio-label"><input type="radio" name="info_time" value="2"><span class="radio-custom"></span>11–30 分钟</label>
+                        <label class="radio-label"><input type="radio" name="info_time" value="3"><span class="radio-custom"></span>31–60 分钟</label>
+                        <label class="radio-label"><input type="radio" name="info_time" value="4"><span class="radio-custom"></span>60 分钟以上</label>
+                    </div>
+                </div>
+                <div class="bg-gray-100 rounded-lg p-6 card-hover">
+                    <p class="font-light text-lg mb-6">你目前的冥想阶段：</p>
+                    <div class="flex flex-wrap gap-4">
+                        <label class="radio-label"><input type="radio" name="info_stage" value="0" required><span class="radio-custom"></span>零基础</label>
+                        <label class="radio-label"><input type="radio" name="info_stage" value="1"><span class="radio-custom"></span>入门（1 个月内）</label>
+                        <label class="radio-label"><input type="radio" name="info_stage" value="2"><span class="radio-custom"></span>进阶（1–6 个月）</label>
+                        <label class="radio-label"><input type="radio" name="info_stage" value="3"><span class="radio-custom"></span>资深（6 个月以上）</label>
+                        <label class="radio-label"><input type="radio" name="info_stage" value="4"><span class="radio-custom"></span>冥想老师/执行师</label>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <!-- 提交 -->
+        <div class="text-center mt-16 mb-12">
+            <button type="submit" id="submit-btn" class="px-12 py-4 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 text-lg font-light">
+                提交评估 <i class="fa fa-check ml-2"></i>
+            </button>
+        </div>
+
+        </form>
+    </div>
+</section>
+
+
+<!-- ==================== 结果区 ==================== -->
+<section id="screen3" class="screen relative px-4 py-12 z-30 hidden">
+    <div class="max-w-4xl mx-auto">
+        <div class="flex justify-between items-center mb-12">
+            <h2 class="text-3xl font-light">评估结果</h2>
+            <button id="back-to-form" class="text-gray-500 hover:text-black transition-all duration-300 text-sm">← 返回问卷</button>
+        </div>
+
+        <!-- 总分 -->
+        <div class="mb-16 text-center">
+            <h3 class="text-xl font-light text-gray-700 mb-6">您的身心状态总分</h3>
+            <div class="flex items-center justify-center">
+                <div id="total-score" class="text-6xl font-light text-black mr-4"></div>
+                <span class="text-2xl font-light text-gray-500">/ 80</span>
+            </div>
+            <div id="level-badge" class="inline-block mt-4 px-6 py-2 border border-black text-black font-light text-lg"></div>
+        </div>
+
+        <!-- 五维得分 -->
+        <div class="grid grid-cols-1 md:grid-cols-5 gap-4 mb-16">
+            <div class="bg-joy-light rounded-lg p-4 card-hover">
+                <div class="flex items-center mb-2"><span class="w-2 h-2 rounded-full bg-joy mr-2"></span><span class="text-sm font-medium text-joy-dark">🟡 乐</span></div>
+                <div class="text-2xl font-light mb-1" id="score-joy"></div>
+                <div class="h-1 bg-gray-200 rounded-full overflow-hidden"><div id="bar-joy" class="h-full bg-joy" style="width:0%"></div></div>
+                <p class="mt-2 text-xs text-gray-600 leading-relaxed" id="tip-joy"></p>
+            </div>
+            <div class="bg-stable-light rounded-lg p-4 card-hover">
+                <div class="flex items-center mb-2"><span class="w-2 h-2 rounded-full bg-stable mr-2"></span><span class="text-sm font-medium text-stable-dark">🔵 定</span></div>
+                <div class="text-2xl font-light mb-1" id="score-stable"></div>
+                <div class="h-1 bg-gray-200 rounded-full overflow-hidden"><div id="bar-stable" class="h-full bg-stable" style="width:0%"></div></div>
+                <p class="mt-2 text-xs text-gray-600 leading-relaxed" id="tip-stable"></p>
+            </div>
+            <div class="bg-peace-light rounded-lg p-4 card-hover">
+                <div class="flex items-center mb-2"><span class="w-2 h-2 rounded-full bg-peace mr-2"></span><span class="text-sm font-medium text-peace-dark">🟢 安</span></div>
+                <div class="text-2xl font-light mb-1" id="score-peace"></div>
+                <div class="h-1 bg-gray-200 rounded-full overflow-hidden"><div id="bar-peace" class="h-full bg-peace" style="width:0%"></div></div>
+                <p class="mt-2 text-xs text-gray-600 leading-relaxed" id="tip-peace"></p>
+            </div>
+            <div class="bg-clarity-light rounded-lg p-4 card-hover">
+                <div class="flex items-center mb-2"><span class="w-2 h-2 rounded-full bg-clarity mr-2"></span><span class="text-sm font-medium text-clarity-dark">🟣 明</span></div>
+                <div class="text-2xl font-light mb-1" id="score-clarity"></div>
+                <div class="h-1 bg-gray-200 rounded-full overflow-hidden"><div id="bar-clarity" class="h-full bg-clarity" style="width:0%"></div></div>
+                <p class="mt-2 text-xs text-gray-600 leading-relaxed" id="tip-clarity"></p>
+            </div>
+            <div class="bg-love-light rounded-lg p-4 card-hover">
+                <div class="flex items-center mb-2"><span class="w-2 h-2 rounded-full bg-love mr-2"></span><span class="text-sm font-medium text-love-dark">🔴 爱</span></div>
+                <div class="text-2xl font-light mb-1" id="score-love"></div>
+                <div class="h-1 bg-gray-200 rounded-full overflow-hidden"><div id="bar-love" class="h-full bg-love" style="width:0%"></div></div>
+                <p class="mt-2 text-xs text-gray-600 leading-relaxed" id="tip-love"></p>
+            </div>
+        </div>
+
+        <!-- 雷达图 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">五维雷达图</h4>
+            <div class="bg-gray-100 rounded-lg p-6 flex justify-center">
+                <canvas id="radar-chart" width="400" height="300"></canvas>
+            </div>
+        </div>
+
+        <!-- 等级说明 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">等级评估与总体建议</h4>
+            <div id="level-description" class="bg-gray-100 rounded-lg p-6"></div>
+        </div>
+
+        <!-- 维度详细建议 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">各维度详细解读与练习建议</h4>
+            <div id="dim-details" class="space-y-4"></div>
+        </div>
+
+        <!-- 练习对照表 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">冥想练习对照表</h4>
+            <div class="bg-gray-100 rounded-lg p-6 overflow-x-auto">
+                <table class="w-full text-sm">
+                    <thead><tr class="border-b border-gray-300">
+                        <th class="text-left py-2 pr-4 font-light text-gray-500">练习方式</th>
+                        <th class="text-left py-2 pr-4 font-light text-gray-500">主要提升维度</th>
+                        <th class="text-left py-2 font-light text-gray-500">建议频率</th>
+                    </tr></thead>
+                    <tbody class="text-gray-700">
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">胜利冥想（5 分钟晨间版）</td><td class="py-2 pr-4"><span class="dim-indicator dim-joy text-xs">乐</span> <span class="dim-indicator dim-stable text-xs">定</span></td><td class="py-2">每日晨间</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">安定冥想</td><td class="py-2 pr-4"><span class="dim-indicator dim-stable text-xs">定</span> <span class="dim-indicator dim-peace text-xs">安</span></td><td class="py-2">每日 1–2 次</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">关怀疗愈冥想</td><td class="py-2 pr-4"><span class="dim-indicator dim-love text-xs">爱</span> <span class="dim-indicator dim-peace text-xs">安</span></td><td class="py-2">每周 2–3 次</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">晚安冥想</td><td class="py-2 pr-4"><span class="dim-indicator dim-peace text-xs">安</span> <span class="dim-indicator dim-stable text-xs">定</span></td><td class="py-2">每晚睡前</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">释放委屈冥想</td><td class="py-2 pr-4"><span class="dim-indicator dim-peace text-xs">安</span> <span class="dim-indicator dim-love text-xs">爱</span></td><td class="py-2">感到压抑时</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">金刚冥想</td><td class="py-2 pr-4"><span class="dim-indicator dim-stable text-xs">定</span> <span class="dim-indicator dim-clarity text-xs">明</span></td><td class="py-2">有基础后每日</td></tr>
+                        <tr class="border-b border-gray-200"><td class="py-2 pr-4">止观践行（观苦/梦幻观）</td><td class="py-2 pr-4"><span class="dim-indicator dim-clarity text-xs">明</span> <span class="dim-indicator dim-peace text-xs">安</span></td><td class="py-2">每日 1 座</td></tr>
+                        <tr><td class="py-2 pr-4">动中禅 / 经行</td><td class="py-2 pr-4"><span class="dim-indicator dim-stable text-xs">定</span> <span class="dim-indicator dim-clarity text-xs">明</span></td><td class="py-2">日常穿插</td></tr>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- 基础信息回显 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">您提供的基础信息</h4>
+            <div class="bg-gray-100 rounded-lg p-6 grid grid-cols-1 md:grid-cols-2 gap-6">
+                <div><p class="text-sm text-gray-500 mb-1">本周平均冥想时长</p><p id="res-time" class="text-lg font-light"></p></div>
+                <div><p class="text-sm text-gray-500 mb-1">冥想阶段</p><p id="res-stage" class="text-lg font-light"></p></div>
+            </div>
+        </div>
+
+        <!-- 操作按钮 -->
+        <div class="flex flex-col md:flex-row justify-center gap-4 mb-16">
+            <button id="save-result" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 font-light"><i class="fa fa-save mr-2"></i>保存本次结果</button>
+            <button id="view-history" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 font-light"><i class="fa fa-history mr-2"></i>查看历史记录</button>
+            <button id="restart-btn" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 font-light"><i class="fa fa-refresh mr-2"></i>重新评估</button>
+        </div>
+
+        <div class="text-center text-sm text-gray-500 mt-12 pt-8 border-t border-gray-200">
+            <p>本量表基于直接认知冥想导师课程「乐定安明爱」五维模型，仅供自我觉察参考，不替代专业心理咨询或医疗诊断。</p>
+        </div>
+    </div>
+</section>
+
+<!-- ==================== 历史记录区 ==================== -->
+<section id="screen4" class="screen relative px-4 py-12 z-40 hidden">
+    <div class="max-w-4xl mx-auto">
+        <div class="flex justify-between items-center mb-12">
+            <h2 class="text-3xl font-light">历史评估记录</h2>
+            <button id="back-to-results" class="text-gray-500 hover:text-black transition-all duration-300 text-sm">← 返回结果</button>
+        </div>
+
+        <!-- 趋势图 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">总分趋势图</h4>
+            <div class="bg-gray-100 rounded-lg p-6"><canvas id="history-chart" height="250"></canvas></div>
+        </div>
+
+        <!-- 维度趋势图 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">五维趋势对比</h4>
+            <div class="bg-gray-100 rounded-lg p-6"><canvas id="dim-history-chart" height="280"></canvas></div>
+        </div>
+
+        <!-- 记录列表 -->
+        <div class="mb-16">
+            <h4 class="text-xl font-light mb-6">评估记录列表</h4>
+            <div id="history-list" class="space-y-6">
+                <div class="bg-gray-100 rounded-lg p-6 text-center"><p class="text-gray-500">暂无历史记录</p></div>
+            </div>
+        </div>
+
+        <div class="text-center mb-12">
+            <button id="back-results-btn" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all duration-300 font-light">返回结果页</button>
+        </div>
+    </div>
+</section>
+
+<!-- 页脚 -->
+<footer class="bg-white py-12 px-4 border-t border-gray-200">
+    <div class="max-w-4xl mx-auto text-center">
+        <p class="text-gray-500 text-sm">© 2026 Mocici 精神健身 · 乐定安明爱身心状态自评问卷 v1.0</p>
+    </div>
+</footer>
+
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    /* ========== 常量与配置 ========== */
+    const DIM_KEYS = ['joy','stable','peace','clarity','love'];
+    const DIM_NAMES = ['乐','定','安','明','爱'];
+    const DIM_COLORS = ['#E6A817','#3B82F6','#10B981','#8B5CF6','#F43F5E'];
+    const TIME_LABELS = ['0 分钟','1–10 分钟','11–30 分钟','31–60 分钟','60 分钟以上'];
+    const STAGE_LABELS = ['零基础','入门（1 个月内）','进阶（1–6 个月）','资深（6 个月以上）','冥想老师/执行师'];
+    const LS_KEY = 'mocici-ldami-history';
+
+    /* ========== DOM 引用 ========== */
+    const screens = [
+        document.getElementById('screen1'),
+        document.getElementById('screen2'),
+        document.getElementById('screen3'),
+        document.getElementById('screen4')
+    ];
+
+    /* ========== 导航 ========== */
+    function showScreen(idx) {
+        screens.forEach((s, i) => { s.classList.toggle('hidden', i !== idx); });
+        screens[idx].scrollIntoView({ behavior: 'smooth' });
+    }
+
+    document.getElementById('start-btn').addEventListener('click', () => showScreen(1));
+    document.getElementById('back-to-form').addEventListener('click', () => showScreen(1));
+    document.getElementById('back-to-results').addEventListener('click', () => showScreen(2));
+    document.getElementById('back-results-btn').addEventListener('click', () => showScreen(2));
+    document.getElementById('restart-btn').addEventListener('click', () => {
+        document.getElementById('assessment-form').reset();
+        showScreen(1);
+    });
+
+    /* ========== 进度条 ========== */
+    window.addEventListener('scroll', () => {
+        const pct = (window.scrollY / (document.documentElement.scrollHeight - window.innerHeight)) * 100;
+        document.getElementById('progress-bar').style.width = pct + '%';
+    });
+
+    /* ========== 辅助函数 ========== */
+    function rv(name) {
+        const el = document.querySelector(`input[name="${name}"]:checked`);
+        return el ? parseInt(el.value) : null;
+    }
+
+    /* ========== 维度详细建议数据 ========== */
+    function getDimTip(dim, score) {
+        const tips = {
+            joy: [
+                { min:13, label:'喜悦充盈', desc:'你容易在日常中找到满足和轻松。保持觉察，注意不执着于"必须开心"。' },
+                { min:9,  label:'时有喜悦', desc:'大部分时候能感受到快乐，但容易被忙碌冲淡。每天留 5 分钟"什么都不做"的时间。' },
+                { min:5,  label:'喜悦稀薄', desc:'最近笑不太出来，生活像在执行任务。试试「胜利冥想」晨间版，唤醒活力。' },
+                { min:0,  label:'喜悦枯竭', desc:'持续感到空虚或无趣。建议先排查压力源，可以做「关怀疗愈冥想」给自己温柔。' }
+            ],
+            stable: [
+                { min:13, label:'定力稳固', desc:'注意力稳定，情绪不易被外界扰动。继续保持动中修定的习惯。' },
+                { min:9,  label:'定力尚可', desc:'大部分时候能专注，但遇压力会散乱。日常增加「动中禅」练习。' },
+                { min:5,  label:'定力不足', desc:'脑子经常停不下来。从每天 10 分钟「安定冥想」开始，以呼吸为所缘境。' },
+                { min:0,  label:'定力薄弱', desc:'严重失眠或思绪纷飞。先用「晚安冥想」帮助身体放松，先养定力。' }
+            ],
+            peace: [
+                { min:13, label:'内心安定', desc:'有安全感，能容纳不确定性。继续保持，注意"安而不住"——安定不等于停滞。' },
+                { min:9,  label:'基本安定', desc:'大体松弛，但特定场景触发紧张。找到"触发按钮"，用「梦幻观」重新看它。' },
+                { min:5,  label:'不安较多', desc:'经常紧绷、担忧。每天做一次身体扫描冥想，从身体层面先松下来。' },
+                { min:0,  label:'高度不安', desc:'持续焦虑，身体多处紧绷。优先做「释放委屈冥想」，安全释放压抑情绪。' }
+            ],
+            clarity: [
+                { min:13, label:'觉察敏锐', desc:'能清楚看到自己的念头和模式。继续保持「观苦四问」的日常反思。' },
+                { min:9,  label:'有觉察力', desc:'事后能看清，但当下还容易被带进去。练习情绪升起时「停一秒」。' },
+                { min:5,  label:'觉察模糊', desc:'经常不知道自己为什么烦躁。每天睡前 3 分钟回顾：今天什么时候波动最大？' },
+                { min:0,  label:'觉察薄弱', desc:'经常被情绪裹挟。从「芳香呼吸冥想」开始，培养最基本的当下觉察。' }
+            ],
+            love: [
+                { min:13, label:'慈悲充盈', desc:'对自己和他人都有善意和空间。注意爱不是无边界迁就，该有边界依然要有。' },
+                { min:9,  label:'爱心常在', desc:'大部分时候善意待人，但偶尔苛责。觉察你对自己说的话——对好朋友说会不会太重？' },
+                { min:5,  label:'爱有阻滞', desc:'容易评判、苛责。试试每天对一个人（包括自己）在心里说一句"你辛苦了"。' },
+                { min:0,  label:'爱有枯竭', desc:'对自己或他人充满不满。先回到「关怀疗愈冥想」给自己充电。' }
+            ]
+        };
+        for (const t of tips[dim]) { if (score >= t.min) return t; }
+        return tips[dim][tips[dim].length - 1];
+    }
+
+    /* ========== 等级判定 ========== */
+    function getLevel(total) {
+        if (total >= 64) return { name: '充盈态', desc: '身心状态良好，五种品质已在生活中扎根，继续保持日常修持即可。建议探索更深层的意识状态，保持谦逊与持续学习的态度。' };
+        if (total >= 48) return { name: '成长态', desc: '有不错的基础，部分维度正在开花。留意得分最低的维度，集中练习对应方法，比"什么都练一点"更有效。' };
+        if (total >= 32) return { name: '调整态', desc: '身心有一定负荷，需要重视当下状态。建议有意识安排调整时间，优先处理最紧迫的一两个维度。' };
+        if (total >= 16) return { name: '承压态', desc: '当前承受较大压力。建议暂停高强度事务，认真做一套「晚安冥想」或「释放委屈冥想」，必要时寻求支持。' };
+        return { name: '求助态', desc: '身心发出较强信号。建议暂停高强度事务，认真考虑与信任的人聊聊或寻求专业帮助。你不是一个人。' };
+    }
+
+    /* ========== 表单提交 ========== */
+    let currentAssessment = null;
+    document.getElementById('assessment-form').addEventListener('submit', function(e) {
+        e.preventDefault();
+        const joy     = rv('q1')+rv('q2')+rv('q3')+rv('q4');
+        const stable  = rv('q5')+rv('q6')+rv('q7')+rv('q8');
+        const peace   = rv('q9')+rv('q10')+rv('q11')+rv('q12');
+        const clarity = rv('q13')+rv('q14')+rv('q15')+rv('q16');
+        const love    = rv('q17')+rv('q18')+rv('q19')+rv('q20');
+        const scores = { joy, stable, peace, clarity, love };
+        const total = joy + stable + peace + clarity + love;
+        const level = getLevel(total);
+        const timeIdx = rv('info_time');
+        const stageIdx = rv('info_stage');
+
+        currentAssessment = {
+            date: new Date().toISOString(),
+            scores, total,
+            level: level.name,
+            timeLabel: TIME_LABELS[timeIdx] || '',
+            stageLabel: STAGE_LABELS[stageIdx] || ''
+        };
+
+        /* 填充结果 */
+        document.getElementById('total-score').textContent = total;
+        document.getElementById('level-badge').textContent = level.name;
+        document.getElementById('level-description').innerHTML = `<p class="text-gray-600 leading-relaxed">${level.desc}</p>`;
+
+        DIM_KEYS.forEach((key, i) => {
+            const s = scores[key];
+            document.getElementById('score-' + key).textContent = s + ' / 16';
+            document.getElementById('bar-' + key).style.width = (s / 16 * 100) + '%';
+            const tip = getDimTip(key, s);
+            document.getElementById('tip-' + key).textContent = tip.label + '：' + tip.desc;
+        });
+
+        document.getElementById('res-time').textContent = currentAssessment.timeLabel;
+        document.getElementById('res-stage').textContent = currentAssessment.stageLabel;
+
+        renderRadar(scores);
+        renderDimDetails(scores);
+        showScreen(2);
+    });
+
+    /* ========== 维度详细卡片 ========== */
+    function renderDimDetails(scores) {
+        const container = document.getElementById('dim-details');
+        container.innerHTML = '';
+        const bgMap = { joy:'bg-joy-light', stable:'bg-stable-light', peace:'bg-peace-light', clarity:'bg-clarity-light', love:'bg-love-light' };
+        const emojiMap = { joy:'🟡', stable:'🔵', peace:'🟢', clarity:'🟣', love:'🔴' };
+        DIM_KEYS.forEach((key, i) => {
+            const s = scores[key];
+            const tip = getDimTip(key, s);
+            const pct = Math.round(s / 16 * 100);
+            container.innerHTML += `
+                <div class="${bgMap[key]} rounded-lg p-5">
+                    <div class="flex items-center justify-between mb-2">
+                        <span class="font-medium">${emojiMap[key]} ${DIM_NAMES[i]}</span>
+                        <span class="text-sm text-gray-500">${s}/16 (${pct}%)</span>
+                    </div>
+                    <p class="text-sm font-medium text-gray-800 mb-1">${tip.label}</p>
+                    <p class="text-sm text-gray-600 leading-relaxed">${tip.desc}</p>
+                </div>`;
+        });
+    }
+
+    /* ========== 雷达图 ========== */
+    let radarInstance = null;
+    function renderRadar(scores) {
+        const ctx = document.getElementById('radar-chart').getContext('2d');
+        if (radarInstance) radarInstance.destroy();
+        radarInstance = new Chart(ctx, {
+            type: 'radar',
+            data: {
+                labels: DIM_NAMES,
+                datasets: [{
+                    label: '五维得分',
+                    data: DIM_KEYS.map(k => scores[k]),
+                    backgroundColor: 'rgba(0,0,0,0.05)',
+                    borderColor: 'rgba(0,0,0,0.7)',
+                    borderWidth: 1.5,
+                    pointBackgroundColor: DIM_COLORS,
+                    pointBorderColor: '#fff',
+                    pointRadius: 5,
+                    pointHoverRadius: 7
+                }]
+            },
+            options: {
+                scales: { r: {
+                    angleLines: { color: 'rgba(0,0,0,0.08)' },
+                    grid: { color: 'rgba(0,0,0,0.08)' },
+                    pointLabels: { font: { size: 14, weight: 'normal' }, color: '#333' },
+                    suggestedMin: 0, suggestedMax: 16,
+                    ticks: { stepSize: 4, backdropColor: 'transparent', color: 'rgba(0,0,0,0.4)' }
+                }},
+                plugins: {
+                    legend: { display: false },
+                    tooltip: {
+                        callbacks: { label: ctx => `得分: ${ctx.raw}/16` }
+                    }
+                }
+            }
+        });
+    }
+
+    /* ========== localStorage 持久化 ========== */
+    let history = JSON.parse(localStorage.getItem(LS_KEY) || '[]');
+
+    document.getElementById('save-result').addEventListener('click', function() {
+        if (!currentAssessment) return;
+        history.push({ ...currentAssessment });
+        localStorage.setItem(LS_KEY, JSON.stringify(history));
+        alert('评估结果已成功保存！');
+    });
+
+    document.getElementById('view-history').addEventListener('click', () => { renderHistory(); showScreen(3); });
+
+    /* ========== 历史渲染 ========== */
+    let totalChartInstance = null;
+    let dimChartInstance = null;
+
+    function renderHistory() {
+        const list = document.getElementById('history-list');
+        list.innerHTML = '';
+        if (history.length === 0) {
+            list.innerHTML = '<div class="bg-gray-100 rounded-lg p-6 text-center"><p class="text-gray-500">暂无历史记录</p></div>';
+            return;
+        }
+        const sorted = [...history].sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        /* 总分趋势图 */
+        const dates = sorted.map(h => new Date(h.date).toLocaleDateString('zh-CN')).reverse();
+        const totals = sorted.map(h => h.total).reverse();
+        const ctx1 = document.getElementById('history-chart').getContext('2d');
+        if (totalChartInstance) totalChartInstance.destroy();
+        totalChartInstance = new Chart(ctx1, {
+            type: 'line',
+            data: {
+                labels: dates,
+                datasets: [{ label: '总分', data: totals, borderColor: '#000', backgroundColor: 'rgba(0,0,0,0.05)', tension: 0.3, pointRadius: 4, pointHoverRadius: 6 }]
+            },
+            options: {
+                scales: {
+                    y: { beginAtZero: true, max: 80, grid: { color: 'rgba(0,0,0,0.05)' } },
+                    x: { grid: { display: false } }
+                },
+                plugins: { legend: { display: false }, tooltip: { callbacks: { label: c => `总分: ${c.raw}/80` } } }
+            }
+        });
+
+        /* 五维趋势图 */
+        const ctx2 = document.getElementById('dim-history-chart').getContext('2d');
+        if (dimChartInstance) dimChartInstance.destroy();
+        const revDates = [...dates];
+        dimChartInstance = new Chart(ctx2, {
+            type: 'line',
+            data: {
+                labels: revDates,
+                datasets: DIM_KEYS.map((key, i) => ({
+                    label: DIM_NAMES[i],
+                    data: sorted.map(h => h.scores[key]).reverse(),
+                    borderColor: DIM_COLORS[i],
+                    backgroundColor: DIM_COLORS[i] + '20',
+                    tension: 0.3, pointRadius: 3, borderWidth: 2
+                }))
+            },
+            options: {
+                scales: {
+                    y: { beginAtZero: true, max: 16, grid: { color: 'rgba(0,0,0,0.05)' } },
+                    x: { grid: { display: false } }
+                },
+                plugins: { legend: { position: 'bottom' } }
+            }
+        });
+
+        /* 记录列表 */
+        sorted.forEach((h, idx) => {
+            const d = new Date(h.date).toLocaleString('zh-CN');
+            const item = document.createElement('div');
+            item.className = 'bg-gray-100 rounded-lg p-6 card-hover cursor-pointer';
+            item.innerHTML = `
+                <div class="flex justify-between items-center mb-3">
+                    <span class="font-light text-lg">${d}</span>
+                    <span class="px-3 py-1 border border-black text-black text-sm font-light">${h.level}</span>
+                </div>
+                <div class="flex justify-between mb-4 text-sm text-gray-600">
+                    <span>总分: ${h.total}/80</span><span>冥想时长: ${h.timeLabel}</span>
+                </div>
+                <div class="grid grid-cols-5 gap-2 text-xs text-center">
+                    ${DIM_KEYS.map((k,i) => `<div><p class="text-gray-500">${DIM_NAMES[i]}</p><p class="font-medium">${h.scores[k]}/16</p></div>`).join('')}
+                </div>`;
+            item.addEventListener('click', () => {
+                currentAssessment = h;
+                document.getElementById('total-score').textContent = h.total;
+                document.getElementById('level-badge').textContent = h.level;
+                document.getElementById('level-description').innerHTML = `<p class="text-gray-600 leading-relaxed">${getLevel(h.total).desc}</p>`;
+                DIM_KEYS.forEach(key => {
+                    const s = h.scores[key];
+                    document.getElementById('score-' + key).textContent = s + ' / 16';
+                    document.getElementById('bar-' + key).style.width = (s / 16 * 100) + '%';
+                    const tip = getDimTip(key, s);
+                    document.getElementById('tip-' + key).textContent = tip.label + '：' + tip.desc;
+                });
+                document.getElementById('res-time').textContent = h.timeLabel;
+                document.getElementById('res-stage').textContent = h.stageLabel;
+                renderRadar(h.scores);
+                renderDimDetails(h.scores);
+                showScreen(2);
+            });
+            list.appendChild(item);
+        });
+    }
+});
+</script>
+</body>
+</html>

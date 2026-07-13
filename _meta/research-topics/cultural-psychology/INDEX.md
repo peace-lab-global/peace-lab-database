@@ -5,11 +5,11 @@ category: "research"
 tags: ["cultural-psychology", "cross-cultural", "healing-paradigms", "cultural-mind", "wisdom-traditions"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/"
+  - path: "01-智慧传统/哲学/"
     relation: "东西方哲学与心智模型"
-  - path: "02-Mind-Psychology/psychology/social/"
+  - path: "02-心智心理/心理学/社会心理/"
     relation: "社会与文化心理学"
-  - path: "04-Humanities-Arts/"
+  - path: "04-人文艺术/"
     relation: "人文艺术与疗愈"
 ---
 

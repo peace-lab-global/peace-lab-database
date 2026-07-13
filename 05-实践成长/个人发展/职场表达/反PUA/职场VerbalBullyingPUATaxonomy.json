@@ -1,0 +1,308 @@
+{
+  "database_name": "职场语言霸凌与PUA专业知识数据库",
+  "version": "1.0.0",
+  "scope": "05-Praxis-Growth/personal-development/workplace-expression",
+  "dimensions": {
+    "discipline": [
+      "psychology",
+      "sociology",
+      "methodology",
+      "case_library",
+      "legal_references",
+      "intervention_recovery"
+    ],
+    "behavior_patterns": [
+      "贬低",
+      "羞辱",
+      "煤气灯",
+      "冷暴力",
+      "忽冷忽热",
+      "比较打压",
+      "甩锅",
+      "孤立",
+      "报复",
+      "逼签",
+      "模糊标准"
+    ],
+    "power_relations": [
+      "上对下",
+      "同级围猎",
+      "跨部门施压",
+      "HR失灵",
+      "组织默许"
+    ],
+    "intervention_stages": [
+      "识别",
+      "取证",
+      "对话",
+      "升级",
+      "维权",
+      "康复"
+    ],
+    "risk_levels": [
+      "关注",
+      "中风险",
+      "高风险",
+      "紧急干预"
+    ]
+  },
+  "documents": [
+    {
+      "id": "db-index",
+      "title": "职场语言霸凌与PUA专业知识数据库",
+      "file": "Workplace_Verbal_Bullying_PUA_Knowledge_Database.md",
+      "dimension": "overview"
+    },
+    {
+      "id": "psy-001",
+      "title": "职场语言霸凌与PUA：心理学机制分析",
+      "file": "Workplace_Verbal_Bullying_PUA_Psychology.md",
+      "dimension": "psychology"
+    },
+    {
+      "id": "soc-001",
+      "title": "职场语言霸凌与PUA：社会学机制分析",
+      "file": "Workplace_Verbal_Bullying_PUA_Sociology.md",
+      "dimension": "sociology"
+    },
+    {
+      "id": "met-001",
+      "title": "职场语言霸凌与PUA：应对策略与工作方法论",
+      "file": "Workplace_Verbal_Bullying_PUA_Response_Methodology.md",
+      "dimension": "methodology"
+    },
+    {
+      "id": "case-001",
+      "title": "职场语言霸凌与PUA：案例库与行为模式分析",
+      "file": "Workplace_Verbal_Bullying_PUA_Case_Library.md",
+      "dimension": "case_library"
+    },
+    {
+      "id": "law-001",
+      "title": "职场语言霸凌与PUA：法律法规汇编",
+      "file": "Workplace_Verbal_Bullying_PUA_Legal_References.md",
+      "dimension": "legal_references"
+    },
+    {
+      "id": "int-001",
+      "title": "职场语言霸凌与PUA：干预方案与心理康复指南",
+      "file": "Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md",
+      "dimension": "intervention_recovery"
+    }
+  ],
+  "entries": [
+    {
+      "id": "psy-gaslighting",
+      "title": "煤气灯效应",
+      "alias": "gaslighting",
+      "dimension": "psychology",
+      "tags": ["煤气灯", "认知操控", "现实感削弱"],
+      "related_cases": ["case-a", "case-b"],
+      "related_laws": ["civil-code"],
+      "related_methods": ["书面化", "第三方校准"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Psychology.md", "Workplace_Verbal_Bullying_PUA_Case_Library.md"],
+      "keywords": ["否认说过", "你太敏感", "记忆扭曲"]
+    },
+    {
+      "id": "psy-intermittent-reinforcement",
+      "title": "间歇性强化",
+      "alias": "intermittent reinforcement",
+      "dimension": "psychology",
+      "tags": ["忽冷忽热", "关系控制", "认可依赖"],
+      "related_cases": ["case-c"],
+      "related_laws": [],
+      "related_methods": ["识别长期模式", "降低情绪依赖"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Psychology.md", "Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md"],
+      "keywords": ["时夸时踩", "最看重你", "突然否定"]
+    },
+    {
+      "id": "soc-organizational-silence",
+      "title": "组织沉默",
+      "alias": "organizational silence",
+      "dimension": "sociology",
+      "tags": ["组织默许", "旁观者沉默", "申诉失灵"],
+      "related_cases": ["case-a", "case-d", "case-h"],
+      "related_laws": ["internal-policy"],
+      "related_methods": ["引入见证", "正式渠道升级"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Sociology.md", "Workplace_Exception_Case_Management_System_Design.md"],
+      "keywords": ["不敢作证", "明星经理保护", "投诉无效"]
+    },
+    {
+      "id": "soc-reputation-control",
+      "title": "声誉控制",
+      "alias": "reputation control",
+      "dimension": "sociology",
+      "tags": ["标签化", "声誉压制", "圈层排斥"],
+      "related_cases": ["case-g", "case-h"],
+      "related_laws": ["civil-code"],
+      "related_methods": ["书面留痕", "控制离职叙事"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Sociology.md", "Workplace_Background_Check_Risk_Control_Guide.md"],
+      "keywords": ["不好合作", "不抗压", "简历不好看"]
+    },
+    {
+      "id": "met-boundary-scripts",
+      "title": "边界表达方法",
+      "alias": "boundary scripts",
+      "dimension": "methodology",
+      "tags": ["边界", "低冲突表达", "任务化回应"],
+      "related_cases": ["case-a", "case-b", "case-c"],
+      "related_laws": [],
+      "related_methods": ["聚焦事实", "聚焦任务", "会后确认"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Response_Methodology.md", "Workplace_High_Risk_Conversation_Scripts.md"],
+      "keywords": ["请明确标准", "聚焦事实", "会后同步"]
+    },
+    {
+      "id": "met-escalation-pack",
+      "title": "升级准备包",
+      "alias": "escalation pack",
+      "dimension": "methodology",
+      "tags": ["升级", "申诉", "证据链"],
+      "related_cases": ["case-d", "case-f", "case-g"],
+      "related_laws": ["labor-dispute-arbitration-law"],
+      "related_methods": ["时间线", "证据目录", "诉求表达"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Response_Methodology.md", "Workplace_Complaint_Email_and_Arbitration_Request_Templates.md"],
+      "keywords": ["时间线", "诉求", "代表性事件"]
+    },
+    {
+      "id": "case-a",
+      "title": "周会公开羞辱建立权威",
+      "alias": "public humiliation in weekly meeting",
+      "dimension": "case_library",
+      "tags": ["会议现场", "公开羞辱", "群体规训"],
+      "related_cases": [],
+      "related_laws": ["civil-code", "internal-policy"],
+      "related_methods": ["现场降温", "会后确认"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_High_Pressure_Meeting_Handbook.md"],
+      "keywords": ["周会", "公开批评", "当众贬低"]
+    },
+    {
+      "id": "case-b",
+      "title": "私下长期否定导致自我怀疑",
+      "alias": "private devaluation and self doubt",
+      "dimension": "case_library",
+      "tags": ["一对一谈话", "人格化评价", "长期贬低"],
+      "related_cases": [],
+      "related_laws": ["civil-code", "internal-policy"],
+      "related_methods": ["要求具体标准", "任务对照表", "第三方见证"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Verbal_Bullying_PUA_Psychology.md"],
+      "keywords": ["人不行", "懒得教你", "自我怀疑"]
+    },
+    {
+      "id": "case-c",
+      "title": "忽冷忽热式认可控制",
+      "alias": "intermittent praise and devaluation",
+      "dimension": "case_library",
+      "tags": ["忽冷忽热", "认可依赖", "情绪操纵"],
+      "related_cases": [],
+      "related_laws": [],
+      "related_methods": ["识别长期模式", "降低情绪依赖"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Verbal_Bullying_PUA_Psychology.md"],
+      "keywords": ["时夸时踩", "最看重你", "关系控制"]
+    },
+    {
+      "id": "case-d",
+      "title": "申诉后遭遇报复性低绩效",
+      "alias": "retaliatory low performance after complaint",
+      "dimension": "case_library",
+      "tags": ["报复", "低绩效", "申诉后反噬"],
+      "related_cases": [],
+      "related_laws": ["labor-contract-law", "labor-dispute-arbitration-law"],
+      "related_methods": ["绩效复核", "固定时间关联"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_PIP_Response_Guide.md"],
+      "keywords": ["投诉后", "低绩效", "奖金取消"]
+    },
+    {
+      "id": "case-e",
+      "title": "孕产节点下的语言压迫与边缘化",
+      "alias": "pregnancy related verbal discrimination",
+      "dimension": "case_library",
+      "tags": ["孕产歧视", "返岗", "机会剥夺"],
+      "related_cases": [],
+      "related_laws": ["women-rights-law", "female-worker-protection"],
+      "related_methods": ["差别对待对照", "返岗前后对比"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Verbal_Bullying_PUA_Legal_References.md"],
+      "keywords": ["怀孕", "产假", "返岗", "边缘化"]
+    },
+    {
+      "id": "case-f",
+      "title": "违法调岗被包装成给你新机会",
+      "alias": "illegal job transfer framed as opportunity",
+      "dimension": "case_library",
+      "tags": ["违法调岗", "角色剥离", "柔性施压"],
+      "related_cases": [],
+      "related_laws": ["labor-contract-law"],
+      "related_methods": ["区分合理调配与实质变更", "不轻易口头同意"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Verbal_Bullying_PUA_Legal_References.md"],
+      "keywords": ["调岗", "新机会", "不顾大局"]
+    },
+    {
+      "id": "case-g",
+      "title": "劝退协商中的软性恐吓",
+      "alias": "soft coercion in forced resignation negotiation",
+      "dimension": "case_library",
+      "tags": ["劝退", "软性威胁", "逼签"],
+      "related_cases": [],
+      "related_laws": ["labor-contract-law", "civil-code"],
+      "related_methods": ["申请冷静期", "书面确认", "咨询专业支持"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Layoff_and_Exit_Negotiation_Guide.md"],
+      "keywords": ["主动走更好看", "正式流程", "离职协议"]
+    },
+    {
+      "id": "case-h",
+      "title": "群体式冷暴力与信息隔离",
+      "alias": "collective cold violence and information isolation",
+      "dimension": "case_library",
+      "tags": ["群体排斥", "冷暴力", "信息隔离"],
+      "related_cases": [],
+      "related_laws": ["internal-policy"],
+      "related_methods": ["拉齐任务边界", "书面留痕", "高层协调"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Case_Library.md", "Workplace_Cross_Functional_Conflict_Resolution.md"],
+      "keywords": ["漏发信息", "拉群排除", "配合能力差"]
+    },
+    {
+      "id": "law-civil-code",
+      "title": "民法典人格权保护",
+      "alias": "civil code personality rights",
+      "dimension": "legal_references",
+      "tags": ["人格权", "侮辱", "名誉", "健康"],
+      "related_cases": ["case-a", "case-b", "case-g"],
+      "related_laws": ["civil-code"],
+      "related_methods": ["事实留痕", "损害后果记录"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Legal_References.md"],
+      "keywords": ["侮辱", "名誉权", "健康权"]
+    },
+    {
+      "id": "law-pregnancy-protection",
+      "title": "孕产保护与反歧视规则",
+      "alias": "pregnancy protection and anti discrimination",
+      "dimension": "legal_references",
+      "tags": ["孕产保护", "婚育歧视", "平等就业"],
+      "related_cases": ["case-e"],
+      "related_laws": ["women-rights-law", "employment-promotion-law", "female-worker-protection"],
+      "related_methods": ["对比样本", "机会变化取证"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Legal_References.md"],
+      "keywords": ["婚育", "怀孕", "产假", "平等就业"]
+    },
+    {
+      "id": "int-reality-restoration",
+      "title": "现实感修复",
+      "alias": "reality restoration",
+      "dimension": "intervention_recovery",
+      "tags": ["康复", "现实校准", "认知修复"],
+      "related_cases": ["case-b", "case-c"],
+      "related_laws": [],
+      "related_methods": ["事件日志", "第三方校准", "事实分栏"],
+      "related_docs": ["Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md", "Workplace_Verbal_Bullying_PUA_Psychology.md"],
+      "keywords": ["自我怀疑", "现实感", "认知修复"]
+    }
+  ],
+  "law_aliases": {
+    "civil-code": "《中华人民共和国民法典》",
+    "labor-contract-law": "《中华人民共和国劳动合同法》",
+    "labor-dispute-arbitration-law": "《中华人民共和国劳动争议调解仲裁法》",
+    "employment-promotion-law": "《中华人民共和国就业促进法》",
+    "women-rights-law": "《中华人民共和国妇女权益保障法》",
+    "female-worker-protection": "《女职工劳动保护特别规定》",
+    "internal-policy": "公司内部行为准则、反骚扰/反歧视制度、绩效与申诉制度"
+  }
+}

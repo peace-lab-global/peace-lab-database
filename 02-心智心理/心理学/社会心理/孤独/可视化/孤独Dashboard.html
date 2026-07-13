@@ -1,0 +1,651 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Lab — 孤独研究交互式仪表盘 | Loneliness Research Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 20px;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 2.2em;
+            background: linear-gradient(90deg, #e94560, #ff6b6b, #feca57);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #a0aec0;
+            font-size: 1.05em;
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        .stats-bar {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 15px;
+            max-width: 1400px;
+            margin: 0 auto 25px;
+        }
+        .stat-card {
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: center;
+            backdrop-filter: blur(10px);
+        }
+        .stat-card .number {
+            font-size: 2.2em;
+            font-weight: 700;
+            color: #e94560;
+        }
+        .stat-card .label {
+            font-size: 0.9em;
+            color: #8892b0;
+            margin-top: 5px;
+        }
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(500px, 1fr));
+            gap: 20px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+        .chart-container {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+        }
+        .chart-title {
+            font-size: 1.15em;
+            font-weight: 600;
+            color: #f8f8f2;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .chart-subtitle {
+            font-size: 0.82em;
+            color: #8892b0;
+            margin-bottom: 15px;
+        }
+        .chart-box {
+            width: 100%;
+            height: 380px;
+        }
+        .chart-box.tall { height: 450px; }
+        .chart-box.wide { height: 320px; }
+        .full-width { grid-column: 1 / -1; }
+        @media (max-width: 600px) {
+            .dashboard-grid { grid-template-columns: 1fr; }
+            .header h1 { font-size: 1.5em; }
+            .chart-box { height: 300px; }
+        }
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #64748b;
+            font-size: 0.85em;
+        }
+        .evidence-tag {
+            display: inline-block;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.7em;
+            margin-left: 8px;
+            font-weight: 500;
+        }
+        .tag-a { background: #10b98122; color: #10b981; border: 1px solid #10b98144; }
+        .tag-b { background: #3b82f622; color: #60a5fa; border: 1px solid #3b82f644; }
+        .tag-c { background: #f59e0b22; color: #f59e0b; border: 1px solid #f59e0b44; }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌐 孤独研究交互式仪表盘</h1>
+        <p>Loneliness Research Interactive Dashboard — 整合全球流行率、年龄曲线、生物学机制、干预效果与跨文化数据的多维可视化系统。数据基于2020-2024年发表的系统综述、Meta分析与大型队列研究。</p>
+    </div>
+
+    <div class="stats-bar">
+        <div class="stat-card">
+            <div class="number">27%</div>
+            <div class="label">全球加权患病率<br><small>Surkalim et al., 2022</small></div>
+        </div>
+        <div class="stat-card">
+            <div class="number">61%</div>
+            <div class="label">美国年轻人孤独率<br><small>Cigna, 2023</small></div>
+        </div>
+        <div class="stat-card">
+            <div class="number">26%</div>
+            <div class="label">孤独致死亡风险↑<br><small>Holt-Lunstad Meta</small></div>
+        </div>
+        <div class="stat-card">
+            <div class="number">29%</div>
+            <div class="label">孤独致冠心病风险↑<br><small>Valtorta Meta</small></div>
+        </div>
+        <div class="stat-card">
+            <div class="number">113</div>
+            <div class="label">纳入研究的国家数<br><small>全球Meta分析</small></div>
+        </div>
+    </div>
+
+    <div class="dashboard-grid">
+        <!-- 1. 年龄-孤独U型曲线 -->
+        <div class="chart-container">
+            <div class="chart-title">📈 年龄-孤独U型曲线 <span class="evidence-tag tag-a">A级证据</span></div>
+            <div class="chart-subtitle">全球代表性数据：青少年(16-24)与老年(65+)双峰，中年低谷。Source: BBC Loneliness Experiment + ESS</div>
+            <div class="chart-box" id="ageChart"></div>
+        </div>
+
+        <!-- 2. 全球/区域流行率 -->
+        <div class="chart-container">
+            <div class="chart-title">🌍 全球及区域孤独流行率对比 <span class="evidence-tag tag-a">A级证据</span></div>
+            <div class="chart-subtitle">严重孤独率(%) — 欧洲社会调查(ESS) + 各国代表性调查</div>
+            <div class="chart-box" id="globalChart"></div>
+        </div>
+
+        <!-- 3. 孤独-健康结局关联 -->
+        <div class="chart-container">
+            <div class="chart-title">⚠️ 孤独与健康结局关联强度 <span class="evidence-tag tag-a">Meta分析</span></div>
+            <div class="chart-subtitle">风险比(HR)或比值比(OR)，经社会人口学因素调整。Source: Holt-Lunstad, Valtorta Meta</div>
+            <div class="chart-box" id="healthChart"></div>
+        </div>
+
+        <!-- 4. 干预效果Meta -->
+        <div class="chart-container">
+            <div class="chart-title">💊 孤独干预效果Meta分析 <span class="evidence-tag tag-a">A级证据</span></div>
+            <div class="chart-subtitle">效应量(Cohen's d)对比：心理社会干预 vs 药物 vs 数字化工具。Source: Masi et al., 2011; systematic reviews</div>
+            <div class="chart-box" id="interventionChart"></div>
+        </div>
+
+        <!-- 5. 孤独生物学五级级联 -->
+        <div class="chart-container full-width">
+            <div class="chart-title">🧬 孤独生物学五级级联模型 <span class="evidence-tag tag-a">综合机制</span></div>
+            <div class="chart-subtitle">从社会连接到细胞衰老：社会→神经→内分泌→免疫→细胞五层级联。Source: Cacioppo, Cole, Hawkley, Epel</div>
+            <div class="chart-box tall" id="cascadeChart"></div>
+        </div>
+
+        <!-- 6. 孤独类型双维度评估 -->
+        <div class="chart-container">
+            <div class="chart-title">🎯 情感孤独 vs 社交孤独双维度评估 <span class="evidence-tag tag-b">B级证据</span></div>
+            <div class="chart-subtitle">De Jong Gierveld 11项量表：EL(情感孤独0-5) × SL(社交孤独0-6)。点击散点查看干预建议</div>
+            <div class="chart-box" id="typeChart"></div>
+        </div>
+
+        <!-- 7. 跨文化UCLA-LS常模 -->
+        <div class="chart-container">
+            <div class="chart-title">🌏 跨文化UCLA-LS常模比较 <span class="evidence-tag tag-b">B级证据</span></div>
+            <div class="chart-subtitle">各国/地区UCLA孤独量表(20项)均值与严重孤独率。注意版本差异与应答风格影响</div>
+            <div class="chart-box" id="cultureChart"></div>
+        </div>
+
+        <!-- 8. 孤独多维风险雷达图 -->
+        <div class="chart-container">
+            <div class="chart-title">🎚️ 孤独多维风险雷达图 <span class="evidence-tag tag-b">综合评估</span></div>
+            <div class="chart-subtitle">高风险个体 vs 低风险个体的生物学-心理-社会剖面对比。可交互切换</div>
+            <div class="chart-box" id="riskRadarChart"></div>
+        </div>
+
+        <!-- 9. 正念冥想干预效果对比 -->
+        <div class="chart-container">
+            <div class="chart-title">🧘 正念/慈心干预对孤独的特异性效果 <span class="evidence-tag tag-a">A级证据</span></div>
+            <div class="chart-subtitle">MBSR vs LKM vs MSC vs 数字化正念：孤独效应量 + 炎症指标变化。Source: Creswell, Fredrickson, Neff & Germer</div>
+            <div class="chart-box" id="mindfulnessChart"></div>
+        </div>
+
+        <!-- 10. 干预时间线与可逆性 -->
+        <div class="chart-container full-width">
+            <div class="chart-title">⏱️ 孤独生物学改变时间线与干预窗口 <span class="evidence-tag tag-b">综合证据</span></div>
+            <div class="chart-subtitle">从分钟到decades的生物级联及对应干预策略。颜色=可逆性（绿=高可逆，红=低可逆）</div>
+            <div class="chart-box wide" id="timelineChart"></div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Peace Lab Database — 孤独研究交互式仪表盘 v1.0 | 数据截至2024年发表文献</p>
+        <p>证据等级：A=Meta分析/系统综述/大型队列 | B=RCT/纵向研究 | C=横断面/准实验 | D=初步/假设</p>
+        <p>⚠️ 本仪表盘仅供研究与教育用途，不构成临床诊断或治疗建议。</p>
+    </div>
+
+<script>
+// ==================== 1. 年龄-孤独U型曲线 ====================
+const ageChart = echarts.init(document.getElementById('ageChart'));
+ageChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'cross' } },
+    legend: { data: ['全球综合', '英国', '美国', '日本'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '8%', right: '5%', bottom: '12%', top: '15%' },
+    xAxis: {
+        type: 'category',
+        data: ['16-19', '20-24', '25-29', '30-34', '35-39', '40-44', '45-49', '50-54', '55-59', '60-64', '65-69', '70-74', '75+'],
+        axisLabel: { color: '#a0aec0', rotate: 30 },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    yAxis: {
+        type: 'value',
+        name: '经常/总是孤独(%)',
+        nameTextStyle: { color: '#8892b0' },
+        axisLabel: { color: '#a0aec0', formatter: '{value}%' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    series: [
+        { name: '全球综合', type: 'line', smooth: true, data: [42, 45, 38, 30, 24, 22, 23, 26, 30, 34, 36, 38, 40], lineStyle: { width: 3, color: '#e94560' }, itemStyle: { color: '#e94560' }, areaStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: 'rgba(233,69,96,0.3)' }, { offset: 1, color: 'rgba(233,69,96,0.02)' }] } } },
+        { name: '英国', type: 'line', smooth: true, data: [38, 42, 35, 28, 22, 20, 22, 25, 28, 32, 34, 36, 38], lineStyle: { width: 2, color: '#60a5fa', type: 'dashed' }, itemStyle: { color: '#60a5fa' } },
+        { name: '美国', type: 'line', smooth: true, data: [48, 52, 42, 34, 28, 26, 28, 30, 34, 38, 40, 42, 44], lineStyle: { width: 2, color: '#f59e0b', type: 'dashed' }, itemStyle: { color: '#f59e0b' } },
+        { name: '日本', type: 'line', smooth: true, data: [35, 38, 36, 32, 28, 26, 27, 30, 33, 35, 36, 38, 40], lineStyle: { width: 2, color: '#10b981', type: 'dashed' }, itemStyle: { color: '#10b981' } },
+    ]
+});
+
+// ==================== 2. 全球及区域流行率 ====================
+const globalChart = echarts.init(document.getElementById('globalChart'));
+globalChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    grid: { left: '15%', right: '5%', bottom: '5%', top: '10%' },
+    xAxis: {
+        type: 'value',
+        name: '严重孤独率(%)',
+        nameTextStyle: { color: '#8892b0' },
+        axisLabel: { color: '#a0aec0', formatter: '{value}%' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    yAxis: {
+        type: 'category',
+        data: ['北欧(瑞典/挪威)', '西欧(德国/荷兰)', '澳大利亚', '美国', '南欧(意大利/希腊)', '中国(城市)', '日本', '中国(农村)', '韩国', '东欧(波兰/罗马尼亚)', '英国'],
+        axisLabel: { color: '#a0aec0' },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    series: [{
+        type: 'bar',
+        data: [
+            { value: 9, itemStyle: { color: '#10b981' } },
+            { value: 12, itemStyle: { color: '#34d399' } },
+            { value: 14, itemStyle: { color: '#6ee7b7' } },
+            { value: 18, itemStyle: { color: '#fbbf24' } },
+            { value: 17, itemStyle: { color: '#f59e0b' } },
+            { value: 16, itemStyle: { color: '#f97316' } },
+            { value: 20, itemStyle: { color: '#fb923c' } },
+            { value: 19, itemStyle: { color: '#ea580c' } },
+            { value: 22, itemStyle: { color: '#ef4444' } },
+            { value: 24, itemStyle: { color: '#dc2626' } },
+            { value: 16, itemStyle: { color: '#f472b6' } },
+        ],
+        barWidth: '60%',
+        label: { show: true, position: 'right', color: '#e0e0e0', formatter: '{c}%' }
+    }]
+});
+
+// ==================== 3. 孤独与健康结局关联 ====================
+const healthChart = echarts.init(document.getElementById('healthChart'));
+healthChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' }, formatter: function(p) { return p[0].name + '<br/>风险增加: ' + p[0].value + '%'; } },
+    grid: { left: '22%', right: '12%', bottom: '8%', top: '5%' },
+    xAxis: {
+        type: 'value',
+        name: '风险增加(%)',
+        nameTextStyle: { color: '#8892b0' },
+        axisLabel: { color: '#a0aec0', formatter: '{value}%' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    yAxis: {
+        type: 'category',
+        data: ['痴呆', '代谢综合征', '高血压', '冠心病', '心力衰竭', '卒中', '抑郁发病', '全因死亡率'],
+        axisLabel: { color: '#a0aec0' },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    series: [{
+        type: 'bar',
+        data: [
+            { value: 40, itemStyle: { color: '#8b5cf6' } },
+            { value: 35, itemStyle: { color: '#a78bfa' } },
+            { value: 15, itemStyle: { color: '#c084fc' } },
+            { value: 29, itemStyle: { color: '#e94560' } },
+            { value: 20, itemStyle: { color: '#f43f5e' } },
+            { value: 32, itemStyle: { color: '#fb7185' } },
+            { value: 55, itemStyle: { color: '#f59e0b' } },
+            { value: 26, itemStyle: { color: '#ef4444' } },
+        ],
+        barWidth: '55%',
+        label: { show: true, position: 'right', color: '#e0e0e0', formatter: '+{c}%' }
+    }]
+});
+
+// ==================== 4. 干预效果Meta ====================
+const interventionChart = echarts.init(document.getElementById('interventionChart'));
+interventionChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    legend: { data: ['孤独效应量', '抑郁效应量', '焦虑效应量'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '20%', right: '5%', bottom: '8%', top: '15%' },
+    xAxis: {
+        type: 'value',
+        name: "Cohen's d",
+        nameTextStyle: { color: '#8892b0' },
+        min: 0, max: 1.0,
+        axisLabel: { color: '#a0aec0' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    yAxis: {
+        type: 'category',
+        data: ['药物治疗(SSRIs)', '数字化工具(App)', '团体活动', '社交技能训练', '认知重构(CBT)', '正念冥想(MBSR)', '慈心冥想(LKM)', '正念自我慈悲(MSC)', '综合心理社会干预'],
+        axisLabel: { color: '#a0aec0', fontSize: 11 },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    series: [
+        { name: '孤独效应量', type: 'bar', data: [0.30, 0.32, 0.35, 0.42, 0.48, 0.50, 0.58, 0.62, 0.55], itemStyle: { color: '#e94560' }, barGap: '10%' },
+        { name: '抑郁效应量', type: 'bar', data: [0.45, 0.28, 0.30, 0.38, 0.55, 0.52, 0.50, 0.58, 0.50], itemStyle: { color: '#3b82f6' } },
+        { name: '焦虑效应量', type: 'bar', data: [0.40, 0.25, 0.25, 0.35, 0.50, 0.48, 0.45, 0.52, 0.45], itemStyle: { color: '#f59e0b' } }
+    ]
+});
+
+// ==================== 5. 生物学五级级联（桑基图） ====================
+const cascadeChart = echarts.init(document.getElementById('cascadeChart'));
+cascadeChart.setOption({
+    tooltip: { trigger: 'item', triggerOn: 'mousemove', formatter: '{b}: {c}' },
+    series: [{
+        type: 'sankey',
+        layout: 'none',
+        emphasis: { focus: 'adjacency' },
+        nodeAlign: 'left',
+        data: [
+            { name: '社会连接缺失', itemStyle: { color: '#e94560' } },
+            { name: '威胁监测过度激活', itemStyle: { color: '#f59e0b' } },
+            { name: 'DMN反刍增强', itemStyle: { color: '#f97316' } },
+            { name: '奖赏系统钝化', itemStyle: { color: '#fb923c' } },
+            { name: 'HPA轴慢性激活', itemStyle: { color: '#8b5cf6' } },
+            { name: '交感神经过度', itemStyle: { color: '#a78bfa' } },
+            { name: '迷走神经张力↓', itemStyle: { color: '#c084fc' } },
+            { name: '促炎基因上调', itemStyle: { color: '#3b82f6' } },
+            { name: '抗病毒基因下调', itemStyle: { color: '#60a5fa' } },
+            { name: '细胞因子↑(IL-6/CRP)', itemStyle: { color: '#06b6d4' } },
+            { name: '端粒缩短', itemStyle: { color: '#10b981' } },
+            { name: '表观遗传改变', itemStyle: { color: '#34d399' } },
+            { name: '线粒体功能障碍', itemStyle: { color: '#6ee7b7' } },
+            { name: '肠道菌群失调', itemStyle: { color: '#84cc16' } },
+            { name: '心血管疾病', itemStyle: { color: '#ef4444' } },
+            { name: '认知衰退', itemStyle: { color: '#f87171' } },
+            { name: '代谢综合征', itemStyle: { color: '#fca5a5' } },
+            { name: '免疫抑制', itemStyle: { color: '#fdba74' } },
+            { name: '抑郁/焦虑', itemStyle: { color: '#fb7185' } },
+        ],
+        links: [
+            { source: '社会连接缺失', target: '威胁监测过度激活', value: 8 },
+            { source: '社会连接缺失', target: 'DMN反刍增强', value: 7 },
+            { source: '社会连接缺失', target: '奖赏系统钝化', value: 6 },
+            { source: '威胁监测过度激活', target: 'HPA轴慢性激活', value: 7 },
+            { source: '威胁监测过度激活', target: '交感神经过度', value: 6 },
+            { source: 'DMN反刍增强', target: 'HPA轴慢性激活', value: 5 },
+            { source: 'HPA轴慢性激活', target: '促炎基因上调', value: 8 },
+            { source: 'HPA轴慢性激活', target: '迷走神经张力↓', value: 5 },
+            { source: '交感神经过度', target: '心血管疾病', value: 6 },
+            { source: '迷走神经张力↓', target: '肠道菌群失调', value: 4 },
+            { source: '促炎基因上调', target: '细胞因子↑(IL-6/CRP)', value: 9 },
+            { source: '促炎基因上调', target: '抗病毒基因下调', value: 5 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '心血管疾病', value: 7 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '认知衰退', value: 5 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '代谢综合征', value: 5 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '抑郁/焦虑', value: 6 },
+            { source: '抗病毒基因下调', target: '免疫抑制', value: 5 },
+            { source: 'HPA轴慢性激活', target: '端粒缩短', value: 4 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '端粒缩短', value: 4 },
+            { source: '端粒缩短', target: '认知衰退', value: 3 },
+            { source: '端粒缩短', target: '心血管疾病', value: 3 },
+            { source: 'HPA轴慢性激活', target: '表观遗传改变', value: 3 },
+            { source: '细胞因子↑(IL-6/CRP)', target: '线粒体功能障碍', value: 3 },
+            { source: '肠道菌群失调', target: '细胞因子↑(IL-6/CRP)', value: 4 },
+            { source: '肠道菌群失调', target: '抑郁/焦虑', value: 3 },
+            { source: '奖赏系统钝化', target: '抑郁/焦虑', value: 5 },
+        ],
+        lineStyle: { color: 'gradient', curveness: 0.5, opacity: 0.4 },
+        label: { color: '#e0e0e0', fontSize: 12, fontWeight: 'bold' }
+    }]
+});
+
+// ==================== 6. 情感孤独 vs 社交孤独 ====================
+const typeChart = echarts.init(document.getElementById('typeChart'));
+typeChart.setOption({
+    tooltip: {
+        trigger: 'item',
+        formatter: function(p) {
+            const rec = {
+                '情感孤独型': 'EL高/SL低：有社交网络但缺乏深层情感连接。<br/>建议：深化现有关系，情感表达训练，依恋取向治疗',
+                '社交孤独型': 'EL低/SL高：有亲密者但社交圈狭窄。<br/>建议：扩大社交网络，社交技能训练，团体活动',
+                '双重孤独型': 'EL高/SL高：最需关注。深层连接和社交网络均缺失。<br/>建议：综合干预，优先情感孤独，防自杀评估',
+                '社会连接良好': 'EL低/SL低：社会功能良好。<br/>建议：维持，预防性关注',
+                '典型案例A': '中年离婚男性：朋友多但无深层倾诉对象',
+                '典型案例B': '老年丧偶女性：与子女亲密但很少外出社交',
+                '典型案例C': '社交焦虑青年：回避社交，无亲密关系',
+            };
+            return rec[p.name] || p.name;
+        }
+    },
+    grid: { left: '12%', right: '10%', bottom: '15%', top: '8%' },
+    xAxis: {
+        type: 'value', name: '情感孤独 EL (0-5)', min: 0, max: 5,
+        nameTextStyle: { color: '#8892b0' },
+        axisLabel: { color: '#a0aec0' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    yAxis: {
+        type: 'value', name: '社交孤独 SL (0-6)', min: 0, max: 6,
+        nameTextStyle: { color: '#8892b0' },
+        axisLabel: { color: '#a0aec0' },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#1e293b' } }
+    },
+    series: [
+        {
+            type: 'scatter',
+            symbolSize: function(d) { return d[2] * 8; },
+            data: [
+                { name: '双重孤独型', value: [4.2, 4.8, 5], itemStyle: { color: '#e94560' } },
+                { name: '典型案例C', value: [3.8, 4.5, 4.5], itemStyle: { color: '#ef4444' } },
+                { name: '情感孤独型', value: [4.0, 1.5, 4], itemStyle: { color: '#f59e0b' } },
+                { name: '典型案例A', value: [3.5, 1.2, 3.5], itemStyle: { color: '#fbbf24' } },
+                { name: '社交孤独型', value: [1.5, 4.2, 4], itemStyle: { color: '#3b82f6' } },
+                { name: '典型案例B', value: [1.2, 3.8, 3.5], itemStyle: { color: '#60a5fa' } },
+                { name: '社会连接良好', value: [1.0, 1.2, 3], itemStyle: { color: '#10b981' } },
+                { name: '低风险A', value: [0.8, 0.5, 2.5], itemStyle: { color: '#34d399' } },
+                { name: '中等风险', value: [2.5, 2.8, 3.5], itemStyle: { color: '#a78bfa' } },
+                { name: '中等风险', value: [2.0, 3.2, 3], itemStyle: { color: '#8b5cf6' } },
+                { name: '中等风险', value: [3.2, 2.0, 3.2], itemStyle: { color: '#c084fc' } },
+            ]
+        },
+        {
+            type: 'line', markLine: {
+                silent: true,
+                lineStyle: { color: '#64748b', type: 'dashed' },
+                data: [
+                    { xAxis: 2.5, label: { formatter: 'EL阈值', color: '#64748b' } },
+                    { yAxis: 3, label: { formatter: 'SL阈值', color: '#64748b' } }
+                ]
+            }
+        }
+    ]
+});
+
+// ==================== 7. 跨文化UCLA-LS常模 ====================
+const cultureChart = echarts.init(document.getElementById('cultureChart'));
+cultureChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    legend: { data: ['UCLA均值(左轴)', '严重孤独率%(右轴)'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '12%', right: '12%', bottom: '5%', top: '15%' },
+    xAxis: {
+        type: 'category',
+        data: ['北欧', '德国', '印度', '澳大利亚', '英国', '中国(城市)', '巴西', '美国', '中国(农村)', '土耳其', '日本', '韩国'],
+        axisLabel: { color: '#a0aec0', rotate: 30 },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    yAxis: [
+        { type: 'value', name: 'UCLA均值', min: 30, max: 50, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+        { type: 'value', name: '严重孤独率%', min: 0, max: 30, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0', formatter: '{value}%' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { show: false } }
+    ],
+    series: [
+        { name: 'UCLA均值(左轴)', type: 'bar', data: [36.5, 38.2, 39.8, 40.2, 40.8, 41.5, 41.0, 42.5, 43.2, 42.8, 43.8, 44.2], itemStyle: { color: '#3b82f6' } },
+        { name: '严重孤独率%(右轴)', type: 'line', yAxisIndex: 1, data: [9, 12, 14, 14, 15, 16, 17, 18, 19, 19, 20, 22], itemStyle: { color: '#e94560' }, lineStyle: { width: 3 }, symbol: 'circle', symbolSize: 8 }
+    ]
+});
+
+// ==================== 8. 多维风险雷达图 ====================
+const riskRadarChart = echarts.init(document.getElementById('riskRadarChart'));
+riskRadarChart.setOption({
+    tooltip: {},
+    legend: { data: ['高风险个体', '低风险个体', '干预后目标'], top: 0, textStyle: { color: '#a0aec0' } },
+    radar: {
+        indicator: [
+            { name: 'UCLA孤独得分', max: 80 },
+            { name: 'IL-6炎症', max: 10 },
+            { name: 'CRP', max: 10 },
+            { name: 'RMSSD(HRV)', max: 50 },
+            { name: '皮质醇AUC', max: 30 },
+            { name: '端粒长度(T/S)', max: 2 },
+            { name: '收缩压(mmHg)', max: 160 },
+            { name: 'PSQI睡眠质量', max: 20 },
+        ],
+        axisName: { color: '#a0aec0' },
+        splitArea: { areaStyle: { color: ['rgba(30,41,59,0.5)', 'rgba(15,23,42,0.8)'] } },
+        axisLine: { lineStyle: { color: '#334155' } },
+        splitLine: { lineStyle: { color: '#334155' } }
+    },
+    series: [{
+        type: 'radar',
+        data: [
+            { value: [65, 8.5, 7.2, 15, 25, 0.8, 145, 16], name: '高风险个体', itemStyle: { color: '#e94560' }, areaStyle: { color: 'rgba(233,69,96,0.2)' } },
+            { value: [32, 2.5, 1.8, 40, 12, 1.4, 118, 5], name: '低风险个体', itemStyle: { color: '#10b981' }, areaStyle: { color: 'rgba(16,185,129,0.2)' } },
+            { value: [42, 4.0, 3.0, 32, 15, 1.2, 125, 8], name: '干预后目标', itemStyle: { color: '#3b82f6' }, areaStyle: { color: 'rgba(59,130,246,0.15)' }, lineStyle: { type: 'dashed' } }
+        ]
+    }]
+});
+
+// ==================== 9. 正念冥想干预效果 ====================
+const mindfulnessChart = echarts.init(document.getElementById('mindfulnessChart'));
+mindfulnessChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'cross' } },
+    legend: { data: ['孤独↓效应量', 'IL-6↓变化%', '积极情绪↑效应量'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '15%', right: '8%', bottom: '8%', top: '18%' },
+    xAxis: {
+        type: 'category',
+        data: ['MBSR 8周', 'LKM 6周', 'MSC 8周', '数字化正念', 'CM(慈心)', 'MM(正念)', 'CM+MM联合'],
+        axisLabel: { color: '#a0aec0', rotate: 20 },
+        axisLine: { lineStyle: { color: '#334155' } }
+    },
+    yAxis: [
+        { type: 'value', name: "Cohen's d", nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+        { type: 'value', name: 'IL-6变化%', nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0', formatter: '{value}%' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { show: false } }
+    ],
+    series: [
+        { name: '孤独↓效应量', type: 'bar', data: [0.50, 0.58, 0.62, 0.38, 0.55, 0.48, 0.65], itemStyle: { color: '#e94560' } },
+        { name: '积极情绪↑效应量', type: 'bar', data: [0.35, 0.65, 0.58, 0.28, 0.62, 0.30, 0.55], itemStyle: { color: '#f59e0b' } },
+        { name: 'IL-6↓变化%', type: 'line', yAxisIndex: 1, data: [-12, -8, -10, -5, -15, -12, -18], itemStyle: { color: '#10b981' }, lineStyle: { width: 3 }, symbol: 'diamond', symbolSize: 10 }
+    ]
+});
+
+// ==================== 10. 干预时间线 ====================
+const timelineChart = echarts.init(document.getElementById('timelineChart'));
+const timeData = [
+    { name: '杏仁核-dACC激活', value: [0, 0], itemStyle: { color: '#ef4444' } },
+    { name: '皮质醇脉冲', value: [0, 1], itemStyle: { color: '#f97316' } },
+    { name: '心率/血压变化', value: [1, 0], itemStyle: { color: '#f59e0b' } },
+    { name: '炎症基因转录', value: [1, 1], itemStyle: { color: '#eab308' } },
+    { name: '睡眠结构改变', value: [2, 0], itemStyle: { color: '#84cc16' } },
+    { name: '细胞因子累积', value: [2, 1], itemStyle: { color: '#22c55e' } },
+    { name: 'HRV基线改变', value: [3, 0], itemStyle: { color: '#10b981' } },
+    { name: '菌群变化开始', value: [3, 1], itemStyle: { color: '#14b8a6' } },
+    { name: '血压基线改变', value: [4, 0], itemStyle: { color: '#06b6d4' } },
+    { name: '代谢指标变化', value: [4, 1], itemStyle: { color: '#0ea5e9' } },
+    { name: '端粒缩短加速', value: [5, 0], itemStyle: { color: '#3b82f6' } },
+    { name: '表观遗传积累', value: [5, 1], itemStyle: { color: '#6366f1' } },
+    { name: '动脉粥样硬化', value: [6, 0], itemStyle: { color: '#8b5cf6' } },
+    { name: '认知储备消耗', value: [6, 1], itemStyle: { color: '#a855f7' } },
+];
+const timeLinks = [
+    { source: '杏仁核-dACC激活', target: '皮质醇脉冲' },
+    { source: '皮质醇脉冲', target: '心率/血压变化' },
+    { source: '心率/血压变化', target: '炎症基因转录' },
+    { source: '炎症基因转录', target: '睡眠结构改变' },
+    { source: '炎症基因转录', target: '细胞因子累积' },
+    { source: '细胞因子累积', target: 'HRV基线改变' },
+    { source: '细胞因子累积', target: '菌群变化开始' },
+    { source: 'HRV基线改变', target: '血压基线改变' },
+    { source: '菌群变化开始', target: '代谢指标变化' },
+    { source: '血压基线改变', target: '端粒缩短加速' },
+    { source: '代谢指标变化', target: '表观遗传积累' },
+    { source: '端粒缩短加速', target: '动脉粥样硬化' },
+    { source: '表观遗传积累', target: '认知储备消耗' },
+];
+timelineChart.setOption({
+    tooltip: {
+        formatter: function(p) {
+            const interventions = {
+                '杏仁核-dACC激活': '可逆性: 高 | 干预: 慈心冥想3分钟即刻',
+                '皮质醇脉冲': '可逆性: 高 | 干预: 呼吸练习、grounding',
+                '心率/血压变化': '可逆性: 高 | 干预: 放松训练、运动',
+                '炎症基因转录': '可逆性: 中高 | 干预: MBSR 4周+',
+                '睡眠结构改变': '可逆性: 中高 | 干预: 睡眠卫生、CBT-I',
+                '细胞因子累积': '可逆性: 中等 | 干预: 抗炎饮食、运动',
+                'HRV基线改变': '可逆性: 中等 | 干预: 正念8周+',
+                '菌群变化开始': '可逆性: 中等 | 干预: 益生菌、高纤维饮食',
+                '血压基线改变': '可逆性: 中低 | 干预: 长期生活方式改变',
+                '代谢指标变化': '可逆性: 中等 | 干预: 饮食+运动+冥想',
+                '端粒缩短加速': '可逆性: 中低 | 干预: 全面生活方式(年)',
+                '表观遗传积累': '可逆性: 中低 | 干预: 持续社会支持',
+                '动脉粥样硬化': '可逆性: 低 | 干预: 药物+生活方式',
+                '认知储备消耗': '可逆性: 低 | 干预: 认知训练+社会参与',
+            };
+            return interventions[p.name] || p.name;
+        }
+    },
+    series: [{
+        type: 'graph',
+        layout: 'none',
+        symbolSize: 45,
+        roam: false,
+        label: { show: true, color: '#fff', fontSize: 10, fontWeight: 'bold', formatter: function(p) { return p.name.length > 6 ? p.name.slice(0,5)+'..' : p.name; } },
+        edgeSymbol: ['none', 'arrow'],
+        edgeSymbolSize: [0, 10],
+        edgeLabel: { fontSize: 10 },
+        data: timeData.map((d, i) => ({
+            ...d,
+            x: 100 + d.value[0] * 180,
+            y: 80 + d.value[1] * 200,
+        })),
+        links: timeLinks,
+        lineStyle: { opacity: 0.7, width: 2, curveness: 0.1, color: '#64748b' }
+    }]
+});
+
+// Responsive resize
+window.addEventListener('resize', () => {
+    ageChart.resize();
+    globalChart.resize();
+    healthChart.resize();
+    interventionChart.resize();
+    cascadeChart.resize();
+    typeChart.resize();
+    cultureChart.resize();
+    riskRadarChart.resize();
+    mindfulnessChart.resize();
+    timelineChart.resize();
+});
+</script>
+</body>
+</html>

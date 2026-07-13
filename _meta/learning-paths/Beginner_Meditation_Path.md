@@ -6,26 +6,26 @@
 
 ## 阶段一：理解基础（第1-2周）
 
-1. [冥想哲学认知论基础](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Philosophical_Foundations.md)
-2. [冥想基础与核心技术](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Core.md)
-3. [冥想脑科学基础](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Brain_Science_Foundations.md)
+1. [冥想哲学认知论基础](../../02-心智心理/冥想/基础/总览/冥想哲学基础.md)
+2. [冥想基础与核心技术](../../02-心智心理/冥想/基础/总览/冥想核心.md)
+3. [冥想脑科学基础](../../02-心智心理/冥想/基础/总览/冥想Brain科学基础.md)
 
 ## 阶段二：选择路径（第3-4周）
 
-4. [内观冥想 (Vipassana)](../../02-Mind-Psychology/meditation/traditions/buddhist/vipassana/Vipassana_Meditation.md)
-5. [佛教止观双运](../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
-6. [坛城冥想体系](../../02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Overview.md)
+4. [内观冥想 (Vipassana)](../../02-心智心理/冥想/传统/佛教/内观/观冥想.md)
+5. [佛教止观双运](../../01-智慧传统/宗教/佛教/冥想/佛教止观.md)
+6. [坛城冥想体系](../../02-心智心理/冥想/技术/坛城冥想/Mandala冥想总览.md)
 
 ## 阶段三：深化实践（第5-8周）
 
-7. [冥想心念管理方法论](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Mind_Management.md)
-8. [直接认知体系](../../02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/)
-9. [冥想纪录片指南](../../02-Mind-Psychology/meditation/foundations/documentary/Meditation_Documentary_Guide.md)
+7. [冥想心念管理方法论](../../02-心智心理/冥想/基础/总览/冥想心智管理.md)
+8. [直接认知体系](../../02-心智心理/冥想/传统/佛教/directrecognition/)
+9. [冥想纪录片指南](../../02-心智心理/冥想/基础/纪录片/冥想Documentary指南.md)
 
 ## 阶段四：安全与进阶
 
-10. [冥想安全指南](../../02-Mind-Psychology/meditation/clinical/safety/)
-11. [冥想执行师培训问答](../../02-Mind-Psychology/meditation/foundations/overview/Meditation_Practitioner_QA.md)
+10. [冥想安全指南](../../02-心智心理/冥想/临床/安全/)
+11. [冥想执行师培训问答](../../02-心智心理/冥想/基础/总览/冥想PractitionerQA.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

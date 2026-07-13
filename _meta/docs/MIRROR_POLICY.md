@@ -9,8 +9,8 @@
 **镜像副本**:在不同路径下存储的**完全相同或高度相似**的内容文件,通常用于让用户从多个入口都能访问到同一内容。
 
 **典型场景**:
-- 02-Mind-Psychology 中的心理学资源,在 06-Clinical-Topics 的临床主题目录下也有副本
-- 05-Praxis-Growth 中的实践指南,在 06-Clinical-Topics 的临床主题目录下也有副本
+- 02-心智心理 中的心理学资源,在 06-临床专题 的临床主题目录下也有副本
+- 05-实践成长 中的实践指南,在 06-临床专题 的临床主题目录下也有副本
 - 临床主题内部的资源,在多个相关临床主题目录中也有副本
 
 ---
@@ -30,12 +30,12 @@
 
 | 源 domain | 目标 domain | 镜像对数 | 比例 |
 |---|---|---|---|
-| **02-Mind-Psychology** | **06-Clinical-Topics** | **224** | 86.6% |
-| 06-Clinical-Topics | 06-Clinical-Topics(内部) | 26 | 10.1% |
-| 05-Praxis-Growth | 06-Clinical-Topics | 22 | 8.5% |
-| 03-Bio-Science | 06-Clinical-Topics | 3 | 1.2% |
-| 04-Humanities-Arts | 06-Clinical-Topics | 3 | 1.2% |
-| 02-Mind-Psychology | 02-Mind-Psychology(内部) | 2 | 0.8% |
+| **02-心智心理** | **06-临床专题** | **224** | 86.6% |
+| 06-临床专题 | 06-临床专题(内部) | 26 | 10.1% |
+| 05-实践成长 | 06-临床专题 | 22 | 8.5% |
+| 03-生命科学 | 06-临床专题 | 3 | 1.2% |
+| 04-人文艺术 | 06-临床专题 | 3 | 1.2% |
+| 02-心智心理 | 02-心智心理(内部) | 2 | 0.8% |
 
 ### 2.3 临床主题接收镜像详情
 
@@ -58,8 +58,8 @@
 
 **示例**:
 ```
-06-Clinical-Topics/depression/meditation/Meditation_Depression.md (源)
-06-Clinical-Topics/mbct/meditation/clinical-conditions/Meditation_Depression.md (镜像)
+06-临床专题/depression/meditation/Meditation_Depression.md (源)
+06-临床专题/mbct/meditation/clinical-conditions/Meditation_Depression.md (镜像)
 ```
 
 **特征**:同一 domain 内,服务于不同的"主题入口"
@@ -70,8 +70,8 @@
 
 **示例**:
 ```
-02-Mind-Psychology/psychology/clinical/Anti_Anxiety_Skills.md (源)
-06-Clinical-Topics/anxiety/psychology/self-regulation/anti-anxiety/Anti_Anxiety_Skills.md (镜像)
+02-心智心理/psychology/clinical/Anti_Anxiety_Skills.md (源)
+06-临床专题/anxiety/psychology/self-regulation/anti-anxiety/Anti_Anxiety_Skills.md (镜像)
 ```
 
 **特征**:服务于"从临床疾病角度查找心理学资源"的需求
@@ -122,7 +122,7 @@ last_updated: "2026-06-23"
 ---
 title: "Meditation for Depression | 冥想治疗抑郁 (镜像)"
 description: "..."
-mirror_of: "02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md"
+mirror_of: "02-心智心理/meditation/clinical/clinical-conditions/Meditation_Depression.md"
 status: "mirror"  # 标注为镜像
 last_updated: "2026-06-23"
 ---
@@ -130,7 +130,7 @@ last_updated: "2026-06-23"
 # Meditation for Depression | 冥想治疗抑郁
 
 > ⚠️ **本文档为镜像副本**
-> **权威版本**: [02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md](../../../../../02-Mind-Psychology/meditation/clinical/clinical-conditions/Meditation_Depression.md)
+> **权威版本**: [02-心智心理/meditation/clinical/clinical-conditions/Meditation_Depression.md](../../../../../02-心智心理/冥想/临床/临床病症/冥想抑郁.md)
 > 
 > 内容与权威版本完全相同。如需编辑,请修改权威版本。
 

@@ -20,17 +20,17 @@
 
 | tag | 数量 | 问题 |
 |---|---|---|
-| `anxiety` | **941** | 过细 — 应拆分为具体亚型 |
-| `brain` | **673** | 过宽 — 应限定为 neuroscience |
+| `焦虑` | **941** | 过细 — 应拆分为具体亚型 |
+| `脑科学` | **673** | 过宽 — 应限定为 neuroscience |
 | `cbt` | **513** | 合理但可补充 cbt-i, exposure-therapy 等子标签 |
 | `act` | **496** | 合理 |
 
 ### 1.2 中频合理 tags(50-500 次)
 
-`meditation`(247), `buddhism`(236), `healing`(224), `philosophy`(203),
-`literature`(404), `decision-making`(346), `depression`(331), `addiction`(329),
-`mindfulness`(306), `habits`(207), `music`(174), `mbsr`(166), `yoga`(155),
-`trauma`(122), `sleep`(117), `mbct`(99), `loneliness`(83), `cortisol`(83)
+`冥想`(247), `佛教`(236), `healing`(224), `哲学`(203),
+`文学`(404), `决策制定`(346), `抑郁`(331), `成瘾`(329),
+`正念`(306), `habits`(207), `音乐`(174), `mbsr`(166), `瑜伽`(155),
+`创伤`(122), `睡眠`(117), `正念认知`(99), `孤独`(83), `皮质醇`(83)
 
 ### 1.3 中文 tags
 
@@ -52,21 +52,21 @@
 | tag | 适用领域 |
 |---|---|
 | `healing` | 疗愈、整合、临床应用 |
-| `practice` | 实践、修习、行动 |
-| `philosophy` | 哲学、智慧、传统 |
-| `psychology` | 心理学、认知、情感 |
-| `neuroscience` | 神经科学、大脑、认知科学 |
-| `clinical` | 临床、诊断、治疗 |
-| `mindfulness` | 正念、觉察、冥想 |
-| `meditation` | 冥想、禅修、止观 |
+| `实践` | 实践、修习、行动 |
+| `哲学` | 哲学、智慧、传统 |
+| `心理学` | 心理学、认知、情感 |
+| `神经科学` | 神经科学、大脑、认知科学 |
+| `临床` | 临床、诊断、治疗 |
+| `正念` | 正念、觉察、冥想 |
+| `冥想` | 冥想、禅修、止观 |
 | `body` | 身体、运动、躯体 |
-| `arts` | 艺术、审美、疗愈 |
-| `literature` | 文学、阅读、叙事 |
-| `music` | 音乐、声音、疗愈 |
+| `艺术` | 艺术、审美、疗愈 |
+| `文学` | 文学、阅读、叙事 |
+| `音乐` | 音乐、声音、疗愈 |
 | `nature` | 自然、生态、可持续 |
-| `education` | 教育、学习、教学 |
+| `教育` | 教育、学习、教学 |
 | `business` | 商业、职业、管理 |
-| `social` | 社会、文化、关系 |
+| `社会心理` | 社会、文化、关系 |
 | `tradition` | 传统、古典、传承 |
 | `science` | 科学、研究、方法 |
 | `technology` | 技术、AI、数字 |
@@ -76,11 +76,11 @@
 **定义**:领域细分,每个文件 2-5 个。
 
 **示例**:
-- `cbt`, `act`, `dbt`, `mbct`(认知行为疗法族)
-- `depression`, `anxiety`, `trauma`, `addiction`(临床细分)
-- `buddhism`, `daoism`, `christianity`, `islam`(宗教传统)
-- `mbsr`, `vipassana`, `zazen`, `yoga-nidra`(冥想技法)
-- `tai-chi`, `qigong`, `asana`, `pranayama`(身体修习)
+- `cbt`, `act`, `dbt`, `正念认知`(认知行为疗法族)
+- `抑郁`, `焦虑`, `创伤`, `成瘾`(临床细分)
+- `佛教`, `道家ism`, `基督教`, `伊斯兰`(宗教传统)
+- `mbsr`, `内观`, `坐禅`, `瑜伽尼德拉`(冥想技法)
+- `太极拳`, `qigong`, `asana`, `pranayama`(身体修习)
 
 ### 2.3 底层 tags(L3: Specific Tags, 控制增长)
 
@@ -97,19 +97,19 @@
 
 ### 3.1 格式
 
-- ✅ **英文小写 + 连字符**:`cognitive-behavioral`, `post-traumatic-stress`
+- ✅ **英文小写 + 连字符**:`认知行为`, `post-traumatic-stress`
 - ❌ **下划线**:`cognitive_behavioral`(不推荐)
 - ❌ **驼峰**:`cognitiveBehavioral`(不推荐)
 - ❌ **空格**:在 YAML 数组中需引号,易出错
 
 ### 3.2 单数 vs 复数
 
-- ✅ **概念用单数**:`psychology`, `philosophy`, `meditation`
-- ✅ **可数集合用复数**:`emotions`, `techniques`, `symptoms`
+- ✅ **概念用单数**:`心理学`, `哲学`, `冥想`
+- ✅ **可数集合用复数**:`情绪`, `技术`, `symptoms`
 
 ### 3.3 缩写
 
-- ✅ **广泛认知的缩写**:`cbt`, `act`, `mbsr`, `mbct`, `pcl`, `gad`, `phq`
+- ✅ **广泛认知的缩写**:`cbt`, `act`, `mbsr`, `正念认知`, `pcl`, `广泛性焦虑`, `phq`
 - ❌ **自定义缩写**:`psy`(应为 psychology)
 - ⚠️ **首次使用**同时给出全称(`cbt`: cognitive-behavioral-therapy)
 
@@ -132,24 +132,24 @@
 
 ### 4.1 高频过载 tag 的子分类
 
-**`anxiety`(941)** 可考虑补充子标签:
-- `social-anxiety`(社交焦虑)
-- `generalized-anxiety`(广泛性焦虑,GAD)
-- `panic-disorder`(惊恐障碍)
-- `phobia`(恐惧症,已有 126)
-- `ocd`(强迫症)
+**`焦虑`(941)** 可考虑补充子标签:
+- `社会心理焦虑`(社交焦虑)
+- `综合ized-anxiety`(广泛性焦虑,GAD)
+- `panic障碍`(惊恐障碍)
+- `恐惧症`(恐惧症,已有 126)
+- `强迫症`(强迫症)
 - `ptsd`(创伤后应激)
 
-> 但注意:**不要从 `anxiety` 中移除**,而是**附加子标签**。`anxiety` 作为顶层 L2 标签仍合理。
+> 但注意:**不要从 `焦虑` 中移除**,而是**附加子标签**。`焦虑` 作为顶层 L2 标签仍合理。
 
-**`brain`(673)** 建议:
-- 大部分应该是 `neuroscience` 而非 `brain`
-- 评估后批量替换:`brain` → `neuroscience`
+**`脑科学`(673)** 建议:
+- 大部分应该是 `神经科学` 而非 `脑科学`
+- 评估后批量替换:`脑科学` → `神经科学`
 
 ### 4.2 中文 tag 处理
 
-**决策**:保留 `心理学`(167) 与对应英文 `psychology` 共存,但:
-- 新内容统一使用 `psychology`
+**决策**:保留 `心理学`(167) 与对应英文 `心理学` 共存,但:
+- 新内容统一使用 `心理学`
 - 中文 tag 仅作辅助,不强制
 - 长期目标:中文 tag 比例 < 5%
 
@@ -158,7 +158,7 @@
 每季度检查:
 - 频率 < 5 的 tag 候选合并
 - 合并方法:将低频 tag 重命名为相似的中频 tag
-- 例:`mindfulness-practice`(3 次) → `mindfulness`
+- 例:`正念-practice`(3 次) → `正念`
 
 ---
 

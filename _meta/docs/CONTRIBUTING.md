@@ -14,16 +14,16 @@ intent_queries:
   - "贡献指南的方法与实践"
 trigger_keywords: ["贡献指南", "cbt", "sexuality"]
 cross_refs:
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/Zhuangzi.md"
-    relation: "anxiety/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/east-asian-philosophy/overview/Philosophy_Eastern_Classical_Confucianism.md"
-    relation: "anxiety/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/vedanta/Bhagavad_Gita_Study.md"
-    relation: "anxiety/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/20th-century/analytic/Buddhist_Perspective_Reviews.md"
-    relation: "anxiety/meditation/sexuality"
-  - path: "01-Wisdom-Traditions/philosophy/western-philosophy/ancient/classical/Epicurus.md"
-    relation: "anxiety/meditation/sexuality"
+  - path: "01-智慧传统/哲学/东亚哲学/中国/道家/Zhuangzi.md"
+    relation: "焦虑/冥想/性学"
+  - path: "01-智慧传统/哲学/东亚哲学/总览/Philosophy_Eastern_Classical_Confucianism.md"
+    relation: "焦虑/冥想/性学"
+  - path: "01-智慧传统/哲学/南亚/印度/吠檀多/Bhagavad_Gita_Study.md"
+    relation: "焦虑/冥想/性学"
+  - path: "01-智慧传统/哲学/西方哲学/二十世纪/分析哲学/Buddhist_Perspective_Reviews.md"
+    relation: "焦虑/冥想/性学"
+  - path: "01-智慧传统/哲学/西方哲学/古代/古典/Epicurus.md"
+    relation: "焦虑/冥想/性学"
 
 ---
 # 贡献指南 (Contributing Guide)
@@ -36,16 +36,16 @@ cross_refs:
 
 ### 层级原则
 
-- **L1（支柱层）**: `01-Wisdom-Traditions/` ~ `05-Praxis-Growth/` — 不可新增
-- **L2（领域层）**: 如 `psychology/`, `meditation/` — 需讨论后新增
-- **L3（分类层）**: 如 `clinical/`, `social/` — 可按需新增
-- **L4（专题层）**: 如 `anxiety/`, `hatred/` — 自由新增
+- **L1（支柱层）**: `01-智慧传统/` ~ `05-实践成长/` — 不可新增
+- **L2（领域层）**: 如 `心理学/`, `冥想/` — 需讨论后新增
+- **L3（分类层）**: 如 `临床/`, `社会心理/` — 可按需新增
+- **L4（专题层）**: 如 `焦虑/`, `仇恨/` — 自由新增
 
 ### 命名规则
 
-- **目录名**: `kebab-case`（全小写，连字符分隔），如 `rural-psychology/`
+- **目录名**: `kebab-case`（全小写，连字符分隔），如 `农村心理学/`
 - **文件名**: `PascalCase_Snake`（首字母大写，下划线分隔），如 `Rural_Psychology_Overview.md`
-- **下划线前缀 `_`**: 仅用于辅助/工具性内容，如 `terminology-dictionary/`
+- **下划线前缀 `_`**: 仅用于辅助/工具性内容，如 `术语词典/`
 
 ### INDEX.md 规则
 
@@ -63,7 +63,7 @@ INDEX.md 标准模板：
 - 文档标题 (English)
 
 ---
-*返回上级 [Parent](01-Wisdom-Traditions/INDEX.md) | 返回根目录 [README.md](04-Humanities-Arts/media/music/musician/playlists/)*
+*返回上级 [Parent](01-智慧传统/INDEX.md) | 返回根目录 [README.md](04-人文艺术/媒体/音乐/音乐家/播放列表/)*
 ```
 
 ---
@@ -89,7 +89,7 @@ intent_queries:
   - "CBT治疗焦虑的方法"
 trigger_keywords: ["焦虑障碍", "cbt", "认知重构"]
 cross_refs:
-  - path: "03-Bio-Science/biology/hpa-axis/HPA_Axis_Regulation.md"
+  - path: "03-生命科学/biology/hpa-axis/HPA_Axis_Regulation.md"
     relation: "焦虑/hpa轴"
 ---
 ```
@@ -104,7 +104,7 @@ cross_refs:
 | `tags` | ✅ | inline 数组，主题特定词，≤6 个 |
 | `last_updated` | ✅ | 月级时间戳，`"YYYY-MM"` |
 | `difficulty` | ✅ | 难度等级（见下表） |
-| `reading_level` | ✅ | 读者水平，同 difficulty |
+| `阅读_level` | ✅ | 读者水平，同 difficulty |
 | `estimated_read_time` | ✅ | 预计阅读时长，如 `"5min"`/`"45min"`/`"1h"` |
 | `intent_queries` | 可选 | 用户可能搜索的真实查询，block-list 形式 |
 | `trigger_keywords` | 可选 | 主题触发词，inline 数组；**禁用全局通用词**（anxiety/assessment/behavioral 等，见 `metadata-cleanup.py:GENERIC_WORDS`） |
@@ -118,7 +118,7 @@ cross_refs:
 |------|----------|
 | `beginner` | 零基础入门读者 |
 | `intermediate` | 有一定背景知识的学习者 |
-| `advanced` | 专业从业者或深度研究者 |
+| `高阶` | 专业从业者或深度研究者 |
 | `expert` | 该领域专家 / 临床督导级别 |
 
 ---
@@ -126,7 +126,7 @@ cross_refs:
 ## 🔗 交叉引用规范
 
 - 同支柱内引用使用**相对路径**
-- 跨支柱引用使用 `../01-Wisdom-Traditions/...` 格式
+- 跨支柱引用使用 `../01-智慧传统/...` 格式
 - 所有交叉引用需在双方文档中**双向标注**
 - 跨支柱引用需同步记录到 `_meta/cross-references.md`
 

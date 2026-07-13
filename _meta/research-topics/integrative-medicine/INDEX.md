@@ -5,11 +5,11 @@ category: "research"
 tags: ["integrative-medicine", "TCM", "ayurveda", "evidence-based", "functional-medicine"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "01-Wisdom-Traditions/tcm-neijing/"
+  - path: "01-智慧传统/tcmneijing/"
     relation: "黄帝内经理论体系"
-  - path: "01-Wisdom-Traditions/yoga/"
+  - path: "01-智慧传统/瑜伽/"
     relation: "阿育吠陀医学"
-  - path: "03-Bio-Science/biology/tcm-evidence/"
+  - path: "03-生命科学/生物学/中医循证/"
     relation: "中医循证研究"
 ---
 

@@ -7,7 +7,7 @@
 
 ## 01 ↔ 02: 智慧传承 × 心理学
 
-| 01-Wisdom-Traditions 内容 | 02-Mind-Psychology 内容 | 关联说明 |
+| 01-智慧传统 内容 | 02-心智心理 内容 | 关联说明 |
 |---|---|---|
 | buddhism/Buddhism_Samatha_Vipassana.md | meditation/traditions/buddhist/vipassana/ | 止观修法与正念冥想 |
 | buddhism/psychology/ | therapy/integrative/mbct-therapy/ | 佛教心理学与正念认知疗法 |
@@ -30,7 +30,7 @@
 
 ## 01 ↔ 03: 智慧传承 × 生命科学
 
-| 01-Wisdom-Traditions 内容 | 03-Bio-Science 内容 | 关联说明 |
+| 01-智慧传统 内容 | 03-生命科学 内容 | 关联说明 |
 |---|---|---|
 | yoga/anatomy-science/Yoga_Anatomy_Physiology.md | biology/stretch/ | 瑜伽解剖学与拉伸疗法 |
 | yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md | biology/brain/ | 瑜伽神经科学与脑科学 |
@@ -49,7 +49,7 @@
 
 ## 01 ↔ 04: 智慧传承 × 人文艺术
 
-| 01-Wisdom-Traditions 内容 | 04-Humanities-Arts 内容 | 关联说明 |
+| 01-智慧传统 内容 | 04-人文艺术 内容 | 关联说明 |
 |---|---|---|
 | religions/zen/Zen_Aesthetics_Culture.md | arts/calligraphy-therapy/ | 禅宗审美文化与书法疗愈 |
 | religions/zen/Zen_Aesthetics_Culture.md | literature/therapy/ | 禅宗审美与文学疗愈(侘寂/枯山水) |
@@ -64,7 +64,7 @@
 
 ## 01 ↔ 05: 智慧传承 × 实践增长
 
-| 01-Wisdom-Traditions 内容 | 05-Praxis-Growth 内容 | 关联说明 |
+| 01-智慧传统 内容 | 05-实践成长 内容 | 关联说明 |
 |---|---|---|
 | buddhism/meditation/Buddhism_Meditation_Practice_System.md | personal-development/mindfulness/ | 佛教冥想体系与正念日常生活 |
 | religions/zen/Zen_Daily_Life_Practice.md | personal-development/mindfulness/ | 禅宗日常实修与正念生活 |
@@ -79,7 +79,7 @@
 
 ## 02 ↔ 01: 心理学 × 智慧传承 (孤独/独处维度)
 
-| 02-Mind-Psychology 内容 | 01-Wisdom-Traditions 内容 | 关联说明 |
+| 02-心智心理 内容 | 01-智慧传统 内容 | 关联说明 |
 |---|---|---|
 | psychology/social/loneliness/Loneliness_Existential.md | religions/zen/Zen_Daily_Life_Practice.md | 存在性孤独与禅宗"孤明历历"的觉醒 |
 | psychology/social/solitude/Solitude_Philosophy.md | dao/Daoist_Psychological_Health_Cultivation.md | 道家"独与天地精神往来"与独处哲学 |
@@ -90,7 +90,7 @@
 
 ## 02 ↔ 03: 心理学 × 生命科学 (孤独/独处维度)
 
-| 02-Mind-Psychology 内容 | 03-Bio-Science 内容 | 关联说明 |
+| 02-心智心理 内容 | 03-生命科学 内容 | 关联说明 |
 |---|---|---|
 | psychology/social/loneliness/ | biology/hpa-axis/ | 孤独的HPA轴激活与慢性压力 |
 | psychology/social/loneliness/ | biology/immune-inflammation/Psychoneuroimmunology.md | 孤独的社会疼痛与免疫炎症 |
@@ -100,7 +100,7 @@
 
 ## 02 ↔ 04: 心理学 × 人文艺术 (孤独/独处维度)
 
-| 02-Mind-Psychology 内容 | 04-Humanities-Arts 内容 | 关联说明 |
+| 02-心智心理 内容 | 04-人文艺术 内容 | 关联说明 |
 |---|---|---|
 | psychology/social/solitude/Solitude_Creativity.md | literature/therapy/ | 独处创造力与文学疗愈(写作作为独处实践) |
 | psychology/social/loneliness/Loneliness_Digital_Age.md | media/media-therapy/ | 数字孤独与媒体治疗的边界 |
@@ -109,7 +109,7 @@
 
 ## 02 ↔ 05: 心理学 × 实践增长 (孤独/独处维度)
 
-| 02-Mind-Psychology 内容 | 05-Praxis-Growth 内容 | 关联说明 |
+| 02-心智心理 内容 | 05-实践成长 内容 | 关联说明 |
 |---|---|---|
 | psychology/social/loneliness/Loneliness_Workplace.md | personal-development/social-capital/ | 职场孤独与社交资本建设 |
 | psychology/social/solitude/Solitude_Practice_Guide.md | personal-development/mindfulness/ | 独处实践与正念日常生活 |
@@ -118,7 +118,7 @@
 
 ## 02 ↔ 03: 心理学 × 生命科学
 
-| 02-Mind-Psychology 内容 | 03-Bio-Science 内容 | 关联说明 |
+| 02-心智心理 内容 | 03-生命科学 内容 | 关联说明 |
 |---|---|---|
 | psychology/somatic-body/sleep/ | biology/pre-sleep-stretching/ | 睡眠心理学与睡前拉伸 |
 | psychology/stress-hpa/ | biology/hpa-axis/ | 心理压力与HPA轴生物机制 |
@@ -141,7 +141,7 @@
 
 ## 02 ↔ 04: 心理学 × 人文艺术
 
-| 02-Mind-Psychology 内容 | 04-Humanities-Arts 内容 | 关联说明 |
+| 02-心智心理 内容 | 04-人文艺术 内容 | 关联说明 |
 |---|---|---|
 | therapy/sensory-nature/sensory/ | arts/arts-therapy/ | 感官疗法与艺术疗法 |
 | therapy/sensory-nature/sensory/Sensory_Dance_Expressive.md | arts/ballet/Ballet_Therapy_Applications.md | 表达性舞动与芭蕾心理疗愈 |
@@ -153,28 +153,28 @@
 | therapy/sensory-nature/sensory/Sensory_Vibroacoustic_Therapy.md | biology/pain-science/ | 振动声学疗法与疼痛管理 |
 | therapy/sensory-nature/sensory/Sensory_Zentangle_Art.md | arts/calligraphy-therapy/ | 缠绕画正念与书法疗愈 |
 | therapy/sensory-nature/sensory/Sensory_Mandala_Jungian.md | arts/arts-therapy/ | 荣格曼荼罗与艺术疗愈 |
-| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 音乐临终关怀与死亡存在主义心理 |
-| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-Bio-Science/death/Death_Dignity_Therapy_Palliative_Care.md | 音乐临终关怀与尊严疗法/安宁疗护 |
-| psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 哀伤的文化灵性维度与跨传统死亡观 |
-| psychology/special-topics/grief/Grief_Intervention_Techniques.md | 03-Bio-Science/death/Death_Dignity_Therapy_Palliative_Care.md | 哀伤干预技术与安宁疗护整合 |
-| psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Existential_Psychology.md | 存在真空干预与向死而生深度整合 |
-| psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 存在真空与西方死亡哲学经典 |
-| 03-Bio-Science/death/Death_NDE_Near_Death_Experience.md | 02-Mind-Psychology/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md | 濒死体验研究与藏传佛教临终意识 |
-| 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md | 跨传统死亡观与佛教核心教义 |
-| 03-Bio-Science/death/Death_Traditional_Views_Deep_Dive.md | 01-Wisdom-Traditions/religions/dao/classics/Zhuangzi.md | 道家死亡观与庄子经典 |
-| 03-Bio-Science/death/Death_Modern_Issues.md | 03-Bio-Science/biology/aging-longevity/Aging_Longevity_Overview.md | 当代死亡议题与衰老长寿科学 |
-| 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 02-Mind-Psychology/psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 跨文化临终仪式与哀伤文化灵性维度 |
-| 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 04-Humanities-Arts/literature/therapy/ | 跨文化死亡叙事与文学疗愈 |
-| 03-Bio-Science/death/Death_Cultural_Rituals_Comparison.md | 01-Wisdom-Traditions/religions/buddhism/foundations/Buddhism_Core_Overview.md | 天葬/中阴仪式与藏传佛教核心 |
-| 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 05-Praxis-Growth/personal-development/topics/Personal_Development_Book_Reviews.md | 西方死亡哲学经典与书评体系 |
-| 03-Bio-Science/death/Death_Modern_Applications.md | 05-Praxis-Growth/personal-development/topics/Personal_Development_Book_Reviews.md | 现代死亡应用与自助成长资源 |
-| 03-Bio-Science/death/Death_Grief_Technology.md | 02-Mind-Psychology/psychology/special-topics/grief/Grief_Bereavement.md | 数字哀伤科技与丧恸干预 |
-| 03-Bio-Science/death/Death_Grief_Technology.md | 04-Humanities-Arts/media/media-therapy/ | 数字哀悼与媒体治疗交叉 |
-| 03-Bio-Science/death/Death_Clinical_Workplace_Applications.md | 02-Mind-Psychology/psychology/applied/occupational-burnout/ | 职场临终福利与职业健康 |
-| 03-Bio-Science/death/Death_Clinical_Workplace_Applications.md | 05-Praxis-Growth/personal-development/workplace-expression/ | 企业死亡意识与职场表达 |
-| 03-Bio-Science/death/Death_Clinical_Workplace_Applications.md | 04-Humanities-Arts/arts/arts-therapy/ | 表达性艺术治疗在临终关怀中的应用 |
-| 05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-Bio-Science/death/Death_Existential_Psychology.md | Frankl意义疗法与向死而生整合 |
-| 05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-Bio-Science/death/Death_Western_Philosophy_Classics.md | 意义疗法与西方死亡哲学经典 |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-生命科学/death/Death_Existential_Psychology.md | 音乐临终关怀与死亡存在主义心理 |
+| therapy/sensory-nature/sensory/Sensory_Music_Thanatology.md | 03-生命科学/death/Death_Dignity_Therapy_Palliative_Care.md | 音乐临终关怀与尊严疗法/安宁疗护 |
+| psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 03-生命科学/death/Death_Traditional_Views_Deep_Dive.md | 哀伤的文化灵性维度与跨传统死亡观 |
+| psychology/special-topics/grief/Grief_Intervention_Techniques.md | 03-生命科学/death/Death_Dignity_Therapy_Palliative_Care.md | 哀伤干预技术与安宁疗护整合 |
+| psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-生命科学/death/Death_Existential_Psychology.md | 存在真空干预与向死而生深度整合 |
+| psychology/special-topics/existential-vacuum/Existential_Vacuum_Psychological_Intervention.md | 03-生命科学/death/Death_Western_Philosophy_Classics.md | 存在真空与西方死亡哲学经典 |
+| 03-生命科学/death/Death_NDE_Near_Death_Experience.md | 02-心智心理/meditation/professional/masters/tibetan/Sogyal_Rinpoche.md | 濒死体验研究与藏传佛教临终意识 |
+| 03-生命科学/death/Death_Traditional_Views_Deep_Dive.md | 01-智慧传统/religions/buddhism/foundations/Buddhism_Core_Overview.md | 跨传统死亡观与佛教核心教义 |
+| 03-生命科学/death/Death_Traditional_Views_Deep_Dive.md | 01-智慧传统/religions/dao/classics/Zhuangzi.md | 道家死亡观与庄子经典 |
+| 03-生命科学/death/Death_Modern_Issues.md | 03-生命科学/biology/aging-longevity/Aging_Longevity_Overview.md | 当代死亡议题与衰老长寿科学 |
+| 03-生命科学/death/Death_Cultural_Rituals_Comparison.md | 02-心智心理/psychology/special-topics/grief/Grief_Cultural_Spiritual.md | 跨文化临终仪式与哀伤文化灵性维度 |
+| 03-生命科学/death/Death_Cultural_Rituals_Comparison.md | 04-人文艺术/literature/therapy/ | 跨文化死亡叙事与文学疗愈 |
+| 03-生命科学/death/Death_Cultural_Rituals_Comparison.md | 01-智慧传统/religions/buddhism/foundations/Buddhism_Core_Overview.md | 天葬/中阴仪式与藏传佛教核心 |
+| 03-生命科学/death/Death_Western_Philosophy_Classics.md | 05-实践成长/personal-development/topics/Personal_Development_Book_Reviews.md | 西方死亡哲学经典与书评体系 |
+| 03-生命科学/death/Death_Modern_Applications.md | 05-实践成长/personal-development/topics/Personal_Development_Book_Reviews.md | 现代死亡应用与自助成长资源 |
+| 03-生命科学/death/Death_Grief_Technology.md | 02-心智心理/psychology/special-topics/grief/Grief_Bereavement.md | 数字哀伤科技与丧恸干预 |
+| 03-生命科学/death/Death_Grief_Technology.md | 04-人文艺术/media/media-therapy/ | 数字哀悼与媒体治疗交叉 |
+| 03-生命科学/death/Death_Clinical_Workplace_Applications.md | 02-心智心理/psychology/applied/occupational-burnout/ | 职场临终福利与职业健康 |
+| 03-生命科学/death/Death_Clinical_Workplace_Applications.md | 05-实践成长/personal-development/workplace-expression/ | 企业死亡意识与职场表达 |
+| 03-生命科学/death/Death_Clinical_Workplace_Applications.md | 04-人文艺术/arts/arts-therapy/ | 表达性艺术治疗在临终关怀中的应用 |
+| 05-实践成长/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-生命科学/death/Death_Existential_Psychology.md | Frankl意义疗法与向死而生整合 |
+| 05-实践成长/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md | 03-生命科学/death/Death_Western_Philosophy_Classics.md | 意义疗法与西方死亡哲学经典 |
 | therapy/sensory-nature/sensory/Sensory_Vocal_Therapy.md | media/music/ | 声乐治疗与音乐疗愈的整合 |
 | therapy/sensory-nature/sensory/Sensory_Writing_Journaling.md | literature/therapy/ | 疗愈性写作与文学疗愈 |
 | psychology/clinical/trauma/ | arts/drama-therapy/ | 创伤心理治疗与戏剧疗愈/心理剧 |
@@ -187,7 +187,7 @@
 
 ## 02 ↔ 05: 心理学 × 实践增长
 
-| 02-Mind-Psychology 内容 | 05-Praxis-Growth 内容 | 关联说明 |
+| 02-心智心理 内容 | 05-实践成长 内容 | 关联说明 |
 |---|---|---|
 | psychology/applied/vocational-psychology/ | personal-development/productivity/ | 职业心理与工作效率 |
 | psychology/applied/workplace-psychological-crisis/ | personal-development/workplace-expression/ | 职场危机与职场表达 |
@@ -205,7 +205,7 @@
 
 ## 03 ↔ 04: 生命科学 × 人文艺术
 
-| 03-Bio-Science 内容 | 04-Humanities-Arts 内容 | 关联说明 |
+| 03-生命科学 内容 | 04-人文艺术 内容 | 关联说明 |
 |---|---|---|
 | biology/pain-science/Pain_Mind_Body_Approaches.md | arts/drama-therapy/ | 疼痛身心疗法与戏剧疗愈(分散注意力) |
 | biology/pain-science/Pain_Psychology_Intervention.md | arts/arts-therapy/ | 疼痛心理干预与艺术疗法(表达与释放) |
@@ -220,7 +220,7 @@
 
 ## 03 ↔ 05: 生命科学 × 实践增长
 
-| 03-Bio-Science 内容 | 05-Praxis-Growth 内容 | 关联说明 |
+| 03-生命科学 内容 | 05-实践成长 内容 | 关联说明 |
 |---|---|---|
 | biology/exercise-science/ | personal-development/topics/Personal_Development_Habit_Science.md | 运动科学与习惯养成(运动习惯固化) |
 | biology/exercise-science/Exercise_Mental_Health.md | personal-development/mental-resilience/ | 运动心理健康与心力成长(BDNF/韧性) |
@@ -235,7 +235,7 @@
 
 ## 04 ↔ 05: 人文艺术 × 实践增长
 
-| 04-Humanities-Arts 内容 | 05-Praxis-Growth 内容 | 关联说明 |
+| 04-人文艺术 内容 | 05-实践成长 内容 | 关联说明 |
 |---|---|---|
 | literature/therapy/ | writing/ | 文学疗愈与创意写作(叙事疗愈→写作技巧) |
 | reading/ | personal-development/meta-learning/ | 深度阅读方法论与元学习(阅读→学习迁移) |
@@ -297,33 +297,33 @@
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 独处哲学资源索引 | `01-Wisdom-Traditions/Solitude_Wisdom_Bridge.md` | 桥接文档：梳理道家/禅宗/基督教/存在主义中的独处智慧 |
-| 禅宗独处 | `religions/zen/` ↔ `psychology/social/solitude/` | 禅宗孤坐/独参与现代独处神经科学 |
-| 道家独处 | `dao/` ↔ `psychology/social/solitude/` | 道家"独与天地精神往来"与独处创造力 |
+| 独处哲学资源索引 | `01-智慧传统/Solitude_Wisdom_Bridge.md` | 桥接文档：梳理道家/禅宗/基督教/存在主义中的独处智慧 |
+| 禅宗独处 | `宗教/禅宗/` ↔ `心理学/社会心理/独处/` | 禅宗孤坐/独参与现代独处神经科学 |
+| 道家独处 | `道家/` ↔ `心理学/社会心理/独处/` | 道家"独与天地精神往来"与独处创造力 |
 
 ### 孤独/独处 × 03 生命科学
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 孤独生物学整合 | `03-Bio-Science/biology/Loneliness_Biology_Integration.md` | 从社会伤口到炎症：HPA轴/免疫/端粒/表观遗传 |
-| 老年孤独 | `psychology/social/loneliness/Loneliness_Elderly.md` ↔ `biology/aging-longevity/` | 老年孤独与衰老生物学/认知衰退预防 |
+| 孤独生物学整合 | `03-生命科学/biology/Loneliness_Biology_Integration.md` | 从社会伤口到炎症：HPA轴/免疫/端粒/表观遗传 |
+| 老年孤独 | `psychology/social/loneliness/Loneliness_Elderly.md` ↔ `生物学/衰老长寿/` | 老年孤独与衰老生物学/认知衰退预防 |
 | 孤独神经科学 | `psychology/social/solitude/Solitude_Neuroscience.md` ↔ `biology/brain/Brain_DMN_Default_Mode_Network.md` | 独处DMN与默认模式网络 |
 
 ### 孤独/独处 × 04 人文艺术
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 孤独主题文学疗愈 | `04-Humanities-Arts/literature/Loneliness_Literature_Therapy.md` | 从《变形记》到《瓦尔登湖》的孤独文学疗愈 |
-| 独处创造力 | `psychology/social/solitude/Solitude_Creativity.md` ↔ `literature/therapy/` | 独处中的创作与文学疗愈 |
-| 孤独电影/音乐 | `media/cinema/` / `media/music/` ↔ `psychology/social/loneliness/` | 跨媒介的孤独艺术疗愈 |
+| 孤独主题文学疗愈 | `04-人文艺术/literature/Loneliness_Literature_Therapy.md` | 从《变形记》到《瓦尔登湖》的孤独文学疗愈 |
+| 独处创造力 | `psychology/social/solitude/Solitude_Creativity.md` ↔ `文学/疗法/` | 独处中的创作与文学疗愈 |
+| 孤独电影/音乐 | `媒体/电影/` / `媒体/音乐/` ↔ `心理学/社会心理/孤独/` | 跨媒介的孤独艺术疗愈 |
 
 ### 孤独/独处 × 05 实践增长
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 社交资本×孤独桥梁 | `05-Praxis-Growth/personal-development/social-capital/Social_Capital_Loneliness_Bridge.md` | 从社交资本赤字到丰盈的转化路径 |
-| 职场孤独 | `psychology/social/loneliness/Loneliness_Workplace.md` ↔ `personal-development/social-capital/` | 职场社交重建与社交资本建设 |
-| 独处实践 | `psychology/social/solitude/Solitude_Practice_Guide.md` ↔ `personal-development/mindfulness/` | 独处训练与正念日常生活 |
+| 社交资本×孤独桥梁 | `05-实践成长/personal-development/social-capital/Social_Capital_Loneliness_Bridge.md` | 从社交资本赤字到丰盈的转化路径 |
+| 职场孤独 | `psychology/social/loneliness/Loneliness_Workplace.md` ↔ `个人发展/socialcapital/` | 职场社交重建与社交资本建设 |
+| 独处实践 | `psychology/social/solitude/Solitude_Practice_Guide.md` ↔ `个人发展/正念/` | 独处训练与正念日常生活 |
 
 ---
 
@@ -331,72 +331,72 @@
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 死亡冥想与佛教体系 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/religions/buddhism/meditation/` | 南传念死/藏传颇瓦/禅宗话头与佛教实修体系 |
-| 死亡冥想与道家 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/religions/dao/` | 坐忘/心斋/守一与死亡冥想 |
-| 死亡冥想与印度瑜伽 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `01-Wisdom-Traditions/yoga/` | Prāṇa Saṃhāra/Mahāsamādhi与瑜伽传统 |
-| 死亡冥想与脑科学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | DMN/PCC/杏仁核/岛叶与死亡冥想神经机制 |
-| 死亡冥想与临床心理学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` | 死亡冥想与ACT/CBT/暴露疗法整合 |
-| 死亡冥想与社会学 | `03-Bio-Science/death/Death_Meditation_Practices.md` ↔ `_meta/cross-references.md` | Durkheim集体欢腾/van Gennep过渡仪式/共睦态 |
+| 死亡冥想与佛教体系 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `01-智慧传统/宗教/佛教/冥想/` | 南传念死/藏传颇瓦/禅宗话头与佛教实修体系 |
+| 死亡冥想与道家 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `01-智慧传统/宗教/道家/` | 坐忘/心斋/守一与死亡冥想 |
+| 死亡冥想与印度瑜伽 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `01-智慧传统/瑜伽/` | Prāṇa Saṃhāra/Mahāsamādhi与瑜伽传统 |
+| 死亡冥想与脑科学 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `02-心智心理/冥想/基础/总览/` | DMN/PCC/杏仁核/岛叶与死亡冥想神经机制 |
+| 死亡冥想与临床心理学 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `02-心智心理/疗法/认知行为/接纳承诺疗法/` | 死亡冥想与ACT/CBT/暴露疗法整合 |
+| 死亡冥想与社会学 | `03-生命科学/death/Death_Meditation_Practices.md` ↔ `_meta/cross-references.md` | Durkheim集体欢腾/van Gennep过渡仪式/共睦态 |
 
 ### 死亡哲学P0-P3全面扩展新增跨支柱关联
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 儿童死亡概念 | `03-Bio-Science/death/Death_Children_Adolescents.md` ↔ `02-Mind-Psychology/psychology/developmental/` | 儿童死亡概念发展与儿童发展心理学 |
-| 儿童哀伤 | `03-Bio-Science/death/Death_Children_Adolescents.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 儿童哀伤干预与丧恸专题 |
-| 自杀学与临床 | `03-Bio-Science/death/Death_Suicidology_Boundary.md` ↔ `02-Mind-Psychology/psychology/clinical/anxiety/` | 死亡焦虑与自杀意念鉴别与焦虑临床 |
-| 自杀学评估 | `03-Bio-Science/death/Death_Suicidology_Boundary.md` ↔ `02-Mind-Psychology/psychology/clinical/assessment/` | C-SSRS/ASQ等标准化工具与临床评估 |
-| 死亡评估与心理测量 | `03-Bio-Science/death/Death_Assessment_Measures.md` ↔ `02-Mind-Psychology/psychology/research-methods/` | DAP-R/MFODS等量表与心理测量学 |
-| 哀伤-死亡桥接 | `03-Bio-Science/death/Death_Grief_Bridge.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 预感性哀伤/双重历程与哀伤辅导核心 |
-| 哀伤-存在真空 | `03-Bio-Science/death/Death_Grief_Bridge.md` ↔ `02-Mind-Psychology/psychology/special-topics/existential-vacuum/` | 存在性哀伤与存在真空干预 |
-| 集体创伤与PTSD | `03-Bio-Science/death/Death_Collective_Trauma.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 大规模创伤与创伤心理治疗 |
-| 集体创伤与社会心理 | `03-Bio-Science/death/Death_Collective_Trauma.md` ↔ `02-Mind-Psychology/psychology/social/` | 模糊丧失/代际创伤与社会心理学 |
-| 艺术与死亡 | `03-Bio-Science/death/Death_Art_Death.md` ↔ `04-Humanities-Arts/arts/arts-therapy/` | 死亡艺术与艺术治疗 |
-| 死亡文学 | `03-Bio-Science/death/Death_Art_Death.md` ↔ `04-Humanities-Arts/literature/therapy/` | 死亡叙事与文学疗愈 |
-| 死亡电影 | `03-Bio-Science/death/Death_Art_Death.md` ↔ `04-Humanities-Arts/media/cinema/cinema-therapy/` | 死亡电影与电影疗愈 |
-| 死亡生物伦理与法律 | `03-Bio-Science/death/Death_Bioethics.md` ↔ `02-Mind-Psychology/psychology/applied/forensic/` | 预立指示/MAiD与法医心理学 |
-| 比较死亡哲学与儒道 | `03-Bio-Science/death/Death_Comparative_Philosophy.md` ↔ `01-Wisdom-Traditions/religions/dao/` | 庄子/老子死亡观与道家体系 |
-| 比较死亡哲学与佛教 | `03-Bio-Science/death/Death_Comparative_Philosophy.md` ↔ `01-Wisdom-Traditions/religions/buddhism/` | 涅槃/轮回与佛教核心教义 |
-| 比较死亡哲学与禅宗 | `03-Bio-Science/death/Death_Comparative_Philosophy.md` ↔ `01-Wisdom-Traditions/religions/zen/` | 禅宗生死观与禅宗教义 |
-| 比较死亡哲学与瑜伽 | `03-Bio-Science/death/Death_Comparative_Philosophy.md` ↔ `01-Wisdom-Traditions/yoga/` | 业力/解脱与瑜伽哲学 |
-| 死亡资源与意义疗法 | `03-Bio-Science/death/Death_Resources_Bibliography.md` ↔ `05-Praxis-Growth/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md` | Frankl/意义疗法资源与成长实践 |
+| 儿童死亡概念 | `03-生命科学/death/Death_Children_Adolescents.md` ↔ `02-心智心理/心理学/发展心理/` | 儿童死亡概念发展与儿童发展心理学 |
+| 儿童哀伤 | `03-生命科学/death/Death_Children_Adolescents.md` ↔ `02-心智心理/心理学/特殊专题/哀伤/` | 儿童哀伤干预与丧恸专题 |
+| 自杀学与临床 | `03-生命科学/death/Death_Suicidology_Boundary.md` ↔ `02-心智心理/心理学/临床/焦虑/` | 死亡焦虑与自杀意念鉴别与焦虑临床 |
+| 自杀学评估 | `03-生命科学/death/Death_Suicidology_Boundary.md` ↔ `02-心智心理/心理学/临床/评估/` | C-SSRS/ASQ等标准化工具与临床评估 |
+| 死亡评估与心理测量 | `03-生命科学/death/Death_Assessment_Measures.md` ↔ `02-心智心理/心理学/研究方法/` | DAP-R/MFODS等量表与心理测量学 |
+| 哀伤-死亡桥接 | `03-生命科学/death/Death_Grief_Bridge.md` ↔ `02-心智心理/心理学/特殊专题/哀伤/` | 预感性哀伤/双重历程与哀伤辅导核心 |
+| 哀伤-存在真空 | `03-生命科学/death/Death_Grief_Bridge.md` ↔ `02-心智心理/心理学/特殊专题/存在虚无/` | 存在性哀伤与存在真空干预 |
+| 集体创伤与PTSD | `03-生命科学/death/Death_Collective_Trauma.md` ↔ `02-心智心理/心理学/临床/创伤/` | 大规模创伤与创伤心理治疗 |
+| 集体创伤与社会心理 | `03-生命科学/death/Death_Collective_Trauma.md` ↔ `02-心智心理/心理学/社会心理/` | 模糊丧失/代际创伤与社会心理学 |
+| 艺术与死亡 | `03-生命科学/death/Death_Art_Death.md` ↔ `04-人文艺术/艺术/arts疗法/` | 死亡艺术与艺术治疗 |
+| 死亡文学 | `03-生命科学/death/Death_Art_Death.md` ↔ `04-人文艺术/文学/疗法/` | 死亡叙事与文学疗愈 |
+| 死亡电影 | `03-生命科学/death/Death_Art_Death.md` ↔ `04-人文艺术/媒体/电影/电影疗法/` | 死亡电影与电影疗愈 |
+| 死亡生物伦理与法律 | `03-生命科学/death/Death_Bioethics.md` ↔ `02-心智心理/心理学/应用心理/forensic/` | 预立指示/MAiD与法医心理学 |
+| 比较死亡哲学与儒道 | `03-生命科学/death/Death_Comparative_Philosophy.md` ↔ `01-智慧传统/宗教/道家/` | 庄子/老子死亡观与道家体系 |
+| 比较死亡哲学与佛教 | `03-生命科学/death/Death_Comparative_Philosophy.md` ↔ `01-智慧传统/宗教/佛教/` | 涅槃/轮回与佛教核心教义 |
+| 比较死亡哲学与禅宗 | `03-生命科学/death/Death_Comparative_Philosophy.md` ↔ `01-智慧传统/宗教/禅宗/` | 禅宗生死观与禅宗教义 |
+| 比较死亡哲学与瑜伽 | `03-生命科学/death/Death_Comparative_Philosophy.md` ↔ `01-智慧传统/瑜伽/` | 业力/解脱与瑜伽哲学 |
+| 死亡资源与意义疗法 | `03-生命科学/death/Death_Resources_Bibliography.md` ↔ `05-实践成长/personal-development/topics/Personal_Development_Mans_Search_for_Meaning.md` | Frankl/意义疗法资源与成长实践 |
 
 ### 死亡哲学案例与实操工具新增跨支柱关联
 
 | 内容 | 路径 | 关联说明 |
 |------|------|---------|
-| 失智症临终与老年心理 | `03-Bio-Science/death/Death_Dementia_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年认知衰退与临终关怀 |
-| 失智症与家属哀伤 | `03-Bio-Science/death/Death_Dementia_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | ambiguous loss与复杂性哀伤 |
-| 临床案例与CBT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/cognitive-behavioral-therapy/` | 案例A认知重构与CBT技术 |
-| 临床案例与ACT | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` | 案例B接纳与承诺疗法应用 |
-| 临床案例与存在疗法 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/psychology/special-topics/existential-vacuum/` | 案例A存在危机与存在真空干预 |
-| 临床案例与创伤治疗 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 案例D青少年PTSD与创伤治疗 |
-| 临床案例与家庭治疗 | `03-Bio-Science/death/Death_Clinical_Casebook.md` ↔ `02-Mind-Psychology/therapy/family-therapy/` | 案例D家庭系统与家庭治疗 |
-| 伦理遗嘱与文学 | `03-Bio-Science/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `04-Humanities-Arts/literature/therapy/` | 叙事治疗与生命回顾书写 |
-| 伦理遗嘱与灵性 | `03-Bio-Science/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `01-Wisdom-Traditions/religions/` | 四道人生与宗教传统 |
-| 伦理遗嘱与成长实践 | `03-Bio-Science/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `05-Praxis-Growth/personal-development/` | 遗产项目与个人成长 |
-| 课程考核与教育资源 | `03-Bio-Science/death/Death_Curriculum_Alignment_Audit.md` ↔ `05-Praxis-Growth/personal-development/meta-learning/` | 课程设计与元学习 |
-| 老年临终与老年心理 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年死亡焦虑与老年发展心理学 |
-| 老年临终与哀伤 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 老年丧偶与复杂性哀伤 |
-| 老年自杀预防 | `03-Bio-Science/death/Death_Aging_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/clinical/suicide/` | 老年自杀与自杀预防 |
-| 工作坊与正念 | `03-Bio-Science/death/Death_Education_Workshop_Design.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | 死亡教育工作坊与正念引导 |
-| 工作坊与创伤 | `03-Bio-Science/death/Death_Education_Workshop_Design.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 安全协议与创伤知情 |
-| LGBTQ+与性学 | `03-Bio-Science/death/Death_LGBTQ_Death_Grief.md` ↔ `03-Bio-Science/sexuality/` | LGBTQ+身份与性学研究 |
-| LGBTQ+与社会心理 | `03-Bio-Science/death/Death_LGBTQ_Death_Grief.md` ↔ `02-Mind-Psychology/psychology/social/` | 少数群体压力与社会心理学 |
-| 精神疾病与临床 | `03-Bio-Science/death/Death_Mental_Illness_End_of_Life.md` ↔ `02-Mind-Psychology/psychology/clinical/` | 精神疾病患者临终与临床心理 |
-| 精神疾病与伦理 | `03-Bio-Science/death/Death_Mental_Illness_End_of_Life.md` ↔ `03-Bio-Science/death/Death_Bioethics.md` | 决策能力与生物伦理 |
-| 流行病学与长寿 | `03-Bio-Science/death/Death_Epidemiology_Data.md` ↔ `03-Bio-Science/biology/aging-longevity/` | 预期寿命与衰老科学 |
-| 流行病学与心血管 | `03-Bio-Science/death/Death_Epidemiology_Data.md` ↔ `03-Bio-Science/biology/cardiovascular/` | 死因与心血管健康 |
-| 临终意识与NDE | `03-Bio-Science/death/Death_NDE_Near_Death_Experience.md` | 末期清明与濒死体验 |
-| 生前整理与极简主义 | `03-Bio-Science/death/Death_Preparation_Life.md` ↔ `02-Mind-Psychology/psychology/behavioral/hoarding-disorder/` | 断舍离与囤积障碍 |
-| 生前整理与家庭组织 | `03-Bio-Science/death/Death_Preparation_Life.md` ↔ `02-Mind-Psychology/psychology/special-topics/home-organization/` | 终活与家庭整理 |
-| 生前整理与数字极简 | `03-Bio-Science/death/Death_Preparation_Life.md` ↔ `02-Mind-Psychology/psychology/behavioral/digital-hoarding/` | 数字遗物与数字极简 |
-| 高风险职业与倦怠 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/psychology/applied/occupational-burnout/` | 道德伤害与职业倦怠 |
-| 高风险职业与创伤 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/psychology/clinical/trauma/` | 替代性创伤与创伤治疗 |
-| 高风险职业与正念 | `03-Bio-Science/death/Death_High_Risk_Occupations.md` ↔ `02-Mind-Psychology/meditation/foundations/overview/` | 心理韧性与正念练习 |
-| 宠物丧失与儿童发展 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/developmental/` | 儿童首次死亡体验 |
-| 宠物丧失与老年心理 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/developmental/aging-psychology/` | 老年社会孤立与宠物陪伴 |
-| 宠物丧失与哀伤 | `03-Bio-Science/death/Death_Pet_Loss.md` ↔ `02-Mind-Psychology/psychology/special-topics/grief/` | 宠物哀伤与丧恸专题 |
+| 失智症临终与老年心理 | `03-生命科学/death/Death_Dementia_End_of_Life.md` ↔ `02-心智心理/心理学/发展心理/衰老心理学/` | 老年认知衰退与临终关怀 |
+| 失智症与家属哀伤 | `03-生命科学/death/Death_Dementia_End_of_Life.md` ↔ `02-心智心理/心理学/特殊专题/哀伤/` | ambiguous loss与复杂性哀伤 |
+| 临床案例与CBT | `03-生命科学/death/Death_Clinical_Casebook.md` ↔ `02-心智心理/疗法/认知行为/认知行为疗法/` | 案例A认知重构与CBT技术 |
+| 临床案例与ACT | `03-生命科学/death/Death_Clinical_Casebook.md` ↔ `02-心智心理/疗法/认知行为/接纳承诺疗法/` | 案例B接纳与承诺疗法应用 |
+| 临床案例与存在疗法 | `03-生命科学/death/Death_Clinical_Casebook.md` ↔ `02-心智心理/心理学/特殊专题/存在虚无/` | 案例A存在危机与存在真空干预 |
+| 临床案例与创伤治疗 | `03-生命科学/death/Death_Clinical_Casebook.md` ↔ `02-心智心理/心理学/临床/创伤/` | 案例D青少年PTSD与创伤治疗 |
+| 临床案例与家庭治疗 | `03-生命科学/death/Death_Clinical_Casebook.md` ↔ `02-心智心理/疗法/family-疗法/` | 案例D家庭系统与家庭治疗 |
+| 伦理遗嘱与文学 | `03-生命科学/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `04-人文艺术/文学/疗法/` | 叙事治疗与生命回顾书写 |
+| 伦理遗嘱与灵性 | `03-生命科学/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `01-智慧传统/宗教/` | 四道人生与宗教传统 |
+| 伦理遗嘱与成长实践 | `03-生命科学/death/Death_Ethical_Will_Life_Review_Guide.md` ↔ `05-实践成长/个人发展/` | 遗产项目与个人成长 |
+| 课程考核与教育资源 | `03-生命科学/death/Death_Curriculum_Alignment_Audit.md` ↔ `05-实践成长/个人发展/meta学习/` | 课程设计与元学习 |
+| 老年临终与老年心理 | `03-生命科学/death/Death_Aging_End_of_Life.md` ↔ `02-心智心理/心理学/发展心理/衰老心理学/` | 老年死亡焦虑与老年发展心理学 |
+| 老年临终与哀伤 | `03-生命科学/death/Death_Aging_End_of_Life.md` ↔ `02-心智心理/心理学/特殊专题/哀伤/` | 老年丧偶与复杂性哀伤 |
+| 老年自杀预防 | `03-生命科学/death/Death_Aging_End_of_Life.md` ↔ `02-心智心理/心理学/临床/suicide/` | 老年自杀与自杀预防 |
+| 工作坊与正念 | `03-生命科学/death/Death_Education_Workshop_Design.md` ↔ `02-心智心理/冥想/基础/总览/` | 死亡教育工作坊与正念引导 |
+| 工作坊与创伤 | `03-生命科学/death/Death_Education_Workshop_Design.md` ↔ `02-心智心理/心理学/临床/创伤/` | 安全协议与创伤知情 |
+| LGBTQ+与性学 | `03-生命科学/death/Death_LGBTQ_Death_Grief.md` ↔ `03-生命科学/性学/` | LGBTQ+身份与性学研究 |
+| LGBTQ+与社会心理 | `03-生命科学/death/Death_LGBTQ_Death_Grief.md` ↔ `02-心智心理/心理学/社会心理/` | 少数群体压力与社会心理学 |
+| 精神疾病与临床 | `03-生命科学/death/Death_Mental_Illness_End_of_Life.md` ↔ `02-心智心理/心理学/临床/` | 精神疾病患者临终与临床心理 |
+| 精神疾病与伦理 | `03-生命科学/death/Death_Mental_Illness_End_of_Life.md` ↔ `03-生命科学/death/Death_Bioethics.md` | 决策能力与生物伦理 |
+| 流行病学与长寿 | `03-生命科学/death/Death_Epidemiology_Data.md` ↔ `03-生命科学/生物学/衰老长寿/` | 预期寿命与衰老科学 |
+| 流行病学与心血管 | `03-生命科学/death/Death_Epidemiology_Data.md` ↔ `03-生命科学/生物学/心血管/` | 死因与心血管健康 |
+| 临终意识与NDE | `03-生命科学/death/Death_NDE_Near_Death_Experience.md` | 末期清明与濒死体验 |
+| 生前整理与极简主义 | `03-生命科学/death/Death_Preparation_Life.md` ↔ `02-心智心理/心理学/行为心理/囤积障碍/` | 断舍离与囤积障碍 |
+| 生前整理与家庭组织 | `03-生命科学/death/Death_Preparation_Life.md` ↔ `02-心智心理/心理学/特殊专题/居家整理/` | 终活与家庭整理 |
+| 生前整理与数字极简 | `03-生命科学/death/Death_Preparation_Life.md` ↔ `02-心智心理/心理学/行为心理/数字囤积/` | 数字遗物与数字极简 |
+| 高风险职业与倦怠 | `03-生命科学/death/Death_High_Risk_Occupations.md` ↔ `02-心智心理/心理学/应用心理/occupationalburnout/` | 道德伤害与职业倦怠 |
+| 高风险职业与创伤 | `03-生命科学/death/Death_High_Risk_Occupations.md` ↔ `02-心智心理/心理学/临床/创伤/` | 替代性创伤与创伤治疗 |
+| 高风险职业与正念 | `03-生命科学/death/Death_High_Risk_Occupations.md` ↔ `02-心智心理/冥想/基础/总览/` | 心理韧性与正念练习 |
+| 宠物丧失与儿童发展 | `03-生命科学/death/Death_Pet_Loss.md` ↔ `02-心智心理/心理学/发展心理/` | 儿童首次死亡体验 |
+| 宠物丧失与老年心理 | `03-生命科学/death/Death_Pet_Loss.md` ↔ `02-心智心理/心理学/发展心理/衰老心理学/` | 老年社会孤立与宠物陪伴 |
+| 宠物丧失与哀伤 | `03-生命科学/death/Death_Pet_Loss.md` ↔ `02-心智心理/心理学/特殊专题/哀伤/` | 宠物哀伤与丧恸专题 |
 
 *覆盖: 10/10 支柱组合 + 3 组内部关联 + 孤独/独处专题跨支柱网络 + 死亡冥想专题跨支柱网络 + 死亡哲学P0-P3扩展网络 + 案例与实操工具网络 + 最终补全网络 + 工作生活场景网络*
 *最近更新: 2026-05-06*

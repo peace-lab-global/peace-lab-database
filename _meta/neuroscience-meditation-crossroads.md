@@ -13,9 +13,9 @@
 | 来源支柱 | 主要内容 | 文件位置 |
 |----------|---------|----------|
 | **01-智慧传承** | 瑜伽神经科学、禅宗神经科学、太极拳神经科学 | `yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md` · `religions/zen/Zen_Neuroscience_Psychology.md` · `tai-chi/Tai_Chi_Neuroscience_Evidence.md` |
-| **02-Mind-Psychology** | 冥想神经科学机制、止观神经科学研究、曼荼罗神经科学、直接认知神经科学 | `meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md` · `meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md` · `meditation/techniques/mandala-meditation/Mandala_Meditation_Neuroscience.md` |
-| **03-Bio-Science** | HPA轴神经科学、压力神经科学、性学神经科学 | `biology/hpa-axis/HPA_Axis_Neuroscience.md` · `sexuality/Sexuality_Neuroscience_Biology.md` |
-| **04-Humanities-Arts** | 阅读神经科学、戏剧疗法神经科学、书法疗愈神经科学 | `reading/Reading_Neuroscience.md` · `arts/drama-therapy/Drama_Therapy_Neuroscience.md` · `arts/calligraphy-therapy/Calligraphy_Neuroscience.md` |
+| **02-心智心理** | 冥想神经科学机制、止观神经科学研究、曼荼罗神经科学、直接认知神经科学 | `meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md` · `meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md` · `meditation/techniques/mandala-meditation/Mandala_Meditation_Neuroscience.md` |
+| **03-生命科学** | HPA轴神经科学、压力神经科学、性学神经科学 | `biology/hpa-axis/HPA_Axis_Neuroscience.md` · `sexuality/Sexuality_Neuroscience_Biology.md` |
+| **04-人文艺术** | 阅读神经科学、戏剧疗法神经科学、书法疗愈神经科学 | `reading/Reading_Neuroscience.md` · `arts/drama-therapy/Drama_Therapy_Neuroscience.md` · `arts/calligraphy-therapy/Calligraphy_Neuroscience.md` |
 
 ---
 
@@ -25,27 +25,27 @@
 
 | 文档 | 内容摘要 | 优先级 |
 |------|---------|--------|
-| [Meditation_Neuroscience_Mechanisms.md](meditation/foundations/overview/Meditation_Neuroscience_Mechanisms.md) | 冥想神经机制全解：神经递质、脑波、网络连接、自主神经系统 | ⭐⭐⭐ |
-| [Zen_Neuroscience_Psychology.md](religions/zen/Zen_Neuroscience_Psychology.md) | 禅修的神经生物学架构、临床心理学整合模型 | ⭐⭐⭐ |
-| [Yoga_Neuroscience_Modern_Research.md](yoga/anatomy-science/Yoga_Neuroscience_Modern_Research.md) | 瑜伽神经科学研究：脑区变化、神经递质、临床证据 | ⭐⭐⭐ |
-| [HPA_Axis_Neuroscience.md](../03-Bio-Science/biology/hpa-axis/HPA_Axis_Neuroscience.md) | HPA轴神经内分泌机制：应激反应、皮质醇节律 | ⭐⭐ |
+| [Meditation_Neuroscience_Mechanisms.md](冥想/基础/总览/冥想神经科学Mechanisms.md) | 冥想神经机制全解：神经递质、脑波、网络连接、自主神经系统 | ⭐⭐⭐ |
+| [Zen_Neuroscience_Psychology.md](宗教/禅宗/禅宗神经科学心理学.md) | 禅修的神经生物学架构、临床心理学整合模型 | ⭐⭐⭐ |
+| [Yoga_Neuroscience_Modern_Research.md](瑜伽/解剖科学/瑜伽神经科学现代研究.md) | 瑜伽神经科学研究：脑区变化、神经递质、临床证据 | ⭐⭐⭐ |
+| [HPA_Axis_Neuroscience.md](../03-生命科学/生物学/hpaaxis/HPA轴Axis神经科学.md) | HPA轴神经内分泌机制：应激反应、皮质醇节律 | ⭐⭐ |
 
 ### 2.2 冥想类型专项研究
 
 | 文档 | 冥想类型 | 神经科学发现 |
 |------|---------|-------------|
-| [Neuroscience_Research.md](../02-Mind-Psychology/meditation/traditions/buddhist/samatha-vipassana/Neuroscience_Research.md) | 止观（Samatha-Vipassana） | 南传佛教冥想的神经影像研究 |
-| [Mandala_Meditation_Neuroscience.md](../02-Mind-Psychology/meditation/techniques/mandala-meditation/Mandala_Meditation_Neuroscience.md) | 曼荼罗冥想 | 观想训练的神经机制 |
-| [Meditation_Direct_Recognition_Neuroscience.md](../02-Mind-Psychology/meditation/traditions/buddhist/direct-recognition/Meditation_Direct_Recognition_Neuroscience.md) | 直接认知/直指 | 高阶冥想的神经特征 |
-| [Tai_Chi_Neuroscience_Evidence.md](../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md) | 太极拳 | 运动冥想的脑影像与HRV证据 |
+| [Neuroscience_Research.md](../02-心智心理/冥想/传统/佛教/止观/神经科学研究.md) | 止观（Samatha-Vipassana） | 南传佛教冥想的神经影像研究 |
+| [Mandala_Meditation_Neuroscience.md](../02-心智心理/冥想/技术/坛城冥想/Mandala冥想神经科学.md) | 曼荼罗冥想 | 观想训练的神经机制 |
+| [Meditation_Direct_Recognition_Neuroscience.md](../02-心智心理/冥想/传统/佛教/directrecognition/冥想DirectRecognition神经科学.md) | 直接认知/直指 | 高阶冥想的神经特征 |
+| [Tai_Chi_Neuroscience_Evidence.md](../01-智慧传统/太极拳/太极拳神经科学循证.md) | 太极拳 | 运动冥想的脑影像与HRV证据 |
 
 ### 2.3 艺术与感知神经科学
 
 | 文档 | 内容 | 跨支柱关联 |
 |------|------|-----------|
-| [Reading_Neuroscience.md](../04-Humanities-Arts/reading/Reading_Neuroscience.md) | 阅读的神经机制 | 04人文→02心理学 |
-| [Calligraphy_Neuroscience.md](../04-Humanities-Arts/arts/calligraphy-therapy/Calligraphy_Neuroscience.md) | 书法疗愈的神经科学 | 04人文→01智慧（书道） |
-| [Drama_Therapy_Neuroscience.md](../04-Humanities-Arts/arts/drama-therapy/Drama_Therapy_Neuroscience.md) | 戏剧疗愈神经机制 | 04人文→02心理学 |
+| [Reading_Neuroscience.md](../04-人文艺术/阅读/阅读神经科学.md) | 阅读的神经机制 | 04人文→02心理学 |
+| [Calligraphy_Neuroscience.md](../04-人文艺术/艺术/书法疗法/书法神经科学.md) | 书法疗愈的神经科学 | 04人文→01智慧（书道） |
+| [Drama_Therapy_Neuroscience.md](../04-人文艺术/艺术/戏剧疗法/Drama疗法神经科学.md) | 戏剧疗愈神经机制 | 04人文→02心理学 |
 
 ---
 
@@ -136,10 +136,10 @@ graph TD
 
 | 智能体技能 | 神经科学基础 |
 |------------|-------------|
-| [Stress_Assessment_Skill.md](../02-Mind-Psychology/psychology/stress-hpa/skills/Stress_Assessment_Skill.md) | HPA轴神经科学、皮质醇节律 |
-| [Cortisol_Management_Skill.md](../02-Mind-Psychology/psychology/stress-hpa/skills/Cortisol_Management_Skill.md) | 皮质醇神经内分泌机制 |
-| [Relaxation_Techniques_Guide_Skill.md](../02-Mind-Psychology/psychology/stress-hpa/skills/Relaxation_Techniques_Guide_Skill.md) | 副交感神经激活、HRV增加 |
-| [Meditation_Brain_Science_Foundations.md](../02-Mind-Psychology/meditation/foundations/overview/Meditation_Brain_Science_Foundations.md) | 冥想神经机制全景图 |
+| [Stress_Assessment_Skill.md](../02-心智心理/心理学/压力与HPA轴/技能/压力评估Skill.md) | HPA轴神经科学、皮质醇节律 |
+| [Cortisol_Management_Skill.md](../02-心智心理/心理学/压力与HPA轴/技能/皮质醇管理Skill.md) | 皮质醇神经内分泌机制 |
+| [Relaxation_Techniques_Guide_Skill.md](../02-心智心理/心理学/压力与HPA轴/技能/放松技术指南Skill.md) | 副交感神经激活、HRV增加 |
+| [Meditation_Brain_Science_Foundations.md](../02-心智心理/冥想/基础/总览/冥想Brain科学基础.md) | 冥想神经机制全景图 |
 
 ---
 

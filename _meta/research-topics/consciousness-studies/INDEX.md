@@ -5,11 +5,11 @@ category: "research"
 tags: ["consciousness", "hard-problem", "NDE", "meditation-states", "neuroscience"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/"
+  - path: "01-智慧传统/宗教/佛教/"
     relation: "佛教唯识学与意识哲学"
-  - path: "02-Mind-Psychology/meditation/"
+  - path: "02-心智心理/冥想/"
     relation: "冥想意识状态"
-  - path: "03-Bio-Science/biology/brain/"
+  - path: "03-生命科学/生物学/脑科学/"
     relation: "脑科学与意识机制"
 ---
 

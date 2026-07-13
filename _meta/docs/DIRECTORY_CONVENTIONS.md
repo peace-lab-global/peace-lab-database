@@ -14,14 +14,14 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 **定义**:有明确主题,且直接包含内容文档的目录。
 
 **示例**:
-- `01-Wisdom-Traditions/religions/buddhism/` — 佛教相关内容
-- `03-Bio-Science/biology/sleep-science/` — 睡眠科学
-- `06-Clinical-Topics/anxiety/` — 焦虑障碍
+- `01-智慧传统/宗教/佛教/` — 佛教相关内容
+- `03-生命科学/生物学/睡眠科学/` — 睡眠科学
+- `06-临床专题/焦虑/` — 焦虑障碍
 
 **规则**:
 - ✅ 必须有 `INDEX.md`(可以是手写或自动生成)
 - ✅ 直接包含 `.md` 文件或叶子子目录
-- ✅ 命名用英文小写连字符(例:`cognitive-behavioral`)
+- ✅ 命名用英文小写连字符(例:`认知行为`)
 - ❌ 不应是纯空目录
 
 ### 1.2 枢纽目录 (Hub Directory) — 跨学科组织型
@@ -29,9 +29,9 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 **定义**:自身只含 `INDEX.md` 和子目录,用于跨学科/跨主题组织,**不直接存放内容**。
 
 **示例**:
-- `02-Mind-Psychology/psychology/clinical/` — 心理学临床话题枢纽
-- `06-Clinical-Topics/anxiety/psychology/` — 临床主题下嵌入心理学视角
-- `04-Humanities-Arts/literature/world-poetry/` — 世界诗歌枢纽
+- `02-心智心理/心理学/临床/` — 心理学临床话题枢纽
+- `06-临床专题/焦虑/心理学/` — 临床主题下嵌入心理学视角
+- `04-人文艺术/文学/world诗歌/` — 世界诗歌枢纽
 
 **规则**:
 - ✅ 必须有 `INDEX.md`,且 INDEX 应明确标注"枢纽目录"性质
@@ -41,16 +41,16 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 
 **为什么需要枢纽目录?**
 当一个主题有多个维度(例:从临床疾病角度 vs 从心理学方法论角度)组织时,需要枢纽目录让用户从两个入口都能找到内容。例如:
-- `06-Clinical-Topics/anxiety/psychology/self-regulation/anti-ocd/` ← 从"焦虑障碍"入口
-- `02-Mind-Psychology/psychology/clinical/disorder/ocd/` ← 从"心理学临床"入口
+- `06-临床专题/焦虑/心理学/selfregulation/anti强迫症/` ← 从"焦虑障碍"入口
+- `02-心智心理/心理学/临床/障碍/强迫症/` ← 从"心理学临床"入口
 
 ### 1.3 镜像目录 (Mirror Directory) — 跨域引用型
 
 **定义**:在另一个 domain 内部嵌入,以便从该 domain 主题出发快速跳转到源 domain 的内容。
 
 **示例**:
-- `06-Clinical-Topics/anxiety/psychology/` — 镜像 02-Mind-Psychology/psychology/ 的结构
-- `06-Clinical-Topics/sleep-disorders/psychology/dream-psychology/` — 引用 02-Mind-Psychology/psychology/special-topics/dream-psychology/
+- `06-临床专题/焦虑/心理学/` — 镜像 02-心智心理/psychology/ 的结构
+- `06-临床专题/睡眠障碍/心理学/梦心理学/` — 引用 02-心智心理/psychology/special-topics/dream-psychology/
 
 **规则**:
 - ✅ 镜像目录下的文档应保持**与源目录同步**(避免双写)
@@ -63,8 +63,8 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 **定义**:包含特定流程或课程的多个文件(讲座、课程、项目文档等)。
 
 **示例**:
-- `02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/` — MOCICI 冥想课程
-- `05-Praxis-Growth/talks/ted-talks/` — TED 演讲库
+- `02-心智心理/冥想/courses/mocici-course-1-meditator/` — MOCICI 冥想课程
+- `05-实践成长/演讲/ted演讲/` — TED 演讲库
 
 **规则**:
 - ✅ 可有清晰的层级(例:`courses/mocici-course-X/dayY/doc/`)
@@ -79,14 +79,14 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 
 | 类型 | 规则 | 示例 |
 |---|---|---|
-| 主题目录 | 英文小写 + 连字符 | `cognitive-behavioral`, `sleep-disorders` |
-| 宗教/传统 | 英文小写 | `buddhism`, `dao`, `zen` |
-| 复合概念 | 英文小写连字符 | `religious-psychology`, `tibetan-buddhism` |
+| 主题目录 | 英文小写 + 连字符 | `认知行为`, `睡眠障碍` |
+| 宗教/传统 | 英文小写 | `佛教`, `道家`, `禅宗` |
+| 复合概念 | 英文小写连字符 | `宗教心理学`, `藏传佛教` |
 | 流程目录 | `kebab-case` 描述流程 | `mocici-course-1-meditator` |
-| 单数 vs 复数 | 概念本身用单数,内容集合用复数 | `psychology/`(单数,主题), `authors/`(复数,集合) |
+| 单数 vs 复数 | 概念本身用单数,内容集合用复数 | `心理学/`(单数,主题), `作家/`(复数,集合) |
 
 **⚠️ 当前不一致项**(已列入整改):
-- `01/religions/buddhism/`(单数)vs `01/religions/tibetan-buddhism/`(复合)
+- `01/宗教/佛教/`(单数)vs `01/宗教/藏传佛教/`(复合)
 - 部分目录使用中文(如 `02/meditation/courses/.../正念转化焦虑/`),与其他英文目录混杂
 
 ### 2.2 文件命名
@@ -100,7 +100,7 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 ### 2.3 INDEX.md 命名
 
 - 每个有子目录的目录都应有 `INDEX.md`
-- 例外:`_meta/`, `Tools/`, `Web/` 等元/工具目录不需要
+- 例外:`_元信息/`, `Tools/`, `Web/` 等元/工具目录不需要
 
 ---
 
@@ -128,7 +128,7 @@ python3 Tools/scripts/generate_index.py            # 执行
 
 - frontmatter 不含 `auto_generated: true`
 - 包含分类、描述、阅读顺序等人写内容
-- 例:`01-Wisdom-Traditions/INDEX.md`(完整人工维护)
+- 例:`01-智慧传统/INDEX.md`(完整人工维护)
 
 ---
 
@@ -141,7 +141,7 @@ python3 Tools/scripts/generate_index.py            # 执行
 - [ ] 没有 > 50 md 的纯平铺目录(应拆分子目录)
 - [ ] 顶层散文件(非 INDEX.md) < 3 个
 - [ ] 没有拼写错误的目录名(如 `infograhic`)
-- [ ] 跨域引用的镜像目录已记录在 `_meta/topic-maps/`
+- [ ] 跨域引用的镜像目录已记录在 `_元信息/topic-maps/`
 
 ### 健康度脚本
 
@@ -164,7 +164,7 @@ python3 Tools/scripts/generate_index.py --dry-run
 
 ### 5.2 元文档(About This Repo)
 
-文档管理、命名规范本身放在 `_meta/` 下,例如本文档。
+文档管理、命名规范本身放在 `_元信息/` 下,例如本文档。
 
 ### 5.3 总览文档(Overview Documents)
 

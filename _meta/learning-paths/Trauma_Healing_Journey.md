@@ -6,34 +6,34 @@
 
 ## 阶段一：认识创伤
 
-1. [创伤心理学](../../02-Mind-Psychology/psychology/clinical/trauma/)
-2. [躯体体验疗法](../../02-Mind-Psychology/psychology/somatic-body/somatic/)
-3. [危机评估](../../02-Mind-Psychology/psychology/clinical/crisis-assessment/)
+1. [创伤心理学](../../02-心智心理/心理学/临床/创伤/)
+2. [躯体体验疗法](../../02-心智心理/心理学/躯体身心/躯体/)
+3. [危机评估](../../02-心智心理/心理学/临床/危机评估/)
 
 ## 阶段二：稳定化技术
 
-4. [接地技术](../../02-Mind-Psychology/psychology/self-regulation/grounding-techniques/)
-5. [容纳技术](../../02-Mind-Psychology/psychology/self-regulation/containment-techniques/)
-6. [自我安抚](../../02-Mind-Psychology/psychology/self-regulation/self-soothing/)
-7. [放松技术](../../02-Mind-Psychology/psychology/somatic-body/relaxation/)
+4. [接地技术](../../02-心智心理/心理学/selfregulation/接地技术/)
+5. [容纳技术](../../02-心智心理/心理学/selfregulation/容纳技术/)
+6. [自我安抚](../../02-心智心理/心理学/selfregulation/selfsoothing/)
+7. [放松技术](../../02-心智心理/心理学/躯体身心/放松/)
 
 ## 阶段三：循证疗法
 
-8. [TF-CBT 创伤聚焦认知行为疗法](../../02-Mind-Psychology/therapy/cognitive-behavioral/tf-cbt-therapy/)
-9. [EMDR 眼动脱敏](../../02-Mind-Psychology/therapy/integrative/emdr-therapy/)
-10. [IFS 内部家庭系统（部分工作）](../../02-Mind-Psychology/therapy/integrative/ifs-therapy/IFS_Overview.md) — 创伤的内在关系取向
-11. [Somatic Experiencing 躯体体验](../../02-Mind-Psychology/therapy/integrative/somatic-experiencing/SE_Overview.md) — 完成冻结的生存反应
-12. [辩证行为疗法 DBT](../../02-Mind-Psychology/therapy/cognitive-behavioral/dialectical-behavior-therapy/)
-13. [慈悲聚焦疗法 CFT](../../02-Mind-Psychology/therapy/integrative/compassion-focused-therapy/)
-14. [频率疗愈 (417Hz 创伤释放)](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md)
-15. [脑波 Alpha-Theta PTSD 引导](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md)
-16. [创伤知情冥想](../../02-Mind-Psychology/meditation/clinical/safety/Trauma_Informed_Meditation.md) — 安全引导创伤史冥想者
+8. [TF-CBT 创伤聚焦认知行为疗法](../../02-心智心理/疗法/认知行为/创伤聚焦认知行为疗法/)
+9. [EMDR 眼动脱敏](../../02-心智心理/疗法/整合疗法/眼动脱敏疗法/)
+10. [IFS 内部家庭系统（部分工作）](../../02-心智心理/疗法/整合疗法/内在家庭系统疗法/IFS总览.md) — 创伤的内在关系取向
+11. [Somatic Experiencing 躯体体验](../../02-心智心理/疗法/整合疗法/躯体体验/SE总览.md) — 完成冻结的生存反应
+12. [辩证行为疗法 DBT](../../02-心智心理/疗法/认知行为/辩证行为疗法/)
+13. [慈悲聚焦疗法 CFT](../../02-心智心理/疗法/整合疗法/慈悲聚焦疗法/)
+14. [频率疗愈 (417Hz 创伤释放)](../../02-心智心理/疗法/感官nature/感官/感官SolfeggioFrequencies.md)
+15. [脑波 Alpha-Theta PTSD 引导](../../02-心智心理/疗法/感官nature/感官/感官BrainwaveEntrainment.md)
+16. [创伤知情冥想](../../02-心智心理/冥想/临床/安全/创伤Informed冥想.md) — 安全引导创伤史冥想者
 
 ## 阶段四：整合与成长
 
-15. [创伤后成长](../../02-Mind-Psychology/psychology/clinical/crisis-postvention/)
-16. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
-17. [正念认知疗法 MBCT](../../02-Mind-Psychology/therapy/integrative/mbct-therapy/)
+15. [创伤后成长](../../02-心智心理/心理学/临床/危机postvention/)
+16. [自我关怀](../../02-心智心理/心理学/selfregulation/self慈悲/)
+17. [正念认知疗法 MBCT](../../02-心智心理/疗法/整合疗法/正念认知疗法/)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

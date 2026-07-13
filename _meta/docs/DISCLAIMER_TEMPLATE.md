@@ -9,7 +9,7 @@
 
 ### 1.1 通用免责声明(General)
 
-适用于所有 06-Clinical-Topics 与 02-Mind-Psychology/psychology/clinical/ 下的文档。
+适用于所有 06-临床专题 与 02-心智心理/psychology/clinical/ 下的文档。
 
 ```markdown
 ## ⚠️ 重要声明 | Important Disclaimer
@@ -34,7 +34,7 @@
 
 ### 2.1 临床心理学模板(Clinical Psychology)
 
-适用于所有 `02-Mind-Psychology/psychology/clinical/` 与 `06-Clinical-Topics/` 下的内容。
+适用于所有 `02-心智心理/心理学/临床/` 与 `06-临床专题/` 下的内容。
 
 ```markdown
 ## ⚠️ 临床免责声明 | Clinical Disclaimer
@@ -64,7 +64,7 @@
 
 ### 2.2 冥想与正念模板(Meditation & Mindfulness)
 
-适用于所有 `02-Mind-Psychology/meditation/` 与涉及冥想实践的文档。
+适用于所有 `02-心智心理/冥想/` 与涉及冥想实践的文档。
 
 ```markdown
 ## ⚠️ 冥想练习免责声明 | Meditation Practice Disclaimer
@@ -127,7 +127,7 @@
 
 ### 2.5 文学与艺术疗愈模板(Literature & Arts Therapy)
 
-适用于所有 04-Humanities-Arts/ 与文学疗愈、艺术疗愈相关文档。
+适用于所有 04-人文艺术/ 与文学疗愈、艺术疗愈相关文档。
 
 ```markdown
 ## ⚠️ 文学/艺术疗愈免责声明 | Arts Therapy Disclaimer
@@ -185,7 +185,7 @@
 
 ### 4.2 顶层 domain INDEX 模板
 
-在 `06-Clinical-Topics/INDEX.md` 与 `02-Mind-Psychology/INDEX.md` 等顶层文档:
+在 `06-临床专题/INDEX.md` 与 `02-心智心理/INDEX.md` 等顶层文档:
 
 ```markdown
 ## ⚠️ 全局免责声明 | Global Disclaimer
@@ -210,10 +210,10 @@
 ### 5.1 应包含免责声明的文档
 
 由脚本自动检测以下条件:
-- 路径包含 `06-Clinical-Topics/`
-- 路径包含 `02-Mind-Psychology/psychology/clinical/`
-- 路径包含 `02-Mind-Psychology/meditation/clinical/`
-- 路径包含 `02-Mind-Psychology/relationships/`(部分)
+- 路径包含 `06-临床专题/`
+- 路径包含 `02-心智心理/心理学/临床/`
+- 路径包含 `02-心智心理/冥想/临床/`
+- 路径包含 `02-心智心理/关系/`(部分)
 - 文件 frontmatter 包含 `category:` 含"临床"
 - 文件内容包含 DSM/ICD/PHQ/SSRI 等关键词
 

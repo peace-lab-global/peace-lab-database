@@ -17,7 +17,7 @@
 
 **核心话题域**: 孤独心理学、婚内孤独、独处艺术、社交重建、数字时代孤独
 
-**知识库依托**: `02-Mind-Psychology/psychology/social/loneliness/` · `02-Mind-Psychology/relationships/marriage/marital-loneliness/`
+**知识库依托**: `02-心智心理/心理学/社会心理/孤独/` · `02-心智心理/关系/婚姻/婚姻孤独/`
 
 ---
 

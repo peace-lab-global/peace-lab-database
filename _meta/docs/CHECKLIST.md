@@ -106,9 +106,9 @@ key_references:  # 关键引用
 
 **触发条件**(满足任一即需要免责声明):
 
-- 文件路径含 `06-Clinical-Topics/`
-- 文件路径含 `02-Mind-Psychology/psychology/clinical/`
-- 文件路径含 `02-Mind-Psychology/meditation/clinical/`
+- 文件路径含 `06-临床专题/`
+- 文件路径含 `02-心智心理/心理学/临床/`
+- 文件路径含 `02-心智心理/冥想/临床/`
 - 文件 frontmatter `category:` 含"临床"
 - 文件内容含 DSM/ICD/PHQ/SSRI/MBCT 等专业术语
 
@@ -192,13 +192,13 @@ status: "mirror"
 
 ### 6.2 层次
 
-- 至少 1 个 L1 顶层 tags(`healing`, `philosophy`, `psychology`, `meditation` 等)
+- 至少 1 个 L1 顶层 tags(`healing`, `哲学`, `心理学`, `冥想` 等)
 - 2-3 个 L2 中层 tags(领域细分)
 - 可选 L3 底层 tags(具体概念)
 
 ### 6.3 命名
 
-- ✅ 英文小写连字符:`cognitive-behavioral`
+- ✅ 英文小写连字符:`认知行为`
 - ✅ 单数 vs 复数遵循语义
 - ❌ 中英文混用 tags
 

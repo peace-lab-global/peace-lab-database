@@ -17,7 +17,7 @@
 ### 使用方法
 1. 复制下方模板
 2. 填写研究信息
-3. 保存至对应专题目录（如 `therapy/integrative/mbct-therapy/evidence/`）
+3. 保存至对应专题目录（如 `疗法/整合疗法/正念认知疗法/循证研究/`）
 
 ---
 
@@ -217,9 +217,9 @@
 | 暴露疗法 | [待填] | ⏳ 整理中 |
 
 **证据文件位置**:
-- `MBCT`: `02-Mind-Psychology/therapy/integrative/mbct-therapy/evidence/MBCT_RCT_Evidence_Summary.md`
-- `ACT`: `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/evidence/ACT_RCT_Evidence_Summary.md`
-- `MBSR`: `02-Mind-Psychology/meditation/clinical/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md`
+- `MBCT`: `02-心智心理/therapy/integrative/mbct-therapy/evidence/MBCT_RCT_Evidence_Summary.md`
+- `ACT`: `02-心智心理/therapy/cognitive-behavioral/act-therapy/evidence/ACT_RCT_Evidence_Summary.md`
+- `MBSR`: `02-心智心理/meditation/clinical/mbsr-program/evidence/MBSR_RCT_Evidence_Summary.md`
 
 ---
 

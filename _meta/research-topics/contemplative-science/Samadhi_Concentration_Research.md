@@ -5,23 +5,23 @@ category: "research"
 tags: ["定力", "samādhi", "concentration", "meditation", "embodiment", "cross-domain"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md"
+  - path: "01-智慧传统/宗教/佛教/冥想/Buddhism_Samatha_Vipassana.md"
     relation: "三种定力分类的理论基础"
-  - path: "01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Vipassana_Traditions.md"
+  - path: "01-智慧传统/宗教/佛教/南传上座部/Theravada_Vipassana_Traditions.md"
     relation: "各传承对定力的不同要求"
-  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md"
+  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md"
     relation: "定力解决问题的核心作用与训练方法"
-  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md"
+  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md"
     relation: "定力训练的六个关键词"
-  - path: "02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md"
+  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md"
     relation: "影像稳定性与定力的关系、动中定"
-  - path: "01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Zhanzhuang_Standing.md"
+  - path: "01-智慧传统/太极拳/基本功/TaiChi_Zhanzhuang_Standing.md"
     relation: "站桩对定力的培养"
-  - path: "01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md"
+  - path: "01-智慧传统/哲学/南亚/印度/Philosophy_Eastern_Indian_Schools.md"
     relation: "数论派通过定力隔离神我"
-  - path: "01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md"
+  - path: "01-智慧传统/宗教/禅宗/Zen_Sutras_In_Depth.md"
     relation: "金刚经战略定力"
-  - path: "05-Praxis-Growth/personal-development/focus/Focus_Core.md"
+  - path: "05-实践成长/个人发展/专注/Focus_Core.md"
     relation: "专注力核心理论与认知科学"
 ---
 
@@ -46,7 +46,7 @@ cross_refs:
 
 ### 2.1 核心分类表
 
-> 来源：[Buddhism_Samatha_Vipassana.md](../../../01-Wisdom-Traditions/religions/buddhism/meditation/Buddhism_Samatha_Vipassana.md)
+> 来源：[Buddhism_Samatha_Vipassana.md](../../../01-智慧传统/宗教/佛教/冥想/佛教止观.md)
 
 | 定力类型 | 巴利语 | 英文 | 深度 | 特征 | 维持时间 | 适用修法 | 日常比喻 |
 |---|---|---|---|---|---|---|---|
@@ -66,7 +66,7 @@ cross_refs:
 
 ### 2.3 各传承的定力要求
 
-> 来源：[Theravada_Vipassana_Traditions.md](../../../01-Wisdom-Traditions/religions/buddhism/theravada/Theravada_Vipassana_Traditions.md)
+> 来源：[Theravada_Vipassana_Traditions.md](../../../01-智慧传统/宗教/佛教/南传上座部/南传观Traditions.md)
 
 | 传承 | 定力要求 | 路线 |
 |:-----|:---------|:-----|
@@ -84,7 +84,7 @@ cross_refs:
 
 ### 3.1 定力的四大核心作用
 
-> 来源：[冥想与止观·第七讲](../../../02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md)
+> 来源：[冥想与止观·第七讲](../../../02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md)
 
 | 作用 | 说明 | 课程金句 |
 |:-----|:-----|:---------|
@@ -104,7 +104,7 @@ cross_refs:
 
 ### 3.3 定力训练的六个关键词
 
-> 来源：[冥想与止观·第五讲](../../../02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md) & [第十一讲](../../../02-Mind-Psychology/meditation/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md)
+> 来源：[冥想与止观·第五讲](../../../02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md) & [第十一讲](../../../02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md)
 
 | 序号 | 关键词 | 核心含义 | 实践要点 |
 |:-----|:-------|:---------|:---------|
@@ -135,7 +135,7 @@ cross_refs:
 
 ### 4.1 太极拳：站桩定力
 
-> 来源：[TaiChi_Zhanzhuang_Standing.md](../../../01-Wisdom-Traditions/tai-chi/fundamentals/TaiChi_Zhanzhuang_Standing.md)
+> 来源：[TaiChi_Zhanzhuang_Standing.md](../../../01-智慧传统/太极拳/基本功/TaiChiZhanzhuangStanding.md)
 
 站桩功的核心价值之一：通过静中训练，培养**耐性、定力、吃苦耐劳的精神**。站桩是一种极致的「不动中的定力」训练 — 身体保持静止，心念保持觉知。
 
@@ -143,7 +143,7 @@ cross_refs:
 
 ### 4.2 瑜伽：定力隔离神我
 
-> 来源：[Philosophy_Eastern_Indian_Schools.md](../../../01-Wisdom-Traditions/philosophy/south-asian/india/Philosophy_Eastern_Indian_Schools.md)
+> 来源：[Philosophy_Eastern_Indian_Schools.md](../../../01-智慧传统/哲学/南亚/印度/哲学EasternIndian流派.md)
 
 | 学派 | 解脱路径 | 世界本质 |
 |:-----|:---------|:---------|
@@ -155,7 +155,7 @@ cross_refs:
 
 ### 4.3 禅宗：战略定力
 
-> 来源：[Zen_Sutras_In_Depth.md](../../../01-Wisdom-Traditions/religions/zen/Zen_Sutras_In_Depth.md)
+> 来源：[Zen_Sutras_In_Depth.md](../../../01-智慧传统/宗教/禅宗/禅宗经论深研.md)
 
 《金刚经》核心句「凡所有相，皆是虚妄」的现代应用：**建立长远的战略定力**，不被表象、名声、暂时得失所困。
 
@@ -167,7 +167,7 @@ cross_refs:
 
 ### 5.1 专注力核心理论
 
-> 来源：[Focus_Core.md](../../../05-Praxis-Growth/personal-development/focus/Focus_Core.md)
+> 来源：[Focus_Core.md](../../../05-实践成长/个人发展/专注/专注核心.md)
 
 | 传统概念 | 认知科学对应 | 说明 |
 |:---------|:-------------|:-----|
@@ -306,8 +306,8 @@ cross_refs:
 
 | 身体问题 | 对定力的影响 | 对冲方案 | 项目内资源 |
 |:---------|:-------------|:---------|:-----------|
-| **颈肩僵硬** | 持续的低级别疼痛干扰注意 | 每 25 分钟做颈部四向拉伸 | `03-Bio/office-neck-shoulder/` |
-| **眼疲劳** | 视觉模糊导致心神涣散 | 20-20-20 法则 + 眼球操 | `03-Bio/office-eye-relaxation/` |
+| **颈肩僵硬** | 持续的低级别疼痛干扰注意 | 每 25 分钟做颈部四向拉伸 | `03-Bio/办公颈部肩/` |
+| **眼疲劳** | 视觉模糊导致心神涣散 | 20-20-20 法则 + 眼球操 | `03-Bio/办公眼部放松/` |
 | **久坐腰背** | 坐姿不稳 → 心不稳 | 站桩 2 分钟（等水烧开时） | `01-Wisdom/.../TaiChi_Zhanzhuang_Standing.md` |
 | **腕部紧张** | 打字疼痛分散注意 | 云手 + 手腕八字转 | 本课程推荐 |
 

@@ -5,11 +5,11 @@ category: "research"
 tags: ["embodiment", "cognition", "interoception", "body-schema", "motor-cognition"]
 last_updated: "2026-06"
 cross_refs:
-  - path: "01-Wisdom-Traditions/tai-chi/"
+  - path: "01-智慧传统/太极拳/"
     relation: "太极拳的具身认知效应"
-  - path: "01-Wisdom-Traditions/yoga/"
+  - path: "01-智慧传统/瑜伽/"
     relation: "瑜伽体位与身体觉察"
-  - path: "03-Bio-Science/biology/exercise-science/"
+  - path: "03-生命科学/生物学/运动科学/"
     relation: "运动与认知功能"
 ---
 

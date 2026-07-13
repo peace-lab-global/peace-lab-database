@@ -1,0 +1,431 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peace Lab — 孤独×独处联合仪表盘 | Loneliness × Solitude Joint Dashboard</title>
+    <script src="https://cdn.jsdelivr.net/npm/echarts@5.4.3/dist/echarts.min.js"></script>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', 'Microsoft YaHei', sans-serif;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f2027 100%);
+            color: #e0e0e0;
+            min-height: 100vh;
+            padding: 20px;
+        }
+        .header {
+            text-align: center;
+            padding: 30px 20px;
+            margin-bottom: 20px;
+        }
+        .header h1 {
+            font-size: 2.2em;
+            background: linear-gradient(90deg, #e94560, #00d2ff, #e94560);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            margin-bottom: 10px;
+        }
+        .header p {
+            color: #a0aec0;
+            font-size: 1.05em;
+            max-width: 900px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+        .nav-bar {
+            text-align: center;
+            margin-bottom: 25px;
+        }
+        .nav-bar a {
+            display: inline-block;
+            padding: 10px 20px;
+            margin: 0 5px 8px;
+            background: rgba(255,255,255,0.05);
+            border: 1px solid rgba(255,255,255,0.15);
+            border-radius: 8px;
+            color: #a0aec0;
+            text-decoration: none;
+            font-size: 0.9em;
+            transition: all 0.3s;
+        }
+        .nav-bar a:hover { background: rgba(255,255,255,0.1); color: #fff; }
+        .nav-bar a.active { border-color: #e94560; color: #e94560; }
+
+        .control-panel {
+            display: flex;
+            justify-content: center;
+            gap: 15px;
+            margin-bottom: 25px;
+            flex-wrap: wrap;
+        }
+        .control-btn {
+            padding: 12px 24px;
+            border: 2px solid;
+            border-radius: 10px;
+            background: transparent;
+            cursor: pointer;
+            font-size: 1em;
+            font-weight: 600;
+            transition: all 0.3s;
+        }
+        .control-btn.loneliness { border-color: #e94560; color: #e94560; }
+        .control-btn.loneliness:hover, .control-btn.loneliness.active { background: #e94560; color: #fff; }
+        .control-btn.solitude { border-color: #00d2ff; color: #00d2ff; }
+        .control-btn.solitude:hover, .control-btn.solitude.active { background: #00d2ff; color: #fff; }
+        .control-btn.both { border-color: #f59e0b; color: #f59e0b; }
+        .control-btn.both:hover, .control-btn.both.active { background: #f59e0b; color: #fff; }
+
+        .dashboard-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(480px, 1fr));
+            gap: 20px;
+            max-width: 1600px;
+            margin: 0 auto;
+        }
+        .chart-container {
+            background: rgba(255,255,255,0.04);
+            border: 1px solid rgba(255,255,255,0.08);
+            border-radius: 16px;
+            padding: 20px;
+            backdrop-filter: blur(10px);
+            transition: opacity 0.5s;
+        }
+        .chart-container.hidden { display: none; }
+        .chart-title {
+            font-size: 1.15em;
+            font-weight: 600;
+            color: #f8f8f2;
+            margin-bottom: 5px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+        }
+        .tag-l { color: #e94560; font-size: 0.7em; border: 1px solid #e9456044; padding: 2px 6px; border-radius: 4px; background: #e9456022; }
+        .tag-s { color: #00d2ff; font-size: 0.7em; border: 1px solid #00d2ff44; padding: 2px 6px; border-radius: 4px; background: #00d2ff22; }
+        .tag-j { color: #f59e0b; font-size: 0.7em; border: 1px solid #f59e0b44; padding: 2px 6px; border-radius: 4px; background: #f59e0b22; }
+        .chart-subtitle {
+            font-size: 0.82em;
+            color: #8892b0;
+            margin-bottom: 15px;
+        }
+        .chart-box {
+            width: 100%;
+            height: 360px;
+        }
+        .full-width { grid-column: 1 / -1; }
+        @media (max-width: 600px) {
+            .dashboard-grid { grid-template-columns: 1fr; }
+            .header h1 { font-size: 1.5em; }
+        }
+        .footer {
+            text-align: center;
+            padding: 30px;
+            color: #64748b;
+            font-size: 0.85em;
+        }
+        .insight-box {
+            background: rgba(245,158,11,0.08);
+            border: 1px solid rgba(245,158,11,0.2);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 20px;
+            max-width: 1600px;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        .insight-box h3 {
+            color: #f59e0b;
+            margin-bottom: 10px;
+            font-size: 1.1em;
+        }
+        .insight-box p {
+            color: #a0aec0;
+            line-height: 1.6;
+            font-size: 0.95em;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h1>🌐 孤独 × 独处 联合仪表盘</h1>
+        <p>Loneliness × Solitude Joint Dashboard — 同时呈现孤独与独处两大专题的核心数据，支持视角切换与对比分析。帮助临床工作者、研究者和个人在"连接"与"独处"之间找到动态平衡。</p>
+    </div>
+
+    <div class="nav-bar">
+        <a href="../../loneliness/visualization/Loneliness_Dashboard.html">🔴 孤独仪表盘</a>
+        <a href="./Solitude_Dashboard.html">🌿 独处仪表盘</a>
+        <a href="./Loneliness_Solitude_Assessment.html" class="active">📝 联合评估工具</a>
+        <a href="./Cross_Reference_Network.html">🕸️ 交叉引用网络</a>
+    </div>
+
+    <div class="control-panel">
+        <button class="control-btn loneliness" onclick="showView('loneliness')">🔴 仅看孤独</button>
+        <button class="control-btn solitude" onclick="showView('solitude')">🌿 仅看独处</button>
+        <button class="control-btn both active" onclick="showView('both')">🟡 联合视图</button>
+    </div>
+
+    <div class="insight-box">
+        <h3>💡 联合洞察</h3>
+        <p>全球约 <strong>27%</strong> 的成年人感到孤独，但同时 <strong>60-70%</strong> 的独居者并不孤独。孤独不是独处的必然结果，独处也不是孤独的解药——关键在于<strong>独处质量</strong>和<strong>社会连接质量</strong>的动态平衡。本联合仪表盘帮助你在两个维度上同时定位、监测和干预。</p>
+    </div>
+
+    <div class="dashboard-grid">
+        <!-- 联合核心：四象限动态矩阵 -->
+        <div class="chart-container joint full-width">
+            <div class="chart-title">🎯 孤独 × 独处 联合定位矩阵 <span class="tag-j">联合</span></div>
+            <div class="chart-subtitle">同时评估孤独水平与独处质量，精准定位当前状态并提供跨专题干预建议。点击散点查看详情。</div>
+            <div class="chart-box" id="jointMatrixChart"></div>
+        </div>
+
+        <!-- 孤独：年龄U型曲线 -->
+        <div class="chart-container loneliness">
+            <div class="chart-title">📈 年龄-孤独U型曲线 <span class="tag-l">孤独</span></div>
+            <div class="chart-subtitle">全球代表性数据：青少年与老年双峰。Source: BBC + ESS</div>
+            <div class="chart-box" id="ageLonelinessChart"></div>
+        </div>
+
+        <!-- 独处：毕生发展曲线 -->
+        <div class="chart-container solitude">
+            <div class="chart-title">📈 独处能力毕生发展曲线 <span class="tag-s">独处</span></div>
+            <div class="chart-subtitle">独处耐受×满意度×创造性的三维发展。Source: Larson, Coplan</div>
+            <div class="chart-box" id="ageSolitudeChart"></div>
+        </div>
+
+        <!-- 孤独：干预效果 -->
+        <div class="chart-container loneliness">
+            <div class="chart-title">💊 孤独干预效果Meta分析 <span class="tag-l">孤独</span></div>
+            <div class="chart-subtitle">效应量对比：心理社会干预 vs 药物 vs 数字化工具</div>
+            <div class="chart-box" id="interventionChart"></div>
+        </div>
+
+        <!-- 独处：12周训练 -->
+        <div class="chart-container solitude">
+            <div class="chart-title">📅 独处能力12周训练进度 <span class="tag-s">独处</span></div>
+            <div class="chart-subtitle">四阶段渐进训练：微独处→短独处→中独处→长独处</div>
+            <div class="chart-box" id="trainingChart"></div>
+        </div>
+
+        <!-- 联合：全球数据对比 -->
+        <div class="chart-container joint full-width">
+            <div class="chart-title">🌍 全球孤独率 vs 独居率 vs 独处文化接受度 <span class="tag-j">联合</span></div>
+            <div class="chart-subtitle">三轴对比揭示：高独居≠高孤独；文化接受度是关键调节变量</div>
+            <div class="chart-box" id="globalCompareChart"></div>
+        </div>
+
+        <!-- 孤独：生物学级联 -->
+        <div class="chart-container loneliness">
+            <div class="chart-title">🧬 孤独生物学五级级联 <span class="tag-l">孤独</span></div>
+            <div class="chart-subtitle">社会连接缺失→神经→内分泌→免疫→细胞的级联反应</div>
+            <div class="chart-box" id="cascadeChart"></div>
+        </div>
+
+        <!-- 独处：脑网络重构 -->
+        <div class="chart-container solitude">
+            <div class="chart-title">🧠 独处时脑网络重构 <span class="tag-s">独处</span></div>
+            <div class="chart-subtitle">DMN激活↑ CEN降低 SN降低 → 自我整合与创造力</div>
+            <div class="chart-box" id="brainChart"></div>
+        </div>
+
+        <!-- 联合：数字时代 -->
+        <div class="chart-container joint full-width">
+            <div class="chart-title">📱 数字时代的"真独处"侵蚀：孤独与独处的共同敌人 <span class="tag-j">联合</span></div>
+            <div class="chart-subtitle">数字技术同时侵蚀"真实社交"和"真实独处"——将两者都转化为"伪连接"和"伪独处"</div>
+            <div class="chart-box" id="digitalJointChart"></div>
+        </div>
+    </div>
+
+    <div class="footer">
+        <p>Peace Lab Database — 孤独×独处联合仪表盘 v1.0</p>
+        <p>🔴 孤独专题 = 临床干预导向 | 🌿 独处专题 = 个人成长导向 | 🟡 联合视图 = 动态平衡视角</p>
+        <p>⚠️ 仅供研究与教育用途，不构成临床诊断或治疗建议。</p>
+    </div>
+
+<script>
+// View switching
+function showView(view) {
+    document.querySelectorAll('.control-btn').forEach(b => b.classList.remove('active'));
+    document.querySelector('.control-btn.' + view).classList.add('active');
+    document.querySelectorAll('.chart-container').forEach(c => {
+        if (view === 'both') c.classList.remove('hidden');
+        else if (!c.classList.contains(view) && !c.classList.contains('joint')) c.classList.add('hidden');
+        else if (c.classList.contains(view) || c.classList.contains('joint')) c.classList.remove('hidden');
+    });
+    setTimeout(() => {
+        jointMatrixChart.resize(); ageLonelinessChart.resize(); ageSolitudeChart.resize();
+        interventionChart.resize(); trainingChart.resize(); globalCompareChart.resize();
+        cascadeChart.resize(); brainChart.resize(); digitalJointChart.resize();
+    }, 100);
+}
+
+// ==================== 1. 联合定位矩阵 ====================
+const jointMatrixChart = echarts.init(document.getElementById('jointMatrixChart'));
+jointMatrixChart.setOption({
+    tooltip: {
+        formatter: function(p) {
+            const rec = {
+                '丰盈独处': '高独处+低孤独 → 理想状态<br/>建议: 保护独处空间，定期监测',
+                '建设性孤独': '高独处+中孤独 → 转化中<br/>建议: solitude训练 + 适度社交',
+                '病理性孤独': '高独处+高孤独 → 需干预<br/>建议: loneliness临床干预优先',
+                '社交充实': '低独处+低孤独 → 健康社交者<br/>建议: 适度引入独处，防过载',
+                '社交耗竭': '低独处+中孤独 → 浅层社交<br/>建议: 减少社交数量，提升质量',
+                '双重缺失': '低独处+高孤独 → 危机<br/>建议: 紧急专业支持',
+            };
+            return '<b>' + p.name + '</b><br/>' + (rec[p.name] || '');
+        }
+    },
+    grid: { left: '10%', right: '10%', bottom: '12%', top: '10%' },
+    xAxis: { type: 'value', name: '独处质量/能力 (0-10)', min: 0, max: 10, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    yAxis: { type: 'value', name: '孤独感 (0-10)', min: 0, max: 10, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    series: [{
+        type: 'scatter', symbolSize: function(d) { return d[2] * 8; },
+        data: [
+            { name: '丰盈独处', value: [8, 1.5, 9], itemStyle: { color: '#10b981' } },
+            { name: '建设性孤独', value: [6.5, 4, 5], itemStyle: { color: '#f59e0b' } },
+            { name: '病理性孤独', value: [2, 8.5, 4], itemStyle: { color: '#e94560' } },
+            { name: '社交充实', value: [3, 2, 7], itemStyle: { color: '#3b82f6' } },
+            { name: '社交耗竭', value: [2.5, 5, 5], itemStyle: { color: '#a78bfa' } },
+            { name: '双重缺失', value: [1.5, 9, 3], itemStyle: { color: '#7f1d1d' } },
+        ]
+    }, {
+        type: 'line', markLine: {
+            silent: true, lineStyle: { color: '#64748b', type: 'dashed' },
+            data: [
+                { xAxis: 5, label: { formatter: '独处阈值', color: '#64748b' } },
+                { yAxis: 5, label: { formatter: '孤独阈值', color: '#64748b' } }
+            ]
+        }
+    }]
+});
+
+// ==================== 2. 年龄-孤独U型曲线 ====================
+const ageLonelinessChart = echarts.init(document.getElementById('ageLonelinessChart'));
+ageLonelinessChart.setOption({
+    tooltip: { trigger: 'axis' },
+    legend: { data: ['全球综合'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '8%', right: '5%', bottom: '10%', top: '15%' },
+    xAxis: { type: 'category', data: ['16-19', '20-24', '25-29', '30-34', '35-39', '40-44', '45-49', '50-54', '55-59', '60-64', '65-69', '70-74', '75+'], axisLabel: { color: '#a0aec0', rotate: 30 }, axisLine: { lineStyle: { color: '#334155' } } },
+    yAxis: { type: 'value', name: '经常/总是孤独(%)', nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0', formatter: '{value}%' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    series: [{ name: '全球综合', type: 'line', smooth: true, data: [42, 45, 38, 30, 24, 22, 23, 26, 30, 34, 36, 38, 40], lineStyle: { width: 3, color: '#e94560' }, itemStyle: { color: '#e94560' }, areaStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: 'rgba(233,69,96,0.3)' }, { offset: 1, color: 'rgba(233,69,96,0.02)' }] } } }]
+});
+
+// ==================== 3. 独处毕生发展曲线 ====================
+const ageSolitudeChart = echarts.init(document.getElementById('ageSolitudeChart'));
+ageSolitudeChart.setOption({
+    tooltip: { trigger: 'axis' },
+    legend: { data: ['独处耐受', '独处满意度'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '8%', right: '5%', bottom: '10%', top: '15%' },
+    xAxis: { type: 'category', data: ['0-3', '4-6', '7-12', '13-19', '20-30', '31-45', '46-60', '61-75', '76+'], axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } } },
+    yAxis: { type: 'value', name: '能力指数', max: 100, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    series: [
+        { name: '独处耐受', type: 'line', smooth: true, data: [10, 20, 40, 55, 70, 75, 80, 85, 80], lineStyle: { width: 3, color: '#00d2ff' }, itemStyle: { color: '#00d2ff' } },
+        { name: '独处满意度', type: 'line', smooth: true, data: [5, 15, 35, 45, 50, 60, 70, 78, 75], lineStyle: { width: 3, color: '#10b981' }, itemStyle: { color: '#10b981' } }
+    ]
+});
+
+// ==================== 4. 孤独干预效果 ====================
+const interventionChart = echarts.init(document.getElementById('interventionChart'));
+interventionChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    grid: { left: '20%', right: '5%', bottom: '5%', top: '5%' },
+    xAxis: { type: 'value', name: "Cohen's d", min: 0, max: 0.8, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    yAxis: { type: 'category', data: ['药物', '数字化工具', '团体活动', '社交技能', 'CBT', 'MBSR', 'LKM', 'MSC'], axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } } },
+    series: [{ type: 'bar', data: [0.30, 0.32, 0.35, 0.42, 0.48, 0.50, 0.58, 0.62], itemStyle: { color: '#e94560' }, label: { show: true, position: 'right', color: '#e0e0e0' } }]
+});
+
+// ==================== 5. 独处训练进度 ====================
+const trainingChart = echarts.init(document.getElementById('trainingChart'));
+trainingChart.setOption({
+    tooltip: { trigger: 'axis' },
+    grid: { left: '8%', right: '5%', bottom: '10%', top: '10%' },
+    xAxis: { type: 'category', data: ['W1', 'W2', 'W3', 'W4', 'W5', 'W6', 'W7', 'W8', 'W9', 'W10', 'W11', 'W12'], axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } } },
+    yAxis: { type: 'value', name: 'min/日', nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    series: [{ type: 'line', smooth: true, data: [10, 15, 20, 25, 40, 45, 60, 90, 120, 180, 240, 240], lineStyle: { width: 3, color: '#10b981' }, itemStyle: { color: '#10b981' }, areaStyle: { color: { type: 'linear', x: 0, y: 0, x2: 0, y2: 1, colorStops: [{ offset: 0, color: 'rgba(16,185,129,0.3)' }, { offset: 1, color: 'rgba(16,185,129,0.02)' }] } } }]
+});
+
+// ==================== 6. 全球三轴对比 ====================
+const globalCompareChart = echarts.init(document.getElementById('globalCompareChart'));
+globalCompareChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    legend: { data: ['孤独率%', '独居率%', '独处文化接受度'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '10%', right: '15%', bottom: '5%', top: '15%' },
+    xAxis: { type: 'category', data: ['中国', '日本', '美国', '英国', '德国', '瑞典'], axisLabel: { color: '#a0aec0', rotate: 20 }, axisLine: { lineStyle: { color: '#334155' } } },
+    yAxis: [
+        { type: 'value', name: '率%', max: 60, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0', formatter: '{value}%' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+        { type: 'value', name: '接受度', max: 10, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { show: false } }
+    ],
+    series: [
+        { name: '孤独率%', type: 'bar', data: [16, 20, 18, 15, 12, 9], itemStyle: { color: '#e94560' } },
+        { name: '独居率%', type: 'bar', data: [15, 38, 28, 31, 42, 52], itemStyle: { color: '#00d2ff' } },
+        { name: '独处文化接受度', type: 'line', yAxisIndex: 1, data: [3, 4, 6, 6, 7, 9], itemStyle: { color: '#f59e0b' }, lineStyle: { width: 3 }, symbol: 'circle', symbolSize: 8 }
+    ]
+});
+
+// ==================== 7. 孤独生物学级联（简化版） ====================
+const cascadeChart = echarts.init(document.getElementById('cascadeChart'));
+cascadeChart.setOption({
+    tooltip: { trigger: 'item' },
+    series: [{
+        type: 'sankey', layout: 'none', nodeAlign: 'left',
+        data: [
+            { name: '社会连接缺失', itemStyle: { color: '#e94560' } },
+            { name: '威胁监测过度', itemStyle: { color: '#f59e0b' } },
+            { name: 'HPA轴激活', itemStyle: { color: '#8b5cf6' } },
+            { name: '促炎基因上调', itemStyle: { color: '#3b82f6' } },
+            { name: '细胞因子↑', itemStyle: { color: '#06b6d4' } },
+            { name: '心血管疾病', itemStyle: { color: '#ef4444' } },
+            { name: '认知衰退', itemStyle: { color: '#f87171' } },
+            { name: '抑郁/焦虑', itemStyle: { color: '#fb7185' } },
+        ],
+        links: [
+            { source: '社会连接缺失', target: '威胁监测过度', value: 8 },
+            { source: '威胁监测过度', target: 'HPA轴激活', value: 7 },
+            { source: 'HPA轴激活', target: '促炎基因上调', value: 8 },
+            { source: '促炎基因上调', target: '细胞因子↑', value: 9 },
+            { source: '细胞因子↑', target: '心血管疾病', value: 7 },
+            { source: '细胞因子↑', target: '认知衰退', value: 5 },
+            { source: '细胞因子↑', target: '抑郁/焦虑', value: 6 },
+        ],
+        lineStyle: { color: 'gradient', curveness: 0.5, opacity: 0.4 },
+        label: { color: '#e0e0e0', fontSize: 11, fontWeight: 'bold' }
+    }]
+});
+
+// ==================== 8. 独处脑网络 ====================
+const brainChart = echarts.init(document.getElementById('brainChart'));
+brainChart.setOption({
+    tooltip: { trigger: 'axis', axisPointer: { type: 'shadow' } },
+    legend: { data: ['社交', '独处'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '20%', right: '5%', bottom: '5%', top: '15%' },
+    xAxis: { type: 'value', max: 100, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    yAxis: { type: 'category', data: ['感觉运动', '社会认知', '突显网络', '执行网络', '默认网络'], axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } } },
+    series: [
+        { name: '社交', type: 'bar', data: [80, 85, 75, 90, 30], itemStyle: { color: '#e94560' } },
+        { name: '独处', type: 'bar', data: [60, 25, 35, 50, 85], itemStyle: { color: '#00d2ff' } }
+    ]
+});
+
+// ==================== 9. 数字时代联合侵蚀 ====================
+const digitalJointChart = echarts.init(document.getElementById('digitalJointChart'));
+digitalJointChart.setOption({
+    tooltip: { trigger: 'axis' },
+    legend: { data: ['真社交', '真独处', '伪社交(数字)', '伪独处(数字在线)'], top: 0, textStyle: { color: '#a0aec0' } },
+    grid: { left: '8%', right: '5%', bottom: '8%', top: '18%' },
+    xAxis: { type: 'category', data: ['1990', '2000', '2010', '2015', '2020', '2024'], axisLabel: { color: '#a0aec0' }, axisLine: { lineStyle: { color: '#334155' } } },
+    yAxis: { type: 'value', name: '时间占比%', max: 100, nameTextStyle: { color: '#8892b0' }, axisLabel: { color: '#a0aec0', formatter: '{value}%' }, axisLine: { lineStyle: { color: '#334155' } }, splitLine: { lineStyle: { color: '#1e293b' } } },
+    series: [
+        { name: '真社交', type: 'bar', stack: 'total', data: [50, 45, 35, 28, 20, 15], itemStyle: { color: '#e94560' } },
+        { name: '真独处', type: 'bar', stack: 'total', data: [40, 38, 25, 18, 12, 7], itemStyle: { color: '#00d2ff' } },
+        { name: '伪独处(数字在线)', type: 'bar', stack: 'total', data: [2, 5, 15, 22, 30, 35], itemStyle: { color: '#f59e0b' } },
+        { name: '伪社交(数字)', type: 'bar', stack: 'total', data: [8, 12, 25, 32, 38, 43], itemStyle: { color: '#a78bfa' } }
+    ]
+});
+
+window.addEventListener('resize', () => {
+    jointMatrixChart.resize(); ageLonelinessChart.resize(); ageSolitudeChart.resize();
+    interventionChart.resize(); trainingChart.resize(); globalCompareChart.resize();
+    cascadeChart.resize(); brainChart.resize(); digitalJointChart.resize();
+});
+</script>
+</body>
+</html>

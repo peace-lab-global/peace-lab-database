@@ -7,32 +7,32 @@
 
 ## 阶段一：理解压力（第1-2周）
 
-1. [慢性压力专题](../../02-Mind-Psychology/psychology/stress-hpa/chronic-stress/)
-2. [皮质醇研究](../../02-Mind-Psychology/psychology/stress-hpa/cortisol/)
-3. [HPA轴与压力反应](../../03-Bio-Science/biology/hpa-axis/)
+1. [慢性压力专题](../../02-心智心理/心理学/压力与HPA轴/慢性压力/)
+2. [皮质醇研究](../../02-心智心理/心理学/压力与HPA轴/皮质醇/)
+3. [HPA轴与压力反应](../../03-生命科学/生物学/hpaaxis/)
 
 ## 阶段二：生物机制与调节（第3-4周）
 
-4. [心理神经免疫学 (PNI)](../../03-Bio-Science/biology/immune-inflammation/Psychoneuroimmunology.md)
-5. [心率变异性 (HRV)](../../03-Bio-Science/biology/cardiovascular/Heart_Rate_Variability.md)
-6. [呼吸法与生物干预](../../03-Bio-Science/biology/breathwork/)
-7. [运动与心理健康](../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md)
+4. [心理神经免疫学 (PNI)](../../03-生命科学/生物学/免疫炎症/Psychoneuroimmunology.md)
+5. [心率变异性 (HRV)](../../03-生命科学/生物学/心血管/HeartRateVariability.md)
+6. [呼吸法与生物干预](../../03-生命科学/生物学/呼吸法/)
+7. [运动与心理健康](../../03-生命科学/生物学/运动科学/运动心理健康.md)
 
 ## 阶段三：身心传统干预（第5-6周）
 
-8. [太极拳心理调适机制](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
-9. [瑜伽心理健康临床](../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Mental_Health_Clinical.md)
-10. [MBSR正念减压](../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
-11. [道家养生气功](../../01-Wisdom-Traditions/religions/dao/Dao_Health_Yangsheng_Qigong.md)
-12. [声音疗愈与 HRV 调节](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md)
-13. [脑波 Alpha 引导减压](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md)
+8. [太极拳心理调适机制](../../01-智慧传统/太极拳/太极拳心理AdjustmentMechanism.md)
+9. [瑜伽心理健康临床](../../01-智慧传统/瑜伽/临床治疗/瑜伽心理健康临床.md)
+10. [MBSR正念减压](../../02-心智心理/冥想/临床/正念减压课程/正念减压Program总览.md)
+11. [道家养生气功](../../01-智慧传统/宗教/道家/道家健康YangshengQigong.md)
+12. [声音疗愈与 HRV 调节](../../02-心智心理/疗法/感官nature/感官/感官SoundMedicine.md)
+13. [脑波 Alpha 引导减压](../../02-心智心理/疗法/感官nature/感官/感官BrainwaveEntrainment.md)
 
 ## 阶段四：韧性构建（第7-8周）
 
-15. [心力成长核心](../../05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md)
-16. [稳定内核](../../05-Praxis-Growth/personal-development/stable-inner-core/Stable_Inner_Core_Overview.md)
-17. [自我关怀](../../02-Mind-Psychology/psychology/self-regulation/self-compassion/)
-18. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
+15. [心力成长核心](../../05-实践成长/个人发展/mental韧性/Mental韧性总览.md)
+16. [稳定内核](../../05-实践成长/个人发展/stableinner核心/StableInner核心概论.md)
+17. [自我关怀](../../02-心智心理/心理学/selfregulation/self慈悲/)
+18. [能量恢复](../../03-生命科学/生物学/energyrestoration/EnergyRestoration总览.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

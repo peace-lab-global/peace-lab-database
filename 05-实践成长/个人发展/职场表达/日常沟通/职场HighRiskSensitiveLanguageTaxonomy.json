@@ -1,0 +1,472 @@
+{
+  "database_name": "高风险敏感语料数据库",
+  "version": "1.0.0",
+  "schema_version": "1.0.0",
+  "scope": "content_safety_moderation",
+  "storage_path": "05-Praxis-Growth/personal-development/workplace-expression",
+  "safety_note": "当前条目采用脱敏占位、规则模板和模式特征表示，不直接公开原始危险表达。",
+  "categories": [
+    {
+      "code": "violence",
+      "name": "暴力威胁与煽动",
+      "subcategories": ["direct_threat", "incitement", "graphic_violence", "weapon_reference"]
+    },
+    {
+      "code": "extremism",
+      "name": "极端主义与恐怖宣传",
+      "subcategories": ["propaganda", "recruitment", "symbolic_reference", "coded_support"]
+    },
+    {
+      "code": "hate_discrimination",
+      "name": "仇恨与歧视性表达",
+      "subcategories": ["slur_attack", "dehumanization", "group_exclusion", "protected_group_hostility"]
+    },
+    {
+      "code": "sexual_coercion",
+      "name": "性胁迫与剥削性表达",
+      "subcategories": ["coercion", "transactional_exploitation", "minor_risk", "power_imbalance_pressure"]
+    },
+    {
+      "code": "self_harm_incitation",
+      "name": "自伤/自杀煽动",
+      "subcategories": ["encouragement", "despair_push", "self_harm_instruction_hint"]
+    },
+    {
+      "code": "privacy_doxxing",
+      "name": "隐私暴露与人肉威胁",
+      "subcategories": ["identity_exposure", "location_exposure", "contact_release", "offline_harassment"]
+    },
+    {
+      "code": "harassment",
+      "name": "持续骚扰与定向围猎",
+      "subcategories": ["targeted_abuse", "coordinated_harassment", "stalking_hint", "repeat_attack"]
+    },
+    {
+      "code": "illegal_solicitation",
+      "name": "违法危险活动招募",
+      "subcategories": ["dangerous_trade", "black_market_recruitment", "evasion_code", "regulated_item_solicitation"]
+    }
+  ],
+  "tag_dimensions": {
+    "intent": ["threat", "incitement", "propaganda", "recruitment", "humiliation", "exclusion", "coercion", "exposure", "harassment", "solicitation"],
+    "target_type": ["individual", "group", "protected_group", "minor", "organization", "public_figure", "unknown_target"],
+    "explicitness": ["explicit", "implicit", "coded", "metaphorical", "quoted_context"],
+    "expression_form": ["keyword", "phrase", "sentence", "multi_sentence", "symbolic_reference", "emoji_variant"],
+    "obfuscation": ["homophone", "split_token", "number_letter_mix", "symbol_insertion", "abbreviation", "cross_language"],
+    "action_stage": ["observe", "restrict", "urgent_review", "block_escalate"],
+    "language_variant": ["zh_cn", "zh_mixed", "en", "cross_language"]
+  },
+  "risk_levels": [
+    {
+      "level": "L1",
+      "score_range": "0-24",
+      "definition": "弱敏感信号，需结合上下文判断",
+      "recommended_action": "observe"
+    },
+    {
+      "level": "L2",
+      "score_range": "25-49",
+      "definition": "明显风险线索，建议限制传播并复核",
+      "recommended_action": "restrict"
+    },
+    {
+      "level": "L3",
+      "score_range": "50-74",
+      "definition": "高风险内容，需紧急人工复核",
+      "recommended_action": "urgent_review"
+    },
+    {
+      "level": "L4",
+      "score_range": "75-100",
+      "definition": "极高风险内容，应立即拦截并升级",
+      "recommended_action": "block_escalate"
+    }
+  ],
+  "risk_scoring": {
+    "formula": "intent_strength + target_specificity + actionability + temporal_urgency + group_harm_factor + evasion_complexity",
+    "weights": {
+      "intent_strength": 30,
+      "target_specificity": 20,
+      "actionability": 20,
+      "temporal_urgency": 10,
+      "group_harm_factor": 10,
+      "evasion_complexity": 10
+    }
+  },
+  "normalization_pipeline": [
+    "全半角统一",
+    "大小写折叠",
+    "去除重复空格与无意义符号",
+    "常见谐音/缩写/数字字母替换归一化",
+    "表情、分隔符、插入符清洗",
+    "跨语种混写切分",
+    "受控词典映射到内部真实词表"
+  ],
+  "retrieval_indexes": [
+    {
+      "name": "idx_category_risk",
+      "fields": ["category", "risk_level"],
+      "purpose": "按大类与风险等级快速筛选"
+    },
+    {
+      "name": "idx_tags",
+      "fields": ["tags", "target_types", "obfuscation_forms"],
+      "purpose": "按多维标签组合召回"
+    },
+    {
+      "name": "idx_search_keys",
+      "fields": ["search_keys", "language_variants"],
+      "purpose": "按关键词、变体和语言检索"
+    },
+    {
+      "name": "idx_pattern_templates",
+      "fields": ["pattern_templates"],
+      "purpose": "支撑规则引擎与模式匹配"
+    },
+    {
+      "name": "idx_related_entries",
+      "fields": ["related_entries"],
+      "purpose": "做相似语义扩展与关联分析"
+    }
+  ],
+  "extension_interfaces": {
+    "api": [
+      "POST /entries",
+      "PATCH /entries/{id}",
+      "GET /entries/search",
+      "GET /entries/export",
+      "POST /rules/similarity-expand",
+      "POST /review/batch"
+    ],
+    "required_entry_fields": [
+      "id",
+      "title",
+      "alias",
+      "category",
+      "subcategory",
+      "risk_level",
+      "severity_score",
+      "tags",
+      "target_types",
+      "signal_features",
+      "search_keys",
+      "pattern_templates",
+      "recommended_action"
+    ],
+    "optional_entry_fields": [
+      "context_note",
+      "source_channel",
+      "review_status",
+      "related_entries",
+      "jurisdiction",
+      "updated_at",
+      "hard_negative_patterns"
+    ]
+  },
+  "entries": [
+    {
+      "id": "violence-001",
+      "title": "对个体的直接人身伤害威胁",
+      "alias": "direct bodily harm threat",
+      "category": "violence",
+      "subcategory": "direct_threat",
+      "risk_level": "L4",
+      "severity_score": 95,
+      "tags": ["threat", "individual", "explicit", "sentence"],
+      "target_types": ["individual"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["homophone", "symbol_insertion"],
+      "signal_features": ["第一人称施害意图", "明确伤害动词", "第二人称定向目标"],
+      "search_keys": ["伤害威胁", "定向暴力", "马上行动"],
+      "pattern_templates": ["<施害主体><威胁动词><目标指代>", "<时间紧迫词><伤害动作>"],
+      "hard_negative_patterns": ["影视台词引用", "新闻转述", "谴责性讨论"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["violence-002", "harassment-001"]
+    },
+    {
+      "id": "violence-002",
+      "title": "煽动多人对目标实施伤害",
+      "alias": "collective violence incitement",
+      "category": "violence",
+      "subcategory": "incitement",
+      "risk_level": "L4",
+      "severity_score": 92,
+      "tags": ["incitement", "group", "explicit", "multi_sentence"],
+      "target_types": ["group", "individual"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["abbreviation", "cross_language"],
+      "signal_features": ["群体号召", "行动导向", "围堵/追击语义"],
+      "search_keys": ["一起动手", "围攻号召", "线下聚集"],
+      "pattern_templates": ["<号召词><多人主体><攻击动作><目标>"],
+      "hard_negative_patterns": ["反暴力劝阻", "历史事件描述"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["privacy-002", "harassment-002"]
+    },
+    {
+      "id": "extremism-001",
+      "title": "极端主义宣扬与认同表达",
+      "alias": "extremist propaganda support",
+      "category": "extremism",
+      "subcategory": "propaganda",
+      "risk_level": "L4",
+      "severity_score": 90,
+      "tags": ["propaganda", "group", "coded", "symbolic_reference"],
+      "target_types": ["group", "unknown_target"],
+      "language_variants": ["zh_cn", "en", "cross_language"],
+      "obfuscation_forms": ["abbreviation", "cross_language", "symbol_insertion"],
+      "signal_features": ["极端组织认同", "宣传口号化表达", "符号化复现"],
+      "search_keys": ["极端宣扬", "组织认同", "宣传口号"],
+      "pattern_templates": ["<极端组织代称><支持/赞颂词>", "<象征符号><认同表达>"],
+      "hard_negative_patterns": ["反极端教育", "学术研究引用", "新闻报道"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["extremism-002"]
+    },
+    {
+      "id": "extremism-002",
+      "title": "极端主义招募与拉拢",
+      "alias": "extremist recruitment",
+      "category": "extremism",
+      "subcategory": "recruitment",
+      "risk_level": "L4",
+      "severity_score": 96,
+      "tags": ["recruitment", "group", "coded", "multi_sentence"],
+      "target_types": ["individual", "unknown_target"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["cross_language", "number_letter_mix", "split_token"],
+      "signal_features": ["加入邀请", "线下转移", "暗语联络"],
+      "search_keys": ["加入组织", "私下联系", "外部群组"],
+      "pattern_templates": ["<邀请词><加入/加入暗示><外部联络方式>"],
+      "hard_negative_patterns": ["反诈提醒", "举报线索转述"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["illegal-001"]
+    },
+    {
+      "id": "hate-001",
+      "title": "针对受保护群体的侮辱性称呼",
+      "alias": "protected group slur attack",
+      "category": "hate_discrimination",
+      "subcategory": "slur_attack",
+      "risk_level": "L3",
+      "severity_score": 78,
+      "tags": ["humiliation", "protected_group", "explicit", "keyword"],
+      "target_types": ["protected_group"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["homophone", "split_token"],
+      "signal_features": ["身份指向", "侮辱性标签", "群体泛化攻击"],
+      "search_keys": ["群体侮辱", "身份羞辱", "歧视称呼"],
+      "pattern_templates": ["<群体指代><侮辱标签>"],
+      "hard_negative_patterns": ["法规讨论", "反歧视教育场景"],
+      "recommended_action": "urgent_review",
+      "related_entries": ["hate-002", "hate-003"]
+    },
+    {
+      "id": "hate-002",
+      "title": "将特定群体去人化或污名化",
+      "alias": "dehumanization of protected groups",
+      "category": "hate_discrimination",
+      "subcategory": "dehumanization",
+      "risk_level": "L4",
+      "severity_score": 88,
+      "tags": ["exclusion", "protected_group", "explicit", "sentence"],
+      "target_types": ["protected_group", "group"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["metaphorical", "symbol_insertion"],
+      "signal_features": ["非人类比拟", "污秽化隐喻", "群体降格"],
+      "search_keys": ["去人化表达", "群体降格", "污名隐喻"],
+      "pattern_templates": ["<群体指代><非人化比喻>", "<群体指代><清除/驱逐暗示>"],
+      "hard_negative_patterns": ["文学比喻无群体对象", "引用批判语境"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["hate-003", "violence-002"]
+    },
+    {
+      "id": "hate-003",
+      "title": "主张排斥、隔离或剥夺群体权利",
+      "alias": "group exclusion advocacy",
+      "category": "hate_discrimination",
+      "subcategory": "group_exclusion",
+      "risk_level": "L4",
+      "severity_score": 86,
+      "tags": ["exclusion", "protected_group", "explicit", "multi_sentence"],
+      "target_types": ["protected_group", "group"],
+      "language_variants": ["zh_cn", "en"],
+      "obfuscation_forms": ["coded", "cross_language"],
+      "signal_features": ["剥夺机会主张", "驱逐/隔离导向", "制度性排斥"],
+      "search_keys": ["群体排除", "隔离主张", "不给机会"],
+      "pattern_templates": ["<群体指代><排除/驱逐词><制度场景>"],
+      "hard_negative_patterns": ["政策辩论中的中性引用", "司法案例讨论"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["hate-001", "hate-002"]
+    },
+    {
+      "id": "sexual-001",
+      "title": "以权力关系施加性胁迫",
+      "alias": "sexual coercion by power imbalance",
+      "category": "sexual_coercion",
+      "subcategory": "power_imbalance_pressure",
+      "risk_level": "L4",
+      "severity_score": 91,
+      "tags": ["coercion", "individual", "implicit", "multi_sentence"],
+      "target_types": ["individual", "minor"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["metaphorical", "coded"],
+      "signal_features": ["交换条件", "不同意即惩罚", "权力不对等"],
+      "search_keys": ["性胁迫", "交换暗示", "不同意后果"],
+      "pattern_templates": ["<资源/职位承诺><条件交换><暧昧/性指向>"],
+      "hard_negative_patterns": ["两性教育讨论", "合意关系说明"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["sexual-002"]
+    },
+    {
+      "id": "sexual-002",
+      "title": "面向未成年人的诱导或剥削风险",
+      "alias": "minor exploitation risk",
+      "category": "sexual_coercion",
+      "subcategory": "minor_risk",
+      "risk_level": "L4",
+      "severity_score": 98,
+      "tags": ["coercion", "minor", "coded", "multi_sentence"],
+      "target_types": ["minor"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["abbreviation", "cross_language", "number_letter_mix"],
+      "signal_features": ["年龄试探", "隐私转移", "见面诱导"],
+      "search_keys": ["未成年风险", "见面诱导", "年龄规避"],
+      "pattern_templates": ["<年龄探测><私聊转移><见面/交换暗示>"],
+      "hard_negative_patterns": ["青少年保护教育", "案件报道"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["privacy-001"]
+    },
+    {
+      "id": "selfharm-001",
+      "title": "鼓励他人自伤或自杀",
+      "alias": "encouraging self harm or suicide",
+      "category": "self_harm_incitation",
+      "subcategory": "encouragement",
+      "risk_level": "L4",
+      "severity_score": 93,
+      "tags": ["incitement", "individual", "explicit", "sentence"],
+      "target_types": ["individual", "unknown_target"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["homophone", "symbol_insertion"],
+      "signal_features": ["否定生命价值", "推动实施", "阻断求助"],
+      "search_keys": ["自伤鼓动", "绝望推动", "不要求助"],
+      "pattern_templates": ["<绝望评价><实施暗示>", "<阻断求助><自伤引导>"],
+      "hard_negative_patterns": ["心理援助文本", "求助转述"],
+      "recommended_action": "block_escalate",
+      "related_entries": []
+    },
+    {
+      "id": "privacy-001",
+      "title": "公开他人身份、联系方式或住址信息",
+      "alias": "identity and contact exposure",
+      "category": "privacy_doxxing",
+      "subcategory": "identity_exposure",
+      "risk_level": "L4",
+      "severity_score": 89,
+      "tags": ["exposure", "individual", "explicit", "phrase"],
+      "target_types": ["individual", "public_figure"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["split_token", "number_letter_mix"],
+      "signal_features": ["真实身份字段", "联系方式泄露", "住址定位"],
+      "search_keys": ["人肉信息", "地址泄露", "联系方式公开"],
+      "pattern_templates": ["<姓名/账号><电话/地址><暴露提示>"],
+      "hard_negative_patterns": ["公开工商信息引用", "用户主动留联场景"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["privacy-002", "harassment-002"]
+    },
+    {
+      "id": "privacy-002",
+      "title": "鼓动线下围堵、骚扰或上门",
+      "alias": "offline harassment mobilization",
+      "category": "privacy_doxxing",
+      "subcategory": "offline_harassment",
+      "risk_level": "L4",
+      "severity_score": 94,
+      "tags": ["incitement", "group", "explicit", "multi_sentence"],
+      "target_types": ["individual", "organization"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["coded", "cross_language"],
+      "signal_features": ["线下集合", "围堵/上门", "地址配合暴露"],
+      "search_keys": ["上门围堵", "线下骚扰", "集合地点"],
+      "pattern_templates": ["<集合号召><地点信息><骚扰动作>"],
+      "hard_negative_patterns": ["正常线下活动组织", "维权活动中性通知"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["violence-002", "privacy-001", "harassment-002"]
+    },
+    {
+      "id": "harassment-001",
+      "title": "持续定向辱骂与人格羞辱",
+      "alias": "repeated targeted abuse",
+      "category": "harassment",
+      "subcategory": "targeted_abuse",
+      "risk_level": "L3",
+      "severity_score": 68,
+      "tags": ["humiliation", "individual", "explicit", "repeat_attack"],
+      "target_types": ["individual", "public_figure"],
+      "language_variants": ["zh_cn", "zh_mixed"],
+      "obfuscation_forms": ["homophone", "emoji_variant"],
+      "signal_features": ["重复攻击", "定向指代", "人格羞辱"],
+      "search_keys": ["定向辱骂", "重复攻击", "人格羞辱"],
+      "pattern_templates": ["<目标指代><侮辱词><重复频次特征>"],
+      "hard_negative_patterns": ["单次情绪化抱怨", "作品负评"],
+      "recommended_action": "urgent_review",
+      "related_entries": ["violence-001", "hate-001"]
+    },
+    {
+      "id": "harassment-002",
+      "title": "组织化围攻、刷屏羞辱或引导网暴",
+      "alias": "coordinated harassment campaign",
+      "category": "harassment",
+      "subcategory": "coordinated_harassment",
+      "risk_level": "L4",
+      "severity_score": 87,
+      "tags": ["harassment", "group", "coded", "multi_sentence"],
+      "target_types": ["individual", "organization", "public_figure"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["abbreviation", "cross_language", "symbol_insertion"],
+      "signal_features": ["任务分发", "集中攻击", "跟帖/私信号召"],
+      "search_keys": ["网暴组织", "刷屏攻击", "集中举报骚扰"],
+      "pattern_templates": ["<号召词><平台/私信动作><集中攻击目标>"],
+      "hard_negative_patterns": ["正常活动拉票", "客服集中反馈"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["privacy-002", "violence-002"]
+    },
+    {
+      "id": "illegal-001",
+      "title": "违法危险活动或危险品交易招募",
+      "alias": "dangerous activity solicitation",
+      "category": "illegal_solicitation",
+      "subcategory": "dangerous_trade",
+      "risk_level": "L4",
+      "severity_score": 90,
+      "tags": ["solicitation", "unknown_target", "coded", "phrase"],
+      "target_types": ["unknown_target", "group"],
+      "language_variants": ["zh_cn", "cross_language"],
+      "obfuscation_forms": ["coded", "number_letter_mix", "abbreviation"],
+      "signal_features": ["交易暗语", "外部转移联系", "规避监管指示"],
+      "search_keys": ["危险交易", "暗语招募", "外部联络"],
+      "pattern_templates": ["<交易暗语><联系方式><规避提示>"],
+      "hard_negative_patterns": ["合规商品讨论", "新闻报道"],
+      "recommended_action": "block_escalate",
+      "related_entries": ["extremism-002"]
+    },
+    {
+      "id": "model-boundary-001",
+      "title": "上下文引用但非支持性表达",
+      "alias": "quoted but non-endorsing context",
+      "category": "harassment",
+      "subcategory": "repeat_attack",
+      "risk_level": "L1",
+      "severity_score": 15,
+      "tags": ["quoted_context", "unknown_target", "sentence"],
+      "target_types": ["unknown_target"],
+      "language_variants": ["zh_cn", "en"],
+      "obfuscation_forms": [],
+      "signal_features": ["带有批判立场", "引用为说明/举报用途", "无鼓动动作"],
+      "search_keys": ["引用语境", "批判语境", "举报证据"],
+      "pattern_templates": ["<引号/引用格式><批判评价>"],
+      "hard_negative_patterns": [],
+      "recommended_action": "observe",
+      "related_entries": ["extremism-001", "hate-001", "violence-001"]
+    }
+  ]
+}

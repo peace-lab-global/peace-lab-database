@@ -1,0 +1,1713 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mocici 精神健身 · ASFR冥想训练自评量表</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://cdn.jsdelivr.net/npm/font-awesome@4.7.0/css/font-awesome.min.css" rel="stylesheet">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.8/dist/chart.umd.min.js"></script>
+    <script>
+        tailwind.config = {
+            theme: {
+                extend: {
+                    colors: {
+                        primary: '#000000',
+                        secondary: '#666666',
+                        accent: '#333333',
+                        light: '#FFFFFF',
+                        gray: {
+                            100: '#F9F9F9',
+                            200: '#F0F0F0',
+                            300: '#E0E0E0',
+                            400: '#BDBDBD',
+                            500: '#9E9E9E',
+                            600: '#757575',
+                            700: '#616161',
+                            800: '#424242',
+                            900: '#212121',
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'Helvetica Neue', 'Arial', 'sans-serif'],
+                    },
+                    boxShadow: {
+                        'soft': '0 4px 20px rgba(0, 0, 0, 0.03)',
+                    }
+                }
+            }
+        }
+    </script>
+    <style type="text/tailwindcss">
+        @layer utilities {
+            .bg-white-minimal {
+                background-color: #FFFFFF;
+            }
+            .card-shadow {
+                box-shadow: 0 4px 20px rgba(0, 0, 0, 0.03);
+            }
+            .transition-all-300 {
+                transition: all 0.3s ease;
+            }
+            .scale-hover:hover {
+                transform: scale(1.01);
+            }
+            .radio-label {
+                position: relative;
+                padding-left: 28px;
+                cursor: pointer;
+                display: block;
+                height: 24px;
+                line-height: 24px;
+                transition: all 0.2s ease;
+            }
+            .radio-label input {
+                position: absolute;
+                opacity: 0;
+                cursor: pointer;
+            }
+            .radio-custom {
+                position: absolute;
+                top: 0;
+                left: 0;
+                height: 24px;
+                width: 24px;
+                background-color: #fff;
+                border: 1px solid #E0E0E0;
+                border-radius: 50%;
+                transition: all 0.2s ease;
+            }
+            .radio-label:hover input ~ .radio-custom {
+                border-color: #9E9E9E;
+            }
+            .radio-label input:checked ~ .radio-custom {
+                background-color: #fff;
+                border-color: #000000;
+            }
+            .radio-custom:after {
+                content: "";
+                position: absolute;
+                display: none;
+            }
+            .radio-label input:checked ~ .radio-custom:after {
+                display: block;
+            }
+            .radio-label .radio-custom:after {
+                top: 8px;
+                left: 8px;
+                width: 8px;
+                height: 8px;
+                border-radius: 50%;
+                background: #000000;
+            }
+            .dimension-indicator {
+                position: absolute;
+                top: 10px;
+                right: 10px;
+                padding: 2px 8px;
+                border-radius: 12px;
+                font-size: 12px;
+                font-weight: 500;
+                background-color: #F9F9F9;
+                color: #616161;
+                border: 1px solid #E0E0E0;
+            }
+            .line-element {
+                height: 1px;
+                background-color: #000000;
+                opacity: 0.8;
+            }
+            .section-divider {
+                height: 1px;
+                background-color: #E0E0E0;
+                margin: 2rem 0;
+            }
+            .custom-cursor {
+                position: fixed;
+                width: 24px;
+                height: 24px;
+                border-radius: 50%;
+                border: 1px solid #000000;
+                pointer-events: none;
+                z-index: 9999;
+                transform: translate(-50%, -50%);
+                transition: width 0.2s ease, height 0.2s ease, opacity 0.3s ease;
+                mix-blend-mode: difference;
+            }
+            .custom-cursor.hover {
+                width: 64px;
+                height: 64px;
+                opacity: 0.7;
+            }
+            .screen {
+                position: relative;
+                min-height: 100vh;
+                z-index: 10;
+            }
+            .progress-bar {
+                height: 2px;
+                background-color: #000000;
+                transition: width 0.3s ease;
+            }
+            .btn-underline {
+                position: relative;
+                overflow: hidden;
+                transition: color 0.3s ease;
+            }
+            .btn-underline:after {
+                content: '';
+                position: absolute;
+                bottom: 0;
+                left: 0;
+                width: 0;
+                height: 1px;
+                background-color: #000000;
+                transition: width 0.3s ease;
+            }
+            .btn-underline:hover:after {
+                width: 100%;
+            }
+            .btn-underline:hover {
+                color: #000000;
+            }
+            .card-hover {
+                transition: all 0.3s ease;
+            }
+            .card-hover:hover {
+                transform: translateY(-2px);
+                box-shadow: 0 8px 30px rgba(0, 0, 0, 0.06);
+            }
+            .corner-line {
+                position: absolute;
+                width: 24px;
+                height: 1px;
+                background-color: #000000;
+                opacity: 0.6;
+            }
+            .corner-line.top-left {
+                top: 24px;
+                left: 24px;
+            }
+            .corner-line.top-right {
+                top: 24px;
+                right: 24px;
+                transform: rotate(90deg);
+                transform-origin: right center;
+            }
+            .corner-line.bottom-left {
+                bottom: 24px;
+                left: 24px;
+                transform: rotate(-90deg);
+                transform-origin: left center;
+            }
+            .corner-line.bottom-right {
+                bottom: 24px;
+                right: 24px;
+                transform: rotate(180deg);
+                transform-origin: right center;
+            }
+        }
+    </style>
+</head>
+<body class="bg-white-minimal font-sans text-gray-900 overflow-x-hidden">
+    <!-- 自定义鼠标指针 -->
+    <div id="custom-cursor" class="custom-cursor opacity-0"></div>
+
+    <!-- 进度指示器 -->
+    <div id="progress-bar" class="fixed top-0 left-0 w-0 h-0.5 bg-black z-50"></div>
+
+    <!-- 首屏 -->
+    <section id="screen1" class="screen flex items-center justify-center px-4 py-12 relative overflow-hidden">
+        <!-- 角落线条装饰 -->
+        <div class="corner-line top-left"></div>
+        <div class="corner-line top-right"></div>
+        <div class="corner-line bottom-left"></div>
+        <div class="corner-line bottom-right"></div>
+        
+        <div class="max-w-4xl w-full text-center">
+            <h1 class="text-4xl md:text-6xl font-light mb-6 tracking-tight">Mocici 精神健身</h1>
+            <div class="line-element w-32 mx-auto mb-8"></div>
+            <h2 class="text-2xl md:text-3xl font-light mb-12 text-gray-700">ASFR冥想训练自评量表 (V1)</h2>
+            <p class="text-lg text-gray-600 max-w-2xl mx-auto mb-16 leading-relaxed">
+                通过18道题目，评估您的冥想状态与精神体能水平，获取个性化反馈与提升建议
+            </p>
+            <div class="mt-12">
+                <button id="start-btn" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                    开始评估
+                </button>
+            </div>
+        </div>
+        
+        <!-- 向下滚动提示 -->
+        <div class="absolute bottom-8 left-1/2 transform -translate-x-1/2 animate-bounce">
+            <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M7 13L12 18L17 13" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                <path d="M7 7L12 12L17 7" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+            </svg>
+        </div>
+    </section>
+
+    <!-- 问卷区域 -->
+    <section id="screen2" class="screen relative px-4 py-12 z-20">
+        <div class="max-w-4xl mx-auto">
+            <div class="flex justify-between items-center mb-12">
+                <h2 class="text-3xl font-light">冥想评估问卷</h2>
+                <button id="back-to-top" class="text-gray-500 hover:text-black transition-all-300">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M17 11L12 6L7 11" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                        <path d="M17 17L12 12L7 17" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+
+            <div class="mb-12">
+                <h3 class="text-xl font-light mb-4">填写说明</h3>
+                <div class="line-element w-16 mb-6"></div>
+                <p class="text-gray-600 leading-relaxed">
+                    请根据您最近两周的真实情况，选择最符合的选项。前16题为0-4分评分题，后2题为基础信息题。
+                </p>
+            </div>
+
+            <form id="meditation-form">
+                <!-- 觉察力维度 -->
+                <div class="mb-16">
+                    <div class="flex items-center mb-6">
+                        <h4 class="text-xl font-light text-gray-900">觉察力维度</h4>
+                        <div class="line-element flex-grow ml-6"></div>
+                    </div>
+                    <div class="space-y-8">
+                        <!-- 题目1 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">觉察力</span>
+                            <p class="font-light text-lg mb-6">1. 我能及时察觉到自己的情绪变化（生气/烦躁/焦虑/开心）</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q1" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q1" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q1" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q1" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q1" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目2 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">觉察力</span>
+                            <p class="font-light text-lg mb-6">2. 我能意识到自己正在分心、走神或陷入念头</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q2" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q2" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q2" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q2" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q2" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目3 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">觉察力</span>
+                            <p class="font-light text-lg mb-6">3. 我能清楚分辨"我有情绪"和"我被情绪控制"的区别</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q3" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q3" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q3" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q3" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q3" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目4 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">觉察力</span>
+                            <p class="font-light text-lg mb-6">4. 我对身体的紧绷、疲劳、呼吸变化有敏锐感知</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q4" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q4" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q4" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q4" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q4" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 稳定力维度 -->
+                <div class="mb-16">
+                    <div class="flex items-center mb-6">
+                        <h4 class="text-xl font-light text-gray-900">稳定力维度</h4>
+                        <div class="line-element flex-grow ml-6"></div>
+                    </div>
+                    <div class="space-y-8">
+                        <!-- 题目5 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">稳定力</span>
+                            <p class="font-light text-lg mb-6">5. 遇到突发压力时，我能保持冷静，不立刻爆发</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q5" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q5" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q5" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q5" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q5" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目6 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">稳定力</span>
+                            <p class="font-light text-lg mb-6">6. 我不容易被他人的情绪影响而失控</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q6" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q6" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q6" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q6" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q6" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目7 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">稳定力</span>
+                            <p class="font-light text-lg mb-6">7. 情绪上来时，我能暂停几秒再回应</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q7" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q7" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q7" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q7" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q7" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目8 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">稳定力</span>
+                            <p class="font-light text-lg mb-6">8. 我的内心整体平稳，波动不大</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q8" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q8" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q8" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q8" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q8" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 专注力维度 -->
+                <div class="mb-16">
+                    <div class="flex items-center mb-6">
+                        <h4 class="text-xl font-light text-gray-900">专注力维度</h4>
+                        <div class="line-element flex-grow ml-6"></div>
+                    </div>
+                    <div class="space-y-8">
+                        <!-- 题目9 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">专注力</span>
+                            <p class="font-light text-lg mb-6">9. 冥想时，我能较长时间保持专注，不被念头带走</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q9" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q9" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q9" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q9" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q9" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目10 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">专注力</span>
+                            <p class="font-light text-lg mb-6">10. 做事/学习时，我能减少刷手机、胡思乱想等干扰</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q10" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q10" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q10" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q10" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q10" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目11 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">专注力</span>
+                            <p class="font-light text-lg mb-6">11. 我能快速把注意力拉回当下，不陷入内耗</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q11" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q11" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q11" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q11" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q11" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目12 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">专注力</span>
+                            <p class="font-light text-lg mb-6">12. 我能清晰聚焦目标，不被杂事分散</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q12" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q12" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q12" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q12" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q12" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 还原力维度 -->
+                <div class="mb-16">
+                    <div class="flex items-center mb-6">
+                        <h4 class="text-xl font-light text-gray-900">还原力维度</h4>
+                        <div class="line-element flex-grow ml-6"></div>
+                    </div>
+                    <div class="space-y-8">
+                        <!-- 题目13 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">还原力</span>
+                            <p class="font-light text-lg mb-6">13. 疲惫后，我能通过冥想/休息快速恢复精力</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q13" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q13" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q13" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q13" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q13" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目14 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">还原力</span>
+                            <p class="font-light text-lg mb-6">14. 我不容易陷入长期低落、疲惫或倦怠</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q14" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q14" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q14" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q14" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q14" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目15 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">还原力</span>
+                            <p class="font-light text-lg mb-6">15. 压力大时，我能快速调整回轻松状态</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q15" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q15" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q15" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q15" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q15" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目16 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <span class="dimension-indicator">还原力</span>
+                            <p class="font-light text-lg mb-6">16. 我能有效释放一天的累积紧张</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q16" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分 - 完全不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q16" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1分 - 基本不符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q16" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    2分 - 一般
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q16" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    3分 - 基本符合
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q16" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    4分 - 完全符合
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 基础信息题 -->
+                <div class="mb-16">
+                    <div class="flex items-center mb-6">
+                        <h4 class="text-xl font-light text-gray-900">基础信息</h4>
+                        <div class="line-element flex-grow ml-6"></div>
+                    </div>
+                    <div class="space-y-8">
+                        <!-- 题目17 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <p class="font-light text-lg mb-6">17. 你本周平均冥想时长：</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q17" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    0分钟
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q17" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    1–10分钟
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q17" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    11–20分钟
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q17" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    21–30分钟
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q17" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    30分钟以上
+                                </label>
+                            </div>
+                        </div>
+
+                        <!-- 题目18 -->
+                        <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover relative card-hover">
+                            <p class="font-light text-lg mb-6">18. 你目前的冥想阶段：</p>
+                            <div class="flex flex-wrap gap-6">
+                                <label class="radio-label">
+                                    <input type="radio" name="q18" value="0" required="">
+                                    <span class="radio-custom"></span>
+                                    零基础
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q18" value="1" required="">
+                                    <span class="radio-custom"></span>
+                                    入门（1个月内）
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q18" value="2" required="">
+                                    <span class="radio-custom"></span>
+                                    进阶（1–6个月）
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q18" value="3" required="">
+                                    <span class="radio-custom"></span>
+                                    资深（6个月以上）
+                                </label>
+                                <label class="radio-label">
+                                    <input type="radio" name="q18" value="4" required="">
+                                    <span class="radio-custom"></span>
+                                    冥想老师/执行师
+                                </label>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- 提交按钮 -->
+                <div class="text-center mt-16 mb-12">
+                    <button type="submit" id="submit-btn" class="px-12 py-4 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                        提交评估
+                    </button>
+                </div>
+            </form>
+        </div>
+    </section>
+
+    <!-- 结果区域 (初始隐藏) -->
+    <section id="screen3" class="screen relative px-4 py-12 z-30 hidden">
+        <div class="max-w-4xl mx-auto">
+            <div class="flex justify-between items-center mb-12">
+                <h2 class="text-3xl font-light">评估结果</h2>
+                <button id="back-to-questionnaire" class="text-gray-500 hover:text-black transition-all-300">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- 总分展示 -->
+            <div class="mb-16 text-center">
+                <h3 class="text-xl font-light text-gray-700 mb-6">您的精神体能总分</h3>
+                <div class="flex items-center justify-center">
+                    <div id="total-score" class="text-6xl font-light text-black mr-4"></div>
+                    <span class="text-2xl font-light text-gray-500">/ 64分</span>
+                </div>
+                <div class="line-element w-32 mx-auto my-8"></div>
+                <div id="level-badge" class="inline-block mt-4 px-6 py-2 border border-black text-black font-light text-lg"></div>
+            </div>
+
+            <!-- 四个维度得分 -->
+            <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-16">
+                <!-- 觉察力 -->
+                <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover card-hover">
+                    <h4 class="text-lg font-light mb-4">觉察力</h4>
+                    <div class="flex items-center mb-4">
+                        <div id="awareness-score" class="text-3xl font-light mr-2"></div>
+                        <span class="text-gray-500">/ 16分</span>
+                    </div>
+                    <div class="mt-2 h-1 bg-gray-300 rounded-full overflow-hidden">
+                        <div id="awareness-bar" class="h-full bg-black" style="width: 0%"></div>
+                    </div>
+                    <p class="mt-4 text-sm text-gray-600 leading-relaxed">情绪雷达：看见情绪与身体状态，是冥想成长的起点，得分越高代表自我觉察越清晰</p>
+                </div>
+
+                <!-- 稳定力 -->
+                <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover card-hover">
+                    <h4 class="text-lg font-light mb-4">稳定力</h4>
+                    <div class="flex items-center mb-4">
+                        <div id="stability-score" class="text-3xl font-light mr-2"></div>
+                        <span class="text-gray-500">/ 16分</span>
+                    </div>
+                    <div class="mt-2 h-1 bg-gray-300 rounded-full overflow-hidden">
+                        <div id="stability-bar" class="h-full bg-black" style="width: 0%"></div>
+                    </div>
+                    <p class="mt-4 text-sm text-gray-600 leading-relaxed">内心定海神针：不被情绪与压力带走，是冥想核心定力，得分越高内心越平稳有力量</p>
+                </div>
+
+                <!-- 专注力 -->
+                <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover card-hover">
+                    <h4 class="text-lg font-light mb-4">专注力</h4>
+                    <div class="flex items-center mb-4">
+                        <div id="focus-score" class="text-3xl font-light mr-2"></div>
+                        <span class="text-gray-500">/ 16分</span>
+                    </div>
+                    <div class="mt-2 h-1 bg-gray-300 rounded-full overflow-hidden">
+                        <div id="focus-bar" class="h-full bg-black" style="width: 0%"></div>
+                    </div>
+                    <p class="mt-4 text-sm text-gray-600 leading-relaxed">精神聚能环：不分心、不内耗、安住当下，得分越高冥想质量与生活效率越高</p>
+                </div>
+
+                <!-- 还原力 -->
+                <div class="bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover card-hover">
+                    <h4 class="text-lg font-light mb-4">还原力</h4>
+                    <div class="flex items-center mb-4">
+                        <div id="recovery-score" class="text-3xl font-light mr-2"></div>
+                        <span class="text-gray-500">/ 16分</span>
+                    </div>
+                    <div class="mt-2 h-1 bg-gray-300 rounded-full overflow-hidden">
+                        <div id="recovery-bar" class="h-full bg-black" style="width: 0%"></div>
+                    </div>
+                    <p class="mt-4 text-sm text-gray-600 leading-relaxed">快速能量键：快速恢复精力、抗压抗倦怠，得分越高身心弹性越强</p>
+                </div>
+            </div>
+
+            <!-- 图表展示区域 -->
+            <div class="mb-16">
+                <h4 class="text-xl font-light mb-6">能力维度雷达图</h4>
+                <div class="bg-gray-100 rounded-lg p-6 flex justify-center">
+                    <canvas id="radar-chart" width="400" height="300"></canvas>
+                </div>
+            </div>
+
+            <!-- 等级判定与建议 -->
+            <div class="mb-16">
+                <h4 class="text-xl font-light mb-6">等级评估与提升建议</h4>
+                <div id="level-description" class="bg-gray-100 rounded-lg p-6">
+                    <!-- 内容将由JavaScript动态填充 -->
+                </div>
+            </div>
+
+            <!-- 基础信息 -->
+            <div class="mb-16">
+                <h4 class="text-xl font-light mb-6">您提供的基础信息</h4>
+                <div class="bg-gray-100 rounded-lg p-6">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-6">
+                        <div>
+                            <p class="text-sm text-gray-500 mb-1">本周平均冥想时长</p>
+                            <p id="meditation-time" class="text-lg font-light"></p>
+                        </div>
+                        <div>
+                            <p class="text-sm text-gray-500 mb-1">冥想阶段</p>
+                            <p id="meditation-stage" class="text-lg font-light"></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 操作按钮 -->
+            <div class="flex flex-col md:flex-row justify-center gap-6 mb-16">
+                <button id="save-result" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                    <i class="fa fa-save mr-2"></i>保存本次结果
+                </button>
+                <button id="view-history" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                    <i class="fa fa-history mr-2"></i>查看历史记录
+                </button>
+                <button id="restart-assessment" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                    <i class="fa fa-refresh mr-2"></i>重新评估
+                </button>
+            </div>
+
+            <!-- 免责声明 -->
+            <div class="text-center text-sm text-gray-500 mt-16 pt-8 border-t border-gray-200">
+                <p>本量表为Mocici 精神健身ASFR体系V1版，仅用于冥想训练效果追踪与自我评估，不替代专业心理或医疗诊断</p>
+            </div>
+        </div>
+    </section>
+
+    <!-- 历史记录区域 (初始隐藏) -->
+    <section id="screen4" class="screen relative px-4 py-12 z-40 hidden">
+        <div class="max-w-4xl mx-auto">
+            <div class="flex justify-between items-center mb-12">
+                <h2 class="text-3xl font-light">历史评估记录</h2>
+                <button id="back-to-results" class="text-gray-500 hover:text-black transition-all-300">
+                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <path d="M15 18L9 12L15 6" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+                    </svg>
+                </button>
+            </div>
+
+            <!-- 历史记录图表 -->
+            <div class="mb-16">
+                <h4 class="text-xl font-light mb-6">总分趋势图</h4>
+                <div class="bg-gray-100 rounded-lg p-6">
+                    <canvas id="history-chart" height="250"></canvas>
+                </div>
+            </div>
+
+            <!-- 历史记录列表 -->
+            <div class="mb-16">
+                <h4 class="text-xl font-light mb-6">评估记录列表</h4>
+                <div id="history-list" class="space-y-6">
+                    <!-- 历史记录将通过JavaScript动态添加 -->
+                    <div class="bg-gray-100 rounded-lg p-6 text-center">
+                        <p class="text-gray-500">暂无历史记录</p>
+                    </div>
+                </div>
+            </div>
+
+            <!-- 返回按钮 -->
+            <div class="text-center mb-12">
+                <button id="back-to-results-btn" class="px-8 py-3 border border-black text-black hover:bg-black hover:text-white transition-all-300 text-lg font-light">
+                    返回结果页
+                </button>
+            </div>
+        </div>
+    </section>
+
+    <!-- 页脚 -->
+    <footer class="bg-white py-12 px-4 border-t border-gray-200">
+        <div class="max-w-4xl mx-auto text-center">
+            <p class="text-gray-500">© 2025 Mocici 精神健身 版权所有</p>
+        </div>
+    </footer>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function() {
+            // 自定义鼠标指针
+            const cursor = document.getElementById('custom-cursor');
+            let mouseX = 0;
+            let mouseY = 0;
+            let cursorX = 0;
+            let cursorY = 0;
+
+            // 初始显示光标
+            document.addEventListener('mousemove', (e) => {
+                cursor.style.opacity = '1';
+                mouseX = e.clientX;
+                mouseY = e.clientY;
+            });
+
+            // 平滑跟随效果
+            function animateCursor() {
+                const speed = 0.2; // 跟随速度
+                cursorX += (mouseX - cursorX) * speed;
+                cursorY += (mouseY - cursorY) * speed;
+            
+                cursor.style.transform = `translate(${cursorX}px, ${cursorY}px)`;
+                requestAnimationFrame(animateCursor);
+            }
+
+            animateCursor();
+
+            // 悬停效果
+            const hoverElements = document.querySelectorAll('button, .radio-label, .card-hover');
+            hoverElements.forEach(element => {
+                element.addEventListener('mouseenter', () => {
+                    cursor.classList.add('hover');
+                });
+            
+                element.addEventListener('mouseleave', () => {
+                    cursor.classList.remove('hover');
+                });
+            });
+
+            // 滚动进度条
+            const progressBar = document.getElementById('progress-bar');
+            window.addEventListener('scroll', () => {
+                const scrollTop = window.scrollY;
+                const docHeight = document.documentElement.scrollHeight - window.innerHeight;
+                const scrollPercent = (scrollTop / docHeight) * 100;
+                progressBar.style.width = scrollPercent + '%';
+            });
+
+            // 滚动差分效果
+            const screens = document.querySelectorAll('.screen');
+            window.addEventListener('scroll', () => {
+                const scrollY = window.scrollY;
+                const windowHeight = window.innerHeight;
+
+                // 首屏和第二屏之间的过渡
+                if (scrollY < windowHeight) {
+                    const progress = Math.min(1, scrollY / windowHeight);
+                    screens[0].style.transform = `translateY(${-50 * progress}px)`;
+                    screens[0].style.opacity = `${1 - progress * 0.3}`;
+                }
+
+                // 第二屏和第三屏之间的过渡
+                if (scrollY >= windowHeight && scrollY < windowHeight * 2) {
+                    const progress = Math.min(1, (scrollY - windowHeight) / windowHeight);
+                    screens[1].style.transform = `translateY(${-30 * progress}px)`;
+                    screens[1].style.opacity = `${1 - progress * 0.2}`;
+                }
+            });
+
+            // 页面切换控制
+            const startBtn = document.getElementById('start-btn');
+            const backToTopBtn = document.getElementById('back-to-top');
+            const backToQuestionnaireBtn = document.getElementById('back-to-questionnaire');
+            const restartAssessmentBtn = document.getElementById('restart-assessment');
+            const viewHistoryBtn = document.getElementById('view-history');
+            const backToResultsBtn = document.getElementById('back-to-results-btn');
+            const backToResults = document.getElementById('back-to-results');
+
+            startBtn.addEventListener('click', () => {
+                screens[1].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            backToTopBtn.addEventListener('click', () => {
+                screens[0].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            backToQuestionnaireBtn.addEventListener('click', () => {
+                screens[1].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            restartAssessmentBtn.addEventListener('click', () => {
+                document.getElementById('meditation-form').reset();
+                screens[1].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            viewHistoryBtn.addEventListener('click', () => {
+                showHistoryScreen();
+            });
+
+            backToResultsBtn.addEventListener('click', () => {
+                screens[2].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            backToResults.addEventListener('click', () => {
+                screens[2].scrollIntoView({ behavior: 'smooth' });
+            });
+
+            // 表单处理
+            const form = document.getElementById('meditation-form');
+            form.addEventListener('submit', function(e) {
+                e.preventDefault();
+                
+                // 计算四个维度的得分
+                const awarenessScore = 
+                    parseInt(getRadioValue('q1')) + 
+                    parseInt(getRadioValue('q2')) + 
+                    parseInt(getRadioValue('q3')) + 
+                    parseInt(getRadioValue('q4'));
+                
+                const stabilityScore = 
+                    parseInt(getRadioValue('q5')) + 
+                    parseInt(getRadioValue('q6')) + 
+                    parseInt(getRadioValue('q7')) + 
+                    parseInt(getRadioValue('q8'));
+                
+                const focusScore = 
+                    parseInt(getRadioValue('q9')) + 
+                    parseInt(getRadioValue('q10')) + 
+                    parseInt(getRadioValue('q11')) + 
+                    parseInt(getRadioValue('q12'));
+                
+                const recoveryScore = 
+                    parseInt(getRadioValue('q13')) + 
+                    parseInt(getRadioValue('q14')) + 
+                    parseInt(getRadioValue('q15')) + 
+                    parseInt(getRadioValue('q16'));
+                
+                // 计算总分
+                const totalScore = awarenessScore + stabilityScore + focusScore + recoveryScore;
+                
+                // 确定等级
+                let level, levelDescription;
+                if (totalScore <= 16) {
+                    level = "初级";
+                    levelDescription = `
+                        <div class="mb-6">
+                            <h5 class="text-lg font-light mb-3">状态描述</h5>
+                            <p class="text-gray-600 leading-relaxed">易被情绪带走、易疲劳，冥想时难以保持专注，身心恢复能力较弱。</p>
+                        </div>
+                        <div>
+                            <h5 class="text-lg font-light mb-3">提升建议</h5>
+                            <p class="text-gray-600 leading-relaxed">每周3次10分钟基础呼吸冥想，从简单的呼吸觉察开始，逐步建立冥想习惯。可以使用引导冥想APP辅助练习，重点培养对呼吸和身体的基础感知。</p>
+                        </div>
+                    `;
+                } else if (totalScore <= 32) {
+                    level = "中级";
+                    levelDescription = `
+                        <div class="mb-6">
+                            <h5 class="text-lg font-light mb-3">状态描述</h5>
+                            <p class="text-gray-600 leading-relaxed">有基础觉察能力，能够意识到自己的情绪和思维状态，但在压力下仍容易波动，专注力和恢复能力有待提升。</p>
+                        </div>
+                        <div>
+                            <h5 class="text-lg font-light mb-3">提升建议</h5>
+                            <p class="text-gray-600 leading-relaxed">加强专注练习与身体扫描，每周至少4次15-20分钟的冥想。可以尝试正念行走、正念饮食等日常正念练习，将冥想融入生活。</p>
+                        </div>
+                    `;
+                } else if (totalScore <= 48) {
+                    level = "高级";
+                    levelDescription = `
+                        <div class="mb-6">
+                            <h5 class="text-lg font-light mb-3">状态描述</h5>
+                            <p class="text-gray-600 leading-relaxed">心身稳定高效，冥想已成为习惯，能够较好地管理情绪和注意力，恢复能力较强。</p>
+                        </div>
+                        <div>
+                            <h5 class="text-lg font-light mb-3">提升建议</h5>
+                            <p class="text-gray-600 leading-relaxed">深化实修，向执行师迈进。可以尝试更长时间的冥想（30分钟以上），探索不同的冥想流派和技术。考虑参加冥想 retreat 或工作坊，与其他冥想者交流学习。</p>
+                        </div>
+                    `;
+                } else {
+                    level = "专家级";
+                    levelDescription = `
+                        <div class="mb-6">
+                            <h5 class="text-lg font-light mb-3">状态描述</h5>
+                            <p class="text-gray-600 leading-relaxed">觉察敏锐、稳定高效，具备老师素质，能够在各种情况下保持内心平静和专注，身心弹性极强。</p>
+                        </div>
+                        <div>
+                            <h5 class="text-lg font-light mb-3">提升建议</h5>
+                            <p class="text-gray-600 leading-relaxed">持续实修与教学。可以考虑成为冥想老师或执行师，分享自己的经验和智慧。探索更深层次的意识状态，保持谦逊和持续学习的态度。</p>
+                        </div>
+                    `;
+                }
+                
+                // 获取基础信息
+                const meditationTimeOptions = ['0分钟', '1–10分钟', '11–20分钟', '21–30分钟', '30分钟以上'];
+                const meditationStageOptions = ['零基础', '入门（1个月内）', '进阶（1–6个月）', '资深（6个月以上）', '冥想老师/执行师'];
+                
+                const meditationTime = meditationTimeOptions[parseInt(getRadioValue('q17'))];
+                const meditationStage = meditationStageOptions[parseInt(getRadioValue('q18'))];
+                
+                // 创建当前评估结果对象
+                window.currentAssessment = {
+                    date: new Date().toISOString(),
+                    totalScore: totalScore,
+                    awarenessScore: awarenessScore,
+                    stabilityScore: stabilityScore,
+                    focusScore: focusScore,
+                    recoveryScore: recoveryScore,
+                    level: level,
+                    meditationTime: meditationTime,
+                    meditationStage: meditationStage
+                };
+                
+                // 更新结果页面
+                document.getElementById('total-score').textContent = totalScore;
+                document.getElementById('awareness-score').textContent = awarenessScore;
+                document.getElementById('stability-score').textContent = stabilityScore;
+                document.getElementById('focus-score').textContent = focusScore;
+                document.getElementById('recovery-score').textContent = recoveryScore;
+                
+                // 更新进度条
+                document.getElementById('awareness-bar').style.width = `${(awarenessScore / 16) * 100}%`;
+                document.getElementById('stability-bar').style.width = `${(stabilityScore / 16) * 100}%`;
+                document.getElementById('focus-bar').style.width = `${(focusScore / 16) * 100}%`;
+                document.getElementById('recovery-bar').style.width = `${(recoveryScore / 16) * 100}%`;
+                
+                // 更新等级徽章和描述
+                document.getElementById('level-badge').textContent = level;
+                document.getElementById('level-description').innerHTML = levelDescription;
+                
+                // 更新基础信息
+                document.getElementById('meditation-time').textContent = meditationTime;
+                document.getElementById('meditation-stage').textContent = meditationStage;
+                
+                // 显示雷达图
+                displayRadarChart(window.currentAssessment);
+                
+                // 显示结果页面
+                showResultsScreen();
+            });
+
+            // 显示结果页面
+            function showResultsScreen() {
+                screens[2].classList.remove('hidden');
+                screens[3].classList.add('hidden');
+                screens[2].scrollIntoView({ behavior: 'smooth' });
+            }
+
+            // 显示历史记录页面
+            function showHistoryScreen() {
+                screens[3].classList.remove('hidden');
+                screens[3].scrollIntoView({ behavior: 'smooth' });
+                updateHistoryDisplay();
+            }
+
+            // 显示雷达图函数
+            function displayRadarChart(assessment) {
+                const ctx = document.getElementById('radar-chart').getContext('2d');
+                
+                // 如果已存在图表实例，先销毁
+                if (window.radarChart) {
+                    window.radarChart.destroy();
+                }
+                
+                // 创建新的雷达图
+                window.radarChart = new Chart(ctx, {
+                    type: 'radar',
+                    data: {
+                        labels: ['觉察力', '稳定力', '专注力', '还原力'],
+                        datasets: [{
+                            label: '能力维度得分',
+                            data: [
+                                assessment.awarenessScore,
+                                assessment.stabilityScore,
+                                assessment.focusScore,
+                                assessment.recoveryScore
+                            ],
+                            backgroundColor: 'rgba(0, 0, 0, 0.05)',
+                            borderColor: 'rgba(0, 0, 0, 0.8)',
+                            borderWidth: 1,
+                            pointBackgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(0, 0, 0, 0.8)'
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            r: {
+                                angleLines: {
+                                    display: true,
+                                    color: 'rgba(0, 0, 0, 0.1)'
+                                },
+                                grid: {
+                                    color: 'rgba(0, 0, 0, 0.1)'
+                                },
+                                pointLabels: {
+                                    font: {
+                                        family: 'Inter, Helvetica Neue, Arial, sans-serif',
+                                        size: 12,
+                                        weight: 'normal'
+                                    },
+                                    color: 'rgba(0, 0, 0, 0.7)'
+                                },
+                                suggestedMin: 0,
+                                suggestedMax: 16,
+                                ticks: {
+                                    stepSize: 4,
+                                    backdropColor: 'transparent',
+                                    color: 'rgba(0, 0, 0, 0.5)'
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                titleColor: 'rgba(0, 0, 0, 0.8)',
+                                bodyColor: 'rgba(0, 0, 0, 0.6)',
+                                borderColor: 'rgba(0, 0, 0, 0.1)',
+                                borderWidth: 1,
+                                padding: 12,
+                                displayColors: false,
+                                callbacks: {
+                                    label: function(context) {
+                                        return `得分: ${context.raw}/16`;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // 从localStorage加载历史记录
+            let assessmentHistory = JSON.parse(localStorage.getItem('meditation-assessments')) || [];
+
+            // 保存结果按钮点击事件
+            document.getElementById('save-result').addEventListener('click', function() {
+                // 将当前评估结果添加到历史记录
+                assessmentHistory.push(window.currentAssessment);
+                
+                // 保存到localStorage
+                localStorage.setItem('meditation-assessments', JSON.stringify(assessmentHistory));
+                
+                // 显示保存成功提示
+                alert('评估结果已成功保存！');
+                
+                // 更新历史记录
+                updateHistoryDisplay();
+            });
+
+            // 更新历史记录显示函数
+            function updateHistoryDisplay() {
+                const historyList = document.getElementById('history-list');
+                
+                // 清空历史记录列表
+                historyList.innerHTML = '';
+                
+                // 如果没有历史记录，显示提示信息
+                if (assessmentHistory.length === 0) {
+                    historyList.innerHTML = `
+                        <div class="bg-gray-100 rounded-lg p-6 text-center">
+                            <p class="text-gray-500">暂无历史记录</p>
+                        </div>
+                    `;
+                    return;
+                }
+                
+                // 按日期排序，最新的在前面
+                assessmentHistory.sort((a, b) => new Date(b.date) - new Date(a.date));
+                
+                // 显示历史趋势图
+                displayHistoryChart();
+                
+                // 添加历史记录到列表
+                assessmentHistory.forEach((assessment, index) => {
+                    const date = new Date(assessment.date).toLocaleString('zh-CN');
+                    
+                    const historyItem = document.createElement('div');
+                    historyItem.className = 'bg-gray-100 rounded-lg p-6 transition-all-300 scale-hover card-hover';
+                    historyItem.innerHTML = `
+                        <div class="flex justify-between items-center mb-4">
+                            <h5 class="font-light text-lg">评估日期: ${date}</h5>
+                            <span class="px-4 py-1 border border-black text-black text-sm font-light">${assessment.level}</span>
+                        </div>
+                        <div class="flex justify-between mb-6">
+                            <span class="text-gray-600">总分: ${assessment.totalScore}/64</span>
+                            <span class="text-gray-600">冥想时长: ${assessment.meditationTime}</span>
+                        </div>
+                        <div class="grid grid-cols-2 md:grid-cols-4 gap-4 text-sm mb-6">
+                            <div>
+                                <p class="text-gray-500 mb-1">觉察力</p>
+                                <p class="font-light">${assessment.awarenessScore}/16</p>
+                            </div>
+                            <div>
+                                <p class="text-gray-500 mb-1">稳定力</p>
+                                <p class="font-light">${assessment.stabilityScore}/16</p>
+                            </div>
+                            <div>
+                                <p class="text-gray-500 mb-1">专注力</p>
+                                <p class="font-light">${assessment.focusScore}/16</p>
+                            </div>
+                            <div>
+                                <p class="text-gray-500 mb-1">还原力</p>
+                                <p class="font-light">${assessment.recoveryScore}/16</p>
+                            </div>
+                        </div>
+                        <button class="view-details-btn text-black hover:text-gray-700 transition-all-300 font-light btn-underline" data-index="${index}">
+                            查看详情
+                        </button>
+                    `;
+                    
+                    historyList.appendChild(historyItem);
+                });
+                
+                // 添加查看详情按钮点击事件
+                document.querySelectorAll('.view-details-btn').forEach(btn => {
+                    btn.addEventListener('click', function() {
+                        const index = parseInt(this.getAttribute('data-index'));
+                        const assessment = assessmentHistory[index];
+                        
+                        // 更新结果页面显示
+                        document.getElementById('total-score').textContent = assessment.totalScore;
+                        document.getElementById('awareness-score').textContent = assessment.awarenessScore;
+                        document.getElementById('stability-score').textContent = assessment.stabilityScore;
+                        document.getElementById('focus-score').textContent = assessment.focusScore;
+                        document.getElementById('recovery-score').textContent = assessment.recoveryScore;
+                        
+                        // 更新进度条
+                        document.getElementById('awareness-bar').style.width = `${(assessment.awarenessScore / 16) * 100}%`;
+                        document.getElementById('stability-bar').style.width = `${(assessment.stabilityScore / 16) * 100}%`;
+                        document.getElementById('focus-bar').style.width = `${(assessment.focusScore / 16) * 100}%`;
+                        document.getElementById('recovery-bar').style.width = `${(assessment.recoveryScore / 16) * 100}%`;
+                        
+                        // 更新等级徽章和描述
+                        document.getElementById('level-badge').textContent = assessment.level;
+                        
+                        // 更新等级描述
+                        let levelDescription;
+                        if (assessment.totalScore <= 16) {
+                            levelDescription = `
+                                <div class="mb-6">
+                                    <h5 class="text-lg font-light mb-3">状态描述</h5>
+                                    <p class="text-gray-600 leading-relaxed">易被情绪带走、易疲劳，冥想时难以保持专注，身心恢复能力较弱。</p>
+                                </div>
+                                <div>
+                                    <h5 class="text-lg font-light mb-3">提升建议</h5>
+                                    <p class="text-gray-600 leading-relaxed">每周3次10分钟基础呼吸冥想，从简单的呼吸觉察开始，逐步建立冥想习惯。可以使用引导冥想APP辅助练习，重点培养对呼吸和身体的基础感知。</p>
+                                </div>
+                            `;
+                        } else if (assessment.totalScore <= 32) {
+                            levelDescription = `
+                                <div class="mb-6">
+                                    <h5 class="text-lg font-light mb-3">状态描述</h5>
+                                    <p class="text-gray-600 leading-relaxed">有基础觉察能力，能够意识到自己的情绪和思维状态，但在压力下仍容易波动，专注力和恢复能力有待提升。</p>
+                                </div>
+                                <div>
+                                    <h5 class="text-lg font-light mb-3">提升建议</h5>
+                                    <p class="text-gray-600 leading-relaxed">加强专注练习与身体扫描，每周至少4次15-20分钟的冥想。可以尝试正念行走、正念饮食等日常正念练习，将冥想融入生活。</p>
+                                </div>
+                            `;
+                        } else if (assessment.totalScore <= 48) {
+                            levelDescription = `
+                                <div class="mb-6">
+                                    <h5 class="text-lg font-light mb-3">状态描述</h5>
+                                    <p class="text-gray-600 leading-relaxed">心身稳定高效，冥想已成为习惯，能够较好地管理情绪和注意力，恢复能力较强。</p>
+                                </div>
+                                <div>
+                                    <h5 class="text-lg font-light mb-3">提升建议</h5>
+                                    <p class="text-gray-600 leading-relaxed">深化实修，向执行师迈进。可以尝试更长时间的冥想（30分钟以上），探索不同的冥想流派和技术。考虑参加冥想 retreat 或工作坊，与其他冥想者交流学习。</p>
+                                </div>
+                            `;
+                        } else {
+                            levelDescription = `
+                                <div class="mb-6">
+                                    <h5 class="text-lg font-light mb-3">状态描述</h5>
+                                    <p class="text-gray-600 leading-relaxed">觉察敏锐、稳定高效，具备老师素质，能够在各种情况下保持内心平静和专注，身心弹性极强。</p>
+                                </div>
+                                <div>
+                                    <h5 class="text-lg font-light mb-3">提升建议</h5>
+                                    <p class="text-gray-600 leading-relaxed">持续实修与教学。可以考虑成为冥想老师或执行师，分享自己的经验和智慧。探索更深层次的意识状态，保持谦逊和持续学习的态度。</p>
+                                </div>
+                            `;
+                        }
+                        
+                        document.getElementById('level-description').innerHTML = levelDescription;
+                        
+                        // 更新基础信息
+                        document.getElementById('meditation-time').textContent = assessment.meditationTime;
+                        document.getElementById('meditation-stage').textContent = assessment.meditationStage;
+                        
+                        // 显示该次评估的雷达图
+                        displayRadarChart(assessment);
+                        
+                        // 切换到结果页面
+                        showResultsScreen();
+                    });
+                });
+            }
+
+            // 显示历史趋势图函数
+            function displayHistoryChart() {
+                const ctx = document.getElementById('history-chart').getContext('2d');
+                
+                // 如果历史趋势图已存在，销毁它
+                if (window.historyChart) {
+                    window.historyChart.destroy();
+                }
+                
+                // 准备数据
+                const dates = assessmentHistory.map(assessment => {
+                    return new Date(assessment.date).toLocaleDateString('zh-CN');
+                });
+                
+                const totalScores = assessmentHistory.map(assessment => assessment.totalScore);
+                
+                // 创建新的历史趋势图
+                window.historyChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: dates,
+                        datasets: [{
+                            label: '总分趋势',
+                            data: totalScores,
+                            backgroundColor: 'rgba(0, 0, 0, 0.05)',
+                            borderColor: 'rgba(0, 0, 0, 0.8)',
+                            borderWidth: 1,
+                            tension: 0.3,
+                            pointBackgroundColor: 'rgba(0, 0, 0, 0.8)',
+                            pointBorderColor: '#fff',
+                            pointHoverBackgroundColor: '#fff',
+                            pointHoverBorderColor: 'rgba(0, 0, 0, 0.8)',
+                            pointRadius: 4,
+                            pointHoverRadius: 6
+                        }]
+                    },
+                    options: {
+                        scales: {
+                            y: {
+                                beginAtZero: true,
+                                max: 64,
+                                grid: {
+                                    color: 'rgba(0, 0, 0, 0.05)'
+                                },
+                                ticks: {
+                                    color: 'rgba(0, 0, 0, 0.6)'
+                                },
+                                title: {
+                                    display: true,
+                                    text: '总分',
+                                    color: 'rgba(0, 0, 0, 0.6)',
+                                    font: {
+                                        family: 'Inter, Helvetica Neue, Arial, sans-serif',
+                                        size: 12,
+                                        weight: 'normal'
+                                    }
+                                }
+                            },
+                            x: {
+                                grid: {
+                                    display: false
+                                },
+                                ticks: {
+                                    color: 'rgba(0, 0, 0, 0.6)'
+                                },
+                                title: {
+                                    display: true,
+                                    text: '评估日期',
+                                    color: 'rgba(0, 0, 0, 0.6)',
+                                    font: {
+                                        family: 'Inter, Helvetica Neue, Arial, sans-serif',
+                                        size: 12,
+                                        weight: 'normal'
+                                    }
+                                }
+                            }
+                        },
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(255, 255, 255, 0.9)',
+                                titleColor: 'rgba(0, 0, 0, 0.8)',
+                                bodyColor: 'rgba(0, 0, 0, 0.6)',
+                                borderColor: 'rgba(0, 0, 0, 0.1)',
+                                borderWidth: 1,
+                                padding: 12,
+                                displayColors: false,
+                                callbacks: {
+                                    label: function(context) {
+                                        return `总分: ${context.raw}/64`;
+                                    }
+                                }
+                            }
+                        }
+                    }
+                });
+            }
+
+            // 辅助函数：获取单选按钮的值
+            function getRadioValue(name) {
+                const radios = document.getElementsByName(name);
+                for (let i = 0; i < radios.length; i++) {
+                    if (radios[i].checked) {
+                        return radios[i].value;
+                    }
+                }
+                return null;
+            }
+        });
+    </script>
+</body>
+</html>

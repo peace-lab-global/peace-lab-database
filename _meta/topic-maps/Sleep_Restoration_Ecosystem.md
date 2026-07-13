@@ -34,28 +34,28 @@ graph TB
 
 | 节点 | 文件位置 | 支柱 |
 |------|---------|------|
-| 睡眠科学 | `02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Science.md` | 02 |
-| 失眠总览 | `02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_Overview.md` | 02 |
-| CBT-I | `02-Mind-Psychology/psychology/somatic-body/sleep/Sleep_Insomnia_CBT.md` | 02 |
-| 梦的科学 | `02-Mind-Psychology/psychology/somatic-body/sleep/Bio_Sleep_Dreams.md` | 02 |
-| 睡前拉伸 | `03-Bio-Science/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md` | 03 |
-| 运动恢复 | `03-Bio-Science/biology/exercise-science/Recovery_Regeneration.md` | 03 |
-| 能量恢复 | `03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md` | 03 |
-| 呼吸法 | `03-Bio-Science/biology/breathwork/` | 03 |
-| Yoga Nidra | `01-Wisdom-Traditions/yoga/meditation-consciousness/Yoga_Nidra.md` | 01 |
-| 放松技术 | `02-Mind-Psychology/psychology/somatic-body/relaxation/` | 02 |
-| 声音疗愈 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md` | 02 |
-| 脑波引导 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
-| Solfeggio睡眠方案 | `02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
-| 音乐疗愈 | `04-Humanities-Arts/media/music/` | 04 |
-| 习惯养成 | `05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md` | 05 |
-| 每日打卡 | `05-Praxis-Growth/personal-development/daily-checkin/Daily_Checkin_Systems.md` | 05 |
-| 正念冥想 | `05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md` | 05 |
+| 睡眠科学 | `02-心智心理/psychology/somatic-body/sleep/Bio_Sleep_Science.md` | 02 |
+| 失眠总览 | `02-心智心理/psychology/somatic-body/sleep/Sleep_Insomnia_Overview.md` | 02 |
+| CBT-I | `02-心智心理/psychology/somatic-body/sleep/Sleep_Insomnia_CBT.md` | 02 |
+| 梦的科学 | `02-心智心理/psychology/somatic-body/sleep/Bio_Sleep_Dreams.md` | 02 |
+| 睡前拉伸 | `03-生命科学/biology/pre-sleep-stretching/Pre_Sleep_Stretching_Overview.md` | 03 |
+| 运动恢复 | `03-生命科学/biology/exercise-science/Recovery_Regeneration.md` | 03 |
+| 能量恢复 | `03-生命科学/biology/energy-restoration/Energy_Restoration_Overview.md` | 03 |
+| 呼吸法 | `03-生命科学/生物学/呼吸法/` | 03 |
+| Yoga Nidra | `01-智慧传统/yoga/meditation-consciousness/Yoga_Nidra.md` | 01 |
+| 放松技术 | `02-心智心理/心理学/躯体身心/放松/` | 02 |
+| 声音疗愈 | `02-心智心理/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md` | 02 |
+| 脑波引导 | `02-心智心理/therapy/sensory-nature/sensory/Sensory_Brainwave_Entrainment.md` | 02 |
+| Solfeggio睡眠方案 | `02-心智心理/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md` | 02 |
+| 音乐疗愈 | `04-人文艺术/媒体/音乐/` | 04 |
+| 习惯养成 | `05-实践成长/personal-development/topics/Personal_Development_Habit_Science.md` | 05 |
+| 每日打卡 | `05-实践成长/personal-development/daily-checkin/Daily_Checkin_Systems.md` | 05 |
+| 正念冥想 | `05-实践成长/personal-development/mindfulness/Mindfulness_Core.md` | 05 |
 
 ## 相关学习路径
 
-- [睡眠优化路径](../learning-paths/Sleep_Optimization_Path.md)
-- [压力韧性路径](../learning-paths/Stress_Resilience_Path.md)
+- [睡眠优化路径](../学习路径/睡眠OptimizationPath.md)
+- [压力韧性路径](../学习路径/压力韧性Path.md)
 
 ---
 *返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](./)*

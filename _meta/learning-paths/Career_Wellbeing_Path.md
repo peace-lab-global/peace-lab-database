@@ -7,31 +7,31 @@
 
 ## 阶段一：识别职场压力（第1-2周）
 
-1. [职业倦怠总览](../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Overview.md)
-2. [倦怠评估与诊断](../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Assessment_Diagnosis.md)
-3. [职场心理危机干预](../../02-Mind-Psychology/psychology/applied/workplace-psychological-crisis/)
-4. [向上管理与情绪化上级应对](../../05-Praxis-Growth/personal-development/workplace-expression/Workplace_Upward_Management.md)
+1. [职业倦怠总览](../../02-心智心理/心理学/应用心理/occupationalburnout/OccupationalBurnout总览.md)
+2. [倦怠评估与诊断](../../02-心智心理/心理学/应用心理/occupationalburnout/OccupationalBurnout评估诊断.md)
+3. [职场心理危机干预](../../02-心智心理/心理学/应用心理/职场心理危机/)
+4. [向上管理与情绪化上级应对](../../05-实践成长/个人发展/职场表达/职场Upward管理.md)
 
 ## 阶段二：心理干预与技能（第3-4周）
 
-5. [倦怠预防干预](../../02-Mind-Psychology/psychology/applied/occupational-burnout/Occupational_Burnout_Prevention_Intervention.md)
-6. [接纳承诺疗法 (ACT)](../../02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/)
-7. [情商与领导力/职场](../../05-Praxis-Growth/personal-development/emotional-intelligence/EI_Leadership_Workplace.md)
-8. [非防御性沟通](../../05-Praxis-Growth/communication/non-defensive-communication/Non_Defensive_Communication_Overview.md)
+5. [倦怠预防干预](../../02-心智心理/心理学/应用心理/occupationalburnout/OccupationalBurnout预防干预.md)
+6. [接纳承诺疗法 (ACT)](../../02-心智心理/疗法/认知行为/接纳承诺疗法/)
+7. [情商与领导力/职场](../../05-实践成长/个人发展/emotionalintelligence/EI领导力职场.md)
+8. [非防御性沟通](../../05-实践成长/沟通/nondefensive沟通/NonDefensive沟通总览.md)
 
 ## 阶段三：正念与身心恢复（第5-6周）
 
-9. [MBSR正念减压](../../02-Mind-Psychology/meditation/clinical/mbsr-program/MBSR_Program_Overview.md)
-10. [太极拳心理调适](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
-11. [禅宗日常实修](../../01-Wisdom-Traditions/religions/zen/Zen_Daily_Life_Practice.md)
-12. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
+9. [MBSR正念减压](../../02-心智心理/冥想/临床/正念减压课程/正念减压Program总览.md)
+10. [太极拳心理调适](../../01-智慧传统/太极拳/太极拳心理AdjustmentMechanism.md)
+11. [禅宗日常实修](../../01-智慧传统/宗教/禅宗/禅宗日常生活实践.md)
+12. [正念核心实践](../../05-实践成长/个人发展/正念/正念核心.md)
 
 ## 阶段四：能量恢复与韧性构建（第7-8周）
 
-13. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
-14. [运动与心理健康](../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md)
-15. [心力成长核心](../../05-Praxis-Growth/personal-development/mental-resilience/Mental_Resilience_Overview.md)
-16. [职业规划与Ikigai](../../05-Praxis-Growth/personal-development/career-planning/Career_Ikigai.md)
+13. [能量恢复](../../03-生命科学/生物学/energyrestoration/EnergyRestoration总览.md)
+14. [运动与心理健康](../../03-生命科学/生物学/运动科学/运动心理健康.md)
+15. [心力成长核心](../../05-实践成长/个人发展/mental韧性/Mental韧性总览.md)
+16. [职业规划与Ikigai](../../05-实践成长/个人发展/职业planning/职业Ikigai.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

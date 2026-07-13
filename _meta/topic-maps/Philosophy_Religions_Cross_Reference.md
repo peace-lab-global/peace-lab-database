@@ -1,6 +1,6 @@
 # Philosophy ↔ Religions 跨分类索引
 
-> 本文档解释 `01-Wisdom-Traditions/` 下 `philosophy/` 与 `religions/` 两个分类轴的关系与使用方式。
+> 本文档解释 `01-智慧传统/` 下 `哲学/` 与 `宗教/` 两个分类轴的关系与使用方式。
 > 同一个传统(如道家、儒家、佛教)既可从哲学角度切入,也可从宗教传统角度切入。
 
 ---
@@ -60,13 +60,13 @@ religions/
 
 | 传统 | philosophy 入口 | religions 入口 | 关系 |
 |---|---|---|---|
-| **佛教** | `philosophy/south-asian/india/...`(印度哲学视角) | `religions/buddhism/`(汉传)、`tibetan-buddhism/`(藏传)、`zen/`(禅宗) | philosophy 侧重概念史;religions 侧重修行方法 |
-| **道家** | `philosophy/east-asian-philosophy/china/taoism/` | `religions/dao/` | philosophy 侧重形而上学;religions 侧重丹道/养生 |
-| **儒家** | `philosophy/east-asian-philosophy/china/confucianism/` | (尚未建立 religions 入口) | 哲学视角为主 |
-| **吠檀多** | `philosophy/south-asian/india/vedanta/` | (尚未建立 religions 入口) | 哲学视角为主 |
-| **基督教** | `philosophy/western-philosophy/medieval/`(经院哲学) | `religions/christianity/`(新教)、`catholicism/`、`orthodox-christianity/` | philosophy 侧重思想史;religions 侧重灵性实践 |
-| **伊斯兰** | (西方哲学未涵盖) | `religions/islam/` | religions 为主 |
-| **法家** | (哲学传统中可归入"诸子百家 other-schools") | `religions/legalist/` | 双视角并存 |
+| **佛教** | `philosophy/south-asian/india/...`(印度哲学视角) | `宗教/佛教/`(汉传)、`藏传佛教/`(藏传)、`禅宗/`(禅宗) | philosophy 侧重概念史;religions 侧重修行方法 |
+| **道家** | `哲学/东亚哲学/中国/道家/` | `宗教/道家/` | philosophy 侧重形而上学;religions 侧重丹道/养生 |
+| **儒家** | `哲学/东亚哲学/中国/儒家/` | (尚未建立 religions 入口) | 哲学视角为主 |
+| **吠檀多** | `哲学/南亚/印度/吠檀多/` | (尚未建立 religions 入口) | 哲学视角为主 |
+| **基督教** | `哲学/西方哲学/中世纪/`(经院哲学) | `宗教/基督教/`(新教)、`天主教/`、`东正教/` | philosophy 侧重思想史;religions 侧重灵性实践 |
+| **伊斯兰** | (西方哲学未涵盖) | `宗教/伊斯兰/` | religions 为主 |
+| **法家** | (哲学传统中可归入"诸子百家 other-schools") | `宗教/法家/` | 双视角并存 |
 
 ---
 
@@ -96,7 +96,7 @@ religions/
 1. **单一主导入口**:每篇文档只放在一个目录下,**不重复存储**
 2. **跨入口链接**:同一传统在两个维度都有内容时,在每个 INDEX.md 中用 `cross_refs` 互相引用
 3. **新增传统**:先判断是哲学(思想体系)还是宗教(修行实践)为主,放在对应入口
-4. **争议处理**:道家、佛教等"亦哲亦教"的传统,默认以 `religions/` 为修行入口,`philosophy/` 为思想入口
+4. **争议处理**:道家、佛教等"亦哲亦教"的传统,默认以 `宗教/` 为修行入口,`哲学/` 为思想入口
 
 ---
 
@@ -104,23 +104,23 @@ religions/
 
 ### 示例 1:道家(亦哲亦教)
 
-**哲学入口**: `01-Wisdom-Traditions/philosophy/east-asian-philosophy/china/taoism/`
+**哲学入口**: `01-智慧传统/哲学/东亚哲学/中国/道家/`
 - 关注:形而上学、概念史、与诸子百家的比较
 
-**宗教入口**: `01-Wisdom-Traditions/religions/dao/`
+**宗教入口**: `01-智慧传统/宗教/道家/`
 - 关注:内丹修持、养生、符箓仪式
 
 **关联文档**: `Solitude_Wisdom_Bridge.md` 在两个领域都有引用
 
 ### 示例 2:佛教(汉传/藏传/禅宗)
 
-**哲学入口**: `01-Wisdom-Traditions/philosophy/south-asian/india/`(印度佛教哲学)
+**哲学入口**: `01-智慧传统/哲学/南亚/印度/`(印度佛教哲学)
 - 关注:缘起性空、中观、唯识
 
-**宗教入口**: `01-Wisdom-Traditions/religions/buddhism/`(汉传)
+**宗教入口**: `01-智慧传统/宗教/佛教/`(汉传)
 - 关注:四圣谛、八正道、修行仪轨
 
-**禅宗特例**: `01-Wisdom-Traditions/religions/zen/` 独立突出,因为禅宗有大量公案与默照功夫,既是哲学又是高度实践性修行
+**禅宗特例**: `01-智慧传统/宗教/禅宗/` 独立突出,因为禅宗有大量公案与默照功夫,既是哲学又是高度实践性修行
 
 ---
 

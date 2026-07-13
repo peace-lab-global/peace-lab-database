@@ -7,33 +7,33 @@
 
 ## 阶段一：传统身心智慧（第1-2周）
 
-1. [太极拳总览](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Overview.md)
-2. [太极拳基础与练习](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Fundamentals_Practice.md)
-3. [瑜伽体式与调息](../../01-Wisdom-Traditions/yoga/practice-technique/Yoga_Asana_Pranayama.md)
-4. [瑜伽解剖学](../../01-Wisdom-Traditions/yoga/anatomy-science/Yoga_Anatomy_Physiology.md)
+1. [太极拳总览](../../01-智慧传统/太极拳/太极拳总览.md)
+2. [太极拳基础与练习](../../01-智慧传统/太极拳/太极拳Fundamentals实践.md)
+3. [瑜伽体式与调息](../../01-智慧传统/瑜伽/实践技术/瑜伽体式调息.md)
+4. [瑜伽解剖学](../../01-智慧传统/瑜伽/解剖科学/瑜伽解剖学生理学.md)
 
 ## 阶段二：现代运动科学（第3-4周）
 
-5. [运动科学总览](../../03-Bio-Science/biology/exercise-science/Exercise_Science_Overview.md)
-6. [运动与心理健康](../../03-Bio-Science/biology/exercise-science/Exercise_Mental_Health.md)
-7. [功能性动作筛查 (FMS)](../../03-Bio-Science/biology/exercise-science/Functional_Movement_Screening.md)
-8. [太极拳神经科学证据](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Neuroscience_Evidence.md)
+5. [运动科学总览](../../03-生命科学/生物学/运动科学/运动科学总览.md)
+6. [运动与心理健康](../../03-生命科学/生物学/运动科学/运动心理健康.md)
+7. [功能性动作筛查 (FMS)](../../03-生命科学/生物学/运动科学/FunctionalMovementScreening.md)
+8. [太极拳神经科学证据](../../01-智慧传统/太极拳/太极拳神经科学循证.md)
 
 ## 阶段三：心理与躯体疗法（第5-6周）
 
-9. [躯体体验疗法](../../02-Mind-Psychology/psychology/somatic-body/somatic/)
-10. [情绪科学与调节](../../02-Mind-Psychology/psychology/somatic-body/emotion/)
-11. [瑜伽心理疗愈原理](../../01-Wisdom-Traditions/yoga/therapy-clinical/Yoga_Psychological_Healing_Principles.md)
-12. [太极拳心理调适机制](../../01-Wisdom-Traditions/tai-chi/Tai_Chi_Psychological_Adjustment_Mechanism.md)
-13. [声音疗愈与振动疗法](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Sound_Medicine.md)
-14. [频率疗愈与身心整合](../../02-Mind-Psychology/therapy/sensory-nature/sensory/Sensory_Solfeggio_Frequencies.md)
+9. [躯体体验疗法](../../02-心智心理/心理学/躯体身心/躯体/)
+10. [情绪科学与调节](../../02-心智心理/心理学/躯体身心/情绪/)
+11. [瑜伽心理疗愈原理](../../01-智慧传统/瑜伽/临床治疗/瑜伽心理疗愈Principles.md)
+12. [太极拳心理调适机制](../../01-智慧传统/太极拳/太极拳心理AdjustmentMechanism.md)
+13. [声音疗愈与振动疗法](../../02-心智心理/疗法/感官nature/感官/感官SoundMedicine.md)
+14. [频率疗愈与身心整合](../../02-心智心理/疗法/感官nature/感官/感官SolfeggioFrequencies.md)
 
 ## 阶段四：日常正念整合（第7-8周）
 
-16. [正念核心实践](../../05-Praxis-Growth/personal-development/mindfulness/Mindfulness_Core.md)
-17. [心流与专注力](../../05-Praxis-Growth/personal-development/flow/Flow_State_Core.md)
-18. [习惯养成科学](../../05-Praxis-Growth/personal-development/topics/Personal_Development_Habit_Science.md)
-19. [能量恢复](../../03-Bio-Science/biology/energy-restoration/Energy_Restoration_Overview.md)
+16. [正念核心实践](../../05-实践成长/个人发展/正念/正念核心.md)
+17. [心流与专注力](../../05-实践成长/个人发展/心流/FlowState核心.md)
+18. [习惯养成科学](../../05-实践成长/个人发展/主题/Personal发展Habit科学.md)
+19. [能量恢复](../../03-生命科学/生物学/energyrestoration/EnergyRestoration总览.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](./)*

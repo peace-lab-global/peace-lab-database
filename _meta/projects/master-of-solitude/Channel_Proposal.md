@@ -269,13 +269,13 @@ Master of Solitude 内容金字塔
 
 | 知识模块 | 路径 | 支撑内容 |
 |---------|------|---------|
-| 孤独感研究体系 | `02-Mind-Psychology/psychology/social/loneliness/` | 12份专业文档：概览、术语、来源、评估、临床、缓释 |
-| 婚内孤独专题 | `02-Mind-Psychology/relationships/marriage/marital-loneliness/` | 6份专题文档：评估、来源、临床管理、缓释策略 |
-| 步行改善孤独 | `05-Praxis-Growth/personal-development/practice/Daily_Advanced_Practices.md` | 5种步行实践方案+核心机制表 |
-| 自我慈悲体系 | `02-Mind-Psychology/psychology/self-regulation/self-compassion/` | Neff三成分模型完整操作指南 |
-| 冥想临床应用 | `02-Mind-Psychology/meditation/foundations/overview/` | 18份文档：分类、机制、临床应用 |
-| 社交资本建设 | `05-Praxis-Growth/personal-development/social-capital/` | 社交资本实践方案 |
-| TED演讲资源 | `05-Praxis-Growth/talks/ted-talks/` | 150+场演讲的疗愈资源索引 |
+| 孤独感研究体系 | `02-心智心理/心理学/社会心理/孤独/` | 12份专业文档：概览、术语、来源、评估、临床、缓释 |
+| 婚内孤独专题 | `02-心智心理/关系/婚姻/婚姻孤独/` | 6份专题文档：评估、来源、临床管理、缓释策略 |
+| 步行改善孤独 | `05-实践成长/personal-development/practice/Daily_Advanced_Practices.md` | 5种步行实践方案+核心机制表 |
+| 自我慈悲体系 | `02-心智心理/心理学/selfregulation/self慈悲/` | Neff三成分模型完整操作指南 |
+| 冥想临床应用 | `02-心智心理/冥想/基础/总览/` | 18份文档：分类、机制、临床应用 |
+| 社交资本建设 | `05-实践成长/个人发展/socialcapital/` | 社交资本实践方案 |
+| TED演讲资源 | `05-实践成长/演讲/ted演讲/` | 150+场演讲的疗愈资源索引 |
 
 ---
 
