@@ -15,11 +15,11 @@ trigger_keywords: ["智慧传承中的独处哲学资源索引", "Solitude", "Wi
 cross_refs:
   - path: "02-心智心理/心理学/社会心理/独处/INDEX.md"
     relation: "独处/bridge/智慧"
-  - path: "02-心智心理/心理学/社会心理/独处/Solitude_Philosophy.md"
+  - path: 02-心智心理/心理学/社会心理-独处-Solitude_Philosophy.md
     relation: "独处/道家/智慧"
   - path: "04-人文艺术/文学/worldnonfiction/东方哲学/慎子.md"
     relation: "无为/道家/智慧"
-  - path: "02-心智心理/心理学/社会心理/独处/Solitude_Loneliness_Bridge.md"
+  - path: 02-心智心理/心理学/社会心理-独处-Solitude_Loneliness_Bridge.md
     relation: "bridge/独处"
 ---
 # 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)

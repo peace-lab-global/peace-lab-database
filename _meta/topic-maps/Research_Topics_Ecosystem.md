@@ -66,4 +66,4 @@ graph TB
 ```
 
 ---
-*返回 [_meta/research-topics](../_meta/research-topics/INDEX.md) | [主题地图索引](../INDEX.md)*
+*返回 [_meta/research-topics](../research-topics/INDEX.md) | [主题地图索引](../INDEX.md)*

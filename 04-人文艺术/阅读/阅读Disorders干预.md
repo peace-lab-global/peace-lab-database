@@ -13,9 +13,9 @@ intent_queries:
   - "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的方法与实践"
 trigger_keywords: ["阅读障碍干预体系", "Reading", "Disorders", "Intervention", "System"]
 cross_refs:
-  - path: "02-心智心理/冥想/临床/临床病症/Meditation_Anxiety_Disorders.md"
+  - path: 02-心智心理/冥想/临床-临床病症-Meditation_Anxiety_Disorders.md
     relation: "障碍/障碍s/神经可塑性"
-  - path: "02-心智心理/心理学/行为心理/恋尸癖/Necrophilia_Clinical_Diagnosis.md"
+  - path: 02-心智心理/心理学/行为心理-恋尸癖-Necrophilia_Clinical_Diagnosis.md
     relation: "障碍/障碍s"
 ---
 # 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης

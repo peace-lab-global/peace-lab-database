@@ -11,16 +11,16 @@ cross_refs: []
 
 ## 子目录
 
-- [Data](./data/)
-- [Logs](./logs/)
-- [Output](./output/)
-- [Plans](./plans/)
-- [Qa Corpus](./qa-corpus/)
-- [Reports](./reports/)
-- [Scripts](./scripts/)
-- [Tools](./tools/)
+- [Data](data)
+- [Logs](logs)
+- [Output](output)
+- [Plans](plans)
+- [Qa Corpus](qa-corpus)
+- [Reports](reports)
+- [Scripts](scripts)
+- [Tools](tools)
 
 ## 文档列表
 
-- [Changelog](./CHANGELOG.md)
+- [Changelog](CHANGELOG.md)
 

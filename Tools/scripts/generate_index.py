@@ -16,13 +16,13 @@ SKIP_PREFIXES = ('Web/', 'Tools/', '_meta/')
 
 # 目录中文名映射（基于已知内容）
 CATEGORY_MAP = {
-    '01-Wisdom-Traditions': '智慧传统与身心修持',
-    '02-Mind-Psychology': '心智与心理学',
-    '03-Bio-Science': '生物科学',
-    '04-Humanities-Arts': '人文艺术',
-    '05-Praxis-Growth': '实践与成长',
-    '06-Clinical-Topics': '临床专题',
-    '07-Research-Topics': '研究专题',
+    '01-智慧传统': '智慧传统与身心修持',
+    '02-心智心理': '心智与心理学',
+    '03-生命科学': '生物科学',
+    '04-人文艺术': '人文艺术',
+    '05-实践成长': '实践与成长',
+    '06-临床专题': '临床专题',
+    '07-行业观察': '行业观察',
 }
 
 def get_top_category(path: Path) -> str:

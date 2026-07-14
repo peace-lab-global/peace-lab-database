@@ -1,0 +1,396 @@
+---
+title: "冥想与焦虑障碍 | Meditation and Anxiety Disorders"
+description: "冥想与焦虑障碍 | Meditation and Anxiety Disorders —— 冥想 · Clinical Conditions 专题"
+category: "心智与心理学 > 冥想 > Clinical Conditions"
+tags: ["anxiety", "attachment", "brain", "mbsr", "cbt"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "10min"
+intent_queries:
+  - "什么是冥想与焦虑障碍 | Meditation and Anxiety Disorders"
+  - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的核心概念"
+  - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的方法与实践"
+  - "冥想与焦虑障碍 | Meditation and Anxiety Disorders的自助方法"
+trigger_keywords: ["冥想与焦虑障碍", "Meditation", "and", "Anxiety", "Disorders"]
+cross_refs:
+  - path: "05-实践成长/个人发展/正念/Mindfulness_Clinical_Applications.md"
+    relation: "元分析/障碍/正念"
+  - path: "04-人文艺术/阅读/Reading_Disorders_Intervention.md"
+    relation: "障碍/障碍s/神经可塑性"
+  - path: "04-人文艺术/文学/worldnonfiction/冥想正念/冥想.md"
+    relation: "冥想/障碍/冥想"
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
+# 冥想与焦虑障碍 | Meditation and Anxiety Disorders
+
+> **文档类型**: 临床病症专项指南 | Clinical Condition Guide
+> **适用对象**: 精神科医生、心理治疗师、冥想执行师、焦虑障碍患者及家属
+> **最后更新**: 2026-04
+> **循证等级**: A级（多项RCT、系统综述及荟萃分析支持）
+
+---
+
+## 目录 | Table of Contents
+
+1. [焦虑障碍的临床谱系](#1-焦虑障碍的临床谱系)
+2. [焦虑的神经生物学机制](#2-焦虑的神经生物学机制)
+3. [冥想干预焦虑的核心机制](#3-冥想干预焦虑的核心机制)
+4. [循证证据与元分析](#4-循证证据与元分析)
+5. [不同焦虑亚型的冥想干预策略](#5-不同焦虑亚型的冥想干预策略)
+6. [临床实施方案](#6-临床实施方案)
+7. [实操工具包](#7-实操工具包)
+8. [禁忌症与安全注意事项](#8-禁忌症与安全注意事项)
+9. [参考文献](#9-参考文献)
+
+---
+
+## 1. 焦虑障碍的临床谱系
+
+### 1.1 焦虑障碍的 DSM-5 分类与流行病学
+
+| 障碍类型 | 终身患病率（全球） | 核心特征 | 冥想干预适用性 |
+|---------|------------------|---------|-------------|
+| **广泛性焦虑障碍 (GAD)** | 3-6% | 对多种事件的过度、难以控制的担忧 | ★★★★★ 高 |
+| **社交焦虑障碍 (SAD)** | 7-13% | 对社交评价的显著恐惧 | ★★★★☆ 中高 |
+| **惊恐障碍 (PD)** | 2-5% | 反复不可预期的惊恐发作 | ★★★☆☆ 中（需谨慎） |
+| **特定恐惧症** | 7-9% | 对特定对象/情境的即时恐惧反应 | ★★★☆☆ 中 |
+| **分离焦虑障碍** | 4-5%（成人） | 对与依恋对象分离的过度恐惧 | ★★★★☆ 中高 |
+| **疾病焦虑障碍** | 1-5% | 对患有/获得严重疾病的先占观念 | ★★★★☆ 中高 |
+
+> **引用**: Bandelow, B., & Michaelis, S. (2015). Epidemiology of anxiety disorders in the 21st century. *Dialogues in Clinical Neuroscience, 17*(3), 327-335.
+
+### 1.2 焦虑的维持机制
+
+```
+触发事件（真实或想象的威胁）
+    ↓
+认知评估偏差（灾难化、过度概括）
+    ↓
+交感神经激活（战斗-逃跑反应）
+    ├── 身体症状：心悸、出汗、颤抖、呼吸急促
+    ├── 认知症状：注意力狭窄、反刍思维
+    └── 行为反应：回避、安全行为
+    ↓
+症状反刍（对焦虑的焦虑 — "二级焦虑"）
+    ↓
+回避强化 → 短期缓解 → 长期维持
+```
+
+**核心洞察**：焦虑障碍的核心维持机制不是焦虑本身，而是**对焦虑体验的回避和抗拒**（experiential avoidance）。冥想通过改变与焦虑体验的关系（decentring / reperceiving）来打破这一循环。
+
+---
+
+## 2. 焦虑的神经生物学机制
+
+### 2.1 焦虑相关的脑网络
+
+| 脑区/网络 | 在焦虑中的角色 | 冥想的调节作用 |
+|----------|--------------|--------------|
+| **杏仁核 (Amygdala)** | 威胁检测过度敏感，反应阈值降低 | 长期冥想降低杏仁核反应性；增加杏仁核-前额叶连接 |
+| **前额叶皮层 (PFC)** | 情绪调节、认知重评功能减弱 | 增强背外侧PFC和腹内侧PFC的调控功能 |
+| **前扣带皮层 (ACC)** | 冲突监测、错误检测过度活跃 | 降低ACC对威胁相关冲突的过度反应 |
+| **岛叶 (Insula)** | 内感受敏感化（对身体感觉的灾难化解释） | 改善内感受觉察，减少对躯体感受的灾难化 |
+| **默认模式网络 (DMN)** | 自我相关反刍思维过度活跃 | 降低DMN过度活跃，增强DMN与执行网络的动态切换 |
+
+### 2.2 神经可塑性改变
+
+**Hölzel 等 (2013)** 的纵向研究发现，MBSR 训练 8 周后：
+- 杏仁灰质密度降低（与感知压力降低相关）
+- 海马灰质密度增加（与压力调节相关）
+- 后扣带皮层 (PCC) 灰质密度增加（与自我相关性加工相关）
+
+---
+
+## 3. 冥想干预焦虑的核心机制
+
+### 3.1 机制模型
+
+| 机制 | 描述 | 对应焦虑病理 |
+|------|------|------------|
+| **注意力重定向 (Attentional Redirection)** | 将注意力从威胁性思维转移到当下锚点（呼吸、身体感受） | 打破反刍思维和担忧循环 |
+| **去中心化 (Decentring / Reperceiving)** | 将思维视为心理事件而非现实本身 | 减少认知融合（"我的想法就是事实"） |
+| **接纳与暴露 (Acceptance & Exposure)** | 允许焦虑感受存在而不回避 | 消除回避-强化的恶性循环 |
+| **内感受暴露 (Interoceptive Exposure)** | 系统性地觉察身体感受而不反应 | 减少对躯体焦虑信号的恐惧 |
+| **认知灵活性 (Cognitive Flexibility)** | 扩展对威胁的解释范围 | 减少灾难化思维 |
+
+### 3.2 正念 vs. 放松：关键区分
+
+| 维度 | 放松训练 | 正念冥想 |
+|------|---------|---------|
+| **目标** | 降低生理唤起 | 改变与体验的关系 |
+| **对焦虑的态度** | 试图消除或降低焦虑 | 允许焦虑存在，观察而不反应 |
+| **机制** | 副交感神经激活 | 元认知觉察 + 去中心化 |
+| **长期效果** | 中等（症状管理） | 更强（预防复发、人格层面改变） |
+| **证据** | 支持但有限 | 大量高质量RCT支持 |
+
+> **临床要点**：对于焦虑患者，需明确区分正念与放松。教导患者"冥想的目的不是让自己感觉更好，而是更好地觉察自己当下的感受"是避免阻抗的关键。
+
+---
+
+## 4. 循证证据与元分析
+
+### 4.1 关键荟萃分析
+
+| 研究 | 样本 | 结论 | 效应量 (Hedges' g) |
+|------|------|------|-------------------|
+| **Goyal et al. (2014)** | JAMA 荟萃分析, 47 项 RCT | 正念冥想对焦虑有中等效应，证据强度为"中等" | 0.38 |
+| **Hoge et al. (2013)** | GAD 患者 RCT | MBSR 优于压力管理教育对照组 | 0.63 |
+| **Vollestad et al. (2011)** | 焦虑障碍荟萃分析 | 正念对多种焦虑障碍有效，效应量中到大 | 0.83 |
+| **Cramer et al. (2018)** | 系统综述, 8 项 RCT | MBSR 对 GAD 有效，效应量中到大 | 0.63 |
+| **Goldberg et al. (2018)** | 元分析, 163 项研究 | 正念对焦虑的效应在随访期维持 | 0.23-0.60 |
+
+### 4.2 与其他治疗的比较
+
+| 比较条件 | 研究 | 结论 |
+|---------|------|------|
+| **vs. 等待名单/常规治疗** | 多项 RCT | 正念显著优于对照（大效应） |
+| **vs. 药物治疗** | Hoge et al. (2022) | MBSR 非劣效于艾司西酞普兰；无显著差异 |
+| **vs. CBT** | 多项研究 | 效果相当，某些研究 CBT 略优；正念可能在预防复发上有优势 |
+| **正念 + CBT** | 多项研究 | 联合治疗在某些人群中效果优于单一治疗 |
+
+> **Hoge et al. (2022)** 里程碑式研究：276 名 GAD 患者随机分配至 MBSR 或艾司西酞普兰（10-20mg）。12 周后两组焦虑改善无显著差异，但 MBSR 组不良反应显著更少。
+
+---
+
+## 5. 不同焦虑亚型的冥想干预策略
+
+### 5.1 广泛性焦虑障碍 (GAD)
+
+**核心特征**：担忧本身成为问题；"对担忧的担忧"
+
+**冥想策略**：
+
+| 阶段 | 技术 | 目的 |
+|------|------|------|
+| **初期（1-2周）** | 简短呼吸觉察（5-10分钟） | 建立注意力锚定能力，避免触发过度反刍 |
+| **中期（3-6周）** | 身体扫描 + 担忧时间限制 | 将注意力从思维转移到身体；建立"担忧容器" |
+| **后期（7-8周）** | 开放觉察 + 去中心化练习 | 观察担忧思维的来去而不卷入 |
+
+**改良要点**：
+- GAD 患者容易在冥想中陷入"担忧螺旋"，需要教授**注意力转移策略**
+- 引入"担忧时间"（worry time）概念：将担忧限制在特定时段，其余时间练习放下
+- 强调**元认知觉察**："我注意到我正在担忧"
+
+### 5.2 社交焦虑障碍 (SAD)
+
+**核心特征**：对负面社交评价的恐惧；过度的自我聚焦
+
+**冥想策略**：
+
+| 阶段 | 技术 | 目的 |
+|------|------|------|
+| **初期** | 慈心冥想 (Loving-Kindness) 变体 | 改变对自我的苛责性评价 |
+| **中期** | 身体扫描 + 社交情境意象暴露 | 降低社交情境中的躯体焦虑 |
+| **后期** | 正念对话练习（双人冥想） | 将正念带入真实社交互动 |
+
+**改良要点**：
+- 慈心冥想对 SAD 特别有效：**Freddrickson et al.** 研究显示 7 周慈心冥想显著增加积极情绪和社会连接
+- 引导患者注意**外部导向的注意力**（而非过度自我监控）
+- 结合**认知行为暴露**：在冥想中想象焦虑社交情境，同时保持正念觉察
+
+### 5.3 惊恐障碍 (PD)
+
+**核心特征**：对惊恐发作的 anticipatory anxiety；"对恐惧的恐惧"
+
+**⚠️ 特殊注意事项**：
+
+| 风险 | 原因 | 应对策略 |
+|------|------|---------|
+| **呼吸冥想引发过度换气** | 过度关注呼吸可能引发或加重惊恐 | 改用身体扫描或声音冥想作为初始锚点 |
+| **内感受觉察触发惊恐** | 觉察心悸、头晕等躯体感受可能引发恐慌 | 渐进式内感受暴露，从低唤醒身体部位开始 |
+| **冥想中的失控感** | 开放觉察可能引发恐惧 | 保持结构化、有指导的冥想形式 |
+
+**安全实施框架**：
+1. **评估阶段**：确认患者是否有冥想相关的不良反应史
+2. **锚点选择**：避免初期使用呼吸锚点；推荐脚底接触感或环境声音
+3. **时长控制**：从 3-5 分钟开始，逐步增加
+4. **退出策略**：教授患者随时可以睁开眼睛、移动身体的许可
+
+### 5.4 疾病焦虑障碍
+
+**核心特征**：对身体感觉的灾难化解释；反复寻求医学确认
+
+**冥想策略**：
+- **内感受再训练**：系统性地觉察身体感受而不做医学解释
+- **认知解离**："我注意到我有'这可能是重病'的想法"
+- **接纳不确定性**：针对"我需要确定自己没病"的核心恐惧
+
+---
+
+## 6. 临床实施方案
+
+### 6.1 分层干预模型
+
+```
+Level 1: 亚临床焦虑 / 轻度焦虑
+    └── 自助正念 App / 团体 MBSR
+    
+Level 2: 中度焦虑障碍（GAD, SAD 等）
+    └── 结构化正念课程（MBSR / MBCT 改编版）+ 心理治疗师支持
+    
+Level 3: 重度焦虑 / 合并惊恐障碍
+    └── 整合治疗：正念 + CBT/ACT + 精神科评估（必要时药物）
+    
+Level 4: 急性焦虑危机
+    └── 稳定化优先；危机解除后再引入正念
+```
+
+### 6.2 MBSR 针对焦虑的改良方案（8周）
+
+| 周次 | 主题 | 核心练习 | 焦虑特异性内容 |
+|------|------|---------|--------------|
+| **W1** | 自动导航与觉察 | 身体扫描（改良版） | 介绍"担忧vs.觉察"的区别；3分钟呼吸空间 |
+| **W2** | 障碍与应对 | 身体扫描 + 坐姿冥想 | 教授注意力转移策略；应对冥想中的担忧 |
+| **W3** | 呼吸作为锚点 | 呼吸觉察（谨慎引入） | 针对 PD 患者提供替代锚点；内感受暴露 |
+| **W4** | 压力反应 | 开放觉察身体感受 | 区分"真实的威胁"vs."焦虑的信号" |
+| **W5** | 反应vs.回应 | 困难情绪的正念 | 对焦虑情绪本身的正念（meta-anxiety） |
+| **W6** | 沟通与关系 | 慈心冥想引入 | 针对 SAD：自我接纳和社交慈心 |
+| **W7** | 自我照顾 | 自选练习组合 | 建立个人化的"焦虑急救工具包" |
+| **W8** | 整合与未来 | 回顾与维持计划 | 预防复发计划；识别早期预警信号 |
+
+### 6.3 药物-冥想整合
+
+| 情境 | 建议 |
+|------|------|
+| **服用 SSRIs/SNRIs** | 冥想可安全联合；注意初期可能增加觉察到副作用 |
+| **服用苯二氮卓类** | 冥想可以作为逐步减药的辅助；需在医生指导下进行 |
+| **急性期（首次发作或加重）** | 优先药物稳定化；症状缓解后引入冥想 |
+| **维持期/预防复发** | 冥想可作为维持治疗的重要组成部分 |
+
+---
+
+## 7. 实操工具包
+
+### 7.1 "焦虑急救"三步呼吸空间（3-Minute Breathing Space）
+
+**步骤一：觉察（1分钟）**
+- 暂停当前活动
+- 问自己："此刻我的身体感受如何？情绪如何？脑海中有哪些想法？"
+- 承认并命名当前的焦虑体验
+
+**步骤二：聚焦（1分钟）**
+- 将注意力收窄到呼吸的物理感觉
+- 跟随呼吸的自然节奏，不试图改变它
+- 如果分心，温和地带回呼吸
+
+**步骤三：扩展（1分钟）**
+- 将觉察扩展到整个身体
+- 特别觉察任何焦虑相关的紧张区域
+- 对感受保持开放和接纳的态度
+- 带着这种扩展的觉察继续日常活动
+
+### 7.2 担忧容器技术（Worry Container）
+
+1. 每天设定固定的"担忧时间"（如下午5:00-5:20）
+2. 当担忧在非指定时间出现时，在心中说："我注意到这个担忧，我会把它放到担忧容器中，下午5点再处理"
+3. 立即将注意力转回当下任务或冥想锚点
+4. 在"担忧时间"，允许自己充分担忧，甚至可以写下担忧清单
+5. 时间一到，合上容器，继续日常活动
+
+### 7.3 R.A.I.N. 应对焦虑
+
+| 步骤 | 全称 | 操作 |
+|------|------|------|
+| **R** | Recognize（识别） | "我注意到焦虑正在升起" |
+| **A** | Allow（允许） | "我允许这种感受存在" |
+| **I** | Investigate（探究） | 温和地觉察焦虑在身体中的具体表现 |
+| **N** | Non-identify（不认同） | "这是焦虑，不是我" |
+
+### 7.4 焦虑冥想中的常见问题与应对
+
+| 问题 | 原因 | 应对策略 |
+|------|------|---------|
+| "冥想让我更焦虑" | 初次面对内在体验；注意力聚焦于焦虑信号 | 缩短时长；更换锚点；增加指导语支持 |
+| "我无法停止思考" | 对"停止思考"的错误期待 | 重新教育：冥想不是停止思考，而是改变与思维的关系 |
+| "我感到失控/漂浮" | 过度放松或解离倾向 | 睁眼冥想；增加身体重量感锚点；缩短时间 |
+| "我担心自己做错了" | 完美主义；对"正确冥想"的执着 | 强调"没有错误的冥想方式"；鼓励自我慈悲 |
+
+---
+
+## 8. 禁忌症与安全注意事项
+
+### 8.1 相对禁忌症
+
+| 情况 | 风险 | 建议 |
+|------|------|------|
+| **急性惊恐发作期** | 冥想可能加重失控感 | 优先药物和危机干预；稳定后再引入 |
+| **严重解离症状** | 冥想可能加深解离 | 使用 grounding 技术优先；身体导向的轻触冥想 |
+| **未治疗的 PTSD** | 身体扫描可能触发闪回 | 创伤知情的正念（Trauma-Sensitive Mindfulness）改良 |
+| **当前自杀风险** | 独处冥想可能恶化反刍 | 仅在有专业人员支持的团体中进行 |
+| **强迫症（OCD）** | 冥想可能被用作强迫行为（"我必须每天冥想"） | 强调灵活性；结合 ERP 治疗 |
+
+### 8.2 不良反应监测
+
+| 信号 | 可能含义 | 行动 |
+|------|---------|------|
+| 冥想后焦虑显著增加且持续 >24h | 未处理的情绪材料涌现 | 减少强度；增加支持性会谈 |
+| 出现新的躯体症状 | 内感受敏感化 | 医学评估排除器质性疾病；调整技术 |
+| 社交退缩增加 | 冥想被用作回避策略 | 评估功能水平；增加行为激活 |
+| 对冥想的强迫性依赖 | 仪式化行为 | 引入灵活性练习；考虑 OCD 评估 |
+
+---
+
+## 9. 参考文献
+
+1. Goyal, M., Singh, S., Sibinga, E. M., et al. (2014). Meditation programs for psychological stress and well-being: a systematic review and meta-analysis. *JAMA Internal Medicine, 174*(3), 357-368.
+2. Hoge, E. A., Bui, E., Marques, L., et al. (2013). Randomized controlled trial of mindfulness meditation for generalized anxiety disorder: effects on anxiety and stress reactivity. *Journal of Clinical Psychiatry, 74*(8), 786-792.
+3. Hoge, E. A., Hölzel, B. K., Marques, L., et al. (2022). Mindfulness-based stress reduction vs escitalopram for the treatment of adults with anxiety disorders: A randomized clinical trial. *JAMA Psychiatry.
+4. Vollestad, J., Nielsen, M. B., & Nielsen, G. H. (2011). Mindfulness-and acceptance-based interventions for anxiety disorders: A systematic review and meta-analysis. *British Journal of Clinical Psychology.
+5. Hölzel, B. K., Carmody, J., Vangel, M., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging, 191*(1), 36-43.
+6. Kral, T. R. A., Imhoff-Smith, T., Dean, D. C., et al. (2018). Mindfulness training and neural recovery from negative affect: A mechanistic proof of principle study. *NeuroImage.
+7. Cramer, H., Lauche, R., Paul, A., & Dobos, G. (2012). Mindfulness-based stress reduction for breast cancer—a systematic review and meta-analysis. *Current Oncology, 19*(5), e343-e352.
+8. Hofmann, S. G., & Gómez, A. F. (2017). Mindfulness-based interventions for anxiety and depression. *Psychiatric Clinics, 40*(4), 739-749.
+9. Fredrickson, B. L., Cohn, M. A., Coffey, K. A., et al. (2008). Open hearts build lives: positive emotions, induced through loving-kindness meditation, build consequential personal resources. *Journal of Personality and Social Psychology, 95*(5), 1045.
+10. Britta Hölzel, B., Carmody, J., Evans, K. C., et al. (2010). Stress reduction correlates with structural changes in the amygdala. *Social Cognitive and Affective Neuroscience, 5*(1), 11-17.
+
+---
+
+*Peace Lab Database — 冥想与焦虑障碍临床指南*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+
+---
+
+## 参考文献 | References
+
+- Hofmann, S. G., Asnaani, A., Vonk, I. J. J., Sawyer, A. T., & Fang, A. (2012). The efficacy of cognitive behavioral therapy: A review of meta-analyses. *Cognitive Therapy and Research*, *36*(5), 427-440. https://doi.org/10.1007/s10608-012-9476-1
+- Hofmann, S. G., & Hayes, S. C. (2019). The future of intervention science: Process-based therapy. *Clinical Psychological Science*, *7*(1), 37-50. https://doi.org/10.1177/2167702618772296
+- Hoge, E. A., Bui, E., Marques, L., et al. (2013). Randomized controlled trial of mindfulness meditation for generalized anxiety disorder. *Journal of Clinical Psychiatry*, *74*(8), 786-792. https://doi.org/10.4088/JCP.12m08083
+- Spitzer, R. L., Kroenke, K., Williams, J. B., & Löwe, B. (2006). A brief measure for assessing generalized anxiety disorder: The GAD-7. *Archives of Internal Medicine*, *166*(10), 1092-1097. https://doi.org/10.1001/archinte.166.10.1092
+- Khoury, B., Lecomte, T., Fortin, G., et al. (2013). Mindfulness-based therapy: A comprehensive meta-analysis. *Clinical Psychology Review*, *33*(6), 763-771. https://doi.org/10.1016/j.cpr.2013.05.005
+- Goldberg, S. B., Tucker, R. P., Greene, P. A., et al. (2018). Mindfulness-based interventions for psychiatric disorders. *Clinical Psychology Review*, *59*, 52-60. https://doi.org/10.1016/j.cpr.2017.10.011
+- Arch, J. J., & Craske, M. G. (2008). Acceptance and commitment therapy and cognitive behavioral therapy for anxiety disorders: Different treatments, similar mechanisms? *Clinical Psychology: Science and Practice*, *15*(4), 263-279. https://doi.org/10.1111/j.1468-2850.2008.00137.x
+- Reinhold, J. A., & Mandos, L. A. (2011). Generalized anxiety disorder: Epidemiology, pathophysiology, diagnosis, and treatment. *Journal of the American Osteopathic Association*, *111*(11), 640-646. https://doi.org/10.7556/jaoa.2011.111.11.640

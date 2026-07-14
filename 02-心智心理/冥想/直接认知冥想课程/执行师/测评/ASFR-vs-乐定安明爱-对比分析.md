@@ -2,9 +2,9 @@
 
 > **分析日期**：2026-07（第二次修订）  
 > **分析对象**：  
-> - **ASFR**：[mocici-asfr.html](./mocici-asfr.html) — ASFR冥想训练自评量表 V1（HTML 交互版，1714 行）  
-> - **LDA**：[mocici-ldami.html](./mocici-ldami.html) — 乐定安明爱·身心状态自评问卷 V1（HTML 交互版，915 行）  
-> - **LDA 文档版**：[乐定安明爱-测评法.md](./乐定安明爱-测评法.md) — Markdown 原始内容定义文件  
+> - **ASFR**：[mocici-asfr.html](mocici-asfr.html) — ASFR冥想训练自评量表 V1（HTML 交互版，1714 行）  
+> - **LDA**：[mocici-ldami.html](mocici-ldami.html) — 乐定安明爱·身心状态自评问卷 V1（HTML 交互版，915 行）  
+> - **LDA 文档版**：[乐定安明爱-测评法.md](乐定安明爱-测评法.md) — Markdown 原始内容定义文件  
 > **本次修订说明**：第一版对比基于 LDA 仅有 Markdown 文档的状态。本次修订反映 LDA 已完成 HTML 交互版迁移后的最新状态。
 
 ---

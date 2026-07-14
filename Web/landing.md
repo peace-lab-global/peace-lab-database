@@ -14,7 +14,7 @@
 
     瑜伽哲学、禅宗/道家/佛教全体系、黄帝内经养生、东西方古典哲学、全球灵性疗愈传统
 
-    [:octicons-arrow-right-24: 进入](/01-Wisdom-Traditions/INDEX.md)
+    [:octicons-arrow-right-24: 进入](/01-智慧传统/INDEX.md)
 
 -   :material-brain:{ .lg .middle } **心智与心理学**
 
@@ -22,7 +22,7 @@
 
     现代心理流派、临床干预(焦虑/创伤/成瘾)、冥想技术、感官与循证疗法、自我调节技能
 
-    [:octicons-arrow-right-24: 进入](/02-Mind-Psychology/INDEX.md)
+    [:octicons-arrow-right-24: 进入](/02-心智心理/INDEX.md)
 
 -   :material-dna:{ .lg .middle } **生命科学**
 
@@ -30,7 +30,7 @@
 
     生物黑客(睡眠/断食/呼吸/血压调节)、神经科学(BCI/DMN)、身心能量恢复、办公健康
 
-    [:octicons-arrow-right-24: 进入](/03-Bio-Science/INDEX.md)
+    [:octicons-arrow-right-24: 进入](/03-生命科学/INDEX.md)
 
 -   :material-palette:{ .lg .middle } **人文与艺术疗愈**
 
@@ -38,7 +38,7 @@
 
     艺术史与艺术疗法、芭蕾艺术全系、古典音乐疗愈、影音媒体与深度阅读
 
-    [:octicons-arrow-right-24: 进入](/04-Humanities-Arts/INDEX.md)
+    [:octicons-arrow-right-24: 进入](/04-人文艺术/INDEX.md)
 
 -   :material-sprout:{ .lg .middle } **实践与个人增长**
 
@@ -46,7 +46,7 @@
 
     超级个体商业模式、工作效率与执行力、心力成长与稳定内核、高效沟通与结构化表达
 
-    [:octicons-arrow-right-24: 进入](/05-Praxis-Growth/INDEX.md)
+    [:octicons-arrow-right-24: 进入](/05-实践成长/INDEX.md)
 
 </div>
 

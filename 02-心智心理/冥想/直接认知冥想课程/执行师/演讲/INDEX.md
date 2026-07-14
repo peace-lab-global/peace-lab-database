@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [drafts/](草稿/INDEX.md) (1 md)
+- drafts/ (1 md)
 
 ## 📄 文件 | Files (3)
 

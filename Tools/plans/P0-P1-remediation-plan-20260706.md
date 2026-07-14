@@ -355,4 +355,4 @@ P0-01 → P0-02 → P0-03 → P0-04
 
 ---
 
-*返回 [综合评估报告](../comprehensive-quality-assessment-20260706.md)*
+*返回 [综合评估报告](../reports/comprehensive-quality-assessment-20260706.md)*

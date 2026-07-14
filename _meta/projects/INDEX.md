@@ -6,7 +6,7 @@
 
 ## 频道矩阵
 
-### 1. [Master of Solitude（孤独大师）](master-of-solitude/)
+### 1. [Master of Solitude（孤独大师）](master-of-solitude)
 
 **定位**: 华语世界首个以"孤独学"为核心的专业心理科普自媒体
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 2. [Peace Lab（平静实验室）](peace-lab/)
+### 2. [Peace Lab（平静实验室）](peace-lab)
 
 **定位**: 华语世界首个"循证自助疗愈"全栈知识频道
 

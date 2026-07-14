@@ -12,11 +12,13 @@ PROJECT_ROOT = Path("/Users/allengaller/Documents/GitHub/peace-lab-global/peace-
 
 # Five pillars with their display names and emojis
 PILLARS = [
-    ("01-Wisdom-Traditions", "🏛️ 智慧传承 Wisdom Traditions"),
-    ("02-Mind-Psychology", "🧠 心智心理 Mind Psychology"),
-    ("03-Bio-Science", "🧬 生命科学 Bio Science"),
-    ("04-Humanities-Arts", "🎨 人文艺术 Humanities Arts"),
-    ("05-Praxis-Growth", "🌱 实践成长 Praxis Growth"),
+    ("01-智慧传统", "🏛️ 智慧传承 Wisdom Traditions"),
+    ("02-心智心理", "🧠 心智心理 Mind Psychology"),
+    ("03-生命科学", "🧬 生命科学 Bio Science"),
+    ("04-人文艺术", "🎨 人文艺术 Humanities Arts"),
+    ("05-实践成长", "🌱 实践成长 Praxis Growth"),
+    ("06-临床专题", "🏥 临床专题 Clinical Topics"),
+    ("07-行业观察", "📊 行业观察 Industry Insights"),
 ]
 
 # Directory aliases for first and second level directories

@@ -13,7 +13,7 @@ intent_queries:
   - "Research Methods and Measurement Tools in Sexuality的方法与实践"
 trigger_keywords: ["Research", "Methods", "and", "Measurement", "Tools"]
 cross_refs:
-  - path: "02-心智心理/心理学/行为心理/窥视色情成瘾/Pornography_Addiction_Research_Methods.md"
+  - path: 02-心智心理/心理学/行为心理-窥视色情成瘾-Pornography_Addiction_Research_Methods.md
     relation: "测量/data/研究"
   - path: "05-实践成长/个人发展/专业吸引力/Professional_Attraction_Research_Methods.md"
     relation: "研究/methods/technologies"

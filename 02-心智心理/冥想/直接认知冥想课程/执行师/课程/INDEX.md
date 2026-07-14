@@ -24,8 +24,8 @@ auto_generated: true
 - [与情绪共处/](与情绪共处/INDEX.md) (3 md)
 - [与身体对话/](与身体对话/INDEX.md) (3 md)
 - [与身心同在/](与身心同在/INDEX.md) (3 md)
-- [先导课/](先导课/INDEX.md) (2 md)
-- [意图的种子/](意图的种子/INDEX.md) (1 md)
+- 先导课/ (2 md)
+- 意图的种子/ (1 md)
 
 ## 📄 文件 | Files (2)
 

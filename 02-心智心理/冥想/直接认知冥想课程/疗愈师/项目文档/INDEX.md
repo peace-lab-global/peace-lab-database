@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [第一次复盘会/](第一次复盘会/INDEX.md) (1 md)
+- 第一次复盘会/ (1 md)
 
 ## 📄 文件 | Files (1)
 

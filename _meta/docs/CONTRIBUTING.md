@@ -16,7 +16,7 @@ trigger_keywords: ["贡献指南", "cbt", "sexuality"]
 cross_refs:
   - path: "01-智慧传统/哲学/东亚哲学/中国/道家/Zhuangzi.md"
     relation: "焦虑/冥想/性学"
-  - path: "01-智慧传统/哲学/东亚哲学/总览/Philosophy_Eastern_Classical_Confucianism.md"
+  - path: 01-智慧传统/哲学/东亚哲学-总览-Philosophy_Eastern_Classical_Confucianism.md
     relation: "焦虑/冥想/性学"
   - path: "01-智慧传统/哲学/南亚/印度/吠檀多/Bhagavad_Gita_Study.md"
     relation: "焦虑/冥想/性学"

@@ -11,12 +11,12 @@ cross_refs: []
 
 ## 子目录
 
-- [Assets](./assets/)
-- [Docs](./docs/)
-- [Mkdocs](./mkdocs/)
-- [Visualization](./visualization/)
+- [Assets](assets)
+- [Docs](docs)
+- [Mkdocs](mkdocs)
+- [Visualization](visualization)
 
 ## 文档列表
 
-- [Landing](./landing.md)
+- [Landing](landing.md)
 

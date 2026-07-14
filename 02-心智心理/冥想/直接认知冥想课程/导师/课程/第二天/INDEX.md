@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [day2-doc/](第二天文档/INDEX.md) (1 md)
-- [day2-infographic/](../../../../../01-智慧传统/INDEX.md) (0 md)
+- [第二天文档](第二天文档/INDEX.md) (2 md)
+- 第二天信息图 (25 md)
 
 ## 📄 文件 | Files (1)
 
@@ -24,5 +24,5 @@ auto_generated: true
 
 ---
 
-*返回上级: [02-心智心理/meditation/courses/mocici-course-2-meditator-advance](../INDEX.md)*
+*返回上级: 02-心智心理/meditation/courses/mocici-course-2-meditator-advance*
 *自动生成于 2026-06-23 10:13*

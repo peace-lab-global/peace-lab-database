@@ -11,5 +11,5 @@ cross_refs: []
 
 ## 子目录
 
-- [Mermaid Images](./图表图片/)
+- [Mermaid Images](图表图片)
 

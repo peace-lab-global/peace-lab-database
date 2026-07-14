@@ -51,11 +51,13 @@ EXCLUDED_FILES = {
 
 PILLAR_LABELS = {
     ".": "Root 根目录",
-    "01-Wisdom-Traditions": "Wisdom Traditions 智慧传承",
-    "02-Mind-Psychology": "Mind & Psychology 心智与心理学",
-    "03-Bio-Science": "Bio-Science & Medicine 生命科学与生物医学",
-    "04-Humanities-Arts": "Humanities & Arts 人文与艺术疗愈",
-    "05-Praxis-Growth": "Praxis & Growth 实践与个人增长",
+    "01-智慧传统": "Wisdom Traditions 智慧传承",
+    "02-心智心理": "Mind & Psychology 心智与心理学",
+    "03-生命科学": "Bio-Science & Medicine 生命科学与生物医学",
+    "04-人文艺术": "Humanities & Arts 人文与艺术疗愈",
+    "05-实践成长": "Praxis & Growth 实践与个人增长",
+    "06-临床专题": "Clinical Topics 临床专题",
+    "07-行业观察": "Industry Insights 行业观察",
     "Tools": "Tools & Operations 工具与治理",
 }
 

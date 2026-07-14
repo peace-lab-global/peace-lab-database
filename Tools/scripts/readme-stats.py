@@ -23,12 +23,13 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent.parent
 
 PILLARS = [
-    '01-Wisdom-Traditions',
-    '02-Mind-Psychology',
-    '03-Bio-Science',
-    '04-Humanities-Arts',
-    '05-Praxis-Growth',
-    '06-Clinical-Topics',
+    '01-智慧传统',
+    '02-心智心理',
+    '03-生命科学',
+    '04-人文艺术',
+    '05-实践成长',
+    '06-临床专题',
+    '07-行业观察',
 ]
 
 EXCLUDE = {

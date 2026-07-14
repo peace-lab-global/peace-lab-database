@@ -19,7 +19,7 @@ cross_refs:
     relation: "report/质量"
   - path: "02-心智心理/心理学/发展心理/青少年/儿童发展心理学/INDEX.md"
     relation: "report/质量"
-  - path: "02-心智心理/心理学/应用心理/职业心理学/Vocational_Psychology_Quality_Report.md"
+  - path: 02-心智心理/心理学/应用心理-职业心理学-Vocational_Psychology_Quality_Report.md
     relation: "report/质量/研究"
 ---
 # 性学专业内容体系质量报告 (Sexuality Content Quality Report)

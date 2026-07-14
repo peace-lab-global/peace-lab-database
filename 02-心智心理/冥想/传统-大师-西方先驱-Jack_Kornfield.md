@@ -1,0 +1,281 @@
+---
+title: "杰克·康菲尔德 (Jack Kornfield)"
+description: "杰克·康菲尔德 (Jack Kornfield) —— Masters · Western Pioneers 专题"
+category: "心智与心理学 > 冥想 > Masters > Western Pioneers"
+tags: ["mbsr", "mindfulness", "act", "mbct"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是杰克·康菲尔德"
+  - "杰克·康菲尔德的核心概念"
+  - "杰克·康菲尔德的方法与实践"
+trigger_keywords: ["杰克", "康菲尔德"]
+cross_refs:
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/seeking-the-heart-of-wisdom.md"
+    relation: "内观/jack/heart"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/a-path-with-heart.md"
+    relation: "kornfield/jack/heart"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/meditation-mindfulness/after-the-ecstasy-the-laundry.md"
+    relation: "kornfield/jack/laundry"
+  - path: "04-Humanities-Arts/literature/world-nonfiction/spirituality-buddhism/wise-heart.md"
+    relation: "kornfield/jack/heart"
+---
+# 杰克·康菲尔德 (Jack Kornfield)
+
+> "In the end, just three things matter: How well we have lived. How well we have loved. How well we have learned to let go."
+> --- Jack Kornfield
+
+## 概述 (Overview)
+
+杰克·康菲尔德（Jack Kornfield，1945-）是将南传上座部佛教（Theravada Buddhism）冥想传统系统引入西方世界的最重要人物之一。他与约瑟夫·戈尔茨坦（Joseph Goldstein）、莎伦·萨尔兹伯格（Sharon Salzberg）共同创立了内观冥想协会（Insight Meditation Society, IMS），并独立创建了灵岩冥想中心（Spirit Rock Meditation Center）。康菲尔德的独特贡献在于将南传佛教正念修行与西方心理治疗整合，开创了"冥想与心理学对话"的先河。
+
+### 基本信息 (Basic Information)
+
+| 项目 | 详情 |
+|------|------|
+| 全名 | Jack Kornfield |
+| 生卒 | 1945年7月16日 - |
+| 出生地 | 美国康涅狄格州 |
+| 传承 | 南传上座部佛教（泰国森林传统） |
+| 主要老师 | 阿姜查（Ajahn Chah）、马哈希尊者（Mahasi Sayadaw）、佛使比丘（Buddhadasa） |
+| 主要机构 | Spirit Rock Meditation Center, IMS |
+| 学历 | 达特茅斯学院（亚洲研究）、临床心理学博士 |
+| 代表作 | 《踏上心灵幽径》(A Path with Heart) |
+
+---
+
+## 生平与求道历程 (Biography & Spiritual Journey)
+
+### 早年生活 (Early Life)
+
+康菲尔德成长于美国东海岸一个科学家家庭。父亲是生物物理学家，但家庭氛围充满紧张与暴力。这段童年创伤经历深刻影响了他后来对冥想与心理疗愈关系的理解——他反复强调，灵性修行不能绕过心理层面的伤痛。
+
+在达特茅斯学院（Dartmouth College）就读期间，他专注于亚洲研究。1960年代的反文化运动和越战背景下，他对东方智慧产生了强烈向往。
+
+### 出家修行 (Monastic Training)
+
+1967年，大学毕业后的康菲尔德作为和平队（Peace Corps）志愿者前往泰国东北部。在那里，他遇到了改变一生的老师——阿姜查（Ajahn Chah），泰国森林传统最著名的大师之一。
+
+在阿姜查的寺院（巴蓬寺，Wat Pah Pong），康菲尔德作为比丘出家修行数年。阿姜查的教学风格对他影响至深：
+- **直接而幽默**：用日常生活比喻解释深奥法义
+- **全面禅修**：不仅是坐禅，将觉知贯穿日常一切活动
+- **放下执着**：核心教诲是"放下"（letting go），包括对修行本身的执着
+- **在苦中觉悟**：直接面对困难，而非逃避
+
+他同时也跟随缅甸马哈希尊者（Mahasi Sayadaw）学习系统的内观（Vipassana）方法，以及泰国佛使比丘（Buddhadasa Bhikkhu）学习佛法与自然的关系。
+
+### 回归西方 (Return to the West)
+
+1972年，康菲尔德还俗返回美国。他面临所有东方修行者回到西方的共同困境：
+- 深刻的冥想体验与日常生活的断裂
+- 禅修中未解决的心理创伤浮现
+- 人际关系和情感生活的困难
+- 亚洲寺院模式无法直接移植到西方
+
+这些经历成为他后来理论创新的核心素材——他意识到，**冥想本身不够，西方人需要将冥想与心理工作结合**。
+
+---
+
+## 核心教导与理念 (Core Teachings & Philosophy)
+
+### 正念与心理学整合 (Integration of Mindfulness and Psychology)
+
+康菲尔德最重要的理论贡献是建立冥想修行与西方心理学之间的桥梁。他持有临床心理学博士学位，是少数同时具备深度冥想训练和专业心理治疗资质的教师。
+
+**核心观点：**
+
+1. **冥想不能替代心理治疗**：深度冥想可能揭开未处理的创伤，但不具备处理创伤的完整工具
+2. **灵性回避（Spiritual Bypassing）**：用灵性修行逃避情感痛苦、人际困难，是西方冥想者的常见陷阱
+3. **全人整合**：健康的灵性成长需要身体、情感、心理、灵性四个层面同步发展
+4. **关系即道场**：亲密关系、亲子关系是修行的核心场所，而非障碍
+
+### 慈心修行 (Metta / Loving-Kindness Practice)
+
+康菲尔德是将慈心冥想（Metta Meditation）推广到西方主流的关键人物。他教授的慈心修行强调：
+- 从自我慈悲开始（Self-Compassion）
+- 逐步扩展到亲人、中性者、困难者、一切有情
+- 慈心作为转化愤怒和恐惧的核心工具
+- 与正念修行互补，而非替代
+
+### 以心为本的修行 (A Path with Heart)
+
+他的核心教导可概括为"以心为本"：
+- **修行必须扎根于心**：不是追求特殊体验或境界
+- **慈悲是智慧的另一面**：空性（emptiness）的真正体悟自然带来慈悲
+- **日常生活是修行**：洗碗、育儿、工作都是觉醒的机会
+- **不完美即完整**：接纳自己的人性，包括脆弱和阴暗面
+
+### 冥想中的困难阶段 (Dark Night of Meditation)
+
+康菲尔德公开讨论冥想中的困难阶段，是最早系统阐述这一主题的西方教师之一：
+- 密集禅修中可能出现的心理危机
+- 观禅阶段的"坏灭智"（Knowledge of Dissolution）和"怖畏智"（Knowledge of Fear）
+- 如何在困难阶段保持正确的修行态度
+- 何时需要寻求专业心理支持
+
+---
+
+## 主要贡献与机构 (Major Contributions & Institutions)
+
+### 内观冥想协会 (Insight Meditation Society, IMS)
+
+1975年，康菲尔德与约瑟夫·戈尔茨坦、莎伦·萨尔兹伯格共同在马萨诸塞州巴里（Barre）创立IMS。这是西方世界第一个专门的内观冥想中心，其意义堪比禅宗在美国的旧金山禅中心。
+
+IMS 的特点：
+- 严格的南传内观传统
+- 密集禅修闭关（从周末到三个月）
+- 老师团队制教学
+- 成为美国正念运动的"学术母校"
+
+### 灵岩冥想中心 (Spirit Rock Meditation Center)
+
+1988年，康菲尔德在加州伍德埃克（Woodacre）创立Spirit Rock，这是他最重要的独立贡献。Spirit Rock 与东海岸的IMS形成互补：
+
+**Spirit Rock 的创新：**
+- **将心理学正式纳入冥想教学**：与IMS的纯传统方法不同
+- **社群导向**：不仅是闭关中心，更是社区
+- **多元包容**：积极推动种族多元化、LGBTQ+ 包容
+- **世俗友好**：对非佛教徒更加开放
+- **教师培训项目**：建立了系统的西方冥想教师培养体系
+
+### 教师培训体系 (Teacher Training)
+
+康菲尔德创建了可能是西方世界最严格的冥想教师培训项目：
+- **4年制核心项目**：包含密集禅修、教学实习、心理学学习、伦理训练
+- **终身学习**：毕业后持续的督导和继续教育
+- **多师制**：每位学员有多位导师
+- **心理筛选**：候选人需要具备基本的心理健康水平
+- **文化敏感性**：包含社会公正和文化谦逊训练
+
+从这个项目中毕业的教师已成为北美冥想教学的中坚力量。
+
+---
+
+## 主要著作 (Major Works)
+
+### 核心著作
+
+| 书名 | 英文原名 | 出版年 | 核心内容 |
+|------|----------|--------|----------|
+| 《踏上心灵幽径》 | A Path with Heart | 1993 | 整合冥想与日常生活的经典指南 |
+| 《佛陀的幸福课》 | The Wise Heart | 2008 | 佛教心理学的系统阐述 |
+| 《狂喜之后》 | After the Ecstasy, the Laundry | 2000 | 开悟体验后的日常修行 |
+| 《心灵的旅程》 | Bringing Home the Dharma | 2011 | 佛法在西方的本土化 |
+| 《没有对错》 | No Time Like the Present | 2017 | 在不确定时代的正念生活 |
+| 《宽恕的力量》 | The Art of Forgiveness, Lovingkindness, and Peace | 2002 | 宽恕与慈悲的修行 |
+
+### 《踏上心灵幽径》(A Path with Heart) 深度分析
+
+这是康菲尔德最重要的著作，也是西方冥想文学的里程碑之一：
+
+**核心主题：**
+1. **找到自己的道路**：不盲从任何传统，找到对自己真正有效的修行方式
+2. **停下来，倾听内心**："如果你停下来足够久，你会听到内心的真实声音"
+3. **全面的灵性生活**：修行不仅在坐垫上，而是渗透到关系、工作、社会参与的方方面面
+4. **拥抱阴影**：正视自己的恐惧、愤怒、悲伤，而非通过冥想压抑它们
+5. **慈悲作为核心修行**：慈悲不是附加品，而是觉醒的核心
+
+**重要贡献：**
+- 首次系统性地向西方读者介绍了冥想中可能出现的心理困难
+- 打破了"冥想即平静"的简单化认知
+- 建立了冥想教师需要心理学训练的论点
+- 影响了后来的正念运动（MBSR, MBCT等）对心理学的整合
+
+### 《狂喜之后》(After the Ecstasy, the Laundry)
+
+这部著作独特地探讨了一个很少有人公开讨论的话题——开悟体验之后怎么办？
+
+- 收集了大量冥想教师和修行者的第一手证言
+- 打破了"一次开悟，永久解脱"的神话
+- 强调持续修行、日常觉醒的重要性
+- 讨论了灵性教师的人性面——包括他们的挣扎和失败
+
+---
+
+## 教学风格与方法 (Teaching Style & Methods)
+
+### 教学特色
+
+1. **故事叙述**：大量使用寓言、佛教故事、个人经历来传达法义
+2. **温暖幽默**：继承了阿姜查的幽默传统，课堂氛围温暖放松
+3. **心理学视角**：经常用心理学概念解释冥想体验
+4. **包容性强**：欢迎不同背景和信仰的学生
+5. **重视情感**：允许和鼓励情感在修行中的表达
+
+### 主要修行方法
+
+- **正念禅修（Vipassana）**：身体扫描、呼吸观察、念头标记
+- **慈心禅修（Metta）**：系统的慈悲心培养
+- **RAIN 技术**：Recognition（认知）→ Acceptance（接纳）→ Investigation（探究）→ Non-identification（不认同）
+- **宽恕冥想**：三个方向——请求宽恕、给予宽恕、自我宽恕
+- **身体觉知**：将注意力带回身体作为锚点
+- **行走冥想**：特别强调缓慢行走中的正念
+
+---
+
+## 影响与评价 (Influence & Assessment)
+
+### 深远影响
+
+1. **正念运动**：他的工作直接影响了乔恩·卡巴金（Jon Kabat-Zinn）等人的正念世俗化运动
+2. **冥想与心理学整合**：为后来的"正念认知疗法"（MBCT）、"辩证行为疗法"（DBT）等铺平道路
+3. **教师培训标准**：Spirit Rock 的教师培训模式成为行业标杆
+4. **佛法民主化**：推动冥想教学的包容性和多元化
+5. **出版影响**：其著作被翻译成20多种语言，影响了数百万人
+
+### 与其他教师的关系
+
+- **约瑟夫·戈尔茨坦**：长期合作伙伴，但教学风格不同——戈尔茨坦更传统，康菲尔德更整合
+- **莎伦·萨尔兹伯格**：IMS共同创始人，在慈心修行推广上相互支持
+- **乔恩·卡巴金**：正念世俗化的互补力量——卡巴金侧重医学，康菲尔德侧重心理学
+- **塔拉·布拉赫（Tara Brach）**：Spirit Rock 社区的重要教师，RAIN 技术的进一步发展者
+
+### 批评与争议
+
+- **过度心理学化**：部分传统佛教徒认为他过于强调心理学，削弱了佛法的超越性维度
+- **文化挪用问题**：作为白人男性教导源自亚洲的传统，面临一定的文化敏感性质疑
+- **商业化倾向**：Spirit Rock 的收费标准和书籍畅销引发一些关于佛法商业化的讨论
+- **简化传统**：为适应西方受众可能简化了某些教义的深度和复杂性
+
+---
+
+## 当代意义 (Contemporary Relevance)
+
+### 对现代冥想教育的启示
+
+1. **教师必须做自己的内在工作**：冥想教师的心理健康是教学质量的基础
+2. **传统与创新的平衡**：尊重源头传统的同时，勇于为新的文化语境做适应
+3. **全人发展模式**：冥想教学不能只关注技术，需要整合身心灵各层面
+4. **社区建设**：持续的修行社区比个人英雄式的修行更可持续
+5. **伦理核心**：冥想教师的伦理标准应该和心理治疗师同等严格
+
+---
+
+## 参考资源 (References & Resources)
+
+### 书籍
+- Kornfield, J. (1993). *A Path with Heart*. Bantam Books.
+- Kornfield, J. (2000). *After the Ecstasy, the Laundry*. Bantam Books.
+- Kornfield, J. (2008). *The Wise Heart*. Bantam Books.
+
+### 机构
+- Spirit Rock Meditation Center: spiritrock.org
+- Insight Meditation Society: dharma.org
+- Jack Kornfield Official: jackkornfield.com
+
+### 音频/播客
+- *Heart Wisdom* Podcast
+- Numerous talks on Dharma Seed (dharmaseed.org)
+
+---
+
+## 关联主题 (Related Topics)
+
+- [约瑟夫·戈尔茨坦](传统-大师-西方先驱-Joseph_Goldstein.md) - IMS共同创始人
+- [莎伦·萨尔兹伯格](传统-大师-西方先驱-Sharon_Salzberg.md) - IMS共同创始人
+- [乔恩·卡巴金](传统-大师-西方先驱-Jon_Kabat_Zinn.md) - 正念减压创始人
+- [一行禅师](传统-大师-当代灵性-Thich_Nhat_Hanh.md) - 正念修行另一重要推动者
+- [塔拉·布拉赫](传统-大师-当代灵性-Tara_Brach.md) - Spirit Rock核心教师
+- [阿姜查](传统-大师-古代佛教-Ajahn_Chah.md) - 康菲尔德的核心老师

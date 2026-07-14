@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [assets/](../../../../../../01-智慧传统/INDEX.md) (0 md)
+- [assets/](../../../../../../../01-智慧传统/INDEX.md) (0 md)
 
 ## 📄 文件 | Files (1)
 

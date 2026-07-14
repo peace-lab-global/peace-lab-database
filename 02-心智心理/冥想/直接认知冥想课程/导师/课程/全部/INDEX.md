@@ -24,5 +24,5 @@ auto_generated: true
 
 ---
 
-*返回上级: [02-心智心理/meditation/courses/mocici-course-2-meditator-advance](../INDEX.md)*
+*返回上级: 02-心智心理/meditation/courses/mocici-course-2-meditator-advance*
 *自动生成于 2026-06-23 10:13*

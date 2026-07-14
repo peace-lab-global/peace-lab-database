@@ -19,7 +19,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (2)
 
-- [1.md](1.md)
+- 1.md
 
 
 ---

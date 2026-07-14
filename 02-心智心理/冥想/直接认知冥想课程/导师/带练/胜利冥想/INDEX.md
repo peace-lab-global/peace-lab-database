@@ -13,9 +13,9 @@ cross_refs: []
 
 ## 文档列表
 
-- [胜利冥想 v2.2 录制前终审报告](./胜利冥想)
-- [胜利冥想 · 音乐制作简报](./音乐简报.md)
-- [Pronunciation](./发音.md)
-- [胜利冥想 · 录制日清单](./Recording清单.md)
-- [胜利冥想 | Vijaya Victory Meditation](./脚本.md)
+- [胜利冥想 v2.2 录制前终审报告](.)
+- [胜利冥想 · 音乐制作简报](参考资料/音乐简报.md)
+- [Pronunciation](参考资料/发音.md)
+- [胜利冥想 · 录制日清单](参考资料/Recording清单.md)
+- 胜利冥想 | Vijaya Victory Meditation
 

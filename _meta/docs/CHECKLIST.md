@@ -305,4 +305,4 @@ python3 Tools/scripts/add_crisis_notice.py --dry-run
 
 ---
 
-*返回 [_meta/docs/](./) | 上级:[_meta/](../../)*
+*返回 [_meta/docs/](.) | 上级:[_meta/](../..)*

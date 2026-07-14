@@ -180,7 +180,7 @@
 ```markdown
 > ⚠️ **本目录所有内容仅供学习与研究,不能替代专业医疗建议。**
 > 如有心理困扰或紧急情况,请咨询专业人员或拨打当地心理援助热线。
-> 详细资源见 [CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+> 详细资源见 [CRISIS_RESOURCES.md](CRISIS_RESOURCES.md)
 ```
 
 ### 4.2 顶层 domain INDEX 模板
@@ -198,7 +198,7 @@
 > - 任何形式的临床干预
 >
 > **如有心理困扰、情绪危机、自杀念头,请立即**:
-> 1. 联系当地急救电话或心理危机干预热线(见 [CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md))
+> 1. 联系当地急救电话或心理危机干预热线(见 [CRISIS_RESOURCES.md](CRISIS_RESOURCES.md))
 > 2. 寻求专业心理健康服务
 > 3. 不要仅依据本知识库内容做出医疗决策
 ```
@@ -235,4 +235,4 @@
 
 ---
 
-*返回 [_meta/docs/](./) | 上级:[_meta/](../../)*
+*返回 [_meta/docs/](.) | 上级:[_meta/](../..)*

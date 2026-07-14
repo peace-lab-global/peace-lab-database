@@ -13,7 +13,7 @@ intent_queries:
   - "创意写作技法大全 | Comprehensive Creative Writing Techniques | Δημιουργική Συγγραφή Τεχνικές的方法与实践"
 trigger_keywords: ["创意写作技法大全", "Comprehensive", "Creative", "Writing", "Techniques"]
 cross_refs:
-  - path: "02-心智心理/心理学/特殊专题/依附型男性/Parent_Dependent_Male_Analysis.md"
+  - path: 02-心智心理/心理学/特殊专题-依附型男性-Parent_Dependent_Male_Analysis.md
     relation: "冲突/障碍"
 ---
 # 创意写作技法大全 | Comprehensive Creative Writing Techniques | Δημιουργική Συγγραφή Τεχνικές

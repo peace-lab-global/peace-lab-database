@@ -13,7 +13,7 @@ intent_queries:
   - "Nutrition & Gut-Brain的方法与实践"
 trigger_keywords: ["Nutrition", "Gut-Brain", "肠脑轴与抗炎营养"]
 cross_refs:
-  - path: "02-心智心理/心理学/临床/抑郁/Depression_Nutritional_Interventions.md"
+  - path: 02-心智心理/心理学/临床-抑郁-Depression_Nutritional_Interventions.md
     relation: "肠脑轴/gut-脑科学/营养"
 ---
 # Nutrition & Gut-Brain (肠脑轴与抗炎营养)

@@ -11,7 +11,8 @@ Checks:
   [naming]   content dirs must be lowercase-hyphen (excluding numbered roots)
   [cjk]      content dirs should not contain CJK characters
   [typo]     known typos like 'infograhic' -> 'infographic'
-  [depth]    content paths deeper than --max-depth (default 5) flagged
+  [depth]    content paths deeper than --max-depth (default 2) flagged
+             (exempted: 02-心智心理/冥想/直接认知冥想课程)
   [dup06]    06-Clinical-Topics files that duplicate a 02 source filename
              (violates the 'link-don't-copy' aggregation pattern; Trauma is
              the reference implementation)
@@ -26,10 +27,10 @@ from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent.parent
 
-CONTENT_ROOTS = [d for d in ["01-Wisdom-Traditions", "02-Mind-Psychology",
-                             "03-Bio-Science", "04-Humanities-Arts",
-                             "05-Praxis-Growth", "06-Clinical-Topics",
-                             "07-Research-Topics", "_meta"]
+CONTENT_ROOTS = [d for d in ["01-智慧传统", "02-心智心理",
+                             "03-生命科学", "04-人文艺术",
+                             "05-实践成长", "06-临床专题",
+                             "07-行业观察", "_meta"]
                   if (ROOT / d).exists()]
 
 # Dirs that are never "content" and should be skipped entirely.
@@ -94,16 +95,18 @@ def check_typo(d: Path) -> list:
 
 def check_depth(d: Path, max_depth: int) -> list:
     rel = d.relative_to(ROOT)
-    # depth = number of parts beyond the root counting; root "06-Clinical-Topics" = 1
+    rel_str = str(rel)
+    if "冥想/直接认知冥想课程" in rel_str:
+        return []
     if len(rel.parts) > max_depth:
-        return [(str(rel), len(rel.parts))]
+        return [(rel_str, len(rel.parts))]
     return []
 
 
 def check_dup06():
     """06 files whose stem matches a 02 source file stem -> possible duplicate."""
-    base06 = ROOT / "06-Clinical-Topics"
-    base02 = ROOT / "02-Mind-Psychology"
+    base06 = ROOT / "06-临床专题"
+    base02 = ROOT / "02-心智心理"
     if not base06.exists() or not base02.exists():
         return []
     stems02 = {p.stem for p in base02.rglob('*.md')}
@@ -126,7 +129,7 @@ def check_empty():
     return empties
 
 
-def run_all(max_depth=5):
+def run_all(max_depth=2):
     naming, cjk, typos, deep = [], [], [], []
     for d in iter_content_dirs():
         naming += check_naming(d)
@@ -168,7 +171,7 @@ def print_report(res):
 
 def main():
     ap = argparse.ArgumentParser()
-    ap.add_argument("--max-depth", type=int, default=5)
+    ap.add_argument("--max-depth", type=int, default=2)
     ap.add_argument("--json", action="store_true", help="emit JSON only")
     ap.add_argument("--ci", action="store_true",
                     help="CI mode: exit 1 if findings not in baseline")

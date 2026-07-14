@@ -13,9 +13,9 @@ intent_queries:
   - "孤独的生物学整合：从社会伤口到身体炎症的方法与实践"
 trigger_keywords: ["孤独的生物学整合：从社会伤口到身体炎症", "Biology", "of", "Loneliness:", "Integration"]
 cross_refs:
-  - path: "02-心智心理/心理学/社会心理/孤独/Loneliness_Biology_Integration.md"
+  - path: 02-心智心理/心理学/社会心理-孤独-Loneliness_Biology_Integration.md
     relation: "炎症/hpa/孤独"
-  - path: "02-心智心理/心理学/压力与HPA轴/技能/Stress_Health_Risk_Assessment_Skill.md"
+  - path: 02-心智心理/心理学/压力与HPA轴-技能-Stress_Health_Risk_Assessment_Skill.md
     relation: "免疫/炎症/压力"
   - path: "02-心智心理/心理学/应用心理/occupationalburnout/Occupational_Burnout_Neurobiological_Mechanisms.md"
     relation: "hpa/炎症/免疫"

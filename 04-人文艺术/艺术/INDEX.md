@@ -1,57 +1,109 @@
----
-title: "arts | 艺术与艺术疗愈"
-description: "arts | 艺术与艺术疗愈 —— 人文与艺术疗愈 · 艺术 专题"
-category: "人文与艺术疗愈 > 艺术"
-tags: ["ballet", "healing", "therapy", "art-therapy", "renaissance"]
-last_updated: "2026-05"
-difficulty: "intermediate"
-reading_level: "intermediate"
-estimated_read_time: "5min"
-intent_queries:
-  - "什么是arts | 艺术与艺术疗愈"
-  - "arts | 艺术与艺术疗愈的核心概念"
-  - "arts | 艺术与艺术疗愈的方法与实践"
-trigger_keywords: ["arts", "艺术与艺术疗愈", "ballet", "healing"]
-cross_refs: []
----
-# arts | 艺术与艺术疗愈
+# 艺术
 
-> 视觉艺术、表演艺术与艺术疗法的综合知识库
+> 本目录共 96 个文档
 
-## 核心索引 | Core Index
 
-### 1. 艺术家 (Artists)
-- [艺术家导航](艺术家/)
-  - [文艺复兴艺术家](艺术家/文艺复兴/) - 达芬奇、米开朗基罗等
-  - [现代艺术家](艺术家/现代/) - 毕加索、梵高、莫奈、达利等
+## 其他
 
-### 2. 艺术疗法 (Arts Therapy)
-- [艺术疗法导航](艺术疗法/)
-  - [艺术疗法概览](艺术疗法/艺术疗法总览.md)
-  - [艺术疗法术语与理论](艺术疗法/艺术疗法Terminology理论.md)
-  - [艺术疗法技术与媒介](艺术疗法/艺术疗法技术媒体.md)
-  - [艺术疗法临床整合](艺术疗法/艺术疗法临床整合.md)
-- [现代艺术家疗法](现代Artists疗法.md) - 现代艺术作品的疗愈应用
-- [文艺复兴艺术家疗法](RenaissanceArtists疗法.md) - 文艺复兴艺术的疗愈应用
+- [RenaissanceArtists疗法](RenaissanceArtists疗法.md)
+- [书法疗法-书法临床Applications](书法疗法-书法临床Applications.md)
+- [书法疗法-书法实践指南](书法疗法-书法实践指南.md)
+- [书法疗法-书法疗法总览](书法疗法-书法疗法总览.md)
+- [书法疗法-书法神经科学](书法疗法-书法神经科学.md)
+- [叙事疗法-Narrative疗法总览](叙事疗法-Narrative疗法总览.md)
+- [园艺疗法-Horticultural疗法临床](园艺疗法-Horticultural疗法临床.md)
+- [园艺疗法-Horticultural疗法总览](园艺疗法-Horticultural疗法总览.md)
+- [园艺疗法-疗愈Garden设计](园艺疗法-疗愈Garden设计.md)
+- [戏剧疗法-Drama疗法临床](戏剧疗法-Drama疗法临床.md)
+- [戏剧疗法-Drama疗法实践](戏剧疗法-Drama疗法实践.md)
+- [戏剧疗法-Drama疗法总览](戏剧疗法-Drama疗法总览.md)
+- [戏剧疗法-Drama疗法神经科学](戏剧疗法-Drama疗法神经科学.md)
+- [戏剧疗法-Psychodrama技术](戏剧疗法-Psychodrama技术.md)
+- [手工疗法-CraftPottery疗法](手工疗法-CraftPottery疗法.md)
+- [手工疗法-CraftTextile疗法](手工疗法-CraftTextile疗法.md)
+- [手工疗法-Craft疗法总览](手工疗法-Craft疗法总览.md)
+- [摄影疗法-摄影临床Applications](摄影疗法-摄影临床Applications.md)
+- [摄影疗法-摄影实践指南](摄影疗法-摄影实践指南.md)
+- [摄影疗法-摄影疗法总览](摄影疗法-摄影疗法总览.md)
+- [沙盘疗法-Sandplay疗法总览](沙盘疗法-Sandplay疗法总览.md)
+- [现代Artists疗法](现代Artists疗法.md)
+- [空间疗愈-Space居家办公设计](空间疗愈-Space居家办公设计.md)
+- [空间疗愈-Space疗愈Architecture](空间疗愈-Space疗愈Architecture.md)
+- [自然荒野疗法-NatureWilderness疗法总览](自然荒野疗法-NatureWilderness疗法总览.md)
+- [舞蹈动作疗法-舞蹈Movement疗法总览](舞蹈动作疗法-舞蹈Movement疗法总览.md)
+- [艺术疗法-RenaissanceArtists疗法](艺术疗法-RenaissanceArtists疗法.md)
+- [艺术疗法-现代Artists疗法](艺术疗法-现代Artists疗法.md)
+- [艺术疗法-艺术疗法Terminology理论](艺术疗法-艺术疗法Terminology理论.md)
+- [艺术疗法-艺术疗法临床整合](艺术疗法-艺术疗法临床整合.md)
+- [艺术疗法-艺术疗法总览](艺术疗法-艺术疗法总览.md)
+- [艺术疗法-艺术疗法技术媒体](艺术疗法-艺术疗法技术媒体.md)
+- [芭蕾-芭蕾EducationSystem](芭蕾-芭蕾EducationSystem.md)
+- [芭蕾-芭蕾Scientific研究](芭蕾-芭蕾Scientific研究.md)
+- [芭蕾-芭蕾TechniqueSystem](芭蕾-芭蕾TechniqueSystem.md)
+- [芭蕾-芭蕾Terminology词典](芭蕾-芭蕾Terminology词典.md)
+- [芭蕾-芭蕾总览](芭蕾-芭蕾总览.md)
+- [芭蕾-芭蕾疗法Applications](芭蕾-芭蕾疗法Applications.md)
+- [表达性艺术-ExpressiveArts培训Certification](表达性艺术-ExpressiveArts培训Certification.md)
+- [表达性艺术-ExpressiveArts工具箱](表达性艺术-ExpressiveArts工具箱.md)
+- [表达性艺术-ExpressiveArts案例Studies](表达性艺术-ExpressiveArts案例Studies.md)
+- [表达性艺术-ExpressiveArts跨参考](表达性艺术-ExpressiveArts跨参考.md)
 
-### 3. 芭蕾艺术 (Ballet)
-- [芭蕾导航](芭蕾/)
-  - [芭蕾概览](芭蕾/芭蕾总览.md)
-  - [芭蕾技术体系](芭蕾/芭蕾TechniqueSystem.md)
-  - [芭蕾术语词典](芭蕾/芭蕾Terminology词典.md)
-  - [芭蕾科学研究](芭蕾/芭蕾Scientific研究.md)
-  - [芭蕾教育体系](芭蕾/芭蕾EducationSystem.md)
-  - [芭蕾疗愈应用](芭蕾/芭蕾疗法Applications.md)
-  - [古典剧目](芭蕾/古典剧目/) - 天鹅湖、胡桃夹子等
-  - [当代编舞家](芭蕾/当代/) - Forsythe、Balanchine 等
+## 艺术家
 
-### 4. 表达性艺术 (Expressive Arts)
-- [表达性艺术导航](表达性艺术/)
-  - [表达性艺术工具包](表达性艺术/ExpressiveArts工具箱.md)
-  - [表达性艺术培训与认证](表达性艺术/ExpressiveArts培训Certification.md)
-  - [表达性艺术交叉参考](表达性艺术/ExpressiveArts跨参考.md)
-  - [表达性艺术案例研究](表达性艺术/ExpressiveArts案例Studies.md)
+- [艺术家-文艺复兴-Leonardo_da_Vinci](艺术家-文艺复兴-Leonardo_da_Vinci.md)
+- [艺术家-文艺复兴-Michelangelo](艺术家-文艺复兴-Michelangelo.md)
+- [艺术家-文艺复兴-列奥纳多·达·芬奇](艺术家-文艺复兴-列奥纳多·达·芬奇.md)
+- [艺术家-文艺复兴-米开朗基罗](艺术家-文艺复兴-米开朗基罗.md)
+- [艺术家-现代-Dali](艺术家-现代-Dali.md)
+- [艺术家-现代-Dali_Works_Analysis](艺术家-现代-Dali_Works_Analysis.md)
+- [艺术家-现代-Dali作品分析](艺术家-现代-Dali作品分析.md)
+- [艺术家-现代-Monet](艺术家-现代-Monet.md)
+- [艺术家-现代-Monet_Works_Analysis](艺术家-现代-Monet_Works_Analysis.md)
+- [艺术家-现代-Monet作品分析](艺术家-现代-Monet作品分析.md)
+- [艺术家-现代-Picasso](艺术家-现代-Picasso.md)
+- [艺术家-现代-Picasso_Works_Analysis](艺术家-现代-Picasso_Works_Analysis.md)
+- [艺术家-现代-Picasso作品分析](艺术家-现代-Picasso作品分析.md)
+- [艺术家-现代-VanGogh](艺术家-现代-VanGogh.md)
+- [艺术家-现代-VanGogh_Works_Analysis](艺术家-现代-VanGogh_Works_Analysis.md)
+- [艺术家-现代-VanGogh作品分析](艺术家-现代-VanGogh作品分析.md)
+- [艺术家-现代-梵高](艺术家-现代-梵高.md)
+- [艺术家-现代-毕加索](艺术家-现代-毕加索.md)
+- [艺术家-现代-莫奈](艺术家-现代-莫奈.md)
+- [艺术家-现代-达利](艺术家-现代-达利.md)
 
----
+## 芭蕾
 
-*返回上级目录 [INDEX.md](../INDEX.md)*
+- [芭蕾-历史-Ballet_History_Development](芭蕾-历史-Ballet_History_Development.md)
+- [芭蕾-历史-芭蕾History发展](芭蕾-历史-芭蕾History发展.md)
+- [芭蕾-古典剧目-don-quixote-Don_Quixote_Classic_Analysis](芭蕾-古典剧目-don-quixote-Don_Quixote_Classic_Analysis.md)
+- [芭蕾-古典剧目-giselle-Giselle_Classic_Analysis](芭蕾-古典剧目-giselle-Giselle_Classic_Analysis.md)
+- [芭蕾-古典剧目-nutcracker-Nutcracker_Classic_Analysis](芭蕾-古典剧目-nutcracker-Nutcracker_Classic_Analysis.md)
+- [芭蕾-古典剧目-romeo-juliet-Romeo_Juliet_Classic_Analysis](芭蕾-古典剧目-romeo-juliet-Romeo_Juliet_Classic_Analysis.md)
+- [芭蕾-古典剧目-sleeping-beauty-Sleeping_Beauty_Classic_Analysis](芭蕾-古典剧目-sleeping-beauty-Sleeping_Beauty_Classic_Analysis.md)
+- [芭蕾-古典剧目-swan-lake-Swan_Lake_Classic_Analysis](芭蕾-古典剧目-swan-lake-Swan_Lake_Classic_Analysis.md)
+- [芭蕾-古典剧目-吉赛尔-GiselleClassic分析](芭蕾-古典剧目-吉赛尔-GiselleClassic分析.md)
+- [芭蕾-古典剧目-堂吉诃德-DonQuixoteClassic分析](芭蕾-古典剧目-堂吉诃德-DonQuixoteClassic分析.md)
+- [芭蕾-古典剧目-天鹅湖-SwanLakeClassic分析](芭蕾-古典剧目-天鹅湖-SwanLakeClassic分析.md)
+- [芭蕾-古典剧目-睡美人-SleepingBeautyClassic分析](芭蕾-古典剧目-睡美人-SleepingBeautyClassic分析.md)
+- [芭蕾-古典剧目-罗密欧与朱丽叶-RomeoJulietClassic分析](芭蕾-古典剧目-罗密欧与朱丽叶-RomeoJulietClassic分析.md)
+- [芭蕾-古典剧目-胡桃夹子-NutcrackerClassic分析](芭蕾-古典剧目-胡桃夹子-NutcrackerClassic分析.md)
+- [芭蕾-康复治疗-Ballet_Rehabilitation_Therapy](芭蕾-康复治疗-Ballet_Rehabilitation_Therapy.md)
+- [芭蕾-康复治疗-芭蕾Rehabilitation疗法](芭蕾-康复治疗-芭蕾Rehabilitation疗法.md)
+- [芭蕾-当代-balanchine-George_Balanchine_Special](芭蕾-当代-balanchine-George_Balanchine_Special.md)
+- [芭蕾-当代-Contemporary_Ballet_Choreographers](芭蕾-当代-Contemporary_Ballet_Choreographers.md)
+- [芭蕾-当代-forsythe-William_Forsythe_Special](芭蕾-当代-forsythe-William_Forsythe_Special.md)
+- [芭蕾-当代-kylian-Jiri_Kylian_Special](芭蕾-当代-kylian-Jiri_Kylian_Special.md)
+- [芭蕾-当代-morris-Mark_Morris_Special](芭蕾-当代-morris-Mark_Morris_Special.md)
+- [芭蕾-当代-wheeldon-Christopher_Wheeldon_Special](芭蕾-当代-wheeldon-Christopher_Wheeldon_Special.md)
+- [芭蕾-当代-基利安-JiriKylian特殊](芭蕾-当代-基利安-JiriKylian特殊.md)
+- [芭蕾-当代-威尔登-ChristopherWheeldon特殊](芭蕾-当代-威尔登-ChristopherWheeldon特殊.md)
+- [芭蕾-当代-巴兰钦-GeorgeBalanchine特殊](芭蕾-当代-巴兰钦-GeorgeBalanchine特殊.md)
+- [芭蕾-当代-当代芭蕾Choreographers](芭蕾-当代-当代芭蕾Choreographers.md)
+- [芭蕾-当代-福赛斯-WilliamForsythe特殊](芭蕾-当代-福赛斯-WilliamForsythe特殊.md)
+- [芭蕾-当代-莫里斯-MarkMorris特殊](芭蕾-当代-莫里斯-MarkMorris特殊.md)
+- [芭蕾-教育研究-Ballet_Education_Research](芭蕾-教育研究-Ballet_Education_Research.md)
+- [芭蕾-教育研究-芭蕾Education研究](芭蕾-教育研究-芭蕾Education研究.md)
+- [芭蕾-综合-Ballet_General_Resources](芭蕾-综合-Ballet_General_Resources.md)
+- [芭蕾-综合-芭蕾General资源](芭蕾-综合-芭蕾General资源.md)
+- [芭蕾-鉴赏-Ballet_Appreciation_Guide](芭蕾-鉴赏-Ballet_Appreciation_Guide.md)
+- [芭蕾-鉴赏-芭蕾Appreciation指南](芭蕾-鉴赏-芭蕾Appreciation指南.md)

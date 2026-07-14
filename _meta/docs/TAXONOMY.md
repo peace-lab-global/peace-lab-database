@@ -20,9 +20,9 @@ cross_refs:
     relation: "佛教/沟通/冥想"
   - path: "01-智慧传统/宗教/佛教/现代应用/INDEX.md"
     relation: "佛教/道家ism/冥想"
-  - path: "01-智慧传统/宗教/佛教/南怀瑾/Nan_Huaijin_Teachings.md"
+  - path: 01-智慧传统/宗教/佛教-南怀瑾-Nan_Huaijin_Teachings.md
     relation: "佛教/道家ism/冥想"
-  - path: "02-心智心理/冥想/基础/总览/Meditation_Practitioner_QA.md"
+  - path: 02-心智心理/冥想/基础-总览-Meditation_Practitioner_QA.md
     relation: "佛教/沟通/冥想"
 
 ---

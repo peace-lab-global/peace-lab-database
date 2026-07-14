@@ -13,7 +13,7 @@ intent_queries:
   - "Clinical Applications in Sexuality的方法与实践"
 trigger_keywords: ["Clinical", "Applications", "in", "Sexuality", "性学临床应用"]
 cross_refs:
-  - path: "02-心智心理/心理学/行为心理/窥视色情成瘾/Pornography_Addiction_Clinical_Applications.md"
+  - path: 02-心智心理/心理学/行为心理-窥视色情成瘾-Pornography_Addiction_Clinical_Applications.md
     relation: "lgbtq/dsm-/criteria"
 ---
 # Clinical Applications in Sexuality (性学临床应用)

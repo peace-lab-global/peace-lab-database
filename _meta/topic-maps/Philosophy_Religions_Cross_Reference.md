@@ -132,4 +132,4 @@ religions/
 
 ---
 
-*返回 [_meta/topic-maps/](./) | 上级:[_meta/](../../)*
+*返回 [_meta/topic-maps/](.) | 上级:[_meta/](../..)*

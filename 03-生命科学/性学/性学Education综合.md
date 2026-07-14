@@ -17,7 +17,7 @@ cross_refs:
     relation: "性学/教育/课程"
   - path: "02-心智心理/心理学/发展心理/青少年/儿童青少年性心理/INDEX.md"
     relation: "性学/教育/青少年"
-  - path: "02-心智心理/心理学/发展心理/青少年/儿童青少年性心理/Child_Adolescent_Sexuality_Education_Overview.md"
+  - path: 02-心智心理/心理学/发展心理-青少年-儿童青少年性心理-Child_Adolescent_Sexuality_Education_Overview.md
     relation: "性学/教育/青少年"
   - path: "02-心智心理/心理学/发展心理/青少年/儿童青少年性心理/理论/Frontier_Theory_Research_Evidence.md"
     relation: "性学/教育/青少年"
