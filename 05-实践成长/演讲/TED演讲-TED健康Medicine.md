@@ -164,7 +164,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Kelly McGonigal** | How to make stress your friend | 2013 | 压力的重新定义 | [压力管理](../../02-心智心理/心理学/压力与HPA轴-慢性压力-慢性压力总览.md) | 14:20 | [观看](https://www.ted.com/talks/kelly_mcgonigal_how_to_make_stress_your_friend) |
-| **Robert Sapolsky** | Why zebras don't get ulcers | 2015 | 慢性压力的生物学 | [应激生理](Chronic_Stress_Neuroscience.md) | 19:34 | [观看](https://www.ted.com/talks/robert_sapolsky_why_humans_run_around_in_circles) |
+| **Robert Sapolsky** | Why zebras don't get ulcers | 2015 | 慢性压力的生物学 | [应激生理](INDEX.md) | 19:34 | [观看](https://www.ted.com/talks/robert_sapolsky_why_humans_run_around_in_circles) |
 
 ### 6.3 正念与冥想医学应用
 
@@ -196,7 +196,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Daniel Kraft** | Medicine's future? There's an app for that | 2015 | 个性化健康管理应用 | [数字健康](TED演讲-框架数字健康.md) | 18:33 | [观看](https://www.ted.com/talks/daniel_kraft_medicine_s_future_there_s_an_app_for_that) |
-| **Eric Topol** | The wireless future of medicine | 2012 | 无线医疗的未来 | [远程医疗](Framework_Telemedicine.md) | 19:28 | [观看](https://www.ted.com/talks/eric_topol_the_wireless_future_of_medicine) |
+| **Eric Topol** | The wireless future of medicine | 2012 | 无线医疗的未来 | [远程医疗](INDEX.md) | 19:28 | [观看](https://www.ted.com/talks/eric_topol_the_wireless_future_of_medicine) |
 
 ---
 

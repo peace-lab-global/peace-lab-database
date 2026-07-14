@@ -84,22 +84,22 @@ cross_refs: []
 
 ## 核心索引 | Core Index
 
-### 0.5 🌙 睡眠科学与疗愈 (Sleep Science & Healing) — [完整知识地图](生物学/睡眠科学/INDEX.md) **[NEW]**
+### 0.5 🌙 睡眠科学与疗愈 (Sleep Science & Healing) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [睡眠科学与疗愈总览](生物学/睡眠科学-睡眠科学总览.md) — 双过程模型、NREM-REM周期、神经递质、心理共病
 - [睡眠障碍分类与评估](生物学/睡眠科学-睡眠DisordersClassification.md) — 失眠/OSA/昼夜节律/异态睡眠/RLS
 - [CBT-I认知行为疗法](生物学/睡眠科学-认知行为疗法I认知行为.md) — 刺激控制/睡眠限制/认知重构/数字化CBT-I
 - [睡眠卫生与昼夜节律](生物学/睡眠科学-睡眠HygieneChronobiology.md) — 光照/温度/饮食处方、时型识别、睡前例行
 
-### 0.6 🧪 内分泌系统与疗愈整合 (Endocrine System & Healing) — [完整知识地图](生物学/内分泌/INDEX.md) **[NEW]**
+### 0.6 🧪 内分泌系统与疗愈整合 (Endocrine System & Healing) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [内分泌系统与疗愈整合](生物学/内分泌-Endocrine总览.md) — HPA/HPG/HPT轴、10大内分泌腺、慢性压力病理、疗愈干预对HPA影响
 
-### 0.7 💊 物质成瘾生物学 (Substance Addiction Biology) — [完整知识地图](生物学/成瘾/INDEX.md) **[NEW]**
+### 0.7 💊 物质成瘾生物学 (Substance Addiction Biology) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [物质成瘾生物学总览](生物学/成瘾-成瘾Biology总览.md) — 三阶段循环模型、多巴胺机制、各物质生物学、遗传、治疗
 
-### 0.8 🏥 中医现代化循证 (TCM: Modern Evidence) — [完整知识地图](生物学/中医循证/INDEX.md) **[NEW]**
+### 0.8 🏥 中医现代化循证 (TCM: Modern Evidence) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [中医现代化循证](生物学/中医循证-中医循证总览.md) — 针灸机制/RCT、艾灸证据、中药现代化、WHO适应证、东西方整合模型
 
-### 1. 🏋️ 运动科学与健身 (Exercise Science & Fitness) — [完整知识地图](生物学/运动科学/INDEX.md) **[NEW]**
+### 1. 🏋️ 运动科学与健身 (Exercise Science & Fitness) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [运动科学总览 (Exercise Science Overview)](生物学/运动科学-运动科学总览.md) — FITT原则、运动分类、循证关系
 - [力量训练基础 (Strength Training)](生物学/运动科学-Strength培训Fundamentals.md) — 渐进超负荷、训练分化、PPL模板
 - [有氧运动与心肺适能 (Aerobic & Cardio)](生物学/运动科学-Aerobic运动Cardio.md) — 心率区间、MAF方法、HIIT
@@ -120,7 +120,7 @@ cross_refs: []
 - [飞蚊症心理适应与管理 (Eye Floaters)](生物学/飞蚊症/)
 - [甲沟炎心理影响分析 (Paronychia)](生物学/甲沟炎-Paronychia心理Impact分析.md)
 
-### 1.8 🧬 衰老与长寿科学 (Aging & Longevity Science) — [完整知识地图](生物学/衰老长寿/INDEX.md) **[NEW]**
+### 1.8 🧬 衰老与长寿科学 (Aging & Longevity Science) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [衰老与长寿科学总览 (Aging & Longevity Overview)](生物学/衰老长寿-衰老长寿总览.md) — 九大标志、蓝区Power 9、生物标志物
 - [端粒与表观遗传学 (Telomere & Epigenetics)](生物学/衰老长寿-端粒表观遗传学.md) — 端粒酶、Horvath钟、生物年龄评估
 - [NAD+与长寿通路 (NAD+ & Sirtuins Pathways)](生物学/衰老长寿-NAD去乙酰化酶通路.md) — mTOR/AMPK/Sirtuins/雷帕霉素/二甲双胍
@@ -134,14 +134,14 @@ cross_refs: []
 - [EEG 脑电生物反馈 (EEG Biofeedback)](生物学/脑科学-脑脑电图生物反馈.md)
 - [HPA 轴与压力反应 (HPA Axis)](生物学/HPA轴/)
 
-### 2.5 🛡️ 免疫系统与炎症 (Immune System & Inflammation) — [完整知识地图](生物学/免疫炎症/INDEX.md) **[NEW]**
+### 2.5 🛡️ 免疫系统与炎症 (Immune System & Inflammation) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [免疫系统总览 (Immune System Overview)](生物学/免疫炎症-免疫System总览.md) — 三道防线、免疫细胞图谱
 - [慢性炎症 (Chronic Inflammation)](生物学/免疫炎症-慢性炎症.md) — Inflammaging、NF-kB通路、疾病关联
 - [心理神经免疫学 (PNI)](生物学/免疫炎症-心理神经免疫学.md) — 压力-免疫轴、冥想与免疫
 - [抗炎生活方式 (Anti-Inflammatory Lifestyle)](生物学/免疫炎症-AntiInflammatory生活方式.md) — 地中海饮食、运动、睡眠
 - [自身免疫心理学 (Autoimmune Psychology)](生物学/免疫炎症-Autoimmune心理学.md) — 心理共病、ACT干预
 
-### 2.6 🦠 肠道微生物组 (Gut Microbiome) — [完整知识地图](生物学/肠道微生物/INDEX.md) **[NEW]**
+### 2.6 🦠 肠道微生物组 (Gut Microbiome) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [肠道微生物总览 (Gut Microbiome Overview)](生物学/肠道微生物-肠道微生物总览.md) — 微生物多样性、菌群功能
 - [肠脑轴 (Gut-Brain Axis)](生物学/肠道微生物-肠道BrainAxis.md) — 迷走神经、神经递质、HPA轴调节
 - [肠道与心理健康 (Gut & Mental Health)](生物学/肠道微生物-肠道心理健康.md) — 精神益生菌、抑郁/焦虑
@@ -150,19 +150,19 @@ cross_refs: []
 ### 2.5a 🔗 社会连接生物学 (Social Connection Biology) **[NEW]**
 - [孤独生物学整合 (Loneliness Biology Integration)](生物学/孤独Biology整合.md) — 从社会伤口到身体炎症：HPA轴/免疫/端粒/表观遗传 **[NEW]**
 
-### 2.7 ❤️ 心血管健康 (Cardiovascular Health) — [完整知识地图](生物学/心血管/INDEX.md) **[NEW]**
+### 2.7 ❤️ 心血管健康 (Cardiovascular Health) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [心血管健康总览 (CVD Overview)](生物学/心血管-心血管健康总览.md) — 风险因素、AHA Essential 8、评估工具
 - [心率变异性 (HRV)](生物学/心血管-心RateVariability.md) — 时域/频域指标、多迷走理论、共振呼吸
 - [心理心脏病学 (Cardiovascular Psychology)](生物学/心血管-心血管心理学.md) — D型人格、INTERHEART、心脏焦虑
 - [心血管运动与营养 (Exercise & Nutrition)](生物学/心血管-心血管运动营养.md) — 运动处方、地中海/DASH饮食
 
-### 2.8 ♂️ 男性健康 (Men's Health) — [完整知识地图](生物学/男性健康/INDEX.md) **[NEW]**
+### 2.8 ♂️ 男性健康 (Men's Health) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [男性健康总览 (Men's Health Overview)](生物学/男性健康-Mens健康总览.md) — 性别差异、高发疾病、生命周期
 - [睾酮与内分泌 (Testosterone & Endocrine)](生物学/男性健康-男性睾酮内分泌.md) — HPG轴、TRT、自然优化
 - [前列腺健康 (Prostate Health)](生物学/男性健康-MensProstate健康.md) — BPH/前列腺炎/前列腺癌
 - [男性心理健康 (Men's Mental Health)](生物学/男性健康-Mens心理健康.md) — 男性气质、自杀预防、求助障碍
 
-### 2.9 ♀️ 女性生理健康 (Women's Health) — [完整知识地图](生物学/女性健康/INDEX.md) **[NEW]**
+### 2.9 ♀️ 女性生理健康 (Women's Health) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [女性健康总览 (Women's Health Overview)](生物学/女性健康-Womens健康总览.md) — 性别差异、生命周期、心理窗口
 - [月经健康 (Menstrual Health)](生物学/女性健康-WomensMenstrual健康.md) — 周期/PMS/PMDD/周期同步训练
 - [生育与孕产 (Fertility & Pregnancy)](生物学/女性健康-女性生育怀孕.md) — 备孕/三孕期/围产期心理

@@ -95,7 +95,7 @@ cross_refs: []
 - [瑜伽历史 (History)](瑜伽/哲学历史-瑜伽历史传承.md) | [术语总表 (Glossary)](瑜伽/哲学历史-瑜伽术语总表.md)
 
 **练习与技术**
-- [体式与调息 (Asana & Pranayama)](瑜伽/实践技术-瑜伽体式调息.md) | [体式库 (Asana Library)](瑜伽/体式库/INDEX.md)
+- [体式与调息 (Asana & Pranayama)](瑜伽/实践技术-瑜伽体式调息.md) | [体式库 (Asana Library)](瑜伽/INDEX.md)
 - [冥想 (Meditation)](瑜伽/冥想与意识-瑜伽冥想禅那禅定.md) | [Mantra与声音 (Mantra & Nada)](瑜伽/实践技术-瑜伽梵咒声音诵唱.md)
 - [六业净化 (Shatkarma)](瑜伽/实践技术-瑜伽六业净化净化.md) | [昆达里尼 (Kundalini)](瑜伽/冥想与意识-瑜伽高阶净化法昆达里尼.md)
 - [Yoga Nidra](瑜伽/冥想与意识-瑜伽尼德拉.md) | [那洛六法 (Six Yogas of Naropa)](瑜伽/那洛六法/)
@@ -163,7 +163,7 @@ cross_refs: []
 - [金刚乘基础 (Vajrayana Foundation)](宗教/佛教-金刚乘-佛教金刚乘Foundation.md)
 - [大圆满与大手印 (Dzogchen & Mahamudra)](宗教/佛教/大圆满/)
 - [佛教心理学与疗愈 (Buddhist Psychology & Healing)](宗教/佛教/心理学/)
-- **佛教仪轨专题 (Buddhist Rituals)** — [完整索引](宗教/佛教/仪轨/INDEX.md)
+- **佛教仪轨专题 (Buddhist Rituals)** — [完整索引](宗教/INDEX.md)
   - [南传仪轨总览](宗教/佛教-仪轨-南传仪轨总览.md) — 日常功课、布萨、出家、丧葬
   - [汉传仪轨总览](宗教/佛教-仪轨-Chinese仪轨总览.md) — 早晚课、水陆法会、焰口、三坛大戒、盂兰盆会
   - [藏传仪轨总览](宗教/佛教-仪轨-Tibetan仪轨总览.md) — 皈依发心、加行、本尊、灌顶、度亡、火供
@@ -175,7 +175,7 @@ cross_refs: []
   - [藏医与曼茶罗疗愈 (Tibetan Medicine)](宗教/藏传佛教-藏传MedicineSowaRigpa.md)
 
 ### 5. 🏛️ 全球灵性与古典哲学 (Global Spirituality & Philosophy)
-- [**哲学经典三方书评总索引**](哲学/书评/INDEX.md) — 东西方哲学经典的专业书评人/哲学爱好者/哲学学者三方评析
+- [**哲学经典三方书评总索引**](哲学/INDEX.md) — 东西方哲学经典的专业书评人/哲学爱好者/哲学学者三方评析
 - [西方实用哲学：斯多葛与存在主义](哲学/西方哲学-实用哲学-哲学WesternStoicismExistentialism.md)
 - [东亚哲学体系 (East Asian Philosophy)](哲学/东亚哲学/)
   - [儒家 (Confucianism)](哲学/东亚哲学/中国/儒家/)

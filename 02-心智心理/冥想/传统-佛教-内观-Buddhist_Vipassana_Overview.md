@@ -420,5 +420,5 @@ graph TD
 
 > **相关资源**
 > - 返回 [INDEX](./INDEX.md)
-> - 参见 [止观概述](../止观/INDEX.md)
+> - 参见 [止观概述](../INDEX.md)
 > - 参见 [内观冥想](传统-佛教-内观-Vipassana_Meditation.md)

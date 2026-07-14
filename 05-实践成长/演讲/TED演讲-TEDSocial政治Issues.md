@@ -54,7 +54,7 @@ cross_refs: []
 |-------|---------|------|----------|------------|------|----------|
 | **Yuval Noah Harari** | Nationalism vs. globalism | 2017 | 民族主义与全球主义的冲突 | [政治心理学](../../02-心智心理/心理学/社会心理-政治心理学-政治心理学总览.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
 | **Ian Bremmer** | How the US should use its power | 2018 | 美国全球权力运用 | [国际关系](TED演讲-政治心理学International关系.md) | 14:28 | [观看](https://www.ted.com/talks/ian_bremmer_how_the_us_should_use_its_power) |
-| **Steven Pinker** | Why the world isn't falling apart | 2019 | 乐观的进步主义观点 | [政治哲学](Philosophy_Political_Philosophy.md) | 18:33 | [观看](https://www.ted.com/talks/steven_pinker_why_the_world_isn_t_falling_apart) |
+| **Steven Pinker** | Why the world isn't falling apart | 2019 | 乐观的进步主义观点 | [政治哲学](INDEX.md) | 18:33 | [观看](https://www.ted.com/talks/steven_pinker_why_the_world_isn_t_falling_apart) |
 
 ### 2.2 权力与权威分析
 
@@ -68,7 +68,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Srdja Popovic** | How to topple a dictator | 2013 | 非暴力抗争策略 | [社会运动](TED演讲-框架SocialSciences.md) | 16:22 | [观看](https://www.ted.com/talks/srdja_popovic_how_to_topple_a_dicator) |
-| **Larry Lessig** | We the people, and the republic we must reclaim | 2013 | 美国民主的危机与改革 | [民主理论](Philosophy_Political_Philosophy.md) | 19:38 | [观看](https://www.ted.com/talks/larry_lessig_we_the_people_and_the_republic_we_must_reclaim) |
+| **Larry Lessig** | We the people, and the republic we must reclaim | 2013 | 美国民主的危机与改革 | [民主理论](INDEX.md) | 19:38 | [观看](https://www.ted.com/talks/larry_lessig_we_the_people_and_the_republic_we_must_reclaim) |
 
 ---
 
@@ -112,7 +112,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](Framework_Technology_Trends.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
+| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](INDEX.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
 | **Claire Wardle** | What's wrong with our news ecosystem | 2019 | 新闻生态系统的危机 | [媒体素养](TED演讲-框架媒体Literacy.md) | 14:33 | [观看](https://www.ted.com/talks/claire_wardle_what_s_wrong_with_our_news_ecosystem) |
 
 ### 4.3 数字时代的隐私与安全
@@ -131,13 +131,13 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Janette Sadik-Khan** | How to redesign cities for people | 2017 | 以人为本的城市设计 | [城市规划](TED演讲-框架UrbanPlanning.md) | 14:33 | [观看](https://www.ted.com/talks/janette_sadik_khan_how_to_redesign_cities_for_people) |
-| **Kees Dorst** | How cities can fix themselves | 2014 | 城市自愈能力 | [可持续城市](Framework_Sustainable_Cities.md) | 12:45 | [观看](https://www.ted.com/talks/kees_dorst_how_cities_can_fix_themselves) |
+| **Kees Dorst** | How cities can fix themselves | 2014 | 城市自愈能力 | [可持续城市](INDEX.md) | 12:45 | [观看](https://www.ted.com/talks/kees_dorst_how_cities_can_fix_themselves) |
 
 ### 5.2 社区建设与社会资本
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Eric Liu** | How to build community through civic engagement | 2019 | 公民参与建设社区 | [社区心理学](Psychology_Community.md) | 16:28 | [观看](https://www.ted.com/talks/eric_liu_how_to_build_community_through_civic_engagement) |
+| **Eric Liu** | How to build community through civic engagement | 2019 | 公民参与建设社区 | [社区心理学](INDEX.md) | 16:28 | [观看](https://www.ted.com/talks/eric_liu_how_to_build_community_through_civic_engagement) |
 | **Nora Bateson** | The ecology of mind | 2016 | 思维的生态学 | [系统思维](TED演讲-框架Systems理论.md) | 15:42 | [观看](https://www.ted.com/talks/nora_bateson_the_ecology_of_mind) |
 
 ### 5.3 公共空间与社会互动

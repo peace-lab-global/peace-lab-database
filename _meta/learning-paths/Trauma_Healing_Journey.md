@@ -25,8 +25,8 @@
 11. [Somatic Experiencing 躯体体验](../../02-心智心理/疗法/整合疗法-躯体体验-SE总览.md) — 完成冻结的生存反应
 12. [辩证行为疗法 DBT](../../02-心智心理/疗法/认知行为/辩证行为疗法/)
 13. [慈悲聚焦疗法 CFT](../../02-心智心理/疗法/整合疗法/慈悲聚焦疗法/)
-14. [频率疗愈 (417Hz 创伤释放)](../../02-心智心理/疗法/感官nature/感官/感官SolfeggioFrequencies.md)
-15. [脑波 Alpha-Theta PTSD 引导](../../02-心智心理/疗法/感官nature/感官/感官BrainwaveEntrainment.md)
+14. [频率疗愈 (417Hz 创伤释放)](../../02-心智心理/疗法/感官自然-感官-感官SolfeggioFrequencies.md)
+15. [脑波 Alpha-Theta PTSD 引导](../../02-心智心理/疗法/感官自然-感官-感官BrainwaveEntrainment.md)
 16. [创伤知情冥想](../../02-心智心理/冥想/临床-安全-创伤Informed冥想.md) — 安全引导创伤史冥想者
 
 ## 阶段四：整合与成长

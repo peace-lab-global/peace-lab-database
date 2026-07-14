@@ -45,7 +45,7 @@ last_updated: "2026-06"
 
 | 技能 | 文件 | 位置 |
 |:-----|:-----|:-----|
-| 幸福感评估（PERMA/SWLS/VIA） | [Wellbeing_Assessment_Skill.md](../02-心智心理/心理学/基础/positive心理学/技能/幸福评估Skill.md) | `心理学/基础/positive心理学/技能/` |
+| 幸福感评估（PERMA/SWLS/VIA） | [Wellbeing_Assessment_Skill.md](../02-心智心理/心理学/基础-积极心理学-技能-幸福评估Skill.md) | `心理学/基础/positive心理学/技能/` |
 | 自尊与自我价值评估（RSES/SCS） | [Self_Esteem_Assessment_Skill.md](../02-心智心理/心理学/自我调节-自信心理-技能-SelfEsteem评估Skill.md) | `心理学/selfregulation/selfconfidence/技能/` |
 
 ---

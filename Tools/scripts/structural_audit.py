@@ -30,7 +30,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent
 CONTENT_ROOTS = [d for d in ["01-智慧传统", "02-心智心理",
                              "03-生命科学", "04-人文艺术",
                              "05-实践成长", "06-临床专题",
-                             "07-行业观察", "_meta"]
+                             "07-行业观察"]
                   if (ROOT / d).exists()]
 
 # Dirs that are never "content" and should be skipped entirely.

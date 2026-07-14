@@ -24,7 +24,7 @@ cross_refs:
 > - [恋物癖概览](性偏好障碍-Paraphilia总览.md) - 基础概念和整体框架
 > - [恋物癖神经科学](性偏好障碍-Paraphilia神经科学Biology.md) - 基础神经机制
 > - [具体恋物类型](./) - 各类性迷恋的详细特征
-> - [恋物癖形成机制](../Paraphilia_Formation_Mechanisms.md) - 心理发展机制
+> - [恋物癖形成机制](../INDEX.md) - 心理发展机制
 > - [质量报告](性偏好障碍-ParaphiliaQuality报告.md) - 体系质量评估详情
 
 ## 📖 阅读指引 (Reading Guide)
@@ -43,7 +43,7 @@ cross_refs:
 
 **🔗 相关文档推荐**:
 - 如需了解基础理论，请参阅[恋物癖概览](性偏好障碍-Paraphilia总览.md)
-- 如需心理学机制，请参阅[形成机制](../Paraphilia_Formation_Mechanisms.md)
+- 如需心理学机制，请参阅[形成机制](../INDEX.md)
 - 如需临床应用，请参阅[治疗实践](性偏好障碍-Paraphilia治疗Interventions.md)
 
 ## 神经机制总览 (Neuroscience Overview)

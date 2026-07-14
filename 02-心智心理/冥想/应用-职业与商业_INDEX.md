@@ -33,4 +33,4 @@ cross_refs:
 - [执行师培训](../../../01-智慧传统/瑜伽/修行者培训/INDEX.md)
 - [[执行师认证对比](基础-实践者CertificationComparison.md)](../基础/实践者CertificationComparison.md)
 - [冥想概览](../../01-智慧传统/INDEX.md)
-- [[冥想大师人物档案](../传统/大师/INDEX.md)](../传统/大师/INDEX.md)
+- [[冥想大师人物档案](../INDEX.md)](../传统/大师/INDEX.md)

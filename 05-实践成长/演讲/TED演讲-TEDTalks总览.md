@@ -203,9 +203,9 @@ TED演讲全领域分类体系
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Greg Brockman** | The inside story of ChatGPT's astonishing potential | 2023 | ChatGPT设计原理与应用 | [AI技术](Framework_Technology_Trends.md) | 14:22 | [观看](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential) |
-| **Fei-Fei Li** | How we're teaching computers to understand pictures | 2015 | 计算机视觉革命 | [机器学习](Framework_Technology_Trends.md) | 14:08 | [观看](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) |
-| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](Framework_Technology_Trends.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
+| **Greg Brockman** | The inside story of ChatGPT's astonishing potential | 2023 | ChatGPT设计原理与应用 | [AI技术](INDEX.md) | 14:22 | [观看](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential) |
+| **Fei-Fei Li** | How we're teaching computers to understand pictures | 2015 | 计算机视觉革命 | [机器学习](INDEX.md) | 14:08 | [观看](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) |
+| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](INDEX.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
 
 ### 5.2 生物技术与基因工程
 
@@ -270,13 +270,13 @@ TED演讲全领域分类体系
 |-------|---------|------|----------|------------|------|----------|
 | **Amy Cuddy** | Your body language may shape who you are | 2012 | 身体语言的影响力 | [非言语沟通](../../02-心智心理/心理学/基础-总览-心理学Social.md) | 21:02 | [观看](https://www.ted.com/talks/amy_cuddy_your_body_language_may_shape_who_you_are) |
 | **Chip Kidd** | Designing books is no laughing matter | 2012 | 书籍设计的艺术 | [视觉设计](TED演讲-框架设计审美.md) | 17:33 | [观看](https://www.ted.com/talks/chip_kidd_designing_books_is_no_laughing_matter_ok_it_is) |
-| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术心理学](Psychology_Creative_Arts.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
+| **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术心理学](INDEX.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
 ### 8.2 音乐与表演艺术
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家的聆听艺术 | [音乐心理学](Psychology_Music_Therapy.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
+| **Evelyn Glennie** | How to truly listen | 2003 | 聋人音乐家的聆听艺术 | [音乐心理学](INDEX.md) | 32:49 | [观看](https://www.ted.com/talks/evelyn_glennie_how_to_truly_listen) |
 | **Robert Gupta** | Music is medicine, music is sanity | 2010 | 音乐治疗精神疾病 | [音乐疗法](../../04-人文艺术/媒体/音乐-古典音乐-综合-Classical音乐疗愈Methods.md) | 9:37 | [观看](https://www.ted.com/talks/robert_gupta_music_is_medicine_music_is_sanity) |
 
 ---

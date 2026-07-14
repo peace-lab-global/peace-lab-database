@@ -41,7 +41,7 @@
 
 ```markdown
 ### 5.6 🌌 跨域主题资源 (Cross-Domain Bridges)
-- [**独处哲学资源索引 (Solitude Wisdom Bridge)**](Solitude_Wisdom_Bridge.md) 
+- [**独处哲学资源索引 (Solitude Wisdom Bridge)**](../INDEX.md) 
   — 跨智慧传统与现代心理学的"独处"主题资源桥接文档
   - 涵盖佛教/基督教/瑜伽/冥想/CBT/哲学等六大传统中关于独处的核心智慧
 ```

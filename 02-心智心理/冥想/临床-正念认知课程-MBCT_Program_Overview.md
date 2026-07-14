@@ -300,8 +300,8 @@ MBCT â  preventing depressive relapse through decentering
 
 | ç¸å³æ¨¡å | é¾æ¥ | å³ç³»è¯´æ |
 |---------|------|---------|
-| MBSR 8å¨è¯¾ç¨ | [../mbsr-program/INDEX.md](../正念减压课程/INDEX.md) | çè®ºåæºï¼ç»æç¸ä¼¼ï¼ç®æ äººç¾¤ä¸å |
-| å¥æ³å®å¨ä¸ä¸è¯ååº | [../safety/INDEX.md](../安全/INDEX.md) | æéæ£èç»ä¹ çç¹æ®æ³¨æäºé¡¹ |
+| MBSR 8å¨è¯¾ç¨ | [../mbsr-program/INDEX.md](../INDEX.md) | çè®ºåæºï¼ç»æç¸ä¼¼ï¼ç®æ äººç¾¤ä¸å |
+| å¥æ³å®å¨ä¸ä¸è¯ååº | [../safety/INDEX.md](../INDEX.md) | æéæ£èç»ä¹ çç¹æ®æ³¨æäºé¡¹ |
 | åä¼¤ç¥æå¥æ³ | [../safety/Meditation_Trauma_Sensitive.md](临床-安全-Meditation_Trauma_Sensitive.md) | PTSDå±çæ¶çè¯¾ç¨è°æ´ |
 | ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](基础-总览-Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨ç²¾ç¥å«çä¸­çæ´ä½å®ä½ |
 | ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](基础-总览-Meditation_Neuroscience_Mechanisms.md) | å»ä¸­å¿åçç¥ç»åºç¡ |

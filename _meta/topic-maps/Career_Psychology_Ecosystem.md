@@ -53,8 +53,8 @@ graph TB
 
 ## 相关学习路径
 
-- [职业身心健康路径](../学习路径/Career_Wellbeing_Path.md)
-- [压力韧性路径](../学习路径/压力韧性Path.md)
+- [职业身心健康路径](../INDEX.md)
+- [压力韧性路径](../INDEX.md)
 
 ---
 *返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](.)*

@@ -19,18 +19,18 @@
 
 ## 阶段三：身心放松技术（第5-6周）
 
-7. [睡前拉伸放松](../../03-生命科学/生物学/pre睡眠stretching/Pre睡眠Stretching总览.md)
+7. [睡前拉伸放松](../../03-生命科学/生物学/睡前拉伸-Pre睡眠Stretching总览.md)
 8. [放松技术](../../02-心智心理/心理学/躯体身心/放松/)
 9. [Yoga Nidra 瑜伽睡眠术](../../01-智慧传统/瑜伽/冥想与意识-瑜伽尼德拉.md)
-10. [声音疗愈](../../02-心智心理/疗法/感官nature/感官/感官SoundMedicine.md)
-11. [脑波引导与 Delta 睡眠](../../02-心智心理/疗法/感官nature/感官/感官BrainwaveEntrainment.md)
-12. [Solfeggio 睡眠优化方案](../../02-心智心理/疗法/感官nature/感官/感官SolfeggioFrequencies.md)
+10. [声音疗愈](../../02-心智心理/疗法/感官自然-感官-感官SoundMedicine.md)
+11. [脑波引导与 Delta 睡眠](../../02-心智心理/疗法/感官自然-感官-感官BrainwaveEntrainment.md)
+12. [Solfeggio 睡眠优化方案](../../02-心智心理/疗法/感官自然-感官-感官SolfeggioFrequencies.md)
 
 ## 阶段四：习惯养成（第7-8周）
 
 12. [正念核心实践](../../05-实践成长/个人发展/正念-正念核心.md)
-13. [习惯养成科学](../../05-实践成长/个人发展/主题/Personal发展Habit科学.md)
-14. [每日打卡系统设计](../../05-实践成长/个人发展/dailycheckin/DailyCheckinSystems.md)
+13. [习惯养成科学](../../05-实践成长/个人发展/主题-习惯行为-Personal发展Habit科学.md)
+14. [每日打卡系统设计](../../05-实践成长/个人发展/INDEX.md)
 15. [恢复身心能量](../../03-生命科学/生物学/能量恢复-EnergyRestoration总览.md)
 
 ---

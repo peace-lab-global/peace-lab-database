@@ -99,43 +99,43 @@ cross_refs:
   - [达利 (Dali)](艺术/艺术家-现代-达利.md)
 - [正念艺术与缠绕画 (Mindful Zentangle)](../02-心智心理/疗法/感官自然-感官-感官Zentangle艺术.md)
 
-### 1.5 ✍️ 书法疗愈 (Calligraphy Therapy) — [完整知识地图](艺术/书法疗法/INDEX.md) **[NEW]**
+### 1.5 ✍️ 书法疗愈 (Calligraphy Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [书法疗愈总览 (Calligraphy Therapy Overview)](艺术/书法疗法-书法疗法总览.md) — 理论基础、心理生理机制、不同书法传统
 - [书法疗愈实操指南 (Practice Guide)](艺术/书法疗法-书法实践指南.md) — 工具材料、正念练习、8周计划、工作坊设计
 - [书法疗愈神经科学 (Neuroscience)](艺术/书法疗法-书法神经科学.md) — fMRI/EEG/HRV证据、心流神经基础
 - [书法疗愈临床应用 (Clinical Applications)](艺术/书法疗法-书法临床Applications.md) — 焦虑/抑郁/老年/ADHD/康复方案
 
-### 1.8 📷 摄影疗愈 (Photography Therapy) — [完整知识地图](艺术/摄影疗法/INDEX.md) **[NEW]**
+### 1.8 📷 摄影疗愈 (Photography Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [摄影疗愈总览 (Photography Therapy Overview)](艺术/摄影疗法-摄影疗法总览.md) — Weiser五种技术、正念摄影、PhotoVoice
 - [摄影疗愈实操 (Practice Guide)](艺术/摄影疗法-摄影实践指南.md) — 经典作业、自拍像工作、照片日记、工作坊
 - [摄影疗愈临床应用 (Clinical Applications)](艺术/摄影疗法-摄影临床Applications.md) — 抑郁/PTSD/身体意象/悲伤/老年
 
-### 1.9 🎭 戏剧疗愈与心理剧 (Drama Therapy & Psychodrama) — [完整知识地图](艺术/戏剧疗法/INDEX.md) **[NEW]**
+### 1.9 🎭 戏剧疗愈与心理剧 (Drama Therapy & Psychodrama) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [戏剧疗愈总览 (Drama Therapy Overview)](艺术/戏剧疗法-Drama疗法总览.md) — DT vs 心理剧、Moreno理论、核心方法
 - [心理剧技术详解 (Psychodrama Techniques)](艺术/戏剧疗法-Psychodrama技术.md) — 角色交换/替身/镜像/空椅/社会计量学
 - [戏剧疗愈实操 (Practice Guide)](艺术/戏剧疗法-Drama疗法实践.md) — 暖身活动库、课程设计、面具工作
 - [戏剧疗愈临床应用 (Clinical Applications)](艺术/戏剧疗法-Drama疗法临床.md) — PTSD/ASD/抑郁/老年/企业应用
 
-### 1.10 🌿 园艺疗愈 (Horticultural Therapy) — [完整知识地图](艺术/园艺疗法/INDEX.md) **[NEW]**
+### 1.10 🌿 园艺疗愈 (Horticultural Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [园艺疗愈总览 (Horticultural Therapy Overview)](艺术/园艺疗法-Horticultural疗法总览.md) — ART/SRT理论、活动分类、感官花园
 - [园艺疗愈临床应用 (Clinical Applications)](艺术/园艺疗法-Horticultural疗法临床.md) — 精神健康/老年认知/特殊人群
 - [疗愈花园设计 (Healing Garden Design)](艺术/园艺疗法-疗愈Garden设计.md) — 设计原则、功能分区、无障碍
 
-### 1.11 🏺 陶艺与手工疗愈 (Craft & Pottery Therapy) — [完整知识地图](艺术/手工疗法/INDEX.md) **[NEW]**
+### 1.11 🏺 陶艺与手工疗愈 (Craft & Pottery Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [手工疗愈总览 (Craft Therapy Overview)](艺术/手工疗法-Craft疗法总览.md) — 理论基础、类型对比、正念手工
 - [陶艺疗愈 (Pottery Therapy)](艺术/手工疗法-CraftPottery疗法.md) — 泥土象征、拉坯冥想、侘寂/金缮
 - [纺织编织疗愈 (Textile Therapy)](艺术/手工疗法-CraftTextile疗法.md) — 编织正念、刺绣/纺纱/拼布、编织圈
 
-### 1.12 💃 舞动治疗 (Dance/Movement Therapy) — [完整知识地图](艺术/舞蹈动作疗法/INDEX.md) **[NEW]**
+### 1.12 💃 舞动治疗 (Dance/Movement Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [舞动治疗总览](艺术/舞蹈动作疗法-舞蹈Movement疗法总览.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
 
-### 1.13 📖 叙事疗法 (Narrative Therapy) — [完整知识地图](艺术/叙事疗法/INDEX.md) **[NEW]**
+### 1.13 📖 叙事疗法 (Narrative Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [叙事疗法总览](艺术/叙事疗法-Narrative疗法总览.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
 
-### 1.14 🏖️ 沙盘/沙游治疗 (Sandplay Therapy) — [完整知识地图](艺术/沙盘疗法/INDEX.md) **[NEW]**
+### 1.14 🏖️ 沙盘/沙游治疗 (Sandplay Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [沙盘/沙游治疗总览](艺术/沙盘疗法-Sandplay疗法总览.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
 
-### 1.15 🌲 自然与荒野疗愈 (Nature & Wilderness Therapy) — [完整知识地图](艺术/自然荒野疗法/INDEX.md) **[NEW]**
+### 1.15 🌲 自然与荒野疗愈 (Nature & Wilderness Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
 - [自然与荒野疗愈总览](艺术/自然荒野疗法-NatureWilderness疗法总览.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
 
 ### 2. 🩰 芭蕾艺术全系 (Ballet: From Technique to Therapy)

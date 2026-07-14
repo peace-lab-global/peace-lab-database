@@ -148,4 +148,4 @@
 
 ---
 
-*返回 [INDEX](../README.md)*
+*返回 [INDEX](../INDEX.md)*

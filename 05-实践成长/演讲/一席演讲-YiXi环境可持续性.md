@@ -360,7 +360,7 @@ cross_refs: []
 
 ### 8.3 与现有知识体系对接
 本文件与以下项目模块建立深度链接：
-- [环境心理学](../心理学/Psychology_Environmental.md)
+- [环境心理学](../INDEX.md)
 - [可持续发展理论](框架-框架Sustainable发展.md)
 - [生态文明](框架-框架EcologicalCivilization.md)
 - [绿色经济](框架-框架GreenEconomy.md)

@@ -57,8 +57,8 @@ graph TB
 
 ## 相关学习路径
 
-- [艺术疗愈路径](../学习路径/Art_Healing_Path.md)
-- [智慧老化路径](../学习路径/Aging_Wisdom_Path.md)
+- [艺术疗愈路径](../INDEX.md)
+- [智慧老化路径](../INDEX.md)
 
 ---
 *返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](.)*

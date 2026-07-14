@@ -93,7 +93,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Solomon Asch** | Conformity experiments | 1950s | 经典从众实验重现 | [群体心理学](../../02-心智心理/心理学/基础-总览-心理学Social.md) | 15:22 | [观看](https://www.ted.com/talks/solomon_asch_on_the_line_experiment) |
-| **Adam Grant** | The surprising habits of original thinkers | 2016 | 原创思维者的特质 | [创新心理学](Psychology_Creative_Arts.md) | 15:25 | [观看](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers) |
+| **Adam Grant** | The surprising habits of original thinkers | 2016 | 原创思维者的特质 | [创新心理学](INDEX.md) | 15:25 | [观看](https://www.ted.com/talks/adam_grant_the_surprising_habits_of_original_thinkers) |
 
 ### 3.3 社会认同与群体归属
 
@@ -147,7 +147,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Sandra Aamodt** | Why diets make us fat | 2013 | 大脑体重调节机制 | [神经内分泌](TED演讲-框架BiologicalSciences.md) | 13:29 | [观看](https://www.ted.com/talks/sandra_aamodt_why_diets_make_us_fat) |
-| **Robert Sapolsky** | Why zebras don't get ulcers | 2015 | 压力的神经生物学 | [应激生理](Chronic_Stress_Neuroscience.md) | 19:34 | [观看](https://www.ted.com/talks/robert_sapolsky_why_humans_run_around_in_circles) |
+| **Robert Sapolsky** | Why zebras don't get ulcers | 2015 | 压力的神经生物学 | [应激生理](INDEX.md) | 19:34 | [观看](https://www.ted.com/talks/robert_sapolsky_why_humans_run_around_in_circles) |
 
 ### 5.3 认知神经科学前沿
 
@@ -174,7 +174,7 @@ cross_refs: []
 |-------|---------|------|----------|------------|------|----------|
 | **Emily Esfahani Smith** | There's more to life than being happy | 2017 | 意义四支柱理论 | [存在心理学](../../01-智慧传统/哲学/西方哲学-实用哲学-哲学WesternStoicismExistentialism.md) | 12:20 | [观看](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy) |
 | **Viktor Frankl** | Why believe in others | 1972 | 意义疗法核心思想 | [意义疗法](../../02-心智心理/心理学/特殊专题-哀伤-哀伤Bereavement.md) | 28:15 | [观看](https://www.youtube.com/watch?v=fD1512_XJEw) |
-| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始 | [动机心理学](Psychology_Motivation.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
+| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始 | [动机心理学](INDEX.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
 
 ### 6.3 感恩与积极情绪
 

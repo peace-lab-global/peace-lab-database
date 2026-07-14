@@ -126,24 +126,24 @@ cross_refs: []
   - [快速阅读与深度学习](个人发展/元学习-Speed阅读深度学习.md)
   - [学习迁移与应用](个人发展/元学习-学习TransferApplication.md)
 
-### 1.45 🧭 职业规划与转型 (Career Planning) — [完整知识地图](个人发展/职业规划/INDEX.md) **[NEW]**
+### 1.45 🧭 职业规划与转型 (Career Planning) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [**职业规划体系**](个人发展/职业规划/) — Holland/Super理论/职业锚/Ikigai/转型策略
   - [职业规划总览](个人发展/职业规划-职业Planning总览.md)
   - [职业转型指南](个人发展/职业规划-职业Transition.md)
   - [Ikigai与生命设计](个人发展/职业规划-职业Ikigai.md)
 
-### 1.46 🎯 决策框架 (Decision Making) — [完整知识地图](个人发展/决策制定/INDEX.md) **[NEW]**
+### 1.46 🎯 决策框架 (Decision Making) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [**决策科学体系**](个人发展/决策制定/) — 双系统理论/认知偏差/去偏策略/决策疲劳/极简决策
   - [决策科学总览](个人发展/决策制定-决策制定总览.md)
   - [认知偏差矫正](个人发展/决策制定-决策BiasCorrection.md)
   - [决策疲劳管理](个人发展/决策制定-决策疲劳.md)
 
-### 1.47 🤝 社交资本与人脉经营 (Social Capital) — [完整知识地图](个人发展/社会资本/INDEX.md) **[NEW]**
+### 1.47 🤝 社交资本与人脉经营 (Social Capital) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [**社交资本体系**](个人发展/社会资本/) — Bourdieu/Putnam理论/弱关系/结构洞/邓巴数/关系管理
   - [社交资本总览](个人发展/社会资本-社会资本总览.md)
   - [社交资本实践策略](个人发展/社会资本-社会资本实践.md)
 
-### 1.48 🧠 情商应用 (Emotional Intelligence) — [完整知识地图](个人发展/情商/INDEX.md) **[NEW]**
+### 1.48 🧠 情商应用 (Emotional Intelligence) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [**情商体系**](个人发展/情商/) — Mayer-Salovey/Goleman/Bar-On模型/情绪调节/领导力EQ
   - [情商总览](个人发展/情商-EI总览.md)
   - [情商与领导力/职场](个人发展/情商-EI领导力职场.md)
@@ -211,16 +211,16 @@ cross_refs: []
 - [职场心理危机干预 (Workplace Crisis)](../02-心智心理/心理学/应用心理-职场心理危机-职场心理危机干预.md)
 - [职场倦怠专题 (Occupational Burnout)](../02-心智心理/心理学/应用心理/职业倦怠/) — 倦怠评估、预防干预与恢复随访
 
-### 6. 🧘 疗愈师职业发展 (Healer Career Development) — [完整知识地图](个人发展/疗愈师职业/INDEX.md) **[NEW]**
+### 6. 🧘 疗愈师职业发展 (Healer Career Development) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [**疗愈师职业发展路径**](个人发展/疗愈师职业-Healer职业总览.md) — 职业图谱/认证体系(MBSR/艺术治疗/躯体)/伦理规范/督导/个案管理/自我关怀
 
-### 6.1 🤲 身体工作实践 (Somatic Practice) — [完整知识地图](个人发展/躯体实践/INDEX.md) **[NEW]**
+### 6.1 🤲 身体工作实践 (Somatic Practice) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [身体工作实践总览](个人发展/躯体实践-躯体实践总览.md) — SE/Feldenkrais/SP/BMC/Alexander、自下而上理论、日常实践
 
-### 6.2 🏕️ 静修Retreat设计与运营 (Retreat Design) — [完整知识地图](个人发展/静修设计/INDEX.md) **[NEW]**
+### 6.2 🏕️ 静修Retreat设计与运营 (Retreat Design) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [静修Retreat设计与运营](个人发展/静修设计-静修设计总览.md) — 类型矩阵/设计五要素/3天日程/团体动力/商业运营
 
-### 6.3 ❤️ 自我关怀与同情疲劳 (Self-Compassion) — [完整知识地图](个人发展/自我慈悲/INDEX.md) **[NEW]**
+### 6.3 ❤️ 自我关怀与同情疲劳 (Self-Compassion) — [完整知识地图](个人发展/INDEX.md) **[NEW]**
 - [自我关怀与同情疲劳](个人发展/自我慈悲-自我关怀总览.md) — Neff三成分/MSC 8周/同情疲劳防护/疗愈师日常仪式
 
 ---

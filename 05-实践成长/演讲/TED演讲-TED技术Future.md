@@ -29,9 +29,9 @@ cross_refs: []
 | **Mustafa Suleyman** | What is an AI anyway? | 2024 | 人工智能的本质探讨 | [AI基础理论](TED演讲-框架AI理论.md) | 22:01 | [观看](https://www.ted.com/talks/mustafa_suleyman_what_is_an_ai_anyway) |
 | **Cathie Wood** | Why AI will spark exponential economic growth | 2023 | AI推动指数式经济增长 | [AI经济学](TED演讲-框架AIEconomics.md) | 15:44 | [观看](https://www.ted.com/talks/cathie_wood_why_ai_will_spark_exponential_economic_growth) |
 | **Anima Anandkumar** | The bridge between digital and physical worlds: AI | 2024 | AI连接数字与物理世界 | [AI应用](TED演讲-框架AIApplications.md) | 13:28 | [观看](https://www.ted.com/talks/anima_anandkumar_the_bridge_between_digital_and_physical_worlds_ai) |
-| **Greg Brockman** | The inside story of ChatGPT's astonishing potential | 2023 | ChatGPT设计原理与应用 | [AI技术](Framework_Technology_Trends.md) | 14:22 | [观看](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential) |
-| **Fei-Fei Li** | How we're teaching computers to understand pictures | 2015 | 计算机视觉革命 | [机器学习](Framework_Technology_Trends.md) | 14:08 | [观看](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) |
-| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](Framework_Technology_Trends.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
+| **Greg Brockman** | The inside story of ChatGPT's astonishing potential | 2023 | ChatGPT设计原理与应用 | [AI技术](INDEX.md) | 14:22 | [观看](https://www.ted.com/talks/greg_brockman_the_inside_story_of_chatgpt_s_astonishing_potential) |
+| **Fei-Fei Li** | How we're teaching computers to understand pictures | 2015 | 计算机视觉革命 | [机器学习](INDEX.md) | 14:08 | [观看](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures) |
+| **Samuel Woolley** | How to fight fire with fire: Countering disinformation | 2020 | 对抗虚假信息策略 | [信息战](INDEX.md) | 12:45 | [观看](https://www.ted.com/talks/samuel_woolley_how_to_fight_fire_with_fire_countering_disinformation) |
 
 ### 1.2 AI伦理与社会影响
 
@@ -106,7 +106,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Jill Tarter** | The search for alien intelligence | 2012 | 寻找外星智慧生命 | [天体生物学](TED演讲-框架Astrobiology.md) | 15:33 | [观看](https://www.ted.com/talks/jill_tarter_the_search_for_alien_intelligence) |
-| **Seth Shostak** | ET is (probably) out there | 2015 | 外星生命存在的可能性 | [SETI研究](Framework_SETI_Research.md) | 14:22 | [观看](https://www.ted.com/talks/seth_shostak_et_is_probably_out_there) |
+| **Seth Shostak** | ET is (probably) out there | 2015 | 外星生命存在的可能性 | [SETI研究](INDEX.md) | 14:22 | [观看](https://www.ted.com/talks/seth_shostak_et_is_probably_out_there) |
 
 ---
 

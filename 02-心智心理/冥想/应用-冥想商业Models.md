@@ -109,7 +109,7 @@ cross_refs:
 - [冥想保险与法律](应用-冥想InsuranceLegal.md)
 - [全球冥想中心目录](应用-冥想CentersDirectory.md)
 - [冥想社群与僧团](应用-冥想CommunitySangha.md)
-- [[冥想大师人物档案](../传统/大师/INDEX.md)](../传统/大师/INDEX.md)
+- [[冥想大师人物档案](../INDEX.md)](../传统/大师/INDEX.md)
 - [安迪·普迪科姆 (Headspace)](传统-大师-行业领袖-安迪·普迪科姆.md)
 - [丹·哈里斯 (10% Happier)](传统-大师-行业领袖-丹·哈里斯.md)
 - [Sam Harris (Waking Up)](传统-大师-行业领袖-山姆·哈里斯.md)

@@ -51,8 +51,8 @@ graph TB
 
 ## 相关学习路径
 
-- [疼痛管理路径](../学习路径/Pain_Management_Path.md)
-- [身心整合路径](../学习路径/Body_Mind_Integration_Path.md)
+- [疼痛管理路径](../INDEX.md)
+- [身心整合路径](../INDEX.md)
 
 ---
 *返回 [主题地图索引](../INDEX.md) | 返回根目录 [README.md](.)*

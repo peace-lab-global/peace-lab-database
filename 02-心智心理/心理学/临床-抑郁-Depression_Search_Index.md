@@ -227,7 +227,7 @@ last_disclaimer_added: "2026-06-23"
 
 ---
 
-## [围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+## [围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 
 **章节结构：**
 - 内容索引 | Contents
@@ -268,7 +268,7 @@ last_disclaimer_added: "2026-06-23"
 
 ---
 
-## [老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
+## [老年抑郁 (Geriatric Depression) | Index](INDEX.md)
 
 **章节结构：**
 - 内容索引 | Contents
@@ -294,7 +294,7 @@ last_disclaimer_added: "2026-06-23"
 
 ---
 
-## [青少年抑郁 (Adolescent Depression) | Index](青少年抑郁/INDEX.md)
+## [青少年抑郁 (Adolescent Depression) | Index](INDEX.md)
 
 **章节结构：**
 - 内容索引 | Contents
@@ -305,7 +305,7 @@ last_disclaimer_added: "2026-06-23"
 
 ---
 
-## [seasonal-affective-disorder | Index](季节性情感障碍/INDEX.md)
+## [seasonal-affective-disorder | Index](INDEX.md)
 
 **章节结构：**
 - 内容索引 | Contents
@@ -489,7 +489,7 @@ last_disclaimer_added: "2026-06-23"
 - **Stage 1 TRD**：[Depression Treatment (抑郁症治疗方法)](临床-抑郁-Depression_Treatment.md)
 - **Stage 2 TRD**：[Depression Treatment (抑郁症治疗方法)](临床-抑郁-Depression_Treatment.md)
 - **Stage 3+ TRD**：[Depression Treatment (抑郁症治疗方法)](临床-抑郁-Depression_Treatment.md)
-- **Start Low, Go Slow**：[Geriatric Depression (老年抑郁专题)](临床-抑郁-老年抑郁-Geriatric抑郁.md), [老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
+- **Start Low, Go Slow**：[Geriatric Depression (老年抑郁专题)](临床-抑郁-老年抑郁-Geriatric抑郁.md), [老年抑郁 (Geriatric Depression) | Index](INDEX.md)
 - **Step 1: 普及预防**：[Depression Digital Interventions (抑郁症数字化干预专题)](临床-抑郁-Depression_Digital_Interventions.md)
 - **Step 2: 低强度自助**：[Depression Digital Interventions (抑郁症数字化干预专题)](临床-抑郁-Depression_Digital_Interventions.md)
 - **Step 3: 引导式数字治疗**：[Depression Digital Interventions (抑郁症数字化干预专题)](临床-抑郁-Depression_Digital_Interventions.md)
@@ -522,7 +522,7 @@ last_disclaimer_added: "2026-06-23"
 - **与MAOI禁忌**：[Depression Nutritional Interventions (抑郁症营养干预专题)](临床-抑郁-Depression_Nutritional_Interventions.md)
 - **与抑郁关系**：[Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题)](临床-抑郁-Depression_Chronic_Pain_Comorbidity.md)
 - **专业支持获取**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
-- **专业治疗**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+- **专业治疗**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 - **专业资质标准**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **丙戊酸钠 (Valproate)**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md)
 - **严重发作**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md)
@@ -554,11 +554,11 @@ last_disclaimer_added: "2026-06-23"
 - **产后 3月**：[Peripartum Depression (围产期抑郁专题)](临床-抑郁-围产期抑郁-Peripartum抑郁.md)
 - **产后 4-6周**：[Peripartum Depression (围产期抑郁专题)](临床-抑郁-围产期抑郁-Peripartum抑郁.md)
 - **产后 6月**：[Peripartum Depression (围产期抑郁专题)](临床-抑郁-围产期抑郁-Peripartum抑郁.md)
-- **产后PTSD**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+- **产后PTSD**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 - **产后创伤后应激**：[Peripartum Depression (围产期抑郁专题)](临床-抑郁-围产期抑郁-Peripartum抑郁.md)
-- **产后强迫症**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
-- **产后忧郁 (Baby Blues)**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
-- **产后精神病**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+- **产后强迫症**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
+- **产后忧郁 (Baby Blues)**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
+- **产后精神病**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 - **产后触发**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md)
 - **人工甜味剂**：[Depression Nutritional Interventions (抑郁症营养干预专题)](临床-抑郁-Depression_Nutritional_Interventions.md)
 - **人格障碍**：[Depression Overview (抑郁症概览)](临床-抑郁-Depression_Overview.md)
@@ -612,7 +612,7 @@ last_disclaimer_added: "2026-06-23"
 - **共病模式**：[Adolescent Depression (青少年抑郁专题)](临床-抑郁-青少年抑郁-Adolescent_Depression.md)
 - **共病焦虑**：[Depression Relapse Prevention (抑郁复发预防指南)](临床-抑郁-Depression_Relapse_Prevention.md)
 - **共病物质使用**：[Depression Relapse Prevention (抑郁复发预防指南)](临床-抑郁-Depression_Relapse_Prevention.md)
-- **关注抗胆碱能负担**：[Geriatric Depression (老年抑郁专题)](临床-抑郁-老年抑郁-Geriatric抑郁.md), [老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
+- **关注抗胆碱能负担**：[Geriatric Depression (老年抑郁专题)](临床-抑郁-老年抑郁-Geriatric抑郁.md), [老年抑郁 (Geriatric Depression) | Index](INDEX.md)
 - **关键临床操作**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md)
 - **关键原则**：[Depression & Chronic Pain Comorbidity (抑郁症与慢性疼痛交叉专题)](临床-抑郁-Depression_Chronic_Pain_Comorbidity.md), [Geriatric Depression (老年抑郁专题)](临床-抑郁-老年抑郁-Geriatric抑郁.md)
 - **关键研究**：[Depression Relapse Prevention (抑郁复发预防指南)](临床-抑郁-Depression_Relapse_Prevention.md)
@@ -634,7 +634,7 @@ last_disclaimer_added: "2026-06-23"
 - **功能恢复目标**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md), [季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **功能水平**：[Depression Relapse Prevention (抑郁复发预防指南)](临床-抑郁-Depression_Relapse_Prevention.md)
 - **功能评估**：[Adolescent Depression (青少年抑郁专题)](临床-抑郁-青少年抑郁-Adolescent_Depression.md)
-- **单一用药优先**：[老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
+- **单一用药优先**：[老年抑郁 (Geriatric Depression) | Index](INDEX.md)
 - **单次发作，完全康复**：[Adolescent Depression (青少年抑郁专题)](临床-抑郁-青少年抑郁-Adolescent_Depression.md)
 - **南非醉茄 (Ashwagandha)**：[Depression Nutritional Interventions (抑郁症营养干预专题)](临床-抑郁-Depression_Nutritional_Interventions.md)
 - **卡马西平 (Carbamazepine)**：[Bipolar Depression: Differential Diagnosis & Management (双相抑郁鉴别与管理)](临床-抑郁-Bipolar_Depression_Management.md)
@@ -646,7 +646,7 @@ last_disclaimer_added: "2026-06-23"
 - **双相转化**：[Adolescent Depression (青少年抑郁专题)](临床-抑郁-青少年抑郁-Adolescent_Depression.md)
 - **双相转化警示**：[Adolescent Depression (青少年抑郁专题)](临床-抑郁-青少年抑郁-Adolescent_Depression.md)
 - **同伴支持网络**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
-- **围产期抑郁 (PPD)**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+- **围产期抑郁 (PPD)**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 - **国际专业组织**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **在线资源平台**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **外部质量监督**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
@@ -654,15 +654,15 @@ last_disclaimer_added: "2026-06-23"
 - **奖励系统建立**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **季节性抑郁基础研究**：[季节性抑郁干预策略专业内容体系](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
 - **心理危机援助热线**：[抑郁症 (Depression) | Index](INDEX.md)
-- **抗抑郁可逆转**：[老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
-- **注意药物相互作用**：[老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
+- **抗抑郁可逆转**：[老年抑郁 (Geriatric Depression) | Index](INDEX.md)
+- **注意药物相互作用**：[老年抑郁 (Geriatric Depression) | Index](INDEX.md)
 - **生命热线**：[抑郁症 (Depression) | Index](INDEX.md)
-- **监测低钠血症**：[老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
-- **精神科急症**：[围产期抑郁 (Peripartum Depression) | Index](围产期抑郁/INDEX.md)
+- **监测低钠血症**：[老年抑郁 (Geriatric Depression) | Index](INDEX.md)
+- **精神科急症**：[围产期抑郁 (Peripartum Depression) | Index](INDEX.md)
 - **紧急医疗救助**：[抑郁症 (Depression) | Index](INDEX.md)
-- **艾司西酞普兰**：[青少年抑郁 (Adolescent Depression) | Index](青少年抑郁/INDEX.md)
-- **避免苯二氮卓**：[老年抑郁 (Geriatric Depression) | Index](老年抑郁/INDEX.md)
-- **黑框警告**：[青少年抑郁 (Adolescent Depression) | Index](青少年抑郁/INDEX.md)
+- **艾司西酞普兰**：[青少年抑郁 (Adolescent Depression) | Index](INDEX.md)
+- **避免苯二氮卓**：[老年抑郁 (Geriatric Depression) | Index](INDEX.md)
+- **黑框警告**：[青少年抑郁 (Adolescent Depression) | Index](INDEX.md)
 
 ---
 

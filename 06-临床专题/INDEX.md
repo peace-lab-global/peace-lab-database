@@ -45,10 +45,10 @@ cross_refs: []
 
 | 专题 | 目录 | 文档数 | 核心模块 |
 |:-----|:-----|:------:|:---------|
-| [焦虑障碍](Anxiety/INDEX.md) | `Anxiety/` | 96 | 诊断、评估、药物、心理治疗、危机干预、共病、特殊人群、监测、督导 |
-| [抑郁障碍](Depression/INDEX.md) | `Depression/` | 64 | 诊断、评估、药物、冥想、共病、特殊人群（青少年/老年/围产期/季节性）、安全、督导 |
+| [焦虑障碍](INDEX.md) | `Anxiety/` | 96 | 诊断、评估、药物、心理治疗、危机干预、共病、特殊人群、监测、督导 |
+| [抑郁障碍](INDEX.md) | `Depression/` | 64 | 诊断、评估、药物、冥想、共病、特殊人群（青少年/老年/围产期/季节性）、安全、督导 |
 | [创伤与PTSD](创伤后应激/INDEX.md) | `Trauma-PTSD/` | 19 | DSM-5-TR/ICD-11 诊断鉴别、CPTSD、PCL-5/CAPS-5 评估、PE/CPT/EMDR/SE 干预、ACEs、道德伤害 |
-| [成瘾障碍](Addiction/INDEX.md) | `Addiction/` | 17 | DSM-5-TR SUD 严重度、行为成瘾、赌博/游戏/社交媒体、MAT/CBT/MI/CM 治疗、复发预防与减少伤害 |
+| [成瘾障碍](INDEX.md) | `Addiction/` | 17 | DSM-5-TR SUD 严重度、行为成瘾、赌博/游戏/社交媒体、MAT/CBT/MI/CM 治疗、复发预防与减少伤害 |
 | [进食障碍](进食障碍/INDEX.md) | `Eating-Disorders/` | 20 | AN/BN/BED/ARFID/OSFED 诊断、CBT-E/FBT/IPT/DBT 治疗、特殊人群、营养康复 **[NEW]** |
 | [人格障碍](人格障碍/INDEX.md) | `Personality-Disorders/` | 15 | DSM-5 十型/AMPD 维度模型、BPD/NPD/ASPD/AvPD/DPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]** |
 | [MBCT 正念认知疗法](正念认知/INDEX.md) | `MBCT/` | 30 | 课程、评估、神经科学、药物整合、冥想、安全、督导 |
@@ -77,10 +77,10 @@ cross_refs: []
 
 ## 快速导航
 
-- [焦虑障碍](Anxiety/INDEX.md) — GAD、惊恐、社交焦虑、OCD、PTSD 全体系
-- [抑郁障碍](Depression/INDEX.md) — MDD、双相抑郁、难治性抑郁
+- [焦虑障碍](INDEX.md) — GAD、惊恐、社交焦虑、OCD、PTSD 全体系
+- [抑郁障碍](INDEX.md) — MDD、双相抑郁、难治性抑郁
 - [创伤与PTSD](创伤后应激/INDEX.md) — PTSD/CPTSD 诊断、PE/CPT/EMDR/SE 干预、ACEs、道德伤害
-- [成瘾障碍](Addiction/INDEX.md) — 物质/行为成瘾、赌博/游戏/社交媒体、MI、复发预防、减少伤害
+- [成瘾障碍](INDEX.md) — 物质/行为成瘾、赌博/游戏/社交媒体、MI、复发预防、减少伤害
 - [进食障碍](进食障碍/INDEX.md) — AN/BN/BED/ARFID/OSFED、CBT-E/FBT、特殊人群 **[NEW]**
 - [人格障碍](人格障碍/INDEX.md) — DSM-5/AMPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]**
 - [MBCT](正念认知/INDEX.md) — 8 周正念认知疗法课程与临床整合

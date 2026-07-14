@@ -107,7 +107,7 @@ last_updated: "2026-07"
 | [复杂性 PTSD](诊断-Complex创伤后应激ICD11.md) | 成人 CPTSD |
 | [PTSD 诊断](诊断-创伤创伤后应激诊断andDifferential.md) | 基础诊断 |
 | [儿童创伤成人后遗症](特殊专题-Childhood创伤AdultSequelae.md) | 长期影响 |
-| [创伤评估技能](../技能/Trauma_Assessment_Adult_Sequelae.md) | 评估 |
+| [创伤评估技能](../INDEX.md) | 评估 |
 
 ---
 *返回 [创伤-PTSD 专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*
