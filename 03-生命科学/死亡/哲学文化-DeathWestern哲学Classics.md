@@ -1,20 +1,26 @@
 ---
-title: "Western Classics of Death Philosophy (西方死亡哲学经典导读)"
-description: "Western Classics of Death Philosophy (西方死亡哲学经典导读) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["addiction", "aging", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Western Classics of Death Philosophy (西方死亡哲学经典导读)
+description: Western Classics of Death Philosophy (西方死亡哲学经典导读) —— 生命科学与生物医学 · 死亡学
+  专题
+category: 生命科学与生物医学 > 死亡学
+tags: [addiction, aging, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Western Classics of Death Philosophy"
-  - "Western Classics of Death Philosophy的核心概念"
-  - "Western Classics of Death Philosophy的方法与实践"
-trigger_keywords: ["Western", "Classics", "of", "Death", "Philosophy"]
+- 什么是Western Classics of Death Philosophy
+- Western Classics of Death Philosophy的核心概念
+- Western Classics of Death Philosophy的方法与实践
+trigger_keywords:
+- Western
+- Classics
+- of
+- Death
+- Philosophy
 cross_refs:
-  - path: 01-智慧传统/哲学/西方哲学-古代-古典-伊壁鸠鲁.md
-    relation: "epicurus/死亡/ataraxia"
+- path: 01-智慧传统/哲学/西方哲学/古代/西方哲学-古代-古典-伊壁鸠鲁.md
+  relation: epicurus/死亡/ataraxia
 ---
 # Western Classics of Death Philosophy (西方死亡哲学经典导读)
 

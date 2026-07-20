@@ -1,20 +1,27 @@
 ---
-title: "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)"
-description: "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 'High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience
+  (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)'
+description: 'High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma
+  & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性) —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience"
-  - "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的核心概念"
-  - "High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的方法与实践"
-trigger_keywords: ["High-Risk", "Occupations", "Death", "Exposure:", "Moral"]
+- '什么是High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience'
+- 'High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的核心概念'
+- 'High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience的方法与实践'
+trigger_keywords:
+- High-Risk
+- Occupations
+- Death
+- 'Exposure:'
+- Moral
 cross_refs:
-  - path: "02-心智心理/冥想/临床/临床病症/occupationalburnout/高风险职业.md"
-    relation: "injury/high-risk/moral"
+- path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-职业倦怠-高风险职业.md
+  relation: injury/high-risk/moral
 ---
 # High-Risk Occupations & Death Exposure: Moral Injury, Vicarious Trauma & Resilience (高风险职业的死亡暴露：道德伤害、替代性创伤与心理韧性)
 

@@ -1,20 +1,28 @@
 ---
-title: "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)"
-description: "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "death"]
-last_updated: "2026-05"
-difficulty: "intermediate"
-reading_level: "intermediate"
-estimated_read_time: "5min"
+title: 'Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu
+  & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)'
+description: 'Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu
+  & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义) —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, death]
+last_updated: 2026-05
+difficulty: intermediate
+reading_level: intermediate
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism"
-  - "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的核心概念"
-  - "Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的方法与实践"
-trigger_keywords: ["Death", "Preparation", "in", "Daily", "Life:"]
+- '什么是Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu &
+  Minimalism'
+- 'Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的核心概念'
+- 'Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism的方法与实践'
+trigger_keywords:
+- Death
+- Preparation
+- in
+- Daily
+- 'Life:'
 cross_refs:
-  - path: "05-实践成长/个人发展/minimalismdecluttering/Minimalism_Overview.md"
-    relation: "minimalism/swedish/cleaning"
+- path: 05-实践成长/个人发展/极简断舍离/MinimalismDecluttering总览/极简断舍离-MinimalismDecluttering总览.md
+  relation: minimalism/swedish/cleaning
 ---
 # Death Preparation in Daily Life: Swedish Death Cleaning, Japanese Shūkatsu & Minimalism (生前整理与终活：瑞典死亡清洁、日本终活与极简主义)
 

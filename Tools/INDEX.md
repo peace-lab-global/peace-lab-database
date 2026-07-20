@@ -15,7 +15,7 @@ cross_refs: []
 - [Logs](logs)
 - [Output](output)
 - [Plans](plans)
-- [Qa Corpus](qa-corpus)
+- [Qa Corpus](qa-corpus/INDEX.md)
 - [Reports](reports)
 - [Scripts](scripts)
 - [Tools](tools)

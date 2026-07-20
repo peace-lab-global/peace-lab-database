@@ -1,22 +1,29 @@
 ---
-title: "具身认知跨领域研究 — Embodiment: Tai Chi, Yoga & Cognition"
-description: "以太极与瑜伽为切入点的具身认知跨学科研究：整合身体图式、内感受、运动-认知耦合与多迷走神经理论，探讨身体经验如何塑造心智与情绪调节"
-category: "research"
-tags: ["embodiment", "interoception", "body-schema", "motor-cognition", "polyvagal", "tai-chi", "yoga", "cross-domain"]
-last_updated: "2026-07"
+title: '具身认知跨领域研究 — Embodiment: Tai Chi, Yoga & Cognition'
+description: 以太极与瑜伽为切入点的具身认知跨学科研究：整合身体图式、内感受、运动-认知耦合与多迷走神经理论，探讨身体经验如何塑造心智与情绪调节
+category: research
+tags:
+- embodiment
+- interoception
+- body-schema
+- motor-cognition
+- polyvagal
+- tai-chi
+- yoga
+- cross-domain
+last_updated: 2026-07
 cross_refs:
-  - path: "01-智慧传统/太极拳/神经科学研究/Tai_Chi_Neuroscience_Evidence.md"
-    relation: "太极拳神经科学证据：认知、平衡、HRV、BDNF"
-  - path: "01-智慧传统/瑜伽/解剖科学/Yoga_Neuroscience_Modern_Research.md"
-    relation: "瑜伽神经科学：迷走神经、GABA、岛叶增厚"
-  - path: "03-生命科学/生物学/运动科学/Exercise_Mental_Health.md"
-    relation: "运动-认知耦合与心理健康"
-  - path: 02-心智心理/心理学/躯体身心-躯体-Somatic_Experiencing.md
-    relation: "躯体取向心理学与内感受"
-  - path: "03-生命科学/生物学/心血管/Heart_Rate_Variability.md"
-    relation: "HRV 与多迷走神经理论：自主神经灵活性"
+- path: 01-智慧传统/太极拳/神经科学研究/神经科学研究-太极拳神经科学循证.md
+  relation: 太极拳神经科学证据：认知、平衡、HRV、BDNF
+- path: 01-智慧传统/瑜伽/解剖科学/解剖科学-瑜伽神经科学现代研究.md
+  relation: 瑜伽神经科学：迷走神经、GABA、岛叶增厚
+- path: 03-生命科学/生物学/运动科学/运动科学-Strength培训Fundamentals.md
+  relation: 运动-认知耦合与心理健康
+- path: 02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-Somatic_Experiencing.md
+  relation: 躯体取向心理学与内感受
+- path: 03-生命科学/生物学/心血管/心血管-心RateVariability.md
+  relation: HRV 与多迷走神经理论：自主神经灵活性
 ---
-
 # 具身认知、太极与瑜伽跨领域研究
 
 > **研究定位**：以「身体如何塑造心智」为核心问题，追踪内感受 (interoception)、身体图式 (body schema)、运动-认知耦合 (motor-cognition coupling) 与多迷走神经理论 (polyvagal theory) 如何为太极、瑜伽这两大身心传统的认知效应提供统一解释框架，构建从神经通路到实践技术的完整知识链。
@@ -50,7 +57,7 @@ cross_refs:
 
 ### 2.2 内感受：具身自我的核心通道
 
-> 来源：[Somatic_Experiencing.md](../../../02-心智心理/心理学/躯体身心-躯体-躯体体验.md) 与 [Heart_Rate_Variability.md](../../../03-生命科学/生物学/INDEX.md)
+> 来源：[Somatic_Experiencing.md](../../../02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-躯体体验.md) 与 [Heart_Rate_Variability.md](../../../03-生命科学/生物学/INDEX.md)
 
 A. D. (Bud) Craig 的内感受模型指出：内脏感觉经**迷走神经与脊髓-丘脑通路**上行至脑岛 (insula)，岛叶构建了一张"身体状态的动态地图"，这正是**情绪与自我感的最底层基底**（Damasio 的"原自我" proto-self）。
 
@@ -68,7 +75,7 @@ A. D. (Bud) Craig 的内感受模型指出：内脏感觉经**迷走神经与脊
 
 ### 3.1 太极的多模态神经刺激
 
-> 来源：[Tai_Chi_Neuroscience_Evidence.md](../../../01-智慧传统/太极拳/神经科学研究-太极拳神经科学循证.md)
+> 来源：[Tai_Chi_Neuroscience_Evidence.md](../../../01-智慧传统/太极拳/神经科学研究/神经科学研究-太极拳神经科学循证.md)
 
 太极拳的独特之处在于**同时激活多个神经系统**——它是天然的"多任务神经训练"：
 
@@ -84,7 +91,7 @@ A. D. (Bud) Craig 的内感受模型指出：内脏感觉经**迷走神经与脊
 
 ### 3.2 认知效应的循证证据
 
-> 来源：[Tai_Chi_Neuroscience_Evidence.md](../../../01-智慧传统/太极拳/神经科学研究-太极拳神经科学循证.md) 认知功能研究表
+> 来源：[Tai_Chi_Neuroscience_Evidence.md](../../../01-智慧传统/太极拳/神经科学研究/神经科学研究-太极拳神经科学循证.md) 认知功能研究表
 
 | 认知域 | 效果量 (SMD) | 代表研究 | 机制假说 |
 |:-------|:------------|:---------|:---------|
@@ -125,7 +132,7 @@ A. D. (Bud) Craig 的内感受模型指出：内脏感觉经**迷走神经与脊
 
 ### 4.1 瑜伽影响大脑的核心机制
 
-> 来源：[Yoga_Neuroscience_Modern_Research.md](../../../01-智慧传统/瑜伽/解剖科学-瑜伽神经科学现代研究.md)
+> 来源：[Yoga_Neuroscience_Modern_Research.md](../../../01-智慧传统/瑜伽/解剖科学/解剖科学-瑜伽神经科学现代研究.md)
 
 | 机制 | 瑜伽实践 | 神经通路 | 关键发现 | 代表研究 |
 |:-----|:---------|:---------|:---------|:---------|
@@ -150,7 +157,7 @@ A. D. (Bud) Craig 的内感受模型指出：内脏感觉经**迷走神经与脊
 
 ### 4.3 不同瑜伽练习的脑区激活图谱
 
-> 来源：[Yoga_Neuroscience_Modern_Research.md](../../../01-智慧传统/瑜伽/解剖科学-瑜伽神经科学现代研究.md)
+> 来源：[Yoga_Neuroscience_Modern_Research.md](../../../01-智慧传统/瑜伽/解剖科学/解剖科学-瑜伽神经科学现代研究.md)
 
 | 练习类型 | 主要激活 | 主要抑制 | 功能效应 |
 |:---------|:---------|:---------|:---------|

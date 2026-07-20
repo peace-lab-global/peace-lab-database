@@ -1,0 +1,59 @@
+---
+title: 《不坏真理》Indestructible Truth
+description: 《不坏真理》Indestructible Truth —— World Nonfiction · Spirituality Buddhism
+  专题
+category: 人文与艺术疗愈 > 文学 > World Nonfiction > Spirituality Buddhism
+tags: [dzogchen, yoga, literature]
+last_updated: 2026-05
+difficulty: beginner
+reading_level: beginner
+estimated_read_time: 5min
+intent_queries:
+- 什么是《不坏真理》Indestructible Truth
+- 《不坏真理》Indestructible Truth的核心概念
+- 《不坏真理》Indestructible Truth的方法与实践
+trigger_keywords:
+- dzogchen
+- 《不坏真理》Indestructible
+- Truth
+cross_refs:
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-the-guru-drinks-bourbon-Multi_Perspective_Reviews.md
+  relation: 藏传/佛教
+- path: 02-心智心理/冥想/传统/大师/传统-大师-当代灵性-Reggie_Ray.md
+  relation: ray/reginald/藏传
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
+  relation: 佛教/藏传/死亡
+- path: 04-人文艺术/文学/世界非虚构/冥想正念/a/INDEX.md
+  relation: 藏传/佛教
+---
+# 《不坏真理》Indestructible Truth
+
+>  雷吉·瑞伊（Reginald A. Ray）著，2000年出版。美国佛教学者、香巴拉训练的高级导师。这本书是藏传佛教历史的全面介绍，从印度起源到西藏发展，再到西方传播。被称为"西方语言中关于藏传佛教历史最可靠的著作"。
+
+## 一、总体评价
+
+瑞伊的书解决了现代佛教学习者的一个核心问题：**藏传佛教的各个传统（宁玛、噶举、萨迦、格鲁）之间是什么关系？它们的历史渊源是什么？它们的教义差异在哪里？** 瑞伊以学者的精确和修行者的 respect 来回答这些问题。
+
+## 二、核心内容
+
+### 藏传佛教的四大传统
+
+| 传统 | 特点 | 代表人物 |
+|------|------|---------|
+| **宁玛派** | 最古老，强调大圆满和伏藏 | 莲花生大士、龙钦巴 |
+| **噶举派** | 强调师徒口传和密续修行 | 马尔巴、密勒日巴 |
+| **萨迦派** | 以学术和逻辑分析著称 | 萨迦班智达 |
+| **格鲁派** | 强调戒律和经典学习 | 宗喀巴、达赖喇嘛 |
+
+瑞伊展示了这些传统如何在历史中互动、竞争、融合，最终形成了我们今天看到的藏传佛教。
+
+### 死亡教法的传承
+
+瑞伊特别关注了藏传佛教死亡教法的历史：
+- 《中阴闻教得度》的伏藏传统
+- 颇瓦法的口传传承
+- 光明瑜伽和大圆满的密续基础
+
+## 三、阅读体验
+
+**评分：8.2/10** — 瑞伊的书是一部"学术著作"—— dense、详细、有时 overwhelming。但它对于想要了解"藏传佛教的全貌"的人来说是不可替代的。建议作为"参考书"来使用，而不是从头到尾 linear 阅读。

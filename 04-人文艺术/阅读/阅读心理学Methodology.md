@@ -1,18 +1,25 @@
 ---
-title: "阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης"
-description: "阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题"
-category: "人文与艺术疗愈 > 阅读"
-tags: []
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία
+  Ανάγνωσης
+description: 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία
+  Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题
+category: 人文与艺术疗愈 > 阅读
+tags: [decision-making, bci, habits, literature, productivity]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης"
-  - "阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的核心概念"
-  - "阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的方法与实践"
-  - "阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的自助方法"
-trigger_keywords: ["阅读心理学与方法论", "Reading", "Psychology", "and", "Methodology"]
+- 什么是阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης
+- 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的核心概念
+- 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的方法与实践
+- 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης的自助方法
+trigger_keywords:
+- 阅读心理学与方法论
+- Reading
+- Psychology
+- and
+- Methodology
 cross_refs: []
 ---
 # 阅读心理学与方法论 | Reading Psychology and Methodology | Ψυχολογία και Μεθοδολογία Ανάγνωσης

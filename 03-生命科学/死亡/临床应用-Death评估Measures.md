@@ -1,24 +1,30 @@
 ---
-title: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)"
-description: "Assessment & Measures in Death Studies (死亡专题评估与测量整合手册) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "attachment", "death"]
-last_updated: "2026-05"
-difficulty: "expert"
-reading_level: "expert"
-estimated_read_time: "10min"
+title: Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)
+description: Assessment & Measures in Death Studies (死亡专题评估与测量整合手册) —— 生命科学与生物医学 ·
+  死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, attachment, death]
+last_updated: 2026-05
+difficulty: expert
+reading_level: expert
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Assessment & Measures in Death Studies"
-  - "Assessment & Measures in Death Studies的核心概念"
-  - "Assessment & Measures in Death Studies的方法与实践"
-trigger_keywords: ["Assessment", "Measures", "in", "Death", "Studies"]
+- 什么是Assessment & Measures in Death Studies
+- Assessment & Measures in Death Studies的核心概念
+- Assessment & Measures in Death Studies的方法与实践
+trigger_keywords:
+- Assessment
+- Measures
+- in
+- Death
+- Studies
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/灵性佛教/no-死亡-no-fear.md"
-    relation: "死亡/死亡/fear"
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "死亡/死亡/临终"
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/the-死亡-class.md"
-    relation: "死亡/死亡/临终"
+- path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-no死亡no恐惧.md
+  relation: 死亡/死亡/fear
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 死亡/死亡/临终
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/the/世界非虚构-死亡与临终-the-death-class.md
+  relation: 死亡/死亡/临终
 ---
 # Assessment & Measures in Death Studies (死亡专题评估与测量整合手册)
 

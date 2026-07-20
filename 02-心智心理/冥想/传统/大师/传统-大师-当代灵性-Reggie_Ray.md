@@ -1,0 +1,269 @@
+---
+title: 瑞吉·雷 (Reginald A. Ray / Reggie Ray)
+description: 瑞吉·雷 (Reginald A. Ray / Reggie Ray) —— Masters · Contemporary Spiritual
+  专题
+category: 心智与心理学 > 冥想 > Masters > Contemporary Spiritual
+tags: [dzogchen, mbsr, mindfulness, act]
+last_updated: 2026-05
+difficulty: intermediate
+reading_level: intermediate
+estimated_read_time: 5min
+intent_queries:
+- 什么是瑞吉·雷
+- 瑞吉·雷的核心概念
+- 瑞吉·雷的方法与实践
+trigger_keywords:
+- 瑞吉
+- Reginald
+- A.
+- Ray
+- Reggie
+cross_refs:
+- path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-indestructible-truth.md
+  relation: ray/reginald/藏传
+---
+# 瑞吉·雷 (Reginald A. Ray / Reggie Ray)
+
+> "The body is not a vehicle for the spirit. The body is the spirit."
+> --- Reggie Ray
+
+## 概述 (Overview)
+
+瑞吉·雷（Reginald A. "Reggie" Ray，1946-）是美国藏传佛教导师、冥想教师、学者，以及"萨满了知"（Somatic Meditation / Somatic Descent）方法的主要倡导者。他曾是科罗拉多州那洛巴大学（Naropa University）的佛教教授和教务长，也是秋吉·创巴仁波切（Chögyam Trungpa Rinpoche）的亲密弟子之一。瑞吉·雷以其对藏传佛教、深度身体工作的独特整合而闻名，他主张真正的灵性觉醒必须通过身体——而非仅仅通过心智——来实现。他创立并领导了科罗拉多州博尔德的 Dharma Ocean 基金会，致力于保存和传播藏传佛教噶举派的深层修行传统。
+
+### 基本信息 (Basic Information)
+
+| 项目 | 详情 |
+|------|------|
+| 全名 | Reginald A. Ray |
+| 生年 | 1946年 |
+| 出生地 | 美国（具体地点未广泛公开） |
+| 传承 | 藏传佛教噶举派 / 香巴拉传承 |
+| 主要上师 | 秋吉·创巴仁波切（Chögyam Trungpa Rinpoche） |
+| 主要机构 | Dharma Ocean Foundation（博尔德，科罗拉多州） |
+| 学术背景 | 芝加哥大学宗教史博士（导师：Mircea Eliade） |
+| 代表作 | 《 Touching Enlightenment 》(2008)、《 The Awakening Body 》(2016)、《 Somatic Descent 》(课程) |
+
+---
+
+## 生平与求道历程 (Biography & Spiritual Journey)
+
+### 学术训练
+
+瑞吉·雷最初走上的是学术研究的道路：
+
+- **本科与硕士**：在宗教史和亚洲研究领域接受训练
+- **博士研究**：在芝加哥大学攻读宗教史博士学位，师从著名宗教史学家 **米尔恰·伊利亚德（Mircea Eliade）**
+- **研究方向**：印度教、佛教密宗、萨满教、宗教现象学
+
+他的学术训练使他对宗教传统拥有深厚的历史和比较视野，这后来成为他教学的重要特色。
+
+### 遇见创巴仁波切
+
+1970年代初，瑞吉·雷遇见了 **秋吉·创巴仁波切**，这成为他生命的决定性转折点。
+
+- **亲密弟子关系**：他与创巴仁波切保持了超过20年的密切师生关系
+- **多重角色**：既是学生，也是学术合作者和机构建设者
+- **那洛巴大学**：参与创立了那洛巴大学——北美第一所佛教启发的世俗大学
+
+### 那洛巴大学时期
+
+| 时间 | 角色 | 贡献 |
+|------|------|------|
+| **1970s-2000s** | 佛教教授 | 教授佛教历史、哲学和冥想 |
+| **1990s** | 教务长 | 推动那洛巴大学的学术发展 |
+| **2000年代** | 退休/独立 | 离开那洛巴，专注于 Dharma Ocean |
+
+### Dharma Ocean 的创立
+
+2005年，瑞吉·雷创立了 **Dharma Ocean 基金会**，作为一个独立的非营利组织：
+
+**使命**：
+- 保存创巴仁波切的深层修行传承
+- 发展"萨满了知"修行体系
+- 提供深度、长期的冥想训练
+
+**教学形式**：
+- **线下 Retreat**：在科罗拉多州 Crestone 的荒野 retreat 中心
+- **线上课程**：Dharma Ocean Online 提供系统化的冥想课程
+- **教师培训**：培养"萨满了知"冥想教师
+- **著作和音频**：大量出版物和引导冥想录音
+
+---
+
+## 核心教学体系 (Core Teachings)
+
+### 1. 萨满了知（Somatic Meditation）
+
+瑞吉·雷最具原创性的贡献是将藏传佛教的深层修行与**身体工作**深度整合，发展出"萨满了知"体系。
+
+**核心前提**：
+> "西方灵性传统（以及现代佛教在西方的传播）过度强调心智、思维和概念理解。真正的觉醒发生在身体层面——身体是觉知的根本场域。"
+
+**与主流正念的区别**：
+
+| 维度 | 主流正念（Mindfulness） | 萨满了知（Somatic Meditation） |
+|------|----------------------|----------------------------|
+| **起点** | 注意力和觉察（意识层面） | 身体的存在和感受（前意识层面） |
+| **方法** | 观察呼吸、思维、情绪 | 沉入身体内部；与身体的深层智慧连接 |
+| **目标** | 减少压力；增强觉察 | 通过身体实现灵性觉醒 |
+| **关系** | 观察者-被观察 | 成为身体；与身体合一 |
+| **深度** | 通常较浅（适合大众） | 深层、密集、长期 |
+
+### 2. 身体作为觉悟的场域
+
+瑞吉·雷详细阐述了身体的多层维度：
+
+| 层次 | 名称 | 描述 | 练习 |
+|------|------|------|------|
+| **第一层** | 肉体（Physical Body） | 肌肉、骨骼、器官 | 放松；觉察身体边界 |
+| **第二层** | 能量体（Energetic Body） | 精微的能量流动和感受 | 内感受觉察；能量循环 |
+| **第三层** | 情绪体（Emotional Body） | 情绪的物理表现 | 情绪的身体定位 |
+| **第四层** | 深层身体（Deep Body） | 超越个人的、原初的存在场域 | Somatic Descent |
+| **第五层** | 究竟身体（Ultimate Body） | 空性在身体的体现 | 大手印/大圆满的高级修持 |
+
+### 3. Somatic Descent（身体下沉）
+
+这是瑞吉·雷的核心冥想技术：
+
+**过程**：
+
+```
+1. 准备
+    └── 躺下或舒适坐姿；放下所有努力和目标
+
+2. 沉入身体表面
+    └── 觉察皮肤、肌肉、骨骼的边界感
+    └── 让注意力自然"下沉"到身体内部
+
+3. 进入身体的内在空间
+    └── 不再将身体视为一个固体对象
+    └── 体验身体为广阔的内在空间
+
+4. 深层身体（Deep Body）
+    └── 超越个人的身体边界
+    └── 进入原初的、地元素的场域
+    └── 与大地、自然、宇宙的直接连接
+
+5. 自然觉知（Natural Awareness）
+    └── 在深层身体中，觉知自然显现
+    └── 不需要"制造"觉知；它是身体本身的品质
+```
+
+**关键指导语**：
+> "不要试图觉察身体。让觉察从身体本身升起。"
+> 
+> "身体不是你在里面居住的房子。身体是你。"
+
+### 4. 藏传佛教传承
+
+瑞吉·雷的教学深深植根于藏传佛教噶举派的**大手印（Mahamudra）**和**那洛六法（Six Yogas of Naropa）**：
+
+| 传承元素 | 在瑞吉教学中的体现 |
+|---------|------------------|
+| **大手印** | 直指心性的觉醒；不依赖概念的理解 |
+| **那洛六法** | 深层呼吸法（Tummo/内火）；光明睡眠；中阴修持 |
+| **前行（Ngöndro）** | 传统的加行修持（十万大礼拜等） |
+| **上师瑜伽（Guru Yoga）** | 与创巴仁波切的持续连接 |
+
+---
+
+## 主要著作 (Major Works)
+
+| 书名 | 英文原名 | 出版年 | 核心主题 |
+|------|---------|--------|---------|
+| 《触摸觉悟》 | Touching Enlightenment: Finding Realization in the Body | 2008 | 萨满了知的理论基础 |
+| 《觉醒的身体》 | The Awakening Body: Somatic Meditation for Discovering Our Deepest Life | 2016 | 萨满了知的实践指南 |
+| 《藏传佛教的世界》 | Buddhist Saints in India | 1994 | 学术研究（印度佛教圣者） |
+| 《香巴拉之道》 | The Secret of the Vajra World | 2001 | 藏传佛教金刚乘研究 |
+| 《印度佛教》 | Buddhist Saints in India: A Study in Buddhist Values and Orientations | 1994 | 学术著作 |
+
+---
+
+## 教学与传承 (Teaching & Lineage)
+
+### Dharma Ocean 课程体系
+
+| 级别 | 内容 | 时长 |
+|------|------|------|
+| **基础** | 身体觉察；放松；呼吸 | 数月 |
+| **中级** | Somatic Descent；深层身体工作 | 1-2年 |
+| **高级** | 大手印直指；那洛六法；闭关 | 多年 |
+| **教师培训** | 培养萨满了知引导者 | 3-5年 |
+
+### Retreat 特色
+
+瑞吉·雷的 retreat 以其**深度和强度**著称：
+
+- **时长**：通常 7-10 天，甚至更长
+- **日程**：每天 8-12 小时的正式练习
+- **形式**：大量躺姿冥想（他特别强调躺姿对于身体工作的价值）
+- **环境**：通常在荒野或自然环境中，减少外界干扰
+- **沉默**：长时间的完全静默
+
+### 音频课程
+
+瑞吉·雷录制了大量高质量的引导冥想音频，成为他教学传播的重要方式：
+- "Somatic Descent" 系列
+- "Mahamudra for the Modern World"
+- "The Practice of Pure Awareness"
+
+---
+
+## 影响与评价 (Influence & Assessment)
+
+### 对西方佛教的贡献
+
+| 领域 | 贡献 |
+|------|------|
+| **身体转向** | 推动西方佛教从"心智中心"转向"身体中心" |
+| **深度修行** | 在大众正念流行的时代，坚持提供深度、传统的修行路径 |
+| **学术-修行桥梁** | 以学者和修行者的双重身份，连接学术研究与实修 |
+| **传承保存** | 致力于保存创巴仁波深的深层法教 |
+
+### 与其他身体-冥想方法的比较
+
+| 方法 | 创立者 | 与瑞吉的异同 |
+|------|--------|------------|
+| **正念减压 (MBSR)** | Jon Kabat-Zinn | MBSR 更浅、更医疗化；瑞吉更深、更灵性化 |
+| **身体经验创伤疗法 (SE)** | Peter Levine | SE 聚焦创伤释放；瑞吉聚焦灵性觉醒 |
+| **具身认知（Embodied Cognition）** | 多位研究者 | 学术理论；瑞吉是修行实践 |
+| **瑜伽尼德拉（Yoga Nidra）** | 古印度传统 | 相似的身体放松和深层觉察；瑞吉更融入藏传佛教 |
+| **Feldenkrais / Alexander** | 多位 | 身体教育方法；瑞吉更聚焦冥想和觉醒 |
+
+### 批评与争议
+
+| 议题 | 说明 |
+|------|------|
+| **强度门槛** | 他的 retreat 要求很高，不适合初学者或身体有局限者 |
+| **文化挪用** | 将藏传佛教元素与西方身体工作融合，传统主义者可能质疑 |
+| **对创巴的忠诚** | 他对创巴仁波切的无条件忠诚，在创巴争议之后受到一些批评 |
+| **排他性** | Dharma Ocean 相对独立，与更广泛的佛教社区互动有限 |
+
+---
+
+## 经典语录 (Quotations)
+
+> "The body is not a vehicle for the spirit. The body is the spirit."
+
+> "We do not have a body. We are our body. And our body is the earth."
+
+> "Real meditation is not something we do. It is something that happens when we get out of the way."
+
+> "The body is not an obstacle to enlightenment. The body is enlightenment."
+
+> "In somatic meditation, we are not trying to become something. We are trying to become what we already are."
+
+---
+
+## 相关链接
+
+- [秋吉·创巴仁波切](传统-大师-藏传-Chogyam_Trungpa.md) — 他的根本上师
+- [佩玛·丘卓](传统-大师-藏传-Pema_Chodron.md) — 同门，创巴仁波切的主要弟子
+- [瑜伽尼德拉](INDEX.md) — 相关的身体-冥想传统
+- [身体扫描](../../引导/引导-核心-Scripts身体Scan.md) — 相关的引导练习
+- [创伤知情正念](../../临床/安全/临床-安全-Meditation_Trauma_Sensitive.md) — 身体觉察与创伤安全
+
+---
+
+*Peace Lab Database — 冥想大师人物档案*

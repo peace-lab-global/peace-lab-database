@@ -1,20 +1,22 @@
 ---
-title: "黄帝内经总论 | Neijing Comprehensive Overview"
-description: "黄帝内经总论 | Neijing Comprehensive Overview —— 智慧传承 · 中医内经 专题"
-category: "智慧传承 > 中医内经"
-tags: ["daoism", "gut", "nutrition", "philosophy"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 黄帝内经总论 | Neijing Comprehensive Overview
+description: 黄帝内经总论 | Neijing Comprehensive Overview —— 智慧传承 · 中医内经 专题
+category: 智慧传承 > 中医内经
+tags: [daoism, gut, nutrition, philosophy]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是黄帝内经总论 | Neijing Comprehensive Overview"
-  - "黄帝内经总论 | Neijing Comprehensive Overview的核心概念"
-  - "黄帝内经总论 | Neijing Comprehensive Overview的方法与实践"
-trigger_keywords: ["黄帝内经总论", "daoism"]
+- 什么是黄帝内经总论 | Neijing Comprehensive Overview
+- 黄帝内经总论 | Neijing Comprehensive Overview的核心概念
+- 黄帝内经总论 | Neijing Comprehensive Overview的方法与实践
+trigger_keywords:
+- 黄帝内经总论
+- daoism
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/东方哲学/黄帝内经.md"
-    relation: "黄帝内经/neijing/huangdi"
+- path: 04-人文艺术/文学/世界非虚构/东方哲学/世界非虚构-东方哲学-黄帝内经.md
+  relation: 黄帝内经/neijing/huangdi
 ---
 # 黄帝内经总论 | Neijing Comprehensive Overview
 

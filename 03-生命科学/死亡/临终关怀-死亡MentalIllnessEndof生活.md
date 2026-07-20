@@ -1,22 +1,27 @@
 ---
-title: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)"
-description: "Mental Illness & End-of-Life Care (精神疾病患者的临终关怀) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["cardiovascular", "cbt"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)
+description: Mental Illness & End-of-Life Care (精神疾病患者的临终关怀) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [cardiovascular, cbt]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Mental Illness & End-of-Life Care"
-  - "Mental Illness & End-of-Life Care的核心概念"
-  - "Mental Illness & End-of-Life Care的方法与实践"
-trigger_keywords: ["Mental", "Illness", "End-of-Life", "Care", "精神疾病患者的临终关怀"]
+- 什么是Mental Illness & End-of-Life Care
+- Mental Illness & End-of-Life Care的核心概念
+- Mental Illness & End-of-Life Care的方法与实践
+trigger_keywords:
+- Mental
+- Illness
+- End-of-Life
+- Care
+- 精神疾病患者的临终关怀
 cross_refs:
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "临终/临终关怀/care"
-  - path: "04-人文艺术/文学/worldnonfiction/womencarelife叙事/尽可能好的关怀.md"
-    relation: "临终/care/best"
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/临终关怀/care
+- path: 04-人文艺术/文学/世界非虚构/女性关怀与生命叙事/世界非虚构-女性关怀与生命叙事-尽可能好的关怀.md
+  relation: 临终/care/best
 ---
 # Mental Illness & End-of-Life Care (精神疾病患者的临终关怀)
 

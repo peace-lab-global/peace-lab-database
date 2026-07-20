@@ -1,14 +1,13 @@
 ---
-title: "DBT 辩证行为疗法完整体系 (BPD 一线治疗)"
-description: "Linehan DBT 完整方案：生物社会理论、四模块技能、个体治疗、电话教练、咨询团队会"
-category: "clinical"
-tags: ["DBT", "Linehan", "borderline", "skills-training", "phone-coaching"]
-last_updated: "2026-07"
+title: DBT 辩证行为疗法完整体系 (BPD 一线治疗)
+description: Linehan DBT 完整方案：生物社会理论、四模块技能、个体治疗、电话教练、咨询团队会
+category: clinical
+tags: [DBT, Linehan, borderline, skills-training, phone-coaching]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/治疗/DBT_Eating_Disorders.md"
-    relation: "DBT-ED 改编"
+- path: 06-临床专题/进食障碍/治疗-辩证行为进食障碍.md
+  relation: DBT-ED 改编
 ---
-
 # DBT 辩证行为疗法完整体系 (Dialectical Behavior Therapy)
 
 > **核心定位**：Marsha Linehan 开发的多组件治疗，BPD 的证据最强心理治疗（>30 RCT）。标准 DBT 包含四个必要组件：个体治疗 + 技能团体 + 电话教练 + 咨询团队会。

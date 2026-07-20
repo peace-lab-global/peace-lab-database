@@ -1,16 +1,15 @@
 ---
-title: "进食障碍医学并发症评估"
-description: "进食障碍躯体并发症系统评估：电解质/心脏/骨骼/牙齿/胃肠/内分泌/实验室检查"
-category: "clinical"
-tags: ["medical-complications", "electrolytes", "cardiac", "osteoporosis", "refeeding-syndrome"]
-last_updated: "2026-07"
+title: 进食障碍医学并发症评估
+description: 进食障碍躯体并发症系统评估：电解质/心脏/骨骼/牙齿/胃肠/内分泌/实验室检查
+category: clinical
+tags: [medical-complications, electrolytes, cardiac, osteoporosis, refeeding-syndrome]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/诊断/Anorexia_Nervosa.md"
-    relation: "AN 并发症"
-  - path: "03-生命科学/生物学/心血管/"
-    relation: "心血管科学"
+- path: 06-临床专题/进食障碍/诊断-厌食症神经性.md
+  relation: AN 并发症
+- path: 03-生命科学/生物学/心血管/
+  relation: 心血管科学
 ---
-
 # 进食障碍医学并发症评估 (Medical Complications Assessment)
 
 > **核心定位**：进食障碍是致死率最高的精神障碍类别之一，医学并发症的早期识别与系统评估直接关系到治疗安全。本文覆盖各系统并发症评估方案与紧急处理原则。
@@ -218,7 +217,7 @@ cross_refs:
 | [神经性贪食](诊断-贪食症神经性.md) | BN 并发症 |
 | [评估工具系统](评估-EatingDisorders评估工具.md) | 心理评估 |
 | [营养康复](跨板块-营养Rehabilitation.md) | 再喂养方案 |
-| [03-心血管](../../../03-生命科学/生物学/心血管/) | 跨支柱 |
+| [03-心血管](../../03-生命科学/生物学/心血管/INDEX.md) | 跨支柱 |
 
 ---
 *返回 [进食障碍专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*

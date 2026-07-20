@@ -1,0 +1,53 @@
+---
+title: 《哈菲兹诗集》Poems of Hafiz
+description: 《哈菲兹诗集》Poems of Hafiz —— World Nonfiction · Poetry Spirituality 专题
+category: 人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality
+tags: [literature]
+last_updated: 2026-05
+difficulty: beginner
+reading_level: beginner
+estimated_read_time: 5min
+intent_queries:
+- 什么是《哈菲兹诗集》Poems of Hafiz
+- 《哈菲兹诗集》Poems of Hafiz的核心概念
+- 《哈菲兹诗集》Poems of Hafiz的方法与实践
+trigger_keywords:
+- 文学
+- 《哈菲兹诗集》Poems
+- of
+- Hafiz
+cross_refs:
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
+  relation: 死亡/佛教
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
+  relation: 死亡/佛教
+---
+# 《哈菲兹诗集》Poems of Hafiz
+
+> 哈菲兹（Hafez，约1315–1390年）。波斯最伟大的抒情诗人之一，与鲁米齐名。哈菲兹的诗以"加扎勒"（Ghazal）形式写成，主题是爱、酒、神和死亡。他的诗在伊朗被广泛用来占卜——随机翻开一页，读到的诗就是给你的"神谕"。
+
+## 一、总体评价
+
+哈菲兹的诗有一种特殊的品质——**既神圣又世俗，既庄严又 playful**。他可以在同一首诗中谈论神和酒、爱和欲望、死亡和狂欢。这种"不分离"正是苏菲主义的核心：**神圣和世俗不是对立的，它们是同一现实的两面。**
+
+## 二、核心内容
+
+### "酒"的隐喻
+
+在哈菲兹的诗中，"酒"不是 literal 的酒精——它是**神性的狂喜、爱的陶醉、存在的极乐**：
+
+> "来，让我们喝这杯——不是葡萄的酒，而是爱的酒。"
+
+这种"酒"与鲁米的"旋转"、基督教的"圣灵充满"、佛教的"法喜"是同一经验的不同表达。
+
+### 死亡作为"宴会"
+
+哈菲兹对死亡的态度是**庆祝性的**：
+
+> "死亡是最后的宴会——在那里，我们将与所有的朋友重聚。不要穿丧服来我的葬礼，穿上你最美的衣服，带上你的琴。"
+
+这与《庄子》"鼓盆而歌"、爱尔兰"守灵派对"（Wake）完全一致。
+
+## 三、阅读体验
+
+**评分：9.0/10** — 哈菲兹的诗需要**反复阅读**——第一次读，你看到表面的爱酒；第二次读，你看到深层的神秘；第三次读，你看到两者其实是一回事。Daniel Ladinsky 的现代英译本虽然被批评为"过于自由"，但它成功传达了哈菲兹的精神。

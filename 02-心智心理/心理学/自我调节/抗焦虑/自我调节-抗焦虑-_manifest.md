@@ -1,0 +1,685 @@
+---
+title: "Anti-Anxiety Agent Skills — 技能注册清单"
+description: "Anti-Anxiety Agent Skills — 技能注册清单 —— 自我调节 · Anti Anxiety 专题"
+category: "心智与心理学 > 心理学 > 自我调节 > Anti Anxiety"
+tags: ["anxiety", "brain"]
+last_updated: "2026-05"
+difficulty: "advanced"
+reading_level: "advanced"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Anti-Anxiety Agent Skills — 技能注册清单"
+  - "Anti-Anxiety Agent Skills — 技能注册清单的核心概念"
+  - "Anti-Anxiety Agent Skills — 技能注册清单的方法与实践"
+trigger_keywords: ["Anti-Anxiety", "Agent", "Skills", "技能注册清单"]
+cross_refs: []
+---
+# Anti-Anxiety Agent Skills — 技能注册清单
+
+> 本文档是所有技能的结构化元数据注册表，供智能体自动解析和调用决策使用。
+
+---
+
+## 技能注册表
+
+### ANX_001 — 焦虑状态综合评估
+
+```yaml
+skill_id: ANX_001
+skill_name: 焦虑状态综合评估
+skill_name_en: Comprehensive Anxiety Assessment
+version: 1.0
+role: entry
+category: assessment
+filename: Anxiety_Assessment_Skill.md
+
+entry_trigger:
+  keywords:
+    - "焦虑"
+    - "担心"
+    - "紧张"
+    - "害怕"
+    - "恐惧"
+    - "恐慌"
+    - "心慌"
+    - "坐立不安"
+  scenarios:
+    - 用户主动描述焦虑经历
+    - 用户询问如何评估自己的焦虑状态
+
+prerequisites: []
+prerequisite_logic: null
+entry_criteria:
+  - Q: "用户是否表达了焦虑相关主诉？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否报告了担心、恐惧、紧张等症状？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+entry_required_questions:
+  - "你主要担心什么事情？"
+  - "这种担心有多频繁？"
+  - "你能控制这些担心吗？"
+  - "焦虑对你的生活影响大吗？"
+  - "有没有身体上的不适？（心悸/呼吸困难/出汗等）"
+
+outputs:
+  - "anxiety_assessment_report_v1"
+  schema:
+    - 焦虑类型: GAD/社交焦虑/惊恐/特定恐惧/混合
+    - 严重程度: 轻度/中度/重度 (BAI分数)
+    - 主要担心内容: 分类描述
+    - 身体症状: list
+    - 功能影响: 描述
+    - 建议行动: list
+    - 是否触发其他技能: boolean
+
+contraindications:
+  - "用户正在经历急性惊恐发作 → 优先稳定情绪"
+  - "用户有自杀念头 → 跳转危机干预"
+
+estimated_duration: "10-15分钟（3-5轮对话）"
+evidence_level: B
+skill_chain:
+  next_skills:
+    - skill_id: ANX_002
+      condition: "GAD类型"
+    - skill_id: ANX_005
+      condition: "社交焦虑类型"
+    - skill_id: ANX_006
+      condition: "惊恐症状突出"
+    - skill_id: ANX_003
+      condition: "需要干预"
+  default_next: ANX_003
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_002 — 广泛性焦虑障碍评估
+
+```yaml
+skill_id: ANX_002
+skill_name: 广泛性焦虑障碍评估
+skill_name_en: Generalized Anxiety Disorder Assessment
+version: 1.0
+role: depth
+category: assessment
+filename: GAD_Assessment_Skill.md
+
+entry_trigger:
+  keywords:
+    - "总是担心"
+    - "控制不住"
+    - "各种担心"
+    - "无法放松"
+    - "脑子停不下来"
+  scenarios:
+    - 用户表达持续的、过度的担忧
+    - Anxiety_Assessment 提示 GAD 疑似
+
+prerequisites:
+  - ANX_001
+prerequisite_logic: "AND"
+
+entry_criteria:
+  - Q: "焦虑评估是否已完成？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否有持续的担忧（≥6个月）？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+entry_required_questions:
+  - "你通常担心哪些方面？（工作/健康/家庭/其他）"
+  - "担心的事情有多少是实际发生的？"
+  - "担心的时候身体有什么反应？"
+  - "有没有影响睡眠或日常活动？"
+
+outputs:
+  - "gad_assessment_report_v1"
+  schema:
+    - 担忧内容分类: 工作/健康/家庭/财务/其他
+    - 担忧频率: 每天/大多数天/偶尔
+    - 控制能力: 完全无法/部分控制/基本控制
+    - 生理症状: list
+    - 功能影响: 轻度/中度/重度
+    - GAD诊断疑似: 是/否/需进一步评估
+    - 建议行动: list
+
+contraindications:
+  - "用户有自杀念头 → 立即转介危机干预"
+
+estimated_duration: "10-15分钟（3-4轮）"
+evidence_level: B
+skill_chain:
+  next_skills:
+    - skill_id: ANX_003
+      condition: "需要认知干预"
+    - skill_id: ANX_004
+      condition: "需要日常训练"
+  default_next: ANX_003
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_003 — 焦虑认知重构
+
+```yaml
+skill_id: ANX_003
+skill_name: 焦虑认知重构
+skill_name_en: Anxiety Cognitive Restructuring
+version: 1.0
+role: intervention
+category: intervention
+filename: Cognitive_Restructuring_Skill.md
+
+entry_trigger:
+  keywords:
+    - "认知"
+    - "思维"
+    - "重构"
+    - "灾难化"
+    - "怎么改变"
+    - "怎么调整"
+  scenarios:
+    - 用户已完成焦虑评估，需要认知干预
+    - 用户直接请求改变焦虑思维的方法
+
+prerequisites:
+  - ANX_001
+prerequisite_logic: "OR"
+
+entry_criteria:
+  - Q: "焦虑评估是否已完成？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否有明显的认知扭曲（灾难化/过度担心）？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+outputs:
+  - "cognitive_restructuring_plan_v1"
+  schema:
+    - 识别的主要认知扭曲: list
+    - 重构技术: list
+    - 每日练习: list
+    - 进展监测指标: list
+
+contraindications:
+  - "严重创伤相关焦虑 → 建议专业治疗师引导"
+
+estimated_duration: "15-20分钟（4-5轮）"
+evidence_level: A
+skill_chain:
+  next_skills:
+    - skill_id: ANX_004
+      condition: "需要日常训练"
+    - skill_id: ANX_005
+      condition: "需要暴露练习"
+  default_next: ANX_004
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_004 — 焦虑日常训练协议
+
+```yaml
+skill_id: ANX_004
+skill_name: 焦虑日常训练协议
+skill_name_en: Anxiety Daily Training Protocol
+version: 1.0
+role: tool
+category: tool
+filename: Daily_Training_Protocol_Anxiety.md
+
+entry_trigger:
+  keywords:
+    - "练习"
+    - "每天"
+    - "训练"
+    - "习惯"
+    - "日常"
+  scenarios:
+    - 用户已完成评估或干预，想要日常练习方案
+    - 用户询问如何将技术融入日常生活
+
+prerequisites: []
+prerequisite_logic: null
+
+entry_criteria:
+  - Q: "用户是否有时间进行日常练习？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否承诺进行持续练习（至少2周）？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+outputs:
+  - "daily_training_plan_v1"
+  schema:
+    - 早晨练习: list(正念/呼吸/运动)
+    - 日间练习: list(暂停/接地/认知)
+    - 晚间练习: list(放松/日记/睡眠)
+    - 每周检视: date
+    - 进展评估: 方法
+
+contraindications: []
+
+estimated_duration: "5-10分钟（提供方案）"
+evidence_level: A
+skill_chain:
+  next_skills:
+    - skill_id: ANX_001
+      condition: "2周后复评"
+  default_next: null
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_005 — 社交焦虑评估
+
+```yaml
+skill_id: ANX_005
+skill_name: 社交焦虑评估
+skill_name_en: Social Anxiety Assessment
+version: 1.0
+role: depth
+category: assessment
+filename: Social_Anxiety_Assessment_Skill.md
+
+entry_trigger:
+  keywords:
+    - "社交"
+    - "见人"
+    - "演讲"
+    - "被人评价"
+    - "尴尬"
+    - "害羞"
+  scenarios:
+    - 用户表达对社交场合的恐惧或回避
+    - Anxiety_Assessment 提示社交焦虑类型
+
+prerequisites:
+  - ANX_001
+prerequisite_logic: "AND"
+
+entry_criteria:
+  - Q: "焦虑评估是否已完成？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否对社交场合有明显的恐惧或回避？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+entry_required_questions:
+  - "哪些社交场合让你特别焦虑？"
+  - "主要担心什么？（被评价/尴尬/出丑）"
+  - "你会回避这些场合吗？"
+  - "在这些场合身体有什么反应？"
+  - "这些担心在实际中有多少发生了？"
+
+outputs:
+  - "social_anxiety_report_v1"
+  schema:
+    - 恐惧情境类型: 表演/互动/观察
+    - 主要恐惧内容: list
+    - 回避程度: 完全回避/偶尔回避/尽量避免/可以应对
+    - 生理症状: list
+    - 社交功能影响: 轻度/中度/重度
+    - 社交焦虑严重程度: LSAS分数估算
+    - 建议行动: list
+
+contraindications:
+  - "广场恐惧 → 谨慎使用暴露技术"
+
+estimated_duration: "10-15分钟（3-4轮）"
+evidence_level: B
+skill_chain:
+  next_skills:
+    - skill_id: ANX_006
+      condition: "需要暴露训练"
+    - skill_id: ANX_003
+      condition: "需要认知重构"
+  default_next: ANX_006
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_006 — 暴露训练指南
+
+```yaml
+skill_id: ANX_006
+skill_name: 暴露训练指南
+skill_name_en: Exposure Training Guide
+version: 1.0
+role: intervention
+category: intervention
+filename: Exposure_Training_Guide_Skill.md
+
+entry_trigger:
+  keywords:
+    - "暴露"
+    - "面对"
+    - "勇气"
+    - "逐渐"
+    - "练习"
+  scenarios:
+    - 用户已完成评估，需要系统的暴露训练方案
+    - 用户表示愿意面对恐惧但需要指导
+
+prerequisites:
+  - ANX_001
+prerequisite_logic: "AND"
+
+entry_criteria:
+  - Q: "焦虑评估是否已完成？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否有回避行为需要矫正？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+outputs:
+  - "exposure_plan_v1"
+  schema:
+    - 暴露阶梯: list(情境/SUDs/目标)
+    - 安全行为识别: list
+    - 执行频率: 描述
+    - 记录方法: 描述
+    - 进展评估: 方法
+
+contraindications:
+  - "严重创伤 → 需要专业引导"
+  - "急性惊恐障碍 → 先稳定"
+
+estimated_duration: "10-15分钟（3-4轮）"
+evidence_level: A
+skill_chain:
+  next_skills:
+    - skill_id: ANX_004
+      condition: "需要日常练习"
+  default_next: ANX_004
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_007 — 惊恐障碍评估
+
+```yaml
+skill_id: ANX_007
+skill_name: 惊恐障碍评估
+skill_name_en: Panic Disorder Assessment
+version: 1.0
+role: depth
+category: assessment
+filename: Panic_Assessment_Skill.md
+
+entry_trigger:
+  keywords:
+    - "惊恐"
+    - "恐慌发作"
+    - "突然"
+    - "心悸"
+    - "窒息感"
+    - "濒死感"
+  scenarios:
+    - 用户描述突然发作的强烈恐惧
+    - 用户担心自己会心脏病发作或其他紧急情况
+
+prerequisites:
+  - ANX_001
+prerequisite_logic: "AND"
+
+entry_criteria:
+  - Q: "焦虑评估是否已完成？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否经历过突然的强烈恐惧发作？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+entry_required_questions:
+  - "这些发作通常在什么情况下发生？"
+  - "发作时有什么身体感觉？（心悸/呼吸困难/头晕等）"
+  - "发作持续多久？"
+  - "发作期间你通常怎么做？"
+  - "发作后你担心什么？"
+
+outputs:
+  - "panic_assessment_report_v1"
+  schema:
+    - 发作频率: 次数/周或月
+    - 发作持续时间: 分钟
+    - 发作诱因: 已知/未知
+    - 身体症状: list
+    - 发作期间认知: list
+    - 惊恐障碍疑似: 是/否/需排除其他
+    - 建议行动: list
+
+contraindications:
+  - "胸痛 → 建议立即医学评估排除心脏问题"
+
+estimated_duration: "10-15分钟（3-4轮）"
+evidence_level: B
+skill_chain:
+  next_skills:
+    - skill_id: ANX_008
+      condition: "需要躯体调节"
+    - skill_id: ANX_009
+      condition: "需要睡眠指导"
+  default_next: ANX_008
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_008 — 焦虑躯体调节技术
+
+```yaml
+skill_id: ANX_008
+skill_name: 焦虑躯体调节技术
+skill_name_en: Somatic Regulation Techniques for Anxiety
+version: 1.0
+role: intervention
+category: intervention
+filename: Somatic_Regulation_Techniques.md
+
+entry_trigger:
+  keywords:
+    - "身体"
+    - "心悸"
+    - "呼吸"
+    - "紧张"
+    - "躯体"
+    - "放松"
+  scenarios:
+    - 用户有明显的身体症状（心悸、呼吸困难、肌肉紧张）
+    - 用户需要立即缓解身体焦虑反应的技术
+
+prerequisites: []
+prerequisite_logic: null
+
+entry_criteria:
+  - Q: "用户是否有明显的躯体焦虑症状？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否需要立即缓解技术？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+outputs:
+  - "somatic_regulation_plan_v1"
+  schema:
+    - 快速技术（急性）: list
+    - 短期技术（日常）: list
+    - 长期技术（持续练习）: list
+    - 使用场景指南: 描述
+
+contraindications:
+  - "严重创伤 → 部分技术可能触发闪回"
+
+estimated_duration: "5-10分钟"
+evidence_level: A
+skill_chain:
+  next_skills:
+    - skill_id: ANX_003
+      condition: "需要认知干预"
+  default_next: null
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+### ANX_009 — 睡眠焦虑指导
+
+```yaml
+skill_id: ANX_009
+skill_name: 睡眠焦虑指导
+skill_name_en: Sleep Anxiety Guide
+version: 1.0
+role: intervention
+category: intervention
+filename: Sleep_Anxiety_Skill.md
+
+entry_trigger:
+  keywords:
+    - "睡不着"
+    - "失眠"
+    - "睡前焦虑"
+    - "睡眠"
+  scenarios:
+    - 用户因焦虑而难以入睡
+    - 用户对睡眠本身产生焦虑（睡眠焦虑）
+
+prerequisites: []
+prerequisite_logic: null
+
+entry_criteria:
+  - Q: "用户是否有睡眠相关的焦虑问题？"
+    threshold: true
+    type: boolean
+  - Q: "用户是否对睡眠本身产生焦虑？"
+    threshold: true
+    type: boolean
+
+conflict_skills: []
+outputs:
+  - "sleep_anxiety_guide_v1"
+  schema:
+    - 睡眠卫生: list
+    - 睡前放松技术: list
+    - 认知重构（睡眠焦虑）: list
+    - 刺激控制: list
+    - 何时寻求专业帮助: list
+
+contraindications: []
+
+estimated_duration: "5-10分钟"
+evidence_level: A
+skill_chain:
+  next_skills:
+    - skill_id: ANX_004
+      condition: "需要日常练习"
+  default_next: ANX_004
+
+changelog:
+  - version: 1.0
+    date: 2026-05-18
+    changes: "初始版本"
+```
+
+---
+
+## 技能索引速查表
+
+| ID | 名称 | 角色 | 入口关键词 | 前置要求 | 证据等级 |
+|:--:|:-----|:----:|:-----------|:---------|:--------:|
+| ANX_001 | 焦虑状态综合评估 | entry | 焦虑/担心/紧张/害怕 | 无 | B |
+| ANX_002 | 广泛性焦虑障碍评估 | depth | 总是担心/控制不住 | ANX_001 | B |
+| ANX_003 | 焦虑认知重构 | intervention | 认知/思维/重构 | ANX_001 | A |
+| ANX_004 | 焦虑日常训练协议 | tool | 练习/每天/训练 | 无 | A |
+| ANX_005 | 社交焦虑评估 | depth | 社交/见人/演讲/评价 | ANX_001 | B |
+| ANX_006 | 暴露训练指南 | intervention | 暴露/面对/勇气 | ANX_001 | A |
+| ANX_007 | 惊恐障碍评估 | depth | 惊恐/恐慌/心悸/濒死 | ANX_001 | B |
+| ANX_008 | 焦虑躯体调节技术 | intervention | 心悸/呼吸/身体紧张 | 无 | A |
+| ANX_009 | 睡眠焦虑指导 | intervention | 睡不着/失眠/睡前 | 无 | A |
+
+---
+
+*本清单供智能体程序化解析使用。字段遵循 `_protocol.md` 中定义的 Schema 规范。*
+
+---
+
+## 📞 危机干预资源 | Crisis Resources
+
+> **如果您或您认识的人正在经历心理危机或有自杀念头,请立即寻求帮助。**
+
+### 中国大陆
+
+| 资源 | 联系方式 |
+|---|---|
+| 北京心理危机研究与干预中心 | **010-82951332** (24小时) |
+| 全国心理援助热线 | **400-161-9995** (24小时) |
+| 希望24热线 | **400-161-9995** (24小时) |
+| 生命热线 | **400-821-1215** (24小时) |
+
+### 国际
+
+| 地区 | 资源 | 联系方式 |
+|---|---|---|
+| 🇺🇸 美国 | 988 Suicide & Crisis Lifeline | **988** (24/7) |
+| 🇬🇧 英国 | Samaritans | **116 123** (24/7) |
+| 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
+| 🇹🇼 台湾 | 生命线 | **1995** |
+
+**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+
+**全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
+

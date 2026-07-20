@@ -1,22 +1,28 @@
 ---
-title: "Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)"
-description: "Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["addiction", "brain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 'Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)'
+description: 'Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)
+  —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [addiction, brain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Comparative Philosophy of Death: East-West Dialogues"
-  - "Comparative Philosophy of Death: East-West Dialogues的核心概念"
-  - "Comparative Philosophy of Death: East-West Dialogues的方法与实践"
-trigger_keywords: ["Comparative", "Philosophy", "of", "Death:", "East-West"]
+- '什么是Comparative Philosophy of Death: East-West Dialogues'
+- 'Comparative Philosophy of Death: East-West Dialogues的核心概念'
+- 'Comparative Philosophy of Death: East-West Dialogues的方法与实践'
+trigger_keywords:
+- Comparative
+- Philosophy
+- of
+- 'Death:'
+- East-West
 cross_refs:
-  - path: "04-人文艺术/文学/中国现代文学/当代/redsorghum/Thought_Analysis.md"
-    relation: "vs/死亡"
-  - path: "04-人文艺术/文学/worldnonfiction/东方哲学/庄子.md"
-    relation: "庄子/死亡/道家"
+- path: 04-人文艺术/文学/中国现代文学/当代/red/中国现代文学-当代-red-sorghum-Thought_Analysis.md
+  relation: vs/死亡
+- path: 04-人文艺术/文学/世界非虚构/东方哲学/世界非虚构-东方哲学-庄子.md
+  relation: 庄子/死亡/道家
 ---
 # Comparative Philosophy of Death: East-West Dialogues (比较死亡哲学：中西深度对话)
 

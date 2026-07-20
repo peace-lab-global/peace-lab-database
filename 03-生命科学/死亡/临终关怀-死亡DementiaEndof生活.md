@@ -1,20 +1,24 @@
 ---
-title: "Dementia & End-of-Life Consciousness (失智症与临终意识)"
-description: "Dementia & End-of-Life Consciousness (失智症与临终意识) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "cardiovascular", "pain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: Dementia & End-of-Life Consciousness (失智症与临终意识)
+description: Dementia & End-of-Life Consciousness (失智症与临终意识) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, cardiovascular, pain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Dementia & End-of-Life Consciousness"
-  - "Dementia & End-of-Life Consciousness的核心概念"
-  - "Dementia & End-of-Life Consciousness的方法与实践"
-trigger_keywords: ["Dementia", "End-of-Life", "Consciousness", "失智症与临终意识"]
+- 什么是Dementia & End-of-Life Consciousness
+- Dementia & End-of-Life Consciousness的核心概念
+- Dementia & End-of-Life Consciousness的方法与实践
+trigger_keywords:
+- Dementia
+- End-of-Life
+- Consciousness
+- 失智症与临终意识
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/漫长的告别.md"
-    relation: "哀伤/goodbye/long"
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-漫长的告别.md
+  relation: 哀伤/goodbye/long
 ---
 # Dementia & End-of-Life Consciousness (失智症与临终意识)
 

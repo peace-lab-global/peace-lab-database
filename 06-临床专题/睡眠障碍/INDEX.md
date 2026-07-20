@@ -9,7 +9,7 @@
 - [嗜睡症-Hypersomnia障碍](嗜睡症-Hypersomnia障碍.md)
 - [失眠-失眠慢性管理Psychiatric](失眠-失眠慢性管理Psychiatric.md)
 - [失眠-睡眠失眠临床](失眠-睡眠失眠临床.md)
-- [失眠认知行为-认知行为疗法I方案模板](失眠认知行为-认知行为疗法I方案模板.md)
+- [失眠认知行为-认知行为疗法I方案模板](失眠认知行为/失眠认知行为-认知行为疗法I方案模板.md)
 - [安全-睡眠Disorders安全and自杀Risk](安全-睡眠Disorders安全and自杀Risk.md)
 - [异态睡眠-Parasomnias总览](异态睡眠-Parasomnias总览.md)
 - [昼夜节律-CircadianRhythm障碍](昼夜节律-CircadianRhythm障碍.md)

@@ -1,24 +1,30 @@
 ---
-title: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)"
-description: "Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "attachment", "brain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)
+description: Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼) —— 生命科学与生物医学 · 死亡学
+  专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, attachment, brain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Grief Technology & Digital Mourning"
-  - "Grief Technology & Digital Mourning的核心概念"
-  - "Grief Technology & Digital Mourning的方法与实践"
-trigger_keywords: ["Grief", "Technology", "Digital", "Mourning", "数字哀伤科技与网络哀悼"]
+- 什么是Grief Technology & Digital Mourning
+- Grief Technology & Digital Mourning的核心概念
+- Grief Technology & Digital Mourning的方法与实践
+trigger_keywords:
+- Grief
+- Technology
+- Digital
+- Mourning
+- 数字哀伤科技与网络哀悼
 cross_refs:
-  - path: "02-心智心理/冥想/应用/冥想技术/Meditation_Technology_Overview.md"
-    relation: "ai/ar/vr"
-  - path: "01-智慧传统/瑜伽/现代专业/Yoga_Technology_Digital.md"
-    relation: "ai/vr/digital"
-  - path: "02-心智心理/冥想/专业/专业手册/Professional_Digital_AI.md"
-    relation: "ai/vr/ar"
+- path: 02-心智心理/冥想/应用/应用-Meditation_Technology_Overview.md
+  relation: ai/ar/vr
+- path: 01-智慧传统/瑜伽/现代专业/现代专业-瑜伽技术数字.md
+  relation: ai/vr/digital
+- path: 02-心智心理/冥想/基础/基础-Professional_Digital_AI.md
+  relation: ai/vr/ar
 ---
 # Grief Technology & Digital Mourning (数字哀伤科技与网络哀悼)
 

@@ -1,22 +1,30 @@
 ---
-title: "东西方医学整合跨领域研究 — East–West Integrative Medicine"
-description: "以循证方法评估传统医学（中医、阿育吠陀）与现代医学整合的跨学科研究：涵盖针灸 RCT 与机制、艾灸、中药循证现代化、WHO 整合模型、瑜伽疗法整合、安慰剂/意义反应，以及整合肿瘤与疼痛"
-category: "research"
-tags: ["integrative-medicine", "TCM", "acupuncture", "moxibustion", "ayurveda", "evidence-based", "placebo-response", "WHO", "cross-domain"]
-last_updated: "2026-07"
+title: 东西方医学整合跨领域研究 — East–West Integrative Medicine
+description: 以循证方法评估传统医学（中医、阿育吠陀）与现代医学整合的跨学科研究：涵盖针灸 RCT 与机制、艾灸、中药循证现代化、WHO 整合模型、瑜伽疗法整合、安慰剂/意义反应，以及整合肿瘤与疼痛
+category: research
+tags:
+- integrative-medicine
+- TCM
+- acupuncture
+- moxibustion
+- ayurveda
+- evidence-based
+- placebo-response
+- WHO
+- cross-domain
+last_updated: 2026-07
 cross_refs:
-  - path: "03-生命科学/生物学/中医循证/TCM_Evidence_Overview.md"
-    relation: "中医循证：针灸/艾灸/中药 RCT 与机制"
-  - path: "01-智慧传统/tcmneijing/Neijing_Overview.md"
-    relation: "黄帝内经理论体系与整体观"
-  - path: "01-智慧传统/瑜伽/整合医学/Yoga_Ayurvedic_Therapy_Integration.md"
-    relation: "阿育吠陀与瑜伽疗法的整合框架"
-  - path: "01-智慧传统/瑜伽/临床治疗/Yoga_Therapy.md"
-    relation: "瑜伽理疗评估模型与循证基础"
-  - path: "01-智慧传统/太极拳/临床健康/Tai_Chi_Clinical_Applications.md"
-    relation: "太极/气功临床应用与整合"
+- path: 03-生命科学/生物学/中医循证/中医循证-中医循证总览.md
+  relation: 中医循证：针灸/艾灸/中药 RCT 与机制
+- path: 01-智慧传统/黄帝内经/Neijing总览.md
+  relation: 黄帝内经理论体系与整体观
+- path: 01-智慧传统/瑜伽/整合医学/整合医学-瑜伽阿育吠陀疗法整合.md
+  relation: 阿育吠陀与瑜伽疗法的整合框架
+- path: 01-智慧传统/瑜伽/临床治疗/临床治疗-瑜伽疗法.md
+  relation: 瑜伽理疗评估模型与循证基础
+- path: 01-智慧传统/太极拳/临床健康/临床健康-太极拳临床Applications.md
+  relation: 太极/气功临床应用与整合
 ---
-
 # 东西方医学整合跨领域研究
 
 > **研究定位**：以「循证整合」为核心方法，追踪中医（针灸、艾灸、中药）、阿育吠陀、瑜伽疗法等传统医学体系如何与现代医学在诊断、治疗、预防层面协同，构建从机制证据到临床决策框架的完整知识链。核心立场：既不以"传统智慧"豁免循证，也不以"科学主义"先验否定，而是用最严谨的方法让有效成分浮出水面。
@@ -39,7 +47,7 @@ cross_refs:
 
 ### 2.1 作用机制的多通路证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
 
 | 机制 | 证据要点 | 代表研究 |
 |:-----|:---------|:---------|
@@ -54,7 +62,7 @@ cross_refs:
 
 ### 2.2 RCT/Meta 循证证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证-中医循证总览.md) RCT/Meta 表
+> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md) RCT/Meta 表
 
 | 适应证 | 研究 | 结果 | 证据强度 |
 |:-------|:-----|:-----|:---------|
@@ -86,7 +94,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 3.1 艾灸 (Moxibustion) 的机制与证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
 
 | 机制 | 说明 |
 |:-----|:-----|
@@ -105,7 +113,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 3.2 中药循证与网络药理学
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
 
 | 方剂/成分 | 现代研究 | 适应证 | 意义 |
 |:----------|:---------|:-------|:-----|
@@ -134,7 +142,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 4.1 三大整体观传统的对比
 
-> 来源：[Neijing_Overview.md](../../../01-智慧传统/黄帝内经/Neijing总览.md) 与 [Yoga_Ayurvedic_Therapy_Integration.md](../../../01-智慧传统/瑜伽/整合医学-瑜伽阿育吠陀疗法整合.md)
+> 来源：[Neijing_Overview.md](../../../01-智慧传统/黄帝内经/Neijing总览.md) 与 [Yoga_Ayurvedic_Therapy_Integration.md](../../../01-智慧传统/瑜伽/整合医学/整合医学-瑜伽阿育吠陀疗法整合.md)
 
 | 维度 | 中医（内经） | 阿育吠陀 | 现代功能医学 |
 |:-----|:------------|:---------|:------------|
@@ -162,7 +170,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 5.1 瑜伽理疗 vs 瑜伽课 vs 传统医学
 
-> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗-瑜伽疗法.md)
+> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗/临床治疗-瑜伽疗法.md)
 
 | 维度 | 瑜伽课 | 瑜伽理疗 | 传统医学 |
 |:-----|:-------|:---------|:---------|
@@ -173,7 +181,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 5.2 五鞘 (Pañca Kośa) 评估模型：整体观的现代化
 
-> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗-瑜伽疗法.md)
+> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗/临床治疗-瑜伽疗法.md)
 
 | 评估层 | 鞘 (Kośa) | 评估内容 | 工具 | 现代医学对应 |
 |:-------|:----------|:---------|:-----|:------------|
@@ -187,7 +195,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 5.3 循证基础精选
 
-> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗-瑜伽疗法.md) 循证基础表
+> 来源：[Yoga_Therapy.md](../../../01-智慧传统/瑜伽/临床治疗/临床治疗-瑜伽疗法.md) 循证基础表
 
 | 研究 | 样本 | 主要发现 | 证据等级 |
 |:-----|:-----|:---------|:---------|

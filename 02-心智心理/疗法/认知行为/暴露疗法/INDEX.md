@@ -1,0 +1,23 @@
+---
+title: "暴露疗法 | 暴露疗法"
+description: "目录索引 —— 列出本目录的子目录与文件清单"
+category: "目录索引"
+tags: ["index", "directory"]
+last_updated: "2026-07-18"
+auto_generated: true
+---
+
+# 暴露疗法 | 暴露疗法
+
+> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **3 个直属文件**。
+
+## 📄 文件 | Files (3)
+
+- [认知行为-暴露疗法-evidence-Exposure_RCT_Evidence_Summary.md](认知行为-暴露疗法-evidence-Exposure_RCT_Evidence_Summary.md)
+- [认知行为-暴露疗法-循证研究-ExposureRCT循证摘要.md](认知行为-暴露疗法-循证研究-ExposureRCT循证摘要.md)
+
+
+---
+
+*返回上级: [认知行为](../INDEX.md)*
+*自动生成于 2026-07-18 07:34*

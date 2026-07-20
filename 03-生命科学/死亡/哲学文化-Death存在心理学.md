@@ -1,22 +1,28 @@
 ---
-title: "Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)"
-description: "Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["addiction", "aging", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)
+description: Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)
+  —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [addiction, aging, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Death, Existential Psychology & Being-Toward-Death"
-  - "Death, Existential Psychology & Being-Toward-Death的核心概念"
-  - "Death, Existential Psychology & Being-Toward-Death的方法与实践"
-trigger_keywords: ["Death", "Existential", "Psychology", "Being-Toward-Death", "死亡焦虑"]
+- 什么是Death, Existential Psychology & Being-Toward-Death
+- Death, Existential Psychology & Being-Toward-Death的核心概念
+- Death, Existential Psychology & Being-Toward-Death的方法与实践
+trigger_keywords:
+- Death
+- Existential
+- Psychology
+- Being-Toward-Death
+- 死亡焦虑
 cross_refs:
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "死亡/临终/死亡"
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/the-denial-of-死亡.md"
-    relation: "becker/死亡/死亡"
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 死亡/临终/死亡
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/the/世界非虚构-死亡与临终-the-denial-of-death.md
+  relation: becker/死亡/死亡
 ---
 # Death, Existential Psychology & Being-Toward-Death (死亡焦虑、存在心理学与向死而生)
 

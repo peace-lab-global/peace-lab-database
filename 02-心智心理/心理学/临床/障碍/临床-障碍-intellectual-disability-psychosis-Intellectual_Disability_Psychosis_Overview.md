@@ -1,0 +1,165 @@
+---
+title: "Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览)"
+description: "Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览) —— 精神障碍 · Intellectual Disability Psychosis 专题"
+category: "心智与心理学 > 心理学 > 临床心理 > 精神障碍 > Intellectual Disability Psychosis"
+tags: ["anxiety", "brain", "decision-making"]
+last_updated: "2026-05"
+difficulty: "expert"
+reading_level: "expert"
+estimated_read_time: "5min"
+intent_queries:
+  - "什么是Intellectual Disability with Psychosis Overview"
+  - "Intellectual Disability with Psychosis Overview的核心概念"
+  - "Intellectual Disability with Psychosis Overview的方法与实践"
+trigger_keywords: ["Intellectual", "Disability", "with", "Psychosis", "Overview"]
+cross_refs: []
+disclaimer: true
+last_disclaimer_added: "2026-06-23"
+------
+
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
+
+---
+
+# Intellectual Disability with Psychosis Overview (精神发育迟滞伴发精神障碍概览)
+
+> **精神发育迟滞伴发精神障碍 (Intellectual Disability with Psychosis / ID+P)**
+> 
+> *"当两种脆弱性交汇，诊断和治疗的复杂性呈指数级增长——我们需要更多的耐心、创造力和多学科协作。"*
+> *"When two vulnerabilities converge, diagnostic and treatment complexity grows exponentially — demanding greater patience, creativity, and multidisciplinary collaboration."*
+> 
+> 精神发育迟滞（智力障碍）患者合并精神病性症状是一个诊断和治疗均极具挑战性的临床领域。核心困难在于"诊断遮蔽"——智力障碍本身可能掩盖精神病性症状的识别。本病是中国国家卫健委六类严重精神障碍之一，详见 [严重精神障碍总览](临床-障碍-Severe_Mental_Illness_Overview.md)。
+
+---
+
+## 1. 核心术语与词源表 (Core Terminology & Etymology)
+
+| 术语 (中文) | 英文名 (English Term) | 原始语言/词源 (Original Language) | 词源含义 | 精确定义 | 历史演变 | 专业视角 (Professional Perspective) |
+|---|---|---|---|---|---|---|
+| **精神发育迟滞** | Mental Retardation (旧称) / Intellectual Disability (现用) | 拉丁语: *Intellectus* (理解力) + *Dis-* (缺乏) + *Abilitas* (能力) | "理解能力的缺失" | 智力功能和适应功能的显著限制，发生在发育期（18岁前） | 术语从"白痴/低能"→"精神发育迟滞"→"智力障碍"演变 | DSM-5已改用"智力障碍(ID)"；强调适应功能而非IQ分数 |
+| **诊断遮蔽** | Diagnostic Overshadowing | - | 一个诊断遮蔽另一个 | 临床医生将精神障碍症状错误地归因于智力障碍本身 | Reiss (1982) 首次描述 | 导致ID患者的精神病显著漏诊 |
+| **行为等价物** | Behavioral Equivalents | - | 行为替代症状表达 | ID患者因沟通限制，以行为变化（攻击、退缩、自伤）表达精神痛苦 | 对传统诊断标准的适应性修改 | 需要观察行为变化而非依赖言语报告 |
+| **双重诊断** | Dual Diagnosis | - | 同时存在两种诊断 | 智力障碍合并精神障碍 | 1990年代后得到广泛关注 | 需要专门的评估和治疗方法 |
+| **适应功能** | Adaptive Functioning | 拉丁语: *Adaptare* (调整) | "适应环境的能力" | 概念性、社会性和实用性适应技能 | DSM-5以适应功能为严重度分级主要依据 | 比IQ更能反映实际功能水平 |
+
+---
+
+## 2. 智力障碍分级体系 (ID Severity Classification)
+
+### 表2.1 DSM-5 智力障碍严重度分级 (Severity Levels)
+
+| 严重度 | IQ参考范围 | 概念域 | 社会域 | 实用域 | 占ID人群比例 | 精神病共病风险 |
+|---|---|---|---|---|---|---|
+| **轻度** | 50-69 | 学龄前不明显；学业困难；成人抽象思维受限 | 社交判断不成熟；易受利用；沟通较具体 | 可独立生活；需复杂任务支持 | ~85% | 与一般人群相近-略高 |
+| **中度** | 35-49 | 学业进展缓慢；成人停留在小学水平 | 社会判断和决策能力有限；需支持 | 基本生活自理可能；需监督和协助 | ~10% | 明显升高 |
+| **重度** | 20-34 | 概念理解有限；对语言和数量理解受限 | 言语有限；理解简单语言和手势 | 所有日常活动需协助 | ~3-4% | 高 |
+| **极重度** | <20 | 感觉运动层面；极有限的符号理解 | 极有限的沟通 | 完全依赖他人照料 | ~1-2% | 高（但诊断极困难） |
+
+### 表2.2 ID 患者精神障碍患病率 (Prevalence of Mental Disorders in ID)
+
+| 精神障碍 | ID患者患病率 | 一般人群患病率 | 比值 |
+|---|---|---|---|
+| **任何精神障碍** | 30-40% | 15-20% | 2倍 |
+| **精神病性障碍** | 3-10% | 0.7-1% | 3-10倍 |
+| **情感障碍** | 5-15% | 5-10% | 1-2倍 |
+| **焦虑障碍** | 5-15% | 5-10% | 1-2倍 |
+| **行为障碍** | 20-40% | - | 显著高于一般人群 |
+| **自闭谱系共病** | 10-30% | 1-2% | 与ID严重度正相关 |
+
+---
+
+## 3. 诊断遮蔽与诊断挑战 (Diagnostic Overshadowing & Challenges)
+
+### 表3.1 诊断遮蔽的表现 (How Diagnostic Overshadowing Manifests)
+
+| 遮蔽类型 | 示例 | 正确解读 |
+|---|---|---|
+| **将精神症状归因于ID** | "他自言自语是因为智力低"→实际是幻听 | 需评估自言自语的内容和回应模式 |
+| **将行为变化归因于ID** | "她一直就有攻击行为"→实际是新发精神病性激越 | 关注行为的**变化**而非基线 |
+| **忽视情绪症状** | "他不会抑郁，他不懂什么是抑郁"→实际有抑郁 | ID患者可以且确实会有情绪障碍 |
+| **将沟通困难等同于无症状** | "她说不清楚有没有幻觉，所以应该没有" | 需使用替代评估方法 |
+
+### 表3.2 ID 患者精神病性症状的特殊表现 (Atypical Presentations)
+
+| 标准症状 | 在ID患者中的可能表现 | 评估线索 |
+|---|---|---|
+| **幻听** | 自言自语增加；捂耳朵；对空气说话/生气；突然恐惧 | 行为模式变化；新出现的自言自语 |
+| **视幻觉** | 对着不存在的东西指/看；新发恐惧特定区域 | 回避特定空间；恐惧表情 |
+| **被害妄想** | 拒绝进食（怕被下毒）；攻击性增加；拒绝接触特定人 | 新出现的回避/攻击模式 |
+| **阴性症状** | 活动和社交参与减少（与基线对比） | 功能退化——关键是与**个人基线**对比 |
+| **思维障碍** | 言语更加零散/不连贯（超出基线水平） | 与既往沟通模式对比 |
+
+---
+
+## 4. 适应性诊断方法 (Adapted Diagnostic Approaches)
+
+### 表4.1 诊断标准适配 (Adapted Criteria)
+
+| 诊断系统 | 全称 | 特点 | 适用范围 |
+|---|---|---|---|
+| **DC-LD** | Diagnostic Criteria for Psychiatric Disorders for Use with Adults with Learning Disabilities | 为ID人群专门设计的诊断标准 | 英国使用广泛 |
+| **DM-ID-2** | Diagnostic Manual - Intellectual Disability (2nd Edition) | DSM-5的ID适配版 | 国际使用 |
+| **ICD-11 + 适配指南** | 在ICD-11框架下加入ID特殊考量 | 同时编码ID和精神障碍 | 国际通用 |
+
+### 表4.2 评估原则 (Assessment Principles)
+
+| 原则 | 操作方法 | 目的 |
+|---|---|---|
+| **与基线对比** | 获取患者的功能基线信息——任何变化都可能提示精神障碍 | 识别"改变"而非"现状" |
+| **多来源信息** | 患者+照护者+日间服务人员+家属 | 弥补自我报告不足 |
+| **纵向观察** | 多次评估；记录行为变化时间线 | 排除暂时性/情境性原因 |
+| **简化语言** | 使用简单、具体的问题；避免抽象概念 | 适配沟通能力 |
+| **排除躯体原因** | 疼痛、便秘、感染、甲状腺等可导致行为变化 | ID患者可能无法表达躯体不适 |
+| **环境评估** | 评估生活环境变化（新照护者、搬家、丧失） | 环境应激可触发精神症状 |
+
+---
+
+## 5. 病因学 (Etiology)
+
+### 表5.1 ID 患者精神病易感性因素
+
+| 因素类别 | 具体因素 | 机制 |
+|---|---|---|
+| **神经发育** | 脑结构异常、神经递质系统发育异常 | 同一神经发育损伤可同时导致ID和精神病易感 |
+| **遗传** | 22q11.2缺失综合征（精神病风险25-30%）、Prader-Willi、脆性X | 特定遗传综合征同时增加ID和精神病风险 |
+| **癫痫共病** | ID患者癫痫率20-30% | 癫痫本身增加精神病风险 |
+| **社会因素** | 社交孤立、被欺凌、被虐待、机构化 | 社会逆境增加精神障碍风险 |
+| **心理因素** | 应对能力有限、创伤处理困难 | 有限的认知资源应对应激 |
+| **医源性** | 药物副作用（抗癫痫药、抗精神病药本身） | 需仔细鉴别 |
+
+---
+
+## 6. 流行病学 (Epidemiology)
+
+### 表6.1 流行病学数据
+
+| 指标 | 数据 | 备注 |
+|---|---|---|
+| **中国ID患病率** | ~1-3%（约1500-4000万） | 包括各种严重度 |
+| **ID+精神病共病率** | 3-10% | 比一般人群高3-10倍 |
+| **中国估算ID+精神病患者** | ~150-500万 | 多数未获得精神科诊断 |
+| **诊断遮蔽导致的漏诊率** | 估计30-50%的精神障碍未被识别 | 问题严重 |
+
+---
+
+## 7. 鉴别诊断 (Differential Diagnosis)
+
+### 表7.1 需要鉴别的情况
+
+| 鉴别情况 | 与精神病的区别 | 评估方法 |
+|---|---|---|
+| **自闭谱系障碍的刻板行为** | ASD的重复行为是固定模式；精神病性行为是新发的 | 发展史评估；行为变化时间线 |
+| **躯体不适的行为表达** | 疼痛/便秘/感染可导致激越/攻击/退缩 | 全面体格检查+实验室检查 |
+| **环境变化引发的应激反应** | 搬迁/更换照护者/丧亲可致行为改变 | 环境变化时间线 |
+| **药物副作用** | 抗癫痫药/抗精神病药可致精神症状 | 药物变化与症状的时间关系 |
+| **感觉损害** | 听力/视力下降可导致类似精神病的行为 | 感觉功能评估 |
+
+---
+
+*本文档为 Peace Lab Database 精神发育迟滞伴发精神障碍专项资料。*
+*智力障碍患者的精神健康需求长期被忽视。提高诊断意识、使用适配评估方法和提供个体化治疗是改善这一人群生活质量的关键。*
+
+---
+
+*Created by Peace Lab Database Project*
+*Author: Allen Galler (allengaller@gmail.com)*

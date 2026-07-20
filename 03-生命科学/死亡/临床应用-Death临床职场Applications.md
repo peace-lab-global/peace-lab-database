@@ -1,20 +1,26 @@
 ---
-title: "Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)"
-description: "Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["cbt", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)
+description: Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用) —— 生命科学与生物医学
+  · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [cbt, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Clinical & Workplace Applications in Death Care"
-  - "Clinical & Workplace Applications in Death Care的核心概念"
-  - "Clinical & Workplace Applications in Death Care的方法与实践"
-trigger_keywords: ["Clinical", "Workplace", "Applications", "in", "Death"]
+- 什么是Clinical & Workplace Applications in Death Care
+- Clinical & Workplace Applications in Death Care的核心概念
+- Clinical & Workplace Applications in Death Care的方法与实践
+trigger_keywords:
+- Clinical
+- Workplace
+- Applications
+- in
+- Death
 cross_refs:
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "临终/care/死亡"
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/care/死亡
 ---
 # Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)
 

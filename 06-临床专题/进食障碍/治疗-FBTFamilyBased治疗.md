@@ -1,16 +1,15 @@
 ---
-title: "FBT 家庭治疗 (Family-Based Treatment / Maudsley 方法)"
-description: "FBT 三阶段治疗青少年神经性厌食：家长赋权模型、实施流程、疗效证据"
-category: "clinical"
-tags: ["FBT", "Maudsley", "family-therapy", "adolescent-anorexia", "parental-empowerment"]
-last_updated: "2026-07"
+title: FBT 家庭治疗 (Family-Based Treatment / Maudsley 方法)
+description: FBT 三阶段治疗青少年神经性厌食：家长赋权模型、实施流程、疗效证据
+category: clinical
+tags: [FBT, Maudsley, family-therapy, adolescent-anorexia, parental-empowerment]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/治疗/CBT_E_CBT_for_Eating_Disorders.md"
-    relation: "成人一线替代"
-  - path: "06-临床专题/进食障碍/特殊人群/Adolescent_Eating_Disorders.md"
-    relation: "青少年专题"
+- path: 06-临床专题/进食障碍/治疗-认知行为疗法E认知行为疗法forEatingDisorders.md
+  relation: 成人一线替代
+- path: 06-临床专题/进食障碍/特殊人群-男性EatingDisorders.md
+  relation: 青少年专题
 ---
-
 # FBT 家庭治疗 (Family-Based Treatment)
 
 > **核心定位**：又称 Maudsley 方法，是青少年神经性厌食的**一线循证治疗**。核心理念是将体重恢复的责任暂时交给家长，而非责备家长。
@@ -168,7 +167,7 @@ cross_refs:
 | [青少年 ED](特殊人群-青少年进食障碍.md) | 目标人群 |
 | [神经性厌食](诊断-厌食症神经性.md) | 主要适应症 |
 | [营养康复](跨板块-营养Rehabilitation.md) | Phase 1 执行 |
-| [02-家庭治疗](../../../02-心智心理/心理学/应用心理/亲密关系/婚姻/) | 理论基础 |
+| [02-家庭治疗](../../02-心智心理/心理学/应用心理/亲密关系/婚姻/INDEX.md) | 理论基础 |
 
 ---
 *返回 [进食障碍专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*

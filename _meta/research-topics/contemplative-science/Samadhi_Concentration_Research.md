@@ -1,30 +1,35 @@
 ---
-title: "定力跨领域研究 — Concentration/Samādhi Cross-Domain Research"
-description: "定力的跨领域综合研究：从佛教三种定力分类、冥想课程训练方法，到太极站桩、瑜伽隔离、禅宗战略定力，以及 IT 打工人工位定力方案与现代认知科学的对应框架"
-category: "research"
-tags: ["定力", "samādhi", "concentration", "meditation", "embodiment", "cross-domain"]
-last_updated: "2026-06"
+title: 定力跨领域研究 — Concentration/Samādhi Cross-Domain Research
+description: 定力的跨领域综合研究：从佛教三种定力分类、冥想课程训练方法，到太极站桩、瑜伽隔离、禅宗战略定力，以及 IT 打工人工位定力方案与现代认知科学的对应框架
+category: research
+tags:
+- 定力
+- samādhi
+- concentration
+- meditation
+- embodiment
+- cross-domain
+last_updated: 2026-06
 cross_refs:
-  - path: 01-智慧传统/宗教/佛教-冥想-Buddhism_Samatha_Vipassana.md
-    relation: "三种定力分类的理论基础"
-  - path: 01-智慧传统/宗教/佛教-南传上座部-Theravada_Vipassana_Traditions.md
-    relation: "各传承对定力的不同要求"
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md"
-    relation: "定力解决问题的核心作用与训练方法"
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md"
-    relation: "定力训练的六个关键词"
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/course/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md"
-    relation: "影像稳定性与定力的关系、动中定"
-  - path: "01-智慧传统/太极拳/基本功/TaiChi_Zhanzhuang_Standing.md"
-    relation: "站桩对定力的培养"
-  - path: 01-智慧传统/哲学/南亚-印度-Philosophy_Eastern_Indian_Schools.md
-    relation: "数论派通过定力隔离神我"
-  - path: "01-智慧传统/宗教/禅宗/Zen_Sutras_In_Depth.md"
-    relation: "金刚经战略定力"
-  - path: "05-实践成长/个人发展/专注/Focus_Core.md"
-    relation: "专注力核心理论与认知科学"
+- path: 01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md
+  relation: 三种定力分类的理论基础
+- path: 01-智慧传统/宗教/佛教/南传上座部/佛教-南传上座部-Theravada_Vipassana_Traditions.md
+  relation: 各传承对定力的不同要求
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/冥想与止观/冥想与止观：第七讲：定力如何解决问题.md
+  relation: 定力解决问题的核心作用与训练方法
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/冥想与止观/冥想与止观：第五讲：练习止的关键词-2.md
+  relation: 定力训练的六个关键词
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/冥想与止观/冥想与止观：第十一讲：止观共同的关键词.md
+  relation: 影像稳定性与定力的关系、动中定
+- path: 01-智慧传统/太极拳/基本功/基本功-太极拳ZhanzhuangStanding.md
+  relation: 站桩对定力的培养
+- path: 01-智慧传统/哲学/南亚/印度/南亚-印度-Philosophy_Eastern_Indian_Schools.md
+  relation: 数论派通过定力隔离神我
+- path: 01-智慧传统/宗教/禅宗/禅宗经论深研/禅宗-禅宗经论深研.md
+  relation: 金刚经战略定力
+- path: 05-实践成长/个人发展/专注/专注核心/专注-专注核心.md
+  relation: 专注力核心理论与认知科学
 ---
-
 # 定力（Samādhi / Concentration）跨领域研究
 
 > **研究定位**：以「定力」为切入点，追踪这一概念在佛教冥想体系、身心实践传统、冥想课程、现代认知科学中的不同表述与交叉验证，构建从技术层到应用层的完整知识链。
@@ -46,7 +51,7 @@ cross_refs:
 
 ### 2.1 核心分类表
 
-> 来源：[Buddhism_Samatha_Vipassana.md](../../../01-智慧传统/宗教/佛教-冥想-佛教止观.md)
+> 来源：[Buddhism_Samatha_Vipassana.md](../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教止观.md)
 
 | 定力类型 | 巴利语 | 英文 | 深度 | 特征 | 维持时间 | 适用修法 | 日常比喻 |
 |---|---|---|---|---|---|---|---|
@@ -66,7 +71,7 @@ cross_refs:
 
 ### 2.3 各传承的定力要求
 
-> 来源：[Theravada_Vipassana_Traditions.md](../../../01-智慧传统/宗教/佛教-南传上座部-南传观Traditions.md)
+> 来源：[Theravada_Vipassana_Traditions.md](../../../01-智慧传统/宗教/佛教/南传上座部/佛教-南传上座部-南传观Traditions.md)
 
 | 传承 | 定力要求 | 路线 |
 |:-----|:---------|:-----|
@@ -143,7 +148,7 @@ cross_refs:
 
 ### 4.2 瑜伽：定力隔离神我
 
-> 来源：[Philosophy_Eastern_Indian_Schools.md](../../../01-智慧传统/哲学/南亚-印度-哲学EasternIndian流派.md)
+> 来源：[Philosophy_Eastern_Indian_Schools.md](../../../01-智慧传统/哲学/南亚/印度/南亚-印度-哲学EasternIndian流派.md)
 
 | 学派 | 解脱路径 | 世界本质 |
 |:-----|:---------|:---------|
@@ -155,7 +160,7 @@ cross_refs:
 
 ### 4.3 禅宗：战略定力
 
-> 来源：[Zen_Sutras_In_Depth.md](../../../01-智慧传统/宗教/禅宗-禅宗经论深研.md)
+> 来源：[Zen_Sutras_In_Depth.md](../../../01-智慧传统/宗教/禅宗/禅宗经论深研/禅宗-禅宗经论深研.md)
 
 《金刚经》核心句「凡所有相，皆是虚妄」的现代应用：**建立长远的战略定力**，不被表象、名声、暂时得失所困。
 
@@ -167,7 +172,7 @@ cross_refs:
 
 ### 5.1 专注力核心理论
 
-> 来源：[Focus_Core.md](../../../05-实践成长/个人发展/专注-专注核心.md)
+> 来源：[Focus_Core.md](../../../05-实践成长/个人发展/专注/专注核心/专注-专注核心.md)
 
 | 传统概念 | 认知科学对应 | 说明 |
 |:---------|:-------------|:-----|

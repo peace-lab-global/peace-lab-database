@@ -1,22 +1,32 @@
 ---
-title: "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης"
-description: "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题"
-category: "人文与艺术疗愈 > 阅读"
-tags: ["decision-making"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών
+  Ανάγνωσης
+description: 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης
+  Διαταραχών Ανάγνωσης —— 人文与艺术疗愈 · 阅读 专题
+category: 人文与艺术疗愈 > 阅读
+tags: [decision-making]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης"
-  - "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的核心概念"
-  - "阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης的方法与实践"
-trigger_keywords: ["阅读障碍干预体系", "Reading", "Disorders", "Intervention", "System"]
+- 什么是阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών
+  Ανάγνωσης
+- 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών
+  Ανάγνωσης的核心概念
+- 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών
+  Ανάγνωσης的方法与实践
+trigger_keywords:
+- 阅读障碍干预体系
+- Reading
+- Disorders
+- Intervention
+- System
 cross_refs:
-  - path: 02-心智心理/冥想/临床-临床病症-Meditation_Anxiety_Disorders.md
-    relation: "障碍/障碍s/神经可塑性"
-  - path: 02-心智心理/心理学/行为心理-恋尸癖-Necrophilia_Clinical_Diagnosis.md
-    relation: "障碍/障碍s"
+- path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-Meditation_Anxiety_Disorders.md
+  relation: 障碍/障碍s/神经可塑性
+- path: 02-心智心理/心理学/行为心理/恋尸癖/行为心理-恋尸癖-Necrophilia_Clinical_Diagnosis.md
+  relation: 障碍/障碍s
 ---
 # 阅读障碍干预体系 | Reading Disorders Intervention System | Σύστημα Παρέμβασης Διαταραχών Ανάγνωσης
 

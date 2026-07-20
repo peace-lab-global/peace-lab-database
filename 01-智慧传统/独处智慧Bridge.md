@@ -1,26 +1,30 @@
 ---
-title: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)"
-description: "智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge) —— 智慧传承 专题"
-category: "智慧传承"
-tags: ["buddhism", "cbt", "meditation", "philosophy", "christianity", "yoga"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)
+description: 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge) —— 智慧传承 专题
+category: 智慧传承
+tags: [buddhism, cbt, meditation, philosophy, christianity, yoga]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是智慧传承中的独处哲学资源索引"
-  - "智慧传承中的独处哲学资源索引的核心概念"
-  - "智慧传承中的独处哲学资源索引的方法与实践"
-trigger_keywords: ["智慧传承中的独处哲学资源索引", "Solitude", "Wisdom", "Bridge"]
+- 什么是智慧传承中的独处哲学资源索引
+- 智慧传承中的独处哲学资源索引的核心概念
+- 智慧传承中的独处哲学资源索引的方法与实践
+trigger_keywords:
+- 智慧传承中的独处哲学资源索引
+- Solitude
+- Wisdom
+- Bridge
 cross_refs:
-  - path: "02-心智心理/心理学/社会心理/独处/INDEX.md"
-    relation: "独处/bridge/智慧"
-  - path: 02-心智心理/心理学/社会心理-独处-Solitude_Philosophy.md
-    relation: "独处/道家/智慧"
-  - path: "04-人文艺术/文学/worldnonfiction/东方哲学/慎子.md"
-    relation: "无为/道家/智慧"
-  - path: 02-心智心理/心理学/社会心理-独处-Solitude_Loneliness_Bridge.md
-    relation: "bridge/独处"
+- path: 02-心智心理/心理学/社会心理/独处/INDEX.md
+  relation: 独处/bridge/智慧
+- path: 02-心智心理/心理学/社会心理/独处/社会心理-独处-Solitude_Philosophy.md
+  relation: 独处/道家/智慧
+- path: 04-人文艺术/文学/世界非虚构/东方哲学/世界非虚构-东方哲学-慎子.md
+  relation: 无为/道家/智慧
+- path: 02-心智心理/心理学/社会心理/独处/社会心理-独处-Solitude_Loneliness_Bridge.md
+  relation: bridge/独处
 ---
 # 智慧传承中的独处哲学资源索引 (Solitude Wisdom Bridge)
 

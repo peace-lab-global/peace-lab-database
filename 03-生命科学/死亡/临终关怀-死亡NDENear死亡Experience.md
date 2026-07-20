@@ -1,26 +1,32 @@
 ---
-title: "Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)"
-description: "Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["brain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)
+description: Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识) —— 生命科学与生物医学
+  · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [brain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Near-Death Experience & End-of-Life Consciousness"
-  - "Near-Death Experience & End-of-Life Consciousness的核心概念"
-  - "Near-Death Experience & End-of-Life Consciousness的方法与实践"
-trigger_keywords: ["Near-Death", "Experience", "End-of-Life", "Consciousness", "濒死体验与临终意识"]
+- 什么是Near-Death Experience & End-of-Life Consciousness
+- Near-Death Experience & End-of-Life Consciousness的核心概念
+- Near-Death Experience & End-of-Life Consciousness的方法与实践
+trigger_keywords:
+- Near-Death
+- Experience
+- End-of-Life
+- Consciousness
+- 濒死体验与临终意识
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/科学意识濒死体验/生活after生活.md"
-    relation: "nde/near-死亡/experience"
-  - path: "04-人文艺术/文学/worldnonfiction/womencarelife叙事/the艺术ofdying.md"
-    relation: "nde/临终/死亡"
-  - path: "04-人文艺术/文学/worldnonfiction/科学意识濒死体验/h全部ucinations.md"
-    relation: "nde/临终/神经科学"
-  - path: "04-人文艺术/文学/worldnonfiction/INDEX.md"
-    relation: "nde/临终/临终关怀"
+- path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/世界非虚构-科学意识濒死体验-生活after生活.md
+  relation: nde/near-死亡/experience
+- path: 04-人文艺术/文学/世界非虚构/女性关怀与生命叙事/世界非虚构-女性关怀与生命叙事-the艺术ofdying.md
+  relation: nde/临终/死亡
+- path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/世界非虚构-科学意识濒死体验-hallucinations.md
+  relation: nde/临终/神经科学
+- path: 04-人文艺术/文学/世界非虚构/INDEX.md
+  relation: nde/临终/临终关怀
 ---
 # Near-Death Experience & End-of-Life Consciousness (濒死体验与临终意识)
 

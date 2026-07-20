@@ -1,18 +1,22 @@
 ---
-title: "创伤身心 — Trauma, Body & Mind"
-description: "创伤的躯体编码与身心疗愈：从多迷走神经理论到躯体疗法、瑜伽/太极的创伤干预"
-category: "research"
-tags: ["trauma", "somatic", "polyvagal", "body-mind", "healing"]
-last_updated: "2026-06"
+title: 创伤身心 — Trauma, Body & Mind
+description: 创伤的躯体编码与身心疗愈：从多迷走神经理论到躯体疗法、瑜伽/太极的创伤干预
+category: research
+tags:
+- trauma
+- somatic
+- polyvagal
+- body-mind
+- healing
+last_updated: 2026-06
 cross_refs:
-  - path: "02-心智心理/心理学/临床/创伤/"
-    relation: "创伤心理学"
-  - path: "03-生命科学/生物学/hpaaxis/"
-    relation: "HPA轴与应激"
-  - path: "01-智慧传统/瑜伽/"
-    relation: "创伤敏感瑜伽"
+- path: 02-心智心理/心理学/临床/创伤/
+  relation: 创伤心理学
+- path: 03-生命科学/生物学/HPA轴/INDEX.md
+  relation: HPA轴与应激
+- path: 01-智慧传统/瑜伽/
+  relation: 创伤敏感瑜伽
 ---
-
 # 创伤身心 — Trauma, Body & Mind
 
 > **课题方向**：研究创伤如何在身体中编码与表达，探索身心整合干预路径对创伤恢复的独特贡献。

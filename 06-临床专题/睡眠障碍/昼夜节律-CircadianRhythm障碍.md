@@ -1,13 +1,12 @@
 ---
 disclaimer: true
-last_disclaimer_added: "2026-06-23"
-title: "昼夜节律睡眠-觉醒障碍 | Circadian Rhythm Sleep-Wake Disorders"
-description: "昼夜节律睡眠-觉醒障碍是一组由于内源性昼夜节律与环境/社会需求不同步导致的睡眠-觉醒时序异常，表现为入睡困难、日间嗜睡或两者兼有。"
-category: "临床专题 > Sleep-Disorders"
-last_updated: "2026-06"
+last_disclaimer_added: '2026-06-23'
+title: 昼夜节律睡眠-觉醒障碍 | Circadian Rhythm Sleep-Wake Disorders
+description: 昼夜节律睡眠-觉醒障碍是一组由于内源性昼夜节律与环境/社会需求不同步导致的睡眠-觉醒时序异常，表现为入睡困难、日间嗜睡或两者兼有。
+category: 临床专题 > Sleep-Disorders
+last_updated: 2026-06
+tags: [sleep, neuroscience, meditation, mindfulness]
 ---
-
-
 ---
 
 > ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。

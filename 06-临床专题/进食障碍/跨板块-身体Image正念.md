@@ -1,16 +1,15 @@
 ---
-title: "身体意象正念干预"
-description: "身体意象正念干预：身体扫描/接纳练习/媒体素养/身体功能欣赏"
-category: "clinical"
-tags: ["body-image", "mindfulness", "acceptance", "media-literacy", "cross-pillar"]
-last_updated: "2026-07"
+title: 身体意象正念干预
+description: 身体意象正念干预：身体扫描/接纳练习/媒体素养/身体功能欣赏
+category: clinical
+tags: [body-image, mindfulness, acceptance, media-literacy, cross-pillar]
+last_updated: 2026-07
 cross_refs:
-  - path: "02-心智心理/心理学/selfregulation/"
-    relation: "自我调节与正念"
-  - path: "03-生命科学/生物学/身体羞耻/"
-    relation: "身体羞耻感"
+- path: 02-心智心理/心理学/自我调节/INDEX.md
+  relation: 自我调节与正念
+- path: 03-生命科学/生物学/身体羞耻/
+  relation: 身体羞耻感
 ---
-
 # 身体意象正念干预 (Body Image Mindfulness Intervention)
 
 > **核心定位**：整合正念/接纳/身体功能欣赏，处理进食障碍中核心的体型过度评价。跨 02-心理学（自我调节）与 06-临床专题的桥梁。
@@ -87,9 +86,9 @@ cross_refs:
 |:---------|:-----|
 | [CBT-E](治疗-认知行为疗法E认知行为疗法forEatingDisorders.md) | 体像暴露技术 |
 | [DBT](治疗-辩证行为进食障碍.md) | 正念模块 |
-| [02-自我调节](../../../02-心智心理/心理学/自我调节/) | 正念基础 |
-| [03-身体羞耻感](../../../03-生命科学/生物学/身体羞耻/) | 身体意象科学 |
-| [06-MBCT](../正念认知) | 正念认知疗法 |
+| [02-自我调节](../../02-心智心理/心理学/自我调节/INDEX.md) | 正念基础 |
+| [03-身体羞耻感](../../03-生命科学/生物学/身体羞耻/INDEX.md) | 身体意象科学 |
+| [06-MBCT](../正念认知/INDEX.md) | 正念认知疗法 |
 
 ---
 *返回 [进食障碍专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*

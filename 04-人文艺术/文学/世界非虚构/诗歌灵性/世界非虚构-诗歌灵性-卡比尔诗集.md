@@ -1,0 +1,51 @@
+---
+title: 《迦比尔诗集》Poems of Kabir
+description: 《迦比尔诗集》Poems of Kabir —— World Nonfiction · Poetry Spirituality 专题
+category: 人文与艺术疗愈 > 文学 > World Nonfiction > Poetry Spirituality
+tags: [dzogchen, religion, spirituality, zen, literature]
+last_updated: 2026-05
+difficulty: beginner
+reading_level: beginner
+estimated_read_time: 5min
+intent_queries:
+- 什么是《迦比尔诗集》Poems of Kabir
+- 《迦比尔诗集》Poems of Kabir的核心概念
+- 《迦比尔诗集》Poems of Kabir的方法与实践
+trigger_keywords:
+- dzogchen
+- religion
+cross_refs:
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
+  relation: 死亡/佛教
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
+  relation: 死亡/佛教/藏传
+---
+# 《迦比尔诗集》Poems of Kabir
+
+> 迦比尔（Kabir，约1440–1518年）。印度诗人、神秘主义者，试图融合印度教和伊斯兰教的灵性传统。他的诗以印地语和方言写成，极其直接、极其有力——他不关心教条，只关心**直接的体验**。他说："神不在寺庙里，不在清真寺里——神在你心里。"
+
+## 一、总体评价
+
+迦比尔是印度灵性传统中最 radical 的声音之一——他同时被印度教徒和穆斯林所尊敬，但也同时被两方的正统派所排斥。他的诗不是"宗教诗"——它们是**反叛诗**，反抗所有的形式主义、所有的等级制度、所有的灵性虚伪。
+
+## 二、核心内容
+
+### "内在的灯"
+
+迦比尔反复说：
+
+> "不要往外面找神。往里面看。你心里的灯已经亮了——你只是闭着眼睛。"
+
+这与藏传佛教大圆满"认出心性"、禅宗"见性成佛"、苏菲"内在的观看"完全一致。
+
+### 对死亡的坦然
+
+迦比尔对死亡的态度极其直接：
+
+> "当死亡来敲门，不要说'我还没准备好'。你一生都在准备——只是你不知道。"
+
+他说，真正的准备不是仪式、不是祈祷、不是朝圣——而是**在活着的时候认出你心中的神**。
+
+## 三、阅读体验
+
+**评分：9.0/10** — 迦比尔的诗像刀一样锋利——每一句都切中要害。Robert Bly 的英译本非常出色——Bly 的语言简洁而有力，完美传达了迦比尔的精神。对于任何对"跨宗教灵性""直接体验""灵性反叛"有兴趣的人来说，这是必读书。

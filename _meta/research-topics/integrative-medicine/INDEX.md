@@ -1,18 +1,22 @@
 ---
-title: "整合医学 — Integrative Medicine"
-description: "传统医学与现代医学的循证整合：中医、阿育吠陀、功能医学与精准医疗的对话"
-category: "research"
-tags: ["integrative-medicine", "TCM", "ayurveda", "evidence-based", "functional-medicine"]
-last_updated: "2026-06"
+title: 整合医学 — Integrative Medicine
+description: 传统医学与现代医学的循证整合：中医、阿育吠陀、功能医学与精准医疗的对话
+category: research
+tags:
+- integrative-medicine
+- TCM
+- ayurveda
+- evidence-based
+- functional-medicine
+last_updated: 2026-06
 cross_refs:
-  - path: "01-智慧传统/tcmneijing/"
-    relation: "黄帝内经理论体系"
-  - path: "01-智慧传统/瑜伽/"
-    relation: "阿育吠陀医学"
-  - path: "03-生命科学/生物学/中医循证/"
-    relation: "中医循证研究"
+- path: 01-智慧传统/黄帝内经/INDEX.md
+  relation: 黄帝内经理论体系
+- path: 01-智慧传统/瑜伽/
+  relation: 阿育吠陀医学
+- path: 03-生命科学/生物学/中医循证/
+  relation: 中医循证研究
 ---
-
 # 整合医学 — Integrative Medicine
 
 > **课题方向**：以循证方法评估传统医学体系的疗效，探索中西医整合模型的理论框架与实践路径。

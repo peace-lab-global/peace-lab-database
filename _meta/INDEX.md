@@ -46,4 +46,4 @@
 - [跨领域课题研究总览](research-topics/INDEX.md) — 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学
 
 ---
-*返回根目录 [README.md](.)*
+*返回根目录 [README.md](./INDEX.md)*

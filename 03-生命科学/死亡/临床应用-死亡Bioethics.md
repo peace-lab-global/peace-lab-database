@@ -1,24 +1,29 @@
 ---
-title: "Bioethics of Death & Dying (死亡与临终的生物伦理学)"
-description: "Bioethics of Death & Dying (死亡与临终的生物伦理学) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "brain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: Bioethics of Death & Dying (死亡与临终的生物伦理学)
+description: Bioethics of Death & Dying (死亡与临终的生物伦理学) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, brain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Bioethics of Death & Dying"
-  - "Bioethics of Death & Dying的核心概念"
-  - "Bioethics of Death & Dying的方法与实践"
-trigger_keywords: ["Bioethics", "of", "Death", "Dying", "死亡与临终的生物伦理学"]
+- 什么是Bioethics of Death & Dying
+- Bioethics of Death & Dying的核心概念
+- Bioethics of Death & Dying的方法与实践
+trigger_keywords:
+- Bioethics
+- of
+- Death
+- Dying
+- 死亡与临终的生物伦理学
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/on-死亡-and-dying.md"
-    relation: "dying/临终/死亡"
-  - path: "04-人文艺术/文学/worldnonfiction/womencarelife叙事/the艺术ofdying.md"
-    relation: "死亡/dying/临终"
-  - path: "01-智慧传统/宗教/佛教/宗萨钦哲/生即是死/INDEX.md"
-    relation: "dying/死亡/living"
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-on死亡anddying.md
+  relation: dying/临终/死亡
+- path: 04-人文艺术/文学/世界非虚构/女性关怀与生命叙事/世界非虚构-女性关怀与生命叙事-the艺术ofdying.md
+  relation: 死亡/dying/临终
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/INDEX.md
+  relation: dying/死亡/living
 ---
 # Bioethics of Death & Dying (死亡与临终的生物伦理学)
 

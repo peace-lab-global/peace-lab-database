@@ -1,26 +1,32 @@
 ---
-title: "Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)"
-description: "Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["attachment", "cbt", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 'Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)'
+description: 'Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)
+  —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [attachment, cbt, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Grief-Death Bridge: Integrating Bereavement & Mortality"
-  - "Grief-Death Bridge: Integrating Bereavement & Mortality的核心概念"
-  - "Grief-Death Bridge: Integrating Bereavement & Mortality的方法与实践"
-trigger_keywords: ["Grief-Death", "Bridge:", "Integrating", "Bereavement", "Mortality"]
+- '什么是Grief-Death Bridge: Integrating Bereavement & Mortality'
+- 'Grief-Death Bridge: Integrating Bereavement & Mortality的核心概念'
+- 'Grief-Death Bridge: Integrating Bereavement & Mortality的方法与实践'
+trigger_keywords:
+- Grief-Death
+- 'Bridge:'
+- Integrating
+- Bereavement
+- Mortality
 cross_refs:
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_12_Life_Transitions.md"
-    relation: "哀伤/丧亲/死亡"
-  - path: "02-心智心理/冥想/临床/危机冥想/INDEX.md"
-    relation: "哀伤/丧亲/哀伤"
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/漫长的告别.md"
-    relation: "哀伤/哀伤"
-  - path: 02-心智心理/心理学/发展心理-衰老心理学-Aging_Emotional_Wellbeing.md
-    relation: "哀伤/丧亲/抑郁"
+- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_12_Life_Transitions.md
+  relation: 哀伤/丧亲/死亡
+- path: 02-心智心理/冥想/临床/危机冥想/INDEX.md
+  relation: 哀伤/丧亲/哀伤
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-漫长的告别.md
+  relation: 哀伤/哀伤
+- path: 02-心智心理/心理学/发展心理/衰老心理学/发展心理-衰老心理学-Aging_Emotional_Wellbeing.md
+  relation: 哀伤/丧亲/抑郁
 ---
 # Grief-Death Bridge: Integrating Bereavement & Mortality (哀伤-死亡桥接：丧恸与有限性的整合)
 

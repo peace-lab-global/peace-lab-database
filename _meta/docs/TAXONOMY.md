@@ -1,30 +1,36 @@
 ---
-
-title: "分类法与架构决策 (Taxonomy & Architecture Decisions)"
-description: "分类法与架构决策 (Taxonomy & Architecture Decisions)的详细解析与实践指南"
-category: "general"
-tags: ["addiction", "ballet", "cinema"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 分类法与架构决策 (Taxonomy & Architecture Decisions)
+description: 分类法与架构决策 (Taxonomy & Architecture Decisions)的详细解析与实践指南
+category: general
+tags:
+- addiction
+- ballet
+- cinema
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是分类法与架构决策"
-  - "分类法与架构决策的核心概念"
-  - "分类法与架构决策的方法与实践"
-trigger_keywords: ["分类法与架构决策", "act", "addiction", "art", "ballet"]
+- 什么是分类法与架构决策
+- 分类法与架构决策的核心概念
+- 分类法与架构决策的方法与实践
+trigger_keywords:
+- 分类法与架构决策
+- act
+- addiction
+- art
+- ballet
 cross_refs:
-  - path: "README.md"
-    relation: "佛教/沟通/道家ism"
-  - path: "01-智慧传统/宗教/禅宗/Zen_Daily_Life_Practice.md"
-    relation: "佛教/沟通/冥想"
-  - path: "01-智慧传统/宗教/佛教/现代应用/INDEX.md"
-    relation: "佛教/道家ism/冥想"
-  - path: 01-智慧传统/宗教/佛教-南怀瑾-Nan_Huaijin_Teachings.md
-    relation: "佛教/道家ism/冥想"
-  - path: 02-心智心理/冥想/基础-总览-Meditation_Practitioner_QA.md
-    relation: "佛教/沟通/冥想"
-
+- path: README.md
+  relation: 佛教/沟通/道家ism
+- path: 01-智慧传统/宗教/禅宗/禅宗日常生活实践/禅宗-禅宗日常生活实践.md
+  relation: 佛教/沟通/冥想
+- path: 01-智慧传统/宗教/佛教/现代应用/INDEX.md
+  relation: 佛教/道家ism/冥想
+- path: 01-智慧传统/宗教/佛教/南怀瑾/佛教-南怀瑾-Nan_Huaijin_Teachings.md
+  relation: 佛教/道家ism/冥想
+- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Practitioner_QA.md
+  relation: 佛教/沟通/冥想
 ---
 # 分类法与架构决策 (Taxonomy & Architecture Decisions)
 

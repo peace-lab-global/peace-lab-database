@@ -1,14 +1,13 @@
 ---
-title: "其他特定进食障碍 (OSFED)"
-description: "OSFED/UFED 诊断分类、非典型AN/低频BN/清除障碍/夜间进食综合征"
-category: "clinical"
-tags: ["OSFED", "UFED", "atypical-anorexia", "night-eating", "purging-disorder"]
-last_updated: "2026-07"
+title: 其他特定进食障碍 (OSFED)
+description: OSFED/UFED 诊断分类、非典型AN/低频BN/清除障碍/夜间进食综合征
+category: clinical
+tags: [OSFED, UFED, atypical-anorexia, night-eating, purging-disorder]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/诊断/Eating_Disorders_DSM5_Classification.md"
-    relation: "分类框架"
+- path: 06-临床专题/进食障碍/诊断-进食障碍DSM5Classification.md
+  relation: 分类框架
 ---
-
 # 其他特定进食障碍 (OSFED) 与非特定进食障碍 (UFED)
 
 > **核心定位**：OSFED 是临床上**最常见的进食障碍诊断**（占 ED 门诊 30-50%），涵盖有临床显著进食障碍症状但不完全满足 AN/BN/BED/ARFID 标准的情况。
@@ -139,7 +138,7 @@ cross_refs:
 | [神经性贪食](诊断-贪食症神经性.md) | 低频BN的参照 |
 | [暴食障碍](诊断-BingeEating障碍.md) | 低频BED的参照 |
 | [评估工具系统](评估-EatingDisorders评估工具.md) | 评估量表 |
-| [睡眠障碍](../睡眠障碍) | 夜间进食与睡眠交叉 |
+| [睡眠障碍](../睡眠障碍/INDEX.md) | 夜间进食与睡眠交叉 |
 
 ---
 *返回 [进食障碍专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*

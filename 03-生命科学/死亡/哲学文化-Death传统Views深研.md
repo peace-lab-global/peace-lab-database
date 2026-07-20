@@ -1,26 +1,32 @@
 ---
-title: "Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)"
-description: "Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: 'Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)'
+description: 'Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析) —— 生命科学与生物医学 ·
+  死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Deep Dive: Death Views Across Traditions"
-  - "Deep Dive: Death Views Across Traditions的核心概念"
-  - "Deep Dive: Death Views Across Traditions的方法与实践"
-trigger_keywords: ["Deep", "Dive:", "Death", "Views", "Across"]
+- '什么是Deep Dive: Death Views Across Traditions'
+- 'Deep Dive: Death Views Across Traditions的核心概念'
+- 'Deep Dive: Death Views Across Traditions的方法与实践'
+trigger_keywords:
+- Deep
+- 'Dive:'
+- Death
+- Views
+- Across
 cross_refs:
-  - path: "01-智慧传统/宗教/佛教/宗萨钦哲/生即是死/Multi_Perspective_Reviews.md"
-    relation: "死亡/临终/佛教"
-  - path: "01-智慧传统/宗教/佛教/宗萨钦哲/生即是死/Book_Review.md"
-    relation: "死亡/bardo/佛教"
-  - path: "04-人文艺术/文学/worldnonfiction/藏传bookoflivinganddying/Book_Review.md"
-    relation: "死亡/临终/佛教"
-  - path: "04-人文艺术/文学/worldnonfiction/藏传bookoflivinganddying/Thought_Analysis.md"
-    relation: "死亡/临终/佛教"
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
+  relation: 死亡/临终/佛教
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
+  relation: 死亡/bardo/佛教
+- path: 04-人文艺术/文学/世界非虚构/西藏生死书/世界非虚构-西藏生死书-Book_Review.md
+  relation: 死亡/临终/佛教
+- path: 04-人文艺术/文学/世界非虚构/西藏生死书/世界非虚构-西藏生死书-Thought_Analysis.md
+  relation: 死亡/临终/佛教
 ---
 # Deep Dive: Death Views Across Traditions (死亡观跨传统深度解析)
 

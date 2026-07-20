@@ -1,26 +1,32 @@
 ---
-title: "Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)"
-description: "Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 'Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)'
+description: 'Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)
+  —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Pet Loss & Bereavement: When a Family Member Has Four Legs"
-  - "Pet Loss & Bereavement: When a Family Member Has Four Legs的核心概念"
-  - "Pet Loss & Bereavement: When a Family Member Has Four Legs的方法与实践"
-trigger_keywords: ["Pet", "Loss", "Bereavement:", "When", "Family"]
+- '什么是Pet Loss & Bereavement: When a Family Member Has Four Legs'
+- 'Pet Loss & Bereavement: When a Family Member Has Four Legs的核心概念'
+- 'Pet Loss & Bereavement: When a Family Member Has Four Legs的方法与实践'
+trigger_keywords:
+- Pet
+- Loss
+- 'Bereavement:'
+- When
+- Family
 cross_refs:
-  - path: 02-心智心理/心理学/特殊专题-哀伤-Grief_Bereavement.md
-    relation: "哀伤/哀伤/bereavement"
-  - path: 02-心智心理/心理学/特殊专题-哀伤-Grief_Special_Loss_Types.md
-    relation: "loss/哀伤/bereavement"
-  - path: "02-心智心理/心理学/特殊专题/哀伤/INDEX.md"
-    relation: "哀伤/loss/bereavement"
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/漫长的告别.md"
-    relation: "哀伤/哀伤"
+- path: 02-心智心理/心理学/特殊专题/哀伤/特殊专题-哀伤-Grief_Bereavement.md
+  relation: 哀伤/哀伤/bereavement
+- path: 02-心智心理/心理学/特殊专题/哀伤/特殊专题-哀伤-Grief_Special_Loss_Types.md
+  relation: loss/哀伤/bereavement
+- path: 02-心智心理/心理学/特殊专题/哀伤/INDEX.md
+  relation: 哀伤/loss/bereavement
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-漫长的告别.md
+  relation: 哀伤/哀伤
 ---
 # Pet Loss & Bereavement: When a Family Member Has Four Legs (宠物丧失与哀伤：当家庭成员有四条腿)
 

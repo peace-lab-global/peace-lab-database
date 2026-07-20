@@ -22,7 +22,7 @@
 > 如您正在经历心理困扰、情绪危机或有自杀念头,请:
 > 1. 立即联系当地急救电话或心理危机干预热线
 > 2. 咨询专业的心理健康服务提供者(精神科医生、心理咨询师、心理治疗师)
-> 3. 访问 [_meta/docs/CRISIS_RESOURCES.md](../../docs/CRISIS_RESOURCES.md) 获取危机资源
+> 3. 访问 [_meta/docs/CRISIS_RESOURCES.md](CRISIS_RESOURCES.md) 获取危机资源
 >
 > 在使用本知识库的任何练习或方法之前,请咨询合格的医疗专业人员,
 > 特别是当您正在接受治疗、怀孕、有既往病史或正在服药时。
@@ -59,7 +59,7 @@
 > - 生命热线:400-821-1215
 > - 希望24热线:400-161-9995
 >
-> 📖 **国际资源**:[CRISIS_RESOURCES.md](../../docs/CRISIS_RESOURCES.md)
+> 📖 **国际资源**:[CRISIS_RESOURCES.md](CRISIS_RESOURCES.md)
 ```
 
 ### 2.2 冥想与正念模板(Meditation & Mindfulness)
@@ -168,7 +168,7 @@
 | 🇹🇼 台湾 | 生命线 | 1995 |
 | 🌍 国际 | Befrienders Worldwide | befrienders.org |
 
-> 完整列表见 [_meta/docs/CRISIS_RESOURCES.md](../../docs/CRISIS_RESOURCES.md)
+> 完整列表见 [_meta/docs/CRISIS_RESOURCES.md](CRISIS_RESOURCES.md)
 ```
 
 ---

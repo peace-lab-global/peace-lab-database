@@ -1,20 +1,24 @@
 ---
-title: "Children, Adolescents & Death (儿童与青少年的死亡概念发展)"
-description: "Children, Adolescents & Death (儿童与青少年的死亡概念发展) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "attachment", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Children, Adolescents & Death (儿童与青少年的死亡概念发展)
+description: Children, Adolescents & Death (儿童与青少年的死亡概念发展) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, attachment, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Children, Adolescents & Death"
-  - "Children, Adolescents & Death的核心概念"
-  - "Children, Adolescents & Death的方法与实践"
-trigger_keywords: ["Children", "Adolescents", "Death", "儿童与青少年的死亡概念发展"]
+- 什么是Children, Adolescents & Death
+- Children, Adolescents & Death的核心概念
+- Children, Adolescents & Death的方法与实践
+trigger_keywords:
+- Children
+- Adolescents
+- Death
+- 儿童与青少年的死亡概念发展
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/灵性佛教/no-死亡-no-fear.md"
-    relation: "死亡/死亡/fear"
+- path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-no死亡no恐惧.md
+  relation: 死亡/死亡/fear
 ---
 # Children, Adolescents & Death (儿童与青少年的死亡概念发展)
 

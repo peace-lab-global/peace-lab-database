@@ -1,22 +1,28 @@
 ---
-title: "LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)"
-description: "LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "sexuality", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: 'LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)'
+description: 'LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)
+  —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, sexuality, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是LGBTQ+ Communities: Death, Grief & End-of-Life"
-  - "LGBTQ+ Communities: Death, Grief & End-of-Life的核心概念"
-  - "LGBTQ+ Communities: Death, Grief & End-of-Life的方法与实践"
-trigger_keywords: ["LGBTQ+", "Communities:", "Death", "Grief", "End-of-Life"]
+- '什么是LGBTQ+ Communities: Death, Grief & End-of-Life'
+- 'LGBTQ+ Communities: Death, Grief & End-of-Life的核心概念'
+- 'LGBTQ+ Communities: Death, Grief & End-of-Life的方法与实践'
+trigger_keywords:
+- LGBTQ+
+- 'Communities:'
+- Death
+- Grief
+- End-of-Life
 cross_refs:
-  - path: 02-心智心理/心理学/社会心理-孤独-Loneliness_LGBTQ.md
-    relation: "lgbtq/aids/minority"
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "临终/临终关怀/死亡"
+- path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_LGBTQ.md
+  relation: lgbtq/aids/minority
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/临终关怀/死亡
 ---
 # LGBTQ+ Communities: Death, Grief & End-of-Life (LGBTQ+群体的死亡焦虑、哀伤与临终关怀)
 

@@ -1,20 +1,25 @@
 ---
-title: "Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)"
-description: "Dignity Therapy & Palliative Care (尊严疗法与安宁疗护) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["pain", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "10min"
+title: Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)
+description: Dignity Therapy & Palliative Care (尊严疗法与安宁疗护) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [pain, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Dignity Therapy & Palliative Care"
-  - "Dignity Therapy & Palliative Care的核心概念"
-  - "Dignity Therapy & Palliative Care的方法与实践"
-trigger_keywords: ["Dignity", "Therapy", "Palliative", "Care", "尊严疗法与安宁疗护"]
+- 什么是Dignity Therapy & Palliative Care
+- Dignity Therapy & Palliative Care的核心概念
+- Dignity Therapy & Palliative Care的方法与实践
+trigger_keywords:
+- Dignity
+- Therapy
+- Palliative
+- Care
+- 尊严疗法与安宁疗护
 cross_refs:
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "临终/care/p全部iative"
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/care/p全部iative
 ---
 # Dignity Therapy & Palliative Care (尊严疗法与安宁疗护)
 

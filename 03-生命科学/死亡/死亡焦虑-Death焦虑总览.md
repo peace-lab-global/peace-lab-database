@@ -1,22 +1,26 @@
 ---
-title: "Death Anxiety Overview (死亡焦虑概览)"
-description: "Death Anxiety Overview (死亡焦虑概览) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "attachment", "death"]
-last_updated: "2026-05"
-difficulty: "expert"
-reading_level: "expert"
-estimated_read_time: "10min"
+title: Death Anxiety Overview (死亡焦虑概览)
+description: Death Anxiety Overview (死亡焦虑概览) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, attachment, death]
+last_updated: 2026-05
+difficulty: expert
+reading_level: expert
+estimated_read_time: 10min
 intent_queries:
-  - "什么是Death Anxiety Overview"
-  - "Death Anxiety Overview的核心概念"
-  - "Death Anxiety Overview的方法与实践"
-trigger_keywords: ["Death", "Anxiety", "Overview", "死亡焦虑概览"]
+- 什么是Death Anxiety Overview
+- Death Anxiety Overview的核心概念
+- Death Anxiety Overview的方法与实践
+trigger_keywords:
+- Death
+- Anxiety
+- Overview
+- 死亡焦虑概览
 cross_refs:
-  - path: 02-心智心理/心理学/临床-焦虑-Anxiety_Disorder_Overview.md
-    relation: "焦虑/焦虑/障碍s"
-  - path: 02-心智心理/心理学/躯体身心-躯体-Somatic_Anxiety_Illness_Anxiety.md
-    relation: "焦虑/焦虑/障碍"
+- path: 02-心智心理/心理学/临床/焦虑/临床-焦虑-Anxiety_Disorder_Overview.md
+  relation: 焦虑/焦虑/障碍s
+- path: 02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-Somatic_Anxiety_Illness_Anxiety.md
+  relation: 焦虑/焦虑/障碍
 ---
 # Death Anxiety Overview (死亡焦虑概览)
 

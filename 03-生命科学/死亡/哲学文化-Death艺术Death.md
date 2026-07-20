@@ -1,22 +1,26 @@
 ---
-title: "Art, Aesthetics & Death (艺术与死亡)"
-description: "Art, Aesthetics & Death (艺术与死亡) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "cinema", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "5min"
+title: Art, Aesthetics & Death (艺术与死亡)
+description: Art, Aesthetics & Death (艺术与死亡) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, cinema, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 5min
 intent_queries:
-  - "什么是Art, Aesthetics & Death"
-  - "Art, Aesthetics & Death的核心概念"
-  - "Art, Aesthetics & Death的方法与实践"
-trigger_keywords: ["Art", "Aesthetics", "Death", "艺术与死亡"]
+- 什么是Art, Aesthetics & Death
+- Art, Aesthetics & Death的核心概念
+- Art, Aesthetics & Death的方法与实践
+trigger_keywords:
+- Art
+- Aesthetics
+- Death
+- 艺术与死亡
 cross_refs:
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/the-死亡-class.md"
-    relation: "死亡/死亡/临终"
-  - path: "04-人文艺术/文学/worldnonfiction/womencarelife叙事/the艺术ofdying.md"
-    relation: "死亡/art/临终"
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/the/世界非虚构-死亡与临终-the-death-class.md
+  relation: 死亡/死亡/临终
+- path: 04-人文艺术/文学/世界非虚构/女性关怀与生命叙事/世界非虚构-女性关怀与生命叙事-the艺术ofdying.md
+  relation: 死亡/art/临终
 ---
 # Art, Aesthetics & Death (艺术与死亡)
 

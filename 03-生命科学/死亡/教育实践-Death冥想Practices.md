@@ -1,24 +1,31 @@
 ---
-title: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)"
-description: "Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "brain", "fasting", "exercise", "death"]
-last_updated: "2026-05"
-difficulty: "expert"
-reading_level: "expert"
-estimated_read_time: "15min"
+title: 'Death Meditation Practices: Religious, Psychological & Sociological Perspectives
+  (死亡冥想实践：宗教、心理与社会学视角)'
+description: 'Death Meditation Practices: Religious, Psychological & Sociological
+  Perspectives (死亡冥想实践：宗教、心理与社会学视角) —— 生命科学与生物医学 · 死亡学 专题'
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, brain, fasting, exercise, death]
+last_updated: 2026-05
+difficulty: expert
+reading_level: expert
+estimated_read_time: 15min
 intent_queries:
-  - "什么是Death Meditation Practices: Religious, Psychological & Sociological Perspectives"
-  - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的核心概念"
-  - "Death Meditation Practices: Religious, Psychological & Sociological Perspectives的方法与实践"
-trigger_keywords: ["Death", "Meditation", "Practices:", "Religious", "Psychological"]
+- '什么是Death Meditation Practices: Religious, Psychological & Sociological Perspectives'
+- 'Death Meditation Practices: Religious, Psychological & Sociological Perspectives的核心概念'
+- 'Death Meditation Practices: Religious, Psychological & Sociological Perspectives的方法与实践'
+trigger_keywords:
+- Death
+- Meditation
+- 'Practices:'
+- Religious
+- Psychological
 cross_refs:
-  - path: "01-智慧传统/宗教/佛教/宗萨钦哲/生即是死/Multi_Perspective_Reviews.md"
-    relation: "死亡/临终/佛教"
-  - path: 02-心智心理/冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
-    relation: "临终/死亡/冥想"
-  - path: "04-人文艺术/文学/worldnonfiction/死亡dying/the-死亡-class.md"
-    relation: "死亡/临终/冥想"
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
+  relation: 死亡/临终/佛教
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/死亡/冥想
+- path: 04-人文艺术/文学/世界非虚构/死亡与临终/the/世界非虚构-死亡与临终-the-death-class.md
+  relation: 死亡/临终/冥想
 ---
 # Death Meditation Practices: Religious, Psychological & Sociological Perspectives (死亡冥想实践：宗教、心理与社会学视角)
 

@@ -1,14 +1,13 @@
 ---
-title: "进食障碍评估工具系统"
-description: "EDE-Q 6.0/EAT-26/SCOFF/CIA/EDE 访谈等进食障碍结构化评估量表完整指南"
-category: "clinical"
-tags: ["assessment", "EDE-Q", "EAT-26", "SCOFF", "CIA", "eating-disorders"]
-last_updated: "2026-07"
+title: 进食障碍评估工具系统
+description: EDE-Q 6.0/EAT-26/SCOFF/CIA/EDE 访谈等进食障碍结构化评估量表完整指南
+category: clinical
+tags: [assessment, EDE-Q, EAT-26, SCOFF, CIA, eating-disorders]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/诊断/Eating_Disorders_DSM5_Classification.md"
-    relation: "诊断框架"
+- path: 06-临床专题/进食障碍/诊断-进食障碍DSM5Classification.md
+  relation: 诊断框架
 ---
-
 # 进食障碍评估工具系统 (Assessment Tools)
 
 > **核心定位**：覆盖从快速筛查到深度临床访谈的完整评估工具链，含评分标准、解释规则、文化适应性与使用注意事项。

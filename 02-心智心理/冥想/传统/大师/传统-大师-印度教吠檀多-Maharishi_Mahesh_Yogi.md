@@ -1,0 +1,86 @@
+---
+title: 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）
+description: 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi） —— Masters · Hindu Vedantic 专题
+category: 心智与心理学 > 冥想 > Masters > Hindu Vedantic
+tags: [meditation, spirituality, yoga]
+last_updated: 2026-05
+difficulty: beginner
+reading_level: beginner
+estimated_read_time: 5min
+intent_queries:
+- 什么是玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）
+- 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）的核心概念
+- 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）的方法与实践
+trigger_keywords:
+- 玛赫西
+- 马赫什
+- exercise
+- meditation
+- spirituality
+cross_refs:
+- path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-transcendental-meditation.md
+  relation: tm/mahesh/maharishi
+---
+# 玛赫西·马赫什·尤吉（Maharishi Mahesh Yogi）
+
+> 超觉冥想的创始人——将冥想带入主流科学和流行文化的争议性大师
+
+---
+
+## 一、概述（Overview）
+
+| 项目 | 信息 |
+|------|------|
+| 全名 | Maharishi Mahesh Yogi |
+| 俗名 | Mahesh Prasad Varma |
+| 生卒 | 1918-2008 |
+| 出生地 | 中央邦，印度 |
+| 传统 | TM（Transcendental Meditation / 超觉冥想） |
+| 师父 | Swami Brahmananda Saraswati |
+| 创立组织 | TM 运动（全球最大的冥想组织之一） |
+| 标志时刻 | 1968 年 Beatles 乐队在印度跟随学习 |
+
+---
+
+## 二、超觉冥想（TM）
+
+### 2.1 方法
+
+- 使用个人 Mantra（咒语），由教师在入门仪式中授予
+- 每天两次，每次 20 分钟
+- 闭眼安坐，默念 Mantra
+- 不需要专注或努力——"自然沉淀"
+- 宣称比其他冥想方法更容易、更有效
+
+### 2.2 科学研究
+
+TM 是被研究最多的冥想技术之一：
+- 600+ 项研究发表在同行评审期刊
+- 被批评者指出许多研究由 TM 组织资助，存在偏倚
+- 2014年 AHA（美国心脏协会）的科学声明给予 TM 在降压方面 IIB 级推荐
+- 整体而言，TM 有一定科学证据支持，但并不比其他冥想方法显著更优
+
+---
+
+## 三、影响与争议
+
+| 方面 | 说明 |
+|------|------|
+| 文化影响 | Beatles 的推广使冥想进入西方流行文化 |
+| 商业化 | TM 学习费用高昂（曾达 $1,500+），引发"灵性商品化"批评 |
+| 商标保护 | "TM" 和 "超觉冥想" 受到严格的商标保护 |
+| "飞行"宣称 | TM-Sidhi 项目宣称可实现"瑜伽飞行"（Yogic Flying），引发科学界嘲讽 |
+| Maharishi 效应 | 宣称大量人同时冥想可降低犯罪率，极具争议 |
+| 组织规模 | 全球数百万学习者，数十亿美元资产 |
+
+---
+
+## 四、参考文献（References）
+
+- Mason, Paul. (1994). *The Maharishi: The Biography of the Man Who Gave Transcendental Meditation to the World*.
+- Orme-Johnson, D. W., & Walton, K. G. (1998). "All approaches of preventing or reversing effects of stress are not the same." *American Journal of Health Promotion*.
+
+---
+
+*最后更新：2026年4月*
+*关联文件：[Ramana_Maharshi](传统-大师-印度教吠檀多-Ramana_Maharshi.md) | [Nisargadatta_Maharaj](传统-大师-印度教吠檀多-Nisargadatta_Maharaj.md)*

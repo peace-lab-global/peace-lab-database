@@ -55,11 +55,11 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [心理学流派总览](心理学/基础/总览/) | 理解主流心理学体系 | 30分钟 |
-| 2 | [焦虑症专题](心理学/临床/焦虑/) | 识别常见焦虑问题 | 25分钟 |
-| 3 | [压力与HPA轴](心理学/压力与HPA轴/慢性压力/) | 理解压力机制 | 20分钟 |
-| 4 | [睡眠科学](心理学/躯体身心/睡眠/) | 建立健康睡眠认知 | 20分钟 |
-| 5 | [冥想基础](冥想/基础-总览-冥想核心.md) | 体验基础冥想技术 | 持续 |
+| 1 | [心理学流派总览](心理学/基础/总览/INDEX.md) | 理解主流心理学体系 | 30分钟 |
+| 2 | [焦虑症专题](心理学/临床/焦虑/INDEX.md) | 识别常见焦虑问题 | 25分钟 |
+| 3 | [压力与HPA轴](心理学/压力与HPA轴/慢性压力/INDEX.md) | 理解压力机制 | 20分钟 |
+| 4 | [睡眠科学](心理学/躯体身心/睡眠/INDEX.md) | 建立健康睡眠认知 | 20分钟 |
+| 5 | [冥想基础](冥想/基础/基础-总览-冥想核心.md) | 体验基础冥想技术 | 持续 |
 
 **适合**: 首次接触系统心理学的读者。
 
@@ -71,11 +71,11 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [MBCT正念认知疗法](疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md) | 循证疗法入门 | 30分钟 |
-| 2 | [HPA轴与皮质醇](心理学/压力与HPA轴/皮质醇/) | 深入压力生理机制 | 25分钟 |
-| 3 | [自我调节技能](心理学/自我调节/) | 发展情绪调节能力 | 30分钟 |
-| 4 | [冥想脑科学](冥想/基础-总览-冥想Brain科学基础.md) | 理解冥想的科学基础 | 25分钟 |
-| 5 | [压力日记分析](心理学/压力与HPA轴-技能-压力日记分析Skill.md) | 实践自我监测（Agent Skill） | 持续 |
+| 1 | [MBCT正念认知疗法](疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md) | 循证疗法入门 | 30分钟 |
+| 2 | [HPA轴与皮质醇](心理学/压力与HPA轴/皮质醇/INDEX.md) | 深入压力生理机制 | 25分钟 |
+| 3 | [自我调节技能](心理学/自我调节/INDEX.md) | 发展情绪调节能力 | 30分钟 |
+| 4 | [冥想脑科学](冥想/基础/基础-总览-冥想Brain科学基础.md) | 理解冥想的科学基础 | 25分钟 |
+| 5 | [压力日记分析](心理学/压力与HPA轴/技能/压力与HPA轴-技能-压力日记分析Skill.md) | 实践自我监测（Agent Skill） | 持续 |
 
 **适合**: 有一定心理学基础，希望深入学习和实践的读者。
 
@@ -87,10 +87,10 @@ cross_refs:
 
 | 顺序 | 文档 | 建议 | 时长 |
 |:----:|:-----|:-----|:-----|
-| 1 | [严重精神障碍专题](心理学/临床-障碍-SevereMentalIllness总览.md) | 理解重症鉴别与转介 | 40分钟 |
-| 2 | [创伤与危机干预](心理学/临床/创伤/) | 掌握危机评估与干预 | 45分钟 |
-| 3 | [临床量表与评估](心理学/基础-总览-心理学评估工具.md) | 掌握评估工具使用 | 35分钟 |
-| 4 | [Agent Skills 技能模块](../02-心智心理/心理学/压力与HPA轴/技能/) | 掌握AI辅助心理评估 | 持续 |
+| 1 | [严重精神障碍专题](心理学/临床/障碍/临床-障碍-SevereMentalIllness总览.md) | 理解重症鉴别与转介 | 40分钟 |
+| 2 | [创伤与危机干预](心理学/临床/创伤/INDEX.md) | 掌握危机评估与干预 | 45分钟 |
+| 3 | [临床量表与评估](心理学/基础/总览/基础-总览-心理学评估工具.md) | 掌握评估工具使用 | 35分钟 |
+| 4 | [Agent Skills 技能模块](../02-心智心理/心理学/压力与HPA轴/技能/INDEX.md) | 掌握AI辅助心理评估 | 持续 |
 
 **适合**: 心理健康从业者，或希望系统学习临床心理学的读者。
 
@@ -111,126 +111,126 @@ cross_refs:
 ## 核心索引 | Core Index
 
 ### 1. 🧠 理论基础与流派体系 (Foundations & Schools)
-- [心理学流派总览 (Schools & Theories)](心理学/基础/总览/)
-  - [积极心理学体系 (Positive Psychology)](心理学/基础/积极心理学/)
-  - [心理测评工具与量表 (Assessment Tools)](心理学/基础-总览-心理学评估工具.md)
-  - [心理学专业术语辞典 (Terminology Dictionary)](心理学/基础-术语词典-Terminology词典.md)
-  - [理论框架 (Frameworks)](心理学/基础/框架/)
+- [心理学流派总览 (Schools & Theories)](心理学/基础/总览/INDEX.md)
+  - [积极心理学体系 (Positive Psychology)](心理学/基础/积极心理学/INDEX.md)
+  - [心理测评工具与量表 (Assessment Tools)](心理学/基础/总览/基础-总览-心理学评估工具.md)
+  - [心理学专业术语辞典 (Terminology Dictionary)](心理学/基础/术语词典/基础-术语词典-Terminology词典.md)
+  - [理论框架 (Frameworks)](心理学/基础/框架/INDEX.md)
 
 ### 1.5 🎭 人格心理学 (Personality Psychology) **[NEW]**
-- [**人格心理学体系**](心理学/基础/人格/) — 大五/MBTI/九型/暗黑三联征/人格发展
-  - [人格心理学总览](心理学/基础-人格-Personality心理学总览.md)
-  - [大五人格模型](心理学/基础-人格-BigFive模型.md)
-  - [MBTI类型学](心理学/基础-人格-MBTI类型学.md)
-  - [九型人格体系](心理学/基础-人格-九型人格系统.md)
-  - [暗黑三联征](心理学/基础-人格-DarkTriad人格.md)
-  - [人格评估工具](心理学/基础-人格-Personality评估工具.md)
-  - [人格发展与改变](心理学/基础-人格-Personality发展Change.md)
+- [**人格心理学体系**](心理学/基础/人格/INDEX.md) — 大五/MBTI/九型/暗黑三联征/人格发展
+  - [人格心理学总览](心理学/基础/人格/基础-人格-Personality心理学总览.md)
+  - [大五人格模型](心理学/基础/人格/基础-人格-BigFive模型.md)
+  - [MBTI类型学](心理学/基础/人格/基础-人格-MBTI类型学.md)
+  - [九型人格体系](心理学/基础/人格/基础-人格-九型人格系统.md)
+  - [暗黑三联征](心理学/基础/人格/基础-人格-DarkTriad人格.md)
+  - [人格评估工具](心理学/基础/人格/基础-人格-Personality评估工具.md)
+  - [人格发展与改变](心理学/基础/人格/基础-人格-Personality发展Change.md)
 
 ### 2. 🏥 临床心理与精神障碍 (Clinical & Disorders)
-- [**严重精神障碍专题 (SMI)**](心理学/临床-障碍-SevereMentalIllness总览.md)
-  - [精神分裂症 (Schizophrenia)](心理学/临床/障碍/精神分裂症/)
-  - [分裂情感性障碍 (Schizoaffective)](心理学/临床/障碍/分裂情感性/)
-  - [偏执性精神病 (Delusional Disorder)](心理学/临床/障碍/偏执性障碍/)
-  - [双相情感障碍 (Bipolar)](心理学/临床/障碍/双相/)
-  - [癫痫所致精神障碍 (Epileptic Psychosis)](心理学/临床/障碍/癲痫性精神病/)
-  - [精神发育迟滞伴发障碍 (ID with Psychosis)](心理学/临床/障碍/智力障碍伴发精神病/)
-  - [注意缺陷多动障碍 (ADHD)](心理学/临床/障碍/注意缺陷多动/)
-- [焦虑症专题 (Anxiety)](心理学/临床/焦虑/)
-- [抑郁症专题 (Depression)](心理学/临床/抑郁/)
-- [恐惧症与强迫症 (Phobia & OCD)](心理学/临床/恐惧症/)
-- [创伤、危机与干预 (Trauma & Crisis)](心理学/临床/创伤/)
-  - [危机评估与自杀干预 (Crisis & Suicide)](心理学/临床/危机评估/)
-  - [创伤后成长 (Postvention)](心理学/临床/危机善后/)
-  - [自杀干预专题 (Suicide Intervention)](心理学/临床/自杀干预/)
+- [**严重精神障碍专题 (SMI)**](心理学/临床/障碍/临床-障碍-SevereMentalIllness总览.md)
+  - [精神分裂症 (Schizophrenia)](心理学/临床/障碍/INDEX.md)
+  - [分裂情感性障碍 (Schizoaffective)](心理学/临床/障碍/INDEX.md)
+  - [偏执性精神病 (Delusional Disorder)](心理学/临床/障碍/INDEX.md)
+  - [双相情感障碍 (Bipolar)](心理学/临床/障碍/INDEX.md)
+  - [癫痫所致精神障碍 (Epileptic Psychosis)](心理学/临床/障碍/INDEX.md)
+  - [精神发育迟滞伴发障碍 (ID with Psychosis)](心理学/临床/障碍/INDEX.md)
+  - [注意缺陷多动障碍 (ADHD)](心理学/临床/障碍/INDEX.md)
+- [焦虑症专题 (Anxiety)](心理学/临床/焦虑/INDEX.md)
+- [抑郁症专题 (Depression)](心理学/临床/抑郁/INDEX.md)
+- [恐惧症与强迫症 (Phobia & OCD)](心理学/临床/恐惧症/INDEX.md)
+- [创伤、危机与干预 (Trauma & Crisis)](心理学/临床/创伤/INDEX.md)
+  - [危机评估与自杀干预 (Crisis & Suicide)](心理学/临床/危机评估/INDEX.md)
+  - [创伤后成长 (Postvention)](心理学/临床/危机善后/INDEX.md)
+  - [自杀干预专题 (Suicide Intervention)](心理学/临床/自杀干预/INDEX.md)
 
 ### 3. 🔬 压力与HPA轴 (Stress & HPA Axis)
-- [慢性压力专题 (Chronic Stress)](心理学/压力与HPA轴/慢性压力/)
-- [皮质醇研究 (Cortisol)](心理学/压力与HPA轴/皮质醇/)
-- [慢性疲劳综合征 (CFS)](心理学/压力与HPA轴/慢性疲劳/)
+- [慢性压力专题 (Chronic Stress)](心理学/压力与HPA轴/慢性压力/INDEX.md)
+- [皮质醇研究 (Cortisol)](心理学/压力与HPA轴/皮质醇/INDEX.md)
+- [慢性疲劳综合征 (CFS)](心理学/压力与HPA轴/慢性疲劳/INDEX.md)
 
 ### 4. 🌱 发展心理学 (Developmental Psychology)
-- [青少年心理与发展 (Adolescent)](心理学/发展心理/青少年/)
-- [**儿童发展心理学 (Child Development)**](心理学/发展心理/儿童发展/) **[NEW]** — 依恋理论/Piaget认知/Erikson阶段/游戏治疗/育儿风格
-- [中年危机专题 (Midlife Crisis)](心理学/发展心理/中年危机/)
-- [更年期心理 (Menopause)](心理学/发展心理/更年期/)
-- [**老年心理学 (Aging Psychology)**](心理学/发展心理/衰老心理学/) **[NEW]** — 成功老化/认知衰退/社会情绪选择/丧亲/老年心理干预
+- [青少年心理与发展 (Adolescent)](心理学/发展心理/青少年/INDEX.md)
+- [**儿童发展心理学 (Child Development)**](心理学/发展心理/儿童发展/INDEX.md) **[NEW]** — 依恋理论/Piaget认知/Erikson阶段/游戏治疗/育儿风格
+- [中年危机专题 (Midlife Crisis)](心理学/发展心理/中年危机/INDEX.md)
+- [更年期心理 (Menopause)](心理学/发展心理/更年期/INDEX.md)
+- [**老年心理学 (Aging Psychology)**](心理学/发展心理/衰老心理学/INDEX.md) **[NEW]** — 成功老化/认知衰退/社会情绪选择/丧亲/老年心理干预
 
 ### 5. 👥 社会与人际心理 (Social & Interpersonal)
-- [友谊心理学 (Friendship)](心理学/社会心理/友谊/)
-- [孤独感研究 (Loneliness)](心理学/社会心理/孤独/) — 含数字时代/职场/老年/存在性孤独 **[NEW]**
-- [独处专题 (Solitude)](心理学/社会心理/独处/) — 从孤独到独处的转化 **[NEW]**
-- [仇恨心理学 (Hatred)](心理学/社会心理/仇恨/)
-- [情感虐待 (Emotional Abuse)](心理学/社会心理/情感虐待/)
-- [政治心理学 (Political Psychology)](心理学/社会心理/政治心理学/)
-- [农村心理学 (Rural Psychology)](心理学/社会心理/农村心理学/)
-- [宠物心理学 (Pet Psychology)](心理学/社会心理/宠物心理学/)
-- [恋爱与婚姻心理 (Relationships)](心理学/应用心理/亲密关系/)
-  - [出轨心理学专题 (Infidelity)](心理学/应用心理/亲密关系/出轨)
+- [友谊心理学 (Friendship)](心理学/社会心理/友谊/INDEX.md)
+- [孤独感研究 (Loneliness)](心理学/社会心理/孤独/INDEX.md) — 含数字时代/职场/老年/存在性孤独 **[NEW]**
+- [独处专题 (Solitude)](心理学/社会心理/独处/INDEX.md) — 从孤独到独处的转化 **[NEW]**
+- [仇恨心理学 (Hatred)](心理学/社会心理/仇恨/INDEX.md)
+- [情感虐待 (Emotional Abuse)](心理学/社会心理/情感虐待/INDEX.md)
+- [政治心理学 (Political Psychology)](心理学/社会心理/政治心理学/INDEX.md)
+- [农村心理学 (Rural Psychology)](心理学/社会心理/农村心理学/INDEX.md)
+- [宠物心理学 (Pet Psychology)](心理学/社会心理/宠物心理学/INDEX.md)
+- [恋爱与婚姻心理 (Relationships)](心理学/应用心理/亲密关系/INDEX.md)
+  - [出轨心理学专题 (Infidelity)](心理学/应用心理/亲密关系/出轨/INDEX.md)
   - [离婚心理学专题 (Divorce)](心理学/INDEX.md)
-  - [亲密关系冷战专题 (Silent Treatment)](心理学/应用心理-亲密关系-婚姻-婚姻冷暴力.md)
-  - [情感银行 (Emotional Bank Account)](心理学/应用心理/关系咨询/情感银行账户/)
-- [父母如何更懂孩子 (Understanding Children)](心理学/应用心理/亲密关系/婚姻/育儿)
-- [性别关系动态分析 (Gender Relations Dynamics)](心理学/社会心理/关系社会语境/性别动态/) **[NEW]**
-  - [媚男/媚女现象](心理学/社会心理-关系社会语境-性别动态-性别男性讨好心理学.md) · [厌男/厌女情结](心理学/社会心理-关系社会语境-性别动态-性别厌男心理学.md)
-  - [跨种族性别吸引力](心理学/社会心理-关系社会语境-性别动态-性别跨种族吸引力心理学.md)
+  - [亲密关系冷战专题 (Silent Treatment)](心理学/应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻冷暴力.md)
+  - [情感银行 (Emotional Bank Account)](心理学/应用心理/关系咨询/情感银行账户/INDEX.md)
+- [父母如何更懂孩子 (Understanding Children)](心理学/应用心理/亲密关系/INDEX.md)
+- [性别关系动态分析 (Gender Relations Dynamics)](心理学/社会心理/关系社会语境/INDEX.md) **[NEW]**
+  - [媚男/媚女现象](心理学/社会心理/关系社会语境/社会心理-关系社会语境-性别动态-性别男性讨好心理学.md) · [厌男/厌女情结](心理学/社会心理/关系社会语境/社会心理-关系社会语境-性别动态-性别厌男心理学.md)
+  - [跨种族性别吸引力](心理学/社会心理/关系社会语境/社会心理-关系社会语境-性别动态-性别跨种族吸引力心理学.md)
 
 ### 6. 🎭 行为与成瘾 (Behavioral & Addiction)
-- [成瘾心理学 (Addiction)](心理学/行为心理/成瘾/)
-- [窥视与色情成瘾 (Voyeurism & Pornography)](心理学/行为心理/窥视色情成瘾/)
-- [数字囤积 (Digital Hoarding)](心理学/行为心理/数字囤积/)
-- [囤积障碍 (Hoarding Disorder)](心理学/行为心理/囤积障碍/)
+- [成瘾心理学 (Addiction)](心理学/行为心理/成瘾/INDEX.md)
+- [窥视与色情成瘾 (Voyeurism & Pornography)](心理学/行为心理/窥视色情成瘾/INDEX.md)
+- [数字囤积 (Digital Hoarding)](心理学/行为心理/数字囤积/INDEX.md)
+- [囤积障碍 (Hoarding Disorder)](心理学/行为心理/囤积障碍/INDEX.md)
 
 ### 7. 🧘 躯体与情绪调节 (Somatic & Emotion)
-- [躯体体验疗法 (Somatic Experiencing)](心理学/躯体身心/躯体/)
-- [情绪科学与调节 (Emotion)](心理学/躯体身心/情绪/)
-- [睡眠科学 (Sleep)](心理学/躯体身心/睡眠/)
-- [失眠临床 (Insomnia)](心理学/躯体身心/失眠/)
-- [放松技术 (Relaxation)](心理学/躯体身心/放松/)
+- [躯体体验疗法 (Somatic Experiencing)](心理学/躯体身心/躯体/INDEX.md)
+- [情绪科学与调节 (Emotion)](心理学/躯体身心/情绪/INDEX.md)
+- [睡眠科学 (Sleep)](心理学/躯体身心/睡眠/INDEX.md)
+- [失眠临床 (Insomnia)](心理学/躯体身心/失眠/INDEX.md)
+- [放松技术 (Relaxation)](心理学/躯体身心/放松/INDEX.md)
 
 ### 8. 💪 自我调节技能 (Self-Regulation)
-- [自我关怀 (Self-Compassion)](心理学/自我调节/自我慈悲/)
-- [自信心理学 (Self-Confidence)](心理学/自我调节/自信心理/)
-- [自我安抚技术 (Self-Soothing)](心理学/自我调节/自我安抚/)
-- [接地技术 (Grounding)](心理学/自我调节/接地技术/)
-- [容纳技术 (Containment)](心理学/自我调节/容纳技术/)
+- [自我关怀 (Self-Compassion)](心理学/自我调节/自我慈悲/INDEX.md)
+- [自信心理学 (Self-Confidence)](心理学/自我调节/自信心理/INDEX.md)
+- [自我安抚技术 (Self-Soothing)](心理学/自我调节/自我安抚/INDEX.md)
+- [接地技术 (Grounding)](心理学/自我调节/接地技术/INDEX.md)
+- [容纳技术 (Containment)](心理学/自我调节/容纳技术/INDEX.md)
 
 ### 9. 💼 应用心理学 (Applied Psychology)
-- [职业心理学 (Vocational)](心理学/应用心理/职业心理学/)
-- [职场心理危机 (Workplace Crisis)](心理学/应用心理/职场心理危机/)
-- [假日心理学 (Holiday Psychology)](心理学/应用心理/假日心理学/)
-- [物质主义心理学 (Materialism)](心理学/应用心理/物质主义心理学/)
-- [**教育心理学 (Educational Psychology)**](心理学/应用心理/教育心理学/) **[NEW]** — 学习理论/教学设计/学生心理健康
+- [职业心理学 (Vocational)](心理学/应用心理/职业心理学/INDEX.md)
+- [职场心理危机 (Workplace Crisis)](心理学/应用心理/职场心理危机/INDEX.md)
+- [假日心理学 (Holiday Psychology)](心理学/应用心理/假日心理学/INDEX.md)
+- [物质主义心理学 (Materialism)](心理学/应用心理/物质主义心理学/INDEX.md)
+- [**教育心理学 (Educational Psychology)**](心理学/应用心理/教育心理学/INDEX.md) **[NEW]** — 学习理论/教学设计/学生心理健康
 
 ### 10. 📚 特殊专题 (Special Topics)
-- [贫困与苦难心理学 (Poverty & Suffering)](心理学/特殊专题/贫困苦难/)
-- [存在虚无感 (Existential Vacuum)](心理学/特殊专题/存在虚无/)
-- [中医心理学 (TCM Psychology)](心理学/特殊专题/中医心理学/)
-- [哀伤与丧恸 (Grief & Loss)](心理学/特殊专题/哀伤/)
-- [家庭系统排列 (Family Constellation)](心理学/特殊专题/家庭系统排列/)
-- [居家整理心理学 (Home Organization)](心理学/特殊专题/居家整理/)
-- [**梦的心理学 (Dream Psychology)**](心理学/特殊专题/梦心理学/) **[NEW]** — 释梦/清醒梦/噩梦治疗(IRT)/梦工作
+- [贫困与苦难心理学 (Poverty & Suffering)](心理学/特殊专题/贫困苦难/INDEX.md)
+- [存在虚无感 (Existential Vacuum)](心理学/特殊专题/存在虚无/INDEX.md)
+- [中医心理学 (TCM Psychology)](心理学/特殊专题/中医心理学/INDEX.md)
+- [哀伤与丧恸 (Grief & Loss)](心理学/特殊专题/哀伤/INDEX.md)
+- [家庭系统排列 (Family Constellation)](心理学/特殊专题/家庭系统排列/INDEX.md)
+- [居家整理心理学 (Home Organization)](心理学/特殊专题/居家整理/INDEX.md)
+- [**梦的心理学 (Dream Psychology)**](心理学/特殊专题/梦心理学/INDEX.md) **[NEW]** — 释梦/清醒梦/噩梦治疗(IRT)/梦工作
 
 ### 11. 🧘‍♂️ 冥想技术与意识研究 (Meditation & Consciousness)
-- [冥想基础与核心技术 (Core)](冥想/基础-总览-冥想核心.md)
-- [冥想心念管理方法论 (Mind Management)](冥想/基础-总览-冥想心智管理.md)
-- [冥想哲学认知论基础 (Philosophical Foundations)](冥想/基础-总览-冥想哲学基础.md)
-- [冥想脑科学基础 (Brain Science)](冥想/基础-总览-冥想Brain科学基础.md)
+- [冥想基础与核心技术 (Core)](冥想/基础/基础-总览-冥想核心.md)
+- [冥想心念管理方法论 (Mind Management)](冥想/基础/基础-总览-冥想心智管理.md)
+- [冥想哲学认知论基础 (Philosophical Foundations)](冥想/基础/基础-总览-冥想哲学基础.md)
+- [冥想脑科学基础 (Brain Science)](冥想/基础/基础-总览-冥想Brain科学基础.md)
 - **[专业冥想引导词课程库 (~400门/200+场景)](冥想/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，25 系列，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、自然元素、时间节律、社交社群、创意艺术、学习智慧、世界传统、数字现代、存在灵性、死亡冥想等 200+ 具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
-- [直接认知/直指体系 (Direct Recognition)](冥想/传统/佛教/直接认知/)
-- [坛城与曼荼罗体系 (Mandala)](冥想/传统-佛教-藏传冥想-Mandala冥想总览.md)
-- [萨提亚家族治疗模式 (Satir Model)](疗法/萨提亚模型-Satir模型总览.md)
-- [内观与先验冥想 (Vipassana & TM)](冥想/传统-佛教-内观-观冥想.md)
-- [冥想纪录片指南 (Documentary Guide)](冥想/基础-总览-冥想Documentary指南.md)
+- [直接认知/直指体系 (Direct Recognition)](冥想/直接认知冥想课程/INDEX.md)
+- [坛城与曼荼罗体系 (Mandala)](冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala冥想总览.md)
+- [萨提亚家族治疗模式 (Satir Model)](疗法/萨提亚模型/Satir模型总览/萨提亚模型-Satir模型总览.md)
+- [内观与先验冥想 (Vipassana & TM)](冥想/传统/佛教/内观/传统-佛教-内观-观冥想.md)
+- [冥想纪录片指南 (Documentary Guide)](冥想/基础/基础-总览-冥想Documentary指南.md)
 
 ### 12. 🧪 循证疗法与感官治疗 (Evidence-Based & Sensory Therapy)
-- [正念认知疗法 (MBCT)](疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md)
-- [创伤聚焦认知行为疗法 (TF-CBT)](疗法/认知行为-创伤聚焦认知行为疗法-创伤聚焦认知行为创伤聚焦认知行为疗法总览.md)
-- [人际关系疗法 (IPT)](疗法/整合疗法-人际关系疗法-人际关系疗法人际心理治疗总览.md)
-- [森田疗法 (Morita Therapy)](疗法/整合疗法-森田疗法-森田疗法.md)
-- [OH 卡牌临床应用 (OH Cards)](疗法/创意表达-OH卡牌疗法-OH卡牌疗法总览.md)
-- [感官疗法全系 (Sensory Therapy)](疗法/感官自然/感官/)
-- [香气与艾灸治疗 (Incense & Moxibustion)](疗法/感官自然/香气/)
+- [正念认知疗法 (MBCT)](疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md)
+- [创伤聚焦认知行为疗法 (TF-CBT)](疗法/认知行为/创伤聚焦认知行为疗法/认知行为-创伤聚焦认知行为疗法-创伤聚焦认知行为创伤聚焦认知行为疗法总览.md)
+- [人际关系疗法 (IPT)](疗法/整合疗法/人际关系疗法/整合疗法-人际关系疗法-人际关系疗法人际心理治疗总览.md)
+- [森田疗法 (Morita Therapy)](疗法/整合疗法/森田疗法/整合疗法-森田疗法-森田疗法.md)
+- [OH 卡牌临床应用 (OH Cards)](疗法/创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌疗法总览.md)
+- [感官疗法全系 (Sensory Therapy)](疗法/INDEX.md)
+- [香气与艾灸治疗 (Incense & Moxibustion)](疗法/INDEX.md)
 
 ---
 
@@ -264,7 +264,7 @@ cross_refs:
 | **05-实践增长** | 职场·正念·情商 | 倦怠↔职场表达、MBSR/MBCT↔正念实践、情绪科学↔情商应用 |
 
 ---
-*返回根目录 [README.md](.)*
+*返回根目录 [README.md](./INDEX.md)*
 
 ---
 

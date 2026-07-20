@@ -1,30 +1,32 @@
 ---
-
-title: "贡献指南 (Contributing Guide)"
-description: "贡献指南 (Contributing Guide)的详细解析与实践指南"
-category: "general"
-tags: ["cbt"]
-last_updated: "2026-05"
-difficulty: "intermediate"
-reading_level: "intermediate"
-estimated_read_time: "5min"
+title: 贡献指南 (Contributing Guide)
+description: 贡献指南 (Contributing Guide)的详细解析与实践指南
+category: general
+tags:
+- cbt
+last_updated: 2026-05
+difficulty: intermediate
+reading_level: intermediate
+estimated_read_time: 5min
 intent_queries:
-  - "什么是贡献指南"
-  - "贡献指南的核心概念"
-  - "贡献指南的方法与实践"
-trigger_keywords: ["贡献指南", "cbt", "sexuality"]
+- 什么是贡献指南
+- 贡献指南的核心概念
+- 贡献指南的方法与实践
+trigger_keywords:
+- 贡献指南
+- cbt
+- sexuality
 cross_refs:
-  - path: "01-智慧传统/哲学/东亚哲学/中国/道家/Zhuangzi.md"
-    relation: "焦虑/冥想/性学"
-  - path: 01-智慧传统/哲学/东亚哲学-总览-Philosophy_Eastern_Classical_Confucianism.md
-    relation: "焦虑/冥想/性学"
-  - path: "01-智慧传统/哲学/南亚/印度/吠檀多/Bhagavad_Gita_Study.md"
-    relation: "焦虑/冥想/性学"
-  - path: "01-智慧传统/哲学/西方哲学/二十世纪/分析哲学/Buddhist_Perspective_Reviews.md"
-    relation: "焦虑/冥想/性学"
-  - path: "01-智慧传统/哲学/西方哲学/古代/古典/Epicurus.md"
-    relation: "焦虑/冥想/性学"
-
+- path: 01-智慧传统/哲学/东亚哲学/中国/道家/东亚哲学-中国-taoism-Zhuangzi.md
+  relation: 焦虑/冥想/性学
+- path: 01-智慧传统/哲学/东亚哲学/总览/东亚哲学-总览-Philosophy_Eastern_Classical_Confucianism.md
+  relation: 焦虑/冥想/性学
+- path: 01-智慧传统/哲学/南亚/印度/吠檀多/南亚-印度-vedanta-Bhagavad_Gita_Study.md
+  relation: 焦虑/冥想/性学
+- path: 01-智慧传统/哲学/西方哲学/二十世纪/西方哲学-二十世纪-analytic-Buddhist_Perspective_Reviews.md
+  relation: 焦虑/冥想/性学
+- path: 01-智慧传统/哲学/西方哲学/古代/西方哲学-古代-classical-Epicurus.md
+  relation: 焦虑/冥想/性学
 ---
 # 贡献指南 (Contributing Guide)
 

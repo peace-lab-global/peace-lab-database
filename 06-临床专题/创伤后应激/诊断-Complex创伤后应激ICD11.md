@@ -1,18 +1,17 @@
 ---
-title: "复杂性 PTSD (ICD-11 CPTSD)"
-description: "ICD-11 复杂性 PTSD 诊断标准、与 BPD 鉴别、STAIR-NT 治疗"
-category: "clinical"
-tags: ["CPTSD", "ICD-11", "complex-trauma", "STAIR-NT", "DES-NOS"]
-last_updated: "2026-07"
+title: 复杂性 PTSD (ICD-11 CPTSD)
+description: ICD-11 复杂性 PTSD 诊断标准、与 BPD 鉴别、STAIR-NT 治疗
+category: clinical
+tags: [CPTSD, ICD-11, complex-trauma, STAIR-NT, DES-NOS]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/创伤后应激/诊断/Trauma_PTSD_Diagnosis_and_Differential.md"
-    relation: "基础 PTSD 诊断"
-  - path: "06-临床专题/创伤后应激/疗法/Trauma_Evidence_Based_Interventions.md"
-    relation: "循证治疗总览"
-  - path: "06-临床专题/人格障碍/B类群/Borderline_Personality_Disorder.md"
-    relation: "BPD 鉴别"
+- path: 06-临床专题/创伤后应激/诊断-创伤创伤后应激诊断andDifferential.md
+  relation: 基础 PTSD 诊断
+- path: 06-临床专题/创伤后应激/疗法-创伤循证BasedInterventions.md
+  relation: 循证治疗总览
+- path: 06-临床专题/人格障碍/B类群-BorderlinePersonality障碍.md
+  relation: BPD 鉴别
 ---
-
 # 复杂性 PTSD (Complex PTSD, ICD-11 CPTSD)
 
 > **核心定位**：ICD-11 (6B41) 正式承认的独立诊断。在 PTSD 核心症状基础上，增加**自我组织紊乱**(DSO)三维度。源于长期、重复、无法逃脱的创伤（如童年虐待/家暴/战俘）。

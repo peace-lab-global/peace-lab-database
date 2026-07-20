@@ -1,0 +1,73 @@
+---
+title: 《死亡课》The Death Class
+description: 《死亡课》The Death Class —— World Nonfiction · Death Dying 专题
+category: 人文与艺术疗愈 > 文学 > World Nonfiction > Death Dying
+tags: [literature, music]
+last_updated: 2026-07
+difficulty: beginner
+reading_level: beginner
+estimated_read_time: 5min
+intent_queries:
+- 什么是《死亡课》The Death Class
+- 《死亡课》The Death Class的核心概念
+- 《死亡课》The Death Class的方法与实践
+trigger_keywords:
+- 《死亡课》The
+- Death
+- Class
+cross_refs:
+- path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
+  relation: 死亡/临终
+- path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
+  relation: 临终/死亡/death
+- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+  relation: 死亡/临终/death
+- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_25_Death_Meditation_Deep_Dive.md
+  relation: 死亡/death/冥想
+---
+# 《死亡课》The Death Class
+
+> 厄普顿·海因兹（Erika Hayasaki）著，2014年出版。报道文学，记录了新泽西州基恩大学诺玛·鲍伊教授开设的"死亡与临终"课程，以及选课学生们如何在面对死亡主题的过程中改变了自己的人生。
+
+## 一、总体评价
+
+这是一本关于"死亡教育如何改变年轻人"的纪实作品。鲍伊教授的课堂不是传统的讲座，而是**沉浸式体验**：学生们写自己的讣告、设计自己的葬礼、参观殡仪馆、与临终病人对话、在墓地做冥想。
+
+海因兹跟踪了多位学生三年的生活，记录了这些"死亡作业"如何在他们的关系中、职业选择中、自我认知中产生了涟漪效应。
+
+## 二、核心内容
+
+### "死亡作业"的冲击力
+
+| 作业 | 内容 | 学生的反应 |
+|------|------|-----------|
+| 写讣告 | 假设自己今晚死去，写一份讣告 | 震惊、哭泣、然后 clarity |
+| 设计葬礼 | 规划自己的葬礼——音乐、地点、悼词 | 发现什么对自己真正重要 |
+| 遗愿清单 | 列出死前想做的25件事 | 发现"去跳伞"不如"告诉父亲我爱他" |
+| 墓地冥想 | 在墓地静坐一小时 | 与死亡的物理 proximity 带来觉知 |
+| 临终陪伴 | 去安宁病房陪伴陌生人 | 学会"在场"比"说话"更重要 |
+
+### 从"死亡焦虑"到"生命觉醒"
+
+海因兹发现，课程结束后，学生们普遍经历了某种转化：
+- 不再是"我害怕死"，而是"我要更认真地活"
+- 不再是"我要赚很多钱"，而是"我要建立深厚的关系"
+- 不再是"我要追求完美"，而是"我要接受自己的不完美"
+
+这种转化与西藏生死书中"向死而生"的教导直接呼应——**意识到死亡不是让你更焦虑，而是让你更自由。**
+
+## 三、实践与应用
+
+- **死亡教育的课程设计**：鲍伊课程的核心经验是"体验式"而非"讲授式"——写讣告、设计葬礼、墓园静坐、安宁病房探访，都是可移植的教学模块，已被多地的死亡教育课程借鉴。
+- **写作作为死亡准备**：写自己的讣告是一种温和的"生命回顾"技术，能让人快速看清"我希望如何被记住"与"我现在如何生活"之间的差距。
+- **临终陪伴的要点**：书中学生的共同体会——陪伴临终者时，"在场"比"说话"重要，倾听比安慰重要——也正是安宁疗护志愿者训练的核心原则。
+
+## 四、延伸阅读
+
+- 书中人物：诺玛·鲍伊（Norma Bowe）在基恩大学（Kean University）开设的死亡课程多年爆满，是美国死亡教育领域的著名案例。
+- 相关经典：Kübler-Ross, *On Death and Dying*（1969）——临终心理研究的奠基之作。
+- 本库相关条目：[《直视骄阳》Staring at the Sun](../世界非虚构-死亡与临终-staring-at-the-sun.md)、[死亡与临终 INDEX](../INDEX.md)
+
+## 五、阅读体验
+
+**评分：8.0/10** — 作为纪实文学，这本书的叙事流畅、人物丰满、情感真实。它证明了死亡教育不仅适合临终者，也适合年轻人——实际上，越早面对死亡，越能建立坚实的人生基础。不足之处是部分章节过于依赖学生的 self-report，缺乏长期的 follow-up 数据。

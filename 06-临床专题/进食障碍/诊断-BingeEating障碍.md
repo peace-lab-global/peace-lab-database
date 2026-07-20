@@ -1,18 +1,17 @@
 ---
-title: "暴食障碍 (Binge Eating Disorder)"
-description: "暴食障碍 DSM-5-TR 诊断标准、与肥胖交叉、CBT-BED/IPT/lisdexamfetamine 治疗"
-category: "clinical"
-tags: ["binge-eating-disorder", "BED", "obesity", "eating-disorders", "lisdexamfetamine"]
-last_updated: "2026-07"
+title: 暴食障碍 (Binge Eating Disorder)
+description: 暴食障碍 DSM-5-TR 诊断标准、与肥胖交叉、CBT-BED/IPT/lisdexamfetamine 治疗
+category: clinical
+tags: [binge-eating-disorder, BED, obesity, eating-disorders, lisdexamfetamine]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/进食障碍/诊断/Bulimia_Nervosa.md"
-    relation: "鉴别诊断"
-  - path: "03-生命科学/生物学/体重减/"
-    relation: "肥胖与体重管理"
-  - path: "06-临床专题/成瘾/Behavioral_Addiction_Overview.md"
-    relation: "行为成瘾交叉"
+- path: 06-临床专题/进食障碍/诊断-贪食症神经性.md
+  relation: 鉴别诊断
+- path: 03-生命科学/生物学/体重减/
+  relation: 肥胖与体重管理
+- path: 06-临床专题/成瘾/诊断-行为成瘾总览.md
+  relation: 行为成瘾交叉
 ---
-
 # 暴食障碍 (Binge Eating Disorder, BED)
 
 > **核心定位**：DSM-5 新增正式诊断，以反复暴食+失控感+痛苦为核心，**无规律补偿行为**。最常见的进食障碍，与肥胖高度交叉但非等同。
@@ -216,8 +215,8 @@ cross_refs:
 | [评估工具系统](评估-EatingDisorders评估工具.md) | 评估量表 |
 | [CBT-E 治疗](治疗-认知行为疗法E认知行为疗法forEatingDisorders.md) | 跨诊断治疗 |
 | [药物疗法](治疗-Pharmacotherapy进食障碍.md) | lisdexamfetamine |
-| [03-体重管理](../../../03-生命科学/生物学/体重减/) | 肥胖交叉 |
-| [06-成瘾障碍](../成瘾) | 行为成瘾交叉 |
+| [03-体重管理](../../03-生命科学/生物学/体重减/INDEX.md) | 肥胖交叉 |
+| [06-成瘾障碍](../成瘾/INDEX.md) | 行为成瘾交叉 |
 
 ---
 *返回 [进食障碍专题索引](INDEX.md) · 返回 [06-临床专题 总索引](../INDEX.md)*

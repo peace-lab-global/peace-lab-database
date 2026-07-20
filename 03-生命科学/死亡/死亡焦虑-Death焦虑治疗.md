@@ -1,26 +1,30 @@
 ---
-title: "Death Anxiety Treatment (死亡焦虑治疗)"
-description: "Death Anxiety Treatment (死亡焦虑治疗) —— 生命科学与生物医学 · 死亡学 专题"
-category: "生命科学与生物医学 > 死亡学"
-tags: ["aging", "exercise", "death"]
-last_updated: "2026-05"
-difficulty: "advanced"
-reading_level: "advanced"
-estimated_read_time: "15min"
+title: Death Anxiety Treatment (死亡焦虑治疗)
+description: Death Anxiety Treatment (死亡焦虑治疗) —— 生命科学与生物医学 · 死亡学 专题
+category: 生命科学与生物医学 > 死亡学
+tags: [aging, exercise, death]
+last_updated: 2026-05
+difficulty: advanced
+reading_level: advanced
+estimated_read_time: 15min
 intent_queries:
-  - "什么是Death Anxiety Treatment"
-  - "Death Anxiety Treatment的核心概念"
-  - "Death Anxiety Treatment的方法与实践"
-trigger_keywords: ["Death", "Anxiety", "Treatment", "死亡焦虑治疗"]
+- 什么是Death Anxiety Treatment
+- Death Anxiety Treatment的核心概念
+- Death Anxiety Treatment的方法与实践
+trigger_keywords:
+- Death
+- Anxiety
+- Treatment
+- 死亡焦虑治疗
 cross_refs:
-  - path: 02-心智心理/心理学/临床-焦虑-Anxiety_Disorder_Treatment.md
-    relation: "焦虑/治疗/焦虑"
-  - path: "04-人文艺术/文学/worldnonfiction/心理学存在/existential-psycho疗法.md"
-    relation: "existential/死亡/yalom"
-  - path: "04-人文艺术/文学/worldnonfiction/心理学存在/意义的意志.md"
-    relation: "logo疗法/意义疗法/existential"
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_25_Death_Meditation_Deep_Dive.md"
-    relation: "死亡/死亡/意义疗法"
+- path: 02-心智心理/心理学/临床/焦虑/临床-焦虑-Anxiety_Disorder_Treatment.md
+  relation: 焦虑/治疗/焦虑
+- path: 04-人文艺术/文学/世界非虚构/心理学存在/世界非虚构-心理学存在-existential-psychotherapy.md
+  relation: existential/死亡/yalom
+- path: 04-人文艺术/文学/世界非虚构/心理学存在/世界非虚构-心理学存在-意义的意志.md
+  relation: logo疗法/意义疗法/existential
+- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_25_Death_Meditation_Deep_Dive.md
+  relation: 死亡/死亡/意义疗法
 ---
 # Death Anxiety Treatment (死亡焦虑治疗)
 

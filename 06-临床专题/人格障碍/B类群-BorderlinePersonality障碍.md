@@ -1,16 +1,15 @@
 ---
-title: "边缘型人格障碍 (Borderline Personality Disorder)"
-description: "BPD DSM-5 诊断标准、评估、DBT/MBT/图式疗法、共病、预后、自杀风险管理"
-category: "clinical"
-tags: ["BPD", "borderline", "emotion-dysregulation", "self-harm", "DBT"]
-last_updated: "2026-07"
+title: 边缘型人格障碍 (Borderline Personality Disorder)
+description: BPD DSM-5 诊断标准、评估、DBT/MBT/图式疗法、共病、预后、自杀风险管理
+category: clinical
+tags: [BPD, borderline, emotion-dysregulation, self-harm, DBT]
+last_updated: 2026-07
 cross_refs:
-  - path: "06-临床专题/创伤后应激/"
-    relation: "创伤与 BPD"
-  - path: "06-临床专题/人格障碍/治疗/DBT_Borderline_Complete.md"
-    relation: "DBT 治疗"
+- path: 06-临床专题/创伤后应激/
+  relation: 创伤与 BPD
+- path: 06-临床专题/人格障碍/治疗-DBTBorderline完整.md
+  relation: DBT 治疗
 ---
-
 # 边缘型人格障碍 (Borderline Personality Disorder, BPD)
 
 > **核心定位**：以情绪不稳定、关系紊乱、自我形象紊乱、冲动和自伤行为为特征的人格障碍。过去被认为"不可治"——现在 DBT/MBT/图式疗法/TFP 已证明其可有效治疗。
