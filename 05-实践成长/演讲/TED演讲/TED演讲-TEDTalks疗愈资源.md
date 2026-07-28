@@ -40,11 +40,11 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Andy Puddicombe** | All it takes is 10 mindful minutes | 2012 | 每天10分钟正念改变生活 | [正念核心](../../个人发展/正念/正念核心/正念-正念核心.md) | 9:24 | [观看](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) |
-| **Jon Kabat-Zinn** | Mindfulness and Meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
-| **Shauna Shapiro** | The Power of Mindfulness | 2017 | 正念的神经科学与心理学 | [正念神经科学](../../个人发展/正念/正念核心/正念-正念核心.md) | 16:32 | [观看](https://www.youtube.com/watch?v=IeblJdB2-Vo) |
-| **Diana Winston** | The Practice of Mindfulness | 2019 | UCLA正念中心主任的实修指南 | [正念临床应用](../../个人发展/正念/正念临床Applications/正念-正念临床Applications.md) | 15:47 | [观看](https://www.youtube.com/watch?v=tTb3d5cjSFI) |
-| **Tara Brach** | The RAIN of Self-Compassion | 2020 | RAIN技术详解 | [自我慈悲](../../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md) | 21:15 | [观看](https://www.youtube.com/watch?v=dG4YTdimAHs) |
+| **Andy Puddicombe** | All it takes is 10 mindful minutes | 2012 | 每天10分钟正念改变生活 | [正念核心](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) | 9:24 | [观看](https://www.ted.com/talks/andy_puddicombe_all_it_takes_is_10_mindful_minutes) |
+| **Jon Kabat-Zinn** | Mindfulness and Meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
+| **Shauna Shapiro** | The Power of Mindfulness | 2017 | 正念的神经科学与心理学 | [正念神经科学](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) | 16:32 | [观看](https://www.youtube.com/watch?v=IeblJdB2-Vo) |
+| **Diana Winston** | The Practice of Mindfulness | 2019 | UCLA正念中心主任的实修指南 | [正念临床应用](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) | 15:47 | [观看](https://www.youtube.com/watch?v=tTb3d5cjSFI) |
+| **Tara Brach** | The RAIN of Self-Compassion | 2020 | RAIN技术详解 | [自我慈悲](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 21:15 | [观看](https://www.youtube.com/watch?v=dG4YTdimAHs) |
 
 ### 2.2 神经可塑性与大脑
 
@@ -155,7 +155,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-智慧传统/宗教/佛教/净土/佛教-净土-佛教PureLand实践.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
+| **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E4%BD%9B%E6%95%99-%E5%87%80%E5%9C%9F-%E4%BD%9B%E6%95%99PureLand%E5%AE%9E%E8%B7%B5.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
 | **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-生命科学/死亡/哲学文化-Death存在心理学.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
 | **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-生命科学/死亡/死亡焦虑-Death焦虑总览.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
 
@@ -178,7 +178,7 @@ cross_refs: []
 |-------|---------|------|----------|------------|------|----------|
 | **Viktor Frankl** | Why believe in others | 1972 | 意义疗法创始人珍贵演讲 | [存在主义心理学](../../../01-智慧传统/哲学/西方哲学/实用哲学/西方哲学-实用哲学-哲学WesternStoicismExistentialism.md) | 28:15 | [观看](https://www.youtube.com/watch?v=fD1512_XJEw) |
 | **Emily Esfahani Smith** | There's more to life than being happy | 2017 | 意义四支柱 | [意义疗法](../../../02-心智心理/心理学/特殊专题/哀伤/特殊专题-哀伤-哀伤Bereavement.md) | 12:20 | [观看](https://www.ted.com/talks/emily_esfahani_smith_there_s_more_to_life_than_being_happy) |
-| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始（心流相关） | [心流理论](../../个人发展/心流/FlowState核心/心流-FlowState核心.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
+| **Simon Sinek** | How great leaders inspire action | 2009 | 从为什么开始（心流相关） | [心流理论](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md) | 18:04 | [观看](https://www.ted.com/talks/simon_sinek_how_great_leaders_inspire_action) |
 
 ---
 
@@ -188,8 +188,8 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论创始人 | [自我慈悲](../../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
-| **Chris Germer** | The mindful path to self-compassion | 2015 | MSC联合创始人演讲 | [MSC课程](../../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md) | 16:48 | [观看](https://www.youtube.com/watch?v=rUMowN-FYpw) |
+| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论创始人 | [自我慈悲](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
+| **Chris Germer** | The mindful path to self-compassion | 2015 | MSC联合创始人演讲 | [MSC课程](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 16:48 | [观看](https://www.youtube.com/watch?v=rUMowN-FYpw) |
 | **Sharon Salzberg** | Love yourself (it's not a dirty word) | 2011 | 慈心禅大师谈自爱 | [慈心禅](../../../01-智慧传统/宗教/佛教/基础/佛教-基础-佛教Four四无量心.md) | 12:34 | [观看](https://www.youtube.com/watch?v=lHJsdi3yWc0) |
 
 ### 8.2 内在小孩与疗愈
@@ -216,7 +216,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的大脑营养 | [营养精神病学](../../../03-生命科学/食物/营养学/营养学-NutritionalNatural疗法.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
-| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康 | [肠脑轴](../../../03-生命科学/食物/Bio营养肠道/Bio营养肠道.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
+| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康 | [肠脑轴](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E9%A3%9F%E7%89%A9/Bio%E8%90%A5%E5%85%BB%E8%82%A0%E9%81%93.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
 | **Valter Longo** | The science of longevity | 2017 | 断食模拟饮食 | [断食智慧](../../../03-生命科学/食物/禁食/禁食-Bio禁食Metabolic.md) | 16:45 | [观看](https://www.youtube.com/watch?v=evGFWRXELyY) |
 
 ---
@@ -284,8 +284,8 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Mihaly Csikszentmihalyi** | Flow, the secret to happiness | 2004 | 心流理论创始人演讲 | [心流核心](../../个人发展/心流/FlowState核心/心流-FlowState核心.md) | 18:55 | [观看](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness) |
-| **Steven Kotler** | The flow genome project | 2014 | 心流神经科学研究 | [心流神经机制](../../个人发展/心流/FlowState核心/心流-FlowState核心.md) | 17:32 | [观看](https://www.youtube.com/watch?v=znwUCNrjpD4) |
+| **Mihaly Csikszentmihalyi** | Flow, the secret to happiness | 2004 | 心流理论创始人演讲 | [心流核心](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md) | 18:55 | [观看](https://www.ted.com/talks/mihaly_csikszentmihalyi_flow_the_secret_to_happiness) |
+| **Steven Kotler** | The flow genome project | 2014 | 心流神经科学研究 | [心流神经机制](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md) | 17:32 | [观看](https://www.youtube.com/watch?v=znwUCNrjpD4) |
 
 ### 13.2 创造力
 
@@ -302,7 +302,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Nadine Burke Harris** | How childhood trauma affects health | 2014 | ACE研究与童年逆境 | [童年创伤](../../../02-心智心理/心理学/发展心理/青少年/青少年危机/发展心理-青少年-青少年危机-Adolescent危机干预.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
+| **Nadine Burke Harris** | How childhood trauma affects health | 2014 | ACE研究与童年逆境 | [童年创伤](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86/%E9%9D%92%E5%B0%91%E5%B9%B4/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8D%B1%E6%9C%BA-Adolescent%E5%8D%B1%E6%9C%BA%E5%B9%B2%E9%A2%84.md) | 15:57 | [观看](https://www.ted.com/talks/nadine_burke_harris_how_childhood_trauma_affects_health_across_a_lifetime) |
 | **Angela Lee Duckworth** | Grit: The power of passion and perseverance | 2013 | 毅力与成长心态 | [发展心理](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学发展.md) | 6:12 | [观看](https://www.ted.com/talks/angela_lee_duckworth_grit_the_power_of_passion_and_perseverance) |
 | **Carol Dweck** | The power of believing that you can improve | 2014 | 成长型思维模式 | [认知发展](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学发展.md) | 10:20 | [观看](https://www.ted.com/talks/carol_dweck_the_power_of_believing_that_you_can_improve) |
 
@@ -348,7 +348,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Hans Rosling** | The best stats you've ever seen | 2006 | 全球健康数据可视化 | [公共健康](../../../02-心智心理/心理学/基础/框架/基础-框架-框架IndustryTrends.md) | 19:50 | [观看](https://www.ted.com/talks/hans_rosling_the_best_stats_you_ve_ever_seen) |
-| **Paul Farmer** | A doctor's case for health care for all | 2008 | 全球健康公平 | [社区支持](../../../03-生命科学/性学/社会社区支持/社会社区支持.md) | 23:59 | [观看](https://www.ted.com/talks/paul_farmer_a_doctor_s_case_for_health_care_for_all) |
+| **Paul Farmer** | A doctor's case for health care for all | 2008 | 全球健康公平 | [社区支持](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E7%A4%BE%E5%8C%BA%E6%94%AF%E6%8C%81.md) | 23:59 | [观看](https://www.ted.com/talks/paul_farmer_a_doctor_s_case_for_health_care_for_all) |
 
 ---
 
@@ -398,7 +398,7 @@ cross_refs: []
 
 | 使用场景 | 方法 | 示例 |
 |---------|------|------|
-| **扩展阅读** | 观看演讲后阅读对应表格 | 看完正念演讲→阅读[MBSR详表](../../个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) |
+| **扩展阅读** | 观看演讲后阅读对应表格 | 看完正念演讲→阅读[MBSR详表](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) |
 | **理论深化** | 从演讲故事到系统理论 | TED故事启发→查阅详细机制 |
 | **实践指导** | 结合演讲灵感与实操协议 | 演讲动机→查找具体修法 |
 | **建立体系** | 用演讲串联知识点 | 以TED为线索构建学习地图 |
@@ -506,10 +506,10 @@ cross_refs: []
 
 | 天数 | TED演讲 | 实践内容 | 对应知识库 |
 |------|---------|---------|------------|
-| Day 1-3 | Andy Puddicombe: 10 mindful minutes | 每日10分钟正念呼吸 | [正念核心](../../个人发展/正念/正念核心/正念-正念核心.md) |
-| Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](../../个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) |
+| Day 1-3 | Andy Puddicombe: 10 mindful minutes | 每日10分钟正念呼吸 | [正念核心](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) |
+| Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) |
 | Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](../../个人发展/正念/正念日常生活/正念-正念日常生活-正念DailyLiving.md) |
-| Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md) |
+| Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) |
 | Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-心智心理/冥想/基础/基础-总览-冥想核心.md) |
 | Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-智慧传统/宗教/佛教/基础/佛教-基础-佛教Four四无量心.md) |
 

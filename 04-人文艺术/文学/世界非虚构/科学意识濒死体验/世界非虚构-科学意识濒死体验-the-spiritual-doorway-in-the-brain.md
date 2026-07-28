@@ -34,5 +34,5 @@ cross_refs:
 
 - [中译本深度书评：大脑中的灵性之门](世界非虚构-科学意识濒死体验-大脑中的灵性之门.md)
 - [《Life After Life》：穆迪的濒死体验经典](世界非虚构-科学意识濒死体验-life-after-life.md)
-- [《Proof of Heaven》：神经外科医生的亲历叙述](世界非虚构-科学意识濒死体验-proof-of-heaven.md)
-- [《Consciousness Explained》：丹尼特的意识理论](世界非虚构-科学意识濒死体验-consciousness-explained.md)
+- [《Proof of Heaven》：神经外科医生的亲历叙述](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%A4%A9%E5%A0%82%E7%9A%84%E8%AF%81%E6%8D%AE.md)
+- [《Consciousness Explained》：丹尼特的意识理论](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E6%84%8F%E8%AF%86explained.md)

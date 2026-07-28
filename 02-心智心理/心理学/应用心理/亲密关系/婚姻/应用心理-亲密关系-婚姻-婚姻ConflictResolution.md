@@ -427,7 +427,7 @@ Thomas-Kilmann 冲突模式量表（Thomas-Kilmann Conflict Mode Instrument, TKI
 | **冲突后的宽恕与修复** | [Marriage_Forgiveness_Repair](应用心理-亲密关系-婚姻-婚姻ForgivenessRepair.md) | 冲突解决后的关系修复过程——从道歉到宽恕的完整路径；处理冲突遗留的情感创伤，特别是反复出现的破坏性冲突造成的累积伤害 |
 | **愤怒管理** | [Marriage_Anger_Management](应用心理-亲密关系-婚姻-婚姻Anger管理.md) | 冲突中愤怒情绪的识别、表达与调节策略；区分健康愤怒（信号功能）与破坏性愤怒（失控表达），为本文的"建设性vs破坏性冲突"提供情绪管理层面的具体工具 |
 | **隐性攻击模式** | [Marriage_Passive_Aggression](应用心理-亲密关系-婚姻-婚姻PassiveAggression.md) | 识别冲突中的隐性攻击行为（冷暴力、讽刺、拖延、遗忘）——这些是本文讨论的"四骑士"之外的另一类破坏性冲突模式；被动攻击作为回避型冲突风格的病理性变体的理解与干预 |
-| **育儿分歧深度处理** | [Marriage_Parenting_Conflict](育儿/应用心理-亲密关系-婚姻-婚姻育儿Conflict.md) | 本文场景二（育儿分歧）的完整扩展——涵盖不同教养风格的系统比较、原生家庭教养模式的代际传递、以及统一教养战线的具体策略 |
+| **育儿分歧深度处理** | [Marriage_Parenting_Conflict](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E8%82%B2%E5%84%BFConflict.md) | 本文场景二（育儿分歧）的完整扩展——涵盖不同教养风格的系统比较、原生家庭教养模式的代际传递、以及统一教养战线的具体策略 |
 | **姻亲与家庭边界** | [Marriage_InLaw_Family_Conflict](应用心理-亲密关系-婚姻-婚姻InLawFamilyConflict.md) | 本文场景三（姻亲边界冲突）的深度扩展——涵盖三角化的系统性分析、文化义务与个人边界的平衡、以及 Bowen 自我分化理论在姻亲议题中的具体应用 |
 | **财务冲突处理** | [Marriage_Financial_Conflict](应用心理-亲密关系-婚姻-婚姻FinancialConflict.md) | 本文案例分析中财务分歧的完整处理框架——涵盖金钱脚本（Money Scripts）理论、夫妻财务沟通模型、以及经济压力对关系的系统性影响 |
 | **权力与控制动态** | [Marriage_Power_Control](应用心理-亲密关系-婚姻-婚姻PowerControl.md) | 冲突中的权力不平衡分析——识别显性和隐性的控制模式，理解权力斗争如何阻碍建设性冲突解决，以及重建平等对话关系的策略 |

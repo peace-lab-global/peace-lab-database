@@ -195,4 +195,4 @@ cross_refs: []
 
 ---
 
-*理解OCD的本质是干预的第一步。下一节 [Pattern_Recognition.md](自我调节-抗强迫-Pattern_Recognition.md) 将帮助识别个人的强迫模式。*
+*理解OCD的本质是干预的第一步。下一节 [Pattern_Recognition.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E5%BC%BA%E8%BF%AB-%E6%A8%A1%E5%BC%8F%E8%AF%86%E5%88%AB.md) 将帮助识别个人的强迫模式。*

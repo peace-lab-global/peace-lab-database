@@ -18,9 +18,9 @@ auto_generated: true
 - [茶-Tea核心概论.md](茶-Tea核心概论.md)
 - [茶-Tea神经科学药理学.md](茶-Tea神经科学药理学.md)
 - [茶-花草茶-HerbalTea综合.md](茶-花草茶-HerbalTea综合.md)
-- [茶-花草茶-Herbal_Tea_Comprehensive.md](茶-花草茶-Herbal_Tea_Comprehensive.md)
+- [茶-花草茶-Herbal_Tea_Comprehensive.md](%E8%8C%B6-%E8%8A%B1%E8%8D%89%E8%8C%B6-HerbalTea%E7%BB%BC%E5%90%88.md)
 - [茶-茶叶品种加工.md](茶-茶叶品种加工.md)
 - [茶-茶文化-TeaCulture心理疗愈.md](茶-茶文化-TeaCulture心理疗愈.md)
-- [茶-茶文化-Tea_Culture_Psychological_Healing.md](茶-茶文化-Tea_Culture_Psychological_Healing.md)
+- [茶-茶文化-Tea_Culture_Psychological_Healing.md](%E8%8C%B6-%E8%8C%B6%E6%96%87%E5%8C%96-TeaCulture%E5%BF%83%E7%90%86%E7%96%97%E6%84%88.md)
 
 *自动生成于 2026-07-18 07:34*

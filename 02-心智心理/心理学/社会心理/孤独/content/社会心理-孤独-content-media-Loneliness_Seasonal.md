@@ -233,7 +233,7 @@ cross_refs: []
 - 本项目学术支撑:
   - [Loneliness Biology Integration](../社会心理-孤独-Loneliness_Biology_Integration.md) — 孤独的生物学机制（HPA轴/昼夜节律）
   - [Loneliness Relief & Mitigation](../社会心理-孤独-Loneliness_Relief_Mitigation.md) — 孤独缓释的循证策略
-  - [Loneliness Patient Guide](../社会心理-孤独-Loneliness_Patient_Guide.md) — 患者版自助指南
+  - [Loneliness Patient Guide](../%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPatient%E6%8C%87%E5%8D%97.md) — 患者版自助指南
 - 外部参考:
   - 《冬季抑郁：季节性情感障碍完全指南》（Norman E. Rosenthal）
   - 《孤独的节日：社会连接与心理健康》（Annual Review of Psychology, 2022）

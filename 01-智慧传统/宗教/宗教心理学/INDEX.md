@@ -15,11 +15,11 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [临床应用/](临床应用/INDEX.md) (3 md)
+- [临床应用/](%E5%AE%97%E6%95%99%E5%BF%83%E7%90%86%E5%AD%A6-%E4%B8%B4%E5%BA%8A%E5%BA%94%E7%94%A8-Religious%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97.md) (3 md)
 - [测量/](测量/INDEX.md) (3 md)
 - [理论/](理论/INDEX.md) (3 md)
 - [跨文化/](跨文化/INDEX.md) (3 md)
-- [Religious心理学总览/](Religious心理学总览/INDEX.md) (2 md)
+- [Religious心理学总览/](%E5%AE%97%E6%95%99%E5%BF%83%E7%90%86%E5%AD%A6-Religious%E5%BF%83%E7%90%86%E5%AD%A6%E6%80%BB%E8%A7%88.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

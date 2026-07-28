@@ -307,9 +307,9 @@ flowchart LR
 ---
 
 > **交叉引用**
-> - [婚内孤独概览](应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Overview.md) - 婚内孤独的整体框架
+> - [婚内孤独概览](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E5%AD%A4%E7%8B%AC-Marital%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) - 婚内孤独的整体框架
 > - [婚后孤独缓释策略](应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Relief.md) - 针对性的缓释方案
-> - [婚内孤独临床管理](应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Clinical_Management.md) - 专业治疗方案
+> - [婚内孤独临床管理](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E5%AD%A4%E7%8B%AC-Marital%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E7%AE%A1%E7%90%86.md) - 专业治疗方案
 > - [孤独感来源与病因学](../../../../社会心理/孤独/社会心理-孤独-孤独SourcesEtiology.md) - 通用孤独来源框架
 > - [孤独感缓释与自助策略](../../../../社会心理/孤独/社会心理-孤独-孤独ReliefMitigation.md) - 通用缓释策略
 

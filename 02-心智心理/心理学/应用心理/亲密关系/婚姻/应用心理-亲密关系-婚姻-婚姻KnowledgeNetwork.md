@@ -124,7 +124,7 @@ graph TB
 | [冲突神经科学](应用心理-亲密关系-婚姻-婚姻Conflict神经科学.md) | 杏仁核劫持、多迷走神经理论、皮质醇/催产素动力、神经可塑性 | → Conflict_Resolution（为什么冲突技巧失效的生理解释）、Mindfulness（正念如何改变神经通路） |
 | [财务冲突](应用心理-亲密关系-婚姻-婚姻FinancialConflict.md) | Klontz 金钱脚本、财务不忠、收入差距、中国文化特殊议题（彩礼、房产） | → Power_Control（经济控制）、Crisis_Intervention（财务危机） |
 | [姻亲冲突](应用心理-亲密关系-婚姻-婚姻InLawFamilyConflict.md) | 忠诚冲突、三角化、婆媳关系、有边界的孝道 | → Conflict_Resolution（姻亲冲突干预脚本）、Psychology（原生家庭影响） |
-| [育儿冲突](育儿/应用心理-亲密关系-婚姻-婚姻育儿Conflict.md) | 教养风格分歧、协同育儿模型、鸡娃文化、隔代教养 | → Conflict_Resolution（育儿分歧干预脚本）、InLaw_Family（三代同堂动力） |
+| [育儿冲突](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E8%82%B2%E5%84%BFConflict.md) | 教养风格分歧、协同育儿模型、鸡娃文化、隔代教养 | → Conflict_Resolution（育儿分歧干预脚本）、InLaw_Family（三代同堂动力） |
 | [权力与控制](应用心理-亲密关系-婚姻-婚姻PowerControl.md) | 煤气灯操纵、强制控制、French & Raven 权力基础 | → Crisis_Intervention（家暴筛查）、Passive_Aggression（隐性权力操作） |
 | [隐性攻击](应用心理-亲密关系-婚姻-婚姻PassiveAggression.md) | 战略性无能、冷暴力、惩罚性石墙 | → Communication（石墙详解）、Anger_Management（压抑型愤怒） |
 | [愤怒管理](应用心理-亲密关系-婚姻-婚姻Anger管理.md) | 愤怒类型学、容纳技术、建设性表达框架 | → Conflict_Neuroscience（愤怒的神经机制）、Mindfulness（正念愤怒管理） |

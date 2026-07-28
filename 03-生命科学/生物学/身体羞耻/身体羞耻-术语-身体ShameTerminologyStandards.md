@@ -30,7 +30,7 @@ last_updated: 2026-06
 | **身体形象** | Body Image | 个体对自己身体的感知、想法、情感和行为的整体心理建构 | 多维心理结构、动态变化 | BIQ量表 |
 | **身体友善** | Body Kindness | 对自己身体持有的温暖、接纳和关怀态度 | 自我慈悲、积极关注 | BKS量表 |
 | **身体监视** | Body Surveillance | 持续关注和监控自己身体状态的倾向 | 过度自我检查、警觉性高 | BSM量表 |
-| **肥胖羞耻** | Weight/Obeisity Shame | 由于体重或体型而产生的特殊羞耻感，常伴随社会歧视和内化 | 体重相关歧视、医疗回避 | WES量表、OIS量表 [[参见肥胖羞耻专项]](../obesity/Obesity_Shame_Specialized_Guide.md) |
+| **肥胖羞耻** | Weight/Obeisity Shame | 由于体重或体型而产生的特殊羞耻感，常伴随社会歧视和内化 | 体重相关歧视、医疗回避 | WES量表、OIS量表 |
 | **身体畸形恐惧症** | Body Dysmorphic Disorder | 对身体轻微或想象缺陷的病理性关注 | 强迫性检查、寻求确认 | BDD-YBOCS量表 |
 | **社会比较** | Social Comparison | 与他人进行身体相关特征比较的心理过程 | 向上比较倾向、自我评价下降 | SCBS量表 |
 

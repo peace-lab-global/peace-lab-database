@@ -209,12 +209,12 @@ cross_refs:
 |:---|:---|:---|
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](社会心理-关系社会语境-性别动态-Gender_Misogyny_Psychology.md) | 种族化厌女——厌女与种族偏见的交叉(相交性) |
 | 厌男情绪心理学 | [Gender_Misandry_Psychology](社会心理-关系社会语境-性别动态-Gender_Misandry_Psychology.md) | 种族化性别态度的多维分析 |
-| 跨文化分析 | [Cross_Cultural_Analysis](社会心理-关系社会语境-文化视角-Cross_Cultural_Analysis.md) | 跨文化关系中的文化差异协商 |
+| 跨文化分析 | [Cross_Cultural_Analysis](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%85%B3%E7%B3%BB%E7%A4%BE%E4%BC%9A%E8%AF%AD%E5%A2%83-%E6%96%87%E5%8C%96%E8%A7%86%E8%A7%92-%E8%B7%A8%E6%96%87%E5%8C%96%E5%88%86%E6%9E%90.md) | 跨文化关系中的文化差异协商 |
 | 约会心理学 | [Dating_Psychology_Overview](../../应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating心理学总览.md) | 跨种族约会中的择偶偏好与偏见 |
 | 约会-吸引力与择偶 | [Dating_Attraction_Selection](../../应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating吸引力Selection.md) | 吸引力中的种族化因素分析 |
 | 依恋与亲密关系 | [Love_Attachment_Intimacy](../../应用心理/亲密关系/恋爱/爱情/应用心理-亲密关系-恋爱-爱情-爱Attachment亲密.md) | 跨种族亲密关系中的依恋动态 |
 | 仇恨心理学 | [Hatred](../仇恨/社会心理-仇恨-仇恨心理学总览.md) | 种族仇恨与歧视心理学 |
-| 关系心理学概述 | [Relationships_Overview](../../应用心理/亲密关系/关系总览/应用心理-亲密关系-关系总览.md) | 跨种族关系在关系心理学体系中的定位 |
+| 关系心理学概述 | [Relationships_Overview](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB%E6%80%BB%E8%A7%88.md) | 跨种族关系在关系心理学体系中的定位 |
 | 社会心理学 | [Social_Psychology](INDEX.md) | 群际关系、偏见与歧视的社会心理学基础 |
 | 婚姻心理学 | [Marriage_Psychology](../../应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻心理学.md) | 跨种族婚姻的独特挑战与保护因子 |
 

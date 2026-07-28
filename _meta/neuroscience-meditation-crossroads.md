@@ -26,7 +26,7 @@
 | 文档 | 内容摘要 | 优先级 |
 |------|---------|--------|
 | [Meditation_Neuroscience_Mechanisms.md](../02-心智心理/冥想/基础/基础-总览-冥想神经科学Mechanisms.md) | 冥想神经机制全解：神经递质、脑波、网络连接、自主神经系统 | ⭐⭐⭐ |
-| [Zen_Neuroscience_Psychology.md](../01-智慧传统/宗教/禅宗/禅宗神经科学心理学/禅宗-禅宗神经科学心理学.md) | 禅修的神经生物学架构、临床心理学整合模型 | ⭐⭐⭐ |
+| [Zen_Neuroscience_Psychology.md](../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E7%A6%85%E5%AE%97/%E7%A6%85%E5%AE%97-%E7%A6%85%E5%AE%97%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6%E5%BF%83%E7%90%86%E5%AD%A6.md) | 禅修的神经生物学架构、临床心理学整合模型 | ⭐⭐⭐ |
 | [Yoga_Neuroscience_Modern_Research.md](../01-智慧传统/瑜伽/解剖科学/解剖科学-瑜伽神经科学现代研究.md) | 瑜伽神经科学研究：脑区变化、神经递质、临床证据 | ⭐⭐⭐ |
 | [HPA_Axis_Neuroscience.md](../03-生命科学/生物学/HPA轴/HPA轴-HPA轴Axis神经科学.md) | HPA轴神经内分泌机制：应激反应、皮质醇节律 | ⭐⭐ |
 
@@ -36,7 +36,7 @@
 |------|---------|-------------|
 | [Neuroscience_Research.md](../02-心智心理/冥想/传统/佛教/止观/传统-佛教-止观-神经科学研究.md) | 止观（Samatha-Vipassana） | 南传佛教冥想的神经影像研究 |
 | [Mandala_Meditation_Neuroscience.md](../02-心智心理/冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala冥想神经科学.md) | 曼荼罗冥想 | 观想训练的神经机制 |
-| [Meditation_Direct_Recognition_Neuroscience.md](../02-心智心理/冥想/传统/佛教/直接认知/传统-佛教-直接认知-Meditation_Direct_Recognition_Neuroscience.md) | 直接认知/直指 | 高阶冥想的神经特征 |
+| [Meditation_Direct_Recognition_Neuroscience.md](../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E4%BC%A0%E7%BB%9F/%E4%BD%9B%E6%95%99/%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md) | 直接认知/直指 | 高阶冥想的神经特征 |
 | Tai_Chi_Neuroscience_Evidence.md | 太极拳 | 运动冥想的脑影像与HRV证据 |
 
 ### 2.3 艺术与感知神经科学

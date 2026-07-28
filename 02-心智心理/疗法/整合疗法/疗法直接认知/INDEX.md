@@ -15,7 +15,7 @@ auto_generated: true
 
 - [整合疗法-疗法直接认知-DirectRecognition疗法Applications.md](整合疗法-疗法直接认知-DirectRecognition疗法Applications.md)
 - [整合疗法-疗法直接认知-Direct_Recognition_Therapy_Applications.md](整合疗法-疗法直接认知-Direct_Recognition_Therapy_Applications.md)
-- [整合疗法-疗法直接认知-Therapy_Direct_Recognition_Healing.md](整合疗法-疗法直接认知-Therapy_Direct_Recognition_Healing.md)
+- [整合疗法-疗法直接认知-Therapy_Direct_Recognition_Healing.md](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%96%97%E6%B3%95%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E7%96%97%E6%B3%95DirectRecognition%E7%96%97%E6%84%88.md)
 - [整合疗法-疗法直接认知-疗法DirectRecognition疗愈.md](整合疗法-疗法直接认知-疗法DirectRecognition疗愈.md)
 
 

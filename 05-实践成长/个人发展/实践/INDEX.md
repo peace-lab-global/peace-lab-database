@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [DailyRoutine方案/](DailyRoutine方案/INDEX.md) (2 md)
-- [Daily高阶Practices/](Daily高阶Practices/INDEX.md) (2 md)
+- [DailyRoutine方案/](%E5%AE%9E%E8%B7%B5-DailyRoutine%E6%96%B9%E6%A1%88.md) (2 md)
+- [Daily高阶Practices/](%E5%AE%9E%E8%B7%B5-Daily%E9%AB%98%E9%98%B6Practices.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

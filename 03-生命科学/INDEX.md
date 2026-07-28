@@ -91,13 +91,13 @@ cross_refs: []
 - [睡眠卫生与昼夜节律](生物学/睡眠科学/睡眠科学-睡眠HygieneChronobiology.md) — 光照/温度/饮食处方、时型识别、睡前例行
 
 ### 0.6 🧪 内分泌系统与疗愈整合 (Endocrine System & Healing) — [完整知识地图](生物学/INDEX.md) **[NEW]**
-- [内分泌系统与疗愈整合](生物学/内分泌/内分泌-Endocrine总览.md) — HPA/HPG/HPT轴、10大内分泌腺、慢性压力病理、疗愈干预对HPA影响
+- [内分泌系统与疗愈整合](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%86%85%E5%88%86%E6%B3%8C-Endocrine%E6%80%BB%E8%A7%88.md) — HPA/HPG/HPT轴、10大内分泌腺、慢性压力病理、疗愈干预对HPA影响
 
 ### 0.7 💊 物质成瘾生物学 (Substance Addiction Biology) — [完整知识地图](生物学/INDEX.md) **[NEW]**
-- [物质成瘾生物学总览](生物学/成瘾/成瘾-成瘾Biology总览.md) — 三阶段循环模型、多巴胺机制、各物质生物学、遗传、治疗
+- [物质成瘾生物学总览](%E7%94%9F%E7%89%A9%E5%AD%A6/%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BEBiology%E6%80%BB%E8%A7%88.md) — 三阶段循环模型、多巴胺机制、各物质生物学、遗传、治疗
 
 ### 0.8 🏥 中医现代化循证 (TCM: Modern Evidence) — [完整知识地图](生物学/INDEX.md) **[NEW]**
-- [中医现代化循证](生物学/中医循证/中医循证-中医循证总览.md) — 针灸机制/RCT、艾灸证据、中药现代化、WHO适应证、东西方整合模型
+- [中医现代化循证](%E7%94%9F%E7%89%A9%E5%AD%A6/%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81-%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81%E6%80%BB%E8%A7%88.md) — 针灸机制/RCT、艾灸证据、中药现代化、WHO适应证、东西方整合模型
 
 ### 1. 🏋️ 运动科学与健身 (Exercise Science & Fitness) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [运动科学总览 (Exercise Science Overview)](生物学/运动科学/运动科学-运动科学总览.md) — FITT原则、运动分类、循证关系
@@ -114,8 +114,8 @@ cross_refs: []
 - [**延长断食专题 (Extended Fasting)**](食物/禁食/延长禁食/INDEX.md) **[NEW]** - 24/48/72小时断食与液断完整指南
 - [呼吸法与生物干预 (Breathwork)](生物学/呼吸法/INDEX.md)
 - [晨间血压调节 (Morning Blood Pressure Regulation)](生物学/血压/INDEX.md)
-- [**恢复身心能量 (Energy Restoration)**](生物学/能量恢复/INDEX.md) **[NEW]** - 四维能量模型、精力管理、注意力恢复与能量充电
-  - [恢复身心能量核心体系 (Core System)](生物学/能量恢复/能量恢复-EnergyRestoration总览.md)
+- [**恢复身心能量 (Energy Restoration)**](%E7%94%9F%E7%89%A9%E5%AD%A6/%E8%83%BD%E9%87%8F%E6%81%A2%E5%A4%8D-EnergyRestoration%E6%80%BB%E8%A7%88.md) **[NEW]** - 四维能量模型、精力管理、注意力恢复与能量充电
+  - [恢复身心能量核心体系 (Core System)](%E7%94%9F%E7%89%A9%E5%AD%A6/%E8%83%BD%E9%87%8F%E6%81%A2%E5%A4%8D-EnergyRestoration%E6%80%BB%E8%A7%88.md)
 - [中医学与生理学交叉 (TCM & Physiology)](生物学/推拿/推拿-推拿总览.md)
 - [飞蚊症心理适应与管理 (Eye Floaters)](生物学/飞蚊症/INDEX.md)
 - [甲沟炎心理影响分析 (Paronychia)](生物学/甲沟炎/甲沟炎-Paronychia心理Impact分析.md)
@@ -148,7 +148,7 @@ cross_refs: []
 - [饮食干预与菌群调节 (Dietary Interventions)](生物学/肠道微生物/肠道微生物-肠道DietaryInterventions.md) — 益生菌/益生元/发酵食品
 
 ### 2.5a 🔗 社会连接生物学 (Social Connection Biology) **[NEW]**
-- [孤独生物学整合 (Loneliness Biology Integration)](生物学/孤独Biology整合/孤独Biology整合.md) — 从社会伤口到身体炎症：HPA轴/免疫/端粒/表观遗传 **[NEW]**
+- [孤独生物学整合 (Loneliness Biology Integration)](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%AD%A4%E7%8B%ACBiology%E6%95%B4%E5%90%88.md) — 从社会伤口到身体炎症：HPA轴/免疫/端粒/表观遗传 **[NEW]**
 
 ### 2.7 ❤️ 心血管健康 (Cardiovascular Health) — [完整知识地图](生物学/INDEX.md) **[NEW]**
 - [心血管健康总览 (CVD Overview)](生物学/心血管/心血管-心血管健康总览.md) — 风险因素、AHA Essential 8、评估工具
@@ -177,12 +177,12 @@ cross_refs: []
 - [拉伸疗法 (Stretch Therapy)](生物学/拉伸/INDEX.md)
 
 ### 3.5 办公健康与身体放松 (Office Health & Body Relaxation)
-- [**办公椅肩颈放松 (Office Neck-Shoulder Relaxation)**](生物学/办公颈部肩/INDEX.md) **[NEW]** - 上交叉综合征、人体工程学、座位放松动作序列
-  - [办公椅肩颈放松科学方法 (Scientific Methods)](生物学/办公颈部肩/办公颈部肩-办公颈部肩放松.md)
-- [**办公室眼部放松 (Office Eye Relaxation)**](生物学/办公眼部放松/INDEX.md) **[NEW]** - 数字眼疲劳、20-20-20法则、视觉训练与中医护眼
-  - [办公室眼部放松科学方法 (Scientific Methods)](生物学/办公眼部放松/办公眼部放松-办公眼部放松.md)
-- [**睡前拉伸放松 (Pre-Sleep Stretching)**](生物学/睡前拉伸/INDEX.md) **[NEW]** - 副交感激活、完整拉伸序列、渐进性肌肉放松
-  - [睡前拉伸放松核心体系 (Core System)](生物学/睡前拉伸/睡前拉伸-Pre睡眠Stretching总览.md)
+- [**办公椅肩颈放松 (Office Neck-Shoulder Relaxation)**](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9-%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9%E6%94%BE%E6%9D%BE.md) **[NEW]** - 上交叉综合征、人体工程学、座位放松动作序列
+  - [办公椅肩颈放松科学方法 (Scientific Methods)](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9-%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9%E6%94%BE%E6%9D%BE.md)
+- [**办公室眼部放松 (Office Eye Relaxation)**](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%9E%E5%85%AC%E7%9C%BC%E9%83%A8%E6%94%BE%E6%9D%BE-%E5%8A%9E%E5%85%AC%E7%9C%BC%E9%83%A8%E6%94%BE%E6%9D%BE.md) **[NEW]** - 数字眼疲劳、20-20-20法则、视觉训练与中医护眼
+  - [办公室眼部放松科学方法 (Scientific Methods)](%E7%94%9F%E7%89%A9%E5%AD%A6/%E5%8A%9E%E5%85%AC%E7%9C%BC%E9%83%A8%E6%94%BE%E6%9D%BE-%E5%8A%9E%E5%85%AC%E7%9C%BC%E9%83%A8%E6%94%BE%E6%9D%BE.md)
+- [**睡前拉伸放松 (Pre-Sleep Stretching)**](%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%9D%A1%E5%89%8D%E6%8B%89%E4%BC%B8-Pre%E7%9D%A1%E7%9C%A0Stretching%E6%80%BB%E8%A7%88.md) **[NEW]** - 副交感激活、完整拉伸序列、渐进性肌肉放松
+  - [睡前拉伸放松核心体系 (Core System)](%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%9D%A1%E5%89%8D%E6%8B%89%E4%BC%B8-Pre%E7%9D%A1%E7%9C%A0Stretching%E6%80%BB%E8%A7%88.md)
 - [**落枕与急性颈肩疼痛 (Acute Neck Pain & Stiff Neck)**](生物学/急性颈痛/INDEX.md) **[NEW]** - 急性期处理、康复训练、自我按摩、预防措施
   - [急性期处理指南 (Acute Phase Management)](生物学/急性颈痛/急性颈痛-颈部疼痛AcutePhase管理.md) — 24-48小时黄金处理期
   - [拉伸与康复动作 (Stretch & Rehabilitation)](生物学/急性颈痛/急性颈痛-颈部疼痛拉伸Exercises.md) — 等长收缩训练、拉伸序列
@@ -197,12 +197,12 @@ cross_refs: []
   - [疼痛的身心疗法](生物学/疼痛科学/疼痛科学-疼痛心智身体Approaches.md) — 正念/瑜伽/太极/催眠
 
 ### 4. 🌟 性学研究与性健康 (Sexology & Sexual Health)
-- [性学研究全域概览 (Sexuality Overview)](性学/性学总览/性学总览.md)
+- [性学研究全域概览 (Sexuality Overview)](%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%AD%A6%E6%80%BB%E8%A7%88.md)
 - [中国社会性焦虑研究 (Sexual Anxiety China)](性学/中国性焦虑/INDEX.md)
 - [中国社会性压抑研究 (Sexual Repression China)](性学/中国性压抑/INDEX.md)
 - [**生育性别焦虑研究 (Birth Gender Anxiety)**](性学/性别歧视/出生性别焦虑/INDEX.md) **[NEW]**
 - [性别歧视专题 (Gender Discrimination)](性学/性别歧视/INDEX.md)
-- [性功能障碍与性厌恶 (Dysfunction & Aversion)](性学/性厌恶/INDEX.md)
+- [性功能障碍与性厌恶 (Dysfunction & Aversion)](%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%8E%8C%E6%81%B6-SexualAversion%E6%80%BB%E8%A7%88.md)
 - [多元性实践研究 (Swinging & Practices)](性学/换偶/INDEX.md)
 
 ### 5. 🍂 死亡、临终与生命哲学 (Death & Life Philosophy) — [完整知识地图](死亡/INDEX.md) **[EXPANDED]**

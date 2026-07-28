@@ -391,9 +391,9 @@ last_disclaimer_added: "2026-06-23"
 *关联文档*：
 - [焦虑障碍治疗](临床-焦虑-Anxiety_Disorder_Treatment.md)
 - [治疗监测与长期随访](临床-焦虑-Anxiety_Treatment_Monitoring_Followup.md)
-- [特殊人群焦虑症治疗指南](临床-焦虑-Anxiety_Special_Populations.md)
+- [特殊人群焦虑症治疗指南](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4.md)
 - [惊恐障碍治疗](临床-焦虑-惊恐障碍-Panic障碍治疗.md)
-- [社交焦虑治疗](临床-焦虑-社交焦虑-Social_Anxiety_Treatment.md)
+- [社交焦虑治疗](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%A4%BE%E4%BA%A4%E7%84%A6%E8%99%91-Social%E7%84%A6%E8%99%91%E6%B2%BB%E7%96%97.md)
 
 ---
 

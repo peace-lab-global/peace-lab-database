@@ -291,7 +291,7 @@ HPA轴持续激活 → 皮质醇失调
 | 情绪调节 | [情绪调节](发展心理-儿童发展-Child_Emotional_Regulation.md) |
 | 游戏治疗 | [游戏治疗](发展心理-儿童发展-Child_Play_Therapy.md) |
 | EMDR | [EMDR疗法](../../../疗法/整合疗法/眼动脱敏疗法/INDEX.md) |
-| TF-CBT | [TF-CBT](../../../疗法/认知行为/创伤聚焦认知行为疗法/INDEX.md) |
+| TF-CBT | [TF-CBT](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) |
 | HPA轴 | [HPA轴](../../../../03-生命科学/生物学/HPA轴/HPA轴-HPA轴Axis总览.md) |
 
 ---

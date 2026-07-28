@@ -16,7 +16,7 @@ trigger_keywords:
 - 玻璃心综合评估
 - decision-making
 cross_refs:
-- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-显化.md
+- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-_manifest.md
   relation: skill/id/评估
 ---
 # 玻璃心综合评估 | Fragile Ego Assessment Skill

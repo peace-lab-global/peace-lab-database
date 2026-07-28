@@ -208,10 +208,10 @@ cross_refs: []
 | 媚女行为心理学 | [Gender_Female_Pandering_Psychology](社会心理-关系社会语境-性别动态-Gender_Female_Pandering_Psychology.md) | 媚男与媚女行为的镜像对称分析 |
 | 依恋与亲密关系 | [Love_Attachment_Intimacy](../../应用心理/亲密关系/恋爱/爱情/应用心理-亲密关系-恋爱-爱情-爱Attachment亲密.md) | 焦虑型依恋在讨好行为中的核心角色 |
 | 约会心理学 | [Dating_Psychology_Overview](../../应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating心理学总览.md) | 媚男行为在约会场景中的典型表现 |
-| 自我慈悲 | [Self_Compassion_Self_Care](../../自我调节/自我慈悲/自我调节-自我慈悲-Self_Compassion_Self_Care.md) | 从自我批判到自我关怀的转化路径 |
+| 自我慈悲 | [Self_Compassion_Self_Care](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 从自我批判到自我关怀的转化路径 |
 | 自信心理学 | [Self_Confidence_Overview](../../自我调节/自信心理/自我调节-自信心理-Self_Confidence_Overview.md) | 建立内在自尊的系统方法 |
-| CBT认知行为疗法 | [CBT_Overview](../../../疗法/认知行为/认知行为疗法/认知行为-认知行为疗法-CBT_Cognitive_Behavioral_Therapy_Overview.md) | 认知重构在讨好行为干预中的应用 |
-| 关系心理学概述 | [Relationships_Overview](../../应用心理/亲密关系/关系总览/应用心理-亲密关系-关系总览.md) | 讨好行为在关系体系中的定位 |
+| CBT认知行为疗法 | [CBT_Overview](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) | 认知重构在讨好行为干预中的应用 |
+| 关系心理学概述 | [Relationships_Overview](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB%E6%80%BB%E8%A7%88.md) | 讨好行为在关系体系中的定位 |
 | 情感虐待 | [Emotional_Abuse](../情感虐待/社会心理-情感虐待-情感虐待动态.md) | 讨好者容易成为情感虐待的对象 |
 
 ---

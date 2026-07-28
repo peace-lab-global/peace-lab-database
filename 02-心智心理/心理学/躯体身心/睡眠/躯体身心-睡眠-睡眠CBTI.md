@@ -16,7 +16,7 @@ cross_refs: []
 ---
 # 睡眠认知行为治疗（CBT-I）
 
-> CBT-I（Cognitive Behavioral Therapy for Insomnia，失眠认知行为治疗）是国际睡眠医学与精神科指南一致推荐的失眠**一线治疗**，长期疗效优于安眠药物且无依赖风险。本页为概览；详细操作流程见同目录[《失眠认知行为疗法》专文](躯体身心-睡眠-Sleep_Insomnia_CBT.md)。
+> CBT-I（Cognitive Behavioral Therapy for Insomnia，失眠认知行为治疗）是国际睡眠医学与精神科指南一致推荐的失眠**一线治疗**，长期疗效优于安眠药物且无依赖风险。本页为概览；详细操作流程见同目录[《失眠认知行为疗法》专文](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E7%9D%A1%E7%9C%A0-%E7%9D%A1%E7%9C%A0%E5%A4%B1%E7%9C%A0%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95.md)。
 
 ## 概述
 
@@ -44,4 +44,4 @@ cross_refs: []
 - Perlis, M. L., Jungquist, C., Smith, M. T., & Posner, D. (2005). *Cognitive Behavioral Treatment of Insomnia: A Session-by-Session Guide*. Springer.
 - Edinger, J. D. & Carney, C. E. (2014). *Overcoming Insomnia: A Cognitive-Behavioral Therapy Approach*（自助工作手册）。
 - 美国医师学会（ACP）2016 年临床实践指南：CBT-I 为慢性失眠初始治疗的首选。
-- 同目录：[失眠认知行为疗法（详细版）](躯体身心-睡眠-Sleep_Insomnia_CBT.md)、[失眠总览](躯体身心-睡眠-睡眠失眠总览.md)
+- 同目录：[失眠认知行为疗法（详细版）](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E7%9D%A1%E7%9C%A0-%E7%9D%A1%E7%9C%A0%E5%A4%B1%E7%9C%A0%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95.md)、[失眠总览](躯体身心-睡眠-睡眠失眠总览.md)

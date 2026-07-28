@@ -488,7 +488,7 @@ graph TD
 - [儿童青少年冥想](基础-总览-Children_Youth_Meditation.md)
 - [创伤知情冥想指南](../临床/安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - [冥想核心基础](基础-总览-Meditation_Core.md)
-- [危机与哀伤冥想指南](../临床/危机冥想/临床-危机冥想-Crisis_Meditation_Guide.md)
+- [危机与哀伤冥想指南](../%E4%B8%B4%E5%BA%8A/%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3/%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3%E6%8C%87%E5%8D%97.md)
 - [冥想与运动表现](../应用/应用-冥想SportsPerformance.md)
 
 ---

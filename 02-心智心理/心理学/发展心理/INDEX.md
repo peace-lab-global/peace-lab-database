@@ -22,7 +22,7 @@ auto_generated: true
 - [儿童发展/](儿童发展/INDEX.md) (11 md)
 - [衰老心理学/](衰老心理学/INDEX.md) (9 md)
 - [中年危机/](中年危机/INDEX.md) (7 md)
-- [更年期/](更年期/INDEX.md) (3 md)
+- [更年期/](%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E6%9B%B4%E5%B9%B4%E6%9C%9F-Menopause%E5%BF%83%E7%90%86Adjustment.md) (3 md)
 
 ## 📄 文件 | Files (1)
 

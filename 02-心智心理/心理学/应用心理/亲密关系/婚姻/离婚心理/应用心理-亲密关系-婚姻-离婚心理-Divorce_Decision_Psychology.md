@@ -17,7 +17,7 @@ cross_refs: []
 ---
 # 离婚决策心理学：从犹豫到行动的心理过程 (Psychology of Divorce Decision-Making)
 
-> **交叉引用**：关于离婚的临床干预方法，参见 [Divorce_Psychology_Clinical_Intervention.md](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Clinical_Intervention.md)；关于婚姻危机的紧急处理，参见 [Marriage_Crisis_Intervention.md](../应用心理-亲密关系-婚姻-婚姻危机干预.md)；关于婚姻治疗中的 Discernment Counseling，参见 [Marriage_Therapy_Methods.md](../应用心理-亲密关系-婚姻-婚姻疗法Methods.md)。
+> **交叉引用**：关于离婚的临床干预方法，参见 [Divorce_Psychology_Clinical_Intervention.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md)；关于婚姻危机的紧急处理，参见 [Marriage_Crisis_Intervention.md](../应用心理-亲密关系-婚姻-婚姻危机干预.md)；关于婚姻治疗中的 Discernment Counseling，参见 [Marriage_Therapy_Methods.md](../应用心理-亲密关系-婚姻-婚姻疗法Methods.md)。
 
 ---
 
@@ -208,10 +208,10 @@ William Doherty 开发的 Discernment Counseling 专门用于处理"混合意向
 | 婚姻治疗方法 | [Marriage_Therapy_Methods.md](../应用心理-亲密关系-婚姻-婚姻疗法Methods.md) | Discernment Counseling |
 | 婚姻沟通 | [Marriage_Communication.md](../应用心理-亲密关系-婚姻-婚姻沟通.md) | Gottman四骑士与级联模型 |
 | 冷战专题 | [Marriage_Silent_Treatment.md](../应用心理-亲密关系-婚姻-婚姻冷暴力.md) | 冷战作为离婚预测因子 |
-| 婚内孤独 | [Marital_Loneliness_Overview.md](../婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Overview.md) | 情感离婚与长期情感忽视 |
+| 婚内孤独 | [Marital_Loneliness_Overview.md](../%E5%A9%9A%E5%A7%BB%E5%AD%A4%E7%8B%AC/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E5%AD%A4%E7%8B%AC-Marital%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) | 情感离婚与长期情感忽视 |
 | 出轨心理学 | [Infidelity_Psychology.md](../../出轨/应用心理-亲密关系-出轨-出轨心理学.md) | 外遇触发的离婚 |
 | 离婚对子女影响 | [Divorce_Impact_Children_Development.md](应用心理-亲密关系-婚姻-离婚心理-Divorce_Impact_Children_Development.md) | 子女视角的离婚评估 |
-| 离婚临床干预 | [Divorce_Psychology_Clinical_Intervention.md](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Clinical_Intervention.md) | 系统性干预方法 |
+| 离婚临床干预 | [Divorce_Psychology_Clinical_Intervention.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md) | 系统性干预方法 |
 
 ---
 

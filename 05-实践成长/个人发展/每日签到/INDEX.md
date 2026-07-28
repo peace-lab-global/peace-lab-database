@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [DailyCheckin核心/](DailyCheckin核心/INDEX.md) (2 md)
-- [DailyCheckin系统/](DailyCheckin系统/INDEX.md) (2 md)
+- [DailyCheckin核心/](%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E6%A0%B8%E5%BF%83.md) (2 md)
+- [DailyCheckin系统/](%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E7%B3%BB%E7%BB%9F.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

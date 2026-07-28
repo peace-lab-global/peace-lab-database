@@ -147,4 +147,4 @@ cross_refs: []
 
 ---
 
-*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [ACT概述](认知行为-接纳承诺疗法-ACT_Acceptance_and_Commitment_Therapy_Overview.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [ACT概述](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E6%8E%A5%E7%BA%B3%E6%89%BF%E8%AF%BA%E7%96%97%E6%B3%95-ACTAcceptanceandCommitment%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)*

@@ -15,8 +15,8 @@ auto_generated: true
 
 - [中国现代文学-当代-border-town-Book_Review.md](中国现代文学-当代-border-town-Book_Review.md)
 - [中国现代文学-当代-border-town-Innocence_Tragedy.md](中国现代文学-当代-border-town-Innocence_Tragedy.md)
-- [中国现代文学-当代-border-town-Pastoral_Utopia.md](中国现代文学-当代-border-town-Pastoral_Utopia.md)
-- [中国现代文学-当代-border-town-Thought_Analysis.md](中国现代文学-当代-border-town-Thought_Analysis.md)
+- [中国现代文学-当代-border-town-Pastoral_Utopia.md](../%E8%BE%B9%E5%A2%83%E5%9F%8E%E9%95%87/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E8%BE%B9%E5%A2%83%E5%9F%8E%E9%95%87-%E7%94%B0%E5%9B%AD%E4%B9%8C%E6%89%98%E9%82%A6.md)
+- [中国现代文学-当代-border-town-Thought_Analysis.md](../%E8%BE%B9%E5%A2%83%E5%9F%8E%E9%95%87/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E8%BE%B9%E5%A2%83%E5%9F%8E%E9%95%87-Thought%E5%88%86%E6%9E%90.md)
 
 
 ---

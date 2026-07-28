@@ -211,9 +211,9 @@ cross_refs: []
 | 依恋与亲密关系 | [Love_Attachment_Intimacy](../../应用心理/亲密关系/恋爱/爱情/应用心理-亲密关系-恋爱-爱情-爱Attachment亲密.md) | 焦虑型依恋在好人综合征中的核心角色 |
 | 约会心理学 | [Dating_Psychology_Overview](../../应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating心理学总览.md) | 讨好策略在约会中的失效分析 |
 | 自信心理学 | [Self_Confidence_Overview](../../自我调节/自信心理/自我调节-自信心理-Self_Confidence_Overview.md) | 从讨好到自信的转化路径 |
-| 自我慈悲 | [Self_Compassion_Self_Care](../../自我调节/自我慈悲/自我调节-自我慈悲-Self_Compassion_Self_Care.md) | 从"有毒羞耻"到自我接纳的治疗 |
-| 关系心理学概述 | [Relationships_Overview](../../应用心理/亲密关系/关系总览/应用心理-亲密关系-关系总览.md) | 平等互惠关系模型 |
-| 家庭系统排列 | [Family_Constellation_Clinical](../../特殊专题/家庭系统排列/特殊专题-家庭系统排列-Family_Constellation_Clinical.md) | 母子纠葛与伴侣选择的系统视角 |
+| 自我慈悲 | [Self_Compassion_Self_Care](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 从"有毒羞耻"到自我接纳的治疗 |
+| 关系心理学概述 | [Relationships_Overview](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB%E6%80%BB%E8%A7%88.md) | 平等互惠关系模型 |
+| 家庭系统排列 | [Family_Constellation_Clinical](../../%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98/%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97/%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E4%B8%B4%E5%BA%8A.md) | 母子纠葛与伴侣选择的系统视角 |
 | 家庭暴力 | [Domestic_Violence](../../应用心理/亲密关系/婚姻/家庭暴力/应用心理-亲密关系-婚姻-家庭暴力-DomesticViolence总览.md) | 拯救者型讨好与家暴关系的交叉 |
 
 ---

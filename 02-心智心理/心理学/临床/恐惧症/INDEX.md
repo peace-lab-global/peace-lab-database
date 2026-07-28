@@ -13,9 +13,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [临床-恐惧症-Phobia_Overview.md](临床-恐惧症-Phobia_Overview.md)
+- [临床-恐惧症-Phobia_Overview.md](%E4%B8%B4%E5%BA%8A-%E6%81%90%E6%83%A7%E7%97%87-Phobia%E6%80%BB%E8%A7%88.md)
 - [临床-恐惧症-Phobia_Social_Agoraphobia.md](临床-恐惧症-Phobia_Social_Agoraphobia.md)
-- [临床-恐惧症-Phobia_Specific_Types.md](临床-恐惧症-Phobia_Specific_Types.md)
+- [临床-恐惧症-Phobia_Specific_Types.md](%E4%B8%B4%E5%BA%8A-%E6%81%90%E6%83%A7%E7%97%87-%E6%81%90%E6%83%A7%E7%97%87%E5%85%B7%E4%BD%93%E7%B1%BB%E5%9E%8B.md)
 - [临床-恐惧症-Phobia_Treatment.md](临床-恐惧症-Phobia_Treatment.md)
 - [临床-恐惧症-Phobia总览.md](临床-恐惧症-Phobia总览.md)
 - [临床-恐惧症-Phobia治疗.md](临床-恐惧症-Phobia治疗.md)

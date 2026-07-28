@@ -18,7 +18,7 @@ cross_refs:
   relation: 人际关系/亲密关系
 - path: 02-心智心理/心理学/应用心理/亲密关系/关系总览/应用心理-亲密关系-关系总览.md
   relation: 人际关系/亲密关系
-- path: 04-人文艺术/文学/世界非虚构/心理学存在/the-gift-of-疗法.md
+- path: 04-人文艺术/文学/世界非虚构/心理学存在/世界非虚构-心理学存在-治疗的礼物.md
   relation: 人际关系/亲密关系
 - path: 02-心智心理/心理学/发展心理/青少年/child/发展心理-青少年-child-adolescent-Child_Adolescent_Development.md
   relation: 人际关系/障碍

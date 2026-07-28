@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [专注临床Applications/](专注临床Applications/INDEX.md) (2 md)
-- [专注核心/](专注核心/INDEX.md) (2 md)
+- [专注临床Applications/](%E4%B8%93%E6%B3%A8-%E4%B8%93%E6%B3%A8%E4%B8%B4%E5%BA%8AApplications.md) (2 md)
+- [专注核心/](%E4%B8%93%E6%B3%A8-%E4%B8%93%E6%B3%A8%E6%A0%B8%E5%BF%83.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

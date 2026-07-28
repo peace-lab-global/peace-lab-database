@@ -16,7 +16,7 @@ auto_generated: true
 ### 主题目录 (Topic Directories)
 
 - [经典/](经典/INDEX.md) (5 md)
-- [Legalist管理心理学/](Legalist管理心理学/INDEX.md) (2 md)
+- [Legalist管理心理学/](%E6%B3%95%E5%AE%B6-Legalist%E7%AE%A1%E7%90%86%E5%BF%83%E7%90%86%E5%AD%A6.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

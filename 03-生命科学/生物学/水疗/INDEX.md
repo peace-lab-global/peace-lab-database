@@ -21,7 +21,7 @@ auto_generated: true
 - [水疗-SPA安全Protocols.md](水疗-SPA安全Protocols.md)
 - [水疗-SPA心理放松Mechanism.md](水疗-SPA心理放松Mechanism.md)
 - [水疗-SPA总览.md](水疗-SPA总览.md)
-- [水疗-比较分析-SPA_Tuina_International_Comparison.md](水疗-比较分析-SPA_Tuina_International_Comparison.md)
+- [水疗-比较分析-SPA_Tuina_International_Comparison.md](%E6%B0%B4%E7%96%97-%E6%AF%94%E8%BE%83%E5%88%86%E6%9E%90-SPA%E6%8E%A8%E6%8B%BFInternationalComparison.md)
 - [水疗-比较分析-SPA推拿InternationalComparison.md](水疗-比较分析-SPA推拿InternationalComparison.md)
 
 *自动生成于 2026-07-17 22:54*

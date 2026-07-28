@@ -377,6 +377,6 @@ Sesshin 是日本禅宗的密集禅修活动，通常为 3–7 天，期间全�
 ---
 
 **关联阅读**：
-- [坐禅总览](传统-佛教-坐禅-Zazen_Meditation_Overview.md)
+- [坐禅总览](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%9D%90%E7%A6%85-Zazen%E5%86%A5%E6%83%B3%E6%80%BB%E8%A7%88.md)
 - [坐禅公案集详解](传统-佛教-坐禅-Zazen_Koan_Collection.md)
 - [INDEX](INDEX.md)

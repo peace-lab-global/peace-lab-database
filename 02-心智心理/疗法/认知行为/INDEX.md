@@ -18,9 +18,9 @@ auto_generated: true
 - [接纳承诺疗法/](接纳承诺疗法/INDEX.md) (7 md)
 - [认知行为疗法/](认知行为疗法/INDEX.md) (7 md)
 - [辩证行为疗法/](辩证行为疗法/INDEX.md) (5 md)
-- [创伤聚焦认知行为疗法/](创伤聚焦认知行为疗法/INDEX.md) (3 md)
-- [暴露疗法/](暴露疗法/INDEX.md) (3 md)
-- [认知行为分析疗法/](认知行为分析疗法/INDEX.md) (3 md)
+- [创伤聚焦认知行为疗法/](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) (3 md)
+- [暴露疗法/](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E6%9A%B4%E9%9C%B2%E7%96%97%E6%B3%95-%E5%BE%AA%E8%AF%81%E7%A0%94%E7%A9%B6-ExposureRCT%E5%BE%AA%E8%AF%81%E6%91%98%E8%A6%81.md) (3 md)
+- [认知行为分析疗法/](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90%E7%96%97%E6%B3%95-CBASP%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%86%E6%9E%90System%E6%80%BB%E8%A7%88.md) (3 md)
 
 ## 📄 文件 | Files (1)
 

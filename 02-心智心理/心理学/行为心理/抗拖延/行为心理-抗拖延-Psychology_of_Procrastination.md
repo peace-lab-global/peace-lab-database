@@ -214,4 +214,4 @@ cross_refs:
 
 ---
 
-*理解拖延的机制是改变的第一步。下一节 [Cognitive_Restructuring.md](行为心理-抗拖延-Cognitive_Restructuring.md) 将介绍认知层面的干预。*
+*理解拖延的机制是改变的第一步。下一节 [Cognitive_Restructuring.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E8%AE%A4%E7%9F%A5Restructuring.md) 将介绍认知层面的干预。*

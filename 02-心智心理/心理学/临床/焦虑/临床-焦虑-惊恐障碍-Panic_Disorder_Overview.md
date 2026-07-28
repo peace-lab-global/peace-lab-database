@@ -232,7 +232,7 @@ last_disclaimer_added: "2026-06-23"
 |---|---|---|
 | 焦虑症概览 | [Anxiety_Disorder_Overview](临床-焦虑-Anxiety_Disorder_Overview.md) | 上位诊断分类 |
 | 焦虑症治疗 | [Anxiety_Disorder_Treatment](临床-焦虑-Anxiety_Disorder_Treatment.md) | 跨诊断治疗原则 |
-| GAD专题 | [GAD Overview](临床-焦虑-广泛性焦虑-GAD_Overview.md) | 常见共病；鉴别诊断 |
+| GAD专题 | [GAD Overview](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E5%B9%BF%E6%B3%9B%E6%80%A7%E7%84%A6%E8%99%91-GAD%E6%80%BB%E8%A7%88.md) | 常见共病；鉴别诊断 |
 | HPA轴与应激 | [HPA Axis](../../../../03-生命科学/生物学/HPA轴/INDEX.md) | 惊恐的神经内分泌机制 |
 | 呼吸训练 | [Breathwork](../../../../03-生命科学/生物学/呼吸法/INDEX.md) | 过度换气管理 |
 | CBT治疗 | [CBT](../../../疗法/认知行为/认知行为疗法/INDEX.md) | 惊恐控制疗法基础 |

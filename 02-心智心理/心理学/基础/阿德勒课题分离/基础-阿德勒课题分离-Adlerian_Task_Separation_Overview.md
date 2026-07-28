@@ -227,7 +227,7 @@ Adler 提出人类面临三大生活课题，课题分离在每个领域有不�
 
 - **认知行为疗法**：[CBT 专题](../../../疗法/认知行为/认知行为疗法/INDEX.md)
 - **辩证行为疗法**：[DBT 专题](../../../疗法/认知行为/辩证行为疗法/INDEX.md)
-- **心理学流派与理论**：[Psychology_Schools_Theories](../总览/基础-总览-Psychology_Schools_Theories.md)
+- **心理学流派与理论**：[Psychology_Schools_Theories](../%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E6%B5%81%E6%B4%BETheories.md)
 - **权威人物与谱系**：[Framework_Authorities_Lineage](../框架/基础-框架-框架Authorities传承.md)
 - **正向教养（Adler应用）**：[Parenting_Understanding_Child_Overview](../../应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-育儿-育儿UnderstandingChild总览.md)
 - **通用心理学资源**：[Psychology_General_Resources](../总览/基础-总览-Psychology_General_Resources.md)

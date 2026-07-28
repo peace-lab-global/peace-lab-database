@@ -476,7 +476,7 @@ graph LR
 
 ### 相关链接
 
-- [危机与哀伤冥想指南](临床-危机冥想-Crisis_Meditation_Guide.md)
+- [危机与哀伤冥想指南](%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3%E6%8C%87%E5%8D%97.md)
 - [创伤知情冥想指南](../安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - [冥想不良反应系统分类](../安全/临床-安全-Meditation_Adverse_Effects.md)
 - [慈心禅与创伤疗愈](../../传统/佛教/慈心冥想/传统-佛教-慈心冥想-Metta_Trauma_Healing.md)

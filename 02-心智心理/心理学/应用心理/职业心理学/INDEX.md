@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (27)
 
 - [应用心理-职业心理学-Vocational_Psychology_Case_Studies_Guide.md](应用心理-职业心理学-Vocational_Psychology_Case_Studies_Guide.md)
-- [应用心理-职业心理学-Vocational_Psychology_Enhancement_Summary.md](应用心理-职业心理学-Vocational_Psychology_Enhancement_Summary.md)
+- [应用心理-职业心理学-Vocational_Psychology_Enhancement_Summary.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E8%81%8C%E4%B8%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E8%81%8C%E4%B8%9A%E5%BF%83%E7%90%86%E5%AD%A6Enhancement%E6%91%98%E8%A6%81.md)
 - [应用心理-职业心理学-Vocational_Psychology_Evidence_Based_Practice_Guide.md](应用心理-职业心理学-Vocational_Psychology_Evidence_Based_Practice_Guide.md)
 - [应用心理-职业心理学-Vocational_Psychology_Final_Quality_Review.md](应用心理-职业心理学-Vocational_Psychology_Final_Quality_Review.md)
 - [应用心理-职业心理学-Vocational_Psychology_Frontiers_Trends.md](应用心理-职业心理学-Vocational_Psychology_Frontiers_Trends.md)

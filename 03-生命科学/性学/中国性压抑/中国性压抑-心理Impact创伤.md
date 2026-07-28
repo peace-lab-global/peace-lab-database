@@ -20,7 +20,7 @@ trigger_keywords:
 - and
 - Trauma
 cross_refs:
-- path: 02-心智心理/心理学/临床/创伤/临床-创伤-技能-显化.md
+- path: 02-心智心理/心理学/临床/创伤/临床-创伤-技能-_manifest.md
   relation: 创伤/创伤/评估
 ---
 # 性压抑的心理学影响与创伤 (Psychological Impact and Trauma of Sexual Repression)

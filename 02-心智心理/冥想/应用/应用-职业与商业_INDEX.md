@@ -31,6 +31,6 @@ cross_refs:
 ## 相关模块 | Related Modules
 
 - [执行师培训](INDEX.md)
-- [[执行师认证对比](../基础/基础-实践者CertificationComparison.md)](../基础/实践者CertificationComparison.md)
+- [[执行师认证对比](../基础/基础-实践者CertificationComparison.md)](../基础/基础-实践者CertificationComparison.md)
 - [冥想概览](INDEX.md)
 - [[冥想大师人物档案](../INDEX.md)](../传统/大师/INDEX.md)

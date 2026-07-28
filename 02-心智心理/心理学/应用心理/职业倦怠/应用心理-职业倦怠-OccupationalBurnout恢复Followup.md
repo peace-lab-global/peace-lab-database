@@ -251,7 +251,7 @@ cross_refs: []
 | 倦怠预防干预 | [Prevention](应用心理-职业倦怠-OccupationalBurnout预防干预.md) | 预防策略与治疗方法 |
 | 倦怠评估 | [Assessment](应用心理-职业倦怠-OccupationalBurnout评估诊断.md) | 恢复过程中的评估工具 |
 | 职业心理学 | [Vocational Psychology](../职业心理学/INDEX.md) | 职业转型与生涯规划 |
-| 心力成长 | [Mental Resilience](../../../../05-实践成长/个人发展/心理韧性/INDEX.md) | 韧性建设与成长 |
+| 心力成长 | [Mental Resilience](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E7%90%86%E9%9F%A7%E6%80%A7-Mental%E9%9F%A7%E6%80%A7%E6%80%BB%E8%A7%88.md) | 韧性建设与成长 |
 | 职场表达 | [Workplace Expression](../../../../05-实践成长/个人发展/职场表达/INDEX.md) | 复工后的职场沟通 |
 
 ---

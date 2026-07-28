@@ -376,7 +376,7 @@ flowchart LR
 ---
 
 > **交叉引用**
-> - [孤独概览](社会心理-孤独-Loneliness_Overview.md) - 孤独的基本概念与分类
+> - [孤独概览](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) - 孤独的基本概念与分类
 > - [孤独研究框架](社会心理-孤独-Loneliness_Research_Framework.md) - 学术研究视角
 > - [孤独临床手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 临床诊疗方案
 > - [孤独感缓释与自助策略](社会心理-孤独-Loneliness_Relief_Mitigation.md) - 来源识别后的缓释方案

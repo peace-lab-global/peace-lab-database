@@ -311,10 +311,10 @@ last_disclaimer_added: "2026-06-23"
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断与理论基础 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 综合治疗框架 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断与理论基础 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 综合治疗框架 |
 | 自助指南 | 02-心理 | [Self-Help Guide](临床-抑郁-Depression_Self_Help_Guide.md) | 患者自助版本 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../../行为心理/抗拖延/行为心理-抗拖延-Behavioral_Activation.md) | BA理论基础 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86/%E6%8A%97%E6%8B%96%E5%BB%B6/%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E8%A1%8C%E4%B8%BAActivation.md) | BA理论基础 |
 | 复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | CBT巩固与复发预防 |
 | 正念认知疗法 | 02-心理 | [MBCT](../../../疗法/整合疗法/正念认知疗法/INDEX.md) | CBT与正念整合 |
 | 接纳承诺治疗 | 02-心理 | [ACT](../../../../04-人文艺术/文学/疗法/INDEX.md) | 第三代认知行为疗法 |

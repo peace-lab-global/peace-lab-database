@@ -219,4 +219,4 @@ cross_refs:
 
 ---
 
-*认知重构需要持续练习才能熟练运用。建议配合 [Daily_Training_Protocol.md](自我调节-韧性脆弱自我-Daily_Training_Protocol.md) 进行日常训练。*
+*认知重构需要持续练习才能熟练运用。建议配合 [Daily_Training_Protocol.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E9%9F%A7%E6%80%A7%E8%84%86%E5%BC%B1%E8%87%AA%E6%88%91-Daily%E5%9F%B9%E8%AE%AD%E6%96%B9%E6%A1%88.md) 进行日常训练。*

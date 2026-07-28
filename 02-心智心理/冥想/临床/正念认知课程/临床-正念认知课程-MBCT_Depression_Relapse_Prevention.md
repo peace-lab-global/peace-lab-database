@@ -463,7 +463,7 @@ MBCT第7周的核心任务是帮助参与者建立个人化的**早期预警系�
 ### 同系列文档
 - [MBCT 项目全景概述](临床-正念认知课程-MBCT_Program_Overview.md)
 - [MBCT 八周课程逐周详解](临床-正念认知课程-MBCT_Weekly_Curriculum.md)
-- [MBCT 评估工具汇编](临床-正念认知课程-MBCT_Assessment_Tools.md)
+- [MBCT 评估工具汇编](%E4%B8%B4%E5%BA%8A-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E8%AF%BE%E7%A8%8B-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
 
 ### 知识库相关模块
 - [MBSR 项目概述](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) — MBCT的母本课程

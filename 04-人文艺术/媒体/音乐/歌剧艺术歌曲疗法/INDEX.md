@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (3)
 
 - [音乐-歌剧艺术歌曲疗法-OperaArtSong疗法.md](音乐-歌剧艺术歌曲疗法-OperaArtSong疗法.md)
-- [音乐-歌剧艺术歌曲疗法-Opera_ArtSong_Therapy.md](音乐-歌剧艺术歌曲疗法-Opera_ArtSong_Therapy.md)
+- [音乐-歌剧艺术歌曲疗法-Opera_ArtSong_Therapy.md](%E9%9F%B3%E4%B9%90-%E6%AD%8C%E5%89%A7%E8%89%BA%E6%9C%AF%E6%AD%8C%E6%9B%B2%E7%96%97%E6%B3%95-OperaArtSong%E7%96%97%E6%B3%95.md)
 
 
 ---

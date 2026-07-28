@@ -70,7 +70,7 @@ cross_refs:
 ## 四、延伸阅读
 
 - 成书背景：本书原为1974年一行禅师写给越南社会服务青年学校同仁"广兄"的一封长信，后以越南语出版（1975），英译由 Mobi Ho 完成（Beacon Press）。
-- 本库相关条目：[《平静的第一堂课》A First Course in Meditation](../../冥想正念/a/世界非虚构-冥想正念-a-first-course-in-meditation.md)、[冥想基础总览](../../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Mind_Management.md)
+- 本库相关条目：[《平静的第一堂课》A First Course in Meditation](../../%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5-a-first-course-in-meditation.md)、[冥想基础总览](../../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Mind_Management.md)
 
 ## 五、阅读体验
 

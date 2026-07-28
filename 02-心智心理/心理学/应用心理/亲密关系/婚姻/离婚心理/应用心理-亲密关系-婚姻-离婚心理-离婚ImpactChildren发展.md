@@ -16,7 +16,7 @@ cross_refs: []
 ---
 # 离婚对子女的发展影响：分年龄段深度分析 (Impact of Divorce on Children's Development)
 
-> **交叉引用**：关于子女心理支持与干预策略，参见 [Divorce_Children_Support_Intervention.md](应用心理-亲密关系-婚姻-离婚心理-离婚ChildrenSupport干预.md)；关于共同育儿安排，参见 [Divorce_Coparenting_Communication.md](应用心理-亲密关系-婚姻-离婚心理-离婚Coparenting沟通.md)；关于儿童发展心理学，参见 [Child Development Psychology](../../../../发展心理/青少年/儿童发展心理学/INDEX.md)；关于青少年危机干预，参见 [Adolescent Crisis Intervention](../../../../发展心理/青少年/青少年危机/INDEX.md)。
+> **交叉引用**：关于子女心理支持与干预策略，参见 [Divorce_Children_Support_Intervention.md](应用心理-亲密关系-婚姻-离婚心理-离婚ChildrenSupport干预.md)；关于共同育儿安排，参见 [Divorce_Coparenting_Communication.md](应用心理-亲密关系-婚姻-离婚心理-离婚Coparenting沟通.md)；关于儿童发展心理学，参见 [Child Development Psychology](../../../../发展心理/青少年/儿童发展心理学/INDEX.md)；关于青少年危机干预，参见 [Adolescent Crisis Intervention](../../../../%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86/%E9%9D%92%E5%B0%91%E5%B9%B4/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8D%B1%E6%9C%BA-Adolescent%E5%8D%B1%E6%9C%BA%E5%B9%B2%E9%A2%84.md)。
 
 ---
 

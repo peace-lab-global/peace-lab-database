@@ -43,11 +43,11 @@ cross_refs:
 - [基督教默观总览（中文）](传统-亚伯拉罕宗教-基督教默观-ChristianContemplative总览.md)
 - [Christian Meditation Overview（中文）](传统-亚伯拉罕宗教-基督教默观-Christian冥想总览.md)
 - [基督教默观实用指南（中文）](传统-亚伯拉罕宗教-基督教默观-Christian实用指南.md)
-- [Christian Contemplative Overview](传统-亚伯拉罕宗教-基督教默观-Christian_Contemplative_Overview.md)
+- [Christian Contemplative Overview](%E4%BC%A0%E7%BB%9F-%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99-%E5%9F%BA%E7%9D%A3%E6%95%99%E9%BB%98%E8%A7%82-ChristianContemplative%E6%80%BB%E8%A7%88.md)
 - [Christian Meditation Overview](传统-亚伯拉罕宗教-基督教默观-Christian_Meditation_Overview.md)
-- [Christian Practical Guide](传统-亚伯拉罕宗教-基督教默观-Christian_Practical_Guide.md)
+- [Christian Practical Guide](%E4%BC%A0%E7%BB%9F-%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99-%E5%9F%BA%E7%9D%A3%E6%95%99%E9%BB%98%E8%A7%82-Christian%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.md)
 
 ## 相关资源
 
 - 返回 [亚伯拉罕宗教](../INDEX.md)
-- 世界传统冥想系列：[Series_22_World_Traditions](../../../引导课程/Series_22_World_Traditions.md)
+- 世界传统冥想系列：[Series_22_World_Traditions](../../../%E5%BC%95%E5%AF%BC%E8%AF%BE%E7%A8%8B-Series_22_World_Traditions.md)

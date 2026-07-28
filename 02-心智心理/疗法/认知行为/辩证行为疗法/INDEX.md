@@ -14,9 +14,9 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [认知行为-辩证行为疗法-DBTDialecticalBehavior疗法总览.md](认知行为-辩证行为疗法-DBTDialecticalBehavior疗法总览.md)
-- [认知行为-辩证行为疗法-DBT_Dialectical_Behavior_Therapy_Overview.md](认知行为-辩证行为疗法-DBT_Dialectical_Behavior_Therapy_Overview.md)
+- [认知行为-辩证行为疗法-DBT_Dialectical_Behavior_Therapy_Overview.md](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-DBTDialecticalBehavior%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
 - [认知行为-辩证行为疗法-DialecticalBehavior疗法.md](认知行为-辩证行为疗法-DialecticalBehavior疗法.md)
-- [认知行为-辩证行为疗法-Dialectical_Behavior_Therapy.md](认知行为-辩证行为疗法-Dialectical_Behavior_Therapy.md)
+- [认知行为-辩证行为疗法-Dialectical_Behavior_Therapy.md](%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-DialecticalBehavior%E7%96%97%E6%B3%95.md)
 
 
 ---

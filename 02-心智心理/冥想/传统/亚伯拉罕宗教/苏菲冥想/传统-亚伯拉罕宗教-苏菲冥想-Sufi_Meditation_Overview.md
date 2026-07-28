@@ -337,5 +337,5 @@ graph TD
 
 > **相关资源**
 > - 返回 [INDEX](./INDEX.md)
-> - 参见 [苏菲主义冥想专业概述](传统-亚伯拉罕宗教-苏菲冥想-Sufism_Meditation_Overview.md)
-> - 参见 [苏菲实践指南](传统-亚伯拉罕宗教-苏菲冥想-Sufi_Practical_Guide.md)
+> - 参见 [苏菲主义冥想专业概述](%E4%BC%A0%E7%BB%9F-%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99-%E8%8B%8F%E8%8F%B2%E5%86%A5%E6%83%B3-Sufism%E5%86%A5%E6%83%B3%E6%80%BB%E8%A7%88.md)
+> - 参见 [苏菲实践指南](%E4%BC%A0%E7%BB%9F-%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99-%E8%8B%8F%E8%8F%B2%E5%86%A5%E6%83%B3-Sufi%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.md)

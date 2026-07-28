@@ -311,4 +311,4 @@ cross_refs: []
 
 ---
 
-*构建韧性是一个渐进过程，请结合 [Fragile_Ego_Psychology.md](自我调节-韧性脆弱自我-Fragile_Ego_Psychology.md) 理解机制，结合 [Daily_Training_Protocol.md](自我调节-韧性脆弱自我-Daily_Training_Protocol.md) 制定训练计划。*
+*构建韧性是一个渐进过程，请结合 [Fragile_Ego_Psychology.md](自我调节-韧性脆弱自我-Fragile_Ego_Psychology.md) 理解机制，结合 [Daily_Training_Protocol.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E9%9F%A7%E6%80%A7%E8%84%86%E5%BC%B1%E8%87%AA%E6%88%91-Daily%E5%9F%B9%E8%AE%AD%E6%96%B9%E6%A1%88.md) 制定训练计划。*

@@ -31,10 +31,10 @@ cross_refs:
 # Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学)
 
 > 📘 **文档导航**: 本专题深入探讨芭蕾舞职业吸引的心理机制、艺术特质和临床意义。相关文档：
-> - [职业吸引概览](../Professional吸引力总览/职业吸引力-Professional吸引力总览.md) - 理论基础
+> - [职业吸引概览](../%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E6%80%BB%E8%A7%88.md) - 理论基础
 > - [芭蕾舞职业临床评估](职业吸引力-芭蕾-芭蕾吸引力临床评估.md) - 专业评估方法
-> - [职业吸引伦理法律](../Professional吸引力伦理Legal/职业吸引力-Professional吸引力伦理Legal.md) - 社会文化考量
-> - [职业吸引术语标准](../Professional吸引力TerminologyStandards/职业吸引力-Professional吸引力TerminologyStandards.md) - 概念框架
+> - [职业吸引伦理法律](../%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E4%BC%A6%E7%90%86Legal.md) - 社会文化考量
+> - [职业吸引术语标准](../%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9BTerminologyStandards.md) - 概念框架
 
 ## 芭蕾舞职业吸引现象深度解析 (Ballet Professional Attraction Phenomenon Deep Analysis)
 

@@ -13,8 +13,8 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [佛教-历史-Buddhist_Canon_System.md](佛教-历史-Buddhist_Canon_System.md)
-- [佛教-历史-Buddhist_History_Timeline.md](佛教-历史-Buddhist_History_Timeline.md)
+- [佛教-历史-Buddhist_Canon_System.md](%E4%BD%9B%E6%95%99-%E5%8E%86%E5%8F%B2-%E4%BD%9B%E6%95%99%E7%BB%8F%E5%85%B8System.md)
+- [佛教-历史-Buddhist_History_Timeline.md](%E4%BD%9B%E6%95%99-%E5%8E%86%E5%8F%B2-%E4%BD%9B%E6%95%99%E5%8E%86%E5%8F%B2%E6%97%B6%E9%97%B4%E7%BA%BF.md)
 - [佛教-历史-佛教历史时间线.md](佛教-历史-佛教历史时间线.md)
 - [佛教-历史-佛教经典System.md](佛教-历史-佛教经典System.md)
 

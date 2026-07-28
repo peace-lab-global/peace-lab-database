@@ -14,8 +14,8 @@ auto_generated: true
 ## 📄 文件 | Files (7)
 
 - [佛教-传统-Buddhism_Chinese_Mahayana_Schools.md](佛教-传统-Buddhism_Chinese_Mahayana_Schools.md)
-- [佛教-传统-Buddhism_Theravada_Tradition.md](佛教-传统-Buddhism_Theravada_Tradition.md)
-- [佛教-传统-Buddhism_Tibetan_Vajrayana.md](佛教-传统-Buddhism_Tibetan_Vajrayana.md)
+- [佛教-传统-Buddhism_Theravada_Tradition.md](%E4%BD%9B%E6%95%99-%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99%E5%8D%97%E4%BC%A0Tradition.md)
+- [佛教-传统-Buddhism_Tibetan_Vajrayana.md](%E4%BD%9B%E6%95%99-%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99Tibetan%E9%87%91%E5%88%9A%E4%B9%98.md)
 - [佛教-传统-佛教ChineseMahayana流派.md](佛教-传统-佛教ChineseMahayana流派.md)
 - [佛教-传统-佛教Tibetan金刚乘.md](佛教-传统-佛教Tibetan金刚乘.md)
 - [佛教-传统-佛教南传Tradition.md](佛教-传统-佛教南传Tradition.md)

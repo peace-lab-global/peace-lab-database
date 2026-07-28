@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [FlowState核心/](FlowState核心/INDEX.md) (2 md)
-- [Flow临床Applications/](Flow临床Applications/INDEX.md) (2 md)
+- [FlowState核心/](%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md) (2 md)
+- [Flow临床Applications/](%E5%BF%83%E6%B5%81-Flow%E4%B8%B4%E5%BA%8AApplications.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

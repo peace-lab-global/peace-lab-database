@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [整合疗法-正念认知疗法-MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md](整合疗法-正念认知疗法-MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md)
-- [整合疗法-正念认知疗法-evidence-MBCT_RCT_Evidence_Summary.md](整合疗法-正念认知疗法-evidence-MBCT_RCT_Evidence_Summary.md)
+- [整合疗法-正念认知疗法-evidence-MBCT_RCT_Evidence_Summary.md](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95-%E5%BE%AA%E8%AF%81%E7%A0%94%E7%A9%B6-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95RCT%E5%BE%AA%E8%AF%81%E6%91%98%E8%A6%81.md)
 - [整合疗法-正念认知疗法-循证研究-正念认知疗法RCT循证摘要.md](整合疗法-正念认知疗法-循证研究-正念认知疗法RCT循证摘要.md)
 - [整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md](整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md)
 

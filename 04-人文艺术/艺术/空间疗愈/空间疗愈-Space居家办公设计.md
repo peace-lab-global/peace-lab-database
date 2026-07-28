@@ -159,7 +159,7 @@ cross_refs:
 | 关联主题 | 路径 | 关联点 |
 |---------|------|--------|
 | 疗愈建筑 | [Space_Healing_Architecture](空间疗愈-Space疗愈Architecture.md) | 空间心理学理论 |
-| 睡前拉伸 | [03-生命科学/biology/pre-sleep-stretching/](../../../03-生命科学/生物学/睡前拉伸/INDEX.md) | 睡眠环境配合 |
+| 睡前拉伸 | [03-生命科学/biology/pre-sleep-stretching/](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%9D%A1%E5%89%8D%E6%8B%89%E4%BC%B8-Pre%E7%9D%A1%E7%9C%A0Stretching%E6%80%BB%E8%A7%88.md) | 睡眠环境配合 |
 | 工作专注力 | [05-实践成长/personal-development/](../../../05-实践成长/个人发展/INDEX.md) | 专注力环境 |
 | 感官治疗 | [02-心智心理/therapy/sensory-nature/sensory/](../../../02-心智心理/疗法/感官自然/感官/INDEX.md) | 家庭感官环境 |
 | 香薰 | [02-心智心理/therapy/sensory-nature/incense/](../../../02-心智心理/疗法/感官自然/香气/INDEX.md) | 家庭香氛选择 |

@@ -14,8 +14,8 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [世界诗歌-古典-WorldClassical诗歌总览.md](世界诗歌-古典-WorldClassical诗歌总览.md)
-- [世界诗歌-古典-World_Classical_Poetry_Overview.md](世界诗歌-古典-World_Classical_Poetry_Overview.md)
-- [世界诗歌-现代-World_Modern_Poetry_Overview.md](世界诗歌-现代-World_Modern_Poetry_Overview.md)
+- [世界诗歌-古典-World_Classical_Poetry_Overview.md](%E4%B8%96%E7%95%8C%E8%AF%97%E6%AD%8C-%E5%8F%A4%E5%85%B8-WorldClassical%E8%AF%97%E6%AD%8C%E6%80%BB%E8%A7%88.md)
+- [世界诗歌-现代-World_Modern_Poetry_Overview.md](%E4%B8%96%E7%95%8C%E8%AF%97%E6%AD%8C-%E7%8E%B0%E4%BB%A3-World%E7%8E%B0%E4%BB%A3%E8%AF%97%E6%AD%8C%E6%80%BB%E8%A7%88.md)
 - [世界诗歌-现代-World现代诗歌总览.md](世界诗歌-现代-World现代诗歌总览.md)
 
 *自动生成于 2026-07-17 22:31*

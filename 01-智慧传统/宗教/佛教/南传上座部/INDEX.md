@@ -13,11 +13,11 @@ auto_generated: true
 
 ## 📄 文件 | Files (11)
 
-- [佛教-南传上座部-Buddhism_Theravada_Abhidhamma.md](佛教-南传上座部-Buddhism_Theravada_Abhidhamma.md)
-- [佛教-南传上座部-Theravada_Abhidhamma.md](佛教-南传上座部-Theravada_Abhidhamma.md)
-- [佛教-南传上座部-Theravada_Meditation_Stages.md](佛教-南传上座部-Theravada_Meditation_Stages.md)
-- [佛教-南传上座部-Theravada_Overview.md](佛教-南传上座部-Theravada_Overview.md)
-- [佛教-南传上座部-Theravada_Vipassana_Traditions.md](佛教-南传上座部-Theravada_Vipassana_Traditions.md)
+- [佛教-南传上座部-Buddhism_Theravada_Abhidhamma.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E4%BD%9B%E6%95%99%E5%8D%97%E4%BC%A0%E9%98%BF%E6%AF%97%E8%BE%BE%E6%91%A9.md)
+- [佛教-南传上座部-Theravada_Abhidhamma.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E5%8D%97%E4%BC%A0%E9%98%BF%E6%AF%97%E8%BE%BE%E6%91%A9.md)
+- [佛教-南传上座部-Theravada_Meditation_Stages.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E5%8D%97%E4%BC%A0%E5%86%A5%E6%83%B3%E9%98%B6%E6%AC%A1.md)
+- [佛教-南传上座部-Theravada_Overview.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E5%8D%97%E4%BC%A0%E6%80%BB%E8%A7%88.md)
+- [佛教-南传上座部-Theravada_Vipassana_Traditions.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E5%8D%97%E4%BC%A0%E8%A7%82Traditions.md)
 - [佛教-南传上座部-佛教南传阿毗达摩.md](佛教-南传上座部-佛教南传阿毗达摩.md)
 - [佛教-南传上座部-南传冥想阶次.md](佛教-南传上座部-南传冥想阶次.md)
 - [佛教-南传上座部-南传总览.md](佛教-南传上座部-南传总览.md)

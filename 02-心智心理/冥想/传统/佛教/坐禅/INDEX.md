@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (7)
 
 - [传统-佛教-坐禅-Zazen_Koan_Collection.md](传统-佛教-坐禅-Zazen_Koan_Collection.md)
-- [传统-佛教-坐禅-Zazen_Meditation_Overview.md](传统-佛教-坐禅-Zazen_Meditation_Overview.md)
+- [传统-佛教-坐禅-Zazen_Meditation_Overview.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%9D%90%E7%A6%85-Zazen%E5%86%A5%E6%83%B3%E6%80%BB%E8%A7%88.md)
 - [传统-佛教-坐禅-Zazen_Practice_Guide.md](传统-佛教-坐禅-Zazen_Practice_Guide.md)
 - [传统-佛教-坐禅-Zazen公案Collection.md](传统-佛教-坐禅-Zazen公案Collection.md)
 - [传统-佛教-坐禅-Zazen冥想总览.md](传统-佛教-坐禅-Zazen冥想总览.md)

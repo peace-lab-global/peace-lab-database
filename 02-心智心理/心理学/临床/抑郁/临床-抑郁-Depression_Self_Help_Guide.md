@@ -290,16 +290,16 @@ flowchart TD
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准、症状识别 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 药物与心理治疗 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准、症状识别 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 药物与心理治疗 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | 长期管理与维持 |
 | 早期预警信号 | 02-心理 | [Early Warning Signals](临床-抑郁-Depression_Early_Warning_Signals.md) | 症状恶化识别 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../../行为心理/抗拖延/行为心理-抗拖延-Behavioral_Activation.md) | 行为干预理论基础 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86/%E6%8A%97%E6%8B%96%E5%BB%B6/%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E8%A1%8C%E4%B8%BAActivation.md) | 行为干预理论基础 |
 | 正念认知疗法 | 02-心理 | [MBCT](../../../疗法/整合疗法/正念认知疗法/INDEX.md) | 正念在抑郁中的应用 |
 | 失眠CBT-I | 02-心理 | [CBT-I](../../躯体身心/睡眠/INDEX.md) | 睡眠障碍自助干预 |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | 运动抗抑郁机制 |
 | 正念行走 | 05-实践 | [Mindful Walking](../../../../05-实践成长/个人发展/正念/正念日常生活/正念-正念日常生活-Mindful_Walking_Practice.md) | 正念运动实践 |
-| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../../05-实践成长/个人发展/步行/步行临床Protocols/步行-步行临床Protocols.md) | 运动处方指南 |
+| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8C%E4%B8%B4%E5%BA%8AProtocols.md) | 运动处方指南 |
 
 ---
 

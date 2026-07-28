@@ -406,8 +406,8 @@ Tedeschi & Calhoun（2004）的研究表明，经历重大生活变故的人中�
 - [离婚家庭子女支持与干预](应用心理-亲密关系-婚姻-离婚心理-Divorce_Children_Support_Intervention.md) - 专业干预策略
 - [离婚后共同育儿与沟通](应用心理-亲密关系-婚姻-离婚心理-Divorce_Coparenting_Communication.md) - 共同育儿实操
 - [离婚心理学概览](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Overview.md) - 离婚心理学全景
-- [离婚心理学临床干预](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Clinical_Intervention.md) - 临床干预方法
-- [离婚心理学预防支持](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Prevention_Support.md) - 预防与支持体系
+- [离婚心理学临床干预](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md) - 临床干预方法
+- [离婚心理学预防支持](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E9%A2%84%E9%98%B2Support.md) - 预防与支持体系
 - [婚姻危机干预](../应用心理-亲密关系-婚姻-婚姻危机干预.md) - 婚姻危机处理
 - [婚姻原谅与修复](../应用心理-亲密关系-婚姻-婚姻ForgivenessRepair.md) - 伤害后的修复
 - [丧恸与悲伤辅导](../../../../特殊专题/哀伤/INDEX.md) - 相关的丧失处理

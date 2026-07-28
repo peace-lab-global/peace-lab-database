@@ -265,7 +265,7 @@ cross_refs: []
 
 - 本项目学术支撑:
   - [Loneliness Existential](../社会心理-孤独-Loneliness_Existential.md) — 存在性孤独的学术框架
-  - [Loneliness Positive Psychology](../社会心理-孤独-Loneliness_Positive_Psychology.md) — 孤独中的积极转化
+  - [Loneliness Positive Psychology](../%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPositive%E5%BF%83%E7%90%86%E5%AD%A6.md) — 孤独中的积极转化
   - [Solitude-Loneliness Bridge](../../独处/社会心理-独处-独处孤独Bridge.md) — 从孤独到独处的转化
 - 外部参考:
   - 《梵高书信集》

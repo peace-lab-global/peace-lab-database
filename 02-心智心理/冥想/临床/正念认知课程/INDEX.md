@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [临床-正念认知课程-MBCT_Assessment_Tools.md](临床-正念认知课程-MBCT_Assessment_Tools.md)
+- [临床-正念认知课程-MBCT_Assessment_Tools.md](%E4%B8%B4%E5%BA%8A-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E8%AF%BE%E7%A8%8B-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
 - [临床-正念认知课程-MBCT_Depression_Relapse_Prevention.md](临床-正念认知课程-MBCT_Depression_Relapse_Prevention.md)
 - [临床-正念认知课程-MBCT_Program_Overview.md](临床-正念认知课程-MBCT_Program_Overview.md)
 - [临床-正念认知课程-MBCT_Weekly_Curriculum.md](临床-正念认知课程-MBCT_Weekly_Curriculum.md)

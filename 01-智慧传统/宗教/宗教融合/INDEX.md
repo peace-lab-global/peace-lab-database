@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Syncretism唯识YangmingComparison/](Syncretism唯识YangmingComparison/INDEX.md) (2 md)
-- [三教合一/](三教合一/INDEX.md) (2 md)
+- [Syncretism唯识YangmingComparison/](%E5%AE%97%E6%95%99%E8%9E%8D%E5%90%88-Syncretism%E5%94%AF%E8%AF%86YangmingComparison.md) (2 md)
+- [三教合一/](%E5%AE%97%E6%95%99%E8%9E%8D%E5%90%88-%E4%B8%89%E6%95%99%E5%90%88%E4%B8%80.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

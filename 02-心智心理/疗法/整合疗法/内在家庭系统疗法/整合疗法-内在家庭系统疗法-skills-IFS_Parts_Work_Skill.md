@@ -181,4 +181,4 @@ last_updated: 2026-06
 
 ---
 
-*返回 [IFS 专题](整合疗法-内在家庭系统疗法-IFS_Overview.md) | [技能目录](../INDEX.md)*
+*返回 [IFS 专题](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E5%86%85%E5%9C%A8%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E7%96%97%E6%B3%95-IFS%E6%80%BB%E8%A7%88.md) | [技能目录](../INDEX.md)*

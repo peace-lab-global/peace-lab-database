@@ -80,7 +80,7 @@ graph TD
 
 ✅ **质量管理层** (2份文档)
 - [职业心理学质量评估报告](应用心理-职业心理学-Vocational_Psychology_Quality_Report.md) - 质量监控体系
-- [职业心理学增强总结](应用心理-职业心理学-Vocational_Psychology_Enhancement_Summary.md) - 项目成果总结
+- [职业心理学增强总结](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E8%81%8C%E4%B8%9A%E5%BF%83%E7%90%86%E5%AD%A6-%E8%81%8C%E4%B8%9A%E5%BF%83%E7%90%86%E5%AD%A6Enhancement%E6%91%98%E8%A6%81.md) - 项目成果总结
 
 ## 待办事项完成度检查
 

@@ -97,7 +97,7 @@
 - [圆桌-RoundTableTech社会](圆桌/圆桌-RoundTableTech社会.md)
 - [圆桌-RoundTable心理健康](圆桌/圆桌-RoundTable心理健康.md)
 - [圆桌-RoundTable总览](圆桌/圆桌-RoundTable总览.md)
-- [心理学-心理学文化](心理学/心理学-心理学文化.md)
+- [心理学-心理学文化](%E5%BF%83%E7%90%86%E5%AD%A6-%E5%BF%83%E7%90%86%E5%AD%A6%E6%96%87%E5%8C%96.md)
 - [框架-框架AI基础](框架/框架-框架AI基础.md)
 - [框架-框架ClimateChangeAdaptation](框架/框架-框架ClimateChangeAdaptation.md)
 - [框架-框架CreativeIndustries](框架/框架-框架CreativeIndustries.md)

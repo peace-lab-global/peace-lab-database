@@ -13,8 +13,8 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [法家-经典-Han_Feizi.md](法家-经典-Han_Feizi.md)
-- [法家-经典-Shang_Jun_Shu.md](法家-经典-Shang_Jun_Shu.md)
+- [法家-经典-Han_Feizi.md](%E6%B3%95%E5%AE%B6-%E7%BB%8F%E5%85%B8-%E9%9F%A9%E9%9D%9E%E5%AD%90.md)
+- [法家-经典-Shang_Jun_Shu.md](%E6%B3%95%E5%AE%B6-%E7%BB%8F%E5%85%B8-%E5%95%86%E5%90%9B%E4%B9%A6.md)
 - [法家-经典-商君书.md](法家-经典-商君书.md)
 - [法家-经典-韩非子.md](法家-经典-韩非子.md)
 

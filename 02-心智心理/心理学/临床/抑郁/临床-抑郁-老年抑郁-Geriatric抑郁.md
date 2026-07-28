@@ -280,7 +280,7 @@ last_disclaimer_added: "2026-06-23"
 | 老年心理 | 02-心理 | [Aging Psychology](../../发展心理/衰老心理学/INDEX.md) | 发展视角 |
 | 认知下降预防 | 03-生命 | [Cognitive Aging Prevention](../../../../03-生命科学/生物学/衰老长寿/衰老长寿-认知衰老预防.md) | 抑郁与痴呆 |
 | 疼痛科学 | 03-生命 | [Pain Science](../../../../03-生命科学/生物学/疼痛科学/疼痛科学-疼痛科学总览.md) | 慢性疼痛共病 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 老年自杀预防 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 老年自杀预防 |
 | 运动与衰老 | 03-生命 | [Exercise Science](../../../../03-生命科学/生物学/运动科学/INDEX.md) | 老年运动处方 |
 
 ---

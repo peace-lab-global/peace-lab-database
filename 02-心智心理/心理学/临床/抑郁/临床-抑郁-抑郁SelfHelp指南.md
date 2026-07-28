@@ -299,7 +299,7 @@ flowchart TD
 | 失眠CBT-I | 02-心理 | [CBT-I](../../躯体身心/睡眠/INDEX.md) | 睡眠障碍自助干预 |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | 运动抗抑郁机制 |
 | 正念行走 | 05-实践 | [Mindful Walking](../../../../05-实践成长/个人发展/正念/正念日常生活/正念-正念日常生活-Mindful步行实践.md) | 正念运动实践 |
-| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../../05-实践成长/个人发展/步行/步行临床Protocols/步行-步行临床Protocols.md) | 运动处方指南 |
+| 步行临床方案 | 05-实践 | [Walking Clinical Protocols](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8C%E4%B8%B4%E5%BA%8AProtocols.md) | 运动处方指南 |
 
 ---
 

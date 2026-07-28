@@ -278,7 +278,7 @@ cross_refs: []
 | 创伤与韧性 | [创伤韧性](发展心理-儿童发展-Child_Trauma_Resilience.md) |
 | 人格发展 | [人格发展](../../基础/人格/基础-人格-Personality_Development_Change.md) |
 | 青少年心理 | [青少年](../青少年/INDEX.md) |
-| 亲子关系 | [亲子教养](../../../心理学/应用心理/亲密关系/婚姻/育儿/INDEX.md) |
+| 亲子关系 | [亲子教养](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%A9%9A%E5%A7%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E5%A9%9A%E5%A7%BB%E8%82%B2%E5%84%BFConflict.md) |
 
 ---
 

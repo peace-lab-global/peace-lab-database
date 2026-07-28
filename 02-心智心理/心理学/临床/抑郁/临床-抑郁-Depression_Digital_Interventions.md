@@ -254,14 +254,14 @@ last_disclaimer_added: "2026-06-23"
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 标准治疗基础 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 标准治疗基础 |
 | 自助指南 | 02-心理 | [Self-Help Guide](临床-抑郁-Depression_Self_Help_Guide.md) | 数字化自助工具 |
 | 复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | 数字监测预防复发 |
 | 早期预警信号 | 02-心理 | [Early Warning Signals](临床-抑郁-Depression_Early_Warning_Signals.md) | 数字监测工具 |
 | 青少年抑郁 | 02-心理 | [Adolescent Depression](临床-抑郁-青少年抑郁-Adolescent_Depression.md) | 青少年数字干预 |
 | 焦虑数字化自助 | 02-心理 | [Anxiety Digital Self-Help](../焦虑/临床-焦虑-Anxiety_Digital_Self_Help.md) | 跨诊断数字干预 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-实践成长/个人发展/正念/正念临床Applications/正念-正念临床Applications.md) | 正念App |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) | 正念App |
 | 睡眠CBT-I | 02-心理 | [CBT-I](../../躯体身心/睡眠/INDEX.md) | 睡眠数字化干预 |
 
 ---

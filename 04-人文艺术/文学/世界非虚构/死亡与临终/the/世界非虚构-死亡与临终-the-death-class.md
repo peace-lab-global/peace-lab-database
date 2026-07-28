@@ -66,7 +66,7 @@ cross_refs:
 
 - 书中人物：诺玛·鲍伊（Norma Bowe）在基恩大学（Kean University）开设的死亡课程多年爆满，是美国死亡教育领域的著名案例。
 - 相关经典：Kübler-Ross, *On Death and Dying*（1969）——临终心理研究的奠基之作。
-- 本库相关条目：[《直视骄阳》Staring at the Sun](../世界非虚构-死亡与临终-staring-at-the-sun.md)、[死亡与临终 INDEX](../INDEX.md)
+- 本库相关条目：[《直视骄阳》Staring at the Sun](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E4%B8%B4%E7%BB%88-staringatthe%E6%97%A5.md)、[死亡与临终 INDEX](../INDEX.md)
 
 ## 五、阅读体验
 

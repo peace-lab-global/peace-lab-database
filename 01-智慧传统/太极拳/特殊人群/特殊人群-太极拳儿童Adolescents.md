@@ -68,4 +68,4 @@ cross_refs:
 
 ## 参考与延伸阅读
 
-- 参见: [教学法](../师资培训/师资培训-TaiChi教学Methodology.md) | [太极总览](../太极拳总览/太极拳总览.md)
+- 参见: [教学法](../师资培训/师资培训-TaiChi教学Methodology.md) | [太极总览](../%E5%A4%AA%E6%9E%81%E6%8B%B3%E6%80%BB%E8%A7%88.md)

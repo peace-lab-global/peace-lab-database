@@ -22,12 +22,12 @@ auto_generated: true
 - [教育研究/](教育研究/INDEX.md) (3 md)
 - [综合/](综合/INDEX.md) (3 md)
 - [鉴赏/](鉴赏/INDEX.md) (3 md)
-- [芭蕾EducationSystem/](芭蕾EducationSystem/INDEX.md) (2 md)
-- [芭蕾Scientific研究/](芭蕾Scientific研究/INDEX.md) (2 md)
-- [芭蕾TechniqueSystem/](芭蕾TechniqueSystem/INDEX.md) (2 md)
-- [芭蕾Terminology词典/](芭蕾Terminology词典/INDEX.md) (2 md)
-- [芭蕾总览/](芭蕾总览/INDEX.md) (2 md)
-- [芭蕾疗法Applications/](芭蕾疗法Applications/INDEX.md) (2 md)
+- [芭蕾EducationSystem/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BEEducationSystem.md) (2 md)
+- [芭蕾Scientific研究/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BEScientific%E7%A0%94%E7%A9%B6.md) (2 md)
+- [芭蕾TechniqueSystem/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETechniqueSystem.md) (2 md)
+- [芭蕾Terminology词典/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETerminology%E8%AF%8D%E5%85%B8.md) (2 md)
+- [芭蕾总览/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E6%80%BB%E8%A7%88.md) (2 md)
+- [芭蕾疗法Applications/](%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E7%96%97%E6%B3%95Applications.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

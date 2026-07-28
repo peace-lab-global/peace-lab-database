@@ -15,7 +15,7 @@ auto_generated: true
 
 - [传统-东亚-中国传统-Chinese_Localization_Challenges.md](传统-东亚-中国传统-Chinese_Localization_Challenges.md)
 - [传统-东亚-中国传统-Chinese_Meditation_Overview.md](传统-东亚-中国传统-Chinese_Meditation_Overview.md)
-- [传统-东亚-中国传统-Chinese_Meditation_Practical.md](传统-东亚-中国传统-Chinese_Meditation_Practical.md)
+- [传统-东亚-中国传统-Chinese_Meditation_Practical.md](%E4%BC%A0%E7%BB%9F-%E4%B8%9C%E4%BA%9A-%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F-Chinese%E5%86%A5%E6%83%B3%E5%AE%9E%E7%94%A8.md)
 - [传统-东亚-中国传统-Chinese_Sitting_Practices.md](传统-东亚-中国传统-Chinese_Sitting_Practices.md)
 - [传统-东亚-中国传统-Chinese_TCM_Meditation.md](传统-东亚-中国传统-Chinese_TCM_Meditation.md)
 - [传统-东亚-中国传统-Chinese中医冥想.md](传统-东亚-中国传统-Chinese中医冥想.md)

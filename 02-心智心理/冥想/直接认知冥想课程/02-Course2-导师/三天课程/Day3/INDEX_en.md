@@ -23,7 +23,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (1)
 
-- [day3.md](day3.md) — Day 3 课程完整笔记
+- [day3.md](%E7%AC%AC%E4%B8%89%E5%A4%A9.md) — Day 3 课程完整笔记
 
 ---
 

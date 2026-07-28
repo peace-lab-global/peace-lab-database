@@ -15,18 +15,13 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [SatirIceberg模型/](SatirIceberg模型/INDEX.md) (2 md)
-- [Satir_Communication_Stances/](Satir_Communication_Stances/INDEX.md) (2 md)
-- [Satir_Iceberg_Model/](Satir_Iceberg_Model/INDEX.md) (2 md)
-- [Satir_Meditation_Techniques/](Satir_Meditation_Techniques/INDEX.md) (2 md)
-- [Satir_Model_Overview/](Satir_Model_Overview/INDEX.md) (2 md)
-- [Satir_Model_Treatment_System/](Satir_Model_Treatment_System/INDEX.md) (2 md)
-- [Satir_Transformation_Process/](Satir_Transformation_Process/INDEX.md) (2 md)
-- [Satir冥想技术/](Satir冥想技术/INDEX.md) (2 md)
-- [Satir模型总览/](Satir模型总览/INDEX.md) (2 md)
-- [Satir模型治疗System/](Satir模型治疗System/INDEX.md) (2 md)
-- [Satir沟通Stances/](Satir沟通Stances/INDEX.md) (2 md)
-- [Satir转化Process/](Satir转化Process/INDEX.md) (2 md)
+- [SatirIceberg模型/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-SatirIceberg%E6%A8%A1%E5%9E%8B.md) (2 md)
+- [Satir_Communication_Stances/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir_Communication_Stances.md) (2 md)
+- [Satir冥想技术/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E5%86%A5%E6%83%B3%E6%8A%80%E6%9C%AF.md) (2 md)
+- [Satir模型总览/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88.md) (2 md)
+- [Satir模型治疗System/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%B2%BB%E7%96%97System.md) (2 md)
+- [Satir沟通Stances/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%B2%9F%E9%80%9AStances.md) (2 md)
+- [Satir转化Process/](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E8%BD%AC%E5%8C%96Process.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

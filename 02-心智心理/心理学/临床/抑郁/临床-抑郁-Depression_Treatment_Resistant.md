@@ -306,15 +306,15 @@ last_disclaimer_added: "2026-06-23"
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准、严重程度分级 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 药物治疗基础 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准、严重程度分级 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 药物治疗基础 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | TRD后的长期管理 |
 | 早期预警信号 | 02-心理 | [Early Warning Signals](临床-抑郁-Depression_Early_Warning_Signals.md) | 治疗反应监测 |
 | 心理神经免疫学 | 03-生命 | [PNI](../../../../03-生命科学/生物学/免疫炎症/免疫炎症-心理神经免疫学.md) | 炎症与TRD |
 | 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../../03-生命科学/生物学/肠道微生物/肠道微生物-肠道BrainAxis.md) | 菌群与TRD |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | TRD辅助干预 |
 | 正念认知疗法 | 02-心理 | [MBCT](../../../疗法/整合疗法/正念认知疗法/INDEX.md) | TRD心理治疗 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 高自杀风险TRD |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 高自杀风险TRD |
 
 ---
 

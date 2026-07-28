@@ -51,11 +51,11 @@ cross_refs: []
 
 | 核心概念 | 相关概念 | 交叉引用文件 | 理论地位 | 实践意义 | 现代整合 |
 |---|---|---|---|---|---|
-| **缘起性空** | 三法印、中观哲学 | [缘起性空详论](../核心哲学/佛教-核心哲学-Buddhism_Pratiyasamutpada_Emptiness.md) [中观体系](../核心哲学/佛教-核心哲学-Buddhism_Madhyamaka_Philosophy_System.md) | 哲学基础 | 解脱智慧 | 系统论、复杂科学 |
-| **三法印** | 无常、苦、无我 | [三法印解析](../核心哲学/佛教-核心哲学-Buddhism_Three_Seals_One_Reality.md) | 认证标准 | 正见建立 | 变化接纳、无常心理学 |
+| **缘起性空** | 三法印、中观哲学 | [缘起性空详论](../核心哲学/佛教-核心哲学-Buddhism_Pratiyasamutpada_Emptiness.md) [中观体系](../%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6/%E4%BD%9B%E6%95%99-%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6-%E4%BD%9B%E6%95%99%E4%B8%AD%E8%A7%82%E5%93%B2%E5%AD%A6System.md) | 哲学基础 | 解脱智慧 | 系统论、复杂科学 |
+| **三法印** | 无常、苦、无我 | [三法印解析](../%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6/%E4%BD%9B%E6%95%99-%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6-%E4%BD%9B%E6%95%99ThreeSealsOneReality.md) | 认证标准 | 正见建立 | 变化接纳、无常心理学 |
 | **戒定慧** | 三学、八正道 | [戒律伦理](../伦理/佛教-伦理-佛教伦理综合.md) [禅修体系](../冥想/佛教-冥想-Buddhism_Meditation_Practice_System.md) | 修行路径 | 实践框架 | 行为治疗、注意力训练 |
-| **慈悲喜舍** | 四无量心 | [四无量心疗愈](佛教-基础-Buddhism_Four_Immeasurables.md) [心理治疗](../心理学/佛教-心理学-Buddhism_Psychotherapy_Theory.md) | 利他精神 | 心理健康 | 慈悲聚焦疗法、MSC |
-| **菩提心** | 菩萨道、六度 | [如来藏思想](../核心哲学/佛教-核心哲学-Buddhism_Tathagatagarbha.md) [高级主题](../高阶/佛教-高阶-佛教高阶实践Topics.md) | 大乘理想 | 究竟目标 | 利他主义、积极心理学 |
+| **慈悲喜舍** | 四无量心 | [四无量心疗愈](%E4%BD%9B%E6%95%99-%E5%9F%BA%E7%A1%80-%E4%BD%9B%E6%95%99Four%E5%9B%9B%E6%97%A0%E9%87%8F%E5%BF%83.md) [心理治疗](../心理学/佛教-心理学-Buddhism_Psychotherapy_Theory.md) | 利他精神 | 心理健康 | 慈悲聚焦疗法、MSC |
+| **菩提心** | 菩萨道、六度 | [如来藏思想](../%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6/%E4%BD%9B%E6%95%99-%E6%A0%B8%E5%BF%83%E5%93%B2%E5%AD%A6-%E4%BD%9B%E6%95%99Tathagatagarbha.md) [高级主题](../%E4%BD%9B%E6%95%99-%E9%AB%98%E9%98%B6-%E4%BD%9B%E6%95%99%E9%AB%98%E9%98%B6%E5%AE%9E%E8%B7%B5Topics.md) | 大乘理想 | 究竟目标 | 利他主义、积极心理学 |
 
 ---
 

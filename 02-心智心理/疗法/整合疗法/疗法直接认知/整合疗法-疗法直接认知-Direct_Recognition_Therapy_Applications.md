@@ -135,4 +135,4 @@ cross_refs: []
 
 ---
 
-*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [直接认知疗愈](整合疗法-疗法直接认知-Therapy_Direct_Recognition_Healing.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [直接认知疗愈](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%96%97%E6%B3%95%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E7%96%97%E6%B3%95DirectRecognition%E7%96%97%E6%84%88.md)*

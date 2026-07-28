@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (6)
 
-- [prep.md](prep.md)
+- [prep.md](%E9%A2%84%E5%A4%87.md)
 - [墨辞辞.md](墨辞辞.md)
 - [墨辞辞十分钟.md](墨辞辞十分钟.md)
 - [草稿_INDEX.md](草稿_INDEX.md)

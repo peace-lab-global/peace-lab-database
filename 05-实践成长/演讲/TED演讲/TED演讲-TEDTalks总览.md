@@ -172,7 +172,7 @@ TED演讲全领域分类体系
 |-------|---------|------|----------|------------|------|----------|
 | **Brian Wansink** | Mindless eating | 2012 | 无意识进食的心理学 | [饮食行为](../../../03-生命科学/食物/营养学/营养学-NutritionalNatural疗法.md) | 16:32 | [观看](https://www.ted.com/talks/brian_wansink_what_you_don_t_know_about_food) |
 | **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的脑健康 | [营养精神病学](../../../03-生命科学/食物/营养学/营养学-NutritionalNatural疗法.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
-| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](../../../03-生命科学/食物/Bio营养肠道/Bio营养肠道.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
+| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E9%A3%9F%E7%89%A9/Bio%E8%90%A5%E5%85%BB%E8%82%A0%E9%81%93.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
 
 ---
 
@@ -183,7 +183,7 @@ TED演讲全领域分类体系
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
-| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-生命科学/性学/社会社区支持/社会社区支持.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
+| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E7%A4%BE%E5%8C%BA%E6%94%AF%E6%8C%81.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
 | **Elizabeth Lesser** | Say your values out loud | 2015 | 价值观的公开表达 | [道德心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Social.md) | 13:22 | [观看](https://www.ted.com/talks/elizabeth_lesser_say_your_values_out_loud) |
 
 ### 4.2 政治哲学与治理
@@ -347,9 +347,9 @@ TED演讲全领域分类体系
 
 本TED内容体系与项目其他专业知识模块建立以下关联：
 
-- **心理学领域**：与[心理学](../心理学/INDEX.md)、[发展心理学](../../../02-心智心理/心理学/发展心理/青少年/儿童发展心理学/INDEX.md)、[青少年心理学](../../../02-心智心理/心理学/发展心理/青少年/青少年心理/INDEX.md)等模块深度对接
+- **心理学领域**：与[心理学](../%E5%BF%83%E7%90%86%E5%AD%A6-%E5%BF%83%E7%90%86%E5%AD%A6%E6%96%87%E5%8C%96.md)、[发展心理学](../../../02-心智心理/心理学/发展心理/青少年/儿童发展心理学/INDEX.md)、[青少年心理学](../../../02-心智心理/心理学/发展心理/青少年/青少年心理/INDEX.md)等模块深度对接
 - **健康医学**：与[生物医学](../../../03-生命科学/生物学/INDEX.md)、[睡眠](../../../02-心智心理/心理学/躯体身心/睡眠/INDEX.md)、[营养](../../../03-生命科学/食物/营养学/INDEX.md)等健康相关模块形成互补
-- **社会议题**：与[社会心理学](../心理学/INDEX.md)、[政治心理学](../../../02-心智心理/心理学/社会心理/政治心理学/INDEX.md)等社会科学模块相互呼应
+- **社会议题**：与[社会心理学](../%E5%BF%83%E7%90%86%E5%AD%A6-%E5%BF%83%E7%90%86%E5%AD%A6%E6%96%87%E5%8C%96.md)、[政治心理学](../../../02-心智心理/心理学/社会心理/政治心理学/INDEX.md)等社会科学模块相互呼应
 - **科技前沿**：与[脑科学](../../../03-生命科学/生物学/脑科学/INDEX.md)、[人工智能](../框架/INDEX.md)等技术模块建立知识桥梁
 
 ---

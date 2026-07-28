@@ -197,8 +197,8 @@ cross_refs: []
 
 ## 相关链接 | Related Links
 
-- [执行师教学方法论](基础-Practitioner_Teaching_Methodology.md)
-- [执行师伦理标准](基础-Practitioner_Ethics_Standards.md)
+- [执行师教学方法论](%E5%9F%BA%E7%A1%80-Practitioner%E6%95%99%E5%AD%A6Methodology.md)
+- [执行师伦理标准](%E5%9F%BA%E7%A1%80-Practitioner%E4%BC%A6%E7%90%86Standards.md)
 - [执行师评估与进阶](基础-Practitioner_Assessment_Progression.md)
 - [执行师认证对比](基础-Practitioner_Certification_Comparison.md)
 - [冥想安全与不良反应](../临床/安全/临床-安全-Meditation_Adverse_Effects.md)

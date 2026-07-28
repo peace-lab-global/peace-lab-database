@@ -80,7 +80,6 @@ graph TB
 ## 相关学习路径
 
 - [睡眠优化路径](元信息-睡眠OptimizationPath.md)
-- [压力韧性路径](../../../_meta/学习路径/压力韧性Path.md)
 
 ---
 *返回 [主题地图索引](INDEX.md) | 返回根目录 [README.md](./INDEX.md)*

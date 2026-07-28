@@ -14,8 +14,8 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [佛教-南怀瑾-NanHuaijin心理智慧.md](佛教-南怀瑾-NanHuaijin心理智慧.md)
-- [佛教-南怀瑾-Nan_Huaijin_Psychological_Wisdom.md](佛教-南怀瑾-Nan_Huaijin_Psychological_Wisdom.md)
-- [佛教-南怀瑾-Nan_Huaijin_Teachings.md](佛教-南怀瑾-Nan_Huaijin_Teachings.md)
+- [佛教-南怀瑾-Nan_Huaijin_Psychological_Wisdom.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E6%80%80%E7%91%BE-NanHuaijin%E5%BF%83%E7%90%86%E6%99%BA%E6%85%A7.md)
+- [佛教-南怀瑾-Nan_Huaijin_Teachings.md](%E4%BD%9B%E6%95%99-%E5%8D%97%E6%80%80%E7%91%BE-%E5%8D%97%E6%80%80%E7%91%BE%E6%95%99%E5%AF%BC.md)
 - [佛教-南怀瑾-南怀瑾教导.md](佛教-南怀瑾-南怀瑾教导.md)
 
 

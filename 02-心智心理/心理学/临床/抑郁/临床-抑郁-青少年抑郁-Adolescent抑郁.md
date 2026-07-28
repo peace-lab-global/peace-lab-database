@@ -293,9 +293,9 @@ last_disclaimer_added: "2026-06-23"
 | 营养干预 | 02-心理 | [Nutritional Interventions](临床-抑郁-抑郁NutritionalInterventions.md) | 青少年营养 |
 | 儿童发展 | 02-心理 | [Child Development](../../发展心理/儿童发展/INDEX.md) | 发展视角 |
 | 学生心理健康 | 02-心理 | [Student Mental Health](../../应用心理/教育心理学/应用心理-教育心理学-Student心理健康.md) | 学校干预 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 青少年自杀预防 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 青少年自杀预防 |
 | 行为激活 | 02-心理 | [Behavioral Activation](../../行为心理/抗拖延/行为心理-抗拖延-行为Activation.md) | 青少年行为干预 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-实践成长/个人发展/正念/正念临床Applications/正念-正念临床Applications.md) | 青少年正念 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) | 青少年正念 |
 
 ---
 

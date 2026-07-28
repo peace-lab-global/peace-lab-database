@@ -180,7 +180,7 @@ cross_refs: []
 - 本项目学术支撑:
   - [Loneliness Digital Age](../社会心理-孤独-Loneliness_Digital_Age.md) — 数字时代孤独的学术框架
   - [Loneliness Biology Integration](../社会心理-孤独-Loneliness_Biology_Integration.md) — 孤独的生物学机制
-  - [Loneliness Positive Psychology](../社会心理-孤独-Loneliness_Positive_Psychology.md) — 积极独处的心理学
+  - [Loneliness Positive Psychology](../%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPositive%E5%BF%83%E7%90%86%E5%AD%A6.md) — 积极独处的心理学
 - 外部参考:
   - 《单身社会》（Eric Klinenberg）
   - 《孤独消费》（日本消费研究学会）

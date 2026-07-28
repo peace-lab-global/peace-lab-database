@@ -486,7 +486,7 @@ cross_refs:
 - [正念行走专业实践指南 (Mindful Walking Practice)](正念-正念日常生活-Mindful_Walking_Practice.md) — 本文档的理论基础与循证框架
 - [正念日常生活 (Mindful Daily Living)](正念-正念日常生活-Mindful_Daily_Living.md) — 正念行走的练习层级表
 - [正念饮水专业实践指南 (Mindful Drinking Practice)](正念-正念日常生活-Mindful_Drinking_Practice.md) — 另一核心日常正念微练习
-- [正念临床应用 (Mindfulness Clinical Applications)](../正念临床Applications/正念-正念临床Applications.md) — 正念干预的完整临床证据
+- [正念临床应用 (Mindfulness Clinical Applications)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) — 正念干预的完整临床证据
 - [佛教禅修实践体系 (Buddhism Meditation Practice System)](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教冥想实践System.md) — 经行传统
 - [止观禅修详表 (Samatha Vipassana)](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教止观.md) — 经行禅修详解与三层级标记系统
 - [创伤知情正念 (Trauma-Sensitive Mindfulness)](../../../../01-智慧传统/宗教/佛教/心理学/佛教-心理学-佛教正念疗法整合.md) — 创伤人群的安全改编原则

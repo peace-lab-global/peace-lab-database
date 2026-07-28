@@ -330,11 +330,11 @@ Jon Kabat-Zinn在MBSR体系中提出的七种正念态度(*Seven Attitudinal Fou
 - [正念日常生活 (Mindful Daily Living)](正念-正念日常生活-Mindful_Daily_Living.md) — 正念饮水的练习层级与总体框架
 - [正念行走专业实践指南 (Mindful Walking Practice)](正念-正念日常生活-Mindful_Walking_Practice.md) — 另一核心日常正念微练习
 - [正念开会专业实践指南 (Mindful Meeting Practice)](正念-正念日常生活-Mindful_Meeting_Practice.md) — 职场正念实践与会议场景应用
-- [正念临床应用 (Mindfulness Clinical Applications)](../正念临床Applications/正念-正念临床Applications.md) — 正念饮水的临床适用性
-- [正念减压疗法 (MBSR)](../正念为基础压力Reduction/正念-正念为基础压力Reduction.md) — MBSR中的饮食正念练习
-- [正念认知疗法 (MBCT)](../正念为基础认知疗法/正念-正念为基础认知疗法.md) — MBCT中的日常正念整合
+- [正念临床应用 (Mindfulness Clinical Applications)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) — 正念饮水的临床适用性
+- [正念减压疗法 (MBSR)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) — MBSR中的饮食正念练习
+- [正念认知疗法 (MBCT)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md) — MBCT中的日常正念整合
 - [佛教禅修实践体系](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教冥想实践System.md) — 饮茶禅与日常生活禅
-- [正念核心理论 (Mindfulness Core)](../正念核心/正念-正念核心.md) — 正念饮水的理论基础
+- [正念核心理论 (Mindfulness Core)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) — 正念饮水的理论基础
 
 ---
 

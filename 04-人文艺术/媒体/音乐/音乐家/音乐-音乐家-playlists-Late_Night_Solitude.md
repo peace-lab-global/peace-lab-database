@@ -22,7 +22,7 @@ cross_refs: []
 
 ## 一、肖邦：夜的诗人
 
-> 参考档案：[Chopin (肖邦)](音乐-音乐家-composers-Chopin.md)
+> 参考档案：[Chopin (肖邦)](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%82%96%E9%82%A6.md)
 
 ### 1. 夜曲 (Nocturnes)
 肖邦夜曲是深夜最自然的声音，如梦如泣，最适合一个人静静坐着。
@@ -50,7 +50,7 @@ cross_refs: []
 
 ## 二、舒伯特：孤独者之歌
 
-> 参考档案：[Schubert (舒伯特)](音乐-音乐家-composers-Schubert.md)
+> 参考档案：[Schubert (舒伯特)](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%88%92%E4%BC%AF%E7%89%B9.md)
 
 ### 1. 冬之旅 (Winterreise, D. 911)
 24首歌曲组成的孤独旅程——一个人走在荒野中，无人相伴，却有音乐相随。
@@ -78,7 +78,7 @@ cross_refs: []
 
 ## 三、拉赫玛尼诺夫：情感的深渊与出口
 
-> 参考档案：[Rachmaninoff (拉赫玛尼诺夫)](音乐-音乐家-composers-Rachmaninoff.md)
+> 参考档案：[Rachmaninoff (拉赫玛尼诺夫)](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%AB.md)
 
 ### 1. 第二钢琴协奏曲 (Piano Concerto No. 2 in C minor, Op. 18)
 深夜若需要情感的涌动与释放，第二协奏曲是最好的容器。
@@ -104,7 +104,7 @@ cross_refs: []
 
 ## 四、贝多芬：孤独中的力量
 
-> 参考档案：[Beethoven (贝多芬)](音乐-音乐家-composers-Beethoven.md)
+> 参考档案：[Beethoven (贝多芬)](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%B4%9D%E5%A4%9A%E8%8A%AC.md)
 
 ### 1. 月光奏鸣曲 (Piano Sonata No. 14 "Moonlight", Op. 27 No. 2)
 
@@ -139,7 +139,7 @@ cross_refs: []
 
 | 分类 | 链接 |
 |------|------|
-| 作曲家档案 | [Chopin](音乐-音乐家-composers-Chopin.md) · [Schubert](音乐-音乐家-composers-Schubert.md) · [Rachmaninoff](音乐-音乐家-composers-Rachmaninoff.md) · [Beethoven](音乐-音乐家-composers-Beethoven.md) |
+| 作曲家档案 | [Chopin](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%82%96%E9%82%A6.md) · [Schubert](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%88%92%E4%BC%AF%E7%89%B9.md) · [Rachmaninoff](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E6%8B%89%E8%B5%AB%E7%8E%9B%E5%B0%BC%E8%AF%BA%E5%A4%AB.md) · [Beethoven](%E9%9F%B3%E4%B9%90-%E9%9F%B3%E4%B9%90%E5%AE%B6-%E4%BD%9C%E6%9B%B2%E5%AE%B6-%E8%B4%9D%E5%A4%9A%E8%8A%AC.md) |
 | 歌单目录 | [Playlists README]() |
 
 ---

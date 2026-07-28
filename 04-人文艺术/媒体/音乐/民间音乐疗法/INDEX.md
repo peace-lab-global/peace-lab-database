@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (3)
 
-- [音乐-民间音乐疗法-Folk_Music_Therapy.md](音乐-民间音乐疗法-Folk_Music_Therapy.md)
+- [音乐-民间音乐疗法-Folk_Music_Therapy.md](%E9%9F%B3%E4%B9%90-%E6%B0%91%E9%97%B4%E9%9F%B3%E4%B9%90%E7%96%97%E6%B3%95-Folk%E9%9F%B3%E4%B9%90%E7%96%97%E6%B3%95.md)
 - [音乐-民间音乐疗法-Folk音乐疗法.md](音乐-民间音乐疗法-Folk音乐疗法.md)
 
 

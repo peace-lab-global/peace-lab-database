@@ -13,8 +13,8 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [音乐-古琴疗法-Guqin_Psychological_Regulation.md](音乐-古琴疗法-Guqin_Psychological_Regulation.md)
-- [音乐-古琴疗法-Guqin_Therapy.md](音乐-古琴疗法-Guqin_Therapy.md)
+- [音乐-古琴疗法-Guqin_Psychological_Regulation.md](%E9%9F%B3%E4%B9%90-%E5%8F%A4%E7%90%B4%E7%96%97%E6%B3%95-Guqin%E5%BF%83%E7%90%86Regulation.md)
+- [音乐-古琴疗法-Guqin_Therapy.md](%E9%9F%B3%E4%B9%90-%E5%8F%A4%E7%90%B4%E7%96%97%E6%B3%95-Guqin%E7%96%97%E6%B3%95.md)
 - [音乐-古琴疗法-Guqin心理Regulation.md](音乐-古琴疗法-Guqin心理Regulation.md)
 - [音乐-古琴疗法-Guqin疗法.md](音乐-古琴疗法-Guqin疗法.md)
 

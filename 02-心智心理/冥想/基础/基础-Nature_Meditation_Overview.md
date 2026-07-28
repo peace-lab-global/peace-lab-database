@@ -693,7 +693,7 @@ graph TD
 - [MBSR正念减压](../临床/正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) — 正念冥想的系统训练
 - [冥想与睡眠](基础-总览-Meditation_And_Sleep.md) — 自然冥想对睡眠的辅助作用
 - [焦虑障碍](../临床/临床病症/临床-临床病症-Meditation_Anxiety_Disorders.md) — 自然冥想对焦虑的临床应用
-- [抑郁症](../临床/临床病症/临床-临床病症-Meditation_Depression.md) — 自然冥想对抑郁的辅助干预
+- [抑郁症](../%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87/%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E6%8A%91%E9%83%81.md) — 自然冥想对抑郁的辅助干预
 
 ---
 

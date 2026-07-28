@@ -16,7 +16,7 @@ auto_generated: true
 - [INDEX_1.md](INDEX_1.md)
 - [INDEX_en.md](INDEX_en.md)
 - [day-1.md](day-1.md)
-- [day-1_en.md](day-1_en.md)
+- [day-1_en.md](day-1.md)
 
 
 ---

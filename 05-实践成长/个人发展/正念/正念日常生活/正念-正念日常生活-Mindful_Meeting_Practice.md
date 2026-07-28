@@ -549,9 +549,9 @@ cross_refs:
 
 ## 交叉引用 | Cross References
 
-- [正念核心概念与技术](../正念核心/正念-正念核心.md)
-- [正念临床应用](../正念临床Applications/正念-正念临床Applications.md)
-- [正念减压疗法](../正念为基础压力Reduction/正念-正念为基础压力Reduction.md)
+- [正念核心概念与技术](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
+- [正念临床应用](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md)
+- [正念减压疗法](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md)
 - [正念日常生活](正念-正念日常生活-Mindful_Daily_Living.md)
 - [正念饮水专业实践指南](正念-正念日常生活-Mindful_Drinking_Practice.md)
 - [正念行走专业实践指南](正念-正念日常生活-Mindful_Walking_Practice.md)

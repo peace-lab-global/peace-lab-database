@@ -289,7 +289,7 @@ cross_refs: []
 | 人格总览 | [Overview](基础-人格-Personality_Psychology_Overview.md) | 评估在人格中的定位 |
 | 大五模型 | [Big Five](基础-人格-Big_Five_Model.md) | NEO-PI-3/BFI-2 详解 |
 | 暗黑三联征 | [Dark Triad](基础-人格-Dark_Triad_Personality.md) | 暗黑人格测量 |
-| 心理测评 | [Assessment Tools](../总览/基础-总览-Psychology_Assessment_Tools.md) | 更广泛的心理测评 |
+| 心理测评 | [Assessment Tools](../%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 更广泛的心理测评 |
 | 临床诊断 | [Clinical](../../临床/INDEX.md) | 人格障碍诊断评估 |
 
 ---

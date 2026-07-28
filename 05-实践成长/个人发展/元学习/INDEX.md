@@ -15,12 +15,12 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Deliberate实践/](Deliberate实践/INDEX.md) (2 md)
-- [FeynmanTechnique教学/](FeynmanTechnique教学/INDEX.md) (2 md)
-- [Meta学习总览/](Meta学习总览/INDEX.md) (2 md)
-- [Speed阅读深度学习/](Speed阅读深度学习/INDEX.md) (2 md)
-- [学习TransferApplication/](学习TransferApplication/INDEX.md) (2 md)
-- [间隔重复检索/](间隔重复检索/INDEX.md) (2 md)
+- [Deliberate实践/](%E5%85%83%E5%AD%A6%E4%B9%A0-Deliberate%E5%AE%9E%E8%B7%B5.md) (2 md)
+- [FeynmanTechnique教学/](%E5%85%83%E5%AD%A6%E4%B9%A0-FeynmanTechnique%E6%95%99%E5%AD%A6.md) (2 md)
+- [Meta学习总览/](%E5%85%83%E5%AD%A6%E4%B9%A0-Meta%E5%AD%A6%E4%B9%A0%E6%80%BB%E8%A7%88.md) (2 md)
+- [Speed阅读深度学习/](%E5%85%83%E5%AD%A6%E4%B9%A0-Speed%E9%98%85%E8%AF%BB%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md) (2 md)
+- [学习TransferApplication/](%E5%85%83%E5%AD%A6%E4%B9%A0-%E5%AD%A6%E4%B9%A0TransferApplication.md) (2 md)
+- [间隔重复检索/](%E5%85%83%E5%AD%A6%E4%B9%A0-%E9%97%B4%E9%9A%94%E9%87%8D%E5%A4%8D%E6%A3%80%E7%B4%A2.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

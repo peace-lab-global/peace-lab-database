@@ -314,7 +314,7 @@ last_disclaimer_added: "2026-06-23"
 | 肠脑轴 | 03-生命 | [Gut-Brain Axis](../../../../03-生命科学/生物学/肠道微生物/肠道微生物-肠道BrainAxis.md) | 菌群与TRD |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | TRD辅助干预 |
 | 正念认知疗法 | 02-心理 | [MBCT](../../../疗法/整合疗法/正念认知疗法/INDEX.md) | TRD心理治疗 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 高自杀风险TRD |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 高自杀风险TRD |
 
 ---
 

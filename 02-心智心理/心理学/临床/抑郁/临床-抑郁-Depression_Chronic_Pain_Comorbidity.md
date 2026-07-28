@@ -259,15 +259,15 @@ last_disclaimer_added: "2026-06-23"
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 药物基础 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 药物基础 |
 | 难治性抑郁 | 02-心理 | [TRD](临床-抑郁-Depression_Treatment_Resistant.md) | 疼痛共病的TRD |
 | 营养干预 | 02-心理 | [Nutritional Interventions](临床-抑郁-Depression_Nutritional_Interventions.md) | 抗炎策略 |
 | 睡眠共病 | 02-心理 | [Sleep Comorbidity](临床-抑郁-Depression_Sleep_Comorbidity.md) | 疼痛与睡眠 |
 | 心理神经免疫学 | 03-生命 | [PNI](../../../../03-生命科学/生物学/免疫炎症/免疫炎症-心理神经免疫学.md) | 炎症机制 |
 | 疼痛科学 | 03-生命 | [Pain Science](../../../../03-生命科学/生物学/疼痛科学/疼痛科学-疼痛科学总览.md) | 疼痛医学基础 |
 | 疼痛心理干预 | 03-生命 | [Pain Psychology](../../../../03-生命科学/生物学/疼痛科学/疼痛科学-疼痛心理学干预.md) | 疼痛心理治疗 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-实践成长/个人发展/正念/正念临床Applications/正念-正念临床Applications.md) | 正念与疼痛 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) | 正念与疼痛 |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | 运动镇痛 |
 
 ---

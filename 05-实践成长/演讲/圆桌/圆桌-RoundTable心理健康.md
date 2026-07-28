@@ -19,7 +19,7 @@ trigger_keywords:
 - Round
 - Table
 cross_refs:
-- path: 02-心智心理/心理学/应用心理/职场心理危机/应用心理-职场心理危机-技能-显化.md
+- path: 02-心智心理/心理学/应用心理/职场心理危机/应用心理-职场心理危机-skills-_manifest.md
   relation: 倦怠/burnout
 - path: 02-心智心理/冥想/临床/临床病症/INDEX.md
   relation: 倦怠/burnout/table

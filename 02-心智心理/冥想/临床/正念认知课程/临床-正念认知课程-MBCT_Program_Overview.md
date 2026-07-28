@@ -364,7 +364,7 @@ MBCT â  preventing depressive relapse through decentering
 ### åç³»åææ¡£
 - [MBCT å«å¨è¯¾ç¨éå¨è¯¦è§£](临床-正念认知课程-MBCT_Weekly_Curriculum.md)
 - [MBCT æéçå¤åé¢é²æºå¶](临床-正念认知课程-MBCT_Depression_Relapse_Prevention.md)
-- [MBCT è¯ä¼°å·¥å·æ±ç¼](临床-正念认知课程-MBCT_Assessment_Tools.md)
+- [MBCT è¯ä¼°å·¥å·æ±ç¼](%E4%B8%B4%E5%BA%8A-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E8%AF%BE%E7%A8%8B-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
 
 ### ç¥è¯åºç¸å³æ¨¡å
 - [MBSR é¡¹ç®æ¦è¿°](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) â MBCTçæ¯æ¬è¯¾ç¨

@@ -95,4 +95,4 @@ cross_refs:
 
 ## 参考与延伸阅读
 
-- 参见: [学习资源](资源-TaiChiBooks媒体资源.md) | [太极总览](../太极拳总览/太极拳总览.md) | [INDEX](INDEX.md)
+- 参见: [学习资源](资源-TaiChiBooks媒体资源.md) | [太极总览](../%E5%A4%AA%E6%9E%81%E6%8B%B3%E6%80%BB%E8%A7%88.md) | [INDEX](INDEX.md)

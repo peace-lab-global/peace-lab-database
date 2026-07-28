@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [基础-术语词典-Terminology_Dictionary.md](基础-术语词典-Terminology_Dictionary.md)
-- [基础-术语词典-Terminology_Dictionary_Guide.md](基础-术语词典-Terminology_Dictionary_Guide.md)
+- [基础-术语词典-Terminology_Dictionary_Guide.md](%E5%9F%BA%E7%A1%80-%E6%9C%AF%E8%AF%AD%E8%AF%8D%E5%85%B8-Terminology%E8%AF%8D%E5%85%B8%E6%8C%87%E5%8D%97.md)
 - [基础-术语词典-Terminology词典.md](基础-术语词典-Terminology词典.md)
 - [基础-术语词典-Terminology词典指南.md](基础-术语词典-Terminology词典指南.md)
 

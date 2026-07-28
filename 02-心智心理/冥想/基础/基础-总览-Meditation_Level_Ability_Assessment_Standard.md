@@ -2024,7 +2024,7 @@ VR技术为冥想评估提供了高生态效度的沉浸式环境（Navarro-Haro
 - [禅定体系详解](../传统/佛教/止观/传统-佛教-止观-Dhyana_Samadhi_System.md) — 传统阶次的深度解析
 - [冥想不良反应](../临床/安全/临床-安全-Meditation_Adverse_Effects.md) — 安全监测与风险识别
 - [冥想危机干预](../临床/安全/临床-安全-Meditation_Crisis_Protocol.md) — 紧急情况响应流程
-- [创伤知情冥想教学](../临床/安全/临床-安全-Trauma_Informed_Meditation.md) — 创伤知情教学指南
+- [创伤知情冥想教学](../%E4%B8%B4%E5%BA%8A/%E5%AE%89%E5%85%A8/%E4%B8%B4%E5%BA%8A-%E5%AE%89%E5%85%A8-%E5%88%9B%E4%BC%A4Informed%E5%86%A5%E6%83%B3.md) — 创伤知情教学指南
 
 ---
 

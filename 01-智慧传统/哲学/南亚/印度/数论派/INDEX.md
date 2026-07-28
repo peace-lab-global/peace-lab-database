@@ -13,9 +13,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (7)
 
-- [南亚-印度-samkhya-Buddhist_Perspective_Reviews.md](南亚-印度-samkhya-Buddhist_Perspective_Reviews.md)
-- [南亚-印度-samkhya-Kapila.md](南亚-印度-samkhya-Kapila.md)
-- [南亚-印度-samkhya-Multi_Perspective_Reviews.md](南亚-印度-samkhya-Multi_Perspective_Reviews.md)
+- [南亚-印度-samkhya-Buddhist_Perspective_Reviews.md](%E5%8D%97%E4%BA%9A-%E5%8D%B0%E5%BA%A6-%E6%95%B0%E8%AE%BA%E6%B4%BE-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
+- [南亚-印度-samkhya-Kapila.md](%E5%8D%97%E4%BA%9A-%E5%8D%B0%E5%BA%A6-%E6%95%B0%E8%AE%BA%E6%B4%BE-%E8%BF%A6%E6%AF%97%E7%BD%97.md)
+- [南亚-印度-samkhya-Multi_Perspective_Reviews.md](%E5%8D%97%E4%BA%9A-%E5%8D%B0%E5%BA%A6-%E6%95%B0%E8%AE%BA%E6%B4%BE-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [南亚-印度-数论派-佛教视角评论.md](南亚-印度-数论派-佛教视角评论.md)
 - [南亚-印度-数论派-多视角评论.md](南亚-印度-数论派-多视角评论.md)
 - [南亚-印度-数论派-迦毗罗.md](南亚-印度-数论派-迦毗罗.md)

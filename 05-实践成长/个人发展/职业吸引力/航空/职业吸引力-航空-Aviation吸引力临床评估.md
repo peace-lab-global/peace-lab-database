@@ -18,8 +18,8 @@ cross_refs: []
 
 > 📘 **文档导航**: 本指南提供航空职业吸引现象的专业临床评估方法和实践指导。相关文档：
 > - [航空职业吸引心理学](职业吸引力-航空-AviationProfessional吸引力.md) - 理论基础和职业特征
-> - [职业吸引临床评估](../Professional吸引力临床评估/职业吸引力-Professional吸引力临床评估.md) - 通用评估框架
-> - [职业吸引伦理法律](../Professional吸引力伦理Legal/职业吸引力-Professional吸引力伦理Legal.md) - 专业伦理规范
+> - [职业吸引临床评估](../%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E4%B8%B4%E5%BA%8A%E8%AF%84%E4%BC%B0.md) - 通用评估框架
+> - [职业吸引伦理法律](../%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E4%BC%A6%E7%90%86Legal.md) - 专业伦理规范
 
 ## 航空职业吸引评估专项框架
 

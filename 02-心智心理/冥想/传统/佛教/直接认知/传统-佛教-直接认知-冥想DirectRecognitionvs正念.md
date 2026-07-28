@@ -22,7 +22,7 @@ cross_refs: []
 
 **交叉引用：**
 - 直接认知完整体系：[Direct Recognition Foundations](传统-佛教-直接认知-冥想DirectRecognition基础.md) | [Neuroscience](传统-佛教-直接认知-冥想DirectRecognition神经科学.md) | [Traditions](传统-佛教-直接认知-冥想DirectRecognitionTraditions.md)
-- 正念完整体系：[Mindfulness Core](../../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md) | [MBSR](../../../../../05-实践成长/个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) | [MBCT](../../../../../05-实践成长/个人发展/正念/正念为基础认知疗法/正念-正念为基础认知疗法.md)
+- 正念完整体系：[Mindfulness Core](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) | [MBSR](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | [MBCT](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md)
 - 广义直接/间接对比：[Direct & Indirect Recognition Comparison](传统-佛教-直接认知-冥想DirectIndirectRecognition.md)
 
 ---
@@ -374,7 +374,7 @@ cross_refs: []
 
 **交叉引用导航：**
 - 直接认知完整体系：[Foundations](传统-佛教-直接认知-冥想DirectRecognition基础.md) | [Traditions](传统-佛教-直接认知-冥想DirectRecognitionTraditions.md) | [Neuroscience](传统-佛教-直接认知-冥想DirectRecognition神经科学.md) | [Assessment Stages](传统-佛教-直接认知-冥想DirectRecognition评估阶次.md) | [Pointing Out](传统-佛教-直接认知-冥想DirectRecognitionPointingOut.md) | [History & Lineage](传统-佛教-直接认知-冥想DirectRecognitionHistory传承.md) | [Daily Integration](传统-佛教-直接认知-冥想DirectRecognitionDaily整合.md)
-- 正念完整体系：[Mindfulness Core](../../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md) | [MBSR](../../../../../05-实践成长/个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) | [MBCT](../../../../../05-实践成长/个人发展/正念/正念为基础认知疗法/正念-正念为基础认知疗法.md) | [Clinical Applications](../../../../../05-实践成长/个人发展/正念/正念临床Applications/正念-正念临床Applications.md)
+- 正念完整体系：[Mindfulness Core](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) | [MBSR](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | [MBCT](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md) | [Clinical Applications](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md)
 - 广义路径对比：[Direct & Indirect Recognition Comparison](传统-佛教-直接认知-冥想DirectIndirectRecognition.md)
 
 ---

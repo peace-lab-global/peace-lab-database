@@ -2049,6 +2049,6 @@ graph TB
 ---
 
 > **关联文档**：
-> - [Meditation_Workplace_Overview.md](应用-Meditation_Workplace_Overview.md) — 职场冥想与企业正念专业概述
+> - [Meditation_Workplace_Overview.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3%E8%81%8C%E5%9C%BA%E6%80%BB%E8%A7%88.md) — 职场冥想与企业正念专业概述
 > - [../overview/Meditation_Level_Ability_Assessment_Standard.md](../基础/基础-总览-Meditation_Level_Ability_Assessment_Standard.md) — 冥想水平与能力评估标准总纲
 > - [../overview/Meditation_Level_Ability_Assessment_Standard.md#52-经验采样法esm协议-v30](../基础/基础-总览-Meditation_Level_Ability_Assessment_Standard.md) — ESM/EMA通用协议标准

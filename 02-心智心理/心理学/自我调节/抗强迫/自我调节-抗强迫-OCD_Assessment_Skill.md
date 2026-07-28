@@ -248,8 +248,8 @@ cross_refs:
 ## 六、相关资源
 
 - [Nature_of_OCD.md](自我调节-抗强迫-Nature_of_OCD.md) — 强迫症本质解析
-- [ERP_Guide.md](自我调节-抗强迫-ERP_Guide.md) — 暴露与反应预防完整指南
-- [Cognitive_Defusion.md](自我调节-抗强迫-Cognitive_Defusion.md) — 认知解离技术
+- [ERP_Guide.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E5%BC%BA%E8%BF%AB-ERP%E6%8C%87%E5%8D%97.md) — 暴露与反应预防完整指南
+- [Cognitive_Defusion.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E5%BC%BA%E8%BF%AB-%E8%AE%A4%E7%9F%A5Defusion.md) — 认知解离技术
 
 ---
 

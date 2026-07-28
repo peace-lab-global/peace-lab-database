@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [临床-危机冥想-Crisis_Meditation_Guide.md](临床-危机冥想-Crisis_Meditation_Guide.md)
+- [临床-危机冥想-Crisis_Meditation_Guide.md](%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3%E6%8C%87%E5%8D%97.md)
 - [临床-危机冥想-Meditation_End_of_Life_Care_Guide.md](临床-危机冥想-Meditation_End_of_Life_Care_Guide.md)
 - [临床-危机冥想-冥想EndofLifeCare指南.md](临床-危机冥想-冥想EndofLifeCare指南.md)
 - [临床-危机冥想-危机冥想指南.md](临床-危机冥想-危机冥想指南.md)

@@ -340,9 +340,9 @@ cross_refs:
 - [呼吸放松技术 (Breathing Relaxation Techniques)](躯体身心-放松-Relaxation_Breathing.md)
 - [引导意象放松 (Guided Imagery)](躯体身心-放松-Relaxation_Guided_Imagery.md)
 - [应用性放松训练 (Applied Relaxation Training)](躯体身心-放松-Relaxation_Applied_Training.md)
-- [正念核心 (Mindfulness Core)](../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md)
-- [身体扫描与接地技术 (Grounding Techniques)](../../自我调节/接地技术/自我调节-接地技术-接地技术.md)
-- [心流核心理论 (Flow State Core)](../../../../05-实践成长/个人发展/心流/FlowState核心/心流-FlowState核心.md)
+- [正念核心 (Mindfulness Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
+- [身体扫描与接地技术 (Grounding Techniques)](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF.md)
+- [心流核心理论 (Flow State Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md)
 - [情绪调节方法 (Emotion Regulation Methods)](../情绪/躯体身心-情绪-情绪RegulationMethods.md)
 
 ---

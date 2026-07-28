@@ -535,8 +535,8 @@ cross_refs:
 | 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../天台/佛教-天台-Buddhism_Tiantai_Zhiguan.md) | 圆融三谛、一念三千、小止观实修 |
 | 内观禅修详解 | [Vipassana_Meditation.md](../../../../02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) | 葛印卡传承、四念住、十六观智 |
 | 小止观经典原文 | [Samatha_Vipasyana.md](../经论/佛教-经论-Samatha_Vipasyana.md) | 智颞大师《修习止观坐禅法要》 |
-| 六妙法门经典 | [Six_Wonderful_Gates.md](../经论/佛教-经论-Six_Wonderful_Gates.md) | 数随止观还净六妙门 |
-| 大安般守意经 | [Anapanasmrti_Sutra.md](../经论/佛教-经论-Anapanasmrti_Sutra.md) | 呼吸禅法根本经典 |
+| 六妙法门经典 | [Six_Wonderful_Gates.md](../%E7%BB%8F%E8%AE%BA/%E4%BD%9B%E6%95%99-%E7%BB%8F%E8%AE%BA-%E5%85%AD%E5%A6%99%E9%97%A8.md) | 数随止观还净六妙门 |
+| 大安般守意经 | [Anapanasmrti_Sutra.md](../%E7%BB%8F%E8%AE%BA/%E4%BD%9B%E6%95%99-%E7%BB%8F%E8%AE%BA-Anapanasmrti%E7%BB%8F.md) | 呼吸禅法根本经典 |
 | 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../心理学/佛教-心理学-Buddhism_Mindfulness_Therapy_Integration.md) | MBSR/MBCT与佛教止观的整合 |
 | 禅修安全与不良反应 | [Meditation_Adverse_Effects.md](../../../../02-心智心理/冥想/临床/安全/临床-安全-Meditation_Adverse_Effects.md) | 禅病、解离、灵性危机 |
 | 修行黑夜现象 | [Meditation_Dark_Night.md](../../../../02-心智心理/冥想/临床/安全/临床-安全-Meditation_Dark_Night.md) | 观智进展中的困难阶段 |

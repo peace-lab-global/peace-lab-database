@@ -15,9 +15,9 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [职业Ikigai/](职业Ikigai/INDEX.md) (2 md)
-- [职业Planning总览/](职业Planning总览/INDEX.md) (2 md)
-- [职业Transition/](职业Transition/INDEX.md) (2 md)
+- [职业Ikigai/](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9AIkigai.md) (2 md)
+- [职业Planning总览/](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9APlanning%E6%80%BB%E8%A7%88.md) (2 md)
+- [职业Transition/](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9ATransition.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

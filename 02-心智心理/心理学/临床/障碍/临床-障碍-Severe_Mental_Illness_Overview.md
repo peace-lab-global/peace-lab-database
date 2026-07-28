@@ -58,7 +58,7 @@ last_disclaimer_added: "2026-06-23"
 | **1** | **精神分裂症** | Schizophrenia | 6A20 | 幻觉、妄想、阴性症状、认知损害 | 0.7-1.0% | ~900万 | 最高 | [精神分裂症目录](精神分裂症/临床-障碍-schizophrenia-Schizophrenia_Overview.md) |
 | **2** | **分裂情感性障碍** | Schizoaffective Disorder | 6A21 | 精神病性症状+心境发作共存 | ~0.3% | ~400万 | 高 | [分裂情感性障碍目录](分裂情感性/临床-障碍-schizoaffective-Schizoaffective_Self_Assessment.md) |
 | **3** | **偏执性精神病** | Delusional Disorder | 6A24 | 系统性妄想为主，功能相对保留 | 0.02-0.03% | ~30-40万 | 中 | [偏执性精神病目录](临床-障碍-delusional-disorder-Delusional_Disorder_Overview.md) |
-| **4** | **双相情感障碍** | Bipolar Disorder | 6A60-6A62 | 躁狂/轻躁狂与抑郁交替发作 | 1.0-2.1% | ~1500万 | 高 | [双相情感障碍目录](双相/临床-障碍-bipolar-Bipolar_Self_Assessment.md) |
+| **4** | **双相情感障碍** | Bipolar Disorder | 6A60-6A62 | 躁狂/轻躁狂与抑郁交替发作 | 1.0-2.1% | ~1500万 | 高 | [双相情感障碍目录](%E5%8F%8C%E7%9B%B8/%E4%B8%B4%E5%BA%8A-%E9%9A%9C%E7%A2%8D-%E5%8F%8C%E7%9B%B8-%E5%8F%8C%E7%9B%B8Self%E8%AF%84%E4%BC%B0.md) |
 | **5** | **癫痫所致精神障碍** | Epileptic Psychosis | 6E62 | 癫痫发作相关的精神病性症状 | 癫痫患者中2-7% | ~60-200万 | 中 | [癫痫所致精神障碍目录](癲痫性精神病/临床-障碍-癲痫性精神病-EpilepticPsychosis治疗.md) |
 | **6** | **精神发育迟滞伴发精神障碍** | Intellectual Disability with Psychosis | 6A00+6A2x | 智力障碍基础上出现的精神病性症状 | ID患者中3-10% | ~150-500万 | 中 | [精神发育迟滞伴发精神障碍目录](智力障碍伴发精神病/临床-障碍-智力障碍伴发精神病-IntellectualDisabilityPsychosis治疗.md) |
 
@@ -283,7 +283,7 @@ last_disclaimer_added: "2026-06-23"
 | **精神分裂症** | [概览](精神分裂症/临床-障碍-schizophrenia-Schizophrenia_Overview.md) | [治疗](精神分裂症/临床-障碍-schizophrenia-Schizophrenia_Treatment.md) | [评估](精神分裂症/临床-障碍-schizophrenia-Schizophrenia_Self_Assessment.md) |
 | **分裂情感性障碍** | [概览](分裂情感性/临床-障碍-schizoaffective-Schizoaffective_Disorder_Overview.md) | [治疗](分裂情感性/临床-障碍-schizoaffective-Schizoaffective_Disorder_Treatment.md) | [评估](分裂情感性/临床-障碍-schizoaffective-Schizoaffective_Self_Assessment.md) |
 | **偏执性精神病** | [概览](临床-障碍-delusional-disorder-Delusional_Disorder_Overview.md) | [治疗](临床-障碍-delusional-disorder-Delusional_Disorder_Treatment.md) | [评估](临床-障碍-delusional-disorder-Delusional_Self_Assessment.md) |
-| **双相情感障碍** | [概览](双相/临床-障碍-bipolar-Bipolar_Disorder_Overview.md) | [治疗](双相/临床-障碍-bipolar-Bipolar_Disorder_Treatment.md) | [评估](双相/临床-障碍-bipolar-Bipolar_Self_Assessment.md) |
+| **双相情感障碍** | [概览](双相/临床-障碍-bipolar-Bipolar_Disorder_Overview.md) | [治疗](%E5%8F%8C%E7%9B%B8/%E4%B8%B4%E5%BA%8A-%E9%9A%9C%E7%A2%8D-%E5%8F%8C%E7%9B%B8-%E5%8F%8C%E7%9B%B8%E9%9A%9C%E7%A2%8D%E6%B2%BB%E7%96%97.md) | [评估](%E5%8F%8C%E7%9B%B8/%E4%B8%B4%E5%BA%8A-%E9%9A%9C%E7%A2%8D-%E5%8F%8C%E7%9B%B8-%E5%8F%8C%E7%9B%B8Self%E8%AF%84%E4%BC%B0.md) |
 | **癫痫所致精神障碍** | [概览](临床-障碍-epileptic-psychosis-Epileptic_Psychosis_Overview.md) | [治疗](临床-障碍-epileptic-psychosis-Epileptic_Psychosis_Treatment.md) | [评估](临床-障碍-epileptic-psychosis-Epileptic_Psychosis_Self_Assessment.md) |
 | **精发迟滞伴精神障碍** | [概览](临床-障碍-intellectual-disability-psychosis-Intellectual_Disability_Psychosis_Overview.md) | [治疗](临床-障碍-intellectual-disability-psychosis-Intellectual_Disability_Psychosis_Treatment.md) | [评估](临床-障碍-intellectual-disability-psychosis-Intellectual_Disability_Psychosis_Self_Assessment.md) |
 

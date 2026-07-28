@@ -253,7 +253,7 @@ cross_refs:
 
 ## 关联文档
 
-- [Loneliness_Overview](社会心理-孤独-Loneliness_Overview.md) — 孤独的一般类型学
+- [Loneliness_Overview](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) — 孤独的一般类型学
 - [Solitude_Philosophy](../独处/社会心理-独处-独处哲学.md) — 东西方独处哲学传统
 - `03-Bio-Science/death/Death_Existential_Psychology.md` — 死亡与存在心理学
 - `02-Mind-Psychology/therapy/cognitive-behavioral/act-therapy/` — 接纳承诺疗法（处理存在性议题）

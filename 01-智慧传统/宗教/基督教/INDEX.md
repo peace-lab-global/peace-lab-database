@@ -15,10 +15,10 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Christianity历史发展/](Christianity历史发展/INDEX.md) (2 md)
-- [Christianity崇拜Practices/](Christianity崇拜Practices/INDEX.md) (2 md)
-- [Christianity总览Full/](Christianity总览Full/INDEX.md) (2 md)
-- [基督教圣经神学/](基督教圣经神学/INDEX.md) (2 md)
+- [Christianity历史发展/](%E5%9F%BA%E7%9D%A3%E6%95%99-Christianity%E5%8E%86%E5%8F%B2%E5%8F%91%E5%B1%95.md) (2 md)
+- [Christianity崇拜Practices/](%E5%9F%BA%E7%9D%A3%E6%95%99-Christianity%E5%B4%87%E6%8B%9CPractices.md) (2 md)
+- [Christianity总览Full/](%E5%9F%BA%E7%9D%A3%E6%95%99-Christianity%E6%80%BB%E8%A7%88Full.md) (2 md)
+- [基督教圣经神学/](%E5%9F%BA%E7%9D%A3%E6%95%99-%E5%9F%BA%E7%9D%A3%E6%95%99%E5%9C%A3%E7%BB%8F%E7%A5%9E%E5%AD%A6.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

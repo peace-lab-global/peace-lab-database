@@ -134,7 +134,7 @@ FMS 的层级模型:
 | 3. 激活 (Activate) | 唤醒无力肌群 | 下斜方肌 Y-T-W、深层颈屈曲 |
 | 4. 整合 (Integrate) | 功能性模式训练 | 面拉、壁上天使、高位划船 |
 
-> **交叉引用**: 办公肩颈问题参见 → [biology/office-neck-shoulder/](../办公颈部肩/INDEX.md)
+> **交叉引用**: 办公肩颈问题参见 → [biology/office-neck-shoulder/](../%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9-%E5%8A%9E%E5%85%AC%E9%A2%88%E9%83%A8%E8%82%A9%E6%94%BE%E6%9D%BE.md)
 
 ### 3.3 下交叉综合征 (Lower Crossed Syndrome)
 

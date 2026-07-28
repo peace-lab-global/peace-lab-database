@@ -306,7 +306,7 @@ Level 1: 功能性互动    →  Level 2: 社交性互动    →  Level 3: 情�
 
 ## 关联文档
 
-- [Loneliness_Overview](社会心理-孤独-Loneliness_Overview.md) — 孤独的一般类型学
+- [Loneliness_Overview](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) — 孤独的一般类型学
 - [Loneliness_Relief_Mitigation](社会心理-孤独-Loneliness_Relief_Mitigation.md) — 通用孤独缓释策略
 - [Solitude_Digital_Age](../独处/社会心理-独处-独处数字Age.md) — 数字时代独处重建
 - `05-Praxis-Growth/personal-development/social-capital/` — 社交资本建设

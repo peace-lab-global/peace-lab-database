@@ -18,7 +18,7 @@ trigger_keywords:
 - Mental
 - Health
 cross_refs:
-- path: 02-心智心理/心理学/临床/抑郁/临床-抑郁-技能-显化.md
+- path: 02-心智心理/心理学/临床/抑郁/临床-抑郁-skills-_manifest.md
   relation: 自杀/抑郁/障碍
 - path: 02-心智心理/心理学/特殊专题/贫困苦难/特殊专题-贫困苦难-Poverty_Mental_Health_Impact.md
   relation: 自杀/抑郁/health

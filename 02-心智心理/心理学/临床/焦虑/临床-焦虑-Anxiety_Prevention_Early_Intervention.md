@@ -376,6 +376,6 @@ last_disclaimer_added: "2026-06-23"
 *关联文档*：
 - [焦虑障碍概述](临床-焦虑-Anxiety_Disorder_Overview.md)
 - [焦虑障碍治疗](临床-焦虑-Anxiety_Disorder_Treatment.md)
-- [特殊人群焦虑症治疗指南](临床-焦虑-Anxiety_Special_Populations.md)
+- [特殊人群焦虑症治疗指南](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4.md)
 - [数字干预与自助资源](临床-焦虑-Anxiety_Digital_Self_Help.md)
-- [综合评估工具](临床-焦虑-Anxiety_Assessment_Tools_Comprehensive.md)
+- [综合评估工具](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7%E7%BB%BC%E5%90%88.md)

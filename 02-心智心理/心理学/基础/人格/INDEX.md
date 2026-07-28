@@ -23,7 +23,7 @@ auto_generated: true
 - [基础-人格-PersonalityDisorders治疗.md](基础-人格-PersonalityDisorders治疗.md)
 - [基础-人格-Personality_Assessment_Tools.md](基础-人格-Personality_Assessment_Tools.md)
 - [基础-人格-Personality_Development_Change.md](基础-人格-Personality_Development_Change.md)
-- [基础-人格-Personality_Disorders_Treatment.md](基础-人格-Personality_Disorders_Treatment.md)
+- [基础-人格-Personality_Disorders_Treatment.md](%E5%9F%BA%E7%A1%80-%E4%BA%BA%E6%A0%BC-PersonalityDisorders%E6%B2%BB%E7%96%97.md)
 - [基础-人格-Personality_Psychology_Overview.md](基础-人格-Personality_Psychology_Overview.md)
 - [基础-人格-Personality发展Change.md](基础-人格-Personality发展Change.md)
 - [基础-人格-Personality心理学总览.md](基础-人格-Personality心理学总览.md)

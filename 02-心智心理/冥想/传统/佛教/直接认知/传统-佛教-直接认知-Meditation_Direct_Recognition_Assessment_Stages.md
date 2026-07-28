@@ -355,8 +355,8 @@ cross_refs: []
 - [冥想水平与能力评估总纲](../../../基础/基础-总览-Meditation_Level_Ability_Assessment_Standard.md) — 跨传统通用评估框架
 - [冥想评估量表与工具](../../../基础/基础-总览-Meditation_Assessment_Tools.md) — NADA、MEQ等量表使用指南
 - [执行师评估与进阶](../../../基础/基础-Practitioner评估Progression.md) — 教学胜任力评估
-- [直接认知理论基础](传统-佛教-直接认知-Meditation_Direct_Recognition_Foundations.md)
-- [直接认知神经科学](传统-佛教-直接认知-Meditation_Direct_Recognition_Neuroscience.md)
+- [直接认知理论基础](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E5%9F%BA%E7%A1%80.md)
+- [直接认知神经科学](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md)
 - [直接认知与正念对比](传统-佛教-直接认知-Meditation_Direct_Recognition_vs_Mindfulness.md)
 - [禅定体系详解](../止观/传统-佛教-止观-Dhyana_Samadhi_System.md) — 传统禅定阶次详解
 

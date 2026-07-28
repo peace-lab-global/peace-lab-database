@@ -15,8 +15,8 @@ auto_generated: true
 
 - [传统-佛教-韩国禅-KoreanSeon实用.md](传统-佛教-韩国禅-KoreanSeon实用.md)
 - [传统-佛教-韩国禅-KoreanSeon总览.md](传统-佛教-韩国禅-KoreanSeon总览.md)
-- [传统-佛教-韩国禅-Korean_Seon_Overview.md](传统-佛教-韩国禅-Korean_Seon_Overview.md)
-- [传统-佛教-韩国禅-Korean_Seon_Practical.md](传统-佛教-韩国禅-Korean_Seon_Practical.md)
+- [传统-佛教-韩国禅-Korean_Seon_Overview.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E9%9F%A9%E5%9B%BD%E7%A6%85-KoreanSeon%E6%80%BB%E8%A7%88.md)
+- [传统-佛教-韩国禅-Korean_Seon_Practical.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E9%9F%A9%E5%9B%BD%E7%A6%85-KoreanSeon%E5%AE%9E%E7%94%A8.md)
 
 
 ---

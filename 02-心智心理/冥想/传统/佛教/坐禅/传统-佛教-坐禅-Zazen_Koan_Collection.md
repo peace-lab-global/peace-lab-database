@@ -429,6 +429,6 @@ graph TD
 ---
 
 **关联阅读**：
-- [坐禅总览](传统-佛教-坐禅-Zazen_Meditation_Overview.md)
+- [坐禅总览](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%9D%90%E7%A6%85-Zazen%E5%86%A5%E6%83%B3%E6%80%BB%E8%A7%88.md)
 - [坐禅实操进阶指南](传统-佛教-坐禅-Zazen_Practice_Guide.md)
 - [INDEX](INDEX.md)

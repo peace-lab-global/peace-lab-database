@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [佛教-大手印-Mahamudra_Detailed.md](佛教-大手印-Mahamudra_Detailed.md)
+- [佛教-大手印-Mahamudra_Detailed.md](%E4%BD%9B%E6%95%99-%E5%A4%A7%E6%89%8B%E5%8D%B0-%E5%A4%A7%E6%89%8B%E5%8D%B0Detailed.md)
 - [佛教-大手印-Mahamudra_Psychological_Integration.md](佛教-大手印-Mahamudra_Psychological_Integration.md)
 - [佛教-大手印-大手印Detailed.md](佛教-大手印-大手印Detailed.md)
 - [佛教-大手印-大手印心理整合.md](佛教-大手印-大手印心理整合.md)

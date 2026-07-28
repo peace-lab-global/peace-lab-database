@@ -18,7 +18,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/基础/积极心理学/基础-积极心理学-Positive_Psychology_Overview.md
   relation: 积极心理学/心流/人格
-- path: 02-心智心理/心理学/基础/积极心理学/基础-积极心理学-技能-显化.md
+- path: 02-心智心理/心理学/基础/积极心理学/基础-积极心理学-skills-_manifest.md
   relation: 心流/积极心理学/意义
 - path: 02-心智心理/疗法/创意表达/游戏疗法/创意表达-游戏疗法-Game_Therapy.md
   relation: 心流/心流/csiks禅宗tmihalyi

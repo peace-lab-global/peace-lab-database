@@ -165,4 +165,4 @@ cross_refs: []
 
 ---
 
-*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [EMDR概述](整合疗法-眼动脱敏疗法-EMDR_Eye_Movement_Desensitization_Overview.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [EMDR概述](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95-EMDR%E7%9C%BC%E9%83%A8MovementDesensitization%E6%80%BB%E8%A7%88.md)*

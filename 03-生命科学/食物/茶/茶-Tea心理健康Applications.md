@@ -24,7 +24,7 @@ cross_refs:
   relation: 睡眠/抑郁/障碍
 - path: 02-心智心理/冥想/传统/印度瑜伽/瑜伽尼德拉/传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Clinical_Applications.md
   relation: 失眠/障碍/睡眠
-- path: 02-心智心理/心理学/躯体身心/睡眠/躯体身心-睡眠-技能-显化.md
+- path: 02-心智心理/心理学/躯体身心/睡眠/躯体身心-睡眠-技能-_manifest.md
   relation: 失眠/睡眠/障碍
 ---
 # Tea & Mental Health Clinical Applications (茶与心理健康临床应用)

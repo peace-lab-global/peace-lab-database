@@ -13,8 +13,8 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [佛教-伦理-Buddhism_Ethics_Comprehensive.md](佛教-伦理-Buddhism_Ethics_Comprehensive.md)
-- [佛教-伦理-Buddhism_Vinaya_Ethics.md](佛教-伦理-Buddhism_Vinaya_Ethics.md)
+- [佛教-伦理-Buddhism_Ethics_Comprehensive.md](%E4%BD%9B%E6%95%99-%E4%BC%A6%E7%90%86-%E4%BD%9B%E6%95%99%E4%BC%A6%E7%90%86%E7%BB%BC%E5%90%88.md)
+- [佛教-伦理-Buddhism_Vinaya_Ethics.md](%E4%BD%9B%E6%95%99-%E4%BC%A6%E7%90%86-%E4%BD%9B%E6%95%99Vinaya%E4%BC%A6%E7%90%86.md)
 - [佛教-伦理-佛教Vinaya伦理.md](佛教-伦理-佛教Vinaya伦理.md)
 - [佛教-伦理-佛教伦理综合.md](佛教-伦理-佛教伦理综合.md)
 

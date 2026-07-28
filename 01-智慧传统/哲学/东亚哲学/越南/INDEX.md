@@ -14,8 +14,8 @@ auto_generated: true
 ## 📄 文件 | Files (7)
 
 - [东亚哲学-越南-confucianism-Buddhist_Perspective_Reviews.md](东亚哲学-越南-confucianism-Buddhist_Perspective_Reviews.md)
-- [东亚哲学-越南-confucianism-Multi_Perspective_Reviews.md](东亚哲学-越南-confucianism-Multi_Perspective_Reviews.md)
-- [东亚哲学-越南-confucianism-NguyenTrai.md](东亚哲学-越南-confucianism-NguyenTrai.md)
+- [东亚哲学-越南-confucianism-Multi_Perspective_Reviews.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E8%B6%8A%E5%8D%97-%E5%84%92%E5%AE%B6-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
+- [东亚哲学-越南-confucianism-NguyenTrai.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E8%B6%8A%E5%8D%97-%E5%84%92%E5%AE%B6-%E9%98%AE%E5%BB%8C.md)
 - [东亚哲学-越南-儒家-佛教视角评论.md](东亚哲学-越南-儒家-佛教视角评论.md)
 - [东亚哲学-越南-儒家-多视角评论.md](东亚哲学-越南-儒家-多视角评论.md)
 - [东亚哲学-越南-儒家-阮廌.md](东亚哲学-越南-儒家-阮廌.md)

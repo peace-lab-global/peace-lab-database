@@ -17,7 +17,7 @@ trigger_keywords:
 - Assessment
 - Skill
 cross_refs:
-- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-显化.md
+- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-_manifest.md
   relation: skill/id/评估
 ---
 # 强迫症综合评估 | OCD Assessment Skill

@@ -126,7 +126,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论 | [自我慈悲](../../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
+| **Kristin Neff** | The space between self-esteem and self-compassion | 2013 | 自我慈悲理论 | [自我慈悲](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 18:25 | [观看](https://www.youtube.com/watch?v=IvtZBUSplr4) |
 | **Lucy Hone** | 3 secrets of resilient people | 2019 | 心理韧性的三大秘密 | [韧性心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学情绪.md) | 16:04 | [观看](https://www.ted.com/talks/lucy_hone_3_secrets_of_resilient_people) |
 | **Guy Winch** | Why we all need to practice emotional first aid | 2014 | 心理急救的重要性 | [心理自助](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学SelfHelpProtocols.md) | 17:24 | [观看](https://www.ted.com/talks/guy_winch_why_we_all_need_to_practice_emotional_first_aid) |
 

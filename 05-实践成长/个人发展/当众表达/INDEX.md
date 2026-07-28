@@ -15,8 +15,8 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [PublicSpeaking总览/](PublicSpeaking总览/INDEX.md) (2 md)
-- [公众演讲精通/](公众演讲精通/INDEX.md) (2 md)
+- [PublicSpeaking总览/](%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE-PublicSpeaking%E6%80%BB%E8%A7%88.md) (2 md)
+- [公众演讲精通/](%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE-%E5%85%AC%E4%BC%97%E6%BC%94%E8%AE%B2%E7%B2%BE%E9%80%9A.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

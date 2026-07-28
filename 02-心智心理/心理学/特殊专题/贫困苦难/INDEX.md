@@ -13,9 +13,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (11)
 
-- [特殊专题-贫困苦难-Poverty_Cognitive_Behavioral_Impact.md](特殊专题-贫困苦难-Poverty_Cognitive_Behavioral_Impact.md)
-- [特殊专题-贫困苦难-Poverty_Mental_Health_Impact.md](特殊专题-贫困苦难-Poverty_Mental_Health_Impact.md)
-- [特殊专题-贫困苦难-Poverty_Suffering_Intervention.md](特殊专题-贫困苦难-Poverty_Suffering_Intervention.md)
+- [特殊专题-贫困苦难-Poverty_Cognitive_Behavioral_Impact.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E8%B4%AB%E5%9B%B0%E8%8B%A6%E9%9A%BE-%E8%B4%AB%E5%9B%B0%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BAImpact.md)
+- [特殊专题-贫困苦难-Poverty_Mental_Health_Impact.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E8%B4%AB%E5%9B%B0%E8%8B%A6%E9%9A%BE-%E8%B4%AB%E5%9B%B0%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7Impact.md)
+- [特殊专题-贫困苦难-Poverty_Suffering_Intervention.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E8%B4%AB%E5%9B%B0%E8%8B%A6%E9%9A%BE-%E8%B4%AB%E5%9B%B0%E8%8B%A6%E9%9A%BE%E5%B9%B2%E9%A2%84.md)
 - [特殊专题-贫困苦难-Poverty_Suffering_Overview.md](特殊专题-贫困苦难-Poverty_Suffering_Overview.md)
 - [特殊专题-贫困苦难-Suffering_Meaning_Transformation.md](特殊专题-贫困苦难-Suffering_Meaning_Transformation.md)
 - [特殊专题-贫困苦难-苦难Meaning转化.md](特殊专题-贫困苦难-苦难Meaning转化.md)

@@ -611,6 +611,6 @@ cross_refs:
 - [皮质醇与精神障碍 (Cortisol & Mental Health)](压力与HPA轴-皮质醇-Cortisol_Mental_Health.md)
 - [皮质醇检测与评估 (Cortisol Assessment)](压力与HPA轴-皮质醇-Cortisol_Assessment.md)
 - [瑜伽理疗 (Yoga Therapy)](../../../../01-智慧传统/瑜伽/临床治疗/临床治疗-瑜伽疗法.md)
-- [正念核心 (Mindfulness Core)](../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md)
+- [正念核心 (Mindfulness Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
 - [放松术概览 (Relaxation Overview)](../../躯体身心/放松/躯体身心-放松-Relaxation_Overview.md)
 - [森林疗愈与抱树 (Forest Therapy)](../../../疗法/感官自然/森林疗法/感官自然-森林疗法-Forest疗法TreeHugging.md)

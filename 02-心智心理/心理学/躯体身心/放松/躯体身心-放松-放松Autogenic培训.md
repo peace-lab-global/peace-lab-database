@@ -492,7 +492,7 @@ cross_refs: []
 - [呼吸放松技术 (Breathing Relaxation)](躯体身心-放松-放松Breathing.md)
 - [引导意象放松 (Guided Imagery)](躯体身心-放松-放松GuidedImagery.md)
 - [应用性放松训练 (Applied Relaxation)](躯体身心-放松-放松应用培训.md)
-- [正念核心 (Mindfulness Core)](../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md)
+- [正念核心 (Mindfulness Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
 - [情绪调节方法 (Emotion Regulation Methods)](../情绪/躯体身心-情绪-情绪RegulationMethods.md)
 - [脑波与神经反馈概览 (Brain Neurofeedback Overview)](../../../../03-生命科学/生物学/脑科学/脑科学-BrainNeurofeedback总览.md)
 

@@ -25,15 +25,15 @@
 10. [荣格曼荼罗疗法](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官MandalaJungian.md)
 11. [索尔菲吉奥频率疗愈](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官SolfeggioFrequencies.md)
 12. [脑波引导与声音冥想](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官BrainwaveEntrainment.md)
-13. [禅宗审美与文化](../../01-智慧传统/宗教/禅宗/禅宗审美Culture/禅宗-禅宗审美Culture.md)
-14. [东亚书道](../../01-智慧传统/宗教/智慧传统/智慧EastAsian书法Way/智慧传统-智慧EastAsian书法Way.md)
+13. [禅宗审美与文化](../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E7%A6%85%E5%AE%97/%E7%A6%85%E5%AE%97-%E7%A6%85%E5%AE%97%E5%AE%A1%E7%BE%8ECulture.md)
+14. [东亚书道](../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F-%E6%99%BA%E6%85%A7EastAsian%E4%B9%A6%E6%B3%95Way.md)
 
 ## 阶段四：创意输出与生活实践（第8周）
 
 15. [疗愈性写作与日记](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官WritingJournaling.md)
-16. [创意写作技巧](../../05-实践成长/写作/CreativeWriting技术/CreativeWriting技术.md)
+16. [创意写作技巧](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E5%86%99%E4%BD%9C/CreativeWriting%E6%8A%80%E6%9C%AF.md)
 17. [文学疗愈体系](../../04-人文艺术/文学/疗法/INDEX.md)
-18. [日记核心理论与方法论](../../05-实践成长/个人发展/日记写作/Journaling核心/日记写作-Journaling核心.md)
+18. [日记核心理论与方法论](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C/%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C-Journaling%E6%A0%B8%E5%BF%83.md)
 
 ---
 *返回 [学习路径索引](../INDEX.md) | 返回根目录 [README.md](.)*

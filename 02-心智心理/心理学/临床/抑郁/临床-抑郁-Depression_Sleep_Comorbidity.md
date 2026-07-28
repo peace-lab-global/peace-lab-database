@@ -237,13 +237,13 @@ CBT-I 是共病失眠的**一线推荐**，无论是否存在抑郁。
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 药物对睡眠的影响 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 药物对睡眠的影响 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | 睡眠作为复发信号 |
 | 难治性抑郁 | 02-心理 | [TRD](临床-抑郁-Depression_Treatment_Resistant.md) | 睡眠剥夺快速抗抑郁 |
 | CBT-I | 02-心理 | [CBT-I](../../躯体身心/睡眠/INDEX.md) | 失眠一线治疗 |
 | 睡眠障碍专题 | 02-心理 | [Sleep](../../躯体身心/睡眠/INDEX.md) | 睡眠医学基础 |
 | 慢性压力 | 02-心理 | [Chronic Stress](../../压力与HPA轴/慢性压力/INDEX.md) | HPA轴与睡眠 |
-| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-实践成长/个人发展/正念/正念临床Applications/正念-正念临床Applications.md) | 正念改善睡眠 |
+| 正念临床应用 | 05-实践 | [Mindfulness Clinical](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) | 正念改善睡眠 |
 | 光照治疗 | 03-生命 | [Light Therapy](../../../../03-生命科学/INDEX.md) | 昼夜节律干预 |
 | 老年心理 | 02-心理 | [Aging Psychology](../../发展心理/衰老心理学/INDEX.md) | 老年睡眠-抑郁 |

@@ -15,7 +15,7 @@ auto_generated: true
 
 - [行为心理-恋尸癖-Necrophilia_Clinical_Diagnosis.md](行为心理-恋尸癖-Necrophilia_Clinical_Diagnosis.md)
 - [行为心理-恋尸癖-Necrophilia_Overview.md](行为心理-恋尸癖-Necrophilia_Overview.md)
-- [行为心理-恋尸癖-Necrophilia_Treatment_System.md](行为心理-恋尸癖-Necrophilia_Treatment_System.md)
+- [行为心理-恋尸癖-Necrophilia_Treatment_System.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%81%8B%E5%B0%B8%E7%99%96-Necrophilia%E6%B2%BB%E7%96%97System.md)
 - [行为心理-恋尸癖-Necrophilia临床诊断.md](行为心理-恋尸癖-Necrophilia临床诊断.md)
 - [行为心理-恋尸癖-Necrophilia总览.md](行为心理-恋尸癖-Necrophilia总览.md)
 - [行为心理-恋尸癖-Necrophilia治疗System.md](行为心理-恋尸癖-Necrophilia治疗System.md)

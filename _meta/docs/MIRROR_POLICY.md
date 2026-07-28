@@ -130,7 +130,7 @@ last_updated: "2026-06-23"
 # Meditation for Depression | 冥想治疗抑郁
 
 > ⚠️ **本文档为镜像副本**
-> **权威版本**: [02-心智心理/meditation/clinical/clinical-conditions/Meditation_Depression.md](../../../../../02-心智心理/冥想/临床/临床病症/冥想抑郁.md)
+> **权威版本**: 02-心智心理/meditation/clinical/clinical-conditions/Meditation_Depression.md
 > 
 > 内容与权威版本完全相同。如需编辑,请修改权威版本。
 

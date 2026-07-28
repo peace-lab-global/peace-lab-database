@@ -13,10 +13,10 @@ auto_generated: true
 
 ## 📄 文件 | Files (11)
 
-- [佛教-金刚乘-Buddhism_Vajrayana_Foundation.md](佛教-金刚乘-Buddhism_Vajrayana_Foundation.md)
-- [佛教-金刚乘-Vajrayana_Initiation_Empowerment.md](佛教-金刚乘-Vajrayana_Initiation_Empowerment.md)
-- [佛教-金刚乘-Vajrayana_Mantra_Dharani.md](佛教-金刚乘-Vajrayana_Mantra_Dharani.md)
-- [佛教-金刚乘-Vajrayana_Mudra_Mandala.md](佛教-金刚乘-Vajrayana_Mudra_Mandala.md)
+- [佛教-金刚乘-Buddhism_Vajrayana_Foundation.md](%E4%BD%9B%E6%95%99-%E9%87%91%E5%88%9A%E4%B9%98-%E4%BD%9B%E6%95%99%E9%87%91%E5%88%9A%E4%B9%98Foundation.md)
+- [佛教-金刚乘-Vajrayana_Initiation_Empowerment.md](%E4%BD%9B%E6%95%99-%E9%87%91%E5%88%9A%E4%B9%98-%E9%87%91%E5%88%9A%E4%B9%98Initiation%E8%B5%8B%E8%83%BD.md)
+- [佛教-金刚乘-Vajrayana_Mantra_Dharani.md](%E4%BD%9B%E6%95%99-%E9%87%91%E5%88%9A%E4%B9%98-%E9%87%91%E5%88%9A%E4%B9%98%E6%A2%B5%E5%92%92Dharani.md)
+- [佛教-金刚乘-Vajrayana_Mudra_Mandala.md](%E4%BD%9B%E6%95%99-%E9%87%91%E5%88%9A%E4%B9%98-%E9%87%91%E5%88%9A%E4%B9%98MudraMandala.md)
 - [佛教-金刚乘-Vajrayana_Overview.md](佛教-金刚乘-Vajrayana_Overview.md)
 - [佛教-金刚乘-佛教金刚乘Foundation.md](佛教-金刚乘-佛教金刚乘Foundation.md)
 - [佛教-金刚乘-金刚乘Initiation赋能.md](佛教-金刚乘-金刚乘Initiation赋能.md)

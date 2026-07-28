@@ -354,16 +354,16 @@ flowchart TB
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准、风险因素 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 急性期治疗、药物维持 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准、风险因素 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 急性期治疗、药物维持 |
 | 正念认知疗法 | 02-心理 | [MBCT](../../../疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-MBCT_Mindfulness_Based_Cognitive_Therapy_Overview.md) | 复发预防核心干预 |
-| 行为激活 | 02-心理 | [Behavioral Activation](../../行为心理/抗拖延/行为心理-抗拖延-Behavioral_Activation.md) | 行为维持策略 |
+| 行为激活 | 02-心理 | [Behavioral Activation](../../%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86/%E6%8A%97%E6%8B%96%E5%BB%B6/%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E8%A1%8C%E4%B8%BAActivation.md) | 行为维持策略 |
 | 失眠认知行为治疗 | 02-心理 | [CBT-I](../../躯体身心/睡眠/躯体身心-睡眠-睡眠CBTI.md) | 睡眠残留症状干预 |
 | 慢性压力干预 | 02-心理 | [Chronic Stress](../../压力与HPA轴/慢性压力/INDEX.md) | 应激管理 |
 | 运动与心理健康 | 03-生命 | [Exercise Mental Health](../../../../03-生命科学/生物学/运动科学/运动科学-运动心理健康.md) | 运动维持方案 |
 | 心理神经免疫学 | 03-生命 | [PNI](../../../../03-生命科学/生物学/免疫炎症/免疫炎症-心理神经免疫学.md) | 炎症与复发 |
 | 职业倦怠 | 02-心理 | [Burnout](../../应用心理/职业倦怠/INDEX.md) | 职场压力与抑郁复发 |
-| 社会节奏疗法 | 02-心理 | [Social Rhythm](临床-抑郁-Social_Rhythm_Therapy.md) | 节律稳定 |
+| 社会节奏疗法 | 02-心理 | [Social Rhythm](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-SocialRhythm%E7%96%97%E6%B3%95.md) | 节律稳定 |
 
 ---
 

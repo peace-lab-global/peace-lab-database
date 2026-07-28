@@ -140,9 +140,9 @@ cross_refs:
 - [抑郁症专题 (Depression)](心理学/临床/抑郁/INDEX.md)
 - [恐惧症与强迫症 (Phobia & OCD)](心理学/临床/恐惧症/INDEX.md)
 - [创伤、危机与干预 (Trauma & Crisis)](心理学/临床/创伤/INDEX.md)
-  - [危机评估与自杀干预 (Crisis & Suicide)](心理学/临床/危机评估/INDEX.md)
-  - [创伤后成长 (Postvention)](心理学/临床/危机善后/INDEX.md)
-  - [自杀干预专题 (Suicide Intervention)](心理学/临床/自杀干预/INDEX.md)
+  - [危机评估与自杀干预 (Crisis & Suicide)](%E5%BF%83%E7%90%86%E5%AD%A6/%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
+  - [创伤后成长 (Postvention)](%E5%BF%83%E7%90%86%E5%AD%A6/%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%96%84%E5%90%8E-%E5%8D%B1%E6%9C%BAPostvention.md)
+  - [自杀干预专题 (Suicide Intervention)](%E5%BF%83%E7%90%86%E5%AD%A6/%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A-%E8%87%AA%E6%9D%80%E5%B9%B2%E9%A2%84-%E8%87%AA%E6%9D%80%E5%B9%B2%E9%A2%84.md)
 
 ### 3. 🔬 压力与HPA轴 (Stress & HPA Axis)
 - [慢性压力专题 (Chronic Stress)](心理学/压力与HPA轴/慢性压力/INDEX.md)
@@ -153,7 +153,7 @@ cross_refs:
 - [青少年心理与发展 (Adolescent)](心理学/发展心理/青少年/INDEX.md)
 - [**儿童发展心理学 (Child Development)**](心理学/发展心理/儿童发展/INDEX.md) **[NEW]** — 依恋理论/Piaget认知/Erikson阶段/游戏治疗/育儿风格
 - [中年危机专题 (Midlife Crisis)](心理学/发展心理/中年危机/INDEX.md)
-- [更年期心理 (Menopause)](心理学/发展心理/更年期/INDEX.md)
+- [更年期心理 (Menopause)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E6%9B%B4%E5%B9%B4%E6%9C%9F-Menopause%E5%BF%83%E7%90%86Adjustment.md)
 - [**老年心理学 (Aging Psychology)**](心理学/发展心理/衰老心理学/INDEX.md) **[NEW]** — 成功老化/认知衰退/社会情绪选择/丧亲/老年心理干预
 
 ### 5. 👥 社会与人际心理 (Social & Interpersonal)
@@ -169,7 +169,7 @@ cross_refs:
   - [出轨心理学专题 (Infidelity)](心理学/应用心理/亲密关系/出轨/INDEX.md)
   - [离婚心理学专题 (Divorce)](心理学/INDEX.md)
   - [亲密关系冷战专题 (Silent Treatment)](心理学/应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻冷暴力.md)
-  - [情感银行 (Emotional Bank Account)](心理学/应用心理/关系咨询/情感银行账户/INDEX.md)
+  - [情感银行 (Emotional Bank Account)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E5%85%B3%E7%B3%BB%E5%92%A8%E8%AF%A2/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E5%85%B3%E7%B3%BB%E5%92%A8%E8%AF%A2-%E6%83%85%E6%84%9F%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7-%E6%83%85%E6%84%9F%E9%93%B6%E8%A1%8C%E8%B4%A6%E6%88%B7%E6%80%BB%E8%A7%88.md)
 - [父母如何更懂孩子 (Understanding Children)](心理学/应用心理/亲密关系/INDEX.md)
 - [性别关系动态分析 (Gender Relations Dynamics)](心理学/社会心理/关系社会语境/INDEX.md) **[NEW]**
   - [媚男/媚女现象](心理学/社会心理/关系社会语境/社会心理-关系社会语境-性别动态-性别男性讨好心理学.md) · [厌男/厌女情结](心理学/社会心理/关系社会语境/社会心理-关系社会语境-性别动态-性别厌男心理学.md)
@@ -189,17 +189,17 @@ cross_refs:
 - [放松技术 (Relaxation)](心理学/躯体身心/放松/INDEX.md)
 
 ### 8. 💪 自我调节技能 (Self-Regulation)
-- [自我关怀 (Self-Compassion)](心理学/自我调节/自我慈悲/INDEX.md)
+- [自我关怀 (Self-Compassion)](%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md)
 - [自信心理学 (Self-Confidence)](心理学/自我调节/自信心理/INDEX.md)
-- [自我安抚技术 (Self-Soothing)](心理学/自我调节/自我安抚/INDEX.md)
-- [接地技术 (Grounding)](心理学/自我调节/接地技术/INDEX.md)
-- [容纳技术 (Containment)](心理学/自我调节/容纳技术/INDEX.md)
+- [自我安抚技术 (Self-Soothing)](%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E5%AE%89%E6%8A%9A-%E8%87%AA%E6%88%91%E5%AE%89%E6%8A%9A%E6%8A%80%E6%9C%AF.md)
+- [接地技术 (Grounding)](%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF.md)
+- [容纳技术 (Containment)](%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E5%AE%B9%E7%BA%B3%E6%8A%80%E6%9C%AF-%E5%AE%B9%E7%BA%B3%E6%8A%80%E6%9C%AF.md)
 
 ### 9. 💼 应用心理学 (Applied Psychology)
 - [职业心理学 (Vocational)](心理学/应用心理/职业心理学/INDEX.md)
 - [职场心理危机 (Workplace Crisis)](心理学/应用心理/职场心理危机/INDEX.md)
-- [假日心理学 (Holiday Psychology)](心理学/应用心理/假日心理学/INDEX.md)
-- [物质主义心理学 (Materialism)](心理学/应用心理/物质主义心理学/INDEX.md)
+- [假日心理学 (Holiday Psychology)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E5%81%87%E6%97%A5%E5%BF%83%E7%90%86%E5%AD%A6-%E5%81%87%E6%97%A5%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md)
+- [物质主义心理学 (Materialism)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E7%89%A9%E8%B4%A8%E4%B8%BB%E4%B9%89%E5%BF%83%E7%90%86%E5%AD%A6-%E7%89%A9%E8%B4%A8%E4%B8%BB%E4%B9%89%E5%BF%83%E7%90%86%E5%AD%A6%E5%88%86%E6%9E%90.md)
 - [**教育心理学 (Educational Psychology)**](心理学/应用心理/教育心理学/INDEX.md) **[NEW]** — 学习理论/教学设计/学生心理健康
 
 ### 10. 📚 特殊专题 (Special Topics)
@@ -219,14 +219,14 @@ cross_refs:
 - **[专业冥想引导词课程库 (~400门/200+场景)](冥想/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，25 系列，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、自然元素、时间节律、社交社群、创意艺术、学习智慧、世界传统、数字现代、存在灵性、死亡冥想等 200+ 具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
 - [直接认知/直指体系 (Direct Recognition)](冥想/直接认知冥想课程/INDEX.md)
 - [坛城与曼荼罗体系 (Mandala)](冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala冥想总览.md)
-- [萨提亚家族治疗模式 (Satir Model)](疗法/萨提亚模型/Satir模型总览/萨提亚模型-Satir模型总览.md)
+- [萨提亚家族治疗模式 (Satir Model)](%E7%96%97%E6%B3%95/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88.md)
 - [内观与先验冥想 (Vipassana & TM)](冥想/传统/佛教/内观/传统-佛教-内观-观冥想.md)
 - [冥想纪录片指南 (Documentary Guide)](冥想/基础/基础-总览-冥想Documentary指南.md)
 
 ### 12. 🧪 循证疗法与感官治疗 (Evidence-Based & Sensory Therapy)
 - [正念认知疗法 (MBCT)](疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md)
-- [创伤聚焦认知行为疗法 (TF-CBT)](疗法/认知行为/创伤聚焦认知行为疗法/认知行为-创伤聚焦认知行为疗法-创伤聚焦认知行为创伤聚焦认知行为疗法总览.md)
-- [人际关系疗法 (IPT)](疗法/整合疗法/人际关系疗法/整合疗法-人际关系疗法-人际关系疗法人际心理治疗总览.md)
+- [创伤聚焦认知行为疗法 (TF-CBT)](%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
+- [人际关系疗法 (IPT)](%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%96%97%E6%B3%95-%E4%BA%BA%E9%99%85%E5%85%B3%E7%B3%BB%E7%96%97%E6%B3%95%E4%BA%BA%E9%99%85%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E6%80%BB%E8%A7%88.md)
 - [森田疗法 (Morita Therapy)](疗法/整合疗法/森田疗法/整合疗法-森田疗法-森田疗法.md)
 - [OH 卡牌临床应用 (OH Cards)](疗法/创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌疗法总览.md)
 - [感官疗法全系 (Sensory Therapy)](疗法/INDEX.md)

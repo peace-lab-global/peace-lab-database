@@ -253,16 +253,16 @@ IPSRT 是双相障碍最特异的心理治疗方法。
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 单相抑郁诊断标准；共病评估 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 抗抑郁药基础；双相中抗抑郁药使用规则 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 单相抑郁诊断标准；共病评估 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 抗抑郁药基础；双相中抗抑郁药使用规则 |
 | 双相障碍概览 | 02-心理 | [Bipolar Overview](../障碍/双相/临床-障碍-双相-双相障碍总览.md) | 双相全面介绍；躁狂/轻躁狂诊断标准；分类体系 |
 | 双相障碍治疗 | 02-心理 | [Bipolar Treatment](../障碍/双相/临床-障碍-双相-双相障碍治疗.md) | 急性躁狂治疗；维持治疗策略；心境稳定剂详表 |
 | 双相自我评估 | 02-心理 | [Bipolar Self-Assessment](../障碍/双相/临床-障碍-双相-双相Self评估.md) | MDQ/HCL-32/BSDS筛查工具使用指南；自我监测 |
 | 难治性抑郁 | 02-心理 | [TRD](临床-抑郁-Depression_Treatment_Resistant.md) | TRD需排除双相；误诊为TRD的双相患者 |
 | 睡眠共病 | 02-心理 | [Sleep Comorbidity](临床-抑郁-Depression_Sleep_Comorbidity.md) | 节律管理；睡眠需求变化；IPSRT睡眠模块 |
 | 营养干预 | 02-心理 | [Nutritional Interventions](临床-抑郁-Depression_Nutritional_Interventions.md) | ω-3与双相；炎症与情绪稳定 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 自杀风险管理；混合状态高风险 |
-| 社会节奏疗法 | 02-心理 | [IPSRT](临床-抑郁-Social_Rhythm_Therapy.md) | 节律干预；昼夜节律稳定 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 自杀风险管理；混合状态高风险 |
+| 社会节奏疗法 | 02-心理 | [IPSRT](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-SocialRhythm%E7%96%97%E6%B3%95.md) | 节律干预；昼夜节律稳定 |
 | 青少年抑郁 | 02-心理 | [Adolescent Depression](临床-抑郁-青少年抑郁-Adolescent_Depression.md) | 青少年双相转化警示；首发抑郁筛查双相 |
 | 老年抑郁 | 02-心理 | [Geriatric Depression](临床-抑郁-老年抑郁-Geriatric抑郁.md) | 老年期首发的双相识别 |
 | 产后抑郁 | 02-心理 | [Peripartum Depression](临床-抑郁-围产期抑郁-Peripartum抑郁.md) | 产后躁狂/精神病风险；围产期双相管理 |

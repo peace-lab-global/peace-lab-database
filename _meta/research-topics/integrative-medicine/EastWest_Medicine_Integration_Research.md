@@ -47,7 +47,7 @@ cross_refs:
 
 ### 2.1 作用机制的多通路证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81-%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81%E6%80%BB%E8%A7%88.md)
 
 | 机制 | 证据要点 | 代表研究 |
 |:-----|:---------|:---------|
@@ -62,7 +62,7 @@ cross_refs:
 
 ### 2.2 RCT/Meta 循证证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md) RCT/Meta 表
+> 来源：[TCM_Evidence_Overview.md](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81-%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81%E6%80%BB%E8%A7%88.md) RCT/Meta 表
 
 | 适应证 | 研究 | 结果 | 证据强度 |
 |:-------|:-----|:-----|:---------|
@@ -94,7 +94,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 3.1 艾灸 (Moxibustion) 的机制与证据
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81-%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81%E6%80%BB%E8%A7%88.md)
 
 | 机制 | 说明 |
 |:-----|:-----|
@@ -113,7 +113,7 @@ WHO 列出 **31 种**有"充分或方向性证据"的针灸适应证，包括：
 
 ### 3.2 中药循证与网络药理学
 
-> 来源：[TCM_Evidence_Overview.md](../../../03-生命科学/生物学/中医循证/中医循证-中医循证总览.md)
+> 来源：[TCM_Evidence_Overview.md](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81-%E4%B8%AD%E5%8C%BB%E5%BE%AA%E8%AF%81%E6%80%BB%E8%A7%88.md)
 
 | 方剂/成分 | 现代研究 | 适应证 | 意义 |
 |:----------|:---------|:-------|:-----|

@@ -434,8 +434,8 @@ cross_refs:
 - [应用性放松训练 (Applied Relaxation)](躯体身心-放松-Relaxation_Applied_Training.md)
 - [高阶呼吸：调息与科学 (Breathwork & Pranayama)](../../../../03-生命科学/生物学/呼吸法/呼吸法-Bio呼吸法调息.md)
 - [呼吸技术与生物黑客 (Breathwork & Biohacking)](../../../../03-生命科学/生物学/呼吸法/呼吸法-Bio呼吸法Biohack.md)
-- [正念核心 (Mindfulness Core)](../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md)
-- [心流核心理论 (Flow State Core)](../../../../05-实践成长/个人发展/心流/FlowState核心/心流-FlowState核心.md)
+- [正念核心 (Mindfulness Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
+- [心流核心理论 (Flow State Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md)
 
 ---
 

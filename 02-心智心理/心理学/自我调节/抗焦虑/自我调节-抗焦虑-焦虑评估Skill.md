@@ -20,7 +20,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/基础/术语词典/基础-术语词典-Terminology_Dictionary.md
   relation: 焦虑/焦虑/恐惧
-- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-显化.md
+- path: 05-实践成长/个人发展/超级个体/技能/超级个体-技能-_manifest.md
   relation: skill/id/评估
 - path: 03-生命科学/性学/中国性焦虑/中国性焦虑-Sexual焦虑China总览.md
   relation: 焦虑/恐惧/焦虑

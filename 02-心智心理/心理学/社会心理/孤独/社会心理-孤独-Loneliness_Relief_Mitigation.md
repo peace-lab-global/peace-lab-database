@@ -420,8 +420,8 @@ graph TB
 
 > **交叉引用**
 > - [孤独感来源与病因学](社会心理-孤独-Loneliness_Sources_Etiology.md) - 理解孤独感的来源
-> - [孤独概览](社会心理-孤独-Loneliness_Overview.md) - 孤独的基本概念与分类
-> - [孤独治疗与关系干预](社会心理-孤独-Loneliness_Treatment.md) - 专业治疗方案
+> - [孤独概览](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) - 孤独的基本概念与分类
+> - [孤独治疗与关系干预](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%B2%BB%E7%96%97.md) - 专业治疗方案
 > - [孤独临床手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 临床诊疗方案
 > - [婚后孤独缓释策略](../../应用心理/亲密关系/婚姻/婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Relief.md) - 婚内孤独的专项缓释
 

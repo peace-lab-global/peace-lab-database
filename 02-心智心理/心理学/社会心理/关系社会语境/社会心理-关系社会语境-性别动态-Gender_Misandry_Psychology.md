@@ -202,12 +202,12 @@ cross_refs: []
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](社会心理-关系社会语境-性别动态-Gender_Misogyny_Psychology.md) | 厌男与厌女的对称分析——社会结构与个体心理的交互 |
 | 创伤治疗概述 | [Trauma_Treatment_Overview](../../临床/创伤/临床-创伤-Trauma_Treatment_Overview.md) | 创伤反应型厌男的治疗路径 |
 | PTSD专业治疗 | [PTSD_Specialized_Treatment](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) | 性别创伤导致的PTSD专业治疗方案 |
-| EMDR疗法 | [EMDR_Overview](../../../疗法/整合疗法/眼动脱敏疗法/整合疗法-眼动脱敏疗法-EMDR_Eye_Movement_Desensitization_Overview.md) | 创伤脱敏与认知重加工在厌男情绪中的应用 |
+| EMDR疗法 | [EMDR_Overview](../../../%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95-EMDR%E7%9C%BC%E9%83%A8MovementDesensitization%E6%80%BB%E8%A7%88.md) | 创伤脱敏与认知重加工在厌男情绪中的应用 |
 | 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../躯体身心/情绪/躯体身心-情绪-情绪Focused疗法.md) | 愤怒背后的核心情绪加工 |
-| DBT辩证行为疗法 | [DBT_Overview](../../../疗法/认知行为/辩证行为疗法/认知行为-辩证行为疗法-DBT_Dialectical_Behavior_Therapy_Overview.md) | 情绪调节与人际效能技能 |
+| DBT辩证行为疗法 | [DBT_Overview](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-DBTDialecticalBehavior%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) | 情绪调节与人际效能技能 |
 | 仇恨心理学 | [Hatred](../仇恨/社会心理-仇恨-仇恨心理学总览.md) | 从仇恨心理学视角理解极端厌男 |
 | 情感虐待 | [Emotional_Abuse](../情感虐待/社会心理-情感虐待-情感虐待动态.md) | 情感虐待作为厌男情绪的重要成因 |
-| 关系心理学概述 | [Relationships_Overview](../../应用心理/亲密关系/关系总览/应用心理-亲密关系-关系总览.md) | 厌男情绪对亲密关系的多维影响 |
+| 关系心理学概述 | [Relationships_Overview](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB%E6%80%BB%E8%A7%88.md) | 厌男情绪对亲密关系的多维影响 |
 
 ---
 

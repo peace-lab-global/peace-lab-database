@@ -244,7 +244,7 @@ Paulhus (2014) 在暗黑三联征基础上增加第四维度：
 |---------|------|---------|
 | 人格总览 | [Overview](基础-人格-Personality_Psychology_Overview.md) | 理论定位 |
 | 大五模型 | [Big Five](基础-人格-Big_Five_Model.md) | 低A+低C维度 |
-| 人格障碍 | [PD Treatment](基础-人格-Personality_Disorders_Treatment.md) | 临床干预 |
+| 人格障碍 | [PD Treatment](%E5%9F%BA%E7%A1%80-%E4%BA%BA%E6%A0%BC-PersonalityDisorders%E6%B2%BB%E7%96%97.md) | 临床干预 |
 | 情感虐待 | [Emotional Abuse](../../社会心理/情感虐待/INDEX.md) | 暗黑人格在关系中 |
 | 出轨心理 | [Infidelity](../../应用心理/亲密关系/出轨/INDEX.md) | 暗黑特质与不忠 |
 | 成瘾心理 | [Addiction](../../行为心理/成瘾/INDEX.md) | 冲动性与成瘾 |

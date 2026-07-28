@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [OrthodoxChristianity总览Full/](OrthodoxChristianity总览Full/INDEX.md) (2 md)
+- [OrthodoxChristianity总览Full/](%E4%B8%9C%E6%AD%A3%E6%95%99-OrthodoxChristianity%E6%80%BB%E8%A7%88Full.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Islam总览Full/](Islam总览Full/INDEX.md) (2 md)
+- [Islam总览Full/](%E4%BC%8A%E6%96%AF%E5%85%B0-Islam%E6%80%BB%E8%A7%88Full.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

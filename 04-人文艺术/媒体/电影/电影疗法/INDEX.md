@@ -13,9 +13,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (7)
 
-- [电影-电影疗法-Cinema_Therapy.md](电影-电影疗法-Cinema_Therapy.md)
+- [电影-电影疗法-Cinema_Therapy.md](%E7%94%B5%E5%BD%B1-%E7%94%B5%E5%BD%B1%E7%96%97%E6%B3%95-%E7%94%B5%E5%BD%B1%E7%96%97%E6%B3%95.md)
 - [电影-电影疗法-Cinema_Therapy_Guide.md](电影-电影疗法-Cinema_Therapy_Guide.md)
-- [电影-电影疗法-Cinema_Therapy_Overview.md](电影-电影疗法-Cinema_Therapy_Overview.md)
+- [电影-电影疗法-Cinema_Therapy_Overview.md](%E7%94%B5%E5%BD%B1-%E7%94%B5%E5%BD%B1%E7%96%97%E6%B3%95-%E7%94%B5%E5%BD%B1%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
 - [电影-电影疗法-电影疗法.md](电影-电影疗法-电影疗法.md)
 - [电影-电影疗法-电影疗法总览.md](电影-电影疗法-电影疗法总览.md)
 - [电影-电影疗法-电影疗法指南.md](电影-电影疗法-电影疗法指南.md)

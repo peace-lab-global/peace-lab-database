@@ -30,7 +30,7 @@ cross_refs:
 ---
 # 色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)
 
-> 📊 **研究方法学**: 本文档系统阐述色情成瘾研究的设计方法、测量工具和数据分析策略。建议结合[色情成瘾临床应用](行为心理-窥视色情成瘾-Pornography_Addiction_Clinical_Applications.md)了解实践应用，参考[窥淫癖研究方法](行为心理-窥视色情成瘾-Voyeurism_Research_Methods.md)了解相关研究框架。
+> 📊 **研究方法学**: 本文档系统阐述色情成瘾研究的设计方法、测量工具和数据分析策略。建议结合[色情成瘾临床应用](行为心理-窥视色情成瘾-Pornography_Addiction_Clinical_Applications.md)了解实践应用，参考[窥淫癖研究方法](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE-%E7%AA%A5%E8%A7%86%E7%A0%94%E7%A9%B6Methods.md)了解相关研究框架。
 
 ## 研究设计类型与适用场景 (Research Design Types and Applications)
 

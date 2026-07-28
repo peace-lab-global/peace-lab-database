@@ -290,7 +290,7 @@ cross_refs: []
 
 ## 关联文档
 
-- [Loneliness_Overview](社会心理-孤独-Loneliness_Overview.md) — 孤独的一般类型学
+- [Loneliness_Overview](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) — 孤独的一般类型学
 - [Loneliness_Relief_Mitigation](社会心理-孤独-Loneliness_Relief_Mitigation.md) — 通用孤独缓释策略
 - [Loneliness_Sources_Etiology](社会心理-孤独-Loneliness_Sources_Etiology.md) — 孤独来源的多维模型
 - `03-Bio-Science/biology/aging-longevity/` — 衰老生物学

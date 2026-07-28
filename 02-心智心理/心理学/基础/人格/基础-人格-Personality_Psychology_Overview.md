@@ -260,7 +260,7 @@ Big Two (元特质)
 
 ### 整合路线
 7. [人格发展与改变](基础-人格-Personality_Development_Change.md) → 可塑性与治疗
-8. [人格障碍治疗](基础-人格-Personality_Disorders_Treatment.md) → 临床应用
+8. [人格障碍治疗](%E5%9F%BA%E7%A1%80-%E4%BA%BA%E6%A0%BC-PersonalityDisorders%E6%B2%BB%E7%96%97.md) → 临床应用
 
 ---
 

@@ -15,7 +15,7 @@ auto_generated: true
 
 - [INDEX_1.md](INDEX_1.md)
 - [INDEX_en.md](INDEX_en.md)
-- [day-2.md](day-2.md)
+- [day-2.md](%E7%AC%AC%E4%BA%8C%E5%A4%A9.md)
 - [第二天.md](第二天.md)
 
 

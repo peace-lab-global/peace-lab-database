@@ -19,7 +19,7 @@ auto_generated: true
 - [日本/](日本/INDEX.md) (23 md)
 - [韩国/](韩国/INDEX.md) (9 md)
 - [越南/](越南/INDEX.md) (7 md)
-- [总览/](总览/INDEX.md) (3 md)
+- [总览/](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E6%80%BB%E8%A7%88-%E5%93%B2%E5%AD%A6EasternClassicalConfucianism.md) (3 md)
 
 ## 📄 文件 | Files (1)
 

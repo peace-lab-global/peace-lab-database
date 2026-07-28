@@ -81,14 +81,14 @@ cross_refs: []
 |-------|---------|------|----------|------------|------|----------|
 | **Brian Wansink** | Mindless eating | 2012 | 无意识进食的心理学 | [饮食行为](../../../03-生命科学/食物/营养学/营养学-NutritionalNatural疗法.md) | 16:32 | [观看](https://www.ted.com/talks/brian_wansink_what_you_don_t_know_about_food) |
 | **Mark Hyman** | How to fix your brain health | 2020 | 功能医学视角的脑健康 | [营养精神病学](../../../03-生命科学/食物/营养学/营养学-NutritionalNatural疗法.md) | 18:24 | [观看](https://www.youtube.com/watch?v=f1YAeZzW00o) |
-| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](../../../03-生命科学/食物/Bio营养肠道/Bio营养肠道.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
+| **Drew Ramsey** | How food affects your brain | 2019 | 食物与心理健康关系 | [肠脑轴](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E9%A3%9F%E7%89%A9/Bio%E8%90%A5%E5%85%BB%E8%82%A0%E9%81%93.md) | 14:32 | [观看](https://www.youtube.com/watch?v=3dqXHHCc5lA) |
 
 ### 3.2 肠道健康与微生物组
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Tim Spector** | The gut microbiome | 2016 | 肠道微生物组的重要性 | [微生物组学](../../../03-生命科学/食物/Bio营养肠道/Bio营养肠道.md) | 15:44 | [观看](https://www.ted.com/talks/tim_spector_the_gut_microbiome) |
-| **Rob Knight** | How to feed your gut microbes | 2017 | 肠道菌群的营养需求 | [营养微生物学](../../../03-生命科学/食物/Bio营养肠道/Bio营养肠道.md) | 13:28 | [观看](https://www.ted.com/talks/rob_knight_how_to_feed_your_gut_microbes) |
+| **Tim Spector** | The gut microbiome | 2016 | 肠道微生物组的重要性 | [微生物组学](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E9%A3%9F%E7%89%A9/Bio%E8%90%A5%E5%85%BB%E8%82%A0%E9%81%93.md) | 15:44 | [观看](https://www.ted.com/talks/tim_spector_the_gut_microbiome) |
+| **Rob Knight** | How to feed your gut microbes | 2017 | 肠道菌群的营养需求 | [营养微生物学](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E9%A3%9F%E7%89%A9/Bio%E8%90%A5%E5%85%BB%E8%82%A0%E9%81%93.md) | 13:28 | [观看](https://www.ted.com/talks/rob_knight_how_to_feed_your_gut_microbes) |
 
 ### 3.3 断食与代谢健康
 
@@ -170,7 +170,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Jon Kabat-Zinn** | Mindfulness and meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../个人发展/正念/正念为基础压力Reduction/正念-正念为基础压力Reduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
+| **Jon Kabat-Zinn** | Mindfulness and meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
 | **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-心智心理/冥想/基础/基础-总览-冥想神经科学Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---

@@ -587,4 +587,4 @@ cross_refs:
 - [皮质醇神经科学与脑机制 (Cortisol Neuroscience)](压力与HPA轴-皮质醇-Cortisol_Neuroscience.md)
 - [皮质醇与精神障碍 (Cortisol & Mental Health)](压力与HPA轴-皮质醇-Cortisol_Mental_Health.md)
 - [皮质醇调节方法 (Cortisol Regulation)](压力与HPA轴-皮质醇-Cortisol_Regulation.md)
-- [心理测评工具与量表 (Psychology Assessment Tools)](../../基础/总览/基础-总览-Psychology_Assessment_Tools.md)
+- [心理测评工具与量表 (Psychology Assessment Tools)](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)

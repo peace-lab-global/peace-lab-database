@@ -13,9 +13,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [超级个体-技能-Leadership_Assessment_Skill.md](超级个体-技能-Leadership_Assessment_Skill.md)
+- [超级个体-技能-Leadership_Assessment_Skill.md](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%8A%80%E8%83%BD-%E9%A2%86%E5%AF%BC%E5%8A%9B%E8%AF%84%E4%BC%B0Skill.md)
 - [超级个体-技能-_manifest.md](超级个体-技能-_manifest.md)
-- [超级个体-技能-显化.md](超级个体-技能-显化.md)
+- [超级个体-技能-显化.md](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%8A%80%E8%83%BD-_manifest.md)
 - [超级个体-技能-领导力评估Skill.md](超级个体-技能-领导力评估Skill.md)
 
 

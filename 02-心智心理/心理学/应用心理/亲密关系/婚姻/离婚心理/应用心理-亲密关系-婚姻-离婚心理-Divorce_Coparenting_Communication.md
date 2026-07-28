@@ -414,7 +414,7 @@ Ahrons（1994）根据对98对离婚夫妻的20年追踪，提出了五种共同
 - [离婚家庭子女支持与干预](应用心理-亲密关系-婚姻-离婚心理-Divorce_Children_Support_Intervention.md) - 子女心理支持策略
 - [离婚后家庭重建与修复](应用心理-亲密关系-婚姻-离婚心理-Divorce_Family_Rebuilding.md) - 家庭重建路径
 - [离婚心理学概览](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Overview.md) - 离婚心理学全景
-- [离婚心理学临床干预](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Clinical_Intervention.md) - 临床干预方法
+- [离婚心理学临床干预](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md) - 临床干预方法
 - [婚姻沟通](../应用心理-亲密关系-婚姻-婚姻沟通.md) - 沟通技巧基础
 - [婚姻冲突解决](../应用心理-亲密关系-婚姻-婚姻ConflictResolution.md) - 冲突处理方法
 - [婚姻冷战专题](../应用心理-亲密关系-婚姻-婚姻冷暴力.md) - 冷战与沟通障碍

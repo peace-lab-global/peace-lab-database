@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [整合疗法-森田疗法-Morita_Therapy.md](整合疗法-森田疗法-Morita_Therapy.md)
+- [整合疗法-森田疗法-Morita_Therapy.md](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95.md)
 - [整合疗法-森田疗法-Morita_Therapy_Psychological_Regulation.md](整合疗法-森田疗法-Morita_Therapy_Psychological_Regulation.md)
 - [整合疗法-森田疗法-森田疗法.md](整合疗法-森田疗法-森田疗法.md)
 - [整合疗法-森田疗法-森田疗法心理Regulation.md](整合疗法-森田疗法-森田疗法心理Regulation.md)

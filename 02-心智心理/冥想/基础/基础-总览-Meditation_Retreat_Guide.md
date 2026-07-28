@@ -581,7 +581,7 @@ graph TD
 - [冥想不良反应系统分类](../临床/安全/临床-安全-Meditation_Adverse_Effects.md)
 - [冥想危机干预方案](../临床/安全/临床-安全-Meditation_Crisis_Protocol.md)
 - [冥想与睡眠](基础-总览-Meditation_And_Sleep.md)
-- [危机与哀伤冥想指南](../临床/危机冥想/临床-危机冥想-Crisis_Meditation_Guide.md)
+- [危机与哀伤冥想指南](../%E4%B8%B4%E5%BA%8A/%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3/%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3%E6%8C%87%E5%8D%97.md)
 - [止观禅定理论基础](../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md)
 - [内观禅修实践指南](基础-总览-Vipassana_Practice_Guide.md)
 

@@ -22,9 +22,9 @@ auto_generated: true
 - [恋爱/](恋爱/INDEX.md) (49 md)
 - [性学/](性学/INDEX.md) (13 md)
 - [出轨/](出轨/INDEX.md) (12 md)
-- [关系Systematic框架/](关系Systematic框架/INDEX.md) (2 md)
-- [关系_INDEX/](关系_INDEX/INDEX.md) (2 md)
-- [关系总览/](关系总览/INDEX.md) (2 md)
+- [关系Systematic框架/](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BBSystematic%E6%A1%86%E6%9E%B6.md) (2 md)
+- [关系_INDEX/](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB_INDEX.md) (2 md)
+- [关系总览/](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BB%E6%80%BB%E8%A7%88.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

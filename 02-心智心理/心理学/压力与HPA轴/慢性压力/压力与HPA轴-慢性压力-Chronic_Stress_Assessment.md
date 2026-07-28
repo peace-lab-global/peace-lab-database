@@ -504,7 +504,7 @@ cross_refs:
 
 ---
 
-*相关文档: [慢性压力概览](压力与HPA轴-慢性压力-Chronic_Stress_Overview.md) | [慢性压力机制](压力与HPA轴-慢性压力-Chronic_Stress_Mechanisms.md) | [慢性压力健康影响](压力与HPA轴-慢性压力-Chronic_Stress_Health_Effects.md) | [慢性压力干预](压力与HPA轴-慢性压力-Chronic_Stress_Interventions.md) | [心理测评工具与量表](../../基础/总览/基础-总览-Psychology_Assessment_Tools.md)*
+*相关文档: [慢性压力概览](压力与HPA轴-慢性压力-Chronic_Stress_Overview.md) | [慢性压力机制](压力与HPA轴-慢性压力-Chronic_Stress_Mechanisms.md) | [慢性压力健康影响](压力与HPA轴-慢性压力-Chronic_Stress_Health_Effects.md) | [慢性压力干预](压力与HPA轴-慢性压力-Chronic_Stress_Interventions.md) | [心理测评工具与量表](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)*
 
 ---
 

@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [行为心理-囤积障碍-Hoarding_Disorder_Overview.md](行为心理-囤积障碍-Hoarding_Disorder_Overview.md)
+- [行为心理-囤积障碍-Hoarding_Disorder_Overview.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E5%9B%A4%E7%A7%AF%E9%9A%9C%E7%A2%8D-%E5%9B%A4%E7%A7%AF%E9%9A%9C%E7%A2%8D%E6%80%BB%E8%A7%88.md)
 - [行为心理-囤积障碍-Hoarding_Disorder_Treatment.md](行为心理-囤积障碍-Hoarding_Disorder_Treatment.md)
 - [行为心理-囤积障碍-囤积障碍总览.md](行为心理-囤积障碍-囤积障碍总览.md)
 - [行为心理-囤积障碍-囤积障碍治疗.md](行为心理-囤积障碍-囤积障碍治疗.md)

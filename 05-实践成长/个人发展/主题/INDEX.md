@@ -20,8 +20,8 @@ auto_generated: true
 - [生产力表现/](生产力表现/INDEX.md) (15 md)
 - [沟通影响力/](沟通影响力/INDEX.md) (9 md)
 - [意义智慧/](意义智慧/INDEX.md) (5 md)
-- [Personal发展BookReviews/](Personal发展BookReviews/INDEX.md) (2 md)
-- [Personal发展总览/](Personal发展总览/INDEX.md) (2 md)
+- [Personal发展BookReviews/](%E4%B8%BB%E9%A2%98-Personal%E5%8F%91%E5%B1%95BookReviews.md) (2 md)
+- [Personal发展总览/](%E4%B8%BB%E9%A2%98-Personal%E5%8F%91%E5%B1%95%E6%80%BB%E8%A7%88.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

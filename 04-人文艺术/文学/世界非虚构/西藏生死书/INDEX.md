@@ -13,12 +13,12 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [世界非虚构-西藏生死书-Bardo_Teachings.md](世界非虚构-西藏生死书-Bardo_Teachings.md)
-- [世界非虚构-西藏生死书-Book_Review.md](世界非虚构-西藏生死书-Book_Review.md)
+- [世界非虚构-西藏生死书-Bardo_Teachings.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E8%A5%BF%E8%97%8F%E7%94%9F%E6%AD%BB%E4%B9%A6-%E4%B8%AD%E9%98%B4Teachings.md)
+- [世界非虚构-西藏生死书-Book_Review.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E8%A5%BF%E8%97%8F%E7%94%9F%E6%AD%BB%E4%B9%A6-Book%E8%AF%84%E8%BF%B0.md)
 - [世界非虚构-西藏生死书-Book评述.md](世界非虚构-西藏生死书-Book评述.md)
-- [世界非虚构-西藏生死书-Phowa_Consciousness_Transfer.md](世界非虚构-西藏生死书-Phowa_Consciousness_Transfer.md)
+- [世界非虚构-西藏生死书-Phowa_Consciousness_Transfer.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E8%A5%BF%E8%97%8F%E7%94%9F%E6%AD%BB%E4%B9%A6-Phowa%E6%84%8F%E8%AF%86Transfer.md)
 - [世界非虚构-西藏生死书-Phowa意识Transfer.md](世界非虚构-西藏生死书-Phowa意识Transfer.md)
-- [世界非虚构-西藏生死书-Thought_Analysis.md](世界非虚构-西藏生死书-Thought_Analysis.md)
+- [世界非虚构-西藏生死书-Thought_Analysis.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E8%A5%BF%E8%97%8F%E7%94%9F%E6%AD%BB%E4%B9%A6-Thought%E5%88%86%E6%9E%90.md)
 - [世界非虚构-西藏生死书-Thought分析.md](世界非虚构-西藏生死书-Thought分析.md)
 - [世界非虚构-西藏生死书-中阴Teachings.md](世界非虚构-西藏生死书-中阴Teachings.md)
 

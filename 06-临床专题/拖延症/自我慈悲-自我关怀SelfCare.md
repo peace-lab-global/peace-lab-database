@@ -24,7 +24,7 @@ last_disclaimer_added: "2026-06-23"
 ---
 
 > ⚠️ **本文档为镜像副本**
-> **权威版本**: [自我慈悲与自我关怀 (Self-Compassion & Self-Care)](../../02-心智心理/心理学/自我调节/自我慈悲/自我调节-自我慈悲-自我关怀SelfCare.md)
+> **权威版本**: [自我慈悲与自我关怀 (Self-Compassion & Self-Care)](../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md)
 
 # 自我慈悲与自我关怀 (Self-Compassion & Self-Care)
 

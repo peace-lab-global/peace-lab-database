@@ -348,7 +348,7 @@ flowchart LR
 | 失眠CBT-I | 02-心理 | [CBT-I](../../躯体身心/睡眠/INDEX.md) | 睡眠信号干预 |
 | 职业倦怠 | 02-心理 | [Burnout](../../应用心理/职业倦怠/INDEX.md) | 职场触发因素 |
 | 慢性压力 | 02-心理 | [Chronic Stress](../../压力与HPA轴/慢性压力/INDEX.md) | 应激与信号 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 自杀风险评估 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 自杀风险评估 |
 
 ---
 

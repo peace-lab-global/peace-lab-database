@@ -18,7 +18,7 @@ cross_refs: []
 | 目录 | 说明 |
 |------|------|
 | [mocici-course-1-meditator/](mocici-course-1-meditator/INDEX.md) | Course 1 执行师：核心课程讲义与引导课程系列 |
-| [course/](course/INDEX.md) | 课程讲义（中英双语）：冥想简史、脑科学原理等 |
+| [course/](course-C1-2-%E5%86%A5%E6%83%B3-%E5%8E%86%E5%8F%B2.md) | 课程讲义（中英双语）：冥想简史、脑科学原理等 |
 
 ## 相关资源
 

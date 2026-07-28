@@ -18,7 +18,7 @@ cross_refs: []
 
 > 📘 **文档导航**: 本专题文档深入探讨恋老师癖的专业内容。相关主题请参考：
 > - [恋物癖概览](../性偏好障碍-Paraphilia总览.md) - 基础概念和整体框架
-> - [知识权威恋物](性偏好障碍-特定类型-Knowledge_Authority_Fetishism.md) - 相关但独立的恋物类型
+> - [知识权威恋物](%E6%80%A7%E5%81%8F%E5%A5%BD%E9%9A%9C%E7%A2%8D-%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B-%E7%9F%A5%E8%AF%86AuthorityFetishism.md) - 相关但独立的恋物类型
 > - [教育心理学](../../../../02-心智心理/心理学/应用心理/教育心理学/Educational_Psychology_Overview.md) - 心理机制相关专题
 > - [恋物癖临床评估](../性偏好障碍-Paraphilia临床评估.md) - 专业评估方法
 > - [恋物癖治疗实践](../性偏好障碍-Paraphilia治疗Interventions.md) - 临床干预策略

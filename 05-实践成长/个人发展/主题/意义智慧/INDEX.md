@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [主题-意义智慧-Personal_Development_Mans_Search_for_Meaning.md](主题-意义智慧-Personal_Development_Mans_Search_for_Meaning.md)
-- [主题-意义智慧-Personal_Development_Poor_Charlies_Almanack.md](主题-意义智慧-Personal_Development_Poor_Charlies_Almanack.md)
+- [主题-意义智慧-Personal_Development_Poor_Charlies_Almanack.md](%E4%B8%BB%E9%A2%98-%E6%84%8F%E4%B9%89%E6%99%BA%E6%85%A7-Personal%E5%8F%91%E5%B1%95PoorCharliesAlmanack.md)
 - [主题-意义智慧-Personal发展MansSearchforMeaning.md](主题-意义智慧-Personal发展MansSearchforMeaning.md)
 - [主题-意义智慧-Personal发展PoorCharliesAlmanack.md](主题-意义智慧-Personal发展PoorCharliesAlmanack.md)
 

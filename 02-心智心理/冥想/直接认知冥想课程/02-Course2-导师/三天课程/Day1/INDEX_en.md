@@ -24,7 +24,7 @@ auto_generated: true
 ## 📄 文件 | Files (2)
 
 - [day-1.md](day-1.md) — Day 1 课程笔记（中文）
-- [day-1_en.md](day-1_en.md) — Day 1 Course Notes (English)
+- [day-1_en.md](day-1.md) — Day 1 Course Notes (English)
 
 ---
 

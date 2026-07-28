@@ -13,11 +13,11 @@ auto_generated: true
 
 ## 📄 文件 | Files (11)
 
-- [西方哲学-启蒙时代-Buddhist_Perspective_Reviews.md](西方哲学-启蒙时代-Buddhist_Perspective_Reviews.md)
-- [西方哲学-启蒙时代-Hume.md](西方哲学-启蒙时代-Hume.md)
-- [西方哲学-启蒙时代-Kant.md](西方哲学-启蒙时代-Kant.md)
+- [西方哲学-启蒙时代-Buddhist_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%90%AF%E8%92%99%E6%97%B6%E4%BB%A3-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
+- [西方哲学-启蒙时代-Hume.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%90%AF%E8%92%99%E6%97%B6%E4%BB%A3-%E4%BC%91%E8%B0%9F.md)
+- [西方哲学-启蒙时代-Kant.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%90%AF%E8%92%99%E6%97%B6%E4%BB%A3-%E5%BA%B7%E5%BE%B7.md)
 - [西方哲学-启蒙时代-Multi_Perspective_Reviews.md](西方哲学-启蒙时代-Multi_Perspective_Reviews.md)
-- [西方哲学-启蒙时代-Voltaire.md](西方哲学-启蒙时代-Voltaire.md)
+- [西方哲学-启蒙时代-Voltaire.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%90%AF%E8%92%99%E6%97%B6%E4%BB%A3-%E4%BC%8F%E5%B0%94%E6%B3%B0.md)
 - [西方哲学-启蒙时代-伏尔泰.md](西方哲学-启蒙时代-伏尔泰.md)
 - [西方哲学-启蒙时代-休谟.md](西方哲学-启蒙时代-休谟.md)
 - [西方哲学-启蒙时代-佛教视角评论.md](西方哲学-启蒙时代-佛教视角评论.md)

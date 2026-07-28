@@ -15,9 +15,9 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [决策BiasCorrection/](决策BiasCorrection/INDEX.md) (2 md)
-- [决策制定总览/](决策制定总览/INDEX.md) (2 md)
-- [决策疲劳/](决策疲劳/INDEX.md) (2 md)
+- [决策BiasCorrection/](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96BiasCorrection.md) (2 md)
+- [决策制定总览/](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A%E6%80%BB%E8%A7%88.md) (2 md)
+- [决策疲劳/](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96%E7%96%B2%E5%8A%B3.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

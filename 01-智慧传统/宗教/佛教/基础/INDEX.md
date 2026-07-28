@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (7)
 
 - [佛教-基础-Buddhism_Core_Overview.md](佛教-基础-Buddhism_Core_Overview.md)
-- [佛教-基础-Buddhism_Four_Immeasurables.md](佛教-基础-Buddhism_Four_Immeasurables.md)
+- [佛教-基础-Buddhism_Four_Immeasurables.md](%E4%BD%9B%E6%95%99-%E5%9F%BA%E7%A1%80-%E4%BD%9B%E6%95%99Four%E5%9B%9B%E6%97%A0%E9%87%8F%E5%BF%83.md)
 - [佛教-基础-Buddhism_Four_Noble_Truths.md](佛教-基础-Buddhism_Four_Noble_Truths.md)
 - [佛教-基础-佛教Four四无量心.md](佛教-基础-佛教Four四无量心.md)
 - [佛教-基础-佛教四圣谛.md](佛教-基础-佛教四圣谛.md)

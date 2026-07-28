@@ -21,9 +21,9 @@ auto_generated: true
 - [创伤/](创伤/INDEX.md) (9 md)
 - [恐惧症/](恐惧症/INDEX.md) (9 md)
 - [强迫症/](强迫症/INDEX.md) (5 md)
-- [危机善后/](危机善后/INDEX.md) (3 md)
-- [危机评估/](危机评估/INDEX.md) (3 md)
-- [自杀干预/](自杀干预/INDEX.md) (3 md)
+- [危机善后/](%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%96%84%E5%90%8E-%E5%8D%B1%E6%9C%BAPostvention.md) (3 md)
+- [危机评估/](%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) (3 md)
+- [自杀干预/](%E4%B8%B4%E5%BA%8A-%E8%87%AA%E6%9D%80%E5%B9%B2%E9%A2%84-%E8%87%AA%E6%9D%80%E5%B9%B2%E9%A2%84.md) (3 md)
 
 ## 📄 文件 | Files (1)
 

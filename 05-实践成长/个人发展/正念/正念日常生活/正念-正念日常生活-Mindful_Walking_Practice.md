@@ -450,13 +450,13 @@ cross_refs:
 - [正念日常生活 (Mindful Daily Living)](正念-正念日常生活-Mindful_Daily_Living.md) — 正念行走的练习层级表
 - [正念饮水专业实践指南 (Mindful Drinking Practice)](正念-正念日常生活-Mindful_Drinking_Practice.md) — 另一核心日常正念微练习
 - [正念开会专业实践指南 (Mindful Meeting Practice)](正念-正念日常生活-Mindful_Meeting_Practice.md) — 职场正念实践与会议场景应用
-- [正念核心概念与技术 (Mindfulness Core)](../正念核心/正念-正念核心.md) — 正念行走的理论框架(6.3节)
-- [正念临床应用 (Mindfulness Clinical Applications)](../正念临床Applications/正念-正念临床Applications.md) — 正念行走的临床适用性
+- [正念核心概念与技术 (Mindfulness Core)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) — 正念行走的理论框架(6.3节)
+- [正念临床应用 (Mindfulness Clinical Applications)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md) — 正念行走的临床适用性
 - [冥想类型与流派分类 (Meditation Types Classification)](../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Types_Classification.md) — 行走冥想在冥想分类中的位置
 - [佛教禅修实践体系 (Buddhism Meditation Practice System)](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教冥想实践System.md) — 经行传统与日常生活禅
 - [冥想核心 (Meditation Core)](../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Core.md) — 冥想基础知识
 - [止观禅修详表 (Samatha Vipassana)](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教止观.md) — 经行禅修详解（表4.5）与三层级标记系统
-- [禅宗实践方法论 (Zen Practice Methodology)](../../../../01-智慧传统/宗教/禅宗/禅宗实践方法论/禅宗-禅宗实践方法论.md) — Kinhin（经行）慢速/快速两种形式的技术规范
+- [禅宗实践方法论 (Zen Practice Methodology)](../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E7%A6%85%E5%AE%97/%E7%A6%85%E5%AE%97-%E7%A6%85%E5%AE%97%E5%AE%9E%E8%B7%B5%E6%96%B9%E6%B3%95%E8%AE%BA.md) — Kinhin（经行）慢速/快速两种形式的技术规范
 - [南传内观传承 (Theravada Vipassana Traditions)](../../../../01-智慧传统/宗教/佛教/南传上座部/佛教-南传上座部-南传观Traditions.md) — 行禅标记系统（提-移-落）原始传承
 - [正念行走实修方案集 (Mindful Walking Protocols)](正念-正念日常生活-Mindful_Walking_Protocols.md) — 七种变式操作脚本、20周进阶方案、人群定制课程、临床协议与安全详案
 

@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Catholicism总览Full/](Catholicism总览Full/INDEX.md) (2 md)
+- [Catholicism总览Full/](%E5%A4%A9%E4%B8%BB%E6%95%99-Catholicism%E6%80%BB%E8%A7%88Full.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

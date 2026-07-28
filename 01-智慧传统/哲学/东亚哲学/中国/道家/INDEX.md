@@ -14,8 +14,8 @@ auto_generated: true
 ## 📄 文件 | Files (11)
 
 - [东亚哲学-中国-taoism-Buddhist_Perspective_Reviews.md](东亚哲学-中国-taoism-Buddhist_Perspective_Reviews.md)
-- [东亚哲学-中国-taoism-Laozi.md](东亚哲学-中国-taoism-Laozi.md)
-- [东亚哲学-中国-taoism-Liezi.md](东亚哲学-中国-taoism-Liezi.md)
+- [东亚哲学-中国-taoism-Laozi.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E4%B8%AD%E5%9B%BD-%E9%81%93%E5%AE%B6-%E8%80%81%E5%AD%90.md)
+- [东亚哲学-中国-taoism-Liezi.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E4%B8%AD%E5%9B%BD-%E9%81%93%E5%AE%B6-%E5%88%97%E5%AD%90.md)
 - [东亚哲学-中国-taoism-Multi_Perspective_Reviews.md](东亚哲学-中国-taoism-Multi_Perspective_Reviews.md)
 - [东亚哲学-中国-taoism-Zhuangzi.md](东亚哲学-中国-taoism-Zhuangzi.md)
 - [东亚哲学-中国-道家-佛教视角评论.md](东亚哲学-中国-道家-佛教视角评论.md)

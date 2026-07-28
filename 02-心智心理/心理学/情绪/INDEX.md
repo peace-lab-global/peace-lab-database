@@ -15,9 +15,9 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Aggressive情绪Professional分析/](Aggressive情绪Professional分析/INDEX.md) (2 md)
-- [OccupationalBurnoutProfessional分析/](OccupationalBurnoutProfessional分析/INDEX.md) (2 md)
-- [Shame情绪Professional分析/](Shame情绪Professional分析/INDEX.md) (2 md)
+- [Aggressive情绪Professional分析/](%E6%83%85%E7%BB%AA-Aggressive%E6%83%85%E7%BB%AAProfessional%E5%88%86%E6%9E%90.md) (2 md)
+- [OccupationalBurnoutProfessional分析/](%E6%83%85%E7%BB%AA-OccupationalBurnoutProfessional%E5%88%86%E6%9E%90.md) (2 md)
+- [Shame情绪Professional分析/](%E6%83%85%E7%BB%AA-Shame%E6%83%85%E7%BB%AAProfessional%E5%88%86%E6%9E%90.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

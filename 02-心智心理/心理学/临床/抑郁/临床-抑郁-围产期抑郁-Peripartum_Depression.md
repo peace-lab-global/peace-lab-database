@@ -258,14 +258,14 @@ last_disclaimer_added: "2026-06-23"
 
 | 关联主题 | 所在支柱 | 链接 | 关联维度 |
 |---------|---------|------|--------|
-| 抑郁症概览 | 02-心理 | [Depression Overview](临床-抑郁-Depression_Overview.md) | 诊断标准 |
-| 抑郁症治疗 | 02-心理 | [Depression Treatment](临床-抑郁-Depression_Treatment.md) | 药物安全性 |
+| 抑郁症概览 | 02-心理 | [Depression Overview](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%80%BB%E8%A7%88.md) | 诊断标准 |
+| 抑郁症治疗 | 02-心理 | [Depression Treatment](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E6%8A%91%E9%83%81%E6%B2%BB%E7%96%97.md) | 药物安全性 |
 | 抑郁复发预防 | 02-心理 | [Relapse Prevention](临床-抑郁-Depression_Relapse_Prevention.md) | 再次妊娠预防 |
 | 营养干预 | 02-心理 | [Nutritional Interventions](临床-抑郁-Depression_Nutritional_Interventions.md) | 围产期营养 |
 | 睡眠障碍 | 02-心理 | [Sleep Comorbidity](临床-抑郁-Depression_Sleep_Comorbidity.md) | 产后睡眠 |
 | 女性心理健康 | 03-生命 | [Women's Health](../../../../03-生命科学/生物学/女性健康/女性健康-Womens健康总览.md) | 激素与心理健康 |
 | 创伤心理 | 02-心理 | [Trauma](../创伤/INDEX.md) | 分娩创伤 |
-| 危机评估 | 02-心理 | [Crisis Assessment](../危机评估/INDEX.md) | 自杀/杀婴风险评估 |
+| 危机评估 | 02-心理 | [Crisis Assessment](../%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0-%E5%8D%B1%E6%9C%BA%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md) | 自杀/杀婴风险评估 |
 
 ---
 

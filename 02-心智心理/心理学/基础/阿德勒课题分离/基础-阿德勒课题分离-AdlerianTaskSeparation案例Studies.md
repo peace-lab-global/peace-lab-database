@@ -292,7 +292,7 @@ cross_refs: []
 - **冥想引导资源** → [冥想引导脚本](../../../冥想/引导/INDEX.md)
 - **正向教养** → [Parenting_Understanding_Child_Overview](../../应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-育儿-育儿UnderstandingChild总览.md)
 - **存在性空虚** → [Existential Vacuum](../../特殊专题/存在虚无/INDEX.md)
-- **自我关怀** → [Self-Compassion](../../自我调节/自我慈悲/INDEX.md)
+- **自我关怀** → [Self-Compassion](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md)
 - **哀伤与损失** → [Grief](../../特殊专题/哀伤/INDEX.md)
 - **Satir模型** → [Satir Model](../../../疗法/萨提亚模型/INDEX.md)
 

@@ -40,7 +40,7 @@ cross_refs:
 | 1 | [艺术疗愈核心理论](艺术/艺术疗法/艺术疗法-艺术疗法总览.md) | 理解艺术疗愈的原理 | 20分钟 |
 | 2 | [古典音乐疗愈全体系](媒体/音乐/古典音乐/INDEX.md) | 体验音乐对情绪的调节 | 25分钟 |
 | 3 | [电影疗愈核心理论](媒体/电影/电影疗法/电影-电影疗法-电影疗法总览.md) | 理解电影作为疗愈工具 | 20分钟 |
-| 4 | [芭蕾艺术概览](艺术/芭蕾/芭蕾总览/芭蕾-芭蕾总览.md) | 理解身心整合的艺术形式 | 20分钟 |
+| 4 | [芭蕾艺术概览](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E6%80%BB%E8%A7%88.md) | 理解身心整合的艺术形式 | 20分钟 |
 
 **适合**: 首次接触艺术疗愈，希望体验人文艺术疗愈力量的读者。
 
@@ -69,7 +69,7 @@ cross_refs:
 |:----:|:-----|:-----|:-----|
 | 1 | [书法疗愈神经科学](艺术/书法疗法/书法疗法-书法神经科学.md) | 理解书法疗愈的科学基础 | 30分钟 |
 | 2 | [戏剧疗愈临床应用](艺术/戏剧疗法/戏剧疗法-Drama疗法临床.md) | 掌握临床应用方法 | 35分钟 |
-| 3 | [芭蕾心理疗愈应用](艺术/芭蕾/芭蕾疗法Applications/芭蕾-芭蕾疗法Applications.md) | 理解舞蹈动作疗愈 | 30分钟 |
+| 3 | [芭蕾心理疗愈应用](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E7%96%97%E6%B3%95Applications.md) | 理解舞蹈动作疗愈 | 30分钟 |
 | 4 | [建筑空间疗愈](艺术/空间疗愈/空间疗愈-Space疗愈Architecture.md) | 建立环境疗愈的专业视角 | 25分钟 |
 
 **适合**: 艺术疗愈从业者，或希望系统学习多种疗愈技术的读者。
@@ -94,7 +94,7 @@ cross_refs:
 - [文艺复兴艺术家与心理分析 (Renaissance)](艺术/艺术疗法/RenaissanceArtists疗法.md)
   - [达芬奇 (Da Vinci)](艺术/艺术家/文艺复兴/艺术家-文艺复兴-列奥纳多·达·芬奇.md)
   - [米开朗基罗 (Michelangelo)](艺术/艺术家/文艺复兴/艺术家-文艺复兴-米开朗基罗.md)
-- [现代艺术与精神表达 (Modern Arts)](艺术/现代Artists疗法/现代Artists疗法.md)
+- [现代艺术与精神表达 (Modern Arts)](%E8%89%BA%E6%9C%AF/%E7%8E%B0%E4%BB%A3Artists%E7%96%97%E6%B3%95.md)
   - [梵高 (Van Gogh)](艺术/艺术家/现代/艺术家-现代-梵高.md)
   - [毕加索 (Picasso)](艺术/艺术家/现代/艺术家-现代-毕加索.md)
   - [莫奈 (Monet)](艺术/艺术家/现代/艺术家-现代-莫奈.md)
@@ -129,29 +129,29 @@ cross_refs:
 - [纺织编织疗愈 (Textile Therapy)](艺术/手工疗法/手工疗法-CraftTextile疗法.md) — 编织正念、刺绣/纺纱/拼布、编织圈
 
 ### 1.12 💃 舞动治疗 (Dance/Movement Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [舞动治疗总览](艺术/舞蹈动作疗法/舞蹈动作疗法-舞蹈Movement疗法总览.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
+- [舞动治疗总览](%E8%89%BA%E6%9C%AF/%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E7%96%97%E6%B3%95-%E8%88%9E%E8%B9%88Movement%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
 
 ### 1.13 📖 叙事疗法 (Narrative Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [叙事疗法总览](艺术/叙事疗法/叙事疗法-Narrative疗法总览.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
+- [叙事疗法总览](%E8%89%BA%E6%9C%AF/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95-Narrative%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
 
 ### 1.14 🏖️ 沙盘/沙游治疗 (Sandplay Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [沙盘/沙游治疗总览](艺术/沙盘疗法/沙盘疗法-Sandplay疗法总览.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
+- [沙盘/沙游治疗总览](%E8%89%BA%E6%9C%AF/%E6%B2%99%E7%9B%98%E7%96%97%E6%B3%95-Sandplay%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
 
 ### 1.15 🌲 自然与荒野疗愈 (Nature & Wilderness Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [自然与荒野疗愈总览](艺术/自然荒野疗法/自然荒野疗法-NatureWilderness疗法总览.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
+- [自然与荒野疗愈总览](%E8%89%BA%E6%9C%AF/%E8%87%AA%E7%84%B6%E8%8D%92%E9%87%8E%E7%96%97%E6%B3%95-NatureWilderness%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
 
 ### 2. 🩰 芭蕾艺术全系 (Ballet: From Technique to Therapy)
-- [芭蕾艺术概览与系统 (Ballet Overview)](艺术/芭蕾/芭蕾总览/芭蕾-芭蕾总览.md)
-- [芭蕾技术体系 (Technique System)](艺术/芭蕾/芭蕾TechniqueSystem/芭蕾-芭蕾TechniqueSystem.md)
-- [芭蕾术语辞典 (Terminology Dictionary)](艺术/芭蕾/芭蕾Terminology词典/芭蕾-芭蕾Terminology词典.md)
+- [芭蕾艺术概览与系统 (Ballet Overview)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E6%80%BB%E8%A7%88.md)
+- [芭蕾技术体系 (Technique System)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETechniqueSystem.md)
+- [芭蕾术语辞典 (Terminology Dictionary)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETerminology%E8%AF%8D%E5%85%B8.md)
 - [芭蕾审美与欣赏指南 (Appreciation Guide)](艺术/芭蕾/鉴赏/芭蕾-鉴赏-芭蕾Appreciation指南.md)
 - [古典名剧深度解析 (Classical Repertory)](艺术/芭蕾/古典剧目/INDEX.md)
   - [天鹅湖 (Swan Lake)](艺术/芭蕾/古典剧目/芭蕾-古典剧目-天鹅湖-SwanLakeClassic分析.md)
   - [吉赛尔 (Giselle)](艺术/芭蕾/古典剧目/芭蕾-古典剧目-吉赛尔-GiselleClassic分析.md)
   - [胡桃夹子 (Nutcracker)](艺术/芭蕾/古典剧目/芭蕾-古典剧目-胡桃夹子-NutcrackerClassic分析.md)
 - [当代芭蕾与编舞家 (Contemporary Ballet)](艺术/芭蕾/当代/INDEX.md)
-- [芭蕾教育与科学研究 (Education & Research)](艺术/芭蕾/芭蕾EducationSystem/芭蕾-芭蕾EducationSystem.md)
-- [芭蕾心理疗愈应用 (Ballet Therapy)](艺术/芭蕾/芭蕾疗法Applications/芭蕾-芭蕾疗法Applications.md)
+- [芭蕾教育与科学研究 (Education & Research)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BEEducationSystem.md)
+- [芭蕾心理疗愈应用 (Ballet Therapy)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E7%96%97%E6%B3%95Applications.md)
 
 ### 3. 🎼 音乐、音效与疗愈 (Music & Sound Healing)
 - [古典音乐疗愈全体系 (Classical Music Therapy)](媒体/音乐/古典音乐/INDEX.md)
@@ -186,7 +186,7 @@ cross_refs:
 - [孤独主题文学疗愈 (Loneliness Literature Therapy)](文学/文学疗法/孤独文学疗法.md) — 从《变形记》到《瓦尔登湖》：文学作为孤独的盟友 **[NEW]**
 - [深度阅读方法论与神经科学 (Deep Reading)](阅读/INDEX.md)
 - [阅读障碍干预 (Reading Disorders)](阅读/阅读Disorders干预.md)
-- [文学交叉索引系统 (Cross Reference)](文学/跨参考/跨参考System.md)
+- [文学交叉索引系统 (Cross Reference)](%E6%96%87%E5%AD%A6/%E8%B7%A8%E5%8F%82%E8%80%83System.md)
 
 ---
 

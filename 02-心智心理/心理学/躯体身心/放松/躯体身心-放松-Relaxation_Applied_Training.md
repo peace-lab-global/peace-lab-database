@@ -462,8 +462,8 @@ cross_refs: []
 - [引导意象放松 (Guided Imagery)](躯体身心-放松-Relaxation_Guided_Imagery.md)
 - [焦虑症治疗方法 (Anxiety Disorder Treatment)](../../临床/焦虑/临床-焦虑-Anxiety_Disorder_Treatment.md)
 - [恐惧症治疗方法 (Phobia Treatment)](../../临床/恐惧症/临床-恐惧症-Phobia_Treatment.md)
-- [心理治疗技术详表 (Therapy Techniques)](../../基础/总览/基础-总览-Psychology_Therapy_Techniques.md)
-- [正念核心 (Mindfulness Core)](../../../../05-实践成长/个人发展/正念/正念核心/正念-正念核心.md)
+- [心理治疗技术详表 (Therapy Techniques)](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E7%96%97%E6%B3%95%E6%8A%80%E6%9C%AF.md)
+- [正念核心 (Mindfulness Core)](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
 
 ---
 

@@ -15,11 +15,11 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [01_拖延症概述/](01_拖延症概述/INDEX.md) (2 md)
-- [02_拖延症成因与机制/](02_拖延症成因与机制/INDEX.md) (2 md)
-- [03_拖延症应对策略/](03_拖延症应对策略/INDEX.md) (2 md)
-- [04_拖延与心理健康/](04_拖延与心理健康/INDEX.md) (2 md)
-- [Procrastination心理Regulation/](Procrastination心理Regulation/INDEX.md) (2 md)
+- [01_拖延症概述/](%E6%8B%96%E5%BB%B6%E7%97%87-01_%E6%8B%96%E5%BB%B6%E7%97%87%E6%A6%82%E8%BF%B0.md) (2 md)
+- [02_拖延症成因与机制/](%E6%8B%96%E5%BB%B6%E7%97%87-02_%E6%8B%96%E5%BB%B6%E7%97%87%E6%88%90%E5%9B%A0%E4%B8%8E%E6%9C%BA%E5%88%B6.md) (2 md)
+- [03_拖延症应对策略/](%E6%8B%96%E5%BB%B6%E7%97%87-03_%E6%8B%96%E5%BB%B6%E7%97%87%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5.md) (2 md)
+- [04_拖延与心理健康/](%E6%8B%96%E5%BB%B6%E7%97%87-04_%E6%8B%96%E5%BB%B6%E4%B8%8E%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7.md) (2 md)
+- [Procrastination心理Regulation/](%E6%8B%96%E5%BB%B6%E7%97%87-Procrastination%E5%BF%83%E7%90%86Regulation.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

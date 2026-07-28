@@ -172,4 +172,4 @@ cross_refs:
 | 梦的治疗 | [Dream_Therapy_Practice](特殊专题-梦心理学-Dream_Therapy_Practice.md) | 噩梦治疗IRT |
 | 那洛六法 | [01-Wisdom-Traditions/yoga/six-yogas-naropa/](../../../../01-智慧传统/瑜伽/那洛六法/INDEX.md) | 梦瑜伽传统 |
 | 瑜伽尼德拉 | [01-Wisdom-Traditions/yoga/Yoga_Nidra](../../../../01-智慧传统/瑜伽/冥想与意识/冥想与意识-瑜伽尼德拉.md) | 睡眠觉知 |
-| 意识研究 | [03-Bio-Science/biology/brain/](../../基础/脑科学/INDEX.md) | 意识状态神经基础 |
+| 意识研究 | [03-Bio-Science/biology/brain/](../../%E5%9F%BA%E7%A1%80/%E5%9F%BA%E7%A1%80-%E8%84%91%E7%A7%91%E5%AD%A6-%E8%84%91%E6%B5%B7%E9%A9%AC%E4%BD%93Function.md) | 意识状态神经基础 |

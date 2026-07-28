@@ -1202,7 +1202,7 @@ graph TD
 - [执行师评估与进阶](基础-Practitioner评估Progression.md) — 执行师专用胜任力评估
 - [MBSR评估工具](../临床/正念减压课程/临床-正念减压课程-MBSR_Assessment_Tools.md) — 临床干预标准化评估套件
 - [冥想不良反应](../临床/安全/临床-安全-Meditation_Adverse_Effects.md) — 安全监测与风险识别
-- [创伤知情冥想教学](../临床/安全/临床-安全-Trauma_Informed_Meditation.md) — 创伤知情教学指南
+- [创伤知情冥想教学](../%E4%B8%B4%E5%BA%8A/%E5%AE%89%E5%85%A8/%E4%B8%B4%E5%BA%8A-%E5%AE%89%E5%85%A8-%E5%88%9B%E4%BC%A4Informed%E5%86%A5%E6%83%B3.md) — 创伤知情教学指南
 
 ---
 

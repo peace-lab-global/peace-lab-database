@@ -14,10 +14,10 @@ auto_generated: true
 ## 📄 文件 | Files (7)
 
 - [基础-神经科学-MirrorNeurons研究.md](基础-神经科学-MirrorNeurons研究.md)
-- [基础-神经科学-Mirror_Neurons_Research.md](基础-神经科学-Mirror_Neurons_Research.md)
-- [基础-神经科学-Neuroendocrinology_Research.md](基础-神经科学-Neuroendocrinology_Research.md)
+- [基础-神经科学-Mirror_Neurons_Research.md](%E5%9F%BA%E7%A1%80-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6-MirrorNeurons%E7%A0%94%E7%A9%B6.md)
+- [基础-神经科学-Neuroendocrinology_Research.md](%E5%9F%BA%E7%A1%80-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6-Neuroendocrinology%E7%A0%94%E7%A9%B6.md)
 - [基础-神经科学-Neuroendocrinology研究.md](基础-神经科学-Neuroendocrinology研究.md)
-- [基础-神经科学-Neurotransmitters_Research.md](基础-神经科学-Neurotransmitters_Research.md)
+- [基础-神经科学-Neurotransmitters_Research.md](%E5%9F%BA%E7%A1%80-%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6-Neurotransmitters%E7%A0%94%E7%A9%B6.md)
 - [基础-神经科学-Neurotransmitters研究.md](基础-神经科学-Neurotransmitters研究.md)
 
 

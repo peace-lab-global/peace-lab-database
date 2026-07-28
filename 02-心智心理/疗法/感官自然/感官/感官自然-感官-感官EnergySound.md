@@ -60,4 +60,4 @@ cross_refs: []
 | 振动乐器 | 02-心理学 | [Vibrational Instruments](感官自然-感官-感官VibrationalInstruments.md) | 音叉生物场调谐与颂钵频率 |
 | 神圣真言 | 02-心理学 | [Sacred Mantra](感官自然-感官-感官梵咒SacredSound.md) | 种子字频率与脉轮对齐 |
 | 声乐治疗 | 02-心理学 | [Vocal Therapy](感官自然-感官-感官Vocal疗法.md) | 人声频率与迷走神经调优 |
-| 气功与中医 | 01-智慧传承 | [道家养生气功](../../../../01-智慧传统/宗教/道家/道家健康YangshengQigong/道家-道家健康YangshengQigong.md) | 六字诀与中医情志映射 |
+| 气功与中医 | 01-智慧传承 | [道家养生气功](../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E9%81%93%E5%AE%B6/%E9%81%93%E5%AE%B6-%E9%81%93%E5%AE%B6%E5%81%A5%E5%BA%B7YangshengQigong.md) | 六字诀与中医情志映射 |

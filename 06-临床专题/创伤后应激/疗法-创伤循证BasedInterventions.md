@@ -12,7 +12,7 @@ last_updated: "2026-07"
 
 本文件为 `06-临床专题/创伤后应激/` 临床标准文档，与 02 支柱源文件互补：
 - [PTSD_Specialized_Treatment.md](../../02-心智心理/心理学/临床/创伤/临床-创伤-创伤后应激Specialized治疗.md)（治疗框架概览）
-- [TF-CBT 目录](../../02-心智心理/疗法/认知行为/创伤聚焦认知行为疗法/INDEX.md)（儿童青少年创伤聚焦 CBT）
+- [TF-CBT 目录](../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)（儿童青少年创伤聚焦 CBT）
 - [EMDR 目录](../../02-心智心理/疗法/整合疗法/眼动脱敏疗法/INDEX.md)（八阶段标准流程）
 - [躯体体验疗法目录](../../02-心智心理/疗法/整合疗法/躯体体验/INDEX.md)（身体导向）
 
@@ -80,7 +80,7 @@ last_updated: "2026-07"
 | **机制** | 整合创伤叙事、认知三角、亲子联合、行为管理 |
 | **疗程** | **12–25 次**（通常 12–16）；分儿童段 + 家长段 + 联合段 |
 | **核心组件（PRACTICE 助记）** Psychoeducation & Parenting skills, Relaxation, Affective expression, Cognitive coping, Trauma narrative & processing, In vivo mastery, Conjoint child-parent sessions, Enhancing safety |
-| **适应症** | **儿童青少年 PTSD / 性虐待 / 家庭暴力**一线（详见 [TF-CBT 目录](../../02-心智心理/疗法/认知行为/创伤聚焦认知行为疗法/INDEX.md)） |
+| **适应症** | **儿童青少年 PTSD / 性虐待 / 家庭暴力**一线（详见 [TF-CBT 目录](../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E5%88%9B%E4%BC%A4%E8%81%9A%E7%84%A6%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)） |
 | **疗效** | 儿童 PTSD 疗效最一致，效应量大 |
 
 ### 4. EMDR（眼动脱敏与再加工）—— Shapiro

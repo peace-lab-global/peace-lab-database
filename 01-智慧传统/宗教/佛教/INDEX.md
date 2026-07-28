@@ -31,12 +31,12 @@ auto_generated: true
 - [大手印/](大手印/INDEX.md) (5 md)
 - [心理学/](心理学/INDEX.md) (5 md)
 - [济群/](济群/INDEX.md) (5 md)
-- [净土/](净土/INDEX.md) (3 md)
+- [净土/](%E4%BD%9B%E6%95%99-%E5%87%80%E5%9C%9F-%E4%BD%9B%E6%95%99PureLand%E5%AE%9E%E8%B7%B5.md) (3 md)
 - [大圆满/](大圆满/INDEX.md) (3 md)
 - [天台/](天台/INDEX.md) (3 md)
 - [现代应用/](现代应用/INDEX.md) (3 md)
-- [高阶/](高阶/INDEX.md) (3 md)
-- [佛教目录结构/](佛教目录结构/INDEX.md) (2 md)
+- [高阶/](%E4%BD%9B%E6%95%99-%E9%AB%98%E9%98%B6-%E4%BD%9B%E6%95%99%E9%AB%98%E9%98%B6%E5%AE%9E%E8%B7%B5Topics.md) (3 md)
+- [佛教目录结构/](%E4%BD%9B%E6%95%99-%E4%BD%9B%E6%95%99%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

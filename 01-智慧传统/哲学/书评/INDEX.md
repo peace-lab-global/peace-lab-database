@@ -15,9 +15,9 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [东方哲学经典书评/](东方哲学经典书评/INDEX.md) (2 md)
-- [现代哲学书评/](现代哲学书评/INDEX.md) (2 md)
-- [西方哲学经典书评/](西方哲学经典书评/INDEX.md) (2 md)
+- [东方哲学经典书评/](%E4%B9%A6%E8%AF%84-%E4%B8%9C%E6%96%B9%E5%93%B2%E5%AD%A6%E7%BB%8F%E5%85%B8%E4%B9%A6%E8%AF%84.md) (2 md)
+- [现代哲学书评/](%E4%B9%A6%E8%AF%84-%E7%8E%B0%E4%BB%A3%E5%93%B2%E5%AD%A6%E4%B9%A6%E8%AF%84.md) (2 md)
+- [西方哲学经典书评/](%E4%B9%A6%E8%AF%84-%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6%E7%BB%8F%E5%85%B8%E4%B9%A6%E8%AF%84.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

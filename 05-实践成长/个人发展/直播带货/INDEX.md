@@ -15,10 +15,10 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [Broadcaster培训System/](Broadcaster培训System/INDEX.md) (2 md)
-- [LiveCommerce总览/](LiveCommerce总览/INDEX.md) (2 md)
-- [SupplyChain管理/](SupplyChain管理/INDEX.md) (2 md)
-- [分析仪表盘/](分析仪表盘/INDEX.md) (2 md)
+- [Broadcaster培训System/](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-Broadcaster%E5%9F%B9%E8%AE%ADSystem.md) (2 md)
+- [LiveCommerce总览/](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-LiveCommerce%E6%80%BB%E8%A7%88.md) (2 md)
+- [SupplyChain管理/](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-SupplyChain%E7%AE%A1%E7%90%86.md) (2 md)
+- [分析仪表盘/](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-%E5%88%86%E6%9E%90%E4%BB%AA%E8%A1%A8%E7%9B%98.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

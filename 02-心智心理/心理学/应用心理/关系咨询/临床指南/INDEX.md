@@ -22,8 +22,8 @@ auto_generated: false
 
 - [应用心理-关系咨询-临床指南-临床实践手册.md](../应用心理-关系咨询-临床指南-临床实践手册.md)
 - [应用心理-关系咨询-临床指南-关系临床评估.md](../应用心理-关系咨询-临床指南-关系临床评估.md)
-- [应用心理-关系咨询-临床指南-Clinical_Practice_Manual.md](../应用心理-关系咨询-临床指南-Clinical_Practice_Manual.md)
-- [应用心理-关系咨询-临床指南-Relationship_Clinical_Assessment.md](../应用心理-关系咨询-临床指南-Relationship_Clinical_Assessment.md)
+- [应用心理-关系咨询-临床指南-Clinical_Practice_Manual.md](../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E5%85%B3%E7%B3%BB%E5%92%A8%E8%AF%A2-%E4%B8%B4%E5%BA%8A%E6%8C%87%E5%8D%97-%E4%B8%B4%E5%BA%8A%E5%AE%9E%E8%B7%B5%E6%89%8B%E5%86%8C.md)
+- [应用心理-关系咨询-临床指南-Relationship_Clinical_Assessment.md](../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E5%85%B3%E7%B3%BB%E5%92%A8%E8%AF%A2-%E4%B8%B4%E5%BA%8A%E6%8C%87%E5%8D%97-%E5%85%B3%E7%B3%BB%E4%B8%B4%E5%BA%8A%E8%AF%84%E4%BC%B0.md)
 
 ---
 

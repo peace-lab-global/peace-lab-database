@@ -503,12 +503,12 @@ Peter Norton 的跨诊断认知行为团体治疗（TCBGT），专门针对焦�
 
 *关联文档*：
 - [焦虑障碍概述](临床-焦虑-Anxiety_Disorder_Overview.md)
-- [综合评估工具](临床-焦虑-Anxiety_Assessment_Tools_Comprehensive.md)
+- [综合评估工具](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7%E7%BB%BC%E5%90%88.md)
 - [治疗监测与长期随访](临床-焦虑-Anxiety_Treatment_Monitoring_Followup.md)
 - [惊恐障碍治疗](临床-焦虑-惊恐障碍-Panic障碍治疗.md)
-- [社交焦虑治疗](临床-焦虑-社交焦虑-Social_Anxiety_Treatment.md)
-- [GAD 治疗](临床-焦虑-广泛性焦虑-GAD_Treatment.md)
-- [特殊人群指南](临床-焦虑-Anxiety_Special_Populations.md)
+- [社交焦虑治疗](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%A4%BE%E4%BA%A4%E7%84%A6%E8%99%91-Social%E7%84%A6%E8%99%91%E6%B2%BB%E7%96%97.md)
+- [GAD 治疗](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E5%B9%BF%E6%B3%9B%E6%80%A7%E7%84%A6%E8%99%91-GAD%E6%B2%BB%E7%96%97.md)
+- [特殊人群指南](%E4%B8%B4%E5%BA%8A-%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4.md)
 - [临床案例分析](临床-焦虑-Anxiety_Clinical_Case_Studies.md)
 - [数字干预与自助资源](临床-焦虑-Anxiety_Digital_Self_Help.md)
 

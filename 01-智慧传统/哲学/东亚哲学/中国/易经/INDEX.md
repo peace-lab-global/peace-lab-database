@@ -15,7 +15,7 @@ auto_generated: true
 
 - [东亚哲学-中国-yijing-Buddhist_Perspective_Reviews.md](东亚哲学-中国-yijing-Buddhist_Perspective_Reviews.md)
 - [东亚哲学-中国-yijing-Multi_Perspective_Reviews.md](东亚哲学-中国-yijing-Multi_Perspective_Reviews.md)
-- [东亚哲学-中国-yijing-Yi_Jing.md](东亚哲学-中国-yijing-Yi_Jing.md)
-- [东亚哲学-中国-yijing-Yi_Zhuan.md](东亚哲学-中国-yijing-Yi_Zhuan.md)
+- [东亚哲学-中国-yijing-Yi_Jing.md](../%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E4%B8%AD%E5%9B%BD-%E6%98%93%E7%BB%8F-%E6%98%93%E7%BB%8F.md)
+- [东亚哲学-中国-yijing-Yi_Zhuan.md](../%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E4%B8%AD%E5%9B%BD-%E6%98%93%E7%BB%8F-%E6%98%93%E4%BC%A0.md)
 
 *自动生成于 2026-07-18 07:39*

@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [整合疗法-内在家庭系统疗法-IFS_Overview.md](整合疗法-内在家庭系统疗法-IFS_Overview.md)
+- [整合疗法-内在家庭系统疗法-IFS_Overview.md](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E5%86%85%E5%9C%A8%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E7%96%97%E6%B3%95-IFS%E6%80%BB%E8%A7%88.md)
 - [整合疗法-内在家庭系统疗法-IFS总览.md](整合疗法-内在家庭系统疗法-IFS总览.md)
 - [整合疗法-内在家庭系统疗法-skills-IFS_Parts_Work_Skill.md](整合疗法-内在家庭系统疗法-skills-IFS_Parts_Work_Skill.md)
 - [整合疗法-内在家庭系统疗法-技能-IFSParts工作Skill.md](整合疗法-内在家庭系统疗法-技能-IFSParts工作Skill.md)

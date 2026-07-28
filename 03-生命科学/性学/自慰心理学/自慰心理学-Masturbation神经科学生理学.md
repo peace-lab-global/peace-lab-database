@@ -180,6 +180,6 @@ cross_refs:
 
 ---
 
-> 🔗 **交叉引用**: [性学神经科学基础](../性学神经科学Biology/性学神经科学Biology.md) | [自慰发展心理学](自慰心理学-Masturbation发展Lifespan.md) | [自慰心理健康评估](自慰心理学-Masturbation评估干预.md) | [临床心理学意义](../../../02-心智心理/心理学/特殊专题/自慰心理学/特殊专题-自慰心理学-Masturbation临床心理学.md)
+> 🔗 **交叉引用**: [性学神经科学基础](../%E6%80%A7%E5%AD%A6%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6Biology.md) | [自慰发展心理学](自慰心理学-Masturbation发展Lifespan.md) | [自慰心理健康评估](自慰心理学-Masturbation评估干预.md) | [临床心理学意义](../../../02-心智心理/心理学/特殊专题/自慰心理学/特殊专题-自慰心理学-Masturbation临床心理学.md)
 
 [← 返回自慰心理学索引](INDEX.md) | [← 返回性学目录](INDEX.md)

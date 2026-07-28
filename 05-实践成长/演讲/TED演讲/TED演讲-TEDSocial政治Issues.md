@@ -27,7 +27,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Chimamanda Ngozi Adichie** | The danger of a single story | 2009 | 单一叙事的危险性 | [文化心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Social.md) | 18:49 | [观看](https://www.ted.com/talks/chimamanda_adichie_the_danger_of_a_single_story) |
-| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-生命科学/性学/社会社区支持/社会社区支持.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
+| **Bryan Stevenson** | We need to talk about an injustice | 2012 | 刑事司法制度改革 | [社会公正](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E7%A4%BE%E4%BC%9A%E7%A4%BE%E5%8C%BA%E6%94%AF%E6%8C%81.md) | 27:10 | [观看](https://www.ted.com/talks/bryan_stevenson_we_need_to_talk_about_an_injustice) |
 | **Tarana Burke** | Me too is a movement, not a moment | 2018 | #MeToo运动的深层意义 | [性别平等](TED演讲-框架性别Equality.md) | 14:33 | [观看](https://www.ted.com/talks/tarana_burke_me_too_is_a_movement_not_a_moment) |
 
 ### 1.2 社会流动性与机会平等

@@ -342,18 +342,18 @@ cross_refs: []
 
 | 相关主题 | 文档链接 | 关联要点 |
 |:---|:---|:---|
-| 家庭系统排列概述 | [Family_Constellation_Overview](特殊专题-家庭系统排列-Family_Constellation_Overview.md) | 系统排列基础理论与三大法则 |
-| 系统排列临床应用 | [Family_Constellation_Clinical](特殊专题-家庭系统排列-Family_Constellation_Clinical.md) | 临床适应症、禁忌症与治疗框架 |
-| 排列技术详解 | [Family_Constellation_Techniques](特殊专题-家庭系统排列-Family_Constellation_Techniques.md) | 排列实操技术与治疗师培训 |
+| 家庭系统排列概述 | [Family_Constellation_Overview](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E6%80%BB%E8%A7%88.md) | 系统排列基础理论与三大法则 |
+| 系统排列临床应用 | [Family_Constellation_Clinical](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E4%B8%B4%E5%BA%8A.md) | 临床适应症、禁忌症与治疗框架 |
+| 排列技术详解 | [Family_Constellation_Techniques](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E6%8A%80%E6%9C%AF.md) | 排列实操技术与治疗师培训 |
 | 创伤治疗概述 | [Trauma_Treatment_Overview](../../临床/创伤/临床-创伤-Trauma_Treatment_Overview.md) | 创伤知情视角与多种创伤治疗方法比较 |
 | PTSD专业治疗 | [PTSD_Specialized_Treatment](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) | 案例一、五中创伤后症状的专业治疗路径 |
-| EMDR疗法 | [EMDR_Overview](../../../疗法/整合疗法/眼动脱敏疗法/整合疗法-眼动脱敏疗法-EMDR_Eye_Movement_Desensitization_Overview.md) | 案例一中代际创伤的EMDR整合治疗 |
+| EMDR疗法 | [EMDR_Overview](../../../%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95-EMDR%E7%9C%BC%E9%83%A8MovementDesensitization%E6%80%BB%E8%A7%88.md) | 案例一中代际创伤的EMDR整合治疗 |
 | 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../躯体身心/情绪/躯体身心-情绪-情绪Focused疗法.md) | 案例三中情绪加工的EFT取向补充 |
-| CBT认知行为疗法 | [CBT_Overview](../../../疗法/认知行为/认知行为疗法/认知行为-认知行为疗法-CBT_Cognitive_Behavioral_Therapy_Overview.md) | 案例一中CBT作为先期治疗的角色 |
+| CBT认知行为疗法 | [CBT_Overview](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) | 案例一中CBT作为先期治疗的角色 |
 | 依恋与亲密关系 | [Love_Attachment_Intimacy](../../应用心理/亲密关系/恋爱/爱情/应用心理-亲密关系-恋爱-爱情-爱Attachment亲密.md) | 案例二中依恋模式对伴侣选择的影响 |
 | 婚姻心理学 | [Marriage_Psychology](../../应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻心理学.md) | 案例二、三中婚姻动力学的系统理解 |
-| 接地技术 | [Grounding_Techniques](../../自我调节/接地技术/自我调节-接地技术-接地技术.md) | 排列后情绪稳定化的接地技术资源 |
-| 自我慈悲 | [Self_Compassion_Self_Care](../../自我调节/自我慈悲/自我调节-自我慈悲-Self_Compassion_Self_Care.md) | 排列后的自我关怀与整合支持 |
+| 接地技术 | [Grounding_Techniques](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF-%E6%8E%A5%E5%9C%B0%E6%8A%80%E6%9C%AF.md) | 排列后情绪稳定化的接地技术资源 |
+| 自我慈悲 | [Self_Compassion_Self_Care](../../%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) | 排列后的自我关怀与整合支持 |
 
 ---
 

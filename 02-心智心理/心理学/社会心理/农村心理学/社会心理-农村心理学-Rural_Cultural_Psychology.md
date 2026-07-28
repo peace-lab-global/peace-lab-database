@@ -184,6 +184,6 @@ cross_refs:
 
 ---
 
-*相关专题：[农村心理学概览](社会心理-农村心理学-Rural_Psychology_Overview.md) | [心理健康服务](社会心理-农村心理学-Rural_Mental_Health_Service.md) | [农村压力源](社会心理-农村心理学-Rural_Psychological_Stressors.md) | [城镇化心理](社会心理-农村心理学-Rural_Urbanization_Psychology.md)*
+*相关专题：[农村心理学概览](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%86%9C%E6%9D%91%E5%BF%83%E7%90%86%E5%AD%A6-%E5%86%9C%E6%9D%91%E5%BF%83%E7%90%86%E5%AD%A6%E6%80%BB%E8%A7%88.md) | [心理健康服务](社会心理-农村心理学-Rural_Mental_Health_Service.md) | [农村压力源](社会心理-农村心理学-Rural_Psychological_Stressors.md) | [城镇化心理](社会心理-农村心理学-Rural_Urbanization_Psychology.md)*
 
 *Created by Peace Lab Database Project*

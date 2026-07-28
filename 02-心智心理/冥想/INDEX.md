@@ -34,3 +34,9 @@ auto_generated: true
 
 *返回上级: [02-心智心理](../INDEX.md)*
 *自动生成于 2026-07-17 22:34*
+
+## 补充条目（整理迁入）
+
+> 以下文件由子目录结构整理迁入本目录。
+
+- [引导课程-Series_22_World_Traditions](%E5%BC%95%E5%AF%BC%E8%AF%BE%E7%A8%8B-Series_22_World_Traditions.md)

@@ -255,9 +255,9 @@ cross_refs:
 ## 六、相关资源
 
 - [Psychology_of_Procrastination.md](行为心理-抗拖延-Psychology_of_Procrastination.md) — 拖延心理机制
-- [Behavioral_Activation.md](行为心理-抗拖延-Behavioral_Activation.md) — 行为激活技术
-- [Time_Management_Techniques.md](行为心理-抗拖延-Time_Management_Techniques.md) — 时间管理技术
-- [21_Day_Action_Plan.md](行为心理-抗拖延-21_Day_Action_Plan.md) — 21天行动方案
+- [Behavioral_Activation.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E8%A1%8C%E4%B8%BAActivation.md) — 行为激活技术
+- [Time_Management_Techniques.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E6%97%B6%E9%97%B4%E7%AE%A1%E7%90%86%E6%8A%80%E6%9C%AF.md) — 时间管理技术
+- [21_Day_Action_Plan.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%8A%97%E6%8B%96%E5%BB%B6-%E4%BA%8C%E5%8D%81%E4%B8%80%E5%A4%A9%E8%A1%8C%E5%8A%A8%E8%AE%A1%E5%88%92.md) — 21天行动方案
 
 ---
 

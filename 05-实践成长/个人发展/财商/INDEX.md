@@ -15,11 +15,11 @@ auto_generated: true
 
 ### 主题目录 (Topic Directories)
 
-- [FinancialIndependence火/](FinancialIndependence火/INDEX.md) (2 md)
-- [FinancialLiteracy总览/](FinancialLiteracy总览/INDEX.md) (2 md)
-- [Investment心理学/](Investment心理学/INDEX.md) (2 md)
-- [个人FinanceFundamentals/](个人FinanceFundamentals/INDEX.md) (2 md)
-- [金钱心态Beliefs/](金钱心态Beliefs/INDEX.md) (2 md)
+- [FinancialIndependence火/](%E8%B4%A2%E5%95%86-FinancialIndependence%E7%81%AB.md) (2 md)
+- [FinancialLiteracy总览/](%E8%B4%A2%E5%95%86-FinancialLiteracy%E6%80%BB%E8%A7%88.md) (2 md)
+- [Investment心理学/](%E8%B4%A2%E5%95%86-Investment%E5%BF%83%E7%90%86%E5%AD%A6.md) (2 md)
+- [个人FinanceFundamentals/](%E8%B4%A2%E5%95%86-%E4%B8%AA%E4%BA%BAFinanceFundamentals.md) (2 md)
+- [金钱心态Beliefs/](%E8%B4%A2%E5%95%86-%E9%87%91%E9%92%B1%E5%BF%83%E6%80%81Beliefs.md) (2 md)
 
 ## 📄 文件 | Files (1)
 

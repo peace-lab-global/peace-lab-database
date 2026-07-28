@@ -15,8 +15,8 @@ auto_generated: true
 
 - [东亚哲学-韩国-confucianism-Buddhist_Perspective_Reviews.md](东亚哲学-韩国-confucianism-Buddhist_Perspective_Reviews.md)
 - [东亚哲学-韩国-confucianism-Multi_Perspective_Reviews.md](东亚哲学-韩国-confucianism-Multi_Perspective_Reviews.md)
-- [东亚哲学-韩国-confucianism-YiHwang.md](东亚哲学-韩国-confucianism-YiHwang.md)
-- [东亚哲学-韩国-confucianism-YiI.md](东亚哲学-韩国-confucianism-YiI.md)
+- [东亚哲学-韩国-confucianism-YiHwang.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E9%9F%A9%E5%9B%BD-%E5%84%92%E5%AE%B6-%E6%9D%8E%E6%BB%89.md)
+- [东亚哲学-韩国-confucianism-YiI.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E9%9F%A9%E5%9B%BD-%E5%84%92%E5%AE%B6-%E6%9D%8E%E7%8F%A5.md)
 - [东亚哲学-韩国-儒家-佛教视角评论.md](东亚哲学-韩国-儒家-佛教视角评论.md)
 - [东亚哲学-韩国-儒家-多视角评论.md](东亚哲学-韩国-儒家-多视角评论.md)
 - [东亚哲学-韩国-儒家-李滉.md](东亚哲学-韩国-儒家-李滉.md)

@@ -15,12 +15,12 @@ auto_generated: true
 
 - [临床-创伤-PTSD_Specialized_Treatment.md](临床-创伤-PTSD_Specialized_Treatment.md)
 - [临床-创伤-Trauma_Treatment_Overview.md](临床-创伤-Trauma_Treatment_Overview.md)
-- [临床-创伤-skills-Trauma_Assessment_Skill.md](临床-创伤-skills-Trauma_Assessment_Skill.md)
-- [临床-创伤-skills-_manifest.md](临床-创伤-skills-_manifest.md)
+- [临床-创伤-skills-Trauma_Assessment_Skill.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E6%8A%80%E8%83%BD-%E5%88%9B%E4%BC%A4%E8%AF%84%E4%BC%B0Skill.md)
+- [临床-创伤-skills-_manifest.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E6%8A%80%E8%83%BD-_manifest.md)
 - [临床-创伤-创伤后应激Specialized治疗.md](临床-创伤-创伤后应激Specialized治疗.md)
 - [临床-创伤-创伤治疗总览.md](临床-创伤-创伤治疗总览.md)
 - [临床-创伤-技能-创伤评估Skill.md](临床-创伤-技能-创伤评估Skill.md)
-- [临床-创伤-技能-显化.md](临床-创伤-技能-显化.md)
+- [临床-创伤-技能-显化.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E6%8A%80%E8%83%BD-_manifest.md)
 
 
 ---

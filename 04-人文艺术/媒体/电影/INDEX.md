@@ -19,7 +19,7 @@ auto_generated: true
 - [演员/](演员/INDEX.md) (43 md)
 - [电影疗法/](电影疗法/INDEX.md) (7 md)
 - [恐怖电影心理学/](恐怖电影心理学/INDEX.md) (5 md)
-- [恐怖日剧/](恐怖日剧/INDEX.md) (3 md)
+- [恐怖日剧/](%E7%94%B5%E5%BD%B1-%E6%81%90%E6%80%96%E6%97%A5%E5%89%A7-HorrorJapaneseDrama%E5%BF%83%E7%90%86Mechanisms.md) (3 md)
 - [恐怖韩剧/](恐怖韩剧/INDEX.md) (3 md)
 
 ## 📄 文件 | Files (1)
