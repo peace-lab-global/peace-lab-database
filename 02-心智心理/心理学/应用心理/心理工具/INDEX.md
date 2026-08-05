@@ -1,26 +1,28 @@
 ---
-title: "心理工具 | Mental Health Tools (Meditation / Mindfulness / DTx / Scale)"
-description: "目录索引 —— 心理工具归档（国内冥想 / 国际正念双雄 / 心理学量表 / 数字疗法 DTx）"
+title: "心理工具 | Mental Health Tools (Meditation / Mindfulness / DTx / Scale / Regulation)（2026-08 第三轮补强）"
+description: "目录索引 —— 心理工具归档（国内冥想 / 国际正念双雄 / 心理学量表 / 数字疗法 DTx / 中美欧监管对照）"
 category: "目录索引"
-tags: ["index", "directory", "meditation", "mindfulness", "DTx", "scale", "tools"]
-last_updated: "2026-08-04"
+tags: ["index", "directory", "meditation", "mindfulness", "DTx", "scale", "FDA", "NMPA", "CE", "regulation", "2026-Q3-third-batch"]
+last_updated: "2026-08-05"
 auto_generated: true
 ---
 
 # 心理工具 | Mental Health Tools
 
-> 本目录归档 **心理工具的四大维度** —— **冥想/正念/助眠 App、心理学量表、数字疗法（DTx）**。
-> 适用场景：用户选型、产品研究、行业对标、临床应用、监管对接。
+> 本目录归档 **心理工具的五大维度** —— **冥想/正念/助眠 App、心理学量表、数字疗法（DTx）、中美欧监管对照**。
+> 适用场景：用户选型、产品研究、行业对标、临床应用、监管对接、跨境出海。
+> **2026-08-05 第三轮补强**：新增 [FDA-NMPA-CE 监管对照](应用心理-心理工具-FDA-NMPA-CE数字疗法监管对照.md) — 3 大体系 5 维对照 + 25 部委 2026 政策窗口。
 
-## 📄 文件 | Files (4)
+## 📄 文件 | Files (5)
 
 - [应用心理-心理工具-国内冥想app.md](应用心理-心理工具-国内冥想app.md) — 潮汐（Tide，1 亿+ 下载）/ Now 冥想（8000 万+）/ 小睡眠（1 亿+）/ Keep 冥想
 - [应用心理-心理工具-国际正念双雄CalmHeadspace.md](应用心理-心理工具-国际正念双雄CalmHeadspace.md) — Calm（1 亿+ 用户 / 睡眠龙头）/ Headspace（专业冥想 + B2B 强）/ Insight Timer（最大免费社区）
 - [应用心理-心理工具-心理学量表PHQ-GAD-MBTI.md](应用心理-心理工具-心理学量表PHQ-GAD-MBTI.md) — PHQ-9 / GAD-7 / SCL-90 / MBTI / Big Five / 自杀风险评估
 - [应用心理-心理工具-数字疗法DTx与FDA审批.md](应用心理-心理工具-数字疗法DTx与FDA审批.md) — **DTx 定义/FDA 已批产品（reSET/SleepioRx/Flow FL-100/Rejoyn）/ 中国 NMPA 审批/2025 心理 DTx 占比 1.1%**
+- 🆕 [应用心理-心理工具-FDA-NMPA-CE数字疗法监管对照.md](应用心理-心理工具-FDA-NMPA-CE数字疗法监管对照.md) — **美国 FDA（10+ 款 / 6-18 月）/ 中国 NMPA（5+ 款 / 9-24 月）/ 欧盟 CE（8+ 款 / 12-18 月 / EU AI Act）/ 6 案例对照 + 25 部委 2026 政策窗口**
 
 
-## 🎯 心理工具四大模式
+## 🎯 心理工具五大模式
 
 | 模式 | 代表 | 核心 | 用户群 |
 | :--- | :--- | :--- | :--- |
@@ -32,6 +34,7 @@ auto_generated: true
 | **心理学量表** | PHQ-9、GAD-7、SCL-90、MBTI、Big Five | 评估工具 | 临床+大众 |
 | **数字疗法（DTx）** | reSET、EndeavorRx、Rejoyn、Flow FL-100 | 循证医学软件 | 处方+医嘱 |
 | **脑机接口+DTx** | 心景科技、虚之实科技、博睿康 | 软硬件一体化 | 临床+医院 |
+| 🆕 **监管对照** | FDA / NMPA / CE | 跨境合规 + 互认 | 出海企业 |
 
 ## 📊 关键数据
 
