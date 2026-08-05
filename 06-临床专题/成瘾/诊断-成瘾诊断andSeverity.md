@@ -6,7 +6,7 @@ tags: ["clinical", "addiction", "diagnosis", "dsm-5-tr", "icd-11", "asam", "sud"
 last_updated: "2026-07"
 ---
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断需由合格的精神科医生或成瘾医学专科医生做出。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断需由合格的精神科医生或成瘾医学专科医生做出。完整资源见 [规范/CRISIS_RESOURCES.md](../../规范/CRISIS_RESOURCES.md)。
 
 # 成瘾诊断与严重度
 

@@ -41,7 +41,7 @@ cross_refs:
 **24小时心理援助热线(中国)**:
 - 北京心理危机研究与干预中心:010-82951332
 - 全国心理援助热线:400-161-9995
-- 详细资源见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+- 详细资源见 [规范/CRISIS_RESOURCES.md](../规范/CRISIS_RESOURCES.md)
 
 ---
 
@@ -59,7 +59,7 @@ cross_refs:
 | 2 | [焦虑症专题](心理学/临床/焦虑/INDEX.md) | 识别常见焦虑问题 | 25分钟 |
 | 3 | [压力与HPA轴](心理学/压力与HPA轴/慢性压力/INDEX.md) | 理解压力机制 | 20分钟 |
 | 4 | [睡眠科学](心理学/躯体身心/睡眠/INDEX.md) | 建立健康睡眠认知 | 20分钟 |
-| 5 | [冥想基础](冥想/基础/基础-总览-冥想核心.md) | 体验基础冥想技术 | 持续 |
+| 5 | [冥想基础](冥想/基础/总览与理论/基础-总览-冥想核心.md) | 体验基础冥想技术 | 持续 |
 
 **适合**: 首次接触系统心理学的读者。
 
@@ -74,7 +74,7 @@ cross_refs:
 | 1 | [MBCT正念认知疗法](疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md) | 循证疗法入门 | 30分钟 |
 | 2 | [HPA轴与皮质醇](心理学/压力与HPA轴/皮质醇/INDEX.md) | 深入压力生理机制 | 25分钟 |
 | 3 | [自我调节技能](心理学/自我调节/INDEX.md) | 发展情绪调节能力 | 30分钟 |
-| 4 | [冥想脑科学](冥想/基础/基础-总览-冥想Brain科学基础.md) | 理解冥想的科学基础 | 25分钟 |
+| 4 | [冥想脑科学](冥想/基础/总览与理论/基础-总览-冥想Brain科学基础.md) | 理解冥想的科学基础 | 25分钟 |
 | 5 | [压力日记分析](心理学/压力与HPA轴/技能/压力与HPA轴-技能-压力日记分析Skill.md) | 实践自我监测（Agent Skill） | 持续 |
 
 **适合**: 有一定心理学基础，希望深入学习和实践的读者。
@@ -196,11 +196,14 @@ cross_refs:
 - [容纳技术 (Containment)](%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E5%AE%B9%E7%BA%B3%E6%8A%80%E6%9C%AF-%E5%AE%B9%E7%BA%B3%E6%8A%80%E6%9C%AF.md)
 
 ### 9. 💼 应用心理学 (Applied Psychology)
+- [**应用心理主目录 (Applied Psychology Hub)**](心理学/应用心理/INDEX.md) **[ENRICHED 2026-08-04]** — 6 大方向全景：社会心理服务 / AI 心理产品 / 心理服务平台 / 心理自媒体 / 心理工具 / 心理医学 + 职场心理危机 + 26 份深度档案
 - [职业心理学 (Vocational)](心理学/应用心理/职业心理学/INDEX.md)
-- [职场心理危机 (Workplace Crisis)](心理学/应用心理/职场心理危机/INDEX.md)
+- [职场心理危机 (Workplace Crisis)](心理学/应用心理/职场心理危机/INDEX.md) — **新增中国 EAP 与危机干预技术全景**
 - [假日心理学 (Holiday Psychology)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E5%81%87%E6%97%A5%E5%BF%83%E7%90%86%E5%AD%A6-%E5%81%87%E6%97%A5%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md)
 - [物质主义心理学 (Materialism)](%E5%BF%83%E7%90%86%E5%AD%A6/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E7%89%A9%E8%B4%A8%E4%B8%BB%E4%B9%89%E5%BF%83%E7%90%86%E5%AD%A6-%E7%89%A9%E8%B4%A8%E4%B8%BB%E4%B9%89%E5%BF%83%E7%90%86%E5%AD%A6%E5%88%86%E6%9E%90.md)
 - [**教育心理学 (Educational Psychology)**](心理学/应用心理/教育心理学/INDEX.md) **[NEW]** — 学习理论/教学设计/学生心理健康
+- [亲密关系 (Intimate Relationships)](心理学/应用心理/亲密关系/INDEX.md) — 恋爱 / 婚姻 / 离婚
+- [关系咨询 (Relationship Counseling)](心理学/应用心理/关系咨询/INDEX.md) — 家庭系统 / 婚恋咨询
 
 ### 10. 📚 特殊专题 (Special Topics)
 - [贫困与苦难心理学 (Poverty & Suffering)](心理学/特殊专题/贫困苦难/INDEX.md)
@@ -212,16 +215,16 @@ cross_refs:
 - [**梦的心理学 (Dream Psychology)**](心理学/特殊专题/梦心理学/INDEX.md) **[NEW]** — 释梦/清醒梦/噩梦治疗(IRT)/梦工作
 
 ### 11. 🧘‍♂️ 冥想技术与意识研究 (Meditation & Consciousness)
-- [冥想基础与核心技术 (Core)](冥想/基础/基础-总览-冥想核心.md)
-- [冥想心念管理方法论 (Mind Management)](冥想/基础/基础-总览-冥想心智管理.md)
-- [冥想哲学认知论基础 (Philosophical Foundations)](冥想/基础/基础-总览-冥想哲学基础.md)
-- [冥想脑科学基础 (Brain Science)](冥想/基础/基础-总览-冥想Brain科学基础.md)
+- [冥想基础与核心技术 (Core)](冥想/基础/总览与理论/基础-总览-冥想核心.md)
+- [冥想心念管理方法论 (Mind Management)](冥想/基础/总览与理论/基础-总览-冥想心智管理.md)
+- [冥想哲学认知论基础 (Philosophical Foundations)](冥想/基础/总览与理论/基础-总览-冥想哲学基础.md)
+- [冥想脑科学基础 (Brain Science)](冥想/基础/总览与理论/基础-总览-冥想Brain科学基础.md)
 - **[专业冥想引导词课程库 (~400门/200+场景)](冥想/INDEX.md)** — 以专业冥想执行师维度设计的系统化课程库，25 系列，覆盖基础→高阶→生活、工作、婚恋、心理危机、人生变故、中西方文化、医疗、青少年家庭、自然元素、时间节律、社交社群、创意艺术、学习智慧、世界传统、数字现代、存在灵性、死亡冥想等 200+ 具体场景，每门课程包含完整实施、交付、高质量带执行标记的引导词
 - [直接认知/直指体系 (Direct Recognition)](冥想/直接认知冥想课程/INDEX.md)
 - [坛城与曼荼罗体系 (Mandala)](冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala冥想总览.md)
 - [萨提亚家族治疗模式 (Satir Model)](%E7%96%97%E6%B3%95/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88.md)
 - [内观与先验冥想 (Vipassana & TM)](冥想/传统/佛教/内观/传统-佛教-内观-观冥想.md)
-- [冥想纪录片指南 (Documentary Guide)](冥想/基础/基础-总览-冥想Documentary指南.md)
+- [冥想纪录片指南 (Documentary Guide)](冥想/基础/总览与理论/基础-总览-冥想Documentary指南.md)
 
 ### 12. 🧪 循证疗法与感官治疗 (Evidence-Based & Sensory Therapy)
 - [正念认知疗法 (MBCT)](疗法/整合疗法/正念认知疗法/整合疗法-正念认知疗法-正念认知疗法正念为基础认知疗法总览.md)
@@ -254,7 +257,7 @@ cross_refs:
 
 ## 跨支柱关联 | Cross-Pillar References
 
-> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../_meta/cross-references.md)。
+> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../cross-references.md)。
 
 | 关联支柱 | 关键连接 | 代表性关联 |
 |----------|---------|------------|
@@ -290,7 +293,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

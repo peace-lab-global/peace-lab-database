@@ -1,40 +1,35 @@
-# 死亡
+---
+title: "死亡学 | Death Studies"
+description: "枢纽目录 —— 死亡学知识按六大主题 + 资源组织"
+category: "枢纽目录"
+tags: ["index", "hub", "death-studies"]
+last_updated: "2026-07-30"
+---
 
-> 本目录共 36 个文档
+# 死亡学 | Death Studies
 
-- [Death资源Bibliography](Death资源Bibliography.md)
-- [临床应用-Death临床Casebook](临床应用-Death临床Casebook.md)
-- [临床应用-Death临床职场Applications](临床应用-Death临床职场Applications.md)
-- [临床应用-Death评估Measures](临床应用-Death评估Measures.md)
-- [临床应用-死亡Bioethics](临床应用-死亡Bioethics.md)
-- [临床应用-死亡SuicidologyBoundary](临床应用-死亡SuicidologyBoundary.md)
-- [临床应用-死亡高风险Occupations](临床应用-死亡高风险Occupations.md)
-- [临终关怀-DeathDignity疗法PalliativeCare](临终关怀-DeathDignity疗法PalliativeCare.md)
-- [临终关怀-Death衰老EndofLife](临终关怀-Death衰老EndofLife.md)
-- [临终关怀-死亡DementiaEndof生活](临终关怀-死亡DementiaEndof生活.md)
-- [临终关怀-死亡MentalIllnessEndof生活](临终关怀-死亡MentalIllnessEndof生活.md)
-- [临终关怀-死亡NDENear死亡Experience](临终关怀-死亡NDENear死亡Experience.md)
-- [哀伤丧恸-DeathCollective创伤](哀伤丧恸-DeathCollective创伤.md)
-- [哀伤丧恸-DeathLGBTQDeath哀伤](哀伤丧恸-DeathLGBTQDeath哀伤.md)
-- [哀伤丧恸-Death哀伤Bridge](哀伤丧恸-Death哀伤Bridge.md)
-- [哀伤丧恸-Death宠物减](哀伤丧恸-Death宠物减.md)
-- [哲学文化-DeathComparative哲学](哲学文化-DeathComparative哲学.md)
-- [哲学文化-DeathContemplation总览](哲学文化-DeathContemplation总览.md)
-- [哲学文化-DeathWestern哲学Classics](哲学文化-DeathWestern哲学Classics.md)
-- [哲学文化-Death传统Views深研](哲学文化-Death传统Views深研.md)
-- [哲学文化-Death存在心理学](哲学文化-Death存在心理学.md)
-- [哲学文化-Death文化仪轨Comparison](哲学文化-Death文化仪轨Comparison.md)
-- [哲学文化-Death艺术Death](哲学文化-Death艺术Death.md)
-- [教育实践-DeathEducation工作坊设计](教育实践-DeathEducation工作坊设计.md)
-- [教育实践-DeathEthicalWillLife评述指南](教育实践-DeathEthicalWillLife评述指南.md)
-- [教育实践-Death冥想Practices](教育实践-Death冥想Practices.md)
-- [教育实践-Death哀伤技术](教育实践-Death哀伤技术.md)
-- [教育实践-Death现代Applications](教育实践-Death现代Applications.md)
-- [教育实践-Death现代Issues](教育实践-Death现代Issues.md)
-- [教育实践-死亡Preparation生活](教育实践-死亡Preparation生活.md)
-- [教育实践-死亡儿童Adolescents](教育实践-死亡儿童Adolescents.md)
-- [教育实践-死亡课程AlignmentAudit](教育实践-死亡课程AlignmentAudit.md)
-- [死亡Epidemiology数据](死亡Epidemiology数据.md)
-- [死亡焦虑-Death焦虑SuddenDeathFear](死亡焦虑-Death焦虑SuddenDeathFear.md)
-- [死亡焦虑-Death焦虑总览](死亡焦虑-Death焦虑总览.md)
-- [死亡焦虑-Death焦虑治疗](死亡焦虑-Death焦虑治疗.md)
+> **枢纽目录（Hub Directory）**：原 43 个平铺文件已按前缀归入以下七个子目录（2026-07 结构治理，各子目录的 `.pages` 导航标题沿用原设计）。
+
+## 📁 子目录 | Subdirectories
+
+| 子目录 | 导航标题 | 主题范围 |
+|---|---|---|
+| [哲学文化/](哲学文化/) | 哲学与文化 | 死亡沉思、东西方哲学传统、比较视角 |
+| [死亡焦虑/](死亡焦虑/) | 死亡焦虑 | 死亡焦虑理论与干预 |
+| [临终关怀/](临终关怀/) | 临终关怀 | 缓和医疗、尊严疗法、衰老与生命末期、濒死体验 |
+| [哀伤丧恸/](哀伤丧恸/) | 哀伤与丧失 | 集体创伤、LGBTQ 哀伤、宠物离世、哀伤桥接 |
+| [临床应用/](临床应用/) | 临床应用 | 临床案例、评估量表、生命伦理、自杀学边界、高风险职业 |
+| [教育实践/](教育实践/) | 教育与实践 | 死亡教育工作坊、死亡冥想、生前预嘱、儿童青少年死亡教育 |
+| [资源/](资源/) | 资源 | 文献书目、流行病学数据 |
+
+## 🔗 跨域引用 | Cross References
+
+- **哀伤的临床干预主入口** → [06-临床专题/哀伤丧恸/](../../06-临床专题/哀伤丧恸/INDEX.md)
+  （本目录 `哀伤丧恸/` 侧重生命教育视角；临床评估/疗法/督导内容以 06 为准）
+- 死亡冥想实修 → [02-心智心理/冥想/](../../02-心智心理/冥想/INDEX.md)
+- 《西藏生死书》与死亡文学 → [04-人文艺术/文学/世界非虚构/](../../04-人文艺术/文学/INDEX.md)
+- 生死哲学 → [01-智慧传统/哲学/](../../01-智慧传统/哲学/INDEX.md)
+
+---
+
+*返回 [03-生命科学/](../INDEX.md)*

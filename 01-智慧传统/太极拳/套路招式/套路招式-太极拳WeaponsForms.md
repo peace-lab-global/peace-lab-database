@@ -18,7 +18,7 @@ trigger_keywords:
 - 太极扇
 - 太极枪
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 ---
 # 太极器械 | Tai Chi Weapons Forms

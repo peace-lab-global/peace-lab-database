@@ -163,4 +163,4 @@ cross_refs: []
 - [中国本土冥想传统概论](传统-东亚-中国传统-Chinese冥想总览.md)
 - [中国传统静坐功法](传统-东亚-中国传统-中国SittingPractices.md)
 - [中医与冥想](传统-东亚-中国传统-Chinese中医冥想.md)
-- [冥想执行师认证对比](../../../基础/基础-实践者CertificationComparison.md)
+- [冥想执行师认证对比](../../../基础/修行者培训/基础-实践者CertificationComparison.md)

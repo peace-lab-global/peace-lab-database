@@ -212,5 +212,5 @@ cross_refs:
 - [中国传统静坐功法](传统-东亚-中国传统-Chinese_Sitting_Practices.md)
 - [中医与冥想](传统-东亚-中国传统-Chinese_TCM_Meditation.md)
 - [正念中国本土化挑战](传统-东亚-中国传统-Chinese_Localization_Challenges.md)
-- [冥想类型分类学](../../../基础/基础-总览-Meditation_Types_Classification.md)
-- [冥想核心基础](../../../基础/基础-总览-Meditation_Core.md)
+- [冥想类型分类学](../../../基础/总览与理论/基础-总览-Meditation_Types_Classification.md)
+- [冥想核心基础](../../../基础/总览与理论/基础-总览-Meditation_Core.md)

@@ -18,7 +18,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/特殊专题/居家整理/特殊专题-居家整理-Home_Organization_Overview.md
   relation: minimalism/cleaning/konmari
-- path: 03-生命科学/死亡/教育实践-死亡Preparation生活.md
+- path: 03-生命科学/死亡/教育实践/教育实践-死亡Preparation生活.md
   relation: minimalism/swedish/cleaning
 ---
 # 极简主义概述 | Minimalism Overview

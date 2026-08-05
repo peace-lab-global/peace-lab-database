@@ -24,7 +24,7 @@ cross_refs:
   relation: 觉察/冥想/正念
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/练习课/与当下同行：觉察是当下之门.md
   relation: 冥想/觉察
-- path: 02-心智心理/冥想/基础/基础-工具-Meditation_Journal_Template.md
+- path: 02-心智心理/冥想/基础/评估与工具/基础-工具-Meditation_Journal_Template.md
   relation: 内观/冥想/meditation
 ---
 # 《内观冥想练习册》The Insight Meditation Workbook

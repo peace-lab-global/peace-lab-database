@@ -16,7 +16,7 @@ trigger_keywords:
 - Habits
 - 掌控习惯
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Habit_Formation_Guide.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Habit_Formation_Guide.md
   relation: 习惯/bj/fogg
 ---
 # Tiny Habits 掌控习惯

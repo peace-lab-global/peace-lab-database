@@ -193,7 +193,7 @@
 
 ---
 
-*跨支柱关联: [正念冥想](../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/INDEX.md) · [职业规划](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/INDEX.md) · [职场表达](%E8%81%8C%E5%9C%BA%E8%A1%A8%E8%BE%BE/INDEX.md) · [正念生活](../%E6%AD%A3%E5%BF%B5%E7%94%9F%E6%B4%BB/INDEX.md)*
+*跨支柱关联: [正念冥想](../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/INDEX.md) · [职业规划](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/INDEX.md) · [职场表达](%E8%81%8C%E5%9C%BA%E8%A1%A8%E8%BE%BE/INDEX.md) · [正念生活](%E6%AD%A3%E5%BF%B5/INDEX.md)*
 
 ---
 
@@ -219,7 +219,7 @@
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

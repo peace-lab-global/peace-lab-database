@@ -16,7 +16,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/应用/应用-Meditation_Technology_Overview.md
   relation: ar/ai/vr
-- path: 02-心智心理/冥想/基础/基础-Professional_Digital_AI.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Digital_AI.md
   relation: ai/ar/vr
 - path: 02-心智心理/冥想/应用/INDEX.md
   relation: ar/ai/vr

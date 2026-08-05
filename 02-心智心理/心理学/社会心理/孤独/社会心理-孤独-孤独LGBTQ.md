@@ -19,7 +19,7 @@ trigger_keywords:
 - in
 - Sexual
 cross_refs:
-- path: 03-生命科学/死亡/哀伤丧恸-DeathLGBTQDeath哀伤.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-DeathLGBTQDeath哀伤.md
   relation: lgbtq/aids/minority
 ---
 # LGBTQ+ 孤独专题 | Loneliness in Sexual and Gender Minority Populations
@@ -347,7 +347,7 @@ LGBTQ+ 人群自杀意念率 **4-5倍** 于一般人群。高危信号：
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

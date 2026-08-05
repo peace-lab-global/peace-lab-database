@@ -35,6 +35,7 @@ build/
 # 临时文件
 *.log
 *.tmp
+*.bak
 .cache/
 
 # Node / 前端依赖

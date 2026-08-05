@@ -15,7 +15,7 @@ trigger_keywords:
 - 老年情绪健康
 - cbt
 cross_refs:
-- path: 03-生命科学/死亡/哀伤丧恸-Death哀伤Bridge.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death哀伤Bridge.md
   relation: 哀伤/丧亲/抑郁
 ---
 # 老年情绪健康 | Aging Emotional Wellbeing
@@ -248,7 +248,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

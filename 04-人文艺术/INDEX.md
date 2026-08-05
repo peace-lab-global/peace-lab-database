@@ -91,10 +91,10 @@ cross_refs:
 
 ### 1. 🎨 艺术史、艺术家与艺术疗法 (Arts & Artists)
 - [艺术疗愈核心理论 (Art Therapy)](艺术/艺术疗法/艺术疗法-艺术疗法总览.md)
-- [文艺复兴艺术家与心理分析 (Renaissance)](艺术/艺术疗法/RenaissanceArtists疗法.md)
+- [文艺复兴艺术家与心理分析 (Renaissance)](艺术/艺术疗法/艺术疗法-RenaissanceArtists疗法.md)
   - [达芬奇 (Da Vinci)](艺术/艺术家/文艺复兴/艺术家-文艺复兴-列奥纳多·达·芬奇.md)
   - [米开朗基罗 (Michelangelo)](艺术/艺术家/文艺复兴/艺术家-文艺复兴-米开朗基罗.md)
-- [现代艺术与精神表达 (Modern Arts)](%E8%89%BA%E6%9C%AF/%E7%8E%B0%E4%BB%A3Artists%E7%96%97%E6%B3%95.md)
+- [现代艺术与精神表达 (Modern Arts)](%E8%89%BA%E6%9C%AF/%E8%89%BA%E6%9C%AF%E7%96%97%E6%B3%95/%E8%89%BA%E6%9C%AF%E7%96%97%E6%B3%95-%E7%8E%B0%E4%BB%A3Artists%E7%96%97%E6%B3%95.md)
   - [梵高 (Van Gogh)](艺术/艺术家/现代/艺术家-现代-梵高.md)
   - [毕加索 (Picasso)](艺术/艺术家/现代/艺术家-现代-毕加索.md)
   - [莫奈 (Monet)](艺术/艺术家/现代/艺术家-现代-莫奈.md)
@@ -129,16 +129,16 @@ cross_refs:
 - [纺织编织疗愈 (Textile Therapy)](艺术/手工疗法/手工疗法-CraftTextile疗法.md) — 编织正念、刺绣/纺纱/拼布、编织圈
 
 ### 1.12 💃 舞动治疗 (Dance/Movement Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [舞动治疗总览](%E8%89%BA%E6%9C%AF/%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E7%96%97%E6%B3%95-%E8%88%9E%E8%B9%88Movement%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
+- [舞动治疗总览](%E8%89%BA%E6%9C%AF/%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E7%96%97%E6%B3%95/%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E7%96%97%E6%B3%95-%E8%88%9E%E8%B9%88Movement%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Chace模型/真实动作/LMA/KMP、神经科学、循证证据
 
 ### 1.13 📖 叙事疗法 (Narrative Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [叙事疗法总览](%E8%89%BA%E6%9C%AF/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95-Narrative%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
+- [叙事疗法总览](%E8%89%BA%E6%9C%AF/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95/%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95-Narrative%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — 外化对话/重写对话/会员重组/治疗性文件/去病理化
 
 ### 1.14 🏖️ 沙盘/沙游治疗 (Sandplay Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [沙盘/沙游治疗总览](%E8%89%BA%E6%9C%AF/%E6%B2%99%E7%9B%98%E7%96%97%E6%B3%95-Sandplay%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
+- [沙盘/沙游治疗总览](%E8%89%BA%E6%9C%AF/%E6%B2%99%E7%9B%98%E7%96%97%E6%B3%95/%E6%B2%99%E7%9B%98%E7%96%97%E6%B3%95-Sandplay%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — Kalff沙游vs荣格沙景、设置标准、解读维度、治愈过程
 
 ### 1.15 🌲 自然与荒野疗愈 (Nature & Wilderness Therapy) — [完整知识地图](艺术/INDEX.md) **[NEW]**
-- [自然与荒野疗愈总览](%E8%89%BA%E6%9C%AF/%E8%87%AA%E7%84%B6%E8%8D%92%E9%87%8E%E7%96%97%E6%B3%95-NatureWilderness%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
+- [自然与荒野疗愈总览](%E8%89%BA%E6%9C%AF/%E8%87%AA%E7%84%B6%E8%8D%92%E9%87%8E%E7%96%97%E6%B3%95/%E8%87%AA%E7%84%B6%E8%8D%92%E9%87%8E%E7%96%97%E6%B3%95-NatureWilderness%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) — ART/SRT理论、森林浴、荒野治疗、园艺治疗、AAT、自然处方
 
 ### 2. 🩰 芭蕾艺术全系 (Ballet: From Technique to Therapy)
 - [芭蕾艺术概览与系统 (Ballet Overview)](%E8%89%BA%E6%9C%AF/%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E6%80%BB%E8%A7%88.md)
@@ -210,7 +210,7 @@ cross_refs:
 
 ## 跨支柱关联 | Cross-Pillar References
 
-> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../_meta/cross-references.md)。
+> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../cross-references.md)。
 
 | 关联支柱 | 关键连接 | 代表性关联 |
 |----------|---------|------------|

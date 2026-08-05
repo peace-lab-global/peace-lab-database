@@ -17,7 +17,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/压力与HPA轴/技能/压力与HPA轴-技能-Relaxation_Techniques_Guide_Skill.md
   relation: 太极/呼吸/呼吸法
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 - path: 02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-Somatic_Movement_Oriental.md
   relation: 太极/chi/tai

@@ -18,13 +18,13 @@ trigger_keywords:
 - of
 - Vipassana
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Vipassana_Practice_Guide.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Vipassana_Practice_Guide.md
   relation: 内观/vipassana/sayadaw
 - path: 02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-Buddhist_Vipassana_Overview.md
   relation: 内观/vipassana/佛教
 - path: 02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md
   relation: vipassana/内观/anicca
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Retreat_Guide.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Retreat_Guide.md
   relation: 内观/vipassana/retreat
 ---
 # 《内观实修》The Practice of Vipassana

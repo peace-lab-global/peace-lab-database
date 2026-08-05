@@ -317,7 +317,7 @@ cross_refs:
 - [瑜伽尼德拉概述](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Overview.md)
 - [瑜伽尼德拉科学机制](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Science.md)
 - [瑜伽尼德拉技术体系](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Techniques.md)
-- [冥想与睡眠](../../../基础/基础-总览-Meditation_And_Sleep.md)
+- [冥想与睡眠](../../../基础/总览与理论/基础-总览-Meditation_And_Sleep.md)
 - [创伤知情正念](../../../临床/安全/临床-安全-Meditation_Trauma_Sensitive.md)
 
 ---

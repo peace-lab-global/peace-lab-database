@@ -32,8 +32,8 @@ cross_refs: []
 
 ## 相关模块 | Related Modules
 
-- [儿童青少年冥想](../基础/基础-总览-ChildrenYouth冥想.md)
+- [儿童青少年冥想](../基础/特定人群/基础-总览-ChildrenYouth冥想.md)
 - [MBSR项目概述](../临床/正念减压课程/临床-正念减压课程-正念减压Program总览.md)
 - [MBSR八周课程](../临床/正念减压课程/临床-正念减压课程-正念减压WeeklyCurriculum.md)
 - [安全与不良反应](INDEX.md)
-- [冥想神经科学机制](../基础/基础-总览-冥想神经科学Mechanisms.md)
+- [冥想神经科学机制](../基础/总览与理论/基础-总览-冥想神经科学Mechanisms.md)

@@ -316,7 +316,7 @@ cross_refs: []
 | 内观禅修详解 | [Vipassana_Meditation.md](../内观/传统-佛教-内观-Vipassana_Meditation.md) | 内观传统详解 |
 | 禅修安全 | [safety/INDEX.md](INDEX.md) | 安全与不良反应 |
 | 引导词脚本 | [guided-scripts/INDEX.md](INDEX.md) | 呼吸、身扫引导词 |
-| 冥想核心基础 | [Meditation_Core.md](../../../基础/基础-总览-Meditation_Core.md) | 冥想通用基础 |
+| 冥想核心基础 | [Meditation_Core.md](../../../基础/总览与理论/基础-总览-Meditation_Core.md) | 冥想通用基础 |
 
 ---
 
@@ -355,7 +355,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

@@ -17,7 +17,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -731,15 +731,15 @@ Linda Carlson团队基于标准MBSR开发了专门的MBCR课程，主要修改�
 
 - **MBSR项目**: [MBSR Program Overview](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) · [MBSR八周课程](../正念减压课程/临床-正念减压课程-MBSR_Weekly_Curriculum.md)
 - **MBCT项目**: [MBCT概述](INDEX.md)
-- **神经科学机制**: [冥想神经科学机制](../../基础/基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- **临床应用总览**: [冥想临床应用详表](../../基础/基础-总览-Meditation_Clinical_Applications.md)
+- **神经科学机制**: [冥想神经科学机制](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md)
+- **临床应用总览**: [冥想临床应用详表](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md)
 - **安全与不良反应**: [冥想不良反应](../安全/临床-安全-Meditation_Adverse_Effects.md) · [创伤知情冥想](../安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - **心理神经免疫学**: [PNI免疫调节](../../../../03-生命科学/生物学/免疫炎症/免疫炎症-心理神经免疫学.md)
 - **疼痛管理**: [慢性疼痛正念管理](临床-临床病症-Meditation_Chronic_Pain.md)
 - **止观禅定**: [止观理论基础](../../传统/佛教/止观/传统-佛教-止观-Samatha_Vipassana_Theory.md)
 - **慈心禅**: [慈心禅引导词](../../引导/引导-核心-Scripts慈爱善意.md)
-- **职业手册**: [特殊场景应用](../../基础/基础-Professional_Special_Contexts.md)
-- **主题地图**: [正念生态](../../../../_meta/topic-maps/Mindfulness_Ecosystem.md)
+- **职业手册**: [特殊场景应用](../../基础/专业执业/基础-Professional_Special_Contexts.md)
+- **主题地图**: [正念生态](../../../../Web/可视化/主题图谱/Mindfulness_Ecosystem.md)
 
 ### 外部关键资源
 
@@ -777,7 +777,7 @@ Linda Carlson团队基于标准MBSR开发了专门的MBCR课程，主要修改�
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

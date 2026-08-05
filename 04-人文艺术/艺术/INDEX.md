@@ -1,109 +1,53 @@
-# 艺术
+---
+title: "艺术 | Arts & Expressive Therapies"
+description: "枢纽目录 —— 按「艺术形式」与「表达性治疗」两大维度组织"
+category: "枢纽目录"
+tags: ["index", "hub", "arts", "expressive-therapy"]
+last_updated: "2026-07-30"
+---
 
-> 本目录共 96 个文档
+# 艺术 | Arts & Expressive Therapies
 
+> **枢纽目录（Hub Directory）**：本目录按两大维度组织——
+> **艺术形式**（艺术本体：流派、艺术家、剧目）与**表达性治疗**（以艺术为媒介的疗愈方法）。
 
-## 其他
+## 🎨 艺术形式 | Art Forms
 
-- [RenaissanceArtists疗法](艺术疗法/RenaissanceArtists疗法.md)
-- [书法疗法-书法临床Applications](书法疗法/书法疗法-书法临床Applications.md)
-- [书法疗法-书法实践指南](书法疗法/书法疗法-书法实践指南.md)
-- [书法疗法-书法疗法总览](书法疗法/书法疗法-书法疗法总览.md)
-- [书法疗法-书法神经科学](书法疗法/书法疗法-书法神经科学.md)
-- [叙事疗法-Narrative疗法总览](%E5%8F%99%E4%BA%8B%E7%96%97%E6%B3%95-Narrative%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
-- [园艺疗法-Horticultural疗法临床](园艺疗法/园艺疗法-Horticultural疗法临床.md)
-- [园艺疗法-Horticultural疗法总览](园艺疗法/园艺疗法-Horticultural疗法总览.md)
-- [园艺疗法-疗愈Garden设计](园艺疗法/园艺疗法-疗愈Garden设计.md)
-- [戏剧疗法-Drama疗法临床](戏剧疗法/戏剧疗法-Drama疗法临床.md)
-- [戏剧疗法-Drama疗法实践](戏剧疗法/戏剧疗法-Drama疗法实践.md)
-- [戏剧疗法-Drama疗法总览](戏剧疗法/戏剧疗法-Drama疗法总览.md)
-- [戏剧疗法-Drama疗法神经科学](戏剧疗法/戏剧疗法-Drama疗法神经科学.md)
-- [戏剧疗法-Psychodrama技术](戏剧疗法/戏剧疗法-Psychodrama技术.md)
-- [手工疗法-CraftPottery疗法](手工疗法/手工疗法-CraftPottery疗法.md)
-- [手工疗法-CraftTextile疗法](手工疗法/手工疗法-CraftTextile疗法.md)
-- [手工疗法-Craft疗法总览](手工疗法/手工疗法-Craft疗法总览.md)
-- [摄影疗法-摄影临床Applications](摄影疗法/摄影疗法-摄影临床Applications.md)
-- [摄影疗法-摄影实践指南](摄影疗法/摄影疗法-摄影实践指南.md)
-- [摄影疗法-摄影疗法总览](摄影疗法/摄影疗法-摄影疗法总览.md)
-- [沙盘疗法-Sandplay疗法总览](%E6%B2%99%E7%9B%98%E7%96%97%E6%B3%95-Sandplay%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
-- [现代Artists疗法](%E7%8E%B0%E4%BB%A3Artists%E7%96%97%E6%B3%95.md)
-- [空间疗愈-Space居家办公设计](空间疗愈/空间疗愈-Space居家办公设计.md)
-- [空间疗愈-Space疗愈Architecture](空间疗愈/空间疗愈-Space疗愈Architecture.md)
-- [自然荒野疗法-NatureWilderness疗法总览](%E8%87%AA%E7%84%B6%E8%8D%92%E9%87%8E%E7%96%97%E6%B3%95-NatureWilderness%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
-- [舞蹈动作疗法-舞蹈Movement疗法总览](%E8%88%9E%E8%B9%88%E5%8A%A8%E4%BD%9C%E7%96%97%E6%B3%95-%E8%88%9E%E8%B9%88Movement%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
-- [艺术疗法-RenaissanceArtists疗法](艺术疗法/艺术疗法-RenaissanceArtists疗法.md)
-- [艺术疗法-现代Artists疗法](艺术疗法/艺术疗法-现代Artists疗法.md)
-- [艺术疗法-艺术疗法Terminology理论](艺术疗法/艺术疗法-艺术疗法Terminology理论.md)
-- [艺术疗法-艺术疗法临床整合](艺术疗法/艺术疗法-艺术疗法临床整合.md)
-- [艺术疗法-艺术疗法总览](艺术疗法/艺术疗法-艺术疗法总览.md)
-- [艺术疗法-艺术疗法技术媒体](艺术疗法/艺术疗法-艺术疗法技术媒体.md)
-- [芭蕾-芭蕾EducationSystem](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BEEducationSystem.md)
-- [芭蕾-芭蕾Scientific研究](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BEScientific%E7%A0%94%E7%A9%B6.md)
-- [芭蕾-芭蕾TechniqueSystem](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETechniqueSystem.md)
-- [芭蕾-芭蕾Terminology词典](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BETerminology%E8%AF%8D%E5%85%B8.md)
-- [芭蕾-芭蕾总览](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E6%80%BB%E8%A7%88.md)
-- [芭蕾-芭蕾疗法Applications](%E8%8A%AD%E8%95%BE/%E8%8A%AD%E8%95%BE-%E8%8A%AD%E8%95%BE%E7%96%97%E6%B3%95Applications.md)
-- [表达性艺术-ExpressiveArts培训Certification](表达性艺术/表达性艺术-ExpressiveArts培训Certification.md)
-- [表达性艺术-ExpressiveArts工具箱](表达性艺术/表达性艺术-ExpressiveArts工具箱.md)
-- [表达性艺术-ExpressiveArts案例Studies](表达性艺术/表达性艺术-ExpressiveArts案例Studies.md)
-- [表达性艺术-ExpressiveArts跨参考](表达性艺术/表达性艺术-ExpressiveArts跨参考.md)
+| 子目录 | 文档数 | 主题范围 |
+|---|---|---|
+| [芭蕾/](芭蕾/INDEX.md) | 29 | 古典芭蕾剧目、编舞家、教育史与康复 |
+| [艺术家/](艺术家/INDEX.md) | 10 | 文艺复兴与现代艺术家档案 |
 
-## 艺术家
+## 🖌️ 表达性治疗 | Expressive Therapies
 
-- [艺术家-文艺复兴-Leonardo_da_Vinci](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4-%E5%88%97%E5%A5%A5%E7%BA%B3%E5%A4%9A%C2%B7%E8%BE%BE%C2%B7%E8%8A%AC%E5%A5%87.md)
-- [艺术家-文艺复兴-Michelangelo](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E6%96%87%E8%89%BA%E5%A4%8D%E5%85%B4-%E7%B1%B3%E5%BC%80%E6%9C%97%E5%9F%BA%E7%BD%97.md)
-- [艺术家-文艺复兴-列奥纳多·达·芬奇](艺术家/文艺复兴/艺术家-文艺复兴-列奥纳多·达·芬奇.md)
-- [艺术家-文艺复兴-米开朗基罗](艺术家/文艺复兴/艺术家-文艺复兴-米开朗基罗.md)
-- [艺术家-现代-Dali](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-%E8%BE%BE%E5%88%A9.md)
-- [艺术家-现代-Dali_Works_Analysis](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-Dali%E4%BD%9C%E5%93%81%E5%88%86%E6%9E%90.md)
-- [艺术家-现代-Dali作品分析](艺术家/现代/艺术家-现代-Dali作品分析.md)
-- [艺术家-现代-Monet](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-%E8%8E%AB%E5%A5%88.md)
-- [艺术家-现代-Monet_Works_Analysis](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-Monet%E4%BD%9C%E5%93%81%E5%88%86%E6%9E%90.md)
-- [艺术家-现代-Monet作品分析](艺术家/现代/艺术家-现代-Monet作品分析.md)
-- [艺术家-现代-Picasso](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-%E6%AF%95%E5%8A%A0%E7%B4%A2.md)
-- [艺术家-现代-Picasso_Works_Analysis](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-Picasso%E4%BD%9C%E5%93%81%E5%88%86%E6%9E%90.md)
-- [艺术家-现代-Picasso作品分析](艺术家/现代/艺术家-现代-Picasso作品分析.md)
-- [艺术家-现代-VanGogh](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-%E6%A2%B5%E9%AB%98.md)
-- [艺术家-现代-VanGogh_Works_Analysis](%E8%89%BA%E6%9C%AF%E5%AE%B6/%E7%8E%B0%E4%BB%A3/%E8%89%BA%E6%9C%AF%E5%AE%B6-%E7%8E%B0%E4%BB%A3-VanGogh%E4%BD%9C%E5%93%81%E5%88%86%E6%9E%90.md)
-- [艺术家-现代-VanGogh作品分析](艺术家/现代/艺术家-现代-VanGogh作品分析.md)
-- [艺术家-现代-梵高](艺术家/现代/艺术家-现代-梵高.md)
-- [艺术家-现代-毕加索](艺术家/现代/艺术家-现代-毕加索.md)
-- [艺术家-现代-莫奈](艺术家/现代/艺术家-现代-莫奈.md)
-- [艺术家-现代-达利](艺术家/现代/艺术家-现代-达利.md)
+| 子目录 | 文档数 | 主题范围 |
+|---|---|---|
+| [艺术疗法/](艺术疗法/INDEX.md) | 6 | 艺术疗法总论：术语理论、技术媒材、临床整合、艺术家疗愈应用 |
+| [表达性艺术/](表达性艺术/INDEX.md) | 4 | 表达性艺术整合：案例、工具箱、培训认证 |
+| [戏剧疗法/](戏剧疗法/INDEX.md) | 5 | 戏剧疗法与心理剧技术 |
+| [书法疗法/](书法疗法/INDEX.md) | 4 | 书法疗法：神经科学与临床应用 |
+| [绘画疗法/](绘画疗法/INDEX.md) | 3 | 绘画疗法 |
+| [摄影疗法/](摄影疗法/INDEX.md) | 3 | 摄影疗法 |
+| [手工疗法/](手工疗法/INDEX.md) | 3 | 陶艺、纤维等手工疗法 |
+| [园艺疗法/](园艺疗法/INDEX.md) | 3 | 园艺疗法与疗愈花园设计 |
+| [空间疗愈/](空间疗愈/INDEX.md) | 2 | 居家办公空间疗愈设计 |
+| [沙盘疗法/](沙盘疗法/) | 1 | 沙游治疗（Kalff/荣格） |
+| [舞蹈动作疗法/](舞蹈动作疗法/) | 1 | 舞动治疗（Chace/LMA/KMP） |
+| [叙事疗法/](叙事疗法/) | 1 | 叙事疗法（外化/重写对话） |
+| [自然荒野疗法/](自然荒野疗法/) | 1 | 自然与荒野疗愈（森林浴/ART/SRT） |
 
-## 芭蕾
+## 🔗 跨域引用 | Cross References
 
-- [芭蕾-历史-Ballet_History_Development](芭蕾/历史/芭蕾-历史-Ballet_History_Development.md)
-- [芭蕾-历史-芭蕾History发展](芭蕾/历史/芭蕾-历史-芭蕾History发展.md)
-- [芭蕾-古典剧目-don-quixote-Don_Quixote_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E5%A0%82%E5%90%89%E8%AF%83%E5%BE%B7-DonQuixoteClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-giselle-Giselle_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E5%90%89%E8%B5%9B%E5%B0%94-GiselleClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-nutcracker-Nutcracker_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E8%83%A1%E6%A1%83%E5%A4%B9%E5%AD%90-NutcrackerClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-romeo-juliet-Romeo_Juliet_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E7%BD%97%E5%AF%86%E6%AC%A7%E4%B8%8E%E6%9C%B1%E4%B8%BD%E5%8F%B6-RomeoJulietClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-sleeping-beauty-Sleeping_Beauty_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E7%9D%A1%E7%BE%8E%E4%BA%BA-SleepingBeautyClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-swan-lake-Swan_Lake_Classic_Analysis](%E8%8A%AD%E8%95%BE/%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE/%E8%8A%AD%E8%95%BE-%E5%8F%A4%E5%85%B8%E5%89%A7%E7%9B%AE-%E5%A4%A9%E9%B9%85%E6%B9%96-SwanLakeClassic%E5%88%86%E6%9E%90.md)
-- [芭蕾-古典剧目-吉赛尔-GiselleClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-吉赛尔-GiselleClassic分析.md)
-- [芭蕾-古典剧目-堂吉诃德-DonQuixoteClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-堂吉诃德-DonQuixoteClassic分析.md)
-- [芭蕾-古典剧目-天鹅湖-SwanLakeClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-天鹅湖-SwanLakeClassic分析.md)
-- [芭蕾-古典剧目-睡美人-SleepingBeautyClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-睡美人-SleepingBeautyClassic分析.md)
-- [芭蕾-古典剧目-罗密欧与朱丽叶-RomeoJulietClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-罗密欧与朱丽叶-RomeoJulietClassic分析.md)
-- [芭蕾-古典剧目-胡桃夹子-NutcrackerClassic分析](芭蕾/古典剧目/芭蕾-古典剧目-胡桃夹子-NutcrackerClassic分析.md)
-- [芭蕾-康复治疗-Ballet_Rehabilitation_Therapy](芭蕾/康复治疗/芭蕾-康复治疗-Ballet_Rehabilitation_Therapy.md)
-- [芭蕾-康复治疗-芭蕾Rehabilitation疗法](芭蕾/康复治疗/芭蕾-康复治疗-芭蕾Rehabilitation疗法.md)
-- [芭蕾-当代-balanchine-George_Balanchine_Special](%E8%8A%AD%E8%95%BE/%E5%BD%93%E4%BB%A3/%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%B7%B4%E5%85%B0%E9%92%A6-GeorgeBalanchine%E7%89%B9%E6%AE%8A.md)
-- [芭蕾-当代-Contemporary_Ballet_Choreographers](芭蕾/当代/芭蕾-当代-Contemporary_Ballet_Choreographers.md)
-- [芭蕾-当代-forsythe-William_Forsythe_Special](%E8%8A%AD%E8%95%BE/%E5%BD%93%E4%BB%A3/%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E7%A6%8F%E8%B5%9B%E6%96%AF-WilliamForsythe%E7%89%B9%E6%AE%8A.md)
-- [芭蕾-当代-kylian-Jiri_Kylian_Special](%E8%8A%AD%E8%95%BE/%E5%BD%93%E4%BB%A3/%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%9F%BA%E5%88%A9%E5%AE%89-JiriKylian%E7%89%B9%E6%AE%8A.md)
-- [芭蕾-当代-morris-Mark_Morris_Special](%E8%8A%AD%E8%95%BE/%E5%BD%93%E4%BB%A3/%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E8%8E%AB%E9%87%8C%E6%96%AF-MarkMorris%E7%89%B9%E6%AE%8A.md)
-- [芭蕾-当代-wheeldon-Christopher_Wheeldon_Special](%E8%8A%AD%E8%95%BE/%E5%BD%93%E4%BB%A3/%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%A8%81%E5%B0%94%E7%99%BB-ChristopherWheeldon%E7%89%B9%E6%AE%8A.md)
-- [芭蕾-当代-基利安-JiriKylian特殊](芭蕾/当代/芭蕾-当代-基利安-JiriKylian特殊.md)
-- [芭蕾-当代-威尔登-ChristopherWheeldon特殊](芭蕾/当代/芭蕾-当代-威尔登-ChristopherWheeldon特殊.md)
-- [芭蕾-当代-巴兰钦-GeorgeBalanchine特殊](芭蕾/当代/芭蕾-当代-巴兰钦-GeorgeBalanchine特殊.md)
-- [芭蕾-当代-当代芭蕾Choreographers](芭蕾/当代/芭蕾-当代-当代芭蕾Choreographers.md)
-- [芭蕾-当代-福赛斯-WilliamForsythe特殊](芭蕾/当代/芭蕾-当代-福赛斯-WilliamForsythe特殊.md)
-- [芭蕾-当代-莫里斯-MarkMorris特殊](芭蕾/当代/芭蕾-当代-莫里斯-MarkMorris特殊.md)
-- [芭蕾-教育研究-Ballet_Education_Research](芭蕾/教育研究/芭蕾-教育研究-Ballet_Education_Research.md)
-- [芭蕾-教育研究-芭蕾Education研究](芭蕾/教育研究/芭蕾-教育研究-芭蕾Education研究.md)
-- [芭蕾-综合-Ballet_General_Resources](芭蕾/综合/芭蕾-综合-Ballet_General_Resources.md)
-- [芭蕾-综合-芭蕾General资源](芭蕾/综合/芭蕾-综合-芭蕾General资源.md)
-- [芭蕾-鉴赏-Ballet_Appreciation_Guide](芭蕾/鉴赏/芭蕾-鉴赏-Ballet_Appreciation_Guide.md)
-- [芭蕾-鉴赏-芭蕾Appreciation指南](芭蕾/鉴赏/芭蕾-鉴赏-芭蕾Appreciation指南.md)
+> 与 [02-心智心理/疗法/](../../02-心智心理/疗法/INDEX.md) 的分工约定：
+> **以艺术媒介为核心**的疗法（绘画、沙盘、戏剧、舞动等）主目录在本枢纽；
+> **以心理技术为核心**的疗法（OH 卡牌、聚焦、游戏疗法、认知行为等）主目录在 02。
+> 两侧 INDEX 互设引用，不做物理双写。
+
+- 创意表达疗法（OH 卡牌/聚焦/游戏）→ [02-心智心理/疗法/创意表达/](../../02-心智心理/疗法/创意表达/INDEX.md)
+- 感官与自然疗法（森林/香气/感官）→ [02-心智心理/疗法/感官自然/](../../02-心智心理/疗法/感官自然/INDEX.md)（与本枢纽`自然荒野疗法/`互补：02 侧重感官机制，本侧侧重荒野实践）
+- 音乐与声音疗愈 → [../媒体/音乐/](../媒体/INDEX.md)、[../媒体/声音疗愈/](../媒体/INDEX.md)
+- 文学疗法 → [../文学/文学疗法/](../文学/INDEX.md)
+
+---
+
+*返回 [04-人文艺术/](../INDEX.md)*

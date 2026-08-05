@@ -27,8 +27,8 @@ tags: ["meditation"]
 
 ## 快速入口
 
-- [培训体系总览](../../基础/基础-Practitioner培训总览.md)
-- [职业发展指南](../../基础/基础-Professional职业发展.md)
+- [培训体系总览](../../基础/修行者培训/基础-Practitioner培训总览.md)
+- [职业发展指南](../../基础/专业执业/基础-Professional职业发展.md)
 - [商业模式分析](../../应用/应用-冥想商业Models.md)
-- [安全管理手册](../../基础/基础-Professional安全管理.md)
-- [教学法指南](../../基础/基础-Practitioner教学Methodology.md)
+- [安全管理手册](../../基础/专业执业/基础-Professional安全管理.md)
+- [教学法指南](../../基础/修行者培训/基础-Practitioner教学Methodology.md)

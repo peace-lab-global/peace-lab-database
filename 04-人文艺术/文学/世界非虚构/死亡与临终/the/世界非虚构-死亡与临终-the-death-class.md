@@ -20,7 +20,7 @@ cross_refs:
   relation: 死亡/临终
 - path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
   relation: 临终/死亡/death
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 死亡/临终/death
 - path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_25_Death_Meditation_Deep_Dive.md
   relation: 死亡/death/冥想

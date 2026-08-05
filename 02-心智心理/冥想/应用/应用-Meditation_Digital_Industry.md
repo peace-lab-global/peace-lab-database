@@ -130,5 +130,5 @@ cross_refs:
 
 - [冥想职业发展路径](应用-Meditation_Career_Pathways.md)
 - [冥想商业模式分析](应用-Meditation_Business_Models.md)
-- [冥想神经科学机制](../基础/基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [冥想与睡眠](../基础/基础-总览-Meditation_And_Sleep.md)
+- [冥想神经科学机制](../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md)
+- [冥想与睡眠](../基础/总览与理论/基础-总览-Meditation_And_Sleep.md)

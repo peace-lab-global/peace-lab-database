@@ -15,7 +15,7 @@ trigger_keywords:
 - 运动恢复与再生
 - cardiovascular
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-Professional_Holistic_Integration.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Holistic_Integration.md
   relation: 营养/运动/睡眠
 ---
 # 运动恢复与再生 (Recovery & Regeneration)

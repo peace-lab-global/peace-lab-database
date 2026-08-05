@@ -20,7 +20,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-抑郁-运动正念.md
   relation: 太极/bdnf/海马
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 ---
 # 太极与认知老化 | Tai Chi & Cognitive Aging

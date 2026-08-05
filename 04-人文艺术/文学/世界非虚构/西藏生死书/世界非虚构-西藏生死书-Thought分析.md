@@ -19,7 +19,7 @@ cross_refs:
   relation: 死亡/临终/佛教
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
   relation: 死亡/佛教
-- path: 03-生命科学/死亡/哲学文化-Death传统Views深研.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-Death传统Views深研.md
   relation: 死亡/临终/佛教
 - path: 01-智慧传统/哲学/西方哲学/二十世纪/西方哲学-二十世纪-continental-Buddhist_Perspective_Reviews.md
   relation: 死亡/佛教/力量

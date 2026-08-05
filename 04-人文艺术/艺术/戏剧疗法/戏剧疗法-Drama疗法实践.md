@@ -18,7 +18,7 @@ trigger_keywords:
 - Practice
 - Guide
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-Professional_Teaching_Practice.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Teaching_Practice.md
   relation: min/facilitation/实践
 ---
 # 戏剧疗愈实操指南 | Drama Therapy Practice Guide

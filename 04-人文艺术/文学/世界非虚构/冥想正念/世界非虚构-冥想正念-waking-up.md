@@ -17,9 +17,9 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/大师/传统-大师-行业领袖-Sam_Harris.md
   relation: waking/harris/sam
-- path: 02-心智心理/冥想/基础/基础-Professional_Digital_AI.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Digital_AI.md
   relation: waking/冥想/harris
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Core.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Core.md
   relation: waking/冥想/harris
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/作业与考试/C1-homework.md
   relation: 冥想/神经科学

@@ -18,11 +18,11 @@ trigger_keywords:
 - Deep
 - Dive
 cross_refs:
-- path: 03-生命科学/死亡/哲学文化-Death传统Views深研.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-Death传统Views深研.md
   relation: 死亡/dive/deep
 - path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-no死亡no恐惧.md
   relation: 死亡/死亡/正念
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 死亡/自杀/死亡
 - path: 04-人文艺术/文学/世界非虚构/死亡与临终/the/世界非虚构-死亡与临终-the-death-class.md
   relation: 死亡/死亡/冥想
@@ -602,7 +602,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

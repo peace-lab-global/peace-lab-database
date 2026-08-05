@@ -37,7 +37,7 @@ cross_refs: []
 - 全国心理援助热线:400-161-9995
 - 希望24热线:400-161-9995
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 [规范/CRISIS_RESOURCES.md](../规范/CRISIS_RESOURCES.md)
 
 ---
 
@@ -45,10 +45,10 @@ cross_refs: []
 
 | 专题 | 目录 | 文档数 | 核心模块 |
 |:-----|:-----|:------:|:---------|
-| [焦虑障碍](INDEX.md) | `Anxiety/` | 96 | 诊断、评估、药物、心理治疗、危机干预、共病、特殊人群、监测、督导 |
-| [抑郁障碍](INDEX.md) | `Depression/` | 64 | 诊断、评估、药物、冥想、共病、特殊人群（青少年/老年/围产期/季节性）、安全、督导 |
+| [焦虑障碍](焦虑/INDEX.md) | `Anxiety/` | 96 | 诊断、评估、药物、心理治疗、危机干预、共病、特殊人群、监测、督导 |
+| [抑郁障碍](抑郁/INDEX.md) | `Depression/` | 64 | 诊断、评估、药物、冥想、共病、特殊人群（青少年/老年/围产期/季节性）、安全、督导 |
 | [创伤与PTSD](创伤后应激/INDEX.md) | `Trauma-PTSD/` | 19 | DSM-5-TR/ICD-11 诊断鉴别、CPTSD、PCL-5/CAPS-5 评估、PE/CPT/EMDR/SE 干预、ACEs、道德伤害 |
-| [成瘾障碍](INDEX.md) | `Addiction/` | 17 | DSM-5-TR SUD 严重度、行为成瘾、赌博/游戏/社交媒体、MAT/CBT/MI/CM 治疗、复发预防与减少伤害 |
+| [成瘾障碍](成瘾/INDEX.md) | `Addiction/` | 17 | DSM-5-TR SUD 严重度、行为成瘾、赌博/游戏/社交媒体、MAT/CBT/MI/CM 治疗、复发预防与减少伤害 |
 | [进食障碍](进食障碍/INDEX.md) | `Eating-Disorders/` | 20 | AN/BN/BED/ARFID/OSFED 诊断、CBT-E/FBT/IPT/DBT 治疗、特殊人群、营养康复 **[NEW]** |
 | [人格障碍](人格障碍/INDEX.md) | `Personality-Disorders/` | 15 | DSM-5 十型/AMPD 维度模型、BPD/NPD/ASPD/AvPD/DPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]** |
 | [MBCT 正念认知疗法](正念认知/INDEX.md) | `MBCT/` | 30 | 课程、评估、神经科学、药物整合、冥想、安全、督导 |
@@ -73,14 +73,25 @@ cross_refs: []
 - 专题按**疾病/问题维度**组织，而非按学科维度
 - Agent Skills 嵌入在各专题的 `技能/` 子目录中
 
+### 🪞 与 02-心智心理/冥想/临床/ 的镜像分工
+
+> 两侧是同一临床知识的**双入口**，不做双写：
+>
+> | 入口 | 组织维度 | 内容边界 |
+> |---|---|---|
+> | **06-临床专题/**（本目录） | 按病种 | 诊断、评估、药物、全疗法谱系、督导——**临床主体** |
+> | [02-心智心理/冥想/临床/](../02-心智心理/冥想/临床/INDEX.md) | 按冥想干预技术 | 冥想/正念在各病种中的应用、MBSR/MBCT 课程实施、冥想安全性 |
+>
+> 病种级对应：焦虑↔临床病症/冥想焦虑；抑郁↔临床病症/抑郁系列；正念认知↔正念认知课程；睡眠障碍、成瘾、创伤同理。新增内容时：**临床诊疗内容归 06，冥想技术实施内容归 02**，另一侧只加引用。
+
 ---
 
 ## 快速导航
 
-- [焦虑障碍](INDEX.md) — GAD、惊恐、社交焦虑、OCD、PTSD 全体系
-- [抑郁障碍](INDEX.md) — MDD、双相抑郁、难治性抑郁
+- [焦虑障碍](焦虑/INDEX.md) — GAD、惊恐、社交焦虑、OCD、PTSD 全体系
+- [抑郁障碍](抑郁/INDEX.md) — MDD、双相抑郁、难治性抑郁
 - [创伤与PTSD](创伤后应激/INDEX.md) — PTSD/CPTSD 诊断、PE/CPT/EMDR/SE 干预、ACEs、道德伤害
-- [成瘾障碍](INDEX.md) — 物质/行为成瘾、赌博/游戏/社交媒体、MI、复发预防、减少伤害
+- [成瘾障碍](成瘾/INDEX.md) — 物质/行为成瘾、赌博/游戏/社交媒体、MI、复发预防、减少伤害
 - [进食障碍](进食障碍/INDEX.md) — AN/BN/BED/ARFID/OSFED、CBT-E/FBT、特殊人群 **[NEW]**
 - [人格障碍](人格障碍/INDEX.md) — DSM-5/AMPD、DBT/Schema/MBT/TFP/STEPPS **[NEW]**
 - [MBCT](正念认知/INDEX.md) — 8 周正念认知疗法课程与临床整合

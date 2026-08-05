@@ -39,4 +39,4 @@ cross_refs: []
 ## 延伸阅读
 
 - 完整课程版：[引导-系列12生活Transitions](../../../引导/引导-系列12生活Transitions.md)
-- 哀伤丧恸专题：[哀伤丧恸-Death哀伤Bridge](../../../../../03-生命科学/死亡/哀伤丧恸-Death哀伤Bridge.md)
+- 哀伤丧恸专题：[哀伤丧恸-Death哀伤Bridge](../../../../../03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death哀伤Bridge.md)

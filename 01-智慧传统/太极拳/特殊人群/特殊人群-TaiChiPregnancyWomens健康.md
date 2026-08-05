@@ -18,7 +18,7 @@ trigger_keywords:
 - 女性
 - 月经
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 - path: 03-生命科学/生物学/女性健康/女性健康-Womens健康总览.md
   relation: women/health

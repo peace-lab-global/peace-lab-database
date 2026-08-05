@@ -6,7 +6,7 @@ tags: ["clinical", "trauma", "ptsd", "therapy", "tf-cbt", "pe", "cpt", "emdr", "
 last_updated: "2026-07"
 ---
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。创伤聚焦治疗存在再创伤化风险,应在受过专门训练的治疗师指导下实施。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。创伤聚焦治疗存在再创伤化风险,应在受过专门训练的治疗师指导下实施。完整资源见 [规范/CRISIS_RESOURCES.md](../../规范/CRISIS_RESOURCES.md)。
 
 # 创伤循证干预
 

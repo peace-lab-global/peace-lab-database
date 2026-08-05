@@ -21,9 +21,9 @@ cross_refs:
   relation: 死亡/临终
 - path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
   relation: 临终/death/死亡
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 临终/死亡/death
-- path: 03-生命科学/死亡/哲学文化-Death传统Views深研.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-Death传统Views深研.md
   relation: 临终/死亡/death
 ---
 # 《维吉尔之死》The Death of Virgil

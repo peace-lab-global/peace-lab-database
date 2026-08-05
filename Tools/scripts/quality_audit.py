@@ -17,10 +17,14 @@ from collections import Counter, defaultdict
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github', 'node_modules',
                 '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
 
+# 同时兼容英文与中文路径（目录已中文化，但保留英文路径以防未来回退）
 CLINICAL_PATTERNS = [
     r'06-Clinical-Topics/.*\.md$',
+    r'06-临床专题/.*\.md$',
     r'02-Mind-Psychology/psychology/clinical/.*\.md$',
+    r'02-心智心理/心理学/临床/.*\.md$',
     r'02-Mind-Psychology/meditation/clinical/.*\.md$',
+    r'02-心智心理/冥想/临床/.*\.md$',
 ]
 
 CRISIS_KEYWORDS = [r'自杀', r'suicid', r'自残', r'self-?harm']
@@ -152,7 +156,7 @@ def audit():
         try:
             with open(p) as f:
                 content = f.read()
-            dois = re.findall(r'https?://doi\.org/[\w\./\-]+', content)
+            dois = re.findall(r'https?://doi\.org/[\w\.\-/]+', content)
             doi_count += len(dois)
         except:
             pass
@@ -225,10 +229,19 @@ def audit():
     
     # ========== 5. 合规性维度 ==========
     dim = {}
-    clinical_files = [p for p in files 
-                      if (os.path.relpath(p, '.').replace('./', '').startswith('06-Clinical-Topics/') or 
-                          '02-Mind-Psychology/psychology/clinical' in p or
-                          '02-Mind-Psychology/meditation/clinical' in p)]
+    
+    # 使用正则模式匹配临床文件路径（中英文兼容）
+    def is_clinical(path):
+        rel = os.path.relpath(path, '.').replace('./', '')
+        return any(re.search(pat, rel) for pat in CLINICAL_PATTERNS)
+    
+    clinical_files = [p for p in files if is_clinical(p)]
+    
+    # 兜底:如果正则未匹配到任何文件，用关键词匹配
+    if not clinical_files:
+        clinical_files = [p for p in files
+                          if ('06-临床专题' in p or '06-Clinical-Topics' in p or
+                              '/临床/' in p or '/clinical/' in p)]
     
     clinical_with_disclaimer = 0
     for p in clinical_files:

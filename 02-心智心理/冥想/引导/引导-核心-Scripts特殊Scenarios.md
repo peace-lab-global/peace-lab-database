@@ -256,4 +256,4 @@ cross_refs:
 - [身体扫描引导词脚本](引导-核心-Scripts身体Scan.md)
 - [慈心禅引导词脚本](引导-核心-Scripts慈爱善意.md)
 - [MBSR八周课程设计](../临床/正念减压课程/临床-正念减压课程-正念减压WeeklyCurriculum.md)
-- [冥想教学方法论](../基础/基础-Practitioner教学Methodology.md)
+- [冥想教学方法论](../基础/修行者培训/基础-Practitioner教学Methodology.md)

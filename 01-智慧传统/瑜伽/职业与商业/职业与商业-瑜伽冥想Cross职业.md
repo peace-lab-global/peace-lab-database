@@ -23,7 +23,7 @@ cross_refs:
   relation: 瑜伽/冥想/运动
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/线下精品课/直接认知冥想线下精品课：能量瑜伽.md
   relation: 瑜伽/冥想/体式
-- path: 02-心智心理/冥想/基础/基础-Professional_Holistic_Integration.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Holistic_Integration.md
   relation: 冥想/瑜伽/holistic
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-冥想.md
   relation: 冥想/瑜伽

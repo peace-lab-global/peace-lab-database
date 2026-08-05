@@ -21,7 +21,7 @@ cross_refs:
   relation: app/ai/ar
 - path: 02-心智心理/冥想/应用/应用-Meditation_Digital_Industry.md
   relation: app/industry/digital
-- path: 02-心智心理/冥想/基础/基础-Professional_Digital_AI.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Digital_AI.md
   relation: app/ai/vr
 ---
 # 瑜伽数字产业全景（Yoga Digital Industry）

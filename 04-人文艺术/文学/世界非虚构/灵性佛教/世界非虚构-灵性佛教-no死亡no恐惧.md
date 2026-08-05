@@ -24,7 +24,7 @@ cross_refs:
   relation: 死亡/fear/死亡
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Book_Review.md
   relation: 死亡/佛教/藏传
-- path: 03-生命科学/死亡/临床应用-Death评估Measures.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death评估Measures.md
   relation: 死亡/死亡/fear
 ---
 # 《你可以不怕死》No Death, No Fear

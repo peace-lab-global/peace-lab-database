@@ -9,11 +9,10 @@ auto_generated: true
 
 # 艺术疗法 | 艺术疗法
 
-> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **8 个直属文件**。
+> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **6 个直属文件**。
 
-## 📄 文件 | Files (8)
+## 📄 文件 | Files (6)
 
-- [RenaissanceArtists疗法.md](RenaissanceArtists疗法.md)
 - [艺术疗法-RenaissanceArtists疗法.md](艺术疗法-RenaissanceArtists疗法.md)
 - [艺术疗法-现代Artists疗法.md](艺术疗法-现代Artists疗法.md)
 - [艺术疗法-艺术疗法Terminology理论.md](艺术疗法-艺术疗法Terminology理论.md)

@@ -17,7 +17,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -441,8 +441,8 @@ ___________________________________________
 | MBCT é¡¹ç® | [../mbct-program/INDEX.md](INDEX.md) | å¯¹ç¼çç¸å³æé/ç¾é¾åçè®¤ç¥å¹²é¢ |
 | åä¼¤ç¥æå¥æ³ | [../safety/Meditation_Trauma_Sensitive.md](../安全/临床-安全-Meditation_Trauma_Sensitive.md) | ç¼çä¸åä¼¤å±çæ¶çå®å¨è°æ´ |
 | å¥æ³å®å¨ | [../safety/INDEX.md](../INDEX.md) | ç¼çæ£èçç¹æ®ä¸è¯ååº |
-| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../../基础/基础-总览-Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨èº¯ä½å»å­¦ä¸­çå®ä½ |
-| ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](../../基础/基础-总览-Meditation_Neuroscience_Mechanisms.md) | ç¼çç©éµä¸æ­£å¿µç¥ç»æºå¶ |
+| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨èº¯ä½å»å­¦ä¸­çå®ä½ |
+| ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) | ç¼çç©éµä¸æ­£å¿µç¥ç»æºå¶ |
 | å¼å¯¼è¯èæ¬ | [../guided-scripts/INDEX.md](INDEX.md) | ç¼çä¸ç¨å¼å¯¼è¯èµæº |
 
 ---
@@ -778,14 +778,14 @@ N - æ»å»: 'å°ææ¾å¨æççåºåï¼�
 ### ç¥è¯åºåé¨é¾æ¥
 
 - **MBSRé¡¹ç®**: [MBSR Program Overview](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) Â· [MBSRå«å¨è¯¾ç¨](../正念减压课程/临床-正念减压课程-MBSR_Weekly_Curriculum.md)
-- **ç¥ç»ç§å­¦æºå¶**: [å¥æ³ç¥ç»ç§å­¦æºå¶](../../基础/基础-总览-Meditation_Neuroscience_Mechanisms.md)
+- **ç¥ç»ç§å­¦æºå¶**: [å¥æ³ç¥ç»ç§å­¦æºå¶](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md)
 - **å®å¨ä¸ä¸è¯ååº**: [å¥æ³ä¸è¯ååº](../安全/临床-安全-Meditation_Adverse_Effects.md) Â· [åä¼¤ç¥æå¥æ³](../安全/临床-安全-Meditation_Trauma_Sensitive.md)
-- **ä¸´åºåºç¨æ»è§**: [å¥æ³ä¸´åºåºç¨è¯¦è¡¨](../../基础/基础-总览-Meditation_Clinical_Applications.md)
+- **ä¸´åºåºç¨æ»è§**: [å¥æ³ä¸´åºåºç¨è¯¦è¡¨](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md)
 - **ç¼çç§å­¦**: [ç¼çç§å­¦æ»è§](../../../../03-生命科学/生物学/疼痛科学/疼痛科学-疼痛科学总览.md) Â· [ç¼çå¿çå¹²é¢](../../../../03-生命科学/生物学/疼痛科学/疼痛科学-疼痛心理学干预.md)
 - **æ­¢è§ç¦å®**: [æ­¢è§çè®ºåºç¡](../../传统/佛教/止观/传统-佛教-止观-Samatha_Vipassana_Theory.md)
 - **å¼å¯¼è¯èæ¬**: [èº«ä½æ«æå¼å¯¼è¯](../../引导/引导-核心-Scripts身体Scan.md)
-- **ä¸»é¢å°å¾**: [ç¼ççæçæ](../../../../_meta/topic-maps/Pain_Healing_Ecosystem.md)
-- **å­¦ä¹ è·¯å¾**: [ç¼çç®¡çè·¯å¾](../../../../_meta/learning-paths/Pain_Management_Path.md)
+- **ä¸»é¢å°å¾**: [ç¼ççæçæ](../../../../Web/可视化/主题图谱/Pain_Healing_Ecosystem.md)
+- **å­¦ä¹ è·¯å¾**: [ç¼çç®¡çè·¯å¾](../../../../学习路径/Pain_Management_Path.md)
 
 ### å¤é¨å³é®èµæº
 

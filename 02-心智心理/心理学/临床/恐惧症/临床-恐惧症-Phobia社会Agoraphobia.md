@@ -13,7 +13,7 @@ intent_queries:
   - "社交恐惧症与广场恐惧症的方法与实践"
 trigger_keywords: ["社交恐惧症与广场恐惧症", "Social", "Anxiety", "Disorder", "Agoraphobia"]
 cross_refs:
-  - path: "03-生命科学/死亡/Death_Anxiety_Sudden_Death_Fear.md"
+  - path: "03-生命科学/死亡/死亡焦虑/死亡焦虑-Death焦虑SuddenDeathFear.md"
     relation: "恐惧/焦虑/焦虑"
   - path: "03-生命科学/性学/sexual焦虑中国/Terminology_Dictionary.md"
     relation: "焦虑/恐惧/焦虑"
@@ -21,7 +21,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 ------
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
 ---
 

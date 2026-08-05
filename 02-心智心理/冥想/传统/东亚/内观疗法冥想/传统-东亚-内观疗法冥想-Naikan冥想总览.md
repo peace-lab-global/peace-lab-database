@@ -849,7 +849,7 @@ graph TD
 
 - [MBSR正念减压](../../../临床/正念减压课程/临床-正念减压课程-正念减压Program总览.md) — 与内观对比的正念系统
 - [内观禅修](../../佛教/内观/INDEX.md) — 佛教内观（Vipassana）传统，与 Naikan 名称相近但方法不同
-- [正念行走概述](../../../基础/基础-步行冥想总览.md) — 可作为内观后的身体整合练习
+- [正念行走概述](../../../基础/动态与自然冥想/基础-步行冥想总览.md) — 可作为内观后的身体整合练习
 - [慈心禅](../../佛教/慈心冥想/INDEX.md) — 与内观的感恩主题互补的修习
 - [焦虑障碍](../../../临床/临床病症/临床-临床病症-冥想焦虑Disorders.md) — 内观辅助干预的临床应用
 - [抑郁症](../../../临床/临床病症/临床-临床病症-冥想抑郁.md) — 内观辅助干预的临床应用
@@ -883,7 +883,7 @@ graph TD
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

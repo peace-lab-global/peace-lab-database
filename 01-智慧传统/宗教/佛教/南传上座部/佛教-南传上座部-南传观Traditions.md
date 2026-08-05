@@ -17,7 +17,7 @@ trigger_keywords:
 - Vipassanā
 - Traditions
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Vipassana_Practice_Guide.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Vipassana_Practice_Guide.md
   relation: 内观/goenka/vipassan
 - path: 02-心智心理/冥想/传统/大师/传统-大师-西方先驱-SN_Goenka.md
   relation: vipassan/内观/goenka

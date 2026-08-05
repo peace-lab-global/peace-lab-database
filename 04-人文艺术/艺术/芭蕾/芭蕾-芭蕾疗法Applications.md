@@ -269,7 +269,7 @@ cross_refs:
 | 运动与心理健康 | 03-生命科学 | [运动心理](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E8%BF%90%E5%8A%A8%E7%A7%91%E5%AD%A6/%E8%BF%90%E5%8A%A8%E7%A7%91%E5%AD%A6-%E8%BF%90%E5%8A%A8%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7.md) | 芞蕾作为身心运动的神经科学基础 |
 | 瑜伽心理健康 | 01-智慧传承 | [瑜伽临床](../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E7%91%9C%E4%BC%BD/%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97/%E4%B8%B4%E5%BA%8A%E6%B2%BB%E7%96%97-%E7%91%9C%E4%BC%BD%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7%E4%B8%B4%E5%BA%8A.md) | 身体形式与心理干预的互补路径 |
 | 疼痛科学 | 03-生命科学 | [疼痛概览](../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E7%96%BC%E7%97%9B%E7%A7%91%E5%AD%A6/%E7%96%BC%E7%97%9B%E7%A7%91%E5%AD%A6-%E7%96%BC%E7%97%9B%E7%A7%91%E5%AD%A6%E6%80%BB%E8%A7%88.md) | 舞蹈运动对慢性疼痛的干预机制 |
-| 正念身心整合 | 05-实践增长 | [身心整合路径](../../../_meta/learning-paths/Body_Mind_Integration_Path.md) | 芞蕾在身心整合学习中的定位 |
+| 正念身心整合 | 05-实践增长 | [身心整合路径](../../../学习路径/Body_Mind_Integration_Path.md) | 芞蕾在身心整合学习中的定位 |
 
 ---
 
@@ -295,7 +295,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

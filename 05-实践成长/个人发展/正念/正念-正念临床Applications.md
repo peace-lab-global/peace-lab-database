@@ -17,7 +17,7 @@ trigger_keywords:
 - Clinical
 - Applications
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Clinical_Applications.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md
   relation: 正念/障碍/正念-based
 - path: 02-心智心理/冥想/传统/大师/传统-大师-西方先驱-Jon_Kabat_Zinn.md
   relation: 正念/mbsr/jon

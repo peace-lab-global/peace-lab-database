@@ -34,7 +34,7 @@
 
 ### 3. 内容质量提升（P4）
 - "manifest→显化"机器错译规范化：删除 7 个错译副本、重命名 3 个为 `_manifest`、修复 21 处引用
-- 剩余 45 个 <2KB 非 INDEX 文件经抽查确认为**功能性文件**（技能清单 manifest、课程周记模板、双语 INDEX_en、临床督导表格），按 `_meta/docs/STUB_POLICY.md` 保留
+- 剩余 45 个 <2KB 非 INDEX 文件经抽查确认为**功能性文件**（技能清单 manifest、课程周记模板、双语 INDEX_en、临床督导表格），按 `规范/STUB_POLICY.md` 保留
 - 注：评估报告中 "<2KB 占 12.5%" 的主体是 INDEX 导航页，去重压平后极薄内容文件问题已实质消解
 
 ### 4. 跨板块关联强化（P5）
@@ -58,14 +58,14 @@
 | 去重映射 | `Tools/data/governance-2026-07/dedup_mapping_2026-07.json` |
 | 压平映射（两轮） | `Tools/data/governance-2026-07/flatten_mapping_2026-07.json`、`..._r2.json` |
 | 链接健康度报告 | `Tools/reports/link_check_2026-07-27.md` |
-| 治理脚本归档（9 个，均支持 dry-run） | `Tools/scripts/governance-2026-07/`（含 README 与复检命令） |
+| 治理脚本归档（9 个，均支持 dry-run） | `Tools/scripts/archive/governance-2026-07/`（含 README 与复检命令） |
 
 ## 四、遗留事项与建议
 
 1. **手动删除** `07-Industry/`（仅剩 gitignored 的 `.qoder/` 元数据）
 2. 3 个宗教领域占位目录（伊斯兰/天主教/东正教）待内容补强，已列入压平豁免
-3. 参考文献覆盖率（13.5%）为内容深度长期改进项，建议按 `_meta/rct-evidence-template.md` 逐步补齐临床类文档引文
-4. 建议将 `Tools/scripts/governance-2026-07/check_links_2026.py` 与 `index_coverage_2026.py` 纳入 `.github/workflows/quality.yml` 作为 CI 质量门禁
+3. 参考文献覆盖率（13.5%）为内容深度长期改进项，建议按 `08-跨领域研究/rct-evidence-template.md` 逐步补齐临床类文档引文
+4. 建议将 `Tools/scripts/archive/governance-2026-07/check_links_2026.py` 与 `index_coverage_2026.py` 纳入 `.github/workflows/quality.yml` 作为 CI 质量门禁
 
 ---
 

@@ -19,7 +19,7 @@ trigger_keywords:
 - Ecology
 - of
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_General.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_General.md
   relation: bind/mind/double
 ---
 # 《心智生态学》Steps to an Ecology of Mind

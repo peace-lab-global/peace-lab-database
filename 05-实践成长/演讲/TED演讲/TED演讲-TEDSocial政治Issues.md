@@ -144,7 +144,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-生命科学/死亡/哲学文化-Death存在心理学.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
+| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-生命科学/死亡/哲学文化/哲学文化-Death存在心理学.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
 | **William Li** | Can we eat to starve cancer? | 2010 | 通过饮食抗癌 | [公共健康](TED演讲-框架Public健康.md) | 17:28 | [观看](https://www.ted.com/talks/william_li_can_we_eat_to_starve_cancer) |
 
 ---

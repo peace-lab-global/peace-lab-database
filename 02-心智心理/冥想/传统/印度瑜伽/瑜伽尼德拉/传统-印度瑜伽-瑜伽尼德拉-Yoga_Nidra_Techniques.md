@@ -464,7 +464,7 @@ cross_refs:
 - [瑜伽尼德拉科学机制](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Science.md)
 - [瑜伽尼德拉临床应用](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Clinical_Applications.md)
 - [身体扫描](../../../引导/引导-核心-Scripts身体Scan.md)
-- [冥想与睡眠](../../../基础/基础-总览-Meditation_And_Sleep.md)
+- [冥想与睡眠](../../../基础/总览与理论/基础-总览-Meditation_And_Sleep.md)
 
 ---
 

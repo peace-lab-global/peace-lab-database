@@ -20,7 +20,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/临床/安全/临床-安全-Meditation_Adverse_Effects.md
   relation: adverse/effects/emergency
-- path: 02-心智心理/冥想/基础/基础-Professional_Safety_Management.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Safety_Management.md
   relation: adverse/effects/management
 ---
 # 瑜伽不良反应与风险管理（Yoga Adverse Effects & Risk Management）

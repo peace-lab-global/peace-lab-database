@@ -17,7 +17,7 @@ trigger_keywords:
 - Funeral
 - Rites
 cross_refs:
-- path: 03-生命科学/死亡/哲学文化-Death传统Views深研.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-Death传统Views深研.md
   relation: mara/死亡/临终
 ---
 # 南传佛教丧葬超度仪轨 (Theravada Funeral Rites)

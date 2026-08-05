@@ -1,140 +1,40 @@
 ---
-title: "基础 | 基础"
-description: "目录索引 —— 列出本目录的子目录与文件清单"
-category: "目录索引"
-tags: ["index", "directory"]
-last_updated: "2026-07-17"
-auto_generated: true
+title: "冥想基础 | Meditation Foundations"
+description: "枢纽目录 —— 冥想基础知识按六大主题分组织"
+category: "枢纽目录"
+tags: ["index", "hub", "meditation-foundations"]
+last_updated: "2026-07-30"
 ---
 
-# 基础 | 基础
+# 冥想基础 | Meditation Foundations
 
-> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **124 个直属文件**。
+> **枢纽目录（Hub Directory）**：本目录不直接存放内容文档，
+> 原 117 个平铺文件已按主题归入以下六个子目录（2026-07 结构治理）。
 
-## 📄 文件 | Files (124)
+## 📁 子目录 | Subdirectories
 
-- [基础-Meditation_Apps_Professional_Analysis.md](%E5%9F%BA%E7%A1%80-%E5%86%A5%E6%83%B3AppsProfessional%E5%88%86%E6%9E%90.md)
-- [基础-Nature_Meditation_Overview.md](基础-Nature_Meditation_Overview.md)
-- [基础-Nature_Practical_Guide.md](%E5%9F%BA%E7%A1%80-Nature%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.md)
-- [基础-Nature冥想总览.md](基础-Nature冥想总览.md)
-- [基础-Nature实用指南.md](基础-Nature实用指南.md)
-- [基础-Practitioner_Assessment_Progression.md](基础-Practitioner_Assessment_Progression.md)
-- [基础-Practitioner_Certification_Comparison.md](基础-Practitioner_Certification_Comparison.md)
-- [基础-Practitioner_Ethics_Standards.md](%E5%9F%BA%E7%A1%80-Practitioner%E4%BC%A6%E7%90%86Standards.md)
-- [基础-Practitioner_Teaching_Methodology.md](%E5%9F%BA%E7%A1%80-Practitioner%E6%95%99%E5%AD%A6Methodology.md)
-- [基础-Practitioner_Training_Overview.md](基础-Practitioner_Training_Overview.md)
-- [基础-Practitioner伦理Standards.md](基础-Practitioner伦理Standards.md)
-- [基础-Practitioner培训总览.md](基础-Practitioner培训总览.md)
-- [基础-Practitioner教学Methodology.md](基础-Practitioner教学Methodology.md)
-- [基础-Practitioner评估Progression.md](基础-Practitioner评估Progression.md)
-- [基础-ProfessionalClient关系.md](基础-ProfessionalClient关系.md)
-- [基础-ProfessionalHolistic整合.md](基础-ProfessionalHolistic整合.md)
-- [基础-ProfessionalInternational实践.md](基础-ProfessionalInternational实践.md)
-- [基础-ProfessionalOperations管理.md](基础-ProfessionalOperations管理.md)
-- [基础-Professional_Advanced_Techniques.md](基础-Professional_Advanced_Techniques.md)
-- [基础-Professional_Branding_Marketing.md](基础-Professional_Branding_Marketing.md)
-- [基础-Professional_Career_Development.md](基础-Professional_Career_Development.md)
-- [基础-Professional_Client_Relations.md](基础-Professional_Client_Relations.md)
-- [基础-Professional_Digital_AI.md](基础-Professional_Digital_AI.md)
-- [基础-Professional_Ethics_Legal.md](基础-Professional_Ethics_Legal.md)
-- [基础-Professional_Exam_Certification.md](基础-Professional_Exam_Certification.md)
-- [基础-Professional_Holistic_Integration.md](基础-Professional_Holistic_Integration.md)
-- [基础-Professional_International_Practice.md](基础-Professional_International_Practice.md)
-- [基础-Professional_Operations_Management.md](基础-Professional_Operations_Management.md)
-- [基础-Professional_Research_Evidence.md](基础-Professional_Research_Evidence.md)
-- [基础-Professional_Safety_Management.md](基础-Professional_Safety_Management.md)
-- [基础-Professional_Self_Cultivation.md](基础-Professional_Self_Cultivation.md)
-- [基础-Professional_Special_Contexts.md](基础-Professional_Special_Contexts.md)
-- [基础-Professional_Teaching_Practice.md](基础-Professional_Teaching_Practice.md)
-- [基础-Professional伦理Legal.md](基础-Professional伦理Legal.md)
-- [基础-Professional安全管理.md](基础-Professional安全管理.md)
-- [基础-Professional教学实践.md](基础-Professional教学实践.md)
-- [基础-Professional数字AI.md](基础-Professional数字AI.md)
-- [基础-Professional研究循证.md](基础-Professional研究循证.md)
-- [基础-Professional职业发展.md](基础-Professional职业发展.md)
-- [基础-Professional高阶技术.md](基础-Professional高阶技术.md)
-- [基础-Walking_Meditation_Overview.md](基础-Walking_Meditation_Overview.md)
-- [基础-Walking_Meditation_Techniques.md](基础-Walking_Meditation_Techniques.md)
-- [基础-专业ExamCertification.md](基础-专业ExamCertification.md)
-- [基础-专业品牌Marketing.md](基础-专业品牌Marketing.md)
-- [基础-专业手册_INDEX.md](基础-专业手册_INDEX.md)
-- [基础-专业特殊Contexts.md](基础-专业特殊Contexts.md)
-- [基础-专业自我Cultivation.md](基础-专业自我Cultivation.md)
-- [基础-修行者培训_INDEX.md](基础-修行者培训_INDEX.md)
-- [基础-冥想AppsProfessional分析.md](基础-冥想AppsProfessional分析.md)
-- [基础-实践者CertificationComparison.md](基础-实践者CertificationComparison.md)
-- [基础-工具-Meditation_Journal_Template.md](基础-工具-Meditation_Journal_Template.md)
-- [基础-工具-Meditation_Safety_Screening.md](基础-工具-Meditation_Safety_Screening.md)
-- [基础-工具-冥想安全Screening.md](基础-工具-冥想安全Screening.md)
-- [基础-工具-冥想日志模板.md](基础-工具-冥想日志模板.md)
-- [基础-总览-ChildrenYouth冥想.md](基础-总览-ChildrenYouth冥想.md)
-- [基础-总览-Children_Youth_Meditation.md](基础-总览-Children_Youth_Meditation.md)
-- [基础-总览-Meditation_Accessibility_Disability_Guide.md](基础-总览-Meditation_Accessibility_Disability_Guide.md)
-- [基础-总览-Meditation_Advanced.md](基础-总览-Meditation_Advanced.md)
-- [基础-总览-Meditation_And_Sleep.md](基础-总览-Meditation_And_Sleep.md)
-- [基础-总览-Meditation_Applications.md](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3Applications.md)
-- [基础-总览-Meditation_Assessment_Methodology_Supplement.md](基础-总览-Meditation_Assessment_Methodology_Supplement.md)
-- [基础-总览-Meditation_Assessment_Tools.md](基础-总览-Meditation_Assessment_Tools.md)
-- [基础-总览-Meditation_Brain_Science_Foundations.md](基础-总览-Meditation_Brain_Science_Foundations.md)
-- [基础-总览-Meditation_Clinical_Applications.md](基础-总览-Meditation_Clinical_Applications.md)
-- [基础-总览-Meditation_Commercialization_Critique.md](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3Commercialization%E6%89%B9%E5%88%A4.md)
-- [基础-总览-Meditation_Core.md](基础-总览-Meditation_Core.md)
-- [基础-总览-Meditation_Documentary_Guide.md](基础-总览-Meditation_Documentary_Guide.md)
-- [基础-总览-Meditation_General.md](基础-总览-Meditation_General.md)
-- [基础-总览-Meditation_Habit_Formation_Guide.md](基础-总览-Meditation_Habit_Formation_Guide.md)
-- [基础-总览-Meditation_Interoception_Guide.md](基础-总览-Meditation_Interoception_Guide.md)
-- [基础-总览-Meditation_Level_Ability_Assessment_Standard.md](基础-总览-Meditation_Level_Ability_Assessment_Standard.md)
-- [基础-总览-Meditation_Mind_Management.md](基础-总览-Meditation_Mind_Management.md)
-- [基础-总览-Meditation_Neuroscience_Mechanisms.md](基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [基础-总览-Meditation_Philosophical_Foundations.md](基础-总览-Meditation_Philosophical_Foundations.md)
-- [基础-总览-Meditation_Practice_Techniques.md](基础-总览-Meditation_Practice_Techniques.md)
-- [基础-总览-Meditation_Practitioner_QA.md](基础-总览-Meditation_Practitioner_QA.md)
-- [基础-总览-Meditation_Pregnancy.md](基础-总览-Meditation_Pregnancy.md)
-- [基础-总览-Meditation_Resources.md](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E8%B5%84%E6%BA%90.md)
-- [基础-总览-Meditation_Retreat_Guide.md](基础-总览-Meditation_Retreat_Guide.md)
-- [基础-总览-Meditation_Seniors_Elderly.md](基础-总览-Meditation_Seniors_Elderly.md)
-- [基础-总览-Meditation_Types_Classification.md](基础-总览-Meditation_Types_Classification.md)
-- [基础-总览-Movement_Meditation.md](基础-总览-Movement_Meditation.md)
-- [基础-总览-Movement冥想.md](基础-总览-Movement冥想.md)
-- [基础-总览-TM_Research_Evidence.md](基础-总览-TM_Research_Evidence.md)
-- [基础-总览-TM研究循证.md](基础-总览-TM研究循证.md)
-- [基础-总览-Vipassana_Practice_Guide.md](基础-总览-Vipassana_Practice_Guide.md)
-- [基础-总览-冥想AccessibilityDisability指南.md](基础-总览-冥想AccessibilityDisability指南.md)
-- [基础-总览-冥想And睡眠.md](基础-总览-冥想And睡眠.md)
-- [基础-总览-冥想Applications.md](基础-总览-冥想Applications.md)
-- [基础-总览-冥想Brain科学基础.md](基础-总览-冥想Brain科学基础.md)
-- [基础-总览-冥想Commercialization批判.md](基础-总览-冥想Commercialization批判.md)
-- [基础-总览-冥想Documentary指南.md](基础-总览-冥想Documentary指南.md)
-- [基础-总览-冥想General.md](基础-总览-冥想General.md)
-- [基础-总览-冥想HabitFormation指南.md](基础-总览-冥想HabitFormation指南.md)
-- [基础-总览-冥想Interoception指南.md](基础-总览-冥想Interoception指南.md)
-- [基础-总览-冥想LevelAbility评估Standard.md](基础-总览-冥想LevelAbility评估Standard.md)
-- [基础-总览-冥想PractitionerQA.md](基础-总览-冥想PractitionerQA.md)
-- [基础-总览-冥想Pregnancy.md](基础-总览-冥想Pregnancy.md)
-- [基础-总览-冥想SeniorsElderly.md](基础-总览-冥想SeniorsElderly.md)
-- [基础-总览-冥想TypesClassification.md](基础-总览-冥想TypesClassification.md)
-- [基础-总览-冥想临床Applications.md](基础-总览-冥想临床Applications.md)
-- [基础-总览-冥想哲学基础.md](基础-总览-冥想哲学基础.md)
-- [基础-总览-冥想实践技术.md](基础-总览-冥想实践技术.md)
-- [基础-总览-冥想心智管理.md](基础-总览-冥想心智管理.md)
-- [基础-总览-冥想批判_INDEX.md](基础-总览-冥想批判_INDEX.md)
-- [基础-总览-冥想核心.md](基础-总览-冥想核心.md)
-- [基础-总览-冥想神经科学Mechanisms.md](基础-总览-冥想神经科学Mechanisms.md)
-- [基础-总览-冥想评估MethodologySupplement.md](基础-总览-冥想评估MethodologySupplement.md)
-- [基础-总览-冥想评估工具.md](基础-总览-冥想评估工具.md)
-- [基础-总览-冥想资源.md](基础-总览-冥想资源.md)
-- [基础-总览-冥想静修指南.md](基础-总览-冥想静修指南.md)
-- [基础-总览-冥想高阶.md](基础-总览-冥想高阶.md)
-- [基础-总览-可视化-Assessment_Report_Template.md](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%8F%AF%E8%A7%86%E5%8C%96-%E8%AF%84%E4%BC%B0%E6%8A%A5%E5%91%8A%E6%A8%A1%E6%9D%BF.md)
-- [基础-总览-可视化-QuickReference指南.md](基础-总览-可视化-QuickReference指南.md)
-- [基础-总览-可视化-Quick_Reference_Guide.md](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%8F%AF%E8%A7%86%E5%8C%96-QuickReference%E6%8C%87%E5%8D%97.md)
-- [基础-总览-可视化-评估报告模板.md](基础-总览-可视化-评估报告模板.md)
-- [基础-总览-纪录片_INDEX.md](基础-总览-纪录片_INDEX.md)
-- [基础-总览-观实践指南.md](基础-总览-观实践指南.md)
-- [基础-技术_INDEX.md](基础-技术_INDEX.md)
-- [基础-步行冥想总览.md](基础-步行冥想总览.md)
-- [基础-步行冥想技术.md](基础-步行冥想技术.md)
-- [基础-自然冥想_INDEX.md](基础-自然冥想_INDEX.md)
-- [基础-行禅_INDEX.md](基础-行禅_INDEX.md)
+| 子目录 | 主题范围 | 文档数 |
+|---|---|---|
+| [总览与理论/](总览与理论/INDEX.md) | 冥想核心概念、类型分类、哲学基础、脑科学与神经科学机制、批判性视角 | 42 |
+| [专业执业/](专业执业/INDEX.md) | 冥想professional执业：伦理法务、运营管理、职业发展、数字化与AI | 32 |
+| [修行者培训/](修行者培训/INDEX.md) | Practitioner 培训体系：教学方法论、评估进阶、认证比较、伦理标准 | 9 |
+| [评估与工具/](评估与工具/INDEX.md) | 冥想评估工具、能力等级标准、日志模板、安全筛查、可视化仪表盘 | 14 |
+| [动态与自然冥想/](动态与自然冥想/INDEX.md) | 步行冥想（行禅）、动态冥想、自然冥想 | 11 |
+| [特定人群/](特定人群/INDEX.md) | 儿童青少年、孕期、老年人、无障碍与残障人群冥想 | 8 |
 
-*自动生成于 2026-07-17 22:34*
+## 🧭 组织逻辑 | Organization Logic
+
+- **学习者路径**：总览与理论 → 评估与工具 → 动态与自然冥想 / 特定人群
+- **从业者路径**：修行者培训 → 专业执业
+- 中英文双语版本文件（`*_Overview.md` 与 `*总览.md`）成对存放于同一子目录
+
+## 🔗 跨域引用 | Cross References
+
+- 临床应用视角 → [../临床/](../临床/INDEX.md)（冥想临床枢纽）
+- 传统流派视角 → [../传统/](../传统/INDEX.md)
+- 引导词与实操 → [../引导/](../引导/INDEX.md)
+- 临床干预主入口 → [06-临床专题/正念认知/](../../../06-临床专题/正念认知/INDEX.md)
+
+---
+
+*返回 [冥想/](../INDEX.md) | 上级:[02-心智心理/](../../INDEX.md)*

@@ -18,7 +18,7 @@ trigger_keywords:
 - After
 - Life
 cross_refs:
-- path: 03-生命科学/死亡/临终关怀-死亡NDENear死亡Experience.md
+- path: 03-生命科学/死亡/临终关怀/临终关怀-死亡NDENear死亡Experience.md
   relation: nde/near-死亡/experience
 ---
 # 《死后的生命》Life After Life

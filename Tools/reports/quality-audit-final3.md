@@ -73,4 +73,4 @@
 ---
 
 **报告生成**:Tools/scripts/quality_audit.py
-**审计规范**:_meta/docs/QUALITY_AUDIT.md
+**审计规范**:规范/QUALITY_AUDIT.md

@@ -352,9 +352,9 @@ cross_refs: []
 
 ## 相关链接
 
-- [冥想水平与能力评估总纲](../../../基础/基础-总览-冥想LevelAbility评估Standard.md) — 跨传统通用评估框架
-- [冥想评估量表与工具](../../../基础/基础-总览-冥想评估工具.md) — NADA、MEQ等量表使用指南
-- [执行师评估与进阶](../../../基础/基础-Practitioner评估Progression.md) — 教学胜任力评估
+- [冥想水平与能力评估总纲](../../../基础/评估与工具/基础-总览-冥想LevelAbility评估Standard.md) — 跨传统通用评估框架
+- [冥想评估量表与工具](../../../基础/评估与工具/基础-总览-冥想评估工具.md) — NADA、MEQ等量表使用指南
+- [执行师评估与进阶](../../../基础/修行者培训/基础-Practitioner评估Progression.md) — 教学胜任力评估
 - [直接认知理论基础](传统-佛教-直接认知-冥想DirectRecognition基础.md)
 - [直接认知神经科学](传统-佛教-直接认知-冥想DirectRecognition神经科学.md)
 - [直接认知与正念对比](传统-佛教-直接认知-冥想DirectRecognitionvs正念.md)

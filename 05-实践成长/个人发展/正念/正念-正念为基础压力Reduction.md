@@ -26,7 +26,7 @@ cross_refs:
   relation: mbsr/reduction/kabat-zinn
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-全然的生活灾难.md
   relation: mbsr/catastrophe/full
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Clinical_Applications.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md
   relation: mbsr/reduction/正念-based
 ---
 # 正念减压疗法 (Mindfulness-Based Stress Reduction, MBSR)
@@ -566,7 +566,7 @@ Jon Kabat-Zinn识别的正念修习基础态度:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

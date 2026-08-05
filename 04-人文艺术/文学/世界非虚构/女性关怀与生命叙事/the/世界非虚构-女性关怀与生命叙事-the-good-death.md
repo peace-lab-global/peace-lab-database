@@ -19,9 +19,9 @@ cross_refs:
   relation: 临终/hospice/death
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/临终
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 临终/自杀/死亡
-- path: 03-生命科学/死亡/哲学文化-Death文化仪轨Comparison.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-Death文化仪轨Comparison.md
   relation: 临终/good/death
 ---
 # 《善终》The Good Death
@@ -104,7 +104,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

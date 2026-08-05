@@ -20,7 +20,7 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/临终
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 死亡/death/临终
 - path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
   relation: 死亡/临终/death
@@ -103,7 +103,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

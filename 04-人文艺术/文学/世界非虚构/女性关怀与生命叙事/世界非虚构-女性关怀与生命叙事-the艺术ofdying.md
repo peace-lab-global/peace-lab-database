@@ -22,9 +22,9 @@ cross_refs:
   relation: 死亡/临终
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/INDEX.md
   relation: dying/死亡/临终
-- path: 03-生命科学/死亡/教育实践-死亡课程AlignmentAudit.md
+- path: 03-生命科学/死亡/教育实践/教育实践-死亡课程AlignmentAudit.md
   relation: dying/死亡/临终
-- path: 03-生命科学/死亡/临终关怀-死亡NDENear死亡Experience.md
+- path: 03-生命科学/死亡/临终关怀/临终关怀-死亡NDENear死亡Experience.md
   relation: nde/临终/死亡
 ---
 # 《死亡的艺术》The Art of Dying

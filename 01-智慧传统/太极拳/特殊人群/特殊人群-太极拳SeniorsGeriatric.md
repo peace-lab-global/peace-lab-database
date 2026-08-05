@@ -18,7 +18,7 @@ trigger_keywords:
 - 关节
 - 慢病
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 ---
 # 老年人群太极 | Tai Chi for Seniors

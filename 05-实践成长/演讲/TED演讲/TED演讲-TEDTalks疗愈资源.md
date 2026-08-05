@@ -52,7 +52,7 @@ cross_refs: []
 |-------|---------|------|----------|------------|------|----------|
 | **Jill Bolte Taylor** | My stroke of insight | 2008 | 脑科学家中风后的觉醒 | [神经科学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Cognition.md) | 18:44 | [观看](https://www.ted.com/talks/jill_bolte_taylor_my_stroke_of_insight) |
 | **Lara Boyd** | After watching this, your brain will not be the same | 2015 | 神经可塑性如何改变人生 | [神经可塑性](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Cognition.md) | 14:25 | [观看](https://www.youtube.com/watch?v=LNHBMFCzznE) |
-| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-心智心理/冥想/基础/基础-总览-冥想神经科学Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想神经科学Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 | **Sarah McKay** | What happens to your brain when you pay attention | 2018 | 注意力神经机制 | [认知科学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Cognition.md) | 12:52 | [观看](https://www.youtube.com/watch?v=crunbgL_9sI) |
 
 ### 2.3 情绪与心理健康
@@ -82,7 +82,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](../../../02-心智心理/冥想/基础/基础-总览-冥想核心.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
+| **Matthieu Ricard** | The habits of happiness | 2004 | "世界最快乐的人"谈冥想 | [冥想核心](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想核心.md) | 20:41 | [观看](https://www.ted.com/talks/matthieu_ricard_the_habits_of_happiness) |
 | **Dan Harris** | Hack your brain's default mode with meditation | 2019 | 冥想改变默认模式网络 | [DMN](../../../03-生命科学/生物学/脑科学/脑科学-脑默认模式网络默认模式网络.md) | 11:14 | [观看](https://www.youtube.com/watch?v=wfDTp2GogaQ) |
 | **Sam Harris** | It's now or never | 2018 | 正念哲学家的洞见 | [不二论](../../../02-心智心理/冥想/传统/佛教/直接认知/传统-佛教-直接认知-冥想DirectRecognition基础.md) | 14:07 | [观看](https://www.youtube.com/watch?v=CvKZj5watlas) |
 | **Yuval Harari** | Nationalism vs. globalism | 2017 | 历史学家谈内观禅修 | [内观禅修](../../../02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-观冥想.md) | 19:04 | [观看](https://www.ted.com/talks/yuval_noah_harari_nationalism_vs_globalism_the_new_political_divide) |
@@ -94,7 +94,7 @@ cross_refs: []
 | **Pema Chödrön** | How to practice mindfulness | 2014 | 藏传佛教尼师的正念教导 | [佛教正念](../../../01-智慧传统/宗教/佛教/心理学/佛教-心理学-佛教正念疗法整合.md) | 16:45 | [观看](https://www.youtube.com/watch?v=sgpa-HNt2aA) |
 | **Robert Thurman** | Expanding your circle of compassion | 2006 | 西方首位藏传僧人谈慈悲 | [四无量心](../../../01-智慧传统/宗教/佛教/基础/佛教-基础-佛教Four四无量心.md) | 21:12 | [观看](https://www.ted.com/talks/robert_thurman_expanding_your_circle_of_compassion) |
 | **Thích Nhất Hạnh** | How to eat mindfully | 2013 | 一行禅师正念饮食教导 | [正念日常](../../个人发展/正念/正念日常生活/正念-正念日常生活-正念DailyLiving.md) | 8:34 | [观看](https://www.youtube.com/watch?v=wk4xRqsMt7Q) |
-| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-心智心理/冥想/基础/基础-总览-冥想核心.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
+| **Mingyur Rinpoche** | The essence of meditation | 2011 | 明就仁波切禅修要诀 | [冥想核心](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想核心.md) | 19:23 | [观看](https://www.youtube.com/watch?v=nOJTbWC-ULc) |
 
 ---
 
@@ -156,8 +156,8 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **BJ Miller** | What really matters at the end of life | 2015 | 临终关怀医生的生死智慧 | [临终关怀](../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E4%BD%9B%E6%95%99-%E5%87%80%E5%9C%9F-%E4%BD%9B%E6%95%99PureLand%E5%AE%9E%E8%B7%B5.md) | 19:32 | [观看](https://www.ted.com/talks/bj_miller_what_really_matters_at_the_end_of_life) |
-| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-生命科学/死亡/哲学文化-Death存在心理学.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
-| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-生命科学/死亡/死亡焦虑-Death焦虑总览.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
+| **Kathryn Mannix** | Dying isn't scary — but our fear of it is | 2018 | 缓和医疗专家谈死亡真相 | [死亡观](../../../03-生命科学/死亡/哲学文化/哲学文化-Death存在心理学.md) | 13:45 | [观看](https://www.youtube.com/watch?v=dAPT9p1r3mA) |
+| **Alua Arthur** | What to do when you don't know what to do | 2020 | 死亡助产士谈死亡准备 | [死亡焦虑](../../../03-生命科学/死亡/死亡焦虑/死亡焦虑-Death焦虑总览.md) | 14:22 | [观看](https://www.youtube.com/watch?v=X1DKCH_sigM) |
 
 ---
 
@@ -168,7 +168,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Martin Seligman** | The new era of positive psychology | 2004 | 积极心理学之父演讲 | [积极心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学流派Theories.md) | 23:42 | [观看](https://www.ted.com/talks/martin_seligman_the_new_era_of_positive_psychology) |
-| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](../../../02-心智心理/冥想/基础/基础-总览-冥想Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
+| **Shawn Achor** | The happy secret to better work | 2011 | 幸福与工作表现 | [职场应用](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想Applications.md) | 12:20 | [观看](https://www.ted.com/talks/shawn_achor_the_happy_secret_to_better_work) |
 | **Dan Gilbert** | The surprising science of happiness | 2004 | 综合幸福vs自然幸福 | [情感心理学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学情绪.md) | 21:20 | [观看](https://www.ted.com/talks/dan_gilbert_the_surprising_science_of_happiness) |
 | **Robert Waldinger** | What makes a good life? Lessons from the longest study on happiness | 2015 | 哈佛75年幸福研究 | [人际关系](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Social.md) | 12:46 | [观看](https://www.ted.com/talks/robert_waldinger_what_makes_a_good_life_lessons_from_the_longest_study_on_happiness) |
 
@@ -311,7 +311,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Daniel Goleman** | Why aren't we more compassionate? | 2007 | 情商之父谈慈悲教育 | [情商](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学情绪.md) | 13:05 | [观看](https://www.ted.com/talks/daniel_goleman_why_aren_t_we_more_compassionate) |
-| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](../../../02-心智心理/冥想/基础/基础-总览-冥想Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How to build a healthy mind | 2019 | 儿童冥想教育 | [冥想教育](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想Applications.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---
 
@@ -329,7 +329,7 @@ cross_refs: []
 
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
-| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-生命科学/死亡/哲学文化-Death存在心理学.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
+| **Candy Chang** | Before I die I want to... | 2012 | 公共艺术与死亡对话 | [死亡观](../../../03-生命科学/死亡/哲学文化/哲学文化-Death存在心理学.md) | 6:24 | [观看](https://www.ted.com/talks/candy_chang_before_i_die_i_want_to) |
 | **Ze Frank** | Are you human? | 2014 | 艺术创作与情感疗愈 | [艺术疗法](../../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官ArtsNature.md) | 5:24 | [观看](https://www.ted.com/talks/ze_frank_are_you_human) |
 
 ---
@@ -369,7 +369,7 @@ cross_refs: []
 |------|--------------|---------|------------|
 | **大脑科学** | How your brain works系列 | 初学者 | [神经科学](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学Cognition.md) |
 | **心理学概念** | Psychology 101系列 | 学生 | [心理学理论](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学TheoriesExperiments.md) |
-| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](../../../02-心智心理/冥想/基础/基础-总览-冥想General.md) |
+| **冥想原理** | Meditation explained系列 | 入门者 | [冥想概论](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想General.md) |
 | **情绪管理** | Emotional intelligence系列 | 所有人 | [情绪心理](../../../02-心智心理/心理学/基础/总览/基础-总览-心理学情绪.md) |
 
 ---
@@ -510,7 +510,7 @@ cross_refs: []
 | Day 4-7 | Jon Kabat-Zinn: Mindfulness | 身体扫描练习 | [MBSR](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) |
 | Day 8-12 | Shauna Shapiro: Power of mindfulness | 正念行走 | [正念日常](../../个人发展/正念/正念日常生活/正念-正念日常生活-正念DailyLiving.md) |
 | Day 13-18 | Tara Brach: RAIN technique | RAIN技术练习 | [自我慈悲](../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80SelfCare.md) |
-| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-心智心理/冥想/基础/基础-总览-冥想核心.md) |
+| Day 19-25 | Dan Harris: Hack your brain | 冥想习惯养成 | [冥想核心](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想核心.md) |
 | Day 26-30 | Matthieu Ricard: Habits of happiness | 慈心禅修持 | [四无量心](../../../01-智慧传统/宗教/佛教/基础/佛教-基础-佛教Four四无量心.md) |
 
 ### 22.2 创伤疗愈系列

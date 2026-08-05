@@ -441,8 +441,8 @@ graph TD
 - [冥想与亲密关系](应用-Meditation_Intimacy_Relationships.md)
 - [冥想与运动表现](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3SportsPerformance.md)
 - [冥想与创造力/艺术](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3CreativityFlow.md)
-- [冥想核心基础](../基础/基础-总览-Meditation_Core.md)
-- [内感受与冥想指南](../基础/基础-总览-Meditation_Interoception_Guide.md)
+- [冥想核心基础](../基础/总览与理论/基础-总览-Meditation_Core.md)
+- [内感受与冥想指南](../基础/总览与理论/基础-总览-Meditation_Interoception_Guide.md)
 - [慈心禅概述](../%E4%BC%A0%E7%BB%9F/%E4%BD%9B%E6%95%99/%E6%85%88%E5%BF%83%E5%86%A5%E6%83%B3/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E6%85%88%E5%BF%83%E5%86%A5%E6%83%B3-Metta%E6%85%88%E7%88%B1%E5%96%84%E6%84%8F%E6%80%BB%E8%A7%88.md)
 - [危机与哀伤冥想指南](../%E4%B8%B4%E5%BA%8A/%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3/%E4%B8%B4%E5%BA%8A-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3-%E5%8D%B1%E6%9C%BA%E5%86%A5%E6%83%B3%E6%8C%87%E5%8D%97.md)
 

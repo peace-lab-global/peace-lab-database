@@ -19,7 +19,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/应用/应用-Meditation_Career_Pathways.md
   relation: career/pathways/瑜伽
-- path: 02-心智心理/冥想/基础/基础-Professional_Career_Development.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Career_Development.md
   relation: career/cross-disciplinary
 - path: 05-实践成长/个人发展/职业规划/职业Transition/职业规划-职业Transition.md
   relation: career/瑜伽

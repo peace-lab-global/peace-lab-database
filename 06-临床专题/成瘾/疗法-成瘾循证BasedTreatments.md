@@ -6,7 +6,7 @@ tags: ["clinical", "addiction", "therapy", "mat", "cbt", "motivational-interview
 last_updated: "2026-07"
 ---
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。用药必须由医生处方；阿片类 MAT（美沙酮/丁丙诺啡）需专项资质/机构；酒精/BZD 戒断可致命，必须在医疗监护下解毒。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。用药必须由医生处方；阿片类 MAT（美沙酮/丁丙诺啡）需专项资质/机构；酒精/BZD 戒断可致命，必须在医疗监护下解毒。完整资源见 [规范/CRISIS_RESOURCES.md](../../规范/CRISIS_RESOURCES.md)。
 
 # 成瘾循证治疗
 

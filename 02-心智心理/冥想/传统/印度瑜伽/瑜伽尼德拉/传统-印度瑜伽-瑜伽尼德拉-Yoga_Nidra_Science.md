@@ -251,8 +251,8 @@ cross_refs:
 - [瑜伽尼德拉概述](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Overview.md)
 - [瑜伽尼德拉技术体系](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Techniques.md)
 - [瑜伽尼德拉临床应用](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Clinical_Applications.md)
-- [冥想神经科学机制](../../../基础/基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [冥想与睡眠](../../../基础/基础-总览-Meditation_And_Sleep.md)
+- [冥想神经科学机制](../../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md)
+- [冥想与睡眠](../../../基础/总览与理论/基础-总览-Meditation_And_Sleep.md)
 
 ---
 

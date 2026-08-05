@@ -19,7 +19,7 @@ cross_refs: []
 > 关注个人进化、职业发展、自媒体变现及社会实践方法论。
 
 
-> ⚠️ **内容免责声明**:本支柱内容聚焦实用技能、个人发展、沟通方法与生活实践,涉及人际关系、职业发展、习惯养成、领导力等话题。文档仅供学习与参考,不构成专业咨询(心理治疗、职业咨询、医疗、法律、财务)建议。具体情境下的应用须结合个人实际情况,必要时应咨询相关领域的合格专业人士。任何自我探索与成长过程不应取代专业支持。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **内容免责声明**:本支柱内容聚焦实用技能、个人发展、沟通方法与生活实践,涉及人际关系、职业发展、习惯养成、领导力等话题。文档仅供学习与参考,不构成专业咨询(心理治疗、职业咨询、医疗、法律、财务)建议。具体情境下的应用须结合个人实际情况,必要时应咨询相关领域的合格专业人士。任何自我探索与成长过程不应取代专业支持。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../规范/CRISIS_RESOURCES.md)。
 
 ---
 
@@ -103,11 +103,12 @@ cross_refs: []
 - [习惯养成科学 (Habit Science)](个人发展/主题/习惯行为/主题-习惯行为-Personal发展Habit科学.md)
   - [原子习惯 (Atomic Habits)](个人发展/主题/习惯行为/主题-习惯行为-Personal发展Atomic习惯.md)
   - [微习惯 (Mini Habits)](个人发展/主题/习惯行为/主题-习惯行为-Personal发展Mini习惯.md)
-- [正念与生活禅 (Mindfulness)](个人发展/正念/INDEX.md)
-- [**正念生活化实践 (Mindful Living)**](正念生活/INDEX.md) **[NEW]** — 正念进食/行走/工作/沟通/育儿/数字生活
-  - [正念生活化实践总览](正念生活/MindfulLiving总览.md) — 日常觉察整合、STOP技术、最小可行正念
+- [**正念与生活禅 (Mindfulness & Mindful Living)**](个人发展/正念/INDEX.md) — 正念核心、MBSR/MBCT 应用、日常生活化实践
+  - [正念生活化实践总览](个人发展/正念/正念-正念生活化实践总览.md) — 日常觉察整合、STOP技术、最小可行正念
+  - [正念日常生活子题](个人发展/正念/正念日常生活/INDEX.md) — 正念行走/饮食/会议等场景化协议
+  - 🔗 正念的修行传统与完整技术体系 → [02-心智心理/冥想/](../02-心智心理/冥想/INDEX.md)；临床干预方案 → [06-临床专题/正念认知/](../06-临床专题/正念认知/INDEX.md)
 - [极简主义与整理 (Minimalism)](个人发展/极简断舍离/INDEX.md)
-- [拖延心理调节 (Procrastination)](%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-Procrastination%E5%BF%83%E7%90%86Regulation.md)
+- [拖延心理调节 (Procrastination)](个人发展/拖延症/INDEX.md) — 自我调节视角；临床评估与干预以 [06-临床专题/拖延症/](../06-临床专题/拖延症/INDEX.md) 为准
 
 ### 1.3 💰 财务素养与个人理财 (Financial Literacy) **[NEW]**
 - [**财务素养体系**](个人发展/财商/INDEX.md) — 理财基础/投资心理/FIRE运动/金钱信念
@@ -245,7 +246,7 @@ cross_refs: []
 
 ## 跨支柱关联 | Cross-Pillar References
 
-> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../_meta/cross-references.md)。
+> 本支柱内容与以下支柱存在深度关联，详见 [交叉引用索引](../cross-references.md)。
 
 | 关联支柱 | 关键连接 | 代表性关联 |
 |----------|---------|------------|
@@ -281,7 +282,7 @@ cross_refs: []
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

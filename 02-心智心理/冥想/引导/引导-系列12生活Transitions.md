@@ -18,9 +18,9 @@ trigger_keywords:
 - Transitions
 - Series
 cross_refs:
-- path: 03-生命科学/死亡/哀伤丧恸-Death哀伤Bridge.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death哀伤Bridge.md
   relation: 哀伤/丧亲/死亡
-- path: 03-生命科学/死亡/临床应用-Death临床Casebook.md
+- path: 03-生命科学/死亡/临床应用/临床应用-Death临床Casebook.md
   relation: 哀伤/死亡/临终
 - path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-奇想之年.md
   relation: 哀伤/丧亲

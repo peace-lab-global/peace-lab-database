@@ -291,7 +291,7 @@ cross_refs:
 - [瑜伽尼德拉科学机制](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Science.md) — 神经科学和生理学研究
 - [瑜伽尼德拉技术体系](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Techniques.md) — 详细的技术实施指南
 - [瑜伽尼德拉临床应用](传统-印度瑜伽-瑜伽尼德拉-Yoga_Nidra_Clinical_Applications.md) — 循证临床应用
-- [冥想与睡眠](../../../基础/基础-总览-Meditation_And_Sleep.md) — 相关专题
+- [冥想与睡眠](../../../基础/总览与理论/基础-总览-Meditation_And_Sleep.md) — 相关专题
 - [身体扫描](../../../引导/引导-核心-Scripts身体Scan.md) — 相关引导练习
 
 ---

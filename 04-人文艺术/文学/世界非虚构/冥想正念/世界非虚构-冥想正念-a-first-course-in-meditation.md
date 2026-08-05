@@ -69,7 +69,7 @@ cross_refs:
 
 ## 四、延伸阅读
 
-- 本库相关条目：[《正念的奇迹》The Miracle of Mindfulness](../%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99/the/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99-the-miracle-of-mindfulness.md)、[冥想基础总览](../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E5%9F%BA%E7%A1%80/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-Meditation_Mind_Management.md)
+- 本库相关条目：[《正念的奇迹》The Miracle of Mindfulness](../%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99/the/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99-the-miracle-of-mindfulness.md)、[冥想基础总览](../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-Meditation_Mind_Management.md)
 - Kabat-Zinn, J. (1994). *Wherever You Go, There You Are* —— 写给普通读者的正念入门经典。
 
 ## 五、阅读体验

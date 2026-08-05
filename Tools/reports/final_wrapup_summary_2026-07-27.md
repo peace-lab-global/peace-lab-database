@@ -49,7 +49,7 @@
 
 | 类型 | 位置 | 内容 |
 |------|------|------|
-| 治理脚本归档 | `Tools/scripts/governance-2026-07/` | 9 个脚本 + README（含复检命令），已从新路径验证可运行 |
+| 治理脚本归档 | `Tools/scripts/archive/governance-2026-07/` | 9 个脚本 + README（含复检命令），已从新路径验证可运行 |
 | 数据映射归档 | `Tools/data/governance-2026-07/` | 去重映射 + 两轮压平映射（3 个 JSON，回滚/追溯依据） |
 | 报告 | `Tools/reports/` | 验收报告、链接健康度报告、本总结报告 |
 | 变更日志 | `Tools/CHANGELOG.md` | 已追加 2026-07-27 P1-P7 治理条目 |

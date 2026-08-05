@@ -19,7 +19,7 @@ trigger_keywords:
 - Branding
 - for
 cross_refs:
-- path: 02-心智心理/冥想/基础/基础-Professional_Branding_Marketing.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Branding_Marketing.md
   relation: branding/personal/冥想
 ---
 # 瑜伽/冥想导师个人品牌建设（Personal Branding for Yoga & Meditation Teachers）

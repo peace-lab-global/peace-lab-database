@@ -29,7 +29,7 @@ cross_refs:
   relation: 躯体觉察基础
 - path: 02-心智心理/冥想/引导/引导-核心-Scripts正念Breathing.md
   relation: 呼吸锚定基础
-- path: 02-心智心理/冥想/基础/基础-总览-Vipassana_Practice_Guide.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Vipassana_Practice_Guide.md
   relation: 观禅/三法印
 ---
 # 梦幻观冥想 | Dream-Illusion Contemplation Meditation

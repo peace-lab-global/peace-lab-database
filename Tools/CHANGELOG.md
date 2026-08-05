@@ -5,7 +5,7 @@
 ## 2026-07-27 (全库结构治理与优化改进 P1-P7)
 
 > **规模**: 文档 6,395→4,851 / 去重 1,302 / 压平 282 目录 / 修复链接 3,500+ 条
-> **报告**: [optimization_acceptance_2026-07-27.md](reports/optimization_acceptance_2026-07-27.md) · **脚本归档**: [scripts/governance-2026-07/](scripts/governance-2026-07/README.md)
+> **报告**: [optimization_acceptance_2026-07-27.md](reports/optimization_acceptance_2026-07-27.md) · **脚本归档**: [scripts/archive/governance-2026-07/](scripts/archive/governance-2026-07/README.md)
 
 | 阶段 | 内容 | 结果 |
 |:-----|:-----|:-----|
@@ -24,7 +24,7 @@
 ## 2026-07-08 (Phase 1 执行：临床急救 P0 缺口补全)
 
 > **规模**: 53 个新文档 / ~8,988 行新增内容 / 1 个 INDEX 更新
-> **计划**: [Mental_Health_Enhancement_Plan_20260708.md](plans/Mental_Health_Enhancement_Plan_20260708.md) Phase 1
+> **计划**: [Mental_Health_Enhancement_Plan_20260708.md](plans/archive/Mental_Health_Enhancement_Plan_20260708.md) Phase 1
 
 ### M1.1 进食障碍 (20 文件 / 3,411 行) `[NEW]`
 
@@ -75,7 +75,7 @@
 ## 2026-07-08 (心智健康内容体系增强计划制定)
 
 > **规模**: 1 个计划文件 / 606 行
-> **文件**: [Mental_Health_Enhancement_Plan_20260708.md](plans/Mental_Health_Enhancement_Plan_20260708.md)
+> **文件**: [Mental_Health_Enhancement_Plan_20260708.md](plans/archive/Mental_Health_Enhancement_Plan_20260708.md)
 
 ### 新增心智健康内容体系增强执行计划
 
@@ -124,7 +124,7 @@
 ## 2026-04-09 (五大支柱系统性增强计划 — ✅ 全部完成)
 
 > **规模**: 4 阶段 / 31 模块 / ~151 文件 / ~27,500+ 行新增内容，覆盖全部 5 大支柱。
-> **计划文件**: [Five_Pillars_Systematic_Enhancement_Plan.md](plans/Five_Pillars_Systematic_Enhancement_Plan.md)
+> **计划文件**: [Five_Pillars_Systematic_Enhancement_Plan.md](plans/archive/Five_Pillars_Systematic_Enhancement_Plan.md)
 > **贡献者**: AI | **执行周期**: 2026-04-09 单日完成
 
 ### Phase 1 — 03-Bio & 04-Arts 系统性补强 (34 文件 / ~6,791 行)

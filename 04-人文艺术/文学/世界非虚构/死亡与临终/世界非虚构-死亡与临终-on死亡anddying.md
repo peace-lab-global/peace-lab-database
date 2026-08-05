@@ -19,7 +19,7 @@ cross_refs:
   relation: 死亡/临终
 - path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
   relation: 临终/死亡/死亡
-- path: 03-生命科学/死亡/教育实践-Death现代Applications.md
+- path: 03-生命科学/死亡/教育实践/教育实践-Death现代Applications.md
   relation: 死亡/临终/死亡
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/INDEX.md
   relation: dying/死亡/临终

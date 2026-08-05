@@ -25,7 +25,7 @@ cross_refs:
   relation: 正念/觉察
 - path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-职业倦怠-19-Mindful-Leadership-and-Team.md
   relation: 正念/mindful/觉察
-- path: 02-心智心理/冥想/基础/基础-Walking_Meditation_Overview.md
+- path: 02-心智心理/冥想/基础/动态与自然冥想/基础-Walking_Meditation_Overview.md
   relation: 正念/table/觉察
 ---
 # 正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)

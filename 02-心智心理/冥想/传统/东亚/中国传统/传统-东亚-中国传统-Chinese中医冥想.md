@@ -166,4 +166,4 @@ cross_refs:
 - [中国本土冥想传统概论](传统-东亚-中国传统-Chinese冥想总览.md)
 - [中国传统静坐功法](传统-东亚-中国传统-中国SittingPractices.md)
 - [正念中国本土化挑战](传统-东亚-中国传统-中国LocalizationChallenges.md)
-- [冥想临床应用](../../../基础/基础-总览-冥想临床Applications.md)
+- [冥想临床应用](../../../基础/总览与理论/基础-总览-冥想临床Applications.md)

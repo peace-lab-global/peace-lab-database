@@ -22,7 +22,7 @@ cross_refs:
   relation: 太极/抑郁/hpa
 - path: 02-心智心理/心理学/压力与HPA轴/技能/压力与HPA轴-技能-Stress_Health_Risk_Assessment_Skill.md
   relation: 血压/压力/hpa
-- path: 02-心智心理/冥想/基础/基础-总览-Movement_Meditation.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
 - path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-职业倦怠-心率变异性生物反馈.md
   relation: hrv/副交感/心率

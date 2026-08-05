@@ -20,7 +20,7 @@ trigger_keywords:
 - Anxiety
 - Disorder
 cross_refs:
-- path: 03-生命科学/死亡/死亡焦虑-Death焦虑总览.md
+- path: 03-生命科学/死亡/死亡焦虑/死亡焦虑-Death焦虑总览.md
   relation: anxiety/焦虑/障碍
 ---
 # 疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)

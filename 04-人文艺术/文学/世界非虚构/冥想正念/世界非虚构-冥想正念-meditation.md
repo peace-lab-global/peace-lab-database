@@ -20,7 +20,7 @@ cross_refs:
   relation: 冥想/瑜伽
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/作业与考试/C1-homework.md
   relation: 冥想/瑜伽
-- path: 02-心智心理/冥想/基础/基础-总览-Meditation_Mind_Management.md
+- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Mind_Management.md
   relation: 冥想/meditation
 ---
 # 《冥想》Meditation

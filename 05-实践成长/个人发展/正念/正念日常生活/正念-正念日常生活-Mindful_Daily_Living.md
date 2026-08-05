@@ -179,7 +179,7 @@ cross_refs:
 - [正念减压疗法 (MBSR)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md)
 - [正念认知疗法 (MBCT)](../%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md)
 - [佛教禅修实践体系](../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-佛教冥想实践System.md)
-- [冥想核心](../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Core.md)
+- [冥想核心](../../../../02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Core.md)
 - [专注力冥想疗愈](../../../../02-心智心理/疗法/创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Meditation_Therapy.md)
 
 ---

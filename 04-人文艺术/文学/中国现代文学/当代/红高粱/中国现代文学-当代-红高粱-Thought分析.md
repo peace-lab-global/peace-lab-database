@@ -17,7 +17,7 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_Existential.md
   relation: vs/死亡
-- path: 03-生命科学/死亡/哲学文化-DeathComparative哲学.md
+- path: 03-生命科学/死亡/哲学文化/哲学文化-DeathComparative哲学.md
   relation: vs/死亡
 ---
 # 《红高粱》核心思想与观点分析

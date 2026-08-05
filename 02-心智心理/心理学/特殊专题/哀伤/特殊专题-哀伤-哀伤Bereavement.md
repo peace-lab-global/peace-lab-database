@@ -16,9 +16,9 @@ trigger_keywords:
 - Bereavement
 - 悲伤与哀伤心理学
 cross_refs:
-- path: 03-生命科学/死亡/哀伤丧恸-Death宠物减.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death宠物减.md
   relation: 哀伤/哀伤/bereavement
-- path: 03-生命科学/死亡/哀伤丧恸-Death哀伤Bridge.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death哀伤Bridge.md
   relation: 哀伤/哀伤/bereavement
 - path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-漫长的告别.md
   relation: 哀伤/哀伤/complicated
@@ -345,7 +345,7 @@ cross_refs:
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

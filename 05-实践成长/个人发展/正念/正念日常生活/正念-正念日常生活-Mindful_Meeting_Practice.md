@@ -556,7 +556,7 @@ cross_refs:
 - [正念饮水专业实践指南](正念-正念日常生活-Mindful_Drinking_Practice.md)
 - [正念行走专业实践指南](正念-正念日常生活-Mindful_Walking_Practice.md)
 - [专注力冥想疗愈](../../../../02-心智心理/疗法/创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Meditation_Therapy.md)
-- [冥想核心](../../../../02-心智心理/冥想/基础/基础-总览-Meditation_Core.md)
+- [冥想核心](../../../../02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Core.md)
 
 ---
 

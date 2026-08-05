@@ -21,7 +21,7 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/性偏好障碍/性偏好障碍-Paraphilia伦理Legal.md
   relation: sociocultural/considerations/law
-- path: 02-心智心理/冥想/基础/基础-Professional_Ethics_Legal.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Ethics_Legal.md
   relation: autonomy/伦理/专业
 - path: 02-心智心理/心理学/应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating_Ethics_Legal.md
   relation: ethical/considerations/伦理
@@ -470,7 +470,7 @@ graph TD
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

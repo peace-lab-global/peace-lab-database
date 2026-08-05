@@ -16,13 +16,13 @@ trigger_keywords:
 - grief
 - neuroscience
 cross_refs:
-- path: 03-生命科学/死亡/临终关怀-死亡DementiaEndof生活.md
+- path: 03-生命科学/死亡/临终关怀/临终关怀-死亡DementiaEndof生活.md
   relation: 哀伤/goodbye/long
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/a/INDEX.md
   relation: 哀伤/grief
-- path: 03-生命科学/死亡/哀伤丧恸-Death哀伤Bridge.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death哀伤Bridge.md
   relation: 哀伤/grief
-- path: 03-生命科学/死亡/哀伤丧恸-Death宠物减.md
+- path: 03-生命科学/死亡/哀伤丧恸/哀伤丧恸-Death宠物减.md
   relation: 哀伤/grief
 ---
 # 《漫长的告别》The Long Goodbye

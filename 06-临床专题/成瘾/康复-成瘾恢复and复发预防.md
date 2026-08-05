@@ -6,7 +6,7 @@ tags: ["clinical", "addiction", "recovery", "relapse-prevention", "prochaska", "
 last_updated: "2026-07"
 ---
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。完整资源见 [规范/CRISIS_RESOURCES.md](../../规范/CRISIS_RESOURCES.md)。
 
 # 成瘾康复与复发预防
 

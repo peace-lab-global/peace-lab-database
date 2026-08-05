@@ -171,7 +171,7 @@ cross_refs: []
 | 演讲者 | 演讲标题 | 年份 | 核心观点 | 对应知识点 | 时长 | 视频地址 |
 |-------|---------|------|----------|------------|------|----------|
 | **Jon Kabat-Zinn** | Mindfulness and meditation | 2016 | MBSR创始人讲解正念本质 | [MBSR](../../%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | 18:23 | [观看](https://www.youtube.com/watch?v=HmEo6RI4Wvs) |
-| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-心智心理/冥想/基础/基础-总览-冥想神经科学Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
+| **Richard Davidson** | How mindfulness changes the emotional life of our brains | 2019 | 冥想改变大脑情绪回路 | [冥想神经科学](../../../02-心智心理/冥想/基础/总览与理论/基础-总览-冥想神经科学Mechanisms.md) | 17:38 | [观看](https://www.youtube.com/watch?v=7CBfCW67xT8) |
 
 ---
 

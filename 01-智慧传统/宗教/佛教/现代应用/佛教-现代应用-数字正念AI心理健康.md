@@ -26,7 +26,7 @@ cross_refs:
   relation: ai/technology/vr
 - path: 03-生命科学/性学/中国性压抑/中国性压抑-Frontier技术整合.md
   relation: ai/vr/ar
-- path: 02-心智心理/冥想/基础/基础-Professional_Digital_AI.md
+- path: 02-心智心理/冥想/基础/专业执业/基础-Professional_Digital_AI.md
   relation: ai/vr/digital
 ---
 # Digital Mindfulness & AI Mental Health | 数字化正念与AI心理健康
@@ -411,7 +411,7 @@ Ronald Purser (2019) 在 *McMindfulness* 中批判商业App的正念：
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:[规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

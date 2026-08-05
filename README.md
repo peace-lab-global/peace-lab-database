@@ -47,7 +47,7 @@ cross_refs:
 ### 6. [🏥 临床专题 (Clinical Topics)](06-临床专题/INDEX.md)
 **核心领域**: 跨支柱临床知识包 —— 焦虑、抑郁、睡眠障碍、哀伤丧亲、拖延症、MBCT 正念认知疗法，按疾病/问题维度聚合，面向临床实践。
 
-> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_元信息/` 知识关联层：[research-topics](_meta/research-topics/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
+> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_元信息/` 知识关联层：[research-topics](08-跨领域研究/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
 
 ---
 
@@ -55,11 +55,11 @@ cross_refs:
 
 | 导航 | 说明 |
 |------|------|
-| [📖 分类法与架构说明](_meta/docs/TAXONOMY.md) | 五大支柱的分类原则与决策树 |
-| [📝 贡献指南](_meta/docs/CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
-| [🔤 全局术语表](_meta/docs/GLOSSARY.md) | 核心术语中英文映射 |
-| [🗺️ 学习路径](_meta/INDEX.md) | 跨支柱的主题化推荐阅读路线 |
-| [🔗 交叉引用索引](_meta/cross-references.md) | 跨支柱关联内容 |
+| [📖 分类法与架构说明](规范/TAXONOMY.md) | 五大支柱的分类原则与决策树 |
+| [📝 贡献指南](规范/CONTRIBUTING.md) | 目录规范、文件命名与文档标准 |
+| [🔤 全局术语表](规范/GLOSSARY.md) | 核心术语中英文映射 |
+| [🗺️ 学习路径](INDEX.md) | 跨支柱的主题化推荐阅读路线 |
+| [🔗 交叉引用索引](cross-references.md) | 跨支柱关联内容 |
 | 🔧 工具与脚本 | 质量检查、链接验证等自动化工具 |
 | 🌐 Web 站点 | 在线浏览版本 |
 | [🤖 Agent Skills 智能体技能](02-心智心理/心理学/压力与HPA轴/技能/INDEX.md) | 压力与HPA轴调节智能体技能模块 |

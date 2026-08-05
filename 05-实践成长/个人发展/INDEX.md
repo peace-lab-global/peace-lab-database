@@ -1,271 +1,115 @@
-# 个人发展
+---
+title: "个人发展 | Personal Development"
+description: "枢纽目录：按能力域组织 24 个专题与 6 篇跨主题总览，覆盖内在成长、效率执行、职业进阶、财商与自媒体"
+category: "枢纽目录"
+tags: ["personal-development", "hub", "productivity", "career", "resilience"]
+last_updated: "2026-07-30"
+cross_refs:
+  - "02-心智心理/心理学/自我调节/INDEX.md"
+  - "06-临床专题/拖延症/INDEX.md"
+  - "05-实践成长/沟通/INDEX.md"
+  - "05-实践成长/写作/INDEX.md"
+---
 
-> 本目录共 249 个文档
+# 个人发展 | Personal Development
 
+> **枢纽目录（Hub Directory）**：本目录共 24 个专题子目录 + 6 篇跨主题总览文档（约 250 篇文献）。
+> 按 **五大能力域** 分组导航；每个子目录自带 INDEX.md 作为该专题的完整入口。
+> 全量文件清单不在本页平铺——请从下方对应子目录 INDEX 进入。
 
-## 主题
+---
 
-- [主题-习惯行为-Personal_Development_7_Habits](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%957%E4%B9%A0%E6%83%AF.md)
-- [主题-习惯行为-Personal_Development_Atomic_Habits](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95Atomic%E4%B9%A0%E6%83%AF.md)
-- [主题-习惯行为-Personal_Development_Habit_Science](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95Habit%E7%A7%91%E5%AD%A6.md)
-- [主题-习惯行为-Personal_Development_Mini_Habits](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95Mini%E4%B9%A0%E6%83%AF.md)
-- [主题-习惯行为-Personal_Development_Miracle_Morning](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95MiracleMorning.md)
-- [主题-习惯行为-Personal_Development_Power_of_Habit](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95PowerofHabit.md)
-- [主题-习惯行为-Personal_Development_Tiny_Habits](%E4%B8%BB%E9%A2%98/%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA/%E4%B8%BB%E9%A2%98-%E4%B9%A0%E6%83%AF%E8%A1%8C%E4%B8%BA-Personal%E5%8F%91%E5%B1%95Tiny%E4%B9%A0%E6%83%AF.md)
-- [主题-习惯行为-Personal发展7习惯](主题/习惯行为/主题-习惯行为-Personal发展7习惯.md)
-- [主题-习惯行为-Personal发展Atomic习惯](主题/习惯行为/主题-习惯行为-Personal发展Atomic习惯.md)
-- [主题-习惯行为-Personal发展Habit科学](主题/习惯行为/主题-习惯行为-Personal发展Habit科学.md)
-- [主题-习惯行为-Personal发展Mini习惯](主题/习惯行为/主题-习惯行为-Personal发展Mini习惯.md)
-- [主题-习惯行为-Personal发展MiracleMorning](主题/习惯行为/主题-习惯行为-Personal发展MiracleMorning.md)
-- [主题-习惯行为-Personal发展PowerofHabit](主题/习惯行为/主题-习惯行为-Personal发展PowerofHabit.md)
-- [主题-习惯行为-Personal发展Tiny习惯](主题/习惯行为/主题-习惯行为-Personal发展Tiny习惯.md)
-- [主题-心态心理-Personal_Development_Authentic_Happiness](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95AuthenticHappiness.md)
-- [主题-心态心理-Personal_Development_Flow](主题/心态心理/主题-心态心理-Personal_Development_Flow.md)
-- [主题-心态心理-Personal_Development_Grit](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95Grit.md)
-- [主题-心态心理-Personal_Development_Growth_Mindset](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95%E6%88%90%E9%95%BFMindset.md)
-- [主题-心态心理-Personal_Development_Happier](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95Happier.md)
-- [主题-心态心理-Personal_Development_Mindset](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95Mindset.md)
-- [主题-心态心理-Personal_Development_Thinking_Fast_Slow](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95ThinkingFastSlow.md)
-- [主题-心态心理-Personal_Development_Willpower_Discipline](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95WillpowerDiscipline.md)
-- [主题-心态心理-Personal_Development_Willpower_Instinct](%E4%B8%BB%E9%A2%98/%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86/%E4%B8%BB%E9%A2%98-%E5%BF%83%E6%80%81%E5%BF%83%E7%90%86-Personal%E5%8F%91%E5%B1%95WillpowerInstinct.md)
-- [主题-心态心理-Personal发展AuthenticHappiness](主题/心态心理/主题-心态心理-Personal发展AuthenticHappiness.md)
-- [主题-心态心理-Personal发展Flow](主题/心态心理/主题-心态心理-Personal发展Flow.md)
-- [主题-心态心理-Personal发展Grit](主题/心态心理/主题-心态心理-Personal发展Grit.md)
-- [主题-心态心理-Personal发展Happier](主题/心态心理/主题-心态心理-Personal发展Happier.md)
-- [主题-心态心理-Personal发展Mindset](主题/心态心理/主题-心态心理-Personal发展Mindset.md)
-- [主题-心态心理-Personal发展ThinkingFastSlow](主题/心态心理/主题-心态心理-Personal发展ThinkingFastSlow.md)
-- [主题-心态心理-Personal发展WillpowerDiscipline](主题/心态心理/主题-心态心理-Personal发展WillpowerDiscipline.md)
-- [主题-心态心理-Personal发展WillpowerInstinct](主题/心态心理/主题-心态心理-Personal发展WillpowerInstinct.md)
-- [主题-心态心理-Personal发展成长Mindset](主题/心态心理/主题-心态心理-Personal发展成长Mindset.md)
-- [主题-意义智慧-Personal_Development_Mans_Search_for_Meaning](主题/意义智慧/主题-意义智慧-Personal_Development_Mans_Search_for_Meaning.md)
-- [主题-意义智慧-Personal_Development_Poor_Charlies_Almanack](%E4%B8%BB%E9%A2%98/%E6%84%8F%E4%B9%89%E6%99%BA%E6%85%A7/%E4%B8%BB%E9%A2%98-%E6%84%8F%E4%B9%89%E6%99%BA%E6%85%A7-Personal%E5%8F%91%E5%B1%95PoorCharliesAlmanack.md)
-- [主题-意义智慧-Personal发展MansSearchforMeaning](主题/意义智慧/主题-意义智慧-Personal发展MansSearchforMeaning.md)
-- [主题-意义智慧-Personal发展PoorCharliesAlmanack](主题/意义智慧/主题-意义智慧-Personal发展PoorCharliesAlmanack.md)
-- [主题-沟通影响力-Personal_Development_Crucial_Conversations](%E4%B8%BB%E9%A2%98/%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B/%E4%B8%BB%E9%A2%98-%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B-Personal%E5%8F%91%E5%B1%95CrucialConversations.md)
-- [主题-沟通影响力-Personal_Development_How_to_Win_Friends](%E4%B8%BB%E9%A2%98/%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B/%E4%B8%BB%E9%A2%98-%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B-Personal%E5%8F%91%E5%B1%95HowtoWinFriends.md)
-- [主题-沟通影响力-Personal_Development_Influence](%E4%B8%BB%E9%A2%98/%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B/%E4%B8%BB%E9%A2%98-%E6%B2%9F%E9%80%9A%E5%BD%B1%E5%93%8D%E5%8A%9B-Personal%E5%8F%91%E5%B1%95%E5%BD%B1%E5%93%8D%E5%8A%9B.md)
-- [主题-沟通影响力-Personal_Development_NVC](主题/沟通影响力/主题-沟通影响力-Personal_Development_NVC.md)
-- [主题-沟通影响力-Personal发展CrucialConversations](主题/沟通影响力/主题-沟通影响力-Personal发展CrucialConversations.md)
-- [主题-沟通影响力-Personal发展HowtoWinFriends](主题/沟通影响力/主题-沟通影响力-Personal发展HowtoWinFriends.md)
-- [主题-沟通影响力-Personal发展NVC](主题/沟通影响力/主题-沟通影响力-Personal发展NVC.md)
-- [主题-沟通影响力-Personal发展影响力](主题/沟通影响力/主题-沟通影响力-Personal发展影响力.md)
-- [主题-生产力表现-Personal_Development_Deep_Work](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95%E6%B7%B1%E5%BA%A6Work.md)
-- [主题-生产力表现-Personal_Development_Eat_That_Frog](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95EatThatFrog.md)
-- [主题-生产力表现-Personal_Development_Goal_Setting](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95%E7%9B%AE%E6%A0%87%E8%AE%BE%E5%AE%9A.md)
-- [主题-生产力表现-Personal_Development_GTD](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95GTD.md)
-- [主题-生产力表现-Personal_Development_OKR](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95OKR.md)
-- [主题-生产力表现-Personal_Development_Peak](%E4%B8%BB%E9%A2%98/%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0/%E4%B8%BB%E9%A2%98-%E7%94%9F%E4%BA%A7%E5%8A%9B%E8%A1%A8%E7%8E%B0-Personal%E5%8F%91%E5%B1%95Peak.md)
-- [主题-生产力表现-Personal_Development_Time_Management](主题/生产力表现/主题-生产力表现-Personal_Development_Time_Management.md)
-- [主题-生产力表现-Personal发展EatThatFrog](主题/生产力表现/主题-生产力表现-Personal发展EatThatFrog.md)
-- [主题-生产力表现-Personal发展GTD](主题/生产力表现/主题-生产力表现-Personal发展GTD.md)
-- [主题-生产力表现-Personal发展OKR](主题/生产力表现/主题-生产力表现-Personal发展OKR.md)
-- [主题-生产力表现-Personal发展Peak](主题/生产力表现/主题-生产力表现-Personal发展Peak.md)
-- [主题-生产力表现-Personal发展时间管理](主题/生产力表现/主题-生产力表现-Personal发展时间管理.md)
-- [主题-生产力表现-Personal发展深度Work](主题/生产力表现/主题-生产力表现-Personal发展深度Work.md)
-- [主题-生产力表现-Personal发展目标设定](主题/生产力表现/主题-生产力表现-Personal发展目标设定.md)
+## 🧭 五大能力域 | Five Capability Domains
 
-## 其他
+### 一、内在成长与心力 | Inner Growth & Resilience
 
-- [专注-专注临床Applications](%E4%B8%93%E6%B3%A8/%E4%B8%93%E6%B3%A8-%E4%B8%93%E6%B3%A8%E4%B8%B4%E5%BA%8AApplications.md)
-- [专注-专注核心](%E4%B8%93%E6%B3%A8/%E4%B8%93%E6%B3%A8-%E4%B8%93%E6%B3%A8%E6%A0%B8%E5%BF%83.md)
-- [主题-Personal发展BookReviews](%E4%B8%BB%E9%A2%98/%E4%B8%BB%E9%A2%98-Personal%E5%8F%91%E5%B1%95BookReviews.md)
-- [主题-Personal发展总览](%E4%B8%BB%E9%A2%98/%E4%B8%BB%E9%A2%98-Personal%E5%8F%91%E5%B1%95%E6%80%BB%E8%A7%88.md)
-- [任务管理-Task管理数字工具](%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-Task%E7%AE%A1%E7%90%86%E6%95%B0%E5%AD%97%E5%B7%A5%E5%85%B7.md)
-- [任务管理-Task管理核心](%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-Task%E7%AE%A1%E7%90%86%E6%A0%B8%E5%BF%83.md)
-- [任务管理-Task管理高阶](%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86/%E4%BB%BB%E5%8A%A1%E7%AE%A1%E7%90%86-Task%E7%AE%A1%E7%90%86%E9%AB%98%E9%98%B6.md)
-- [元学习-Deliberate实践](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-Deliberate%E5%AE%9E%E8%B7%B5.md)
-- [元学习-FeynmanTechnique教学](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-FeynmanTechnique%E6%95%99%E5%AD%A6.md)
-- [元学习-Meta学习总览](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-Meta%E5%AD%A6%E4%B9%A0%E6%80%BB%E8%A7%88.md)
-- [元学习-Speed阅读深度学习](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-Speed%E9%98%85%E8%AF%BB%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0.md)
-- [元学习-学习TransferApplication](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-%E5%AD%A6%E4%B9%A0TransferApplication.md)
-- [元学习-间隔重复检索](%E5%85%83%E5%AD%A6%E4%B9%A0/%E5%85%83%E5%AD%A6%E4%B9%A0-%E9%97%B4%E9%9A%94%E9%87%8D%E5%A4%8D%E6%A3%80%E7%B4%A2.md)
-- [决策制定-决策BiasCorrection](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A/%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96BiasCorrection.md)
-- [决策制定-决策制定总览](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A/%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A%E6%80%BB%E8%A7%88.md)
-- [决策制定-决策疲劳](%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A/%E5%86%B3%E7%AD%96%E5%88%B6%E5%AE%9A-%E5%86%B3%E7%AD%96%E7%96%B2%E5%8A%B3.md)
-- [实践-DailyRoutine方案](%E5%AE%9E%E8%B7%B5/%E5%AE%9E%E8%B7%B5-DailyRoutine%E6%96%B9%E6%A1%88.md)
-- [实践-Daily高阶Practices](%E5%AE%9E%E8%B7%B5/%E5%AE%9E%E8%B7%B5-Daily%E9%AB%98%E9%98%B6Practices.md)
-- [当众表达-PublicSpeaking总览](%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE/%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE-PublicSpeaking%E6%80%BB%E8%A7%88.md)
-- [当众表达-公众演讲精通](%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE/%E5%BD%93%E4%BC%97%E8%A1%A8%E8%BE%BE-%E5%85%AC%E4%BC%97%E6%BC%94%E8%AE%B2%E7%B2%BE%E9%80%9A.md)
-- [心流-FlowState核心](%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-FlowState%E6%A0%B8%E5%BF%83.md)
-- [心流-Flow临床Applications](%E5%BF%83%E6%B5%81/%E5%BF%83%E6%B5%81-Flow%E4%B8%B4%E5%BA%8AApplications.md)
-- [心理韧性-Mental韧性总览](%E5%BF%83%E7%90%86%E9%9F%A7%E6%80%A7-Mental%E9%9F%A7%E6%80%A7%E6%80%BB%E8%A7%88.md)
-- [情商-EI总览](%E6%83%85%E5%95%86/%E6%83%85%E5%95%86-EI%E6%80%BB%E8%A7%88.md)
-- [情商-EI情绪Regulation培训](%E6%83%85%E5%95%86/%E6%83%85%E5%95%86-EI%E6%83%85%E7%BB%AARegulation%E5%9F%B9%E8%AE%AD.md)
-- [情商-EI评估发展](%E6%83%85%E5%95%86/%E6%83%85%E5%95%86-EI%E8%AF%84%E4%BC%B0%E5%8F%91%E5%B1%95.md)
-- [情商-EI领导力职场](%E6%83%85%E5%95%86/%E6%83%85%E5%95%86-EI%E9%A2%86%E5%AF%BC%E5%8A%9B%E8%81%8C%E5%9C%BA.md)
-- [拖延症-01_拖延症概述](%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-01_%E6%8B%96%E5%BB%B6%E7%97%87%E6%A6%82%E8%BF%B0.md)
-- [拖延症-02_拖延症成因与机制](%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-02_%E6%8B%96%E5%BB%B6%E7%97%87%E6%88%90%E5%9B%A0%E4%B8%8E%E6%9C%BA%E5%88%B6.md)
-- [拖延症-03_拖延症应对策略](%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-03_%E6%8B%96%E5%BB%B6%E7%97%87%E5%BA%94%E5%AF%B9%E7%AD%96%E7%95%A5.md)
-- [拖延症-04_拖延与心理健康](%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-04_%E6%8B%96%E5%BB%B6%E4%B8%8E%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7.md)
-- [拖延症-Procrastination心理Regulation](%E6%8B%96%E5%BB%B6%E7%97%87/%E6%8B%96%E5%BB%B6%E7%97%87-Procrastination%E5%BF%83%E7%90%86Regulation.md)
-- [日记写作-Journaling核心](%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C/%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C-Journaling%E6%A0%B8%E5%BF%83.md)
-- [日记写作-Journaling疗愈](%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C/%E6%97%A5%E8%AE%B0%E5%86%99%E4%BD%9C-Journaling%E7%96%97%E6%84%88.md)
-- [极简断舍离-MinimalismDecluttering实践指南](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-MinimalismDecluttering%E5%AE%9E%E8%B7%B5%E6%8C%87%E5%8D%97.md)
-- [极简断舍离-MinimalismDecluttering总览](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-MinimalismDecluttering%E6%80%BB%E8%A7%88.md)
-- [极简断舍离-Minimalism囤积Comparison](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-Minimalism%E5%9B%A4%E7%A7%AFComparison.md)
-- [极简断舍离-Minimalism囤积整合框架](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-Minimalism%E5%9B%A4%E7%A7%AF%E6%95%B4%E5%90%88%E6%A1%86%E6%9E%B6.md)
-- [极简断舍离-Minimalism心理健康Impact](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-Minimalism%E5%BF%83%E7%90%86%E5%81%A5%E5%BA%B7Impact.md)
-- [极简断舍离-Minimalism总览](%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB/%E6%9E%81%E7%AE%80%E6%96%AD%E8%88%8D%E7%A6%BB-Minimalism%E6%80%BB%E8%A7%88.md)
-- [正念-正念临床Applications](%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md)
-- [正念-正念为基础压力Reduction](%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md)
-- [正念-正念为基础认知疗法](%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md)
-- [正念-正念核心](%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
-- [步行-步行Mindful技术](%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8CMindful%E6%8A%80%E6%9C%AF.md)
-- [步行-步行临床Protocols](%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8C%E4%B8%B4%E5%BA%8AProtocols.md)
-- [步行-步行整合Practices](%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8C%E6%95%B4%E5%90%88Practices.md)
-- [步行-步行理论Mechanisms](%E6%AD%A5%E8%A1%8C/%E6%AD%A5%E8%A1%8C-%E6%AD%A5%E8%A1%8C%E7%90%86%E8%AE%BAMechanisms.md)
-- [每日签到-DailyCheckin核心](%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E6%A0%B8%E5%BF%83.md)
-- [每日签到-DailyCheckin系统](%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E7%B3%BB%E7%BB%9F.md)
-- [生产力-卓越执行](%E7%94%9F%E4%BA%A7%E5%8A%9B/%E7%94%9F%E4%BA%A7%E5%8A%9B-%E5%8D%93%E8%B6%8A%E6%89%A7%E8%A1%8C.md)
-- [生产力-生产力核心](%E7%94%9F%E4%BA%A7%E5%8A%9B/%E7%94%9F%E4%BA%A7%E5%8A%9B-%E7%94%9F%E4%BA%A7%E5%8A%9B%E6%A0%B8%E5%BF%83.md)
-- [生产力-生产力高阶](%E7%94%9F%E4%BA%A7%E5%8A%9B/%E7%94%9F%E4%BA%A7%E5%8A%9B-%E7%94%9F%E4%BA%A7%E5%8A%9B%E9%AB%98%E9%98%B6.md)
-- [疗愈师职业-Healer职业总览](%E7%96%97%E6%84%88%E5%B8%88%E8%81%8C%E4%B8%9A-Healer%E8%81%8C%E4%B8%9A%E6%80%BB%E8%A7%88.md)
-- [直播带货-Broadcaster培训System](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7/%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-Broadcaster%E5%9F%B9%E8%AE%ADSystem.md)
-- [直播带货-LiveCommerce总览](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7/%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-LiveCommerce%E6%80%BB%E8%A7%88.md)
-- [直播带货-SupplyChain管理](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7/%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-SupplyChain%E7%AE%A1%E7%90%86.md)
-- [直播带货-分析仪表盘](%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7/%E7%9B%B4%E6%92%AD%E5%B8%A6%E8%B4%A7-%E5%88%86%E6%9E%90%E4%BB%AA%E8%A1%A8%E7%9B%98.md)
-- [社交媒体-BadFriends总览](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-BadFriends%E6%80%BB%E8%A7%88.md)
-- [社交媒体-Data分析System](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-Data%E5%88%86%E6%9E%90System.md)
-- [社交媒体-MKBHD总览](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-MKBHD%E6%80%BB%E8%A7%88.md)
-- [社交媒体-ShortVideoCreation技术](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-ShortVideoCreation%E6%8A%80%E6%9C%AF.md)
-- [社交媒体-Social媒体Operations总览](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-Social%E5%AA%92%E4%BD%93Operations%E6%80%BB%E8%A7%88.md)
-- [社交媒体-TWiT总览](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-TWiT%E6%80%BB%E8%A7%88.md)
-- [社交媒体-内容策略规划](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E5%86%85%E5%AE%B9%E7%AD%96%E7%95%A5%E8%A7%84%E5%88%92.md)
-- [社交媒体-变现模式](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E5%8F%98%E7%8E%B0%E6%A8%A1%E5%BC%8F.md)
-- [社交媒体-电影Storm总览](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E7%94%B5%E5%BD%B1Storm%E6%80%BB%E8%A7%88.md)
-- [社交媒体-社区OperationsStrategy](%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93/%E7%A4%BE%E4%BA%A4%E5%AA%92%E4%BD%93-%E7%A4%BE%E5%8C%BAOperationsStrategy.md)
-- [社会资本-社会资本孤独Bridge](%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC-%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC%E5%AD%A4%E7%8B%ACBridge.md)
-- [社会资本-社会资本实践](%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC-%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC%E5%AE%9E%E8%B7%B5.md)
-- [社会资本-社会资本总览](%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC/%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC-%E7%A4%BE%E4%BC%9A%E8%B5%84%E6%9C%AC%E6%80%BB%E8%A7%88.md)
-- [稳定内在核心-StableInner核心概论](%E7%A8%B3%E5%AE%9A%E5%86%85%E5%9C%A8%E6%A0%B8%E5%BF%83-StableInner%E6%A0%B8%E5%BF%83%E6%A6%82%E8%AE%BA.md)
-- [职业吸引力-Professional吸引力Enhancement报告](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9BEnhancement%E6%8A%A5%E5%91%8A.md)
-- [职业吸引力-Professional吸引力Quality报告](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9BQuality%E6%8A%A5%E5%91%8A.md)
-- [职业吸引力-Professional吸引力TerminologyStandards](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9BTerminologyStandards.md)
-- [职业吸引力-Professional吸引力临床评估](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E4%B8%B4%E5%BA%8A%E8%AF%84%E4%BC%B0.md)
-- [职业吸引力-Professional吸引力伦理Legal](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E4%BC%A6%E7%90%86Legal.md)
-- [职业吸引力-Professional吸引力总览](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E6%80%BB%E8%A7%88.md)
-- [职业吸引力-Professional吸引力案例Studies](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E6%A1%88%E4%BE%8BStudies.md)
-- [职业吸引力-Professional吸引力研究Methods](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-Professional%E5%90%B8%E5%BC%95%E5%8A%9B%E7%A0%94%E7%A9%B6Methods.md)
-- [职业吸引力-差距分析摘要](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-%E5%B7%AE%E8%B7%9D%E5%88%86%E6%9E%90%E6%91%98%E8%A6%81.md)
-- [职业吸引力-项目摘要](%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B/%E8%81%8C%E4%B8%9A%E5%90%B8%E5%BC%95%E5%8A%9B-%E9%A1%B9%E7%9B%AE%E6%91%98%E8%A6%81.md)
-- [职业规划-职业Ikigai](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9AIkigai.md)
-- [职业规划-职业Planning总览](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9APlanning%E6%80%BB%E8%A7%88.md)
-- [职业规划-职业Transition](%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92/%E8%81%8C%E4%B8%9A%E8%A7%84%E5%88%92-%E8%81%8C%E4%B8%9ATransition.md)
-- [职场表达-职场表达总览](%E8%81%8C%E5%9C%BA%E8%A1%A8%E8%BE%BE/%E8%81%8C%E5%9C%BA%E8%A1%A8%E8%BE%BE-%E8%81%8C%E5%9C%BA%E8%A1%A8%E8%BE%BE%E6%80%BB%E8%A7%88.md)
-- [自我慈悲-自我关怀总览](%E8%87%AA%E6%88%91%E6%85%88%E6%82%B2-%E8%87%AA%E6%88%91%E5%85%B3%E6%80%80%E6%80%BB%E8%A7%88.md)
-- [财商-FinancialIndependence火](%E8%B4%A2%E5%95%86/%E8%B4%A2%E5%95%86-FinancialIndependence%E7%81%AB.md)
-- [财商-FinancialLiteracy总览](%E8%B4%A2%E5%95%86/%E8%B4%A2%E5%95%86-FinancialLiteracy%E6%80%BB%E8%A7%88.md)
-- [财商-Investment心理学](%E8%B4%A2%E5%95%86/%E8%B4%A2%E5%95%86-Investment%E5%BF%83%E7%90%86%E5%AD%A6.md)
-- [财商-个人FinanceFundamentals](%E8%B4%A2%E5%95%86/%E8%B4%A2%E5%95%86-%E4%B8%AA%E4%BA%BAFinanceFundamentals.md)
-- [财商-金钱心态Beliefs](%E8%B4%A2%E5%95%86/%E8%B4%A2%E5%95%86-%E9%87%91%E9%92%B1%E5%BF%83%E6%80%81Beliefs.md)
-- [超级个体-Brandingand网络效应](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-Brandingand%E7%BD%91%E7%BB%9C%E6%95%88%E5%BA%94.md)
-- [超级个体-Monetizationand商业Models](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-Monetizationand%E5%95%86%E4%B8%9AModels.md)
-- [超级个体-OperatingSystemand工具](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-OperatingSystemand%E5%B7%A5%E5%85%B7.md)
-- [超级个体-Personal商业Models](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-Personal%E5%95%86%E4%B8%9AModels.md)
-- [超级个体-成长MethodologiesandFrameworks](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%88%90%E9%95%BFMethodologiesandFrameworks.md)
-- [超级个体-核心Competencies](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%A0%B8%E5%BF%83Competencies.md)
-- [超级个体-超级个体总览](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93%E6%80%BB%E8%A7%88.md)
-- [躯体实践-躯体实践总览](%E8%BA%AF%E4%BD%93%E5%AE%9E%E8%B7%B5-%E8%BA%AF%E4%BD%93%E5%AE%9E%E8%B7%B5%E6%80%BB%E8%A7%88.md)
-- [静修设计-静修设计总览](%E9%9D%99%E4%BF%AE%E8%AE%BE%E8%AE%A1-%E9%9D%99%E4%BF%AE%E8%AE%BE%E8%AE%A1%E6%80%BB%E8%A7%88.md)
+| 专题 | 内容要点 | 文档数 |
+|---|---|---|
+| [正念/](正念/INDEX.md) | 正念核心、MBSR/MBCT 自学、日常生活化实践（含 `正念日常生活/`） | 14 |
+| [心流/](心流/INDEX.md) | 心流触发条件、挑战-技能平衡 | 2 |
+| [专注/](专注/INDEX.md) | 注意力训练、深度工作、数字极简 | 2 |
+| [极简断舍离/](极简断舍离/INDEX.md) | 极简主义、物品整理、心理负荷减法 | 6 |
+| [步行/](步行/INDEX.md) | 步行作为身心实践、行走冥想 | 4 |
+| [拖延症/](拖延症/INDEX.md) 🪞 | 拖延的自我调节视角（**镜像目录**，临床主体在 06） | 5 |
 
-## 正念
+### 二、效率执行与自我管理 | Productivity & Self-Management
 
-- [正念-正念日常生活-Mindful_Daily_Living](正念/正念日常生活/正念-正念日常生活-Mindful_Daily_Living.md)
-- [正念-正念日常生活-Mindful_Drinking_Practice](正念/正念日常生活/正念-正念日常生活-Mindful_Drinking_Practice.md)
-- [正念-正念日常生活-Mindful_Meeting_Practice](正念/正念日常生活/正念-正念日常生活-Mindful_Meeting_Practice.md)
-- [正念-正念日常生活-Mindful_Walking_Practice](正念/正念日常生活/正念-正念日常生活-Mindful_Walking_Practice.md)
-- [正念-正念日常生活-Mindful_Walking_Protocols](正念/正念日常生活/正念-正念日常生活-Mindful_Walking_Protocols.md)
-- [正念-正念日常生活-MindfulDrinking实践](正念/正念日常生活/正念-正念日常生活-MindfulDrinking实践.md)
-- [正念-正念日常生活-MindfulMeeting实践](正念/正念日常生活/正念-正念日常生活-MindfulMeeting实践.md)
-- [正念-正念日常生活-Mindful步行Protocols](正念/正念日常生活/正念-正念日常生活-Mindful步行Protocols.md)
-- [正念-正念日常生活-Mindful步行实践](正念/正念日常生活/正念-正念日常生活-Mindful步行实践.md)
-- [正念-正念日常生活-正念DailyLiving](正念/正念日常生活/正念-正念日常生活-正念DailyLiving.md)
+| 专题 | 内容要点 | 文档数 |
+|---|---|---|
+| [生产力/](生产力/INDEX.md) | 生产力体系、精力管理 | 3 |
+| [任务管理/](任务管理/INDEX.md) | GTD/OKR 理论、数字工具、高阶策略 | 3 |
+| [每日签到/](每日签到/INDEX.md) | 打卡动机科学、系统设计 | 2 |
+| [日记写作/](日记写作/INDEX.md) | 反思日记方法论、治疗性写作 | 2 |
+| [决策制定/](决策制定/INDEX.md) | 决策模型、决策疲劳管理 | 3 |
+| [元学习/](元学习/INDEX.md) | 学习方法论、刻意练习、知识管理 | 6 |
+| [实践/](实践/INDEX.md) | 日常routine 方案与高阶实践整合 | 2 |
 
-## 职业吸引力
+### 三、职业进阶与职场生存 | Career & Workplace
 
-- [职业吸引力-护理-Nursing_Attraction_Clinical_Assessment](职业吸引力/护理/职业吸引力-护理-Nursing_Attraction_Clinical_Assessment.md)
-- [职业吸引力-护理-Nursing_Professional_Attraction](职业吸引力/护理/职业吸引力-护理-Nursing_Professional_Attraction.md)
-- [职业吸引力-护理-NursingProfessional吸引力](职业吸引力/护理/职业吸引力-护理-NursingProfessional吸引力.md)
-- [职业吸引力-护理-Nursing吸引力临床评估](职业吸引力/护理/职业吸引力-护理-Nursing吸引力临床评估.md)
-- [职业吸引力-教育-Education_Attraction_Clinical_Assessment](职业吸引力/教育/职业吸引力-教育-Education_Attraction_Clinical_Assessment.md)
-- [职业吸引力-教育-Education_Professional_Attraction](职业吸引力/教育/职业吸引力-教育-Education_Professional_Attraction.md)
-- [职业吸引力-教育-EducationProfessional吸引力](职业吸引力/教育/职业吸引力-教育-EducationProfessional吸引力.md)
-- [职业吸引力-教育-Education吸引力临床评估](职业吸引力/教育/职业吸引力-教育-Education吸引力临床评估.md)
-- [职业吸引力-航空-Aviation_Attraction_Clinical_Assessment](职业吸引力/航空/职业吸引力-航空-Aviation_Attraction_Clinical_Assessment.md)
-- [职业吸引力-航空-Aviation_Professional_Attraction](职业吸引力/航空/职业吸引力-航空-Aviation_Professional_Attraction.md)
-- [职业吸引力-航空-AviationProfessional吸引力](职业吸引力/航空/职业吸引力-航空-AviationProfessional吸引力.md)
-- [职业吸引力-航空-Aviation吸引力临床评估](职业吸引力/航空/职业吸引力-航空-Aviation吸引力临床评估.md)
-- [职业吸引力-芭蕾-Ballet_Attraction_Clinical_Assessment](职业吸引力/芭蕾/职业吸引力-芭蕾-Ballet_Attraction_Clinical_Assessment.md)
-- [职业吸引力-芭蕾-Ballet_Professional_Attraction](职业吸引力/芭蕾/职业吸引力-芭蕾-Ballet_Professional_Attraction.md)
-- [职业吸引力-芭蕾-芭蕾Professional吸引力](职业吸引力/芭蕾/职业吸引力-芭蕾-芭蕾Professional吸引力.md)
-- [职业吸引力-芭蕾-芭蕾吸引力临床评估](职业吸引力/芭蕾/职业吸引力-芭蕾-芭蕾吸引力临床评估.md)
+| 专题 | 内容要点 | 文档数 |
+|---|---|---|
+| [职场表达/](职场表达/INDEX.md) | 向上管理、绩效PIP、职业谈判、权益申诉、反PUA、日常沟通（6 子目录） | 61 |
+| [职业吸引力/](职业吸引力/INDEX.md) | 个人品牌、职业形象、影响力建设（4 子目录） | 26 |
+| [职业规划/](职业规划/INDEX.md) | 职业路径设计、转型决策 | 3 |
+| [当众表达/](当众表达/INDEX.md) | 公共演讲、临场应对 | 2 |
+| [社会资本/](社会资本/INDEX.md) | Bourdieu/Putnam 理论、弱关系、结构洞、邓巴数 | 3 |
+| [情商/](情商/INDEX.md) | Mayer-Salovey/Goleman 模型、领导力 EQ、情绪调节训练 | 4 |
 
-## 职场表达
+### 四、财商与商业实践 | Finance & Business
 
-- [职场表达-反PUA-Workplace_Anti_PUA_Leadership](职场表达/反PUA/职场表达-反PUA-Workplace_Anti_PUA_Leadership.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Case_Library](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Case_Library.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Intervention_and_Recovery.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Knowledge_Database](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Knowledge_Database.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Legal_References](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Legal_References.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Psychology](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Psychology.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Response_Methodology](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Response_Methodology.md)
-- [职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Sociology](职场表达/反PUA/职场表达-反PUA-Workplace_Verbal_Bullying_PUA_Sociology.md)
-- [职场表达-反PUA-职场AntiPUA领导力](职场表达/反PUA/职场表达-反PUA-职场AntiPUA领导力.md)
-- [职场表达-反PUA-职场VerbalBullyingPUAKnowledgeDatabase](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUAKnowledgeDatabase.md)
-- [职场表达-反PUA-职场VerbalBullyingPUALegalReferences](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUALegalReferences.md)
-- [职场表达-反PUA-职场VerbalBullyingPUAResponseMethodology](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUAResponseMethodology.md)
-- [职场表达-反PUA-职场VerbalBullyingPUASociology](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUASociology.md)
-- [职场表达-反PUA-职场VerbalBullyingPUA干预and恢复](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUA干预and恢复.md)
-- [职场表达-反PUA-职场VerbalBullyingPUA心理学](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUA心理学.md)
-- [职场表达-反PUA-职场VerbalBullyingPUA案例Library](职场表达/反PUA/职场表达-反PUA-职场VerbalBullyingPUA案例Library.md)
-- [职场表达-向上管理-Workplace_Cross_Functional_Conflict_Resolution](职场表达/向上管理/职场表达-向上管理-Workplace_Cross_Functional_Conflict_Resolution.md)
-- [职场表达-向上管理-Workplace_Manager_Communication_Style_Profiling_System_Design](职场表达/向上管理/职场表达-向上管理-Workplace_Manager_Communication_Style_Profiling_System_Design.md)
-- [职场表达-向上管理-Workplace_Skip_Level_and_HR_Escalation](职场表达/向上管理/职场表达-向上管理-Workplace_Skip_Level_and_HR_Escalation.md)
-- [职场表达-向上管理-Workplace_Upward_Management](职场表达/向上管理/职场表达-向上管理-Workplace_Upward_Management.md)
-- [职场表达-向上管理-Workplace_Upward_Management_Professional_Framework](职场表达/向上管理/职场表达-向上管理-Workplace_Upward_Management_Professional_Framework.md)
-- [职场表达-向上管理-Workplace_Upward_Reporting_Templates](职场表达/向上管理/职场表达-向上管理-Workplace_Upward_Reporting_Templates.md)
-- [职场表达-向上管理-职场CrossFunctionalConflictResolution](职场表达/向上管理/职场表达-向上管理-职场CrossFunctionalConflictResolution.md)
-- [职场表达-向上管理-职场Manager沟通StyleProfilingSystem设计](职场表达/向上管理/职场表达-向上管理-职场Manager沟通StyleProfilingSystem设计.md)
-- [职场表达-向上管理-职场SkipLevelandHREscalation](职场表达/向上管理/职场表达-向上管理-职场SkipLevelandHREscalation.md)
-- [职场表达-向上管理-职场UpwardReportingTemplates](职场表达/向上管理/职场表达-向上管理-职场UpwardReportingTemplates.md)
-- [职场表达-向上管理-职场Upward管理](职场表达/向上管理/职场表达-向上管理-职场Upward管理.md)
-- [职场表达-向上管理-职场Upward管理Professional框架](职场表达/向上管理/职场表达-向上管理-职场Upward管理Professional框架.md)
-- [职场表达-日常沟通-Workplace_Email_WeChat_Minutes_Templates](职场表达/日常沟通/职场表达-日常沟通-Workplace_Email_WeChat_Minutes_Templates.md)
-- [职场表达-日常沟通-Workplace_High_Pressure_Meeting_Handbook](职场表达/日常沟通/职场表达-日常沟通-Workplace_High_Pressure_Meeting_Handbook.md)
-- [职场表达-日常沟通-Workplace_High_Risk_Conversation_Scripts](职场表达/日常沟通/职场表达-日常沟通-Workplace_High_Risk_Conversation_Scripts.md)
-- [职场表达-日常沟通-Workplace_High_Risk_Sensitive_Language_Database](职场表达/日常沟通/职场表达-日常沟通-Workplace_High_Risk_Sensitive_Language_Database.md)
-- [职场表达-日常沟通-职场EmailWeChatMinutesTemplates](职场表达/日常沟通/职场表达-日常沟通-职场EmailWeChatMinutesTemplates.md)
-- [职场表达-日常沟通-职场HighPressureMeeting手册](职场表达/日常沟通/职场表达-日常沟通-职场HighPressureMeeting手册.md)
-- [职场表达-日常沟通-职场HighRiskConversationScripts](职场表达/日常沟通/职场表达-日常沟通-职场HighRiskConversationScripts.md)
-- [职场表达-日常沟通-职场HighRiskSensitiveLanguageDatabase](职场表达/日常沟通/职场表达-日常沟通-职场HighRiskSensitiveLanguageDatabase.md)
-- [职场表达-权益申诉-Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide](职场表达/权益申诉/职场表达-权益申诉-Workplace_Bullying_Discrimination_Evidence_and_Complaint_Guide.md)
-- [职场表达-权益申诉-Workplace_Complaint_Email_and_Arbitration_Request_Templates](职场表达/权益申诉/职场表达-权益申诉-Workplace_Complaint_Email_and_Arbitration_Request_Templates.md)
-- [职场表达-权益申诉-Workplace_Exception_Case_Management_System_Design](职场表达/权益申诉/职场表达-权益申诉-Workplace_Exception_Case_Management_System_Design.md)
-- [职场表达-权益申诉-Workplace_Manager_Emotional_Self_Check](职场表达/权益申诉/职场表达-权益申诉-Workplace_Manager_Emotional_Self_Check.md)
-- [职场表达-权益申诉-职场BullyingDiscrimination循证andComplaint指南](职场表达/权益申诉/职场表达-权益申诉-职场BullyingDiscrimination循证andComplaint指南.md)
-- [职场表达-权益申诉-职场ComplaintEmailandArbitrationRequestTemplates](职场表达/权益申诉/职场表达-权益申诉-职场ComplaintEmailandArbitrationRequestTemplates.md)
-- [职场表达-权益申诉-职场Exception案例管理System设计](职场表达/权益申诉/职场表达-权益申诉-职场Exception案例管理System设计.md)
-- [职场表达-权益申诉-职场ManagerEmotionalSelfCheck](职场表达/权益申诉/职场表达-权益申诉-职场ManagerEmotionalSelfCheck.md)
-- [职场表达-绩效PIP-Workplace_Performance_and_Critical_Feedback_Templates](职场表达/绩效PIP/职场表达-绩效PIP-Workplace_Performance_and_Critical_Feedback_Templates.md)
-- [职场表达-绩效PIP-Workplace_PIP_Response_Guide](职场表达/绩效PIP/职场表达-绩效PIP-Workplace_PIP_Response_Guide.md)
-- [职场表达-绩效PIP-Workplace_PIP_Weekly_Report_and_Retrospective_Templates](职场表达/绩效PIP/职场表达-绩效PIP-Workplace_PIP_Weekly_Report_and_Retrospective_Templates.md)
-- [职场表达-绩效PIP-职场PerformanceandCriticalFeedbackTemplates](职场表达/绩效PIP/职场表达-绩效PIP-职场PerformanceandCriticalFeedbackTemplates.md)
-- [职场表达-绩效PIP-职场PIPResponse指南](职场表达/绩效PIP/职场表达-绩效PIP-职场PIPResponse指南.md)
-- [职场表达-绩效PIP-职场PIPWeekly报告andRetrospectiveTemplates](职场表达/绩效PIP/职场表达-绩效PIP-职场PIPWeekly报告andRetrospectiveTemplates.md)
-- [职场表达-职业谈判-Workplace_Background_Check_Risk_Control_Guide](职场表达/职业谈判/职场表达-职业谈判-Workplace_Background_Check_Risk_Control_Guide.md)
-- [职场表达-职业谈判-Workplace_Layoff_and_Exit_Negotiation_Guide](职场表达/职业谈判/职场表达-职业谈判-Workplace_Layoff_and_Exit_Negotiation_Guide.md)
-- [职场表达-职业谈判-Workplace_Offer_Email_and_WeChat_Negotiation_Templates](职场表达/职业谈判/职场表达-职业谈判-Workplace_Offer_Email_and_WeChat_Negotiation_Templates.md)
-- [职场表达-职业谈判-Workplace_Offer_Negotiation_and_Salary_Raise_Templates](职场表达/职业谈判/职场表达-职业谈判-Workplace_Offer_Negotiation_and_Salary_Raise_Templates.md)
-- [职场表达-职业谈判-Workplace_Pre_Exit_Risk_Protection_Checklist](职场表达/职业谈判/职场表达-职业谈判-Workplace_Pre_Exit_Risk_Protection_Checklist.md)
-- [职场表达-职业谈判-职场BackgroundCheckRiskControl指南](职场表达/职业谈判/职场表达-职业谈判-职场BackgroundCheckRiskControl指南.md)
-- [职场表达-职业谈判-职场LayoffandExit谈判指南](职场表达/职业谈判/职场表达-职业谈判-职场LayoffandExit谈判指南.md)
-- [职场表达-职业谈判-职场OfferEmailandWeChat谈判Templates](职场表达/职业谈判/职场表达-职业谈判-职场OfferEmailandWeChat谈判Templates.md)
-- [职场表达-职业谈判-职场Offer谈判andSalaryRaiseTemplates](职场表达/职业谈判/职场表达-职业谈判-职场Offer谈判andSalaryRaiseTemplates.md)
-- [职场表达-职业谈判-职场PreExitRiskProtection清单](职场表达/职业谈判/职场表达-职业谈判-职场PreExitRiskProtection清单.md)
+| 专题 | 内容要点 | 文档数 |
+|---|---|---|
+| [财商/](财商/INDEX.md) | 理财基础、投资心理、FIRE 运动、金钱信念 | 5 |
+| [社交媒体/](社交媒体/INDEX.md) | 自媒体运营体系、内容策略、平台方法论 | 10 |
+| [直播带货/](直播带货/INDEX.md) | 直播运营、供应链、话术设计 | 4 |
+| [超级个体/](超级个体/INDEX.md) | 一人公司、个人商业模式、能力杠杆 | 9 |
 
-## 超级个体
+### 五、经典著作主题精读 | Classic Works by Theme
 
-- [超级个体-技能-_manifest](超级个体/技能/超级个体-技能-_manifest.md)
-- [超级个体-技能-Leadership_Assessment_Skill](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E6%8A%80%E8%83%BD/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%8A%80%E8%83%BD-%E9%A2%86%E5%AF%BC%E5%8A%9B%E8%AF%84%E4%BC%B0Skill.md)
-- [超级个体-技能-显化](%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93/%E6%8A%80%E8%83%BD/%E8%B6%85%E7%BA%A7%E4%B8%AA%E4%BD%93-%E6%8A%80%E8%83%BD-_manifest.md)
-- [超级个体-技能-领导力评估Skill](超级个体/技能/超级个体-技能-领导力评估Skill.md)
+| 专题 | 内容要点 | 文档数 |
+|---|---|---|
+| [主题/](主题/INDEX.md) | 按主题聚合的经典自我发展著作精读（枢纽，含 `习惯行为/` `心态心理/` `意义智慧/` `沟通影响力/` `生产力表现/` 五个子目录） | 35 |
+
+---
+
+## 📖 跨主题总览文档 | Cross-Topic Overviews
+
+> 依 [目录规范 §5.3](../../规范/DIRECTORY_CONVENTIONS.md)，同一 domain 有 5+ 总览文档时保留在 domain 顶层，不下沉子目录（保证跨主题浏览能力）。
+
+| 总览文档 | 覆盖范围 |
+|---|---|
+| [疗愈师职业-Healer职业总览](疗愈师职业-Healer职业总览.md) | 职业图谱、认证体系（MBSR/艺术治疗/躯体）、伦理、督导、个案管理 |
+| [静修设计-静修设计总览](静修设计-静修设计总览.md) | 静修类型矩阵、设计五要素、3 天日程、团体动力、商业运营 |
+| [躯体实践-躯体实践总览](躯体实践-躯体实践总览.md) | SE/Feldenkrais/SP/BMC/Alexander、自下而上理论 |
+| [自我慈悲-自我关怀总览](自我慈悲-自我关怀总览.md) | Neff 三成分、MSC 8 周、同情疲劳防护 |
+| [心理韧性-Mental韧性总览](心理韧性-Mental韧性总览.md) | 韧性因子、创伤后成长、逆境应对 |
+| [稳定内在核心-StableInner核心概论](稳定内在核心-StableInner核心概论.md) | 自我分化、价值观明晰、认知免疫 |
+
+---
+
+## 🔗 跨域引用 | Cross References
+
+| 需求 | 主入口 | 分工说明 |
+|---|---|---|
+| 冥想传统与技法体系 | [02-心智心理/冥想/](../../02-心智心理/冥想/INDEX.md) | 本目录只保留日常自我实践 |
+| 自我调节的心理学理论 | [02-心智心理/心理学/自我调节/](../../02-心智心理/心理学/自我调节/INDEX.md) | 理论在 02，实践工具在本目录 |
+| 情绪科学基础 | [02-心智心理/心理学/情绪/](../../02-心智心理/心理学/情绪/INDEX.md) | 情商应用在本目录 |
+| 拖延、职业倦怠等临床议题 | [06-临床专题/](../../06-临床专题/INDEX.md) | 评估与干预以 06 为准 |
+| 沟通技能（NVC/谈判/教练式聆听） | [05-实践成长/沟通/](../沟通/INDEX.md) | 职场语境的表达在本目录 `职场表达/` |
+| 写作与出版 | [05-实践成长/写作/](../写作/INDEX.md) | 反思性日记在本目录 `日记写作/` |
+| 演讲库（TED/一席） | [05-实践成长/演讲/](../演讲/INDEX.md) | 演讲技巧在本目录 `当众表达/` |
+| 表达性艺术疗法 | [04-人文艺术/艺术/](../../04-人文艺术/艺术/INDEX.md) | 疗愈师职业路径在本目录 |
+
+---
+
+## ➕ 扩展约定 | Extension Rules
+
+1. **新增专题** → 建同名子目录 + INDEX.md，文件名统一前缀 `<子目录名>-`，并在上方对应能力域表格补一行
+2. **新增总览类文档**（跨 3 个以上专题）→ 放本目录顶层，文件名 `<主题>-<主题>总览.md`，登记到「跨主题总览文档」表
+3. **子目录内文档 > 15 篇** → 按二级主题再分子目录（参考 `职场表达/`）
+4. **临床性内容**（诊断/疗法/疗效）→ 不放本目录，投递 06-临床专题，并在跨域引用表登记
+5. 单文档专题不单独建目录（避免 <2 md 子目录），先并入最相近的既有专题
+
+---
+
+*上级：[05-实践成长/](../INDEX.md) | 目录规范：[DIRECTORY_CONVENTIONS.md](../../规范/DIRECTORY_CONVENTIONS.md)*
