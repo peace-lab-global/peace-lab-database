@@ -51,7 +51,7 @@ ROOT = Path(__file__).resolve().parent.parent.parent  # repo root
 EXCLUDE_DIRS = {
     '.git', '.venv', 'venv', '.env', 'site', 'node_modules',
     'logs', 'reports', 'Tools', 'Project', 'Web', 'Visualization',
-    '_meta', '.claude', '.codebuddy', '.qoder', '.trae',
+    '规范', '.claude', '.codebuddy', '.qoder', '.trae',
     '__pycache__', '.cache',
 }
 

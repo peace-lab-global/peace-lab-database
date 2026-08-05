@@ -112,10 +112,14 @@ graph LR
 peace-lab-database/
 ├── 01~05-*/                  ← 五大内容支柱（知识主体）
 ├── 06-临床专题/       ← 临床专题聚合层（跨支柱临床知识包，按疾病维度组织）
+├── 07-行业观察/              ← 行业观察层（App/平台/政策/医学进展等行业动态）
+├── 08-跨领域研究/            ← 跨领域研究层（意识/具身/冥想/整合医学等交叉课题）
 │
-├── _meta/                    ← 知识关联层（cross-references, learning-paths, topic-maps, skills-index）
-│   ├── docs/                 ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY, CRISIS_RESOURCES 等）
-│   └── research-topics/      ← 跨领域课题研究（原 07 层，已降级并入：意识/具身/冥想/整合医学等交叉研究）
+├── 规范/                     ← 项目规范文档（CONTRIBUTING, GLOSSARY, TAXONOMY, CRISIS_RESOURCES 等）
+├── 学习路径/                 ← 结构化学习路径（按主题的入门到进阶路线）
+├── 项目/                     ← 项目实践（master-of-solitude, peace-lab）
+├── cross-references.md       ← 跨支柱交叉引用索引
+├── skills-index.md           ← Agent Skills 聚合索引
 │
 ├── Web/                      ← Web 站点层（MkDocs 配置、assets、docs、visualization 知识图谱前端）
 ├── Tools/                    ← 质量工具与运维（scripts 脚本、reports 审计报告、qa-corpus、plans、logs）
@@ -124,18 +128,18 @@ peace-lab-database/
 └── README.md / LICENSE / .gitignore   ← 项目入口、许可与忽略规则
 ```
 
-> 注：历史布局中的 `docs/`、`Project/`、`scripts/`、`Visualization/`、`资源/`、`site/`、`mkdocs.yml` 等顶层项已重组：规范文档归入 `_元信息/docs/`，运维脚本归入 `Tools/scripts/`，可视化归入 `Web/可视化/`。
+> 注：历史布局中的 `docs/`、`Project/`、`scripts/`、`Visualization/`、`资源/`、`site/`、`mkdocs.yml` 等顶层项已重组：规范文档归入 `规范/`，运维脚本归入 `Tools/scripts/`，可视化归入 `Web/可视化/`。
 
-### `_元信息/docs/` vs `_元信息/` 边界
+### `规范/` vs 根目录知识关联层 边界
 
 | 目录 | 职责 | 典型内容 |
 |:-----|:-----|:---------|
-| `_元信息/docs/` | **项目规范**：面向贡献者的标准文档 | CONTRIBUTING.md, GLOSSARY.md, TAXONOMY.md, DIRECTORY_CONVENTIONS.md, CRISIS_RESOURCES.md |
-| `_元信息/`（根） | **知识关联**：跨支柱的知识图谱与索引 | cross-references.md, learning-paths/, topic-maps/, skills-index.md |
+| `规范/` | **项目规范**：面向贡献者的标准文档 | CONTRIBUTING.md, GLOSSARY.md, TAXONOMY.md, DIRECTORY_CONVENTIONS.md, CRISIS_RESOURCES.md |
+| 根目录（知识关联） | **知识关联**：跨支柱的知识图谱与索引 | cross-references.md, skills-index.md, 学习路径/ |
 
 **原则**：
-- 规范类文档 → `_元信息/docs/`
-- 知识关联/索引/地图 → `_元信息/`
+- 规范类文档 → `规范/`
+- 知识关联/索引/路径 → 根目录或 `学习路径/`
 - Agent Skills 嵌入在各专题的 `技能/` 子目录中，`skills-index.md` 提供聚合索引
 
 ---
@@ -144,6 +148,7 @@ peace-lab-database/
 
 | 日期 | 变更 | 理由 |
 |------|------|------|
+| 2026-07-30 | `_meta/` 拆分：docs/ 升为顶层 `规范/`，learning-paths/ 升为 `学习路径/`，research-topics/ 升格为 `08-跨领域研究/`，cross-references.md 与 skills-index.md 移至根目录，topic-maps/ 移除 | 知识关联层扁平化，顶层语义更清晰 |
 | 2026-06-01 | `06-topic/` 合并入 `06-临床专题/`，消除 06- 编号冲突 | 目录审计 P0 |
 | 2026-06-01 | `cbt-疗法/` 合并入 `认知行为疗法/`，消除 CBT 重复 | 目录审计 P0 |
 | 2026-06-01 | `sufi-冥想/` 合并入 `苏菲冥想/`，消除苏菲冥想重复 | 目录审计 P1 |

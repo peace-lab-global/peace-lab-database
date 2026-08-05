@@ -396,8 +396,8 @@ cross_refs:
 
 - [冥想与睡眠](../总览与理论/基础-总览-Meditation_And_Sleep.md)
 - [儿童青少年冥想](基础-总览-Children_Youth_Meditation.md)
-- [慢性疼痛冥想](../../临床/临床病症/临床-临床病症-Meditation_Chronic_Pain.md)
-- [冥想与心血管](../../临床/临床病症/临床-临床病症-Meditation_Cardiovascular_Health.md)
+- [慢性疼痛冥想](../../临床/临床病症/冥想与躯体疾病/临床-临床病症-Meditation_Chronic_Pain.md)
+- [冥想与心血管](../../临床/临床病症/冥想与躯体疾病/临床-临床病症-Meditation_Cardiovascular_Health.md)
 - [身体扫描](../../引导/引导-核心-Scripts身体Scan.md)
 - [慈心冥想](../../引导/引导-核心-Scripts慈爱善意.md)
 

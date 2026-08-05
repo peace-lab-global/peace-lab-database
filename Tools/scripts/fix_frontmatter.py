@@ -14,7 +14,7 @@ from datetime import datetime
 from collections import Counter
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github', 'node_modules',
-                '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 REQUIRED_FIELDS = ['title', 'description', 'category', 'tags', 'last_updated']
 

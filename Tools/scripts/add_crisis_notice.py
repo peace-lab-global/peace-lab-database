@@ -11,7 +11,7 @@ import os
 import re
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github',
-                'node_modules', '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                'node_modules', '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 CRISIS_KEYWORDS = [
     r'自杀', r'suicid', r'自残', r'self-?harm',
@@ -54,7 +54,7 @@ CRISIS_NOTICE = """
 | 🇭🇰 香港 | 撒玛利亚防止自杀会 | **2389-0000** |
 | 🇹🇼 台湾 | 生命线 | **1995** |
 
-**完整资源列表**:[_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)
+**完整资源列表**:规范/CRISIS_RESOURCES.md
 
 **全球资源**:[Befrienders Worldwide](https://www.befrienders.org) | [WHO 心理健康](https://www.who.int/health-topics/mental-health)
 

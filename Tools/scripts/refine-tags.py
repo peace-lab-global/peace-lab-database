@@ -12,7 +12,7 @@ from collections import Counter, defaultdict
 
 ROOT = Path(".")
 SKIP_DIRS = {'.git', '.venv', 'site', 'node_modules', 'logs', 'reports',
-             'Tools', 'Project', 'Web', 'Visualization', '_meta',
+             'Tools', 'Project', 'Web', 'Visualization', '规范',
              '.claude', '.codebuddy', '.qoder', '.trae'}
 
 # Pillar-specific tag priorities (most specific tags per domain)

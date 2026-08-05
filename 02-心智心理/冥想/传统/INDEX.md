@@ -16,7 +16,7 @@ auto_generated: true
 ### 主题目录 (Topic Directories)
 
 - [佛教/](佛教/INDEX.md) (78 md)
-- [大师/](大师/INDEX.md) (76 md)
+- [大师/](大师/INDEX.md) (75 md)
 - [印度瑜伽/](印度瑜伽/INDEX.md) (33 md)
 - [亚伯拉罕宗教/](亚伯拉罕宗教/INDEX.md) (23 md)
 - [东亚/](东亚/INDEX.md) (19 md)

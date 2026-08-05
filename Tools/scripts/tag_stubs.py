@@ -16,7 +16,7 @@ import re
 from datetime import datetime
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github',
-                'node_modules', '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                'node_modules', '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 STUB_PATTERNS = [
     r'TODO[:\s]',

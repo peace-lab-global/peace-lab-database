@@ -2,8 +2,8 @@
 """
 Structural drift detector for Peace Lab Database.
 
-Codifies the rules in _meta/docs/DIRECTORY_CONVENTIONS.md and
-_meta/docs/TAXONOMY.md into executable checks. Serves two roles:
+Codifies the rules in 规范/DIRECTORY_CONVENTIONS.md and
+规范/TAXONOMY.md into executable checks. Serves two roles:
   1. Local audit  — `python3 Tools/scripts/structural_audit.py`
   2. CI guardrail — exits non-zero if NEW violations appear (baseline mode)
 

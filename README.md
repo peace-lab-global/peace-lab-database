@@ -23,7 +23,7 @@ cross_refs:
 ---
 
 ## 🧭 知识架构 (Architecture)
-*五大核心支柱 + 一个临床聚合层 (Five Pillars + One Clinical Layer；跨领域研究已并入 _meta 知识关联层)*
+*五大核心支柱 + 一个临床聚合层 (Five Pillars + One Clinical Layer；跨领域研究独立为 08-跨领域研究 层)*
 
 ### 五大核心支柱 (The Five Pillars)
 
@@ -47,7 +47,7 @@ cross_refs:
 ### 6. [🏥 临床专题 (Clinical Topics)](06-临床专题/INDEX.md)
 **核心领域**: 跨支柱临床知识包 —— 焦虑、抑郁、睡眠障碍、哀伤丧亲、拖延症、MBCT 正念认知疗法，按疾病/问题维度聚合，面向临床实践。
 
-> 🔬 **跨领域课题研究 (research-topics)** 已降级并入 `_元信息/` 知识关联层：[research-topics](08-跨领域研究/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
+> 🔬 **跨领域课题研究 (research-topics)** 独立为跨领域研究层：[research-topics](08-跨领域研究/INDEX.md) —— 意识科学、具身认知、冥想科学、整合医学、创伤身心、文化心理学六大前沿交叉研究。
 
 ---
 

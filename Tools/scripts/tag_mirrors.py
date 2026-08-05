@@ -22,7 +22,7 @@ from collections import defaultdict
 from datetime import datetime
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.qoder', '.claude', '.github',
-                'node_modules', '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                'node_modules', '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 # domain 优先级(数字越小越权威)
 DOMAIN_PRIORITY = {

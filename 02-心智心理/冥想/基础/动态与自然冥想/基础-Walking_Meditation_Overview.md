@@ -226,7 +226,7 @@ cross_refs:
 - [正念行走技术体系](基础-Walking_Meditation_Techniques.md) — 详细技术实施指南
 - [动态冥想](基础-总览-Movement_Meditation.md) — 相关运动冥想专题
 - [老年冥想](../特定人群/基础-总览-Meditation_Seniors_Elderly.md) — 包含正念行走的老年改良版
-- [一行禅师](../../传统/大师/传统-大师-当代灵性-Thich_Nhat_Hanh.md) — 行禅在西方的主要推广者
+- [一行禅师](../../传统/大师/当代灵性/传统-大师-当代灵性-Thich_Nhat_Hanh.md) — 行禅在西方的主要推广者
 
 ---
 

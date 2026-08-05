@@ -109,4 +109,4 @@ status: "in-progress"
 | 2026-07-01 | 任务 10-12 收尾：新增 06 临床包 Trauma-PTSD 与 Addiction（各 INDEX + 4 临床标准文档）；新增 07 五大领域示范研究论文（意识/具身/整合医学/创伤/文化）；补 Debussy 作曲家文档；vibe_images 归位 Web/assets/。中文目录名规范化（12b）评估后决定保留 |
 
 ---
-*返回 [README](../../README.md)*
+*返回 [README](../../../../README.md)*

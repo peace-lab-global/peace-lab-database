@@ -41,6 +41,8 @@ def main():
         for m in re.finditer(r'(?!!)\[([^\]]*)\]\(([^)]+)\)', scan_text):
             txt = m.group(1)
             link = m.group(2).split('#')[0].strip()
+            # 去掉 markdown 链接尾部的引号 title，如 (url "标题") 或 docsify 的 (url ':ignore')
+            link = re.sub(r"\s+(['\"]).*\1$", '', link).strip()
             if not link or link.startswith(('http://', 'https://', 'mailto:')):
                 continue
             decoded = unquote(link)

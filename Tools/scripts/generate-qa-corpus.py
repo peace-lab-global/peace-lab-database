@@ -16,7 +16,7 @@ from collections import defaultdict
 ROOT = Path(".")
 OUTPUT_DIR = ROOT / "qa-corpus"
 SKIP_DIRS = {'.git', '.venv', 'site', 'node_modules', 'logs', 'reports',
-             'Tools', 'Project', 'Web', 'Visualization', '_meta',
+             'Tools', 'Project', 'Web', 'Visualization', '规范',
              '.claude', '.codebuddy', '.qoder', '.trae'}
 
 PILLAR_NAMES = {

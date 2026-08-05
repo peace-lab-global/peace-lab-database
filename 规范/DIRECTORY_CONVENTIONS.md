@@ -100,7 +100,7 @@ Peace Lab Database 区分四种目录类型,各类型有不同的内容规则:
 ### 2.3 INDEX.md 命名
 
 - 每个有子目录的目录都应有 `INDEX.md`
-- 例外:`_元信息/`, `Tools/`, `Web/` 等元/工具目录不需要
+- 例外:`规范/`, `Tools/`, `Web/` 等元/工具目录不需要
 
 ---
 
@@ -141,7 +141,7 @@ python3 Tools/scripts/generate_index.py            # 执行
 - [ ] 没有 > 50 md 的纯平铺目录(应拆分子目录)
 - [ ] 顶层散文件(非 INDEX.md) < 3 个
 - [ ] 没有拼写错误的目录名(如 `infograhic`)
-- [ ] 跨域引用的镜像目录已记录在 `_元信息/topic-maps/`
+- [ ] 跨域引用的镜像目录已在双侧 INDEX 中互相声明（见 MIRROR_POLICY.md）
 
 ### 健康度脚本
 
@@ -164,7 +164,7 @@ python3 Tools/scripts/generate_index.py --dry-run
 
 ### 5.2 元文档(About This Repo)
 
-文档管理、命名规范本身放在 `_元信息/` 下,例如本文档。
+文档管理、命名规范本身放在 `规范/` 下,例如本文档。
 
 ### 5.3 总览文档(Overview Documents)
 
@@ -183,4 +183,4 @@ python3 Tools/scripts/generate_index.py --dry-run
 
 ---
 
-*返回 [规范/](.) | 上级:[_meta/](../INDEX.md)*
+*返回 [规范/](.) | 上级:[根目录](../README.md)*

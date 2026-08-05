@@ -43,7 +43,7 @@ class LinkChecker:
         exclude = {
             '.git', '.venv', 'venv', '.env', 'site', 'node_modules',
             'logs', 'reports', 'Tools', 'Project', 'Web', 'Visualization',
-            '_meta', '.claude', '.codebuddy', '.qoder', '.trae',
+            '规范', '.claude', '.codebuddy', '.qoder', '.trae',
             '__pycache__', '.cache',
         }
         md_files = []

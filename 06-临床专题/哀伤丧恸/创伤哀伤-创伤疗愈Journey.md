@@ -4,7 +4,7 @@ last_disclaimer_added: "2026-06-23"
 title: "💚 创伤疗愈学习路径 (Trauma Healing Journey)"
 description: "1. [创伤心理学](../../02-心智心理/心理学/临床/创伤/INDEX.md)
 2. [躯体体验疗法](../../02-心智心理/心理学/躯体身心/躯体/INDEX.md)
-3. [危机评估](../...."
+3. [危机评估](../../02-心智心理/心理学/临床/临床-危机评估-危机评估工具.md)"
 category: "临床专题 > Grief-Bereavement"
 tags: ["trauma"]
 last_updated: "2026-06"

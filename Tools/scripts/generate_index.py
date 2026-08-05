@@ -12,7 +12,7 @@ SKIP_DIRS = {
     'node_modules', '.playwright-cli', '.storybook', 'cypress',
     'vibe_images', '.github'
 }
-SKIP_PREFIXES = ('Web/', 'Tools/', '_meta/')
+SKIP_PREFIXES = ('Web/', 'Tools/', '规范/')
 
 # 目录中文名映射（基于已知内容）
 CATEGORY_MAP = {
@@ -217,7 +217,7 @@ from datetime import datetime
 
 EXCLUDE_DIRS = {
     '.git', '.venv', '.qoder', '.claude', '.github', 'node_modules',
-    '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images',
+    '__pycache__', '规范', 'Tools', 'Web', 'vibe_images',
 }
 
 # 中文标题映射

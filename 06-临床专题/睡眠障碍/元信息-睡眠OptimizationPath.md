@@ -3,7 +3,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 title: "🌙 睡眠优化学习路径 (Sleep Optimization Path)"
 description: "1. [睡眠科学与节律优化](../../02-心智心理/心理学/躯体身心/睡眠/躯体身心-睡眠-Bio睡眠科学.md)
-2. [梦的科学](../../../02-心智心理/心理学/somati..."
+2. [梦的科学](../../02-心智心理/心理学/躯体身心/睡眠/躯体身心-睡眠-Bio睡眠Dreams.md)"
 category: "临床专题 > Sleep-Disorders"
 tags: ["sleep"]
 last_updated: "2026-06"

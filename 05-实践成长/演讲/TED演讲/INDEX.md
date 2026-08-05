@@ -1,98 +1,51 @@
 ---
-title: "TED演讲 | TED演讲"
-description: "目录索引 —— 列出本目录的子目录与文件清单"
-category: "目录索引"
-tags: ["index", "directory"]
-last_updated: "2026-07-17"
-auto_generated: true
+title: "TED演讲 | TED Talks"
+description: "TED 演讲疗愈专题 —— 81 个演讲框架与主题文档，按七大主题分组"
+category: "主题目录"
+tags: ["index", "ted", "speech", "healing"]
+last_updated: "2026-07-30"
+cross_refs:
+  - "05-实践成长/演讲/INDEX.md"
+  - "02-心智心理/心理学/INDEX.md"
 ---
 
-# TED演讲 | TED演讲
+# TED演讲 | TED Talks
 
-> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **82 个直属文件**。
+> **主题目录（Topic Directory）**：TED 演讲疗愈专题共 **81 个文档**，2026-07 起按七大主题分组。
+> 内容分两类：`TED演讲-*主题*.md` 为精选演讲清单与解读；`TED演讲-框架*.md` 为按领域组织的演讲框架知识库。
 
-## 📄 文件 | Files (82)
+## 📁 主题分组 | Groups
 
-- [TED演讲-Adolescent心理学总览.md](TED演讲-Adolescent心理学总览.md)
-- [TED演讲-Child发展创伤.md](TED演讲-Child发展创伤.md)
-- [TED演讲-TEDArts文化.md](TED演讲-TEDArts文化.md)
-- [TED演讲-TEDEducation学习.md](TED演讲-TEDEducation学习.md)
-- [TED演讲-TEDQuality评估报告.md](TED演讲-TEDQuality评估报告.md)
-- [TED演讲-TEDSocial政治Issues.md](TED演讲-TEDSocial政治Issues.md)
-- [TED演讲-TEDTalks总览.md](TED演讲-TEDTalks总览.md)
-- [TED演讲-TEDTalks疗愈资源.md](TED演讲-TEDTalks疗愈资源.md)
-- [TED演讲-TEDWatching指南.md](TED演讲-TEDWatching指南.md)
-- [TED演讲-TED健康Medicine.md](TED演讲-TED健康Medicine.md)
-- [TED演讲-TED商业Innovation.md](TED演讲-TED商业Innovation.md)
-- [TED演讲-TED心理学神经科学.md](TED演讲-TED心理学神经科学.md)
-- [TED演讲-TED技术Future.md](TED演讲-TED技术Future.md)
-- [TED演讲-TED最终质量Confirmation.md](TED演讲-TED最终质量Confirmation.md)
-- [TED演讲-TED环境可持续性.md](TED演讲-TED环境可持续性.md)
-- [TED演讲-TED综合Update报告.md](TED演讲-TED综合Update报告.md)
-- [TED演讲-创伤总览.md](TED演讲-创伤总览.md)
-- [TED演讲-媒体心理学总览.md](TED演讲-媒体心理学总览.md)
-- [TED演讲-心理学Personality.md](TED演讲-心理学Personality.md)
-- [TED演讲-心理学Sport运动.md](TED演讲-心理学Sport运动.md)
-- [TED演讲-心理学职场.md](TED演讲-心理学职场.md)
-- [TED演讲-政治心理学International关系.md](TED演讲-政治心理学International关系.md)
-- [TED演讲-框架AIApplications.md](TED演讲-框架AIApplications.md)
-- [TED演讲-框架AIEconomics.md](TED演讲-框架AIEconomics.md)
-- [TED演讲-框架AI发展.md](TED演讲-框架AI发展.md)
-- [TED演讲-框架AI理论.md](TED演讲-框架AI理论.md)
-- [TED演讲-框架Astrobiology.md](TED演讲-框架Astrobiology.md)
-- [TED演讲-框架BiologicalSciences.md](TED演讲-框架BiologicalSciences.md)
-- [TED演讲-框架CircularEconomy.md](TED演讲-框架CircularEconomy.md)
-- [TED演讲-框架Cosmology.md](TED演讲-框架Cosmology.md)
-- [TED演讲-框架Cybersecurity.md](TED演讲-框架Cybersecurity.md)
-- [TED演讲-框架Diagnostic技术.md](TED演讲-框架Diagnostic技术.md)
-- [TED演讲-框架EconomicsFinance.md](TED演讲-框架EconomicsFinance.md)
-- [TED演讲-框架EmergencyMedicine.md](TED演讲-框架EmergencyMedicine.md)
-- [TED演讲-框架Environmental科学.md](TED演讲-框架Environmental科学.md)
-- [TED演讲-框架Epidemiology.md](TED演讲-框架Epidemiology.md)
-- [TED演讲-框架EpistemologyMethodology.md](TED演讲-框架EpistemologyMethodology.md)
-- [TED演讲-框架EvolutionaryFutures.md](TED演讲-框架EvolutionaryFutures.md)
-- [TED演讲-框架FuturesStudies.md](TED演讲-框架FuturesStudies.md)
-- [TED演讲-框架Immunology.md](TED演讲-框架Immunology.md)
-- [TED演讲-框架InclusiveSociety.md](TED演讲-框架InclusiveSociety.md)
-- [TED演讲-框架InternationalEconomics.md](TED演讲-框架InternationalEconomics.md)
-- [TED演讲-框架Neurotechnology.md](TED演讲-框架Neurotechnology.md)
-- [TED演讲-框架OrganizationalInnovation.md](TED演讲-框架OrganizationalInnovation.md)
-- [TED演讲-框架ParticlePhysics.md](TED演讲-框架ParticlePhysics.md)
-- [TED演讲-框架PhysicalSciences.md](TED演讲-框架PhysicalSciences.md)
-- [TED演讲-框架PreventiveMedicine.md](TED演讲-框架PreventiveMedicine.md)
-- [TED演讲-框架Public健康.md](TED演讲-框架Public健康.md)
-- [TED演讲-框架SocialEconomics.md](TED演讲-框架SocialEconomics.md)
-- [TED演讲-框架SocialSciences.md](TED演讲-框架SocialSciences.md)
-- [TED演讲-框架SocialStructure.md](TED演讲-框架SocialStructure.md)
-- [TED演讲-框架SpaceMedicine.md](TED演讲-框架SpaceMedicine.md)
-- [TED演讲-框架Space技术.md](TED演讲-框架Space技术.md)
-- [TED演讲-框架SpecialEducation.md](TED演讲-框架SpecialEducation.md)
-- [TED演讲-框架SyntheticBiology.md](TED演讲-框架SyntheticBiology.md)
-- [TED演讲-框架Systems理论.md](TED演讲-框架Systems理论.md)
-- [TED演讲-框架Transhumanism.md](TED演讲-框架Transhumanism.md)
-- [TED演讲-框架UrbanPlanning.md](TED演讲-框架UrbanPlanning.md)
-- [TED演讲-框架伦理Algorithm.md](TED演讲-框架伦理Algorithm.md)
-- [TED演讲-框架伦理哲学.md](TED演讲-框架伦理哲学.md)
-- [TED演讲-框架健康管理.md](TED演讲-框架健康管理.md)
-- [TED演讲-框架发展Economics.md](TED演讲-框架发展Economics.md)
-- [TED演讲-框架媒体Literacy.md](TED演讲-框架媒体Literacy.md)
-- [TED演讲-框架学习科学.md](TED演讲-框架学习科学.md)
-- [TED演讲-框架循证Based.md](TED演讲-框架循证Based.md)
-- [TED演讲-框架心理健康.md](TED演讲-框架心理健康.md)
-- [TED演讲-框架性别Equality.md](TED演讲-框架性别Equality.md)
-- [TED演讲-框架技术Forecasting.md](TED演讲-框架技术Forecasting.md)
-- [TED演讲-框架政治Economy.md](TED演讲-框架政治Economy.md)
-- [TED演讲-框架教育Equity.md](TED演讲-框架教育Equity.md)
-- [TED演讲-框架教育Innovation.md](TED演讲-框架教育Innovation.md)
-- [TED演讲-框架教育技术.md](TED演讲-框架教育技术.md)
-- [TED演讲-框架数字Rights.md](TED演讲-框架数字Rights.md)
-- [TED演讲-框架数字健康.md](TED演讲-框架数字健康.md)
-- [TED演讲-框架研究Methods.md](TED演讲-框架研究Methods.md)
-- [TED演讲-框架职业Education.md](TED演讲-框架职业Education.md)
-- [TED演讲-框架职业发展.md](TED演讲-框架职业发展.md)
-- [TED演讲-框架设计审美.md](TED演讲-框架设计审美.md)
-- [TED演讲-框架领导力管理.md](TED演讲-框架领导力管理.md)
-- [TED演讲-TED质量评估报告.md](TED演讲-TED质量评估报告.md)
-- [TED演讲-瑜伽治疗Applications.md](TED演讲-瑜伽治疗Applications.md)
+| 分组 | 文档数 | 内容范围 |
+|---|---|---|
+| [AI与前沿科技/](AI与前沿科技/) | 20 | AI 应用/经济/理论、天体生物、宇宙学、网络安全、合成生物、超人类主义、技术预测、环境可持续 |
+| [经济与社会/](经济与社会/) | 16 | 循环经济、金融、包容性社会、城市规划、性别平等、数字权利、领导力、商业创新、社会政治议题 |
+| [医学与健康/](医学与健康/) | 11 | 诊断技术、急诊、流行病学、免疫、预防医学、公共健康、太空医学、健康管理、心理健康、数字健康 |
+| [心理专题/](心理专题/) | 10 | 青少年心理、儿童发展创伤、创伤总览、媒体心理学、人格、运动心理、职场心理、瑜伽治疗、政治心理学 |
+| [教育与学习/](教育与学习/) | 9 | 特殊教育、教育公平/创新/技术、学习科学、职业教育、媒体素养、职业发展 |
+| [哲学艺术与法/](哲学艺术与法/) | 8 | 认识论与方法论、系统理论、循证实践、研究方法、算法伦理、伦理哲学、设计审美、TED 艺术文化 |
+| [总览与平台/](总览与平台/) | 7 | TEDTalks 总览、观看指南、疗愈资源、质量评估与更新报告（过程性文档） |
 
-*自动生成于 2026-07-17 22:54*
+## 🚀 快速入口
+
+- 初次了解 → [TEDTalks总览](总览与平台/TED演讲-TEDTalks总览.md) · [观看指南](总览与平台/TED演讲-TEDWatching指南.md)
+- 疗愈取向 → [TEDTalks疗愈资源](总览与平台/TED演讲-TEDTalks疗愈资源.md) · [创伤总览](心理专题/TED演讲-创伤总览.md)
+- 心理学纵深 → [心理学与神经科学合集](心理专题/TED演讲-TED心理学神经科学.md)
+
+## 🔗 跨域引用
+
+| 关联入口 | 说明 |
+|---|---|
+| [演讲/](../INDEX.md) | 上级目录：公众演讲技巧与其他演讲资源 |
+| [02-心智心理/心理学/](../../../02-心智心理/心理学/INDEX.md) | 心理专题组对应的系统心理学知识 |
+| [06-临床专题/](../../../06-临床专题/INDEX.md) | 创伤/焦虑/抑郁等临床主体（演讲仅作科普入口） |
+
+## 📐 扩展约定
+
+- 新演讲框架文档按领域归入对应分组，命名保持 `TED演讲-框架<主题>.md` 前缀
+- 单分组超过 20 个文档时再按子领域二次分组
+- 临床诊疗内容不在此沉淀，仅保留演讲解读并链接 06-临床专题
+
+---
+
+*上级：[演讲/](../INDEX.md) | 目录规范：[DIRECTORY_CONVENTIONS.md](../../../规范/DIRECTORY_CONVENTIONS.md)*

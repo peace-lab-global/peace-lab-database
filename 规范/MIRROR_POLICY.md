@@ -176,7 +176,7 @@ last_updated: "2026-06-23"
 
 ```bash
 # 查找完全重复的文件(MD5)
-find . -name "*.md" -not -path "./.git/*" -not -path "./_meta/*" -not -path "./Tools/*" \
+find . -name "*.md" -not -path "./.git/*" -not -path "./规范/*" -not -path "./Tools/*" \
   -exec md5sum {} \; | sort | uniq -w32 -D
 ```
 
@@ -199,4 +199,4 @@ find . -name "*.md" -not -path "./.git/*" -not -path "./_meta/*" -not -path "./T
 
 ---
 
-*返回 [规范/](.) | 上级:[_meta/](..)*
+*返回 [规范/](.) | 上级:[根目录](../README.md)*

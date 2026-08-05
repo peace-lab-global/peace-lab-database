@@ -3,7 +3,7 @@ disclaimer: true
 last_disclaimer_added: "2026-06-23"
 title: "🌊 焦虑整合管理学习路径 (Anxiety Integration Path)"
 description: "1. [焦虑症总览](../../02-心智心理/心理学/临床/焦虑/临床-焦虑-焦虑障碍总览.md)
-2. [焦虑症评估工具](../../../02-心智心理/心理学/c..."
+2. [焦虑症评估工具](../../02-心智心理/心理学/临床/焦虑/临床-焦虑-焦虑评估工具综合.md)"
 category: "临床专题 > Anxiety"
 tags: ["anxiety"]
 last_updated: "2026-06"

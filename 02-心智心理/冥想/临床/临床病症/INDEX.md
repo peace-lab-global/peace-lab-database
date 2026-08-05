@@ -1,137 +1,49 @@
 ---
-title: "临床病症 | 临床病症"
-description: "目录索引 —— 列出本目录的子目录与文件清单"
-category: "目录索引"
-tags: ["index", "directory"]
-last_updated: "2026-07-17"
-auto_generated: true
+title: "临床病症 | Clinical Conditions"
+description: "冥想干预在临床病症中的应用 —— 82 个文档按五大病种群分组"
+category: "主题目录"
+tags: ["index", "clinical", "meditation", "conditions"]
+last_updated: "2026-07-30"
+cross_refs:
+  - "06-临床专题/INDEX.md"
+  - "02-心智心理/冥想/临床/INDEX.md"
 ---
 
-# 临床病症 | 临床病症
+# 临床病症 | Clinical Conditions
 
-> 本页为自动生成的目录索引。包含 **0 个子目录** 和 **117 个直属文件**。
+> **主题目录（Topic Directory）**：冥想/正念干预在各临床病症中的应用证据与方案，共 **82 个文档**，2026-07 起按病种群分组。
+> 🪞 临床诊疗主体（诊断/药物/全疗法谱系）在 [06-临床专题/](../../../../06-临床专题/INDEX.md)，本目录只承载冥想干预技术视角。
 
-## 📄 文件 | Files (117)
+## 📁 病种分组 | Condition Groups
 
-- [临床-临床病症-Meditation_Addiction_Recovery.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E6%88%90%E7%98%BE%E6%81%A2%E5%A4%8D.md)
-- [临床-临床病症-Meditation_Anxiety_Disorders.md](临床-临床病症-Meditation_Anxiety_Disorders.md)
-- [临床-临床病症-Meditation_Cancer_Care.md](临床-临床病症-Meditation_Cancer_Care.md)
-- [临床-临床病症-Meditation_Cardiovascular_Health.md](临床-临床病症-Meditation_Cardiovascular_Health.md)
-- [临床-临床病症-Meditation_Chronic_Pain.md](临床-临床病症-Meditation_Chronic_Pain.md)
-- [临床-临床病症-Meditation_Depression.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E6%8A%91%E9%83%81.md)
-- [临床-临床病症-Meditation_IBS_Gut_Health.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3IBS%E8%82%A0%E9%81%93%E5%81%A5%E5%BA%B7.md)
-- [临床-临床病症-Meditation_Neurological_Disorders.md](临床-临床病症-Meditation_Neurological_Disorders.md)
-- [临床-临床病症-Meditation_PTSD_Trauma.md](临床-临床病症-Meditation_PTSD_Trauma.md)
-- [临床-临床病症-冥想CancerCare.md](临床-临床病症-冥想CancerCare.md)
-- [临床-临床病症-冥想IBS肠道健康.md](临床-临床病症-冥想IBS肠道健康.md)
-- [临床-临床病症-冥想NeurologicalDisorders.md](临床-临床病症-冥想NeurologicalDisorders.md)
-- [临床-临床病症-冥想创伤后应激创伤.md](临床-临床病症-冥想创伤后应激创伤.md)
-- [临床-临床病症-冥想心血管健康.md](临床-临床病症-冥想心血管健康.md)
-- [临床-临床病症-冥想慢性疼痛.md](临床-临床病症-冥想慢性疼痛.md)
-- [临床-临床病症-冥想成瘾恢复.md](临床-临床病症-冥想成瘾恢复.md)
-- [临床-临床病症-冥想抑郁.md](临床-临床病症-冥想抑郁.md)
-- [临床-临床病症-冥想焦虑Disorders.md](临床-临床病症-冥想焦虑Disorders.md)
-- [临床-临床病症-抑郁-01-Clinical-Spectrum.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E4%B8%B4%E5%BA%8A%E8%B0%B1%E7%B3%BB.md)
-- [临床-临床病症-抑郁-02-Neurobiology.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E7%A5%9E%E7%BB%8F%E7%94%9F%E7%89%A9%E5%AD%A6.md)
-- [临床-临床病症-抑郁-03-Core-Mechanisms.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E6%A0%B8%E5%BF%83Mechanisms.md)
-- [临床-临床病症-抑郁-04-Evidence-Based-Protocols.md](临床-临床病症-抑郁-04-Evidence-Based-Protocols.md)
-- [临床-临床病症-抑郁-05-MBCT-Relapse-Prevention.md](临床-临床病症-抑郁-05-MBCT-Relapse-Prevention.md)
-- [临床-临床病症-抑郁-06-Subtypes.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E4%BA%9A%E5%9E%8B.md)
-- [临床-临床病症-抑郁-07-Implementation-Framework.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E5%AE%9E%E6%96%BD%E6%A1%86%E6%9E%B6.md)
-- [临床-临床病症-抑郁-08-Practical-Toolkit.md](临床-临床病症-抑郁-08-Practical-Toolkit.md)
-- [临床-临床病症-抑郁-09-Comorbidities.md](临床-临床病症-抑郁-09-Comorbidities.md)
-- [临床-临床病症-抑郁-10-Contraindications.md](临床-临床病症-抑郁-10-Contraindications.md)
-- [临床-临床病症-抑郁-11-Special-Populations.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E7%89%B9%E6%AE%8A%E4%BA%BA%E7%BE%A4.md)
-- [临床-临床病症-抑郁-12-Sleep-CBT-I.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E7%9D%A1%E7%9C%A0%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BAI.md)
-- [临床-临床病症-抑郁-13-Crisis-Safety.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E5%8D%B1%E6%9C%BA%E5%AE%89%E5%85%A8%E6%80%A7.md)
-- [临床-临床病症-抑郁-14-Movement-Mindfulness.md](临床-临床病症-抑郁-14-Movement-Mindfulness.md)
-- [临床-临床病症-抑郁-15-Culture-Adaptation.md](临床-临床病症-抑郁-15-Culture-Adaptation.md)
-- [临床-临床病症-抑郁-16-Assessment-Scales.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E8%AF%84%E4%BC%B0Scales.md)
-- [临床-临床病症-抑郁-17-Family-Caregiver.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E5%AE%B6%E5%BA%AD%E7%85%A7%E6%8A%A4%E8%80%85.md)
-- [临床-临床病症-抑郁-18-Digital-Therapy.md](临床-临床病症-抑郁-18-Digital-Therapy.md)
-- [临床-临床病症-抑郁-19-Adverse-Events.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E4%B8%8D%E8%89%AF%E4%BA%8B%E4%BB%B6.md)
-- [临床-临床病症-抑郁-20-Therapist-Self-Care.md](临床-临床病症-抑郁-20-Therapist-Self-Care.md)
-- [临床-临床病症-抑郁-21-References.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E4%BA%8C%E5%8D%81%E4%B8%80%E5%8F%82%E8%80%83%E6%96%87%E7%8C%AE.md)
-- [临床-临床病症-抑郁-22-Research-Critical-Review.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E7%A0%94%E7%A9%B6%E6%89%B9%E5%88%A4%E6%80%A7%E8%AF%84%E8%BF%B0.md)
-- [临床-临床病症-抑郁-23-Case-Conceptualizations.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E6%A1%88%E4%BE%8BConceptualizations.md)
-- [临床-临床病症-抑郁-24-Teaching-Manual.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E6%95%99%E5%AD%A6%E6%89%8B%E5%86%8C.md)
-- [临床-临床病症-抑郁-25-Digital-Assessment-Tools.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E6%8A%91%E9%83%81-%E6%95%B0%E5%AD%97%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
-- [临床-临床病症-抑郁-26-Cross-Cultural-Evidence.md](临床-临床病症-抑郁-26-Cross-Cultural-Evidence.md)
-- [临床-临床病症-抑郁-不良事件.md](临床-临床病症-抑郁-不良事件.md)
-- [临床-临床病症-抑郁-临床谱系.md](临床-临床病症-抑郁-临床谱系.md)
-- [临床-临床病症-抑郁-二十一参考文献.md](临床-临床病症-抑郁-二十一参考文献.md)
-- [临床-临床病症-抑郁-亚型.md](临床-临床病症-抑郁-亚型.md)
-- [临床-临床病症-抑郁-共病.md](临床-临床病症-抑郁-共病.md)
-- [临床-临床病症-抑郁-危机安全性.md](临床-临床病症-抑郁-危机安全性.md)
-- [临床-临床病症-抑郁-实施框架.md](临床-临床病症-抑郁-实施框架.md)
-- [临床-临床病症-抑郁-实用工具箱.md](临床-临床病症-抑郁-实用工具箱.md)
-- [临床-临床病症-抑郁-家庭照护者.md](临床-临床病症-抑郁-家庭照护者.md)
-- [临床-临床病症-抑郁-教学手册.md](临床-临床病症-抑郁-教学手册.md)
-- [临床-临床病症-抑郁-数字疗法.md](临床-临床病症-抑郁-数字疗法.md)
-- [临床-临床病症-抑郁-数字评估工具.md](临床-临床病症-抑郁-数字评估工具.md)
-- [临床-临床病症-抑郁-文化适应.md](临床-临床病症-抑郁-文化适应.md)
-- [临床-临床病症-抑郁-核心Mechanisms.md](临床-临床病症-抑郁-核心Mechanisms.md)
-- [临床-临床病症-抑郁-案例Conceptualizations.md](临床-临床病症-抑郁-案例Conceptualizations.md)
-- [临床-临床病症-抑郁-正念认知复发预防.md](临床-临床病症-抑郁-正念认知复发预防.md)
-- [临床-临床病症-抑郁-治疗师自我照顾.md](临床-临床病症-抑郁-治疗师自我照顾.md)
-- [临床-临床病症-抑郁-特殊人群.md](临床-临床病症-抑郁-特殊人群.md)
-- [临床-临床病症-抑郁-睡眠认知行为I.md](临床-临床病症-抑郁-睡眠认知行为I.md)
-- [临床-临床病症-抑郁-研究批判性评述.md](临床-临床病症-抑郁-研究批判性评述.md)
-- [临床-临床病症-抑郁-神经生物学.md](临床-临床病症-抑郁-神经生物学.md)
-- [临床-临床病症-抑郁-禁忌证.md](临床-临床病症-抑郁-禁忌证.md)
-- [临床-临床病症-抑郁-证据基于方案.md](临床-临床病症-抑郁-证据基于方案.md)
-- [临床-临床病症-抑郁-评估Scales.md](临床-临床病症-抑郁-评估Scales.md)
-- [临床-临床病症-抑郁-跨文化证据.md](临床-临床病症-抑郁-跨文化证据.md)
-- [临床-临床病症-抑郁-运动正念.md](临床-临床病症-抑郁-运动正念.md)
-- [临床-临床病症-职业倦怠-01-Definition-and-Model.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-Definitionand%E6%A8%A1%E5%9E%8B.md)
-- [临床-临床病症-职业倦怠-02-Neurobiology-and-Stress.md](临床-临床病症-职业倦怠-02-Neurobiology-and-Stress.md)
-- [临床-临床病症-职业倦怠-03-Mindfulness-Mechanisms.md](临床-临床病症-职业倦怠-03-Mindfulness-Mechanisms.md)
-- [临床-临床病症-职业倦怠-04-Evidence-Based-Interventions.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E8%AF%81%E6%8D%AE%E5%9F%BA%E4%BA%8EInterventions.md)
-- [临床-临床病症-职业倦怠-05-Emotional-Exhaustion-Toolkit.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%83%85%E7%BB%AA%E8%80%97%E7%AB%AD%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
-- [临床-临床病症-职业倦怠-06-Depersonalization-Transformation.md](临床-临床病症-职业倦怠-06-Depersonalization-Transformation.md)
-- [临床-临床病症-职业倦怠-07-Personal-Efficacy-Recovery.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E4%B8%AA%E4%BA%BA%E6%95%88%E8%83%BD%E5%BA%B7%E5%A4%8D.md)
-- [临床-临床病症-职业倦怠-08-High-Risk-Professions.md](临床-临床病症-职业倦怠-08-High-Risk-Professions.md)
-- [临床-临床病症-职业倦怠-09-Organization-Integration.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E7%BB%84%E7%BB%87%E6%95%B4%E5%90%88.md)
-- [临床-临床病症-职业倦怠-10-Digital-and-Remote.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%95%B0%E5%AD%97and%E8%BF%9C%E7%A8%8B.md)
-- [临床-临床病症-职业倦怠-11-Recovery-and-Relapse-Prevention.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%BA%B7%E5%A4%8Dand%E5%A4%8D%E5%8F%91%E9%A2%84%E9%98%B2.md)
-- [临床-临床病症-职业倦怠-12-Practical-Toolkit.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%AE%9E%E7%94%A8%E5%B7%A5%E5%85%B7%E7%AE%B1.md)
-- [临床-临床病症-职业倦怠-13-MBBI-Curriculum.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-MBBI%E8%AF%BE%E7%A8%8B.md)
-- [临床-临床病症-职业倦怠-14-HRV-Biofeedback.md](临床-临床病症-职业倦怠-14-HRV-Biofeedback.md)
-- [临床-临床病症-职业倦怠-15-McMindfulness-Critique.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E9%BA%A6%E6%AD%A3%E5%BF%B5%E6%89%B9%E5%88%A4.md)
-- [临床-临床病症-职业倦怠-16-Asian-Workplace-Studies.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E4%BA%9A%E6%B4%B2%E8%81%8C%E5%9C%BA%E7%A0%94%E7%A9%B6.md)
-- [临床-临床病症-职业倦怠-17-Case-Conceptualization.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%A1%88%E4%BE%8B%E6%A6%82%E5%BF%B5%E5%8C%96.md)
-- [临床-临床病症-职业倦怠-18-Mindful-Meetings-and-Communication.md](临床-临床病症-职业倦怠-18-Mindful-Meetings-and-Communication.md)
-- [临床-临床病症-职业倦怠-19-Mindful-Leadership-and-Team.md](临床-临床病症-职业倦怠-19-Mindful-Leadership-and-Team.md)
-- [临床-临床病症-职业倦怠-20-Return-to-Work.md](临床-临床病症-职业倦怠-20-Return-to-Work.md)
-- [临床-临床病症-职业倦怠-21-Work-Family-Integration.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%B7%A5%E4%BD%9C%E5%AE%B6%E5%BA%AD%E6%95%B4%E5%90%88.md)
-- [临床-临床病症-职业倦怠-22-Gig-Economy-and-Platform-Workers.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E9%9B%B6%E5%B7%A5%E7%BB%8F%E6%B5%8Eand%E5%B9%B3%E5%8F%B0%E5%B7%A5%E4%BD%9C%E8%80%85.md)
-- [临床-临床病症-职业倦怠-23-Peer-Support-and-Supervision.md](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%90%8C%E4%BC%B4%E6%94%AF%E6%8C%81and%E7%9D%A3%E5%AF%BC.md)
-- [临床-临床病症-职业倦怠-Definitionand模型.md](临床-临床病症-职业倦怠-Definitionand模型.md)
-- [临床-临床病症-职业倦怠-MBBI课程.md](临床-临床病症-职业倦怠-MBBI课程.md)
-- [临床-临床病症-职业倦怠-个人效能康复.md](临床-临床病症-职业倦怠-个人效能康复.md)
-- [临床-临床病症-职业倦怠-亚洲职场研究.md](临床-临床病症-职业倦怠-亚洲职场研究.md)
-- [临床-临床病症-职业倦怠-人格解体转化.md](临床-临床病症-职业倦怠-人格解体转化.md)
-- [临床-临床病症-职业倦怠-同伴支持and督导.md](临床-临床病症-职业倦怠-同伴支持and督导.md)
-- [临床-临床病症-职业倦怠-回归to工作.md](临床-临床病症-职业倦怠-回归to工作.md)
-- [临床-临床病症-职业倦怠-实用工具箱.md](临床-临床病症-职业倦怠-实用工具箱.md)
-- [临床-临床病症-职业倦怠-工作家庭整合.md](临床-临床病症-职业倦怠-工作家庭整合.md)
-- [临床-临床病症-职业倦怠-康复and复发预防.md](临床-临床病症-职业倦怠-康复and复发预防.md)
-- [临床-临床病症-职业倦怠-心率变异性生物反馈.md](临床-临床病症-职业倦怠-心率变异性生物反馈.md)
-- [临床-临床病症-职业倦怠-情绪耗竭工具箱.md](临床-临床病症-职业倦怠-情绪耗竭工具箱.md)
-- [临床-临床病症-职业倦怠-数字and远程.md](临床-临床病症-职业倦怠-数字and远程.md)
-- [临床-临床病症-职业倦怠-案例概念化.md](临床-临床病症-职业倦怠-案例概念化.md)
-- [临床-临床病症-职业倦怠-正念Mechanisms.md](临床-临床病症-职业倦怠-正念Mechanisms.md)
-- [临床-临床病症-职业倦怠-正念会议and沟通.md](临床-临床病症-职业倦怠-正念会议and沟通.md)
-- [临床-临床病症-职业倦怠-正念领导力and团队.md](临床-临床病症-职业倦怠-正念领导力and团队.md)
-- [临床-临床病症-职业倦怠-神经生物学and压力.md](临床-临床病症-职业倦怠-神经生物学and压力.md)
-- [临床-临床病症-职业倦怠-组织整合.md](临床-临床病症-职业倦怠-组织整合.md)
-- [临床-临床病症-职业倦怠-证据基于Interventions.md](临床-临床病症-职业倦怠-证据基于Interventions.md)
-- [临床-临床病症-职业倦怠-零工经济and平台工作者.md](临床-临床病症-职业倦怠-零工经济and平台工作者.md)
-- [临床-临床病症-职业倦怠-高风险职业.md](临床-临床病症-职业倦怠-高风险职业.md)
-- [临床-临床病症-职业倦怠-麦正念批判.md](临床-临床病症-职业倦怠-麦正念批判.md)
+| 分组 | 文档数 | 内容范围 |
+|---|---|---|
+| [抑郁/](抑郁/) | 37 | 抑郁症完整冥想干预系列：证据方案、MBCT 复发预防、核心机制、神经生物学、评估工具、数字疗法、跨文化证据、特殊人群、治疗师自我照顾等 |
+| [职业倦怠/](职业倦怠/) | 31 | 职业倦怠完整系列：神经生物学、正念机制、MBBI 课程、高风险职业、HRV 生物反馈、正念领导力、复工路径、亚洲职场研究等 |
+| [冥想与躯体疾病/](冥想与躯体疾病/) | 9 | 癌症照护、心血管健康、慢性疼痛、神经疾病、IBS 肠道健康（中英双语） |
+| [创伤与成瘾/](创伤与成瘾/) | 3 | PTSD 创伤后应激、成瘾恢复（冥想创伤敏感方法） |
+| [焦虑/](焦虑/) | 2 | 焦虑障碍的冥想干预（中英双语） |
 
+## 🚀 快速入口
+
+- 抑郁干预全流程 → [抑郁/](抑郁/)（从 [证据方案](抑郁/临床-临床病症-抑郁-证据基于方案.md) 起步）
+- 职业倦怠系统方案 → [职业倦怠/](职业倦怠/)
+- 焦虑临床主体 → [06-临床专题/焦虑/](../../../../06-临床专题/焦虑/INDEX.md)
+
+## 🔗 跨域引用
+
+| 关联入口 | 说明 |
+|---|---|
+| [临床/](../INDEX.md) | 上级目录：冥想临床全景（安全/课程/危机） |
+| [06-临床专题/](../../../../06-临床专题/INDEX.md) | 各病种的临床诊疗主体（镜像分工见两侧 INDEX） |
+| [冥想/临床/安全/](../安全/INDEX.md) | 创伤敏感与禁忌证相关的安全协议 |
+
+## 📐 扩展约定
+
+- 新病种文档命名保持 `临床-临床病症-<病种>-<主题>.md` 前缀并归入对应分组
+- 单病种形成系列（>8 篇）时保持在该分组内；跨病种通用内容归 [06-临床专题/](../../../../06-临床专题/INDEX.md)
+- 临床诊疗类内容不在此沉淀，只保留冥想干预视角并链接 06
 
 ---
 
-*返回上级: [临床](../INDEX.md)*
-*自动生成于 2026-07-17 22:34*
+*上级：[临床/](../INDEX.md) | 目录规范：[DIRECTORY_CONVENTIONS.md](../../../../规范/DIRECTORY_CONVENTIONS.md)*

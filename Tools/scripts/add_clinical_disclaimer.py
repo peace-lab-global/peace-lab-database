@@ -13,7 +13,7 @@ import re
 from datetime import datetime
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github',
-                'node_modules', '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                'node_modules', '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 # 临床内容路径模式(非 INDEX)
 CLINICAL_PATTERNS = [
@@ -25,7 +25,7 @@ CLINICAL_PATTERNS = [
 # 免责声明段(简短版,适合文首)
 DISCLAIMER_SHORT = """---
 
-> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [_meta/docs/CRISIS_RESOURCES.md](../../_meta/docs/CRISIS_RESOURCES.md)。
+> ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 规范/CRISIS_RESOURCES.md。
 
 ---
 

@@ -135,7 +135,7 @@ python3 Tools/scripts/audit_compare.py
 
 ### 4.1 准备
 
-- [ ] 备份当前 `_元信息/docs/` 元文档
+- [ ] 备份当前 `规范/` 元文档
 - [ ] 确认所有工具脚本可运行
 - [ ] 准备报告模板
 
@@ -237,4 +237,4 @@ python3 Tools/scripts/audit_compare.py
 
 ---
 
-*返回 [规范/](.) | 上级:[_meta/](..)*
+*返回 [规范/](.) | 上级:[根目录](../README.md)*

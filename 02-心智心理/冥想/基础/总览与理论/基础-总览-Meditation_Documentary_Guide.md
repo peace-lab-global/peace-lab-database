@@ -60,7 +60,7 @@ cross_refs:
 - 提供即学即用的实操练习
 - 科学化呈现正念机制
 
-> **关联知识**：[冥想核心基础](基础-总览-Meditation_Core.md) · [冥想类型分类](基础-总览-Meditation_Types_Classification.md) · [Andy Puddicombe人物档案](../../传统/大师/传统-大师-行业领袖-Andy_Puddicombe.md)
+> **关联知识**：[冥想核心基础](基础-总览-Meditation_Core.md) · [冥想类型分类](基础-总览-Meditation_Types_Classification.md) · [Andy Puddicombe人物档案](../../传统/大师/行业领袖/传统-大师-行业领袖-Andy_Puddicombe.md)
 
 ---
 
@@ -143,7 +143,7 @@ cross_refs:
 
 **经典地位**：内观禅修纪录片中的**经典之作**，被广泛用于冥想教育和刑事司法改革讨论
 
-> **关联知识**：[内观禅修](../../传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) · [S.N. 葛印卡](../../传统/大师/传统-大师-西方先驱-SN_Goenka.md) · [创伤干预](../../../心理学/临床/创伤/INDEX.md)
+> **关联知识**：[内观禅修](../../传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) · [S.N. 葛印卡](../../传统/大师/西方先驱/传统-大师-西方先驱-SN_Goenka.md) · [创伤干预](../../../心理学/临床/创伤/INDEX.md)
 
 ---
 
@@ -170,7 +170,7 @@ cross_refs:
 - 展示内观禅修的社会变革潜力
 - 关注冥想对愤怒、成瘾、暴力行为的干预效果
 
-> **关联知识**：[内观禅修](../../传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) · [S.N. 葛印卡](../../传统/大师/传统-大师-西方先驱-SN_Goenka.md)
+> **关联知识**：[内观禅修](../../传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) · [S.N. 葛印卡](../../传统/大师/西方先驱/传统-大师-西方先驱-SN_Goenka.md)
 
 ---
 
@@ -237,7 +237,7 @@ cross_refs:
 - 展现正念不是技术而是一种存在方式
 - 对快节奏现代生活的深层反思
 
-> **关联知识**：[一行禅师人物档案](../../传统/大师/传统-大师-当代灵性-Thich_Nhat_Hanh.md) · [冥想核心基础](基础-总览-Meditation_Core.md)
+> **关联知识**：[一行禅师人物档案](../../传统/大师/当代灵性/传统-大师-当代灵性-Thich_Nhat_Hanh.md) · [冥想核心基础](基础-总览-Meditation_Core.md)
 
 ---
 
@@ -351,7 +351,7 @@ cross_refs:
 
 **适合人群**：想了解正念社会化应用的观众
 
-> **关联知识**：[乔恩·卡巴金](../../传统/大师/传统-大师-西方先驱-Jon_Kabat_Zinn.md) · [MBSR正念减压](../../临床/正念减压课程/INDEX.md) · [冥想临床应用](基础-总览-Meditation_Clinical_Applications.md)
+> **关联知识**：[乔恩·卡巴金](../../传统/大师/西方先驱/传统-大师-西方先驱-Jon_Kabat_Zinn.md) · [MBSR正念减压](../../临床/正念减压课程/INDEX.md) · [冥想临床应用](基础-总览-Meditation_Clinical_Applications.md)
 
 ---
 
@@ -454,7 +454,7 @@ cross_refs:
 - 搜索"The Miracle of Mindfulness documentary"
 - 注意辨别原创纪录片与二次解读内容
 
-> **关联知识**：[一行禅师](../../传统/大师/传统-大师-当代灵性-Thich_Nhat_Hanh.md)
+> **关联知识**：[一行禅师](../../传统/大师/当代灵性/传统-大师-当代灵性-Thich_Nhat_Hanh.md)
 
 ---
 

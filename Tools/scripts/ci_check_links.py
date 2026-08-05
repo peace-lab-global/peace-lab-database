@@ -20,7 +20,7 @@ ROOT = Path('.')
 
 EXCLUDE = {
     '.git', '.venv', 'venv', '.env', 'site', 'node_modules', 'logs',
-    'reports', 'Tools', 'Project', 'Web', 'Visualization', '_meta',
+    'reports', 'Tools', 'Project', 'Web', 'Visualization', '规范',
     '.claude', '.codebuddy', '.qoder', '.trae', '__pycache__', '.cache',
 }
 

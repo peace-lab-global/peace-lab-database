@@ -19,7 +19,7 @@ trigger_keywords:
 - of
 - Milarepa
 cross_refs:
-- path: 02-心智心理/冥想/传统/大师/传统-大师-古代佛教-Milarepa.md
+- path: 02-心智心理/冥想/传统/大师/古代佛教/传统-大师-古代佛教-Milarepa.md
   relation: milarepa/life/藏传
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-world-is-a-playground-Multi_Perspective_Reviews.md
   relation: 力量/佛法/佛教
@@ -64,7 +64,7 @@ cross_refs:
 
 ## 四、延伸阅读
 
-- 本库相关条目：[密勒日巴（大师条目）](../../../../../02-心智心理/冥想/传统/大师/传统-大师-古代佛教-Milarepa.md)
+- 本库相关条目：[密勒日巴（大师条目）](../../../../../02-心智心理/冥想/传统/大师/古代佛教/传统-大师-古代佛教-Milarepa.md)
 - 英译：Andrew Quintman 译 *The Life of Milarepa*（Penguin Classics, 2010）；Lobsang P. Lhalungpa 译本（1977）亦广为流传。
 - 相关歌集：Garma C. C. Chang 译 *The Hundred Thousand Songs of Milarepa*。
 

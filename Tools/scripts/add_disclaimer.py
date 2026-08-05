@@ -50,7 +50,7 @@ DISCLAIMER_TEXT = """
 - 希望24热线:400-161-9995
 - 生命热线:400-821-1215
 
-**国际资源**:详细列表见 [_meta/docs/CRISIS_RESOURCES.md](../../../_meta/docs/CRISIS_RESOURCES.md)
+**国际资源**:详细列表见 规范/CRISIS_RESOURCES.md
 
 """
 
@@ -96,7 +96,7 @@ def process(dry_run=False):
     skipped = []
     
     for root, dirs, files in os.walk('.'):
-        dirs[:] = [d for d in dirs if d not in {'.git', '.venv', '.qoder', '.claude', '_meta', 'Tools', 'Web', 'vibe_images', '__pycache__'}]
+        dirs[:] = [d for d in dirs if d not in {'.git', '.venv', '.qoder', '.claude', '规范', 'Tools', 'Web', 'vibe_images', '__pycache__'}]
         for f in files:
             if f != 'INDEX.md':
                 continue

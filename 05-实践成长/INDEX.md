@@ -169,7 +169,7 @@ cross_refs: []
 
 ### 3. 🎤 讲座、演说与公共表达 (Talks & Presentation)
 - [一席讲座精选全系 (Yixi Talks)](演讲/一席演讲/INDEX.md)
-- [TED 演说精选全系 (TED Talks)](演讲/TED演讲/TED演讲-创伤总览.md)
+- [TED 演说精选全系 (TED Talks)](演讲/TED演讲/心理专题/TED演讲-创伤总览.md)
 - [公共表达与演讲技巧 (Public Speaking)](个人发展/当众表达/INDEX.md)
 - [职场表达体系 (Workplace Expression)](个人发展/职场表达/INDEX.md)
   - [向上管理与情绪化上级应对 (Upward Management)](个人发展/职场表达/向上管理/职场表达-向上管理-职场Upward管理.md)

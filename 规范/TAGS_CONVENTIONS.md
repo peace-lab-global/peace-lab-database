@@ -175,7 +175,7 @@
 
 ```bash
 # 查看 tag 频率分布
-grep -h "^tags:" $(find . -name "*.md" -not -path "./_meta/*") | \
+grep -h "^tags:" $(find . -name "*.md" -not -path "./规范/*") | \
   sed 's/tags: \[//; s/\]//; s/"//g; s/, /\n/g' | \
   sort | uniq -c | sort -rn | head -50
 ```
@@ -196,4 +196,4 @@ grep -h "^tags:" $(find . -name "*.md" -not -path "./_meta/*") | \
 
 ---
 
-*返回 [规范/](.) | 上级:[_meta/](..)*
+*返回 [规范/](.) | 上级:[根目录](../README.md)*

@@ -2,7 +2,7 @@
 """
 quality_audit.py — 季度质量审计脚本
 
-按 _meta/docs/QUALITY_AUDIT.md 定义的 6 维度审计
+按 规范/QUALITY_AUDIT.md 定义的 6 维度审计
 
 用法:
   python3 Tools/scripts/quality_audit.py [--output FILE] [--quarter Q1-2026]
@@ -15,7 +15,7 @@ from datetime import datetime
 from collections import Counter, defaultdict
 
 EXCLUDE_DIRS = {'.git', '.venv', '.qoder', '.claude', '.github', 'node_modules',
-                '__pycache__', '_meta', 'Tools', 'Web', 'vibe_images'}
+                '__pycache__', '规范', 'Tools', 'Web', 'vibe_images'}
 
 # 同时兼容英文与中文路径（目录已中文化，但保留英文路径以防未来回退）
 CLINICAL_PATTERNS = [
@@ -414,7 +414,7 @@ def format_report(results, quarter=None):
     lines.append("---")
     lines.append("")
     lines.append("**报告生成**:Tools/scripts/quality_audit.py")
-    lines.append("**审计规范**:_meta/docs/QUALITY_AUDIT.md")
+    lines.append("**审计规范**:规范/QUALITY_AUDIT.md")
     
     return '\n'.join(lines)
 
