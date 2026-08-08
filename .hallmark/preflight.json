@@ -1,0 +1,10 @@
+{
+  "last_scan": "2026-08-07",
+  "framework": "vanilla HTML (static single-file pages)",
+  "font_stack": null,
+  "palette": null,
+  "motion": "motion-cut (no framer-motion / gsap / lenis)",
+  "spacing": "none (no tailwind, no --space-* tokens found)",
+  "design_md": "no design.md at project root",
+  "notes": "Project hosts standalone single-file HTML exhibits in content directories. Hallmark introduces: full token system, macrostructure, slop-test gates."
+}

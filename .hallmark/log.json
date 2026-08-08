@@ -1,0 +1,40 @@
+{
+  "entries": [
+    {
+      "date": "2026-08-06",
+      "macrostructure": "Long Document",
+      "theme": "custom",
+      "theme_axes": "light / roman-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "tier-a (enso svg)",
+      "brief": "止观践行 · 模式识别技能 S_025 · 水墨卷轴展示页"
+    },
+    {
+      "date": "2026-08-07",
+      "macrostructure": "Narrative Workflow",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "tier-a (per-stage quote scroll cards)",
+      "brief": "止观践行 · 六周模式识别报告 · 水墨册页展示页"
+    },
+    {
+      "date": "2026-08-07",
+      "macrostructure": "Narrative Workflow (redesign-preserve)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "taste-skill §11 redesign: em/en-dash purge (23), decorative numerals retired, stagger reveal (motion 3→4), frontispiece wash image, non-blocking fonts, mid-dot quota",
+      "brief": "止观践行 · 六周模式识别报告 · design-taste-frontend 优化轮"
+    },
+    {
+      "date": "2026-08-07",
+      "macrostructure": "Narrative Workflow (insights-first restructure)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "IA restructure: TOC nav → insights → advice → deep patterns → weekly log; five core insights, advice with method/cadence/verification, eight-type thinking layered model, per-part summary boxes, smooth anchor navigation",
+      "brief": "止观践行 · 六周模式识别报告 · 结构与内容重组轮（目录导航 → 洞见 → 建议 → 详析 → 周记）"
+    }
+  ]
+}

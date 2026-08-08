@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>止观践行 · 模式识别 — S_025</title>
+<meta name="description" content="止观践行模式识别技能：分析修行模式、表达模式与思维模式，以中观唯识框架深度解析，输出结构化报告。技能编号 S_025。">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+<style>
+/* Hallmark · macrostructure: Long Document · H5 hero knobs: salutation=卷首题字, body=1导语段, signoff=印章+元信息
+ * theme: custom · vibe: "ink-wash, rice-paper, cinnabar seal" · paper: oklch(94% 0.016 75) · accent: oklch(47% 0.17 30)
+ * display: Noto Serif SC · body: Noto Serif SC · axes: light / roman-serif / chromatic-vermilion ~30°
+ * studied: no · context: explicit · v0.8.0
+ */
+
+:root {
+  /* ---- palette · custom · ink-wash ---- */
+  --color-paper:     oklch(94% 0.016 75);
+  --color-paper-2:   oklch(91% 0.018 75);
+  --color-paper-3:   oklch(88% 0.020 75);
+  --color-ink:       oklch(22% 0.012 40);
+  --color-ink-2:     oklch(40% 0.012 40);
+  --color-rule:      oklch(78% 0.012 70);
+  --color-rule-2:    oklch(83% 0.012 70);
+  --color-muted:     oklch(52% 0.010 40);
+  --color-neutral:   oklch(38% 0.010 40);
+  --color-accent:    oklch(47% 0.17 30);        /* 朱砂 */
+  --color-accent-ink: oklch(96% 0.014 75);      /* 印上白字 */
+  --color-focus:     oklch(55% 0.21 30);
+
+  /* ---- type ---- */
+  --font-display: "Noto Serif SC", "Songti SC", "STSong", serif;
+  --font-body:    "Noto Serif SC", "Songti SC", "STSong", serif;
+  --font-mono:    "JetBrains Mono", ui-monospace, monospace;
+
+  /* ---- type scale · major third 1.25 ---- */
+  --text-xs:   0.8rem;
+  --text-sm:   0.9rem;
+  --text-base: 1rem;
+  --text-md:   1.125rem;
+  --text-lg:   1.25rem;
+  --text-xl:   1.5625rem;
+  --text-2xl:  1.9531rem;
+  --text-3xl:  2.4414rem;
+  --text-4xl:  3.0518rem;
+  --text-display: clamp(2.1rem, 6vw + 0.6rem, 3.6rem);
+
+  /* ---- space · 4pt scale ---- */
+  --space-3xs: 0.125rem;
+  --space-2xs: 0.25rem;
+  --space-xs:  0.5rem;
+  --space-sm:  0.75rem;
+  --space-md:  1rem;
+  --space-lg:  1.5rem;
+  --space-xl:  2.5rem;
+  --space-2xl: 4rem;
+  --space-3xl: 6rem;
+  --space-4xl: 9rem;
+
+  /* ---- motion ---- */
+  --dur-micro: 120ms;
+  --dur-short: 220ms;
+  --dur-long:  420ms;
+  --ease-out:    cubic-bezier(0.16, 1, 0.3, 1);
+  --ease-in:     cubic-bezier(0.7,  0, 0.84, 0);
+  --ease-in-out: cubic-bezier(0.65, 0, 0.35, 1);
+
+  /* ---- z ---- */
+  --z-base: 1; --z-raised: 10; --z-sticky: 200;
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { overflow-x: clip; }
+body { overflow-x: clip; margin: 0; background: var(--color-paper); color: var(--color-ink); font-family: var(--font-body); font-size: var(--text-base); line-height: 1.9; -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
+
+/* ============ 卷首 masthead ============ */
+.masthead {
+  max-width: 40em;
+  margin-inline: auto;
+  padding: var(--space-2xl) clamp(1rem, 4vw, 2.5rem) 0;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: var(--space-md);
+  font-size: var(--text-xs);
+  letter-spacing: 0.14em;
+  color: var(--color-muted);
+}
+.masthead a, .masthead a:visited {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-rule-2);
+  padding-bottom: 2px;
+  white-space: nowrap;
+  transition: color var(--dur-short) var(--ease-out), border-color var(--dur-short) var(--ease-out);
+}
+.masthead a:hover { color: var(--color-accent); border-color: var(--color-accent); }
+.masthead a:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+
+/* ============ 卷首 hero ============ */
+.hero {
+  max-width: 40em;
+  margin-inline: auto;
+  padding: var(--space-3xl) clamp(1rem, 4vw, 2.5rem) var(--space-xl);
+}
+.hero__row {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--space-lg);
+}
+.hero__word {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: var(--text-display);
+  line-height: 1.3;
+  letter-spacing: 0.06em;
+  margin: 0;
+  overflow-wrap: anywhere;
+  min-width: 0;
+  text-wrap: balance;
+}
+.hero__word .seal-word { font-weight: 400; color: var(--color-muted); }
+.hero__seal {
+  flex: 0 0 auto;
+  margin-top: var(--space-sm);
+  animation: seal-in var(--dur-long) var(--ease-out) both;
+  animation-delay: 240ms;
+}
+.hero__meta {
+  margin-top: var(--space-xl);
+  padding-top: var(--space-md);
+  border-top: 1px solid var(--color-rule-2);
+  font-size: var(--text-xs);
+  letter-spacing: 0.12em;
+  color: var(--color-muted);
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--space-xs) var(--space-lg);
+}
+.hero__lede {
+  margin-top: var(--space-xl);
+  font-size: var(--text-md);
+  line-height: 2;
+  max-width: 36em;
+  color: var(--color-neutral);
+}
+
+/* 印章 */
+.seal {
+  width: 3.4rem;
+  height: 3.4rem;
+  display: grid;
+  place-items: center;
+  background: var(--color-accent);
+  color: var(--color-accent-ink);
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: 1.25rem;
+  letter-spacing: 0.02em;
+  border-radius: 6px;
+  box-shadow: 0 0 0 3px var(--color-paper), 0 0 0 4px var(--color-accent);
+  user-select: none;
+}
+@keyframes seal-in {
+  from { opacity: 0; transform: scale(0.72) rotate(-6deg); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ============ 文档主体 ============ */
+.document {
+  max-width: 40em;
+  margin-inline: auto;
+  padding: var(--space-3xs) clamp(1rem, 4vw, 2.5rem) var(--space-3xl);
+}
+.document > section { margin-top: var(--space-3xl); }
+.document > section:first-child { margin-top: 0; }
+
+/* 内联章节标题 */
+h2 {
+  font-family: var(--font-display);
+  font-weight: 900;
+  font-size: var(--text-2xl);
+  line-height: 1.4;
+  letter-spacing: 0.04em;
+  margin: 0 0 var(--space-lg);
+  font-style: normal;
+  overflow-wrap: anywhere;
+}
+h2::before {
+  content: "·";
+  color: var(--color-accent);
+  margin-inline-end: 0.5em;
+  font-weight: 400;
+}
+h3 {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--text-lg);
+  line-height: 1.5;
+  letter-spacing: 0.03em;
+  margin: var(--space-xl) 0 var(--space-md);
+  font-style: normal;
+  overflow-wrap: anywhere;
+}
+p { margin: 0 0 var(--space-md); }
+strong { font-weight: 700; }
+em { font-style: italic; }
+
+/* 段落内排版链接（Long Document 的按钮） */
+.doc-link, .doc-link:visited {
+  color: var(--color-ink);
+  text-decoration: none;
+  border-bottom: 1px solid var(--color-accent);
+  padding-bottom: 1px;
+  transition: color var(--dur-short) var(--ease-out);
+}
+.doc-link:hover { color: var(--color-accent); }
+.doc-link:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+
+/* 要点句 */
+.note {
+  margin: var(--space-lg) 0;
+  padding-inline-start: var(--space-md);
+  border-inline-start: 2px solid var(--color-accent);
+  color: var(--color-neutral);
+  font-size: var(--text-sm);
+}
+.note strong { color: var(--color-ink); }
+
+/* ============ 表格 ============ */
+.table-wrap {
+  margin: var(--space-lg) 0 var(--space-xl);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+}
+table {
+  width: 100%;
+  min-width: 30rem;
+  border-collapse: collapse;
+  font-size: var(--text-sm);
+  line-height: 1.75;
+  font-variant-numeric: tabular-nums;
+}
+thead th {
+  text-align: left;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  font-size: var(--text-xs);
+  color: var(--color-muted);
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--color-ink);
+  white-space: nowrap;
+}
+tbody th {
+  text-align: left;
+  font-weight: 700;
+  color: var(--color-ink);
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--color-rule-2);
+  vertical-align: top;
+  white-space: nowrap;
+}
+tbody td {
+  padding: var(--space-sm) var(--space-md);
+  border-bottom: 1px solid var(--color-rule-2);
+  vertical-align: top;
+  color: var(--color-neutral);
+}
+tbody tr { transition: background-color var(--dur-short) var(--ease-out); }
+@media (hover: hover) and (pointer: fine) {
+  tbody tr:hover { background: var(--color-paper-2); }
+}
+td .cite { color: var(--color-muted); font-size: var(--text-xs); }
+
+/* ============ 代码块 ============ */
+.pre-wrap {
+  margin: var(--space-lg) 0 var(--space-xl);
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  background: var(--color-paper-2);
+  border-top: 1px solid var(--color-rule);
+  border-bottom: 1px solid var(--color-rule);
+}
+.pre-label {
+  display: block;
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  letter-spacing: 0.1em;
+  color: var(--color-muted);
+  padding: var(--space-sm) var(--space-md) 0;
+  text-transform: uppercase;
+}
+pre {
+  margin: 0;
+  padding: var(--space-sm) var(--space-md) var(--space-md);
+  font-family: var(--font-mono);
+  font-size: var(--text-xs);
+  line-height: 1.8;
+  color: var(--color-ink-2);
+  white-space: pre;
+}
+pre .step { color: var(--color-accent); font-weight: 600; }
+
+/* ============ 卷尾题跋 ============ */
+.epilogue {
+  max-width: 40em;
+  margin-inline: auto;
+  padding: var(--space-3xl) clamp(1rem, 4vw, 2.5rem) var(--space-2xl);
+  text-align: center;
+}
+.epilogue__ink {
+  font-size: var(--text-xl);
+  line-height: 2.1;
+  color: var(--color-neutral);
+  max-width: 34ch;
+  margin-inline: auto;
+}
+.epilogue__ink em { color: var(--color-ink); }
+.epilogue__seal {
+  margin: var(--space-lg) auto 0;
+  opacity: 0;
+  transform: translateY(8px);
+  transition: opacity var(--dur-long) var(--ease-out), transform var(--dur-long) var(--ease-out);
+}
+.epilogue__seal.is-visible { opacity: 1; transform: none; }
+.epilogue__seal .seal { width: 2.8rem; height: 2.8rem; font-size: 1rem; }
+
+/* ============ 页脚 ============ */
+.foot {
+  max-width: 40em;
+  margin-inline: auto;
+  padding: var(--space-md) clamp(1rem, 4vw, 2.5rem) calc(var(--space-xl) + env(safe-area-inset-bottom));
+  border-top: 1px solid var(--color-rule-2);
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--space-xs) var(--space-lg);
+  font-size: var(--text-xs);
+  letter-spacing: 0.12em;
+  color: var(--color-muted);
+}
+.foot a, .foot a:visited {
+  color: inherit; text-decoration: none;
+  border-bottom: 1px solid var(--color-rule-2); padding-bottom: 1px;
+  white-space: nowrap;
+  transition: color var(--dur-short) var(--ease-out), border-color var(--dur-short) var(--ease-out);
+}
+.foot a:hover { color: var(--color-accent); border-color: var(--color-accent); }
+.foot a:focus-visible { outline: 2px solid var(--color-focus); outline-offset: 3px; }
+
+/* ============ 入场编排 ============ */
+.hero__word { animation: reveal var(--dur-long) var(--ease-out) both; }
+.hero__meta, .hero__lede { animation: reveal var(--dur-long) var(--ease-out) both; animation-delay: 120ms; }
+@keyframes reveal {
+  from { opacity: 0; transform: translateY(8px); }
+  to   { opacity: 1; transform: none; }
+}
+
+/* ============ 响应式 ============ */
+@media (max-width: 40rem) {
+  .masthead { flex-direction: column; align-items: flex-start; gap: var(--space-2xs); }
+  .hero__row { gap: var(--space-md); }
+  .hero__seal { margin-top: 0; }
+  .seal { width: 2.6rem; height: 2.6rem; font-size: 1rem; }
+  .document > section { margin-top: var(--space-2xl); }
+  h2 { font-size: var(--text-xl); }
+  .epilogue__ink { font-size: var(--text-lg); }
+  /* 表格转卡片 */
+  .table-wrap { overflow: visible; }
+  table { min-width: 0; }
+  thead { display: none; }
+  tbody, tr, td, th { display: block; width: 100%; }
+  tbody tr {
+    padding: var(--space-sm) 0;
+    border-bottom: 1px solid var(--color-rule);
+  }
+  tbody tr:last-child { border-bottom: none; }
+  tbody th, tbody td {
+    border-bottom: none;
+    padding: var(--space-3xs) 0;
+    white-space: normal;
+  }
+  tbody th {
+    font-size: var(--text-sm);
+    margin-top: var(--space-sm);
+  }
+  tbody td::before {
+    content: attr(data-label);
+    display: block;
+    font-size: var(--text-xs);
+    letter-spacing: 0.1em;
+    color: var(--color-muted);
+    margin-bottom: 2px;
+  }
+  .pre-wrap { overflow-x: auto; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 150ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 150ms !important;
+  }
+  .hero__seal, .hero__word, .hero__meta, .hero__lede {
+    animation-name: reveal !important;
+    animation-delay: 0ms !important;
+  }
+  .epilogue__seal { opacity: 1; transform: none; transition: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- ======== 卷首横眉 ======== -->
+<header class="masthead">
+  <span>止观践行 · 技能 S_025</span>
+  <a href="止观践行-技能-模式识别Skill.md">查看 Markdown 原文</a>
+</header>
+
+<!-- ======== 卷首题字 ======== -->
+<section class="hero" aria-label="卷首">
+  <div class="hero__row">
+    <h1 class="hero__word">止观践行 <span class="seal-word">·&nbsp;模式识别</span></h1>
+    <div class="hero__seal" role="img" aria-label="朱砂印文：印">
+      <span class="seal">印</span>
+    </div>
+  </div>
+  <p class="hero__lede">
+    一面照向镜子本身的镜子。本技能通读止观践行笔记，识别修行模式、表达模式与思维模式，
+    以中观唯识的框架——三性说、八识、八不中观——深度解析，输出结构化分析报告与一针见血的改进建议。
+    用于修行记录的分析与自省，不作临床诊断，不替代导师评语。
+  </p>
+  <div class="hero__meta">
+    <span>ID: S_025</span>
+    <span>VERSION 1.0</span>
+    <span>2026-08</span>
+    <span>EVIDENCE C</span>
+    <span>输入：止观践行笔记</span>
+    <span>输出：模式识别报告</span>
+  </div>
+</section>
+
+<!-- ======== 文档 ======== -->
+<main class="document">
+
+  <!-- 技能信息 -->
+  <section aria-labelledby="sec-info">
+    <h2 id="sec-info">技能信息</h2>
+    <p><strong>技能ID</strong> S_025　<strong>技能名称</strong> 模式识别　<strong>功能</strong> 分析止观践行笔记，识别修行模式、表达模式与思维模式，运用中观唯识框架深度解析，输出结构化分析报告与实用改进建议</p>
+    <p><strong>输入</strong> 止观践行笔记（周记/每日践行记录）文本　<strong>输出</strong> 模式识别分析报告 + 个性化修行指导</p>
+  </section>
+
+  <!-- 分析工作流 -->
+  <section aria-labelledby="sec-workflow">
+    <h2 id="sec-workflow">分析工作流</h2>
+    <p>六步流程，自上而下执行。每步都向下游提供证据，最后汇聚为报告。</p>
+    <div class="pre-wrap">
+      <span class="pre-label">流程 · WORKFLOW</span>
+      <pre><span class="step">STEP 1</span>: 通读笔记，提取事实
+│
+├─ 梳理笔记范围（周次、天数、事件清单）
+├─ 提取每个事件的"发生了什么-怎么做的-结果如何"
+└─ 标记原文关键句（金句、比喻、情绪词）
+
+<span class="step">STEP 2</span>: 修行模式识别
+│
+├─ 按五大类别分类（见修行模式分类表）
+├─ 统计各类出现频次与分布
+└─ 标注代表实例（引用原文）
+
+<span class="step">STEP 3</span>: 表达模式分析
+│
+├─ 描述方式：叙述体还是概念化
+├─ 语言特点：白话、比喻系统、金句密度
+├─ 情感表达：直接与含蓄、觉察分离度
+├─ 叙事结构：时间线、顿悟弧线
+└─ 写作规范检查：标点、引语、框架融入
+
+<span class="step">STEP 4</span>: 思维模式识别
+│
+├─ 对照思维模式识别表逐项排查
+├─ 找出反复出现的思考习惯与认知偏差
+└─ 区分健康觉察与惯性运作
+
+<span class="step">STEP 5</span>: 中观唯识深度解析
+│
+├─ 三性说映射：事件 → 依他起/遍计所执/圆成实
+├─ 八识认知链条：六识分别→七识执我→八识种习气
+├─ 中观见地检查（八不检查表）
+└─ 修行阶段定位（觉察→分析→看透→放下→转化→安住）
+
+<span class="step">STEP 6</span>: 生成报告
+│
+├─ 按输出模板生成结构化报告
+└─ 建议必须具体、可执行、锚定笔记原文</pre>
+    </div>
+  </section>
+
+  <!-- 修行模式分类表 -->
+  <section aria-labelledby="sec-modes">
+    <h2 id="sec-modes">修行模式分类表</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">类别</th><th scope="col">定义</th><th scope="col">识别线索</th><th scope="col">示例（取自本课程笔记）</th></tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">禅修方法</th><td data-label="定义">具体练习方法</td><td data-label="识别线索">数息、吐气计数、观想、听引导音频、读经典</td><td data-label="示例">吐气计数 1-8 升降序</td></tr>
+          <tr><th scope="row">觉察技巧</th><td data-label="定义">面对念头与情绪的技术</td><td data-label="识别线索">标记、只是看着、不抓、不迎不拒、停息</td><td data-label="示例">第二支箭悬在头上，不去抓下来</td></tr>
+          <tr><th scope="row">心境变化</th><td data-label="定义">状态记录</td><td data-label="识别线索">平静、清明、恐惧、散乱、渴爱、孤独</td><td data-label="示例">定力渐长，少了烂事</td></tr>
+          <tr><th scope="row">生活践行</th><td data-label="定义">日常场景中的应用</td><td data-label="识别线索">会议、跑步、社交、阅读、睡眠</td><td data-label="示例">关掉老友记，接纳本来的平静</td></tr>
+          <tr><th scope="row">理论内化</th><td data-label="定义">用教理理解自身经验</td><td data-label="识别线索">三性说、八识、唯识的思考</td><td data-label="示例">唯识唯的是眼镜，不是桌子</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note"><strong>判定标准</strong>：每个模式必须能用"发生了什么-怎么做的-结果如何"三要素坐实，找不到三要素的不计入模式，只算散记。</p>
+  </section>
+
+  <!-- 表达模式分析维度 -->
+  <section aria-labelledby="sec-expression">
+    <h2 id="sec-expression">表达模式分析维度</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">维度</th><th scope="col">观察点</th><th scope="col">健康信号</th><th scope="col">警示信号</th></tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">描述方式</th><td data-label="观察点">叙述体 vs 概念化</td><td data-label="健康信号">事件锚定、细节具体、有场景</td><td data-label="警示信号">抽象空转、贴标签、无事实</td></tr>
+          <tr><th scope="row">语言特点</th><td data-label="观察点">白话程度、比喻系统、金句密度</td><td data-label="健康信号">比喻服务于领悟，金句由经验长出</td><td data-label="警示信号">比喻替代思考，金句空洞堆砌</td></tr>
+          <tr><th scope="row">情感表达</th><td data-label="观察点">直接/含蓄、情绪与觉察的分离度</td><td data-label="健康信号">情绪可被看见而不淹没</td><td data-label="警示信号">情绪倾泻无觉察，或完全压抑回避</td></tr>
+          <tr><th scope="row">叙事结构</th><td data-label="观察点">时间线、顿悟弧线</td><td data-label="健康信号">起承转合自然，问题-反转-领悟</td><td data-label="警示信号">记录断裂、回避冲突话题</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note"><strong>写作规范检查</strong>（本课程三规范）：
+      标点：只用逗号句号（发现破折号、分号、冒号、顿号、引号即违规）·
+      引语：以"有句话说"引导（直接使用引号即违规）·
+      框架：佛教概念自然融入经验叙述，禁止概念解释段落</p>
+  </section>
+
+  <!-- 思维模式识别表 -->
+  <section aria-labelledby="sec-thought">
+    <h2 id="sec-thought">思维模式识别表</h2>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">模式</th><th scope="col">特征</th><th scope="col">中观唯识解读</th><th scope="col">识别示例</th></tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">自我反诘</th><td data-label="特征">用问题逼问自己</td><td data-label="中观唯识解读">第六识分别转向自我觉察</td><td data-label="识别示例">凭什么信这面镜子</td></tr>
+          <tr><th scope="row">类比推理</th><td data-label="特征">用比喻理解复杂经验</td><td data-label="中观唯识解读">依他起的善巧分别</td><td data-label="识别示例">两扇门进同一座大厦</td></tr>
+          <tr><th scope="row">向内归因</th><td data-label="特征">从心上找答案</td><td data-label="中观唯识解读">唯识的修行入口</td><td data-label="识别示例">这几年我的问题回到了里面</td></tr>
+          <tr><th scope="row">自我证明</th><td data-label="特征">需要验证自身价值</td><td data-label="中观唯识解读">遍计所执的我执运作</td><td data-label="识别示例">证明自己是美玉才肯雕琢</td></tr>
+          <tr><th scope="row">灾难化想象</th><td data-label="特征">放大最坏可能</td><td data-label="中观唯识解读">依他起事实被遍计加工</td><td data-label="识别示例">猝死新闻→不敢跑步</td></tr>
+          <tr><th scope="row">渴爱抓取</th><td data-label="特征">想要→念头有去处</td><td data-label="中观唯识解读">第八识种子的现行熏习</td><td data-label="识别示例">想要，念头就有了去处</td></tr>
+          <tr><th scope="row">模式化他见</th><td data-label="特征">看穿他人运作模式</td><td data-label="中观唯识解读">觉察力外放（定力的运用）</td><td data-label="识别示例">在别人的模式里拿到结果</td></tr>
+          <tr><th scope="row">见地成熟</th><td data-label="特征">对法、师、我的关系清醒</td><td data-label="中观唯识解读">依法不依人，指头非月亮</td><td data-label="识别示例">他悟的是他的，我跪的是我的</td></tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note"><strong>排查要点</strong>：
+      找出跨周反复出现的同类思维（那才是"模式"，单次不算）·
+      区分"觉察到模式"（健康）与"被模式带着走"（惯性）·
+      注意思维模式与修行模式的联动：如"灾难化想象"如何阻碍"跑步践行"</p>
+  </section>
+
+  <!-- 中观唯识深度解析 -->
+  <section aria-labelledby="sec-theory">
+    <h2 id="sec-theory">中观唯识深度解析框架</h2>
+
+    <h3>一 · 三性说映射</h3>
+    <p>对每个关键事件建立映射表：</p>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">笔记事件</th><th scope="col">依他起性（缘起事实）</th><th scope="col">遍计所执性（执着加工）</th><th scope="col">圆成实性（本然显现）</th></tr>
+        </thead>
+        <tbody>
+          <tr>
+            <th scope="row">示例：会议没叫我</th>
+            <td data-label="依他起性（缘起事实）">会议召开，未收到邀请</td>
+            <td data-label="遍计所执性（执着加工）">暗自纳闷甚至难受，"我该被叫"</td>
+            <td data-label="圆成实性（本然显现）">看着箭悬着不抓，随后没有然后</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+    <p class="note">
+      <strong>依他起</strong>对应前六识，因缘聚合无固定本质，不可完全控制，只能调环境（选择浸泡的环境，环境熏习意识）·
+      <strong>遍计所执</strong>对应第七识，恒审思量，计度分别，执我执我所，多是不经过头脑的惯性力量，是修心真正关键点·
+      <strong>圆成实</strong>对应第八识，来什么储藏什么，不预见不计较，无需调整，乌云散去光芒自现</p>
+
+    <h3>二 · 八识认知链条</h3>
+    <p>对一个觉察事件标出认知链条：</p>
+    <div class="pre-wrap">
+      <span class="pre-label">链条 · CHAIN</span>
+      <pre>前五识接触外境 → 第六识分别（建构标准）→ 第七识执我（计度、抓取）
+→ 觉察即破（看见执着本身）→ 破即熏习（向第八识种下新种子）</pre>
+    </div>
+    <p class="note">若笔记只记录到"分别"或"执我"而未到"觉察"，说明觉察滞后，是下一步修行要点。
+      若笔记出现"看到自己在想""看着它悬在那里"，即链条在"觉察即破"处截断。</p>
+
+    <h3>三 · 中观见地检查（八不检查表）</h3>
+    <div class="table-wrap">
+      <table>
+        <thead>
+          <tr><th scope="col">检查项</th><th scope="col">落入常见的表现</th><th scope="col">落入断见的表现</th><th scope="col">中观正见</th></tr>
+        </thead>
+        <tbody>
+          <tr><th scope="row">不常</th><td data-label="落入常见的表现">把暂时心境当作永久的我</td><td data-label="落入断见的表现">—</td><td data-label="中观正见">心境缘起，无常住实体</td></tr>
+          <tr><th scope="row">不断</th><td data-label="落入常见的表现">—</td><td data-label="落入断见的表现">否认修行成果"一点没进步"</td><td data-label="中观正见">种子相续，功不唐捐</td></tr>
+          <tr><th scope="row">不一</th><td data-label="落入常见的表现">把某次经验当作全部</td><td data-label="落入断见的表现">把某次失败当作定局</td><td data-label="中观正见">一即一切，经验是暂时的显现</td></tr>
+          <tr><th scope="row">不来不去</th><td data-label="落入常见的表现">执念于回到过去好状态</td><td data-label="落入断见的表现">畏惧未来变化</td><td data-label="中观正见">现在法即当下，无来无去</td></tr>
+          <tr><th scope="row">缘起性空</th><td data-label="落入常见的表现">标准（快慢好坏）被第六识建构为绝对</td><td data-label="落入断见的表现">否定因果作用</td><td data-label="中观正见">急躁非事物本有属性，快慢皆缘起</td></tr>
+          <tr><th scope="row">二谛</th><td data-label="落入常见的表现">把修行结果当真</td><td data-label="落入断见的表现">把修行本身当空而废修</td><td data-label="中观正见">世俗谛认真践行，胜义谛不执结果</td></tr>
+        </tbody>
+      </table>
+    </div>
+
+    <h3>四 · 修行阶段定位</h3>
+    <p>六步定位：觉察 → 分析 → 看透 → 放下 → 转化 → 安住</p>
+    <p class="note">逐事件判断练习停在哪一步；统计各阶段占比，指出最常停留的阶段与下一步。
+      常见滞后：只到"觉察"不到"放下"（看见了仍抓着）；或跳步（未觉察就谈放下）。</p>
+  </section>
+
+  <!-- 输出报告模板 -->
+  <section aria-labelledby="sec-report">
+    <h2 id="sec-report">输出报告模板</h2>
+    <div class="pre-wrap">
+      <span class="pre-label">模板 · TEMPLATE</span>
+      <pre>【止观践行模式识别报告】
+
+元数据
+- 技能ID: S_025
+- 技能名称: 模式识别
+- 分析范围: [文件/周次/天数]
+- 调用时间: YYYY-MM-DD
+
+一、分析概览
+   - 笔记范围: [周次、天数、主要事件]
+   - 整体印象: [一句话概括本期修行状态]
+
+二、修行模式识别
+   - 禅修方法: [方法清单 + 频次]
+   - 觉察技巧: [技巧清单 + 代表实例]
+   - 心境变化: [变化轨迹，前后对比]
+   - 生活践行: [场景清单 + 结果]
+   - 理论内化: [内化程度评估]
+   - 模式小结: [本期修行主线]
+
+三、表达模式分析
+   - 描述方式: [叙述体/概念化评估]
+   - 语言特点: [白话程度、比喻系统、金句质量]
+   - 情感表达: [直接性、觉察分离度]
+   - 写作规范: [标点/引语/框架嵌入合规检查]
+
+四、思维模式识别
+   - 反复出现的思维模式: [模式清单，附原文证据]
+   - 认知偏差: [偏差类型 + 影响]
+   - 健康觉察: [见地成熟的证据]
+
+五、中观唯识深度解析
+   - 三性说映射: [关键事件映射表]
+   - 八识链条: [觉察截断点分析]
+   - 中观见地: [八不检查结论]
+   - 阶段定位: [六步定位结果与下一步]
+
+六、整体发现（提纲挈领）
+   1. [主线发现]
+   2. [核心进展]
+   3. [主要卡点]
+   4. [模式间联动]
+
+七、具体指导建议
+   1. 首要: [最该做的一件事，具体到场景与动作]
+   2. 次要: [次重要建议]
+   3. 长期: [持续方向]
+
+八、下周践行提示
+   - [一个可检验的小实验或观察任务]</pre>
+    </div>
+  </section>
+
+  <!-- 使用示例 -->
+  <section aria-labelledby="sec-example">
+    <h2 id="sec-example">使用示例</h2>
+    <h3>输入</h3>
+    <p>第五周.md（止观践行 DAY 1-7，主题：唯识三性说）</p>
+    <h3>生成的报告（节选）</h3>
+    <div class="pre-wrap">
+      <span class="pre-label">报告节选 · EXCERPT</span>
+      <pre>【止观践行模式识别报告】
+
+一、分析概览
+   - 笔记范围: 第五周 DAY 1-7，含课程总结与每日践行
+   - 整体印象: 从"被动承受执着"转向"主动看着执着"，三性说已活用于日常
+
+二、修行模式识别
+   - 禅修方法: 吐气计数 1-8 升降序（每日两次以上）、30分钟数息（DAY2）、听冥想音频
+   - 觉察技巧: 第二支箭观察（会议事件）、不迎不拒（跑步与恐惧共处）、看清"想要"（DAY7）
+   - 心境变化: 定力渐长（DAY1）→ 看见渴爱（DAY7），从处理事件到处理根源
+   - 生活践行: 关掉老友记、极慢跑、互助对象散步、朋友圈环境选择
+   - 理论内化: 三性说活学活用，唯识之唯的深度思考（DAY4）
+
+三、表达模式分析
+   - 描述方式: 叙述体为主，事件锚定（会议、猫酒吧、关音频），概念解释极少
+   - 语言特点: 大白话，比喻系统成熟（第二支箭、乌云、眼镜、指头与月亮）
+   - 情感表达: 觉察与情绪分离度高（"看着箭悬着，然后没有然后了"）
+   - 写作规范: 标点、引语、框架融入均合规
+
+四、思维模式识别
+   - 反复模式: 自我反诘（凭什么信这面镜子）、向内归因（问题回到里面）
+   - 认知偏差: 自我证明（美玉/瓦砾/抹布）、灾难化想象（猝死新闻）
+   - 健康觉察: 依法不依人，指头不是月亮（DAY7 见地成熟）
+
+五、中观唯识深度解析
+   - 三性说映射: 会议事件三性俱全，是遍计所执→觉察即破的完整示现
+   - 八识链条: 链条在"觉察即破"处干净截断，未再熏入旧种子
+   - 中观见地: 未落常见断见；对"唯"的思考已触及认知工程本质
+   - 阶段定位: 多数事件已达"放下"与"转化"之间，DAY7 接近"安住"
+
+六、整体发现
+   1. 主线: 从事件处理（会议）推进到根源处理（渴爱）
+   2. 进展: 觉察速度显著提升，第二支箭的滞留时间缩短
+   3. 卡点: 灾难化想象仍会启动（跑步），且与健康担忧绑定
+   4. 联动: 自我证明模式与"渴爱"同源，都是第七识在打方向盘
+
+七、具体指导建议
+   1. 首要: 跑步场景单独做一次"灾难化想象"标记练习，当张雪峰新闻念头生起时，不说"不要怕"，而是标记"这是依他起+遍计的复合念头，我看到你了"，与呼吸并行
+   2. 次要: 把 DAY7 的"看清想要"从晚上扩展到白天，选一个固定触发点（如打开微信时）暂停三秒问"这一刻我想要什么"
+   3. 长期: 保持"关掉老友记"式的小实验，每周一个，用行为巩固觉察成果
+
+八、下周践行提示
+   - 实验: 每天记录一次"第二支箭从生起到放下"的时长，看趋势是否缩短</pre>
+    </div>
+  </section>
+
+  <!-- 注意事项 -->
+  <section aria-labelledby="sec-notes">
+    <h2 id="sec-notes">注意事项</h2>
+    <p><strong>理论准确性</strong>：三性说、八识、八不中观的表述必须与课程及知识库一致，禁止自造概念</p>
+    <p><strong>客观深入</strong>：所有判断必须引用笔记原文作证据；无证据不判断</p>
+    <p><strong>建议实用性</strong>：每条建议必须能落地为具体动作（何时、何地、怎么做），禁止空泛的"继续加油"</p>
+    <p><strong>不替代导师</strong>：本技能输出分析供参考，导师评语与课程指导优先</p>
+    <p><strong>尊重笔记边界</strong>：不臆造笔记中不存在的细节，不补写用户未记录的内容</p>
+  </section>
+
+</main>
+
+<!-- ======== 卷尾题跋 ======== -->
+<aside class="epilogue" aria-label="卷尾">
+  <p class="epilogue__ink"><em>模式识别是把镜子照向镜子本身。分析报告是第七识的尽职调查，但最终放下调查报告的，也是第七识。</em></p>
+  <div class="epilogue__seal" id="seal-end" role="img" aria-label="朱砂印文：印">
+    <span class="seal">印</span>
+  </div>
+</aside>
+
+<!-- ======== 页脚 ======== -->
+<footer class="foot">
+  <span>止观践行 · 技能 S_025 · 模式识别</span>
+  <a href="止观践行-技能-模式识别Skill.md">Markdown 原文</a>
+  <span>V1.0 · 2026-08 · 中观唯识</span>
+</footer>
+
+<script>
+/* 卷尾题跋 · 单次 reveal（IntersectionObserver，非滚动监听） */
+(function () {
+  var el = document.getElementById("seal-end");
+  if (!el || !("IntersectionObserver" in window)) { el && el.classList.add("is-visible"); return; }
+  var io = new IntersectionObserver(function (entries) {
+    entries.forEach(function (e) {
+      if (e.isIntersecting) { e.target.classList.add("is-visible"); io.disconnect(); }
+    });
+  }, { threshold: 0.3 });
+  io.observe(el);
+})();
+</script>
+</body>
+</html>
