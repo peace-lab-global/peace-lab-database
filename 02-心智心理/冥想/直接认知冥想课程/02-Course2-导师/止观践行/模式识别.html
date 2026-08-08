@@ -4,15 +4,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>止观践行 · 六周模式识别报告</title>
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700;900&family=ZCOOL+XiaoWei&display=swap">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700;900&family=ZCOOL+XiaoWei&display=swap" media="print" onload="this.media='all'">
-<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;500;700;900&family=ZCOOL+XiaoWei&display=swap"></noscript>
 <style>
 /* Hallmark · macrostructure: Narrative Workflow (insights-first restructure) · theme: custom
  * axes: light / engraved-serif / chromatic-vermilion ~30°
- * vibe: ink-wash, rice-paper, cinnabar seal · display: ZCOOL XiaoWei · body: Noto Serif SC
+ * vibe: ink-wash, rice-paper, cinnabar seal · display: Kaiti (local) · body: Songti (local)
  * IA: 目录导航 → 卷壹洞见 → 卷贰建议 → 卷叁详析 → 卷肆周记
  */
 :root {
@@ -23,20 +18,21 @@
   --color-ink-2:      oklch(40% 0.012 40);
   --color-rule:       oklch(78% 0.012 70);
   --color-rule-2:     oklch(83% 0.012 70);
-  --color-muted:      oklch(52% 0.010 40);
+  --color-muted:      oklch(46% 0.010 40);
   --color-neutral:    oklch(38% 0.010 40);
   --color-accent:     oklch(47% 0.17 30);        /* 朱砂 */
   --color-accent-ink: oklch(96% 0.014 75);       /* 印上白字 */
   --color-focus:      oklch(55% 0.21 30);
-  --font-display: "ZCOOL XiaoWei", "Noto Serif SC", "Songti SC", "STSong", serif;
-  --font-body:    "Noto Serif SC", "Songti SC", "STSong", serif;
+  /* 标题用楷，正文用宋：皆为系统本地字体，不依赖网络，首屏即清晰 */
+  --font-display: "Kaiti SC", "STKaiti", "KaiTi", "DFKai-SB", "TW-Kai", "Songti SC", "SimSun", serif;
+  --font-body:    "Songti SC", "Songti TC", "STSong", "Noto Serif CJK SC", "Source Han Serif SC", "SimSun", serif;
   --text-hero:    clamp(2.4rem, 7vw + 0.8rem, 4.4rem);
   --text-stage:   clamp(2.2rem, 6vw + 0.8rem, 3.8rem);
   --text-part:    clamp(1.8rem, 4vw + 0.6rem, 2.6rem);
   --text-h3:      clamp(1.3rem, 3vw + 0.4rem, 1.8rem);
-  --text-lede:    clamp(1.05rem, 1.2vw + 0.6rem, 1.3rem);
-  --text-body:    1rem;
-  --text-xs:      0.75rem;
+  --text-lede:    clamp(1.1rem, 1.2vw + 0.65rem, 1.35rem);
+  --text-body:    1.125rem;
+  --text-xs:      0.8125rem;
   --dur-micro: 120ms; --dur-short: 220ms; --dur-long: 420ms;
   --ease-out:    cubic-bezier(0.16, 1, 0.3, 1);
   --ease-in:     cubic-bezier(0.7,  0, 0.84, 0);
@@ -51,6 +47,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--text-body);
   line-height: 1.9;
+  letter-spacing: 0.015em;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
@@ -66,27 +63,10 @@ a:focus-visible, button:focus-visible {
 ::selection { background: var(--color-accent); color: var(--color-accent-ink); }
 [id] { scroll-margin-top: 1.4rem; }
 
-/* ── 横眉 ─────────────────────────────────────────── */
-.masthead {
-  max-width: 64em; margin: 0 auto; padding: 1.1rem 1.5rem 0;
-  display: flex; justify-content: space-between; align-items: baseline; gap: 1rem;
-  border-bottom: 1px solid var(--color-rule-2);
-  font-size: var(--text-xs); letter-spacing: 0.16em; color: var(--color-muted);
-}
-.masthead__title { letter-spacing: 0.2em; }
-.masthead__links { display: flex; gap: 1.4em; flex-wrap: wrap; }
-.masthead a { font-size: var(--text-xs); letter-spacing: 0.12em; text-decoration: none; color: var(--color-muted); }
-.masthead a:hover { color: var(--color-accent); }
-
 /* ── 扉页 ─────────────────────────────────────────── */
 .flyleaf {
   max-width: 64em; margin: 0 auto; padding: clamp(3.4rem, 8vw, 6rem) 1.5rem clamp(2.4rem, 6vw, 4rem);
   position: relative;
-}
-.flyleaf__eyebrow {
-  font-family: var(--font-display); font-size: var(--text-xs);
-  letter-spacing: 0.42em; color: var(--color-muted);
-  margin: 0 0 2.4rem;
 }
 .flyleaf__word {
   font-family: var(--font-display); font-weight: 400;
@@ -98,12 +78,6 @@ a:focus-visible, button:focus-visible {
 .flyleaf__lede {
   max-width: 34em; margin: 2.4rem 0 0;
   font-size: var(--text-lede); line-height: 2; color: var(--color-ink-2);
-}
-.flyleaf__meta {
-  display: flex; flex-wrap: wrap; gap: 0.5rem 2rem;
-  margin-top: 3rem; padding-top: 1.4rem;
-  border-top: 1px solid var(--color-rule-2);
-  font-size: var(--text-xs); letter-spacing: 0.14em; color: var(--color-muted);
 }
 .seal {
   width: 3.2rem; height: 3.2rem;
@@ -151,8 +125,7 @@ a:focus-visible, button:focus-visible {
 }
 .toc__list a:hover { border-color: var(--color-accent); background: var(--color-paper-2); transform: translateY(-2px); }
 .toc__no { font-family: var(--font-display); color: var(--color-accent); font-size: 1.35rem; line-height: 1; display: block; }
-.toc__name { display: block; font-family: var(--font-display); font-size: 1.15rem; letter-spacing: 0.12em; color: var(--color-ink); margin: 0.55rem 0 0.3rem; }
-.toc__sub { display: block; font-size: var(--text-xs); letter-spacing: 0.14em; color: var(--color-muted); }
+.toc__name { display: block; font-family: var(--font-display); font-size: 1.15rem; letter-spacing: 0.12em; color: var(--color-ink); margin: 0.55rem 0 0; }
 
 /* ── 卷（四卷通用骨架） ─────────────────────────── */
 .part { max-width: 64em; margin: 0 auto; padding: clamp(2.8rem, 6vw, 4.2rem) 1.5rem 0; }
@@ -169,10 +142,6 @@ a:focus-visible, button:focus-visible {
   font-family: var(--font-display); font-weight: 400;
   font-size: var(--text-part); line-height: 1.25;
   letter-spacing: 0.14em; margin: 0;
-}
-.part__lede {
-  width: 100%; margin: 0.5rem 0 0;
-  font-size: var(--text-xs); letter-spacing: 0.2em; color: var(--color-muted);
 }
 .part__back { margin: 1.6rem 0 0; font-size: var(--text-xs); letter-spacing: 0.14em; }
 .part__back a { color: var(--color-muted); text-decoration: none; }
@@ -344,7 +313,7 @@ tbody tr:hover td { background: var(--color-paper-3); }
 .stage__topic { font-size: var(--text-xs); letter-spacing: 0.24em; color: var(--color-muted); margin: 0 0 0.8rem; }
 .stage__body { color: var(--color-ink-2); margin: 0 0 1.6rem; max-width: 34em; }
 .stage__body strong { color: var(--color-ink); font-weight: 700; }
-.stage__chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1.8rem; }
+.stage__chips { display: flex; flex-wrap: wrap; gap: 0.5rem; margin: 0 0 1.8rem; list-style: none; padding: 0; }
 .chip {
   font-size: var(--text-xs); letter-spacing: 0.08em;
   color: var(--color-neutral);
@@ -425,8 +394,7 @@ tbody tr:hover td { background: var(--color-paper-3); }
   .stats { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 @media (max-width: 40rem) {
-  .masthead { flex-direction: column; gap: 0.4rem; }
-  .toc__list { grid-template-columns: 1fr; }
+    .toc__list { grid-template-columns: 1fr; }
   .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .table-wrap { overflow: visible; }
   table { min-width: 0; }
@@ -442,7 +410,6 @@ tbody tr:hover td { background: var(--color-paper-3); }
   }
   .matrix li { grid-template-columns: 4.6em minmax(0, 1fr); }
   .matrix .m-week { grid-column: 2; text-align: left; }
-  .flyleaf__meta { gap: 0.4rem 1.2rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
@@ -458,27 +425,11 @@ tbody tr:hover td { background: var(--color-paper-3); }
 </head>
 <body>
 
-<header class="masthead">
-  <span class="masthead__title">止观践行 · 六周报告</span>
-  <nav class="masthead__links" aria-label="关联页面">
-    <a href="#toc">目录</a>
-    <a href="技能/止观践行-模式识别-水墨卷轴.html">技能卷轴</a>
-    <a href="INDEX.md">笔记原文</a>
-  </nav>
-</header>
-
 <main>
   <!-- ═══ 扉页 ═══ -->
   <section class="flyleaf">
-    <p class="flyleaf__eyebrow">模式识别技能 S_025 · 六周践行全景分析</p>
     <h1 class="flyleaf__word">六周观照录<br><span class="seal-word">从观苦到转识成智</span></h1>
-    <p class="flyleaf__lede">以模式识别技能（S_025）通读六周止观践行笔记，识别修行模式、表达模式与思维模式，并依中观唯识框架给出深度解析。本册先呈洞见与建议，再展模式详析，最后按周存档。分析所引，皆出自笔记原文，逐条标注周次出处。</p>
-    <div class="flyleaf__meta">
-      <span>分析对象：六篇周笔记</span>
-      <span>覆盖：DAY 1-7 × 6 周</span>
-      <span>识别课题：12+ 项</span>
-      <span>落款：2026·秋</span>
-    </div>
+    <p class="flyleaf__lede">通读六周止观践行笔记，识别修行模式、表达模式与思维模式，并依中观唯识框架深度解析。先呈洞见与建议，再展模式详析，最后按周存档。</p>
     <div class="seal" role="img" aria-label="印章：观">观</div>
   </section>
 
@@ -494,22 +445,18 @@ tbody tr:hover td { background: var(--color-paper-3); }
       <li><a href="#insights">
         <span class="toc__no">卷壹</span>
         <span class="toc__name">整体发现与核心洞见</span>
-        <span class="toc__sub">五项发现 · 五则洞见</span>
       </a></li>
       <li><a href="#advice">
         <span class="toc__no">卷贰</span>
         <span class="toc__name">改进建议</span>
-        <span class="toc__sub">六条实操 · 三个方向</span>
       </a></li>
       <li><a href="#patterns">
         <span class="toc__no">卷叁</span>
         <span class="toc__name">详细模式分析</span>
-        <span class="toc__sub">修行 · 表达 · 思维 · 中观唯识</span>
       </a></li>
       <li><a href="#weeks">
         <span class="toc__no">卷肆</span>
         <span class="toc__name">每周实录</span>
-        <span class="toc__sub">第一周至第六周 · 逐周档案</span>
       </a></li>
     </ol>
   </nav>
@@ -519,7 +466,6 @@ tbody tr:hover td { background: var(--color-paper-3); }
     <header class="part__head">
       <span class="part__no">卷壹</span>
       <h2 class="part__title">整体发现与核心洞见</h2>
-      <p class="part__lede">六周最重要的结论，先在这里交汇</p>
     </header>
 
     <div class="stats" aria-label="六周关键数字">
@@ -559,7 +505,7 @@ tbody tr:hover td { background: var(--color-paper-3); }
       </li>
       <li>
         <h4>表达的演进，是修行的影子</h4>
-        <p>文风的改变是观察者位置的改变：第一周向老师汇报（求认可），第三周向自己交代（自我批判完整入档），第六周直指当下（自问自答，慈悲与悲悯并存）。当写作者不再需要读者确认，修行就从表演进入了真实。「宁可真的丑，不要假的美」是「依法不依人」的写作版：放下的不只是对老师的依赖，还有对被看见的依赖。后期文字偈语化（「松动，就能让光进来」），不是修辞进步，是观照浓缩了，语言自然变短。</p>
+        <p>文风的改变是观察者位置的改变：第一周向老师汇报（求认可），第三周向自己交代（自我批判完整入档），第六周直指当下（自问自答，慈悲与悲悯并存）。当写作者不再需要读者确认，修行就从表演进入了真实。「宁可真的丑，不要假的美」是「依法不依人」的写作版：放下的不只是对老师的依赖，还有对被看见的依赖。后期文字偈语化（「松动，就能让光进来」），不是修辞进步，是观照浓缩了，语言自然变短。而第五周备注里那句「我也要注意表达不要让别人心寒」，更露出第四层位置：不再需要被看见之后，进一步不去冻着别人，观察者从自己再度转向他人。</p>
       </li>
     </ol>
 
@@ -575,7 +521,6 @@ tbody tr:hover td { background: var(--color-paper-3); }
     <header class="part__head">
       <span class="part__no">卷贰</span>
       <h2 class="part__title">改进建议</h2>
-      <p class="part__lede">每条给方法、给频率、给验证，今晚即可上手</p>
     </header>
 
     <p>六条建议遵循同一底层逻辑：把练习从「识别得多」推向「熏得深」，从「行为管理」推回「心境观照」。设计依禅修最佳实践：固定时段保连续性，单一所缘保深度，书面记录保闭环，可验证指标保反馈。</p>
@@ -645,7 +590,6 @@ tbody tr:hover td { background: var(--color-paper-3); }
     <header class="part__head">
       <span class="part__no">卷叁</span>
       <h2 class="part__title">详细模式分析</h2>
-      <p class="part__lede">修行 · 表达 · 思维 · 中观唯识，四路并进</p>
     </header>
 
     <h3>修行模式 · 五类总览</h3>
@@ -653,8 +597,8 @@ tbody tr:hover td { background: var(--color-paper-3); }
       <li><b>践行类型</b>：座上、动中定、日常三段并用；第五周起固化为「基本功 → 课程加止观冥想 → 践行」日课模板，动中定贯穿始终（骑行、步行、跑步）。</li>
       <li><b>定力轨迹</b>：定力尚浅（一）→ 压力轻微（二）→ 定中解构（三）→ 定力现前（四）→ 定力渐长（五）→ 钢铁安住（六），六周可测。 <span class="src">一W1D3 · 二W2D1 · 五W5D1 · 六W6D2</span></li>
       <li><b>止观配合</b>：由「止观念归」口诀（一）→ 观照加解构并行（二、三）→ 「新心境熏习旧心境」（四）→ 三性三步检视（五）→ 「下手处不在换，在停」（六）。</li>
-      <li><b>日常运用</b>：工作场景（会议、评价、权威）→ 生活重建（阅读、手机、跑步）→ 人格底层（受害者、缺爱），由外而内逐层深入。</li>
-      <li><b>修行误区</b>：两座实证之坑：<b>恶取空</b>（着空相，失慈悲，三周内自纠）与<b>行为层替代心境层</b>（「有感悟、缺正见」）；另有破熏混淆（已由老师校正）、依人不依法（自省）。</li>
+      <li><b>日常运用</b>：工作场景（会议、评价、权威）→ 生活重建（阅读、手机、跑步）→ 人格底层（受害者、缺爱），由外而内逐层深入，至第六周直接下手解决婚姻冷战，冰封三百天的柏林墙倒塌。</li>
+      <li><b>修行误区</b>：两座实证之坑：<b>恶取空</b>（着空相，失慈悲，三周内自纠）与<b>行为层替代心境层</b>（「有感悟、缺正见」）；另有破熏混淆（已由老师校正）、依人不依法（自省，第六周厘清为「梯子甄别」：修的是自己，不是梯子）。</li>
     </ul>
     <p>深读五类，真正的演进线藏在主宾位置的互换：六周前半是「我在观苦」，后半是「苦被看见」。修者逐步从主角退回见证者的位置。动中定（骑行十三公里、不带手机步行一小时、急诊门口跑步）反复证明同一件事：止观的场所不在坐垫，在觉知的连续性。</p>
 
@@ -687,12 +631,12 @@ tbody tr:hover td { background: var(--color-paper-3); }
             <td data-label="读者意识"><b>读者意识</b></td>
             <td data-label="第一周">以老师为读者</td>
             <td data-label="第三周">转向自己 · 自我批判完整入档</td>
-            <td data-label="第六周">自问自答 · 慈悲与悲悯并存</td>
+            <td data-label="第六周">自问自答 · 慈悲与悲悯并存 · 不让人心寒</td>
           </tr>
         </tbody>
       </table>
     </div>
-    <p>风格由「汇报」走向「交代」，由「解释」走向「直指」；第四周的自我分析是转折点：感悟要有框架穿透，文采须让位于正见。更深一层，表达的演进完成了三次跳跃：从向老师求确认（第一周），到向自己求确认（第三周），到无需确认（第六周）。写作的对象一路从外部收回到内部，与修行的方向完全同向。</p>
+    <p>风格由「汇报」走向「交代」，由「解释」走向「直指」；第四周的自我分析是转折点：感悟要有框架穿透，文采须让位于正见。更深一层，表达的演进完成了三次跳跃：从向老师求确认（第一周），到向自己求确认（第三周），到无需确认（第六周）。写作的对象一路从外部收回到内部，与修行的方向完全同向。第五周又添一笔：笔记发老师得到包容之后，写作者提醒自己「我也要注意表达不要让别人心寒」，目光在收回到自己之后，再一次转向他人。</p>
 
     <h3>思维模式 · 八型识别</h3>
     <div class="table-wrap">
@@ -733,8 +677,8 @@ tbody tr:hover td { background: var(--color-paper-3); }
           </tr>
           <tr>
             <td data-label="思维型"><b>权威依赖型</b></td>
-            <td data-label="笔记证据">「从小怕老师，长大怕领导……脸变了，结构一点没变」</td>
-            <td data-label="出处">第二周 · DAY 7</td>
+            <td data-label="笔记证据">「从小怕老师，长大怕领导……脸变了，结构一点没变」；「修的不是对自己更有信心，而是对梯子更有信心，那我们修的是梯子，不是我们自己」</td>
+            <td data-label="出处">第二周 · DAY 7；第六周 · DAY 4</td>
           </tr>
           <tr>
             <td data-label="思维型"><b>二元对立型</b></td>
@@ -808,7 +752,7 @@ tbody tr:hover td { background: var(--color-paper-3); }
       <li><span class="m-stage">看透</span><span class="m-desc">梦幻观视苦如影；八不中观拆至信念级，恶取空自纠</span><span class="m-week">二至三周</span></li>
       <li><span class="m-stage">放下</span><span class="m-desc">离手机、不抓他人评价；「有感悟缺正见」自剖</span><span class="m-week">三至四周</span></li>
       <li><span class="m-stage">转化</span><span class="m-desc">新心境熏习旧心境；第二支箭不抓；依法不依人</span><span class="m-week">四至五周</span></li>
-      <li><span class="m-stage">安住</span><span class="m-desc">钢铁安住；受害者故事松手；回到数息基本功</span><span class="m-week">第六周</span></li>
+      <li><span class="m-stage">安住</span><span class="m-desc">钢铁安住；受害者故事松手；梯子甄别、依法不依人；柏林墙倒塌，走出去表达</span><span class="m-week">第六周</span></li>
     </ul>
 
     <aside class="sumbox">
@@ -823,7 +767,6 @@ tbody tr:hover td { background: var(--color-paper-3); }
     <header class="part__head">
       <span class="part__no">卷肆</span>
       <h2 class="part__title">每周实录</h2>
-      <p class="part__lede">按时间顺序的逐周档案，引文皆出自笔记原文</p>
     </header>
 
     <div class="weeks-body">
@@ -978,25 +921,29 @@ tbody tr:hover td { background: var(--color-paper-3); }
         <header class="stage__label">
           <span class="stage__num">陆</span>
           <h3 class="stage__name">转识成智</h3>
-          <span class="stage__week">第六周 · 第一至三天</span>
+          <span class="stage__week">第六周 · 第一至五天</span>
         </header>
         <div class="stage__rule" aria-hidden="true"></div>
         <div class="stage__grid">
           <div>
             <p class="stage__topic">修行模式 · 四智转化，下手处不在换，在停</p>
-            <p class="stage__body">以「停」为全部下手处：看清万法因缘和合不去抓，停下一切预设与比较，烦恼就没有来头。定力至此称「如钢铁一般活在当下」：不是不再瞻前顾后，是瞻前时钢铁一般地瞻前。婚姻课题中直面受害者故事，在止观里不再喂它故事。</p>
+            <p class="stage__body">以「停」为全部下手处：看清万法因缘和合不去抓，停下一切预设与比较，烦恼就没有来头。定力至此称「如钢铁一般活在当下」：不是不再瞻前顾后，是瞻前时钢铁一般地瞻前。婚姻课题中直面受害者故事，在止观里不再喂它故事。DAY 4 厘清依法不依人：经典与老师皆是梯子，修的是自己不是梯子，对梯子重在甄别而非紧抓。DAY 5 冰封三百天的柏林墙倒塌：课题一条条梳理、一步步观照松动，跨过奇点，落得两点体悟，外面没有人还是自己，读书就是照镜子；外面下雨就打伞，不下雨就走出去，待人接物中明心见性。</p>
             <ul class="stage__chips">
               <li class="chip">缺爱深化 · 想要即散</li>
               <li class="chip">问心无愧 · 称忌毁誉如清风</li>
               <li class="chip chip--key">婚姻课题 · 受害者故事</li>
               <li class="chip chip--key">舍与受 · 悲悯代嗔恨</li>
+              <li class="chip chip--key">依法不依人 · 梯子甄别</li>
+              <li class="chip">柏林墙倒塌 · 300 天</li>
+              <li class="chip">下雨打伞 · 走出去表达</li>
             </ul>
             <p class="stage__event"><b>重要节点 · 松手：</b>「这个受害者身份，是谁在紧紧抓着不放？」「每一次回放都在加固我是受害者的故事。」「把我缩小一寸，痛苦就跟着缩小一寸。」舍，不是割舍对方，是割舍那个紧抓不放的自己。</p>
+            <p class="stage__event"><b>重要节点 · 依法不依人与柏林墙倒塌：</b>「那我们修的是梯子，不是我们自己」，对梯子重在甄别（DAY 4）；「这次柏林墙的倒塌用了 300 天，我认为大概率是最后一次」，跨过直接引起生理不适的奇点（DAY 5）。备注收尾是暖的：老师的包容，同修一句「亚仑也来了，太好了」，被看见之后，进一步不让别人心寒。</p>
           </div>
           <aside class="scroll-card">
             <p class="scroll-card__cap">本周之眼</p>
-            <blockquote class="scroll-card__quote">舍，不是割舍对方，是割舍那个紧抓不放的自己</blockquote>
-            <p class="scroll-card__src">第六周 · DAY 3</p>
+            <blockquote class="scroll-card__quote">外面下雨，就打伞，不下雨，就走出去</blockquote>
+            <p class="scroll-card__src">第六周 · DAY 5</p>
           </aside>
         </div>
       </article>
@@ -1006,21 +953,18 @@ tbody tr:hover td { background: var(--color-paper-3); }
 
   <!-- ═══ 卷尾 ═══ -->
   <section class="epilogue" id="epilogue">
-    <p class="epilogue__word">地图看够了。<br><span class="seal-word">今晚，坐够三十分钟。不问了。</span></p>
-    <p class="epilogue__src">第五周 · DAY 7 卷尾</p>
+    <p class="epilogue__word">走到哪里，<br><span class="seal-word">哪里就是宇宙。</span></p>
+    <p class="epilogue__src">第六周 · DAY 2 卷尾</p>
     <div class="seal" id="seal-end" role="img" aria-label="印章：照">照</div>
   </section>
 </main>
 
 <footer class="foot">
   <div>
-    <b>止观践行 · 六周模式识别报告</b><br>
-    基于 S_025 模式识别技能 · 分析对象：第一周至第六周笔记<br>
-    所有引文均出自笔记原文 · 标注周次出处
+    <b>止观践行 · 六周模式识别报告</b>
   </div>
   <div class="foot__right">
-    生成于 2026 年 8 月<br>
-    <a href="#toc">返回目录</a> · <a href="技能/止观践行-模式识别-水墨卷轴.html">技能卷轴</a> · <a href="INDEX.md">笔记目录</a>
+    <a href="#toc">返回目录</a>
   </div>
 </footer>
 

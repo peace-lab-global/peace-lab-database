@@ -1,0 +1,42 @@
+name: Deploy 模式识别 to GitHub Pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/模式识别.html'
+      - '02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/assets/**'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: 组装站点（单页 + 水墨图）
+        run: |
+          mkdir -p _site/assets
+          cp "02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/模式识别.html" _site/
+          cp "02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/assets/六周观照-水墨远山.png" _site/assets/
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
