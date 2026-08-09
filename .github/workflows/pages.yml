@@ -6,6 +6,7 @@ on:
     paths:
       - '02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/模式识别.html'
       - '02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/assets/**'
+      - '.github/workflows/pages.yml'
   workflow_dispatch:
 
 permissions:
