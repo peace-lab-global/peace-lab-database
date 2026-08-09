@@ -25,7 +25,7 @@ jobs:
       - name: 组装站点（单页 + 水墨图）
         run: |
           mkdir -p _site/assets
-          cp "02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/模式识别.html" _site/
+          cp "02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/模式识别.html" _site/analysis.html
           cp "02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/止观践行/assets/六周观照-水墨远山.png" _site/assets/
       - uses: actions/upload-pages-artifact@v3
         with:
