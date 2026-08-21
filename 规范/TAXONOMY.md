@@ -1,36 +1,10 @@
 ---
 title: 分类法与架构决策 (Taxonomy & Architecture Decisions)
-description: 分类法与架构决策 (Taxonomy & Architecture Decisions)的详细解析与实践指南
-category: general
-tags:
-- addiction
-- ballet
-- cinema
-last_updated: 2026-05
-difficulty: advanced
-reading_level: advanced
-estimated_read_time: 5min
-intent_queries:
-- 什么是分类法与架构决策
-- 分类法与架构决策的核心概念
-- 分类法与架构决策的方法与实践
-trigger_keywords:
-- 分类法与架构决策
-- act
-- addiction
-- art
-- ballet
-cross_refs:
-- path: README.md
-  relation: 佛教/沟通/道家ism
-- path: 01-智慧传统/宗教/禅宗/禅宗日常生活实践/禅宗-禅宗日常生活实践.md
-  relation: 佛教/沟通/冥想
-- path: 01-智慧传统/宗教/佛教/现代应用/INDEX.md
-  relation: 佛教/道家ism/冥想
-- path: 01-智慧传统/宗教/佛教/南怀瑾/佛教-南怀瑾-Nan_Huaijin_Teachings.md
-  relation: 佛教/道家ism/冥想
-- path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Practitioner_QA.md
-  relation: 佛教/沟通/冥想
+description: "分类法 —— 规范 · 支柱分类原则、决策树与目录结构"
+category: "规范 > 分类法"
+tags: ["taxonomy", "architecture", "classification"]
+last_updated: "2026-08"
+cross_refs: []
 ---
 # 分类法与架构决策 (Taxonomy & Architecture Decisions)
 
@@ -38,7 +12,7 @@ cross_refs:
 
 ---
 
-## 五大支柱分类原则
+## 六大支柱 + 跨域层分类原则
 
 ```mermaid
 graph LR
@@ -47,6 +21,9 @@ graph LR
     C["03-生命科学"] --> C1["生命科学"]
     D["04-人文艺术"] --> D1["人文艺术"]
     E["05-实践成长"] --> E1["实践增长"]
+    F["06-临床专题"] --> F1["临床聚合层"]
+    G["07-行业观察"] --> G1["行业前沿"]
+    H["08-跨领域研究"] --> H1["交叉研究"]
 ```
 
 | 支柱 | 判定标准 | 典型内容 |

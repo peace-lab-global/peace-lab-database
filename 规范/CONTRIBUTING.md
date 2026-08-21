@@ -1,32 +1,10 @@
 ---
 title: 贡献指南 (Contributing Guide)
-description: 贡献指南 (Contributing Guide)的详细解析与实践指南
-category: general
-tags:
-- cbt
-last_updated: 2026-05
-difficulty: intermediate
-reading_level: intermediate
-estimated_read_time: 5min
-intent_queries:
-- 什么是贡献指南
-- 贡献指南的核心概念
-- 贡献指南的方法与实践
-trigger_keywords:
-- 贡献指南
-- cbt
-- sexuality
-cross_refs:
-- path: 01-智慧传统/哲学/东亚哲学/中国/道家/东亚哲学-中国-taoism-Zhuangzi.md
-  relation: 焦虑/冥想/性学
-- path: 01-智慧传统/哲学/东亚哲学/总览/东亚哲学-总览-Philosophy_Eastern_Classical_Confucianism.md
-  relation: 焦虑/冥想/性学
-- path: 01-智慧传统/哲学/南亚/印度/吠檀多/南亚-印度-vedanta-Bhagavad_Gita_Study.md
-  relation: 焦虑/冥想/性学
-- path: 01-智慧传统/哲学/西方哲学/二十世纪/西方哲学-二十世纪-analytic-Buddhist_Perspective_Reviews.md
-  relation: 焦虑/冥想/性学
-- path: 01-智慧传统/哲学/西方哲学/古代/西方哲学-古代-classical-Epicurus.md
-  relation: 焦虑/冥想/性学
+description: "贡献指南 —— 规范 · 目录命名、frontmatter schema 与文档标准"
+category: "规范 > 贡献指南"
+tags: ["contributing", "frontmatter", "naming-convention"]
+last_updated: "2026-08"
+cross_refs: []
 ---
 # 贡献指南 (Contributing Guide)
 
@@ -143,6 +121,43 @@ cross_refs:
 - [ ] 所在目录已有或已新建 INDEX.md
 - [ ] 上级 INDEX.md 已添加本文档链接
 - [ ] 如有跨支柱关联，已在 `cross-references.md` 登记
+- [ ] frontmatter 可被 PyYAML 解析（无中文引号嵌套、无控制字符）
+- [ ] trigger_keywords 不含全局通用词（见下）
+
+---
+
+## 🔧 自动化工具链
+
+项目提供完整的工具链（`Tools/scripts/`），贡献者应熟悉以下核心工具：
+
+### 元数据维护
+
+| 工具 | 用途 | 命令 |
+|:-----|:-----|:-----|
+| `cross-ref-generator.py` | 基于 TF-IDF 自动生成跨支柱交叉引用 | `python3 Tools/scripts/cross-ref-generator.py --apply` |
+| `metadata-cleanup.py` | 清理 trigger_keywords 通用词 + 重写模板 description | `python3 Tools/scripts/metadata-cleanup.py --apply` |
+| `readme-stats.py` | 更新 README 统计段 | `python3 Tools/scripts/readme-stats.py --write` |
+
+### 质量检查
+
+| 工具 | 用途 |
+|:-----|:-----|
+| `link_checker.py` | 全库 Markdown 链接验证 |
+| `quality_audit.py` | 文档质量审计 |
+| `structural_audit.py` | 目录结构一致性审计 |
+| `ci_check_links.py` | CI 变更文件断链检查 |
+| `ci_lint_metadata.py` | CI 变更文件 frontmatter 校验 |
+
+### 禁用的 trigger_keywords 通用词
+
+以下词出现在 >15% 的文件中，无主题区分度，**禁止出现在 trigger_keywords** 中（由 `metadata-cleanup.py:GENERIC_WORDS` 自动清理）：
+
+```
+act, adolescent, aging, anxiety, art, assessment, attachment,
+behavioral, body, brain, breathwork, buddhism, cognitive,
+communication, clinical, crisis, death, developmental,
+addiction, emotion, psychology, philosophy, literature, sexuality
+```
 
 ---
 

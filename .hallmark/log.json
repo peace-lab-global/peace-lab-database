@@ -35,6 +35,42 @@
       "vibe": "ink-wash, rice-paper, cinnabar seal",
       "enrichment": "IA restructure: TOC nav → insights → advice → deep patterns → weekly log; five core insights, advice with method/cadence/verification, eight-type thinking layered model, per-part summary boxes, smooth anchor navigation",
       "brief": "止观践行 · 六周模式识别报告 · 结构与内容重组轮（目录导航 → 洞见 → 建议 → 详析 → 周记）"
+    },
+    {
+      "date": "2026-08-08",
+      "macrostructure": "Narrative Workflow (typography refinement)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "classical typography: Google Fonts dropped (hang risk), local Kaiti display + Songti body, body 16→18px, xs 12→13px, lede lifted, muted contrast raised, 0.015em tracking",
+      "brief": "止观践行 · 六周模式识别报告 · 字体排版优化轮（本地宋楷 · 可读性提升）"
+    },
+    {
+      "date": "2026-08-09",
+      "macrostructure": "Narrative Workflow (content reduction)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "meta purge: masthead, S_025 eyebrow, flyleaf meta colophon, TOC sub-lines, part ledes, footer meta removed; page now carries core content only",
+      "brief": "止观践行 · 六周模式识别报告 · 去元信息轮（只留核心内容）"
+    },
+    {
+      "date": "2026-08-09",
+      "macrostructure": "Narrative Workflow (week-6 content merge)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "merged 第六周 DAY 4-5: ladder-discernment (依法不依人), Berlin-wall collapse (300 days), two insights, warmth coda; woven into insight 5, expression table+analysis, authority-dependence row, stage matrix, week-6 card (chips/events/quote)",
+      "brief": "止观践行 · 六周模式识别报告 · 第六周 DAY 4-5 新增践行融合轮"
+    },
+    {
+      "date": "2026-08-09",
+      "macrostructure": "Narrative Workflow (epilogue rewrite + Pages deploy)",
+      "theme": "custom",
+      "theme_axes": "light / engraved-serif / chromatic-vermilion ~30°",
+      "vibe": "ink-wash, rice-paper, cinnabar seal",
+      "enrichment": "epilogue: '地图看够了…' → '走到哪里，哪里就是宇宙' (Week 6 DAY 2); file rename → 模式识别.html; GitHub Pages workflow (pages.yml, single-page deploy); footer external links removed; Pages enabled + live at peace-lab-global.github.io/peace-lab-database/模式识别.html",
+      "brief": "止观践行 · 六周模式识别报告 · 卷尾改写 + GitHub Pages 单页发布轮"
     }
   ]
 }

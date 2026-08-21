@@ -77,29 +77,9 @@ last_updated: "2026-06"
 
 ---
 
-## 自我调节模块
-
-| 技能 | 文件 | 位置 |
-|:-----|:-----|:-----|
-| 焦虑评估（GAD-7） | [Anxiety_Assessment_Skill.md](02-心智心理/心理学/自我调节/抗焦虑/自我调节-抗焦虑-Anxiety_Assessment_Skill.md) | `心理学/自我调节/抗焦虑/技能/` |
-| 强迫症评估（Y-BOCS） | [OCD_Assessment_Skill.md](02-心智心理/心理学/自我调节/抗强迫/自我调节-抗强迫-OCD_Assessment_Skill.md) | `心理学/自我调节/抗强迫/技能/` |
-| 韧性脆弱自我评估 | [Fragile_Ego_Assessment_Skill.md](02-心智心理/心理学/自我调节/韧性脆弱自我/自我调节-韧性脆弱自我-Fragile_Ego_Assessment_Skill.md) | `心理学/自我调节/韧性脆弱自我/技能/` |
-| 拖延症评估 | [Procrastination_Assessment_Skill.md](02-心智心理/心理学/行为心理/抗拖延/行为心理-抗拖延-Procrastination_Assessment_Skill.md) | `心理学/行为心理/抗拖延/技能/` |
-
----
-
-## 整合疗法干预模块
-
-| 技能 | 文件 | 位置 |
-|:-----|:-----|:-----|
-| IFS 部分工作干预（6F 步骤） | [IFS_Parts_Work_Skill.md](02-心智心理/疗法/整合疗法/内在家庭系统疗法/整合疗法-内在家庭系统疗法-skills-IFS_Parts_Work_Skill.md) | `疗法/整合疗法/内在家庭系统疗法/skills/` |
-| 躯体体验创伤干预（滴定/钟摆） | [Somatic_Experience_Intervention_Skill.md](02-心智心理/疗法/整合疗法/躯体体验/整合疗法-躯体体验-skills-Somatic_Experience_Intervention_Skill.md) | `疗法/整合疗法/躯体体验/skills/` |
-
----
-
 ## 统计
 
-- **技能总数**: 24 个独立技能
-- **模块数**: 8 个模块
+- **技能总数**: 17 个独立技能
+- **模块数**: 6 个模块
 - **覆盖支柱**: 02-心智心理, 05-实践成长
 - **新增技能请更新本索引**
