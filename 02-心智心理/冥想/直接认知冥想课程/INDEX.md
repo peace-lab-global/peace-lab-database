@@ -15,7 +15,7 @@ auto_generated: true
 
 ### 分类枢纽 (Hub Directories)
 
-- **01-Course1-执行师/** (95 md) — 枢纽目录
+- **01-Course1-执行师/** (97 md) — 枢纽目录
 - **02-Course2-导师/** (55 md) — 枢纽目录
 - **04-读书会/** (44 md) — 枢纽目录
 - **03-Course3-疗愈师/** (10 md) — 枢纽目录

@@ -23,7 +23,7 @@ cross_refs:
   relation: existential/死亡/yalom
 - path: 04-人文艺术/文学/世界非虚构/心理学存在/世界非虚构-心理学存在-意义的意志.md
   relation: logo疗法/意义疗法/existential
-- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_25_Death_Meditation_Deep_Dive.md
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/引导课程/Series_25_Death_Meditation_Deep_Dive.md
   relation: 死亡/死亡/意义疗法
 ---
 # Death Anxiety Treatment (死亡焦虑治疗)

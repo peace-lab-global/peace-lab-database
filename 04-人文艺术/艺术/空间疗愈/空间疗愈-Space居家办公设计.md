@@ -24,7 +24,7 @@ cross_refs:
   relation: 水疗ce/design/冥想
 - path: 02-心智心理/心理学/压力与HPA轴/技能/压力与HPA轴-技能-Stress_Health_Risk_Assessment_Skill.md
   relation: 血压/压力/心率
-- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_07_Specialized.md
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/引导课程/Series_07_Specialized.md
   relation: 睡眠/褪黑素/冥想
 ---
 # 居住与办公空间设计 | Home & Office Space Design

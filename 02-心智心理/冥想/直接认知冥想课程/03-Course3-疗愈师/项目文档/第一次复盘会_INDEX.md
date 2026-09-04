@@ -26,5 +26,5 @@ auto_generated: true
 
 ---
 
-*返回上级: [02-心智心理/meditation/courses/mocici-course-3-healer/project-doc](../INDEX.md)*
+*返回上级: [02-心智心理/冥想/直接认知冥想课程/03-Course3-疗愈师/项目文档](../INDEX.md)*
 *自动生成于 2026-06-23 10:13*

@@ -19,7 +19,7 @@ trigger_keywords:
 - Bereavement
 - Mortality
 cross_refs:
-- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_12_Life_Transitions.md
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/引导课程/Series_12_Life_Transitions.md
   relation: 哀伤/丧亲/死亡
 - path: 02-心智心理/冥想/临床/危机冥想/INDEX.md
   relation: 哀伤/丧亲/哀伤

@@ -27,5 +27,5 @@ auto_generated: true
 
 ---
 
-*返回上级: [02-心智心理/meditation/courses/mocici-course-1-meditator/keynotes](../INDEX.md)*
+*返回上级: [02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/演讲/草稿](../INDEX.md)*
 *自动生成于 2026-06-23 10:13*

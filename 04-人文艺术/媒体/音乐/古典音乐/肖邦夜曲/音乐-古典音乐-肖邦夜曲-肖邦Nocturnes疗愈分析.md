@@ -15,7 +15,7 @@ intent_queries:
 trigger_keywords:
 - 肖邦《夜曲》心理学与疗愈功能分析
 cross_refs:
-- path: 02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_02_Breath.md
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/引导课程/Series_02_Breath.md
   relation: 副交感/呼吸/心率
 - path: 02-心智心理/心理学/自我调节/抗焦虑/自我调节-抗焦虑-Somatic_Regulation_Techniques.md
   relation: 呼吸/副交感

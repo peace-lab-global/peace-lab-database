@@ -1,0 +1,880 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="color-scheme" content="dark">
+<meta name="description" content="平静实验室知识库——4,922+ 篇身心疗愈与个人进化专业文档。 六大支柱如星座， 十条学习路径如黄道， 24 件 Agent Skills 如黄铜仪器， 整库皆可为泛疗愈智能体所用。 人类观测， AI 导航。">
+<title>平静实验室知识库 · Atlas Coelestis</title>
+<link rel="stylesheet" href="fonts/fonts.css">
+<style>
+:root{
+  --night:#0B1026;
+  --night-2:#101735;
+  --nebula:#2E3A5C;
+  --brass:#C9A227;
+  --brass-bright:#E0BC4C;
+  --ink:#E8E4D8;
+  --ink-dim:#9BA6C4;
+  --hairline:rgba(232,228,216,.16);
+  --hairline-soft:rgba(232,228,216,.09);
+  --font-lat:'Marcellus','Times New Roman',serif;
+  --font-zh:'Noto Serif SC','Songti SC','SimSun',serif;
+}
+*{margin:0;padding:0;box-sizing:border-box}
+html{scroll-behavior:smooth}
+@media (prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+body{
+  background:var(--night);
+  color:var(--ink);
+  font:400 17px/1.9 var(--font-zh);
+  -webkit-font-smoothing:antialiased;
+  overflow-x:hidden;
+}
+::selection{background:var(--brass);color:var(--night)}
+::-webkit-scrollbar{width:10px}
+::-webkit-scrollbar-track{background:var(--night)}
+::-webkit-scrollbar-thumb{background:var(--nebula);border-radius:5px}
+::-webkit-scrollbar-thumb:hover{background:var(--brass)}
+:focus-visible{outline:2px solid var(--brass);outline-offset:3px;border-radius:2px}
+a{color:var(--ink);text-decoration-thickness:1px;text-underline-offset:.3em}
+a:hover{color:var(--brass-bright)}
+.skip{
+  position:absolute;left:50%;top:-100px;transform:translateX(-50%);
+  background:var(--brass);color:var(--night);padding:.5rem 1.2rem;z-index:99;
+  text-decoration:none;font-weight:700;transition:top .2s ease-out;
+}
+.skip:focus{top:12px}
+.tabular{font-variant-numeric:tabular-nums}
+
+/* ---------- header ---------- */
+.site-head{
+  position:sticky;top:0;z-index:40;
+  display:flex;align-items:baseline;gap:2.4rem;
+  padding:1rem clamp(1.2rem,4vw,3.2rem);
+  background:rgba(11,16,38,.94);
+  border-bottom:1px solid var(--hairline-soft);
+}
+.wordmark{font-family:var(--font-lat);letter-spacing:.22em;font-size:.82rem;color:var(--ink);text-decoration:none}
+.wordmark b{color:var(--brass);font-weight:400}
+.site-head nav{margin-left:auto;display:flex;gap:1.8rem;flex-wrap:wrap}
+.site-head nav a{font-size:.86rem;letter-spacing:.12em;color:var(--ink-dim);text-decoration:none}
+.site-head nav a:hover{color:var(--brass-bright)}
+@media (max-width:760px){.site-head nav{display:none}}
+
+/* ---------- hero ---------- */
+.hero{
+  position:relative;min-height:100svh;
+  display:flex;align-items:flex-end;justify-content:center;
+  overflow:hidden;
+  background:linear-gradient(180deg,#0E1533 0%,#0B1026 58%);
+}
+.hero-bg{position:absolute;inset:0;pointer-events:none}
+#stars{position:absolute;inset:0;width:100%;height:100%}
+#constellations{
+  position:absolute;inset:0;width:100%;height:100%;
+  will-change:transform;
+}
+#planisphere{
+  position:absolute;left:50%;top:44%;
+  width:min(92vmin,880px);height:min(92vmin,880px);
+  transform:translate(-50%,-50%);
+  opacity:.6;will-change:transform;
+}
+@media (prefers-reduced-motion:reduce){
+  #planisphere{transform:translate(-50%,-50%) !important;animation:none !important}
+}
+@keyframes plate-turn{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+.plate-rotor{transform-origin:50% 50%;animation:plate-turn 160s linear infinite}
+@media (prefers-reduced-motion:reduce){.plate-rotor{animation:none}}
+.hero-inner{
+  position:relative;z-index:2;text-align:center;
+  padding:0 1.4rem clamp(3.4rem,9vh,6.5rem);
+  max-width:60rem;
+}
+.hero-title-lat{
+  font-family:var(--font-lat);
+  font-size:clamp(2.3rem,6vw,4.9rem);
+  letter-spacing:.16em;
+  color:var(--ink);
+  line-height:1.1;
+}
+.hero-title-zh{
+  display:block;
+  margin-top:.9rem;
+  font-weight:700;
+  font-size:clamp(1.5rem,3.4vw,2.7rem);
+  letter-spacing:.34em;text-indent:.34em;
+  color:var(--brass);
+}
+.hero-lede{
+  margin:1.8rem auto 0;max-width:34em;
+  color:var(--ink-dim);font-size:clamp(.95rem,1.4vw,1.06rem);
+}
+.hero-cta{margin-top:2.6rem;display:flex;gap:2rem;justify-content:center;align-items:center;flex-wrap:wrap}
+.btn-brass{
+  display:inline-block;
+  background:var(--brass);color:var(--night);
+  font-family:var(--font-zh);font-weight:700;font-size:1rem;letter-spacing:.28em;text-indent:.28em;
+  padding:.95rem 2.6rem;text-decoration:none;
+  border:1px solid var(--brass);
+  transition:background-color .25s ease-out,border-color .25s ease-out,transform .25s ease-out;
+}
+.btn-brass:hover{background:var(--brass-bright);border-color:var(--brass-bright);color:var(--night)}
+.btn-brass:active{transform:translateY(1px)}
+.link-line{
+  color:var(--ink);font-size:.95rem;letter-spacing:.14em;
+  border-bottom:1px solid var(--hairline);
+  padding-bottom:.25em;text-decoration:none;
+  transition:color .25s ease-out,border-color .25s ease-out;
+}
+.link-line:hover{color:var(--brass-bright);border-color:var(--brass)}
+.hero-stats{
+  margin-top:2.8rem;
+  font-family:var(--font-zh);
+  font-size:.82rem;letter-spacing:.1em;color:var(--ink-dim);
+}
+.hero-stats .num{font-family:var(--font-lat);letter-spacing:.06em}
+.hero-cons{
+  display:none;
+  list-style:none;
+  margin:2.2rem 0 0;padding:1.1rem 0 0;
+  border-top:1px solid var(--hairline-soft);
+  grid-template-columns:repeat(3,1fr);gap:.55rem 1rem;
+  font-size:.78rem;letter-spacing:.06em;color:var(--ink-dim);
+  text-align:left;
+}
+.hero-cons .ord{font-family:var(--font-lat);color:var(--brass);letter-spacing:.14em;margin-right:.45em}
+.hero-cons .n{font-family:var(--font-lat);color:var(--brass);letter-spacing:.04em}
+@media (max-width:640px){.hero-cons{display:grid}}
+.const-label{font-family:var(--font-zh);font-size:14px;letter-spacing:.14em;fill:rgba(232,228,216,.82)}
+.const-num{font-family:var(--font-lat);font-size:12px;letter-spacing:.2em;fill:rgba(201,162,39,.9)}
+@media (max-width:640px){.const-label,.const-num{display:none}}
+
+/* ---------- section scaffold ---------- */
+section{position:relative}
+.wrap{max-width:74rem;margin:0 auto;padding:clamp(4.5rem,10vw,8.5rem) clamp(1.2rem,4vw,3.2rem)}
+.sec-head{margin:0 0 4.2rem;max-width:44em}
+h2{
+  font-weight:600;
+  font-size:clamp(1.7rem,3.4vw,2.5rem);
+  letter-spacing:.1em;line-height:1.4;
+}
+h2 .lat{
+  display:block;margin-top:.8rem;
+  font-family:var(--font-lat);font-weight:400;
+  font-size:.82rem;letter-spacing:.32em;color:var(--brass);
+}
+.sec-lede{margin-top:1.6rem;color:var(--ink-dim);font-size:.98rem;max-width:40em}
+
+/* ---------- pillars ---------- */
+.pillars{border-top:1px solid var(--hairline)}
+.pillar{
+  display:grid;
+  grid-template-columns:6.2rem 9.5rem 1fr 12rem;
+  gap:clamp(1rem,3vw,3rem);
+  align-items:center;
+  padding:2.7rem 0;
+  border-bottom:1px solid var(--hairline);
+}
+.pillar-ord{font-family:var(--font-lat);color:var(--brass);letter-spacing:.12em}
+.pillar-ord .ra{display:block;margin-top:.45rem;font-size:.66rem;color:var(--ink-dim);letter-spacing:.18em}
+.pillar-glyph{width:100%;height:auto;display:block}
+.pillar-name{font-size:1.28rem;font-weight:600;letter-spacing:.08em}
+.pillar-name .lat{font-family:var(--font-lat);font-weight:400;font-size:.72rem;letter-spacing:.24em;color:var(--ink-dim);margin-left:1em}
+.pillar-desc{margin-top:.6rem;color:var(--ink-dim);font-size:.9rem;line-height:1.8;max-width:42em}
+.pillar-side{text-align:right}
+.pillar-count{font-family:var(--font-lat);font-size:2.7rem;line-height:1;color:var(--ink)}
+.pillar-unit{display:block;margin-top:.5rem;font-size:.74rem;letter-spacing:.3em;color:var(--ink-dim)}
+.pillar-link{
+  display:inline-block;margin-top:1.1rem;
+  font-size:.82rem;letter-spacing:.22em;color:var(--brass);text-decoration:none;
+  border-bottom:1px solid rgba(201,162,39,.4);padding-bottom:.2em;
+  transition:color .25s ease-out,border-color .25s ease-out;
+}
+.pillar-link:hover{color:var(--brass-bright);border-color:var(--brass-bright)}
+.appendix{
+  padding:1.7rem 0;border-bottom:1px solid var(--hairline);
+  display:flex;gap:2.5rem;flex-wrap:wrap;align-items:baseline;
+  color:var(--ink-dim);font-size:.88rem;
+}
+.appendix .tag{font-family:var(--font-lat);letter-spacing:.24em;font-size:.7rem;color:var(--brass)}
+.appendix a{color:var(--ink-dim)}
+.appendix a:hover{color:var(--brass-bright)}
+.appendix .cnt{font-family:var(--font-lat);letter-spacing:.08em}
+@media (max-width:900px){
+  .pillar{grid-template-columns:4.6rem 1fr;grid-template-rows:auto auto;row-gap:1rem}
+  .pillar-glyph{display:none}
+  .pillar-ord .ra{display:none}
+  .pillar-side{grid-column:2;text-align:left}
+}
+
+/* ---------- paths ---------- */
+.paths-list{border-top:1px solid var(--hairline);list-style:none}
+.paths-list li{
+  display:grid;grid-template-columns:13rem 1fr auto;gap:clamp(1rem,3vw,2.6rem);
+  align-items:center;padding:1.7rem 0;border-bottom:1px solid var(--hairline);
+}
+.path-name{font-size:1.06rem;font-weight:600;letter-spacing:.1em}
+.route{width:100%;max-width:23rem;height:44px;display:block}
+.route circle{fill:none;stroke:var(--nebula);stroke-width:1.2}
+.route circle.hot{stroke:var(--brass)}
+.route text{font-family:var(--font-lat);font-size:12px;fill:var(--ink-dim);text-anchor:middle;dominant-baseline:central;letter-spacing:.08em}
+.route line{stroke:var(--hairline);stroke-width:1;stroke-dasharray:2 5}
+.route .note{font-family:var(--font-zh);font-size:11.5px;fill:var(--ink-dim);letter-spacing:.1em;text-anchor:start}
+.paths-list a{
+  font-size:.82rem;letter-spacing:.2em;color:var(--brass);text-decoration:none;white-space:nowrap;
+  border-bottom:1px solid rgba(201,162,39,.4);padding-bottom:.2em;
+}
+.paths-list a:hover{color:var(--brass-bright);border-color:var(--brass-bright)}
+@media (max-width:760px){
+  .paths-list li{grid-template-columns:1fr;row-gap:.7rem}
+  .paths-list a{justify-self:start}
+}
+
+/* ---------- skills ---------- */
+.skills-grid{
+  display:grid;grid-template-columns:minmax(280px,420px) 1fr;
+  gap:clamp(2.5rem,6vw,5.5rem);align-items:center;
+}
+.astrolabe{width:100%;height:auto;display:block}
+.astrolabe .limb{fill:none;stroke:var(--brass);stroke-width:1.4}
+.astrolabe .limb-2{fill:none;stroke:var(--hairline);stroke-width:1}
+.astrolabe .rete{fill:none;stroke:var(--brass);stroke-width:1.1;opacity:.85}
+.astrolabe .tick{stroke:var(--brass);stroke-width:1;opacity:.75}
+.astrolabe .tick-minor{stroke:rgba(201,162,39,.4);stroke-width:1}
+.astrolabe .deg{font-family:var(--font-lat);font-size:11px;fill:var(--ink-dim);letter-spacing:.15em;text-anchor:middle}
+.astrolabe .pin{fill:var(--brass)}
+.skills-claim{font-size:clamp(1.25rem,2.2vw,1.6rem);font-weight:600;letter-spacing:.06em;line-height:1.8;max-width:26em}
+.skills-sub{margin-top:1.4rem;color:var(--ink-dim);font-size:.95rem;max-width:40em}
+.mod-list{
+  margin-top:2.4rem;list-style:none;
+  columns:2;column-gap:3.5rem;
+  border-top:1px solid var(--hairline);
+}
+.mod-list li{
+  display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+  padding:.8rem 0;border-bottom:1px solid var(--hairline-soft);
+  break-inside:avoid;
+}
+.mod-list .m-name{font-size:.94rem;letter-spacing:.08em}
+.mod-list .m-count{font-family:var(--font-lat);color:var(--brass);letter-spacing:.08em}
+@media (max-width:560px){.mod-list{columns:1}}
+.skills-cta{margin-top:2.6rem}
+@media (max-width:900px){.skills-grid{grid-template-columns:1fr}.astrolabe{max-width:380px;margin:0 auto}}
+
+/* ---------- courses ---------- */
+.courses{border-top:1px solid var(--hairline)}
+.course-row{
+  display:grid;grid-template-columns:5.5rem 1fr auto;gap:clamp(1rem,3vw,2.6rem);
+  align-items:baseline;padding:2rem 0;border-bottom:1px solid var(--hairline);
+}
+.course-ord{font-family:var(--font-lat);color:var(--brass);letter-spacing:.14em;font-size:1.05rem}
+.course-name{font-size:1.14rem;font-weight:600;letter-spacing:.08em}
+.course-desc{margin-top:.35rem;color:var(--ink-dim);font-size:.9rem}
+.course-row a{
+  font-size:.82rem;letter-spacing:.2em;color:var(--brass);text-decoration:none;white-space:nowrap;
+  border-bottom:1px solid rgba(201,162,39,.4);padding-bottom:.2em;
+}
+.course-row a:hover{color:var(--brass-bright);border-color:var(--brass-bright)}
+@media (max-width:700px){.course-row{grid-template-columns:1fr;row-gap:.5rem}.course-row a{justify-self:start}}
+
+/* ---------- join ---------- */
+.join-grid{display:grid;grid-template-columns:1fr 1fr;gap:clamp(2.5rem,6vw,5.5rem)}
+.join-grid h3{font-size:1.1rem;font-weight:600;letter-spacing:.12em;margin-bottom:1.1rem}
+.join-grid p{color:var(--ink-dim);font-size:.93rem}
+.join-links{list-style:none;margin-top:1.6rem;border-top:1px solid var(--hairline)}
+.join-links li{border-bottom:1px solid var(--hairline-soft)}
+.join-links a{
+  display:flex;justify-content:space-between;align-items:baseline;gap:1rem;
+  padding:.95rem 0;color:var(--ink);text-decoration:none;font-size:.94rem;letter-spacing:.06em;
+}
+.join-links a:hover{color:var(--brass-bright)}
+.join-links .arrow{color:var(--brass);font-family:var(--font-lat)}
+@media (max-width:800px){.join-grid{grid-template-columns:1fr}}
+
+/* ---------- crisis / footer ---------- */
+.crisis{
+  background:var(--nebula);
+  margin-top:clamp(4rem,8vw,7rem);
+  padding:clamp(2.6rem,6vw,4rem) clamp(1.2rem,4vw,3.2rem);
+}
+.crisis-inner{max-width:74rem;margin:0 auto}
+.crisis h2{font-size:clamp(1.25rem,2.4vw,1.7rem);letter-spacing:.12em}
+.crisis p{margin-top:1rem;color:rgba(232,228,216,.85);font-size:.95rem;max-width:44em}
+.hotlines{margin-top:1.8rem;display:flex;flex-wrap:wrap;gap:2.2rem 3.5rem}
+.hotline{display:block;color:var(--ink);text-decoration:none}
+.hotline .num{font-family:var(--font-lat);font-size:clamp(1.5rem,3vw,2.1rem);letter-spacing:.1em;color:var(--ink)}
+.hotline:hover .num{color:var(--brass-bright)}
+.hotline .who{display:block;margin-top:.35rem;font-size:.8rem;letter-spacing:.14em;color:rgba(232,228,216,.75)}
+.crisis-manual{
+  display:inline-block;margin-top:2rem;font-size:.86rem;letter-spacing:.18em;color:var(--ink);
+  border-bottom:1px solid rgba(232,228,216,.4);padding-bottom:.2em;text-decoration:none;
+}
+.crisis-manual:hover{color:var(--brass-bright);border-color:var(--brass-bright)}
+footer{
+  padding:2.8rem clamp(1.2rem,4vw,3.2rem) 3.4rem;
+  border-top:1px solid var(--hairline-soft);
+}
+.foot-inner{max-width:74rem;margin:0 auto;display:flex;flex-wrap:wrap;gap:1.2rem 2.6rem;align-items:baseline}
+.foot-inner p{color:var(--ink-dim);font-size:.8rem;letter-spacing:.06em}
+.foot-links{margin-left:auto;display:flex;flex-wrap:wrap;gap:1.4rem}
+.foot-links a{color:var(--ink-dim);font-size:.8rem;letter-spacing:.1em;text-decoration:none}
+.foot-links a:hover{color:var(--brass-bright)}
+</style>
+</head>
+<body>
+<!--
+DIRECTION CONTRACT — 平静星图 · Atlas Coelestis (seed e9cc1129, grounded candidate 4, code-first)
+THESIS: 4,922 篇文档是星， 六大支柱是星座， 十条学习路径是黄道， 24 件 Agent Skills 是黄铜仪器。 人类观测， AI 导航。 拒绝奶油渐变疗愈官网， 拒绝霓虹节点图。
+OWN-WORLD: 深靛夜空 #0B1026, 黄铜 #C9A227, 象牙刻线 #E8E4D8, 星云蓝 #2E3A5C; 铜版雕刻线， 星盘刻度， 星等点， 赤经坐标注记。
+STORY: 一部仍在绘制的天体图集， 每一次贡献都添一颗星。
+FIRST VIEWPORT: 满屏星图， 铜版刻字 ATLAS COELESTIS 与 平静实验室知识库， 六座星座标注真实文档数， 黄铜盘面缓缓旋转， 鼠标视差， 黄铜按钮 开始探索。
+FORM: 平静星图 Atlas Coelestis, grounded candidate 4, code-first; seed key e9cc1129。
+FINISH: unreviewed and undocumented is unfinished; this build ends with the finish review, the verdict, DESIGN.md, and every shipping raster carrying its provenance.
+-->
+<a class="skip" href="#main">跳到主要内容</a>
+
+<header class="site-head">
+  <a class="wordmark" href="#top">PEACE LAB <b>·</b> 平静实验室</a>
+  <nav aria-label="页面导航">
+    <a href="#pillars">星座志</a>
+    <a href="#paths">黄道十径</a>
+    <a href="#skills">黄铜仪器</a>
+    <a href="#corpus">具身语料</a>
+    <a href="#courses">观测课程</a>
+    <a href="#join">参与共建</a>
+  </nav>
+</header>
+
+<main id="main">
+<!-- ============ 首屏 · 星图 ============ -->
+<section class="hero" id="top" aria-label="平静实验室知识库首屏星图">
+  <div class="hero-bg" aria-hidden="true">
+    <canvas id="stars"></canvas>
+  </div>
+
+  <svg id="planisphere" viewBox="0 0 900 900" aria-hidden="true">
+    <g class="plate-rotor">
+      <circle class="plate" cx="450" cy="450" r="418" fill="none" stroke="rgba(201,162,39,.55)" stroke-width="1.4"/>
+      <circle cx="450" cy="450" r="392" fill="none" stroke="rgba(232,228,216,.14)" stroke-width="1"/>
+      <circle cx="450" cy="450" r="300" fill="none" stroke="rgba(232,228,216,.12)" stroke-width="1" stroke-dasharray="3 7"/>
+      <g id="plate-ticks"></g>
+      <g id="plate-degs"></g>
+      <line x1="450" y1="32" x2="450" y2="120" stroke="rgba(201,162,39,.5)" stroke-width="1"/>
+      <line x1="450" y1="780" x2="450" y2="868" stroke="rgba(201,162,39,.5)" stroke-width="1"/>
+      <line x1="32" y1="450" x2="120" y2="450" stroke="rgba(201,162,39,.5)" stroke-width="1"/>
+      <line x1="780" y1="450" x2="868" y2="450" stroke="rgba(201,162,39,.5)" stroke-width="1"/>
+    </g>
+  </svg>
+
+  <svg id="constellations" viewBox="0 0 1440 900" preserveAspectRatio="xMidYMid slice" aria-hidden="true">
+    <g stroke="rgba(232,228,216,.28)" stroke-width="1" fill="none">
+      <polyline points="196,146 268,120 322,168 388,132 442,196 508,170"/>
+      <polyline points="1030,120 1102,96 1158,150 1236,110 1300,168 1352,140"/>
+      <polyline points="98,438 168,408 232,452 292,420 346,478 404,452"/>
+      <polyline points="1152,428 1216,398 1272,446 1338,412 1392,468"/>
+      <polyline points="600,96 664,72 728,118 792,86 852,132"/>
+      <polyline points="918,568 968,540 1022,584 1076,556 1128,600"/>
+    </g>
+    <g fill="#E8E4D8">
+      <circle cx="196" cy="146" r="2.4"/><circle cx="268" cy="120" r="1.6"/><circle cx="322" cy="168" r="3"/><circle cx="388" cy="132" r="1.8"/><circle cx="442" cy="196" r="2.2"/><circle cx="508" cy="170" r="1.5"/>
+      <circle cx="1030" cy="120" r="2.2"/><circle cx="1102" cy="96" r="1.5"/><circle cx="1158" cy="150" r="3"/><circle cx="1236" cy="110" r="1.8"/><circle cx="1300" cy="168" r="2.4"/><circle cx="1352" cy="140" r="1.5"/>
+      <circle cx="98" cy="438" r="2"/><circle cx="168" cy="408" r="2.6"/><circle cx="232" cy="452" r="1.5"/><circle cx="292" cy="420" r="3"/><circle cx="346" cy="478" r="1.8"/><circle cx="404" cy="452" r="2.2"/>
+      <circle cx="1152" cy="428" r="2.4"/><circle cx="1216" cy="398" r="1.6"/><circle cx="1272" cy="446" r="3"/><circle cx="1338" cy="412" r="1.8"/><circle cx="1392" cy="468" r="2.2"/>
+      <circle cx="600" cy="96" r="2"/><circle cx="664" cy="72" r="2.8"/><circle cx="728" cy="118" r="1.6"/><circle cx="792" cy="86" r="2.4"/><circle cx="852" cy="132" r="1.5"/>
+      <circle cx="76" cy="606" r="1.8"/><circle cx="130" cy="584" r="2.4"/><circle cx="184" cy="632" r="1.5"/><circle cx="232" cy="602" r="2.6"/><circle cx="278" cy="648" r="1.6"/>
+    </g>
+    <g fill="#C9A227">
+      <circle cx="322" cy="168" r="1.6"/><circle cx="1158" cy="150" r="1.6"/><circle cx="292" cy="420" r="1.6"/><circle cx="1272" cy="446" r="1.6"/><circle cx="664" cy="72" r="1.6"/><circle cx="232" cy="602" r="1.6"/>
+    </g>
+    <g class="const-texts">
+      <text class="const-num" x="196" y="238">II</text>
+      <text class="const-label" x="224" y="239">心智心理 · 1,759 篇</text>
+      <text class="const-num" x="1030" y="212">I</text>
+      <text class="const-label" x="1048" y="213">智慧传统 · 631 篇</text>
+      <text class="const-num" x="98" y="522">III</text>
+      <text class="const-label" x="132" y="523">生命科学 · 372 篇</text>
+      <text class="const-num" x="1152" y="512">IV</text>
+      <text class="const-label" x="1180" y="513">人文艺术 · 962 篇</text>
+      <text class="const-num" x="600" y="176">V</text>
+      <text class="const-label" x="618" y="177">实践成长 · 372 篇</text>
+      <text class="const-num" x="60" y="716">VI</text>
+      <text class="const-label" x="88" y="717">临床专题 · 148 篇</text>
+    </g>
+  </svg>
+
+  <div class="hero-inner">
+    <h1>
+      <span class="hero-title-lat">ATLAS COELESTIS</span>
+      <span class="hero-title-zh">平静实验室知识库</span>
+    </h1>
+    <p class="hero-lede">四千九百余篇身心疗愈与个人进化的专业文档， 以六座星座布满夜空， 十条学习路径如黄道贯穿天球。 每一篇文档都有坐标， 每一条路径都有阶段， 每一件技能都可被智能体调用。 人类负责观测， AI 负责导航。</p>
+    <div class="hero-cta">
+      <a class="btn-brass" href="../INDEX.md">开始探索</a>
+      <a class="link-line" href="#paths">查看十条路径</a>
+    </div>
+    <ul class="hero-cons tabular" aria-label="六座星座及其文档数">
+      <li><span class="ord">I</span>智慧传统 <span class="n">631</span></li>
+      <li><span class="ord">II</span>心智心理 <span class="n">1,759</span></li>
+      <li><span class="ord">III</span>生命科学 <span class="n">372</span></li>
+      <li><span class="ord">IV</span>人文艺术 <span class="n">962</span></li>
+      <li><span class="ord">V</span>实践成长 <span class="n">372</span></li>
+      <li><span class="ord">VI</span>临床专题 <span class="n">148</span></li>
+    </ul>
+    <p class="hero-stats tabular">专业文档 <span class="num">4,922+</span> 篇 · 专题领域 <span class="num">398+</span> 个 · 核心行数 <span class="num">1,160,183+</span> 行 · 统计截至 2026-08</p>
+  </div>
+</section>
+
+<!-- ============ 星座志 · 六大支柱 ============ -->
+<section id="pillars">
+  <div class="wrap">
+    <header class="sec-head">
+      <h2>星座志<span class="lat">CATALOGUE OF CONSTELLATIONS</span></h2>
+      <p class="sec-lede">六大核心支柱与两座跨域聚合星域， 按传统星图目录的体例编号列志。 每一座星域的星等， 即它收录的文档数。</p>
+    </header>
+
+    <div class="pillars">
+      <article class="pillar">
+        <div class="pillar-ord">I<span class="ra">RA 01h 32m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="18,72 46,40 78,58 104,24 132,44"/></g><g fill="#E8E4D8"><circle cx="18" cy="72" r="2.2"/><circle cx="46" cy="40" r="1.6"/><circle cx="78" cy="58" r="2.8"/><circle cx="104" cy="24" r="1.8"/><circle cx="132" cy="44" r="2.2"/></g></svg>
+        <div>
+          <h3 class="pillar-name">智慧传统<span class="lat">WISDOM TRADITIONS</span></h3>
+          <p class="pillar-desc">瑜伽哲学， 禅宗与道家佛教全体系， 太极拳， 黄帝内经养生， 东西方古典哲学， 全球灵性疗愈与南传藏传汉传佛教传承。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">631</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../01-智慧传统/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+
+      <article class="pillar">
+        <div class="pillar-ord">II<span class="ra">RA 04h 06m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="14,34 52,22 84,44 118,30 136,64 96,78 56,66 30,80"/></g><g fill="#E8E4D8"><circle cx="14" cy="34" r="1.8"/><circle cx="52" cy="22" r="2.6"/><circle cx="84" cy="44" r="1.6"/><circle cx="118" cy="30" r="2.8"/><circle cx="136" cy="64" r="2"/><circle cx="96" cy="78" r="1.8"/><circle cx="56" cy="66" r="2.4"/><circle cx="30" cy="80" r="1.5"/></g></svg>
+        <div>
+          <h3 class="pillar-name">心智心理学<span class="lat">MIND &amp; PSYCHOLOGY</span></h3>
+          <p class="pillar-desc">CBT, ACT, DBT, IFS, SE 等现代心理流派， 焦虑创伤成瘾等临床干预， 坛城直指止观等冥想技术， 亲密关系与孤独仇恨心理学。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">1,759</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../02-心智心理/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+
+      <article class="pillar">
+        <div class="pillar-ord">III<span class="ra">RA 08h 44m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="16,56 48,74 82,52 112,70 134,38 104,24"/></g><g fill="#E8E4D8"><circle cx="16" cy="56" r="2"/><circle cx="48" cy="74" r="2.6"/><circle cx="82" cy="52" r="1.6"/><circle cx="112" cy="70" r="2.2"/><circle cx="134" cy="38" r="1.8"/><circle cx="104" cy="24" r="2.4"/></g></svg>
+        <div>
+          <h3 class="pillar-name">生命科学与生物医学<span class="lat">BIO-SCIENCE &amp; MEDICINE</span></h3>
+          <p class="pillar-desc">睡眠与断食的生物黑客实践， BCI 与迷走神经研究， 多迷走理论， 身心能量恢复， 营养学与死亡教育。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">372</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../03-生命科学/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+
+      <article class="pillar">
+        <div class="pillar-ord">IV<span class="ra">RA 13h 20m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="16,40 44,64 76,30 106,58 134,28 118,76 72,80"/></g><g fill="#E8E4D8"><circle cx="16" cy="40" r="2.4"/><circle cx="44" cy="64" r="1.6"/><circle cx="76" cy="30" r="2.8"/><circle cx="106" cy="58" r="1.8"/><circle cx="134" cy="28" r="2.2"/><circle cx="118" cy="76" r="1.6"/><circle cx="72" cy="80" r="2"/></g></svg>
+        <div>
+          <h3 class="pillar-name">人文与艺术疗愈<span class="lat">HUMANITIES &amp; ARTS</span></h3>
+          <p class="pillar-desc">艺术史与艺术疗法， 芭蕾艺术全系， 莫扎特巴赫肖邦的古典音乐疗愈， 中外经典文学书评三百余篇， 戏剧书法园艺摄影治疗。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">962</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../04-人文艺术/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+
+      <article class="pillar">
+        <div class="pillar-ord">V<span class="ra">RA 17h 58m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="20,78 58,60 90,74 120,42 130,20 92,28"/></g><g fill="#E8E4D8"><circle cx="20" cy="78" r="2.2"/><circle cx="58" cy="60" r="1.6"/><circle cx="90" cy="74" r="2.6"/><circle cx="120" cy="42" r="1.8"/><circle cx="130" cy="20" r="2.2"/><circle cx="92" cy="28" r="1.5"/></g></svg>
+        <div>
+          <h3 class="pillar-name">实践与个人增长<span class="lat">PRAXIS &amp; GROWTH</span></h3>
+          <p class="pillar-desc">超级个体商业模式， 心流与专注力， 高效沟通与结构化表达， 心力成长与稳定内核， TED 与一席讲座知识框架， 正念习惯。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">372</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../05-实践成长/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+
+      <article class="pillar">
+        <div class="pillar-ord">VI<span class="ra">RA 21h 12m</span></div>
+        <svg class="pillar-glyph" viewBox="0 0 150 100" aria-hidden="true"><g fill="none" stroke="rgba(232,228,216,.5)" stroke-width="1"><polyline points="22,50 54,28 88,44 118,26 130,60 96,72 60,58"/></g><g fill="#E8E4D8"><circle cx="22" cy="50" r="1.8"/><circle cx="54" cy="28" r="2.4"/><circle cx="88" cy="44" r="1.6"/><circle cx="118" cy="26" r="2.8"/><circle cx="130" cy="60" r="2"/><circle cx="96" cy="72" r="1.6"/><circle cx="60" cy="58" r="2.2"/></g></svg>
+        <div>
+          <h3 class="pillar-name">临床专题<span class="lat">CLINICAL TOPICS</span></h3>
+          <p class="pillar-desc">按疾病维度聚合的跨支柱临床层： 焦虑， 抑郁， 睡眠障碍， 哀伤丧亲， 拖延。 仅保留药理， 督导， 安全， 共病等原创临床深度内容。</p>
+        </div>
+        <div class="pillar-side">
+          <span class="pillar-count tabular">148</span>
+          <span class="pillar-unit">篇 · DOCUMENTS</span>
+          <a class="pillar-link" href="../06-临床专题/INDEX.md">进入星域 →</a>
+        </div>
+      </article>
+    </div>
+
+    <div class="appendix">
+      <span class="tag">APPENDIX · 跨域聚合星域</span>
+      <span><a href="../07-行业观察/INDEX.md">行业观察</a> <span class="cnt tabular">52</span> 篇， WHO 政策解读， AI 心理健康应用与 APP 专题</span>
+      <span><a href="../08-跨领域研究/INDEX.md">跨领域研究</a> <span class="cnt tabular">7</span> 篇， 意识科学与具身认知等六大前沿交叉</span>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 黄道十径 · 学习路径 ============ -->
+<section id="paths">
+  <div class="wrap">
+    <header class="sec-head">
+      <h2>黄道十径<span class="lat">THE TEN ECLIPTIC PATHS</span></h2>
+      <p class="sec-lede">十条阶段化的学习路线贯穿各星域， 每条分四阶段行进八周。 刻度上的罗马数字即星域编号， 虚线即行进方向。</p>
+    </header>
+
+    <ol class="paths-list">
+      <li>
+        <h3 class="path-name">冥想入门</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 I, II, V"><line x1="40" y1="22" x2="160" y2="22"/><line x1="160" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">I</text><circle cx="160" cy="22" r="14"/><text x="160" y="23">II</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Beginner_Meditation_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">创伤疗愈</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 II, 含 IFS, SE, EMDR, TF-CBT"><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">II</text><text class="note" x="70" y="24">含 IFS / SE / EMDR / TF-CBT</text></svg>
+        <a href="../学习路径/Trauma_Healing_Journey.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">焦虑整合管理</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 II, III, I, V"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">II</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">III</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Anxiety_Integration_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">压力韧性</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 II, III, I, V"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">II</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">III</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Stress_Resilience_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">睡眠优化</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 III, II, I, V"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">III</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">II</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Sleep_Optimization_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">疼痛综合管理</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 III, I, II, IV"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">III</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">I</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">II</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">IV</text></svg>
+        <a href="../学习路径/Pain_Management_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">身心整合</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 I, III, II, V"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">I</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">III</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">II</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Body_Mind_Integration_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">艺术疗愈</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 IV, II, I, V"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">IV</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">II</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">V</text></svg>
+        <a href="../学习路径/Art_Healing_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">职业身心</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 V, II, I, III"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">V</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">II</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">III</text></svg>
+        <a href="../学习路径/Career_Wellbeing_Path.md">查看路径 →</a>
+      </li>
+      <li>
+        <h3 class="path-name">智慧老化</h3>
+        <svg class="route" viewBox="0 0 320 44" aria-label="路径： 星域 III, II, I, IV"><line x1="40" y1="22" x2="120" y2="22"/><line x1="120" y1="22" x2="200" y2="22"/><line x1="200" y1="22" x2="280" y2="22"/><circle class="hot" cx="40" cy="22" r="14"/><text x="40" y="23">III</text><circle cx="120" cy="22" r="14"/><text x="120" y="23">II</text><circle cx="200" cy="22" r="14"/><text x="200" y="23">I</text><circle cx="280" cy="22" r="14"/><text x="280" y="23">IV</text></svg>
+        <a href="../学习路径/Aging_Wisdom_Path.md">查看路径 →</a>
+      </li>
+    </ol>
+  </div>
+</section>
+
+<!-- ============ 黄铜仪器 · Agent Skills ============ -->
+<section id="skills">
+  <div class="wrap">
+    <div class="skills-grid">
+      <svg class="astrolabe" viewBox="0 0 460 460" role="img" aria-label="黄铜星盘仪器图">
+        <circle class="limb" cx="230" cy="230" r="212"/>
+        <circle class="limb-2" cx="230" cy="230" r="196"/>
+        <circle class="limb-2" cx="230" cy="230" r="150" stroke-dasharray="4 8"/>
+        <circle class="limb" cx="230" cy="230" r="96"/>
+        <g id="astro-ticks"></g>
+        <g id="astro-degs"></g>
+        <g class="rete">
+          <path d="M 230 40 Q 300 120 286 210 Q 320 250 292 316"/>
+          <path d="M 230 40 Q 168 116 178 200 Q 140 252 172 322"/>
+          <path d="M 60 330 Q 140 300 196 322"/>
+          <path d="M 402 336 Q 322 296 268 318"/>
+        </g>
+        <g class="rete">
+          <circle cx="286" cy="210" r="9"/>
+          <circle cx="178" cy="200" r="9"/>
+          <circle cx="196" cy="322" r="7"/>
+          <circle cx="268" cy="318" r="7"/>
+        </g>
+        <circle class="pin" cx="230" cy="230" r="5"/>
+        <line x1="230" y1="18" x2="230" y2="66" stroke="var(--brass)" stroke-width="1.2"/>
+        <line x1="230" y1="394" x2="230" y2="442" stroke="var(--brass)" stroke-width="1.2"/>
+        <line x1="18" y1="230" x2="66" y2="230" stroke="var(--brass)" stroke-width="1.2"/>
+        <line x1="394" y1="230" x2="442" y2="230" stroke="var(--brass)" stroke-width="1.2"/>
+      </svg>
+
+      <div>
+        <h2>黄铜仪器<span class="lat">TWENTY-FOUR BRASS INSTRUMENTS</span></h2>
+        <p class="skills-claim">知识即技能。 二十四件 Agent Skills 把文档变成可执行的决策流程， 人类负责观测， AI 负责导航。</p>
+        <p class="skills-sub">每件仪器含决策树， 结构化评估模板与转介指征， 以 Markdown 交付， 可直接挂载进你的智能体管线。 识别到红旗症状时， 仪器会提示转介医疗专业人士。</p>
+        <ul class="mod-list tabular">
+          <li><span class="m-name">压力与 HPA 轴</span><span class="m-count">9</span></li>
+          <li><span class="m-name">临床评估</span><span class="m-count">4</span></li>
+          <li><span class="m-name">自我调节</span><span class="m-count">4</span></li>
+          <li><span class="m-name">积极心理</span><span class="m-count">1</span></li>
+          <li><span class="m-name">应用心理</span><span class="m-count">2</span></li>
+          <li><span class="m-name">整合疗法</span><span class="m-count">2</span></li>
+          <li><span class="m-name">领导力</span><span class="m-count">1</span></li>
+          <li><span class="m-name">冥想止观</span><span class="m-count">1</span></li>
+        </ul>
+        <div class="skills-cta">
+          <a class="btn-brass" href="../skills-index.md">调用技能索引</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 具身智能语料库 · 泛疗愈智能体语料 ============ -->
+<section id="corpus">
+  <div class="wrap">
+    <header class="sec-head">
+      <h2>具身智能语料库<span class="lat">EPHEMERIS FOR HEALING AGENTS</span></h2>
+      <p class="sec-lede">整库皆语料。 4,922+ 篇结构化文档面向泛疗愈智能体开放， 语音陪伴、冥想应用、具身设备与陪护机器人皆可将其作为知识底座， 检索有坐标， 引用有署名， 安全有边界。</p>
+    </header>
+    <div class="courses">
+      <div class="course-row">
+        <span class="course-ord">01</span>
+        <div>
+          <h3 class="course-name">冥想引导词库</h3>
+          <p class="course-desc">25 个主题系列， 30 余篇结构化脚本， 附停顿与语气标注， 可直接转为语音智能体的提示词与播报文本。</p>
+        </div>
+        <a href="../02-心智心理/冥想/引导/引导-目录.md">浏览语料 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">02</span>
+        <div>
+          <h3 class="course-name">课程全文本</h3>
+          <p class="course-desc">直接认知冥想课程三阶与读书会全文档， 含止观践行日志与互助案例， 供长程陪伴型智能体编排多周对话。</p>
+        </div>
+        <a href="../02-心智心理/冥想/直接认知冥想课程/INDEX.md">查看课程 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">03</span>
+        <div>
+          <h3 class="course-name">术语与检索层</h3>
+          <p class="course-desc">全局术语表收录 84 术语中英映射， 交叉引用索引与 398+ 专题地图， 为 RAG 分块与检索对齐提供坐标。</p>
+        </div>
+        <a href="../规范/GLOSSARY.md">查阅术语 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">04</span>
+        <div>
+          <h3 class="course-name">安全边界层</h3>
+          <p class="course-desc">危机资源手册与安全计划模板内置转介指征， 为智能体的红线识别与兜底机制提供语料来源。</p>
+        </div>
+        <a href="../规范/CRISIS_RESOURCES.md">查看手册 →</a>
+      </div>
+      <div class="appendix">
+        <span class="tag">SPEC</span>
+        <span>语料格式 Markdown 纯文本</span>
+        <span>许可 CC BY-NC-SA 4.0</span>
+        <span>引用署名 Peace Lab Global</span>
+      </div>
+    </div>
+    <div class="skills-cta">
+      <a class="btn-brass" href="../INDEX.md">查看整库索引</a>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 观测课程 · 直接认知冥想课程 ============ -->
+<section id="courses">
+  <div class="wrap">
+    <header class="sec-head">
+      <h2>观测课程<span class="lat">GUIDED EXPEDITIONS</span></h2>
+      <p class="sec-lede">星图之外另有课堂。 直接认知冥想课程按修习者阶段分层， 从个人练习到导师与疗愈师训练， 另设读书会共读研讨。</p>
+    </header>
+    <div class="courses">
+      <div class="course-row">
+        <span class="course-ord">01</span>
+        <div>
+          <h3 class="course-name">执行师</h3>
+          <p class="course-desc">直接认知冥想课程第一阶， 面向个人练习者。</p>
+        </div>
+        <a href="../02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/INDEX.md">查看课程 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">02</span>
+        <div>
+          <h3 class="course-name">导师</h3>
+          <p class="course-desc">含止观践行与互助案例体系， 面向带领与陪伴者。</p>
+        </div>
+        <a href="../02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/INDEX.md">查看课程 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">03</span>
+        <div>
+          <h3 class="course-name">疗愈师</h3>
+          <p class="course-desc">含正念转化焦虑等临床向干预课程， 面向疗愈从业者。</p>
+        </div>
+        <a href="../02-心智心理/冥想/直接认知冥想课程/03-Course3-疗愈师/INDEX.md">查看课程 →</a>
+      </div>
+      <div class="course-row">
+        <span class="course-ord">04</span>
+        <div>
+          <h3 class="course-name">读书会</h3>
+          <p class="course-desc">共读与研讨， 把阅读变成有同伴的练习。</p>
+        </div>
+        <a href="../02-心智心理/冥想/直接认知冥想课程/04-读书会/INDEX.md">查看课程 →</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ============ 参与共建 ============ -->
+<section id="join">
+  <div class="wrap">
+    <div class="join-grid">
+      <div>
+        <h2>参与共建<span class="lat">CONTRIBUTE TO THE ATLAS</span></h2>
+        <p style="margin-top:1.6rem;color:var(--ink-dim);font-size:.95rem;max-width:34em">这是一部仍在绘制的天体图集。 疗愈机构， 高校与研究者， AI 产品团队， 皆可在 CC BY-NC-SA 4.0 许可下引用， 校订与增补， 每一次贡献都为夜空添一颗星。</p>
+      </div>
+      <ul class="join-links">
+        <li><a href="../规范/CONTRIBUTING.md">贡献指南<span class="arrow">→</span></a></li>
+        <li><a href="../README.md">项目愿景与全景<span class="arrow">→</span></a></li>
+        <li><a href="../cross-references.md">交叉引用索引<span class="arrow">→</span></a></li>
+        <li><a href="../规范/GLOSSARY.md">全局术语表<span class="arrow">→</span></a></li>
+      </ul>
+    </div>
+  </div>
+</section>
+</main>
+
+<!-- ============ 危机资源 ============ -->
+<section class="crisis" aria-label="危机资源">
+  <div class="crisis-inner">
+    <h2>如果你正处于急性心理危机</h2>
+    <p>本知识库提供教育与方向性评估内容， 不构成医学诊断， 也不替代专业治疗。 若你或身边的人出现自伤或自杀意念， 请立即联系以下专业援助， 全天免费。</p>
+    <div class="hotlines">
+      <a class="hotline" href="tel:12356">
+        <span class="num tabular">12356</span>
+        <span class="who">全国统一心理援助热线</span>
+      </a>
+      <a class="hotline" href="tel:01082951332">
+        <span class="num tabular">010-82951332</span>
+        <span class="who">北京心理危机研究与干预中心 · 24 小时</span>
+      </a>
+    </div>
+    <a class="crisis-manual" href="../规范/CRISIS_RESOURCES.md">危机资源手册与安全计划模板 →</a>
+  </div>
+</section>
+
+<footer>
+  <div class="foot-inner">
+    <p>© 2026 Peace Lab Global · 内容以 CC BY-NC-SA 4.0 许可发布</p>
+    <nav class="foot-links" aria-label="页脚链接">
+      <a href="../README.md">README</a>
+      <a href="../INDEX.md">跨支柱导航</a>
+      <a href="../焦虑专题索引.md">焦虑专题索引</a>
+      <a href="../规范/TAXONOMY.md">分类法</a>
+    </nav>
+  </div>
+</footer>
+
+<script>
+(function(){
+  'use strict';
+  var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+
+  /* ---------- 星图底: 种子随机星场 ---------- */
+  function mulberry32(a){return function(){a|=0;a=a+0x6D2B79F5|0;var t=Math.imul(a^a>>>15,1|a);t=t+Math.imul(t^t>>>7,61|t)^t;return((t^t>>>14)>>>0)/4294967296}}
+  var canvas=document.getElementById('stars');
+  var ctx=canvas.getContext('2d');
+  function drawStars(){
+    var dpr=Math.min(window.devicePixelRatio||1,2);
+    var w=canvas.clientWidth,h=canvas.clientHeight;
+    canvas.width=w*dpr;canvas.height=h*dpr;
+    ctx.setTransform(dpr,0,0,dpr,0,0);
+    ctx.clearRect(0,0,w,h);
+    var rnd=mulberry32(4922);
+    var n=Math.round(w*h/1600);
+    for(var i=0;i<n;i++){
+      var x=rnd()*w,y=rnd()*h,r=rnd();
+      var rad=r<0.86?0.4+r*0.9:1.1+rnd()*0.9;
+      var alpha=0.12+rnd()*0.55;
+      ctx.beginPath();
+      ctx.arc(x,y,rad,0,6.2832);
+      ctx.fillStyle=rnd()<0.08?'rgba(201,162,39,'+alpha+')':'rgba(232,228,216,'+alpha+')';
+      ctx.fill();
+    }
+  }
+  drawStars();
+  var resizeTimer;
+  window.addEventListener('resize',function(){clearTimeout(resizeTimer);resizeTimer=setTimeout(drawStars,180)});
+
+  /* ---------- 鼠标视差 ---------- */
+  if(!reduceMotion && window.matchMedia('(pointer: fine)').matches){
+    var cons=document.getElementById('constellations');
+    var plate=document.getElementById('planisphere');
+    var tx=0,ty=0,cx=0,cy=0,running=false;
+    function frame(){
+      cx+=(tx-cx)*0.06;cy+=(ty-cy)*0.06;
+      cons.style.transform='translate('+cx*10+'px,'+cy*7+'px)';
+      plate.style.transform='translate(calc(-50% + '+cx*-5+'px), calc(-50% + '+cy*-4+'px))';
+      if(Math.abs(tx-cx)>0.001||Math.abs(ty-cy)>0.001){requestAnimationFrame(frame)}else{running=false}
+    }
+    window.addEventListener('mousemove',function(e){
+      tx=(e.clientX/window.innerWidth-0.5)*2;
+      ty=(e.clientY/window.innerHeight-0.5)*2;
+      if(!running){running=true;requestAnimationFrame(frame)}
+    },{passive:true});
+  }
+
+  /* ---------- 盘面刻度与度数 ---------- */
+  function ticks(cx,cy,rIn,rOut,stepN,minorEvery,cls){
+    var g=document.createElementNS('http://www.w3.org/2000/svg','g');
+    for(var i=0;i<stepN;i++){
+      var a=(i/stepN)*Math.PI*2-Math.PI/2;
+      var isMajor=(minorEvery>0)&&(i%minorEvery===0);
+      var line=document.createElementNS('http://www.w3.org/2000/svg','line');
+      var r1=isMajor?rIn-6:rIn;
+      line.setAttribute('x1',(cx+Math.cos(a)*r1).toFixed(2));
+      line.setAttribute('y1',(cy+Math.sin(a)*r1).toFixed(2));
+      line.setAttribute('x2',(cx+Math.cos(a)*rOut).toFixed(2));
+      line.setAttribute('y2',(cy+Math.sin(a)*rOut).toFixed(2));
+      line.setAttribute('class',isMajor?cls:cls+'-minor');
+      g.appendChild(line);
+    }
+    return g;
+  }
+  function degs(cx,cy,r,stepN,startVal,stepVal){
+    var g=document.createElementNS('http://www.w3.org/2000/svg','g');
+    for(var i=0;i<stepN;i++){
+      var a=(i/stepN)*Math.PI*2-Math.PI/2;
+      var t=document.createElementNS('http://www.w3.org/2000/svg','text');
+      t.setAttribute('x',(cx+Math.cos(a)*r).toFixed(2));
+      t.setAttribute('y',(cy+Math.sin(a)*r+4).toFixed(2));
+      t.textContent=String(startVal+i*stepVal);
+      g.appendChild(t);
+    }
+    return g;
+  }
+  var NS='http://www.w3.org/2000/svg';
+  function mount(id,node){var el=document.getElementById(id);el.appendChild(node)}
+  mount('plate-ticks',ticks(450,450,392,418,120,10,'tick'));
+  mount('plate-degs',degs(450,450,368,12,0,30));
+  mount('astro-ticks',ticks(230,230,196,212,72,6,'tick'));
+  mount('astro-degs',degs(230,230,174,12,0,30));
+})();
+</script>
+</body>
+</html>

@@ -31,5 +31,5 @@ auto_generated: true
 
 ---
 
-*返回上级: [02-心智心理/meditation/courses/mocici-course-2-meditator-advance/day2](../INDEX.md)*
+*返回上级: [02-心智心理/冥想/直接认知冥想课程/02-Course2-导师/三天课程/Day2](../INDEX.md)*
 *自动生成于 2026-06-23 10:13*

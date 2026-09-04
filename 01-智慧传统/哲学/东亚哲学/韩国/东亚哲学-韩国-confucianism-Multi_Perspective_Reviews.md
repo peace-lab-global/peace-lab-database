@@ -23,7 +23,7 @@ cross_refs:
   relation: daoism/emotion/exercise
 - path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-抑郁-13-Crisis-Safety.md
   relation: daoism/emotion/exercise
-- path: 02-心智心理/冥想/courses/course/C1-2-meditation-history.md
+- path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/course-C1-2-冥想-历史.md
   relation: daoism/emotion/exercise
 ---
 # 韩国儒学经典三方书评

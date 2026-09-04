@@ -26,4 +26,4 @@ cross_refs: []
 ## 相关资源
 
 - 完整 25 系列课程库：[引导-引导课程_INDEX](../../../引导/引导-引导课程_INDEX.md)
-- Course 1 索引：[mocici-course-1-meditator INDEX](../INDEX.md)
+- Course 1 索引：[01-Course1-执行师 INDEX](../INDEX.md)

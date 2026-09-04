@@ -13,7 +13,7 @@ intent_queries:
   - "Breathwork & Pranayama的方法与实践"
 trigger_keywords: ["Breathwork", "Pranayama", "高阶呼吸：调息与科学"]
 cross_refs:
-  - path: "02-心智心理/冥想/courses/mocici-course-1-meditator/引导课程/Series_02_Breath.md"
+  - path: "02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/引导课程/Series_02_Breath.md"
     relation: "呼吸/breath/心率"
 ---
 # Breathwork & Pranayama (高阶呼吸：调息与科学)
