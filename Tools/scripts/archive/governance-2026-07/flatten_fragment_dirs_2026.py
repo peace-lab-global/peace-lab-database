@@ -21,6 +21,14 @@ import sys
 from urllib.parse import unquote, quote
 
 ROOT = "/Users/allengaller/Documents/GitHub/peace-lab-global/peace-lab-database"
+
+
+def _within_root(p):
+    r = os.path.realpath(ROOT)
+    x = os.path.realpath(p)
+    return x == r or x.startswith(r + os.sep)
+
+
 SECTIONS = ["01-智慧传统", "02-心智心理", "03-生命科学", "04-人文艺术",
             "05-实践成长", "06-临床专题", "07-行业观察"]
 LINK_SCOPE = SECTIONS + ["_meta", "README.md"]
@@ -128,7 +136,7 @@ def main():
                 return m.group(0)
 
             newtext = LINK_RE.sub(repl, text)
-            if newtext != text:
+            if newtext != text and _within_root(fp):
                 stats["files"] += 1
                 stats["links"] += n
                 with open(fp, "w", encoding="utf-8") as f:
@@ -136,6 +144,8 @@ def main():
 
     out = os.path.join(ROOT, "Tools", "data", "governance-2026-07",
                        "flatten_mapping_2026-07_r2.json")
+    if not _within_root(out):
+        raise SystemExit(f"输出路径超出仓库根: {out}")
     with open(out, "w", encoding="utf-8") as f:
         json.dump({"moved": moved, "removed_index": removed_index},
                   f, ensure_ascii=False, indent=1)

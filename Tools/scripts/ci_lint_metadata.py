@@ -22,14 +22,24 @@ import yaml
 ROOT = Path('.')
 
 
+def unquote_path(line):
+    """git diff --name-only quotes non-ASCII paths (e.g. "02-\\345..."); restore them."""
+    if len(line) < 2 or not (line.startswith('"') and line.endswith('"')):
+        return line
+    body = re.sub(r'\\(?:([0-7]{3})|(.))',
+                  lambda m: chr(int(m.group(1), 8)) if m.group(1) else m.group(2),
+                  line[1:-1])
+    return body.encode('latin-1').decode('utf-8')
+
+
 def main():
     changed = Path('changed_files.txt')
     if not changed.exists():
         print("No changed_files.txt — nothing to lint.")
         return 0
-    files = [l.strip() for l in changed.read_text().splitlines() if l.strip()]
-    # only lint content files under the 6 pillars
-    files = [f for f in files if re.match(r'^0[1-6]-', f)]
+    files = [unquote_path(l.strip()) for l in changed.read_text().splitlines() if l.strip()]
+    # only lint content files under the 8 pillars (6 core + 2 cross-domain layers)
+    files = [f for f in files if re.match(r'^0[1-8]-', f)]
     if not files:
         print("No changed content files to lint.")
         return 0
@@ -38,6 +48,8 @@ def main():
     for rel in files:
         fp = ROOT / rel
         if not fp.exists():
+            print(f"  X {rel}: listed as changed but missing on disk")
+            errors += 1
             continue
         try:
             text = fp.read_text(encoding='utf-8')

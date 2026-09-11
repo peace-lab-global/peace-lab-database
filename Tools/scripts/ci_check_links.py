@@ -36,22 +36,35 @@ def build_name_index():
     return index
 
 
+def unquote_path(line):
+    """git diff --name-only quotes non-ASCII paths (e.g. "02-\\345..."); restore them."""
+    if len(line) < 2 or not (line.startswith('"') and line.endswith('"')):
+        return line
+    body = re.sub(r'\\(?:([0-7]{3})|(.))',
+                  lambda m: chr(int(m.group(1), 8)) if m.group(1) else m.group(2),
+                  line[1:-1])
+    return body.encode('latin-1').decode('utf-8')
+
+
 def main():
     changed = Path('changed_files.txt')
     if not changed.exists():
         print("No changed_files.txt — nothing to check.")
         return 0
-    files = [l.strip() for l in changed.read_text().splitlines() if l.strip()]
+    files = [unquote_path(l.strip()) for l in changed.read_text().splitlines() if l.strip()]
     if not files:
         print("No changed content files to check.")
         return 0
 
     index = build_name_index()
     new_broken = 0
+    missing = 0
 
     for rel in files:
         fp = ROOT / rel
         if not fp.exists():
+            print(f"  X {rel}: listed as changed but missing on disk")
+            missing += 1
             continue
         try:
             text = fp.read_text(encoding='utf-8')
@@ -75,8 +88,8 @@ def main():
             print(f"  X {rel}: broken link '{link}'")
             new_broken += 1
 
-    if new_broken:
-        print(f"\nFAILED: {new_broken} new broken link(s) introduced.")
+    if new_broken or missing:
+        print(f"\nFAILED: {new_broken} new broken link(s), {missing} missing file(s).")
         return 1
     print(f"OK: checked {len(files)} changed file(s); no new broken links.")
     return 0

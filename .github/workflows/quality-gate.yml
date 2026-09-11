@@ -1,0 +1,63 @@
+# Quality Gate：对变更的 Markdown 文件执行两项门禁
+#   1) frontmatter 元数据完整性（ci_lint_metadata.py）
+#   2) 新增断链检测（ci_check_links.py，基线模式：仅拦截本次变更引入的新断链，不追溯存量历史问题）
+# 页面部署见 pages.yml。
+
+name: Quality Gate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**.md'
+      - '.github/workflows/quality-gate.yml'
+  pull_request:
+    paths:
+      - '**.md'
+      - '.github/workflows/quality-gate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: quality-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  lint:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install dependencies
+        run: pip install pyyaml
+
+      - name: Collect changed markdown files
+        run: |
+          BASE="${{ github.event.pull_request.base.sha }}"
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BASE" 2>/dev/null; then
+            BASE="${{ github.event.before }}"
+          fi
+          if [ -z "$BASE" ] || [ "$BASE" = "0000000000000000000000000000000000000000" ] || ! git cat-file -e "$BASE" 2>/dev/null; then
+            BASE="$(git rev-parse HEAD~1 2>/dev/null || true)"
+          fi
+          if [ -n "$BASE" ]; then
+            git -c core.quotepath=false diff --name-only --diff-filter=ACM "$BASE" "${{ github.sha }}" -- '*.md' > changed_files.txt || true
+          else
+            : > changed_files.txt
+          fi
+          echo "changed md files: $(wc -l < changed_files.txt | tr -d ' ')"
+
+      - name: Frontmatter metadata lint
+        run: python Tools/scripts/ci_lint_metadata.py
+
+      - name: New broken-link check (baseline mode)
+        run: python Tools/scripts/ci_check_links.py

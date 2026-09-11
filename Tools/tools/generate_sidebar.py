@@ -196,6 +196,8 @@ def main():
     
     # Write to target file directly
     output_path = PROJECT_ROOT / "Web" / "docs" / "_sidebar.md"
+    if not output_path.resolve().is_relative_to(PROJECT_ROOT.resolve()):
+        raise SystemExit(f"输出路径超出项目根: {output_path}")
     with open(output_path, 'w', encoding='utf-8') as f:
         f.write(sidebar_content)
     

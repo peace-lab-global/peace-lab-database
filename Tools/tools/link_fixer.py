@@ -250,6 +250,9 @@ class LinkFixer:
 
         fixed_count = 0
         for fp, file_fixes in sorted(by_file.items()):
+            if not Path(fp).resolve().is_relative_to(self.base.resolve()):
+                print(f"  ⚠️ 跳过项目外路径: {fp}")
+                continue
             try:
                 with open(fp, 'r', encoding='utf-8') as f:
                     content = f.read()
@@ -292,7 +295,7 @@ class LinkFixer:
             ph_path = Path(ph_path_str)
             # 确保路径在项目内
             try:
-                ph_path.relative_to(self.base)
+                ph_path.resolve().relative_to(self.base.resolve())
             except ValueError:
                 print(f"  ⚠️ 跳过项目外路径: {ph_path_str}")
                 continue

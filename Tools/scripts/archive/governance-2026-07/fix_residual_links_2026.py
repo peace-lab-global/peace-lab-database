@@ -13,6 +13,12 @@ from urllib.parse import unquote, quote
 ROOT = "/Users/allengaller/Documents/GitHub/peace-lab-global/peace-lab-database"
 EXECUTE = "--execute" in sys.argv
 
+
+def _within_root(p):
+    r = os.path.realpath(ROOT)
+    x = os.path.realpath(p)
+    return x == r or x.startswith(r + os.sep)
+
 # (文件, 旧目标子串, 新目标) 精确替换
 FIXES = [
     ("03-生命科学/生物学/中医循证-中医循证总览.md",
@@ -44,7 +50,7 @@ for f, old, new in [
 nfix = 0
 for relf, old, new in FIXES:
     fp = os.path.join(ROOT, relf)
-    if not os.path.isfile(fp):
+    if not _within_root(fp) or not os.path.isfile(fp):
         continue
     with open(fp, encoding="utf-8") as f:
         text = f.read()
@@ -64,6 +70,8 @@ for dp, dn, fns in os.walk(os.path.join(ROOT, "03-生命科学/生物学/身体�
         if not fn.endswith(".md"):
             continue
         fp = os.path.join(dp, fn)
+        if not _within_root(fp):
+            continue
         with open(fp, encoding="utf-8") as f:
             text = f.read()
 

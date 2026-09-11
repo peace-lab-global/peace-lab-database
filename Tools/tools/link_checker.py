@@ -330,6 +330,8 @@ class LinkChecker:
 
         # 写入文件
         report_path = self.base_path / output_file
+        if not report_path.resolve().is_relative_to(self.base_path.resolve()):
+            raise SystemExit(f"报告路径超出项目范围: {report_path}")
         report_path.parent.mkdir(parents=True, exist_ok=True)
         with open(report_path, 'w', encoding='utf-8') as f:
             f.write('\n'.join(L) + '\n')

@@ -307,6 +307,9 @@ def main():
     for pillar, qas in pillar_qas.items():
         name = PILLAR_NAMES.get(pillar, pillar)
         output_file = OUTPUT_DIR / f"{pillar}-qa.yaml"
+        if not output_file.resolve().is_relative_to(OUTPUT_DIR.resolve()):
+            print(f"  ⚠️ 跳过项目外路径: {output_file}")
+            continue
 
         # Filter out template QAs
         filtered = []
@@ -333,6 +336,8 @@ def main():
 
     # Write combined index
     index_file = OUTPUT_DIR / "INDEX.md"
+    if not index_file.resolve().is_relative_to(OUTPUT_DIR.resolve()):
+        raise SystemExit(f"输出路径超出语料库目录: {index_file}")
     with open(index_file, 'w', encoding='utf-8') as f:
         f.write("# QA 语料库索引 (QA Corpus Index)\n\n")
         f.write(f"> 生成日期: {datetime.now().strftime('%Y-%m-%d')}\n")

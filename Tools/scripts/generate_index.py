@@ -477,6 +477,12 @@ def scan_and_generate(root_path, dry_run=False, force=False, only_auto=False):
             action = "update" if exists else "create"
             print(f"  [DRY-RUN] would {action}: {target}")
         else:
+            _real_target = os.path.realpath(target)
+            _real_root = os.path.realpath(root_path)
+            if _real_target != _real_root and not _real_target.startswith(_real_root + os.sep):
+                print(f"  ⚠️ 跳过项目外路径: {target}")
+                skipped.append(dirpath)
+                continue
             with open(target, 'w', encoding='utf-8') as f:
                 f.write(content)
             action = "updated" if exists else "created"
@@ -490,7 +496,7 @@ def scan_and_generate(root_path, dry_run=False, force=False, only_auto=False):
         if len(loose_files) > 200:
             full_target = os.path.join(dirpath, 'INDEX_full.md')
             full_content = generate_full_list(dirpath, root_path)
-            if not dry_run:
+            if not dry_run and os.path.realpath(full_target).startswith(os.path.realpath(root_path) + os.sep):
                 with open(full_target, 'w', encoding='utf-8') as f:
                     f.write(full_content)
                 print(f"  ✅ full list: {os.path.relpath(full_target, root_path)}")

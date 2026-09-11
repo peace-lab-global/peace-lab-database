@@ -1,6 +1,6 @@
 # macOS系统文件
 .DS_Store
-.DS_Store?
+.DS_Store*
 ._*
 .Spotlight-V100
 .Trashes
@@ -31,6 +31,16 @@ build/
 .codebuddy/
 .qoder/
 .trae/
+
+# Agent 运行状态目录（不入库）
+.agents/
+.mimosa/
+.v2c/
+.video_agent/
+
+# 版权素材：第三方书籍全文仅限本地留存，严禁提交入库
+# （本仓库为 CC BY-NC-SA 公开仓库，分发他人作品全文构成侵权）
+蔡康永/
 
 # 临时文件
 *.log
