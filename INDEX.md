@@ -8,60 +8,60 @@
 
 > 现代职场人的平静恢复指南：六部 23 章 + 附录，从认知、诊断、急救、修炼到整合的一站式路径，每章附知识库深潜链接。
 
-- [平静之书首页（全书地图与三种读法）](bop/INDEX.md)
-- [90 秒急救箱](bop/Ch06_First_Aid_Toolkit.md) — 十个分钟级平静技术
-- [平静审计（六维自检）](bop/Ch05_Peace_Audit.md) — 定位你的平静泄漏点
-- [28 天重启计划](bop/Ch23_Four_Week_Reset.md) — 四周落地路径
-- [一页纸速查](bop/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
+- [平静之书首页（全书地图与三种读法）](book/bop/INDEX.md)
+- [90 秒急救箱](book/bop/Ch06_First_Aid_Toolkit.md) — 十个分钟级平静技术
+- [平静审计（六维自检）](book/bop/Ch05_Peace_Audit.md) — 定位你的平静泄漏点
+- [28 天重启计划](book/bop/Ch23_Four_Week_Reset.md) — 四周落地路径
+- [一页纸速查](book/bop/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
 
 ### 💪 力量之书 (Book of Power)
 
 > 现代职场人的力量提升指南：与平静之书互为姊妹篇，从承受、行动、影响、恢复四维重建力量，每章附知识库深潜链接。
 
-- [力量之书首页（四维模型与三种读法）](bos/INDEX.md)
-- [力量急救箱](bos/Ch06_Power_First_Aid.md) — 十个找回状态的技术
-- [力量审计（四维自检）](bos/Ch05_Power_Audit.md) — 定位你的力量短板
-- [28 天力量建设](bos/Ch23_Power_28_Day_Program.md) — 四周落地路径
-- [一页纸速查](bos/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
+- [力量之书首页（四维模型与三种读法）](book/bos/INDEX.md)
+- [力量急救箱](book/bos/Ch06_Power_First_Aid.md) — 十个找回状态的技术
+- [力量审计（四维自检）](book/bos/Ch05_Power_Audit.md) — 定位你的力量短板
+- [28 天力量建设](book/bos/Ch23_Power_28_Day_Program.md) — 四周落地路径
+- [一页纸速查](book/bos/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
 
 ### 🌙 孤独之书 (Book of Loneliness)
 
 > 现代职场人的孤独转化指南：与平静/力量之书互为姊妹篇，从理解、独处、连接、转化四维重建与孤独的关系，每章附知识库深潜链接。
 
-- [孤独之书首页（四维模型与三种读法）](bol/INDEX.md)
-- [孤独急救箱](bol/Ch06_Loneliness_First_Aid.md) — 十个分钟级缓解技术
-- [孤独审计（四维自检）](bol/Ch05_Loneliness_Audit.md) — 定位你的孤独类型
-- [28 天孤独转化](bol/Ch23_Loneliness_28_Day_Program.md) — 四周落地路径
-- [一页纸速查](bol/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
-- [附录小册子：婚后孤独](bol/Appendix_Loneliness_In_Marriage.md) — 两个人的孤独：六种形态、信号自检、三步行动手册
+- [孤独之书首页（四维模型与三种读法）](book/bol/INDEX.md)
+- [孤独急救箱](book/bol/Ch06_Loneliness_First_Aid.md) — 十个分钟级缓解技术
+- [孤独审计（四维自检）](book/bol/Ch05_Loneliness_Audit.md) — 定位你的孤独类型
+- [28 天孤独转化](book/bol/Ch23_Loneliness_28_Day_Program.md) — 四周落地路径
+- [一页纸速查](book/bol/Appendix_Quick_Reference.md) — 急救卡 / 场景索引 / 术语词典
+- [附录小册子：婚后孤独](book/bol/Appendix_Loneliness_In_Marriage.md) — 两个人的孤独：六种形态、信号自检、三步行动手册
 
 ### 🎯 意义之书 (Book of Meaning)
 
 > 现代职场人的意义重建指南：回答"我为什么而活"，从澄清、叙事、超越、日常四维重建意义。
 
-- [意义之书首页](bom/INDEX.md)
-- [一页纸速查](bom/Appendix_Quick_Reference.md)
+- [意义之书首页](book/bom/INDEX.md)
+- [一页纸速查](book/bom/Appendix_Quick_Reference.md)
 
 ### 🧘 身体之书 (Book of Body)
 
 > 现代职场人的身体重建指南：回答"如何与自己的身体相处"，从感知、接纳、养护、表达四维重建身体关系。
 
-- [身体之书首页](bob/INDEX.md)
-- [一页纸速查](bob/Appendix_Quick_Reference.md)
+- [身体之书首页](book/bob/INDEX.md)
+- [一页纸速查](book/bob/Appendix_Quick_Reference.md)
 
 ### 🎨 创造之书 (Book of Creation)
 
 > 现代职场人的创造重建指南：回答"我能创造什么"，从感知、想象、执行、分享四维重建创造力。
 
-- [创造之书首页](boc/INDEX.md)
-- [一页纸速查](boc/Appendix_Quick_Reference.md)
+- [创造之书首页](book/boc/INDEX.md)
+- [一页纸速查](book/boc/Appendix_Quick_Reference.md)
 
 ### ⏳ 时间之书 (Book of Time)
 
 > 现代职场人的时间重建指南：回答"如何与时间相处"，从当下、规划、耐心、超越四维重建时间关系。
 
-- [时间之书首页](bot/INDEX.md)
-- [一页纸速查](bot/Appendix_Quick_Reference.md)
+- [时间之书首页](book/bot/INDEX.md)
+- [一页纸速查](book/bot/Appendix_Quick_Reference.md)
 
 ### 学习路径 (Learning Paths)
 
