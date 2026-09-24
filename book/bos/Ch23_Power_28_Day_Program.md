@@ -94,7 +94,7 @@ intent_queries:
 | D24 | 填写"个人力量系统一页纸"（[第 21 章](Ch21_Personal_Power_System.md)21.6） | 打印贴出来 |
 | D25 | 预装 3 个自动重启协议（出差/忙碌/低谷版，21.5） | 写本周"掉线应急预案" |
 | D26 | 杠杆盘点：我可以用哪些杠杆？（[第 20 章](Ch20_Environment_And_Leverage.md)20.1） | 网络维护：约一位核心层的人 |
-| D27 | 重做一遍[第五章](Ch05_Power_Audit.md)力量审计，对比四周前 | 记录变化最大的一维 |
+| D27 | 重看一遍[第五章](Ch05_Power_Audit.md)的四组观察，对比四周前 | 记下哪几条已经不再让你停下来；不打分，不比较分数 |
 | D28 | **最终复盘**（见下）+ 庆祝 | 把系统一页纸设为手机壁纸 |
 
 ---
@@ -126,7 +126,7 @@ intent_queries:
 - 28 天是起点不是终点：结束日，也是你主动选择"如何生活"的第一天。
 - 与[《平静之书》](../bop/Ch23_Four_Week_Reset.md)的关系：那个管"稳"，这个管"进"：可以交替进行。
 
-读完本书后：把[一页纸速查](Appendix_Quick_Reference.md)存进手机或贴墙，需要时随时回去查。
+读完本书后：把[随身卡与练习记录](Appendix_Quick_Reference.md)存进手机或贴墙，需要时随时回去查。
 
 ---
 
@@ -144,4 +144,4 @@ intent_queries:
 
 - [学习路径 · 索引](../../学习路径/INDEX.md)
 - [05-实践成长 · 个人发展总览](../../05-实践成长/个人发展/INDEX.md)
-- 姊妹篇：[平静之书 · 第二十三章 28 天重启计划](../bop/Ch23_Four_Week_Reset.md) | [孤独之书 · 第二十三章 28 天孤独转化](../bol/Ch23_Loneliness_28_Day_Program.md)
+- 姊妹篇：[平静之书 · 第二十三章 四周试行](../bop/Ch23_Four_Week_Reset.md) | [孤独之书 · 第二十三章 四周试行](../bol/Ch23_Loneliness_28_Day_Program.md)
