@@ -1,3 +1,11 @@
+---
+title: "MOCICI 直接认知冥想导师课程"
+description: "课程全称：直接认知冥想导师课程（第二期·进阶班）"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # MOCICI 直接认知冥想导师课程
 
 ## 专业培训教材

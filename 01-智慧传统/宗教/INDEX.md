@@ -1,3 +1,11 @@
+---
+title: "宗教"
+description: "宗教 专题枢纽目录，共 328 个文档"
+category: "智慧传统"
+tags: [index, hub, religion]
+last_updated: "2026-09"
+---
+
 # 宗教
 
 > 本目录共 328 个文档

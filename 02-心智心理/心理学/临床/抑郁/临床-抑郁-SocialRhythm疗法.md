@@ -107,6 +107,7 @@ IPSRT 可作为**急性期治疗**（与药物合用加速缓解）或**维持�
 
 - Frank, E. (2005). *Treating Bipolar Disorder: A Clinician's Guide to Interpersonal and Social Rhythm Therapy*. Guilford Press.
 - Ehlers, C. L., Frank, E., & Kupfer, D. J. (1988). Social zeitgebers and biological rhythms. *Archives of General Psychiatry*, 45(10), 948–952.
-- Frank, E., Kupfer, D. J., Thase, M. E., et al. (2005). Two-year outcomes for interpersonal and social rhythm therapy in individuals with bipolar I disorder. *Archives of General Psychiatry*, 62(9), 996–1004.
+- Frank, E., Kupfer, D. J., Thase, M. E., et al. (2005). Two-year outcomes for interpersonal and social rhythm therapy in individuals with bipolar I disorder. *Archives of General Psychiatry*, 62(9), 996–1004. [DOI](https://doi.org/10.1001/archpsyc.62.9.996)
+
 - Miklowitz, D. J., Otto, M. W., Frank, E., et al. (2007). Psychosocial treatments for bipolar depression: a 1-year randomized trial from the Systematic Treatment Enhancement Program. *Archives of General Psychiatry*, 64(4), 419–427.
 - Monk, T. H., Flaherty, J. F., Frank, E., Hoskinson, K., & Kupfer, D. J. (1990). The Social Rhythm Metric. *Journal of Nervous and Mental Disease*, 178(2), 120–126.

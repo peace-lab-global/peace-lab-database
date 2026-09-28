@@ -1,3 +1,11 @@
+---
+title: "黄帝内经"
+description: "黄帝内经 专题枢纽目录，共 11 个文档"
+category: "智慧传统"
+tags: [index, hub, tcm]
+last_updated: "2026-09"
+---
+
 # 黄帝内经
 
 > 本目录共 11 个文档

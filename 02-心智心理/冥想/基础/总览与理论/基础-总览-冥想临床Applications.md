@@ -173,13 +173,17 @@ cross_refs:
 1. Kabat-Zinn, J. (1982). An outpatient program in behavioral medicine for chronic pain patients based on the practice of mindfulness meditation. *General Hospital Psychiatry, 4*(1), 33-47.
 2. Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). Guilford Press.
 3. Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
-4. Hölzel, B. K., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging, 191*(1), 36-43.
-5. Goyal, M., et al. (2014). Meditation programs for psychological stress and well-being: A systematic review and meta-analysis. *JAMA Internal Medicine, 174*(3), 357-368.
-6. Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness: Practices for Safe and Transformative Healing*. W.W. Norton & Company.
+4. Hölzel, B. K., et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging, 191*(1), 36-43. [DOI](https://doi.org/10.1016/j.pscychresns.2010.08.006)
+
+5. Goyal, M., et al. (2014). Meditation programs for psychological stress and well-being: A systematic review and meta-analysis. *JAMA Internal Medicine, 174*(3), 357-368. [DOI](https://doi.org/10.1001/jamainternmed.2013.13018)
+
+6. Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness: Practices for Safe and Transformative Healing*. W.W. Norton & Company. [DOI](https://doi.org/10.1007/s10879-018-9407-x)
+
 7. Bowen, S., Chawla, N., & Marlatt, G. A. (2011). *Mindfulness-Based Relapse Prevention for Addictive Behaviors: A Clinician's Guide*. Guilford Press.
 8. Levine, P. A. (2010). *In an Unspoken Voice: How the Body Releases Trauma and Restores Goodness*. North Atlantic Books.
 9. Gilbert, P. (2009). *The Compassionate Mind*. Constable & Robinson.
-10. Lutz, A., et al. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS, 101*(46), 16369-16373.
+10. Lutz, A., et al. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS, 101*(46), 16369-16373. [DOI](https://doi.org/10.1073/pnas.0407401101)
+
 
 ---
 

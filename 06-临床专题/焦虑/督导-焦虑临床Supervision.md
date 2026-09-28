@@ -1,3 +1,11 @@
+---
+title: "焦虑障碍临床督导与质量控制 | Clinical Supervision and Quality Control for Anxiety Disorders"
+description: "目标：建立精神科标准的焦虑障碍临床督导框架与质量控制体系。"
+category: "临床专题"
+tags: [anxiety]
+last_updated: "2026-09"
+---
+
 # 焦虑障碍临床督导与质量控制 | Clinical Supervision and Quality Control for Anxiety Disorders
 
 > **目标**：建立精神科标准的焦虑障碍临床督导框架与质量控制体系。

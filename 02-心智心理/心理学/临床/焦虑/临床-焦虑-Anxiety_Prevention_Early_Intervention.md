@@ -18,7 +18,8 @@ cross_refs:
     relation: "prevention/three-level/early"
 disclaimer: true
 last_disclaimer_added: "2026-06-23"
-------
+---
+
 
 > ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
@@ -367,7 +368,8 @@ last_disclaimer_added: "2026-06-23"
 1. Barrett, P. M., & Turner, C. M. (2001). Prevention of anxiety symptoms in primary school children. *British Journal of Clinical Psychology*, 40(4), 399-410.
 2. Rapee, R. M., et al. (2009). Prevention and early intervention of anxiety disorders in inhibited preschool children. *Journal of Consulting and Clinical Psychology*, 77(5), 846-858.
 3. Cuijpers, P., et al. (2021). Psychological treatment of depression and anxiety in primary care. *The Lancet Psychiatry*, 8(10), 838-849.
-4. Stubbs, B., et al. (2017). An examination of the anxiolytic effects of exercise for people with anxiety and stress-related disorders. *Psychiatry Research*, 249, 102-108.
+4. Stubbs, B., et al. (2017). An examination of the anxiolytic effects of exercise for people with anxiety and stress-related disorders. *Psychiatry Research*, 249, 102-108. [DOI](https://doi.org/10.1016/j.psychres.2016.12.020)
+
 5. Wang, P. S., et al. (2005). Failure and delay in initial treatment contact after first onset of mental disorders. *Archives of General Psychiatry*, 62(6), 603-613.
 6. Meichenbaum, D. (2007). *Stress inoculation training: A preventive and treatment approach*. In P. M. Lehrer et al. (Eds.), Principles and practice of stress management (3rd ed.).
 

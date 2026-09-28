@@ -1,3 +1,11 @@
+---
+title: "MOCICI 直接认知冥想执行师课程教材"
+description: "核心理念：看见 → 了解 → 接纳 → 转化 — 从间接认知走向直接认知"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # MOCICI 直接认知冥想执行师课程教材
 
 ## 港中文 & MOCICI 联合认证

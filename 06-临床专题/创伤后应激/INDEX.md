@@ -1,3 +1,11 @@
+---
+title: "创伤后应激"
+description: "创伤后应激 专题枢纽目录，共 14 个文档"
+category: "临床专题"
+tags: [index, hub, trauma]
+last_updated: "2026-09"
+---
+
 # 创伤后应激
 
 > 本目录共 14 个文档

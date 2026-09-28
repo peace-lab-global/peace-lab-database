@@ -1,3 +1,11 @@
+---
+title: "哲学"
+description: "哲学 专题枢纽目录，共 325 个文档"
+category: "智慧传统"
+tags: [index, hub, philosophy]
+last_updated: "2026-09"
+---
+
 # 哲学
 
 > 本目录共 325 个文档

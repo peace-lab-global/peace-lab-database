@@ -1,3 +1,11 @@
+---
+title: "人格障碍"
+description: "人格障碍 专题枢纽目录，共 14 个文档"
+category: "临床专题"
+tags: [index, hub, personality-disorders]
+last_updated: "2026-09"
+---
+
 # 人格障碍
 
 > 本目录共 14 个文档

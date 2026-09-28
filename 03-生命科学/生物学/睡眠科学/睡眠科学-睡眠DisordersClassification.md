@@ -1,3 +1,11 @@
+---
+title: "睡眠障碍分类与评估 | Sleep Disorders Classification & Assessment"
+description: "生命科学专题内容"
+category: "生命科学"
+tags: [biology]
+last_updated: "2026-09"
+---
+
 # 睡眠障碍分类与评估 | Sleep Disorders Classification & Assessment
 
 ---

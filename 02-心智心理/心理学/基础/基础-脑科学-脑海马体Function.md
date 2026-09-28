@@ -13,7 +13,9 @@ intent_queries:
   - "海马体功能的方法与实践"
 trigger_keywords: ["海马体功能", "心理学", "心理学基础", "神经科学"]
 cross_refs: []
----# 海马体功能 | Brain Hippocampus Function
+---
+
+# 海马体功能 | Brain Hippocampus Function
 
 > **文档类型**:神经科学核心结构 | Neuroscience Core Structure
 > **目标**:系统阐述海马体的解剖学位置、细胞构成、核心功能及其在记忆与情绪中的作用

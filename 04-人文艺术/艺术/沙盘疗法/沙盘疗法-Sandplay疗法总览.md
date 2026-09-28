@@ -1,3 +1,11 @@
+---
+title: "沙盘/沙游治疗总览 | Sandplay Therapy Overview"
+description: "沙游治疗(Sandplay Therapy)由多拉·卡尔夫(Dora Kalff, 1966)创立，是基于荣格分析心理学的非言语投射性治疗方法——来访者在沙盘中使用微缩玩具创造'世界'，以象征性方式表…"
+category: "人文艺术"
+tags: [arts]
+last_updated: "2026-09"
+---
+
 # 沙盘/沙游治疗总览 | Sandplay Therapy Overview
 
 > 沙游治疗(Sandplay Therapy)由多拉·卡尔夫(Dora Kalff, 1966)创立，是基于荣格分析心理学的非言语投射性治疗方法——来访者在沙盘中使用微缩玩具创造"世界"，以象征性方式表达内在心灵。

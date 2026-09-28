@@ -1,3 +1,11 @@
+---
+title: "PPT 成品 · Markdown Slides"
+description: "本文件为可直接导入 Marp / reveal.js / 手动复制到 PowerPoint 的幻灯片脚本。"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # PPT 成品 · Markdown Slides
 
 > 本文件为可直接导入 Marp / reveal.js / 手动复制到 PowerPoint 的幻灯片脚本。

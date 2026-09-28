@@ -13,7 +13,6 @@ cross_refs: []
 
 - [Assets](assets)
 - [Docs](docs)
-- [Mkdocs](mkdocs)
 - [Visualization](visualization)
 
 ## 文档列表

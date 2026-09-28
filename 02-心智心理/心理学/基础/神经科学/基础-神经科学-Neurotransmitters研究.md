@@ -13,7 +13,9 @@ intent_queries:
   - "神经递质研究的方法与实践"
 trigger_keywords: ["神经递质研究", "neuroscience", "心理学", "心理学基础"]
 cross_refs: []
----# 神经递质研究 | Neurotransmitters Research
+---
+
+# 神经递质研究 | Neurotransmitters Research
 
 > **文档类型**:神经科学基础 | Neuroscience Foundation
 > **目标**:系统阐述主要神经递质及其受体的功能、作用机制与临床关联

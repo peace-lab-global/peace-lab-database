@@ -1,3 +1,11 @@
+---
+title: "声音疗愈总览 | Sound Healing Overview"
+description: "声音疗愈是泛疗愈行业增长最快的赛道之一，融合古老的声学智慧与现代神经科学证据。"
+category: "人文艺术"
+tags: [media]
+last_updated: "2026-09"
+---
+
 # 声音疗愈总览 | Sound Healing Overview
 
 > 声音疗愈是泛疗愈行业增长最快的赛道之一，融合古老的声学智慧与现代神经科学证据。

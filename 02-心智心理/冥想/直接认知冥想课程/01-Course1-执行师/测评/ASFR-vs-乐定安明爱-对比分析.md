@@ -1,3 +1,11 @@
+---
+title: "ASFR 量表 vs 乐定安明爱测评法 · 对比分析报告"
+description: "分析日期：2026-07（第二次修订）"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # ASFR 量表 vs 乐定安明爱测评法 · 对比分析报告
 
 > **分析日期**：2026-07（第二次修订）  

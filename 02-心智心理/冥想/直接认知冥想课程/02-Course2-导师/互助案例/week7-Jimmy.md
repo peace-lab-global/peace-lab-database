@@ -1,3 +1,11 @@
+---
+title: "互助案例 - 高敏感人的能量都去哪儿了"
+description: "J 这几年变了不少，你觉得是从哪儿来的。"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # 互助案例 - 高敏感人的能量都去哪儿了
 
 ## 要求

@@ -1,3 +1,11 @@
+---
+title: "生物学"
+description: "生物学 专题枢纽目录，共 154 个文档"
+category: "生命科学"
+tags: [index, hub, biology]
+last_updated: "2026-09"
+---
+
 # 生物学
 
 > 本目录共 154 个文档

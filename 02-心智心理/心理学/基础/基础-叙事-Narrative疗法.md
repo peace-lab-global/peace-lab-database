@@ -120,4 +120,5 @@ cross_refs: []
 - White, M. (2007). *Maps of Narrative Practice*. W. W. Norton.
 - Freedman, J., & Combs, G. (1996). *Narrative Therapy: The Social Construction of Preferred Realities*. W. W. Norton.
 - Morgan, A. (2000). *What is Narrative Therapy? An Easy-to-Read Introduction*. Dulwich Centre Publications.
-- Payne, M. (2006). *Narrative Therapy: An Introduction for Counselors* (2nd ed.). SAGE.
+- Payne, M. (2006). *Narrative Therapy: An Introduction for Counselors* (2nd ed.). SAGE. [DOI](https://doi.org/10.4135/9781446213322)
+

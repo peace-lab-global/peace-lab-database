@@ -299,26 +299,32 @@ Gottman (1999) 的研究最终给出了一个充满希望的数据：**在那些
 - Bancroft, L. (2002). *Why Does He Do That? Inside the Minds of Angry and Controlling Men*. Berkley Books.
 - Beck, A. T. (1988). *Love Is Never Enough: How Couples Can Overcome Misunderstandings, Resolve Conflicts, and Solve Relationship Problems Through Cognitive Therapy*. Harper & Row.
 - Bowlby, J. (1969/1982). *Attachment and Loss: Vol. 1. Attachment*. Basic Books.
-- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, 59(1), 73-81.
+- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, 59(1), 73-81. [DOI](https://doi.org/10.1037/0022-3514.59.1.73)
+
 - Dean, L., & Churchill, B. (2022). Weaponised incompetence and domestic labour in heterosexual couples. *Journal of Sociology*, 58(3), 383-400.
-- Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. *Science*, 302(5643), 290-292.
-- Forward, S., & Frazier, D. (1997). *Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You*. HarperCollins.
+- Eisenberger, N. I., Lieberman, M. D., & Williams, K. D. (2003). Does rejection hurt? An fMRI study of social exclusion. *Science*, 302(5643), 290-292. [DOI](https://doi.org/10.1126/science.1089134)
+
+- Forward, S., & Frazier, D. (1997). *Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You*. HarperCollins. [DOI](https://doi.org/10.1891/0889-8391.11.4.300)
+
 - Gottman, J. M. (1994). *What Predicts Divorce? The Relationship Between Marital Processes and Marital Outcomes*. Lawrence Erlbaum Associates.
 - Gottman, J. M., & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. Crown Publishers.
 - Gottman, J. M., & Gottman, J. S. (2015). *10 Principles for Doing Effective Couples Therapy*. W. W. Norton.
 - Hartley, J. (2021). Strategic incompetence: The dynamics of weaponized inadequacy in household labor. *Gender & Society*, 35(5), 712-738.
 - Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy: Creating Connection* (2nd ed.). Brunner-Routledge.
 - Johnson, S. M. (2008). *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Little, Brown and Company.
-- Kiecolt-Glaser, J. K., Loving, T. J., Stowell, J. R., Malarkey, W. B., Lemeshow, S., Dickinson, S. L., & Glaser, R. (2005). Hostile marital interactions, proinflammatory cytokine production, and wound healing. *Archives of General Psychiatry*, 62(12), 1377-1384.
+- Kiecolt-Glaser, J. K., Loving, T. J., Stowell, J. R., Malarkey, W. B., Lemeshow, S., Dickinson, S. L., & Glaser, R. (2005). Hostile marital interactions, proinflammatory cytokine production, and wound healing. *Archives of General Psychiatry*, 62(12), 1377-1384. [DOI](https://doi.org/10.1001/archpsyc.62.12.1377)
+
 - Lerner, H. (1985). *The Dance of Anger: A Woman's Guide to Changing the Patterns of Intimate Relationships*. Harper & Row.
 - Lieberman, M. D., Eisenberger, N. I., Crockett, M. J., Tom, S. M., Pfeifer, J. H., & Way, B. M. (2007). Putting feelings into words: Affect labeling disrupts amygdala activity in response to affective stimuli. *Psychological Science*, 18(5), 421-428.
 - Main, M., & Hesse, E. (1990). Parents' unresolved traumatic experiences are related to infant disorganized attachment status. In M. T. Greenberg, D. Cicchetti, & E. M. Cummings (Eds.), *Attachment in the Preschool Years* (pp. 161-182). University of Chicago Press.
-- Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review*, 98(2), 224-253.
+- Markus, H. R., & Kitayama, S. (1991). Culture and the self: Implications for cognition, emotion, and motivation. *Psychological Review*, 98(2), 224-253. [DOI](https://doi.org/10.1037/0033-295x.98.2.224)
+
 - McCarthy, B., & McCarthy, E. (2003). *Rekindling Desire: A Step-by-Step Program to Help Low-Sex and No-Sex Marriages*. Brunner-Routledge.
 - Mikulincer, M., & Shaver, P. R. (2007). *Attachment in Adulthood: Structure, Dynamics, and Change*. Guilford Press.
 - Murphy, W. (2001). Passive-aggressive behavior in couples: A systemic analysis. *Journal of Couple & Relationship Therapy*, 1(2), 35-52.
 - Porges, S. W. (2011). *The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation*. W. W. Norton.
-- Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390-395.
+- Prochaska, J. O., & DiClemente, C. C. (1983). Stages and processes of self-change of smoking: Toward an integrative model of change. *Journal of Consulting and Clinical Psychology*, 51(3), 390-395. [DOI](https://doi.org/10.1037/0022-006x.51.3.390)
+
 - Seligman, M. E. P. (1975). *Helplessness: On Depression, Development, and Death*. W. H. Freeman.
 - Simon, G. K. (2010). *In Sheep's Clothing: Understanding and Dealing with Manipulative People* (Rev. ed.). Parkhurst Brothers.
 - Wetzler, S. (1992). *Living with the Passive-Aggressive Man*. Simon & Schuster.

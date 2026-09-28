@@ -267,23 +267,29 @@ Sue Johnson (2004) 的 EFT 疗法中的**矫正性情感体验(Corrective Emotio
 
 ## 参考文献
 
-- Arnsten, A. F. T. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature Reviews Neuroscience*, 10(6), 410-422.
-- Beckes, L., & Coan, J. A. (2011). Social baseline theory: The role of social proximity in emotion and economy of action. *Social and Personality Psychology Compass*, 5(12), 976-988.
+- Arnsten, A. F. T. (2009). Stress signalling pathways that impair prefrontal cortex structure and function. *Nature Reviews Neuroscience*, 10(6), 410-422. [DOI](https://doi.org/10.1038/nrn2648)
+
+- Beckes, L., & Coan, J. A. (2011). Social baseline theory: The role of social proximity in emotion and economy of action. *Social and Personality Psychology Compass*, 5(12), 976-988. [DOI](https://doi.org/10.1111/j.1751-9004.2011.00400.x)
+
 - Coan, J. A., Schaefer, H. S., & Davidson, R. J. (2006). Lending a hand: Social regulation of the neural response to threat. *Psychological Science*, 17(12), 1032-1039.
-- Ditzen, B., Schaer, M., Gabriel, B., Bodenmann, G., Ehlert, U., & Heinrichs, M. (2009). Intranasal oxytocin increases positive communication and reduces cortisol levels during couple conflict. *Biological Psychiatry*, 65(9), 728-731.
+- Ditzen, B., Schaer, M., Gabriel, B., Bodenmann, G., Ehlert, U., & Heinrichs, M. (2009). Intranasal oxytocin increases positive communication and reduces cortisol levels during couple conflict. *Biological Psychiatry*, 65(9), 728-731. [DOI](https://doi.org/10.1016/j.biopsych.2008.10.011)
+
 - Ecker, B., Ticic, R., & Hulley, L. (2012). *Unlocking the Emotional Brain*. Routledge.
 - Gottman, J. M. (1994). *What Predicts Divorce?*. Lawrence Erlbaum Associates.
 - Gottman, J. M. (1999). *The Seven Principles for Making Marriage Work*. Crown Publishers.
 - Gottman, J. M., & Levenson, R. W. (1988). The social psychophysiology of marriage. In *Perspectives on Marital Interaction*. Multilingual Matters.
 - Heinrichs, M., Baumgartner, T., Kirschbaum, C., & Ehlert, U. (2003). Social support and oxytocin interact to suppress cortisol. *Biological Psychiatry*, 54(12), 1389-1398.
 - Herman, J. L. (1992). *Trauma and Recovery*. Basic Books.
-- Hölzel, B. K. et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43.
+- Hölzel, B. K. et al. (2011). Mindfulness practice leads to increases in regional brain gray matter density. *Psychiatry Research: Neuroimaging*, 191(1), 36-43. [DOI](https://doi.org/10.1016/j.pscychresns.2010.08.006)
+
 - Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy* (2nd ed.). Brunner-Routledge.
-- Kinreich, S. et al. (2017). Brain-to-brain synchrony during naturalistic social interactions. *Scientific Reports*, 7(1), 17060.
+- Kinreich, S. et al. (2017). Brain-to-brain synchrony during naturalistic social interactions. *Scientific Reports*, 7(1), 17060. [DOI](https://doi.org/10.1038/s41598-017-17339-5)
+
 - LeDoux, J. E. (1996). *The Emotional Brain*. Simon & Schuster.
 - Porges, S. W. (2011). *The Polyvagal Theory*. W. W. Norton.
 - Siegel, D. J. (2012). *The Developing Mind* (2nd ed.). Guilford Press.
-- Singer, T. et al. (2004). Empathy for pain involves the affective but not sensory components of pain. *Science*, 303(5661), 1157-1162.
+- Singer, T. et al. (2004). Empathy for pain involves the affective but not sensory components of pain. *Science*, 303(5661), 1157-1162. [DOI](https://doi.org/10.1126/science.1093535)
+
 - van der Kolk, B. A. (2014). *The Body Keeps the Score*. Viking.
 
 ---

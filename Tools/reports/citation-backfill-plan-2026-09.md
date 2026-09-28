@@ -73,3 +73,24 @@
 | 2026-10 | Phase 1 完成：06-临床 159 篇 + 02 疗法主文档达标 |
 | 2026-12 | Phase 2 完成：DOI ≥100，frontmatter ≥95% |
 | 2027-03 | 首次全覆盖季度审计，评估是否继续 Phase 3 |
+
+## 六、执行进展
+
+**2026-09-28**：
+
+- `Tools/scripts/citation_coverage.py` 上线（本文件第四节规划的脚本），
+  首份快照见 [citation-coverage-2026-09-28.md](citation-coverage-2026-09-28.md)。
+  口径基线：正文八支柱 5,178 篇中 378 篇含 author-year 文中引用（7.3%），
+  DOI 文件 77 个；06-临床专题 7/159 篇被引用，是 Phase 1 最大缺口。
+- frontmatter 达标提前完成：补齐 132 篇缺失（覆盖 97.4% → 100%），
+  并修复 243 篇遗留 YAML 破损（闭合围栏写成 6 连杠、引号不配对、
+  围栏与正文粘连）。全量 PyYAML 校验 0 错误。
+  工具：`Tools/scripts/frontmatter_backfill_2026-09.py`、
+  `Tools/scripts/fix_broken_frontmatter_2026-09.py`。
+- Phase 2 启动并达成 DOI 阈值：`Tools/scripts/doi_backfill_2026-09.py` 对
+  「已有 References 段但无 DOI」的 206 个候选文件做 Crossref 标题匹配
+  （≥6 个标题词 + 作者姓交叉验证 + 年份 ±1 三重闸门，Choice 书评类 DOI
+  黑名单剔除，宁缺毋滥）。首轮 450 次查询、125 条命中（32/34 文件留存，
+  剔除 2 条书评误配），**DOI 文件 77 → 111，本文件"DOI ≥100"阈值提前完成**
+  （原计划 2026-12）。残余待办：06-临床专题的指南类条目（NICE/APA/ISTSS）
+  Crossref 覆盖差，须走 PubMed/官网核验，属 Phase 1 内容工作。

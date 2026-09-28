@@ -136,6 +136,8 @@ SFBT 是**未来导向、目标导向**的短程治疗方法，与传统问题�
 ## 参考文献
 
 - de Shazer, S. (1988). *Clues: Investigating Solutions in Brief Therapy*. Norton.
-- Berg, I. K. (1994). *Family Based Services: A Solution-Focused Approach*. Norton.
-- Gingerich, W. J., & Eisengart, S. (2000). Solution-focused brief therapy: A review of the outcome research. *Family Process*, 39(4), 477–498.
+- Berg, I. K. (1994). *Family Based Services: A Solution-Focused Approach*. Norton. [DOI](https://doi.org/10.2307/585435)
+
+- Gingerich, W. J., & Eisengart, S. (2000). Solution-focused brief therapy: A review of the outcome research. *Family Process*, 39(4), 477–498. [DOI](https://doi.org/10.1111/j.1545-5300.2000.39408.x)
+
 - Kim, J. S. (2008). Examining the effectiveness of solution-focused brief therapy. *Research on Social Work Practice*, 18(2), 107–116.

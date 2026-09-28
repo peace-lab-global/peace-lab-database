@@ -1,3 +1,11 @@
+---
+title: "声音疗愈临床应用 | Sound Healing Clinical Applications"
+description: "人文艺术专题内容"
+category: "人文艺术"
+tags: [media]
+last_updated: "2026-09"
+---
+
 # 声音疗愈临床应用 | Sound Healing Clinical Applications
 
 ---

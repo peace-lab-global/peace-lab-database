@@ -1,3 +1,11 @@
+---
+title: "拖延症"
+description: "拖延症 专题枢纽目录，共 14 个文档"
+category: "临床专题"
+tags: [index, hub, procrastination]
+last_updated: "2026-09"
+---
+
 # 拖延症
 
 > 本目录共 14 个文档，是拖延主题的**临床主体目录**（评估、干预、共病、神经科学、复发预防）。

@@ -1,3 +1,11 @@
+---
+title: "Industry Reactions to WHO 3 Recommendations on AI Mental Health"
+description: "Following a January 2026 virtual expert summit at TU Delft's Digital Ethics Centre (precursor to the…"
+category: "行业观察"
+tags: [行业观察, who]
+last_updated: "2026-09"
+---
+
 # Industry Reactions to WHO 3 Recommendations on AI Mental Health
 
 **Date**: 2026-07-09

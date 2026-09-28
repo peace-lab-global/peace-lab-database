@@ -1,3 +1,11 @@
+---
+title: "成瘾"
+description: "成瘾 专题枢纽目录，共 12 个文档"
+category: "临床专题"
+tags: [index, hub, addiction]
+last_updated: "2026-09"
+---
+
 # 成瘾
 
 > 本目录共 12 个文档

@@ -1,3 +1,11 @@
+---
+title: "进食障碍"
+description: "进食障碍 专题枢纽目录，共 19 个文档"
+category: "临床专题"
+tags: [index, hub, eating-disorders]
+last_updated: "2026-09"
+---
+
 # 进食障碍
 
 > 本目录共 19 个文档

@@ -322,31 +322,41 @@ Klontz, Britt, Mentzer 和 Klontz (2011) 通过大规模调查研究，识别出
 
 ## 参考文献
 
-Adams, A. E., Sullivan, C. M., Bybee, D., & Greeson, M. R. (2008). Development of the Scale of Economic Abuse. *Violence Against Women*, 14(5), 563-588.
+Adams, A. E., Sullivan, C. M., Bybee, D., & Greeson, M. R. (2008). Development of the Scale of Economic Abuse. *Violence Against Women*, 14(5), 563-588. [DOI](https://doi.org/10.1177/1077801208315529)
+
 
 Adams, J. S. (1965). Inequity in social exchange. In L. Berkowitz (Ed.), *Advances in Experimental Social Psychology* (Vol. 2, pp. 267-299). Academic Press.
 
-Archuleta, K. L., Britt, S. L., & Tonn, T. J. (2011). Financial satisfaction and financial stressors in marital satisfaction. *Psychological Reports*, 108(2), 563-576.
+Archuleta, K. L., Britt, S. L., & Tonn, T. J. (2011). Financial satisfaction and financial stressors in marital satisfaction. *Psychological Reports*, 108(2), 563-576. [DOI](https://doi.org/10.2466/07.21.pr0.108.2.563-576)
 
-Archuleta, K. L. (2013). Couples, money, and expectations: Negotiating financial management roles to increase relationship satisfaction. *Marriage & Family Review*, 49(5), 391-411.
 
-Archuleta, K. L., & Grable, J. E. (2011). The future of financial planning and counseling: An introduction to financial therapy. In J. E. Grable, K. L. Archuleta, & R. R. Nazarinia (Eds.), *Financial Planning and Counseling Scales* (pp. 33-59). Springer.
+Archuleta, K. L. (2013). Couples, money, and expectations: Negotiating financial management roles to increase relationship satisfaction. *Marriage & Family Review*, 49(5), 391-411. [DOI](https://doi.org/10.1080/01494929.2013.766296)
+
+
+Archuleta, K. L., & Grable, J. E. (2011). The future of financial planning and counseling: An introduction to financial therapy. In J. E. Grable, K. L. Archuleta, & R. R. Nazarinia (Eds.), *Financial Planning and Counseling Scales* (pp. 33-59). Springer. [DOI](https://doi.org/10.1007/978-1-4419-6908-8_3)
+
 
 Beck, A. T. (1979). *Cognitive Therapy and Emotional Disorders*. Penguin Books.
 
-Bertrand, M., Kamenica, E., & Pan, J. (2015). Gender identity and relative income within households. *The Quarterly Journal of Economics*, 130(2), 571-614.
+Bertrand, M., Kamenica, E., & Pan, J. (2015). Gender identity and relative income within households. *The Quarterly Journal of Economics*, 130(2), 571-614. [DOI](https://doi.org/10.1093/qje/qjv001)
 
-Bianchi, S. M., Milkie, M. A., Sayer, L. C., & Robinson, J. P. (2000). Is anyone doing the housework? Trends in the gender division of household labor. *Social Forces*, 79(1), 191-228.
 
-Britt, S. L., & Huston, S. J. (2012). The role of money arguments in marriage. *Journal of Family and Economic Issues*, 33(4), 464-476.
+Bianchi, S. M., Milkie, M. A., Sayer, L. C., & Robinson, J. P. (2000). Is anyone doing the housework? Trends in the gender division of household labor. *Social Forces*, 79(1), 191-228. [DOI](https://doi.org/10.2307/2675569)
+
+
+Britt, S. L., & Huston, S. J. (2012). The role of money arguments in marriage. *Journal of Family and Economic Issues*, 33(4), 464-476. [DOI](https://doi.org/10.1007/s10834-012-9304-5)
+
 
 Conger, R. D., Rueter, M. A., & Elder, G. H. (1999). Couple resilience to economic pressure. *Journal of Personality and Social Psychology*, 76(1), 54-71.
 
-Dew, J. (2011). The association between consumer debt and the likelihood of divorce. *Journal of Family and Economic Issues*, 32(4), 554-565.
+Dew, J. (2011). The association between consumer debt and the likelihood of divorce. *Journal of Family and Economic Issues*, 32(4), 554-565. [DOI](https://doi.org/10.1007/s10834-011-9274-z)
 
-Dew, J., & Dakin, J. (2011). Financial disagreements and marital conflict tactics. *Journal of Financial Therapy*, 2(1), 23-42.
 
-Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life. *Journal of Personality and Social Psychology*, 84(2), 377-389.
+Dew, J., & Dakin, J. (2011). Financial disagreements and marital conflict tactics. *Journal of Financial Therapy*, 2(1), 23-42. [DOI](https://doi.org/10.4148/jft.v2i1.1414)
+
+
+Emmons, R. A., & McCullough, M. E. (2003). Counting blessings versus burdens: An experimental investigation of gratitude and subjective well-being in daily life. *Journal of Personality and Social Psychology*, 84(2), 377-389. [DOI](https://doi.org/10.1037/0022-3514.84.2.377)
+
 
 Fincher, L. H. (2014). *Leftover Women: The Resurgence of Gender Inequality in China*. Zed Books.
 
@@ -356,13 +366,15 @@ Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (1999). *Acceptance and Commitmen
 
 Hochschild, A. R. (1989). *The Second Shift: Working Parents and the Revolution at Home*. Viking Penguin.
 
-Jiang, Q., & Sánchez-Barricarte, J. J. (2012). Bride price in China: The obstacle to 'Bare Branches' seeking marriage. *The History of the Family*, 17(1), 2-15.
+Jiang, Q., & Sánchez-Barricarte, J. J. (2012). Bride price in China: The obstacle to 'Bare Branches' seeking marriage. *The History of the Family*, 17(1), 2-15. [DOI](https://doi.org/10.1080/1081602x.2011.640544)
+
 
 Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy: Creating Connection* (2nd ed.). Brunner-Routledge.
 
 Kenney, C. T. (2006). The power of the purse: Allocative systems and inequality in couple households. *Gender & Society*, 20(3), 354-381.
 
-Klontz, B., Britt, S. L., Mentzer, J., & Klontz, T. (2011). Money beliefs and financial behaviors: Development of the Klontz Money Script Inventory. *Journal of Financial Therapy*, 2(1), 1-22.
+Klontz, B., Britt, S. L., Mentzer, J., & Klontz, T. (2011). Money beliefs and financial behaviors: Development of the Klontz Money Script Inventory. *Journal of Financial Therapy*, 2(1), 1-22. [DOI](https://doi.org/10.4148/jft.v2i1.451)
+
 
 Klontz, B., & Klontz, T. (2009). *Mind over Money: Overcoming the Money Disorders That Threaten Our Financial Health*. Crown Business.
 
@@ -376,23 +388,30 @@ Markman, H. J., Stanley, S. M., & Blumberg, S. L. (2010). *Fighting for Your Mar
 
 Minuchin, S. (1974). *Families and Family Therapy*. Harvard University Press.
 
-Munsch, C. L. (2015). Her support, his support: Money, masculinity, and marital infidelity. *American Sociological Review*, 80(3), 469-495.
+Munsch, C. L. (2015). Her support, his support: Money, masculinity, and marital infidelity. *American Sociological Review*, 80(3), 469-495. [DOI](https://doi.org/10.1177/0003122415579989)
+
 
 National Endowment for Financial Education (NEFE). (2018). *Financial Infidelity Poll*. Retrieved from https://www.nefe.org.
 
-Papp, L. M., Cummings, E. M., & Goeke-Morey, M. C. (2009). For richer, for poorer: Money as a topic of marital conflict in the home. *Family Relations*, 58(1), 91-103.
+Papp, L. M., Cummings, E. M., & Goeke-Morey, M. C. (2009). For richer, for poorer: Money as a topic of marital conflict in the home. *Family Relations*, 58(1), 91-103. [DOI](https://doi.org/10.1111/j.1741-3729.2008.00537.x)
 
-Postmus, J. L., Plummer, S. B., McMahon, S., Murshid, N. S., & Kim, M. S. (2012). Understanding economic abuse in the lives of survivors. *Journal of Interpersonal Violence*, 27(3), 411-430.
 
-Rick, S. I., Small, D. A., & Finkel, E. J. (2011). Fatal (fiscal) attraction: Spendthrifts and tightwads in marriage. *Journal of Marketing Research*, 48(2), 228-237.
+Postmus, J. L., Plummer, S. B., McMahon, S., Murshid, N. S., & Kim, M. S. (2012). Understanding economic abuse in the lives of survivors. *Journal of Interpersonal Violence*, 27(3), 411-430. [DOI](https://doi.org/10.1177/0886260511421669)
 
-Romo, L. K. (2014). "These aren't very good times": Financial uncertainty experienced by romantic partners in the wake of an economic downturn. *Journal of Family and Economic Issues*, 35(4), 477-488.
 
-Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71-92.
+Rick, S. I., Small, D. A., & Finkel, E. J. (2011). Fatal (fiscal) attraction: Spendthrifts and tightwads in marriage. *Journal of Marketing Research*, 48(2), 228-237. [DOI](https://doi.org/10.1509/jmkr.48.2.228)
+
+
+Romo, L. K. (2014). "These aren't very good times": Financial uncertainty experienced by romantic partners in the wake of an economic downturn. *Journal of Family and Economic Issues*, 35(4), 477-488. [DOI](https://doi.org/10.1007/s10834-014-9389-0)
+
+
+Saunders, D. G. (2015). Research based recommendations for child custody evaluation practices and policies in cases of intimate partner violence. *Journal of Child Custody*, 12(1), 71-92. [DOI](https://doi.org/10.1080/15379418.2015.1037052)
+
 
 Shek, D. T. L. (2006). Chinese family research: Puzzles, progress, paradigms, and policy implications. *Journal of Family Issues*, 27(3), 275-284.
 
-Ström, S. (2003). Unemployment and families: A review of research. *Social Service Review*, 77(3), 399-430.
+Ström, S. (2003). Unemployment and families: A review of research. *Social Service Review*, 77(3), 399-430. [DOI](https://doi.org/10.1086/375791)
+
 
 Sun, W., & Wang, X. (2010). Do relative income and income expectations affect consumption? Evidence from urban China. *China Economic Review*, 21(2), 183-194.
 
@@ -400,9 +419,11 @@ Vogler, C., Lyonette, C., & Wiggins, R. D. (2006). Money, power and spending dec
 
 White, M., & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. W. W. Norton.
 
-Yan, Y. (1996). *The Flow of Gifts: Reciprocity and Social Networks in a Chinese Village*. Stanford University Press.
+Yan, Y. (1996). *The Flow of Gifts: Reciprocity and Social Networks in a Chinese Village*. Stanford University Press. [DOI](https://doi.org/10.1353/cri.1997.0157)
 
-Zhan, H. J., & Montgomery, R. J. V. (2003). Gender and elder care in China: The influence of filial piety and structural constraints. *Gender & Society*, 17(2), 209-229.
+
+Zhan, H. J., & Montgomery, R. J. V. (2003). Gender and elder care in China: The influence of filial piety and structural constraints. *Gender & Society*, 17(2), 209-229. [DOI](https://doi.org/10.1177/0891243202250734)
+
 
 ---
 

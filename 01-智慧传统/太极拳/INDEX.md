@@ -1,3 +1,11 @@
+---
+title: "太极拳"
+description: "太极拳 专题枢纽目录，共 48 个文档"
+category: "智慧传统"
+tags: [index, hub, tai-chi]
+last_updated: "2026-09"
+---
+
 # 太极拳
 
 > 本目录共 48 个文档

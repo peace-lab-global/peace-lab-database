@@ -1,3 +1,11 @@
+---
+title: "PPT 素材清单"
+description: "本清单为读书会主讲人/课件设计师提供可直接用于 PPT/Keynote 的素材索引，含文字、图表、图片与互动环节。"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # PPT 素材清单
 
 > 本清单为读书会主讲人/课件设计师提供可直接用于 PPT/Keynote 的素材索引，含文字、图表、图片与互动环节。

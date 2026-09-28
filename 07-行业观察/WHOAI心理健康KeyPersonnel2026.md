@@ -1,3 +1,11 @@
+---
+title: "WHO AI Mental Health Policy: Key Personnel Profiles"
+description: "'The pace of AI adoption in people's daily lives has far outstripped investment in understanding its…"
+category: "行业观察"
+tags: [行业观察, who]
+last_updated: "2026-09"
+---
+
 # WHO AI Mental Health Policy: Key Personnel Profiles
 
 **Date**: 2026-07-09

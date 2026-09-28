@@ -1,3 +1,11 @@
+---
+title: "WHO Recommendations for AI Mental Health vs. EU AI Act High-Risk Classification"
+description: "The two frameworks are not in conflict but operate at different levels of abstraction:"
+category: "行业观察"
+tags: [行业观察, who]
+last_updated: "2026-09"
+---
+
 # WHO Recommendations for AI Mental Health vs. EU AI Act High-Risk Classification
 ## Structured Regulatory Comparison (2026)
 

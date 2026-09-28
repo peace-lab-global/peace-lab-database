@@ -1,3 +1,11 @@
+---
+title: "正念认知"
+description: "正念认知 专题枢纽目录，共 10 个文档"
+category: "临床专题"
+tags: [index, hub, mbct]
+last_updated: "2026-09"
+---
+
 # 正念认知
 
 > 本目录共 10 个文档

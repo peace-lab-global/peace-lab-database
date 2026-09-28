@@ -189,11 +189,13 @@ cross_refs: []
 
 1. Crane, R. S., et al. (2017). MBI:TAC - Mindfulness-Based Interventions: Teaching Assessment Criteria.
 2. Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness*.
-3. Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*.
+3. Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. [DOI](https://doi.org/10.61387/s.2019.34.41)
+
 4. Beauchamp, T. L., & Childress, J. F. (2019). *Principles of Biomedical Ethics* (8th ed.).
 5. Kornfield, J. (1993). *A Path with Heart*.
 6. Trungpa, C. (1973). *Cutting Through Spiritual Materialism*.
-7. Lomas, T., et al. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. *Neuroscience & Biobehavioral Reviews*.
+7. Lomas, T., et al. (2015). A systematic review of the neurophysiology of mindfulness on EEG oscillations. *Neuroscience & Biobehavioral Reviews*. [DOI](https://doi.org/10.1016/j.neubiorev.2015.09.018)
+
 
 ---
 *Created by Peace Lab Database Project*

@@ -1,3 +1,11 @@
+---
+title: "沟通"
+description: "沟通 专题枢纽目录，共 11 个文档"
+category: "实践成长"
+tags: [index, hub, 沟通]
+last_updated: "2026-09"
+---
+
 # 沟通
 
 > 本目录共 11 个文档

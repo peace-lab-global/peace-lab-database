@@ -1,3 +1,11 @@
+---
+title: "舞动治疗总览 | Dance/Movement Therapy (DMT) Overview"
+description: "舞动治疗是以身体运动作为治疗媒介和评估工具的心理治疗方法，由美国舞蹈治疗协会(ADTA, 1966)定义为'通过运动促进情绪、社会、认知和身体整合的心理治疗过程'。"
+category: "人文艺术"
+tags: [arts]
+last_updated: "2026-09"
+---
+
 # 舞动治疗总览 | Dance/Movement Therapy (DMT) Overview
 
 > 舞动治疗是以身体运动作为治疗媒介和评估工具的心理治疗方法，由美国舞蹈治疗协会(ADTA, 1966)定义为"通过运动促进情绪、社会、认知和身体整合的心理治疗过程"。

@@ -13,7 +13,9 @@ intent_queries:
   - "镜像神经元研究的方法与实践"
 trigger_keywords: ["镜像神经元研究", "neuroscience", "心理学", "心理学基础"]
 cross_refs: []
----# 镜像神经元研究 | Mirror Neurons Research
+---
+
+# 镜像神经元研究 | Mirror Neurons Research
 
 > **文档类型**:神经科学专题 | Neuroscience Topic
 > **目标**:系统阐述镜像神经元的发现、解剖学基础、功能假说及争议

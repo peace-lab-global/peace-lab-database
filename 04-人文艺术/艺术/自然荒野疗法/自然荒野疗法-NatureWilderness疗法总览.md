@@ -1,3 +1,11 @@
+---
+title: "自然与荒野疗愈总览 | Nature & Wilderness Therapy Overview"
+description: "自然疗愈以自然环境为治疗场域，基于'亲生命性假说'(Biophilia Hypothesis, Wilson, 1984)——人类进化于自然环境中，与自然的联结本身具有恢复和疗愈功能。"
+category: "人文艺术"
+tags: [arts]
+last_updated: "2026-09"
+---
+
 # 自然与荒野疗愈总览 | Nature & Wilderness Therapy Overview
 
 > 自然疗愈以自然环境为治疗场域，基于"亲生命性假说"(Biophilia Hypothesis, Wilson, 1984)——人类进化于自然环境中，与自然的联结本身具有恢复和疗愈功能。

@@ -18,7 +18,8 @@ cross_refs:
     relation: "ai/app/vr"
 disclaimer: true
 last_disclaimer_added: "2026-06-23"
-------
+---
+
 
 > ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
@@ -360,10 +361,13 @@ VR 暴露治疗利用头戴式设备（HMD）创建沉浸式虚拟环境，使�
 ## 参考文献
 
 1. Andrews, G., et al. (2018). Computer therapy for the anxiety and depression disorders is effective, acceptable and practical health care. *PLOS ONE*, 13(6), e0199764.
-2. Carl, E., et al. (2019). Virtual reality exposure therapy for anxiety and related disorders: A meta-analysis. *Journal of Anxiety Disorders*, 61, 27-36.
-3. Goessl, V. C., et al. (2017). The effect of heart rate variability biofeedback training on stress and anxiety. *Applied Psychophysiology and Biofeedback*, 42(1), 15-24.
+2. Carl, E., et al. (2019). Virtual reality exposure therapy for anxiety and related disorders: A meta-analysis. *Journal of Anxiety Disorders*, 61, 27-36. [DOI](https://doi.org/10.1016/j.janxdis.2018.08.003)
+
+3. Goessl, V. C., et al. (2017). The effect of heart rate variability biofeedback training on stress and anxiety. *Applied Psychophysiology and Biofeedback*, 42(1), 15-24. [DOI](https://doi.org/10.1017/s0033291717001003)
+
 4. Linardon, J. (2020). Can acceptance, mindfulness, and self-compassion be learned by smartphone apps? *Behaviour Research and Therapy*, 124, 103512.
-5. Fitzpatrick, K. K., et al. (2017). Delivering cognitive behavior therapy to young adults with symptoms of depression and anxiety using a fully automated conversational agent (Woebot). *JMIR Mental Health*, 4(2), e19.
+5. Fitzpatrick, K. K., et al. (2017). Delivering cognitive behavior therapy to young adults with symptoms of depression and anxiety using a fully automated conversational agent (Woebot). *JMIR Mental Health*, 4(2), e19. [DOI](https://doi.org/10.2196/mental.7785)
+
 
 ---
 

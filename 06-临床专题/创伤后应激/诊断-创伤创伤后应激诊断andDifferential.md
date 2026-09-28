@@ -159,7 +159,8 @@ PTSD 极少单独存在，共病是常态而非例外：
 
 ## 参考文献
 
-1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.).
+1. American Psychiatric Association. (2022). *Diagnostic and Statistical Manual of Mental Disorders* (5th ed., text rev.). [DOI](https://doi.org/10.1176/appi.books.9780890425787)
+
 2. World Health Organization. (2018). *ICD-11 for Mortality and Morbidity Statistics*.
 3. Cloitre, M., et al. (2020). The International Trauma Questionnaire (ITQ). *BMC Psychiatry*.
 4. Bryant, R. A. (2010). Acute stress disorder vs PTSD. *Clinical Psychology Review*.

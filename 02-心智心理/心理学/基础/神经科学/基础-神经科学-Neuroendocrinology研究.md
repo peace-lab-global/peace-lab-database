@@ -13,7 +13,9 @@ intent_queries:
   - "神经内分泌的方法与实践"
 trigger_keywords: ["神经内分泌", "neuroscience", "心理学", "心理学基础"]
 cross_refs: []
----# 神经内分泌研究 | Neuroendocrinology Research
+---
+
+# 神经内分泌研究 | Neuroendocrinology Research
 
 > **文档类型**:神经科学核心机制 | Neuroscience Core Mechanism
 > **目标**:阐述神经内分泌系统的结构、激素调节机制及其在应激、情绪、认知中的作用

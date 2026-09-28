@@ -1,3 +1,11 @@
+---
+title: "互助案例 王钲"
+description: "案例要求：运用唯识观、缘起观底层逻辑助人，化解问题，不生硬套用专业术语。"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # 互助案例 王钲
 
 ## 要求

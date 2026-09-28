@@ -1,3 +1,11 @@
+---
+title: "Neuroscience & Meditation Crossroads | 神经科学与冥想交叉专题"
+description: "定位: 整合跨支柱的神经科学与冥想研究内容，为智能体和研究者提供统一的导航地图"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # Neuroscience & Meditation Crossroads | 神经科学与冥想交叉专题
 
 > **版本**: v1.0

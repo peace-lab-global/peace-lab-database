@@ -1,3 +1,11 @@
+---
+title: "物质成瘾生物学总览 | Substance Addiction Biology Overview"
+description: "成瘾是一种慢性脑疾病，涉及奖赏、动机、记忆及相关回路的神经生物学改变。"
+category: "生命科学"
+tags: [biology]
+last_updated: "2026-09"
+---
+
 # 物质成瘾生物学总览 | Substance Addiction Biology Overview
 
 > 成瘾是一种慢性脑疾病，涉及奖赏、动机、记忆及相关回路的神经生物学改变。

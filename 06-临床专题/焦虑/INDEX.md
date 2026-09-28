@@ -1,3 +1,11 @@
+---
+title: "焦虑"
+description: "焦虑 专题枢纽目录，共 21 个文档"
+category: "临床专题"
+tags: [index, hub, anxiety]
+last_updated: "2026-09"
+---
+
 # 焦虑
 
 > 本目录共 21 个文档

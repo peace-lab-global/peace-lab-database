@@ -145,7 +145,8 @@ MDMA 的神经药理学特征恰好**解除 PTSD 患者创伤加工的障碍**�
 ## 参考文献
 
 - Mithoefer, M. C., et al. (2019). 3,4-methylenedioxymethamphetamine (MDMA)-assisted psychotherapy for post-traumatic stress disorder. *Nature Medicine*, 25, 1295.
-- Mitchell, J. M., et al. (2021). MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study. *Nature Medicine*, 27, 1025–1033.
+- Mitchell, J. M., et al. (2021). MDMA-assisted therapy for severe PTSD: a randomized, double-blind, placebo-controlled phase 3 study. *Nature Medicine*, 27, 1025–1033. [DOI](https://doi.org/10.1038/s41591-021-01336-3)
+
 - Mitchell, J. M., et al. (2023). MDMA-assisted therapy for PTSD: phase 3 second trial. *Nature Medicine*.
 - Doblin, R., et al. (2014). A practical method to dissolve discord. *MAPS Bulletin*.
 - Feduccia, A. A., et al. (2019). MDMA-assisted psychotherapy for PTSD. *Progress in Neuro-Psychopharmacology and Biological Psychiatry*, 92, 125–140.

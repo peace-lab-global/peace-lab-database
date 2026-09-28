@@ -1,3 +1,11 @@
+---
+title: "疗愈师职业发展路径 | Healer Career Development Pathway"
+description: "从学习者到执业疗愈师的端到端路径：认证体系、伦理规范、督导支持、个案管理与开业实务。"
+category: "实践成长"
+tags: [personal-development]
+last_updated: "2026-09"
+---
+
 # 疗愈师职业发展路径 | Healer Career Development Pathway
 
 > 从学习者到执业疗愈师的端到端路径：认证体系、伦理规范、督导支持、个案管理与开业实务。

@@ -1,3 +1,11 @@
+---
+title: "哀伤丧恸"
+description: "哀伤丧恸 专题枢纽目录，共 15 个文档"
+category: "临床专题"
+tags: [index, hub, grief]
+last_updated: "2026-09"
+---
+
 # 哀伤丧恸
 
 > 本目录共 15 个文档

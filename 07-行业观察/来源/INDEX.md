@@ -1,3 +1,11 @@
+---
+title: "来源"
+description: "来源 专题枢纽目录，共 2 个文档"
+category: "行业观察"
+tags: [index, hub, sources]
+last_updated: "2026-09"
+---
+
 # 来源
 
 > 本目录共 2 个文档

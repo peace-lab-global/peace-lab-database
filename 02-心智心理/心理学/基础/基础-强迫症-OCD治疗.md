@@ -14,7 +14,9 @@ intent_queries:
   - "强迫症治疗的循证证据"
 trigger_keywords: ["强迫症治疗", "ocd", "treatment", "心理学", "心理学基础"]
 cross_refs: []
----# 强迫症治疗 | OCD Treatment
+---
+
+# 强迫症治疗 | OCD Treatment
 
 > **文档类型**:临床专题 | Clinical Topic
 > **目标**:系统阐述强迫症的循证治疗方法、机制与疗效

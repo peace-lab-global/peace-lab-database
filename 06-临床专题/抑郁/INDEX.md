@@ -1,3 +1,11 @@
+---
+title: "抑郁"
+description: "抑郁 专题枢纽目录，共 9 个文档"
+category: "临床专题"
+tags: [index, hub, depression]
+last_updated: "2026-09"
+---
+
 # 抑郁
 
 > 本目录共 9 个文档

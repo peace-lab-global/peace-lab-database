@@ -118,4 +118,5 @@ CAT 高度重视**结束**（因短程且有期限）。倒数第几次会写**�
 - Ryle, A., & Kerr, I. B. (2002). *Introducing Cognitive Analytic Therapy: Principles and Practice of a Relational Approach to Mental Health*. Wiley.
 - Kerr, I. B., Birkett, P. B. L., & Chanen, A. (2020). Cognitive analytic therapy. In *The Encyclopedia of Personality and Individual Differences*. Springer.
 - Chanen, A. M., et al. (2009). Early intervention for adolescents with borderline personality disorder. *Australian and New Zealand Journal of Psychiatry*, 43(5), 397–408.
-- Hepple, J., & Sutton, L. (Eds.). (2004). *Cognitive Analytic Therapy in Later Life*. Oxford University Press.
+- Hepple, J., & Sutton, L. (Eds.). (2004). *Cognitive Analytic Therapy in Later Life*. Oxford University Press. [DOI](https://doi.org/10.4324/9780203493533)
+

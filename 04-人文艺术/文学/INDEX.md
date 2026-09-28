@@ -1,3 +1,11 @@
+---
+title: "文学"
+description: "文学 专题枢纽目录，共 917 个文档"
+category: "人文艺术"
+tags: [index, hub, literature]
+last_updated: "2026-09"
+---
+
 # 文学
 
 > 本目录共 917 个文档

@@ -1,3 +1,11 @@
+---
+title: "Cross-Cultural Philosophy: East Meets West | 东西方哲学比较专题"
+description: "定位: 建立东西方智慧传统的跨文化比较框架，为智能体和研究者提供比较哲学导航"
+category: "智慧传统"
+tags: [philosophy]
+last_updated: "2026-09"
+---
+
 # Cross-Cultural Philosophy: East Meets West | 东西方哲学比较专题
 
 > **版本**: v1.0

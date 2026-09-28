@@ -439,9 +439,12 @@ McGoldrick（2005）在其关于家庭生命周期的经典著作中特别指出
 - Boszormenyi-Nagy, I. & Spark, G. (1973). *Invisible Loyalties: Reciprocity in Intergenerational Family Therapy*. New York: Harper & Row.
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. New York: Jason Aronson.
 - Bowlby, J. (1988). *A Secure Base: Parent-Child Attachment and Healthy Human Development*. New York: Basic Books.
+
 - Fingerman, K. L. (2001). *Aging Mothers and Their Adult Daughters: A Study in Mixed Emotions*. New York: Springer.
-- Fingerman, K. L., Cheng, Y. P., Wesselmann, E. D., Zarit, S., Furstenberg, F., & Birditt, K. S. (2012). Helicopter parents and landing pad kids: Intense parental support of grown children. *Journal of Marriage and Family*, 74(4), 880-896.
-- Goh, E. C. L. & Kuczynski, L. (2010). "Only children" and their coalition of parents: Considering grandparents and parents as joint caregivers in urban Xiamen, China. *Asian Journal of Social Psychology*, 13(4), 221-231.
+- Fingerman, K. L., Cheng, Y. P., Wesselmann, E. D., Zarit, S., Furstenberg, F., & Birditt, K. S. (2012). Helicopter parents and landing pad kids: Intense parental support of grown children. *Journal of Marriage and Family*, 74(4), 880-896. [DOI](https://doi.org/10.1111/j.1741-3737.2012.00987.x)
+
+- Goh, E. C. L. & Kuczynski, L. (2010). "Only children" and their coalition of parents: Considering grandparents and parents as joint caregivers in urban Xiamen, China. *Asian Journal of Social Psychology*, 13(4), 221-231. [DOI](https://doi.org/10.1111/j.1467-839x.2010.01314.x)
+
 - Gottman, J. M. (1999). *The Seven Principles for Making Marriage Work*. New York: Crown Publishers.
 - Ho, D. Y. F. (1996). Filial piety and its psychological consequences. In M. H. Bond (Ed.), *The Handbook of Chinese Psychology* (pp. 155-165). Hong Kong: Oxford University Press.
 - Ho, M. K. (1987). *Family Therapy with Ethnic Minorities*. Newbury Park, CA: Sage Publications.
@@ -449,16 +452,21 @@ McGoldrick（2005）在其关于家庭生命周期的经典著作中特别指出
 - McGoldrick, M., Giordano, J., & Garcia-Preto, N. (2005). *Ethnicity and Family Therapy* (3rd ed.). New York: Guilford Press.
 - McGoldrick, M., Gerson, R., & Petry, S. (2008). *Genograms: Assessment and Intervention* (3rd ed.). New York: W.W. Norton.
 - Minuchin, S. (1974). *Families and Family Therapy*. Cambridge, MA: Harvard University Press.
-- Papp, L. M., Cummings, E. M., & Goeke-Morey, M. C. (2009). For richer, for poorer: Money as a topic of marital conflict in the home. *Family Relations*, 58(1), 91-103.
+- Papp, L. M., Cummings, E. M., & Goeke-Morey, M. C. (2009). For richer, for poorer: Money as a topic of marital conflict in the home. *Family Relations*, 58(1), 91-103. [DOI](https://doi.org/10.1111/j.1741-3729.2008.00537.x)
+
 - Petronio, S. (2002). *Boundaries of Privacy: Dialectics of Disclosure*. Albany, NY: SUNY Press.
-- Silverstein, M. & Bengtson, V. L. (1997). Intergenerational solidarity and the structure of adult child-parent relationships in American families. *American Journal of Sociology*, 103(2), 429-460.
+- Silverstein, M. & Bengtson, V. L. (1997). Intergenerational solidarity and the structure of adult child-parent relationships in American families. *American Journal of Sociology*, 103(2), 429-460. [DOI](https://doi.org/10.1086/231213)
+
 - Ting-Toomey, S. (1988). Intercultural conflict styles: A face-negotiation theory. In Y. Y. Kim & W. B. Gudykunst (Eds.), *Theories in Intercultural Communication* (pp. 213-235). Newbury Park, CA: Sage.
 - van der Kolk, B. A. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. New York: Viking.
 - Walsh, F. (2006). *Strengthening Family Resilience* (2nd ed.). New York: Guilford Press.
 - White, M. & Epston, D. (1990). *Narrative Means to Therapeutic Ends*. New York: W.W. Norton.
 - Williamson, D. S. (1991). *The Intimacy Paradox: Personal Authority in the Family System*. New York: Guilford Press.
-- Willoughby, B. J., Carroll, J. S., & Busby, D. M. (2012). The different effects of "living together": Determining and comparing types of cohabiting couples. *Journal of Social and Personal Relationships*, 29(3), 397-419.
-- Yeh, K. H. & Bedford, O. (2003). A test of the dual filial piety model. *Asian Journal of Social Psychology*, 6(3), 215-228.
+
+- Willoughby, B. J., Carroll, J. S., & Busby, D. M. (2012). The different effects of "living together": Determining and comparing types of cohabiting couples. *Journal of Social and Personal Relationships*, 29(3), 397-419. [DOI](https://doi.org/10.1177/0265407511431184)
+
+- Yeh, K. H. & Bedford, O. (2003). A test of the dual filial piety model. *Asian Journal of Social Psychology*, 6(3), 215-228. [DOI](https://doi.org/10.1046/j.1467-839x.2003.00122.x)
+
 
 ---
 

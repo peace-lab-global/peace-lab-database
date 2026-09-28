@@ -352,30 +352,38 @@ Gottman (1999) 提出的**"接受影响"(Accept Influence)**原则值得深入�
 
 ## 参考文献
 
-- Adams, A. E., Sullivan, C. M., Bybee, D., & Greeson, M. R. (2008). Development of the Scale of Economic Abuse. *Violence Against Women*, 14(5), 563-588.
+- Adams, A. E., Sullivan, C. M., Bybee, D., & Greeson, M. R. (2008). Development of the Scale of Economic Abuse. *Violence Against Women*, 14(5), 563-588. [DOI](https://doi.org/10.1177/1077801208315529)
+
 - Arabi, S. (2017). *Becoming the Narcissist's Nightmare: How to Devalue and Discard the Narcissist While Supplying Yourself*. SCW Archer Publishing.
 - Bandura, A. (1997). *Self-Efficacy: The Exercise of Control*. W. H. Freeman.
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
-- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, 59(1), 73-81.
+- Christensen, A., & Heavey, C. L. (1990). Gender and social structure in the demand/withdraw pattern of marital conflict. *Journal of Personality and Social Psychology*, 59(1), 73-81. [DOI](https://doi.org/10.1037/0022-3514.59.1.73)
+
 - Cromwell, R. E., & Olson, D. H. (1975). *Power in Families*. Sage Publications.
-- Davies, J. M., & Lyon, E. (2014). *Domestic Violence Advocacy: Complex Lives/Difficult Choices* (2nd ed.). Sage Publications.
-- Forward, S. (1997). *Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You*. HarperCollins.
+- Davies, J. M., & Lyon, E. (2014). *Domestic Violence Advocacy: Complex Lives/Difficult Choices* (2nd ed.). Sage Publications. [DOI](https://doi.org/10.4135/9781483352916)
+
+- Forward, S. (1997). *Emotional Blackmail: When the People in Your Life Use Fear, Obligation, and Guilt to Manipulate You*. HarperCollins. [DOI](https://doi.org/10.1891/0889-8391.11.4.300)
+
 - French, J. R. P., & Raven, B. (1959). The bases of social power. In D. Cartwright (Ed.), *Studies in Social Power* (pp. 150-167). University of Michigan Press.
 - Gottman, J. M. (1994). *What Predicts Divorce? The Relationship Between Marital Processes and Marital Outcomes*. Lawrence Erlbaum Associates.
 - Gottman, J. M. (1999). *The Seven Principles for Making Marriage Work*. Harmony Books.
 - Herman, J. L. (1992). *Trauma and Recovery: The Aftermath of Violence*. Basic Books.
 - Hochschild, A. R. (1983). *The Managed Heart: Commercialization of Human Feeling*. University of California Press.
 - Hochschild, A. R. (1989). *The Second Shift: Working Families and the Revolution at Home*. Viking.
-- Jacobson, N. S., & Gottman, J. M. (1998). *When Men Batter Women: New Insights into Ending Abusive Relationships*. Simon & Schuster.
+- Jacobson, N. S., & Gottman, J. M. (1998). *When Men Batter Women: New Insights into Ending Abusive Relationships*. Simon & Schuster. [DOI](https://doi.org/10.2307/353906)
+
 - Johnson, M. P. (2008). *A Typology of Domestic Violence: Intimate Terrorism, Violent Resistance, and Situational Couple Violence*. Northeastern University Press.
+
 - Knudson-Martin, C., & Mahoney, A. R. (2009). *Couples, Gender, and Power: Creating Change in Intimate Relationships*. Springer.
 - Levant, R. F. (1998). Desperately seeking language: Understanding, assessing, and treating normative male alexithymia. In W. S. Pollack & R. F. Levant (Eds.), *New Psychotherapy for Men* (pp. 35-56). Wiley.
 - Linehan, M. M. (1993). *Cognitive-Behavioral Treatment of Borderline Personality Disorder*. Guilford Press.
 - McGoldrick, M., Giordano, J., & Garcia-Preto, N. (2005). *Ethnicity and Family Therapy* (3rd ed.). Guilford Press.
-- Munsch, C. L. (2015). Her support, his support: Money, masculinity, and marital infidelity. *American Sociological Review*, 80(3), 469-495.
+- Munsch, C. L. (2015). Her support, his support: Money, masculinity, and marital infidelity. *American Sociological Review*, 80(3), 469-495. [DOI](https://doi.org/10.1177/0003122415579989)
+
 - Raven, B. H. (1965). Social influence and power. In I. D. Steiner & M. Fishbein (Eds.), *Current Studies in Social Psychology* (pp. 371-382). Holt, Rinehart & Winston.
 - Reis, H. T., & Shaver, P. R. (1988). Intimacy as an interpersonal process. In S. Duck (Ed.), *Handbook of Personal Relationships* (pp. 367-389). Wiley.
-- Schwartz, P. (1994). *Peer Marriage: How Love Between Equals Really Works*. Free Press.
+- Schwartz, P. (1994). *Peer Marriage: How Love Between Equals Really Works*. Free Press. [DOI](https://doi.org/10.2307/2076888)
+
 - Stark, E. (2007). *Coercive Control: How Men Entrap Women in Personal Life*. Oxford University Press.
 - Stern, R. (2007). *The Gaslight Effect: How to Spot and Survive the Hidden Manipulation Others Use to Control Your Life*. Harmony Books.
 - Sue, D. W. (2010). *Microaggressions in Everyday Life: Race, Gender, and Sexual Orientation*. Wiley.

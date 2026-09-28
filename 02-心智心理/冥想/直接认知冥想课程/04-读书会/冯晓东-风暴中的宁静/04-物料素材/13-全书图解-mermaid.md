@@ -1,3 +1,11 @@
+---
+title: "全书图解 · Mermaid"
+description: "用 Mermaid 图表总-分呈现《风暴中的宁静》核心理论框架。可直接复制到支持 Mermaid 的 Markdown 编辑器、Obsidian、Notion、GitHub 等使用。"
+category: "心智与心理学"
+tags: [meditation]
+last_updated: "2026-09"
+---
+
 # 全书图解 · Mermaid
 
 > 用 Mermaid 图表总-分呈现《风暴中的宁静》核心理论框架。可直接复制到支持 Mermaid 的 Markdown 编辑器、Obsidian、Notion、GitHub 等使用。

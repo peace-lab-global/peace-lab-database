@@ -1,3 +1,11 @@
+---
+title: "CBT-I 认知行为疗法 | Cognitive Behavioral Therapy for Insomnia"
+description: "CBT-I是慢性失眠的一线治疗（ACP 2016强推荐），效果优于药物且长期获益更持久。"
+category: "生命科学"
+tags: [biology]
+last_updated: "2026-09"
+---
+
 # CBT-I 认知行为疗法 | Cognitive Behavioral Therapy for Insomnia
 
 > CBT-I是慢性失眠的一线治疗（ACP 2016强推荐），效果优于药物且长期获益更持久。

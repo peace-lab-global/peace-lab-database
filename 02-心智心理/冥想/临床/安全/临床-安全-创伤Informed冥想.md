@@ -118,8 +118,10 @@ cross_refs: []
 
 ## 参考文献
 
-- van der Kolk, B. A. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.
+- van der Kolk, B. A. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking. [DOI](https://doi.org/10.7812/tpp/14-211)
+
 - Levine, P. A. (1997). *Waking the Tiger: Healing Trauma*. North Atlantic Books.
 - Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness: Practices for Safe and Transformative Healing*. W. W. Norton.
 - Lindahl, J. R., Fisher, N. E., Cooper, D. J., Rosen, R. K., & Britton, W. B. (2017). The varieties of contemplative experience. *PLOS ONE*, 12(5), e0176239.
-- Britton, W. B. (2019). Can mindfulness be too much of a good thing? The value of a middle way. *Current Opinion in Psychology*, 28, 159–165.
+- Britton, W. B. (2019). Can mindfulness be too much of a good thing? The value of a middle way. *Current Opinion in Psychology*, 28, 159–165. [DOI](https://doi.org/10.1016/j.copsyc.2018.12.011)
+

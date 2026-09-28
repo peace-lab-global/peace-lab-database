@@ -1,3 +1,11 @@
+---
+title: "内分泌系统与疗愈整合 | Endocrine System & Healing Integration"
+description: "内分泌系统通过激素调控全身几乎所有生理过程，是身心交互的核心中介——情绪、压力、睡眠、代谢、免疫、生殖均受其调控。理解内分泌是泛疗愈实践的生物医学基础。"
+category: "生命科学"
+tags: [biology]
+last_updated: "2026-09"
+---
+
 # 内分泌系统与疗愈整合 | Endocrine System & Healing Integration
 
 > 内分泌系统通过激素调控全身几乎所有生理过程，是身心交互的核心中介——情绪、压力、睡眠、代谢、免疫、生殖均受其调控。理解内分泌是泛疗愈实践的生物医学基础。

@@ -16,7 +16,8 @@ trigger_keywords: ["cbt", "焦虑症治疗监测与长期随访", "Anxiety", "Tr
 cross_refs: []
 disclaimer: true
 last_disclaimer_added: "2026-06-23"
-------
+---
+
 
 > ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
@@ -324,7 +325,8 @@ last_disclaimer_added: "2026-06-23"
 2. NICE (2019). *Generalised anxiety disorder and panic disorder in adults: Management*. Clinical guideline CG113 (updated).
 3. Barkham, M., et al. (2006). Dose-effect relations and responsive regulation of treatment duration. *Journal of Consulting and Clinical Psychology*, 74(1), 160-167.
 4. Bandelow, B., et al. (2022). Treatment of anxiety disorders. *Dialogues in Clinical Neuroscience*, 19(2), 93-107.
-5. Craske, M. G., et al. (2014). Maximizing exposure therapy: An inhibitory learning approach. *Behaviour Research and Therapy*, 58, 10-23.
+5. Craske, M. G., et al. (2014). Maximizing exposure therapy: An inhibitory learning approach. *Behaviour Research and Therapy*, 58, 10-23. [DOI](https://doi.org/10.1016/j.brat.2014.04.006)
+
 
 ---
 

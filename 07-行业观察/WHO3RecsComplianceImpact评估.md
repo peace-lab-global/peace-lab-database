@@ -1,3 +1,11 @@
+---
+title: "WHO 3 Recommendations: Compliance Impact Assessment"
+description: "1. Publish longitudinal outcome data on usage patterns and dependency indicators"
+category: "行业观察"
+tags: [行业观察, who]
+last_updated: "2026-09"
+---
+
 # WHO 3 Recommendations: Compliance Impact Assessment
 
 **Date**: 2026-07-09  

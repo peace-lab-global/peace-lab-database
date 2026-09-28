@@ -1,3 +1,11 @@
+---
+title: "心理学"
+description: "心理学 专题枢纽目录，共 1224 个文档"
+category: "心智与心理学"
+tags: [index, hub, psychology]
+last_updated: "2026-09"
+---
+
 # 心理学
 
 > 本目录共 1224 个文档

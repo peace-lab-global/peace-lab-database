@@ -214,12 +214,16 @@ John Gottman 在 *What Makes Love Last?* 中提出了处理背叛后修复的三
 - Baumeister, R. F., Exline, J. J., & Sommer, K. L. (1998). The victim role, grudge theory, and two dimensions of forgiveness. In E. L. Worthington (Ed.), *Dimensions of Forgiveness* (pp. 79-104). Templeton Foundation Press.
 - Brown, B. (2012). *Daring Greatly*. Gotham Books.
 - Enright, R. D. (2001). *Forgiveness Is a Choice: A Step-by-Step Process for Resolving Anger and Restoring Hope*. APA.
-- Gordon, K. C., Baucom, D. H., & Snyder, D. K. (2004). An integrative intervention for promoting recovery from extramarital affairs. *Journal of Marital and Family Therapy*, 30(2), 213-231.
-- Gross, J. J. (2002). Emotion regulation: Affective, cognitive, and social consequences. *Psychophysiology*, 39(3), 281-291.
+- Gordon, K. C., Baucom, D. H., & Snyder, D. K. (2004). An integrative intervention for promoting recovery from extramarital affairs. *Journal of Marital and Family Therapy*, 30(2), 213-231. [DOI](https://doi.org/10.1111/j.1752-0606.2004.tb01235.x)
+
+- Gross, J. J. (2002). Emotion regulation: Affective, cognitive, and social consequences. *Psychophysiology*, 39(3), 281-291. [DOI](https://doi.org/10.1017/s0048577201393198)
+
 - Johnson, S. M. (2004). *The Practice of Emotionally Focused Couple Therapy* (2nd ed.). Brunner-Routledge.
-- Johnson, S. M., Makinen, J. A., & Millikin, J. W. (2001). Attachment injuries in couple relationships: A new perspective on impasses in couples therapy. *Journal of Marital and Family Therapy*, 27(2), 145-155.
+- Johnson, S. M., Makinen, J. A., & Millikin, J. W. (2001). Attachment injuries in couple relationships: A new perspective on impasses in couples therapy. *Journal of Marital and Family Therapy*, 27(2), 145-155. [DOI](https://doi.org/10.1111/j.1752-0606.2001.tb01152.x)
+
 - Lawler, K. A. et al. (2003). A change of heart: Cardiovascular correlates of forgiveness. *Journal of Behavioral Medicine*, 26(5), 373-393.
-- Ricciardi, E. et al. (2013). How the brain heals emotional wounds: The functional neuroanatomy of forgiveness. *Frontiers in Human Neuroscience*, 7, 839.
+- Ricciardi, E. et al. (2013). How the brain heals emotional wounds: The functional neuroanatomy of forgiveness. *Frontiers in Human Neuroscience*, 7, 839. [DOI](https://doi.org/10.3389/fnhum.2013.00839)
+
 - Tangney, J. P., & Dearing, R. L. (2002). *Shame and Guilt*. Guilford Press.
 - Witvliet, C. V. O., Ludwig, T. E., & Vander Laan, K. L. (2001). Granting forgiveness or harboring grudges. *Psychological Science*, 12(2), 117-123.
 - Worthington, E. L. (2003). *Forgiving and Reconciling: Bridges to Wholeness and Hope*. InterVarsity Press.

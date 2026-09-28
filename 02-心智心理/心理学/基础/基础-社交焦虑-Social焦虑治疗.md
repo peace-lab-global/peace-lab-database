@@ -113,7 +113,9 @@ cross_refs: []
 ## 参考文献
 
 - Clark, D. M., & Wells, A. (1995). A cognitive model of social phobia. In R. G. Heimberg et al. (Eds.), *Social Phobia: Diagnosis, Assessment, and Treatment* (pp. 69–93). Guilford Press.
-- Clark, D. M., Ehlers, A., Hackmann, A., et al. (2006). Cognitive therapy versus exposure and applied relaxation in social phobia: a randomized controlled trial. *Journal of Consulting and Clinical Psychology*, 74(3), 568–578.
+- Clark, D. M., Ehlers, A., Hackmann, A., et al. (2006). Cognitive therapy versus exposure and applied relaxation in social phobia: a randomized controlled trial. *Journal of Consulting and Clinical Psychology*, 74(3), 568–578. [DOI](https://doi.org/10.1037/0022-006x.74.3.568)
+
 - Heimberg, R. G., & Becker, R. E. (2002). *Cognitive-Behavioral Group Therapy for Social Phobia*. Guilford Press.
 - Mayo-Wilson, E., Dias, S., Mavranezouli, I., et al. (2014). Psychological and pharmacological interventions for social anxiety disorder in adults. *The Lancet Psychiatry*, 1(5), 368–376.
-- Wells, A., Clark, D. M., Salkovskis, P., et al. (1995). Social phobia: the role of in-situation safety behaviors in maintaining anxiety and negative beliefs. *Behaviour Therapy*, 26(1), 153–161.
+- Wells, A., Clark, D. M., Salkovskis, P., et al. (1995). Social phobia: the role of in-situation safety behaviors in maintaining anxiety and negative beliefs. *Behaviour Therapy*, 26(1), 153–161. [DOI](https://doi.org/10.1016/s0005-7894(05)80088-7)
+

@@ -17,7 +17,8 @@ cross_refs:
     relation: "adverse/effects/emergency"
 disclaimer: true
 last_disclaimer_added: "2026-06-23"
-------
+---
+
 
 > ⚠️ **临床免责声明**:本文档仅供学习与研究,不构成医疗建议。诊断与治疗需由专业人员做出。如有心理困扰或紧急情况,请咨询专业人士或拨打 24 小时心理援助热线(中国:010-82951332 / 400-161-9995;国际:988 Lifeline)。完整资源见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
 
@@ -190,13 +191,15 @@ last_disclaimer_added: "2026-06-23"
 
 ## 参考文献
 
-1. Britton, W. B., et al. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. *Clinical Psychological Science, 10*(6), 1185-1204.
+1. Britton, W. B., et al. (2021). Defining and measuring meditation-related adverse effects in mindfulness-based programs. *Clinical Psychological Science, 10*(6), 1185-1204. [DOI](https://doi.org/10.1177/2167702621996340)
+
 2. Lindahl, J. R., et al. (2017). The varieties of contemplative experience. *PLOS ONE, 12*(5), e0176239.
 3. Farias, M., et al. (2020). Adverse events in meditation practices and meditation-based therapies. *Acta Psychiatrica Scandinavica, 142*(5), 374-393.
 4. Schlosser, M., et al. (2019). Unpleasant meditation-related experiences in regular meditators. *PLOS ONE, 14*(5), e0216643.
 5. Grof, S., & Grof, C. (1989). *Spiritual Emergency: When Personal Transformation Becomes a Crisis*.
 6. Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness*.
-7. Willoughby, B. B. (2019). Can mindfulness be too much of a good thing? *Current Opinion in Psychology, 28*, 159-165.
+7. Willoughby, B. B. (2019). Can mindfulness be too much of a good thing? *Current Opinion in Psychology, 28*, 159-165. [DOI](https://doi.org/10.31231/osf.io/d4x5c)
+
 
 ---
 *Created by Peace Lab Database Project*

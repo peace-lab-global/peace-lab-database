@@ -1,3 +1,11 @@
+---
+title: "叙事疗法总览 | Narrative Therapy Overview"
+description: "叙事疗法由Michael White和David Epston创立，核心信念是'人不是问题，问题才是问题'——通过外化对话和重写生命故事实现疗愈。"
+category: "人文艺术"
+tags: [arts]
+last_updated: "2026-09"
+---
+
 # 叙事疗法总览 | Narrative Therapy Overview
 
 > 叙事疗法由Michael White和David Epston创立，核心信念是"人不是问题，问题才是问题"——通过外化对话和重写生命故事实现疗愈。

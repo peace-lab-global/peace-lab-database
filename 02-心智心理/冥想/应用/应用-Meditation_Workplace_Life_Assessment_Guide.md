@@ -1401,25 +1401,36 @@ Cal Newport 在《Digital Minimalism》（2019）中提出**数字极简主义**
 
 ## 参考文献
 
-- Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day's work: Boundaries and micro role transitions. *Academy of Management Review*, 25(3), 472-491.
+- Ashforth, B. E., Kreiner, G. E., & Fugate, M. (2000). All in a day's work: Boundaries and micro role transitions. *Academy of Management Review*, 25(3), 472-491. [DOI](https://doi.org/10.2307/259305)
+
 - Bishop, S. R., Lau, M., Shapiro, S., et al. (2004). Mindfulness: A proposed operational definition. *Clinical Psychology: Science and Practice*, 11(3), 230-241.
-- Clark, S. C. (2000). Work/family border theory: A new theory of work/family balance. *Human Relations*, 53(6), 747-770.
+- Clark, S. C. (2000). Work/family border theory: A new theory of work/family balance. *Human Relations*, 53(6), 747-770. [DOI](https://doi.org/10.1177/0018726700536001)
+
 - Derks, D., & Bakker, A. B. (2014). Smartphone use, work-home interference, and burnout: A diary study on the role of recovery. *Applied Psychology*, 63(3), 411-440.
 - Firth, J., Torous, J., & Stubbs, B. (2019). The emerging role of smartphone apps in mental health. *World Psychiatry*, 18(1), 108-109.
 - Fritz, C., Yankelevich, M., Zarubin, A., & Barger, P. (2013). Happy, healthy, and productive: The role of detachment from work during nonwork time. *Journal of Applied Psychology*, 95(5), 977-983.
-- Greenhaus, J. H., & Beutell, N. J. (1985). Sources of conflict between work and family roles. *Academy of Management Review*, 10(1), 76-88.
-- Hanley, A. W., Warner, A. R., & Garland, E. L. (2015). Associations between mindfulness, psychological well-being, and subjective well-being with respect to contemplative practice. *Journal of Happiness Studies*, 16(6), 1423-1436.
-- Kreiner, G. E. (2006). Consequences of work-home segmentation or integration: A person-environment fit perspective. *Journal of Organizational Behavior*, 27(4), 485-507.
+- Greenhaus, J. H., & Beutell, N. J. (1985). Sources of conflict between work and family roles. *Academy of Management Review*, 10(1), 76-88. [DOI](https://doi.org/10.2307/258214)
+
+- Hanley, A. W., Warner, A. R., & Garland, E. L. (2015). Associations between mindfulness, psychological well-being, and subjective well-being with respect to contemplative practice. *Journal of Happiness Studies*, 16(6), 1423-1436. [DOI](https://doi.org/10.1007/s10902-014-9569-5)
+
+- Kreiner, G. E. (2006). Consequences of work-home segmentation or integration: A person-environment fit perspective. *Journal of Organizational Behavior*, 27(4), 485-507. [DOI](https://doi.org/10.1002/job.386)
+
 - LaChance, A. (2019). *Digital minimalism: The art of mindful technology use*. Independently published.
 - Lanaj, K., & Johnson, R. E. (2020). When incivility leads to creativity: The role of need for affiliation and work-based self-esteem. *Journal of Occupational Health Psychology*, 25(3), 195-208.
-- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998-1009.
+- Lally, P., van Jaarsveld, C. H. M., Potts, H. W. W., & Wardle, J. (2010). How are habits formed: Modelling habit formation in the real world. *European Journal of Social Psychology*, 40(6), 998-1009. [DOI](https://doi.org/10.1002/ejsp.674)
+
 - Michel, A., Bosch, C., & Rexroth, M. (2021). Mindfulness and recovery from work: A meta-analysis. *Journal of Occupational Health Psychology*, 26(3), 210-227.
 - Newport, C. (2019). *Digital minimalism: Choosing a focused life in a noisy world*. Portfolio.
-- Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. *Computers in Human Behavior*, 29(4), 1841-1848.
-- Radtke, T., Apel, T., Schenkel, K., et al. (2022). Digital detox: An effective solution in the smartphone era? A systematic literature review. *Mobile Media & Communication*, 10(2), 241-261.
-- Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work. *Journal of Occupational Health Psychology*, 12(3), 204-221.
-- Syvertsen, T., & Enli, G. (2020). Digital detox: Media resistance and the promise of authenticity. *Convergence*, 26(5-6), 1059-1071.
-- Twenge, J. M., & Campbell, W. K. (2018). Associations between screen time and lower psychological well-being among children and adolescents: Evidence from a population-based study. *Preventive Medicine Reports*, 12, 271-283.
+- Przybylski, A. K., Murayama, K., DeHaan, C. R., & Gladwell, V. (2013). Motivational, emotional, and behavioral correlates of fear of missing out. *Computers in Human Behavior*, 29(4), 1841-1848. [DOI](https://doi.org/10.1016/j.chb.2013.02.014)
+
+- Radtke, T., Apel, T., Schenkel, K., et al. (2022). Digital detox: An effective solution in the smartphone era? A systematic literature review. *Mobile Media & Communication*, 10(2), 241-261. [DOI](https://doi.org/10.1177/20501579211028647)
+
+- Sonnentag, S., & Fritz, C. (2007). The Recovery Experience Questionnaire: Development and validation of a measure for assessing recuperation and unwinding from work. *Journal of Occupational Health Psychology*, 12(3), 204-221. [DOI](https://doi.org/10.1037/1076-8998.12.3.204)
+
+- Syvertsen, T., & Enli, G. (2020). Digital detox: Media resistance and the promise of authenticity. *Convergence*, 26(5-6), 1059-1071. [DOI](https://doi.org/10.1177/1354856519847325)
+
+- Twenge, J. M., & Campbell, W. K. (2018). Associations between screen time and lower psychological well-being among children and adolescents: Evidence from a population-based study. *Preventive Medicine Reports*, 12, 271-283. [DOI](https://doi.org/10.1016/j.pmedr.2018.10.003)
+
 - Wilkerson, A. H., Goei, R. M., & Koenig, A. M. (2022). Associations between screen time and lower psychological well-being. *Cyberpsychology, Behavior, and Social Networking*, 25(1), 22-29.
 
 ---

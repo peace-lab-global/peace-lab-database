@@ -1,3 +1,11 @@
+---
+title: "Evidence-Based Psychology RCT Evidence Summary Template | 循证心理学 RCT 证据摘要模板"
+description: "版本: v1.0"
+category: "跨领域研究"
+tags: [跨领域研究]
+last_updated: "2026-09"
+---
+
 # Evidence-Based Psychology RCT Evidence Summary Template | 循证心理学 RCT 证据摘要模板
 
 > **版本**: v1.0

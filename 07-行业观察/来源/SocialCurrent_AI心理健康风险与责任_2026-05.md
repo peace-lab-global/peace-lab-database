@@ -1,3 +1,11 @@
+---
+title: "Social Current: AI in Mental Health Care — Promise, Risk, and Responsibility"
+description: "1. 自动化模型分析病历，早期识别严重疾病的预警信号"
+category: "行业观察"
+tags: [sources]
+last_updated: "2026-09"
+---
+
 # Social Current: AI in Mental Health Care — Promise, Risk, and Responsibility
 
 **来源**: https://www.social-current.org/2026/05/artificial-intelligence-in-mental-health-care-promise-risk-and-responsibility/

@@ -187,7 +187,8 @@ cross_refs: []
 4. Segal, Z. V., Williams, J. M. G., & Teasdale, J. D. (2013). *Mindfulness-Based Cognitive Therapy for Depression* (2nd ed.). Guilford Press.
 5. Treleaven, D. A. (2018). *Trauma-Sensitive Mindfulness*. W.W. Norton.
 6. Britton, W. B., et al. (2021). Defining and measuring meditation-related adverse effects. *Clinical Psychological Science*.
-7. Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books.
+7. Purser, R. (2019). *McMindfulness: How Mindfulness Became the New Capitalist Spirituality*. Repeater Books. [DOI](https://doi.org/10.61387/s.2019.34.41)
+
 
 ---
 *Created by Peace Lab Database Project*

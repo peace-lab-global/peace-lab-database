@@ -1,3 +1,11 @@
+---
+title: "食物"
+description: "食物 专题枢纽目录，共 38 个文档"
+category: "生命科学"
+tags: [index, hub, nutrition]
+last_updated: "2026-09"
+---
+
 # 食物
 
 > 本目录共 38 个文档

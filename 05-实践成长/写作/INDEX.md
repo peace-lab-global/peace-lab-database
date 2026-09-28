@@ -1,3 +1,11 @@
+---
+title: "写作"
+description: "写作 专题枢纽目录，共 19 个文档"
+category: "实践成长"
+tags: [index, hub, writing]
+last_updated: "2026-09"
+---
+
 # 写作
 
 > 本目录共 19 个文档

@@ -1,3 +1,11 @@
+---
+title: "疗法"
+description: "疗法 专题枢纽目录，共 164 个文档"
+category: "心智与心理学"
+tags: [index, hub, therapy]
+last_updated: "2026-09"
+---
+
 # 疗法
 
 > 本目录共 164 个文档

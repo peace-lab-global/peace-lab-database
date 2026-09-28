@@ -1,3 +1,11 @@
+---
+title: "睡眠卫生与昼夜节律 | Sleep Hygiene & Chronobiology"
+description: "光是最强的授时因子，通过ipRGC(含黑视素的内在光敏视网膜神经节细胞)→SCN通路调节昼夜节律。"
+category: "生命科学"
+tags: [biology]
+last_updated: "2026-09"
+---
+
 # 睡眠卫生与昼夜节律 | Sleep Hygiene & Chronobiology
 
 ---

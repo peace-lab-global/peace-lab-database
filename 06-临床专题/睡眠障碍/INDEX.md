@@ -1,3 +1,11 @@
+---
+title: "睡眠障碍"
+description: "睡眠障碍 专题枢纽目录，共 20 个文档"
+category: "临床专题"
+tags: [index, hub, sleep]
+last_updated: "2026-09"
+---
+
 # 睡眠障碍
 
 > 本目录共 20 个文档

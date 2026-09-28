@@ -301,20 +301,26 @@ Kristin Neff (2011) 的自我慈悲(Self-Compassion)研究表明，对自己的�
 ## 参考文献
 
 - Alberti, R. E. & Emmons, M. L. (2017). *Your Perfect Right: Assertiveness and Equality in Your Life and Relationships* (10th ed.). Impact Publishers.
-- Averill, J. R. (1983). Studies on anger and aggression: Implications for theories of emotion. *American Psychologist*, 38(11), 1145-1160.
-- Bartholomew, K. & Horowitz, L. M. (1991). Attachment styles among young adults: A test of a four-category model. *Journal of Personality and Social Psychology*, 61(2), 226-244.
+- Averill, J. R. (1983). Studies on anger and aggression: Implications for theories of emotion. *American Psychologist*, 38(11), 1145-1160. [DOI](https://doi.org/10.1037/0003-066x.38.11.1145)
+
+- Bartholomew, K. & Horowitz, L. M. (1991). Attachment styles among young adults: A test of a four-category model. *Journal of Personality and Social Psychology*, 61(2), 226-244. [DOI](https://doi.org/10.1037/0022-3514.61.2.226)
+
 - Bowen, M. (1978). *Family Therapy in Clinical Practice*. Jason Aronson.
 - Brach, T. (2013). *True Refuge: Finding Peace and Freedom in Your Own Awakened Heart*. Bantam Books.
-- Brescoll, V. L. & Uhlmann, E. L. (2008). Can an angry woman get ahead? Status conferral, gender, and expression of emotion in the workplace. *Psychological Science*, 19(3), 268-275.
+- Brescoll, V. L. & Uhlmann, E. L. (2008). Can an angry woman get ahead? Status conferral, gender, and expression of emotion in the workplace. *Psychological Science*, 19(3), 268-275. [DOI](https://doi.org/10.1111/j.1467-9280.2008.02079.x)
+
 - Brody, L. R. & Hall, J. A. (2008). Gender and emotion in context. In M. Lewis, J. M. Haviland-Jones, & L. F. Barrett (Eds.), *Handbook of Emotions* (3rd ed., pp. 395-408). Guilford Press.
 - Cox, D. L., Stabb, S. D., & Bruckner, K. H. (2004). *Women's Anger: Clinical and Developmental Perspectives*. Routledge.
 - Fisher, R. & Ury, W. (1981). *Getting to Yes: Negotiating Agreement Without Giving In*. Penguin Books.
 - Gottman, J. M. (1994). *What Predicts Divorce? The Relationship Between Marital Processes and Marital Outcomes*. Lawrence Erlbaum Associates.
 - Gottman, J. M. & Levenson, R. W. (1988). The social psychophysiology of marriage. In P. Noller & M. A. Fitzpatrick (Eds.), *Perspectives on Marital Interaction* (pp. 182-200). Multilingual Matters.
 - Gottman, J. M. & Silver, N. (1999). *The Seven Principles for Making Marriage Work*. Harmony Books.
-- Greenberg, L. S. (2015). *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2nd ed.). American Psychological Association.
-- Greenberg, L. S. & Goldman, R. N. (2019). *Clinical Handbook of Emotion-Focused Therapy*. American Psychological Association.
-- Gross, J. J. (2002). Emotion regulation: Affective, cognitive, and social consequences. *Psychophysiology*, 39(3), 281-291.
+- Greenberg, L. S. (2015). *Emotion-Focused Therapy: Coaching Clients to Work Through Their Feelings* (2nd ed.). American Psychological Association. [DOI](https://doi.org/10.1037/14692-000)
+
+- Greenberg, L. S. & Goldman, R. N. (2019). *Clinical Handbook of Emotion-Focused Therapy*. American Psychological Association. [DOI](https://doi.org/10.1037/0000112-000)
+
+- Gross, J. J. (2002). Emotion regulation: Affective, cognitive, and social consequences. *Psychophysiology*, 39(3), 281-291. [DOI](https://doi.org/10.1017/s0048577201393198)
+
 - Hayes, S. C., Strosahl, K. D., & Wilson, K. G. (2012). *Acceptance and Commitment Therapy: The Process and Practice of Mindful Change* (2nd ed.). Guilford Press.
 - Jacobson, E. (1938). *Progressive Relaxation*. University of Chicago Press.
 - Johnson, S. M. (2008). *Hold Me Tight: Seven Conversations for a Lifetime of Love*. Little, Brown and Company.
@@ -328,11 +334,13 @@ Kristin Neff (2011) 的自我慈悲(Self-Compassion)研究表明，对自己的�
 - Real, T. & Parker, D. (2008). *The New Rules of Marriage: What You Need to Know to Make Love Work*. Ballantine Books.
 - Rosenberg, M. B. (2015). *Nonviolent Communication: A Language of Life* (3rd ed.). PuddleDancer Press.
 - Siegel, D. J. (2012). *The Developing Mind: How Relationships and the Brain Interact to Shape Who We Are* (2nd ed.). Guilford Press.
+
 - Spielberger, C. D. (1999). *State-Trait Anger Expression Inventory-2 (STAXI-2): Professional Manual*. Psychological Assessment Resources.
 - Taylor, J. B. (2006). *My Stroke of Insight: A Brain Scientist's Personal Journey*. Viking.
 - Thich Nhat Hanh (2001). *Anger: Wisdom for Cooling the Flames*. Riverhead Books.
 - Thomas, S. P. (2006). Cultural and gender considerations in the assessment and treatment of anger-related disorders. In E. L. Feindler (Ed.), *Anger-Related Disorders: A Practitioner's Guide to Comparative Treatments* (pp. 71-95). Springer.
-- van der Kolk, B. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking.
+- van der Kolk, B. (2014). *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking. [DOI](https://doi.org/10.7812/tpp/14-211)
+
 - Wetzler, S. (1993). *Living with the Passive-Aggressive Man*. Simon & Schuster.
 
 ---
