@@ -13,7 +13,11 @@ intent_queries:
   - "Direct Recognition vs Mindfulness: Comprehensive Comparison的方法与实践"
 trigger_keywords: ["Direct", "Recognition", "vs", "Mindfulness:", "Comprehensive"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Direct Recognition vs Mindfulness: Comprehensive Comparison (直接认知冥想与正念冥想：系统性异同对比)
 
 ## 概述 (Overview)
@@ -373,7 +377,7 @@ cross_refs: []
 ---
 
 **交叉引用导航：**
-- 直接认知完整体系：[Foundations](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E5%9F%BA%E7%A1%80.md) | [Traditions](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionTraditions.md) | [Neuroscience](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md) | [Assessment Stages](传统-佛教-直接认知-Meditation_Direct_Recognition_Assessment_Stages.md) | [Pointing Out](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionPointingOut.md) | [History & Lineage](传统-佛教-直接认知-Meditation_Direct_Recognition_History_Lineage.md) | [Daily Integration](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionDaily%E6%95%B4%E5%90%88.md)
+- 直接认知完整体系：[Foundations](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E5%9F%BA%E7%A1%80.md) | [Traditions](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionTraditions.md) | [Neuroscience](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md) | [Assessment Stages](传统-佛教-直接认知-Meditation_Direct_Recognition_Assessment_Stages.md) | [Pointing Out](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionPointingOut.md) | [History & Lineage](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionHistory%E4%BC%A0%E6%89%BF.md) | [Daily Integration](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionDaily%E6%95%B4%E5%90%88.md)
 - 正念完整体系：[Mindfulness Core](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md) | [MBSR](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) | [MBCT](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95.md) | [Clinical Applications](../../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%B4%E5%BA%8AApplications.md)
 - 广义路径对比：[Direct & Indirect Recognition Comparison](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectIndirectRecognition.md)
 

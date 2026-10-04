@@ -23,7 +23,11 @@ cross_refs:
   relation: 炎症/孤独/免疫
 - path: 03-生命科学/生物学/肠道微生物/肠道微生物-肠道微生物心理健康.md
   relation: gut/炎症/psychobiotics
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 孤独与微生物-肠-脑轴 | Loneliness, Gut Microbiota & the Microbiome-Gut-Brain Axis
 
 > **文档类型**：前沿学术专题 | Frontier Academic Monograph  

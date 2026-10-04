@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (3)
 
-- [芭蕾-综合-Ballet_General_Resources.md](芭蕾-综合-Ballet_General_Resources.md)
+- [芭蕾-综合-Ballet_General_Resources.md](%E8%8A%AD%E8%95%BE-%E7%BB%BC%E5%90%88-%E8%8A%AD%E8%95%BEGeneral%E8%B5%84%E6%BA%90.md)
 - [芭蕾-综合-芭蕾General资源.md](芭蕾-综合-芭蕾General资源.md)
 
 

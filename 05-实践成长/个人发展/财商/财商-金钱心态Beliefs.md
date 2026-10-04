@@ -13,7 +13,11 @@ intent_queries:
   - "金钱信念系统的方法与实践"
 trigger_keywords: ["金钱信念系统", "Money", "Mindset", "Beliefs"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 金钱信念系统 (Money Mindset & Beliefs)
 
 > **学科定位**: 05-实践成长 > personal-development > financial-literacy

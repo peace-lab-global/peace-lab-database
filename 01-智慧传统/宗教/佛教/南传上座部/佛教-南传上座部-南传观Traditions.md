@@ -23,7 +23,11 @@ cross_refs:
   relation: vipassan/内观/goenka
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/the/世界非虚构-冥想正念-the-practice-of-vipassana.md
   relation: 内观/sayadaw/mogok
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 南传内观传承 (Theravada Vipassanā Traditions)
 
 > **内观传承 (Vipassanā Traditions)**：上座部佛教中专注于毗婆舍那(观禅)修习的各大传承体系，尤其指19-20世纪缅甸复兴运动中形成的多个禅修流派。

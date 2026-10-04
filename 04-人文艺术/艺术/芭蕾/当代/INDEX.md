@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (13)
 
-- [芭蕾-当代-Contemporary_Ballet_Choreographers.md](芭蕾-当代-Contemporary_Ballet_Choreographers.md)
+- [芭蕾-当代-Contemporary_Ballet_Choreographers.md](%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%BD%93%E4%BB%A3%E8%8A%AD%E8%95%BEChoreographers.md)
 - [芭蕾-当代-balanchine-George_Balanchine_Special.md](%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%B7%B4%E5%85%B0%E9%92%A6-GeorgeBalanchine%E7%89%B9%E6%AE%8A.md)
 - [芭蕾-当代-forsythe-William_Forsythe_Special.md](%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E7%A6%8F%E8%B5%9B%E6%96%AF-WilliamForsythe%E7%89%B9%E6%AE%8A.md)
 - [芭蕾-当代-kylian-Jiri_Kylian_Special.md](%E8%8A%AD%E8%95%BE-%E5%BD%93%E4%BB%A3-%E5%9F%BA%E5%88%A9%E5%AE%89-JiriKylian%E7%89%B9%E6%AE%8A.md)

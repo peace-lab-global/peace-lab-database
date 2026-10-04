@@ -13,7 +13,11 @@ intent_queries:
   - "流行病学 | Epidemiology的方法与实践"
 trigger_keywords: ["流行病学", "cardiovascular"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 流行病学 | Epidemiology
 
 > **流行病学**（Epidemiology）是研究疾病在人群中分布和决定因素的学科——从传染病追踪（Infectious Disease Tracking）到慢性病分析（Chronic Disease Analysis），从疾病监测（Disease Surveillance）到疫情建模（Epidemic Modeling）。流行病学是公共卫生的科学基础，也是人类应对健康危机的核心工具。本文件精选TED平台上关于流行病学的代表性演讲，帮助读者理解流行病学的方法论和前沿发展。

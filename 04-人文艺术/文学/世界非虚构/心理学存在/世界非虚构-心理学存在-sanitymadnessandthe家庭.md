@@ -13,7 +13,11 @@ intent_queries:
   - "《正常、疯狂与家庭》Sanity, Madness and the Family的方法与实践"
 trigger_keywords: ["《正常", "phobia"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《正常、疯狂与家庭》Sanity, Madness and the Family
 
 > R.D.莱恩（R.D. Laing）和亚伦·埃斯特森（Aaron Esterson）著，1964年出版。莱恩与精神病学家埃斯特森合作，通过对十一个"精神分裂症"患者家庭的深入研究，揭示了家庭沟通模式如何"制造"精神病。核心发现：**"精神分裂症"不是个体的疾病，而是家庭系统的症状。**

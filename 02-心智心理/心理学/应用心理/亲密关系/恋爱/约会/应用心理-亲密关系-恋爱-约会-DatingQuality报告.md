@@ -26,7 +26,11 @@ cross_refs:
   relation: 质量/report/评估
 - path: 03-生命科学/生物学/性传播疾病/性传播疾病-STDQuality报告.md
   relation: completeness/质量/report
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Psychology Quality Report (约会心理学质量报告)
 
 > 📘 **报告概述**: 本报告对约会心理学专业内容体系进行全面质量评估，确保内容的专业性、完整性和实用性。

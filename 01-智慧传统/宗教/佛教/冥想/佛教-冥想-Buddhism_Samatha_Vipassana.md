@@ -23,7 +23,11 @@ cross_refs:
   relation: 止观/samatha-vipassana/samatha-vipassan
 - path: 02-心智心理/冥想/传统/佛教/止观/传统-佛教-止观-Samatha_Vipassana_History.md
   relation: 止观/samatha-vipassana/佛教
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 止观禅修详表 (Samatha & Vipassana Meditation)
 
 > **止观 (Samatha-Vipassanā)**：佛教禅修的两大核心方法，止(奢摩他)培养心的安定与专注，观(毗钵舍那)开发如实知见的智慧，二者相辅相成，共同构成解脱之道的核心修行。
@@ -532,9 +536,9 @@ cross_refs:
 
 | 相关主题 | 链接 | 说明 |
 |---|---|---|
-| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../天台/佛教-天台-Buddhism_Tiantai_Zhiguan.md) | 圆融三谛、一念三千、小止观实修 |
-| 内观禅修详解 | [Vipassana_Meditation.md](../../../../02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) | 葛印卡传承、四念住、十六观智 |
-| 小止观经典原文 | [Samatha_Vipasyana.md](../经论/佛教-经论-Samatha_Vipasyana.md) | 智颞大师《修习止观坐禅法要》 |
+| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../%E5%A4%A9%E5%8F%B0/%E4%BD%9B%E6%95%99-%E5%A4%A9%E5%8F%B0-%E4%BD%9B%E6%95%99%E5%A4%A9%E5%8F%B0%E6%AD%A2%E8%A7%82.md) | 圆融三谛、一念三千、小止观实修 |
+| 内观禅修详解 | [Vipassana_Meditation.md](../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E4%BC%A0%E7%BB%9F/%E4%BD%9B%E6%95%99/%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) | 葛印卡传承、四念住、十六观智 |
+| 小止观经典原文 | [Samatha_Vipasyana.md](../%E7%BB%8F%E8%AE%BA/%E4%BD%9B%E6%95%99-%E7%BB%8F%E8%AE%BA-%E6%AD%A2Vipasyana.md) | 智颞大师《修习止观坐禅法要》 |
 | 六妙法门经典 | [Six_Wonderful_Gates.md](../%E7%BB%8F%E8%AE%BA/%E4%BD%9B%E6%95%99-%E7%BB%8F%E8%AE%BA-%E5%85%AD%E5%A6%99%E9%97%A8.md) | 数随止观还净六妙门 |
 | 大安般守意经 | [Anapanasmrti_Sutra.md](../%E7%BB%8F%E8%AE%BA/%E4%BD%9B%E6%95%99-%E7%BB%8F%E8%AE%BA-Anapanasmrti%E7%BB%8F.md) | 呼吸禅法根本经典 |
 | 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../心理学/佛教-心理学-Buddhism_Mindfulness_Therapy_Integration.md) | MBSR/MBCT与佛教止观的整合 |

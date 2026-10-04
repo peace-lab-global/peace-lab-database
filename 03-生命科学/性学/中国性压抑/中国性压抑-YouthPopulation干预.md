@@ -13,7 +13,11 @@ intent_queries:
   - "青年群体性压抑特征与干预策略的方法与实践"
 trigger_keywords: ["青年群体性压抑特征与干预策略", "Youth", "Population", "Sexual", "Repression"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 青年群体性压抑特征与干预策略 (Youth Population Sexual Repression Characteristics and Intervention Strategies)
 
 > 📘 **文档导航**: 本专题专门分析中国青年群体（大学生、年轻职场人士）性压抑的独特表现、形成机制和针对性干预策略。如需了解其他相关内容，请参考：

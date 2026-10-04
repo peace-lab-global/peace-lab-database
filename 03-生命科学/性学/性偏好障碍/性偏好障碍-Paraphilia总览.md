@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Overview.md
   relation: matrix/legal/框架
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Paraphilic Disorders & Fetishism Overview (恋物癖与性偏离障碍概览)
 
 > 📘 **文档导航**: 本概览文档提供恋物癖与性偏离障碍的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

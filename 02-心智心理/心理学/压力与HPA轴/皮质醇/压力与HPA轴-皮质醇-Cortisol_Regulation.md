@@ -21,7 +21,11 @@ cross_refs:
   relation: 气功/太极/qigong
 - path: 01-智慧传统/太极拳/气功内功/气功内功-TaiChiQigong基础.md
   relation: 气功/太极/qigong
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 皮质醇调节方法 (Cortisol Regulation Methods)
 
 ## 核心术语与词源 (Core Terminology & Etymology)

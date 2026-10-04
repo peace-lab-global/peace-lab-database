@@ -13,7 +13,11 @@ intent_queries:
   - "关汉卿 ：元曲四大家之首与「东方莎士比亚「的方法与实践"
 trigger_keywords: ["act", "art", "developmental", "literature"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 关汉卿 (Guan Hanqing, 约1220-1300)：元曲四大家之首与"东方莎士比亚"
 
 ## 概述 (Overview)

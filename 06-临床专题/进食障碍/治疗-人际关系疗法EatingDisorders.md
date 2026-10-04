@@ -4,7 +4,10 @@ description: "IPT-BN/BED 时间限定治疗：人际聚焦模型、角色转换/
 category: "clinical"
 tags: ["IPT", "interpersonal-therapy", "binge-eating", "bulimia", "eating-disorders"]
 last_updated: "2026-07"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # IPT 人际关系疗法在进食障碍中的应用
 

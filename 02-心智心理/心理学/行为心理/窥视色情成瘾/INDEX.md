@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 窥视色情成瘾 | 窥视色情成瘾
 
@@ -22,7 +25,7 @@ auto_generated: true
 - [行为心理-窥视色情成瘾-Voyeurism_Clinical_Assessment.md](行为心理-窥视色情成瘾-Voyeurism_Clinical_Assessment.md)
 - [行为心理-窥视色情成瘾-Voyeurism_Neuroscience_Biology.md](行为心理-窥视色情成瘾-Voyeurism_Neuroscience_Biology.md)
 - [行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Overview.md](行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Overview.md)
-- [行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Quality_Report.md](行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Quality_Report.md)
+- [行为心理-窥视色情成瘾-Voyeurism_Pornography_Addiction_Quality_Report.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BEQuality%E6%8A%A5%E5%91%8A.md)
 - [行为心理-窥视色情成瘾-Voyeurism_Pornography_Formation_Mechanisms.md](行为心理-窥视色情成瘾-Voyeurism_Pornography_Formation_Mechanisms.md)
 - [行为心理-窥视色情成瘾-Voyeurism_Pornography_Treatment_Interventions.md](行为心理-窥视色情成瘾-Voyeurism_Pornography_Treatment_Interventions.md)
 - [行为心理-窥视色情成瘾-Voyeurism_Research_Methods.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE-%E7%AA%A5%E8%A7%86%E7%A0%94%E7%A9%B6Methods.md)
@@ -37,7 +40,7 @@ auto_generated: true
 - [行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Research_Methods.md](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Research_Methods.md)
 - [行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Treatment_Interventions.md](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Treatment_Interventions.md)
 - [行为心理-窥视色情成瘾-erotic-literature-Practical_Toolkit.md](行为心理-窥视色情成瘾-erotic-literature-Practical_Toolkit.md)
-- [行为心理-窥视色情成瘾-erotic-literature-Quality_Assessment_Report.md](行为心理-窥视色情成瘾-erotic-literature-Quality_Assessment_Report.md)
+- [行为心理-窥视色情成瘾-erotic-literature-Quality_Assessment_Report.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE-%E6%83%85%E8%89%B2%E6%96%87%E5%AD%A6-Quality%E8%AF%84%E4%BC%B0%E6%8A%A5%E5%91%8A.md)
 - [行为心理-窥视色情成瘾-情色文学-Quality评估报告.md](行为心理-窥视色情成瘾-情色文学-Quality评估报告.md)
 - [行为心理-窥视色情成瘾-情色文学-实用Toolkit.md](行为心理-窥视色情成瘾-情色文学-实用Toolkit.md)
 - [行为心理-窥视色情成瘾-情色文学-情色文学FormationMechanisms.md](行为心理-窥视色情成瘾-情色文学-情色文学FormationMechanisms.md)

@@ -13,7 +13,11 @@ intent_queries:
   - "独处与孤独：概览与区分的方法与实践"
 trigger_keywords: ["act-therapy", "独处与孤独：概览与区分", "Solitude", "vs", "Loneliness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 独处与孤独：概览与区分 (Solitude vs Loneliness Overview)
 
 > **核心命题**: 独处(Solitude)与孤独(Loneliness)不是同一光谱的两端，而是两个独立的维度。一个人可以"孤独地身处人群"，也可以"独自而丰盈"。

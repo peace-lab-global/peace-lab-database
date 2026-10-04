@@ -19,7 +19,11 @@ trigger_keywords:
 - in
 - Chinese
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 中国社会性压抑研究概览 (Sexual Repression in Chinese Society: Overview)
 
 > 📘 **文档导航**: 本概览文档系统阐述中国社会性压抑的核心概念、历史演变和理论框架。如需深入了解特定领域，请参考相应专题文档：

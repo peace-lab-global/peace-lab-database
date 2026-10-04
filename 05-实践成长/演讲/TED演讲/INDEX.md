@@ -7,7 +7,10 @@ last_updated: "2026-07-30"
 cross_refs:
   - "05-实践成长/演讲/INDEX.md"
   - "02-心智心理/心理学/INDEX.md"
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
 
 # TED演讲 | TED Talks
 

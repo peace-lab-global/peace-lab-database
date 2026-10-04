@@ -13,7 +13,11 @@ intent_queries:
   - "《百年孤独》One Hundred Years of Solitude的方法与实践"
 trigger_keywords: ["daoism", "《百年孤独》One", "Hundred", "Years", "of"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《百年孤独》One Hundred Years of Solitude
 
 > 加西亚·马尔克斯（Gabriel García Márquez）著，1967年出版。哥伦比亚作家的代表作，魔幻现实主义的巅峰之作。讲述了布恩迪亚家族七代人的传奇故事，以及他们在马孔多小镇上的兴衰。获诺贝尔文学奖，被誉为20世纪最重要的文学作品之一。

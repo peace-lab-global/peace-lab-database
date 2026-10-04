@@ -13,7 +13,11 @@ intent_queries:
   - "晨间血压调节概览 | Morning Blood Pressure Regulation Overview的方法与实践"
 trigger_keywords: ["晨间血压调节概览", "Morning", "Blood", "Pressure", "Regulation"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 晨间血压调节概览 | Morning Blood Pressure Regulation Overview
 
 > 晨间血压调节是心血管健康管理的关键领域，涉及昼夜节律生理学、自主神经系统调控及生活方式干预策略。

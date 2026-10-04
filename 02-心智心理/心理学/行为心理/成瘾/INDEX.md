@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 成瘾 | 成瘾
 
@@ -14,8 +17,8 @@ auto_generated: true
 ## 📄 文件 | Files (21)
 
 - [行为心理-成瘾-Addiction_Behavioral.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BE%E8%A1%8C%E4%B8%BA.md)
-- [行为心理-成瘾-Addiction_Caffeine_Coffee.md](行为心理-成瘾-Addiction_Caffeine_Coffee.md)
-- [行为心理-成瘾-Addiction_Caffeine_Prevention.md](行为心理-成瘾-Addiction_Caffeine_Prevention.md)
+- [行为心理-成瘾-Addiction_Caffeine_Coffee.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BECaffeineCoffee.md)
+- [行为心理-成瘾-Addiction_Caffeine_Prevention.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BECaffeine%E9%A2%84%E9%98%B2.md)
 - [行为心理-成瘾-Addiction_Overview.md](行为心理-成瘾-Addiction_Overview.md)
 - [行为心理-成瘾-Addiction_Pornography_Compulsive_Sexual_Behavior.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BE%E8%89%B2%E6%83%85CompulsiveSexualBehavior.md)
 - [行为心理-成瘾-Addiction_Recovery.md](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%88%90%E7%98%BE-%E6%88%90%E7%98%BE%E6%81%A2%E5%A4%8D.md)

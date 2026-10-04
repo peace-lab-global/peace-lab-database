@@ -24,7 +24,11 @@ cross_refs:
   relation: 恐惧/焦虑/焦虑
 - path: 02-心智心理/心理学/临床/障碍/INDEX.md
   relation: panic/障碍/焦虑
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Sudden Death Fear & Cardiac Anxiety (猝死恐惧与心脏焦虑)
 
 > **猝死恐惧 (Sudden Death Fear / Cardiophobia / Hṛdaya-bhaya)**

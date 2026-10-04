@@ -14,7 +14,11 @@ intent_queries:
   - "数字与传统囤积癖整合治疗方法的循证证据"
 trigger_keywords: ["数字与传统囤积癖整合治疗方法", "Integrated", "Treatment", "for", "Digital"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 数字与传统囤积癖整合治疗方法 (Integrated Treatment for Digital and Physical Hoarding)
 
 ## 1. 整合治疗概述 (Integrated Treatment Overview)
@@ -295,4 +299,4 @@ cross_refs: []
 - **远程治疗**：远程整合治疗技术
 - **个性化算法**：基于数据的个性化治疗算法
 
-**专业交叉引用**：关于数字囤积癖的标准治疗方法，请参考 [数字囤积癖治疗](行为心理-数字囤积-Digital_Hoarding_Treatment.md) 文档。关于传统囤积癖障碍的治疗方法，请参考 [储物癖障碍治疗](../囤积障碍/行为心理-囤积障碍-囤积障碍治疗.md) 文档。关于两种囤积行为的对比分析，请参考 [数字与传统囤积癖对比分析](行为心理-数字囤积-Digital_Hoarding_Comparison.md) 文档。
+**专业交叉引用**：关于数字囤积癖的标准治疗方法，请参考 [数字囤积癖治疗](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E6%95%B0%E5%AD%97%E5%9B%A4%E7%A7%AF-%E6%95%B0%E5%AD%97%E5%9B%A4%E7%A7%AF%E6%B2%BB%E7%96%97.md) 文档。关于传统囤积癖障碍的治疗方法，请参考 [储物癖障碍治疗](../囤积障碍/行为心理-囤积障碍-囤积障碍治疗.md) 文档。关于两种囤积行为的对比分析，请参考 [数字与传统囤积癖对比分析](行为心理-数字囤积-Digital_Hoarding_Comparison.md) 文档。

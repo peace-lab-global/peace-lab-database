@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
 
 # 性偏好障碍 | 性偏好障碍
 
@@ -24,7 +27,7 @@ auto_generated: true
 - [性偏好障碍-性偏好的形成机制.md](性偏好障碍-性偏好的形成机制.md)
 - [性偏好障碍-特定类型-Ballet_Dancer_Fetishism.md](特定类型/性偏好障碍-特定类型-Ballet_Dancer_Fetishism.md)
 - [性偏好障碍-特定类型-Body_Aesthetics_Fetishism.md](%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B/%E6%80%A7%E5%81%8F%E5%A5%BD%E9%9A%9C%E7%A2%8D-%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B-%E8%BA%AB%E4%BD%93%E5%AE%A1%E7%BE%8EFetishism.md)
-- [性偏好障碍-特定类型-Clinical_Assessment_Tools.md](特定类型/性偏好障碍-特定类型-Clinical_Assessment_Tools.md)
+- [性偏好障碍-特定类型-Clinical_Assessment_Tools.md](%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B/%E6%80%A7%E5%81%8F%E5%A5%BD%E9%9A%9C%E7%A2%8D-%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B-%E4%B8%B4%E5%BA%8A%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
 - [性偏好障碍-特定类型-Foot_Fetishism.md](特定类型/性偏好障碍-特定类型-Foot_Fetishism.md)
 - [性偏好障碍-特定类型-High_Heel_Fetishism.md](特定类型/性偏好障碍-特定类型-High_Heel_Fetishism.md)
 - [性偏好障碍-特定类型-Knowledge_Authority_Fetishism.md](%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B/%E6%80%A7%E5%81%8F%E5%A5%BD%E9%9A%9C%E7%A2%8D-%E7%89%B9%E5%AE%9A%E7%B1%BB%E5%9E%8B-%E7%9F%A5%E8%AF%86AuthorityFetishism.md)

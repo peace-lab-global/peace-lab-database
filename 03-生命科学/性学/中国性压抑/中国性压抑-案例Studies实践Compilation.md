@@ -23,7 +23,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/个人发展/职业吸引力/Professional吸引力案例Studies/职业吸引力-Professional吸引力案例Studies.md
   relation: case/methodology/study
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 案例研究与实践汇编：中国性压抑干预的成功经验 (Case Studies and Practice Compilation: Successful Experiences in Sexual Repression Intervention in China)
 
 > 📘 **文档导航**: 本专题汇集中国性压抑干预实践中的典型案例和成功经验，通过深度案例分析为理论研究和实践应用提供实证支撑。如需了解其他相关内容，请参考：

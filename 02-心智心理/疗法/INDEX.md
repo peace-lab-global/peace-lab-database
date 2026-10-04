@@ -4,7 +4,10 @@ description: "疗法 专题枢纽目录，共 164 个文档"
 category: "心智与心理学"
 tags: [index, hub, therapy]
 last_updated: "2026-09"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 疗法
 
@@ -13,7 +16,7 @@ last_updated: "2026-09"
 
 ## 其他
 
-- [萨提亚模型-Satir_Communication_Stances](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir_Communication_Stances.md)
+- [萨提亚模型-Satir_Communication_Stances](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%B2%9F%E9%80%9AStances.md)
 - [萨提亚模型-Satir_Iceberg_Model](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-SatirIceberg%E6%A8%A1%E5%9E%8B.md)
 - [萨提亚模型-Satir_Meditation_Techniques](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E5%86%A5%E6%83%B3%E6%8A%80%E6%9C%AF.md)
 - [萨提亚模型-Satir_Model_Overview](%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88.md)
@@ -28,24 +31,24 @@ last_updated: "2026-09"
 
 ## 创意表达
 
-- [创意表达-OH卡牌疗法-OH_Cards_Clinical_Applications](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Clinical_Applications.md)
-- [创意表达-OH卡牌疗法-OH_Cards_Research_Evidence](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Research_Evidence.md)
-- [创意表达-OH卡牌疗法-OH_Cards_Techniques_Methods](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Techniques_Methods.md)
-- [创意表达-OH卡牌疗法-OH_Cards_Terminology_Concepts](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Terminology_Concepts.md)
+- [创意表达-OH卡牌疗法-OH_Cards_Clinical_Applications](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95-OH%E5%8D%A1%E7%89%8C%E4%B8%B4%E5%BA%8AApplications.md)
+- [创意表达-OH卡牌疗法-OH_Cards_Research_Evidence](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95-OH%E5%8D%A1%E7%89%8C%E7%A0%94%E7%A9%B6%E5%BE%AA%E8%AF%81.md)
+- [创意表达-OH卡牌疗法-OH_Cards_Techniques_Methods](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95-OH%E5%8D%A1%E7%89%8C%E6%8A%80%E6%9C%AFMethods.md)
+- [创意表达-OH卡牌疗法-OH_Cards_Terminology_Concepts](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95-OH%E5%8D%A1%E7%89%8CTerminologyConcepts.md)
 - [创意表达-OH卡牌疗法-OH_Cards_Therapy_Overview](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95-OH%E5%8D%A1%E7%89%8C%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
 - [创意表达-OH卡牌疗法-OH卡牌TerminologyConcepts](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌TerminologyConcepts.md)
 - [创意表达-OH卡牌疗法-OH卡牌临床Applications](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌临床Applications.md)
 - [创意表达-OH卡牌疗法-OH卡牌技术Methods](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌技术Methods.md)
 - [创意表达-OH卡牌疗法-OH卡牌疗法总览](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌疗法总览.md)
 - [创意表达-OH卡牌疗法-OH卡牌研究循证](创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH卡牌研究循证.md)
-- [创意表达-游戏疗法-Game_Therapy](创意表达/游戏疗法/创意表达-游戏疗法-Game_Therapy.md)
+- [创意表达-游戏疗法-Game_Therapy](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E6%B8%B8%E6%88%8F%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E6%B8%B8%E6%88%8F%E7%96%97%E6%B3%95-Game%E7%96%97%E6%B3%95.md)
 - [创意表达-游戏疗法-Game_Therapy_Techniques](创意表达/游戏疗法/创意表达-游戏疗法-Game_Therapy_Techniques.md)
 - [创意表达-游戏疗法-Game疗法](创意表达/游戏疗法/创意表达-游戏疗法-Game疗法.md)
 - [创意表达-游戏疗法-Game疗法技术](创意表达/游戏疗法/创意表达-游戏疗法-Game疗法技术.md)
-- [创意表达-聚焦疗法-Focus_ADHD_Therapy](创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_ADHD_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Children_Therapy](创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Children_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Meditation_Therapy](创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Meditation_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Workplace_Therapy](创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Workplace_Therapy.md)
+- [创意表达-聚焦疗法-Focus_ADHD_Therapy](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Children_Therapy](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8Children%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Meditation_Therapy](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E5%86%A5%E6%83%B3%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Workplace_Therapy](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E8%81%8C%E5%9C%BA%E7%96%97%E6%B3%95.md)
 - [创意表达-聚焦疗法-专注Children疗法](创意表达/聚焦疗法/创意表达-聚焦疗法-专注Children疗法.md)
 - [创意表达-聚焦疗法-专注冥想疗法](创意表达/聚焦疗法/创意表达-聚焦疗法-专注冥想疗法.md)
 - [创意表达-聚焦疗法-专注注意缺陷多动疗法](创意表达/聚焦疗法/创意表达-聚焦疗法-专注注意缺陷多动疗法.md)
@@ -67,11 +70,11 @@ last_updated: "2026-09"
 - [感官自然-感官-Sensory_Nada_Yoga](感官自然/感官/感官自然-感官-Sensory_Nada_Yoga.md)
 - [感官自然-感官-Sensory_Solfeggio_Frequencies](感官自然/感官/感官自然-感官-Sensory_Solfeggio_Frequencies.md)
 - [感官自然-感官-Sensory_Sound_Medicine](感官自然/感官/感官自然-感官-Sensory_Sound_Medicine.md)
-- [感官自然-感官-Sensory_SPA_Bodywork](感官自然/感官/感官自然-感官-Sensory_SPA_Bodywork.md)
+- [感官自然-感官-Sensory_SPA_Bodywork](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E6%84%9F%E5%AE%98/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98SPABodywork.md)
 - [感官自然-感官-Sensory_Vibrational_Instruments](感官自然/感官/感官自然-感官-Sensory_Vibrational_Instruments.md)
 - [感官自然-感官-Sensory_Vibroacoustic_Therapy](感官自然/感官/感官自然-感官-Sensory_Vibroacoustic_Therapy.md)
 - [感官自然-感官-Sensory_Vocal_Therapy](感官自然/感官/感官自然-感官-Sensory_Vocal_Therapy.md)
-- [感官自然-感官-Sensory_Writing_Journaling](感官自然/感官/感官自然-感官-Sensory_Writing_Journaling.md)
+- [感官自然-感官-Sensory_Writing_Journaling](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E6%84%9F%E5%AE%98/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98WritingJournaling.md)
 - [感官自然-感官-Sensory_Zentangle_Art](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E6%84%9F%E5%AE%98/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98Zentangle%E8%89%BA%E6%9C%AF.md)
 - [感官自然-感官-感官444HzFrequency疗法](感官自然/感官/感官自然-感官-感官444HzFrequency疗法.md)
 - [感官自然-感官-感官AromatherapyOlfactory](感官自然/感官/感官自然-感官-感官AromatherapyOlfactory.md)
@@ -93,20 +96,20 @@ last_updated: "2026-09"
 - [感官自然-感官-感官梵咒SacredSound](感官自然/感官/感官自然-感官-感官梵咒SacredSound.md)
 - [感官自然-感官-感官舞蹈Expressive](感官自然/感官/感官自然-感官-感官舞蹈Expressive.md)
 - [感官自然-感官-感官音乐Thanatology](感官自然/感官/感官自然-感官-感官音乐Thanatology.md)
-- [感官自然-森林疗法-Forest_Therapy_Psychological_Benefits](感官自然/森林疗法/感官自然-森林疗法-Forest_Therapy_Psychological_Benefits.md)
+- [感官自然-森林疗法-Forest_Therapy_Psychological_Benefits](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E6%A3%AE%E6%9E%97%E7%96%97%E6%B3%95/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%A3%AE%E6%9E%97%E7%96%97%E6%B3%95-Forest%E7%96%97%E6%B3%95%E5%BF%83%E7%90%86Benefits.md)
 - [感官自然-森林疗法-Forest_Therapy_Tree_Hugging](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E6%A3%AE%E6%9E%97%E7%96%97%E6%B3%95/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%A3%AE%E6%9E%97%E7%96%97%E6%B3%95-Forest%E7%96%97%E6%B3%95TreeHugging.md)
 - [感官自然-森林疗法-Forest疗法TreeHugging](感官自然/森林疗法/感官自然-森林疗法-Forest疗法TreeHugging.md)
 - [感官自然-森林疗法-Forest疗法心理Benefits](感官自然/森林疗法/感官自然-森林疗法-Forest疗法心理Benefits.md)
 - [感官自然-香气-Incense_Clinical_Evidence](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E4%B8%B4%E5%BA%8A%E5%BE%AA%E8%AF%81.md)
 - [感官自然-香气-Incense_Clinical_Protocols](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E4%B8%B4%E5%BA%8AProtocols.md)
 - [感官自然-香气-Incense_History_Culture](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94HistoryCulture.md)
-- [感官自然-香气-Incense_Integration_Modalities](感官自然/香气/感官自然-香气-Incense_Integration_Modalities.md)
+- [感官自然-香气-Incense_Integration_Modalities](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E6%95%B4%E5%90%88Modalities.md)
 - [感官自然-香气-Incense_Mechanisms](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94Mechanisms.md)
 - [感官自然-香气-Incense_Overview](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E6%80%BB%E8%A7%88.md)
 - [感官自然-香气-Incense_Pharmacology_Compounds](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E8%8D%AF%E7%90%86%E5%AD%A6Compounds.md)
 - [感官自然-香气-Incense_Practices](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94Practices.md)
 - [感官自然-香气-Incense_Preparation_Formulation](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94PreparationFormulation.md)
-- [感官自然-香气-Incense_Psychological_Healing](感官自然/香气/感官自然-香气-Incense_Psychological_Healing.md)
+- [感官自然-香气-Incense_Psychological_Healing](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E5%BF%83%E7%90%86%E7%96%97%E6%84%88.md)
 - [感官自然-香气-Incense_Resources](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E8%B5%84%E6%BA%90.md)
 - [感官自然-香气-Incense_Safety_Toxicology](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E5%AE%89%E5%85%A8Toxicology.md)
 - [感官自然-香气-Incense_Types_Classification](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6/%E9%A6%99%E6%B0%94/%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94TypesClassification.md)
@@ -143,7 +146,7 @@ last_updated: "2026-09"
 - [整合疗法-慈悲聚焦疗法-Compassion_Focused_Therapy](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%85%88%E6%82%B2%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E6%85%88%E6%82%B2Focused%E7%96%97%E6%B3%95.md)
 - [整合疗法-慈悲聚焦疗法-慈悲Focused疗法](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%85%88%E6%82%B2%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E6%85%88%E6%82%B2Focused%E7%96%97%E6%B3%95.md)
 - [整合疗法-森田疗法-Morita_Therapy](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95.md)
-- [整合疗法-森田疗法-Morita_Therapy_Psychological_Regulation](整合疗法/森田疗法/整合疗法-森田疗法-Morita_Therapy_Psychological_Regulation.md)
+- [整合疗法-森田疗法-Morita_Therapy_Psychological_Regulation](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95-%E6%A3%AE%E7%94%B0%E7%96%97%E6%B3%95%E5%BF%83%E7%90%86Regulation.md)
 - [整合疗法-森田疗法-森田疗法](整合疗法/森田疗法/整合疗法-森田疗法-森田疗法.md)
 - [整合疗法-森田疗法-森田疗法心理Regulation](整合疗法/森田疗法/整合疗法-森田疗法-森田疗法心理Regulation.md)
 - [整合疗法-正念认知疗法-evidence-MBCT_RCT_Evidence_Summary](%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95-%E5%BE%AA%E8%AF%81%E7%A0%94%E7%A9%B6-%E6%AD%A3%E5%BF%B5%E8%AE%A4%E7%9F%A5%E7%96%97%E6%B3%95RCT%E5%BE%AA%E8%AF%81%E6%91%98%E8%A6%81.md)

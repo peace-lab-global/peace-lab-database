@@ -27,7 +27,11 @@ cross_refs:
   relation: data/研究/methods
 - path: 03-生命科学/性学/性别歧视/出生性别焦虑/性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Research_Methods.md
   relation: 研究/methods/statistical
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情成瘾研究方法与测量工具 (Pornography Addiction Research Methods and Measurement Tools)
 
 > 📊 **研究方法学**: 本文档系统阐述色情成瘾研究的设计方法、测量工具和数据分析策略。建议结合[色情成瘾临床应用](行为心理-窥视色情成瘾-色情成瘾临床Applications.md)了解实践应用，参考[窥淫癖研究方法](行为心理-窥视色情成瘾-窥视研究Methods.md)了解相关研究框架。

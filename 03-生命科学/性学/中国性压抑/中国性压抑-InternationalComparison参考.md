@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/发展心理/青少年/儿童青少年性心理/发展心理-青少年-儿童青少年性心理-digital-resources-International_Best_Practices_Comparative_Study.md
   relation: comparative/international/教育
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 国际比较与借鉴 (International Comparison and Reference)
 
 > 📘 **文档导航**: 本专题通过国际比较分析，为中国性压抑问题的解决提供借鉴经验。如需了解其他相关内容，请参考：

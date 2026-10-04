@@ -13,7 +13,11 @@ intent_queries:
   - "迪巴·马的方法与实践"
 trigger_keywords: ["迪巴", "Dipa", "Ma"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)。
+
 # 迪巴·马 (Dipa Ma)
 
 > "Meditation is always possible, everywhere. You can meditate while drinking tea, talking, working."
@@ -235,7 +239,7 @@ cross_refs: []
 - [杰克·康菲尔德](传统-大师-西方先驱-Jack_Kornfield.md) — 她最著名的学生之一
 - [约瑟夫·戈德斯坦](传统-大师-西方先驱-Joseph_Goldstein.md) — 她最著名的学生之一
 - [S.N. 葛印卡](传统-大师-西方先驱-SN_Goenka.md) — 同样传承缅甸内观传统的大师
-- [内观禅修](../../佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) — 她的核心传承
+- [内观禅修](../../%E4%BD%9B%E6%95%99/%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) — 她的核心传承
 
 ---
 

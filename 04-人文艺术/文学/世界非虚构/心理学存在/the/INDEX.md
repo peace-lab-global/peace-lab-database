@@ -29,7 +29,7 @@ auto_generated: true
 - [世界非虚构-心理学存在-the-sane-society.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%BF%83%E7%90%86%E5%AD%A6%E5%AD%98%E5%9C%A8-%E5%81%A5%E5%85%A8%E7%9A%84%E7%A4%BE%E4%BC%9A.md)
 - [世界非虚构-心理学存在-the-schopenhauer-cure.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%BF%83%E7%90%86%E5%AD%A6%E5%AD%98%E5%9C%A8-%E5%8F%94%E6%9C%AC%E5%8D%8E%E7%9A%84%E6%B2%BB%E7%96%97.md)
 - [世界非虚构-心理学存在-the-second-sex.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%BF%83%E7%90%86%E5%AD%A6%E5%AD%98%E5%9C%A8-%E7%AC%AC%E4%BA%8C%E6%80%A7.md)
-- [世界非虚构-心理学存在-the-will-to-meaning.md](世界非虚构-心理学存在-the-will-to-meaning.md)
+- [世界非虚构-心理学存在-the-will-to-meaning.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%BF%83%E7%90%86%E5%AD%A6%E5%AD%98%E5%9C%A8-%E6%84%8F%E4%B9%89%E7%9A%84%E6%84%8F%E5%BF%97.md)
 
 
 ---

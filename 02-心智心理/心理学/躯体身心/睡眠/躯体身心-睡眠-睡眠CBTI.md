@@ -13,7 +13,11 @@ intent_queries:
   - "睡眠CBT-I的方法与实践"
 trigger_keywords: ["Sleep CBTI", "cbt", "心理学", "躯体与情绪"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 睡眠认知行为治疗（CBT-I）
 
 > CBT-I（Cognitive Behavioral Therapy for Insomnia，失眠认知行为治疗）是国际睡眠医学与精神科指南一致推荐的失眠**一线治疗**，长期疗效优于安眠药物且无依赖风险。本页为概览；详细操作流程见同目录[《失眠认知行为疗法》专文](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E7%9D%A1%E7%9C%A0-%E7%9D%A1%E7%9C%A0%E5%A4%B1%E7%9C%A0%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95.md)。

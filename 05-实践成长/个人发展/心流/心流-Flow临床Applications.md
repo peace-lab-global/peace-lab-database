@@ -27,7 +27,11 @@ cross_refs:
   relation: 运动/障碍/创伤后应激
 - path: 04-人文艺术/媒体/音乐/古典音乐/general/音乐-古典音乐-general-Classical_Music_Neuroscience.md
   relation: 心流/心流/运动
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 心流临床应用与实践 (Flow State: Clinical Applications & Practice)
 
 ## 目录 (Table of Contents)

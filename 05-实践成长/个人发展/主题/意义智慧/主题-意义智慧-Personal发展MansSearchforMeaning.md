@@ -26,7 +26,11 @@ cross_refs:
   relation: 意义疗法/meaning/意义
 - path: 01-智慧传统/哲学/书评/现代哲学书评/书评-现代哲学书评.md
   relation: search/man/book
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Man's Search for Meaning 活出意义来
 
 ## 作者背景 (Author Background)

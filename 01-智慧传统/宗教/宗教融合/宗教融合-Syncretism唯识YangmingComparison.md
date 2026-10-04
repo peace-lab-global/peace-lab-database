@@ -13,7 +13,11 @@ intent_queries:
   - "Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison的方法与实践"
 trigger_keywords: ["Syncretism:", "Yogācāra", "Yangming", "Mind-Philosophy", "Comparison"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Syncretism: Yogācāra & Yangming Mind-Philosophy Comparison (唯识学与阳明心学异同论)
 
 > **跨传统比较研究**：佛教唯识学 (Yogācāra) 与儒家阳明心学 (Wang Yangming's Philosophy of Mind) 作为东亚两大"唯心"哲学体系，共享"心为核心"的基本立场，但在哲学目标、心识结构、修行路径上存在根本差异。本文系统梳理二者的会通与分殊。

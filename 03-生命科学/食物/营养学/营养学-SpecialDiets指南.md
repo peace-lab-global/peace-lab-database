@@ -13,7 +13,11 @@ intent_queries:
   - "特殊饮食指南 | Special Diets Guide的方法与实践"
 trigger_keywords: ["特殊饮食指南", "Special", "Diets", "Guide"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 特殊饮食指南 | Special Diets Guide
 
 > 特殊饮食模式（Special Dietary Patterns）指基于健康、伦理、文化或治疗目的而采取的特定饮食方案。从素食主义（Vegetarianism）到生酮饮食（Ketogenic Diet），从间歇性断食（Intermittent Fasting）到中医药膳（Yao Shan），每种饮食模式都有其理论基础、适用人群与潜在风险。本文件系统梳理主要特殊饮食模式，帮助临床工作者与公众做出知情选择。

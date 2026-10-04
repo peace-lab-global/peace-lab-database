@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/自慰心理学/自慰心理学-Masturbation评估干预.md
   relation: csbd/compulsive/强迫
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Pornography Dependence & Compulsive Sexual Behavior (色情依赖与强迫性性行为)
 
 ## 核心术语与诊断框架表 (Core Terminology & Diagnostic Framework)

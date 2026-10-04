@@ -23,7 +23,11 @@ cross_refs:
   relation: eq/intelligence/emotional
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/a/INDEX.md
   relation: intelligence/emotional/leadership
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide
 
 > **领域**：冥想与情绪智力的整合发展（Meditation & EQ Integration）
@@ -438,7 +442,7 @@ graph TD
 
 ## 相关链接
 
-- [冥想与亲密关系](应用-Meditation_Intimacy_Relationships.md)
+- [冥想与亲密关系](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md)
 - [冥想与运动表现](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3SportsPerformance.md)
 - [冥想与创造力/艺术](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3CreativityFlow.md)
 - [冥想核心基础](../基础/总览与理论/基础-总览-Meditation_Core.md)

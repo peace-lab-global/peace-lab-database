@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/瑜伽/大师/当代/大师-当代-Yogi_Bhajan.md
   relation: kriya/kundalini/bhajan
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 昆达里尼 Kriya 实操序列详解
 
 > **Kundalini Kriya Practice Sequences: A Detailed Operational Guide**

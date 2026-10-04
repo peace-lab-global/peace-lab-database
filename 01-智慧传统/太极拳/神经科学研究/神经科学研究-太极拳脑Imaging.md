@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_Neuroimaging.md
   relation: mri/smri/eeg
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 太极脑影像研究 | Tai Chi Brain Imaging
 
 > 现代脑影像技术为太极拳的身心效益提供了神经科学层面的客观证据。

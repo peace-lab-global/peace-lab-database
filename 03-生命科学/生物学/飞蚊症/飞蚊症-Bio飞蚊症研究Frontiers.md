@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/阅读/数字阅读研究.md
   relation: frontiers/研究
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 飞蚊症研究前沿与发展趋势 (Floaters Research Frontiers and Trends)
 
 ## 术语标准化词汇表

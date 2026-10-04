@@ -13,7 +13,11 @@ intent_queries:
   - "The Willpower Instinct 自控力的方法与实践"
 trigger_keywords: ["The", "Willpower", "Instinct", "自控力"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # The Willpower Instinct 自控力
 
 ## 作者背景 (Author Background)

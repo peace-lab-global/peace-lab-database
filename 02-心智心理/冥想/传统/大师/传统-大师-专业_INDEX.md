@@ -5,8 +5,10 @@ last_updated: "2026-06"
 cross_refs: []
 description: "冥想执行师与职业发展 | Meditation Professional —— 相关领域的内容文档"
 tags: ["meditation"]
+disclaimer: true
 ---
 
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 冥想执行师与职业发展 | Meditation Professional
 

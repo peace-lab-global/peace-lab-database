@@ -14,7 +14,11 @@ intent_queries:
   - "极简主义对心理健康的影响的自助方法"
 trigger_keywords: ["极简主义对心理健康的影响", "Mental", "Health", "Impact", "of"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 极简主义对心理健康的影响 (Mental Health Impact of Minimalism)
 
 ## 1. 心理健康益处 (Mental Health Benefits)

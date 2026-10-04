@@ -24,7 +24,11 @@ cross_refs:
   relation: 气功/qigong/调息
 - path: 02-心智心理/心理学/压力与HPA轴/皮质醇/压力与HPA轴-皮质醇-Cortisol_Regulation.md
   relation: 气功/太极/qigong
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 太极气功基础 | Tai Chi Qigong Foundations
 
 > 气功是太极拳的内功根基。理解气功的分类与修炼层次，是太极修炼从外形走向内功的必经之路。

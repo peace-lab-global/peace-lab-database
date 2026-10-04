@@ -13,7 +13,11 @@ intent_queries:
   - "Routine Practices的方法与实践"
 trigger_keywords: ["cbt", "Routine", "Practices", "日常修持与习惯养成"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Routine Practices (日常修持与习惯养成)
 
 ### 瑜伽序列设计表

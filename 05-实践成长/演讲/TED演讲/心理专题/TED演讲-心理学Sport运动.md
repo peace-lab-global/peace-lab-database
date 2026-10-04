@@ -22,7 +22,11 @@ cross_refs:
   relation: exercise/运动/有氧
 - path: 03-生命科学/生物学/运动科学/INDEX.md
   relation: exercise/运动/science
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 运动心理学 | Sport & Exercise Psychology
 
 > **运动心理学**（Sport and Exercise Psychology）研究运动、锻炼和身体活动对心理健康、认知功能和情感状态的积极影响。从运动如何改变大脑的神经化学机制到体育竞技中的心理韧性（Mental Toughness），从锻炼作为抗抑郁的自然疗法到身体活动促进创造力和学习能力的证据，这一领域展示了身心关系的深层连接。本文件精选TED平台上关于运动心理学的代表性演讲。

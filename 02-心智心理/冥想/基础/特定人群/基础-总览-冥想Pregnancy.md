@@ -25,7 +25,11 @@ cross_refs:
   relation: 正念/mindful/table
 - path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/the/世界非虚构-科学意识濒死体验-the-mindful-brain.md
   relation: 正念/mindful/冥想
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 孕期冥想指南 | Meditation During Pregnancy
 
 > **文档类型**: 特殊人群应用指南 | Special Population Guide

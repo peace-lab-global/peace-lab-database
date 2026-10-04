@@ -26,7 +26,11 @@ cross_refs:
   relation: rct/al/et
 - path: 02-心智心理/疗法/认知行为/认知行为疗法/认知行为-认知行为疗法-evidence-CBT_RCT_Evidence_Summary.md
   relation: rct/al/et
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 平衡与跌倒预防 | Balance & Fall Prevention
 
 > 太极拳被美国CDC推荐为老年人防跌倒的首选运动之一，拥有大量高质量RCT证据支持。

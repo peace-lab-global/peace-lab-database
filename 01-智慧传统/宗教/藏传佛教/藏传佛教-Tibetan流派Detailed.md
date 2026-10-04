@@ -13,7 +13,11 @@ intent_queries:
   - "藏传佛教四大宗派详解的方法与实践"
 trigger_keywords: ["藏传佛教四大宗派详解", "Tibetan", "Buddhist", "Schools", "Detailed"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 藏传佛教四大宗派详解 (Tibetan Buddhist Schools Detailed)
 
 > **藏传佛教四大宗派 (Four Major Schools of Tibetan Buddhism)**：宁玛派、噶举派、萨迦派、格鲁派，是藏传佛教历史上形成的四大主要传承体系，各具独特的教法、修持方法与传承脉络。

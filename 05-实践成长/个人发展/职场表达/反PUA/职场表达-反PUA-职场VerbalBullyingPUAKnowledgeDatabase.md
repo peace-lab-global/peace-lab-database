@@ -13,7 +13,11 @@ intent_queries:
   - "职场语言霸凌与PUA专业知识数据库的方法与实践"
 trigger_keywords: ["intervention", "职场语言霸凌与PUA专业知识数据库", "Workplace", "Verbal", "Bullying"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 职场语言霸凌与PUA专业知识数据库 (Workplace Verbal Bullying & PUA Knowledge Database)
 
 > **定位**：围绕职场语言霸凌、羞辱性管理、煤气灯操控、精神控制与权力压迫，构建一个兼具学术深度与实务可操作性的知识数据库

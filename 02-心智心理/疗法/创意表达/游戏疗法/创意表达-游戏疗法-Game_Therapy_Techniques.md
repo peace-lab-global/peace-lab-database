@@ -24,7 +24,11 @@ cross_refs:
   relation: 疗法/therapy/创伤
 - path: 04-人文艺术/艺术/艺术疗法/INDEX.md
   relation: 疗法/therapy/techniques
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 游戏疗法技术手册 (Game Therapy Techniques)
 
 > 游戏在心理治疗中的系统化技术应用：从评估到干预的完整工具箱
@@ -172,4 +176,4 @@ cross_refs:
 
 ---
 
-*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [游戏疗法概述](创意表达-游戏疗法-Game_Therapy.md)*
+*返回上级索引 [INDEX.md](INDEX.md) | 关联专题 [游戏疗法概述](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E6%B8%B8%E6%88%8F%E7%96%97%E6%B3%95-Game%E7%96%97%E6%B3%95.md)*

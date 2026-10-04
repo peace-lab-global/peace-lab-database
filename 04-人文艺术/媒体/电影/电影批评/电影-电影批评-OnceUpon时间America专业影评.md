@@ -13,7 +13,11 @@ intent_queries:
   - "《美国往事》 专业影评：记忆政治学视角下的美国犹太移民史诗的方法与实践"
 trigger_keywords: ["《美国往事》", "Once", "Upon", "Time", "in"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《美国往事》(Once Upon a Time in America) 专业影评：记忆政治学视角下的美国犹太移民史诗
 
 ## 摘要 (Abstract)

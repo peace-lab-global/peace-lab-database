@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/个人发展/职业吸引力/Professional吸引力Quality报告/职业吸引力-Professional吸引力Quality报告.md
   relation: report/质量/评估
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 窥淫癖与色情成瘾专业内容体系质量报告 (Voyeurism & Pornography Addiction Content Quality Report)
 
 ## 📊 总体概况

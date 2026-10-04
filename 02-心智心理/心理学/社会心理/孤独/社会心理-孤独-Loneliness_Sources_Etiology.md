@@ -13,7 +13,11 @@ intent_queries:
   - "孤独感来源与病因学的方法与实践"
 trigger_keywords: ["孤独感来源与病因学", "Sources", "Etiology", "of", "Loneliness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 孤独感来源与病因学 (Sources & Etiology of Loneliness)
 
 ## 目录导航
@@ -378,7 +382,7 @@ flowchart LR
 > **交叉引用**
 > - [孤独概览](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) - 孤独的基本概念与分类
 > - [孤独研究框架](社会心理-孤独-Loneliness_Research_Framework.md) - 学术研究视角
-> - [孤独临床手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 临床诊疗方案
+> - [孤独临床手册](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E6%89%8B%E5%86%8C.md) - 临床诊疗方案
 > - [孤独感缓释与自助策略](社会心理-孤独-Loneliness_Relief_Mitigation.md) - 来源识别后的缓释方案
 > - [婚后孤独感来源](../../应用心理/亲密关系/婚姻/婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Sources.md) - 婚内孤独的专项来源分析
 

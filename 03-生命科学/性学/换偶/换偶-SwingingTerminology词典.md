@@ -15,7 +15,11 @@ trigger_keywords: ["换妻研究专业术语词典", "Swinging", "Research", "Pr
 cross_refs:
   - path: "02-心智心理/心理学/基础/术语词典/INDEX.md"
     relation: "dictionary/术语"
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 换妻研究专业术语词典 (Swinging Research Professional Terminology Dictionary)
 
 > 📘 **术语标准化**: 本词典提供换妻研究领域的标准化术语定义，涵盖社会学、心理学和关系科学等多个维度，确保学术交流和实践应用的准确性和一致性。

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 应用 | 应用
 
@@ -23,10 +26,10 @@ auto_generated: true
 - [应用-Meditation_Emotional_Intelligence_Guide.md](应用-Meditation_Emotional_Intelligence_Guide.md)
 - [应用-Meditation_Instructor_Self_Care.md](应用-Meditation_Instructor_Self_Care.md)
 - [应用-Meditation_Insurance_Legal.md](应用-Meditation_Insurance_Legal.md)
-- [应用-Meditation_Intimacy_Relationships.md](应用-Meditation_Intimacy_Relationships.md)
+- [应用-Meditation_Intimacy_Relationships.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB.md)
 - [应用-Meditation_Space_Design.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3Space%E8%AE%BE%E8%AE%A1.md)
 - [应用-Meditation_Sports_Performance.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3SportsPerformance.md)
-- [应用-Meditation_Technology_Overview.md](应用-Meditation_Technology_Overview.md)
+- [应用-Meditation_Technology_Overview.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3%E6%8A%80%E6%9C%AF%E6%80%BB%E8%A7%88.md)
 - [应用-Meditation_Workplace_Life_Assessment_Guide.md](应用-Meditation_Workplace_Life_Assessment_Guide.md)
 - [应用-Meditation_Workplace_Overview.md](%E5%BA%94%E7%94%A8-%E5%86%A5%E6%83%B3%E8%81%8C%E5%9C%BA%E6%80%BB%E8%A7%88.md)
 - [应用-冥想CentersDirectory.md](应用-冥想CentersDirectory.md)

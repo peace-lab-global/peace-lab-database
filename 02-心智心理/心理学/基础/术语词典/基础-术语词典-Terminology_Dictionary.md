@@ -248,7 +248,7 @@ cross_refs: []
 | 心理社会发展阶段 | Psychosocial Development Stages | 埃里克森提出的人类发展八阶段理论 | "人生八大考验" - 人在不同年龄段面临的主要心理任务 | 青春期要解决身份认同问题 | 儿童青少年发展 | [儿童发展](../../发展心理/青少年/儿童青少年/发展心理-青少年-儿童青少年-ChildAdolescent临床干预.md) |
 | 认知发展阶段 | Cognitive Development Stages | 皮亚杰提出的儿童认知发展四阶段理论 | "思维发展阶梯" - 儿童思维方式的发展过程 | 小孩从具体形象思维发展到抽象逻辑思维 | 教育心理学 | [儿童发展](../../发展心理/青少年/儿童青少年/发展心理-青少年-儿童青少年-ChildAdolescent临床干预.md) |
 | 青春期发展 | Adolescent Development | 12-18岁个体的身心发展过程 | "青春期变化" - 青少年时期的身心转变 | 身体发育、情绪波动、独立意识增强 | 青少年心理 | [青少年危机干预](../../%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86/%E9%9D%92%E5%B0%91%E5%B9%B4/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E9%9D%92%E5%B0%91%E5%B9%B4%E5%8D%B1%E6%9C%BA-Adolescent%E5%8D%B1%E6%9C%BA%E5%B9%B2%E9%A2%84.md) |
-| 创伤后应激障碍 | Post-Traumatic Stress Disorder (PTSD) | 经历创伤事件后出现的持续性心理障碍 | "创伤后心理创伤" - 重大打击后持续的心理困扰 | 车祸后总是回想事故场景、做噩梦 | 创伤治疗 | [PTSD专项治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| 创伤后应激障碍 | Post-Traumatic Stress Disorder (PTSD) | 经历创伤事件后出现的持续性心理障碍 | "创伤后心理创伤" - 重大打击后持续的心理困扰 | 车祸后总是回想事故场景、做噩梦 | 创伤治疗 | [PTSD专项治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 | 情绪调节 | Emotion Regulation | 管理和调整情绪反应的过程和策略 | "情绪管理术" - 学会控制和调节自己的情绪 | 遇到挫折时不冲动发火，而是冷静处理 | 情绪管理、DBT | [情绪疗法](../../躯体身心/情绪/躯体身心-情绪-情绪疗法总览.md) |
 | 人格障碍 | Personality Disorders | 长期稳定的异常思维和行为模式 | "性格问题" - 持续存在的不健康的思维和行为习惯 | 边缘性人格障碍表现为情绪极度不稳定 | 临床诊断 | [人格障碍治疗](../%E4%BA%BA%E6%A0%BC/%E5%9F%BA%E7%A1%80-%E4%BA%BA%E6%A0%BC-PersonalityDisorders%E6%B2%BB%E7%96%97.md) |
 | 强迫症 | Obsessive-Compulsive Disorder (OCD) | 以强迫思维和强迫行为为主要特征的焦虑障碍 | "强迫思维症" - 反复出现不想要的想法和行为 | 反复检查门锁、洗手次数过多 | 焦虑障碍治疗 | [强迫症治疗](../%E5%9F%BA%E7%A1%80-%E5%BC%BA%E8%BF%AB%E7%97%87-OCD%E6%B2%BB%E7%96%97.md) |
@@ -311,11 +311,11 @@ cross_refs: []
 ### 循证心理治疗方法
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|----------|----------|
-| 眼动脱敏再加工 | Eye Movement Desensitization and Reprocessing (EMDR) | 通过眼动处理创伤记忆的疗法 | "眼球运动治疗法" - 用眼球运动来处理痛苦记忆 | 车祸后通过眼球运动减轻创伤记忆 | PTSD治疗 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
-| 延长暴露疗法 | Prolonged Exposure Therapy | 包含想象暴露与现场暴露的PTSD治疗 | "逐步面对疗法" - 渐进式地面对恐惧事物 | 害怕狗的人先看狗的图片，再到远处观察真狗 | PTSD金标准 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| 眼动脱敏再加工 | Eye Movement Desensitization and Reprocessing (EMDR) | 通过眼动处理创伤记忆的疗法 | "眼球运动治疗法" - 用眼球运动来处理痛苦记忆 | 车祸后通过眼球运动减轻创伤记忆 | PTSD治疗 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
+| 延长暴露疗法 | Prolonged Exposure Therapy | 包含想象暴露与现场暴露的PTSD治疗 | "逐步面对疗法" - 渐进式地面对恐惧事物 | 害怕狗的人先看狗的图片，再到远处观察真狗 | PTSD金标准 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 | 暴露与反应阻止 | Exposure and Response Prevention | OCD金标准治疗 | "暴露阻止法" - 面对引发强迫行为的情境但不执行强迫行为 | 反复洗手的人接触脏东西但不洗手 | 强迫症治疗 | [CBT技术详表](../%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E7%96%97%E6%B3%95%E6%8A%80%E6%9C%AF.md) |
 | 内感受暴露 | Interoceptive Exposure | 诱发身体感觉以脱敏于惊恐线索 | "身体感觉面对法" - 安全地体验恐慌时的身体感觉 | 故意加快心跳来减少对心跳加速的恐惧 | 惊恐障碍治疗 | [CBT技术详表](../%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E7%96%97%E6%B3%95%E6%8A%80%E6%9C%AF.md) |
-| 虚拟现实暴露 | Virtual Reality Exposure Therapy | 使用VR技术创建可控的暴露情境 | "虚拟现实治疗" - 用虚拟技术进行安全的暴露练习 | 用VR模拟高空环境治疗恐高症 | 现代暴露治疗 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| 虚拟现实暴露 | Virtual Reality Exposure Therapy | 使用VR技术创建可控的暴露情境 | "虚拟现实治疗" - 用虚拟技术进行安全的暴露练习 | 用VR模拟高空环境治疗恐高症 | 现代暴露治疗 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 | 家庭系统排列 | Family Constellation | 通过代表排列揭示家庭系统动力的疗法 | "家庭关系排列法" - 通过角色扮演揭示家庭问题 | 用代表来展现家庭成员间的关系模式 | 家庭治疗 | [家排](../../%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98/%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97/%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E6%80%BB%E8%A7%88.md) |
 | 萨提亚模式 | Satir Model | 关注沟通和家庭关系的心理治疗方法 | "沟通改善法" - 改善家庭沟通方式 | 学习更好的表达和倾听技巧 | 家庭治疗 | [萨提亚](../../../%E7%96%97%E6%B3%95/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B/%E8%90%A8%E6%8F%90%E4%BA%9A%E6%A8%A1%E5%9E%8B-Satir%E6%A8%A1%E5%9E%8B%E6%80%BB%E8%A7%88.md) |
 | 躯体体验疗法 | Somatic Experiencing | 通过身体感知处理创伤的疗法 | "身体释放疗法" - 通过身体感受释放创伤压力 | 注意身体紧张并让其自然释放 | 创伤治疗 | [躯体体验](../../躯体身心/躯体/躯体身心-躯体-躯体体验.md) |
@@ -333,7 +333,7 @@ cross_refs: []
 |---------|-------------|------|----------|----------|
 | 正念减压 | Mindfulness-Based Stress Reduction (MBSR) | Kabat-Zinn创立的8周正念训练程序 | 压力管理 | [MBSR](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) |
 | 正念认知疗法 | Mindfulness-Based Cognitive Therapy (MBCT) | 整合MBSR与CBT的抑郁预防疗法 | 抑郁复发预防 | [CBT技术详表](../%E6%80%BB%E8%A7%88/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%BF%83%E7%90%86%E5%AD%A6%E7%96%97%E6%B3%95%E6%8A%80%E6%9C%AF.md) |
-| 内观 | Vipassana | 通过观察身心现象获得洞察的冥想方法 | 创伤治疗、自我觉察 | [内观禅修](../../../冥想/传统/佛教/内观/传统-佛教-内观-Vipassana_Meditation.md) |
+| 内观 | Vipassana | 通过观察身心现象获得洞察的冥想方法 | 创伤治疗、自我觉察 | [内观禅修](../../../%E5%86%A5%E6%83%B3/%E4%BC%A0%E7%BB%9F/%E4%BD%9B%E6%95%99/%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) |
 | 慈心禅 | Loving-Kindness Meditation | 培养慈悲心的冥想练习 | 人际关系、自我慈悲 | [四无量心](../../../../01-智慧传统/宗教/佛教/基础/佛教-基础-佛教Four四无量心.md) |
 | 身体扫描 | Body Scan | 系统性觉察身体各个部位的冥想技术 | 躯体治疗、放松 | [MBSR](../../../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E4%B8%BA%E5%9F%BA%E7%A1%80%E5%8E%8B%E5%8A%9BReduction.md) |
 | 呼吸觉察 | Breath Awareness | 专注观察呼吸的冥想基础技术 | 入门练习、焦虑管理 | [冥想技术](../../../冥想/基础/总览与理论/基础-总览-Meditation_Core.md) |
@@ -388,8 +388,8 @@ cross_refs: []
 | 声音医学 | Sound Medicine | 利用声音频率和振动进行治疗的实践 | 身心疗愈 | [声音治疗](../../../疗法/感官自然/感官/感官自然-感官-感官SoundMedicine.md) |
 | 芳香疗法 | Aromatherapy | 利用植物精油的香气进行治疗的方法 | 情绪调节、放松 | [芳香治疗](../../../疗法/感官自然/香气/感官自然-香气-香气总览.md) |
 | 色彩疗法 | Color Therapy | 利用颜色对心理和生理产生影响的疗法 | 情绪管理、环境设计 | [感官治疗](../../../疗法/感官自然/感官/感官自然-感官-感官Zentangle艺术.md) |
-| 舞蹈运动治疗 | Dance/Movement Therapy | 通过身体动作促进情感和心理健康的疗法 | 创伤治疗、自我表达 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
-| 艺术表达治疗 | Art Expression Therapy | 通过绘画等视觉艺术处理心理创伤 | 创伤治疗、情绪释放 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| 舞蹈运动治疗 | Dance/Movement Therapy | 通过身体动作促进情感和心理健康的疗法 | 创伤治疗、自我表达 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
+| 艺术表达治疗 | Art Expression Therapy | 通过绘画等视觉艺术处理心理创伤 | 创伤治疗、情绪释放 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 | 冥想曼陀罗 | Meditative Mandala | 结合曼陀罗绘制的冥想实践 | 注意力训练、创造力 | [曼陀罗冥想](../../../冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala冥想总览.md) |
 
 ### 感官整合疗法
@@ -407,7 +407,7 @@ cross_refs: []
 | 中文术语 | 英文标准术语 | 定义 | 使用场景 | 相关文档 |
 |---------|-------------|------|----------|----------|
 | 跨文化胜任力 | Cultural Competence | 在多元文化环境中有效工作的能力 | 国际实践 | [跨文化应用](../../%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86/%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB/%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%85%B3%E7%B3%BBSystematic%E6%A1%86%E6%9E%B6.md) |
-| 本土化适应 | Cultural Adaptation | 将治疗方法适应特定文化背景的过程 | 临床实践 | [文化敏感性](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| 本土化适应 | Cultural Adaptation | 将治疗方法适应特定文化背景的过程 | 临床实践 | [文化敏感性](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 | 文化谦逊 | Cultural Humility | 对不同文化的持续学习和自我反思态度 | 文化敏感性 | [跨文化整合](../框架/基础-框架-框架CrossComparisons.md) |
 | 精神文化 | Spirituality | 超越物质层面的精神追求和体验 | 全人治疗 | [灵性疗愈](../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F-%E6%99%BA%E6%85%A7%E4%BD%9B%E6%95%99%E7%96%97%E6%84%88%E5%BF%83%E7%90%86%E5%AD%A6.md) |
 | 三教合一 | Syncretism | 儒释道三家思想的融合 | 文化整合 | [三教合一](../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E5%AE%97%E6%95%99%E8%9E%8D%E5%90%88/%E5%AE%97%E6%95%99%E8%9E%8D%E5%90%88-%E4%B8%89%E6%95%99%E5%90%88%E4%B8%80.md) |
@@ -443,8 +443,8 @@ cross_refs: []
 | 广泛性焦虑量表 | GAD-7 | GAD筛查与监测的自评量表 | 焦虑评估 | [焦虑症概览](../../临床/焦虑/临床-焦虑-Anxiety_Disorder_Overview.md) |
 | 贝克焦虑量表 | BAI | 焦虑症状严重度测量 | 焦虑评估 | [焦虑症概览](../../临床/焦虑/临床-焦虑-Anxiety_Disorder_Overview.md) |
 | 汉密尔顿焦虑量表 | HAM-A | 焦虑严重度的他评量表 | 临床研究 | [焦虑症概览](../../临床/焦虑/临床-焦虑-Anxiety_Disorder_Overview.md) |
-| PTSD检查清单 | PCL-5 | DSM-5 PTSD症状标准评估 | PTSD诊断 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
-| 创伤后应激障碍量表 | IES-R | 创伤反应严重程度测量 | 创伤评估 | [创伤治疗](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) |
+| PTSD检查清单 | PCL-5 | DSM-5 PTSD症状标准评估 | PTSD诊断 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
+| 创伤后应激障碍量表 | IES-R | 创伤反应严重程度测量 | 创伤评估 | [创伤治疗](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) |
 
 ### 道家修炼术语
 | 中文术语 | 英文标准术语 | 定义 | 日常理解 | 生活举例 | 使用场景 | 相关文档 |

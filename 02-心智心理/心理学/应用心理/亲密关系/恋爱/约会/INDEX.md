@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 约会 | 约会
 
@@ -13,7 +16,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (35)
 
-- [应用心理-亲密关系-恋爱-约会-DATING_FINAL_QUALITY_REPORT.md](应用心理-亲密关系-恋爱-约会-DATING_FINAL_QUALITY_REPORT.md)
+- [应用心理-亲密关系-恋爱-约会-DATING_FINAL_QUALITY_REPORT.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%BA%A6%E4%BC%9A-%E7%BA%A6%E4%BC%9A%E6%9C%80%E7%BB%88%E8%B4%A8%E9%87%8F%E6%8A%A5%E5%91%8A.md)
 - [应用心理-亲密关系-恋爱-约会-DATING_GAP_ANALYSIS_REPORT.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%BA%A6%E4%BC%9A-%E7%BA%A6%E4%BC%9A%E5%B7%AE%E8%B7%9D%E5%88%86%E6%9E%90%E6%8A%A5%E5%91%8A.md)
 - [应用心理-亲密关系-恋爱-约会-DatingQuality报告.md](应用心理-亲密关系-恋爱-约会-DatingQuality报告.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Attraction_Selection.md](应用心理-亲密关系-恋爱-约会-Dating_Attraction_Selection.md)
@@ -26,7 +29,7 @@ auto_generated: true
 - [应用心理-亲密关系-恋爱-约会-Dating_Neuroscience_Integration.md](应用心理-亲密关系-恋爱-约会-Dating_Neuroscience_Integration.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Practical_Toolkit.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%BA%A6%E4%BC%9A-Dating%E5%AE%9E%E7%94%A8Toolkit.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Psychology_Overview.md](应用心理-亲密关系-恋爱-约会-Dating_Psychology_Overview.md)
-- [应用心理-亲密关系-恋爱-约会-Dating_Quality_Report.md](应用心理-亲密关系-恋爱-约会-Dating_Quality_Report.md)
+- [应用心理-亲密关系-恋爱-约会-Dating_Quality_Report.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%BA%A6%E4%BC%9A-DatingQuality%E6%8A%A5%E5%91%8A.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Relationship_Stage.md](应用心理-亲密关系-恋爱-约会-Dating_Relationship_Stage.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Special_Cases.md](应用心理-亲密关系-恋爱-约会-Dating_Special_Cases.md)
 - [应用心理-亲密关系-恋爱-约会-Dating_Terminology_Standards.md](应用心理-亲密关系-恋爱-约会-Dating_Terminology_Standards.md)

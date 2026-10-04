@@ -75,7 +75,7 @@ graph TB
 > 🔗 **相关文档链接**：
 > - [孤独测量工具详解](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACMeasurement%E5%B7%A5%E5%85%B7.md) - 详细的测量工具使用指南
 > - [孤独标准术语表](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACTerminologyStandards.md) - 统一的专业术语定义
-> - [孤独临床诊疗手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 临床评估与诊断流程
+> - [孤独临床诊疗手册](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E6%89%8B%E5%86%8C.md) - 临床评估与诊断流程
 
 #### 2.1 标准化量表
 
@@ -206,7 +206,7 @@ flowchart LR
 
 > 🔗 **相关文档链接**：
 > - [孤独干预效果评估](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E9%A2%84%E9%98%B2Evaluation.md) - 干预效果的系统评估
-> - [孤独临床诊疗手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 详细的临床治疗方案
+> - [孤独临床诊疗手册](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E6%89%8B%E5%86%8C.md) - 详细的临床治疗方案
 > - [孤独社会心理学](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACSocial%E5%BF%83%E7%90%86%E5%AD%A6.md) - 社区和社会层面的干预策略
 
 #### 7.1 个体层面干预

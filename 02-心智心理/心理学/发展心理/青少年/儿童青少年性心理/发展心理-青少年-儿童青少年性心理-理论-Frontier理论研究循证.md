@@ -25,7 +25,11 @@ cross_refs:
   relation: 性学/理论/教育
 - path: 03-生命科学/性学/教育/教育-教育心理学总览.md
   relation: 性学/教育/青少年
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 儿童青少年性教育前沿理论整合与研究证据库 (Frontier Theory Integration and Research Evidence Database for Child & Adolescent Sexuality Education)
 
 > 📚 **学术定位**: 系统整合儿童青少年性教育领域的前沿理论研究成果，提供基于循证实践的科学依据和理论支撑。涵盖发展心理学、神经科学、教育学、公共卫生学等多学科最新研究成果，为性教育实践提供坚实的学术基础。建议结合[概览文档](发展心理-青少年-儿童青少年性心理-ChildAdolescent性学Education总览.md)了解整体框架，参考[课程设计指南](发展心理-青少年-儿童青少年性心理-理论-Curriculum设计Implementation指南.md)掌握应用方法。

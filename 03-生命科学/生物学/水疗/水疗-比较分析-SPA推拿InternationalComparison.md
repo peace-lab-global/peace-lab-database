@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/特殊专题/中医心理学/特殊专题-中医心理学-TCM_Psychology_Theory_and_Practice.md
   relation: 推拿/阴阳/五行
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # SPA与中医推拿国际比较分析 (International Comparison Analysis of SPA and Tuina)
 
 > 🌍 **跨文化视野**: 本文档从全球化视角深入比较SPA水疗与中医推拿在理论基础、技术特色、临床应用、产业化发展等方面的异同，探讨两种疗法在现代healthcare体系中的互补性与融合可能性。

@@ -17,7 +17,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/个人发展/正念/正念核心/正念-正念核心.md
   relation: 身体扫描/scan/mbsr
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 身体扫描引导词脚本 | Body Scan Scripts
 
 > **领域**：冥想引导词脚本库（Guided Meditation Scripts）

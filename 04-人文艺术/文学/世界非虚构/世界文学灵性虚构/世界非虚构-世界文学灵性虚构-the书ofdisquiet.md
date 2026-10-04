@@ -13,7 +13,11 @@ intent_queries:
   - "《不安之书》The Book of Disquiet的方法与实践"
 trigger_keywords: ["loneliness", "《不安之书》The", "Book", "of", "Disquiet"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《不安之书》The Book of Disquiet
 
 > 费尔南多·佩索阿（Fernando Pessoa）著，1982年出版（遗作）。葡萄牙诗人佩索阿以他的多个"异名"（heteronyms）写作——不同的 persona 有不同的风格、哲学和声音。《不安之书》是他以"贝尔纳多·索阿雷斯"（一位簿记员）的名义写下的 fragmentary 笔记，关于孤独、无聊、梦想和存在的焦虑。

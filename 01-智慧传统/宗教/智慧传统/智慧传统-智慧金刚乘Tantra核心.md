@@ -17,7 +17,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/藏传冥想/传统-佛教-藏传冥想-Mandala_Meditation_Traditions.md
   relation: tantra/classes/观想
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Vajrayana/Tantra (金刚乘/密宗核心)
 
 ### The Four Classes of Tantra (密宗四续部详表)

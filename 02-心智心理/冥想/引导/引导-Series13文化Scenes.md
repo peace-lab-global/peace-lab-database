@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/智慧传统/智慧TeaCeremony疗愈/智慧传统-智慧TeaCeremony疗愈.md
   relation: 茶道/冥想/正念
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 系列十三：中西方文化场景系列 | Cultural Scenes Series
 
 > **级别**：Level 2-4（初中高级混合）

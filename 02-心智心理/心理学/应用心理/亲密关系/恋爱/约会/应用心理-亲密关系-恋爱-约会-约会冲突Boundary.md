@@ -23,7 +23,11 @@ cross_refs:
   relation: conflict/冲突/resolution
 - path: 05-实践成长/个人发展/职场表达/向上管理/职场表达-向上管理-Workplace_Cross_Functional_Conflict_Resolution.md
   relation: 冲突/conflict/resolution
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../../../规范/CRISIS_RESOURCES.md)。
+
 # Dating Conflict Management & Boundary Setting (约会冲突管理与边界设定)
 
 > 📘 **文档导航**: 本指南提供约会关系中冲突预防、处理和边界维护的专业策略。相关文档：

@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/个人发展/职场表达/职场表达总览/职场表达-职场表达总览.md
   relation: 沟通/沟通/心理学
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Communication Skills & Interaction Strategies (约会沟通技巧与互动策略)
 
 > 📘 **文档导航**: 本指南提供约会各阶段的沟通技巧和互动策略。相关文档：

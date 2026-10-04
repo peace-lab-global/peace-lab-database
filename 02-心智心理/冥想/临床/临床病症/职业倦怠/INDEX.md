@@ -5,20 +5,23 @@ last_updated: "2026-08"
 tags: ['职业倦怠']
 description: "职业倦怠 —— 心智与心理学"
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 职业倦怠
 
 ## 文档列表
 
-- [02. 神经生物学与职业应激机制 | Neurobiology & Stress](./临床-临床病症-职业倦怠-02-Neurobiology-and-Stress.md)
-- [03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms](./临床-临床病症-职业倦怠-03-Mindfulness-Mechanisms.md)
-- [06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism](./临床-临床病症-职业倦怠-06-Depersonalization-Transformation.md)
-- [08. 高风险职业适配 | High-Risk Professions](./临床-临床病症-职业倦怠-08-High-Risk-Professions.md)
-- [14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback](./临床-临床病症-职业倦怠-14-HRV-Biofeedback.md)
-- [18. 正念会议与沟通 | Mindful Meetings & Communication](./临床-临床病症-职业倦怠-18-Mindful-Meetings-and-Communication.md)
-- [19. 正念领导力与团队练习 | Mindful Leadership & Team Practices](./临床-临床病症-职业倦怠-19-Mindful-Leadership-and-Team.md)
-- [20. 重返工作岗位与渐进式复工 | Return to Work](./临床-临床病症-职业倦怠-20-Return-to-Work.md)
+- [02. 神经生物学与职业应激机制 | Neurobiology & Stress](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E7%A5%9E%E7%BB%8F%E7%94%9F%E7%89%A9%E5%AD%A6and%E5%8E%8B%E5%8A%9B.md)
+- [03. 正念干预倦怠的核心机制 | Mindfulness Mechanisms](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%AD%A3%E5%BF%B5Mechanisms.md)
+- [06. 去人格化与犬儒主义的转化 | Depersonalization & Cynicism](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E4%BA%BA%E6%A0%BC%E8%A7%A3%E4%BD%93%E8%BD%AC%E5%8C%96.md)
+- [08. 高风险职业适配 | High-Risk Professions](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E9%AB%98%E9%A3%8E%E9%99%A9%E8%81%8C%E4%B8%9A.md)
+- [14. 生理反馈训练：HRV 与倦怠恢复 | HRV Biofeedback](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%BF%83%E7%8E%87%E5%8F%98%E5%BC%82%E6%80%A7%E7%94%9F%E7%89%A9%E5%8F%8D%E9%A6%88.md)
+- [18. 正念会议与沟通 | Mindful Meetings & Communication](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%AD%A3%E5%BF%B5%E4%BC%9A%E8%AE%AEand%E6%B2%9F%E9%80%9A.md)
+- [19. 正念领导力与团队练习 | Mindful Leadership & Team Practices](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E6%AD%A3%E5%BF%B5%E9%A2%86%E5%AF%BC%E5%8A%9Band%E5%9B%A2%E9%98%9F.md)
+- [20. 重返工作岗位与渐进式复工 | Return to Work](%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E8%81%8C%E4%B8%9A%E5%80%A6%E6%80%A0-%E5%9B%9E%E5%BD%92to%E5%B7%A5%E4%BD%9C.md)
 - [01. 职业倦怠的临床定义与三维度模型 | Definition & Model](./临床-临床病症-职业倦怠-Definitionand模型.md)
 - [13. 职业倦怠正念干预课程方案（MBBI）| MBBI 8-Week Curriculum](./临床-临床病症-职业倦怠-MBBI课程.md)
 - [07. 个人效能感恢复 | Personal Efficacy Recovery](./临床-临床病症-职业倦怠-个人效能康复.md)

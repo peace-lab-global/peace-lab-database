@@ -25,7 +25,11 @@ cross_refs:
   relation: business/career/app
 - path: 01-智慧传统/宗教/佛教/现代应用/佛教-现代应用-Digital_Mindfulness_AI_Mental_Health.md
   relation: ai/vr/digital
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想数字化产业 | Meditation Digital Industry
 
 > **领域**：冥想商业化与职业发展（Meditation Business & Career）

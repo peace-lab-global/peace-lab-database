@@ -13,7 +13,11 @@ intent_queries:
   - "马克·莫里斯专题的方法与实践"
 trigger_keywords: ["马克", "莫里斯专题"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 马克·莫里斯专题 (Mark Morris Special Topic)
 
 > **马克·莫里斯 (Mark Morris, 1956-)**

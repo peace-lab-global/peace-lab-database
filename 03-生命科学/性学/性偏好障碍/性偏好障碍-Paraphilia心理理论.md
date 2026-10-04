@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/发展心理/青少年/儿童发展心理学/发展心理-青少年-儿童发展心理学-theory-Child_Development_Theory_Framework.md
   relation: 理论/依恋/sociocultural
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Paraphilic Disorders: Psychological Theory & Psychodynamic Perspectives (恋物癖心理学理论与心理动力学)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋物癖的心理学理论基础。相关主题请参考：

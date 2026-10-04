@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/瑜伽/冥想与意识/冥想与意识-瑜伽尼德拉.md
   relation: nidra/yoga/睡眠
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想与睡眠 | Meditation and Sleep
 
 > **领域**：身心医学 · 睡眠科学 · 正念干预  
@@ -226,7 +230,7 @@ MBTI由Jason Ong开发，整合正念训练与CBT-I行为策略：
 
 ## 相关链接 | Related Links
 
-- [冥想执行师Q&A](基础-总览-Meditation_Practitioner_QA.md)
+- [冥想执行师Q&A](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3PractitionerQA.md)
 - [MBSR项目全景概述](../../临床/正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md)
 - [正念呼吸引导词脚本](../../引导/引导-核心-Scripts正念Breathing.md)
 - [身体扫描引导词脚本](../../引导/引导-核心-Scripts身体Scan.md)

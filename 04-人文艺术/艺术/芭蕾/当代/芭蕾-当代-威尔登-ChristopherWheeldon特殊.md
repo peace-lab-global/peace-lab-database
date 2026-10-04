@@ -13,7 +13,11 @@ intent_queries:
   - "克里斯托弗·韦尔顿专题的方法与实践"
 trigger_keywords: ["克里斯托弗", "韦尔顿专题", "ballet"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 克里斯托弗·韦尔顿专题 (Christopher Wheeldon Special Topic)
 
 > **克里斯托弗·韦尔顿 (Christopher Wheeldon, 1973-)**

@@ -24,7 +24,11 @@ cross_refs:
   relation: 创伤/创伤/ptsd
 - path: 02-心智心理/心理学/发展心理/儿童发展/发展心理-儿童发展-Child_Trauma_Resilience.md
   relation: 创伤/创伤/kolk
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 创伤心理学 | Trauma Psychology Overview
 
 > **创伤心理学**（Trauma Psychology）研究人类在经历严重威胁性事件后的心理反应、恢复机制和治疗方法。从创伤后应激障碍（PTSD）到复杂创伤（Complex Trauma），从个体创伤到集体创伤，这一领域深刻揭示了创伤如何重塑大脑、身体和身份认同。本文件精选TED平台上关于创伤心理学的代表性演讲，帮助读者理解创伤的科学本质和康复之路。

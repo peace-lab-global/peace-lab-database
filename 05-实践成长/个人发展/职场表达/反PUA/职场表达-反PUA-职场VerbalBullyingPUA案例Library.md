@@ -13,7 +13,11 @@ intent_queries:
   - "职场语言霸凌与PUA：案例库与行为模式分析的方法与实践"
 trigger_keywords: ["职场语言霸凌与PUA：案例库与行为模式分析", "Case", "Library", "Behavioral", "Pattern"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 职场语言霸凌与PUA：案例库与行为模式分析 (Case Library & Behavioral Pattern Analysis)
 
 > **定位**：将典型职场语言霸凌与PUA事件拆解为可比对、可复用、可检索的案例条目，帮助识别行为模式、证据重点与应对路径

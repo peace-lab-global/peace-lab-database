@@ -13,7 +13,11 @@ intent_queries:
   - "中国传统静坐功法 | Chinese Sitting Meditation Practices的方法与实践"
 trigger_keywords: ["中国传统静坐功法", "Chinese", "Sitting", "Meditation", "Practices"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 中国传统静坐功法 | Chinese Sitting Meditation Practices
 
 > **领域**：中国本土冥想与禅修（Chinese Indigenous Meditation）

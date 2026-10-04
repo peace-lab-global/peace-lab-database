@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_Biology_Integration.md
   relation: 炎症/hpa/loneliness
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 孤独生物学机制整合 | Loneliness: Biological Mechanisms Integration
 
 > **文档类型**：机制综述 | Mechanistic Review  
@@ -292,7 +296,7 @@ HPA轴慢性激活 + 炎症
 
 ## 8. 微生物-肠-脑轴（概要）
 
-> **详细内容请参见独立专题**：[Loneliness Gut Brain Axis](社会心理-孤独-Loneliness_Gut_Brain_Axis.md)
+> **详细内容请参见独立专题**：[Loneliness Gut Brain Axis](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E8%82%A0%E9%81%93BrainAxis.md)
 
 ### 8.1 核心发现摘要
 

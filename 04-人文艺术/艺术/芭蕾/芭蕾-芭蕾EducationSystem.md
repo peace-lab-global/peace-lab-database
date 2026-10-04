@@ -21,7 +21,11 @@ cross_refs:
   relation: 芭蕾/芭蕾/舞蹈
 - path: 05-实践成长/个人发展/实践/INDEX.md
   relation: 教育al/faculty/system
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 芭蕾舞教育体系 (Ballet Educational System)
 
 > **芭蕾舞教育 (Ballet Education)**

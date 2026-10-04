@@ -13,7 +13,11 @@ intent_queries:
   - "Fasting Safety & Risk Management的方法与实践"
 trigger_keywords: ["Fasting", "Safety", "Risk", "Management", "断食安全性与风险管理"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Fasting Safety & Risk Management (断食安全性与风险管理)
 
 ### Electrolytes, Hydration & Support (电解质与水合支持表)

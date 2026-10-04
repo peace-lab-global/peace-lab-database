@@ -19,7 +19,11 @@ cross_refs:
   relation: lab/peace
 - path: 04-人文艺术/媒体/电影/INDEX.md
   relation: lab/peace
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 佛教内观冥想 | Buddhist Vipassanā Meditation
 
 ## 概述
@@ -41,7 +45,7 @@ cross_refs:
 - [内观冥想总览（中文）](传统-佛教-内观-观冥想.md)
 - [Buddhist Vipassana 总览（中文）](传统-佛教-内观-Buddhist观总览.md)
 - [Buddhist Vipassana Overview](传统-佛教-内观-Buddhist_Vipassana_Overview.md)
-- [Vipassana Meditation](传统-佛教-内观-Vipassana_Meditation.md)
+- [Vipassana Meditation](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md)
 
 ## 相关资源
 

@@ -13,7 +13,11 @@ intent_queries:
   - "圣严法师的方法与实践"
 trigger_keywords: ["圣严法师", "Sheng", "Yen", "Master"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 圣严法师 (Sheng Yen / Master Sheng Yen)
 
 > "面对它、接受它、处理它、放下它。"

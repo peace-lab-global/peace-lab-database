@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/哲学/东亚哲学/越南/东亚哲学-越南-confucianism-Buddhist_Perspective_Reviews.md
   relation: 佛教/thich/hanh
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《The Heart of Buddha's Teaching》
 
 > 一行禅师（Thich Nhat Hanh）著，1998年出版。一行禅师对佛教核心教义的全面阐述——四圣谛、八正道、十二因缘、无我、涅槃——以他标志性的温和和诗意来呈现。被誉为"当代最好的佛教入门书之一"。

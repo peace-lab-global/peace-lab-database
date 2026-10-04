@@ -13,7 +13,11 @@ intent_queries:
   - "失眠综合干预的方法与实践"
 trigger_keywords: ["失眠综合干预", "Insomnia", "Comprehensive", "Interventions"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 失眠综合干预 (Insomnia Comprehensive Interventions)
 
 > **目标**：系统化的失眠多元干预知识体系，涵盖药物、光疗法、正念、瑜伽尼德拉、补充剂、东方传统方法及跨学科整合。

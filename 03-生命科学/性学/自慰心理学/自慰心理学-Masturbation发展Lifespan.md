@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/社会心理/独处/社会心理-独处-Solitude_Developmental.md
   relation: life水疗n/across/childhood
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Masturbation Across the Lifespan: A Developmental Psychology Perspective (自慰行为的发展心理学视角：生命周期纵览)
 
 > 基于发展心理学与流行病学研究，系统梳理自慰行为在各生命阶段的表现特征、心理意义与适应性功能。内容遵循循证原则，旨在提供发展性正常化框架，支持各年龄阶段的性健康教育与临床评估。

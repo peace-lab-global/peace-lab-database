@@ -22,7 +22,11 @@ cross_refs:
   relation: 芭蕾/芭蕾/舞蹈
 - path: 03-生命科学/性学/性偏好障碍/特定类型/性偏好障碍-特定类型-Ballet_Dancer_Fetishism.md
   relation: 芭蕾/芭蕾
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 芭蕾舞历史发展专题 (Ballet History Development Special Topic)
 
 > **芭蕾舞历史发展概览**

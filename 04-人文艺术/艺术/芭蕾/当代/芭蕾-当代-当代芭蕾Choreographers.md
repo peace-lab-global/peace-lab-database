@@ -23,7 +23,11 @@ cross_refs:
   relation: 芭蕾/芭蕾
 - path: 05-实践成长/个人发展/职业吸引力/芭蕾/职业吸引力-芭蕾-Ballet_Professional_Attraction.md
   relation: 芭蕾/芭蕾/舞蹈
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 当代芭蕾重要编舞家专题 (Contemporary Ballet Choreographers)
 
 > **当代芭蕾编舞 (Contemporary Ballet Choreography)**

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 古代 | 古代
 
@@ -14,7 +17,7 @@ auto_generated: true
 ## 📄 文件 | Files (33)
 
 - [西方哲学-古代-classical-Aristotle.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%A3-%E5%8F%A4%E5%85%B8-%E4%BA%9A%E9%87%8C%E5%A3%AB%E5%A4%9A%E5%BE%B7.md)
-- [西方哲学-古代-classical-Buddhist_Perspective_Reviews.md](西方哲学-古代-classical-Buddhist_Perspective_Reviews.md)
+- [西方哲学-古代-classical-Buddhist_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%A3-%E5%8F%A4%E5%85%B8-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-古代-classical-Epicurus.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%A3-%E5%8F%A4%E5%85%B8-%E4%BC%8A%E5%A3%81%E9%B8%A0%E9%B2%81.md)
 - [西方哲学-古代-classical-Multi_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%A3-%E5%8F%A4%E5%85%B8-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-古代-classical-Plato.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E5%8F%A4%E4%BB%A3-%E5%8F%A4%E5%85%B8-%E6%9F%8F%E6%8B%89%E5%9B%BE.md)

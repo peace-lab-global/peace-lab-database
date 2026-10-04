@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (3)
 
-- [芭蕾-鉴赏-Ballet_Appreciation_Guide.md](芭蕾-鉴赏-Ballet_Appreciation_Guide.md)
+- [芭蕾-鉴赏-Ballet_Appreciation_Guide.md](%E8%8A%AD%E8%95%BE-%E9%89%B4%E8%B5%8F-%E8%8A%AD%E8%95%BEAppreciation%E6%8C%87%E5%8D%97.md)
 - [芭蕾-鉴赏-芭蕾Appreciation指南.md](芭蕾-鉴赏-芭蕾Appreciation指南.md)
 
 

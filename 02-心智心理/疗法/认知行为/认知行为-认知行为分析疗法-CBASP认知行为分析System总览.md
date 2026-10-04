@@ -14,7 +14,11 @@ intent_queries:
   - "认知行为分析系统心理治疗的循证证据"
 trigger_keywords: ["认知行为分析系统心理治疗", "CBASP:", "Cognitive", "Behavioral", "Analysis"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 认知行为分析系统心理治疗 (CBASP: Cognitive Behavioral Analysis System of Psychotherapy)
 
 > **目标**：建立完整的CBASP理论体系与实践框架，涵盖核心概念、治疗技术、实施流程及循证应用。CBASP是专门为慢性抑郁症开发的整合性治疗方法，强调人际情境学习和现实关系改善。

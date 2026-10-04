@@ -28,7 +28,11 @@ cross_refs:
   relation: oh/cards/basic
 - path: 02-心智心理/疗法/创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Terminology_Concepts.md
   relation: oh/cards/疗法
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # OH卡与绘画疗法临床案例研究报告 (Clinical Case Study Report: OH Cards & Art Therapy)
 
 > **循证实践与临床经验总结**

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 经典 | 经典
 
@@ -13,9 +16,9 @@ auto_generated: true
 
 ## 📄 文件 | Files (7)
 
-- [道家-经典-Dao_De_Jing.md](道家-经典-Dao_De_Jing.md)
+- [道家-经典-Dao_De_Jing.md](%E9%81%93%E5%AE%B6-%E7%BB%8F%E5%85%B8-%E9%81%93%E5%AE%B6DeJing.md)
 - [道家-经典-Liezi.md](%E9%81%93%E5%AE%B6-%E7%BB%8F%E5%85%B8-%E5%88%97%E5%AD%90.md)
-- [道家-经典-Zhuangzi.md](道家-经典-Zhuangzi.md)
+- [道家-经典-Zhuangzi.md](%E9%81%93%E5%AE%B6-%E7%BB%8F%E5%85%B8-%E5%BA%84%E5%AD%90.md)
 - [道家-经典-列子.md](道家-经典-列子.md)
 - [道家-经典-庄子.md](道家-经典-庄子.md)
 - [道家-经典-道家DeJing.md](道家-经典-道家DeJing.md)

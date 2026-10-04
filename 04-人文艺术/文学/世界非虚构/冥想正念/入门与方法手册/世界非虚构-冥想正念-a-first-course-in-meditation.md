@@ -27,7 +27,11 @@ cross_refs:
   relation: 呼吸/冥想
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/核心课程/与呼吸同频/与呼吸同频：答疑解惑：冥想中的呼吸.md
   relation: 呼吸/冥想
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《平静的第一堂课》A First Course in Meditation
 
 > 一行禅师（Thich Nhat Hanh）著，2011年出版。一行禅师为完全初学者设计的冥想入门，以极短的章节、简单的练习和温柔的语言，邀请任何人——无论年龄、身体状况、宗教信仰——开始冥想。
@@ -69,7 +73,7 @@ cross_refs:
 
 ## 四、延伸阅读
 
-- 本库相关条目：[《正念的奇迹》The Miracle of Mindfulness](../../%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99/the/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99-the-miracle-of-mindfulness.md)、[冥想基础总览](../../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-Meditation_Mind_Management.md)
+- 本库相关条目：[《正念的奇迹》The Miracle of Mindfulness](../../%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99/the/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99-the-miracle-of-mindfulness.md)、[冥想基础总览](../../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E5%BF%83%E6%99%BA%E7%AE%A1%E7%90%86.md)
 - Kabat-Zinn, J. (1994). *Wherever You Go, There You Are* —— 写给普通读者的正念入门经典。
 
 ## 五、阅读体验

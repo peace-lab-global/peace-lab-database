@@ -13,7 +13,11 @@ intent_queries:
   - "Clinical Psychology of Masturbation的方法与实践"
 trigger_keywords: ["Clinical", "Psychology", "of", "Masturbation", "自慰的临床心理学意义"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Clinical Psychology of Masturbation (自慰的临床心理学意义)
 
 > 从临床心理学视角系统阐述自慰在性治疗、性功能障碍评估、罪疚感干预及强迫性性行为鉴别中的核心角色。内容基于循证临床实践，旨在为心理健康专业人员提供实用临床指导框架。

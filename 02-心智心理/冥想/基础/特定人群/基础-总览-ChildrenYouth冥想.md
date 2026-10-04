@@ -25,7 +25,11 @@ cross_refs:
   relation: 正念/正念/冥想
 - path: 04-人文艺术/媒体/音乐/古典音乐/general/音乐-古典音乐-general-Classical_Music_Integration.md
   relation: 觉察/冥想/正念
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 儿童青少年冥想 | Children & Youth Meditation
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）

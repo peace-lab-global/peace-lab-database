@@ -23,7 +23,11 @@ cross_refs:
   relation: 焦虑/恐惧
 - path: 05-实践成长/个人发展/拖延症/Procrastination心理Regulation/拖延症-Procrastination心理Regulation.md
   relation: 认知重构/焦虑
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 焦虑认知重构
 
 ## 目录

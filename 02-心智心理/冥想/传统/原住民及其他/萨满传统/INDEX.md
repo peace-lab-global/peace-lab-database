@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 萨满传统 | 萨满传统
 
@@ -14,7 +17,7 @@ auto_generated: true
 ## 📄 文件 | Files (5)
 
 - [传统-原住民及其他-萨满传统-ShamanicTraditions总览.md](传统-原住民及其他-萨满传统-ShamanicTraditions总览.md)
-- [传统-原住民及其他-萨满传统-Shamanic_Practical_Guide.md](传统-原住民及其他-萨满传统-Shamanic_Practical_Guide.md)
+- [传统-原住民及其他-萨满传统-Shamanic_Practical_Guide.md](%E4%BC%A0%E7%BB%9F-%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%8F%8A%E5%85%B6%E4%BB%96-%E8%90%A8%E6%BB%A1%E4%BC%A0%E7%BB%9F-Shamanic%E5%AE%9E%E7%94%A8%E6%8C%87%E5%8D%97.md)
 - [传统-原住民及其他-萨满传统-Shamanic_Traditions_Overview.md](%E4%BC%A0%E7%BB%9F-%E5%8E%9F%E4%BD%8F%E6%B0%91%E5%8F%8A%E5%85%B6%E4%BB%96-%E8%90%A8%E6%BB%A1%E4%BC%A0%E7%BB%9F-ShamanicTraditions%E6%80%BB%E8%A7%88.md)
 - [传统-原住民及其他-萨满传统-Shamanic实用指南.md](传统-原住民及其他-萨满传统-Shamanic实用指南.md)
 

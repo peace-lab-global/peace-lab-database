@@ -25,7 +25,11 @@ cross_refs:
   relation: rain/情绪调节/情绪
 - path: 02-心智心理/心理学/应用心理/亲密关系/性学/应用心理-亲密关系-性学-自慰与关系-Masturbation_Mechanisms_Motivation.md
   relation: 情绪调节/gross/情绪
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 情绪调节训练 | Emotion Regulation Training
 
 > **学科定位**: 临床心理学 x 自我管理 x 行为训练

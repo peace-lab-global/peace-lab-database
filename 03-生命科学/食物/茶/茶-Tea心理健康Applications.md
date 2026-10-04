@@ -26,7 +26,11 @@ cross_refs:
   relation: 失眠/障碍/睡眠
 - path: 02-心智心理/心理学/躯体身心/睡眠/躯体身心-睡眠-技能-_manifest.md
   relation: 失眠/睡眠/障碍
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Tea & Mental Health Clinical Applications (茶与心理健康临床应用)
 
 ## 茶与精神障碍关系总表 (Tea & Psychiatric Disorders Overview)

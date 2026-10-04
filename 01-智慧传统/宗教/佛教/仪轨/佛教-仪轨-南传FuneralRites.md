@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/死亡/哲学文化/哲学文化-Death传统Views深研.md
   relation: mara/死亡/临终
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 南传佛教丧葬超度仪轨 (Theravada Funeral Rites)
 
 > **南传丧葬仪轨 (Maraṇānussati & Mataka-vatthu)**：南传佛教对死亡的态度是正视而非逃避，丧葬仪轨的核心是帮助亡者往生善道、提醒生者念死无常，最终导向解脱。

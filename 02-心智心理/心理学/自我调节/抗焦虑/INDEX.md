@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 抗焦虑 | 抗焦虑
 
@@ -13,7 +16,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (29)
 
-- [自我调节-抗焦虑-Anxiety_Assessment_Skill.md](自我调节-抗焦虑-Anxiety_Assessment_Skill.md)
+- [自我调节-抗焦虑-Anxiety_Assessment_Skill.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E8%AF%84%E4%BC%B0Skill.md)
 - [自我调节-抗焦虑-Anxiety_Self_Monitoring.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91Self%E7%9B%91%E6%B5%8B.md)
 - [自我调节-抗焦虑-Cognitive_Restructuring_Anxiety.md](自我调节-抗焦虑-Cognitive_Restructuring_Anxiety.md)
 - [自我调节-抗焦虑-Daily_Training_Protocol_Anxiety.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-Daily%E5%9F%B9%E8%AE%AD%E6%96%B9%E6%A1%88%E7%84%A6%E8%99%91.md)
@@ -22,13 +25,13 @@ auto_generated: true
 - [自我调节-抗焦虑-Exposure_Training_Guide.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-Exposure%E5%9F%B9%E8%AE%AD%E6%8C%87%E5%8D%97.md)
 - [自我调节-抗焦虑-Exposure培训指南.md](自我调节-抗焦虑-Exposure培训指南.md)
 - [自我调节-抗焦虑-Intolerance_Uncertainty.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E4%B8%8D%E7%A1%AE%E5%AE%9A%E6%80%A7%E7%9A%84%E4%B8%8D%E5%AE%B9%E5%BF%8D.md)
-- [自我调节-抗焦虑-Mindfulness_Acceptance.md](自我调节-抗焦虑-Mindfulness_Acceptance.md)
+- [自我调节-抗焦虑-Mindfulness_Acceptance.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E6%AD%A3%E5%BF%B5Acceptance.md)
 - [自我调节-抗焦虑-Nature_of_Anxiety.md](自我调节-抗焦虑-Nature_of_Anxiety.md)
 - [自我调节-抗焦虑-Natureof焦虑.md](自我调节-抗焦虑-Natureof焦虑.md)
 - [自我调节-抗焦虑-Sleep_Anxiety.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E7%9D%A1%E7%9C%A0%E7%84%A6%E8%99%91.md)
 - [自我调节-抗焦虑-Social_Anxiety_Coping.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-Social%E7%84%A6%E8%99%91Coping.md)
 - [自我调节-抗焦虑-Social焦虑Coping.md](自我调节-抗焦虑-Social焦虑Coping.md)
-- [自我调节-抗焦虑-Somatic_Regulation_Techniques.md](自我调节-抗焦虑-Somatic_Regulation_Techniques.md)
+- [自我调节-抗焦虑-Somatic_Regulation_Techniques.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E8%BA%AF%E4%BD%93Regulation%E6%8A%80%E6%9C%AF.md)
 - [自我调节-抗焦虑-_manifest.md](自我调节-抗焦虑-_manifest.md)
 - [自我调节-抗焦虑-_protocol.md](%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E6%96%B9%E6%A1%88.md)
 - [自我调节-抗焦虑-不确定性的不容忍.md](自我调节-抗焦虑-不确定性的不容忍.md)

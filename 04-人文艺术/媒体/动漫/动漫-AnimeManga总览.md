@@ -13,7 +13,11 @@ intent_queries:
   - "动漫概述 | Anime & Manga Overview的方法与实践"
 trigger_keywords: ["动漫概述", "Anime", "Manga", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 动漫概述 | Anime & Manga Overview
 
 > 动漫（Anime & Manga）是日本最具全球影响力的文化输出之一，也是21世纪跨文化传播最成功的艺术形式。从手塚治虫（Tezuka Osamu）开创现代漫画语法，到宫崎骏（Miyazaki Hayao）将动画提升至世界电影艺术的高度，再到新海诚（Shinkai Makoto）用数字技术重新定义视觉美学，动漫已从"亚文化"成长为影响全球数十亿人的主流叙事媒介。本文件系统梳理动漫的历史脉络、主要类型、文化意义与心理学价值。

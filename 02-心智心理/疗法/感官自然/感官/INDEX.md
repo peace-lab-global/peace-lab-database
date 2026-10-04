@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 感官 | 感官
 
@@ -25,13 +28,13 @@ auto_generated: true
 - [感官自然-感官-Sensory_Mantra_Sacred_Sound.md](感官自然-感官-Sensory_Mantra_Sacred_Sound.md)
 - [感官自然-感官-Sensory_Music_Thanatology.md](感官自然-感官-Sensory_Music_Thanatology.md)
 - [感官自然-感官-Sensory_Nada_Yoga.md](感官自然-感官-Sensory_Nada_Yoga.md)
-- [感官自然-感官-Sensory_SPA_Bodywork.md](感官自然-感官-Sensory_SPA_Bodywork.md)
+- [感官自然-感官-Sensory_SPA_Bodywork.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98SPABodywork.md)
 - [感官自然-感官-Sensory_Solfeggio_Frequencies.md](感官自然-感官-Sensory_Solfeggio_Frequencies.md)
 - [感官自然-感官-Sensory_Sound_Medicine.md](感官自然-感官-Sensory_Sound_Medicine.md)
 - [感官自然-感官-Sensory_Vibrational_Instruments.md](感官自然-感官-Sensory_Vibrational_Instruments.md)
 - [感官自然-感官-Sensory_Vibroacoustic_Therapy.md](感官自然-感官-Sensory_Vibroacoustic_Therapy.md)
 - [感官自然-感官-Sensory_Vocal_Therapy.md](感官自然-感官-Sensory_Vocal_Therapy.md)
-- [感官自然-感官-Sensory_Writing_Journaling.md](感官自然-感官-Sensory_Writing_Journaling.md)
+- [感官自然-感官-Sensory_Writing_Journaling.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98WritingJournaling.md)
 - [感官自然-感官-Sensory_Zentangle_Art.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E6%84%9F%E5%AE%98-%E6%84%9F%E5%AE%98Zentangle%E8%89%BA%E6%9C%AF.md)
 - [感官自然-感官-感官444HzFrequency疗法.md](感官自然-感官-感官444HzFrequency疗法.md)
 - [感官自然-感官-感官AromatherapyOlfactory.md](感官自然-感官-感官AromatherapyOlfactory.md)

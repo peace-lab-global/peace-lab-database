@@ -23,7 +23,11 @@ cross_refs:
   relation: habit/习惯/stacking
 - path: 05-实践成长/个人发展/主题/习惯行为/主题-习惯行为-Personal_Development_Tiny_Habits.md
   relation: 习惯/bj/fogg
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide
 
 > **领域**：冥想行为设计与持续实践系统（Meditation Behavioral Design & Sustainable Practice）

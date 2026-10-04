@@ -13,7 +13,11 @@ intent_queries:
   - "家庭系统排列案例分析与临床实例的方法与实践"
 trigger_keywords: ["家庭系统排列案例分析与临床实例", "Family", "Constellation", "Case", "Analysis"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 家庭系统排列案例分析与临床实例 (Family Constellation Case Analysis & Clinical Examples)
 
 ## 案例分析框架 (Case Analysis Framework)
@@ -345,8 +349,8 @@ cross_refs: []
 | 家庭系统排列概述 | [Family_Constellation_Overview](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E6%80%BB%E8%A7%88.md) | 系统排列基础理论与三大法则 |
 | 系统排列临床应用 | [Family_Constellation_Clinical](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E4%B8%B4%E5%BA%8A.md) | 临床适应症、禁忌症与治疗框架 |
 | 排列技术详解 | [Family_Constellation_Techniques](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97-%E5%AE%B6%E5%BA%AD%E7%B3%BB%E7%BB%9F%E6%8E%92%E5%88%97%E6%8A%80%E6%9C%AF.md) | 排列实操技术与治疗师培训 |
-| 创伤治疗概述 | [Trauma_Treatment_Overview](../../临床/创伤/临床-创伤-Trauma_Treatment_Overview.md) | 创伤知情视角与多种创伤治疗方法比较 |
-| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) | 案例一、五中创伤后症状的专业治疗路径 |
+| 创伤治疗概述 | [Trauma_Treatment_Overview](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E6%B2%BB%E7%96%97%E6%80%BB%E8%A7%88.md) | 创伤知情视角与多种创伤治疗方法比较 |
+| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) | 案例一、五中创伤后症状的专业治疗路径 |
 | EMDR疗法 | [EMDR_Overview](../../../%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95-EMDR%E7%9C%BC%E9%83%A8MovementDesensitization%E6%80%BB%E8%A7%88.md) | 案例一中代际创伤的EMDR整合治疗 |
 | 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../躯体身心/情绪/躯体身心-情绪-情绪Focused疗法.md) | 案例三中情绪加工的EFT取向补充 |
 | CBT认知行为疗法 | [CBT_Overview](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) | 案例一中CBT作为先期治疗的角色 |

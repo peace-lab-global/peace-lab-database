@@ -4,7 +4,10 @@ description: "AvPD DSM-5 诊断标准、与社会焦虑障碍鉴别、治疗"
 category: "clinical"
 tags: ["AvPD", "avoidant", "social-anxiety", "personality-disorders"]
 last_updated: "2026-07"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 回避型人格障碍 (Avoidant Personality Disorder, AvPD)
 

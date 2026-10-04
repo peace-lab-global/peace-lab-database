@@ -27,7 +27,11 @@ cross_refs:
   relation: 上师/死亡/佛教
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/临终/佛教
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《普贤上师言教》Words of My Perfect Teacher
 
 > 巴楚仁波切（Patrul Rinpoche）著，19世纪。藏传佛教宁玛派最重要的修行指南之一，系统阐述了从"转心四思维"到"大圆满"的完整道路。书名中的"完美上师"指的是巴楚仁波切的上师吉美林巴。这本书是藏地修行者最广泛阅读的实修手册之一。
@@ -64,7 +68,7 @@ cross_refs:
 
 ## 四、延伸阅读
 
-- 本库相关条目：[《人间是剧场》Not for Happiness](世界非虚构-灵性佛教-not-for-happiness.md)——宗萨钦哲仁波切专为"前行"修持所写的现代导读。
+- 本库相关条目：[《人间是剧场》Not for Happiness](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%81%B5%E6%80%A7%E4%BD%9B%E6%95%99-%E4%B8%8D%E6%98%AF%E4%B8%BA%E4%BA%86%E5%B9%B8%E7%A6%8F.md)——宗萨钦哲仁波切专为"前行"修持所写的现代导读。
 - 英译：Padmakara Translation Group 译本（Shambhala, 1994；1998 修订）最为通行。
 
 ## 五、阅读体验

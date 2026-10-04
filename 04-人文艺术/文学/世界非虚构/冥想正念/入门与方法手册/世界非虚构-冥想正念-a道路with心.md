@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/大师/传统-大师-西方先驱-Jack_Kornfield.md
   relation: kornfield/jack/heart
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《有心之路》A Path with Heart
 
 > 杰克·康菲尔德（Jack Kornfield）著，1993年出版。康菲尔德将他在泰国、缅甸和印度的修行经验，与美国西海岸的灵性探索结合，提出了一条"有心"的修行道路——不是逃避情感，而是**通过情感来修行**。

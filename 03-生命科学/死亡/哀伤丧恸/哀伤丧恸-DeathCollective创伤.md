@@ -13,7 +13,11 @@ intent_queries:
   - "Collective Death Trauma: War, Disaster & Mass Mortality的方法与实践"
 trigger_keywords: ["Collective", "Death", "Trauma:", "War", "Disaster"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # Collective Death Trauma: War, Disaster & Mass Mortality (集体死亡创伤：战争、灾难与大规模死亡)
 
 > *"个人的哀伤是私人的；集体的哀伤是政治的。"*

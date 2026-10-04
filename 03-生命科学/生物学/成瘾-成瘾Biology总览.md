@@ -4,7 +4,10 @@ description: "成瘾是一种慢性脑疾病，涉及奖赏、动机、记忆及
 category: "生命科学"
 tags: [biology]
 last_updated: "2026-09"
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
 
 # 物质成瘾生物学总览 | Substance Addiction Biology Overview
 

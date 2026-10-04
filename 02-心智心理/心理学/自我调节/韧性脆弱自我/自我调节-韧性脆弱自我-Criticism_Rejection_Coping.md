@@ -18,7 +18,11 @@ cross_refs:
   relation: 羞耻/自我价值
 - path: 04-人文艺术/文学/中国现代文学/当代/white/中国现代文学-当代-white-deer-plain-Revolution_Tradition.md
   relation: 愤怒/vs
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 批评与拒绝应对
 
 ## 目录

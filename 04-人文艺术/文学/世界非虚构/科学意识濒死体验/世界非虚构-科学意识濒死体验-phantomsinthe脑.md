@@ -13,7 +13,11 @@ intent_queries:
   - "《脑中魅影》Phantoms in the Brain的方法与实践"
 trigger_keywords: ["《脑中魅影》Phantoms", "in", "the", "Brain"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《脑中魅影》Phantoms in the Brain
 
 **作者**：V.S. 拉马钱德兰 (V.S. Ramachandran) & 桑德拉·布莱克斯利 (Sandra Blakeslee)  

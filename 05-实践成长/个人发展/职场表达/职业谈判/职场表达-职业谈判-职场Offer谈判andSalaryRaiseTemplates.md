@@ -13,7 +13,11 @@ intent_queries:
   - "Offer谈判与涨薪话术模板的方法与实践"
 trigger_keywords: ["Offer谈判与涨薪话术模板", "Offer", "Negotiation", "Salary", "Raise"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Offer谈判与涨薪话术模板 (Offer Negotiation & Salary Raise Templates)
 
 > **定位**：帮助在拿到口头/书面offer、内部申请涨薪、晋升调薪或反向留人谈判时，更系统地准备筹码、判断行情、组织表达

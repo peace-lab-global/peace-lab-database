@@ -23,7 +23,11 @@ cross_refs:
   relation: hpa/axis/sam
 - path: 02-心智心理/心理学/压力与HPA轴/皮质醇/压力与HPA轴-皮质醇-Cortisol_Neuroscience.md
   relation: hpa/gr/mr
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # HPA轴概览 (HPA Axis Overview)
 
 > **下丘脑-垂体-肾上腺轴** (Hypothalamic-Pituitary-Adrenal Axis)

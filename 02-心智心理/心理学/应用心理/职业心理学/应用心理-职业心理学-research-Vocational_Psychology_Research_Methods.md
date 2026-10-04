@@ -28,7 +28,11 @@ cross_refs:
   relation: data/research/methods
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/a/INDEX.md
   relation: psychology/research/methodology
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 职业心理学研究方法与数据分析体系 (Vocational Psychology Research Methods & Data Analysis System)
 
 > 📘 **文档导航**: 本指南系统阐述职业心理学研究的方法论体系、数据分析技术和质量控制标准。相关文档：

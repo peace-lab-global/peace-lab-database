@@ -13,7 +13,11 @@ intent_queries:
   - "TED艺术与文化精选 | TED Arts & Culture Collection的方法与实践"
 trigger_keywords: ["TED艺术与文化精选", "healing"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # TED艺术与文化精选 | TED Arts & Culture Collection
 
 > **艺术与文化**是人类精神文明的重要载体。本文件精选TED平台上关于视觉艺术、音乐表演、文化表达等领域的精彩演讲，为艺术爱好者和文化研究者提供丰富的思想资源。

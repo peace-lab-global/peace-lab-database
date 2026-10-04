@@ -13,7 +13,11 @@ intent_queries:
   - "佛教高级修行主题详论的方法与实践"
 trigger_keywords: ["佛教高级修行主题详论", "Advanced", "Buddhist", "Practice", "Topics"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 佛教高级修行主题详论 (Advanced Buddhist Practice Topics)
 
 > **佛教高级修行 (Advanced Buddhist Practice)**：涵盖菩提心、空性见、心念转化、业力因果等深层次的修行主题，涉及佛教修行的核心智慧和究竟成就。

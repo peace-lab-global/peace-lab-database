@@ -13,7 +13,11 @@ intent_queries:
   - "Masturbation in Cultural and Historical Perspective的方法与实践"
 trigger_keywords: ["Masturbation", "in", "Cultural", "and", "Historical"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Masturbation in Cultural and Historical Perspective (自慰观念的社会文化变迁与历史视角)
 
 > 从文化人类学、宗教研究与历史学视角，系统梳理自慰行为在不同文明、宗教传统与历史时期中的观念演变。揭示"自慰"概念如何从道德禁忌转变为医学病理，再到当代的正常化与去污名化。

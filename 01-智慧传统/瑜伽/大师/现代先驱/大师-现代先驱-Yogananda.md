@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-autobiography-of-a-yogi.md
   relation: yogananda/paramahansa/瑜伽
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 帕拉宏撒·尤迦南达（Paramahansa Yogananda / परमहंस योगानन्द）
 
 > 《一个瑜伽行者的自传》作者——将克利亚瑜伽带向西方的灵性大使

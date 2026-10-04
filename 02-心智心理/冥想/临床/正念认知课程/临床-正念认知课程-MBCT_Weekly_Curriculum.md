@@ -727,7 +727,7 @@ ______________________________________________
 ### 知识库相关模块
 - [MBSR 八周课程](../正念减压课程/临床-正念减压课程-MBSR_Weekly_Curriculum.md) — 母本课程结构与教学参考
 - [冥想神经科学机制](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) — 正念练习的脑机制
-- [冥想临床应用](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) — 正念干预的适应症
+- [冥想临床应用](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) — 正念干预的适应症
 - [冥想不良反应与安全](../安全/临床-安全-Meditation_Adverse_Effects.md) — 课程中的风险管理
 - [创伤知情冥想](../安全/临床-安全-Meditation_Trauma_Sensitive.md) — 抑郁共病创伤的教学调整
 - [执行师培训体系](../../基础/修行者培训/基础-Practitioner培训总览.md) — MBCT教师认证

@@ -14,7 +14,11 @@ intent_queries:
   - "孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness的自助方法"
 trigger_keywords: ["孤独的认知心理学机制", "Cognitive", "Mechanisms", "of", "Loneliness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 孤独的认知心理学机制 | Cognitive Mechanisms of Loneliness
 
 > **核心定位**: 从信息加工视角解析孤独的认知维持机制

@@ -25,7 +25,11 @@ cross_refs:
   relation: 正念/mindfulness/meditation
 - path: 04-人文艺术/媒体/音乐/古典音乐/general/音乐-古典音乐-general-Classical_Music_Integration.md
   relation: 觉察/冥想/正念
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 儿童青少年冥想 | Children & Youth Meditation
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）
@@ -136,7 +140,7 @@ cross_refs:
 
 ## 相关链接
 
-- [冥想临床应用](../总览与理论/基础-总览-Meditation_Clinical_Applications.md)
+- [冥想临床应用](../%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)
 - [MBSR项目概述](../../临床/正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md)
 - [创伤知情冥想](../../临床/安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - [正念呼吸引导词](../../引导/引导-核心-Scripts正念Breathing.md)

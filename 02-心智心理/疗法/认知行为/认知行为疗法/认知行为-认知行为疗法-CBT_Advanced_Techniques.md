@@ -13,7 +13,11 @@ intent_queries:
   - "CBT高级技术的方法与实践"
 trigger_keywords: ["CBT高级技术", "CBT", "Advanced", "Techniques"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # CBT高级技术 (CBT Advanced Techniques)
 
 > 认知行为疗法的前沿技术与临床深化：从图式治疗到元认知干预的进阶实践

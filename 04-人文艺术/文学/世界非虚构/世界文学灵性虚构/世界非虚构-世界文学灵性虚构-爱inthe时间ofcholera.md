@@ -13,7 +13,11 @@ intent_queries:
   - "《霍乱时期的爱情》Love in the Time of Cholera的方法与实践"
 trigger_keywords: ["habits", "《霍乱时期的爱情》Love", "in", "the", "Time"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《霍乱时期的爱情》Love in the Time of Cholera
 
 > 加西亚·马尔克斯（Gabriel García Márquez）著，1985年出版。马尔克斯在获诺贝尔奖后的第一部小说，讲述了一段跨越五十年的爱情——弗洛伦蒂诺·阿里萨对费尔明娜·达萨的执着追求，从青年到老年，从情书到死亡边缘的告白。

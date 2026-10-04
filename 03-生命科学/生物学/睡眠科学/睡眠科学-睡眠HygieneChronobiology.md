@@ -4,7 +4,10 @@ description: "光是最强的授时因子，通过ipRGC(含黑视素的内在光
 category: "生命科学"
 tags: [biology]
 last_updated: "2026-09"
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
 
 # 睡眠卫生与昼夜节律 | Sleep Hygiene & Chronobiology
 

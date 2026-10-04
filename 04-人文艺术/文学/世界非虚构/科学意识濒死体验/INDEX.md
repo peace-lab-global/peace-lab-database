@@ -30,7 +30,7 @@ auto_generated: true
 - [世界非虚构-科学意识濒死体验-flight-toward-heaven.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E9%A3%9E%E5%90%91%E5%A4%A9%E5%A0%82.md)
 - [世界非虚构-科学意识濒死体验-hallucinations.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%B9%BB%E8%A7%89.md)
 - [世界非虚构-科学意识濒死体验-heaven-is-for-real.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%A4%A9%E5%A0%82%E6%98%AF%E7%9C%9F%E7%9A%84.md)
-- [世界非虚构-科学意识濒死体验-life-after-life.md](世界非虚构-科学意识濒死体验-life-after-life.md)
+- [世界非虚构-科学意识濒死体验-life-after-life.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E7%94%9F%E6%B4%BBafter%E7%94%9F%E6%B4%BB.md)
 - [世界非虚构-科学意识濒死体验-musicophilia.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E9%9F%B3%E4%B9%90%E5%97%9C%E5%A5%BD%E7%97%87.md)
 - [世界非虚构-科学意识濒死体验-my-descent-into-death.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-mydescentinto%E6%AD%BB%E4%BA%A1.md)
 - [世界非虚构-科学意识濒死体验-my-journey-to-heaven.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-my%E6%97%85%E7%A8%8Btoheaven.md)

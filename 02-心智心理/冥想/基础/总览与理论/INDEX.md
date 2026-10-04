@@ -5,26 +5,29 @@ last_updated: "2026-07"
 tags: ['总览与理论']
 description: "总览与理论 —— 心智与心理学"
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 总览与理论
 
 ## 文档列表
 
-- [Advanced Meditation (深度冥想：进阶指南)](./基础-总览-Meditation_Advanced.md)
+- [Advanced Meditation (深度冥想：进阶指南)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E9%AB%98%E9%98%B6.md)
 - [冥想与睡眠 | Meditation and Sleep](./基础-总览-Meditation_And_Sleep.md)
 - [Meditation Brain Science Foundations (冥想脑科学基础)](./基础-总览-Meditation_Brain_Science_Foundations.md)
-- [Meditation Clinical Applications (冥想临床应用详表)](./基础-总览-Meditation_Clinical_Applications.md)
+- [Meditation Clinical Applications (冥想临床应用详表)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)
 - [Core Meditation (冥想核心：基础与技巧)](./基础-总览-Meditation_Core.md)
 - [冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide](./基础-总览-Meditation_Documentary_Guide.md)
-- [General Meditation (冥想概论与通识)](./基础-总览-Meditation_General.md)
+- [General Meditation (冥想概论与通识)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3General.md)
 - [冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide](./基础-总览-Meditation_Habit_Formation_Guide.md)
 - [内感受与冥想专业指南 | Interoception & Meditation Guide](./基础-总览-Meditation_Interoception_Guide.md)
-- [Meditation Mind Management (冥想心念管理方法论)](./基础-总览-Meditation_Mind_Management.md)
+- [Meditation Mind Management (冥想心念管理方法论)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E5%BF%83%E6%99%BA%E7%AE%A1%E7%90%86.md)
 - [Meditation Neuroscience & Mechanisms (冥想神经科学与作用机制)](./基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [Meditation Philosophical Foundations (冥想哲学认知论基础)](./基础-总览-Meditation_Philosophical_Foundations.md)
+- [Meditation Philosophical Foundations (冥想哲学认知论基础)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E5%93%B2%E5%AD%A6%E5%9F%BA%E7%A1%80.md)
 - [冥想过程练习指导 | Meditation Practice Techniques](./基础-总览-Meditation_Practice_Techniques.md)
-- [Meditation Practitioner Training Q&A (冥想执行师培训问答)](./基础-总览-Meditation_Practitioner_QA.md)
+- [Meditation Practitioner Training Q&A (冥想执行师培训问答)](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3PractitionerQA.md)
 - [冥想密集闭关指南 | Meditation Retreat Guide](./基础-总览-Meditation_Retreat_Guide.md)
 - [Meditation Types & Classification (冥想类型与流派分类)](./基础-总览-Meditation_Types_Classification.md)
 - [超觉静坐研究证据 | Transcendental Meditation Research Evidence](./基础-总览-TM_Research_Evidence.md)

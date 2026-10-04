@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/中国性焦虑/中国性焦虑-现代SocietyMechanisms.md
   relation: 压力/习惯
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 失去与承受 (Loss & Endurance)
 
 > 苦难的极限测试——一个人到底能失去多少还不崩溃？

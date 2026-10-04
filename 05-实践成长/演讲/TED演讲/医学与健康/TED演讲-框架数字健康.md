@@ -13,7 +13,11 @@ intent_queries:
   - "数字健康 | Digital Health的方法与实践"
 trigger_keywords: ["数字健康", "decision-making", "intervention"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 数字健康 | Digital Health
 
 > **数字健康**（Digital Health）是医疗保健与数字技术融合的新兴领域——从远程医疗（Telemedicine）到健康可穿戴设备（Wearables），从电子病历（EHR）到AI辅助诊疗。数字健康正在从边缘创新走向主流医疗体系。本文件精选TED平台上关于数字健康的代表性演讲，帮助读者理解数字健康的技术前沿和实践挑战。

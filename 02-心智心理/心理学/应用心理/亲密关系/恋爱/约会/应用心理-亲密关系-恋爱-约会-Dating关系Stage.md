@@ -13,7 +13,11 @@ intent_queries:
   - "Dating Relationship Development Stages的方法与实践"
 trigger_keywords: ["Dating", "Relationship", "Development", "Stages", "约会关系发展阶段"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Relationship Development Stages (约会关系发展阶段)
 
 > 📘 **文档导航**: 本指南详细解析约会关系从初识到长期承诺的各个发展阶段。相关文档：

@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/临床/危机冥想/临床-危机冥想-Meditation_End_of_Life_Care_Guide.md
   relation: 临终/care/死亡
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # Clinical & Workplace Applications in Death Care (临床与职场死亡照护应用)
 
 > *"善终不是医学的胜利,而是关系的完成。"*

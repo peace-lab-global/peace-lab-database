@@ -13,7 +13,11 @@ intent_queries:
   - "幼童陪伴教育策略的方法与实践"
 trigger_keywords: ["幼童陪伴教育策略", "Early", "Childhood", "Companionship", "and"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 幼童陪伴教育策略 (Early Childhood Companionship and Education Strategies)
 
 > **目标**：构建完整的幼童陪伴教育策略体系，涵盖发展特点、教育原则、陪伴方法及实施策略。为0-6岁幼童提供科学化的陪伴教育支持，促进全面发展和健康成长。

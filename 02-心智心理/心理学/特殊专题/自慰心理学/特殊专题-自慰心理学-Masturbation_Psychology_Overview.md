@@ -13,7 +13,11 @@ intent_queries:
   - "Psychology of Masturbation: Overview and Theoretical Foundations的方法与实践"
 trigger_keywords: ["Psychology", "of", "Masturbation:", "Overview", "and"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Psychology of Masturbation: Overview and Theoretical Foundations (自慰心理学概述与理论基础)
 
 > 从多元心理学理论视角系统阐述自慰行为的心理学理解框架，涵盖术语演变、理论矩阵、心理功能分析、研究方法论评估与当前前沿。本文旨在为自慰心理学领域提供全景式学术地图。

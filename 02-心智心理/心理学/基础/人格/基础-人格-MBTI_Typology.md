@@ -13,7 +13,11 @@ intent_queries:
   - "MBTI 类型学的方法与实践"
 trigger_keywords: ["MBTI 类型学", "MBTI", "类型学", "Typology", "Jungian"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # MBTI 类型学 (MBTI Typology & Jungian Psychological Types)
 
 > **学科定位**: 02-Mind-Psychology > foundations > personality

@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Habit_Formation_Guide.md
   relation: habit/习惯/stacking
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Habit Science 习惯养成科学
 
 ## 核心术语与词源 (Core Terminology & Etymology)

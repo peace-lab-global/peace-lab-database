@@ -23,7 +23,11 @@ cross_refs:
   relation: fmri/neuroscience/神经科学
 - path: 03-生命科学/性学/性偏好障碍/特定类型/性偏好障碍-特定类型-Neuroscience_Mechanisms.md
   relation: fmri/neuroscience/神经科学
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 止观禅修神经科学研究 (Neuroscience of Samatha-Vipassana Meditation)
 
 > **止观禅修的神经科学** 自1990年代以来迅速发展，利用fMRI、EEG、DTI等脑成像技术揭示了禅修如何改变大脑的功能与结构。本文系统梳理该领域的核心发现、研究方法论与前沿方向。
@@ -337,7 +341,7 @@ cross_refs:
 | 禅定体系 | [Dhyana_Samadhi_System.md](传统-佛教-止观-Dhyana_Samadhi_System.md) | 禅定阶位体系 |
 | 现代心理学整合 | [Modern_Psychology_Integration.md](传统-佛教-止观-Modern_Psychology_Integration.md) | 临床应用 |
 | 冥想神经科学机制 | [Meditation_Neuroscience_Mechanisms.md](../../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) | 冥想通用神经科学 |
-| 冥想临床应用 | [Meditation_Clinical_Applications.md](../../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) | 临床应用概览 |
+| 冥想临床应用 | [Meditation_Clinical_Applications.md](../../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) | 临床应用概览 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md) | 表7.1-7.3 |
 | 冥想脑科学基础 | [Meditation_Brain_Science_Foundations.md](../../../基础/总览与理论/基础-总览-Meditation_Brain_Science_Foundations.md) | 脑科学基础 |
 

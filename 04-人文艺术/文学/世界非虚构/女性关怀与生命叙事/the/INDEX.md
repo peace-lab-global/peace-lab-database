@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (14)
 
-- [世界非虚构-女性关怀与生命叙事-the-art-of-dying.md](世界非虚构-女性关怀与生命叙事-the-art-of-dying.md)
+- [世界非虚构-女性关怀与生命叙事-the-art-of-dying.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%A5%B3%E6%80%A7%E5%85%B3%E6%80%80%E4%B8%8E%E7%94%9F%E5%91%BD%E5%8F%99%E4%BA%8B-the%E8%89%BA%E6%9C%AFofdying.md)
 - [世界非虚构-女性关怀与生命叙事-the-best-care-possible.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%A5%B3%E6%80%A7%E5%85%B3%E6%80%80%E4%B8%8E%E7%94%9F%E5%91%BD%E5%8F%99%E4%BA%8B-%E5%B0%BD%E5%8F%AF%E8%83%BD%E5%A5%BD%E7%9A%84%E5%85%B3%E6%80%80.md)
 - [世界非虚构-女性关怀与生命叙事-the-electric-woman.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%A5%B3%E6%80%A7%E5%85%B3%E6%80%80%E4%B8%8E%E7%94%9F%E5%91%BD%E5%8F%99%E4%BA%8B-%E7%94%B5%E5%AD%90%E5%A5%B3%E4%BA%BA.md)
 - [世界非虚构-女性关怀与生命叙事-the-empathy-exams.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%A5%B3%E6%80%A7%E5%85%B3%E6%80%80%E4%B8%8E%E7%94%9F%E5%91%BD%E5%8F%99%E4%BA%8B-%E5%85%B1%E6%83%85%E6%B5%8B%E8%AF%95.md)

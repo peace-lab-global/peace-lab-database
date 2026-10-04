@@ -13,7 +13,11 @@ intent_queries:
   - "南传佛教日常功课仪轨的方法与实践"
 trigger_keywords: ["南传佛教日常功课仪轨", "Theravada", "Daily", "Practice", "Rituals"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 南传佛教日常功课仪轨 (Theravada Daily Practice Rituals)
 
 > **南传日常功课 (Dina-pūjā)**：南传上座部佛教最基本的修持仪轨，涵盖从清晨到夜晚的完整修行安排，是僧俗二众每日必修的功课体系。

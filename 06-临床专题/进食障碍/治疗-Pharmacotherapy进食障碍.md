@@ -4,7 +4,10 @@ description: "进食障碍精神药理学：SSRI/奥氮平/lisdexamfetamine/营�
 category: "clinical"
 tags: ["pharmacotherapy", "SSRI", "olanzapine", "lisdexamfetamine", "eating-disorders"]
 last_updated: "2026-07"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 进食障碍药物疗法 (Pharmacotherapy for Eating Disorders)
 

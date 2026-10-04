@@ -136,13 +136,13 @@ Dr. Caroline Figueroa（TU Delft）特别指出需要"共识性危机转介框�
 
 ### 1.5 关键引述与专家立场
 
-| 人物 | 职位 | 关键引述 | 立场解读 |
+| 人物 | 职位 | 关键表述（据改写档案转述，**非逐字原文**） | 立场解读 |
 |------|------|---------|---------|
-| **Dr. Alain Labrique** | WHO数据与数字健康部主任 | "As AI interacts with people in emotional vulnerability, we must ensure these systems are governed with safety and well-being." | 安全优先，强调脆弱人群保护 |
-| **Sameer Pujari** | WHO AI负责人 | "We are at a critical juncture. AI adoption has far outstripped investment in understanding its mental health impact." | 证据赤字论——AI应用速度远超研究投入 |
-| **Dr. Kenneth Carswell** | WHO非传染病与心理健康部 | "Minimizing risks from generative AI while maximizing benefits requires bringing together the voices of those most affected." | 多利益相关方参与，用户福利中心化 |
-| **Dr. Caroline Figueroa** | TU Delft | 强调需要"crisis referral frameworks and accountability systems" | 危机转介是底线要求，不是可选项 |
-| **Dr. Stefan Buijsman** | DDEC管理主任 | "As a WHO Collaborating Centre, we can increase impact by collaborating with experts around the world and governments." | 学术-政策桥梁定位 |
+| **Dr. Alain Labrique** | WHO数据与数字健康部主任 | AI 正与人处于情绪脆弱状态的人互动，相关系统必须以安全与福祉为核心来治理 | 安全优先，强调脆弱人群保护 |
+| **Sameer Pujari** | WHO AI负责人 | 我们处在关键节点：AI 采纳速度已远超对其心理健康影响的研究投入 | 证据赤字论——AI应用速度远超研究投入 |
+| **Dr. Kenneth Carswell** | WHO非传染病与心理健康部 | 在最小化生成式 AI 风险、最大化收益之间，需要让受影响最深的人群发声 | 多利益相关方参与，用户福利中心化 |
+| **Dr. Caroline Figueroa** | TU Delft | 强调需要危机转介框架与问责体系（crisis referral frameworks and accountability systems，转述） | 危机转介是底线要求，不是可选项 |
+| **Dr. Stefan Buijsman** | DDEC管理主任 | 作为 WHO 合作中心，通过与全球专家和各国政府协作可以放大影响力 | 学术-政策桥梁定位 |
 
 ---
 

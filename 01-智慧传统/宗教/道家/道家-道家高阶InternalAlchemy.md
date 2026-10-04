@@ -13,7 +13,11 @@ intent_queries:
   - "Advanced Internal Alchemy的方法与实践"
 trigger_keywords: ["Advanced", "Internal", "Alchemy", "高阶内丹：性命演化"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Advanced Internal Alchemy (高阶内丹：性命演化)
 
 ### Laboratory of the Soul: Alchemy Metaphors (灵魂实验室：丹道隐喻详表)

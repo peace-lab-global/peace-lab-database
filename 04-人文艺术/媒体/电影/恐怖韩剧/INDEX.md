@@ -14,7 +14,7 @@ auto_generated: true
 ## 📄 文件 | Files (3)
 
 - [电影-恐怖韩剧-HorrorKoreanDrama心理Experience.md](电影-恐怖韩剧-HorrorKoreanDrama心理Experience.md)
-- [电影-恐怖韩剧-Horror_Korean_Drama_Psychological_Experience.md](电影-恐怖韩剧-Horror_Korean_Drama_Psychological_Experience.md)
+- [电影-恐怖韩剧-Horror_Korean_Drama_Psychological_Experience.md](%E7%94%B5%E5%BD%B1-%E6%81%90%E6%80%96%E9%9F%A9%E5%89%A7-HorrorKoreanDrama%E5%BF%83%E7%90%86Experience.md)
 
 
 ---

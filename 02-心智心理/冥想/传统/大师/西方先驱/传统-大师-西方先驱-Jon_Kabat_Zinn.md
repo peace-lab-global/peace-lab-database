@@ -27,7 +27,11 @@ cross_refs:
   relation: mbsr/jon/kabat-zinn
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-wherever-you-go-there-you-are.md
   relation: mbsr/正念/jon
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Jon Kabat-Zinn (乔恩·卡巴金) — MBSR 创始人，正念医学化先驱
 
 ## 概述 (Overview)
@@ -281,6 +285,6 @@ MBSR 直接催生了多个循证正念干预方案：
 - [冥想执行师培训体系](../../../基础/修行者培训/基础-Practitioner培训总览.md) — 培训路径
 - [冥想执行师认证对比](../../../基础/修行者培训/基础-Practitioner_Certification_Comparison.md) — MBSR认证详情
 - [冥想职业发展路径](../../../应用/应用-冥想职业Pathways.md) — 职业规划
-- [冥想临床应用](../../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) — 临床研究
+- [冥想临床应用](../../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) — 临床研究
 - [一行禅师](../当代灵性/传统-大师-当代灵性-Thich_Nhat_Hanh.md) — 卡巴金的重要影响者之一
 - [S.N. 葛印卡](传统-大师-西方先驱-SN_Goenka.md) — 内观传统的另一核心传播者

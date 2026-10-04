@@ -13,7 +13,11 @@ intent_queries:
   - "拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）的方法与实践"
 trigger_keywords: ["拉玛那", "exercise", "meditation"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 拉玛那·马哈希（Ramana Maharshi / रमण महर्षि）
 
 > "你是谁？"——以自我探究（Self-Inquiry）照亮 20 世纪灵性世界的沉默圣者

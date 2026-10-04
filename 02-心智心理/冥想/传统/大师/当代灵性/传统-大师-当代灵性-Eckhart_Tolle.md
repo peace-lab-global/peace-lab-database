@@ -13,7 +13,11 @@ intent_queries:
   - "艾克哈特·托利的方法与实践"
 trigger_keywords: ["艾克哈特", "托利"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 艾克哈特·托利 (Eckhart Tolle)
 
 > "Realize deeply that the present moment is all you have. Make the NOW the primary focus of your life."

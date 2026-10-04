@@ -13,7 +13,11 @@ intent_queries:
   - "Classical Music Composers & Therapeutic Works的方法与实践"
 trigger_keywords: ["Classical", "Music", "Composers", "Therapeutic", "Works"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../../规范/CRISIS_RESOURCES.md)。
+
 # Classical Music Composers & Therapeutic Works (古典音乐作曲家与疗愈作品)
 
 ## 作曲家疗愈特质总览表

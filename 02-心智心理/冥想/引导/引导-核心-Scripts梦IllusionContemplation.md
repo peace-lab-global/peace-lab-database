@@ -31,7 +31,11 @@ cross_refs:
   relation: 呼吸锚定基础
 - path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Vipassana_Practice_Guide.md
   relation: 观禅/三法印
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 梦幻观冥想 | Dream-Illusion Contemplation Meditation
 
 > **系列**：古典音乐冥想系列 · 第一部

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 技能 | 技能
 
@@ -24,7 +27,7 @@ auto_generated: true
 - [压力与HPA轴-技能-Stress_Diary_Analysis_Skill.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%8A%80%E8%83%BD-%E5%8E%8B%E5%8A%9B%E6%97%A5%E8%AE%B0%E5%88%86%E6%9E%90Skill.md)
 - [压力与HPA轴-技能-Stress_Health_Risk_Assessment_Skill.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%8A%80%E8%83%BD-%E5%8E%8B%E5%8A%9B%E5%81%A5%E5%BA%B7Risk%E8%AF%84%E4%BC%B0Skill.md)
 - [压力与HPA轴-技能-_manifest.md](压力与HPA轴-技能-_manifest.md)
-- [压力与HPA轴-技能-_protocol.md](压力与HPA轴-技能-_protocol.md)
+- [压力与HPA轴-技能-_protocol.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%8A%80%E8%83%BD-%E6%96%B9%E6%A1%88.md)
 - [压力与HPA轴-技能-压力健康Risk评估Skill.md](压力与HPA轴-技能-压力健康Risk评估Skill.md)
 - [压力与HPA轴-技能-压力日记分析Skill.md](压力与HPA轴-技能-压力日记分析Skill.md)
 - [压力与HPA轴-技能-压力评估Skill.md](压力与HPA轴-技能-压力评估Skill.md)

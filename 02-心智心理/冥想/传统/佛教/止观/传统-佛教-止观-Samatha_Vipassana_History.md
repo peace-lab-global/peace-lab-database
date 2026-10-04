@@ -27,7 +27,11 @@ cross_refs:
   relation: 止观/samatha-vipassana/佛教
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-one-dharma.md
   relation: 佛教/内观/藏传
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 止观禅修历史发展与传承脉络 (History & Lineage of Samatha-Vipassana)
 
 > **止观禅修的历史** 横跨两千五百余年，从佛陀在菩提树下的证悟，到当代神经科学实验室的脑成像研究，止观传统经历了从印度到亚洲各国再到全球的宏大传播历程。
@@ -327,8 +331,8 @@ Ajahn Tong (1923-2019) 泰国马哈希系
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](传统-佛教-止观-Samatha_Vipassana_Theory.md) | 止观完整理论体系 |
 | 禅定体系 | [Dhyana_Samadhi_System.md](传统-佛教-止观-Dhyana_Samadhi_System.md) | 禅定跨传承体系 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md) | 百科级止观参考表 |
-| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-智慧传统/宗教/佛教/天台/佛教-天台-Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
-| 内观禅修详解 | [Vipassana_Meditation.md](../内观/传统-佛教-内观-Vipassana_Meditation.md) | 内观传承与实践 |
+| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E5%A4%A9%E5%8F%B0/%E4%BD%9B%E6%95%99-%E5%A4%A9%E5%8F%B0-%E4%BD%9B%E6%95%99%E5%A4%A9%E5%8F%B0%E6%AD%A2%E8%A7%82.md) | 天台止观体系 |
+| 内观禅修详解 | [Vipassana_Meditation.md](../%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) | 内观传承与实践 |
 | 冥想大师人物档案 | [masters/INDEX.md](INDEX.md) | 冥想大师完整资料 |
 | 中国本土冥想传统 | [chinese-traditions/INDEX.md](INDEX.md) | 中国禅道儒静修 |
 

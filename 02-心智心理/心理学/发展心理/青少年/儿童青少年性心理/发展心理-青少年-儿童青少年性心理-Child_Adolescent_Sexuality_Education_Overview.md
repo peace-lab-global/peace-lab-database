@@ -21,10 +21,14 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/教育/教育-教育心理学总览.md
   relation: sexuality/education/adolescent
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 儿童及青少年性教育专业体系概览 (Child & Adolescent Sexuality Education Professional Framework)
 
-> 🎓 **专业定位**: 本体系基于联合国教科文组织(UNESCO)全面性教育(CSE)标准，融合发展心理学、教育学、公共卫生学等多学科理论，为5-18岁儿童青少年提供科学、系统、文化敏感的性教育专业框架。建议结合[儿童青少年发展](../child/发展心理-青少年-child-adolescent-Child_Adolescent_Development.md)了解发展特点，参考[综合性性教育](../../../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%AD%A6Education%E7%BB%BC%E5%90%88.md)获取完整生命周期视角，查阅[家庭教育支持体系](发展心理-青少年-儿童青少年性心理-theory-Family_Education_Support_System.md)了解家庭配合要点。
+> 🎓 **专业定位**: 本体系基于联合国教科文组织(UNESCO)全面性教育(CSE)标准，融合发展心理学、教育学、公共卫生学等多学科理论，为5-18岁儿童青少年提供科学、系统、文化敏感的性教育专业框架。建议结合[儿童青少年发展](../%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4-ChildAdolescent%E5%8F%91%E5%B1%95.md)了解发展特点，参考[综合性性教育](../../../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%AD%A6Education%E7%BB%BC%E5%90%88.md)获取完整生命周期视角，查阅[家庭教育支持体系](发展心理-青少年-儿童青少年性心理-theory-Family_Education_Support_System.md)了解家庭配合要点。
 
 ## 📚 理论基础与核心框架 (Theoretical Foundations and Core Framework)
 

@@ -19,7 +19,11 @@ cross_refs:
   relation: 写作/日记写作/expressive
 - path: 05-实践成长/个人发展/日记写作/Journaling核心/日记写作-Journaling核心.md
   relation: 日记写作/写作/pennebaker
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Writing/Journaling (书写、日记与叙事)
 
 ### Expressive Writing Protocols (表达性书写流程表)

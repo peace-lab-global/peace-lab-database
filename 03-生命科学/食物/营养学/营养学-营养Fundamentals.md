@@ -13,7 +13,11 @@ intent_queries:
   - "营养学基础 | Nutrition Fundamentals的方法与实践"
 trigger_keywords: ["营养学基础", "Nutrition", "Fundamentals"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 营养学基础 | Nutrition Fundamentals
 
 > 营养学（Nutrition）是研究食物与人体健康关系的科学，涵盖宏量营养素（Macronutrients）、微量营养素（Micronutrients）的摄取、消化、吸收与代谢过程。理解营养学基础是进行任何饮食干预与心理健康促进的前提。本文件系统梳理营养学核心概念、理论框架、实践应用与案例分析，为临床工作者与公众提供循证参考。

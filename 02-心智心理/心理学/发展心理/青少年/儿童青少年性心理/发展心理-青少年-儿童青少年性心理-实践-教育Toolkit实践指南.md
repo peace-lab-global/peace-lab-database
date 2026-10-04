@@ -13,7 +13,11 @@ intent_queries:
   - "性教育教学工具包与实践指南的方法与实践"
 trigger_keywords: ["性教育教学工具包与实践指南", "Sexuality", "Education", "Toolkit", "and"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 性教育教学工具包与实践指南 (Sexuality Education Toolkit and Practice Guide)
 
 > 🛠️ **工具定位**: 提供系统化、标准化的性教育教学工具和实践指导，包含具体的教学活动设计、评估工具、资源模板和操作手册，为教育工作者提供即用型的实践支持。建议结合[课程设计指南](发展心理-青少年-儿童青少年性心理-理论-Curriculum设计Implementation指南.md)了解设计原理，参考[质量评估体系](发展心理-青少年-儿童青少年性心理-评估-Quality评估System.md)掌握评估标准。

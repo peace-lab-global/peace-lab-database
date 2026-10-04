@@ -23,7 +23,11 @@ cross_refs:
   relation: 羞耻/shame/障碍
 - path: 03-生命科学/生物学/身体羞耻/身体羞耻-预防-Body_Shame_Prevention_Public_Health.md
   relation: 羞耻/shame/障碍
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Masturbation-Related Distress and Coping (自慰相关心理困扰与应对策略)
 
 > 基于临床心理学与宗教心理学研究，系统梳理自慰相关心理困扰的来源、类型与循证应对策略。重点阐述道德不一致模型、罪疚/羞耻感机制及基于ACT/正念的干预方法，避免过度病理化。

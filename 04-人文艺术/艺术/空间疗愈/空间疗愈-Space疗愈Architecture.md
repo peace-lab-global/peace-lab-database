@@ -21,7 +21,11 @@ cross_refs:
   relation: 水疗ce/design/冥想
 - path: 02-心智心理/心理学/特殊专题/居家整理/特殊专题-居家整理-Space_Design_Principles.md
   relation: 水疗ce/design/冥想
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 疗愈建筑与空间心理学 | Healing Architecture & Space Psychology
 
 > **学科定位**: 环境心理学 × 建筑设计 × 循证设计（EBD）

@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (5)
 
-- [作家-中世纪-Dante.md](作家-中世纪-Dante.md)
+- [作家-中世纪-Dante.md](%E4%BD%9C%E5%AE%B6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E4%BD%86%E4%B8%81.md)
 - [作家-中世纪-DanteDivineComedy分析.md](作家-中世纪-DanteDivineComedy分析.md)
 - [作家-中世纪-Dante_Divine_Comedy_Analysis.md](%E4%BD%9C%E5%AE%B6-%E4%B8%AD%E4%B8%96%E7%BA%AA-DanteDivineComedy%E5%88%86%E6%9E%90.md)
 - [作家-中世纪-但丁.md](作家-中世纪-但丁.md)

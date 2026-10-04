@@ -24,7 +24,7 @@ cross_refs:
 ---
 # 性教育课程设计与实施指南 (Sexuality Education Curriculum Design and Implementation Guide)
 
-> 🎨 **设计定位**: 基于系统化课程设计理论和循证实践原则，为儿童青少年性教育提供完整的课程开发、实施和评估框架。涵盖课程目标设定、内容组织、教学方法选择、实施策略和质量保障等全流程指导。建议结合[儿童期性教育](发展心理-青少年-儿童青少年性心理-curriculum-Childhood_Sexuality_Education_5_12.md)和[青少年期性教育](发展心理-青少年-儿童青少年性心理-curriculum-Adolescent_Sexuality_Education_13_18.md)具体内容，参考[性教育概览](发展心理-青少年-儿童青少年性心理-Child_Adolescent_Sexuality_Education_Overview.md)理论框架。
+> 🎨 **设计定位**: 基于系统化课程设计理论和循证实践原则，为儿童青少年性教育提供完整的课程开发、实施和评估框架。涵盖课程目标设定、内容组织、教学方法选择、实施策略和质量保障等全流程指导。建议结合[儿童期性教育](发展心理-青少年-儿童青少年性心理-curriculum-Childhood_Sexuality_Education_5_12.md)和[青少年期性教育](%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E6%80%A7%E5%BF%83%E7%90%86-%E8%AF%BE%E7%A8%8B-Adolescent%E6%80%A7%E5%AD%A6Education1318.md)具体内容，参考[性教育概览](发展心理-青少年-儿童青少年性心理-Child_Adolescent_Sexuality_Education_Overview.md)理论框架。
 
 ## 📐 系统化课程设计模型 (Systematic Curriculum Design Model)
 

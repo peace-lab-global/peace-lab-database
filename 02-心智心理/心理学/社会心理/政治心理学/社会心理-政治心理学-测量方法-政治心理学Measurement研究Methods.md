@@ -26,7 +26,11 @@ cross_refs:
   relation: 测量/table/工具
 - path: 03-生命科学/性学/性学研究Methods/性学研究Methods.md
   relation: 测量/研究/methods
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 政治心理学测量工具与研究方法 (Political Psychology: Measurement Tools & Research Methods)
 
 ## 目录 (Table of Contents)

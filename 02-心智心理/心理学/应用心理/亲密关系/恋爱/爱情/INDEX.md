@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 爱情 | 爱情
 
@@ -15,7 +18,7 @@ auto_generated: true
 
 - [应用心理-亲密关系-恋爱-爱情-Love_Attachment_Intimacy.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1Attachment%E4%BA%B2%E5%AF%86.md)
 - [应用心理-亲密关系-恋爱-爱情-Love_Breakup_Heartbreak.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1BreakupHeartbreak.md)
-- [应用心理-亲密关系-恋爱-爱情-Love_Communication_Conflict.md](应用心理-亲密关系-恋爱-爱情-Love_Communication_Conflict.md)
+- [应用心理-亲密关系-恋爱-爱情-Love_Communication_Conflict.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1%E6%B2%9F%E9%80%9AConflict.md)
 - [应用心理-亲密关系-恋爱-爱情-Love_Dating_Stages.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1Dating%E9%98%B6%E6%AC%A1.md)
 - [应用心理-亲密关系-恋爱-爱情-Love_Mate_Selection.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1MateSelection.md)
 - [应用心理-亲密关系-恋爱-爱情-Love_Neuroscience_Biology.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E6%81%8B%E7%88%B1-%E7%88%B1%E6%83%85-%E7%88%B1%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6Biology.md)

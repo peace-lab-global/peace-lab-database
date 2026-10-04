@@ -13,7 +13,11 @@ intent_queries:
   - "中观学与空性哲学的方法与实践"
 trigger_keywords: ["中观学与空性哲学", "Madhyamaka", "Philosophy", "of", "Emptiness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 中观学与空性哲学 (Madhyamaka & Philosophy of Emptiness)
 
 > **中观学 (Madhyamaka)**：大乘佛教两大学派之一，由龙树菩萨创立，以"八不中道"与"二谛"阐明缘起性空的究竟义理，避免常断二边，显示诸法实相。

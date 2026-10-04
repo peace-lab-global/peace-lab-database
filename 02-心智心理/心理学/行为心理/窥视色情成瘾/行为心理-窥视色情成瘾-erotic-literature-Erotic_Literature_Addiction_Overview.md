@@ -13,7 +13,11 @@ intent_queries:
   - "色情文学成瘾概览的方法与实践"
 trigger_keywords: ["色情文学成瘾概览", "Erotic", "Literature", "Addiction", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾概览 (Erotic Literature Addiction Overview)
 
 > 📘 **文档导航**: 本文档提供色情文学成瘾的核心概念、分类体系和流行病学特征。建议结合其他专题文档深入了解特定领域：

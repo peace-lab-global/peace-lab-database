@@ -17,7 +17,11 @@ trigger_keywords:
 - Execution
 - 目标设定与执行
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Goal Setting & Execution 目标设定与执行
 
 ## 核心术语与词源 (Core Terminology & Etymology)

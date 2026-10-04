@@ -13,7 +13,11 @@ intent_queries:
   - "财务素养总览的方法与实践"
 trigger_keywords: ["财务素养总览", "Financial", "Literacy", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 财务素养总览 (Financial Literacy Overview)
 
 > **学科定位**: 05-实践成长 > personal-development > financial-literacy

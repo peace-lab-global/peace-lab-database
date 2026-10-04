@@ -14,7 +14,11 @@ intent_queries:
   - "创业心理学 | Entrepreneurship Psychology的自助方法"
 trigger_keywords: ["创业心理学", "Entrepreneurship", "Psychology"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 创业心理学 | Entrepreneurship Psychology
 
 > **创业心理学（Entrepreneurship Psychology）** 是研究创业者在创业过程中的心理活动、行为模式和心理机制的交叉学科。它融合心理学、管理学和行为经济学的理论与方法，探索创业者的人格特质、认知偏差、情绪调节、决策行为和社会心理因素，为创业教育和创业支持提供科学依据。本文档系统梳理创业心理学的核心概念、理论框架、实践应用和前沿研究方向。

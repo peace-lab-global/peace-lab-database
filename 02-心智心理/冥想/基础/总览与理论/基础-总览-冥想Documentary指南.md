@@ -23,7 +23,11 @@ cross_refs:
   relation: 内观/内观/retreat
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/the/世界非虚构-冥想正念-the-insight-meditation-workbook.md
   relation: 内观/冥想/正念
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想与正念纪录片完整指南 | Meditation & Mindfulness Documentary Guide
 
 > 精选17部与正念冥想、禅修、内观、静修高度相关的纪录片与系列节目，从零基础入门到深度灵性探索，涵盖科普教学、社会实验、人物传记、静修生活等多维视角。

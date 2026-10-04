@@ -25,7 +25,11 @@ cross_refs:
   relation: 冲突/依恋/创伤
 - path: 03-生命科学/性学/中国性焦虑/中国性焦虑-QualityCertification报告.md
   relation: 冲突/依恋
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 夫妻冲突处理与解决 (Marriage Conflict Resolution)
 
 ## 冲突类型识别与分类表

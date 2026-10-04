@@ -20,7 +20,11 @@ cross_refs:
   relation: nvc/非暴力沟通/冲突
 - path: 02-心智心理/心理学/应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻沟通.md
   relation: nvc/非暴力沟通/冲突
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Nonviolent Communication 非暴力沟通
 
 ## 作者背景 (Author Background)

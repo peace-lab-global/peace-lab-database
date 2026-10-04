@@ -14,7 +14,11 @@ intent_queries:
   - "动漫与心理疗愈 | Anime Therapy的自助方法"
 trigger_keywords: ["动漫与心理疗愈", "Anime", "Therapy"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 动漫与心理疗愈 | Anime Therapy
 
 > 动漫疗法（Anime Therapy）是将动漫作为一种心理治疗媒介，利用其独特的叙事深度、视觉表现力与情感共鸣，帮助来访者探索内心世界、处理情感创伤与促进心理成长。与电影疗法（Cinema Therapy）相比，动漫疗法在处理存在主义议题（Existential Themes）、青春期身份探索（Identity Exploration）和幻想性情感处理（Fantasy-based Emotional Processing）方面具有独特优势。本文件系统梳理动漫疗愈的理论基础、核心方法与临床应用。

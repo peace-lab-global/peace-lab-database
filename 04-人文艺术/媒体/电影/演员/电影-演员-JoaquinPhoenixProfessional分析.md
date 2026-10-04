@@ -13,7 +13,11 @@ intent_queries:
   - "Joaquin Phoenix 专业分析：表演方法论的深度探索与艺术反叛精神的方法与实践"
 trigger_keywords: ["Joaquin", "Phoenix", "专业分析：表演方法论的深度探索与艺术反叛精神"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # Joaquin Phoenix 专业分析：表演方法论的深度探索与艺术反叛精神
 
 ## 摘要 (Abstract)

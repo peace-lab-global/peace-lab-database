@@ -20,8 +20,10 @@ description: "1. **PERMA幸福模型** (Seligman, 2011) — 全面评估幸福�
 3. **VIA性格优势分类** (Peterson & Seligman, 2004) — 24项核心优势识别..."
 tags: ["psychology"]
 last_updated: "2026-06"
+disclaimer: true
 ---
 
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 幸福感与积极心理评估 | Well-being & Positive Psychology Assessment
 

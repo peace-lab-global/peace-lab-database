@@ -25,7 +25,11 @@ cross_refs:
   relation: attachment/神经科学/性学
 - path: 01-智慧传统/宗教/佛教/基础/佛教-基础-Buddhism_Four_Immeasurables.md
   relation: attachment/神经科学/性学
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《围城》读书笔记与书评
 
 ## 一、总体评价

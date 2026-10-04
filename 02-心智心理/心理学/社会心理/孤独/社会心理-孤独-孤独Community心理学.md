@@ -14,7 +14,11 @@ intent_queries:
   - "社区心理学视角下的孤独干预 | Community Psychology of Loneliness的自助方法"
 trigger_keywords: ["社区心理学视角下的孤独干预", "Community", "Psychology", "of", "Loneliness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 社区心理学视角下的孤独干预 | Community Psychology of Loneliness
 
 > **核心定位**: 从社会生态系统和社区层面理解孤独的预防与干预

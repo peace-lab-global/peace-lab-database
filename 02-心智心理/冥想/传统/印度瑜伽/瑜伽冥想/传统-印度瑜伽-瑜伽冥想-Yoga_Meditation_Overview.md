@@ -25,7 +25,11 @@ cross_refs:
   relation: 瑜伽/yoga/瑜伽经
 - path: 01-智慧传统/哲学/南亚/印度/经典文献/南亚-印度-scriptures-Yoga_Sutras_Patanjali.md
   relation: 瑜伽/瑜伽经/yoga
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 瑜伽冥想概述 | Yoga Meditation Overview
 
 > **适用对象**：对瑜伽传统中的冥想体系感兴趣的练习者、瑜伽教师、印度哲学研究者、心理健康从业者

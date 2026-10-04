@@ -13,7 +13,11 @@ intent_queries:
   - "植物神经紊乱与自主神经失调的方法与实践"
 trigger_keywords: ["植物神经紊乱与自主神经失调", "Autonomic", "Dysregulation", "Dysautonomia"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 植物神经紊乱与自主神经失调 (Autonomic Dysregulation & Dysautonomia)
 
 > **说明：** “植物神经紊乱”是中文常见俗称，专业上对应**自主神经系统功能失调 (Autonomic Nervous System Dysregulation)** 或 **自主神经功能紊乱 (Dysautonomia)**，常与焦虑、躯体化密切相关。

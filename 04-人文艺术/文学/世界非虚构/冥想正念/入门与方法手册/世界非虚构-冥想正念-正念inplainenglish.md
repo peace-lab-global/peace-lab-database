@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/佛教/内观/传统-佛教-内观-Buddhist_Vipassana_Overview.md
   relation: 内观/内观/佛教
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《观呼吸》Mindfulness in Plain English
 
 > 德宝法师（Bhante Henepola Gunaratana）著，1992年出版。斯里兰卡上座部佛教僧侣，12岁出家，1968年赴美弘法，在华盛顿特区附近建立了 bhavana 协会（森林修道院）。这本书是上座部佛教视角下最清晰、最实用的内观（Vipassana）禅修手册。

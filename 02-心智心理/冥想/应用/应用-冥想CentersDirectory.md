@@ -13,7 +13,11 @@ intent_queries:
   - "全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）的方法与实践"
 trigger_keywords: ["全球冥想中心与修行场所目录", "Meditation", "Centers", "Practice", "Venues"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 全球冥想中心与修行场所目录（Meditation Centers & Practice Venues Directory）
 
 > 世界各地的冥想灯塔——从传统寺院到现代正念中心

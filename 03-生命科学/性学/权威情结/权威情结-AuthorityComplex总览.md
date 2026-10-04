@@ -13,7 +13,11 @@ intent_queries:
   - "Authority Complex & Age-Related Attraction Disorders的方法与实践"
 trigger_keywords: ["Authority", "Complex", "Age-Related", "Attraction", "Disorders"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Authority Complex & Age-Related Attraction Disorders (权威情结与年龄相关吸引障碍)
 
 > 📘 **文档导航**: 本概览文档提供权威情结与年龄相关吸引障碍的核心概念和整体框架。如需深入了解特定领域，请参考相应专题文档：

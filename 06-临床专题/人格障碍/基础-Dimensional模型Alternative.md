@@ -4,7 +4,10 @@ description: "DSM-5 Section III 替代模型(AMPD)与 ICD-11 维度人格障碍�
 category: "clinical"
 tags: ["AMPD", "ICD-11", "dimensional-model", "PID-5", "personality-functioning"]
 last_updated: "2026-07"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 人格障碍维度模型 (Alternative Model for PD / ICD-11)
 

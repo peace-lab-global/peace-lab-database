@@ -13,7 +13,11 @@ intent_queries:
   - "勃拉姆斯音乐疗愈的方法与实践"
 trigger_keywords: ["勃拉姆斯音乐疗愈", "Brahms", "Music", "Therapy"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 勃拉姆斯音乐疗愈 (Brahms Music Therapy)
 
 > **约翰内斯·勃拉姆斯 (Johannes Brahms, 1833-1897)**

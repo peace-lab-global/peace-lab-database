@@ -13,7 +13,11 @@ intent_queries:
   - "Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation的方法与实践"
 trigger_keywords: ["Suicidology:", "The", "Boundary", "Between", "Death"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # Suicidology: The Boundary Between Death Anxiety & Suicidal Ideation (自杀学：死亡焦虑与自杀意念的边界)
 
 > **⚠️ 临床安全警告**：本文档涉及自杀风险评估与干预。任何自杀意念的评估必须由受过专业训练的人员进行。若您或您认识的人正在经历自杀危机，请立即联系当地危机热线或 emergency services。**中国心理危机热线：400-161-9995；北京24小时心理援助热线：010-82951332。**

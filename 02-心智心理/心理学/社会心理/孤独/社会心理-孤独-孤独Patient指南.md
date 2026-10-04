@@ -13,7 +13,11 @@ intent_queries:
   - "理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone的方法与实践"
 trigger_keywords: ["理解孤独：写给每一位感到孤独的人", "Understanding", "Loneliness:", "Guide", "for"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 理解孤独：写给每一位感到孤独的人 | Understanding Loneliness: A Guide for Everyone
 
 > **这不是一本医学教科书，而是一封写给你的信。**

@@ -13,7 +13,11 @@ intent_queries:
   - "循证医学 | Evidence-Based Medicine的方法与实践"
 trigger_keywords: ["循证医学", "Evidence-Based", "Medicine"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 循证医学 | Evidence-Based Medicine
 
 > **循证医学**（Evidence-Based Medicine, EBM）是将最佳科学证据、临床经验和患者价值观相结合的医学实践框架。TED平台上关于循证医学的演讲探讨了如何用科学方法评估医疗干预的有效性，揭示了医学中的偏见和盲点，推动了更加透明和有效的医疗实践。

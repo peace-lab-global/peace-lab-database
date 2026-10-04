@@ -356,7 +356,7 @@ cross_refs:
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](传统-佛教-止观-Samatha_Vipassana_Theory.md) | 理论框架 |
 | 神经科学研究 | [Neuroscience_Research.md](传统-佛教-止观-Neuroscience_Research.md) | 脑科学证据 |
 | 佛教正念疗法整合 | [Buddhism_Mindfulness_Therapy_Integration.md](../../../../../01-智慧传统/宗教/佛教/心理学/佛教-心理学-Buddhism_Mindfulness_Therapy_Integration.md) | 佛教视角的整合 |
-| 冥想临床应用 | [Meditation_Clinical_Applications.md](../../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) | 临床应用概览 |
+| 冥想临床应用 | [Meditation_Clinical_Applications.md](../../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) | 临床应用概览 |
 | MBSR课程 | [mbsr-program/INDEX.md](INDEX.md) | MBSR详细课程 |
 | 禅修安全 | [safety/INDEX.md](INDEX.md) | 安全与不良反应 |
 | 认知行为疗法 | [cognitive-behavioral-therapy/INDEX.md](../../../../疗法/认知行为/认知行为疗法/INDEX.md) | CBT详解 |

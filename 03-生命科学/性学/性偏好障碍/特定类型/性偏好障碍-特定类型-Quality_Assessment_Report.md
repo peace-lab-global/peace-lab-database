@@ -27,7 +27,11 @@ cross_refs:
   relation: quality/report/assessment
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-erotic-literature-Quality_Assessment_Report.md
   relation: quality/report/assessment
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Specific Types Quality Assessment Report (性迷恋类型质量评估报告)
 
 > 📘 **文档导航**: 本报告对性迷恋类型专业内容体系进行全面质量评估和项目总结。相关主题请参考：

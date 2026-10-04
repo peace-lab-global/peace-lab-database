@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/智慧传统/智慧Shamanic疗愈Journey/智慧传统-智慧Shamanic疗愈Journey.md
   relation: shamanic/journey/传统
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 萨满传统实修指南 (Shamanic Traditions Practical Guide)
 
 > **最后更新：** 2026-05

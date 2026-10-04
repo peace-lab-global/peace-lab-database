@@ -13,7 +13,11 @@ intent_queries:
   - "艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας的方法与实践"
 trigger_keywords: ["艾灸安全指南", "Moxibustion", "Safety", "Guidelines", "Οδηγός"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 艾灸安全指南 | Moxibustion Safety Guidelines | Οδηγός Ασφαλείας Μόξας
 
 > **艾灸安全指南**系统阐述艾灸疗法的安全操作规范、风险预防措施和应急处理方法，涵盖艾灸禁忌症、操作安全要点、不良反应处理等核心安全内容，为艾灸 practitioners 和使用者提供全面的安全保障和风险管控指导。

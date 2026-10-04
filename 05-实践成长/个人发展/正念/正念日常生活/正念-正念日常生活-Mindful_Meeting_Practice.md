@@ -26,7 +26,11 @@ cross_refs:
   relation: 正念/倦怠
 - path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/the/世界非虚构-科学意识濒死体验-the-mindful-brain.md
   relation: 正念/mindful/神经科学
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 正念开会专业实践指南 (Mindful Meeting Practice)
 
 ## 目录 (Table of Contents)
@@ -555,7 +559,7 @@ cross_refs:
 - [正念日常生活](正念-正念日常生活-Mindful_Daily_Living.md)
 - [正念饮水专业实践指南](正念-正念日常生活-Mindful_Drinking_Practice.md)
 - [正念行走专业实践指南](正念-正念日常生活-Mindful_Walking_Practice.md)
-- [专注力冥想疗愈](../../../../02-心智心理/疗法/创意表达/聚焦疗法/创意表达-聚焦疗法-Focus_Meditation_Therapy.md)
+- [专注力冥想疗愈](../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE/%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95/%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E5%86%A5%E6%83%B3%E7%96%97%E6%B3%95.md)
 - [冥想核心](../../../../02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Core.md)
 
 ---

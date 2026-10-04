@@ -23,7 +23,11 @@ cross_refs:
   relation: goldstein/内观/joseph
 - path: 02-心智心理/冥想/传统/大师/传统-大师-西方先驱-Jack_Kornfield.md
   relation: 内观/jack/heart
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《寻求智慧之心》Seeking the Heart of Wisdom
 
 > 约瑟夫·戈尔茨坦（Joseph Goldstein）和杰克·康菲尔德（Jack Korsfield）著，1987年出版。两位美国内观禅修运动的联合创始人合著，将南传佛教的"正念"和"慈悲"教导整合为一条完整的修行道路。书名来自佛陀的教导："比丘们，你们应当寻求智慧之心。"

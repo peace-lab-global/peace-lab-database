@@ -20,7 +20,11 @@ cross_refs:
   relation: pema/dr/ch
 - path: 04-人文艺术/文学/世界非虚构/灵性佛教/世界非虚构-灵性佛教-cutting-through-spiritual-materialism.md
   relation: ch/藏传/佛教
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 佩玛·丘卓 (Pema Chödrön)
 
 > "Nothing ever goes away until it has taught us what we need to know."

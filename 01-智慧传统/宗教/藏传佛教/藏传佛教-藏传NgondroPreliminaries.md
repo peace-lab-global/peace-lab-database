@@ -13,7 +13,11 @@ intent_queries:
   - "前行法的方法与实践"
 trigger_keywords: ["前行法", "Ngöndro", "Preliminary", "Practices"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 前行法 (Ngöndro / Preliminary Practices)
 
 > **前行法 (Ngöndro)**：藏传佛教密法修行前的基础净化与积资修法，通过大礼拜、金刚萨埵、献曼达、上师瑜伽等四加行，为正行打下坚实基础。

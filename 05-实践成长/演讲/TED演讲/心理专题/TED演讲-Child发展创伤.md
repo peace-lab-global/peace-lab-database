@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/发展心理/儿童发展/发展心理-儿童发展-Child_Trauma_Resilience.md
   relation: ace/aces/创伤
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 童年创伤与发展 | Child Development & Trauma
 
 > **童年创伤**（Childhood Trauma）是指在儿童期经历的虐待、忽视、家庭暴力、父母物质滥用等不良经历（Adverse Childhood Experiences, ACEs）。这些早期创伤不仅影响儿童的心理发展，还通过神经生物学机制对终身健康产生深远影响。本文件精选TED平台上关于童年创伤与发展的代表性演讲，揭示早期经历如何塑造大脑发育和人生轨迹。

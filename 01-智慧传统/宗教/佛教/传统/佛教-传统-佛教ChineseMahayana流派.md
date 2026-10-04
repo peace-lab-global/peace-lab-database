@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-manual-of-zen-buddhism.md
   relation: 禅宗/佛教/佛教
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 汉传大乘各宗派详论 (Chinese Mahayana Schools Detailed)
 
 > **汉传大乘佛教 (Chinese Mahayana Buddhism)**：佛教传入中国后与中国文化深度融合形成的独特佛教传统，包含了天台、华严、禅宗、净土等多个重要宗派，体现了大乘佛教的圆融精神。

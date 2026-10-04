@@ -13,7 +13,11 @@ intent_queries:
   - "依恋理论 | Attachment Theory的方法与实践"
 trigger_keywords: ["依恋理论", "Attachment", "Theory"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 依恋理论 | Attachment Theory
 
 > **学科定位**: 发展心理学 · 关系心理学 · 临床心理学

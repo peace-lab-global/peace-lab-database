@@ -13,7 +13,11 @@ intent_queries:
   - "Ethical Will & Life Review Guide的方法与实践"
 trigger_keywords: ["Ethical", "Will", "Life", "Review", "Guide"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Ethical Will & Life Review Guide (伦理遗嘱与生命回顾实操指南)
 
 > *"我们每个人都有两个遗产：一个是我们留给世界的物质遗产，另一个是我们留给所爱之人的精神遗产。"*

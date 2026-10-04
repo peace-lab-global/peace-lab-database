@@ -13,7 +13,11 @@ intent_queries:
   - "自然冥想专业概述 | Nature Meditation Overview的方法与实践"
 trigger_keywords: ["自然冥想专业概述", "Nature", "Meditation", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 自然冥想专业概述 | Nature Meditation Overview
 
 > **文档类型**: 冥想传统与实践系统介绍 | Tradition & Practice Introduction
@@ -692,7 +696,7 @@ graph TD
 - [正念行走概述](基础-步行冥想总览.md) — 自然正念行走的技术基础
 - [MBSR正念减压](../../临床/正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) — 正念冥想的系统训练
 - [冥想与睡眠](../总览与理论/基础-总览-Meditation_And_Sleep.md) — 自然冥想对睡眠的辅助作用
-- [焦虑障碍](../../临床/临床病症/焦虑/临床-临床病症-Meditation_Anxiety_Disorders.md) — 自然冥想对焦虑的临床应用
+- [焦虑障碍](../../%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87/%E7%84%A6%E8%99%91/%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E7%84%A6%E8%99%91Disorders.md) — 自然冥想对焦虑的临床应用
 - [抑郁症](../../%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87/%E6%8A%91%E9%83%81/%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E6%8A%91%E9%83%81.md) — 自然冥想对抑郁的辅助干预
 
 ---

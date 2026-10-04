@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
 
 # 引导 | 引导
 
@@ -29,7 +32,7 @@ auto_generated: true
 - [引导-引导课程_INDEX.md](引导-引导课程_INDEX.md)
 - [引导-核心-Meditation_Script_Standard_Process.md](引导-核心-Meditation_Script_Standard_Process.md)
 - [引导-核心-ScriptsMOCICIEvening情绪释放.md](引导-核心-ScriptsMOCICIEvening情绪释放.md)
-- [引导-核心-Scripts_Dream_Illusion_Contemplation.md](引导-核心-Scripts_Dream_Illusion_Contemplation.md)
+- [引导-核心-Scripts_Dream_Illusion_Contemplation.md](%E5%BC%95%E5%AF%BC-%E6%A0%B8%E5%BF%83-Scripts%E6%A2%A6IllusionContemplation.md)
 - [引导-核心-Scripts慈爱善意.md](引导-核心-Scripts慈爱善意.md)
 - [引导-核心-Scripts梦IllusionContemplation.md](引导-核心-Scripts梦IllusionContemplation.md)
 - [引导-核心-Scripts正念Breathing.md](引导-核心-Scripts正念Breathing.md)

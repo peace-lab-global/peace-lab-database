@@ -13,7 +13,11 @@ intent_queries:
   - "如来藏思想详论的方法与实践"
 trigger_keywords: ["如来藏思想详论", "Tathāgata-garbha", "Thought"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 如来藏思想详论 (Tathāgata-garbha Thought)
 
 > **如来藏 (Tathāgata-garbha)**：大乘佛教的重要思想，认为一切众生本具佛性，如来法身藏于众生心中，是众生成佛的内在根据和可能性。

@@ -27,7 +27,11 @@ cross_refs:
   relation: 研究/methods/mixed
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-Pornography_Addiction_Research_Methods.md
   relation: 研究/methods/statistical
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Birth Gender Anxiety: Research Methods (生育性别焦虑研究方法与实证)
 
 ## 研究方法论框架 (Research Methodology Framework)

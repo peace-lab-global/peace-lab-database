@@ -13,7 +13,11 @@ intent_queries:
   - "超人类主义 | Transhumanism的方法与实践"
 trigger_keywords: ["超人类主义", "Transhumanism"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 超人类主义 | Transhumanism
 
 > **超人类主义**（Transhumanism）是一场倡导通过技术手段增强人类体能、智力和寿命的哲学运动和科技实践。TED平台上关于超人类主义的演讲探讨了基因编辑、脑机接口、寿命延长和意识上传等前沿议题，在技术乐观主义与伦理审慎之间引发了深刻的公共对话。

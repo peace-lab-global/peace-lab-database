@@ -13,7 +13,11 @@ intent_queries:
   - "Nada Yoga Sound System的方法与实践"
 trigger_keywords: ["Nada", "Yoga", "Sound", "System", "纳达瑜伽声音体系：内在音流与觉知训练"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Nada Yoga Sound System (纳达瑜伽声音体系：内在音流与觉知训练)
 
 ### Nada Yoga: Historical & Philosophical Foundations (纳达瑜伽历史与哲学基础表)

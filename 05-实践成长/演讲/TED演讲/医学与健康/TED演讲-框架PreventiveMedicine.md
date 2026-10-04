@@ -13,7 +13,11 @@ intent_queries:
   - "预防医学 | Preventive Medicine的方法与实践"
 trigger_keywords: ["预防医学", "cardiovascular"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 预防医学 | Preventive Medicine
 
 > **预防医学**（Preventive Medicine）强调通过干预健康决定因素来预防疾病而非治疗疾病——从疫苗接种（Vaccination）到健康促进（Health Promotion），从筛查项目（Screening Programs）到流行病学监测（Epidemiological Surveillance）。"上医治未病"的古老智慧正在被现代科学和技术所赋能。本文件精选TED平台上关于预防医学的代表性演讲，帮助读者理解预防医学的前沿发展和实践策略。

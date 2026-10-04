@@ -13,7 +13,11 @@ intent_queries:
   - "《故道白云》Old Path White Clouds的方法与实践"
 trigger_keywords: ["《故道白云》Old", "Path", "White", "Clouds"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《故道白云》Old Path White Clouds
 
 > 一行禅师（Thich Nhat Hanh）著，1987年出版。一部佛陀的传记小说，以极其诗意和温柔的方式讲述了悉达多从王子到觉悟者的旅程。书名来自佛陀走过的古老道路和他脚下的白云——象征着足迹虽在，但人已离去，留下的只是空性的示现。

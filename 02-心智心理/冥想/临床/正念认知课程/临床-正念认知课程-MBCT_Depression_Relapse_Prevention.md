@@ -468,7 +468,7 @@ MBCT第7周的核心任务是帮助参与者建立个人化的**早期预警系�
 
 ### 知识库相关模块
 - [MBSR 项目概述](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) — MBCT的母本课程
-- [冥想临床应用](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) — 抑郁障碍的冥想治疗总览
+- [冥想临床应用](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) — 抑郁障碍的冥想治疗总览
 - [冥想神经科学机制](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) — 正念训练的大脑可塑性
 - [冥想不良反应与安全](../安全/临床-安全-Meditation_Adverse_Effects.md) — 抑郁患者的练习安全
 - [创伤知情冥想](../安全/临床-安全-Meditation_Trauma_Sensitive.md) — 共病创伤史的干预调整

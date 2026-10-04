@@ -13,7 +13,11 @@ intent_queries:
   - "渐进性肌肉放松的方法与实践"
 trigger_keywords: ["渐进性肌肉放松", "Progressive", "Muscle", "Relaxation", "PMR"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 渐进性肌肉放松 (Progressive Muscle Relaxation, PMR)
 
 > **模块定位**：渐进性肌肉放松的系统化专业知识，涵盖Jacobson原始方法、Bernstein-Borkovec简化版、肌肉群系统、临床应用协议及循证基础。

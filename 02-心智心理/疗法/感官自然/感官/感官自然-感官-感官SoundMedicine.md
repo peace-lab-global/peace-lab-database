@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/藏传佛教/藏传SingingBowl/藏传佛教-藏传SingingBowl.md
   relation: bowl/singing/sound
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Sound Medicine (多维声音医学)
 
 ### Vibrational Healing Instruments (声频疗愈乐器：技术与意图表)

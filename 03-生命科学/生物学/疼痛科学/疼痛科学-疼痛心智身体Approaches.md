@@ -26,7 +26,11 @@ cross_refs:
   relation: 身体扫描/呼吸/太极
 - path: 05-实践成长/演讲/TED演讲/TED演讲-框架AIApplications.md
   relation: 疗法/瑜伽
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 疼痛的身心疗法 | Pain Mind-Body Approaches
 
 > **学科定位**: 整合医学 × 身心医学 × 补充替代疗法

@@ -13,7 +13,11 @@ intent_queries:
   - "冥想执行师国际执业 | Professional International Practice的方法与实践"
 trigger_keywords: ["冥想执行师国际执业", "Professional", "International", "Practice"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想执行师国际执业 | Professional International Practice
 
 > **领域**：冥想执行师职业手册 — 国际执业

@@ -27,7 +27,11 @@ cross_refs:
   relation: 研究/methods/随机对照
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-Pornography_Addiction_Research_Methods.md
   relation: 研究/methods/data
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Paraphilic Disorders: Research Methods & Academic Resources (恋物癖研究方法与学术资源)
 
 > 📘 **文档导航**: 本专题文档提供恋物癖研究的方法学指导和学术资源。相关主题请参考：

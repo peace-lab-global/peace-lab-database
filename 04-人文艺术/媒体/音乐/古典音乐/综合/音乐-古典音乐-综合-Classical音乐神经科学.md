@@ -13,7 +13,11 @@ intent_queries:
   - "Classical Music Neuroscience的方法与实践"
 trigger_keywords: ["Classical", "Music", "Neuroscience", "古典音乐疗愈的神经科学"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # Classical Music Neuroscience (古典音乐疗愈的神经科学)
 
 ## 大脑音乐处理网络表

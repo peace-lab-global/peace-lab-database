@@ -23,7 +23,11 @@ cross_refs:
   relation: bardo/死亡/dying
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/临终/佛教
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 中阴教法：死亡后的意识地图
 
 ## 一、中阴的概念框架

@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-meditation.md
   relation: 冥想/meditation/障碍
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 老年冥想指南 | Meditation for Seniors and Elderly
 
 > **文档类型**: 特殊人群应用指南 | Special Population Guide
@@ -397,7 +401,7 @@ cross_refs:
 - [冥想与睡眠](../总览与理论/基础-总览-Meditation_And_Sleep.md)
 - [儿童青少年冥想](基础-总览-Children_Youth_Meditation.md)
 - [慢性疼痛冥想](../../临床/临床病症/冥想与躯体疾病/临床-临床病症-Meditation_Chronic_Pain.md)
-- [冥想与心血管](../../临床/临床病症/冥想与躯体疾病/临床-临床病症-Meditation_Cardiovascular_Health.md)
+- [冥想与心血管](../../%E4%B8%B4%E5%BA%8A/%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87/%E5%86%A5%E6%83%B3%E4%B8%8E%E8%BA%AF%E4%BD%93%E7%96%BE%E7%97%85/%E4%B8%B4%E5%BA%8A-%E4%B8%B4%E5%BA%8A%E7%97%85%E7%97%87-%E5%86%A5%E6%83%B3%E5%BF%83%E8%A1%80%E7%AE%A1%E5%81%A5%E5%BA%B7.md)
 - [身体扫描](../../引导/引导-核心-Scripts身体Scan.md)
 - [慈心冥想](../../引导/引导-核心-Scripts慈爱善意.md)
 

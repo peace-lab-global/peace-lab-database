@@ -13,7 +13,11 @@ intent_queries:
   - "诊断技术 | Diagnostic Technology的方法与实践"
 trigger_keywords: ["诊断技术", "decision-making"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 诊断技术 | Diagnostic Technology
 
 > **诊断技术**（Diagnostic Technology）是现代医学的基石——从医学影像（Medical Imaging）到基因检测（Genetic Testing），从液体活检（Liquid Biopsy）到人工智能辅助诊断（AI-Assisted Diagnosis）。精准、及时的诊断是一切有效治疗的起点。本文件精选TED平台上关于诊断技术的代表性演讲，帮助读者理解诊断技术的创新前沿和临床应用。

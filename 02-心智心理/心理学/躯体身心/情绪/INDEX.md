@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 情绪 | 情绪
 
@@ -16,9 +19,9 @@ auto_generated: true
 - [躯体身心-情绪-Emotion_Cultural_Wisdom.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AA%E6%96%87%E5%8C%96%E6%99%BA%E6%85%A7.md)
 - [躯体身心-情绪-Emotion_DBT_Skills.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AADBT%E6%8A%80%E8%83%BD.md)
 - [躯体身心-情绪-Emotion_Focused_Therapy.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AAFocused%E7%96%97%E6%B3%95.md)
-- [躯体身心-情绪-Emotion_Mindfulness_Approaches.md](躯体身心-情绪-Emotion_Mindfulness_Approaches.md)
+- [躯体身心-情绪-Emotion_Mindfulness_Approaches.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AA%E6%AD%A3%E5%BF%B5Approaches.md)
 - [躯体身心-情绪-Emotion_Neuroscience.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AA%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md)
-- [躯体身心-情绪-Emotion_Regulation_Methods.md](躯体身心-情绪-Emotion_Regulation_Methods.md)
+- [躯体身心-情绪-Emotion_Regulation_Methods.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AARegulationMethods.md)
 - [躯体身心-情绪-Emotion_Specific_Interventions.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AASpecificInterventions.md)
 - [躯体身心-情绪-Emotion_Therapy_Overview.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E6%83%85%E7%BB%AA-%E6%83%85%E7%BB%AA%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md)
 - [躯体身心-情绪-情绪DBT技能.md](躯体身心-情绪-情绪DBT技能.md)

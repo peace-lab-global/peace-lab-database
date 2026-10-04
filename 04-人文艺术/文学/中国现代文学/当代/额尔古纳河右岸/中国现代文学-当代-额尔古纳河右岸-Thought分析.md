@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/哲学/西方哲学/二十世纪/西方哲学-二十世纪-literary-philosophers-Hesse_Works_Analysis.md
   relation: 智慧/意义
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《额尔古纳河右岸》核心思想与观点分析
 
 ## 这本书到底在说什么？

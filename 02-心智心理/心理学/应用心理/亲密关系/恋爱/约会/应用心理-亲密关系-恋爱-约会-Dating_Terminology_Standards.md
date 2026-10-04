@@ -27,7 +27,11 @@ cross_refs:
   relation: standards/attraction/terminology
 - path: 02-心智心理/心理学/基础/术语词典/基础-术语词典-Terminology_Dictionary.md
   relation: terminology/concept/norms
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Professional Terminology Standards (约会专业术语标准)
 
 > 📘 **文档导航**: 本标准文档为约会心理学和关系发展领域建立统一的术语体系。相关文档：

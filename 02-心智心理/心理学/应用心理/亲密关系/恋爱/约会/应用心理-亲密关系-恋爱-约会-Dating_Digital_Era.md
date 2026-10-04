@@ -13,7 +13,11 @@ intent_queries:
   - "Digital Age Dating & Online Relationship Dynamics的方法与实践"
 trigger_keywords: ["Digital", "Age", "Dating", "Online", "Relationship"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Digital Age Dating & Online Relationship Dynamics (数字时代约会与在线关系动力学)
 
 > 📘 **文档导航**: 本指南解析数字化时代约会的特点、挑战和最佳实践。相关文档：

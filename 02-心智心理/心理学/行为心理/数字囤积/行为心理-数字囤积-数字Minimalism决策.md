@@ -24,7 +24,11 @@ cross_refs:
   relation: minimalism/differences/hoarding
 - path: 05-实践成长/个人发展/极简断舍离/MinimalismDecluttering实践指南/极简断舍离-MinimalismDecluttering实践指南.md
   relation: minimalism/decovery/organization
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 数字极简主义与数字断舍离 (Digital Minimalism & Digital Decovery)
 
 ## 1. 数字极简主义核心概念 (Core Concepts of Digital Minimalism)

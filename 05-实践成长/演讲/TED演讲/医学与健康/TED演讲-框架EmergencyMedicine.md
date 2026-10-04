@@ -13,7 +13,11 @@ intent_queries:
   - "急诊医学 | Emergency Medicine的方法与实践"
 trigger_keywords: ["急诊医学", "cardiovascular"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 急诊医学 | Emergency Medicine
 
 > **急诊医学**（Emergency Medicine）是医疗系统中最前线、最具时间压力的学科——从创伤救治（Trauma Care）到急救响应（First Response），从灾难医学（Disaster Medicine）到院前急救（Pre-Hospital Care）。在黄金时间内做出正确决策是挽救生命的关键。本文件精选TED平台上关于急诊医学的代表性演讲，帮助读者理解急诊医学的前沿发展和生命救援的核心原则。

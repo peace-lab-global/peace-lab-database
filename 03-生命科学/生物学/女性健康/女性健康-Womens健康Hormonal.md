@@ -13,7 +13,11 @@ intent_queries:
   - "女性激素健康管理 | Women's Health Hormonal Guide的方法与实践"
 trigger_keywords: ["女性激素健康管理", "Women's", "Health", "Hormonal", "Guide"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 女性激素健康管理 | Women's Health Hormonal Guide
 
 > **学科定位**: 妇产科学 · 内分泌学 · 女性心理学

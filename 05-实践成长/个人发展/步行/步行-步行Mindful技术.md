@@ -27,7 +27,11 @@ cross_refs:
   relation: 步行/mindful/冥想
 - path: 02-心智心理/疗法/萨提亚模型/Satir冥想技术/INDEX.md
   relation: 步行/技术/冥想
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 步行冥想核心技法与进阶路径 (Mindful Walking Techniques & Progression Pathway)
 
 > 步行冥想 (Mindful Walking / Walking Meditation) 是将正念觉察整合到行走运动中的系统性实践。本文档涵盖东方行禅传统与西方循证正念体系的七大核心技法，以及基于神经可塑性原理的五阶段进阶路径。

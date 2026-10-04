@@ -13,7 +13,11 @@ intent_queries:
   - "马致远 ：元曲四大家之一与「曲状元「的方法与实践"
 trigger_keywords: ["act", "art", "developmental", "gut"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 马致远 (Ma Zhiyuan, 约1250-1321)：元曲四大家之一与"曲状元"
 
 ## 概述 (Overview)

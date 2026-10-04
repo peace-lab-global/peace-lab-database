@@ -13,7 +13,11 @@ intent_queries:
   - "训练协议与实践指南的方法与实践"
 trigger_keywords: ["训练协议与实践指南", "Training", "Protocols", "Practice"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 训练协议与实践指南 (Training Protocols & Practice)
 
 > **目标**：神经反馈与脑机接口的实践操作指南，涵盖训练流程、操作规范、常见问题处理及家庭训练建议。

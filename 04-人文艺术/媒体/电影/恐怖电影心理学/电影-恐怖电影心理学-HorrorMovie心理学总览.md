@@ -17,7 +17,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/发展心理/青少年/青少年心理/发展心理-青少年-青少年心理-social-relationships-Adolescent_Relationship_Toolkit.md
   relation: 恐惧/情绪调节
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 恐怖电影心理学专业内容体系
 
 ## 目录

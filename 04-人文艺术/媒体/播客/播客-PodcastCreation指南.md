@@ -17,7 +17,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/写作/数字LiteraryCreation/数字LiteraryCreation.md
   relation: creation/vs
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 播客创作指南 | Podcast Creation Guide
 
 > **学科定位**: 内容创作 x 传播学 x 音频制作

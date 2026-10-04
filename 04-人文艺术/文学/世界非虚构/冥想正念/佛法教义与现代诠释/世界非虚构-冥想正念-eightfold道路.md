@@ -13,7 +13,11 @@ intent_queries:
   - "《八正道》Eightfold Path的方法与实践"
 trigger_keywords: ["《八正道》Eightfold", "Path"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《八正道》Eightfold Path
 
 > 德宝法师（Bhante Henepola Gunaratana）著，2011年出版。《观呼吸》的姊妹篇，将佛陀的"八正道"从抽象教义转化为具体的日常实践。德宝法师再次展示了他将复杂佛教哲学"翻译"为实用生活指南的非凡能力。

@@ -16,8 +16,8 @@ auto_generated: true
 - [中国现代文学-当代-to-live-Book_Review.md](../%E6%B4%BB%E7%9D%80/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E6%B4%BB%E7%9D%80-Book%E8%AF%84%E8%BF%B0.md)
 - [中国现代文学-当代-to-live-Historical_Fate.md](../%E6%B4%BB%E7%9D%80/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E6%B4%BB%E7%9D%80-%E5%8E%86%E5%8F%B2Fate.md)
 - [中国现代文学-当代-to-live-Loss_Endurance.md](../%E6%B4%BB%E7%9D%80/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E6%B4%BB%E7%9D%80-%E5%87%8FEndurance.md)
-- [中国现代文学-当代-to-live-Survival_Philosophy.md](中国现代文学-当代-to-live-Survival_Philosophy.md)
-- [中国现代文学-当代-to-live-Thought_Analysis.md](中国现代文学-当代-to-live-Thought_Analysis.md)
+- [中国现代文学-当代-to-live-Survival_Philosophy.md](../%E6%B4%BB%E7%9D%80/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E6%B4%BB%E7%9D%80-Survival%E5%93%B2%E5%AD%A6.md)
+- [中国现代文学-当代-to-live-Thought_Analysis.md](../%E6%B4%BB%E7%9D%80/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E6%B4%BB%E7%9D%80-Thought%E5%88%86%E6%9E%90.md)
 
 
 ---

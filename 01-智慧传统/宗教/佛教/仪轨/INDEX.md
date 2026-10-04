@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 仪轨 | 仪轨
 
@@ -28,7 +31,7 @@ auto_generated: true
 - [佛教-仪轨-Japanese_Shingon_Rituals.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-JapaneseShingon%E4%BB%AA%E8%BD%A8.md)
 - [佛教-仪轨-Korean_Bebeop.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E9%9F%A9%E5%9B%BD%E6%B3%95.md)
 - [佛教-仪轨-Sadhana_Amitabha.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E9%98%BF%E5%BC%A5%E9%99%80%E4%BD%9B%E4%BF%AE%E6%8C%81%E6%B3%95.md)
-- [佛教-仪轨-Sadhana_Avalokitesvara.md](佛教-仪轨-Sadhana_Avalokitesvara.md)
+- [佛教-仪轨-Sadhana_Avalokitesvara.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%A7%82%E9%9F%B3%E4%BF%AE%E6%8C%81%E6%B3%95.md)
 - [佛教-仪轨-Sadhana_Cakrasamvara.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%83%9C%E4%B9%90%E9%87%91%E5%88%9A%E4%BF%AE%E6%8C%81%E6%B3%95.md)
 - [佛教-仪轨-Sadhana_Guru_Rinpoche.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%8E%B2%E5%B8%88%E4%BF%AE%E6%8C%81%E6%B3%95.md)
 - [佛教-仪轨-Sadhana_Kalacakra.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E6%97%B6%E8%BD%AE%E9%87%91%E5%88%9A%E4%BF%AE%E6%8C%81%E6%B3%95.md)
@@ -45,17 +48,17 @@ auto_generated: true
 - [佛教-仪轨-Theravada_Uposatha.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E5%8D%97%E4%BC%A0Uposatha.md)
 - [佛教-仪轨-TibetanNgondro仪轨.md](佛教-仪轨-TibetanNgondro仪轨.md)
 - [佛教-仪轨-TibetanYidam实践.md](佛教-仪轨-TibetanYidam实践.md)
-- [佛教-仪轨-Tibetan_Bardo_Rites.md](佛教-仪轨-Tibetan_Bardo_Rites.md)
+- [佛教-仪轨-Tibetan_Bardo_Rites.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%97%8F%E4%BC%A0%E4%B8%AD%E9%98%B4Rites.md)
 - [佛教-仪轨-Tibetan_Empowerment.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-Tibetan%E8%B5%8B%E8%83%BD.md)
-- [佛教-仪轨-Tibetan_Homa_Fire_Offering.md](佛教-仪轨-Tibetan_Homa_Fire_Offering.md)
-- [佛教-仪轨-Tibetan_Ngondro_Rituals.md](佛教-仪轨-Tibetan_Ngondro_Rituals.md)
+- [佛教-仪轨-Tibetan_Homa_Fire_Offering.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%97%8F%E4%BC%A0Homa%E7%81%ABOffering.md)
+- [佛教-仪轨-Tibetan_Ngondro_Rituals.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-TibetanNgondro%E4%BB%AA%E8%BD%A8.md)
 - [佛教-仪轨-Tibetan_Protector_Puja.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%97%8F%E4%BC%A0ProtectorPuja.md)
-- [佛教-仪轨-Tibetan_Refuge_Bodhicitta.md](佛教-仪轨-Tibetan_Refuge_Bodhicitta.md)
-- [佛教-仪轨-Tibetan_Rituals_Overview.md](佛教-仪轨-Tibetan_Rituals_Overview.md)
-- [佛教-仪轨-Tibetan_Yidam_Practice.md](佛教-仪轨-Tibetan_Yidam_Practice.md)
+- [佛教-仪轨-Tibetan_Refuge_Bodhicitta.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E8%97%8F%E4%BC%A0%E7%9A%88%E4%BE%9D%E8%8F%A9%E6%8F%90%E5%BF%83.md)
+- [佛教-仪轨-Tibetan_Rituals_Overview.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-Tibetan%E4%BB%AA%E8%BD%A8%E6%80%BB%E8%A7%88.md)
+- [佛教-仪轨-Tibetan_Yidam_Practice.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-TibetanYidam%E5%AE%9E%E8%B7%B5.md)
 - [佛教-仪轨-Tibetan仪轨总览.md](佛教-仪轨-Tibetan仪轨总览.md)
 - [佛教-仪轨-Tibetan赋能.md](佛教-仪轨-Tibetan赋能.md)
-- [佛教-仪轨-Zen_Seven_Day_Retreat.md](佛教-仪轨-Zen_Seven_Day_Retreat.md)
+- [佛教-仪轨-Zen_Seven_Day_Retreat.md](%E4%BD%9B%E6%95%99-%E4%BB%AA%E8%BD%A8-%E7%A6%85%E5%AE%97SevenDay%E9%9D%99%E4%BF%AE.md)
 - [佛教-仪轨-中国Ghost节日.md](佛教-仪轨-中国Ghost节日.md)
 - [佛教-仪轨-中国Mengshan.md](佛教-仪轨-中国Mengshan.md)
 - [佛教-仪轨-中国Water净土Dharma.md](佛教-仪轨-中国Water净土Dharma.md)

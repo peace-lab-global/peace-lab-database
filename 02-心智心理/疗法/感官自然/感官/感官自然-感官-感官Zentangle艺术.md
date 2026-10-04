@@ -13,7 +13,11 @@ intent_queries:
   - "Mindful Zentangle的方法与实践"
 trigger_keywords: ["Mindful", "Zentangle", "正念艺术与缠绕画"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Mindful Zentangle (正念艺术与缠绕画)
 
 ### The Eight Steps of the Zentangle Method (缠绕画八大步骤详表)

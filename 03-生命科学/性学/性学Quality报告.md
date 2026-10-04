@@ -26,7 +26,11 @@ cross_refs:
   relation: report/质量
 - path: 02-心智心理/心理学/应用心理/职业心理学/应用心理-职业心理学-Vocational_Psychology_Quality_Report.md
   relation: report/质量/研究
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 性学专业内容体系质量报告 (Sexuality Content Quality Report)
 
 ## 📊 总体概况

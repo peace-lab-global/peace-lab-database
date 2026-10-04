@@ -13,7 +13,11 @@ intent_queries:
   - "TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path的方法与实践"
 trigger_keywords: ["TED演讲观看指南与学习路径", "TED", "Talks", "Watching", "Guide"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # TED演讲观看指南与学习路径 | TED Talks Watching Guide & Learning Path
 
 > **使用指南**：本指南为TED演讲学习者提供系统化的观看策略、学习方法和实践建议，帮助您最大化TED演讲的学习价值。

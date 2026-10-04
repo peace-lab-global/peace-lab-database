@@ -13,7 +13,11 @@ intent_queries:
   - "Late Night Solitude  — 深夜独处古典音乐歌单的方法与实践"
 trigger_keywords: ["healing", "loneliness"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # Late Night Solitude (夜深孤独) — 深夜独处古典音乐歌单
 
 > 当夜深人静，孤独悄然而至——这些作品不试图驱走孤独，而是与它同在，将其升华为一种静默的美。

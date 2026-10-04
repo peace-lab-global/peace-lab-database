@@ -13,7 +13,11 @@ intent_queries:
   - "性教育与社会变革的方法与实践"
 trigger_keywords: ["性教育与社会变革", "Sex", "Education", "and", "Social"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 性教育与社会变革 (Sex Education and Social Change)
 
 > 📘 **文档导航**: 本专题探讨通过性教育推动社会变革的策略和路径。如需了解其他相关内容，请参考：

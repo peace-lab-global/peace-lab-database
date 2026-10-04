@@ -13,7 +13,11 @@ intent_queries:
   - "认知偏差矫正 | Cognitive Bias Correction的方法与实践"
 trigger_keywords: ["认知偏差矫正", "Cognitive", "Bias", "Correction"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 认知偏差矫正 | Cognitive Bias Correction
 
 > **学科定位**: 行为决策理论 × 认知心理学 × 去偏差科学（Debiasing Science）

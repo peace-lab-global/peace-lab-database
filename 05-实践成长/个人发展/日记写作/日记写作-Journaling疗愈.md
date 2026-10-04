@@ -22,7 +22,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/疗法/感官自然/感官/感官自然-感官-Sensory_Writing_Journaling.md
   relation: 写作/日记写作/expressive
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 日记的治疗性写作与深度实践 (Journaling - Therapeutic Writing & Deep Practice)
 
 ## 治疗性写作的框架 (Therapeutic Writing Frameworks)

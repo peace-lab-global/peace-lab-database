@@ -13,7 +13,11 @@ intent_queries:
   - "强势文化与弱势文化的方法与实践"
 trigger_keywords: ["强势文化与弱势文化", "daoism", "habits"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 强势文化与弱势文化 (Strong Culture vs. Weak Culture)
 
 > 《遥远的救世主》中最核心的概念框架，贯穿全书的分析工具。

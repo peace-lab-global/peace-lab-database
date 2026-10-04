@@ -13,7 +13,11 @@ intent_queries:
   - "STD Core Terminology Dictionary的方法与实践"
 trigger_keywords: ["STD", "Core", "Terminology", "Dictionary", "性传播疾病核心术语词典"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # STD Core Terminology Dictionary (性传播疾病核心术语词典)
 
 > 📚 **术语标准化**: 本文档提供性传播疾病领域的标准化核心术语表，确保专业术语的一致性和准确性，便于跨文档引用和国际交流。

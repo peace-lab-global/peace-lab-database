@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/行为心理/数字囤积/行为心理-数字囤积-Digital_Minimalism_Decision.md
   relation: minimalism/decovery/differences
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 极简主义与断舍离概览 (Minimalism & Decluttering Overview)
 
 ## 1. 核心概念与定义 (Core Concepts & Definitions)

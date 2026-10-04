@@ -25,7 +25,11 @@ cross_refs:
   relation: career/瑜伽
 - path: 02-心智心理/冥想/传统/印度瑜伽/瑜伽冥想/传统-印度瑜伽-瑜伽冥想-Yoga_Meditation_Overview.md
   relation: 瑜伽/瑜伽
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 瑜伽职业发展路径 | Yoga Career Pathways
 
 > **领域**：瑜伽商业化与职业发展（Yoga Business & Career）

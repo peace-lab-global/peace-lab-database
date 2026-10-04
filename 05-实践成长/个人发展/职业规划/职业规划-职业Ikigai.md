@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/发展心理/衰老心理学/发展心理-衰老心理学-Aging_Retirement_Transition.md
   relation: ikigai/意义
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Ikigai生命意义 | Ikigai
 
 > **学科定位**: 积极心理学 · 日本哲学 · 意义疗法

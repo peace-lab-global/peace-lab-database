@@ -13,7 +13,11 @@ intent_queries:
   - "Direct Recognition Assessment & Stages的方法与实践"
 trigger_keywords: ["Direct", "Recognition", "Assessment", "Stages", "直接认知评估与阶次：识别深化与成熟度量表"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Direct Recognition Assessment & Stages (直接认知评估与阶次：识别深化与成熟度量表 v2.0)
 
 > **文档类型**：学术级评估标准 | Academic Assessment Standard

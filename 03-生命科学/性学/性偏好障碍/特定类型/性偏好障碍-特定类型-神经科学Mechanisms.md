@@ -23,7 +23,11 @@ cross_refs:
   relation: 神经科学/神经科学/阅读
 - path: 02-心智心理/冥想/传统/佛教/止观/传统-佛教-止观-Neuroscience_Research.md
   relation: fmri/神经科学/神经科学
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Specific Types Neuroscience Mechanisms (性迷恋类型神经科学机制)
 
 > 📘 **文档导航**: 本专题文档深入探讨各类性迷恋现象的神经生物学基础和大脑机制。相关主题请参考：

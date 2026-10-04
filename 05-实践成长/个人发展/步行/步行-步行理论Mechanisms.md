@@ -21,7 +21,11 @@ trigger_keywords:
 - 'Health:'
 - Theory
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 步行心理健康：理论基础与神经心理学机制 (Walking & Mental Health: Theory & Neuropsychological Mechanisms)
 
 > 步行对心理健康的影响是多通道、多层次的。本文档系统梳理步行的神经心理作用机制，从情绪调节、认知功能到创伤修复七大维度，以及步行改善孤独感的六大核心通路，为实践方案提供坚实的理论基础。

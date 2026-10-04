@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-transcendental-meditation.md
   relation: tm/transcendental/mahesh
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 超觉静坐研究证据 | Transcendental Meditation Research Evidence
 
 > **领域**：冥想流派补强（Meditation Traditions Enhancement）
@@ -124,4 +128,4 @@ TM作为一种冥想技术，有合理的研究支持其在焦虑和血压管理
 
 - [冥想类型分类学](基础-总览-Meditation_Types_Classification.md)
 - [冥想神经科学机制](基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [冥想临床应用](基础-总览-Meditation_Clinical_Applications.md)
+- [冥想临床应用](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)

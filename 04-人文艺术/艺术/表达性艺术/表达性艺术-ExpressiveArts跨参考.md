@@ -28,7 +28,11 @@ cross_refs:
   relation: oh/cards/表达性艺术
 - path: 02-心智心理/疗法/创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Techniques_Methods.md
   relation: oh/cards/integration
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 表达性艺术治疗交叉引用体系 (Expressive Arts Therapy Cross-Reference System)
 
 > **知识整合与学习路径**

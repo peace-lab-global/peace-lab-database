@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/基础/总览与理论/基础-总览-Movement_Meditation.md
   relation: 太极/chi/tai
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 学习路线图 | Tai Chi Learning Pathways
 
 > 太极修炼是一段漫长的旅程。明确每个阶段的目标与里程碑，可以帮助你持续精进。

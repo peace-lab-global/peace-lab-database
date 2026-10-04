@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 创伤 | 创伤
 
@@ -13,8 +16,8 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [临床-创伤-PTSD_Specialized_Treatment.md](临床-创伤-PTSD_Specialized_Treatment.md)
-- [临床-创伤-Trauma_Treatment_Overview.md](临床-创伤-Trauma_Treatment_Overview.md)
+- [临床-创伤-PTSD_Specialized_Treatment.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md)
+- [临床-创伤-Trauma_Treatment_Overview.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E6%B2%BB%E7%96%97%E6%80%BB%E8%A7%88.md)
 - [临床-创伤-skills-Trauma_Assessment_Skill.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E6%8A%80%E8%83%BD-%E5%88%9B%E4%BC%A4%E8%AF%84%E4%BC%B0Skill.md)
 - [临床-创伤-skills-_manifest.md](%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E6%8A%80%E8%83%BD-_manifest.md)
 - [临床-创伤-创伤后应激Specialized治疗.md](临床-创伤-创伤后应激Specialized治疗.md)

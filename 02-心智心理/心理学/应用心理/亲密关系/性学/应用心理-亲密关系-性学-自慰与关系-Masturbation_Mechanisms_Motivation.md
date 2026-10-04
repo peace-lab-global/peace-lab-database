@@ -25,7 +25,11 @@ cross_refs:
   relation: 情绪调节/习惯
 - path: 04-人文艺术/媒体/电视/电视-恐怖剧集-Horror_TV_Series_Psychological_Effects_Research.md
   relation: 情绪调节/习惯
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Psychological Mechanisms and Motivation of Masturbation (自慰行为的心理机制与动机分析)
 
 > 基于动机心理学、情绪调节理论与认知科学研究，系统分析自慰行为的多维度心理动机、认知过程与习惯形成机制。内容基于循证研究，旨在提供功能性理解框架。

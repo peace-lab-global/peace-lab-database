@@ -13,7 +13,11 @@ intent_queries:
   - "Personal Development Overview 个人发展概览的方法与实践"
 trigger_keywords: ["Personal", "Development", "Overview", "个人发展概览"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Personal Development Overview 个人发展概览
 
 ## 核心术语与词源 (Core Terminology & Etymology)

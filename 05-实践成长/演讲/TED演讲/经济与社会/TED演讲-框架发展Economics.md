@@ -13,7 +13,11 @@ intent_queries:
   - "发展经济学 | Development Economics的方法与实践"
 trigger_keywords: ["发展经济学", "Development", "Economics"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 发展经济学 | Development Economics
 
 > **发展经济学**（Development Economics）研究低收入和中等收入国家如何实现可持续的经济增长与社会发展。TED平台上关于发展经济学的演讲聚焦全球贫困、教育投资、健康改善和制度创新，展示了数据驱动的方法如何改变我们对发展问题的理解和应对。

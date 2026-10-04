@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 直接认知 | 直接认知
 
@@ -19,7 +22,7 @@ auto_generated: true
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Assessment_Stages.md](传统-佛教-直接认知-Meditation_Direct_Recognition_Assessment_Stages.md)
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Daily_Integration.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionDaily%E6%95%B4%E5%90%88.md)
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Foundations.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E5%9F%BA%E7%A1%80.md)
-- [传统-佛教-直接认知-Meditation_Direct_Recognition_History_Lineage.md](传统-佛教-直接认知-Meditation_Direct_Recognition_History_Lineage.md)
+- [传统-佛教-直接认知-Meditation_Direct_Recognition_History_Lineage.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionHistory%E4%BC%A0%E6%89%BF.md)
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Neuroscience.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognition%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md)
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Pointing_Out.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionPointingOut.md)
 - [传统-佛教-直接认知-Meditation_Direct_Recognition_Traditions.md](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E7%9B%B4%E6%8E%A5%E8%AE%A4%E7%9F%A5-%E5%86%A5%E6%83%B3DirectRecognitionTraditions.md)

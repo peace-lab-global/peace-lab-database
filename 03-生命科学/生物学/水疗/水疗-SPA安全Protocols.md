@@ -13,7 +13,11 @@ intent_queries:
   - "SPA Safety Protocols & Contraindications的方法与实践"
 trigger_keywords: ["SPA", "Safety", "Protocols", "Contraindications", "SPA安全规范与禁忌症"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # SPA Safety Protocols & Contraindications (SPA安全规范与禁忌症)
 
 > ⚠️ **安全概览**: 本文档提供SPA服务全过程的安全管理规范和禁忌症清单，基于医疗安全标准制定操作规程，确保客户在接受SPA服务时的安全性和有效性。所有从业人员必须严格遵守安全规范。

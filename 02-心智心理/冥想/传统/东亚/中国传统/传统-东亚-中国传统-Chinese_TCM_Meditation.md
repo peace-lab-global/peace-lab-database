@@ -25,7 +25,11 @@ cross_refs:
   relation: 气功/qigong/冥想
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/世界非虚构-冥想正念-meditation.md
   relation: 冥想/meditation
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 中医与冥想 | Traditional Chinese Medicine & Meditation
 
 > **领域**：中国本土冥想与禅修（Chinese Indigenous Meditation）
@@ -166,4 +170,4 @@ cross_refs:
 - [中国本土冥想传统概论](传统-东亚-中国传统-Chinese_Meditation_Overview.md)
 - [中国传统静坐功法](传统-东亚-中国传统-Chinese_Sitting_Practices.md)
 - [正念中国本土化挑战](传统-东亚-中国传统-Chinese_Localization_Challenges.md)
-- [冥想临床应用](../../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md)
+- [冥想临床应用](../../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)

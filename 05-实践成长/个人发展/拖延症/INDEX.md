@@ -8,7 +8,10 @@ cross_refs:
   - "06-临床专题/拖延症/INDEX.md"
   - "05-实践成长/个人发展/专注/INDEX.md"
   - "05-实践成长/个人发展/任务管理/INDEX.md"
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
 
 # 拖延症（自我调节视角） | Procrastination — Self-Regulation View
 

@@ -22,7 +22,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/死亡/死亡焦虑/死亡焦虑-Death焦虑总览.md
   relation: 焦虑/焦虑/障碍
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 疑病症与疾病焦虑障碍 (Hypochondriasis & Illness Anxiety Disorder)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

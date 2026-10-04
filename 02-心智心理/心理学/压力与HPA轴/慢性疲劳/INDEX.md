@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 慢性疲劳 | 慢性疲劳
 
@@ -16,7 +19,7 @@ auto_generated: true
 - [压力与HPA轴-慢性疲劳-CFS_Clinical_Features.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%E4%B8%B4%E5%BA%8AFeatures.md)
 - [压力与HPA轴-慢性疲劳-CFS_Clinical_Management.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%E4%B8%B4%E5%BA%8A%E7%AE%A1%E7%90%86.md)
 - [压力与HPA轴-慢性疲劳-CFS_Diagnosis_Assessment.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%E8%AF%8A%E6%96%AD%E8%AF%84%E4%BC%B0.md)
-- [压力与HPA轴-慢性疲劳-CFS_Etiology_Mechanisms.md](压力与HPA轴-慢性疲劳-CFS_Etiology_Mechanisms.md)
+- [压力与HPA轴-慢性疲劳-CFS_Etiology_Mechanisms.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3EtiologyMechanisms.md)
 - [压力与HPA轴-慢性疲劳-CFS_Overview.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%E6%80%BB%E8%A7%88.md)
 - [压力与HPA轴-慢性疲劳-CFS_Treatment.md](%E5%8E%8B%E5%8A%9B%E4%B8%8EHPA%E8%BD%B4-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3-%E6%85%A2%E6%80%A7%E7%96%B2%E5%8A%B3%E6%B2%BB%E7%96%97.md)
 - [压力与HPA轴-慢性疲劳-慢性疲劳EtiologyMechanisms.md](压力与HPA轴-慢性疲劳-慢性疲劳EtiologyMechanisms.md)

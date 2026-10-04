@@ -13,7 +13,11 @@ intent_queries:
   - "亨德尔音乐疗愈的方法与实践"
 trigger_keywords: ["亨德尔音乐疗愈", "Handel", "Music", "Therapy"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 亨德尔音乐疗愈 (Handel Music Therapy)
 
 > **乔治·弗里德里希·亨德尔 (George Frideric Handel, 1685-1759)**

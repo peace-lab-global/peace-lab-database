@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 05-实践成长/演讲/TED演讲/TED演讲-心理学Personality.md
   relation: 人格/人格心理学/人格
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 人格、依恋与孤独 | Personality, Attachment & Loneliness
 
 > **核心定位**: 从人格心理学与依恋理论视角理解孤独的个体差异与深层机制

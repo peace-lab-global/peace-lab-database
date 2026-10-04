@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/瑜伽/冥想与意识/冥想与意识-瑜伽冥想禅那禅定.md
   relation: dhi/dhy/sam
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 禅定体系详解 (Dhyāna & Samādhi Comprehensive System)
 
 > **禅定** 是佛教修行"三学"（戒定慧）的核心环节，也是跨越印度教、佛教、道教等多元传统的共有修行体系。Dhyāna（禅那）侧重禅定的阶位与状态，Samādhi（三摩地）侧重心的统一与专注品质。
@@ -374,7 +378,7 @@ cross_refs:
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](传统-佛教-止观-Samatha_Vipassana_Theory.md) | 止观完整理论体系 |
 | 止观历史发展 | [Samatha_Vipassana_History.md](传统-佛教-止观-Samatha_Vipassana_History.md) | 止观的历史传承脉络 |
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md) | 百科级止观参考表 |
-| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-智慧传统/宗教/佛教/天台/佛教-天台-Buddhism_Tiantai_Zhiguan.md) | 天台止观体系 |
+| 天台宗止观 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E5%A4%A9%E5%8F%B0/%E4%BD%9B%E6%95%99-%E5%A4%A9%E5%8F%B0-%E4%BD%9B%E6%95%99%E5%A4%A9%E5%8F%B0%E6%AD%A2%E8%A7%82.md) | 天台止观体系 |
 | 上座部论典 | [Buddhism_Theravada_Abhidhamma.md](../../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8/%E4%BD%9B%E6%95%99-%E5%8D%97%E4%BC%A0%E4%B8%8A%E5%BA%A7%E9%83%A8-%E4%BD%9B%E6%95%99%E5%8D%97%E4%BC%A0%E9%98%BF%E6%AF%97%E8%BE%BE%E6%91%A9.md) | 阿毗达摩禅定理论 |
 | 神经科学研究 | [Neuroscience_Research.md](传统-佛教-止观-Neuroscience_Research.md) | 禅定的神经科学验证 |
 | 实践指南（初阶） | [Practice_Guide_Beginner.md](传统-佛教-止观-Practice_Guide_Beginner.md) | 初学者禅定实践 |

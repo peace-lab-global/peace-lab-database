@@ -25,7 +25,11 @@ cross_refs:
   relation: minimalism/differences/hoarding
 - path: 02-心智心理/心理学/行为心理/数字囤积/INDEX.md
   relation: hoarding/comparison/治疗
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 极简主义与储物癖：对比与关联分析 (Minimalism vs Hoarding: Comparison & Correlation Analysis)
 
 ## 1. 概念对比 (Conceptual Comparison)

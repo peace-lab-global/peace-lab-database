@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 中世纪 | 中世纪
 
@@ -15,7 +18,7 @@ auto_generated: true
 
 - [西方哲学-中世纪-christian-Aquinas.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E5%9F%BA%E7%9D%A3%E6%95%99-%E9%98%BF%E5%A5%8E%E9%82%A3.md)
 - [西方哲学-中世纪-christian-Augustine.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E5%9F%BA%E7%9D%A3%E6%95%99-%E5%A5%A5%E5%8F%A4%E6%96%AF%E4%B8%81.md)
-- [西方哲学-中世纪-christian-Buddhist_Perspective_Reviews.md](西方哲学-中世纪-christian-Buddhist_Perspective_Reviews.md)
+- [西方哲学-中世纪-christian-Buddhist_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E5%9F%BA%E7%9D%A3%E6%95%99-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-中世纪-christian-Multi_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E5%9F%BA%E7%9D%A3%E6%95%99-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-中世纪-christian-Ockham.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E5%9F%BA%E7%9D%A3%E6%95%99-%E5%A5%A5%E5%8D%A1%E5%A7%86.md)
 - [西方哲学-中世纪-islamic-Al-Ghazali.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E4%B8%AD%E4%B8%96%E7%BA%AA-%E4%BC%8A%E6%96%AF%E5%85%B0-%E5%AE%89%E8%90%A8%E9%87%8C.md)

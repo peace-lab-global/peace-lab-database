@@ -22,7 +22,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/临床/创伤/临床-创伤-技能-_manifest.md
   relation: 创伤/创伤/评估
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 性压抑的心理学影响与创伤 (Psychological Impact and Trauma of Sexual Repression)
 
 > 📘 **文档导航**: 本专题深入分析性压抑对个体心理发展的深远影响和创伤机制。如需了解其他相关内容，请参考：

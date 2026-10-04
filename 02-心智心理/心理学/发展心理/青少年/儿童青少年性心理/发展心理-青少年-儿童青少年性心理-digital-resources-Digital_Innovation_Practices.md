@@ -13,7 +13,11 @@ intent_queries:
   - "数字化性教育资源与创新实践的方法与实践"
 trigger_keywords: ["bci", "数字化性教育资源与创新实践", "Digital", "Sexuality", "Education"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 数字化性教育资源与创新实践 (Digital Sexuality Education Resources and Innovative Practices)
 
 > 💻 **创新定位**: 构建基于数字技术的性教育创新生态系统，融合人工智能、虚拟现实、大数据等前沿技术，为儿童青少年提供个性化、互动性强、可及性高的性教育资源和服务。基于教育技术最新发展趋势和学习科学理论，推动性教育的数字化转型和创新发展。建议结合[特殊群体支持](发展心理-青少年-儿童青少年性心理-special-populations-Special_Populations_Support_System.md)了解差异化需求，参考[课程设计指南](发展心理-青少年-儿童青少年性心理-theory-Curriculum_Design_Implementation_Guide.md)掌握教学实施要求。

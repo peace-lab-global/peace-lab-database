@@ -27,7 +27,11 @@ cross_refs:
   relation: 正念/mindful/觉察
 - path: 02-心智心理/冥想/基础/动态与自然冥想/基础-Walking_Meditation_Overview.md
   relation: 正念/table/觉察
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 正念饮水专业实践指南 (Mindful Drinking: Professional Practice Guide)
 
 > **正念饮水 (Mindful Drinking)**：以非评判的、有意识的觉察态度，全然临在于饮水的每一个微细过程——从看到、拿起、感受、品味到吞咽——将一杯水转化为深度正念训练的入口。

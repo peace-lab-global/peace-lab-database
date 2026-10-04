@@ -304,7 +304,7 @@ MBCT â  preventing depressive relapse through decentering
 | MBSR 8å¨è¯¾ç¨ | [../mbsr-program/INDEX.md](../INDEX.md) | çè®ºåæºï¼ç»æç¸ä¼¼ï¼ç®æ äººç¾¤ä¸å |
 | å¥æ³å®å¨ä¸ä¸è¯ååº | [../safety/INDEX.md](../INDEX.md) | æéæ£èç»ä¹ çç¹æ®æ³¨æäºé¡¹ |
 | åä¼¤ç¥æå¥æ³ | [../safety/Meditation_Trauma_Sensitive.md](../安全/临床-安全-Meditation_Trauma_Sensitive.md) | PTSDå±çæ¶çè¯¾ç¨è°æ´ |
-| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) | æ­£å¿µå¹²é¢å¨ç²¾ç¥å«çä¸­çæ´ä½å®ä½ |
+| ä¸´åºåºç¨æ»è§ | [../overview/Meditation_Clinical_Applications.md](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) | æ­£å¿µå¹²é¢å¨ç²¾ç¥å«çä¸­çæ´ä½å®ä½ |
 | ç¥ç»ç§å­¦æºå¶ | [../overview/Meditation_Neuroscience_Mechanisms.md](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) | å»ä¸­å¿åçç¥ç»åºç¡ |
 | å¼å¯¼è¯èæ¬åº | [../guided-scripts/INDEX.md](INDEX.md) | 3åéå¼å¸ç©ºé´ç­æ ¸å¿ç»ä¹ èæ¬ |
 | æ§è¡å¸å¹è®­ | [../practitioner-training/INDEX.md](INDEX.md) | MBCTå¸èµå¹è®­è·¯å¾ |
@@ -370,7 +370,7 @@ MBCT â  preventing depressive relapse through decentering
 ### ç¥è¯åºç¸å³æ¨¡å
 - [MBSR é¡¹ç®æ¦è¿°](../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) â MBCTçæ¯æ¬è¯¾ç¨
 - [MBSR å«å¨è¯¾ç¨](../正念减压课程/临床-正念减压课程-MBSR_Weekly_Curriculum.md) â æ ¸å¿ç»ä¹ çè¯¦ç»æå­¦è®¾è®¡
-- [å¥æ³ä¸´åºåºç¨](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md) â æ­£å¿µå¹²é¢çä¸´åºéåºçæ»è§
+- [å¥æ³ä¸´åºåºç¨](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md) â æ­£å¿µå¹²é¢çä¸´åºéåºçæ»è§
 - [å¥æ³ç¥ç»ç§å­¦æºå¶](../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md) â æ­£å¿µè®­ç»çèæºå¶
 - [å¥æ³ä¸è¯ååºä¸å®å¨](../安全/临床-安全-Meditation_Adverse_Effects.md) â MBCTæå­¦ä¸­çé£é©ç®¡ç
 - [åä¼¤ç¥æå¥æ³](../安全/临床-安全-Meditation_Trauma_Sensitive.md) â æéæ£èä¸­å¸¸è§åä¼¤å²çåºå¯¹

@@ -14,7 +14,10 @@ intent_queries:
   - "叙事治疗的循证证据"
 trigger_keywords: ["叙事治疗", "narrative-therapy", "外化", "独特结果", "Michael White"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
 
 # 叙事治疗 (Narrative Therapy)
 

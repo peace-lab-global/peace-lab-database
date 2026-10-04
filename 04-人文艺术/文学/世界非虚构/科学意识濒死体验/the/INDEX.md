@@ -20,9 +20,9 @@ auto_generated: true
 - [世界非虚构-科学意识濒死体验-the-emotional-life-of-your-brain.md](世界非虚构-科学意识濒死体验-the-emotional-life-of-your-brain.md)
 - [世界非虚构-科学意识濒死体验-the-feeling-of-what-happens.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%8F%91%E7%94%9F%E7%9A%84%E4%BA%8B%E6%83%85%E7%9A%84%E6%84%9F%E8%A7%89.md)
 - [世界非虚构-科学意识濒死体验-the-man-who-mistook-his-wife-for-a-hat.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E9%94%99%E6%8A%8A%E5%A6%BB%E5%AD%90%E5%BD%93%E5%B8%BD%E5%AD%90%E7%9A%84%E4%BA%BA.md)
-- [世界非虚构-科学意识濒死体验-the-mindful-brain.md](世界非虚构-科学意识濒死体验-the-mindful-brain.md)
-- [世界非虚构-科学意识濒死体验-the-spiritual-doorway-in-the-brain.md](世界非虚构-科学意识濒死体验-the-spiritual-doorway-in-the-brain.md)
-- [世界非虚构-科学意识濒死体验-the-tell-tale-brain.md](世界非虚构-科学意识濒死体验-the-tell-tale-brain.md)
+- [世界非虚构-科学意识濒死体验-the-mindful-brain.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E6%AD%A3%E5%BF%B5%E5%A4%A7%E8%84%91.md)
+- [世界非虚构-科学意识濒死体验-the-spiritual-doorway-in-the-brain.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%A4%A7%E8%84%91%E4%B8%AD%E7%9A%84%E7%81%B5%E6%80%A7%E4%B9%8B%E9%97%A8.md)
+- [世界非虚构-科学意识濒死体验-the-tell-tale-brain.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%A4%A7%E8%84%91%E7%9A%84%E7%A7%98%E5%AF%86.md)
 
 
 ---

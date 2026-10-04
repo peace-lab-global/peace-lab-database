@@ -16,7 +16,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/瑜伽/体式库/体式库-修复性.md
   relation: supported/体式/pose
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 睡前拉伸放松：科学入眠身体准备
 # Pre-Sleep Stretching: Scientific Physical Preparation for Sleep Onset
 

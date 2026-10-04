@@ -13,7 +13,11 @@ intent_queries:
   - "色情文学成瘾实用工具包的方法与实践"
 trigger_keywords: ["色情文学成瘾实用工具包", "Erotic", "Literature", "Addiction", "Practical"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾实用工具包 (Erotic Literature Addiction Practical Toolkit)
 
 > 🛠️ **实用资源**: 本文档提供色情文学成瘾评估、干预和自我管理的实用工具和资源包。建议结合[临床评估](行为心理-窥视色情成瘾-情色文学-情色文学临床评估.md)了解标准化评估方法，参考[治疗干预](行为心理-窥视色情成瘾-情色文学-情色文学治疗Interventions.md)掌握专业干预技术。

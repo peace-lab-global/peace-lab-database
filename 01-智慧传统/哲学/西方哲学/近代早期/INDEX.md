@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 近代早期 | 近代早期
 
@@ -14,10 +17,10 @@ auto_generated: true
 ## 📄 文件 | Files (27)
 
 - [西方哲学-近代早期-empiricism-Berkeley.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89-%E8%B4%9D%E5%85%8B%E8%8E%B1.md)
-- [西方哲学-近代早期-empiricism-Buddhist_Perspective_Reviews.md](西方哲学-近代早期-empiricism-Buddhist_Perspective_Reviews.md)
+- [西方哲学-近代早期-empiricism-Buddhist_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-近代早期-empiricism-Locke.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89-%E6%B4%9B%E5%85%8B.md)
 - [西方哲学-近代早期-empiricism-Multi_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%BB%8F%E9%AA%8C%E4%B8%BB%E4%B9%89-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
-- [西方哲学-近代早期-rationalism-Buddhist_Perspective_Reviews.md](西方哲学-近代早期-rationalism-Buddhist_Perspective_Reviews.md)
+- [西方哲学-近代早期-rationalism-Buddhist_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [西方哲学-近代早期-rationalism-Descartes.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89-%E7%AC%9B%E5%8D%A1%E5%B0%94.md)
 - [西方哲学-近代早期-rationalism-Leibniz.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89-%E8%8E%B1%E5%B8%83%E5%B0%BC%E8%8C%A8.md)
 - [西方哲学-近代早期-rationalism-Multi_Perspective_Reviews.md](%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6-%E8%BF%91%E4%BB%A3%E6%97%A9%E6%9C%9F-%E7%90%86%E6%80%A7%E4%B8%BB%E4%B9%89-%E5%A4%9A%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)

@@ -41,15 +41,20 @@ last_updated: "2026-06"
 8. [放松技术](../../02-心智心理/心理学/躯体身心/放松/INDEX.md)
 9. [Yoga Nidra 瑜伽睡眠术](../../01-智慧传统/瑜伽/冥想与意识/冥想与意识-瑜伽尼德拉.md)
 10. [声音疗愈](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官SoundMedicine.md)
-11. [脑波引导与 Delta 睡眠](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官BrainwaveEntrainment.md)
-12. [Solfeggio 睡眠优化方案](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官SolfeggioFrequencies.md)
+
+## 非循证补充（声学与脑波实践）
+
+> 以下条目**不属于循证干预**：Solfeggio「频率疗愈」（396Hz/417Hz「释放恐惧/创伤」等说法）与脑波 entrainment 目前缺乏可靠证据支持其对焦虑、创伤或睡眠症状的疗效，仅作为部分人自选的放松体验保留。请优先使用上文循证/主流方法；创伤与危机情形请在专业人员指导下进行。
+
+- [脑波引导与 Delta 睡眠](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官BrainwaveEntrainment.md)
+- [Solfeggio 睡眠优化方案](../../02-心智心理/疗法/感官自然/感官/感官自然-感官-感官SolfeggioFrequencies.md)
 
 ## 阶段四：习惯养成（第7-8周）
 
-12. [正念核心实践](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
-13. [习惯养成科学](../../05-实践成长/个人发展/主题/习惯行为/主题-习惯行为-Personal发展Habit科学.md)
-14. [每日打卡系统设计](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E7%B3%BB%E7%BB%9F.md)
-15. [恢复身心能量](../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E8%83%BD%E9%87%8F%E6%81%A2%E5%A4%8D-EnergyRestoration%E6%80%BB%E8%A7%88.md)
+11. [正念核心实践](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AD%A3%E5%BF%B5/%E6%AD%A3%E5%BF%B5-%E6%AD%A3%E5%BF%B5%E6%A0%B8%E5%BF%83.md)
+12. [习惯养成科学](../../05-实践成长/个人发展/主题/习惯行为/主题-习惯行为-Personal发展Habit科学.md)
+13. [每日打卡系统设计](../../05-%E5%AE%9E%E8%B7%B5%E6%88%90%E9%95%BF/%E4%B8%AA%E4%BA%BA%E5%8F%91%E5%B1%95/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0/%E6%AF%8F%E6%97%A5%E7%AD%BE%E5%88%B0-DailyCheckin%E7%B3%BB%E7%BB%9F.md)
+14. [恢复身心能量](../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E7%94%9F%E7%89%A9%E5%AD%A6/%E8%83%BD%E9%87%8F%E6%81%A2%E5%A4%8D-EnergyRestoration%E6%80%BB%E8%A7%88.md)
 
 ---
 *返回 [学习路径索引](INDEX.md) | 返回根目录 [README.md](./INDEX.md)*

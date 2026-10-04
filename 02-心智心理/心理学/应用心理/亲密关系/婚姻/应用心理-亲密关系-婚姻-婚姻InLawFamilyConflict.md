@@ -13,7 +13,11 @@ intent_queries:
   - "姻亲关系与大家庭冲突的方法与实践"
 trigger_keywords: ["姻亲关系与大家庭冲突", "In-Law", "Extended", "Family", "Conflict"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 姻亲关系与大家庭冲突 (In-Law & Extended Family Conflict in Marriage)
 
 婚姻不仅仅是两个人的结合，更是两个家庭系统的碰撞与融合。姻亲冲突（in-law conflict）是全球范围内最常见的婚姻困扰来源之一，而在中国文化语境下，这一问题因深厚的孝道传统（filial piety）、家族主义（familism）和集体主义价值取向而被进一步放大。研究表明，约60%至75%的已婚夫妇在婚姻的某个阶段经历过显著的姻亲冲突，而在华人社会中，婆媳关系（mother-in-law/daughter-in-law relationship）更被视为家庭关系中最复杂、最具张力的动态之一（Fingerman, 2001; Ho, 1987）。姻亲冲突的核心在于忠诚分裂（loyalty split）——当个体被拉扯在原生家庭（family of origin）与核心家庭（nuclear family）之间时，婚姻的安全感和亲密感将面临严峻考验。理解姻亲冲突的心理机制、文化根源及干预路径，对于维护婚姻健康、促进家庭和谐具有不可替代的临床与实践价值。

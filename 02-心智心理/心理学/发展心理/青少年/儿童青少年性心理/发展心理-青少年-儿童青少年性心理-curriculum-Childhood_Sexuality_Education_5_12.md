@@ -13,10 +13,14 @@ intent_queries:
   - "儿童期性教育专业指南的方法与实践"
 trigger_keywords: ["儿童期性教育专业指南", "5-12岁", "Childhood", "Sexuality", "Education"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 儿童期性教育专业指南 (5-12岁) (Childhood Sexuality Education Professional Guide)
 
-> 🎯 **教育定位**: 针对5-12岁儿童的性教育专业内容体系，基于发展适宜性原则和权利导向理念，通过游戏化、生活化的教学方式，帮助儿童建立正确的身体认知、安全意识和价值观念。建议结合[儿童青少年发展](../child/发展心理-青少年-child-adolescent-Child_Adolescent_Development.md)了解认知发展特点，参考[综合性性教育](../../../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%AD%A6Education%E7%BB%BC%E5%90%88.md)获取完整框架。
+> 🎯 **教育定位**: 针对5-12岁儿童的性教育专业内容体系，基于发展适宜性原则和权利导向理念，通过游戏化、生活化的教学方式，帮助儿童建立正确的身体认知、安全意识和价值观念。建议结合[儿童青少年发展](../%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4/%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4-ChildAdolescent%E5%8F%91%E5%B1%95.md)了解认知发展特点，参考[综合性性教育](../../../../../03-%E7%94%9F%E5%91%BD%E7%A7%91%E5%AD%A6/%E6%80%A7%E5%AD%A6/%E6%80%A7%E5%AD%A6Education%E7%BB%BC%E5%90%88.md)获取完整框架。
 
 ## 📚 儿童期性发展特点与教育需求 (Childhood Sexual Development Characteristics and Educational Needs)
 

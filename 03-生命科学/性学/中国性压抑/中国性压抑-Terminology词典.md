@@ -24,7 +24,11 @@ cross_refs:
   relation: dictionary/术语
 - path: 02-心智心理/心理学/应用心理/亲密关系/恋爱/约会/应用心理-亲密关系-恋爱-约会-Dating_Terminology_Standards.md
   relation: 术语/concept/norms
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 中国社会性压抑专业术语词典 (Professional Terminology Dictionary for Sexual Repression in Chinese Society)
 
 > 📘 **文档导航**: 本词典提供中国社会性压抑研究领域的标准化术语定义。如需了解其他相关内容，请参考：

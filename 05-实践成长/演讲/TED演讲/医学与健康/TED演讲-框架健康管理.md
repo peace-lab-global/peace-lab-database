@@ -13,7 +13,11 @@ intent_queries:
   - "健康管理 | Health Management的方法与实践"
 trigger_keywords: ["健康管理", "cardiovascular"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 健康管理 | Health Management
 
 > **健康管理**（Health Management）是整合医疗资源、优化健康服务交付的系统化学科——从慢性病管理（Chronic Disease Management）到健康政策（Health Policy），从医疗质量改进（Quality Improvement）到患者体验优化（Patient Experience）。有效的健康管理是提升人群健康水平的关键。本文件精选TED平台上关于健康管理的代表性演讲，帮助读者理解现代健康管理的核心理念和实践创新。

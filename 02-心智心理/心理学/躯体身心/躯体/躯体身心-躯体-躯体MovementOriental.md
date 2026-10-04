@@ -25,7 +25,11 @@ cross_refs:
   relation: 太极/chi/tai
 - path: 01-智慧传统/太极拳/师资培训/师资培训-TaiChi教学Methodology.md
   relation: 太极/chi/tai
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Oriental Internal Movement (东方内家运动)
 
 ### Tai Chi & Internal Dynamics (太极拳与内劲疗法表)

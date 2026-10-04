@@ -23,7 +23,11 @@ cross_refs:
   relation: habit/习惯/stacking
 - path: 05-实践成长/个人发展/主题/习惯行为/主题-习惯行为-Personal_Development_Tiny_Habits.md
   relation: 习惯/bj/fogg
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想习惯养成与行为科学指南 | Meditation Habit Formation & Behavioral Science Guide
 
 > **领域**：冥想行为设计与持续实践系统（Meditation Behavioral Design & Sustainable Practice）
@@ -659,11 +663,11 @@ App通常被设计为最大化用户留存和付费转化，这可能与用户�
 
 - [冥想核心基础](基础-总览-Meditation_Core.md)
 - [冥想过程练习指导](基础-总览-Meditation_Practice_Techniques.md)
-- [冥想执行师Q&A](基础-总览-Meditation_Practitioner_QA.md)
+- [冥想执行师Q&A](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3PractitionerQA.md)
 - [冥想密集闭关指南](基础-总览-Meditation_Retreat_Guide.md)
 - [冥想评估量表与工具](../评估与工具/基础-总览-Meditation_Assessment_Tools.md)
-- [冥想日记模板](../评估与工具/基础-工具-Meditation_Journal_Template.md)
-- [冥想安全筛查](../评估与工具/基础-工具-Meditation_Safety_Screening.md)
+- [冥想日记模板](../%E8%AF%84%E4%BC%B0%E4%B8%8E%E5%B7%A5%E5%85%B7/%E5%9F%BA%E7%A1%80-%E5%B7%A5%E5%85%B7-%E5%86%A5%E6%83%B3%E6%97%A5%E5%BF%97%E6%A8%A1%E6%9D%BF.md)
+- [冥想安全筛查](../%E8%AF%84%E4%BC%B0%E4%B8%8E%E5%B7%A5%E5%85%B7/%E5%9F%BA%E7%A1%80-%E5%B7%A5%E5%85%B7-%E5%86%A5%E6%83%B3%E5%AE%89%E5%85%A8Screening.md)
 
 ---
 

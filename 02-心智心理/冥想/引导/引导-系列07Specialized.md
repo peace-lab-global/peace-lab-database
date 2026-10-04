@@ -23,7 +23,11 @@ cross_refs:
   relation: 冥想/瑜伽/nidra
 - path: 01-智慧传统/瑜伽/冥想与意识/冥想与意识-瑜伽尼德拉.md
   relation: nidra/瑜伽/睡眠
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 系列七：特殊应用系列 | Specialized Application Series
 
 > **级别**：Level 5（应用整合）

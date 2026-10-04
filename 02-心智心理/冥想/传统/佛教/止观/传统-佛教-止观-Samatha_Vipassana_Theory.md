@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md
   relation: 止观/samatha-vipassana/samatha-vipassan
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 止观禅修理论基础 (Samatha-Vipassana Theoretical Foundations)
 
 > **止观 (Samatha-Vipassanā)** 是佛教禅修的两大核心方法论，止（奢摩他）培养心的安定与专注，观（毗钵舍那）开发如实知见的智慧。二者相辅相成，共同构成解脱之道的核心修行体系。
@@ -441,8 +445,8 @@ cross_refs:
 | 相关主题 | 链接 | 说明 |
 |---|---|---|
 | 止观禅修详表 | [Buddhism_Samatha_Vipassana.md](../../../../../01-智慧传统/宗教/佛教/冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md) | 止观百科级详表 |
-| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-智慧传统/宗教/佛教/天台/佛教-天台-Buddhism_Tiantai_Zhiguan.md) | 天台止观完整体系 |
-| 内观禅修详解 | [Vipassana_Meditation.md](../内观/传统-佛教-内观-Vipassana_Meditation.md) | 内观传承与实践 |
+| 天台宗止观体系 | [Buddhism_Tiantai_Zhiguan.md](../../../../../01-%E6%99%BA%E6%85%A7%E4%BC%A0%E7%BB%9F/%E5%AE%97%E6%95%99/%E4%BD%9B%E6%95%99/%E5%A4%A9%E5%8F%B0/%E4%BD%9B%E6%95%99-%E5%A4%A9%E5%8F%B0-%E4%BD%9B%E6%95%99%E5%A4%A9%E5%8F%B0%E6%AD%A2%E8%A7%82.md) | 天台止观完整体系 |
+| 内观禅修详解 | [Vipassana_Meditation.md](../%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) | 内观传承与实践 |
 | 禅定体系专项 | [Dhyana_Samadhi_System.md](传统-佛教-止观-Dhyana_Samadhi_System.md) | 禅定跨传承体系 |
 | 历史发展 | [Samatha_Vipassana_History.md](传统-佛教-止观-Samatha_Vipassana_History.md) | 止观历史传承 |
 | 神经科学研究 | [Neuroscience_Research.md](传统-佛教-止观-Neuroscience_Research.md) | 止观神经科学深度研究 |

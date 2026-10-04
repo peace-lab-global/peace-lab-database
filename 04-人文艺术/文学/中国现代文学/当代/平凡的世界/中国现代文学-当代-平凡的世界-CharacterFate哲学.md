@@ -13,7 +13,11 @@ intent_queries:
   - "人物命运与人生哲学的方法与实践"
 trigger_keywords: ["人物命运与人生哲学", "leadership"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 人物命运与人生哲学 (Character Fate & Life Philosophy)
 
 > 孙少安、孙少平们的活法——在平凡的世界里，怎么活才算没白活？

@@ -23,7 +23,11 @@ cross_refs:
   relation: 睡前冥想/睡眠/放松
 - path: 02-心智心理/冥想/引导/引导-核心-Scripts身体Scan.md
   relation: 身体扫描/躯体觉察
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # MOCICI 晚间情绪释放冥想引导词 | Evening Emotional Release Script
 
 > **所属课程**：MOCICI 心境重建训练营

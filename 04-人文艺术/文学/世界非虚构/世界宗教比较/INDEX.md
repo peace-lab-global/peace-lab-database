@@ -15,7 +15,7 @@ auto_generated: true
 
 - [世界非虚构-世界宗教比较-21-lessons-for-the-21st-century.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E6%AF%94%E8%BE%83-%E6%95%99%E8%AE%ADforthe21st%E4%B8%96%E7%BA%AA.md)
 - [世界非虚构-世界宗教比较-a-history-of-god.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E6%AF%94%E8%BE%83-a%E5%8E%86%E5%8F%B2ofgod.md)
-- [世界非虚构-世界宗教比较-a-history-of-western-philosophy.md](世界非虚构-世界宗教比较-a-history-of-western-philosophy.md)
+- [世界非虚构-世界宗教比较-a-history-of-western-philosophy.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E6%AF%94%E8%BE%83-a%E5%8E%86%E5%8F%B2of%E8%A5%BF%E6%96%B9%E5%93%B2%E5%AD%A6.md)
 - [世界非虚构-世界宗教比较-a历史ofgod.md](世界非虚构-世界宗教比较-a历史ofgod.md)
 - [世界非虚构-世界宗教比较-a历史of西方哲学.md](世界非虚构-世界宗教比较-a历史of西方哲学.md)
 - [世界非虚构-世界宗教比较-homo-deus.md](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E4%B8%96%E7%95%8C%E5%AE%97%E6%95%99%E6%AF%94%E8%BE%83-%E7%A5%9E%E4%BA%BA.md)

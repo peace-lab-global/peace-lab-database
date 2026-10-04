@@ -27,7 +27,11 @@ cross_refs:
   relation: quality/certification/mechanism
 - path: 03-生命科学/生物学/性传播疾病/性传播疾病-STDQualityCertification报告.md
   relation: certification/quality/system
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 性教育评估与质量保障体系 (Sexuality Education Assessment and Quality Assurance System)
 
 > 📊 **体系定位**: 建立科学、全面、可持续的性教育评估与质量保障体系，基于循证实践和持续改进理念，涵盖课程质量、教学效果、师资水平、系统运行等多个维度。为性教育的规范化实施和持续优化提供专业支撑。建议结合[师资培训体系](发展心理-青少年-儿童青少年性心理-practice-Faculty_Training_Development_System.md)了解能力标准，参考[课程设计指南](发展心理-青少年-儿童青少年性心理-theory-Curriculum_Design_Implementation_Guide.md)掌握实施要求。

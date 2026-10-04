@@ -13,7 +13,11 @@ intent_queries:
   - "Eastern Philosophy: Indian Philosophical Schools的方法与实践"
 trigger_keywords: ["Eastern", "Philosophy:", "Indian", "Philosophical", "Schools"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Eastern Philosophy: Indian Philosophical Schools (印度哲学：数论、正理与古典学派)
 
 ### I. Samkhya: The Dualistic Cosmology (数论派：二元论宇宙观详表)

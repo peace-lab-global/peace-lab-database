@@ -81,7 +81,7 @@ last_updated: "2026-06"
 
 | 技能 | 文件 | 位置 |
 |:-----|:-----|:-----|
-| 焦虑评估（GAD-7） | [Anxiety_Assessment_Skill.md](02-心智心理/心理学/自我调节/抗焦虑/自我调节-抗焦虑-Anxiety_Assessment_Skill.md) | `心理学/自我调节/抗焦虑/技能/` |
+| 焦虑评估（GAD-7） | [Anxiety_Assessment_Skill.md](02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%BF%83%E7%90%86%E5%AD%A6/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82/%E6%8A%97%E7%84%A6%E8%99%91/%E8%87%AA%E6%88%91%E8%B0%83%E8%8A%82-%E6%8A%97%E7%84%A6%E8%99%91-%E7%84%A6%E8%99%91%E8%AF%84%E4%BC%B0Skill.md) | `心理学/自我调节/抗焦虑/技能/` |
 | 强迫症评估（Y-BOCS） | [OCD_Assessment_Skill.md](02-心智心理/心理学/自我调节/抗强迫/自我调节-抗强迫-OCD_Assessment_Skill.md) | `心理学/自我调节/抗强迫/技能/` |
 | 韧性脆弱自我评估 | [Fragile_Ego_Assessment_Skill.md](02-心智心理/心理学/自我调节/韧性脆弱自我/自我调节-韧性脆弱自我-Fragile_Ego_Assessment_Skill.md) | `心理学/自我调节/韧性脆弱自我/技能/` |
 | 拖延症评估 | [Procrastination_Assessment_Skill.md](02-心智心理/心理学/行为心理/抗拖延/行为心理-抗拖延-Procrastination_Assessment_Skill.md) | `心理学/行为心理/抗拖延/技能/` |

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 聚焦疗法 | 聚焦疗法
 
@@ -13,10 +16,10 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [创意表达-聚焦疗法-Focus_ADHD_Therapy.md](创意表达-聚焦疗法-Focus_ADHD_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Children_Therapy.md](创意表达-聚焦疗法-Focus_Children_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Meditation_Therapy.md](创意表达-聚焦疗法-Focus_Meditation_Therapy.md)
-- [创意表达-聚焦疗法-Focus_Workplace_Therapy.md](创意表达-聚焦疗法-Focus_Workplace_Therapy.md)
+- [创意表达-聚焦疗法-Focus_ADHD_Therapy.md](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E6%B3%A8%E6%84%8F%E7%BC%BA%E9%99%B7%E5%A4%9A%E5%8A%A8%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Children_Therapy.md](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8Children%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Meditation_Therapy.md](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E5%86%A5%E6%83%B3%E7%96%97%E6%B3%95.md)
+- [创意表达-聚焦疗法-Focus_Workplace_Therapy.md](%E5%88%9B%E6%84%8F%E8%A1%A8%E8%BE%BE-%E8%81%9A%E7%84%A6%E7%96%97%E6%B3%95-%E4%B8%93%E6%B3%A8%E8%81%8C%E5%9C%BA%E7%96%97%E6%B3%95.md)
 - [创意表达-聚焦疗法-专注Children疗法.md](创意表达-聚焦疗法-专注Children疗法.md)
 - [创意表达-聚焦疗法-专注冥想疗法.md](创意表达-聚焦疗法-专注冥想疗法.md)
 - [创意表达-聚焦疗法-专注注意缺陷多动疗法.md](创意表达-聚焦疗法-专注注意缺陷多动疗法.md)

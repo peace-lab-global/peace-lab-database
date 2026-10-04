@@ -8,7 +8,10 @@ cross_refs:
   - "02-心智心理/冥想/INDEX.md"
   - "06-临床专题/正念认知/INDEX.md"
   - "02-心智心理/疗法/整合疗法/正念认知疗法/INDEX.md"
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
 
 # 正念实践 | Mindfulness Practice
 

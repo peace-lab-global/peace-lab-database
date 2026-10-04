@@ -22,7 +22,11 @@ cross_refs:
   relation: 菩提/瑜伽/佛教
 - path: 01-智慧传统/宗教/佛教/仪轨/佛教-仪轨-Tibetan_Ngondro_Rituals.md
   relation: 上师/ngondro/观想
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 大圆满前行五加行实操指南
 
 > **最后更新**: 2026-05
@@ -423,6 +427,6 @@ graph LR
 ---
 
 **关联阅读**：
-- [藏传禅修总览](传统-佛教-藏传冥想-Tibetan_Meditation_Overview.md)
+- [藏传禅修总览](%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E8%97%8F%E4%BC%A0%E5%86%A5%E6%83%B3-Tibetan%E5%86%A5%E6%83%B3%E6%80%BB%E8%A7%88.md)
 - [藏传气脉明点与呼吸法详解](传统-佛教-藏传冥想-Tibetan_Tsa_Lung_Tigle.md)
 - [INDEX](INDEX.md)

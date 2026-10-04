@@ -27,7 +27,11 @@ cross_refs:
   relation: 强迫/icd-/障碍
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-Pornography_Addiction_Clinical_Applications.md
   relation: 成瘾/icd-/problematic
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Mental Health Assessment and Intervention for Masturbation-Related Issues (自慰相关心理健康评估与干预)
 
 > 基于临床心理学与性治疗研究，系统介绍自慰相关评估工具、诊断框架、干预方案及治疗性应用。内容遵循循证实践原则，强调功能性评估而非道德判断，旨在支持专业人员的临床决策。

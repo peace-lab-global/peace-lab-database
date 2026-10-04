@@ -16,7 +16,7 @@ cross_refs: []
 ---
 # 特殊群体性教育支持体系 (Special Populations Sexuality Education Support System)
 
-> 🌈 **支持定位**: 构建包容性、差异化的性教育支持体系，针对LGBTQ+群体、残障人士、流动留守儿童、遭受创伤群体等特殊需求人群，提供个性化、专业化的性教育服务。基于社会正义和人权理念，确保每个群体都能获得适切的性教育支持。建议结合[青少年性教育](发展心理-青少年-儿童青少年性心理-curriculum-Adolescent_Sexuality_Education_13_18.md)了解一般性内容，参考[质量评估体系](发展心理-青少年-儿童青少年性心理-assessment-Quality_Assessment_System.md)掌握服务标准。
+> 🌈 **支持定位**: 构建包容性、差异化的性教育支持体系，针对LGBTQ+群体、残障人士、流动留守儿童、遭受创伤群体等特殊需求人群，提供个性化、专业化的性教育服务。基于社会正义和人权理念，确保每个群体都能获得适切的性教育支持。建议结合[青少年性教育](%E5%8F%91%E5%B1%95%E5%BF%83%E7%90%86-%E9%9D%92%E5%B0%91%E5%B9%B4-%E5%84%BF%E7%AB%A5%E9%9D%92%E5%B0%91%E5%B9%B4%E6%80%A7%E5%BF%83%E7%90%86-%E8%AF%BE%E7%A8%8B-Adolescent%E6%80%A7%E5%AD%A6Education1318.md)了解一般性内容，参考[质量评估体系](发展心理-青少年-儿童青少年性心理-assessment-Quality_Assessment_System.md)掌握服务标准。
 
 ## 🎯 特殊群体分类与需求分析 (Special Populations Classification and Needs Analysis)
 

@@ -24,7 +24,11 @@ cross_refs:
   relation: oh/cards/疗法
 - path: 03-生命科学/生物学/推拿/推拿-推拿现代研究.md
   relation: 研究/循证研究/循证研究-based
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # OH卡疗法研究证据与循证实践 (OH Cards Therapy Research Evidence & Evidence-Based Practice)
 
 > **科学基础与实证支持**

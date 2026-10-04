@@ -14,7 +14,11 @@ intent_queries:
   - "职场语言霸凌与PUA：干预方案与心理康复指南的自助方法"
 trigger_keywords: ["职场语言霸凌与PUA：干预方案与心理康复指南", "Intervention", "Recovery", "Guide", "for"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 职场语言霸凌与PUA：干预方案与心理康复指南 (Intervention & Recovery Guide for Workplace Verbal Bullying & PUA)
 
 > **定位**：面向个人、组织与支持系统，提供从即时止损、组织干预到长期心理康复与职业重建的完整方案

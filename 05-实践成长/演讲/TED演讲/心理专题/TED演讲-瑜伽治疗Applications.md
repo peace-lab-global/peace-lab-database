@@ -10,7 +10,10 @@ estimated_read_time: 5min
 cross_refs:
 - path: 05-实践成长/演讲/TED演讲/TED演讲-TED健康Medicine.md
   relation: 健康医学演讲合集
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
 
 # TED演讲：瑜伽与身心治疗的临床应用 | Yoga Therapy Applications
 

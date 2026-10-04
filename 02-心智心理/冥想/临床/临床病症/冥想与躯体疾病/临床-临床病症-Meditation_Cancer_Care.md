@@ -733,7 +733,7 @@ Linda Carlson团队基于标准MBSR开发了专门的MBCR课程，主要修改�
 - **MBSR项目**: [MBSR Program Overview](../../正念减压课程/临床-正念减压课程-MBSR_Program_Overview.md) · [MBSR八周课程](../../正念减压课程/临床-正念减压课程-MBSR_Weekly_Curriculum.md)
 - **MBCT项目**: [MBCT概述](../INDEX.md)
 - **神经科学机制**: [冥想神经科学机制](../../../基础/总览与理论/基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- **临床应用总览**: [冥想临床应用详表](../../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md)
+- **临床应用总览**: [冥想临床应用详表](../../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)
 - **安全与不良反应**: [冥想不良反应](../../安全/临床-安全-Meditation_Adverse_Effects.md) · [创伤知情冥想](../../安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - **心理神经免疫学**: [PNI免疫调节](../../../../../03-生命科学/生物学/免疫炎症/免疫炎症-心理神经免疫学.md)
 - **疼痛管理**: [慢性疼痛正念管理](临床-临床病症-Meditation_Chronic_Pain.md)

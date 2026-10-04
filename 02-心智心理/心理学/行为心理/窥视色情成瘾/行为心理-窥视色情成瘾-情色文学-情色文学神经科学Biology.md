@@ -13,7 +13,11 @@ intent_queries:
   - "色情文学成瘾神经科学与生物学机制的方法与实践"
 trigger_keywords: ["色情文学成瘾神经科学与生物学机制", "Erotic", "Literature", "Addiction", "Neuroscientific"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾神经科学与生物学机制 (Erotic Literature Addiction Neuroscientific and Biological Mechanisms)
 
 > 🧠 **神经机制研究**: 本文档深入分析色情文学成瘾的神经生物学基础和生理机制。建议结合[形成机制](行为心理-窥视色情成瘾-情色文学-情色文学FormationMechanisms.md)了解心理机制，参考[临床评估](行为心理-窥视色情成瘾-情色文学-情色文学临床评估.md)掌握诊断应用。

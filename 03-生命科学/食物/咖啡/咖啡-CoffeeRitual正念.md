@@ -22,7 +22,11 @@ cross_refs:
   relation: mindful/正念/daily
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/练习课/感知当下.md
   relation: 锚定/正念/觉察
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Coffee Ritual & Mindfulness Practice (咖啡仪式与正念实践)
 
 ## 咖啡仪式核心术语表 (Coffee Ritual Core Terminology)

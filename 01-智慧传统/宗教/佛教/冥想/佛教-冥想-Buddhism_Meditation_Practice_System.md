@@ -13,7 +13,11 @@ intent_queries:
   - "佛教禅修实践体系详论的方法与实践"
 trigger_keywords: ["佛教禅修实践体系详论", "Buddhist", "Meditation", "Practice", "System"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 佛教禅修实践体系详论 (Buddhist Meditation Practice System)
 
 > **佛教禅修 (Buddhist Meditation Practice)**：通过系统化的修行方法，培养心的安定与智慧，最终达到解脱和觉悟的目标。涵盖止禅、观禅、生活禅等多种修习方式。

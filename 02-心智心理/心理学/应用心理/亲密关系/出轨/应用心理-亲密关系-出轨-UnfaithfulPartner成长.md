@@ -22,7 +22,11 @@ cross_refs:
   relation: 羞耻/沟通
 - path: 04-人文艺术/文学/中国现代文学/当代/fortress/中国现代文学-当代-fortress-besieged-Siege_Mentality.md
   relation: 婚姻/vs
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 出轨者的自我觉察与改变
 
 > 出轨者的心理转变路径、责任承担与成长指南

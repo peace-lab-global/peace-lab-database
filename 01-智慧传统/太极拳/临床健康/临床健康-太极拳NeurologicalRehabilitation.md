@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/临床/临床病症/临床-临床病症-Meditation_Neurological_Disorders.md
   relation: ms/neurological/mci
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 神经康复 | Neurological Rehabilitation
 
 > 太极的缓慢、有意识的全身运动特性，使其成为多种神经系统疾病患者的理想康复运动。

@@ -13,7 +13,11 @@ intent_queries:
   - "尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）的方法与实践"
 trigger_keywords: ["尼萨伽达塔", "exercise", "meditation"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 尼萨伽达塔·马哈拉吉（Nisargadatta Maharaj / निसर्गदत्त महाराज）
 
 > "我是那"——孟买街头的不二论大师

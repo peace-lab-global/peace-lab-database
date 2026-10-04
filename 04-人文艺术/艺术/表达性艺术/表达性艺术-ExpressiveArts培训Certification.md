@@ -26,7 +26,11 @@ cross_refs:
   relation: oh/certification/cards
 - path: 03-生命科学/生物学/推拿/推拿-推拿培训Certification.md
   relation: certification/training/level
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 表达性艺术治疗培训认证体系 (Expressive Arts Therapy Training & Certification System)
 
 > **专业化人才培养与发展路径**

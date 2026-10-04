@@ -22,7 +22,11 @@ cross_refs:
   relation: 死亡/佛教/藏传
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/佛教
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《密续入门》Introduction to Tantra
 
 >  喇嘛图登耶喜（Lama Thubten Yeshe）著，1987年出版。藏传佛教格鲁派和宁玛派大师，以向西方学生传授密宗而闻名。这本书是西方语言中关于藏传佛教密宗最清晰、最 accessible 的入门之一。

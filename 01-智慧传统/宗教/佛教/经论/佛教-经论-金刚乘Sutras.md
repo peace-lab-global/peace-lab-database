@@ -13,7 +13,11 @@ intent_queries:
   - "密宗重要经典（Vajrayana Sutras）的方法与实践"
 trigger_keywords: ["dzogchen", "密宗重要经典", "Vajrayana", "Sutras"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 密宗重要经典（Vajrayana Sutras）
 
 本文档介绍密宗（金刚乘）的重要经典，包括密续经典、仪轨经典、陀罗尼及藏传佛教核心经典。

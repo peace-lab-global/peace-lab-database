@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 孤独 | 孤独
 
@@ -23,7 +26,7 @@ auto_generated: true
 
 - [社会心理-孤独-Loneliness_Adolescent.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACAdolescent.md)
 - [社会心理-孤独-Loneliness_Biology_Integration.md](社会心理-孤独-Loneliness_Biology_Integration.md)
-- [社会心理-孤独-Loneliness_Clinical_Manual.md](社会心理-孤独-Loneliness_Clinical_Manual.md)
+- [社会心理-孤独-Loneliness_Clinical_Manual.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E6%89%8B%E5%86%8C.md)
 - [社会心理-孤独-Loneliness_Cognitive_Mechanisms.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E8%AE%A4%E7%9F%A5Mechanisms.md)
 - [社会心理-孤独-Loneliness_Community_Psychology.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACCommunity%E5%BF%83%E7%90%86%E5%AD%A6.md)
 - [社会心理-孤独-Loneliness_Cross_Cultural.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E8%B7%A8%E6%96%87%E5%8C%96.md)
@@ -33,7 +36,7 @@ auto_generated: true
 - [社会心理-孤独-Loneliness_Evolutionary_Psychology.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACEvolutionary%E5%BF%83%E7%90%86%E5%AD%A6.md)
 - [社会心理-孤独-Loneliness_Existential.md](社会心理-孤独-Loneliness_Existential.md)
 - [社会心理-孤独-Loneliness_Gender_Psychology.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%A7%E5%88%AB%E5%BF%83%E7%90%86%E5%AD%A6.md)
-- [社会心理-孤独-Loneliness_Gut_Brain_Axis.md](社会心理-孤独-Loneliness_Gut_Brain_Axis.md)
+- [社会心理-孤独-Loneliness_Gut_Brain_Axis.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E8%82%A0%E9%81%93BrainAxis.md)
 - [社会心理-孤独-Loneliness_Healthcare_Workers.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACHealthcareWorkers.md)
 - [社会心理-孤独-Loneliness_History_of_Psychology.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACHistoryof%E5%BF%83%E7%90%86%E5%AD%A6.md)
 - [社会心理-孤独-Loneliness_LGBTQ.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACLGBTQ.md)
@@ -43,7 +46,7 @@ auto_generated: true
 - [社会心理-孤独-Loneliness_Neuroimaging.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACNeuroimaging.md)
 - [社会心理-孤独-Loneliness_Overview.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md)
 - [社会心理-孤独-Loneliness_Patient_Guide.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPatient%E6%8C%87%E5%8D%97.md)
-- [社会心理-孤独-Loneliness_Personality_Attachment.md](社会心理-孤独-Loneliness_Personality_Attachment.md)
+- [社会心理-孤独-Loneliness_Personality_Attachment.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPersonalityAttachment.md)
 - [社会心理-孤独-Loneliness_Positive_Psychology.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%ACPositive%E5%BF%83%E7%90%86%E5%AD%A6.md)
 - [社会心理-孤独-Loneliness_Prevention_Evaluation.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E9%A2%84%E9%98%B2Evaluation.md)
 - [社会心理-孤独-Loneliness_Psychology_Overview.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E5%BF%83%E7%90%86%E5%AD%A6%E6%80%BB%E8%A7%88.md)

@@ -13,7 +13,11 @@ intent_queries:
   - "艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας的方法与实践"
 trigger_keywords: ["艾灸临床案例集", "Moxibustion", "Clinical", "Case", "Collection"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 艾灸临床案例集 | Moxibustion Clinical Case Collection | Συλλογή Κλινικών Περιστατικών Μόξας
 
 > **艾灸临床案例集**收录艾灸疗法在各类疾病治疗中的典型临床案例，涵盖内科、外科、妇科、儿科等各科疾病的治疗经验，通过详实的病例记录、治疗过程和疗效观察，为临床医师提供实用的参考借鉴和学习资料。

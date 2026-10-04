@@ -23,7 +23,11 @@ cross_refs:
   relation: attraction/education/assessment
 - path: 05-实践成长/个人发展/职业吸引力/教育/职业吸引力-教育-Education_Attraction_Clinical_Assessment.md
   relation: attraction/education/assessment
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Lolita Complex & Age-Related Attraction (恋萝莉情结与年龄相关性吸引)
 
 > ⚠️ **重要伦理声明**: 本文档严格遵守法律法规，仅讨论合法的成人审美偏好和心理现象。任何涉及未成年人的实际行为都是严重违法的，必须坚决反对和杜绝。

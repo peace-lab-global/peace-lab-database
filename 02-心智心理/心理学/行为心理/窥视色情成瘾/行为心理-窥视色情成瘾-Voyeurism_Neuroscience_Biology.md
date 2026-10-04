@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/性偏好障碍/性偏好障碍-Paraphilia神经科学Biology.md
   relation: neural/network/neuroanatomical
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 窥淫癖神经科学与生物学基础 (Voyeurism Neuroscience and Biology Foundation)
 
 > 🔬 **神经科学前沿**: 本文档深入探讨窥淫癖的神经生物学机制、遗传基础和生理特征。建议结合[窥淫癖临床评估](行为心理-窥视色情成瘾-Voyeurism_Clinical_Assessment.md)了解诊断应用，参考[色情成瘾神经科学](%E8%A1%8C%E4%B8%BA%E5%BF%83%E7%90%86-%E7%AA%A5%E8%A7%86%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE-%E8%89%B2%E6%83%85%E6%88%90%E7%98%BE%E7%A5%9E%E7%BB%8F%E7%A7%91%E5%AD%A6.md)了解相关成瘾机制。

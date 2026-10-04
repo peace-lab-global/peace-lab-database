@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-Voyeurism_Neuroscience_Biology.md
   relation: neural/network/neuroanatomical
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Paraphilic Disorders: Neuroscience & Biological Mechanisms (恋物癖神经科学与生物学机制)
 
 > 📘 **文档导航**: 本专题文档深入探讨恋物癖的神经生物学基础。相关主题请参考：

@@ -23,7 +23,11 @@ cross_refs:
   relation: 心流/心流/state
 - path: 02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-Somatic_Movement_Performance.md
   relation: 心流/心流/state
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 心流核心理论 (Flow State: Core Theory)
 
 ## 目录 (Table of Contents)

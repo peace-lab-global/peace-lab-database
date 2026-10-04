@@ -13,7 +13,11 @@ intent_queries:
   - "汉传佛教盂兰盆会仪轨的方法与实践"
 trigger_keywords: ["汉传佛教盂兰盆会仪轨", "Chinese", "Ullambana", "Ghost", "Festival"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 汉传佛教盂兰盆会仪轨 (Chinese Ullambana / Ghost Festival Ritual)
 
 > **盂兰盆会 (Ullambana / Yulanpen Hui)**：汉传佛教最重要的孝道与超度法会，源于《佛说盂兰盆经》目犍连救母的故事。每年农历七月十五举行，以供养僧众的功德回向现世父母、超度七世父母。

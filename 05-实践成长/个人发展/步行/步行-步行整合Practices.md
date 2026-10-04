@@ -13,7 +13,11 @@ intent_queries:
   - "步行整合应用实践的方法与实践"
 trigger_keywords: ["步行整合应用实践", "Walking", "Integration", "Practices"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 步行整合应用实践 (Walking Integration Practices)
 
 > 步行的价值不仅在于运动本身，更在于它与正念、社交、情绪调节、创造力等实践的无缝整合。本文档聚焦步行与其他干预方式的结合应用，涵盖改善孤独感的五大实践方案与优化独处质量的五大实践方案。

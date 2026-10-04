@@ -13,7 +13,11 @@ intent_queries:
   - "色情内容类型与成瘾风险分析的方法与实践"
 trigger_keywords: ["色情内容类型与成瘾风险分析", "Pornography", "Content", "Types", "and"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情内容类型与成瘾风险分析 (Pornography Content Types and Addiction Risk Analysis)
 
 > 🎯 **内容分析**: 本文档系统分析不同类型色情内容的特点、成瘾风险和影响机制。建议结合[色情成瘾临床应用](行为心理-窥视色情成瘾-色情成瘾临床Applications.md)了解治疗策略，参考[研究方法](行为心理-窥视色情成瘾-色情成瘾研究Methods.md)掌握评估工具。

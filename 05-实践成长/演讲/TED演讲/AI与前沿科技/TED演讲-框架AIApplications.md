@@ -13,7 +13,11 @@ intent_queries:
   - "AI应用 | AI Applications的方法与实践"
 trigger_keywords: ["AI应用", "decision-making", "music"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # AI应用 | AI Applications
 
 > **人工智能应用**（AI Applications）关注AI技术在各行各业的实际落地——从医疗健康（Healthcare）到金融服务（Finance），从智能制造（Smart Manufacturing）到创意产业（Creative Industries）。AI不再只是研究课题，而是正在深刻改变每个行业的运作方式。本文件精选TED平台上关于AI应用的代表性演讲，帮助读者理解AI在现实世界中的变革力量。

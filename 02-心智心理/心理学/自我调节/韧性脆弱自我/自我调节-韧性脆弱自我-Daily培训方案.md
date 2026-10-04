@@ -20,7 +20,11 @@ cross_refs:
   relation: 习惯/觉察/专注
 - path: 04-人文艺术/媒体/音乐/古典音乐/liszt/音乐-古典音乐-liszt-symphonic-poems-LesPreludes-Liszt_Symphonic_Poem_Les_Preludes_Therapeutic_Application.md
   relation: 觉察/呼吸/专注
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 日常训练方案
 
 ## 目录

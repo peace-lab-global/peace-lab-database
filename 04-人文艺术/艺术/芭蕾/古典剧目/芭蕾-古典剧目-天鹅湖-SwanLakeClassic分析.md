@@ -13,7 +13,11 @@ intent_queries:
   - "《天鹅湖》经典剧目分析的方法与实践"
 trigger_keywords: ["《天鹅湖》经典剧目分析", "Swan", "Lake", "Classic", "Analysis"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《天鹅湖》经典剧目分析 (Swan Lake Classic Analysis)
 
 > **《天鹅湖》(Swan Lake, Op.20)**

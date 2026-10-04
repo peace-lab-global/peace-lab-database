@@ -13,7 +13,11 @@ intent_queries:
   - "《告别之前》Before I Go的方法与实践"
 trigger_keywords: ["writing", "《告别之前》Before", "Go"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《告别之前》Before I Go
 
 > 简妮·布朗（Janie Brown）著，2018年出版。安宁疗护护士三十年的 bedside 手记，记录了她与数百位临终者的对话。不是理论，而是一个个具体的"如何说再见"的场景。

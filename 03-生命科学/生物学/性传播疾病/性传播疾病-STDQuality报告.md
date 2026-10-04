@@ -24,7 +24,11 @@ cross_refs:
   relation: completeness/质量/report
 - path: 02-心智心理/心理学/应用心理/职业心理学/应用心理-职业心理学-Vocational_Psychology_Quality_Report.md
   relation: 质量/completeness/评估
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # STD Content Quality Report (性传播疾病内容质量报告)
 
 > 📊 **质量评估报告**: 本报告对性传播疾病专业内容体系进行全面质量评估，包括完整性、准确性、实用性和用户体验等方面。

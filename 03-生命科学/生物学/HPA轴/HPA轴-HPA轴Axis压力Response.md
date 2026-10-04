@@ -23,7 +23,11 @@ cross_refs:
   relation: stress/应激/chronic
 - path: 02-心智心理/心理学/压力与HPA轴/技能/压力与HPA轴-技能-HPA_Axis_Regulation_Skill.md
   relation: hpa/应激/肾上腺
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # HPA轴与应激反应 (HPA Axis & Stress Response)
 
 > **从急性适应到慢性失调** (From Acute Adaptation to Chronic Dysregulation)

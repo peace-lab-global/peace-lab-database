@@ -13,7 +13,11 @@ intent_queries:
   - "免疫学 | Immunology的方法与实践"
 trigger_keywords: ["免疫学", "Immunology", "exercise", "gut", "immune", "neuroscience"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 免疫学 | Immunology
 
 > **免疫学**（Immunology）研究人体抵御疾病的精密防御系统——从先天免疫（Innate Immunity）到适应性免疫（Adaptive Immunity），从抗体（Antibodies）到T细胞（T Cells），从疫苗（Vaccines）到免疫疗法（Immunotherapy）。免疫系统是人体最复杂的系统之一，理解它是理解健康与疾病的关键。本文件精选TED平台上关于免疫学的代表性演讲，帮助读者深入理解免疫系统的奥秘和前沿突破。

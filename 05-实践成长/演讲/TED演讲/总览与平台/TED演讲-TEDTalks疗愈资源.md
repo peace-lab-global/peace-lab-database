@@ -13,7 +13,11 @@ intent_queries:
   - "TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate的方法与实践"
 trigger_keywords: ["TED演讲：身心疗愈资源库", "TED", "Talks:", "Mind-Body", "Healing"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # TED演讲：身心疗愈资源库 | TED Talks: Mind-Body Healing Resources | Colloquia TED de Sanitate
 
 > **TED演讲**（Technology, Entertainment, Design）是全球最具影响力的思想传播平台之一。本文档系统整合身心疗愈领域的优质TED演讲资源，涵盖心理学、冥想、正念、神经科学、创伤疗愈、情绪管理、人际关系、灵性成长等主题，为学习者提供可视化、故事化的疗愈知识入口。每个演讲均包含核心观点、实践方法及与本项目知识体系的对应关系。

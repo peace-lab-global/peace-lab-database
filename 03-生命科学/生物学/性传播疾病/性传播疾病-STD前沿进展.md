@@ -13,7 +13,11 @@ intent_queries:
   - "Sexually Transmitted Diseases Frontier Advances的方法与实践"
 trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Frontier", "Advances"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Sexually Transmitted Diseases Frontier Advances (性传播疾病前沿进展)
 
 > 🔬 **前沿指南**: 本文档整合2024年最新WHO/CDC指南更新、前沿技术和研究进展，为性传播疾病的诊疗和防控提供最新循证指导。

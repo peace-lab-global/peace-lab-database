@@ -27,7 +27,11 @@ cross_refs:
   relation: 芭蕾/芭蕾/舞蹈
 - path: 04-人文艺术/媒体/音乐/古典音乐/柴可夫斯基芭蕾/音乐-古典音乐-柴可夫斯基芭蕾-睡美人-Tchaikovsky芭蕾SleepingBeautyChoreography.md
   relation: 芭蕾/舞蹈
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Ballet Professional Attraction Psychology (芭蕾舞职业吸引心理学)
 
 > 📘 **文档导航**: 本专题深入探讨芭蕾舞职业吸引的心理机制、艺术特质和临床意义。相关文档：

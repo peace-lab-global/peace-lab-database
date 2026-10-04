@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/食物/咖啡/咖啡-Coffee心理健康Applications.md
   relation: 咖啡/caffeine/use
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 咖啡因成瘾预防与早期干预 (Caffeine Addiction Prevention & Early Intervention)
 
 ## 1. 预防框架与理论基础 (Prevention Framework & Theoretical Foundation)

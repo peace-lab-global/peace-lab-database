@@ -14,7 +14,11 @@ intent_queries:
   - "厌男情绪心理学分析的自助方法"
 trigger_keywords: ["厌男情绪心理学分析", "Misandry", "Psychology:", "Causes", "Manifestations"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 厌男情绪心理学分析 (Misandry Psychology: Causes, Manifestations & Psychological Adjustment)
 
 ## 核心术语与概念界定 (Core Terminology & Conceptual Framework)
@@ -200,8 +204,8 @@ cross_refs: []
 |:---|:---|:---|
 | 媚男现象心理学 | [Gender_Male_Pandering_Psychology](社会心理-关系社会语境-性别动态-Gender_Male_Pandering_Psychology.md) | 厌男与媚男作为性别态度光谱的两端 |
 | 厌女情结心理学 | [Gender_Misogyny_Psychology](社会心理-关系社会语境-性别动态-Gender_Misogyny_Psychology.md) | 厌男与厌女的对称分析——社会结构与个体心理的交互 |
-| 创伤治疗概述 | [Trauma_Treatment_Overview](../../临床/创伤/临床-创伤-Trauma_Treatment_Overview.md) | 创伤反应型厌男的治疗路径 |
-| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../临床/创伤/临床-创伤-PTSD_Specialized_Treatment.md) | 性别创伤导致的PTSD专业治疗方案 |
+| 创伤治疗概述 | [Trauma_Treatment_Overview](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E6%B2%BB%E7%96%97%E6%80%BB%E8%A7%88.md) | 创伤反应型厌男的治疗路径 |
+| PTSD专业治疗 | [PTSD_Specialized_Treatment](../../%E4%B8%B4%E5%BA%8A/%E5%88%9B%E4%BC%A4/%E4%B8%B4%E5%BA%8A-%E5%88%9B%E4%BC%A4-%E5%88%9B%E4%BC%A4%E5%90%8E%E5%BA%94%E6%BF%80Specialized%E6%B2%BB%E7%96%97.md) | 性别创伤导致的PTSD专业治疗方案 |
 | EMDR疗法 | [EMDR_Overview](../../../%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95/%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95/%E6%95%B4%E5%90%88%E7%96%97%E6%B3%95-%E7%9C%BC%E5%8A%A8%E8%84%B1%E6%95%8F%E7%96%97%E6%B3%95-EMDR%E7%9C%BC%E9%83%A8MovementDesensitization%E6%80%BB%E8%A7%88.md) | 创伤脱敏与认知重加工在厌男情绪中的应用 |
 | 情绪聚焦疗法 | [Emotion_Focused_Therapy](../../躯体身心/情绪/躯体身心-情绪-情绪Focused疗法.md) | 愤怒背后的核心情绪加工 |
 | DBT辩证行为疗法 | [DBT_Overview](../../../%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA/%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95/%E8%AE%A4%E7%9F%A5%E8%A1%8C%E4%B8%BA-%E8%BE%A9%E8%AF%81%E8%A1%8C%E4%B8%BA%E7%96%97%E6%B3%95-DBTDialecticalBehavior%E7%96%97%E6%B3%95%E6%80%BB%E8%A7%88.md) | 情绪调节与人际效能技能 |

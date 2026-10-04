@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_Biology_Integration.md
   relation: hpa/炎症/免疫
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Occupational Burnout: Neurobiological Mechanisms (职场倦怠：神经生物学机制)
 
 > **从大脑到身体的倦怠印记 (Neurobiological Footprint of Burnout)**

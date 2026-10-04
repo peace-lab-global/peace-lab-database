@@ -13,7 +13,11 @@ intent_queries:
   - "演化未来 | Evolutionary Futures的方法与实践"
 trigger_keywords: ["演化未来", "stress"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 演化未来 | Evolutionary Futures
 
 > **演化未来**（Evolutionary Futures）探讨生命演化的过去轨迹和未来可能——从自然选择（Natural Selection）到定向演化（Directed Evolution），从人类演化（Human Evolution）到合成生命（Synthetic Life）。演化不仅是回顾过去的理论，更是展望未来的框架。本文件精选TED平台上关于演化未来的代表性演讲，帮助读者理解生命演化的深层逻辑和人类在塑造演化方向中的角色。

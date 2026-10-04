@@ -22,7 +22,11 @@ cross_refs:
   relation: singer/peter/altruism
 - path: 01-智慧传统/哲学/西方哲学/当代/西方哲学-当代-applied-ethics-Multi_Perspective_Reviews.md
   relation: singer/peter/伦理
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 生物伦理与哲学 | Ethics & Philosophy
 
 > **生物伦理与哲学**（Bioethics & Philosophy）探讨生命科学和医学实践中的道德困境与价值抉择。TED平台上关于伦理与哲学的演讲深入探讨了生命权、死亡权、基因编辑伦理、人工智能道德等根本问题，在技术飞速发展的时代引导我们重新思考"什么是正确的事"。

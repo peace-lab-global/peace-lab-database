@@ -24,7 +24,11 @@ cross_refs:
   relation: women/health
 - path: 03-生命科学/生物学/女性健康/INDEX.md
   relation: women/health/pregnancy
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 孕产与女性健康 | Tai Chi, Pregnancy & Women's Health
 
 > 太极拳对女性生命各阶段都有独特的健康价值，但需根据生理特点做适当调整。

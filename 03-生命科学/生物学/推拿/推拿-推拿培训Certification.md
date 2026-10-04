@@ -23,7 +23,11 @@ cross_refs:
   relation: certification/training/level
 - path: 02-心智心理/心理学/发展心理/青少年/儿童青少年性心理/发展心理-青少年-儿童青少年性心理-practice-Faculty_Training_Development_System.md
   relation: training/certification/system
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 中医推拿技术培训与认证体系 (Tuina Massage Training & Certification System)
 
 > 🎓 **专业人才培养**: 本文档构建系统化的中医推拿人才培养体系，涵盖从基础教育到高级研修的完整培训路径，建立科学的资质认证标准，确保推拿从业人员具备扎实的理论基础和精湛的实践技能。

@@ -14,7 +14,11 @@ intent_queries:
   - "积极心理学的自助方法"
 trigger_keywords: ["积极心理学", "Positive", "Psychology"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 积极心理学 (Positive Psychology)
 ## 核心概念 (Core Concepts)
 | 概念 | 英文 | 定义 | 理论基础 | 实践应用 |

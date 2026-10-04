@@ -24,7 +24,11 @@ cross_refs:
   relation: 注意缺陷多动/专注/认知行为
 - path: 02-心智心理/疗法/创意表达/聚焦疗法/INDEX.md
   relation: 专注/注意缺陷多动/contents
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 专注力临床应用与治疗 (Focus: Clinical Applications & Treatment)
 
 ## 目录 (Table of Contents)

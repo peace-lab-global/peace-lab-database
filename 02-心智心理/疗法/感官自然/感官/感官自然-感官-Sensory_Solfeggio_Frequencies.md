@@ -13,7 +13,11 @@ intent_queries:
   - "Solfeggio Frequencies的方法与实践"
 trigger_keywords: ["Solfeggio", "Frequencies", "索尔菲吉奥频率体系：完整九频理论与临床应用"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Solfeggio Frequencies (索尔菲吉奥频率体系：完整九频理论与临床应用)
 
 ### Solfeggio Historical Origins & Mathematical Foundation (索尔菲吉奥历史起源与数论基础表)

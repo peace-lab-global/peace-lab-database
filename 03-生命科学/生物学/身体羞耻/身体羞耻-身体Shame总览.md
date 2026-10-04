@@ -14,7 +14,11 @@ cross_refs:
 relation: 羞耻/shame/障碍
 description: 身体羞耻(Body Shame)是一种复杂的心理现象，涉及个体对自己身体形态、功能或特征的负面评价和情感体验。这种羞耻感往往伴随着强烈的自我贬低、社交回避和行为退缩。
 last_updated: 2026-06
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Body Shame Disorder Overview (身体羞耻障碍概览)
 
 > **身体羞耻障碍 (Body Shame Disorder)**

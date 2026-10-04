@@ -14,7 +14,11 @@ intent_queries:
   - "课题分离：临床应用与治疗技术的循证证据"
 trigger_keywords: ["课题分离：临床应用与治疗技术", "Separation", "of", "Tasks:", "Clinical"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 课题分离：临床应用与治疗技术 (Separation of Tasks: Clinical Application & Therapeutic Techniques)
 
 > **定位说明**：本文档面向专业心理咨询师，系统呈现课题分离在心理咨询与治疗中的操作化方法、治疗技术、会谈结构和针对不同心理问题的干预协议。

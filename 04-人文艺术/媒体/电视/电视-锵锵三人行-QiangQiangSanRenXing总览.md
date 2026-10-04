@@ -19,7 +19,11 @@ trigger_keywords:
 - Ren
 - Xing
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 锵锵三人行专业内容体系 (Qiang Qiang San Ren Xing Professional Content System)
 
 > **学科定位**：媒体谈话学 × 文化评论学 × 精英对话研究

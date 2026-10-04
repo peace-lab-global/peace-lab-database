@@ -13,7 +13,11 @@ intent_queries:
   - "Sexually Transmitted Diseases Prevention Strategies的方法与实践"
 trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Prevention", "Strategies"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Sexually Transmitted Diseases Prevention Strategies (性传播疾病预防策略)
 
 > 🛡️ **预防指南**: 本文档系统阐述性传播疾病的一级预防、二级预防策略，以及健康教育和行为干预方法。建议结合[临床诊疗](性传播疾病-STD临床Features.md)文档进行综合学习。

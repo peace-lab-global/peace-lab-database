@@ -20,7 +20,11 @@ cross_refs:
   relation: minimalism/cleaning/konmari
 - path: 03-生命科学/死亡/教育实践/教育实践-死亡Preparation生活.md
   relation: minimalism/swedish/cleaning
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 极简主义概述 | Minimalism Overview
 
 > 极简主义（Minimalism）是一种以"少即是多"（Less is More）为核心哲学的生活方式和思维方式。极简主义不仅关乎物质层面的精简，更涉及心理层面的觉醒——通过对不必要的物品、关系、信息和承诺的审视与舍弃，为真正重要的事物腾出空间。本概述系统梳理极简主义的哲学基础、实践方法和心理益处。

@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/自慰心理学/自慰心理学-Masturbation神经科学生理学.md
   relation: masturbation/sexual/key
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Masturbation and Sexual-Psychological Health (自慰与性心理健康的关系)
 
 > 基于积极性健康框架与循证研究，系统分析自慰行为与整体性心理健康的关系。内容涵盖健康益处的科学证据、性功能关联、心理健康指标相关性、健康误区澄清及积极性健康框架中的自慰定位。

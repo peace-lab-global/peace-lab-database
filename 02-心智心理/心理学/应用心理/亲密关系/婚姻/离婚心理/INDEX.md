@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 离婚心理 | 离婚心理
 
@@ -20,7 +23,7 @@ auto_generated: true
 - [应用心理-亲密关系-婚姻-离婚心理-Divorce_Impact_Children_Development.md](应用心理-亲密关系-婚姻-离婚心理-Divorce_Impact_Children_Development.md)
 - [应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Assessment_Tools.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E8%AF%84%E4%BC%B0%E5%B7%A5%E5%85%B7.md)
 - [应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Clinical_Intervention.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E4%B8%B4%E5%BA%8A%E5%B9%B2%E9%A2%84.md)
-- [应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Overview.md](应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Overview.md)
+- [应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Overview.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E6%80%BB%E8%A7%88.md)
 - [应用心理-亲密关系-婚姻-离婚心理-Divorce_Psychology_Prevention_Support.md](%E5%BA%94%E7%94%A8%E5%BF%83%E7%90%86-%E4%BA%B2%E5%AF%86%E5%85%B3%E7%B3%BB-%E5%A9%9A%E5%A7%BB-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86-%E7%A6%BB%E5%A9%9A%E5%BF%83%E7%90%86%E5%AD%A6%E9%A2%84%E9%98%B2Support.md)
 - [应用心理-亲密关系-婚姻-离婚心理-离婚ChildrenSupport干预.md](应用心理-亲密关系-婚姻-离婚心理-离婚ChildrenSupport干预.md)
 - [应用心理-亲密关系-婚姻-离婚心理-离婚Coparenting沟通.md](应用心理-亲密关系-婚姻-离婚心理-离婚Coparenting沟通.md)

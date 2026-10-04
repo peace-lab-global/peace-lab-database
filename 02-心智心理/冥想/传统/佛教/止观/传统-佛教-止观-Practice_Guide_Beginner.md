@@ -313,7 +313,7 @@ cross_refs: []
 | 进阶实践指南 | [Practice_Guide_Intermediate.md](传统-佛教-止观-Practice_Guide_Intermediate.md) | 中级修行者指南 |
 | 高阶实践指南 | [Practice_Guide_Advanced.md](传统-佛教-止观-Practice_Guide_Advanced.md) | 高级修行者指南 |
 | 止观理论基础 | [Samatha_Vipassana_Theory.md](传统-佛教-止观-Samatha_Vipassana_Theory.md) | 深入理论学习 |
-| 内观禅修详解 | [Vipassana_Meditation.md](../内观/传统-佛教-内观-Vipassana_Meditation.md) | 内观传统详解 |
+| 内观禅修详解 | [Vipassana_Meditation.md](../%E5%86%85%E8%A7%82/%E4%BC%A0%E7%BB%9F-%E4%BD%9B%E6%95%99-%E5%86%85%E8%A7%82-%E8%A7%82%E5%86%A5%E6%83%B3.md) | 内观传统详解 |
 | 禅修安全 | [safety/INDEX.md](INDEX.md) | 安全与不良反应 |
 | 引导词脚本 | [guided-scripts/INDEX.md](INDEX.md) | 呼吸、身扫引导词 |
 | 冥想核心基础 | [Meditation_Core.md](../../../基础/总览与理论/基础-总览-Meditation_Core.md) | 冥想通用基础 |

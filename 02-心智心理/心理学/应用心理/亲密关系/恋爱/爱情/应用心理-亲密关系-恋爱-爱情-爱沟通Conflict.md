@@ -25,7 +25,11 @@ cross_refs:
   relation: 倾听/沟通/沟通
 - path: 05-实践成长/个人发展/职场表达/职场表达总览/职场表达-职场表达总览.md
   relation: 沟通/沟通/专业
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Communication & Conflict (恋爱沟通与冲突管理)
 
 ### Early Dating Communication Dynamics (早期约会沟通动力表)

@@ -13,7 +13,11 @@ intent_queries:
   - "缘起性空哲学详论的方法与实践"
 trigger_keywords: ["缘起性空哲学详论", "Pratītyasamutpāda", "Śūnyatā", "Philosophy"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 缘起性空哲学详论 (Pratītyasamutpāda & Śūnyatā Philosophy)
 
 > **缘起性空 (Pratītyasamutpāda & Śūnyatā)**：佛教最根本的哲学原理，揭示一切现象依因缘和合而生，无独立自性，故说为空。这是佛教区别于其他宗教哲学的核心标识。

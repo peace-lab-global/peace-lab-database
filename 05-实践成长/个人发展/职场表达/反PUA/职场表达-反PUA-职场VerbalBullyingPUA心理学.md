@@ -14,7 +14,11 @@ intent_queries:
   - "职场语言霸凌与PUA：心理学机制分析的自助方法"
 trigger_keywords: ["职场语言霸凌与PUA：心理学机制分析", "Psychological", "Mechanisms", "of", "Workplace"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 职场语言霸凌与PUA：心理学机制分析 (Psychological Mechanisms of Workplace Verbal Bullying & PUA)
 
 > **定位**：从认知、情绪、依附与压力反应机制解释为什么语言霸凌和PUA会让人持续内耗、自责、顺从甚至失去行动力

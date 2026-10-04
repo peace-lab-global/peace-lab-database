@@ -13,7 +13,11 @@ intent_queries:
   - "Attraction Laws & Mate Selection Strategies的方法与实践"
 trigger_keywords: ["Attraction", "Laws", "Mate", "Selection", "Strategies"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Attraction Laws & Mate Selection Strategies (吸引力法则与择偶策略)
 
 > 📘 **文档导航**: 本指南深入解析人际吸引的心理机制和择偶策略。相关文档：

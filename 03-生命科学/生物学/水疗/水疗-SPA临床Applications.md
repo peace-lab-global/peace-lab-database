@@ -13,7 +13,11 @@ intent_queries:
   - "SPA Clinical Applications & Indications的方法与实践"
 trigger_keywords: ["SPA", "Clinical", "Applications", "Indications", "SPA临床应用与适应症"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # SPA Clinical Applications & Indications (SPA临床应用与适应症)
 
 > 🏥 **临床概览**: 本文档系统阐述SPA治疗在各类疾病和健康问题中的临床应用价值，基于循证医学证据提供适应症分类、治疗方案设计、疗效评估标准和联合治疗建议。

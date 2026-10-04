@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/大师/传统-大师-藏传-Chogyam_Trungpa.md
   relation: gyam/trungpa/ch
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《没有目标之旅》Journey Without Goal
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1981年出版。创巴仁波切对藏传佛教金刚乘（Vajrayana）的系统性介绍。书名的悖论直击核心：金刚乘不是"为了到达某个地方"的旅程——因为**你已经在那里了**。

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
 
 # 性别歧视 | 性别歧视
 
@@ -19,12 +22,12 @@ auto_generated: true
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Clinical_Manifestations.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E4%B8%B4%E5%BA%8AManifestations.md)
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Cultural_Origins.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E6%96%87%E5%8C%96Origins.md)
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Family_Dynamics.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91Family%E5%8A%A8%E6%80%81.md)
-- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Intervention_Strategies.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Intervention_Strategies.md)
+- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Intervention_Strategies.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E5%B9%B2%E9%A2%84Strategies.md)
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Overview.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E6%80%BB%E8%A7%88.md)
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Policy_Support.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91PolicySupport.md)
-- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Prevention_Education.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Prevention_Education.md)
+- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Prevention_Education.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E9%A2%84%E9%98%B2Education.md)
 - [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Psychological_Mechanisms.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E5%BF%83%E7%90%86Mechanisms.md)
-- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Research_Methods.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Research_Methods.md)
+- [性别歧视-出生性别焦虑-Birth_Gender_Anxiety_Research_Methods.md](%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91/%E6%80%A7%E5%88%AB%E6%AD%A7%E8%A7%86-%E5%87%BA%E7%94%9F%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91-Birth%E6%80%A7%E5%88%AB%E7%84%A6%E8%99%91%E7%A0%94%E7%A9%B6Methods.md)
 - [性别歧视-出生性别焦虑-Birth性别焦虑Family动态.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth性别焦虑Family动态.md)
 - [性别歧视-出生性别焦虑-Birth性别焦虑PolicySupport.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth性别焦虑PolicySupport.md)
 - [性别歧视-出生性别焦虑-Birth性别焦虑临床Manifestations.md](出生性别焦虑/性别歧视-出生性别焦虑-Birth性别焦虑临床Manifestations.md)

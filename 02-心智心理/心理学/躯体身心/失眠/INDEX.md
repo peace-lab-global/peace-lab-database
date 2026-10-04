@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 失眠 | 失眠
 
@@ -14,10 +17,10 @@ auto_generated: true
 ## 📄 文件 | Files (11)
 
 - [躯体身心-失眠-Insomnia_Clinical_Diagnosis.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E5%A4%B1%E7%9C%A0-%E5%A4%B1%E7%9C%A0%E4%B8%B4%E5%BA%8A%E8%AF%8A%E6%96%AD.md)
-- [躯体身心-失眠-Insomnia_Low_Sleep_Motivation.md](躯体身心-失眠-Insomnia_Low_Sleep_Motivation.md)
+- [躯体身心-失眠-Insomnia_Low_Sleep_Motivation.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E5%A4%B1%E7%9C%A0-%E5%A4%B1%E7%9C%A0Low%E7%9D%A1%E7%9C%A0Motivation.md)
 - [躯体身心-失眠-Insomnia_Self_Assessment.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E5%A4%B1%E7%9C%A0-%E5%A4%B1%E7%9C%A0Self%E8%AF%84%E4%BC%B0.md)
 - [躯体身心-失眠-Insomnia_Sleep_Onset_Difficulty.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E5%A4%B1%E7%9C%A0-%E5%A4%B1%E7%9C%A0%E7%9D%A1%E7%9C%A0OnsetDifficulty.md)
-- [躯体身心-失眠-Insomnia_Treatment_Methods.md](躯体身心-失眠-Insomnia_Treatment_Methods.md)
+- [躯体身心-失眠-Insomnia_Treatment_Methods.md](%E8%BA%AF%E4%BD%93%E8%BA%AB%E5%BF%83-%E5%A4%B1%E7%9C%A0-%E5%A4%B1%E7%9C%A0%E6%B2%BB%E7%96%97Methods.md)
 - [躯体身心-失眠-失眠Low睡眠Motivation.md](躯体身心-失眠-失眠Low睡眠Motivation.md)
 - [躯体身心-失眠-失眠Self评估.md](躯体身心-失眠-失眠Self评估.md)
 - [躯体身心-失眠-失眠临床诊断.md](躯体身心-失眠-失眠临床诊断.md)

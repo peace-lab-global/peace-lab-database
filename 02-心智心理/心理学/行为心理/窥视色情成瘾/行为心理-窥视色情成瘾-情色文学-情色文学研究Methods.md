@@ -28,7 +28,11 @@ cross_refs:
   relation: 研究/academic/methods
 - path: 03-生命科学/性学/性学研究Methods/性学研究Methods.md
   relation: 研究/测量/data
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾研究方法与学术资源指南 (Erotic Literature Addiction Research Methods and Academic Resources Guide)
 
 > 📚 **研究指导**: 本文档提供色情文学成瘾研究的方法论指导和学术资源索引。建议结合[预防教育](行为心理-窥视色情成瘾-情色文学-情色文学预防Education.md)了解实践应用，参考[治疗干预](行为心理-窥视色情成瘾-情色文学-情色文学治疗Interventions.md)掌握临床相关性。

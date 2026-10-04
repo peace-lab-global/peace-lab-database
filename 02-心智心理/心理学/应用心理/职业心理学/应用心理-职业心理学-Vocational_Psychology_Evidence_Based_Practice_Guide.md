@@ -14,7 +14,11 @@ intent_queries:
   - "职业心理学循证实践指南的自助方法"
 trigger_keywords: ["职业心理学循证实践指南", "Vocational", "Psychology", "Evidence-Based", "Practice"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 职业心理学循证实践指南 (Vocational Psychology Evidence-Based Practice Guide)
 
 > 📘 **文档导航**: 本指南系统整合职业心理学领域的最新循证研究成果、实证支持的干预技术和质量评估标准。相关文档：

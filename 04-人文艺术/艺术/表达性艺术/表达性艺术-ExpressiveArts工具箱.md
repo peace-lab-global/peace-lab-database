@@ -28,7 +28,11 @@ cross_refs:
   relation: oh/cards/表达性艺术
 - path: 02-心智心理/疗法/创意表达/OH卡牌疗法/创意表达-OH卡牌疗法-OH_Cards_Clinical_Applications.md
   relation: oh/cards/emergency
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 表达性艺术治疗实用工具箱 (Expressive Arts Therapy Practical Toolkit)
 
 > **临床应用与自我发展的实用资源**

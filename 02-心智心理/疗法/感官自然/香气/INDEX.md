@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 香气 | 香气
 
@@ -16,13 +19,13 @@ auto_generated: true
 - [感官自然-香气-Incense_Clinical_Evidence.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E4%B8%B4%E5%BA%8A%E5%BE%AA%E8%AF%81.md)
 - [感官自然-香气-Incense_Clinical_Protocols.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E4%B8%B4%E5%BA%8AProtocols.md)
 - [感官自然-香气-Incense_History_Culture.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94HistoryCulture.md)
-- [感官自然-香气-Incense_Integration_Modalities.md](感官自然-香气-Incense_Integration_Modalities.md)
+- [感官自然-香气-Incense_Integration_Modalities.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E6%95%B4%E5%90%88Modalities.md)
 - [感官自然-香气-Incense_Mechanisms.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94Mechanisms.md)
 - [感官自然-香气-Incense_Overview.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E6%80%BB%E8%A7%88.md)
 - [感官自然-香气-Incense_Pharmacology_Compounds.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E8%8D%AF%E7%90%86%E5%AD%A6Compounds.md)
 - [感官自然-香气-Incense_Practices.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94Practices.md)
 - [感官自然-香气-Incense_Preparation_Formulation.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94PreparationFormulation.md)
-- [感官自然-香气-Incense_Psychological_Healing.md](感官自然-香气-Incense_Psychological_Healing.md)
+- [感官自然-香气-Incense_Psychological_Healing.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E5%BF%83%E7%90%86%E7%96%97%E6%84%88.md)
 - [感官自然-香气-Incense_Resources.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E8%B5%84%E6%BA%90.md)
 - [感官自然-香气-Incense_Safety_Toxicology.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94%E5%AE%89%E5%85%A8Toxicology.md)
 - [感官自然-香气-Incense_Types_Classification.md](%E6%84%9F%E5%AE%98%E8%87%AA%E7%84%B6-%E9%A6%99%E6%B0%94-%E9%A6%99%E6%B0%94TypesClassification.md)

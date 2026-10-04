@@ -13,7 +13,11 @@ intent_queries:
   - "《自我与原型》Ego and Archetype的方法与实践"
 trigger_keywords: ["jung", "《自我与原型》Ego", "and", "Archetype"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《自我与原型》Ego and Archetype
 
 > 爱德华·惠特蒙特（Edward F. Edinger）著，1972年出版。美国荣格分析师惠特蒙特的经典著作，深入探讨了"自我"（Ego）与"自性"（Self）之间的关系——这是荣格心理学中最核心、也最困难的主题。惠特蒙特用清晰的语言和丰富的临床案例，让这一抽象概念变得 accessible。

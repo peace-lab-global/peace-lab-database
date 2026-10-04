@@ -13,7 +13,11 @@ intent_queries:
   - "藏传金刚乘体系详论的方法与实践"
 trigger_keywords: ["藏传金刚乘体系详论", "Tibetan", "Vajrayāna", "System", "Detailed"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 藏传金刚乘体系详论 (Tibetan Vajrayāna System Detailed)
 
 > **藏传金刚乘佛教 (Tibetan Vajrayāna Buddhism)**：佛教传入西藏后与本地苯教文化融合形成的独特密乘传统，以密续经典为基础，强调上师瑜伽、本尊观修和即身成佛的修行理念。

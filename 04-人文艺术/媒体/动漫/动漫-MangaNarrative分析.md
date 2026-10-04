@@ -13,7 +13,11 @@ intent_queries:
   - "漫画叙事分析 | Manga Narrative Analysis的方法与实践"
 trigger_keywords: ["漫画叙事分析", "cinema"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 漫画叙事分析 | Manga Narrative Analysis
 
 > 漫画（Manga）不仅是一种视觉娱乐形式，更是一种独特的叙事艺术（Narrative Art）。从手塚治虫（Tezuka Osamu）开创电影式分镜语法，到浦泽直树（Urasawa Naoki）的多重叙事织体，到藤本树（Fujimoto Tatsuki）的后现代叙事解构，漫画在长达数十年的发展中形成了一套区别于西方漫画与文学的独立叙事体系。本文件从视觉叙事学（Visual Narratology）的视角，系统分析漫画的叙事技术、文学价值与创作者贡献。

@@ -13,7 +13,11 @@ intent_queries:
   - "内感受与冥想专业指南 | Interoception & Meditation Guide的方法与实践"
 trigger_keywords: ["内感受与冥想专业指南", "Interoception", "Meditation", "Guide"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 内感受与冥想专业指南 | Interoception & Meditation Guide
 
 > **领域**：冥想神经科学与身体觉察机制（Meditation Neuroscience & Somatic Awareness）
@@ -572,7 +576,7 @@ HCT Score = 1 - (|实际心跳数 - 报告心跳数| / 实际心跳数)
 ## 相关链接
 
 - [冥想神经科学机制](基础-总览-Meditation_Neuroscience_Mechanisms.md)
-- [冥想临床应用](基础-总览-Meditation_Clinical_Applications.md)
+- [冥想临床应用](%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)
 - [创伤知情冥想指南](../../临床/安全/临床-安全-Meditation_Trauma_Sensitive.md)
 - [冥想与睡眠](基础-总览-Meditation_And_Sleep.md)
 - [冥想核心基础](基础-总览-Meditation_Core.md)

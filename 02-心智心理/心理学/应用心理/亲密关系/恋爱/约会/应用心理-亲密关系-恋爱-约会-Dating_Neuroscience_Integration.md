@@ -13,7 +13,11 @@ intent_queries:
   - "Dating Neuroscience & Brain-Based Insights的方法与实践"
 trigger_keywords: ["Dating", "Neuroscience", "Brain-Based", "Insights", "约会神经科学与大脑洞察"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Neuroscience & Brain-Based Insights (约会神经科学与大脑洞察)
 
 > 📘 **文档导航**: 本指南整合神经科学研究成果，揭示约会过程中大脑机制和生物基础。相关文档：

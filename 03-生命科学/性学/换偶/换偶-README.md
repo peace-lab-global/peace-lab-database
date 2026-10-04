@@ -13,7 +13,11 @@ intent_queries:
   - "换妻研究专业内容体系概览的方法与实践"
 trigger_keywords: ["换妻研究专业内容体系概览", "Swinging", "Research", "Professional", "Content"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 换妻研究专业内容体系概览 (Swinging Research Professional Content Overview)
 
 > 📘 **专业内容体系**: 本目录包含换妻行为的综合性学术研究内容，涵盖社会学分析、心理学机制、实践指导和风险管理等多个维度，为相关研究和健康实践提供科学指导。

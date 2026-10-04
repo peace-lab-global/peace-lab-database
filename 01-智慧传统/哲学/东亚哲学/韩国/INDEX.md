@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
 
 # 韩国 | 韩国
 
@@ -13,7 +16,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (9)
 
-- [东亚哲学-韩国-confucianism-Buddhist_Perspective_Reviews.md](东亚哲学-韩国-confucianism-Buddhist_Perspective_Reviews.md)
+- [东亚哲学-韩国-confucianism-Buddhist_Perspective_Reviews.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E9%9F%A9%E5%9B%BD-%E5%84%92%E5%AE%B6-%E4%BD%9B%E6%95%99%E8%A7%86%E8%A7%92%E8%AF%84%E8%AE%BA.md)
 - [东亚哲学-韩国-confucianism-Multi_Perspective_Reviews.md](东亚哲学-韩国-confucianism-Multi_Perspective_Reviews.md)
 - [东亚哲学-韩国-confucianism-YiHwang.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E9%9F%A9%E5%9B%BD-%E5%84%92%E5%AE%B6-%E6%9D%8E%E6%BB%89.md)
 - [东亚哲学-韩国-confucianism-YiI.md](%E4%B8%9C%E4%BA%9A%E5%93%B2%E5%AD%A6-%E9%9F%A9%E5%9B%BD-%E5%84%92%E5%AE%B6-%E6%9D%8E%E7%8F%A5.md)

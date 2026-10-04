@@ -25,7 +25,11 @@ cross_refs:
   relation: 正念/抑郁/元分析
 - path: 02-心智心理/冥想/传统/佛教/止观/传统-佛教-止观-Modern_Psychology_Integration.md
   relation: 正念/疗法/mbsr
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 正念临床应用 (Mindfulness: Clinical Applications)
 
 ## 目录 (Table of Contents)

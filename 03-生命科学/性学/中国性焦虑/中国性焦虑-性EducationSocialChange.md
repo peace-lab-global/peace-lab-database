@@ -22,7 +22,11 @@ cross_refs:
   relation: 人际关系/亲密关系
 - path: 02-心智心理/心理学/发展心理/青少年/child/发展心理-青少年-child-adolescent-Child_Adolescent_Development.md
   relation: 人际关系/障碍
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 性教育与社会变革推动
 
 ## 系统性教育体系建设

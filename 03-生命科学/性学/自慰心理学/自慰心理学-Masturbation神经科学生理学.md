@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/应用心理/亲密关系/性学/应用心理-亲密关系-性学-自慰与关系-Masturbation_Sexual_Health.md
   relation: masturbation/sexual/key
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Neuroscience and Physiology of Masturbation (自慰行为的神经科学与生理学基础)
 
 > 基于神经影像学、内分泌学与生理学研究，系统阐述自慰行为的神经回路机制、神经递质变化、感觉传导通路及内分泌影响。所有内容基于循证研究，旨在提供科学客观的生物学理解框架。

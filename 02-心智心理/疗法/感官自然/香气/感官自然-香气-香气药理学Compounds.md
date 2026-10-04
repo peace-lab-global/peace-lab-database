@@ -13,7 +13,11 @@ intent_queries:
   - "檀香药理学与活性化合物的方法与实践"
 trigger_keywords: ["檀香药理学与活性化合物", "Incense", "Pharmacology", "Active", "Compounds"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 檀香药理学与活性化合物 (Incense Pharmacology & Active Compounds)
 
 > **目标**：系统梳理檀香及相关香料的药理学特性、活性成分、代谢途径及临床药效学参数。

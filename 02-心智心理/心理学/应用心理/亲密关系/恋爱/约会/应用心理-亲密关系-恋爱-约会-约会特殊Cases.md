@@ -13,7 +13,11 @@ intent_queries:
   - "Special Circumstances & Challenging Situations的方法与实践"
 trigger_keywords: ["Special", "Circumstances", "Challenging", "Situations", "特殊情况与挑战性情境"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Special Circumstances & Challenging Situations (特殊情况与挑战性情境)
 
 > 📘 **文档导航**: 本指南针对约会中的各种特殊情况和挑战性情境提供专业应对策略。相关文档：

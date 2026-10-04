@@ -22,7 +22,11 @@ cross_refs:
   relation: 死亡/佛教/藏传
 - path: 01-智慧传统/宗教/佛教/宗萨钦哲/佛教-宗萨钦哲-living-is-dying-Multi_Perspective_Reviews.md
   relation: 死亡/佛教
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《唤醒内在的佛陀》Awakening the Buddha Within
 
 >  拉姆·达斯（Lama Surya Das）著，1997年出版。美国出生的藏传佛教喇嘛，在印度和尼泊尔学习多年后将佛教带回西方。这本书是"西藏智慧"的通俗介绍，涵盖了四圣谛、八正道、菩提心、中阴教法等核心主题。

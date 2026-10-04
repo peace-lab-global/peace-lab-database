@@ -23,7 +23,11 @@ cross_refs:
   relation: lab/peace
 - path: 02-心智心理/冥想/传统/印度瑜伽/瑜伽冥想/INDEX.md
   relation: lab/peace
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # Drama Therapy Neuroscience
 
 > 戏剧疗愈（Drama Therapy）的神经科学研究关注一个核心问题：为什么"扮演"能带来真实的心理改变？本页梳理与戏剧疗愈相关的主要神经科学机制与研究发现，并对证据强度保持审慎。

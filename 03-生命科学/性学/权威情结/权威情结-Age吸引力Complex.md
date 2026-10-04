@@ -13,7 +13,11 @@ intent_queries:
   - "年龄差异吸引情结的方法与实践"
 trigger_keywords: ["年龄差异吸引情结", "Age", "Difference", "Attraction", "Complex"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 年龄差异吸引情结 (Age Difference Attraction Complex)
 
 > 📘 **文档导航**: 本专题深入探讨年龄相关吸引的心理机制、社会文化因素和临床处理策略。相关主题请参考：

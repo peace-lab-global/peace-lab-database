@@ -13,7 +13,11 @@ intent_queries:
   - "自生训练的方法与实践"
 trigger_keywords: ["自生训练", "Autogenic", "Training", "AT"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 自生训练 (Autogenic Training, AT)
 
 > **模块定位**：自生训练的系统化专业知识，涵盖Schultz六标准公式、Luthe高级技术、神经生理机制、临床应用协议及循证基础。

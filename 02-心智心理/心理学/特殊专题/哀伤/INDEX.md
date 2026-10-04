@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 哀伤 | 哀伤
 
@@ -13,11 +16,11 @@ auto_generated: true
 
 ## 📄 文件 | Files (11)
 
-- [特殊专题-哀伤-Grief_Bereavement.md](特殊专题-哀伤-Grief_Bereavement.md)
+- [特殊专题-哀伤-Grief_Bereavement.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%93%80%E4%BC%A4-%E5%93%80%E4%BC%A4Bereavement.md)
 - [特殊专题-哀伤-Grief_Cultural_Spiritual.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%93%80%E4%BC%A4-%E5%93%80%E4%BC%A4%E6%96%87%E5%8C%96Spiritual.md)
 - [特殊专题-哀伤-Grief_Intervention_Techniques.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%93%80%E4%BC%A4-%E5%93%80%E4%BC%A4%E5%B9%B2%E9%A2%84%E6%8A%80%E6%9C%AF.md)
 - [特殊专题-哀伤-Grief_Lifespan_Developmental.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%93%80%E4%BC%A4-%E5%93%80%E4%BC%A4LifespanDevelopmental.md)
-- [特殊专题-哀伤-Grief_Special_Loss_Types.md](特殊专题-哀伤-Grief_Special_Loss_Types.md)
+- [特殊专题-哀伤-Grief_Special_Loss_Types.md](%E7%89%B9%E6%AE%8A%E4%B8%93%E9%A2%98-%E5%93%80%E4%BC%A4-%E5%93%80%E4%BC%A4Special%E5%87%8FTypes.md)
 - [特殊专题-哀伤-哀伤Bereavement.md](特殊专题-哀伤-哀伤Bereavement.md)
 - [特殊专题-哀伤-哀伤LifespanDevelopmental.md](特殊专题-哀伤-哀伤LifespanDevelopmental.md)
 - [特殊专题-哀伤-哀伤Special减Types.md](特殊专题-哀伤-哀伤Special减Types.md)

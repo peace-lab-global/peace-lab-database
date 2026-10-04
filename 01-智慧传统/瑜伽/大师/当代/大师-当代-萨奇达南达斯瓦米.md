@@ -13,7 +13,11 @@ intent_queries:
   - "斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）的方法与实践"
 trigger_keywords: ["斯瓦米", "exercise", "meditation"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 斯瓦米·萨奇达南达（Swami Satchidananda / स्वामी सच्चिदानन्द）
 
 > Integral Yoga 的创始人——1969 伍德斯托克音乐节的开幕祈祷者

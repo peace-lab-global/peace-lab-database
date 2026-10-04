@@ -13,7 +13,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (3)
 
-- [芭蕾-历史-Ballet_History_Development.md](芭蕾-历史-Ballet_History_Development.md)
+- [芭蕾-历史-Ballet_History_Development.md](%E8%8A%AD%E8%95%BE-%E5%8E%86%E5%8F%B2-%E8%8A%AD%E8%95%BEHistory%E5%8F%91%E5%B1%95.md)
 - [芭蕾-历史-芭蕾History发展.md](芭蕾-历史-芭蕾History发展.md)
 
 

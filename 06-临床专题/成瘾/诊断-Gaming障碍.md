@@ -4,7 +4,10 @@ description: "ICD-11 游戏障碍诊断/IGD-20/风险因素/治疗/家庭干预"
 category: "clinical"
 tags: ["gaming-disorder", "ICD-11", "IGD", "internet-gaming", "screen-time"]
 last_updated: "2026-07"
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 游戏障碍 (Gaming Disorder, ICD-11 6C51)
 

@@ -26,7 +26,11 @@ cross_refs:
   relation: dying/死亡/临终
 - path: 03-生命科学/死亡/临终关怀/临终关怀-死亡NDENear死亡Experience.md
   relation: nde/临终/死亡
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《死亡的艺术》The Art of Dying
 
 **作者**：彼得·芬威克 & 伊丽莎白·芬威克 (Peter & Elizabeth Fenwick)  

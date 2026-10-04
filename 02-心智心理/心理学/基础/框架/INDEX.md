@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 框架 | 框架
 
@@ -13,7 +16,7 @@ auto_generated: true
 
 ## 📄 文件 | Files (15)
 
-- [基础-框架-Framework_Authorities_Lineage.md](基础-框架-Framework_Authorities_Lineage.md)
+- [基础-框架-Framework_Authorities_Lineage.md](%E5%9F%BA%E7%A1%80-%E6%A1%86%E6%9E%B6-%E6%A1%86%E6%9E%B6Authorities%E4%BC%A0%E6%89%BF.md)
 - [基础-框架-Framework_Benefits_Risks.md](%E5%9F%BA%E7%A1%80-%E6%A1%86%E6%9E%B6-%E6%A1%86%E6%9E%B6BenefitsRisks.md)
 - [基础-框架-Framework_Cross_Comparisons.md](%E5%9F%BA%E7%A1%80-%E6%A1%86%E6%9E%B6-%E6%A1%86%E6%9E%B6CrossComparisons.md)
 - [基础-框架-Framework_Industry_Trends.md](%E5%9F%BA%E7%A1%80-%E6%A1%86%E6%9E%B6-%E6%A1%86%E6%9E%B6IndustryTrends.md)

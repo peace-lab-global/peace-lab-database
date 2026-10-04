@@ -26,7 +26,11 @@ cross_refs:
   relation: 锚定/正念
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/练习课/专注数息.md
   relation: 呼吸/专注/冥想
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《正念的奇迹》The Miracle of Mindfulness
 
 > 一行禅师（Thich Nhat Hanh）著，1975年出版。写给一位社会运动战友的长信，后来成为 mindfulness 运动最具影响力的经典之一。书中展示了如何在洗碗、喝茶、走路中练习觉悟——不需要寺庙，不需要闭关，只需要此刻的觉知。
@@ -70,7 +74,7 @@ cross_refs:
 ## 四、延伸阅读
 
 - 成书背景：本书原为1974年一行禅师写给越南社会服务青年学校同仁"广兄"的一封长信，后以越南语出版（1975），英译由 Mobi Ho 完成（Beacon Press）。
-- 本库相关条目：[《平静的第一堂课》A First Course in Meditation](../../%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5/%E5%85%A5%E9%97%A8%E4%B8%8E%E6%96%B9%E6%B3%95%E6%89%8B%E5%86%8C/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5-a-first-course-in-meditation.md)、[冥想基础总览](../../../../../02-心智心理/冥想/基础/总览与理论/基础-总览-Meditation_Mind_Management.md)
+- 本库相关条目：[《平静的第一堂课》A First Course in Meditation](../../%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5/%E5%85%A5%E9%97%A8%E4%B8%8E%E6%96%B9%E6%B3%95%E6%89%8B%E5%86%8C/%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E5%86%A5%E6%83%B3%E6%AD%A3%E5%BF%B5-a-first-course-in-meditation.md)、[冥想基础总览](../../../../../02-%E5%BF%83%E6%99%BA%E5%BF%83%E7%90%86/%E5%86%A5%E6%83%B3/%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E5%BF%83%E6%99%BA%E7%AE%A1%E7%90%86.md)
 
 ## 五、阅读体验
 

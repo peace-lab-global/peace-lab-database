@@ -25,7 +25,11 @@ cross_refs:
   relation: mbsr/身体扫描/觉察
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/the/世界非虚构-冥想正念-the-insight-meditation-workbook.md
   relation: 觉察/身体扫描/冥想
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 系列三：身体觉察系列 | Body Awareness Series
 
 > **级别**：Level 2（初级-中级过渡）

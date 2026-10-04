@@ -25,7 +25,11 @@ cross_refs:
   relation: equality/policy/un
 - path: 03-生命科学/性学/中国性压抑/中国性压抑-InternationalComparison参考.md
   relation: comparative/international/education
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 国际性教育最佳实践与比较研究 (International Best Practices and Comparative Studies in Sexuality Education)
 
 > 🌍 **研究定位**: 系统梳理和分析国际性教育先进经验和发展趋势，通过跨国比较研究为本土化实践提供科学依据和创新启示。涵盖政策框架、实施模式、效果评估和文化适应等多个维度的深入分析。建议结合[政策法规框架](发展心理-青少年-儿童青少年性心理-theory-Policy_Law_Ethics_Framework.md)了解制度环境，参考[数字化创新实践](发展心理-青少年-儿童青少年性心理-digital-resources-Digital_Innovation_Practices.md)掌握技术应用。

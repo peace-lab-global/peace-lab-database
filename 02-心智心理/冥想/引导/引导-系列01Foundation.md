@@ -24,7 +24,11 @@ cross_refs:
   relation: 正念/觉察/冥想
 - path: 04-人文艺术/文学/世界非虚构/冥想正念/a/世界非虚构-冥想正念-a-first-course-in-meditation.md
   relation: 冥想/呼吸
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 系列一：基础入门系列 | Foundation Series
 
 > **级别**：Level 1（初学者）

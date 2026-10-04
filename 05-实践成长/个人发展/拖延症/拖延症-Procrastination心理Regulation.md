@@ -23,7 +23,11 @@ cross_refs:
   relation: 拖延/情绪调节
 - path: 02-心智心理/心理学/行为心理/抗拖延/行为心理-抗拖延-Anxiety_Procrastination.md
   relation: 拖延/焦虑
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 拖延症心理调节专业内容体系
 
 ## 目录

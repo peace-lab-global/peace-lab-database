@@ -13,7 +13,11 @@ intent_queries:
   - "窥淫癖与色情成瘾法律伦理框架的方法与实践"
 trigger_keywords: ["窥淫癖与色情成瘾法律伦理框架", "Legal", "and", "Ethical", "Framework"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 窥淫癖与色情成瘾法律伦理框架 (Legal and Ethical Framework for Voyeurism and Pornography Addiction)
 
 > ⚖️ **法律伦理指导**: 本文档系统阐述窥淫癖与色情成瘾相关的法律边界、伦理考量和社会责任。建议结合[窥淫癖临床评估](行为心理-窥视色情成瘾-Voyeurism_Clinical_Assessment.md)了解诊断标准，参考[色情成瘾临床应用](行为心理-窥视色情成瘾-Pornography_Addiction_Clinical_Applications.md)掌握治疗原则。

@@ -21,7 +21,11 @@ cross_refs:
   relation: 存在主义/焦虑/死亡
 - path: 02-心智心理/心理学/社会心理/孤独/社会心理-孤独-Loneliness_Existential.md
   relation: 存在主义/existential/死亡
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 《绝命毒师》(Breaking Bad) 专业影评：叙事伦理学视角下的道德沦陷与人性探索
 
 ## 摘要 (Abstract)

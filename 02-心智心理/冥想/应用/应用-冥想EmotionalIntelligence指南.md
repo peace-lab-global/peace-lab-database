@@ -23,7 +23,11 @@ cross_refs:
   relation: eq/intelligence/情绪al
 - path: 05-实践成长/个人发展/情商/INDEX.md
   relation: intelligence/情绪al/leadership
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 冥想与情绪智力（EQ）专业指南 | Meditation & Emotional Intelligence Guide
 
 > **领域**：冥想与情绪智力的整合发展（Meditation & EQ Integration）

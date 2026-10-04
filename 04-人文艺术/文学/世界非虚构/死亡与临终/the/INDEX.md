@@ -18,7 +18,7 @@ auto_generated: true
 - [世界非虚构-死亡与临终-the-death-class.md](世界非虚构-死亡与临终-the-death-class.md)
 - [世界非虚构-死亡与临终-the-death-of-ivan-ilyich.md](世界非虚构-死亡与临终-the-death-of-ivan-ilyich.md)
 - [世界非虚构-死亡与临终-the-death-of-virgil.md](世界非虚构-死亡与临终-the-death-of-virgil.md)
-- [世界非虚构-死亡与临终-the-denial-of-death.md](世界非虚构-死亡与临终-the-denial-of-death.md)
+- [世界非虚构-死亡与临终-the-denial-of-death.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E4%B8%B4%E7%BB%88-%E6%8B%92%E6%96%A5%E6%AD%BB%E4%BA%A1.md)
 - [世界非虚构-死亡与临终-the-dignity-of-death.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E4%B8%B4%E7%BB%88-%E6%AD%BB%E4%BA%A1%E7%9A%84%E5%B0%8A%E4%B8%A5.md)
 - [世界非虚构-死亡与临终-the-end-of-your-life-book-club.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E4%B8%B4%E7%BB%88-%E4%B8%B4%E7%BB%88%E8%AF%BB%E4%B9%A6%E4%BC%9A.md)
 - [世界非虚构-死亡与临终-the-five-invitations.md](../%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E6%AD%BB%E4%BA%A1%E4%B8%8E%E4%B8%B4%E7%BB%88-%E4%BA%94%E4%B8%AA%E9%82%80%E8%AF%B7.md)

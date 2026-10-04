@@ -26,7 +26,11 @@ cross_refs:
   relation: 正念/倦怠
 - path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/the/世界非虚构-科学意识濒死体验-the-mindful-brain.md
   relation: 正念/mindful/神经科学
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 正念开会专业实践指南 (Mindful Meeting Practice)
 
 ## 目录 (Table of Contents)

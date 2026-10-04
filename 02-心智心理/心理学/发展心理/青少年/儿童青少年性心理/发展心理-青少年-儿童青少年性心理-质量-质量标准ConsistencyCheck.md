@@ -22,7 +22,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/生物学/水疗/水疗-SPAUserExperience质量.md
   relation: 质量/standardization/pdca
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 性教育文档质量标准与一致性检查体系 (Quality Standards and Consistency Check System for Sexuality Education Documentation)
 
 > 📋 **标准定位**: 建立严格的文档质量控制体系和一致性检查机制，确保所有性教育相关文档达到专业学术标准，在内容准确性、结构完整性、语言规范性、引用可靠性等方面保持高度一致性。为文档创作、审核、更新和维护提供标准化的质量保障框架。

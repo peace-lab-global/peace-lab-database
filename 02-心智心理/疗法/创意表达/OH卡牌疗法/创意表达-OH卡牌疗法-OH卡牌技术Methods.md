@@ -28,7 +28,11 @@ cross_refs:
   relation: br/group/integration
 - path: 04-人文艺术/艺术/表达性艺术/表达性艺术-ExpressiveArts案例Studies.md
   relation: oh/cards/basic
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # OH卡疗法技巧方法详解 (OH Cards Therapy Techniques & Methods Detailed)
 
 > **核心技术与操作精要**

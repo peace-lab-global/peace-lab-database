@@ -13,7 +13,11 @@ intent_queries:
   - "Sexually Transmitted Diseases Public Health的方法与实践"
 trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Public", "Health"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Sexually Transmitted Diseases Public Health (性传播疾病公共卫生)
 
 > 🌍 **公共卫生指南**: 本文档详细阐述性传播疾病的流行病学监测、防控策略、政策框架和全球合作机制。建议结合[临床](性传播疾病-STD临床Features.md)和[预防](性传播疾病-STD预防Strategies.md)文档进行系统学习。

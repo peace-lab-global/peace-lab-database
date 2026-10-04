@@ -13,7 +13,11 @@ intent_queries:
   - "神经工程 | Neurotechnology的方法与实践"
 trigger_keywords: ["神经工程", "bci"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 神经工程 | Neurotechnology
 
 > **神经工程**（Neurotechnology）融合神经科学、工程学和计算机科学，开发与大脑交互的技术系统。TED平台上关于神经工程的演讲展示了脑机接口、神经假体、深脑刺激和神经影像技术的突破性进展，以及这些技术对人类身份、自主性和社会的深远伦理影响。

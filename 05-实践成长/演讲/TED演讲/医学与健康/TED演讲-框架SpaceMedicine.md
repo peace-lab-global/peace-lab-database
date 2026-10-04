@@ -13,7 +13,11 @@ intent_queries:
   - "太空医学 | Space Medicine Framework的方法与实践"
 trigger_keywords: ["太空医学", "Space", "Medicine", "Framework"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 太空医学 | Space Medicine Framework
 
 > **太空医学**（Space Medicine）研究太空环境对人体和心理的影响，以及保障宇航员健康的医学策略。从微重力（Microgravity）对骨骼肌肉系统的退化效应，到宇宙辐射（Cosmic Radiation）的DNA损伤风险，再到长期隔离对心理健康的挑战，太空医学不仅支持人类的太空探索，也推动了地球医学的创新。本文件精选TED平台上关于太空医学的代表性演讲。

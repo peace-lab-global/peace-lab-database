@@ -13,7 +13,11 @@ intent_queries:
   - "瑜伽损伤预防（Yoga Injury Prevention）的方法与实践"
 trigger_keywords: ["瑜伽损伤预防", "Yoga", "Injury", "Prevention"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 瑜伽损伤预防（Yoga Injury Prevention）
 
 > 安全是瑜伽教学的第一准则——系统性损伤预防指南

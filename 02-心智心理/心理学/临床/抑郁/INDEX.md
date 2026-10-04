@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 抑郁 | 抑郁
 
@@ -33,7 +36,7 @@ auto_generated: true
 - [临床-抑郁-双相抑郁管理.md](临床-抑郁-双相抑郁管理.md)
 - [临床-抑郁-围产期抑郁-Peripartum_Depression.md](临床-抑郁-围产期抑郁-Peripartum_Depression.md)
 - [临床-抑郁-围产期抑郁-Peripartum抑郁.md](临床-抑郁-围产期抑郁-Peripartum抑郁.md)
-- [临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md](临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md)
+- [临床-抑郁-季节性情感障碍-Seasonal_Depression_Intervention_Strategies.md](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-%E5%AD%A3%E8%8A%82%E6%80%A7%E6%83%85%E6%84%9F%E9%9A%9C%E7%A2%8D-Seasonal%E6%8A%91%E9%83%81%E5%B9%B2%E9%A2%84Strategies.md)
 - [临床-抑郁-季节性情感障碍-Seasonal抑郁干预Strategies.md](临床-抑郁-季节性情感障碍-Seasonal抑郁干预Strategies.md)
 - [临床-抑郁-技能-抑郁评估Skill.md](临床-抑郁-技能-抑郁评估Skill.md)
 - [临床-抑郁-技能-显化.md](%E4%B8%B4%E5%BA%8A-%E6%8A%91%E9%83%81-skills-_manifest.md)

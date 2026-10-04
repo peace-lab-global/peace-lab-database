@@ -28,7 +28,11 @@ cross_refs:
   relation: 研究/methods/standards
 - path: 02-心智心理/心理学/应用心理/职业心理学/应用心理-职业心理学-research-Vocational_Psychology_Research_Methods.md
   relation: data/研究/methods
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 中国社会性压抑实证研究方法指南 (Empirical Research Methods Guide for Sexual Repression in Chinese Society)
 
 > 📘 **文档导航**: 本专题提供中国社会性压抑现象实证研究的完整方法论指导，涵盖研究设计、数据收集、分析方法和质量控制等关键环节。如需了解其他相关内容，请参考：

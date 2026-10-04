@@ -21,7 +21,11 @@ cross_refs:
   relation: 坛城/mandala/可视化
 - path: 01-智慧传统/宗教/佛教/金刚乘/佛教-金刚乘-Vajrayana_Mudra_Mandala.md
   relation: 坛城/观想
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Mandala Meditation Techniques (坛城冥想技术详表)
 
 ## 观想坛城技术 (Visualization Mandala Techniques)

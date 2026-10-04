@@ -13,7 +13,11 @@ intent_queries:
   - "Birth Gender Anxiety: Family Dynamics的方法与实践"
 trigger_keywords: ["Birth", "Gender", "Anxiety:", "Family", "Dynamics"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Birth Gender Anxiety: Family Dynamics (生育性别焦虑的家庭动力学)
 
 ## 家庭系统理论视角 (Family Systems Theory Perspective)

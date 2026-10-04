@@ -13,7 +13,11 @@ intent_queries:
   - "孤独感缓释与自助策略的方法与实践"
 trigger_keywords: ["孤独感缓释与自助策略", "Loneliness", "Relief", "Self-Help", "Strategies"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 孤独感缓释与自助策略 (Loneliness Relief & Self-Help Strategies)
 
 ## 目录导航
@@ -422,7 +426,7 @@ graph TB
 > - [孤独感来源与病因学](社会心理-孤独-Loneliness_Sources_Etiology.md) - 理解孤独感的来源
 > - [孤独概览](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%80%BB%E8%A7%88.md) - 孤独的基本概念与分类
 > - [孤独治疗与关系干预](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E6%B2%BB%E7%96%97.md) - 专业治疗方案
-> - [孤独临床手册](社会心理-孤独-Loneliness_Clinical_Manual.md) - 临床诊疗方案
+> - [孤独临床手册](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E5%AD%A4%E7%8B%AC-%E5%AD%A4%E7%8B%AC%E4%B8%B4%E5%BA%8A%E6%89%8B%E5%86%8C.md) - 临床诊疗方案
 > - [婚后孤独缓释策略](../../应用心理/亲密关系/婚姻/婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Relief.md) - 婚内孤独的专项缓释
 
 ---

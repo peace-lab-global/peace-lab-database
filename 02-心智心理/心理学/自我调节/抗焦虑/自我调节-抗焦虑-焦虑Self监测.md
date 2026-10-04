@@ -23,7 +23,11 @@ cross_refs:
   relation: 焦虑/呼吸
 - path: 04-人文艺术/媒体/电影/电影批评/电影-电影批评-The_Dark_Knight_Professional_Critique.md
   relation: 意义/焦虑
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 焦虑自我监测
 
 ## 目录

@@ -25,7 +25,11 @@ cross_refs:
   relation: 默认模式/dmn/前额叶
 - path: 04-人文艺术/媒体/音乐/古典音乐/chopin/音乐-古典音乐-chopin-nocturnes-Chopin_Nocturnes_Therapeutic_Analysis.md
   relation: 默认模式/前额叶/神经科学
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 独处神经科学：大脑如何在独处中修复与生长 (Neuroscience of Solitude)
 
 > **核心命题**: 独处不是大脑的"待机状态"，而是一种活跃的、建设性的神经加工模式。高质量的独处促进默认模式网络的有序激活、前额叶-边缘系统的整合，以及海马体的神经发生。

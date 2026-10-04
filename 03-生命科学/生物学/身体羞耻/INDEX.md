@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
 
 # 身体羞耻 | 身体羞耻
 
@@ -19,7 +22,7 @@ auto_generated: true
 - [身体羞耻-人群-身体Shame特殊人群.md](身体羞耻-人群-身体Shame特殊人群.md)
 - [身体羞耻-术语-Body_Shame_Terminology_Standards.md](%E8%BA%AB%E4%BD%93%E7%BE%9E%E8%80%BB-%E6%9C%AF%E8%AF%AD-%E8%BA%AB%E4%BD%93ShameTerminologyStandards.md)
 - [身体羞耻-术语-身体ShameTerminologyStandards.md](身体羞耻-术语-身体ShameTerminologyStandards.md)
-- [身体羞耻-研究-Body_Shame_Research_Framework.md](身体羞耻-研究-Body_Shame_Research_Framework.md)
+- [身体羞耻-研究-Body_Shame_Research_Framework.md](%E8%BA%AB%E4%BD%93%E7%BE%9E%E8%80%BB-%E7%A0%94%E7%A9%B6-%E8%BA%AB%E4%BD%93Shame%E7%A0%94%E7%A9%B6%E6%A1%86%E6%9E%B6.md)
 - [身体羞耻-研究-身体Shame研究框架.md](身体羞耻-研究-身体Shame研究框架.md)
 - [身体羞耻-肥胖-ObesityShameSpecialized指南.md](身体羞耻-肥胖-ObesityShameSpecialized指南.md)
 - [身体羞耻-肥胖-Obesity_Shame_Specialized_Guide.md](%E8%BA%AB%E4%BD%93%E7%BE%9E%E8%80%BB-%E8%82%A5%E8%83%96-ObesityShameSpecialized%E6%8C%87%E5%8D%97.md)

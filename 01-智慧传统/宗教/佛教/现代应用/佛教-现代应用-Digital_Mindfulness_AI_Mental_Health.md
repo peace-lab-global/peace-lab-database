@@ -374,7 +374,7 @@ Ronald Purser (2019) 在 *McMindfulness* 中批判商业App的正念：
 
 ## 交叉引用 | Cross References
 
-- [佛教心理治疗理论](../心理学/佛教-心理学-Buddhism_Psychotherapy_Theory.md) — 佛教心理治疗的理论基础与AI展望
+- [佛教心理治疗理论](../%E5%BF%83%E7%90%86%E5%AD%A6/%E4%BD%9B%E6%95%99-%E5%BF%83%E7%90%86%E5%AD%A6-%E4%BD%9B%E6%95%99%E5%BF%83%E7%90%86%E6%B2%BB%E7%96%97%E7%90%86%E8%AE%BA.md) — 佛教心理治疗的理论基础与AI展望
 - [正念与现代心理治疗整合](../心理学/佛教-心理学-Buddhism_Mindfulness_Therapy_Integration.md) — MBSR/MBCT/ACT/DBT整合与数字化趋势
 - [止观禅修详表 — 神经科学章节](../冥想/佛教-冥想-Buddhism_Samatha_Vipassana.md) — 禅修神经机制与生物反馈的理论基础
 - [熏习临床转化](../习气/佛教-习气-Vasana_Clinical_Applications.md) — 佛教种子理论在数字行为干预中的应用可能

@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-18"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 基督教默观 | 基督教默观
 
@@ -20,7 +23,7 @@ auto_generated: true
 - [传统-亚伯拉罕宗教-基督教默观-Christian冥想总览.md](传统-亚伯拉罕宗教-基督教默观-Christian冥想总览.md)
 - [传统-亚伯拉罕宗教-基督教默观-Christian实用指南.md](传统-亚伯拉罕宗教-基督教默观-Christian实用指南.md)
 - [传统-亚伯拉罕宗教-基督教默观-基督教冥想_INDEX.md](传统-亚伯拉罕宗教-基督教默观-基督教冥想_INDEX.md)
-- [传统-亚伯拉罕宗教-基督教默观-基督教冥想_INDEX_en.md](传统-亚伯拉罕宗教-基督教默观-基督教冥想_INDEX_en.md)
+- [传统-亚伯拉罕宗教-基督教默观-基督教冥想_INDEX_en.md](%E4%BC%A0%E7%BB%9F-%E4%BA%9A%E4%BC%AF%E6%8B%89%E7%BD%95%E5%AE%97%E6%95%99-%E5%9F%BA%E7%9D%A3%E6%95%99%E9%BB%98%E8%A7%82-%E5%9F%BA%E7%9D%A3%E6%95%99%E5%86%A5%E6%83%B3_INDEX.md)
 
 
 ---

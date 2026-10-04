@@ -25,7 +25,11 @@ cross_refs:
   relation: 正念/觉察/sati
 - path: 02-心智心理/冥想/直接认知冥想课程/01-Course1-执行师/练习课/正念喝水.md
   relation: 正念/觉察/专注
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # Mindful Daily Living (正念日常实践)
 
 ## 核心术语与词源表 (Core Terminology & Etymology)

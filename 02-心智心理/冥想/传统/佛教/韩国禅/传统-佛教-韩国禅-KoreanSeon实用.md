@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 01-智慧传统/宗教/佛教/经论/佛教-经论-Zen_Meditation_Methods.md
   relation: 话头/坐禅/默照
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 韩国禅（Korean Seon）实修指南
 
 > **最后更新：** 2026-05

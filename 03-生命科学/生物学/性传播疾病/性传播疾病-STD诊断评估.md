@@ -13,7 +13,11 @@ intent_queries:
   - "Sexually Transmitted Diseases Diagnosis and Assessment的方法与实践"
 trigger_keywords: ["Sexually", "Transmitted", "Diseases", "Diagnosis", "and"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Sexually Transmitted Diseases Diagnosis and Assessment (性传播疾病诊断评估)
 
 > 🧪 **诊断指南**: 本文档详细介绍性传播疾病的诊断方法、实验室检测技术、影像学检查和鉴别诊断策略。建议结合[临床表现](性传播疾病-STD临床Features.md)和[治疗管理](性传播疾病-STD治疗管理.md)文档进行系统学习。

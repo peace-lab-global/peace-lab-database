@@ -13,7 +13,11 @@ intent_queries:
   - "色情文学成瘾临床评估与诊断的方法与实践"
 trigger_keywords: ["色情文学成瘾临床评估与诊断", "Erotic", "Literature", "Addiction", "Clinical"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾临床评估与诊断 (Erotic Literature Addiction Clinical Assessment and Diagnosis)
 
 > 🎯 **评估指导**: 本文档提供色情文学成瘾的系统性临床评估框架和诊断工具。建议结合[概览文档](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Addiction_Overview.md)了解基础概念，参考[治疗干预](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Treatment_Interventions.md)制定治疗方案。

@@ -374,7 +374,7 @@ MIOME评估
 - [MBSR项目全景概述](临床-正念减压课程-MBSR_Program_Overview.md)
 - [MBSR八周课程设计](临床-正念减压课程-MBSR_Weekly_Curriculum.md)
 - [冥想执行师评估与进阶](../../基础/修行者培训/基础-Practitioner评估Progression.md)
-- [冥想临床应用](../../基础/总览与理论/基础-总览-Meditation_Clinical_Applications.md)
+- [冥想临床应用](../../%E5%9F%BA%E7%A1%80/%E6%80%BB%E8%A7%88%E4%B8%8E%E7%90%86%E8%AE%BA/%E5%9F%BA%E7%A1%80-%E6%80%BB%E8%A7%88-%E5%86%A5%E6%83%B3%E4%B8%B4%E5%BA%8AApplications.md)
 - [冥想不良反应](../安全/临床-安全-Meditation_Adverse_Effects.md)
 
 ---

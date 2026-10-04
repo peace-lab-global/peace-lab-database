@@ -27,7 +27,11 @@ cross_refs:
   relation: 测量/研究/methods
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Research_Methods.md
   relation: 研究/测量/data
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Research Methods and Measurement Tools in Sexuality (性学研究方法与测量工具)
 
 ## 性学研究设计类型与适用场景 (Research Design Types and Applications)

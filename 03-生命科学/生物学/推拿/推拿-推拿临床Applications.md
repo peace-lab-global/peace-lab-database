@@ -13,7 +13,11 @@ intent_queries:
   - "Tuina Clinical Treatment Applications的方法与实践"
 trigger_keywords: ["cardiovascular", "Tuina", "Clinical", "Treatment", "Applications"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Tuina Clinical Treatment Applications (推拿临床治疗应用)
 
 > 🏥 **临床概览**: 本文档系统阐述中医推拿在各科疾病中的临床应用，包括内科、外科、妇科、儿科、骨伤科等各个领域的治疗方案。基于循证医学证据和临床实践经验，提供标准化的诊疗流程和个性化的治疗策略。

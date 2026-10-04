@@ -13,7 +13,11 @@ intent_queries:
   - "STD Clinical Decision Support Toolkit的方法与实践"
 trigger_keywords: ["STD", "Clinical", "Decision", "Support", "Toolkit"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # STD Clinical Decision Support Toolkit (性传播疾病临床决策支持工具箱)
 
 > 🛠️ **实用工具**: 本文档提供性传播疾病诊疗的实用工具、计算器、流程图和决策支持资源，帮助临床医师提高诊疗效率和准确性。

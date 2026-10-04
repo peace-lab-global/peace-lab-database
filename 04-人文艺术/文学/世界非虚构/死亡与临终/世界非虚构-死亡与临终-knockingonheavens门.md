@@ -13,7 +13,11 @@ intent_queries:
   - "《敲天堂的门》Knocking on Heaven's Door的方法与实践"
 trigger_keywords: ["decision-making", "《敲天堂的门》Knocking", "on", "Heaven's", "Door"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《敲天堂的门》Knocking on Heaven's Door
 
 > 凯蒂·巴特勒（Katy Butler）著，2013年出版。记者巴特勒记录了自己父母晚年面对美国医疗体系的经历——父亲在78岁时安装了心脏起搏器，本应在数月内去世的他被技术"维持"了六年，期间经历了痴呆、失禁和无尽的痛苦。巴特勒追问：谁有权决定何时停止技术干预？

@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/冥想/传统/道家冥想/INDEX.md
   relation: taoist/道家
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # Dao in Modern Life (道家美学与现代生活)
 
 ### Taoist Aesthetic Values (道家美学核心价值观表)

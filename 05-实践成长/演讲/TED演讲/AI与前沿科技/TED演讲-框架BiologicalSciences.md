@@ -13,7 +13,11 @@ intent_queries:
   - "生物科学 | Biological Sciences Framework的方法与实践"
 trigger_keywords: ["生物科学", "Biological", "Sciences", "Framework"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 生物科学 | Biological Sciences Framework
 
 > **生物科学**（Biological Sciences）研究生命的分子机制、细胞功能、有机体发育和生态系统动态。从CRISPR基因编辑的革命性突破到微生物组（Microbiome）的惊人发现，从合成生物学（Synthetic Biology）的工程化生命到生物多样性保护的紧迫性，生物科学正在经历前所未有的变革时代。本文件精选TED平台上关于生物科学的代表性演讲，展示生命科学的前沿进展和深远影响。

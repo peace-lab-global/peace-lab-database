@@ -13,7 +13,11 @@ intent_queries:
   - "Dating Psychology & Interpersonal Attraction Overview的方法与实践"
 trigger_keywords: ["Dating", "Psychology", "Interpersonal", "Attraction", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Dating Psychology & Interpersonal Attraction Overview (约会心理学与人际吸引概览)
 
 > 📘 **文档导航**: 本概览文档提供约会心理学的核心概念和理论框架。如需深入了解特定领域，请参考相应专题文档：

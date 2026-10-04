@@ -14,7 +14,11 @@ intent_queries:
   - "谈判心理学与策略 | Negotiation Psychology & Strategy的自助方法"
 trigger_keywords: ["谈判心理学与策略", "Negotiation", "Psychology", "Strategy"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 谈判心理学与策略 | Negotiation Psychology & Strategy
 
 > **学科定位**: 行为经济学 x 社会心理学 x 冲突解决

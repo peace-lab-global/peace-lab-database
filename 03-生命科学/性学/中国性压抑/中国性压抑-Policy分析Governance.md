@@ -13,7 +13,11 @@ intent_queries:
   - "政策法规与治理机制分析的方法与实践"
 trigger_keywords: ["政策法规与治理机制分析", "Policy", "Analysis", "and", "Governance"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # 政策法规与治理机制分析 (Policy Analysis and Governance Mechanisms)
 
 > 📘 **文档导航**: 本专题系统分析中国现行法律法规、政策制度对性压抑现象的影响机制和治理路径。如需了解其他相关内容，请参考：

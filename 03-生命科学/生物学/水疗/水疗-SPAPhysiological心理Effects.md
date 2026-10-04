@@ -13,7 +13,11 @@ intent_queries:
   - "SPA Physiological & Psychological Effects的方法与实践"
 trigger_keywords: ["SPA", "Physiological", "Psychological", "Effects", "SPA生理心理效应机制"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # SPA Physiological & Psychological Effects (SPA生理心理效应机制)
 
 > 🧠 **科学概览**: 本文档基于现代神经科学、内分泌学和心理学研究成果，深入解析SPA治疗对人体生理和心理系统的多重作用机制。涵盖神经系统调节、内分泌平衡、免疫功能增强、心理状态改善等核心机制。

@@ -14,7 +14,11 @@ intent_queries:
   - "《心理的原型维度》Archetypal Dimensions of the Psyche的自助方法"
 trigger_keywords: ["jung", "religion"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《心理的原型维度》Archetypal Dimensions of the Psyche
 
 > 玛丽-路易丝·冯·弗朗茨（Marie-Louise von Franz）著，1997年出版。荣格最重要的弟子之一，分析心理学的杰出代表。这本书系统阐述了原型在梦境、童话、炼金术和宗教中的运作方式。冯·弗朗茨以其无与伦比的原型分析能力，成为荣格学派中最受尊敬的理论家。

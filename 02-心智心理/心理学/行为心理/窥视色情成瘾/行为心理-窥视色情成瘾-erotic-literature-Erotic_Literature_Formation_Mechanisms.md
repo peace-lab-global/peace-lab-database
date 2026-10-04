@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 03-生命科学/性学/权威情结/权威情结-FormationMechanisms分析.md
   relation: formation/mechanisms/multilevel
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾形成机制分析 (Erotic Literature Addiction Formation Mechanisms Analysis)
 
 > 🔬 **机制研究前沿**: 本文档深入分析色情文学成瘾的多层次形成机制，整合认知-情感-社会-技术(CAST)模型，为预防和治疗提供科学依据。建议结合[神经科学基础](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Neuroscience_Biology.md)了解生物学机制，参考[临床评估](行为心理-窥视色情成瘾-erotic-literature-Erotic_Literature_Clinical_Assessment.md)掌握诊断应用。

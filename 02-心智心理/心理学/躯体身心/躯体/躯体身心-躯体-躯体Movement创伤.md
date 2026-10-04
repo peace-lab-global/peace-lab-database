@@ -13,7 +13,11 @@ intent_queries:
   - "Trauma & Expression的方法与实践"
 trigger_keywords: ["Trauma", "Expression", "创伤释放与表达性运动"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # Trauma & Expression (创伤释放与表达性运动)
 
 ### TRE: Tension & Trauma Releasing (TRE：张力与创伤释放技术表)

@@ -14,7 +14,11 @@ intent_queries:
   - "檀香疗法分类与类型的循证证据"
 trigger_keywords: ["檀香疗法分类与类型", "Incense", "Types", "Classification"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 檀香疗法分类与类型 (Incense Types & Classification)
 
 > **目标**：系统分类各类香料、香品形态、制作工艺及应用场景，提供专业的三语对照分类体系。

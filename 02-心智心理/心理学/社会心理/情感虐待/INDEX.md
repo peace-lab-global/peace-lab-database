@@ -5,7 +5,10 @@ category: "目录索引"
 tags: ["index", "directory"]
 last_updated: "2026-07-17"
 auto_generated: true
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
 
 # 情感虐待 | 情感虐待
 
@@ -18,7 +21,7 @@ auto_generated: true
 - [社会心理-情感虐待-Emotional_Abuse_Dynamics.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85%E5%8A%A8%E6%80%81.md)
 - [社会心理-情感虐待-Emotional_Abuse_Overview.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85%E6%80%BB%E8%A7%88.md)
 - [社会心理-情感虐待-Emotional_Abuse_Prevention_Strategies.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85%E9%A2%84%E9%98%B2Strategies.md)
-- [社会心理-情感虐待-Emotional_Abuse_Treatment_Methods.md](社会心理-情感虐待-Emotional_Abuse_Treatment_Methods.md)
+- [社会心理-情感虐待-Emotional_Abuse_Treatment_Methods.md](%E7%A4%BE%E4%BC%9A%E5%BF%83%E7%90%86-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85-%E6%83%85%E6%84%9F%E8%99%90%E5%BE%85%E6%B2%BB%E7%96%97Methods.md)
 - [社会心理-情感虐待-情感虐待临床管理.md](社会心理-情感虐待-情感虐待临床管理.md)
 - [社会心理-情感虐待-情感虐待动态.md](社会心理-情感虐待-情感虐待动态.md)
 - [社会心理-情感虐待-情感虐待总览.md](社会心理-情感虐待-情感虐待总览.md)

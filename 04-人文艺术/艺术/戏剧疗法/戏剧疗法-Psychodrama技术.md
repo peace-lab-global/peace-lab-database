@@ -14,7 +14,11 @@ intent_queries:
   - "心理剧核心技术详解 | Psychodrama Core Techniques的自助方法"
 trigger_keywords: ["心理剧核心技术详解", "Psychodrama", "Core", "Techniques"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 心理剧核心技术详解 | Psychodrama Core Techniques
 
 > **文档定位**: J.L. Moreno心理剧体系中的核心技术操作详解与临床应用

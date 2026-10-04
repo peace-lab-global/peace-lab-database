@@ -19,7 +19,11 @@ cross_refs:
   relation: 书法/c全部igraphy
 - path: 01-智慧传统/宗教/智慧传统/智慧EastAsian书法Way/智慧传统-智慧EastAsian书法Way.md
   relation: 书法/c全部igraphy
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 书法疗愈临床应用 | Calligraphy Clinical Applications
 
 > **文档定位**: 书法疗愈在各类临床情境中的系统化应用方案与效果评估

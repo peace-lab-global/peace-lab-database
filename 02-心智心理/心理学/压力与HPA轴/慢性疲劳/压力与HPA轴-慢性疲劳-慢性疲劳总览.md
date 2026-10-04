@@ -13,7 +13,11 @@ intent_queries:
   - "慢性疲劳综合征概览的方法与实践"
 trigger_keywords: ["慢性疲劳综合征概览", "Chronic", "Fatigue", "Syndrome", "Overview"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 慢性疲劳综合征概览 (Chronic Fatigue Syndrome Overview)
 
 > 慢性疲劳综合征(CFS)，现更多被称为肌痛性脑脊髓炎/慢性疲劳综合征(ME/CFS)，是一种复杂的多系统疾病，以持续性、不可解释的严重疲劳为主要特征，伴随认知障碍、睡眠问题和劳后不适，严重影响患者生活质量。

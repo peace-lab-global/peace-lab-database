@@ -13,7 +13,11 @@ intent_queries:
   - "Masturbation and Intimate Relationships的方法与实践"
 trigger_keywords: ["Masturbation", "and", "Intimate", "Relationships", "自慰与亲密关系的相互影响"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # Masturbation and Intimate Relationships (自慰与亲密关系的相互影响)
 
 > 基于关系心理学与伴侣治疗研究，系统分析自慰行为对亲密关系的多维影响路径。内容涵盖伴侣态度差异、关系满意度影响、共同自慰的亲密功能及色情内容的调节作用。

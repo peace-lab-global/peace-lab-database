@@ -18,7 +18,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/灵性佛教/the/世界非虚构-灵性佛教-the-tibetan-yogas-of-dream-and-sleep.md
   relation: dream/瑜伽/藏传
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 清醒梦 | Lucid Dreaming
 
 > **学科定位**: 意识研究 × 认知神经科学 × 冥想传统

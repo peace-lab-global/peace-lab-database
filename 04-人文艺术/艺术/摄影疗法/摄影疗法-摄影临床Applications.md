@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/临床/抑郁/INDEX.md
   relation: 抑郁/悲伤/青少年
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 摄影疗愈临床应用 | Photography Clinical Applications
 
 > **文档定位**: 摄影疗愈在各临床群体中的循证应用与效果研究

@@ -25,7 +25,11 @@ cross_refs:
   relation: 咖啡/caffeine/use
 - path: 02-心智心理/心理学/行为心理/成瘾/行为心理-成瘾-Addiction_Caffeine_Coffee.md
   relation: caffeine/咖啡/use
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Coffee & Mental Health Clinical Applications (咖啡与心理健康临床应用)
 
 **重要提醒**：关于咖啡因使用障碍的详细诊断、评估和治疗方案，请参考专门的 [咖啡因成瘾与咖啡使用障碍文档](../../../02-心智心理/心理学/行为心理/成瘾/行为心理-成瘾-成瘾CaffeineCoffee.md)。本文档主要关注咖啡因对各类精神障碍的影响。

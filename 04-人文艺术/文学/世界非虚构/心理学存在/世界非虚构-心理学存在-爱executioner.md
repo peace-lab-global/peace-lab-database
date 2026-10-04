@@ -13,7 +13,11 @@ intent_queries:
   - "《爱情刽子手》Love's Executioner的方法与实践"
 trigger_keywords: ["grief", "《爱情刽子手》Love's", "Executioner"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《爱情刽子手》Love's Executioner
 
 > 欧文·亚隆（Irvin D. Yalom）著，1989年出版。亚隆最早的故事集，十个心理治疗案例的详细记录——每一个都涉及"爱"的某种面向：对母亲的爱、对配偶的爱、对陌生人的爱、对自己的爱。副标题是"和其他存在主义治疗的故事"。

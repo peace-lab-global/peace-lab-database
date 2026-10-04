@@ -14,7 +14,11 @@ intent_queries:
   - "职业心理学评估工具与测量标准的自助方法"
 trigger_keywords: ["职业心理学评估工具与测量标准", "Vocational", "Psychology", "Assessment", "Tools"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 职业心理学评估工具与测量标准 (Vocational Psychology Assessment Tools & Standards)
 
 > 📘 **文档导航**: 本指南详细介绍职业心理学的核心评估工具、测量标准和质量控制体系。相关文档：

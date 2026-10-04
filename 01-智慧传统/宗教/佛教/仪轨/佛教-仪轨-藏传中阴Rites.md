@@ -26,7 +26,11 @@ cross_refs:
   relation: bardo/藏传/藏传
 - path: 04-人文艺术/文学/世界非虚构/西藏生死书/世界非虚构-西藏生死书-Phowa_Consciousness_Transfer.md
   relation: 临终/藏传/死亡
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 藏传佛教中阴度亡仪轨 (Tibetan Bardo Liberation Rituals)
 
 > **中阴救度 (Bardo Thodrol / Bar Do Thos Grol)**：藏传佛教最独特的度亡体系，以《中阴闻教得度》（西藏度亡经）为核心，指导亡者在中阴阶段认识自性光明，获得解脱或往生善道。

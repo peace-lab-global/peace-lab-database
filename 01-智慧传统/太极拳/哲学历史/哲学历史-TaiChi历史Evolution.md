@@ -22,7 +22,11 @@ cross_refs:
   relation: 太极/chi/tai
 - path: 02-心智心理/心理学/躯体身心/躯体/躯体身心-躯体-Somatic_Movement_Oriental.md
   relation: 太极/chi/tai
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 太极拳历史演变 | Tai Chi Historical Evolution
 
 > 太极拳的历史横跨六百年，从道观中的内丹修炼到全球数亿人的日常健身，其演变过程本身就是中华文明现代转型的缩影。

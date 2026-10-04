@@ -22,7 +22,11 @@ cross_refs:
   relation: nvc/非暴力沟通/rosenberg
 - path: 02-心智心理/心理学/应用心理/亲密关系/婚姻/应用心理-亲密关系-婚姻-婚姻沟通.md
   relation: nvc/非暴力沟通/沟通
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # 非暴力沟通概述 | Nonviolent Communication Overview
 
 > 非暴力沟通(Nonviolent Communication, NVC)由美国心理学家Marshall B. Rosenberg于20世纪60年代创立,是一套以同理心(Empathy)为核心的对话体系。NVC认为,人际冲突的根源不在于需求本身,而在于表达和满足需求的方式。通过观察(Observation)、感受(Feeling)、需要(Need)、请求(Request)四步模型,NVC帮助人们从评判与指责转向理解与连接,在亲密关系、职场协作、跨文化对话等场景中广泛应用。

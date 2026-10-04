@@ -19,7 +19,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/死亡与临终/世界非虚构-死亡与临终-漫长的告别.md
   relation: 哀伤/goodbye/long
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Dementia & End-of-Life Consciousness (失智症与临终意识)
 
 > *"The long goodbye is not a single loss, but a thousand small deaths."*

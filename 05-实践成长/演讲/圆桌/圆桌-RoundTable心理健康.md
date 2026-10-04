@@ -25,7 +25,11 @@ cross_refs:
   relation: 倦怠/burnout/table
 - path: 02-心智心理/心理学/应用心理/职业倦怠/应用心理-职业倦怠-Occupational_Burnout_Cross_Reference_Analysis.md
   relation: 倦怠/burnout/焦虑
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../规范/CRISIS_RESOURCES.md)。
+
 # 心理健康圆桌 | Mental Health Round Table
 
 > 心理健康(Mental Health)是全球公共卫生的重要议题。世界卫生组织(WHO)数据显示,全球约有3亿人受抑郁症困扰,2.6亿人受焦虑症影响。在中国,心理健康服务的供需缺口仍然显著,而污名化(Stigma)问题更是阻碍求助的首要障碍。本圆桌讨论集汇心理学研究者、临床工作者、社区工作者和有亲身经历者的多元视角,深入探讨焦虑(Anxiety)、抑郁(Depression)、职业倦怠(Burnout)、心理治疗可及性(Therapy Access)和去污名化(Stigma Reduction)等核心议题。

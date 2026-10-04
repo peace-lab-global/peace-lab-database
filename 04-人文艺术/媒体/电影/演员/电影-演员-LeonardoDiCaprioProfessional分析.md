@@ -13,7 +13,11 @@ intent_queries:
   - "Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命的方法与实践"
 trigger_keywords: ["Leonardo", "DiCaprio", "专业分析：从偶像到实力派的华丽转型与环保使命"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # Leonardo DiCaprio 专业分析：从偶像到实力派的华丽转型与环保使命
 
 ## 摘要 (Abstract)

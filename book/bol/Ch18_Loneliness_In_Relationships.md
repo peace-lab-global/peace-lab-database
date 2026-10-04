@@ -209,6 +209,6 @@ intent_queries:
 - [02-心智心理 · 婚内孤独的来源与诱因](../../02-心智心理/心理学/应用心理/亲密关系/婚姻/婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Sources.md)
 - [02-心智心理 · 婚内孤独的缓解与干预](../../02-心智心理/心理学/应用心理/亲密关系/婚姻/婚姻孤独/应用心理-亲密关系-婚姻-婚姻孤独-Marital_Loneliness_Relief.md)
 - [02-心智心理 · 孤独的人格与依恋](../../02-心智心理/心理学/社会心理/孤独/社会心理-孤独-孤独PersonalityAttachment.md)
-- [04-人文艺术 · 围城：婚姻是一种「围城心态」](../../04-人文艺术/文学/中国现代文学/当代/fortress/中国现代文学-当代-fortress-besieged-Siege_Mentality.md)
+- [04-人文艺术 · 围城：婚姻是一种「围城心态」](../../04-%E4%BA%BA%E6%96%87%E8%89%BA%E6%9C%AF/%E6%96%87%E5%AD%A6/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6/%E5%BD%93%E4%BB%A3/%E5%9B%B4%E5%9F%8E/%E4%B8%AD%E5%9B%BD%E7%8E%B0%E4%BB%A3%E6%96%87%E5%AD%A6-%E5%BD%93%E4%BB%A3-%E5%9B%B4%E5%9F%8E-%E5%9B%B4%E5%9F%8E%E5%BF%83%E6%80%81.md)
 - 上述知识库条目未经本轮核验，它们是本库的其他部分，不构成本章的依据。
 - 姊妹篇：[平静之书 · 第十九章 关系的平静](../bop/Ch19_Relationships_Peace.md)｜[力量之书 · 第十九章 坚持与协商](../bos/Ch19_Assertiveness_And_Negotiation.md)

@@ -13,7 +13,11 @@ intent_queries:
   - "Tuina Manipulation Techniques Classification & Standards的方法与实践"
 trigger_keywords: ["Tuina", "Manipulation", "Techniques", "Classification", "Standards"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **健康信息声明**：本文档仅供学习与研究，不构成医疗建议。涉及断食、营养、补剂或生理指标的内容存在个体差异与禁忌人群，实践前请咨询医生，有基础疾病、孕期或服药者尤其如此。
+
 # Tuina Manipulation Techniques Classification & Standards (推拿手法技术分类与操作规范)
 
 > 🏥 **技术概览**: 本文档系统阐述中医推拿手法的技术分类体系、标准操作规范、力学参数要求和临床应用要点。通过科学规范的手法技术体系，确保推拿治疗的安全性和有效性。

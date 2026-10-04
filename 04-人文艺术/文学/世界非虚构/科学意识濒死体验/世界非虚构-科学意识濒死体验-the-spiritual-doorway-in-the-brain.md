@@ -10,7 +10,10 @@ estimated_read_time: 5min
 cross_refs:
 - path: 04-人文艺术/文学/世界非虚构/科学意识濒死体验/世界非虚构-科学意识濒死体验-大脑中的灵性之门.md
   relation: 中译本/深度书评
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
 
 # The Spiritual Doorway in the Brain 导读 | 凯文·尼尔森
 
@@ -33,6 +36,6 @@ cross_refs:
 ## 延伸阅读
 
 - [中译本深度书评：大脑中的灵性之门](世界非虚构-科学意识濒死体验-大脑中的灵性之门.md)
-- [《Life After Life》：穆迪的濒死体验经典](世界非虚构-科学意识濒死体验-life-after-life.md)
+- [《Life After Life》：穆迪的濒死体验经典](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E7%94%9F%E6%B4%BBafter%E7%94%9F%E6%B4%BB.md)
 - [《Proof of Heaven》：神经外科医生的亲历叙述](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E5%A4%A9%E5%A0%82%E7%9A%84%E8%AF%81%E6%8D%AE.md)
 - [《Consciousness Explained》：丹尼特的意识理论](%E4%B8%96%E7%95%8C%E9%9D%9E%E8%99%9A%E6%9E%84-%E7%A7%91%E5%AD%A6%E6%84%8F%E8%AF%86%E6%BF%92%E6%AD%BB%E4%BD%93%E9%AA%8C-%E6%84%8F%E8%AF%86explained.md)

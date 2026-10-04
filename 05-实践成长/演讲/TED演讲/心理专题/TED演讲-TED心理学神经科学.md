@@ -14,7 +14,11 @@ intent_queries:
   - "TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection的自助方法"
 trigger_keywords: ["TED心理学与神经科学精选", "TED", "Psychology", "Neuroscience", "Collection"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：本文档为自助性质的学习材料，不构成心理治疗或医疗建议；若困扰持续或加重，请寻求专业帮助。
+
 # TED心理学与神经科学精选 | TED Psychology & Neuroscience Collection
 
 > **心理学与神经科学**是理解人类行为、思维和情感的核心学科。本文件精选TED平台上最具影响力的心理学与神经科学演讲，涵盖认知科学、发展心理学、社会心理学、临床心理学等各个分支，为学习者提供前沿的科学洞见和实用的心理学知识。

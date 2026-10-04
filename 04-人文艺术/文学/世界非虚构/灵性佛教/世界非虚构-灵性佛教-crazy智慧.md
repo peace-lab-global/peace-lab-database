@@ -19,7 +19,11 @@ cross_refs:
   relation: 死亡/佛教/藏传
 - path: 02-心智心理/冥想/传统/大师/传统-大师-藏传-Chogyam_Trungpa.md
   relation: gyam/trungpa/ch
+disclaimer: true
 ---
+
+> ⚠️ **边界声明**：艺术体验可以陪伴情绪、提供支持，但本文档中的音乐/电影/艺术内容**不构成心理治疗**，不能替代专业干预。若您正在经历持续的心理困扰，请寻求专业帮助。
+
 # 《狂智》Crazy Wisdom
 
 > 邱阳·创巴仁波切（Chögyam Trungpa Rinpoche）著，1991年出版。创巴仁波切对"狂智"（Crazy Wisdom）传统的深入阐述——一种通过非常规行为来打破学生概念执着的教学方法。不是 clinical 的疯狂，而是**超越常规概念的智慧表达**。

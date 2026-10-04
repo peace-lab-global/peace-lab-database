@@ -24,7 +24,11 @@ cross_refs:
   relation: hpa/皮质醇/皮质醇
 - path: 03-生命科学/生物学/HPA轴/HPA轴-HPA轴Axis压力Response.md
   relation: 应激/stress/hpa
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 皮质醇概览 (Cortisol Overview / Cortisol Conspectus)
 
 ## 核心术语与词源 (Core Terminology & Etymology)

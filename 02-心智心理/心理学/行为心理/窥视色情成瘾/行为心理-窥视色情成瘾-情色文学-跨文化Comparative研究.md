@@ -21,7 +21,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/心理学/行为心理/窥视色情成瘾/行为心理-窥视色情成瘾-erotic-literature-Cross_Cultural_Comparative_Study.md
   relation: comparative/跨文化/study
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 色情文学成瘾跨文化比较研究 (Cross-Cultural Comparative Study of Erotic Literature Addiction)
 
 > 🌍 **文化视角**: 本文档提供色情文学成瘾的跨文化比较分析框架，涵盖不同文化背景下的表现差异、影响因素和干预策略。建议结合[预防教育](行为心理-窥视色情成瘾-情色文学-情色文学预防Education.md)了解文化适宜性干预方法，参考[形成机制](行为心理-窥视色情成瘾-情色文学-情色文学FormationMechanisms.md)理解文化调节作用。

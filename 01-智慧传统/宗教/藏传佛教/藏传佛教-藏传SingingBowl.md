@@ -20,7 +20,11 @@ trigger_keywords:
 cross_refs:
 - path: 02-心智心理/疗法/感官自然/感官/感官自然-感官-Sensory_Sound_Medicine.md
   relation: bowl/singing/sound
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 西藏颂钵疗愈 (Tibetan Singing Bowl Therapy)
 
 > **西藏颂钵 (Tibetan Singing Bowl)**：源于喜马拉雅地区的金属钵器，通过敲击或摩擦边缘产生持续振动与泛音。

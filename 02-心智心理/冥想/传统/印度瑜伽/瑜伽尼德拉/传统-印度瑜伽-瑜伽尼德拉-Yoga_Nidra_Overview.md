@@ -23,7 +23,11 @@ cross_refs:
   relation: 瑜伽/nidra/冥想
 - path: 01-智慧传统/瑜伽/大师/现代先驱/大师-现代先驱-Sivananda.md
   relation: swami/satyananda/瑜伽
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。
+
 # 瑜伽尼德拉概述 | Yoga Nidra Overview
 
 > **文档类型**: 传统冥想系统介绍 | Tradition Introduction

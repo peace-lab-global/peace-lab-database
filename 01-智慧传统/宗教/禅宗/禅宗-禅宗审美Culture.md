@@ -22,7 +22,11 @@ cross_refs:
   relation: 禅宗/禅宗/pillars
 - path: 04-人文艺术/文学/中国现代文学/当代/the/中国现代文学-当代-the-distant-savior-Zen_Business_Philosophy.md
   relation: 禅宗/禅宗
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Aesthetics & Modernity (禅宗美学与现代整合)
 
 ### Zen Aesthetic Principles (禅宗美学七原则 - 7 Pillars)

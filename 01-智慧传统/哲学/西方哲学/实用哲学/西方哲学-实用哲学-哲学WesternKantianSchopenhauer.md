@@ -13,7 +13,11 @@ intent_queries:
   - "Western Philosophy: Kantian & Schopenhauerian Thought的方法与实践"
 trigger_keywords: ["Western", "Philosophy:", "Kantian", "Schopenhauerian", "Thought"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # Western Philosophy: Kantian & Schopenhauerian Thought (西方哲学：康德与叔本华思想)
 
 ### I. Immanuel Kant: The Critique of Pure Reason (伊曼努尔·康德：纯粹理性批判)

@@ -22,7 +22,11 @@ trigger_keywords:
 cross_refs:
 - path: 04-人文艺术/艺术/艺术疗法/艺术疗法-艺术疗法总览.md
   relation: development/评估/theoretical
+disclaimer: true
 ---
+
+> ⚠️ **临床免责声明**：本文档仅供学习与研究，不构成医疗建议。诊断与治疗须由合格的精神科医生或临床心理师做出；文中剂量、频率、疗程等数据仅为学术参考，不可据此自行诊断或用药。如您或身边的人正处于心理危机，请立即拨打 **120**（医疗急救）/**110**（人身安全）或全国统一心理援助热线 **12356**；资源清单见 [规范/CRISIS_RESOURCES.md](../../../../规范/CRISIS_RESOURCES.md)。
+
 # 儿童发展心理评估 (Child Development Psychological Assessment)
 
 > **目标**：构建完整的儿童发展心理评估体系，涵盖评估理论、工具方法、实施流程及结果应用。为儿童提供科学化的发展评估支持，促进个性化教育和早期干预。

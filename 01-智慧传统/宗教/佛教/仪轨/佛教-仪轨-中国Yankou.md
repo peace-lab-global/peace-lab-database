@@ -13,7 +13,11 @@ intent_queries:
   - "汉传佛教瑜伽焰口施食仪轨的方法与实践"
 trigger_keywords: ["汉传佛教瑜伽焰口施食仪轨", "Chinese", "Yogacara", "Flaming", "Mouth"]
 cross_refs: []
+disclaimer: true
 ---
+
+> ⚠️ **传统医学语境声明**：本文档内容出自中医/道家/瑜伽等传统理论体系，其中经络、气血、排毒、脉轮等概念属传统语境的描述框架，**不是现代解剖学或生理学事实**，相关养生方法不能替代医疗诊断与治疗。身体不适请就医。
+
 # 汉传佛教瑜伽焰口施食仪轨 (Chinese Yogacara Flaming Mouth Ritual)
 
 > **瑜伽焰口 (Yogacara Flaming Mouth / Yankou)**：汉传佛教最普及的度亡施食仪轨，源于唐代不空三藏译《佛说救拔焰口饿鬼陀罗尼经》。通过观想、持咒、施食，救度饿鬼道中受苦众生。
